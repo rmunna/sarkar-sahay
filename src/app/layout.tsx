@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     template: "%s — SarkarSahay",
   },
   description:
-    "Clear, accurate, step-by-step guides for Indian government services — Aadhaar, PAN, Ration Card, Schemes, Jobs, Exams & more. Always updated.",
+    "Clear, accurate, step-by-step guides for Indian government services — Aadhaar, PAN, Ration Card, Schemes, Jobs, Exams & more.",
   keywords: [
     "government services India",
     "aadhaar card apply",
@@ -18,7 +18,6 @@ export const metadata: Metadata = {
     "sarkari yojana",
     "government schemes",
     "sarkari naukri",
-    "government jobs India",
   ],
   metadataBase: new URL(BASE_URL),
   openGraph: {
@@ -29,52 +28,100 @@ export const metadata: Metadata = {
     locale: "en_IN",
     type: "website",
   },
-  robots: {
-    index: true,
-    follow: true,
-  },
+  robots: { index: true, follow: true },
 };
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+          rel="stylesheet"
+        />
       </head>
-      <body className="bg-white text-gray-900 antialiased min-h-screen flex flex-col">
-        <header className="border-b border-gray-200 bg-white sticky top-0 z-50">
-          <nav className="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between">
-            <a href="/" className="text-2xl font-bold text-orange-600">
-              🏛️ SarkarSahay
+      <body className="bg-gray-50 text-gray-900 antialiased min-h-screen flex flex-col">
+        {/* Header */}
+        <header className="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-sm">
+          <nav className="max-w-6xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
+            <a href="/" className="flex items-center gap-2 group">
+              <span className="text-2xl">🏛️</span>
+              <span className="text-xl font-extrabold text-gray-900 group-hover:text-orange-600 transition">
+                Sarkar<span className="text-orange-600">Sahay</span>
+              </span>
             </a>
-            <div className="flex gap-6 text-sm font-medium text-gray-600">
-              <a href="/" className="hover:text-orange-600 transition">
+            <div className="flex gap-1 sm:gap-2">
+              <a
+                href="/"
+                className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition"
+              >
                 Home
               </a>
-              <a href="/categories" className="hover:text-orange-600 transition">
+              <a
+                href="/categories"
+                className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition"
+              >
                 Categories
               </a>
-              <a href="/about" className="hover:text-orange-600 transition">
+              <a
+                href="/about"
+                className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition"
+              >
                 About
               </a>
             </div>
           </nav>
         </header>
-        <main className="max-w-5xl mx-auto px-4 py-8 flex-1 w-full">
+
+        {/* Main */}
+        <main className="max-w-6xl mx-auto px-4 sm:px-6 py-8 flex-1 w-full">
           {children}
         </main>
-        <footer className="border-t border-gray-200 mt-16 py-8 text-center text-sm text-gray-500">
-          <div className="max-w-5xl mx-auto px-4">
-            <p className="mb-2">
-              <strong>Disclaimer:</strong> SarkarSahay is an independent
-              informational website. We are NOT affiliated with any government
-              body. Always verify on official government websites.
-            </p>
-            <p>© 2026 SarkarSahay. All rights reserved.</p>
+
+        {/* Footer */}
+        <footer className="bg-white border-t border-gray-200 mt-auto">
+          <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8">
+            <div className="flex flex-col md:flex-row justify-between gap-6">
+              <div>
+                <div className="flex items-center gap-2 mb-2">
+                  <span className="text-xl">🏛️</span>
+                  <span className="font-bold text-gray-900">
+                    Sarkar<span className="text-orange-600">Sahay</span>
+                  </span>
+                </div>
+                <p className="text-sm text-gray-500 max-w-md">
+                  Clear, step-by-step guides for every Indian government service.
+                  Always accurate. Always updated.
+                </p>
+              </div>
+              <div className="flex gap-8 text-sm">
+                <div>
+                  <h4 className="font-semibold text-gray-900 mb-2">Quick Links</h4>
+                  <div className="flex flex-col gap-1.5 text-gray-500">
+                    <a href="/" className="hover:text-orange-600 transition">Home</a>
+                    <a href="/categories" className="hover:text-orange-600 transition">Categories</a>
+                    <a href="/about" className="hover:text-orange-600 transition">About</a>
+                  </div>
+                </div>
+                <div>
+                  <h4 className="font-semibold text-gray-900 mb-2">Popular</h4>
+                  <div className="flex flex-col gap-1.5 text-gray-500">
+                    <a href="/guide/aadhaar-card-apply-online" className="hover:text-orange-600 transition">Aadhaar Card</a>
+                    <a href="/guide/pan-card-apply-online" className="hover:text-orange-600 transition">PAN Card</a>
+                    <a href="/guide/passport-apply-online" className="hover:text-orange-600 transition">Passport</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="mt-8 pt-6 border-t border-gray-100 text-center">
+              <p className="text-xs text-gray-400 mb-1">
+                <strong>Disclaimer:</strong> SarkarSahay is an independent informational website.
+                Not affiliated with any government body.
+              </p>
+              <p className="text-xs text-gray-400">© 2026 SarkarSahay. All rights reserved.</p>
+            </div>
           </div>
         </footer>
       </body>

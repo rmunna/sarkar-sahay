@@ -1,1 +1,113 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* Custom styles for guide content */
+@layer base {
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+}
+
+@layer components {
+  /* Guide article prose overrides */
+  .guide-content h2 {
+    @apply text-xl font-bold text-gray-900 mt-10 mb-4 pb-2 border-b border-gray-100;
+  }
+
+  .guide-content h3 {
+    @apply text-lg font-semibold text-gray-800 mt-8 mb-3;
+  }
+
+  .guide-content h4 {
+    @apply text-base font-semibold text-gray-700 mt-6 mb-2;
+  }
+
+  .guide-content p {
+    @apply text-gray-700 leading-relaxed mb-4;
+  }
+
+  .guide-content ul, .guide-content ol {
+    @apply mb-4 pl-6;
+  }
+
+  .guide-content li {
+    @apply text-gray-700 mb-2 leading-relaxed;
+  }
+
+  .guide-content ul li {
+    @apply list-disc;
+  }
+
+  .guide-content ol li {
+    @apply list-decimal;
+  }
+
+  .guide-content table {
+    @apply w-full border-collapse rounded-lg overflow-hidden mb-6 text-sm;
+  }
+
+  .guide-content thead {
+    @apply bg-orange-50;
+  }
+
+  .guide-content th {
+    @apply px-4 py-3 text-left font-semibold text-gray-900 border-b-2 border-orange-200;
+  }
+
+  .guide-content td {
+    @apply px-4 py-3 border-b border-gray-100 text-gray-700;
+  }
+
+  .guide-content tr:hover td {
+    @apply bg-gray-50;
+  }
+
+  .guide-content blockquote {
+    @apply border-l-4 border-orange-400 bg-orange-50 px-4 py-3 my-4 rounded-r-lg text-gray-700 text-sm;
+  }
+
+  .guide-content blockquote strong {
+    @apply text-orange-800;
+  }
+
+  .guide-content a {
+    @apply text-orange-600 underline decoration-orange-200 underline-offset-2 hover:decoration-orange-500 transition;
+  }
+
+  .guide-content strong {
+    @apply text-gray-900 font-semibold;
+  }
+
+  .guide-content code {
+    @apply bg-gray-100 px-1.5 py-0.5 rounded text-sm font-mono text-gray-800;
+  }
+
+  .guide-content hr {
+    @apply border-gray-200 my-8;
+  }
+
+  /* Step styling */
+  .guide-content h4:has(+ ol),
+  .guide-content h3:has(+ ol) {
+    @apply text-orange-700;
+  }
+
+  /* Category badge */
+  .category-badge {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold tracking-wide uppercase;
+  }
+
+  /* Card hover effect */
+  .guide-card {
+    @apply block border border-gray-200 rounded-xl p-6 hover:border-orange-300 hover:shadow-md transition-all duration-200 bg-white;
+  }
+
+  /* TOC sidebar */
+  .toc-link {
+    @apply text-sm text-gray-500 hover:text-orange-600 transition block py-1 border-l-2 border-transparent hover:border-orange-400 pl-3;
+  }
+
+  .toc-link.active {
+    @apply text-orange-600 border-orange-500 font-medium;
+  }
+}
