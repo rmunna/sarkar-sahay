@@ -3,6 +3,7 @@ import { getAllGuides, getCategories } from "@/lib/guides";
 const CATEGORY_ICONS: Record<string, string> = {
   "Identity Documents": "🪪",
   "Government Schemes": "🏦",
+  "State Schemes": "🏛️",
   "Tax & Finance": "💰",
   "Jobs & Exams": "📝",
   "Certificates": "📜",
@@ -83,12 +84,17 @@ export default function Home() {
       {/* Latest Guides */}
       <section className="mb-16">
         <div className="flex items-center justify-between mb-6">
-          <h2 className="text-2xl font-bold text-gray-900">Latest Guides</h2>
+          <h2 className="text-2xl font-bold text-gray-900">
+            Latest Guides
+            <span className="text-base font-normal text-gray-400 ml-2">
+              ({allGuides.length} total)
+            </span>
+          </h2>
           <a
             href="/categories"
             className="text-sm text-orange-600 hover:text-orange-700 font-medium"
           >
-            View all →
+            View all {allGuides.length} guides →
           </a>
         </div>
         {guides.length === 0 ? (
@@ -102,28 +108,43 @@ export default function Home() {
             </p>
           </div>
         ) : (
-          <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-            {guides.map((guide) => (
-              <a key={guide.slug} href={`/guide/${guide.slug}`} className="guide-card group">
-                <div className="flex items-center gap-2 mb-3">
-                  <span className="text-lg">{CATEGORY_ICONS[guide.category] || "📋"}</span>
-                  <span className="text-xs font-semibold text-gray-400 uppercase tracking-wide">
-                    {guide.category}
-                  </span>
-                </div>
-                <h3 className="text-base font-bold text-gray-900 group-hover:text-orange-600 transition mb-2 leading-snug">
-                  {guide.title}
-                </h3>
-                <p className="text-sm text-gray-500 mb-3 line-clamp-2">
-                  {guide.description}
-                </p>
-                <div className="flex items-center justify-between text-xs text-gray-400">
-                  <span>Updated: {guide.lastUpdated}</span>
-                  {guide.readingTime && <span>{guide.readingTime}</span>}
-                </div>
-              </a>
-            ))}
-          </div>
+          <>
+            <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+              {guides.map((guide) => (
+                <a key={guide.slug} href={`/guide/${guide.slug}`} className="guide-card group">
+                  <div className="flex items-center gap-2 mb-3">
+                    <span className="text-lg">{CATEGORY_ICONS[guide.category] || "📋"}</span>
+                    <span className="text-xs font-semibold text-gray-400 uppercase tracking-wide">
+                      {guide.category}
+                    </span>
+                  </div>
+                  <h3 className="text-base font-bold text-gray-900 group-hover:text-orange-600 transition mb-2 leading-snug">
+                    {guide.title}
+                  </h3>
+                  <p className="text-sm text-gray-500 mb-3 line-clamp-2">
+                    {guide.description}
+                  </p>
+                  <div className="flex items-center justify-between text-xs text-gray-400">
+                    <span>Updated: {guide.lastUpdated}</span>
+                    {guide.readingTime && <span>{guide.readingTime}</span>}
+                  </div>
+                </a>
+              ))}
+            </div>
+            {allGuides.length > 12 && (
+              <div className="text-center mt-8">
+                <a
+                  href="/categories"
+                  className="inline-flex items-center gap-2 px-8 py-3 bg-orange-600 text-white rounded-xl font-semibold hover:bg-orange-700 transition shadow-sm"
+                >
+                  View All {allGuides.length} Guides
+                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
+                </a>
+              </div>
+            )}
+          </>
         )}
       </section>
 
