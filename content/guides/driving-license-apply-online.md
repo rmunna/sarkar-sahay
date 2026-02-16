@@ -1,9 +1,8 @@
 ---
-title: "How to Apply for Driving License Online — Step-by-Step Guide (2026)"
+title: "How to Apply for Driving License Online — Step-by-Step Guide"
 description: "Complete guide to apply for new driving license online via Parivahan Sewa. Learner's license, documents, fees, and test process."
 category: "Identity Documents"
 keywords: ["driving license apply online", "DL apply online", "Parivahan driving license", "learner's license apply", "driving license fees India"]
-lastUpdated: "2026-02-16"
 readingTime: "7 min"
 officialLinks:
   - https://parivahan.gov.in/parivahan

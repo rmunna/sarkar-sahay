@@ -1,5 +1,5 @@
 ---
-title: "How to Change Address in Aadhaar Card Online and Offline (2025)"
+title: "How to Change Address in Aadhaar Card Online and Offline"
 description: "Step-by-step guide to update or change your address in Aadhaar card online via myAadhaar portal and offline at Aadhaar enrolment centres. Complete list of documents, fees, and tracking process."
 category: "Identity Documents"
 keywords:
@@ -13,7 +13,6 @@ keywords:
   - "aadhaar address update documents"
   - "aadhaar address validation letter"
   - "myaadhaar address update"
-lastUpdated: "2026-02-16"
 readingTime: "8 min read"
 officialLinks:
   - "https://myaadhaar.uidai.gov.in/"

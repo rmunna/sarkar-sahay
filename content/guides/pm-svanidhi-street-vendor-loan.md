@@ -11,7 +11,6 @@ keywords:
   - "SVANidhi online application"
   - "PM SVANidhi eligibility"
   - "vendor loan scheme 2025"
-lastUpdated: "2026-02-16"
 readingTime: "10 min"
 officialLinks:
   - "https://pmsvanidhi.mohua.gov.in"

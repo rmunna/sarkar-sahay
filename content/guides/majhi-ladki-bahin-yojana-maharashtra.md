@@ -1,5 +1,5 @@
 ---
-title: "Majhi Ladki Bahin Yojana Maharashtra — ₹1,500/Month for Women, Apply Online (2026)"
+title: "Majhi Ladki Bahin Yojana Maharashtra — ₹1,500/Month for Women, Apply Online"
 description: "Majhi Ladki Bahin Yojana gives ₹1,500/month to Maharashtra women aged 21-65. Check eligibility, documents, and how to apply online."
 category: "State Schemes"
 keywords:
@@ -11,7 +11,6 @@ keywords:
   - "ladki bahin yojana online apply"
   - "Maharashtra mahila yojana"
   - "ladki bahin yojana status check"
-lastUpdated: "2026-02-16"
 readingTime: "8 min"
 officialLinks:
   - "https://womenchild.maharashtra.gov.in"

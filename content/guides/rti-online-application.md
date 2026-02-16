@@ -18,7 +18,6 @@ keywords:
   - "RTI application online"
   - "RTI first appeal"
   - "RTI exemptions"
-lastUpdated: "2026-02-16"
 readingTime: "12 min read"
 officialLinks:
   - "https://rtionline.gov.in"

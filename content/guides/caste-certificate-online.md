@@ -1,9 +1,8 @@
 ---
-title: "How to Get Caste Certificate Online — Step-by-Step Guide (2026)"
+title: "How to Get Caste Certificate Online — Step-by-Step Guide"
 description: "Complete guide to apply for SC/ST/OBC caste certificate online. State-wise process, documents, eligibility, and verification."
 category: "Certificates"
 keywords: ["caste certificate apply online", "SC ST OBC certificate", "caste certificate documents", "caste certificate verification", "jati praman patra"]
-lastUpdated: "2026-02-16"
 readingTime: "5 min"
 officialLinks:
   - https://edistrict.up.gov.in

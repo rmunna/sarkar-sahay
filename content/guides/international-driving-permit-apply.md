@@ -13,7 +13,6 @@ keywords:
   - "IDP India validity"
   - "how to get international driving licence India"
   - "parivahan IDP apply"
-lastUpdated: "2026-02-16"
 readingTime: "8 min read"
 officialLinks:
   - "https://parivahan.gov.in/parivahan/"

@@ -1,9 +1,8 @@
 ---
-title: "Rythu Bandhu Telangana — Farmer Investment Support Scheme Apply Online (2026)"
+title: "Rythu Bandhu Telangana — Farmer Investment Support Scheme Apply Online"
 description: "Apply for Rythu Bandhu Telangana scheme online. Get ₹10,000/acre/year farmer support. Check eligibility, documents, and status."
 category: "State Schemes"
 keywords: ["Rythu Bandhu apply online", "Rythu Bandhu status check", "Telangana farmer scheme", "Rythu Bandhu eligibility", "Rythu Bandhu 2026"]
-lastUpdated: "2026-02-16"
 readingTime: "6 min"
 officialLinks:
   - https://rythubandhu.telangana.gov.in

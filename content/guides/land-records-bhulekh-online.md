@@ -20,7 +20,6 @@ keywords:
   - "RTC online"
   - "khata certificate"
   - "digital land records India"
-lastUpdated: "2026-02-16"
 readingTime: "12 min"
 officialLinks:
   - "https://upbhulekh.gov.in"

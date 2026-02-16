@@ -1,5 +1,5 @@
 ---
-title: "Ladli Bahna Yojana MP — How to Apply, Eligibility & Status Check (2026)"
+title: "Ladli Bahna Yojana MP — How to Apply, Eligibility & Status Check"
 description: "Ladli Bahna Yojana MP guide — get ₹1,250/month. Check eligibility, apply online or at camps, track status on cmladlibahna.mp.gov.in portal."
 category: "State Schemes"
 keywords:
@@ -13,7 +13,6 @@ keywords:
   - "MP Ladli Bahna online apply"
   - "Ladli Bahna payment status"
   - "मध्य प्रदेश लाड़ली बहना योजना"
-lastUpdated: "2026-02-16"
 readingTime: "10 min"
 officialLinks:
   - "https://cmladlibahna.mp.gov.in"

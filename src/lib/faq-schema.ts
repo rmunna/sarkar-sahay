@@ -43,7 +43,6 @@ export function generateFAQSchema(faqs: FAQItem[]): object | null {
 export function generateArticleSchema(guide: {
   title: string;
   description: string;
-  lastUpdated: string;
   slug: string;
 }): object {
   const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://sarkarsahay.in";
@@ -52,8 +51,6 @@ export function generateArticleSchema(guide: {
     "@type": "Article",
     headline: guide.title,
     description: guide.description,
-    dateModified: guide.lastUpdated,
-    datePublished: guide.lastUpdated,
     author: {
       "@type": "Organization",
       name: "SarkarSahay",

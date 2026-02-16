@@ -1,9 +1,8 @@
 ---
-title: "Kanya Sumangala Yojana UP — How to Apply Online, Eligibility & Benefits (2026)"
+title: "Kanya Sumangala Yojana UP — How to Apply Online, Eligibility & Benefits"
 description: "Apply for Kanya Sumangala Yojana online on mksy.up.gov.in. Get ₹25,000 in 6 installments for your daughter. Full eligibility and process."
 category: "State Schemes"
 keywords: ["kanya sumangala yojana", "kanya sumangala yojana online apply", "mksy up gov in", "कन्या सुमंगला योजना", "kanya sumangala yojana UP 2026", "UP girl child scheme", "mukhyamantri kanya sumangala", "कन्या सुमंगला योजना ऑनलाइन आवेदन", "MKSY UP"]
-lastUpdated: "2026-02-16"
 readingTime: "7 min"
 officialLinks:
   - https://mksy.up.gov.in

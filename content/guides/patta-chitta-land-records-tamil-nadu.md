@@ -1,5 +1,5 @@
 ---
-title: "Tamil Nadu Patta Chitta — Check Land Records Online (2026)"
+title: "Tamil Nadu Patta Chitta — Check Land Records Online"
 description: "Check Patta & Chitta land records online in Tamil Nadu. Step-by-step guide to view FMB, Adangal, A-register & apply for Patta transfer."
 category: "Property & Legal"
 keywords:
@@ -13,7 +13,6 @@ keywords:
   - "A register tamil nadu"
   - "TNSMART"
   - "chitta extract"
-lastUpdated: "2026-02-16"
 readingTime: "12 min"
 officialLinks:
   - "https://eservices.tn.gov.in/eservicesnew/land/chitta_patta.html"

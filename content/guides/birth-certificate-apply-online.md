@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for Birth Certificate Online in India (2026 Guide)"
+title: "How to Apply for Birth Certificate Online in India"
 description: "Step-by-step guide to apply for birth certificate online in India through CRS portal. Covers documents required, online & offline process, delayed registration, and FAQs."
 category: "Certificates"
 keywords:
@@ -10,7 +10,6 @@ keywords:
   - "birth certificate documents required"
   - "delayed birth registration India"
   - "crsorgi birth certificate"
-lastUpdated: "2026-02-16"
 readingTime: "8 min"
 officialLinks:
   - https://crsorgi.gov.in

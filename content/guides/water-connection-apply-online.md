@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for Water Connection Online in India (2025 Guide)"
+title: "How to Apply for Water Connection Online in India"
 description: "Step-by-step guide to apply for a new water connection online in India. Covers Delhi Jal Board, Mumbai BMC, Bangalore BWSSB, Chennai Metro Water, Hyderabad HMWSSB — documents, fees, process, and FAQs."
 category: "Utilities"
 keywords:
@@ -13,7 +13,6 @@ keywords:
   - "Jal Jeevan Mission"
   - "water connection documents required"
   - "water connection fees India"
-lastUpdated: "2026-02-16"
 readingTime: "12 min"
 officialLinks:
   - "https://djb.gov.in"

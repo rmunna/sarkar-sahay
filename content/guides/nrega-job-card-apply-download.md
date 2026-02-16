@@ -18,7 +18,6 @@ keywords:
   - NREGA job card status check
   - nrega.nic.in job card
   - NREGA FTO status
-lastUpdated: "2026-02-16"
 readingTime: "10 min read"
 officialLinks:
   - "https://nrega.nic.in"

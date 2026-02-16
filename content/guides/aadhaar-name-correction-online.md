@@ -1,5 +1,5 @@
 ---
-title: "How to Correct Name in Aadhaar Card Online (2025 Guide)"
+title: "How to Correct Name in Aadhaar Card Online"
 description: "Step-by-step guide to correct or change your name in Aadhaar card online via myaadhaar.uidai.gov.in. Know documents required, fees, processing time, and how to track status."
 category: "Identity Documents"
 keywords:
@@ -13,7 +13,6 @@ keywords:
   - "how to change name in aadhaar card after marriage"
   - "aadhaar name update fee"
   - "aadhaar name change status"
-lastUpdated: "2026-02-16"
 readingTime: "8 min read"
 officialLinks:
   - "https://myaadhaar.uidai.gov.in"

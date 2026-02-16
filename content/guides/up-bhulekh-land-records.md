@@ -1,5 +1,5 @@
 ---
-title: "UP Bhulekh — Check Land Records, Khasra Khatauni Online (2026)"
+title: "UP Bhulekh — Check Land Records, Khasra Khatauni Online"
 description: "Check UP land records online via Bhulekh portal. View Khasra, Khatauni, ownership details by name or Gata number at upbhulekh.gov.in."
 category: "Property & Legal"
 keywords:
@@ -12,7 +12,6 @@ keywords:
   - "Dakhil Kharij UP"
   - "UP property records check"
   - "Uttar Pradesh Bhulekh 2026"
-lastUpdated: "2026-02-16"
 readingTime: "12 min"
 officialLinks:
   - "https://upbhulekh.gov.in"

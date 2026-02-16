@@ -1,9 +1,8 @@
 ---
-title: "Gruha Lakshmi Scheme Karnataka — ₹2,000/Month for Women, Apply Online (2026)"
+title: "Gruha Lakshmi Scheme Karnataka — ₹2,000/Month for Women, Apply Online"
 description: "Apply for Karnataka Gruha Lakshmi scheme online. Get ₹2,000/month for women head of household. Eligibility, documents & Seva Sindhu steps."
 category: "State Schemes"
 keywords: ["Gruha Lakshmi apply online", "Karnataka Gruha Lakshmi scheme", "ಗೃಹ ಲಕ್ಷ್ಮಿ ಯೋಜನೆ", "Gruha Lakshmi 2026", "Karnataka women scheme"]
-lastUpdated: "2026-02-16"
 readingTime: "6 min"
 officialLinks:
   - https://sevasindhu.karnataka.gov.in

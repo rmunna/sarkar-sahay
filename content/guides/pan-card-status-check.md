@@ -13,7 +13,6 @@ keywords:
   - "PAN Aadhaar link status"
   - "PAN card active or inactive"
   - "check PAN number online"
-lastUpdated: "2026-02-16"
 readingTime: "10 min"
 officialLinks:
   - "https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html"

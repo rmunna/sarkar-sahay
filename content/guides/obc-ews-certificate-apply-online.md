@@ -13,7 +13,6 @@ keywords:
   - "EWS income certificate"
   - "OBC certificate documents required"
   - "EWS reservation certificate"
-lastUpdated: "2026-02-16"
 readingTime: "12 min"
 officialLinks:
   - "https://services.india.gov.in"

@@ -13,7 +13,6 @@ keywords:
   - "mitti parikshan"
   - "soil health card online"
   - "farmer soil test"
-lastUpdated: "2026-02-16"
 readingTime: "8 min"
 officialLinks:
   - "https://soilhealth.dac.gov.in"

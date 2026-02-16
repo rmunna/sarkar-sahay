@@ -1,5 +1,5 @@
 ---
-title: "How to Download e-Aadhaar Card Online (2026 Guide)"
+title: "How to Download e-Aadhaar Card Online"
 description: "Download e-Aadhaar card online from myAadhaar portal, UIDAI website, or DigiLocker. Step-by-step process using Aadhaar number, enrolment ID, or VID."
 category: "Identity Documents"
 keywords:
@@ -13,7 +13,6 @@ keywords:
   - "Aadhaar PVC card order"
   - "DigiLocker Aadhaar"
   - "Aadhaar card PDF"
-lastUpdated: "2026-02-16"
 readingTime: "8 min read"
 officialLinks:
   - "https://myaadhaar.uidai.gov.in"

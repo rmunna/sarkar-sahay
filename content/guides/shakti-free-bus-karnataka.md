@@ -1,5 +1,5 @@
 ---
-title: "Karnataka Shakti Scheme — Free Bus Travel for Women (2026)"
+title: "Karnataka Shakti Scheme — Free Bus Travel for Women"
 description: "Complete guide to Karnataka's Shakti scheme offering free bus travel for women on KSRTC & BMTC buses. Eligibility, smart card, how to apply."
 category: "State Schemes"
 keywords:
@@ -12,7 +12,6 @@ keywords:
   - "shakti card application"
   - "karnataka government schemes women"
   - "free travel women karnataka bus"
-lastUpdated: "2026-02-16"
 readingTime: "6 min"
 officialLinks:
   - "https://www.ksrtc.in"

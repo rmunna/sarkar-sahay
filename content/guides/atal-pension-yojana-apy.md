@@ -13,7 +13,6 @@ keywords:
   - "APY eligibility"
   - "APY vs NPS"
   - "government pension scheme"
-lastUpdated: "2026-02-16"
 readingTime: "12 min read"
 officialLinks:
   - "https://jansuraksha.gov.in"

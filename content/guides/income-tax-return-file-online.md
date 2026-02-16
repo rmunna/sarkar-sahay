@@ -1,9 +1,8 @@
 ---
-title: "How to File Income Tax Return (ITR) Online — Step-by-Step Guide (2026)"
+title: "How to File Income Tax Return (ITR) Online — Step-by-Step Guide"
 description: "Complete guide to file ITR online on the income tax portal. Which form to use, documents needed, step-by-step e-filing process."
 category: "Tax & Finance"
 keywords: ["file ITR online", "income tax return filing", "e-filing ITR", "ITR form", "income tax portal login"]
-lastUpdated: "2026-02-16"
 readingTime: "8 min"
 officialLinks:
   - https://www.incometax.gov.in

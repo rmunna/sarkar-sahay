@@ -11,7 +11,6 @@ keywords:
   - "Form 15 Form 16 encumbrance"
   - "property verification India"
   - "EC certificate online download"
-lastUpdated: "2026-02-16"
 readingTime: "12 min"
 officialLinks:
   - "https://kaveri.karnataka.gov.in"

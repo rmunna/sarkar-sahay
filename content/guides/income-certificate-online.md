@@ -1,9 +1,8 @@
 ---
-title: "How to Get Income Certificate Online — Step-by-Step Guide (2026)"
+title: "How to Get Income Certificate Online — Step-by-Step Guide"
 description: "Complete guide to apply for income certificate online. State-wise process, documents required, fees, and verification process."
 category: "Certificates"
 keywords: ["income certificate apply online", "income certificate documents", "aay praman patra", "income certificate for scholarship", "EWS certificate"]
-lastUpdated: "2026-02-16"
 readingTime: "5 min"
 officialLinks:
   - https://edistrict.up.gov.in

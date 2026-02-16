@@ -1,5 +1,5 @@
 ---
-title: "Karnataka Bhoomi Land Records — Check RTC, Mutation Status Online (2026)"
+title: "Karnataka Bhoomi Land Records — Check RTC, Mutation Status Online"
 description: "Check Karnataka land records, RTC (Pahani), mutation status & Khatha extract online via Bhoomi portal. Step-by-step guide with screenshots & tips."
 category: "Property & Legal"
 keywords:
@@ -13,7 +13,6 @@ keywords:
   - "ಭೂಮಿ ಭೂದಾಖಲೆ"
   - "ಪಹಣಿ ಆನ್‌ಲೈನ್"
   - "Karnataka land records 2026"
-lastUpdated: "2026-02-16"
 readingTime: "12 min"
 officialLinks:
   - "https://landrecords.karnataka.gov.in"

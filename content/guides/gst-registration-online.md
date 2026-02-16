@@ -16,7 +16,6 @@ keywords:
   - "TRN number GST"
   - "ARN number GST"
   - "GST registration India"
-lastUpdated: "2026-02-16"
 readingTime: "12 min read"
 officialLinks:
   - "https://www.gst.gov.in"

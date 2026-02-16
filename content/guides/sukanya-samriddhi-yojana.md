@@ -1,9 +1,8 @@
 ---
-title: "Sukanya Samriddhi Yojana — How to Open Account (Guide 2026)"
+title: "Sukanya Samriddhi Yojana — How to Open Account (Guide"
 description: "Complete guide to Sukanya Samriddhi Yojana. Interest rate, eligibility, how to open account, tax benefits, and withdrawal rules."
 category: "Government Schemes"
 keywords: ["Sukanya Samriddhi Yojana", "SSY account", "girl child savings scheme", "SSY interest rate 2026", "Sukanya Samriddhi account opening"]
-lastUpdated: "2026-02-16"
 readingTime: "5 min"
 officialLinks:
   - https://www.nsiindia.gov.in

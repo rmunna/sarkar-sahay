@@ -1,9 +1,8 @@
 ---
-title: "Maharashtra Aaple Sarkar — Apply for Certificates & Services Online (2026)"
+title: "Maharashtra Aaple Sarkar — Apply for Certificates & Services Online"
 description: "Complete guide to use Maharashtra's Aaple Sarkar portal for caste, income, domicile certificates and more. Registration, documents, fees, tracking."
 category: "Certificates"
 keywords: ["aaple sarkar", "maharashtra certificate online", "caste certificate online maharashtra", "income certificate maharashtra", "domicile certificate maharashtra", "aaplesarkar.mahaonline.gov.in", "जात प्रमाणपत्र", "उत्पन्न प्रमाणपत्र", "अधिवास प्रमाणपत्र", "maharashtra online services"]
-lastUpdated: "2026-02-16"
 readingTime: "12 min"
 officialLinks:
   - https://aaplesarkar.mahaonline.gov.in

@@ -1,9 +1,8 @@
 ---
-title: "Chiranjeevi Yojana Rajasthan — Free Health Insurance, Registration & Hospital List (2026)"
+title: "Chiranjeevi Yojana Rajasthan — Free Health Insurance, Registration & Hospital List"
 description: "Chiranjeevi Yojana gives Rajasthan families free cashless treatment up to ₹25 lakh/year. Registration, hospital list & claim process explained."
 category: "State Schemes"
 keywords: ["Chiranjeevi Yojana registration", "Rajasthan free health insurance", "Chiranjeevi hospital list", "Chiranjeevi Yojana Rajasthan", "MCSBY Rajasthan", "Chiranjeevi card"]
-lastUpdated: "2026-02-16"
 readingTime: "7 min"
 officialLinks:
   - https://chiranjeevi.rajasthan.gov.in

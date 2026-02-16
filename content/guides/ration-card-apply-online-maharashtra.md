@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for Ration Card Online in Maharashtra (2026)"
+title: "How to Apply for Ration Card Online in Maharashtra"
 description: "Step-by-step guide to apply for a new ration card online in Maharashtra through the mahafood.gov.in portal. Learn about documents, fees, and processing time."
 category: "Food & Ration"
 keywords:
@@ -10,7 +10,6 @@ keywords:
   - "new ration card Maharashtra"
   - "PDS Maharashtra"
   - "ration card status Maharashtra"
-lastUpdated: "2026-02-16"
 readingTime: "7 min"
 officialLinks:
   - https://mahafood.gov.in

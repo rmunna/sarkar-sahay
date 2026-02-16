@@ -11,7 +11,6 @@ keywords:
   - "rooftop solar subsidy 2024"
   - "solar panel for home India"
   - "free bijli yojana"
-lastUpdated: "2026-02-16"
 readingTime: "10 min"
 officialLinks:
   - "https://pmsuryaghar.gov.in"

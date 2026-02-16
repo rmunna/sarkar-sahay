@@ -13,7 +13,6 @@ keywords:
   - "PAN card correction fees"
   - "change name in PAN card online"
   - "PAN card correction documents"
-lastUpdated: "2026-02-16"
 readingTime: "12 min read"
 officialLinks:
   - "https://www.protean-tinpan.com/"

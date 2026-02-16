@@ -17,7 +17,6 @@ keywords:
   - "pmvishwakarma.gov.in registration"
   - "PM Vishwakarma certificate"
   - "collateral free loan for artisans"
-lastUpdated: "2026-02-16"
 readingTime: "10 min"
 officialLinks:
   - "https://pmvishwakarma.gov.in"

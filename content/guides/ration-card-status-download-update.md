@@ -1,5 +1,5 @@
 ---
-title: "Ration Card Status Check, Download & Update — Complete Guide (2025)"
+title: "Ration Card Status Check, Download & Update — Complete Guide"
 description: "Check ration card application status, download e-ration card, add or remove family members, correct details, use ONORC, link Aadhaar, and file complaints — step-by-step guide for all states."
 category: "Food & Ration"
 keywords:
@@ -18,7 +18,6 @@ keywords:
   - ration card update
   - ration card surrender
   - ration card details check
-lastUpdated: "2026-02-16"
 readingTime: "12 min"
 officialLinks:
   - "https://nfsa.gov.in"

@@ -1,5 +1,5 @@
 ---
-title: "UP Caste Certificate Online — Apply via eSathi Portal (2026)"
+title: "UP Caste Certificate Online — Apply via eSathi Portal"
 description: "Apply for SC/ST/OBC caste certificate in Uttar Pradesh online via eSathi portal. Step-by-step process, documents, fees & download guide."
 category: "Certificates"
 keywords:
@@ -12,7 +12,6 @@ keywords:
   - "caste certificate Uttar Pradesh 2026"
   - "UP caste certificate download"
   - "जाति प्रमाण पत्र ऑनलाइन उत्तर प्रदेश"
-lastUpdated: "2026-02-16"
 readingTime: "10 min"
 officialLinks:
   - "https://esathi.up.gov.in"

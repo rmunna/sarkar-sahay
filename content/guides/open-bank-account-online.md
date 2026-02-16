@@ -1,5 +1,5 @@
 ---
-title: "How to Open Bank Account Online in India — Savings Account, Zero Balance Account (2026)"
+title: "How to Open Bank Account Online in India — Savings Account, Zero Balance Account"
 description: "Complete guide to open a savings bank account online in India. Covers regular, zero balance (BSBD), Jan Dhan, salary, minor, senior citizen, and NRI accounts. Step-by-step process for SBI YONO, HDFC, ICICI, Kotak 811, and more."
 category: "Tax & Finance"
 keywords:
@@ -12,7 +12,6 @@ keywords:
   - "Kotak 811 account"
   - "SBI YONO account"
   - "post office savings account"
-lastUpdated: "2026-02-16"
 readingTime: "12 min"
 officialLinks:
   - https://sbi.co.in

@@ -1,5 +1,5 @@
 ---
-title: "PMAY Apply Online — Pradhan Mantri Awas Yojana Guide 2025"
+title: "PMAY Apply Online — Pradhan Mantri Awas Yojana Guide"
 description: "Step-by-step guide to apply for Pradhan Mantri Awas Yojana (PMAY) online and offline. Eligibility, documents, subsidy amounts, and FAQs."
 category: "Government Schemes"
 keywords:
@@ -10,7 +10,6 @@ keywords:
   - "Housing for All scheme"
   - "PMAY Urban application"
   - "PMAY Gramin application"
-lastUpdated: "2026-02-16"
 readingTime: "8 min"
 officialLinks:
   - https://pmaymis.gov.in

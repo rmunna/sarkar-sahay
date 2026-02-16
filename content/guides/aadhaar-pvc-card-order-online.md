@@ -13,7 +13,6 @@ keywords:
   - "Aadhaar card order status"
   - "myAadhaar PVC card"
   - "Aadhaar PVC card track"
-lastUpdated: "2026-02-16"
 readingTime: "7 min read"
 officialLinks:
   - "https://myaadhaar.uidai.gov.in"

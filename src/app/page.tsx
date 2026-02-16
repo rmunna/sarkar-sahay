@@ -15,9 +15,9 @@ const CATEGORY_ICONS: Record<string, string> = {
 export default function Home() {
   const allGuides = getAllGuides();
   const categories = getCategories();
-  // Show only the latest 12 guides on homepage (sorted by lastUpdated desc)
+  // Show 12 guides on homepage (sorted alphabetically by title)
   const guides = [...allGuides]
-    .sort((a, b) => (b.lastUpdated || "").localeCompare(a.lastUpdated || ""))
+    .sort((a, b) => a.title.localeCompare(b.title))
     .slice(0, 12);
 
   return (
@@ -124,10 +124,11 @@ export default function Home() {
                   <p className="text-sm text-gray-500 mb-3 line-clamp-2">
                     {guide.description}
                   </p>
-                  <div className="flex items-center justify-between text-xs text-gray-400">
-                    <span>Updated: {guide.lastUpdated}</span>
-                    {guide.readingTime && <span>{guide.readingTime}</span>}
-                  </div>
+                  {guide.readingTime && (
+                    <div className="text-xs text-gray-400">
+                      <span>{guide.readingTime} read</span>
+                    </div>
+                  )}
                 </a>
               ))}
             </div>

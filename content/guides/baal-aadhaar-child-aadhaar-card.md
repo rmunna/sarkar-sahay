@@ -15,7 +15,6 @@ keywords:
   - "child Aadhaar biometric update"
   - "Aadhaar enrolment for children"
   - "Aadhaar card for kids"
-lastUpdated: "2026-02-16"
 readingTime: "10 min read"
 officialLinks:
   - "https://uidai.gov.in"

@@ -1,9 +1,8 @@
 ---
-title: "How to Get Domicile Certificate Online — Step-by-Step Guide (2026)"
+title: "How to Get Domicile Certificate Online — Step-by-Step Guide"
 description: "Complete guide to apply for domicile certificate online. Documents required, state-wise process, eligibility, and processing time."
 category: "Certificates"
 keywords: ["domicile certificate apply online", "domicile certificate documents", "nivas praman patra", "state domicile certificate", "residential certificate"]
-lastUpdated: "2026-02-16"
 readingTime: "5 min"
 officialLinks:
   - https://edistrict.up.gov.in

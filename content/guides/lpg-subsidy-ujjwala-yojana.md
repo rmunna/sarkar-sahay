@@ -17,7 +17,6 @@ keywords:
   - "Indane refill booking"
   - "HP Gas refill booking"
   - "Bharat Gas refill booking"
-lastUpdated: "2026-02-16"
 readingTime: "12 min"
 officialLinks:
   - "https://www.pmuy.gov.in/"

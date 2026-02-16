@@ -1,5 +1,5 @@
 ---
-title: "How to Get Duplicate Aadhaar, PAN, Voter ID — Lost Document Replacement Guide (2026)"
+title: "How to Get Duplicate Aadhaar, PAN, Voter ID — Lost Document Replacement Guide"
 description: "Lost your Aadhaar, PAN card, Voter ID, driving license, or passport? Don't panic. Step-by-step guide to replace all lost government documents in India — online methods, fees, and timelines."
 category: "Identity Documents"
 keywords:
@@ -17,7 +17,6 @@ keywords:
   - "duplicate documents online India"
   - "lost ID card what to do"
   - "DigiLocker lost documents"
-lastUpdated: "2026-02-16"
 readingTime: "15 min read"
 officialLinks:
   - "https://myaadhaar.uidai.gov.in"

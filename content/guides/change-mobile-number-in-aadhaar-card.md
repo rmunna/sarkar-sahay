@@ -1,5 +1,5 @@
 ---
-title: "How to Change Mobile Number in Aadhaar Card — Step-by-Step Guide (2026)"
+title: "How to Change Mobile Number in Aadhaar Card — Step-by-Step Guide"
 description: "Learn how to change mobile number in Aadhaar card at enrolment centre. Documents needed, ₹50 fee, steps & tracking. Online option not available."
 category: "Identity Documents"
 keywords:
@@ -18,7 +18,6 @@ officialLinks:
   - https://uidai.gov.in/en/my-aadhaar/update-aadhaar.html
   - https://myaadhaar.uidai.gov.in/
   - https://bhuvan-app3.nrsc.gov.in/aadhaar/
-lastUpdated: "2026-02-16"
 ---
 
 ## What is Aadhaar Mobile Number Update?

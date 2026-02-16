@@ -1,9 +1,8 @@
 ---
-title: "How to Apply for New Electricity Connection Online — Step-by-Step Guide (2026)"
+title: "How to Apply for New Electricity Connection Online — Step-by-Step Guide"
 description: "Complete guide to apply for new electricity connection. State-wise process, documents, fees, and connection types explained."
 category: "Utilities"
 keywords: ["new electricity connection apply", "electricity connection online", "bijli connection apply", "electricity meter application", "DISCOM new connection"]
-lastUpdated: "2026-02-16"
 readingTime: "5 min"
 officialLinks:
   - https://www.bsesdelhi.com

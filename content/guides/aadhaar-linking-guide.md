@@ -18,7 +18,6 @@ keywords:
   - "link Aadhaar with bank account"
   - "link Aadhaar with PAN card"
   - "Aadhaar UAN link"
-lastUpdated: "2026-02-16"
 readingTime: "12 min read"
 officialLinks:
   - "https://www.incometax.gov.in"

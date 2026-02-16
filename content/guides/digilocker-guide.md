@@ -16,7 +16,6 @@ keywords:
   - "DigiLocker vehicle RC"
   - "DigiLocker CBSE certificate"
   - "ABC Academic Bank of Credits"
-lastUpdated: "2026-02-16"
 readingTime: "12 min"
 officialLinks:
   - "https://www.digilocker.gov.in"

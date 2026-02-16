@@ -25,7 +25,7 @@ const VALID_CATEGORIES = [
   "State Schemes",
 ];
 
-const REQUIRED_FRONTMATTER = ["title", "description", "category", "keywords", "lastUpdated", "officialLinks"];
+const REQUIRED_FRONTMATTER = ["title", "description", "category", "keywords", "officialLinks"];
 const CAMELCASE_FIELDS = {
   meta_description: "description",
   reading_time: "readingTime",
@@ -146,9 +146,9 @@ function validateGuide(filePath) {
     warnings.push(`readingTime format should be "X min", got: "${data.readingTime}"`);
   }
 
-  // 12. lastUpdated format (YYYY-MM-DD)
-  if (data.lastUpdated && !/^\d{4}-\d{2}-\d{2}$/.test(data.lastUpdated)) {
-    warnings.push(`lastUpdated should be YYYY-MM-DD format, got: "${data.lastUpdated}"`);
+  // 12. Year in title check
+  if (data.title && /20[2-3]\d/.test(data.title)) {
+    warnings.push(`Title contains a year — remove it for evergreen content`);
   }
 
   return { file: fileName, errors, warnings, fixes, wordCount };

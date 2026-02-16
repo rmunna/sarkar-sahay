@@ -1,9 +1,8 @@
 ---
-title: "PM Kisan Samman Nidhi — Registration, Eligibility & Status Check (2026)"
+title: "PM Kisan Samman Nidhi — Registration, Eligibility & Status Check"
 description: "Complete guide to PM Kisan Yojana. How to register, check payment status, eligibility criteria, and documents required."
 category: "Government Schemes"
 keywords: ["PM Kisan registration", "PM Kisan status check", "PM Kisan Samman Nidhi", "PM Kisan beneficiary list", "PM Kisan installment"]
-lastUpdated: "2026-02-16"
 readingTime: "5 min"
 officialLinks:
   - https://pmkisan.gov.in

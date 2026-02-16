@@ -1,9 +1,8 @@
 ---
-title: "How to Apply for Voter ID Card (EPIC) Online — Step-by-Step Guide (2026)"
+title: "How to Apply for Voter ID Card (EPIC) Online — Step-by-Step Guide"
 description: "Complete guide to apply for new Voter ID card online via NVSP. Documents, eligibility, Form 6, fees, and tracking status."
 category: "Identity Documents"
 keywords: ["voter ID card apply online", "EPIC card", "election card apply", "Form 6 voter registration", "NVSP voter ID"]
-lastUpdated: "2026-02-16"
 readingTime: "5 min"
 officialLinks:
   - https://www.nvsp.in

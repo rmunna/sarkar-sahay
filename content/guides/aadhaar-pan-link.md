@@ -1,9 +1,8 @@
 ---
-title: "How to Link Aadhaar with PAN Card — Step-by-Step Guide (2026)"
+title: "How to Link Aadhaar with PAN Card — Step-by-Step Guide"
 description: "Link your Aadhaar with PAN card online via income tax portal. Step-by-step process, fees, deadline, and status check."
 category: "Tax & Finance"
 keywords: ["link Aadhaar PAN", "Aadhaar PAN linking online", "PAN Aadhaar link status", "Aadhaar PAN link fee", "Section 139AA"]
-lastUpdated: "2026-02-16"
 readingTime: "4 min"
 officialLinks:
   - https://www.incometax.gov.in/iec/foportal/help/module/e-filing

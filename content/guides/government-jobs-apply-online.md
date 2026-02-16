@@ -1,9 +1,8 @@
 ---
-title: "How to Apply for Government Jobs Online in India — Complete Guide (2026)"
+title: "How to Apply for Government Jobs Online in India — Complete Guide"
 description: "Complete guide to finding and applying for government jobs. SSC, UPSC, Railway, Banking, State PSC — all portals and processes explained."
 category: "Jobs & Exams"
 keywords: ["government job apply online", "sarkari naukri", "govt job portal", "UPSC apply", "railway recruitment", "bank exam apply"]
-lastUpdated: "2026-02-16"
 readingTime: "8 min"
 officialLinks:
   - https://ssc.gov.in

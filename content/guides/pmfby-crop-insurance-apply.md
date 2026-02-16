@@ -13,7 +13,6 @@ keywords:
   - "PMFBY premium calculator"
   - "PMFBY status check"
   - "kisan fasal bima"
-lastUpdated: "2026-02-16"
 readingTime: "12 min read"
 officialLinks:
   - "https://pmfby.gov.in"

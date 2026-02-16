@@ -11,7 +11,6 @@ keywords:
   - "farmer pension ₹3000"
   - "PMKMY scheme"
   - "pension for small farmers"
-lastUpdated: "2026-02-16"
 readingTime: "10 min"
 officialLinks:
   - "https://pmkmy.gov.in"

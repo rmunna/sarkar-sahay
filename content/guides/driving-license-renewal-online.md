@@ -1,5 +1,5 @@
 ---
-title: "How to Renew Driving License Online in India (2025-26)"
+title: "How to Renew Driving License Online in India"
 description: "Step-by-step guide to renew your driving licence online via the Sarathi Parivahan portal. Know the documents required, fees, medical certificate rules, and how to download your digital DL."
 category: "Identity Documents"
 keywords:
@@ -13,7 +13,6 @@ keywords:
   - "digital driving licence download"
   - "mParivahan driving licence"
   - "RTO driving license renewal"
-lastUpdated: "2026-02-16"
 readingTime: "8 min read"
 officialLinks:
   - "https://sarathi.parivahan.gov.in"

@@ -13,7 +13,6 @@ keywords:
   - "cybercrime.gov.in"
   - "e-FIR"
   - "track FIR status"
-lastUpdated: "2026-02-16"
 readingTime: "12 min"
 officialLinks:
   - "https://cybercrime.gov.in"

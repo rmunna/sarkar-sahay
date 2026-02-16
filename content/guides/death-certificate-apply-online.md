@@ -1,9 +1,8 @@
 ---
-title: "How to Apply for Death Certificate Online in India — Complete Guide (2026)"
+title: "How to Apply for Death Certificate Online in India — Complete Guide"
 description: "Step-by-step guide to apply for a death certificate online in India via CRS portal. Documents required, fees, time limit, correction process, and FAQs."
 category: "Certificates"
 keywords: ["death certificate online", "death certificate apply", "death certificate documents", "how to get death certificate India", "death certificate online apply", "crsorgi death certificate", "death registration India", "death certificate fees"]
-lastUpdated: "2026-02-16"
 readingTime: "8 min"
 officialLinks:
   - https://crsorgi.gov.in

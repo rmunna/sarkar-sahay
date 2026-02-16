@@ -16,7 +16,6 @@ keywords:
   - "FASTag UPI recharge"
   - "NHAI FASTag"
   - "FASTag bank account link"
-lastUpdated: "2026-02-16"
 readingTime: "10 min read"
 officialLinks:
   - "https://ihmcl.com"

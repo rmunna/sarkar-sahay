@@ -1,9 +1,8 @@
 ---
-title: "How to Apply for Aadhaar Card Online — Step-by-Step Guide (2026)"
+title: "How to Apply for Aadhaar Card Online — Step-by-Step Guide"
 description: "Complete guide to apply for a new Aadhaar card online. Documents required, step-by-step process, fees, and processing time."
 category: "Identity Documents"
 keywords: ["aadhaar card apply online", "new aadhaar card", "aadhaar enrollment", "UIDAI aadhaar"]
-lastUpdated: "2026-02-16"
 readingTime: "5 min"
 officialLinks:
   - https://uidai.gov.in

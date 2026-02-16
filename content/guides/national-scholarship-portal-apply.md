@@ -18,7 +18,6 @@ keywords:
   - "scholarships.gov.in"
   - "NSP renewal"
   - "scholarship DBT payment"
-lastUpdated: "2026-02-16"
 readingTime: "12 min read"
 officialLinks:
   - "https://scholarships.gov.in"

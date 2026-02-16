@@ -13,7 +13,6 @@ keywords:
   - "IRCTC refund rules"
   - "check train running status"
   - "railmadad complaint"
-lastUpdated: "2026-02-16"
 readingTime: "18 min read"
 officialLinks:
   - "https://www.irctc.co.in"

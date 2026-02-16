@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for Passport for Minor / Child Passport in India (2025 Guide)"
+title: "How to Apply for Passport for Minor / Child Passport in India"
 description: "Complete guide to applying for a child or minor passport in India — documents required, fees, online application steps, special cases for single parents and divorced parents, and FAQs."
 category: "Identity Documents"
 keywords:
@@ -17,7 +17,6 @@ keywords:
   - "child passport renewal India"
   - "tatkal passport for minor"
   - "passport for kids India"
-lastUpdated: "2026-02-16"
 readingTime: "12 min"
 officialLinks:
   - "https://www.passportindia.gov.in"

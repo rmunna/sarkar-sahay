@@ -15,7 +15,6 @@ keywords:
   - Jeevan Pramaan life certificate
   - pension revision
   - government pension India
-lastUpdated: "2026-02-16"
 readingTime: "15 min"
 officialLinks:
   - https://cpao.nic.in

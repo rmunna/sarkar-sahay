@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for Ration Card Online in Bihar (2026)"
+title: "How to Apply for Ration Card Online in Bihar"
 description: "Step-by-step guide to apply for a new ration card online in Bihar through serviceonline.bihar.gov.in. Learn about eligibility, documents, fees, and processing time."
 category: "Food & Ration"
 keywords:
@@ -11,7 +11,6 @@ keywords:
   - "new ration card Bihar"
   - "NFSA Bihar"
   - "Bihar food supply"
-lastUpdated: "2026-02-16"
 readingTime: "7 min"
 officialLinks:
   - https://serviceonline.bihar.gov.in

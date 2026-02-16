@@ -18,7 +18,6 @@ keywords:
   - "vahan vehicle registration"
   - "RC transfer fees India"
   - "how to transfer car ownership"
-lastUpdated: "2026-02-16"
 readingTime: "12 min read"
 officialLinks:
   - "https://parivahan.gov.in/"

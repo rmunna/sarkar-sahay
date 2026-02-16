@@ -20,7 +20,6 @@ keywords:
   - "aadhaar mobile number link"
   - "aadhaar card correction"
   - "aadhaar verification failed"
-lastUpdated: "2026-02-16"
 readingTime: "15 min read"
 officialLinks:
   - "https://uidai.gov.in"

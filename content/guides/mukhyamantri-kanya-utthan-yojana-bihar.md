@@ -1,5 +1,5 @@
 ---
-title: "Mukhyamantri Kanya Utthan Yojana Bihar — ₹50,000 for Girl Education (2026)"
+title: "Mukhyamantri Kanya Utthan Yojana Bihar — ₹50,000 for Girl Education"
 description: "Bihar Kanya Utthan Yojana gives ₹50,000 to girl children in installments from birth to graduation. Check eligibility & apply online."
 category: "State Schemes"
 keywords:
@@ -10,7 +10,6 @@ keywords:
   - "kanya utthan yojana apply online"
   - "bihar girl child scheme 2026"
 readingTime: "8 min"
-lastUpdated: "2026-02-16"
 officialLinks:
   - "https://edudbt.bih.nic.in"
   - "https://ekalyan.bih.nic.in"

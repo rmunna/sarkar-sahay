@@ -16,7 +16,6 @@ keywords:
   - Jago Grahak Jago
   - consumer grievance redressal
   - INGRAM app
-lastUpdated: "2026-02-16"
 readingTime: "10 min"
 officialLinks:
   - "https://edaakhil.nic.in"

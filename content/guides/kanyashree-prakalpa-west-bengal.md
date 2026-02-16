@@ -1,5 +1,5 @@
 ---
-title: "West Bengal Kanyashree Prakalpa — Scholarship for Girls, Apply Online (2026)"
+title: "West Bengal Kanyashree Prakalpa — Scholarship for Girls, Apply Online"
 description: "Kanyashree Prakalpa offers ₹1,000/year (K1) & ₹25,000 one-time grant (K2) for girls in West Bengal. Check eligibility & apply online."
 category: "State Schemes"
 keywords:
@@ -12,7 +12,6 @@ keywords:
   - "Kanyashree status check"
   - "WB scholarship 2026"
   - "কন্যাশ্রী"
-lastUpdated: "2026-02-16"
 readingTime: "8 min"
 officialLinks:
   - "https://www.wbkanyashree.gov.in"

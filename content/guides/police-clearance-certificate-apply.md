@@ -13,7 +13,6 @@ keywords:
   - "PCC status check"
   - "police verification certificate"
   - "PCC for immigration India"
-lastUpdated: "2026-02-16"
 readingTime: "8 min read"
 officialLinks:
   - "https://www.passportindia.gov.in"

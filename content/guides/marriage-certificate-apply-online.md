@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for Marriage Certificate Online in India (2026 Guide)"
+title: "How to Apply for Marriage Certificate Online in India"
 description: "Step-by-step guide to apply for marriage certificate online in India. Learn about documents required, fees, Hindu Marriage Act vs Special Marriage Act, and state-wise process."
 category: "Certificates"
 keywords:
@@ -10,7 +10,6 @@ keywords:
   - "Special Marriage Act registration"
   - "marriage registration online process"
   - "marriage certificate India fees"
-lastUpdated: "2026-02-16"
 readingTime: "8 min"
 officialLinks:
   - https://www.india.gov.in/marriage-certificate

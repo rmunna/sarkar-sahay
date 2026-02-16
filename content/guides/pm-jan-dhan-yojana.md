@@ -1,9 +1,8 @@
 ---
-title: "PM Jan Dhan Yojana — How to Open Account (Step-by-Step Guide 2026)"
+title: "PM Jan Dhan Yojana — How to Open Account (Step-by-Step Guide"
 description: "Complete guide to open a Pradhan Mantri Jan Dhan Yojana bank account. Zero balance, free insurance, eligibility, and benefits."
 category: "Government Schemes"
 keywords: ["Jan Dhan Yojana account", "PMJDY apply", "Jan Dhan bank account", "zero balance account", "PM Jan Dhan benefits"]
-lastUpdated: "2026-02-16"
 readingTime: "5 min"
 officialLinks:
   - https://pmjdy.gov.in

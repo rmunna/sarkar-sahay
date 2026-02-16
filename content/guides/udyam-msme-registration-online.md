@@ -16,7 +16,6 @@ keywords:
   - "Udyam registration documents"
   - "micro small medium enterprise registration"
   - "UAM to Udyam migration"
-lastUpdated: "2026-02-16"
 readingTime: "10 min read"
 officialLinks:
   - "https://udyamregistration.gov.in"

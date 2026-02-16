@@ -13,7 +13,6 @@ export interface GuideMeta {
   description: string;
   category: string;
   keywords: string[];
-  lastUpdated: string;
   officialLinks: string[];
   readingTime?: string;
 }
@@ -56,7 +55,6 @@ export function getGuideMeta(slug: string): GuideMeta | null {
     description: data.description || "",
     category: data.category || "General",
     keywords: data.keywords || [],
-    lastUpdated: data.lastUpdated || "",
     officialLinks: data.officialLinks || [],
     readingTime: data.readingTime,
   };

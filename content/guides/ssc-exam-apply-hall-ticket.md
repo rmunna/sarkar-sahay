@@ -1,9 +1,8 @@
 ---
-title: "SSC Exams — How to Apply, Download Hall Ticket & Check Results (2026)"
+title: "SSC Exams — How to Apply, Download Hall Ticket & Check Results"
 description: "Complete guide to SSC exams. Online registration, admit card download, result check, and exam preparation tips."
 category: "Jobs & Exams"
 keywords: ["SSC exam apply online", "SSC hall ticket download", "SSC result check", "SSC CGL apply", "SSC CHSL registration"]
-lastUpdated: "2026-02-16"
 readingTime: "7 min"
 officialLinks:
   - https://ssc.gov.in

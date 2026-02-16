@@ -1,5 +1,5 @@
 ---
-title: "Maharashtra IGRS — Property Registration Online, Stamp Duty & e-Search (2026)"
+title: "Maharashtra IGRS — Property Registration Online, Stamp Duty & e-Search"
 description: "Complete guide to IGRS Maharashtra property registration online, stamp duty rates 2026, e-Search, Ready Reckoner & Sub-Registrar process."
 category: "Property & Legal"
 keywords:
@@ -12,7 +12,6 @@ keywords:
   - "stamp duty Mumbai 2026"
   - "online property registration Maharashtra"
   - "encumbrance certificate Maharashtra"
-lastUpdated: "2026-02-16"
 readingTime: "14 min"
 officialLinks:
   - "https://igrmaharashtra.gov.in"

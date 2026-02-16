@@ -1,9 +1,8 @@
 ---
-title: "How to Apply for Ration Card Online — Step-by-Step Guide (2026)"
+title: "How to Apply for Ration Card Online — Step-by-Step Guide"
 description: "Complete guide to apply for new ration card online. State-wise process, documents, eligibility for APL/BPL/AAY categories."
 category: "Food & Ration"
 keywords: ["ration card apply online", "new ration card", "BPL ration card", "ration card documents", "NFSA ration card"]
-lastUpdated: "2026-02-16"
 readingTime: "6 min"
 officialLinks:
   - https://nfsa.gov.in

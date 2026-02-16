@@ -1,5 +1,5 @@
 ---
-title: "Telangana Kalyana Lakshmi & Shaadi Mubarak — Marriage Assistance Scheme (2026)"
+title: "Telangana Kalyana Lakshmi & Shaadi Mubarak — Marriage Assistance Scheme"
 description: "Get ₹1,00,116 marriage assistance under Telangana Kalyana Lakshmi & Shaadi Mubarak scheme. Check eligibility, documents, and how to apply online."
 category: "State Schemes"
 keywords:
@@ -12,7 +12,6 @@ keywords:
   - "marriage scheme for SC ST BC"
   - "Telangana girl marriage scheme 2026"
   - "Kalyana Lakshmi status check"
-lastUpdated: "2026-02-16"
 readingTime: "8 min"
 officialLinks:
   - "https://telanganaepass.cgg.gov.in"

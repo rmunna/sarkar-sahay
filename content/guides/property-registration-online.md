@@ -1,9 +1,8 @@
 ---
-title: "How to Register Property Online in India — Step-by-Step Guide (2026)"
+title: "How to Register Property Online in India — Step-by-Step Guide"
 description: "Complete guide to property registration in India. Stamp duty, documents, online process, and state-wise registration portals."
 category: "Property & Legal"
 keywords: ["property registration online", "land registry online", "stamp duty India", "property registration documents", "sub registrar office"]
-lastUpdated: "2026-02-16"
 readingTime: "7 min"
 officialLinks:
   - https://igrsup.gov.in

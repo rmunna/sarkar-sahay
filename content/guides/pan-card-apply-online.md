@@ -1,9 +1,8 @@
 ---
-title: "How to Apply for PAN Card Online — Step-by-Step Guide (2026)"
+title: "How to Apply for PAN Card Online — Step-by-Step Guide"
 description: "Complete guide to apply for a new PAN card online via NSDL and UTIITSL. Documents, fees, step-by-step process, and tracking."
 category: "Identity Documents"
 keywords: ["PAN card apply online", "new PAN card", "PAN card application", "Form 49A", "NSDL PAN", "UTIITSL PAN"]
-lastUpdated: "2026-02-16"
 readingTime: "6 min"
 officialLinks:
   - https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html

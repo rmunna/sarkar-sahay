@@ -16,7 +16,6 @@ keywords:
   - "e-Shram card online apply"
   - "e-Shram accidental insurance"
   - "unorganized worker registration India"
-lastUpdated: "2026-02-16"
 readingTime: "10 min"
 officialLinks:
   - "https://eshram.gov.in"

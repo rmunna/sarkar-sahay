@@ -1,5 +1,5 @@
 ---
-title: "Rajasthan Jan Aadhaar Card — Apply Online, Download & Link Services (2026)"
+title: "Rajasthan Jan Aadhaar Card — Apply Online, Download & Link Services"
 description: "Complete guide to Rajasthan Jan Aadhaar Card — register online, add family members, download card, update details & link to government schemes."
 category: "Identity Documents"
 keywords:
@@ -12,7 +12,6 @@ keywords:
   - "Jan Aadhaar link Aadhaar"
   - "e-Mitra Jan Aadhaar"
   - "Jan Aadhaar enrollment"
-lastUpdated: "2026-02-16"
 readingTime: "12 min"
 officialLinks:
   - "https://janaadhaar.rajasthan.gov.in"

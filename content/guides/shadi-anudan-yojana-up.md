@@ -1,5 +1,5 @@
 ---
-title: "UP Shadi Anudan Yojana 2026 — ₹20,000 Marriage Grant for Daughters"
+title: "UP Shadi Anudan Yojana — ₹20,000 Marriage Grant for Daughters"
 description: "Apply for UP Shadi Anudan Yojana online. Get ₹20,000 marriage grant for daughters from SC/ST/OBC/General EWS families in Uttar Pradesh."
 category: "State Schemes"
 keywords:
@@ -12,14 +12,13 @@ keywords:
   - "shadianudan.upsdc.gov.in"
   - "शादी अनुदान ऑनलाइन आवेदन"
   - "UP shadi anudan status check"
-lastUpdated: "2026-02-16"
 readingTime: "8 min"
 officialLinks:
   - "https://shadianudan.upsdc.gov.in"
   - "https://www.myscheme.gov.in/schemes/vass"
 ---
 
-# UP Shadi Anudan Yojana 2026 — ₹20,000 Marriage Grant for Daughters
+# UP Shadi Anudan Yojana — ₹20,000 Marriage Grant for Daughters
 
 The **Uttar Pradesh Shadi Anudan Yojana** (विवाह अनुदान योजना) provides **₹20,000 financial assistance** to economically weaker families for the marriage of their daughters. The scheme covers families from **SC, ST, OBC, and General (EWS)** categories.
 

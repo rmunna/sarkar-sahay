@@ -1,5 +1,5 @@
 ---
-title: "Indira Rasoi Yojana Rajasthan — ₹8 Meals for All (2026 Guide)"
+title: "Indira Rasoi Yojana Rajasthan — ₹8 Meals for All"
 description: "Get a full thali meal for just ₹8 at 2,000+ Indira Rasoi centres across Rajasthan. No ID needed. Learn timings, menu, locations & more."
 category: "State Schemes"
 keywords:
@@ -12,7 +12,6 @@ keywords:
   - "subsidized meals Rajasthan"
   - "Rajasthan government schemes 2026"
   - "Indira Rasoi menu"
-lastUpdated: "2026-02-16"
 readingTime: "6 min"
 officialLinks:
   - "https://rajasthan.gov.in"

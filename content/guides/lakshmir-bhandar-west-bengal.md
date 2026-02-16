@@ -1,9 +1,8 @@
 ---
-title: "Lakshmir Bhandar West Bengal — Monthly Allowance for Women, Apply Online (2026)"
+title: "Lakshmir Bhandar West Bengal — Monthly Allowance for Women, Apply Online"
 description: "Lakshmir Bhandar gives ₹500-₹1,000/month to WB women aged 25-60. Check eligibility, documents, and apply online step by step."
 category: "State Schemes"
 keywords: ["Lakshmir Bhandar apply online", "লক্ষ্মীর ভাণ্ডার", "West Bengal women scheme", "Lakshmir Bhandar 2026", "WB monthly allowance women", "Lakshmir Bhandar status check"]
-lastUpdated: "2026-02-16"
 readingTime: "6 min"
 officialLinks:
   - https://lakshmirbhandar.wb.gov.in

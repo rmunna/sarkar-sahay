@@ -11,7 +11,6 @@ keywords:
   - "traffic fine payment"
   - "check challan by vehicle number"
   - "virtual court challan"
-lastUpdated: "2026-02-16"
 readingTime: "12 min read"
 officialLinks:
   - "https://echallan.parivahan.gov.in"

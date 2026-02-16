@@ -1,9 +1,8 @@
 ---
-title: "How to Apply for Passport Online in India — Step-by-Step Guide (2026)"
+title: "How to Apply for Passport Online in India — Step-by-Step Guide"
 description: "Complete guide to apply for Indian passport online via Passport Seva. Documents, fees, appointment booking, and tracking."
 category: "Identity Documents"
 keywords: ["passport apply online India", "new passport application", "passport seva", "Indian passport fees", "passport renewal online"]
-lastUpdated: "2026-02-16"
 readingTime: "7 min"
 officialLinks:
   - https://www.passportindia.gov.in

@@ -1,9 +1,8 @@
 ---
-title: "Ayushman Bharat Health Card — How to Apply & Check Eligibility (2026)"
+title: "Ayushman Bharat Health Card — How to Apply & Check Eligibility"
 description: "Complete guide to Ayushman Bharat Yojana (PMJAY). Eligibility check, how to get health card, benefits, hospital list, and claims."
 category: "Government Schemes"
 keywords: ["Ayushman Bharat card", "PMJAY apply", "Ayushman card download", "Ayushman Bharat eligibility", "free health insurance government"]
-lastUpdated: "2026-02-16"
 readingTime: "6 min"
 officialLinks:
   - https://pmjay.gov.in

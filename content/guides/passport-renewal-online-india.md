@@ -1,9 +1,8 @@
 ---
-title: "How to Renew Passport Online in India — Complete Guide (2026)"
+title: "How to Renew Passport Online in India — Complete Guide"
 description: "Step-by-step guide to renew your Indian passport online via Passport Seva. Documents required, fees, tatkal renewal, appointment booking, and tracking status."
 category: "Identity Documents"
 keywords: ["passport renewal online", "renew passport India", "passport renewal fees", "passport renewal documents", "passport reissue online", "passport seva kendra appointment", "tatkal passport renewal", "passport renewal status tracking"]
-lastUpdated: "2026-02-16"
 readingTime: "8 min"
 officialLinks:
   - https://www.passportindia.gov.in

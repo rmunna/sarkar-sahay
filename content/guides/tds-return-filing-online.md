@@ -15,7 +15,6 @@ keywords:
   - "TDS on salary"
   - "TDS on FD interest"
   - "TDS on rent"
-lastUpdated: "2026-02-16"
 readingTime: "15 min"
 officialLinks:
   - "https://www.incometax.gov.in"

@@ -1,9 +1,8 @@
 ---
-title: "Kalaignar Magalir Urimai Thogai Tamil Nadu — ₹1,000/Month for Women (2026)"
+title: "Kalaignar Magalir Urimai Thogai Tamil Nadu — ₹1,000/Month for Women"
 description: "Apply for Kalaignar Magalir Urimai Thogai scheme in Tamil Nadu. Eligible women get ₹1,000/month. Check eligibility, documents & status."
 category: "State Schemes"
 readingTime: "8 min"
-lastUpdated: "2026-02-16"
 keywords:
   - "Kalaignar Magalir Urimai Thogai apply"
   - "TN women scheme 1000"

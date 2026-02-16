@@ -13,7 +13,6 @@ keywords:
   - "aadhaar update tracking"
   - "aadhaar card update online"
   - "UIDAI aadhaar status"
-lastUpdated: "2026-02-16"
 readingTime: "8 min read"
 officialLinks:
   - "https://myaadhaar.uidai.gov.in"

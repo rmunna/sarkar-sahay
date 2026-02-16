@@ -16,7 +16,6 @@ keywords:
   - "PF withdrawal for housing"
   - "EPF retirement withdrawal"
   - "KYC linking EPFO"
-lastUpdated: "2026-02-16"
 readingTime: "12 min"
 officialLinks:
   - "https://unifiedportal-mem.epfindia.gov.in/"

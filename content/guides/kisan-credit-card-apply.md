@@ -17,7 +17,6 @@ keywords:
   - "KCC renewal"
   - "KCC crop insurance"
   - "farmer credit card India"
-lastUpdated: "2026-02-16"
 readingTime: "12 min read"
 officialLinks:
   - "https://pmkisan.gov.in"

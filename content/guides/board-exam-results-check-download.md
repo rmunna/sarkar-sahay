@@ -1,5 +1,5 @@
 ---
-title: "How to Check and Download CBSE, ICSE & State Board Exam Results Online (2026)"
+title: "How to Check and Download CBSE, ICSE & State Board Exam Results Online"
 description: "Step-by-step guide to check 10th and 12th board exam results online for CBSE, ICSE, UP Board, Maharashtra, Bihar, MP, and Rajasthan. Learn how to download marksheet, use DigiLocker, apply for re-evaluation, and get duplicate marksheet."
 category: "Jobs & Exams"
 keywords:
@@ -17,7 +17,6 @@ keywords:
   - "re-evaluation board exam"
   - "compartment exam result"
   - "duplicate marksheet"
-lastUpdated: "2026-02-16"
 readingTime: "12 min"
 officialLinks:
   - "https://cbseresults.nic.in"

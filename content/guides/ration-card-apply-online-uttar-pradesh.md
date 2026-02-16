@@ -1,9 +1,8 @@
 ---
-title: "How to Apply for Ration Card Online in Uttar Pradesh (2026)"
+title: "How to Apply for Ration Card Online in Uttar Pradesh"
 description: "Step-by-step guide to apply for new ration card online in UP through fcs.up.gov.in. Documents, eligibility, fees, and process for UP ration card."
 category: "Food & Ration"
 keywords: ["UP ration card", "uttar pradesh ration card apply", "UP ration card online", "fcs.up.gov.in ration card", "UP new ration card 2026", "UP ration card status"]
-lastUpdated: "2026-02-16"
 readingTime: "7 min"
 officialLinks:
   - https://fcs.up.gov.in
