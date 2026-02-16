@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import { remark } from "remark";
+import remarkGfm from "remark-gfm";
 import html from "remark-html";
 
 const guidesDirectory = path.join(process.cwd(), "content/guides");
@@ -66,7 +67,7 @@ export async function getGuideBySlug(slug: string): Promise<Guide | null> {
   if (!fs.existsSync(filePath)) return null;
   const fileContents = fs.readFileSync(filePath, "utf8");
   const { data, content } = matter(fileContents);
-  const processedContent = await remark().use(html).process(content);
+  const processedContent = await remark().use(remarkGfm).use(html).process(content);
   const meta = getGuideMeta(slug)!;
   return { ...meta, contentHtml: processedContent.toString() };
 }
