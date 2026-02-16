@@ -12,8 +12,12 @@ const CATEGORY_ICONS: Record<string, string> = {
 };
 
 export default function Home() {
-  const guides = getAllGuides();
+  const allGuides = getAllGuides();
   const categories = getCategories();
+  // Show only the latest 12 guides on homepage (sorted by lastUpdated desc)
+  const guides = [...allGuides]
+    .sort((a, b) => (b.lastUpdated || "").localeCompare(a.lastUpdated || ""))
+    .slice(0, 12);
 
   return (
     <div>
