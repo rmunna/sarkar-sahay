@@ -13,7 +13,7 @@ keywords:
   - "PMEGP margin money"
   - "KVIC PMEGP"
   - "PMEGP second loan"
-readingTime: "12 min read"
+readingTime: "12 min"
 officialLinks:
   - "https://www.kviconline.gov.in/pmegpeportal/jsp/pmegponline.jsp"
   - "https://www.kvic.gov.in"

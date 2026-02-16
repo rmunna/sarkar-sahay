@@ -18,7 +18,7 @@ keywords:
   - "scholarships.gov.in"
   - "NSP renewal"
   - "scholarship DBT payment"
-readingTime: "12 min read"
+readingTime: "12 min"
 officialLinks:
   - "https://scholarships.gov.in"
   - "https://scholarships.gov.in/otrapplication/#/login-page"

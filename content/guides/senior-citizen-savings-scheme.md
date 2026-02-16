@@ -13,7 +13,7 @@ keywords:
   - "post office senior citizen scheme"
   - "SCSS premature withdrawal"
   - "best savings scheme for senior citizens"
-readingTime: "10 min read"
+readingTime: "10 min"
 officialLinks:
   - "https://www.indiapost.gov.in/Financial/Pages/Content/Senior-Citizens-Savings-Scheme.aspx"
   - "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89"

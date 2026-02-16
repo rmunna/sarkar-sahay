@@ -17,7 +17,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!guide) return {};
   const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://citizennest.com";
   return {
-    title: `${guide.title} — CitizenNest`,
+    title: guide.title,
     description: guide.description,
     keywords: guide.keywords,
     openGraph: {

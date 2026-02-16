@@ -15,7 +15,7 @@ keywords:
   - "child Aadhaar biometric update"
   - "Aadhaar enrolment for children"
   - "Aadhaar card for kids"
-readingTime: "10 min read"
+readingTime: "10 min"
 officialLinks:
   - "https://uidai.gov.in"
   - "https://myaadhaar.uidai.gov.in"

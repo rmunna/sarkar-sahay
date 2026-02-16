@@ -13,7 +13,7 @@ keywords:
   - "aadhaar update tracking"
   - "aadhaar card update online"
   - "UIDAI aadhaar status"
-readingTime: "8 min read"
+readingTime: "8 min"
 officialLinks:
   - "https://myaadhaar.uidai.gov.in"
   - "https://uidai.gov.in"

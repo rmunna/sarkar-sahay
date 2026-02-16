@@ -18,7 +18,7 @@ keywords:
   - NREGA job card status check
   - nrega.nic.in job card
   - NREGA FTO status
-readingTime: "10 min read"
+readingTime: "10 min"
 officialLinks:
   - "https://nrega.nic.in"
   - "https://nrega.nic.in/Nregahome/EmpRegReport.aspx"

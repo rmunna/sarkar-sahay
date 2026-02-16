@@ -13,7 +13,7 @@ keywords:
   - "PCC status check"
   - "police verification certificate"
   - "PCC for immigration India"
-readingTime: "8 min read"
+readingTime: "8 min"
 officialLinks:
   - "https://www.passportindia.gov.in"
   - "https://pfrms.nic.in/llrms/pccStatus.action"

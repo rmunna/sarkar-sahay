@@ -17,7 +17,7 @@ keywords:
   - "duplicate documents online India"
   - "lost ID card what to do"
   - "DigiLocker lost documents"
-readingTime: "15 min read"
+readingTime: "15 min"
 officialLinks:
   - "https://myaadhaar.uidai.gov.in"
   - "https://eaadhaar.uidai.gov.in"

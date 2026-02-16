@@ -2,7 +2,7 @@ import { getCategories, getAllGuides } from "@/lib/guides";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "All Categories — CitizenNest",
+  title: "All Categories",
   description: "Browse all government service categories — Identity Documents, Schemes, Tax, Certificates & more.",
 };
 
@@ -20,8 +20,9 @@ export default function CategoriesPage() {
         <div className="space-y-10">
           {categories.map((cat) => {
             const catGuides = guides.filter((g) => g.category === cat.name);
+            const sectionId = cat.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
             return (
-              <section key={cat.name}>
+              <section key={cat.name} id={sectionId}>
                 <h2 className="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
                   {cat.name}
                   <span className="text-sm font-normal text-gray-400">({cat.count} guides)</span>

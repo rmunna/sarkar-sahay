@@ -18,7 +18,7 @@ keywords:
   - "RTI application online"
   - "RTI first appeal"
   - "RTI exemptions"
-readingTime: "12 min read"
+readingTime: "12 min"
 officialLinks:
   - "https://rtionline.gov.in"
   - "https://cic.gov.in"

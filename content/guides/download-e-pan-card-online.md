@@ -13,7 +13,7 @@ keywords:
   - "e-PAN from income tax portal"
   - "check PAN card status"
   - "know your PAN number"
-readingTime: "8 min read"
+readingTime: "8 min"
 officialLinks:
   - "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/instant-e-pan"
   - "https://tinpan.proteantech.in/"

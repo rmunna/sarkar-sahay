@@ -13,7 +13,7 @@ keywords:
   - "how to change name in aadhaar card after marriage"
   - "aadhaar name update fee"
   - "aadhaar name change status"
-readingTime: "8 min read"
+readingTime: "8 min"
 officialLinks:
   - "https://myaadhaar.uidai.gov.in"
   - "https://uidai.gov.in"

@@ -18,7 +18,7 @@ keywords:
   - "link Aadhaar with bank account"
   - "link Aadhaar with PAN card"
   - "Aadhaar UAN link"
-readingTime: "12 min read"
+readingTime: "12 min"
 officialLinks:
   - "https://www.incometax.gov.in"
   - "https://uidai.gov.in"

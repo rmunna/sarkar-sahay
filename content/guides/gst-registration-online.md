@@ -16,7 +16,7 @@ keywords:
   - "TRN number GST"
   - "ARN number GST"
   - "GST registration India"
-readingTime: "12 min read"
+readingTime: "12 min"
 officialLinks:
   - "https://www.gst.gov.in"
   - "https://reg.gst.gov.in/registration/web/taxpayer/registration"

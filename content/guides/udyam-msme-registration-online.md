@@ -16,7 +16,7 @@ keywords:
   - "Udyam registration documents"
   - "micro small medium enterprise registration"
   - "UAM to Udyam migration"
-readingTime: "10 min read"
+readingTime: "10 min"
 officialLinks:
   - "https://udyamregistration.gov.in"
   - "https://champions.gov.in"

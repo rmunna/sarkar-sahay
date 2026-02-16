@@ -13,7 +13,7 @@ keywords:
   - "digital driving licence download"
   - "mParivahan driving licence"
   - "RTO driving license renewal"
-readingTime: "8 min read"
+readingTime: "8 min"
 officialLinks:
   - "https://sarathi.parivahan.gov.in"
   - "https://parivahan.gov.in"

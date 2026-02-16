@@ -17,7 +17,7 @@ keywords:
   - "KCC renewal"
   - "KCC crop insurance"
   - "farmer credit card India"
-readingTime: "12 min read"
+readingTime: "12 min"
 officialLinks:
   - "https://pmkisan.gov.in"
   - "https://www.nabard.org"

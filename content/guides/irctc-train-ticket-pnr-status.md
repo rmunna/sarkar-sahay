@@ -13,7 +13,7 @@ keywords:
   - "IRCTC refund rules"
   - "check train running status"
   - "railmadad complaint"
-readingTime: "18 min read"
+readingTime: "18 min"
 officialLinks:
   - "https://www.irctc.co.in"
   - "https://enquiry.indianrail.gov.in"

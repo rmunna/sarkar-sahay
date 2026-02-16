@@ -10,7 +10,7 @@ keywords:
   - "Shishu Kishore Tarun loan"
   - "Mudra loan documents"
   - "Mudra loan interest rate"
-readingTime: "8 min read"
+readingTime: "8 min"
 officialLinks:
   - https://www.mudra.org.in
   - https://www.udyamimitra.in

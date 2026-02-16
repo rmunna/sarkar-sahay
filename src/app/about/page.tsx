@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About CitizenNest — Making Government Services Simple",
+  title: "About — Making Government Services Simple",
   description:
     "CitizenNest provides clear, step-by-step guides for Indian government services. Independent, accurate, always updated.",
 };

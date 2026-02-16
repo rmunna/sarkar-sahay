@@ -61,7 +61,7 @@ export default function Home() {
             {categories.map((cat) => (
               <a
                 key={cat.name}
-                href={`/categories#${cat.name.toLowerCase().replace(/\s+/g, "-")}`}
+                href={`/categories#${cat.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "")}`}
                 className="group flex items-center gap-3 p-4 bg-white border border-gray-200 rounded-xl hover:border-orange-300 hover:shadow-md transition-all duration-200"
               >
                 <span className="text-2xl">

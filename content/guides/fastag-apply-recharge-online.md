@@ -16,7 +16,7 @@ keywords:
   - "FASTag UPI recharge"
   - "NHAI FASTag"
   - "FASTag bank account link"
-readingTime: "10 min read"
+readingTime: "10 min"
 officialLinks:
   - "https://ihmcl.com"
   - "https://www.npci.org.in/what-we-do/netc-fastag/product-overview"

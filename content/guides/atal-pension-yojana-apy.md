@@ -13,7 +13,7 @@ keywords:
   - "APY eligibility"
   - "APY vs NPS"
   - "government pension scheme"
-readingTime: "12 min read"
+readingTime: "12 min"
 officialLinks:
   - "https://jansuraksha.gov.in"
   - "https://npscra.nsdl.co.in"

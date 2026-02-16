@@ -13,7 +13,7 @@ keywords:
   - "aadhaar address update documents"
   - "aadhaar address validation letter"
   - "myaadhaar address update"
-readingTime: "8 min read"
+readingTime: "8 min"
 officialLinks:
   - "https://myaadhaar.uidai.gov.in/"
   - "https://uidai.gov.in/en/my-aadhaar/update-aadhaar.html"

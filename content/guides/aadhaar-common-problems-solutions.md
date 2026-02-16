@@ -20,7 +20,7 @@ keywords:
   - "aadhaar mobile number link"
   - "aadhaar card correction"
   - "aadhaar verification failed"
-readingTime: "15 min read"
+readingTime: "15 min"
 officialLinks:
   - "https://uidai.gov.in"
   - "https://myaadhaar.uidai.gov.in"

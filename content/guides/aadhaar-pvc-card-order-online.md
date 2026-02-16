@@ -13,7 +13,7 @@ keywords:
   - "Aadhaar card order status"
   - "myAadhaar PVC card"
   - "Aadhaar PVC card track"
-readingTime: "7 min read"
+readingTime: "7 min"
 officialLinks:
   - "https://myaadhaar.uidai.gov.in"
   - "https://resident.uidai.gov.in"

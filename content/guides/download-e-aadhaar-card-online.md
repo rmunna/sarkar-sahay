@@ -13,7 +13,7 @@ keywords:
   - "Aadhaar PVC card order"
   - "DigiLocker Aadhaar"
   - "Aadhaar card PDF"
-readingTime: "8 min read"
+readingTime: "8 min"
 officialLinks:
   - "https://myaadhaar.uidai.gov.in"
   - "https://eaadhaar.uidai.gov.in"

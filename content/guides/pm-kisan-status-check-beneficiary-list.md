@@ -18,7 +18,7 @@ keywords:
   - "PM Kisan 21st instalment"
   - "PM Kisan village wise list"
   - "pmkisan.gov.in status"
-readingTime: "12 min read"
+readingTime: "12 min"
 officialLinks:
   - "https://pmkisan.gov.in"
   - "https://pmkisan.gov.in/BeneficiaryStatus.aspx"

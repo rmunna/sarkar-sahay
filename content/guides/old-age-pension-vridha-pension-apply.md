@@ -13,7 +13,7 @@ keywords:
   - "old age pension status check"
   - "pension for senior citizens India"
   - "state pension scheme India"
-readingTime: "18 min read"
+readingTime: "18 min"
 officialLinks:
   - "https://nsap.nic.in"
   - "https://sspy-up.gov.in"

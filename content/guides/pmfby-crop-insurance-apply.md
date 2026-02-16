@@ -13,7 +13,7 @@ keywords:
   - "PMFBY premium calculator"
   - "PMFBY status check"
   - "kisan fasal bima"
-readingTime: "12 min read"
+readingTime: "12 min"
 officialLinks:
   - "https://pmfby.gov.in"
   - "https://pmfby.gov.in/farmerRegistrationForm"

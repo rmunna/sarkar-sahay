@@ -13,7 +13,7 @@ keywords:
   - "pension life certificate online"
   - "Jeevan Pramaan face authentication"
   - "PPO number life certificate"
-readingTime: "10 min read"
+readingTime: "10 min"
 officialLinks:
   - "https://jeevanpramaan.gov.in"
   - "https://play.google.com/store/apps/details?id=in.gov.jeevanpramaan"

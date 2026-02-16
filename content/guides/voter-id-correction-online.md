@@ -18,7 +18,7 @@ keywords:
   - "Voter Helpline app"
   - "voter ID father name correction"
   - "shift voter ID new address"
-readingTime: "10 min read"
+readingTime: "10 min"
 officialLinks:
   - "https://voters.eci.gov.in"
   - "https://voterportal.eci.gov.in"
