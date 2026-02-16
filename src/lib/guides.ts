@@ -36,6 +36,14 @@ export function getAllGuides(): GuideMeta[] {
     .filter(Boolean) as GuideMeta[];
 }
 
+export function getGuideRawContent(slug: string): string | null {
+  const filePath = path.join(guidesDirectory, `${slug}.md`);
+  if (!fs.existsSync(filePath)) return null;
+  const fileContents = fs.readFileSync(filePath, "utf8");
+  const { content } = matter(fileContents);
+  return content;
+}
+
 export function getGuideMeta(slug: string): GuideMeta | null {
   const filePath = path.join(guidesDirectory, `${slug}.md`);
   if (!fs.existsSync(filePath)) return null;
