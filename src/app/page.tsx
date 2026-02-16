@@ -1,4 +1,5 @@
 import { getAllGuides, getCategories } from "@/lib/guides";
+import Link from "next/link";
 
 const CATEGORY_ICONS: Record<string, string> = {
   "Identity Documents": "🪪",
@@ -36,18 +37,18 @@ export default function Home() {
           Passport, Schemes, Jobs & more. Always accurate. Always free.
         </p>
         <div className="mt-8 flex flex-wrap justify-center gap-3">
-          <a
+          <Link
             href="/categories"
             className="px-6 py-3 bg-orange-600 text-white rounded-xl font-semibold hover:bg-orange-700 transition shadow-sm"
           >
             Browse All Guides
-          </a>
-          <a
+          </Link>
+          <Link
             href="/about"
             className="px-6 py-3 bg-white text-gray-700 border border-gray-200 rounded-xl font-semibold hover:border-orange-300 hover:text-orange-600 transition"
           >
             How It Works
-          </a>
+          </Link>
         </div>
       </section>
 
@@ -59,7 +60,7 @@ export default function Home() {
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
             {categories.map((cat) => (
-              <a
+              <Link
                 key={cat.name}
                 href={`/categories#${cat.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "")}`}
                 className="group flex items-center gap-3 p-4 bg-white border border-gray-200 rounded-xl hover:border-orange-300 hover:shadow-md transition-all duration-200"
@@ -75,7 +76,7 @@ export default function Home() {
                     {cat.count} {cat.count === 1 ? "guide" : "guides"}
                   </div>
                 </div>
-              </a>
+              </Link>
             ))}
           </div>
         </section>
@@ -90,12 +91,12 @@ export default function Home() {
               ({allGuides.length} total)
             </span>
           </h2>
-          <a
+          <Link
             href="/categories"
             className="text-sm text-orange-600 hover:text-orange-700 font-medium"
           >
             View all {allGuides.length} guides →
-          </a>
+          </Link>
         </div>
         {guides.length === 0 ? (
           <div className="text-center py-20 bg-white rounded-2xl border border-gray-200">
@@ -111,7 +112,7 @@ export default function Home() {
           <>
             <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
               {guides.map((guide) => (
-                <a key={guide.slug} href={`/guide/${guide.slug}`} className="guide-card group">
+                <Link key={guide.slug} href={`/guide/${guide.slug}`} className="guide-card group">
                   <div className="flex items-center gap-2 mb-3">
                     <span className="text-lg">{CATEGORY_ICONS[guide.category] || "📋"}</span>
                     <span className="text-xs font-semibold text-gray-400 uppercase tracking-wide">
@@ -129,12 +130,12 @@ export default function Home() {
                       <span>{guide.readingTime} read</span>
                     </div>
                   )}
-                </a>
+                </Link>
               ))}
             </div>
             {allGuides.length > 12 && (
               <div className="text-center mt-8">
-                <a
+                <Link
                   href="/categories"
                   className="inline-flex items-center gap-2 px-8 py-3 bg-orange-600 text-white rounded-xl font-semibold hover:bg-orange-700 transition shadow-sm"
                 >
@@ -142,7 +143,7 @@ export default function Home() {
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                   </svg>
-                </a>
+                </Link>
               </div>
             )}
           </>

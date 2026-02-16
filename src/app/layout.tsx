@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Script from "next/script";
+import Link from "next/link";
 import "./globals.css";
 
 const inter = Inter({
@@ -70,31 +71,31 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         {/* Header */}
         <header className="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-sm">
           <nav className="max-w-6xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
-            <a href="/" className="flex items-center gap-2 group">
+            <Link href="/" className="flex items-center gap-2 group">
               <span className="text-2xl">🏠</span>
               <span className="text-xl font-extrabold text-gray-900 group-hover:text-orange-600 transition">
                 Citizen<span className="text-orange-600">Nest</span>
               </span>
-            </a>
+            </Link>
             <div className="flex gap-1 sm:gap-2">
-              <a
+              <Link
                 href="/"
                 className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition"
               >
                 Home
-              </a>
-              <a
+              </Link>
+              <Link
                 href="/categories"
                 className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition"
               >
                 Categories
-              </a>
-              <a
+              </Link>
+              <Link
                 href="/about"
                 className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition"
               >
                 About
-              </a>
+              </Link>
             </div>
           </nav>
         </header>
@@ -124,17 +125,17 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <div>
                   <h4 className="font-semibold text-gray-900 mb-2">Quick Links</h4>
                   <div className="flex flex-col gap-1.5 text-gray-500">
-                    <a href="/" className="hover:text-orange-600 transition">Home</a>
-                    <a href="/categories" className="hover:text-orange-600 transition">Categories</a>
-                    <a href="/about" className="hover:text-orange-600 transition">About</a>
+                    <Link href="/" className="hover:text-orange-600 transition">Home</Link>
+                    <Link href="/categories" className="hover:text-orange-600 transition">Categories</Link>
+                    <Link href="/about" className="hover:text-orange-600 transition">About</Link>
                   </div>
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900 mb-2">Popular</h4>
                   <div className="flex flex-col gap-1.5 text-gray-500">
-                    <a href="/guide/aadhaar-card-apply-online" className="hover:text-orange-600 transition">Aadhaar Card</a>
-                    <a href="/guide/pan-card-apply-online" className="hover:text-orange-600 transition">PAN Card</a>
-                    <a href="/guide/passport-apply-online" className="hover:text-orange-600 transition">Passport</a>
+                    <Link href="/guide/aadhaar-card-apply-online" className="hover:text-orange-600 transition">Aadhaar Card</Link>
+                    <Link href="/guide/pan-card-apply-online" className="hover:text-orange-600 transition">PAN Card</Link>
+                    <Link href="/guide/passport-apply-online" className="hover:text-orange-600 transition">Passport</Link>
                   </div>
                 </div>
               </div>

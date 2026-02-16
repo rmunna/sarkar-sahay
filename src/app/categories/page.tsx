@@ -1,4 +1,5 @@
 import { getCategories, getAllGuides } from "@/lib/guides";
+import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -29,14 +30,14 @@ export default function CategoriesPage() {
                 </h2>
                 <div className="grid gap-4 md:grid-cols-2">
                   {catGuides.map((guide) => (
-                    <a
+                    <Link
                       key={guide.slug}
                       href={`/guide/${guide.slug}`}
                       className="block border border-gray-200 rounded-lg p-4 hover:border-orange-400 hover:shadow-sm transition"
                     >
                       <h3 className="font-semibold text-gray-900 mb-1">{guide.title}</h3>
                       <p className="text-sm text-gray-500">{guide.description}</p>
-                    </a>
+                    </Link>
                   ))}
                 </div>
               </section>

@@ -1,6 +1,7 @@
 import { getGuideBySlug, getAllGuideSlugs, getGuideRawContent } from "@/lib/guides";
 import { generateFAQSchema, generateArticleSchema, extractFAQs } from "@/lib/faq-schema";
 import { notFound } from "next/navigation";
+import Link from "next/link";
 import type { Metadata } from "next";
 
 interface Props {
@@ -107,9 +108,9 @@ export default async function GuidePage({ params }: Props) {
 
       {/* Breadcrumb */}
       <nav className="text-sm text-gray-500 mb-6">
-        <a href="/" className="hover:text-orange-600 transition">Home</a>
+        <Link href="/" className="hover:text-orange-600 transition">Home</Link>
         <span className="mx-2">›</span>
-        <a href="/categories" className="hover:text-orange-600 transition">Guides</a>
+        <Link href="/categories" className="hover:text-orange-600 transition">Guides</Link>
         <span className="mx-2">›</span>
         <span className="text-gray-700">{guide.category}</span>
       </nav>
@@ -185,7 +186,7 @@ export default async function GuidePage({ params }: Props) {
 
           {/* Bottom navigation */}
           <div className="mt-12 pt-8 border-t border-gray-200 flex flex-col sm:flex-row justify-between gap-4">
-            <a
+            <Link
               href="/categories"
               className="inline-flex items-center gap-2 text-sm text-gray-500 hover:text-orange-600 transition"
             >
@@ -193,8 +194,8 @@ export default async function GuidePage({ params }: Props) {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
               </svg>
               Browse all categories
-            </a>
-            <a
+            </Link>
+            <Link
               href="/"
               className="inline-flex items-center gap-2 text-sm text-gray-500 hover:text-orange-600 transition"
             >
@@ -202,7 +203,7 @@ export default async function GuidePage({ params }: Props) {
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
               </svg>
-            </a>
+            </Link>
           </div>
         </article>
 
