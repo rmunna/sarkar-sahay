@@ -13,10 +13,8 @@ keywords:
 lastUpdated: "2026-02-16"
 readingTime: "8 min"
 officialLinks:
-  - label: "CRS (Civil Registration System) Portal"
-    url: "https://crsorgi.gov.in"
-  - label: "Registration of Births and Deaths Act, 1969"
-    url: "https://www.indiacode.nic.in/handle/123456789/1610"
+  - https://crsorgi.gov.in
+  - https://www.indiacode.nic.in/handle/123456789/1610
 ---
 
 # How to Apply for Birth Certificate Online in India

@@ -13,12 +13,9 @@ keywords:
 lastUpdated: "2026-02-16"
 readingTime: "8 min"
 officialLinks:
-  - title: "CIBIL Official Website"
-    url: "https://www.cibil.com"
-  - title: "RBI - Credit Information Companies"
-    url: "https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9498"
-  - title: "Check Free CIBIL Score"
-    url: "https://www.cibil.com/freecibilscore"
+  - https://www.cibil.com
+  - https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9498
+  - https://www.cibil.com/freecibilscore
 ---
 
 # How to Check and Improve Your CIBIL Score in India

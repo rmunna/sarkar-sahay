@@ -13,12 +13,9 @@ keywords:
 lastUpdated: "2026-02-16"
 readingTime: "8 min"
 officialLinks:
-  - label: "PMAY Urban (MIS Portal)"
-    url: "https://pmaymis.gov.in"
-  - label: "PMAY Gramin"
-    url: "https://pmayg.nic.in"
-  - label: "CLSS Awas Portal (CLAP)"
-    url: "https://pmayuclap.gov.in"
+  - https://pmaymis.gov.in
+  - https://pmayg.nic.in
+  - https://pmayuclap.gov.in
 ---
 
 # How to Apply for Pradhan Mantri Awas Yojana (PMAY) — Housing for All

@@ -13,12 +13,9 @@ keywords:
 lastUpdated: "2026-02-16"
 readingTime: "8 min read"
 officialLinks:
-  - label: "MUDRA Official Website"
-    url: "https://www.mudra.org.in"
-  - label: "Udyamimitra Portal (Online Apply)"
-    url: "https://www.udyamimitra.in"
-  - label: "PSB Loans in 59 Minutes"
-    url: "https://www.psbloansin59minutes.com"
+  - https://www.mudra.org.in
+  - https://www.udyamimitra.in
+  - https://www.psbloansin59minutes.com
 ---
 
 # How to Apply for Mudra Loan (PMMY) — Pradhan Mantri Mudra Yojana

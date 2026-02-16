@@ -13,18 +13,12 @@ keywords:
 lastUpdated: "2026-02-16"
 readingTime: "8 min"
 officialLinks:
-  - title: "National Portal of India – Marriage Certificate"
-    url: "https://www.india.gov.in/marriage-certificate"
-  - title: "Delhi Marriage Registration"
-    url: "https://edistrict.delhigovt.nic.in"
-  - title: "Maharashtra – IGR Registration"
-    url: "https://registration.mahagov.in"
-  - title: "Karnataka – Kaveri Online"
-    url: "https://kaveri.karnataka.gov.in"
-  - title: "Tamil Nadu – TNEGA e-Sevai"
-    url: "https://www.tnesevai.tn.gov.in"
-  - title: "Uttar Pradesh – IGRS UP"
-    url: "https://igrsup.gov.in"
+  - https://www.india.gov.in/marriage-certificate
+  - https://edistrict.delhigovt.nic.in
+  - https://registration.mahagov.in
+  - https://kaveri.karnataka.gov.in
+  - https://www.tnesevai.tn.gov.in
+  - https://igrsup.gov.in
 ---
 
 # How to Apply for Marriage Certificate Online in India
