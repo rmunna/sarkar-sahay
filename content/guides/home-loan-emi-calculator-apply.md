@@ -17,8 +17,8 @@ keywords:
 readingTime: "10 min"
 lastUpdated: 2026-02-16
 officialLinks:
-  - "https://sbi.co.in/web/personal-banking/loans/home-loans"
-  - "https://www.hdfc.com/home-loan"
+  - "https://homeloans.sbi"
+  - "https://www.hdfc.com/home-loans"
   - "https://www.icicibank.com/personal-banking/loans/home-loan"
   - "https://incometaxindia.gov.in/Pages/default.aspx"
 ---

@@ -21,8 +21,8 @@ keywords:
 readingTime: "10 min"
 officialLinks:
   - "https://nrega.nic.in"
-  - "https://nrega.nic.in/Nregahome/EmpRegReport.aspx"
-  - "https://nrega.nic.in/Aborad/Aborad/Public/HomeAbroad"
+  - "https://nrega.nic.in"
+  - "https://nrega.nic.in"
 ---
 
 # NREGA Job Card — How to Apply, Check Status, Download & View Payment

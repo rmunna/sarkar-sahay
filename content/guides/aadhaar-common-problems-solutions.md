@@ -26,7 +26,7 @@ officialLinks:
   - "https://myaadhaar.uidai.gov.in"
   - "https://ssup.uidai.gov.in"
   - "https://resident.uidai.gov.in"
-  - "https://uidai.gov.in/en-contact-us.html"
+  - "https://uidai.gov.in/en/contact-support.html"
 ---
 
 # Aadhaar Card Common Problems & Solutions
@@ -151,7 +151,7 @@ For the complete process, see our [change mobile number in Aadhaar guide](/guide
 2. **Wait up to 90 days** — UIDAI officially says updates can take up to 90 days in some cases.
 3. **If it's been more than 90 days:**
    - Call **1947** (UIDAI helpline).
-   - File a grievance on the [UIDAI grievance portal](https://uidai.gov.in/en-contact-us.html).
+   - File a grievance on the [UIDAI grievance portal](https://uidai.gov.in/en/contact-support.html).
 4. **Re-apply** — If the update is stuck indefinitely, consider submitting a fresh request.
 
 ---
@@ -270,7 +270,7 @@ For the complete process, see our [Aadhaar address change guide](/guide/aadhaar-
 ### How to Fix It
 1. **Do NOT use both.** Identify which Aadhaar number is linked to your bank, PAN, etc.
 2. **Report the duplicate** by calling **1947** or emailing help@uidai.gov.in.
-3. **File a grievance** on the [UIDAI grievance portal](https://uidai.gov.in/en-contact-us.html) requesting cancellation of the duplicate.
+3. **File a grievance** on the [UIDAI grievance portal](https://uidai.gov.in/en/contact-support.html) requesting cancellation of the duplicate.
 4. **Visit an Aadhaar centre** with both Aadhaar cards and original documents for resolution.
 
 > **Warning:** Using multiple Aadhaar numbers knowingly can lead to penalties under the Aadhaar Act, 2016.
@@ -282,7 +282,7 @@ For the complete process, see our [Aadhaar address change guide](/guide/aadhaar-
 If none of the above solutions work, you can file a formal grievance with UIDAI:
 
 ### Online Grievance
-1. Visit the **UIDAI Contact Us page** at [uidai.gov.in/en-contact-us.html](https://uidai.gov.in/en-contact-us.html).
+1. Visit the **UIDAI Contact Us page** at [uidai.gov.in/en-contact-us.html](https://uidai.gov.in/en/contact-support.html).
 2. Click on **"File a Complaint"** or **"Grievance Redressal"**.
 3. Select the **category** of your problem (update, authentication, etc.).
 4. Enter your **Aadhaar number**, **mobile number**, and **describe your issue** in detail.
@@ -307,7 +307,7 @@ If none of the above solutions work, you can file a formal grievance with UIDAI:
 | **Email** | help@uidai.gov.in |
 | **UIDAI Website** | [uidai.gov.in](https://uidai.gov.in) |
 | **Self-Service Portal** | [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in) |
-| **Grievance Portal** | [uidai.gov.in/en-contact-us.html](https://uidai.gov.in/en-contact-us.html) |
+| **Grievance Portal** | [uidai.gov.in/en-contact-us.html](https://uidai.gov.in/en/contact-support.html) |
 | **UIDAI Head Office** | Bangla Sahib Road, Behind Kali Mandir, Gole Market, New Delhi – 110001 |
 
 > **Tip:** When calling 1947, keep your Aadhaar number and URN ready. It saves time.

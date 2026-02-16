@@ -17,7 +17,7 @@ lastUpdated: 2026-02-16
 officialLinks:
   - "https://services.ecourts.gov.in"
   - "https://indiankanoon.org"
-  - "https://legislative.gov.in/sites/default/files/A1925-39.pdf"
+  - "https://legislative.gov.in"
 faq:
   - question: "What is a succession certificate?"
     answer: "A succession certificate is a legal document issued by a civil court under the Indian Succession Act, 1925 that authorises the holder to inherit debts and securities (bank deposits, shares, mutual funds, insurance) of a deceased person who died without a will."

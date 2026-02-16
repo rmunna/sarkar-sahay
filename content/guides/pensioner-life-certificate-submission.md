@@ -17,7 +17,7 @@ readingTime: "9 min"
 lastUpdated: "2026-02-16"
 officialLinks:
   - "https://jeevanpramaan.gov.in"
-  - "https://www.india.gov.in/spotlight/jeevan-pramaan-digital-life-certificate"
+  - "https://www.india.gov.in"
   - "https://www.indiapost.gov.in"
   - "https://csc.gov.in"
 ---

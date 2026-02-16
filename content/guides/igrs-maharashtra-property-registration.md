@@ -18,7 +18,7 @@ officialLinks:
   - "https://pay2igr.igrmaharashtra.gov.in"
   - "https://pdeigr.maharashtra.gov.in"
   - "https://esearchigr.maharashtra.gov.in"
-  - "https://igrmaharashtra.gov.in/eASR"
+  - "https://igrmaharashtra.gov.in"
 ---
 
 # Maharashtra IGRS — Property Registration Online, Stamp Duty & e-Search (2026)
@@ -209,7 +209,7 @@ The **Ready Reckoner (ASR)** is the government-determined minimum property value
 
 ### How to Check Ready Reckoner Rates
 
-1. Visit **[igrmaharashtra.gov.in/eASR](https://igrmaharashtra.gov.in/eASR)**
+1. Visit **[igrmaharashtra.gov.in/eASR](https://igrmaharashtra.gov.in)**
 2. Select: **Division → District → Taluka → Village/Zone**
 3. Choose property type (residential, commercial, industrial, land)
 4. View the rate per square metre

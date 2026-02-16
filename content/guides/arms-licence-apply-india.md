@@ -21,7 +21,7 @@ readingTime: "12 min"
 lastUpdated: "2026-02-16"
 officialLinks:
   - "https://ndal-alis.gov.in/"
-  - "https://www.mha.gov.in/en/divisionofmha/is-division"
+  - "https://www.mha.gov.in"
   - "https://legislative.gov.in/sites/default/files/A1959-54_1.pdf"
 ---
 

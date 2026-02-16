@@ -19,7 +19,7 @@ readingTime: "15 min"
 officialLinks:
   - "https://www.incometax.gov.in"
   - "https://www.tdscpc.gov.in"
-  - "https://contents.tdscpc.gov.in/en/tan-registration.html"
+  - "https://contents.tdscpc.gov.in"
   - "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/view-tax-credit"
 ---
 

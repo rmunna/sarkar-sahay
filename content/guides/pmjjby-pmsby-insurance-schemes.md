@@ -17,8 +17,8 @@ readingTime: "8 min"
 lastUpdated: "2026-02-16"
 officialLinks:
   - "https://www.jansuraksha.gov.in"
-  - "https://financialservices.gov.in/insurance-divisions/Government-Sponsored-Socially-Oriented-Insurance-Schemes/Pradhan-Mantri-Jeevan-Jyoti-Bima-Yojana(PMJJBY)"
-  - "https://financialservices.gov.in/insurance-divisions/Government-Sponsored-Socially-Oriented-Insurance-Schemes/Pradhan-Mantri-Suraksha-Bima-Yojana(PMSBY)"
+  - "https://financialservices.gov.in"
+  - "https://financialservices.gov.in"
 ---
 
 # PMJJBY & PMSBY — ₹2 Lakh Insurance for Just ₹12/Year

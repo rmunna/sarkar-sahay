@@ -15,7 +15,7 @@ officialLinks:
   - "https://www.hdfcbank.com/personal/save/deposits/fixed-deposit"
   - "https://www.icicibank.com/personal-banking/deposits/fixed-deposit"
   - "https://www.pnbindia.in/interest-rates-deposit.html"
-  - "https://www.indiapost.gov.in/Financial/pages/content/post-office-time-deposits.aspx"
+  - "https://www.indiapost.gov.in"
 ---
 
 # Fixed Deposit (FD) — Best FD Interest Rates & How to Open FD Online

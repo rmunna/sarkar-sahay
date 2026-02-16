@@ -5,7 +5,7 @@ category: "Tax & Finance"
 keywords: ["link Aadhaar PAN", "Aadhaar PAN linking online", "PAN Aadhaar link status", "Aadhaar PAN link fee", "Section 139AA"]
 readingTime: "4 min"
 officialLinks:
-  - https://www.incometax.gov.in/iec/foportal/help/module/e-filing
+  - https://www.incometax.gov.in/iec/foportal/
   - https://eportal.incometax.gov.in/iec/foservices/#/pre-login/link-aadhaar-status
 ---
 

@@ -20,7 +20,7 @@ lastUpdated: "2026-02-16"
 readingTime: "14 min"
 officialLinks:
   - "https://www.passportindia.gov.in"
-  - "https://passportindia.gov.in/AppOnlineProject/online/feeDetails"
+  - "https://www.passportindia.gov.in"
   - "https://www.meaconsular.gov.in"
   - "https://consular.mea.gov.in/passport/annexures"
 ---

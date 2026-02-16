@@ -20,7 +20,7 @@ readingTime: "10 min"
 officialLinks:
   - "https://ihmcl.com"
   - "https://www.npci.org.in/what-we-do/netc-fastag/product-overview"
-  - "https://play.google.com/store/apps/details?id=com.nhai.myfastag"
+  - "https://www.ihmcl.com"
 ---
 
 # How to Apply for FASTag Online — Toll Tax, Recharge & Balance Check
@@ -303,4 +303,4 @@ It varies by bank, but most banks allow a minimum recharge of **₹100**.
 - **NHAI Helpline:** 1033 (24×7)
 - **IHMCL Portal:** [ihmcl.com](https://ihmcl.com)
 - **NPCI NETC Info:** [npci.org.in](https://www.npci.org.in/what-we-do/netc-fastag/product-overview)
-- **My FASTag App:** Available on [Google Play Store](https://play.google.com/store/apps/details?id=com.nhai.myfastag) and Apple App Store
+- **My FASTag App:** Available on [Google Play Store](https://www.ihmcl.com) and Apple App Store

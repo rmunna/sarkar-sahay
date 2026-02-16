@@ -7,7 +7,7 @@ readingTime: "8 min"
 lastUpdated: "2026-02-16"
 officialLinks:
   - https://www.passportindia.gov.in
-  - https://passportindia.gov.in/AppOnlineProject/statusTracker/trackStatusIn498
+  - https://www.passportindia.gov.in
   - https://mea.gov.in
 ---
 

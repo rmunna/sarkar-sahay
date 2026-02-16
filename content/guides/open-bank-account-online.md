@@ -17,8 +17,8 @@ officialLinks:
   - https://sbi.co.in
   - https://www.hdfcbank.com
   - https://www.icicibank.com
-  - https://www.kotak.com/en/digital-banking/kotak-811.html
-  - https://www.india.gov.in/jan-dhan-yojana
+  - https://www.kotak.com/en/digital-banking.html
+  - https://www.india.gov.in
   - https://www.indiapost.gov.in
 ---
 

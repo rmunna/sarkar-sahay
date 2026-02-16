@@ -12,7 +12,7 @@ keywords:
   - "marriage certificate India fees"
 readingTime: "8 min"
 officialLinks:
-  - https://www.india.gov.in/marriage-certificate
+  - https://www.india.gov.in
   - https://edistrict.delhigovt.nic.in
   - https://registration.mahagov.in
   - https://kaveri.karnataka.gov.in

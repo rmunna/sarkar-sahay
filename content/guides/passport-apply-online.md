@@ -6,7 +6,7 @@ keywords: ["passport apply online India", "new passport application", "passport 
 readingTime: "7 min"
 officialLinks:
   - https://www.passportindia.gov.in
-  - https://passportindia.gov.in/AppOnlineProject/online/pccOnlineApp
+  - https://www.passportindia.gov.in
   - https://mea.gov.in
 ---
 

@@ -15,8 +15,8 @@ lastUpdated: "2026-02-16"
 officialLinks:
   - "https://sbi.co.in/web/interest-rates/deposit-rates/retail-domestic-term-deposits"
   - "https://www.hdfcbank.com/personal/save/deposits/recurring-deposit"
-  - "https://www.icicibank.com/personal-banking/deposits/recurring-deposit"
-  - "https://www.indiapost.gov.in/Financial/pages/content/post-office-recurring-deposit.aspx"
+  - "https://www.icicibank.com/personal-banking/deposits/recurring-deposits"
+  - "https://www.indiapost.gov.in"
 ---
 
 # Recurring Deposit (RD) — How to Open RD Account Online, Interest Rates & Calculator

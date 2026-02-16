@@ -15,9 +15,9 @@ keywords:
   - "best savings scheme for senior citizens"
 readingTime: "10 min"
 officialLinks:
-  - "https://www.indiapost.gov.in/Financial/Pages/Content/Senior-Citizens-Savings-Scheme.aspx"
+  - "https://www.indiapost.gov.in"
   - "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89"
-  - "https://dor.gov.in/sites/default/files/SCSS%20Rules%202019.pdf"
+  - "https://dor.gov.in"
 ---
 
 # Senior Citizen Savings Scheme (SCSS) — Complete Guide

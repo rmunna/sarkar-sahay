@@ -14,7 +14,7 @@ lastUpdated: "2026-02-16"
 readingTime: "8 min"
 officialLinks:
   - "https://www.passportindia.gov.in"
-  - "https://passportindia.gov.in/AppOnlineProject/statusTracker/trackStatusIn498"
+  - "https://www.passportindia.gov.in"
 ---
 
 # How to Check Passport Application Status Online in India
@@ -54,7 +54,7 @@ You will see a detailed status page showing:
 - Passport printing and dispatch details
 - Speed Post tracking number (once dispatched)
 
-> **Tip:** Bookmark the direct tracking URL: [passportindia.gov.in/AppOnlineProject/statusTracker/trackStatusIn498](https://passportindia.gov.in/AppOnlineProject/statusTracker/trackStatusIn498)
+> **Tip:** Bookmark the direct tracking URL: [passportindia.gov.in/AppOnlineProject/statusTracker/trackStatusIn498](https://www.passportindia.gov.in)
 
 ---
 

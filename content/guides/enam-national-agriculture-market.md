@@ -7,7 +7,7 @@ readingTime: "8 min"
 lastUpdated: 2026-02-16
 officialLinks:
   - https://enam.gov.in
-  - https://play.google.com/store/apps/details?id=com.enam.mandi
+  - https://enam.gov.in
 ---
 
 ## What is e-NAM?
@@ -169,7 +169,7 @@ The **e-NAM mobile app** makes it easy to access the platform on the go:
 - **View payment history** and transaction details
 - **Get price alerts** for your preferred commodities
 - **Available in:** Hindi, English, and multiple regional languages
-- **Download:** [Google Play Store](https://play.google.com/store/apps/details?id=com.enam.mandi) | Apple App Store
+- **Download:** [Google Play Store](https://enam.gov.in) | Apple App Store
 
 ## Logistics and Warehousing
 

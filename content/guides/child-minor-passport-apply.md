@@ -20,7 +20,7 @@ keywords:
 readingTime: "12 min"
 officialLinks:
   - "https://www.passportindia.gov.in"
-  - "https://passportindia.gov.in/AppOnlineProject/online/feeDetails"
+  - "https://www.passportindia.gov.in"
   - "https://www.meaconsular.gov.in"
 ---
 

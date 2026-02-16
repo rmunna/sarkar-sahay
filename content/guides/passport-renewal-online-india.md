@@ -6,7 +6,7 @@ keywords: ["passport renewal online", "renew passport India", "passport renewal 
 readingTime: "8 min"
 officialLinks:
   - https://www.passportindia.gov.in
-  - https://passportindia.gov.in/AppOnlineProject/statusTracker/trackStatusIn498
+  - https://www.passportindia.gov.in
   - https://mea.gov.in
 ---
 

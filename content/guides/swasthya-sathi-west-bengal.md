@@ -16,7 +16,7 @@ readingTime: "8 min"
 officialLinks:
   - "https://swasthyasathi.gov.in"
   - "https://swasthyasathi.gov.in/FAQ"
-  - "https://swasthyasathi.gov.in/HospitalSearch/HospitalSearch"
+  - "https://swasthyasathi.gov.in"
 ---
 
 # Swasthya Sathi (স্বাস্থ্য সাথী) — West Bengal's Free Health Insurance Scheme
@@ -128,7 +128,7 @@ The Swasthya Sathi card is a **biometric smart card** issued in the **name of th
 
 With **2,800+ hospitals** empanelled (both government and private), finding one near you is easy:
 
-- **Online:** Visit [swasthyasathi.gov.in → Hospital Search](https://swasthyasathi.gov.in/HospitalSearch/HospitalSearch)
+- **Online:** Visit [swasthyasathi.gov.in → Hospital Search](https://swasthyasathi.gov.in)
 - **Mobile App:** Download "Swasthya Sathi" from Google Play Store → tap "Active Hospitals"
 - **Helpline:** Call **1800-345-5384** (toll-free, 24×7)
 

@@ -20,7 +20,7 @@ officialLinks:
   - "https://uidai.gov.in"
   - "https://myaadhaar.uidai.gov.in"
   - "https://appointments.uidai.gov.in"
-  - "https://uidai.gov.in/en/contact-support/have-any-question/enrollment-and-update.html"
+  - "https://uidai.gov.in/en/contact-support.html"
 ---
 
 # Baal Aadhaar Card — How to Apply for Child Aadhaar Below 5 Years

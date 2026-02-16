@@ -20,7 +20,7 @@ readingTime: "8 min"
 lastUpdated: "2026-02-16"
 officialLinks:
   - "https://www.shcilestamp.com"
-  - "https://www.shcilestamp.com/Aborting_Logins/EStampCustomerVerify.aspx"
+  - "https://www.shcilestamp.com"
   - "https://igr.karnataka.gov.in"
 ---
 
