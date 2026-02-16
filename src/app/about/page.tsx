@@ -1,15 +1,15 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About SarkarSahay — Making Government Services Simple",
+  title: "About CitizenNest — Making Government Services Simple",
   description:
-    "SarkarSahay provides clear, step-by-step guides for Indian government services. Independent, accurate, always updated.",
+    "CitizenNest provides clear, step-by-step guides for Indian government services. Independent, accurate, always updated.",
 };
 
 export default function AboutPage() {
   return (
     <div className="max-w-3xl mx-auto">
-      <h1 className="text-3xl font-bold mb-6">About SarkarSahay</h1>
+      <h1 className="text-3xl font-bold mb-6">About CitizenNest</h1>
 
       <div className="prose prose-gray max-w-none">
         <p className="text-lg text-gray-600 mb-6">
@@ -20,9 +20,9 @@ export default function AboutPage() {
         </p>
 
         <p className="text-lg text-gray-600 mb-6">
-          <strong>SarkarSahay</strong> (सरकार सहाय — &quot;Government Help&quot;) solves this. We provide
-          clear, accurate, step-by-step guides for every Indian government service — from
-          getting an Aadhaar card to filing your taxes.
+          <strong>CitizenNest</strong> solves this. We provide clear, accurate, step-by-step
+          guides for every Indian government service — from getting an Aadhaar card to
+          filing your taxes. A nest of resources for every Indian citizen.
         </p>
 
         <h2 className="text-2xl font-bold mt-8 mb-4">Our Commitment</h2>
@@ -37,7 +37,7 @@ export default function AboutPage() {
         <h2 className="text-2xl font-bold mt-8 mb-4">Disclaimer</h2>
         <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-4 text-sm text-yellow-800">
           <p>
-            SarkarSahay is an <strong>independent informational website</strong>. We are NOT
+            CitizenNest is an <strong>independent informational website</strong>. We are NOT
             affiliated with, endorsed by, or connected to any Indian government body or
             department. Information provided here is for general guidance only.
           </p>

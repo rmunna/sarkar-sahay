@@ -1,4 +1,4 @@
-// Agent system prompts for the SarkarSahay content pipeline
+// Agent system prompts for the CitizenNest content pipeline
 
 export const RESEARCHER_PROMPT = `You are Sarkar-Researcher. Your job is to collect accurate, up-to-date information about an Indian government service ONLY from authoritative sources.
 

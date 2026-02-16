@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /_next/
 
-Sitemap: https://sarkarsahay.in/sitemap.xml
+Sitemap: https://citizennest.com/sitemap.xml

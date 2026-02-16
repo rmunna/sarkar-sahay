@@ -237,4 +237,4 @@ Yes, you can add up to 5 Aadhaar profiles (including your child's) in the **mAad
 
 *Getting your child's Baal Aadhaar is a simple process that takes just one visit to the Aadhaar centre. Don't wait for school admissions — get it done early and save yourself the last-minute rush!*
 
-*For more government document guides, explore our other articles on [SarkarSahay](/).*
+*For more government document guides, explore our other articles on [CitizenNest](/).*

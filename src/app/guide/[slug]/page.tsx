@@ -15,16 +15,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const guide = await getGuideBySlug(slug);
   if (!guide) return {};
-  const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://sarkarsahay.in";
+  const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://citizennest.com";
   return {
-    title: `${guide.title} — SarkarSahay`,
+    title: `${guide.title} — CitizenNest`,
     description: guide.description,
     keywords: guide.keywords,
     openGraph: {
       title: guide.title,
       description: guide.description,
       url: `${BASE_URL}/guide/${guide.slug}`,
-      siteName: "SarkarSahay",
+      siteName: "CitizenNest",
       type: "article",
       locale: "en_IN",
     },

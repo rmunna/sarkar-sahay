@@ -1,4 +1,4 @@
-# SarkarSahay Multi-Agent Pipeline
+# CitizenNest Multi-Agent Pipeline
 
 ## Architecture
 

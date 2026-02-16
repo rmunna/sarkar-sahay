@@ -1,4 +1,4 @@
-# SarkarSahay 6-Agent Pipeline Runner
+# CitizenNest 6-Agent Pipeline Runner
 
 ## How Midas Runs the Pipeline
 

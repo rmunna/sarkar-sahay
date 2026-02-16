@@ -45,7 +45,7 @@ export function generateArticleSchema(guide: {
   description: string;
   slug: string;
 }): object {
-  const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://sarkarsahay.in";
+  const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://citizennest.com";
   return {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -53,12 +53,12 @@ export function generateArticleSchema(guide: {
     description: guide.description,
     author: {
       "@type": "Organization",
-      name: "SarkarSahay",
+      name: "CitizenNest",
       url: BASE_URL,
     },
     publisher: {
       "@type": "Organization",
-      name: "SarkarSahay",
+      name: "CitizenNest",
       url: BASE_URL,
     },
     mainEntityOfPage: {

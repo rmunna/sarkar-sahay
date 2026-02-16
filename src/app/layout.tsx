@@ -8,12 +8,12 @@ const inter = Inter({
   variable: "--font-inter",
 });
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://sarkarsahay.in";
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://citizennest.com";
 
 export const metadata: Metadata = {
   title: {
-    default: "SarkarSahay — Step-by-Step Government Service Guides for India",
-    template: "%s — SarkarSahay",
+    default: "CitizenNest — Step-by-Step Government Service Guides for India",
+    template: "%s — CitizenNest",
   },
   description:
     "Clear, accurate, step-by-step guides for Indian government services — Aadhaar, PAN, Ration Card, Schemes, Jobs, Exams & more.",
@@ -25,13 +25,14 @@ export const metadata: Metadata = {
     "sarkari yojana",
     "government schemes",
     "sarkari naukri",
+    "citizennest",
   ],
   metadataBase: new URL(BASE_URL),
   openGraph: {
-    title: "SarkarSahay — Government Services Made Simple",
+    title: "CitizenNest — Government Services Made Simple",
     description: "Step-by-step guides for every Indian government service.",
     url: BASE_URL,
-    siteName: "SarkarSahay",
+    siteName: "CitizenNest",
     locale: "en_IN",
     type: "website",
   },
@@ -46,9 +47,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <header className="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-sm">
           <nav className="max-w-6xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
             <a href="/" className="flex items-center gap-2 group">
-              <span className="text-2xl">🏛️</span>
+              <span className="text-2xl">🏠</span>
               <span className="text-xl font-extrabold text-gray-900 group-hover:text-orange-600 transition">
-                Sarkar<span className="text-orange-600">Sahay</span>
+                Citizen<span className="text-orange-600">Nest</span>
               </span>
             </a>
             <div className="flex gap-1 sm:gap-2">
@@ -85,9 +86,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <div className="flex flex-col md:flex-row justify-between gap-6">
               <div>
                 <div className="flex items-center gap-2 mb-2">
-                  <span className="text-xl">🏛️</span>
+                  <span className="text-xl">🏠</span>
                   <span className="font-bold text-gray-900">
-                    Sarkar<span className="text-orange-600">Sahay</span>
+                    Citizen<span className="text-orange-600">Nest</span>
                   </span>
                 </div>
                 <p className="text-sm text-gray-500 max-w-md">
@@ -116,10 +117,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </div>
             <div className="mt-8 pt-6 border-t border-gray-100 text-center">
               <p className="text-xs text-gray-400 mb-1">
-                <strong>Disclaimer:</strong> SarkarSahay is an independent informational website.
+                <strong>Disclaimer:</strong> CitizenNest is an independent informational website.
                 Not affiliated with any government body.
               </p>
-              <p className="text-xs text-gray-400">© 2026 SarkarSahay. All rights reserved.</p>
+              <p className="text-xs text-gray-400">© 2026 CitizenNest. All rights reserved.</p>
             </div>
           </div>
         </footer>

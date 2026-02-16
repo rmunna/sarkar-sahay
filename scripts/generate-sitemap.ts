@@ -7,7 +7,7 @@ import * as fs from "fs";
 import * as path from "path";
 import matter from "gray-matter";
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://sarkarsahay.in";
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://citizennest.com";
 const GUIDES_DIR = path.join(__dirname, "..", "content", "guides");
 const OUT_DIR = path.join(__dirname, "..", ".next", "static");
 

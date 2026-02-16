@@ -1,4 +1,4 @@
-# SarkarSahay Single-Shot Pipeline Prompt
+# CitizenNest Single-Shot Pipeline Prompt
 
 This prompt is used by the orchestrator (Midas) when spawning a sub-agent to generate a complete guide.
 
@@ -7,7 +7,7 @@ The sub-agent performs ALL 6 pipeline stages in one shot and writes the final fi
 ## Template
 
 ```
-You are the SarkarSahay content pipeline. Generate a complete, accurate, SEO-optimized guide for: "{TOPIC}"
+You are the CitizenNest content pipeline. Generate a complete, accurate, SEO-optimized guide for: "{TOPIC}"
 
 Execute these stages IN ORDER:
 
@@ -46,7 +46,7 @@ CRITICAL RULES:
 - Must include FAQ section with 5+ Q&As
 - Valid categories: "Identity Documents", "Government Schemes", "Tax & Finance", "Jobs & Exams", "Certificates", "Utilities", "Property & Legal", "Food & Ration", "State Schemes"
 - For state-specific schemes, use category "State Schemes" or the appropriate domain category
-- Include internal cross-links to related SarkarSahay guides where relevant (e.g., "See our [Aadhaar guide](/guide/aadhaar-card-apply-online) for more details")
+- Include internal cross-links to related CitizenNest guides where relevant (e.g., "See our [Aadhaar guide](/guide/aadhaar-card-apply-online) for more details")
 
 OUTPUT: Write the final markdown file to: /Users/rajakumar/.openclaw/workspace/sarkar-sahay/content/guides/{SLUG}.md
 

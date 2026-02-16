@@ -25,7 +25,7 @@ export default function Home() {
       {/* Hero */}
       <section className="text-center py-14 md:py-20">
         <div className="inline-flex items-center gap-2 px-4 py-1.5 bg-orange-50 border border-orange-200 rounded-full text-sm text-orange-700 font-medium mb-6">
-          🇮🇳 Trusted by thousands of Indians
+          🇮🇳 Your trusted guide to government services
         </div>
         <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-5 leading-tight">
           Government Services,{" "}
@@ -152,7 +152,7 @@ export default function Home() {
       {/* Trust Section */}
       <section className="bg-white rounded-2xl border border-gray-200 p-8 md:p-12 text-center mb-8">
         <h2 className="text-2xl font-bold text-gray-900 mb-6">
-          Why Trust SarkarSahay?
+          Why Trust CitizenNest?
         </h2>
         <div className="grid md:grid-cols-3 gap-8">
           <div>

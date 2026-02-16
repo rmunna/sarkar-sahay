@@ -2,7 +2,7 @@ import { getCategories, getAllGuides } from "@/lib/guides";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "All Categories — SarkarSahay",
+  title: "All Categories — CitizenNest",
   description: "Browse all government service categories — Identity Documents, Schemes, Tax, Certificates & more.",
 };
 

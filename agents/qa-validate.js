@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * SarkarSahay QA Validation Agent
+ * CitizenNest QA Validation Agent
  * Validates a guide markdown file for correctness before commit.
  * 
  * Usage: node qa-validate.js <file-path> [--fix]

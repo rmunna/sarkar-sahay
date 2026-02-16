@@ -1,5 +1,5 @@
 /**
- * SarkarSahay Multi-Agent Pipeline Orchestrator
+ * CitizenNest Multi-Agent Pipeline Orchestrator
  * 
  * Runs via OpenClaw sessions_spawn, chaining 6 agents in sequence:
  * Research → Structure → Write → Validate → SEO → Publish
