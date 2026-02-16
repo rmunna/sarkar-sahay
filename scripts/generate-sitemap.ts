@@ -9,7 +9,7 @@ import matter from "gray-matter";
 
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://sarkarsahay.in";
 const GUIDES_DIR = path.join(__dirname, "..", "content", "guides");
-const OUT_DIR = path.join(__dirname, "..", "out");
+const OUT_DIR = path.join(__dirname, "..", ".next", "static");
 
 function getGuides() {
   if (!fs.existsSync(GUIDES_DIR)) return [];
