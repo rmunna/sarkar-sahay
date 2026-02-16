@@ -35,10 +35,18 @@ Writing style: Simple Indian English, numbered steps, no fluff, trustworthy tone
 
 CRITICAL RULES:
 - Never fabricate fees, timelines, or URLs
-- Always include official .gov.in links
+- Always include official .gov.in or state government portal links
 - Add disclaimer note that this is independent, not government-affiliated
 - Target 1000-2000 words
 - lastUpdated should be today's date
+- CRITICAL: officialLinks in frontmatter MUST be plain URL strings, NOT objects with name/url keys
+- CRITICAL: All frontmatter keys must be camelCase (description, readingTime, officialLinks, lastUpdated) — NOT snake_case
+- readingTime format must be "X min" (e.g., "8 min") — NOT "8 min read"
+- description must be 140-160 characters for optimal SEO
+- Must include FAQ section with 5+ Q&As
+- Valid categories: "Identity Documents", "Government Schemes", "Tax & Finance", "Jobs & Exams", "Certificates", "Utilities", "Property & Legal", "Food & Ration", "State Schemes"
+- For state-specific schemes, use category "State Schemes" or the appropriate domain category
+- Include internal cross-links to related SarkarSahay guides where relevant (e.g., "See our [Aadhaar guide](/guide/aadhaar-card-apply-online) for more details")
 
 OUTPUT: Write the final markdown file to: /Users/rajakumar/.openclaw/workspace/sarkar-sahay/content/guides/{SLUG}.md
 
