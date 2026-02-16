@@ -93,6 +93,32 @@ export default async function GuidePage({ params }: Props) {
   const contentWithIds = addHeadingIds(guide.contentHtml);
   const catStyle = getCategoryStyle(guide.category);
 
+  const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://citizennest.com";
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: BASE_URL,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: guide.category,
+        item: `${BASE_URL}/categories#${guide.category.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "")}`,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: guide.title,
+        item: `${BASE_URL}/guide/${guide.slug}`,
+      },
+    ],
+  };
+
   return (
     <>
       <script
@@ -105,6 +131,10 @@ export default async function GuidePage({ params }: Props) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
         />
       )}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
 
       {/* Breadcrumb */}
       <nav className="text-sm text-gray-500 mb-6">

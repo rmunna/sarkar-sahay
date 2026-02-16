@@ -1,5 +1,6 @@
 import { getAllGuides, getCategories } from "@/lib/guides";
 import Link from "next/link";
+import SearchBar from "@/components/SearchBar";
 
 const CATEGORY_ICONS: Record<string, string> = {
   "Identity Documents": "🪪",
@@ -20,6 +21,13 @@ export default function Home() {
   const guides = [...allGuides]
     .sort((a, b) => a.title.localeCompare(b.title))
     .slice(0, 12);
+  // Search index (only what's needed)
+  const searchGuides = allGuides.map((g) => ({
+    slug: g.slug,
+    title: g.title,
+    description: g.description,
+    category: g.category,
+  }));
 
   return (
     <div>
@@ -36,7 +44,11 @@ export default function Home() {
           Step-by-step guides for every Indian government service — Aadhaar, PAN,
           Passport, Schemes, Jobs & more. Always accurate. Always free.
         </p>
-        <div className="mt-8 flex flex-wrap justify-center gap-3">
+        {/* Search Bar */}
+        <div className="mt-8 flex justify-center">
+          <SearchBar guides={searchGuides} />
+        </div>
+        <div className="mt-5 flex flex-wrap justify-center gap-3">
           <Link
             href="/categories"
             className="px-6 py-3 bg-orange-600 text-white rounded-xl font-semibold hover:bg-orange-700 transition shadow-sm"
