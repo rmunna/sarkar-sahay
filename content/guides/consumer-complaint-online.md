@@ -1,6 +1,6 @@
 ---
-title: "How to File Consumer Complaint Online — National Consumer Helpline & eDaakhil"
-description: "Step-by-step guide to filing a consumer complaint online in India using the National Consumer Helpline (1800-11-4000) and eDaakhil portal. Know your rights, required documents, fees, and how to track your complaint."
+title: "File Consumer Complaint Online — Helpline title: "How to File Consumer Complaint Online — National Consumer Helpline & eDaakhil" eDaakhil"
+description: "File a consumer complaint online via National Consumer Helpline (1800-11-4000) and eDaakhil portal. Know your rights, documents, and tracking."
 category: "Property & Legal"
 keywords:
   - consumer complaint online

@@ -1,5 +1,5 @@
 ---
-title: "How to Pay Challan Online — Traffic Challan, e-Challan Payment & Status Check"
+title: "Pay Traffic e-Challan Online — Payment title: "How to Pay Challan Online — Traffic Challan, e-Challan Payment & Status Check" Status"
 description: "Complete guide to check and pay traffic e-challans online in India via echallan.parivahan.gov.in. Learn how to check challan status by vehicle number, pay fines online, and dispute challans."
 category: "Utilities"
 keywords:

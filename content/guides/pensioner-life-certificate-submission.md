@@ -1,5 +1,5 @@
 ---
-title: "Pensioner Life Certificate Submission — All Methods, Deadlines & Common Issues"
+title: "Pensioner Life Certificate — Methods title: "Pensioner Life Certificate Submission — All Methods, Deadlines & Common Issues" Deadlines"
 description: "Complete guide to submitting pensioner life certificate via Jeevan Pramaan, face authentication, bank branch, or India Post. Know deadlines and avoid pension stoppage."
 category: "Government Schemes"
 keywords:

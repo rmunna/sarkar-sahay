@@ -1,6 +1,6 @@
 ---
 title: "How to Renew Driving License Online in India"
-description: "Step-by-step guide to renew your driving licence online via the Sarathi Parivahan portal. Know the documents required, fees, medical certificate rules, and how to download your digital DL."
+description: "Renew your driving licence online via Sarathi Parivahan portal. Documents required, fees, medical certificate rules, and digital DL download."
 category: "Identity Documents"
 keywords:
   - "driving license renewal online"

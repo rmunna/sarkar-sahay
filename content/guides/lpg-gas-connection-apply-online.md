@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for Gas Connection Online — LPG New Connection (Indane, HP, Bharat Gas)"
+title: "LPG Gas Connection — Apply Online (Indane, HP, Bharat)"
 description: "Step-by-step guide to apply for a new LPG gas connection online from Indane, HP Gas, or Bharat Gas. Documents, fees, and Ujjwala eligibility."
 category: "Utilities"
 keywords: ["LPG gas connection online", "new gas connection apply", "Indane gas new connection", "HP gas connection", "Bharat gas connection", "Ujjwala Yojana LPG", "LPG cylinder booking"]

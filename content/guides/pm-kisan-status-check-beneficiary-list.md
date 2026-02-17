@@ -1,5 +1,5 @@
 ---
-title: "PM Kisan Status Check — Beneficiary List, Instalment Status & Fix Rejected Payment"
+title: "PM Kisan Status — Beneficiary List title: "PM Kisan Status Check — Beneficiary List, Instalment Status & Fix Rejected Payment" Instalment Check"
 description: "Step-by-step guide to check your PM Kisan beneficiary status, find your name in the village-wise list, check instalment payment status, complete eKYC, and fix rejected or failed payments on pmkisan.gov.in."
 category: "Government Schemes"
 keywords:

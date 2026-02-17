@@ -124,7 +124,7 @@ function validateGuide(filePath) {
 
   // 9. Required sections
   const hasSteps = /## .*step/i.test(content) || /### step \d/i.test(content);
-  const hasFAQ = /## .*faq/i.test(content);
+  const hasFAQ = /## .*faq/i.test(content) || /## .*frequently asked/i.test(content);
   const hasFees = /## .*fee/i.test(content) || /fee/i.test(content);
   const hasDocuments = /## .*document/i.test(content) || /documents required/i.test(content);
   const hasEligibility = /## .*eligib/i.test(content) || /who is eligible/i.test(content) || /who can apply/i.test(content);

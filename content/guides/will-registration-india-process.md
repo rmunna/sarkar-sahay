@@ -1,5 +1,5 @@
 ---
-title: "How to Get a Will Registered in India — Process, Format, Documents & Cost"
+title: "Will Registration in India — Process, Format title: "How to Get a Will Registered in India — Process, Format, Documents & Cost" Cost"
 description: "Learn how to register a will in India. Step-by-step process at sub-registrar office, documents needed, stamp duty, witnesses, format & cost explained."
 slug: "will-registration-india-process"
 category: "Property & Legal"

@@ -1,5 +1,5 @@
 ---
-title: "PMFBY Claim Process — How to Report Crop Loss, Check Status & Get Insurance Payout"
+title: "PMFBY Claim — Report Crop Loss title: "PMFBY Claim Process — How to Report Crop Loss, Check Status & Get Insurance Payout" Check Status"
 description: "Step-by-step guide to file PMFBY crop loss claims within 72 hours, check claim status online, understand crop cutting experiments, and resolve grievances."
 category: "Government Schemes"
 lastUpdated: "2026-02-16"

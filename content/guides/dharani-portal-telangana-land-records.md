@@ -1,5 +1,5 @@
 ---
-title: "Telangana Dharani Portal — Land Records, Pattadar Passbook & Mutation Online"
+title: "Dharani Portal Telangana — Land Records title: "Telangana Dharani Portal — Land Records, Pattadar Passbook & Mutation Online" Mutation"
 description: "Check Telangana land records, download Pattadar passbook, apply for mutation & encumbrance certificate on Dharani portal. Step-by-step guide."
 category: "Property & Legal"
 keywords: ["dharani portal", "telangana land records", "pattadar passbook", "mutation telangana", "encumbrance certificate telangana", "dharani slot booking", "భూమి రికార్డులు", "ధరణి పోర్టల్", "land registration telangana"]

@@ -1,5 +1,5 @@
 ---
-title: "Recurring Deposit (RD) — How to Open RD Account Online, Interest Rates & Calculator"
+title: "Recurring Deposit (RD) — Open Account title: "Recurring Deposit (RD) — How to Open RD Account Online, Interest Rates & Calculator" Interest Rates"
 description: "Learn about Recurring Deposit interest rates from SBI, HDFC, ICICI & Post Office. Open RD online, use the maturity calculator, and compare RD vs FD vs SIP."
 category: "Tax & Finance"
 keywords:

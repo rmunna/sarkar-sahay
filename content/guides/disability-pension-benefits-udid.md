@@ -1,6 +1,6 @@
 ---
 title: "Disability Pension, Tax Benefits & Schemes Available with UDID Card"
-description: "Complete guide to benefits with UDID card — disability pension, Section 80U/80DD tax deductions, railway concessions, ADIP scheme, scholarships, and job reservation."
+description: "UDID card benefits guide — disability pension, Section 80U/80DD tax relief, railway concessions, ADIP scheme, scholarships, and job reservation."
 category: "Government Schemes"
 keywords: ["disability pension India", "UDID card benefits", "Section 80U deduction", "Section 80DD deduction", "ADIP scheme assistive devices", "disability scholarship India", "railway concession disabled", "disability reservation employment", "disability pension scheme"]
 readingTime: "9 min"

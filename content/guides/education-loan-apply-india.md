@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for Education Loan in India — Banks, Interest Rates & Repayment"
+title: "Education Loan in India — Apply, Interest title: "How to Apply for Education Loan in India — Banks, Interest Rates & Repayment" Repayment"
 description: "Complete guide to applying for education loans in India. Compare banks, interest rates, collateral rules, repayment options, and tax benefits under Section 80E."
 keywords:
   - education loan India

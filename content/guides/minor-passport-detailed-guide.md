@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for Passport for Minor Child — Documents, Process & Parental Consent"
+title: "Minor Passport — Apply, Documents title: "How to Apply for Passport for Minor Child — Documents, Process & Parental Consent" Parental Consent"
 description: "Complete guide to minor passport in India — age categories, parental consent annexures, documents for every scenario, fees, and Baal Passport."
 category: "Identity Documents"
 keywords:

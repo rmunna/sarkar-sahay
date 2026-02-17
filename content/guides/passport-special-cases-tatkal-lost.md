@@ -1,6 +1,6 @@
 ---
-title: "Tatkal Passport, Lost Passport, Name Change & Other Special Passport Cases"
-description: "Complete guide for tatkal passport, lost or damaged passport, ECR/ECNR, name change after marriage, spouse name addition, and additional booklet pages. Fees, documents, and step-by-step process."
+title: "Tatkal Passport, Lost Passport title: "Tatkal Passport, Lost Passport, Name Change & Other Special Passport Cases" Special Cases"
+description: "Guide for tatkal passport, lost or damaged passport, ECR/ECNR, name change after marriage, and spouse name addition. Fees and documents covered."
 category: "Identity Documents"
 keywords: ["tatkal passport", "tatkal passport fees", "lost passport apply", "damaged passport reissue", "passport name change after marriage", "ECR ECNR passport", "add spouse name passport", "passport additional booklet", "passport appearance change", "tatkal passport documents", "Annexure F passport"]
 readingTime: "12 min"

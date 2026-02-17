@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for Tatkal Passport — Fees, Documents & Fast-Track Process"
+title: "Tatkal Passport — Apply, Fees title: "How to Apply for Tatkal Passport — Fees, Documents & Fast-Track Process" Fast-Track Process"
 description: "Complete guide to apply for Tatkal passport in India. Fees, required documents, Annexure F, processing time, and appointment tips."
 category: "Identity Documents"
 keywords: ["tatkal passport", "tatkal passport fees", "tatkal passport documents", "Annexure F passport", "tatkal passport processing time", "urgent passport India", "tatkal passport online apply", "fast track passport India"]

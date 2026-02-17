@@ -1,5 +1,5 @@
 ---
-title: "One Nation One Ration Card (ONORC) — How to Use Ration Card Anywhere in India"
+title: "One Nation One Ration Card (ONORC) — Use Anywhere"
 description: "Learn how the One Nation One Ration Card scheme lets you buy ration from any Fair Price Shop in India. Step-by-step ePoS process and eligibility."
 keywords:
   - one nation one ration card

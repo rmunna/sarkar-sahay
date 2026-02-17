@@ -1,6 +1,6 @@
 ---
-title: "Stand Up India Scheme — ₹10 Lakh to ₹1 Crore Loan for SC/ST & Women Entrepreneurs"
-description: "Complete guide to Stand Up India loan scheme. Know eligibility, loan amount, interest rate, documents, how to apply on standupmitra.in for SC/ST and women entrepreneurs."
+title: "Stand Up India — Loan for SC/ST title: "Stand Up India Scheme — ₹10 Lakh to ₹1 Crore Loan for SC/ST & Women Entrepreneurs" Women Entrepreneurs"
+description: "Stand Up India loan scheme guide — eligibility, loan amount, interest rate, documents, and how to apply on standupmitra.in for SC/ST and women."
 category: "Government Schemes"
 keywords:
   - "Stand Up India scheme"

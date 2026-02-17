@@ -1,5 +1,5 @@
 ---
-title: "Life Insurance — Types, How to Buy Online, Claim Process & Tax Benefits"
+title: "Life Insurance — Types, Buy Online title: "Life Insurance — Types, How to Buy Online, Claim Process & Tax Benefits" Tax Benefits"
 description: "Complete guide to life insurance in India — term, endowment, ULIP, whole life plans, how to buy online, claim process, tax benefits under 80C & 10(10D)."
 slug: "life-insurance-types-buy-online"
 category: "Tax & Finance"

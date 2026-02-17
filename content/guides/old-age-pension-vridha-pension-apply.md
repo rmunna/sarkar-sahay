@@ -1,6 +1,6 @@
 ---
-title: "How to Apply for Old Age Pension / Vridha Pension Online — State-wise Guide"
-description: "Complete guide to applying for old age pension (Vridha Pension) online in India. Covers IGNOAPS central scheme, state-wise pension amounts, eligibility, documents, online application process, and status check for UP, Bihar, Rajasthan, MP, Maharashtra, Tamil Nadu, Karnataka, and Delhi."
+title: "Old Age Pension / Vridha Pension — Apply Online"
+description: "Apply for old age pension (Vridha Pension) online in India. IGNOAPS scheme details, state-wise amounts, eligibility, documents, and status check."
 category: "Government Schemes"
 keywords:
   - "old age pension"

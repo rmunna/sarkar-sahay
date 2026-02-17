@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for Scholarship Online — Post-Matric & Pre-Matric Scholarships in India"
+title: "Post-Matric title: "How to Apply for Scholarship Online — Post-Matric & Pre-Matric Scholarships in India" Pre-Matric Scholarship — Apply Online"
 description: "Complete guide to apply for Post-Matric and Pre-Matric scholarships online via NSP. Covers eligibility, documents, application process, and renewal steps."
 lastUpdated: "2026-02-16"
 readingTime: "12 min"

@@ -1,5 +1,5 @@
 ---
-title: "NEET UG — How to Apply Online, Admit Card, Results & Counselling Process"
+title: "NEET UG — Apply, Admit Card, Results title: "NEET UG — How to Apply Online, Admit Card, Results & Counselling Process" Counselling"
 description: "Complete guide to NEET UG exam — online application at neet.nta.nic.in, eligibility, admit card download, results, and MCC counselling for MBBS/BDS/AYUSH seats."
 category: "Jobs & Exams"
 keywords:

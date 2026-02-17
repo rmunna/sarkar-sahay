@@ -1,6 +1,6 @@
 ---
 title: "How to Track Passport Application Status Online"
-description: "Step-by-step guide to check your Indian passport application status online via Passport Seva Portal, mPassport Seva app, and SMS. Understand status meanings, police verification, delivery tracking, and grievance options."
+description: "Track Indian passport application status online via Passport Seva Portal, mPassport app, and SMS. Status meanings and delivery tracking guide."
 category: "Identity Documents"
 keywords:
   - "passport status check"

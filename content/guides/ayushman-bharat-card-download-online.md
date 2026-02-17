@@ -1,5 +1,5 @@
 ---
-title: "How to Download Ayushman Bharat Health Card Online — PMJAY Card Download"
+title: "Download Ayushman Bharat Card Online — PMJAY Card"
 description: "Step-by-step guide to download your Ayushman Bharat PMJAY health card online. Check eligibility, download e-card, link with DigiLocker."
 category: "Government Schemes"
 keywords: ["ayushman bharat card download", "PMJAY card download online", "ayushman card download", "PMJAY e-card", "ayushman bharat health card"]

@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for Legal Heir Certificate Online — Process, Documents & Format"
+title: "Legal Heir Certificate — Apply Online, Documents"
 description: "Complete guide to apply for legal heir certificate online via e-District portals. Documents required, format, fees, processing time, and FAQs explained."
 category: "Certificates"
 keywords: ["legal heir certificate online", "legal heir certificate apply", "legal heir certificate documents", "legal heir certificate format", "how to get legal heir certificate", "e-district legal heir certificate", "legal heir certificate fees", "legal heir certificate process"]

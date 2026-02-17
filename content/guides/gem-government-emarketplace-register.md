@@ -1,5 +1,5 @@
 ---
-title: "How to Register on GeM (Government e-Marketplace) — Seller & Buyer Guide"
+title: "GeM Portal Registration — Government e-Marketplace"
 description: "Complete guide to GeM registration for sellers and buyers. Learn the step-by-step process, documents required, bidding, product listing, and benefits of GeM portal."
 category: "Government Schemes"
 keywords:

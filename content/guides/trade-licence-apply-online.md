@@ -1,5 +1,5 @@
 ---
-title: "How to Get Trade Licence Online in India — Municipal Corporation Process"
+title: "Trade Licence Online — Apply via Municipal Corporation"
 description: "Complete guide to applying for a trade licence online in India. Learn the municipal corporation process, documents required, fees, renewal steps, and penalties."
 category: "Property & Legal"
 keywords:

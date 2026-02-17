@@ -1,6 +1,6 @@
 ---
 title: "How to Apply for Soil Health Card — Free Soil Testing for Farmers"
-description: "Learn how to apply for Soil Health Card online and offline. Get free soil testing, know your soil nutrients, and get crop-wise fertilizer advice from the government."
+description: "Apply for Soil Health Card online and offline. Get free soil testing, know your soil nutrients, and get crop-wise fertilizer recommendations."
 category: "Government Schemes"
 keywords:
   - "soil health card"

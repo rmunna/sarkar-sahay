@@ -1,5 +1,5 @@
 ---
-title: "Swasthya Sathi West Bengal — Free ₹5 Lakh Health Insurance for All Families"
+title: "Swasthya Sathi West Bengal — ₹5 Lakh Health Cover"
 description: "Swasthya Sathi gives every West Bengal family ₹5 lakh/year free cashless health insurance. Check eligibility, apply, and find hospitals."
 category: "State Schemes"
 keywords:

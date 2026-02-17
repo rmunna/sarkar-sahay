@@ -1,5 +1,5 @@
 ---
-title: "How to Get Voter ID Card for First Time — Registration, Documents & NVSP Process"
+title: "Voter ID First Time Registration — Documents title: "How to Get Voter ID Card for First Time — Registration, Documents & NVSP Process" NVSP"
 description: "Step-by-step guide for first-time voters to get a Voter ID card. Covers Form 6 filing, documents needed, age eligibility, and EPIC delivery."
 category: "Identity Documents"
 keywords: ["first time voter ID registration", "voter ID card for 18 year old", "Form 6 online", "new voter registration India", "EPIC card first time"]

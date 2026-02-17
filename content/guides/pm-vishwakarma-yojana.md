@@ -1,6 +1,6 @@
 ---
-title: "PM Vishwakarma Yojana — How to Apply, Benefits, Eligibility for Artisans & Craftsmen"
-description: "Complete guide to PM Vishwakarma Yojana 2024-25. Learn about 18 eligible trades, benefits like ₹1-2 lakh collateral-free loans at 5% interest, skill training, toolkit incentive, and step-by-step online application process at pmvishwakarma.gov.in."
+title: "PM Vishwakarma Yojana — Apply, Benefits title: "PM Vishwakarma Yojana — How to Apply, Benefits, Eligibility for Artisans & Craftsmen" Eligibility"
+description: "PM Vishwakarma Yojana guide — 18 eligible trades, ₹1-2 lakh collateral-free loans at 5% interest, skill training, and online application process."
 category: "Government Schemes"
 keywords:
   - "PM Vishwakarma Yojana"

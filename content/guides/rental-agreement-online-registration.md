@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for Rental Agreement Online — Registration, Format & Stamp Duty"
+title: "Rental Agreement Online — Register, Format title: "How to Apply for Rental Agreement Online — Registration, Format & Stamp Duty" Stamp Duty"
 description: "Learn how to register a rental agreement online in India. Step-by-step process, stamp duty details, essential clauses, format, and FAQ covered."
 slug: "rental-agreement-online-registration"
 category: "Property & Legal"

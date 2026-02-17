@@ -1,5 +1,5 @@
 ---
-title: "How to Check Train PNR Status, Book Ticket & Cancel — IRCTC Complete Guide"
+title: "IRCTC Train Ticket — PNR Status, Book title: "How to Check Train PNR Status, Book Ticket & Cancel — IRCTC Complete Guide" Cancel"
 description: "Step-by-step guide to check PNR status online, book train tickets on IRCTC, tatkal booking tips, cancel tickets and get refund, order food on train, and file railway complaints."
 category: "Utilities"
 keywords:

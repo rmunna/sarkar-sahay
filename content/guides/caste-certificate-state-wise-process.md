@@ -1,5 +1,5 @@
 ---
-title: "How to Get Caste Certificate Online — SC/ST/OBC Certificate State-Wise Process"
+title: "Caste Certificate Online — SC/ST/OBC State-Wise Process"
 description: "State-wise guide to apply for SC/ST/OBC caste certificate online via e-District portals. Process, documents, fees, and verification for all major states."
 category: "Certificates"
 keywords: ["caste certificate state wise process", "SC ST OBC certificate online", "e-District caste certificate", "jati praman patra apply", "caste certificate UP Bihar Maharashtra", "caste certificate documents required", "caste certificate verification"]

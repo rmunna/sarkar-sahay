@@ -1,6 +1,6 @@
 ---
-title: "How to Apply for Disability Certificate Online — UDID Card (Unique Disability ID)"
-description: "Complete guide to apply for UDID card (Unique Disability ID) online. Eligibility, documents required, step-by-step process, benefits, disability pension, and how to download your UDID card."
+title: "Disability Certificate title: "How to Apply for Disability Certificate Online — UDID Card (Unique Disability ID)" UDID Card — Apply Online"
+description: "Apply for UDID card (Unique Disability ID) online. Eligibility, documents, step-by-step process, benefits, pension details, and download guide."
 category: "Certificates"
 keywords: ["disability certificate online", "UDID card apply", "disability certificate documents", "disability pension India", "unique disability ID", "swavlambancard", "disability certificate download", "UDID card benefits"]
 readingTime: "10 min"

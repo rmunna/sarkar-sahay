@@ -1,5 +1,5 @@
 ---
-title: "How to Get Succession Certificate Online in India — Process, Documents & Fees"
+title: "Succession Certificate — Apply Online, Process title: "How to Get Succession Certificate Online in India — Process, Documents & Fees" Fees"
 description: "Apply for succession certificate online in India. Court process, documents, state-wise fees, timeline & difference from legal heir certificate."
 slug: "succession-certificate-apply-online"
 category: "Property & Legal"

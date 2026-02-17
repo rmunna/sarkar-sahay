@@ -1,5 +1,5 @@
 ---
-title: "Aadhaar Biometric Lock & Unlock — How to Protect Your Aadhaar from Misuse"
+title: "Aadhaar Biometric Lock title: "Aadhaar Biometric Lock & Unlock — How to Protect Your Aadhaar from Misuse" Unlock — Protect Your Aadhaar"
 description: "Learn how to lock and unlock Aadhaar biometrics to prevent unauthorized authentication. Step-by-step guide for mAadhaar app and UIDAI portal."
 slug: "aadhaar-biometric-lock-unlock"
 category: "Identity Documents"

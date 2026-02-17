@@ -1,5 +1,5 @@
 ---
-title: "How to Get Digital Signature Certificate (DSC) Online — Class 2 & Class 3"
+title: "Digital Signature Certificate (DSC) Online — Apply"
 description: "Complete guide to get Digital Signature Certificate online. Learn about DSC types, certifying authorities, documents, USB token, e-KYC process, and renewal."
 category: "Tax & Finance"
 keywords:

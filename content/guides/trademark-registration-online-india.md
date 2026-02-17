@@ -1,5 +1,5 @@
 ---
-title: "How to File Trademark Registration Online in India — Process, Fees & Classes"
+title: "Trademark Registration Online India — Fees title: "How to File Trademark Registration Online in India — Process, Fees & Classes" Process"
 description: "Complete guide to trademark registration in India. Learn the online filing process, fees, document requirements, Nice Classification classes, and timeline."
 slug: "trademark-registration-online-india"
 category: "Property & Legal"

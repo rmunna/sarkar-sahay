@@ -1,5 +1,5 @@
 ---
-title: "How to File Consumer Forum Complaint via e-Daakhil Portal — Complete Guide"
+title: "Consumer Forum Complaint via e-Daakhil Portal"
 description: "File consumer forum complaints online via e-Daakhil portal. Know fee structure, compensation limits, district/state/national commission process and timelines."
 category: "Property & Legal"
 lastUpdated: "2026-02-16"

@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for Central Government Job — SSC, UPSC, Railway & Banking Exam Guide"
+title: "Central Govt Job — SSC, UPSC, Railway title: "How to Apply for Central Government Job — SSC, UPSC, Railway & Banking Exam Guide" Banking Exams"
 description: "Complete guide to central government job exams — UPSC, SSC, RRB, IBPS, NTA. Learn eligibility, exam calendar, application process and preparation tips."
 category: "Jobs & Exams"
 keywords: ["central government job", "SSC exam", "UPSC exam", "railway recruitment", "banking exam", "IBPS exam", "NTA exam", "sarkari naukri"]

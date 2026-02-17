@@ -1,5 +1,5 @@
 ---
-title: "Health Insurance in India — How to Buy, Claim Process, Cashless vs Reimbursement"
+title: "Health Insurance India — Buy, Claim title: "Health Insurance in India — How to Buy, Claim Process, Cashless vs Reimbursement" Cashless Guide"
 description: "Complete guide to health insurance in India. Learn how to buy online, file claims, understand cashless vs reimbursement, tax benefits under 80D, and more."
 slug: "health-insurance-buy-claim-process"
 category: "Tax & Finance"

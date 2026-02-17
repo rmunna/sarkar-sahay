@@ -1,6 +1,6 @@
 ---
-title: "How to Correct Voter ID Card Online — Name, Address, Photo Change (NVSP)"
-description: "Step-by-step guide to correct your Voter ID (EPIC) details online using Form 8 on the NVSP portal. Fix name, address, photo, date of birth, and more. Also covers Form 8A for address shift and e-EPIC download."
+title: "Voter ID Correction Online — Name, Address title: "How to Correct Voter ID Card Online — Name, Address, Photo Change (NVSP)" Photo"
+description: "Correct Voter ID (EPIC) details online using Form 8 on NVSP portal. Fix name, address, photo, DOB, and download e-EPIC — step-by-step guide."
 category: "Identity Documents"
 keywords:
   - "voter ID correction online"

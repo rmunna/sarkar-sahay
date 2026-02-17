@@ -1,6 +1,6 @@
 ---
 title: "How to Register on e-Shram Portal — Unorganized Worker Card & Benefits"
-description: "Complete guide to e-Shram card registration for unorganized workers. Learn eligibility, documents required, step-by-step online registration, how to download your e-Shram card, and benefits including ₹2 lakh accidental insurance."
+description: "Register for e-Shram card online — for unorganized workers. Eligibility, documents, step-by-step process, download card, and ₹2 lakh insurance."
 category: "Government Schemes"
 keywords:
   - "e-Shram card registration"

@@ -1,6 +1,6 @@
 ---
-title: "Atal Pension Yojana (APY) — How to Apply, Benefits & Pension Calculator"
-description: "Complete guide to Atal Pension Yojana (APY) — guaranteed pension of ₹1,000 to ₹5,000/month after age 60. Learn eligibility, contribution chart, how to apply online, tax benefits, and APY vs NPS comparison."
+title: "Atal Pension Yojana (APY) — Apply, Benefits title: "Atal Pension Yojana (APY) — How to Apply, Benefits & Pension Calculator" Calculator"
+description: "Atal Pension Yojana (APY) guide — get ₹1,000 to ₹5,000/month pension after 60. Eligibility, contribution chart, and online application process."
 category: "Government Schemes"
 keywords:
   - "Atal Pension Yojana"

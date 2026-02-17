@@ -1,6 +1,6 @@
 ---
 title: "How to File TDS Return Online — TDS Rates, Due Dates & Form 26AS"
-description: "Complete guide to TDS (Tax Deducted at Source) in India — TDS rates for salary, FD, rent & more, how to file TDS return online, check Form 26AS, download Form 16, claim TDS refund, and correct TDS returns."
+description: "TDS guide — rates for salary, FD, rent, how to file TDS return online, check Form 26AS, download Form 16, claim refund, and correct returns."
 category: "Tax & Finance"
 keywords:
   - "TDS return filing"

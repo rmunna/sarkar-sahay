@@ -1,6 +1,6 @@
 ---
-title: "National Scholarship Portal — How to Apply for Government Scholarships Online"
-description: "Complete guide to NSP (scholarships.gov.in) — apply for Pre-Matric, Post-Matric, Central Sector, PM Scholarship and other government scholarships online. Step-by-step process, documents, eligibility, and status check."
+title: "National Scholarship Portal — Apply for Govt Aid"
+description: "Apply on NSP for Pre-Matric, Post-Matric, Central Sector, and PM scholarships. Step-by-step process, documents, eligibility, and status check."
 category: "Jobs & Exams"
 keywords:
   - "NSP scholarship apply"

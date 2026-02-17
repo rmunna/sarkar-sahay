@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for Encumbrance Certificate (EC) Online — Property Verification"
+title: "Encumbrance Certificate (EC) Online — Apply title: "How to Apply for Encumbrance Certificate (EC) Online — Property Verification" Verify"
 description: "Step-by-step guide to apply for Encumbrance Certificate online in India. Learn what EC is, how to check property encumbrance, state-wise portals, documents needed, and fees."
 category: "Property & Legal"
 keywords:

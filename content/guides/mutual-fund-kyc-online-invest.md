@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for Mutual Fund KYC Online — CKYC, eKYC & Investment Guide"
+title: "Mutual Fund KYC Online — CKYC, eKYC title: "How to Apply for Mutual Fund KYC Online — CKYC, eKYC & Investment Guide" Invest"
 description: "Complete guide to mutual fund KYC online via CAMS, KFintech & CVL portals. Learn eKYC, CKYC, documents required, and how to start investing in SIP or lump sum."
 slug: "mutual-fund-kyc-online-invest"
 keywords:

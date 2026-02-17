@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for New Electricity Connection Online — Step-by-Step Guide"
+title: "New Electricity Connection — Apply Online"
 description: "Complete guide to apply for new electricity connection. State-wise process, documents, fees, and connection types explained."
 category: "Utilities"
 keywords: ["new electricity connection apply", "electricity connection online", "bijli connection apply", "electricity meter application", "DISCOM new connection"]

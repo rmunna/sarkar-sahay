@@ -1,5 +1,5 @@
 ---
-title: "How to Get Khata Certificate & Extract Online — Property Ownership Document"
+title: "Khata Certificate title: "How to Get Khata Certificate & Extract Online — Property Ownership Document" Extract Online — Property Docs"
 description: "Complete guide to Khata certificate and Khata extract online. A Khata vs B Khata, BBMP online process, documents, fees, and state-wise equivalents."
 category: "Property & Legal"
 keywords: ["khata certificate online", "khata extract online", "BBMP khata transfer", "A khata B khata difference", "khata certificate Bangalore", "property ownership document", "khata registration online", "sakala khata application"]

@@ -1,5 +1,5 @@
 ---
-title: "How to Apply for Arms Licence in India — Process, Documents, Fees & Renewal"
+title: "Arms Licence in India — Apply, Documents, Fees title: "How to Apply for Arms Licence in India — Process, Documents, Fees & Renewal" Renewal"
 description: "Complete guide to apply for arms licence in India. Learn about NPB and PB categories, eligibility, documents required, fees, renewal process, and storage rules."
 category: "Property & Legal"
 keywords:

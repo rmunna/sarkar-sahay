@@ -1,6 +1,6 @@
 ---
-title: "Udyam Registration Online — How to Get Your MSME / Udyam Certificate (Free)"
-description: "Complete guide to Udyam Registration (MSME Registration) online in India. Learn the step-by-step process, documents required, benefits, MSME classification, and how to download your Udyam certificate — all for free on the official government portal."
+title: "Udyam MSME Registration Online — Free Certificate"
+description: "Free Udyam MSME Registration online — step-by-step process, documents, benefits, MSME classification, and how to download your Udyam certificate."
 category: "Tax & Finance"
 keywords:
   - "Udyam registration online"

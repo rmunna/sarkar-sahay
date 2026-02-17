@@ -1,5 +1,5 @@
 ---
-title: "PM Awas Yojana — Gramin & Urban Guide with Subsidy, Eligibility & Status Check"
+title: "PM Awas Yojana — Gramin title: "PM Awas Yojana — Gramin & Urban Guide with Subsidy, Eligibility & Status Check" Urban Subsidy Guide"
 description: "Complete guide to PMAY Gramin and Urban — eligibility criteria, subsidy calculation, beneficiary list check, application process, and rejection reasons."
 category: "Government Schemes"
 keywords:

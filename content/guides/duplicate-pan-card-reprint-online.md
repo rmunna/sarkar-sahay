@@ -1,5 +1,5 @@
 ---
-title: "How to Get Duplicate PAN Card — Lost, Damaged or Name Correction After Marriage"
+title: "Duplicate PAN Card — Lost, Damaged or Name Change"
 description: "Apply for a duplicate PAN card online if lost, damaged, or need name correction after marriage. Steps, documents, fees, and processing time explained."
 category: "Identity Documents"
 keywords: ["duplicate PAN card", "PAN card reprint", "lost PAN card", "PAN card name change after marriage", "PAN card correction", "reprint PAN card online", "NSDL PAN reprint"]

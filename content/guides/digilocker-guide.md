@@ -1,6 +1,6 @@
 ---
 title: "How to Use DigiLocker — Store and Access Government Documents Online"
-description: "Complete guide to DigiLocker — India's official digital document wallet. Learn how to create an account, fetch government documents like Aadhaar, PAN, driving license, and use them for KYC and verification."
+description: "DigiLocker guide — create your account, fetch Aadhaar, PAN, driving licence and other government documents. Use them for KYC and verification."
 category: "Utilities"
 keywords:
   - "DigiLocker"

@@ -1,5 +1,5 @@
 ---
-title: "Passport Police Verification — Process, Timeline, Status Check & What to Expect"
+title: "Passport Police Verification — Process title: "Passport Police Verification — Process, Timeline, Status Check & What to Expect" Status"
 description: "Complete guide to passport police verification in India — process, timeline, status check online, documents needed, and how to handle delays."
 category: "Identity Documents"
 keywords:

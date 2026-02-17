@@ -1,6 +1,6 @@
 ---
 title: "How to Apply for Mudra Loan (PMMY) — Pradhan Mantri Mudra Yojana"
-description: "Complete guide to apply for Mudra Loan online and offline. Know eligibility, documents, loan categories (Shishu, Kishore, Tarun), interest rates, and step-by-step process under PMMY."
+description: "Apply for Mudra Loan online under PMMY. Know Shishu, Kishore, Tarun categories, eligibility, documents, interest rates, and application steps."
 category: "Government Schemes"
 keywords:
   - "Mudra loan apply"
