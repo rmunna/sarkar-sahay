@@ -18,7 +18,7 @@ const VALID_CATEGORIES = ["Government Jobs", "Entrance Exams", "Results", "Admit
 const VALID_TYPES = ["notification", "admit-card", "exam-schedule", "result", "cutoff", "answer-key"];
 const VALID_STATUSES = ["active", "expired", "superseded"];
 const REQUIRED_FIELDS = ["title", "description", "category", "type", "organization", "examName", "stage", "keywords", "officialLinks", "publishedDate", "status"];
-const ALLOWED_LINK_DOMAINS = [".gov.in", ".nic.in", ".ac.in", "sbi.co.in", "ibps.in", "onlinesbi.sbi", "rfrfrff"];
+const ALLOWED_LINK_DOMAINS = [".gov.in", ".nic.in", ".ac.in", "sbi.co.in", "ibps.in", "onlinesbi.sbi", "rbi.org.in", "nta.ac.in"];
 
 function validateUpdate(filePath) {
   const errors = [];

@@ -1171,6 +1171,30 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://citizennest.com/update/bpsc-70th-cce-notification</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://citizennest.com/update/ctet-2026-notification</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://citizennest.com/update/ibps-clerk-2026-notification</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://citizennest.com/update/ibps-po-2026-notification</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://citizennest.com/update/jee-main-2026-session-2-notification</loc>
     <lastmod>2026-02-17</lastmod>
     <changefreq>daily</changefreq>
@@ -1178,6 +1202,12 @@
   </url>
   <url>
     <loc>https://citizennest.com/update/neet-ug-2026-notification</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://citizennest.com/update/rbi-grade-b-2026-notification</loc>
     <lastmod>2026-02-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -1195,7 +1225,25 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://citizennest.com/update/ssc-chsl-2026-notification</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://citizennest.com/update/ssc-gd-constable-2026-notification</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://citizennest.com/update/ssc-mts-2026-notification</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://citizennest.com/update/uppsc-pcs-2026-notification</loc>
     <lastmod>2026-02-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
