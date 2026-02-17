@@ -142,6 +142,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                     <Link href="/guide/aadhaar-card-apply-online" className="hover:text-orange-600 transition">Aadhaar Card</Link>
                     <Link href="/guide/pan-card-apply-online" className="hover:text-orange-600 transition">PAN Card</Link>
                     <Link href="/guide/passport-apply-online" className="hover:text-orange-600 transition">Passport</Link>
+                    <Link href="https://t.me/citizennest" className="hover:text-orange-600 transition" target="_blank" rel="noopener noreferrer">📢 Telegram</Link>
                   </div>
                 </div>
               </div>

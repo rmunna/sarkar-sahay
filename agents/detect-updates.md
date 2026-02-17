@@ -21,7 +21,12 @@ You are scanning for new government job notifications, exam updates, admit cards
 6. After all sources scanned:
    a. Commit all new files + updated source-monitors.json
    b. `cd /Users/rajakumar/.openclaw/workspace/sarkar-sahay && git add -A && git commit -m "content: add [N] new updates ([summary])" && git push`
-   c. Summarize: what was found, what was published, what was skipped and why
+   c. For each new update published, post to Telegram channel `@citizennest`:
+      ```
+      message(action=send, channel=telegram, target=@citizennest, message=...)
+      ```
+      Format: 🔴/🟡 Title + vacancies/type + key date + citizennest.com/update/{slug}
+   d. Summarize: what was found, what was published, what was skipped and why
 
 ## Generation Rules
 

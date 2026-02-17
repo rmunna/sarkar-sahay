@@ -80,7 +80,21 @@ git add content/
 git commit -m "content: publish {SLUG} — [brief description]"
 git push
 ```
-5. Clean up: `rm -rf .pipeline/{SLUG}`
+5. **Announce on Telegram** (updates only): Send a formatted post to `@citizennest` via the `message` tool:
+   ```
+   message(action=send, channel=telegram, target=@citizennest, message=...)
+   ```
+   Format:
+   ```
+   🔴 [Title without "— ..." suffix]
+   ━━━━━━━━━━━━━━━
+   📋 [Vacancies] Vacancies (or exam type)
+   📅 Apply by: [date] / Exam: [date]
+   
+   👉 Full Details: citizennest.com/update/{SLUG}
+   ```
+   Use 🔴 for open applications, 🟡 for upcoming/expected.
+6. Clean up: `rm -rf .pipeline/{SLUG}`
 
 ### 🔄 REVISE
 Minor issues fixable by you (typos, formatting, missing FAQ). Do this:
