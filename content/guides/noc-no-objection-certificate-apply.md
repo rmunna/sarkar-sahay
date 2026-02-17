@@ -100,7 +100,7 @@ Issued by the **State Fire Services Department** confirming that a building comp
 **When needed:**
 - Opening a commercial establishment (shop, restaurant, hotel)
 - Constructing buildings above 15 metres
-- [Applying for fire safety clearance](/guide/fire-noc-apply-online)
+- Applying for fire safety clearance
 - Renewing trade or municipal licences
 
 ### 7. Environmental NOC
@@ -243,4 +243,4 @@ Seal & Signature
 
 A No Objection Certificate is a critical document across many aspects of life in India — from moving your car to a new state to starting a business or pursuing higher education. With most NOCs now available through online portals, the process has become significantly simpler. Ensure you understand which type of NOC you need, gather the correct documents, and apply through the appropriate official channel.
 
-For related processes, check out our guides on [vehicle RC transfer](/guide/vehicle-rc-transfer-online), [property registration](/guide/property-registration-online), [police clearance certificates](/guide/police-clearance-certificate-apply), and [fire NOC application](/guide/fire-noc-apply-online).
+For related processes, check out our guides on [vehicle RC transfer](/guide/vehicle-rc-transfer-online), [property registration](/guide/property-registration-online), [police clearance certificates](/guide/police-clearance-certificate-apply)..

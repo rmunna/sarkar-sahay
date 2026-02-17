@@ -1,0 +1,44 @@
+{
+  "aadhaar-address-change-online": {
+    "lastChecked": "2026-02-17",
+    "linkStatus": "ok",
+    "brokenLinks": [],
+    "totalLinks": 4
+  },
+  "aadhaar-biometric-lock-unlock": {
+    "lastChecked": "2026-02-17",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://resident.uidai.gov.in (fetch failed)"
+    ],
+    "totalLinks": 4
+  },
+  "aadhaar-card-apply-online": {
+    "lastChecked": "2026-02-17",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://appointments.uidai.gov.in (This operation was aborted)"
+    ],
+    "totalLinks": 2
+  },
+  "aadhaar-common-problems-solutions": {
+    "lastChecked": "2026-02-17",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://ssup.uidai.gov.in (fetch failed)",
+      "https://resident.uidai.gov.in (fetch failed)"
+    ],
+    "totalLinks": 5
+  },
+  "aadhaar-linking-guide": {
+    "lastChecked": "2026-02-17",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://unifiedportal-mem.epfindia.gov.in (fetch failed)",
+      "https://mylpg.in (fetch failed)",
+      "https://www.nvsp.in (fetch failed)",
+      "https://parivahan.gov.in (HTTP 403)"
+    ],
+    "totalLinks": 7
+  }
+}
