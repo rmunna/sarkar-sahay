@@ -1,26 +1,28 @@
 ---
-title: "PM Vishwakarma Yojana — Apply, Benefits title: "PM Vishwakarma Yojana — How to Apply, Benefits, Eligibility for Artisans & Craftsmen" Eligibility"
-description: "PM Vishwakarma Yojana guide — 18 eligible trades, ₹1-2 lakh collateral-free loans at 5%, skill training, toolkit, and online application process."
-category: "Government Schemes"
+title: 'PM Vishwakarma Yojana — Apply, Benefits & Eligibility'
+description: >-
+  Complete guide to PM Vishwakarma Yojana 2024-25. Learn about 18 eligible
+  trades, benefits like ₹1-2 lakh collateral-free loans at 5% interest, skill...
+category: Government Schemes
 keywords:
-  - "PM Vishwakarma Yojana"
-  - "PM Vishwakarma apply"
-  - "Vishwakarma scheme for artisans"
-  - "PM Vishwakarma eligibility"
-  - "PM Vishwakarma online registration"
-  - "PM Vishwakarma loan"
-  - "PM Vishwakarma 18 trades"
-  - "Vishwakarma Yojana benefits"
-  - "PM Vishwakarma toolkit"
-  - "PM Vishwakarma skill training"
-  - "PM Vishwakarma documents required"
-  - "pmvishwakarma.gov.in registration"
-  - "PM Vishwakarma certificate"
-  - "collateral free loan for artisans"
-readingTime: "10 min"
+  - PM Vishwakarma Yojana
+  - PM Vishwakarma apply
+  - Vishwakarma scheme for artisans
+  - PM Vishwakarma eligibility
+  - PM Vishwakarma online registration
+  - PM Vishwakarma loan
+  - PM Vishwakarma 18 trades
+  - Vishwakarma Yojana benefits
+  - PM Vishwakarma toolkit
+  - PM Vishwakarma skill training
+  - PM Vishwakarma documents required
+  - pmvishwakarma.gov.in registration
+  - PM Vishwakarma certificate
+  - collateral free loan for artisans
+readingTime: 10 min
 officialLinks:
-  - "https://pmvishwakarma.gov.in"
-  - "https://msme.gov.in"
+  - 'https://pmvishwakarma.gov.in'
+  - 'https://msme.gov.in'
 ---
 
 # PM Vishwakarma Yojana — How to Apply, Benefits, Eligibility for Artisans & Craftsmen

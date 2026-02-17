@@ -1,31 +1,34 @@
 ---
-title: "NEET UG — Apply, Admit Card, Results title: "NEET UG — How to Apply Online, Admit Card, Results & Counselling Process" Counselling"
-description: "Complete guide to NEET UG exam — online application at neet.nta.nic.in, eligibility, admit card download, results, and MCC counselling for MBBS/BDS/AYUSH seats."
-category: "Jobs & Exams"
+title: 'NEET UG — Apply, Admit Card, Results & Counselling'
+description: >-
+  Complete guide to NEET UG exam — online application at neet.nta.nic.in,
+  eligibility, admit card download, results, and MCC counselling for
+  MBBS/BDS/AYUSH seats.
+category: Jobs & Exams
 keywords:
-  - "NEET UG apply online"
-  - "NEET UG admit card"
-  - "NEET UG result"
-  - "NEET UG counselling"
-  - "NEET UG eligibility"
-  - "NEET UG application form"
-  - "NTA NEET registration"
-  - "NEET exam pattern"
-  - "NEET UG scorecard"
-  - "MCC NEET counselling"
-  - "NEET MBBS admission"
-  - "NEET UG important dates"
-  - "NEET UG application fee"
-  - "NEET UG AIQ counselling"
-  - "NEET BDS AYUSH admission"
-readingTime: "10 min"
-lastUpdated: 2026-02-16
+  - NEET UG apply online
+  - NEET UG admit card
+  - NEET UG result
+  - NEET UG counselling
+  - NEET UG eligibility
+  - NEET UG application form
+  - NTA NEET registration
+  - NEET exam pattern
+  - NEET UG scorecard
+  - MCC NEET counselling
+  - NEET MBBS admission
+  - NEET UG important dates
+  - NEET UG application fee
+  - NEET UG AIQ counselling
+  - NEET BDS AYUSH admission
+readingTime: 10 min
+lastUpdated: 2026-02-16T00:00:00.000Z
 officialLinks:
-  - "https://neet.nta.nic.in/"
-  - "https://exams.nta.ac.in/"
-  - "https://mcc.nic.in/"
-  - "https://ntaresults.nic.in/"
-  - "https://www.mohfw.gov.in/"
+  - 'https://neet.nta.nic.in/'
+  - 'https://exams.nta.ac.in/'
+  - 'https://mcc.nic.in/'
+  - 'https://ntaresults.nic.in/'
+  - 'https://www.mohfw.gov.in/'
 ---
 
 # NEET UG — How to Apply Online, Admit Card, Results & Counselling Process

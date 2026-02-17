@@ -1,26 +1,28 @@
 ---
-title: "How to Register on e-Shram Portal — Unorganized Worker Card & Benefits"
-description: "Register for e-Shram card online — eligibility for unorganized workers, documents, step-by-step process, download card, and ₹2 lakh insurance."
-category: "Government Schemes"
+title: How to Register on e-Shram Portal — Unorganized Worker Card & Benefits
+description: >-
+  Complete guide to e-Shram card registration for unorganized workers. Learn
+  eligibility, documents required, step-by-step online registration, how to...
+category: Government Schemes
 keywords:
-  - "e-Shram card registration"
-  - "e-Shram portal"
-  - "e-Shram card download"
-  - "unorganized worker card"
-  - "e-Shram benefits"
-  - "e-Shram UAN card"
-  - "eshram.gov.in registration"
-  - "e-Shram eligibility"
-  - "e-Shram documents required"
-  - "e-Shram CSC registration"
-  - "e-Shram card online apply"
-  - "e-Shram accidental insurance"
-  - "unorganized worker registration India"
-readingTime: "10 min"
+  - e-Shram card registration
+  - e-Shram portal
+  - e-Shram card download
+  - unorganized worker card
+  - e-Shram benefits
+  - e-Shram UAN card
+  - eshram.gov.in registration
+  - e-Shram eligibility
+  - e-Shram documents required
+  - e-Shram CSC registration
+  - e-Shram card online apply
+  - e-Shram accidental insurance
+  - unorganized worker registration India
+readingTime: 10 min
 officialLinks:
-  - "https://eshram.gov.in"
-  - "https://register.eshram.gov.in"
-  - "https://labour.gov.in"
+  - 'https://eshram.gov.in'
+  - 'https://register.eshram.gov.in'
+  - 'https://labour.gov.in'
 ---
 
 # How to Register on e-Shram Portal — Unorganized Worker Card & Benefits

@@ -1,20 +1,22 @@
 ---
-title: "PM SVANidhi — Street Vendor Loan Scheme: How to Apply Online"
-description: "PM SVANidhi scheme — get ₹10,000 to ₹50,000 working capital loan for street vendors with 7% interest subsidy. Step-by-step online application."
-category: "Government Schemes"
+title: 'PM SVANidhi — Street Vendor Loan Scheme: How to Apply Online'
+description: >-
+  Complete guide to PM SVANidhi scheme. Get ₹10,000 to ₹50,000 working capital
+  loan for street vendors with 7% interest subsidy. Learn how to apply online...
+category: Government Schemes
 keywords:
-  - "PM SVANidhi"
-  - "street vendor loan"
-  - "SVANidhi apply online"
-  - "PM SVANidhi loan scheme"
-  - "street vendor loan ₹10000"
-  - "SVANidhi online application"
-  - "PM SVANidhi eligibility"
-  - "vendor loan scheme 2025"
-readingTime: "10 min"
+  - PM SVANidhi
+  - street vendor loan
+  - SVANidhi apply online
+  - PM SVANidhi loan scheme
+  - street vendor loan ₹10000
+  - SVANidhi online application
+  - PM SVANidhi eligibility
+  - vendor loan scheme 2025
+readingTime: 10 min
 officialLinks:
-  - "https://pmsvanidhi.mohua.gov.in"
-  - "https://mohua.gov.in"
+  - 'https://pmsvanidhi.mohua.gov.in'
+  - 'https://mohua.gov.in'
 ---
 
 # PM SVANidhi — Street Vendor Loan Scheme

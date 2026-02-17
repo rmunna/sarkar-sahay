@@ -1,29 +1,32 @@
 ---
-title: "How to Register a Company Online in India — MCA Portal Step-by-Step"
-description: "Register a company in India via MCA portal. Complete guide to SPICe+ form, DSC, DIN, name reservation, MOA/AOA, fees, and post-registration steps."
-category: "Property & Legal"
+title: How to Register a Company Online in India — MCA Portal Step-by-Step
+description: >-
+  Complete guide to company registration in India via MCA portal. Learn about
+  SPICe+ form, DSC, DIN, name reservation, MOA/AOA, fees, and
+  post-incorporation...
+category: Property & Legal
 keywords:
-  - "company registration online India"
-  - "MCA portal company registration"
-  - "SPICe+ form"
-  - "how to register private limited company"
-  - "company incorporation India"
-  - "DIN allotment"
-  - "DSC for company registration"
-  - "LLP registration online"
-  - "OPC registration India"
-  - "RUN name reservation"
-  - "MOA AOA filing"
-  - "company registration fees India"
-  - "Section 8 company registration"
-readingTime: "14 min"
-lastUpdated: "2026-02-16"
+  - company registration online India
+  - MCA portal company registration
+  - SPICe+ form
+  - how to register private limited company
+  - company incorporation India
+  - DIN allotment
+  - DSC for company registration
+  - LLP registration online
+  - OPC registration India
+  - RUN name reservation
+  - MOA AOA filing
+  - company registration fees India
+  - Section 8 company registration
+readingTime: 14 min
+lastUpdated: '2026-02-16'
 officialLinks:
-  - "https://www.mca.gov.in"
-  - "https://www.mca.gov.in/MinistryV2/spiceplus.html"
-  - "https://www.mca.gov.in/mcafoportal/loginValidateUser.do"
-  - "https://www.mca.gov.in/MinistryV2/runservice.html"
-  - "https://www.mca.gov.in/MinistryV2/companyformsdownload.html"
+  - 'https://www.mca.gov.in'
+  - 'https://www.mca.gov.in/MinistryV2/spiceplus.html'
+  - 'https://www.mca.gov.in/mcafoportal/loginValidateUser.do'
+  - 'https://www.mca.gov.in/MinistryV2/runservice.html'
+  - 'https://www.mca.gov.in/MinistryV2/companyformsdownload.html'
 ---
 
 # How to Register a Company Online in India — MCA Portal Step-by-Step

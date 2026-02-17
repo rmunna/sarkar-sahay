@@ -1,29 +1,32 @@
 ---
-title: "PM Kisan Status — Beneficiary List title: "PM Kisan Status Check — Beneficiary List, Instalment Status & Fix Rejected Payment" Instalment Check"
-description: "Check PM Kisan beneficiary status and village-wise list, instalment payments, complete eKYC, and fix rejected payments on pmkisan.gov.in easily."
-category: "Government Schemes"
+title: PM Kisan Status — Beneficiary List & Payment Check
+description: >-
+  Step-by-step guide to check your PM Kisan beneficiary status, find your name
+  in the village-wise list, check instalment payment status, complete eKYC,
+  and...
+category: Government Schemes
 keywords:
-  - "PM Kisan status check"
-  - "PM Kisan beneficiary list"
-  - "PM Kisan payment rejected"
-  - "PM Kisan eKYC"
-  - "PM Kisan instalment status"
-  - "PM Kisan beneficiary status"
-  - "PM Kisan payment failed"
-  - "PM Kisan correction"
-  - "PM Kisan Aadhaar link"
-  - "PM Kisan bank account change"
-  - "PM Kisan helpline number"
-  - "PM Kisan mobile app"
-  - "PM Kisan 21st instalment"
-  - "PM Kisan village wise list"
-  - "pmkisan.gov.in status"
-readingTime: "12 min"
+  - PM Kisan status check
+  - PM Kisan beneficiary list
+  - PM Kisan payment rejected
+  - PM Kisan eKYC
+  - PM Kisan instalment status
+  - PM Kisan beneficiary status
+  - PM Kisan payment failed
+  - PM Kisan correction
+  - PM Kisan Aadhaar link
+  - PM Kisan bank account change
+  - PM Kisan helpline number
+  - PM Kisan mobile app
+  - PM Kisan 21st instalment
+  - PM Kisan village wise list
+  - pmkisan.gov.in status
+readingTime: 12 min
 officialLinks:
-  - "https://pmkisan.gov.in"
-  - "https://pmkisan.gov.in/BeneficiaryStatus.aspx"
-  - "https://pmkisan.gov.in/BeneficiaryList.aspx"
-  - "https://pmkisan.gov.in/UpdateAadharNoByFarmer.aspx"
+  - 'https://pmkisan.gov.in'
+  - 'https://pmkisan.gov.in/BeneficiaryStatus.aspx'
+  - 'https://pmkisan.gov.in/BeneficiaryList.aspx'
+  - 'https://pmkisan.gov.in/UpdateAadharNoByFarmer.aspx'
 ---
 
 # PM Kisan Status Check — Beneficiary List, Instalment Status & Fix Rejected Payment

@@ -1,27 +1,30 @@
 ---
-title: "How to Apply for Water Connection Online in India"
-description: "Apply for a new water connection online in India — Delhi, Mumbai, Bangalore, Chennai, and Hyderabad. Documents, fees, process, and FAQs covered."
-category: "Utilities"
+title: How to Apply for Water Connection Online in India
+description: >-
+  Step-by-step guide to apply for a new water connection online in India. Covers
+  Delhi Jal Board, Mumbai BMC, Bangalore BWSSB, Chennai Metro Water,
+  Hyderabad...
+category: Utilities
 keywords:
-  - "water connection apply online"
-  - "new water connection"
-  - "Delhi Jal Board connection"
-  - "water bill payment online"
-  - "BWSSB water connection Bangalore"
-  - "Chennai Metro Water new connection"
-  - "HMWSSB Hyderabad water connection"
-  - "Jal Jeevan Mission"
-  - "water connection documents required"
-  - "water connection fees India"
-readingTime: "12 min"
+  - water connection apply online
+  - new water connection
+  - Delhi Jal Board connection
+  - water bill payment online
+  - BWSSB water connection Bangalore
+  - Chennai Metro Water new connection
+  - HMWSSB Hyderabad water connection
+  - Jal Jeevan Mission
+  - water connection documents required
+  - water connection fees India
+readingTime: 12 min
 officialLinks:
-  - "https://djb.gov.in"
-  - "https://portal.mcgm.gov.in"
-  - "https://bwssb.gov.in"
-  - "https://chennaimetrowater.tn.nic.in"
-  - "https://hmwssb.gov.in"
-  - "https://jaljeevanmission.gov.in"
-  - "https://ejalshakti.gov.in"
+  - 'https://djb.gov.in'
+  - 'https://portal.mcgm.gov.in'
+  - 'https://bwssb.gov.in'
+  - 'https://chennaimetrowater.tn.nic.in'
+  - 'https://hmwssb.gov.in'
+  - 'https://jaljeevanmission.gov.in'
+  - 'https://ejalshakti.gov.in'
 ---
 
 # How to Apply for Water Connection Online in India

@@ -1,29 +1,31 @@
 ---
-title: "Kisan Credit Card (KCC) — Apply title: "Kisan Credit Card (KCC) — How to Apply, Eligibility, Documents & Benefits" Eligibility"
-description: "Kisan Credit Card (KCC) complete guide — eligibility, 4% interest rate, documents, how to apply online and offline for farming and fisheries."
-category: "Government Schemes"
+title: 'Kisan Credit Card (KCC) — Apply, Eligibility & Benefits'
+description: >-
+  Complete guide to Kisan Credit Card scheme. Learn KCC eligibility, interest
+  rate (4%), documents required, how to apply online & offline, benefits for...
+category: Government Schemes
 keywords:
-  - "Kisan Credit Card apply"
-  - "KCC loan"
-  - "KCC eligibility"
-  - "KCC interest rate"
-  - "KCC online apply"
-  - "Kisan Credit Card documents"
-  - "KCC scheme benefits"
-  - "KCC for PM Kisan beneficiaries"
-  - "KCC animal husbandry"
-  - "KCC fisheries loan"
-  - "KCC loan limit"
-  - "KCC renewal"
-  - "KCC crop insurance"
-  - "farmer credit card India"
-readingTime: "12 min"
+  - Kisan Credit Card apply
+  - KCC loan
+  - KCC eligibility
+  - KCC interest rate
+  - KCC online apply
+  - Kisan Credit Card documents
+  - KCC scheme benefits
+  - KCC for PM Kisan beneficiaries
+  - KCC animal husbandry
+  - KCC fisheries loan
+  - KCC loan limit
+  - KCC renewal
+  - KCC crop insurance
+  - farmer credit card India
+readingTime: 12 min
 officialLinks:
-  - "https://pmkisan.gov.in"
-  - "https://www.nabard.org"
-  - "https://agricoop.nic.in"
-  - "https://dahd.nic.in"
-  - "https://dof.gov.in"
+  - 'https://pmkisan.gov.in'
+  - 'https://www.nabard.org'
+  - 'https://agricoop.nic.in'
+  - 'https://dahd.nic.in'
+  - 'https://dof.gov.in'
 ---
 
 # Kisan Credit Card (KCC) — How to Apply, Eligibility, Documents & Benefits

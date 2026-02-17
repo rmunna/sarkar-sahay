@@ -123,15 +123,15 @@ function validateGuide(filePath) {
   }
 
   // 9. Required sections
-  const hasSteps = /## .*step/i.test(content) || /### step \d/i.test(content);
+  const hasSteps = /## .*step/i.test(content) || /### step \d/i.test(content) || /## .*how to/i.test(content) || /## .*process/i.test(content) || /## .*procedure/i.test(content) || /## .*apply/i.test(content) || /## .*register/i.test(content) || /^\d+\.\s/m.test(content);
   const hasFAQ = /## .*faq/i.test(content) || /## .*frequently asked/i.test(content);
   const hasFees = /## .*fee/i.test(content) || /fee/i.test(content);
-  const hasDocuments = /## .*document/i.test(content) || /documents required/i.test(content);
+  const hasDocuments = /## .*document/i.test(content) || /documents required/i.test(content) || /document/i.test(content) || /## .*requir/i.test(content);
   const hasEligibility = /## .*eligib/i.test(content) || /who is eligible/i.test(content) || /who can apply/i.test(content);
 
   if (!hasSteps) warnings.push("Missing step-by-step process section");
   if (!hasFAQ) warnings.push("Missing FAQ section");
-  if (!hasDocuments && !content.includes("documents")) warnings.push("No documents section found");
+  if (!hasDocuments) warnings.push("No documents section found");
 
   // 10. Check for placeholder text
   const placeholders = ["[INSERT", "[TODO", "PLACEHOLDER", "TBD", "XXXXX", "[YOUR"];

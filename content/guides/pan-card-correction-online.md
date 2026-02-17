@@ -1,24 +1,26 @@
 ---
-title: "PAN Card Correction Online — Name, DOB title: "How to Correct PAN Card Details Online — Name, Date of Birth, Photo Change" Photo"
-description: "Correct PAN card name, DOB, photo, or signature online via NSDL (Protean) and UTIITSL portals. Documents required, fees, and tracking process."
-category: "Tax & Finance"
+title: How to Correct PAN Card Details Online
+description: >-
+  Step-by-step guide to correct PAN card details online including name, date of
+  birth, photo, signature, and address via NSDL (Protean) and UTIITSL portals.
+category: Tax & Finance
 keywords:
-  - "PAN card correction online"
-  - "PAN card name change"
-  - "correct PAN card details"
-  - "PAN card update"
-  - "PAN card date of birth correction"
-  - "PAN card photo change"
-  - "PAN correction NSDL"
-  - "PAN card correction fees"
-  - "change name in PAN card online"
-  - "PAN card correction documents"
-readingTime: "12 min"
+  - PAN card correction online
+  - PAN card name change
+  - correct PAN card details
+  - PAN card update
+  - PAN card date of birth correction
+  - PAN card photo change
+  - PAN correction NSDL
+  - PAN card correction fees
+  - change name in PAN card online
+  - PAN card correction documents
+readingTime: 12 min
 officialLinks:
-  - "https://www.protean-tinpan.com/"
-  - "https://www.pan.utiitsl.com/PAN/mainform.html"
-  - "https://eportal.incometax.gov.in/"
-  - "https://tin.tin.nsdl.com/pantan/StatusTrack.html"
+  - 'https://www.protean-tinpan.com/'
+  - 'https://www.pan.utiitsl.com/PAN/mainform.html'
+  - 'https://eportal.incometax.gov.in/'
+  - 'https://tin.tin.nsdl.com/pantan/StatusTrack.html'
 ---
 
 # How to Correct PAN Card Details Online — Name, Date of Birth, Photo Change

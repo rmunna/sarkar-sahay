@@ -1,8 +1,11 @@
 ---
-title: "Trademark Registration Online India — Fees title: "How to File Trademark Registration Online in India — Process, Fees & Classes" Process"
-description: "Complete guide to trademark registration in India. Learn the online filing process, fees, document requirements, Nice Classification classes, and timeline."
-slug: "trademark-registration-online-india"
-category: "Property & Legal"
+title: How to File Trademark Registration Online in India
+description: >-
+  Complete guide to trademark registration in India. Learn the online filing
+  process, fees, document requirements, Nice Classification classes, and
+  timeline.
+slug: trademark-registration-online-india
+category: Property & Legal
 keywords:
   - trademark registration India
   - trademark filing online
@@ -12,12 +15,12 @@ keywords:
   - Nice Classification
   - trademark fees India
   - trademark search India
-readingTime: "12 min"
-lastUpdated: "2026-02-16"
+readingTime: 12 min
+lastUpdated: '2026-02-16'
 officialLinks:
-  - "https://ipindiaonline.gov.in/eregister/eregister.aspx"
-  - "https://ipindia.gov.in"
-  - "https://tmrsearch.ipindia.gov.in/eregister/eregister.aspx"
+  - 'https://ipindiaonline.gov.in/eregister/eregister.aspx'
+  - 'https://ipindia.gov.in'
+  - 'https://tmrsearch.ipindia.gov.in/eregister/eregister.aspx'
 ---
 
 # How to File Trademark Registration Online in India — Process, Fees & Classes

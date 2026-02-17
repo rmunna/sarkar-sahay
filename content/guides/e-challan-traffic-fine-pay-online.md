@@ -1,22 +1,25 @@
 ---
-title: "Pay Traffic e-Challan Online — Payment title: "How to Pay Challan Online — Traffic Challan, e-Challan Payment & Status Check" Status"
-description: "Check and pay traffic e-challans online via echallan.parivahan.gov.in. Check challan status by vehicle number, pay fines, and dispute challans."
-category: "Utilities"
+title: How to Pay Challan Online
+description: >-
+  Complete guide to check and pay traffic e-challans online in India via
+  echallan.parivahan.gov.in. Learn how to check challan status by vehicle
+  number, pay...
+category: Utilities
 keywords:
-  - "e-challan payment online"
-  - "traffic challan check"
-  - "pay challan online"
-  - "e-challan status"
-  - "echallan parivahan"
-  - "traffic fine payment"
-  - "check challan by vehicle number"
-  - "virtual court challan"
-readingTime: "12 min"
+  - e-challan payment online
+  - traffic challan check
+  - pay challan online
+  - e-challan status
+  - echallan parivahan
+  - traffic fine payment
+  - check challan by vehicle number
+  - virtual court challan
+readingTime: 12 min
 officialLinks:
-  - "https://echallan.parivahan.gov.in"
-  - "https://parivahan.gov.in"
-  - "https://vcourts.gov.in"
-  - "https://digilocker.gov.in"
+  - 'https://echallan.parivahan.gov.in'
+  - 'https://parivahan.gov.in'
+  - 'https://vcourts.gov.in'
+  - 'https://digilocker.gov.in'
 ---
 
 # How to Pay Challan Online — Traffic Challan, e-Challan Payment & Status Check

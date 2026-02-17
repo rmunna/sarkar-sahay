@@ -1,27 +1,29 @@
 ---
-title: "How to Use DigiLocker — Store and Access Government Documents Online"
-description: "Complete DigiLocker guide — create your account, fetch Aadhaar, PAN, driving licence and other government documents for KYC and verification."
-category: "Utilities"
+title: How to Use DigiLocker — Store and Access Government Documents Online
+description: >-
+  Complete guide to DigiLocker — India's official digital document wallet. Learn
+  how to create an account, fetch government documents like Aadhaar, PAN...
+category: Utilities
 keywords:
-  - "DigiLocker"
-  - "DigiLocker login"
-  - "DigiLocker documents"
-  - "digital locker government"
-  - "DigiLocker driving license"
-  - "DigiLocker app"
-  - "DigiLocker Aadhaar"
-  - "DigiLocker PAN card"
-  - "DigiLocker sign up"
-  - "DigiLocker KYC"
-  - "DigiLocker vehicle RC"
-  - "DigiLocker CBSE certificate"
-  - "ABC Academic Bank of Credits"
-readingTime: "12 min"
+  - DigiLocker
+  - DigiLocker login
+  - DigiLocker documents
+  - digital locker government
+  - DigiLocker driving license
+  - DigiLocker app
+  - DigiLocker Aadhaar
+  - DigiLocker PAN card
+  - DigiLocker sign up
+  - DigiLocker KYC
+  - DigiLocker vehicle RC
+  - DigiLocker CBSE certificate
+  - ABC Academic Bank of Credits
+readingTime: 12 min
 officialLinks:
-  - "https://www.digilocker.gov.in"
-  - "https://digilocker.gov.in"
-  - "https://abc.gov.in"
-  - "https://play.google.com/store/apps/details?id=com.digilocker.android"
+  - 'https://www.digilocker.gov.in'
+  - 'https://digilocker.gov.in'
+  - 'https://abc.gov.in'
+  - 'https://play.google.com/store/apps/details?id=com.digilocker.android'
 ---
 
 # How to Use DigiLocker — Store and Access Government Documents Online

@@ -1,29 +1,32 @@
 ---
-title: "GeM Portal Registration — Government e-Marketplace"
-description: "Register on GeM portal as a seller or buyer. Step-by-step process, required documents, bidding, product listing, and benefits of GeM explained."
-category: "Government Schemes"
+title: How to Register on GeM (Government e-Marketplace)
+description: >-
+  Complete guide to GeM registration for sellers and buyers. Learn the
+  step-by-step process, documents required, bidding, product listing, and
+  benefits of GeM...
+category: Government Schemes
 keywords:
-  - "GeM registration"
-  - "GeM portal registration"
-  - "GeM seller registration"
-  - "GeM buyer registration"
-  - "Government e-Marketplace"
-  - "GeM portal India"
-  - "how to sell on GeM"
-  - "GeM bidding process"
-  - "GeM product listing"
-  - "GeM documents required"
-  - "GeM OEM registration"
-  - "GeM startup benefits"
-  - "GeM direct purchase"
-  - "government procurement India"
-readingTime: "10 min"
-lastUpdated: "2026-02-16"
+  - GeM registration
+  - GeM portal registration
+  - GeM seller registration
+  - GeM buyer registration
+  - Government e-Marketplace
+  - GeM portal India
+  - how to sell on GeM
+  - GeM bidding process
+  - GeM product listing
+  - GeM documents required
+  - GeM OEM registration
+  - GeM startup benefits
+  - GeM direct purchase
+  - government procurement India
+readingTime: 10 min
+lastUpdated: '2026-02-16'
 officialLinks:
-  - "https://gem.gov.in"
-  - "https://mkp.gem.gov.in/registration/signup"
-  - "https://bid.gem.gov.in"
-  - "https://services.gem.gov.in"
+  - 'https://gem.gov.in'
+  - 'https://mkp.gem.gov.in/registration/signup'
+  - 'https://bid.gem.gov.in'
+  - 'https://services.gem.gov.in'
 ---
 
 # How to Register on GeM (Government e-Marketplace) — Seller & Buyer Guide

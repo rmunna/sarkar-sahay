@@ -1,8 +1,11 @@
 ---
-title: "NOC (No Objection Certificate) — Apply Online"
-description: "Learn how to apply for a No Objection Certificate (NOC) online. Complete guide covering vehicle, property, employer & other NOC types with process and format."
-slug: "noc-no-objection-certificate-apply"
-category: "Certificates"
+title: How to Apply for NOC (No Objection Certificate) Online
+description: >-
+  Learn how to apply for a No Objection Certificate (NOC) online. Complete guide
+  covering vehicle, property, employer & other NOC types with process and
+  format.
+slug: noc-no-objection-certificate-apply
+category: Certificates
 keywords:
   - NOC certificate
   - no objection certificate
@@ -14,28 +17,59 @@ keywords:
   - Parivahan NOC
   - employer NOC
   - fire NOC
-readingTime: "10 min"
-lastUpdated: 2026-02-16
+readingTime: 10 min
+lastUpdated: 2026-02-16T00:00:00.000Z
 officialLinks:
-  - "https://parivahan.gov.in"
-  - "https://vahan.parivahan.gov.in"
-  - "https://igrsup.gov.in"
-  - "https://nfrsmis.gov.in"
+  - 'https://parivahan.gov.in'
+  - 'https://vahan.parivahan.gov.in'
+  - 'https://igrsup.gov.in'
+  - 'https://nfrsmis.gov.in'
 faq:
-  - question: "What is a No Objection Certificate (NOC)?"
-    answer: "A No Objection Certificate (NOC) is a legal document issued by an organisation, authority, or individual declaring that they have no objection to the details mentioned in the certificate. It is commonly required for vehicle transfer, property dealings, employment changes, and regulatory clearances."
-  - question: "How long does it take to get a vehicle NOC from RTO?"
-    answer: "A vehicle NOC from the RTO typically takes 7 to 15 working days after submitting the application on the Parivahan portal. The timeline may vary depending on the state and whether any pending challans or loans exist against the vehicle."
-  - question: "Is there a fee for applying for NOC online?"
-    answer: "Yes, fees vary by NOC type. A vehicle NOC from RTO costs approximately ₹300–₹600 depending on the state. Property and fire NOCs may have separate fee structures set by the respective authorities. Employer and education NOCs are generally free."
-  - question: "Can I apply for a vehicle NOC if there is a loan on my car?"
-    answer: "No, you cannot obtain a vehicle NOC if there is an active hypothecation (loan) on the vehicle. You must first get a No Dues Certificate from the financier and have the hypothecation removed from the RC before applying for NOC."
-  - question: "What happens if I do not get an NOC when transferring my vehicle to another state?"
-    answer: "Without a vehicle NOC, the new state RTO will not register your vehicle. You must obtain an NOC from the original registering RTO to complete re-registration in the new state. Driving without proper registration can attract fines under the Motor Vehicles Act."
-  - question: "Is a fire NOC mandatory for all commercial buildings?"
-    answer: "Yes, a fire NOC is mandatory for commercial establishments, high-rise buildings, hospitals, educational institutions, and hotels. The requirement varies by state but is generally needed for any building above 15 metres in height or with a covered area exceeding a specified limit."
-  - question: "Can I download the NOC format online?"
-    answer: "Yes, standard NOC formats for employer, education, and general purposes are widely available. This guide includes a sample format you can customise. For official NOCs like vehicle or property, the certificate is issued by the respective authority in their prescribed format."
+  - question: What is a No Objection Certificate (NOC)?
+    answer: >-
+      A No Objection Certificate (NOC) is a legal document issued by an
+      organisation, authority, or individual declaring that they have no
+      objection to the details mentioned in the certificate. It is commonly
+      required for vehicle transfer, property dealings, employment changes, and
+      regulatory clearances.
+  - question: How long does it take to get a vehicle NOC from RTO?
+    answer: >-
+      A vehicle NOC from the RTO typically takes 7 to 15 working days after
+      submitting the application on the Parivahan portal. The timeline may vary
+      depending on the state and whether any pending challans or loans exist
+      against the vehicle.
+  - question: Is there a fee for applying for NOC online?
+    answer: >-
+      Yes, fees vary by NOC type. A vehicle NOC from RTO costs approximately
+      ₹300–₹600 depending on the state. Property and fire NOCs may have separate
+      fee structures set by the respective authorities. Employer and education
+      NOCs are generally free.
+  - question: Can I apply for a vehicle NOC if there is a loan on my car?
+    answer: >-
+      No, you cannot obtain a vehicle NOC if there is an active hypothecation
+      (loan) on the vehicle. You must first get a No Dues Certificate from the
+      financier and have the hypothecation removed from the RC before applying
+      for NOC.
+  - question: >-
+      What happens if I do not get an NOC when transferring my vehicle to
+      another state?
+    answer: >-
+      Without a vehicle NOC, the new state RTO will not register your vehicle.
+      You must obtain an NOC from the original registering RTO to complete
+      re-registration in the new state. Driving without proper registration can
+      attract fines under the Motor Vehicles Act.
+  - question: Is a fire NOC mandatory for all commercial buildings?
+    answer: >-
+      Yes, a fire NOC is mandatory for commercial establishments, high-rise
+      buildings, hospitals, educational institutions, and hotels. The
+      requirement varies by state but is generally needed for any building above
+      15 metres in height or with a covered area exceeding a specified limit.
+  - question: Can I download the NOC format online?
+    answer: >-
+      Yes, standard NOC formats for employer, education, and general purposes
+      are widely available. This guide includes a sample format you can
+      customise. For official NOCs like vehicle or property, the certificate is
+      issued by the respective authority in their prescribed format.
 ---
 
 A **No Objection Certificate (NOC)** is a legal declaration from an organisation, institution, or government authority stating that they have no objection to the details or transaction mentioned in the document. NOCs are essential in India for vehicle transfers, property transactions, job changes, educational admissions, and regulatory compliance.

@@ -1,33 +1,36 @@
 ---
-title: "How to Check and Download CBSE, ICSE & State Board Exam Results Online"
-description: "Check 10th and 12th board exam results online for CBSE, ICSE, and state boards. Download marksheet via DigiLocker and apply for re-evaluation."
-category: "Jobs & Exams"
+title: 'How to Check and Download CBSE, ICSE & State Board Exam Results Online'
+description: >-
+  Step-by-step guide to check 10th and 12th board exam results online for CBSE,
+  ICSE, UP Board, Maharashtra, Bihar, MP, and Rajasthan. Learn how to
+  download...
+category: Jobs & Exams
 keywords:
-  - "CBSE result check"
-  - "board exam result"
-  - "10th 12th result check"
-  - "marksheet download"
-  - "CBSE result 2026"
-  - "ICSE result check online"
-  - "UP Board result"
-  - "Maharashtra board result"
-  - "DigiLocker marksheet"
-  - "board result by roll number"
-  - "board result by name"
-  - "re-evaluation board exam"
-  - "compartment exam result"
-  - "duplicate marksheet"
-readingTime: "12 min"
+  - CBSE result check
+  - board exam result
+  - 10th 12th result check
+  - marksheet download
+  - CBSE result 2026
+  - ICSE result check online
+  - UP Board result
+  - Maharashtra board result
+  - DigiLocker marksheet
+  - board result by roll number
+  - board result by name
+  - re-evaluation board exam
+  - compartment exam result
+  - duplicate marksheet
+readingTime: 12 min
 officialLinks:
-  - "https://cbseresults.nic.in"
-  - "https://results.cbse.nic.in"
-  - "https://digilocker.gov.in"
-  - "https://cisce.org"
-  - "https://upresults.nic.in"
-  - "https://mahresult.nic.in"
-  - "https://biharboardonline.bihar.gov.in"
-  - "https://mpbse.nic.in"
-  - "https://rajresults.nic.in"
+  - 'https://cbseresults.nic.in'
+  - 'https://results.cbse.nic.in'
+  - 'https://digilocker.gov.in'
+  - 'https://cisce.org'
+  - 'https://upresults.nic.in'
+  - 'https://mahresult.nic.in'
+  - 'https://biharboardonline.bihar.gov.in'
+  - 'https://mpbse.nic.in'
+  - 'https://rajresults.nic.in'
 ---
 
 # How to Check and Download CBSE, ICSE & State Board Exam Results Online

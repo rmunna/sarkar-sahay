@@ -1,31 +1,34 @@
 ---
-title: "National Scholarship Portal — Apply for Govt Aid"
-description: "Apply on NSP for Pre-Matric, Post-Matric, Central Sector, and PM scholarships online. Step-by-step process, documents, eligibility, and status."
-category: "Jobs & Exams"
+title: National Scholarship Portal
+description: >-
+  Complete guide to NSP (scholarships.gov.in) — apply for Pre-Matric,
+  Post-Matric, Central Sector, PM Scholarship and other government scholarships
+  online.
+category: Jobs & Exams
 keywords:
-  - "NSP scholarship apply"
-  - "national scholarship portal"
-  - "government scholarship online"
-  - "scholarship status check"
-  - "post matric scholarship"
-  - "pre matric scholarship"
-  - "NSP login"
-  - "NSP OTR registration"
-  - "PM scholarship scheme"
-  - "central sector scholarship"
-  - "minority scholarship"
-  - "SC ST OBC scholarship"
-  - "scholarships.gov.in"
-  - "NSP renewal"
-  - "scholarship DBT payment"
-readingTime: "12 min"
+  - NSP scholarship apply
+  - national scholarship portal
+  - government scholarship online
+  - scholarship status check
+  - post matric scholarship
+  - pre matric scholarship
+  - NSP login
+  - NSP OTR registration
+  - PM scholarship scheme
+  - central sector scholarship
+  - minority scholarship
+  - SC ST OBC scholarship
+  - scholarships.gov.in
+  - NSP renewal
+  - scholarship DBT payment
+readingTime: 12 min
 officialLinks:
-  - "https://scholarships.gov.in"
-  - "https://scholarships.gov.in/otrapplication/#/login-page"
-  - "https://socialjustice.gov.in"
-  - "https://minorityaffairs.gov.in"
-  - "https://tribal.nic.in"
-  - "https://desw.gov.in"
+  - 'https://scholarships.gov.in'
+  - 'https://scholarships.gov.in/otrapplication/#/login-page'
+  - 'https://socialjustice.gov.in'
+  - 'https://minorityaffairs.gov.in'
+  - 'https://tribal.nic.in'
+  - 'https://desw.gov.in'
 ---
 
 # National Scholarship Portal — How to Apply for Government Scholarships Online

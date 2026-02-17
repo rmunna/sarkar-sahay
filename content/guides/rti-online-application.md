@@ -1,29 +1,32 @@
 ---
-title: "How to File RTI Online — Right to Information Application India"
-description: "File RTI application online via rtionline.gov.in — step-by-step process, fees, format, appeal process, and timelines under RTI Act 2005 explained."
-category: "Property & Legal"
+title: How to File RTI Online — Right to Information Application India
+description: >-
+  Complete guide to filing RTI online in India via rtionline.gov.in. Learn the
+  step-by-step process, fees, application format, appeal process, timelines,
+  and...
+category: Property & Legal
 keywords:
-  - "RTI online"
-  - "file RTI"
-  - "RTI application format"
-  - "RTI fees"
-  - "right to information"
-  - "RTI online application"
-  - "how to file RTI in India"
-  - "rtionline.gov.in"
-  - "RTI Act 2005"
-  - "RTI appeal process"
-  - "RTI for state government"
-  - "Central Information Commission"
-  - "RTI application online"
-  - "RTI first appeal"
-  - "RTI exemptions"
-readingTime: "12 min"
+  - RTI online
+  - file RTI
+  - RTI application format
+  - RTI fees
+  - right to information
+  - RTI online application
+  - how to file RTI in India
+  - rtionline.gov.in
+  - RTI Act 2005
+  - RTI appeal process
+  - RTI for state government
+  - Central Information Commission
+  - RTI application online
+  - RTI first appeal
+  - RTI exemptions
+readingTime: 12 min
 officialLinks:
-  - "https://rtionline.gov.in"
-  - "https://cic.gov.in"
-  - "https://dopttraining.nic.in/rti-act-2005/"
-  - "https://persmin.gov.in"
+  - 'https://rtionline.gov.in'
+  - 'https://cic.gov.in'
+  - 'https://dopttraining.nic.in/rti-act-2005/'
+  - 'https://persmin.gov.in'
 ---
 
 # How to File RTI Online — Right to Information Application India

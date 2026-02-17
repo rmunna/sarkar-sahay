@@ -1,23 +1,26 @@
 ---
-title: "How to Apply for Soil Health Card — Free Soil Testing for Farmers"
-description: "Apply for Soil Health Card online and offline in India. Get free soil testing, know your soil nutrients, and get crop-wise fertilizer recommendations."
-category: "Government Schemes"
+title: How to Apply for Soil Health Card — Free Soil Testing for Farmers
+description: >-
+  Learn how to apply for Soil Health Card online and offline. Get free soil
+  testing, know your soil nutrients, and get crop-wise fertilizer advice from
+  the...
+category: Government Schemes
 keywords:
-  - "soil health card"
-  - "soil health card apply"
-  - "soil health card download"
-  - "soil testing"
-  - "free soil testing"
-  - "soil health card scheme"
-  - "soil health card status"
-  - "mitti parikshan"
-  - "soil health card online"
-  - "farmer soil test"
-readingTime: "8 min"
+  - soil health card
+  - soil health card apply
+  - soil health card download
+  - soil testing
+  - free soil testing
+  - soil health card scheme
+  - soil health card status
+  - mitti parikshan
+  - soil health card online
+  - farmer soil test
+readingTime: 8 min
 officialLinks:
-  - "https://soilhealth.dac.gov.in"
-  - "https://agricoop.nic.in"
-  - "https://www.india.gov.in"
+  - 'https://soilhealth.dac.gov.in'
+  - 'https://agricoop.nic.in'
+  - 'https://www.india.gov.in'
 ---
 
 # How to Apply for Soil Health Card — Free Soil Testing for Farmers

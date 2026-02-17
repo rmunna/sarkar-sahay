@@ -1,20 +1,21 @@
 ---
-title: "How to Apply for Ration Card Online in Tamil Nadu"
-description: "Apply for Smart Ration Card in Tamil Nadu via TNPDS portal. Step-by-step process, documents required, fees, processing time, and tracking guide."
-category: "Food & Ration"
+title: How to Apply for Ration Card Online in Tamil Nadu
+description: >-
+  Step-by-step guide to apply for a Smart Ration Card in Tamil Nadu through the
+  TNPDS portal. Learn about documents needed, fees, processing time, and...
+category: Food & Ration
 keywords:
-  - "Tamil Nadu ration card"
-  - "TN smart ration card"
-  - "TNPDS ration card apply"
-  - "ration card online Tamil Nadu"
-  - "smart ration card Tamil Nadu"
-  - "tnpds.gov.in apply"
-  - "TN ration card 2026"
-readingTime: "7 min"
+  - Tamil Nadu ration card
+  - TN smart ration card
+  - TNPDS ration card apply
+  - ration card online Tamil Nadu
+  - smart ration card Tamil Nadu
+  - tnpds.gov.in apply
+  - TN ration card 2026
+readingTime: 7 min
 officialLinks:
-  - https://www.tnpds.gov.in
-  - https://tnpds.gov.in/pages/grievance.html
-
+  - 'https://www.tnpds.gov.in'
+  - 'https://tnpds.gov.in/pages/grievance.html'
 ---
 
 # How to Apply for Ration Card Online in Tamil Nadu (2026)

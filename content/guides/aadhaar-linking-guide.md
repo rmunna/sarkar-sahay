@@ -1,32 +1,34 @@
 ---
-title: "How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services"
-description: "Complete guide to linking Aadhaar with PAN, bank account, mobile, EPF, LPG, ration card, voter ID, and driving licence. Process and deadlines."
-category: "Identity Documents"
+title: 'How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services'
+description: >-
+  Complete guide to linking Aadhaar with PAN card, bank account, mobile number,
+  EPF, LPG, ration card, voter ID, driving licence and PPF. Step-by-step...
+category: Identity Documents
 keywords:
-  - "link Aadhaar"
-  - "Aadhaar PAN link"
-  - "Aadhaar bank link"
-  - "Aadhaar mobile link"
-  - "Aadhaar EPF link"
-  - "Aadhaar LPG link"
-  - "Aadhaar ration card link"
-  - "Aadhaar voter ID link"
-  - "Aadhaar driving licence link"
-  - "Aadhaar PPF link"
-  - "Aadhaar linking online"
-  - "Aadhaar seeding"
-  - "link Aadhaar with bank account"
-  - "link Aadhaar with PAN card"
-  - "Aadhaar UAN link"
-readingTime: "12 min"
+  - link Aadhaar
+  - Aadhaar PAN link
+  - Aadhaar bank link
+  - Aadhaar mobile link
+  - Aadhaar EPF link
+  - Aadhaar LPG link
+  - Aadhaar ration card link
+  - Aadhaar voter ID link
+  - Aadhaar driving licence link
+  - Aadhaar PPF link
+  - Aadhaar linking online
+  - Aadhaar seeding
+  - link Aadhaar with bank account
+  - link Aadhaar with PAN card
+  - Aadhaar UAN link
+readingTime: 12 min
 officialLinks:
-  - "https://www.incometax.gov.in"
-  - "https://uidai.gov.in"
-  - "https://unifiedportal-mem.epfindia.gov.in"
-  - "https://mylpg.in"
-  - "https://www.nvsp.in"
-  - "https://parivahan.gov.in"
-  - "https://nfsa.gov.in"
+  - 'https://www.incometax.gov.in'
+  - 'https://uidai.gov.in'
+  - 'https://unifiedportal-mem.epfindia.gov.in'
+  - 'https://mylpg.in'
+  - 'https://www.nvsp.in'
+  - 'https://parivahan.gov.in'
+  - 'https://nfsa.gov.in'
 ---
 
 # How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services

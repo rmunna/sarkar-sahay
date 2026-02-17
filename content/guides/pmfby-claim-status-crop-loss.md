@@ -1,25 +1,27 @@
 ---
-title: "PMFBY Claim — Report Crop Loss title: "PMFBY Claim Process — How to Report Crop Loss, Check Status & Get Insurance Payout" Check Status"
-description: "Step-by-step guide to file PMFBY crop loss claims within 72 hours, check claim status online, understand crop cutting experiments, and resolve grievances."
-category: "Government Schemes"
-lastUpdated: "2026-02-16"
+title: PMFBY Claim — Report Crop Loss & Check Status
+description: >-
+  Step-by-step guide to file PMFBY crop loss claims within 72 hours, check claim
+  status online, understand crop cutting experiments, and resolve grievances.
+category: Government Schemes
+lastUpdated: '2026-02-16'
 keywords:
-  - "PMFBY claim process"
-  - "crop loss reporting"
-  - "PMFBY claim status check"
-  - "fasal bima claim"
-  - "crop insurance claim India"
-  - "PMFBY grievance"
-  - "crop cutting experiment"
-  - "PMFBY payout status"
-  - "crop loss intimation 72 hours"
-  - "PMFBY helpline number"
-readingTime: "10 min"
+  - PMFBY claim process
+  - crop loss reporting
+  - PMFBY claim status check
+  - fasal bima claim
+  - crop insurance claim India
+  - PMFBY grievance
+  - crop cutting experiment
+  - PMFBY payout status
+  - crop loss intimation 72 hours
+  - PMFBY helpline number
+readingTime: 10 min
 officialLinks:
-  - "https://pmfby.gov.in"
-  - "https://pmfby.gov.in/claimStatusCheck"
-  - "https://pmfby.gov.in/grievance"
-  - "https://play.google.com/store/apps/details?id=in.farmguide.farmerapp.central"
+  - 'https://pmfby.gov.in'
+  - 'https://pmfby.gov.in/claimStatusCheck'
+  - 'https://pmfby.gov.in/grievance'
+  - 'https://play.google.com/store/apps/details?id=in.farmguide.farmerapp.central'
 ---
 
 # PMFBY Claim Process — How to Report Crop Loss, Check Status & Get Insurance Payout

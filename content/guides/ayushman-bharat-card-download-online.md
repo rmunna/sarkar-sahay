@@ -1,15 +1,22 @@
 ---
-title: "Download Ayushman Bharat Card Online — PMJAY Card"
-description: "Step-by-step guide to download your Ayushman Bharat PMJAY health card online. Check eligibility, download e-card, link with DigiLocker."
-category: "Government Schemes"
-keywords: ["ayushman bharat card download", "PMJAY card download online", "ayushman card download", "PMJAY e-card", "ayushman bharat health card"]
-readingTime: "7 min"
-lastUpdated: "2026-02-16"
+title: How to Download Ayushman Bharat Health Card Online
+description: >-
+  Step-by-step guide to download your Ayushman Bharat PMJAY health card online.
+  Check eligibility, download e-card, link with DigiLocker.
+category: Government Schemes
+keywords:
+  - ayushman bharat card download
+  - PMJAY card download online
+  - ayushman card download
+  - PMJAY e-card
+  - ayushman bharat health card
+readingTime: 7 min
+lastUpdated: '2026-02-16'
 officialLinks:
-  - https://pmjay.gov.in
-  - https://beneficiary.nha.gov.in
-  - https://hospitals.pmjay.gov.in
-  - https://www.digilocker.gov.in
+  - 'https://pmjay.gov.in'
+  - 'https://beneficiary.nha.gov.in'
+  - 'https://hospitals.pmjay.gov.in'
+  - 'https://www.digilocker.gov.in'
 ---
 
 ## What is Ayushman Bharat Health Card?

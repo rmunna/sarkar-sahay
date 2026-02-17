@@ -1,27 +1,30 @@
 ---
-title: "OBC / EWS Certificate — Apply Online title: "OBC / EWS Certificate Online — Eligibility, Documents & Application Process" Eligibility"
-description: "Apply for OBC and EWS certificate online in India. Know eligibility, required documents, fees, validity, and step-by-step process for all states."
-category: "Certificates"
+title: OBC / EWS Certificate Online
+description: >-
+  Complete guide to apply for OBC certificate and EWS certificate online in
+  India. Know eligibility, required documents, fees, validity, and
+  step-by-step...
+category: Certificates
 keywords:
-  - "OBC certificate online"
-  - "EWS certificate apply"
-  - "OBC certificate eligibility"
-  - "EWS certificate documents"
-  - "OBC non-creamy layer certificate"
-  - "EWS certificate online apply"
-  - "how to get OBC certificate"
-  - "EWS income certificate"
-  - "OBC certificate documents required"
-  - "EWS reservation certificate"
-readingTime: "12 min"
+  - OBC certificate online
+  - EWS certificate apply
+  - OBC certificate eligibility
+  - EWS certificate documents
+  - OBC non-creamy layer certificate
+  - EWS certificate online apply
+  - how to get OBC certificate
+  - EWS income certificate
+  - OBC certificate documents required
+  - EWS reservation certificate
+readingTime: 12 min
 officialLinks:
-  - "https://services.india.gov.in"
-  - "https://edistrict.up.gov.in"
-  - "https://edistrict.delhigovt.nic.in"
-  - "https://rtps.bihar.gov.in"
-  - "https://serviceonline.gov.in"
-  - "https://emitra.rajasthan.gov.in"
-  - "https://edistrict.maharashtra.gov.in"
+  - 'https://services.india.gov.in'
+  - 'https://edistrict.up.gov.in'
+  - 'https://edistrict.delhigovt.nic.in'
+  - 'https://rtps.bihar.gov.in'
+  - 'https://serviceonline.gov.in'
+  - 'https://emitra.rajasthan.gov.in'
+  - 'https://edistrict.maharashtra.gov.in'
 ---
 
 # How to Apply for OBC / EWS Certificate Online — Complete Guide

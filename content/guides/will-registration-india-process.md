@@ -1,8 +1,10 @@
 ---
-title: "Will Registration in India — Process, Format title: "How to Get a Will Registered in India — Process, Format, Documents & Cost" Cost"
-description: "Learn how to register a will in India. Step-by-step process at sub-registrar office, documents needed, stamp duty, witnesses, format & cost explained."
-slug: "will-registration-india-process"
-category: "Property & Legal"
+title: How to Get a Will Registered in India
+description: >-
+  Learn how to register a will in India. Step-by-step process at sub-registrar
+  office, documents needed, stamp duty, witnesses, format & cost explained.
+slug: will-registration-india-process
+category: Property & Legal
 keywords:
   - will registration India
   - how to register a will
@@ -14,13 +16,13 @@ keywords:
   - sub-registrar will registration
   - Indian Succession Act will
   - probate of will
-readingTime: "10 min"
-lastUpdated: "2026-02-16"
+readingTime: 10 min
+lastUpdated: '2026-02-16'
 officialLinks:
-  - "https://legislative.gov.in/sites/default/files/A1925-39.pdf"
-  - "https://igrs.rajasthan.gov.in"
-  - "https://igrsup.gov.in"
-  - "https://incometaxindia.gov.in"
+  - 'https://legislative.gov.in/sites/default/files/A1925-39.pdf'
+  - 'https://igrs.rajasthan.gov.in'
+  - 'https://igrsup.gov.in'
+  - 'https://incometaxindia.gov.in'
 ---
 
 # How to Get a Will Registered in India — Process, Format, Documents & Cost

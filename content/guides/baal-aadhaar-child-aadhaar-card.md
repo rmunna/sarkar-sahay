@@ -1,26 +1,29 @@
 ---
-title: "Baal Aadhaar Card — How to Apply for Child Aadhaar Below 5 Years"
-description: "Complete guide to Baal Aadhaar card for children below 5 years. Documents required, fees, biometric update at age 5 and 15, and download steps."
-category: "Identity Documents"
+title: Baal Aadhaar Card — How to Apply for Child Aadhaar Below 5 Years
+description: >-
+  Complete guide on how to apply for Baal Aadhaar card for children below 5
+  years. Learn about documents required, fees, biometric update at age 5 & 15,
+  and...
+category: Identity Documents
 keywords:
-  - "Baal Aadhaar"
-  - "child Aadhaar card"
-  - "Aadhaar for children"
-  - "Aadhaar card for child below 5"
-  - "baby Aadhaar card"
-  - "child Aadhaar documents"
-  - "Aadhaar for newborn"
-  - "Baal Aadhaar download"
-  - "blue Aadhaar card"
-  - "child Aadhaar biometric update"
-  - "Aadhaar enrolment for children"
-  - "Aadhaar card for kids"
-readingTime: "10 min"
+  - Baal Aadhaar
+  - child Aadhaar card
+  - Aadhaar for children
+  - Aadhaar card for child below 5
+  - baby Aadhaar card
+  - child Aadhaar documents
+  - Aadhaar for newborn
+  - Baal Aadhaar download
+  - blue Aadhaar card
+  - child Aadhaar biometric update
+  - Aadhaar enrolment for children
+  - Aadhaar card for kids
+readingTime: 10 min
 officialLinks:
-  - "https://uidai.gov.in"
-  - "https://myaadhaar.uidai.gov.in"
-  - "https://appointments.uidai.gov.in"
-  - "https://uidai.gov.in/en/contact-support.html"
+  - 'https://uidai.gov.in'
+  - 'https://myaadhaar.uidai.gov.in'
+  - 'https://appointments.uidai.gov.in'
+  - 'https://uidai.gov.in/en/contact-support.html'
 ---
 
 # Baal Aadhaar Card — How to Apply for Child Aadhaar Below 5 Years

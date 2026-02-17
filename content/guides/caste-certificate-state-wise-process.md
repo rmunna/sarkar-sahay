@@ -1,18 +1,28 @@
 ---
-title: "Caste Certificate Online — SC/ST/OBC State-Wise Process"
-description: "State-wise guide to apply for SC/ST/OBC caste certificate online via e-District portals. Process, documents, fees, and verification for all major states."
-category: "Certificates"
-keywords: ["caste certificate state wise process", "SC ST OBC certificate online", "e-District caste certificate", "jati praman patra apply", "caste certificate UP Bihar Maharashtra", "caste certificate documents required", "caste certificate verification"]
-readingTime: "9 min"
-lastUpdated: "2026-02-16"
+title: How to Get Caste Certificate Online
+description: >-
+  State-wise guide to apply for SC/ST/OBC caste certificate online via
+  e-District portals. Process, documents, fees, and verification for all major
+  states.
+category: Certificates
+keywords:
+  - caste certificate state wise process
+  - SC ST OBC certificate online
+  - e-District caste certificate
+  - jati praman patra apply
+  - caste certificate UP Bihar Maharashtra
+  - caste certificate documents required
+  - caste certificate verification
+readingTime: 9 min
+lastUpdated: '2026-02-16'
 officialLinks:
-  - https://edistrict.up.gov.in
-  - https://aaplesarkar.mahaonline.gov.in
-  - https://serviceonline.bihar.gov.in
-  - https://mpedistrict.gov.in
-  - https://edistrict.rajasthan.gov.in
-  - https://nadakacheri.karnataka.gov.in
-  - https://tnedistrict.tn.gov.in
+  - 'https://edistrict.up.gov.in'
+  - 'https://aaplesarkar.mahaonline.gov.in'
+  - 'https://serviceonline.bihar.gov.in'
+  - 'https://mpedistrict.gov.in'
+  - 'https://edistrict.rajasthan.gov.in'
+  - 'https://nadakacheri.karnataka.gov.in'
+  - 'https://tnedistrict.tn.gov.in'
 ---
 
 ## What is a Caste Certificate?

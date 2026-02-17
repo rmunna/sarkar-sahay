@@ -1,20 +1,23 @@
 ---
-title: "CIBIL Score — How to Check Free title: "CIBIL Score Check Free – How to Check and Improve Your CIBIL Score in India" Improve in India"
-description: "Check your CIBIL score for free online and learn proven tips to improve your credit score in India. Score ranges, official links, and expert advice."
-category: "Tax & Finance"
+title: CIBIL Score — How to Check Free & Improve It
+description: >-
+  Learn how to check your CIBIL score for free, understand score ranges, and
+  follow proven tips to improve your credit score in India. Complete guide
+  with...
+category: Tax & Finance
 keywords:
-  - "CIBIL score check free"
-  - "how to check CIBIL score"
-  - "improve CIBIL score"
-  - "CIBIL score range"
-  - "free credit score India"
-  - "credit score check online"
-  - "CIBIL full form"
-readingTime: "8 min"
+  - CIBIL score check free
+  - how to check CIBIL score
+  - improve CIBIL score
+  - CIBIL score range
+  - free credit score India
+  - credit score check online
+  - CIBIL full form
+readingTime: 8 min
 officialLinks:
-  - https://www.cibil.com
-  - https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9498
-  - https://www.cibil.com/freecibilscore
+  - 'https://www.cibil.com'
+  - 'https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9498'
+  - 'https://www.cibil.com/freecibilscore'
 ---
 
 # How to Check and Improve Your CIBIL Score in India

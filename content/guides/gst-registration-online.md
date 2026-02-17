@@ -1,27 +1,30 @@
 ---
-title: "How to Register for GST Online in India — Step-by-Step Guide"
-description: "Register for GST online at gst.gov.in. Who needs GST, documents required, step-by-step process, fees, processing time, and application tracking."
-category: "Tax & Finance"
+title: How to Register for GST Online in India — Step-by-Step Guide
+description: >-
+  Complete guide to GST registration online in India. Learn who needs GST,
+  documents required, step-by-step process on gst.gov.in, fees, processing time,
+  and...
+category: Tax & Finance
 keywords:
-  - "GST registration online"
-  - "how to register for GST"
-  - "GST registration documents"
-  - "GST registration process"
-  - "GST registration fees"
-  - "GSTIN number"
-  - "GST registration portal"
-  - "GST registration threshold limit"
-  - "GST registration for new business"
-  - "GST registration status check"
-  - "TRN number GST"
-  - "ARN number GST"
-  - "GST registration India"
-readingTime: "12 min"
+  - GST registration online
+  - how to register for GST
+  - GST registration documents
+  - GST registration process
+  - GST registration fees
+  - GSTIN number
+  - GST registration portal
+  - GST registration threshold limit
+  - GST registration for new business
+  - GST registration status check
+  - TRN number GST
+  - ARN number GST
+  - GST registration India
+readingTime: 12 min
 officialLinks:
-  - "https://www.gst.gov.in"
-  - "https://reg.gst.gov.in/registration/web/taxpayer/registration"
-  - "https://services.gst.gov.in/services/searchtp"
-  - "https://cbic-gst.gov.in"
+  - 'https://www.gst.gov.in'
+  - 'https://reg.gst.gov.in/registration/web/taxpayer/registration'
+  - 'https://services.gst.gov.in/services/searchtp'
+  - 'https://cbic-gst.gov.in'
 ---
 
 # How to Register for GST Online in India — Step-by-Step Guide

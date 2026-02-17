@@ -1,24 +1,26 @@
 ---
-title: "PMFBY Crop Insurance — Apply Online"
-description: "Apply for PMFBY crop insurance online on pmfby.gov.in. Premium rates, eligibility, documents required, claim process, and application status check."
-category: "Government Schemes"
+title: How to Apply for Pradhan Mantri Fasal Bima Yojana (PMFBY)
+description: >-
+  Complete guide to apply for PMFBY crop insurance online. Learn about premium
+  rates, eligibility, documents required, claim process, and how to check...
+category: Government Schemes
 keywords:
-  - "PMFBY apply"
-  - "crop insurance online"
-  - "fasal bima yojana"
-  - "PMFBY claim"
-  - "pradhan mantri fasal bima yojana"
-  - "PMFBY online registration"
-  - "crop insurance scheme India"
-  - "PMFBY premium calculator"
-  - "PMFBY status check"
-  - "kisan fasal bima"
-readingTime: "12 min"
+  - PMFBY apply
+  - crop insurance online
+  - fasal bima yojana
+  - PMFBY claim
+  - pradhan mantri fasal bima yojana
+  - PMFBY online registration
+  - crop insurance scheme India
+  - PMFBY premium calculator
+  - PMFBY status check
+  - kisan fasal bima
+readingTime: 12 min
 officialLinks:
-  - "https://pmfby.gov.in"
-  - "https://pmfby.gov.in/farmerRegistrationForm"
-  - "https://pmfby.gov.in/applicationStatusCheck"
-  - "https://pmfby.gov.in/premium-calculator"
+  - 'https://pmfby.gov.in'
+  - 'https://pmfby.gov.in/farmerRegistrationForm'
+  - 'https://pmfby.gov.in/applicationStatusCheck'
+  - 'https://pmfby.gov.in/premium-calculator'
 ---
 
 # How to Apply for Pradhan Mantri Fasal Bima Yojana (PMFBY) — Crop Insurance Online

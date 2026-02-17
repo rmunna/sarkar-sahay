@@ -1,14 +1,25 @@
 ---
-title: "How to Get Vehicle Insurance Online — Car & Bike Insurance Renewal"
-description: "Buy or renew car and bike insurance online in India. Compare types of vehicle insurance, know documents needed, claim process, and NCB benefits."
-category: "Utilities"
-keywords: ["vehicle insurance online", "car insurance renewal", "bike insurance online", "check vehicle insurance status", "third party insurance", "comprehensive car insurance", "two wheeler insurance renewal", "motor insurance online"]
-readingTime: "12 min"
+title: How to Get Vehicle Insurance Online — Car & Bike Insurance Renewal
+description: >-
+  Complete guide to buy or renew car and bike insurance online in India. Types
+  of vehicle insurance, documents required, how to check insurance status,
+  claim...
+category: Utilities
+keywords:
+  - vehicle insurance online
+  - car insurance renewal
+  - bike insurance online
+  - check vehicle insurance status
+  - third party insurance
+  - comprehensive car insurance
+  - two wheeler insurance renewal
+  - motor insurance online
+readingTime: 12 min
 officialLinks:
-  - https://parivahan.gov.in
-  - https://vahan.parivahan.gov.in
-  - https://iib.gov.in
-  - https://irdai.gov.in
+  - 'https://parivahan.gov.in'
+  - 'https://vahan.parivahan.gov.in'
+  - 'https://iib.gov.in'
+  - 'https://irdai.gov.in'
 ---
 
 ## Why Vehicle Insurance is Mandatory in India

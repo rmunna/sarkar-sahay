@@ -1,24 +1,27 @@
 ---
-title: "How to Download e-PAN Card Online (Instant e-PAN via Aadhaar)"
-description: "Download your e-PAN card online for free using Aadhaar from Income Tax portal, NSDL, and UTIITSL. Also covers PAN status check and reprint guide."
-category: "Tax & Finance"
+title: How to Download e-PAN Card Online (Instant e-PAN via Aadhaar)
+description: >-
+  Step-by-step guide to download your e-PAN card online for free using Aadhaar
+  from the Income Tax portal, Protean (NSDL), and UTIITSL. Also covers PAN
+  status...
+category: Tax & Finance
 keywords:
-  - "download e-PAN"
-  - "e-PAN download"
-  - "instant e-PAN"
-  - "PAN card download online"
-  - "e-PAN card download"
-  - "download PAN card PDF"
-  - "instant PAN card through Aadhaar"
-  - "e-PAN from income tax portal"
-  - "check PAN card status"
-  - "know your PAN number"
-readingTime: "8 min"
+  - download e-PAN
+  - e-PAN download
+  - instant e-PAN
+  - PAN card download online
+  - e-PAN card download
+  - download PAN card PDF
+  - instant PAN card through Aadhaar
+  - e-PAN from income tax portal
+  - check PAN card status
+  - know your PAN number
+readingTime: 8 min
 officialLinks:
-  - "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/instant-e-pan"
-  - "https://tinpan.proteantech.in/"
-  - "https://www.pan.utiitsl.com/"
-  - "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/knowYourPan"
+  - 'https://eportal.incometax.gov.in/iec/foservices/#/pre-login/instant-e-pan'
+  - 'https://tinpan.proteantech.in/'
+  - 'https://www.pan.utiitsl.com/'
+  - 'https://eportal.incometax.gov.in/iec/foservices/#/pre-login/knowYourPan'
 ---
 
 # How to Download e-PAN Card Online (Instant e-PAN via Aadhaar)

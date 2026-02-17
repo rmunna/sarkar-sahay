@@ -1,35 +1,38 @@
 ---
-title: "Land Records Online — Bhulekh, Bhu Naksha title: "How to Check Land Records Online in India — Bhulekh, Bhu Naksha, 7/12 Extract" 7/12"
-description: "Check land records online in India — access Bhulekh, Bhu Naksha, 7/12 Extract, Khasra Khatauni, and RTC records state-wise. Step-by-step guide."
-category: "Property & Legal"
+title: How to Check Land Records Online in India
+description: >-
+  Complete guide to checking land records online in India. Learn how to access
+  Bhulekh, Bhu Naksha, 7/12 Extract, Khasra Khatauni, and RTC records
+  state-wise...
+category: Property & Legal
 keywords:
-  - "land records online"
-  - "bhulekh"
-  - "7/12 extract online"
-  - "check land records"
-  - "khasra khatauni online"
-  - "bhu naksha"
-  - "land map online"
-  - "UP bhulekh"
-  - "Maharashtra 7/12 utara"
-  - "apna khata rajasthan"
-  - "MP bhulekh"
-  - "bihar bhumi"
-  - "karnataka bhoomi"
-  - "land mutation online"
-  - "RTC online"
-  - "khata certificate"
-  - "digital land records India"
-readingTime: "12 min"
+  - land records online
+  - bhulekh
+  - 7/12 extract online
+  - check land records
+  - khasra khatauni online
+  - bhu naksha
+  - land map online
+  - UP bhulekh
+  - Maharashtra 7/12 utara
+  - apna khata rajasthan
+  - MP bhulekh
+  - bihar bhumi
+  - karnataka bhoomi
+  - land mutation online
+  - RTC online
+  - khata certificate
+  - digital land records India
+readingTime: 12 min
 officialLinks:
-  - "https://upbhulekh.gov.in"
-  - "https://bhulekh.mahabhumi.gov.in"
-  - "https://digitalsatbara.mahabhumi.gov.in"
-  - "https://apnakhata.rajasthan.gov.in"
-  - "https://mpbhulekh.gov.in"
-  - "https://biharbhumi.bihar.gov.in"
-  - "https://landrecords.karnataka.gov.in"
-  - "https://dilrmp.gov.in"
+  - 'https://upbhulekh.gov.in'
+  - 'https://bhulekh.mahabhumi.gov.in'
+  - 'https://digitalsatbara.mahabhumi.gov.in'
+  - 'https://apnakhata.rajasthan.gov.in'
+  - 'https://mpbhulekh.gov.in'
+  - 'https://biharbhumi.bihar.gov.in'
+  - 'https://landrecords.karnataka.gov.in'
+  - 'https://dilrmp.gov.in'
 ---
 
 # How to Check Land Records Online in India — Bhulekh, Bhu Naksha, 7/12 Extract

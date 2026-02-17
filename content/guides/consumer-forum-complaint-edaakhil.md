@@ -1,8 +1,11 @@
 ---
-title: "Consumer Forum Complaint via e-Daakhil Portal"
-description: "File consumer forum complaints online via e-Daakhil portal. Know fee structure, compensation limits, district/state/national commission process and timelines."
-category: "Property & Legal"
-lastUpdated: "2026-02-16"
+title: How to File Consumer Forum Complaint via e-Daakhil Portal
+description: >-
+  File consumer forum complaints online via e-Daakhil portal. Know fee
+  structure, compensation limits, district/state/national commission process and
+  timelines.
+category: Property & Legal
+lastUpdated: '2026-02-16'
 keywords:
   - e-Daakhil portal
   - consumer forum complaint online
@@ -18,13 +21,13 @@ keywords:
   - National Consumer Helpline 1915
   - consumer dispute redressal
   - CONFONET case status
-readingTime: "12 min"
+readingTime: 12 min
 officialLinks:
-  - "https://edaakhil.nic.in"
-  - "https://consumerhelpline.gov.in"
-  - "https://ncdrc.nic.in"
-  - "https://confonet.nic.in"
-  - "https://ingram.gov.in"
+  - 'https://edaakhil.nic.in'
+  - 'https://consumerhelpline.gov.in'
+  - 'https://ncdrc.nic.in'
+  - 'https://confonet.nic.in'
+  - 'https://ingram.gov.in'
 ---
 
 # How to File Consumer Forum Complaint via e-Daakhil Portal — Complete Guide

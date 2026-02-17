@@ -1,29 +1,32 @@
 ---
-title: "Old Age Pension / Vridha Pension — Apply Online"
-description: "Apply for old age pension (Vridha Pension) online in India. IGNOAPS scheme, state-wise pension amounts, eligibility, documents, and status check."
-category: "Government Schemes"
+title: How to Apply for Old Age Pension / Vridha Pension Online
+description: >-
+  Complete guide to applying for old age pension (Vridha Pension) online in
+  India. Covers IGNOAPS central scheme, state-wise pension amounts,
+  eligibility...
+category: Government Schemes
 keywords:
-  - "old age pension"
-  - "vridha pension"
-  - "senior citizen pension"
-  - "old age pension online apply"
-  - "IGNOAPS"
-  - "Indira Gandhi National Old Age Pension"
-  - "vriddhawastha pension"
-  - "old age pension status check"
-  - "pension for senior citizens India"
-  - "state pension scheme India"
-readingTime: "18 min"
+  - old age pension
+  - vridha pension
+  - senior citizen pension
+  - old age pension online apply
+  - IGNOAPS
+  - Indira Gandhi National Old Age Pension
+  - vriddhawastha pension
+  - old age pension status check
+  - pension for senior citizens India
+  - state pension scheme India
+readingTime: 18 min
 officialLinks:
-  - "https://nsap.nic.in"
-  - "https://sspy-up.gov.in"
-  - "https://serviceonline.bihar.gov.in"
-  - "https://rajssp.rajasthan.gov.in"
-  - "https://socialsecurity.mp.gov.in"
-  - "https://aaplesarkar.mahaonline.gov.in"
-  - "https://www.tnsocialwelfare.tn.gov.in"
-  - "https://sevasindhu.karnataka.gov.in"
-  - "https://edistrict.delhigovt.nic.in"
+  - 'https://nsap.nic.in'
+  - 'https://sspy-up.gov.in'
+  - 'https://serviceonline.bihar.gov.in'
+  - 'https://rajssp.rajasthan.gov.in'
+  - 'https://socialsecurity.mp.gov.in'
+  - 'https://aaplesarkar.mahaonline.gov.in'
+  - 'https://www.tnsocialwelfare.tn.gov.in'
+  - 'https://sevasindhu.karnataka.gov.in'
+  - 'https://edistrict.delhigovt.nic.in'
 ---
 
 # How to Apply for Old Age Pension / Vridha Pension Online — State-wise Guide

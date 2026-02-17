@@ -1,22 +1,24 @@
 ---
-title: "Swasthya Sathi West Bengal — ₹5 Lakh Health Cover"
-description: "Swasthya Sathi gives every West Bengal family ₹5 lakh/year free cashless health insurance. Check eligibility, apply, and find hospitals."
-category: "State Schemes"
+title: Swasthya Sathi West Bengal
+description: >-
+  Swasthya Sathi gives every West Bengal family ₹5 lakh/year free cashless
+  health insurance. Check eligibility, apply, and find hospitals.
+category: State Schemes
 keywords:
-  - "Swasthya Sathi"
-  - "স্বাস্থ্য সাথী"
-  - "West Bengal health insurance"
-  - "Swasthya Sathi card"
-  - "free health insurance West Bengal"
-  - "Swasthya Sathi hospital list"
-  - "Duare Sarkar health card"
-  - "WB cashless treatment"
-  - "Swasthya Sathi eligibility"
-readingTime: "8 min"
+  - Swasthya Sathi
+  - স্বাস্থ্য সাথী
+  - West Bengal health insurance
+  - Swasthya Sathi card
+  - free health insurance West Bengal
+  - Swasthya Sathi hospital list
+  - Duare Sarkar health card
+  - WB cashless treatment
+  - Swasthya Sathi eligibility
+readingTime: 8 min
 officialLinks:
-  - "https://swasthyasathi.gov.in"
-  - "https://swasthyasathi.gov.in/FAQ"
-  - "https://swasthyasathi.gov.in"
+  - 'https://swasthyasathi.gov.in'
+  - 'https://swasthyasathi.gov.in/FAQ'
+  - 'https://swasthyasathi.gov.in'
 ---
 
 # Swasthya Sathi (স্বাস্থ্য সাথী) — West Bengal's Free Health Insurance Scheme

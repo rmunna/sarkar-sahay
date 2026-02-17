@@ -1,32 +1,34 @@
 ---
-title: "Aadhaar Common Problems title: "Aadhaar Card Common Problems & Solutions — Update Rejected, OTP Not Received, Authentication Failed" Solutions — Quick Fixes"
-description: "Fix common Aadhaar problems — update rejected, OTP not received, biometric lock, and name mismatch. Step-by-step solutions with UIDAI helpline."
-category: "Identity Documents"
+title: Aadhaar Card Common Problems & Solutions
+description: >-
+  Facing Aadhaar card problems? Complete guide to fix Aadhaar update rejected,
+  OTP not received, authentication failed, biometric lock, name mismatch, and...
+category: Identity Documents
 keywords:
-  - "aadhaar update rejected"
-  - "aadhaar OTP not received"
-  - "aadhaar authentication failed"
-  - "aadhaar not linked to mobile"
-  - "aadhaar card problems"
-  - "aadhaar helpline number"
-  - "aadhaar grievance"
-  - "aadhaar biometric lock unlock"
-  - "aadhaar name mismatch"
-  - "aadhaar card not delivered"
-  - "aadhaar address proof rejected"
-  - "duplicate aadhaar card"
-  - "aadhaar update pending"
-  - "UIDAI grievance portal"
-  - "aadhaar mobile number link"
-  - "aadhaar card correction"
-  - "aadhaar verification failed"
-readingTime: "15 min"
+  - aadhaar update rejected
+  - aadhaar OTP not received
+  - aadhaar authentication failed
+  - aadhaar not linked to mobile
+  - aadhaar card problems
+  - aadhaar helpline number
+  - aadhaar grievance
+  - aadhaar biometric lock unlock
+  - aadhaar name mismatch
+  - aadhaar card not delivered
+  - aadhaar address proof rejected
+  - duplicate aadhaar card
+  - aadhaar update pending
+  - UIDAI grievance portal
+  - aadhaar mobile number link
+  - aadhaar card correction
+  - aadhaar verification failed
+readingTime: 15 min
 officialLinks:
-  - "https://uidai.gov.in"
-  - "https://myaadhaar.uidai.gov.in"
-  - "https://ssup.uidai.gov.in"
-  - "https://resident.uidai.gov.in"
-  - "https://uidai.gov.in/en/contact-support.html"
+  - 'https://uidai.gov.in'
+  - 'https://myaadhaar.uidai.gov.in'
+  - 'https://ssup.uidai.gov.in'
+  - 'https://resident.uidai.gov.in'
+  - 'https://uidai.gov.in/en/contact-support.html'
 ---
 
 # Aadhaar Card Common Problems & Solutions

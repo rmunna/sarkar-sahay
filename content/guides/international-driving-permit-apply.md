@@ -1,23 +1,26 @@
 ---
-title: "How to Apply for International Driving Permit (IDP) in India"
-description: "Apply for an International Driving Permit online via Sarathi Parivahan or at RTO. Documents, fees, validity, and step-by-step process explained."
-category: "Identity Documents"
+title: How to Apply for International Driving Permit (IDP) in India
+description: >-
+  Complete guide to applying for an International Driving Permit in India —
+  online via Parivahan Sarathi and offline at RTO. Documents, fees, validity,
+  and...
+category: Identity Documents
 keywords:
-  - "international driving permit India"
-  - "IDP India apply"
-  - "international driving licence"
-  - "IDP online apply"
-  - "international driving permit fees"
-  - "IDP documents required"
-  - "international driving permit RTO"
-  - "IDP India validity"
-  - "how to get international driving licence India"
-  - "parivahan IDP apply"
-readingTime: "8 min"
+  - international driving permit India
+  - IDP India apply
+  - international driving licence
+  - IDP online apply
+  - international driving permit fees
+  - IDP documents required
+  - international driving permit RTO
+  - IDP India validity
+  - how to get international driving licence India
+  - parivahan IDP apply
+readingTime: 8 min
 officialLinks:
-  - "https://parivahan.gov.in/parivahan/"
-  - "https://sarathi.parivahan.gov.in/"
-  - "https://morth.nic.in/"
+  - 'https://parivahan.gov.in/parivahan/'
+  - 'https://sarathi.parivahan.gov.in/'
+  - 'https://morth.nic.in/'
 ---
 
 # How to Apply for International Driving Permit (IDP) in India

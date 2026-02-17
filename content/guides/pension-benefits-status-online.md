@@ -1,7 +1,9 @@
 ---
-title: "Pension Benefits Online — Disbursement title: "How to Apply for Pensioners' Benefits Online — Pension Disbursement, Family Pension, Commutation" Family Pension"
-description: "Check pension status on CPAO, Bhavishya, and SPARSH portals. Download pension slip, track PPO, apply for family pension — complete retiree guide."
-category: "Government Schemes"
+title: How to Apply for Pensioners' Benefits Online
+description: >-
+  Complete guide for Indian government pensioners — check pension status on CPAO
+  & Bhavishya portals, apply for family pension, download pension slip, track...
+category: Government Schemes
 keywords:
   - pension status check
   - family pension apply
@@ -15,13 +17,13 @@ keywords:
   - Jeevan Pramaan life certificate
   - pension revision
   - government pension India
-readingTime: "15 min"
+readingTime: 15 min
 officialLinks:
-  - https://cpao.nic.in
-  - https://bhavishya.nic.in
-  - https://sparsh.defencepension.gov.in
-  - https://jeevanpramaan.gov.in
-  - https://doppw.gov.in
+  - 'https://cpao.nic.in'
+  - 'https://bhavishya.nic.in'
+  - 'https://sparsh.defencepension.gov.in'
+  - 'https://jeevanpramaan.gov.in'
+  - 'https://doppw.gov.in'
 ---
 
 # How to Apply for Pensioners' Benefits Online

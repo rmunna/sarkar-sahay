@@ -1,28 +1,30 @@
 ---
-title: "Vehicle RC Transfer Online — Owner title: "How to Transfer Vehicle RC (Registration Certificate) Online — Owner Transfer, Address Change" Address Change"
-description: "Transfer vehicle RC online in India — ownership transfer, address change, duplicate RC, and interstate NOC via Vahan portal. Step-by-step process."
-category: "Identity Documents"
+title: How to Transfer Vehicle RC (Registration Certificate) Online
+description: >-
+  Complete guide to transfer vehicle RC online in India. Step-by-step process
+  for ownership transfer, address change, duplicate RC, NOC for interstate...
+category: Identity Documents
 keywords:
-  - "RC transfer online"
-  - "vehicle ownership transfer"
-  - "RC transfer documents"
-  - "vehicle registration transfer"
-  - "check vehicle details online"
-  - "transfer of vehicle ownership India"
-  - "Form 29 vehicle transfer"
-  - "Form 30 intimation of transfer"
-  - "NOC interstate vehicle transfer"
-  - "duplicate RC online"
-  - "change address on RC"
-  - "parivahan RC transfer"
-  - "vahan vehicle registration"
-  - "RC transfer fees India"
-  - "how to transfer car ownership"
-readingTime: "12 min"
+  - RC transfer online
+  - vehicle ownership transfer
+  - RC transfer documents
+  - vehicle registration transfer
+  - check vehicle details online
+  - transfer of vehicle ownership India
+  - Form 29 vehicle transfer
+  - Form 30 intimation of transfer
+  - NOC interstate vehicle transfer
+  - duplicate RC online
+  - change address on RC
+  - parivahan RC transfer
+  - vahan vehicle registration
+  - RC transfer fees India
+  - how to transfer car ownership
+readingTime: 12 min
 officialLinks:
-  - "https://parivahan.gov.in/"
-  - "https://vahan.parivahan.gov.in/vahan4dashboard/"
-  - "https://sarathi.parivahan.gov.in/"
+  - 'https://parivahan.gov.in/'
+  - 'https://vahan.parivahan.gov.in/vahan4dashboard/'
+  - 'https://sarathi.parivahan.gov.in/'
 ---
 
 # How to Transfer Vehicle RC (Registration Certificate) Online

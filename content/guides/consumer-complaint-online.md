@@ -1,7 +1,10 @@
 ---
-title: "File Consumer Complaint Online — Helpline title: "How to File Consumer Complaint Online — National Consumer Helpline & eDaakhil" eDaakhil"
-description: "File consumer complaint online via National Consumer Helpline (1800-11-4000) and eDaakhil portal. Know your rights, documents, and track status."
-category: "Property & Legal"
+title: How to File Consumer Complaint Online
+description: >-
+  Step-by-step guide to filing a consumer complaint online in India using the
+  National Consumer Helpline (1800-11-4000) and eDaakhil portal. Know your
+  rights...
+category: Property & Legal
 keywords:
   - consumer complaint online
   - eDaakhil
@@ -16,12 +19,12 @@ keywords:
   - Jago Grahak Jago
   - consumer grievance redressal
   - INGRAM app
-readingTime: "10 min"
+readingTime: 10 min
 officialLinks:
-  - "https://edaakhil.nic.in"
-  - "https://consumerhelpline.gov.in"
-  - "https://ncdrc.nic.in"
-  - "https://confonet.nic.in"
+  - 'https://edaakhil.nic.in'
+  - 'https://consumerhelpline.gov.in'
+  - 'https://ncdrc.nic.in'
+  - 'https://confonet.nic.in'
 ---
 
 # How to File Consumer Complaint Online — National Consumer Helpline & eDaakhil

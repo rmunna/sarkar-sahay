@@ -1,28 +1,31 @@
 ---
-title: "Mutual Fund KYC Online — CKYC, eKYC title: "How to Apply for Mutual Fund KYC Online — CKYC, eKYC & Investment Guide" Invest"
-description: "Complete guide to mutual fund KYC online via CAMS, KFintech & CVL portals. Learn eKYC, CKYC, documents required, and how to start investing in SIP or lump sum."
-slug: "mutual-fund-kyc-online-invest"
+title: How to Apply for Mutual Fund KYC Online
+description: >-
+  Complete guide to mutual fund KYC online via CAMS, KFintech & CVL portals.
+  Learn eKYC, CKYC, documents required, and how to start investing in SIP or
+  lump sum.
+slug: mutual-fund-kyc-online-invest
 keywords:
-  - "mutual fund KYC online"
-  - "eKYC for mutual funds"
-  - "CKYC registration"
-  - "KYC status check"
-  - "KRA KYC portal"
-  - "mutual fund investment India"
-  - "SIP investment after KYC"
-  - "PAN based KYC"
-  - "CAMS KYC"
-  - "KFintech KYC"
-category: "Tax & Finance"
-author: "CitizenNest Team"
-readingTime: "10 min"
-lastUpdated: 2026-02-16
+  - mutual fund KYC online
+  - eKYC for mutual funds
+  - CKYC registration
+  - KYC status check
+  - KRA KYC portal
+  - mutual fund investment India
+  - SIP investment after KYC
+  - PAN based KYC
+  - CAMS KYC
+  - KFintech KYC
+category: Tax & Finance
+author: CitizenNest Team
+readingTime: 10 min
+lastUpdated: 2026-02-16T00:00:00.000Z
 officialLinks:
-  - "https://www.camskra.com"
-  - "https://kra.kfintech.com"
-  - "https://www.cvlkra.com"
-  - "https://www.amfiindia.com"
-  - "https://www.sebi.gov.in"
+  - 'https://www.camskra.com'
+  - 'https://kra.kfintech.com'
+  - 'https://www.cvlkra.com'
+  - 'https://www.amfiindia.com'
+  - 'https://www.sebi.gov.in'
 ---
 
 # How to Apply for Mutual Fund KYC Online — CKYC, eKYC & Investment Guide

@@ -1,14 +1,24 @@
 ---
-title: "Which ITR Form to Use — Choose Right title: "Which ITR Form to Use — Complete Guide to Choosing the Right Form & Avoiding Mistakes" Avoid Mistakes"
-description: "Learn which ITR form to file — ITR-1 Sahaj, ITR-2, ITR-3, ITR-4 Sugam explained. Common mistakes, new vs old tax regime, due dates & penalties."
-category: "Tax & Finance"
-keywords: ["ITR form selection", "which ITR form to use", "ITR-1 Sahaj", "ITR-2 vs ITR-3", "ITR-4 Sugam", "wrong ITR form", "income tax return mistakes", "new vs old tax regime"]
-readingTime: "9 min"
-lastUpdated: 2026-02-16
+title: Which ITR Form to Use — Guide to Choosing Right
+description: >-
+  Learn which ITR form to file — ITR-1 Sahaj, ITR-2, ITR-3, ITR-4 Sugam
+  explained. Common mistakes, new vs old tax regime, due dates & penalties.
+category: Tax & Finance
+keywords:
+  - ITR form selection
+  - which ITR form to use
+  - ITR-1 Sahaj
+  - ITR-2 vs ITR-3
+  - ITR-4 Sugam
+  - wrong ITR form
+  - income tax return mistakes
+  - new vs old tax regime
+readingTime: 9 min
+lastUpdated: 2026-02-16T00:00:00.000Z
 officialLinks:
-  - https://www.incometax.gov.in
-  - https://eportal.incometax.gov.in
-  - https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable
+  - 'https://www.incometax.gov.in'
+  - 'https://eportal.incometax.gov.in'
+  - 'https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable'
 ---
 
 ## Why Choosing the Right ITR Form Matters

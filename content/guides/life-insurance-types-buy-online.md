@@ -1,8 +1,10 @@
 ---
-title: "Life Insurance — Types, Buy Online title: "Life Insurance — Types, How to Buy Online, Claim Process & Tax Benefits" Tax Benefits"
-description: "Complete guide to life insurance in India — term, endowment, ULIP, whole life plans, how to buy online, claim process, tax benefits under 80C & 10(10D)."
-slug: "life-insurance-types-buy-online"
-category: "Tax & Finance"
+title: 'Life Insurance — Types, Buy Online & Claim Process'
+description: >-
+  Complete guide to life insurance in India — term, endowment, ULIP, whole life
+  plans, how to buy online, claim process, tax benefits under 80C & 10(10D).
+slug: life-insurance-types-buy-online
+category: Tax & Finance
 keywords:
   - life insurance
   - term insurance
@@ -19,14 +21,14 @@ keywords:
   - insurance claim process
   - buy life insurance online
   - life insurance tax benefit
-readingTime: "12 min"
-lastUpdated: 2026-02-16
+readingTime: 12 min
+lastUpdated: 2026-02-16T00:00:00.000Z
 officialLinks:
-  - https://licindia.in
-  - https://www.hdfclife.com
-  - https://www.sbilife.co.in
-  - https://www.iciciprulife.com
-  - https://www.irdai.gov.in
+  - 'https://licindia.in'
+  - 'https://www.hdfclife.com'
+  - 'https://www.sbilife.co.in'
+  - 'https://www.iciciprulife.com'
+  - 'https://www.irdai.gov.in'
 ---
 
 Life insurance is the cornerstone of financial planning for every Indian household. It provides financial security to your family in case of your untimely death and can also serve as a long-term savings tool. With IRDAI-regulated insurers now offering fully digital buying experiences, purchasing a life insurance policy online has never been easier.

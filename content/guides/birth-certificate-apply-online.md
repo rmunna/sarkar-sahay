@@ -1,19 +1,21 @@
 ---
-title: "How to Apply for Birth Certificate Online in India"
-description: "Apply for a birth certificate online in India via CRS portal. Step-by-step process, documents required, delayed registration, and FAQs.
-category: "Certificates"
+title: How to Apply for Birth Certificate Online in India
+description: >-
+  Step-by-step guide to apply for birth certificate online in India through CRS
+  portal. Covers documents required, online & offline process, delayed...
+category: Certificates
 keywords:
-  - "birth certificate apply online India"
-  - "birth certificate online registration"
-  - "how to get birth certificate India"
-  - "CRS birth certificate"
-  - "birth certificate documents required"
-  - "delayed birth registration India"
-  - "crsorgi birth certificate"
-readingTime: "8 min"
+  - birth certificate apply online India
+  - birth certificate online registration
+  - how to get birth certificate India
+  - CRS birth certificate
+  - birth certificate documents required
+  - delayed birth registration India
+  - crsorgi birth certificate
+readingTime: 8 min
 officialLinks:
-  - https://crsorgi.gov.in
-  - https://www.indiacode.nic.in/handle/123456789/1610
+  - 'https://crsorgi.gov.in'
+  - 'https://www.indiacode.nic.in/handle/123456789/1610'
 ---
 
 # How to Apply for Birth Certificate Online in India

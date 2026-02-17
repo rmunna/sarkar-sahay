@@ -1,25 +1,29 @@
 ---
-title: "How to Check PAN Card Status Online — Track PAN Application"
-description: "Check PAN card application status online via NSDL/Protean or UTIITSL. Track your PAN, verify details, check PAN-Aadhaar link, and know your PAN."
-category: "Tax & Finance"
+title: How to Check PAN Card Status Online — Track PAN Application
+description: >-
+  Check your PAN card status online using acknowledgment number via NSDL/Protean
+  or UTIITSL. Track PAN application, verify PAN details, check PAN-Aadhaar
+  link...
+category: Tax & Finance
 keywords:
-  - "PAN card status"
-  - "PAN status check"
-  - "track PAN application"
-  - "know your PAN"
-  - "PAN card status by name"
-  - "NSDL PAN status"
-  - "UTIITSL PAN status"
-  - "PAN Aadhaar link status"
-  - "PAN card active or inactive"
-  - "check PAN number online"
-readingTime: "10 min"
+  - PAN card status
+  - PAN status check
+  - track PAN application
+  - know your PAN
+  - PAN card status by name
+  - NSDL PAN status
+  - UTIITSL PAN status
+  - PAN Aadhaar link status
+  - PAN card active or inactive
+  - check PAN number online
+readingTime: 10 min
 officialLinks:
-  - "https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html"
-  - "https://www.pan.utiitsl.com"
-  - "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/verifyYourPAN"
-  - "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/knowYourPAN"
-  - "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/link-aadhaar-status"
+  - 'https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html'
+  - 'https://www.pan.utiitsl.com'
+  - 'https://eportal.incometax.gov.in/iec/foservices/#/pre-login/verifyYourPAN'
+  - 'https://eportal.incometax.gov.in/iec/foservices/#/pre-login/knowYourPAN'
+  - >-
+    https://eportal.incometax.gov.in/iec/foservices/#/pre-login/link-aadhaar-status
 ---
 
 # How to Check PAN Card Status Online — Track PAN Application

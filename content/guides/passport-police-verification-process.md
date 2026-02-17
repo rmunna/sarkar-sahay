@@ -1,19 +1,23 @@
 ---
-title: "Passport Police Verification — Process title: "Passport Police Verification — Process, Timeline, Status Check & What to Expect" Status"
-description: "Complete guide to passport police verification in India — process, timeline, status check online, documents needed, and how to handle delays."
-category: "Identity Documents"
+title: Passport Police Verification
+description: >-
+  Complete guide to passport police verification in India — process, timeline,
+  status check online, documents needed, and how to handle delays.
+category: Identity Documents
 keywords:
-  - "passport police verification"
-  - "passport police verification status"
-  - "how long passport police verification"
-  - "passport verification process"
-  - "police verification for passport"
-readingTime: "8 min"
-lastUpdated: "2026-02-16"
+  - passport police verification
+  - passport police verification status
+  - how long passport police verification
+  - passport verification process
+  - police verification for passport
+readingTime: 8 min
+lastUpdated: '2026-02-16'
 officialLinks:
-  - "https://www.passportindia.gov.in"
-  - "https://passportindia.gov.in/AppOnlineProject/statusTracker/trackStatusIn498702"
-  - "https://portal2.passportindia.gov.in/AppOnlineProject/statusTracker/trackStatusForPVIn498702"
+  - 'https://www.passportindia.gov.in'
+  - >-
+    https://passportindia.gov.in/AppOnlineProject/statusTracker/trackStatusIn498702
+  - >-
+    https://portal2.passportindia.gov.in/AppOnlineProject/statusTracker/trackStatusForPVIn498702
 ---
 
 # Passport Police Verification — Process, Timeline, Status Check & What to Expect

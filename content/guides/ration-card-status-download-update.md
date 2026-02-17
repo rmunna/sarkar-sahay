@@ -1,7 +1,10 @@
 ---
-title: "Ration Card Status Check, Download & Update — Complete Guide"
-description: "Check ration card application status, download e-ration card, add or remove members, correct details, link Aadhaar, and use ONORC — full guide."
-category: "Food & Ration"
+title: 'Ration Card Status Check, Download & Update — Complete Guide'
+description: >-
+  Check ration card application status, download e-ration card, add or remove
+  family members, correct details, use ONORC, link Aadhaar, and file
+  complaints...
+category: Food & Ration
 keywords:
   - ration card status check
   - ration card download
@@ -18,13 +21,13 @@ keywords:
   - ration card update
   - ration card surrender
   - ration card details check
-readingTime: "12 min"
+readingTime: 12 min
 officialLinks:
-  - "https://nfsa.gov.in"
-  - "https://impds.nic.in"
-  - "https://annavitran.nic.in"
-  - "https://pgportal.gov.in"
-  - "https://epds.nic.in"
+  - 'https://nfsa.gov.in'
+  - 'https://impds.nic.in'
+  - 'https://annavitran.nic.in'
+  - 'https://pgportal.gov.in'
+  - 'https://epds.nic.in'
 ---
 
 # Ration Card — Check Status, Download, Update & More

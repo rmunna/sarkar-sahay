@@ -1,28 +1,30 @@
 ---
-title: "Voter ID Correction Online — Name, Address title: "How to Correct Voter ID Card Online — Name, Address, Photo Change (NVSP)" Photo"
-description: "Correct Voter ID (EPIC) details online via Form 8 on NVSP portal. Fix name, address, photo, date of birth, and download e-EPIC step by step."
-category: "Identity Documents"
+title: How to Correct Voter ID Card Online
+description: >-
+  Step-by-step guide to correct your Voter ID (EPIC) details online using Form 8
+  on the NVSP portal. Fix name, address, photo, date of birth, and more. Also...
+category: Identity Documents
 keywords:
-  - "voter ID correction online"
-  - "voter ID name change"
-  - "voter ID address change"
-  - "NVSP correction"
-  - "download e-EPIC"
-  - "voter ID photo change"
-  - "Form 8 voter ID"
-  - "Form 8A address change"
-  - "voter ID date of birth correction"
-  - "EPIC card correction"
-  - "voter ID online update"
-  - "digital voter ID download"
-  - "Voter Helpline app"
-  - "voter ID father name correction"
-  - "shift voter ID new address"
-readingTime: "10 min"
+  - voter ID correction online
+  - voter ID name change
+  - voter ID address change
+  - NVSP correction
+  - download e-EPIC
+  - voter ID photo change
+  - Form 8 voter ID
+  - Form 8A address change
+  - voter ID date of birth correction
+  - EPIC card correction
+  - voter ID online update
+  - digital voter ID download
+  - Voter Helpline app
+  - voter ID father name correction
+  - shift voter ID new address
+readingTime: 10 min
 officialLinks:
-  - "https://voters.eci.gov.in"
-  - "https://voterportal.eci.gov.in"
-  - "https://www.eci.gov.in"
+  - 'https://voters.eci.gov.in'
+  - 'https://voterportal.eci.gov.in'
+  - 'https://www.eci.gov.in'
 ---
 
 # How to Correct Voter ID Card Online — Name, Address, Photo Change (NVSP)

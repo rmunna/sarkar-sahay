@@ -1,9 +1,11 @@
 ---
-title: "Post-Matric title: "How to Apply for Scholarship Online — Post-Matric & Pre-Matric Scholarships in India" Pre-Matric Scholarship — Apply Online"
-description: "Complete guide to apply for Post-Matric and Pre-Matric scholarships online via NSP. Covers eligibility, documents, application process, and renewal steps."
-lastUpdated: "2026-02-16"
-readingTime: "12 min"
-category: "Government Schemes"
+title: How to Apply for Scholarship Online
+description: >-
+  Complete guide to apply for Post-Matric and Pre-Matric scholarships online via
+  NSP. Covers eligibility, documents, application process, and renewal steps.
+lastUpdated: '2026-02-16'
+readingTime: 12 min
+category: Government Schemes
 keywords:
   - scholarship online apply
   - post matric scholarship
@@ -16,10 +18,10 @@ keywords:
   - AICTE Pragati Saksham
   - government scholarship India
 officialLinks:
-  - "https://scholarships.gov.in"
-  - "https://www.aicte-india.org"
-  - "https://www.minorityaffairs.gov.in"
-  - "https://socialjustice.gov.in"
+  - 'https://scholarships.gov.in'
+  - 'https://www.aicte-india.org'
+  - 'https://www.minorityaffairs.gov.in'
+  - 'https://socialjustice.gov.in'
 ---
 
 # How to Apply for Scholarship Online — Post-Matric & Pre-Matric Scholarships in India

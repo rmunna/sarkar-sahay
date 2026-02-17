@@ -1,8 +1,10 @@
 ---
-title: "Power of Attorney (POA) — Types title: "How to Get Power of Attorney (POA) in India — Types, Registration & Format" Registration India"
-description: "Learn how to create, register & revoke a Power of Attorney in India. Covers types, stamp duty, NRI POA, property transactions & required documents."
-slug: "power-of-attorney-registration-india"
-category: "Property & Legal"
+title: How to Get Power of Attorney (POA) in India
+description: >-
+  Learn how to create, register & revoke a Power of Attorney in India. Covers
+  types, stamp duty, NRI POA, property transactions & required documents.
+slug: power-of-attorney-registration-india
+category: Property & Legal
 keywords:
   - power of attorney India
   - POA registration
@@ -14,15 +16,15 @@ keywords:
   - POA format India
   - registered POA
   - durable power of attorney
-readingTime: "12 min"
-lastUpdated: 2026-02-16
+readingTime: 12 min
+lastUpdated: 2026-02-16T00:00:00.000Z
 officialLinks:
-  - "https://igrsup.gov.in"
-  - "https://igr.rajasthan.gov.in"
-  - "https://registration.ap.gov.in"
-  - "https://tnreginet.gov.in"
-  - "https://igrs.karnataka.gov.in"
-  - "https://indianstampact.com"
+  - 'https://igrsup.gov.in'
+  - 'https://igr.rajasthan.gov.in'
+  - 'https://registration.ap.gov.in'
+  - 'https://tnreginet.gov.in'
+  - 'https://igrs.karnataka.gov.in'
+  - 'https://indianstampact.com'
 ---
 
 # How to Get Power of Attorney (POA) in India — Types, Registration & Format

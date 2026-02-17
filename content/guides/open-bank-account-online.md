@@ -1,25 +1,27 @@
 ---
-title: "Open Bank Account Online — Savings title: "How to Open Bank Account Online in India — Savings Account, Zero Balance Account" Zero Balance"
-description: "Open a savings bank account online in India — zero balance, Jan Dhan, salary, minor, and NRI accounts with SBI, HDFC, ICICI, Kotak, and more."
-category: "Tax & Finance"
+title: How to Open Bank Account Online in India
+description: >-
+  Complete guide to open a savings bank account online in India. Covers regular,
+  zero balance (BSBD), Jan Dhan, salary, minor, senior citizen, and NRI...
+category: Tax & Finance
 keywords:
-  - "open bank account online"
-  - "zero balance account"
-  - "savings account online"
-  - "Jan Dhan account open"
-  - "bank account opening online India"
-  - "BSBD account"
-  - "Kotak 811 account"
-  - "SBI YONO account"
-  - "post office savings account"
-readingTime: "12 min"
+  - open bank account online
+  - zero balance account
+  - savings account online
+  - Jan Dhan account open
+  - bank account opening online India
+  - BSBD account
+  - Kotak 811 account
+  - SBI YONO account
+  - post office savings account
+readingTime: 12 min
 officialLinks:
-  - https://sbi.co.in
-  - https://www.hdfcbank.com
-  - https://www.icicibank.com
-  - https://www.kotak.com/en/digital-banking.html
-  - https://www.india.gov.in
-  - https://www.indiapost.gov.in
+  - 'https://sbi.co.in'
+  - 'https://www.hdfcbank.com'
+  - 'https://www.icicibank.com'
+  - 'https://www.kotak.com/en/digital-banking.html'
+  - 'https://www.india.gov.in'
+  - 'https://www.indiapost.gov.in'
 ---
 
 ## Why Open a Bank Account?

@@ -1,29 +1,32 @@
 ---
-title: "Digital Signature Certificate (DSC) Online — Apply"
-description: "Complete guide to get Digital Signature Certificate online. Learn about DSC types, certifying authorities, documents, USB token, e-KYC process, and renewal."
-category: "Tax & Finance"
+title: How to Get Digital Signature Certificate (DSC) Online
+description: >-
+  Complete guide to get Digital Signature Certificate online. Learn about DSC
+  types, certifying authorities, documents, USB token, e-KYC process, and
+  renewal.
+category: Tax & Finance
 keywords:
-  - "digital signature certificate"
-  - "DSC online"
-  - "class 2 DSC"
-  - "class 3 DSC"
-  - "digital signature for GST"
-  - "DSC for MCA filing"
-  - "emudhra DSC"
-  - "digital signature for company directors"
-  - "DSC USB token"
-  - "paperless DSC"
-  - "e-KYC DSC"
-  - "DSC renewal online"
-readingTime: "10 min"
-lastUpdated: 2026-02-16
+  - digital signature certificate
+  - DSC online
+  - class 2 DSC
+  - class 3 DSC
+  - digital signature for GST
+  - DSC for MCA filing
+  - emudhra DSC
+  - digital signature for company directors
+  - DSC USB token
+  - paperless DSC
+  - e-KYC DSC
+  - DSC renewal online
+readingTime: 10 min
+lastUpdated: 2026-02-16T00:00:00.000Z
 officialLinks:
-  - "https://cca.gov.in"
-  - "https://www.mca.gov.in"
-  - "https://emudhra.com"
-  - "https://www.sifynewtechnologies.com"
-  - "https://www.ncodesolutions.com"
-  - "https://www.capricornica.com"
+  - 'https://cca.gov.in'
+  - 'https://www.mca.gov.in'
+  - 'https://emudhra.com'
+  - 'https://www.sifynewtechnologies.com'
+  - 'https://www.ncodesolutions.com'
+  - 'https://www.capricornica.com'
 ---
 
 # How to Get Digital Signature Certificate (DSC) Online — Class 2 & Class 3

@@ -1,8 +1,10 @@
 ---
-title: "Succession Certificate — Apply Online, Process title: "How to Get Succession Certificate Online in India — Process, Documents & Fees" Fees"
-description: "Apply for succession certificate online in India. Court process, documents, state-wise fees, timeline & difference from legal heir certificate."
-slug: "succession-certificate-apply-online"
-category: "Property & Legal"
+title: How to Get Succession Certificate Online in India
+description: >-
+  Apply for succession certificate online in India. Court process, documents,
+  state-wise fees, timeline & difference from legal heir certificate.
+slug: succession-certificate-apply-online
+category: Property & Legal
 keywords:
   - succession certificate
   - succession certificate online
@@ -12,27 +14,55 @@ keywords:
   - succession certificate court fees
   - succession certificate vs legal heir
   - succession certificate application
-readingTime: "10 min"
-lastUpdated: 2026-02-16
+readingTime: 10 min
+lastUpdated: 2026-02-16T00:00:00.000Z
 officialLinks:
-  - "https://services.ecourts.gov.in"
-  - "https://indiankanoon.org"
-  - "https://legislative.gov.in"
+  - 'https://services.ecourts.gov.in'
+  - 'https://indiankanoon.org'
+  - 'https://legislative.gov.in'
 faq:
-  - question: "What is a succession certificate?"
-    answer: "A succession certificate is a legal document issued by a civil court under the Indian Succession Act, 1925 that authorises the holder to inherit debts and securities (bank deposits, shares, mutual funds, insurance) of a deceased person who died without a will."
-  - question: "How long does it take to get a succession certificate?"
-    answer: "An uncontested succession certificate typically takes 3 to 6 months. If someone files an objection, the case becomes contested and may take 1 to 3 years depending on the court's workload."
-  - question: "What is the difference between a succession certificate and a legal heir certificate?"
-    answer: "A legal heir certificate is issued by the tehsildar or municipal authority and establishes who the legal heirs are. A succession certificate is a court order that specifically authorises an heir to collect the debts and securities of the deceased. Banks and financial institutions often require a succession certificate for large amounts."
-  - question: "Can I apply for a succession certificate online?"
-    answer: "You can file the petition electronically through the e-Courts portal (services.ecourts.gov.in) in districts where e-filing is enabled. Some state portals also allow online submission. However, court hearings still require physical or virtual appearance."
-  - question: "How much court fee is required for a succession certificate?"
-    answer: "Court fees vary by state and are typically calculated as a percentage of the value of the estate — usually between 2% and 7.5% of the asset value. Some states cap the maximum fee. Check your state's Court Fees Act for exact rates."
-  - question: "Is a succession certificate needed if the deceased left a will?"
-    answer: "No. If a valid will exists, you apply for probate of the will instead. Succession certificates are specifically for intestate cases — where the person died without leaving a will."
-  - question: "Which court has jurisdiction for succession certificate?"
-    answer: "The district civil court having jurisdiction over the area where the deceased ordinarily resided at the time of death, or where any part of the property is located, can hear the petition."
+  - question: What is a succession certificate?
+    answer: >-
+      A succession certificate is a legal document issued by a civil court under
+      the Indian Succession Act, 1925 that authorises the holder to inherit
+      debts and securities (bank deposits, shares, mutual funds, insurance) of a
+      deceased person who died without a will.
+  - question: How long does it take to get a succession certificate?
+    answer: >-
+      An uncontested succession certificate typically takes 3 to 6 months. If
+      someone files an objection, the case becomes contested and may take 1 to 3
+      years depending on the court's workload.
+  - question: >-
+      What is the difference between a succession certificate and a legal heir
+      certificate?
+    answer: >-
+      A legal heir certificate is issued by the tehsildar or municipal authority
+      and establishes who the legal heirs are. A succession certificate is a
+      court order that specifically authorises an heir to collect the debts and
+      securities of the deceased. Banks and financial institutions often require
+      a succession certificate for large amounts.
+  - question: Can I apply for a succession certificate online?
+    answer: >-
+      You can file the petition electronically through the e-Courts portal
+      (services.ecourts.gov.in) in districts where e-filing is enabled. Some
+      state portals also allow online submission. However, court hearings still
+      require physical or virtual appearance.
+  - question: How much court fee is required for a succession certificate?
+    answer: >-
+      Court fees vary by state and are typically calculated as a percentage of
+      the value of the estate — usually between 2% and 7.5% of the asset value.
+      Some states cap the maximum fee. Check your state's Court Fees Act for
+      exact rates.
+  - question: Is a succession certificate needed if the deceased left a will?
+    answer: >-
+      No. If a valid will exists, you apply for probate of the will instead.
+      Succession certificates are specifically for intestate cases — where the
+      person died without leaving a will.
+  - question: Which court has jurisdiction for succession certificate?
+    answer: >-
+      The district civil court having jurisdiction over the area where the
+      deceased ordinarily resided at the time of death, or where any part of the
+      property is located, can hear the petition.
 ---
 
 A **succession certificate** is one of the most important legal documents you may need after the death of a family member — especially when banks, insurance companies, or mutual fund houses refuse to release assets without court authorisation. This guide explains the complete process to apply for a succession certificate in India, including online filing options, required documents, court fees by state, and expected timelines.

@@ -1,27 +1,30 @@
 ---
-title: "How to Check and Withdraw EPF/PF Online (Employee Provident Fund)"
-description: "Check PF balance online, withdraw EPF money, transfer PF to new employer, activate UAN, and track claim status — complete step-by-step process."
-category: "Tax & Finance"
+title: How to Check and Withdraw EPF/PF Online (Employee Provident Fund)
+description: >-
+  Complete guide to check your PF balance online, withdraw EPF money, transfer
+  PF to new employer, activate UAN, and track PF claim status — with
+  step-by-step...
+category: Tax & Finance
 keywords:
-  - "PF withdrawal online"
-  - "EPF withdrawal"
-  - "check PF balance"
-  - "PF claim status"
-  - "UAN activation"
-  - "EPF online withdrawal"
-  - "PF balance check missed call"
-  - "UMANG app PF balance"
-  - "PF transfer online"
-  - "EPF advance withdrawal"
-  - "PF withdrawal for housing"
-  - "EPF retirement withdrawal"
-  - "KYC linking EPFO"
-readingTime: "12 min"
+  - PF withdrawal online
+  - EPF withdrawal
+  - check PF balance
+  - PF claim status
+  - UAN activation
+  - EPF online withdrawal
+  - PF balance check missed call
+  - UMANG app PF balance
+  - PF transfer online
+  - EPF advance withdrawal
+  - PF withdrawal for housing
+  - EPF retirement withdrawal
+  - KYC linking EPFO
+readingTime: 12 min
 officialLinks:
-  - "https://unifiedportal-mem.epfindia.gov.in/"
-  - "https://www.epfindia.gov.in/"
-  - "https://passbook.epfindia.gov.in/"
-  - "https://web.umang.gov.in/landing/department/epfo.html"
+  - 'https://unifiedportal-mem.epfindia.gov.in/'
+  - 'https://www.epfindia.gov.in/'
+  - 'https://passbook.epfindia.gov.in/'
+  - 'https://web.umang.gov.in/landing/department/epfo.html'
 ---
 
 ## What is EPF/PF?

@@ -1,6 +1,9 @@
 ---
-title: "Education Loan in India — Apply, Interest title: "How to Apply for Education Loan in India — Banks, Interest Rates & Repayment" Repayment"
-description: "Complete guide to applying for education loans in India. Compare banks, interest rates, collateral rules, repayment options, and tax benefits under Section 80E."
+title: How to Apply for Education Loan in India
+description: >-
+  Complete guide to applying for education loans in India. Compare banks,
+  interest rates, collateral rules, repayment options, and tax benefits under
+  Section 80E.
 keywords:
   - education loan India
   - SBI education loan
@@ -12,16 +15,16 @@ keywords:
   - collateral free education loan
   - bank education loan apply
   - education loan eligibility
-category: "Tax & Finance"
-readingTime: "10 min"
-lastUpdated: 2026-02-16
+category: Tax & Finance
+readingTime: 10 min
+lastUpdated: 2026-02-16T00:00:00.000Z
 officialLinks:
-  - https://www.vidyalakshmi.co.in
-  - https://www.sbi.co.in
-  - https://www.bankofbaroda.in
-  - https://www.pnbindia.in
-  - https://www.incometax.gov.in
-  - https://scholarships.gov.in
+  - 'https://www.vidyalakshmi.co.in'
+  - 'https://www.sbi.co.in'
+  - 'https://www.bankofbaroda.in'
+  - 'https://www.pnbindia.in'
+  - 'https://www.incometax.gov.in'
+  - 'https://scholarships.gov.in'
 ---
 
 # How to Apply for Education Loan in India — Banks, Interest Rates & Repayment

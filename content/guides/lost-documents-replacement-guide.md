@@ -1,34 +1,36 @@
 ---
-title: "Lost Document Replacement — Aadhaar, PAN, Voter ID"
-description: "Lost your Aadhaar, PAN, Voter ID, licence, or passport? Step-by-step guide to replace all lost government documents online with fees and timelines."
-category: "Identity Documents"
+title: 'How to Get Duplicate Aadhaar, PAN, Voter ID'
+description: >-
+  Lost your Aadhaar, PAN card, Voter ID, driving license, or passport? Don't
+  panic. Step-by-step guide to replace all lost government documents in India...
+category: Identity Documents
 keywords:
-  - "lost Aadhaar card"
-  - "duplicate PAN card"
-  - "lost voter ID"
-  - "replace lost documents India"
-  - "duplicate Aadhaar card"
-  - "lost driving license replacement"
-  - "lost passport India"
-  - "duplicate ration card"
-  - "lost government documents"
-  - "e-Aadhaar download"
-  - "e-PAN download"
-  - "duplicate documents online India"
-  - "lost ID card what to do"
-  - "DigiLocker lost documents"
-readingTime: "15 min"
+  - lost Aadhaar card
+  - duplicate PAN card
+  - lost voter ID
+  - replace lost documents India
+  - duplicate Aadhaar card
+  - lost driving license replacement
+  - lost passport India
+  - duplicate ration card
+  - lost government documents
+  - e-Aadhaar download
+  - e-PAN download
+  - duplicate documents online India
+  - lost ID card what to do
+  - DigiLocker lost documents
+readingTime: 15 min
 officialLinks:
-  - "https://myaadhaar.uidai.gov.in"
-  - "https://eaadhaar.uidai.gov.in"
-  - "https://www.incometax.gov.in"
-  - "https://www.onlineservices.nsdl.com"
-  - "https://voters.eci.gov.in"
-  - "https://parivahan.gov.in"
-  - "https://www.passportindia.gov.in"
-  - "https://www.digilocker.gov.in"
-  - "https://nfsa.gov.in"
-  - "https://crsorgi.gov.in"
+  - 'https://myaadhaar.uidai.gov.in'
+  - 'https://eaadhaar.uidai.gov.in'
+  - 'https://www.incometax.gov.in'
+  - 'https://www.onlineservices.nsdl.com'
+  - 'https://voters.eci.gov.in'
+  - 'https://parivahan.gov.in'
+  - 'https://www.passportindia.gov.in'
+  - 'https://www.digilocker.gov.in'
+  - 'https://nfsa.gov.in'
+  - 'https://crsorgi.gov.in'
 ---
 
 # How to Get Duplicate Aadhaar, PAN, Voter ID — Lost Document Replacement Guide

@@ -1,24 +1,28 @@
 ---
-title: "How to Correct Name in Aadhaar Card Online"
-description: "Step-by-step guide to correct or change your name in Aadhaar card online via myaadhaar.uidai.gov.in. Documents required, fees, and tracking."
-category: "Identity Documents"
+title: How to Correct Name in Aadhaar Card Online
+description: >-
+  Step-by-step guide to correct or change your name in Aadhaar card online via
+  myaadhaar.uidai.gov.in. Know documents required, fees, processing time, and
+  how...
+category: Identity Documents
 keywords:
-  - "aadhaar name correction"
-  - "change name in aadhaar card"
-  - "aadhaar card name change online"
-  - "aadhaar name update"
-  - "correct name in aadhaar"
-  - "aadhaar name correction online"
-  - "aadhaar card name correction documents"
-  - "how to change name in aadhaar card after marriage"
-  - "aadhaar name update fee"
-  - "aadhaar name change status"
-readingTime: "8 min"
+  - aadhaar name correction
+  - change name in aadhaar card
+  - aadhaar card name change online
+  - aadhaar name update
+  - correct name in aadhaar
+  - aadhaar name correction online
+  - aadhaar card name correction documents
+  - how to change name in aadhaar card after marriage
+  - aadhaar name update fee
+  - aadhaar name change status
+readingTime: 8 min
 officialLinks:
-  - "https://myaadhaar.uidai.gov.in"
-  - "https://uidai.gov.in"
-  - "https://uidai.gov.in/images/commdoc/List_of_Supporting_Document_for_Aadhaar_Enrolment_and_Update.pdf"
-  - "https://bhuvan-app3.nrsc.gov.in/aadhaar/"
+  - 'https://myaadhaar.uidai.gov.in'
+  - 'https://uidai.gov.in'
+  - >-
+    https://uidai.gov.in/images/commdoc/List_of_Supporting_Document_for_Aadhaar_Enrolment_and_Update.pdf
+  - 'https://bhuvan-app3.nrsc.gov.in/aadhaar/'
 ---
 
 # How to Correct Name in Aadhaar Card Online

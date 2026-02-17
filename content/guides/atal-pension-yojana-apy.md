@@ -1,23 +1,26 @@
 ---
-title: "Atal Pension Yojana (APY) — Apply, Benefits title: "Atal Pension Yojana (APY) — How to Apply, Benefits & Pension Calculator" Calculator"
-description: "Atal Pension Yojana (APY) guide — get ₹1,000 to ₹5,000/month pension after 60. Eligibility, contribution chart, and online application process."
-category: "Government Schemes"
+title: Atal Pension Yojana (APY)
+description: >-
+  Complete guide to Atal Pension Yojana (APY) — guaranteed pension of ₹1,000 to
+  ₹5,000/month after age 60. Learn eligibility, contribution chart, how to
+  apply...
+category: Government Schemes
 keywords:
-  - "Atal Pension Yojana"
-  - "APY scheme"
-  - "APY pension amount"
-  - "APY contribution table"
-  - "APY online apply"
-  - "pension scheme India"
-  - "APY calculator"
-  - "APY eligibility"
-  - "APY vs NPS"
-  - "government pension scheme"
-readingTime: "12 min"
+  - Atal Pension Yojana
+  - APY scheme
+  - APY pension amount
+  - APY contribution table
+  - APY online apply
+  - pension scheme India
+  - APY calculator
+  - APY eligibility
+  - APY vs NPS
+  - government pension scheme
+readingTime: 12 min
 officialLinks:
-  - "https://jansuraksha.gov.in"
-  - "https://npscra.nsdl.co.in"
-  - "https://enps.nsdl.com/eNPS/NationalPensionSystem.html"
+  - 'https://jansuraksha.gov.in'
+  - 'https://npscra.nsdl.co.in'
+  - 'https://enps.nsdl.com/eNPS/NationalPensionSystem.html'
 ---
 
 # Atal Pension Yojana (APY) — How to Apply, Benefits & Pension Calculator

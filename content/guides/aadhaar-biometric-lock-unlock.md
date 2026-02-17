@@ -1,8 +1,10 @@
 ---
-title: "Aadhaar Biometric Lock title: "Aadhaar Biometric Lock & Unlock — How to Protect Your Aadhaar from Misuse" Unlock — Protect Your Aadhaar"
-description: "Learn how to lock and unlock Aadhaar biometrics to prevent unauthorized authentication. Step-by-step guide for mAadhaar app and UIDAI portal."
-slug: "aadhaar-biometric-lock-unlock"
-category: "Identity Documents"
+title: Aadhaar Biometric Lock & Unlock
+description: >-
+  Learn how to lock and unlock Aadhaar biometrics to prevent unauthorized
+  authentication. Step-by-step guide for mAadhaar app and UIDAI portal.
+slug: aadhaar-biometric-lock-unlock
+category: Identity Documents
 keywords:
   - aadhaar biometric lock
   - aadhaar biometric unlock
@@ -14,13 +16,13 @@ keywords:
   - aadhaar authentication history
   - aadhaar totp authentication
   - masked aadhaar
-readingTime: "10 min"
-lastUpdated: 2026-02-16
+readingTime: 10 min
+lastUpdated: 2026-02-16T00:00:00.000Z
 officialLinks:
-  - "https://myaadhaar.uidai.gov.in"
-  - "https://resident.uidai.gov.in"
-  - "https://uidai.gov.in"
-  - "https://play.google.com/store/apps/details?id=in.gov.uidai.mAadhaarPlus"
+  - 'https://myaadhaar.uidai.gov.in'
+  - 'https://resident.uidai.gov.in'
+  - 'https://uidai.gov.in'
+  - 'https://play.google.com/store/apps/details?id=in.gov.uidai.mAadhaarPlus'
 ---
 
 # Aadhaar Biometric Lock & Unlock — How to Protect Your Aadhaar from Misuse

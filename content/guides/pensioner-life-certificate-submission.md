@@ -1,25 +1,27 @@
 ---
-title: "Pensioner Life Certificate — Methods title: "Pensioner Life Certificate Submission — All Methods, Deadlines & Common Issues" Deadlines"
-description: "Submit pensioner life certificate via Jeevan Pramaan, face authentication, bank, or India Post. Know deadlines and avoid pension stoppage today."
-category: "Government Schemes"
+title: Pensioner Life Certificate Submission
+description: >-
+  Complete guide to submitting pensioner life certificate via Jeevan Pramaan,
+  face authentication, bank branch, or India Post. Know deadlines and avoid...
+category: Government Schemes
 keywords:
-  - "life certificate submission for pensioners"
-  - "pensioner life certificate"
-  - "Jeevan Pramaan submission"
-  - "life certificate deadline November"
-  - "pension life certificate methods"
-  - "face authentication life certificate"
-  - "life certificate bank branch"
-  - "India Post life certificate"
-  - "digital life certificate pensioner"
-  - "life certificate penalty late submission"
-readingTime: "9 min"
-lastUpdated: "2026-02-16"
+  - life certificate submission for pensioners
+  - pensioner life certificate
+  - Jeevan Pramaan submission
+  - life certificate deadline November
+  - pension life certificate methods
+  - face authentication life certificate
+  - life certificate bank branch
+  - India Post life certificate
+  - digital life certificate pensioner
+  - life certificate penalty late submission
+readingTime: 9 min
+lastUpdated: '2026-02-16'
 officialLinks:
-  - "https://jeevanpramaan.gov.in"
-  - "https://www.india.gov.in"
-  - "https://www.indiapost.gov.in"
-  - "https://csc.gov.in"
+  - 'https://jeevanpramaan.gov.in'
+  - 'https://www.india.gov.in'
+  - 'https://www.indiapost.gov.in'
+  - 'https://csc.gov.in'
 ---
 
 # Pensioner Life Certificate Submission — All Methods, Deadlines & Common Issues

@@ -1,18 +1,28 @@
 ---
-title: "Central Govt Job — SSC, UPSC, Railway title: "How to Apply for Central Government Job — SSC, UPSC, Railway & Banking Exam Guide" Banking Exams"
-description: "Complete guide to central government job exams — UPSC, SSC, RRB, IBPS, NTA. Learn eligibility, exam calendar, application process and preparation tips."
-category: "Jobs & Exams"
-keywords: ["central government job", "SSC exam", "UPSC exam", "railway recruitment", "banking exam", "IBPS exam", "NTA exam", "sarkari naukri"]
-readingTime: "9 min"
-lastUpdated: "2026-02-16"
+title: How to Apply for Central Government Job
+description: >-
+  Complete guide to central government job exams — UPSC, SSC, RRB, IBPS, NTA.
+  Learn eligibility, exam calendar, application process and preparation tips.
+category: Jobs & Exams
+keywords:
+  - central government job
+  - SSC exam
+  - UPSC exam
+  - railway recruitment
+  - banking exam
+  - IBPS exam
+  - NTA exam
+  - sarkari naukri
+readingTime: 9 min
+lastUpdated: '2026-02-16'
 officialLinks:
-  - https://upsc.gov.in
-  - https://ssc.gov.in
-  - https://rrbcdg.gov.in
-  - https://ibps.in
-  - https://nta.ac.in
-  - https://ncs.gov.in
-  - https://employmentnews.gov.in
+  - 'https://upsc.gov.in'
+  - 'https://ssc.gov.in'
+  - 'https://rrbcdg.gov.in'
+  - 'https://ibps.in'
+  - 'https://nta.ac.in'
+  - 'https://ncs.gov.in'
+  - 'https://employmentnews.gov.in'
 ---
 
 ## Overview

@@ -1,8 +1,10 @@
 ---
-title: "Rental Agreement Online — Register, Format title: "How to Apply for Rental Agreement Online — Registration, Format & Stamp Duty" Stamp Duty"
-description: "Learn how to register a rental agreement online in India. Step-by-step process, stamp duty details, essential clauses, format, and FAQ covered."
-slug: "rental-agreement-online-registration"
-category: "Property & Legal"
+title: How to Apply for Rental Agreement Online
+description: >-
+  Learn how to register a rental agreement online in India. Step-by-step
+  process, stamp duty details, essential clauses, format, and FAQ covered.
+slug: rental-agreement-online-registration
+category: Property & Legal
 keywords:
   - rental agreement online
   - rent agreement registration
@@ -14,14 +16,14 @@ keywords:
   - registered rent agreement
   - rental agreement clauses
   - police verification rent agreement
-readingTime: "10 min"
-lastUpdated: 2026-02-16
+readingTime: 10 min
+lastUpdated: 2026-02-16T00:00:00.000Z
 officialLinks:
-  - "https://igrsup.gov.in"
-  - "https://igrmaharashtra.gov.in"
-  - "https://kaveri2.karnataka.gov.in"
-  - "https://tnreginet.gov.in"
-  - "https://shcilestamp.com"
+  - 'https://igrsup.gov.in'
+  - 'https://igrmaharashtra.gov.in'
+  - 'https://kaveri2.karnataka.gov.in'
+  - 'https://tnreginet.gov.in'
+  - 'https://shcilestamp.com'
 ---
 
 # How to Apply for Rental Agreement Online — Registration, Format & Stamp Duty

@@ -1,25 +1,28 @@
 ---
-title: "IRCTC Train Ticket — PNR Status, Book title: "How to Check Train PNR Status, Book Ticket & Cancel — IRCTC Complete Guide" Cancel"
-description: "Check PNR status online, book train tickets on IRCTC, tatkal booking tips, cancel tickets, get refunds, and order food on train — full guide."
-category: "Utilities"
+title: 'How to Check Train PNR Status, Book Ticket & Cancel'
+description: >-
+  Step-by-step guide to check PNR status online, book train tickets on IRCTC,
+  tatkal booking tips, cancel tickets and get refund, order food on train,
+  and...
+category: Utilities
 keywords:
-  - "PNR status check"
-  - "IRCTC ticket booking"
-  - "train ticket cancel refund"
-  - "tatkal ticket booking"
-  - "IRCTC login"
-  - "train PNR status"
-  - "Indian Railways ticket booking"
-  - "IRCTC refund rules"
-  - "check train running status"
-  - "railmadad complaint"
-readingTime: "18 min"
+  - PNR status check
+  - IRCTC ticket booking
+  - train ticket cancel refund
+  - tatkal ticket booking
+  - IRCTC login
+  - train PNR status
+  - Indian Railways ticket booking
+  - IRCTC refund rules
+  - check train running status
+  - railmadad complaint
+readingTime: 18 min
 officialLinks:
-  - "https://www.irctc.co.in"
-  - "https://enquiry.indianrail.gov.in"
-  - "https://railmadad.indianrailways.gov.in"
-  - "https://www.ecatering.irctc.co.in"
-  - "https://www.indianrailways.gov.in"
+  - 'https://www.irctc.co.in'
+  - 'https://enquiry.indianrail.gov.in'
+  - 'https://railmadad.indianrailways.gov.in'
+  - 'https://www.ecatering.irctc.co.in'
+  - 'https://www.indianrailways.gov.in'
 ---
 
 # How to Check Train PNR Status, Book Ticket & Cancel — IRCTC Complete Guide

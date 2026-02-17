@@ -1,15 +1,25 @@
 ---
-title: "Tatkal Passport — Apply, Fees title: "How to Apply for Tatkal Passport — Fees, Documents & Fast-Track Process" Fast-Track Process"
-description: "Complete guide to apply for Tatkal passport in India. Fees, required documents, Annexure F, processing time, and appointment tips."
-category: "Identity Documents"
-keywords: ["tatkal passport", "tatkal passport fees", "tatkal passport documents", "Annexure F passport", "tatkal passport processing time", "urgent passport India", "tatkal passport online apply", "fast track passport India"]
-readingTime: "8 min"
-lastUpdated: 2026-02-16
+title: How to Apply for Tatkal Passport
+description: >-
+  Complete guide to apply for Tatkal passport in India. Fees, required
+  documents, Annexure F, processing time, and appointment tips.
+category: Identity Documents
+keywords:
+  - tatkal passport
+  - tatkal passport fees
+  - tatkal passport documents
+  - Annexure F passport
+  - tatkal passport processing time
+  - urgent passport India
+  - tatkal passport online apply
+  - fast track passport India
+readingTime: 8 min
+lastUpdated: 2026-02-16T00:00:00.000Z
 officialLinks:
-  - https://www.passportindia.gov.in
-  - https://www.mpassport.gov.in
-  - https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink
-  - https://www.meacms.gov.in/boi/list-of-documents-for-tatkal-passport
+  - 'https://www.passportindia.gov.in'
+  - 'https://www.mpassport.gov.in'
+  - 'https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink'
+  - 'https://www.meacms.gov.in/boi/list-of-documents-for-tatkal-passport'
 ---
 
 ## What Is a Tatkal Passport?

@@ -1,27 +1,30 @@
 ---
-title: "How to Apply for Passport for Minor / Child Passport in India"
-description: "Complete guide to applying for a child or minor passport in India — documents, fees, online steps, and special cases for single or divorced parents."
-category: "Identity Documents"
+title: How to Apply for Passport for Minor / Child Passport in India
+description: >-
+  Complete guide to applying for a child or minor passport in India — documents
+  required, fees, online application steps, special cases for single parents
+  and...
+category: Identity Documents
 keywords:
-  - "child passport India"
-  - "minor passport apply"
-  - "passport for baby"
-  - "child passport documents"
-  - "minor passport fees"
-  - "passport for minor India"
-  - "child passport online application"
-  - "minor passport documents required"
-  - "passport for child below 18"
-  - "baby passport India apply"
-  - "single parent child passport"
-  - "child passport renewal India"
-  - "tatkal passport for minor"
-  - "passport for kids India"
-readingTime: "12 min"
+  - child passport India
+  - minor passport apply
+  - passport for baby
+  - child passport documents
+  - minor passport fees
+  - passport for minor India
+  - child passport online application
+  - minor passport documents required
+  - passport for child below 18
+  - baby passport India apply
+  - single parent child passport
+  - child passport renewal India
+  - tatkal passport for minor
+  - passport for kids India
+readingTime: 12 min
 officialLinks:
-  - "https://www.passportindia.gov.in"
-  - "https://www.passportindia.gov.in"
-  - "https://www.meaconsular.gov.in"
+  - 'https://www.passportindia.gov.in'
+  - 'https://www.passportindia.gov.in'
+  - 'https://www.meaconsular.gov.in'
 ---
 
 # How to Apply for Passport for Minor / Child Passport in India

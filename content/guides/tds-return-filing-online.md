@@ -1,26 +1,29 @@
 ---
-title: "How to File TDS Return Online — TDS Rates, Due Dates & Form 26AS"
-description: "Complete TDS guide — rates for salary, FD, rent, how to file TDS return online, check Form 26AS, download Form 16, and claim your TDS refund."
-category: "Tax & Finance"
+title: 'How to File TDS Return Online — TDS Rates, Due Dates & Form 26AS'
+description: >-
+  Complete guide to TDS (Tax Deducted at Source) in India — TDS rates for
+  salary, FD, rent & more, how to file TDS return online, check Form 26AS,
+  download...
+category: Tax & Finance
 keywords:
-  - "TDS return filing"
-  - "TDS rates"
-  - "Form 26AS check"
-  - "TDS refund"
-  - "file TDS return online"
-  - "TDS due dates"
-  - "Form 16 download"
-  - "TRACES TDS"
-  - "TAN registration"
-  - "TDS on salary"
-  - "TDS on FD interest"
-  - "TDS on rent"
-readingTime: "15 min"
+  - TDS return filing
+  - TDS rates
+  - Form 26AS check
+  - TDS refund
+  - file TDS return online
+  - TDS due dates
+  - Form 16 download
+  - TRACES TDS
+  - TAN registration
+  - TDS on salary
+  - TDS on FD interest
+  - TDS on rent
+readingTime: 15 min
 officialLinks:
-  - "https://www.incometax.gov.in"
-  - "https://www.tdscpc.gov.in"
-  - "https://contents.tdscpc.gov.in"
-  - "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/view-tax-credit"
+  - 'https://www.incometax.gov.in'
+  - 'https://www.tdscpc.gov.in'
+  - 'https://contents.tdscpc.gov.in'
+  - 'https://eportal.incometax.gov.in/iec/foservices/#/pre-login/view-tax-credit'
 ---
 
 # How to File TDS Return Online — TDS Rates, Due Dates & Form 26AS

@@ -1,23 +1,26 @@
 ---
-title: "Senior Citizen Savings Scheme (SCSS) — Open Account"
-description: "SCSS guide for senior citizens — eligibility, current 8.2% interest rate, how to open an account, Section 80C tax benefits, and withdrawal rules."
-category: "Government Schemes"
+title: Senior Citizen Savings Scheme (SCSS)
+description: >-
+  Complete guide to SCSS for senior citizens in India. Learn about eligibility,
+  current interest rate (8.2% p.a.), how to open an account, tax benefits
+  under...
+category: Government Schemes
 keywords:
-  - "senior citizen savings scheme"
-  - "SCSS interest rate"
-  - "SCSS scheme details"
-  - "senior citizen investment"
-  - "SCSS account opening"
-  - "SCSS tax benefits"
-  - "SCSS eligibility"
-  - "post office senior citizen scheme"
-  - "SCSS premature withdrawal"
-  - "best savings scheme for senior citizens"
-readingTime: "10 min"
+  - senior citizen savings scheme
+  - SCSS interest rate
+  - SCSS scheme details
+  - senior citizen investment
+  - SCSS account opening
+  - SCSS tax benefits
+  - SCSS eligibility
+  - post office senior citizen scheme
+  - SCSS premature withdrawal
+  - best savings scheme for senior citizens
+readingTime: 10 min
 officialLinks:
-  - "https://www.indiapost.gov.in"
-  - "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89"
-  - "https://dor.gov.in"
+  - 'https://www.indiapost.gov.in'
+  - 'https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89'
+  - 'https://dor.gov.in'
 ---
 
 # Senior Citizen Savings Scheme (SCSS) — Complete Guide

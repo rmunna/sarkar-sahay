@@ -1,24 +1,27 @@
 ---
-title: "How to Change Address in Aadhaar Card Online and Offline"
-description: "Step-by-step guide to update your Aadhaar address online via myAadhaar portal or offline at enrolment centres. Documents, fees, and tracking."
-category: "Identity Documents"
+title: How to Change Address in Aadhaar Card Online and Offline
+description: >-
+  Step-by-step guide to update or change your address in Aadhaar card online via
+  myAadhaar portal and offline at Aadhaar enrolment centres. Complete list of...
+category: Identity Documents
 keywords:
-  - "aadhaar address change"
-  - "change address in aadhaar card"
-  - "aadhaar address update online"
-  - "aadhaar address update"
-  - "update address in aadhaar"
-  - "aadhaar card address correction"
-  - "aadhaar address change online"
-  - "aadhaar address update documents"
-  - "aadhaar address validation letter"
-  - "myaadhaar address update"
-readingTime: "8 min"
+  - aadhaar address change
+  - change address in aadhaar card
+  - aadhaar address update online
+  - aadhaar address update
+  - update address in aadhaar
+  - aadhaar card address correction
+  - aadhaar address change online
+  - aadhaar address update documents
+  - aadhaar address validation letter
+  - myaadhaar address update
+readingTime: 8 min
 officialLinks:
-  - "https://myaadhaar.uidai.gov.in/"
-  - "https://uidai.gov.in/en/my-aadhaar/update-aadhaar.html"
-  - "https://bhuvan-app3.nrsc.gov.in/aadhaar/"
-  - "https://uidai.gov.in/images/commdoc/List_of_Supporting_Document_for_Aadhaar_Enrolment_and_Update.pdf"
+  - 'https://myaadhaar.uidai.gov.in/'
+  - 'https://uidai.gov.in/en/my-aadhaar/update-aadhaar.html'
+  - 'https://bhuvan-app3.nrsc.gov.in/aadhaar/'
+  - >-
+    https://uidai.gov.in/images/commdoc/List_of_Supporting_Document_for_Aadhaar_Enrolment_and_Update.pdf
 ---
 
 # How to Change Address in Aadhaar Card Online and Offline

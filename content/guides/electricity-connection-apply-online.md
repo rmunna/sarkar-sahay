@@ -1,14 +1,21 @@
 ---
-title: "New Electricity Connection — Apply Online"
-description: "Complete guide to apply for new electricity connection. State-wise process, documents, fees, and connection types explained."
-category: "Utilities"
-keywords: ["new electricity connection apply", "electricity connection online", "bijli connection apply", "electricity meter application", "DISCOM new connection"]
-readingTime: "5 min"
+title: How to Apply for New Electricity Connection Online
+description: >-
+  Complete guide to apply for new electricity connection. State-wise process,
+  documents, fees, and connection types explained.
+category: Utilities
+keywords:
+  - new electricity connection apply
+  - electricity connection online
+  - bijli connection apply
+  - electricity meter application
+  - DISCOM new connection
+readingTime: 5 min
 officialLinks:
-  - https://www.bsesdelhi.com
-  - https://www.tatapower-ddl.com
-  - https://www.uppcl.org
-  - https://energy.rajasthan.gov.in
+  - 'https://www.bsesdelhi.com'
+  - 'https://www.tatapower-ddl.com'
+  - 'https://www.uppcl.org'
+  - 'https://energy.rajasthan.gov.in'
 ---
 
 ## What is an Electricity Connection?

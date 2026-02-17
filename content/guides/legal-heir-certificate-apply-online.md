@@ -1,15 +1,26 @@
 ---
-title: "Legal Heir Certificate — Apply Online, Documents"
-description: "Complete guide to apply for legal heir certificate online via e-District portals. Documents required, format, fees, processing time, and FAQs explained."
-category: "Certificates"
-keywords: ["legal heir certificate online", "legal heir certificate apply", "legal heir certificate documents", "legal heir certificate format", "how to get legal heir certificate", "e-district legal heir certificate", "legal heir certificate fees", "legal heir certificate process"]
-readingTime: "9 min"
-lastUpdated: 2026-02-16
+title: How to Apply for Legal Heir Certificate Online
+description: >-
+  Complete guide to apply for legal heir certificate online via e-District
+  portals. Documents required, format, fees, processing time, and FAQs
+  explained.
+category: Certificates
+keywords:
+  - legal heir certificate online
+  - legal heir certificate apply
+  - legal heir certificate documents
+  - legal heir certificate format
+  - how to get legal heir certificate
+  - e-district legal heir certificate
+  - legal heir certificate fees
+  - legal heir certificate process
+readingTime: 9 min
+lastUpdated: 2026-02-16T00:00:00.000Z
 officialLinks:
-  - https://edistrict.up.gov.in
-  - https://edistrict.delhigovt.nic.in
-  - https://edistrict.maharashtra.gov.in
-  - https://www.india.gov.in
+  - 'https://edistrict.up.gov.in'
+  - 'https://edistrict.delhigovt.nic.in'
+  - 'https://edistrict.maharashtra.gov.in'
+  - 'https://www.india.gov.in'
 ---
 
 ## What is a Legal Heir Certificate?

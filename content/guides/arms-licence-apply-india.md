@@ -1,28 +1,31 @@
 ---
-title: "Arms Licence in India — Apply, Documents, Fees title: "How to Apply for Arms Licence in India — Process, Documents, Fees & Renewal" Renewal"
-description: "Complete guide to apply for arms licence in India. Learn about NPB and PB categories, eligibility, documents required, fees, renewal process, and storage rules."
-category: "Property & Legal"
+title: How to Apply for Arms Licence in India
+description: >-
+  Complete guide to apply for arms licence in India. Learn about NPB and PB
+  categories, eligibility, documents required, fees, renewal process, and
+  storage rules.
+category: Property & Legal
 keywords:
-  - "arms licence India"
-  - "arms licence application"
-  - "how to apply for arms licence"
-  - "gun licence India"
-  - "arms licence documents"
-  - "arms licence fees"
-  - "arms licence renewal"
-  - "non prohibited bore licence"
-  - "prohibited bore licence"
-  - "arms licence online apply"
-  - "arms act 1959"
-  - "firearms licence India"
-  - "district magistrate arms licence"
-  - "arms licence eligibility"
-readingTime: "12 min"
-lastUpdated: "2026-02-16"
+  - arms licence India
+  - arms licence application
+  - how to apply for arms licence
+  - gun licence India
+  - arms licence documents
+  - arms licence fees
+  - arms licence renewal
+  - non prohibited bore licence
+  - prohibited bore licence
+  - arms licence online apply
+  - arms act 1959
+  - firearms licence India
+  - district magistrate arms licence
+  - arms licence eligibility
+readingTime: 12 min
+lastUpdated: '2026-02-16'
 officialLinks:
-  - "https://ndal-alis.gov.in/"
-  - "https://www.mha.gov.in"
-  - "https://legislative.gov.in/sites/default/files/A1959-54_1.pdf"
+  - 'https://ndal-alis.gov.in/'
+  - 'https://www.mha.gov.in'
+  - 'https://legislative.gov.in/sites/default/files/A1959-54_1.pdf'
 ---
 
 # How to Apply for Arms Licence in India — Process, Documents, Fees & Renewal

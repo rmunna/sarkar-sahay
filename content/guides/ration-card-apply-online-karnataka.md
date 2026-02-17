@@ -1,22 +1,24 @@
 ---
-title: "How to Apply for Ration Card Online in Karnataka"
-description: "Apply for a ration card online in Karnataka through the AHARA portal. Documents needed, fees, processing time, and how to track your application."
-category: "Food & Ration"
+title: How to Apply for Ration Card Online in Karnataka
+description: >-
+  Step-by-step guide to apply for a ration card online in Karnataka through the
+  AHARA portal. Learn about documents needed, fees, processing time, and how
+  to...
+category: Food & Ration
 keywords:
-  - "Karnataka ration card"
-  - "ration card apply online Karnataka"
-  - "AHARA portal ration card"
-  - "ahara.kar.nic.in"
-  - "BPL ration card Karnataka"
-  - "APL ration card Karnataka"
-  - "food security card Karnataka"
-  - "ration card application Karnataka"
-readingTime: "7 min"
+  - Karnataka ration card
+  - ration card apply online Karnataka
+  - AHARA portal ration card
+  - ahara.kar.nic.in
+  - BPL ration card Karnataka
+  - APL ration card Karnataka
+  - food security card Karnataka
+  - ration card application Karnataka
+readingTime: 7 min
 officialLinks:
-  - https://ahara.kar.nic.in
-  - https://karnataka.gov.in
-  - https://landrecords.karnataka.gov.in
-
+  - 'https://ahara.kar.nic.in'
+  - 'https://karnataka.gov.in'
+  - 'https://landrecords.karnataka.gov.in'
 ---
 
 # How to Apply for Ration Card Online in Karnataka (2026)

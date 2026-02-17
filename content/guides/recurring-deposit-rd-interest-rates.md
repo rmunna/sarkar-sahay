@@ -1,22 +1,26 @@
 ---
-title: "Recurring Deposit (RD) — Open Account title: "Recurring Deposit (RD) — How to Open RD Account Online, Interest Rates & Calculator" Interest Rates"
-description: "Learn about Recurring Deposit interest rates from SBI, HDFC, ICICI & Post Office. Open RD online, use the maturity calculator, and compare RD vs FD vs SIP."
-category: "Tax & Finance"
+title: Recurring Deposit (RD) — Open Account & Rates
+description: >-
+  Learn about Recurring Deposit interest rates from SBI, HDFC, ICICI & Post
+  Office. Open RD online, use the maturity calculator, and compare RD vs FD vs
+  SIP.
+category: Tax & Finance
 keywords:
-  - "recurring deposit"
-  - "RD interest rates"
-  - "RD account online"
-  - "RD calculator"
-  - "post office RD"
-  - "RD vs FD"
-  - "monthly deposit scheme"
-readingTime: "9 min"
-lastUpdated: "2026-02-16"
+  - recurring deposit
+  - RD interest rates
+  - RD account online
+  - RD calculator
+  - post office RD
+  - RD vs FD
+  - monthly deposit scheme
+readingTime: 9 min
+lastUpdated: '2026-02-16'
 officialLinks:
-  - "https://sbi.co.in/web/interest-rates/deposit-rates/retail-domestic-term-deposits"
-  - "https://www.hdfcbank.com/personal/save/deposits/recurring-deposit"
-  - "https://www.icicibank.com/personal-banking/deposits/recurring-deposits"
-  - "https://www.indiapost.gov.in"
+  - >-
+    https://sbi.co.in/web/interest-rates/deposit-rates/retail-domestic-term-deposits
+  - 'https://www.hdfcbank.com/personal/save/deposits/recurring-deposit'
+  - 'https://www.icicibank.com/personal-banking/deposits/recurring-deposits'
+  - 'https://www.indiapost.gov.in'
 ---
 
 # Recurring Deposit (RD) — How to Open RD Account Online, Interest Rates & Calculator

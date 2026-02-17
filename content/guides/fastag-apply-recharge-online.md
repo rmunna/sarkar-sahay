@@ -1,26 +1,29 @@
 ---
-title: "How to Apply for FASTag Online — Toll Tax, Recharge & Balance Check"
-description: "Buy FASTag online or offline, recharge via UPI, Paytm, or PhonePe, check balance, track toll transactions, and solve common FASTag problems."
-category: "Utilities"
+title: 'How to Apply for FASTag Online — Toll Tax, Recharge & Balance Check'
+description: >-
+  Complete guide to buying FASTag online or offline, recharging via
+  UPI/Paytm/PhonePe, checking balance, tracking toll transactions, and solving
+  common FASTag...
+category: Utilities
 keywords:
-  - "FASTag apply online"
-  - "FASTag recharge"
-  - "FASTag balance check"
-  - "buy FASTag online"
-  - "FASTag for car"
-  - "FASTag toll tax"
-  - "FASTag recharge online"
-  - "FASTag documents required"
-  - "My FASTag app"
-  - "FASTag activation"
-  - "FASTag UPI recharge"
-  - "NHAI FASTag"
-  - "FASTag bank account link"
-readingTime: "10 min"
+  - FASTag apply online
+  - FASTag recharge
+  - FASTag balance check
+  - buy FASTag online
+  - FASTag for car
+  - FASTag toll tax
+  - FASTag recharge online
+  - FASTag documents required
+  - My FASTag app
+  - FASTag activation
+  - FASTag UPI recharge
+  - NHAI FASTag
+  - FASTag bank account link
+readingTime: 10 min
 officialLinks:
-  - "https://ihmcl.com"
-  - "https://www.npci.org.in/what-we-do/netc-fastag/product-overview"
-  - "https://www.ihmcl.com"
+  - 'https://ihmcl.com'
+  - 'https://www.npci.org.in/what-we-do/netc-fastag/product-overview'
+  - 'https://www.ihmcl.com'
 ---
 
 # How to Apply for FASTag Online — Toll Tax, Recharge & Balance Check

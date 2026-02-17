@@ -1,13 +1,20 @@
 ---
-title: "PM Matru Vandana Yojana (PMMVY) — ₹5,000 Benefit"
-description: "Complete guide to PMMVY maternity benefit scheme. Eligibility, ₹5,000 in 3 installments, documents, online apply, and status tracking."
-category: "Government Schemes"
-keywords: ["PMMVY apply", "Pradhan Mantri Matru Vandana Yojana", "maternity benefit scheme", "PMMVY eligibility", "PMMVY online registration"]
-readingTime: "7 min"
-lastUpdated: "2026-02-16"
+title: PM Matru Vandana Yojana (PMMVY)
+description: >-
+  Complete guide to PMMVY maternity benefit scheme. Eligibility, ₹5,000 in 3
+  installments, documents, online apply, and status tracking.
+category: Government Schemes
+keywords:
+  - PMMVY apply
+  - Pradhan Mantri Matru Vandana Yojana
+  - maternity benefit scheme
+  - PMMVY eligibility
+  - PMMVY online registration
+readingTime: 7 min
+lastUpdated: '2026-02-16'
 officialLinks:
-  - https://pmmvy.wcd.gov.in
-  - https://wcd.nic.in/schemes/pradhan-mantri-matru-vandana-yojana
+  - 'https://pmmvy.wcd.gov.in'
+  - 'https://wcd.nic.in/schemes/pradhan-mantri-matru-vandana-yojana'
 ---
 
 ## What is PM Matru Vandana Yojana (PMMVY)?

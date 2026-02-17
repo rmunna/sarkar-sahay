@@ -1,25 +1,28 @@
 ---
-title: "PM Awas Yojana — Gramin title: "PM Awas Yojana — Gramin & Urban Guide with Subsidy, Eligibility & Status Check" Urban Subsidy Guide"
-description: "Complete guide to PMAY Gramin and Urban — eligibility criteria, subsidy calculation, beneficiary list check, application process, and rejection reasons."
-category: "Government Schemes"
+title: PM Awas Yojana — Gramin & Urban Subsidy Guide
+description: >-
+  Complete guide to PMAY Gramin and Urban — eligibility criteria, subsidy
+  calculation, beneficiary list check, application process, and rejection
+  reasons.
+category: Government Schemes
 keywords:
-  - "PMAY Gramin"
-  - "PMAY Urban"
-  - "PM Awas Yojana eligibility"
-  - "PMAY subsidy calculation"
-  - "PMAY beneficiary list"
-  - "PMAY status check"
-  - "Pradhan Mantri Awas Yojana rural urban"
-  - "PMAY application online"
-  - "PMAY rejection reasons"
-  - "Housing for All scheme India"
-readingTime: "10 min"
-lastUpdated: 2026-02-16
+  - PMAY Gramin
+  - PMAY Urban
+  - PM Awas Yojana eligibility
+  - PMAY subsidy calculation
+  - PMAY beneficiary list
+  - PMAY status check
+  - Pradhan Mantri Awas Yojana rural urban
+  - PMAY application online
+  - PMAY rejection reasons
+  - Housing for All scheme India
+readingTime: 10 min
+lastUpdated: 2026-02-16T00:00:00.000Z
 officialLinks:
-  - https://pmaymis.gov.in
-  - https://pmayg.nic.in
-  - https://pmayuclap.gov.in
-  - https://rhreporting.nic.in
+  - 'https://pmaymis.gov.in'
+  - 'https://pmayg.nic.in'
+  - 'https://pmayuclap.gov.in'
+  - 'https://rhreporting.nic.in'
 ---
 
 # PM Awas Yojana — Complete Guide to Gramin & Urban Components

@@ -1,28 +1,30 @@
 ---
-title: "Minor Passport — Apply, Documents title: "How to Apply for Passport for Minor Child — Documents, Process & Parental Consent" Parental Consent"
-description: "Complete guide to minor passport in India — age categories, parental consent annexures, documents for every scenario, fees, and Baal Passport."
-category: "Identity Documents"
+title: How to Apply for Passport for Minor Child
+description: >-
+  Complete guide to minor passport in India — age categories, parental consent
+  annexures, documents for every scenario, fees, and Baal Passport.
+category: Identity Documents
 keywords:
-  - "minor passport India"
-  - "child passport documents"
-  - "passport parental consent"
-  - "Annexure C passport"
-  - "Annexure D passport"
-  - "Annexure H passport minor"
-  - "Baal Passport scheme"
-  - "passport for child below 5"
-  - "single parent passport child"
-  - "minor passport police verification"
-  - "passport fees minor India"
-  - "divorced parent child passport"
-  - "passport validity minor"
-lastUpdated: "2026-02-16"
-readingTime: "14 min"
+  - minor passport India
+  - child passport documents
+  - passport parental consent
+  - Annexure C passport
+  - Annexure D passport
+  - Annexure H passport minor
+  - Baal Passport scheme
+  - passport for child below 5
+  - single parent passport child
+  - minor passport police verification
+  - passport fees minor India
+  - divorced parent child passport
+  - passport validity minor
+lastUpdated: '2026-02-16'
+readingTime: 14 min
 officialLinks:
-  - "https://www.passportindia.gov.in"
-  - "https://www.passportindia.gov.in"
-  - "https://www.meaconsular.gov.in"
-  - "https://consular.mea.gov.in/passport/annexures"
+  - 'https://www.passportindia.gov.in'
+  - 'https://www.passportindia.gov.in'
+  - 'https://www.meaconsular.gov.in'
+  - 'https://consular.mea.gov.in/passport/annexures'
 ---
 
 # How to Apply for Passport for Minor Child — Documents, Process & Parental Consent

@@ -1,6 +1,8 @@
 ---
-title: "One Nation One Ration Card (ONORC) — Use Anywhere"
-description: "Learn how the One Nation One Ration Card scheme lets you buy ration from any Fair Price Shop in India. Step-by-step ePoS process and eligibility."
+title: One Nation One Ration Card (ONORC)
+description: >-
+  Learn how the One Nation One Ration Card scheme lets you buy ration from any
+  Fair Price Shop in India. Step-by-step ePoS process and eligibility.
 keywords:
   - one nation one ration card
   - ONORC scheme
@@ -12,29 +14,53 @@ keywords:
   - fair price shop portability
   - NFSA ration card
   - ration card anywhere in India
-category: "Food & Ration"
-readingTime: "8 min"
-lastUpdated: 2026-02-16
+category: Food & Ration
+readingTime: 8 min
+lastUpdated: 2026-02-16T00:00:00.000Z
 officialLinks:
-  - "https://nfsa.gov.in"
-  - "https://impds.nic.in"
-  - "https://annavitran.nic.in"
-  - "https://mera.pmjay.gov.in"
+  - 'https://nfsa.gov.in'
+  - 'https://impds.nic.in'
+  - 'https://annavitran.nic.in'
+  - 'https://mera.pmjay.gov.in'
 faq:
-  - question: "What is One Nation One Ration Card (ONORC)?"
-    answer: "ONORC is a central government scheme that allows any NFSA beneficiary to purchase their entitled subsidised foodgrains from any electronic Point of Sale (ePoS)-enabled Fair Price Shop in the country, regardless of which state issued their ration card."
-  - question: "Do I need to apply separately for ONORC?"
-    answer: "No. If you already hold a valid ration card under the National Food Security Act (NFSA) and your Aadhaar is seeded to it, you are automatically eligible. No separate application is needed."
-  - question: "How does biometric authentication work at the Fair Price Shop?"
-    answer: "When you visit an ePoS-enabled FPS, the dealer enters your ration card or Aadhaar number. You authenticate by placing your finger on the biometric device. Once verified, your entitlement is displayed and foodgrains are dispensed."
-  - question: "What if my fingerprint does not match at the ePoS machine?"
-    answer: "You can try iris-based authentication if the device supports it. If biometric failure persists, contact your local Food and Civil Supplies office or call the national helpline 14445 for assistance."
-  - question: "Can I buy my full month's ration in a different state?"
-    answer: "Yes. You can collect your entire monthly quota or a partial quantity from any ePoS-enabled FPS in any state. The remaining quota can be collected from another FPS, including your home state."
-  - question: "How do I check my ration entitlement online?"
-    answer: "Visit the IMPDS portal at impds.nic.in or use the Mera Ration mobile app. Enter your ration card number to view your entitlement, transaction history, and remaining balance for the month."
-  - question: "Is Aadhaar mandatory for ONORC?"
-    answer: "Yes, Aadhaar seeding with the ration card is essential for ONORC portability. The biometric or OTP authentication at ePoS machines relies on Aadhaar. If your Aadhaar is not linked, visit your local Food & Civil Supplies office to complete the seeding."
+  - question: What is One Nation One Ration Card (ONORC)?
+    answer: >-
+      ONORC is a central government scheme that allows any NFSA beneficiary to
+      purchase their entitled subsidised foodgrains from any electronic Point of
+      Sale (ePoS)-enabled Fair Price Shop in the country, regardless of which
+      state issued their ration card.
+  - question: Do I need to apply separately for ONORC?
+    answer: >-
+      No. If you already hold a valid ration card under the National Food
+      Security Act (NFSA) and your Aadhaar is seeded to it, you are
+      automatically eligible. No separate application is needed.
+  - question: How does biometric authentication work at the Fair Price Shop?
+    answer: >-
+      When you visit an ePoS-enabled FPS, the dealer enters your ration card or
+      Aadhaar number. You authenticate by placing your finger on the biometric
+      device. Once verified, your entitlement is displayed and foodgrains are
+      dispensed.
+  - question: What if my fingerprint does not match at the ePoS machine?
+    answer: >-
+      You can try iris-based authentication if the device supports it. If
+      biometric failure persists, contact your local Food and Civil Supplies
+      office or call the national helpline 14445 for assistance.
+  - question: Can I buy my full month's ration in a different state?
+    answer: >-
+      Yes. You can collect your entire monthly quota or a partial quantity from
+      any ePoS-enabled FPS in any state. The remaining quota can be collected
+      from another FPS, including your home state.
+  - question: How do I check my ration entitlement online?
+    answer: >-
+      Visit the IMPDS portal at impds.nic.in or use the Mera Ration mobile app.
+      Enter your ration card number to view your entitlement, transaction
+      history, and remaining balance for the month.
+  - question: Is Aadhaar mandatory for ONORC?
+    answer: >-
+      Yes, Aadhaar seeding with the ration card is essential for ONORC
+      portability. The biometric or OTP authentication at ePoS machines relies
+      on Aadhaar. If your Aadhaar is not linked, visit your local Food & Civil
+      Supplies office to complete the seeding.
 ---
 
 # One Nation One Ration Card (ONORC) — How to Use Ration Card Anywhere in India

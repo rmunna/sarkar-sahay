@@ -1,27 +1,30 @@
 ---
-title: "Trade Licence Online — Apply via Municipal Corporation"
-description: "Complete guide to applying for a trade licence online in India. Learn the municipal corporation process, documents required, fees, renewal steps, and penalties."
-category: "Property & Legal"
+title: How to Get Trade Licence Online in India
+description: >-
+  Complete guide to applying for a trade licence online in India. Learn the
+  municipal corporation process, documents required, fees, renewal steps, and
+  penalties.
+category: Property & Legal
 keywords:
-  - "trade licence online"
-  - "trade licence apply online"
-  - "municipal corporation trade licence"
-  - "trade licence documents required"
-  - "trade licence fees India"
-  - "trade licence renewal"
-  - "MCD trade licence Delhi"
-  - "BMC trade licence Mumbai"
-  - "BBMP trade licence Bangalore"
-  - "shop and establishment licence"
-  - "trade licence penalty"
-  - "trade licence for business"
-readingTime: "10 min"
-lastUpdated: "2026-02-16"
+  - trade licence online
+  - trade licence apply online
+  - municipal corporation trade licence
+  - trade licence documents required
+  - trade licence fees India
+  - trade licence renewal
+  - MCD trade licence Delhi
+  - BMC trade licence Mumbai
+  - BBMP trade licence Bangalore
+  - shop and establishment licence
+  - trade licence penalty
+  - trade licence for business
+readingTime: 10 min
+lastUpdated: '2026-02-16'
 officialLinks:
-  - "https://www.mcgm.gov.in"
-  - "https://bbmponline.karnataka.gov.in"
-  - "https://kolkatamc.gov.in"
-  - "https://chdmunicipal.gov.in"
+  - 'https://www.mcgm.gov.in'
+  - 'https://bbmponline.karnataka.gov.in'
+  - 'https://kolkatamc.gov.in'
+  - 'https://chdmunicipal.gov.in'
 ---
 
 # How to Get Trade Licence Online in India — Municipal Corporation Process

@@ -1,21 +1,24 @@
 ---
-title: "PM Kisan Maandhan Yojana — Pension Scheme for Farmers (₹3000/Month)"
-description: "PM Kisan Maandhan Yojana guide — eligibility, contribution chart, documents needed, and how farmers get ₹3,000/month pension after turning 60."
-category: "Government Schemes"
+title: PM Kisan Maandhan Yojana — Pension Scheme for Farmers (₹3000/Month)
+description: >-
+  Complete guide to PM Kisan Maandhan Yojana — how to apply, eligibility,
+  contribution chart, documents needed, and how farmers get ₹3000/month pension
+  after...
+category: Government Schemes
 keywords:
-  - "PM Kisan Maandhan"
-  - "PM Kisan Maandhan Yojana"
-  - "farmer pension scheme"
-  - "PM Kisan pension"
-  - "Kisan Maandhan apply"
-  - "farmer pension ₹3000"
-  - "PMKMY scheme"
-  - "pension for small farmers"
-readingTime: "10 min"
+  - PM Kisan Maandhan
+  - PM Kisan Maandhan Yojana
+  - farmer pension scheme
+  - PM Kisan pension
+  - Kisan Maandhan apply
+  - farmer pension ₹3000
+  - PMKMY scheme
+  - pension for small farmers
+readingTime: 10 min
 officialLinks:
-  - "https://pmkmy.gov.in"
-  - "https://maandhan.in"
-  - "https://csc.gov.in"
+  - 'https://pmkmy.gov.in'
+  - 'https://maandhan.in'
+  - 'https://csc.gov.in'
 ---
 
 # PM Kisan Maandhan Yojana — Pension Scheme for Farmers

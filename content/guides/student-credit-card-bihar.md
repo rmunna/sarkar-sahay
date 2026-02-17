@@ -1,12 +1,23 @@
 ---
-title: "Bihar Student Credit Card — ₹4 Lakh Loan at 0%"
-description: "Apply for Bihar Student Credit Card (BSCC) scheme. Get up to ₹4 lakh education loan at 0% interest for higher studies after 12th."
-category: "State Schemes"
-keywords: ["bihar student credit card", "BSCC scheme", "bihar education loan", "बिहार स्टूडेंट क्रेडिट कार्ड", "bihar student credit card apply online", "bihar 4 lakh loan", "student credit card bihar 2026", "7 nishchay yojana", "bihar higher education loan"]
-readingTime: "8 min"
+title: Bihar Student Credit Card Scheme
+description: >-
+  Apply for Bihar Student Credit Card (BSCC) scheme. Get up to ₹4 lakh education
+  loan at 0% interest for higher studies after 12th.
+category: State Schemes
+keywords:
+  - bihar student credit card
+  - BSCC scheme
+  - bihar education loan
+  - बिहार स्टूडेंट क्रेडिट कार्ड
+  - bihar student credit card apply online
+  - bihar 4 lakh loan
+  - student credit card bihar 2026
+  - 7 nishchay yojana
+  - bihar higher education loan
+readingTime: 8 min
 officialLinks:
-  - https://www.7nishchay-yuvaupmission.bihar.gov.in
-  - https://www.bsefcl.bihar.gov.in
+  - 'https://www.7nishchay-yuvaupmission.bihar.gov.in'
+  - 'https://www.bsefcl.bihar.gov.in'
 ---
 
 ## What is Bihar Student Credit Card Scheme?

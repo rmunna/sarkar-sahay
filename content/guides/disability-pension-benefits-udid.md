@@ -1,17 +1,29 @@
 ---
-title: "Disability Pension, Tax Benefits & Schemes Available with UDID Card"
-description: "UDID card benefits — disability pension, Section 80U/80DD tax deductions, railway concessions, ADIP scheme, scholarships, and job reservation."
-category: "Government Schemes"
-keywords: ["disability pension India", "UDID card benefits", "Section 80U deduction", "Section 80DD deduction", "ADIP scheme assistive devices", "disability scholarship India", "railway concession disabled", "disability reservation employment", "disability pension scheme"]
-readingTime: "9 min"
-lastUpdated: "2026-02-16"
+title: 'Disability Pension, Tax Benefits & Schemes Available with UDID Card'
+description: >-
+  Complete guide to benefits with UDID card — disability pension, Section
+  80U/80DD tax deductions, railway concessions, ADIP scheme, scholarships, and
+  job...
+category: Government Schemes
+keywords:
+  - disability pension India
+  - UDID card benefits
+  - Section 80U deduction
+  - Section 80DD deduction
+  - ADIP scheme assistive devices
+  - disability scholarship India
+  - railway concession disabled
+  - disability reservation employment
+  - disability pension scheme
+readingTime: 9 min
+lastUpdated: '2026-02-16'
 officialLinks:
-  - https://www.swavlambancard.gov.in
-  - https://disabilityaffairs.gov.in
-  - https://www.adip.gov.in
-  - https://scholarships.gov.in
-  - https://www.indianrailways.gov.in
-  - https://www.incometax.gov.in
+  - 'https://www.swavlambancard.gov.in'
+  - 'https://disabilityaffairs.gov.in'
+  - 'https://www.adip.gov.in'
+  - 'https://scholarships.gov.in'
+  - 'https://www.indianrailways.gov.in'
+  - 'https://www.incometax.gov.in'
 ---
 
 ## Why the UDID Card Matters

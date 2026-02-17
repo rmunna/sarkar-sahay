@@ -1,22 +1,25 @@
 ---
-title: "Encumbrance Certificate (EC) Online — Apply title: "How to Apply for Encumbrance Certificate (EC) Online — Property Verification" Verify"
-description: "Apply for Encumbrance Certificate (EC) online in India. Learn what EC is, check property encumbrance, state-wise portals, documents, and fees."
-category: "Property & Legal"
+title: How to Apply for Encumbrance Certificate (EC) Online
+description: >-
+  Step-by-step guide to apply for Encumbrance Certificate online in India. Learn
+  what EC is, how to check property encumbrance, state-wise portals,
+  documents...
+category: Property & Legal
 keywords:
-  - "encumbrance certificate online"
-  - "EC certificate"
-  - "property EC check"
-  - "encumbrance certificate apply"
-  - "nil encumbrance certificate"
-  - "Form 15 Form 16 encumbrance"
-  - "property verification India"
-  - "EC certificate online download"
-readingTime: "12 min"
+  - encumbrance certificate online
+  - EC certificate
+  - property EC check
+  - encumbrance certificate apply
+  - nil encumbrance certificate
+  - Form 15 Form 16 encumbrance
+  - property verification India
+  - EC certificate online download
+readingTime: 12 min
 officialLinks:
-  - "https://kaveri.karnataka.gov.in"
-  - "https://tnreginet.gov.in"
-  - "https://registration.telangana.gov.in"
-  - "https://igrmaharashtra.gov.in"
+  - 'https://kaveri.karnataka.gov.in'
+  - 'https://tnreginet.gov.in'
+  - 'https://registration.telangana.gov.in'
+  - 'https://igrmaharashtra.gov.in'
 ---
 
 # How to Apply for Encumbrance Certificate (EC) Online — Property Verification
