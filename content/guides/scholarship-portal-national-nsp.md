@@ -1,5 +1,5 @@
 ---
-title: "National Scholarship Portal (NSP) — Registration, Application & Renewal Guide 2025"
+title: "National Scholarship Portal (NSP) — Registration, Application & Renewal Guide"
 description: "Complete guide to NSP registration, scholarship application, renewal, and tracking. Learn eligibility, documents needed, and step-by-step process."
 category: "Government Schemes"
 keywords: ["national scholarship portal", "NSP registration", "NSP login", "scholarship application India", "NSP renewal", "central scholarship schemes", "post matric scholarship", "pre matric scholarship"]
