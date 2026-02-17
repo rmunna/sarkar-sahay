@@ -22,13 +22,24 @@ export default function Home() {
   const guides = [...allGuides]
     .sort((a, b) => a.title.localeCompare(b.title))
     .slice(0, 12);
-  // Search index (only what's needed)
-  const searchGuides = allGuides.map((g) => ({
-    slug: g.slug,
-    title: g.title,
-    description: g.description,
-    category: g.category,
-  }));
+  const allUpdates = getActiveUpdates();
+  // Search index (only what's needed) — include both guides and updates
+  const searchGuides = [
+    ...allGuides.map((g) => ({
+      slug: g.slug,
+      title: g.title,
+      description: g.description,
+      category: g.category,
+      type: "guide" as const,
+    })),
+    ...allUpdates.map((u) => ({
+      slug: u.slug,
+      title: u.title,
+      description: u.description,
+      category: u.organization + " — " + u.category,
+      type: "update" as const,
+    })),
+  ];
 
   return (
     <div>

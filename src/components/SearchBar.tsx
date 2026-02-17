@@ -8,6 +8,7 @@ interface SearchGuide {
   title: string;
   description: string;
   category: string;
+  type?: "guide" | "update";
 }
 
 interface SearchBarProps {
@@ -95,7 +96,8 @@ export default function SearchBar({ guides }: SearchBarProps) {
     } else if (e.key === "Enter" && selectedIndex >= 0 && results[selectedIndex]) {
       setIsOpen(false);
       setQuery("");
-      window.location.href = `/guide/${results[selectedIndex].slug}`;
+      const r = results[selectedIndex];
+      window.location.href = r.type === "update" ? `/update/${r.slug}` : `/guide/${r.slug}`;
     }
   }
 
@@ -142,7 +144,7 @@ export default function SearchBar({ guides }: SearchBarProps) {
               {results.map((guide, i) => (
                 <li key={guide.slug}>
                   <Link
-                    href={`/guide/${guide.slug}`}
+                    href={guide.type === "update" ? `/update/${guide.slug}` : `/guide/${guide.slug}`}
                     onClick={() => {
                       setIsOpen(false);
                       setQuery("");
@@ -151,7 +153,10 @@ export default function SearchBar({ guides }: SearchBarProps) {
                       i === selectedIndex ? "bg-orange-50" : ""
                     }`}
                   >
-                    <div className="font-medium text-sm text-gray-900">{guide.title}</div>
+                    <div className="flex items-center gap-2">
+                      {guide.type === "update" && <span className="text-xs px-1.5 py-0.5 bg-red-100 text-red-700 rounded font-semibold">NEW</span>}
+                      <span className="font-medium text-sm text-gray-900">{guide.title}</span>
+                    </div>
                     <div className="text-xs text-gray-400 mt-0.5">{guide.category}</div>
                   </Link>
                 </li>
