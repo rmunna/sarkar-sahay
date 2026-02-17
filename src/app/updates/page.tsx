@@ -100,7 +100,7 @@ export default function UpdatesPage() {
                 <p className="text-sm text-gray-500 line-clamp-2 mb-2">{update.description}</p>
                 <div className="flex flex-wrap gap-3 text-xs text-gray-400">
                   {update.publishedDate && <span>Published: {formatDate(update.publishedDate)}</span>}
-                  {lastDate && <span>Last date: {formatDate(lastDate)}</span>}
+                  {lastDate && lastDate !== "TBA" && <span>Last date: {formatDate(lastDate)}</span>}
                 </div>
               </Link>
             );

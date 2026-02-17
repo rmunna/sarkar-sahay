@@ -180,7 +180,7 @@ export default async function UpdatePage({ params }: Props) {
 
   // Important dates for display
   const dates = Object.entries(update.importantDates || {}).filter(
-    ([, val]) => val && val !== ""
+    ([, val]) => val && val !== "" && val !== "TBA" && val !== "null"
   );
 
   return (
