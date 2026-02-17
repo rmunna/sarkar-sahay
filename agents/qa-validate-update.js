@@ -183,8 +183,14 @@ function run() {
     }
     files = [path.resolve(file)];
   } else {
-    console.log("Usage: node qa-validate-update.js --all | --file <path>");
-    process.exit(1);
+    // Accept bare file paths (no flags) for convenience
+    const mdFiles = args.filter((a) => a.endsWith(".md"));
+    if (mdFiles.length > 0) {
+      files = mdFiles.map((f) => path.resolve(f));
+    } else {
+      console.log("Usage: node qa-validate-update.js --all | --file <path> | <path1.md> [path2.md ...]");
+      process.exit(1);
+    }
   }
 
   if (files.length === 0) {
