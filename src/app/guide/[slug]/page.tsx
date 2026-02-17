@@ -1,5 +1,5 @@
 import { getGuideBySlug, getAllGuideSlugs, getGuideRawContent, getRelatedGuides } from "@/lib/guides";
-import { generateFAQSchema, generateArticleSchema, extractFAQs } from "@/lib/faq-schema";
+import { generateFAQSchema, generateArticleSchema, generateHowToSchema, extractFAQs } from "@/lib/faq-schema";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const guide = await getGuideBySlug(slug);
   if (!guide) return {};
-  const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://citizennest.com";
+  const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.citizennest.com";
   return {
     title: guide.title,
     description: guide.description,
@@ -88,13 +88,14 @@ export default async function GuidePage({ params }: Props) {
   const rawContent = getGuideRawContent(slug);
   const faqs = rawContent ? extractFAQs(rawContent) : [];
   const faqSchema = generateFAQSchema(faqs);
+  const howToSchema = rawContent ? generateHowToSchema({ title: guide.title, description: guide.description, slug: guide.slug, rawContent }) : null;
   const articleSchema = generateArticleSchema(guide);
   const headings = extractHeadings(guide.contentHtml);
   const contentWithIds = addHeadingIds(guide.contentHtml);
   const catStyle = getCategoryStyle(guide.category);
   const relatedGuides = getRelatedGuides(slug, 5);
 
-  const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://citizennest.com";
+  const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.citizennest.com";
   const breadcrumbSchema = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -130,6 +131,12 @@ export default async function GuidePage({ params }: Props) {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
+      {howToSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }}
         />
       )}
       <script
