@@ -10,7 +10,7 @@ const inter = Inter({
   variable: "--font-inter",
 });
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://citizennest.com";
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.citizennest.com";
 
 export const metadata: Metadata = {
   title: {
@@ -164,6 +164,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                     <Link href="/guide/pan-card-apply-online" className="hover:text-orange-600 transition">PAN Card</Link>
                     <Link href="/guide/passport-apply-online" className="hover:text-orange-600 transition">Passport</Link>
                     <Link href="https://t.me/citizennest" className="hover:text-orange-600 transition" target="_blank" rel="noopener noreferrer">📢 Telegram</Link>
+                    <Link href="https://whatsapp.com/channel/0029Vb7Ln7DC6ZvnozBVGU0e" className="hover:text-orange-600 transition" target="_blank" rel="noopener noreferrer">💬 WhatsApp</Link>
                   </div>
                 </div>
               </div>

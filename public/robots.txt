@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
 Disallow: /_next/
+Disallow: /api/
 
-Sitemap: https://citizennest.com/sitemap.xml
+Sitemap: https://www.citizennest.com/sitemap.xml
+Sitemap: https://www.citizennest.com/stories-sitemap.xml
