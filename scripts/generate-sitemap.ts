@@ -7,10 +7,22 @@ import * as fs from "fs";
 import * as path from "path";
 import matter from "gray-matter";
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://citizennest.com";
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.citizennest.com";
 const GUIDES_DIR = path.join(__dirname, "..", "content", "guides");
 const UPDATES_DIR = path.join(__dirname, "..", "content", "updates");
 const OUT_DIR = path.join(__dirname, "..", ".next", "static");
+
+function toDateString(val: unknown): string {
+  if (!val) return new Date().toISOString().split("T")[0];
+  if (val instanceof Date) return val.toISOString().split("T")[0];
+  const s = String(val);
+  // Already YYYY-MM-DD
+  if (/^\d{4}-\d{2}-\d{2}$/.test(s)) return s;
+  // Try to parse and format
+  const d = new Date(s);
+  if (!isNaN(d.getTime())) return d.toISOString().split("T")[0];
+  return new Date().toISOString().split("T")[0];
+}
 
 function getGuides() {
   if (!fs.existsSync(GUIDES_DIR)) return [];
@@ -22,7 +34,7 @@ function getGuides() {
       const { data } = matter(content);
       return {
         slug: f.replace(/\.md$/, ""),
-        lastUpdated: data.lastUpdated || new Date().toISOString().split("T")[0],
+        lastUpdated: toDateString(data.lastUpdated),
       };
     });
 }
@@ -37,7 +49,7 @@ function getUpdates() {
       const { data } = matter(content);
       return {
         slug: f.replace(/\.md$/, ""),
-        publishedDate: data.publishedDate || new Date().toISOString().split("T")[0],
+        publishedDate: toDateString(data.publishedDate),
         status: data.status || "active",
       };
     });
