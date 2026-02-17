@@ -1,0 +1,125 @@
+{
+  "_comment": "Organizations to monitor for new announcements. tier = scan frequency.",
+  "sources": [
+    {
+      "id": "ssc",
+      "name": "SSC",
+      "fullName": "Staff Selection Commission",
+      "url": "https://ssc.gov.in",
+      "tier": 1,
+      "searchQueries": ["SSC notification 2026", "SSC CGL 2026", "SSC CHSL 2026", "SSC MTS 2026", "SSC GD 2026"],
+      "exams": ["CGL", "CHSL", "MTS", "GD Constable", "CPO", "JE", "Stenographer", "JHT"],
+      "lastScanned": null
+    },
+    {
+      "id": "upsc",
+      "name": "UPSC",
+      "fullName": "Union Public Service Commission",
+      "url": "https://upsc.gov.in",
+      "tier": 1,
+      "searchQueries": ["UPSC notification 2026", "UPSC Civil Services 2026", "UPSC NDA 2026", "UPSC CDS 2026"],
+      "exams": ["Civil Services", "NDA", "CDS", "CAPF", "IES/ISS", "CMS", "IFS"],
+      "lastScanned": null
+    },
+    {
+      "id": "rrb",
+      "name": "RRB",
+      "fullName": "Railway Recruitment Board",
+      "url": "https://www.rrbcdg.gov.in",
+      "tier": 1,
+      "searchQueries": ["RRB recruitment 2026", "Railway NTPC 2026", "RRB Group D 2026", "RRB ALP 2026"],
+      "exams": ["NTPC", "Group D", "ALP", "JE", "Paramedical", "Ministerial"],
+      "lastScanned": null
+    },
+    {
+      "id": "ibps",
+      "name": "IBPS",
+      "fullName": "Institute of Banking Personnel Selection",
+      "url": "https://www.ibps.in",
+      "tier": 1,
+      "searchQueries": ["IBPS PO 2026", "IBPS Clerk 2026", "IBPS SO 2026", "IBPS RRB 2026"],
+      "exams": ["PO", "Clerk", "SO", "RRB Officer", "RRB Office Assistant"],
+      "lastScanned": null
+    },
+    {
+      "id": "sbi",
+      "name": "SBI",
+      "fullName": "State Bank of India",
+      "url": "https://www.sbi.co.in/web/careers",
+      "tier": 1,
+      "searchQueries": ["SBI PO 2026", "SBI Clerk 2026", "SBI SO 2026"],
+      "exams": ["PO", "Clerk", "SO"],
+      "lastScanned": null
+    },
+    {
+      "id": "nta",
+      "name": "NTA",
+      "fullName": "National Testing Agency",
+      "url": "https://nta.ac.in",
+      "tier": 1,
+      "searchQueries": ["JEE Main 2026", "NEET 2026", "CUET 2026", "UGC NET 2026"],
+      "exams": ["JEE Main", "NEET UG", "CUET UG", "CUET PG", "UGC NET", "CSIR NET"],
+      "lastScanned": null
+    },
+    {
+      "id": "gate",
+      "name": "GATE/IIT",
+      "fullName": "Graduate Aptitude Test in Engineering",
+      "url": "https://gate2026.iisc.ac.in",
+      "tier": 2,
+      "searchQueries": ["GATE 2026 notification", "GATE 2026 result"],
+      "exams": ["GATE"],
+      "lastScanned": null
+    },
+    {
+      "id": "uppsc",
+      "name": "UPPSC",
+      "fullName": "Uttar Pradesh Public Service Commission",
+      "url": "https://uppsc.up.nic.in",
+      "tier": 2,
+      "searchQueries": ["UPPSC PCS 2026", "UPPSC recruitment 2026"],
+      "exams": ["PCS", "RO/ARO", "ACF/RFO"],
+      "lastScanned": null
+    },
+    {
+      "id": "bpsc",
+      "name": "BPSC",
+      "fullName": "Bihar Public Service Commission",
+      "url": "https://www.bpsc.bih.nic.in",
+      "tier": 2,
+      "searchQueries": ["BPSC 2026", "BPSC teacher 2026"],
+      "exams": ["CCE", "Teacher"],
+      "lastScanned": null
+    },
+    {
+      "id": "army",
+      "name": "Indian Army",
+      "fullName": "Indian Army",
+      "url": "https://joinindianarmy.nic.in",
+      "tier": 2,
+      "searchQueries": ["Indian Army recruitment 2026", "Army Agniveer 2026", "Army rally 2026"],
+      "exams": ["Agniveer", "TGC", "SSC Tech", "NCC Special Entry"],
+      "lastScanned": null
+    },
+    {
+      "id": "ctet",
+      "name": "CBSE/CTET",
+      "fullName": "Central Teacher Eligibility Test",
+      "url": "https://ctet.nic.in",
+      "tier": 2,
+      "searchQueries": ["CTET 2026 notification", "CTET 2026 result"],
+      "exams": ["CTET"],
+      "lastScanned": null
+    },
+    {
+      "id": "rbi",
+      "name": "RBI",
+      "fullName": "Reserve Bank of India",
+      "url": "https://opportunities.rbi.org.in",
+      "tier": 2,
+      "searchQueries": ["RBI Grade B 2026", "RBI Assistant 2026"],
+      "exams": ["Grade B", "Assistant"],
+      "lastScanned": null
+    }
+  ]
+}
