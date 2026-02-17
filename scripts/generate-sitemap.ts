@@ -7,6 +7,14 @@ import * as fs from "fs";
 import * as path from "path";
 import matter from "gray-matter";
 
+// State slugs for state pages
+const STATE_SLUGS = [
+  "karnataka", "tamil-nadu", "kerala", "telangana", "maharashtra",
+  "rajasthan", "bihar", "west-bengal", "assam", "gujarat",
+  "madhya-pradesh", "uttar-pradesh", "haryana", "punjab",
+  "jharkhand", "chhattisgarh", "odisha",
+];
+
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.citizennest.com";
 const GUIDES_DIR = path.join(__dirname, "..", "content", "guides");
 const UPDATES_DIR = path.join(__dirname, "..", "content", "updates");
@@ -65,6 +73,13 @@ function generateSitemap(): string {
     { loc: `${BASE_URL}/categories`, lastmod: today, changefreq: "weekly", priority: "0.7" },
     { loc: `${BASE_URL}/updates`, lastmod: today, changefreq: "daily", priority: "0.9" },
     { loc: `${BASE_URL}/about`, lastmod: today, changefreq: "monthly", priority: "0.3" },
+    { loc: `${BASE_URL}/states`, lastmod: today, changefreq: "weekly", priority: "0.7" },
+    ...STATE_SLUGS.map((s) => ({
+      loc: `${BASE_URL}/state/${s}`,
+      lastmod: today,
+      changefreq: "weekly" as const,
+      priority: "0.6",
+    })),
     ...guides.map((g) => ({
       loc: `${BASE_URL}/guide/${g.slug}`,
       lastmod: g.lastUpdated,
