@@ -1,5 +1,5 @@
 ---
-title: "NPS vs PPF — Which Investment is Better for You in 2025?"
+title: "NPS vs PPF — Which Investment is Better for You?"
 description: "Compare NPS and PPF side by side — returns, tax benefits, lock-in period, withdrawal rules, and which is better for your goals."
 category: "Tax & Finance"
 keywords: ["NPS vs PPF", "NPS or PPF which is better", "PPF vs NPS comparison", "retirement investment India", "Section 80C investment"]
