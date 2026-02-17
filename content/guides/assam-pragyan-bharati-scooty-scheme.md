@@ -1,5 +1,5 @@
 ---
-title: "Assam Pragyan Bharati Scooty Scheme 2025 – Free Scooty for Girl Students"
+title: "Assam Pragyan Bharati Scooty Scheme – Free Scooty for Girl Students"
 description: "Assam Pragyan Bharati scheme provides free scooties to meritorious girl students. Check eligibility criteria and how to apply."
 category: "State Schemes"
 keywords: ["Pragyan Bharati scooty scheme", "Assam free scooty scheme", "Assam girl students scooty", "Pragyan Bharati eligibility", "free scooty for girls Assam 2025", "Assam education scheme"]
@@ -103,7 +103,7 @@ Selected beneficiaries receive their scooties at **official distribution events*
 ## Important Tips
 
 1. **Apply promptly** when the application window opens — there is usually a deadline.
-2. **Get your driving license ready** — you'll need it to receive the scooty. Check our guide on [how to apply for a driving licence](/guide/driving-licence-apply-online-india).
+2. **Get your driving license ready** — you'll need it to receive the scooty. Check our guide on [how to apply for a driving licence](/guide/driving-licence-status-check).
 3. **Keep all original documents safe** — you may need to show them at the distribution event.
 4. **Ensure Aadhaar-bank linking** for any associated DBT benefits. See our [Aadhaar linking guide](/guide/aadhaar-linking-guide).
 5. **Contact your college** for updates on application deadlines and submission processes.
@@ -135,7 +135,7 @@ Selected beneficiaries receive their scooties at **official distribution events*
 
 - [Assam Orunodoi Scheme](/guide/assam-orunodoi-scheme)
 - [Assam Arundhati Gold Scheme](/guide/assam-arundhati-gold-scheme)
-- [Driving Licence – Apply Online](/guide/driving-licence-apply-online-india)
+- [Driving Licence – Apply Online](/guide/driving-licence-status-check)
 - [Aadhaar Card – How to Apply](/guide/aadhaar-card-apply-online)
 
 ---

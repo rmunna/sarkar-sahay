@@ -1,5 +1,5 @@
 ---
-title: "WB Swami Vivekananda Scholarship 2025 – Merit-cum-Means Scholarship Apply Online"
+title: "WB Swami Vivekananda Scholarship – Merit-cum-Means Scholarship Apply Online"
 description: "West Bengal Swami Vivekananda Merit-cum-Means Scholarship for students. Check eligibility, amount, documents, and apply online."
 category: "State Schemes"
 keywords: ["Swami Vivekananda scholarship", "WB SVMCM scholarship 2025", "West Bengal merit scholarship", "SVMCM apply online", "WB student scholarship", "Swami Vivekananda scholarship eligibility"]

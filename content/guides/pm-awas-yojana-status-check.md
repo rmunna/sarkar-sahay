@@ -186,7 +186,7 @@ Yes, you can call the PMAY toll-free helpline at **1800-11-6163** (PMAY-Urban) o
 
 - Check out our [Aadhaar Card guide](/guide/aadhaar-card-apply-online) — Aadhaar is mandatory for PMAY
 - Learn about [Ration Card Status Check](/guide/ration-card-status-download-update) — another important household document
-- See our [Income Certificate guide](/guide/income-certificate-apply-online) if you need income proof for PMAY-U
+- See our [Income Certificate guide](/guide/income-certificate-online) if you need income proof for PMAY-U
 
 ---
 

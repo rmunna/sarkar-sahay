@@ -1,5 +1,5 @@
 ---
-title: "Gujarat Manav Garima Yojana 2025 — Free Tool Kits for SC/ST Workers Guide"
+title: "Gujarat Manav Garima Yojana — Free Tool Kits for SC/ST Workers Guide"
 description: "Complete guide to Gujarat Manav Garima Yojana providing free tool kits to SC and ST workers. Eligibility, occupations covered, and process."
 category: "State Schemes"
 keywords: ["manav garima yojana", "gujarat tool kit scheme", "manav garima yojana apply", "gujarat SC ST scheme", "free tools scheme gujarat"]

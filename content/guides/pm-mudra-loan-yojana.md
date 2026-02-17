@@ -1,5 +1,5 @@
 ---
-title: "PM Mudra Loan Yojana 2025 – Apply Online for Loans Up to ₹10 Lakh"
+title: "PM Mudra Loan Yojana – Apply Online for Loans Up to ₹10 Lakh"
 description: "Complete guide to PM Mudra Yojana – eligibility, loan categories (Shishu, Kishore, Tarun), documents, and online application process for small business loans."
 category: "Government Schemes"
 keywords: ["mudra loan", "pm mudra yojana", "mudra loan online apply", "mudra loan eligibility", "shishu kishore tarun loan", "small business loan india"]
@@ -55,7 +55,7 @@ You can apply for a Mudra loan if you meet the following criteria:
 - Voter ID / Passport / Driving licence
 
 ### Business Documents
-- Business registration certificate (Udyam Registration recommended — see our [Udyam Registration guide](/guide/udyam-registration-msme-certificate) if available)
+- Business registration certificate (Udyam Registration recommended — see our [Udyam Registration guide](/guide/udyam-msme-registration-online) if available)
 - Business plan / project report (for Kishore and Tarun categories)
 - Proof of business address (utility bill, rent agreement)
 - GST registration (if applicable)

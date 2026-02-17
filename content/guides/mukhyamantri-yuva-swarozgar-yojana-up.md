@@ -48,7 +48,7 @@ To apply for Mukhyamantri Yuva Swarozgar Yojana, you must meet these criteria:
 
 **Identity & Address:**
 - Aadhaar Card (see our [Aadhaar guide](/guide/aadhaar-card-apply-online) for help)
-- PAN Card (see our [PAN card guide](/guide/pan-card-apply-online-offline) for details)
+- PAN Card (see our [PAN card guide](/guide/pan-card-apply-online) for details)
 - Domicile certificate / Residence proof of UP
 - Passport-size photographs
 

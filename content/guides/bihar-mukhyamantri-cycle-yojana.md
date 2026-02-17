@@ -1,5 +1,5 @@
 ---
-title: "Bihar Mukhyamantri Balak/Balika Cycle Yojana 2025 – Free Cycle for Class 9"
+title: "Bihar Mukhyamantri Balak/Balika Cycle Yojana – Free Cycle for Class 9"
 description: "Bihar Mukhyamantri Cycle Yojana gives ₹3,000 to Class 9 students for a bicycle. Check eligibility and how to claim the benefit."
 category: "State Schemes"
 keywords: ["Bihar cycle yojana", "Mukhyamantri Balak Balika Cycle Yojana", "free cycle Bihar class 9", "Bihar student cycle scheme", "Bihar bicycle scheme 2025", "cycle yojana eligibility Bihar"]

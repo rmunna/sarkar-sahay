@@ -1,5 +1,5 @@
 ---
-title: "Maharashtra Gharkul Yojana 2025 — Rural Housing Scheme Application Guide"
+title: "Maharashtra Gharkul Yojana — Rural Housing Scheme Application Guide"
 description: "Complete guide to Maharashtra Gharkul Yojana for rural housing. Eligibility criteria, documents required, and step-by-step application."
 category: "State Schemes"
 keywords: ["gharkul yojana", "maharashtra rural housing scheme", "gharkul yojana apply", "ramai awas yojana", "maharashtra housing scheme BPL"]
@@ -115,7 +115,7 @@ Yes, you need to have a **plot of land** to build the house on. If you don't own
 
 ### Q3: Can urban families apply?
 
-No, Gharkul Yojana (PMAY-G/Ramai Awas) is for **rural areas only**. Urban families should check **PMAY-Urban** for housing assistance. See our [PMAY guide](/guide/pradhan-mantri-awas-yojana) if available.
+No, Gharkul Yojana (PMAY-G/Ramai Awas) is for **rural areas only**. Urban families should check **PMAY-Urban** for housing assistance. See our [PMAY guide](/guide/pm-awas-yojana-apply) if available.
 
 ### Q4: What is the difference between Ramai Awas and PMAY-G?
 

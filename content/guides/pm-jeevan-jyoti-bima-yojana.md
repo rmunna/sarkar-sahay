@@ -1,5 +1,5 @@
 ---
-title: "PM Jeevan Jyoti Bima Yojana 2025 – Life Insurance at ₹436/Year, How to Apply"
+title: "PM Jeevan Jyoti Bima Yojana – Life Insurance at ₹436/Year, How to Apply"
 description: "Complete guide to PM Jeevan Jyoti Bima Yojana – ₹2 lakh life insurance cover at ₹436/year. Eligibility, enrollment, claim process and documents needed."
 category: "Government Schemes"
 keywords: ["pm jeevan jyoti bima yojana", "pmjjby apply online", "life insurance 436 rupees", "pmjjby claim process", "pmjjby eligibility", "government life insurance scheme"]

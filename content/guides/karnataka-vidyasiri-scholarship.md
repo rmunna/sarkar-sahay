@@ -100,7 +100,7 @@ The goal is to ensure that financial constraints do not prevent meritorious stud
 ## Important Tips
 
 1. **Apply early** — The application window usually opens in July–August. Don't wait until the deadline.
-2. **Get your caste and income certificates in advance** — These can take 15–30 days from the Tahsildar office. See our [income certificate guide](/guide/income-certificate-online-apply) if available.
+2. **Get your caste and income certificates in advance** — These can take 15–30 days from the Tahsildar office. See our [income certificate guide](/guide/income-certificate-online) if available.
 3. **Ensure Aadhaar is linked to bank account** — DBT (Direct Benefit Transfer) requires Aadhaar-linked bank accounts. Check our [Aadhaar linking guide](/guide/aadhaar-linking-guide) for help.
 4. **No double benefits** — If you're receiving any other scholarship, you cannot claim Vidyasiri. Choose the one with higher value.
 5. **Keep passing grades** — Renewal requires passing marks in previous year exams. Focus on academics.

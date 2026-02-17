@@ -113,7 +113,7 @@ Selection is done at the **constituency level** through a committee headed by th
 The government is rolling out the scheme in phases. Wait for your constituency to be announced. Check with your local MLA office or the district SC Development Officer for updates.
 
 ### Q5: Can I use the ₹10 lakh to buy land or build a house?
-No. The grant is specifically for **setting up a business or enterprise**. It cannot be used for personal consumption, land purchase, or house construction. For housing, check separate schemes like PMAY. See our [PM Awas Yojana guide](/guide/pm-awas-yojana-apply-online) for details.
+No. The grant is specifically for **setting up a business or enterprise**. It cannot be used for personal consumption, land purchase, or house construction. For housing, check separate schemes like PMAY. See our [PM Awas Yojana guide](/guide/pm-awas-yojana-apply) for details.
 
 ### Q6: What happens if the business fails?
 The grant does not need to be repaid even if the business doesn't succeed. However, the government monitors utilisation, and beneficiaries are encouraged to seek guidance and training support.

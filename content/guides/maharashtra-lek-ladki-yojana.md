@@ -1,5 +1,5 @@
 ---
-title: "Maharashtra Lek Ladki Yojana 2025 — ₹1,01,000 for Girl Child Benefit Scheme"
+title: "Maharashtra Lek Ladki Yojana — ₹1,01,000 for Girl Child Benefit Scheme"
 description: "Complete guide to Maharashtra Lek Ladki Yojana providing ₹1,01,000 in instalments for girl children. Eligibility, documents, and process."
 category: "State Schemes"
 keywords: ["lek ladki yojana", "maharashtra girl child scheme", "lek ladki yojana apply", "maharashtra lek ladki", "girl child benefit maharashtra"]

@@ -1,5 +1,5 @@
 ---
-title: "PM Fasal Bima Yojana 2025 – Crop Insurance Online Application & Claim Process"
+title: "PM Fasal Bima Yojana – Crop Insurance Online Application & Claim Process"
 description: "Complete guide to Pradhan Mantri Fasal Bima Yojana – eligibility, premium rates, online application, crop insurance claim process and documents needed."
 category: "Government Schemes"
 keywords: ["pm fasal bima yojana", "crop insurance india", "pmfby online apply", "fasal bima claim", "crop insurance premium", "pmfby eligibility"]

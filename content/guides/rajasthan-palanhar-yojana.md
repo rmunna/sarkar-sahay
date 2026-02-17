@@ -1,5 +1,5 @@
 ---
-title: "Rajasthan Palanhar Yojana 2025 — Orphan Care Scheme Benefits & How to Apply"
+title: "Rajasthan Palanhar Yojana — Orphan Care Scheme Benefits & How to Apply"
 description: "Complete guide to Rajasthan Palanhar Yojana for orphan children. Eligibility, documents, monthly allowance details, and application process."
 category: "State Schemes"
 keywords: ["palanhar yojana", "rajasthan orphan scheme", "palanhar yojana apply", "rajasthan child welfare scheme", "palanhar yojana eligibility"]

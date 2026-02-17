@@ -167,7 +167,7 @@ Yes, many banks accept online applications through their websites. You can also 
 
 ## Related Guides
 
-- [Udyam Registration guide](/guide/udyam-registration-msme-online) — Get your MSME registration for stronger loan applications
+- [Udyam Registration guide](/guide/udyam-msme-registration-online) — Get your MSME registration for stronger loan applications
 - [PAN Card Apply Online](/guide/pan-card-apply-online) — PAN is required for Mudra loan applications
 - [Aadhaar Card guide](/guide/aadhaar-card-apply-online) — Aadhaar is mandatory for Mudra loans
 

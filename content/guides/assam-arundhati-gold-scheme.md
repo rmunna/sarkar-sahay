@@ -1,5 +1,5 @@
 ---
-title: "Assam Arundhati Gold Scheme 2025 – Free 10g Gold for Brides | Apply Online"
+title: "Assam Arundhati Gold Scheme – Free 10g Gold for Brides | Apply Online"
 description: "Assam Arundhati Gold Scheme provides 10g gold (1 tola) to brides. Check eligibility, required documents, and application steps."
 category: "State Schemes"
 keywords: ["Assam Arundhati Gold Scheme", "Arundhati scheme 2025", "free gold for brides Assam", "Assam marriage scheme", "Arundhati gold scheme eligibility", "Assam bride gold scheme apply"]
@@ -132,7 +132,7 @@ Upon approval, the **cash equivalent of 10 grams of gold** (based on prevailing 
 - [Assam Orunodoi Scheme](/guide/assam-orunodoi-scheme)
 - [Aadhaar Card – How to Apply Online](/guide/aadhaar-card-apply-online)
 - [Aadhaar Linking Guide](/guide/aadhaar-linking-guide)
-- [Marriage Certificate – How to Apply](/guide/marriage-certificate-online-india)
+- [Marriage Certificate – How to Apply](/guide/marriage-certificate-apply-online)
 
 ---
 

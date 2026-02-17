@@ -1,5 +1,5 @@
 ---
-title: "Bihar Mukhyamantri Gramin Awas Yojana 2025 – Rural Housing Scheme Apply"
+title: "Bihar Mukhyamantri Gramin Awas Yojana – Rural Housing Scheme Apply"
 description: "Bihar Mukhyamantri Gramin Awas Yojana provides financial aid for rural housing. Check eligibility, amount, and application process."
 category: "State Schemes"
 keywords: ["Bihar Gramin Awas Yojana", "Bihar rural housing scheme", "Mukhyamantri Awas Yojana 2025", "Bihar housing scheme apply", "MGAY Bihar", "Bihar pucca house scheme"]
@@ -143,7 +143,7 @@ Complete the house within **12 months** of receiving the first installment. A fi
 
 ## Related Guides
 
-- [Pradhan Mantri Awas Yojana](/guide/pm-awas-yojana-apply-online)
+- [Pradhan Mantri Awas Yojana](/guide/pm-awas-yojana-apply)
 - [Aadhaar Linking Guide](/guide/aadhaar-linking-guide)
 - [Ration Card Apply Online](/guide/ration-card-apply-online)
 - [Bihar Mukhyamantri Cycle Yojana](/guide/bihar-mukhyamantri-cycle-yojana)

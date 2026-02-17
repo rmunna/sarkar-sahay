@@ -141,7 +141,7 @@ If you don't know your UAN:
 
 1. **Link Aadhaar to UAN** — This is mandatory for online services, PF withdrawal, and transfer
 2. **Check passbook quarterly** — Verify that your employer is depositing PF on time
-3. **Transfer PF when changing jobs** — Use the online transfer facility to merge old and new PF accounts. See our [PF Transfer guide](/guide/epf-pf-transfer-online) if available
+3. **Transfer PF when changing jobs** — Use the online transfer facility to merge old and new PF accounts. See our PF Transfer guide if available
 4. **Interest is credited annually** — EPF interest for the year is credited at the end of the financial year, so your balance may not reflect current year's interest until March
 5. **Save your UAN** — Your UAN is permanent and stays with you throughout your career across all employers
 

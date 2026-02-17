@@ -1,5 +1,5 @@
 ---
-title: "WB Sabuj Sathi Scheme 2025 – Free Bicycle for Students in West Bengal"
+title: "WB Sabuj Sathi Scheme – Free Bicycle for Students in West Bengal"
 description: "West Bengal Sabuj Sathi scheme provides free bicycles to Class 9-12 students. Check eligibility, documents, and how to get yours."
 category: "State Schemes"
 keywords: ["Sabuj Sathi scheme", "West Bengal free bicycle", "WB Sabuj Sathi 2025", "free cycle for students WB", "Sabuj Sathi eligibility", "West Bengal student scheme"]

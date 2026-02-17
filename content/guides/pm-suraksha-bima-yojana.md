@@ -1,5 +1,5 @@
 ---
-title: "PM Suraksha Bima Yojana 2025 – Accident Insurance at ₹12/Year, Apply Online"
+title: "PM Suraksha Bima Yojana – Accident Insurance at ₹12/Year, Apply Online"
 description: "Complete guide to Pradhan Mantri Suraksha Bima Yojana – ₹2 lakh accident cover at just ₹12/year. Eligibility, claim process and enrollment steps."
 category: "Government Schemes"
 keywords: ["pm suraksha bima yojana", "pmsby apply online", "accident insurance 12 rupees", "pmsby claim", "pmsby eligibility", "government accident insurance"]

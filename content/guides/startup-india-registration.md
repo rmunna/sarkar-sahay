@@ -1,5 +1,5 @@
 ---
-title: "Startup India Registration 2025 – How to Register, Benefits & DPIIT Recognition"
+title: "Startup India Registration – How to Register, Benefits & DPIIT Recognition"
 description: "Step-by-step guide to Startup India registration on DPIIT portal – eligibility, documents required, tax benefits, and funding support for startups."
 category: "Government Schemes"
 keywords: ["startup india registration", "dpiit recognition", "startup india scheme", "startup registration online", "startup india benefits", "startup india tax exemption"]

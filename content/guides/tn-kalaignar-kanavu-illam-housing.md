@@ -130,7 +130,7 @@ For EWS/BPL families, the house is effectively **free** — the government cover
 Yes. If you own land, you can apply for **construction assistance** on your own plot. You'll receive the financial assistance to build a pucca house.
 
 ### Q3: How is this different from PM Awas Yojana?
-Kalaignar Kanavu Illam is the **Tamil Nadu state component** that works alongside PMAY. The financial assistance combines central (PMAY) and state funds. See our [PM Awas Yojana guide](/guide/pm-awas-yojana-apply-online) for the central scheme details.
+Kalaignar Kanavu Illam is the **Tamil Nadu state component** that works alongside PMAY. The financial assistance combines central (PMAY) and state funds. See our [PM Awas Yojana guide](/guide/pm-awas-yojana-apply) for the central scheme details.
 
 ### Q4: Can I choose the location of my house?
 For ready-built houses, you can indicate **preferred locations** but final allotment depends on availability. For self-construction, you build on your own land.

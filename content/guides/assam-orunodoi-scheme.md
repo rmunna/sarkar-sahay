@@ -1,5 +1,5 @@
 ---
-title: "Assam Orunodoi Scheme 2025 – ₹1,250/Month for Women | How to Apply"
+title: "Assam Orunodoi Scheme – ₹1,250/Month for Women | How to Apply"
 description: "Assam Orunodoi scheme gives ₹1,250 per month to women. Check eligibility, documents needed, and step-by-step application process."
 category: "State Schemes"
 keywords: ["Assam Orunodoi scheme", "Orunodoi scheme 2025", "Orunodoi apply online", "Assam women scheme", "₹1250 monthly scheme Assam", "Orunodoi eligibility", "Assam government scheme for women"]
