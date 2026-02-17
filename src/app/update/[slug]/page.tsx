@@ -152,6 +152,32 @@ export default async function UpdatePage({ params }: Props) {
     ],
   };
 
+  // JobPosting schema for government job notifications
+  const jobPostingSchema = (update.category === "Government Jobs" && update.type === "notification") ? {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    title: update.examName || update.title,
+    description: update.description,
+    datePosted: update.publishedDate,
+    validThrough: update.importantDates?.lastDateToApply || update.expiryDate || undefined,
+    hiringOrganization: {
+      "@type": "Organization",
+      name: update.organization,
+    },
+    jobLocation: {
+      "@type": "Place",
+      address: {
+        "@type": "PostalAddress",
+        addressCountry: "IN",
+      },
+    },
+    employmentType: "FULL_TIME",
+    applicantLocationRequirements: {
+      "@type": "Country",
+      name: "India",
+    },
+  } : null;
+
   // Important dates for display
   const dates = Object.entries(update.importantDates || {}).filter(
     ([, val]) => val && val !== ""
@@ -173,6 +199,12 @@ export default async function UpdatePage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
+      {jobPostingSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jobPostingSchema) }}
+        />
+      )}
 
       {/* Breadcrumb */}
       <nav className="text-sm text-gray-500 mb-6">
