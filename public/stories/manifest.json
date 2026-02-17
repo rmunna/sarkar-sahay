@@ -1,0 +1,146 @@
+[
+  {
+    "slug": "aadhaar-card-apply-online",
+    "title": "How to Apply for Aadhaar Card Online — Step-by-Step Guide",
+    "description": "Complete guide to apply for a new Aadhaar card online. Documents required, step-by-step process, fees, and processing time.",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "pan-card-apply-online",
+    "title": "How to Apply for PAN Card Online — Step-by-Step Guide",
+    "description": "Complete guide to apply for a new PAN card online via NSDL and UTIITSL. Documents, fees, step-by-step process, and tracking.",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "passport-apply-online",
+    "title": "How to Apply for Passport Online in India — Step-by-Step Guide",
+    "description": "Complete guide to apply for Indian passport online via Passport Seva. Documents, fees, appointment booking, and tracking.",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "ration-card-apply-online",
+    "title": "How to Apply for Ration Card Online — Step-by-Step Guide",
+    "description": "Complete guide to apply for new ration card online. State-wise process, documents, eligibility for APL/BPL/AAY categories.",
+    "category": "Food & Ration"
+  },
+  {
+    "slug": "income-tax-return-file-online",
+    "title": "How to File Income Tax Return (ITR) Online — Step-by-Step Guide",
+    "description": "Complete guide to file ITR online on the income tax portal. Which form to use, documents needed, step-by-step e-filing process.",
+    "category": "Tax & Finance"
+  },
+  {
+    "slug": "birth-certificate-apply-online",
+    "title": "How to Apply for Birth Certificate Online in India",
+    "description": "Step-by-step guide to apply for birth certificate online in India through CRS portal. Covers documents required, online & offline process, delayed...",
+    "category": "Certificates"
+  },
+  {
+    "slug": "death-certificate-apply-online",
+    "title": "How to Apply for Death Certificate Online in India — Complete Guide",
+    "description": "Step-by-step guide to apply for a death certificate online in India via CRS portal. Documents required, fees, time limit, correction process, and FAQs.",
+    "category": "Certificates"
+  },
+  {
+    "slug": "marriage-certificate-apply-online",
+    "title": "How to Apply for Marriage Certificate Online in India",
+    "description": "Step-by-step guide to apply for marriage certificate online in India. Learn about documents required, fees, Hindu Marriage Act vs Special Marriage Act, and...",
+    "category": "Certificates"
+  },
+  {
+    "slug": "aadhaar-address-change-online",
+    "title": "How to Change Address in Aadhaar Card Online and Offline",
+    "description": "Step-by-step guide to update or change your address in Aadhaar card online via myAadhaar portal and offline at Aadhaar enrolment centres. Complete list of...",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "aadhaar-linking-guide",
+    "title": "How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services",
+    "description": "Complete guide to linking Aadhaar with PAN card, bank account, mobile number, EPF, LPG, ration card, voter ID, driving licence and PPF. Step-by-step...",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "pan-card-correction-online",
+    "title": "How to Correct PAN Card Details Online",
+    "description": "Step-by-step guide to correct PAN card details online including name, date of birth, photo, signature, and address via NSDL (Protean) and UTIITSL portals.",
+    "category": "Tax & Finance"
+  },
+  {
+    "slug": "vehicle-rc-transfer-online",
+    "title": "How to Transfer Vehicle RC (Registration Certificate) Online",
+    "description": "Complete guide to transfer vehicle RC online in India. Step-by-step process for ownership transfer, address change, duplicate RC, NOC for interstate...",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "property-registration-online",
+    "title": "How to Register Property Online in India — Step-by-Step Guide",
+    "description": "Complete guide to property registration in India. Stamp duty, documents, online process, and state-wise registration portals.",
+    "category": "Property & Legal"
+  },
+  {
+    "slug": "aadhaar-name-correction-online",
+    "title": "How to Correct Name in Aadhaar Card Online",
+    "description": "Step-by-step guide to correct or change your name in Aadhaar card online via myaadhaar.uidai.gov.in. Know documents required, fees, processing time, and how...",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "aadhaar-biometric-lock-unlock",
+    "title": "Aadhaar Biometric Lock & Unlock",
+    "description": "Learn how to lock and unlock Aadhaar biometrics to prevent unauthorized authentication. Step-by-step guide for mAadhaar app and UIDAI portal.",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "aadhaar-common-problems-solutions",
+    "title": "Aadhaar Card Common Problems & Solutions",
+    "description": "Facing Aadhaar card problems? Complete guide to fix Aadhaar update rejected, OTP not received, authentication failed, biometric lock, name mismatch, and...",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "sukanya-samriddhi-yojana",
+    "title": "Sukanya Samriddhi Yojana — How to Open Account (Guide",
+    "description": "Complete guide to Sukanya Samriddhi Yojana. Interest rate, eligibility, how to open account, tax benefits, and withdrawal rules.",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "pm-kisan-samman-nidhi",
+    "title": "PM Kisan Samman Nidhi — Registration, Eligibility & Status Check",
+    "description": "Complete guide to PM Kisan Yojana. How to register, check payment status, eligibility criteria, and documents required.",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "gst-registration-online",
+    "title": "How to Register for GST Online in India — Step-by-Step Guide",
+    "description": "Complete guide to GST registration online in India. Learn who needs GST, documents required, step-by-step process on gst.gov.in, fees, processing time, and...",
+    "category": "Tax & Finance"
+  },
+  {
+    "slug": "trade-licence-apply-online",
+    "title": "How to Get Trade Licence Online in India",
+    "description": "Complete guide to applying for a trade licence online in India. Learn the municipal corporation process, documents required, fees, renewal steps, and penalties.",
+    "category": "Property & Legal"
+  },
+  {
+    "slug": "senior-citizen-savings-scheme",
+    "title": "Senior Citizen Savings Scheme (SCSS)",
+    "description": "Complete guide to SCSS for senior citizens in India. Learn about eligibility, current interest rate (8.2% p.a.), how to open an account, tax benefits under...",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "police-clearance-certificate-apply",
+    "title": "How to Apply for Police Clearance Certificate (PCC) Online in India",
+    "description": "Complete guide to applying for Police Clearance Certificate (PCC) online through Passport Seva. Learn about documents required, fees, processing time, and...",
+    "category": "Certificates"
+  },
+  {
+    "slug": "noc-no-objection-certificate-apply",
+    "title": "How to Apply for NOC (No Objection Certificate) Online",
+    "description": "Learn how to apply for a No Objection Certificate (NOC) online. Complete guide covering vehicle, property, employer & other NOC types with process and format.",
+    "category": "Certificates"
+  },
+  {
+    "slug": "voter-id-correction-online",
+    "title": "How to Correct Voter ID Card Online",
+    "description": "Step-by-step guide to correct your Voter ID (EPIC) details online using Form 8 on the NVSP portal. Fix name, address, photo, date of birth, and more. Also...",
+    "category": "Identity Documents"
+  }
+]
