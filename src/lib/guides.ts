@@ -70,6 +70,27 @@ export async function getGuideBySlug(slug: string): Promise<Guide | null> {
   return { ...meta, contentHtml: processedContent.toString() };
 }
 
+export function getRelatedGuides(slug: string, limit = 5): GuideMeta[] {
+  const current = getGuideMeta(slug);
+  if (!current) return [];
+  const all = getAllGuides();
+  // Same category, exclude self
+  const sameCategory = all.filter(
+    (g) => g.category === current.category && g.slug !== slug
+  );
+  // Shuffle deterministically based on slug hash, then take `limit`
+  const hash = (s: string) => {
+    let h = 0;
+    for (let i = 0; i < s.length; i++) h = ((h << 5) - h + s.charCodeAt(i)) | 0;
+    return Math.abs(h);
+  };
+  const seed = hash(slug);
+  const sorted = sameCategory.sort(
+    (a, b) => (hash(a.slug + seed) % 1000) - (hash(b.slug + seed) % 1000)
+  );
+  return sorted.slice(0, limit);
+}
+
 export function getCategories(): { name: string; count: number }[] {
   const guides = getAllGuides();
   const map: Record<string, number> = {};

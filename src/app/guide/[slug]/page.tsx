@@ -1,4 +1,4 @@
-import { getGuideBySlug, getAllGuideSlugs, getGuideRawContent } from "@/lib/guides";
+import { getGuideBySlug, getAllGuideSlugs, getGuideRawContent, getRelatedGuides } from "@/lib/guides";
 import { generateFAQSchema, generateArticleSchema, extractFAQs } from "@/lib/faq-schema";
 import { notFound } from "next/navigation";
 import Link from "next/link";
@@ -92,6 +92,7 @@ export default async function GuidePage({ params }: Props) {
   const headings = extractHeadings(guide.contentHtml);
   const contentWithIds = addHeadingIds(guide.contentHtml);
   const catStyle = getCategoryStyle(guide.category);
+  const relatedGuides = getRelatedGuides(slug, 5);
 
   const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://citizennest.com";
   const breadcrumbSchema = {
@@ -213,6 +214,27 @@ export default async function GuidePage({ params }: Props) {
             className="guide-content"
             dangerouslySetInnerHTML={{ __html: contentWithIds }}
           />
+
+          {/* Related Guides */}
+          {relatedGuides.length > 0 && (
+            <div className="mt-12 pt-8 border-t border-gray-200">
+              <h2 className="text-xl font-bold text-gray-900 mb-4">Related Guides</h2>
+              <div className="grid gap-3 sm:grid-cols-2">
+                {relatedGuides.map((rg) => (
+                  <Link
+                    key={rg.slug}
+                    href={`/guide/${rg.slug}`}
+                    className="block p-4 bg-gray-50 border border-gray-200 rounded-xl hover:border-orange-300 hover:bg-orange-50 transition"
+                  >
+                    <h3 className="text-sm font-semibold text-gray-800 leading-snug mb-1">
+                      {rg.title}
+                    </h3>
+                    <p className="text-xs text-gray-500 line-clamp-2">{rg.description}</p>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
 
           {/* Bottom navigation */}
           <div className="mt-12 pt-8 border-t border-gray-200 flex flex-col sm:flex-row justify-between gap-4">
