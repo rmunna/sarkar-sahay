@@ -155,6 +155,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                     <Link href="/" className="hover:text-orange-600 transition">Home</Link>
                     <Link href="/categories" className="hover:text-orange-600 transition">Categories</Link>
                     <Link href="/states" className="hover:text-orange-600 transition">States</Link>
+                    <Link href="/calculator" className="hover:text-orange-600 transition">Calculators</Link>
                     <Link href="/about" className="hover:text-orange-600 transition">About</Link>
                   </div>
                 </div>
