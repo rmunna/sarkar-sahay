@@ -1,6 +1,6 @@
 ---
 title: "How to File RTI Online — Right to Information Application India"
-description: "Complete guide to filing RTI online in India via rtionline.gov.in. Learn the step-by-step process, fees, application format, appeal process, timelines, and exemptions under the Right to Information Act 2005."
+description: "File RTI application online via rtionline.gov.in — step-by-step process, fees, format, appeal process, and timelines under RTI Act 2005 explained."
 category: "Property & Legal"
 keywords:
   - "RTI online"

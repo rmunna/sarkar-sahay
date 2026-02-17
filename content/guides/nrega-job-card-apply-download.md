@@ -1,6 +1,6 @@
 ---
 title: "NREGA Job Card — How to Apply, Check Status, Download & View Payment"
-description: "Complete guide to NREGA/MGNREGA job card. Learn how to apply online & offline, check job card status, download job card, view payment status, check muster roll, and file complaints."
+description: "NREGA/MGNREGA job card guide — apply online or offline, check job card status, download card, view payment details, and file complaints easily."
 category: "Jobs & Exams"
 keywords:
   - NREGA job card

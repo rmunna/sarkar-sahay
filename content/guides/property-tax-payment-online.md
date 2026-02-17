@@ -1,6 +1,6 @@
 ---
 title: "How to Pay Property Tax Online in India — Municipal Tax Payment Guide"
-description: "Complete guide to pay property tax online in India. Step-by-step process for Delhi MCD, Mumbai BMC, Bangalore BBMP, Chennai, and Hyderabad GHMC with official links."
+description: "Pay property tax online in India — step-by-step process for Delhi MCD, Mumbai BMC, Bangalore BBMP, Chennai, and Hyderabad GHMC with portal links."
 category: "Property & Legal"
 keywords: ["property tax payment online", "pay property tax", "municipal tax online", "property tax India", "MCD property tax", "BMC property tax", "BBMP property tax", "GHMC property tax", "house tax online", "property tax receipt download"]
 readingTime: "10 min"

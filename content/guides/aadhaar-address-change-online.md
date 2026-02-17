@@ -1,6 +1,6 @@
 ---
 title: "How to Change Address in Aadhaar Card Online and Offline"
-description: "Step-by-step guide to update or change your address in Aadhaar card online via myAadhaar portal and offline at Aadhaar enrolment centres. Complete list of documents, fees, and tracking process."
+description: "Step-by-step guide to update your Aadhaar address online via myAadhaar portal or offline at enrolment centres. Documents, fees, and tracking."
 category: "Identity Documents"
 keywords:
   - "aadhaar address change"

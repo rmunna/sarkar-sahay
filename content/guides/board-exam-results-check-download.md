@@ -1,6 +1,6 @@
 ---
 title: "How to Check and Download CBSE, ICSE & State Board Exam Results Online"
-description: "Check 10th and 12th board exam results online for CBSE, ICSE, and state boards. Download marksheet, use DigiLocker, and apply for revaluation."
+description: "Check 10th and 12th board exam results online for CBSE, ICSE, and state boards. Download marksheet via DigiLocker and apply for re-evaluation."
 category: "Jobs & Exams"
 keywords:
   - "CBSE result check"

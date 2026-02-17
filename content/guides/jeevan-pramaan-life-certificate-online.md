@@ -1,6 +1,6 @@
 ---
 title: "Jeevan Pramaan — Digital Life Certificate Online"
-description: "Step-by-step guide to generate your Jeevan Pramaan digital life certificate online. Learn how pensioners can submit life certificate via app, CSC, bank, or face authentication."
+description: "Generate Jeevan Pramaan digital life certificate online for pensioners. Submit via app, CSC, bank, or face authentication — step-by-step guide."
 category: "Government Schemes"
 keywords:
   - "Jeevan Pramaan"

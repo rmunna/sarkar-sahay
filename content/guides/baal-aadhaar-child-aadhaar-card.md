@@ -1,6 +1,6 @@
 ---
 title: "Baal Aadhaar Card — How to Apply for Child Aadhaar Below 5 Years"
-description: "Complete guide on how to apply for Baal Aadhaar card for children below 5 years. Learn about documents required, fees, biometric update at age 5 & 15, and how to download child Aadhaar."
+description: "Complete guide to Baal Aadhaar card for children below 5 years. Documents required, fees, biometric update at age 5 and 15, and download steps."
 category: "Identity Documents"
 keywords:
   - "Baal Aadhaar"

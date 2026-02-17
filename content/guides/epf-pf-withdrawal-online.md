@@ -1,6 +1,6 @@
 ---
 title: "How to Check and Withdraw EPF/PF Online (Employee Provident Fund)"
-description: "Complete guide to check your PF balance online, withdraw EPF money, transfer PF to new employer, activate UAN, and track PF claim status — with step-by-step instructions."
+description: "Check PF balance online, withdraw EPF money, transfer PF to new employer, activate UAN, and track claim status — complete step-by-step process."
 category: "Tax & Finance"
 keywords:
   - "PF withdrawal online"

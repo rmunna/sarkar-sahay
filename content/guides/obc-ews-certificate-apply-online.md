@@ -1,6 +1,6 @@
 ---
 title: "OBC / EWS Certificate — Apply Online title: "OBC / EWS Certificate Online — Eligibility, Documents & Application Process" Eligibility"
-description: "Apply for OBC and EWS certificate online in India. Eligibility, required documents, fees, validity, and step-by-step process for all states."
+description: "Apply for OBC and EWS certificate online in India. Know eligibility, required documents, fees, validity, and step-by-step process for all states."
 category: "Certificates"
 keywords:
   - "OBC certificate online"

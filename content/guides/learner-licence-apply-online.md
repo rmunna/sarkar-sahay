@@ -1,6 +1,6 @@
 ---
 title: "How to Apply for Learner's Licence Online in India"
-description: "Step-by-step guide to apply for a Learner's Licence (LL) online through the Sarathi Parivahan portal. Know eligibility, documents, fees, LL test tips, and how to download your learner licence."
+description: "Apply for Learner's Licence (LL) online via Sarathi Parivahan portal. Eligibility, documents, fees, LL test tips, and download your licence."
 category: "Identity Documents"
 keywords:
   - "learner licence online apply"

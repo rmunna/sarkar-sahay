@@ -1,6 +1,6 @@
 ---
 title: "Widow Pension / Vidhwa Pension — Apply Online"
-description: "Apply for widow pension (vidhwa pension) online in India. State-wise amounts, eligibility, documents, application process, and status check."
+description: "Apply for widow pension (vidhwa pension) online in India. State-wise pension amounts, eligibility, documents, application process, and status check."
 category: "Government Schemes"
 keywords: ["widow pension online", "vidhwa pension", "widow pension status check", "widow pension scheme", "vidhwa pension apply online", "widow pension amount", "Indira Gandhi widow pension", "NSAP widow pension", "निराश्रित महिला पेंशन"]
 readingTime: "12 min"

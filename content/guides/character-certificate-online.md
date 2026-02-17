@@ -1,6 +1,6 @@
 ---
 title: "How to Get Character Certificate / Good Conduct Certificate Online"
-description: "Complete guide to apply for character certificate (police verification certificate) online. State-wise process for UP, Bihar, MP, Rajasthan with documents, fees, and status check."
+description: "Apply for character certificate (police verification) online in India. State-wise process for UP, Bihar, MP, Rajasthan with documents and fees."
 category: "Certificates"
 keywords: ["character certificate online", "police verification certificate", "good conduct certificate", "character certificate apply online", "charitra praman patra", "character certificate for government job", "police character certificate"]
 readingTime: "8 min"

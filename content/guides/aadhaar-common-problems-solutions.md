@@ -1,6 +1,6 @@
 ---
 title: "Aadhaar Common Problems title: "Aadhaar Card Common Problems & Solutions — Update Rejected, OTP Not Received, Authentication Failed" Solutions — Quick Fixes"
-description: "Facing Aadhaar card problems? Complete guide to fix Aadhaar update rejected, OTP not received, authentication failed, biometric lock, name mismatch, and more. Step-by-step solutions with UIDAI helpline details."
+description: "Fix common Aadhaar problems — update rejected, OTP not received, biometric lock, and name mismatch. Step-by-step solutions with UIDAI helpline."
 category: "Identity Documents"
 keywords:
   - "aadhaar update rejected"

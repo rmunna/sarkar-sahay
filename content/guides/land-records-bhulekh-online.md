@@ -1,6 +1,6 @@
 ---
 title: "Land Records Online — Bhulekh, Bhu Naksha title: "How to Check Land Records Online in India — Bhulekh, Bhu Naksha, 7/12 Extract" 7/12"
-description: "Complete guide to checking land records online in India. Learn how to access Bhulekh, Bhu Naksha, 7/12 Extract, Khasra Khatauni, and RTC records state-wise with step-by-step instructions."
+description: "Check land records online in India — access Bhulekh, Bhu Naksha, 7/12 Extract, Khasra Khatauni, and RTC records state-wise. Step-by-step guide."
 category: "Property & Legal"
 keywords:
   - "land records online"

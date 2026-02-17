@@ -1,6 +1,6 @@
 ---
 title: "How to Apply for Police Clearance Certificate (PCC) Online in India"
-description: "Complete guide to applying for Police Clearance Certificate (PCC) online through Passport Seva. Learn about documents required, fees, processing time, and step-by-step application process."
+description: "Apply for Police Clearance Certificate (PCC) online via Passport Seva portal. Documents required, fees, processing time, and step-by-step process."
 category: "Certificates"
 keywords:
   - "police clearance certificate India"

@@ -1,6 +1,6 @@
 ---
 title: "How to File TDS Return Online — TDS Rates, Due Dates & Form 26AS"
-description: "TDS guide — rates for salary, FD, rent, how to file TDS return online, check Form 26AS, download Form 16, claim refund, and correct returns."
+description: "Complete TDS guide — rates for salary, FD, rent, how to file TDS return online, check Form 26AS, download Form 16, and claim your TDS refund."
 category: "Tax & Finance"
 keywords:
   - "TDS return filing"

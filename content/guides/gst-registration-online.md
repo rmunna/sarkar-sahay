@@ -1,6 +1,6 @@
 ---
 title: "How to Register for GST Online in India — Step-by-Step Guide"
-description: "Register for GST online on gst.gov.in. Who needs GST, documents required, step-by-step process, fees, processing time, and application tracking."
+description: "Register for GST online at gst.gov.in. Who needs GST, documents required, step-by-step process, fees, processing time, and application tracking."
 category: "Tax & Finance"
 keywords:
   - "GST registration online"

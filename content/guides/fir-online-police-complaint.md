@@ -1,6 +1,6 @@
 ---
 title: "How to Register FIR Online — Online Police Complaint in India"
-description: "Complete guide to filing FIR online in India. Learn how to register police complaints through state portals, cybercrime.gov.in, Zero FIR, track status, and what to do if police refuse."
+description: "File an FIR online in India via state portals and cybercrime.gov.in. Zero FIR explained, complaint tracking, and what to do if police refuse."
 category: "Property & Legal"
 keywords:
   - "FIR online"

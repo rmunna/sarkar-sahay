@@ -1,6 +1,6 @@
 ---
 title: "How to Apply for Water Connection Online in India"
-description: "Step-by-step guide to apply for a new water connection online in India. Covers Delhi Jal Board, Mumbai BMC, Bangalore BWSSB, Chennai Metro Water, Hyderabad HMWSSB — documents, fees, process, and FAQs."
+description: "Apply for a new water connection online in India — Delhi, Mumbai, Bangalore, Chennai, and Hyderabad. Documents, fees, process, and FAQs covered."
 category: "Utilities"
 keywords:
   - "water connection apply online"

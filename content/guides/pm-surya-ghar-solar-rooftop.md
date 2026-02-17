@@ -1,6 +1,6 @@
 ---
 title: "PM Surya Ghar Yojana — Free Solar Rooftop Scheme"
-description: "PM Surya Ghar Yojana — get free solar panels with government subsidy up to ₹78,000. Eligibility, documents, application process, and status check."
+description: "PM Surya Ghar Yojana — get free solar rooftop panels with government subsidy up to ₹78,000. Eligibility, documents, application, and status check."
 category: "Government Schemes"
 keywords:
   - "PM Surya Ghar Yojana"

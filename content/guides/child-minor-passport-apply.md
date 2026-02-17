@@ -1,6 +1,6 @@
 ---
 title: "How to Apply for Passport for Minor / Child Passport in India"
-description: "Apply for child or minor passport in India — documents, fees, online steps, special cases for single parents and divorced parents explained."
+description: "Complete guide to applying for a child or minor passport in India — documents, fees, online steps, and special cases for single or divorced parents."
 category: "Identity Documents"
 keywords:
   - "child passport India"

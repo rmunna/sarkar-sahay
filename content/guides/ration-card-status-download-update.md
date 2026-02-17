@@ -1,6 +1,6 @@
 ---
 title: "Ration Card Status Check, Download & Update — Complete Guide"
-description: "Check ration card application status, download e-ration card, add or remove family members, correct details, use ONORC, link Aadhaar, and file complaints — step-by-step guide for all states."
+description: "Check ration card application status, download e-ration card, add or remove members, correct details, link Aadhaar, and use ONORC — full guide."
 category: "Food & Ration"
 keywords:
   - ration card status check

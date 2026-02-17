@@ -1,6 +1,6 @@
 ---
 title: "How to Check PAN Card Status Online — Track PAN Application"
-description: "Check your PAN card status online using acknowledgment number via NSDL/Protean or UTIITSL. Track PAN application, verify PAN details, check PAN-Aadhaar link status, and know your PAN number."
+description: "Check PAN card application status online via NSDL/Protean or UTIITSL. Track your PAN, verify details, check PAN-Aadhaar link, and know your PAN."
 category: "Tax & Finance"
 keywords:
   - "PAN card status"

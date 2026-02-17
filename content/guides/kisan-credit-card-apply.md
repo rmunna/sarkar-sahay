@@ -1,6 +1,6 @@
 ---
 title: "Kisan Credit Card (KCC) — Apply title: "Kisan Credit Card (KCC) — How to Apply, Eligibility, Documents & Benefits" Eligibility"
-description: "Complete guide to Kisan Credit Card scheme. Learn KCC eligibility, interest rate (4%), documents required, how to apply online & offline, benefits for farmers, animal husbandry and fisheries."
+description: "Kisan Credit Card (KCC) complete guide — eligibility, 4% interest rate, documents, how to apply online and offline for farming and fisheries."
 category: "Government Schemes"
 keywords:
   - "Kisan Credit Card apply"

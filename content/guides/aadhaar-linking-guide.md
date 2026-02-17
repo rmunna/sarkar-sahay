@@ -1,6 +1,6 @@
 ---
 title: "How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services"
-description: "Complete guide to linking Aadhaar with PAN card, bank account, mobile number, EPF, LPG, ration card, voter ID, driving licence and PPF. Step-by-step process, deadlines and official links."
+description: "Complete guide to linking Aadhaar with PAN, bank account, mobile, EPF, LPG, ration card, voter ID, and driving licence. Process and deadlines."
 category: "Identity Documents"
 keywords:
   - "link Aadhaar"

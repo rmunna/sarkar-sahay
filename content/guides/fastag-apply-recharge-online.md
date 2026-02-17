@@ -1,6 +1,6 @@
 ---
 title: "How to Apply for FASTag Online — Toll Tax, Recharge & Balance Check"
-description: "Complete guide to buying FASTag online or offline, recharging via UPI/Paytm/PhonePe, checking balance, tracking toll transactions, and solving common FASTag problems."
+description: "Buy FASTag online or offline, recharge via UPI, Paytm, or PhonePe, check balance, track toll transactions, and solve common FASTag problems."
 category: "Utilities"
 keywords:
   - "FASTag apply online"

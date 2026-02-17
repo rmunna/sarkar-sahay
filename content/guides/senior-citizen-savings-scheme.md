@@ -1,6 +1,6 @@
 ---
 title: "Senior Citizen Savings Scheme (SCSS) — Open Account"
-description: "SCSS guide for senior citizens — eligibility, 8.2% interest rate, how to open account, Section 80C tax benefits, and premature withdrawal rules."
+description: "SCSS guide for senior citizens — eligibility, current 8.2% interest rate, how to open an account, Section 80C tax benefits, and withdrawal rules."
 category: "Government Schemes"
 keywords:
   - "senior citizen savings scheme"

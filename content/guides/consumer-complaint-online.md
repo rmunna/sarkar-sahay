@@ -1,6 +1,6 @@
 ---
 title: "File Consumer Complaint Online — Helpline title: "How to File Consumer Complaint Online — National Consumer Helpline & eDaakhil" eDaakhil"
-description: "File a consumer complaint online via National Consumer Helpline (1800-11-4000) and eDaakhil portal. Know your rights, documents, and tracking."
+description: "File consumer complaint online via National Consumer Helpline (1800-11-4000) and eDaakhil portal. Know your rights, documents, and track status."
 category: "Property & Legal"
 keywords:
   - consumer complaint online

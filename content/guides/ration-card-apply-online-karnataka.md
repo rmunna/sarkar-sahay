@@ -1,6 +1,6 @@
 ---
 title: "How to Apply for Ration Card Online in Karnataka"
-description: "Step-by-step guide to apply for a ration card online in Karnataka through the AHARA portal. Learn about documents needed, fees, processing time, and how to track your application."
+description: "Apply for a ration card online in Karnataka through the AHARA portal. Documents needed, fees, processing time, and how to track your application."
 category: "Food & Ration"
 keywords:
   - "Karnataka ration card"

@@ -1,6 +1,6 @@
 ---
 title: "Vehicle RC Transfer Online — Owner title: "How to Transfer Vehicle RC (Registration Certificate) Online — Owner Transfer, Address Change" Address Change"
-description: "Transfer vehicle RC online in India — ownership transfer, address change, duplicate RC, and NOC for interstate transfer via Vahan portal guide."
+description: "Transfer vehicle RC online in India — ownership transfer, address change, duplicate RC, and interstate NOC via Vahan portal. Step-by-step process."
 category: "Identity Documents"
 keywords:
   - "RC transfer online"

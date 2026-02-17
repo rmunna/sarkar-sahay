@@ -1,6 +1,6 @@
 ---
 title: "How to Register a Company Online in India — MCA Portal Step-by-Step"
-description: "Complete guide to company registration in India via MCA portal. Learn about SPICe+ form, DSC, DIN, name reservation, MOA/AOA, fees, and post-incorporation compliance."
+description: "Register a company in India via MCA portal. Complete guide to SPICe+ form, DSC, DIN, name reservation, MOA/AOA, fees, and post-registration steps."
 category: "Property & Legal"
 keywords:
   - "company registration online India"

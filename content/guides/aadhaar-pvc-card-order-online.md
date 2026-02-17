@@ -1,6 +1,6 @@
 ---
 title: "How to Order Aadhaar PVC Card Online — Plastic Aadhaar Card"
-description: "Step-by-step guide to order Aadhaar PVC card online from UIDAI website. Learn about fees (₹50), delivery time, payment methods, and how to track your plastic Aadhaar card."
+description: "Order your Aadhaar PVC card online from UIDAI for just ₹50. Complete guide with payment methods, delivery timeline, and order tracking steps."
 category: "Identity Documents"
 keywords:
   - "Aadhaar PVC card order"

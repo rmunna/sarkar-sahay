@@ -1,6 +1,6 @@
 ---
 title: "PMEGP Loan — Apply for Employment Generation Scheme"
-description: "Apply for PMEGP loan online — eligibility, subsidy rates (15-35%), documents, project report, and bank sanction steps via kviconline.gov.in."
+description: "Apply for PMEGP loan online — eligibility, subsidy rates (15-35%), documents required, project report, and bank sanction steps on kviconline.gov.in."
 category: "Government Schemes"
 keywords:
   - "PMEGP loan apply"

@@ -1,6 +1,6 @@
 ---
 title: "How to Apply for Ration Card Online in Bihar"
-description: "Apply for a new ration card online in Bihar via serviceonline.bihar.gov.in. Eligibility, documents, fees, processing time, and tracking guide."
+description: "Apply for a new ration card online in Bihar via serviceonline.bihar.gov.in. Know eligibility, documents, fees, processing time, and tracking steps."
 category: "Food & Ration"
 keywords:
   - "Bihar ration card"

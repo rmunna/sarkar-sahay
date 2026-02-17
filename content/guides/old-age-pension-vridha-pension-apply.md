@@ -1,6 +1,6 @@
 ---
 title: "Old Age Pension / Vridha Pension — Apply Online"
-description: "Apply for old age pension (Vridha Pension) online in India. IGNOAPS scheme details, state-wise amounts, eligibility, documents, and status check."
+description: "Apply for old age pension (Vridha Pension) online in India. IGNOAPS scheme, state-wise pension amounts, eligibility, documents, and status check."
 category: "Government Schemes"
 keywords:
   - "old age pension"

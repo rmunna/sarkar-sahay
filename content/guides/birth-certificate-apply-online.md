@@ -1,6 +1,6 @@
 ---
 title: "How to Apply for Birth Certificate Online in India"
-description: "Step-by-step guide to apply for birth certificate online in India through CRS portal. Covers documents required, online & offline process, delayed registration, and FAQs."
+description: "Apply for a birth certificate online in India via CRS portal. Step-by-step process, documents required, delayed registration, and FAQs.
 category: "Certificates"
 keywords:
   - "birth certificate apply online India"

@@ -1,6 +1,6 @@
 ---
 title: "Open Bank Account Online — Savings title: "How to Open Bank Account Online in India — Savings Account, Zero Balance Account" Zero Balance"
-description: "Open a savings bank account online in India. Covers zero balance, Jan Dhan, salary, minor, and NRI accounts with SBI, HDFC, ICICI, and more."
+description: "Open a savings bank account online in India — zero balance, Jan Dhan, salary, minor, and NRI accounts with SBI, HDFC, ICICI, Kotak, and more."
 category: "Tax & Finance"
 keywords:
   - "open bank account online"

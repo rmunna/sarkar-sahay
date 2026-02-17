@@ -1,6 +1,6 @@
 ---
 title: "Pension Benefits Online — Disbursement title: "How to Apply for Pensioners' Benefits Online — Pension Disbursement, Family Pension, Commutation" Family Pension"
-description: "Check pension status on CPAO, Bhavishya, and SPARSH portals. Download pension slip, track PPO, apply for family pension — guide for retirees."
+description: "Check pension status on CPAO, Bhavishya, and SPARSH portals. Download pension slip, track PPO, apply for family pension — complete retiree guide."
 category: "Government Schemes"
 keywords:
   - pension status check

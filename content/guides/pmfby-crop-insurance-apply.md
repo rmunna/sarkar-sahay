@@ -1,6 +1,6 @@
 ---
 title: "PMFBY Crop Insurance — Apply Online"
-description: "Apply for PMFBY crop insurance online. Premium rates, eligibility, documents required, claim process, and application status check on pmfby.gov.in."
+description: "Apply for PMFBY crop insurance online on pmfby.gov.in. Premium rates, eligibility, documents required, claim process, and application status check."
 category: "Government Schemes"
 keywords:
   - "PMFBY apply"
