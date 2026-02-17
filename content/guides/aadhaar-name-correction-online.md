@@ -25,7 +25,7 @@ officialLinks:
   - 'https://bhuvan-app3.nrsc.gov.in/aadhaar/'
 ---
 
-# How to Correct Name in Aadhaar Card Online
+# How to Correct Name in [Aadhaar card](/guide/aadhaar-card-apply-online) Online
 
 Is your name spelled wrong in your Aadhaar card? Or did you change your name after marriage? Don't worry — UIDAI allows you to correct or update your name in Aadhaar both online and offline. This guide covers the complete process, documents needed, fees, and common mistakes to avoid.
 
@@ -160,7 +160,7 @@ After submitting your update request, you can track the status:
 
 1. Go to [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in)
 2. Log in with your Aadhaar number and OTP
-3. Click on **"Check Aadhaar Update Status"**
+3. Click on **"Check Aadhaar [update status](/guide/aadhaar-update-status-check)"**
 4. Enter your **SRN (Service Request Number)** or **URN (Update Request Number)**
 5. The status will show as: **Submitted → Under Review → Accepted/Rejected**
 
@@ -226,3 +226,11 @@ Not necessarily. A **marriage certificate** issued by the registrar is sufficien
 ---
 
 *Last updated: February 2026. Information sourced from [UIDAI official website](https://uidai.gov.in). Always verify the latest process on the official portal before submitting your request.*
+
+---
+
+## You May Also Need
+
+- [Change Address in Aadhaar Online](/guide/aadhaar-address-change-online)
+- [Change Mobile Number in Aadhaar](/guide/change-mobile-number-in-aadhaar-card)
+- [Download e-Aadhaar Card](/guide/download-e-aadhaar-card-online)

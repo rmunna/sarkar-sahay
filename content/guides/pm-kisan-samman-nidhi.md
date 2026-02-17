@@ -45,7 +45,7 @@ Each installment is counted from the first payment of the scheme. As of 2024, th
 - Both small and marginal farmers
 - Land must be in the farmer's name (or spouse's name in some states)
 - Landholding farmers across all states and Union Territories
-- Farmers who own cultivable land as per state/UT land records
+- Farmers who own cultivable land as per state/UT [land records](/guide/land-records-bhulekh-online)
 
 ### NOT Eligible (Exclusion Criteria)
 
@@ -63,7 +63,7 @@ The following categories are **NOT eligible** even if they own farmland:
 
 ## Documents Required
 
-- **Aadhaar Card** (mandatory — payments are Aadhaar-authenticated)
+- **[Aadhaar](/guide/aadhaar-card-apply-online) Card** (mandatory — payments are Aadhaar-authenticated)
 - **Land ownership documents** (Khasra/Khatauni/land records/7/12 extract/Patta)
 - **Bank account details** (account number, IFSC code — must be in the farmer's name)
 - **Mobile number** linked to Aadhaar (for OTP verification)
@@ -253,3 +253,11 @@ A: Yes. If you received money despite being ineligible, you may be asked to retu
 
 **Q: Is there any land size limit for PM Kisan?**
 A: No. Earlier the scheme was only for small and marginal farmers (up to 2 hectares), but since June 2019, all landholding farmer families are eligible regardless of land size.
+
+---
+
+## You May Also Need
+
+- [PM Jan Dhan Yojana](/guide/pm-jan-dhan-yojana)
+- [NREGA Job Card Apply](/guide/nrega-job-card-apply-download)
+- [Rythu Bandhu Telangana](/guide/rythu-bandhu-telangana)

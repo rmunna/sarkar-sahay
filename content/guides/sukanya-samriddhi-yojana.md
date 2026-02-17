@@ -45,11 +45,11 @@ Sukanya Samriddhi Yojana (SSY) is a government-backed savings scheme for the **g
 
 **For the Girl Child:**
 - **Birth Certificate** (mandatory)
-- **Aadhaar Card** (if available)
+- **[Aadhaar](/guide/aadhaar-card-apply-online) Card** (if available)
 
 **For Parent/Guardian:**
 - **Aadhaar Card**
-- **PAN Card** (for deposits above ₹50,000)
+- **[PAN](/guide/pan-card-apply-online) Card** (for deposits above ₹50,000)
 - **Address Proof** (Aadhaar, Voter ID, passport, utility bill)
 - **Passport-size photographs** (of guardian and child)
 
@@ -159,3 +159,11 @@ A: The account becomes inactive. To reactivate, pay ₹50 penalty per year of de
 
 **Q: Can I open SSY account online?**
 A: Some banks (like SBI, ICICI) allow online account opening. Otherwise, visit the bank branch or post office in person.
+
+---
+
+## You May Also Need
+
+- [PM Jan Dhan Yojana](/guide/pm-jan-dhan-yojana)
+- [Senior Citizen Savings Scheme](/guide/senior-citizen-savings-scheme)
+- [Birth Certificate Apply Online](/guide/birth-certificate-apply-online)

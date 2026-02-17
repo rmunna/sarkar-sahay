@@ -38,7 +38,7 @@ The certificate is issued by the **Tehsildar / Sub-Divisional Magistrate (SDM)**
 
 ## Documents Required
 
-- **Aadhaar Card** (mandatory in most states)
+- **[Aadhaar](/guide/aadhaar-card-apply-online) Card** (mandatory in most states)
 - **Self-declaration / Affidavit** on stamp paper declaring income sources (₹10-₹50 stamp paper)
 - **Salary slip** (for salaried individuals — last 3 months)
 - **ITR acknowledgment** (if filed — speeds up verification)
@@ -214,3 +214,11 @@ A: No. You must apply in the state where you have residence proof. If you've mov
 
 **Q: Is income certificate required for government jobs?**
 A: It depends on the job posting. OBC/EWS/SC/ST category candidates often need income certificates for reservation benefits and fee waivers.
+
+---
+
+## You May Also Need
+
+- [Domicile Certificate Online](/guide/domicile-certificate-online)
+- [Ration Card Apply Online](/guide/ration-card-apply-online)
+- [National Scholarship Portal](/guide/national-scholarship-portal-apply)

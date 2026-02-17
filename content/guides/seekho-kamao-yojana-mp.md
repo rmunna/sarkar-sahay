@@ -35,7 +35,7 @@ To apply for Seekho Kamao Yojana, you must meet **all** of the following conditi
 | **Age** | 18 to 29 years |
 | **Education** | Minimum 12th pass (Higher Secondary) |
 | **Employment** | Currently unemployed |
-| **Bank Account** | Active bank account linked with Aadhaar |
+| **Bank Account** | Active bank account linked with [Aadhaar](/guide/aadhaar-card-apply-online) |
 | **Samagra ID** | Valid Samagra ID is mandatory |
 
 ### Additional Notes on Eligibility
@@ -193,3 +193,11 @@ Yes. A **training completion certificate** is issued through the portal, recogni
 ## Summary
 
 Mukhyamantri Seekho Kamao Yojana is an excellent opportunity for unemployed youth in Madhya Pradesh to gain industry-relevant skills while earning a stipend of ₹8,000–₹10,000 per month. With 700+ courses, on-the-job training, and placement support, the scheme bridges the gap between education and employment. Register today on [mmsky.mp.gov.in](https://mmsky.mp.gov.in) to get started.
+
+---
+
+## You May Also Need
+
+- [Ladli Bahna Yojana MP](/guide/ladli-bahna-yojana-mp)
+- [e-Shram Card Registration](/guide/e-shram-card-registration)
+- [National Scholarship Portal](/guide/national-scholarship-portal-apply)

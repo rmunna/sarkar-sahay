@@ -29,7 +29,7 @@ Before Dharani, citizens had to visit multiple offices (MRO, Tahsildar, SRO) for
 
 ### Key Services on Dharani
 
-- **Land records search** — by survey number, Pattadar name, or Aadhaar
+- **Land records search** — by survey number, Pattadar name, or [Aadhaar](/guide/aadhaar-card-apply-online)
 - **Pattadar Passbook** download and verification
 - **Property registration** — sale deeds, gift deeds, mortgage, partition
 - **Mutation / Transfer** of land ownership
@@ -317,3 +317,11 @@ Visit registration.telangana.gov.in or the Dharani portal and click "Encumbrance
 
 ### Q: What should I do if my land is not showing on Dharani?
 Try searching by survey number instead of name, and check for spelling variations in both English and Telugu. Your land may not be digitised yet — visit the Tahsildar office with original documents for correction or data entry.
+
+---
+
+## You May Also Need
+
+- [Land Records Bhulekh Online](/guide/land-records-bhulekh-online)
+- [Property Registration Online](/guide/property-registration-online)
+- [Rythu Bandhu Telangana](/guide/rythu-bandhu-telangana)

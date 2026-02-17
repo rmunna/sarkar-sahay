@@ -37,7 +37,7 @@ You need **one document from each category**:
 
 ### Proof of Identity (any one)
 - Passport
-- PAN Card
+- [PAN card](/guide/pan-card-apply-online)
 - Voter ID
 - Driving License
 - Government Photo ID
@@ -202,3 +202,11 @@ A: No. Only one Aadhaar is issued per person. If a duplicate is detected, UIDAI 
 
 **Q: Is e-Aadhaar valid as an official document?**
 A: Yes, e-Aadhaar downloaded from the UIDAI website is equally valid as the physical Aadhaar card and is accepted everywhere.
+
+---
+
+## You May Also Need
+
+- [Link Aadhaar with PAN Card](/guide/aadhaar-pan-link)
+- [Download e-Aadhaar Card Online](/guide/download-e-aadhaar-card-online)
+- [Change Address in Aadhaar Online](/guide/aadhaar-address-change-online)

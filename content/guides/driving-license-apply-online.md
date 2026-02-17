@@ -44,7 +44,7 @@ Getting a Driving License in India requires TWO steps:
 **Proof of Age (any one):**
 - Birth Certificate
 - Class 10 Marksheet
-- Aadhaar Card
+- [Aadhaar](/guide/aadhaar-card-apply-online) Card
 - Passport
 - PAN Card
 
@@ -190,3 +190,11 @@ A: You can rebook and try again after 7 days. You can attempt multiple times wit
 
 **Q: Is it mandatory to carry physical DL while driving?**
 A: You must carry a valid DL. DigiLocker digital DL is accepted as a valid substitute for the physical card.
+
+---
+
+## You May Also Need
+
+- [Driving License Renewal Online](/guide/driving-license-renewal-online)
+- [Vehicle RC Transfer Online](/guide/vehicle-rc-transfer-online)
+- [FASTag Apply & Recharge](/guide/fastag-apply-recharge-online)

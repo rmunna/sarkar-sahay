@@ -42,7 +42,7 @@ A new electricity connection is a service provided by your local Distribution Co
 ## Documents Required
 
 **For Domestic Connection:**
-- **Aadhaar Card** of applicant
+- **[Aadhaar](/guide/aadhaar-card-apply-online) Card** of applicant
 - **Property ownership proof** (registry, sale deed, allotment letter, property tax receipt)
 - **Address proof** (Aadhaar, Voter ID matching the premises address)
 - **Identity proof** (Aadhaar, PAN, Voter ID)
@@ -167,3 +167,11 @@ A: For a typical 2-3 BHK home with AC: 3-5 kW single phase is usually sufficient
 
 **Q: What if there's no electricity pole near my house?**
 A: The DISCOM will assess during site inspection. If a new pole or transformer is needed, additional charges apply and it may take longer.
+
+---
+
+## You May Also Need
+
+- [Water Connection Apply Online](/guide/water-connection-apply-online)
+- [Property Registration Online](/guide/property-registration-online)
+- [Consumer Complaint Online](/guide/consumer-complaint-online)

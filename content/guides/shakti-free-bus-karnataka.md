@@ -34,7 +34,7 @@ The Shakti scheme is available to **all women** — there is no income limit, ag
 ### Eligibility Criteria
 
 - **Gender:** Women and transgender persons
-- **Residency:** Must be a resident of Karnataka (Aadhaar address in Karnataka)
+- **Residency:** Must be a resident of Karnataka ([Aadhaar](/guide/aadhaar-card-apply-online) address in Karnataka)
 - **Shakti Smart Card:** Must possess a valid Shakti Smart Card issued by the transport corporation
 - **No income limit:** The scheme is universal — available to all women regardless of income
 
@@ -162,3 +162,11 @@ Visit the nearest bus depot with your Aadhaar card to apply for a **duplicate ca
 ---
 
 *Last updated: 16 February 2026. Information is based on the latest available government guidelines. Rules and processes may change — always verify at your nearest bus depot or official website.*
+
+---
+
+## You May Also Need
+
+- [e-Shram Card Registration](/guide/e-shram-card-registration)
+- [Voter ID Card Apply Online](/guide/voter-id-card-apply-online)
+- [Ration Card Apply Online](/guide/ration-card-apply-online)

@@ -55,7 +55,7 @@ PMAY has two components:
 - The beneficiary family should **not own a pucca house** anywhere in India.
 - The beneficiary family includes husband, wife, and unmarried children.
 - **Women ownership:** For EWS and LIG categories, the house must be in the name of a female member of the household, or in joint name. *(This condition is relaxable for MIG categories.)*
-- **Aadhaar number** is mandatory for availing benefits.
+- **[Aadhaar](/guide/aadhaar-card-apply-online) number** is mandatory for availing benefits.
 - The beneficiary should not have availed central assistance under any other government housing scheme.
 
 ### PMAY-Gramin Eligibility
@@ -72,7 +72,7 @@ For PMAY-G, beneficiaries are selected from the **Socio-Economic Caste Census (S
 Keep these documents ready before applying:
 
 1. **Aadhaar Card** (mandatory for all family members)
-2. **Income Certificate** or salary slips
+2. **[income certificate](/guide/income-certificate-online)** or salary slips
 3. **Address Proof** (voter ID, utility bill, etc.)
 4. **Bank Account Details** (linked with Aadhaar)
 5. **Caste Certificate** (if applicable — SC/ST/OBC)
@@ -230,3 +230,11 @@ NRIs are generally **not eligible** for PMAY. The scheme is for Indian residents
 ---
 
 *Last updated: 16 February 2026. Information sourced from official PMAY portals and Ministry of Housing and Urban Affairs guidelines. Subsidy figures and scheme availability may change — always verify on the official website before applying.*
+
+---
+
+## You May Also Need
+
+- [PM Jan Dhan Yojana](/guide/pm-jan-dhan-yojana)
+- [Ration Card Apply Online](/guide/ration-card-apply-online)
+- [Property Registration Online](/guide/property-registration-online)

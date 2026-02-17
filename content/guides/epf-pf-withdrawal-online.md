@@ -88,7 +88,7 @@ You can withdraw your PF entirely online through the EPFO Unified Member Portal.
 ### Prerequisites
 
 - **UAN must be activated**
-- **Aadhaar, PAN, and bank account** must be linked and verified (KYC complete)
+- **[Aadhaar](/guide/aadhaar-card-apply-online), [PAN](/guide/pan-card-apply-online), and bank account** must be linked and verified (KYC complete)
 - **Bank account** must be seeded with UAN (IFSC code required)
 - Your employer must have approved your KYC details
 
@@ -268,3 +268,11 @@ There is no strict limit on the number of advance withdrawals, but each withdraw
 ---
 
 *Last updated: February 2026. Always verify details on the [EPFO official website](https://www.epfindia.gov.in/) as rules may change.*
+
+---
+
+## You May Also Need
+
+- [e-Shram Card Registration](/guide/e-shram-card-registration)
+- [File Income Tax Return](/guide/income-tax-return-file-online)
+- [Jeevan Pramaan Life Certificate](/guide/jeevan-pramaan-life-certificate-online)

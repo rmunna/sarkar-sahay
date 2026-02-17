@@ -23,7 +23,7 @@ officialLinks:
   - 'https://tin.tin.nsdl.com/pantan/StatusTrack.html'
 ---
 
-# How to Correct PAN Card Details Online — Name, Date of Birth, Photo Change
+# How to Correct [PAN card](/guide/pan-card-apply-online) Details Online — Name, Date of Birth, Photo Change
 
 Made a mistake while applying for PAN card? Or did your name change after marriage? Don't worry — you can correct PAN card details online without visiting any office. This guide covers the complete process for correcting name, date of birth, photo, signature, address, and other details on your PAN card.
 
@@ -38,7 +38,7 @@ You may need to correct your PAN card if:
 - **Signature** needs to be updated
 - **Gender** is incorrectly mentioned
 - **Address** has changed or was entered wrong
-- Details on PAN don't match your **Aadhaar or other documents**
+- Details on PAN don't match your **[Aadhaar](/guide/aadhaar-card-apply-online) or other documents**
 
 > **Important:** If your PAN details don't match Aadhaar, your PAN can become inoperative. Get corrections done as soon as possible.
 
@@ -269,3 +269,11 @@ During the application process, you can choose **"e-PAN"** as the delivery optio
 ### Q8: My name on PAN and Aadhaar are different. Which should I correct?
 
 It depends on which document has the **correct name as per official records**. Most people find it easier to correct the PAN card to match Aadhaar, since Aadhaar is linked to biometrics and harder to change.
+
+---
+
+## You May Also Need
+
+- [Download e-PAN Card](/guide/download-e-pan-card-online)
+- [Link Aadhaar with PAN](/guide/aadhaar-pan-link)
+- [File Income Tax Return](/guide/income-tax-return-file-online)

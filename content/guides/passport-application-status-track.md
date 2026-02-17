@@ -23,7 +23,7 @@ officialLinks:
     https://www.indiapost.gov.in/_layouts/15/dop.portal.tracking/trackconsignment.aspx
 ---
 
-# How to Track Passport Application Status Online
+# How to Track [passport](/guide/passport-apply-online) Application Status Online
 
 After submitting your passport application, the wait can feel long. Tracking your application status helps you stay informed about where your file is — whether it's under review, at police verification, or ready for dispatch.
 
@@ -233,3 +233,11 @@ If you applied under the normal category, you cannot switch to Tatkal midway. Ho
 ### Q7: Can I track someone else's passport application?
 
 **Yes.** You only need their **File Number** and **Date of Birth** to track the status on the Passport Seva Portal or app. No login is required for tracking.
+
+---
+
+## You May Also Need
+
+- [Passport Renewal Online](/guide/passport-renewal-online-india)
+- [Passport Apply Online](/guide/passport-apply-online)
+- [DigiLocker Guide](/guide/digilocker-guide)

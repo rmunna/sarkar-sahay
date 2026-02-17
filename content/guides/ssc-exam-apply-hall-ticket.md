@@ -94,7 +94,7 @@ Enter your **Registration ID / Roll Number** and **Date of Birth** (or password)
 - **Verify all details** (name, photo, exam center, date, time)
 
 ### Step 5: Carry to Exam
-Bring the printed admit card + **original photo ID** (Aadhaar, Voter ID, Passport, DL) to the exam center.
+Bring the printed admit card + **original photo ID** ([Aadhaar](/guide/aadhaar-card-apply-online), Voter ID, Passport, DL) to the exam center.
 
 ## How to Check Results
 
@@ -172,3 +172,11 @@ A: Typically 2-3 months after the exam, but delays are common. Check ssc.gov.in 
 
 **Q: Can I apply for multiple SSC exams simultaneously?**
 A: Yes. You can apply for any SSC exam you're eligible for. Use the same Registration ID.
+
+---
+
+## You May Also Need
+
+- [Government Jobs Apply Online](/guide/government-jobs-apply-online)
+- [Board Exam Results Check](/guide/board-exam-results-check-download)
+- [Caste Certificate Online](/guide/caste-certificate-online)

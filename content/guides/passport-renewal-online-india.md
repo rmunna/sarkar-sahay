@@ -36,7 +36,7 @@ You should apply for passport renewal in any of these situations:
 | Document | Details |
 |----------|---------|
 | **Old Passport** (original + photocopy) | First and last page, and all stamped pages |
-| **Aadhaar Card** | For address proof and identity |
+| **[Aadhaar](/guide/aadhaar-card-apply-online) Card** | For address proof and identity |
 | **Self-declaration** | Annexure D (if name/address changed) |
 
 ### Additional Documents (if applicable)
@@ -235,3 +235,11 @@ There is **no difference** — "renewal" is the common term, but officially the 
 ### Q8: What if I lost my passport? Can I still renew?
 
 **Yes**, but you'll need to file an **FIR** at your local police station first. Submit the FIR copy along with your re-issue application. Police verification will be mandatory.
+
+---
+
+## You May Also Need
+
+- [Passport Apply Online](/guide/passport-apply-online)
+- [Track Passport Application Status](/guide/passport-application-status-track)
+- [DigiLocker Guide](/guide/digilocker-guide)

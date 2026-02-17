@@ -48,7 +48,7 @@ NSP is a centralized digital platform launched by the Ministry of Electronics & 
 
 Key features:
 - Single application for multiple scholarships
-- Aadhaar-based verification and face authentication
+- [Aadhaar](/guide/aadhaar-card-apply-online)-based verification and face authentication
 - Direct Benefit Transfer (DBT) — money goes straight to your bank account
 - One Time Registration (OTR) number valid for your entire academic career
 - Services also available at Common Service Centres (CSCs) for ₹30
@@ -105,7 +105,7 @@ Keep these documents ready before starting your application:
 
 1. **Aadhaar Card** (mandatory for OTR generation)
 2. **Bank Passbook** (front page with account number, IFSC, and name — account must be Aadhaar-seeded)
-3. **Income Certificate** (issued by Tehsildar/SDM, usually valid for 1 year)
+3. **[income certificate](/guide/income-certificate-online)** (issued by Tehsildar/SDM, usually valid for 1 year)
 4. **Caste/Community Certificate** (SC/ST/OBC/Minority certificate from competent authority)
 5. **Domicile Certificate** (for state-specific scholarships)
 6. **Previous Year Marksheet** (Class 10/12/last semester)
@@ -309,3 +309,10 @@ Apply early, keep your documents ready, and follow up with your institute. Schol
 ---
 
 *For the latest updates, always visit the official portal: [scholarships.gov.in](https://scholarships.gov.in)*
+
+---
+
+## You May Also Need
+
+- [Domicile Certificate Online](/guide/domicile-certificate-online)
+- [Board Exam Results Check](/guide/board-exam-results-check-download)

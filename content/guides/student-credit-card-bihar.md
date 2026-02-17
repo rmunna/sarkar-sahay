@@ -91,10 +91,10 @@ The loan covers a wide range of higher education programmes including:
 Keep the following documents ready before applying:
 
 ### Mandatory Documents
-1. **Aadhaar Card** of applicant
+1. **[Aadhaar](/guide/aadhaar-card-apply-online) Card** of applicant
 2. **10th & 12th marksheets and certificates**
 3. **Admission proof** — Fee receipt or admission letter from the institution
-4. **Income certificate** of parents/guardian (issued by competent authority)
+4. **[income certificate](/guide/income-certificate-online)** of parents/guardian (issued by competent authority)
 5. **Residence certificate** (Bihar domicile proof)
 6. **PAN Card** of applicant and co-borrower (parent/guardian)
 7. **Bank account details** (Aadhaar-linked bank account)
@@ -181,3 +181,11 @@ Yes. The institution can be in any state of India, as long as it is recognized b
 
 ### What happens if I drop out of the course?
 The loan disbursement stops, and you will need to repay the already disbursed amount as per the repayment terms.
+
+---
+
+## You May Also Need
+
+- [Mukhyamantri Kanya Utthan Yojana Bihar](/guide/mukhyamantri-kanya-utthan-yojana-bihar)
+- [National Scholarship Portal](/guide/national-scholarship-portal-apply)
+- [CIBIL Score Check & Improve](/guide/cibil-score-check-improve)

@@ -156,7 +156,7 @@ For minor offences, the police register an **NC report** instead of an FIR. You 
 
 Keep these ready when filing an FIR:
 
-- **Aadhaar card or any government ID** (for identity verification)
+- **[Aadhaar](/guide/aadhaar-card-apply-online) card or any government ID** (for identity verification)
 - **Written complaint** (in Hindi or English, with clear facts)
 - **Evidence:**
   - Photos or videos of the incident
@@ -257,3 +257,11 @@ You cannot directly "withdraw" an FIR. For compoundable offences, both parties c
 ---
 
 *This guide is for informational purposes. For legal advice specific to your situation, consult a lawyer. Laws referenced include the Indian Penal Code (IPC), Bharatiya Nyaya Sanhita (BNS), Code of Criminal Procedure (CrPC), and Bharatiya Nagarik Suraksha Sanhita (BNSS).*
+
+---
+
+## You May Also Need
+
+- [Consumer Complaint Online](/guide/consumer-complaint-online)
+- [RTI Online Application](/guide/rti-online-application)
+- [Lost Documents Replacement Guide](/guide/lost-documents-replacement-guide)

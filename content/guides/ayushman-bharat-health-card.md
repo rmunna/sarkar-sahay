@@ -65,7 +65,7 @@ Eligibility is based on **SECC 2011** (Socio-Economic Caste Census) data:
 Call **14555** (toll-free) — Check eligibility over phone
 
 ### Method 3: Visit CSC
-Go to nearest **Common Service Center** with Aadhaar card
+Go to nearest **Common Service Center** with [Aadhaar](/guide/aadhaar-card-apply-online) card
 
 ## How to Get Ayushman Bharat Health Card
 
@@ -78,7 +78,7 @@ Go to nearest **Common Service Center** with Aadhaar card
 
 ### Step 3: Carry Documents
 - **Aadhaar Card** (mandatory)
-- **Ration Card** (if available)
+- **[ration card](/guide/ration-card-apply-online)** (if available)
 - **SECC/RSBY card** (if available)
 
 ### Step 4: e-KYC Verification
@@ -170,3 +170,10 @@ A: Yes. The scheme has been expanded to cover all senior citizens aged 70 and ab
 
 **Q: What if the hospital refuses to provide cashless treatment?**
 A: Call the PMJAY helpline 14555 immediately. Hospitals empaneled under PMJAY cannot deny treatment to eligible beneficiaries.
+
+---
+
+## You May Also Need
+
+- [Disability Certificate & UDID Card](/guide/disability-certificate-udid-card)
+- [PM Jan Dhan Yojana](/guide/pm-jan-dhan-yojana)

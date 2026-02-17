@@ -20,8 +20,8 @@ Under Rythu Bandhu, every farmer who owns agricultural land in Telangana receive
 To receive Rythu Bandhu benefits, you must meet **all** of the following conditions:
 
 - **Own agricultural land** in Telangana state
-- Land must be **registered in your name** in the state land records (Dharani portal)
-- Must have an **Aadhaar-linked bank account**
+- Land must be **registered in your name** in the state [land records](/guide/land-records-bhulekh-online) (Dharani portal)
+- Must have an **[Aadhaar](/guide/aadhaar-card-apply-online)-linked bank account**
 - Land records must be **updated and free of disputes**
 - Both **individual and joint landowners** are eligible (proportional to ownership)
 
@@ -143,3 +143,10 @@ Update your Aadhaar-linked bank account through your bank, then visit the AEO of
 ### 7. Is Rythu Bandhu taxable?
 
 The Rythu Bandhu amount is considered **agricultural income** and is generally **exempt from income tax** under Section 10(1) of the Income Tax Act, as it is support for agricultural operations.
+
+---
+
+## You May Also Need
+
+- [PM Kisan Samman Nidhi](/guide/pm-kisan-samman-nidhi)
+- [Dharani Portal Telangana](/guide/dharani-portal-telangana-land-records)

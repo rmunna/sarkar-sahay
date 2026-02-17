@@ -96,8 +96,8 @@ Keep these documents ready before starting the application:
 
 ### For Proprietorship
 
-1. **PAN card** of the proprietor
-2. **Aadhaar card** of the proprietor
+1. **[PAN card](/guide/pan-card-apply-online)** of the proprietor
+2. **[Aadhaar](/guide/aadhaar-card-apply-online) card** of the proprietor
 3. **Photograph** (passport size, JPEG format, max 100 KB)
 4. **Business address proof:**
    - Owned property — Electricity bill / property tax receipt / municipal khata copy
@@ -305,3 +305,11 @@ Check the reason for rejection in the order/notice received. Correct the issues 
 ### 7. Do I need a Digital Signature Certificate (DSC)?
 
 DSC is **mandatory** for companies and LLPs. Proprietors and partnerships can use EVC (OTP-based) or E-Sign instead.
+
+---
+
+## You May Also Need
+
+- [Udyam MSME Registration](/guide/udyam-msme-registration-online)
+- [File Income Tax Return](/guide/income-tax-return-file-online)
+- [Mudra Loan Apply Online](/guide/mudra-loan-apply-online)

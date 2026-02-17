@@ -26,7 +26,7 @@ officialLinks:
 
 # How to Renew Driving License Online in India
 
-Your driving licence (DL) in India has a validity period, after which you must renew it to continue driving legally. The good news is that the entire process can now be started online through the **Sarathi Parivahan portal** — saving you multiple trips to the RTO.
+Your [driving licence](/guide/driving-license-apply-online) (DL) in India has a validity period, after which you must renew it to continue driving legally. The good news is that the entire process can now be started online through the **Sarathi Parivahan portal** — saving you multiple trips to the RTO.
 
 This guide covers the complete DL renewal process, fees, documents, and how to get your digital driving licence.
 
@@ -58,7 +58,7 @@ The validity of a driving licence depends on the type:
 Keep the following documents ready before starting the online application:
 
 1. **Original Driving Licence** (or a copy of the old DL number)
-2. **Proof of Address** — Aadhaar card, passport, utility bill, or voter ID
+2. **Proof of Address** — [Aadhaar](/guide/aadhaar-card-apply-online) card, passport, utility bill, or voter ID
 3. **Passport-size photographs** (recent)
 4. **Medical Certificate (Form 1-A)** — required in certain cases (see section below)
 5. **Self-declaration in Form 1** (health declaration, if medical certificate is not needed)
@@ -245,3 +245,10 @@ Yes, you can apply for renewal at the RTO of your current residence, even if you
 ### 7. Do I need to take a driving test for DL renewal?
 
 No driving test is required for routine renewals. A driving test is only required if your DL has been expired for **more than 5 years** or if the RTO has specific reasons to assess your driving ability.
+
+---
+
+## You May Also Need
+
+- [Vehicle RC Transfer Online](/guide/vehicle-rc-transfer-online)
+- [FASTag Apply & Recharge](/guide/fastag-apply-recharge-online)

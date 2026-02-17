@@ -29,7 +29,7 @@ A Voter ID Card (also called EPIC — Electors Photo Identity Card) is an identi
 - Birth Certificate
 - Class 10 Marksheet
 - Passport
-- Aadhaar Card
+- [Aadhaar](/guide/aadhaar-card-apply-online) Card
 - PAN Card
 
 **Proof of Address (any one):**
@@ -151,3 +151,11 @@ A: No. You can only be registered as a voter in one constituency. If you move, f
 
 **Q: What if I lost my Voter ID card?**
 A: Download e-EPIC from voters.eci.gov.in. For physical card reprint, apply through the NVSP portal or contact your local ERO office.
+
+---
+
+## You May Also Need
+
+- [Voter ID Correction Online](/guide/voter-id-correction-online)
+- [DigiLocker Guide](/guide/digilocker-guide)
+- [Change Address in Aadhaar](/guide/aadhaar-address-change-online)

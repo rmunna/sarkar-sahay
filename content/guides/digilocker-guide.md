@@ -36,7 +36,7 @@ This guide covers everything: creating your account, fetching documents, sharing
 
 ## What is DigiLocker?
 
-DigiLocker is a free cloud-based platform launched by the **Ministry of Electronics and Information Technology (MeitY)**, Government of India. It works as a **digital document wallet** linked to your Aadhaar number.
+DigiLocker is a free cloud-based platform launched by the **Ministry of Electronics and Information Technology (MeitY)**, Government of India. It works as a **digital document wallet** linked to your [Aadhaar](/guide/aadhaar-card-apply-online) number.
 
 **Key features:**
 - Store government-issued documents (Aadhaar, PAN, driving license, etc.)
@@ -102,7 +102,7 @@ DigiLocker connects with **2,300+ issuing organisations**. Here are the most com
 
 ### Identity Documents
 - **Aadhaar Card** — UIDAI
-- **PAN Card** — Income Tax Department
+- **[PAN card](/guide/pan-card-apply-online)** — Income Tax Department
 - **Voter ID (EPIC)** — Election Commission of India
 
 ### Transport Documents
@@ -330,3 +330,10 @@ DigiLocker is one of the most useful government digital services in India. Here'
 | **Documents** | 2,300+ issuers |
 
 Start using DigiLocker today — it takes less than 5 minutes to set up, and you'll never need to hunt for a photocopy again.
+
+---
+
+## You May Also Need
+
+- [Download e-Aadhaar Card](/guide/download-e-aadhaar-card-online)
+- [Download e-PAN Card](/guide/download-e-pan-card-online)

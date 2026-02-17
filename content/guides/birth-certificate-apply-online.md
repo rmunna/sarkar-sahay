@@ -38,7 +38,7 @@ In India, birth registration is governed by the **Registration of Births and Dea
 A birth certificate is required for many important purposes:
 
 - **School admission** — Most schools require it as proof of age
-- **Aadhaar card enrolment** — Needed for children below 5 years
+- **[Aadhaar](/guide/aadhaar-card-apply-online) card enrolment** — Needed for children below 5 years
 - **Passport application** — Accepted as proof of date of birth and nationality
 - **Government schemes** — Many welfare schemes require birth proof
 - **Domicile certificate** — Birth certificate serves as supporting document
@@ -131,7 +131,7 @@ File format is usually **PDF or JPEG**, and size limit is typically **200 KB to 
 - Go to **"My Applications"** or **"Print Certificate"**
 - Download and print your **digitally signed birth certificate**
 
-> **Tip:** Many states also allow birth registration and certificate download through their own state portals and the **DigiLocker** platform.
+> **Tip:** Many states also allow birth registration and certificate download through their own state portals and the **[DigiLocker](/guide/digilocker-guide)** platform.
 
 ## How to Apply for Birth Certificate Offline
 
@@ -224,3 +224,11 @@ Yes. The process is the same. The birth must be registered at the place where it
 ---
 
 *This guide is for informational purposes. Rules and fees may vary by state. Always verify with your local municipal body or the official CRS portal at [crsorgi.gov.in](https://crsorgi.gov.in) for the latest information.*
+
+---
+
+## You May Also Need
+
+- [Death Certificate Apply Online](/guide/death-certificate-apply-online)
+- [Marriage Certificate Apply Online](/guide/marriage-certificate-apply-online)
+- [Passport Apply Online](/guide/passport-apply-online)

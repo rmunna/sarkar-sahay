@@ -21,7 +21,7 @@ officialLinks:
   - "http://emutation.bihar.gov.in"
 ---
 
-# Bihar Bhumi Jankari — Check Land Records, Khata & Khesra Online (2026)
+# Bihar Bhumi Jankari — Check [land records](/guide/land-records-bhulekh-online), Khata & Khesra Online (2026)
 
 Bihar's land record system has been digitised under the **Bhumi Jankari** portal. Citizens can now view Khata (खाता), Khesra (खेसरा), Jamabandi (जमाबंदी), land maps, and mutation status online — without visiting the Circle Office.
 
@@ -258,3 +258,11 @@ Yes. The portal is accessible from anywhere. For mutation or certified copies, a
 ---
 
 *Last updated: February 16, 2026. Information is based on official Bihar Revenue & Land Reforms Department portals. Portal interfaces may change — always verify on the official website.*
+
+---
+
+## You May Also Need
+
+- [Property Registration Online](/guide/property-registration-online)
+- [Dharani Portal Telangana Land Records](/guide/dharani-portal-telangana-land-records)
+- [Mukhyamantri Kanya Utthan Yojana Bihar](/guide/mukhyamantri-kanya-utthan-yojana-bihar)

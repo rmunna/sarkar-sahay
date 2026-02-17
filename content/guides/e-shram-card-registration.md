@@ -100,7 +100,7 @@ You can register on e-Shram if you meet **all** these conditions:
 1. **Age:** You are between **16 to 59 years** old
 2. **Unorganized worker:** You are not in formal/organized employment
 3. **Not a member of:** EPFO (Employees' Provident Fund Organisation), ESIC (Employees' State Insurance Corporation), or NPS (National Pension System — government version)
-4. **Indian citizen** with a valid Aadhaar number
+4. **Indian citizen** with a valid [Aadhaar](/guide/aadhaar-card-apply-online) number
 
 ---
 
@@ -116,7 +116,7 @@ You need only a few things to register:
 > **Important:** Your mobile number must be linked to your Aadhaar. If it is not linked, visit your nearest Aadhaar centre first.
 
 **Optional documents** (not required but helpful):
-- Ration card
+- [ration card](/guide/ration-card-apply-online)
 - Income certificate
 - Disability certificate (if applicable)
 
@@ -321,3 +321,11 @@ No problem. You can download it again anytime from the e-Shram portal using your
 ---
 
 *This guide was last updated on 16 February 2026. For the latest information, always check the official portal at [eshram.gov.in](https://eshram.gov.in).*
+
+---
+
+## You May Also Need
+
+- [PM Jan Dhan Yojana](/guide/pm-jan-dhan-yojana)
+- [NREGA Job Card Apply](/guide/nrega-job-card-apply-download)
+- [PM Awas Yojana Apply](/guide/pm-awas-yojana-apply)

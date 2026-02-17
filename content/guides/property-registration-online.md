@@ -40,7 +40,7 @@ Property registration is the legal process of recording the transfer of property
 **For Sale Deed Registration:**
 
 - **Original Sale Deed** (drafted by lawyer, printed on stamp paper)
-- **Identity proof** of buyer and seller (Aadhaar, PAN, Passport)
+- **Identity proof** of buyer and seller ([Aadhaar](/guide/aadhaar-card-apply-online), PAN, Passport)
 - **Address proof** of both parties
 - **Property documents:**
   - Previous sale deed / title deed
@@ -182,3 +182,11 @@ A: Mutation is updating the revenue/municipal records to reflect the new owner's
 
 **Q: What is TDS on property purchase?**
 A: If property value exceeds ₹50 lakh, the buyer must deduct 1% TDS and deposit it using Form 26QB on the income tax portal within 30 days.
+
+---
+
+## You May Also Need
+
+- [Land Records Bhulekh Online](/guide/land-records-bhulekh-online)
+- [Electricity Connection Apply Online](/guide/electricity-connection-apply-online)
+- [Water Connection Apply Online](/guide/water-connection-apply-online)

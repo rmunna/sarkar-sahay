@@ -24,7 +24,7 @@ A death certificate is required for many important purposes:
 - **Pension settlement** — To claim family pension or settle pending pension dues
 - **Bank account closure** — Banks need it to close accounts or release funds to nominees
 - **Succession certificate** — Courts require it for issuing succession or legal heir certificates
-- **Aadhaar deactivation** — To deactivate the Aadhaar number of the deceased
+- **[Aadhaar](/guide/aadhaar-card-apply-online) deactivation** — To deactivate the Aadhaar number of the deceased
 - **Passport cancellation** — To cancel the passport of the deceased
 - **Voter ID removal** — To remove the deceased's name from the electoral roll
 - **Government scheme settlements** — PF, gratuity, and other benefits
@@ -222,3 +222,11 @@ You can apply for a **duplicate copy** from the same Registrar who issued the or
 
 ### Q7: Is death registration mandatory in India?
 Yes. Under the **RBD Act, 1969**, registration of every death is **compulsory**. Failure to register may attract a penalty, and the family will face difficulties in legal and financial matters.
+
+---
+
+## You May Also Need
+
+- [Birth Certificate Apply Online](/guide/birth-certificate-apply-online)
+- [Marriage Certificate Apply Online](/guide/marriage-certificate-apply-online)
+- [Widow Pension Apply](/guide/widow-pension-vidhwa-pension-apply)

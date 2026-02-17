@@ -103,7 +103,7 @@ You need an IRCTC account to book train tickets online. Registration is free.
 5. You will receive an **OTP on your mobile and email** — verify both
 6. Your IRCTC account is now active
 
-> **Important:** You must use your **real name** matching your government ID (Aadhaar, PAN, etc.) because it will appear on the ticket.
+> **Important:** You must use your **real name** matching your government ID ([Aadhaar](/guide/aadhaar-card-apply-online), PAN, etc.) because it will appear on the ticket.
 
 ---
 
@@ -322,3 +322,10 @@ You can book train tickets **120 days (4 months) in advance**, excluding the dat
 | Cancel ticket & refund | [irctc.co.in](https://www.irctc.co.in) → My Transactions |
 | File railway complaint | [railmadad.indianrailways.gov.in](https://railmadad.indianrailways.gov.in) |
 | Railway helpline | Dial **139** |
+
+---
+
+## You May Also Need
+
+- [Passport Apply Online](/guide/passport-apply-online)
+- [DigiLocker Guide](/guide/digilocker-guide)

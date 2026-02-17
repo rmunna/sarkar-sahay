@@ -55,7 +55,7 @@ Most water boards in India offer these types of connections:
 
 While exact requirements vary by city, you will generally need:
 
-1. **Identity Proof** — Aadhaar Card, Voter ID, or Passport
+1. **Identity Proof** — [Aadhaar](/guide/aadhaar-card-apply-online) Card, Voter ID, or Passport
 2. **Address Proof** — Aadhaar, Electricity Bill, or Ration Card
 3. **Property Ownership Proof** — Sale Deed, Registry, or Allotment Letter
 4. **Building Plan Approval** — Sanctioned building plan from the local municipal body
@@ -298,3 +298,11 @@ Under the **Jal Jeevan Mission**, rural households can get free or subsidised pi
 ---
 
 *Last updated: February 2026. Always verify details on the official water board portal of your city before applying.*
+
+---
+
+## You May Also Need
+
+- [Electricity Connection Apply Online](/guide/electricity-connection-apply-online)
+- [Property Registration Online](/guide/property-registration-online)
+- [Consumer Complaint Online](/guide/consumer-complaint-online)

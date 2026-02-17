@@ -33,7 +33,7 @@ A Domicile Certificate (Nivas Praman Patra / Residential Certificate) is an offi
 
 ## Documents Required
 
-- **Aadhaar Card**
+- **[Aadhaar](/guide/aadhaar-card-apply-online) Card**
 - **Birth Certificate** (proves place of birth)
 - **Class 10 / 12 Marksheet** (if school was in the state)
 - **Proof of Address** (Voter ID, ration card, utility bill, property documents)
@@ -157,3 +157,11 @@ A: They are often the same document. Some states use "domicile" and others use "
 
 **Q: Do I need domicile certificate for central government jobs?**
 A: Generally no. Domicile is primarily needed for state government jobs and state-quota admissions. Some central posts in specific regions may require it.
+
+---
+
+## You May Also Need
+
+- [Income Certificate Online](/guide/income-certificate-online)
+- [Birth Certificate Apply Online](/guide/birth-certificate-apply-online)
+- [National Scholarship Portal](/guide/national-scholarship-portal-apply)

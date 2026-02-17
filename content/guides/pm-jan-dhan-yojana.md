@@ -35,7 +35,7 @@ Pradhan Mantri Jan Dhan Yojana (PMJDY) is a national financial inclusion mission
 
 ### Full KYC Account (Recommended)
 **Any one of the following:**
-- Aadhaar Card (preferred — enables instant account opening)
+- [Aadhaar](/guide/aadhaar-card-apply-online) Card (preferred — enables instant account opening)
 - Voter ID
 - Driving License
 - PAN Card
@@ -158,3 +158,11 @@ A: Children above 10 years can open the account independently. Below 10, a guard
 
 **Q: What if I lose my RuPay card?**
 A: Report immediately to your bank branch or call the bank's customer care. A replacement card will be issued (may have a small fee).
+
+---
+
+## You May Also Need
+
+- [PM Kisan Samman Nidhi](/guide/pm-kisan-samman-nidhi)
+- [e-Shram Card Registration](/guide/e-shram-card-registration)
+- [Sukanya Samriddhi Yojana](/guide/sukanya-samriddhi-yojana)

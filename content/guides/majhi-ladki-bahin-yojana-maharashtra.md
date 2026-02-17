@@ -36,7 +36,7 @@ Majhi Ladki Bahin Yojana (meaning "My Dear Sister" in Marathi) is a **Direct Ben
 - **Monthly benefit:** ₹1,500 transferred directly to your bank account
 - **Annual benefit:** ₹18,000 per year
 - **Who can apply:** Women aged 21–65 from economically weaker families in Maharashtra
-- **Payment mode:** Direct Bank Transfer (DBT) linked to Aadhaar
+- **Payment mode:** Direct Bank Transfer (DBT) linked to [Aadhaar](/guide/aadhaar-card-apply-online)
 - **Launched:** 2024 by the Maharashtra state government
 
 The scheme is managed by the **Women and Child Development Department, Government of Maharashtra**.
@@ -208,3 +208,11 @@ It depends. If you are receiving **less than ₹1,500 per month** from another s
 ---
 
 *Last updated: February 2026. Information is based on official Maharashtra government announcements. Scheme details may change — always verify on the official portal before applying.*
+
+---
+
+## You May Also Need
+
+- [Ladli Bahna Yojana MP](/guide/ladli-bahna-yojana-mp)
+- [PM Jan Dhan Yojana](/guide/pm-jan-dhan-yojana)
+- [Ration Card Apply Online](/guide/ration-card-apply-online)

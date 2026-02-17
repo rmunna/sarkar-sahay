@@ -33,7 +33,7 @@ A Caste Certificate (Jati Praman Patra) is an official document issued by the st
 
 ## Documents Required
 
-- **Aadhaar Card**
+- **[Aadhaar](/guide/aadhaar-card-apply-online) Card**
 - **Proof of Address** (Voter ID, ration card, utility bill)
 - **Father's/Family's Caste Certificate** (if available — makes process faster)
 - **Affidavit/Self-Declaration** (on stamp paper)
@@ -143,3 +143,11 @@ A: State certificates are valid within the state. For central government jobs an
 
 **Q: Can I get OBC certificate if my family income is above ₹8 lakh?**
 A: You can get an OBC certificate, but it won't include the "non-creamy layer" clause. Without non-creamy layer, you cannot avail central government reservations.
+
+---
+
+## You May Also Need
+
+- [Domicile Certificate Online](/guide/domicile-certificate-online)
+- [National Scholarship Portal](/guide/national-scholarship-portal-apply)
+- [Government Jobs Apply Online](/guide/government-jobs-apply-online)

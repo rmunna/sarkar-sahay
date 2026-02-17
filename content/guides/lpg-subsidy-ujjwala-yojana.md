@@ -59,12 +59,12 @@ You can apply if the **adult woman** in your household belongs to any of these c
 6. **Most Backward Classes (MBC)**
 7. **Tea and ex-tea garden tribes**
 8. **People living in islands and river islands**
-9. **PMUY 2.0 addition:** Migrant workers and families not covered above — **no address proof or ration card needed** (self-declaration accepted)
+9. **PMUY 2.0 addition:** Migrant workers and families not covered above — **no address proof or [ration card](/guide/ration-card-apply-online) needed** (self-declaration accepted)
 
 **Important conditions:**
 - The applicant must be a woman aged 18 years or above
 - No one in the household should already have an LPG connection
-- Aadhaar card is mandatory
+- [Aadhaar](/guide/aadhaar-card-apply-online) card is mandatory
 
 ### How to Apply for Ujjwala Yojana (Online + Offline)
 
@@ -294,3 +294,10 @@ The first refill is **free**. After that, you pay the same market price as other
 ---
 
 *Last updated: February 2026. Information is based on official government sources. Scheme details may change — always verify with your nearest LPG distributor or the official PMUY website.*
+
+---
+
+## You May Also Need
+
+- [PM Jan Dhan Yojana](/guide/pm-jan-dhan-yojana)
+- [PM Awas Yojana Apply](/guide/pm-awas-yojana-apply)

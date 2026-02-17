@@ -358,3 +358,11 @@ This is why most states now have online portals for land records — it's all pa
 Checking land records online in India is now simple and free. Whether you need a **Khasra Khatauni in UP**, a **7/12 extract in Maharashtra**, or an **RTC in Karnataka** — all major states have dedicated portals. Always verify land records before buying property, and get a **certified copy** for legal purposes.
 
 If you found this guide helpful, share it with someone who might need it!
+
+---
+
+## You May Also Need
+
+- [Property Registration Online](/guide/property-registration-online)
+- [Dharani Portal Telangana](/guide/dharani-portal-telangana-land-records)
+- [Bhumi Jankari Bihar Land Records](/guide/bhumi-jankari-land-records-bihar)

@@ -122,7 +122,7 @@ You are eligible if you meet **all** these conditions:
 
 Keep these documents ready before applying:
 
-1. **Aadhaar Card** (mandatory — must be linked to mobile number)
+1. **[Aadhaar](/guide/aadhaar-card-apply-online) Card** (mandatory — must be linked to mobile number)
 2. **Bank Account Details** (account number, IFSC code)
 3. **Mobile Number** (linked to Aadhaar for OTP verification)
 4. **Ration Card** (if available)
@@ -259,3 +259,11 @@ After registration, verification takes about **15-30 days**. Skill training may 
 ---
 
 *Last updated: 16 February 2026. Information sourced from pmvishwakarma.gov.in. Always check the official portal for the latest updates.*
+
+---
+
+## You May Also Need
+
+- [Mudra Loan Apply Online](/guide/mudra-loan-apply-online)
+- [Udyam MSME Registration](/guide/udyam-msme-registration-online)
+- [e-Shram Card Registration](/guide/e-shram-card-registration)

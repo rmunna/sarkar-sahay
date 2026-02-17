@@ -69,7 +69,7 @@ The scheme aims to improve the financial independence of women from lower and mi
 
 Keep these documents ready before applying:
 
-1. **Aadhaar Card** — linked to your mobile number
+1. **[Aadhaar](/guide/aadhaar-card-apply-online) Card** — linked to your mobile number
 2. **Samagra ID** (समग्र आईडी) — this is mandatory; get it from [samagra.gov.in](https://samagra.gov.in)
 3. **Bank account passbook** — account must be linked to Aadhaar (DBT-enabled)
 4. **Passport-size photograph** — recent
@@ -210,3 +210,11 @@ Your benefits will **stop** once you cross the age of 60. You may then be eligib
 ---
 
 *Last updated: February 2026. Information is based on official MP government sources. Visit [cmladlibahna.mp.gov.in](https://cmladlibahna.mp.gov.in) for the latest updates.*
+
+---
+
+## You May Also Need
+
+- [Seekho Kamao Yojana MP](/guide/seekho-kamao-yojana-mp)
+- [Majhi Ladki Bahin Yojana Maharashtra](/guide/majhi-ladki-bahin-yojana-maharashtra)
+- [PM Jan Dhan Yojana](/guide/pm-jan-dhan-yojana)

@@ -24,7 +24,7 @@ officialLinks:
 
 The **Unique Disability ID (UDID) Card** is a government-issued identity document for persons with disabilities in India. It is issued by the **Department of Empowerment of Persons with Disabilities (DEPwD)**, Ministry of Social Justice and Empowerment.
 
-The UDID card **replaces the old disability certificates** issued by different states with a single, nationally recognised card. It contains a unique 18-digit ID number linked to your Aadhaar, making it easier to access government benefits across India.
+The UDID card **replaces the old disability certificates** issued by different states with a single, nationally recognised card. It contains a unique 18-digit ID number linked to your [Aadhaar](/guide/aadhaar-card-apply-online), making it easier to access government benefits across India.
 
 > **Important:** The UDID card serves as both your disability certificate and your identity proof for accessing all disability-related government schemes and benefits.
 
@@ -286,3 +286,11 @@ If the disability is permanent, the card is valid for life. For temporary or pro
 
 **Q: Can I apply offline?**
 Yes, you can also apply through your nearest **District Disability Rehabilitation Centre (DDRC)** or government hospital. They will help you fill the online form.
+
+---
+
+## You May Also Need
+
+- [Ayushman Bharat Health Card](/guide/ayushman-bharat-health-card)
+- [e-Shram Card Registration](/guide/e-shram-card-registration)
+- [Pension Schemes Online](/guide/widow-pension-vidhwa-pension-apply)

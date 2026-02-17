@@ -96,7 +96,7 @@ The exact documents vary by bank and loan category. Here is the general list:
 
 ### For All Categories
 
-- **Identity proof:** Aadhaar card, Voter ID, PAN card, Passport, or Driving License
+- **Identity proof:** [Aadhaar](/guide/aadhaar-card-apply-online) card, Voter ID, [PAN card](/guide/pan-card-apply-online), Passport, or Driving License
 - **Address proof:** Aadhaar, utility bill, rent agreement, or Passport
 - **Passport-size photographs** (2-3)
 - **Duly filled Mudra Loan application form** (available at bank or online)
@@ -231,3 +231,11 @@ Shishu loans can be approved in **7 to 10 working days**. Kishore and Tarun loan
 ---
 
 *This guide is for informational purposes. Loan approval depends on the bank's assessment. Always verify latest details on the [official MUDRA website](https://www.mudra.org.in) or at your bank branch.*
+
+---
+
+## You May Also Need
+
+- [Udyam MSME Registration](/guide/udyam-msme-registration-online)
+- [PM Vishwakarma Yojana](/guide/pm-vishwakarma-yojana)
+- [GST Registration Online](/guide/gst-registration-online)

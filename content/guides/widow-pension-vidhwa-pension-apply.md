@@ -83,13 +83,13 @@ While exact requirements vary by state, you will generally need:
 
 ### Mandatory Documents
 1. **Husband's Death Certificate** — issued by Municipal Corporation or Gram Panchayat
-2. **Aadhaar Card** of the applicant
+2. **[Aadhaar](/guide/aadhaar-card-apply-online) Card** of the applicant
 3. **Bank Account Details** — passbook copy or cancelled cheque (account must be in applicant's name)
 4. **Age/Date of Birth Proof** — Aadhaar, voter ID, or birth certificate
 5. **Passport-size Photograph** (recent)
 
 ### Additional Documents (state-specific)
-- **BPL Certificate** or **Income Certificate** (annual income usually below ₹2 lakh)
+- **BPL Certificate** or **[income certificate](/guide/income-certificate-online)** (annual income usually below ₹2 lakh)
 - **Ration Card**
 - **Residence/Domicile Certificate**
 - **Voter ID Card**
@@ -292,3 +292,11 @@ You can apply for a **late death registration** at your local Municipal Corporat
 Widow Pension is a vital support for women who have lost their husbands. Whether you apply through the Central NSAP scheme or your state's own portal, the process is now largely online and straightforward. Keep your documents ready, apply through the correct portal, and track your application regularly.
 
 **Remember:** You deserve this support. Do not hesitate to apply, and seek help at your nearest CSC or government office if needed. 🙏
+
+---
+
+## You May Also Need
+
+- [Death Certificate Apply Online](/guide/death-certificate-apply-online)
+- [Jeevan Pramaan Life Certificate](/guide/jeevan-pramaan-life-certificate-online)
+- [PM Jan Dhan Yojana](/guide/pm-jan-dhan-yojana)

@@ -125,7 +125,7 @@ Please carry the **original documents** along with **one photocopy** of each:
 
 | Document | Details |
 |----------|---------|
-| **Age Proof** | Aadhaar card, PAN card, voter ID, passport, or birth certificate |
+| **Age Proof** | [Aadhaar](/guide/aadhaar-card-apply-online) card, [PAN](/guide/pan-card-apply-online) card, voter ID, passport, or birth certificate |
 | **Identity Proof** | Aadhaar card, PAN card, voter ID, or passport |
 | **Address Proof** | Aadhaar card, utility bill, ration card, or passport |
 | **PAN Card** | Mandatory for investments above ₹50,000 |
@@ -306,3 +306,11 @@ Visit your nearest post office or bank today to open your SCSS account.
 ---
 
 *This guide is for informational purposes. Interest rates and rules may change. Please verify the latest details from your post office, bank, or the [National Savings Institute website](https://www.nsiindia.gov.in).*
+
+---
+
+## You May Also Need
+
+- [Sukanya Samriddhi Yojana](/guide/sukanya-samriddhi-yojana)
+- [Jeevan Pramaan Life Certificate](/guide/jeevan-pramaan-life-certificate-online)
+- [EPF/PF Withdrawal Online](/guide/epf-pf-withdrawal-online)

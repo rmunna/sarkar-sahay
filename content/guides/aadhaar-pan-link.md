@@ -11,7 +11,7 @@ officialLinks:
 
 ## Why Link Aadhaar with PAN?
 
-Aadhaar-PAN linking is **mandatory** under Section 139AA of the Income Tax Act. If your PAN is not linked with Aadhaar:
+Aadhaar-PAN linking is **mandatory** under Section 139AA of the [income tax](/guide/income-tax-return-file-online) Act. If your PAN is not linked with Aadhaar:
 - Your **PAN becomes inoperative** — it's as good as not having a PAN
 - You **cannot file income tax returns**
 - **Higher TDS** is deducted on your income (at 20% instead of normal rates under Section 206AA)
@@ -69,7 +69,7 @@ If you cannot use the online portal or SMS:
 
 1. Visit any **NSDL TIN Facilitation Center** or **UTIITSL PAN Center**
 2. Fill **Form for Aadhaar-PAN Linking** (available at the center)
-3. Submit along with copies of PAN card and Aadhaar card
+3. Submit along with copies of [PAN card](/guide/pan-card-apply-online) and Aadhaar card
 4. Pay the fee of ₹1,000 (if applicable) at the center
 5. The center will process your linking request
 
@@ -171,3 +171,11 @@ A: Yes. The Link Aadhaar option is available on the homepage without requiring l
 
 **Q: What if I have two PANs?**
 A: Having two PANs is illegal. Surrender the duplicate PAN using Form 49A on the NSDL website, then link the remaining PAN with Aadhaar.
+
+---
+
+## You May Also Need
+
+- [Download e-PAN Card Online](/guide/download-e-pan-card-online)
+- [Apply for Aadhaar Card Online](/guide/aadhaar-card-apply-online)
+- [PAN Card Correction Online](/guide/pan-card-correction-online)

@@ -52,7 +52,7 @@ An Income Tax Return is a form you file with the Income Tax Department declaring
 - **Investment proofs** (80C, 80D, NPS, etc.)
 - **Home loan interest certificate** (if applicable)
 - **Capital gains statements** (from broker, mutual funds)
-- **Aadhaar** linked to PAN
+- **[Aadhaar](/guide/aadhaar-card-apply-online)** linked to PAN
 - **Bank account details** (for refund credit)
 
 ## Step-by-Step Process — E-Filing Online
@@ -171,3 +171,11 @@ A: Yes. Aadhaar-PAN linking is mandatory. Unlinked PANs become inoperative and y
 
 **Q: Which tax regime should I choose — old or new?**
 A: If you have significant deductions (home loan, 80C investments, HRA), old regime may be better. If you have fewer deductions, the new regime with lower tax rates is usually beneficial. The portal lets you compare both.
+
+---
+
+## You May Also Need
+
+- [Link Aadhaar with PAN](/guide/aadhaar-pan-link)
+- [Download e-PAN Card](/guide/download-e-pan-card-online)
+- [GST Registration Online](/guide/gst-registration-online)

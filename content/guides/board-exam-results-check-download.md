@@ -37,7 +37,7 @@ officialLinks:
 
 Every year, crores of students in India appear for Class 10th and 12th board exams conducted by CBSE, ICSE, and various state boards. Once the exams are over, the biggest question is — **how to check the result online?**
 
-This guide covers **step-by-step instructions** for checking results of all major boards, downloading your marksheet, using DigiLocker, applying for re-evaluation, and getting a duplicate marksheet if needed.
+This guide covers **step-by-step instructions** for checking results of all major boards, downloading your marksheet, using [DigiLocker](/guide/digilocker-guide), applying for re-evaluation, and getting a duplicate marksheet if needed.
 
 ---
 
@@ -331,3 +331,11 @@ If your marksheet is available on DigiLocker, you don't need a physical duplicat
 ---
 
 *This guide is regularly updated. Bookmark this page and check back when results are announced for the latest links and steps.*
+
+---
+
+## You May Also Need
+
+- [National Scholarship Portal](/guide/national-scholarship-portal-apply)
+- [SSC Exam Apply & Hall Ticket](/guide/ssc-exam-apply-hall-ticket)
+- [Government Jobs Apply Online](/guide/government-jobs-apply-online)

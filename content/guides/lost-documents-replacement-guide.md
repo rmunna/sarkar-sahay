@@ -33,7 +33,7 @@ officialLinks:
   - 'https://crsorgi.gov.in'
 ---
 
-# How to Get Duplicate Aadhaar, PAN, Voter ID — Lost Document Replacement Guide
+# How to Get Duplicate [Aadhaar](/guide/aadhaar-card-apply-online), PAN, Voter ID — Lost Document Replacement Guide
 
 **Lost your important documents? Take a deep breath.** Almost every government document in India can be replaced online — often for free and within minutes. This guide covers step-by-step replacement for Aadhaar, PAN, Voter ID, Driving License, Passport, Ration Card, and Birth/Death Certificate.
 
@@ -92,7 +92,7 @@ If OTP doesn't come (mobile not linked to Aadhaar):
 
 ---
 
-## 2. Lost PAN Card — How to Get a Duplicate
+## 2. Lost [PAN card](/guide/pan-card-apply-online) — How to Get a Duplicate
 
 Your PAN number never changes. You just need a new copy of the card.
 
@@ -386,3 +386,12 @@ This is why filing an **FIR** is important if documents were stolen. Also:
 - [Change Mobile Number in Aadhaar](/guides/change-mobile-number-in-aadhaar-card)
 - [PAN Card Correction Online](/guides/pan-card-correction-online)
 - [Voter ID Correction Online](/guides/voter-id-correction-online)
+
+---
+
+## You May Also Need
+
+- [FIR Online Police Complaint](/guide/fir-online-police-complaint)
+- [Passport Apply Online](/guide/passport-apply-online)
+- [Driving License Apply Online](/guide/driving-license-apply-online)
+- [Voter ID Card Apply Online](/guide/voter-id-card-apply-online)

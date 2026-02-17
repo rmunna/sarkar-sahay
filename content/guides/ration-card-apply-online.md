@@ -33,9 +33,9 @@ A Ration Card is a government document that entitles households to purchase subs
 
 ## Documents Required
 
-- **Aadhaar Card** of all family members (mandatory in most states)
+- **[Aadhaar](/guide/aadhaar-card-apply-online) Card** of all family members (mandatory in most states)
 - **Proof of Address** (electricity bill, rent agreement, voter ID)
-- **Income Certificate** (for BPL/AAY category)
+- **[income certificate](/guide/income-certificate-online)** (for BPL/AAY category)
 - **Family photograph** (all members together, in some states)
 - **Passport-size photographs** of head of household
 - **Existing ration card** (if transferring or making changes)
@@ -150,3 +150,11 @@ A: You can appeal to the District Supply Officer or file a grievance on the stat
 
 **Q: How to add a new family member to ration card?**
 A: Apply online on your state portal or visit the local food & civil supplies office with birth certificate and Aadhaar of the new member.
+
+---
+
+## You May Also Need
+
+- [LPG Subsidy Ujjwala Yojana](/guide/lpg-subsidy-ujjwala-yojana)
+- [PM Jan Dhan Yojana](/guide/pm-jan-dhan-yojana)
+- [PM Awas Yojana Apply](/guide/pm-awas-yojana-apply)

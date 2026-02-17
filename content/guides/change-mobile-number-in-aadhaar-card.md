@@ -22,12 +22,12 @@ officialLinks:
 
 ## What is Aadhaar Mobile Number Update?
 
-Aadhaar Mobile Number Update lets you link a new mobile number to your Aadhaar card or change an existing one. This is important because many government services and banks send OTPs to your Aadhaar-registered mobile number. Please note — this update can only be done offline by visiting an Aadhaar Enrolment/Update Centre in person.
+Aadhaar Mobile Number Update lets you link a new mobile number to your [Aadhaar card](/guide/aadhaar-card-apply-online) or change an existing one. This is important because many government services and banks send OTPs to your Aadhaar-registered mobile number. Please note — this update can only be done offline by visiting an Aadhaar Enrolment/Update Centre in person.
 
 Your Aadhaar-linked mobile number is used for:
 - **OTP verification** for online Aadhaar authentication
 - **e-KYC** for bank accounts, mutual funds, and insurance
-- **Downloading e-Aadhaar** from the UIDAI portal
+- **Downloading [e-Aadhaar](/guide/download-e-aadhaar-card-online)** from the UIDAI portal
 - **PM Kisan, LPG subsidy,** and other government scheme verifications
 - **PAN-Aadhaar linking** OTP
 - **mAadhaar app** login
@@ -203,3 +203,11 @@ A: No. Your 12-digit Aadhaar number remains the same. Only the linked mobile num
 
 **Q: Can I link the same mobile number to multiple Aadhaar cards?**
 A: Yes. The same mobile number can be linked to multiple Aadhaar cards (e.g., family members can use the same number). However, it's recommended to use unique numbers for each family member.
+
+---
+
+## You May Also Need
+
+- [Change Address in Aadhaar](/guide/aadhaar-address-change-online)
+- [Aadhaar Name Correction Online](/guide/aadhaar-name-correction-online)
+- [Check Aadhaar Update Status](/guide/aadhaar-update-status-check)

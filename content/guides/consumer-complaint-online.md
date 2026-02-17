@@ -166,7 +166,7 @@ Upload scanned copies of:
 - Product photos (if defective)
 - Communication records (emails, screenshots of chats)
 - Company's response (or proof they didn't respond)
-- ID proof (Aadhaar/PAN)
+- ID proof ([Aadhaar](/guide/aadhaar-card-apply-online)/PAN)
 - Any other relevant evidence
 
 #### 6. Pay the Fee (if applicable)
@@ -295,3 +295,11 @@ The commission sends a **notice** to the company (opposite party). They must res
 ---
 
 **Remember:** As a consumer, the law is on your side. Don't let companies get away with bad products or poor service. File your complaint — it's your right. 🇮🇳
+
+---
+
+## You May Also Need
+
+- [RTI Online Application](/guide/rti-online-application)
+- [FIR Online Police Complaint](/guide/fir-online-police-complaint)
+- [Electricity Connection Apply Online](/guide/electricity-connection-apply-online)

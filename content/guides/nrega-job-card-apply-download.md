@@ -57,8 +57,8 @@ You can get a NREGA job card if:
 Keep these documents ready before applying:
 
 - **Passport-size photographs** of all adult family members
-- **Aadhaar Card** (mandatory for wage payment)
-- **Ration Card** or BPL card (for household proof)
+- **[Aadhaar](/guide/aadhaar-card-apply-online) Card** (mandatory for wage payment)
+- **[ration card](/guide/ration-card-apply-online)** or BPL card (for household proof)
 - **Bank passbook** or post office account details
 - **Address proof** — voter ID, electricity bill, or any government ID
 - **Age proof** — Aadhaar, voter ID, or birth certificate
@@ -240,3 +240,11 @@ Yes! Both men and women can apply. At least **one-third of all NREGA workers mus
 ### Q7: What kind of work is done under NREGA?
 
 Common works include — **road construction, well digging, pond desilting, tree planting, land levelling, irrigation canal building, and house construction** (under Pradhan Mantri Awas Yojana convergence).
+
+---
+
+## You May Also Need
+
+- [e-Shram Card Registration](/guide/e-shram-card-registration)
+- [PM Awas Yojana Apply](/guide/pm-awas-yojana-apply)
+- [PM Jan Dhan Yojana](/guide/pm-jan-dhan-yojana)

@@ -27,7 +27,7 @@ officialLinks:
   - 'https://www.eci.gov.in'
 ---
 
-# How to Correct Voter ID Card Online — Name, Address, Photo Change (NVSP)
+# How to Correct [voter ID](/guide/voter-id-card-apply-online) Card Online — Name, Address, Photo Change (NVSP)
 
 Made a spelling mistake while registering? Address changed after marriage? Photo looking outdated? Don't worry — the Election Commission of India (ECI) allows you to correct your Voter ID (EPIC) details online through the **National Voters' Service Portal (NVSP)** at [voters.eci.gov.in](https://voters.eci.gov.in).
 
@@ -110,7 +110,7 @@ If you have **moved to a new address in a different constituency**, use **Form 8
 2. Select **"Form 8A — Shifting of Residence"** under Forms
 3. Enter your **existing EPIC number**
 4. Fill in your **new address details** — state, district, Assembly constituency, and full address
-5. Upload **address proof** for the new location (e.g., Aadhaar, utility bill, rent agreement)
+5. Upload **address proof** for the new location (e.g., [Aadhaar](/guide/aadhaar-card-apply-online), utility bill, rent agreement)
 6. Submit the form and note down your **Reference ID**
 
 > **Note:** After successful verification by the BLO (Booth Level Officer), your voter ID will be shifted to the new constituency. Your old entry will be deleted automatically.
@@ -253,3 +253,11 @@ Yes. NRIs registered as overseas electors can apply for corrections through the 
 | Track application | — | [voters.eci.gov.in](https://voters.eci.gov.in) or call 1950 |
 
 Your vote matters. Keep your Voter ID updated! 🗳️
+
+---
+
+## You May Also Need
+
+- [Aadhaar Name Correction](/guide/aadhaar-name-correction-online)
+- [PAN Card Correction](/guide/pan-card-correction-online)
+- [DigiLocker Guide](/guide/digilocker-guide)

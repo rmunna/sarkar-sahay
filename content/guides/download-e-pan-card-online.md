@@ -24,7 +24,7 @@ officialLinks:
   - 'https://eportal.incometax.gov.in/iec/foservices/#/pre-login/knowYourPan'
 ---
 
-# How to Download e-PAN Card Online (Instant e-PAN via Aadhaar)
+# How to Download e-[PAN card](/guide/pan-card-apply-online) Online (Instant e-PAN via [Aadhaar](/guide/aadhaar-card-apply-online))
 
 Lost your PAN card? Need a digital copy urgently? You can **download your e-PAN card online** in just a few minutes — completely free of cost. This guide covers all the methods to get your e-PAN, check PAN status, and order a physical reprint.
 
@@ -205,3 +205,11 @@ If your PAN is not linked with Aadhaar, the instant e-PAN service on the Income 
 
 ### Q8: How many times can I download my e-PAN?
 There is **no limit** on the number of times you can download your e-PAN from the Income Tax portal. You can download it as many times as needed.
+
+---
+
+## You May Also Need
+
+- [PAN Card Correction Online](/guide/pan-card-correction-online)
+- [Link Aadhaar with PAN](/guide/aadhaar-pan-link)
+- [File Income Tax Return Online](/guide/income-tax-return-file-online)

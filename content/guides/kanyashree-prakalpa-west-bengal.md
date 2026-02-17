@@ -65,7 +65,7 @@ Keep the following documents ready before applying:
 
 | Document | Purpose |
 |----------|---------|
-| Aadhaar Card of the applicant | Identity verification |
+| [Aadhaar](/guide/aadhaar-card-apply-online) Card of the applicant | Identity verification |
 | Age proof (birth certificate / Madhyamik admit card) | Age verification |
 | School/institution enrolment certificate | Education status |
 | Family income certificate (issued by BDO/SDO) | Income eligibility |
@@ -178,3 +178,11 @@ Applications are accepted on a rolling basis through institutions. However, it i
 ---
 
 *Last updated: 16 February 2026. Information is based on official Government of West Bengal notifications. Always verify the latest guidelines on the [official Kanyashree portal](https://www.wbkanyashree.gov.in) before applying.*
+
+---
+
+## You May Also Need
+
+- [Lakshmir Bhandar West Bengal](/guide/lakshmir-bhandar-west-bengal)
+- [National Scholarship Portal](/guide/national-scholarship-portal-apply)
+- [Sukanya Samriddhi Yojana](/guide/sukanya-samriddhi-yojana)

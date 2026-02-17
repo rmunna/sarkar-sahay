@@ -24,7 +24,7 @@ officialLinks:
     https://uidai.gov.in/images/commdoc/List_of_Supporting_Document_for_Aadhaar_Enrolment_and_Update.pdf
 ---
 
-# How to Change Address in Aadhaar Card Online and Offline
+# How to Change Address in [Aadhaar card](/guide/aadhaar-card-apply-online) Online and Offline
 
 If you have shifted to a new address, you must update your address in Aadhaar. UIDAI allows you to change your address both online (through the myAadhaar portal) and offline (by visiting an Aadhaar enrolment centre). This guide covers both methods with complete steps.
 
@@ -165,7 +165,7 @@ If you do not have any address proof document in your name at your current addre
 
 ---
 
-## How to Track Aadhaar Address Update Status
+## How to Track Aadhaar Address [update status](/guide/aadhaar-update-status-check)
 
 ### For Online Updates (SRN-based)
 
@@ -221,3 +221,11 @@ Yes. NRIs with an Indian Aadhaar can update their address. If updating to an Ind
 ### 7. What happens after my address is updated?
 
 Once updated, your new address reflects in the Aadhaar database. You can download your updated e-Aadhaar from the myAadhaar portal. If you need a physical PVC Aadhaar card with the new address, you can order one from myAadhaar for ₹50.
+
+---
+
+## You May Also Need
+
+- [Aadhaar Name Correction Online](/guide/aadhaar-name-correction-online)
+- [Change Mobile Number in Aadhaar](/guide/change-mobile-number-in-aadhaar-card)
+- [Download e-Aadhaar Card Online](/guide/download-e-aadhaar-card-online)

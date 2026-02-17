@@ -95,7 +95,7 @@ Most recruitment bodies require one-time registration:
 Typical uploads:
 - Passport-size photograph (specific size: usually 3.5cm × 4.5cm)
 - Signature (specific size)
-- Caste certificate (if applicable)
+- [caste certificate](/guide/caste-certificate-online) (if applicable)
 - PwD certificate (if applicable)
 - Education certificates (some exams)
 
@@ -193,3 +193,11 @@ A: Yes, absolutely. Apply for all exams you're eligible for to maximize your cha
 
 **Q: Are coaching classes necessary for government exams?**
 A: Not mandatory. Many toppers are self-study candidates. Quality online resources, previous year papers, and consistent practice are key.
+
+---
+
+## You May Also Need
+
+- [SSC Exam Apply & Hall Ticket](/guide/ssc-exam-apply-hall-ticket)
+- [National Scholarship Portal](/guide/national-scholarship-portal-apply)
+- [Domicile Certificate Online](/guide/domicile-certificate-online)

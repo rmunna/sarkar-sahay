@@ -42,7 +42,7 @@ Both acts allow online application in most states.
 
 A marriage certificate is not just a formality. You will need it for:
 
-- **Name change** after marriage (in passport, Aadhaar, PAN, bank accounts)
+- **Name change** after marriage (in passport, [Aadhaar](/guide/aadhaar-card-apply-online), PAN, bank accounts)
 - **Passport application** — required as proof of marriage
 - **Visa applications** — especially spouse/dependent visas for abroad
 - **Joint property purchase** or home loan applications
@@ -232,3 +232,11 @@ Penalties vary by state. In Delhi, a late fee of ₹2 per day applies after 60 d
 Applying for a marriage certificate online in India is a straightforward process. Visit your state's official portal, fill the form, upload documents, pay the fee, and visit the Sub-Registrar with your spouse and witnesses. Whether you married under the Hindu Marriage Act or the Special Marriage Act, getting your marriage registered is essential for legal protection and accessing various government services.
 
 Start your application today on your state's official marriage registration portal.
+
+---
+
+## You May Also Need
+
+- [Birth Certificate Apply Online](/guide/birth-certificate-apply-online)
+- [Passport Apply Online](/guide/passport-apply-online)
+- [Aadhaar Name Correction (after marriage)](/guide/aadhaar-name-correction-online)

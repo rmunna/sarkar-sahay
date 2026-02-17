@@ -33,7 +33,7 @@ An Indian Passport is an official travel document issued by the Ministry of Exte
 ### For Fresh Passport (Adults)
 
 **Proof of Address (any one):**
-- Aadhaar Card
+- [Aadhaar](/guide/aadhaar-card-apply-online) Card
 - Voter ID
 - Electricity Bill (in applicant's name, last 3 months)
 - Water Bill
@@ -42,7 +42,7 @@ An Indian Passport is an official travel document issued by the Ministry of Exte
 - Bank Account Statement with address (last 6 months)
 
 **Proof of Date of Birth (any one):**
-- Birth Certificate (mandatory if born on or after 26/01/1989)
+- [birth certificate](/guide/birth-certificate-apply-online) (mandatory if born on or after 26/01/1989)
 - Aadhaar Card
 - Class 10 Marksheet
 - PAN Card
@@ -170,3 +170,11 @@ A: A police officer visits your residential address to verify you live there. Ke
 
 **Q: Can I apply for a minor's passport?**
 A: Yes. One parent must apply on behalf of the minor. Birth certificate is mandatory. Passport is valid for 5 years or until the child turns 18.
+
+---
+
+## You May Also Need
+
+- [Passport Renewal Online](/guide/passport-renewal-online-india)
+- [Track Passport Application Status](/guide/passport-application-status-track)
+- [DigiLocker Guide](/guide/digilocker-guide)

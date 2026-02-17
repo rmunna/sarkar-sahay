@@ -33,7 +33,7 @@ If you run a micro, small, or medium enterprise (MSME) in India, **Udyam Registr
 
 ## What is Udyam Registration?
 
-Udyam Registration is the **government's online registration system for MSMEs** in India. It replaced the earlier Udyog Aadhaar Memorandum (UAM) system from **1st July 2020**.
+Udyam Registration is the **government's online registration system for MSMEs** in India. It replaced the earlier Udyog [Aadhaar](/guide/aadhaar-card-apply-online) Memorandum (UAM) system from **1st July 2020**.
 
 Key points:
 - Managed by the **Ministry of Micro, Small & Medium Enterprises (MSME)**, Government of India
@@ -223,3 +223,11 @@ You need an **Aadhaar-linked mobile number** to receive OTP for verification. Vi
 
 ### 8. Is Udyam Registration mandatory?
 It is **not legally mandatory** to run a business, but it is **required** to avail government MSME benefits, schemes, priority lending, and tender preferences. It is highly recommended for all eligible enterprises.
+
+---
+
+## You May Also Need
+
+- [GST Registration Online](/guide/gst-registration-online)
+- [Mudra Loan Apply Online](/guide/mudra-loan-apply-online)
+- [PM Vishwakarma Yojana](/guide/pm-vishwakarma-yojana)

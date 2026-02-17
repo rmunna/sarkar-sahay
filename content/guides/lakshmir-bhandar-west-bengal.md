@@ -54,7 +54,7 @@ The amount is credited between the **1st and 10th of every month** directly into
 
 Keep the following documents ready before applying:
 
-- **Aadhaar Card** of the applicant
+- **[Aadhaar](/guide/aadhaar-card-apply-online) Card** of the applicant
 - **Swasthya Sathi Card** (mandatory)
 - **Voter ID / EPIC Card** (as proof of West Bengal residency)
 - **Bank Account Details** — account must be in the applicant's name (with IFSC code)
@@ -135,3 +135,11 @@ No. Women above 60 may be eligible for the **Old Age Pension (বৃদ্ধ �
 
 ### 7. What if my family income crosses ₹2.5 lakh after approval?
 Benefits may be discontinued upon re-verification. Report changes in income to avoid issues during annual reviews.
+
+---
+
+## You May Also Need
+
+- [Kanyashree Prakalpa West Bengal](/guide/kanyashree-prakalpa-west-bengal)
+- [PM Jan Dhan Yojana](/guide/pm-jan-dhan-yojana)
+- [Widow Pension Apply](/guide/widow-pension-vidhwa-pension-apply)

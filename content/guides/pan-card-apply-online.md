@@ -31,7 +31,7 @@ PAN (Permanent Account Number) is a 10-character alphanumeric identifier issued 
 ### For Indian Individuals (Form 49A)
 
 **Proof of Identity (any one):**
-- Aadhaar Card
+- [Aadhaar](/guide/aadhaar-card-apply-online) Card
 - Voter ID
 - Passport
 - Driving License
@@ -176,3 +176,12 @@ A: Having two PANs is illegal. Surrender the duplicate to the Income Tax Departm
 
 **Q: Is PAN card mandatory?**
 A: PAN is mandatory for filing income tax returns, transactions above ₹50,000, and opening bank accounts. If you don't have PAN, higher TDS is deducted on many payments.
+
+---
+
+## You May Also Need
+
+- [Link Aadhaar with PAN](/guide/aadhaar-pan-link)
+- [PAN Card Correction Online](/guide/pan-card-correction-online)
+- [Download e-PAN Card](/guide/download-e-pan-card-online)
+- [File Income Tax Return](/guide/income-tax-return-file-online)

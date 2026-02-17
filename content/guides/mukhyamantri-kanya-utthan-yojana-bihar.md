@@ -42,7 +42,7 @@ To avail benefits under the Mukhyamantri Kanya Utthan Yojana, the following cond
 - **Income:** No strict income ceiling for birth-stage installments; graduation-level benefits are available irrespective of income
 - **Education:** The girl must continue her education to claim higher installments
 - **Marriage:** The girl must be **unmarried** at the time of claiming graduation-level benefits
-- **Bank Account:** The beneficiary (or parent/guardian) must have a bank account linked with Aadhaar
+- **Bank Account:** The beneficiary (or parent/guardian) must have a bank account linked with [Aadhaar](/guide/aadhaar-card-apply-online)
 
 ---
 
@@ -197,3 +197,11 @@ No. The girl must be studying in a **recognized institution within Bihar** to cl
 - **EduDBT Portal (Class 12):** [https://edudbt.bih.nic.in](https://edudbt.bih.nic.in)
 - **e-Kalyan Portal (Graduation):** [https://ekalyan.bih.nic.in](https://ekalyan.bih.nic.in)
 - **Medha Soft (School Data):** [https://medhasoft.bih.nic.in](https://medhasoft.bih.nic.in)
+
+---
+
+## You May Also Need
+
+- [National Scholarship Portal](/guide/national-scholarship-portal-apply)
+- [Student Credit Card Bihar](/guide/student-credit-card-bihar)
+- [Sukanya Samriddhi Yojana](/guide/sukanya-samriddhi-yojana)

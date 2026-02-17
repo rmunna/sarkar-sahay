@@ -21,7 +21,7 @@ officialLinks:
   - "https://uidai.gov.in"
 ---
 
-# How to Download e-Aadhaar Card Online
+# How to Download e-[Aadhaar card](/guide/aadhaar-card-apply-online) Online
 
 ## What is e-Aadhaar?
 
@@ -41,7 +41,7 @@ You can download your e-Aadhaar using any of these methods:
 |--------|---------|---------------|
 | myAadhaar Portal | myaadhaar.uidai.gov.in | Aadhaar number / VID + registered mobile |
 | UIDAI e-Aadhaar Portal | eaadhaar.uidai.gov.in | Aadhaar number / enrolment ID / VID + registered mobile |
-| DigiLocker | digilocker.gov.in | DigiLocker account linked to Aadhaar |
+| [DigiLocker](/guide/digilocker-guide) | digilocker.gov.in | DigiLocker account linked to Aadhaar |
 
 ---
 
@@ -174,3 +174,11 @@ You can only download e-Aadhaar using the OTP sent to the registered mobile numb
 
 ### What is the difference between e-Aadhaar and masked Aadhaar?
 Both are the same document. The only difference is that masked Aadhaar hides the first 8 digits of your Aadhaar number, showing only the last 4 digits for privacy.
+
+---
+
+## You May Also Need
+
+- [Change Address in Aadhaar](/guide/aadhaar-address-change-online)
+- [Aadhaar Name Correction](/guide/aadhaar-name-correction-online)
+- [Link Aadhaar with PAN](/guide/aadhaar-pan-link)

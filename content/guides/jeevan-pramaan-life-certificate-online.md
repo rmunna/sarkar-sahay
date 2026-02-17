@@ -29,7 +29,7 @@ officialLinks:
 
 Jeevan Pramaan is the **Digital Life Certificate (DLC)** scheme launched by the Government of India in November 2014. It allows pensioners to submit their annual "proof of life" digitally — without visiting the pension office in person.
 
-Every year, pensioners must prove they are alive so that their pension continues. Earlier, this required physically going to the bank or pension office. With Jeevan Pramaan, you can do this **from home using your Aadhaar number and biometric authentication** (fingerprint, iris scan, or face recognition).
+Every year, pensioners must prove they are alive so that their pension continues. Earlier, this required physically going to the bank or pension office. With Jeevan Pramaan, you can do this **from home using your [Aadhaar](/guide/aadhaar-card-apply-online) number and biometric authentication** (fingerprint, iris scan, or face recognition).
 
 The system is developed by the **Department of Electronics and IT (DeitY)**, Government of India, and works through the Aadhaar (UIDAI) platform.
 
@@ -193,3 +193,11 @@ You can retrieve it by visiting **https://jeevanpramaan.gov.in** and using the "
 ### 7. What if the Jeevan Pramaan website or app is not working?
 
 The portal sometimes experiences heavy traffic during November. Try again after a few hours, or visit a **CSC centre** or your **bank branch** to generate the certificate offline.
+
+---
+
+## You May Also Need
+
+- [Senior Citizen Savings Scheme](/guide/senior-citizen-savings-scheme)
+- [EPF/PF Withdrawal Online](/guide/epf-pf-withdrawal-online)
+- [Widow Pension Apply](/guide/widow-pension-vidhwa-pension-apply)
