@@ -1,4 +1,5 @@
 import { getAllGuides, getCategories } from "@/lib/guides";
+import { getActiveUpdates } from "@/lib/updates";
 import Link from "next/link";
 import SearchBar from "@/components/SearchBar";
 
@@ -63,6 +64,48 @@ export default function Home() {
           </Link>
         </div>
       </section>
+
+      {/* Latest Updates */}
+      {(() => {
+        const updates = getActiveUpdates().slice(0, 4);
+        if (updates.length === 0) return null;
+        return (
+          <section className="mb-16">
+            <div className="flex items-center justify-between mb-6">
+              <h2 className="text-2xl font-bold text-gray-900">
+                🔴 Latest Job & Exam Updates
+              </h2>
+              <Link href="/updates" className="text-sm text-orange-600 hover:text-orange-700 font-medium">
+                View all →
+              </Link>
+            </div>
+            <div className="grid gap-3 md:grid-cols-2">
+              {updates.map((u) => (
+                <Link
+                  key={u.slug}
+                  href={`/update/${u.slug}`}
+                  className="flex items-start gap-4 p-4 bg-white border border-gray-200 rounded-xl hover:border-orange-300 hover:shadow-sm transition"
+                >
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-center gap-2 mb-1">
+                      <span className="text-xs font-semibold text-orange-600">{u.organization}</span>
+                      {u.vacancies && (
+                        <span className="text-xs text-gray-400">
+                          {typeof u.vacancies === "number" ? `${u.vacancies.toLocaleString("en-IN")} posts` : u.vacancies}
+                        </span>
+                      )}
+                    </div>
+                    <h3 className="text-sm font-semibold text-gray-900 leading-snug mb-1 line-clamp-2">
+                      {u.title}
+                    </h3>
+                    <p className="text-xs text-gray-500 line-clamp-1">{u.description}</p>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        );
+      })()}
 
       {/* Categories Grid */}
       {categories.length > 0 && (
