@@ -283,3 +283,26 @@ This value determines the **minimum stamp duty** payable. If your actual transac
 | Prohibited Property Check | Dharani portal | Free |
 
 Dharani has significantly simplified land administration in Telangana. For any issues not resolved online, visit your local **Tahsildar or Sub-Registrar Office** with original documents.
+
+## Frequently Asked Questions (FAQ)
+
+### Q: What is the Dharani portal and what can I do on it?
+Dharani is Telangana's integrated land records and registration portal managed by the CCLA. You can search land records, download Pattadar passbooks, register properties, apply for mutation, get encumbrance certificates, check prohibited properties, and book SRO slots — all in one place.
+
+### Q: How do I check if a property is prohibited on Dharani?
+Go to dharani.telangana.gov.in and click "Prohibited Properties." Select District, Mandal, and Village, then enter the survey number. The system will show whether the property is blocked from registration due to government ownership, litigation, or other reasons.
+
+### Q: Does mutation happen automatically after property registration in Telangana?
+Yes, for transactions registered through Dharani (sale deed, gift deed, etc.), mutation is processed automatically. The new owner's name reflects in land records within 1–3 working days after registration.
+
+### Q: How do I book a slot at the Sub-Registrar Office for property registration?
+Log in to dharani.telangana.gov.in, go to "Slot Booking," select your SRO, choose the transaction type, enter property and party details, upload documents, pay stamp duty and registration fee online, and select an available date and time slot.
+
+### Q: What is the stamp duty for property registration in Telangana?
+Stamp duty for a sale deed is 4% of the market value, with a registration fee of 0.5%. Gift deeds within the family attract 1% stamp duty. Rates may change, so check the latest Government Order for current rates.
+
+### Q: How can I get an Encumbrance Certificate (EC) online in Telangana?
+Visit registration.telangana.gov.in or the Dharani portal and click "Encumbrance Certificate." Enter the district, SRO jurisdiction, property details, and time period. Pay the fee (₹200 for 1–10 years) online and download the EC.
+
+### Q: What should I do if my land is not showing on Dharani?
+Try searching by survey number instead of name, and check for spelling variations in both English and Telugu. Your land may not be digitised yet — visit the Tahsildar office with original documents for correction or data entry.

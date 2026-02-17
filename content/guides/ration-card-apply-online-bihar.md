@@ -216,3 +216,23 @@ For the complete national guide covering all states, visit our [guide on how to 
 ---
 
 *Last updated: February 16, 2026. Information is based on the latest available guidelines from the Bihar Food & Consumer Protection Department. Rules and processes may change — always verify on the official portal.*
+
+## Frequently Asked Questions (FAQ)
+
+### Q: How do I apply for a ration card online in Bihar?
+Visit serviceonline.bihar.gov.in, register or login, go to Food & Consumer Protection Department, and click "Issue of New Ration Card." Fill in your family details, upload Aadhaar, income certificate, and address proof, then submit. You will receive an application number for tracking.
+
+### Q: What documents are needed for a Bihar ration card application?
+You need Aadhaar cards of all family members, address proof (voter ID or electricity bill), income certificate from the BDO or Circle Officer, passport-size photo, bank account details, and mobile number linked to Aadhaar.
+
+### Q: Is there any fee for applying for a ration card in Bihar?
+Ration card applications for AAY and PHH (Below Poverty Line) categories are completely free. Non-priority (APL) cards have a nominal fee of ₹5 to ₹10. If applying through a Vasudha Kendra, they may charge ₹20–₹50 as service fee.
+
+### Q: How long does it take to get a ration card in Bihar?
+The total processing time is typically 30 to 60 days, covering application submission, field verification by the supply inspector, and final card issuance. Urban areas like Patna may be faster than rural areas.
+
+### Q: How can I track my Bihar ration card application status?
+Visit serviceonline.bihar.gov.in and click "Track Application Status." Enter your application number or Aadhaar number and click Search. You can also check your ration card details on the ePDS Bihar portal at epds.bihar.gov.in.
+
+### Q: What are the common reasons for ration card rejection in Bihar?
+Common reasons include Aadhaar details mismatch, duplicate application (you or a family member already has a ration card), incomplete documents, wrong category selection, or holding a ration card in another state.

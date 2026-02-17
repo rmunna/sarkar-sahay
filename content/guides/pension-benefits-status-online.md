@@ -297,3 +297,26 @@ Pension is revised when the government announces a **Pay Commission revision** o
 | Commutation of pension | Through Head of Office or Bhavishya |
 
 Keep your PPO number, Aadhaar number, and bank details safe. Never share OTPs or personal details with anyone calling on the phone — no government office will ever ask for them.
+
+## Frequently Asked Questions (FAQ)
+
+### Q: How do I check my pension status online?
+Visit cpao.nic.in and go to "Pensioner's Corner." Select "Know Your PPO Status" or "Pension Payment Status," enter your PPO number and date of birth, and click Submit. The portal shows your pension amount, bank details, and any revisions.
+
+### Q: How do I download my monthly pension slip?
+Login to the Bhavishya portal at bhavishya.nic.in with your credentials. Go to "Download Pension Slip," select the month and year, and download the PDF. Your pension slip shows basic pension, dearness relief, income tax deducted, and net amount credited.
+
+### Q: What is the deadline for submitting the life certificate (Jeevan Pramaan)?
+Pensioners must submit a life certificate by 30th November every year to continue receiving pension. You can submit it digitally through the Jeevan Pramaan app, at a Common Service Centre, bank branch, or post office.
+
+### Q: How do I apply for family pension after a pensioner passes away?
+Inform the pension-disbursing bank immediately with the death certificate. Submit Form 14 along with the death certificate, the deceased's PPO, your Aadhaar card, bank details, and photographs. The bank forwards the case to CPAO for authorisation.
+
+### Q: Can I commute part of my pension for a lump sum payment?
+Yes, you can commute up to 40% of your basic pension in exchange for a one-time lump sum amount. Your monthly pension will be reduced for 15 years, after which the full pension is automatically restored.
+
+### Q: What is the SPARSH portal and who can use it?
+SPARSH (System for Pension Administration — Raksha) is the dedicated portal for defence pensioners from the Army, Navy, and Air Force. You can view pension details, download pension slips, submit life certificates, and apply for family pension at sparsh.defencepension.gov.in.
+
+### Q: What should I do if my pension is not credited this month?
+First check with your bank for processing delays. Then verify on the CPAO portal if the payment has been authorised. If the issue persists, submit a complaint on pgportal.gov.in or contact the CPAO helpline at 011-26174596.

@@ -194,3 +194,23 @@ For unresolved complaints, you can escalate through the **[consumer complaint po
 - [Pay Electricity Bill Online — State-Wise Guide](/guide/electricity-bill-pay-online-state-wise)
 - [Pay Property Tax Online — State Portal Guide](/guide/property-tax-online-state-portals)
 - [File a Consumer Complaint Online](/guide/consumer-complaint-online)
+
+## Frequently Asked Questions (FAQ)
+
+### Q: How do I pay my water bill online?
+Visit your city's water board portal (e.g., delhijalboard.delhi.gov.in for Delhi or bwssb.karnataka.gov.in for Bangalore), enter your consumer number, verify the bill amount, and pay using UPI, debit card, credit card, or net banking. You can also pay through apps like Paytm, PhonePe, or Google Pay.
+
+### Q: Where can I find my water consumer number?
+Your consumer number (also called connection ID, RR number, or CAN depending on the city) is printed on any previous water bill. If you don't have a bill, visit your local water board office with your address proof to get the number.
+
+### Q: Is there a late fee for delayed water bill payment?
+Yes, most water boards charge a surcharge or penalty of 1–2% per month on overdue bills. The exact rate varies by city, so check your bill or your water board's portal for specific late payment terms.
+
+### Q: Can I pay water bills through Paytm or PhonePe?
+Yes, most major water boards are listed on Paytm, PhonePe, Google Pay, and Amazon Pay. Go to the bill payment section, select Water, choose your water board, enter your consumer number, and the app fetches your outstanding bill automatically.
+
+### Q: How do I file a complaint about water supply or billing issues?
+Each water board has an online grievance section on their portal. You can also call city-specific helplines — 1916 for Delhi and Bangalore. For unresolved issues, escalate through the CPGRAMS portal at pgportal.gov.in.
+
+### Q: How do I check my water bill amount without paying?
+Visit your water board's portal and look for "View Bill," "Know Your Bill," or "Bill Enquiry." Enter your consumer number to see the current outstanding amount, due date, consumption details, and past payment history.

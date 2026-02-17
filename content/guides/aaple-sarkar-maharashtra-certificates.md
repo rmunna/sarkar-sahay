@@ -219,3 +219,26 @@ Carry original documents + photocopies. A small service charge (₹20–₹50) m
 - **Email:** support@mahaonline.gov.in
 - **Portal:** [aaplesarkar.mahaonline.gov.in](https://aaplesarkar.mahaonline.gov.in)
 - **Grievance Redressal:** Available on the portal under "Grievance" section
+
+## Frequently Asked Questions (FAQ)
+
+### Q: What is Aaple Sarkar and which services can I access on it?
+Aaple Sarkar is Maharashtra's official online citizen services portal offering 400+ government services. You can apply for caste, income, domicile, birth, death certificates, ration cards, property documents, and more without visiting a government office.
+
+### Q: How much does it cost to apply for a caste or income certificate on Aaple Sarkar?
+The government fee for most certificates like caste, income, and domicile is approximately ₹20 to ₹50. Additional convenience charges may apply for online payment. The exact fee is displayed during the application process.
+
+### Q: How long does it take to get a certificate from Aaple Sarkar?
+Processing time varies by certificate type. Income certificates typically take 7–15 days, while caste and domicile certificates may take 15–30 days. Actual time depends on verification requirements and officer workload in your district.
+
+### Q: How can I track my Aaple Sarkar application status?
+Login to the portal at aaplesarkar.mahaonline.gov.in, go to "Track Application" and enter your Application ID or Token Number. You can also track via SMS or by calling the toll-free helpline 1800-120-8040.
+
+### Q: Is the certificate downloaded from Aaple Sarkar valid for official use?
+Yes, certificates downloaded from Aaple Sarkar are digitally signed and valid for official use. You can also access them through DigiLocker if your accounts are linked.
+
+### Q: What should I do if my Aaple Sarkar application is rejected?
+Check the rejection reason on the portal under your application status. Correct the errors or provide the missing documents, and reapply through the portal. You can also file a grievance on the portal's Grievance section.
+
+### Q: Can I apply for certificates on Aaple Sarkar if I don't have internet access?
+Yes, you can visit your nearest Common Service Centre (CSC), Setu Suvidha Kendra, or Aaple Sarkar Seva Kendra. Carry your original documents and photocopies. A small service charge of ₹20–₹50 may apply.

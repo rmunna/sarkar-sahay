@@ -273,3 +273,26 @@ Check pending dispute cases village-wise at [landrecords.karnataka.gov.in/servic
 ---
 
 *Last updated: February 2026. Information sourced from the official Karnataka Revenue Department portal. Always verify details on [landrecords.karnataka.gov.in](https://landrecords.karnataka.gov.in).*
+
+## Frequently Asked Questions (FAQ)
+
+### Q: What is RTC (Pahani) and why do I need it?
+RTC stands for Record of Rights, Tenancy and Crops, locally called Pahani. It is the primary land ownership document in Karnataka containing owner details, survey number, land area, crop details, and encumbrance information. You need it for bank loans, property sales, government schemes, and court disputes.
+
+### Q: How can I check my land records online in Karnataka?
+Visit landrecords.karnataka.gov.in and click "View RTC and MR." Select your District, Taluk, Hobli, and Village, then enter your survey number. You can also use the Dishaank mobile app for quick access on your phone.
+
+### Q: What is i-RTC and is it legally valid?
+i-RTC is a digitally signed RTC copy available for ₹15 from rtc.karnataka.gov.in. It is legally valid and increasingly accepted by banks and courts. You can verify its authenticity using the RTC XML verification page on the Bhoomi portal.
+
+### Q: How long does mutation take in Karnataka?
+Simple mutations based on a sale deed take 15–30 days. Inheritance or succession mutations take 30–60 days because of a mandatory 30-day objection notice period. Disputed cases can take several months.
+
+### Q: What should I do if my survey number is not found on the Bhoomi portal?
+Check the spelling of your village name in both Kannada and English. Ensure you selected the correct Hobli, as villages can have similar names across hoblis. The survey number may have been subdivided — try the parent number. Contact your Village Accountant for clarification.
+
+### Q: How do I apply for mutation online in Karnataka?
+Visit landrecords.karnataka.gov.in/service93/citizen and register with your mobile number and Aadhaar. Select the mutation type, enter property details, upload documents like sale deed or death certificate, pay the application fee (₹100–₹500), and submit.
+
+### Q: What is the Bhoomi helpline number?
+The Bhoomi toll-free helpline number is 1800-425-9908. You can also email bhoomi.helpdesk@karnataka.gov.in or visit your local Taluk office for in-person help.

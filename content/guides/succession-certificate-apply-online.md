@@ -200,3 +200,23 @@ After filing, track your case status online:
 ## Summary
 
 Getting a succession certificate involves filing a petition in the district civil court, paying state-specific court fees, waiting through a 45-day public notice period, and attending hearings. While the process takes 3–6 months for uncontested cases, having all documents ready and NOCs from co-heirs significantly speeds things up. For high-value bank deposits, insurance claims, and securities, this certificate is often the only document financial institutions will accept.
+
+## Frequently Asked Questions (FAQ)
+
+### Q: What is a succession certificate and when do I need one?
+A succession certificate is a court order under the Indian Succession Act, 1925 that authorises a legal heir to collect debts and securities of a deceased person who died without a will. You typically need it when banks or financial institutions refuse to release deposits, shares, or insurance proceeds above ₹1–2 lakh.
+
+### Q: How long does it take to get a succession certificate?
+An uncontested case typically takes 3 to 6 months, including a mandatory 45-day public notice period. If someone files an objection, the case becomes contested and may take 1 to 3 years depending on the court's workload.
+
+### Q: What is the difference between a succession certificate and a legal heir certificate?
+A legal heir certificate is issued by the Tehsildar and simply lists the legal heirs. A succession certificate is a court order that specifically authorises an heir to collect debts and securities. Banks often require a succession certificate for amounts above ₹1 lakh as the legal heir certificate may not be accepted.
+
+### Q: How much does a succession certificate cost?
+Court fees vary by state and are calculated as a percentage of the asset value — typically 2% to 7.5%. For example, Delhi charges 2%, Maharashtra 3%, and Tamil Nadu 7.5%. You also need to pay lawyer fees, which range from ₹5,000 to ₹25,000 for uncontested cases.
+
+### Q: Can I file for succession certificate online?
+You can file the petition electronically through the e-Courts portal at services.ecourts.gov.in in districts where e-filing is enabled. However, court hearings still require physical or virtual appearance before the judge.
+
+### Q: Do I need a succession certificate if there is a valid will?
+No. If the deceased left a valid will, you apply for probate of the will instead. Succession certificates are specifically for intestate cases where the person died without leaving a will.

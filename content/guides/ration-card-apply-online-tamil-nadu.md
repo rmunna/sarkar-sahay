@@ -215,3 +215,23 @@ If your application is stuck or you face any issue:
 ---
 
 *Last updated: February 2026. Information is based on the latest TNPDS guidelines. Always check the [official portal](https://www.tnpds.gov.in) for the most current process.*
+
+## Frequently Asked Questions (FAQ)
+
+### Q: How do I apply for a Smart Ration Card in Tamil Nadu?
+Visit tnpds.gov.in, register with your Aadhaar and mobile number, click "New Ration Card Application," fill in family and income details, upload documents, and submit. After online submission, you will be called for biometric verification at your nearest Taluk Supply Office.
+
+### Q: Is there any fee for a new ration card in Tamil Nadu?
+There is no official government fee for a new ration card in Tamil Nadu. If applying through an e-Sevai centre, they may charge a service fee of ₹50–₹100. If anyone asks for a large amount, report it as a scam.
+
+### Q: How long does it take to get a ration card in Tamil Nadu?
+The total time from application to receiving your Smart Ration Card is typically 30 to 60 days. This includes online review (7–15 days), home verification (15–30 days), and biometric capture to card issue (15–20 days).
+
+### Q: What is biometric verification and why is it needed?
+After submitting your online application, you must visit your nearest Taluk Supply Office for fingerprint and photo capture. This biometric data is stored on your Smart Ration Card and used for Aadhaar-based authentication when you collect rations from the Fair Price Shop.
+
+### Q: How can I track my Tamil Nadu ration card application?
+Visit tnpds.gov.in and click "Track Application Status." Enter your Application Reference Number or Aadhaar number to view the current status. You also receive SMS updates on your registered mobile number at each stage.
+
+### Q: What should I do if I moved from another state to Tamil Nadu?
+First get your old ration card surrendered or cancelled in your previous state. Then apply for a fresh card in Tamil Nadu with your new address proof. Under ONORC rules, you cannot hold ration cards in two different states.

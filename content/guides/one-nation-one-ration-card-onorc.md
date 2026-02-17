@@ -233,3 +233,26 @@ The One Nation One Ration Card scheme is a landmark step toward ensuring **food 
 If you haven't already, ensure your **Aadhaar is linked to your ration card** and download the **Mera Ration app** to stay informed about your entitlements.
 
 > **Next steps:** [Apply for a Ration Card Online](/guide/ration-card-apply-online) | [Check Ration Card Status & Download](/guide/ration-card-status-download-update) | [Apply for Aadhaar Card](/guide/aadhaar-card-apply-online)
+
+## Frequently Asked Questions (FAQ)
+
+### Q: What is One Nation One Ration Card (ONORC)?
+ONORC is a central government scheme that allows any NFSA beneficiary to purchase their entitled subsidised foodgrains from any ePoS-enabled Fair Price Shop in the country, regardless of which state issued their ration card.
+
+### Q: Do I need to apply separately for ONORC?
+No. If you already hold a valid ration card under the National Food Security Act and your Aadhaar is seeded to it, you are automatically eligible. No separate application or registration is needed.
+
+### Q: Can I buy my full month's ration in a different state?
+Yes, you can collect your entire monthly quota or a partial quantity from any ePoS-enabled Fair Price Shop in any state. The remaining quota can be collected from another FPS, including your home state.
+
+### Q: What if my fingerprint does not work at the ration shop?
+You can try iris-based authentication if the ePoS device supports it. If biometric failure persists, contact your local Food and Civil Supplies office or call the national helpline 14445 for assistance.
+
+### Q: Is Aadhaar mandatory for using ONORC?
+Yes, Aadhaar seeding with the ration card is essential for ONORC portability. The biometric authentication at ePoS machines relies on Aadhaar. Visit your local Food & Civil Supplies office to complete the seeding if it is not done.
+
+### Q: How do I check my remaining ration entitlement for the month?
+Visit the IMPDS portal at impds.nic.in or use the Mera Ration mobile app. Enter your ration card number to view your entitlement, transaction history, and remaining balance for the current month.
+
+### Q: How do I find a nearby Fair Price Shop that supports ONORC?
+Download the Mera Ration app from the Google Play Store. It has a GPS-based search feature to find nearby ePoS-enabled Fair Price Shops. You can also check on the IMPDS portal.

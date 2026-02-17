@@ -243,4 +243,24 @@ Seal & Signature
 
 A No Objection Certificate is a critical document across many aspects of life in India — from moving your car to a new state to starting a business or pursuing higher education. With most NOCs now available through online portals, the process has become significantly simpler. Ensure you understand which type of NOC you need, gather the correct documents, and apply through the appropriate official channel.
 
-For related processes, check out our guides on [vehicle RC transfer](/guide/vehicle-rc-transfer-online), [property registration](/guide/property-registration-online), [police clearance certificates](/guide/police-clearance-certificate-apply)..
+For related processes, check out our guides on [vehicle RC transfer](/guide/vehicle-rc-transfer-online), [property registration](/guide/property-registration-online), [police clearance certificates](/guide/police-clearance-certificate-apply).
+
+## Frequently Asked Questions (FAQ)
+
+### Q: What is a No Objection Certificate (NOC)?
+A No Objection Certificate is a legal document issued by an organisation, authority, or individual declaring that they have no objection to the details mentioned in the certificate. It is commonly required for vehicle transfer between states, property dealings, employment changes, and regulatory clearances.
+
+### Q: How long does it take to get a vehicle NOC from RTO?
+A vehicle NOC from the RTO typically takes 7 to 15 working days after submitting the application on the Parivahan portal. The timeline may vary depending on the state and whether any pending challans or loans exist against the vehicle.
+
+### Q: Can I get a vehicle NOC if there is a loan on my car?
+No, you cannot obtain a vehicle NOC if there is an active hypothecation (loan) on the vehicle. You must first get a No Dues Certificate from the financier and have the hypothecation removed from the RC before applying for NOC.
+
+### Q: Is a fire NOC mandatory for all commercial buildings?
+Yes, a fire NOC is mandatory for commercial establishments, high-rise buildings, hospitals, educational institutions, and hotels. The requirement varies by state but is generally needed for any building above 15 metres in height or with a covered area exceeding a specified limit.
+
+### Q: How do I apply for a vehicle NOC online?
+Visit parivahan.gov.in, select your state and RTO, choose the NOC service, enter your vehicle registration number, upload required documents like RC and insurance, pay the fee (₹300–₹600), and submit. You can track the status on the same portal.
+
+### Q: What happens if I don't get an NOC when moving my vehicle to another state?
+Without a vehicle NOC, the new state RTO will not register your vehicle. You must obtain an NOC from the original registering RTO to complete re-registration. Driving without proper registration can attract fines under the Motor Vehicles Act.

@@ -364,3 +364,23 @@ To find your nearest PSK, visit the [Passport Seva Locator](https://www.passport
 - [How to Renew Your Passport Online](/guide/passport-renewal-online-india)
 - [Track Your Passport Application Status](/guide/passport-application-status-track)
 - [How to Apply for Child/Minor Passport](/guide/child-minor-passport-apply)
+
+## Frequently Asked Questions (FAQ)
+
+### Q: How fast can I get a Tatkal passport?
+With Annexure F (verification certificate from a gazetted officer), a Tatkal passport can be issued within 1 to 3 working days from your PSK visit. Without Annexure F, it takes 3 to 7 working days as police verification happens first.
+
+### Q: What is the total fee for a Tatkal passport?
+The total Tatkal fee for a 36-page booklet is ₹3,500 (₹1,500 normal fee + ₹2,000 Tatkal extra fee). For a 60-page booklet, it is ₹4,000. The Tatkal fee is non-refundable.
+
+### Q: What should I do if my passport is lost or stolen?
+First file an FIR or written complaint at the nearest police station. Then apply for a re-issue (not renewal) at passportindia.gov.in, selecting "Lost Passport" as the reason. Upload the FIR copy and other required documents. Police verification is mandatory for lost passport cases.
+
+### Q: Can I change my name and add spouse name in one passport application?
+Yes, you can combine multiple changes — name change, spouse name addition, and address change — in a single re-issue application. Select "Change in existing personal particulars" as the reason and provide all relevant documents like marriage certificate and Annexure K.
+
+### Q: What is the difference between ECR and ECNR passport?
+ECR (Emigration Check Required) means you need clearance from the Protector of Emigrants before travelling to certain countries for work. ECNR (Emigration Check Not Required) is granted if you have passed Class 10, are a woman, are above 50 or below 18, or meet other qualifying criteria.
+
+### Q: How do I apply for a new passport if my old one is damaged?
+Apply for re-issue at passportindia.gov.in and select "Damaged Passport" as the reason. You must carry and surrender the damaged passport at the PSK. Processing takes 15–30 days normally or 1–7 days under Tatkal.

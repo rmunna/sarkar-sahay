@@ -219,3 +219,23 @@ If rejected, you will receive a reason. Fix the issue and **reapply**.
 ---
 
 *For the general process applicable across all Indian states, see our [national guide to applying for a ration card online](/guide/ration-card-apply-online).*
+
+## Frequently Asked Questions (FAQ)
+
+### Q: How do I apply for a ration card online in Karnataka?
+Visit the AHARA portal at ahara.kar.nic.in, register with your Aadhaar and mobile number, select "New Ration Card Application," fill in your family details and income information, upload documents, and submit. You will receive an application reference number.
+
+### Q: What is the AHARA portal?
+AHARA (Aadhaar-enabled Household Application for Ration Assistance) is Karnataka's official system for managing ration cards. It handles new applications, tracking, transfers, and all ration card-related services through Aadhaar-based authentication.
+
+### Q: How long does it take to get a ration card in Karnataka?
+The typical processing time is 15 to 30 working days. A Food Inspector will visit your address for physical verification within 7–15 days of submission, followed by final approval from the Tahsildar or Deputy Director of Food & Civil Supplies.
+
+### Q: Is there any fee for a BPL ration card in Karnataka?
+BPL and AAY ration cards are issued free of charge. APL (Non-Priority Household) cards have a nominal fee of ₹5 to ₹45. If applying through a Karnataka One or Bangalore One centre, an additional service charge of ₹25–₹50 may apply.
+
+### Q: Do I need a Bhoomi RTC for a ration card application in Karnataka?
+Bhoomi RTC is not mandatory but is very helpful for rural applicants. It serves as strong address proof and helps officials verify your income status faster. You can download it from landrecords.karnataka.gov.in.
+
+### Q: What happens if my ration card application is rejected?
+You will receive a reason for rejection. Common reasons include Aadhaar mismatch, duplicate card, insufficient address proof, or failed verification. Fix the issue and reapply through the AHARA portal.
