@@ -48,6 +48,19 @@ export default function AboutPage() {
           </p>
         </div>
 
+        <h2 className="text-2xl font-bold mt-8 mb-4">Stay Updated</h2>
+        <p className="text-gray-600 mb-3">
+          Get instant alerts for government job notifications, exam dates, and results:
+        </p>
+        <a
+          href="https://t.me/citizennest"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-2 px-5 py-2.5 bg-blue-500 text-white rounded-lg font-semibold hover:bg-blue-600 transition text-sm"
+        >
+          📢 Join us on Telegram
+        </a>
+
         <h2 className="text-2xl font-bold mt-8 mb-4">Contact</h2>
         <p className="text-gray-600">
           Found an error or have a suggestion? We&apos;d love to hear from you.
