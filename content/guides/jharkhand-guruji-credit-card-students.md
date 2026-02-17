@@ -139,3 +139,9 @@ Yes, students already enrolled in an eligible course can apply for the remaining
 ---
 
 *Last updated: February 2026. Information is based on officially available data. Always verify current details on the [Guruji Student Credit Card portal](https://jsgcc.jharkhand.gov.in) before applying.*
+
+## Related Guides
+
+- [Bihar Student Credit Card Scheme](/guide/student-credit-card-bihar)
+- [Karnataka Vidyasiri Scholarship](/guide/karnataka-vidyasiri-scholarship)
+- [WB Swami Vivekananda Scholarship 2025 – Merit-cum-Means S...](/guide/wb-swami-vivekananda-scholarship)

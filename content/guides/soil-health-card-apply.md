@@ -261,3 +261,8 @@ Use the **recommended dose of urea** shown on your card. Also add **organic comp
 | **Card Contains** | pH, N, P, K, OC, Sulphur, Micro-nutrients |
 
 > **Remember:** Healthy soil = healthy crops = healthy income. Get your Soil Health Card today!
+
+## Related Guides
+
+- [PM Kisan Status](/guide/pm-kisan-status-check-beneficiary-list)
+- [PM Kisan Maandhan Yojana](/guide/pm-kisan-maandhan-pension)

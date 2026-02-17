@@ -137,6 +137,8 @@ Once approved (usually 3-7 working days), download the NOC from the portal. Some
 - [How to Get Duplicate Electricity Bill](/guides/duplicate-electricity-bill-download) — download bills to verify dues
 - [How to Apply for Commercial Electricity Connection](/guides/commercial-electricity-connection-apply) — if changing property use
 
+- [Apply for New Electricity Connection](/guide/electricity-connection-apply-online)
+- [Pay Electricity Bill](/guide/electricity-bill-pay-online-state-wise)
 ## Frequently Asked Questions
 
 ### Is electricity NOC mandatory for property registration?

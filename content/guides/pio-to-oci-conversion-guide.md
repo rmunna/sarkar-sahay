@@ -154,3 +154,5 @@ No. The entire process is handled through the Indian Embassy/Consulate or VFS ce
 - [OCI Card — How to Apply Online](/guides/oci-card-apply-online)
 - [Indian Visa Types & How to Apply](/guides/indian-visa-types-apply-online)
 - [How to Apply for Passport Online](/guides/passport-apply-online)
+
+- [Get PAN Card for NRI](/guide/pan-card-nri-apply-online)

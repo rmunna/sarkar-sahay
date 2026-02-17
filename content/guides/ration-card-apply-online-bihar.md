@@ -237,3 +237,8 @@ Visit serviceonline.bihar.gov.in and click "Track Application Status." Enter you
 
 ### Q: What are the common reasons for ration card rejection in Bihar?
 Common reasons include Aadhaar details mismatch, duplicate application (you or a family member already has a ration card), incomplete documents, wrong category selection, or holding a ration card in another state.
+
+## Related Guides
+
+- [Ration Card Status Check, Download & Update](/guide/ration-card-status-download-update)
+- [Ration Card](/guide/ration-card-add-remove-name)

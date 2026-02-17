@@ -263,6 +263,8 @@ You can re-apply in the next financial year. Check with your sponsoring agency f
 
 ---
 
+- [Startup India Registration](/guide/startup-india-dpiit-registration)
+- [Stand Up India](/guide/stand-up-india-loan-scheme)
 ## Official Links
 
 - PMEGP Online Application Portal: [https://www.kviconline.gov.in/pmegpeportal/jsp/pmegponline.jsp](https://www.kviconline.gov.in/pmegpeportal/jsp/pmegponline.jsp)

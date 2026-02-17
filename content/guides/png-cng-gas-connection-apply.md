@@ -135,6 +135,10 @@ If online application is not available:
 - [How to Get Duplicate Electricity Bill](/guides/duplicate-electricity-bill-download) — you may need electricity bill as address proof
 - [How to Apply for Sewage Connection](/guides/sewage-connection-apply-online) — another utility connection for new homes
 
+- [Apply for Gas Connection](/guide/lpg-gas-connection-apply-online)
+- [Apply for LPG Subsidy & Ujjwala Yojana](/guide/lpg-subsidy-ujjwala-yojana)
+- [Apply for Water Connection](/guide/water-connection-apply-online)
+- [Pay Water Bill](/guide/water-bill-pay-online-state-wise)
 ## Frequently Asked Questions
 
 ### Can tenants apply for PNG connection?

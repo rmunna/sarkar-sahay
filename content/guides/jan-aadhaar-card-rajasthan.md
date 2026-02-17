@@ -290,3 +290,8 @@ Enrollment requires Aadhaar for biometric verification. If you don't have Aadhaa
 ---
 
 *Last updated: 16 February 2026. Information sourced from the official Jan Aadhaar portal. Always verify details on [janaadhaar.rajasthan.gov.in](https://janaadhaar.rajasthan.gov.in) for the latest updates.*
+
+## Related Guides
+
+- [Indira Rasoi Yojana Rajasthan](/guide/indira-rasoi-yojana-rajasthan)
+- [Devnarayan Scooty Scheme 2025](/guide/rajasthan-devnarayan-scooty-scheme)

@@ -142,3 +142,8 @@ No. Bhagyalakshmi is exclusively for **girl children**. The government runs sepa
 ---
 
 *Last updated: February 2026. Information is based on official Karnataka DWCD sources. Verify details at your nearest Anganwadi centre or [dwcd.karnataka.gov.in](https://dwcd.karnataka.gov.in).*
+
+## Related Guides
+
+- [Gruha Lakshmi Scheme Karnataka](/guide/gruha-lakshmi-karnataka)
+- [Karnataka Shakti Scheme](/guide/shakti-free-bus-karnataka)

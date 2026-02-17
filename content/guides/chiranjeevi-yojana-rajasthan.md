@@ -170,3 +170,9 @@ Yes, both schemes can complement each other. Chiranjeevi covers all Rajasthan fa
 
 ### How do I check my Chiranjeevi Yojana registration status?
 Log in to [chiranjeevi.rajasthan.gov.in](https://chiranjeevi.rajasthan.gov.in) using your SSO ID and check your policy status. You can also visit any e-Mitra centre for assistance.
+
+## Related Guides
+
+- [Indira Rasoi Yojana Rajasthan](/guide/indira-rasoi-yojana-rajasthan)
+- [Devnarayan Scooty Scheme 2025](/guide/rajasthan-devnarayan-scooty-scheme)
+- [Mukhyamantri Rajshri Yojana 2025](/guide/rajasthan-mukhyamantri-rajshri-yojana)

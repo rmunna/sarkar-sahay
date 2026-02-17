@@ -147,3 +147,8 @@ No. There is a **lock-in period** (usually 5–10 years) during which the house 
 ---
 
 *Last updated: February 2026. Information is based on official Tamil Nadu government sources. Verify at [tnhb.tn.gov.in](https://tnhb.tn.gov.in) or your district collectorate.*
+
+## Related Guides
+
+- [Bihar Mukhyamantri Gramin Awas Yojana 2025 – Rural Housin...](/guide/bihar-mukhyamantri-gramin-awas-yojana)
+- [Maharashtra Gharkul Yojana 2025](/guide/maharashtra-gharkul-yojana)

@@ -190,3 +190,8 @@ Some states provide pension or financial assistance for **children with disabili
 - [DigiLocker — Digitize Your Documents](/guides/digilocker-documents-download)
 - [How to Apply for Income Certificate](/guides/income-certificate-apply-online)
 - [How to Check Land Records Online](/guides/land-records-online-all-states)
+
+- [Apply for Old Age Pension / Vridha Pension](/guide/old-age-pension-vridha-pension-apply)
+- [Apply for Widow Pension / Vidhwa Pension](/guide/widow-pension-vidhwa-pension-apply)
+- [Disability Pension, Tax Benefits & Schemes Available with...](/guide/disability-pension-benefits-udid)
+- [Atal Pension Yojana (APY)](/guide/atal-pension-yojana-apy)

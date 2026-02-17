@@ -124,3 +124,9 @@ Yes. Adopted girl children are eligible. The family must have a maximum of 2 chi
 
 ### 7. What if I have twins and both are girls?
 Both daughters are eligible. If twins are born as the second and third child, all eligible daughters receive the benefit.
+
+## Related Guides
+
+- [Ladli Bahna Yojana MP](/guide/ladli-bahna-yojana-mp)
+- [Majhi Ladki Bahin Yojana Maharashtra](/guide/majhi-ladki-bahin-yojana-maharashtra)
+- [Maharashtra Lek Ladki Yojana 2025](/guide/maharashtra-lek-ladki-yojana)

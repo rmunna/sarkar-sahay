@@ -233,3 +233,6 @@ A: No. EC shows the **history of transactions** on a property. It helps verify c
 ---
 
 *Last updated: February 2026. Always verify fees and procedures on the official state portal before applying.*
+
+- [Pay Property Tax](/guide/property-tax-payment-online)
+- [Pay Property Tax](/guide/property-tax-online-state-portals)

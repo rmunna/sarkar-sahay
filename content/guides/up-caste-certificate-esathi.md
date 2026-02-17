@@ -228,3 +228,9 @@ Only castes listed in the UP Government's official SC/ST/OBC list are eligible. 
 ---
 
 *Last updated: February 16, 2026. Information is based on the latest eSathi portal guidelines. Always verify current requirements on the official portal.*
+
+## Related Guides
+
+- [Kanya Sumangala Yojana UP](/guide/kanya-sumangala-yojana-up)
+- [UP Shadi Anudan Yojana](/guide/shadi-anudan-yojana-up)
+- [UP Pension Yojana (SSPY)](/guide/up-pension-yojana-old-age-widow-disabled)

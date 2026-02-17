@@ -132,6 +132,9 @@ Submit the application and note the reference number. Track status online throug
 - [How to Apply for Gas Connection Online](/guides/png-cng-gas-connection-apply) — piped gas connection process
 - [How to Transfer Electricity Connection](/guides/electricity-connection-transfer-name) — electricity name transfer
 
+- [Apply for Gas Connection](/guide/lpg-gas-connection-apply-online)
+- [Apply for LPG Subsidy & Ujjwala Yojana](/guide/lpg-subsidy-ujjwala-yojana)
+- [Apply for Water Connection](/guide/water-connection-apply-online)
 ## Frequently Asked Questions
 
 ### Is sewage connection mandatory?

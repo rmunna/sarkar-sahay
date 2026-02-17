@@ -149,3 +149,8 @@ As per the official UP Shadi Anudan portal, the sanctioned amount is **₹20,000
 - **Official Website**: [shadianudan.upsdc.gov.in](https://shadianudan.upsdc.gov.in)
 - **District Social Welfare Office** — for application follow-ups
 - **Toll-free Helpline**: 1800-419-0001 (Samaj Kalyan Vibhag)
+
+## Related Guides
+
+- [Ladli Bahna Yojana MP](/guide/ladli-bahna-yojana-mp)
+- [Majhi Ladki Bahin Yojana Maharashtra](/guide/majhi-ladki-bahin-yojana-maharashtra)

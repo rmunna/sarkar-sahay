@@ -154,3 +154,9 @@ For Class 12 Science stream, you typically need a minimum of **80 percentile** i
 ---
 
 *Disclaimer: CitizenNest is an independent platform and is not affiliated with the Government of Gujarat. Information is compiled from official sources for citizen convenience. Always verify details on the [official MYSY portal](https://mysy.guj.nic.in) before applying.*
+
+## Related Guides
+
+- [Bihar Student Credit Card Scheme](/guide/student-credit-card-bihar)
+- [Karnataka Vidyasiri Scholarship](/guide/karnataka-vidyasiri-scholarship)
+- [WB Swami Vivekananda Scholarship 2025 – Merit-cum-Means S...](/guide/wb-swami-vivekananda-scholarship)

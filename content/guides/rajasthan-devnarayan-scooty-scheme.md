@@ -122,3 +122,9 @@ While boys don't get scooties, backward class male students can avail of **post-
 ---
 
 *Disclaimer: CitizenNest is an independent platform and is not affiliated with the Government of Rajasthan. Information is compiled from official sources for citizen convenience. Always verify details on the [official HTE portal](https://hte.rajasthan.gov.in) before applying.*
+
+## Related Guides
+
+- [Chiranjeevi Yojana Rajasthan](/guide/chiranjeevi-yojana-rajasthan)
+- [Indira Rasoi Yojana Rajasthan](/guide/indira-rasoi-yojana-rajasthan)
+- [Mukhyamantri Rajshri Yojana 2025](/guide/rajasthan-mukhyamantri-rajshri-yojana)

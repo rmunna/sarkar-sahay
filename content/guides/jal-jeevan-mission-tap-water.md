@@ -121,6 +121,9 @@ JJM emphasizes water quality through:
 - [How to Apply for Gas Connection Online](/guides/png-cng-gas-connection-apply) — piped gas for cooking
 - [Ujala Scheme — LED Bulbs at Subsidized Price](/guides/ujala-scheme-led-bulbs-subsidy) — another government utility scheme
 
+- [Apply for Gas Connection](/guide/lpg-gas-connection-apply-online)
+- [Apply for LPG Subsidy & Ujjwala Yojana](/guide/lpg-subsidy-ujjwala-yojana)
+- [Apply for Water Connection](/guide/water-connection-apply-online)
 ## Frequently Asked Questions
 
 ### Is Jal Jeevan Mission only for rural areas?

@@ -119,3 +119,8 @@ Check the reason for rejection on the Seva Sindhu portal. Common reasons include
 ### Is the scheme available for women in urban areas?
 
 Yes. The Gruha Lakshmi scheme covers both **rural and urban** households across Karnataka.
+
+## Related Guides
+
+- [Ladli Bahna Yojana MP](/guide/ladli-bahna-yojana-mp)
+- [Majhi Ladki Bahin Yojana Maharashtra](/guide/majhi-ladki-bahin-yojana-maharashtra)

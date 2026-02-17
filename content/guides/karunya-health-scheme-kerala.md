@@ -196,3 +196,9 @@ You can appeal to the **District Collector** or apply to the **Chief Minister's 
 ---
 
 *Last updated: February 2026. Benefit amounts and guidelines may change. Always verify current details with your District Medical Office or the Kerala Health Department.*
+
+## Related Guides
+
+- [Kerala Karunya Benevolent Fund](/guide/kerala-karunya-lottery-treatment-fund)
+- [Kerala LIFE Mission Housing Scheme](/guide/kerala-life-mission-housing)
+- [Kerala Snehapoorvam Scholarship for Orphans](/guide/kerala-snehapoorvam-scholarship)

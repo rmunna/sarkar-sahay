@@ -242,3 +242,8 @@ UP Bhulekh is a powerful tool for anyone who needs to verify land ownership, che
 For plot maps, use the companion portal **[upbhunaksha.gov.in](https://upbhunaksha.gov.in)**.
 
 > See our [land records guide](/guide/land-records-bhulekh-online) for general information about checking Bhulekh records across Indian states.
+
+## Related Guides
+
+- [Check Land Records](/guide/land-records-online-all-states)
+- [Karnataka Bhoomi Land Records](/guide/bhoomi-land-records-karnataka)

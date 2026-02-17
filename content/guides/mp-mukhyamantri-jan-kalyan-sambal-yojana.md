@@ -166,3 +166,8 @@ No, you must be a **permanent resident of Madhya Pradesh** with a valid Samagra 
 ---
 
 *Disclaimer: This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Government of Madhya Pradesh. Verify all details on [sambal.mp.gov.in](https://sambal.mp.gov.in) before applying.*
+
+## Related Guides
+
+- [Ladli Bahna Yojana MP](/guide/ladli-bahna-yojana-mp)
+- [MP Mukhyamantri Seekho Kamao Yojana](/guide/seekho-kamao-yojana-mp)

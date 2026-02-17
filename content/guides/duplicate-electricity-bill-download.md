@@ -120,6 +120,9 @@ Your electricity bill contains:
 - [How to Get NOC from Electricity Board](/guides/electricity-board-noc-apply) — NOC for property transactions
 - [How to Apply for Gas Connection Online](/guides/png-cng-gas-connection-apply) — apply for PNG gas connection
 
+- [Apply for New Electricity Connection](/guide/electricity-connection-apply-online)
+- [Pay Electricity Bill](/guide/electricity-bill-pay-online-state-wise)
+- [Apply for Commercial Electricity Connection](/guide/commercial-electricity-connection-apply)
 ## Frequently Asked Questions
 
 ### Is a downloaded electricity bill valid as address proof?

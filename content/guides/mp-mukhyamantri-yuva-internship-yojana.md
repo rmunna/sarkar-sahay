@@ -149,3 +149,9 @@ Yes, **Samagra ID is mandatory** for all MP government schemes including this in
 ---
 
 *Disclaimer: This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Government of Madhya Pradesh. Always verify details on the official MP government portal before applying.*
+
+## Related Guides
+
+- [Ladli Bahna Yojana MP](/guide/ladli-bahna-yojana-mp)
+- [MP Mukhyamantri Seekho Kamao Yojana](/guide/seekho-kamao-yojana-mp)
+- [MP Mukhyamantri Jan Kalyan Sambal Yojana](/guide/mp-mukhyamantri-jan-kalyan-sambal-yojana)

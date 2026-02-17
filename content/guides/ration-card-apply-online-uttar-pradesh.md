@@ -235,3 +235,6 @@ There is no strict limit — all members of the household living together can be
 ---
 
 *Last updated: February 2026. Information is based on official UP Food & Civil Supplies Department data. Always verify latest details on [fcs.up.gov.in](https://fcs.up.gov.in).*
+
+- [Ration Card Status Check, Download & Update](/guide/ration-card-status-download-update)
+- [Ration Card](/guide/ration-card-add-remove-name)

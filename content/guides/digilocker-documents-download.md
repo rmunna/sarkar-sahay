@@ -173,3 +173,5 @@ Yes, you get **1 GB of free storage** for uploaded documents. Issued (fetched) d
 - [How to Apply for PAN Card Online](/guides/pan-card-apply-online)
 - [How to Apply for Driving Licence](/guides/driving-licence-apply-online)
 - [Police Verification Certificate Guide](/guides/police-verification-certificate-guide)
+
+- [Use DigiLocker](/guide/digilocker-guide)

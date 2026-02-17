@@ -184,3 +184,8 @@ The disability certificate is **mandatory** for Divyang Pension. Get it issued f
 ---
 
 *Disclaimer: This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Government of Uttar Pradesh. Always verify details on [sspy-up.gov.in](https://sspy-up.gov.in) before applying.*
+
+## Related Guides
+
+- [Kanya Sumangala Yojana UP](/guide/kanya-sumangala-yojana-up)
+- [UP Shadi Anudan Yojana](/guide/shadi-anudan-yojana-up)

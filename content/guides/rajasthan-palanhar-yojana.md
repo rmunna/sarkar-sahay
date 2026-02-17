@@ -148,3 +148,8 @@ Yes, Palanhar Yojana is available for both rural and urban children across all d
 ---
 
 *Disclaimer: CitizenNest is an independent platform and is not affiliated with the Government of Rajasthan. Information is compiled from official sources for citizen convenience. Always verify details on the [official SJE portal](https://sje.rajasthan.gov.in) before applying.*
+
+## Related Guides
+
+- [Chiranjeevi Yojana Rajasthan](/guide/chiranjeevi-yojana-rajasthan)
+- [Indira Rasoi Yojana Rajasthan](/guide/indira-rasoi-yojana-rajasthan)

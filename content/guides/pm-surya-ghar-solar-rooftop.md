@@ -204,3 +204,8 @@ PM Surya Ghar Yojana is a **pan-India scheme** covering all states and union ter
 ---
 
 *Last updated: February 2026. Information is based on official government guidelines. Subsidy amounts and processes may change — always verify on the [official portal](https://pmsuryaghar.gov.in).*
+
+## Related Guides
+
+- [PM-KUSUM Solar Pump Scheme](/guide/pm-kusum-solar-pump-scheme)
+- [Pay Electricity Bill](/guide/electricity-bill-pay-online-state-wise)

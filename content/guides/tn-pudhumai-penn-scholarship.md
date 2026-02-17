@@ -132,3 +132,9 @@ Log in to the scholarship portal with your HSC registration number, or check wit
 ---
 
 *Last updated: February 2026. Information is based on official Tamil Nadu government sources. Verify at [penkalvi.tn.gov.in](https://penkalvi.tn.gov.in) or your college scholarship cell.*
+
+## Related Guides
+
+- [Ladli Bahna Yojana MP](/guide/ladli-bahna-yojana-mp)
+- [Majhi Ladki Bahin Yojana Maharashtra](/guide/majhi-ladki-bahin-yojana-maharashtra)
+- [Maharashtra Lek Ladki Yojana 2025](/guide/maharashtra-lek-ladki-yojana)

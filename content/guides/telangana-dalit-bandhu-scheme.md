@@ -124,3 +124,8 @@ The applicant must be **at least 18 years old**. There is no upper age limit, th
 ---
 
 *Last updated: February 2026. Information is based on official Telangana government sources. Verify at [dalitbandhu.telangana.gov.in](https://dalitbandhu.telangana.gov.in) or your district SC Development Office.*
+
+## Related Guides
+
+- [Rythu Bandhu Telangana](/guide/rythu-bandhu-telangana)
+- [Telangana Aasara Pension Scheme](/guide/telangana-aasara-pension)

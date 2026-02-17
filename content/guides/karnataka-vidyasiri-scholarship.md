@@ -131,3 +131,8 @@ Check if your bank account is properly linked to Aadhaar. Visit the District Bac
 ---
 
 *Last updated: February 2026. Information is based on official Karnataka Backward Classes Welfare Department sources. Verify at [sw.kar.nic.in](https://sw.kar.nic.in) or your district welfare office.*
+
+## Related Guides
+
+- [Bihar Student Credit Card Scheme](/guide/student-credit-card-bihar)
+- [WB Swami Vivekananda Scholarship 2025 – Merit-cum-Means S...](/guide/wb-swami-vivekananda-scholarship)

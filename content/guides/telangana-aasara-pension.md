@@ -164,3 +164,9 @@ You can appeal to the **District Collector** within 30 days of rejection. Ensure
 ---
 
 *Last updated: February 2026. Information is based on official Telangana government sources. Verify at [aasara.telangana.gov.in](https://aasara.telangana.gov.in) or your nearest MRO office.*
+
+## Related Guides
+
+- [Rythu Bandhu Telangana](/guide/rythu-bandhu-telangana)
+- [Telangana Dalit Bandhu Scheme](/guide/telangana-dalit-bandhu-scheme)
+- [Telangana Kalyana Lakshmi & Shaadi Mubarak](/guide/kalyana-lakshmi-shaadi-mubarak-telangana)

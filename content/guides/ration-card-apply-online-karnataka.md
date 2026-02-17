@@ -241,3 +241,8 @@ Bhoomi RTC is not mandatory but is very helpful for rural applicants. It serves 
 
 ### Q: What happens if my ration card application is rejected?
 You will receive a reason for rejection. Common reasons include Aadhaar mismatch, duplicate card, insufficient address proof, or failed verification. Fix the issue and reapply through the AHARA portal.
+
+## Related Guides
+
+- [Ration Card Status Check, Download & Update](/guide/ration-card-status-download-update)
+- [Ration Card](/guide/ration-card-add-remove-name)

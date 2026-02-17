@@ -140,3 +140,8 @@ After approval, the amount is typically credited within **30–60 days** via Dir
 | **Eligibility** | SC/ST/BC/EBC/Minority girls, 18+, income ≤ ₹2 lakh |
 | **Apply at** | [telanganaepass.cgg.gov.in](https://telanganaepass.cgg.gov.in) |
 | **Deadline** | Within 1 year of marriage |
+
+## Related Guides
+
+- [Rythu Bandhu Telangana](/guide/rythu-bandhu-telangana)
+- [Telangana Aasara Pension Scheme](/guide/telangana-aasara-pension)

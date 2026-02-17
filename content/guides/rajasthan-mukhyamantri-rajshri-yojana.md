@@ -132,3 +132,9 @@ For the 6th instalment (₹25,000), you need the **Class 12 marksheet/passing ce
 ---
 
 *Disclaimer: CitizenNest is an independent platform and is not affiliated with the Government of Rajasthan. Information is compiled from official sources for citizen convenience. Always verify details on the [official WCD portal](https://wcd.rajasthan.gov.in) before applying.*
+
+## Related Guides
+
+- [Ladli Bahna Yojana MP](/guide/ladli-bahna-yojana-mp)
+- [Majhi Ladki Bahin Yojana Maharashtra](/guide/majhi-ladki-bahin-yojana-maharashtra)
+- [Maharashtra Lek Ladki Yojana 2025](/guide/maharashtra-lek-ladki-yojana)

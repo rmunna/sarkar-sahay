@@ -143,3 +143,10 @@ Yes. The scheme is open to students from **all types of colleges** in Tamil Nadu
 ---
 
 *Last updated: February 2026. Information is based on official Tamil Nadu government sources. Verify at [naanmudhalvan.tn.gov.in](https://naanmudhalvan.tn.gov.in) or your college placement cell.*
+
+## Related Guides
+
+- [Kalaignar Magalir Urimai Thogai Tamil Nadu](/guide/kalaignar-magalir-urimai-thogai-tamil-nadu)
+- [TN Pudhumai Penn Scholarship](/guide/tn-pudhumai-penn-scholarship)
+- [TN Free Laptop & Bicycle Scheme for Students](/guide/tn-free-bicycle-laptop-scheme-students)
+- [TN Kalaignar Kanavu Illam Housing Scheme](/guide/tn-kalaignar-kanavu-illam-housing)

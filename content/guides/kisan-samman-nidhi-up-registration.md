@@ -164,3 +164,8 @@ Log in to pmkisan.gov.in, go to "Updation of Self Registered Farmer" section, an
 ---
 
 *Disclaimer: This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Government of India or Government of Uttar Pradesh. Always verify details on [pmkisan.gov.in](https://pmkisan.gov.in) before taking any action.*
+
+## Related Guides
+
+- [Kanya Sumangala Yojana UP](/guide/kanya-sumangala-yojana-up)
+- [UP Shadi Anudan Yojana](/guide/shadi-anudan-yojana-up)

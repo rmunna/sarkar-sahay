@@ -139,3 +139,9 @@ Yes, you can apply even if you have some tools. The scheme is meant to supplemen
 ---
 
 *Disclaimer: CitizenNest is an independent platform and is not affiliated with the Government of Gujarat. Information is compiled from official sources for citizen convenience. Always verify details on the [official SJE portal](https://sje.gujarat.gov.in) before applying.*
+
+## Related Guides
+
+- [Gujarat Vhali Dikri Yojana](/guide/gujarat-vhali-dikri-yojana)
+- [Gujarat Mukhyamantri Yuva Swavalamban Yojana 2025](/guide/gujarat-mukhyamantri-yuva-swavalamban-yojana)
+- [Mukhyamantri Mahila Utkarsh Yojana Gujarat](/guide/mukhyamantri-mahila-utkarsh-yojana-gujarat)

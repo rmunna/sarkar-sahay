@@ -127,3 +127,8 @@ No, the applicant must be a **permanent resident of Maharashtra** and physically
 ---
 
 *Disclaimer: CitizenNest is an independent platform and is not affiliated with the Government of Maharashtra. Information is compiled from official sources for citizen convenience. Always verify details on the [official SJSA portal](https://sjsa.maharashtra.gov.in) before applying.*
+
+## Related Guides
+
+- [Majhi Ladki Bahin Yojana Maharashtra](/guide/majhi-ladki-bahin-yojana-maharashtra)
+- [Maharashtra Lek Ladki Yojana 2025](/guide/maharashtra-lek-ladki-yojana)

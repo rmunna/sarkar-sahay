@@ -127,3 +127,8 @@ Report the issue immediately to the **Food Inspector** of your taluk or call the
 ---
 
 *Last updated: February 2026. Information is based on official Karnataka government sources. Always verify details at your local Food and Civil Supplies office or [ahara.kar.nic.in](https://ahara.kar.nic.in).*
+
+## Related Guides
+
+- [Gruha Lakshmi Scheme Karnataka](/guide/gruha-lakshmi-karnataka)
+- [Karnataka Shakti Scheme](/guide/shakti-free-bus-karnataka)

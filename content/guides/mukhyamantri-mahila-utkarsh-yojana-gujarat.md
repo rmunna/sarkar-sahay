@@ -145,3 +145,9 @@ Contact your nearest Anganwadi worker, GLPC district office, or Block Developmen
 ---
 
 *Disclaimer: This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Government of Gujarat. Verify all details on [mmuy.gujarat.gov.in](https://mmuy.gujarat.gov.in) before applying.*
+
+## Related Guides
+
+- [Gujarat Vhali Dikri Yojana](/guide/gujarat-vhali-dikri-yojana)
+- [Gujarat Manav Garima Yojana 2025](/guide/gujarat-manav-garima-yojana)
+- [Gujarat Mukhyamantri Yuva Swavalamban Yojana 2025](/guide/gujarat-mukhyamantri-yuva-swavalamban-yojana)

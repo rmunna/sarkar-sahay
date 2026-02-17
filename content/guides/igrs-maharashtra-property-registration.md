@@ -302,3 +302,9 @@ The document can be **impounded** by the registrar. A penalty of up to **2% per 
 ---
 
 *Last updated: February 2026. Stamp duty rates and procedures may change — always verify current rates on the [official IGRS portal](https://igrmaharashtra.gov.in) before proceeding.*
+
+## Related Guides
+
+- [Majhi Ladki Bahin Yojana Maharashtra](/guide/majhi-ladki-bahin-yojana-maharashtra)
+- [Maharashtra Lek Ladki Yojana 2025](/guide/maharashtra-lek-ladki-yojana)
+- [Maharashtra Gharkul Yojana 2025](/guide/maharashtra-gharkul-yojana)

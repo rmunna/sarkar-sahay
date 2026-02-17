@@ -217,6 +217,8 @@ If your application is stuck or you face any issue:
 
 *Last updated: February 2026. Information is based on the latest TNPDS guidelines. Always check the [official portal](https://www.tnpds.gov.in) for the most current process.*
 
+- [Ration Card Status Check, Download & Update](/guide/ration-card-status-download-update)
+- [Ration Card](/guide/ration-card-add-remove-name)
 ## Frequently Asked Questions (FAQ)
 
 ### Q: How do I apply for a Smart Ration Card in Tamil Nadu?

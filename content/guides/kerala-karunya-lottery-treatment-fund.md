@@ -163,3 +163,8 @@ Many empanelled hospitals have a **Karunya help desk** that assists patients in 
 ---
 
 *Disclaimer: CitizenNest is an independent platform and is not affiliated with the Government of Kerala. Information is compiled from official sources and may change. Always verify current details on [karunya.kerala.gov.in](https://www.karunya.kerala.gov.in).*
+
+## Related Guides
+
+- [Kerala Karunya Health Scheme](/guide/karunya-health-scheme-kerala)
+- [Kerala LIFE Mission Housing Scheme](/guide/kerala-life-mission-housing)

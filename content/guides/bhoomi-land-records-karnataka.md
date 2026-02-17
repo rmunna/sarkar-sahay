@@ -296,3 +296,9 @@ Visit landrecords.karnataka.gov.in/service93/citizen and register with your mobi
 
 ### Q: What is the Bhoomi helpline number?
 The Bhoomi toll-free helpline number is 1800-425-9908. You can also email bhoomi.helpdesk@karnataka.gov.in or visit your local Taluk office for in-person help.
+
+## Related Guides
+
+- [Check Land Records](/guide/land-records-online-all-states)
+- [UP Bhulekh](/guide/up-bhulekh-land-records)
+- [Bihar Bhumi Jankari](/guide/bhumi-jankari-land-records-bihar)

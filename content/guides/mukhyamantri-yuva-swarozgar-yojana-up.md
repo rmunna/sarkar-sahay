@@ -143,3 +143,8 @@ For loans up to ₹10 lakh, no collateral is required as these are covered under
 ---
 
 *Disclaimer: This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Government of Uttar Pradesh. Always verify details on the [official DIUPMSME portal](https://diupmsme.upsdc.gov.in) before applying.*
+
+## Related Guides
+
+- [Kanya Sumangala Yojana UP](/guide/kanya-sumangala-yojana-up)
+- [UP Shadi Anudan Yojana](/guide/shadi-anudan-yojana-up)

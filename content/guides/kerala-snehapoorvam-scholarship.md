@@ -149,3 +149,8 @@ The name "Snehapoorvam" means "with love" — reflecting the state's commitment 
 ---
 
 *Disclaimer: CitizenNest is an independent platform and is not affiliated with the Government of Kerala. Information is compiled from official sources and may change. Always verify current details on [sjd.kerala.gov.in](https://sjd.kerala.gov.in).*
+
+## Related Guides
+
+- [Bihar Student Credit Card Scheme](/guide/student-credit-card-bihar)
+- [Karnataka Vidyasiri Scholarship](/guide/karnataka-vidyasiri-scholarship)

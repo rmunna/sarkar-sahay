@@ -139,3 +139,9 @@ Contact your college/university administration and ask them to verify your data 
 ---
 
 *Disclaimer: This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Government of Uttar Pradesh. Verify all details on official UP government portals before taking any action.*
+
+## Related Guides
+
+- [Kanya Sumangala Yojana UP](/guide/kanya-sumangala-yojana-up)
+- [UP Shadi Anudan Yojana](/guide/shadi-anudan-yojana-up)
+- [UP Pension Yojana (SSPY)](/guide/up-pension-yojana-old-age-widow-disabled)

@@ -133,3 +133,8 @@ The laptops come pre-loaded with **Tamil Nadu state board study materials**, edu
 ---
 
 *Disclaimer: CitizenNest is an independent platform and is not affiliated with the Government of Tamil Nadu. Information is compiled from official sources and may change. Always verify current details on [tn.gov.in](https://www.tn.gov.in).*
+
+## Related Guides
+
+- [Kalaignar Magalir Urimai Thogai Tamil Nadu](/guide/kalaignar-magalir-urimai-thogai-tamil-nadu)
+- [TN Pudhumai Penn Scholarship](/guide/tn-pudhumai-penn-scholarship)

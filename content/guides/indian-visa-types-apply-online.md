@@ -188,3 +188,5 @@ Travel insurance is not mandatory but strongly recommended. Some visa categories
 - [PIO to OCI Conversion Guide](/guides/pio-to-oci-conversion-guide)
 - [How to Apply for Passport Online](/guides/passport-apply-online)
 - [Police Verification Certificate Guide](/guides/police-verification-certificate-guide)
+
+- [Get PAN Card for NRI](/guide/pan-card-nri-apply-online)

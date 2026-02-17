@@ -130,6 +130,8 @@ Visit your state DISCOM's official website for the exact online process.
 - [How to Get NOC from Electricity Board](/guides/electricity-board-noc-apply) — NOC needed for property transactions
 - [How to Apply for Commercial Electricity Connection](/guides/commercial-electricity-connection-apply) — if converting to commercial use
 
+- [Apply for New Electricity Connection](/guide/electricity-connection-apply-online)
+- [Pay Electricity Bill](/guide/electricity-bill-pay-online-state-wise)
 ## Frequently Asked Questions
 
 ### Can transfer happen without the previous owner's NOC?

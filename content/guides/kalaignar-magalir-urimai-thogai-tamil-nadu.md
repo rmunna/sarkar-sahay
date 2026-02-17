@@ -165,3 +165,8 @@ The scheme is available to all women heads of families holding a **rice ration c
 ---
 
 *Last updated: February 2026. Information is based on official Tamil Nadu government announcements. For the latest details, visit [tnesevai.tn.gov.in](https://www.tnesevai.tn.gov.in) or contact your district collector office.*
+
+## Related Guides
+
+- [Ladli Bahna Yojana MP](/guide/ladli-bahna-yojana-mp)
+- [Majhi Ladki Bahin Yojana Maharashtra](/guide/majhi-ladki-bahin-yojana-maharashtra)

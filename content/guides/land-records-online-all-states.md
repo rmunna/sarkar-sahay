@@ -191,3 +191,8 @@ Update frequency varies by state. Most states update records after **mutation is
 - [How to File Consumer Complaint on E-Daakhil](/guides/e-daakhil-consumer-complaint-file)
 - [DigiLocker — Digitize Your Documents](/guides/digilocker-documents-download)
 - [How to Apply for Aadhaar Card](/guides/aadhaar-card-apply-online)
+
+- [Register Property](/guide/property-registration-online)
+- [Pay Property Tax](/guide/property-tax-payment-online)
+- [Pay Property Tax](/guide/property-tax-online-state-portals)
+- [Check Land Records](/guide/land-records-bhulekh-online)

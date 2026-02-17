@@ -176,3 +176,5 @@ OCI is valid for **lifetime**. However, the physical card may need re-issue in c
 - [PIO to OCI Conversion Guide](/guides/pio-to-oci-conversion-guide)
 - [How to Apply for Passport Online](/guides/passport-apply-online)
 - [How to Apply for Aadhaar Card](/guides/aadhaar-card-apply-online)
+
+- [Get PAN Card for NRI](/guide/pan-card-nri-apply-online)

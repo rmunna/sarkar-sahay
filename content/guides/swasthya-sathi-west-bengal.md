@@ -227,3 +227,9 @@ The scheme primarily covers treatment at empanelled hospitals within West Bengal
 
 ### Do I need Aadhaar for Swasthya Sathi?
 Aadhaar is required for enrolment and biometric verification at hospitals.
+
+## Related Guides
+
+- [West Bengal Kanyashree Prakalpa](/guide/kanyashree-prakalpa-west-bengal)
+- [Lakshmir Bhandar West Bengal](/guide/lakshmir-bhandar-west-bengal)
+- [WB Sabuj Sathi Scheme 2025 – Free Bicycle for Students in...](/guide/wb-sabuj-sathi-bicycle-scheme)

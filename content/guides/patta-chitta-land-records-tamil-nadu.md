@@ -303,3 +303,9 @@ Typically **15–30 working days** from the date of application, assuming all do
 ---
 
 Also see our [property registration guide](/guide/property-registration-online) for details on registering property in India.
+
+## Related Guides
+
+- [Check Land Records](/guide/land-records-bhulekh-online)
+- [Check Land Records](/guide/land-records-online-all-states)
+- [UP Bhulekh](/guide/up-bhulekh-land-records)

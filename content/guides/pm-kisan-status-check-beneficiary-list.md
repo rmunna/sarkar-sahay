@@ -241,3 +241,9 @@ No. Only **one member per family** (husband, wife, and minor children) is eligib
 
 ### Q7: How do I find my name in the PM Kisan beneficiary list for my village?
 Go to [pmkisan.gov.in/BeneficiaryList.aspx](https://pmkisan.gov.in/BeneficiaryList.aspx), select your State → District → Sub-District → Block → Village → Get Report. Your name will appear if you are an approved beneficiary.
+
+## Related Guides
+
+- [Kisan Credit Card (KCC)](/guide/kisan-credit-card-apply)
+- [PM Kisan Maandhan Yojana](/guide/pm-kisan-maandhan-pension)
+- [Apply for Pradhan Mantri Fasal Bima Yojana (PMFBY)](/guide/pmfby-crop-insurance-apply)
