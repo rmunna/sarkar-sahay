@@ -1,4 +1,5 @@
 import { getGuideBySlug, getAllGuideSlugs, getGuideRawContent, getRelatedGuides } from "@/lib/guides";
+import { getAllHindiGuideSlugs } from "@/lib/guides-hi";
 import { generateFAQSchema, generateArticleSchema, generateHowToSchema, extractFAQs } from "@/lib/faq-schema";
 import { notFound } from "next/navigation";
 import Link from "next/link";
@@ -31,6 +32,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     alternates: {
       canonical: `${BASE_URL}/guide/${guide.slug}`,
+      languages: {
+        en: `${BASE_URL}/guide/${guide.slug}`,
+        ...(getAllHindiGuideSlugs().includes(guide.slug) ? { hi: `${BASE_URL}/hi/guide/${guide.slug}` } : {}),
+      },
     },
   };
 }
@@ -94,6 +99,7 @@ export default async function GuidePage({ params }: Props) {
   const contentWithIds = addHeadingIds(guide.contentHtml);
   const catStyle = getCategoryStyle(guide.category);
   const relatedGuides = getRelatedGuides(slug, 5);
+  const hasHindi = getAllHindiGuideSlugs().includes(slug);
 
   const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.citizennest.com";
   const breadcrumbSchema = {
@@ -143,6 +149,18 @@ export default async function GuidePage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
+
+      {/* Language Switcher */}
+      {hasHindi && (
+        <div className="flex justify-end mb-4">
+          <Link
+            href={`/hi/guide/${slug}`}
+            className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-gray-100 border border-gray-200 rounded-lg text-sm text-gray-600 hover:bg-gray-200 transition"
+          >
+            🇮🇳 हिन्दी
+          </Link>
+        </div>
+      )}
 
       {/* Breadcrumb */}
       <nav className="text-sm text-gray-500 mb-6">

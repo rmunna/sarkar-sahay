@@ -17,6 +17,7 @@ const STATE_SLUGS = [
 
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.citizennest.com";
 const GUIDES_DIR = path.join(__dirname, "..", "content", "guides");
+const GUIDES_HI_DIR = path.join(__dirname, "..", "content", "guides-hi");
 const UPDATES_DIR = path.join(__dirname, "..", "content", "updates");
 const OUT_DIR = path.join(__dirname, "..", ".next", "static");
 
@@ -47,6 +48,21 @@ function getGuides() {
     });
 }
 
+function getHindiGuides() {
+  if (!fs.existsSync(GUIDES_HI_DIR)) return [];
+  return fs
+    .readdirSync(GUIDES_HI_DIR)
+    .filter((f) => f.endsWith(".md"))
+    .map((f) => {
+      const content = fs.readFileSync(path.join(GUIDES_HI_DIR, f), "utf8");
+      const { data } = matter(content);
+      return {
+        slug: f.replace(/\.md$/, ""),
+        lastUpdated: toDateString(data.lastUpdated),
+      };
+    });
+}
+
 function getUpdates() {
   if (!fs.existsSync(UPDATES_DIR)) return [];
   return fs
@@ -65,11 +81,13 @@ function getUpdates() {
 
 function generateSitemap(): string {
   const guides = getGuides();
+  const hindiGuides = getHindiGuides();
   const updates = getUpdates();
   const today = new Date().toISOString().split("T")[0];
 
   const urls = [
     { loc: BASE_URL, lastmod: today, changefreq: "daily", priority: "1.0" },
+    { loc: `${BASE_URL}/hi`, lastmod: today, changefreq: "daily", priority: "0.9" },
     { loc: `${BASE_URL}/categories`, lastmod: today, changefreq: "weekly", priority: "0.7" },
     { loc: `${BASE_URL}/updates`, lastmod: today, changefreq: "daily", priority: "0.9" },
     { loc: `${BASE_URL}/about`, lastmod: today, changefreq: "monthly", priority: "0.3" },
@@ -83,6 +101,12 @@ function generateSitemap(): string {
     ...guides.map((g) => ({
       loc: `${BASE_URL}/guide/${g.slug}`,
       lastmod: g.lastUpdated,
+      changefreq: "weekly",
+      priority: "0.8",
+    })),
+    ...hindiGuides.map((g) => ({
+      loc: `${BASE_URL}/hi/guide/${g.slug}`,
+      lastmod: g.lastUpdated || today,
       changefreq: "weekly",
       priority: "0.8",
     })),
