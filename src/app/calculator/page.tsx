@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Free Financial Calculators for India",
+  title: "Free Financial Calculators & Tools for India",
   description:
-    "Use our free calculators for income tax, HRA exemption, gratuity, EPF retirement, stamp duty, and age eligibility checks — updated for FY 2025-26.",
+    "Free calculators for EMI, SIP, FD, PPF, income tax, HRA, gratuity, salary, stamp duty, rent receipts & eligibility checkers — updated for FY 2025-26.",
 };
 
 const calculators = [
@@ -43,6 +43,42 @@ const calculators = [
     title: "EMI Calculator",
     description: "Calculate monthly EMI for home, car, personal & education loans with amortization schedule.",
     href: "/calculator/emi",
+  },
+  {
+    icon: "📈",
+    title: "SIP Calculator",
+    description: "Estimate mutual fund SIP returns with year-wise growth projection.",
+    href: "/calculator/sip",
+  },
+  {
+    icon: "🏧",
+    title: "FD Calculator",
+    description: "Calculate fixed deposit maturity amount with different compounding frequencies.",
+    href: "/calculator/fd",
+  },
+  {
+    icon: "🏛️",
+    title: "PPF Calculator",
+    description: "Calculate PPF maturity amount, interest earned & tax savings under Section 80C.",
+    href: "/calculator/ppf",
+  },
+  {
+    icon: "👧",
+    title: "Sukanya Samriddhi Calculator",
+    description: "Calculate SSY maturity amount for your girl child's education & marriage fund.",
+    href: "/calculator/sukanya-samriddhi",
+  },
+  {
+    icon: "💼",
+    title: "Salary Calculator",
+    description: "Convert CTC to in-hand salary with PF, tax & deductions for Old & New regime.",
+    href: "/calculator/salary",
+  },
+  {
+    icon: "🧾",
+    title: "Rent Receipt Generator",
+    description: "Generate free printable rent receipts for HRA tax exemption claims.",
+    href: "/calculator/rent-receipt",
   },
   {
     icon: "💼",
