@@ -73,18 +73,18 @@
 - [x] ppf-account-open-guide — PPF detailed guide
 - [x] fixed-deposit-vs-rd-comparison — FD vs RD comparison
 - [x] post-office-savings-schemes — All post office schemes
-- [ ] gold-loan-comparison-guide — Gold loan options
-- [ ] education-loan-india-guide — Education loan guide
-- [ ] home-loan-guide-india — Home loan complete guide
-- [ ] credit-card-apply-compare — Credit card guide
-- [ ] upi-payment-setup-guide — UPI setup and troubleshooting
+- [x] gold-loan-comparison-guide — Gold loan options
+- [x] education-loan-india-guide — Education loan guide
+- [x] home-loan-guide-india — Home loan complete guide
+- [x] credit-card-apply-compare — Credit card guide
+- [x] upi-payment-setup-guide — UPI setup and troubleshooting
 
 ## Priority 4: Property & Legal (gaps)
-- [ ] rent-agreement-registration — Rent agreement process
-- [ ] property-mutation-online — Property mutation/name transfer
-- [ ] khata-transfer-property — Khata transfer
-- [ ] land-conversion-agricultural — Agri to non-agri land
-- [ ] building-plan-approval-online — Building plan sanction
+- [x] rent-agreement-registration — Rent agreement process
+- [x] property-mutation-online — Property mutation/name transfer
+- [x] khata-transfer-property — Khata transfer
+- [x] land-conversion-agricultural — Agri to non-agri land
+- [x] building-plan-approval-online — Building plan sanction
 - [ ] rera-complaint-filing — RERA complaint process
 - [ ] tenant-rights-india — Tenant rights guide
 - [ ] landlord-rights-india — Landlord rights guide
