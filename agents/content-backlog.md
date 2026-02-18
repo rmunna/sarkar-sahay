@@ -29,16 +29,16 @@
 - [x] solvency-certificate-apply — Solvency certificate
 
 ### Utilities (gaps)
-- [ ] lpg-gas-booking-online — Online LPG cylinder booking
-- [ ] electricity-bill-payment-online — Pay electricity bill online
-- [ ] water-bill-payment-online — Water bill payment
-- [ ] broadband-bsnl-apply — BSNL broadband connection
-- [ ] jio-fiber-airtel-broadband — Private broadband comparison
-- [ ] ration-card-correction-online — Correct ration card details
-- [ ] smart-meter-installation — Smart electricity meter
-- [ ] solar-rooftop-subsidy-apply — Solar panel subsidy (PM Surya Ghar)
-- [ ] ev-subsidy-fame-scheme — Electric vehicle subsidy
-- [ ] rainwater-harvesting-subsidy — Rainwater harvesting incentives
+- [x] lpg-gas-booking-online — Online LPG cylinder booking
+- [x] electricity-bill-payment-online — Pay electricity bill online
+- [x] water-bill-payment-online — Water bill payment
+- [x] broadband-bsnl-apply — BSNL broadband connection
+- [x] jio-fiber-airtel-broadband — Private broadband comparison
+- [x] ration-card-correction-online — Correct ration card details
+- [x] smart-meter-installation — Smart electricity meter
+- [x] solar-rooftop-subsidy-apply — Solar panel subsidy (PM Surya Ghar)
+- [x] ev-subsidy-fame-scheme — Electric vehicle subsidy
+- [x] rainwater-harvesting-subsidy — Rainwater harvesting incentives
 
 ## Priority 2: Government Schemes (gaps)
 - [ ] pm-vishwakarma-yojana — For artisans/craftsmen
