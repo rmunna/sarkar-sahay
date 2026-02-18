@@ -1,173 +1,218 @@
 ---
-title: "ITR Refund Status Check — Track Your Income Tax Refund Online"
-description: "Check income tax refund status online on e-filing portal or NSDL. Track ITR refund by PAN, view refund amount, and resolve failed refund issues."
-category: "Tax & Finance"
+title: How to Check ITR Refund Status Online — Income Tax Refund Tracking Guide
+description: Check your ITR refund status online on the income tax portal. Step-by-step guide with refund timelines, delay reasons, and grievance process.
+category: Tax & Finance
 keywords:
-  - ITR refund status check
-  - income tax refund status
-  - check tax refund online
-  - e-filing refund status
-  - NSDL refund status
-  - ITR refund by PAN
+  - itr refund status
+  - income tax refund status check
+  - refund status online
   - income tax refund tracking
-lastUpdated: "2026-02-17"
-readingTime: "7 min"
+  - itr refund not received
+  - income tax refund delay
+  - refund re-issue request
+readingTime: 7 min
+lastUpdated: '2026-02-18'
 officialLinks:
-  - "https://eportal.incometax.gov.in"
-  - "https://tin.tin.nsdl.com/oltas/refund-status-pan.html"
+  - 'https://eportal.incometax.gov.in/'
+  - 'https://tin.tin.nsdl.com/oltas/refund-status-tin.html'
+  - 'https://www.incometax.gov.in/iec/foportal/help/how-to-check-refund-status'
+  - 'https://www.incometax.gov.in/iec/foportal/help/e-nivaran'
 ---
 
-# How to Check Income Tax Refund Status Online
+# How to Check ITR Refund Status Online
 
-After filing your Income Tax Return (ITR), if you have paid excess tax, the Income Tax Department processes a refund. You can easily track your ITR refund status online through the e-filing portal or NSDL website. Here is a complete guide.
+After filing your Income Tax Return (ITR) and claiming a refund, the next step is to track whether your refund has been processed. The Income Tax Department provides two official ways to check your ITR refund status — through the e-Filing portal and through the NSDL/TIN website. This guide covers both methods, expected timelines, common delay reasons, and how to raise a grievance if your refund is stuck.
 
-> **Disclaimer:** CitizenNest is an independent platform and is not affiliated with the Income Tax Department or Government of India. Always verify on official portals.
+## Who Can Check ITR Refund Status?
 
----
+Any taxpayer who has filed an ITR and is eligible for a refund (i.e., tax paid exceeds tax liability) can check refund status. You will need:
 
-## When Do You Get an Income Tax Refund?
-
-You are eligible for a refund when:
-
-- **TDS deducted** exceeds your actual tax liability
-- **Advance tax paid** is more than the final tax amount
-- **Self-assessment tax** was overpaid
-- You claimed **deductions** (80C, 80D, etc.) that reduced your tax liability below TDS
-
-Refunds are processed after ITR is **verified and assessed** by the CPC (Centralized Processing Centre), Bengaluru.
+- **PAN number**
+- **Assessment Year** for which the return was filed
+- **Login credentials** for the e-Filing portal (optional for NSDL method)
 
 ---
 
-## Method 1: Check Refund Status on e-Filing Portal
+## Method 1 — Check Refund Status on the Income Tax e-Filing Portal
 
-1. Visit the Income Tax e-filing portal at [eportal.incometax.gov.in](https://eportal.incometax.gov.in)
-2. Log in with your **PAN** and **password**
-3. Go to **"e-File"** → **"Income Tax Returns"** → **"View Filed Returns"**
-4. Select the relevant **Assessment Year**
-5. Click on **"View Details"**
-6. The refund status will show one of these:
-   - **Refund Issued** — Amount credited or cheque dispatched
-   - **Refund Determined** — CPC has processed; refund will be issued soon
-   - **ITR Processed, No Demand No Refund** — No refund applicable
-   - **Refund Partially Adjusted** — Part of refund adjusted against outstanding demand
-   - **Refund Failed** — Bank account validation issue
+This is the most reliable method with detailed status information.
 
----
+### Step-by-Step Process
 
-## Method 2: Check Refund Status on NSDL/TIN Website
+1. Go to the Income Tax e-Filing portal at [eportal.incometax.gov.in](https://eportal.incometax.gov.in/).
+2. Click **"Login"** and enter your **PAN**, password, and captcha.
+3. After login, go to **e-File → Income Tax Returns → View Filed Returns**.
+4. Select the relevant **Assessment Year** (e.g., AY 2025-26 for income earned in FY 2024-25).
+5. Click on the ITR filed. You will see the current status.
+6. If the return is processed, click on **"View Details"** or **"Refund Status"** to see:
+   - Refund amount
+   - Date of issue
+   - Mode of payment (direct credit to bank / cheque)
+   - Refund failure reason (if any)
 
-1. Visit the NSDL refund status page at [tin.tin.nsdl.com/oltas/refund-status-pan.html](https://tin.tin.nsdl.com/oltas/refund-status-pan.html)
-2. Enter your **PAN number**
-3. Select the **Assessment Year**
-4. Enter the **CAPTCHA**
-5. Click **"Submit"**
-6. Your refund status with amount, mode of payment (ECS/cheque), and date will be displayed
-
----
-
-## Method 3: Check via Income Tax e-Filing App
-
-1. Download the **AIS for Taxpayer** app from Google Play Store
-2. Log in with your PAN and e-filing password
-3. Navigate to the refund section
-4. View your refund status and amount
-
----
-
-## ITR Refund Status Meanings
+### Common Status Messages
 
 | Status | Meaning |
 |--------|---------|
-| **Refund Issued** | Refund has been sent to your bank account or via cheque |
-| **Refund Determined and Sent to Refund Banker** | Refund approved and sent to SBI (refund banker) for processing |
-| **Refund Failed** | Refund could not be credited due to incorrect bank details |
-| **Refund Adjusted Against Outstanding Demand** | Refund was used to settle a previous tax demand |
-| **No Demand No Refund** | After processing, neither refund nor demand is applicable |
-| **Not Determined** | ITR is still being processed by CPC |
+| **Refund Issued** | Refund has been sent to your bank account |
+| **Refund Paid** | Amount credited successfully |
+| **Refund Failure** | Bank rejected the refund (wrong account details, inactive account, etc.) |
+| **Not Determined** | Return is still being processed |
+| **Demand Determined** | You owe tax instead of getting a refund |
+| **Processed** | Return processed, refund will be issued shortly |
 
 ---
 
-## How Long Does ITR Refund Take?
+## Method 2 — Check Refund Status on NSDL/TIN Website
 
-- **E-verified ITR:** Refund typically processed within **20-45 days** of e-verification
-- **Physically verified ITR:** Additional 15-30 days for CPC to receive and process the signed ITR-V
-- **Complex cases:** May take up to 6 months if selected for scrutiny or if there are mismatches
+This method does not require login — only your PAN and assessment year.
 
-**Tip:** E-verify your ITR immediately after filing to speed up the refund process. You can e-verify via Aadhaar OTP, net banking, or bank ATM.
+### Step-by-Step Process
 
----
+1. Go to the NSDL refund status page at [tin.tin.nsdl.com/oltas/refund-status-tin.html](https://tin.tin.nsdl.com/oltas/refund-status-tin.html).
+2. Enter your **PAN number**.
+3. Select the **Assessment Year**.
+4. Enter the **captcha code** shown on screen.
+5. Click **"Submit"**.
+6. The page will display your refund status — whether it has been sent to your bank, is under processing, or has failed.
 
-## What to Do If ITR Refund Fails
-
-Common reasons for failed refunds and solutions:
-
-1. **Incorrect bank account details:**
-   - Log in to the e-filing portal
-   - Go to **"My Profile"** → **"My Bank Accounts"**
-   - Add/validate the correct bank account
-   - Request a **"Refund Reissue"** from the portal
-
-2. **Bank account not pre-validated:**
-   - Pre-validate your bank account on the e-filing portal
-   - Link it to your PAN and Aadhaar
-
-3. **Name mismatch:**
-   - Ensure your name on PAN matches the name on your bank account
-   - Update either PAN or bank records to match
-
-4. **Account closed or inactive:**
-   - Ensure the bank account is active and operational
-   - Add a new valid bank account and request refund reissue
-
-### How to Request Refund Reissue
-
-1. Log in to [eportal.incometax.gov.in](https://eportal.incometax.gov.in)
-2. Go to **"Services"** → **"Refund Reissue"**
-3. Select the **Assessment Year**
-4. Choose the **pre-validated bank account** for refund credit
-5. Submit the request
-6. The refund will be reprocessed within 2-3 weeks
+**Note:** This website shows limited information compared to the e-Filing portal. For detailed status and failure reasons, use Method 1.
 
 ---
 
-## Important Tips
+## ITR Refund Timeline — How Long Does It Take?
 
-1. **E-verify your ITR immediately** — Refund processing only begins after verification
-2. **Pre-validate your bank account** — This is mandatory for receiving refunds via direct credit
-3. **Check Form 26AS** — Verify that all TDS credits are correctly reflected before filing ITR
-4. **Interest on refund** — If refund is delayed beyond the due date, you are entitled to interest at 6% per annum under Section 244A
-5. **Keep contact details updated** — Update your mobile number and email on the e-filing portal for timely notifications
+The typical timeline for ITR refund processing:
+
+- **E-verified returns:** Refund is usually processed within **20 to 45 days** from the date of e-verification.
+- **Physically verified returns (ITR-V sent to CPC Bengaluru):** Processing takes **60 to 120 days** after CPC receives the signed ITR-V.
+- **Refund credit to bank:** After the refund is issued by CPC, it takes **5 to 7 working days** for the amount to reach your bank account via direct transfer (ECS/NEFT).
+
+### Key Points
+
+- Your return must be **verified** (e-verified or ITR-V sent) before processing begins.
+- If you have not verified your return, the refund will not be processed. E-verify through Aadhaar OTP, net banking, or other methods on the e-Filing portal.
+- Refund processing may take longer during peak filing season (July–September).
+
+---
+
+## Reasons Why Your ITR Refund May Be Delayed
+
+If your refund has not arrived within the expected timeline, the reasons could be:
+
+1. **Return not e-verified** — Most common reason. Check your e-Filing portal to verify.
+2. **Incorrect bank account details** — Wrong account number, IFSC, or account not pre-validated.
+3. **Bank account not pre-validated** — The Income Tax Department requires your bank account to be pre-validated and linked with PAN on the e-Filing portal.
+4. **Mismatch in income details** — If TDS claimed in ITR does not match Form 26AS / AIS, the return may be picked for scrutiny.
+5. **Outstanding tax demand** — If you have a pending demand from a previous year, the refund may be adjusted against it.
+6. **Return selected for scrutiny** — Random or risk-based selection for detailed assessment.
+7. **Defective return notice (Section 139(9))** — If CPC found errors in your return, you must respond to the defective return notice before processing continues.
+8. **Technical issues at bank** — Bank account closed, dormant, or KYC not updated.
+
+---
+
+## How to Pre-Validate Your Bank Account
+
+Pre-validating your bank account is mandatory to receive refunds via direct credit.
+
+1. Login to [eportal.incometax.gov.in](https://eportal.incometax.gov.in/).
+2. Go to **Profile → My Bank Account**.
+3. Click **"Add Bank Account"** and enter your bank details (account number, IFSC, bank name).
+4. The system will validate the account through your bank's records.
+5. Once validated, select the account and click **"Nominate for Refund"**.
+
+---
+
+## How to Raise a Grievance for Delayed Refund
+
+If your refund has been processed but not credited, or if it has been more than 60 days since e-verification and the status still shows "Not Determined," you can raise a grievance.
+
+### Option 1 — e-Nivaran on the e-Filing Portal
+
+1. Login to [eportal.incometax.gov.in](https://eportal.incometax.gov.in/).
+2. Go to **Services → e-Nivaran**.
+3. Click **"Submit Grievance"**.
+4. Select the grievance category — choose **"Refund"** related.
+5. Enter the **Assessment Year**, describe your issue, and attach supporting documents if needed.
+6. Submit. You will get a **Grievance ID** for tracking.
+7. The department usually responds within **30 days**.
+
+### Option 2 — CPGRAMS (Central Public Grievance Portal)
+
+1. Go to [pgportal.gov.in](https://pgportal.gov.in/).
+2. Register or login.
+3. Lodge a grievance under **Ministry of Finance → Central Board of Direct Taxes**.
+4. Provide details and submit.
+
+---
+
+## How to Request Refund Re-Issue
+
+If your refund failed due to incorrect bank details or bank rejection, you can request a refund re-issue.
+
+1. Login to the e-Filing portal at [eportal.incometax.gov.in](https://eportal.incometax.gov.in/).
+2. Go to **Services → Refund Reissue Request**.
+3. Select the **Assessment Year** for which refund failed.
+4. Update or confirm your **bank account details** (ensure the account is pre-validated).
+5. Submit the refund re-issue request.
+6. E-verify the request using Aadhaar OTP, net banking, or DSC.
+7. The refund will be re-processed and sent to the updated bank account within **2 to 3 weeks**.
+
+**Important:** The refund re-issue option is only available when the refund status shows "Refund Failure." If the status shows "Refund Issued" but you have not received it, wait for 7–10 working days before raising a grievance.
+
+---
+
+## Tips for Faster ITR Refund
+
+- **E-verify immediately** after filing. Don't wait.
+- **Pre-validate your bank account** before filing your return.
+- **Ensure TDS details match** Form 26AS and AIS/TIS.
+- **Respond to notices promptly** — defective return or information mismatch notices delay processing.
+- **File early** — returns filed in the first few weeks after the deadline opens get processed faster.
+- **Link PAN with [Aadhaar](/guide/aadhaar-card-apply-online)** — mandatory for return processing.
 
 ---
 
 ## Frequently Asked Questions (FAQ)
 
-### Q1: How can I check my ITR refund status by PAN number?
-Visit [tin.tin.nsdl.com/oltas/refund-status-pan.html](https://tin.tin.nsdl.com/oltas/refund-status-pan.html), enter your PAN and assessment year, and submit. Your refund status will be displayed instantly.
+### 1. How long does it take to get an ITR refund after e-verification?
 
-### Q2: Why is my ITR refund taking so long?
-Common reasons include: ITR not e-verified, selected for scrutiny, mismatch in TDS data, or high volume of returns during peak season. If it has been over 60 days since e-verification, raise a grievance on the e-filing portal.
+Typically **20 to 45 days** from the date of e-verification. During peak season, it may take up to 60 days.
 
-### Q3: Can I get my ITR refund in cash?
-No. ITR refunds are issued only via **direct credit to bank account (ECS)** or **cheque sent to registered address**. Direct bank credit is faster and recommended.
+### 2. Can I check my refund status without logging in?
 
-### Q4: Is ITR refund taxable?
-The refund itself is not taxable since it is a return of excess tax paid. However, the **interest received on the refund** (under Section 244A) is taxable as "Income from Other Sources."
+Yes. Use the NSDL website at [tin.tin.nsdl.com/oltas/refund-status-tin.html](https://tin.tin.nsdl.com/oltas/refund-status-tin.html). You only need your PAN and assessment year.
 
-### Q5: What if my refund amount is less than expected?
-The CPC may have made adjustments for outstanding demands, disallowed deductions, or recalculated tax. Check the **Intimation under Section 143(1)** sent to your email for details. You can file a rectification request if you disagree.
+### 3. My refund status shows "Refund Failure." What should I do?
 
-### Q6: Can I check refund status for previous years?
-Yes, both the e-filing portal and NSDL website allow you to check refund status for any assessment year by selecting the relevant year from the dropdown.
+This means the bank rejected the refund. Login to the e-Filing portal, go to **Services → Refund Reissue Request**, update your bank details, and submit. Make sure your bank account is pre-validated.
+
+### 4. Will I get interest on a delayed refund?
+
+Yes. Under **Section 244A**, the Income Tax Department pays interest at **0.5% per month** (simple interest) on the refund amount if the refund is delayed beyond the due date. The interest is calculated from April 1 of the assessment year to the date of refund grant.
+
+### 5. My refund was adjusted against an outstanding demand. Is this allowed?
+
+Yes. Under **Section 245**, the department can adjust your refund against any outstanding tax demand from previous years. You will receive a notice (intimation) before the adjustment. If you disagree, respond to the notice within 30 days.
+
+### 6. How do I check if my return has been e-verified?
+
+Login to the e-Filing portal → e-File → Income Tax Returns → View Filed Returns. The status will show "e-Verified" if verification is complete. If it shows "Pending for e-Verification," verify immediately.
+
+### 7. Can I get the refund in someone else's bank account?
+
+No. The refund is credited only to a bank account that is **linked to your PAN** and pre-validated on the e-Filing portal. Joint accounts are allowed only if you are one of the account holders.
 
 ---
 
 ## Related Guides
 
-- [PAN Card Apply Online](/guide/pan-card-apply-online) — PAN is essential for all income tax transactions
-- [EPFO PF Balance Check](/guide/epfo-pf-balance-check-online) — Check your provident fund balance
-- [Aadhaar Card guide](/guide/aadhaar-card-apply-online) — Aadhaar OTP is the fastest way to e-verify ITR
+- [How to Apply for PAN Card Online](/guide/pan-card-apply-online)
+- [How to Apply for Aadhaar Card](/guide/aadhaar-card-apply-online)
+- [How to Link Aadhaar with PAN](/guide/aadhaar-pan-link)
 
 ---
 
-*Last updated: February 2026. Tax rules and processes may change. Always verify on [incometax.gov.in](https://eportal.incometax.gov.in) for the latest information.*
+## Disclaimer
+
+This guide is for informational purposes only and does not constitute tax or legal advice. Information is based on the Income Tax Act and procedures as of February 2026. Refund timelines and processes may change based on government notifications. Always refer to the official Income Tax e-Filing portal at [incometax.gov.in](https://www.incometax.gov.in/) for the latest information. For specific tax queries, consult a qualified Chartered Accountant or tax professional.

@@ -63,16 +63,16 @@
 - [x] stand-up-india-detailed — Stand Up India loans
 
 ## Priority 3: Tax & Finance (gaps)
-- [ ] gst-return-filing-guide — GST return filing steps
-- [ ] tds-tcs-rates-deduction — TDS/TCS rates and compliance
-- [ ] form-16-download-understand — Form 16 guide
-- [ ] itr-refund-status-check — Check ITR refund status
-- [ ] capital-gains-tax-india — Capital gains tax guide
-- [ ] hra-claim-without-rent-receipt — HRA claiming guide
-- [ ] section-80c-deductions-guide — 80C investment guide
-- [ ] ppf-account-open-guide — PPF detailed guide
-- [ ] fixed-deposit-vs-rd-comparison — FD vs RD comparison
-- [ ] post-office-savings-schemes — All post office schemes
+- [x] gst-return-filing-guide — GST return filing steps
+- [x] tds-tcs-rates-deduction — TDS/TCS rates and compliance
+- [x] form-16-download-understand — Form 16 guide
+- [x] itr-refund-status-check — Check ITR refund status
+- [x] capital-gains-tax-india — Capital gains tax guide
+- [x] hra-claim-without-rent-receipt — HRA claiming guide
+- [x] section-80c-deductions-guide — 80C investment guide
+- [x] ppf-account-open-guide — PPF detailed guide
+- [x] fixed-deposit-vs-rd-comparison — FD vs RD comparison
+- [x] post-office-savings-schemes — All post office schemes
 - [ ] gold-loan-comparison-guide — Gold loan options
 - [ ] education-loan-india-guide — Education loan guide
 - [ ] home-loan-guide-india — Home loan complete guide
