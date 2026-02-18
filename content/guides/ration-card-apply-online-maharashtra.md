@@ -202,7 +202,7 @@ Many **Common Service Centres (CSCs)** and **Setu Suvidha Kendras** across Mahar
 | **Website** | [https://mahafood.gov.in](https://mahafood.gov.in) |
 | **RCMS Portal** | [https://rcms.mahafood.gov.in](https://rcms.mahafood.gov.in) |
 | **Helpline** | 1800-22-4950 (Toll Free) |
-| **Grievance Portal** | [https://aaplesarkar.mahaonline.gov.in](https://aaplesarkar.mahaonline.gov.in) |
+| **Grievance Portal** | [https://aaplesarkar.maharashtra.gov.in](https://aaplesarkar.maharashtra.gov.in) |
 | **Head Office** | New Administrative Building, Mantralaya, Mumbai - 400032 |
 
 ---

@@ -2,10 +2,10 @@
 title: "Maharashtra Aaple Sarkar — Apply for Certificates & Services Online"
 description: "Complete guide to use Maharashtra's Aaple Sarkar portal for caste, income, domicile certificates and more. Registration, documents, fees, tracking."
 category: "Certificates"
-keywords: ["aaple sarkar", "maharashtra certificate online", "caste certificate online maharashtra", "income certificate maharashtra", "domicile certificate maharashtra", "aaplesarkar.mahaonline.gov.in", "जात प्रमाणपत्र", "उत्पन्न प्रमाणपत्र", "अधिवास प्रमाणपत्र", "maharashtra online services"]
+keywords: ["aaple sarkar", "maharashtra certificate online", "caste certificate online maharashtra", "income certificate maharashtra", "domicile certificate maharashtra", "aaplesarkar.maharashtra.gov.in", "जात प्रमाणपत्र", "उत्पन्न प्रमाणपत्र", "अधिवास प्रमाणपत्र", "maharashtra online services"]
 readingTime: "12 min"
 officialLinks:
-  - https://aaplesarkar.mahaonline.gov.in
+  - https://aaplesarkar.maharashtra.gov.in
   - https://www.maharashtra.gov.in
   - https://csc.gov.in
 ---
@@ -14,7 +14,7 @@ officialLinks:
 
 Aaple Sarkar (आपले सरकार, meaning "Our Government") is Maharashtra's official citizen services portal. It allows residents to apply for government certificates, track applications, and download digitally signed documents — all without visiting a government office.
 
-The portal is managed by **MahaOnline** (a joint venture of the Maharashtra government and TCS) and is accessible at [aaplesarkar.mahaonline.gov.in](https://aaplesarkar.mahaonline.gov.in).
+The portal is managed by **MahaOnline** (a joint venture of the Maharashtra government and TCS) and is accessible at [aaplesarkar.maharashtra.gov.in](https://aaplesarkar.maharashtra.gov.in).
 
 ## Services Available on Aaple Sarkar
 
@@ -45,7 +45,7 @@ The portal offers **400+ services** across multiple departments. Key certificate
 ## How to Register on Aaple Sarkar
 
 ### Step 1 — Visit the Portal
-Go to [aaplesarkar.mahaonline.gov.in](https://aaplesarkar.mahaonline.gov.in) and click **"New User? Register Here"**.
+Go to [aaplesarkar.maharashtra.gov.in](https://aaplesarkar.maharashtra.gov.in) and click **"New User? Register Here"**.
 
 ### Step 2 — Enter Basic Details
 - Full name (as on Aadhaar)
@@ -71,7 +71,7 @@ Go to [aaplesarkar.mahaonline.gov.in](https://aaplesarkar.mahaonline.gov.in) and
 ## How to Apply for a Certificate — Step-by-Step
 
 ### Step 1 — Login to the Portal
-Visit [aaplesarkar.mahaonline.gov.in](https://aaplesarkar.mahaonline.gov.in) and login with your username and password.
+Visit [aaplesarkar.maharashtra.gov.in](https://aaplesarkar.maharashtra.gov.in) and login with your username and password.
 
 ### Step 2 — Select the Service
 - From the dashboard, browse by **department** or use the **search bar**
@@ -127,7 +127,7 @@ Visit [aaplesarkar.mahaonline.gov.in](https://aaplesarkar.mahaonline.gov.in) and
 
 ## How to Track Your Application
 
-1. Login to [aaplesarkar.mahaonline.gov.in](https://aaplesarkar.mahaonline.gov.in)
+1. Login to [aaplesarkar.maharashtra.gov.in](https://aaplesarkar.maharashtra.gov.in)
 2. Go to **"Track Application"** or **"Application Status"** from the dashboard
 3. Enter your **Application ID / Token Number**
 4. View the current status:
@@ -217,7 +217,7 @@ Carry original documents + photocopies. A small service charge (₹20–₹50) m
 
 - **Toll-Free Helpline:** 1800-120-8040
 - **Email:** support@mahaonline.gov.in
-- **Portal:** [aaplesarkar.mahaonline.gov.in](https://aaplesarkar.mahaonline.gov.in)
+- **Portal:** [aaplesarkar.maharashtra.gov.in](https://aaplesarkar.maharashtra.gov.in)
 - **Grievance Redressal:** Available on the portal under "Grievance" section
 
 ## Frequently Asked Questions (FAQ)
@@ -232,7 +232,7 @@ The government fee for most certificates like caste, income, and domicile is app
 Processing time varies by certificate type. Income certificates typically take 7–15 days, while caste and domicile certificates may take 15–30 days. Actual time depends on verification requirements and officer workload in your district.
 
 ### Q: How can I track my Aaple Sarkar application status?
-Login to the portal at aaplesarkar.mahaonline.gov.in, go to "Track Application" and enter your Application ID or Token Number. You can also track via SMS or by calling the toll-free helpline 1800-120-8040.
+Login to the portal at aaplesarkar.maharashtra.gov.in, go to "Track Application" and enter your Application ID or Token Number. You can also track via SMS or by calling the toll-free helpline 1800-120-8040.
 
 ### Q: Is the certificate downloaded from Aaple Sarkar valid for official use?
 Yes, certificates downloaded from Aaple Sarkar are digitally signed and valid for official use. You can also access them through DigiLocker if your accounts are linked.

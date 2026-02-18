@@ -50,7 +50,7 @@ A Domicile Certificate (Nivas Praman Patra / Residential Certificate) is an offi
 - **Uttar Pradesh:** edistrict.up.gov.in
 - **Bihar:** serviceonline.bihar.gov.in
 - **Delhi:** edistrict.delhigovt.nic.in
-- **Maharashtra:** aaplesarkar.mahaonline.gov.in
+- **Maharashtra:** aaplesarkar.maharashtra.gov.in
 - **Rajasthan:** emitra.rajasthan.gov.in
 - **Madhya Pradesh:** mpedistrict.gov.in
 - **Other states:** Search "[your state] domicile certificate apply online"

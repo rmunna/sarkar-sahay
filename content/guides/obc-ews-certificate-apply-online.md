@@ -166,7 +166,7 @@ The process varies by state, but the general flow is similar across most e-Distr
 | Delhi | e-District Delhi | edistrict.delhigovt.nic.in |
 | Madhya Pradesh | MP e-District | mpedistrict.gov.in |
 | Rajasthan | eMitra | emitra.rajasthan.gov.in |
-| Maharashtra | Aaple Sarkar | aaplesarkar.mahaonline.gov.in |
+| Maharashtra | Aaple Sarkar | aaplesarkar.maharashtra.gov.in |
 | West Bengal | e-District WB | edistrict.wb.gov.in |
 | Karnataka | Seva Sindhu | sevasindhu.karnataka.gov.in |
 | Tamil Nadu | TN e-Sevai | tnesevai.tn.gov.in |

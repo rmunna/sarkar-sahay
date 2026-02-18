@@ -51,7 +51,7 @@ A Caste Certificate (Jati Praman Patra) is an official document issued by the st
 - **Uttar Pradesh:** edistrict.up.gov.in
 - **Bihar:** serviceonline.bihar.gov.in
 - **Delhi:** edistrict.delhigovt.nic.in
-- **Maharashtra:** aaplesarkar.mahaonline.gov.in
+- **Maharashtra:** aaplesarkar.maharashtra.gov.in
 - **Rajasthan:** emitra.rajasthan.gov.in
 - **Madhya Pradesh:** mpedistrict.gov.in
 - **Other states:** Search "[your state] caste certificate apply online"

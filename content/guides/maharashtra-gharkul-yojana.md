@@ -8,7 +8,7 @@ lastUpdated: "2025-02-17"
 officialLinks:
   - https://rural.maharashtra.gov.in
   - https://hpd.maharashtra.gov.in
-  - https://aaplesarkar.mahaonline.gov.in
+  - https://aaplesarkar.maharashtra.gov.in
 ---
 
 ## What is Gharkul Yojana?
@@ -74,7 +74,7 @@ The objective is to ensure that every rural family in Maharashtra has a pucca (p
 
 ### Online Application (Aaple Sarkar Portal)
 
-1. Visit [aaplesarkar.mahaonline.gov.in](https://aaplesarkar.mahaonline.gov.in)
+1. Visit [aaplesarkar.maharashtra.gov.in](https://aaplesarkar.maharashtra.gov.in)
 2. Register and login
 3. Search for housing scheme under Rural Development
 4. Fill the application form with family and land details

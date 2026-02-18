@@ -17,7 +17,7 @@ lastUpdated: "2026-02-16"
 officialLinks:
   - "https://www.apprenticeshipindia.gov.in"
   - "https://msde.gov.in"
-  - "https://dgt.gov.in"
+  - "https://www.apprenticeshipindia.gov.in"
 ---
 
 # How to Apply for Apprenticeship in India — NAPS Portal Registration

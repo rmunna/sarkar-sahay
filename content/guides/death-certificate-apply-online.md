@@ -120,7 +120,7 @@ Upload scanned copies of:
 Some states have their own portals in addition to the central CRS system:
 
 - **Delhi** — edistrict.delhigovt.nic.in
-- **Maharashtra** — aaplesarkar.mahaonline.gov.in
+- **Maharashtra** — aaplesarkar.maharashtra.gov.in
 - **Karnataka** — nadakacheri.karnataka.gov.in
 - **Tamil Nadu** — tnreginet.gov.in
 - **Uttar Pradesh** — esathi.up.gov.in

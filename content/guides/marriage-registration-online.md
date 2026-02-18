@@ -70,7 +70,7 @@ Marriage registration is the legal process of recording your marriage with the g
 - Common portals:
   - **Delhi:** [edistrict.delhigovt.nic.in](https://edistrict.delhigovt.nic.in)
   - **Uttar Pradesh:** [igrsup.gov.in](https://igrsup.gov.in)
-  - **Maharashtra:** [aaplesarkar.mahaonline.gov.in](https://aaplesarkar.mahaonline.gov.in)
+  - **Maharashtra:** [aaplesarkar.maharashtra.gov.in](https://aaplesarkar.maharashtra.gov.in)
   - **Karnataka:** [kaveri.karnataka.gov.in](https://kaveri.karnataka.gov.in)
   - **Tamil Nadu:** [tnreginet.gov.in](https://tnreginet.gov.in)
 
