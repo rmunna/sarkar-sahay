@@ -195,7 +195,7 @@ export default function SchemeEligibilityChecker() {
         <div>
           <span className={`font-medium ${item.eligible ? "text-green-800" : "text-gray-500"}`}>
             {item.guideSlug ? (
-              <Link href={`/guide/${item.guideSlug}`} className="hover:text-orange-600 underline decoration-dotted underline-offset-2">{item.name}</Link>
+              <Link href={`/guide/${item.guideSlug}`} target="_blank" rel="noopener" className="hover:text-orange-600 underline decoration-dotted underline-offset-2">{item.name}</Link>
             ) : item.name}
           </span>
           <span className="text-xs text-gray-400 ml-2">({item.ageRange})</span>

@@ -42,94 +42,94 @@ const STATES = [
 /* ───── national exam data ───── */
 const NATIONAL_EXAMS: Exam[] = [
   { name: "UPSC Civil Services (CSE)", organization: "UPSC", ageMin: 21, ageMax: 32, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "upsc-civil-services-preparation-guide" },
-  { name: "UPSC IES/ISS", organization: "UPSC", ageMin: 21, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "postGraduate", genderRestriction: null, guideSlug: null },
-  { name: "UPSC CDS", organization: "UPSC", ageMin: 19, ageMax: 25, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
-  { name: "UPSC NDA", organization: "UPSC", ageMin: 16, ageMax: 19, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: null },
+  { name: "UPSC IES/ISS", organization: "UPSC", ageMin: 21, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "postGraduate", genderRestriction: null, guideSlug: "upsc-ies-iss-exam-guide" },
+  { name: "UPSC CDS", organization: "UPSC", ageMin: 19, ageMax: 25, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "upsc-cds-exam-guide" },
+  { name: "UPSC NDA", organization: "UPSC", ageMin: 16, ageMax: 19, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: "upsc-nda-exam-guide" },
   { name: "SSC CGL", organization: "SSC", ageMin: 18, ageMax: 27, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 3, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "ssc-exam-complete-guide" },
   { name: "SSC CHSL", organization: "SSC", ageMin: 18, ageMax: 27, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 3, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: "ssc-exam-complete-guide" },
-  { name: "SSC MTS", organization: "SSC", ageMin: 18, ageMax: 25, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 3, female: 0 }, minEducation: "10th", genderRestriction: null, guideSlug: null },
-  { name: "SSC GD Constable", organization: "SSC", ageMin: 18, ageMax: 23, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 0, exServicemen: 3, female: 0 }, minEducation: "10th", genderRestriction: null, guideSlug: null },
-  { name: "SSC Stenographer", organization: "SSC", ageMin: 18, ageMax: 27, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 3, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: null },
+  { name: "SSC MTS", organization: "SSC", ageMin: 18, ageMax: 25, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 3, female: 0 }, minEducation: "10th", genderRestriction: null, guideSlug: "ssc-mts-exam-guide" },
+  { name: "SSC GD Constable", organization: "SSC", ageMin: 18, ageMax: 23, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 0, exServicemen: 3, female: 0 }, minEducation: "10th", genderRestriction: null, guideSlug: "ssc-gd-constable-exam-guide" },
+  { name: "SSC Stenographer", organization: "SSC", ageMin: 18, ageMax: 27, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 3, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: "ssc-stenographer-exam-guide" },
   { name: "IBPS PO", organization: "IBPS", ageMin: 20, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "banking-exam-preparation-guide" },
   { name: "IBPS Clerk", organization: "IBPS", ageMin: 20, ageMax: 28, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "banking-exam-preparation-guide" },
-  { name: "IBPS SO", organization: "IBPS", ageMin: 20, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
+  { name: "IBPS SO", organization: "IBPS", ageMin: 20, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "ibps-so-exam-guide" },
   { name: "SBI PO", organization: "SBI", ageMin: 21, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "banking-exam-preparation-guide" },
   { name: "SBI Clerk", organization: "SBI", ageMin: 20, ageMax: 28, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "banking-exam-preparation-guide" },
   { name: "RBI Grade B", organization: "RBI", ageMin: 21, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "banking-exam-preparation-guide" },
-  { name: "RBI Assistant", organization: "RBI", ageMin: 20, ageMax: 28, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
-  { name: "RRB NTPC", organization: "RRB", ageMin: 18, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
-  { name: "RRB Group D", organization: "RRB", ageMin: 18, ageMax: 33, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "10th", genderRestriction: null, guideSlug: null },
-  { name: "RRB ALP", organization: "RRB", ageMin: 18, ageMax: 28, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "10th", genderRestriction: null, guideSlug: null },
-  { name: "GATE", organization: "IIT", ageMin: 0, ageMax: 99, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
-  { name: "CTET", organization: "CBSE", ageMin: 18, ageMax: 99, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
+  { name: "RBI Assistant", organization: "RBI", ageMin: 20, ageMax: 28, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "rbi-assistant-exam-guide" },
+  { name: "RRB NTPC", organization: "RRB", ageMin: 18, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "rrb-ntpc-exam-guide" },
+  { name: "RRB Group D", organization: "RRB", ageMin: 18, ageMax: 33, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "10th", genderRestriction: null, guideSlug: "rrb-group-d-exam-guide" },
+  { name: "RRB ALP", organization: "RRB", ageMin: 18, ageMax: 28, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "10th", genderRestriction: null, guideSlug: "rrb-alp-exam-guide" },
+  { name: "GATE", organization: "IIT", ageMin: 0, ageMax: 99, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "gate-exam-guide" },
+  { name: "CTET", organization: "CBSE", ageMin: 18, ageMax: 99, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "ctet-exam-guide" },
   { name: "NTA UGC NET", organization: "NTA", ageMin: 0, ageMax: 99, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "postGraduate", genderRestriction: null, guideSlug: "ugc-net-exam-guide" },
-  { name: "Indian Army (Agniveer)", organization: "Indian Army", ageMin: 17, ageMax: 21, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "10th", genderRestriction: "male", guideSlug: null },
-  { name: "Indian Navy (Agniveer)", organization: "Indian Navy", ageMin: 17, ageMax: 21, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: "male", guideSlug: null },
-  { name: "Indian Air Force (Agniveer)", organization: "Indian Air Force", ageMin: 17, ageMax: 21, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: "male", guideSlug: null },
-  { name: "LIC AAO", organization: "LIC", ageMin: 21, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
-  { name: "EPFO SSA", organization: "EPFO", ageMin: 18, ageMax: 27, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
+  { name: "Indian Army (Agniveer)", organization: "Indian Army", ageMin: 17, ageMax: 21, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "10th", genderRestriction: "male", guideSlug: "agniveer-army-recruitment-guide" },
+  { name: "Indian Navy (Agniveer)", organization: "Indian Navy", ageMin: 17, ageMax: 21, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: "male", guideSlug: "agniveer-navy-recruitment-guide" },
+  { name: "Indian Air Force (Agniveer)", organization: "Indian Air Force", ageMin: 17, ageMax: 21, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: "male", guideSlug: "agniveer-airforce-recruitment-guide" },
+  { name: "LIC AAO", organization: "LIC", ageMin: 21, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "lic-aao-exam-guide" },
+  { name: "EPFO SSA", organization: "EPFO", ageMin: 18, ageMax: 27, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "epfo-ssa-exam-guide" },
 ];
 
 /* ───── state-specific jobs ───── */
 const STATE_JOBS: Record<string, Exam[]> = {
   "Uttar Pradesh": [
-    { name: "UPPSC PCS", organization: "UPPSC", ageMin: 21, ageMax: 40, ageRelaxation: { obc: 5, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
-    { name: "UP Police Constable", organization: "UP Police", ageMin: 18, ageMax: 22, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: null },
+    { name: "UPPSC PCS", organization: "UPPSC", ageMin: 21, ageMax: 40, ageRelaxation: { obc: 5, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "uppsc-pcs-exam-guide" },
+    { name: "UP Police Constable", organization: "UP Police", ageMin: 18, ageMax: 22, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: "up-police-constable-exam-guide" },
   ],
   "Bihar": [
-    { name: "BPSC PCS", organization: "BPSC", ageMin: 20, ageMax: 37, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
-    { name: "Bihar Police Constable", organization: "Bihar Police", ageMin: 18, ageMax: 25, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: null },
+    { name: "BPSC PCS", organization: "BPSC", ageMin: 20, ageMax: 37, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "bpsc-pcs-exam-guide" },
+    { name: "Bihar Police Constable", organization: "Bihar Police", ageMin: 18, ageMax: 25, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: "bihar-police-constable-exam-guide" },
   ],
   "Madhya Pradesh": [
-    { name: "MPPSC", organization: "MPPSC", ageMin: 21, ageMax: 40, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
-    { name: "MP Police Constable", organization: "MP Police", ageMin: 18, ageMax: 28, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: null },
+    { name: "MPPSC", organization: "MPPSC", ageMin: 21, ageMax: 40, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "mppsc-exam-guide" },
+    { name: "MP Police Constable", organization: "MP Police", ageMin: 18, ageMax: 28, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: "mp-police-constable-exam-guide" },
   ],
   "Rajasthan": [
-    { name: "RPSC RAS", organization: "RPSC", ageMin: 21, ageMax: 40, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
-    { name: "Rajasthan Police Constable", organization: "Rajasthan Police", ageMin: 18, ageMax: 26, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: null },
+    { name: "RPSC RAS", organization: "RPSC", ageMin: 21, ageMax: 40, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "rpsc-ras-exam-guide" },
+    { name: "Rajasthan Police Constable", organization: "Rajasthan Police", ageMin: 18, ageMax: 26, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: "rajasthan-police-constable-exam-guide" },
   ],
   "Tamil Nadu": [
-    { name: "TNPSC Group 1", organization: "TNPSC", ageMin: 21, ageMax: 32, ageRelaxation: { obc: 0, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
-    { name: "TNPSC Group 2", organization: "TNPSC", ageMin: 18, ageMax: 32, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
+    { name: "TNPSC Group 1", organization: "TNPSC", ageMin: 21, ageMax: 32, ageRelaxation: { obc: 0, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "tnpsc-group-1-exam-guide" },
+    { name: "TNPSC Group 2", organization: "TNPSC", ageMin: 18, ageMax: 32, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "tnpsc-group-2-exam-guide" },
   ],
   "Karnataka": [
-    { name: "KPSC", organization: "KPSC", ageMin: 21, ageMax: 35, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
+    { name: "KPSC", organization: "KPSC", ageMin: 21, ageMax: 35, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "kpsc-exam-guide" },
   ],
   "West Bengal": [
-    { name: "WBPSC", organization: "WBPSC", ageMin: 21, ageMax: 36, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
+    { name: "WBPSC", organization: "WBPSC", ageMin: 21, ageMax: 36, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "wbpsc-exam-guide" },
   ],
   "Gujarat": [
-    { name: "GPSC", organization: "GPSC", ageMin: 21, ageMax: 35, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
+    { name: "GPSC", organization: "GPSC", ageMin: 21, ageMax: 35, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "gpsc-exam-guide" },
   ],
   "Haryana": [
-    { name: "HPSC", organization: "HPSC", ageMin: 21, ageMax: 42, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
+    { name: "HPSC", organization: "HPSC", ageMin: 21, ageMax: 42, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "hpsc-exam-guide" },
   ],
   "Uttarakhand": [
-    { name: "UKPSC", organization: "UKPSC", ageMin: 21, ageMax: 42, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
+    { name: "UKPSC", organization: "UKPSC", ageMin: 21, ageMax: 42, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "ukpsc-exam-guide" },
   ],
   "Andhra Pradesh": [
-    { name: "APPSC", organization: "APPSC", ageMin: 18, ageMax: 42, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
+    { name: "APPSC", organization: "APPSC", ageMin: 18, ageMax: 42, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "appsc-exam-guide" },
   ],
   "Telangana": [
-    { name: "TSPSC", organization: "TSPSC", ageMin: 18, ageMax: 44, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
+    { name: "TSPSC", organization: "TSPSC", ageMin: 18, ageMax: 44, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "tspsc-exam-guide" },
   ],
   "Jharkhand": [
-    { name: "JPSC", organization: "JPSC", ageMin: 21, ageMax: 35, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
+    { name: "JPSC", organization: "JPSC", ageMin: 21, ageMax: 35, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "jpsc-exam-guide" },
   ],
   "Kerala": [
-    { name: "Kerala PSC", organization: "Kerala PSC", ageMin: 18, ageMax: 36, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
+    { name: "Kerala PSC", organization: "Kerala PSC", ageMin: 18, ageMax: 36, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "kerala-psc-exam-guide" },
   ],
   "Odisha": [
-    { name: "OPSC", organization: "OPSC", ageMin: 21, ageMax: 32, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
+    { name: "OPSC", organization: "OPSC", ageMin: 21, ageMax: 32, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "opsc-exam-guide" },
   ],
   "Punjab": [
-    { name: "Punjab PCS", organization: "PPSC", ageMin: 21, ageMax: 37, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
+    { name: "Punjab PCS", organization: "PPSC", ageMin: 21, ageMax: 37, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "ppsc-pcs-exam-guide" },
   ],
   "Chhattisgarh": [
-    { name: "Chhattisgarh PSC", organization: "CGPSC", ageMin: 21, ageMax: 40, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
+    { name: "Chhattisgarh PSC", organization: "CGPSC", ageMin: 21, ageMax: 40, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "cgpsc-exam-guide" },
   ],
   "Assam": [
-    { name: "Assam PSC", organization: "APSC", ageMin: 21, ageMax: 38, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: null },
+    { name: "Assam PSC", organization: "APSC", ageMin: 21, ageMax: 38, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "apsc-exam-guide" },
   ],
   "Maharashtra": [
     // Maharashtra doesn't have a separate entry in the given list but keeping state structure
@@ -214,7 +214,7 @@ export default function JobEligibilityChecker() {
             <div className="flex items-center gap-2 flex-wrap">
               <span className="text-lg font-semibold text-gray-900">
                 {r.exam.guideSlug ? (
-                  <Link href={`/guide/${r.exam.guideSlug}`} className="hover:text-orange-600 underline decoration-dotted underline-offset-2">
+                  <Link href={`/guide/${r.exam.guideSlug}`} target="_blank" rel="noopener" className="hover:text-orange-600 underline decoration-dotted underline-offset-2">
                     {r.exam.name}
                   </Link>
                 ) : (
