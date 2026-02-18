@@ -46,8 +46,8 @@ const calculators = [
   },
   {
     icon: "🎂",
-    title: "Age & Eligibility Checker",
-    description: "Check your age and eligibility for exams, schemes & more.",
+    title: "Scheme & Service Eligibility Checker",
+    description: "Check age eligibility for government schemes, services & benefits.",
     href: "/calculator/age-eligibility",
   },
 ];
