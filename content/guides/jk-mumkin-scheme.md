@@ -1,5 +1,5 @@
 ---
-title: "J&K Mumkin Scheme 2026 — Get ₹80,000 Subsidy on Commercial Vehicles for Youth"
+title: "J&K Mumkin Scheme Get ₹80,000 Subsidy on Commercial Vehicles for Youth"
 description: "Apply for J&K Mumkin Scheme 2026. Unemployed youth in Jammu & Kashmir can get up to ₹80,000 subsidy to buy commercial vehicles for livelihood."
 category: "State Schemes"
 keywords:
@@ -18,7 +18,7 @@ officialLinks:
   - "https://www.myscheme.gov.in/schemes/mlgs"
 ---
 
-# J&K Mumkin Scheme 2026 — Livelihood Scheme for Youth
+# J&K Mumkin Scheme Livelihood Scheme for Youth
 
 ## What is the J&K Mumkin Scheme?
 

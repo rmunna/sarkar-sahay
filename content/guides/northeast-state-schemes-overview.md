@@ -1,5 +1,5 @@
 ---
-title: "Northeast India State Schemes 2026 – Complete Guide for All 8 NE States"
+title: "Northeast India State Schemes Complete Guide for All 8 NE States"
 description: "Overview of government welfare schemes across all 8 Northeast Indian states — Assam, Meghalaya, Manipur, Mizoram & more."
 category: "State Schemes"
 keywords: ["northeast india schemes", "NE state government schemes", "assam schemes", "meghalaya schemes", "manipur schemes", "tripura schemes", "mizoram nagaland sikkim arunachal schemes"]

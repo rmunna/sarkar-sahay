@@ -1,9 +1,9 @@
 ---
-title: "NEET PG 2026 Exam Guide — Postgraduate Medical Entrance"
-description: "Complete NEET PG 2026 guide covering exam pattern, eligibility, syllabus, preparation tips, and counselling process for MBBS graduates."
+title: "NEET PG Exam Guide — Postgraduate Medical Entrance"
+description: "Complete NEET PG guide covering exam pattern, eligibility, syllabus, preparation tips, and counselling process for MBBS graduates."
 category: "Jobs & Exams"
 keywords:
-  - "NEET PG 2026"
+  - "NEET PG"
   - "NEET PG exam pattern"
   - "NEET PG eligibility"
   - "NEET PG syllabus"
@@ -18,7 +18,7 @@ officialLinks:
   - "https://mcc.nic.in"
 ---
 
-# NEET PG 2026 Exam Guide — Postgraduate Medical Entrance
+# NEET PG Exam Guide — Postgraduate Medical Entrance
 
 ## What is NEET PG?
 
@@ -30,7 +30,7 @@ Every MBBS graduate who wants to pursue postgraduate medical education in govern
 
 ## Eligibility Criteria
 
-To appear for NEET PG 2026, candidates must meet these requirements:
+To appear for NEET PG, candidates must meet these requirements:
 
 - **MBBS Degree:** Must hold an MBBS degree from an institution recognised by the National Medical Commission (NMC).
 - **Internship:** Must have completed or be completing the compulsory rotating internship by the cutoff date specified in the NEET PG notification (usually 31st March of the exam year).
@@ -174,7 +174,7 @@ No. You must have completed your MBBS and be completing your internship by the c
 ### 3. How many times can I attempt NEET PG?
 There is no limit on the number of attempts. You can appear for NEET PG as many times as you want.
 
-### 4. What is the expected cutoff for NEET PG 2026?
+### 4. What is the expected cutoff for NEET PG?
 Cutoffs vary each year based on difficulty and number of candidates. Generally, the qualifying percentile is **50th percentile** for General category and **40th percentile** for SC/ST/OBC candidates. Actual score cutoffs are announced after the exam.
 
 ### 5. Can I get a PG seat in a government college with a low rank?

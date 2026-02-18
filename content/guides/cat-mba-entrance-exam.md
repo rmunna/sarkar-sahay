@@ -1,5 +1,5 @@
 ---
-title: "CAT Exam 2026 — Complete MBA Entrance Exam Guide"
+title: "CAT Exam — Complete MBA Entrance Exam Guide"
 description: "CAT 2026 exam guide covering eligibility, exam pattern, VARC/DILR/QA sections, IIM admission process, and preparation strategy for MBA aspirants."
 category: "Jobs & Exams"
 keywords:
@@ -18,7 +18,7 @@ officialLinks:
   - "https://www.iimb.ac.in"
 ---
 
-# CAT Exam 2026 — Complete MBA Entrance Exam Guide
+# CAT Exam — Complete MBA Entrance Exam Guide
 
 The Common Admission Test (CAT) is India's most prestigious MBA entrance exam. Every year, lakhs of candidates appear for CAT hoping to secure a seat in one of the IIMs or other top B-schools. This guide covers everything you need to know about CAT 2026 — from eligibility and exam pattern to preparation tips and the IIM selection process.
 

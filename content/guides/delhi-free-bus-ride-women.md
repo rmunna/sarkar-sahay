@@ -1,5 +1,5 @@
 ---
-title: "Delhi Free Bus Ride for Women 2026 – How to Get Pink Pass & Travel Free"
+title: "Delhi Free Bus Ride for Women How to Get Pink Pass & Travel Free"
 description: "Guide to Delhi's free bus ride scheme for women — get your Pink Pass, eligible buses, how to use & FAQs. Travel free on DTC."
 category: "State Schemes"
 keywords: ["delhi free bus women", "delhi pink pass", "free bus ride delhi", "DTC free pass women", "delhi women bus scheme", "pink ticket delhi bus"]

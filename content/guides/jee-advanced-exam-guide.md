@@ -1,9 +1,9 @@
 ---
-title: "JEE Advanced 2026 Exam Guide — IIT Entrance Exam"
-description: "Complete guide to JEE Advanced 2026 — eligibility, exam pattern, syllabus, IIT seat allocation, preparation strategy and JoSAA counselling process."
+title: "JEE Advanced Exam Guide — IIT Entrance Exam"
+description: "Complete guide to JEE Advanced — eligibility, exam pattern, syllabus, IIT seat allocation, preparation strategy and JoSAA counselling process."
 category: "Jobs & Exams"
 keywords:
-  - "JEE Advanced 2026"
+  - "JEE Advanced"
   - "IIT entrance exam"
   - "JEE Advanced eligibility"
   - "JEE Advanced syllabus"
@@ -18,9 +18,9 @@ officialLinks:
   - "https://jeemain.nta.nic.in"
 ---
 
-# JEE Advanced 2026 Exam Guide — IIT Entrance Exam
+# JEE Advanced Exam Guide — IIT Entrance Exam
 
-JEE Advanced is the gateway to India's most prestigious engineering institutions — the Indian Institutes of Technology (IITs). Every year, lakhs of students dream of cracking this exam. This guide covers everything you need to know about JEE Advanced 2026 — eligibility, pattern, syllabus, preparation tips and the counselling process.
+JEE Advanced is the gateway to India's most prestigious engineering institutions — the Indian Institutes of Technology (IITs). Every year, lakhs of students dream of cracking this exam. This guide covers everything you need to know about JEE Advanced — eligibility, pattern, syllabus, preparation tips and the counselling process.
 
 ---
 
@@ -39,7 +39,7 @@ JEE Advanced is widely regarded as one of the toughest undergraduate entrance ex
 
 ---
 
-## Eligibility for JEE Advanced 2026
+## Eligibility for JEE Advanced
 
 To appear for JEE Advanced, you must satisfy **all** of the following criteria:
 
@@ -65,7 +65,7 @@ You must be among the **top 2,50,000 candidates** (across all categories) in JEE
 
 ---
 
-## JEE Advanced 2026 Exam Pattern
+## JEE Advanced Exam Pattern
 
 JEE Advanced consists of **two papers**, both compulsory:
 
@@ -117,7 +117,7 @@ The syllabus broadly covers **Class 11 and 12 Physics, Chemistry and Mathematics
 
 ---
 
-## How to Apply for JEE Advanced 2026
+## How to Apply for JEE Advanced
 
 **Step 1:** Qualify JEE Main 2026 and be in the top 2,50,000 rank list.
 
@@ -134,7 +134,7 @@ The syllabus broadly covers **Class 11 and 12 Physics, Chemistry and Mathematics
 
 **Step 6:** Download your admit card from the portal before the exam date.
 
-> **Exam date:** JEE Advanced 2026 is expected in **June 2026**. Check official notifications for confirmed dates.
+> **Exam date:** JEE Advanced is expected in **June 2026**. Check official notifications for confirmed dates.
 
 ---
 
@@ -193,7 +193,7 @@ After JEE Advanced results, seat allocation to IITs happens through **JoSAA (Joi
 
 ---
 
-## Important Tips for JEE Advanced 2026
+## Important Tips for JEE Advanced
 
 1. **Start early** — Begin serious preparation from Class 11 itself. JEE Advanced covers Class 11 topics heavily.
 

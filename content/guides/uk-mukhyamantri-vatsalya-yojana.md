@@ -1,5 +1,5 @@
 ---
-title: "Uttarakhand Mukhyamantri Vatsalya Yojana 2026 – Benefits for Orphan Children"
+title: "Uttarakhand Mukhyamantri Vatsalya Yojana Benefits for Orphan Children"
 description: "Guide to Uttarakhand Mukhyamantri Vatsalya Yojana for COVID/other orphans — monthly pension, education & care. Eligibility & apply."
 category: "State Schemes"
 keywords: ["mukhyamantri vatsalya yojana uttarakhand", "uttarakhand orphan scheme", "UK vatsalya yojana", "orphan pension uttarakhand", "covid orphan scheme uttarakhand", "vatsalya yojana apply"]

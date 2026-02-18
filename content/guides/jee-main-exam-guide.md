@@ -1,9 +1,9 @@
 ---
-title: "JEE Main 2026 Exam Guide — Engineering Entrance Exam"
-description: "Complete JEE Main 2026 guide covering exam pattern, eligibility, syllabus, preparation strategy, NTA process and JoSAA counselling."
+title: "JEE Main Exam Guide — Engineering Entrance Exam"
+description: "Complete JEE Main guide covering exam pattern, eligibility, syllabus, preparation strategy, NTA process and JoSAA counselling."
 category: "Jobs & Exams"
 keywords:
-  - "JEE Main 2026"
+  - "JEE Main"
   - "JEE Main exam pattern"
   - "JEE Main eligibility"
   - "JEE Main syllabus"
@@ -19,11 +19,11 @@ officialLinks:
   - "https://nta.ac.in"
 ---
 
-# JEE Main 2026 Exam Guide — Engineering Entrance Exam
+# JEE Main Exam Guide — Engineering Entrance Exam
 
 JEE Main is India's biggest engineering entrance exam. Every year, lakhs of students appear for this exam to get admission into NITs, IIITs, GFTIs and other top engineering colleges. It is also the gateway to JEE Advanced, which is required for IIT admission.
 
-This guide covers everything you need to know about JEE Main 2026 — eligibility, exam pattern, syllabus, how to apply, preparation strategy and counselling process.
+This guide covers everything you need to know about JEE Main — eligibility, exam pattern, syllabus, how to apply, preparation strategy and counselling process.
 
 ---
 

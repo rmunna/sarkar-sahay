@@ -1,5 +1,5 @@
 ---
-title: "Delhi Doorstep Delivery of Services 2026 – Get 100+ Government Services at Home"
+title: "Delhi Doorstep Delivery of Services Get 100+ Government Services at Home"
 description: "Guide to Delhi Doorstep Delivery scheme — get ration card, caste certificate & 100+ services delivered at your door for ₹50."
 category: "State Schemes"
 keywords: ["delhi doorstep delivery services", "delhi home delivery government services", "doorstep delivery delhi apply", "delhi government services at home", "delhi doorstep delivery list", "delhi 1076 services"]

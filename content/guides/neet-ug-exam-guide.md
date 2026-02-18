@@ -1,9 +1,9 @@
 ---
-title: "NEET UG 2026 Exam Guide — Complete Medical Entrance Exam Details"
-description: "Complete NEET UG 2026 guide covering exam pattern, eligibility, syllabus, preparation tips, counselling process and important dates."
+title: "NEET UG Exam Guide — Complete Medical Entrance Exam Details"
+description: "Complete NEET UG guide covering exam pattern, eligibility, syllabus, preparation tips, counselling process and important dates."
 category: "Jobs & Exams"
 keywords:
-  - "NEET UG 2026"
+  - "NEET UG"
   - "NEET exam pattern"
   - "NEET eligibility criteria"
   - "NEET syllabus"
@@ -18,7 +18,7 @@ officialLinks:
   - "https://nta.ac.in"
 ---
 
-# NEET UG 2026 Exam Guide — Complete Medical Entrance Exam Details
+# NEET UG Exam Guide — Complete Medical Entrance Exam Details
 
 ## What is NEET UG?
 
@@ -102,7 +102,7 @@ NEET UG syllabus is based on **Class 11 and Class 12 NCERT** textbooks. Here's a
 
 ---
 
-## How to Apply for NEET UG 2026
+## How to Apply for NEET UG
 
 Follow these steps to register:
 
@@ -178,7 +178,7 @@ Each state conducts counselling for **85% state quota seats** through its own co
 
 ---
 
-## Important Dates Pattern (NEET UG 2026)
+## Important Dates Pattern (NEET UG)
 
 Exact dates are announced by NTA. Based on previous years, here's the expected timeline:
 
@@ -197,7 +197,7 @@ Exact dates are announced by NTA. Based on previous years, here's the expected t
 
 ---
 
-## Important Tips for NEET UG 2026
+## Important Tips for NEET UG
 
 1. **Start with NCERT** — Don't jump to reference books before finishing NCERT. For Biology especially, NCERT is enough for 350+ marks.
 

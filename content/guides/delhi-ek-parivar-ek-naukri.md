@@ -1,5 +1,5 @@
 ---
-title: "Delhi Ek Parivar Ek Naukri Yojana 2026 – One Family One Job Scheme"
+title: "Delhi Ek Parivar Ek Naukri Yojana One Family One Job Scheme"
 description: "Guide to Delhi Ek Parivar Ek Naukri Yojana — employment guarantee for one member per family. Eligibility & how to apply."
 category: "State Schemes"
 keywords: ["delhi ek parivar ek naukri", "delhi employment scheme", "one family one job delhi", "delhi job scheme", "delhi rojgar yojana", "ek parivar ek naukri apply"]

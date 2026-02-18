@@ -1,5 +1,5 @@
 ---
-title: "Delhi Ration Card & e-Coupon 2026 – Apply Online, Check Status & Download"
+title: "Delhi Ration Card & e-Coupon Apply Online, Check Status & Download"
 description: "Complete guide to Delhi ration card and e-coupon system — apply online, check eligibility, download e-coupon & track status."
 category: "Food & Ration"
 keywords: ["delhi ration card", "delhi e-coupon", "delhi ration card apply online", "delhi ration card status", "nfs delhi gov in", "delhi food supply"]
