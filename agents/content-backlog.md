@@ -51,16 +51,16 @@
 - [x] pm-jan-dhan-yojana — Zero-balance bank account
 - [x] pm-matru-vandana-detailed — Maternity benefit (detailed)
 - [x] deen-dayal-upadhyaya-grameen — DDU-GKY skill training
-- [ ] annapurna-scheme-senior-food — Food for senior citizens
-- [ ] national-family-benefit-scheme — NFBS death benefit
-- [ ] indira-gandhi-pension-scheme — IGNOAPS/IGNWPS/IGNDPS
-- [ ] pradhan-mantri-gram-sadak-yojana — Rural road scheme info
-- [ ] swachh-bharat-mission-toilet — SBM toilet subsidy
-- [ ] digital-india-initiatives — Digital India overview
-- [ ] one-nation-one-ration-card — Portable ration card
-- [ ] skill-india-mission-pmkvy — PMKVY skill development
-- [ ] startup-india-seed-fund — Startup India fund scheme
-- [ ] stand-up-india-detailed — Stand Up India loans
+- [x] annapurna-scheme-senior-food — Food for senior citizens
+- [x] national-family-benefit-scheme — NFBS death benefit
+- [x] indira-gandhi-pension-scheme — IGNOAPS/IGNWPS/IGNDPS
+- [x] pradhan-mantri-gram-sadak-yojana — Rural road scheme info
+- [x] swachh-bharat-mission-toilet — SBM toilet subsidy
+- [x] digital-india-initiatives — Digital India overview
+- [x] one-nation-one-ration-card — Portable ration card
+- [x] skill-india-mission-pmkvy — PMKVY skill development
+- [x] startup-india-seed-fund — Startup India fund scheme
+- [x] stand-up-india-detailed — Stand Up India loans
 
 ## Priority 3: Tax & Finance (gaps)
 - [ ] gst-return-filing-guide — GST return filing steps
