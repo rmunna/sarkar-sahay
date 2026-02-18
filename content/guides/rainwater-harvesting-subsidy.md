@@ -261,7 +261,7 @@ Once verified, the subsidy is credited to your bank account, or the property tax
 
 ## Related Guides
 
-- [How to Apply for New Water Connection](/guide/new-water-connection-apply)
+- [How to Apply for New Water Connection](/guide/water-connection-apply-online)
 - [Property Tax Payment Online](/guide/property-tax-payment-online)
 - [PM Surya Ghar — Solar Rooftop Subsidy](/guide/solar-rooftop-subsidy-apply)
 - [Smart Electricity Meter Installation](/guide/smart-meter-installation)

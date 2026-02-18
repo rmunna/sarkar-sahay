@@ -207,7 +207,7 @@ There is no fixed maximum. The exemption is calculated as the lowest of: actual 
 
 ## Related Guides
 
-- [Income Tax Return Filing Guide](/guide/income-tax-return-filing)
+- [Income Tax Return Filing Guide](/guide/income-tax-return-file-online)
 - [PAN Card Apply Online](/guide/pan-card-apply-online)
 - [Aadhaar Card Apply Online](/guide/aadhaar-card-apply-online)
 - [Passport Apply Online](/guide/passport-apply-online)

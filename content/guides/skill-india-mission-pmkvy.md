@@ -92,7 +92,7 @@ Go to the training center with the following documents:
 - [Aadhaar card](/guide/aadhaar-card-apply-online)
 - Recent passport-size photographs
 - Education certificates (if applicable)
-- [Bank account details](/guide/jan-dhan-yojana-bank-account) (for receiving monetary reward)
+- [Bank account details](/guide/pm-jan-dhan-yojana) (for receiving monetary reward)
 
 ### Step 5: Complete Enrollment
 
@@ -133,7 +133,7 @@ After completing the training, candidates must pass an **assessment conducted by
 - You receive an **NSQF-aligned certificate** recognized by the Government of India
 - Certificate is digitally verifiable on the Skill India Digital portal
 - Many employers accept PMKVY certificates for entry-level positions
-- Certificate helps in applying for [government jobs](/guide/sarkari-naukri-apply-online) and apprenticeships
+- Certificate helps in applying for [government jobs](/guide/central-govt-job-exam-guide) and apprenticeships
 
 ### If You Don't Pass
 
@@ -160,7 +160,7 @@ PMKVY provides several forms of financial support to candidates:
 ### How Payment is Made
 
 - Monetary rewards are transferred directly to your **bank account via DBT (Direct Benefit Transfer)**
-- You need a bank account linked to Aadhaar — consider opening a [Jan Dhan account](/guide/jan-dhan-yojana-bank-account) if you don't have one
+- You need a bank account linked to Aadhaar — consider opening a [Jan Dhan account](/guide/pm-jan-dhan-yojana) if you don't have one
 
 ## Important Tips
 

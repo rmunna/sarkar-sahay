@@ -23,7 +23,7 @@ SSC CGL is conducted by the Staff Selection Commission to recruit graduates for 
 - Graduate-level difficulty
 - ~30,000–40,000 vacancies annually (varies)
 
-For details, see our [SSC CGL guide](/guide/ssc-cgl-exam-guide).
+For details, see our [SSC CGL guide](/guide/ssc-exam-complete-guide).
 
 ## What is UPSC CSE?
 
@@ -35,7 +35,7 @@ UPSC CSE is India's most prestigious exam, conducted by the Union Public Service
 - Leads to highest administrative positions in the country
 - ~1,000 vacancies annually
 
-For details, see our [UPSC CSE guide](/guide/upsc-cse-exam-guide).
+For details, see our [UPSC CSE guide](/guide/upsc-civil-services-preparation-guide).
 
 ## SSC CGL vs UPSC CSE — Comparison Table
 

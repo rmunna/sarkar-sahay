@@ -147,7 +147,7 @@ Some authorities also send bills via SMS or WhatsApp to registered numbers.
 2. **Pay before the due date** — avoid late surcharges which can add up quickly.
 3. **Check your meter reading** — if the bill seems too high, request a meter inspection.
 4. **Report leaks** to your municipal authority immediately — you may be billed for leaked water.
-5. **Apply for a water connection** online if available in your city — see our guide on [new water connection](/guide/new-water-connection).
+5. **Apply for a water connection** online if available in your city — see our guide on [new water connection](/guide/water-connection-apply-online).
 6. **Rainwater harvesting rebates** — some cities offer discounts if you have a rainwater harvesting system installed.
 7. **Keep payment receipts** for at least 2 years in case of billing disputes.
 8. If you also need to pay property tax, see our guide on [property tax payment online](/guide/property-tax-payment-online).

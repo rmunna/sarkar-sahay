@@ -25,7 +25,7 @@ NPS (National Pension System) is a government-backed pension scheme regulated by
 - Available to all Indian citizens aged 18–70
 - Two account types: Tier I (retirement, restricted withdrawal) and Tier II (flexible)
 
-For more details, see our [NPS guide](/guide/nps-national-pension-system-guide).
+For more details, see our [NPS guide](/guide/nps-national-pension-system-account).
 
 ## What is PPF?
 
@@ -37,7 +37,7 @@ PPF (Public Provident Fund) is a government small savings scheme offering guaran
 - Completely tax-free returns (EEE status)
 - Available at post offices and banks
 
-For more details, see our [PPF guide](/guide/ppf-public-provident-fund-guide).
+For more details, see our [PPF guide](/guide/ppf-account-open-guide).
 
 ## NPS vs PPF — Detailed Comparison Table
 

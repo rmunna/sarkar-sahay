@@ -24,7 +24,7 @@ A Domicile Certificate (also called a Certificate of Domicile) is an official do
 - Usually valid for lifetime or until domicile changes
 - Based on birth, long-term residence (typically 15+ years), or parental domicile
 
-For details, see our [domicile certificate guide](/guide/domicile-certificate-apply-online).
+For details, see our [domicile certificate guide](/guide/domicile-certificate-online).
 
 ## What is a Residence Certificate?
 

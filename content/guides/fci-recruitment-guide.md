@@ -10,9 +10,9 @@ officialLinks:
   - "https://fci.gov.in"
   - "https://fci.gov.in/recruitments.php"
 relatedGuides:
-  - "ssc-cgl-guide"
-  - "upsc-civil-services-guide"
-  - "ibps-po-guide"
+  - "ssc-exam-complete-guide"
+  - "upsc-civil-services-preparation-guide"
+  - "banking-exam-preparation-guide"
 ---
 
 # FCI Recruitment Guide — Food Corporation of India Manager Exam
@@ -254,7 +254,7 @@ No. Interview is generally required for **Category I (Manager)** posts. Category
 
 ### Q4: What is the difference between FCI and SSC CGL recruitment?
 
-FCI conducts its own recruitment independently. SSC CGL is a separate exam conducted by the Staff Selection Commission for various central government posts. Both are central government opportunities but have different selection processes and pay structures. Check our [SSC CGL Guide](/guides/ssc-cgl-guide) for more details.
+FCI conducts its own recruitment independently. SSC CGL is a separate exam conducted by the Staff Selection Commission for various central government posts. Both are central government opportunities but have different selection processes and pay structures. Check our [SSC CGL Guide](/guides/ssc-exam-complete-guide) for more details.
 
 ### Q5: Can I apply for multiple FCI posts in the same notification?
 
@@ -272,9 +272,9 @@ All official notifications are published on [https://fci.gov.in](https://fci.gov
 
 ## Related Guides on CitizenNest
 
-- [SSC CGL Guide](/guides/ssc-cgl-guide) — Another popular central government exam
-- [UPSC Civil Services Guide](/guides/upsc-civil-services-guide) — For IAS/IPS aspirants
-- [IBPS PO Guide](/guides/ibps-po-guide) — Banking sector recruitment
+- [SSC CGL Guide](/guides/ssc-exam-complete-guide) — Another popular central government exam
+- [UPSC Civil Services Guide](/guides/upsc-civil-services-preparation-guide) — For IAS/IPS aspirants
+- [IBPS PO Guide](/guides/banking-exam-preparation-guide) — Banking sector recruitment
 
 ---
 

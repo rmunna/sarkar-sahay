@@ -200,7 +200,7 @@ Before diving into state-specific schemes, here are key central government progr
 ## Frequently Asked Questions
 
 ### Q1: Are central schemes like Ayushman Bharat available in NE states?
-**A:** Yes. All central schemes including [Ayushman Bharat](/guide/ayushman-bharat-pmjay-apply), [PM Kisan](/guide/pm-kisan-samman-nidhi-apply), and others are fully operational in NE states alongside state-specific schemes.
+**A:** Yes. All central schemes including [Ayushman Bharat](/guide/ayushman-bharat-health-card), [PM Kisan](/guide/pm-kisan-samman-nidhi), and others are fully operational in NE states alongside state-specific schemes.
 
 ### Q2: Do I need to be a tribal to avail NE state schemes?
 **A:** Not necessarily. While some schemes are exclusively for ST communities, many are open to all residents regardless of tribal status.

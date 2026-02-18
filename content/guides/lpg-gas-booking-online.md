@@ -43,7 +43,7 @@ India has three public sector oil marketing companies (OMCs) that supply domesti
 - Your previous cylinder should be at least **15 days old** (for subsidised refills).
 - No outstanding dues on your account.
 
-If you don't have a connection yet, check our guide on [getting a new LPG connection](/guide/lpg-new-connection).
+If you don't have a connection yet, check our guide on [getting a new LPG connection](/guide/lpg-gas-booking-online).
 
 ---
 
@@ -159,7 +159,7 @@ You can track your delivery status on the respective app or website.
 4. **Check delivery status** regularly on the app to plan your cooking.
 5. **Pay online** to avoid cash hassles during delivery. UPI payments are accepted by most distributors.
 6. **Safety first** — Always check the seal and weight of the delivered cylinder. Report any leaks immediately.
-7. If you're moving to a new city, you can **transfer your LPG connection** — see our guide on [address change for LPG](/guide/lpg-address-transfer).
+7. If you're moving to a new city, you can **transfer your LPG connection** — see our guide on [address change for LPG](/guide/lpg-gas-booking-online).
 
 ---
 
@@ -186,7 +186,7 @@ No. The booking must be placed from the **registered mobile number** linked to t
 
 ### 5. How do I surrender or cancel my LPG connection?
 
-Visit your distributor with your consumer card and passbook. The security deposit on the cylinder and regulator will be refunded. See our guide on [surrendering LPG connection](/guide/lpg-surrender).
+Visit your distributor with your consumer card and passbook. The security deposit on the cylinder and regulator will be refunded. See our guide on [surrendering LPG connection](/guide/lpg-gas-booking-online).
 
 ### 6. How many subsidised cylinders can I get per year?
 
@@ -202,7 +202,7 @@ Yes, portability is allowed. Visit the new distributor with your documents and t
 
 - [Electricity Bill Payment Online](/guide/electricity-bill-payment-online)
 - [Water Bill Payment Online](/guide/water-bill-payment-online)
-- [Aadhaar Card Update](/guide/aadhaar-card-update)
+- [Aadhaar Card Update](/guide/aadhaar-address-change-online)
 
 ---
 

@@ -23,7 +23,7 @@ EPF (Employees' Provident Fund) is a mandatory retirement savings scheme managed
 - Fixed interest rate set annually by EPFO
 - Full withdrawal allowed on retirement, resignation, or after 2 months of unemployment
 
-For details, see our [EPF guide](/guide/epf-employee-provident-fund-guide).
+For details, see our [EPF guide](/guide/epf-pf-withdrawal-online).
 
 ## What is NPS?
 
@@ -35,7 +35,7 @@ NPS (National Pension System) is a voluntary pension scheme regulated by PFRDA. 
 - Market-linked returns
 - Must use 40% to buy annuity at retirement
 
-For details, see our [NPS guide](/guide/nps-national-pension-system-guide).
+For details, see our [NPS guide](/guide/nps-national-pension-system-account).
 
 ## EPF vs NPS — Detailed Comparison
 

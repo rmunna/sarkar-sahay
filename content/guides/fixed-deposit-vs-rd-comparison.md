@@ -232,7 +232,7 @@ This guide is for informational purposes only. Interest rates, tax rules, and ba
 
 ## Related Guides
 
-- [How to File Income Tax Return Online](/guide/income-tax-return-online)
+- [How to File Income Tax Return Online](/guide/income-tax-return-file-online)
 - [PAN Card Apply Online](/guide/pan-card-apply-online)
 - [Aadhaar Card Apply Online](/guide/aadhaar-card-apply-online)
-- [PPF Account — Public Provident Fund Guide](/guide/ppf-account-guide)
+- [PPF Account — Public Provident Fund Guide](/guide/ppf-account-open-guide)

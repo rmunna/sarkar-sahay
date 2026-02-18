@@ -160,7 +160,7 @@ You can also check on Paytm or PhonePe by entering your consumer number under El
 5. **Submit meter readings** online if your discom allows self-reporting — avoids estimated billing.
 6. **Apply for e-bill** to get paperless bills via email or SMS.
 7. **Report outages** on your discom app — most have a dedicated fault reporting feature.
-8. Check if you qualify for any **subsidy or free electricity scheme** under your state government (e.g., PM Surya Ghar for solar). See our guide on [PM Surya Ghar Yojana](/guide/pm-surya-ghar-yojana).
+8. Check if you qualify for any **subsidy or free electricity scheme** under your state government (e.g., PM Surya Ghar for solar). See our guide on [PM Surya Ghar Yojana](/guide/pm-surya-ghar-muft-bijli).
 
 ---
 
@@ -180,7 +180,7 @@ A **late payment surcharge** (typically 1–2% per month) is applied. If bills r
 
 ### 4. How do I apply for a new electricity connection?
 
-Visit your local discom office or apply online through the discom website. You'll need ID proof, address proof, and ownership/rental documents. See our guide on [new electricity connection](/guide/new-electricity-connection).
+Visit your local discom office or apply online through the discom website. You'll need ID proof, address proof, and ownership/rental documents. See our guide on [new electricity connection](/guide/electricity-connection-apply-online).
 
 ### 5. Can I change my electricity meter or connection name?
 

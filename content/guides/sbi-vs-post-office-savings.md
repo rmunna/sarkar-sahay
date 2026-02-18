@@ -61,7 +61,7 @@ Post Office offers several small savings schemes not available at SBI:
 
 *Note: PPF and SCSS are also available at SBI and other banks, but SSY, NSC, KVP, and MIS are predominantly Post Office schemes.*
 
-For details on PPF, see our [PPF guide](/guide/ppf-public-provident-fund-guide). For Sukanya Samriddhi, see our [SSY guide](/guide/sukanya-samriddhi-yojana-guide).
+For details on PPF, see our [PPF guide](/guide/ppf-account-open-guide). For Sukanya Samriddhi, see our [SSY guide](/guide/sukanya-samriddhi-yojana).
 
 ## Safety Comparison
 

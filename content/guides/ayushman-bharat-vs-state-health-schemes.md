@@ -24,7 +24,7 @@ Ayushman Bharat PMJAY is the world's largest government health insurance scheme,
 - No age limit, family size limit, or pre-existing disease exclusion
 - Based on SECC 2011 database for eligibility
 
-For details, see our [Ayushman Bharat guide](/guide/ayushman-bharat-pmjay-guide).
+For details, see our [Ayushman Bharat guide](/guide/ayushman-bharat-health-card).
 
 ## Major State Health Schemes
 

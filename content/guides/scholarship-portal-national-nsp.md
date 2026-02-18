@@ -125,7 +125,7 @@ Amounts vary significantly by scheme:
 
 - Check our [Aadhaar card guide](/guide/aadhaar-card-apply-online) for Aadhaar-related help
 - See the [Vidyalakshmi education loan portal guide](/guide/vidyalakshmi-education-loan-portal) for education financing
-- Read about [income certificate](/guide/income-certificate-apply-online) requirements
+- Read about [income certificate](/guide/income-certificate-online) requirements
 
 ## Frequently Asked Questions
 

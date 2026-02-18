@@ -179,7 +179,7 @@ Processing times vary by state and the workload at your local office. Urban area
 
 ## Tips for a Smooth Process
 
-1. **Ensure your Aadhaar is updated first** — many corrections require Aadhaar as the primary proof. If your Aadhaar itself has errors, fix that first. See our guide on [Aadhaar card update](/guide/aadhaar-card-update).
+1. **Ensure your Aadhaar is updated first** — many corrections require Aadhaar as the primary proof. If your Aadhaar itself has errors, fix that first. See our guide on [Aadhaar card update](/guide/aadhaar-name-correction-online).
 
 2. **Keep document sizes small** — when uploading online, compress your PDFs and images to avoid upload failures.
 
@@ -197,10 +197,10 @@ Processing times vary by state and the workload at your local office. Urban area
 
 ## Related Guides
 
-- [How to Apply for a New Ration Card](/guide/ration-card-apply)
-- [Aadhaar Card Update Process](/guide/aadhaar-card-update)
-- [Domicile Certificate Application](/guide/domicile-certificate-apply)
-- [Address Change in Government Documents](/guide/address-change-government-documents)
+- [How to Apply for a New Ration Card](/guide/ration-card-apply-online)
+- [Aadhaar Card Update Process](/guide/aadhaar-name-correction-online)
+- [Domicile Certificate Application](/guide/domicile-certificate-online)
+- [Address Change in Government Documents](/guide/aadhaar-address-change-online)
 
 ---
 

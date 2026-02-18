@@ -192,9 +192,9 @@ The overall rollout timeline depends on your DISCOM and area. Some areas may wai
 ## Related Guides
 
 - [How to Pay Electricity Bill Online](/guide/electricity-bill-payment-online)
-- [How to Apply for New Electricity Connection](/guide/new-electricity-connection-apply)
+- [How to Apply for New Electricity Connection](/guide/electricity-connection-apply-online)
 - [PM Surya Ghar — Solar Rooftop Subsidy](/guide/solar-rooftop-subsidy-apply)
-- [How to File Electricity Complaint Online](/guide/electricity-complaint-online)
+- [How to File Electricity Complaint Online](/guide/electricity-connection-apply-online)
 
 ---
 

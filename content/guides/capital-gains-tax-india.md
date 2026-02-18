@@ -219,9 +219,9 @@ Yes. Non-reporting can lead to a notice under Section 148, penalties up to 50-20
 
 ## Related Guides
 
-- [How to File Income Tax Return Online](/guide/income-tax-return-filing-online)
+- [How to File Income Tax Return Online](/guide/income-tax-return-file-online)
 - [How to Apply for PAN Card Online](/guide/pan-card-apply-online)
-- [How to Link Aadhaar with PAN](/guide/link-aadhaar-pan)
+- [How to Link Aadhaar with PAN](/guide/aadhaar-pan-link)
 
 ---
 

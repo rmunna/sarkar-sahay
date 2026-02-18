@@ -191,7 +191,7 @@ You **cannot** withdraw ELSS before the 3-year lock-in period. Each SIP instalme
 
 ## Related Guides
 
-- [Income Tax Return Filing Guide](/guide/income-tax-return-filing-online)
+- [Income Tax Return Filing Guide](/guide/income-tax-return-file-online)
 - [PAN Card Apply Online](/guide/pan-card-apply-online)
 - [Aadhaar-PAN Linking Guide](/guide/aadhaar-pan-link)
 

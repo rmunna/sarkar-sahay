@@ -61,7 +61,7 @@ The Government of India revises the PPF interest rate every quarter. As of **Q4 
 
 PPF enjoys EEE (Exempt-Exempt-Exempt) tax status — one of the very few instruments with this benefit:
 
-1. **Deposit** — Eligible for deduction under [Section 80C](/guide/income-tax-section-80c-deductions) up to ₹1.5 lakh per year
+1. **Deposit** — Eligible for deduction under [Section 80C](/guide/section-80c-deductions-guide) up to ₹1.5 lakh per year
 2. **Interest earned** — Completely tax-free (no TDS)
 3. **Maturity amount** — Fully exempt from income tax
 
@@ -269,10 +269,10 @@ Both offer the same interest rate and rules. Banks offer better online access an
 
 ## Related Guides
 
-- [Income Tax Section 80C Deductions](/guide/income-tax-section-80c-deductions)
+- [Income Tax Section 80C Deductions](/guide/section-80c-deductions-guide)
 - [Aadhaar Card – How to Apply Online](/guide/aadhaar-card-apply-online)
 - [PAN Card Apply Online](/guide/pan-card-apply-online)
-- [Sukanya Samriddhi Yojana Guide](/guide/sukanya-samriddhi-yojana-guide)
+- [Sukanya Samriddhi Yojana Guide](/guide/sukanya-samriddhi-yojana)
 
 ---
 

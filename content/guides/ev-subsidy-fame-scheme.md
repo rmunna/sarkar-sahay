@@ -250,8 +250,8 @@ Submit the installation proof, invoices, and inspection certificate to claim the
 ## Related Guides
 
 - [PM Surya Ghar — Solar Rooftop Subsidy](/guide/solar-rooftop-subsidy-apply)
-- [How to Apply for Driving Licence Online](/guide/driving-licence-apply-online)
-- [Vehicle Registration Certificate (RC) Transfer](/guide/rc-transfer-online)
+- [How to Apply for Driving Licence Online](/guide/driving-license-apply-online)
+- [Vehicle Registration Certificate (RC) Transfer](/guide/vehicle-rc-transfer-online)
 - [Rainwater Harvesting Subsidy](/guide/rainwater-harvesting-subsidy)
 
 ---

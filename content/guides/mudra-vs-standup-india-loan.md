@@ -122,7 +122,7 @@ Technically, you could avail a Mudra Loan first for a small business and later a
 2. **Stand-Up India has handholding support** — SIDBI and NABARD provide training and mentoring through the portal
 3. **Prepare a solid business plan** — both schemes require a viable business proposal; banks can reject weak plans
 4. **Check CIBIL score** — a good credit score improves approval chances for both schemes
-5. **Combine with PMEGP** — if not eligible for Stand-Up India, explore [PMEGP](/guide/pmegp-scheme-guide) for manufacturing/service units up to ₹50 lakh
+5. **Combine with PMEGP** — if not eligible for Stand-Up India, explore [PMEGP](/guide/pm-mudra-yojana-loan) for manufacturing/service units up to ₹50 lakh
 
 ## FAQs
 

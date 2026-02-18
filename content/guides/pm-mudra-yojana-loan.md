@@ -135,7 +135,7 @@ After loan approval, you can request a **MUDRA Card** — a RuPay debit card lin
 1. **Start with Shishu** if you're new — smaller amounts are easier to get approved and help build your credit history for larger loans later.
 2. **Prepare a solid business plan** for Kishore/Tarun — banks evaluate the viability of your business, not just your credentials.
 3. **Compare interest rates** — different banks offer different rates. Use the Udyami Mitra portal to see multiple options.
-4. **Get Udyam Registration** first — it's free at [udyamregistration.gov.in](https://udyamregistration.gov.in) and strengthens your application. See our [Udyam Registration guide](/guide/udyam-registration-online).
+4. **Get Udyam Registration** first — it's free at [udyamregistration.gov.in](https://udyamregistration.gov.in) and strengthens your application. See our [Udyam Registration guide](/guide/startup-india-dpiit-registration).
 5. **Repay on time** — good repayment history qualifies you for higher loan amounts (Kishore → Tarun) and better interest rates.
 
 ## Frequently Asked Questions (FAQs)

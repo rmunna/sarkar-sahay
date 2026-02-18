@@ -30,9 +30,9 @@ keywords:
   - e-governance india
   - government digital services
 relatedGuides:
-  - "aadhaar-card-guide"
-  - "pan-card-guide"
-  - "ration-card-guide"
+  - "aadhaar-card-apply-online"
+  - "pan-card-apply-online"
+  - "ration-card-apply-online"
 ---
 
 # Digital India Programme — Overview of Key Initiatives and Services
@@ -77,9 +77,9 @@ The programme is built on **nine pillars** that guide all its initiatives:
 
 ### DigiLocker
 
-**DigiLocker** is a cloud-based platform that lets citizens store, access, and share official documents digitally. It is linked to your [Aadhaar number](/guides/aadhaar-card-guide) and provides access to documents issued by government agencies.
+**DigiLocker** is a cloud-based platform that lets citizens store, access, and share official documents digitally. It is linked to your [Aadhaar number](/guide/aadhaar-card-apply-online) and provides access to documents issued by government agencies.
 
-- **Key features:** Store driving licence, [PAN card](/guides/pan-card-guide), mark sheets, vehicle registration, and more
+- **Key features:** Store driving licence, [PAN card](/guide/pan-card-apply-online), mark sheets, vehicle registration, and more
 - **Accepted as valid:** DigiLocker documents are legally equivalent to original physical documents under the IT Act
 - **How to use:** Sign up at [digilocker.gov.in](https://www.digilocker.gov.in) or download the DigiLocker app
 - **Storage:** Each citizen gets 1 GB of free cloud storage
@@ -88,7 +88,7 @@ The programme is built on **nine pillars** that guide all its initiatives:
 
 **UMANG** is a single mobile app that provides access to over 1,700 government services from central and state departments.
 
-- **Services available:** EPF balance check, [Aadhaar services](/guides/aadhaar-card-guide), passport application status, [ration card details](/guides/ration-card-guide), scholarship tracking, and more
+- **Services available:** EPF balance check, [Aadhaar services](/guide/aadhaar-card-apply-online), passport application status, [ration card details](/guide/ration-card-apply-online), scholarship tracking, and more
 - **How to use:** Download the UMANG app from Google Play Store or Apple App Store, or visit [web.umang.gov.in](https://web.umang.gov.in)
 - **Languages:** Available in 13 Indian languages
 
@@ -106,9 +106,9 @@ The programme is built on **nine pillars** that guide all its initiatives:
 
 **Aadhaar** is a 12-digit unique identity number issued by UIDAI to every resident of India. It serves as the digital identity backbone for most government services.
 
-- **Uses:** KYC verification, linking to bank accounts, [PAN card](/guides/pan-card-guide), [ration card](/guides/ration-card-guide), mobile number, and subsidies
+- **Uses:** KYC verification, linking to bank accounts, [PAN card](/guide/pan-card-apply-online), [ration card](/guide/ration-card-apply-online), mobile number, and subsidies
 - **eKYC:** Aadhaar-based electronic Know Your Customer eliminates paperwork for banking, telecom, and other services
-- Read our detailed [Aadhaar Card Guide](/guides/aadhaar-card-guide) for application, update, and download steps
+- Read our detailed [Aadhaar Card Guide](/guide/aadhaar-card-apply-online) for application, update, and download steps
 
 ### e-Sign
 
@@ -158,7 +158,7 @@ The Digital India programme has brought real changes to everyday life:
 
 ### Step 1: Get Your Aadhaar Ready
 
-Most Digital India services require [Aadhaar verification](/guides/aadhaar-card-guide). Make sure your Aadhaar is linked to your mobile number.
+Most Digital India services require [Aadhaar verification](/guide/aadhaar-card-apply-online). Make sure your Aadhaar is linked to your mobile number.
 
 ### Step 2: Register on Key Platforms
 
@@ -222,9 +222,9 @@ Most Digital India services are free for citizens. DigiLocker, UMANG, and UPI pe
 
 ## Related Guides
 
-- [Aadhaar Card — Complete Guide](/guides/aadhaar-card-guide)
-- [PAN Card — Application and Update Guide](/guides/pan-card-guide)
-- [Ration Card — How to Apply and Check Status](/guides/ration-card-guide)
+- [Aadhaar Card — Complete Guide](/guide/aadhaar-card-apply-online)
+- [PAN Card — Application and Update Guide](/guide/pan-card-apply-online)
+- [Ration Card — How to Apply and Check Status](/guide/ration-card-apply-online)
 
 ---
 

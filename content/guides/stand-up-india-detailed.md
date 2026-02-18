@@ -102,7 +102,7 @@ Keep the following documents ready before applying:
 
 ### Financial Documents
 - Bank statements of the last 6 months
-- [Income Tax returns](/guide/income-tax-return-filing) (if applicable)
+- [Income Tax returns](/guide/income-tax-return-file-online) (if applicable)
 - Proof of margin money / own contribution
 
 ### Photographs
@@ -190,7 +190,7 @@ The minimum loan under Stand Up India is ₹10 lakh. If your requirement is smal
 
 ### 3. Can I apply if I already have an existing business?
 
-**No.** Stand Up India is only for **greenfield (new) enterprises**. If you already have an established business and need expansion funding, explore other schemes like [PMEGP](/guide/pmegp-loan-scheme) or MUDRA.
+**No.** Stand Up India is only for **greenfield (new) enterprises**. If you already have an established business and need expansion funding, explore other schemes like [PMEGP](/guide/pm-mudra-yojana-loan) or MUDRA.
 
 ### 4. Is collateral required for Stand Up India loan?
 
