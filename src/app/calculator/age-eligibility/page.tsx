@@ -53,9 +53,10 @@ function checkEligibility(age: number): Eligibility[] {
 
 /* ───── State schemes data ───── */
 const INDIAN_STATES = [
-  "Uttar Pradesh", "Bihar", "Maharashtra", "Rajasthan", "Madhya Pradesh", "Tamil Nadu",
-  "West Bengal", "Karnataka", "Gujarat", "Haryana", "Telangana", "Kerala", "Odisha",
-  "Assam", "Chhattisgarh", "Punjab", "Jharkhand",
+  "Andhra Pradesh", "Assam", "Bihar", "Chhattisgarh", "Delhi", "Goa", "Gujarat",
+  "Haryana", "Himachal Pradesh", "Jharkhand", "Karnataka", "Kerala", "Madhya Pradesh",
+  "Maharashtra", "Odisha", "Punjab", "Rajasthan", "Tamil Nadu", "Telangana",
+  "Uttar Pradesh", "Uttarakhand", "West Bengal",
 ];
 
 const STATE_SCHEMES: Record<string, StateScheme[]> = {
@@ -142,6 +143,26 @@ const STATE_SCHEMES: Record<string, StateScheme[]> = {
   "Jharkhand": [
     { name: "Guruji Credit Card Scheme", ageRange: "Students", ageMin: 10, ageMax: 25, note: "Education loan for students", guideSlug: "jharkhand-guruji-credit-card-students" },
     { name: "Mukhyamantri Protsahan Yojana", ageRange: "Graduates", ageMin: 18, ageMax: 35, note: "For unemployed graduates", guideSlug: "jharkhand-mukhyamantri-protsahan-yojana" },
+  ],
+  "Delhi": [
+    { name: "Ladli Yojana", ageRange: "0 – 18", ageMin: 0, ageMax: 18, note: "Financial aid for girls", guideSlug: "delhi-ladli-yojana" },
+    { name: "Free Bus Ride for Women", ageRange: "All ages", ageMin: 0, ageMax: 99, note: "Free DTC/cluster bus travel for women", guideSlug: "delhi-free-bus-ride-women" },
+    { name: "Doorstep Delivery of Services", ageRange: "18+", ageMin: 18, ageMax: 99, note: "Govt services at your doorstep", guideSlug: "delhi-doorstep-delivery-services" },
+    { name: "Ration Card E-Coupon", ageRange: "18+", ageMin: 18, ageMax: 99, note: "Subsidised ration for BPL families", guideSlug: "delhi-ration-card-e-coupon" },
+    { name: "Ek Parivar Ek Naukri", ageRange: "18 – 35", ageMin: 18, ageMax: 35, note: "Employment for one member per family", guideSlug: "delhi-ek-parivar-ek-naukri" },
+  ],
+  "Himachal Pradesh": [
+    { name: "Medha Protsahan Yojana", ageRange: "Students", ageMin: 15, ageMax: 30, note: "Coaching assistance for competitive exams", guideSlug: "hp-medha-protsahan-yojana" },
+    { name: "Sahara Yojana", ageRange: "All ages", ageMin: 0, ageMax: 99, note: "Financial aid for serious illness", guideSlug: "hp-sahara-yojana" },
+    { name: "Mukhyamantri Swavalamban Yojana", ageRange: "18 – 45", ageMin: 18, ageMax: 45, note: "Self-employment for youth", guideSlug: "hp-mukhyamantri-swavalamban-yojana" },
+  ],
+  "Uttarakhand": [
+    { name: "Gaura Devi Kanya Dhan Yojana", ageRange: "Girls (BPL)", ageMin: 0, ageMax: 25, note: "Financial aid for BPL girls", guideSlug: "uk-gaura-devi-kanya-dhan" },
+    { name: "Mukhyamantri Vatsalya Yojana", ageRange: "0 – 21", ageMin: 0, ageMax: 21, note: "Support for orphan children", guideSlug: "uk-mukhyamantri-vatsalya-yojana" },
+  ],
+  "Goa": [
+    { name: "Dayanand Social Security Scheme", ageRange: "60+", ageMin: 60, ageMax: 99, note: "Pension for senior citizens", guideSlug: "goa-dayanand-social-security" },
+    { name: "Griha Aadhar Scheme", ageRange: "18+", ageMin: 18, ageMax: 99, note: "Financial aid for homemakers", guideSlug: "goa-griha-aadhar-scheme" },
   ],
 };
 
@@ -290,7 +311,7 @@ export default function SchemeEligibilityChecker() {
           ["Can I get EPF withdrawal before 58?", "Partial withdrawal is allowed for specific purposes (medical, housing, education). Full withdrawal is at 58 or after 2 months of unemployment."],
           ["What is the age limit for E-Shram card?", "Workers aged 16-59 in the unorganised sector can register. No upper age limit for renewal of existing cards."],
           ["Does this tool show state-specific schemes?", "Yes! Select your state from the dropdown to see state-specific schemes like Ladli Bahna (MP), Kanya Sumangala (UP), Lakshmir Bhandar (West Bengal), and many more — in addition to all national schemes."],
-          ["Which states are covered for state schemes?", "We currently cover 17 major states including Uttar Pradesh, Bihar, Maharashtra, Rajasthan, Madhya Pradesh, Tamil Nadu, West Bengal, Karnataka, Gujarat, Haryana, Telangana, Kerala, Odisha, Assam, Chhattisgarh, Punjab, and Jharkhand. More states will be added soon."],
+          ["Which states are covered for state schemes?", "We currently cover 22 states and UTs including Uttar Pradesh, Bihar, Maharashtra, Rajasthan, Madhya Pradesh, Tamil Nadu, West Bengal, Karnataka, Gujarat, Haryana, Telangana, Kerala, Odisha, Assam, Chhattisgarh, Punjab, Jharkhand, Delhi, Himachal Pradesh, Uttarakhand, Goa, and Andhra Pradesh (coming soon). More states will be added soon."],
         ].map(([q, a]) => (
           <details key={q} className="mb-3 group">
             <summary className="cursor-pointer font-medium text-gray-800 group-open:text-orange-600">{q}</summary>

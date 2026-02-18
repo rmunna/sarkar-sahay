@@ -187,6 +187,16 @@ const STATE_JOBS: Record<string, Exam[]> = {
     { name: "Assam Police Constable", organization: "SLPRB Assam", ageMin: 18, ageMax: 25, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "assam-police-constable-exam-guide" },
     { name: "Assam TET", organization: "SSA Assam", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "assam-tet-exam-guide" },
   ],
+  "Delhi": [
+    { name: "DSSSB Exams", organization: "DSSSB", ageMin: 18, ageMax: 27, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "dsssb-exam-guide" },
+    { name: "Delhi Police Constable", organization: "SSC / Delhi Police", ageMin: 18, ageMax: 25, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 3, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: "delhi-police-constable-exam-guide" },
+  ],
+  "Himachal Pradesh": [
+    { name: "HPPSC (HPAS)", organization: "HPPSC", ageMin: 21, ageMax: 45, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "hppsc-exam-guide" },
+  ],
+  "Goa": [
+    { name: "Goa PSC", organization: "GPSC", ageMin: 18, ageMax: 42, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "goa-psc-exam-guide" },
+  ],
 };
 
 /* ───── helpers ───── */
@@ -435,7 +445,7 @@ export default function JobEligibilityChecker() {
           ["Which exams are covered?", "We cover UPSC (CSE, CDS, NDA, IES/ISS), SSC (CGL, CHSL, MTS, GD, Steno), Banking (IBPS PO/Clerk/SO, SBI, RBI), Railways (NTPC, Group D, ALP), Defence (Agniveer), GATE, UGC NET, CTET, LIC AAO, EPFO SSA, and 70+ state-level exams."],
           ["Can women apply for NDA and defence exams?", "Women can apply for NDA and CDS. Agniveer entries for Army, Navy, and Air Force currently have specific gender requirements — check the latest notification."],
           ["Does it show state PSC and police jobs?", "Yes! Select your state from the dropdown to see state-specific PSC exams, Police Constable, Sub-Inspector, Teacher Eligibility (TET), and other state government jobs with their specific eligibility criteria."],
-          ["Which state jobs are covered?", "We cover 20 states: UP, Bihar, MP, Rajasthan, Tamil Nadu, Karnataka, West Bengal, Gujarat, Maharashtra, Haryana, Uttarakhand, AP, Telangana, Jharkhand, Kerala, Odisha, Punjab, Chhattisgarh, Assam. Each state has 3-6 entries including PSC, Police, SI, TET, and revenue/clerk posts."],
+          ["Which state jobs are covered?", "We cover 23 states/UTs: UP, Bihar, MP, Rajasthan, Tamil Nadu, Karnataka, West Bengal, Gujarat, Maharashtra, Haryana, Uttarakhand, AP, Telangana, Jharkhand, Kerala, Odisha, Punjab, Chhattisgarh, Assam, Delhi, Himachal Pradesh, and Goa. Each state has 1-6 entries including PSC, Police, SI, TET, and revenue/clerk posts."],
         ].map(([q, a]) => (
           <details key={q} className="mb-3 group">
             <summary className="cursor-pointer font-medium text-gray-800 group-open:text-orange-600">{q}</summary>
