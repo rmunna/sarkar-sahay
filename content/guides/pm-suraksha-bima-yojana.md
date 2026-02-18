@@ -1,155 +1,118 @@
 ---
-title: "PM Suraksha Bima Yojana – Accident Insurance at ₹12/Year, Apply Online"
-description: "Complete guide to Pradhan Mantri Suraksha Bima Yojana – ₹2 lakh accident cover at just ₹12/year. Eligibility, claim process and enrollment steps."
+title: "PM Suraksha Bima Yojana (PMSBY) — ₹2 Lakh Accident Insurance at ₹20/Year"
+description: "Complete guide to PM Suraksha Bima Yojana. Get ₹2 lakh accidental death and disability insurance for just ₹20 per year. How to apply."
 category: "Government Schemes"
-keywords: ["pm suraksha bima yojana", "pmsby apply online", "accident insurance 12 rupees", "pmsby claim", "pmsby eligibility", "government accident insurance"]
-lastUpdated: "2025-02-17"
-readingTime: "8 min"
+keywords: ["pm suraksha bima yojana", "PMSBY scheme", "accident insurance 20 rupees", "government accident insurance", "pmsby apply online"]
+lastUpdated: "2026-02-18"
+readingTime: "6 min"
 officialLinks:
-  - "https://www.jansuraksha.gov.in"
-  - "https://financialservices.gov.in/insurance-divisions/Government-Sponsored-Socially-Oriented-Insurance-Schemes/Pradhan-Mantri-Suraksha-Bima-Yojana(PMSBY)"
+  - https://jansuraksha.gov.in
+  - https://financialservices.gov.in
 ---
 
-# PM Suraksha Bima Yojana (PMSBY) 2025 – Complete Guide
+## What is PM Suraksha Bima Yojana (PMSBY)?
 
-## What is PM Suraksha Bima Yojana?
+Pradhan Mantri Suraksha Bima Yojana is a **government-backed accidental insurance scheme** launched on **9th May 2015** offering coverage of **₹2 lakh for accidental death and permanent total disability**, and **₹1 lakh for permanent partial disability** — all for a premium of just **₹20 per year**.
 
-Pradhan Mantri Suraksha Bima Yojana (PMSBY) is a government-backed accident insurance scheme launched on 9th May 2015. It provides accidental death and disability cover of ₹2 lakh at an incredibly affordable premium of just **₹12 per year**, auto-debited from your bank account.
-
-The scheme is designed for the economically weaker sections of society who cannot afford regular insurance. It covers death or disability due to accidents only (not natural death — for that, see [PM Jeevan Jyoti Bima Yojana](/guide/pm-jeevan-jyoti-bima-yojana)).
-
-> **Disclaimer:** CitizenNest is an independent informational platform and is not affiliated with the Government of India.
-
-## Coverage Details
-
-| Event | Cover Amount |
-|-------|-------------|
-| **Accidental Death** | ₹2,00,000 |
-| **Total Permanent Disability** (loss of both eyes, both hands/feet) | ₹2,00,000 |
-| **Partial Permanent Disability** (loss of one eye, one hand/foot) | ₹1,00,000 |
-
-> Coverage period: 1st June to 31st May each year. Premium is auto-debited annually.
+> **At just ₹20/year**, PMSBY is the most affordable accident insurance in India. Every bank account holder aged 18-70 should enrol.
 
 ## Who is Eligible?
 
-- **Indian citizens** aged **18 to 70 years**
-- Must have a **savings bank account** with any participating bank
-- Must have **Aadhaar linked** to the bank account
-- One PMSBY policy per person (even if you have multiple bank accounts)
-- **No medical examination required**
-- **No income criteria** — anyone can enroll
+- **Age:** 18 to 70 years
+- **Savings bank account** in any participating bank
+- **Aadhaar linked** to the bank account
+- **One enrolment per person** (regardless of multiple bank accounts)
+- Open to **all Indian citizens**
+
+## Coverage Details
+
+| Event | Coverage Amount |
+|-------|----------------|
+| **Accidental Death** | ₹2,00,000 |
+| **Permanent Total Disability** (loss of both eyes, or both hands/feet, or one eye + one hand/foot) | ₹2,00,000 |
+| **Permanent Partial Disability** (loss of one eye, or one hand/foot) | ₹1,00,000 |
+
+**Coverage Period:** 1st June to 31st May each year (auto-renewed annually)
 
 ## Documents Required
 
-- Aadhaar card linked to bank account (see our [Aadhaar guide](/guide/aadhaar-card-apply-online))
-- Savings bank account with any participating bank
-- Signed consent-cum-declaration form (available at bank)
-- Nominee details
+- **Aadhaar Card** (linked to bank account)
+- **Bank account passbook**
+- **Nomination form** (bank provides)
+- **Auto-debit consent**
 
-## Step-by-Step Enrollment Process
-
-### Through Net Banking / Mobile Banking
-
-1. **Login** to your bank's net banking or mobile app
-2. **Navigate** to "Insurance" or "Social Security Schemes" section
-3. **Select** "PMSBY" or "PM Suraksha Bima Yojana"
-4. **Verify** your details — name, Aadhaar, nominee
-5. **Add/update nominee** details
-6. **Give consent** for auto-debit of ₹12/year
-7. **Confirm** enrollment — you'll receive SMS confirmation
-8. **Download** the certificate of insurance
+## How to Enrol — Step-by-Step
 
 ### Through Bank Branch
+1. Visit your **savings account bank branch**
+2. Fill the **PMSBY enrolment form** (one-page form)
+3. Provide **nominee details** (name, relationship)
+4. Give **auto-debit consent** for ₹20 annual deduction
+5. Receive SMS/confirmation of enrolment
 
-1. **Visit** your bank branch where you hold a savings account
-2. **Collect** the PMSBY enrollment form
-3. **Fill** the form with personal and nominee details
-4. **Submit** with Aadhaar copy
-5. **Sign** the auto-debit mandate for ₹12/year
-6. Bank will process enrollment within **7-10 working days**
+### Through Net Banking / Mobile Banking
+1. Log in to your bank's **internet/mobile banking**
+2. Go to **"Insurance"** or **"Social Security Schemes"**
+3. Select **"PMSBY"**
+4. Add nominee details and confirm auto-debit
+5. Done — coverage starts from 1st June
 
-### Through CSC / BC Agent
+### Through SMS (Select Banks)
+Some banks allow enrolment via **SMS keywords**. Check with your bank.
 
-1. **Visit** nearest Common Service Centre or Banking Correspondent
-2. **Provide** bank account details and Aadhaar
-3. **Fill** the form and sign
-4. **Pay** ₹12 (first year premium)
+## Premium & Payment
 
-## Premium and Fees
-
-| Item | Amount |
-|------|--------|
-| **Annual premium** | ₹12 (auto-debited from bank account) |
-| Enrollment fee | **Free** |
-| Claim processing fee | **Free** |
-
-> Premium is deducted between 25th May and 1st June each year. Ensure sufficient balance in your account.
+| Detail | Information |
+|--------|------------|
+| **Annual Premium** | ₹20 (inclusive of GST) |
+| **Debit Date** | Auto-debited on or before 31st May |
+| **Payment Mode** | Auto-debit from savings account |
+| **Grace Period** | Re-enrolment possible by paying premium with full year coverage |
 
 ## How to File a Claim
 
-### In Case of Accidental Death
-
-1. **Nominee** must visit the bank branch where the deceased held the account
-2. **Collect** the PMSBY claim form from the bank
-3. **Submit** the following documents:
-   - Claim form (duly filled)
-   - Death certificate
-   - FIR / Police report (copy)
-   - Post-mortem report (if conducted)
-   - Nominee's Aadhaar and bank account details
-4. Bank forwards the claim to the **insurance company**
-5. **Claim settled within 30 days** of document submission
-
-### In Case of Disability
-
-1. **Insured person** visits the bank branch
-2. **Submit** claim form with:
-   - Medical certificate from government hospital confirming permanent disability
-   - FIR / accident report
-   - Aadhaar and bank details
-3. Insurance company may send a **surveyor** for verification
-4. **Claim amount credited** to the insured's bank account
-
-## Processing Time
-
-- **Enrollment:** Immediate (net banking) or 7-10 days (branch)
-- **Claim settlement:** 30-60 days after submission of all documents
-- **Auto-renewal:** Automatic every June 1st if balance is sufficient
+1. **Nominee/family** informs the bank branch about the accident
+2. Submit:
+   - **Claim form** (from bank)
+   - **FIR/Police Report** (for accidental death)
+   - **Death certificate** (for death claims)
+   - **Disability certificate** from government hospital (for disability claims)
+   - **Post-mortem report** (if applicable)
+   - Nominee's **Aadhaar and bank details**
+3. Bank forwards claim to the insurance company
+4. Claim processed and **amount transferred to nominee's account** within 30 days
 
 ## Important Tips
 
-1. **Keep minimum ₹12 balance** in your account before June 1st every year — if auto-debit fails, your coverage lapses.
-2. **Update your nominee** — Visit your bank if you need to change the nominee. Unclaimed insurance due to nominee issues is common.
-3. **This covers accidents only** — PMSBY does not cover natural death, suicide, or illness. For life cover, also enroll in [PM Jeevan Jyoti Bima Yojana](/guide/pm-jeevan-jyoti-bima-yojana).
-4. **Link Aadhaar to your bank account** — This is mandatory for enrollment and smooth claim processing.
-5. **Enroll your family members** — At ₹12/year per person, this is the cheapest accident insurance available. Enroll all eligible family members.
+1. **Pair with PMJJBY** — PMSBY covers only accidents. For complete protection, also enrol in [PM Jeevan Jyoti Bima Yojana](/guide/pm-jeevan-jyoti-bima) (₹436/year for ₹2 lakh life cover). Total cost: ₹456/year for ₹4 lakh coverage.
+2. **Keep ₹20+ balance in May** — auto-debit happens around 31st May. Don't let it lapse.
+3. **Update nominee** whenever life circumstances change (marriage, children, etc.).
+4. **Inform family members** about this policy — they need to know to file a claim.
+5. **Natural death is NOT covered** — PMSBY only covers accidental death and disability. For natural death coverage, you need PMJJBY.
 
 ## Frequently Asked Questions (FAQs)
 
-### Q1: What is the premium for PMSBY?
-Just **₹12 per year** (approximately ₹1 per month), auto-debited from your savings bank account between May 25th and June 1st.
+### Q1: Does PMSBY cover death by illness or disease?
+**No.** PMSBY covers only **accidental death and disability**. Death due to illness, disease, suicide, or natural causes is not covered. For that, enrol in [PMJJBY](/guide/pm-jeevan-jyoti-bima).
 
-### Q2: Does PMSBY cover natural death?
-**No.** PMSBY covers only accidental death and disability. For natural death cover, enroll in [PM Jeevan Jyoti Bima Yojana](/guide/pm-jeevan-jyoti-bima-yojana) which costs ₹436/year.
+### Q2: What counts as an "accident" under PMSBY?
+Road accidents, drowning, fall from height, electrocution, snake bite, fire, and other unintentional external events. Death during commission of a crime or under influence of drugs/alcohol may not be covered.
 
-### Q3: Can I enroll in both PMSBY and PMJJBY?
-**Yes.** Both are independent schemes. You can and should enroll in both for comprehensive coverage — accident insurance (₹12/year) + life insurance (₹436/year) = total ₹448/year for ₹4 lakh combined cover.
+### Q3: Can I have both PMJJBY and PMSBY?
+**Yes**, and you should! Together they cost ₹456/year and provide ₹2 lakh life cover (any cause of death) + ₹2 lakh accident cover.
 
-### Q4: What happens if the auto-debit fails?
-If ₹12 is not debited due to insufficient balance, your coverage lapses. You can re-enroll by paying the premium and submitting a self-declaration of good health to your bank.
+### Q4: Is there a medical examination required?
+**No.** There is no medical examination for PMSBY enrolment.
 
-### Q5: Is there a waiting period after enrollment?
-**No waiting period.** Coverage begins from the date of enrollment (or June 1st for annual renewals). However, the accident must occur during the coverage period.
+### Q5: What if I close my bank account?
+Your PMSBY coverage **automatically terminates** if the linked bank account is closed. Re-enrol from another account if needed.
 
-### Q6: Can I enroll through multiple bank accounts?
-**No.** You can have only **one PMSBY policy** per person, linked to one bank account. If enrolled through multiple accounts, only one claim will be honoured.
+### Q6: Can senior citizens (above 60) enrol?
+**Yes.** Unlike PMJJBY which has a 50-year entry limit, PMSBY is available for all adults **up to age 70**.
 
-### Q7: Up to what age can I be covered?
-Coverage is available for ages **18 to 70 years**. The policy automatically terminates when you turn 70 or close the linked bank account.
+### Q7: Who provides the insurance?
+Public sector general insurance companies (New India Assurance, National Insurance, Oriental Insurance, United India Insurance) or other general insurers tied up with the bank.
 
-## Related Schemes
+---
 
-- [PM Jeevan Jyoti Bima Yojana](/guide/pm-jeevan-jyoti-bima-yojana) — Life insurance cover of ₹2 lakh at ₹436/year
-- [National Pension Scheme (NPS)](/guide/national-pension-scheme-nps) — Long-term retirement savings with tax benefits
-- [Atal Pension Yojana](/guide/atal-pension-yojana-apy) — Guaranteed pension of ₹1,000-5,000/month
-- [Ayushman Bharat Health Card](/guide/ayushman-bharat-health-card) — Free health insurance up to ₹5 lakh
+*This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Government of India. Verify details at [jansuraksha.gov.in](https://jansuraksha.gov.in).*

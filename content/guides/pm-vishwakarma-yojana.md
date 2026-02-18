@@ -1,269 +1,168 @@
 ---
-title: 'PM Vishwakarma Yojana — Apply, Benefits & Eligibility'
-description: >-
-  Complete guide to PM Vishwakarma Yojana 2024-25. Learn about 18 eligible
-  trades, benefits like ₹1-2 lakh collateral-free loans at 5% interest, skill...
-category: Government Schemes
-keywords:
-  - PM Vishwakarma Yojana
-  - PM Vishwakarma apply
-  - Vishwakarma scheme for artisans
-  - PM Vishwakarma eligibility
-  - PM Vishwakarma online registration
-  - PM Vishwakarma loan
-  - PM Vishwakarma 18 trades
-  - Vishwakarma Yojana benefits
-  - PM Vishwakarma toolkit
-  - PM Vishwakarma skill training
-  - PM Vishwakarma documents required
-  - pmvishwakarma.gov.in registration
-  - PM Vishwakarma certificate
-  - collateral free loan for artisans
-readingTime: 10 min
+title: "PM Vishwakarma Yojana — Benefits, Eligibility & How to Apply Online"
+description: "Complete guide to PM Vishwakarma Yojana for artisans and craftsmen. Get up to ₹3 lakh loan, free training, and toolkit support."
+category: "Government Schemes"
+keywords: ["pm vishwakarma yojana", "vishwakarma scheme apply online", "artisan scheme india", "craftsmen government scheme", "pm vishwakarma registration"]
+lastUpdated: "2026-02-18"
+readingTime: "8 min"
 officialLinks:
-  - 'https://pmvishwakarma.gov.in'
-  - 'https://msme.gov.in'
+  - https://pmvishwakarma.gov.in
+  - https://www.myscheme.gov.in
 ---
-
-# PM Vishwakarma Yojana — How to Apply, Benefits, Eligibility for Artisans & Craftsmen
 
 ## What is PM Vishwakarma Yojana?
 
-PM Vishwakarma Yojana is a **Central Government scheme** launched on **17th September 2023** by Hon'ble Prime Minister Shri Narendra Modi. The scheme is designed to support **traditional artisans and craftsmen** (called "Vishwakarmas") across India.
+PM Vishwakarma Yojana is a Central Government scheme launched on **17th September 2023** to support traditional artisans and craftsmen (Vishwakarmas) across India. The scheme provides **financial assistance, skill training, modern tools, and market linkage** to workers engaged in 18 traditional trades.
 
-The scheme provides **end-to-end support** — from recognition and skill training to modern tools, affordable credit, and help with digital marketing. The total budget for PM Vishwakarma is **₹13,000 crore** for the period 2023-24 to 2027-28.
+The scheme is fully funded by the Government of India with a budget outlay of **₹13,000 crore** for the period FY 2023-24 to FY 2027-28.
 
-It is implemented by the **Ministry of Micro, Small and Medium Enterprises (MSME)**.
+> **Key Highlight:** Artisans get collateral-free loans up to ₹3 lakh at a concessional interest rate of just 5%, along with free skill training and a toolkit incentive of ₹15,000.
 
-> **In simple words:** If you are a carpenter, blacksmith, tailor, potter, or any traditional craftsperson working with your hands, this scheme can give you training, tools, and a low-interest loan to grow your work.
+## Who is Eligible?
 
----
+To apply for PM Vishwakarma Yojana, you must meet these criteria:
 
-## 18 Eligible Trades Under PM Vishwakarma
+- **Age:** 18 years or above
+- **Occupation:** Working with hands and tools in one of the **18 notified trades** (listed below)
+- **Not a government employee** or their family member
+- **Not availed loans** under PMEGP, PM SVANidhi, or Mudra in the last 5 years
+- **One member per family** — only one person from a family (spouse and unmarried children) can apply
+- **Registration:** Must be registered through Common Service Centres (CSCs) with biometric verification
 
-The scheme covers **18 traditional trades**. If you work in any of these, you can apply:
+### 18 Eligible Trades
 
-| S.No. | Trade (English) | Trade (Hindi) |
-|-------|-----------------|---------------|
-| 1 | Carpenter (Suthar) | बढ़ई |
-| 2 | Boat Maker | नाव बनाने वाला |
-| 3 | Armourer | कवचकार |
-| 4 | Blacksmith (Lohar) | लोहार |
-| 5 | Hammer and Toolkit Maker | हथौड़ा और टूलकिट निर्माता |
-| 6 | Locksmith | ताला बनाने वाला |
-| 7 | Goldsmith (Sonar) | सुनार |
-| 8 | Potter (Kumhar) | कुम्हार |
-| 9 | Sculptor (Moortikar) / Stone Carver | मूर्तिकार / पत्थर तराशने वाला |
-| 10 | Cobbler (Mochi) / Shoe Smith | मोची / जूता बनाने वाला |
-| 11 | Mason (Rajmistri) | राजमिस्त्री |
-| 12 | Basket / Mat / Broom Maker / Coir Weaver | टोकरी / चटाई / झाड़ू बनाने वाला |
-| 13 | Doll and Toy Maker (Traditional) | गुड़िया और खिलौना बनाने वाला |
-| 14 | Barber (Nai) | नाई |
-| 15 | Garland Maker (Malakaar) | मालाकार |
-| 16 | Washerman (Dhobi) | धोबी |
-| 17 | Tailor (Darzi) | दर्जी |
-| 18 | Fishing Net Maker | मछली पकड़ने का जाल बनाने वाला |
-
----
-
-## Benefits of PM Vishwakarma Yojana
-
-### 1. PM Vishwakarma Certificate and ID Card
-- You receive a **recognition certificate** and **PM Vishwakarma ID card**
-- This gives you a formal identity as a Vishwakarma artisan
-
-### 2. Skill Training
-- **Basic Training:** 5-7 days (with ₹500 per day stipend)
-- **Advanced Training:** 15 days or more (with ₹500 per day stipend)
-- Training is provided by recognized institutions in your trade
-
-### 3. Toolkit Incentive
-- After completing training, you get up to **₹15,000** as a toolkit incentive
-- This money is given to buy **modern tools** for your trade
-- Amount is credited directly to your bank account via e-RUPI or e-voucher
-
-### 4. Collateral-Free Credit (Loan)
-- **First Tranche:** Up to **₹1,00,000 (₹1 lakh)** — for 18 months
-- **Second Tranche:** Up to **₹2,00,000 (₹2 lakh)** — for 30 months
-- Interest rate: Only **5%** (concessional)
-- The government pays the remaining interest (credit guarantee by MoMSME)
-- **No collateral or guarantee needed!**
-
-### 5. Digital Incentive and Marketing Support
-- Help with **digital transactions** — incentive of up to ₹1 per transaction (max ₹100 per month)
-- Support for listing on platforms like **GeM (Government e-Marketplace)**
-- Help with quality certification and branding
-- Marketing and advertising support through **National Committee for Marketing (NCM)**
-
----
-
-## Eligibility for PM Vishwakarma Yojana
-
-You are eligible if you meet **all** these conditions:
-
-✅ You are an **artisan or craftsperson** working in one of the **18 listed trades**
-
-✅ You are **18 years or older** on the date of registration
-
-✅ You should be working in the trade in a **self-employed** capacity (with hand tools)
-
-✅ You should **NOT** be availing loans under similar schemes:
-- PMEGP (Prime Minister's Employment Generation Programme)
-- PM SVANidhi
-- Mudra Yojana
-
-✅ Only **one member per family** can register (family = husband, wife, and unmarried children)
-
-✅ **Government employees and their family members** are not eligible
-
----
+1. Carpenter (Suthar)
+2. Boat Maker
+3. Armourer (Lohar)
+4. Blacksmith (Lohar)
+5. Hammer and Toolkit Maker
+6. Locksmith (Talasmith)
+7. Goldsmith (Sonar)
+8. Potter (Kumhar)
+9. Sculptor (Moortikar) / Stone Carver
+10. Cobbler (Charmakar) / Shoemaker
+11. Mason (Rajmistri)
+12. Basket/Mat/Broom Maker
+13. Doll & Toy Maker (Traditional)
+14. Barber (Nai)
+15. Garland Maker (Malakaar)
+16. Washerman (Dhobi)
+17. Tailor (Darzi)
+18. Fishing Net Maker
 
 ## Documents Required
 
-Keep these documents ready before applying:
+### Mandatory Documents
+- **Aadhaar Card** (linked with mobile number)
+- **Ration Card** or family details
+- **Bank Account** (for Direct Benefit Transfer)
+- **Mobile Number** (Aadhaar-linked)
+- **Passport-size Photograph**
 
-1. **[Aadhaar](/guide/aadhaar-card-apply-online) Card** (mandatory — must be linked to mobile number)
-2. **Bank Account Details** (account number, IFSC code)
-3. **Mobile Number** (linked to Aadhaar for OTP verification)
-4. **Ration Card** (if available)
-5. **Trade-related proof** — any document or self-declaration showing you practice one of the 18 trades
-6. **Passport-size photograph**
-7. **Caste certificate** (if applicable, not mandatory for registration)
+### Supporting Documents
+- **Proof of trade/occupation** (self-declaration or certificate from Gram Panchayat/Urban Local Body)
+- **Caste certificate** (if applicable, not mandatory for the scheme)
+- **Age proof** (if Aadhaar doesn't show DOB)
 
-> **Tip:** Make sure your Aadhaar is linked to your mobile number. You will receive OTP on this number during registration.
+## Benefits Under PM Vishwakarma Yojana
 
----
+| Benefit | Details |
+|---------|---------|
+| **Skill Training** | 5-7 days Basic Training + 15 days Advanced Training (with ₹500/day stipend) |
+| **Toolkit Incentive** | ₹15,000 (one-time grant for purchasing modern tools) |
+| **Credit Support — Phase 1** | Up to ₹1 lakh (collateral-free, 5% interest rate, 18-month repayment) |
+| **Credit Support — Phase 2** | Up to ₹2 lakh additional (5% interest, 30-month repayment) |
+| **Digital Incentive** | ₹1 per digital transaction (up to 100 transactions/month) |
+| **Marketing Support** | National Committee for Marketing (NCM) assistance, quality certification, branding |
+| **PM Vishwakarma Certificate & ID Card** | Official recognition as Vishwakarma artisan |
 
-## How to Apply Online — Step by Step
+> **Note:** The interest subvention (difference between bank rate and 5%) is paid by the Government. The effective interest rate for beneficiaries remains 5%.
+
+## How to Apply Online — Step-by-Step
 
 ### Step 1: Visit the Official Portal
-Go to **[pmvishwakarma.gov.in](https://pmvishwakarma.gov.in)**
+Go to [pmvishwakarma.gov.in](https://pmvishwakarma.gov.in)
 
-### Step 2: Register with Mobile and Aadhaar
-- Click on **"Register"** or **"How to Register"**
-- Enter your **mobile number** linked to Aadhaar
+### Step 2: Mobile/Aadhaar Verification
+- Click on **"How to Register"** or **"Apply"**
+- Enter your **Aadhaar-linked mobile number**
 - Verify with **OTP**
-- Enter your **Aadhaar number** and verify with Aadhaar OTP (e-KYC)
 
-### Step 3: Fill the Application Form
-- Enter your **personal details** (name, date of birth, address)
-- Select your **trade** from the list of 18 trades
-- Enter your **bank account details**
-- Upload required documents
+### Step 3: Visit Common Service Centre (CSC)
+- After initial registration, visit your **nearest CSC** (Common Service Centre)
+- CSC operator will complete **biometric verification** using Aadhaar
+- The Gram Panchayat / Urban Local Body will **verify your trade**
 
-### Step 4: Gram Panchayat / ULB Verification
-- After submitting, your application goes to the **Gram Panchayat** (for rural areas) or **Urban Local Body / ULB** (for urban areas)
-- The Gram Panchayat/ULB officer will **verify your trade** and identity
-- You may be called for **physical verification**
+### Step 4: Complete Registration Form
+- Fill in personal details (name, DOB, address)
+- Select your **trade** from the 18 eligible trades
+- Upload **photograph** and **documents**
+- Provide **bank account details**
 
-### Step 5: District Implementation Committee (DIC) Approval
-- After GP/ULB verification, the **District Implementation Committee** reviews your application
-- On approval, you get your **PM Vishwakarma Certificate and ID Card**
+### Step 5: Verification & Approval
+- Gram Panchayat/ULB verifies and recommends your application
+- District Implementation Committee (DIC) approves the application
+- You receive **PM Vishwakarma Certificate and ID Card**
 
-### Step 6: Skill Training Enrolment
-- Once approved, you will be enrolled for **skill training**
-- You receive ₹500/day stipend during training
+### Step 6: Avail Benefits
+- Enrol for **skill training** at designated training centres
+- After training, receive **toolkit incentive** of ₹15,000
+- Apply for **credit support** (₹1 lakh in Phase 1, ₹2 lakh in Phase 2)
 
-### Step 7: Apply for Toolkit and Loan
-- After training, apply for **toolkit incentive** (₹15,000)
-- Apply for **collateral-free loan** (₹1 lakh first, ₹2 lakh later)
+### Offline Application
+- Visit your **Gram Panchayat** (rural) or **Urban Local Body** (urban)
+- They can initiate your registration and direct you to the nearest CSC
+- You can also visit any **Common Service Centre** directly
 
-> **Important:** The entire process is **online**. You can also visit your nearest **Common Service Centre (CSC)** or **Gram Panchayat office** for help with registration.
+## Fees
 
----
+| Item | Cost |
+|------|------|
+| Registration | **Free** |
+| Skill Training | **Free** (with ₹500/day stipend) |
+| Toolkit Incentive | **Free** (₹15,000 grant) |
+| Loan Processing | **No processing fee** |
+| Interest Rate on Loan | **5% per annum** (subsidised) |
 
-## Verification Process
+## Processing Time
 
-1. **Online Application** → You submit through pmvishwakarma.gov.in
-2. **Gram Panchayat / ULB Verification** → Local body verifies your trade and identity
-3. **District Implementation Committee (DIC)** → Reviews and approves
-4. **Certificate Issued** → PM Vishwakarma Certificate and ID Card generated
-5. **Training Allotted** → You are enrolled in skill training programme
+- **Registration approval:** 15-30 days after biometric verification
+- **Certificate issuance:** Within 7 days of approval
+- **Skill training schedule:** Within 1-2 months of registration
+- **Toolkit incentive:** Within 1 month after training completion
+- **Loan disbursement:** 2-4 weeks after loan application
 
-The verification usually takes **15-30 days** after submission, depending on your area.
+## Important Tips
 
----
-
-## Skill Training Details
-
-| Detail | Basic Training | Advanced Training |
-|--------|---------------|-------------------|
-| Duration | 5-7 days | 15+ days |
-| Stipend | ₹500/day | ₹500/day |
-| Focus | Fundamental skills, safety, quality | Modern techniques, new designs, technology |
-| Certificate | Training completion certificate | Advanced training certificate |
-
-- Training is conducted at **recognized centres** near your location
-- Training covers **modern techniques, quality standards, and digital skills**
-- After training, you become eligible for **toolkit incentive and loan**
-
----
-
-## Loan Details
-
-### First Tranche
-- **Amount:** Up to ₹1,00,000 (₹1 lakh)
-- **Repayment Period:** 18 months
-- **Interest Rate:** 5% (concessional)
-- **Collateral:** Not required
-- **When:** After completing skill training
-
-### Second Tranche
-- **Amount:** Up to ₹2,00,000 (₹2 lakh)
-- **Repayment Period:** 30 months
-- **Interest Rate:** 5% (concessional)
-- **Collateral:** Not required
-- **When:** After successfully repaying first tranche and maintaining good credit discipline
-
-> **Note:** The loan is disbursed through **scheduled commercial banks**. The interest subvention (subsidy) is provided by the Ministry of MSME, so you pay only 5%.
-
----
+1. **Aadhaar-mobile link is mandatory** — ensure your mobile number is linked to Aadhaar before applying. See our [Aadhaar mobile update guide](/guide/aadhaar-update-mobile-email).
+2. **One member per family** — if multiple family members are artisans, only one can register. Choose wisely.
+3. **Complete training first** — toolkit incentive and loan are available only after completing the skill training.
+4. **Repay Phase 1 on time** — timely repayment of the ₹1 lakh loan qualifies you for the ₹2 lakh Phase 2 loan.
+5. **Use digital payments** — earn ₹1 per transaction (up to 100/month) through the digital incentive component.
 
 ## Frequently Asked Questions (FAQs)
 
-### Q1: Is PM Vishwakarma Yojana free to apply?
-**Yes.** There is no application fee. Registration on pmvishwakarma.gov.in is completely free. You can also register through CSC centres without charge.
+### Q1: Is PM Vishwakarma Yojana only for SC/ST/OBC?
+**No.** This scheme is for all artisans and craftsmen working in the 18 notified trades, regardless of caste or religion. It is trade-based, not caste-based.
 
-### Q2: Can women artisans apply?
-**Yes.** Women artisans working in any of the 18 trades are fully eligible. The scheme encourages women participation.
+### Q2: Can women apply for PM Vishwakarma Yojana?
+**Yes.** Women artisans are equally eligible. The scheme encourages women's participation in traditional trades.
 
-### Q3: I already have a Mudra loan. Can I still apply?
-**No.** If you currently have a loan under PMEGP, PM SVANidhi, or Mudra, you are **not eligible** for PM Vishwakarma. You can apply after those loans are fully repaid.
+### Q3: What is the maximum loan amount?
+The total loan available is **₹3 lakh** — ₹1 lakh in Phase 1 and ₹2 lakh in Phase 2. The interest rate is 5% per annum with no collateral required.
 
-### Q4: Can more than one family member apply?
-**No.** Only **one member per family** (husband, wife, and unmarried children) can register under PM Vishwakarma.
+### Q4: Is there any subsidy on the loan?
+The loan itself is not a subsidy — it must be repaid. However, the **interest rate is subsidised to 5%** (government pays the difference). The toolkit incentive of ₹15,000 is a **non-repayable grant**.
 
-### Q5: What if I don't have a smartphone? How do I apply?
-You can visit your nearest **Common Service Centre (CSC)** or **Gram Panchayat / Municipal office**. The staff there will help you register online.
+### Q5: Can I apply if I already have a Mudra loan?
+**No.** If you or your family member has availed a loan under PMEGP, PM SVANidhi, or Mudra in the last 5 years, you are not eligible.
 
-### Q6: Is there an age limit?
-You must be **at least 18 years old** at the time of registration. There is no upper age limit.
+### Q6: How do I find my nearest CSC?
+Visit [locator.csccloud.in](https://locator.csccloud.in) to find the nearest Common Service Centre.
 
-### Q7: How long does the full process take?
-After registration, verification takes about **15-30 days**. Skill training may start within **1-3 months** of approval. Loan disbursement follows after training.
-
-### Q8: What is the total benefit I can get?
-- Training stipend: ₹2,500 - ₹7,500+
-- Toolkit incentive: ₹15,000
-- Loan: Up to ₹3,00,000 (₹1L + ₹2L) at 5% interest
-- Plus certificate, digital support, and marketing help
+### Q7: Is there an age limit?
+Yes, you must be **at least 18 years old** to apply. There is no upper age limit.
 
 ---
 
-## Important Links
-
-- **Official Website:** [pmvishwakarma.gov.in](https://pmvishwakarma.gov.in)
-- **Ministry of MSME:** [msme.gov.in](https://msme.gov.in)
-- **Helpline Number:** 1800-599-0023 (Toll Free — Udyam Registration Helpline)
-
----
-
-*Last updated: 16 February 2026. Information sourced from pmvishwakarma.gov.in. Always check the official portal for the latest updates.*
-
----
-
-## You May Also Need
-
-- [Mudra Loan Apply Online](/guide/mudra-loan-apply-online)
-- [Udyam MSME Registration](/guide/udyam-msme-registration-online)
-- [e-Shram Card Registration](/guide/e-shram-card-registration)
+*This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Government of India. Always verify details on the official [PM Vishwakarma portal](https://pmvishwakarma.gov.in) before applying.*

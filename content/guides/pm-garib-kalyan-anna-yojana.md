@@ -1,139 +1,154 @@
 ---
-title: "PM Garib Kalyan Anna Yojana — Free Ration Scheme Guide"
-description: "Complete guide to PM Garib Kalyan Anna Yojana (PMGKAY) — free ration scheme eligibility, benefits, how to check your name, and collect free food grains."
-category: "Food & Ration"
-keywords: ["PM Garib Kalyan Anna Yojana", "PMGKAY", "free ration scheme", "free food grains", "PMGKAY eligibility", "government free ration"]
+title: "PM Garib Kalyan Anna Yojana (PMGKAY) — Free Ration Scheme, Eligibility & How to Get"
+description: "Complete guide to PM Garib Kalyan Anna Yojana. Get 5 kg free foodgrains per person per month. Eligibility, ration card, and process."
+category: "Government Schemes"
+keywords: ["pm garib kalyan anna yojana", "free ration scheme india", "PMGKAY eligibility", "free food grain scheme", "government free ration"]
+lastUpdated: "2026-02-18"
 readingTime: "7 min"
 officialLinks:
-  - "https://nfsa.gov.in"
-  - "https://dfpd.gov.in"
-  - "https://pmgkay.gov.in"
+  - https://nfsa.gov.in
+  - https://dfpd.gov.in
+  - https://annavitran.nic.in
 ---
 
-# PM Garib Kalyan Anna Yojana (PMGKAY) — Free Ration Scheme Guide
+## What is PM Garib Kalyan Anna Yojana (PMGKAY)?
 
-Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) is one of the largest food security programmes in the world. Originally launched in March 2020 during the COVID-19 pandemic, the scheme provides **free food grains** to crores of families across India. The government has extended and integrated this scheme multiple times, making it a key pillar of India's food security infrastructure.
+PM Garib Kalyan Anna Yojana is a food security scheme by the Government of India that provides **free foodgrains** to eligible families. Originally launched in **April 2020** during COVID-19, it was integrated into the National Food Security Act (NFSA) framework and has been **extended through December 2028**.
 
-## What Is PMGKAY?
+Under this scheme, every eligible beneficiary receives **5 kg of foodgrains (rice or wheat) per person per month absolutely free** through the Public Distribution System (PDS) via Fair Price Shops (FPS).
 
-Under PMGKAY, eligible families covered by the National Food Security Act (NFSA) receive free food grains every month. This is over and above their regular entitlement under the Public Distribution System (PDS). The scheme covers both **Priority Household (PHH)** and **Antyodaya Anna Yojana (AAY)** [ration card](/guide/ration-card-apply-online) holders.
+> **Scale:** PMGKAY covers approximately **81.35 crore beneficiaries** across India, making it the world's largest food security programme.
 
-As of the latest extension, PMGKAY has been integrated with NFSA — meaning all NFSA beneficiaries now receive their entitled food grains **completely free of cost** (rice, wheat, and coarse grains at zero price) instead of the earlier subsidised rates.
+## Who is Eligible?
 
-## Eligibility
+Eligibility is based on your **ration card category** under NFSA:
 
-You are eligible if:
+### Priority Households (PHH)
+- Families identified by state governments based on socio-economic criteria
+- Each member gets **5 kg free foodgrains per month**
 
-- You hold a valid **ration card** under NFSA (PHH or AAY category)
-- Your [Aadhaar card](/guide/aadhaar-card-apply-online) is linked to your ration card
-- Your ration card is **active** (not cancelled or suspended)
+### Antyodaya Anna Yojana (AAY) Households
+- Poorest of the poor families
+- Each household gets **35 kg free foodgrains per month** (regardless of family size)
 
-### Who Is Covered?
+### Eligible Categories Typically Include:
+- **BPL (Below Poverty Line)** families
+- **Landless agricultural labourers**
+- **Marginal farmers** (with less than 1 hectare)
+- **Rural artisans/craftsmen** (potters, tanners, weavers, etc.)
+- **Slum dwellers**
+- **Earning members with income below state threshold**
+- **Widows, disabled, senior citizens** without support
+- **Primitive tribal groups**
 
-- **AAY families** — approximately 2.5 crore households
-- **PHH families** — approximately 78 crore individuals
-- Total coverage: over **80 crore beneficiaries** across India
+> **Note:** If you already have a **PHH or AAY ration card**, you're automatically covered. See our [ration card application guide](/guide/ration-card-apply-online) if you don't have one.
 
-## Benefits Under PMGKAY
+## What You Get
 
-| Beneficiary Type | Monthly Entitlement | Price |
-|-----------------|---------------------|-------|
-| PHH (per person) | 5 kg food grains | Free (₹0) |
-| AAY (per family) | 35 kg food grains | Free (₹0) |
+| Ration Card Type | Entitlement | Cost |
+|-----------------|-------------|------|
+| **PHH Card** | 5 kg per person per month (rice/wheat) | **Free** |
+| **AAY Card** | 35 kg per household per month (rice/wheat) | **Free** |
 
-Food grains include wheat, rice, or coarse grains depending on state allocation.
+> Prior to PMGKAY integration, PHH families paid ₹2/kg wheat and ₹3/kg rice. Now everything is **completely free** under the scheme.
 
-## How to Check If You Are Eligible
+## Documents Required
 
-### Method 1: NFSA Portal
+### To Access Free Ration (If You Already Have a Ration Card)
+- **Ration Card** (PHH or AAY category)
+- **Aadhaar Card** (for biometric authentication at FPS)
 
-1. Visit [nfsa.gov.in](https://nfsa.gov.in)
-2. Click "Know Your Ration Card Details"
-3. Select your state and district
-4. Search by ration card number or family head name
-5. If your card shows as PHH or AAY, you are eligible
+### To Apply for a New Ration Card
+- **Aadhaar Card** of all family members
+- **Address proof** (electricity bill, rent agreement)
+- **Income certificate** (from Tehsildar/SDM)
+- **Passport-size photographs**
+- **Mobile number**
+- See our detailed [ration card guide](/guide/ration-card-apply-online) for the full process
 
-### Method 2: State PDS Portal
+## How to Get Free Ration — Step-by-Step
 
-Visit your state's Food & Civil Supplies website and search for your ration card details. Most states have a "beneficiary search" feature.
+### Step 1: Check Your Eligibility
+- Visit [nfsa.gov.in](https://nfsa.gov.in) → **"Know Your Entitlement"**
+- Enter your **state** and **ration card number**
+- Verify your name and entitlement details
 
-### Method 3: Mera Ration App
+### Step 2: Locate Your Fair Price Shop (FPS)
+- Your ration card is linked to a **designated FPS** in your area
+- Check the FPS details on your ration card or at [annavitran.nic.in](https://annavitran.nic.in)
+- You can also find nearby FPS using the **Mera Ration** mobile app
 
-1. Download the **Mera Ration** mobile app from Google Play Store
-2. Register with your ration card number and mobile number
-3. Check your entitlement and transaction history
-4. The app also shows nearby Fair Price Shops
+### Step 3: Visit the FPS on Distribution Days
+- FPS typically distribute ration on **fixed dates** each month (varies by state)
+- Carry your **ration card** and **Aadhaar card**
+- Distribution usually happens in the **first 2 weeks** of each month
 
-### Method 4: Visit Fair Price Shop
+### Step 4: Biometric Authentication
+- Place your finger on the **Aadhaar-enabled POS machine** at the FPS
+- The system verifies your identity and entitlement
+- Upon successful verification, the FPS dealer provides your ration
 
-Go to your nearest Fair Price Shop (FPS) with your ration card and Aadhaar. The dealer can check your eligibility on the ePoS machine.
+### Step 5: Collect Your Ration
+- Verify the **quantity** (weigh if possible)
+- Check the **quality** of grains
+- Collect your **receipt/slip** from the POS machine
+- Your entitlement is updated in the central system
 
-## How to Collect Free Rations
+## One Nation One Ration Card (ONORC)
 
-1. Visit your designated **Fair Price Shop** on the scheduled distribution day
-2. Carry your **ration card** and **Aadhaar card**
-3. The FPS dealer will verify your identity using **biometric authentication** (fingerprint) on the ePoS device
-4. Collect your entitled food grains
-5. Collect a receipt showing quantity and type of grains received
+Under the **portability feature**, you can collect your ration from **any Fair Price Shop in India**, not just the one linked to your card. This is especially useful for:
+- **Migrant workers** working in other states
+- **Families temporarily relocated** for work or personal reasons
 
-If you have migrated to another state, you can collect rations from any FPS in India using the [One Nation One Ration Card (ONORC)](/guide/one-nation-one-ration-card-onorc) scheme.
+To use portability:
+1. Visit any FPS in India with your **ration card and Aadhaar**
+2. Complete **biometric authentication**
+3. Collect your entitled ration
+4. The transaction is recorded centrally
 
-## Key Features of PMGKAY
+## Fees
 
-- **No cost to beneficiary** — grains are completely free
-- **Pan-India portability** through ONORC
-- **Aadhaar-based authentication** prevents fraud and duplication
-- **ePoS tracking** ensures transparency in distribution
-- **SMS alerts** to beneficiaries about ration availability
+| Item | Cost |
+|------|------|
+| Rice | **Free** (₹0/kg) |
+| Wheat | **Free** (₹0/kg) |
+| Coarse grains | **Free** (₹0/kg) |
 
-## Scheme Timeline
+## Important Tips
 
-- **March 2020:** PMGKAY launched for 3 months during COVID-19 lockdown
-- **July 2020–November 2020:** Extended (Phase 2 & 3)
-- **May 2021–November 2021:** Extended again (Phase 4 & 5)
-- **January 2022–September 2022:** Further extensions (Phase 6 & 7)
-- **January 2023 onwards:** Integrated with NFSA — free grains continue as part of regular PDS
+1. **Link Aadhaar to ration card** — biometric authentication is mandatory at most FPS. Without Aadhaar linking, you may face issues. Visit [nfsa.gov.in](https://nfsa.gov.in) to check linking status.
+2. **Use the Mera Ration App** — download from Google Play Store to track entitlements, locate FPS, and check transaction history.
+3. **Don't accept less quantity** — you are entitled to the full amount. If the FPS gives less, file a complaint.
+4. **File complaints for irregularities** — call the **National Food Security helpline 1967** or use the state food department portal.
+5. **Update your ration card** if family size changes — add or remove members to ensure correct entitlement. See our [ration card correction guide](/guide/ration-card-correction-online).
 
-## What If You Don't Have a Ration Card?
+## Frequently Asked Questions (FAQs)
 
-If you don't have a ration card yet, you won't be able to benefit from PMGKAY. Apply for a [ration card](/guide/ration-card-apply-online) immediately through your state's Food & Civil Supplies department. The process typically takes 15–30 days.
+### Q1: Is PMGKAY still active?
+**Yes.** The scheme has been extended and integrated with NFSA. Free ration continues for all eligible beneficiaries through **December 2028**.
 
-## Grievance Redressal
+### Q2: I have an APL ration card. Am I eligible?
+**No.** PMGKAY free ration is only for **PHH and AAY** category ration card holders. APL card holders are not covered under NFSA.
 
-If you face issues such as:
-- FPS dealer refusing to give free rations
-- Short supply of grains
-- Biometric authentication failure
-- Ration card not showing as eligible
+### Q3: What if the FPS dealer refuses to give free ration?
+You can file a complaint through:
+- **National helpline:** 1967
+- **State food department** portal/helpline
+- **District Supply Officer** office
+- **Mera Ration App** complaint feature
 
-You can:
-1. Call the **national toll-free helpline: 1967** or **1800-11-0841**
-2. File a complaint on [pgportal.gov.in](https://pgportal.gov.in)
-3. Complain to the District Supply Officer
-4. Use the grievance section on your state's PDS portal
+### Q4: Can I get ration from any FPS in India?
+**Yes**, under the **One Nation One Ration Card (ONORC)** scheme, you can collect ration from any FPS using Aadhaar biometric verification.
 
-## Frequently Asked Questions (FAQ)
+### Q5: What if my Aadhaar biometric fails at the FPS?
+If biometric authentication fails, ask the FPS dealer to use **OTP-based authentication** (OTP sent to Aadhaar-linked mobile). If that also fails, contact the district food department.
 
-### 1. Is PMGKAY still running?
+### Q6: Is this scheme only for rural areas?
+**No.** PMGKAY covers both rural and urban areas. Urban poor, slum dwellers, and migrant workers are all eligible if they hold PHH/AAY ration cards.
 
-Yes. The scheme has been integrated with NFSA from January 2023. All NFSA beneficiaries (PHH and AAY card holders) continue to receive free food grains until the government announces otherwise.
+### Q7: How do I apply for a ration card if I don't have one?
+Visit your **state food department portal** or apply through CSC. Each state has its own process. See our comprehensive [ration card application guide](/guide/ration-card-apply-online).
 
-### 2. Do I need to pay anything for PMGKAY rations?
+---
 
-No. Under PMGKAY/integrated NFSA, food grains are provided completely free of cost. If any FPS dealer asks for money, file a complaint.
-
-### 3. Can I get PMGKAY rations in another state?
-
-Yes. Through the [ONORC scheme](/guide/one-nation-one-ration-card-onorc), you can collect your entitled rations from any Fair Price Shop across India using Aadhaar-based biometric verification.
-
-### 4. What grains are provided under PMGKAY?
-
-Wheat, rice, or coarse grains (bajra, jowar, ragi) depending on the state's allocation policy. Most northern states provide wheat, while southern and eastern states provide rice.
-
-### 5. My fingerprint is not matching at the FPS. What should I do?
-
-Try using a different finger. If biometric authentication repeatedly fails, contact the FPS dealer to use iris-based authentication. You can also approach the District Supply Officer for a manual override.
-
-### 6. How do I know how much ration I have already collected this month?
-
-Check the **Mera Ration** app or visit your state PDS portal. Your transaction history shows monthly collection details. You can also ask for a receipt at the Fair Price Shop.
+*This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Government of India. Always verify details on [nfsa.gov.in](https://nfsa.gov.in) before relying on this information.*

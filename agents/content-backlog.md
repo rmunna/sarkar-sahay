@@ -41,16 +41,16 @@
 - [x] rainwater-harvesting-subsidy — Rainwater harvesting incentives
 
 ## Priority 2: Government Schemes (gaps)
-- [ ] pm-vishwakarma-yojana — For artisans/craftsmen
-- [ ] pm-surya-ghar-muft-bijli — Free electricity scheme
-- [ ] pm-fasal-bima-yojana — Crop insurance
-- [ ] pm-mudra-yojana-loan — MUDRA loans detailed guide
-- [ ] pm-garib-kalyan-anna-yojana — Free ration scheme
-- [ ] pm-jeevan-jyoti-bima — Life insurance scheme
-- [ ] pm-suraksha-bima-yojana — Accident insurance scheme
-- [ ] pm-jan-dhan-yojana — Zero-balance bank account
-- [ ] pm-matru-vandana-detailed — Maternity benefit (detailed)
-- [ ] deen-dayal-upadhyaya-grameen — DDU-GKY skill training
+- [x] pm-vishwakarma-yojana — For artisans/craftsmen
+- [x] pm-surya-ghar-muft-bijli — Free electricity scheme
+- [x] pm-fasal-bima-yojana — Crop insurance
+- [x] pm-mudra-yojana-loan — MUDRA loans detailed guide
+- [x] pm-garib-kalyan-anna-yojana — Free ration scheme
+- [x] pm-jeevan-jyoti-bima — Life insurance scheme
+- [x] pm-suraksha-bima-yojana — Accident insurance scheme
+- [x] pm-jan-dhan-yojana — Zero-balance bank account
+- [x] pm-matru-vandana-detailed — Maternity benefit (detailed)
+- [x] deen-dayal-upadhyaya-grameen — DDU-GKY skill training
 - [ ] annapurna-scheme-senior-food — Food for senior citizens
 - [ ] national-family-benefit-scheme — NFBS death benefit
 - [ ] indira-gandhi-pension-scheme — IGNOAPS/IGNWPS/IGNDPS

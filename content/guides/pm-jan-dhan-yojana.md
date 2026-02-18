@@ -1,168 +1,151 @@
 ---
-title: "PM Jan Dhan Yojana — How to Open Account (Step-by-Step Guide"
-description: "Complete guide to open a Pradhan Mantri Jan Dhan Yojana bank account. Zero balance, free insurance, eligibility, and benefits."
+title: "PM Jan Dhan Yojana — Zero-Balance Bank Account with Insurance & Overdraft"
+description: "Complete guide to Pradhan Mantri Jan Dhan Yojana. Open a zero-balance bank account with free insurance, RuPay card, and overdraft."
 category: "Government Schemes"
-keywords: ["Jan Dhan Yojana account", "PMJDY apply", "Jan Dhan bank account", "zero balance account", "PM Jan Dhan benefits"]
-readingTime: "5 min"
+keywords: ["pm jan dhan yojana", "jan dhan account open", "zero balance bank account", "jan dhan yojana benefits", "pmjdy apply"]
+lastUpdated: "2026-02-18"
+readingTime: "7 min"
 officialLinks:
   - https://pmjdy.gov.in
   - https://financialservices.gov.in
 ---
 
-## What is PM Jan Dhan Yojana?
+## What is PM Jan Dhan Yojana (PMJDY)?
 
-Pradhan Mantri Jan Dhan Yojana (PMJDY) is a national financial inclusion mission launched by the Government of India. It provides **zero-balance bank accounts** to every unbanked household in India, along with free insurance cover and access to credit.
+Pradhan Mantri Jan Dhan Yojana is the Government of India's **financial inclusion programme** launched on **28th August 2014**. It enables every Indian citizen — especially the unbanked poor — to open a **zero-balance savings account** with a host of benefits including a free RuPay debit card, accident insurance, life insurance, and overdraft facility.
 
-## Key Benefits
-
-- **Zero balance** bank account
-- **Free RuPay debit card**
-- **₹2 lakh accident insurance** cover (with RuPay card)
-- **₹30,000 life insurance** cover (for accounts opened before specified dates)
-- **Overdraft facility** up to ₹10,000 (after 6 months of satisfactory operation)
-- **Direct Benefit Transfer (DBT)** — Government subsidies credited directly
-- **Mobile banking** facility
+> **Impact:** Over **52 crore Jan Dhan accounts** have been opened since launch, with total deposits exceeding ₹2.3 lakh crore. More than 55% of account holders are women.
 
 ## Who is Eligible?
 
-- **Any Indian citizen** above 10 years of age
-- Must not have an existing bank account (or willing to transfer existing no-frills account)
-- **No minimum balance** required
-- **No income criteria** — anyone can open
-- **Small accounts** can be opened even without standard KYC (with limited features)
+- **Any Indian citizen** aged 10 years or above
+- **No minimum balance** required to open or maintain the account
+- One account per person (unless opening a **Small Account** with relaxed KYC)
+- Both **rural and urban** residents
+
+> **Note:** Minors aged 10+ can open an account independently. Below 10, parents/guardians can open a joint account.
+
+## Benefits of Jan Dhan Account
+
+| Benefit | Details |
+|---------|---------|
+| **Zero Balance** | No minimum balance requirement |
+| **RuPay Debit Card** | Free RuPay card with ₹2 lakh accident insurance built-in |
+| **Accidental Insurance** | ₹2,00,000 (through RuPay card, for eligible transactions) |
+| **Life Insurance** | ₹30,000 (for accounts opened between 15 Aug 2014 to 31 Jan 2015 — now available in select cases) |
+| **Overdraft Facility** | Up to ₹10,000 (after 6 months of satisfactory account operation) |
+| **Direct Benefit Transfer (DBT)** | All government subsidies, scholarships, and benefits credited directly |
+| **Mobile Banking** | Access to USSD-based mobile banking (*99#) |
+| **Interest on Deposits** | Standard savings account interest rate applies |
 
 ## Documents Required
 
-### Full KYC Account (Recommended)
-**Any one of the following:**
-- [Aadhaar](/guide/aadhaar-card-apply-online) Card (preferred — enables instant account opening)
-- Voter ID
-- Driving License
-- PAN Card
-- Passport
-- MNREGA Job Card
+### Full KYC Account
+- **Aadhaar Card** (primary — sufficient as single document)
+- OR any two of:
+  - Voter ID
+  - Driving Licence
+  - PAN Card
+  - Passport
+  - NREGA Job Card
 
-### Small Account (Limited KYC)
-If you don't have any of the above:
-- **Self-attested photograph**
-- **Signature or thumb impression** in presence of bank official
-- Valid for 12 months; upgrade to full KYC within this period
+### Small Account (Relaxed KYC)
+- If you don't have any KYC documents, a **Small Account** can be opened with:
+  - **Self-attested photograph**
+  - **Signature or thumb impression**
+  - A **self-certification** form
+  - Valid for **12 months** (extendable to 24 months if KYC documents are applied for)
 
-> **Aadhaar-based opening:** If you have Aadhaar, the account can be opened instantly at the bank. No other document needed.
+## How to Open a Jan Dhan Account — Step-by-Step
 
-## Step-by-Step Process — At Bank Branch
+### At a Bank Branch
 
-### Step 1: Choose a Bank
-Visit any of these banks:
-- Public sector banks (SBI, PNB, BOB, etc.)
-- Private banks participating in PMJDY
-- Regional Rural Banks (RRBs)
-- Find nearest bank: [pmjdy.gov.in](https://pmjdy.gov.in)
+#### Step 1: Visit Any Bank
+- Go to any **nationalised bank, regional rural bank, or post office**
+- Jan Dhan accounts can be opened at all bank branches
 
-### Step 2: Get the Account Opening Form
-Ask for the **PMJDY account opening form** at the bank counter. It's a simplified form.
+#### Step 2: Fill the Form
+- Ask for the **Jan Dhan account opening form**
+- Fill in your **name, address, DOB, nominee details**
+- Attach **Aadhaar card photocopy** (or other KYC documents)
+- Provide **passport-size photographs** (2)
 
-### Step 3: Fill the Form
-- Name (as per ID proof)
-- Father's/Spouse's name
-- Address
-- Date of birth
-- Mobile number
-- Nominee details
+#### Step 3: Submit & Verify
+- Submit the form with documents
+- Bank verifies your KYC (may do Aadhaar biometric verification)
+- Account is opened **on the same day**
 
-### Step 4: Submit Documents
-- Self-attested copy of KYC document
-- Passport-size photograph (2 copies)
-- Original document for verification
+#### Step 4: Receive RuPay Card
+- You receive a **RuPay debit card** (may be issued immediately or mailed within 7-15 days)
+- Activate the card and set your PIN at an ATM
+- The card comes with **built-in ₹2 lakh accident insurance**
 
-### Step 5: Biometric Verification (if Aadhaar-based)
-If using Aadhaar:
-- Fingerprint/iris scan at the bank
-- No photocopies needed
-- Account opened instantly
+### Through Banking Correspondent (BC)
+- In remote areas, **Banking Correspondents (BCs)** visit villages and localities
+- They can open Jan Dhan accounts using a **micro-ATM/tablet device**
+- Aadhaar biometric verification is done on the spot
 
-### Step 6: Receive Account Number and RuPay Card
-- Account number provided on the spot
-- **Free RuPay debit card** issued (may take a few days to receive)
-- Passbook provided
+### Online (Select Banks)
+Some banks allow opening Jan Dhan accounts through their websites or apps using **Video KYC**. Check with SBI, BOB, PNB, etc.
 
-## Online Process (Limited)
+## Overdraft Facility
 
-PMJDY accounts are primarily opened at bank branches. However:
+After **6 months of satisfactory account operation**, you can avail an **overdraft facility of up to ₹10,000**:
 
-1. **Some banks** allow opening via their mobile apps (SBI YONO, etc.)
-2. **CSC (Common Service Centers):** Visit nearest CSC center for assisted opening
-3. **Banking Correspondents (BC):** Village-level agents who can open accounts
-
-Find nearest service point: [pmjdy.gov.in](https://pmjdy.gov.in)
+- **Eligibility:** At least one credit/debit in the account in 6 months
+- **Amount:** Up to ₹5,000 without conditions; up to ₹10,000 for accounts with good history
+- **One person per household** (preferably woman of the household)
+- **Interest Rate:** As per bank's lending rate
+- **Purpose:** Meeting emergency expenses
 
 ## Fees
 
-| Service | Fee |
-|---------|-----|
-| Account Opening | **Free** |
-| RuPay Debit Card | **Free** |
-| Minimum Balance | **Zero** |
-| Cheque Book | Free (on request, subject to bank policy) |
+| Item | Cost |
+|------|------|
+| Account opening | **Free** |
+| Minimum balance | **₹0 (zero)** |
+| RuPay debit card | **Free** |
+| Cheque book | Not included (can be requested) |
 | Passbook | **Free** |
-| Mobile Banking | **Free** |
+| Mobile alerts | As per bank charges |
 
-> There is absolutely no charge for opening or maintaining a PMJDY account.
+## Processing Time
 
-## Important Benefits Explained
-
-### Accident Insurance (₹2 lakh)
-- Comes with the free RuPay card
-- Covers accidental death or permanent disability
-- Must use the RuPay card at least once every 90 days to keep it active
-
-### Life Insurance (₹30,000)
-- Available for account holders who opened accounts during initial campaign
-- Covers natural death
-- Check with your bank branch for eligibility
-
-### Overdraft Facility
-- Up to ₹10,000 overdraft after 6 months
-- Account must have satisfactory transaction history
-- Useful for small emergency credit
-
-### Direct Benefit Transfer (DBT)
-- Government subsidies (LPG, MNREGA wages, scholarships) credited directly
-- Eliminates middlemen and corruption
-- Link your Jan Dhan account with Aadhaar for DBT
+- **Account opening:** Same day (instant at branch)
+- **RuPay card:** Immediate or within 7-15 days by post
+- **Overdraft eligibility:** After 6 months of account operation
 
 ## Important Tips
 
-1. **Link Aadhaar to your Jan Dhan account** — Required for receiving DBT payments
-2. **Use your RuPay card regularly** — At least once in 90 days to keep insurance active
-3. **Nominate a family member** — Ensures benefits transfer in case of death
-4. **Upgrade from Small Account** — If you opened with limited KYC, submit full KYC within 12 months
-5. **Check your balance regularly** — Use missed call banking (bank-specific number) or mobile app
+1. **Link Aadhaar immediately** — all government DBT benefits (LPG subsidy, scholarships, MNREGA wages) require Aadhaar-linked bank accounts. See our [Aadhaar guide](/guide/aadhaar-card-apply-online).
+2. **Enrol in PMJJBY + PMSBY** — your Jan Dhan account makes you eligible for [PMJJBY](/guide/pm-jeevan-jyoti-bima) (₹436/year life insurance) and [PMSBY](/guide/pm-suraksha-bima-yojana) (₹20/year accident insurance).
+3. **Keep the RuPay card active** — the ₹2 lakh accident insurance on RuPay requires at least one successful transaction in the 90 days before the accident.
+4. **Don't let the account go dormant** — do at least one transaction every 12 months to keep the account active.
+5. **Women get priority for overdraft** — the ₹10,000 overdraft facility is preferentially given to women account holders.
 
-## FAQs
+## Frequently Asked Questions (FAQs)
 
-**Q: Can I open Jan Dhan account online?**
-A: Primarily it's opened at bank branches. Some banks like SBI allow opening via their mobile app (YONO). You can also visit CSC centers.
+### Q1: Can I open Jan Dhan account if I already have a savings account?
+**Yes**, but you cannot open **multiple Jan Dhan accounts**. If you have a regular savings account, you can convert it to a Jan Dhan account or open a new one (and close the old one if needed).
 
-**Q: Is there any minimum balance for Jan Dhan account?**
-A: No. It's a zero-balance account. You don't need to maintain any minimum balance.
+### Q2: Is there any charge for maintaining zero balance?
+**No.** There are no charges for maintaining zero balance in a Jan Dhan account. This is a key feature of the scheme.
 
-**Q: Can I open Jan Dhan account if I already have a bank account?**
-A: PMJDY is for unbanked individuals. If you already have a savings account, you may not be eligible. However, you can convert your existing no-frills account.
+### Q3: Can I deposit any amount?
+**Yes**, you can deposit any amount. There is no upper limit on deposits in a full KYC Jan Dhan account. For Small Accounts (relaxed KYC), the balance limit is ₹50,000 and withdrawal limit is ₹10,000/month.
 
-**Q: What is the insurance benefit with Jan Dhan account?**
-A: ₹2 lakh accidental insurance with RuPay card and ₹30,000 life insurance (for eligible accounts). Use your RuPay card at least once every 90 days to keep insurance active.
+### Q4: Will I earn interest on my deposits?
+**Yes.** Jan Dhan accounts earn the same **savings account interest rate** as regular accounts (typically 2.7-3% per annum).
 
-**Q: Can a minor open a Jan Dhan account?**
-A: Children above 10 years can open the account independently. Below 10, a guardian can open on their behalf.
+### Q5: Can I use my Jan Dhan account for UPI/PhonePe/GPay?
+**Yes.** You can link your Jan Dhan account to any UPI app and make digital payments. See our [UPI guide](/guide/upi-payment-setup-guide) for setup instructions.
 
-**Q: What if I lose my RuPay card?**
-A: Report immediately to your bank branch or call the bank's customer care. A replacement card will be issued (may have a small fee).
+### Q6: What happens to the account if the holder dies?
+The **nominee** can claim the balance. If the deceased had an active RuPay card with a qualifying transaction, the nominee can also claim **₹2 lakh accidental insurance** (if death was due to accident).
+
+### Q7: Is Jan Dhan account available at post offices?
+**Yes.** India Post Payments Bank (IPPB) and Department of Posts offer Jan Dhan accounts, especially useful in rural areas without bank branches.
 
 ---
 
-## You May Also Need
-
-- [PM Kisan Samman Nidhi](/guide/pm-kisan-samman-nidhi)
-- [e-Shram Card Registration](/guide/e-shram-card-registration)
-- [Sukanya Samriddhi Yojana](/guide/sukanya-samriddhi-yojana)
+*This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Government of India. Verify details at [pmjdy.gov.in](https://pmjdy.gov.in).*
