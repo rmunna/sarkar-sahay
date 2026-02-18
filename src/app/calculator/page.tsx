@@ -39,6 +39,12 @@ const calculators = [
     href: "/calculator/stamp-duty",
   },
   {
+    icon: "🏦",
+    title: "EMI Calculator",
+    description: "Calculate monthly EMI for home, car, personal & education loans with amortization schedule.",
+    href: "/calculator/emi",
+  },
+  {
     icon: "💼",
     title: "Job Eligibility Checker",
     description: "Check your eligibility for 25+ government exams — UPSC, SSC, Banking, Railways & Defence.",
