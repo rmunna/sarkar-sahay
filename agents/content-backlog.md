@@ -112,22 +112,22 @@
 - [x] hp-mukhyamantri-swavalamban-yojana — HP self-employment
 
 ### Uttarakhand
-- [ ] uk-gaura-devi-kanya-dhan — UK girls' scheme
-- [ ] uk-mukhyamantri-vatsalya-yojana — UK orphan care
+- [x] uk-gaura-devi-kanya-dhan — UK girls' scheme
+- [x] uk-mukhyamantri-vatsalya-yojana — UK orphan care
 
 ### Goa
-- [ ] goa-dayanand-social-security — Goa pension scheme
-- [ ] goa-griha-aadhar-scheme — Goa women homemaker scheme
+- [x] goa-dayanand-social-security — Goa pension scheme
+- [x] goa-griha-aadhar-scheme — Goa women homemaker scheme
 
 ### Tripura / Manipur / Meghalaya / Mizoram / Nagaland / Sikkim / Arunachal
-- [ ] northeast-state-schemes-overview — NE state schemes hub
+- [x] northeast-state-schemes-overview — NE state schemes hub
 
 ### Delhi
-- [ ] delhi-ration-card-e-coupon — Delhi ration/e-coupon
-- [ ] delhi-ladli-yojana — Delhi Ladli scheme
-- [ ] delhi-ek-parivar-ek-naukri — Delhi employment scheme
-- [ ] delhi-free-bus-ride-women — Delhi women free bus
-- [ ] delhi-doorstep-delivery-services — Delhi doorstep services
+- [x] delhi-ration-card-e-coupon — Delhi ration/e-coupon
+- [x] delhi-ladli-yojana — Delhi Ladli scheme
+- [x] delhi-ek-parivar-ek-naukri — Delhi employment scheme
+- [x] delhi-free-bus-ride-women — Delhi women free bus
+- [x] delhi-doorstep-delivery-services — Delhi doorstep services
 
 ### J&K
 - [ ] jk-mumkin-scheme — J&K livelihood scheme
