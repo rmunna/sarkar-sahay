@@ -142,13 +142,13 @@
 - [x] clat-law-entrance-exam — CLAT law entrance
 - [x] cat-mba-entrance-exam — CAT MBA entrance
 - [x] cuet-ug-exam-guide — CUET UG entrance
-- [ ] nda-preparation-guide-detailed — NDA detailed prep
-- [ ] indian-forest-service-exam — IFoS exam guide
-- [ ] fci-recruitment-guide — FCI manager exam
-- [ ] lic-ado-exam-guide — LIC ADO exam
-- [ ] niacl-ao-exam-guide — NIACL AO insurance exam
-- [ ] ssc-je-exam-guide — SSC Junior Engineer
-- [ ] ssc-cpo-exam-guide — SSC CPO (SI in Delhi Police/CAPF)
+- [x] nda-preparation-guide-detailed — NDA detailed prep
+- [x] indian-forest-service-exam — IFoS exam guide
+- [x] fci-recruitment-guide — FCI manager exam
+- [x] lic-ado-exam-guide — LIC ADO exam
+- [x] niacl-ao-exam-guide — NIACL AO insurance exam
+- [x] ssc-je-exam-guide — SSC Junior Engineer
+- [x] ssc-cpo-exam-guide — SSC CPO (SI in Delhi Police/CAPF)
 
 ## Calculators Needed
 - [ ] emi-calculator — EMI calculator (Munna requested)
