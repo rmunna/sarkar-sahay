@@ -142,5 +142,305 @@
     "title": "How to Correct Voter ID Card Online",
     "description": "Step-by-step guide to correct your Voter ID (EPIC) details online using Form 8 on the NVSP portal. Fix name, address, photo, date of birth, and more. Also...",
     "category": "Identity Documents"
+  },
+  {
+    "slug": "pm-kisan-yojana-guide",
+    "title": "PM Kisan Samman Nidhi Yojana",
+    "description": "Complete guide to PM Kisan scheme - eligibility, registration, and how to get ₹6,000 per year directly in your bank account.",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "ayushman-bharat-card-guide",
+    "title": "Ayushman Bharat Yojana (PMJAY)",
+    "description": "How to get Ayushman Bharat health card, check eligibility, and avail free treatment up to ₹5 lakh per family.",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "pm-awas-yojana-guide",
+    "title": "PM Awas Yojana (PMAY) Housing Scheme",
+    "description": "Apply for PMAY - get subsidy up to ₹2.67 lakh on home loans for affordable housing under Pradhan Mantri Awas Yojana.",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "pm-ujjwala-yojana-guide",
+    "title": "PM Ujjwala Yojana - Free LPG Connection",
+    "description": "Get free LPG gas connection under PM Ujjwala Yojana. Check eligibility, required documents, and application process.",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "pm-mudra-yojana-loan",
+    "title": "PM Mudra Yojana - Business Loans up to ₹10 Lakh",
+    "description": "Get collateral-free business loans up to ₹10 lakh under PMMY. Know about Shishu, Kishore, and Tarun categories.",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "sukanya-samriddhi-yojana-guide",
+    "title": "Sukanya Samriddhi Yojana (SSY)",
+    "description": "Open SSY account for your daughter - earn 8.2% interest, get tax benefits under 80C, and secure her future.",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "atal-pension-yojana-guide",
+    "title": "Atal Pension Yojana (APY)",
+    "description": "Get guaranteed pension of ₹1,000 to ₹5,000 per month after 60. Complete guide to APY enrollment and benefits.",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "national-pension-system-guide",
+    "title": "National Pension System (NPS)",
+    "description": "Invest in NPS for retirement - get extra ₹50,000 tax deduction under 80CCD(1B) plus market-linked returns.",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "pmjjby-life-insurance-guide",
+    "title": "PM Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "description": "Get ₹2 lakh life insurance cover at just ₹436/year under PMJJBY. Know eligibility, claim process, and enrollment.",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "pmsby-accident-insurance-guide",
+    "title": "PM Suraksha Bima Yojana (PMSBY)",
+    "description": "Accidental insurance cover of ₹2 lakh at just ₹20/year. Complete guide to PMSBY benefits and enrollment.",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "e-shram-card-registration",
+    "title": "e-Shram Card Registration Guide",
+    "description": "Register on e-Shram portal for unorganized workers. Get UAN, insurance cover, and access to government benefits.",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "pmkvy-skill-training-guide",
+    "title": "PM Kaushal Vikas Yojana (PMKVY)",
+    "description": "Get free skill training and certification under PMKVY. Improve employability with government-funded courses.",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "standup-india-loan-scheme",
+    "title": "Stand Up India - Loans for SC/ST & Women",
+    "description": "Get bank loans from ₹10 lakh to ₹1 crore for SC/ST and women entrepreneurs under Stand Up India scheme.",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "pm-vishwakarma-yojana-guide",
+    "title": "PM Vishwakarma Yojana - For Artisans",
+    "description": "PM Vishwakarma scheme for traditional artisans and craftworkers. Get training, toolkit, loans, and digital support.",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "pm-svanidhi-street-vendors",
+    "title": "PM SVANidhi - Loans for Street Vendors",
+    "description": "Get working capital loans up to ₹50,000 for street vendors under PM SVANidhi scheme with interest subsidy.",
+    "category": "Government Schemes"
+  },
+  {
+    "slug": "aadhaar-update-online-guide",
+    "title": "How to Update Aadhaar Card Online",
+    "description": "Step-by-step guide to update your Aadhaar details online - name, address, mobile, photo, and biometrics.",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "pan-card-correction-guide",
+    "title": "PAN Card Correction & Update Guide",
+    "description": "How to correct name, DOB, father's name, or other details on your PAN card online through NSDL or UTIITSL.",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "passport-renewal-guide",
+    "title": "How to Renew Indian Passport Online",
+    "description": "Complete guide to renew your Indian passport - online application, documents, fees, and appointment process.",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "driving-license-renewal-guide",
+    "title": "Driving License Renewal Online",
+    "description": "How to renew your driving license online through Parivahan portal - step by step with documents and fees.",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "voter-id-correction-guide",
+    "title": "Voter ID Card Correction Online",
+    "description": "How to correct name, photo, address, or other details on your Voter ID (EPIC) card through NVSP portal.",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "birth-certificate-online-guide",
+    "title": "How to Apply for Birth Certificate Online",
+    "description": "Register birth and get birth certificate online. Step-by-step guide for new registration and delayed registration.",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "marriage-certificate-guide",
+    "title": "Marriage Certificate - How to Apply Online",
+    "description": "Apply for marriage certificate online under Hindu/Special Marriage Act. Documents, process, and state-wise guide.",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "e-aadhaar-download-guide",
+    "title": "How to Download e-Aadhaar Online",
+    "description": "Download your e-Aadhaar PDF in 2 minutes. Step-by-step guide using Aadhaar number, VID, or enrollment ID.",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "digilocker-guide",
+    "title": "DigiLocker - Digital Document Wallet",
+    "description": "How to use DigiLocker for storing and accessing official documents. Link Aadhaar, DL, marksheets, and more digitally.",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "maadhaar-app-guide",
+    "title": "mAadhaar App - Complete Guide",
+    "description": "Use mAadhaar app to carry Aadhaar on phone, share via QR, lock biometrics, and update details easily.",
+    "category": "Identity Documents"
+  },
+  {
+    "slug": "itr-filing-guide",
+    "title": "How to File ITR Online - Complete Guide",
+    "description": "Step-by-step guide to file Income Tax Return online on the new e-filing portal. Choose the right ITR form and file easily.",
+    "category": "Tax & Finance"
+  },
+  {
+    "slug": "gst-registration-guide",
+    "title": "GST Registration Online - Step by Step",
+    "description": "Complete guide to register for GST on the GST portal. Who needs GST, documents required, and registration process.",
+    "category": "Tax & Finance"
+  },
+  {
+    "slug": "epf-withdrawal-guide",
+    "title": "EPF Withdrawal Online - Complete Process",
+    "description": "How to withdraw EPF/PF money online. Full withdrawal, partial withdrawal, and advance claims explained.",
+    "category": "Tax & Finance"
+  },
+  {
+    "slug": "ppf-account-opening-guide",
+    "title": "PPF Account - How to Open & Invest",
+    "description": "Open a Public Provident Fund account for tax-free returns at 7.1%. Complete guide to PPF rules, benefits, and process.",
+    "category": "Tax & Finance"
+  },
+  {
+    "slug": "section-80c-tax-saving-guide",
+    "title": "Section 80C - Save Tax up to ₹46,800",
+    "description": "Complete guide to Section 80C deductions. Best investments to save up to ₹1.5 lakh in taxable income.",
+    "category": "Tax & Finance"
+  },
+  {
+    "slug": "tds-tax-deducted-source-guide",
+    "title": "TDS - Tax Deducted at Source Explained",
+    "description": "Understand TDS rates, how to check TDS in Form 26AS, and how to claim TDS refund while filing ITR.",
+    "category": "Tax & Finance"
+  },
+  {
+    "slug": "form-16-salary-certificate-guide",
+    "title": "Form 16 - Everything You Need to Know",
+    "description": "What is Form 16, how to get it from employer, and how to use it for filing income tax return easily.",
+    "category": "Tax & Finance"
+  },
+  {
+    "slug": "advance-tax-payment-guide",
+    "title": "Advance Tax - Who Should Pay & How",
+    "description": "Understand advance tax liability, due dates, calculation, and how to pay online through the income tax portal.",
+    "category": "Tax & Finance"
+  },
+  {
+    "slug": "capital-gains-tax-guide",
+    "title": "Capital Gains Tax in India Explained",
+    "description": "Complete guide to capital gains tax on property, stocks, mutual funds, and gold. STCG, LTCG rates and exemptions.",
+    "category": "Tax & Finance"
+  },
+  {
+    "slug": "senior-citizen-tax-benefits-guide",
+    "title": "Tax Benefits for Senior Citizens",
+    "description": "Complete guide to income tax benefits for senior citizens (60+) and super senior citizens (80+) in India.",
+    "category": "Tax & Finance"
+  },
+  {
+    "slug": "ssc-chsl-exam-guide",
+    "title": "SSC CHSL Exam - Complete Guide 2025",
+    "description": "SSC CHSL exam pattern, eligibility, syllabus, preparation tips, and selection process for LDC, DEO, and PA/SA posts.",
+    "category": "Jobs & Exams"
+  },
+  {
+    "slug": "ibps-clerk-exam-guide",
+    "title": "IBPS Clerk Exam - Complete Guide 2025",
+    "description": "IBPS Clerk exam pattern, eligibility, syllabus, and preparation strategy for bank clerk recruitment.",
+    "category": "Jobs & Exams"
+  },
+  {
+    "slug": "rrb-ntpc-exam-guide",
+    "title": "RRB NTPC Exam - Complete Guide 2025",
+    "description": "RRB NTPC exam for railway non-technical popular categories. Eligibility, exam pattern, syllabus, and preparation tips.",
+    "category": "Jobs & Exams"
+  },
+  {
+    "slug": "upsc-capf-exam-guide",
+    "title": "UPSC CAPF (AC) - Assistant Commandant Exam",
+    "description": "UPSC CAPF exam for Assistant Commandant in BSF, CRPF, CISF, ITBP, SSB. Eligibility, pattern, and preparation guide.",
+    "category": "Jobs & Exams"
+  },
+  {
+    "slug": "nda-exam-guide",
+    "title": "NDA Exam - National Defence Academy Guide",
+    "description": "NDA exam guide for joining Indian Army, Navy, or Air Force. Eligibility, exam pattern, SSB interview preparation.",
+    "category": "Jobs & Exams"
+  },
+  {
+    "slug": "cds-exam-guide",
+    "title": "CDS Exam - Combined Defence Services Guide",
+    "description": "CDS exam for graduates to join IMA, INA, AFA, and OTA. Complete guide to eligibility, exam pattern, and SSB.",
+    "category": "Jobs & Exams"
+  },
+  {
+    "slug": "afcat-exam-guide",
+    "title": "AFCAT - Air Force Common Admission Test",
+    "description": "AFCAT exam guide for joining Indian Air Force as an officer. Eligibility, exam pattern, and AFSB interview process.",
+    "category": "Jobs & Exams"
+  },
+  {
+    "slug": "kvs-teacher-recruitment-guide",
+    "title": "KVS Teacher Recruitment Guide",
+    "description": "KVS recruitment for PGT, TGT, PRT, and Librarian posts in Kendriya Vidyalaya schools across India.",
+    "category": "Jobs & Exams"
+  },
+  {
+    "slug": "ctet-exam-guide",
+    "title": "CTET Exam - Central Teacher Eligibility Test",
+    "description": "CTET exam pattern, eligibility, syllabus, and preparation tips for Paper 1 (Class 1-5) and Paper 2 (Class 6-8).",
+    "category": "Jobs & Exams"
+  },
+  {
+    "slug": "ugc-net-jrf-exam-guide",
+    "title": "UGC NET JRF Exam - Complete Guide",
+    "description": "UGC NET exam for Assistant Professor eligibility and JRF fellowship. Exam pattern, preparation, and career scope.",
+    "category": "Jobs & Exams"
+  },
+  {
+    "slug": "emi-calculator-guide",
+    "title": "EMI Calculator - How to Calculate EMI",
+    "description": "Understand how EMI is calculated for home, car, and personal loans. Use our free EMI calculator to plan your finances.",
+    "category": "Utilities"
+  },
+  {
+    "slug": "sip-calculator-guide",
+    "title": "SIP Calculator - Plan Your Investments",
+    "description": "Calculate SIP returns and plan your mutual fund investments. Understand how SIP works and wealth creation potential.",
+    "category": "Utilities"
+  },
+  {
+    "slug": "ppf-calculator-guide",
+    "title": "PPF Calculator - Calculate Maturity Amount",
+    "description": "Calculate PPF maturity amount, interest earned, and yearly balance. Plan your 15-year PPF investment.",
+    "category": "Utilities"
+  },
+  {
+    "slug": "nps-calculator-guide",
+    "title": "NPS Calculator - Plan Your Pension",
+    "description": "Calculate your NPS corpus, monthly pension, and tax savings. Plan retirement with the NPS pension calculator.",
+    "category": "Utilities"
+  },
+  {
+    "slug": "gst-calculator-guide",
+    "title": "GST Calculator - Calculate Tax Amount",
+    "description": "Calculate GST on any amount with different tax rates. Understand CGST, SGST, IGST, and inclusive/exclusive GST calculation.",
+    "category": "Utilities"
   }
 ]

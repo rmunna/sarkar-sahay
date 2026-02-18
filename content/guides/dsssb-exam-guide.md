@@ -5,6 +5,7 @@ slug: dsssb-exam-guide
 category: "Jobs & Exams"
 tags: ["dsssb", "delhi government jobs", "dsssb exam", "dsssb eligibility", "delhi sarkari naukri"]
 readingTime: "10 min"
+keywords: ["dsssb-exam-guide"]
 officialLinks:
   - https://dsssb.delhi.gov.in
 ---

@@ -5,6 +5,7 @@ slug: goa-psc-exam-guide
 category: "Jobs & Exams"
 tags: ["goa psc", "goa public service commission", "goa government jobs", "goa psc exam", "goa sarkari naukri"]
 readingTime: "9 min"
+keywords: ["goa-psc-exam-guide"]
 officialLinks:
   - https://gpsc.goa.gov.in
 ---

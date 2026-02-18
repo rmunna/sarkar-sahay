@@ -5,6 +5,7 @@ slug: hppsc-exam-guide
 category: "Jobs & Exams"
 tags: ["hppsc", "himachal pradesh psc", "hppsc exam", "hp government jobs", "hpas exam"]
 readingTime: "10 min"
+keywords: ["hppsc-exam-guide"]
 officialLinks:
   - https://hppsc.hp.gov.in
 ---

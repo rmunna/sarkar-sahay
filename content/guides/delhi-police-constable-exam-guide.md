@@ -5,6 +5,7 @@ slug: delhi-police-constable-exam-guide
 category: "Jobs & Exams"
 tags: ["delhi police", "delhi police constable", "delhi police exam", "ssc delhi police", "delhi police recruitment"]
 readingTime: "9 min"
+keywords: ["delhi-police-constable-exam-guide"]
 officialLinks:
   - https://ssc.nic.in
   - https://delhipolice.gov.in

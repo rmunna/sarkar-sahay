@@ -1,145 +1,115 @@
 ---
-title: "Assam Orunodoi Scheme – ₹1,250/Month for Women | How to Apply"
-description: "Assam Orunodoi scheme gives ₹1,250 per month to women. Check eligibility, documents needed, and step-by-step application process."
+title: "Assam Orunodoi Scheme — Eligibility, Benefits, and Application Guide"
+description: "Complete guide to Assam Orunodoi scheme providing ₹1,250 monthly financial assistance to women including eligibility and application process."
 category: "State Schemes"
-keywords: ["Assam Orunodoi scheme", "Orunodoi scheme 2025", "Orunodoi apply online", "Assam women scheme", "₹1250 monthly scheme Assam", "Orunodoi eligibility", "Assam government scheme for women"]
-lastUpdated: "2025-02-17"
-readingTime: "8 min"
+keywords: ["Orunodoi scheme", "Assam Orunodoi", "Assam women scheme", "Orunodoi eligibility", "Orunodoi application"]
+readingTime: "7 min"
 officialLinks:
-  - "https://orunodoi.assam.gov.in"
-  - "https://finance.assam.gov.in"
+  - https://orunodoi.assam.gov.in
 ---
 
-# Assam Orunodoi Scheme 2025 – Complete Guide
+## What is the Orunodoi Scheme?
 
-## What is Assam Orunodoi Scheme?
+Orunodoi (meaning "new dawn") is a flagship welfare scheme of the Assam government that provides **₹1,250 per month** to women members of economically weaker families. The scheme aims to empower women financially and provide support for essential household expenses like cooking fuel, nutrition, and education.
 
-Assam Orunodoi is a flagship Direct Benefit Transfer (DBT) scheme launched by the Government of Assam in October 2020. Under this scheme, **₹1,250 per month** is transferred directly to the bank account of an eligible woman member of each household. The scheme aims to provide financial support to economically weaker families across the state.
+The scheme was launched in 2020 and has been expanded to cover over 27 lakh women across Assam, making it one of the largest DBT schemes in the northeastern region.
 
-The word "Orunodoi" means "sunrise" in Assamese, symbolizing a new dawn of financial empowerment for women. As of 2025, over 25 lakh families benefit from this scheme across all districts of Assam.
+## Who is Eligible?
 
-> **Disclaimer:** CitizenNest is an independent informational platform and is not affiliated with any government body. Always verify details on the [official Orunodoi portal](https://orunodoi.assam.gov.in).
+### Eligibility Criteria
+- **One woman per family** (preferably the female head of the household)
+- Must be a **permanent resident of Assam**
+- Family annual income should not exceed **₹2,00,000**
+- Must have a **bank account** in her own name
+- Must have an **Aadhaar card**
 
-## Who is Eligible for Orunodoi Scheme?
+### Who is NOT Eligible
+- Families where any member is a government employee (state/central)
+- Families where any member pays income tax
+- Families owning a four-wheeler vehicle
+- Families where any member receives a pension of ₹5,000+ per month
+- Women already receiving ₹1,000+ per month from other state schemes
 
-To qualify for the Assam Orunodoi scheme, the applicant must meet **all** of the following criteria:
+## Benefits
 
-- **Resident:** Must be a permanent resident of Assam
-- **Gender:** The benefit is transferred to one **woman member** of the household (wife, mother, daughter, or sister)
-- **Age:** The woman nominee must be at least 18 years old
-- **Income:** Annual family income must not exceed **₹2 lakh** from all sources
-- **No Government Job:** No family member should be a permanent government employee (state or central)
-- **No Income Tax Payer:** No family member should be an income tax payer
-- **No Four-Wheeler:** The family should not own a four-wheeler vehicle
-- **Land Holding:** Total land holding should not exceed **3 bighas** (for rural) or **1 katha 10 lessa** (for urban)
+| Component | Details |
+|-----------|---------|
+| Monthly assistance | ₹1,250 |
+| Annual total | ₹15,000 |
+| Payment mode | Direct Bank Transfer |
+| Payment date | 1st of every month |
 
-### Who is NOT Eligible?
-
-- Families already receiving benefits under other similar DBT schemes
-- Families where any member draws a pension exceeding ₹5,000/month (excluding old age pension)
-- Families owning mechanized boats for commercial purposes
+The amount is transferred directly to the woman's bank account linked with Aadhaar.
 
 ## Documents Required
 
-### Mandatory Documents
-- Aadhaar card of the woman nominee
-- Bank account passbook (in the woman's name, linked to Aadhaar)
-- BPL/SECC ration card or income certificate
-- Residential proof (voter ID or domicile certificate)
-- Family income certificate from Circle Officer
+- **Aadhaar card** of the applicant
+- **Bank account passbook** (individual account in woman's name)
+- **Voter ID** or other residence proof
+- **Ration card** or family identification
+- **Income certificate** or self-declaration
+- **BPL certificate** (if applicable)
+- **Passport-size photographs**
 
-### Additional Documents
-- Passport-size photographs (2 copies)
-- Self-declaration form (available at the office)
-- Mobile number linked to Aadhaar
+## How to Apply
 
-## How to Apply for Orunodoi Scheme – Step-by-Step
+### Through Special Enrollment Camps
+1. The government organizes **special enrollment camps** at circle and block levels
+2. Attend with all original documents
+3. Officials verify identity, Aadhaar, and bank details on the spot
+4. Application form filled with government assistance
+5. Biometric verification completed
+6. Acknowledgment receipt provided
 
-### Offline Application Process
-
-Currently, the Orunodoi scheme application is primarily **offline**. Here's how to apply:
-
-**Step 1:** Visit your nearest **Block Development Office (BDO)** or **Circle Office** in your district.
-
-**Step 2:** Collect the Orunodoi application form from the office. You can also download it from the [official website](https://orunodoi.assam.gov.in).
-
-**Step 3:** Fill in the application form with accurate details — name, address, Aadhaar number, bank account details, family income, and land holdings.
-
-**Step 4:** Attach self-attested copies of all required documents listed above.
-
-**Step 5:** Submit the completed form along with documents to the BDO/Circle Office.
-
-**Step 6:** The office will verify your documents and conduct a field survey to confirm eligibility.
-
-**Step 7:** After verification, approved beneficiaries are added to the Orunodoi list. You can check your name on the beneficiary list at the official portal.
-
-**Step 8:** Once approved, **₹1,250 will be credited directly** to the woman nominee's bank account every month via DBT.
+### Through Deputy Commissioner's Office
+1. Visit the **Deputy Commissioner's office** or **Circle Office**
+2. Collect the Orunodoi application form
+3. Fill in all details and attach documents
+4. Submit at the designated counter
+5. Collect acknowledgment
 
 ### Online Status Check
+1. Visit [orunodoi.assam.gov.in](https://orunodoi.assam.gov.in)
+2. Enter your Aadhaar number or mobile number
+3. Check beneficiary status and payment history
 
-While the application is offline, you can check your beneficiary status online:
+## Verification Process
 
-1. Visit [https://orunodoi.assam.gov.in](https://orunodoi.assam.gov.in)
-2. Click on "Beneficiary List" or "Search Beneficiary"
-3. Select your district, block, and village
-4. Search by name or Aadhaar number
-5. View your status — approved, pending, or rejected
-
-## Amount and Payment Details
-
-| Detail | Information |
-|--------|-------------|
-| Monthly Amount | ₹1,250 |
-| Annual Benefit | ₹15,000 |
-| Payment Mode | Direct Bank Transfer (DBT) |
-| Payment Date | Usually 1st–10th of each month |
-| Bank Account | Must be in the woman nominee's name |
-
-## Processing Time
-
-- **Application Verification:** 30–60 days after submission
-- **Field Survey:** Conducted within 2–4 weeks of application
-- **First Payment:** Within 1–2 months after approval
-- **Subsequent Payments:** Monthly on a regular cycle
+1. Application received at circle/block level
+2. Aadhaar and bank account verification
+3. Field verification by designated officials
+4. Cross-checking with government employee database and income tax records
+5. Approval by Deputy Commissioner
+6. Payment initiated through DBT
 
 ## Important Tips
 
-1. **Keep Aadhaar linked to your bank account** — without this, DBT payments will fail. See our [Aadhaar linking guide](/guide/aadhaar-linking-guide) for help.
-2. **Use the woman nominee's own bank account** — joint accounts may cause issues with DBT.
-3. **Update your mobile number** on Aadhaar to receive SMS alerts for payments.
-4. **Keep income certificate current** — an expired certificate can lead to rejection.
-5. **Check the beneficiary list regularly** on the official portal to track your application status.
+- **Individual bank account is mandatory** — joint accounts are not accepted; open a savings account in your name
+- **Aadhaar-bank linking** — ensure your Aadhaar number is seeded with your bank account
+- **Attend enrollment camps** — these are the most efficient way to apply with on-the-spot verification
+- **Keep mobile number active** — all OTPs and notifications come to your registered number
+- **Update details promptly** — if you change your bank account or address, inform the circle office immediately
 
-## Frequently Asked Questions (FAQs)
+## Frequently Asked Questions
 
-### Q1: What is the current monthly amount under Orunodoi scheme?
-**A:** As of 2025, the monthly amount is **₹1,250** per household, transferred to the woman nominee's bank account.
+### Can both mother and daughter-in-law in the same family apply?
+No, only one woman per family can receive the benefit. If it's a joint family with separate ration cards, each nuclear family unit may be eligible.
 
-### Q2: Can a male family member receive the Orunodoi benefit?
-**A:** No. The scheme specifically mandates that the benefit goes to a **woman member** of the household. The bank account must also be in her name.
+### Is the amount of ₹1,250 per month fixed?
+The amount was initially ₹830, then increased to ₹1,000, and currently stands at ₹1,250. The government may revise it further based on budget allocation.
 
-### Q3: How do I check if my name is on the Orunodoi beneficiary list?
-**A:** Visit [orunodoi.assam.gov.in](https://orunodoi.assam.gov.in), go to the beneficiary list section, select your district and block, and search by name or Aadhaar number.
+### What if my Aadhaar has a different address?
+Your Aadhaar address should match your current residence in Assam. If there's a mismatch, update your Aadhaar address first through the UIDAI portal or an Aadhaar centre.
 
-### Q4: I was receiving Orunodoi but payments stopped. What should I do?
-**A:** Payments may stop due to Aadhaar-bank linking issues, change in eligibility, or verification lapses. Visit your BDO/Circle Office with your documents to resolve the issue. Also ensure your Aadhaar is correctly linked — see our [Aadhaar common problems guide](/guide/aadhaar-common-problems-solutions).
+### Can tea garden workers apply for Orunodoi?
+Yes, tea garden workers are eligible if they meet the income and other criteria. Many tea garden families benefit from this scheme.
 
-### Q5: Can I apply for Orunodoi online?
-**A:** Currently, the application process is **offline only**. You need to visit your BDO/Circle Office to submit the form. However, you can check status and beneficiary lists online.
+### Is there an age limit?
+There is no specific age limit mentioned. However, the woman must be an adult (18+) and a member of an eligible family.
 
-### Q6: Is Orunodoi available for all districts in Assam?
-**A:** Yes, the Orunodoi scheme covers **all 35 districts** of Assam. Beneficiary selection is done at the block level.
-
-### Q7: Can I get Orunodoi if I already receive PM Kisan benefits?
-**A:** Yes, Orunodoi and [PM Kisan](/guide/pm-kisan-samman-nidhi) are separate schemes. You can receive both as long as you meet the eligibility criteria for each.
-
-## Related Guides
-
-- [Aadhaar Card – How to Apply Online](/guide/aadhaar-card-apply-online)
-- [Aadhaar Linking Guide](/guide/aadhaar-linking-guide)
-- [PM Kisan Samman Nidhi](/guide/pm-kisan-samman-nidhi)
-- [Ration Card Apply Online](/guide/ration-card-apply-online)
+### How do I check if my payment was credited?
+Check your bank passbook or statement. You can also visit the Orunodoi portal and enter your details to see payment history.
 
 ---
 
-*Last updated: February 2025. Information is based on publicly available government data. Always verify with your local BDO/Circle Office or the [official Orunodoi portal](https://orunodoi.assam.gov.in) before applying.*
+*Disclaimer: This guide is for informational purposes only. CitizenNest is not affiliated with the Assam government. Visit [orunodoi.assam.gov.in](https://orunodoi.assam.gov.in) for official information.*
