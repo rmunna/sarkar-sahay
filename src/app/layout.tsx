@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Script from "next/script";
 import Link from "next/link";
+import { MobileNav } from "./mobile-nav";
 import "./globals.css";
 
 const inter = Inter({
@@ -98,38 +99,17 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 Citizen<span className="text-orange-600">Nest</span>
               </span>
             </Link>
-            <div className="flex gap-1 sm:gap-2">
-              <Link
-                href="/"
-                className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition"
-              >
-                Home
-              </Link>
-              <Link
-                href="/categories"
-                className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition"
-              >
-                Categories
-              </Link>
-              <Link
-                href="/updates"
-                className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition"
-              >
-                Updates
-              </Link>
-              <Link
-                href="/about"
-                className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition"
-              >
-                About
-              </Link>
-              <Link
-                href="/hi"
-                className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition"
-              >
-                🇮🇳 हिन्दी
-              </Link>
+            {/* Desktop nav */}
+            <div className="hidden md:flex gap-1">
+              <Link href="/" className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">Home</Link>
+              <Link href="/categories" className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">Categories</Link>
+              <Link href="/calculator" className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">Calculators</Link>
+              <Link href="/updates" className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">Updates</Link>
+              <Link href="/about" className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">About</Link>
+              <Link href="/hi" className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">🇮🇳 हिन्दी</Link>
             </div>
+            {/* Mobile hamburger */}
+            <MobileNav />
           </nav>
         </header>
 
