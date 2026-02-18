@@ -48,13 +48,13 @@ export default function Home() {
           <SearchBar />
         </div>
         <div className="mt-5 flex flex-wrap justify-center gap-3">
-          <Link
+          <Link prefetch={false}
             href="/categories"
             className="px-6 py-3 bg-orange-600 text-white rounded-xl font-semibold hover:bg-orange-700 transition shadow-sm"
           >
             Browse All Guides
           </Link>
-          <Link
+          <Link prefetch={false}
             href="/about"
             className="px-6 py-3 bg-white text-gray-700 border border-gray-200 rounded-xl font-semibold hover:border-orange-300 hover:text-orange-600 transition"
           >
@@ -73,13 +73,13 @@ export default function Home() {
               <h2 className="text-2xl font-bold text-gray-900">
                 🔴 Latest Job & Exam Updates
               </h2>
-              <Link href="/updates" className="text-sm text-orange-600 hover:text-orange-700 font-medium">
+              <Link prefetch={false} href="/updates" className="text-sm text-orange-600 hover:text-orange-700 font-medium">
                 View all →
               </Link>
             </div>
             <div className="grid gap-3 md:grid-cols-2">
               {updates.map((u) => (
-                <Link
+                <Link prefetch={false}
                   key={u.slug}
                   href={`/update/${u.slug}`}
                   className="flex items-start gap-4 p-4 bg-white border border-gray-200 rounded-xl hover:border-orange-300 hover:shadow-sm transition"
@@ -113,7 +113,7 @@ export default function Home() {
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
             {categories.map((cat) => (
-              <Link
+              <Link prefetch={false}
                 key={cat.name}
                 href={`/categories#${cat.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "")}`}
                 className="group flex items-center gap-3 p-4 bg-white border border-gray-200 rounded-xl hover:border-orange-300 hover:shadow-md transition-all duration-200"
@@ -144,7 +144,7 @@ export default function Home() {
               ({totalGuides} total)
             </span>
           </h2>
-          <Link
+          <Link prefetch={false}
             href="/categories"
             className="text-sm text-orange-600 hover:text-orange-700 font-medium"
           >
@@ -188,7 +188,7 @@ export default function Home() {
             </div>
             {totalGuides > 12 && (
               <div className="text-center mt-8">
-                <Link
+                <Link prefetch={false}
                   href="/categories"
                   className="inline-flex items-center gap-2 px-8 py-3 bg-orange-600 text-white rounded-xl font-semibold hover:bg-orange-700 transition shadow-sm"
                 >
