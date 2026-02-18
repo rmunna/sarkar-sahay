@@ -1,232 +1,127 @@
 ---
-title: "How to Check Passport Application Status Online in India"
-description: "Track your passport application status online via passportindia.gov.in, SMS, or mPassport Seva app. Understand status codes and delays."
+title: "How to Check Passport Application Status Online — Track Your Passport"
+description: "Track your passport application status online using file number or ARN. Check processing stages, police verification, and dispatch details."
 category: "Identity Documents"
-keywords:
-  - "passport status check online"
-  - "passport application status"
-  - "passport tracking India"
-  - "mPassport Seva status"
-  - "passport police verification status"
-  - "passport status codes"
-  - "passport dispatch status"
-lastUpdated: "2026-02-16"
-readingTime: "8 min"
+keywords: ["passport status check", "track passport application", "passport application status online", "passport seva status", "passport tracking"]
+readingTime: "5 min"
 officialLinks:
-  - "https://www.passportindia.gov.in"
-  - "https://www.passportindia.gov.in"
+  - https://www.passportindia.gov.in
+  - https://portal2.passportindia.gov.in/AppOnlineProject/statusTracker/trackStatusIn498
 ---
 
-# How to Check Passport Application Status Online in India
+## Why Track Your Passport Application?
 
-Applied for a passport and wondering where it's stuck? Whether your application is under review, pending police verification, or already dispatched — this guide covers every way to track your passport status and what each status code actually means.
+After submitting your passport application (regular or [Tatkal](/guide/tatkal-passport-apply)), tracking helps you:
+- Know the **current processing stage** of your application
+- Check **police verification status**
+- Find out when the passport has been **printed and dispatched**
+- Get the **Speed Post tracking number** for delivery
 
-> **Disclaimer:** This is an independent guide and is not affiliated with the Government of India or the Ministry of External Affairs. Always verify information on the [official Passport Seva website](https://www.passportindia.gov.in).
+## Methods to Check Passport Status
 
----
+### Method 1: Passport Seva Online Portal
 
-## What You Need to Track Your Passport Status
-
-Before you begin, keep one of the following ready:
-
-- **Application Reference Number (ARN)** — received after submitting your application at the Passport Seva Kendra
-- **File Number** — Assigned after your appointment at the Passport Seva Kendra (PSK)
-- **Date of Birth** — Required for verification on the tracking portal
-
-No documents are needed — just your reference number and DOB.
-
----
-
-## Method 1: Track Passport Status on passportindia.gov.in (Recommended)
-
-This is the most reliable and detailed method.
-
-1. Go to [passportindia.gov.in](https://www.passportindia.gov.in)
+1. Visit [passportindia.gov.in](https://www.passportindia.gov.in)
 2. Click on **"Track Application Status"** on the homepage
-3. Select **"Passport/PCC/IC/GEP"** as the application type
-4. Enter your **File Number** (e.g., `DL-12345678901234`)
+3. Select your **application type**: Ordinary or Diplomatic
+4. Enter your **File Number** (format: XX-1234567890123) — found on your application receipt
 5. Enter your **Date of Birth**
 6. Click **"Track Status"**
+7. Your application status will be displayed with details of each stage
 
-You will see a detailed status page showing:
-- Current application status
-- Police verification status
-- Passport printing and dispatch details
-- Speed Post tracking number (once dispatched)
+### Method 2: Using mPassport Seva App
 
-> **Tip:** Bookmark the direct tracking URL: [passportindia.gov.in/AppOnlineProject/statusTracker/trackStatusIn498](https://www.passportindia.gov.in)
-
----
-
-## Method 2: Track via mPassport Seva Mobile App
-
-The official **mPassport Seva** app lets you track status on the go.
-
-1. Download **mPassport Seva** from [Google Play Store](https://play.google.com/store/apps/details?id=com.ceaboron.mpassport) or Apple App Store
-2. Open the app and tap **"Track Application Status"**
+1. Download **mPassport Seva** app from Play Store / App Store
+2. Open the app and go to **"Track Application Status"**
 3. Enter your **File Number** and **Date of Birth**
 4. Tap **"Track Status"**
+5. The app shows real-time status updates
 
-The app shows the same information as the website, including police verification updates and dispatch details.
+### Method 3: Via SMS
 
----
-
-## Method 3: Track Passport Status via SMS
-
-You can get a quick status update by sending an SMS from your registered mobile number:
-
-**Send SMS:**
+Send an SMS in the following format:
 ```
 STATUS <File Number>
 ```
-**To:** The number displayed on the Passport Seva portal (check the website for the current SMS shortcode, as it may change)
+Send to **9704100100** from your registered mobile number.
 
-> **Note:** SMS tracking provides a brief status update. For detailed information, use the website or app.
+### Method 4: Call the Helpline
 
----
+- **National Call Centre:** 1800-258-1800 (toll-free)
+- **Passport Seva helpline:** 011-23386100
+- Provide your file number and date of birth for status update
 
-## Method 4: Call the Passport Seva Call Centre
+## Understanding Passport Application Stages
 
-If online tracking isn't working or you need clarification:
+| Stage | Meaning |
+|-------|---------|
+| **Application Submitted** | Form received and fees paid |
+| **Application Under Process** | Being reviewed at PSK/RPO |
+| **Police Verification Initiated** | Sent to local police station |
+| **Police Verification Completed** | Police report submitted to RPO |
+| **Police Verification — Clear** | No adverse findings |
+| **Passport Printed** | Physical passport has been printed |
+| **Passport Dispatched** | Sent via Speed Post |
+| **Passport Delivered** | Delivered to your address |
 
-- **Toll-free number:** 1800-258-1800
-- **Available:** Monday to Friday, 8:00 AM to 10:00 PM
-- Keep your File Number ready when you call
+## How to Track Speed Post Delivery
 
----
+Once the status shows **"Dispatched"**, you can track the delivery:
 
-## Understanding Passport Status Codes
-
-Here's what each status message means:
-
-### Application Received
-Your application has been submitted and is in the system. No action needed from your side.
-
-### Under Review / Under Process
-Your application is being reviewed by the Passport Office. Documents are being verified internally.
-
-### Police Verification Initiated
-Your application has been sent to the local police station for verification. An officer may visit your address.
-
-### Police Verification Pending
-The police report has not yet been received by the Passport Office. This is the most common cause of delays.
-
-### Police Verification Clear / Completed
-Police verification is done. Your application will now move to the next stage.
-
-### Granted
-**Good news!** Your passport has been approved and will be sent for printing.
-
-### Printed
-Your passport has been printed and is ready for dispatch.
-
-### Dispatched
-Your passport has been handed over to Speed Post / India Post for delivery. You will receive a **Speed Post tracking number**.
-
-### Delivered
-Your passport has been delivered to your address.
-
-### Rejected / Returned
-Your application has been rejected or returned. Check the portal for the specific reason and next steps.
-
----
-
-## How to Track Police Verification Status
-
-Police verification is often the longest part of the process. Here's how to check:
-
-1. **On the Passport Seva portal** — The tracking page shows police verification status separately
-2. **Contact your local police station** — Visit or call the station mentioned in your application
-3. **Through the SP (Superintendent of Police) office** — If verification is delayed beyond 3-4 weeks
-
-### What to Do If Police Verification Is Delayed
-
-- Wait at least **3 weeks** before following up — this is normal processing time
-- Visit your local police station with a copy of your application and ask about the status
-- File a grievance on the [Passport Seva portal](https://www.passportindia.gov.in) under the **Grievance** section
-- If delayed beyond 6 weeks, escalate through the **RPO (Regional Passport Office)**
-
----
-
-## How to Track Passport Delivery via Speed Post
-
-Once your passport status shows **"Dispatched"**:
-
-1. Note the **Speed Post consignment number** from the tracking page
-2. Go to [India Post tracking](https://www.indiapost.gov.in/_layouts/15/dop.portal.tracking/trackconsignment.aspx)
+1. Note the **Speed Post consignment number** shown in the status
+2. Visit [indiapost.gov.in](https://www.indiapost.gov.in) → Track Consignment
 3. Enter the consignment number to see delivery status
+4. Alternatively, call your nearest post office for updates
 
-> **Tip:** Keep your phone on — the postman may call before delivery. Someone must be available at the address to receive it.
+## How to Check Police Verification Status
 
----
+1. Visit [passportindia.gov.in](https://www.passportindia.gov.in)
+2. Click **"Track Application Status"**
+3. Enter file number and DOB
+4. The police verification section will show:
+   - **Initiated** — request sent to police
+   - **Report received** — police report submitted
+   - **Clear/Adverse** — outcome of verification
 
-## What to Do If Your Passport Is Delayed
+> **Tip:** If police verification is delayed beyond 3 weeks, you can contact your local police station or the SP office directly with your file number.
 
-Normal processing times:
-- **Normal application:** 30-45 days (from appointment date)
-- **Tatkal application:** 1-3 weeks
+## Processing Time by Application Type
 
-If your passport is delayed beyond the expected timeline:
+| Type | Typical Processing Time |
+|------|------------------------|
+| Normal application | **30-45 working days** |
+| [Tatkal application](/guide/tatkal-passport-apply) | **1-7 working days** |
+| Re-issue (no change in details) | **15-20 working days** |
+| Re-issue (with changes) | **30-45 working days** |
 
-1. **Check status online** — Make sure there are no pending actions from your side
-2. **File a grievance** — Go to [passportindia.gov.in](https://www.passportindia.gov.in), log in, and submit a grievance
-3. **Call 1800-258-1800** — Explain your situation with your File Number
-4. **Visit the PSK/RPO** — As a last resort, visit the Passport Seva Kendra or Regional Passport Office in person
-5. **Use the CPG Portal** — For unresolved grievances, file on the [Centralized Public Grievance portal (CPGRAMS)](https://pgportal.gov.in)
+## Important Tips
 
----
+1. **Save your file number** from the application receipt — it's your primary tracking ID
+2. **Check status after 3-5 days** of applying — immediate checks won't show progress
+3. **Police verification** is the most common cause of delays — ensure someone is available at your address
+4. **Update address** if you've moved — contact the RPO to avoid delivery issues
+5. **Keep your registered mobile active** — dispatch SMS and OTPs are sent to this number
 
-## Common Issues and Troubleshooting
+## Frequently Asked Questions (FAQs)
 
-### "File Number Not Found" Error
-- Double-check the format — it should be like `XX-1234567890123`
-- Wait 24-48 hours after your appointment for the system to update
-- Try using the Application Reference Number instead
+### 1. Where do I find my passport file number?
+Your file number is printed on the **application receipt** given after the PSK appointment. It is in the format **XX-1234567890123** (two letters followed by 13 digits). It's also available in your Passport Seva login dashboard.
 
-### Status Not Updating
-- The portal updates periodically, not in real-time
-- Allow 2-3 working days between status changes
-- Clear your browser cache and try again
+### 2. How long after "dispatched" will I receive my passport?
+Typically **3-7 working days** via Speed Post, depending on your location. Metro cities usually receive it faster than rural areas.
 
-### Passport Dispatched but Not Received
-- Track via Speed Post using the consignment number
-- If undelivered after 7 days, contact your nearest post office
-- File a grievance on the Passport Seva portal
+### 3. What if my passport status shows "Adverse" in police verification?
+"Adverse" means the police found some discrepancy. This doesn't mean rejection — the RPO will review the report. You may be called for a personal hearing. Carry all original documents.
 
----
+### 4. Can I track someone else's passport application?
+Yes, you only need the **file number** and **date of birth** to track any application. No login is required for basic status tracking.
 
-## Related Guides
+### 5. What if my passport application status hasn't changed for weeks?
+If no update for **3+ weeks**, contact the RPO through the Passport Seva portal's **"Grievance"** section or call 1800-258-1800. You can also file an RTI if there's excessive delay.
 
-- [How to Apply for Passport Online](/guide/passport-apply-online)
-- [How to Renew Your Passport Online](/guide/passport-renewal-online-india)
-- [Tatkal Passport & Lost Passport — Special Cases](/guide/passport-special-cases-tatkal-lost)
-- [Passport Application Status Tracking — Quick Reference](/guide/passport-application-status-track)
-
----
-
-## Frequently Asked Questions (FAQ)
-
-### How can I check my passport application status online?
-Visit [passportindia.gov.in](https://www.passportindia.gov.in), click "Track Application Status," enter your File Number and Date of Birth, and click "Track Status." You can also use the mPassport Seva app.
-
-### What is the File Number for passport tracking?
-The File Number is a unique reference assigned to your passport application after your appointment at the Passport Seva Kendra. It follows the format `XX-1234567890123` where XX is your state code.
-
-### How long does it take to get a passport after applying?
-A normal passport application typically takes **30-45 days** from the appointment date. Tatkal applications are processed within **1-3 weeks**. Delays are usually due to police verification.
-
-### What does "Granted" status mean in passport tracking?
-"Granted" means your passport application has been approved. Your passport will now be printed and dispatched to your address via Speed Post.
-
-### How do I check police verification status for my passport?
-Police verification status is shown on the Passport Seva tracking page along with your application status. You can also contact your local police station directly for updates.
-
-### What should I do if my passport status shows "Dispatched" but I haven't received it?
-Note the Speed Post consignment number from the tracking page and track it on [indiapost.gov.in](https://www.indiapost.gov.in). If undelivered after 7 days, contact your local post office or file a grievance on the Passport Seva portal.
-
-### Can I track my passport status by SMS?
-Yes, you can send an SMS with your File Number to the Passport Seva shortcode. Check the official website for the current SMS number, as it may be updated periodically.
+### 6. Can I check passport status without the file number?
+No, the file number is mandatory for online tracking. If you've lost it, log in to your Passport Seva account where it's stored, or contact the PSK where you applied.
 
 ---
 
-*Last updated: February 16, 2026. Information is based on publicly available details from the Ministry of External Affairs. Verify all details on [passportindia.gov.in](https://www.passportindia.gov.in) before taking action.*
+*This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Ministry of External Affairs or the Government of India. Always verify the latest details on the [official Passport Seva website](https://www.passportindia.gov.in).*

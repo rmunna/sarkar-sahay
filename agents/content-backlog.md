@@ -5,26 +5,26 @@
 ## Priority 1: High-Traffic Missing Guides (Identity + Certificates + Utilities)
 
 ### Identity Documents (gaps)
-- [ ] aadhaar-card-download-online — Download e-Aadhaar PDF
-- [ ] aadhaar-update-mobile-email — Update mobile/email in Aadhaar
+- [x] aadhaar-card-download-online — Download e-Aadhaar PDF
+- [x] aadhaar-update-mobile-email — Update mobile/email in Aadhaar
 - [ ] digital-signature-certificate-dsc — DSC for online filing
 - [ ] e-sign-aadhaar-based — Aadhaar-based e-Sign
 - [ ] nri-oci-card-apply-renew — OCI Card for NRIs
 - [ ] minor-to-major-aadhaar-update — Baal Aadhaar to adult conversion
-- [ ] tatkal-passport-apply — Tatkal/urgent passport
-- [ ] passport-status-check-online — Track passport application
-- [ ] lost-aadhaar-card-retrieval — Retrieve lost Aadhaar
+- [x] tatkal-passport-apply — Tatkal/urgent passport
+- [x] passport-status-check-online — Track passport application
+- [x] lost-aadhaar-card-retrieval — Retrieve lost Aadhaar
 
 ### Certificates (gaps)
-- [ ] marriage-registration-online — Marriage registration process
+- [x] marriage-registration-online — Marriage registration process
 - [ ] medical-certificate-online — Medical fitness certificate
-- [ ] no-objection-certificate-noc — NOC types and process
+- [x] no-objection-certificate-noc — NOC types and process
 - [ ] migration-certificate-apply — Migration certificate
 - [ ] transfer-certificate-school — TC from school/college
 - [ ] experience-certificate-format — Work experience certificate
-- [ ] encumbrance-certificate-ec — EC for property
-- [ ] legal-heir-certificate-apply — Legal heir/succession
-- [ ] non-creamy-layer-certificate — Non-creamy layer for OBC
+- [x] encumbrance-certificate-ec — EC for property
+- [x] legal-heir-certificate-apply — Legal heir/succession
+- [x] non-creamy-layer-certificate — Non-creamy layer for OBC
 - [ ] freedom-fighter-certificate — Freedom fighter family cert
 - [ ] solvency-certificate-apply — Solvency certificate
 
