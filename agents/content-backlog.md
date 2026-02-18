@@ -7,26 +7,26 @@
 ### Identity Documents (gaps)
 - [x] aadhaar-card-download-online — Download e-Aadhaar PDF
 - [x] aadhaar-update-mobile-email — Update mobile/email in Aadhaar
-- [ ] digital-signature-certificate-dsc — DSC for online filing
-- [ ] e-sign-aadhaar-based — Aadhaar-based e-Sign
-- [ ] nri-oci-card-apply-renew — OCI Card for NRIs
-- [ ] minor-to-major-aadhaar-update — Baal Aadhaar to adult conversion
+- [x] digital-signature-certificate-dsc — DSC for online filing
+- [x] e-sign-aadhaar-based — Aadhaar-based e-Sign
+- [x] nri-oci-card-apply-renew — OCI Card for NRIs
+- [x] minor-to-major-aadhaar-update — Baal Aadhaar to adult conversion
 - [x] tatkal-passport-apply — Tatkal/urgent passport
 - [x] passport-status-check-online — Track passport application
 - [x] lost-aadhaar-card-retrieval — Retrieve lost Aadhaar
 
 ### Certificates (gaps)
 - [x] marriage-registration-online — Marriage registration process
-- [ ] medical-certificate-online — Medical fitness certificate
+- [x] medical-certificate-online — Medical fitness certificate
 - [x] no-objection-certificate-noc — NOC types and process
-- [ ] migration-certificate-apply — Migration certificate
-- [ ] transfer-certificate-school — TC from school/college
-- [ ] experience-certificate-format — Work experience certificate
+- [x] migration-certificate-apply — Migration certificate
+- [x] transfer-certificate-school — TC from school/college
+- [x] experience-certificate-format — Work experience certificate
 - [x] encumbrance-certificate-ec — EC for property
 - [x] legal-heir-certificate-apply — Legal heir/succession
 - [x] non-creamy-layer-certificate — Non-creamy layer for OBC
-- [ ] freedom-fighter-certificate — Freedom fighter family cert
-- [ ] solvency-certificate-apply — Solvency certificate
+- [x] freedom-fighter-certificate — Freedom fighter family cert
+- [x] solvency-certificate-apply — Solvency certificate
 
 ### Utilities (gaps)
 - [ ] lpg-gas-booking-online — Online LPG cylinder booking
