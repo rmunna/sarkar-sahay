@@ -17,11 +17,15 @@ const CATEGORY_ICONS: Record<string, string> = {
 
 export default function Home() {
   const allGuides = getAllGuides();
+  const totalGuides = allGuides.length;
   const categories = getCategories();
   // Show 12 guides on homepage (sorted alphabetically by title)
   const guides = [...allGuides]
     .sort((a, b) => a.title.localeCompare(b.title))
-    .slice(0, 12);
+    .slice(0, 12)
+    .map(({ slug, title, description, category, readingTime }) => ({
+      slug, title, description, category, readingTime,
+    }));
   const allUpdates = getActiveUpdates();
 
   return (
@@ -137,14 +141,14 @@ export default function Home() {
           <h2 className="text-2xl font-bold text-gray-900">
             Latest Guides
             <span className="text-base font-normal text-gray-500 ml-2">
-              ({allGuides.length} total)
+              ({totalGuides} total)
             </span>
           </h2>
           <Link
             href="/categories"
             className="text-sm text-orange-600 hover:text-orange-700 font-medium"
           >
-            View all {allGuides.length} guides →
+            View all {totalGuides} guides →
           </Link>
         </div>
         {guides.length === 0 ? (
@@ -182,13 +186,13 @@ export default function Home() {
                 </Link>
               ))}
             </div>
-            {allGuides.length > 12 && (
+            {totalGuides > 12 && (
               <div className="text-center mt-8">
                 <Link
                   href="/categories"
                   className="inline-flex items-center gap-2 px-8 py-3 bg-orange-600 text-white rounded-xl font-semibold hover:bg-orange-700 transition shadow-sm"
                 >
-                  View All {allGuides.length} Guides
+                  View All {totalGuides} Guides
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                   </svg>
