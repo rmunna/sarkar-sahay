@@ -12,7 +12,7 @@ type Exam = {
   ageRelaxation: { obc: number; sc: number; st: number; ews: number; disability: number; exServicemen: number; female: number };
   minEducation: "10th" | "12th" | "graduate" | "postGraduate";
   genderRestriction: null | "male" | "female";
-  guideSlug: string | null;
+  guideSlug: string;
 };
 
 type Result = {
@@ -39,35 +39,39 @@ const STATES = [
   "Dadra & Nagar Haveli and Daman & Diu","Delhi","Jammu & Kashmir","Ladakh","Lakshadweep","Puducherry",
 ];
 
-/* ───── national exam data ───── */
+/* ───── common age relaxation for state jobs ───── */
+const STD_RELAX = { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 };
+const NO_RELAX = { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 };
+
+/* ───── national exam data (27 exams — unchanged) ───── */
 const NATIONAL_EXAMS: Exam[] = [
   { name: "UPSC Civil Services (CSE)", organization: "UPSC", ageMin: 21, ageMax: 32, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "upsc-civil-services-preparation-guide" },
   { name: "UPSC IES/ISS", organization: "UPSC", ageMin: 21, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "postGraduate", genderRestriction: null, guideSlug: "upsc-ies-iss-exam-guide" },
-  { name: "UPSC CDS", organization: "UPSC", ageMin: 19, ageMax: 25, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "upsc-cds-exam-guide" },
-  { name: "UPSC NDA", organization: "UPSC", ageMin: 16, ageMax: 19, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: "upsc-nda-exam-guide" },
+  { name: "UPSC CDS", organization: "UPSC", ageMin: 19, ageMax: 25, ageRelaxation: NO_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "upsc-cds-exam-guide" },
+  { name: "UPSC NDA", organization: "UPSC", ageMin: 16, ageMax: 19, ageRelaxation: NO_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "upsc-nda-exam-guide" },
   { name: "SSC CGL", organization: "SSC", ageMin: 18, ageMax: 27, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 3, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "ssc-exam-complete-guide" },
   { name: "SSC CHSL", organization: "SSC", ageMin: 18, ageMax: 27, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 3, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: "ssc-exam-complete-guide" },
   { name: "SSC MTS", organization: "SSC", ageMin: 18, ageMax: 25, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 3, female: 0 }, minEducation: "10th", genderRestriction: null, guideSlug: "ssc-mts-exam-guide" },
   { name: "SSC GD Constable", organization: "SSC", ageMin: 18, ageMax: 23, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 0, exServicemen: 3, female: 0 }, minEducation: "10th", genderRestriction: null, guideSlug: "ssc-gd-constable-exam-guide" },
   { name: "SSC Stenographer", organization: "SSC", ageMin: 18, ageMax: 27, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 3, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: "ssc-stenographer-exam-guide" },
-  { name: "IBPS PO", organization: "IBPS", ageMin: 20, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "banking-exam-preparation-guide" },
-  { name: "IBPS Clerk", organization: "IBPS", ageMin: 20, ageMax: 28, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "banking-exam-preparation-guide" },
-  { name: "IBPS SO", organization: "IBPS", ageMin: 20, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "ibps-so-exam-guide" },
-  { name: "SBI PO", organization: "SBI", ageMin: 21, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "banking-exam-preparation-guide" },
-  { name: "SBI Clerk", organization: "SBI", ageMin: 20, ageMax: 28, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "banking-exam-preparation-guide" },
-  { name: "RBI Grade B", organization: "RBI", ageMin: 21, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "banking-exam-preparation-guide" },
-  { name: "RBI Assistant", organization: "RBI", ageMin: 20, ageMax: 28, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "rbi-assistant-exam-guide" },
-  { name: "RRB NTPC", organization: "RRB", ageMin: 18, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "rrb-ntpc-exam-guide" },
-  { name: "RRB Group D", organization: "RRB", ageMin: 18, ageMax: 33, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "10th", genderRestriction: null, guideSlug: "rrb-group-d-exam-guide" },
-  { name: "RRB ALP", organization: "RRB", ageMin: 18, ageMax: 28, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "10th", genderRestriction: null, guideSlug: "rrb-alp-exam-guide" },
-  { name: "GATE", organization: "IIT", ageMin: 0, ageMax: 99, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "gate-exam-guide" },
-  { name: "CTET", organization: "CBSE", ageMin: 18, ageMax: 99, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "ctet-exam-guide" },
-  { name: "NTA UGC NET", organization: "NTA", ageMin: 0, ageMax: 99, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "postGraduate", genderRestriction: null, guideSlug: "ugc-net-exam-guide" },
-  { name: "Indian Army (Agniveer)", organization: "Indian Army", ageMin: 17, ageMax: 21, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "10th", genderRestriction: "male", guideSlug: "agniveer-army-recruitment-guide" },
-  { name: "Indian Navy (Agniveer)", organization: "Indian Navy", ageMin: 17, ageMax: 21, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: "male", guideSlug: "agniveer-navy-recruitment-guide" },
-  { name: "Indian Air Force (Agniveer)", organization: "Indian Air Force", ageMin: 17, ageMax: 21, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: "male", guideSlug: "agniveer-airforce-recruitment-guide" },
-  { name: "LIC AAO", organization: "LIC", ageMin: 21, ageMax: 30, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "lic-aao-exam-guide" },
-  { name: "EPFO SSA", organization: "EPFO", ageMin: 18, ageMax: 27, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "epfo-ssa-exam-guide" },
+  { name: "IBPS PO", organization: "IBPS", ageMin: 20, ageMax: 30, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "banking-exam-preparation-guide" },
+  { name: "IBPS Clerk", organization: "IBPS", ageMin: 20, ageMax: 28, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "banking-exam-preparation-guide" },
+  { name: "IBPS SO", organization: "IBPS", ageMin: 20, ageMax: 30, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "ibps-so-exam-guide" },
+  { name: "SBI PO", organization: "SBI", ageMin: 21, ageMax: 30, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "banking-exam-preparation-guide" },
+  { name: "SBI Clerk", organization: "SBI", ageMin: 20, ageMax: 28, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "banking-exam-preparation-guide" },
+  { name: "RBI Grade B", organization: "RBI", ageMin: 21, ageMax: 30, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "banking-exam-preparation-guide" },
+  { name: "RBI Assistant", organization: "RBI", ageMin: 20, ageMax: 28, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "rbi-assistant-exam-guide" },
+  { name: "RRB NTPC", organization: "RRB", ageMin: 18, ageMax: 30, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "rrb-ntpc-exam-guide" },
+  { name: "RRB Group D", organization: "RRB", ageMin: 18, ageMax: 33, ageRelaxation: STD_RELAX, minEducation: "10th", genderRestriction: null, guideSlug: "rrb-group-d-exam-guide" },
+  { name: "RRB ALP", organization: "RRB", ageMin: 18, ageMax: 28, ageRelaxation: STD_RELAX, minEducation: "10th", genderRestriction: null, guideSlug: "rrb-alp-exam-guide" },
+  { name: "GATE", organization: "IIT", ageMin: 0, ageMax: 99, ageRelaxation: NO_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "gate-exam-guide" },
+  { name: "CTET", organization: "CBSE", ageMin: 18, ageMax: 99, ageRelaxation: NO_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "ctet-exam-guide" },
+  { name: "NTA UGC NET", organization: "NTA", ageMin: 0, ageMax: 99, ageRelaxation: NO_RELAX, minEducation: "postGraduate", genderRestriction: null, guideSlug: "ugc-net-exam-guide" },
+  { name: "Indian Army (Agniveer)", organization: "Indian Army", ageMin: 17, ageMax: 21, ageRelaxation: NO_RELAX, minEducation: "10th", genderRestriction: "male", guideSlug: "agniveer-army-recruitment-guide" },
+  { name: "Indian Navy (Agniveer)", organization: "Indian Navy", ageMin: 17, ageMax: 21, ageRelaxation: NO_RELAX, minEducation: "12th", genderRestriction: "male", guideSlug: "agniveer-navy-recruitment-guide" },
+  { name: "Indian Air Force (Agniveer)", organization: "Indian Air Force", ageMin: 17, ageMax: 21, ageRelaxation: NO_RELAX, minEducation: "12th", genderRestriction: "male", guideSlug: "agniveer-airforce-recruitment-guide" },
+  { name: "LIC AAO", organization: "LIC", ageMin: 21, ageMax: 30, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "lic-aao-exam-guide" },
+  { name: "EPFO SSA", organization: "EPFO", ageMin: 18, ageMax: 27, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "epfo-ssa-exam-guide" },
 ];
 
 /* ───── state-specific jobs ───── */
@@ -75,64 +79,113 @@ const STATE_JOBS: Record<string, Exam[]> = {
   "Uttar Pradesh": [
     { name: "UPPSC PCS", organization: "UPPSC", ageMin: 21, ageMax: 40, ageRelaxation: { obc: 5, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "uppsc-pcs-exam-guide" },
     { name: "UP Police Constable", organization: "UP Police", ageMin: 18, ageMax: 22, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: "up-police-constable-exam-guide" },
+    { name: "UP SI (Sub-Inspector)", organization: "UPPBPB", ageMin: 21, ageMax: 28, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "up-si-police-exam-guide" },
+    { name: "UP Lekhpal", organization: "UPSSSC", ageMin: 18, ageMax: 40, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "up-lekhpal-exam-guide" },
+    { name: "UP TET", organization: "UP Basic Education", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "up-tet-exam-guide" },
+    { name: "UP RO/ARO", organization: "UPPSC", ageMin: 21, ageMax: 40, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "up-ro-aro-exam-guide" },
   ],
   "Bihar": [
     { name: "BPSC PCS", organization: "BPSC", ageMin: 20, ageMax: 37, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "bpsc-pcs-exam-guide" },
     { name: "Bihar Police Constable", organization: "Bihar Police", ageMin: 18, ageMax: 25, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: "bihar-police-constable-exam-guide" },
+    { name: "Bihar SI (Sub-Inspector)", organization: "BPSSC", ageMin: 20, ageMax: 25, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "bihar-si-police-exam-guide" },
+    { name: "Bihar TET (BTET/STET)", organization: "BSEB", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "bihar-tet-exam-guide" },
+    { name: "Bihar Daroga", organization: "BPSSC", ageMin: 20, ageMax: 25, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "bihar-daroga-exam-guide" },
   ],
   "Madhya Pradesh": [
     { name: "MPPSC", organization: "MPPSC", ageMin: 21, ageMax: 40, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "mppsc-exam-guide" },
-    { name: "MP Police Constable", organization: "MP Police", ageMin: 18, ageMax: 28, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: "mp-police-constable-exam-guide" },
+    { name: "MP Police Constable", organization: "MP Police", ageMin: 18, ageMax: 28, ageRelaxation: NO_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "mp-police-constable-exam-guide" },
+    { name: "MP SI (Sub-Inspector)", organization: "MPPEB", ageMin: 21, ageMax: 28, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "mp-si-police-exam-guide" },
+    { name: "MP Patwari", organization: "MPPEB", ageMin: 18, ageMax: 40, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "mp-patwari-exam-guide" },
+    { name: "MP TET (MPTET)", organization: "MPPEB", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "mp-tet-exam-guide" },
   ],
   "Rajasthan": [
     { name: "RPSC RAS", organization: "RPSC", ageMin: 21, ageMax: 40, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "rpsc-ras-exam-guide" },
-    { name: "Rajasthan Police Constable", organization: "Rajasthan Police", ageMin: 18, ageMax: 26, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "12th", genderRestriction: null, guideSlug: "rajasthan-police-constable-exam-guide" },
+    { name: "Rajasthan Police Constable", organization: "Rajasthan Police", ageMin: 18, ageMax: 26, ageRelaxation: NO_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "rajasthan-police-constable-exam-guide" },
+    { name: "Rajasthan SI (Sub-Inspector)", organization: "RPSC", ageMin: 21, ageMax: 28, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "rajasthan-si-police-exam-guide" },
+    { name: "Rajasthan Patwari", organization: "RSMSSB", ageMin: 18, ageMax: 40, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "rajasthan-patwari-exam-guide" },
+    { name: "REET (Rajasthan TET)", organization: "BSER", ageMin: 18, ageMax: 40, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "reet-rajasthan-teacher-exam-guide" },
   ],
   "Tamil Nadu": [
     { name: "TNPSC Group 1", organization: "TNPSC", ageMin: 21, ageMax: 32, ageRelaxation: { obc: 0, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "tnpsc-group-1-exam-guide" },
-    { name: "TNPSC Group 2", organization: "TNPSC", ageMin: 18, ageMax: 32, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "tnpsc-group-2-exam-guide" },
+    { name: "TNPSC Group 2", organization: "TNPSC", ageMin: 18, ageMax: 32, ageRelaxation: NO_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "tnpsc-group-2-exam-guide" },
+    { name: "TNPSC Group 4", organization: "TNPSC", ageMin: 18, ageMax: 30, ageRelaxation: STD_RELAX, minEducation: "10th", genderRestriction: null, guideSlug: "tnpsc-group-4-exam-guide" },
+    { name: "TN SI (Sub-Inspector)", organization: "TNUSRB", ageMin: 21, ageMax: 28, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "tn-si-police-exam-guide" },
+    { name: "TN TET/TRB", organization: "TRB", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "tn-tet-trb-exam-guide" },
   ],
   "Karnataka": [
-    { name: "KPSC", organization: "KPSC", ageMin: 21, ageMax: 35, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "kpsc-exam-guide" },
+    { name: "KPSC", organization: "KPSC", ageMin: 21, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "kpsc-exam-guide" },
+    { name: "Karnataka FDA/SDA", organization: "KPSC", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "kpsc-fda-sda-exam-guide" },
+    { name: "Karnataka Police Constable", organization: "KSP", ageMin: 18, ageMax: 25, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "karnataka-police-constable-exam-guide" },
+    { name: "Karnataka TET (KARTET)", organization: "Dept of Education", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "karnataka-tet-exam-guide" },
   ],
   "West Bengal": [
-    { name: "WBPSC", organization: "WBPSC", ageMin: 21, ageMax: 36, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "wbpsc-exam-guide" },
+    { name: "WBPSC", organization: "WBPSC", ageMin: 21, ageMax: 36, ageRelaxation: NO_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "wbpsc-exam-guide" },
+    { name: "WB Police Constable", organization: "WBPRB", ageMin: 18, ageMax: 25, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "wb-police-constable-exam-guide" },
+    { name: "WB TET", organization: "WBBPE", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "wb-tet-exam-guide" },
+    { name: "WB Clerkship", organization: "WBPSC", ageMin: 18, ageMax: 28, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "wb-clerk-exam-guide" },
   ],
   "Gujarat": [
-    { name: "GPSC", organization: "GPSC", ageMin: 21, ageMax: 35, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "gpsc-exam-guide" },
+    { name: "GPSC", organization: "GPSC", ageMin: 21, ageMax: 35, ageRelaxation: NO_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "gpsc-exam-guide" },
+    { name: "Gujarat Police Constable", organization: "Gujarat LRD", ageMin: 18, ageMax: 25, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "gujarat-police-constable-exam-guide" },
+    { name: "Gujarat Talati cum Mantri", organization: "GPSSB", ageMin: 18, ageMax: 33, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "gujarat-talati-exam-guide" },
+    { name: "Gujarat TET (GTET)", organization: "SEB Gujarat", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "gtet-gujarat-tet-exam-guide" },
+  ],
+  "Maharashtra": [
+    { name: "MPSC (Maharashtra PSC)", organization: "MPSC", ageMin: 19, ageMax: 38, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "mpsc-exam-guide" },
+    { name: "Maharashtra Police Constable", organization: "Maha Police", ageMin: 18, ageMax: 25, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "maharashtra-police-constable-exam-guide" },
+    { name: "Maharashtra Talathi", organization: "Maha Revenue", ageMin: 18, ageMax: 38, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "maharashtra-talathi-exam-guide" },
+    { name: "Maharashtra TET (MAHATET)", organization: "Maha Exam Council", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "maha-tet-exam-guide" },
   ],
   "Haryana": [
-    { name: "HPSC", organization: "HPSC", ageMin: 21, ageMax: 42, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "hpsc-exam-guide" },
+    { name: "HPSC", organization: "HPSC", ageMin: 21, ageMax: 42, ageRelaxation: NO_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "hpsc-exam-guide" },
+    { name: "Haryana Police Constable", organization: "HSSC", ageMin: 18, ageMax: 25, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "haryana-police-constable-exam-guide" },
+    { name: "HSSC Clerk", organization: "HSSC", ageMin: 18, ageMax: 42, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "hssc-clerk-exam-guide" },
+    { name: "HTET (Haryana TET)", organization: "BSEH", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "htet-haryana-tet-exam-guide" },
   ],
   "Uttarakhand": [
-    { name: "UKPSC", organization: "UKPSC", ageMin: 21, ageMax: 42, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "ukpsc-exam-guide" },
+    { name: "UKPSC", organization: "UKPSC", ageMin: 21, ageMax: 42, ageRelaxation: NO_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "ukpsc-exam-guide" },
+    { name: "Uttarakhand Police Constable", organization: "UK Police", ageMin: 18, ageMax: 25, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "uttarakhand-police-constable-exam-guide" },
+    { name: "UKTET (Uttarakhand TET)", organization: "UBSE", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "uktet-uttarakhand-tet-exam-guide" },
   ],
   "Andhra Pradesh": [
-    { name: "APPSC", organization: "APPSC", ageMin: 18, ageMax: 42, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "appsc-exam-guide" },
+    { name: "APPSC", organization: "APPSC", ageMin: 18, ageMax: 42, ageRelaxation: NO_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "appsc-exam-guide" },
+    { name: "AP Police Constable", organization: "APSLPRB", ageMin: 18, ageMax: 25, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "ap-police-constable-exam-guide" },
+    { name: "AP TET (APTET)", organization: "AP Education", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "ap-tet-exam-guide" },
   ],
   "Telangana": [
-    { name: "TSPSC", organization: "TSPSC", ageMin: 18, ageMax: 44, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "tspsc-exam-guide" },
+    { name: "TSPSC", organization: "TSPSC", ageMin: 18, ageMax: 44, ageRelaxation: NO_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "tspsc-exam-guide" },
+    { name: "TS Police Constable", organization: "TSLPRB", ageMin: 18, ageMax: 25, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "ts-police-constable-exam-guide" },
+    { name: "TS TET", organization: "TS Education", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "ts-tet-exam-guide" },
   ],
   "Jharkhand": [
-    { name: "JPSC", organization: "JPSC", ageMin: 21, ageMax: 35, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "jpsc-exam-guide" },
+    { name: "JPSC", organization: "JPSC", ageMin: 21, ageMax: 35, ageRelaxation: NO_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "jpsc-exam-guide" },
+    { name: "Jharkhand Police Constable", organization: "JSSC", ageMin: 18, ageMax: 25, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "jharkhand-police-constable-exam-guide" },
+    { name: "JTET (Jharkhand TET)", organization: "JAC", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "jtet-jharkhand-tet-exam-guide" },
   ],
   "Kerala": [
-    { name: "Kerala PSC", organization: "Kerala PSC", ageMin: 18, ageMax: 36, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "kerala-psc-exam-guide" },
+    { name: "Kerala PSC", organization: "Kerala PSC", ageMin: 18, ageMax: 36, ageRelaxation: NO_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "kerala-psc-exam-guide" },
+    { name: "Kerala Police Constable", organization: "Kerala PSC", ageMin: 18, ageMax: 25, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "kerala-police-constable-exam-guide" },
+    { name: "Kerala TET (KTET)", organization: "Kerala Education", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "kerala-tet-exam-guide" },
   ],
   "Odisha": [
     { name: "OPSC", organization: "OPSC", ageMin: 21, ageMax: 32, ageRelaxation: { obc: 3, sc: 5, st: 5, ews: 0, disability: 10, exServicemen: 5, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "opsc-exam-guide" },
+    { name: "Odisha Police Constable", organization: "Odisha Police", ageMin: 18, ageMax: 25, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "odisha-police-constable-exam-guide" },
+    { name: "OTET (Odisha TET)", organization: "BSE Odisha", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "otet-odisha-tet-exam-guide" },
   ],
   "Punjab": [
-    { name: "Punjab PCS", organization: "PPSC", ageMin: 21, ageMax: 37, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "ppsc-pcs-exam-guide" },
+    { name: "Punjab PCS", organization: "PPSC", ageMin: 21, ageMax: 37, ageRelaxation: NO_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "ppsc-pcs-exam-guide" },
+    { name: "Punjab Police Constable", organization: "Punjab Police", ageMin: 18, ageMax: 25, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "punjab-police-constable-exam-guide" },
+    { name: "PSTET (Punjab TET)", organization: "PSEB", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "pstet-punjab-tet-exam-guide" },
   ],
   "Chhattisgarh": [
-    { name: "Chhattisgarh PSC", organization: "CGPSC", ageMin: 21, ageMax: 40, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "cgpsc-exam-guide" },
+    { name: "Chhattisgarh PSC", organization: "CGPSC", ageMin: 21, ageMax: 40, ageRelaxation: NO_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "cgpsc-exam-guide" },
+    { name: "CG Police Constable", organization: "CG Police", ageMin: 18, ageMax: 25, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "cg-police-constable-exam-guide" },
+    { name: "CG TET", organization: "CG Vyapam", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "cg-tet-exam-guide" },
   ],
   "Assam": [
-    { name: "Assam PSC", organization: "APSC", ageMin: 21, ageMax: 38, ageRelaxation: { obc: 0, sc: 0, st: 0, ews: 0, disability: 0, exServicemen: 0, female: 0 }, minEducation: "graduate", genderRestriction: null, guideSlug: "apsc-exam-guide" },
-  ],
-  "Maharashtra": [
-    // Maharashtra doesn't have a separate entry in the given list but keeping state structure
+    { name: "Assam PSC", organization: "APSC", ageMin: 21, ageMax: 38, ageRelaxation: NO_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "apsc-exam-guide" },
+    { name: "Assam Police Constable", organization: "SLPRB Assam", ageMin: 18, ageMax: 25, ageRelaxation: STD_RELAX, minEducation: "12th", genderRestriction: null, guideSlug: "assam-police-constable-exam-guide" },
+    { name: "Assam TET", organization: "SSA Assam", ageMin: 18, ageMax: 35, ageRelaxation: STD_RELAX, minEducation: "graduate", genderRestriction: null, guideSlug: "assam-tet-exam-guide" },
   ],
 };
 
@@ -213,13 +266,9 @@ export default function JobEligibilityChecker() {
           <div>
             <div className="flex items-center gap-2 flex-wrap">
               <span className="text-lg font-semibold text-gray-900">
-                {r.exam.guideSlug ? (
-                  <Link href={`/guide/${r.exam.guideSlug}`} target="_blank" rel="noopener" className="hover:text-orange-600 underline decoration-dotted underline-offset-2">
-                    {r.exam.name}
-                  </Link>
-                ) : (
-                  r.exam.name
-                )}
+                <Link href={`/guide/${r.exam.guideSlug}`} target="_blank" rel="noopener" className="hover:text-orange-600 underline decoration-dotted underline-offset-2">
+                  {r.exam.name}
+                </Link>
               </span>
               <span className="text-xs px-2 py-0.5 rounded-full bg-gray-100 text-gray-500">{r.exam.organization}</span>
             </div>
@@ -264,7 +313,7 @@ export default function JobEligibilityChecker() {
         🎯 Government Job Eligibility <span className="text-orange-600">Checker</span>
       </h1>
       <p className="text-gray-600 mb-6">
-        Enter your details to instantly check your eligibility for 25+ national government exams and state PSC/Police jobs — UPSC, SSC, Banking, Railways, Defence & more.
+        Enter your details to instantly check your eligibility for 27+ national government exams and 70+ state PSC/Police/Teacher jobs — UPSC, SSC, Banking, Railways, Defence & more.
       </p>
 
       {/* ── Form ── */}
@@ -372,21 +421,21 @@ export default function JobEligibilityChecker() {
       )}
 
       <div className="flex flex-wrap gap-3 mb-8">
-        <Link href="/calculator/age-eligibility" className="text-sm text-orange-600 hover:underline">→ Age Eligibility Checker</Link>
-        <Link href="/calculator/income-tax" className="text-sm text-orange-600 hover:underline">→ Income Tax Calculator</Link>
-        <Link href="/calculator" className="text-sm text-orange-600 hover:underline">→ All Calculators</Link>
+        <Link href="/calculator/age-eligibility" target="_blank" rel="noopener" className="text-sm text-orange-600 hover:underline">→ Age Eligibility Checker</Link>
+        <Link href="/calculator/income-tax" target="_blank" rel="noopener" className="text-sm text-orange-600 hover:underline">→ Income Tax Calculator</Link>
+        <Link href="/calculator" target="_blank" rel="noopener" className="text-sm text-orange-600 hover:underline">→ All Calculators</Link>
       </div>
 
       <div className="bg-white rounded-xl border border-gray-200 p-6">
         <h2 className="text-lg font-bold text-gray-900 mb-4">Frequently Asked Questions</h2>
         {[
-          ["How does the eligibility checker work?", "Enter your basic details like date of birth, category, education level, and gender. The tool compares your profile against the eligibility criteria of 25+ national exams and state-specific jobs, showing you which ones you qualify for."],
+          ["How does the eligibility checker work?", "Enter your basic details like date of birth, category, education level, and gender. The tool compares your profile against the eligibility criteria of 27+ national exams and 70+ state-specific jobs, showing you which ones you qualify for."],
           ["Does it account for age relaxation?", "Yes! Age relaxation is automatically applied based on your category (OBC: 3 years, SC/ST: 5 years) and disability status (10 years) as per standard government rules. State PSCs may have different relaxation — we use their specific rules."],
           ["Is this eligibility check 100% accurate?", "This tool uses general eligibility rules. Specific recruitment cycles may have different criteria. Always verify with the official notification before applying."],
-          ["Which exams are covered?", "We cover UPSC (CSE, CDS, NDA), SSC (CGL, CHSL, MTS, GD), Banking (IBPS, SBI, RBI), Railways (NTPC, Group D, ALP), Defence (Agniveer), GATE, UGC NET, CTET, LIC, EPFO, and more."],
+          ["Which exams are covered?", "We cover UPSC (CSE, CDS, NDA, IES/ISS), SSC (CGL, CHSL, MTS, GD, Steno), Banking (IBPS PO/Clerk/SO, SBI, RBI), Railways (NTPC, Group D, ALP), Defence (Agniveer), GATE, UGC NET, CTET, LIC AAO, EPFO SSA, and 70+ state-level exams."],
           ["Can women apply for NDA and defence exams?", "Women can apply for NDA and CDS. Agniveer entries for Army, Navy, and Air Force currently have specific gender requirements — check the latest notification."],
-          ["Does it show state PSC and police jobs?", "Yes! Select your state from the dropdown to see state-specific PSC exams (UPPSC, BPSC, MPPSC, RPSC, TNPSC, KPSC, etc.) and police constable vacancies with their specific age limits and relaxations."],
-          ["Which state jobs are covered?", "We cover State PSC exams for 19 states including UP, Bihar, MP, Rajasthan, Tamil Nadu, Karnataka, West Bengal, Gujarat, Haryana, Uttarakhand, AP, Telangana, Jharkhand, Kerala, Odisha, Punjab, Chhattisgarh, and Assam. Police constable data is available for UP, Bihar, MP, and Rajasthan."],
+          ["Does it show state PSC and police jobs?", "Yes! Select your state from the dropdown to see state-specific PSC exams, Police Constable, Sub-Inspector, Teacher Eligibility (TET), and other state government jobs with their specific eligibility criteria."],
+          ["Which state jobs are covered?", "We cover 20 states: UP, Bihar, MP, Rajasthan, Tamil Nadu, Karnataka, West Bengal, Gujarat, Maharashtra, Haryana, Uttarakhand, AP, Telangana, Jharkhand, Kerala, Odisha, Punjab, Chhattisgarh, Assam. Each state has 3-6 entries including PSC, Police, SI, TET, and revenue/clerk posts."],
         ].map(([q, a]) => (
           <details key={q} className="mb-3 group">
             <summary className="cursor-pointer font-medium text-gray-800 group-open:text-orange-600">{q}</summary>
