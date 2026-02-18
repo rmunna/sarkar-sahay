@@ -85,16 +85,16 @@
 - [x] khata-transfer-property — Khata transfer
 - [x] land-conversion-agricultural — Agri to non-agri land
 - [x] building-plan-approval-online — Building plan sanction
-- [ ] rera-complaint-filing — RERA complaint process
-- [ ] tenant-rights-india — Tenant rights guide
-- [ ] landlord-rights-india — Landlord rights guide
-- [ ] will-registration-india — Will/testament registration
-- [ ] power-of-attorney-india — POA types and registration
-- [ ] court-case-status-check — Check case status online
-- [ ] fir-online-filing — Online FIR filing
-- [ ] rti-application-online — RTI filing guide
-- [ ] cyber-crime-complaint — Cyber crime reporting
-- [ ] consumer-court-guide-detailed — Consumer court detailed
+- [x] rera-complaint-filing — RERA complaint process
+- [x] tenant-rights-india — Tenant rights guide
+- [x] landlord-rights-india — Landlord rights guide
+- [x] will-registration-india — Will/testament registration
+- [x] power-of-attorney-india — POA types and registration
+- [x] court-case-status-check — Check case status online
+- [x] fir-online-filing — Online FIR filing
+- [x] rti-application-online — RTI filing guide
+- [x] cyber-crime-complaint — Cyber crime reporting
+- [x] consumer-court-guide-detailed — Consumer court detailed
 
 ## Priority 5: Food & Ration (gaps)
 - [ ] ration-card-types-aph-bpl-aay — Ration card types explained
