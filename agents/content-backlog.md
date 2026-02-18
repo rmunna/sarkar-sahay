@@ -130,18 +130,18 @@
 - [x] delhi-doorstep-delivery-services — Delhi doorstep services
 
 ### J&K
-- [ ] jk-mumkin-scheme — J&K livelihood scheme
-- [ ] jk-tejaswini-scheme — J&K women empowerment
+- [x] jk-mumkin-scheme — J&K livelihood scheme
+- [x] jk-tejaswini-scheme — J&K women empowerment
 
 ## Priority 7: More Jobs & Exams (remaining gaps)
-- [ ] ias-preparation-guide-beginners — IAS prep for beginners
-- [ ] neet-ug-exam-guide — NEET UG medical entrance
-- [ ] neet-pg-exam-guide — NEET PG
-- [ ] jee-main-exam-guide — JEE Main engineering
-- [ ] jee-advanced-exam-guide — JEE Advanced IIT
-- [ ] clat-law-entrance-exam — CLAT law entrance
-- [ ] cat-mba-entrance-exam — CAT MBA entrance
-- [ ] cuet-ug-exam-guide — CUET UG entrance
+- [x] ias-preparation-guide-beginners — IAS prep for beginners
+- [x] neet-ug-exam-guide — NEET UG medical entrance
+- [x] neet-pg-exam-guide — NEET PG
+- [x] jee-main-exam-guide — JEE Main engineering
+- [x] jee-advanced-exam-guide — JEE Advanced IIT
+- [x] clat-law-entrance-exam — CLAT law entrance
+- [x] cat-mba-entrance-exam — CAT MBA entrance
+- [x] cuet-ug-exam-guide — CUET UG entrance
 - [ ] nda-preparation-guide-detailed — NDA detailed prep
 - [ ] indian-forest-service-exam — IFoS exam guide
 - [ ] fci-recruitment-guide — FCI manager exam
