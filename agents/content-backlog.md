@@ -97,19 +97,19 @@
 - [x] consumer-court-guide-detailed — Consumer court detailed
 
 ## Priority 5: Food & Ration (gaps)
-- [ ] ration-card-types-aph-bpl-aay — Ration card types explained
-- [ ] ration-card-surrender-cancel — Cancel ration card
-- [ ] ration-card-add-remove-member — Add/remove member
-- [ ] ration-card-portability — Ration card portability
-- [ ] fair-price-shop-complaint — FPS complaint process
-- [ ] mid-day-meal-scheme — MDM scheme info
-- [ ] anganwadi-services-icds — ICDS/Anganwadi services
+- [x] ration-card-types-aph-bpl-aay — Ration card types explained
+- [x] ration-card-surrender-cancel — Cancel ration card
+- [x] ration-card-add-remove-member — Add/remove member
+- [x] ration-card-portability — Ration card portability
+- [x] fair-price-shop-complaint — FPS complaint process
+- [x] mid-day-meal-scheme — MDM scheme info
+- [x] anganwadi-services-icds — ICDS/Anganwadi services
 
 ## Priority 6: State Schemes (remaining states without enough coverage)
 ### Himachal Pradesh
-- [ ] hp-medha-protsahan-yojana — HP merit scholarship
-- [ ] hp-sahara-yojana — HP health assistance
-- [ ] hp-mukhyamantri-swavalamban-yojana — HP self-employment
+- [x] hp-medha-protsahan-yojana — HP merit scholarship
+- [x] hp-sahara-yojana — HP health assistance
+- [x] hp-mukhyamantri-swavalamban-yojana — HP self-employment
 
 ### Uttarakhand
 - [ ] uk-gaura-devi-kanya-dhan — UK girls' scheme
