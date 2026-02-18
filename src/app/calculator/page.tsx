@@ -4,7 +4,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Free Financial Calculators & Tools for India",
   description:
-    "Free calculators for EMI, SIP, FD, PPF, income tax, HRA, gratuity, salary, stamp duty, rent receipts & eligibility checkers — updated for FY 2025-26.",
+    "22 free calculators — EMI, SIP, FD, PPF, GST, NPS, income tax, HRA, gratuity, home loan eligibility, retirement, education cost & more. Updated for FY 2025-26.",
 };
 
 const calculators = [
@@ -91,6 +91,54 @@ const calculators = [
     title: "Scheme & Service Eligibility Checker",
     description: "Check age eligibility for government schemes, services & benefits.",
     href: "/calculator/age-eligibility",
+  },
+  {
+    icon: "🧾",
+    title: "GST Calculator",
+    description: "Calculate GST (CGST + SGST/IGST) for any amount. Inclusive & exclusive modes.",
+    href: "/calculator/gst",
+  },
+  {
+    icon: "🏦",
+    title: "NPS Calculator",
+    description: "Estimate your National Pension System corpus, annuity & lump sum at retirement.",
+    href: "/calculator/nps",
+  },
+  {
+    icon: "📊",
+    title: "Lumpsum Calculator",
+    description: "Calculate mutual fund lumpsum returns vs FD with year-wise comparison.",
+    href: "/calculator/lumpsum",
+  },
+  {
+    icon: "📐",
+    title: "Interest Calculator",
+    description: "Compare simple vs compound interest with different compounding frequencies.",
+    href: "/calculator/interest",
+  },
+  {
+    icon: "🏡",
+    title: "Home Loan Eligibility",
+    description: "Check maximum home loan you're eligible for based on income & existing EMIs.",
+    href: "/calculator/home-loan-eligibility",
+  },
+  {
+    icon: "🧓",
+    title: "Retirement Calculator",
+    description: "Plan your retirement — corpus needed, monthly SIP required & gap analysis.",
+    href: "/calculator/retirement",
+  },
+  {
+    icon: "🎓",
+    title: "Education Cost Calculator",
+    description: "Estimate future education costs for IIT, MBBS, MBA, abroad — with SIP planning.",
+    href: "/calculator/education-cost",
+  },
+  {
+    icon: "🚗",
+    title: "Car Loan Calculator",
+    description: "EMI, on-road price breakdown, depreciation schedule & total cost of ownership.",
+    href: "/calculator/car-loan",
   },
 ];
 
