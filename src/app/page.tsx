@@ -23,23 +23,6 @@ export default function Home() {
     .sort((a, b) => a.title.localeCompare(b.title))
     .slice(0, 12);
   const allUpdates = getActiveUpdates();
-  // Search index (only what's needed) — include both guides and updates
-  const searchGuides = [
-    ...allGuides.map((g) => ({
-      slug: g.slug,
-      title: g.title,
-      description: g.description,
-      category: g.category,
-      type: "guide" as const,
-    })),
-    ...allUpdates.map((u) => ({
-      slug: u.slug,
-      title: u.title,
-      description: u.description,
-      category: u.organization + " — " + u.category,
-      type: "update" as const,
-    })),
-  ];
 
   return (
     <div>
@@ -58,7 +41,7 @@ export default function Home() {
         </p>
         {/* Search Bar */}
         <div className="mt-8 flex justify-center">
-          <SearchBar guides={searchGuides} />
+          <SearchBar />
         </div>
         <div className="mt-5 flex flex-wrap justify-center gap-3">
           <Link
@@ -101,7 +84,7 @@ export default function Home() {
                     <div className="flex items-center gap-2 mb-1">
                       <span className="text-xs font-semibold text-orange-600">{u.organization}</span>
                       {u.vacancies && (
-                        <span className="text-xs text-gray-400">
+                        <span className="text-xs text-gray-500">
                           {typeof u.vacancies === "number" ? `${u.vacancies.toLocaleString("en-IN")} posts` : u.vacancies}
                         </span>
                       )}
@@ -138,7 +121,7 @@ export default function Home() {
                   <div className="font-semibold text-gray-900 group-hover:text-orange-600 transition text-sm">
                     {cat.name}
                   </div>
-                  <div className="text-xs text-gray-400">
+                  <div className="text-xs text-gray-500">
                     {cat.count} {cat.count === 1 ? "guide" : "guides"}
                   </div>
                 </div>
@@ -153,7 +136,7 @@ export default function Home() {
         <div className="flex items-center justify-between mb-6">
           <h2 className="text-2xl font-bold text-gray-900">
             Latest Guides
-            <span className="text-base font-normal text-gray-400 ml-2">
+            <span className="text-base font-normal text-gray-500 ml-2">
               ({allGuides.length} total)
             </span>
           </h2>
@@ -167,10 +150,10 @@ export default function Home() {
         {guides.length === 0 ? (
           <div className="text-center py-20 bg-white rounded-2xl border border-gray-200">
             <div className="text-4xl mb-4">🚀</div>
-            <p className="text-xl text-gray-400 font-medium">
+            <p className="text-xl text-gray-500 font-medium">
               Guides are being generated...
             </p>
-            <p className="text-gray-400 mt-2">
+            <p className="text-gray-500 mt-2">
               Our AI agents are researching and writing. Check back soon!
             </p>
           </div>
@@ -181,7 +164,7 @@ export default function Home() {
                 <Link key={guide.slug} href={`/guide/${guide.slug}`} className="guide-card group">
                   <div className="flex items-center gap-2 mb-3">
                     <span className="text-lg">{CATEGORY_ICONS[guide.category] || "📋"}</span>
-                    <span className="text-xs font-semibold text-gray-400 uppercase tracking-wide">
+                    <span className="text-xs font-semibold text-gray-500 uppercase tracking-wide">
                       {guide.category}
                     </span>
                   </div>
@@ -192,7 +175,7 @@ export default function Home() {
                     {guide.description}
                   </p>
                   {guide.readingTime && (
-                    <div className="text-xs text-gray-400">
+                    <div className="text-xs text-gray-500">
                       <span>{guide.readingTime} read</span>
                     </div>
                   )}

@@ -101,12 +101,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </Link>
             {/* Desktop nav */}
             <div className="hidden md:flex gap-1">
-              <Link href="/" className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">Home</Link>
-              <Link href="/categories" className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">Categories</Link>
-              <Link href="/calculator" className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">Calculators</Link>
-              <Link href="/updates" className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">Updates</Link>
-              <Link href="/about" className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">About</Link>
-              <Link href="/hi" className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">🇮🇳 हिन्दी</Link>
+              <Link href="/" prefetch={false} className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">Home</Link>
+              <Link href="/categories" prefetch={false} className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">Categories</Link>
+              <Link href="/calculator" prefetch={false} className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">Calculators</Link>
+              <Link href="/updates" prefetch={false} className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">Updates</Link>
+              <Link href="/about" prefetch={false} className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">About</Link>
+              <Link href="/hi" prefetch={false} className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">🇮🇳 हिन्दी</Link>
             </div>
             {/* Mobile hamburger */}
             <MobileNav />

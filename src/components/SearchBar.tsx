@@ -3,54 +3,60 @@
 import { useState, useEffect, useRef, useCallback } from "react";
 import Link from "next/link";
 
-interface SearchGuide {
-  slug: string;
-  title: string;
-  description: string;
-  category: string;
-  type?: "guide" | "update";
+interface SearchItem {
+  s: string; // slug
+  t: string; // title
+  d: string; // description
+  c: string; // category
+  u?: 1;     // update flag
 }
 
-interface SearchBarProps {
-  guides: SearchGuide[];
-}
-
-export default function SearchBar({ guides }: SearchBarProps) {
+export default function SearchBar() {
   const [query, setQuery] = useState("");
   const [isOpen, setIsOpen] = useState(false);
-  const [results, setResults] = useState<SearchGuide[]>([]);
+  const [results, setResults] = useState<SearchItem[]>([]);
   const [selectedIndex, setSelectedIndex] = useState(-1);
+  const [index, setIndex] = useState<SearchItem[] | null>(null);
   const inputRef = useRef<HTMLInputElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
 
+  // Lazy-load search index on first focus
+  const loadIndex = useCallback(() => {
+    if (index) return;
+    fetch("/api/search-index")
+      .then((r) => r.json())
+      .then((data) => setIndex(data))
+      .catch(() => {});
+  }, [index]);
+
   const search = useCallback(
     (q: string) => {
-      if (!q.trim()) {
+      if (!q.trim() || !index) {
         setResults([]);
         return;
       }
       const terms = q.toLowerCase().split(/\s+/).filter(Boolean);
-      const scored = guides
-        .map((guide) => {
-          const titleLower = guide.title.toLowerCase();
-          const descLower = guide.description.toLowerCase();
-          const catLower = guide.category.toLowerCase();
+      const scored = index
+        .map((item) => {
+          const tl = item.t.toLowerCase();
+          const dl = item.d.toLowerCase();
+          const cl = item.c.toLowerCase();
           let score = 0;
           for (const term of terms) {
-            if (titleLower.includes(term)) score += 10;
-            if (titleLower.startsWith(term)) score += 5;
-            if (catLower.includes(term)) score += 3;
-            if (descLower.includes(term)) score += 1;
+            if (tl.includes(term)) score += 10;
+            if (tl.startsWith(term)) score += 5;
+            if (cl.includes(term)) score += 3;
+            if (dl.includes(term)) score += 1;
           }
-          return { guide, score };
+          return { item, score };
         })
         .filter((r) => r.score > 0)
         .sort((a, b) => b.score - a.score)
         .slice(0, 8)
-        .map((r) => r.guide);
+        .map((r) => r.item);
       setResults(scored);
     },
-    [guides]
+    [index]
   );
 
   useEffect(() => {
@@ -58,7 +64,6 @@ export default function SearchBar({ guides }: SearchBarProps) {
     setSelectedIndex(-1);
   }, [query, search]);
 
-  // Close on click outside
   useEffect(() => {
     function handleClick(e: MouseEvent) {
       if (containerRef.current && !containerRef.current.contains(e.target as Node)) {
@@ -69,13 +74,13 @@ export default function SearchBar({ guides }: SearchBarProps) {
     return () => document.removeEventListener("mousedown", handleClick);
   }, []);
 
-  // Keyboard shortcut: Ctrl+K or Cmd+K to focus
   useEffect(() => {
     function handleKeyDown(e: KeyboardEvent) {
       if ((e.metaKey || e.ctrlKey) && e.key === "k") {
         e.preventDefault();
         inputRef.current?.focus();
         setIsOpen(true);
+        loadIndex();
       }
       if (e.key === "Escape") {
         setIsOpen(false);
@@ -84,7 +89,7 @@ export default function SearchBar({ guides }: SearchBarProps) {
     }
     document.addEventListener("keydown", handleKeyDown);
     return () => document.removeEventListener("keydown", handleKeyDown);
-  }, []);
+  }, [loadIndex]);
 
   function handleKeyDown(e: React.KeyboardEvent) {
     if (e.key === "ArrowDown") {
@@ -97,7 +102,7 @@ export default function SearchBar({ guides }: SearchBarProps) {
       setIsOpen(false);
       setQuery("");
       const r = results[selectedIndex];
-      window.location.href = r.type === "update" ? `/update/${r.slug}` : `/guide/${r.slug}`;
+      window.location.href = r.u ? `/update/${r.s}` : `/guide/${r.s}`;
     }
   }
 
@@ -124,27 +129,32 @@ export default function SearchBar({ guides }: SearchBarProps) {
           onChange={(e) => {
             setQuery(e.target.value);
             setIsOpen(true);
+            loadIndex();
           }}
-          onFocus={() => setIsOpen(true)}
+          onFocus={() => {
+            setIsOpen(true);
+            loadIndex();
+          }}
           onKeyDown={handleKeyDown}
           placeholder="Search guides... (⌘K)"
           className="w-full pl-10 pr-4 py-2.5 bg-gray-50 border border-gray-200 rounded-xl text-sm text-gray-900 placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-orange-300 focus:border-orange-300 transition"
         />
       </div>
 
-      {/* Results dropdown */}
       {isOpen && query.trim() && (
         <div className="absolute top-full mt-2 w-full bg-white border border-gray-200 rounded-xl shadow-lg z-50 overflow-hidden">
-          {results.length === 0 ? (
+          {!index ? (
+            <div className="px-4 py-6 text-center text-sm text-gray-400">Loading...</div>
+          ) : results.length === 0 ? (
             <div className="px-4 py-6 text-center text-sm text-gray-400">
               No guides found for &ldquo;{query}&rdquo;
             </div>
           ) : (
             <ul className="py-1">
-              {results.map((guide, i) => (
-                <li key={guide.slug}>
+              {results.map((item, i) => (
+                <li key={item.s}>
                   <Link
-                    href={guide.type === "update" ? `/update/${guide.slug}` : `/guide/${guide.slug}`}
+                    href={item.u ? `/update/${item.s}` : `/guide/${item.s}`}
                     onClick={() => {
                       setIsOpen(false);
                       setQuery("");
@@ -154,10 +164,10 @@ export default function SearchBar({ guides }: SearchBarProps) {
                     }`}
                   >
                     <div className="flex items-center gap-2">
-                      {guide.type === "update" && <span className="text-xs px-1.5 py-0.5 bg-red-100 text-red-700 rounded font-semibold">NEW</span>}
-                      <span className="font-medium text-sm text-gray-900">{guide.title}</span>
+                      {item.u && <span className="text-xs px-1.5 py-0.5 bg-red-100 text-red-700 rounded font-semibold">NEW</span>}
+                      <span className="font-medium text-sm text-gray-900">{item.t}</span>
                     </div>
-                    <div className="text-xs text-gray-400 mt-0.5">{guide.category}</div>
+                    <div className="text-xs text-gray-400 mt-0.5">{item.c}</div>
                   </Link>
                 </li>
               ))}

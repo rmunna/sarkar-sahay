@@ -12,18 +12,11 @@ export const metadata: Metadata = {
 export default function CategoriesPage() {
   const categories = getCategories();
   const guides = getAllGuides();
-  const searchGuides = guides.map((g) => ({
-    slug: g.slug,
-    title: g.title,
-    description: g.description,
-    category: g.category,
-  }));
-
   return (
     <div>
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-8">
         <h1 className="text-3xl font-bold">All Categories</h1>
-        <SearchBar guides={searchGuides} />
+        <SearchBar />
       </div>
 
       {categories.length === 0 ? (
