@@ -9,7 +9,7 @@
       "tier": 1,
       "searchQueries": ["SSC notification 2026", "SSC CGL 2026", "SSC CHSL 2026", "SSC MTS 2026", "SSC GD 2026"],
       "exams": ["CGL", "CHSL", "MTS", "GD Constable", "CPO", "JE", "Stenographer", "JHT"],
-      "lastScanned": "2026-02-17"
+      "lastScanned": "2026-02-18"
     },
     {
       "id": "upsc",
@@ -19,7 +19,7 @@
       "tier": 1,
       "searchQueries": ["UPSC notification 2026", "UPSC Civil Services 2026", "UPSC NDA 2026", "UPSC CDS 2026"],
       "exams": ["Civil Services", "NDA", "CDS", "CAPF", "IES/ISS", "CMS", "IFS"],
-      "lastScanned": "2026-02-17"
+      "lastScanned": "2026-02-18"
     },
     {
       "id": "rrb",
@@ -29,7 +29,7 @@
       "tier": 1,
       "searchQueries": ["RRB recruitment 2026", "Railway NTPC 2026", "RRB Group D 2026", "RRB ALP 2026"],
       "exams": ["NTPC", "Group D", "ALP", "JE", "Paramedical", "Ministerial"],
-      "lastScanned": "2026-02-17"
+      "lastScanned": "2026-02-18"
     },
     {
       "id": "ibps",
@@ -39,7 +39,7 @@
       "tier": 1,
       "searchQueries": ["IBPS PO 2026", "IBPS Clerk 2026", "IBPS SO 2026", "IBPS RRB 2026"],
       "exams": ["PO", "Clerk", "SO", "RRB Officer", "RRB Office Assistant"],
-      "lastScanned": "2026-02-17"
+      "lastScanned": "2026-02-18"
     },
     {
       "id": "sbi",
@@ -49,7 +49,7 @@
       "tier": 1,
       "searchQueries": ["SBI PO 2026", "SBI Clerk 2026", "SBI SO 2026"],
       "exams": ["PO", "Clerk", "SO"],
-      "lastScanned": "2026-02-17"
+      "lastScanned": "2026-02-18"
     },
     {
       "id": "nta",
@@ -59,7 +59,7 @@
       "tier": 1,
       "searchQueries": ["JEE Main 2026", "NEET 2026", "CUET 2026", "UGC NET 2026"],
       "exams": ["JEE Main", "NEET UG", "CUET UG", "CUET PG", "UGC NET", "CSIR NET"],
-      "lastScanned": "2026-02-17"
+      "lastScanned": "2026-02-18"
     },
     {
       "id": "gate",
