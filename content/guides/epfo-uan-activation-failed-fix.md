@@ -2,7 +2,7 @@
 title: "EPFO UAN Activation Failed: How to Fix"
 description: >-
   Troubleshooting guide for EPFO UAN activation failures. Fix UAN registration errors, OTP issues, Aadhaar mismatch, and member portal login problems.
-category: "Employment & Labour"
+category: "Utilities"
 keywords:
   - uan activation failed
   - epfo uan not activating
