@@ -1,203 +1,265 @@
 ---
-title: "Madhya Pradesh Government Schemes and Services — Complete Guide"
-description: "Comprehensive guide to all Madhya Pradesh government schemes including Ladli Bahna, Seekho Kamao, housing, health, education, agriculture, and pension schemes. Eligibility, benefits, and how to apply."
-category: "State Schemes"
+title: Madhya Pradesh Government Schemes and Services – Complete Guide
+description: >-
+  Comprehensive guide to all Madhya Pradesh government schemes and services
+  including Ladli Bahna, Seekho Kamao, Jan Kalyan Sambal, education, health,
+  housing, agriculture, pension with eligibility and how to apply.
+category: State Schemes
 keywords:
   - madhya pradesh government schemes
   - mp sarkari yojana
   - madhya pradesh welfare schemes
-  - ladli bahna yojana
-  - seekho kamao yojana
-  - mp women schemes
-  - mp farmer schemes
+  - ladli bahna yojana mp
+  - seekho kamao yojana mp
+  - mp government services
+  - mp pension scheme
+  - mp ration card
+  - mppsc exam
   - mp scholarship
-  - mp health scheme
-  - mp pension
-readingTime: "12 min"
+readingTime: 12 min
 officialLinks:
-  - https://mp.gov.in
-  - https://mpedistrict.gov.in
-  - https://samagra.gov.in
-  - https://nfsa.samagra.gov.in
+  - 'https://www.mp.gov.in/'
+  - 'https://mpedistrict.gov.in/'
+  - 'https://mpbhulekh.gov.in/'
 ---
 
-# Madhya Pradesh Government Schemes and Services — Complete Guide
+# Madhya Pradesh Government Schemes and Services – Complete Guide
 
-Madhya Pradesh, India's second-largest state by area with over 8.5 crore people, has expanded its welfare programmes significantly. Schemes like Ladli Bahna Yojana (monthly cash transfer for women) and Seekho Kamao Yojana (youth skill development) have become nationally prominent.
-
-This guide covers all major MP government schemes, portals, helplines, and how to apply.
+Madhya Pradesh has emerged as a leader in direct benefit transfer schemes with the hugely popular Ladli Bahna Yojana and the innovative Seekho Kamao internship programme. The state offers comprehensive welfare coverage across women's empowerment, youth employment, health, agriculture, and social security. This guide covers every major MP government scheme with eligibility, benefits, and application details.
 
 ## Key Government Portals in MP
 
-| Portal | Purpose | Website |
-|--------|---------|---------|
-| MP e-District | Certificates and government services | mpedistrict.gov.in |
-| Samagra Portal | Family/member ID and scheme tracking | samagra.gov.in |
-| MP Bhulekh | Land records (Khasra/B1) | mpbhulekh.gov.in |
-| IGRS MP | Property registration | mpigr.gov.in |
-| MP Online | Government services and bill payments | mponline.gov.in |
-| NFSA MP | Ration card and food security | nfsa.samagra.gov.in |
-
-## Important Helpline Numbers
-
-- **CM Helpline MP:** 181
-- **Women Helpline:** 181 / 1090
-- **Samagra Helpline:** 0755-2700800
-- **Police Emergency:** 112
-- **Cyber Crime:** 1930
-- **Health Helpline (104):** 104
-- **Ration Card Helpline:** 1800-233-6763
+- **MP e-District** – [mpedistrict.gov.in](https://mpedistrict.gov.in/) – Certificates, revenue services, and applications
+- **MP Bhulekh** – [mpbhulekh.gov.in](https://mpbhulekh.gov.in/) – Land records (Khasra, B1, map)
+- **MP Online** – [mponline.gov.in](https://mponline.gov.in/) – Kiosk-based government services
+- **Samagra Portal** – [samagra.gov.in](https://samagra.gov.in/) – Family and member ID system (required for most schemes)
+- **MP Treasury** – Salary, pension, and financial services
 
 ## Women Empowerment Schemes
 
 ### Ladli Bahna Yojana
 
-MP's flagship scheme provides ₹1,250 per month (being increased to ₹3,000 in phases) to women aged 23–60 years from lower and middle-income families.
+MP's most popular scheme providing ₹1,250 per month to women aged 21-60 from eligible families. One of India's largest direct women's benefit transfer programmes.
 
-**Eligibility:** MP domicile, annual family income below ₹2.5 lakh, not a taxpayer, Samagra ID required.
+**Key features:**
+- Monthly transfer of ₹1,250 (increased from original ₹1,000)
+- Covers married, widowed, divorced, and deserted women
+- Family income must be below ₹2.5 lakh/year
+- Samagra ID mandatory
 
-👉 Read the full guide: [Ladli Bahna Yojana MP](/guide/ladli-bahna-yojana-mp)
+Read the complete guide: [Ladli Bahna Yojana MP](/guide/ladli-bahna-yojana-mp) | [Madhya Pradesh Ladli Behna](/guide/madhya-pradesh-ladli-behna)
 
 ### Ladli Laxmi Yojana
 
-Financial support of ₹1,43,000 for girls from birth to age 21 through National Savings Certificates. Payments are made at school admission stages and a lump sum at age 21.
+Financial assistance for girl children from birth to marriage/higher education through National Savings Certificates.
 
-**Eligibility:** Girl child born to MP residents, parents not taxpayers, maximum two daughters.
+**Benefits:**
+- ₹1,18,000 in NSC deposits over 5 years
+- Scholarship payments at key education milestones (class 6, 9, 11, 12)
+- Final payment of ₹1 lakh at age 21 (if unmarried till 18)
 
-### Mukhyamantri Kalyani Sahayata Yojana
-
-Monthly pension of ₹600 for abandoned/destitute women and widows.
-
-## Education and Scholarship Schemes
+## Youth Employment and Skill Schemes
 
 ### Seekho Kamao Yojana (Learn and Earn)
 
-Youth skill development scheme providing stipend during training:
-- Class 12 pass: ₹8,000/month
-- ITI pass: ₹8,500/month
-- Diploma: ₹9,000/month
-- Graduate+: ₹10,000/month
+Innovative internship scheme providing stipend to youth (18-29) while they learn skills at registered establishments.
 
-75% of stipend is paid by the state, 25% by the company. Training period: up to 12 months.
+**Key features:**
+- Monthly stipend of ₹8,000-10,000 based on education level
+- 12th pass: ₹8,000, ITI: ₹8,500, Diploma: ₹9,000, Graduate+: ₹10,000
+- 75% stipend from state government, 25% from establishment
+- On-the-job training for 1 year
 
-👉 Read the full guide: [Seekho Kamao Yojana MP](/guide/seekho-kamao-yojana-mp)
-
-### Mukhyamantri Medhavi Vidyarthi Yojana
-
-Covers tuition fees for students scoring 70%+ in Class 12 (MPBSE) or 85%+ (CBSE) who get admission in government colleges for engineering, medicine, law, and other professional courses.
-
-### SC/ST/OBC Post-Matric Scholarship
-
-Tuition fee reimbursement and maintenance allowance for reserved category students.
-
-### Free Laptop Distribution
-
-Laptops for students scoring 75%+ in Class 12 board exams for pursuing higher education.
-
-## Health Schemes
-
-### Ayushman Bharat — MP Implementation
-
-₹5 lakh health insurance per family through PM-JAY. MP is a major implementing state with wide hospital network coverage.
-
-### Deendayal Antyodaya Upchar Yojana
-
-Free treatment for BPL families at district and sub-district hospitals for ailments costing up to ₹25,000.
-
-### Janani Suraksha Yojana — MP Enhanced
-
-Enhanced institutional delivery benefit for pregnant women from BPL families — ₹1,400 (rural) and ₹1,000 (urban).
-
-## Agriculture and Farmer Schemes
-
-### Mukhyamantri Kisan Kalyan Yojana
-
-Additional ₹4,000 per year to PM-KISAN beneficiaries (₹2,000 in two instalments), totalling ₹10,000/year.
-
-### Bhavantar Bhugtan Yojana
-
-Price difference payment to farmers when market prices fall below the Minimum Support Price (MSP). Covers major crops like soybean, moong, and urad.
-
-### Nalkoop Yojana (Borewell Subsidy)
-
-Subsidy for boring and installation of pump sets for irrigation on farmers' fields.
-
-## Housing Schemes
-
-### PMAY — MP Implementation
-
-Active implementation of both urban and rural housing. Rural beneficiaries receive ₹1.20–1.30 lakh.
-
-### Mukhyamantri Jan Awas Yojana
-
-Affordable housing for urban poor in cities and towns of MP.
-
-## Pension Schemes
-
-### Social Security Pension — MP
-
-- **Old Age Pension (Indira Gandhi NOAPS):** ₹600/month for 60+ years BPL
-- **Widow Pension:** ₹600/month
-- **Disability Pension:** ₹600/month for 40%+ disability
-- **Destitute Pension:** ₹600/month
-
-**Apply through:** MP e-District portal or Janpad Panchayat office.
-
-## Ration Card and Food Security
-
-MP uses the Samagra ID for ration card linkage. Eligible families receive subsidised foodgrains under NFSA.
-
-**Check/Apply through:** nfsa.samagra.gov.in
-
-### Deendayal Antyodaya Rasoi Yojana
-
-Subsidised meals at ₹10 per plate in urban areas — similar to Rajasthan's Indira Rasoi.
-
-## Samagra ID — MP's Family Identity
-
-Samagra ID is mandatory for accessing almost all MP government schemes. It serves as the family and individual identification system.
-
-**Register/Check at:** samagra.gov.in
-
-## Government Exams
-
-- [MP Police Constable Exam Guide](/guide/mp-police-constable-exam-guide)
-
-## Employment Schemes
+Read the complete guide: [Seekho Kamao Yojana MP](/guide/seekho-kamao-yojana-mp)
 
 ### Mukhyamantri Yuva Internship Yojana
 
-Internship opportunities with government departments with monthly stipend for unemployed graduates.
+Internship opportunities in government departments for unemployed youth with monthly stipend.
 
-### Mukhyamantri Swarojgar Yojana
+Read the complete guide: [MP Mukhyamantri Yuva Internship Yojana](/guide/mp-mukhyamantri-yuva-internship-yojana)
 
-Subsidised loans for youth starting businesses — loans up to ₹10 lakh for manufacturing and ₹2 lakh for services with margin money assistance.
+## Social Security Schemes
+
+### Mukhyamantri Jan Kalyan (Sambal) Yojana
+
+Comprehensive social security scheme for unorganized workers registered under the Sambal portal.
+
+**Benefits include:**
+- Accidental death insurance of ₹4 lakh
+- Natural death benefit of ₹2 lakh
+- Free electricity (up to 100 units)
+- Funeral assistance of ₹5,000
+- Education support for children
+
+Read the complete guide: [MP Mukhyamantri Jan Kalyan Sambal Yojana](/guide/mp-mukhyamantri-jan-kalyan-sambal-yojana)
+
+### Old Age Pension
+
+Monthly pension for senior citizens from BPL families:
+- ₹600/month for ages 60-79
+- ₹1,200/month for 80+
+
+### Widow Pension
+
+₹600/month for widows aged 40+ from BPL families.
+
+### Disability Pension
+
+Monthly pension for persons with 40%+ disability.
+
+See: [Old Age Pension Guide](/guide/old-age-pension-vridha-pension-apply) | [Widow Pension Guide](/guide/widow-pension-vidhwa-pension-apply)
+
+## Health Schemes
+
+### Ayushman Bharat in MP
+
+Integrated health insurance providing cashless treatment up to ₹5 lakh per family per year.
+
+See: [Ayushman Bharat vs State Health Schemes](/guide/ayushman-bharat-vs-state-health-schemes)
+
+### Deendayal Antyodaya Upchar Yojana
+
+Free treatment for BPL families at government hospitals for serious illnesses.
+
+### Janani Suraksha Yojana
+
+Cash incentive for institutional delivery – ₹1,400 for rural and ₹1,000 for urban pregnant women.
+
+## Education and Scholarship Schemes
+
+### Post-Matric and Pre-Matric Scholarships
+
+Scholarships for SC, ST, OBC, and minority students through the Tribal Affairs and SC Welfare departments.
+
+### Gaon Ki Beti Yojana
+
+₹500/month scholarship for girls from rural areas who score 60%+ in class 12 board exams.
+
+### Pratibha Kiran Yojana
+
+₹500/month scholarship for BPL girls from urban areas pursuing graduation.
+
+See also: [Post-Matric and Pre-Matric Scholarships](/guide/scholarship-post-matric-pre-matric-apply)
+
+## Agriculture Schemes
+
+### Mukhyamantri Kisan Kalyan Yojana
+
+₹4,000/year additional support to PM-KISAN beneficiaries (total ₹10,000/year with central scheme).
+
+### Bhavantar Bhugtan Yojana
+
+Price deficiency payment scheme – government compensates farmers when market prices fall below MSP.
+
+### PM-KISAN in MP
+
+₹6,000/year for eligible farmer families.
+
+See also: [eNAM](/guide/enam-national-agriculture-market) | [PM KUSUM Solar Pump](/guide/pm-kusum-solar-pump-scheme) | [PMFBY Crop Insurance](/guide/pmfby-claim-status-crop-loss) | [Soil Health Card](/guide/soil-health-card-apply)
+
+## Housing Schemes
+
+### Pradhan Mantri Awas Yojana in MP
+
+Both urban and rural components active:
+- PMAY-Gramin: ₹1.20-1.30 lakh for house construction
+- PMAY-Urban: Interest subsidy on home loans
+
+### Mukhyamantri Jan Awas Yojana
+
+State housing scheme for EWS and LIG families.
+
+## Food Security – Ration Card
+
+- [Ration Card Status Check](/guide/ration-card-status-download-update)
+- [Ration Card Types](/guide/ration-card-types-priorities)
+- [One Nation One Ration Card](/guide/one-nation-one-ration-card-onorc)
+
+## Government Certificates and Documents
+
+Available through MP e-District and MP Online:
+
+- [Caste Certificate Online](/guide/caste-certificate-online)
+- [Income Certificate Online](/guide/income-certificate-online)
+- [Domicile Certificate Online](/guide/domicile-certificate-online)
+- [Marriage Certificate](/guide/marriage-certificate-apply-online)
+- [Non-Creamy Layer Certificate](/guide/non-creamy-layer-certificate)
+
+## Property and Land Records
+
+- MP Bhulekh – [mpbhulekh.gov.in](https://mpbhulekh.gov.in/)
+- [Land Records Online – All States](/guide/land-records-online-all-states)
+- [Property Mutation](/guide/property-mutation-transfer)
+
+## Government Jobs and Exams in MP
+
+- [MPPSC Exam Guide](/guide/mppsc-exam-guide)
+- [MP Police Constable Exam](/guide/mp-police-constable-exam-guide)
+- [MP SI Police Exam Guide](/guide/mp-si-police-exam-guide)
+- [MP Patwari Exam Guide](/guide/mp-patwari-exam-guide)
+- [MP TET Exam Guide](/guide/mp-tet-exam-guide)
+
+## Samagra ID – Essential for MP Schemes
+
+Samagra ID is MP's family and individual identity system. It is **mandatory** for applying to almost all MP government schemes.
+
+**How to get Samagra ID:**
+- Apply at Gram Panchayat (rural) or Ward Office (urban)
+- Or apply online at [samagra.gov.in](https://samagra.gov.in/)
+- Family ID (8-digit) and Member ID (9-digit) are issued
+- Link Aadhaar and bank account for DBT benefits
+
+## Important Helpline Numbers
+
+| Service | Helpline Number |
+|---------|----------------|
+| CM Helpline | 181 |
+| Women Helpline | 181 |
+| Police Emergency | 112 |
+| Child Helpline | 1098 |
+| Health Helpline | 104 |
+| Farmer Helpline | 1800-180-1551 |
+| Sambal Helpline | 0755-2700800 |
+| Ladli Bahna Helpline | 0755-2700800 |
 
 ## How to Apply for MP Government Schemes
 
-1. **MP e-District Portal:** Register at mpedistrict.gov.in for certificates and services
-2. **Samagra Portal:** Ensure your Samagra ID is updated — mandatory for most schemes
-3. **MP Online Kiosks:** Over 30,000 kiosks for assisted application
-4. **Tehsil / Janpad Office:** For pensions, housing, and rural services
-5. **Lok Seva Kendra:** For time-bound service delivery
+### Online Application
+
+1. **Get Samagra ID first** – Visit [samagra.gov.in](https://samagra.gov.in/)
+2. **Visit MP e-District** – [mpedistrict.gov.in](https://mpedistrict.gov.in/) or specific scheme portal
+3. **Register/Login** with Samagra ID or Aadhaar
+4. **Select scheme** and fill application form
+5. **Upload documents** – Samagra ID, Aadhaar, income certificate, bank passbook
+6. **Submit** and track using application number
+
+### Offline Application
+
+1. Visit the nearest **MP Online Kiosk** or **Janpad Panchayat office**
+2. Carry Samagra ID card, Aadhaar, and required documents
+3. Submit application through the operator
+4. Collect receipt for tracking
 
 ### Common Documents Required
 
+- Samagra ID (mandatory)
 - Aadhaar card
-- Samagra ID
-- Ration card
 - Income certificate
-- Caste certificate (if applicable)
-- Domicile certificate
-- Bank passbook (Aadhaar-linked)
-- Passport-size photos
+- Caste certificate (for category-based schemes)
+- Bank passbook
+- Passport-size photographs
 
-## Summary
+## Frequently Asked Questions
 
-Madhya Pradesh's welfare system has gained national attention through innovative schemes like Ladli Bahna and Seekho Kamao. The Samagra ID system provides a robust foundation for targeted benefit delivery. MP Online kiosks and the e-District portal ensure widespread access to government services across urban and rural areas.
+**Is Samagra ID mandatory for MP schemes?**
+Yes, Samagra ID is required for almost all Madhya Pradesh government schemes. Apply for it first.
 
-## Related Guides
+**How much does Ladli Bahna give per month?**
+Currently ₹1,250/month, with plans to increase further. Benefits are transferred on the 10th of every month.
 
-- [Ladli Bahna Yojana MP](/guide/ladli-bahna-yojana-mp)
-- [Seekho Kamao Yojana MP](/guide/seekho-kamao-yojana-mp)
-- [MP Police Constable Exam Guide](/guide/mp-police-constable-exam-guide)
+**Can I apply for Seekho Kamao as a fresher?**
+Yes, the scheme is designed for youth aged 18-29. Fresh graduates and those with ITI/diploma are eligible.
+
+---
+
+*MP government regularly updates scheme benefits and eligibility. Always verify latest details on official portals before applying.*

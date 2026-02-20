@@ -1,218 +1,245 @@
 ---
-title: "Gujarat Government Schemes and Services — Complete Guide"
-description: "Comprehensive guide to all Gujarat government schemes including Vhali Dikri, Kisan Sahay, Manav Garima, Yuva Swavalamban, Mahila Utkarsh, and more. Eligibility, benefits, and how to apply."
-category: "State Schemes"
+title: Gujarat Government Schemes and Services – Complete Guide
+description: >-
+  Comprehensive guide to all Gujarat government schemes and services including
+  Vhali Dikri, Kisan Sahay, Manav Garima, Yuva Swavalamban, Mahila Utkarsh,
+  education, health, housing, agriculture with eligibility and how to apply.
+category: State Schemes
 keywords:
   - gujarat government schemes
   - gujarat sarkari yojana
   - gujarat welfare schemes
+  - gujarat government services
   - vhali dikri yojana
-  - gujarat women schemes
-  - gujarat farmer schemes
+  - kisan sahay yojana gujarat
+  - manav garima yojana
   - gujarat scholarship
-  - gujarat health scheme
-  - gujarat pension
-  - digital gujarat
-readingTime: "12 min"
+  - gujarat ration card
+  - gpsc exam
+readingTime: 12 min
 officialLinks:
-  - https://gujaratindia.gov.in
-  - https://digitalgujarat.gov.in
-  - https://ikhedut.gujarat.gov.in
-  - https://ipds.gujarat.gov.in
+  - 'https://www.gujarat.gov.in/'
+  - 'https://digitalgujarat.gov.in/'
+  - 'https://ikisan.gujarat.gov.in/'
 ---
 
-# Gujarat Government Schemes and Services — Complete Guide
+# Gujarat Government Schemes and Services – Complete Guide
 
-Gujarat, known for its industrial growth and entrepreneurial culture, also runs extensive welfare programmes for its 7 crore+ residents. From girl child schemes to farmer support, skill development, and health insurance — the state provides comprehensive benefits through its Digital Gujarat platform.
-
-This guide covers all major Gujarat government schemes, portals, helplines, and how to apply.
+Gujarat, one of India's most industrialized states, runs a well-organized welfare system with strong focus on women's empowerment, farmer support, skill development, and entrepreneurship. From Vhali Dikri for girl children to Manav Garima for self-employment, the state offers comprehensive benefits. This guide covers every major Gujarat government scheme with eligibility, benefits, and application details.
 
 ## Key Government Portals in Gujarat
 
-| Portal | Purpose | Website |
-|--------|---------|---------|
-| Digital Gujarat | One-stop government services | digitalgujarat.gov.in |
-| iKhedut | Agriculture schemes and subsidies | ikhedut.gujarat.gov.in |
-| IPDS Gujarat | Food and ration card services | ipds.gujarat.gov.in |
-| AnyRoR | Land records (7/12, 8A) | anyror.gujarat.gov.in |
-| GARVI | Property registration | garvi.gujarat.gov.in |
-| e-Samaj Kalyan | Social welfare schemes | esamajkalyan.gujarat.gov.in |
-
-## Important Helpline Numbers
-
-- **CM Helpline Gujarat:** 1070
-- **Women Helpline:** 181
-- **Digital Gujarat Helpline:** 079-23251832
-- **Police Emergency:** 112
-- **Cyber Crime:** 1930
-- **Health Helpline (108):** 108
-- **Kisan Helpline:** 1800-180-1551
+- **Digital Gujarat** – [digitalgujarat.gov.in](https://digitalgujarat.gov.in/) – Single window for scholarships, certificates, and scheme applications
+- **Gujarat Government Portal** – [gujarat.gov.in](https://www.gujarat.gov.in/) – Central hub
+- **e-Nagar** – Urban local body services
+- **i-Kisan Portal** – [ikisan.gujarat.gov.in](https://ikisan.gujarat.gov.in/) – Agriculture services and information
+- **AnyRoR** – [anyror.gujarat.gov.in](https://anyror.gujarat.gov.in/) – Land records (7/12 extract, 8A)
 
 ## Women and Girl Child Schemes
 
-### Vhali Dikri Yojana (Dear Daughter)
+### Vhali Dikri Yojana (Beloved Daughter)
 
-Financial assistance for girls at three key education stages:
-- ₹4,000 at Class 1 admission
-- ₹6,000 at Class 9 admission
+Financial assistance for girl children in three instalments linked to education milestones.
+
+**Benefits:**
+- ₹4,000 on admission to class 1
+- ₹6,000 on admission to class 9
 - ₹1,00,000 at age 18 (for higher education or marriage)
 
-**Eligibility:** Gujarat domicile, family income below ₹2 lakh/year, maximum two daughters per family.
-
-👉 Read the full guide: [Gujarat Vhali Dikri Yojana](/guide/gujarat-vhali-dikri-yojana)
+Read the complete guide: [Gujarat Vhali Dikri Yojana](/guide/gujarat-vhali-dikri-yojana)
 
 ### Mukhyamantri Mahila Utkarsh Yojana
 
-Interest-free loans up to ₹1 lakh for women Self-Help Groups (SHGs) for starting or expanding businesses.
+Interest-free loans up to ₹1 lakh for women's SHGs (Sakhi Mandals) to promote women's entrepreneurship and economic independence.
 
-👉 Read the full guide: [Mukhyamantri Mahila Utkarsh Yojana Gujarat](/guide/mukhyamantri-mahila-utkarsh-yojana-gujarat)
+Read the complete guide: [Mukhyamantri Mahila Utkarsh Yojana Gujarat](/guide/mukhyamantri-mahila-utkarsh-yojana-gujarat)
 
-### Kunwarbainu Mameru Yojana
+## Livelihood and Employment Schemes
 
-₹12,000 financial assistance for marriage of girls from SC/ST/OBC families.
+### Manav Garima Yojana
 
-## Education and Scholarship Schemes
+Self-employment scheme for SC community members providing tool kits and equipment for starting small businesses in 28 identified trades.
+
+**Key features:**
+- Tool kits worth ₹4,000 for individuals in rural areas
+- ₹6,000 for urban areas
+- Covers trades like carpentry, tailoring, plumbing, masonry
+
+Read the complete guide: [Gujarat Manav Garima Yojana](/guide/gujarat-manav-garima-yojana)
 
 ### Mukhyamantri Yuva Swavalamban Yojana
 
-Covers tuition fees (up to ₹2 lakh/year) for students from families with income below ₹6 lakh pursuing professional courses like engineering, medicine, pharmacy, and nursing.
+Scholarship and fee support for students from economically weaker families pursuing professional courses (engineering, medical, pharmacy, etc.).
 
-👉 Read the full guide: [Gujarat Mukhyamantri Yuva Swavalamban Yojana](/guide/gujarat-mukhyamantri-yuva-swavalamban-yojana)
+**Benefits:**
+- Up to ₹2 lakh per year for tuition fees
+- Hostel allowance of ₹1,200/month
+- For students whose family income is below ₹6 lakh/year
 
-### Post-Matric Scholarship for SC/ST/OBC
+Read the complete guide: [Gujarat Mukhyamantri Yuva Swavalamban Yojana](/guide/gujarat-mukhyamantri-yuva-swavalamban-yojana)
 
-Tuition fee reimbursement and maintenance allowance for reserved category students in higher education.
-
-### Digital Seva Setu — Free Tablets for Students
-
-Distribution of tablets to college students for digital education.
-
-## Health Schemes
-
-### Mukhyamantri Amrutum (MA) Yojana
-
-Health insurance of ₹5 lakh per family per year for BPL families, providing cashless treatment at empanelled hospitals. Now merged with Ayushman Bharat.
-
-### MA Vatsalya Card
-
-Extended health insurance for families with annual income up to ₹4 lakh — ₹5 lakh coverage.
-
-### 108 Emergency Ambulance Service
-
-Gujarat's pioneering emergency ambulance network providing free emergency medical transport.
-
-## Agriculture and Farmer Schemes
+## Agriculture Schemes
 
 ### Kisan Sahay Yojana
 
-Crop compensation scheme providing ₹20,000/hectare for 33–60% crop damage and ₹25,000/hectare for 60%+ damage. No premium required from farmers.
+Crop loss compensation scheme for farmers affected by natural calamities, drought, or excess rainfall.
 
-👉 Read the full guide: [Gujarat Kisan Sahay Yojana](/guide/gujarat-kisan-sahay-yojana)
+**Key features:**
+- Compensation of ₹20,000/hectare for 33-60% crop loss
+- ₹25,000/hectare for 60%+ crop loss
+- No premium – government bears full cost
+- Automatic enrollment for all farmers
 
-### iKhedut Portal Subsidies
+Read the complete guide: [Gujarat Kisan Sahay Yojana](/guide/gujarat-kisan-sahay-yojana)
 
-The iKhedut portal offers subsidies for:
-- Farm machinery and equipment
-- Drip and sprinkler irrigation
-- Greenhouse and poly-house construction
-- Animal husbandry and dairy
-- Horticulture and organic farming
+### PM-KISAN in Gujarat
 
-**Apply at:** ikhedut.gujarat.gov.in
+₹6,000/year for eligible farmer families in three instalments.
 
-### Kisan Suryodaya Yojana
+### Kisan Parivahan Yojana
 
-Daytime electricity for agriculture (6 AM to 9 PM) through dedicated feeder lines, reducing dependence on diesel pumps.
+Subsidy for farmers to purchase vehicles for transporting agricultural produce.
+
+See also: [eNAM – National Agriculture Market](/guide/enam-national-agriculture-market) | [PM KUSUM Solar Pump](/guide/pm-kusum-solar-pump-scheme) | [PMFBY Crop Insurance](/guide/pmfby-claim-status-crop-loss) | [Soil Health Card](/guide/soil-health-card-apply)
+
+## Education and Scholarship Schemes
+
+### Digital Gujarat Scholarships
+
+Multiple scholarship schemes available through Digital Gujarat portal:
+- **Post-matric scholarships** for SC, ST, OBC, and minority students
+- **Pre-matric scholarships** for school students
+- **Fresh/Renewal** scholarships each academic year
+
+### Mukhyamantri Yuva Swavalamban Yojana (Education)
+
+Fee support for students from EWS families in professional courses (covered above).
+
+See also: [Post-Matric and Pre-Matric Scholarships](/guide/scholarship-post-matric-pre-matric-apply)
+
+## Health Schemes
+
+### Mukhyamantri Amrutam (MA) Yojana
+
+Gujarat's health insurance scheme providing cashless treatment for BPL families.
+
+**Key features:**
+- ₹5 lakh per family per year (integrated with Ayushman Bharat)
+- Covers 1,500+ medical procedures
+- Cashless treatment at empanelled hospitals
+- MA Card required
+
+See: [Ayushman Bharat vs State Health Schemes](/guide/ayushman-bharat-vs-state-health-schemes)
+
+### Chiranjeevi Yojana (Gujarat)
+
+Free institutional delivery scheme for BPL pregnant women at private hospitals.
 
 ## Housing Schemes
 
 ### Mukhyamantri Gruh Yojana
 
-Affordable housing for EWS and LIG families at subsidised rates in urban areas.
+Affordable housing for EWS and LIG families in urban areas.
 
-### PMAY — Gujarat Implementation
+### PMAY in Gujarat
 
-Active implementation with state additional subsidy for beneficiaries. Both urban and rural components.
+Both urban and rural components for subsidized housing and home loan interest subsidy.
 
-### Sardar Patel Awas Yojana
+## Social Security and Pension
 
-Housing assistance for SC/ST/OBC families in rural areas — ₹1.20–1.50 lakh per beneficiary.
+### Old Age Pension (Indira Gandhi National)
 
-## Employment and Skill Development
-
-### Manav Garima Yojana
-
-Provides tool kits and equipment worth ₹15,000–25,000 to SC families for self-employment in trades like carpentry, tailoring, plumbing, and more.
-
-👉 Read the full guide: [Gujarat Manav Garima Yojana](/guide/gujarat-manav-garima-yojana)
-
-### Mukhyamantri Apprenticeship Scheme
-
-Stipend support for apprentices in private sector companies — up to ₹3,000/month.
-
-### StartUp Gujarat
-
-Support for startups including seed funding, mentorship, incubation space, and market access.
-
-## Pension Schemes
-
-### Old Age Pension — Gujarat
-
-₹750–1,000/month for senior citizens (60+ years) from BPL families. Apply through e-Samaj Kalyan portal.
+Central pension with state top-up for BPL senior citizens aged 60+.
 
 ### Widow Pension
 
-₹1,250/month for destitute widows.
+Monthly pension for widows from BPL families.
 
 ### Disability Pension
 
-₹600–1,000/month for persons with 40%+ disability.
+Monthly pension for persons with 40%+ disability.
 
-### Palak Mata-Pita Yojana
+See: [Old Age Pension Guide](/guide/old-age-pension-vridha-pension-apply) | [Widow Pension Guide](/guide/widow-pension-vidhwa-pension-apply)
 
-₹3,000/month for parents/guardians of orphan children.
+## Food Security – Ration Card
 
-## Ration Card and Food Security
+- [Ration Card Status Check](/guide/ration-card-status-download-update)
+- [Ration Card Types](/guide/ration-card-types-priorities)
+- [One Nation One Ration Card](/guide/one-nation-one-ration-card-onorc)
 
-Gujarat PDS provides subsidised foodgrains through fair price shops. APL, BPL, and AAY categories.
+## Government Certificates and Documents
 
-**Apply through:** ipds.gujarat.gov.in or Mamlatdar office.
+Available through Digital Gujarat:
 
-## Government Exams
+- [Caste Certificate](/guide/caste-certificate-online)
+- [Income Certificate](/guide/income-certificate-online)
+- [Marriage Certificate](/guide/marriage-registration-online)
+- [Khata Certificate](/guide/khata-certificate-property-online)
+
+## Property and Land Records
+
+- AnyRoR – [anyror.gujarat.gov.in](https://anyror.gujarat.gov.in/) – 7/12 extract, 8A records
+- [Land Records Online – All States](/guide/land-records-online-all-states)
+- [Property Registration Online](/guide/property-registration-online)
+
+## Government Jobs and Exams in Gujarat
 
 - [GPSC Exam Guide](/guide/gpsc-exam-guide)
-- [Gujarat Police Constable Exam Guide](/guide/gujarat-police-constable-exam-guide)
 - [Gujarat Talati Exam Guide](/guide/gujarat-talati-exam-guide)
+- [Gujarat Police Constable Exam](/guide/gujarat-police-constable-exam-guide)
+- [GTET Gujarat TET Exam Guide](/guide/gtet-gujarat-tet-exam-guide)
+
+## Important Helpline Numbers
+
+| Service | Helpline Number |
+|---------|----------------|
+| Digital Gujarat Helpline | 079-23251900 |
+| Women Helpline | 181 |
+| Police Emergency | 112 |
+| Child Helpline | 1098 |
+| Health Helpline | 104 |
+| Farmer Helpline | 1800-180-1551 |
+| CM Helpline | 1800-233-5500 |
+| Anti-Corruption | 1064 |
 
 ## How to Apply for Gujarat Government Schemes
 
-1. **Digital Gujarat Portal:** Register at digitalgujarat.gov.in for most services
-2. **e-Samaj Kalyan Portal:** For social welfare and pension schemes
-3. **iKhedut Portal:** For agriculture subsidies
-4. **Mamlatdar / Taluka Office:** For certificates and rural services
-5. **CSC / e-Gram Centres:** For assisted applications
+### Online Application
+
+1. **Visit Digital Gujarat** – [digitalgujarat.gov.in](https://digitalgujarat.gov.in/)
+2. **Register** with Aadhaar and mobile number
+3. **Select scheme** – Browse by category or department
+4. **Fill application** with personal and eligibility details
+5. **Upload documents** – Aadhaar, income certificate, bank passbook
+6. **Submit** and track using application number
+
+### Offline Application
+
+1. Visit the nearest **e-Gram Centre** or **Mamlatdar Office**
+2. Carry original documents and photocopies
+3. Submit application form
+4. Collect acknowledgment receipt
 
 ### Common Documents Required
 
 - Aadhaar card
 - Ration card
 - Income certificate
-- Caste certificate (if applicable)
-- Domicile certificate
-- Bank passbook (Aadhaar-linked)
-- Passport-size photos
+- Caste certificate (for category-based schemes)
+- Bank passbook
+- Passport-size photographs
 
-## Summary
+## Frequently Asked Questions
 
-Gujarat's welfare system combines strong digital infrastructure (Digital Gujarat, iKhedut) with targeted schemes for women, farmers, and youth. The state's focus on entrepreneurship through schemes like Manav Garima and StartUp Gujarat distinguishes it from other states. Most services are accessible through the Digital Gujarat single-window portal.
+**How do I check Gujarat scheme application status?**
+Login to Digital Gujarat portal and check under "My Applications" or use the tracking number.
 
-## Related Guides
+**Is Kisan Sahay automatic for all farmers?**
+Yes, all farmers in Gujarat are automatically enrolled. No separate registration or premium required.
 
-- [Gujarat Vhali Dikri Yojana](/guide/gujarat-vhali-dikri-yojana)
-- [Gujarat Kisan Sahay Yojana](/guide/gujarat-kisan-sahay-yojana)
-- [Gujarat Manav Garima Yojana](/guide/gujarat-manav-garima-yojana)
-- [Gujarat Mukhyamantri Yuva Swavalamban Yojana](/guide/gujarat-mukhyamantri-yuva-swavalamban-yojana)
-- [Mukhyamantri Mahila Utkarsh Yojana Gujarat](/guide/mukhyamantri-mahila-utkarsh-yojana-gujarat)
-- [GPSC Exam Guide](/guide/gpsc-exam-guide)
-- [Gujarat Police Constable Exam Guide](/guide/gujarat-police-constable-exam-guide)
-- [Gujarat Talati Exam Guide](/guide/gujarat-talati-exam-guide)
+**How to apply for Vhali Dikri Yojana?**
+Apply at the nearest Anganwadi centre or through the scheme portal. Birth certificate and bank account in parent's name required.
+
+---
+
+*Gujarat government regularly updates scheme benefits. Always verify latest details on official portals before applying.*
