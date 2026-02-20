@@ -1,205 +1,237 @@
 ---
-title: "Bihar Government Schemes and Services — Complete Guide"
-description: "Comprehensive guide to all Bihar government schemes including Mukhyamantri Kanya Utthan, Student Credit Card, ration card, Jeevika, Gramin Awas, and more. Eligibility, benefits, and how to apply."
-category: "State Schemes"
+title: Bihar Government Schemes and Services – Complete Guide
+description: >-
+  Comprehensive guide to all Bihar government schemes and services including
+  Mukhyamantri Kanya Utthan, Student Credit Card, Cycle Yojana, Gramin Awas,
+  education, health, agriculture, pension with eligibility and how to apply.
+category: State Schemes
 keywords:
   - bihar government schemes
   - bihar sarkari yojana
   - bihar welfare schemes
-  - bihar women schemes
-  - kanya utthan yojana bihar
+  - bihar government services
+  - mukhyamantri kanya utthan bihar
   - student credit card bihar
+  - bihar pension scheme
   - bihar ration card
-  - bihar pension
-  - bihar farmer schemes
+  - bpsc exam
   - bihar scholarship
-readingTime: "12 min"
+readingTime: 12 min
 officialLinks:
-  - https://state.bihar.gov.in
-  - https://serviceonline.bihar.gov.in
-  - https://epds.bihar.gov.in
-  - https://bhumijankari.bihar.gov.in
+  - 'https://state.bihar.gov.in/'
+  - 'https://serviceonline.bihar.gov.in/'
+  - 'https://bhumijankari.bihar.gov.in/'
 ---
 
-# Bihar Government Schemes and Services — Complete Guide
+# Bihar Government Schemes and Services – Complete Guide
 
-Bihar, with a population of over 12 crore, has significantly expanded its welfare programmes in recent years. The state focuses on women's empowerment, education, skill development, and rural development. Key schemes like Kanya Utthan Yojana and Student Credit Card have become national models.
-
-This guide covers all major Bihar government schemes, portals, helplines, and how to apply.
+Bihar has significantly expanded its welfare programme portfolio in recent years, with major focus on education, women's empowerment, and youth employment. From the Student Credit Card scheme to Mukhyamantri Kanya Utthan Yojana, Bihar provides substantial support across all sectors. This guide covers every major Bihar government scheme with eligibility, benefits, and application details.
 
 ## Key Government Portals in Bihar
 
-| Portal | Purpose | Website |
-|--------|---------|---------|
-| Service Online Bihar | Certificates and government services | serviceonline.bihar.gov.in |
-| ePDS Bihar | Ration card and food distribution | epds.bihar.gov.in |
-| Bhumi Jankari | Land records | bhumijankari.bihar.gov.in |
-| IGRS Bihar | Property registration | registration.bih.nic.in |
-| DBT Bihar | Direct benefit transfers | dbtagriculture.bihar.gov.in |
-| BSEB | Board of Secondary Education | biharboardonline.bihar.gov.in |
-
-For land records, read our [Bhumi Jankari Land Records Bihar guide](/guide/bhumi-jankari-land-records-bihar).
-
-## Important Helpline Numbers
-
-- **CM Helpline Bihar:** 1076
-- **Women Helpline:** 181
-- **Ration Card Helpline:** 1800-3456-194
-- **Police Emergency:** 112
-- **Cyber Crime:** 1930
-- **Education Helpline:** 1800-3456-602
+- **Service Online Bihar** – [serviceonline.bihar.gov.in](https://serviceonline.bihar.gov.in/) – Certificates and government services
+- **Bhumi Jankari** – [bhumijankari.bihar.gov.in](https://bhumijankari.bihar.gov.in/) – Land records. See: [Bhumi Jankari Land Records Bihar](/guide/bhumi-jankari-land-records-bihar)
+- **RTPS Bihar** – [rtps.bihar.gov.in](https://rtps.bihar.gov.in/) – Right to Public Services
+- **e-Labharthi** – [elabharthi.bih.nic.in](https://elabharthi.bih.nic.in/) – Pension and social security beneficiary portal
+- **Bihar Scholarship Portal** – [scholarships.bihar.gov.in](https://scholarships.bihar.gov.in/)
 
 ## Women and Girl Child Schemes
 
 ### Mukhyamantri Kanya Utthan Yojana
 
-Comprehensive girl child support scheme providing ₹94,100 from birth to graduation in multiple instalments. Covers birth grant, uniform allowance, sanitary napkin support, and graduation incentive.
+Bihar's flagship scheme for girls providing financial assistance from birth to graduation – total benefit of approximately ₹54,100.
 
-**Key instalments:** ₹5,000 at birth → ₹2,000 at age 1 → ₹1,000 at age 2 → annual uniform/clothing allowance → ₹25,000 at graduation.
+**Instalment structure:**
+- ₹2,000 at birth
+- ₹1,000 at age 1 (Aadhaar registration)
+- ₹2,000 at age 2 (immunization)
+- ₹Uniform and sanitary napkin grants during school years
+- ₹10,000 on passing class 12 (unmarried)
+- ₹25,000 on graduation completion
 
-👉 Read the full guide: [Mukhyamantri Kanya Utthan Yojana Bihar](/guide/mukhyamantri-kanya-utthan-yojana-bihar)
+Read the complete guide: [Mukhyamantri Kanya Utthan Yojana Bihar](/guide/mukhyamantri-kanya-utthan-yojana-bihar)
 
-### Mukhyamantri Kanya Vivah Yojana
+### Mukhyamantri Vivah Sahayata Yojana
 
-₹5,000 financial assistance for marriage of girls from BPL families. Bride must be 18+ years.
+Marriage assistance grant for women from economically weaker families.
 
-### Jeevika — Women's SHG Programme
+## Education Schemes
 
-Bihar's flagship women's livelihood programme forming Self-Help Groups for micro-credit, skill training, and income generation.
+### Student Credit Card Yojana
 
-👉 Read the full guide: [Bihar Satat Jeevika Yojana](/guide/bihar-satat-jeevika-yojana)
+Interest-free education loan of up to ₹4 lakh for students from Bihar pursuing higher education (graduation and above). One of Bihar's most impactful youth schemes.
 
-## Education and Scholarship Schemes
+**Key features:**
+- Loan up to ₹4 lakh at 0% interest (for female, transgender, and disabled students)
+- 1% interest for male students
+- Covers tuition fees, hostel, books, and living expenses
+- No collateral required
 
-### Student Credit Card Scheme
-
-Provides education loans up to ₹4 lakh at 4% interest (1% for women/disabled/transgender) for students pursuing higher education after Class 12.
-
-**Coverage:** Tuition fees, hostel, laptop, books, and study materials.
-
-👉 Read the full guide: [Student Credit Card Bihar](/guide/student-credit-card-bihar)
-
-### Mukhyamantri Balak/Balika Protsahan Yojana
-
-Cash incentive of ₹10,000 for students scoring First Division in Class 10 board exams and ₹25,000 for Class 12.
+Read the complete guide: [Student Credit Card Bihar](/guide/student-credit-card-bihar)
 
 ### Mukhyamantri Cycle Yojana
 
-Free bicycles for Class 9 students in government schools to reduce dropout rates, especially among girls.
+Free bicycles for class 9 students (both boys and girls) in government schools to reduce dropout rates and improve school attendance.
 
-👉 Read the full guide: [Bihar Mukhyamantri Cycle Yojana](/guide/bihar-mukhyamantri-cycle-yojana)
+Read the complete guide: [Bihar Mukhyamantri Cycle Yojana](/guide/bihar-mukhyamantri-cycle-yojana)
 
-### SC/ST/OBC Post-Matric Scholarship
+### Scholarship Schemes
 
-Covers tuition fees and maintenance allowance for students from reserved categories in higher education.
+- Post-matric scholarships for SC, ST, OBC, and minority students
+- Pre-matric scholarships for students in classes 1-10
+- Merit-based scholarships for class 10 and 12 toppers
 
-## Health Schemes
-
-### Ayushman Bharat — Bihar Implementation
-
-Bihar is a major PM-JAY implementing state with ₹5 lakh health cover for eligible families. The state has one of the highest numbers of beneficiary families.
-
-### Mukhyamantri Chikitsa Sahayata Yojana
-
-Financial assistance for treatment of serious diseases for BPL families not covered under other insurance.
+See also: [Post-Matric and Pre-Matric Scholarships](/guide/scholarship-post-matric-pre-matric-apply)
 
 ## Housing Schemes
 
-### Bihar Mukhyamantri Gramin Awas Yojana
+### Mukhyamantri Gramin Awas Yojana
 
-State housing scheme supplementing PMAY-Gramin, providing financial assistance for house construction for BPL families in rural areas.
+Bihar's state housing scheme for rural BPL families providing financial assistance for pucca house construction.
 
-👉 Read the full guide: [Bihar Mukhyamantri Gramin Awas Yojana](/guide/bihar-mukhyamantri-gramin-awas-yojana)
+Read the complete guide: [Bihar Mukhyamantri Gramin Awas Yojana](/guide/bihar-mukhyamantri-gramin-awas-yojana)
 
-### PMAY — Bihar Implementation
+## Health Schemes
 
-Active implementation of both urban and rural housing components with ₹1.20–1.50 lakh per beneficiary.
+### Ayushman Bharat in Bihar
 
-## Agriculture and Farmer Schemes
+Integrated health insurance providing cashless treatment up to ₹5 lakh per family per year at empanelled hospitals.
 
-### DBT Agriculture Bihar
+See: [Ayushman Bharat vs State Health Schemes](/guide/ayushman-bharat-vs-state-health-schemes)
 
-Single portal for all agriculture subsidies including:
-- Diesel subsidy for irrigation
-- Seed and fertiliser subsidy
-- Farm machinery subsidy
-- Crop damage compensation
+### Bihar Health Department Initiatives
 
-**Apply at:** dbtagriculture.bihar.gov.in
+- Free medicine distribution at government hospitals
+- Janani Suraksha Yojana – Cash incentive for institutional delivery
+- Free ambulance service (102 and 108)
 
-### Mukhyamantri Harit Krishi Sanyantra Yojana
+## Livelihood and Employment Schemes
 
-Subsidy on agricultural equipment like combined harvesters, rotavators, and paddy transplanters.
+### Bihar Satat Jeevika Yojana (JEEViKA)
 
-### Bihar Fasal Sahayata Yojana (Crop Assistance)
+World Bank-assisted livelihood programme providing SHG-based livelihoods, micro-finance, skill training, and market linkages for rural poor.
 
-State crop insurance paying ₹7,500/hectare (up to 2 hectares) for crop damage of 20%+ due to natural calamities. No farmer premium required.
+Read the complete guide: [Bihar Satat Jeevika Yojana](/guide/bihar-satat-jeevika-yojana)
 
-## Pension Schemes
+### Mukhyamantri Udyami Yojana
 
-### Mukhyamantri Vriddhjan Pension Yojana
+Entrepreneurship promotion scheme providing loans up to ₹10 lakh with 50% subsidy for SC/ST, OBC, women, and youth entrepreneurs.
 
-₹400/month for all citizens aged 60+ (universal, not income-linked). Bihar is one of few states with universal old-age pension.
+## Agriculture Schemes
 
-### Indira Gandhi National Widow Pension
+### Diesel Anudan Yojana
 
-₹400–500/month for widows from BPL families. Apply through RTPS or district office.
+Subsidy on diesel for irrigation during kharif and rabi seasons.
+
+### Krishi Input Anudan
+
+Financial assistance to farmers affected by natural calamities for crop loss.
+
+### PM-KISAN in Bihar
+
+₹6,000/year for eligible farmer families.
+
+See also: [eNAM – National Agriculture Market](/guide/enam-national-agriculture-market) | [PMFBY Crop Insurance](/guide/pmfby-claim-status-crop-loss)
+
+## Social Security and Pension
+
+### Mukhyamantri Vridhjan Pension
+
+₹400/month for senior citizens aged 60+ (₹500 for 80+). Applied through e-Labharthi portal.
+
+### Widow Pension (Laxmibai Social Security Pension)
+
+₹400-500/month for widows from BPL families.
 
 ### Disability Pension
 
-₹400/month for persons with 40%+ disability. Apply through Service Online Bihar.
+Monthly pension for persons with 40%+ disability.
 
-## Ration Card and Food Security
+See: [Old Age Pension Guide](/guide/old-age-pension-vridha-pension-apply) | [Widow Pension Guide](/guide/widow-pension-vidhwa-pension-apply)
 
-Bihar PDS provides subsidised foodgrains to AAY, PHH, and other eligible families.
+## Food Security – Ration Card
 
-👉 Read the full guide: [Ration Card Apply Online Bihar](/guide/ration-card-apply-online-bihar)
+- [Ration Card Apply Online Bihar](/guide/ration-card-apply-online-bihar)
+- [Ration Card Types and Priorities](/guide/ration-card-types-priorities)
+- [One Nation One Ration Card](/guide/one-nation-one-ration-card-onorc)
 
-**Apply through:** epds.bihar.gov.in or block/circle office.
+## Government Certificates and Documents
 
-## Employment and Skill Development
+Available through Service Online Bihar and RTPS:
 
-### Bihar Skill Development Mission
+- [Caste Certificate Online](/guide/caste-certificate-online)
+- [Income Certificate Online](/guide/income-certificate-online)
+- [Domicile Certificate Online](/guide/domicile-certificate-online)
+- [Character Certificate](/guide/character-certificate-apply)
+- [Migration Certificate](/guide/migration-certificate-apply-online)
+- [Non-Creamy Layer Certificate](/guide/non-creamy-layer-certificate)
 
-Provides free skill training in 30+ trades through ITIs and skill centres. Linked to placement support.
+## Property and Land Records
 
-### BSDC (Bihar Student Development Corporation)
+- [Bhumi Jankari Land Records Bihar](/guide/bhumi-jankari-land-records-bihar)
+- [Land Records Online – All States](/guide/land-records-online-all-states)
+- [Property Mutation](/guide/property-mutation-online)
 
-Oversees Student Credit Card and other education finance schemes.
-
-## Government Exams
+## Government Jobs and Exams in Bihar
 
 - [BPSC PCS Exam Guide](/guide/bpsc-pcs-exam-guide)
+- [Bihar Police Constable Exam](/guide/bihar-police-constable-exam-guide)
+- [Bihar SI Police Exam Guide](/guide/bihar-si-police-exam-guide)
+- [Bihar Daroga Exam Guide](/guide/bihar-daroga-exam-guide)
+- [Bihar TET Exam Guide](/guide/bihar-tet-exam-guide)
+
+## Important Helpline Numbers
+
+| Service | Helpline Number |
+|---------|----------------|
+| Service Online Helpline | 0612-2233333 |
+| Women Helpline | 181 |
+| Police Emergency | 112 |
+| Child Helpline | 1098 |
+| Health Helpline | 104 |
+| CM Helpline | 1076 |
+| Student Credit Card | 1800-3456-444 |
+| Anti-Corruption | 1064 |
 
 ## How to Apply for Bihar Government Schemes
 
-1. **Service Online Bihar:** Register at serviceonline.bihar.gov.in for certificates and services
-2. **RTPS (Right to Public Service):** For time-bound delivery of government services
-3. **CSC / Vasudha Centres:** For assisted application
-4. **Block / District Office:** For pensions, housing, and rural schemes
-5. **DBT Agriculture Portal:** For all farm-related subsidies
+### Online Application
+
+1. **Visit Service Online Bihar** – [serviceonline.bihar.gov.in](https://serviceonline.bihar.gov.in/) or specific scheme portal
+2. **Register** with Aadhaar and mobile number
+3. **Select scheme/service** from the list
+4. **Fill application** with personal and eligibility details
+5. **Upload documents** – Aadhaar, income certificate, caste certificate, bank passbook
+6. **Submit** and track using application number
+
+### Offline Application
+
+1. Visit the nearest **Block Development Office** or **CSC centre**
+2. Carry original documents and photocopies
+3. Submit application with required documents
+4. Collect acknowledgment receipt
 
 ### Common Documents Required
 
 - Aadhaar card
 - Ration card
 - Income certificate
-- Caste certificate (if applicable)
+- Caste certificate
+- Bank passbook
 - Domicile certificate
-- Bank passbook (Aadhaar-linked)
-- Passport-size photos
+- Passport-size photographs
 
-## Summary
+## Frequently Asked Questions
 
-Bihar has made remarkable progress in expanding welfare delivery, particularly in education and women's empowerment. The Student Credit Card and Kanya Utthan schemes are nationally recognised models. Service Online Bihar and the RTPS system ensure time-bound delivery of government services.
+**How do I check Bihar pension status?**
+Visit e-Labharthi portal (elabharthi.bih.nic.in) and check using your beneficiary ID or Aadhaar number.
 
-## Related Guides
+**Is Student Credit Card available for all courses?**
+It covers 42 approved courses including BA, BSc, BCom, engineering, medical, MBA, and other professional courses recognized by UGC/AICTE.
 
-- [Mukhyamantri Kanya Utthan Yojana Bihar](/guide/mukhyamantri-kanya-utthan-yojana-bihar)
-- [Student Credit Card Bihar](/guide/student-credit-card-bihar)
-- [Bihar Mukhyamantri Cycle Yojana](/guide/bihar-mukhyamantri-cycle-yojana)
-- [Bihar Mukhyamantri Gramin Awas Yojana](/guide/bihar-mukhyamantri-gramin-awas-yojana)
-- [Bihar Satat Jeevika Yojana](/guide/bihar-satat-jeevika-yojana)
-- [Bhumi Jankari Land Records Bihar](/guide/bhumi-jankari-land-records-bihar)
-- [Ration Card Apply Online Bihar](/guide/ration-card-apply-online-bihar)
-- [BPSC PCS Exam Guide](/guide/bpsc-pcs-exam-guide)
+**How to apply for Bihar caste certificate online?**
+Through RTPS Bihar portal or Service Online Bihar. See our guide: [Caste Certificate Online](/guide/caste-certificate-online)
+
+---
+
+*Bihar government regularly updates scheme benefits and eligibility. Always verify latest details on official portals before applying.*
