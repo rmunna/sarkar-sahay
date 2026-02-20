@@ -38,6 +38,14 @@ export const metadata: Metadata = {
     siteName: "CitizenNest",
     locale: "en_IN",
     type: "website",
+    images: [
+      {
+        url: "/og-image.svg",
+        width: 1200,
+        height: 630,
+        alt: "CitizenNest — Your Guide to Government Services",
+      },
+    ],
   },
   robots: { index: true, follow: true },
   icons: {
@@ -99,7 +107,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <header className="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-sm">
           <nav className="max-w-6xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
             <Link href="/" className="flex items-center gap-2 group">
-              <span className="text-2xl">🏠</span>
+              <img src="/favicon.svg" alt="CitizenNest" width={32} height={32} className="w-8 h-8" />
               <span className="text-xl font-extrabold text-gray-900 group-hover:text-orange-600 transition">
                 Citizen<span className="text-orange-600">Nest</span>
               </span>
@@ -129,7 +137,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <div className="flex flex-col md:flex-row justify-between gap-6">
               <div>
                 <div className="flex items-center gap-2 mb-2">
-                  <span className="text-xl">🏠</span>
+                  <img src="/favicon.svg" alt="CitizenNest" width={24} height={24} className="w-6 h-6" />
                   <span className="font-bold text-gray-900">
                     Citizen<span className="text-orange-600">Nest</span>
                   </span>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- CitizenNest Logo — House in Nest -->
+  <defs>
+    <linearGradient id="nestGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B35;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E85D26;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="leafGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2D8F4E;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1A6B35;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Nest twigs -->
+  <path d="M100 310 Q170 270 256 282 Q342 270 412 310" fill="none" stroke="url(#nestGrad)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M125 345 Q185 310 256 320 Q327 310 387 345" fill="none" stroke="url(#nestGrad)" stroke-width="11" stroke-linecap="round"/>
+  <path d="M155 375 Q200 348 256 354 Q312 348 357 375" fill="none" stroke="url(#nestGrad)" stroke-width="9" stroke-linecap="round"/>
+  <path d="M185 400 Q215 385 256 388 Q297 385 327 400" fill="none" stroke="url(#nestGrad)" stroke-width="7" stroke-linecap="round"/>
+  
+  <!-- House roof -->
+  <path d="M256 95 L355 195 L343 195 L343 285 L169 285 L169 195 L157 195 Z" fill="url(#nestGrad)"/>
+  
+  <!-- Door -->
+  <rect x="234" y="230" width="44" height="55" rx="5" fill="white"/>
+  <!-- Door knob -->
+  <circle cx="268" cy="260" r="4" fill="#E85D26"/>
+  
+  <!-- Window left -->
+  <rect x="185" y="210" width="34" height="30" rx="4" fill="white" opacity="0.92"/>
+  <line x1="202" y1="210" x2="202" y2="240" stroke="#E85D26" stroke-width="2" opacity="0.4"/>
+  <line x1="185" y1="225" x2="219" y2="225" stroke="#E85D26" stroke-width="2" opacity="0.4"/>
+  
+  <!-- Window right -->
+  <rect x="293" y="210" width="34" height="30" rx="4" fill="white" opacity="0.92"/>
+  <line x1="310" y1="210" x2="310" y2="240" stroke="#E85D26" stroke-width="2" opacity="0.4"/>
+  <line x1="293" y1="225" x2="327" y2="225" stroke="#E85D26" stroke-width="2" opacity="0.4"/>
+  
+  <!-- Leaf accents -->
+  <path d="M352 148 Q380 118 398 138 Q378 162 352 148Z" fill="url(#leafGrad)"/>
+  <path d="M357 152 Q380 128 392 142" fill="none" stroke="white" stroke-width="1.5" opacity="0.5"/>
+  <path d="M365 165 Q385 145 395 158 Q382 172 365 165Z" fill="url(#leafGrad)" opacity="0.7"/>
+  
+  <!-- Text -->
+  <text x="256" y="475" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-weight="700" font-size="50" fill="#2D3748">Citizen<tspan fill="#FF6B35">Nest</tspan></text>
+</svg>

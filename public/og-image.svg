@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <!-- CitizenNest OG Image — for social sharing -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFF8F0" />
+      <stop offset="100%" style="stop-color:#FFF0E0" />
+    </linearGradient>
+    <linearGradient id="nestG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B35" />
+      <stop offset="100%" style="stop-color:#E85D26" />
+    </linearGradient>
+    <linearGradient id="leafG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2D8F4E" />
+      <stop offset="100%" style="stop-color:#1A6B35" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+  
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="1200" height="6" fill="url(#nestG)"/>
+  
+  <!-- Logo icon (left side) -->
+  <g transform="translate(180, 80) scale(0.85)">
+    <!-- Nest twigs -->
+    <path d="M100 310 Q170 270 256 282 Q342 270 412 310" fill="none" stroke="url(#nestG)" stroke-width="14" stroke-linecap="round"/>
+    <path d="M125 345 Q185 310 256 320 Q327 310 387 345" fill="none" stroke="url(#nestG)" stroke-width="11" stroke-linecap="round"/>
+    <path d="M155 375 Q200 348 256 354 Q312 348 357 375" fill="none" stroke="url(#nestG)" stroke-width="9" stroke-linecap="round"/>
+    <path d="M185 400 Q215 385 256 388 Q297 385 327 400" fill="none" stroke="url(#nestG)" stroke-width="7" stroke-linecap="round"/>
+    
+    <!-- House -->
+    <path d="M256 95 L355 195 L343 195 L343 285 L169 285 L169 195 L157 195 Z" fill="url(#nestG)"/>
+    <rect x="234" y="230" width="44" height="55" rx="5" fill="white"/>
+    <circle cx="268" cy="260" r="4" fill="#E85D26"/>
+    <rect x="185" y="210" width="34" height="30" rx="4" fill="white" opacity="0.92"/>
+    <rect x="293" y="210" width="34" height="30" rx="4" fill="white" opacity="0.92"/>
+    
+    <!-- Leaves -->
+    <path d="M352 148 Q380 118 398 138 Q378 162 352 148Z" fill="url(#leafG)"/>
+    <path d="M365 165 Q385 145 395 158 Q382 172 365 165Z" fill="url(#leafG)" opacity="0.7"/>
+  </g>
+  
+  <!-- Text (right side) -->
+  <text x="700" y="270" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="72" fill="#2D3748">Citizen<tspan fill="#FF6B35">Nest</tspan></text>
+  
+  <text x="700" y="340" font-family="system-ui, -apple-system, sans-serif" font-weight="400" font-size="30" fill="#718096">Your Guide to Government Services</text>
+  
+  <!-- Bottom accent -->
+  <rect x="700" y="380" width="80" height="4" rx="2" fill="url(#nestG)"/>
+  
+  <text x="700" y="430" font-family="system-ui, -apple-system, sans-serif" font-weight="400" font-size="22" fill="#A0AEC0">citizennest.com</text>
+  
+  <!-- Bottom border -->
+  <rect x="0" y="624" width="1200" height="6" fill="url(#leafG)"/>
+</svg>
