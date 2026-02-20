@@ -4,7 +4,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Free Financial Calculators & Tools for India",
   description:
-    "22 free calculators — EMI, SIP, FD, PPF, GST, NPS, income tax, HRA, gratuity, home loan eligibility, retirement, education cost & more. Updated for FY 2025-26.",
+    "30 free calculators & eligibility checkers — EMI, SIP, FD, PPF, GST, NPS, income tax, HRA, gratuity, home loan, PMAY, Ayushman Bharat, MUDRA & more. Updated for FY 2025-26.",
 };
 
 const calculators = [
@@ -139,6 +139,54 @@ const calculators = [
     title: "Car Loan Calculator",
     description: "EMI, on-road price breakdown, depreciation schedule & total cost of ownership.",
     href: "/calculator/car-loan",
+  },
+  {
+    icon: "🏠",
+    title: "PM Awas Yojana Eligibility",
+    description: "Check PMAY eligibility — income category, property ownership & subsidy amount.",
+    href: "/calculator/pm-awas-yojana-eligibility",
+  },
+  {
+    icon: "🏥",
+    title: "Ayushman Bharat Eligibility",
+    description: "Check if your family qualifies for PM-JAY ₹5 lakh free health insurance.",
+    href: "/calculator/ayushman-bharat-eligibility",
+  },
+  {
+    icon: "👴",
+    title: "Atal Pension Yojana Eligibility",
+    description: "Check APY eligibility — age, bank account & tax status for guaranteed pension.",
+    href: "/calculator/atal-pension-yojana-eligibility",
+  },
+  {
+    icon: "👧",
+    title: "Sukanya Samriddhi Eligibility",
+    description: "Check if you can open SSY account — girl child age, guardian & account limits.",
+    href: "/calculator/sukanya-samriddhi-eligibility",
+  },
+  {
+    icon: "🌾",
+    title: "PM Kisan Eligibility",
+    description: "Check PM-KISAN eligibility — land ownership, income source & exclusion criteria.",
+    href: "/calculator/pm-kisan-eligibility",
+  },
+  {
+    icon: "🧓",
+    title: "Senior Citizen Pension Eligibility",
+    description: "Check old age pension eligibility — IGNOAPS & state pension schemes for 60+.",
+    href: "/calculator/senior-citizen-pension-eligibility",
+  },
+  {
+    icon: "💼",
+    title: "MUDRA Loan Eligibility",
+    description: "Check MUDRA loan eligibility — Shishu, Kishore & Tarun for small businesses.",
+    href: "/calculator/mudra-loan-eligibility",
+  },
+  {
+    icon: "🔥",
+    title: "Ujjwala Yojana Eligibility",
+    description: "Check PM Ujjwala eligibility — free LPG connection for BPL households.",
+    href: "/calculator/ujjwala-yojana-eligibility",
   },
 ];
 
