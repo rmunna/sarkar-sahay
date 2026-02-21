@@ -42,8 +42,8 @@ West Bengal runs several high-impact welfare schemes aimed at women's financial 
 West Bengal's flagship income support scheme for women, providing monthly financial assistance directly to bank accounts.
 
 **Key benefits:**
-- ₹500/month for general category women
-- ₹1,000/month for SC/ST women
+- ₹1,000/month for general category women
+- ₹1,200/month for SC/ST women
 - Women aged 25-60 eligible
 - Must be resident of West Bengal
 
@@ -54,9 +54,10 @@ Read the complete guide: [Lakshmir Bhandar West Bengal](/guide/lakshmir-bhandar-
 Internationally awarded scheme providing financial support to girls aged 13-18 for continuing education and preventing child marriage.
 
 **Key benefits:**
-- Annual scholarship of ₹750 for girls aged 13-18 (enrolled in school)
-- One-time grant of ₹25,000 at age 18 (if unmarried and pursuing education)
-- Covers girls from families with annual income below ₹1.20 lakh
+- **K1:** Annual scholarship of ₹750 for girls aged 13-18 (enrolled in school)
+- **K2:** One-time grant of ₹25,000 at age 18 (if unmarried and pursuing education)
+- **K3:** Financial support for higher education (UG/PG)
+- Open to all girls – income bar has been removed by the state government
 
 Read the complete guide: [Kanyashree Prakalpa West Bengal](/guide/kanyashree-prakalpa-west-bengal)
 
@@ -99,6 +100,16 @@ Monthly scholarship for students from economically weaker families pursuing high
 
 Read the complete guide: [WB Swami Vivekananda Scholarship](/guide/wb-swami-vivekananda-scholarship)
 
+### West Bengal Student Credit Card (WBSCC)
+
+Soft loan scheme enabling students to pursue higher education without financial constraints. Covers Class X and above students for higher secondary, UG, PG, professional, diploma, and doctoral courses – within West Bengal, outside the state, or even abroad.
+
+**Key features:**
+- Available to West Bengal residents up to age 40
+- Covers tuition, hostel, books, and living expenses
+- Also covers coaching for competitive exams (IAS, WBCS, etc.)
+- Apply at [wbscc.wb.gov.in](https://wbscc.wb.gov.in/)
+
 ### Other Education Schemes
 
 - **Aikyashree** – Scholarship for minority students
@@ -112,7 +123,7 @@ See also: [Post-Matric and Pre-Matric Scholarships](/guide/scholarship-post-matr
 
 ### Bangla Awas Yojana
 
-State housing scheme for rural BPL families providing financial assistance for pucca house construction.
+State housing scheme for rural BPL families providing ₹1.20–1.30 lakh financial assistance for pucca house construction.
 
 ### Nijo Griha Nijo Bhumi
 
