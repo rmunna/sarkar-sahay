@@ -1,19 +1,23 @@
 ---
 title: Telangana Government Schemes and Services – Complete Guide
 description: >-
-  Complete guide to Telangana government schemes — Rythu Bandhu, Aasara Pension,
-  Kalyana Lakshmi, Dalit Bandhu, Dharani, and how to apply.
+  Complete guide to Telangana government schemes — Rythu Bharosa, Aasara Pension,
+  Kalyana Lakshmi, Gruha Jyothi, Mahalakshmi, Indiramma Indlu, and how to apply.
 category: State Schemes
 keywords:
   - telangana government schemes
   - telangana sarkari yojana
   - telangana welfare schemes
   - telangana government services
+  - rythu bharosa telangana
   - rythu bandhu telangana
   - aasara pension telangana
   - kalyana lakshmi telangana
   - dalit bandhu telangana
   - dharani portal telangana
+  - gruha jyothi telangana
+  - mahalakshmi scheme telangana
+  - indiramma indlu telangana
   - telangana ration card
 readingTime: 12 min
 officialLinks:
@@ -24,7 +28,7 @@ officialLinks:
 
 # Telangana Government Schemes and Services – Complete Guide
 
-Telangana, India's youngest state formed in 2014, has developed an extensive welfare framework covering farmer support, social pensions, women's empowerment, and education. Flagship programmes like Rythu Bandhu (farmer investment support), Aasara Pension, and Kalyana Lakshmi have become models for other states. This guide covers every major Telangana government scheme with eligibility, benefits, and application details.
+Telangana, India's youngest state formed in 2014, has developed an extensive welfare framework covering farmer support, social pensions, women's empowerment, and education. Following the Congress government's election in December 2023 under CM Revanth Reddy, several flagship schemes were renamed or restructured — Rythu Bandhu became Rythu Bharosa, and new programmes like Gruha Jyothi, Mahalakshmi, and Indiramma Indlu were launched as part of six poll guarantees. This guide covers every major Telangana government scheme with eligibility, benefits, and application details.
 
 ## Key Government Portals in Telangana
 
@@ -36,15 +40,17 @@ Telangana, India's youngest state formed in 2014, has developed an extensive wel
 
 ## Agriculture Schemes
 
-### Rythu Bandhu – Farmer Investment Support
+### Rythu Bharosa (formerly Rythu Bandhu) – Farmer Investment Support
 
-Telangana's flagship agriculture scheme providing **₹10,000 per acre per year** (₹5,000 per season) directly to farmer bank accounts for crop investment. One of India's first direct farmer investment support programmes.
+Telangana's flagship agriculture scheme, **renamed from Rythu Bandhu to Rythu Bharosa on 26 January 2025** by the Congress government. Now provides **₹12,000 per acre per year** (₹6,000 per season) directly to farmer bank accounts for crop investment. Lands suitable for cultivation only are eligible — non-agricultural and commercial lands are excluded under the new guidelines.
 
 **Eligibility:**
-- All land-owning farmers in Telangana
+- All land-owning farmers in Telangana with cultivable land
 - Land must be recorded in Dharani portal
-- Both small and large farmers eligible
+- Both small and large farmers eligible (non-cultivable land excluded)
 - Tenant farmers excluded (separate schemes available)
+
+**Official Portal:** [rythubharosa.telangana.gov.in](https://rythubharosa.telangana.gov.in/)
 
 Read the complete guide: [Rythu Bandhu Telangana](/guide/rythu-bandhu-telangana) | [Telangana Rythu Bandhu Scheme](/guide/telangana-rythu-bandhu-scheme)
 
@@ -93,9 +99,13 @@ Marriage assistance of **₹1,00,116** for women from SC, ST, BC, and minority c
 
 Read the complete guide: [Kalyana Lakshmi Shaadi Mubarak Telangana](/guide/kalyana-lakshmi-shaadi-mubarak-telangana)
 
-### KCR Kit (Amma Odi / Mother and Child Kit)
+### MCH Kit (formerly KCR Kit / Amma Odi) – Mother and Child Health Kit
 
-Nutrition and baby care kit worth ₹15,000 for mothers who deliver in government hospitals, along with ₹12,000 cash incentive (₹13,000 for girl child).
+Renamed from KCR Kit to **MCH Kit (Mother and Child Health Kit)** by the Congress government in January 2024. Nutrition and baby care kit with 15 items for mothers who deliver in government hospitals, along with cash incentive (₹13,000 for girl child, ₹12,000 for boy child).
+
+### Mahalakshmi Scheme
+
+A flagship Congress government scheme providing **₹2,500 per month** to women, **LPG gas cylinders at ₹500**, and **free travel in TSRTC buses**. Part of the six poll guarantees.
 
 ### She Teams
 
@@ -147,18 +157,20 @@ Free diagnostic services including blood tests, X-rays, ECG, and ultrasound at g
 
 ## Housing Schemes
 
-### 2BHK Housing (Dignity Housing)
+### Indiramma Indlu – Housing Scheme
 
-Telangana's flagship housing scheme providing free **2BHK houses** to eligible families from economically weaker sections. One of the most generous state housing programmes in India.
+The Congress government's flagship housing initiative replacing the earlier 2BHK Housing scheme. Aims to build **4.5 lakh permanent homes** with a budget of **₹22,000 crore**. "Mana Illu… Mana Kutumbam" — providing housing to economically weaker families.
 
 **Eligibility:**
 - Houseless families
 - Income below prescribed limits
 - Priority to SC, ST, minorities, and widows
 
-### Indiramma Housing
+**Official Portal:** [indirammaindlu.telangana.gov.in](https://indirammaindlu.telangana.gov.in/)
 
-Rural housing scheme providing financial assistance for house construction to BPL families.
+## Gruha Jyothi – Free Electricity
+
+Congress government scheme providing **free electricity up to 200 units per month** to eligible domestic households. Households consuming 200 units or less receive a zero electricity bill. Consumption exceeding 200 units is charged at regular tariff. Launched in February 2024 as part of the six poll guarantees.
 
 ## Dalit Bandhu – SC Empowerment
 
@@ -246,11 +258,11 @@ Telangana certificates through MeeSeva portal:
 
 ## Frequently Asked Questions
 
-**How do I check my Rythu Bandhu status?**
-Visit the Rythu Bandhu portal or check with your local agriculture officer. Payment status is also available through Dharani portal.
+**How do I check my Rythu Bharosa (formerly Rythu Bandhu) status?**
+Visit the [Rythu Bharosa portal](https://rythubharosa.telangana.gov.in/) or check with your local agriculture officer. Payment status is also available through Dharani portal.
 
-**Can tenant farmers get Rythu Bandhu?**
-Currently, Rythu Bandhu is only for land-owning farmers. Tenant farmers can access other central schemes like PM-KISAN.
+**Can tenant farmers get Rythu Bharosa?**
+Currently, Rythu Bharosa is only for land-owning farmers with cultivable land. Tenant farmers can access other central schemes like PM-KISAN.
 
 **How do I apply for Aasara Pension?**
 Apply through the MeeSeva portal or visit the Tahsildar office with age proof, income certificate, and Aadhaar.
