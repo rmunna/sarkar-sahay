@@ -39,15 +39,15 @@ Bihar has significantly expanded its welfare programme portfolio in recent years
 
 ### Mukhyamantri Kanya Utthan Yojana
 
-Bihar's flagship scheme for girls providing financial assistance from birth to graduation – total benefit of approximately ₹54,100.
+Bihar's flagship scheme for girls providing financial assistance from birth to graduation – total benefit of approximately ₹94,100.
 
 **Instalment structure:**
 - ₹2,000 at birth
 - ₹1,000 at age 1 (Aadhaar registration)
 - ₹2,000 at age 2 (immunization)
-- ₹Uniform and sanitary napkin grants during school years
-- ₹10,000 on passing class 12 (unmarried)
-- ₹25,000 on graduation completion
+- Uniform and sanitary napkin grants during school years
+- ₹25,000 on passing class 12 (unmarried)
+- ₹50,000 on graduation completion
 
 Read the complete guide: [Mukhyamantri Kanya Utthan Yojana Bihar](/guide/mukhyamantri-kanya-utthan-yojana-bihar)
 
@@ -62,8 +62,7 @@ Marriage assistance grant for women from economically weaker families.
 Interest-free education loan of up to ₹4 lakh for students from Bihar pursuing higher education (graduation and above). One of Bihar's most impactful youth schemes.
 
 **Key features:**
-- Loan up to ₹4 lakh at 0% interest (for female, transgender, and disabled students)
-- 1% interest for male students
+- Loan up to ₹4 lakh at 0% interest for all students (since September 2025)
 - Covers tuition fees, hostel, books, and living expenses
 - No collateral required
 
@@ -137,15 +136,15 @@ See also: [eNAM – National Agriculture Market](/guide/enam-national-agricultur
 
 ### Mukhyamantri Vridhjan Pension
 
-₹400/month for senior citizens aged 60+ (₹500 for 80+). Applied through e-Labharthi portal.
+₹1,100/month for senior citizens aged 60+ (increased from ₹400 in July 2025). Applied through e-Labharthi portal.
 
 ### Widow Pension (Laxmibai Social Security Pension)
 
-₹400-500/month for widows from BPL families.
+₹1,100/month for widows from BPL families (increased from ₹400 in July 2025).
 
 ### Disability Pension
 
-Monthly pension for persons with 40%+ disability.
+₹1,100/month for persons with 40%+ disability (increased from ₹400 in July 2025).
 
 See: [Old Age Pension Guide](/guide/old-age-pension-vridha-pension-apply) | [Widow Pension Guide](/guide/widow-pension-vidhwa-pension-apply)
 
