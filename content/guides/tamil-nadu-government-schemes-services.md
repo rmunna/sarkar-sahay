@@ -45,6 +45,8 @@ Tamil Nadu's landmark scheme providing ₹1,000 per month to women heads of fami
 - Covers women aged 21-60 who are heads of families
 - Benefits transferred directly to bank accounts
 
+**Official portal:** [kmut.tn.gov.in](https://kmut.tn.gov.in/)
+
 Read the complete guide: [Kalaignar Magalir Urimai Thogai Tamil Nadu](/guide/kalaignar-magalir-urimai-thogai-tamil-nadu)
 
 ### Tamil Nadu Marriage Assistance Scheme
@@ -81,6 +83,7 @@ Read the complete guide: [TN Free Bicycle and Laptop Scheme](/guide/tn-free-bicy
 ### Other Education Benefits
 
 - **Free bus passes** for school and college students
+- **Chief Minister's Breakfast Scheme** – Free breakfast for primary school children (Classes 1-5) in government schools on all working days, expanded to State-aided urban schools in 2025
 - **Noon Meal Programme** (Mid-Day Meal) – Hot cooked meals for school children
 - **Free textbooks and uniforms** for government school students
 - **Post-matric scholarships** for SC, ST, OBC, and minority students
@@ -104,6 +107,8 @@ Tamil Nadu Slum Clearance Board provides rehabilitation housing for slum dweller
 ### Chief Minister's Comprehensive Health Insurance Scheme (CMCHIS)
 
 Integrated with Ayushman Bharat, provides cashless medical treatment up to ₹5 lakh per family per year at empanelled hospitals.
+
+**Official portal:** [cmchistn.com](https://www.cmchistn.com/)
 
 **Coverage:**
 - 1,027+ medical procedures and surgeries
@@ -147,6 +152,12 @@ Tamil Nadu runs one of India's best PDS systems with high coverage and efficienc
 Apply for ration card: [Ration Card Apply Online Tamil Nadu](/guide/ration-card-apply-online-tamil-nadu)
 
 Also see: [Ration Card Types](/guide/ration-card-types-priorities) | [One Nation One Ration Card](/guide/one-nation-one-ration-card-onorc)
+
+## Poverty Alleviation
+
+### Chief Minister's Thayumanuvar Scheme
+
+Launched in February 2024, this convergence scheme aims to identify and uplift approximately 5 lakh extremely poor families by streamlining all forms of government assistance to swiftly move them out of poverty.
 
 ## Social Security and Pension
 
