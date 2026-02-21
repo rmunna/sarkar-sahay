@@ -39,10 +39,10 @@ Madhya Pradesh has emerged as a leader in direct benefit transfer schemes with t
 
 ### Ladli Bahna Yojana
 
-MP's most popular scheme providing ₹1,250 per month to women aged 21-60 from eligible families. One of India's largest direct women's benefit transfer programmes.
+MP's most popular scheme providing ₹1,500 per month to women aged 21-60 from eligible families. One of India's largest direct women's benefit transfer programmes.
 
 **Key features:**
-- Monthly transfer of ₹1,250 (increased from original ₹1,000)
+- Monthly transfer of ₹1,500 (increased from ₹1,250 in late 2025; originally ₹1,000)
 - Covers married, widowed, divorced, and deserted women
 - Family income must be below ₹2.5 lakh/year
 - Samagra ID mandatory
@@ -255,7 +255,7 @@ Samagra ID is MP's family and individual identity system. It is **mandatory** fo
 Yes, Samagra ID is required for almost all Madhya Pradesh government schemes. Apply for it first.
 
 **How much does Ladli Bahna give per month?**
-Currently ₹1,250/month, with plans to increase further. Benefits are transferred on the 10th of every month.
+Currently ₹1,500/month (increased from ₹1,250 in late 2025). Benefits are transferred on the 10th of every month.
 
 **Can I apply for Seekho Kamao as a fresher?**
 Yes, the scheme is designed for youth aged 18-29. Fresh graduates and those with ITI/diploma are eligible.
