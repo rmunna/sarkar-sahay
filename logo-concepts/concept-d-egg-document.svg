@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Concept D: Egg/nest shape containing a document — "your documents, safely nested" -->
+  <defs>
+    <linearGradient id="warmOrange" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF8A65;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E64A19;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="softBlue" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#42A5F5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1976D2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Egg shape -->
+  <ellipse cx="256" cy="235" rx="155" ry="190" fill="url(#warmOrange)"/>
+  
+  <!-- Document icon inside egg -->
+  <rect x="196" y="140" width="120" height="160" rx="8" fill="white"/>
+  <!-- Document fold -->
+  <path d="M276 140 L316 180 L276 180 Z" fill="#E0E0E0"/>
+  <rect x="196" y="140" width="80" height="40" rx="8" fill="white"/>
+  
+  <!-- Document lines -->
+  <rect x="216" y="200" width="80" height="6" rx="3" fill="#BDBDBD"/>
+  <rect x="216" y="218" width="60" height="6" rx="3" fill="#BDBDBD"/>
+  <rect x="216" y="236" width="70" height="6" rx="3" fill="#BDBDBD"/>
+  <rect x="216" y="254" width="45" height="6" rx="3" fill="#BDBDBD"/>
+  
+  <!-- Checkmark on document -->
+  <circle cx="296" cy="270" r="20" fill="url(#softBlue)"/>
+  <path d="M286 270 L293 278 L308 262" fill="none" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Nest twigs at bottom -->
+  <path d="M100 370 Q170 330 256 340 Q342 330 412 370" fill="none" stroke="#8D6E63" stroke-width="10" stroke-linecap="round"/>
+  <path d="M120 395 Q180 360 256 368 Q332 360 392 395" fill="none" stroke="#8D6E63" stroke-width="8" stroke-linecap="round"/>
+  <path d="M150 415 Q195 390 256 395 Q317 390 362 415" fill="none" stroke="#8D6E63" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- Text -->
+  <text x="256" y="480" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="46" fill="#37474F">Citizen<tspan fill="#E64A19">Nest</tspan></text>
+</svg>

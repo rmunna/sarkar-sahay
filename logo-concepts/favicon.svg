@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- CitizenNest Favicon — House in Nest (compact) -->
+  <defs>
+    <linearGradient id="ng" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B35" />
+      <stop offset="100%" style="stop-color:#E85D26" />
+    </linearGradient>
+    <linearGradient id="lg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2D8F4E" />
+      <stop offset="100%" style="stop-color:#1A6B35" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Nest twigs -->
+  <path d="M10 42 Q22 36 32 38 Q42 36 54 42" fill="none" stroke="url(#ng)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M14 48 Q23 43 32 44 Q41 43 50 48" fill="none" stroke="url(#ng)" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M19 53 Q25 49 32 50 Q39 49 45 53" fill="none" stroke="url(#ng)" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- House -->
+  <path d="M32 10 L48 26 L46 26 L46 38 L18 38 L18 26 L16 26 Z" fill="url(#ng)"/>
+  
+  <!-- Door -->
+  <rect x="28" y="30" width="8" height="8" rx="1" fill="white"/>
+  
+  <!-- Windows -->
+  <rect x="21" y="28" width="5" height="5" rx="1" fill="white" opacity="0.9"/>
+  <rect x="38" y="28" width="5" height="5" rx="1" fill="white" opacity="0.9"/>
+  
+  <!-- Leaf -->
+  <path d="M46 18 Q52 13 55 17 Q51 22 46 18Z" fill="url(#lg)"/>
+</svg>
