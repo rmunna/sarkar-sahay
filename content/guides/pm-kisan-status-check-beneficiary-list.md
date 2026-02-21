@@ -1,249 +1,249 @@
 ---
-title: PM Kisan Status — Beneficiary List & Payment Check
-description: >-
-  Step-by-step guide to check your PM Kisan beneficiary status, find your name
-  in the village-wise list, check instalment payment status, complete eKYC,
-  and...
-category: Government Schemes
-keywords:
-  - PM Kisan status check
-  - PM Kisan beneficiary list
-  - PM Kisan payment rejected
-  - PM Kisan eKYC
-  - PM Kisan instalment status
-  - PM Kisan beneficiary status
-  - PM Kisan payment failed
-  - PM Kisan correction
-  - PM Kisan Aadhaar link
-  - PM Kisan bank account change
-  - PM Kisan helpline number
-  - PM Kisan mobile app
-  - PM Kisan 21st instalment
-  - PM Kisan village wise list
-  - pmkisan.gov.in status
-readingTime: 12 min
+title: "PM Kisan Status Check — Payment Status, Beneficiary List & e-KYC"
+description: "Step-by-step guide to check PM Kisan payment status, beneficiary list (village-wise), complete e-KYC, and fix common issues like payment not received or name mismatch."
+category: "Government Schemes"
+keywords: ["PM Kisan status check", "PM Kisan beneficiary status", "PM Kisan beneficiary list", "PM Kisan eKYC", "PM Kisan payment status", "PM Kisan village wise list", "PM Kisan 19th installment", "PM Kisan Aadhaar link"]
+readingTime: "10 min"
 officialLinks:
-  - 'https://pmkisan.gov.in'
-  - 'https://pmkisan.gov.in/BeneficiaryStatus.aspx'
-  - 'https://pmkisan.gov.in/BeneficiaryList.aspx'
-  - 'https://pmkisan.gov.in/UpdateAadharNoByFarmer.aspx'
+  - https://pmkisan.gov.in
+  - https://pmkisan.gov.in/rpt_beneficiarystatus_pub.aspx
 ---
 
-# PM Kisan Status Check — Beneficiary List, Instalment Status & Fix Rejected Payment
+## Overview
 
-PM Kisan Samman Nidhi gives ₹6,000 per year (₹2,000 × 3 instalments) directly to farmers' bank accounts. The 21st instalment was released on 19 November 2025.
+PM Kisan Samman Nidhi Yojana provides **₹6,000 per year** to eligible farmer families in 3 installments of ₹2,000 each. As of February 2025, the government has completed **19 successful installments**, disbursing over **₹3.46 lakh crore** to more than **9.8 crore farmers** since the scheme's inception.
 
-This guide covers everything after registration — how to **check your status**, **find your name in the beneficiary list**, **check instalment payments**, and **fix rejected or failed payments**.
+If you're a PM Kisan beneficiary, you need to regularly check your payment status, ensure your e-KYC is complete, and verify your name in the beneficiary list. This guide covers everything step by step.
 
-> **New to PM Kisan?** First register here: [How to Register for PM Kisan Samman Nidhi](/guide/pm-kisan-samman-nidhi)
+> **Latest Update:** The **19th installment** was released on **24 February 2025** by Prime Minister Narendra Modi in Bhagalpur, Bihar. Over 9.8 crore farmers received ₹22,000+ crore in direct financial assistance. For full scheme details, see our [PM Kisan Samman Nidhi guide](/guide/pm-kisan-samman-nidhi).
 
----
+## How to Check PM Kisan Payment Status Online
 
-## How to Check PM Kisan Beneficiary Status
+You can check whether your PM Kisan installment has been credited using your **Aadhaar number**, **mobile number**, or **registration number**.
 
-Follow these steps to check if you are a registered PM Kisan beneficiary:
+### Step-by-Step Process
+
+1. **Visit the official website** — Go to [pmkisan.gov.in](https://pmkisan.gov.in)
+2. **Click on "Know Your Status"** — Find this option under the "Farmers Corner" section on the homepage
+3. **Enter your details** — You can search using any one of:
+   - **Registration Number** (recommended — fastest)
+   - **Aadhaar Number**
+   - **Mobile Number**
+4. **Enter the CAPTCHA** and click **"Get Data"**
+5. **View your payment history** — The page will show:
+   - All installments received with dates
+   - Amount credited per installment
+   - Current status (Credited / Pending / Rejected)
+   - Bank account details (partially masked)
+
+### Understanding Payment Status
+
+| Status | Meaning |
+|--------|---------|
+| **FTO is Generated** | Fund Transfer Order created — payment is being processed |
+| **RFT Signed** | Request for Transfer signed — money will reach bank soon |
+| **Payment Success** | ₹2,000 credited to your bank account |
+| **Payment Failure** | Transfer failed — check bank/Aadhaar details |
+| **Pending for Approval at State** | Your application is awaiting state-level verification |
+| **Pending for Approval at District** | District-level verification pending |
+
+## How to Check PM Kisan Beneficiary List (Village-Wise)
+
+Want to check if your name is in the PM Kisan beneficiary list? You can verify village-wise without any login.
+
+### Steps to Check Beneficiary List
+
+1. **Go to** [pmkisan.gov.in](https://pmkisan.gov.in)
+2. **Click on "Beneficiary List"** under the Farmers Corner section
+3. **Select the following details:**
+   - **State** (e.g., Uttar Pradesh, Bihar, Madhya Pradesh)
+   - **District**
+   - **Sub-District / Tehsil**
+   - **Block**
+   - **Village**
+4. **Click "Get Report"**
+5. **Check your name** — The list will display all beneficiaries in your village along with their payment status
+
+> **Tip:** If your name is missing from the village list but you've registered, your application may still be under verification. Check the "Know Your Status" page for the exact status.
+
+## PM Kisan e-KYC — Complete Guide
+
+**e-KYC (Electronic Know Your Customer)** is **mandatory** for all PM Kisan beneficiaries. Without completing e-KYC, your installment payments will be stopped.
+
+### Why is e-KYC Required?
+
+- To verify that the beneficiary is a real person
+- To link your Aadhaar with your PM Kisan registration
+- To prevent duplicate or fake registrations
+- Government mandate — no e-KYC means no payment
+
+### How to Complete PM Kisan e-KYC Online (OTP Method)
+
+1. **Visit** [pmkisan.gov.in](https://pmkisan.gov.in)
+2. **Click on "e-KYC"** under the Farmers Corner section
+3. **Enter your Aadhaar number** linked to PM Kisan
+4. **Click "Search"** — Your registered details will appear
+5. **Click "Get OTP"** — An OTP will be sent to the mobile number linked to your Aadhaar
+6. **Enter the OTP** and click **"Submit"**
+7. **e-KYC complete** — You'll see a success message
+
+> **Important:** The mobile number linked to your **Aadhaar card** must be active to receive the OTP. This is different from the mobile number you used during PM Kisan registration. For help linking your Aadhaar, see our [Aadhaar Linking Guide](/guide/aadhaar-linking-guide).
+
+### e-KYC via CSC (Common Service Centre)
+
+If you don't have an Aadhaar-linked mobile number, visit your nearest **CSC (Common Service Centre)** or **Aadhaar Centre**:
+
+1. Visit the nearest CSC with your **Aadhaar card** and **PM Kisan registration number**
+2. The CSC operator will perform **biometric verification** (fingerprint scan)
+3. e-KYC will be completed instantly
+4. You'll receive a confirmation SMS
+
+### e-KYC Status Check
 
 1. Go to [pmkisan.gov.in](https://pmkisan.gov.in)
-2. Click on **"Know Your Status"** (under Farmers Corner)
-3. Enter your **Registration Number** or **Aadhaar Number** or **Mobile Number**
-4. Enter the captcha and click **Get Data**
-5. Your beneficiary status will show — registered, pending, rejected, etc.
+2. Click on **"e-KYC"** under Farmers Corner
+3. Enter your Aadhaar number
+4. If e-KYC is already done, it will show **"eKYC is successfully done"**
 
-**What the status means:**
-- **Approved** — Your application is accepted. You will receive payments.
-- **Pending at State/District** — Your application is still being verified by the state government.
-- **Rejected** — Your application was rejected. Check the reason and fix it (see below).
+## PM Kisan Installment Schedule
 
----
+PM Kisan pays ₹6,000 per year in 3 installments:
 
-## How to Check PM Kisan Instalment Status
+| Installment | Period | Usual Release Month |
+|-------------|--------|-------------------|
+| 1st Installment | April – July | April–June |
+| 2nd Installment | August – November | August–October |
+| 3rd Installment | December – March | December–February |
 
-To check which instalment you received and the exact date and amount:
+### Recent Installment History
 
-1. Go to [pmkisan.gov.in](https://pmkisan.gov.in)
-2. Click **"Know Your Status"**
-3. Enter your Aadhaar or Registration Number
-4. After your details load, you will see a **list of all instalments** — which ones were paid, the amount (₹2,000 each), and the date of transfer
-5. If any instalment shows **"FTO is generated and Payment confirmation is pending"**, the money is on its way — check your bank in 2–3 days
+| Installment | Release Date | Amount | Beneficiaries |
+|-------------|-------------|--------|---------------|
+| 19th | 24 February 2025 | ₹2,000 | 9.8 crore+ farmers |
+| 18th | 5 October 2024 | ₹2,000 | 9.4 crore+ farmers |
+| 17th | June 2024 | ₹2,000 | 9.3 crore+ farmers |
 
-**Instalment Schedule (2025-26):**
+> **Total disbursed since inception:** Over ₹3.46 lakh crore across 19 installments to 11+ crore farmer families.
 
-| Instalment | Period | Amount |
-|---|---|---|
-| 1st | April – July | ₹2,000 |
-| 2nd | August – November | ₹2,000 |
-| 3rd | December – March | ₹2,000 |
+## How to Update Bank Account or Aadhaar Details
 
----
+If your bank account has changed or there's a mismatch in your Aadhaar details, you can update them online.
 
-## How to Find Your Name in Beneficiary List (Village/District Wise)
+### Update Bank Account Details
 
-You can check if your name is in the PM Kisan beneficiary list for your village:
-
-1. Go to [pmkisan.gov.in/BeneficiaryList.aspx](https://pmkisan.gov.in/BeneficiaryList.aspx)
-2. Select your **State**
-3. Select your **District**
-4. Select your **Sub-District (Tehsil/Taluk)**
-5. Select your **Block**
-6. Select your **Village**
-7. Click **Get Report**
-8. A list of all beneficiaries in your village will appear — search for your name
-
-If your name is **not in the list** but you have registered, your application may still be pending or rejected. Check your status using the method above.
-
----
-
-## PM Kisan eKYC — How to Complete (Mandatory)
-
-**eKYC is mandatory for all PM Kisan beneficiaries.** Without eKYC, your payment will be stopped.
-
-### Option 1: OTP-Based eKYC (Online — Easiest)
-
-1. Go to [pmkisan.gov.in](https://pmkisan.gov.in)
-2. Click on **"eKYC"** under Farmers Corner
-3. Enter your **Aadhaar Number** and click **Search**
-4. An OTP will be sent to the mobile number linked to your Aadhaar
-5. Enter the OTP and submit
-6. Your eKYC is done ✅
-
-### Option 2: Biometric eKYC (At CSC Centre)
-
-If your mobile number is not linked to Aadhaar or you are not receiving OTP:
-
-1. Visit your nearest **Common Service Centre (CSC)**
-2. Carry your **Aadhaar card**
-3. Give your fingerprint or iris scan for biometric verification
-4. The CSC operator will complete your eKYC
-
-> **Important:** If your eKYC is not done, your instalment payment will be withheld. Complete it as soon as possible.
-
----
-
-## PM Kisan Payment Rejected — Common Reasons
-
-If your PM Kisan payment was rejected or failed, here are the most common reasons:
-
-1. **eKYC not completed** — This is the #1 reason now. eKYC is mandatory.
-2. **Aadhaar-bank account mismatch** — Your Aadhaar is not linked to the bank account in your PM Kisan registration, or the name does not match.
-3. **Wrong bank account or IFSC code** — Incorrect bank details entered during registration.
-4. **Land records not verified** — State government has not verified your land ownership records.
-5. **Ineligible farmer** — You fall under the exclusion criteria (government employee, income taxpayer, institutional landholder, etc.)
-6. **Duplicate registration** — More than one family member registered (only one member per family is eligible).
-7. **Land acquired after 01-02-2019** — The government is verifying farmers who got land after the scheme cutoff date.
-8. **Bank account closed or inactive** — Your registered bank account is no longer active.
-9. **Aadhaar number incorrect** — Wrong Aadhaar number entered during registration.
-
----
-
-## How to Fix Rejected PM Kisan Payment
-
-### Step 1: Find the Rejection Reason
-- Go to **Know Your Status** on pmkisan.gov.in
-- Check the exact reason shown against your rejected instalment
-
-### Step 2: Fix Based on the Reason
-
-| Problem | Solution |
-|---|---|
-| eKYC not done | Complete eKYC (OTP or biometric — see above) |
-| Aadhaar not linked to bank | Visit your bank and link Aadhaar to your account |
-| Name mismatch (Aadhaar vs Bank) | Get name corrected in bank or Aadhaar — both should match |
-| Wrong bank account/IFSC | Update bank details on PM Kisan portal (see correction section below) |
-| Land records not verified | Contact your Lekhpal / Patwari / Revenue Officer to update land records |
-| Duplicate registration | Only one member per family should be registered. Contact the helpline. |
-| Account inactive | Reactivate your bank account or update to a new active account |
-
-### Step 3: Wait for Next Cycle
-After fixing the issue, your payment will be processed in the next instalment cycle. It may take 1–2 months.
-
----
-
-## How to Correct Details — Name, Bank Account, Aadhaar Number
-
-If your details are wrong in PM Kisan records, you can update them:
+1. Visit [pmkisan.gov.in](https://pmkisan.gov.in)
+2. Go to **"Updation of Self Registered Farmer"** under Farmers Corner
+3. Enter your **Aadhaar number** and CAPTCHA
+4. Click **"Search"** — your existing details will appear
+5. Click **"Edit"** next to bank account details
+6. Enter your **new bank account number** and **IFSC code**
+7. Submit the form — changes will be verified and updated
 
 ### Update Aadhaar Number
-1. Go to [pmkisan.gov.in/UpdateAadharNoByFarmer.aspx](https://pmkisan.gov.in/UpdateAadharNoByFarmer.aspx)
-2. Enter your **old incorrect Aadhaar** or **Registration Number**
-3. Enter your **correct Aadhaar number**
-4. Submit and verify with OTP
 
-### Update Bank Account
-1. Log in to the PM Kisan portal
-2. Go to **"Updation of Self Registered Farmer"**
-3. Select **Edit Bank Details**
-4. Enter new bank account number and IFSC code
-5. Submit — the change will be verified before next payment
+1. Visit [pmkisan.gov.in](https://pmkisan.gov.in)
+2. Go to **"Edit Aadhaar Failure Records"** under Farmers Corner
+3. Enter your registration details
+4. Update your correct Aadhaar number
+5. Complete e-KYC again after updating
 
-### Update Name or Other Details
-- For name correction, contact your **State Nodal Officer** or visit the **local agriculture office**
-- You can also call the PM Kisan helpline (see below)
+> **Note:** Bank account updates require re-verification by your state/district nodal officer. Allow 2–4 weeks for the update to reflect.
 
-> **Note:** Some corrections (especially bank account changes) require approval from the state government and may take 2–4 weeks.
+## Common Problems and Solutions
 
----
+### 1. Payment Not Received
 
-## PM Kisan Mobile App
+**Possible reasons:**
+- e-KYC not completed — complete it immediately
+- Aadhaar not linked to bank account — visit your bank to link Aadhaar
+- Bank account is inactive or closed — update bank details on PM Kisan portal
+- Land records not verified by state government
+- Name mismatch between Aadhaar and bank account
 
-The PM Kisan mobile app lets you do everything from your phone:
+**Solution:** Check your status on the portal first. If it says "Payment Failure," the issue is likely with your bank account or Aadhaar linking.
 
-- Check beneficiary status
-- Check instalment status
-- Complete eKYC
-- View beneficiary list
-- Use Kisan eMitra chatbot for help
+### 2. Name Mismatch Error
 
-**How to download:**
-1. Open Google Play Store on your Android phone
-2. Search for **"PM Kisan"**
-3. Download the app by **National Informatics Centre (NIC)**
-4. Open the app and use your Aadhaar or Registration Number to log in
+Your name must match **exactly** across:
+- PM Kisan registration
+- Aadhaar card
+- Bank account
 
-The app also has the **Kisan eMitra** AI chatbot — you can ask questions about your status and payments in simple language.
+**Solution:** If there's a mismatch, update your name in the mismatched document. Visit your bank to update your name, or apply for an [Aadhaar correction](/guide/aadhaar-linking-guide).
 
----
+### 3. e-KYC Failed or OTP Not Received
 
-## PM Kisan Helpline & Contact
+**Common causes:**
+- Mobile number not linked to Aadhaar
+- Aadhaar number entered incorrectly
+- Server busy — try again after some time
 
-If you need help with PM Kisan, contact:
+**Solution:**
+- Check if your mobile number is linked to Aadhaar by visiting the [UIDAI website](https://uidai.gov.in)
+- If not linked, visit an Aadhaar enrolment centre to update your mobile number
+- Try e-KYC via CSC using biometric verification instead
 
-- **Helpline Number:** 155261
-- **Toll-Free Number:** 1800-115-526
-- **Phone:** 011-24300606
-- **Email:** pmkisan-ict@gov.in
-- **Website:** [pmkisan.gov.in](https://pmkisan.gov.in)
+### 4. Status Shows "Pending for Approval"
 
-**Helpline hours:** Monday to Friday, 9:30 AM to 6:00 PM
+This means your local (state/district) authority hasn't verified your application yet. You can:
+- Contact your **Village Level Entrepreneur (VLE)** or **Patwari**
+- Call the PM Kisan helpline: **155261** or **011-24300606**
+- Visit your district agriculture office
 
-You can also reach out to your **District Agriculture Officer** or **Block Agriculture Officer** for in-person help.
+### 5. "Aadhaar Not Seeded in Bank Account"
 
----
+This means your Aadhaar is not linked to your bank account for DBT (Direct Benefit Transfer).
+
+**Solution:** Visit your bank branch with your Aadhaar card and ask them to **seed your Aadhaar** to your bank account. This usually takes 1–3 working days.
+
+## PM Kisan Helpline
+
+| Contact Method | Details |
+|---------------|---------|
+| **Helpline Number** | 155261 or 011-24300606 |
+| **Email** | pmkisan-ict@gov.in |
+| **Official Website** | [pmkisan.gov.in](https://pmkisan.gov.in) |
+| **Timings** | Monday to Friday, 9:30 AM – 5:30 PM |
 
 ## Frequently Asked Questions (FAQs)
 
-### Q1: How can I check my PM Kisan payment status online?
-Go to [pmkisan.gov.in](https://pmkisan.gov.in), click "Know Your Status", enter your Aadhaar or Registration Number. You will see all instalment details — amount, date, and status.
+### Q1. How can I check my PM Kisan payment status?
+Visit [pmkisan.gov.in](https://pmkisan.gov.in), click on "Know Your Status" under Farmers Corner, and enter your registration number, Aadhaar number, or mobile number to see your complete payment history.
 
-### Q2: My PM Kisan payment is showing "Pending" — what should I do?
-If the status shows "FTO generated, payment confirmation pending", the money is being transferred — wait 2–3 days. If it stays pending for weeks, complete your eKYC and check that your bank account and Aadhaar are linked correctly.
+### Q2. Is e-KYC mandatory for PM Kisan?
+Yes, e-KYC is **mandatory** for all PM Kisan beneficiaries. If you haven't completed e-KYC, your installment payments will be stopped until you complete it.
 
-### Q3: Why was my PM Kisan payment rejected?
-The most common reasons are: eKYC not done, Aadhaar not linked to bank account, wrong bank details, land records not verified, or being ineligible under scheme rules. Check "Know Your Status" for the exact reason.
+### Q3. When was the 19th installment released?
+The 19th installment was released on **24 February 2025**. Over 9.8 crore farmers received ₹2,000 each, totalling more than ₹22,000 crore.
 
-### Q4: Is eKYC mandatory for PM Kisan? How do I complete it?
-Yes, eKYC is mandatory. You can do it online on pmkisan.gov.in using Aadhaar OTP, or visit a CSC centre for biometric eKYC.
+### Q4. How do I complete PM Kisan e-KYC without a mobile number linked to Aadhaar?
+Visit your nearest **Common Service Centre (CSC)** and complete e-KYC using biometric (fingerprint) verification. No OTP is needed for this method.
 
-### Q5: How do I change my bank account in PM Kisan?
-Go to pmkisan.gov.in → Updation of Self Registered Farmer → Edit Bank Details → Enter new account number and IFSC → Submit. The change needs state government approval.
+### Q5. My name is not in the PM Kisan beneficiary list. What should I do?
+Your application may still be under verification. Check "Know Your Status" on the portal. If it shows pending, contact your local agriculture office or the PM Kisan helpline at 155261.
 
-### Q6: Can both husband and wife get PM Kisan benefit?
-No. Only **one member per family** (husband, wife, and minor children) is eligible. If both have registered, one will be rejected.
+### Q6. Can I update my bank account on the PM Kisan portal?
+Yes. Go to "Updation of Self Registered Farmer" on the PM Kisan website, enter your Aadhaar, and edit your bank account details. Re-verification takes 2–4 weeks.
 
-### Q7: How do I find my name in the PM Kisan beneficiary list for my village?
-Go to [pmkisan.gov.in/BeneficiaryList.aspx](https://pmkisan.gov.in/BeneficiaryList.aspx), select your State → District → Sub-District → Block → Village → Get Report. Your name will appear if you are an approved beneficiary.
+### Q7. Why does my status show "FTO is Generated" but I haven't received money?
+FTO (Fund Transfer Order) generated means the payment is being processed. It usually takes **2–5 working days** for the money to reach your bank account after FTO generation.
+
+### Q8. Can both husband and wife receive PM Kisan benefits?
+Yes, but only if both individually own cultivable land in their own names. A single family (husband, wife, and minor children) is counted as one unit if they share the same landholding.
+
+### Q9. What is the total amount given under PM Kisan per year?
+**₹6,000 per year**, paid in 3 installments of ₹2,000 each (April–July, August–November, December–March).
+
+### Q10. How do I link my Aadhaar to my bank account for PM Kisan?
+Visit your bank branch with your original Aadhaar card. Ask the bank to **seed your Aadhaar number** to your savings account. This enables Direct Benefit Transfer (DBT).
+
+### Q11. I changed my mobile number. Will it affect my PM Kisan payments?
+Changing your personal mobile number does not affect payments. However, if you change the mobile number linked to your **Aadhaar**, you'll need to complete e-KYC again with the new number or use biometric e-KYC at a CSC.
+
+### Q12. What documents are needed for PM Kisan registration?
+You need your **Aadhaar card**, **bank account details** (account number + IFSC code), **land ownership records**, and a **mobile number**. For full registration steps, see our [PM Kisan Samman Nidhi guide](/guide/pm-kisan-samman-nidhi).
 
 ## Related Guides
 
-- [Kisan Credit Card (KCC)](/guide/kisan-credit-card-apply)
-- [PM Kisan Maandhan Yojana](/guide/pm-kisan-maandhan-pension)
-- [Apply for Pradhan Mantri Fasal Bima Yojana (PMFBY)](/guide/pmfby-crop-insurance-apply)
+- [PM Kisan Samman Nidhi — Registration, Eligibility & Status Check](/guide/pm-kisan-samman-nidhi)
+- [Aadhaar Linking Guide](/guide/aadhaar-linking-guide)
