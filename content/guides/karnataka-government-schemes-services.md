@@ -1,9 +1,9 @@
 ---
 title: Karnataka Government Schemes and Services – Complete Guide
 description: >-
-  Comprehensive guide to all Karnataka government schemes and services including
-  Gruha Lakshmi, Anna Bhagya, Shakti, Bhagyalakshmi, Vidyasiri scholarship,
-  health, housing, agriculture with eligibility and how to apply.
+  Guide to Karnataka government schemes – Gruha Lakshmi, Anna Bhagya, Shakti,
+  Gruha Jyothi, Yuva Nidhi, scholarships, health, housing with eligibility and
+  how to apply.
 category: State Schemes
 keywords:
   - karnataka government schemes
@@ -30,6 +30,7 @@ Karnataka runs one of India's most comprehensive welfare programmes under the "P
 ## Key Government Portals in Karnataka
 
 - **Seva Sindhu Portal** – [sevasindhu.karnataka.gov.in](https://sevasindhu.karnataka.gov.in/) – One-stop portal for 700+ government services, certificates, and scheme applications
+- **Guarantee Schemes Portal** – [sevasindhugs.karnataka.gov.in](https://sevasindhugs.karnataka.gov.in/) – Dedicated portal for Pancha Guarantee scheme applications and status tracking
 - **Karnataka One** – [karnataka.gov.in/karnatakaone](https://www.karnataka.gov.in/) – Citizen services portal
 - **Bhoomi Land Records** – [landrecords.karnataka.gov.in](https://landrecords.karnataka.gov.in/) – RTC, mutation, land records. See: [Bhoomi Land Records Karnataka](/guide/bhoomi-land-records-karnataka)
 - **e-Janma** – Birth and death certificate registration portal
@@ -72,7 +73,7 @@ Free electricity up to 200 units per month for domestic consumers. Families with
 
 ### 5. Yuva Nidhi – Unemployment Allowance
 
-Monthly allowance of ₹1,500 (graduates) and ₹3,000 (diploma holders) for unemployed youth for up to two years while they search for employment.
+Monthly allowance of ₹3,000 (graduates) and ₹1,500 (diploma holders) for unemployed youth for up to two years while they search for employment.
 
 ## Women and Child Welfare Schemes
 
