@@ -23,7 +23,7 @@ You are scanning for new government job notifications, exam updates, admit cards
    b. `cd /Users/rajakumar/.openclaw/workspace/sarkar-sahay && git add -A && git commit -m "content: add [N] new updates ([summary])" && git push`
    c. For each new update published, post to Telegram channel `@citizennest`:
       ```
-      message(action=send, channel=telegram, target=@citizennest, message=...)
+      message(action=send, channel=telegram, accountId=midas, target=@citizennest, message=...)
       ```
       Format: 🔴/🟡 Title + vacancies/type + key date + citizennest.com/update/{slug}
    d. Summarize: what was found, what was published, what was skipped and why
