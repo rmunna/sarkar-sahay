@@ -69,7 +69,7 @@ A conditional cash transfer scheme for **girl children** from BPL families. Fina
 
 ### Rajiv Gandhi Kisan Nyay Yojana
 
-Launched by the previous Congress government, this scheme provided **input subsidy** to farmers for paddy, maize, sugarcane, and other crops. Under the BJP government, the scheme's future has been uncertain — it has been effectively **replaced/modified** with revised agricultural support measures.
+Launched by the previous Congress government, this scheme provided **input subsidy** to farmers for paddy, maize, sugarcane, and other crops. After the BJP government took over in December 2023, this scheme was **discontinued**. No new payments have been made under the scheme, and its official portal (rgkny.cg.nic.in) is no longer operational.
 
 **Original benefits (for reference):**
 - ₹9,000 per acre for paddy farmers
@@ -77,7 +77,7 @@ Launched by the previous Congress government, this scheme provided **input subsi
 - Input subsidy for other notified crops
 - Direct transfer to farmer bank accounts
 
-**Current status:** The new government has shifted focus to revised agricultural support. Farmers should check the latest notifications on the agriculture department website.
+**Current status:** ❌ **Discontinued.** The BJP government has replaced this with other agricultural support measures. Farmers should check the agriculture department website or call the CM Helpline (181) for current farmer welfare schemes.
 
 ### Godhan Nyay Yojana
 
@@ -100,7 +100,7 @@ This scheme provided **₹6,000 per year** to landless agricultural labourers in
 - Direct bank transfer
 - Targeted at rural landless agricultural labourers registered in villages
 
-**Current status:** Beneficiaries should verify scheme status at their nearest Jan Seva Kendra or district collectorate.
+**Current status:** ❓ **Uncertain.** The official portal (rggbkmny.cg.nic.in) appears inactive. Beneficiaries should verify scheme status at their nearest Jan Seva Kendra, district collectorate, or by calling the CM Helpline (181).
 
 ## Education Schemes
 
