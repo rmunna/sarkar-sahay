@@ -163,12 +163,26 @@ export default async function UpdatePage({ params }: Props) {
     hiringOrganization: {
       "@type": "Organization",
       name: update.organization,
+      sameAs: update.officialLinks?.[0] || undefined,
     },
     jobLocation: {
       "@type": "Place",
       address: {
         "@type": "PostalAddress",
+        streetAddress: "Various Locations",
+        addressLocality: "Multiple Cities",
+        addressRegion: "Multiple States",
+        postalCode: "110001",
         addressCountry: "IN",
+      },
+    },
+    baseSalary: {
+      "@type": "MonetaryAmount",
+      currency: "INR",
+      value: {
+        "@type": "QuantitativeValue",
+        value: "As per government pay scale",
+        unitText: "MONTH",
       },
     },
     employmentType: "FULL_TIME",
