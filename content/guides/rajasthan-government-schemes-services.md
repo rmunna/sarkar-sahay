@@ -1,19 +1,17 @@
 ---
 title: Rajasthan Government Schemes and Services – Complete Guide
 description: >-
-  Comprehensive guide to all Rajasthan government schemes and services including
-  Chiranjeevi Yojana, Indira Rasoi, Rajshri Yojana, Palanhar, Jan Aadhaar,
-  education, health, housing, agriculture with eligibility and how to apply.
+  Guide to Rajasthan government schemes 2025 – Ayushman Arogya, Annapurna Rasoi, Lado Protsahan, Palanhar, Jan Aadhaar with eligibility and how to apply.
 category: State Schemes
 keywords:
   - rajasthan government schemes
   - rajasthan sarkari yojana
   - rajasthan welfare schemes
-  - chiranjeevi yojana rajasthan
-  - indira rasoi yojana
+  - ayushman arogya yojana rajasthan
+  - annapurna rasoi yojana rajasthan
   - jan aadhaar card rajasthan
   - rajasthan palanhar yojana
-  - rajshri yojana rajasthan
+  - lado protsahan yojana rajasthan
   - rajasthan ration card
   - rajasthan pension scheme
 readingTime: 12 min
@@ -25,7 +23,7 @@ officialLinks:
 
 # Rajasthan Government Schemes and Services – Complete Guide
 
-Rajasthan operates a robust welfare system with innovative schemes like Chiranjeevi universal health insurance, Indira Rasoi subsidized meals, and the Jan Aadhaar family identity system. This guide covers every major Rajasthan government scheme across health, education, women's welfare, agriculture, and social security with eligibility, benefits, and application details.
+Rajasthan operates a robust welfare system with innovative schemes like Mukhyamantri Ayushman Arogya (universal health insurance), Shri Annapurna Rasoi (subsidized meals), and the Jan Aadhaar family identity system. After the BJP government took office in December 2023 under CM Bhajan Lal Sharma, several schemes were renamed or revamped. This guide covers every major Rajasthan government scheme across health, education, women's welfare, agriculture, and social security with eligibility, benefits, and application details.
 
 ## Key Government Portals in Rajasthan
 
@@ -37,9 +35,9 @@ Rajasthan operates a robust welfare system with innovative schemes like Chiranje
 
 ## Health Schemes
 
-### Chiranjeevi Swasthya Bima Yojana
+### Mukhyamantri Ayushman Arogya Yojana (formerly Chiranjeevi Swasthya Bima Yojana)
 
-Rajasthan's universal health insurance provides cashless treatment up to ₹25 lakh per family per year – one of the highest coverages among Indian states.
+Rajasthan's universal health insurance provides cashless treatment up to ₹25 lakh per family per year – one of the highest coverages among Indian states. The scheme was renamed from Chiranjeevi to Mukhyamantri Ayushman Arogya Yojana by the BJP government in 2024.
 
 **Key features:**
 - ₹25 lakh annual coverage per family
@@ -49,22 +47,22 @@ Rajasthan's universal health insurance provides cashless treatment up to ₹25 l
 
 Read the complete guide: [Chiranjeevi Yojana Rajasthan](/guide/chiranjeevi-yojana-rajasthan)
 
-### Indira Rasoi Yojana
+### Shri Annapurna Rasoi Yojana (formerly Indira Rasoi Yojana)
 
-Subsidized meal scheme providing nutritious food at just ₹8 per meal across Rajasthan's cities and towns.
+Subsidized meal scheme providing nutritious food at just ₹8 per meal across Rajasthan's cities and towns. Renamed from Indira Rasoi to Shri Annapurna Rasoi Yojana by the BJP government in January 2024.
 
 **Key features:**
 - Lunch and dinner at ₹8 per plate
-- 1,000+ Indira Rasoi centres across Rajasthan
+- 1,000+ Annapurna Rasoi centres across Rajasthan
 - Run through NGOs with government subsidy
 
 Read the complete guide: [Indira Rasoi Yojana Rajasthan](/guide/indira-rasoi-yojana-rajasthan)
 
 ## Women and Girl Child Schemes
 
-### Mukhyamantri Rajshri Yojana
+### Lado Protsahan Yojana (formerly Mukhyamantri Rajshri Yojana)
 
-Financial assistance of ₹50,000 in six instalments for girl children born in government hospitals, from birth to class 12 completion.
+Financial assistance of up to ₹1,50,000 in seven instalments for girl children born in government hospitals, from birth to graduation. The BJP government revamped and renamed the earlier Rajshri Yojana (₹50,000) to Lado Protsahan Yojana with significantly increased benefits.
 
 Read the complete guide: [Rajasthan Mukhyamantri Rajshri Yojana](/guide/rajasthan-mukhyamantri-rajshri-yojana)
 
@@ -124,9 +122,9 @@ Energy and fertilizer subsidies for farmers, along with crop advisory services.
 
 ₹6,000 per year for eligible farmer families in three instalments.
 
-### Mukhyamantri Krishi Aashirwad Yojana
+### Rajasthan Kisan Samman Nidhi / Agriculture Support
 
-Financial assistance for small and marginal farmers for purchasing seeds, fertilizers, and farm equipment.
+The state government provides supplementary support to farmers through various agriculture welfare programmes alongside central schemes.
 
 See also: [eNAM – National Agriculture Market](/guide/enam-national-agriculture-market) | [PM KUSUM Solar Pump](/guide/pm-kusum-solar-pump-scheme) | [PMFBY Crop Insurance](/guide/pmfby-claim-status-crop-loss) | [Soil Health Card](/guide/soil-health-card-apply)
 
@@ -154,9 +152,9 @@ See: [Old Age Pension Guide](/guide/old-age-pension-vridha-pension-apply) | [Wid
 
 Affordable housing for EWS and LIG families in urban and rural Rajasthan.
 
-### Indira Gandhi Aawas Yojana
+### PM Awas Yojana – Gramin (PMAY-G)
 
-Housing assistance for BPL families in rural areas.
+Housing assistance for BPL families in rural areas under the central PM Awas Yojana (Gramin) scheme.
 
 ## Food Security – Ration Card
 
