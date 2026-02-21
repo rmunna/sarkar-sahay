@@ -74,6 +74,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           gtag('config', 'G-NNYF0TD9EY');
         `}
       </Script>
+      {/* Google AdSense */}
+      <Script
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7012449506814064"
+        crossOrigin="anonymous"
+        strategy="lazyOnload"
+      />
       {/* Microsoft Clarity */}
       <Script id="clarity-init" strategy="lazyOnload">
         {`
@@ -156,6 +162,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                     <Link href="/states" className="hover:text-orange-600 transition">States</Link>
                     <Link href="/calculator" className="hover:text-orange-600 transition">Calculators</Link>
                     <Link href="/about" className="hover:text-orange-600 transition">About</Link>
+                    <Link href="/contact" className="hover:text-orange-600 transition">Contact</Link>
+                  </div>
+                </div>
+                <div>
+                  <h4 className="font-semibold text-gray-900 mb-2">Legal</h4>
+                  <div className="flex flex-col gap-1.5 text-gray-500">
+                    <Link href="/privacy-policy" className="hover:text-orange-600 transition">Privacy Policy</Link>
+                    <Link href="/terms" className="hover:text-orange-600 transition">Terms of Service</Link>
                   </div>
                 </div>
                 <div>
@@ -171,6 +185,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               </div>
             </div>
             <div className="mt-8 pt-6 border-t border-gray-100 text-center">
+              <div className="flex justify-center gap-4 mb-3 text-xs text-gray-500">
+                <Link href="/privacy-policy" className="hover:text-orange-600 transition">Privacy Policy</Link>
+                <Link href="/terms" className="hover:text-orange-600 transition">Terms of Service</Link>
+                <Link href="/contact" className="hover:text-orange-600 transition">Contact</Link>
+              </div>
               <p className="text-xs text-gray-400 mb-1">
                 <strong>Disclaimer:</strong> CitizenNest is an independent informational website.
                 Not affiliated with any government body.

@@ -1,7 +1,17 @@
 {
-  "_comment": "High-priority guides for freshness checks. Ordered by estimated search volume. Update with real analytics data when available.",
-  "_lastUpdated": "2026-02-17",
-  "tier1": [
+  "_comment": "Priority guides based on real GSC traffic data (Feb 2026). Updated with actual clicks/impressions.",
+  "_lastUpdated": "2026-02-21",
+  "_source": "Google Search Console API",
+  "tier1_traffic": [
+    {"slug": "shakti-free-bus-karnataka", "clicks": 28, "impressions": 1108, "position": 7.7, "note": "TOP performer — expand"},
+    {"slug": "kpsc-fda-sda-exam-guide", "clicks": 2, "impressions": 129, "position": 7.8, "note": "Growing — expand"},
+    {"slug": "ration-card-surrender-cancel", "clicks": 2, "impressions": 91, "position": 7.2, "note": "Niche but ranking"},
+    {"slug": "chhattisgarh-mahtari-vandana-yojana", "clicks": 0, "impressions": 12, "position": 9.1},
+    {"slug": "aadhaar-card-download-online", "clicks": 0, "impressions": 12, "position": 80.9},
+    {"slug": "state-psc-exam-guide", "clicks": 0, "impressions": 12, "position": 7.3},
+    {"slug": "aadhaar-biometric-lock-unlock", "clicks": 0, "impressions": 6, "position": 36.3}
+  ],
+  "tier1_seo": [
     "aadhaar-card-apply-online",
     "pan-card-apply-online",
     "passport-apply-online",
@@ -23,7 +33,7 @@
     "aadhaar-name-correction-online",
     "epf-withdrawal-online"
   ],
-  "tier2": [
+  "tier2_seo": [
     "aadhaar-biometric-lock-unlock",
     "aadhaar-common-problems-solutions",
     "ayushman-bharat-health-card-apply",
@@ -38,11 +48,21 @@
     "mutual-fund-kyc-online",
     "tan-apply-online",
     "income-certificate-apply-online",
+    "character-certificate-apply-online",
     "police-clearance-certificate-apply",
-    "noc-no-objection-certificate-apply",
-    "voter-id-correction-online",
-    "driving-licence-renewal-online",
-    "vehicle-fitness-certificate-apply",
-    "property-mutation-apply-online"
+    "noc-certificate-apply-online",
+    "arms-licence-apply-online",
+    "electricity-connection-apply-online",
+    "water-connection-apply-online"
+  ],
+  "high_potential_karnataka": [
+    "shakti-free-bus-karnataka",
+    "karnataka-gruha-lakshmi-scheme",
+    "karnataka-anna-bhagya-rice-scheme",
+    "karnataka-bhagyalakshmi-scheme",
+    "karnataka-vidyasiri-scholarship",
+    "kpsc-fda-sda-exam-guide",
+    "bhoomi-land-records-karnataka",
+    "karnataka-government-schemes-services"
   ]
 }
