@@ -15,6 +15,9 @@ keywords:
   - AP housing scheme
   - NTR schemes andhra pradesh
   - AP ration card
+  - TDP Super Six schemes
+  - Talliki Vandanam
+  - Annadata Sukhibhava
 readingTime: 12 min
 officialLinks:
   - 'https://www.ap.gov.in/'
@@ -24,9 +27,20 @@ officialLinks:
 
 # Andhra Pradesh Government Schemes and Services – Complete Guide
 
-Andhra Pradesh runs a wide range of welfare programmes covering education, health, housing, agriculture, women empowerment, and social security. The state has undergone significant policy changes following the 2024 elections, with the TDP-led government under Chief Minister N. Chandrababu Naidu replacing many of the previous YSRCP-era schemes. Several YSR-branded programmes have been renamed, restructured, or replaced with new initiatives.
+Andhra Pradesh runs a wide range of welfare programmes covering education, health, housing, agriculture, women empowerment, and social security. Following the June 2024 elections, the TDP-JSP-BJP alliance government under Chief Minister N. Chandrababu Naidu has restructured the state's welfare framework. Most YSRCP-era YSR-branded schemes have been renamed or replaced — notably through the **"Super Six"** promises that form the backbone of the new government's welfare agenda.
 
-> **Important Note:** Andhra Pradesh welfare schemes are undergoing transition after the 2024 change of government. Some schemes listed below may be renamed, modified, or replaced. Always verify the latest status on official AP government portals before applying.
+> **Important Note:** Most YSR-branded schemes from the previous YSRCP government have been renamed or replaced since June 2024. The TDP government's flagship welfare initiatives are grouped under the **Super Six** guarantees. Always verify the latest status on official AP government portals before applying.
+
+## TDP Super Six Schemes (2024 Onwards)
+
+The TDP-led alliance's six flagship promises form the core of AP's current welfare framework:
+
+1. **NTR Bharosa Pensions** – Enhanced pensions (₹4,000/month for elderly, ₹6,000 for disabled, ₹1,500 for women 18+)
+2. **Talliki Vandanam** – ₹15,000/year for mothers of school-going children (replaces Amma Vodi)
+3. **Annadata Sukhibhava** – ₹20,000/year financial assistance to farmers (replaces YSR Rythu Bharosa)
+4. **Deepam-2** – 3 free LPG gas cylinders per year to women-headed households
+5. **Free Bus Travel for Women** – Free travel on APSRTC buses for all women
+6. **Yuva Galam (Employment)** – 20 lakh jobs and ₹3,000/month unemployment allowance for youth
 
 ## Key Government Portals in Andhra Pradesh
 
@@ -38,34 +52,24 @@ Andhra Pradesh runs a wide range of welfare programmes covering education, healt
 
 ## Education Schemes
 
-### Amma Vodi – Mother's Education Incentive
+### Talliki Vandanam (formerly Amma Vodi)
 
-One of AP's well-known education welfare programmes providing **₹15,000 per year** to mothers or guardians of school-going children (Classes 1-12) from BPL families. The scheme encourages school enrollment and reduces dropout rates.
+The TDP government's **Super Six** education scheme providing **₹15,000 per year** to mothers or guardians of school-going children from eligible families. This replaces the previous YSRCP-era Amma Vodi scheme with an expanded budget of ₹9,407 crore for 2025-26.
 
 **Eligibility:**
 - Mother/guardian of children in Classes 1-12
 - Family must hold a white ration card
-- Child must have 75% minimum attendance
+- Child must have minimum attendance
 - Enrolled in government, aided, or recognized private schools
 
-Read the complete guide: [Andhra Pradesh Amma Vodi Scheme](/guide/andhra-pradesh-amma-vodi)
+### Fee Reimbursement (Vidya Deevena)
 
-### Vidya Deevena – Fee Reimbursement
-
-Fee reimbursement scheme for students from economically weaker families pursuing higher education. Tuition and examination fees are paid directly to colleges.
+Fee reimbursement scheme for students from economically weaker families pursuing higher education. Tuition and examination fees are paid directly to colleges. The scheme continues under the current government through the Jnanabhumi portal.
 
 **Key features:**
 - Covers ITI, polytechnic, degree, and professional courses
 - Family income limit applies
 - Amount credited directly to college accounts
-
-### Vasathi Deevena – Hostel and Mess Charges
-
-Maintenance allowance for students from weaker sections staying in hostels — covering hostel fees, mess charges, and incidental expenses.
-
-### Jagananna Vidya Kanuka (School Kits)
-
-Distribution of school kits including uniforms, shoes, bags, textbooks, and notebooks to students in government and aided schools. (Status of this programme under the new government should be verified.)
 
 ### Scholarships
 
@@ -112,14 +116,15 @@ Central housing scheme implemented in AP for both urban and rural areas. Subsidy
 
 ## Agriculture Schemes
 
-### Annadata Sukhibhava / AP Rythu Bharosa
+### Annadata Sukhibhava (formerly YSR Rythu Bharosa)
 
-Input support scheme for farmers providing financial assistance per crop season. Details and amounts are being restructured under the current government.
+The TDP government's **Super Six** farmer welfare scheme providing **₹20,000 per year** financial assistance directly to farmer bank accounts. Launched on 2nd August 2025 and replaces the previous YSR Rythu Bharosa scheme.
 
 **Key features:**
 - Direct benefit transfer to farmer bank accounts
 - Covers small and marginal farmers
-- Linked to crop season
+- Free seeds, fertilizers, and compensation for natural calamities
+- Portal: [annadathasukhibhava.ap.gov.in](https://annadathasukhibhava.ap.gov.in/)
 
 See also: [PM KISAN Samman Nidhi](/guide/pm-kisan-samman-nidhi) | [PMFBY Crop Insurance](/guide/pmfby-claim-status-crop-loss)
 
@@ -129,19 +134,23 @@ Subsidized bore wells and drip/sprinkler irrigation systems for farmers to impro
 
 ### AP Agriculture Mission
 
-Comprehensive agricultural support including soil testing, seed distribution, farm mechanization, and market linkage through RBKs (Rythu Bharosa Kendras).
+Comprehensive agricultural support including soil testing, seed distribution, farm mechanization, and market linkage through Rythu Bharosa Kendras (RBKs).
 
 See also: [eNAM – National Agriculture Market](/guide/enam-national-agriculture-market) | [PM KUSUM Solar Pump](/guide/pm-kusum-solar-pump-scheme)
 
 ## Women and Child Welfare Schemes
 
+### Deepam-2 (Free Gas Cylinders)
+
+A **Super Six** scheme providing **3 free LPG gas cylinders per year** to women-headed households across AP, covering approximately 90 lakh households.
+
+### Free Bus Travel for Women
+
+A **Super Six** scheme providing **free travel on APSRTC buses** for all women in Andhra Pradesh. Launched on 15th August 2025.
+
 ### NTR Bharosa – Pension for Women
 
-Pension schemes for widows, single women, and women with disabilities under the broader AP pension framework.
-
-### Aasara / Cheyutha – Women's Livelihood Support
-
-Financial assistance to women from SC, ST, BC, and minority communities aged 45-60 for livelihood support. ₹18,750 per year was previously provided. Current status should be confirmed.
+Pension schemes for widows, single women, and women with disabilities under the broader AP pension framework. Women aged 18+ receive ₹1,500/month under the enhanced NTR Bharosa scheme.
 
 ### Kalyana Lakshmi (Marriage Assistance)
 
@@ -155,15 +164,27 @@ Women's self-help group empowerment and micro-credit programme.
 
 ### NTR Bharosa Pensions
 
-Andhra Pradesh runs one of India's largest pension programmes:
+Andhra Pradesh runs one of India's largest pension programmes, enhanced under the TDP government's **Super Six** guarantees:
 
-- **Old Age Pension** – ₹3,000+ per month for senior citizens (60+)
+- **Old Age Pension** – ₹4,000 per month for senior citizens (60+)
 - **Widow Pension** – For women who have lost their spouse
-- **Disability Pension** – For persons with 40%+ disability
+- **Disability Pension** – ₹6,000 per month for persons with 40%+ disability
 - **Toddy Tappers/Weavers Pension** – Occupation-specific pensions
-- **Fishermen Pension** – For registered fishermen
+- **Fishermen Pension** – For registered fishermen (Matsyakara Bharosa)
+- **Women's Pension** – ₹1,500/month for all women aged 18+
+
+Total outlay: ₹32,143 crore annually covering 63.5 lakh beneficiaries.
 
 See also: [Old Age Pension Guide](/guide/old-age-pension-vridha-pension-apply) | [Widow Pension Guide](/guide/widow-pension-vidhwa-pension-apply) | [Disability Pension](/guide/disability-pension-apply-online)
+
+## Youth Employment – Yuva Galam
+
+The TDP government's **Super Six** employment promise includes:
+
+- **20 lakh jobs** within five years through mega DSC, skill development, and industry partnerships
+- **₹3,000/month unemployment allowance** for eligible youth
+- Work-from-home opportunities through international collaborations
+- Skill census and targeted training programmes
 
 ## Food Security – Ration Card
 
@@ -244,8 +265,11 @@ AP certificates are available through MeeSeva and Grama Sachivalayam:
 
 ## Frequently Asked Questions
 
+**What are the TDP Super Six schemes in Andhra Pradesh?**
+The Super Six are: NTR Bharosa Pensions, Talliki Vandanam (₹15,000 for school children), Annadata Sukhibhava (₹20,000 for farmers), Deepam-2 (3 free gas cylinders), Free Bus Travel for Women, and Yuva Galam (20 lakh jobs + unemployment allowance).
+
 **Are YSR-branded schemes still active in Andhra Pradesh?**
-Following the 2024 election, the TDP government has been restructuring many schemes. Some have been renamed (e.g., with NTR branding), while others continue with modifications. Check official portals for the latest status.
+Most YSR-branded schemes have been renamed or replaced since June 2024. For example, Amma Vodi is now Talliki Vandanam, and YSR Rythu Bharosa is now Annadata Sukhibhava. Some schemes like fee reimbursement continue with structural changes.
 
 **How do I apply through Grama Sachivalayam?**
 Visit your local Grama/Ward Sachivalayam with required documents. Village/Ward Volunteers assist with applications for most government schemes.
@@ -255,4 +279,4 @@ For most welfare and subsidy schemes, a white ration card (BPL equivalent) is re
 
 ---
 
-*Andhra Pradesh government schemes are subject to periodic revision. The 2024 change of government has led to significant restructuring of welfare programmes. Always verify current scheme details on official AP government portals before applying.*
+*Andhra Pradesh government schemes are subject to periodic revision. The TDP-JSP-BJP alliance government (June 2024 onwards) has restructured most welfare programmes under the Super Six framework. Always verify current scheme details on official AP government portals before applying. Last updated: February 2025.*
