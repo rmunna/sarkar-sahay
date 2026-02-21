@@ -16,6 +16,9 @@ keywords:
   - up ration card
   - up pension scheme
   - up scholarship
+  - up family id
+  - mukhyamantri abhyudaya yojana
+  - up parivar kalyan card
 readingTime: 12 min
 officialLinks:
   - 'https://up.gov.in/'
@@ -34,20 +37,23 @@ Uttar Pradesh, India's most populous state, runs a massive network of welfare sc
 - **e-Sathi UP** – [esathi.up.gov.in](https://esathi.up.gov.in/) – Caste, income, domicile certificates online
 - **Nivesh Mitra** – Single window for business-related approvals
 - **UP Scholarship Portal** – [scholarship.up.gov.in](https://scholarship.up.gov.in/) – All scholarship applications
+- **UP Family ID** – [familyid.up.gov.in](https://familyid.up.gov.in/) – Family identity registration
+- **SSPY Pension Portal** – [sspy-up.gov.in](https://sspy-up.gov.in/) – Old age, widow, and disability pension
+- **Abhyudaya Portal** – [abhyuday.up.gov.in](https://abhyuday.up.gov.in/) – Free competitive exam coaching
 
 ## Women and Girl Child Schemes
 
 ### Kanya Sumangala Yojana
 
-Flagship scheme providing ₹15,000 in six instalments from birth to graduation for girl children from families with income below ₹3 lakh per year.
+Flagship scheme providing ₹25,000 in six instalments from birth to graduation for girl children from families with income below ₹3 lakh per year. The amount was increased from ₹15,000 to ₹25,000 effective from 2024-25.
 
-**Instalment structure:**
-- ₹2,000 at birth
-- ₹1,000 at age 1 (vaccination completion)
-- ₹2,000 on admission to class 1
-- ₹2,000 on admission to class 6
-- ₹3,000 on admission to class 9
-- ₹5,000 on graduation/diploma admission
+**Instalment structure (revised 2024-25):**
+- ₹5,000 at birth
+- ₹2,000 at age 1 (vaccination completion)
+- ₹3,000 on admission to class 1
+- ₹3,000 on admission to class 6
+- ₹5,000 on admission to class 9
+- ₹7,000 on graduation/diploma admission
 
 Read the complete guide: [Kanya Sumangala Yojana UP](/guide/kanya-sumangala-yojana-up)
 
@@ -57,11 +63,19 @@ Financial assistance of ₹20,000 for marriage of daughters from SC, ST, OBC, an
 
 Read the complete guide: [Shadi Anudan Yojana UP](/guide/shadi-anudan-yojana-up)
 
+## UP Family ID (Ek Parivar Ek Pahchan)
+
+The UP Family ID scheme assigns a unique 12-digit identity number to every family in the state. Families with ration cards are automatically covered, while others can register at [familyid.up.gov.in](https://familyid.up.gov.in/). As of 2025, approximately 3.6 crore families are covered. The Family ID is being linked to all government welfare schemes for targeted benefit delivery.
+
 ## Education Schemes
 
 ### UP Scholarship (Pre-Matric and Post-Matric)
 
 Comprehensive scholarship programme for students from SC, ST, OBC, minority, and general (EWS) categories covering tuition fees, maintenance allowance, and hostel charges.
+
+### Mukhyamantri Abhyudaya Yojana (Free Coaching)
+
+Free coaching for competitive exams including UPSC, NEET, IIT-JEE, NDA, and CDS for students from economically weaker sections. Coaching is provided at divisional headquarters and district levels. Registration is available at [abhyuday.up.gov.in](https://abhyuday.up.gov.in/).
 
 ### Free Laptop/Tablet Yojana
 
