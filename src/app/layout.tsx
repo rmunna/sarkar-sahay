@@ -185,11 +185,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               </div>
             </div>
             <div className="mt-8 pt-6 border-t border-gray-100 text-center">
-              <div className="flex justify-center gap-4 mb-3 text-xs text-gray-500">
-                <Link href="/privacy-policy" className="hover:text-orange-600 transition">Privacy Policy</Link>
-                <Link href="/terms" className="hover:text-orange-600 transition">Terms of Service</Link>
-                <Link href="/contact" className="hover:text-orange-600 transition">Contact</Link>
-              </div>
               <p className="text-xs text-gray-400 mb-1">
                 <strong>Disclaimer:</strong> CitizenNest is an independent informational website.
                 Not affiliated with any government body.
