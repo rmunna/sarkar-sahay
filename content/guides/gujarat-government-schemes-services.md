@@ -58,12 +58,13 @@ Read the complete guide: [Mukhyamantri Mahila Utkarsh Yojana Gujarat](/guide/muk
 
 ### Manav Garima Yojana
 
-Self-employment scheme for SC community members providing tool kits and equipment for starting small businesses in 28 identified trades.
+Self-employment scheme for SC, ST, OBC, and EWS families providing free tool kits and financial assistance for starting small businesses.
 
 **Key features:**
-- Tool kits worth ₹4,000 for individuals in rural areas
-- ₹6,000 for urban areas
-- Covers trades like carpentry, tailoring, plumbing, masonry
+- Financial assistance ranging from ₹4,000 to ₹50,000 depending on the trade
+- Free tool kits for trades like tailoring, carpentry, beauty parlour, welding, tea stall, plumbing, masonry
+- 100% grant – no bank loan required
+- Apply online through [esamajkalyan.gujarat.gov.in](https://esamajkalyan.gujarat.gov.in/)
 
 Read the complete guide: [Gujarat Manav Garima Yojana](/guide/gujarat-manav-garima-yojana)
 
@@ -72,9 +73,11 @@ Read the complete guide: [Gujarat Manav Garima Yojana](/guide/gujarat-manav-gari
 Scholarship and fee support for students from economically weaker families pursuing professional courses (engineering, medical, pharmacy, etc.).
 
 **Benefits:**
-- Up to ₹2 lakh per year for tuition fees
-- Hostel allowance of ₹1,200/month
-- For students whose family income is below ₹6 lakh/year
+- Tuition fee support: up to ₹2 lakh/year for MBBS/BDS, ₹50,000 for engineering/pharmacy, ₹25,000 for diploma, ₹10,000 for other graduation courses
+- 50% tuition fee for self-finance courses
+- Hostel allowance of ₹1,200/month (for students studying outside home taluka)
+- Book/instrument grant up to ₹5,000
+- Family income must be below ₹6 lakh/year
 
 Read the complete guide: [Gujarat Mukhyamantri Yuva Swavalamban Yojana](/guide/gujarat-mukhyamantri-yuva-swavalamban-yojana)
 
@@ -124,7 +127,7 @@ See also: [Post-Matric and Pre-Matric Scholarships](/guide/scholarship-post-matr
 Gujarat's health insurance scheme providing cashless treatment for BPL families.
 
 **Key features:**
-- ₹5 lakh per family per year (integrated with Ayushman Bharat)
+- ₹10 lakh per family per year (doubled from ₹5 lakh in 2023, integrated with Ayushman Bharat as PMJAY-MA)
 - Covers 1,500+ medical procedures
 - Cashless treatment at empanelled hospitals
 - MA Card required

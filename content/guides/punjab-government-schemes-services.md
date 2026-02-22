@@ -15,6 +15,7 @@ keywords:
   - punjab scholarship
   - punjab pension schemes
   - punjab ration card
+  - mukh mantri sehat yojana punjab
 readingTime: 12 min
 officialLinks:
   - 'https://punjab.gov.in/'
@@ -41,9 +42,10 @@ Punjab, India's agrarian heartland, offers extensive welfare programmes focused 
 Punjab's flagship food security programme providing **wheat flour (atta) and dal (pulses)** to BPL families at highly subsidized rates through fair price shops.
 
 **Key features:**
-- Subsidized wheat flour and dal for BPL families
-- Distributed through fair price shops
-- Blue ration card holders eligible
+- Wheat at **₹2 per kg** delivered to doorsteps of beneficiaries
+- Expanded in 2025 to include free dal, tea, sugar, mustard oil, and turmeric
+- Blue ration card and smart ration card holders eligible
+- Eldest woman designated as family head for distribution
 
 Read the complete guide: [Punjab Atta Dal Scheme](/guide/punjab-atta-dal-scheme)
 
@@ -57,7 +59,7 @@ Read the complete guide: [Punjab Atta Dal Scheme](/guide/punjab-atta-dal-scheme)
 
 ### Ashirwad Scheme – Marriage Assistance
 
-Financial assistance of **₹21,000** for the marriage of daughters from SC, BC, and economically weaker families. Previously known as Shagun Scheme.
+Financial assistance of **₹51,000** for the marriage of daughters from SC, BC, and economically weaker families. Previously known as Shagun Scheme, the amount was increased from ₹21,000 to ₹51,000 by the AAP government.
 
 **Eligibility:**
 - Families from SC, BC, or economically weaker sections
@@ -121,14 +123,15 @@ See also: [PM KISAN Samman Nidhi](/guide/pm-kisan-samman-nidhi) | [PM KUSUM Sola
 
 ## Health Schemes
 
-### Ayushman Bharat – Sarbat Sehat Bima Yojana
+### Mukh Mantri Sehat Yojana (MMSY)
 
-Punjab's health insurance scheme integrated with Ayushman Bharat providing cashless treatment up to **₹5 lakh per family** at empanelled hospitals. Covers 70% of Punjab's population.
+Punjab's flagship universal health insurance scheme launched in January 2026, replacing and upgrading the earlier Sarbat Sehat Bima Yojana. Provides **free cashless medical treatment up to ₹10 lakh per family per year** at empanelled hospitals — covering **all Punjab residents** regardless of income.
 
 **Coverage:**
 - 1,500+ medical procedures
 - All government and empanelled private hospitals
 - Smart card-based cashless access
+- Universal — no income ceiling, covers every family in Punjab
 
 See: [Ayushman Bharat vs State Health Schemes](/guide/ayushman-bharat-vs-state-health-schemes)
 
@@ -158,7 +161,7 @@ Central housing scheme implemented in Punjab for both urban and rural areas with
 
 ### Old Age Pension
 
-Monthly pension for senior citizens (65+) from BPL families.
+Monthly pension for senior citizens — **women aged 58+** and **men aged 65+** — with monthly income up to ₹2,000 (₹3,000 for couples). Land ownership must not exceed 2 acres.
 
 ### Widow Pension
 

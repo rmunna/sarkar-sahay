@@ -19,6 +19,8 @@ readingTime: 12 min
 officialLinks:
   - 'https://www.jharkhand.gov.in/'
   - 'https://jharsewa.jharkhand.gov.in/'
+  - 'https://mmmsy.jharkhand.gov.in/'
+  - 'https://bis.jharkhand.gov.in/'
   - 'https://jharresult.nic.in/'
 ---
 
@@ -38,13 +40,15 @@ Jharkhand, rich in minerals and tribal heritage, runs a comprehensive welfare sy
 
 ### Maiyan Samman Yojana
 
-Jharkhand's flagship women's empowerment scheme providing **₹1,000 per month** (₹12,000 per year) to women aged 18-50 for financial independence and dignity.
+Jharkhand's flagship women's empowerment scheme providing **₹2,500 per month** (₹30,000 per year) to women aged 18-50 for financial independence and dignity. The amount was increased from ₹1,000 to ₹2,500 per month from January 2025.
 
 **Eligibility:**
 - Women aged 18-50 years
 - Resident of Jharkhand
 - Not a government employee or income tax payer
 - Aadhaar-linked bank account required
+
+**Official Portal:** [mmmsy.jharkhand.gov.in](https://mmmsy.jharkhand.gov.in/)
 
 Read the complete guide: [Jharkhand Maiyan Samman Yojana](/guide/jharkhand-maiyan-samman)
 
@@ -62,6 +66,8 @@ Conditional cash transfer for school-going girls:
 - ₹2,500 each in Classes 8 and 9
 - ₹5,000 in Class 10
 - ₹20,000 on turning 18 (for higher education or marriage)
+
+**Official Portal:** [savitribaipksy.jharkhand.gov.in](https://savitribaipksy.jharkhand.gov.in/)
 
 ## Education Schemes
 
@@ -99,14 +105,15 @@ Free residential education for ST students in tribal areas with quality infrastr
 
 ## Health Schemes
 
-### Mukhyamantri Swasthya Bima Yojana / Ayushman Bharat
+### Mukhyamantri Abua Swasthya Suraksha Yojana
 
-Jharkhand's health insurance scheme integrated with Ayushman Bharat providing cashless treatment up to **₹5 lakh per family** at empanelled hospitals.
+Jharkhand's flagship health insurance scheme (replacing the earlier Mukhyamantri Swasthya Bima Yojana) providing **free health coverage up to ₹15 lakh per family** at empanelled hospitals. It complements Ayushman Bharat and extends coverage to families not covered under the central scheme.
 
 **Coverage:**
-- 1,500+ medical procedures covered
+- Up to ₹15 lakh per family for serious illnesses
 - Cashless treatment at government and private empanelled hospitals
 - All ration card holders and food security beneficiaries eligible
+- Apply via [bis.jharkhand.gov.in](https://bis.jharkhand.gov.in/)
 
 See: [Ayushman Bharat vs State Health Schemes](/guide/ayushman-bharat-vs-state-health-schemes)
 

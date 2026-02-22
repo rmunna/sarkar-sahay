@@ -81,7 +81,7 @@ Under PMAY-Urban, eligible urban households in Maharashtra can get subsidized ho
 Maharashtra's state pension scheme for senior citizens provides monthly pension to elderly persons who do not have adequate means of livelihood.
 
 **Key benefits:**
-- Monthly pension for persons aged 65 and above
+- Monthly pension of ₹1,500 for persons aged 65 and above (BPL or annual income below ₹21,000)
 - Higher pension amount for those aged 80+
 - Direct bank transfer
 
@@ -118,12 +118,13 @@ Read our detailed guide: [Post-Matric and Pre-Matric Scholarships](/guide/schola
 
 ### Mahatma Jyotiba Phule Jan Arogya Yojana (MJPJAY)
 
-Maharashtra's state health insurance scheme provides cashless treatment up to ₹1.5 lakh per family per year at empanelled hospitals. Combined with Ayushman Bharat, coverage extends to ₹5 lakh.
+Maharashtra's state health insurance scheme provides cashless treatment to families across the state. Under MJPJAY 2.0 (launched July 2024), coverage has been increased to ₹5 lakh per family per year, integrated with Ayushman Bharat PM-JAY.
 
 **Key features:**
-- Covers 971+ medical procedures including surgeries
-- Cashless treatment at government and private empanelled hospitals
-- Ration card is the primary eligibility document
+- Covers 1,356+ medical procedures across 34 specialties including major surgeries
+- Cashless treatment at 1,900+ government and private empanelled hospitals
+- Ration card and domicile certificate are the primary eligibility documents
+- Available to all Maharashtra residents with valid ration card
 
 See also: [Ayushman Bharat vs State Health Schemes](/guide/ayushman-bharat-vs-state-health-schemes)
 
@@ -193,7 +194,7 @@ Maharashtra residents can obtain most certificates through the Aaple Sarkar port
 | Women Helpline | 181 |
 | Police Emergency | 112 |
 | Child Helpline | 1098 |
-| MahaDBT Helpline | 022-49aborated150 |
+| MahaDBT Helpline | 022-49150800 |
 | Health Helpline | 104 |
 | Farmer Helpline | 1800-233-4000 |
 | Anti-Corruption Bureau | 1064 |

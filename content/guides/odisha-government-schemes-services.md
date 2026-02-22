@@ -1,50 +1,55 @@
 ---
 title: Odisha Government Schemes and Services – Complete Guide
 description: >-
-  Complete guide to Odisha government schemes — KALIA Yojana, Madhu Babu
-  Pension, Mamata, BSKY health, housing, and how to apply.
+  Complete guide to Odisha government schemes — CM-KISAN, Subhadra Yojana,
+  Madhu Babu Pension, Mamata, GJAY health, housing, and how to apply.
 category: State Schemes
 keywords:
   - odisha government schemes
   - odisha sarkari yojana
   - odisha welfare schemes
   - odisha government services
-  - KALIA yojana odisha
+  - CM KISAN yojana odisha
+  - subhadra yojana odisha
   - madhu babu pension odisha
   - mamata scheme odisha
-  - biju swasthya kalyan yojana
+  - gopabandhu jan arogya yojana
   - odisha scholarship
   - odisha ration card
 readingTime: 12 min
 officialLinks:
   - 'https://www.odisha.gov.in/'
-  - 'https://kfrms.odisha.gov.in/'
+  - 'https://cmkportal.odisha.gov.in/'
+  - 'https://gjay.odisha.gov.in/'
   - 'https://www.eodisha.gov.in/'
 ---
 
 # Odisha Government Schemes and Services – Complete Guide
 
-Odisha has developed a robust welfare ecosystem covering agriculture, health, education, housing, women's empowerment, and social security. Flagship schemes like KALIA Yojana for farmers, Biju Swasthya Kalyan Yojana for healthcare, and Madhu Babu Pension for social security have significantly impacted rural livelihoods. This guide covers every major Odisha government scheme with eligibility, benefits, and application details.
+Odisha, governed by the BJP under Chief Minister Mohan Charan Majhi since June 2024, has a robust welfare ecosystem covering agriculture, health, education, housing, women's empowerment, and social security. The new government has renamed several flagship schemes — KALIA is now CM-KISAN Yojana, BSKY is now Gopabandhu Jan Arogya Yojana (GJAY), and the landmark Subhadra Yojana for women has been launched. This guide covers every major Odisha government scheme with eligibility, benefits, and application details.
 
 ## Key Government Portals in Odisha
 
 - **Odisha State Portal** – [odisha.gov.in](https://www.odisha.gov.in/) – Official state government website
 - **eOdisha** – [eodisha.gov.in](https://www.eodisha.gov.in/) – Online citizen services portal
 - **Bhulekh Odisha** – [bhulekh.ori.nic.in](https://bhulekh.ori.nic.in/) – Land records, RoR, plot details
-- **KALIA Portal** – [kfrms.odisha.gov.in](https://kfrms.odisha.gov.in/) – KALIA scheme portal for farmers
+- **CM-KISAN Portal** – [cmkportal.odisha.gov.in](https://cmkportal.odisha.gov.in/) – CM-KISAN scheme portal for farmers (formerly KALIA)
+- **GJAY Portal** – [gjay.odisha.gov.in](https://gjay.odisha.gov.in/) – Gopabandhu Jan Arogya Yojana health scheme
 - **Mo Sarkar** – Citizen feedback and governance platform
 
 ## Agriculture Schemes
 
-### KALIA Yojana – Farmer Livelihood Support
+### CM-KISAN Yojana (formerly KALIA Yojana)
 
-Krushak Assistance for Livelihood and Income Augmentation (KALIA) is Odisha's flagship farmer welfare scheme providing **₹25,000 over five seasons** to small and marginal farmers for crop cultivation.
+The KALIA (Krushak Assistance for Livelihood and Income Augmentation) scheme has been rebranded as **CM-KISAN Yojana** by the BJP government. It continues to provide financial assistance to small and marginal farmers and landless agricultural households.
 
 **Key components:**
-- **Cultivation Assistance** – ₹25,000 per farm family (₹5,000 per season for 5 seasons) for purchase of inputs
-- **Livelihood Support** – ₹12,500 for landless agricultural households for allied activities like goat rearing, fishery, etc.
-- **Life Insurance** – ₹2 lakh life insurance at ₹330 premium (government pays ₹165)
-- **Interest-Free Crop Loan** – For all farmers up to ₹50,000
+- **Cultivation Assistance** – Financial support per farm family for purchase of inputs
+- **Livelihood Support** – Assistance for landless agricultural households for allied activities like goat rearing, fishery, etc.
+- **Life Insurance** – ₹2 lakh life insurance coverage
+- **Integration with PM-KISAN** – The scheme now works alongside the central PM-KISAN scheme
+
+**Portal:** [cmkportal.odisha.gov.in](https://cmkportal.odisha.gov.in/)
 
 Read the complete guides: [Odisha KALIA Yojana](/guide/odisha-kalia-yojana) | [KALIA Yojana for Farmers](/guide/odisha-kalia-yojana-farmers)
 
@@ -62,12 +67,14 @@ See also: [PM KISAN Samman Nidhi](/guide/pm-kisan-samman-nidhi) | [eNAM](/guide/
 
 ### Madhu Babu Pension Yojana (MBPY)
 
-Odisha's comprehensive social security pension scheme covering multiple vulnerable categories:
+Odisha's comprehensive social security pension scheme covering multiple vulnerable categories. The BJP government significantly increased pension amounts — from ₹500-₹700 to ₹1,000-₹3,500 per month, with ₹3,500 for those aged 80+ or with 80%+ disability:
 
-- **Old Age Pension** – ₹500-₹700 per month for persons aged 60+
-- **Widow Pension** – ₹500-₹700 per month
-- **Disability Pension** – ₹500-₹700 per month for 40%+ disability
-- **Leprosy Patients** – ₹500-₹700 per month
+- **Old Age Pension (60-79)** – ₹1,000-₹1,400 per month
+- **Old Age Pension (80+)** – Up to ₹3,500 per month
+- **Widow Pension** – ₹1,000-₹1,400 per month
+- **Disability Pension (40-79%)** – ₹1,000-₹1,400 per month
+- **Disability Pension (80%+)** – Up to ₹3,500 per month
+- **Leprosy Patients** – ₹1,000-₹1,400 per month
 
 Read the complete guide: [Odisha Madhu Babu Pension Yojana](/guide/odisha-madhu-babu-pension-yojana)
 
@@ -75,9 +82,9 @@ See also: [Old Age Pension Guide](/guide/old-age-pension-vridha-pension-apply) |
 
 ## Health Schemes
 
-### Biju Swasthya Kalyan Yojana (BSKY)
+### Gopabandhu Jan Arogya Yojana (GJAY) – formerly BSKY
 
-Odisha's flagship health insurance scheme providing **cashless treatment** at empanelled hospitals:
+Odisha's flagship health insurance scheme, renamed from Biju Swasthya Kalyan Yojana (BSKY) to **Gopabandhu Jan Arogya Yojana (GJAY)** by the BJP government. Now integrated with Ayushman Bharat, providing **cashless treatment** at empanelled hospitals:
 
 - **₹5 lakh per family** per year for general beneficiaries
 - **₹10 lakh for women members** of the family per year
@@ -86,7 +93,9 @@ Odisha's flagship health insurance scheme providing **cashless treatment** at em
 
 **Eligibility:**
 - All families covered under Food Security schemes
-- BSKY smart health card required
+- GJAY health card required
+
+**Portal:** [gjay.odisha.gov.in](https://gjay.odisha.gov.in/)
 
 See: [Ayushman Bharat vs State Health Schemes](/guide/ayushman-bharat-vs-state-health-schemes)
 
@@ -101,9 +110,24 @@ Free OPD services and diagnostics at government hospitals.
 
 ## Women and Child Welfare Schemes
 
-### Mamata Scheme
+### Subhadra Yojana – Women's Financial Empowerment
 
-Conditional cash transfer of **₹5,000** to pregnant and lactating women for first two live births to improve maternal and child nutrition.
+The BJP government's flagship women-centric scheme providing **₹50,000 over five years** to eligible women via direct bank transfer:
+
+- **₹10,000 per year** (two instalments of ₹5,000 each — on Raksha Bandhan and International Women's Day)
+- Over **1 crore women** beneficiaries across Odisha
+- Women aged **21-60** from economically weaker sections eligible
+- Launched by PM Modi in September 2024
+
+**Portal:** [subhadra.odisha.gov.in](https://subhadra.odisha.gov.in/)
+
+### Mamata-PMMVY Scheme
+
+Conditional cash transfer for pregnant and lactating women, now co-branded with the central Pradhan Mantri Matru Vandana Yojana (PMMVY):
+
+- **₹12,000 for girl child birth** (increased from ₹10,000)
+- **₹10,000 for boy child birth**
+- Covers first two live births
 
 **Eligibility:**
 - Pregnant women aged 19+
@@ -111,17 +135,9 @@ Conditional cash transfer of **₹5,000** to pregnant and lactating women for fi
 - Must complete prescribed ANC checkups
 - Institutional delivery required
 
-### Biju Kanya Ratna Yojana
-
-Financial assistance for the girl child at various education milestones from birth to graduation.
-
 ### Mission Shakti
 
-Odisha's Mission Shakti empowers women through self-help groups (SHGs). Over 70 lakh women are organized in 6+ lakh SHGs with access to micro-credit and livelihood support.
-
-### MAMATA Maternity Benefit
-
-Nutritional support and cash incentives for pregnant women and lactating mothers through Anganwadi centres.
+Odisha's Mission Shakti empowers women through self-help groups (SHGs). Over 70 lakh women are organized in 6+ lakh SHGs with access to micro-credit and livelihood support. The Lakhpati Didi initiative aims to make 1 crore women financially empowered.
 
 ## Education Schemes
 
@@ -145,11 +161,11 @@ See also: [Post-Matric and Pre-Matric Scholarships](/guide/scholarship-post-matr
 
 ## Housing Schemes
 
-### Biju Pucca Ghar Yojana (BPGY)
+### Antyodaya Gruha Yojana (formerly Biju Pucca Ghar Yojana)
 
-Housing for rural poor and BPL families with financial assistance for construction of pucca houses. Beneficiaries receive phased assistance linked to construction progress.
+Housing for rural poor and BPL families with financial assistance for construction of pucca houses. Renamed from Biju Pucca Ghar Yojana by the BJP government. Beneficiaries receive phased assistance linked to construction progress.
 
-### Mo Kudia (Biju Adarsha Gram Yojana)
+### Viksit Gaon Viksit Odisha (formerly Ama Odisha Nabin Odisha)
 
 Comprehensive village development including housing, sanitation, and infrastructure in selected villages.
 
@@ -202,7 +218,7 @@ Odisha certificates through eOdisha and CSCs:
 | Health Helpline | 104 |
 | KALIA Helpline | 1800-345-6768 |
 | Disaster Management | 1070 |
-| BSKY Health Card | 14555 |
+| GJAY Health Card (formerly BSKY) | 14555 |
 | Anti-Corruption | 1064 |
 
 ## How to Apply for Odisha Government Schemes
@@ -236,14 +252,17 @@ Odisha certificates through eOdisha and CSCs:
 
 ## Frequently Asked Questions
 
-**How do I check my KALIA beneficiary status?**
-Visit [kfrms.odisha.gov.in](https://kfrms.odisha.gov.in/) and enter your Aadhaar number to check your KALIA status and payment details.
+**How do I check my CM-KISAN (formerly KALIA) beneficiary status?**
+Visit [cmkportal.odisha.gov.in](https://cmkportal.odisha.gov.in/) and enter your Aadhaar number to check your CM-KISAN status and payment details.
 
-**Is BSKY different from Ayushman Bharat?**
-BSKY is Odisha's own health insurance scheme that covers a larger population than Ayushman Bharat. Women get enhanced coverage of ₹10 lakh. Both can be used at empanelled hospitals.
+**Is GJAY different from Ayushman Bharat?**
+Gopabandhu Jan Arogya Yojana (GJAY), formerly BSKY, is now integrated with Ayushman Bharat. It covers a larger population than Ayushman Bharat alone. Women get enhanced coverage of ₹10 lakh. Both can be used at empanelled hospitals.
+
+**How do I apply for Subhadra Yojana?**
+Women aged 21-60 can apply online at [subhadra.odisha.gov.in](https://subhadra.odisha.gov.in/) with Aadhaar, bank account, and complete e-KYC. ₹10,000 per year in two instalments.
 
 **How do I apply for Madhu Babu Pension?**
-Apply through the Block Development Office or online through eOdisha portal with age proof, income certificate, and Aadhaar.
+Apply through the Block Development Office or online through eOdisha portal with age proof, income certificate, and Aadhaar. Pension amounts now range from ₹1,000 to ₹3,500 per month.
 
 ---
 

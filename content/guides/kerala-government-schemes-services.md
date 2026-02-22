@@ -1,9 +1,7 @@
 ---
 title: Kerala Government Schemes and Services – Complete Guide
 description: >-
-  Comprehensive guide to all Kerala government schemes and services including
-  LIFE Mission housing, Karunya health scheme, Snehapoorvam scholarship,
-  education, health, agriculture, pension with eligibility and how to apply.
+  Complete guide to Kerala government schemes – LIFE Mission housing, Karunya health, Snehapoorvam scholarship, pensions, K-FON and how to apply.
 category: State Schemes
 keywords:
   - kerala government schemes
@@ -16,11 +14,15 @@ keywords:
   - kerala pension scheme
   - kerala psc
   - kerala ration card
+  - kfon kerala internet
 readingTime: 12 min
 officialLinks:
   - 'https://www.kerala.gov.in/'
   - 'https://edistrict.kerala.gov.in/'
   - 'https://welfarepension.lsgkerala.gov.in/'
+  - 'https://sha.kerala.gov.in/'
+  - 'https://kfon.kerala.gov.in/'
+  - 'https://lifemission.kerala.gov.in/'
 ---
 
 # Kerala Government Schemes and Services – Complete Guide
@@ -47,6 +49,8 @@ Kerala's flagship housing programme aims to provide houses to all landless and h
 - Land purchase assistance for landless families
 - Special provisions for SC/ST and coastal communities
 
+**Official portal:** [lifemission.kerala.gov.in](https://lifemission.kerala.gov.in/)
+
 Read the complete guide: [Kerala LIFE Mission Housing](/guide/kerala-life-mission-housing)
 
 ## Health Schemes
@@ -59,6 +63,9 @@ Kerala's state health insurance integrated with Ayushman Bharat, providing cashl
 - Cashless treatment up to ₹5 lakh per family per year
 - Covers 1,500+ medical procedures
 - Empanelled government and private hospitals
+- Managed by State Health Agency (SHA) Kerala
+
+**Official portal:** [sha.kerala.gov.in](https://sha.kerala.gov.in/)
 
 Read the complete guide: [Karunya Health Scheme Kerala](/guide/karunya-health-scheme-kerala)
 
@@ -98,21 +105,23 @@ See also: [Post-Matric and Pre-Matric Scholarships](/guide/scholarship-post-matr
 
 Kerala has one of India's most extensive pension systems covering multiple categories:
 
+All welfare pensions in Kerala currently provide **₹1,600 per month** to eligible beneficiaries.
+
 ### Agricultural Workers Pension
 
-Monthly pension for registered agricultural workers through the Kerala Agricultural Workers Welfare Fund Board.
+Monthly pension of ₹1,600 for registered agricultural workers through the Kerala Agricultural Workers Welfare Fund Board.
 
 ### Indira Gandhi National Old Age Pension
 
-Central pension with state top-up for BPL senior citizens aged 60+.
+Central pension with state top-up for BPL senior citizens aged 60+. Total pension amount: ₹1,600/month.
 
 ### Widow Pension
 
-Monthly pension for widows from economically weaker sections.
+Monthly pension of ₹1,600 for widows from economically weaker sections.
 
 ### Disability Pension
 
-Financial assistance for persons with 40%+ disability.
+Financial assistance of ₹1,600/month for persons with 40%+ disability.
 
 ### Other Welfare Pensions
 
@@ -127,7 +136,7 @@ See: [Old Age Pension Guide](/guide/old-age-pension-vridha-pension-apply) | [Wid
 
 ### Kudumbashree
 
-Kerala's women-led community development programme – the largest such network in India with 46 lakh+ members.
+Kerala's women-led community development programme – the largest such network in India with 46 lakh+ members across all 14 districts.
 
 **Activities:**
 - Micro-finance and SHG banking
@@ -155,6 +164,20 @@ Free soil testing and crop advisory services for farmers.
 Insurance coverage for coconut palms against natural calamities.
 
 See also: [eNAM – National Agriculture Market](/guide/enam-national-agriculture-market) | [PMFBY Crop Insurance](/guide/pmfby-claim-status-crop-loss) | [Soil Health Card](/guide/soil-health-card-apply)
+
+## Digital Infrastructure
+
+### K-FON (Kerala Fibre Optic Network)
+
+Kerala's ambitious project to provide high-speed internet connectivity across the state through a public-funded fibre optic network.
+
+**Key features:**
+- Free internet for BPL families
+- Subsidized broadband for other households
+- Connectivity to 30,000+ government institutions
+- Operated by Kerala State IT Infrastructure Ltd (KSITIL)
+
+**Official portal:** [kfon.kerala.gov.in](https://kfon.kerala.gov.in/)
 
 ## Food Security – Ration Card
 
