@@ -151,6 +151,67 @@ function validateGuide(filePath) {
     warnings.push(`Title contains a year — remove it for evergreen content`);
   }
 
+  // 13. Official links must be government domains
+  const GOV_DOMAIN_PATTERNS = [
+    /\.gov\.in/i,
+    /\.nic\.in/i,
+    /\.ac\.in/i,     // academic/govt institutions (NTA, UGC, IITs, NITs)
+    /\.org\.in/i,    // some govt bodies use .org.in
+    /ibps\.in/i,
+    /cdac\.in/i,     // C-DAC (govt IT org — hosts AFCAT, Agniveer portals)
+    /nsdl\.co\.in/i, // NSDL (govt-designated for PAN, NPS)
+    /nsdl\.com/i,    // NSDL e-Governance
+    /\.bsnl\.co\.in/i, // BSNL (govt telecom)
+    /sbi\.co\.in/i,  // State Bank of India
+    /npscra\.nsdl/i, // NPS CRA
+    /nvsp\.in/i,     // National Voter Service Portal
+    /mylpg\.in/i,    // Govt LPG subsidy portal
+    /play\.google\.com/i, // official govt app links
+    /bharatbillpay\.com/i, // NPCI initiative
+    /poshantracker\.in/i,  // Govt nutrition tracker
+    /apcfss\.in/i,   // AP govt financial services
+    /bsebonline\.com/i, // Bihar School Exam Board
+    /brlps\.in/i,    // Bihar Rural Livelihoods (govt)
+    /slprbassam\.in/i, // Assam Police (govt)
+    /cmaay\.com/i,   // Chief Minister health scheme portals
+    /cisce\.org/i,   // ICSE board
+    /egov-nsdl\.com/i, // NSDL e-Gov (TIN/PAN services)
+    /utiitsl\.com/i,   // UTI (PAN card services — govt designated)
+    /licindia\.in/i,   // LIC (govt insurance)
+    /irctc\.co\.in/i,  // IRCTC (Indian Railways)
+    /onlinesbi\.sbi/i, // SBI online banking
+    /\.sbi$/i,         // SBI domains
+    /standupmitra\.in/i, // Govt Stand-Up India portal
+    /vidyalakshmi\.co\.in/i, // Govt education loan portal
+    /sidbi\.in/i,      // SIDBI (govt development bank)
+    /ihmcl\.co\.in/i,  // IHMCL (NHAI subsidiary — FASTag)
+    /ihmcl\.com/i,     // IHMCL alternate
+    /protean-tinpan\.com/i, // Protean (formerly NSDL e-Gov)
+    /udyamimitra\.in/i, // SIDBI MSME portal
+    /shcilestamp\.com/i, // SHCIL (govt e-stamp)
+    /\.edu\.in/i,      // Indian educational institutions
+    /tnpscexams\.in/i, // TN PSC
+    /bankofbaroda\.in/i, // BoB (govt bank)
+    /pnbindia\.in/i,   // PNB (govt bank)
+    /newindia\.co\.in/i, // New India Assurance (govt)
+    /hindustanpetroleum\.com/i, // HPCL (govt PSU)
+    /uppcl\.org/i,     // UP Power Corp (govt)
+    /mahadiscom\.in/i, // Maharashtra electricity (govt)
+    /kmcgov\.in/i,     // Kolkata Municipal Corp
+  ];
+  if (Array.isArray(data.officialLinks)) {
+    data.officialLinks.forEach((link, i) => {
+      if (typeof link === "string" && link.startsWith("http")) {
+        let hostname;
+        try { hostname = new URL(link).hostname; } catch (e) { return; }
+        const isGov = GOV_DOMAIN_PATTERNS.some(p => p.test(hostname));
+        if (!isGov) {
+          warnings.push(`officialLinks[${i}] is not a government domain: "${hostname}" — only .gov.in, .nic.in, and official govt domains allowed`);
+        }
+      }
+    });
+  }
+
   return { file: fileName, errors, warnings, fixes, wordCount };
 }
 
