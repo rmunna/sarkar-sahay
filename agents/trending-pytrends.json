@@ -1,0 +1,271 @@
+{
+  "scannedAt": "2026-02-22T09:25:20.997742",
+  "results": [
+    {
+      "topic": "ration card status",
+      "interest_7d": 7732,
+      "recent_avg": 38,
+      "earlier_avg": 55,
+      "trend": "falling",
+      "guide_exists": "ration-card-status-check-download"
+    },
+    {
+      "topic": "sarkari naukri",
+      "interest_7d": 7515,
+      "recent_avg": 48,
+      "earlier_avg": 52,
+      "trend": "stable",
+      "guide_exists": null
+    },
+    {
+      "topic": "ration card apply",
+      "interest_7d": 7251,
+      "recent_avg": 38,
+      "earlier_avg": 60,
+      "trend": "falling",
+      "guide_exists": "ration-card-status-check-download"
+    },
+    {
+      "topic": "banglar yuva sathi",
+      "interest_7d": 7099,
+      "recent_avg": 19,
+      "earlier_avg": 65,
+      "trend": "falling",
+      "guide_exists": "banglar-yuva-sathi-scheme-west-bengal"
+    },
+    {
+      "topic": "admit card download",
+      "interest_7d": 6886,
+      "recent_avg": 39,
+      "earlier_avg": 66,
+      "trend": "falling",
+      "guide_exists": "ayushman-bharat-card-download-online"
+    },
+    {
+      "topic": "income tax filing",
+      "interest_7d": 6530,
+      "recent_avg": 18,
+      "earlier_avg": 31,
+      "trend": "falling",
+      "guide_exists": "income-tax-refund-not-received-fix"
+    },
+    {
+      "topic": "aadhaar card download",
+      "interest_7d": 6170,
+      "recent_avg": 28,
+      "earlier_avg": 37,
+      "trend": "stable",
+      "guide_exists": "baal-aadhaar-child-aadhaar-card"
+    },
+    {
+      "topic": "pm kisan status",
+      "interest_7d": 5804,
+      "recent_avg": 55,
+      "earlier_avg": 42,
+      "trend": "rising",
+      "guide_exists": "pm-kisan-status-check-beneficiary-list"
+    },
+    {
+      "topic": "fastag recharge",
+      "interest_7d": 5583,
+      "recent_avg": 67,
+      "earlier_avg": 56,
+      "trend": "stable",
+      "guide_exists": "fastag-recharge-buy-online"
+    },
+    {
+      "topic": "electricity bill online",
+      "interest_7d": 4335,
+      "recent_avg": 8,
+      "earlier_avg": 32,
+      "trend": "falling",
+      "guide_exists": "electricity-bill-payment-online"
+    },
+    {
+      "topic": "pan card apply online",
+      "interest_7d": 3336,
+      "recent_avg": 14,
+      "earlier_avg": 23,
+      "trend": "falling",
+      "guide_exists": "obc-ews-certificate-apply-online"
+    },
+    {
+      "topic": "pm awas yojana list",
+      "interest_7d": 2479,
+      "recent_avg": 29,
+      "earlier_avg": 23,
+      "trend": "stable",
+      "guide_exists": "pm-awas-yojana-gramin-urban"
+    },
+    {
+      "topic": "voter id apply",
+      "interest_7d": 2446,
+      "recent_avg": 9,
+      "earlier_avg": 16,
+      "trend": "falling",
+      "guide_exists": "voter-id-card-apply-online"
+    },
+    {
+      "topic": "credit score check",
+      "interest_7d": 2122,
+      "recent_avg": 7,
+      "earlier_avg": 16,
+      "trend": "falling",
+      "guide_exists": "cibil-score-check-improve"
+    },
+    {
+      "topic": "gas booking online",
+      "interest_7d": 2104,
+      "recent_avg": 18,
+      "earlier_avg": 27,
+      "trend": "falling",
+      "guide_exists": "lpg-gas-connection-apply-online"
+    },
+    {
+      "topic": "neet result",
+      "interest_7d": 1974,
+      "recent_avg": 7,
+      "earlier_avg": 10,
+      "trend": "stable",
+      "guide_exists": null
+    },
+    {
+      "topic": "driving licence apply",
+      "interest_7d": 1899,
+      "recent_avg": 7,
+      "earlier_avg": 13,
+      "trend": "falling",
+      "guide_exists": "duplicate-driving-licence-online"
+    },
+    {
+      "topic": "upsc result",
+      "interest_7d": 1839,
+      "recent_avg": 12,
+      "earlier_avg": 10,
+      "trend": "stable",
+      "guide_exists": null
+    },
+    {
+      "topic": "ayushman bharat card",
+      "interest_7d": 1722,
+      "recent_avg": 6,
+      "earlier_avg": 9,
+      "trend": "falling",
+      "guide_exists": "ayushman-bharat-vs-state-health-schemes"
+    },
+    {
+      "topic": "epf withdrawal",
+      "interest_7d": 1664,
+      "recent_avg": 4,
+      "earlier_avg": 8,
+      "trend": "falling",
+      "guide_exists": "epf-pf-withdrawal-online"
+    },
+    {
+      "topic": "water bill online",
+      "interest_7d": 1574,
+      "recent_avg": 4,
+      "earlier_avg": 13,
+      "trend": "falling",
+      "guide_exists": "electricity-bill-payment-online"
+    },
+    {
+      "topic": "personal loan apply",
+      "interest_7d": 1522,
+      "recent_avg": 0,
+      "earlier_avg": 13,
+      "trend": "falling",
+      "guide_exists": "car-loan-apply-online-compare"
+    },
+    {
+      "topic": "passport apply online",
+      "interest_7d": 1430,
+      "recent_avg": 2,
+      "earlier_avg": 8,
+      "trend": "falling",
+      "guide_exists": "passport-address-change-online"
+    },
+    {
+      "topic": "mahtari vandana",
+      "interest_7d": 550,
+      "recent_avg": 8,
+      "earlier_avg": 4,
+      "trend": "rising",
+      "guide_exists": "chhattisgarh-mahtari-vandana-yojana"
+    },
+    {
+      "topic": "gst return filing",
+      "interest_7d": 474,
+      "recent_avg": 0,
+      "earlier_avg": 0,
+      "trend": "stable",
+      "guide_exists": "gst-return-filing-guide"
+    },
+    {
+      "topic": "ssc cgl result",
+      "interest_7d": 452,
+      "recent_avg": 1,
+      "earlier_avg": 3,
+      "trend": "falling",
+      "guide_exists": "ssc-cgl-vs-ssc-chsl-comparison"
+    },
+    {
+      "topic": "pm rahat scheme",
+      "interest_7d": 81,
+      "recent_avg": 0,
+      "earlier_avg": 1,
+      "trend": "falling",
+      "guide_exists": "pm-rahat-scheme-road-accident-cashless-treatment"
+    },
+    {
+      "topic": "ladli behna status",
+      "interest_7d": 46,
+      "recent_avg": 0,
+      "earlier_avg": 2,
+      "trend": "falling",
+      "guide_exists": "madhya-pradesh-ladli-behna"
+    },
+    {
+      "topic": "shakti card karnataka",
+      "interest_7d": 9,
+      "recent_avg": 0,
+      "earlier_avg": 0,
+      "trend": "stable",
+      "guide_exists": "shakti-free-bus-karnataka"
+    },
+    {
+      "topic": "gruha lakshmi karnataka",
+      "interest_7d": 2,
+      "recent_avg": 0,
+      "earlier_avg": 0,
+      "trend": "stable",
+      "guide_exists": "gruha-lakshmi-karnataka"
+    }
+  ],
+  "opportunities": [
+    {
+      "topic": "sarkari naukri",
+      "interest_7d": 7515,
+      "recent_avg": 48,
+      "earlier_avg": 52,
+      "trend": "stable",
+      "guide_exists": null
+    },
+    {
+      "topic": "neet result",
+      "interest_7d": 1974,
+      "recent_avg": 7,
+      "earlier_avg": 10,
+      "trend": "stable",
+      "guide_exists": null
+    },
+    {
+      "topic": "upsc result",
+      "interest_7d": 1839,
+      "recent_avg": 12,
+      "earlier_avg": 10,
+      "trend": "stable",
+      "guide_exists": null
+    }
+  ]
+}
