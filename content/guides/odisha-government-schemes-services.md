@@ -121,6 +121,8 @@ The BJP government's flagship women-centric scheme providing **₹50,000 over fi
 
 **Portal:** [subhadra.odisha.gov.in](https://subhadra.odisha.gov.in/)
 
+Read our [detailed Subhadra Yojana guide](/guide/odisha-subhadra-yojana-women-scheme) for complete eligibility, application process, and payment schedule.
+
 ### Mamata-PMMVY Scheme
 
 Conditional cash transfer for pregnant and lactating women, now co-branded with the central Pradhan Mantri Matru Vandana Yojana (PMMVY):

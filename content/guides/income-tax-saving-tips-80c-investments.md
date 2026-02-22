@@ -169,6 +169,7 @@ Here's a comparison of the most popular tax-saving investments under Section 80C
 - **Risk:** High (market-linked)
 - **Best for:** Young investors with 5+ year horizon
 - **LTCG tax:** 12.5% above ₹1.25 lakh gains
+- **Start with SIP:** See our [complete SIP guide](/guide/sip-systematic-investment-plan-guide) to learn how systematic investing works
 
 ### 2. PPF — Public Provident Fund (Best for Safety)
 - **Returns:** 7.1% (government-backed, tax-free)
@@ -191,6 +192,7 @@ Here's a comparison of the most popular tax-saving investments under Section 80C
 - **Lock-in:** Till girl turns 21
 - **Risk:** Zero
 - **Best for:** Parents of girl children (up to age 10)
+- Learn more: [Sukanya Samriddhi Yojana — Complete Guide](/guide/sukanya-samriddhi-yojana-account-guide)
 
 ### 5. SCSS — Senior Citizens Savings Scheme
 - **Returns:** 8.2% (quarterly payout)

@@ -133,7 +133,7 @@ Punjab's flagship universal health insurance scheme launched in January 2026, re
 - Smart card-based cashless access
 - Universal — no income ceiling, covers every family in Punjab
 
-See: [Ayushman Bharat vs State Health Schemes](/guide/ayushman-bharat-vs-state-health-schemes)
+See our [complete Mukh Mantri Sehat Yojana guide](/guide/punjab-mukh-mantri-sehat-yojana) for step-by-step details on eligibility, smart card, and how to claim benefits. Also see: [Ayushman Bharat vs State Health Schemes](/guide/ayushman-bharat-vs-state-health-schemes)
 
 ### 108 Ambulance Service
 

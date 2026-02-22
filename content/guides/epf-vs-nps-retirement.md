@@ -124,6 +124,7 @@ Yes. Many salaried employees contribute to EPF (mandatory) and additionally inve
 3. **Check EPF balance** regularly on the EPFO portal or UMANG app
 4. **Voluntary Provident Fund (VPF)** — you can contribute more than 12% to EPF for guaranteed 8.15% returns
 5. **Choose annuity provider wisely** in NPS — compare rates before retirement as they affect your pension for life
+6. **Understand gratuity** — if you've worked 5+ years, you're eligible for gratuity on top of EPF/NPS. See our [complete gratuity calculation guide](/guide/gratuity-calculation-rules-india) for rules, formula, and tax treatment
 
 ## FAQs
 

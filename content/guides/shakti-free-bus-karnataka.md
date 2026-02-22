@@ -280,7 +280,7 @@ You can contact your nearest bus depot or reach out via the official websites: [
 
 - **KSRTC Official Website:** [www.ksrtc.in](https://www.ksrtc.in)
 - **BMTC Official Website:** [www.mybmtc.com](https://www.mybmtc.com)
-- **Seva Sindhu Portal:** [sevasindhu.karnataka.gov.in](https://sevasindhu.karnataka.gov.in)
+- **Seva Sindhu Portal:** [sevasindhu.karnataka.gov.in](https://sevasindhu.karnataka.gov.in) — See our [complete Seva Sindhu guide](/guide/seva-sindhu-karnataka-portal-guide) for detailed usage instructions
 - **Namma Metro:** [english.nammametro.gov.in](https://english.nammametro.gov.in)
 
 ---

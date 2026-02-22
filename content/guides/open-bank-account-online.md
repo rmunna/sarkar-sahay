@@ -292,3 +292,4 @@ Yes, Video KYC is regulated by RBI and follows strict data protection guidelines
 
 - [PM Jan Dhan Yojana — Complete Guide](/guide/pm-jan-dhan-yojana)
 - [DigiLocker — How to Use for Document Storage](/guide/digilocker-guide)
+- [UPI Payment Setup Guide](/guide/upi-payment-setup-guide) — Set up UPI on your new bank account and start making digital payments instantly

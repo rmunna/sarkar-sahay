@@ -29,7 +29,7 @@ Karnataka runs one of India's most comprehensive welfare programmes under the "P
 
 ## Key Government Portals in Karnataka
 
-- **Seva Sindhu Portal** – [sevasindhu.karnataka.gov.in](https://sevasindhu.karnataka.gov.in/) – One-stop portal for 700+ government services, certificates, and scheme applications
+- **Seva Sindhu Portal** – [sevasindhu.karnataka.gov.in](https://sevasindhu.karnataka.gov.in/) – One-stop portal for 700+ government services, certificates, and scheme applications. See our [complete Seva Sindhu portal guide](/guide/seva-sindhu-karnataka-portal-guide) for step-by-step usage instructions.
 - **Guarantee Schemes Portal** – [sevasindhugs.karnataka.gov.in](https://sevasindhugs.karnataka.gov.in/) – Dedicated portal for Pancha Guarantee scheme applications and status tracking
 - **Karnataka One** – [karnataka.gov.in/karnatakaone](https://www.karnataka.gov.in/) – Citizen services portal
 - **Bhoomi Land Records** – [landrecords.karnataka.gov.in](https://landrecords.karnataka.gov.in/) – RTC, mutation, land records. See: [Bhoomi Land Records Karnataka](/guide/bhoomi-land-records-karnataka)
@@ -169,13 +169,14 @@ See also: [Old Age Pension Guide](/guide/old-age-pension-vridha-pension-apply) |
 
 ## Government Certificates and Documents
 
-Karnataka certificates are available through Seva Sindhu and Karnataka One centres:
+Karnataka certificates are available through Seva Sindhu and Karnataka One centres. We have detailed Karnataka-specific guides for the most commonly needed certificates:
 
-- [Caste Certificate](/guide/caste-certificate-online)
-- [Income Certificate](/guide/income-certificate-online)
+- [Caste Certificate](/guide/caste-certificate-online) | [Karnataka Caste Certificate — Step-by-Step](/guide/karnataka-caste-certificate-online-apply)
+- [Income Certificate](/guide/income-certificate-online) | [Karnataka Income Certificate — Step-by-Step](/guide/karnataka-income-certificate-online-apply)
+- [Domicile / Residence Certificate — Karnataka Guide](/guide/karnataka-domicile-residence-certificate-online)
 - [Khata Certificate](/guide/khata-certificate-property-online)
 - [Khata Transfer](/guide/khata-transfer-property)
-- [Marriage Certificate](/guide/marriage-certificate-apply-online)
+- [Marriage Certificate](/guide/marriage-certificate-apply-online) | [Karnataka Marriage Certificate — Step-by-Step](/guide/karnataka-marriage-certificate-online-apply)
 - [Encumbrance Certificate](/guide/encumbrance-certificate-online)
 
 ## Property and Land Records

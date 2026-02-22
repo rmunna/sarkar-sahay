@@ -154,6 +154,8 @@ Once your KYC is verified, you can start investing immediately. Here are the mai
 - Benefits from rupee cost averaging — reduces the impact of market volatility
 - Ideal for long-term wealth creation
 
+Learn more in our [complete SIP guide](/guide/sip-systematic-investment-plan-guide) — covers how SIP works, best practices, and how to choose the right funds.
+
 ### Lump Sum Investment
 
 - One-time investment of a larger amount

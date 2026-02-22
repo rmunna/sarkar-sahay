@@ -234,6 +234,14 @@ Most of these can also be availed through [Delhi Doorstep Delivery Services](/gu
 
 You'll also need your [Aadhaar card](/guide/aadhaar-card-apply-online) for most applications.
 
+## Grievance Redressal
+
+### CM Jan Sunwai Portal – File Complaints Online
+
+The **CM Jan Sunwai Portal** allows Delhi residents to file complaints and grievances directly with the Chief Minister's office. Track your complaint status online and get time-bound resolution on civic issues, government services, and departmental matters.
+
+📖 Read our [complete CM Jan Sunwai Portal guide](/guide/delhi-cm-jan-sunwai-portal-complaint) for step-by-step instructions on how to register and track complaints.
+
 ## How to Apply for Delhi Government Schemes
 
 1. **Online via e-District** – Visit [edistrict.delhigovt.nic.in](https://edistrict.delhigovt.nic.in/), register, and apply for certificates, pensions, and welfare schemes.

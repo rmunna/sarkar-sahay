@@ -132,6 +132,8 @@ See our [encumbrance certificate guide](/guide/encumbrance-certificate-ec) for h
 
 ---
 
+For a detailed breakdown of how EMI works, formulas, and tips to reduce your EMI, see our [complete EMI calculator guide](/guide/emi-calculator-how-emi-works).
+
 ## EMI Calculation Example
 
 For a ₹50 lakh loan at 8.50% for 20 years:

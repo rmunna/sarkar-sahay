@@ -146,7 +146,7 @@ If extending with contributions, you must submit **Form H** within one year of m
 | **Best For** | Safe long-term savings | Short-term parking | Retirement corpus | Girl child education/marriage |
 | **Eligibility** | Any Indian resident | Anyone | 18-65 years | Girl child below 10 years |
 
-**Verdict:** PPF offers the best **risk-free, fully tax-exempt** returns for long-term savings. NPS gives potentially higher returns but with market risk and partial taxation. SSY offers the highest guaranteed rate but is only for girl children.
+**Verdict:** PPF offers the best **risk-free, fully tax-exempt** returns for long-term savings. NPS gives potentially higher returns but with market risk and partial taxation. SSY offers the highest guaranteed rate but is only for girl children. See our [complete Sukanya Samriddhi Yojana guide](/guide/sukanya-samriddhi-yojana-account-guide) for eligibility, how to open an account, and withdrawal rules.
 
 ## Tips to Maximise Your PPF Returns
 
