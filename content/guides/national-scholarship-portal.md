@@ -54,9 +54,9 @@ Each state also offers scholarships through NSP for domicile students. Check the
 
 - **Aadhaar card** (mandatory for DBT)
 - **Bank passbook** (Aadhaar-linked account in student's name)
-- **Income certificate** of parents/guardian — see our [income certificate guide](/guide/income-certificate-apply-online)
-- **Caste/community certificate** (SC/ST/OBC/Minority) — see our [caste certificate guide](/guide/caste-certificate-apply-online)
-- **Domicile certificate** — see our [domicile certificate guide](/guide/domicile-certificate-apply-online)
+- **Income certificate** of parents/guardian — see our [income certificate guide](/guide/income-certificate-online)
+- **Caste/community certificate** (SC/ST/OBC/Minority) — see our [caste certificate guide](/guide/caste-certificate-online)
+- **Domicile certificate** — see our [domicile certificate guide](/guide/domicile-certificate-online)
 - **Previous year mark sheet/certificate**
 - **Current year admission letter/bonafide certificate**
 - **Passport-size photograph**

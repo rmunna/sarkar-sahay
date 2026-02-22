@@ -124,7 +124,7 @@ Ayushman Bharat – Social Endeavour for Health and Telemedicine (SEHAT) extends
 - Covers hospitalisation, surgery, diagnostics, and follow-up care
 - Golden Card (Ayushman Card) required for availing benefits
 
-**How to apply:** Visit the nearest Ayushman Bharat centre, Common Service Centre (CSC), or empanelled hospital with Aadhaar, domicile, and ration card. See also: [Ayushman Bharat Card – Apply Online](/guide/ayushman-bharat-pmjay-card-apply-online) | [ABHA Health ID](/guide/abha-health-id-create-online)
+**How to apply:** Visit the nearest Ayushman Bharat centre, Common Service Centre (CSC), or empanelled hospital with Aadhaar, domicile, and ration card. See also: [Ayushman Bharat Card – Apply Online](/guide/ayushman-bharat-card-download-eligibility) | [ABHA Health ID](/guide/abha-health-id-create-online)
 
 ### PMJAY in J&K
 
@@ -142,7 +142,7 @@ The Pradhan Mantri Awas Yojana (PMAY) is implemented in J&K under both Gramin (r
 - Beneficiary selection through SECC data and Awaas+ survey
 - DBT (Direct Benefit Transfer) to beneficiary's bank account
 
-**How to apply:** Apply through the Gram Panchayat (rural) or Urban Local Body (urban). Check eligibility at [pmaymis.gov.in](https://pmaymis.gov.in/). See also: [PMAY Apply Online Guide](/guide/pmay-pradhan-mantri-awas-yojana)
+**How to apply:** Apply through the Gram Panchayat (rural) or Urban Local Body (urban). Check eligibility at [pmaymis.gov.in](https://pmaymis.gov.in/). See also: [PMAY Apply Online Guide](/guide/pm-awas-yojana-apply)
 
 ## Agriculture and Horticulture Schemes
 
@@ -253,7 +253,7 @@ J&K's tourism sector is a major employment generator. Key government initiatives
 Most J&K government schemes follow a common application process:
 
 1. **Check eligibility** – Visit the official scheme page on [jk.gov.in](https://jk.gov.in/) or the concerned department website
-2. **Gather documents** – Domicile certificate, Aadhaar card, income certificate, bank passbook, passport photos. See: [Documents Required Guide](/guide/documents-required-government-id-india)
+2. **Gather documents** – Domicile certificate, Aadhaar card, income certificate, bank passbook, passport photos. See: [Documents Required Guide](/guide/aadhaar-card-apply-online)
 3. **Register on JanSugam** – Create an account on [jansugam.jk.gov.in](https://jansugam.jk.gov.in/) for certificate and e-service applications
 4. **Apply online or offline** – Some schemes accept online applications; others require visiting the District Office, DIC, or BDO office
 5. **Track application** – Use the JanSugam portal or the concerned department's tracking system

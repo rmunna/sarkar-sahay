@@ -102,7 +102,7 @@ DDUSY promotes self-employment and entrepreneurship among the youth of Arunachal
 - **Special focus** on tribal youth, women entrepreneurs, and rural applicants
 - **Sectors covered:** Handicrafts, weaving, food processing, tourism services, and more
 
-📖 **Related:** [Government Business Loan Schemes in India](/guide/government-business-loan-schemes-india)
+📖 **Related:** [Government Business Loan Schemes in India](/guide/mudra-loan-apply-online)
 
 ---
 
@@ -128,7 +128,7 @@ Arunachal Pradesh holds over 50,000 MW of hydropower potential — the highest i
 - **Policy incentives** for hydropower companies to hire local residents
 - **Cabinet-approved hydropower development incentives** to boost investment and create jobs
 
-📖 **Related:** [Government Job Application Process](/guide/government-job-application-process)
+📖 **Related:** [Government Job Application Process](/guide/ssc-cgl-vs-upsc-cse-comparison)
 
 ---
 
@@ -159,7 +159,7 @@ The state rural mission focuses on improving livelihoods, infrastructure, and co
 - **Rural housing** in convergence with Pradhan Mantri Awas Yojana (Gramin)
 - **Drinking water supply** under Jal Jeevan Mission with state supplementation
 
-📖 **Related:** [PM Awas Yojana – Complete Guide](/guide/pm-awas-yojana-apply-online)
+📖 **Related:** [PM Awas Yojana – Complete Guide](/guide/pm-awas-yojana-apply)
 
 ---
 
@@ -204,7 +204,7 @@ The e-District portal enables citizens to apply for essential certificates and s
 - **Delivery:** Certificates issued digitally with QR code verification
 - **Portal:** [edistrict.arunachal.gov.in](https://edistrict.arunachal.gov.in)
 
-📖 **Related:** [Caste Certificate – State-Wise Process](/guide/caste-certificate-state-wise-process) | [Income Certificate Guide](/guide/income-certificate-online-apply)
+📖 **Related:** [Caste Certificate – State-Wise Process](/guide/caste-certificate-state-wise-process) | [Income Certificate Guide](/guide/income-certificate-online)
 
 ---
 
@@ -234,7 +234,7 @@ Most state schemes follow a common application process:
 4. **Track application:** Use the reference number on the respective portal to track status
 5. **Receive benefits:** DBT-linked schemes credit amounts directly to your bank account; health schemes provide cashless treatment at empanelled hospitals
 
-📖 **Related:** [Aadhaar Card Guide](/guide/aadhaar-card-online-update) | [Bank Account for Government Schemes](/guide/jan-dhan-yojana-account-opening)
+📖 **Related:** [Aadhaar Card Guide](/guide/aadhaar-address-change-online) | [Bank Account for Government Schemes](/guide/pm-jan-dhan-yojana)
 
 ---
 

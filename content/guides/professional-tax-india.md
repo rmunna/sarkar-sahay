@@ -15,7 +15,7 @@ Professional Tax (PT) is a state-level tax levied on individuals earning income 
 
 The maximum professional tax that any state can levy is **₹2,500 per year**. It is deducted by the employer from the employee's salary and deposited with the respective state government. Self-employed individuals must register and pay it themselves.
 
-Professional tax is deductible under Section 16(iii) of the Income Tax Act while computing taxable income from salary — see our [income tax guide](/guide/income-tax-return-filing) for more details.
+Professional tax is deductible under Section 16(iii) of the Income Tax Act while computing taxable income from salary — see our [income tax guide](/guide/income-tax-return-file-online) for more details.
 
 ## Which States Levy Professional Tax?
 

@@ -30,7 +30,7 @@ officialLinks:
 
 Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY) is India's largest government health insurance scheme, providing free treatment coverage of up to **₹5 lakh per family per year**. To avail cashless treatment at empanelled hospitals, you need an **Ayushman Bharat card** (also called PMJAY card or Golden Card).
 
-This guide covers everything — from checking your eligibility to downloading and printing your Ayushman card online. We also explain the [ABHA Health ID card](/guide/abha-health-id-card) and how it differs from the Ayushman card.
+This guide covers everything — from checking your eligibility to downloading and printing your Ayushman card online. We also explain the [ABHA Health ID card](/guide/abha-health-id-create-online) and how it differs from the Ayushman card.
 
 ## Who Is Eligible for Ayushman Bharat (PM-JAY)?
 
@@ -154,7 +154,7 @@ The **ABHA (Ayushman Bharat Health Account)** card is a **digital health ID** un
 3. Click **Download ABHA Card**
 4. The card with your photo, ABHA number, and QR code will download as PDF
 
-> **Note:** ABHA is available to **all Indian citizens** — there are no income restrictions. Learn more in our [ABHA Health ID guide](/guide/abha-health-id-card).
+> **Note:** ABHA is available to **all Indian citizens** — there are no income restrictions. Learn more in our [ABHA Health ID guide](/guide/abha-health-id-create-online).
 
 ## Ayushman Card vs ABHA Card — Key Differences
 
@@ -220,7 +220,7 @@ Visit a CSC to add missing family members. You'll need their Aadhaar card and pr
 ### "Hospital refusing Ayushman card"
 Ensure the hospital is empanelled under PM-JAY. Check on [pmjay.gov.in](https://pmjay.gov.in/). If empanelled and still refusing, call **14555** to file a complaint.
 
-Also see our guide on [how to apply for Ayushman Bharat health card](/guide/ayushman-bharat-health-card-apply) and [Ayushman Bharat vs state health schemes](/guide/ayushman-bharat-vs-state-health-schemes) for more details.
+Also see our guide on [how to apply for Ayushman Bharat health card](/guide/ayushman-bharat-card-download-eligibility) and [Ayushman Bharat vs state health schemes](/guide/ayushman-bharat-vs-state-health-schemes) for more details.
 
 ## Frequently Asked Questions (FAQs)
 

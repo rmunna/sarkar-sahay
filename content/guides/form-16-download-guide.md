@@ -99,7 +99,7 @@ Part B is the detailed computation:
 5. **Verify** that TDS matches Form 26AS/AIS
 6. **Submit and e-verify** your ITR
 
-For detailed filing steps, see our [ITR filing guide](/guide/income-tax-return-filing).
+For detailed filing steps, see our [ITR filing guide](/guide/income-tax-return-file-online).
 
 ## What to Do If Employer Doesn't Issue Form 16
 

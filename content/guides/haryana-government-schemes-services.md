@@ -169,7 +169,7 @@ Affordable housing scheme providing plots and built-up houses to economically we
 
 ### Pradhan Mantri Awas Yojana (PMAY) – Haryana
 
-Central housing scheme implemented in Haryana for both urban and rural beneficiaries. Read more: [Pradhan Mantri Awas Yojana Guide](/guide/pradhan-mantri-awas-yojana-pmay)
+Central housing scheme implemented in Haryana for both urban and rural beneficiaries. Read more: [Pradhan Mantri Awas Yojana Guide](/guide/pm-awas-yojana-apply)
 
 ---
 
@@ -215,7 +215,7 @@ Haryana has integrated ration card services with the Parivar Pehchan Patra syste
 - Apply/update ration card through Saral Haryana portal
 - eKYC verification through Aadhaar-linked PPP
 
-Also read: [Ration Card Guide](/guide/ration-card-online-apply)
+Also read: [Ration Card Guide](/guide/ration-card-apply-online)
 
 ---
 
@@ -245,7 +245,7 @@ Regular recruitment drives for police constable and SI positions through HSSC.
 
 Conducts recruitment for Group C and D posts in Haryana government. Check notifications at [hssc.gov.in](https://hssc.gov.in).
 
-Also read: [SSC Exam Guides](/guide/ssc-chsl-exam-complete-guide) | [Government Job Preparation Tips](/guide/sarkari-naukri-preparation-guide)
+Also read: [SSC Exam Guides](/guide/ssc-cgl-vs-ssc-chsl-comparison) | [Government Job Preparation Tips](/guide/ssc-cgl-vs-upsc-cse-comparison)
 
 ---
 
@@ -264,7 +264,7 @@ Haryana offers most certificate services through **Saral Haryana** and **e-Disha
 
 All certificate applications now require **Parivar Pehchan Patra** for identity verification.
 
-Also read: [Caste Certificate Guide](/guide/caste-certificate-online-apply) | [Income Certificate Guide](/guide/income-certificate-online-apply)
+Also read: [Caste Certificate Guide](/guide/caste-certificate-online) | [Income Certificate Guide](/guide/income-certificate-online)
 
 ---
 

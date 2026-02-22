@@ -46,13 +46,13 @@ Bookmark these essential Meghalaya government portals before exploring individua
 
 ### Meghalaya Health Insurance Scheme (MHIS)
 
-MHIS is the state's flagship health insurance programme providing cashless treatment to families, especially those not covered under central schemes. It works alongside [Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)](/guide/ayushman-bharat-pmjay-complete-guide) to extend coverage to a wider population.
+MHIS is the state's flagship health insurance programme providing cashless treatment to families, especially those not covered under central schemes. It works alongside [Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)](/guide/ayushman-bharat-card-download-eligibility) to extend coverage to a wider population.
 
 **Key Details:**
 - **Coverage:** Up to ₹5 lakh per family per year for secondary and tertiary hospitalisation
 - **Eligibility:** Families identified through SECC data and state beneficiary lists
 - **Cashless Treatment:** Available at empanelled government and private hospitals
-- **Documents Required:** MHIS card, [Aadhaar card](/guide/aadhaar-card-complete-guide), ration card
+- **Documents Required:** MHIS card, [Aadhaar card](/guide/aadhaar-card-apply-online), ration card
 
 > **Tip:** If your family is already covered under AB-PMJAY, MHIS provides top-up and additional coverage for procedures not listed under the central scheme.
 
@@ -70,7 +70,7 @@ The Chief Minister's Solar Mission aims to promote solar energy adoption across 
 - **Subsidy:** Up to 40–60% subsidy on installation costs (varies by category)
 - **How to Apply:** Through the district administration or the Meghalaya Energy Development Agency (MEDA)
 
-This aligns with the central [PM Surya Ghar Muft Bijli Yojana](/guide/pm-surya-ghar-muft-bijli-yojana) for rooftop solar subsidies.
+This aligns with the central [PM Surya Ghar Muft Bijli Yojana](/guide/pm-surya-ghar-solar-rooftop) for rooftop solar subsidies.
 
 ### Meghalaya State Housing Financing Co-operative Society
 
@@ -80,7 +80,7 @@ This co-operative provides affordable housing loans to residents of Meghalaya, e
 - **Purpose:** Affordable housing loans for construction, purchase, and renovation
 - **Eligibility:** Residents of Meghalaya with stable income; priority for EWS/LIG categories
 - **Interest Rate:** Concessional rates compared to commercial banks
-- **Linkage:** Works alongside [Pradhan Mantri Awas Yojana (PMAY)](/guide/pmay-pradhan-mantri-awas-yojana-guide) for additional subsidy benefits
+- **Linkage:** Works alongside [Pradhan Mantri Awas Yojana (PMAY)](/guide/pm-awas-yojana-apply) for additional subsidy benefits
 
 ---
 
@@ -103,7 +103,7 @@ FOCUS is Meghalaya's single-window citizen service delivery platform. It enables
 4. Upload supporting documents and submit
 5. Track application status using the reference number
 
-> **Related:** Learn about [caste certificate processes across states](/guide/caste-certificate-state-wise-process) and [income certificate application](/guide/income-certificate-online-application-guide).
+> **Related:** Learn about [caste certificate processes across states](/guide/caste-certificate-state-wise-process) and [income certificate application](/guide/income-certificate-online).
 
 ### e-District Meghalaya
 
@@ -134,7 +134,7 @@ The Meghalaya government offers multiple scholarship programmes through the Dire
 
 **How to Apply:**
 - Apply through the National Scholarship Portal ([scholarships.gov.in](https://scholarships.gov.in)) or the state education portal
-- Required documents: marksheets, [Aadhaar card](/guide/aadhaar-card-complete-guide), income certificate, bank passbook, caste certificate
+- Required documents: marksheets, [Aadhaar card](/guide/aadhaar-card-apply-online), income certificate, bank passbook, caste certificate
 
 ---
 
@@ -199,7 +199,7 @@ IVCS is a unique Meghalaya model for community-based cooperatives at the village
 - Distribution of essential commodities through the Public Distribution System (PDS)
 - Last-mile delivery of government scheme benefits
 
-> **Related:** Learn about [ration card application and PDS](/guide/ration-card-online-apply) processes across India.
+> **Related:** Learn about [ration card application and PDS](/guide/ration-card-apply-online) processes across India.
 
 ---
 
@@ -222,7 +222,7 @@ Most Meghalaya government schemes follow a similar application process:
 
 1. **Check Eligibility:** Visit the scheme's official portal or FOCUS website to verify eligibility criteria
 2. **Gather Documents:** Keep these ready —
-   - [Aadhaar card](/guide/aadhaar-card-complete-guide)
+   - [Aadhaar card](/guide/aadhaar-card-apply-online)
    - Domicile / residential certificate
    - Income certificate
    - Caste / tribe certificate
@@ -232,7 +232,7 @@ Most Meghalaya government schemes follow a similar application process:
 4. **Offline Option:** Visit the nearest Deputy Commissioner's office, Block Development Office, or Common Service Centre (CSC)
 5. **Track Status:** Use the reference number from your application to track progress on the respective portal
 
-> **Tip:** Many central schemes like [PMAY](/guide/pmay-pradhan-mantri-awas-yojana-guide), [Ayushman Bharat](/guide/ayushman-bharat-pmjay-complete-guide), and [PM Kisan](/guide/pm-kisan-samman-nidhi-complete-guide) are available in Meghalaya alongside state schemes. Check eligibility for both.
+> **Tip:** Many central schemes like [PMAY](/guide/pm-awas-yojana-apply), [Ayushman Bharat](/guide/ayushman-bharat-card-download-eligibility), and [PM Kisan](/guide/pm-kisan-samman-nidhi) are available in Meghalaya alongside state schemes. Check eligibility for both.
 
 ---
 

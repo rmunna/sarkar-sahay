@@ -12,7 +12,7 @@ officialLinks:
 
 The Karnataka Administrative Service (KAS) exam is the flagship competitive examination conducted by the Karnataka Public Service Commission (KPSC). It is the gateway to prestigious Group A and Group B gazetted officer posts in the Karnataka state government — including Assistant Commissioner, Deputy Superintendent of Police (DySP), Tahsildar, and many more.
 
-KAS is often called the "state-level IAS" and is one of the most sought-after government exams in Karnataka. If you are preparing for [UPSC CSE](/guide/upsc-cse-exam-guide) or any [state PSC exam](/guide/state-psc-exam-guide), the KAS exam follows a similar three-stage selection process.
+KAS is often called the "state-level IAS" and is one of the most sought-after government exams in Karnataka. If you are preparing for [UPSC CSE](/guide/upsc-civil-services-preparation-guide) or any [state PSC exam](/guide/state-psc-exam-guide), the KAS exam follows a similar three-stage selection process.
 
 ## What is the KAS Exam?
 
@@ -283,7 +283,7 @@ KAS officers enjoy significant administrative power, job security, and social re
 | Language | Kannada/English | English/Hindi |
 | Starting Salary | ₹55,000–₹80,000 (in-hand) | ₹80,000–₹1,00,000 (in-hand) |
 
-Many aspirants prepare for both KAS and [UPSC CSE](/guide/upsc-cse-exam-guide) simultaneously since the syllabus overlaps significantly. You can also explore other [state PSC exams](/guide/state-psc-exam-guide) to maximise your chances.
+Many aspirants prepare for both KAS and [UPSC CSE](/guide/upsc-civil-services-preparation-guide) simultaneously since the syllabus overlaps significantly. You can also explore other [state PSC exams](/guide/state-psc-exam-guide) to maximise your chances.
 
 If you're also interested in other Karnataka government exams, check out our [KPSC FDA/SDA exam guide](/guide/kpsc-fda-sda-exam-guide) for clerical-level posts.
 

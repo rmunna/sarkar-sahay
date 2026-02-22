@@ -22,7 +22,7 @@ Required when transferring vehicle registration from one state to another:
 - Issued by the **RTO** of the state where the vehicle is currently registered
 - Valid for **6 months** from the date of issue
 - Needed to re-register the vehicle in the new state
-- See our [vehicle registration guide](/guide/vehicle-registration-transfer) for the complete process
+- See our [vehicle registration guide](/guide/vehicle-rc-transfer-online) for the complete process
 
 ### 2. Bank Loan NOC
 Issued by the bank after full repayment of a loan:

@@ -198,7 +198,7 @@ The **AIS for Taxpayer** app and the mobile-friendly portal may work when the de
 - [Income Tax Refund Not Received Fix](/guide/income-tax-refund-not-received-fix)
 - [PAN Aadhaar Link Failed Common Errors](/guide/pan-aadhaar-link-failed-common-errors)
 - [GST Return Filing Errors Fix](/guide/gst-return-filing-errors-fix)
-- [Income Tax Return Filing Guide](/guide/income-tax-return-filing-guide)
+- [Income Tax Return Filing Guide](/guide/income-tax-return-file-online)
 - [PAN Card Apply Online](/guide/pan-card-apply-online)
 
 ---

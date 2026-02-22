@@ -172,7 +172,7 @@ For extreme emergencies, you can approach your MP or MLA's office for a referenc
 
 - [Passport Apply Online](/guide/passport-apply-online)
 - [Passport Police Verification Stuck Fix](/guide/passport-police-verification-stuck-fix)
-- [Passport Renewal Online](/guide/passport-renewal-online)
+- [Passport Renewal Online](/guide/passport-renewal-online-india)
 - [Aadhaar Card Apply Online](/guide/aadhaar-card-apply-online)
 - [Driving Licence Slot Not Available Fix](/guide/driving-licence-slot-not-available-fix)
 

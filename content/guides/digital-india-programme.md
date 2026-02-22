@@ -119,7 +119,7 @@ Unified Mobile Application for New-age Governance:
 ## How Digital India Benefits Citizens
 
 ### For Documents and Certificates
-- Apply for [birth certificate](/guide/birth-certificate-apply-online), [income certificate](/guide/income-certificate-apply-online), [caste certificate](/guide/caste-certificate-apply-online) online
+- Apply for [birth certificate](/guide/birth-certificate-apply-online), [income certificate](/guide/income-certificate-online), [caste certificate](/guide/caste-certificate-online) online
 - Download certificates through DigiLocker
 - No need to visit government offices for many services
 

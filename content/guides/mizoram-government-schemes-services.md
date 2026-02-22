@@ -128,7 +128,7 @@ Mizoram University (a Central University) offers multiple scholarships for enrol
 - **National Fellowship for ST Students** — Dedicated fellowship for Scheduled Tribe research scholars
 - **Post-Matric Scholarship for ST** — Central scholarship administered through the state
 
-📖 **Related:** [Post-Matric Scholarship for SC/ST Students](/guide/post-matric-scholarship-sc-st)
+📖 **Related:** [Post-Matric Scholarship for SC/ST Students](/guide/scholarship-post-matric-pre-matric-apply)
 
 ### State Scholarship Programmes
 
@@ -150,7 +150,7 @@ MPSC conducts recruitment examinations for state government positions including 
 - **Application:** Online through the MPSC portal
 - **Notifications:** Regular updates on vacancies and exam schedules
 
-📖 **Related:** [Government Job Exam Preparation Guide](/guide/government-job-exam-preparation)
+📖 **Related:** [Government Job Exam Preparation Guide](/guide/ssc-cgl-vs-upsc-cse-comparison)
 
 ### Youth Employment Schemes
 
@@ -213,7 +213,7 @@ The e-District portal provides online access to various government services and 
 4. Upload documents and submit
 5. Track application status online
 
-📖 **Related:** [Income Certificate Online – How to Apply](/guide/income-certificate-online-apply)
+📖 **Related:** [Income Certificate Online – How to Apply](/guide/income-certificate-online)
 
 ### Other e-Governance Portals
 
@@ -252,7 +252,7 @@ Most Mizoram government schemes follow a similar application process:
 
 > **Tip:** In Mizoram, the Village Council and local community organisations play a significant role in scheme implementation. Contact your local Village Council for guidance on available schemes and application procedures.
 
-📖 **Related:** [Aadhaar Card Update and Correction Guide](/guide/aadhaar-card-update-correction)
+📖 **Related:** [Aadhaar Card Update and Correction Guide](/guide/aadhaar-name-correction-online)
 
 ---
 

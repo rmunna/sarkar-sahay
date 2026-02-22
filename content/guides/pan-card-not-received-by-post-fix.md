@@ -192,7 +192,7 @@ Your PAN number itself is sufficient for most transactions. You can quote the PA
 - [PAN Aadhaar Link Failed Common Errors](/guide/pan-aadhaar-link-failed-common-errors)
 - [Income Tax Portal Not Working Fix](/guide/income-tax-portal-not-working-fix)
 - [Aadhaar Card Apply Online](/guide/aadhaar-card-apply-online)
-- [Income Tax Return Filing Guide](/guide/income-tax-return-filing-guide)
+- [Income Tax Return Filing Guide](/guide/income-tax-return-file-online)
 
 ---
 

@@ -171,7 +171,7 @@ Contact if:
 3. **Keep all documents ready** before starting the online application — incomplete applications waste time
 4. **Bookmark the slot booking page** for quick access during release windows
 5. **Avoid unauthorized agents** — they inflate demand and charge illegal premiums. All DL services are available directly through the Parivahan portal
-6. **Renew before expiry** — [DL renewal](/guide/driving-licence-renewal-online) slots are easier to get than fresh DL test slots; renew well before your DL expires
+6. **Renew before expiry** — [DL renewal](/guide/driving-licence-status-check) slots are easier to get than fresh DL test slots; renew well before your DL expires
 7. **Learn from forums** — local subreddits, Facebook groups, and Google reviews for your RTO often have tips on the best booking times
 
 ---

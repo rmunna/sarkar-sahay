@@ -186,10 +186,10 @@ If payment failures are causing the issue:
 
 ## Related Guides
 
-- [IRCTC Tatkal Ticket Booking Tips](/guide/irctc-tatkal-ticket-booking-tips)
+- [IRCTC Tatkal Ticket Booking Tips](/guide/irctc-account-login-problems-fix)
 - [UMANG App Not Working Fix](/guide/umang-app-not-working-fix)
 - [Aadhaar OTP Not Received Fix](/guide/aadhaar-otp-not-received-fix)
-- [UPI Payment Failed Fix](/guide/upi-payment-failed-fix)
+- [UPI Payment Failed Fix](/guide/upi-payment-setup-guide)
 - [FASTag Recharge Failed Fix](/guide/fastag-recharge-failed-fix)
 
 ---

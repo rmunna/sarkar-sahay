@@ -320,7 +320,7 @@ A blacklisted FASTag won't work at any toll plaza. Here's why it happens and how
 
 - [Vehicle RC Transfer Online](/guide/vehicle-rc-transfer-online) — transfer ownership or get duplicate RC
 - [Vehicle Insurance Online](/guide/vehicle-insurance-online) — buy or renew car and bike insurance
-- [Driving Licence Apply Online](/guide/driving-licence-apply-online) — apply for a new DL or renew online
+- [Driving Licence Apply Online](/guide/driving-license-apply-online) — apply for a new DL or renew online
 
 ---
 

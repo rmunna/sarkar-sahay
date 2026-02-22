@@ -201,7 +201,7 @@ Contact your state's specific land records helpline:
 ## Related Guides
 
 - [Property Registration Document Rejected Fix](/guide/property-registration-document-rejected-fix)
-- [Land Records Check Online](/guide/land-records-check-online)
+- [Land Records Check Online](/guide/land-records-online-all-states)
 - [CSC Digital Seva Portal Errors Fix](/guide/csc-digital-seva-portal-errors-fix)
 - [Encumbrance Certificate Online](/guide/encumbrance-certificate-online)
 - [DigiLocker Document Not Showing Fix](/guide/digilocker-document-not-showing-fix)

@@ -100,19 +100,19 @@ These documents are accepted by almost all government bodies, banks, and institu
 ### 13. Domicile Certificate
 - Issued by: District administration (tehsildar/SDM)
 - Proves permanent residence in a state
-- How to get: [Domicile certificate guide](/guide/domicile-certificate-apply-online)
+- How to get: [Domicile certificate guide](/guide/domicile-certificate-online)
 - Accepted by: Educational institutions, government jobs, state services
 
 ### 14. Income Certificate
 - Issued by: Tehsildar/Revenue officer
 - Contains address information
-- How to get: [Income certificate guide](/guide/income-certificate-apply-online)
+- How to get: [Income certificate guide](/guide/income-certificate-online)
 - Limited acceptance as standalone address proof
 
 ### 15. Caste Certificate
 - Contains address of the applicant
 - Accepted as supporting address proof in some cases
-- How to get: [Caste certificate guide](/guide/caste-certificate-apply-online)
+- How to get: [Caste certificate guide](/guide/caste-certificate-online)
 
 ## Property-Related Residence Proof
 

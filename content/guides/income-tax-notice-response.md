@@ -141,7 +141,7 @@ Consider engaging a Chartered Accountant or tax professional for:
 2. **Verify DIN** on every notice to confirm it's genuine and not a scam
 3. **Respond online** through the e-Proceedings facility — physical responses are no longer accepted for most cases
 4. **Maintain records** of all documents submitted and acknowledgements received
-5. **File ITR on time** to avoid most routine notices — see our [ITR filing guide](/guide/income-tax-return-filing)
+5. **File ITR on time** to avoid most routine notices — see our [ITR filing guide](/guide/income-tax-return-file-online)
 
 ## Frequently Asked Questions
 

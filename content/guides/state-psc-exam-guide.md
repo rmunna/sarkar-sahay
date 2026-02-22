@@ -64,7 +64,7 @@ India has **28 State Public Service Commissions** and **1 Joint PSC** (for union
 | 23 | Tamil Nadu | TNPSC | tnpsc.gov.in | — |
 | 24 | Telangana | TSPSC | tspsc.gov.in | — |
 | 25 | Tripura | TPSC | tpsc.tripura.gov.in | — |
-| 26 | Uttar Pradesh | UPPSC | uppsc.up.nic.in | [UPPSC Exam Guide](/guide/uppsc-exam-guide) |
+| 26 | Uttar Pradesh | UPPSC | uppsc.up.nic.in | [UPPSC Exam Guide](/guide/uppsc-pcs-exam-guide) |
 | 27 | Uttarakhand | UKPSC | ukpsc.gov.in | [UKPSC Exam Guide](/guide/ukpsc-exam-guide) |
 | 28 | West Bengal | WBPSC | wbpsc.gov.in | — |
 
@@ -329,4 +329,4 @@ Yes, through **promotion quota**. A certain percentage of IAS posts are filled t
 
 ---
 
-*State PSC exams offer a wonderful career path in public service with higher age limits, more attempts, and competitive salaries. Many successful state officers later move to central deputation or get promoted to IAS. Explore our detailed guides for individual state PSCs: [UPPSC](/guide/uppsc-exam-guide), [BPSC](/guide/bpsc-pcs-exam-guide), [MPSC](/guide/mpsc-exam-guide), [KPSC KAS](/guide/kpsc-kas-exam-guide), [KPSC FDA/SDA](/guide/kpsc-fda-sda-exam-guide), [HPSC](/guide/hpsc-exam-guide), [HPPSC](/guide/hppsc-exam-guide), [UKPSC](/guide/ukpsc-exam-guide), [Goa PSC](/guide/goa-psc-exam-guide), and [APSC](/guide/apsc-exam-guide). Also check our [UPSC preparation guide](/guide/upsc-civil-services-preparation-guide) and [SSC exam guide](/guide/ssc-exam-complete-guide) for more government career options.*
+*State PSC exams offer a wonderful career path in public service with higher age limits, more attempts, and competitive salaries. Many successful state officers later move to central deputation or get promoted to IAS. Explore our detailed guides for individual state PSCs: [UPPSC](/guide/uppsc-pcs-exam-guide), [BPSC](/guide/bpsc-pcs-exam-guide), [MPSC](/guide/mpsc-exam-guide), [KPSC KAS](/guide/kpsc-kas-exam-guide), [KPSC FDA/SDA](/guide/kpsc-fda-sda-exam-guide), [HPSC](/guide/hpsc-exam-guide), [HPPSC](/guide/hppsc-exam-guide), [UKPSC](/guide/ukpsc-exam-guide), [Goa PSC](/guide/goa-psc-exam-guide), and [APSC](/guide/apsc-exam-guide). Also check our [UPSC preparation guide](/guide/upsc-civil-services-preparation-guide) and [SSC exam guide](/guide/ssc-exam-complete-guide) for more government career options.*

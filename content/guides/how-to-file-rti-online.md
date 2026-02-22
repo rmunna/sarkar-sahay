@@ -177,7 +177,7 @@ If the first appeal is also unsatisfactory:
 
 - **Check status** of pending government applications (passport, PF, pension, land records)
 - **Government spending** — Budget allocation and utilisation for specific projects
-- **Recruitment** — Marks, cut-offs, and selection criteria in government exams; see our [government job guides](/guide/ssc-cgl-exam-guide)
+- **Recruitment** — Marks, cut-offs, and selection criteria in government exams; see our [government job guides](/guide/ssc-cgl-vs-ssc-chsl-comparison)
 - **Property matters** — Land records, mutation status, building approvals; see our [property mutation guide](/guide/property-mutation-transfer)
 - **Public works** — Road construction, drainage, water supply project details
 - **Education** — University affiliation, faculty qualifications, fee structures

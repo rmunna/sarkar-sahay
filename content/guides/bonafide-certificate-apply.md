@@ -42,7 +42,7 @@ Bonafide certificates are commonly required for:
 ### 3. Resident Bonafide Certificate
 - Issued by local authorities (tehsildar, panchayat)
 - Confirms domicile/residence in a particular area
-- Used for admissions, government schemes — similar to [domicile certificate](/guide/domicile-certificate-apply-online)
+- Used for admissions, government schemes — similar to [domicile certificate](/guide/domicile-certificate-online)
 
 ## How to Get a Student Bonafide Certificate
 

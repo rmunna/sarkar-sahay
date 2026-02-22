@@ -181,7 +181,7 @@ For persistent issues:
 - [UMANG App Not Working Fix](/guide/umang-app-not-working-fix)
 - [Aadhaar OTP Not Received Fix](/guide/aadhaar-otp-not-received-fix)
 - [PAN Card Apply Online](/guide/pan-card-apply-online)
-- [EPF Withdrawal Online Guide](/guide/epf-withdrawal-online)
+- [EPF Withdrawal Online Guide](/guide/epf-pf-withdrawal-online)
 
 ---
 

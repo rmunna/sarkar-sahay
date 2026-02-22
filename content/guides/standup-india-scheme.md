@@ -69,7 +69,7 @@ If you face difficulty at the bank branch, contact the **Lead District Manager**
 
 ### Personal Documents
 - **Aadhaar card** and PAN card — see our [PAN card guide](/guide/pan-card-apply-online)
-- **Caste certificate** (for SC/ST applicants) — see our [caste certificate guide](/guide/caste-certificate-apply-online)
+- **Caste certificate** (for SC/ST applicants) — see our [caste certificate guide](/guide/caste-certificate-online)
 - **Address proof** — Voter ID, utility bill, passport
 - **Passport-size photographs**
 

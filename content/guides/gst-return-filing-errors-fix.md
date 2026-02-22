@@ -201,8 +201,8 @@ For persistent technical issues:
 
 - [GST Registration Online](/guide/gst-registration-online)
 - [Income Tax Portal Not Working Fix](/guide/income-tax-portal-not-working-fix)
-- [Income Tax Return Filing Guide](/guide/income-tax-return-filing-guide)
-- [MSME Udyam Registration](/guide/msme-udyam-registration-online)
+- [Income Tax Return Filing Guide](/guide/income-tax-return-file-online)
+- [MSME Udyam Registration](/guide/udyam-msme-registration-online)
 - [PAN Card Apply Online](/guide/pan-card-apply-online)
 
 ---

@@ -187,10 +187,10 @@ FASTag-compatible apps for recharge:
 
 ## Related Guides
 
-- [FASTag Apply Online](/guide/fastag-apply-online)
-- [Vehicle Registration Certificate Online](/guide/vehicle-registration-certificate-online)
+- [FASTag Apply Online](/guide/fastag-recharge-buy-online)
+- [Vehicle Registration Certificate Online](/guide/vehicle-rc-transfer-online)
 - [Driving Licence Slot Not Available Fix](/guide/driving-licence-slot-not-available-fix)
-- [UPI Payment Failed Fix](/guide/upi-payment-failed-fix)
+- [UPI Payment Failed Fix](/guide/upi-payment-setup-guide)
 - [Aadhaar OTP Not Received Fix](/guide/aadhaar-otp-not-received-fix)
 
 ---
