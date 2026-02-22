@@ -9,17 +9,40 @@ export interface FAQItem {
 
 export function extractFAQs(markdownContent: string): FAQItem[] {
   const faqs: FAQItem[] = [];
-  // Match patterns like **Q: ...** followed by **A: ...** or answer text
-  const faqRegex = /\*\*Q:\s*(.+?)\*\*\s*\n+(?:A:\s*)?(.+?)(?=\n\n\*\*Q:|\n\n##|\n*$)/gs;
 
-  let match;
-  while ((match = faqRegex.exec(markdownContent)) !== null) {
-    const question = match[1].trim();
-    let answer = match[2].trim();
-    // Clean up markdown formatting
-    answer = answer.replace(/\*\*/g, "").replace(/\[([^\]]+)\]\([^)]+\)/g, "$1");
-    faqs.push({ question, answer });
+  // Strategy 1: ### heading question + answer paragraph (most common format)
+  // Find the FAQ section first
+  const faqSectionMatch = markdownContent.match(/##\s+(?:FAQ|Frequently Asked Questions).*?\n([\s\S]*?)(?=\n## [^#]|\n*$)/i);
+  if (faqSectionMatch) {
+    const faqSection = faqSectionMatch[1];
+    // Split by ### headings
+    const qaPairs = faqSection.split(/(?=^### )/m).filter(s => s.trim());
+    for (const pair of qaPairs) {
+      const headingMatch = pair.match(/^###\s+(.+?)[\?\.]?\s*\n+([\s\S]+)/);
+      if (headingMatch) {
+        const question = headingMatch[1].trim().replace(/\?$/, '') + '?';
+        let answer = headingMatch[2].trim().split('\n\n')[0].trim(); // First paragraph only
+        // Clean up markdown formatting
+        answer = answer.replace(/\*\*/g, "").replace(/\[([^\]]+)\]\([^)]+\)/g, "$1");
+        if (question && answer) {
+          faqs.push({ question, answer });
+        }
+      }
+    }
   }
+
+  // Strategy 2: **Q: ...** format (fallback for older guides)
+  if (faqs.length === 0) {
+    const faqRegex = /\*\*Q:\s*(.+?)\*\*\s*\n+(?:A:\s*)?(.+?)(?=\n\n\*\*Q:|\n\n##|\n*$)/gs;
+    let match;
+    while ((match = faqRegex.exec(markdownContent)) !== null) {
+      const question = match[1].trim();
+      let answer = match[2].trim();
+      answer = answer.replace(/\*\*/g, "").replace(/\[([^\]]+)\]\([^)]+\)/g, "$1");
+      faqs.push({ question, answer });
+    }
+  }
+
   return faqs;
 }
 
