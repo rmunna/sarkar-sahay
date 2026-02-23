@@ -52,6 +52,7 @@ export const metadata: Metadata = {
     icon: "/favicon.svg",
   },
   alternates: {
+    canonical: BASE_URL,
     types: {
       "application/rss+xml": "/feed.xml",
     },
