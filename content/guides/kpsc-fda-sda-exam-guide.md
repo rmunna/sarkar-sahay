@@ -1,6 +1,6 @@
 ---
-title: "KPSC FDA/SDA Exam — Qualification, Salary, Exam Pattern & Preparation Guide"
-description: "KPSC FDA SDA exam guide — FDA qualification in Karnataka, salary, SDA vs FDA difference, cutoff marks & preparation tips."
+title: "KPSC FDA SDA Exam — Eligibility, Salary ₹27K-52K, Syllabus & Tips"
+description: "KPSC FDA/SDA exam complete guide — eligibility, salary (₹27,650-₹52,650), exam pattern, syllabus, cutoff marks & preparation strategy."
 category: "Jobs & Exams"
 keywords: ["KPSC FDA SDA","FDA qualification in Karnataka","KPSC FDA salary","FDA SDA difference","Karnataka FDA exam","Karnataka SDA exam","KPSC exam guide","Karnataka FDA eligibility","KPSC FDA SDA 2025"]
 readingTime: "14 min"

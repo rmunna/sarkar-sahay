@@ -1,8 +1,6 @@
 ---
-title: How to Surrender or Cancel a Ration Card in India
-description: >-
-  Complete guide to surrender or cancel your ration card online and offline.
-  Steps, documents needed, state portal links, and FAQs explained simply.
+title: "How to Surrender or Cancel Ration Card Online — State-wise Process"
+description: "Surrender or cancel your ration card online in 5 minutes. State-wise portal links, documents needed, and step-by-step process."
 category: Food & Ration
 lastUpdated: '2026-02-18'
 keywords:

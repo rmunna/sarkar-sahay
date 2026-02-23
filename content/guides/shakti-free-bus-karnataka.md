@@ -1,6 +1,6 @@
 ---
-title: "Karnataka Shakti Scheme — Free Bus Travel for Women"
-description: "Karnataka Shakti scheme guide — free bus travel for women. Smart card apply online, eligibility, BMTC card for ladies & FAQs."
+title: "Shakti Smart Card Apply Online — Free Bus for Women in Karnataka"
+description: "Apply for Shakti Smart Card online at sevasindhu.karnataka.gov.in. Free KSRTC & BMTC bus travel for women. Eligibility, documents & step-by-step process."
 category: "State Schemes"
 keywords:
   - "shakti scheme karnataka"

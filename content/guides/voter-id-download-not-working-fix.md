@@ -1,7 +1,6 @@
 ---
-title: "Voter ID Download Not Working: How to Fix"
-description: >-
-  Troubleshooting guide for Voter ID (EPIC) download issues on NVSP portal and Voter Helpline app. Fix e-EPIC download errors, OTP failures, and portal issues.
+title: "Voter ID Download Not Working? Fix e-EPIC Download Errors (NVSP)"
+description: "Can't download Voter ID from NVSP? Fix e-EPIC download errors, OTP failures, and portal issues. Step-by-step solutions that work."
 category: "Identity Documents"
 keywords:
   - voter id download not working
