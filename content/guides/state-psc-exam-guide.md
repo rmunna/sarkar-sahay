@@ -1,6 +1,6 @@
 ---
-title: "State PSC Exam Guide — Complete State Civil Services Overview"
-description: "Complete guide to all State PSC exams in India. Covers 28 state PSCs, eligibility, exam pattern, comparison, and preparation strategy."
+title: "State PSC Exams — All 28 States Guide & Comparison"
+description: "Complete guide to all 28 State PSC exams: UPPSC, BPSC, MPPSC & more. Compare eligibility, salary, exam pattern & prep strategy side by side."
 category: "Jobs & Exams"
 keywords: ["state PSC exam", "state civil services", "UPPSC", "BPSC", "MPPSC", "RPSC", "KPSC", "MPSC", "state government jobs", "state PCS exam", "PSC exam preparation"]
 readingTime: "15 min"

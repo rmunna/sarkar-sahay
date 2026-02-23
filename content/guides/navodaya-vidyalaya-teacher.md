@@ -1,6 +1,6 @@
 ---
-title: "Navodaya Vidyalaya Teacher Recruitment — Eligibility, Exam, and Selection"
-description: "Complete guide to NVS teacher recruitment for PGT, TGT, and other posts covering eligibility, exam pattern, salary, and application process."
+title: "NVS Teacher Recruitment — Govt Job, ₹44,900-1.4L Salary"
+description: "Navodaya Vidyalaya teacher recruitment: PGT/TGT govt job with ₹44,900-1,42,400 salary + free housing. Eligibility, exam pattern & how to apply."
 category: "Jobs & Exams"
 keywords: ["NVS teacher recruitment", "Navodaya Vidyalaya teacher", "NVS PGT TGT", "NVS exam pattern", "NVS eligibility"]
 readingTime: "8 min"

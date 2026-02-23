@@ -1,6 +1,6 @@
 ---
-title: "Electric Vehicle Subsidy India — PM E-DRIVE, FAME & State EV Incentives"
-description: "Complete guide to electric vehicle subsidies in India — PM E-DRIVE scheme, FAME, state-wise EV incentives, eligible vehicles, and how to claim subsidy."
+title: "EV Subsidy India — Save ₹10,000 to ₹1.5 Lakh (2026)"
+description: "Claim electric vehicle subsidy up to ₹1.5 lakh under PM E-DRIVE & state schemes. Eligible scooters, cars, buses & how to apply. Updated 2026."
 category: "Government Schemes"
 keywords:
   - electric vehicle subsidy india

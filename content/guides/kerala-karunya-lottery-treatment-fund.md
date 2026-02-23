@@ -1,6 +1,6 @@
 ---
-title: "Kerala Karunya Benevolent Fund — Free Medical Treatment Aid & How to Apply"
-description: "Guide to Kerala Karunya Benevolent Fund for medical treatment. Get up to ₹5 lakh aid for serious illnesses. Eligibility and application process."
+title: "Kerala Karunya Fund — ₹5 Lakh Free Medical Aid"
+description: "Get up to ₹5 lakh free medical treatment via Kerala Karunya Benevolent Fund. Cancer, heart, kidney coverage. Check eligibility & apply step by step."
 category: "State Schemes"
 keywords: ["Karunya Benevolent Fund Kerala", "Kerala free medical treatment", "Karunya health scheme", "Kerala medical financial assistance", "Karunya lottery treatment fund"]
 readingTime: "7 min"

@@ -1,6 +1,6 @@
 ---
-title: "How to Apply for Smart Ration Card Online — Digital Ration Card Guide"
-description: "Learn how to apply for or upgrade to a smart ration card online. Covers Aadhaar seeding, ePoS authentication, state portals, and benefits."
+title: "Smart Ration Card Apply Online — Step-by-Step Guide"
+description: "Apply for smart ration card online in 5 steps. Aadhaar seeding, ePoS setup, state portal links & documents checklist. Get your digital ration card fast."
 category: "Food & Ration"
 keywords: ["smart ration card", "digital ration card", "ration card Aadhaar seeding", "ePoS ration card", "biometric ration card", "ration card upgrade"]
 readingTime: "8 min"

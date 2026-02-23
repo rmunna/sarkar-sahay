@@ -1,6 +1,6 @@
 ---
-title: "MP Patwari Exam Guide — Eligibility, Pattern & Preparation Tips"
-description: "Complete MP Patwari exam guide with eligibility, exam pattern, syllabus, application process, fees, and preparation strategy."
+title: "MP Patwari Exam 2026 — Salary ₹20,800-66,200, Guide"
+description: "MP Patwari exam guide: salary ₹20,800-66,200/month, eligibility, syllabus, exam pattern & preparation strategy. Apply via MPPEB online."
 category: "Jobs & Exams"
 keywords: ["MP Patwari exam","MP Patwari eligibility","MPPEB Patwari","MP Patwari syllabus","MP Revenue Patwari"]
 readingTime: "8 min"

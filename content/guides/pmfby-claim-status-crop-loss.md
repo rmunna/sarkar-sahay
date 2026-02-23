@@ -1,8 +1,6 @@
 ---
-title: PMFBY Claim — Report Crop Loss & Check Status
-description: >-
-  Step-by-step guide to file PMFBY crop loss claims within 72 hours, check claim
-  status online, understand crop cutting experiments, and resolve grievances.
+title: "PMFBY Claim: Report Crop Loss Within 72 Hours"
+description: "File your PMFBY crop insurance claim before the 72-hour deadline. Check claim status online, call helpline 14447, and get your payout faster."
 category: Government Schemes
 lastUpdated: '2026-02-16'
 keywords:

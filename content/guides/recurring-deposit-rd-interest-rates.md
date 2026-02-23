@@ -1,9 +1,6 @@
 ---
-title: Recurring Deposit (RD) — Open Account & Rates
-description: >-
-  Learn about Recurring Deposit interest rates from SBI, HDFC, ICICI & Post
-  Office. Open RD online, use the maturity calculator, and compare RD vs FD vs
-  SIP.
+title: "RD Interest Rates 2026 — SBI, HDFC, Post Office (7.5%)"
+description: "Compare recurring deposit rates from SBI, HDFC, ICICI & Post Office (up to 7.5%). Open RD online, calculate maturity & compare RD vs FD vs SIP."
 category: Tax & Finance
 keywords:
   - recurring deposit

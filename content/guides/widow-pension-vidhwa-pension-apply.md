@@ -1,8 +1,6 @@
 ---
-title: How to Apply for Widow Pension / Vidhwa Pension Online
-description: >-
-  Complete guide to apply for widow pension (vidhwa pension) online in India.
-  State-wise pension amounts, eligibility, documents required, application...
+title: "Widow Pension ₹500-₹3,000/Month — State-Wise Guide"
+description: "Apply for widow pension (vidhwa pension) online. State-wise amounts ₹500-₹3,000/month, eligibility, documents & status check. All states covered."
 category: Government Schemes
 keywords:
   - widow pension online

@@ -1,7 +1,6 @@
 ---
-title: Tenant Rights in India — Complete Guide to Renter Protections
-description: >-
-  Know your tenant rights in India. Learn about security deposit limits, eviction rules, rent increase caps, and protections under the Model Tenancy Act 2021.
+title: "10 Tenant Rights in India Every Renter Must Know"
+description: "Know your tenant rights in India: security deposit limits, eviction rules, rent increase caps & Model Tenancy Act 2021 protections. Don't get cheated."
 category: Property & Legal
 keywords:
   - tenant rights india

@@ -1,6 +1,6 @@
 ---
-title: "Aadhaar-Based e-Sign — How to Use Online"
-description: "Learn how to use Aadhaar-based e-Sign to digitally sign documents online using OTP. Step-by-step process, fees, and use cases explained."
+title: "Aadhaar e-Sign — Sign Documents Online in 2 Minutes"
+description: "Digitally sign any document using Aadhaar OTP in under 2 minutes. Free e-Sign process, approved providers list & step-by-step guide."
 slug: "e-sign-aadhaar-based"
 category: "Identity Documents"
 lastUpdated: "2026-02-18"

@@ -1,6 +1,6 @@
 ---
-title: "Dayanand Social Security Scheme Goa – Apply, Check Status & Amount"
-description: "Dayanand Social Security Scheme (DSSS) Goa – check application status, pension amount ₹2,500-₹3,500/month, eligibility, documents & how to apply online step by step."
+title: "Goa DSSS Pension — ₹2,500-₹3,500/Month, Apply Online"
+description: "Dayanand Social Security Scheme Goa: get ₹2,500-₹3,500/month pension. Check eligibility, apply online, track status & know payment dates."
 category: "State Schemes"
 keywords: ["dayanand social security scheme goa", "dsss goa status check", "goa pension scheme", "goa senior citizen pension", "goa widow pension", "goa disability pension", "dayanand scheme apply online", "goa pension amount 2026", "dsss application status"]
 readingTime: "10 min"

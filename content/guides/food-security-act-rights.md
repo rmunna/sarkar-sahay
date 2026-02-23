@@ -1,6 +1,6 @@
 ---
-title: "Check Your Rights Under Food Security Act — Entitlements, Ration & How to Claim"
-description: "Know your rights under the National Food Security Act. Check NFSA beneficiary status, ration entitlements, ONORC portability & how to complain."
+title: "Food Security Act — Get Grain at ₹1-3/kg (Your Rights)"
+description: "Know your rights under NFSA: get rice at ₹3/kg, wheat at ₹2/kg, coarse grains at ₹1/kg. Check beneficiary status & file complaints online."
 category: "Food & Ration"
 keywords: ["National Food Security Act", "NFSA rights", "food security India", "ration card rights", "food entitlements India", "NFSA beneficiary check", "One Nation One Ration Card", "ration complaint", "food security allowance"]
 readingTime: "12 min"

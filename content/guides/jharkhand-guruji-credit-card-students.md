@@ -1,6 +1,6 @@
 ---
-title: "Jharkhand Student Credit Card — ₹15 Lakh Loan, Apply Online"
-description: "Jharkhand Guruji Student Credit Card (GSCC) guide. Education loan up to ₹15 lakh at 4% interest. Eligibility, apply online, documents, repayment."
+title: "Jharkhand Guruji Credit Card — ₹15 Lakh at 4% Interest"
+description: "Apply for Jharkhand Guruji Student Credit Card: ₹15 lakh education loan at just 4% interest. Eligibility, online application & documents needed."
 category: "State Schemes"
 keywords: ["jharkhand student credit card", "guruji credit card jharkhand", "guruji student credit card scheme", "jharkhand education loan scheme", "gscc jharkhand apply online", "guruji credit card apply", "jharkhand student loan 2025"]
 readingTime: "10 min"

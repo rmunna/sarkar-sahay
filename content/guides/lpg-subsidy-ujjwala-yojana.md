@@ -1,6 +1,6 @@
 ---
-title: "How to Apply for LPG Subsidy & Ujjwala Yojana — Free Gas Connection"
-description: "Complete guide to Pradhan Mantri Ujjwala Yojana (PMUY) 2.0 free LPG connection, DBTL subsidy, eligibility, online application, refill booking, and more."
+title: "Free LPG Connection + ₹300 Subsidy — Ujjwala Yojana"
+description: "Get free LPG gas connection under Ujjwala Yojana 2.0 + ₹300 subsidy per cylinder via DBTL. Check eligibility, apply online & book refills."
 category: "Utilities"
 keywords:
   - "Ujjwala Yojana apply"

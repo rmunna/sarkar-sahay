@@ -1,6 +1,6 @@
 ---
-title: "Startup India Seed Fund Scheme (SISFS) — Funding for Early-Stage Startups"
-description: "Complete guide to Startup India Seed Fund Scheme. Eligibility, fund amount, documents, how to apply online, and FAQs for early-stage startups."
+title: "Startup India Seed Fund — Up to ₹50 Lakh Grant"
+description: "Get up to ₹50 lakh seed funding under SISFS for your early-stage startup. Eligibility, application process, documents & incubator list."
 slug: startup-india-seed-fund
 category: "Government Schemes"
 keywords:

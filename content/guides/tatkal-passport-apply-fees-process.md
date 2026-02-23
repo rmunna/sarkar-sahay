@@ -1,8 +1,6 @@
 ---
-title: How to Apply for Tatkal Passport
-description: >-
-  Complete guide to apply for Tatkal passport in India. Fees, required
-  documents, Annexure F, processing time, and appointment tips.
+title: "Tatkal Passport in 1-3 Days — Fees ₹3,500, How to Apply"
+description: "Get your tatkal passport in 1-3 days for ₹3,500. Documents needed, Annexure F, online application steps & appointment booking tips."
 category: Identity Documents
 keywords:
   - tatkal passport

@@ -1,6 +1,6 @@
 ---
-title: "Karnataka Gruha Lakshmi Scheme — Eligibility, Application, and Benefits"
-description: "Complete guide to Karnataka Gruha Lakshmi scheme providing ₹2,000 monthly to women heads of households including eligibility and application."
+title: "Gruha Lakshmi Scheme — ₹2,000/Month for Women (Apply)"
+description: "Karnataka Gruha Lakshmi: get ₹2,000/month deposited directly. Check eligibility, apply online via Seva Sindhu & track your payment status."
 category: "State Schemes"
 keywords: ["Gruha Lakshmi scheme", "Karnataka Gruha Lakshmi", "Karnataka women scheme", "Gruha Lakshmi eligibility", "Gruha Lakshmi application"]
 readingTime: "7 min"
