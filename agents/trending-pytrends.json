@@ -1,233 +1,233 @@
 {
-  "scannedAt": "2026-02-23T07:00:19.034244",
+  "scannedAt": "2026-02-24T07:00:19.510903",
   "results": [
     {
-      "topic": "ration card status",
-      "interest_7d": 7726,
-      "recent_avg": 16,
-      "earlier_avg": 42,
-      "trend": "falling",
-      "guide_exists": "ration-card-status-check-download"
-    },
-    {
       "topic": "sarkari naukri",
-      "interest_7d": 7581,
-      "recent_avg": 24,
+      "interest_7d": 8011,
+      "recent_avg": 36,
       "earlier_avg": 49,
-      "trend": "falling",
+      "trend": "stable",
       "guide_exists": null
     },
     {
+      "topic": "ration card status",
+      "interest_7d": 7166,
+      "recent_avg": 31,
+      "earlier_avg": 41,
+      "trend": "stable",
+      "guide_exists": "ration-card-status-check-download"
+    },
+    {
       "topic": "ration card apply",
-      "interest_7d": 7268,
-      "recent_avg": 20,
-      "earlier_avg": 39,
+      "interest_7d": 6656,
+      "recent_avg": 0,
+      "earlier_avg": 30,
       "trend": "falling",
       "guide_exists": "ration-card-status-check-download"
     },
     {
-      "topic": "banglar yuva sathi",
-      "interest_7d": 6809,
-      "recent_avg": 3,
-      "earlier_avg": 40,
-      "trend": "falling",
-      "guide_exists": "banglar-yuva-sathi-scheme-west-bengal"
-    },
-    {
-      "topic": "admit card download",
-      "interest_7d": 6633,
-      "recent_avg": 20,
-      "earlier_avg": 57,
-      "trend": "falling",
-      "guide_exists": "ayushman-bharat-card-download-online"
-    },
-    {
       "topic": "income tax filing",
-      "interest_7d": 6473,
-      "recent_avg": 0,
+      "interest_7d": 6615,
+      "recent_avg": 18,
       "earlier_avg": 31,
       "trend": "falling",
       "guide_exists": "income-tax-refund-not-received-fix"
     },
     {
+      "topic": "admit card download",
+      "interest_7d": 6477,
+      "recent_avg": 27,
+      "earlier_avg": 57,
+      "trend": "falling",
+      "guide_exists": "ayushman-bharat-card-download-online"
+    },
+    {
       "topic": "aadhaar card download",
-      "interest_7d": 6319,
-      "recent_avg": 9,
-      "earlier_avg": 26,
+      "interest_7d": 6289,
+      "recent_avg": 11,
+      "earlier_avg": 30,
       "trend": "falling",
       "guide_exists": "baal-aadhaar-child-aadhaar-card"
     },
     {
       "topic": "pm kisan status",
-      "interest_7d": 6037,
-      "recent_avg": 39,
-      "earlier_avg": 39,
-      "trend": "stable",
+      "interest_7d": 5685,
+      "recent_avg": 47,
+      "earlier_avg": 36,
+      "trend": "rising",
       "guide_exists": "pm-kisan-status-check-beneficiary-list"
     },
     {
+      "topic": "banglar yuva sathi",
+      "interest_7d": 5637,
+      "recent_avg": 4,
+      "earlier_avg": 48,
+      "trend": "falling",
+      "guide_exists": "banglar-yuva-sathi-scheme-west-bengal"
+    },
+    {
       "topic": "fastag recharge",
-      "interest_7d": 5646,
-      "recent_avg": 48,
-      "earlier_avg": 43,
-      "trend": "stable",
+      "interest_7d": 5203,
+      "recent_avg": 0,
+      "earlier_avg": 40,
+      "trend": "falling",
       "guide_exists": "fastag-recharge-buy-online"
     },
     {
       "topic": "electricity bill online",
-      "interest_7d": 4261,
+      "interest_7d": 3688,
       "recent_avg": 0,
-      "earlier_avg": 16,
+      "earlier_avg": 23,
       "trend": "falling",
       "guide_exists": "electricity-bill-payment-online"
     },
     {
       "topic": "pan card apply online",
-      "interest_7d": 3397,
+      "interest_7d": 3430,
       "recent_avg": 0,
-      "earlier_avg": 13,
+      "earlier_avg": 14,
       "trend": "falling",
       "guide_exists": "obc-ews-certificate-apply-online"
     },
     {
-      "topic": "pm awas yojana list",
-      "interest_7d": 2521,
-      "recent_avg": 13,
-      "earlier_avg": 23,
-      "trend": "falling",
-      "guide_exists": "pm-awas-yojana-gramin-urban"
-    },
-    {
       "topic": "voter id apply",
-      "interest_7d": 2491,
+      "interest_7d": 2596,
       "recent_avg": 0,
-      "earlier_avg": 8,
+      "earlier_avg": 10,
       "trend": "falling",
       "guide_exists": "voter-id-card-apply-online"
     },
     {
-      "topic": "credit score check",
-      "interest_7d": 2129,
-      "recent_avg": 0,
-      "earlier_avg": 9,
-      "trend": "falling",
-      "guide_exists": "cibil-score-check-improve"
-    },
-    {
-      "topic": "gas booking online",
-      "interest_7d": 2026,
+      "topic": "pm awas yojana list",
+      "interest_7d": 2294,
       "recent_avg": 0,
       "earlier_avg": 20,
       "trend": "falling",
-      "guide_exists": "lpg-gas-connection-apply-online"
+      "guide_exists": "pm-awas-yojana-gramin-urban"
+    },
+    {
+      "topic": "upsc result",
+      "interest_7d": 2291,
+      "recent_avg": 15,
+      "earlier_avg": 10,
+      "trend": "rising",
+      "guide_exists": null
+    },
+    {
+      "topic": "credit score check",
+      "interest_7d": 2181,
+      "recent_avg": 0,
+      "earlier_avg": 0,
+      "trend": "stable",
+      "guide_exists": "cibil-score-check-improve"
     },
     {
       "topic": "driving licence apply",
-      "interest_7d": 2009,
+      "interest_7d": 1870,
       "recent_avg": 0,
-      "earlier_avg": 11,
+      "earlier_avg": 10,
       "trend": "falling",
       "guide_exists": "duplicate-driving-licence-online"
     },
     {
       "topic": "neet result",
-      "interest_7d": 2002,
-      "recent_avg": 3,
+      "interest_7d": 1862,
+      "recent_avg": 2,
       "earlier_avg": 13,
       "trend": "falling",
       "guide_exists": null
     },
     {
-      "topic": "upsc result",
-      "interest_7d": 1966,
-      "recent_avg": 8,
-      "earlier_avg": 9,
-      "trend": "stable",
-      "guide_exists": null
+      "topic": "gas booking online",
+      "interest_7d": 1837,
+      "recent_avg": 0,
+      "earlier_avg": 25,
+      "trend": "falling",
+      "guide_exists": "lpg-gas-connection-apply-online"
+    },
+    {
+      "topic": "personal loan apply",
+      "interest_7d": 1825,
+      "recent_avg": 0,
+      "earlier_avg": 6,
+      "trend": "falling",
+      "guide_exists": "car-loan-apply-online-compare"
     },
     {
       "topic": "ayushman bharat card",
-      "interest_7d": 1746,
+      "interest_7d": 1683,
       "recent_avg": 0,
-      "earlier_avg": 8,
+      "earlier_avg": 6,
       "trend": "falling",
       "guide_exists": "ayushman-bharat-vs-state-health-schemes"
     },
     {
+      "topic": "epf withdrawal",
+      "interest_7d": 1680,
+      "recent_avg": 0,
+      "earlier_avg": 7,
+      "trend": "falling",
+      "guide_exists": "epf-pf-withdrawal-online"
+    },
+    {
+      "topic": "passport apply online",
+      "interest_7d": 1468,
+      "recent_avg": 0,
+      "earlier_avg": 5,
+      "trend": "falling",
+      "guide_exists": "passport-address-change-online"
+    },
+    {
       "topic": "water bill online",
-      "interest_7d": 1645,
+      "interest_7d": 1418,
       "recent_avg": 0,
       "earlier_avg": 4,
       "trend": "falling",
       "guide_exists": "electricity-bill-payment-online"
     },
     {
-      "topic": "epf withdrawal",
-      "interest_7d": 1591,
-      "recent_avg": 0,
-      "earlier_avg": 6,
-      "trend": "falling",
-      "guide_exists": "epf-pf-withdrawal-online"
-    },
-    {
-      "topic": "personal loan apply",
-      "interest_7d": 1549,
-      "recent_avg": 0,
-      "earlier_avg": 3,
-      "trend": "falling",
-      "guide_exists": "car-loan-apply-online-compare"
-    },
-    {
-      "topic": "passport apply online",
-      "interest_7d": 1455,
-      "recent_avg": 0,
-      "earlier_avg": 3,
-      "trend": "falling",
-      "guide_exists": "passport-address-change-online"
-    },
-    {
       "topic": "mahtari vandana",
-      "interest_7d": 560,
+      "interest_7d": 527,
       "recent_avg": 0,
-      "earlier_avg": 5,
+      "earlier_avg": 3,
       "trend": "falling",
       "guide_exists": "chhattisgarh-mahtari-vandana-yojana"
     },
     {
       "topic": "gst return filing",
-      "interest_7d": 496,
-      "recent_avg": 0,
+      "interest_7d": 498,
+      "recent_avg": 7,
       "earlier_avg": 0,
-      "trend": "stable",
+      "trend": "rising",
       "guide_exists": "gst-return-filing-guide"
     },
     {
       "topic": "ssc cgl result",
-      "interest_7d": 470,
+      "interest_7d": 480,
       "recent_avg": 0,
-      "earlier_avg": 2,
+      "earlier_avg": 3,
       "trend": "falling",
       "guide_exists": "ssc-cgl-vs-ssc-chsl-comparison"
     },
     {
       "topic": "pm rahat scheme",
-      "interest_7d": 71,
+      "interest_7d": 59,
       "recent_avg": 0,
-      "earlier_avg": 0,
-      "trend": "stable",
+      "earlier_avg": 2,
+      "trend": "falling",
       "guide_exists": "pm-rahat-scheme-road-accident-cashless-treatment"
     },
     {
       "topic": "ladli behna status",
-      "interest_7d": 61,
-      "recent_avg": 7,
+      "interest_7d": 34,
+      "recent_avg": 0,
       "earlier_avg": 0,
-      "trend": "rising",
+      "trend": "stable",
       "guide_exists": "madhya-pradesh-ladli-behna"
     },
     {
       "topic": "shakti card karnataka",
-      "interest_7d": 30,
+      "interest_7d": 12,
       "recent_avg": 0,
       "earlier_avg": 0,
       "trend": "stable",
@@ -235,7 +235,7 @@
     },
     {
       "topic": "gruha lakshmi karnataka",
-      "interest_7d": 4,
+      "interest_7d": 0,
       "recent_avg": 0,
       "earlier_avg": 0,
       "trend": "stable",
@@ -245,26 +245,26 @@
   "opportunities": [
     {
       "topic": "sarkari naukri",
-      "interest_7d": 7581,
-      "recent_avg": 24,
+      "interest_7d": 8011,
+      "recent_avg": 36,
       "earlier_avg": 49,
-      "trend": "falling",
-      "guide_exists": null
-    },
-    {
-      "topic": "neet result",
-      "interest_7d": 2002,
-      "recent_avg": 3,
-      "earlier_avg": 13,
-      "trend": "falling",
+      "trend": "stable",
       "guide_exists": null
     },
     {
       "topic": "upsc result",
-      "interest_7d": 1966,
-      "recent_avg": 8,
-      "earlier_avg": 9,
-      "trend": "stable",
+      "interest_7d": 2291,
+      "recent_avg": 15,
+      "earlier_avg": 10,
+      "trend": "rising",
+      "guide_exists": null
+    },
+    {
+      "topic": "neet result",
+      "interest_7d": 1862,
+      "recent_avg": 2,
+      "earlier_avg": 13,
+      "trend": "falling",
       "guide_exists": null
     }
   ]

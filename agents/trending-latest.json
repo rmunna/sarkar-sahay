@@ -1,13 +1,40 @@
 {
-  "scannedAt": "2026-02-23T01:30:15.124Z",
+  "scannedAt": "2026-02-24T01:30:15.355Z",
   "govtTrends": [
     {
-      "title": "22 फरवरी मुख्य समाचार",
+      "title": "isl kerala blasters",
       "traffic": "100+",
-      "pubDate": "Sun, 22 Feb 2026 16:30:00 -0800",
-      "newsTitle": "Bihar/Jharkhand News: 22 फरवरी की बड़ी खबरें, पूरे दिन का लेखा जोखा, यहां बस एक क्लिक पर",
+      "pubDate": "Mon, 23 Feb 2026 16:40:00 -0800",
+      "newsTitle": "Chhangte’s strike gives Mumbai City their second straight victory",
       "source": "google_trends",
-      "suggestedSlug": "22-",
+      "suggestedSlug": "isl-kerala-blasters",
+      "guideExists": false
+    },
+    {
+      "title": "sehri time delhi",
+      "traffic": "2000+",
+      "pubDate": "Mon, 23 Feb 2026 15:40:00 -0800",
+      "newsTitle": "Ramadan 2026 timetable: Sehri and iftar timings city-wise, from Delhi and Hyderabad, Mumbai to Lucknow | Hindustan Times",
+      "source": "google_trends",
+      "suggestedSlug": "sehri-time-delhi",
+      "guideExists": false
+    },
+    {
+      "title": "us iran news",
+      "traffic": "200+",
+      "pubDate": "Mon, 23 Feb 2026 15:30:00 -0800",
+      "newsTitle": "Iran banks big on murky oil ‘trustees’ as war with US on the horizon",
+      "source": "google_trends",
+      "suggestedSlug": "us-iran-news",
+      "guideExists": false
+    },
+    {
+      "title": "rohit sharma",
+      "traffic": "1000+",
+      "pubDate": "Mon, 23 Feb 2026 15:20:00 -0800",
+      "newsTitle": "IND vs SA Cricket Scorecard, 43rd Match, Super Eights, Group 1 at Ahmedabad, February 22, 2026",
+      "source": "google_trends",
+      "suggestedSlug": "rohit-sharma",
       "guideExists": false
     }
   ],

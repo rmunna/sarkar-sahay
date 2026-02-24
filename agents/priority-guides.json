@@ -1,15 +1,56 @@
 {
   "_comment": "Priority guides based on real GSC traffic data (Feb 2026). Updated with actual clicks/impressions.",
-  "_lastUpdated": "2026-02-21",
+  "_lastUpdated": "2026-02-23",
   "_source": "Google Search Console API",
   "tier1_traffic": [
-    {"slug": "shakti-free-bus-karnataka", "clicks": 28, "impressions": 1108, "position": 7.7, "note": "TOP performer — expand"},
-    {"slug": "kpsc-fda-sda-exam-guide", "clicks": 2, "impressions": 129, "position": 7.8, "note": "Growing — expand"},
-    {"slug": "ration-card-surrender-cancel", "clicks": 2, "impressions": 91, "position": 7.2, "note": "Niche but ranking"},
-    {"slug": "chhattisgarh-mahtari-vandana-yojana", "clicks": 0, "impressions": 12, "position": 9.1},
-    {"slug": "aadhaar-card-download-online", "clicks": 0, "impressions": 12, "position": 80.9},
-    {"slug": "state-psc-exam-guide", "clicks": 0, "impressions": 12, "position": 7.3},
-    {"slug": "aadhaar-biometric-lock-unlock", "clicks": 0, "impressions": 6, "position": 36.3}
+    {
+      "slug": "shakti-free-bus-karnataka",
+      "clicks": 43,
+      "impressions": 1873,
+      "position": 8.0,
+      "note": "TOP performer \u2014 96% of all clicks"
+    },
+    {
+      "slug": "kpsc-fda-sda-exam-guide",
+      "clicks": 6,
+      "impressions": 377,
+      "position": 5.3,
+      "note": "Growing strong \u2014 good position"
+    },
+    {
+      "slug": "ration-card-surrender-cancel",
+      "clicks": 3,
+      "impressions": 269,
+      "position": 6.9,
+      "note": "Steady performer"
+    },
+    {
+      "slug": "irctc-account-login-problems-fix",
+      "clicks": 1,
+      "impressions": 208,
+      "position": 8.6,
+      "note": "High impressions, low CTR \u2014 improve title/meta"
+    },
+    {
+      "slug": "voter-id-download-not-working-fix",
+      "clicks": 1,
+      "impressions": 85,
+      "position": 5.0,
+      "note": "Great position \u2014 needs CTR boost"
+    },
+    {
+      "slug": "tatkal-passport-apply-fees-process",
+      "clicks": 1,
+      "impressions": 38,
+      "position": 51.3,
+      "note": "High intent \u2014 needs SEO work"
+    },
+    {
+      "slug": "chhattisgarh-mahtari-vandana-yojana",
+      "clicks": 1,
+      "impressions": 16,
+      "position": 9.3
+    }
   ],
   "tier1_seo": [
     "aadhaar-card-apply-online",
