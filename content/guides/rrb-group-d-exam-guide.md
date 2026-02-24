@@ -2,7 +2,7 @@
 title: "RRB Group D Exam Guide — Eligibility, Syllabus, Preparation Tips"
 description: "Complete RRB Group D exam guide with eligibility criteria, exam pattern, syllabus, application process, and preparation tips for railway jobs."
 category: "Jobs & Exams"
-keywords: ["RRB Group D", "railway group d exam", "RRB Group D syllabus", "railway recruitment", "group d eligibility", "RRB Group D preparation"]
+keywords: ["RRB Group D", "railway group d exam", "RRB Group D syllabus", "railway recruitment", "group d eligibility", "RRB Group D preparation", "RRB Group D result", "RRB Group D 2026 vacancy"]
 readingTime: "8 min"
 officialLinks:
   - "https://www.rrbcdg.gov.in"
@@ -176,6 +176,32 @@ Many candidates clear CBT but fail in PET. Start running and building stamina at
 | Reasoning | A Modern Approach to Verbal & Non-Verbal Reasoning | R.S. Aggarwal |
 | General Science | NCERT 6th-10th Science | NCERT |
 | General Awareness | Lucent's General Knowledge | Lucent |
+
+## Latest Recruitment: RRB Group D 2026
+
+The Railway Recruitment Cells have announced **22,195 vacancies** for Level 1 posts under the RRB Group D 2026 recruitment cycle. This is one of the largest railway recruitment drives in recent years.
+
+- **Total Posts:** 22,195 (across all RRBs/RRCs)
+- **Notification Date:** February 2026
+- **Application Mode:** Online through respective RRC websites
+- **Exam Date:** To be announced
+
+Keep checking [rrbcdg.gov.in](https://www.rrbcdg.gov.in) and your zone's RRC website for application dates and exam schedule.
+
+## How to Check RRB Group D Results
+
+1. Visit your zone's RRB/RRC website (e.g., [rrbcdg.gov.in](https://www.rrbcdg.gov.in) for Delhi)
+2. Look for **"Results"** or **"CEN Results"** section
+3. Download the result PDF — results are published as roll number lists, zone-wise
+4. Log in to the candidate portal with your registration number and date of birth to check individual scores and scorecard
+
+### After Results
+
+- **Shortlisted candidates** are called for PET (Physical Efficiency Test)
+- **PET qualified candidates** proceed to Document Verification and Medical Examination
+- **Final merit list** is published after all stages are complete
+
+**Tip:** Results are declared zone-wise by individual RRBs/RRCs, so check your specific zone's website.
 
 ## Salary and Benefits
 

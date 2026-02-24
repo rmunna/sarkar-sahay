@@ -2,7 +2,7 @@
 title: "UPSC Civil Services Exam Preparation Guide"
 description: "Complete UPSC CSE preparation guide with booklist, strategy, timeline, and subject-wise tips for Prelims, Mains, and Interview stages."
 category: "Jobs & Exams"
-keywords: ["UPSC preparation", "IAS exam guide", "civil services strategy", "UPSC booklist", "UPSC Prelims Mains tips", "IAS preparation timeline"]
+keywords: ["UPSC preparation", "IAS exam guide", "civil services strategy", "UPSC booklist", "UPSC Prelims Mains tips", "IAS preparation timeline", "UPSC result", "how to check UPSC result"]
 readingTime: "10 min"
 officialLinks:
   - "https://upsc.gov.in"
@@ -186,6 +186,31 @@ Your optional subject can make or break your rank. Consider these factors:
 4. Upload photo and signature as per specifications
 5. Pay the fee (₹100 for General/OBC, nil for SC/ST/PwBD/Female)
 6. Download confirmation — check our [guide on applying for government jobs](/guide/how-to-apply-government-jobs-online)
+
+## How to Check UPSC Results
+
+UPSC declares results for each stage (Prelims, Mains, Final) on its official website.
+
+### Steps to Check Results
+
+1. Visit [upsc.gov.in](https://upsc.gov.in)
+2. Click on **"Written Results"** or **"Final Results"** under the relevant examination
+3. Download the PDF — results are published as a list of roll numbers
+4. For individual marks, check the **"Marks of Non-Recommended Candidates"** section (published after the final result)
+
+### Result Timeline
+
+| Stage | Result Declared |
+|---|---|
+| Prelims | About 15-20 days after exam |
+| Mains | January-February (next year) |
+| Interview/Final | April-May |
+
+### How to Check Individual Scores
+
+After the final result is declared, UPSC publishes marks of all candidates (recommended and non-recommended). Visit the **"Marks Information"** section on [upsc.gov.in](https://upsc.gov.in) with your roll number to view your marks.
+
+**Tip:** Bookmark the [UPSC results page](https://upsc.gov.in) and check it on result day rather than relying on third-party sites.
 
 ## Frequently Asked Questions
 
