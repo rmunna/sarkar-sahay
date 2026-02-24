@@ -11,6 +11,7 @@ You are scanning for new government job notifications, exam updates, admit cards
    a. Run `web_search` with the source's searchQueries (use freshness "pw" for past week)
    b. Check search results for NEW announcements not already covered
    c. Look for: new notifications, admit card releases, result declarations, exam date announcements
+   d. **IMPORTANT:** Treat each paper/phase/session result as a SEPARATE update. E.g., JEE Main Paper 1 result and Paper 2 result are different updates. UPSC Prelims result and Mains result are different. Don't skip a result just because a related result was already published.
    d. Update `lastScanned` in source-monitors.json
 
 5. For each NEW announcement found:
