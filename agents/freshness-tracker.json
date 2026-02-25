@@ -40,5 +40,232 @@
       "https://parivahan.gov.in (HTTP 403)"
     ],
     "totalLinks": 7
+  },
+  "aadhaar-address-update-rejected-fix": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://ssup.uidai.gov.in (fetch failed)",
+      "https://appointments.uidai.gov.in (This operation was aborted)"
+    ],
+    "totalLinks": 3
+  },
+  "aadhaar-biometric-verification-failed-fix": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://resident.uidai.gov.in/bio-lock (fetch failed)"
+    ],
+    "totalLinks": 3
+  },
+  "aadhaar-card-download-online": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://eaadhaar.uidai.gov.in (fetch failed)"
+    ],
+    "totalLinks": 3
+  },
+  "aadhaar-esign-online-guide": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://egov-appstore.nic.in (fetch failed)"
+    ],
+    "totalLinks": 4
+  },
+  "aadhaar-name-correction-online": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "ok",
+    "brokenLinks": [],
+    "totalLinks": 4
+  },
+  "aadhaar-otp-not-received-fix": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://resident.uidai.gov.in/verify-email-mobile (fetch failed)"
+    ],
+    "totalLinks": 3
+  },
+  "aadhaar-pan-link": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "ok",
+    "brokenLinks": [],
+    "totalLinks": 2
+  },
+  "aadhaar-pvc-card-order-online": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://resident.uidai.gov.in (fetch failed)"
+    ],
+    "totalLinks": 3
+  },
+  "aadhaar-update-mobile-email": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://ssup.uidai.gov.in (fetch failed)"
+    ],
+    "totalLinks": 3
+  },
+  "aadhaar-update-status-check": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://resident.uidai.gov.in (fetch failed)"
+    ],
+    "totalLinks": 3
+  },
+  "aadhaar-voter-id-linking-online": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://voterportal.eci.gov.in (fetch failed)",
+      "https://www.nvsp.in (fetch failed)"
+    ],
+    "totalLinks": 5
+  },
+  "aadhaar-vs-pan-difference": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "ok",
+    "brokenLinks": [],
+    "totalLinks": 2
+  },
+  "aadhaar-vs-voter-id-vs-passport-id-proof": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "ok",
+    "brokenLinks": [],
+    "totalLinks": 3
+  },
+  "aadhar-mobile-number-update-fix": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://appointments.uidai.gov.in (This operation was aborted)"
+    ],
+    "totalLinks": 3
+  },
+  "aaple-sarkar-maharashtra-certificates": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "ok",
+    "brokenLinks": [],
+    "totalLinks": 3
+  },
+  "abha-health-id-create-online": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "ok",
+    "brokenLinks": [],
+    "totalLinks": 3
+  },
+  "admit-card-download-online-guide": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://ibps.in (fetch failed)"
+    ],
+    "totalLinks": 4
+  },
+  "adoption-procedure-india": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://cara.wcd.gov.in (HTTP 403)",
+      "https://carings.nic.in (fetch failed)"
+    ],
+    "totalLinks": 2
+  },
+  "advance-tax-payment-guide": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://onlineservices.tin.egov-nsdl.com/etaxnew/tdsnontds.jsp (fetch failed)"
+    ],
+    "totalLinks": 2
+  },
+  "afcat-exam-guide": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://afcat.cdac.in (HTTP 403)"
+    ],
+    "totalLinks": 2
+  },
+  "agniveer-airforce-recruitment-guide": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://agniveervayu.cdac.in (fetch failed)",
+      "https://afcat.cdac.in (HTTP 403)"
+    ],
+    "totalLinks": 3
+  },
+  "agniveer-army-recruitment-guide": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://agniveervayu.cdac.in (fetch failed)"
+    ],
+    "totalLinks": 3
+  },
+  "agniveer-navy-recruitment-guide": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "ok",
+    "brokenLinks": [],
+    "totalLinks": 2
+  },
+  "andhra-pradesh-amma-vodi": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://jaganannaammavodi.ap.gov.in (fetch failed)"
+    ],
+    "totalLinks": 1
+  },
+  "andhra-pradesh-government-schemes-services": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://meeseva.ap.gov.in/ (fetch failed)"
+    ],
+    "totalLinks": 3
+  },
+  "anganwadi-services-icds": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://icds-wcd.nic.in (This operation was aborted)",
+      "https://wcd.nic.in (fetch failed)"
+    ],
+    "totalLinks": 3
+  },
+  "annapurna-scheme-senior-food": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://nsap.nic.in/ (fetch failed)"
+    ],
+    "totalLinks": 3
+  },
+  "antyodaya-anna-yojana-aay": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "broken-links",
+    "brokenLinks": [
+      "https://antyodaya.gov.in (fetch failed)"
+    ],
+    "totalLinks": 3
+  },
+  "antyodaya-anna-yojana": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "ok",
+    "brokenLinks": [],
+    "totalLinks": 2
+  },
+  "ap-police-constable-exam-guide": {
+    "lastChecked": "2026-02-25",
+    "linkStatus": "ok",
+    "brokenLinks": [],
+    "totalLinks": 1
   }
 }
