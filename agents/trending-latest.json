@@ -1,40 +1,13 @@
 {
-  "scannedAt": "2026-02-24T01:30:15.355Z",
+  "scannedAt": "2026-02-25T01:30:14.656Z",
   "govtTrends": [
     {
-      "title": "isl kerala blasters",
-      "traffic": "100+",
-      "pubDate": "Mon, 23 Feb 2026 16:40:00 -0800",
-      "newsTitle": "Chhangte’s strike gives Mumbai City their second straight victory",
-      "source": "google_trends",
-      "suggestedSlug": "isl-kerala-blasters",
-      "guideExists": false
-    },
-    {
-      "title": "sehri time delhi",
-      "traffic": "2000+",
-      "pubDate": "Mon, 23 Feb 2026 15:40:00 -0800",
-      "newsTitle": "Ramadan 2026 timetable: Sehri and iftar timings city-wise, from Delhi and Hyderabad, Mumbai to Lucknow | Hindustan Times",
-      "source": "google_trends",
-      "suggestedSlug": "sehri-time-delhi",
-      "guideExists": false
-    },
-    {
-      "title": "us iran news",
+      "title": "time",
       "traffic": "200+",
-      "pubDate": "Mon, 23 Feb 2026 15:30:00 -0800",
-      "newsTitle": "Iran banks big on murky oil ‘trustees’ as war with US on the horizon",
+      "pubDate": "Tue, 24 Feb 2026 14:40:00 -0800",
+      "newsTitle": "Trump to address Congress in 2026 State of the Union tonight",
       "source": "google_trends",
-      "suggestedSlug": "us-iran-news",
-      "guideExists": false
-    },
-    {
-      "title": "rohit sharma",
-      "traffic": "1000+",
-      "pubDate": "Mon, 23 Feb 2026 15:20:00 -0800",
-      "newsTitle": "IND vs SA Cricket Scorecard, 43rd Match, Super Eights, Group 1 at Ahmedabad, February 22, 2026",
-      "source": "google_trends",
-      "suggestedSlug": "rohit-sharma",
+      "suggestedSlug": "time",
       "guideExists": false
     }
   ],
