@@ -59,7 +59,8 @@
       "tier": 1,
       "searchQueries": ["JEE Main 2026", "NEET 2026", "CUET 2026", "UGC NET 2026"],
       "exams": ["JEE Main", "NEET UG", "CUET UG", "CUET PG", "UGC NET", "CSIR NET"],
-      "lastScanned": "2026-02-28"
+      "lastScanned": "2026-02-28",
+      "lastScanNote": "CSIR NET Dec 2025 final result (23 Feb) — published"
     },
     {
       "id": "gate",
