@@ -1,13 +1,58 @@
 {
-  "scannedAt": "2026-02-25T01:30:14.656Z",
+  "scannedAt": "2026-02-26T01:30:15.105Z",
   "govtTrends": [
     {
-      "title": "time",
+      "title": "palmeiras vs fluminense",
       "traffic": "200+",
-      "pubDate": "Tue, 24 Feb 2026 14:40:00 -0800",
-      "newsTitle": "Trump to address Congress in 2026 State of the Union tonight",
+      "pubDate": "Wed, 25 Feb 2026 17:00:00 -0800",
+      "newsTitle": "Devido ao desgaste físico do elenco, Luis Zubeldía acende o alerta, e o Fluminense deve enfrentar o Palmeiras com equipe reserva",
       "source": "google_trends",
-      "suggestedSlug": "time",
+      "suggestedSlug": "palmeiras-vs-fluminense",
+      "guideExists": false
+    },
+    {
+      "title": "grizzlies vs warriors",
+      "traffic": "200+",
+      "pubDate": "Wed, 25 Feb 2026 16:50:00 -0800",
+      "newsTitle": "Memphis Grizzlies vs. Golden State Warriors (02-25-2026) game preview: When and where to watch, expected",
+      "source": "google_trends",
+      "suggestedSlug": "grizzlies-vs-warriors",
+      "guideExists": false
+    },
+    {
+      "title": "saudi arabia",
+      "traffic": "100+",
+      "pubDate": "Wed, 25 Feb 2026 16:50:00 -0800",
+      "newsTitle": "Saudi Arabia bans poultry imports from 40 countries including India amid health concerns",
+      "source": "google_trends",
+      "suggestedSlug": "saudi-arabia",
+      "guideExists": false
+    },
+    {
+      "title": "प्रधानमंत्री किसान सम्मान निधि pm kisan",
+      "traffic": "100+",
+      "pubDate": "Wed, 25 Feb 2026 16:30:00 -0800",
+      "newsTitle": "PM Kisan Yojana: कब खत्म होगा 9 करोड़ किसानों का इंतजार, होली से पहले खाते में आएंगे 2 हजार? पढ़ें ताजा अपडेट",
+      "source": "google_trends",
+      "suggestedSlug": "-pm-kisan",
+      "guideExists": false
+    },
+    {
+      "title": "sehri time mumbai",
+      "traffic": "2000+",
+      "pubDate": "Wed, 25 Feb 2026 16:00:00 -0800",
+      "newsTitle": "Iftar time today, February 25: City-wise Ramadan 2026 timings for Delhi, Mumbai, Lucknow, Hyderabad, Bengaluru",
+      "source": "google_trends",
+      "suggestedSlug": "sehri-time-mumbai",
+      "guideExists": false
+    },
+    {
+      "title": "eid ul fitr 2026",
+      "traffic": "100+",
+      "pubDate": "Wed, 25 Feb 2026 16:00:00 -0800",
+      "newsTitle": "March bank holidays 2026: Check full list before you plan",
+      "source": "google_trends",
+      "suggestedSlug": "eid-ul-fitr-2026",
       "guideExists": false
     }
   ],
