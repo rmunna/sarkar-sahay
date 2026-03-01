@@ -1,5 +1,5 @@
 ---
-title: UPSC vs State PSC – Exam Pattern, Salary, Difficulty, and Which to Choose
+title: "UPSC vs State PSC — Which Is Easier? Salary, Syllabus & Success Rate Compared"
 description: >-
   Detailed comparison of UPSC Civil Services and State PSC exams covering syllabus,
   exam pattern, difficulty level, salary, career growth, and which exam is right

@@ -1,10 +1,16 @@
 {
-  "scannedAt": "2026-03-01T09:51:51.421407",
+  "scannedAt": "2026-03-01T11:37:57.644461",
   "results": [
+    {
+      "topic": "icai result",
+      "category": "Jobs",
+      "rising_value": 750,
+      "guide_exists": null
+    },
     {
       "topic": "madras university result",
       "category": "Jobs",
-      "rising_value": 700,
+      "rising_value": 750,
       "guide_exists": null
     },
     {
@@ -14,22 +20,22 @@
       "guide_exists": null
     },
     {
-      "topic": "mstc portal",
-      "category": "Education",
+      "topic": "sainik school result 2026",
+      "category": "Jobs",
+      "rising_value": 600,
+      "guide_exists": null
+    },
+    {
+      "topic": "icai result jan 2026",
+      "category": "Jobs",
       "rising_value": 550,
       "guide_exists": null
     },
     {
-      "topic": "sainik school result 2026",
-      "category": "Jobs",
-      "rising_value": 500,
-      "guide_exists": null
-    },
-    {
-      "topic": "madras university result 2026",
-      "category": "Jobs",
+      "topic": "mstc portal",
+      "category": "Education",
       "rising_value": 450,
-      "guide_exists": null
+      "guide_exists": "mstc-portal-registration-login"
     },
     {
       "topic": "osm cbse login",
@@ -52,11 +58,11 @@
     {
       "topic": "cbse on screen marking",
       "category": "Jobs",
-      "rising_value": 300,
+      "rising_value": 350,
       "guide_exists": null
     },
     {
-      "topic": "voter id verification",
+      "topic": "kvs result",
       "category": "Jobs",
       "rising_value": 300,
       "guide_exists": null
@@ -68,27 +74,21 @@
       "guide_exists": null
     },
     {
-      "topic": "kvs result",
-      "category": "Jobs",
-      "rising_value": 250,
-      "guide_exists": null
-    },
-    {
       "topic": "sarkari stop",
       "category": "Jobs",
-      "rising_value": 200,
+      "rising_value": 180,
       "guide_exists": null
     },
     {
       "topic": "rbi office attendant admit card 2026",
       "category": "Jobs",
-      "rising_value": 150,
+      "rising_value": 130,
       "guide_exists": null
     },
     {
       "topic": "kvs",
       "category": "Jobs",
-      "rising_value": 110,
+      "rising_value": 120,
       "guide_exists": null
     },
     {
@@ -116,17 +116,23 @@
       "guide_exists": null
     },
     {
-      "topic": "itbp",
+      "topic": "rojgar result",
       "category": "Jobs",
-      "rising_value": 60,
+      "rising_value": 50,
       "guide_exists": null
     }
   ],
   "opportunities": [
     {
+      "topic": "icai result",
+      "category": "Jobs",
+      "rising_value": 750,
+      "guide_exists": null
+    },
+    {
       "topic": "madras university result",
       "category": "Jobs",
-      "rising_value": 700,
+      "rising_value": 750,
       "guide_exists": null
     },
     {
@@ -136,21 +142,15 @@
       "guide_exists": null
     },
     {
-      "topic": "mstc portal",
-      "category": "Education",
-      "rising_value": 550,
-      "guide_exists": null
-    },
-    {
       "topic": "sainik school result 2026",
       "category": "Jobs",
-      "rising_value": 500,
+      "rising_value": 600,
       "guide_exists": null
     },
     {
-      "topic": "madras university result 2026",
+      "topic": "icai result jan 2026",
       "category": "Jobs",
-      "rising_value": 450,
+      "rising_value": 550,
       "guide_exists": null
     },
     {
@@ -174,11 +174,11 @@
     {
       "topic": "cbse on screen marking",
       "category": "Jobs",
-      "rising_value": 300,
+      "rising_value": 350,
       "guide_exists": null
     },
     {
-      "topic": "voter id verification",
+      "topic": "kvs result",
       "category": "Jobs",
       "rising_value": 300,
       "guide_exists": null
@@ -190,27 +190,21 @@
       "guide_exists": null
     },
     {
-      "topic": "kvs result",
-      "category": "Jobs",
-      "rising_value": 250,
-      "guide_exists": null
-    },
-    {
       "topic": "sarkari stop",
       "category": "Jobs",
-      "rising_value": 200,
+      "rising_value": 180,
       "guide_exists": null
     },
     {
       "topic": "rbi office attendant admit card 2026",
       "category": "Jobs",
-      "rising_value": 150,
+      "rising_value": 130,
       "guide_exists": null
     },
     {
       "topic": "kvs",
       "category": "Jobs",
-      "rising_value": 110,
+      "rising_value": 120,
       "guide_exists": null
     },
     {
@@ -238,11 +232,18 @@
       "guide_exists": null
     },
     {
-      "topic": "itbp",
+      "topic": "rojgar result",
       "category": "Jobs",
-      "rising_value": 60,
+      "rising_value": 50,
       "guide_exists": null
     }
   ],
-  "covered": []
+  "covered": [
+    {
+      "topic": "mstc portal",
+      "category": "Education",
+      "rising_value": 450,
+      "guide_exists": "mstc-portal-registration-login"
+    }
+  ]
 }

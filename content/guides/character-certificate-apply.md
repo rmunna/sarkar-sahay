@@ -1,6 +1,6 @@
 ---
-title: "Character Certificate — How to Apply Online and Offline in India"
-description: "Complete guide to getting a character certificate in India. Learn about the application process, documents needed, online and offline methods, and uses."
+title: "Character Certificate — How to Get It Online in 3 Days (Format Included)"
+description: "Need a character certificate for a job or exam? Apply online or offline with our step-by-step guide. Includes format, documents required, and police verification process."
 category: "Utilities"
 keywords: ["character certificate", "character certificate apply online", "police character certificate", "character certificate format", "good conduct certificate"]
 readingTime: "7 min"

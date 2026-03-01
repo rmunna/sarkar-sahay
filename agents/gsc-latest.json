@@ -1,36 +1,92 @@
 {
   "period": {
-    "start": "2026-02-16",
-    "end": "2026-02-23",
-    "days": 7
+    "start": "2026-02-01",
+    "end": "2026-03-01",
+    "days": 28
   },
   "totals": {
-    "clicks": 45,
-    "impressions": 2454,
-    "ctr": 0.018337408312958436,
-    "position": 10.469845150774246
+    "clicks": 254,
+    "impressions": 30165,
+    "ctr": 0.00842035471573015,
+    "position": 8.430399469583955
   },
   "topQueries": [
     {
       "query": "karnataka shakti scheme smart card apply online",
-      "clicks": 5,
-      "impressions": 31,
-      "ctr": "16.1%",
-      "position": "7.7"
+      "clicks": 6,
+      "impressions": 45,
+      "ctr": "13.3%",
+      "position": "8.0"
+    },
+    {
+      "query": "what to do if your voter id application is rejected india",
+      "clicks": 4,
+      "impressions": 240,
+      "ctr": "1.7%",
+      "position": "8.6"
+    },
+    {
+      "query": "how to check voter id rejected reason",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": "50.0%",
+      "position": "6.3"
+    },
+    {
+      "query": "mmsy hp",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": "40.0%",
+      "position": "7.2"
     },
     {
       "query": "smart card for free bus in karnataka apply online",
       "clicks": 2,
-      "impressions": 30,
-      "ctr": "6.7%",
-      "position": "7.6"
+      "impressions": 32,
+      "ctr": "6.3%",
+      "position": "7.7"
+    },
+    {
+      "query": "aadhaar otp issue today",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": "50.0%",
+      "position": "8.0"
+    },
+    {
+      "query": "apl full form in ration card",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": "100.0%",
+      "position": "3.0"
     },
     {
       "query": "bmtc smart card for ladies apply online",
       "clicks": 1,
-      "impressions": 29,
-      "ctr": "3.4%",
-      "position": "9.0"
+      "impressions": 32,
+      "ctr": "3.1%",
+      "position": "8.9"
+    },
+    {
+      "query": "crsorgi.gov.in birth certificate correction",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": "33.3%",
+      "position": "2.0"
+    },
+    {
+      "query": "eci application rejected",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": "16.7%",
+      "position": "5.2"
+    },
+    {
+      "query": "face authentication unsuccessful biometric data did not match",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": "14.3%",
+      "position": "8.9"
     },
     {
       "query": "fda age limit in karnataka",
@@ -47,6 +103,104 @@
       "position": "5.8"
     },
     {
+      "query": "how to correct rejected voter id",
+      "clicks": 1,
+      "impressions": 92,
+      "ctr": "1.1%",
+      "position": "8.1"
+    },
+    {
+      "query": "how to restore irctc user id and password",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": "100.0%",
+      "position": "4.0"
+    },
+    {
+      "query": "irctc account locked for the day",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": "100.0%",
+      "position": "19.0"
+    },
+    {
+      "query": "irctc user id change",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": "100.0%",
+      "position": "3.0"
+    },
+    {
+      "query": "is noc and character certificate same",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": "50.0%",
+      "position": "7.5"
+    },
+    {
+      "query": "my irctc user id",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": "100.0%",
+      "position": "3.0"
+    },
+    {
+      "query": "nsp scholarship portal helpline number",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": "100.0%",
+      "position": "2.0"
+    },
+    {
+      "query": "passport renewal online",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": "100.0%",
+      "position": "30.0"
+    },
+    {
+      "query": "pending for sanction",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": "50.0%",
+      "position": "2.0"
+    },
+    {
+      "query": "psc",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": "12.5%",
+      "position": "3.3"
+    },
+    {
+      "query": "psc full from",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": "100.0%",
+      "position": "3.0"
+    },
+    {
+      "query": "psc meaning",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": "100.0%",
+      "position": "3.0"
+    },
+    {
+      "query": "public service commission west bengal",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": "100.0%",
+      "position": "4.0"
+    },
+    {
+      "query": "rythu bandhu telangana",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": "50.0%",
+      "position": "15.0"
+    },
+    {
       "query": "shakti smart card eligibility",
       "clicks": 1,
       "impressions": 7,
@@ -56,193 +210,193 @@
     {
       "query": "shakti smart card online apply near bengaluru karnataka",
       "clicks": 1,
-      "impressions": 71,
-      "ctr": "1.4%",
-      "position": "7.3"
+      "impressions": 81,
+      "ctr": "1.2%",
+      "position": "7.5"
     },
     {
       "query": "shakti yojana card apply online karnataka",
       "clicks": 1,
-      "impressions": 8,
-      "ctr": "12.5%",
-      "position": "7.8"
-    },
-    {
-      "query": "\"karnataka\" electric vehicle policy sgst reimbursement",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": "0.0%",
-      "position": "12.0"
-    },
-    {
-      "query": "aadhaar based digital signature",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": "0.0%",
-      "position": "38.5"
-    },
-    {
-      "query": "aadhaar based e signature",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": "0.0%",
-      "position": "36.0"
-    },
-    {
-      "query": "aadhaar based esign",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": "0.0%",
-      "position": "47.0"
-    },
-    {
-      "query": "aadhaar download",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": "0.0%",
-      "position": "97.5"
-    },
-    {
-      "query": "aadhaar e card download",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": "0.0%",
-      "position": "94.0"
-    },
-    {
-      "query": "aadhaar esign",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": "0.0%",
-      "position": "117.0"
-    },
-    {
-      "query": "aadhaar esign online",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": "0.0%",
-      "position": "46.0"
-    },
-    {
-      "query": "aadhaar otp limit exceeded",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": "0.0%",
-      "position": "9.0"
-    },
-    {
-      "query": "aadhaar otp not received on airtel",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": "0.0%",
-      "position": "7.0"
-    },
-    {
-      "query": "aadhar based esignature",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": "0.0%",
-      "position": "47.0"
-    },
-    {
-      "query": "aadhar card download",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": "0.0%",
-      "position": "90.5"
-    },
-    {
-      "query": "aadhar card esign",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": "0.0%",
-      "position": "70.0"
-    },
-    {
-      "query": "aadhar card fingerprint unlock",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": "0.0%",
-      "position": "53.0"
-    },
-    {
-      "query": "aadhar finger unlock",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": "0.0%",
-      "position": "43.0"
-    },
-    {
-      "query": "aadhar unlock",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": "0.0%",
-      "position": "57.0"
-    },
-    {
-      "query": "andhra pradesh helpline number",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": "0.0%",
-      "position": "8.0"
-    },
-    {
-      "query": "application for tatkal passport",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": "0.0%",
-      "position": "67.5"
-    },
-    {
-      "query": "apply for rooftop solar",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": "0.0%",
-      "position": "92.5"
-    },
-    {
-      "query": "apply shakti smart card",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": "0.0%",
-      "position": "7.5"
-    },
-    {
-      "query": "batao",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": "0.0%",
-      "position": "8.0"
-    },
-    {
-      "query": "bda sda fda recruitment 2025",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": "0.0%",
-      "position": "1.0"
+      "impressions": 12,
+      "ctr": "8.3%",
+      "position": "8.3"
     }
   ],
   "topPages": [
     {
+      "page": "/guide/voter-id-application-rejected-fix",
+      "clicks": 132,
+      "impressions": 3050,
+      "ctr": "4.3%",
+      "position": "5.8"
+    },
+    {
       "page": "/guide/shakti-free-bus-karnataka",
-      "clicks": 43,
-      "impressions": 1873,
-      "ctr": "2.3%",
+      "clicks": 49,
+      "impressions": 2251,
+      "ctr": "2.2%",
       "position": "8.0"
+    },
+    {
+      "page": "/guide/irctc-account-login-problems-fix",
+      "clicks": 10,
+      "impressions": 8899,
+      "ctr": "0.1%",
+      "position": "5.7"
+    },
+    {
+      "page": "/guide/voter-id-download-not-working-fix",
+      "clicks": 10,
+      "impressions": 1137,
+      "ctr": "0.9%",
+      "position": "5.7"
+    },
+    {
+      "page": "/guide/pan-card-not-received-by-post-fix",
+      "clicks": 8,
+      "impressions": 429,
+      "ctr": "1.9%",
+      "position": "8.4"
     },
     {
       "page": "/guide/kpsc-fda-sda-exam-guide",
       "clicks": 6,
-      "impressions": 377,
-      "ctr": "1.6%",
-      "position": "5.3"
+      "impressions": 659,
+      "ctr": "0.9%",
+      "position": "4.7"
+    },
+    {
+      "page": "/guide/driving-licence-slot-not-available-fix",
+      "clicks": 5,
+      "impressions": 457,
+      "ctr": "1.1%",
+      "position": "7.3"
+    },
+    {
+      "page": "/guide/aadhaar-otp-not-received-fix",
+      "clicks": 4,
+      "impressions": 1507,
+      "ctr": "0.3%",
+      "position": "8.7"
+    },
+    {
+      "page": "/guide/aadhaar-vs-voter-id-vs-passport-id-proof",
+      "clicks": 4,
+      "impressions": 98,
+      "ctr": "4.1%",
+      "position": "6.8"
+    },
+    {
+      "page": "/guide/birth-certificate-correction-rejected-fix",
+      "clicks": 4,
+      "impressions": 338,
+      "ctr": "1.2%",
+      "position": "5.8"
+    },
+    {
+      "page": "/guide/character-certificate-apply",
+      "clicks": 4,
+      "impressions": 733,
+      "ctr": "0.5%",
+      "position": "9.8"
+    },
+    {
+      "page": "/guide/upsc-vs-state-psc-comparison",
+      "clicks": 4,
+      "impressions": 1341,
+      "ctr": "0.3%",
+      "position": "7.3"
+    },
+    {
+      "page": "/guide/digilocker-aadhaar-verification-failed-fix",
+      "clicks": 3,
+      "impressions": 2014,
+      "ctr": "0.1%",
+      "position": "7.5"
+    },
+    {
+      "page": "/guide/hp-mukhyamantri-swavalamban-yojana",
+      "clicks": 3,
+      "impressions": 90,
+      "ctr": "3.3%",
+      "position": "7.7"
+    },
+    {
+      "page": "/guide/ration-card-name-not-updated-fix",
+      "clicks": 3,
+      "impressions": 438,
+      "ctr": "0.7%",
+      "position": "6.6"
     },
     {
       "page": "/guide/ration-card-surrender-cancel",
       "clicks": 3,
-      "impressions": 269,
-      "ctr": "1.1%",
-      "position": "6.9"
+      "impressions": 332,
+      "ctr": "0.9%",
+      "position": "7.0"
+    },
+    {
+      "page": "/guide/sbi-fd-vs-post-office-fd-comparison",
+      "clicks": 3,
+      "impressions": 161,
+      "ctr": "1.9%",
+      "position": "8.2"
+    },
+    {
+      "page": "/guide/scholarship-payment-not-received-fix",
+      "clicks": 3,
+      "impressions": 327,
+      "ctr": "0.9%",
+      "position": "6.3"
+    },
+    {
+      "page": "/guide/wbpsc-exam-guide",
+      "clicks": 3,
+      "impressions": 235,
+      "ctr": "1.3%",
+      "position": "6.1"
+    },
+    {
+      "page": "/hi/guide/mudra-loan-status-check",
+      "clicks": 3,
+      "impressions": 35,
+      "ctr": "8.6%",
+      "position": "11.7"
+    },
+    {
+      "page": "/guide/aadhaar-biometric-verification-failed-fix",
+      "clicks": 2,
+      "impressions": 811,
+      "ctr": "0.2%",
+      "position": "8.6"
+    },
+    {
+      "page": "/guide/land-records-website-not-loading-fix",
+      "clicks": 2,
+      "impressions": 224,
+      "ctr": "0.9%",
+      "position": "5.6"
+    },
+    {
+      "page": "/guide/passport-appointment-not-available-fix",
+      "clicks": 2,
+      "impressions": 331,
+      "ctr": "0.6%",
+      "position": "8.3"
+    },
+    {
+      "page": "/guide/ration-card-portability-not-working-fix",
+      "clicks": 2,
+      "impressions": 401,
+      "ctr": "0.5%",
+      "position": "6.8"
+    },
+    {
+      "page": "/guide/telangana-rythu-bandhu-scheme",
+      "clicks": 2,
+      "impressions": 320,
+      "ctr": "0.6%",
+      "position": "7.9"
     },
     {
       "page": "https://citizennest.com/",
@@ -259,182 +413,33 @@
       "position": "1.3"
     },
     {
+      "page": "/guide/banglar-yuva-sathi-scheme-west-bengal",
+      "clicks": 1,
+      "impressions": 441,
+      "ctr": "0.2%",
+      "position": "11.2"
+    },
+    {
       "page": "/guide/chhattisgarh-mahtari-vandana-yojana",
       "clicks": 1,
-      "impressions": 16,
-      "ctr": "6.3%",
-      "position": "9.3"
-    },
-    {
-      "page": "/guide/irctc-account-login-problems-fix",
-      "clicks": 1,
-      "impressions": 208,
-      "ctr": "0.5%",
-      "position": "8.6"
-    },
-    {
-      "page": "/guide/navodaya-vidyalaya-teacher",
-      "clicks": 1,
-      "impressions": 18,
-      "ctr": "5.6%",
-      "position": "12.5"
-    },
-    {
-      "page": "/guide/tatkal-passport-apply-fees-process",
-      "clicks": 1,
-      "impressions": 38,
-      "ctr": "2.6%",
-      "position": "51.3"
-    },
-    {
-      "page": "/guide/voter-id-download-not-working-fix",
-      "clicks": 1,
-      "impressions": 85,
-      "ctr": "1.2%",
-      "position": "5.0"
-    },
-    {
-      "page": "/stories/cds-exam-guide.html",
-      "clicks": 1,
-      "impressions": 1,
-      "ctr": "100.0%",
-      "position": "42.0"
-    },
-    {
-      "page": "http://citizennest.com/",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": "0.0%",
-      "position": "1.0"
-    },
-    {
-      "page": "https://citizennest.com/guide/state-psc-exam-guide",
-      "clicks": 0,
-      "impressions": 12,
-      "ctr": "0.0%",
-      "position": "7.3"
-    },
-    {
-      "page": "/calculator",
-      "clicks": 0,
-      "impressions": 4,
-      "ctr": "0.0%",
-      "position": "6.8"
-    },
-    {
-      "page": "/calculator/hra-exemption",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": "0.0%",
-      "position": "84.0"
-    },
-    {
-      "page": "/calculator/job-eligibility",
-      "clicks": 0,
-      "impressions": 6,
-      "ctr": "0.0%",
-      "position": "8.5"
-    },
-    {
-      "page": "/guide/aadhaar-biometric-lock-unlock",
-      "clicks": 0,
-      "impressions": 24,
-      "ctr": "0.0%",
-      "position": "39.3"
-    },
-    {
-      "page": "/guide/aadhaar-biometric-verification-failed-fix",
-      "clicks": 0,
-      "impressions": 69,
-      "ctr": "0.0%",
-      "position": "7.7"
-    },
-    {
-      "page": "/guide/aadhaar-card-download-online",
-      "clicks": 0,
-      "impressions": 13,
-      "ctr": "0.0%",
-      "position": "75.1"
-    },
-    {
-      "page": "/guide/aadhaar-linking-guide",
-      "clicks": 0,
-      "impressions": 6,
-      "ctr": "0.0%",
-      "position": "15.5"
-    },
-    {
-      "page": "/guide/aadhaar-otp-not-received-fix",
-      "clicks": 0,
-      "impressions": 53,
-      "ctr": "0.0%",
-      "position": "9.0"
-    },
-    {
-      "page": "/guide/andhra-pradesh-government-schemes-services",
-      "clicks": 0,
-      "impressions": 15,
-      "ctr": "0.0%",
-      "position": "10.3"
-    },
-    {
-      "page": "/guide/apsc-exam-guide",
-      "clicks": 0,
-      "impressions": 6,
-      "ctr": "0.0%",
-      "position": "13.0"
-    },
-    {
-      "page": "/guide/atal-pension-yojana-guide",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": "0.0%",
-      "position": "39.0"
-    },
-    {
-      "page": "/guide/birth-certificate-correction-rejected-fix",
-      "clicks": 0,
-      "impressions": 23,
-      "ctr": "0.0%",
-      "position": "5.7"
-    },
-    {
-      "page": "/guide/character-certificate-apply",
-      "clicks": 0,
-      "impressions": 14,
-      "ctr": "0.0%",
-      "position": "7.9"
-    },
-    {
-      "page": "/guide/child-minor-passport-apply",
-      "clicks": 0,
-      "impressions": 9,
-      "ctr": "0.0%",
-      "position": "44.6"
+      "impressions": 43,
+      "ctr": "2.3%",
+      "position": "9.4"
     },
     {
       "page": "/guide/csc-digital-seva-portal-errors-fix",
-      "clicks": 0,
-      "impressions": 14,
+      "clicks": 1,
+      "impressions": 5089,
       "ctr": "0.0%",
       "position": "7.3"
-    },
-    {
-      "page": "/guide/digilocker-aadhaar-verification-failed-fix",
-      "clicks": 0,
-      "impressions": 6,
-      "ctr": "0.0%",
-      "position": "7.7"
-    },
-    {
-      "page": "/guide/driving-licence-slot-not-available-fix",
-      "clicks": 0,
-      "impressions": 34,
-      "ctr": "0.0%",
-      "position": "7.9"
     }
   ],
   "dailyTrend": [
+    {
+      "date": "2026-02-15",
+      "clicks": 0,
+      "impressions": 0
+    },
     {
       "date": "2026-02-16",
       "clicks": 0,
@@ -467,77 +472,112 @@
     },
     {
       "date": "2026-02-22",
-      "clicks": 6,
-      "impressions": 1045
+      "clicks": 13,
+      "impressions": 2130
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 50,
+      "impressions": 4536
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 55,
+      "impressions": 5708
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 41,
+      "impressions": 6741
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 41,
+      "impressions": 7556
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 34,
+      "impressions": 6171
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 4,
+      "impressions": 3873
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 0,
+      "impressions": 0
     }
   ],
   "countries": [
     {
       "country": "ind",
-      "clicks": 58,
-      "impressions": 3368
-    },
-    {
-      "country": "usa",
-      "clicks": 2,
-      "impressions": 674
-    },
-    {
-      "country": "ago",
-      "clicks": 0,
-      "impressions": 1
-    },
-    {
-      "country": "alb",
-      "clicks": 0,
-      "impressions": 1
+      "clicks": 256,
+      "impressions": 18976
     },
     {
       "country": "are",
-      "clicks": 0,
-      "impressions": 14
+      "clicks": 12,
+      "impressions": 192
     },
     {
-      "country": "arg",
-      "clicks": 0,
-      "impressions": 16
+      "country": "usa",
+      "clicks": 6,
+      "impressions": 14194
     },
     {
-      "country": "arm",
-      "clicks": 0,
-      "impressions": 2
+      "country": "sau",
+      "clicks": 5,
+      "impressions": 57
+    },
+    {
+      "country": "gbr",
+      "clicks": 2,
+      "impressions": 343
+    },
+    {
+      "country": "qat",
+      "clicks": 2,
+      "impressions": 42
     },
     {
       "country": "aus",
-      "clicks": 0,
-      "impressions": 11
+      "clicks": 1,
+      "impressions": 140
     },
     {
-      "country": "aut",
-      "clicks": 0,
-      "impressions": 3
+      "country": "hkg",
+      "clicks": 1,
+      "impressions": 71
     },
     {
-      "country": "aze",
-      "clicks": 0,
-      "impressions": 1
+      "country": "irl",
+      "clicks": 1,
+      "impressions": 30
+    },
+    {
+      "country": "kwt",
+      "clicks": 1,
+      "impressions": 28
     }
   ],
   "devices": [
     {
       "device": "MOBILE",
-      "clicks": 48,
-      "impressions": 2884
+      "clicks": 207,
+      "impressions": 18539
     },
     {
       "device": "DESKTOP",
-      "clicks": 12,
-      "impressions": 1528
+      "clicks": 84,
+      "impressions": 20840
     },
     {
       "device": "TABLET",
-      "clicks": 0,
-      "impressions": 127
+      "clicks": 1,
+      "impressions": 830
     }
   ]
 }

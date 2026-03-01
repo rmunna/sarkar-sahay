@@ -1,9 +1,36 @@
 {
-  "scannedAt": "2026-03-01T04:21:52.306Z",
+  "scannedAt": "2026-03-01T06:07:58.464Z",
   "govtTrends": [
     {
+      "title": "women's day",
+      "traffic": "200+",
+      "pubDate": "Sat, 28 Feb 2026 21:20:00 -0800",
+      "newsTitle": "International Women’s Day 2026: History, Significance, Theme And Global Celebrations",
+      "source": "google_trends",
+      "suggestedSlug": "womens-day",
+      "guideExists": false
+    },
+    {
+      "title": "hong kong vs kuwait",
+      "traffic": "5000+",
+      "pubDate": "Sat, 28 Feb 2026 21:00:00 -0800",
+      "newsTitle": "Hong Kong, China vs Kuwait, 3rd T20I, Kuwait tour of Hong Kong, China, 2026 - Commentary",
+      "source": "google_trends",
+      "suggestedSlug": "hong-kong-vs-kuwait",
+      "guideExists": false
+    },
+    {
+      "title": "lone'er kavanagh",
+      "traffic": "500+",
+      "pubDate": "Sat, 28 Feb 2026 20:10:00 -0800",
+      "newsTitle": "Main Card Results | UFC Mexico",
+      "source": "google_trends",
+      "suggestedSlug": "loneer-kavanagh",
+      "guideExists": false
+    },
+    {
       "title": "flavio cobolli",
-      "traffic": "1000+",
+      "traffic": "200+",
       "pubDate": "Sat, 28 Feb 2026 19:50:00 -0800",
       "newsTitle": "Cobolli beats Kecmanovic to set up Acapulco Open final against Frances Tiafoe",
       "source": "google_trends",

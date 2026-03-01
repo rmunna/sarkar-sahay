@@ -1,7 +1,6 @@
 ---
-title: "DigiLocker Aadhaar Verification Failed: How to Fix"
-description: >-
-  Troubleshooting guide for DigiLocker Aadhaar verification failures. Fix Aadhaar-based sign-up, KYC verification, and document fetch errors on DigiLocker.
+title: "DigiLocker Aadhaar Verification Failed? 6 Fixes That Actually Work"
+description: "DigiLocker showing Aadhaar verification failed? Fix sign-up errors, KYC failures, OTP issues, and document fetch problems with these proven solutions."
 category: "Utilities"
 keywords:
   - digilocker aadhaar verification failed

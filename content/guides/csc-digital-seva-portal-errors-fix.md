@@ -1,7 +1,6 @@
 ---
-title: "CSC Digital Seva Portal Errors: How to Fix"
-description: >-
-  Troubleshooting guide for CSC Digital Seva Portal errors including login failures, service errors, payment issues, and registration problems for Village Level Entrepreneurs.
+title: "CSC Digital Seva Portal Not Working? Fix Login, Payment & Service Errors"
+description: "CSC portal login failed or showing errors? Step-by-step fixes for Digital Seva login problems, payment failures, service request errors, and VLE registration issues."
 category: "Utilities"
 keywords:
   - csc digital seva portal error
