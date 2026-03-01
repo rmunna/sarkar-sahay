@@ -18,7 +18,7 @@ officialLinks:
 readingTime: "5 min"
 publishedDate: "2026-02-25"
 expiryDate: "2026-02-27"
-status: "active"
+status: "expired"
 vacancies: "TBA"
 relatedStages: []
 ---
