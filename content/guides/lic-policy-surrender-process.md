@@ -224,6 +224,14 @@ If your policy has lapsed:
 7. **Don't surrender in the first 5 years** — surrender value is extremely low in early years
 8. **Check bonus history** — accumulated bonuses add significantly to surrender value in later years
 
+
+## Related Guides
+
+- [LIC Policy Status Check Online — 5 Easy Methods](/guide/lic-policy-status-check-online)
+- [LIC Premium Payment Online — All Methods & Steps](/guide/lic-premium-payment-online)
+- [How to Open PPF Account Online](/guide/ppf-public-provident-fund-account)
+- [Kisan Vikas Patra (KVP) Guide](/guide/kisan-vikas-patra-kvp-guide)
+
 ## Frequently Asked Questions (FAQs)
 
 ### How long does it take to get money after surrendering LIC policy?

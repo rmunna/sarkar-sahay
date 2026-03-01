@@ -190,6 +190,14 @@ Follow these steps to estimate your monthly in-hand salary from your CTC:
 - **Understand your tax regime** — old regime allows deductions (HRA, 80C, etc.); new regime offers lower rates but fewer exemptions
 - **Request salary slip if not provided** — it is your legal right under labour laws
 
+
+## Related Guides
+
+- [HRA Exemption — How to Calculate HRA Tax Exemption](/guide/hra-exemption-calculation-guide)
+- [Rent Agreement Format — How to Make Rental Agreement Online](/guide/rent-agreement-format-make-online)
+- [EPF Passbook Download — Check EPF Balance Online](/guide/epf-passbook-balance-check-online)
+- [EPF Transfer Online — Transfer PF When Changing Jobs](/guide/epf-transfer-online-job-change)
+
 ## Frequently Asked Questions
 
 ### Is salary slip mandatory by law?

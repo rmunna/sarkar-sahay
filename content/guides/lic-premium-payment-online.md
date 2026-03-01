@@ -175,6 +175,15 @@ If you fail to pay the premium even within the grace period, your policy **lapse
 7. **Check tax benefits** — LIC premiums qualify for deduction under Section 80C up to ₹1.5 lakh per year. See our [income tax saving guide](/guides/income-tax-saving-tips-80c-investments)
 8. **Avoid third-party sites** — Always pay through official LIC channels or your bank to avoid fraud
 
+
+## Related Guides
+
+- [LIC Policy Status Check Online — 5 Easy Methods](/guide/lic-policy-status-check-online)
+- [LIC Policy Surrender — How to Surrender and Get Money Back](/guide/lic-policy-surrender-process)
+- [SBI Net Banking Registration & Login Guide](/guide/sbi-net-banking-registration-login)
+- [UPI Payment Setup Guide](/guide/upi-payment-setup-guide)
+- [How to Open PPF Account Online](/guide/ppf-public-provident-fund-account)
+
 ## Frequently Asked Questions (FAQs)
 
 ### Can I pay LIC premium online without registration?
@@ -204,12 +213,3 @@ If your payment fails but the amount is debited from your account, it is usually
 ### Can I pay LIC premium through NEFT or RTGS?
 
 LIC does not directly accept NEFT/RTGS for premium payments through its website. However, some banks may allow it through their bill payment systems. The recommended methods are Pay Direct, UPI, or net banking.
-
-## Related Guides
-
-- [Life Insurance Types — How to Buy Online](/guides/life-insurance-types-buy-online)
-- [Income Tax Saving Tips — Section 80C Investments](/guides/income-tax-saving-tips-80c-investments)
-- [How to File Income Tax Return Online](/guides/income-tax-return-file-online)
-- [Health Insurance — How to Buy and Claim](/guides/health-insurance-buy-claim-process)
-- [PPF Account — Complete Guide](/guides/ppf-public-provident-fund-account)
-- [PMJJBY & PMSBY Insurance Schemes](/guides/pmjjby-pmsby-insurance-schemes)

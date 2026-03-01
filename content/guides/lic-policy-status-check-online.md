@@ -136,13 +136,13 @@ There are **no charges** for checking your LIC policy status through any of the 
 - **Save your policy number** in a safe place; you need it for every status check
 - **Update your nominee details** periodically through the customer portal
 
+
 ## Related Guides
 
-- [LIC AAO Exam Guide](/guide/lic-aao-exam-guide) – Preparing for LIC Assistant Administrative Officer exam
-- [PAN Card Apply Online](/guide/pan-card-apply-online) – PAN is needed for LIC policies above ₹50,000 annual premium
-- [Income Tax e-Filing](/guide/income-tax-return-file-online) – Claim tax benefits under Section 80C for LIC premiums
-
----
+- [LIC Premium Payment Online — All Methods & Steps](/guide/lic-premium-payment-online)
+- [LIC Policy Surrender — How to Surrender and Get Money Back](/guide/lic-policy-surrender-process)
+- [How to Open PPF Account Online](/guide/ppf-public-provident-fund-account)
+- [National Savings Certificate (NSC) Guide](/guide/national-savings-certificate-nsc-guide)
 
 ## Frequently Asked Questions (FAQs)
 

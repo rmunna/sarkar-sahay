@@ -195,6 +195,14 @@ Explore more options in our [post office savings schemes guide](/guide/post-offi
 
 ---
 
+
+## Related Guides
+
+- [National Savings Certificate (NSC) Guide](/guide/national-savings-certificate-nsc-guide)
+- [How to Open PPF Account Online](/guide/ppf-public-provident-fund-account)
+- [EPF vs NPS — Which is Better for Retirement?](/guide/epf-vs-nps-retirement)
+- [LIC Policy Status Check Online](/guide/lic-policy-status-check-online)
+
 ## Frequently Asked Questions (FAQs)
 
 ### 1. What is the current KVP interest rate in 2026?

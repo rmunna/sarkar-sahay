@@ -126,6 +126,15 @@ Yes. Many salaried employees contribute to EPF (mandatory) and additionally inve
 5. **Choose annuity provider wisely** in NPS — compare rates before retirement as they affect your pension for life
 6. **Understand gratuity** — if you've worked 5+ years, you're eligible for gratuity on top of EPF/NPS. See our [complete gratuity calculation guide](/guide/gratuity-calculation-rules-india) for rules, formula, and tax treatment
 
+
+## Related Guides
+
+- [EPF Transfer Online — Transfer PF When Changing Jobs](/guide/epf-transfer-online-job-change)
+- [How to Withdraw EPF/PF Online](/guide/epf-pf-withdrawal-online)
+- [EPF Passbook Download — Check EPF Balance Online](/guide/epf-passbook-balance-check-online)
+- [How to Open PPF Account Online](/guide/ppf-public-provident-fund-account)
+- [National Savings Certificate (NSC) Guide](/guide/national-savings-certificate-nsc-guide)
+
 ## FAQs
 
 ### Is EPF compulsory for all employees?

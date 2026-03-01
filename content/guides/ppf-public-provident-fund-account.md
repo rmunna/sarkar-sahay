@@ -156,6 +156,15 @@ If extending with contributions, you must submit **Form H** within one year of m
 4. **Extend your account** after 15 years to keep earning tax-free interest
 5. **Do not miss the minimum ₹500 deposit** — your account becomes inactive and attracts a ₹50 penalty per year to revive
 
+
+## Related Guides
+
+- [Kisan Vikas Patra (KVP) Guide](/guide/kisan-vikas-patra-kvp-guide)
+- [National Savings Certificate (NSC) Guide](/guide/national-savings-certificate-nsc-guide)
+- [EPF vs NPS — Which is Better for Retirement?](/guide/epf-vs-nps-retirement)
+- [LIC Policy Status Check Online](/guide/lic-policy-status-check-online)
+- [SBI Net Banking Registration & Login Guide](/guide/sbi-net-banking-registration-login)
+
 ## Frequently Asked Questions (FAQ)
 
 ### 1. Can I open a PPF account online without visiting the bank?

@@ -149,6 +149,14 @@ Fuel prices in India have seen significant changes over the years:
 6. **Fill up early morning** — Fuel is denser in cooler temperatures, so you get slightly more fuel per litre
 7. **Track prices** — Use apps to monitor price trends and fill up when prices dip
 
+
+## Related Guides
+
+- [How to Get Vehicle Insurance Online](/guide/vehicle-insurance-online)
+- [How to Renew Bike & Car Insurance Online](/guide/vehicle-insurance-renewal-online)
+- [Two Wheeler Loan — How to Apply for Bike Loan Online](/guide/two-wheeler-bike-loan-apply-online)
+- [How to Transfer Vehicle RC Online](/guide/vehicle-rc-transfer-online)
+
 ## Frequently Asked Questions
 
 ### When do petrol and diesel prices change in India?

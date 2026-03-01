@@ -144,6 +144,14 @@ Contact your bank or UPI app support if:
 4. **Avoid peak hours** (month-end, salary days) for large transactions
 5. **Screenshot every failed transaction** — useful for raising complaints
 
+
+## Related Guides
+
+- [UPI Payment Setup Guide](/guide/upi-payment-setup-guide)
+- [NEFT vs RTGS vs IMPS vs UPI — Difference Explained](/guide/neft-rtgs-imps-upi-difference)
+- [Bank Balance Check Online — All Banks](/guide/bank-balance-check-online-all-banks)
+- [How to Block ATM Card — Lost Debit Card Block and Reissue](/guide/block-atm-debit-card-lost-reissue)
+
 ## FAQs
 
 ### Will I get my money back if UPI transaction fails but money is debited?

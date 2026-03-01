@@ -169,6 +169,14 @@ See our [tenant rights guide](/guide/tenant-rights-india) and [landlord rights g
 
 ---
 
+
+## Related Guides
+
+- [Rent Agreement Format — How to Make Rental Agreement Online](/guide/rent-agreement-format-make-online)
+- [HRA Exemption — How to Calculate HRA Tax Exemption](/guide/hra-exemption-calculation-guide)
+- [Salary Slip — How to Read and Understand Your Pay Slip](/guide/salary-slip-read-download-understand)
+- [SBI Net Banking Registration & Login Guide](/guide/sbi-net-banking-registration-login)
+
 ## Frequently Asked Questions
 
 ### Is rent agreement registration mandatory?

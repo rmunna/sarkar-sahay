@@ -216,6 +216,14 @@ Address:                    Address:
 9. **Use e-stamping where available** — Faster, tamper-proof, and verifiable online via the UIN
 10. **Renew on time** — Don't let agreements lapse; execute a fresh agreement or renewal deed before expiry
 
+
+## Related Guides
+
+- [Rent Agreement Registration — Process, Format & Stamp Duty](/guide/rent-agreement-registration)
+- [HRA Exemption — How to Calculate HRA Tax Exemption](/guide/hra-exemption-calculation-guide)
+- [Salary Slip — How to Read and Understand Your Pay Slip](/guide/salary-slip-read-download-understand)
+- [How to Open Bank Account Online in India](/guide/open-bank-account-online)
+
 ## Frequently Asked Questions (FAQs)
 
 ### Is a rent agreement valid without registration?

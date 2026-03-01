@@ -163,6 +163,15 @@ Self-employed individuals **cannot claim HRA exemption** under Section 10(13A) s
 
 Looking to save more tax? Check our guide on [income tax saving tips under Section 80C](/guide/income-tax-saving-tips-80c-investments) and [how to file your ITR online](/guide/income-tax-return-file-online).
 
+
+## Related Guides
+
+- [Rent Agreement Format — How to Make Rental Agreement Online](/guide/rent-agreement-format-make-online)
+- [Rent Agreement Registration — Process, Format & Stamp Duty](/guide/rent-agreement-registration)
+- [Salary Slip — How to Read and Understand Your Pay Slip](/guide/salary-slip-read-download-understand)
+- [EPF vs NPS — Which is Better for Retirement?](/guide/epf-vs-nps-retirement)
+- [How to Open PPF Account Online](/guide/ppf-public-provident-fund-account)
+
 ## Frequently Asked Questions
 
 ### Can I claim HRA if I live with my parents?

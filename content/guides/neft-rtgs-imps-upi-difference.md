@@ -154,6 +154,15 @@ Transferring money online in India? You've likely seen options like NEFT, RTGS, 
 - **Set transaction limits** on your mobile banking app for security — most banks allow you to customise daily limits.
 - **Keep your UPI PIN private** — never share it with anyone, including bank officials.
 
+
+## Related Guides
+
+- [IFSC Code Search — How to Find Bank IFSC Code Online](/guide/ifsc-code-search-find-online)
+- [UPI Payment Setup Guide](/guide/upi-payment-setup-guide)
+- [UPI Transaction Failed — All Error Codes & Fixes](/guide/upi-transaction-failed-fix)
+- [SBI Net Banking Registration & Login Guide](/guide/sbi-net-banking-registration-login)
+- [Bank Balance Check Online — All Banks](/guide/bank-balance-check-online-all-banks)
+
 ## Frequently Asked Questions
 
 ### 1. Which is faster — NEFT, RTGS, IMPS, or UPI?

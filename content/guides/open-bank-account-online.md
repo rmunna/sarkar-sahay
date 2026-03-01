@@ -265,6 +265,15 @@ The [PM Jan Dhan Yojana](/guide/pm-jan-dhan-yojana) (PMJDY) account can be opene
 - **Enable SMS and email alerts** — for transaction security
 - **Download the bank's official app** — for easy mobile banking
 
+
+## Related Guides
+
+- [SBI Net Banking Registration & Login Guide](/guide/sbi-net-banking-registration-login)
+- [Bank Balance Check Online — All Banks](/guide/bank-balance-check-online-all-banks)
+- [How to Get Bank Locker — Rules, Charges & RBI Guidelines](/guide/bank-locker-rules-charges-rbi)
+- [NEFT vs RTGS vs IMPS vs UPI — Difference Explained](/guide/neft-rtgs-imps-upi-difference)
+- [How to Open PPF Account Online](/guide/ppf-public-provident-fund-account)
+
 ## Frequently Asked Questions (FAQs)
 
 ### Can I open a bank account without going to the branch?
@@ -287,9 +296,3 @@ Yes. Banks like ICICI, HDFC, SBI, and Kotak allow NRIs to open NRE/NRO accounts 
 
 ### Is Video KYC safe?
 Yes, Video KYC is regulated by RBI and follows strict data protection guidelines. The video call is recorded and encrypted. It is as valid as in-person KYC verification.
-
-## Related Guides
-
-- [PM Jan Dhan Yojana — Complete Guide](/guide/pm-jan-dhan-yojana)
-- [DigiLocker — How to Use for Document Storage](/guide/digilocker-guide)
-- [UPI Payment Setup Guide](/guide/upi-payment-setup-guide) — Set up UPI on your new bank account and start making digital payments instantly

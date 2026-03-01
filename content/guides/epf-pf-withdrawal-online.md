@@ -231,6 +231,14 @@ You can also track via the **UMANG app** under EPFO services.
 
 ---
 
+
+## Related Guides
+
+- [EPF Transfer Online — Transfer PF When Changing Jobs](/guide/epf-transfer-online-job-change)
+- [EPF Passbook Download — Check EPF Balance Online](/guide/epf-passbook-balance-check-online)
+- [EPF vs NPS — Which is Better for Retirement?](/guide/epf-vs-nps-retirement)
+- [How to Open PPF Account Online](/guide/ppf-public-provident-fund-account)
+
 ## Frequently Asked Questions (FAQs)
 
 ### 1. Is PF withdrawal taxable?

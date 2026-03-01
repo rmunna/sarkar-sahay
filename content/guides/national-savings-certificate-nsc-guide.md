@@ -205,6 +205,14 @@ Choosing between NSC, [PPF](/guide/ppf-account-open-guide), and Bank FD? Here's 
 
 ---
 
+
+## Related Guides
+
+- [Kisan Vikas Patra (KVP) Guide](/guide/kisan-vikas-patra-kvp-guide)
+- [How to Open PPF Account Online](/guide/ppf-public-provident-fund-account)
+- [EPF vs NPS — Which is Better for Retirement?](/guide/epf-vs-nps-retirement)
+- [LIC Premium Payment Online](/guide/lic-premium-payment-online)
+
 ## Frequently Asked Questions (FAQs)
 
 ### 1. What is the current interest rate on NSC?

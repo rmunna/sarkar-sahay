@@ -225,10 +225,13 @@ If you want to stop using UPI on a particular app:
 
 Your bank account remains active — only the UPI link is removed.
 
+
 ## Related Guides
 
-- [How to Open a Bank Account Online](/guide/open-bank-account-online) — needed before you can set up UPI
-- [FASTag Recharge & Application Guide](/guide/fastag-recharge-buy-online) — pay FASTag recharges easily via UPI
+- [UPI Transaction Failed — All Error Codes & Fixes](/guide/upi-transaction-failed-fix)
+- [NEFT vs RTGS vs IMPS vs UPI — Difference Explained](/guide/neft-rtgs-imps-upi-difference)
+- [Bank Balance Check Online — All Banks](/guide/bank-balance-check-online-all-banks)
+- [SBI Net Banking Registration & Login Guide](/guide/sbi-net-banking-registration-login)
 
 ## FAQs
 

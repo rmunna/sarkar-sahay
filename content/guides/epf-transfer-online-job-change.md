@@ -211,6 +211,14 @@ For a detailed guide on checking your balance, see our [EPF passbook and balance
 
 ---
 
+
+## Related Guides
+
+- [How to Withdraw EPF/PF Online](/guide/epf-pf-withdrawal-online)
+- [EPF Passbook Download — Check EPF Balance Online](/guide/epf-passbook-balance-check-online)
+- [EPF vs NPS — Which is Better for Retirement?](/guide/epf-vs-nps-retirement)
+- [Salary Slip — How to Read and Understand Your Pay Slip](/guide/salary-slip-read-download-understand)
+
 ## Frequently Asked Questions (FAQs)
 
 ### Can I transfer EPF online without my previous employer's approval?

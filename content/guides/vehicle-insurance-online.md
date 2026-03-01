@@ -253,6 +253,14 @@ When you sell your vehicle, the insurance policy should be transferred to the ne
 6. **Install approved anti-theft devices** — some insurers offer a discount
 7. **Bundle long-term policies** if available for better rates
 
+
+## Related Guides
+
+- [How to Renew Bike & Car Insurance Online](/guide/vehicle-insurance-renewal-online)
+- [Two Wheeler Loan — How to Apply for Bike Loan Online](/guide/two-wheeler-bike-loan-apply-online)
+- [How to Transfer Vehicle RC Online](/guide/vehicle-rc-transfer-online)
+- [Petrol Diesel Price Check Today](/guide/petrol-diesel-price-check-today)
+
 ## Frequently Asked Questions
 
 ### Can I buy vehicle insurance without RC?
@@ -269,8 +277,3 @@ Yes, you can cancel and get a pro-rata refund for the unused period, minus any c
 
 ### How quickly is the policy issued online?
 Instantly. You receive the policy document on your email and can download it immediately after payment.
-
-## Related Guides
-
-- [How to Transfer Vehicle RC Online](/guide/vehicle-rc-transfer-online)
-- [How to Apply for Driving License Online](/guide/driving-license-apply-online)

@@ -1,16 +1,28 @@
 {
-  "scannedAt": "2026-03-01T11:37:57.644461",
+  "scannedAt": "2026-03-01T17:04:28.236959",
   "results": [
     {
       "topic": "icai result",
       "category": "Jobs",
-      "rising_value": 750,
+      "rising_value": 1600,
+      "guide_exists": null
+    },
+    {
+      "topic": "icai result jan 2026",
+      "category": "Jobs",
+      "rising_value": 1350,
+      "guide_exists": null
+    },
+    {
+      "topic": "ca final result",
+      "category": "Jobs",
+      "rising_value": 950,
       "guide_exists": null
     },
     {
       "topic": "madras university result",
       "category": "Jobs",
-      "rising_value": 750,
+      "rising_value": 650,
       "guide_exists": null
     },
     {
@@ -22,23 +34,11 @@
     {
       "topic": "sainik school result 2026",
       "category": "Jobs",
-      "rising_value": 600,
-      "guide_exists": null
-    },
-    {
-      "topic": "icai result jan 2026",
-      "category": "Jobs",
       "rising_value": 550,
       "guide_exists": null
     },
     {
-      "topic": "mstc portal",
-      "category": "Education",
-      "rising_value": 450,
-      "guide_exists": "mstc-portal-registration-login"
-    },
-    {
-      "topic": "osm cbse login",
+      "topic": "kvs nvs result",
       "category": "Jobs",
       "rising_value": 400,
       "guide_exists": null
@@ -46,29 +46,23 @@
     {
       "topic": "kvs nvs result 2026",
       "category": "Jobs",
+      "rising_value": 400,
+      "guide_exists": null
+    },
+    {
+      "topic": "osm cbse login",
+      "category": "Jobs",
       "rising_value": 350,
       "guide_exists": null
     },
     {
-      "topic": "kvs nvs result",
-      "category": "Jobs",
+      "topic": "mstc portal",
+      "category": "Education",
       "rising_value": 350,
-      "guide_exists": null
+      "guide_exists": "mstc-portal-registration-login"
     },
     {
       "topic": "cbse on screen marking",
-      "category": "Jobs",
-      "rising_value": 350,
-      "guide_exists": null
-    },
-    {
-      "topic": "kvs result",
-      "category": "Jobs",
-      "rising_value": 300,
-      "guide_exists": null
-    },
-    {
-      "topic": "kvs result 2026",
       "category": "Jobs",
       "rising_value": 300,
       "guide_exists": null
@@ -80,27 +74,21 @@
       "guide_exists": null
     },
     {
-      "topic": "rbi office attendant admit card 2026",
+      "topic": "upsc login",
       "category": "Jobs",
-      "rising_value": 130,
+      "rising_value": 90,
       "guide_exists": null
     },
     {
-      "topic": "kvs",
+      "topic": "rbi office attendant admit card 2026",
       "category": "Jobs",
-      "rising_value": 120,
+      "rising_value": 90,
       "guide_exists": null
     },
     {
       "topic": "upsc online",
       "category": "Jobs",
-      "rising_value": 110,
-      "guide_exists": null
-    },
-    {
-      "topic": "upsc login",
-      "category": "Jobs",
-      "rising_value": 100,
+      "rising_value": 90,
       "guide_exists": null
     },
     {
@@ -112,11 +100,17 @@
     {
       "topic": "tnpsc",
       "category": "Jobs",
-      "rising_value": 60,
+      "rising_value": 50,
       "guide_exists": null
     },
     {
-      "topic": "rojgar result",
+      "topic": "sarkari job marg",
+      "category": "Jobs",
+      "rising_value": 50,
+      "guide_exists": null
+    },
+    {
+      "topic": "itbp",
       "category": "Jobs",
       "rising_value": 50,
       "guide_exists": null
@@ -126,13 +120,25 @@
     {
       "topic": "icai result",
       "category": "Jobs",
-      "rising_value": 750,
+      "rising_value": 1600,
+      "guide_exists": null
+    },
+    {
+      "topic": "icai result jan 2026",
+      "category": "Jobs",
+      "rising_value": 1350,
+      "guide_exists": null
+    },
+    {
+      "topic": "ca final result",
+      "category": "Jobs",
+      "rising_value": 950,
       "guide_exists": null
     },
     {
       "topic": "madras university result",
       "category": "Jobs",
-      "rising_value": 750,
+      "rising_value": 650,
       "guide_exists": null
     },
     {
@@ -144,17 +150,11 @@
     {
       "topic": "sainik school result 2026",
       "category": "Jobs",
-      "rising_value": 600,
-      "guide_exists": null
-    },
-    {
-      "topic": "icai result jan 2026",
-      "category": "Jobs",
       "rising_value": 550,
       "guide_exists": null
     },
     {
-      "topic": "osm cbse login",
+      "topic": "kvs nvs result",
       "category": "Jobs",
       "rising_value": 400,
       "guide_exists": null
@@ -162,29 +162,17 @@
     {
       "topic": "kvs nvs result 2026",
       "category": "Jobs",
-      "rising_value": 350,
+      "rising_value": 400,
       "guide_exists": null
     },
     {
-      "topic": "kvs nvs result",
+      "topic": "osm cbse login",
       "category": "Jobs",
       "rising_value": 350,
       "guide_exists": null
     },
     {
       "topic": "cbse on screen marking",
-      "category": "Jobs",
-      "rising_value": 350,
-      "guide_exists": null
-    },
-    {
-      "topic": "kvs result",
-      "category": "Jobs",
-      "rising_value": 300,
-      "guide_exists": null
-    },
-    {
-      "topic": "kvs result 2026",
       "category": "Jobs",
       "rising_value": 300,
       "guide_exists": null
@@ -196,27 +184,21 @@
       "guide_exists": null
     },
     {
-      "topic": "rbi office attendant admit card 2026",
+      "topic": "upsc login",
       "category": "Jobs",
-      "rising_value": 130,
+      "rising_value": 90,
       "guide_exists": null
     },
     {
-      "topic": "kvs",
+      "topic": "rbi office attendant admit card 2026",
       "category": "Jobs",
-      "rising_value": 120,
+      "rising_value": 90,
       "guide_exists": null
     },
     {
       "topic": "upsc online",
       "category": "Jobs",
-      "rising_value": 110,
-      "guide_exists": null
-    },
-    {
-      "topic": "upsc login",
-      "category": "Jobs",
-      "rising_value": 100,
+      "rising_value": 90,
       "guide_exists": null
     },
     {
@@ -228,11 +210,17 @@
     {
       "topic": "tnpsc",
       "category": "Jobs",
-      "rising_value": 60,
+      "rising_value": 50,
       "guide_exists": null
     },
     {
-      "topic": "rojgar result",
+      "topic": "sarkari job marg",
+      "category": "Jobs",
+      "rising_value": 50,
+      "guide_exists": null
+    },
+    {
+      "topic": "itbp",
       "category": "Jobs",
       "rising_value": 50,
       "guide_exists": null
@@ -242,7 +230,7 @@
     {
       "topic": "mstc portal",
       "category": "Education",
-      "rising_value": 450,
+      "rising_value": 350,
       "guide_exists": "mstc-portal-registration-login"
     }
   ]

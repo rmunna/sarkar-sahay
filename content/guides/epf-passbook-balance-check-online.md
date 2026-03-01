@@ -167,11 +167,13 @@ Transfer usually takes **10-20 days** if both employers have approved KYC.
 - Ask HR to update the mobile number in the EPFO portal
 - Once updated, you can use SMS and missed call services
 
+
 ## Related Guides
 
-- [How to Withdraw EPF/PF Online](/guide/epf-pf-withdrawal-online) — Step-by-step PF withdrawal process
-- [How to File Income Tax Return Online](/guide/income-tax-return-file-online) — Your EPF interest may be taxable if balance is high
-- [NPS Account — National Pension System Guide](/guide/nps-national-pension-system-account) — Compare NPS with EPF for retirement planning
+- [EPF Transfer Online — Transfer PF When Changing Jobs](/guide/epf-transfer-online-job-change)
+- [How to Withdraw EPF/PF Online](/guide/epf-pf-withdrawal-online)
+- [EPF vs NPS — Which is Better for Retirement?](/guide/epf-vs-nps-retirement)
+- [SBI Net Banking Registration & Login Guide](/guide/sbi-net-banking-registration-login)
 
 ## Frequently Asked Questions
 

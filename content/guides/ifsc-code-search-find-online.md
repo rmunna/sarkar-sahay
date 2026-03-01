@@ -201,6 +201,15 @@ Planning to open a new account? Check out our guide on [How to Open a Bank Accou
 
 ---
 
+
+## Related Guides
+
+- [NEFT vs RTGS vs IMPS vs UPI — Difference Explained](/guide/neft-rtgs-imps-upi-difference)
+- [SBI Net Banking Registration & Login Guide](/guide/sbi-net-banking-registration-login)
+- [Bank Balance Check Online — All Banks](/guide/bank-balance-check-online-all-banks)
+- [How to Open Bank Account Online in India](/guide/open-bank-account-online)
+- [UPI Payment Setup Guide](/guide/upi-payment-setup-guide)
+
 ## Frequently Asked Questions (FAQs)
 
 ### Is IFSC code the same for all branches of a bank?
