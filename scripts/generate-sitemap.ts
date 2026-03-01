@@ -15,6 +15,18 @@ const STATE_SLUGS = [
   "jharkhand", "chhattisgarh", "odisha",
 ];
 
+// Calculator slugs (hardcoded routes in src/app/calculator/)
+const CALCULATOR_SLUGS = [
+  "age-eligibility", "atal-pension-yojana-eligibility", "ayushman-bharat-eligibility",
+  "car-loan", "education-cost", "emi", "epf", "fd", "gratuity", "gst",
+  "home-loan-eligibility", "hra-exemption", "income-tax", "interest",
+  "job-eligibility", "lumpsum", "mudra-loan-eligibility", "nps",
+  "pm-awas-yojana-eligibility", "pm-kisan-eligibility", "ppf", "rent-receipt",
+  "retirement", "salary", "senior-citizen-pension-eligibility", "sip",
+  "stamp-duty", "sukanya-samriddhi", "sukanya-samriddhi-eligibility",
+  "ujjwala-yojana-eligibility",
+];
+
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.citizennest.com";
 const GUIDES_DIR = path.join(__dirname, "..", "content", "guides");
 const GUIDES_HI_DIR = path.join(__dirname, "..", "content", "guides-hi");
@@ -97,6 +109,12 @@ function generateSitemap(): string {
       lastmod: today,
       changefreq: "weekly" as const,
       priority: "0.6",
+    })),
+    ...CALCULATOR_SLUGS.map((s) => ({
+      loc: `${BASE_URL}/calculator/${s}`,
+      lastmod: today,
+      changefreq: "monthly" as const,
+      priority: "0.7",
     })),
     ...guides.map((g) => ({
       loc: `${BASE_URL}/guide/${g.slug}`,
