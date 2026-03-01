@@ -25,7 +25,7 @@ const path = require('path');
 
 const TRACKER_PATH = path.join(__dirname, 'exam-monitor-tracker.json');
 
-function fetchPage(urlStr, timeoutMs = 12000) {
+function fetchPage(urlStr, timeoutMs = 8000) {
   return new Promise((resolve, reject) => {
     const parsed = new URL(urlStr);
     const client = parsed.protocol === 'https:' ? https : http;
@@ -258,12 +258,61 @@ async function checkHTML(siteId, name, url, tracker) {
 // Sites
 // ============================================================
 const HTML_SITES = [
+  // Banking & Finance
   { id: 'ibps', name: 'IBPS', url: 'https://www.ibps.in/' },
-  { id: 'rrb', name: 'RRB (Railway)', url: 'https://www.rrbcdg.gov.in/' },
   { id: 'sbi', name: 'SBI Careers', url: 'https://bank.sbi/web/careers/current-openings' },
-  { id: 'cbdt', name: 'Income Tax', url: 'https://incometaxindia.gov.in/Pages/press-releases.aspx' },
+  { id: 'rbi', name: 'RBI Careers', url: 'https://opportunities.rbi.org.in/' },
+  { id: 'nabard', name: 'NABARD', url: 'https://www.nabard.org/career-notices.aspx' },
+  { id: 'icai', name: 'ICAI (CA)', url: 'https://www.icai.org/' },
+
+  // Railways & Defence
+  { id: 'rrb', name: 'RRB (Railway)', url: 'https://www.rrbcdg.gov.in/' },
+  { id: 'indianarmy', name: 'Indian Army', url: 'https://joinindianarmy.nic.in/' },
+  { id: 'indiannavy', name: 'Indian Navy', url: 'https://www.joinindiannavy.gov.in/' },
+  { id: 'airforce', name: 'Air Force', url: 'https://afcat.cdac.in/AFCAT/' },
+
+  // Central Paramilitary / Police
+  { id: 'crpf', name: 'CRPF', url: 'https://crpf.gov.in/' },
+  { id: 'cisf', name: 'CISF', url: 'https://cisf.gov.in/recruitment' },
+  { id: 'bsf', name: 'BSF', url: 'https://rectt.bsf.gov.in/' },
+  { id: 'itbp', name: 'ITBP', url: 'https://recruitment.itbpolice.nic.in/' },
+
+  // Education Boards & Universities
+  { id: 'cbse', name: 'CBSE', url: 'https://www.cbse.gov.in/' },
+  { id: 'kvs', name: 'KVS', url: 'https://kvsangathan.nic.in/' },
+  { id: 'nvs', name: 'NVS (Navodaya)', url: 'https://navodaya.gov.in/' },
+  { id: 'ignou', name: 'IGNOU', url: 'https://ignou.ac.in/' },
+  { id: 'ugc', name: 'UGC NET', url: 'https://ugcnet.nta.ac.in/' },
+  { id: 'cuet', name: 'CUET', url: 'https://cuet.nta.nic.in/' },
+
+  // State PSCs
   { id: 'bpsc', name: 'BPSC', url: 'https://www.bpsc.bih.nic.in/' },
   { id: 'uppsc', name: 'UPPSC', url: 'https://uppsc.up.nic.in/' },
+  { id: 'mppsc', name: 'MPPSC', url: 'https://mppsc.mp.gov.in/' },
+  { id: 'rpsc', name: 'RPSC', url: 'https://rpsc.rajasthan.gov.in/' },
+  { id: 'tnpsc', name: 'TNPSC', url: 'https://www.tnpsc.gov.in/' },
+  { id: 'kpsc', name: 'KPSC', url: 'https://kpsc.kar.nic.in/' },
+  { id: 'appsc', name: 'APPSC', url: 'https://psc.ap.gov.in/' },
+  { id: 'tspsc', name: 'TSPSC', url: 'https://tspsc.gov.in/' },
+  { id: 'wbpsc', name: 'WBPSC', url: 'https://wbpsc.gov.in/' },
+  { id: 'gpsc', name: 'GPSC', url: 'https://gpsc.gujarat.gov.in/' },
+  { id: 'hpsc', name: 'HPSC', url: 'https://www.hpsc.gov.in/' },
+  { id: 'jpsc', name: 'JPSC', url: 'https://www.jpsc.gov.in/' },
+  { id: 'cgpsc', name: 'CGPSC', url: 'https://psc.cg.gov.in/' },
+  { id: 'ukpsc', name: 'UKPSC', url: 'https://ukpsc.net.in/' },
+
+  // Teaching & Others
+  { id: 'ctet', name: 'CTET', url: 'https://ctet.nic.in/' },
+  { id: 'dsssb', name: 'DSSSB', url: 'https://dsssb.delhi.gov.in/' },
+  { id: 'sainik', name: 'Sainik School', url: 'https://sainikschool.ncbc.nic.in/' },
+  { id: 'cbdt', name: 'Income Tax', url: 'https://incometaxindia.gov.in/Pages/press-releases.aspx' },
+
+  // State Boards (results)
+  { id: 'rbse', name: 'RBSE Rajasthan', url: 'https://rajeduboard.rajasthan.gov.in/' },
+  { id: 'msbte', name: 'MSBTE', url: 'https://www.msbte.org.in/' },
+  { id: 'up-board', name: 'UP Board', url: 'https://upmsp.edu.in/' },
+  { id: 'bihar-board', name: 'Bihar Board', url: 'https://biharboardonline.bihar.gov.in/' },
+  { id: 'mp-board', name: 'MP Board', url: 'https://mpbse.nic.in/' },
 ];
 
 // ============================================================
