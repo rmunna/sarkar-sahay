@@ -1,0 +1,52 @@
+{
+  "scanTime": "2026-03-01T02:35:33.452Z",
+  "pagesChecked": 14,
+  "changesDetected": 2,
+  "errors": 4,
+  "changes": [
+    {
+      "siteId": "rbi",
+      "siteName": "RBI",
+      "page": "Notifications",
+      "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+      "previousHash": "84f5d6d225391d2a822b5b933cc9f962",
+      "newHash": "379123dc2a6cd4ef82bdd286346b0e3e",
+      "lastChanged": "2026-03-01T02:33:21.772Z",
+      "detectedAt": "2026-03-01T02:34:42.847Z",
+      "newContentSnippet": "September October November December September October November December September October November December September October November December September October November December September October November December September October November December September October November December September October November December September October November December Archives September October November December September October November December September"
+    },
+    {
+      "siteId": "uppsc",
+      "siteName": "UPPSC (UP PSC)",
+      "page": "Homepage",
+      "url": "https://uppsc.up.nic.in/",
+      "previousHash": "8866df37713abeb59d7f9390cc1a92f9",
+      "newHash": "b962349a45d30ca0df79a1d0d4836d81",
+      "lastChanged": "2026-03-01T02:34:12.390Z",
+      "detectedAt": "2026-03-01T02:35:32.950Z",
+      "newContentSnippet": "GOVERNMENT प्रदेश Pradesh {{'Setting_HM' translate English हिन्दी {{'Normal_HM' translate {{'HIGHCONT_HM' translate {{'RESET_HM' translate {{'INFS_HM' translate {{'FONT_HM' translate {{'IN_HM' translate {{'DNFS_HM' translate {{'FONT_HM' translate {{'DE_HM' translate &times; {{'Heading1_HM' translate {{'Heading2_HM' translate {{'Heading2_HM' translate {{'AboutUs_HM' translate {{'TheCommission_HM' translate {{'ConstitutionalProvisions_HM' translate {{'SetupofCommission_HM' translate {{'Organisatio"
+    }
+  ],
+  "errorDetails": [
+    {
+      "site": "NTA (National Testing Agency)",
+      "url": "https://nta.ac.in/notice",
+      "error": "HTTP 404"
+    },
+    {
+      "site": "RRB (Railway Recruitment)",
+      "url": "https://www.rrbcdg.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "CBDT / Income Tax",
+      "url": "https://incometaxindia.gov.in/Pages/press-releases.aspx",
+      "error": "HTTP 503"
+    },
+    {
+      "site": "BPSC (Bihar PSC)",
+      "url": "https://www.bpsc.bih.nic.in/",
+      "error": "Timeout"
+    }
+  ]
+}
