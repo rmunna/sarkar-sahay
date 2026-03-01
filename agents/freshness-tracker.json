@@ -19,7 +19,13 @@
     "brokenLinks": [
       "https://appointments.uidai.gov.in (This operation was aborted)"
     ],
-    "totalLinks": 2
+    "totalLinks": 2,
+    "lastFreshnessCheck": "2026-03-01",
+    "freshnessStatus": "stale",
+    "freshnessIssues": [
+      "Aadhaar update fees changed from Oct 1 2025: demographic update ₹50 → ₹75, biometric update ₹100 → ₹125 (guide still shows old fees)",
+      "Free biometric update for ages 7-15 extended till 30 Sep 2026 — should mention this"
+    ]
   },
   "aadhaar-common-problems-solutions": {
     "lastChecked": "2026-02-17",
@@ -267,5 +273,54 @@
     "linkStatus": "ok",
     "brokenLinks": [],
     "totalLinks": 1
+  },
+  "shakti-free-bus-karnataka": {
+    "lastFreshnessCheck": "2026-03-01",
+    "freshnessStatus": "ok",
+    "freshnessIssues": []
+  },
+  "kpsc-fda-sda-exam-guide": {
+    "lastFreshnessCheck": "2026-03-01",
+    "freshnessStatus": "needs-review",
+    "freshnessIssues": [
+      "Title says 2025 — no 2026 notification released yet, update year references or make title evergreen",
+      "Title meta says salary ₹27K-52K but body shows FDA ₹48K-58K in-hand and SDA ₹36K-45K — title should match body",
+      "Application period (8 Oct - 14 Nov 2025) has passed — add note about next expected notification"
+    ]
+  },
+  "ration-card-surrender-cancel": {
+    "lastFreshnessCheck": "2026-03-01",
+    "freshnessStatus": "ok",
+    "freshnessIssues": []
+  },
+  "irctc-account-login-problems-fix": {
+    "lastFreshnessCheck": "2026-03-01",
+    "freshnessStatus": "ok",
+    "freshnessIssues": []
+  },
+  "voter-id-download-not-working-fix": {
+    "lastFreshnessCheck": "2026-03-01",
+    "freshnessStatus": "ok",
+    "freshnessIssues": []
+  },
+  "tatkal-passport-apply-fees-process": {
+    "lastFreshnessCheck": "2026-03-01",
+    "freshnessStatus": "ok",
+    "freshnessIssues": []
+  },
+  "chhattisgarh-mahtari-vandana-yojana": {
+    "lastFreshnessCheck": "2026-03-01",
+    "freshnessStatus": "ok",
+    "freshnessIssues": []
+  },
+  "pan-card-apply-online": {
+    "lastFreshnessCheck": "2026-03-01",
+    "freshnessStatus": "ok",
+    "freshnessIssues": []
+  },
+  "passport-apply-online": {
+    "lastFreshnessCheck": "2026-03-01",
+    "freshnessStatus": "ok",
+    "freshnessIssues": []
   }
 }
