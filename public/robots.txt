@@ -5,3 +5,6 @@ Disallow: /api/
 
 Sitemap: https://www.citizennest.com/sitemap.xml
 Sitemap: https://www.citizennest.com/stories-sitemap.xml
+
+# RSS Feed
+# https://www.citizennest.com/feed.xml
