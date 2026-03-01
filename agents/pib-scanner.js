@@ -17,7 +17,14 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 
-// PIB RSS feed (returns Hindi)
+// RSS feeds — event-driven, zero cost
+const RSS_FEEDS = [
+  { id: 'pib', name: 'PIB Press Releases', url: 'https://pib.gov.in/RssMain.aspx?ModId=6&Lang=2&Regid=3', lang: 'hi' },
+  { id: 'rbi-press', name: 'RBI Press Releases', url: 'https://rbi.org.in/pressreleases_rss.xml', lang: 'en' },
+  { id: 'rbi-notifications', name: 'RBI Notifications', url: 'https://rbi.org.in/notifications_rss.xml', lang: 'en' },
+];
+
+// Legacy single URL (kept for backward compat)
 const PIB_RSS_URL = 'https://pib.gov.in/RssMain.aspx?ModId=6&Lang=2&Regid=3';
 
 // Hindi + English keywords for citizen-relevant content
@@ -123,17 +130,19 @@ async function main() {
     tracker = { lastScan: null, seenLinks: [] };
   }
 
-  console.log('🔍 Scanning PIB RSS feed...');
+  console.log('🔍 Scanning all RSS feeds...\n');
   
   let allItems = [];
   
-  try {
-    const xml = await fetch(PIB_RSS_URL);
-    const items = parseRSS(xml);
-    allItems = items;
-    console.log(`📰 PIB feed: ${items.length} items`);
-  } catch (e) {
-    console.error(`❌ Feed error: ${e.message}`);
+  for (const feed of RSS_FEEDS) {
+    try {
+      const xml = await fetch(feed.url);
+      const items = parseRSS(xml).map(item => ({ ...item, source: feed.id, sourceName: feed.name, lang: feed.lang }));
+      allItems.push(...items);
+      console.log(`📰 ${feed.name}: ${items.length} items`);
+    } catch (e) {
+      console.error(`❌ ${feed.name}: ${e.message}`);
+    }
   }
 
   // Filter new items
