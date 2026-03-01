@@ -25,7 +25,7 @@ const path = require('path');
 
 const TRACKER_PATH = path.join(__dirname, 'exam-monitor-tracker.json');
 
-function fetchPage(urlStr, timeoutMs = 8000) {
+function fetchPage(urlStr, timeoutMs = 5000) {
   return new Promise((resolve, reject) => {
     const parsed = new URL(urlStr);
     const client = parsed.protocol === 'https:' ? https : http;
@@ -151,7 +151,7 @@ async function checkNTA(tracker) {
       console.log(`✅ NTA: ${currentIds.length} notices, no new`);
     }
 
-    tracker.sites[key] = { lastChecked: new Date().toISOString(), noticeIds: currentIds.slice(0, 30) };
+    tracker.sites[key] = { lastChecked: new Date().toISOString(), noticeIds: currentIds };
   } catch (e) {
     console.log(`❌ NTA: ${e.message}`);
     return { changes, errors: [{ site: 'NTA', error: e.message }] };
@@ -341,11 +341,16 @@ async function main() {
   allChanges.push(...upsc.changes); allErrors.push(...upsc.errors);
   await delay(300);
 
-  // HTML sites
-  for (const site of HTML_SITES) {
-    const result = await checkHTML(site.id, site.name, site.url, tracker);
-    allChanges.push(...result.changes); allErrors.push(...result.errors);
-    await delay(300);
+  // HTML sites — run in parallel batches of 8
+  for (let i = 0; i < HTML_SITES.length; i += 8) {
+    const batch = HTML_SITES.slice(i, i + 8);
+    const results = await Promise.all(
+      batch.map(site => checkHTML(site.id, site.name, site.url, tracker))
+    );
+    for (const result of results) {
+      allChanges.push(...result.changes); allErrors.push(...result.errors);
+    }
+    if (i + 8 < HTML_SITES.length) await delay(200);
   }
 
   const elapsed = ((Date.now() - start) / 1000).toFixed(1);
