@@ -2,8 +2,8 @@
 title: "Startup India Registration – How to Register, Benefits & DPIIT Recognition"
 description: "Step-by-step guide to Startup India registration on DPIIT portal – eligibility, documents required, tax benefits, and funding support for startups."
 category: "Government Schemes"
-keywords: ["startup india registration", "dpiit recognition", "startup india scheme", "startup registration online", "startup india benefits", "startup india tax exemption"]
-lastUpdated: "2025-02-17"
+keywords: ["startup india registration", "dpiit recognition", "startup india scheme", "startup registration online", "startup india benefits", "startup india tax exemption", "fund of funds 2.0", "startup india fund of funds 2.0", "startup funding 2026"]
+lastUpdated: "2026-03-01"
 readingTime: "10 min"
 officialLinks:
   - "https://www.startupindia.gov.in"
@@ -113,6 +113,27 @@ The government has set up a **₹10,000 crore Fund of Funds for Startups (FFS)**
 - Over 130 AIFs empaneled as of 2024
 - Startups with DPIIT recognition are eligible
 - Apply through your chosen AIF or investor network
+
+## Fund of Funds 2.0 (Budget 2026)
+
+In the **Union Budget 2026**, the government announced **Fund of Funds 2.0** with an additional **₹10,000 crore** allocation to further strengthen startup funding in India. This is over and above the original ₹10,000 crore Fund of Funds scheme managed by SIDBI.
+
+### What's New in Fund of Funds 2.0?
+
+- **₹10,000 crore additional corpus** — taking total Fund of Funds commitment to ₹20,000 crore
+- **Focus on early-stage startups** — greater emphasis on seed and pre-Series A funding gaps
+- **AI and deep tech priority** — dedicated allocation for startups working in artificial intelligence, machine learning, semiconductors, quantum computing, and other deep tech domains
+- **Faster deployment** — streamlined processes to ensure funds reach startups quicker through empaneled AIFs
+- Startups with **DPIIT recognition** continue to be eligible through SEBI-registered AIFs
+
+### How to Access Fund of Funds 2.0
+
+The process remains the same as the original Fund of Funds — the government invests through SEBI-registered Alternative Investment Funds (AIFs), not directly into startups. To benefit:
+
+1. Get **DPIIT recognition** through the Startup India portal
+2. Connect with **empaneled AIFs** and venture capital funds that receive Fund of Funds backing
+3. Pitch your startup and go through the AIF's standard investment evaluation
+4. Startups in **AI, deep tech, and innovation-driven sectors** may find more funding options under the 2.0 allocation
 
 ## Startup India Seed Fund Scheme (SISFS)
 
