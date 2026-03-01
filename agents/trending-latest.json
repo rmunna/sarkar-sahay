@@ -1,22 +1,31 @@
 {
-  "scannedAt": "2026-02-28T01:30:14.784Z",
+  "scannedAt": "2026-03-01T01:32:28.804Z",
   "govtTrends": [
     {
-      "title": "eci voter list",
+      "title": "warriors vs lakers",
       "traffic": "200+",
-      "pubDate": "Fri, 27 Feb 2026 14:30:00 -0800",
-      "newsTitle": "SC raps Bengal for rushing to court daily against SIR",
+      "pubDate": "Sat, 28 Feb 2026 17:20:00 -0800",
+      "newsTitle": "Los Angeles Lakers vs Golden State Warriors injury report: Prediction odds, best prop bets, moneyline, sp",
       "source": "google_trends",
-      "suggestedSlug": "eci-voter-list",
+      "suggestedSlug": "warriors-vs-lakers",
       "guideExists": false
     },
     {
-      "title": "k",
+      "title": "dainik jagran",
       "traffic": "200+",
-      "pubDate": "Fri, 27 Feb 2026 13:00:00 -0800",
-      "newsTitle": "Bill passes to reinstate suspensions of pre-K-2 Nebraska students for violent behavior",
+      "pubDate": "Sat, 28 Feb 2026 17:10:00 -0800",
+      "newsTitle": "The 4 pm energy crash: What it says about your metabolism and how to improve it",
       "source": "google_trends",
-      "suggestedSlug": "k",
+      "suggestedSlug": "dainik-jagran",
+      "guideExists": false
+    },
+    {
+      "title": "india national cricket team vs west indies cricket team players",
+      "traffic": "2000+",
+      "pubDate": "Sat, 28 Feb 2026 16:30:00 -0800",
+      "newsTitle": "Can West Indies make up for bowling gulf in virtual quarter-final against India?",
+      "source": "google_trends",
+      "suggestedSlug": "india-national-cricket-team-vs-west-indies-cricket-team-play",
       "guideExists": false
     }
   ],
