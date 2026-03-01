@@ -209,7 +209,7 @@ There is **no universal SMS code** for income certificate status. Updates are se
 2. **Keep your application number safe** — essential for status checking
 3. **Declare accurate income** — misrepresentation can lead to rejection or legal issues
 4. **Renew before expiry** — most income certificates are valid for only 1 year
-5. **Keep supporting documents ready** — salary slips, [ITR](/guide/itr-filing-online-guide), bank statements may be needed for verification
+5. **Keep supporting documents ready** — salary slips, [ITR](/guide/income-tax-return-file-online), bank statements may be needed for verification
 
 ## FAQs
 

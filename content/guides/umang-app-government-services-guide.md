@@ -88,7 +88,7 @@ Check your PM-KISAN instalment status:
 3. Enter your **Aadhaar number**, **mobile number**, or **account number**
 4. View instalment-wise payment history
 
-See our [PM-KISAN status check guide](/guide/pm-kisan-status-check) for detailed instructions.
+See our [PM-KISAN status check guide](/guide/pm-kisan-status-check-beneficiary-list) for detailed instructions.
 
 ### 5. Aadhaar Services
 

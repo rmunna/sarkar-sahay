@@ -201,5 +201,5 @@ An unregistered gift deed for immovable property is **void and has no legal effe
 
 **Related Guides:**
 - [Property Registration Online — Complete Guide](/guide/property-registration-online)
-- [Stamp Duty Calculator & Rates](/guide/stamp-duty-registration-charges-india)
+- [Stamp Duty Calculator & Rates](/guide/stamp-duty-charges-all-states-india)
 - [Encumbrance Certificate Online](/guide/encumbrance-certificate-online)

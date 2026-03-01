@@ -179,4 +179,4 @@ You are still legally required to deduct TDS — at the higher rate of **20%** i
 
 **Related Guides:**
 - [Property Registration Online — Complete Guide](/guide/property-registration-online)
-- [Capital Gains Tax on Property — Complete Guide](/guide/capital-gains-tax-property-india)
+- [Capital Gains Tax on Property — Complete Guide](/guide/capital-gains-tax-india)

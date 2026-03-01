@@ -140,7 +140,7 @@ There are **no charges** for checking your LIC policy status through any of the 
 
 - [LIC AAO Exam Guide](/guide/lic-aao-exam-guide) – Preparing for LIC Assistant Administrative Officer exam
 - [PAN Card Apply Online](/guide/pan-card-apply-online) – PAN is needed for LIC policies above ₹50,000 annual premium
-- [Income Tax e-Filing](/guide/income-tax-efiling-guide) – Claim tax benefits under Section 80C for LIC premiums
+- [Income Tax e-Filing](/guide/income-tax-return-file-online) – Claim tax benefits under Section 80C for LIC premiums
 
 ---
 

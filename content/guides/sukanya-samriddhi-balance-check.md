@@ -77,7 +77,7 @@ SSY does not have an online maturity calculator on the official portal, but you 
 - **Partial withdrawal:** Up to 50% of balance allowed after the girl turns 18 (for higher education)
 - The maturity amount depends on your yearly deposits and the prevailing interest rate
 
-Use our [Sukanya Samriddhi Yojana guide](/guide/sukanya-samriddhi-yojana-guide) for detailed calculations and examples.
+Use our [Sukanya Samriddhi Yojana guide](/guide/sukanya-samriddhi-yojana-account-guide) for detailed calculations and examples.
 
 ## SMS / Missed Call Balance Check
 

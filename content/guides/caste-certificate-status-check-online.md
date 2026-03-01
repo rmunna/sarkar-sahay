@@ -17,7 +17,7 @@ officialLinks:
 
 A caste certificate is an official document issued by state governments that confirms a person's caste category — SC (Scheduled Caste), ST (Scheduled Tribe), OBC (Other Backward Classes), or other notified categories. After applying for a caste certificate through your state's e-District or service portal, you can track the application status online.
 
-Caste certificates are required for government job reservations, educational admissions, scholarships, and various [government schemes](/guide/pm-kisan-samman-nidhi-yojana). This guide covers the status check process for major Indian states.
+Caste certificates are required for government job reservations, educational admissions, scholarships, and various [government schemes](/guide/pm-kisan-samman-nidhi). This guide covers the status check process for major Indian states.
 
 > **Karnataka residents:** See our detailed guide on [how to apply for a caste certificate in Karnataka](/guide/karnataka-caste-certificate-online-apply).
 
