@@ -1,263 +1,248 @@
 {
-  "scannedAt": "2026-03-01T07:02:36.375867",
+  "scannedAt": "2026-03-01T09:51:51.421407",
   "results": [
     {
-      "topic": "sarkari naukri",
-      "interest_7d": 9611,
-      "recent_avg": 40,
-      "earlier_avg": 70,
-      "trend": "falling",
-      "guide_exists": "sarkari-naukri-government-jobs"
-    },
-    {
-      "topic": "banglar yuva sathi",
-      "interest_7d": 8132,
-      "recent_avg": 0,
-      "earlier_avg": 58,
-      "trend": "falling",
-      "guide_exists": "banglar-yuva-sathi-scheme-west-bengal"
-    },
-    {
-      "topic": "ration card status",
-      "interest_7d": 7231,
-      "recent_avg": 21,
-      "earlier_avg": 31,
-      "trend": "falling",
-      "guide_exists": "ration-card-status-check-download"
-    },
-    {
-      "topic": "admit card download",
-      "interest_7d": 7192,
-      "recent_avg": 31,
-      "earlier_avg": 59,
-      "trend": "falling",
-      "guide_exists": "ayushman-bharat-card-download-online"
-    },
-    {
-      "topic": "pm kisan status",
-      "interest_7d": 6912,
-      "recent_avg": 54,
-      "earlier_avg": 49,
-      "trend": "stable",
-      "guide_exists": "pm-kisan-status-check-beneficiary-list"
-    },
-    {
-      "topic": "ration card apply",
-      "interest_7d": 6469,
-      "recent_avg": 0,
-      "earlier_avg": 35,
-      "trend": "falling",
-      "guide_exists": "ration-card-status-check-download"
-    },
-    {
-      "topic": "income tax filing",
-      "interest_7d": 6302,
-      "recent_avg": 0,
-      "earlier_avg": 16,
-      "trend": "falling",
-      "guide_exists": "income-tax-refund-not-received-fix"
-    },
-    {
-      "topic": "aadhaar card download",
-      "interest_7d": 5955,
-      "recent_avg": 0,
-      "earlier_avg": 26,
-      "trend": "falling",
-      "guide_exists": "baal-aadhaar-child-aadhaar-card"
-    },
-    {
-      "topic": "fastag recharge",
-      "interest_7d": 5119,
-      "recent_avg": 48,
-      "earlier_avg": 62,
-      "trend": "stable",
-      "guide_exists": "fastag-recharge-buy-online"
-    },
-    {
-      "topic": "upsc result",
-      "interest_7d": 3955,
-      "recent_avg": 8,
-      "earlier_avg": 17,
-      "trend": "falling",
+      "topic": "madras university result",
+      "category": "Jobs",
+      "rising_value": 700,
       "guide_exists": null
     },
     {
-      "topic": "electricity bill online",
-      "interest_7d": 3715,
-      "recent_avg": 0,
-      "earlier_avg": 6,
-      "trend": "falling",
-      "guide_exists": "electricity-bill-payment-online"
-    },
-    {
-      "topic": "pan card apply online",
-      "interest_7d": 3366,
-      "recent_avg": 0,
-      "earlier_avg": 16,
-      "trend": "falling",
-      "guide_exists": "obc-ews-certificate-apply-online"
-    },
-    {
-      "topic": "voter id apply",
-      "interest_7d": 2701,
-      "recent_avg": 0,
-      "earlier_avg": 7,
-      "trend": "falling",
-      "guide_exists": "voter-id-card-apply-online"
-    },
-    {
-      "topic": "neet result",
-      "interest_7d": 2335,
-      "recent_avg": 6,
-      "earlier_avg": 8,
-      "trend": "stable",
+      "topic": "up deled result",
+      "category": "Education",
+      "rising_value": 650,
       "guide_exists": null
     },
     {
-      "topic": "credit score check",
-      "interest_7d": 2192,
-      "recent_avg": 0,
-      "earlier_avg": 16,
-      "trend": "falling",
-      "guide_exists": "cibil-score-check-improve"
+      "topic": "mstc portal",
+      "category": "Education",
+      "rising_value": 550,
+      "guide_exists": null
     },
     {
-      "topic": "pm awas yojana list",
-      "interest_7d": 2185,
-      "recent_avg": 5,
-      "earlier_avg": 25,
-      "trend": "falling",
-      "guide_exists": "pm-awas-yojana-gramin-urban"
+      "topic": "sainik school result 2026",
+      "category": "Jobs",
+      "rising_value": 500,
+      "guide_exists": null
     },
     {
-      "topic": "mahtari vandana",
-      "interest_7d": 2137,
-      "recent_avg": 49,
-      "earlier_avg": 8,
-      "trend": "rising",
-      "guide_exists": "chhattisgarh-mahtari-vandana-yojana"
+      "topic": "madras university result 2026",
+      "category": "Jobs",
+      "rising_value": 450,
+      "guide_exists": null
     },
     {
-      "topic": "gas booking online",
-      "interest_7d": 2045,
-      "recent_avg": 0,
-      "earlier_avg": 14,
-      "trend": "falling",
-      "guide_exists": "lpg-gas-connection-apply-online"
+      "topic": "osm cbse login",
+      "category": "Jobs",
+      "rising_value": 400,
+      "guide_exists": null
     },
     {
-      "topic": "ayushman bharat card",
-      "interest_7d": 1928,
-      "recent_avg": 0,
-      "earlier_avg": 2,
-      "trend": "falling",
-      "guide_exists": "ayushman-bharat-vs-state-health-schemes"
+      "topic": "kvs nvs result 2026",
+      "category": "Jobs",
+      "rising_value": 350,
+      "guide_exists": null
     },
     {
-      "topic": "driving licence apply",
-      "interest_7d": 1772,
-      "recent_avg": 0,
-      "earlier_avg": 10,
-      "trend": "falling",
-      "guide_exists": "duplicate-driving-licence-online"
+      "topic": "kvs nvs result",
+      "category": "Jobs",
+      "rising_value": 350,
+      "guide_exists": null
     },
     {
-      "topic": "personal loan apply",
-      "interest_7d": 1688,
-      "recent_avg": 0,
-      "earlier_avg": 0,
-      "trend": "stable",
-      "guide_exists": "two-wheeler-bike-loan-apply-online"
+      "topic": "cbse on screen marking",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": null
     },
     {
-      "topic": "epf withdrawal",
-      "interest_7d": 1616,
-      "recent_avg": 0,
-      "earlier_avg": 4,
-      "trend": "falling",
-      "guide_exists": "epf-pf-withdrawal-online"
+      "topic": "voter id verification",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": null
     },
     {
-      "topic": "water bill online",
-      "interest_7d": 1441,
-      "recent_avg": 0,
-      "earlier_avg": 0,
-      "trend": "stable",
-      "guide_exists": "electricity-bill-payment-online"
+      "topic": "kvs result 2026",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": null
     },
     {
-      "topic": "passport apply online",
-      "interest_7d": 1381,
-      "recent_avg": 0,
-      "earlier_avg": 2,
-      "trend": "falling",
-      "guide_exists": "passport-address-change-online"
+      "topic": "kvs result",
+      "category": "Jobs",
+      "rising_value": 250,
+      "guide_exists": null
     },
     {
-      "topic": "ssc cgl result",
-      "interest_7d": 776,
-      "recent_avg": 0,
-      "earlier_avg": 3,
-      "trend": "falling",
-      "guide_exists": "ssc-cgl-vs-ssc-chsl-comparison"
+      "topic": "sarkari stop",
+      "category": "Jobs",
+      "rising_value": 200,
+      "guide_exists": null
     },
     {
-      "topic": "gst return filing",
-      "interest_7d": 356,
-      "recent_avg": 0,
-      "earlier_avg": 0,
-      "trend": "stable",
-      "guide_exists": "gst-return-filing-guide"
+      "topic": "rbi office attendant admit card 2026",
+      "category": "Jobs",
+      "rising_value": 150,
+      "guide_exists": null
     },
     {
-      "topic": "shakti card karnataka",
-      "interest_7d": 80,
-      "recent_avg": 0,
-      "earlier_avg": 0,
-      "trend": "stable",
-      "guide_exists": "shakti-free-bus-karnataka"
+      "topic": "kvs",
+      "category": "Jobs",
+      "rising_value": 110,
+      "guide_exists": null
     },
     {
-      "topic": "pm rahat scheme",
-      "interest_7d": 55,
-      "recent_avg": 0,
-      "earlier_avg": 0,
-      "trend": "stable",
-      "guide_exists": "pm-rahat-scheme-road-accident-cashless-treatment"
+      "topic": "upsc online",
+      "category": "Jobs",
+      "rising_value": 110,
+      "guide_exists": null
     },
     {
-      "topic": "ladli behna status",
-      "interest_7d": 13,
-      "recent_avg": 0,
-      "earlier_avg": 0,
-      "trend": "stable",
-      "guide_exists": "madhya-pradesh-ladli-behna"
+      "topic": "upsc login",
+      "category": "Jobs",
+      "rising_value": 100,
+      "guide_exists": null
     },
     {
-      "topic": "gruha lakshmi karnataka",
-      "interest_7d": 10,
-      "recent_avg": 0,
-      "earlier_avg": 0,
-      "trend": "stable",
-      "guide_exists": "gruha-lakshmi-karnataka"
+      "topic": "msbte",
+      "category": "Jobs",
+      "rising_value": 90,
+      "guide_exists": null
+    },
+    {
+      "topic": "tnpsc",
+      "category": "Jobs",
+      "rising_value": 60,
+      "guide_exists": null
+    },
+    {
+      "topic": "itbp",
+      "category": "Jobs",
+      "rising_value": 60,
+      "guide_exists": null
     }
   ],
   "opportunities": [
     {
-      "topic": "upsc result",
-      "interest_7d": 3955,
-      "recent_avg": 8,
-      "earlier_avg": 17,
-      "trend": "falling",
+      "topic": "madras university result",
+      "category": "Jobs",
+      "rising_value": 700,
       "guide_exists": null
     },
     {
-      "topic": "neet result",
-      "interest_7d": 2335,
-      "recent_avg": 6,
-      "earlier_avg": 8,
-      "trend": "stable",
+      "topic": "up deled result",
+      "category": "Education",
+      "rising_value": 650,
+      "guide_exists": null
+    },
+    {
+      "topic": "mstc portal",
+      "category": "Education",
+      "rising_value": 550,
+      "guide_exists": null
+    },
+    {
+      "topic": "sainik school result 2026",
+      "category": "Jobs",
+      "rising_value": 500,
+      "guide_exists": null
+    },
+    {
+      "topic": "madras university result 2026",
+      "category": "Jobs",
+      "rising_value": 450,
+      "guide_exists": null
+    },
+    {
+      "topic": "osm cbse login",
+      "category": "Jobs",
+      "rising_value": 400,
+      "guide_exists": null
+    },
+    {
+      "topic": "kvs nvs result 2026",
+      "category": "Jobs",
+      "rising_value": 350,
+      "guide_exists": null
+    },
+    {
+      "topic": "kvs nvs result",
+      "category": "Jobs",
+      "rising_value": 350,
+      "guide_exists": null
+    },
+    {
+      "topic": "cbse on screen marking",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": null
+    },
+    {
+      "topic": "voter id verification",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": null
+    },
+    {
+      "topic": "kvs result 2026",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": null
+    },
+    {
+      "topic": "kvs result",
+      "category": "Jobs",
+      "rising_value": 250,
+      "guide_exists": null
+    },
+    {
+      "topic": "sarkari stop",
+      "category": "Jobs",
+      "rising_value": 200,
+      "guide_exists": null
+    },
+    {
+      "topic": "rbi office attendant admit card 2026",
+      "category": "Jobs",
+      "rising_value": 150,
+      "guide_exists": null
+    },
+    {
+      "topic": "kvs",
+      "category": "Jobs",
+      "rising_value": 110,
+      "guide_exists": null
+    },
+    {
+      "topic": "upsc online",
+      "category": "Jobs",
+      "rising_value": 110,
+      "guide_exists": null
+    },
+    {
+      "topic": "upsc login",
+      "category": "Jobs",
+      "rising_value": 100,
+      "guide_exists": null
+    },
+    {
+      "topic": "msbte",
+      "category": "Jobs",
+      "rising_value": 90,
+      "guide_exists": null
+    },
+    {
+      "topic": "tnpsc",
+      "category": "Jobs",
+      "rising_value": 60,
+      "guide_exists": null
+    },
+    {
+      "topic": "itbp",
+      "category": "Jobs",
+      "rising_value": 60,
       "guide_exists": null
     }
-  ]
+  ],
+  "covered": []
 }

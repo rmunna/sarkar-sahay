@@ -1,9 +1,88 @@
 {
-  "scanTime": "2026-03-01T02:56:41.027Z",
-  "elapsedSeconds": 50,
-  "changesDetected": 0,
-  "errors": 3,
-  "changes": [],
+  "scanTime": "2026-03-01T05:23:50.567Z",
+  "elapsedSeconds": 40.8,
+  "changesDetected": 13,
+  "errors": 10,
+  "changes": [
+    {
+      "site": "SBI Careers",
+      "type": "CONTENT_CHANGE",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-03-01T05:23:18.155Z"
+    },
+    {
+      "site": "RBI Careers",
+      "type": "PDF_CHANGE",
+      "url": "https://opportunities.rbi.org.in/",
+      "detectedAt": "2026-03-01T05:23:16.532Z"
+    },
+    {
+      "site": "NABARD",
+      "type": "CONTENT_CHANGE",
+      "url": "https://www.nabard.org/career-notices.aspx",
+      "detectedAt": "2026-03-01T05:23:16.499Z"
+    },
+    {
+      "site": "Indian Navy",
+      "type": "CONTENT_CHANGE",
+      "url": "https://www.joinindiannavy.gov.in/",
+      "detectedAt": "2026-03-01T05:23:17.139Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "CONTENT_CHANGE",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-03-01T05:23:22.335Z"
+    },
+    {
+      "site": "BSF",
+      "type": "CONTENT_CHANGE",
+      "url": "https://rectt.bsf.gov.in/",
+      "detectedAt": "2026-03-01T05:23:21.448Z"
+    },
+    {
+      "site": "KVS",
+      "type": "CONTENT_CHANGE",
+      "url": "https://kvsangathan.nic.in/",
+      "detectedAt": "2026-03-01T05:23:23.430Z"
+    },
+    {
+      "site": "NVS (Navodaya)",
+      "type": "CONTENT_CHANGE",
+      "url": "https://navodaya.gov.in/",
+      "detectedAt": "2026-03-01T05:23:24.163Z"
+    },
+    {
+      "site": "UPPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://uppsc.up.nic.in/",
+      "detectedAt": "2026-03-01T05:23:25.469Z"
+    },
+    {
+      "site": "RPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://rpsc.rajasthan.gov.in/",
+      "detectedAt": "2026-03-01T05:23:26.752Z"
+    },
+    {
+      "site": "GPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://gpsc.gujarat.gov.in/",
+      "detectedAt": "2026-03-01T05:23:31.913Z"
+    },
+    {
+      "site": "HPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://www.hpsc.gov.in/",
+      "detectedAt": "2026-03-01T05:23:30.970Z"
+    },
+    {
+      "site": "DSSSB",
+      "type": "CONTENT_CHANGE",
+      "url": "https://dsssb.delhi.gov.in/",
+      "detectedAt": "2026-03-01T05:23:35.861Z"
+    }
+  ],
   "errorDetails": [
     {
       "site": "RRB (Railway)",
@@ -11,13 +90,48 @@
       "error": "Timeout"
     },
     {
+      "site": "Indian Army",
+      "url": "https://joinindianarmy.nic.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "BPSC",
+      "url": "https://www.bpsc.bih.nic.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "KPSC",
+      "url": "https://kpsc.kar.nic.in/",
+      "error": "Parse Error: Invalid header token"
+    },
+    {
+      "site": "TSPSC",
+      "url": "https://websitenew.tspsc.gov.in/",
+      "error": "getaddrinfo ENOTFOUND websitenew.tspsc.gov.in"
+    },
+    {
+      "site": "WBPSC",
+      "url": "https://wbpsc.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "Sainik School",
+      "url": "https://exams.nta.ac.in/AISSEE/",
+      "error": "HTTP 404"
+    },
+    {
       "site": "Income Tax",
       "url": "https://incometaxindia.gov.in/Pages/press-releases.aspx",
       "error": "HTTP 503"
     },
     {
-      "site": "BPSC",
-      "url": "https://www.bpsc.bih.nic.in/",
+      "site": "MSBTE",
+      "url": "https://www.msbte.org.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "Bihar Board",
+      "url": "https://biharboardonline.bihar.gov.in/",
       "error": "Timeout"
     }
   ]
