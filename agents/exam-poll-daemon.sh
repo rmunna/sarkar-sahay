@@ -19,12 +19,11 @@ fi
 cd "$PROJECT_DIR"
 node "$MONITOR" >> "$LOG" 2>&1
 
-# Check if changes were detected
-CHANGES=$(node -e "try{const d=require('$RESULT');console.log(d.changesDetected||0)}catch(e){console.log(0)}")
+# Only alert on real changes (NEW_NOTICE, NEW_PDF, PDF_CHANGE) — skip CONTENT_CHANGE (cosmetic)
+REAL_CHANGES=$(node -e "try{const d=require('$RESULT');const real=d.changes.filter(c=>c.type!=='CONTENT_CHANGE');console.log(real.length)}catch(e){console.log(0)}")
 
-if [ "$CHANGES" -gt 0 ]; then
+if [ "$REAL_CHANGES" -gt 0 ]; then
     TIMESTAMP=$(date -u +%Y-%m-%dT%H:%M:%SZ)
-    echo "[${TIMESTAMP}] 🔴 $CHANGES change(s) detected!" >> "$LOG"
-    # Append to alert file (don't overwrite — accumulate until OpenClaw reads it)
-    echo "${TIMESTAMP}|${CHANGES}" >> "$ALERT_FILE"
+    echo "[${TIMESTAMP}] 🔴 $REAL_CHANGES real change(s) detected!" >> "$LOG"
+    echo "${TIMESTAMP}|${REAL_CHANGES}" >> "$ALERT_FILE"
 fi
