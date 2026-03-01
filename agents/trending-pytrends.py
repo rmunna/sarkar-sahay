@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-CitizenNest Trending Topic Scanner using Google Trends (pytrends)
-Checks search interest for government/citizen service topics in India.
-Identifies rising topics we should create content for.
+CitizenNest Trending Scanner — Category-based approach
+Monitors Google Trends RISING queries in Jobs (958) and Education (174) categories.
+Catches what's actually trending without needing hardcoded terms.
 
 Usage: python3 agents/trending-pytrends.py
+Output: agents/trending-pytrends.json
 """
 
 import json
@@ -20,108 +21,137 @@ except ImportError:
     sys.exit(1)
 
 GUIDES_DIR = os.path.join(os.path.dirname(__file__), '..', 'content', 'guides')
+UPDATES_DIR = os.path.join(os.path.dirname(__file__), '..', 'content', 'updates')
 OUT_PATH = os.path.join(os.path.dirname(__file__), 'trending-pytrends.json')
 
-# Topics to monitor — grouped in batches of 5 (pytrends limit)
-TOPIC_BATCHES = [
-    # Batch 1: Top schemes
-    ['pm kisan status', 'ladli behna status', 'pm awas yojana list', 'ration card status', 'ayushman bharat card'],
-    # Batch 2: Documents & services
-    ['aadhaar card download', 'pan card apply online', 'passport apply online', 'voter id apply', 'driving licence apply'],
-    # Batch 3: Finance
-    ['income tax filing', 'gst return filing', 'epf withdrawal', 'credit score check', 'personal loan apply'],
-    # Batch 4: Jobs & exams
-    ['ssc cgl result', 'upsc result', 'neet result', 'sarkari naukri', 'admit card download'],
-    # Batch 5: State schemes
-    ['shakti card karnataka', 'gruha lakshmi karnataka', 'banglar yuva sathi', 'mahtari vandana', 'pm rahat scheme'],
-    # Batch 6: Utilities
-    ['fastag recharge', 'electricity bill online', 'water bill online', 'gas booking online', 'ration card apply'],
+# Categories to monitor
+CATEGORIES = [
+    (958, 'Jobs'),
+    (174, 'Education'),
 ]
 
+# Skip patterns — stuff we don't create guides for
+SKIP_PATTERNS = [
+    'youtube', 'whatsapp', 'instagram', 'google', 'chatgpt', 'netflix',
+    'hotstar', 'movie', 'song', 'video', 'cricket', 'ipl', 'match',
+    'resume', 'compiler', 'github', 'java', 'python', 'chemistry',
+    'physics', 'science project', 'blackpink', 'rashmika', 'age',
+    'perplexity', 'indigo', 'gold rate', 'ucl', 'pw ',
+    't20 world cup', 'hcl', 'flowchart',
+]
+
+# Citizen-relevant patterns — things we DO want
+RELEVANT_PATTERNS = [
+    'result', 'admit card', 'recruitment', 'vacancy', 'notification',
+    'sarkari', 'exam', 'apply', 'login', 'status', 'download',
+    'scheme', 'yojana', 'portal', 'registration', 'form',
+    'ssc', 'upsc', 'neet', 'jee', 'kvs', 'nvs', 'cbse', 'icai',
+    'rbse', 'bser', 'ctet', 'rrb', 'ibps', 'sbi', 'rbi',
+    'bpsc', 'uppsc', 'tnpsc', 'kpsc', 'mppsc', 'rpsc',
+    'police', 'army', 'navy', 'itbp', 'crpf', 'bsf', 'cisf',
+    'sainik', 'navodaya', 'kendriya', 'ignou', 'university',
+    'deled', 'bed', 'nta', 'ugc', 'gate', 'cuet', 'clat',
+    'uan', 'epf', 'pan card', 'aadhaar', 'passport', 'voter',
+    'ration', 'pension', 'scholarship', 'loan', 'subsidy',
+    'railway', 'fastag', 'electricity', 'msbte', 'dsssb',
+]
+
+
+def is_relevant(query):
+    """Check if query is citizen-relevant and not noise."""
+    lower = query.lower()
+    if any(skip in lower for skip in SKIP_PATTERNS):
+        return False
+    return any(rel in lower for rel in RELEVANT_PATTERNS)
+
+
 def check_guide_exists(topic):
-    """Check if we have a guide matching this topic."""
-    slug_words = topic.lower().split()
-    files = os.listdir(GUIDES_DIR)
-    for f in files:
-        if not f.endswith('.md'):
+    """Check if we have a guide or update matching this topic."""
+    slug_words = [w for w in topic.lower().split() if len(w) > 2]
+    for d in [GUIDES_DIR, UPDATES_DIR]:
+        if not os.path.exists(d):
             continue
-        name = f.replace('.md', '').lower()
-        name_words = name.split('-')
-        # Check if at least 2 significant words match
-        matches = sum(1 for w in slug_words if len(w) > 2 and w in name_words)
-        if matches >= 2:
-            return f.replace('.md', '')
+        for f in os.listdir(d):
+            if not f.endswith('.md'):
+                continue
+            name_words = f.replace('.md', '').lower().split('-')
+            # Require matching on meaningful words (not years/generic terms)
+            skip_words = {'2024','2025','2026','2027','result','results','online','india','apply','status','check','download','card','form'}
+            meaningful_matches = sum(1 for w in slug_words if w in name_words and w not in skip_words)
+            if meaningful_matches >= 2:
+                return f.replace('.md', '')
     return None
+
 
 def main():
     pytrends = TrendReq(hl='en-IN', geo='IN')
-    
-    results = []
-    
-    for i, batch in enumerate(TOPIC_BATCHES):
+    all_rising = []
+
+    for cat_id, cat_name in CATEGORIES:
         try:
-            pytrends.build_payload(batch, geo='IN', timeframe='now 7-d')
-            df = pytrends.interest_over_time()
-            
-            if df.empty:
-                continue
-                
-            for topic in batch:
-                if topic in df.columns:
-                    interest = int(df[topic].sum())
-                    recent = int(df[topic].iloc[-3:].mean()) if len(df) >= 3 else 0
-                    earlier = int(df[topic].iloc[:3].mean()) if len(df) >= 3 else 0
-                    trend = 'rising' if recent > earlier * 1.3 else ('falling' if recent < earlier * 0.7 else 'stable')
-                    guide = check_guide_exists(topic)
-                    
-                    results.append({
-                        'topic': topic,
-                        'interest_7d': interest,
-                        'recent_avg': recent,
-                        'earlier_avg': earlier,
-                        'trend': trend,
-                        'guide_exists': guide,
-                    })
-            
-            time.sleep(1)  # Rate limit
+            pytrends.build_payload([''], geo='IN', timeframe='now 7-d', cat=cat_id)
+            related = pytrends.related_queries()
+            rising = related.get('', {}).get('rising', None)
+
+            if rising is not None and not rising.empty:
+                for _, row in rising.iterrows():
+                    query = row['query']
+                    value = int(row['value'])
+                    if is_relevant(query) and value >= 50:
+                        guide = check_guide_exists(query)
+                        all_rising.append({
+                            'topic': query,
+                            'category': cat_name,
+                            'rising_value': value,
+                            'guide_exists': guide,
+                        })
+            time.sleep(1)
         except Exception as e:
-            print(f"⚠️  Batch {i+1} failed: {e}", file=sys.stderr)
-            time.sleep(2)
-    
-    # Sort by interest
-    results.sort(key=lambda x: x['interest_7d'], reverse=True)
-    
+            print(f"⚠️  {cat_name} failed: {e}", file=sys.stderr)
+
+    # Deduplicate by topic
+    seen = set()
+    unique = []
+    for item in all_rising:
+        key = item['topic'].lower().strip()
+        if key not in seen:
+            seen.add(key)
+            unique.append(item)
+
+    # Sort by rising value
+    unique.sort(key=lambda x: x['rising_value'], reverse=True)
+
     # Print report
-    print(f"\n📊 CitizenNest Trending Report — {datetime.now().strftime('%Y-%m-%d %H:%M')}\n")
-    print(f"{'Topic':<35} {'Interest':>8} {'Trend':>8} {'Guide':>10}")
-    print('-' * 70)
-    
-    opportunities = []
-    for r in results:
-        status = '✅' if r['guide_exists'] else '❌'
-        trend_emoji = '📈' if r['trend'] == 'rising' else ('📉' if r['trend'] == 'falling' else '➡️')
-        print(f"  {r['topic']:<33} {r['interest_7d']:>8} {trend_emoji}{r['trend']:>7} {status:>6}")
-        
-        if not r['guide_exists'] and r['interest_7d'] > 100:
-            opportunities.append(r)
-    
+    print(f"\n📊 CitizenNest Category Trends — {datetime.now().strftime('%Y-%m-%d %H:%M')}\n")
+
+    opportunities = [x for x in unique if not x['guide_exists']]
+    covered = [x for x in unique if x['guide_exists']]
+
     if opportunities:
-        print(f"\n🔴 CONTENT OPPORTUNITIES ({len(opportunities)} topics with no guide):\n")
+        print(f"🔴 OPPORTUNITIES ({len(opportunities)} trending topics, no guide):\n")
         for o in opportunities:
-            print(f"  • {o['topic']} (interest: {o['interest_7d']}, {o['trend']})")
-    else:
-        print(f"\n✅ All high-interest topics have existing guides!")
-    
+            print(f"  📈 {o['topic']} (rising: {o['rising_value']}, cat: {o['category']})")
+
+    if covered:
+        print(f"\n✅ COVERED ({len(covered)} trending topics with existing guides):\n")
+        for c in covered:
+            print(f"  ✅ {c['topic']} → {c['guide_exists']}")
+
+    if not unique:
+        print("  No relevant rising queries found.")
+
     # Save JSON
     output = {
         'scannedAt': datetime.now().isoformat(),
-        'results': results,
+        'results': unique,
         'opportunities': opportunities,
+        'covered': covered,
     }
     with open(OUT_PATH, 'w') as f:
         json.dump(output, f, indent=2)
-    
+
     print(f"\n💾 Saved to agents/trending-pytrends.json")
+
 
 if __name__ == '__main__':
     main()
