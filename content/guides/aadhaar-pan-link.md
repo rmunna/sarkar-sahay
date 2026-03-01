@@ -109,7 +109,7 @@ Send SMS: **UIDPAN <12-digit Aadhaar> <10-digit PAN>** to **567678** or **56161*
 If your name in Aadhaar and PAN don't match:
 1. **Minor differences** (spelling variations like Rajesh vs Rajeshkumar) — The portal usually handles these with fuzzy matching
 2. **Major differences** (completely different names) — Update your name in either:
-   - **Aadhaar:** Visit myaadhaar.uidai.gov.in or nearest Aadhaar center (₹50 fee)
+   - **Aadhaar:** Visit myaadhaar.uidai.gov.in or nearest Aadhaar center (₹75 fee)
    - **PAN:** Apply for PAN correction at [onlineservices.nsdl.com](https://onlineservices.nsdl.com) (₹107 fee for Indian address)
 3. Then retry linking after the correction is processed
 

@@ -93,9 +93,9 @@ For **mobile number update at a centre**, you need:
 
 | Update Type | Online | At Centre |
 |-------------|--------|-----------|
-| Mobile number update | **Free** | **₹50** (inclusive of GST) |
-| Email update | **Free** | **₹50** (inclusive of GST) |
-| Mobile + Email together | **Free** | **₹50** (single transaction) |
+| Mobile number update | **Free** | **₹75** (inclusive of GST) |
+| Email update | **Free** | **₹75** (inclusive of GST) |
+| Mobile + Email together | **Free** | **₹75** (single transaction) |
 
 ## Processing Time
 

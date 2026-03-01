@@ -83,7 +83,7 @@ Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Odia, Punjabi, Tamil, Tel
 5. Carry the **original document** for verification by the operator.
 6. Submit the form. The operator will process your request and capture your biometrics if needed.
 7. You will receive an **Update Request Number (URN)** on the acknowledgement slip.
-8. A fee of **₹50** (inclusive of GST) is charged for any update at the enrolment centre.
+8. A fee of **₹75** (inclusive of GST) is charged for any update at the enrolment centre.
 
 ---
 
@@ -156,7 +156,7 @@ If you do not have any address proof document in your name at your current addre
 
 | Detail | Online | Offline (Enrolment Centre) |
 |---|---|---|
-| **Fee** | Free (no charge) | ₹50 (inclusive of GST) |
+| **Fee** | Free (no charge) | ₹75 (inclusive of GST) |
 | **Processing Time** | 7–10 working days typically | 10–90 days |
 | **Payment Mode** | N/A | Cash at the centre |
 

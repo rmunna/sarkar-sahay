@@ -77,7 +77,7 @@ UIDAI accepts **33 documents** as valid address proof. These have the **highest 
 5. Enter your **new address exactly as it appears** on your proof document
 6. Upload a **clear, high-quality scan** of your address proof (JPEG/PNG, under 2 MB)
 7. Double-check all fields — spelling, pin code, state
-8. Pay the fee of **₹50** (online payment)
+8. Pay the fee of **₹75** (online payment)
 9. Note down the **URN (Update Request Number)** for tracking
 10. Check status after 5-7 days at ssup.uidai.gov.in
 
@@ -88,7 +88,7 @@ UIDAI accepts **33 documents** as valid address proof. These have the **highest 
 3. Fill the **Aadhaar Update Form** at the centre
 4. Submit biometrics (fingerprint and iris scan)
 5. Collect the **acknowledgement slip** with URN
-6. Fee: **₹50** (paid at the centre)
+6. Fee: **₹75** (paid at the centre)
 7. Updated Aadhaar will be available in **10-15 working days**
 
 **When to choose Aadhaar Centre over Online:**
@@ -106,7 +106,7 @@ If you don't have a valid address proof document:
 3. An **Address Validation Letter** with a Secret Code will be sent to your new address via Speed Post
 4. Use the Secret Code on the SSUP portal to verify and update your address
 5. The letter is valid for **30 days** from the date of issue
-6. Fee: **₹50**
+6. Fee: **₹75**
 
 ## When to Contact UIDAI Helpline
 
@@ -131,7 +131,7 @@ Contact UIDAI if:
 ## FAQs
 
 ### How many times can I update my Aadhaar address?
-There is no limit on the number of address updates. However, each update costs ₹50 and you must wait for one request to complete before submitting another.
+There is no limit on the number of address updates. However, each update costs ₹75 and you must wait for one request to complete before submitting another.
 
 ### How long does Aadhaar address update take?
 Online updates typically take **5-10 working days**. At Aadhaar centres, it takes **10-15 working days**. Address Validation Letter method takes **15-30 days** including postal delivery.
@@ -146,7 +146,7 @@ Common reasons include: the address entered in the form doesn't exactly match th
 No. The address proof must be in **your name** (matching your Aadhaar name) or you must be listed on the document (e.g., ration card, property document with your name).
 
 ### Is there a fee for Aadhaar address update?
-Yes, ₹50 for both online and offline updates. This is a government-mandated fee.
+Yes, ₹75 for both online and offline updates. This is a government-mandated fee.
 
 ### Can NRIs update their Aadhaar address?
 Yes, NRIs can update to their Indian address. They need to visit an Aadhaar centre in person with valid address proof.

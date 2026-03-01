@@ -127,7 +127,7 @@ If your mobile number has changed or was never registered:
 3. Fill the Aadhaar Update/Correction form
 4. Provide your new mobile number
 5. Complete biometric verification
-6. Pay ₹50 for the update
+6. Pay ₹75 for the update
 7. You will receive an Update Request Number (URN) — update takes 10-90 days
 
 **Note:** Mobile number update cannot be done online. You must visit a centre in person.

@@ -71,7 +71,7 @@ You can correct your name in Aadhaar online through the **myAadhaar portal**. He
 7. Select the **document type** you are uploading as proof
 8. **Upload a clear scanned copy** of your name proof document
 9. **Review all details** carefully before submitting
-10. **Pay the fee of ₹50** using credit card, debit card, or net banking
+10. **Pay the fee of ₹75** using credit card, debit card, or net banking
 11. After successful payment, you will receive a **Service Request Number (SRN)**
 12. **Download and save the invoice** — it contains your SRN for tracking
 
@@ -88,7 +88,7 @@ If you cannot update your name online (mobile not registered, or online service 
 5. Write your **correct name** clearly in the form
 6. Submit the form along with your **document photocopy**
 7. The operator will take your **biometrics** (fingerprint, iris, photo)
-8. Pay the **fee of ₹50** at the centre
+8. Pay the **fee of ₹75** at the centre
 9. Collect your **Update Request Number (URN)** from the acknowledgement slip
 10. Your name will be updated within **7–90 days** after verification
 
@@ -134,13 +134,13 @@ UIDAI accepts the following documents as Proof of Identity (POI) for name correc
 
 | Detail | Information |
 |---|---|
-| **Fee** | ₹50 (online and offline) |
+| **Fee** | ₹75 (online and offline) |
 | **Payment modes (online)** | Credit card, debit card, net banking, UPI |
 | **Payment mode (offline)** | Cash/card at enrolment centre |
 | **Processing time** | 7 to 90 days |
 | **Average time** | 10–30 days for most cases |
 
-> **Note:** The ₹50 fee applies per update request, regardless of how many fields you update in one request. There is no additional GST.
+> **Note:** The ₹75 fee applies per update request, regardless of how many fields you update in one request. There is no additional GST.
 
 ## How Many Times Can You Change Your Name in Aadhaar?
 
@@ -190,7 +190,7 @@ After submitting your update request, you can track the status:
 1. **Read the rejection reason** carefully in the status page
 2. **Get a better quality scan** of your document
 3. **Try a different POI document** from the accepted list
-4. **Re-submit** a fresh request with ₹50 fee
+4. **Re-submit** a fresh request with ₹75 fee
 5. If rejected multiple times, **visit an enrolment centre** for offline update with biometric verification
 
 ## Frequently Asked Questions (FAQs)
@@ -205,11 +205,11 @@ Typically **10 to 30 days**, but it can take up to **90 days** in some cases. Yo
 
 ### 3. Can I update my name and address at the same time?
 
-Yes, you can update multiple fields in a single request. You will still pay only **₹50** for the entire request, not per field.
+Yes, you can update multiple fields in a single request. You will still pay only **₹75** for the entire request, not per field.
 
 ### 4. Is Aadhaar name correction free?
 
-No. UIDAI charges a fee of **₹50** for any update request, whether online or offline. This fee applies regardless of the number of fields you update.
+No. UIDAI charges a fee of **₹75** for any update request, whether online or offline. This fee applies regardless of the number of fields you update.
 
 ### 5. My Aadhaar name doesn't match my PAN card. Which one should I correct?
 

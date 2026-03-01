@@ -127,8 +127,8 @@ If you prefer not to book online, you can directly visit any Aadhaar enrollment 
 | Service | Fee |
 |---------|-----|
 | New Aadhaar Enrollment | **Free** |
-| Aadhaar Update (demographic — name, address, DOB, gender, mobile, email) | ₹50 |
-| Aadhaar Update (biometric — photo, fingerprint, iris) | ₹100 |
+| Aadhaar Update (demographic — name, address, DOB, gender, mobile, email) | ₹75 |
+| Aadhaar Update (biometric — photo, fingerprint, iris) | ₹125 |
 | PVC Aadhaar Card (plastic card) | ₹50 |
 | e-Aadhaar Download | **Free** |
 | Aadhaar reprint (order online) | ₹50 |
@@ -156,7 +156,7 @@ If you prefer not to book online, you can directly visit any Aadhaar enrollment 
 |---------|----------|
 | Biometric (fingerprint) failure | Ask operator to try iris scan instead. Ensure fingers are clean and dry. |
 | Mobile OTP not received | Check if mobile number is correct. Request OTP again after 60 seconds. Check if your phone has network. |
-| Name spelling mistake on Aadhaar | Apply for demographic update online at myaadhaar.uidai.gov.in (₹50 fee) |
+| Name spelling mistake on Aadhaar | Apply for demographic update online at myaadhaar.uidai.gov.in (₹75 fee) |
 | Aadhaar status shows "rejected" | Re-apply at enrollment center. Common reasons: poor biometric quality, duplicate Aadhaar, or document issues. |
 | Aadhaar letter not received by post | Download e-Aadhaar online. The e-Aadhaar is equally valid. |
 | Lost Aadhaar card | Download e-Aadhaar or order reprint from myaadhaar.uidai.gov.in |

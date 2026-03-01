@@ -120,7 +120,7 @@ If your fingerprints have changed due to ageing or injury:
 1. Visit the nearest **Aadhaar Enrolment/Update Centre** — find one at [appointments.uidai.gov.in](https://appointments.uidai.gov.in/)
 2. Request **biometric update** (fingerprints + iris)
 3. Carry a valid ID proof (any one: PAN, passport, voter ID, driving licence)
-4. Pay the update fee of ₹100 (as per current UIDAI charges)
+4. Pay the update fee of ₹125 (as per current UIDAI charges)
 5. Collect the acknowledgement slip — update takes 10–30 days
 
 ### Step 7: Try During Off-Peak Hours
@@ -199,7 +199,7 @@ Yes, many services accept Aadhaar OTP authentication. The OTP is sent to your Aa
 
 ### How much does Aadhaar biometric update cost?
 
-UIDAI charges ₹100 for biometric update (fingerprints and iris) at any Aadhaar enrolment centre. You need to carry one valid ID proof.
+UIDAI charges ₹125 for biometric update (fingerprints and iris) at any Aadhaar enrolment centre. You need to carry one valid ID proof.
 
 ### How long does biometric update take to reflect?
 

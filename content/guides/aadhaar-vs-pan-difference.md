@@ -137,7 +137,7 @@ Aadhaar is not legally mandatory for Indian citizens, but it is practically esse
 No. PAN is mandatory for filing income tax returns. However, Aadhaar must be linked with PAN. If you don't have PAN, you can apply for an instant PAN using your Aadhaar number on the income tax portal.
 
 ### What is the fee for Aadhaar and PAN card?
-New Aadhaar enrollment is free. Aadhaar update costs ₹50 (online) or ₹100 (at centers). PAN application costs ₹107 for Indian communication address and ₹1,017 for foreign address. Corrections to PAN also cost ₹107.
+New Aadhaar enrollment is free. Aadhaar update costs ₹75 (demographic) or ₹125 (biometric) both online and at centres. PAN application costs ₹107 for Indian communication address and ₹1,017 for foreign address. Corrections to PAN also cost ₹107.
 
 ### Can NRIs get both Aadhaar and PAN?
 NRIs with an Indian passport can apply for Aadhaar when they visit India. PAN can be applied for online by NRIs without visiting India. Both are useful for NRIs who have financial interests or property in India.

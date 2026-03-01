@@ -128,7 +128,7 @@ Some banks (SBI, PNB, BOB) allow Aadhaar linking via ATM:
 5. You'll receive an acknowledgement slip with a URN (Update Request Number)
 6. The new mobile number is linked within **7–10 working days**
 
-**Fee:** ₹50 (for any Aadhaar update at the centre)
+**Fee:** ₹75 (for any Aadhaar update at the centre)
 
 For a detailed guide, see: **[How to Change Mobile Number in Aadhaar](/guide/change-mobile-number-in-aadhaar-card)**
 
