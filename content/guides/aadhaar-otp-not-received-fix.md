@@ -1,6 +1,6 @@
 ---
 title: "Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP"
-description: "Aadhaar OTP not received on mobile? Fix OTP delivery issues for UIDAI verification, e-KYC, bank linking, and SIM activation with these working solutions."
+description: "Aadhaar OTP not received even after multiple attempts? Fix UIDAI OTP issues — covers DND block, OTP limit exceeded, wrong mobile number linked, and e-KYC failures with working solutions."
 category: "Identity Documents"
 keywords:
   - aadhaar otp not received

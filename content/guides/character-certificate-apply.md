@@ -1,6 +1,6 @@
 ---
 title: "Character Certificate — How to Get It Online in 3 Days (Format Included)"
-description: "Need a character certificate for a job or exam? Apply online or offline with our step-by-step guide. Includes format, documents required, and police verification process."
+description: "Get a character certificate in 3 days — apply online via your state portal or offline at the police station. Includes ready-to-use format, documents list, and what to do if police verification is delayed."
 category: "Utilities"
 keywords: ["character certificate", "character certificate apply online", "police character certificate", "character certificate format", "good conduct certificate"]
 readingTime: "7 min"

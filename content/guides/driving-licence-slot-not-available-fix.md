@@ -1,7 +1,6 @@
 ---
 title: "Driving Licence Slot Not Available: How to Fix"
-description: >-
-  Fix driving licence appointment slot unavailability on the Parivahan portal. Learn how to find available slots, use alternate RTOs, and book DL test appointments successfully.
+description: "No slots available on Parivahan for driving licence? Here's how to find open DL/LL test slots — best times to check, alternate RTOs, and what to do when Sarathi shows zero availability."
 category: "Identity Documents"
 keywords:
   - driving licence slot not available
