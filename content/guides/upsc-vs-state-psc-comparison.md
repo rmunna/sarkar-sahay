@@ -1,6 +1,6 @@
 ---
-title: "UPSC vs State PSC — Which Is Easier? Salary, Syllabus & Success Rate Compared"
-description: "UPSC IAS vs State PSC — which should you attempt? Honest comparison of difficulty, salary (₹56K vs ₹45K starting), success rate (0.1% vs 2%), syllabus overlap, and career growth. Find which one suits you."
+title: "UPSC vs State PSC — Difficulty, Salary & Success Rate Compared"
+description: "UPSC or State PSC — which is easier? Compare difficulty level, salary (₹56K vs ₹45K), success rate (0.1% vs 2%), syllabus & career growth side by side."
 category: Jobs & Exams
 keywords:
   - upsc vs state psc

@@ -1,6 +1,6 @@
 ---
-title: "Aadhaar Fingerprint Not Matching? Fix Biometric Verification Failed"
-description: "Aadhaar biometric verification failed at bank or mobile store? Fix fingerprint mismatch, iris scan errors, and biometric lock issues with these working solutions."
+title: "Aadhaar Biometric Verification Failed — Fingerprint Not Matching Fix"
+description: "Aadhaar fingerprint not matching at bank, SIM, or Aadhaar centre? Fix biometric verification failed errors — covers dry fingers, locked biometrics, iris scan issues."
 category: "Identity Documents"
 keywords:
   - aadhaar biometric verification failed

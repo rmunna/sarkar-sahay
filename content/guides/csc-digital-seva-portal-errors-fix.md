@@ -1,6 +1,6 @@
 ---
-title: "CSC Digital Seva Portal Not Working? Fix Login, Payment & Service Errors"
-description: "CSC portal login failed or showing errors? Step-by-step fixes for Digital Seva login problems, payment failures, service request errors, and VLE registration issues."
+title: "CSC Login — Digital Seva Portal Login Fix (If Not Working)"
+description: "Can't log in to CSC Digital Seva Portal? Fix CSC login problems — invalid password, OTP not received, server error, blocked account. Step-by-step solutions for VLEs."
 category: "Utilities"
 keywords:
   - csc digital seva portal error

@@ -1,105 +1,99 @@
 {
-  "scanTime": "2026-03-02T13:40:10.007Z",
-  "elapsedSeconds": 39,
-  "changesDetected": 15,
+  "scanTime": "2026-03-02T17:26:58.055Z",
+  "elapsedSeconds": 50.7,
+  "changesDetected": 14,
   "errors": 9,
   "changes": [
     {
       "site": "SBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-03-02T13:39:39.332Z"
+      "detectedAt": "2026-03-02T17:26:17.377Z"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-03-02T13:39:37.763Z"
+      "detectedAt": "2026-03-02T17:26:14.441Z"
     },
     {
       "site": "NABARD",
       "type": "CONTENT_CHANGE",
       "url": "https://www.nabard.org/career-notices.aspx",
-      "detectedAt": "2026-03-02T13:39:38.048Z"
+      "detectedAt": "2026-03-02T17:26:15.478Z"
     },
     {
       "site": "Indian Army",
       "type": "CONTENT_CHANGE",
       "url": "https://joinindianarmy.nic.in/",
-      "detectedAt": "2026-03-02T13:39:37.793Z"
+      "detectedAt": "2026-03-02T17:26:15.262Z"
     },
     {
       "site": "Indian Navy",
       "type": "CONTENT_CHANGE",
       "url": "https://www.joinindiannavy.gov.in/",
-      "detectedAt": "2026-03-02T13:39:38.416Z"
+      "detectedAt": "2026-03-02T17:26:15.500Z"
     },
     {
       "site": "CRPF",
       "type": "CONTENT_CHANGE",
       "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-03-02T13:39:41.625Z"
+      "detectedAt": "2026-03-02T17:26:29.550Z"
     },
     {
       "site": "BSF",
       "type": "CONTENT_CHANGE",
       "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-03-02T13:39:40.838Z"
+      "detectedAt": "2026-03-02T17:26:29.022Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-03-02T13:39:43.225Z"
+      "detectedAt": "2026-03-02T17:26:31.166Z"
     },
     {
       "site": "NVS (Navodaya)",
       "type": "CONTENT_CHANGE",
       "url": "https://navodaya.gov.in/",
-      "detectedAt": "2026-03-02T13:39:43.511Z"
+      "detectedAt": "2026-03-02T17:26:31.423Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-03-02T13:39:45.556Z"
+      "detectedAt": "2026-03-02T17:26:33.573Z"
     },
     {
       "site": "RPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://rpsc.rajasthan.gov.in/",
-      "detectedAt": "2026-03-02T13:39:45.902Z"
+      "detectedAt": "2026-03-02T17:26:33.663Z"
     },
     {
       "site": "GPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://gpsc.gujarat.gov.in/",
-      "detectedAt": "2026-03-02T13:39:50.690Z"
+      "detectedAt": "2026-03-02T17:26:38.520Z"
     },
     {
       "site": "HPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://www.hpsc.gov.in/",
-      "detectedAt": "2026-03-02T13:39:50.483Z"
+      "detectedAt": "2026-03-02T17:26:38.489Z"
     },
     {
       "site": "DSSSB",
       "type": "CONTENT_CHANGE",
       "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-03-02T13:39:55.011Z"
-    },
-    {
-      "site": "UP Board",
-      "type": "CONTENT_CHANGE",
-      "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-03-02T13:39:55.401Z"
+      "detectedAt": "2026-03-02T17:26:43.343Z"
     }
   ],
   "errorDetails": [
     {
       "site": "RRB (Railway)",
       "url": "https://www.rrbcdg.gov.in/",
-      "error": "read ECONNRESET"
+      "error": "Timeout"
     },
     {
       "site": "BPSC",
