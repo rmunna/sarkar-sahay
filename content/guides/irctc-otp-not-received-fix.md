@@ -228,4 +228,10 @@ Yes, OTP is sent via SMS to your registered number regardless of SIM slot. Ensur
 
 *This guide is published by [CitizenNest](https://citizennest.com) for informational purposes. We are not affiliated with IRCTC or Indian Railways. For official support, visit [irctc.co.in](https://www.irctc.co.in/) or call 14646.*
 
-*See also: [IRCTC Account Login Problems — How to Fix](/guide/irctc-account-login-problems-fix)*
+## Related IRCTC Guides
+
+- [IRCTC Login Not Working? Fix Password, OTP & Account Issues](/guide/irctc-account-login-problems-fix)
+- [IRCTC Account Locked — How to Unlock It](/guide/irctc-account-locked-unlock-fix)
+- [IRCTC Forgot Password — How to Reset Step by Step](/guide/irctc-forgot-password-reset-fix)
+- [IRCTC Tatkal Ticket Booking Not Working — How to Fix](/guide/irctc-tatkal-booking-not-working-fix)
+- [How to Check Train PNR Status, Book Ticket & Cancel](/guide/irctc-train-ticket-pnr-status)

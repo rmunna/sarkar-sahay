@@ -349,3 +349,11 @@ The UIDAI toll-free helpline is **1947**. It's available from 7 AM to 11 PM in 1
 
 ### Q7: My Aadhaar address proof was rejected. What documents can I use?
 UIDAI accepts 45+ documents as address proof including passport, voter ID, bank passbook, utility bills (under 3 months old), driving licence, and more. If you have no documents at all, ask for an **Address Validation Letter** at the Aadhaar centre.
+
+## Related Aadhaar Guides
+
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+- [Tatkal Aadhaar Enrollment — Fast-Track Aadhaar Application Guide](/guide/tatkal-aadhaar-enrollment)
+- [How to Find Nearest Aadhaar Centre — Google Maps, UIDAI Portal, Aadhaar Seva Kendra](/guide/find-nearest-aadhaar-centre-google-maps)
+- [How to Retrieve Lost or Forgotten Aadhaar Number — Complete Guide](/guide/lost-aadhaar-card-retrieval)
+- [Aadhaar Enrollment ID Lost — How to Retrieve It](/guide/aadhaar-enrollment-id-lost-retrieve-fix)

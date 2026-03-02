@@ -176,6 +176,15 @@ Yes. Aadhaar is not mandatory for passport application. However, providing Aadha
 ### Which document is easiest to get?
 Aadhaar is the easiest — free enrolment at any Aadhaar centre with minimal documentation. Voter ID requires you to be 18+ and registered. Passport involves fees and police verification.
 
+
+## Related Voter ID Guides
+
+- [Voter ID Application Rejected — How to Fix](/guide/voter-id-application-rejected-fix)
+- [Link Aadhaar with Voter ID](/guide/aadhaar-voter-id-linking-online)
+- [How to Apply for Voter ID Card Online](/guide/voter-id-card-apply-online)
+- [Voter ID First Time Registration](/guide/voter-id-first-time-registration)
+- [Download e-EPIC Digital Voter ID](/guide/e-epic-digital-voter-id-download-guide)
+
 ---
 
 ## Related Guides
@@ -186,3 +195,11 @@ Aadhaar is the easiest — free enrolment at any Aadhaar centre with minimal doc
 - [Aadhaar vs PAN Difference](/guide/aadhaar-vs-pan-difference)
 - [Aadhaar-Voter ID Linking](/guide/aadhaar-voter-id-linking-online)
 - [Aadhaar PAN Link](/guide/aadhaar-pan-link)
+
+## Related Aadhaar Guides
+
+- [Aadhaar vs PAN Card — Key Differences, Uses, and When You Need Which](/guide/aadhaar-vs-pan-difference)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+- [Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP](/guide/aadhaar-otp-not-received-fix)
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)

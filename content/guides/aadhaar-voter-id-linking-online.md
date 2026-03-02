@@ -158,6 +158,15 @@ Many citizens worry about sharing Aadhaar with the Election Commission. Here's w
 | Linking request pending for weeks | Contact your local BLO or ERO, or call the ECI helpline at **1950**. |
 | Already linked but showing unlinked | Re-submit via any method. The system will update your record. |
 
+
+## Related Voter ID Guides
+
+- [Voter ID Application Rejected — How to Fix](/guide/voter-id-application-rejected-fix)
+- [Aadhaar vs Voter ID vs Passport](/guide/aadhaar-vs-voter-id-vs-passport-id-proof)
+- [Voter ID Verification Online](/guide/voter-id-verification-online)
+- [How to Apply for Voter ID Card Online](/guide/voter-id-card-apply-online)
+- [Delete Duplicate Voter ID Entry](/guide/voter-id-duplicate-entry-delete-fix)
+
 ## Related Guides
 
 - [How to Apply for Voter ID Card Online](/guide/voter-id-card-apply-online)
@@ -190,3 +199,11 @@ Typically, the linking is processed within **3–7 working days** after OTP veri
 ### Can NRIs link their Aadhaar with Voter ID?
 
 Yes, NRIs who are registered as overseas electors can link their Aadhaar with their Voter ID through the same online methods, provided they have an active Aadhaar number and access to the registered mobile number for OTP.
+
+## Related Aadhaar Guides
+
+- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
+- [How to Link Aadhaar with PAN Card — Step-by-Step Guide](/guide/aadhaar-pan-link)
+- [Bank Account Aadhaar Link Not Working — How to Fix](/guide/bank-account-aadhaar-link-not-working-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)

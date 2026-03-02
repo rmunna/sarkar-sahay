@@ -197,6 +197,15 @@ No. There is no refund process. The duplicate entry is simply removed from the e
 
 Check the rejection reason on the NVSP portal. Common reasons include incomplete details or wrong constituency selection. Refile with correct information. See our guide on [voter ID application rejections](/guide/voter-id-application-rejected-fix) for detailed troubleshooting.
 
+
+## Related Voter ID Guides
+
+- [Voter ID Application Rejected — How to Fix](/guide/voter-id-application-rejected-fix)
+- [Voter ID Address Change / Transfer](/guide/voter-id-address-change-transfer-fix)
+- [Voter ID Verification Online](/guide/voter-id-verification-online)
+- [Voter ID Status Check Online](/guide/voter-id-status-check-online)
+- [Voter ID First Time Registration](/guide/voter-id-first-time-registration)
+
 ---
 
 *This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Election Commission of India or any government body. Always verify current procedures on [official ECI portal](https://voters.eci.gov.in/) or [NVSP](https://www.nvsp.in/). Information is accurate as of March 2026.*

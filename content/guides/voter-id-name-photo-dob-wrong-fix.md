@@ -262,6 +262,15 @@ If you're unable to correct your details online, you can do it offline:
 ### Q10: Will my Voter ID number (EPIC number) change after correction?
 **A:** No. Your EPIC number remains the same. Only the incorrect details are updated on the card.
 
+
+## Related Voter ID Guides
+
+- [Voter ID Application Rejected — How to Fix](/guide/voter-id-application-rejected-fix)
+- [Voter ID Correction Online](/guide/voter-id-correction-online)
+- [Voter ID Correction Not Working — How to Fix](/guide/voter-id-correction-not-working-fix)
+- [Voter ID Address Change / Transfer](/guide/voter-id-address-change-transfer-fix)
+- [Download e-EPIC Digital Voter ID](/guide/e-epic-digital-voter-id-download-guide)
+
 ---
 
 ## Related Guides

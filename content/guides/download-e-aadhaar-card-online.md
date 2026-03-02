@@ -182,3 +182,11 @@ Both are the same document. The only difference is that masked Aadhaar hides the
 - [Change Address in Aadhaar](/guide/aadhaar-address-change-online)
 - [Aadhaar Name Correction](/guide/aadhaar-name-correction-online)
 - [Link Aadhaar with PAN](/guide/aadhaar-pan-link)
+
+## Related Aadhaar Guides
+
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [Aadhaar Card Download Not Working — How to Fix Guide)](/guide/aadhaar-card-download-not-working-fix)
+- [How to Order Aadhaar PVC Card Online — Plastic Aadhaar Card](/guide/aadhaar-pvc-card-order-online)
+- [Aadhaar PVC Card Order Not Delivered — How to Fix](/guide/aadhaar-pvc-card-not-delivered-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)

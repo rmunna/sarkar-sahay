@@ -214,3 +214,11 @@ Yes. DigiLocker is a Government of India platform under the Ministry of Electron
 ### What should I do if DigiLocker verification fails repeatedly?
 
 First, ensure your mobile number is linked to Aadhaar and try TOTP via mAadhaar app instead of SMS OTP. Try the web portal in an incognito browser. If issues persist, email support@digitallocker.gov.in with a masked Aadhaar number and error screenshots. Also check if UIDAI servers are functioning by testing OTP on myaadhaar.uidai.gov.in.
+
+## Related Aadhaar Guides
+
+- [Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP](/guide/aadhaar-otp-not-received-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)

@@ -254,6 +254,15 @@ Yes. NRIs registered as overseas electors can apply for corrections through the 
 
 Your vote matters. Keep your Voter ID updated! 🗳️
 
+
+## Related Voter ID Guides
+
+- [Voter ID Application Rejected — How to Fix](/guide/voter-id-application-rejected-fix)
+- [Voter ID Correction Not Working — How to Fix](/guide/voter-id-correction-not-working-fix)
+- [Voter ID Name, Photo or DOB Wrong — How to Fix](/guide/voter-id-name-photo-dob-wrong-fix)
+- [Voter ID Address Change / Transfer](/guide/voter-id-address-change-transfer-fix)
+- [Download e-EPIC Digital Voter ID](/guide/e-epic-digital-voter-id-download-guide)
+
 ---
 
 ## You May Also Need

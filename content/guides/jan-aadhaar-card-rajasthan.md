@@ -295,3 +295,11 @@ Enrollment requires Aadhaar for biometric verification. If you don't have Aadhaa
 
 - [Indira Rasoi Yojana Rajasthan](/guide/indira-rasoi-yojana-rajasthan)
 - [Devnarayan Scooty Scheme 2025](/guide/rajasthan-devnarayan-scooty-scheme)
+
+## Related Aadhaar Guides
+
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+- [Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP](/guide/aadhaar-otp-not-received-fix)
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)

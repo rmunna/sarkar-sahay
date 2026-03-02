@@ -156,3 +156,11 @@ Yes, NRIs can update to their Indian address. They need to visit an Aadhaar cent
 *This is an independent guide and is not affiliated with UIDAI or the Government of India. Information is sourced from official UIDAI resources. Always verify at [uidai.gov.in](https://uidai.gov.in) for the latest rules.*
 
 *For a complete guide on applying for a new Aadhaar card, see our [Aadhaar Card Apply Online guide](/guide/aadhaar-card-apply-online).*
+
+## Related Aadhaar Guides
+
+- [Aadhaar Address Update Online Not Working — How to Fix](/guide/aadhaar-address-update-online-not-working-fix)
+- [How to Change Address in Aadhaar Card Online and Offline](/guide/aadhaar-address-change-online)
+- [Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP](/guide/aadhaar-otp-not-received-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)

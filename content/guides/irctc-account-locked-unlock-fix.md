@@ -155,6 +155,10 @@ Log in to your IRCTC account, go to "My Profile," and update your mobile number 
 
 *This guide is independently created by CitizenNest to help Indian citizens. We are not affiliated with IRCTC or Indian Railways. For official information, visit [irctc.co.in](https://www.irctc.co.in). Information is accurate as of March 2026.*
 
-**Related guides:**
+## Related IRCTC Guides
+
 - [IRCTC Login Not Working? Fix Password, OTP & Account Issues](/guide/irctc-account-login-problems-fix)
-- [IRCTC OTP Not Received — How to Fix](/guide/irctc-otp-not-received-fix)
+- [IRCTC Forgot Password — How to Reset Step by Step](/guide/irctc-forgot-password-reset-fix)
+- [IRCTC OTP Not Received? How to Fix OTP Problems](/guide/irctc-otp-not-received-fix)
+- [IRCTC Payment Deducted But Ticket Not Booked — How to Get Refund](/guide/irctc-payment-deducted-ticket-not-booked-fix)
+- [How to Check Train PNR Status, Book Ticket & Cancel](/guide/irctc-train-ticket-pnr-status)

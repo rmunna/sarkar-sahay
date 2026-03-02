@@ -196,3 +196,11 @@ No, Aadhaar requires in-person biometric capture (fingerprints, iris, photograph
 ---
 
 *Disclaimer: This guide is for informational purposes only. CitizenNest is not affiliated with UIDAI. Visit [uidai.gov.in](https://uidai.gov.in) for official information.*
+
+## Related Aadhaar Guides
+
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Find Nearest Aadhaar Centre — Google Maps, UIDAI Portal, Aadhaar Seva Kendra](/guide/find-nearest-aadhaar-centre-google-maps)
+- [How to Retrieve Lost or Forgotten Aadhaar Number — Complete Guide](/guide/lost-aadhaar-card-retrieval)
+- [Aadhaar Enrollment ID Lost — How to Retrieve It](/guide/aadhaar-enrollment-id-lost-retrieve-fix)

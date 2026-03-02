@@ -229,10 +229,13 @@ Mobile OTPs usually arrive within 10–60 seconds. Email OTPs may take 1–5 min
 
 No. IRCTC does not allow reusing your last 3 passwords. You must choose a new one each time.
 
-## Related Guides
+## Related IRCTC Guides
 
-- [IRCTC Login Problems — Complete Fix Guide](/guide/irctc-account-login-problems-fix)
-- [IRCTC Account Locked — How to Unlock](/guide/irctc-account-locked-unlock-fix)
+- [IRCTC Login Not Working? Fix Password, OTP & Account Issues](/guide/irctc-account-login-problems-fix)
+- [IRCTC Account Locked — How to Unlock It](/guide/irctc-account-locked-unlock-fix)
+- [IRCTC OTP Not Received? How to Fix OTP Problems](/guide/irctc-otp-not-received-fix)
+- [IRCTC Tatkal Ticket Booking Not Working — How to Fix](/guide/irctc-tatkal-booking-not-working-fix)
+- [How to Check Train PNR Status, Book Ticket & Cancel](/guide/irctc-train-ticket-pnr-status)
 
 ---
 

@@ -227,3 +227,11 @@ No. Unlocking requires OTP sent to your registered mobile number. As long as you
 - [Aadhaar Biometric Verification Failed — How to Fix](/guides/aadhaar-biometric-verification-failed-fix)
 - [Aadhaar OTP Not Received — How to Fix](/guides/aadhaar-otp-not-received-fix)
 - [Aadhaar Biometric Lock & Unlock — Complete Guide](/guides/aadhaar-biometric-lock-unlock)
+
+## Related Aadhaar Guides
+
+- [Aadhaar Fingerprint Not Matching? Fix Biometric Verification Failed](/guide/aadhaar-biometric-verification-failed-fix)
+- [Aadhaar Face Authentication Failed — How to Fix Face Match Errors](/guide/aadhaar-face-authentication-failed-fix)
+- [Aadhaar Biometric Lock & Unlock](/guide/aadhaar-biometric-lock-unlock)
+- [Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP](/guide/aadhaar-otp-not-received-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)

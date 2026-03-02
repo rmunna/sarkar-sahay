@@ -173,3 +173,11 @@ Yes. e-Aadhaar is legally valid and accepted everywhere the physical Aadhaar car
 - [ ] File grievance at [UIDAI Grievance Portal](https://uidai.gov.in/en/contact-support/grievance-redressal.html) or call **1947**
 - [ ] Download [e-Aadhaar](https://eaadhaar.uidai.gov.in) as an immediate alternative
 - [ ] Reorder from [myAadhaar](https://myaadhaar.uidai.gov.in/orderpvc) if needed (₹50)
+
+## Related Aadhaar Guides
+
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [Aadhaar Card Download Not Working — How to Fix Guide)](/guide/aadhaar-card-download-not-working-fix)
+- [How to Download e-Aadhaar Card Online](/guide/download-e-aadhaar-card-online)
+- [How to Order Aadhaar PVC Card Online — Plastic Aadhaar Card](/guide/aadhaar-pvc-card-order-online)
+- [Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP](/guide/aadhaar-otp-not-received-fix)

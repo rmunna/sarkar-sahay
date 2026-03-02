@@ -175,6 +175,16 @@ Contact if:
 6. **Delete old registration** when moving — submit Form 7 for old constituency simultaneously with Form 6 for new constituency
 7. **Link Aadhaar with voter ID** — see [Aadhaar-Voter ID linking guide](/guide/aadhaar-voter-id-linking-online) for benefits
 
+
+## Related Voter ID Guides
+
+- [Voter ID First Time Registration](/guide/voter-id-first-time-registration)
+- [How to Apply for Voter ID Card Online](/guide/voter-id-card-apply-online)
+- [Voter ID Correction Online](/guide/voter-id-correction-online)
+- [Voter ID Status Check Online](/guide/voter-id-status-check-online)
+- [Delete Duplicate Voter ID Entry](/guide/voter-id-duplicate-entry-delete-fix)
+- [Download e-EPIC Digital Voter ID](/guide/e-epic-digital-voter-id-download-guide)
+
 ---
 
 ## Related Guides

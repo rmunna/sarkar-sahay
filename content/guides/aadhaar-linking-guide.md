@@ -356,3 +356,11 @@ Make sure your **Aadhaar is also linked with your bank account** (the same bank 
 - [EPF/PF Withdrawal Online](/guide/epf-pf-withdrawal-online)
 - [LPG Subsidy & Ujjwala Yojana](/guide/lpg-subsidy-ujjwala-yojana)
 - [How to Apply for Ration Card](/guide/ration-card-apply-online)
+
+## Related Aadhaar Guides
+
+- [How to Link Aadhaar with PAN Card — Step-by-Step Guide](/guide/aadhaar-pan-link)
+- [PAN Aadhaar Link Failed — How to Fix Every Error](/guide/pan-aadhaar-link-failed-fix)
+- [PAN-Aadhaar Link Failed: Common Errors and How to Fix](/guide/pan-aadhaar-link-failed-common-errors)
+- [Aadhaar vs PAN Card — Key Differences, Uses, and When You Need Which](/guide/aadhaar-vs-pan-difference)
+- [How to Link Aadhaar with Voter ID (EPIC) Online — Step-by-Step Guide](/guide/aadhaar-voter-id-linking-online)

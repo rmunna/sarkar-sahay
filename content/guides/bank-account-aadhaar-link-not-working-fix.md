@@ -273,3 +273,11 @@ It is mandatory for receiving DBT subsidies and benefits. The government also re
 
 - [PAN Aadhaar Link Failed — How to Fix](/guides/pan-aadhaar-link-failed-fix)
 - [Aadhaar OTP Not Received — Quick Fixes](/guides/aadhaar-otp-not-received-fix)
+
+## Related Aadhaar Guides
+
+- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
+- [How to Link Aadhaar with PAN Card — Step-by-Step Guide](/guide/aadhaar-pan-link)
+- [How to Link Aadhaar with Voter ID (EPIC) Online — Step-by-Step Guide](/guide/aadhaar-voter-id-linking-online)
+- [Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP](/guide/aadhaar-otp-not-received-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)

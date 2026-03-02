@@ -179,3 +179,11 @@ A: Having two PANs is illegal. Surrender the duplicate PAN using Form 49A on the
 - [Download e-PAN Card Online](/guide/download-e-pan-card-online)
 - [Apply for Aadhaar Card Online](/guide/aadhaar-card-apply-online)
 - [PAN Card Correction Online](/guide/pan-card-correction-online)
+
+## Related Aadhaar Guides
+
+- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
+- [PAN Aadhaar Link Failed — How to Fix Every Error](/guide/pan-aadhaar-link-failed-fix)
+- [PAN-Aadhaar Link Failed: Common Errors and How to Fix](/guide/pan-aadhaar-link-failed-common-errors)
+- [Aadhaar vs PAN Card — Key Differences, Uses, and When You Need Which](/guide/aadhaar-vs-pan-difference)
+- [How to Link Aadhaar with Voter ID (EPIC) Online — Step-by-Step Guide](/guide/aadhaar-voter-id-linking-online)

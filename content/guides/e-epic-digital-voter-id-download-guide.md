@@ -213,6 +213,15 @@ If your name, photo, or other details are incorrect in the e-EPIC, you need to a
 
 No. e-EPIC can only be downloaded by the voter themselves after OTP verification on their registered mobile number. Each voter must download their own e-EPIC.
 
+
+## Related Voter ID Guides
+
+- [Voter ID Application Rejected — How to Fix](/guide/voter-id-application-rejected-fix)
+- [Voter ID Download Not Working — Fix](/guide/voter-id-download-not-working-fix)
+- [Voter ID Verification Online](/guide/voter-id-verification-online)
+- [How to Apply for Voter ID Card Online](/guide/voter-id-card-apply-online)
+- [Voter ID Name, Photo or DOB Wrong — How to Fix](/guide/voter-id-name-photo-dob-wrong-fix)
+
 ---
 
 *Disclaimer: CitizenNest is an independent informational platform and is not affiliated with the Election Commission of India or any government body. Information is compiled from official sources and may change. Always verify current details on [voters.eci.gov.in](https://voters.eci.gov.in/).*

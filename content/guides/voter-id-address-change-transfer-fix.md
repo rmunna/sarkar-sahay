@@ -232,6 +232,15 @@ Voter ID transfer is **completely free**. There is **no charge** for Form 6 or F
 
 You can also track via the **Voter Helpline App** or by calling **1950**.
 
+
+## Related Voter ID Guides
+
+- [Voter ID Application Rejected — How to Fix](/guide/voter-id-application-rejected-fix)
+- [Voter ID Correction Online](/guide/voter-id-correction-online)
+- [Voter ID Name, Photo or DOB Wrong — How to Fix](/guide/voter-id-name-photo-dob-wrong-fix)
+- [Delete Duplicate Voter ID Entry](/guide/voter-id-duplicate-entry-delete-fix)
+- [Voter ID Status Check Online](/guide/voter-id-status-check-online)
+
 ---
 
 ## Related Guides

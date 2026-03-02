@@ -221,3 +221,11 @@ OTP (One-Time Password) is sent via SMS to your registered mobile number. TOTP (
 ### How long is an Aadhaar OTP valid?
 
 Aadhaar OTP is valid for 10 minutes from the time of generation. If you do not enter it within this window, you must request a new OTP. TOTP refreshes every 30 seconds and must be used within that window.
+
+## Related Aadhaar Guides
+
+- [How to Update Mobile Number and Email in Aadhaar — Complete Guide](/guide/aadhaar-update-mobile-email)
+- [How to Change Mobile Number in Aadhaar Card — Step-by-Step Guide](/guide/change-mobile-number-in-aadhaar-card)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)

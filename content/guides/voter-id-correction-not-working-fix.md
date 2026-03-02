@@ -224,6 +224,15 @@ If none of the above solutions work:
 3. **Email your state CEO office** — Find email addresses on [eci.gov.in](https://eci.gov.in/)
 4. **Visit the ERO office in person** — This remains the most reliable method for corrections
 
+
+## Related Voter ID Guides
+
+- [Voter ID Application Rejected — How to Fix](/guide/voter-id-application-rejected-fix)
+- [Voter ID Name, Photo or DOB Wrong — How to Fix](/guide/voter-id-name-photo-dob-wrong-fix)
+- [Voter ID Correction Online](/guide/voter-id-correction-online)
+- [Voter ID Address Change / Transfer](/guide/voter-id-address-change-transfer-fix)
+- [Voter ID Download Not Working — Fix](/guide/voter-id-download-not-working-fix)
+
 ---
 
 *Last verified: July 2025. Voter ID correction is processed by the Election Commission of India through the NVSP portal and local ERO offices.*

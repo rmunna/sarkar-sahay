@@ -256,3 +256,11 @@ Ensure your documents are originals and match the UIDAI-approved list. If a vali
 ### Can I update my Aadhaar online instead of visiting a centre?
 
 Some updates like address, mobile number, and email can be done online at [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in). However, biometric updates (fingerprint, iris, photo) require a physical visit to a centre. See our [Aadhaar update guides](/guide/aadhaar-update-mobile-email) for details.
+
+## Related Aadhaar Guides
+
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [Tatkal Aadhaar Enrollment — Fast-Track Aadhaar Application Guide](/guide/tatkal-aadhaar-enrollment)
+- [How to Retrieve Lost or Forgotten Aadhaar Number — Complete Guide](/guide/lost-aadhaar-card-retrieval)
+- [Aadhaar Enrollment ID Lost — How to Retrieve It](/guide/aadhaar-enrollment-id-lost-retrieve-fix)

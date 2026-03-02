@@ -226,10 +226,13 @@ Clear browser cache, disable ad blockers, and try the IRCTC app which has a simp
 
 ---
 
-## Related Guides
+## Related IRCTC Guides
 
-- [IRCTC Account Login Problems — How to Fix](/guide/irctc-account-login-problems-fix)
-- [IRCTC Ticket Refund Not Received — How to Fix](/guide/irctc-ticket-refund-not-received-fix)
+- [IRCTC Login Not Working? Fix Password, OTP & Account Issues](/guide/irctc-account-login-problems-fix)
+- [IRCTC OTP Not Received? How to Fix OTP Problems](/guide/irctc-otp-not-received-fix)
+- [IRCTC Payment Deducted But Ticket Not Booked — How to Get Refund](/guide/irctc-payment-deducted-ticket-not-booked-fix)
+- [IRCTC Ticket Cancellation Refund Not Received — How to Fix](/guide/irctc-ticket-refund-not-received-fix)
+- [How to Check Train PNR Status, Book Ticket & Cancel](/guide/irctc-train-ticket-pnr-status)
 
 ---
 

@@ -145,3 +145,11 @@ Yes, NRIs can update by visiting an Aadhaar centre when in India. An Indian mobi
 ---
 
 *This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with UIDAI or the Government of India. Always verify the latest details on the [official UIDAI website](https://uidai.gov.in).*
+
+## Related Aadhaar Guides
+
+- [Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP](/guide/aadhaar-otp-not-received-fix)
+- [How to Change Mobile Number in Aadhaar Card — Step-by-Step Guide](/guide/change-mobile-number-in-aadhaar-card)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)

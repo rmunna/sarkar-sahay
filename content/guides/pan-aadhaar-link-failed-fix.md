@@ -217,3 +217,11 @@ NRIs who do not have an Aadhaar number are currently exempt from this requiremen
 ### Can I link PAN-Aadhaar offline?
 
 You can visit any designated PAN service centre (NSDL TIN-FC or UTIITSL) with your PAN card, Aadhaar card, and the ₹1,000 fee payment challan to request linking assistance.
+
+## Related Aadhaar Guides
+
+- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
+- [How to Link Aadhaar with PAN Card — Step-by-Step Guide](/guide/aadhaar-pan-link)
+- [PAN-Aadhaar Link Failed: Common Errors and How to Fix](/guide/pan-aadhaar-link-failed-common-errors)
+- [Aadhaar vs PAN Card — Key Differences, Uses, and When You Need Which](/guide/aadhaar-vs-pan-difference)
+- [Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP](/guide/aadhaar-otp-not-received-fix)

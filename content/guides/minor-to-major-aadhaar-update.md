@@ -201,3 +201,11 @@ There is no upper age limit. Any Aadhaar holder can update their biometrics at a
 ---
 
 *Disclaimer: This guide is for informational purposes only and is based on publicly available information from UIDAI (uidai.gov.in). Policies and fees may change. Always verify the latest details on the official UIDAI website or by calling the toll-free helpline at 1947. CitizenNest is not affiliated with UIDAI or the Government of India.*
+
+## Related Aadhaar Guides
+
+- [Baal Aadhaar Card — How to Apply for Child Aadhaar Below 5 Years](/guide/baal-aadhaar-child-aadhaar-card)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+- [Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP](/guide/aadhaar-otp-not-received-fix)
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)

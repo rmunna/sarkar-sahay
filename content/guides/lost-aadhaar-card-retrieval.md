@@ -114,3 +114,11 @@ Yes, a parent or guardian can retrieve a child's Aadhaar using the same methods.
 ---
 
 *This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with UIDAI or the Government of India. Always verify the latest details on the [official UIDAI website](https://uidai.gov.in).*
+
+## Related Aadhaar Guides
+
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [Tatkal Aadhaar Enrollment — Fast-Track Aadhaar Application Guide](/guide/tatkal-aadhaar-enrollment)
+- [How to Find Nearest Aadhaar Centre — Google Maps, UIDAI Portal, Aadhaar Seva Kendra](/guide/find-nearest-aadhaar-centre-google-maps)
+- [Aadhaar Enrollment ID Lost — How to Retrieve It](/guide/aadhaar-enrollment-id-lost-retrieve-fix)

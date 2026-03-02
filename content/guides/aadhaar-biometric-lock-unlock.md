@@ -253,3 +253,11 @@ With biometrics locked, no one can perform biometric-based authentication using 
 ### What should I do if I find unauthorized authentication in my history?
 
 Immediately lock your biometrics, file a complaint with UIDAI via their helpline (1947) or website, and lodge a police complaint if financial fraud is involved. Save screenshots of the unauthorized authentication records as evidence.
+
+## Related Aadhaar Guides
+
+- [Aadhaar Biometric Lock Not Working? How to Fix Lock/Unlock Errors](/guide/aadhaar-biometric-lock-not-working-fix)
+- [Aadhaar Fingerprint Not Matching? Fix Biometric Verification Failed](/guide/aadhaar-biometric-verification-failed-fix)
+- [Aadhaar Face Authentication Failed — How to Fix Face Match Errors](/guide/aadhaar-face-authentication-failed-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)

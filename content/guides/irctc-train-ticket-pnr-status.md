@@ -325,6 +325,14 @@ You can book train tickets **120 days (4 months) in advance**, excluding the dat
 
 ---
 
+## Related IRCTC Guides
+
+- [IRCTC Login Not Working? Fix Password, OTP & Account Issues](/guide/irctc-account-login-problems-fix)
+- [IRCTC Tatkal Ticket Booking Not Working — How to Fix](/guide/irctc-tatkal-booking-not-working-fix)
+- [IRCTC Payment Deducted But Ticket Not Booked — How to Get Refund](/guide/irctc-payment-deducted-ticket-not-booked-fix)
+- [IRCTC Ticket Cancellation Refund Not Received — How to Fix](/guide/irctc-ticket-refund-not-received-fix)
+- [IRCTC OTP Not Received? How to Fix OTP Problems](/guide/irctc-otp-not-received-fix)
+
 ## You May Also Need
 
 - [Passport Apply Online](/guide/passport-apply-online)

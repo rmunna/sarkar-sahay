@@ -181,3 +181,11 @@ No. Since biometric verification is required at the centre, **you must visit in 
 - **Book Appointment:** [appointments.uidai.gov.in](https://appointments.uidai.gov.in)
 - **Locate Aadhaar Centre:** [appointments.uidai.gov.in/easearch.aspx](https://appointments.uidai.gov.in/easearch.aspx)
 - **UIDAI Helpline:** 1947 (toll-free)
+
+## Related Aadhaar Guides
+
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [Tatkal Aadhaar Enrollment — Fast-Track Aadhaar Application Guide](/guide/tatkal-aadhaar-enrollment)
+- [How to Find Nearest Aadhaar Centre — Google Maps, UIDAI Portal, Aadhaar Seva Kendra](/guide/find-nearest-aadhaar-centre-google-maps)
+- [How to Retrieve Lost or Forgotten Aadhaar Number — Complete Guide](/guide/lost-aadhaar-card-retrieval)

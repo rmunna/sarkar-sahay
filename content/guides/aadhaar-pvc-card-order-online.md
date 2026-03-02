@@ -186,3 +186,11 @@ The PVC card is printed with the details **already stored in your Aadhaar record
 ---
 
 *Last updated: February 2026. Information sourced from [UIDAI official website](https://uidai.gov.in). For the latest details, always check the official portal.*
+
+## Related Aadhaar Guides
+
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [How to Download e-Aadhaar Card Online](/guide/download-e-aadhaar-card-online)
+- [Aadhaar Card Download Not Working — How to Fix Guide)](/guide/aadhaar-card-download-not-working-fix)
+- [Aadhaar PVC Card Order Not Delivered — How to Fix](/guide/aadhaar-pvc-card-not-delivered-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)

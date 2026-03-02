@@ -195,6 +195,15 @@ Log in to [voters.eci.gov.in](https://voters.eci.gov.in) and go to **"Track Appl
 
 You will receive the rejection reason via SMS or on the portal. Common reasons include incomplete documents or failed verification. Fix the issue and resubmit Form 6.
 
+
+## Related Voter ID Guides
+
+- [Voter ID Application Rejected — How to Fix](/guide/voter-id-application-rejected-fix)
+- [How to Apply for Voter ID Card Online](/guide/voter-id-card-apply-online)
+- [Voter ID Status Check Online](/guide/voter-id-status-check-online)
+- [Download e-EPIC Digital Voter ID](/guide/e-epic-digital-voter-id-download-guide)
+- [Link Aadhaar with Voter ID](/guide/aadhaar-voter-id-linking-online)
+
 ## Related Guides
 
 - [How to Apply for Voter ID Card Online](/guide/voter-id-card-apply-online)

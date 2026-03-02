@@ -211,3 +211,11 @@ If both fingerprint and iris scans fail, use OTP-based authentication for the cu
 ### Can someone misuse my Aadhaar biometrics?
 
 To prevent misuse, always keep your [biometrics locked](/guide/aadhaar-biometric-lock-unlock) and unlock only when you need authentication. This way, even if someone has access to a biometric device, they cannot authenticate using your Aadhaar.
+
+## Related Aadhaar Guides
+
+- [Aadhaar Biometric Lock Not Working? How to Fix Lock/Unlock Errors](/guide/aadhaar-biometric-lock-not-working-fix)
+- [Aadhaar Face Authentication Failed — How to Fix Face Match Errors](/guide/aadhaar-face-authentication-failed-fix)
+- [Aadhaar Biometric Lock & Unlock](/guide/aadhaar-biometric-lock-unlock)
+- [Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP](/guide/aadhaar-otp-not-received-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)

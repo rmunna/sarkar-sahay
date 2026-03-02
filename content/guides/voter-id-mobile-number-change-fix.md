@@ -179,6 +179,15 @@ Yes, the same mobile number can be linked to multiple Voter IDs (for example, fa
 
 When you try to login at [voters.eci.gov.in](https://voters.eci.gov.in/), the system will show a **partially masked version** of your registered number (e.g., ******7890). This helps you identify which number is currently linked.
 
+
+## Related Voter ID Guides
+
+- [Voter ID Application Rejected — How to Fix](/guide/voter-id-application-rejected-fix)
+- [Voter ID Download Not Working — Fix](/guide/voter-id-download-not-working-fix)
+- [Voter ID Correction Online](/guide/voter-id-correction-online)
+- [Voter ID Verification Online](/guide/voter-id-verification-online)
+- [Link Aadhaar with Voter ID](/guide/aadhaar-voter-id-linking-online)
+
 ## Related Guides
 
 - [Voter ID Download Not Working — How to Fix](/guide/voter-id-download-not-working-fix)

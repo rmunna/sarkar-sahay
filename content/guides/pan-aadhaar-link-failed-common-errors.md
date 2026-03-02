@@ -208,3 +208,11 @@ Having two PANs is illegal under the Income Tax Act. Surrender the duplicate PAN
 ### Can NRIs skip PAN-Aadhaar linking?
 
 Aadhaar-PAN linking is mandatory for all PAN holders who are eligible for Aadhaar. NRIs who do not have Aadhaar are currently exempt, but should check the latest CBDT notifications.
+
+## Related Aadhaar Guides
+
+- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
+- [How to Link Aadhaar with PAN Card — Step-by-Step Guide](/guide/aadhaar-pan-link)
+- [PAN Aadhaar Link Failed — How to Fix Every Error](/guide/pan-aadhaar-link-failed-fix)
+- [Aadhaar vs PAN Card — Key Differences, Uses, and When You Need Which](/guide/aadhaar-vs-pan-difference)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)

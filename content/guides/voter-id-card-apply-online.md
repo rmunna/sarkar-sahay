@@ -152,6 +152,15 @@ A: No. You can only be registered as a voter in one constituency. If you move, f
 **Q: What if I lost my Voter ID card?**
 A: Download e-EPIC from voters.eci.gov.in. For physical card reprint, apply through the NVSP portal or contact your local ERO office.
 
+
+## Related Voter ID Guides
+
+- [Voter ID Application Rejected — How to Fix](/guide/voter-id-application-rejected-fix)
+- [Voter ID First Time Registration](/guide/voter-id-first-time-registration)
+- [Voter ID Status Check Online](/guide/voter-id-status-check-online)
+- [Download e-EPIC Digital Voter ID](/guide/e-epic-digital-voter-id-download-guide)
+- [Link Aadhaar with Voter ID](/guide/aadhaar-voter-id-linking-online)
+
 ---
 
 ## You May Also Need

@@ -183,13 +183,14 @@ If payment failures are causing the issue:
 
 ---
 
-## Related Guides
+## Related IRCTC Guides
 
-- [IRCTC Tatkal Ticket Booking Tips](/guide/irctc-account-login-problems-fix)
-- [UMANG App Not Working Fix](/guide/umang-app-not-working-fix)
-- [Aadhaar OTP Not Received Fix](/guide/aadhaar-otp-not-received-fix)
-- [UPI Payment Failed Fix](/guide/upi-payment-setup-guide)
-- [FASTag Recharge Failed Fix](/guide/fastag-recharge-failed-fix)
+- [IRCTC Account Locked — How to Unlock It](/guide/irctc-account-locked-unlock-fix)
+- [IRCTC Forgot Password — How to Reset Step by Step](/guide/irctc-forgot-password-reset-fix)
+- [IRCTC OTP Not Received? How to Fix OTP Problems](/guide/irctc-otp-not-received-fix)
+- [IRCTC Tatkal Ticket Booking Not Working — How to Fix](/guide/irctc-tatkal-booking-not-working-fix)
+- [IRCTC Payment Deducted But Ticket Not Booked — How to Get Refund](/guide/irctc-payment-deducted-ticket-not-booked-fix)
+- [How to Check Train PNR Status, Book Ticket & Cancel](/guide/irctc-train-ticket-pnr-status)
 
 ---
 

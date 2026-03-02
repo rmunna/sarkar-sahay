@@ -190,3 +190,11 @@ Yes, you can re-apply right away. Fix the issue that caused rejection — typica
 
 ### Is the ₹50 fee refunded if my update is rejected?
 No, the fee is non-refundable regardless of the outcome. Ensure your documents are correct before submitting.
+
+## Related Aadhaar Guides
+
+- [Aadhaar Address Update Rejected — Reasons & Fix](/guide/aadhaar-address-update-rejected-fix)
+- [How to Change Address in Aadhaar Card Online and Offline](/guide/aadhaar-address-change-online)
+- [Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP](/guide/aadhaar-otp-not-received-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)

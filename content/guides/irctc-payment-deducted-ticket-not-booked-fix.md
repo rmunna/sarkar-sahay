@@ -164,10 +164,13 @@ Raise a complaint on [RailMadad](https://railmadad.indianrailways.gov.in) and si
 ### Q7: Does IRCTC refund the convenience fee for failed transactions?
 Yes, for completely failed transactions (ticket not booked), the full amount including convenience fee is refunded.
 
-## Related Guides
+## Related IRCTC Guides
 
-- [IRCTC Ticket Refund Not Received — What to Do](/guide/irctc-ticket-refund-not-received-fix)
-- [IRCTC Tatkal Booking Not Working — How to Fix](/guide/irctc-tatkal-booking-not-working-fix)
+- [IRCTC Ticket Cancellation Refund Not Received — How to Fix](/guide/irctc-ticket-refund-not-received-fix)
+- [IRCTC Tatkal Ticket Booking Not Working — How to Fix](/guide/irctc-tatkal-booking-not-working-fix)
+- [IRCTC Login Not Working? Fix Password, OTP & Account Issues](/guide/irctc-account-login-problems-fix)
+- [IRCTC OTP Not Received? How to Fix OTP Problems](/guide/irctc-otp-not-received-fix)
+- [How to Check Train PNR Status, Book Ticket & Cancel](/guide/irctc-train-ticket-pnr-status)
 
 ---
 

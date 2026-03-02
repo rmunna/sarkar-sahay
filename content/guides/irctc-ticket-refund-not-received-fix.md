@@ -291,9 +291,13 @@ If you can't log in to cancel your ticket, first fix the login issue. See our gu
 
 No. E-tickets booked on IRCTC can only be cancelled online through the IRCTC website or app. Counter tickets can only be cancelled at PRS counters.
 
-## Related Guides
+## Related IRCTC Guides
 
-- [IRCTC Account Login Problems — How to Fix](/guides/irctc-account-login-problems-fix)
+- [IRCTC Payment Deducted But Ticket Not Booked — How to Get Refund](/guide/irctc-payment-deducted-ticket-not-booked-fix)
+- [IRCTC Tatkal Ticket Booking Not Working — How to Fix](/guide/irctc-tatkal-booking-not-working-fix)
+- [IRCTC Login Not Working? Fix Password, OTP & Account Issues](/guide/irctc-account-login-problems-fix)
+- [How to Check Train PNR Status, Book Ticket & Cancel](/guide/irctc-train-ticket-pnr-status)
+- [IRCTC OTP Not Received? How to Fix OTP Problems](/guide/irctc-otp-not-received-fix)
 
 ## Official Resources
 

@@ -151,3 +151,11 @@ Aadhaar is more secure due to biometric authentication (fingerprint + iris), mak
 ---
 
 *Disclaimer: CitizenNest is an independent platform and is not affiliated with any government body. Information is for educational purposes. Verify details on official government websites before taking action.*
+
+## Related Aadhaar Guides
+
+- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
+- [How to Link Aadhaar with PAN Card — Step-by-Step Guide](/guide/aadhaar-pan-link)
+- [PAN Aadhaar Link Failed — How to Fix Every Error](/guide/pan-aadhaar-link-failed-fix)
+- [PAN-Aadhaar Link Failed: Common Errors and How to Fix](/guide/pan-aadhaar-link-failed-common-errors)
+- [Aadhaar vs Voter ID vs Passport – Which ID Proof to Use and When](/guide/aadhaar-vs-voter-id-vs-passport-id-proof)

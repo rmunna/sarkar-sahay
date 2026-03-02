@@ -210,3 +210,11 @@ A: Yes, e-Aadhaar downloaded from the UIDAI website is equally valid as the phys
 - [Link Aadhaar with PAN Card](/guide/aadhaar-pan-link)
 - [Download e-Aadhaar Card Online](/guide/download-e-aadhaar-card-online)
 - [Change Address in Aadhaar Online](/guide/aadhaar-address-change-online)
+
+## Related Aadhaar Guides
+
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [Tatkal Aadhaar Enrollment — Fast-Track Aadhaar Application Guide](/guide/tatkal-aadhaar-enrollment)
+- [How to Find Nearest Aadhaar Centre — Google Maps, UIDAI Portal, Aadhaar Seva Kendra](/guide/find-nearest-aadhaar-centre-google-maps)
+- [How to Retrieve Lost or Forgotten Aadhaar Number — Complete Guide](/guide/lost-aadhaar-card-retrieval)
+- [Aadhaar Enrollment ID Lost — How to Retrieve It](/guide/aadhaar-enrollment-id-lost-retrieve-fix)

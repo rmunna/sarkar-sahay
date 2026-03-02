@@ -195,3 +195,11 @@ A: This is a known issue. Visit an Aadhaar Enrolment Centre with your old Aadhaa
 
 - [Aadhaar Address Update Rejected — Reasons & Fix](/guides/aadhaar-address-update-rejected-fix)
 - [Aadhaar Mobile Number Update — How to Fix](/guides/aadhar-mobile-number-update-fix)
+
+## Related Aadhaar Guides
+
+- [How to Correct Name in Aadhaar Card Online](/guide/aadhaar-name-correction-online)
+- [Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP](/guide/aadhaar-otp-not-received-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)
