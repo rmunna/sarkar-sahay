@@ -1,6 +1,6 @@
 ---
 title: "UPSC vs State PSC — Difficulty, Salary & Success Rate Compared"
-description: "UPSC or State PSC — which is easier? Compare difficulty level, salary (₹56K vs ₹45K), success rate (0.1% vs 2%), syllabus & career growth side by side."
+description: "UPSC vs State PSC — which should you pick? Compare difficulty (0.1% vs 2% success rate), salary ₹56K vs ₹45K, syllabus & career growth. Decide now."
 category: Jobs & Exams
 keywords:
   - upsc vs state psc

@@ -1,32 +1,41 @@
 {
-  "scannedAt": "2026-03-02T15:49:04.653Z",
+  "scannedAt": "2026-03-03T14:44:59.497Z",
   "govtTrends": [
     {
-      "title": "dear lottery",
+      "title": "copa del rey",
       "traffic": "5000+",
-      "pubDate": "Mon, 2 Mar 2026 06:50:00 -0800",
-      "newsTitle": "Nagaland lottery results live for Dear Wish Sunday (March 1, 2026): ₹1 crore winning number and others her",
+      "pubDate": "Tue, 3 Mar 2026 06:20:00 -0800",
+      "newsTitle": "✅ Misión remontada. La lista de Flick para el milagro ante el Atlético",
       "source": "google_trends",
-      "suggestedSlug": "dear-lottery",
+      "suggestedSlug": "copa-del-rey",
       "guideExists": false
     },
     {
-      "title": "nbems",
-      "traffic": "1000+",
-      "pubDate": "Mon, 2 Mar 2026 06:50:00 -0800",
-      "newsTitle": "Education News | ⚡GPAT 2026 Admit Card Soon at natboard.edu.in",
+      "title": "t 20 2026 world cup",
+      "traffic": "500+",
+      "pubDate": "Tue, 3 Mar 2026 06:00:00 -0800",
+      "newsTitle": "Match officials for T20 World Cup 2026 semi-finals announced",
       "source": "google_trends",
-      "suggestedSlug": "nbems",
+      "suggestedSlug": "t-20-2026-world-cup",
       "guideExists": false
     },
     {
-      "title": "10th class hall ticket 2026",
-      "traffic": "5000+",
-      "pubDate": "Mon, 2 Mar 2026 06:20:00 -0800",
-      "newsTitle": "AP SSC Public Exams 2026 Hall Tickets Out: How to download from bse.ap.gov.in",
+      "title": "t20 match schedule",
+      "traffic": "200+",
+      "pubDate": "Tue, 3 Mar 2026 05:40:00 -0800",
+      "newsTitle": "Sam Curran insists India T20 World Cup semi-final holds ‘no fear’ for England",
       "source": "google_trends",
-      "suggestedSlug": "10th-class-hall-ticket-2026",
-      "guideExists": true
+      "suggestedSlug": "t20-match-schedule",
+      "guideExists": false
+    },
+    {
+      "title": "garan",
+      "traffic": "200+",
+      "pubDate": "Tue, 3 Mar 2026 05:20:00 -0800",
+      "newsTitle": "GARANTİ BANKASI (GARAN) 03 Mart Salı 2026 Günlük Teknik Analiz",
+      "source": "google_trends",
+      "suggestedSlug": "garan",
+      "guideExists": false
     }
   ],
   "totalTrends": 10

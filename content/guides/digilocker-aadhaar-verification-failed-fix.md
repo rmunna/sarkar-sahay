@@ -1,6 +1,6 @@
 ---
-title: "DigiLocker Aadhaar Verification Failed — How to Fix (2 Minute Guide)"
-description: "DigiLocker showing 'Aadhaar verification failed'? Quick fix for OTP errors, name mismatch, KYC failures & sign-up issues. Works for DigiLocker app and web portal."
+title: "DigiLocker Aadhaar Already Registered Error — Fix Now"
+description: "DigiLocker showing 'Aadhaar already registered' or KYC failure? Fix refused to connect, verification failed & sign-up errors. Quick working solutions."
 category: "Utilities"
 keywords:
   - digilocker aadhaar verification failed

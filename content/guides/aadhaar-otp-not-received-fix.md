@@ -1,6 +1,6 @@
 ---
-title: "Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP"
-description: "Aadhaar OTP not received even after multiple attempts? Fix UIDAI OTP issues — covers DND block, OTP limit exceeded, wrong mobile number linked, and e-KYC failures with working solutions."
+title: "Aadhaar OTP Not Coming? Fix OTP Limit Exceeded Error"
+description: "Aadhaar OTP not received or limit exceeded? Fix UIDAI OTP issues — DND block, wrong mobile number, e-KYC failures. 8 working solutions to try now."
 category: "Identity Documents"
 keywords:
   - aadhaar otp not received

@@ -1,6 +1,213 @@
 {
-  "scannedAt": "2026-03-02T21:19:03.986128",
-  "results": [],
-  "opportunities": [],
-  "covered": []
+  "scannedAt": "2026-03-03T20:14:58.526980",
+  "results": [
+    {
+      "topic": "icai result",
+      "category": "Jobs",
+      "rising_value": 1400,
+      "guide_exists": null
+    },
+    {
+      "topic": "icai result jan 2026",
+      "category": "Jobs",
+      "rising_value": 1100,
+      "guide_exists": null
+    },
+    {
+      "topic": "ca final result",
+      "category": "Jobs",
+      "rising_value": 1000,
+      "guide_exists": null
+    },
+    {
+      "topic": "ap ssc hall ticket download 2026",
+      "category": "Jobs",
+      "rising_value": 1000,
+      "guide_exists": "ssc-exam-apply-hall-ticket"
+    },
+    {
+      "topic": "sainik school result 2026",
+      "category": "Jobs",
+      "rising_value": 750,
+      "guide_exists": "sainik-school-aissee-result-2026"
+    },
+    {
+      "topic": "madras university result",
+      "category": "Jobs",
+      "rising_value": 700,
+      "guide_exists": "madras-university-result-2026"
+    },
+    {
+      "topic": "kvs nvs result 2026",
+      "category": "Jobs",
+      "rising_value": 450,
+      "guide_exists": "kvs-nvs-recruitment-result-2026"
+    },
+    {
+      "topic": "kvs nvs result",
+      "category": "Jobs",
+      "rising_value": 400,
+      "guide_exists": "kvs-nvs-recruitment-result-2026"
+    },
+    {
+      "topic": "madras university result 2026",
+      "category": "Jobs",
+      "rising_value": 400,
+      "guide_exists": "madras-university-result-2026"
+    },
+    {
+      "topic": "sarkari job marg",
+      "category": "Jobs",
+      "rising_value": 350,
+      "guide_exists": null
+    },
+    {
+      "topic": "sarkari stop",
+      "category": "Jobs",
+      "rising_value": 200,
+      "guide_exists": null
+    },
+    {
+      "topic": "icai",
+      "category": "Jobs",
+      "rising_value": 190,
+      "guide_exists": null
+    },
+    {
+      "topic": "vtu results",
+      "category": "Jobs",
+      "rising_value": 180,
+      "guide_exists": null
+    },
+    {
+      "topic": "osm cbse login",
+      "category": "Jobs",
+      "rising_value": 140,
+      "guide_exists": "cbse-on-screen-marking-osm-login-guide"
+    },
+    {
+      "topic": "cbse on screen marking",
+      "category": "Jobs",
+      "rising_value": 70,
+      "guide_exists": "cbse-on-screen-marking-osm-login-guide"
+    },
+    {
+      "topic": "tnpsc",
+      "category": "Jobs",
+      "rising_value": 70,
+      "guide_exists": null
+    },
+    {
+      "topic": "kpsc",
+      "category": "Jobs",
+      "rising_value": 50,
+      "guide_exists": null
+    }
+  ],
+  "opportunities": [
+    {
+      "topic": "icai result",
+      "category": "Jobs",
+      "rising_value": 1400,
+      "guide_exists": null
+    },
+    {
+      "topic": "icai result jan 2026",
+      "category": "Jobs",
+      "rising_value": 1100,
+      "guide_exists": null
+    },
+    {
+      "topic": "ca final result",
+      "category": "Jobs",
+      "rising_value": 1000,
+      "guide_exists": null
+    },
+    {
+      "topic": "sarkari job marg",
+      "category": "Jobs",
+      "rising_value": 350,
+      "guide_exists": null
+    },
+    {
+      "topic": "sarkari stop",
+      "category": "Jobs",
+      "rising_value": 200,
+      "guide_exists": null
+    },
+    {
+      "topic": "icai",
+      "category": "Jobs",
+      "rising_value": 190,
+      "guide_exists": null
+    },
+    {
+      "topic": "vtu results",
+      "category": "Jobs",
+      "rising_value": 180,
+      "guide_exists": null
+    },
+    {
+      "topic": "tnpsc",
+      "category": "Jobs",
+      "rising_value": 70,
+      "guide_exists": null
+    },
+    {
+      "topic": "kpsc",
+      "category": "Jobs",
+      "rising_value": 50,
+      "guide_exists": null
+    }
+  ],
+  "covered": [
+    {
+      "topic": "ap ssc hall ticket download 2026",
+      "category": "Jobs",
+      "rising_value": 1000,
+      "guide_exists": "ssc-exam-apply-hall-ticket"
+    },
+    {
+      "topic": "sainik school result 2026",
+      "category": "Jobs",
+      "rising_value": 750,
+      "guide_exists": "sainik-school-aissee-result-2026"
+    },
+    {
+      "topic": "madras university result",
+      "category": "Jobs",
+      "rising_value": 700,
+      "guide_exists": "madras-university-result-2026"
+    },
+    {
+      "topic": "kvs nvs result 2026",
+      "category": "Jobs",
+      "rising_value": 450,
+      "guide_exists": "kvs-nvs-recruitment-result-2026"
+    },
+    {
+      "topic": "kvs nvs result",
+      "category": "Jobs",
+      "rising_value": 400,
+      "guide_exists": "kvs-nvs-recruitment-result-2026"
+    },
+    {
+      "topic": "madras university result 2026",
+      "category": "Jobs",
+      "rising_value": 400,
+      "guide_exists": "madras-university-result-2026"
+    },
+    {
+      "topic": "osm cbse login",
+      "category": "Jobs",
+      "rising_value": 140,
+      "guide_exists": "cbse-on-screen-marking-osm-login-guide"
+    },
+    {
+      "topic": "cbse on screen marking",
+      "category": "Jobs",
+      "rising_value": 70,
+      "guide_exists": "cbse-on-screen-marking-osm-login-guide"
+    }
+  ]
 }

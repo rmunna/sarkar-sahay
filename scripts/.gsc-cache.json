@@ -1,0 +1,920 @@
+{
+  "timestamp": "2026-03-03T15:44:01.845Z",
+  "siteUrl": "sc-domain:citizennest.com",
+  "ranges": [
+    {
+      "label": "Last 28 days",
+      "days": 28,
+      "startDate": "2026-02-01",
+      "endDate": "2026-03-01",
+      "clicks": 322,
+      "impressions": 48503,
+      "ctr": 0.006638764612498196,
+      "position": 8.237902810135456
+    }
+  ],
+  "topPages": [
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/voter-id-application-rejected-fix"
+      ],
+      "clicks": 137,
+      "impressions": 3289,
+      "ctr": 0.041653998175737304,
+      "position": 5.74247491638796
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/shakti-free-bus-karnataka"
+      ],
+      "clicks": 49,
+      "impressions": 2278,
+      "ctr": 0.02151009657594381,
+      "position": 8.039508340649693
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/irctc-account-login-problems-fix"
+      ],
+      "clicks": 12,
+      "impressions": 10755,
+      "ctr": 0.0011157601115760112,
+      "position": 5.622408182240818
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/voter-id-download-not-working-fix"
+      ],
+      "clicks": 11,
+      "impressions": 1221,
+      "ctr": 0.009009009009009009,
+      "position": 5.823914823914824
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/pan-card-not-received-by-post-fix"
+      ],
+      "clicks": 8,
+      "impressions": 438,
+      "ctr": 0.0182648401826484,
+      "position": 8.315068493150685
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/update/ssc-cgl-2026-notification"
+      ],
+      "clicks": 8,
+      "impressions": 344,
+      "ctr": 0.023255813953488372,
+      "position": 5.215116279069767
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/update/rbi-grade-b-2026-notification"
+      ],
+      "clicks": 7,
+      "impressions": 92,
+      "ctr": 0.07608695652173914,
+      "position": 4.684782608695652
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/driving-licence-slot-not-available-fix"
+      ],
+      "clicks": 6,
+      "impressions": 478,
+      "ctr": 0.012552301255230125,
+      "position": 7.46652719665272
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/kpsc-fda-sda-exam-guide"
+      ],
+      "clicks": 6,
+      "impressions": 710,
+      "ctr": 0.008450704225352112,
+      "position": 4.816901408450704
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/upsc-vs-state-psc-comparison"
+      ],
+      "clicks": 5,
+      "impressions": 1499,
+      "ctr": 0.00333555703802535,
+      "position": 7.0233488992661774
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-otp-not-received-fix"
+      ],
+      "clicks": 4,
+      "impressions": 1665,
+      "ctr": 0.0024024024024024023,
+      "position": 8.633633633633632
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-vs-voter-id-vs-passport-id-proof"
+      ],
+      "clicks": 4,
+      "impressions": 99,
+      "ctr": 0.04040404040404041,
+      "position": 6.787878787878788
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/birth-certificate-correction-rejected-fix"
+      ],
+      "clicks": 4,
+      "impressions": 361,
+      "ctr": 0.0110803324099723,
+      "position": 5.7645429362880884
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/character-certificate-apply"
+      ],
+      "clicks": 4,
+      "impressions": 775,
+      "ctr": 0.005161290322580645,
+      "position": 9.841290322580646
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/wbpsc-exam-guide"
+      ],
+      "clicks": 4,
+      "impressions": 344,
+      "ctr": 0.011627906976744186,
+      "position": 4.6395348837209305
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/digilocker-aadhaar-verification-failed-fix"
+      ],
+      "clicks": 3,
+      "impressions": 2239,
+      "ctr": 0.0013398838767306833,
+      "position": 7.330504689593568
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/hp-mukhyamantri-swavalamban-yojana"
+      ],
+      "clicks": 3,
+      "impressions": 90,
+      "ctr": 0.03333333333333333,
+      "position": 7.7444444444444445
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ration-card-name-not-updated-fix"
+      ],
+      "clicks": 3,
+      "impressions": 466,
+      "ctr": 0.006437768240343348,
+      "position": 6.542918454935623
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ration-card-surrender-cancel"
+      ],
+      "clicks": 3,
+      "impressions": 333,
+      "ctr": 0.009009009009009009,
+      "position": 7.021021021021021
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/sbi-fd-vs-post-office-fd-comparison"
+      ],
+      "clicks": 3,
+      "impressions": 171,
+      "ctr": 0.017543859649122806,
+      "position": 8.257309941520468
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/scholarship-payment-not-received-fix"
+      ],
+      "clicks": 3,
+      "impressions": 384,
+      "ctr": 0.0078125,
+      "position": 6.028645833333333
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/hi/guide/mudra-loan-status-check"
+      ],
+      "clicks": 3,
+      "impressions": 37,
+      "ctr": 0.08108108108108109,
+      "position": 11.162162162162161
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-biometric-verification-failed-fix"
+      ],
+      "clicks": 2,
+      "impressions": 857,
+      "ctr": 0.002333722287047841,
+      "position": 8.596266044340723
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/commercial-electricity-connection-apply"
+      ],
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 8.733333333333334
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/land-records-website-not-loading-fix"
+      ],
+      "clicks": 2,
+      "impressions": 233,
+      "ctr": 0.008583690987124463,
+      "position": 5.476394849785407
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/passport-appointment-not-available-fix"
+      ],
+      "clicks": 2,
+      "impressions": 332,
+      "ctr": 0.006024096385542169,
+      "position": 8.262048192771084
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ration-card-portability-not-working-fix"
+      ],
+      "clicks": 2,
+      "impressions": 414,
+      "ctr": 0.004830917874396135,
+      "position": 6.809178743961352
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/telangana-rythu-bandhu-scheme"
+      ],
+      "clicks": 2,
+      "impressions": 327,
+      "ctr": 0.0061162079510703364,
+      "position": 8.195718654434252
+    },
+    {
+      "keys": [
+        "https://citizennest.com/"
+      ],
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/"
+      ],
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1.25
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/banglar-yuva-sathi-scheme-west-bengal"
+      ],
+      "clicks": 1,
+      "impressions": 443,
+      "ctr": 0.002257336343115124,
+      "position": 11.194130925507901
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/chhattisgarh-mahtari-vandana-yojana"
+      ],
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 9.372093023255815
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/csc-digital-seva-portal-errors-fix"
+      ],
+      "clicks": 1,
+      "impressions": 5157,
+      "ctr": 0.00019391118867558658,
+      "position": 7.282140779522979
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/digital-signature-certificate-dsc"
+      ],
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 46.666666666666664
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/duplicate-pan-card-reprint-online"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 4
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/epf-claim-rejected-reasons-fix"
+      ],
+      "clicks": 1,
+      "impressions": 378,
+      "ctr": 0.0026455026455026454,
+      "position": 10.648148148148149
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/goa-dayanand-social-security"
+      ],
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 8.452380952380953
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/karnataka-bhagyalakshmi-scheme"
+      ],
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 8.689655172413794
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/navodaya-vidyalaya-teacher"
+      ],
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 10.212121212121213
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/passport-status-check-online"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 17
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ration-card-apl-vs-bpl-difference"
+      ],
+      "clicks": 1,
+      "impressions": 237,
+      "ctr": 0.004219409282700422,
+      "position": 6.936708860759493
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/rent-agreement-vs-lease-deed-difference"
+      ],
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 9.314814814814815
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/seva-sindhu-application-rejected-fix"
+      ],
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 6.361111111111111
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/tatkal-passport-apply-fees-process"
+      ],
+      "clicks": 1,
+      "impressions": 88,
+      "ctr": 0.011363636363636364,
+      "position": 57.13636363636363
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/umang-app-not-working-fix"
+      ],
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 6.5
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/hi"
+      ],
+      "clicks": 1,
+      "impressions": 101,
+      "ctr": 0.009900990099009901,
+      "position": 9.732673267326733
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/hi/guide/estamp-paper-online-shcil"
+      ],
+      "clicks": 1,
+      "impressions": 93,
+      "ctr": 0.010752688172043012,
+      "position": 10.817204301075268
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/hi/guide/ration-card-types-priorities"
+      ],
+      "clicks": 1,
+      "impressions": 154,
+      "ctr": 0.006493506493506494,
+      "position": 14.019480519480519
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/hi/guide/tatkal-passport-apply-fees-process"
+      ],
+      "clicks": 1,
+      "impressions": 126,
+      "ctr": 0.007936507936507936,
+      "position": 15.293650793650794
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/stories/cds-exam-guide.html"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 42
+    }
+  ],
+  "topQueries": [
+    {
+      "keys": [
+        "karnataka shakti scheme smart card apply online"
+      ],
+      "clicks": 6,
+      "impressions": 45,
+      "ctr": 0.13333333333333333,
+      "position": 8.044444444444444
+    },
+    {
+      "keys": [
+        "what to do if your voter id application is rejected india"
+      ],
+      "clicks": 4,
+      "impressions": 248,
+      "ctr": 0.016129032258064516,
+      "position": 8.612903225806452
+    },
+    {
+      "keys": [
+        "how to check voter id rejected reason"
+      ],
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 6.4
+    },
+    {
+      "keys": [
+        "how to correct rejected voter id"
+      ],
+      "clicks": 2,
+      "impressions": 97,
+      "ctr": 0.020618556701030927,
+      "position": 8.103092783505154
+    },
+    {
+      "keys": [
+        "mmsy hp"
+      ],
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 7.2
+    },
+    {
+      "keys": [
+        "rbi recruitment"
+      ],
+      "clicks": 2,
+      "impressions": 21,
+      "ctr": 0.09523809523809523,
+      "position": 6.095238095238095
+    },
+    {
+      "keys": [
+        "smart card for free bus in karnataka apply online"
+      ],
+      "clicks": 2,
+      "impressions": 32,
+      "ctr": 0.0625,
+      "position": 7.71875
+    },
+    {
+      "keys": [
+        "aadhaar otp issue today"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 8
+    },
+    {
+      "keys": [
+        "apl full form in ration card"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "keys": [
+        "bmtc smart card for ladies apply online"
+      ],
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 8.90625
+    },
+    {
+      "keys": [
+        "crsorgi.gov.in birth certificate correction"
+      ],
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 3.2
+    },
+    {
+      "keys": [
+        "digital signature certificate (dsc)"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 28
+    },
+    {
+      "keys": [
+        "eci application rejected"
+      ],
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 5.166666666666667
+    },
+    {
+      "keys": [
+        "equery irctc co in"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "keys": [
+        "face authentication unsuccessful biometric data did not match"
+      ],
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 9
+    },
+    {
+      "keys": [
+        "fda age limit in karnataka"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 8
+    },
+    {
+      "keys": [
+        "fda qualification in karnataka"
+      ],
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 5.777777777777778
+    },
+    {
+      "keys": [
+        "how to restore irctc user id and password"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "keys": [
+        "irctc account locked for the day"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 19
+    },
+    {
+      "keys": [
+        "irctc user id change"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "keys": [
+        "is noc and character certificate same"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 7.5
+    },
+    {
+      "keys": [
+        "my irctc user id"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "keys": [
+        "nsp scholarship portal helpline number"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "keys": [
+        "passport renewal online"
+      ],
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 67.33333333333333
+    },
+    {
+      "keys": [
+        "passport status"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 17
+    },
+    {
+      "keys": [
+        "pending for sanction"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "keys": [
+        "psc"
+      ],
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 3.2222222222222223
+    },
+    {
+      "keys": [
+        "psc full from"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "keys": [
+        "psc meaning"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "keys": [
+        "public service commission west bengal"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3.5
+    },
+    {
+      "keys": [
+        "rbi"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "keys": [
+        "rechs bhel login ecare login"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 9
+    },
+    {
+      "keys": [
+        "rythu bandhu telangana"
+      ],
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 26
+    },
+    {
+      "keys": [
+        "shakti smart card eligibility"
+      ],
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 7.285714285714286
+    },
+    {
+      "keys": [
+        "shakti smart card online apply near bengaluru karnataka"
+      ],
+      "clicks": 1,
+      "impressions": 81,
+      "ctr": 0.012345679012345678,
+      "position": 7.45679012345679
+    },
+    {
+      "keys": [
+        "shakti yojana card apply online karnataka"
+      ],
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 8.333333333333332
+    },
+    {
+      "keys": [
+        "ssc govt jobs"
+      ],
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 5
+    },
+    {
+      "keys": [
+        "ssc jobs 2026"
+      ],
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 5.142857142857143
+    },
+    {
+      "keys": [
+        "ssc vacancy 2026"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "keys": [
+        "voter id not showing online"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "keys": [
+        "voter id website not working"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 6
+    },
+    {
+      "keys": [
+        "wb psc exam"
+      ],
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 1.1428571428571428
+    },
+    {
+      "keys": [
+        "what to do if my voter id application is rejected india"
+      ],
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 9.1
+    },
+    {
+      "keys": [
+        "what to do if voter id application is rejected"
+      ],
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 8.65
+    },
+    {
+      "keys": [
+        "which state pcs exam is easy"
+      ],
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 7.8
+    },
+    {
+      "keys": [
+        "why my voter id application is rejected"
+      ],
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 8.90909090909091
+    },
+    {
+      "keys": [
+        "www rbi org in recruitment 2026"
+      ],
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 5.666666666666667
+    },
+    {
+      "keys": [
+        "yubasathi.wb.gov.in"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 30
+    },
+    {
+      "keys": [
+        "\"2602 sub #n sp\""
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "keys": [
+        "\"applicant's name already exists in the electoral roll\" eci rejection reason"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    }
+  ]
+}

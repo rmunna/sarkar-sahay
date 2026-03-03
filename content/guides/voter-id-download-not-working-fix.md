@@ -1,6 +1,6 @@
 ---
-title: "Voter ID Download Not Working? Fix e-EPIC Download Errors (NVSP)"
-description: "e-EPIC download failing on NVSP? Fix 'Voter ID not available for download', OTP not received, PDF not opening, and portal timeout errors — step-by-step solutions that actually work."
+title: "Voter ID Download Not Working? Fix e-EPIC Errors (NVSP)"
+description: "e-EPIC download failing? Fix 'Voter ID not available for download', OTP not received & PDF errors on NVSP portal. Step-by-step solutions that work."
 category: "Identity Documents"
 keywords:
   - voter id download not working
