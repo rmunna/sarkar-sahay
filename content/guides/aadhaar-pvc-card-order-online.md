@@ -153,6 +153,14 @@ If your Aadhaar PVC card has not been delivered within 30 days:
 
 > **Tip:** If your address has changed, [update it in Aadhaar first](/guide/aadhaar-common-problems-solutions) before ordering the PVC card.
 
+## Related Guides
+
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [Aadhaar Card Download Not Working — How to Fix Guide)](/guide/aadhaar-card-download-not-working-fix)
+- [How to Download e-Aadhaar Card Online](/guide/download-e-aadhaar-card-online)
+- [Aadhaar PVC Card Order Not Delivered — How to Fix](/guide/aadhaar-pvc-card-not-delivered-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+
 ## Frequently Asked Questions (FAQs)
 
 ### Q: Can I order Aadhaar PVC card without a registered mobile number?

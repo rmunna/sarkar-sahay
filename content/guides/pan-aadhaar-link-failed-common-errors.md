@@ -175,13 +175,11 @@ Reach out if:
 
 ## Related Guides
 
-- [How to Link Aadhaar with PAN](/guide/aadhaar-pan-link)
-- [PAN vs Aadhaar: Key Differences](/guide/aadhaar-vs-pan-difference)
-- [Aadhaar Name Correction Online](/guide/aadhaar-name-correction-online)
-- [Aadhaar Common Problems and Solutions](/guide/aadhaar-common-problems-solutions)
-- [Income Tax Refund Not Received: How to Fix](/guide/income-tax-refund-not-received-fix)
-
----
+- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
+- [How to Link Aadhaar with PAN Card — Step-by-Step Guide](/guide/aadhaar-pan-link)
+- [PAN Aadhaar Link Failed — How to Fix Every Error](/guide/pan-aadhaar-link-failed-fix)
+- [How to Link Aadhaar with Voter ID (EPIC) Online — Step-by-Step Guide](/guide/aadhaar-voter-id-linking-online)
+- [Bank Account Aadhaar Link Not Working — How to Fix](/guide/bank-account-aadhaar-link-not-working-fix)
 
 ## Frequently Asked Questions
 

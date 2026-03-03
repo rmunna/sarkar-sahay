@@ -201,6 +201,14 @@ During Tatkal hours, every second matters. OTP delays can cost you a confirmed t
 4. **Deactivate DND permanently** if you use IRCTC regularly
 5. **Bookmark the correct URL** — always use [www.irctc.co.in](https://www.irctc.co.in/), not third-party sites
 
+## Related Guides
+
+- [IRCTC Account Locked After Multiple Attempts — How to Unlock It](/guide/irctc-account-locked-unlock-fix)
+- [IRCTC Account Locked? Fix Multiple Failed Login Attempts](/guide/irctc-account-login-problems-fix)
+- [IRCTC Forgot Password — How to Reset Step by Step](/guide/irctc-forgot-password-reset-fix)
+- [IRCTC Payment Deducted But Ticket Not Booked — How to Get Refund](/guide/irctc-payment-deducted-ticket-not-booked-fix)
+- [IRCTC Tatkal Ticket Booking Not Working — How to Fix](/guide/irctc-tatkal-booking-not-working-fix)
+
 ## Frequently Asked Questions
 
 ### Q1: Why is IRCTC OTP not coming on my mobile?

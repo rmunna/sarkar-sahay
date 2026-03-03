@@ -250,6 +250,14 @@ If your Aadhaar-bank linking issue is not resolved after trying the above:
 
 ---
 
+## Related Guides
+
+- [How to Open Bank Account Online in India](/guide/open-bank-account-online)
+- [Bank Account Frozen or Blocked — How to Unblock It](/guide/bank-account-frozen-blocked-unblock-fix)
+- [How to Update Nominee in Bank, Insurance, EPF, PPF & Mutual Funds](/guide/nomination-update-bank-insurance-epf)
+- [How to Get Bank Locker — Rules, Charges, Nomination & RBI Guidelines](/guide/bank-locker-rules-charges-rbi)
+- [UPI Payment Setup Guide — How to Set Up & Use UPI in India](/guide/upi-payment-setup-guide)
+
 ## Frequently Asked Questions
 
 ### Can I link Aadhaar to multiple bank accounts?
@@ -268,11 +276,6 @@ If the bank uses OTP-based verification, you need an active Aadhaar-registered m
 It is mandatory for receiving DBT subsidies and benefits. The government also requires it for Jan Dhan accounts and certain compliance purposes. Without it, your subsidy payments will not be processed.
 
 ---
-
-## Related Guides
-
-- [PAN Aadhaar Link Failed — How to Fix](/guides/pan-aadhaar-link-failed-fix)
-- [Aadhaar OTP Not Received — Quick Fixes](/guides/aadhaar-otp-not-received-fix)
 
 ## Related Aadhaar Guides
 

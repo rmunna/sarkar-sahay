@@ -177,14 +177,11 @@ Contact UIDAI support if:
 
 ## Related Guides
 
-- [How to Lock and Unlock Aadhaar Biometrics](/guide/aadhaar-biometric-lock-unlock)
-- [How to Update Mobile Number in Aadhaar](/guide/aadhaar-update-mobile-email)
-- [How to Apply for Aadhaar Card Online](/guide/aadhaar-card-apply-online)
-- [How to Download Aadhaar Card Online](/guide/aadhaar-card-download-online)
-- [Aadhaar Common Problems and Solutions](/guide/aadhaar-common-problems-solutions)
-- [How to Link Aadhaar with PAN](/guide/aadhaar-pan-link)
-
----
+- [Aadhaar Biometric Lock & Unlock](/guide/aadhaar-biometric-lock-unlock)
+- [Aadhaar Biometric Lock Not Working? How to Fix Lock/Unlock Errors](/guide/aadhaar-biometric-lock-not-working-fix)
+- [Aadhaar Face Authentication Failed — How to Fix Face Match Errors](/guide/aadhaar-face-authentication-failed-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
 
 ## Frequently Asked Questions
 

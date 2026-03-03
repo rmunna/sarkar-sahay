@@ -319,6 +319,14 @@ If the Ombudsman doesn't help:
 
 ---
 
+## Related Guides
+
+- [How to Open Bank Account Online in India](/guide/open-bank-account-online)
+- [Bank Account Aadhaar Link Not Working — How to Fix](/guide/bank-account-aadhaar-link-not-working-fix)
+- [How to Update Nominee in Bank, Insurance, EPF, PPF & Mutual Funds](/guide/nomination-update-bank-insurance-epf)
+- [How to Get Bank Locker — Rules, Charges, Nomination & RBI Guidelines](/guide/bank-locker-rules-charges-rbi)
+- [UPI Payment Setup Guide — How to Set Up & Use UPI in India](/guide/upi-payment-setup-guide)
+
 ## Frequently Asked Questions
 
 ### Can I open a new account if my existing one is frozen?

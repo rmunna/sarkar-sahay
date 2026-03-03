@@ -235,6 +235,14 @@ The following properties are generally exempt from property tax:
 
 > Exemptions vary by state and municipality. Check with your local municipal corporation for applicable exemptions.
 
+## Related Guides
+
+- [How to Pay Electricity Bill Online — All State Discoms](/guide/electricity-bill-payment-online)
+- [Electricity Bill Payment Failed — How to Fix](/guide/electricity-bill-payment-failed-fix)
+- [How to Pay Water Bill Online — Municipal & Jal Board](/guide/water-bill-payment-online)
+- [Property Tax Online Payment Failed — How to Fix](/guide/property-tax-payment-failed-fix)
+- [Bharat Bill Payment System (BBPS) — Complete Guide to Pay All Bills](/guide/bharat-bill-payment-system)
+
 ## Frequently Asked Questions
 
 ### What happens if I don't pay property tax?
@@ -251,8 +259,3 @@ Check your previous tax receipt, sale deed, or visit your municipal office. You 
 
 ### Can tenants pay property tax?
 The liability is on the property owner, but tenants can pay on behalf of the owner if needed.
-
-## Related Guides
-
-- [How to Register Property Online in India](/guide/property-registration-online)
-- [How to Check Land Records Online — Bhulekh Guide](/guide/land-records-bhulekh-online)

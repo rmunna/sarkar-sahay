@@ -169,10 +169,11 @@ Many citizens worry about sharing Aadhaar with the Election Commission. Here's w
 
 ## Related Guides
 
-- [How to Apply for Voter ID Card Online](/guide/voter-id-card-apply-online)
-- [How to Correct Voter ID Details Online](/guide/voter-id-correction-online)
-- [How to Apply for Aadhaar Card Online](/guide/aadhaar-card-apply-online)
-- [Complete Aadhaar Linking Guide — PAN, Bank, Mobile & More](/guide/aadhaar-linking-guide)
+- [How to Transfer Voter ID to New Address — Form 8A Online](/guide/voter-id-address-change-transfer-fix)
+- [Voter ID Application Rejected: How to Fix](/guide/voter-id-application-rejected-fix)
+- [How to Apply for Voter ID Card (EPIC) Online — Step-by-Step Guide](/guide/voter-id-card-apply-online)
+- [Voter ID Card Online Correction Not Working — How to Fix](/guide/voter-id-correction-not-working-fix)
+- [How to Correct Voter ID Card Online](/guide/voter-id-correction-online)
 
 ## Frequently Asked Questions
 

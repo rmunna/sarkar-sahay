@@ -216,6 +216,14 @@ See our [Aadhaar guide](/guide/aadhaar-card-apply-online) and [PAN card guide](/
 
 For UPI-specific disputes unresolved after 30 days, escalate to [RBI Integrated Ombudsman](https://cms.rbi.org.in/).
 
+## Related Guides
+
+- [UPI Payment Setup Guide — How to Set Up & Use UPI in India](/guide/upi-payment-setup-guide)
+- [UPI Payment Failed But Money Debited — How to Get Refund](/guide/upi-payment-failed-money-debited-refund-fix)
+- [UPI Payment Refund Not Received — How to Fix](/guide/upi-payment-refund-not-received-fix)
+- [UPI Transaction Failed — All Error Codes & Fixes](/guide/upi-transaction-failed-fix)
+- [NEFT vs RTGS vs IMPS vs UPI — Difference Explained](/guide/neft-rtgs-imps-upi-difference)
+
 ## FAQs
 
 ### Why does my Paytm payment keep failing?

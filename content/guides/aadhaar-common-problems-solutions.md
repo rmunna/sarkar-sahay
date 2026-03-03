@@ -318,14 +318,11 @@ If none of the above solutions work, you can file a formal grievance with UIDAI:
 
 ## Related Guides
 
-- [How to Apply for Aadhaar Card Online](/guide/aadhaar-card-apply-online)
-- [Change Mobile Number in Aadhaar Card](/guide/change-mobile-number-in-aadhaar-card)
-- [Aadhaar Address Change Online](/guide/aadhaar-address-change-online)
-- [Aadhaar Name Correction Online](/guide/aadhaar-name-correction-online)
-- [Download e-Aadhaar Card Online](/guide/download-e-aadhaar-card-online)
-- [Check Aadhaar Update Status](/guide/aadhaar-update-status-check)
-
----
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)
+- [Baal Aadhaar to Adult Aadhaar — Minor to Major Aadhaar Update Guide](/guide/minor-to-major-aadhaar-update)
+- [How to Retrieve Lost or Forgotten Aadhaar Number — Complete Guide](/guide/lost-aadhaar-card-retrieval)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
 
 ## Frequently Asked Questions
 

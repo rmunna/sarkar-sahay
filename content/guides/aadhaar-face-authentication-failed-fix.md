@@ -212,6 +212,14 @@ Also see our [Aadhaar biometric lock/unlock guide](/guide/aadhaar-biometric-lock
 
 ---
 
+## Related Guides
+
+- [Aadhaar Biometric Lock & Unlock](/guide/aadhaar-biometric-lock-unlock)
+- [Aadhaar Biometric Lock Not Working? How to Fix Lock/Unlock Errors](/guide/aadhaar-biometric-lock-not-working-fix)
+- [Aadhaar Biometric Not Matching? Fix Face & Fingerprint](/guide/aadhaar-biometric-verification-failed-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+
 ## FAQs
 
 ### Why does Aadhaar face authentication fail even with good lighting?

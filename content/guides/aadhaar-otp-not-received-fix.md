@@ -192,13 +192,11 @@ For telecom-related SMS issues:
 
 ## Related Guides
 
-- [Aadhaar Card Apply Online](/guide/aadhaar-card-apply-online)
-- [Aadhaar Biometric Verification Failed Fix](/guide/aadhaar-biometric-verification-failed-fix)
-- [Aadhaar Common Problems and Solutions](/guide/aadhaar-common-problems-solutions)
-- [PAN Aadhaar Link Failed Common Errors](/guide/pan-aadhaar-link-failed-common-errors)
-- [DigiLocker Aadhaar Verification Failed Fix](/guide/digilocker-aadhaar-verification-failed-fix)
-
----
+- [How to Update Mobile Number and Email in Aadhaar — Complete Guide](/guide/aadhaar-update-mobile-email)
+- [How to Change Mobile Number in Aadhaar Card — Step-by-Step Guide](/guide/change-mobile-number-in-aadhaar-card)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)
 
 ## Frequently Asked Questions
 

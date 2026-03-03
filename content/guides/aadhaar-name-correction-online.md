@@ -193,6 +193,14 @@ After submitting your update request, you can track the status:
 4. **Re-submit** a fresh request with ₹75 fee
 5. If rejected multiple times, **visit an enrolment centre** for offline update with biometric verification
 
+## Related Guides
+
+- [Aadhaar Name Correction Rejected — How to Fix](/guide/aadhaar-name-correction-rejected-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)
+- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
+
 ## Frequently Asked Questions (FAQs)
 
 ### 1. Can I change my name in Aadhaar without a registered mobile number?

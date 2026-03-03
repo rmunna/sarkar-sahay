@@ -164,6 +164,14 @@ You can also check on Paytm or PhonePe by entering your consumer number under El
 
 ---
 
+## Related Guides
+
+- [Electricity Bill Payment Failed — How to Fix](/guide/electricity-bill-payment-failed-fix)
+- [How to Pay Water Bill Online — Municipal & Jal Board](/guide/water-bill-payment-online)
+- [How to Pay Property Tax Online in India — Municipal Tax Payment Guide](/guide/property-tax-payment-online)
+- [Property Tax Online Payment Failed — How to Fix](/guide/property-tax-payment-failed-fix)
+- [Bharat Bill Payment System (BBPS) — Complete Guide to Pay All Bills](/guide/bharat-bill-payment-system)
+
 ## Frequently Asked Questions (FAQs)
 
 ### 1. What if I paid the bill but it still shows unpaid?
@@ -195,13 +203,3 @@ Call your discom's helpline or use their app/website to file a complaint. A tech
 UPI apps like Paytm, PhonePe, and Google Pay occasionally offer **cashback or reward points** on bill payments. Check current offers in the app before paying.
 
 ---
-
-## Related Guides
-
-- [Water Bill Payment Online](/guide/water-bill-payment-online)
-- [LPG Gas Cylinder Booking Online](/guide/lpg-gas-booking-online)
-- [BSNL Broadband — Apply Online](/guide/broadband-bsnl-apply)
-
----
-
-*Last updated: February 18, 2026*

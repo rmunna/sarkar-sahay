@@ -185,6 +185,14 @@ For most nomination updates, you need:
 4. **Keep nominee details consistent** across bank, insurance, EPF, and mutual funds
 5. **Inform your family** about your nominations and where your financial documents are stored
 
+## Related Guides
+
+- [How to Open Bank Account Online in India](/guide/open-bank-account-online)
+- [Bank Account Frozen or Blocked — How to Unblock It](/guide/bank-account-frozen-blocked-unblock-fix)
+- [Bank Account Aadhaar Link Not Working — How to Fix](/guide/bank-account-aadhaar-link-not-working-fix)
+- [How to Get Bank Locker — Rules, Charges, Nomination & RBI Guidelines](/guide/bank-locker-rules-charges-rbi)
+- [UPI Payment Setup Guide — How to Set Up & Use UPI in India](/guide/upi-payment-setup-guide)
+
 ## FAQs
 
 ### Q1. Can I nominate someone who is not a family member?

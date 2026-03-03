@@ -157,11 +157,11 @@ Transferring money online in India? You've likely seen options like NEFT, RTGS, 
 
 ## Related Guides
 
-- [IFSC Code Search — How to Find Bank IFSC Code Online](/guide/ifsc-code-search-find-online)
-- [UPI Payment Setup Guide](/guide/upi-payment-setup-guide)
+- [UPI Payment Setup Guide — How to Set Up & Use UPI in India](/guide/upi-payment-setup-guide)
+- [UPI Payment Failed But Money Debited — How to Get Refund](/guide/upi-payment-failed-money-debited-refund-fix)
+- [UPI Payment Refund Not Received — How to Fix](/guide/upi-payment-refund-not-received-fix)
 - [UPI Transaction Failed — All Error Codes & Fixes](/guide/upi-transaction-failed-fix)
-- [SBI Net Banking Registration & Login Guide](/guide/sbi-net-banking-registration-login)
-- [Bank Balance Check Online — All Banks](/guide/bank-balance-check-online-all-banks)
+- [WhatsApp Payment Not Working? How to Fix UPI on WhatsApp](/guide/whatsapp-payment-upi-not-working-fix)
 
 ## Frequently Asked Questions
 

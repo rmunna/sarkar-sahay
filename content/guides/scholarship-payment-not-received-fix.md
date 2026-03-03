@@ -147,9 +147,11 @@ Contact the helpline if:
 
 ## Related Guides
 
-- [National Scholarship Portal — Complete Guide](/guide/national-scholarship-portal)
-
----
+- [PM Kisan Payment Not Received — How to Fix](/guide/pm-kisan-payment-not-received-fix)
+- [NREGA Job Card Status & Payment Check Online — Step-by-Step Guide](/guide/nrega-job-card-payment-status)
+- [Pension Payment Not Credited to Bank — How to Fix](/guide/pension-payment-not-credited-fix)
+- [Scholarship Payment Delayed — How to Track Status & Fix Delays](/guide/scholarship-payment-delayed-tracking-fix)
+- [UPI Payment Setup Guide — How to Set Up & Use UPI in India](/guide/upi-payment-setup-guide)
 
 ## FAQs
 

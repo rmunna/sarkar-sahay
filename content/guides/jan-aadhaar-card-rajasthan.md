@@ -252,6 +252,14 @@ Track your enrollment or update request:
 
 ---
 
+## Related Guides
+
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)
+- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+
 ## Frequently Asked Questions
 
 ### Is Jan Aadhaar mandatory?
@@ -290,11 +298,6 @@ Enrollment requires Aadhaar for biometric verification. If you don't have Aadhaa
 ---
 
 *Last updated: 16 February 2026. Information sourced from the official Jan Aadhaar portal. Always verify details on [janaadhaar.rajasthan.gov.in](https://janaadhaar.rajasthan.gov.in) for the latest updates.*
-
-## Related Guides
-
-- [Indira Rasoi Yojana Rajasthan](/guide/indira-rasoi-yojana-rajasthan)
-- [Devnarayan Scooty Scheme 2025](/guide/rajasthan-devnarayan-scooty-scheme)
 
 ## Related Aadhaar Guides
 

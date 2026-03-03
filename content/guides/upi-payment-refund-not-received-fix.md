@@ -175,6 +175,14 @@ If your complaint is **not resolved within 30 days** by the bank/NPCI, or if you
 - **Auto-refunds are mandatory** — banks cannot refuse to refund failed transactions
 - **Check both bank accounts** — sometimes the refund goes to a different account if you have multiple accounts linked
 
+## Related Guides
+
+- [UPI Payment Setup Guide — How to Set Up & Use UPI in India](/guide/upi-payment-setup-guide)
+- [UPI Payment Failed But Money Debited — How to Get Refund](/guide/upi-payment-failed-money-debited-refund-fix)
+- [UPI Transaction Failed — All Error Codes & Fixes](/guide/upi-transaction-failed-fix)
+- [NEFT vs RTGS vs IMPS vs UPI — Difference Explained](/guide/neft-rtgs-imps-upi-difference)
+- [WhatsApp Payment Not Working? How to Fix UPI on WhatsApp](/guide/whatsapp-payment-upi-not-working-fix)
+
 ## Frequently Asked Questions
 
 ### How long does a UPI refund take?
@@ -196,8 +204,3 @@ If you sent money to the **wrong UPI ID** and the transaction was successful, th
 ### Will I get compensation for delayed refunds?
 
 Yes. Under RBI guidelines, if the refund is delayed beyond T+1 business day, the bank must pay **₹100 per day** as compensation, credited automatically.
-
-## Related Guides
-
-- [UPI Transaction Failed — All Error Codes & Fixes](/guides/upi-transaction-failed-fix)
-- [How to Set Up UPI Payments](/guides/upi-payment-setup-guide)

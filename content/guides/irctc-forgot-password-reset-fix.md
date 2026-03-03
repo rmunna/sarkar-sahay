@@ -195,6 +195,14 @@ On the **IRCTC Rail Connect app:**
 4. **Update your profile** if you change your phone number — do it while you still have access
 5. **Never share OTP** with anyone — IRCTC will never call and ask for your OTP
 
+## Related Guides
+
+- [IRCTC Account Locked After Multiple Attempts — How to Unlock It](/guide/irctc-account-locked-unlock-fix)
+- [IRCTC Account Locked? Fix Multiple Failed Login Attempts](/guide/irctc-account-login-problems-fix)
+- [IRCTC OTP Not Received? How to Fix OTP Problems During Login & Booking](/guide/irctc-otp-not-received-fix)
+- [IRCTC Payment Deducted But Ticket Not Booked — How to Get Refund](/guide/irctc-payment-deducted-ticket-not-booked-fix)
+- [IRCTC Tatkal Ticket Booking Not Working — How to Fix](/guide/irctc-tatkal-booking-not-working-fix)
+
 ## Frequently Asked Questions (FAQs)
 
 ### How do I reset my IRCTC password if I forgot it?

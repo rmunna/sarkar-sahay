@@ -154,6 +154,14 @@ Some authorities also send bills via SMS or WhatsApp to registered numbers.
 
 ---
 
+## Related Guides
+
+- [How to Pay Electricity Bill Online — All State Discoms](/guide/electricity-bill-payment-online)
+- [Electricity Bill Payment Failed — How to Fix](/guide/electricity-bill-payment-failed-fix)
+- [How to Pay Property Tax Online in India — Municipal Tax Payment Guide](/guide/property-tax-payment-online)
+- [Property Tax Online Payment Failed — How to Fix](/guide/property-tax-payment-failed-fix)
+- [Bharat Bill Payment System (BBPS) — Complete Guide to Pay All Bills](/guide/bharat-bill-payment-system)
+
 ## Frequently Asked Questions (FAQs)
 
 ### 1. What if my water bill shows a very high amount?
@@ -191,13 +199,3 @@ Most cities have a dedicated helpline:
 Check your bill for the local helpline number.
 
 ---
-
-## Related Guides
-
-- [Electricity Bill Payment Online](/guide/electricity-bill-payment-online)
-- [LPG Gas Cylinder Booking Online](/guide/lpg-gas-booking-online)
-- [Property Tax Payment Online](/guide/property-tax-payment-online)
-
----
-
-*Last updated: February 18, 2026*

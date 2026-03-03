@@ -223,6 +223,14 @@ Carry **one document each** for Proof of Identity (POI) and Proof of Address (PO
 
 ---
 
+## Related Guides
+
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+- [Tatkal Aadhaar Enrollment — Fast-Track Aadhaar Application Guide](/guide/tatkal-aadhaar-enrollment)
+- [Aadhaar Enrollment ID Lost — How to Retrieve It](/guide/aadhaar-enrollment-id-lost-retrieve-fix)
+- [Baal Aadhaar Card — How to Apply for Child Aadhaar Below 5 Years](/guide/baal-aadhaar-child-aadhaar-card)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+
 ## Frequently Asked Questions
 
 ### How do I find the nearest Aadhaar centre?

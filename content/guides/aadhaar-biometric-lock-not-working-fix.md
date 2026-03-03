@@ -200,6 +200,14 @@ Contact UIDAI if none of the above fixes work:
 
 ---
 
+## Related Guides
+
+- [Aadhaar Biometric Lock & Unlock](/guide/aadhaar-biometric-lock-unlock)
+- [Aadhaar Biometric Not Matching? Fix Face & Fingerprint](/guide/aadhaar-biometric-verification-failed-fix)
+- [Aadhaar Face Authentication Failed — How to Fix Face Match Errors](/guide/aadhaar-face-authentication-failed-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+
 ## Frequently Asked Questions
 
 ### Is biometric lock free?
@@ -221,12 +229,6 @@ Partially. It prevents biometric-based misuse. For full protection, also enable 
 No. Unlocking requires OTP sent to your registered mobile number. As long as your phone is secure, your biometric lock is secure.
 
 ---
-
-## Related Guides
-
-- [Aadhaar Biometric Verification Failed — How to Fix](/guides/aadhaar-biometric-verification-failed-fix)
-- [Aadhaar OTP Not Received — How to Fix](/guides/aadhaar-otp-not-received-fix)
-- [Aadhaar Biometric Lock & Unlock — Complete Guide](/guides/aadhaar-biometric-lock-unlock)
 
 ## Related Aadhaar Guides
 

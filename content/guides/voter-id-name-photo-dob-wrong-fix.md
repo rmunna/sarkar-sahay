@@ -230,6 +230,14 @@ If you're unable to correct your details online, you can do it offline:
 
 ---
 
+## Related Guides
+
+- [How to Transfer Voter ID to New Address — Form 8A Online](/guide/voter-id-address-change-transfer-fix)
+- [Voter ID Application Rejected: How to Fix](/guide/voter-id-application-rejected-fix)
+- [How to Apply for Voter ID Card (EPIC) Online — Step-by-Step Guide](/guide/voter-id-card-apply-online)
+- [Voter ID Card Online Correction Not Working — How to Fix](/guide/voter-id-correction-not-working-fix)
+- [How to Correct Voter ID Card Online](/guide/voter-id-correction-online)
+
 ## Frequently Asked Questions (FAQs)
 
 ### Q1: How can I change my name on my Voter ID card online?
@@ -272,13 +280,3 @@ If you're unable to correct your details online, you can do it offline:
 - [Download e-EPIC Digital Voter ID](/guide/e-epic-digital-voter-id-download-guide)
 
 ---
-
-## Related Guides
-
-- [How to Correct Voter ID Card Online](/guide/voter-id-correction-online) — Complete guide to Form 8 correction process
-- [Voter ID Correction Not Working — How to Fix](/guide/voter-id-correction-not-working-fix) — Troubleshoot OTP, upload, and verification errors
-- [Voter ID Application Rejected — How to Fix](/guide/voter-id-application-rejected-fix) — What to do when your application is rejected
-
----
-
-*Last updated: March 2026. Information sourced from the Election Commission of India's official portals.*

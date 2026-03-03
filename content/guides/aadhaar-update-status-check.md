@@ -151,6 +151,14 @@ To see all past updates made to your Aadhaar:
 
 This helps you keep a record of all changes made to your Aadhaar over time.
 
+## Related Guides
+
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [Baal Aadhaar to Adult Aadhaar — Minor to Major Aadhaar Update Guide](/guide/minor-to-major-aadhaar-update)
+- [How to Retrieve Lost or Forgotten Aadhaar Number — Complete Guide](/guide/lost-aadhaar-card-retrieval)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
+
 ## Frequently Asked Questions (FAQs)
 
 ### 1. What is URN in Aadhaar?

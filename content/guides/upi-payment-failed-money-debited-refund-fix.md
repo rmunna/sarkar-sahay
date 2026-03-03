@@ -224,6 +224,14 @@ If NPCI also fails to resolve the issue within **30 days**, escalate to the **RB
 5. **Keep your phone number updated with your bank** — reversal SMS goes to your registered number
 6. **₹100/day compensation is your right** — if the bank delays auto-reversal beyond the prescribed timeline, RBI mandates ₹100/day compensation. Mention this when escalating
 
+## Related Guides
+
+- [UPI Payment Setup Guide — How to Set Up & Use UPI in India](/guide/upi-payment-setup-guide)
+- [UPI Payment Refund Not Received — How to Fix](/guide/upi-payment-refund-not-received-fix)
+- [UPI Transaction Failed — All Error Codes & Fixes](/guide/upi-transaction-failed-fix)
+- [NEFT vs RTGS vs IMPS vs UPI — Difference Explained](/guide/neft-rtgs-imps-upi-difference)
+- [WhatsApp Payment Not Working? How to Fix UPI on WhatsApp](/guide/whatsapp-payment-upi-not-working-fix)
+
 ## Frequently Asked Questions
 
 ### Q1. UPI payment failed but money debited — will I get my money back?

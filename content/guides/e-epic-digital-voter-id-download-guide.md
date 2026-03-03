@@ -183,6 +183,14 @@ This error appears when:
 
 ---
 
+## Related Guides
+
+- [How to Transfer Voter ID to New Address — Form 8A Online](/guide/voter-id-address-change-transfer-fix)
+- [Voter ID Application Rejected: How to Fix](/guide/voter-id-application-rejected-fix)
+- [How to Apply for Voter ID Card (EPIC) Online — Step-by-Step Guide](/guide/voter-id-card-apply-online)
+- [Voter ID Card Online Correction Not Working — How to Fix](/guide/voter-id-correction-not-working-fix)
+- [How to Correct Voter ID Card Online](/guide/voter-id-correction-online)
+
 ## Frequently Asked Questions (FAQs)
 
 ### Q1. Is e-EPIC the same as my voter ID card?

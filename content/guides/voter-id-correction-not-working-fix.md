@@ -198,6 +198,14 @@ If online correction repeatedly fails, the offline route through the ERO (Electo
 
 > **Note:** For address change to a different constituency, you need to file **Form 6** (new registration) instead of Form 8. Your old entry will be deleted via Form 7. If your [application gets rejected](/guide/voter-id-application-rejected-fix), check the linked guide for solutions.
 
+## Related Guides
+
+- [How to Transfer Voter ID to New Address — Form 8A Online](/guide/voter-id-address-change-transfer-fix)
+- [Voter ID Application Rejected: How to Fix](/guide/voter-id-application-rejected-fix)
+- [How to Apply for Voter ID Card (EPIC) Online — Step-by-Step Guide](/guide/voter-id-card-apply-online)
+- [How to Correct Voter ID Card Online](/guide/voter-id-correction-online)
+- [Voter ID Download Not Working? Fix e-EPIC Errors (NVSP)](/guide/voter-id-download-not-working-fix)
+
 ## Frequently Asked Questions
 
 ### How long does Voter ID correction take?

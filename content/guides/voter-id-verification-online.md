@@ -127,6 +127,14 @@ If you have recently applied for a new Voter ID or made corrections, you can tra
 4. **EPIC number format** — Your Voter ID number is a 10-character alphanumeric code (3 letters followed by 7 digits, e.g., XYZ1234567). It is printed on the front of your physical Voter ID card.
 5. **Report errors immediately** — If you find incorrect details in your voter record, file **Form 8** on the Voters' Services Portal to request corrections.
 
+## Related Guides
+
+- [How to Transfer Voter ID to New Address — Form 8A Online](/guide/voter-id-address-change-transfer-fix)
+- [Voter ID Application Rejected: How to Fix](/guide/voter-id-application-rejected-fix)
+- [How to Apply for Voter ID Card (EPIC) Online — Step-by-Step Guide](/guide/voter-id-card-apply-online)
+- [Voter ID Card Online Correction Not Working — How to Fix](/guide/voter-id-correction-not-working-fix)
+- [How to Correct Voter ID Card Online](/guide/voter-id-correction-online)
+
 ## Frequently Asked Questions
 
 ### How do I find my Voter ID (EPIC) number?

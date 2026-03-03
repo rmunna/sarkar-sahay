@@ -179,14 +179,11 @@ After successful linking, PAN becomes operative again within **30 days**.
 
 ## Related Guides
 
-- [How to Link Aadhaar with PAN — Complete Guide](/guide/aadhaar-pan-link)
-- [PAN vs Aadhaar: Key Differences](/guide/aadhaar-vs-pan-difference)
-- [Aadhaar Name Correction Online](/guide/aadhaar-name-correction-online)
-- [Download e-PAN Card Online](/guide/download-e-pan-card-online)
-- [PAN Card Correction Online](/guide/pan-card-correction-online)
-- [Income Tax Refund Not Received — How to Fix](/guide/income-tax-refund-not-received-fix)
-
----
+- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
+- [How to Link Aadhaar with PAN Card — Step-by-Step Guide](/guide/aadhaar-pan-link)
+- [PAN-Aadhaar Link Failed: Common Errors and How to Fix](/guide/pan-aadhaar-link-failed-common-errors)
+- [How to Link Aadhaar with Voter ID (EPIC) Online — Step-by-Step Guide](/guide/aadhaar-voter-id-linking-online)
+- [Bank Account Aadhaar Link Not Working — How to Fix](/guide/bank-account-aadhaar-link-not-working-fix)
 
 ## Frequently Asked Questions
 

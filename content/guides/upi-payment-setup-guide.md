@@ -228,10 +228,11 @@ Your bank account remains active — only the UPI link is removed.
 
 ## Related Guides
 
+- [UPI Payment Failed But Money Debited — How to Get Refund](/guide/upi-payment-failed-money-debited-refund-fix)
+- [UPI Payment Refund Not Received — How to Fix](/guide/upi-payment-refund-not-received-fix)
 - [UPI Transaction Failed — All Error Codes & Fixes](/guide/upi-transaction-failed-fix)
 - [NEFT vs RTGS vs IMPS vs UPI — Difference Explained](/guide/neft-rtgs-imps-upi-difference)
-- [Bank Balance Check Online — All Banks](/guide/bank-balance-check-online-all-banks)
-- [SBI Net Banking Registration & Login Guide](/guide/sbi-net-banking-registration-login)
+- [WhatsApp Payment Not Working? How to Fix UPI on WhatsApp](/guide/whatsapp-payment-upi-not-working-fix)
 
 ## FAQs
 

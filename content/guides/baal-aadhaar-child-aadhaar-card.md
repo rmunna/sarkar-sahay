@@ -207,6 +207,14 @@ Having your child's Aadhaar opens up many doors:
 - **Ration Card Linking:** Add the child to the family's ration card
 - **Health ID (ABHA):** Create your child's Ayushman Bharat Health Account
 
+## Related Guides
+
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+- [Tatkal Aadhaar Enrollment — Fast-Track Aadhaar Application Guide](/guide/tatkal-aadhaar-enrollment)
+- [How to Find Nearest Aadhaar Centre — Google Maps, UIDAI Portal, Aadhaar Seva Kendra](/guide/find-nearest-aadhaar-centre-google-maps)
+- [Aadhaar Enrollment ID Lost — How to Retrieve It](/guide/aadhaar-enrollment-id-lost-retrieve-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+
 ## Frequently Asked Questions (FAQs)
 
 ### 1. Is Baal Aadhaar mandatory for children?

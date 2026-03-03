@@ -109,6 +109,14 @@ There is no official SMS-based status check for NREGA. Use the website or mobile
 4. **Link Aadhaar to bank account** for timely DBT payment
 5. **File grievances online** if payment is delayed beyond 15 days — this is your legal right
 
+## Related Guides
+
+- [PM Kisan Payment Not Received — How to Fix](/guide/pm-kisan-payment-not-received-fix)
+- [Pension Payment Not Credited to Bank — How to Fix](/guide/pension-payment-not-credited-fix)
+- [Scholarship Payment Not Received — How to Check & Fix](/guide/scholarship-payment-not-received-fix)
+- [Scholarship Payment Delayed — How to Track Status & Fix Delays](/guide/scholarship-payment-delayed-tracking-fix)
+- [UPI Payment Setup Guide — How to Set Up & Use UPI in India](/guide/upi-payment-setup-guide)
+
 ## FAQs
 
 ### Q1: How do I check my NREGA payment status online?

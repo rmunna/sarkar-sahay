@@ -133,6 +133,14 @@ Avoid long queues by booking an appointment online.
 
 ---
 
+## Related Guides
+
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+- [Tatkal Aadhaar Enrollment — Fast-Track Aadhaar Application Guide](/guide/tatkal-aadhaar-enrollment)
+- [How to Find Nearest Aadhaar Centre — Google Maps, UIDAI Portal, Aadhaar Seva Kendra](/guide/find-nearest-aadhaar-centre-google-maps)
+- [Baal Aadhaar Card — How to Apply for Child Aadhaar Below 5 Years](/guide/baal-aadhaar-child-aadhaar-card)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+
 ## Frequently Asked Questions
 
 ### Can I check my Aadhaar status without the Enrollment ID?
@@ -165,12 +173,6 @@ No. Since biometric verification is required at the centre, **you must visit in 
 | Check SMS | Same mobile number still active | Free |
 | UIDAI portal (EID/UID retrieval) | Mobile or email still accessible | Free |
 | Visit Aadhaar centre | All online methods fail | ₹50 (if applicable) |
-
----
-
-## Related Guides
-
-- [Aadhaar Card Download Not Working — How to Fix](/guides/aadhaar-card-download-not-working-fix)
 
 ---
 

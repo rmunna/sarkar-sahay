@@ -135,6 +135,14 @@ The downloaded e-Aadhaar PDF is **password-protected**. The password is:
 - Use the name exactly as it appears on your Aadhaar (check spelling)
 - Year of birth must be 4 digits (e.g., 1990, not 90)
 
+## Related Guides
+
+- [Aadhaar Card Download Not Working — How to Fix Guide)](/guide/aadhaar-card-download-not-working-fix)
+- [How to Download e-Aadhaar Card Online](/guide/download-e-aadhaar-card-online)
+- [How to Order Aadhaar PVC Card Online — Plastic Aadhaar Card](/guide/aadhaar-pvc-card-order-online)
+- [Aadhaar PVC Card Order Not Delivered — How to Fix](/guide/aadhaar-pvc-card-not-delivered-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+
 ## Frequently Asked Questions (FAQs)
 
 ### 1. Is e-Aadhaar legally valid for all purposes?

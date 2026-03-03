@@ -176,6 +176,14 @@ Once your Aadhaar is generated, you can download it immediately:
 - **New enrollment is free** — never pay for new Aadhaar enrollment; report such centres to UIDAI
 - **Children need mandatory updates** — Aadhaar for children must be updated with biometrics at ages 5, 10, and 15
 
+## Related Guides
+
+- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+- [How to Find Nearest Aadhaar Centre — Google Maps, UIDAI Portal, Aadhaar Seva Kendra](/guide/find-nearest-aadhaar-centre-google-maps)
+- [Aadhaar Enrollment ID Lost — How to Retrieve It](/guide/aadhaar-enrollment-id-lost-retrieve-fix)
+- [Baal Aadhaar Card — How to Apply for Child Aadhaar Below 5 Years](/guide/baal-aadhaar-child-aadhaar-card)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+
 ## Frequently Asked Questions
 
 ### How fast can I get an Aadhaar number?

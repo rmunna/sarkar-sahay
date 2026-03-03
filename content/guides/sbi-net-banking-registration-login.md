@@ -178,11 +178,11 @@ SBI Internet Banking offers a wide range of services:
 
 ## Related Guides
 
-- [Bank Balance Check Online — All Banks](/guide/bank-balance-check-online-all-banks)
-- [How to Open Bank Account Online in India](/guide/open-bank-account-online)
+- [SBI Net Banking Login Not Working — How to Fix Password, OTP & Locked Account Issues](/guide/sbi-net-banking-login-not-working-fix)
+- [HDFC Bank Net Banking/Mobile Banking Not Working — How to Fix](/guide/hdfc-netbanking-mobile-banking-not-working-fix)
+- [Bank Balance Check Online — All Banks (Missed Call, SMS, Net Banking, UPI)](/guide/bank-balance-check-online-all-banks)
+- [UPI Payment Setup Guide — How to Set Up & Use UPI in India](/guide/upi-payment-setup-guide)
 - [NEFT vs RTGS vs IMPS vs UPI — Difference Explained](/guide/neft-rtgs-imps-upi-difference)
-- [IFSC Code Search — How to Find Bank IFSC Code Online](/guide/ifsc-code-search-find-online)
-- [UPI Payment Setup Guide](/guide/upi-payment-setup-guide)
 
 ## Frequently Asked Questions (FAQs)
 

@@ -165,6 +165,14 @@ If you prefer to apply offline:
 - **Mismatched names:** Your name should match across all uploaded documents. Minor variations can cause rejection
 - **Duplicate registration:** If you have moved states, do not apply for a new registration without first getting your old one deleted or transferred. Use [Form 6A for shifting](/guide/voter-id-card-apply-online)
 
+## Related Guides
+
+- [How to Transfer Voter ID to New Address — Form 8A Online](/guide/voter-id-address-change-transfer-fix)
+- [Voter ID Application Rejected: How to Fix](/guide/voter-id-application-rejected-fix)
+- [How to Apply for Voter ID Card (EPIC) Online — Step-by-Step Guide](/guide/voter-id-card-apply-online)
+- [Voter ID Card Online Correction Not Working — How to Fix](/guide/voter-id-correction-not-working-fix)
+- [How to Correct Voter ID Card Online](/guide/voter-id-correction-online)
+
 ## FAQ — Frequently Asked Questions
 
 ### Can I register as a voter before turning 18?
@@ -203,10 +211,3 @@ You will receive the rejection reason via SMS or on the portal. Common reasons i
 - [Voter ID Status Check Online](/guide/voter-id-status-check-online)
 - [Download e-EPIC Digital Voter ID](/guide/e-epic-digital-voter-id-download-guide)
 - [Link Aadhaar with Voter ID](/guide/aadhaar-voter-id-linking-online)
-
-## Related Guides
-
-- [How to Apply for Voter ID Card Online](/guide/voter-id-card-apply-online)
-- [How to Correct Voter ID Details Online](/guide/voter-id-correction-online)
-- [How to Link Aadhaar with Voter ID](/guide/aadhaar-voter-id-linking-online)
-- [How to Apply for Aadhaar Card](/guide/aadhaar-card-apply-online)

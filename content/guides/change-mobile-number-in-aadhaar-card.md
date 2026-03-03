@@ -172,6 +172,14 @@ Biometric failures are common, especially for elderly people or manual laborers 
 7. **After update, verify** — Once the update is complete, try downloading e-Aadhaar using OTP on the new number to confirm it's working.
 8. **Combine updates** — If you need to update address or name too, do it in the same visit to save time and money (same ₹50 fee covers all demographic updates).
 
+## Related Guides
+
+- [How to Update Mobile Number and Email in Aadhaar — Complete Guide](/guide/aadhaar-update-mobile-email)
+- [Aadhaar OTP Not Coming? Fix OTP Limit Exceeded Error](/guide/aadhaar-otp-not-received-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)
+
 ## FAQs
 
 **Q: Can I update my Aadhaar mobile number online?**

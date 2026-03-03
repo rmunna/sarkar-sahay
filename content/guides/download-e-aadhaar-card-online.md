@@ -152,6 +152,14 @@ If you want a physical, durable PVC card (similar to a debit card), you can orde
 
 ---
 
+## Related Guides
+
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [Aadhaar Card Download Not Working — How to Fix Guide)](/guide/aadhaar-card-download-not-working-fix)
+- [How to Order Aadhaar PVC Card Online — Plastic Aadhaar Card](/guide/aadhaar-pvc-card-order-online)
+- [Aadhaar PVC Card Order Not Delivered — How to Fix](/guide/aadhaar-pvc-card-not-delivered-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+
 ## Frequently Asked Questions (FAQs)
 
 ### Is e-Aadhaar valid as an identity proof?

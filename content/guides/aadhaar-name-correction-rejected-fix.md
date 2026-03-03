@@ -174,6 +174,14 @@ If your correction keeps getting rejected despite correct documents, escalate:
 - Attach all documents and previous rejection details
 - You'll get a tracking number and typically receive a response within **30 days**
 
+## Related Guides
+
+- [How to Correct Name in Aadhaar Card Online](/guide/aadhaar-name-correction-online)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)
+- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
+
 ## Frequently Asked Questions
 
 **Q: How many times can I change my name on Aadhaar?**
@@ -190,11 +198,6 @@ A: Online corrections via SSUP are **free**. At an Aadhaar centre, the fee is **
 
 **Q: My name was correct earlier but got changed after a biometric update. What do I do?**
 A: This is a known issue. Visit an Aadhaar Enrolment Centre with your old Aadhaar letter and a valid ID proof showing the correct name. File a complaint at UIDAI helpline **1947** simultaneously.
-
-## Related Guides
-
-- [Aadhaar Address Update Rejected — Reasons & Fix](/guides/aadhaar-address-update-rejected-fix)
-- [Aadhaar Mobile Number Update — How to Fix](/guides/aadhar-mobile-number-update-fix)
 
 ## Related Aadhaar Guides
 

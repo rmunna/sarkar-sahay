@@ -187,6 +187,14 @@ If the website isn't working, use the official **mAadhaar app**:
 
 ---
 
+## Related Guides
+
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [How to Download e-Aadhaar Card Online](/guide/download-e-aadhaar-card-online)
+- [How to Order Aadhaar PVC Card Online — Plastic Aadhaar Card](/guide/aadhaar-pvc-card-order-online)
+- [Aadhaar PVC Card Order Not Delivered — How to Fix](/guide/aadhaar-pvc-card-not-delivered-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+
 ## Frequently Asked Questions (FAQs)
 
 ### How many times can I download e-Aadhaar in a day?
@@ -218,16 +226,6 @@ Go to [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in) → "Verify Aadha
 Captcha issues usually happen due to **browser cache or slow internet**. Try clearing cache, using incognito mode, or switching browsers. If the captcha image doesn't load, refresh the page — don't try to guess a blank captcha.
 
 ---
-
-## Related Guides
-
-- [How to Download e-Aadhaar Card PDF Online](/guides/aadhaar-card-download-online)
-- [Aadhaar OTP Not Coming? 8 Quick Fixes](/guides/aadhaar-otp-not-received-fix)
-- [Aadhaar Common Problems & Solutions](/guides/aadhaar-common-problems-solutions)
-- [Aadhaar Biometric Lock & Unlock Guide](/guides/aadhaar-biometric-lock-unlock)
-- [How to Update Mobile Number in Aadhaar](/guides/aadhaar-update-mobile-email)
-- [Lost Aadhaar Card? How to Retrieve It](/guides/lost-aadhaar-card-retrieval)
-- [Find Nearest Aadhaar Centre via Google Maps](/guides/find-nearest-aadhaar-centre-google-maps)
 
 ## Related Aadhaar Guides
 

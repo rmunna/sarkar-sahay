@@ -194,9 +194,10 @@ While the physical bank locker requires an in-person visit, India's [DigiLocker]
 ## Related Guides
 
 - [How to Open Bank Account Online in India](/guide/open-bank-account-online)
-- [SBI Net Banking Registration & Login Guide](/guide/sbi-net-banking-registration-login)
-- [Bank Balance Check Online — All Banks](/guide/bank-balance-check-online-all-banks)
-- [National Savings Certificate (NSC) Guide](/guide/national-savings-certificate-nsc-guide)
+- [Bank Account Frozen or Blocked — How to Unblock It](/guide/bank-account-frozen-blocked-unblock-fix)
+- [Bank Account Aadhaar Link Not Working — How to Fix](/guide/bank-account-aadhaar-link-not-working-fix)
+- [How to Update Nominee in Bank, Insurance, EPF, PPF & Mutual Funds](/guide/nomination-update-bank-insurance-epf)
+- [UPI Payment Setup Guide — How to Set Up & Use UPI in India](/guide/upi-payment-setup-guide)
 
 ## Frequently Asked Questions
 

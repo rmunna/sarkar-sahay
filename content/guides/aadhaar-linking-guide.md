@@ -314,6 +314,14 @@ For more on ration cards: **[How to Apply for Ration Card](/guide/ration-card-ap
 
 ---
 
+## Related Guides
+
+- [How to Link Aadhaar with PAN Card — Step-by-Step Guide](/guide/aadhaar-pan-link)
+- [PAN Aadhaar Link Failed — How to Fix Every Error](/guide/pan-aadhaar-link-failed-fix)
+- [PAN-Aadhaar Link Failed: Common Errors and How to Fix](/guide/pan-aadhaar-link-failed-common-errors)
+- [How to Link Aadhaar with Voter ID (EPIC) Online — Step-by-Step Guide](/guide/aadhaar-voter-id-linking-online)
+- [Bank Account Aadhaar Link Not Working — How to Fix](/guide/bank-account-aadhaar-link-not-working-fix)
+
 ## Frequently Asked Questions (FAQs)
 
 ### Q1. What happens if I don't link Aadhaar with PAN?
@@ -347,15 +355,6 @@ Yes, if you have a valid Aadhaar number. NRIs can link Aadhaar with their NRE/NR
 Make sure your **Aadhaar is also linked with your bank account** (the same bank account registered with your LPG distributor). The subsidy flows through: LPG → Aadhaar → Bank Account. If any link is missing, the subsidy won't come.
 
 ---
-
-## Related Guides
-
-- [How to Apply for Aadhaar Card Online](/guide/aadhaar-card-apply-online)
-- [How to Link Aadhaar with PAN — Detailed Guide](/guide/aadhaar-pan-link)
-- [How to Change Mobile Number in Aadhaar](/guide/change-mobile-number-in-aadhaar-card)
-- [EPF/PF Withdrawal Online](/guide/epf-pf-withdrawal-online)
-- [LPG Subsidy & Ujjwala Yojana](/guide/lpg-subsidy-ujjwala-yojana)
-- [How to Apply for Ration Card](/guide/ration-card-apply-online)
 
 ## Related Aadhaar Guides
 

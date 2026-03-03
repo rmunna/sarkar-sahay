@@ -219,10 +219,11 @@ For more troubleshooting, see our [Aadhaar common problems and solutions guide](
 
 ## Related Guides
 
-- [How to Apply for Aadhaar Card Online](/guide/aadhaar-card-apply-online)
-- [Download e-Aadhaar Card Online](/guide/download-e-aadhaar-card-online)
-- [Aadhaar Linking Guide](/guide/aadhaar-linking-guide)
-- [Aadhaar Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [Aadhaar Biometric Lock Not Working? How to Fix Lock/Unlock Errors](/guide/aadhaar-biometric-lock-not-working-fix)
+- [Aadhaar Biometric Not Matching? Fix Face & Fingerprint](/guide/aadhaar-biometric-verification-failed-fix)
+- [Aadhaar Face Authentication Failed — How to Fix Face Match Errors](/guide/aadhaar-face-authentication-failed-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
 
 ## Frequently Asked Questions
 

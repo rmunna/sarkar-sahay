@@ -194,11 +194,11 @@ Visit your bank branch and use the **passbook printing machine** (available in m
 
 ## Related Guides
 
-- [SBI Net Banking Registration & Login Guide](/guide/sbi-net-banking-registration-login)
-- [How to Open Bank Account Online in India](/guide/open-bank-account-online)
-- [IFSC Code Search — How to Find Bank IFSC Code Online](/guide/ifsc-code-search-find-online)
-- [UPI Payment Setup Guide](/guide/upi-payment-setup-guide)
-- [How to Block ATM Card — Lost Debit Card Block and Reissue](/guide/block-atm-debit-card-lost-reissue)
+- [SBI Net Banking Registration & Login — Complete Step-by-Step Guide](/guide/sbi-net-banking-registration-login)
+- [SBI Net Banking Login Not Working — How to Fix Password, OTP & Locked Account Issues](/guide/sbi-net-banking-login-not-working-fix)
+- [HDFC Bank Net Banking/Mobile Banking Not Working — How to Fix](/guide/hdfc-netbanking-mobile-banking-not-working-fix)
+- [UPI Payment Setup Guide — How to Set Up & Use UPI in India](/guide/upi-payment-setup-guide)
+- [NEFT vs RTGS vs IMPS vs UPI — Difference Explained](/guide/neft-rtgs-imps-upi-difference)
 
 ## Frequently Asked Questions (FAQs)
 

@@ -253,6 +253,14 @@ If your issue isn't resolved through the portal or helpline:
 
 ---
 
+## Related Guides
+
+- [How to Pay Electricity Bill Online — All State Discoms](/guide/electricity-bill-payment-online)
+- [Electricity Bill Payment Failed — How to Fix](/guide/electricity-bill-payment-failed-fix)
+- [How to Pay Water Bill Online — Municipal & Jal Board](/guide/water-bill-payment-online)
+- [How to Pay Property Tax Online in India — Municipal Tax Payment Guide](/guide/property-tax-payment-online)
+- [Bharat Bill Payment System (BBPS) — Complete Guide to Pay All Bills](/guide/bharat-bill-payment-system)
+
 ## Frequently Asked Questions
 
 ### My payment was deducted twice. What do I do?
@@ -271,9 +279,3 @@ Yes. The digitally generated receipt from the official municipal portal is legal
 Yes, but only through the ward office. Submit an application with proof of wrong payment and correct Property ID. Refunds or transfers take 15–30 working days.
 
 ---
-
-## Related Guides
-
-- [How to Pay Property Tax Online — Complete Guide](/guides/how-to-pay-property-tax-online)
-- [Property Mutation — How to Transfer Property in Municipal Records](/guides/property-mutation-transfer-guide)
-- [Khata Transfer and Extract — BBMP Bangalore Guide](/guides/khata-transfer-bbmp-bangalore)

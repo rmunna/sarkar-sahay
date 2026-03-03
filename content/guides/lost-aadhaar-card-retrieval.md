@@ -91,6 +91,14 @@ If you've lost your Aadhaar and suspect it may be misused:
 4. **File a complaint** at UIDAI helpline **1947** if you notice unauthorized use
 5. **File a police complaint** if you suspect identity theft
 
+## Related Guides
+
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [Baal Aadhaar to Adult Aadhaar — Minor to Major Aadhaar Update Guide](/guide/minor-to-major-aadhaar-update)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
+
 ## Frequently Asked Questions (FAQs)
 
 ### 1. Can I retrieve my Aadhaar number without a registered mobile number?

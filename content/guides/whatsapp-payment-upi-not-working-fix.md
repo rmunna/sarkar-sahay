@@ -261,6 +261,14 @@ If WhatsApp Pay is not working, run through this checklist:
 
 ---
 
+## Related Guides
+
+- [UPI Payment Setup Guide — How to Set Up & Use UPI in India](/guide/upi-payment-setup-guide)
+- [UPI Payment Failed But Money Debited — How to Get Refund](/guide/upi-payment-failed-money-debited-refund-fix)
+- [UPI Payment Refund Not Received — How to Fix](/guide/upi-payment-refund-not-received-fix)
+- [UPI Transaction Failed — All Error Codes & Fixes](/guide/upi-transaction-failed-fix)
+- [NEFT vs RTGS vs IMPS vs UPI — Difference Explained](/guide/neft-rtgs-imps-upi-difference)
+
 ## Frequently Asked Questions
 
 ### Q1: Why is WhatsApp payment option not showing on my phone?

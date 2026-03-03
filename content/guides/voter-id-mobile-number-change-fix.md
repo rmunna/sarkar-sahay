@@ -146,6 +146,14 @@ If you **cannot access your old registered mobile number**, this is the most rel
 4. **Carry Aadhaar along with Voter ID** when visiting the ERO office for faster verification
 5. **Save the Voter Helpline number: 1950** — it's toll-free and available across India
 
+## Related Guides
+
+- [How to Transfer Voter ID to New Address — Form 8A Online](/guide/voter-id-address-change-transfer-fix)
+- [Voter ID Application Rejected: How to Fix](/guide/voter-id-application-rejected-fix)
+- [How to Apply for Voter ID Card (EPIC) Online — Step-by-Step Guide](/guide/voter-id-card-apply-online)
+- [Voter ID Card Online Correction Not Working — How to Fix](/guide/voter-id-correction-not-working-fix)
+- [How to Correct Voter ID Card Online](/guide/voter-id-correction-online)
+
 ## Frequently Asked Questions
 
 ### Can I change my Voter ID mobile number without OTP?
@@ -187,14 +195,3 @@ When you try to login at [voters.eci.gov.in](https://voters.eci.gov.in/), the sy
 - [Voter ID Correction Online](/guide/voter-id-correction-online)
 - [Voter ID Verification Online](/guide/voter-id-verification-online)
 - [Link Aadhaar with Voter ID](/guide/aadhaar-voter-id-linking-online)
-
-## Related Guides
-
-- [Voter ID Download Not Working — How to Fix](/guide/voter-id-download-not-working-fix)
-- [Voter ID Verification Online](/guide/voter-id-verification-online)
-- [Voter ID Correction Online](/guide/voter-id-correction-online)
-- [How to Apply for Voter ID Online](/guide/voter-id-card-apply-online)
-
----
-
-*This is an independent guide by CitizenNest. We are not affiliated with the Election Commission of India or any government body. Information is sourced from official ECI portals. Always verify current processes on [voters.eci.gov.in](https://voters.eci.gov.in/).*

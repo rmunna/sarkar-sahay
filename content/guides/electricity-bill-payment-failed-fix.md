@@ -238,6 +238,14 @@ If your complaint is not resolved:
 
 ---
 
+## Related Guides
+
+- [How to Pay Electricity Bill Online — All State Discoms](/guide/electricity-bill-payment-online)
+- [How to Pay Water Bill Online — Municipal & Jal Board](/guide/water-bill-payment-online)
+- [How to Pay Property Tax Online in India — Municipal Tax Payment Guide](/guide/property-tax-payment-online)
+- [Property Tax Online Payment Failed — How to Fix](/guide/property-tax-payment-failed-fix)
+- [Bharat Bill Payment System (BBPS) — Complete Guide to Pay All Bills](/guide/bharat-bill-payment-system)
+
 ## Frequently Asked Questions
 
 ### My electricity bill payment failed but money was deducted. What do I do?
@@ -265,7 +273,3 @@ Log in to your DISCOM portal or app and check **Payment History**. You can also 
 Use **Bharat BillPay (BBPS)** through your bank app or any BBPS-enabled platform. It provides standardized receipts and easier dispute resolution. Read our [complete BBPS guide](/guides/bharat-bill-payment-system).
 
 ---
-
-## Related Guides
-
-- [Bharat Bill Payment System (BBPS) — Complete Guide](/guides/bharat-bill-payment-system)

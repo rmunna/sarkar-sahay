@@ -174,6 +174,14 @@ If you prefer not to book online, you can directly visit any Aadhaar enrollment 
 8. **Visit early morning** — Enrollment centers get crowded after 11 AM
 9. **Check for free update camps** — UIDAI periodically runs free update camps, especially for biometric updates
 
+## Related Guides
+
+- [Tatkal Aadhaar Enrollment — Fast-Track Aadhaar Application Guide](/guide/tatkal-aadhaar-enrollment)
+- [How to Find Nearest Aadhaar Centre — Google Maps, UIDAI Portal, Aadhaar Seva Kendra](/guide/find-nearest-aadhaar-centre-google-maps)
+- [Aadhaar Enrollment ID Lost — How to Retrieve It](/guide/aadhaar-enrollment-id-lost-retrieve-fix)
+- [Baal Aadhaar Card — How to Apply for Child Aadhaar Below 5 Years](/guide/baal-aadhaar-child-aadhaar-card)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+
 ## FAQs
 
 **Q: Can I apply for Aadhaar online without visiting a center?**

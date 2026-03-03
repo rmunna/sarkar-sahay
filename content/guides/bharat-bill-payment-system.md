@@ -145,6 +145,14 @@ Popular UPI apps support BBPS:
 - **Use bill fetch** — always fetch the bill amount instead of entering manually to avoid over/under payment
 - **Set up auto-pay** — for regular bills like electricity and broadband, auto-pay ensures you never miss a due date
 
+## Related Guides
+
+- [How to Pay Electricity Bill Online — All State Discoms](/guide/electricity-bill-payment-online)
+- [Electricity Bill Payment Failed — How to Fix](/guide/electricity-bill-payment-failed-fix)
+- [How to Pay Water Bill Online — Municipal & Jal Board](/guide/water-bill-payment-online)
+- [How to Pay Property Tax Online in India — Municipal Tax Payment Guide](/guide/property-tax-payment-online)
+- [Property Tax Online Payment Failed — How to Fix](/guide/property-tax-payment-failed-fix)
+
 ## Frequently Asked Questions
 
 ### Is BBPS free to use?

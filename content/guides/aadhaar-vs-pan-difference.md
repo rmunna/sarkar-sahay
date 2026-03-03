@@ -128,6 +128,14 @@ No. Aadhaar and PAN serve fundamentally different purposes:
 4. **Download e-Aadhaar and e-PAN** from DigiLocker for digital copies
 5. **Never share Aadhaar number** publicly — use masked Aadhaar (last 4 digits only) where possible
 
+## Related Guides
+
+- [Aadhaar vs Voter ID vs Passport – Which ID Proof to Use and When](/guide/aadhaar-vs-voter-id-vs-passport-id-proof)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)
+- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
+
 ## FAQs
 
 ### Is Aadhaar card mandatory in India?

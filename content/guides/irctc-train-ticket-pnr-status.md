@@ -289,6 +289,14 @@ You can also call **139** and select the complaint option, or use the **RailMada
 
 ---
 
+## Related Guides
+
+- [IRCTC Account Locked After Multiple Attempts — How to Unlock It](/guide/irctc-account-locked-unlock-fix)
+- [IRCTC Account Locked? Fix Multiple Failed Login Attempts](/guide/irctc-account-login-problems-fix)
+- [IRCTC Forgot Password — How to Reset Step by Step](/guide/irctc-forgot-password-reset-fix)
+- [IRCTC OTP Not Received? How to Fix OTP Problems During Login & Booking](/guide/irctc-otp-not-received-fix)
+- [IRCTC Payment Deducted But Ticket Not Booked — How to Get Refund](/guide/irctc-payment-deducted-ticket-not-booked-fix)
+
 ## Frequently Asked Questions
 
 ### How long does it take for IRCTC refund to come?

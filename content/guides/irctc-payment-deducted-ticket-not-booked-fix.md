@@ -141,6 +141,14 @@ The Reserve Bank of India has clear guidelines to protect consumers in case of f
 4. **Keep your registered mobile number updated** on IRCTC — refund and booking confirmations are sent via SMS
 5. **Check both email and SMS** — sometimes the booking confirmation reaches one channel but not the other
 
+## Related Guides
+
+- [IRCTC Account Locked After Multiple Attempts — How to Unlock It](/guide/irctc-account-locked-unlock-fix)
+- [IRCTC Account Locked? Fix Multiple Failed Login Attempts](/guide/irctc-account-login-problems-fix)
+- [IRCTC Forgot Password — How to Reset Step by Step](/guide/irctc-forgot-password-reset-fix)
+- [IRCTC OTP Not Received? How to Fix OTP Problems During Login & Booking](/guide/irctc-otp-not-received-fix)
+- [IRCTC Tatkal Ticket Booking Not Working — How to Fix](/guide/irctc-tatkal-booking-not-working-fix)
+
 ## Frequently Asked Questions
 
 ### Q1: How long does IRCTC take to refund money for failed transactions?

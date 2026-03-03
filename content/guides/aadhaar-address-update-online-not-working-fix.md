@@ -174,6 +174,14 @@ If the online method keeps failing, visit an Aadhaar centre:
 | Request stuck in progress | Track via URN, call 1947 after 90 days |
 | Payment failed | Wait 48–72 hrs for refund, contact bank if needed |
 
+## Related Guides
+
+- [How to Change Address in Aadhaar Card Online and Offline](/guide/aadhaar-address-change-online)
+- [Aadhaar Address Update Rejected — Reasons & Fix](/guide/aadhaar-address-update-rejected-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)
+
 ## Frequently Asked Questions
 
 ### Can I update my Aadhaar address without a registered mobile number?

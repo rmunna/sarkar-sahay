@@ -245,12 +245,11 @@ You can also track via the **Voter Helpline App** or by calling **1950**.
 
 ## Related Guides
 
-- [How to Apply for Voter ID Card Online](/guide/voter-id-card-apply-online) — first-time voter registration
-- [How to Correct Voter ID Card Online](/guide/voter-id-correction-online) — fix name, photo, DOB errors
-- [Voter ID Application Rejected — How to Fix](/guide/voter-id-application-rejected-fix) — troubleshoot rejections
-- [Voter ID Download Not Working — Fix](/guide/voter-id-download-not-working-fix) — e-EPIC download issues
-
----
+- [Voter ID Application Rejected: How to Fix](/guide/voter-id-application-rejected-fix)
+- [How to Apply for Voter ID Card (EPIC) Online — Step-by-Step Guide](/guide/voter-id-card-apply-online)
+- [Voter ID Card Online Correction Not Working — How to Fix](/guide/voter-id-correction-not-working-fix)
+- [How to Correct Voter ID Card Online](/guide/voter-id-correction-online)
+- [Voter ID Download Not Working? Fix e-EPIC Errors (NVSP)](/guide/voter-id-download-not-working-fix)
 
 ## FAQs
 

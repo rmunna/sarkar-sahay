@@ -189,13 +189,11 @@ Contact if:
 
 ## Related Guides
 
-- [How to Apply for Voter ID Card Online](/guide/voter-id-card-apply-online)
-- [How to Link Aadhaar with Voter ID](/guide/aadhaar-voter-id-linking-online)
-- [Aadhaar Card Apply Online](/guide/aadhaar-card-apply-online)
-- [Aadhaar Common Problems and Solutions](/guide/aadhaar-common-problems-solutions)
-- [DigiLocker Document Not Showing: Fix](/guide/digilocker-document-not-showing-fix)
-
----
+- [How to Transfer Voter ID to New Address — Form 8A Online](/guide/voter-id-address-change-transfer-fix)
+- [How to Apply for Voter ID Card (EPIC) Online — Step-by-Step Guide](/guide/voter-id-card-apply-online)
+- [Voter ID Card Online Correction Not Working — How to Fix](/guide/voter-id-correction-not-working-fix)
+- [How to Correct Voter ID Card Online](/guide/voter-id-correction-online)
+- [Voter ID Download Not Working? Fix e-EPIC Errors (NVSP)](/guide/voter-id-download-not-working-fix)
 
 ## Frequently Asked Questions
 

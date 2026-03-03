@@ -145,6 +145,14 @@ While waiting for your PVC card, consider whether you really need it:
 
 > 💡 **Pro Tip:** e-Aadhaar is legally equivalent to the PVC card. You can [download it instantly](https://eaadhaar.uidai.gov.in) as a workaround while you wait for delivery. Having trouble downloading? Check our guide on [fixing Aadhaar card download issues](/guides/aadhaar-card-download-not-working-fix).
 
+## Related Guides
+
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [Aadhaar Card Download Not Working — How to Fix Guide)](/guide/aadhaar-card-download-not-working-fix)
+- [How to Download e-Aadhaar Card Online](/guide/download-e-aadhaar-card-online)
+- [How to Order Aadhaar PVC Card Online — Plastic Aadhaar Card](/guide/aadhaar-pvc-card-order-online)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+
 ## Frequently Asked Questions
 
 ### How long does Aadhaar PVC card delivery take?

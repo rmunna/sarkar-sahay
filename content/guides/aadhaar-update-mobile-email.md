@@ -119,6 +119,14 @@ For **mobile number update at a centre**, you need:
 4. **Update before your old SIM expires** — if your old number is deactivated, you must visit a centre (online update won't work)
 5. **Aadhaar-linked services** (bank, gas, etc.) will automatically use the new number after update is processed
 
+## Related Guides
+
+- [How to Change Mobile Number in Aadhaar Card — Step-by-Step Guide](/guide/change-mobile-number-in-aadhaar-card)
+- [Aadhaar OTP Not Coming? Fix OTP Limit Exceeded Error](/guide/aadhaar-otp-not-received-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)
+
 ## Frequently Asked Questions (FAQs)
 
 ### 1. Can I update my mobile number in Aadhaar without the old number?

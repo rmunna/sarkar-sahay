@@ -150,6 +150,14 @@ Even if you don't have your reference ID, you can check if your voter registrati
 
 ---
 
+## Related Guides
+
+- [How to Transfer Voter ID to New Address — Form 8A Online](/guide/voter-id-address-change-transfer-fix)
+- [Voter ID Application Rejected: How to Fix](/guide/voter-id-application-rejected-fix)
+- [How to Apply for Voter ID Card (EPIC) Online — Step-by-Step Guide](/guide/voter-id-card-apply-online)
+- [Voter ID Card Online Correction Not Working — How to Fix](/guide/voter-id-correction-not-working-fix)
+- [How to Correct Voter ID Card Online](/guide/voter-id-correction-online)
+
 ## Frequently Asked Questions (FAQ)
 
 ### Q1: How long does it take to get a voter ID card after applying?
@@ -180,13 +188,3 @@ Yes, the e-EPIC (digital voter ID) is a valid identity proof and can be used whe
 - [Voter ID Verification Online](/guide/voter-id-verification-online)
 
 ---
-
-## Related Guides
-
-- [Aadhaar-Voter ID Linking](/guide/aadhaar-voter-id-linking-online) — Link your Aadhaar with voter ID
-- [Aadhaar Card Apply Online](/guide/aadhaar-card-apply-online) — Get Aadhaar for voter ID linking
-- [Passport Application Status Check](/guide/passport-application-status-track) — Track your passport application
-
----
-
-*Last updated: February 2026. Voter ID processes may vary by state. Always verify on [nvsp.in](https://www.nvsp.in) for the latest information.*

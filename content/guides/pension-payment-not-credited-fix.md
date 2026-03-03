@@ -333,6 +333,14 @@ Use this quick checklist to resolve pension issues:
 
 ---
 
+## Related Guides
+
+- [PM Kisan Payment Not Received — How to Fix](/guide/pm-kisan-payment-not-received-fix)
+- [NREGA Job Card Status & Payment Check Online — Step-by-Step Guide](/guide/nrega-job-card-payment-status)
+- [Scholarship Payment Not Received — How to Check & Fix](/guide/scholarship-payment-not-received-fix)
+- [Scholarship Payment Delayed — How to Track Status & Fix Delays](/guide/scholarship-payment-delayed-tracking-fix)
+- [UPI Payment Setup Guide — How to Set Up & Use UPI in India](/guide/upi-payment-setup-guide)
+
 ## Frequently Asked Questions
 
 ### Why was my pension stopped without notice?

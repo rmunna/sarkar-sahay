@@ -153,6 +153,14 @@ This is a critical difference. Aadhaar is issued to residents, not necessarily c
 
 ---
 
+## Related Guides
+
+- [How to Transfer Voter ID to New Address — Form 8A Online](/guide/voter-id-address-change-transfer-fix)
+- [Voter ID Application Rejected: How to Fix](/guide/voter-id-application-rejected-fix)
+- [How to Apply for Voter ID Card (EPIC) Online — Step-by-Step Guide](/guide/voter-id-card-apply-online)
+- [Voter ID Card Online Correction Not Working — How to Fix](/guide/voter-id-correction-not-working-fix)
+- [How to Correct Voter ID Card Online](/guide/voter-id-correction-online)
+
 ## Frequently Asked Questions
 
 ### Can Aadhaar be used as a substitute for Voter ID at polling booths?
@@ -186,15 +194,6 @@ Aadhaar is the easiest — free enrolment at any Aadhaar centre with minimal doc
 - [Download e-EPIC Digital Voter ID](/guide/e-epic-digital-voter-id-download-guide)
 
 ---
-
-## Related Guides
-
-- [Aadhaar Card Apply Online](/guide/aadhaar-card-apply-online)
-- [Voter ID Apply Online](/guide/voter-id-card-apply-online)
-- [Passport Apply Online](/guide/passport-apply-online)
-- [Aadhaar vs PAN Difference](/guide/aadhaar-vs-pan-difference)
-- [Aadhaar-Voter ID Linking](/guide/aadhaar-voter-id-linking-online)
-- [Aadhaar PAN Link](/guide/aadhaar-pan-link)
 
 ## Related Aadhaar Guides
 

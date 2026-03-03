@@ -178,11 +178,11 @@ If you fail to pay the premium even within the grace period, your policy **lapse
 
 ## Related Guides
 
-- [LIC Policy Status Check Online — 5 Easy Methods](/guide/lic-policy-status-check-online)
-- [LIC Policy Surrender — How to Surrender and Get Money Back](/guide/lic-policy-surrender-process)
-- [SBI Net Banking Registration & Login Guide](/guide/sbi-net-banking-registration-login)
-- [UPI Payment Setup Guide](/guide/upi-payment-setup-guide)
-- [How to Open PPF Account Online](/guide/ppf-public-provident-fund-account)
+- [How to Pay Electricity Bill Online — All State Discoms](/guide/electricity-bill-payment-online)
+- [Electricity Bill Payment Failed — How to Fix](/guide/electricity-bill-payment-failed-fix)
+- [How to Pay Water Bill Online — Municipal & Jal Board](/guide/water-bill-payment-online)
+- [How to Pay Property Tax Online in India — Municipal Tax Payment Guide](/guide/property-tax-payment-online)
+- [Property Tax Online Payment Failed — How to Fix](/guide/property-tax-payment-failed-fix)
 
 ## Frequently Asked Questions (FAQs)
 

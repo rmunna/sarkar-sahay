@@ -163,6 +163,14 @@ You will **not** receive a new voter ID card — your existing valid voter ID co
 4. **Verify after deletion** — After 30 days, search the electoral roll again on [voters.eci.gov.in](https://voters.eci.gov.in/) to confirm the duplicate has been removed
 5. **Don't vote twice** — Even if your name appears in two places, voting in both constituencies is a criminal offence under Section 171F of IPC with imprisonment up to 1 year
 
+## Related Guides
+
+- [How to Transfer Voter ID to New Address — Form 8A Online](/guide/voter-id-address-change-transfer-fix)
+- [Voter ID Application Rejected: How to Fix](/guide/voter-id-application-rejected-fix)
+- [How to Apply for Voter ID Card (EPIC) Online — Step-by-Step Guide](/guide/voter-id-card-apply-online)
+- [Voter ID Card Online Correction Not Working — How to Fix](/guide/voter-id-correction-not-working-fix)
+- [How to Correct Voter ID Card Online](/guide/voter-id-correction-online)
+
 ## Frequently Asked Questions
 
 ### Q1: Is it illegal to have two voter IDs?

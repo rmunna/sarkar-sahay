@@ -268,11 +268,11 @@ The [PM Jan Dhan Yojana](/guide/pm-jan-dhan-yojana) (PMJDY) account can be opene
 
 ## Related Guides
 
-- [SBI Net Banking Registration & Login Guide](/guide/sbi-net-banking-registration-login)
-- [Bank Balance Check Online — All Banks](/guide/bank-balance-check-online-all-banks)
-- [How to Get Bank Locker — Rules, Charges & RBI Guidelines](/guide/bank-locker-rules-charges-rbi)
-- [NEFT vs RTGS vs IMPS vs UPI — Difference Explained](/guide/neft-rtgs-imps-upi-difference)
-- [How to Open PPF Account Online](/guide/ppf-public-provident-fund-account)
+- [Bank Account Frozen or Blocked — How to Unblock It](/guide/bank-account-frozen-blocked-unblock-fix)
+- [Bank Account Aadhaar Link Not Working — How to Fix](/guide/bank-account-aadhaar-link-not-working-fix)
+- [How to Update Nominee in Bank, Insurance, EPF, PPF & Mutual Funds](/guide/nomination-update-bank-insurance-epf)
+- [How to Get Bank Locker — Rules, Charges, Nomination & RBI Guidelines](/guide/bank-locker-rules-charges-rbi)
+- [UPI Payment Setup Guide — How to Set Up & Use UPI in India](/guide/upi-payment-setup-guide)
 
 ## Frequently Asked Questions (FAQs)
 

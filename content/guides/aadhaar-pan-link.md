@@ -146,6 +146,14 @@ If your PAN became inoperative due to non-linking:
 6. **File ITR on time** — Even after linking, file your pending ITR before the deadline to avoid penalties
 7. **Inform your employer** — If PAN was inoperative, inform HR/accounts team once it's reactivated so they adjust TDS
 
+## Related Guides
+
+- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
+- [PAN Aadhaar Link Failed — How to Fix Every Error](/guide/pan-aadhaar-link-failed-fix)
+- [PAN-Aadhaar Link Failed: Common Errors and How to Fix](/guide/pan-aadhaar-link-failed-common-errors)
+- [How to Link Aadhaar with Voter ID (EPIC) Online — Step-by-Step Guide](/guide/aadhaar-voter-id-linking-online)
+- [Bank Account Aadhaar Link Not Working — How to Fix](/guide/bank-account-aadhaar-link-not-working-fix)
+
 ## FAQs
 
 **Q: Is Aadhaar-PAN linking mandatory?**

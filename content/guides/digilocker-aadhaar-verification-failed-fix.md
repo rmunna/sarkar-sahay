@@ -185,13 +185,11 @@ Several apps integrate with DigiLocker:
 
 ## Related Guides
 
-- [DigiLocker Document Not Showing Fix](/guide/digilocker-document-not-showing-fix)
-- [Aadhaar OTP Not Received Fix](/guide/aadhaar-otp-not-received-fix)
-- [Aadhaar Biometric Verification Failed Fix](/guide/aadhaar-biometric-verification-failed-fix)
-- [UMANG App Not Working Fix](/guide/umang-app-not-working-fix)
-- [Aadhaar Card Apply Online](/guide/aadhaar-card-apply-online)
-
----
+- [Aadhaar eSign — How to Digitally Sign Documents Online](/guide/aadhaar-esign-online-guide)
+- [Aadhaar e-Sign — Sign Documents Online in 2 Minutes](/guide/e-sign-aadhaar-based)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)
 
 ## Frequently Asked Questions
 

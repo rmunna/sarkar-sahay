@@ -232,6 +232,14 @@ Before complaining, verify these are correct:
 
 ---
 
+## Related Guides
+
+- [PM Kisan Payment Not Received — How to Fix](/guide/pm-kisan-payment-not-received-fix)
+- [NREGA Job Card Status & Payment Check Online — Step-by-Step Guide](/guide/nrega-job-card-payment-status)
+- [Pension Payment Not Credited to Bank — How to Fix](/guide/pension-payment-not-credited-fix)
+- [Scholarship Payment Not Received — How to Check & Fix](/guide/scholarship-payment-not-received-fix)
+- [UPI Payment Setup Guide — How to Set Up & Use UPI in India](/guide/upi-payment-setup-guide)
+
 ## Frequently Asked Questions
 
 ### How long does it take to receive scholarship money after sanction?

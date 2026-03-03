@@ -186,6 +186,14 @@ You can also call the **UIDAI toll-free number 1947** to check your update statu
 
 ---
 
+## Related Guides
+
+- [Aadhaar Address Update Online Not Working — How to Fix](/guide/aadhaar-address-update-online-not-working-fix)
+- [Aadhaar Address Update Rejected — Reasons & Fix](/guide/aadhaar-address-update-rejected-fix)
+- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)
+
 ## Frequently Asked Questions (FAQs)
 
 ### 1. Can I change my Aadhaar address online without a registered mobile number?

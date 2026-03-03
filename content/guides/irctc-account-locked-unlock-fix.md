@@ -128,6 +128,14 @@ Follow these practices to prevent future account lockouts:
 | Working hours | 8:00 AM – 10:00 PM (all days) |
 | Website | [www.irctc.co.in](https://www.irctc.co.in) |
 
+## Related Guides
+
+- [IRCTC Account Locked? Fix Multiple Failed Login Attempts](/guide/irctc-account-login-problems-fix)
+- [IRCTC Forgot Password — How to Reset Step by Step](/guide/irctc-forgot-password-reset-fix)
+- [IRCTC OTP Not Received? How to Fix OTP Problems During Login & Booking](/guide/irctc-otp-not-received-fix)
+- [IRCTC Payment Deducted But Ticket Not Booked — How to Get Refund](/guide/irctc-payment-deducted-ticket-not-booked-fix)
+- [IRCTC Tatkal Ticket Booking Not Working — How to Fix](/guide/irctc-tatkal-booking-not-working-fix)
+
 ## FAQs
 
 ### How many wrong attempts lock an IRCTC account?

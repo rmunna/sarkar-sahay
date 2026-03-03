@@ -132,6 +132,14 @@ After verification, your name is added to the electoral roll and EPIC card is di
 3. **Download Voter Helpline App** — Check booth details, download e-EPIC, find BLO contact
 4. **Verify your name in electoral roll** before every election at [electoralsearch.eci.gov.in](https://electoralsearch.eci.gov.in)
 
+## Related Guides
+
+- [How to Transfer Voter ID to New Address — Form 8A Online](/guide/voter-id-address-change-transfer-fix)
+- [Voter ID Application Rejected: How to Fix](/guide/voter-id-application-rejected-fix)
+- [Voter ID Card Online Correction Not Working — How to Fix](/guide/voter-id-correction-not-working-fix)
+- [How to Correct Voter ID Card Online](/guide/voter-id-correction-online)
+- [Voter ID Download Not Working? Fix e-EPIC Errors (NVSP)](/guide/voter-id-download-not-working-fix)
+
 ## FAQs
 
 **Q: Can I apply for Voter ID card online?**
