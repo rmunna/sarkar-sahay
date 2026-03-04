@@ -1,49 +1,58 @@
 {
-  "scannedAt": "2026-03-04T14:49:16.423Z",
+  "scannedAt": "2026-03-04T16:49:27.108Z",
   "govtTrends": [
     {
-      "title": "corbin bosch",
-      "traffic": "5000+",
-      "pubDate": "Wed, 4 Mar 2026 06:30:00 -0800",
-      "newsTitle": "T20 World Cup: Corbin Bosching it at the death",
-      "source": "google_trends",
-      "suggestedSlug": "corbin-bosch",
-      "guideExists": false
-    },
-    {
-      "title": "macbook neo",
-      "traffic": "2000+",
-      "pubDate": "Wed, 4 Mar 2026 06:10:00 -0800",
-      "newsTitle": "Apple Accidentally Leaks 'MacBook Neo'",
-      "source": "google_trends",
-      "suggestedSlug": "macbook-neo",
-      "guideExists": false
-    },
-    {
-      "title": "nz vs ind",
-      "traffic": "5000+",
-      "pubDate": "Wed, 4 Mar 2026 06:00:00 -0800",
+      "title": "t20",
+      "traffic": "10000+",
+      "pubDate": "Wed, 4 Mar 2026 08:30:00 -0800",
       "newsTitle": "Match officials for T20 World Cup 2026 semi-finals announced",
       "source": "google_trends",
-      "suggestedSlug": "nz-vs-ind",
+      "suggestedSlug": "t20",
       "guideExists": false
     },
     {
-      "title": "matt henry",
-      "traffic": "20000+",
-      "pubDate": "Wed, 4 Mar 2026 05:50:00 -0800",
-      "newsTitle": "SA vs NZ Live Score, T20 World Cup Semi Final: South Africa lose David Miller, Dewald Brevis in quick succession vs New Zealand",
+      "title": "ind vs nz",
+      "traffic": "2000+",
+      "pubDate": "Wed, 4 Mar 2026 08:30:00 -0800",
+      "newsTitle": "Ball by Ball Commentary & Live Score - NZ vs SA, 1st Semi-Final",
       "source": "google_trends",
-      "suggestedSlug": "matt-henry",
+      "suggestedSlug": "ind-vs-nz",
       "guideExists": false
     },
     {
-      "title": "new zealand vs india",
+      "title": "newzealand",
+      "traffic": "200+",
+      "pubDate": "Wed, 4 Mar 2026 08:10:00 -0800",
+      "newsTitle": "Live: Govt preparing to send Defence Force planes to Middle East for possible evacuations",
+      "source": "google_trends",
+      "suggestedSlug": "newzealand",
+      "guideExists": false
+    },
+    {
+      "title": "2024 t20 world cup",
       "traffic": "500+",
-      "pubDate": "Wed, 4 Mar 2026 05:50:00 -0800",
-      "newsTitle": "SA vs NZ Live Score, T20 World Cup Semi Final: South Africa lose David Miller, Dewald Brevis in quick succession vs New Zealand",
+      "pubDate": "Wed, 4 Mar 2026 08:00:00 -0800",
+      "newsTitle": "ICC MEN’S T20 WORLD CUP 2026 DELIVERING UNPRECEDENTED GLOBAL DIGITAL GROWTH AND ACCESS",
       "source": "google_trends",
-      "suggestedSlug": "new-zealand-vs-india",
+      "suggestedSlug": "2024-t20-world-cup",
+      "guideExists": false
+    },
+    {
+      "title": "kagiso rabada",
+      "traffic": "5000+",
+      "pubDate": "Wed, 4 Mar 2026 07:10:00 -0800",
+      "newsTitle": "Temba Bavuma \"Puts His Money\" On Struggling Kagiso Rabada To Deliver In T20 World Cup Semifinal",
+      "source": "google_trends",
+      "suggestedSlug": "kagiso-rabada",
+      "guideExists": false
+    },
+    {
+      "title": "cricket live score today india",
+      "traffic": "200+",
+      "pubDate": "Wed, 4 Mar 2026 07:00:00 -0800",
+      "newsTitle": "India vs Zimbabwe, 48th Match, Super 8 Group 1 (X1 v X2), ICC Men's T20 World Cup 2026 - Commentary",
+      "source": "google_trends",
+      "suggestedSlug": "cricket-live-score-today-india",
       "guideExists": false
     }
   ],

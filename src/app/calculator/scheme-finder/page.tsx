@@ -128,7 +128,7 @@ export default function SchemeFinderPage() {
   const [area, setArea] = useState("Rural");
   const [showResults, setShowResults] = useState(false);
   const [useLang, setUseLang] = useState(false);
-  const [filter, setFilter] = useState<"all" | "central" | "state">("state");
+  const [filter, setFilter] = useState<"all" | "central" | "state">("all");
   const [showIneligible, setShowIneligible] = useState(false);
 
   const langCode = STATE_LANG[state] || null;
@@ -333,7 +333,7 @@ export default function SchemeFinderPage() {
 
             {/* Filter Tabs */}
             <div className="flex gap-2 mb-6">
-              {(["state", "central", "all"] as const).map(f => (
+              {(["all", "central", "state"] as const).map(f => (
                 <button key={f} onClick={() => setFilter(f)}
                   className={`px-4 py-1.5 rounded-lg text-sm font-medium border transition ${filter === f ? "bg-orange-600 text-white border-orange-600" : "bg-white text-gray-700 border-gray-300 hover:border-orange-400"}`}>
                   {f === "all" ? `All (${results.eligible.length})` : f === "central" ? `Central (${results.eligible.filter(s => s.type === "central").length})` : `State (${results.eligible.filter(s => s.type === "state").length})`}
