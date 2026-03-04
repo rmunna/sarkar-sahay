@@ -1,119 +1,119 @@
 ---
-title: "ICAI CA Final Result January 2026 Out — Check Score at icai.nic.in"
-description: "ICAI CA Final and Foundation January 2026 result declared. Check your score card, mark sheet and pass certificate at icai.nic.in step by step."
+title: "ICAI CA Final Result January 2026 Declared — Check Scorecard at icai.nic.in"
+description: "ICAI CA Final January 2026 result declared on March 1, 2026. 7,590 candidates qualified. Check scorecard, toppers list, and pass percentage details here."
 category: "Results"
 type: "result"
 organization: "ICAI"
 examName: "CA Final January 2026"
 stage: "final-result"
-keywords: ["icai result", "ca final result 2026", "icai result january 2026", "ca result check", "icai.nic.in result", "ca foundation result", "chartered accountant result", "icai score card"]
+keywords:
+  - "icai result jan 2026"
+  - "ca final result"
+  - "icai result"
+  - "ca result january 2026"
+  - "icai ca final result 2026"
+  - "ca final scorecard 2026"
+  - "icai ca final toppers 2026"
+  - "ca final pass percentage january 2026"
+  - "icai nic in result"
+  - "ca final january 2026 merit list"
 importantDates:
   examDate: "2026-01-05"
   resultDate: "2026-03-01"
 officialLinks:
   - "https://icai.nic.in"
-  - "https://icaiexam.icai.org"
+  - "https://icai.org"
 readingTime: "4 min"
-publishedDate: "2026-03-01"
-expiryDate: "2026-06-01"
+publishedDate: "2026-03-04"
+expiryDate: "2026-06-04"
 status: "active"
-vacancies: "TBA"
 relatedStages: []
 ---
 
-The Institute of Chartered Accountants of India (ICAI) has declared the **CA Final and Foundation January 2026 examination results** on **1st March 2026**. Candidates can check their results and download score cards from the official websites right now.
+The Institute of Chartered Accountants of India (ICAI) has officially declared the **CA Final January 2026 examination result** on **March 1, 2026**. A total of **7,590 candidates** have qualified in this session. Candidates can check their scorecards online at **icai.nic.in** and **icai.org**.
 
-## Quick Links — Check Your Result Now
+## Key Highlights
 
-| Website | Link |
+| Detail | Information |
 |---|---|
-| **ICAI Result Portal** | [icai.nic.in](https://icai.nic.in) |
-| **ICAI Exam Portal** | [icaiexam.icai.org](https://icaiexam.icai.org) |
-
-> **Tip:** If one website is slow due to heavy traffic, try the other link.
+| **Exam Name** | CA Final January 2026 |
+| **Conducting Body** | ICAI |
+| **Exam Dates** | January 5–16, 2026 |
+| **Result Date** | March 1, 2026 |
+| **Total Qualified** | 7,590 candidates |
+| **All India Topper** | Diksha Goyal (486/600, 81%) |
+| **AIR 2** | Anirudh Garg (452/600) |
+| **AIR 3 (Joint)** | Rishabh Jain & Dhruv Dembla (451/600 each) |
+| **Official Website** | [icai.nic.in](https://icai.nic.in) |
 
 ## How to Check ICAI CA Final Result January 2026
 
-Follow these steps to check your result online:
+Follow these steps to download your scorecard:
 
-1. Visit [icai.nic.in](https://icai.nic.in) or [icaiexam.icai.org](https://icaiexam.icai.org)
-2. Click on **"CA Final Result January 2026"** link on the homepage
-3. Enter your **Registration Number** or **PIN Number**
-4. Enter your **Roll Number**
-5. Click **Submit**
-6. Your result will be displayed on screen — **save or print** it immediately
+1. Visit the official result portal at [https://icai.nic.in/caresult/](https://icai.nic.in/caresult/)
+2. Click on **"Final: January 2026"** result link
+3. Enter your **Roll Number** and **Registration Number**
+4. Complete the captcha verification
+5. Click **Submit** to view your result
+6. Download and save the scorecard as PDF for future reference
 
-## How to Download Mark Sheet / Score Card
+> **Note:** ICAI has confirmed that scorecards will be available **only in online mode**. No physical copies will be dispatched to candidates.
 
-1. Go to [icaiexam.icai.org](https://icaiexam.icai.org)
-2. Log in with your credentials
-3. Navigate to **"Score Card / Mark Sheet"** section
-4. Select **January 2026** session and **CA Final** or **Foundation**
-5. Click **Download** to save your mark sheet as PDF
+## Important Details
 
-The digital mark sheet is usually available within 24–48 hours after result declaration. Physical mark sheets and pass certificates are dispatched by ICAI to your registered address within 30–45 days.
+### Pass Percentage
 
-## CA Final January 2026 — Pass Percentage & Toppers
+ICAI declared the CA Final January 2026 result with **7,590 candidates qualifying** in this session. Detailed pass percentage figures for Group 1, Group 2, and both groups combined are available on the official website.
 
-| Detail | Info |
-|---|---|
-| **CA Final Pass %** | To be updated |
-| **CA Foundation Pass %** | To be updated |
-| **All India Rank 1 (Final)** | To be updated |
-| **All India Rank 1 (Foundation)** | To be updated |
+### Toppers List
 
-*We will update this section as ICAI releases official pass percentage and topper details.*
+- **AIR 1:** Diksha Goyal — 486/600 (81%)
+- **AIR 2:** Anirudh Garg — 452/600
+- **AIR 3 (Joint):** Rishabh Jain and Dhruv Dembla — 451/600 each
 
-## Passing Criteria
+The complete merit list is available on [icai.nic.in](https://icai.nic.in).
 
-- **CA Final:** Minimum **40% in each paper** and **50% aggregate** across all papers in a group
-- **CA Foundation:** Minimum **40% in each paper** and **50% aggregate** overall
+### Next Steps for Qualified Candidates
 
-## What Next After CA Final Result?
+- Download your scorecard from the official portal
+- Apply for ICAI membership within the prescribed timeline
+- Complete the required practical training if pending
+- Collect your mark sheet — available only in digital format
 
-### If You Passed ✅
+### Next Steps for Non-Qualified Candidates
 
-- Download your **digital mark sheet** from icaiexam.icai.org
-- Apply for **ICAI membership** (ACA — Associate Chartered Accountant)
-- Complete the **GMCS (General Management and Communication Skills)** course if not done
-- Collect your **pass certificate** when dispatched
-- Register on the **ICAI placement portal** for job opportunities
+- Analyze your scorecard to identify weak areas
+- Register for the **CA Final May 2026** examination session
+- The next exam registration window will be announced on [icai.org](https://icai.org)
 
-### If You Did Not Clear ❌
+## Direct Links
 
-- You can apply for **verification of marks** (within 1 month of result)
-- Fee: ₹100 per paper for verification
-- Start preparing for the **May/June 2026 attempt**
-- You only need to clear the group(s) you failed — passed groups are retained
+- **Result Portal:** [https://icai.nic.in/caresult/](https://icai.nic.in/caresult/)
+- **ICAI Official Website:** [https://icai.org](https://icai.org)
+- **Merit List:** [https://icai.nic.in](https://icai.nic.in)
 
-## How to Apply for Mark Verification
+## Frequently Asked Questions
 
-1. Visit [icaiexam.icai.org](https://icaiexam.icai.org)
-2. Go to **"Verification of Marks"**
-3. Select the paper(s) you want verified
-4. Pay ₹100 per paper online
-5. Submit — results of verification are typically declared within 3–4 weeks
+### When was the ICAI CA Final January 2026 result declared?
 
-## FAQs
+The ICAI CA Final January 2026 result was declared on **March 1, 2026**.
 
-**Q: When was the ICAI CA Final January 2026 result declared?**
-A: The result was declared on **1st March 2026**.
+### How can I check my CA Final result?
 
-**Q: Where can I check my CA result?**
-A: Visit [icai.nic.in](https://icai.nic.in) or [icaiexam.icai.org](https://icaiexam.icai.org).
+Visit [icai.nic.in/caresult/](https://icai.nic.in/caresult/), select the Final January 2026 link, and enter your roll number and registration number to view your scorecard.
 
-**Q: I can't access the result website. What should I do?**
-A: The website faces heavy traffic on result day. Keep refreshing, or try the alternate link. Results are also available via the **ICAI BOSKnowledge app**.
+### Who is the topper of CA Final January 2026?
 
-**Q: How do I get my CA Final pass certificate?**
-A: ICAI dispatches the pass certificate to your registered address within 30–45 days. You can also download the digital version from icaiexam.icai.org.
+**Diksha Goyal** topped the CA Final January 2026 exam with **486 out of 600 marks (81%)**.
 
-**Q: Can I apply for re-evaluation of my CA papers?**
-A: ICAI does not allow re-evaluation. You can only apply for **verification of marks** (rechecking/retotalling) within 1 month of the result.
+### How many candidates passed the CA Final January 2026 exam?
 
-**Q: What is the next CA Final exam date?**
-A: The next CA Final examination is expected in **May/June 2026**. Check icai.org for the official schedule.
+A total of **7,590 candidates** qualified in the CA Final January 2026 examination.
+
+### Will ICAI send physical scorecards?
+
+No. ICAI has confirmed that CA Final January 2026 scorecards are available **only in online mode**. Candidates must download them from the official portal.
 
 ---
 
-*Last updated: 1st March 2026. This page will be updated with toppers and pass percentage as ICAI releases official data.*
+*Disclaimer: The information on this page is based on officially available data at the time of publishing. For the most accurate and up-to-date information, always refer to the official ICAI websites — [icai.org](https://icai.org) and [icai.nic.in](https://icai.nic.in). CitizenNest is not affiliated with ICAI.*
