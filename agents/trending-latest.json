@@ -1,41 +1,50 @@
 {
-  "scannedAt": "2026-03-04T08:48:47.067Z",
+  "scannedAt": "2026-03-04T14:49:16.423Z",
   "govtTrends": [
     {
-      "title": "lottery sambad",
-      "traffic": "50000+",
-      "pubDate": "Wed, 4 Mar 2026 00:10:00 -0800",
-      "newsTitle": "Holi Special Bumper Lottery! Nagaland Sambad Result Today, 3-3-2026: Dear 1PM Tuesday Weekly Lucky Draw Winner",
+      "title": "corbin bosch",
+      "traffic": "5000+",
+      "pubDate": "Wed, 4 Mar 2026 06:30:00 -0800",
+      "newsTitle": "T20 World Cup: Corbin Bosching it at the death",
       "source": "google_trends",
-      "suggestedSlug": "lottery-sambad",
+      "suggestedSlug": "corbin-bosch",
       "guideExists": false
     },
     {
-      "title": "vtu results 2026",
-      "traffic": "10000+",
-      "pubDate": "Wed, 4 Mar 2026 00:00:00 -0800",
-      "newsTitle": "VTU Result 2026 declared @ results.vtu.ac.in; direct link to download UG, PG scorecards",
-      "source": "google_trends",
-      "suggestedSlug": "vtu-results-2026",
-      "guideExists": false
-    },
-    {
-      "title": "lottery live",
+      "title": "macbook neo",
       "traffic": "2000+",
-      "pubDate": "Tue, 3 Mar 2026 23:40:00 -0800",
-      "newsTitle": "Kerala Bhagyathara BT-43 lottery results today (March 2, 2026); ₹1 crore prize winner and complete list he",
+      "pubDate": "Wed, 4 Mar 2026 06:10:00 -0800",
+      "newsTitle": "Apple Accidentally Leaks 'MacBook Neo'",
       "source": "google_trends",
-      "suggestedSlug": "lottery-live",
+      "suggestedSlug": "macbook-neo",
       "guideExists": false
     },
     {
-      "title": "4th march 2026 12:00 pm",
-      "traffic": "200+",
-      "pubDate": "Tue, 3 Mar 2026 22:50:00 -0800",
-      "newsTitle": "Mayon Volcano Summary of 24Hr Observation 04 March 2026 12:00 AM [EN/TL]",
+      "title": "nz vs ind",
+      "traffic": "5000+",
+      "pubDate": "Wed, 4 Mar 2026 06:00:00 -0800",
+      "newsTitle": "Match officials for T20 World Cup 2026 semi-finals announced",
       "source": "google_trends",
-      "suggestedSlug": "4th-march-2026-1200-pm",
-      "guideExists": true
+      "suggestedSlug": "nz-vs-ind",
+      "guideExists": false
+    },
+    {
+      "title": "matt henry",
+      "traffic": "20000+",
+      "pubDate": "Wed, 4 Mar 2026 05:50:00 -0800",
+      "newsTitle": "SA vs NZ Live Score, T20 World Cup Semi Final: South Africa lose David Miller, Dewald Brevis in quick succession vs New Zealand",
+      "source": "google_trends",
+      "suggestedSlug": "matt-henry",
+      "guideExists": false
+    },
+    {
+      "title": "new zealand vs india",
+      "traffic": "500+",
+      "pubDate": "Wed, 4 Mar 2026 05:50:00 -0800",
+      "newsTitle": "SA vs NZ Live Score, T20 World Cup Semi Final: South Africa lose David Miller, Dewald Brevis in quick succession vs New Zealand",
+      "source": "google_trends",
+      "suggestedSlug": "new-zealand-vs-india",
+      "guideExists": false
     }
   ],
   "totalTrends": 10

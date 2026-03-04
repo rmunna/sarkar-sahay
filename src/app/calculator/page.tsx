@@ -9,6 +9,12 @@ export const metadata: Metadata = {
 
 const calculators = [
   {
+    icon: "🏛️",
+    title: "Government Scheme Finder",
+    description: "Find 230+ central & state schemes you're eligible for. See total ₹ benefits per year across all 31 states.",
+    href: "/calculator/scheme-finder",
+  },
+  {
     icon: "💰",
     title: "Income Tax Calculator",
     description: "Calculate tax under old & new regime for FY 2025-26. Compare and save.",
