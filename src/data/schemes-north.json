@@ -1,0 +1,1516 @@
+[
+  {
+    "id": "up-kanya-sumangala",
+    "name": { "en": "Kanya Sumangala Yojana", "hi": "कन्या सुमंगला योजना" },
+    "type": "state",
+    "state": "Uttar Pradesh",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 25000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹25,000 total across 6 stages from birth to graduation",
+      "hi": "जन्म से स्नातक तक 6 चरणों में कुल ₹25,000"
+    },
+    "eligibility": {
+      "ageMin": 0,
+      "ageMax": 25,
+      "gender": "female",
+      "incomeMax": 300000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Max 2 daughters per family"
+    },
+    "officialUrl": "https://mksy.up.gov.in",
+    "guideSlug": "kanya-sumangala-yojana-up"
+  },
+  {
+    "id": "up-vridha-pension",
+    "name": { "en": "Vridha Pension Yojana", "hi": "वृद्धावस्था पेंशन योजना" },
+    "type": "state",
+    "state": "Uttar Pradesh",
+    "category": "Pension",
+    "benefitAmountPerYear": 12000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,000 per month pension for elderly citizens aged 60+",
+      "hi": "60 वर्ष से अधिक आयु के वृद्ध नागरिकों को ₹1,000 प्रति माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Below poverty line families"
+    },
+    "officialUrl": "https://sspy-up.gov.in",
+    "guideSlug": "vridha-pension-yojana-up"
+  },
+  {
+    "id": "up-vidhwa-pension",
+    "name": { "en": "Vidhwa Pension Yojana", "hi": "विधवा पेंशन योजना" },
+    "type": "state",
+    "state": "Uttar Pradesh",
+    "category": "Pension",
+    "benefitAmountPerYear": 12000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,000 per month pension for widows aged 18-60",
+      "hi": "18-60 वर्ष की विधवा महिलाओं को ₹1,000 प्रति माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 60,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Widow women from BPL families"
+    },
+    "officialUrl": "https://sspy-up.gov.in",
+    "guideSlug": "vidhwa-pension-yojana-up"
+  },
+  {
+    "id": "up-divyang-pension",
+    "name": { "en": "Divyang Pension Yojana", "hi": "दिव्यांग पेंशन योजना" },
+    "type": "state",
+    "state": "Uttar Pradesh",
+    "category": "Pension",
+    "benefitAmountPerYear": 12000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,000 per month pension for persons with 40%+ disability",
+      "hi": "40% से अधिक विकलांगता वाले व्यक्तियों को ₹1,000 प्रति माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Minimum 40% disability certificate required"
+    },
+    "officialUrl": "https://sspy-up.gov.in",
+    "guideSlug": "divyang-pension-yojana-up"
+  },
+  {
+    "id": "up-shadi-anudan",
+    "name": { "en": "Shadi Anudan Yojana", "hi": "शादी अनुदान योजना" },
+    "type": "state",
+    "state": "Uttar Pradesh",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 51000,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹51,000 one-time grant for marriage of daughters from economically weaker families",
+      "hi": "आर्थिक रूप से कमजोर परिवारों की बेटियों की शादी के लिए ₹51,000 का एकमुश्त अनुदान"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": 300000,
+      "categories": ["SC", "ST", "OBC", "General"],
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Rural income max ₹46,080, Urban income max ₹56,460 for General; ₹3 lakh for SC/ST/OBC"
+    },
+    "officialUrl": "https://shadianudan.upsdc.gov.in",
+    "guideSlug": "shadi-anudan-yojana-up"
+  },
+  {
+    "id": "up-mukhyamantri-awas-yojana",
+    "name": { "en": "Mukhyamantri Awas Yojana", "hi": "मुख्यमंत्री आवास योजना" },
+    "type": "state",
+    "state": "Uttar Pradesh",
+    "category": "Housing",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "Affordable housing for economically weaker sections in urban areas",
+      "hi": "शहरी क्षेत्रों में आर्थिक रूप से कमजोर वर्गों के लिए सस्ते आवास"
+    },
+    "eligibility": {
+      "ageMin": 21,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": 300000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": "urban",
+      "additionalCriteria": "Should not own a pucca house"
+    },
+    "officialUrl": "https://awasyojna.up.gov.in",
+    "guideSlug": "mukhyamantri-awas-yojana-up"
+  },
+  {
+    "id": "up-free-ration",
+    "name": { "en": "UP Free Ration Yojana", "hi": "उत्तर प्रदेश मुफ्त राशन योजना" },
+    "type": "state",
+    "state": "Uttar Pradesh",
+    "category": "Food Security",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Free wheat, rice, sugar and kerosene to BPL/AAY/PHH families via ration card",
+      "hi": "बीपीएल/अंत्योदय/प्राथमिकता परिवारों को मुफ्त गेहूं, चावल, चीनी और मिट्टी का तेल"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Must have valid ration card (BPL/AAY/PHH)"
+    },
+    "officialUrl": "https://fcs.up.gov.in",
+    "guideSlug": "free-ration-yojana-up"
+  },
+  {
+    "id": "up-mission-shakti",
+    "name": { "en": "UP Mission Shakti", "hi": "यूपी मिशन शक्ति" },
+    "type": "state",
+    "state": "Uttar Pradesh",
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "service",
+    "benefitDescription": {
+      "en": "Women safety and empowerment mission — awareness, anti-trafficking, skill training, legal aid",
+      "hi": "महिला सुरक्षा और सशक्तिकरण मिशन — जागरूकता, तस्करी विरोधी, कौशल प्रशिक्षण, कानूनी सहायता"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "All women of Uttar Pradesh"
+    },
+    "officialUrl": "https://missionshakti.up.gov.in",
+    "guideSlug": "mission-shakti-up"
+  },
+  {
+    "id": "up-scholarship",
+    "name": { "en": "UP Scholarship Scheme", "hi": "उत्तर प्रदेश छात्रवृत्ति योजना" },
+    "type": "state",
+    "state": "Uttar Pradesh",
+    "category": "Education",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Pre-matric and post-matric scholarships for SC/ST/OBC/Minority students",
+      "hi": "अनुसूचित जाति/जनजाति/अन्य पिछड़ा वर्ग/अल्पसंख्यक छात्रों के लिए प्री-मैट्रिक और पोस्ट-मैट्रिक छात्रवृत्ति"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": 200000,
+      "categories": ["SC", "ST", "OBC", "Minority"],
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must be enrolled in recognized educational institution in UP"
+    },
+    "officialUrl": "https://scholarship.up.gov.in",
+    "guideSlug": "up-scholarship"
+  },
+
+  {
+    "id": "bihar-kanya-utthan",
+    "name": { "en": "Mukhyamantri Kanya Utthan Yojana", "hi": "मुख्यमंत्री कन्या उत्थान योजना" },
+    "type": "state",
+    "state": "Bihar",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 50000,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹50,000 on graduation completion for girls; additional benefits at birth, vaccination, school stages",
+      "hi": "स्नातक पूरा करने पर बालिकाओं को ₹50,000; जन्म, टीकाकरण, विद्यालय स्तर पर अतिरिक्त लाभ"
+    },
+    "eligibility": {
+      "ageMin": 0,
+      "ageMax": 25,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must be resident of Bihar; max 2 daughters per family"
+    },
+    "officialUrl": "https://medhasoft.bihar.gov.in",
+    "guideSlug": "kanya-utthan-yojana-bihar"
+  },
+  {
+    "id": "bihar-student-credit-card",
+    "name": { "en": "Bihar Student Credit Card Yojana", "hi": "बिहार स्टूडेंट क्रेडिट कार्ड योजना" },
+    "type": "state",
+    "state": "Bihar",
+    "category": "Education",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "Education loan up to ₹4 lakh at 0% interest for higher education after 12th",
+      "hi": "12वीं के बाद उच्च शिक्षा के लिए 0% ब्याज पर ₹4 लाख तक का शिक्षा ऋण"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": 25,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must have passed 12th from Bihar; admitted in recognized institution"
+    },
+    "officialUrl": "https://www.7nishchay-yuvaupmission.bihar.gov.in",
+    "guideSlug": "student-credit-card-bihar"
+  },
+  {
+    "id": "bihar-cycle-yojana",
+    "name": { "en": "Mukhyamantri Balak/Balika Cycle Yojana", "hi": "मुख्यमंत्री बालक/बालिका साइकिल योजना" },
+    "type": "state",
+    "state": "Bihar",
+    "category": "Education",
+    "benefitAmountPerYear": 3000,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹3,000 for purchase of bicycle for class 9 students",
+      "hi": "कक्षा 9 के छात्रों को साइकिल खरीदने के लिए ₹3,000"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must be enrolled in class 9 in a government school in Bihar"
+    },
+    "officialUrl": "https://education.bihar.gov.in",
+    "guideSlug": "cycle-yojana-bihar"
+  },
+  {
+    "id": "bihar-vridha-pension",
+    "name": { "en": "Mukhyamantri Vridha Pension Yojana", "hi": "मुख्यमंत्री वृद्धजन पेंशन योजना" },
+    "type": "state",
+    "state": "Bihar",
+    "category": "Pension",
+    "benefitAmountPerYear": 6000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹500/month pension for elderly aged 60+ (₹400 for 60-79, ₹500 for 80+)",
+      "hi": "60 वर्ष से अधिक आयु के बुजुर्गों को ₹500/माह पेंशन (60-79 को ₹400, 80+ को ₹500)"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "All elderly residents of Bihar (universal, no income limit)"
+    },
+    "officialUrl": "https://www.sspmis.bihar.gov.in",
+    "guideSlug": "vridha-pension-bihar"
+  },
+  {
+    "id": "bihar-poshak-yojana",
+    "name": { "en": "Mukhyamantri Poshak Yojana", "hi": "मुख्यमंत्री पोशाक योजना" },
+    "type": "state",
+    "state": "Bihar",
+    "category": "Education",
+    "benefitAmountPerYear": 1500,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹600-₹1,500 per year for school uniforms for classes 1-12 students",
+      "hi": "कक्षा 1-12 के छात्रों के लिए स्कूल यूनिफॉर्म हेतु ₹600-₹1,500 प्रति वर्ष"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Students enrolled in Bihar government schools"
+    },
+    "officialUrl": "https://education.bihar.gov.in",
+    "guideSlug": "poshak-yojana-bihar"
+  },
+  {
+    "id": "bihar-gramin-awas",
+    "name": { "en": "Mukhyamantri Gramin Awas Yojana", "hi": "मुख्यमंत्री ग्रामीण आवास योजना" },
+    "type": "state",
+    "state": "Bihar",
+    "category": "Housing",
+    "benefitAmountPerYear": 120000,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹1.20 lakh financial assistance for building pucca house in rural areas",
+      "hi": "ग्रामीण क्षेत्रों में पक्का मकान बनाने के लिए ₹1.20 लाख की वित्तीय सहायता"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": "rural",
+      "additionalCriteria": "Homeless or living in kutcha house; must be on SECC/Awas+ list"
+    },
+    "officialUrl": "https://pmaymis.gov.in",
+    "guideSlug": "gramin-awas-yojana-bihar"
+  },
+  {
+    "id": "bihar-udyami-yojana",
+    "name": { "en": "Mukhyamantri Udyami Yojana", "hi": "मुख्यमंत्री उद्यमी योजना" },
+    "type": "state",
+    "state": "Bihar",
+    "category": "Employment",
+    "benefitAmountPerYear": 1000000,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹10 lakh interest-free loan for SC/ST/OBC/Minority/Women entrepreneurs to start business",
+      "hi": "व्यवसाय शुरू करने के लिए अनुसूचित जाति/जनजाति/अन्य पिछड़ा वर्ग/अल्पसंख्यक/महिला उद्यमियों को ₹10 लाख ब्याज मुक्त ऋण"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 50,
+      "gender": null,
+      "incomeMax": null,
+      "categories": ["SC", "ST", "OBC", "Minority"],
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must have passed 10+2 or ITI; resident of Bihar"
+    },
+    "officialUrl": "https://udyami.bihar.gov.in",
+    "guideSlug": "udyami-yojana-bihar"
+  },
+  {
+    "id": "bihar-medhavriti-yojana",
+    "name": { "en": "Mukhyamantri Medhavriti Yojana", "hi": "मुख्यमंत्री मेधावृत्ति योजना" },
+    "type": "state",
+    "state": "Bihar",
+    "category": "Education",
+    "benefitAmountPerYear": 15000,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹15,000 (1st division) / ₹10,000 (2nd division) for SC/ST girls passing 12th",
+      "hi": "12वीं पास करने वाली अनुसूचित जाति/जनजाति की बालिकाओं को ₹15,000 (प्रथम श्रेणी) / ₹10,000 (द्वितीय श्रेणी)"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": ["SC", "ST"],
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must have passed 12th from Bihar board"
+    },
+    "officialUrl": "https://medhasoft.bihar.gov.in",
+    "guideSlug": "medhavriti-yojana-bihar"
+  },
+
+  {
+    "id": "jh-guruji-credit-card",
+    "name": { "en": "Guruji Student Credit Card Yojana", "hi": "गुरुजी स्टूडेंट क्रेडिट कार्ड योजना" },
+    "type": "state",
+    "state": "Jharkhand",
+    "category": "Education",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "Education loan up to ₹15 lakh at 0% interest for higher studies after 10th/12th",
+      "hi": "10वीं/12वीं के बाद उच्च शिक्षा के लिए 0% ब्याज पर ₹15 लाख तक का शिक्षा ऋण"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must have passed 10th/12th from Jharkhand; family income below ₹4 lakh/year"
+    },
+    "officialUrl": "https://jsgcc.jharkhand.gov.in",
+    "guideSlug": "guruji-credit-card-jharkhand"
+  },
+  {
+    "id": "jh-savitribai-phule-kishori",
+    "name": { "en": "Savitribai Phule Kishori Samridhi Yojana", "hi": "सावित्रीबाई फुले किशोरी समृद्धि योजना" },
+    "type": "state",
+    "state": "Jharkhand",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 40000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹2,500-₹20,000 at various stages from class 8 to 18 years; total up to ₹40,000",
+      "hi": "कक्षा 8 से 18 वर्ष तक विभिन्न चरणों में ₹2,500-₹20,000; कुल ₹40,000 तक"
+    },
+    "eligibility": {
+      "ageMin": 13,
+      "ageMax": 19,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Girls from SECC-listed families; enrolled in school"
+    },
+    "officialUrl": "https://jharkhand.gov.in",
+    "guideSlug": "savitribai-phule-kishori-samridhi-jharkhand"
+  },
+  {
+    "id": "jh-abua-awas",
+    "name": { "en": "Abua Awas Yojana", "hi": "अबुआ आवास योजना" },
+    "type": "state",
+    "state": "Jharkhand",
+    "category": "Housing",
+    "benefitAmountPerYear": 200000,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹2 lakh financial assistance for construction of pucca house for homeless families",
+      "hi": "बेघर परिवारों को पक्का मकान बनाने के लिए ₹2 लाख की वित्तीय सहायता"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": "rural",
+      "additionalCriteria": "Homeless families not covered under PMAY; must be on SECC list"
+    },
+    "officialUrl": "https://abuaawas.jharkhand.gov.in",
+    "guideSlug": "abua-awas-yojana-jharkhand"
+  },
+  {
+    "id": "jh-universal-pension",
+    "name": { "en": "Jharkhand Universal Pension Yojana", "hi": "झारखंड सार्वभौमिक पेंशन योजना" },
+    "type": "state",
+    "state": "Jharkhand",
+    "category": "Pension",
+    "benefitAmountPerYear": 12000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,000/month pension for elderly (60+), widows, and disabled persons",
+      "hi": "वृद्ध (60+), विधवा और दिव्यांग व्यक्तियों को ₹1,000/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Also covers widows 18+ and disabled with 40%+ disability"
+    },
+    "officialUrl": "https://jharkhand.gov.in",
+    "guideSlug": "universal-pension-jharkhand"
+  },
+  {
+    "id": "jh-mukhyamantri-protsahan",
+    "name": { "en": "Mukhyamantri Protsahan Yojana", "hi": "मुख्यमंत्री प्रोत्साहन योजना" },
+    "type": "state",
+    "state": "Jharkhand",
+    "category": "Employment",
+    "benefitAmountPerYear": 5000,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹5,000 one-time incentive to unemployed graduate youth while seeking employment",
+      "hi": "रोजगार की तलाश करते समय बेरोजगार स्नातक युवाओं को ₹5,000 का एकमुश्त प्रोत्साहन"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Graduate from recognized university; registered with employment exchange"
+    },
+    "officialUrl": "https://rojgar.jharkhand.gov.in",
+    "guideSlug": "mukhyamantri-protsahan-jharkhand"
+  },
+  {
+    "id": "jh-abua-swasth-suraksha",
+    "name": { "en": "Abua Swasth Suraksha Yojana", "hi": "अबुआ स्वास्थ्य सुरक्षा योजना" },
+    "type": "state",
+    "state": "Jharkhand",
+    "category": "Health",
+    "benefitAmountPerYear": null,
+    "benefitType": "service",
+    "benefitDescription": {
+      "en": "Free health insurance up to ₹5 lakh/family/year for families not covered under Ayushman Bharat",
+      "hi": "आयुष्मान भारत में शामिल नहीं परिवारों के लिए ₹5 लाख/परिवार/वर्ष तक मुफ्त स्वास्थ्य बीमा"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Families not covered under PMJAY/Ayushman Bharat"
+    },
+    "officialUrl": "https://jharkhand.gov.in",
+    "guideSlug": "abua-swasth-suraksha-jharkhand"
+  },
+  {
+    "id": "jh-maiyan-samman",
+    "name": { "en": "Maiyan Samman Yojana", "hi": "मइयाँ सम्मान योजना" },
+    "type": "state",
+    "state": "Jharkhand",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 12000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,000/month (increased to ₹2,500 promised) financial assistance for women aged 18-50",
+      "hi": "18-50 आयु की महिलाओं को ₹1,000/माह (₹2,500 तक बढ़ाने का वादा) वित्तीय सहायता"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 50,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Women residents of Jharkhand; not a government employee or taxpayer"
+    },
+    "officialUrl": "https://jharkhand.gov.in",
+    "guideSlug": "maiyan-samman-yojana-jharkhand"
+  },
+  {
+    "id": "jh-birsa-munda-yojana",
+    "name": { "en": "Birsa Munda Tribal Welfare Scheme", "hi": "बिरसा मुंडा आदिवासी कल्याण योजना" },
+    "type": "state",
+    "state": "Jharkhand",
+    "category": "Social Welfare",
+    "benefitAmountPerYear": null,
+    "benefitType": "service",
+    "benefitDescription": {
+      "en": "Scholarship, skill training, and livelihood support for tribal communities",
+      "hi": "आदिवासी समुदायों के लिए छात्रवृत्ति, कौशल प्रशिक्षण और आजीविका सहायता"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": ["ST"],
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must belong to Scheduled Tribe community in Jharkhand"
+    },
+    "officialUrl": "https://jharkhand.gov.in",
+    "guideSlug": "birsa-munda-tribal-welfare-jharkhand"
+  },
+
+  {
+    "id": "wb-lakshmir-bhandar",
+    "name": { "en": "Lakshmir Bhandar", "bn": "লক্ষ্মীর ভাণ্ডার" },
+    "type": "state",
+    "state": "West Bengal",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 14400,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,200/month for SC/ST women; ₹1,000/month for general category women",
+      "bn": "তফসিলি জাতি/উপজাতি মহিলাদের ₹1,200/মাস; সাধারণ শ্রেণির মহিলাদের ₹1,000/মাস"
+    },
+    "eligibility": {
+      "ageMin": 25,
+      "ageMax": 60,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Women head of household in West Bengal; must not be government employee"
+    },
+    "officialUrl": "https://socialsecurity.wb.gov.in",
+    "guideSlug": "lakshmir-bhandar-west-bengal"
+  },
+  {
+    "id": "wb-kanyashree",
+    "name": { "en": "Kanyashree Prakalpa", "bn": "কন্যাশ্রী প্রকল্প" },
+    "type": "state",
+    "state": "West Bengal",
+    "category": "Education",
+    "benefitAmountPerYear": 25000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "K1: ₹1,000/year (13-18 yrs); K2: ₹25,000 one-time at 18 if unmarried & in education; K3: merit scholarships",
+      "bn": "K1: ₹1,000/বছর (13-18 বছর); K2: ₹25,000 একবার 18 বছরে অবিবাহিত ও শিক্ষারত; K3: মেধা বৃত্তি"
+    },
+    "eligibility": {
+      "ageMin": 13,
+      "ageMax": 18,
+      "gender": "female",
+      "incomeMax": 120000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must be unmarried and enrolled in educational institution; family income ≤₹1.2 lakh/year"
+    },
+    "officialUrl": "https://wbkanyashree.gov.in",
+    "guideSlug": "kanyashree-prakalpa-west-bengal"
+  },
+  {
+    "id": "wb-swasthya-sathi",
+    "name": { "en": "Swasthya Sathi", "bn": "স্বাস্থ্য সাথী" },
+    "type": "state",
+    "state": "West Bengal",
+    "category": "Health",
+    "benefitAmountPerYear": null,
+    "benefitType": "service",
+    "benefitDescription": {
+      "en": "Free health insurance up to ₹5 lakh/family/year at empanelled hospitals",
+      "bn": "তালিকাভুক্ত হাসপাতালে পরিবার প্রতি বছরে ₹5 লক্ষ পর্যন্ত বিনামূল্যে স্বাস্থ্য বীমা"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "All families of West Bengal with Swasthya Sathi card"
+    },
+    "officialUrl": "https://swasthyasathi.gov.in",
+    "guideSlug": "swasthya-sathi-west-bengal"
+  },
+  {
+    "id": "wb-sabuj-sathi",
+    "name": { "en": "Sabuj Sathi", "bn": "সবুজ সাথী" },
+    "type": "state",
+    "state": "West Bengal",
+    "category": "Education",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "Free bicycle to students of class 9-12 in government and aided schools",
+      "bn": "সরকারি ও সাহায্যপ্রাপ্ত স্কুলে নবম-দ্বাদশ শ্রেণির ছাত্রছাত্রীদের বিনামূল্যে সাইকেল"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Students enrolled in class 9-12 in government/aided schools in West Bengal"
+    },
+    "officialUrl": "https://wb.gov.in",
+    "guideSlug": "sabuj-sathi-west-bengal"
+  },
+  {
+    "id": "wb-rupashree",
+    "name": { "en": "Rupashree Prakalpa", "bn": "রূপশ্রী প্রকল্প" },
+    "type": "state",
+    "state": "West Bengal",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 25000,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹25,000 one-time grant for marriage of girls from economically weaker families",
+      "bn": "আর্থিকভাবে দুর্বল পরিবারের মেয়েদের বিবাহের জন্য ₹25,000 একবারের অনুদান"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": 150000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Family annual income ≤₹1.5 lakh; bride must be 18+"
+    },
+    "officialUrl": "https://wbrupashree.gov.in",
+    "guideSlug": "rupashree-prakalpa-west-bengal"
+  },
+  {
+    "id": "wb-aikyashree",
+    "name": { "en": "Aikyashree Prakalpa", "bn": "ঐক্যশ্রী প্রকল্প" },
+    "type": "state",
+    "state": "West Bengal",
+    "category": "Education",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Scholarship for minority students from pre-matric to post-matric level",
+      "bn": "প্রি-ম্যাট্রিক থেকে পোস্ট-ম্যাট্রিক স্তরে সংখ্যালঘু ছাত্রছাত্রীদের বৃত্তি"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": 200000,
+      "categories": ["Minority"],
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must belong to minority community; family income ≤₹2 lakh/year"
+    },
+    "officialUrl": "https://wbmdfc.org",
+    "guideSlug": "aikyashree-prakalpa-west-bengal"
+  },
+  {
+    "id": "wb-taruner-swapno",
+    "name": { "en": "Taruner Swapno", "bn": "তরুণের স্বপ্ন" },
+    "type": "state",
+    "state": "West Bengal",
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "service",
+    "benefitDescription": {
+      "en": "Free tablet/laptop distribution to students of class 11-12 and college for digital education",
+      "bn": "ডিজিটাল শিক্ষার জন্য একাদশ-দ্বাদশ শ্রেণি ও কলেজ ছাত্রদের বিনামূল্যে ট্যাবলেট/ল্যাপটপ বিতরণ"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Students of class 11, 12, and college in West Bengal"
+    },
+    "officialUrl": "https://wb.gov.in",
+    "guideSlug": "taruner-swapno-west-bengal"
+  },
+  {
+    "id": "wb-karmatirtha",
+    "name": { "en": "Karmatirtha Yojana", "bn": "কর্মতীর্থ যোজনা" },
+    "type": "state",
+    "state": "West Bengal",
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "service",
+    "benefitDescription": {
+      "en": "Employment exchange and job portal with self-employment support for youth",
+      "bn": "যুবকদের জন্য কর্মসংস্থান বিনিময় ও চাকরি পোর্টাল এবং স্বনিযুক্তি সহায়তা"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Unemployed youth of West Bengal"
+    },
+    "officialUrl": "https://karmatirtha.wb.gov.in",
+    "guideSlug": "karmatirtha-west-bengal"
+  },
+
+  {
+    "id": "od-kalia",
+    "name": { "en": "KALIA Yojana", "or": "କାଳିଆ ଯୋଜନା" },
+    "type": "state",
+    "state": "Odisha",
+    "category": "Agriculture",
+    "benefitAmountPerYear": 10000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹10,000/year (₹5,000 per season for 2 seasons) to small and marginal farmers for cultivation",
+      "or": "ଛୋଟ ଓ ପ୍ରାନ୍ତିକ କୃଷକମାନଙ୍କୁ ଚାଷ ପାଇଁ ₹10,000/ବର୍ଷ (2 ଋତୁ ପାଇଁ ₹5,000 ପ୍ରତି ଋତୁ)"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": "farmer",
+      "bpl": null,
+      "urbanRural": "rural",
+      "additionalCriteria": "Small and marginal farmers of Odisha; landless agricultural households also eligible"
+    },
+    "officialUrl": "https://kalia.odisha.gov.in",
+    "guideSlug": "kalia-yojana-odisha"
+  },
+  {
+    "id": "od-madhu-babu-pension",
+    "name": { "en": "Madhu Babu Pension Yojana", "or": "ମଧୁ ବାବୁ ପେନସନ ଯୋଜନା" },
+    "type": "state",
+    "state": "Odisha",
+    "category": "Pension",
+    "benefitAmountPerYear": 42000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹3,500/month pension for elderly (60+), widows, and disabled persons (hiked from ₹1,500 in Jan 2025)",
+      "or": "ବୃଦ୍ଧ (60+), ବିଧବା ଓ ଦିବ୍ୟାଙ୍ଗ ବ୍ୟକ୍ତିଙ୍କୁ ₹3,500/ମାସ ପେନସନ (ଜାନୁଆରୀ 2025ରେ ₹1,500ରୁ ବୃଦ୍ଧି)"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Also covers widows 30+ and disabled 5+ with 40% disability; BPL families"
+    },
+    "officialUrl": "https://ssepd.odisha.gov.in",
+    "guideSlug": "madhu-babu-pension-odisha"
+  },
+  {
+    "id": "od-biju-swasthya-kalyan",
+    "name": { "en": "Biju Swasthya Kalyan Yojana", "or": "ବିଜୁ ସ୍ୱାସ୍ଥ୍ୟ କଲ୍ୟାଣ ଯୋଜନା" },
+    "type": "state",
+    "state": "Odisha",
+    "category": "Health",
+    "benefitAmountPerYear": null,
+    "benefitType": "service",
+    "benefitDescription": {
+      "en": "Free health coverage up to ₹5 lakh/family/year at government and empanelled hospitals",
+      "or": "ସରକାରୀ ଓ ତାଲିକାଭୁକ୍ତ ହସ୍ପିଟାଲରେ ପରିବାର ପ୍ରତି ₹5 ଲକ୍ଷ/ବର୍ଷ ପର୍ଯ୍ୟନ୍ତ ମାଗଣା ସ୍ୱାସ୍ଥ୍ୟ ସେବା"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "All residents of Odisha with ration card"
+    },
+    "officialUrl": "https://bsky.odisha.gov.in",
+    "guideSlug": "biju-swasthya-kalyan-odisha"
+  },
+  {
+    "id": "od-mission-shakti",
+    "name": { "en": "Mission Shakti", "or": "ମିଶନ ଶକ୍ତି" },
+    "type": "state",
+    "state": "Odisha",
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "service",
+    "benefitDescription": {
+      "en": "Women's self-help group empowerment — interest-free loans, livelihood training, and marketing support",
+      "or": "ମହିଳା ସ୍ୱୟଂ ସହାୟକ ଗୋଷ୍ଠୀ ସଶକ୍ତିକରଣ — ସୁଧମୁକ୍ତ ଋଣ, ଜୀବିକା ପ୍ରଶିକ୍ଷଣ ଓ ବିପଣନ ସହାୟତା"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Women SHG members in Odisha"
+    },
+    "officialUrl": "https://missionshakti.odisha.gov.in",
+    "guideSlug": "mission-shakti-odisha"
+  },
+  {
+    "id": "od-mamata",
+    "name": { "en": "Mamata Yojana", "or": "ମମତା ଯୋଜନା" },
+    "type": "state",
+    "state": "Odisha",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 5000,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹5,000 conditional cash transfer for pregnant and lactating women (in installments)",
+      "or": "ଗର୍ଭବତୀ ଓ ସ୍ତନ୍ୟପାନ କରାଉଥିବା ମହିଳାଙ୍କୁ ₹5,000 ସର୍ତ୍ତଯୁକ୍ତ ନଗଦ ହସ୍ତାନ୍ତର (କିସ୍ତିରେ)"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Pregnant and lactating women; first two live births"
+    },
+    "officialUrl": "https://wcd.odisha.gov.in",
+    "guideSlug": "mamata-yojana-odisha"
+  },
+  {
+    "id": "od-subhadra",
+    "name": { "en": "Subhadra Yojana", "or": "ସୁଭଦ୍ରା ଯୋଜନା" },
+    "type": "state",
+    "state": "Odisha",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 10000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹50,000 over 5 years (₹10,000/year) as vouchers/cash to women aged 21-60",
+      "or": "21-60 ବର୍ଷ ବୟସ୍କ ମହିଳାଙ୍କୁ 5 ବର୍ଷରେ ₹50,000 (₹10,000/ବର୍ଷ) ଭାଉଚର/ନଗଦ"
+    },
+    "eligibility": {
+      "ageMin": 21,
+      "ageMax": 60,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Women residents of Odisha; not a government employee or income taxpayer"
+    },
+    "officialUrl": "https://subhadrayojana.odisha.gov.in",
+    "guideSlug": "subhadra-yojana-odisha"
+  },
+  {
+    "id": "od-free-rice",
+    "name": { "en": "Odisha Free Rice Scheme", "or": "ଓଡ଼ିଶା ମାଗଣା ଚାଉଳ ଯୋଜନା" },
+    "type": "state",
+    "state": "Odisha",
+    "category": "Food Security",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "1 kg free rice per person per day (5 kg/person/month) for eligible families",
+      "or": "ଯୋଗ୍ୟ ପରିବାରଙ୍କୁ ପ୍ରତିଦିନ ଜଣକୁ 1 କେଜି ମାଗଣା ଚାଉଳ (5 କେଜି/ଜଣ/ମାସ)"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Must have valid ration card"
+    },
+    "officialUrl": "https://pdsodisha.gov.in",
+    "guideSlug": "free-rice-scheme-odisha"
+  },
+  {
+    "id": "od-labanyavati",
+    "name": { "en": "Labanyavati Yojana", "or": "ଲାବଣ୍ୟବତୀ ଯୋଜନା" },
+    "type": "state",
+    "state": "Odisha",
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "service",
+    "benefitDescription": {
+      "en": "Free sanitary napkins for women and girls through SHGs and schools",
+      "or": "ସ୍ୱୟଂ ସହାୟକ ଗୋଷ୍ଠୀ ଓ ବିଦ୍ୟାଳୟ ମାଧ୍ୟମରେ ମହିଳା ଓ ବାଳିକାଙ୍କୁ ମାଗଣା ସାନିଟାରୀ ନ୍ୟାପକିନ"
+    },
+    "eligibility": {
+      "ageMin": 10,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "All women and adolescent girls in Odisha"
+    },
+    "officialUrl": "https://missionshakti.odisha.gov.in",
+    "guideSlug": "labanyavati-yojana-odisha"
+  },
+
+  {
+    "id": "cg-mahtari-vandana",
+    "name": { "en": "Mahtari Vandana Yojana", "hi": "महतारी वंदन योजना" },
+    "type": "state",
+    "state": "Chhattisgarh",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 12000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,000/month (₹12,000/year) direct transfer to married women",
+      "hi": "विवाहित महिलाओं को ₹1,000/माह (₹12,000/वर्ष) सीधे बैंक खाते में"
+    },
+    "eligibility": {
+      "ageMin": 21,
+      "ageMax": 60,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must be married; not a government employee or income taxpayer"
+    },
+    "officialUrl": "https://mahtarivandan.cgstate.gov.in",
+    "guideSlug": "mahtari-vandana-yojana-chhattisgarh"
+  },
+  {
+    "id": "cg-godhan-nyay",
+    "name": { "en": "Godhan Nyay Yojana", "hi": "गोधन न्याय योजना" },
+    "type": "state",
+    "state": "Chhattisgarh",
+    "category": "Agriculture",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Government purchases cow dung at ₹2/kg from cattle owners and SHGs for vermicompost",
+      "hi": "सरकार पशुपालकों और स्वयं सहायता समूहों से ₹2/किलो गोबर खरीदकर वर्मी कम्पोस्ट बनाती है"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": "farmer",
+      "bpl": null,
+      "urbanRural": "rural",
+      "additionalCriteria": "Cattle owners and women SHGs in Chhattisgarh"
+    },
+    "officialUrl": "https://godhannyay.cgstate.gov.in",
+    "guideSlug": "godhan-nyay-yojana-chhattisgarh"
+  },
+  {
+    "id": "cg-rajiv-gandhi-kisan-nyay",
+    "name": { "en": "Rajiv Gandhi Kisan Nyay Yojana", "hi": "राजीव गांधी किसान न्याय योजना" },
+    "type": "state",
+    "state": "Chhattisgarh",
+    "category": "Agriculture",
+    "benefitAmountPerYear": 9000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹9,000/acre/year input subsidy for paddy, maize, sugarcane and other crop farmers",
+      "hi": "धान, मक्का, गन्ना और अन्य फसल किसानों को ₹9,000/एकड़/वर्ष इनपुट सब्सिडी"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": "farmer",
+      "bpl": null,
+      "urbanRural": "rural",
+      "additionalCriteria": "Registered farmers of Chhattisgarh growing specified crops"
+    },
+    "officialUrl": "https://rgkny.cg.nic.in",
+    "guideSlug": "rajiv-gandhi-kisan-nyay-chhattisgarh"
+  },
+  {
+    "id": "cg-swami-atmanand-schools",
+    "name": { "en": "Swami Atmanand English/Hindi Medium Schools", "hi": "स्वामी आत्मानंद अंग्रेजी/हिंदी माध्यम स्कूल" },
+    "type": "state",
+    "state": "Chhattisgarh",
+    "category": "Education",
+    "benefitAmountPerYear": null,
+    "benefitType": "service",
+    "benefitDescription": {
+      "en": "Free quality education in English and Hindi medium government schools with CBSE-standard infrastructure",
+      "hi": "सीबीएसई-स्तरीय बुनियादी ढांचे वाले सरकारी स्कूलों में अंग्रेजी और हिंदी माध्यम में मुफ्त गुणवत्तापूर्ण शिक्षा"
+    },
+    "eligibility": {
+      "ageMin": 5,
+      "ageMax": 18,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "All children of Chhattisgarh; admission via merit"
+    },
+    "officialUrl": "https://shiksha.cg.nic.in",
+    "guideSlug": "swami-atmanand-schools-chhattisgarh"
+  },
+  {
+    "id": "cg-vridha-pension",
+    "name": { "en": "Chhattisgarh Vridha Pension Yojana", "hi": "छत्तीसगढ़ वृद्धावस्था पेंशन योजना" },
+    "type": "state",
+    "state": "Chhattisgarh",
+    "category": "Pension",
+    "benefitAmountPerYear": 7200,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹600/month pension for elderly aged 60+ from BPL families",
+      "hi": "बीपीएल परिवारों के 60+ आयु के बुजुर्गों को ₹600/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Below poverty line families of Chhattisgarh"
+    },
+    "officialUrl": "https://sw.cg.gov.in",
+    "guideSlug": "vridha-pension-chhattisgarh"
+  },
+  {
+    "id": "cg-free-ration",
+    "name": { "en": "Chhattisgarh Free Ration Yojana", "hi": "छत्तीसगढ़ मुफ्त राशन योजना" },
+    "type": "state",
+    "state": "Chhattisgarh",
+    "category": "Food Security",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "35 kg rice/family/month at ₹1/kg for BPL families; free rice for AAY",
+      "hi": "बीपीएल परिवारों को ₹1/किलो पर 35 किलो चावल/परिवार/माह; अंत्योदय को मुफ्त चावल"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Must have valid ration card (BPL/AAY)"
+    },
+    "officialUrl": "https://khadya.cg.nic.in",
+    "guideSlug": "free-ration-chhattisgarh"
+  },
+  {
+    "id": "cg-mukhyamantri-ladli-laxmi",
+    "name": { "en": "Mukhyamantri Noni Sashaktikaran Sahayata Yojana", "hi": "मुख्यमंत्री नोनी सशक्तिकरण सहायता योजना" },
+    "type": "state",
+    "state": "Chhattisgarh",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 20000,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹20,000 each to first 2 daughters of registered labourers for education/marriage/self-employment",
+      "hi": "पंजीकृत श्रमिकों की पहली 2 बेटियों को शिक्षा/विवाह/स्वरोजगार के लिए प्रत्येक को ₹20,000"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": "labourer",
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Father/mother must be registered construction worker; max 2 daughters"
+    },
+    "officialUrl": "https://cglabour.nic.in",
+    "guideSlug": "noni-sashaktikaran-chhattisgarh"
+  },
+  {
+    "id": "cg-vishwakarma-yojana",
+    "name": { "en": "Chhattisgarh Vishwakarma Yojana", "hi": "छत्तीसगढ़ विश्वकर्मा योजना" },
+    "type": "state",
+    "state": "Chhattisgarh",
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "Tool kits, skill training, and subsidized loans for traditional artisans and craftspersons",
+      "hi": "पारंपरिक कारीगरों और शिल्पकारों को टूल किट, कौशल प्रशिक्षण और सब्सिडी वाले ऋण"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": "artisan",
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Traditional artisans (carpenter, blacksmith, goldsmith, potter etc.) of Chhattisgarh"
+    },
+    "officialUrl": "https://cg.gov.in",
+    "guideSlug": "vishwakarma-yojana-chhattisgarh"
+  },
+
+  {
+    "id": "mp-ladli-behna",
+    "name": { "en": "Ladli Behna Yojana", "hi": "लाड़ली बहना योजना" },
+    "type": "state",
+    "state": "Madhya Pradesh",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 18000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,500/month (increased from ₹1,250 in Nov 2025) direct transfer to women aged 21-60",
+      "hi": "21-60 आयु की महिलाओं को ₹1,500/माह (नवंबर 2025 में ₹1,250 से बढ़ाकर) सीधे बैंक खाते में"
+    },
+    "eligibility": {
+      "ageMin": 21,
+      "ageMax": 60,
+      "gender": "female",
+      "incomeMax": 250000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Not an income taxpayer; family income ≤₹2.5 lakh; not a government employee"
+    },
+    "officialUrl": "https://ladlibahna.mp.gov.in",
+    "guideSlug": "ladli-behna-yojana-mp"
+  },
+  {
+    "id": "mp-seekho-kamao",
+    "name": { "en": "Mukhyamantri Seekho Kamao Yojana", "hi": "मुख्यमंत्री सीखो कमाओ योजना" },
+    "type": "state",
+    "state": "Madhya Pradesh",
+    "category": "Employment",
+    "benefitAmountPerYear": 120000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹8,000-₹10,000/month stipend during skill training (12th pass: ₹8,000; ITI: ₹8,500; Diploma: ₹9,000; Graduate+: ₹10,000)",
+      "hi": "कौशल प्रशिक्षण के दौरान ₹8,000-₹10,000/माह स्टाइपेंड (12वीं: ₹8,000; ITI: ₹8,500; डिप्लोमा: ₹9,000; स्नातक+: ₹10,000)"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 29,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must be resident of MP; minimum 12th pass; not employed or studying"
+    },
+    "officialUrl": "https://mmsky.mp.gov.in",
+    "guideSlug": "seekho-kamao-yojana-mp"
+  },
+  {
+    "id": "mp-ladli-laxmi",
+    "name": { "en": "Ladli Laxmi Yojana 2.0", "hi": "लाड़ली लक्ष्मी योजना 2.0" },
+    "type": "state",
+    "state": "Madhya Pradesh",
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,43,000 total (insurance + scholarships at school milestones + ₹1 lakh at age 21 if unmarried)",
+      "hi": "कुल ₹1,43,000 (बीमा + विद्यालय माइलस्टोन पर छात्रवृत्ति + 21 वर्ष में अविवाहित होने पर ₹1 लाख)"
+    },
+    "eligibility": {
+      "ageMin": 0,
+      "ageMax": 21,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Girl child born in MP; parents not income taxpayers; max 2 girls per family; 2.0 adds college fee support"
+    },
+    "officialUrl": "https://ladlilaxmi.mp.gov.in",
+    "guideSlug": "ladli-laxmi-yojana-mp"
+  },
+  {
+    "id": "mp-sambal",
+    "name": { "en": "Sambal Yojana (Jan Kalyan)", "hi": "संबल योजना (जन कल्याण)" },
+    "type": "state",
+    "state": "Madhya Pradesh",
+    "category": "Social Welfare",
+    "benefitAmountPerYear": null,
+    "benefitType": "service",
+    "benefitDescription": {
+      "en": "Social security for unorganized workers — ₹2 lakh accidental death, ₹4 lakh natural death, free electricity, education support",
+      "hi": "असंगठित श्रमिकों के लिए सामाजिक सुरक्षा — ₹2 लाख दुर्घटना मृत्यु, ₹4 लाख स्वाभाविक मृत्यु, मुफ्त बिजली, शिक्षा सहायता"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 60,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": "unorganized worker",
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Unorganized/BPL workers registered under Sambal; must have Samagra ID"
+    },
+    "officialUrl": "https://sambal.mp.gov.in",
+    "guideSlug": "sambal-yojana-mp"
+  },
+  {
+    "id": "mp-vridha-pension",
+    "name": { "en": "MP Vridha Pension Yojana", "hi": "मध्य प्रदेश वृद्धावस्था पेंशन योजना" },
+    "type": "state",
+    "state": "Madhya Pradesh",
+    "category": "Pension",
+    "benefitAmountPerYear": 7200,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹600/month pension for elderly aged 60+ from BPL families (₹300 state + ₹300 centre for 60-79; ₹500 state + ₹500 centre for 80+)",
+      "hi": "बीपीएल परिवारों के 60+ आयु के बुजुर्गों को ₹600/माह पेंशन (60-79: ₹300 राज्य + ₹300 केंद्र; 80+: ₹500+₹500)"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Must be BPL; must have Samagra ID"
+    },
+    "officialUrl": "https://socialsecurity.mp.gov.in",
+    "guideSlug": "vridha-pension-mp"
+  },
+  {
+    "id": "mp-mukhyamantri-jan-seva-mitra",
+    "name": { "en": "Mukhyamantri Yuva Internship Yojana", "hi": "मुख्यमंत्री युवा इंटर्नशिप योजना" },
+    "type": "state",
+    "state": "Madhya Pradesh",
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Internship opportunities in government departments with monthly stipend for graduates",
+      "hi": "स्नातकों के लिए सरकारी विभागों में मासिक स्टाइपेंड के साथ इंटर्नशिप के अवसर"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 29,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Graduate youth of Madhya Pradesh"
+    },
+    "officialUrl": "https://mp.gov.in",
+    "guideSlug": "yuva-internship-mp"
+  },
+  {
+    "id": "mp-vidhwa-pension",
+    "name": { "en": "MP Vidhwa Pension Yojana", "hi": "मध्य प्रदेश विधवा पेंशन योजना" },
+    "type": "state",
+    "state": "Madhya Pradesh",
+    "category": "Pension",
+    "benefitAmountPerYear": 7200,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹600/month pension for widows aged 40+ from BPL families",
+      "hi": "बीपीएल परिवारों की 40+ आयु की विधवा महिलाओं को ₹600/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 40,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Widow women from BPL families; must have Samagra ID"
+    },
+    "officialUrl": "https://socialsecurity.mp.gov.in",
+    "guideSlug": "vidhwa-pension-mp"
+  },
+  {
+    "id": "mp-free-ration",
+    "name": { "en": "MP Free Ration Yojana", "hi": "मध्य प्रदेश मुफ्त राशन योजना" },
+    "type": "state",
+    "state": "Madhya Pradesh",
+    "category": "Food Security",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Free wheat, rice and sugar to eligible families under NFSA via ration card",
+      "hi": "राशन कार्ड के माध्यम से एनएफएसए के तहत पात्र परिवारों को मुफ्त गेहूं, चावल और चीनी"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Must have valid ration card (BPL/AAY/PHH)"
+    },
+    "officialUrl": "https://nfsa.samagra.gov.in",
+    "guideSlug": "free-ration-mp"
+  },
+  {
+    "id": "mp-mukhyamantri-udyam-kranti",
+    "name": { "en": "Mukhyamantri Udyam Kranti Yojana", "hi": "मुख्यमंत्री उद्यम क्रांति योजना" },
+    "type": "state",
+    "state": "Madhya Pradesh",
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "Loan up to ₹50 lakh for manufacturing and ₹25 lakh for service sector with 3% interest subsidy",
+      "hi": "विनिर्माण के लिए ₹50 लाख और सेवा क्षेत्र के लिए ₹25 लाख तक का ऋण 3% ब्याज सब्सिडी के साथ"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 45,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must be resident of MP; minimum 12th pass; must have Samagra ID"
+    },
+    "officialUrl": "https://samast.mponline.gov.in",
+    "guideSlug": "udyam-kranti-yojana-mp"
+  }
+]

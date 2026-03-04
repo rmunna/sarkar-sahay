@@ -32,20 +32,29 @@ const schemes = schemesData as unknown as Scheme[];
 
 /* ───── Constants ───── */
 const STATES = [
-  "All India", "Andhra Pradesh", "Bihar", "Gujarat", "Karnataka", "Kerala",
-  "Madhya Pradesh", "Maharashtra", "Rajasthan", "Tamil Nadu", "Telangana",
-  "Uttar Pradesh", "West Bengal",
+  "All India", "Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar",
+  "Chhattisgarh", "Delhi", "Goa", "Gujarat", "Haryana", "Himachal Pradesh",
+  "Jammu & Kashmir", "Jharkhand", "Karnataka", "Kerala", "Madhya Pradesh",
+  "Maharashtra", "Manipur", "Meghalaya", "Mizoram", "Nagaland", "Odisha",
+  "Puducherry", "Punjab", "Rajasthan", "Sikkim", "Tamil Nadu", "Telangana",
+  "Tripura", "Uttar Pradesh", "Uttarakhand", "West Bengal",
 ];
 
 const STATE_LANG: Record<string, string> = {
-  "Andhra Pradesh": "te", "Bihar": "hi", "Gujarat": "gu", "Karnataka": "kn",
-  "Kerala": "ml", "Madhya Pradesh": "hi", "Maharashtra": "mr", "Rajasthan": "hi",
-  "Tamil Nadu": "ta", "Telangana": "te", "Uttar Pradesh": "hi", "West Bengal": "bn",
+  "Andhra Pradesh": "te", "Arunachal Pradesh": "en", "Assam": "as", "Bihar": "hi",
+  "Chhattisgarh": "hi", "Delhi": "hi", "Goa": "hi", "Gujarat": "gu",
+  "Haryana": "hi", "Himachal Pradesh": "hi", "Jammu & Kashmir": "hi",
+  "Jharkhand": "hi", "Karnataka": "kn", "Kerala": "ml", "Madhya Pradesh": "hi",
+  "Maharashtra": "mr", "Manipur": "en", "Meghalaya": "en", "Mizoram": "en",
+  "Nagaland": "en", "Odisha": "or", "Puducherry": "ta", "Punjab": "pa",
+  "Rajasthan": "hi", "Sikkim": "en", "Tamil Nadu": "ta", "Telangana": "te",
+  "Tripura": "bn", "Uttar Pradesh": "hi", "Uttarakhand": "hi", "West Bengal": "bn",
 };
 
 const STATE_LANG_NAME: Record<string, string> = {
   te: "తెలుగు", hi: "हिन्दी", gu: "ગુજરાતી", kn: "ಕನ್ನಡ",
   ml: "മലയാളം", mr: "मराठी", ta: "தமிழ்", bn: "বাংলা",
+  as: "অসমীয়া", or: "ଓଡ଼ିଆ", pa: "ਪੰਜਾਬੀ", en: "English",
 };
 
 const INCOME_OPTIONS = [
@@ -57,11 +66,13 @@ const INCOME_OPTIONS = [
 ];
 
 const CATEGORIES = ["General", "OBC", "SC", "ST", "EWS"];
-const OCCUPATIONS = ["Farmer", "Student", "Unorganised Worker", "Homemaker", "Salaried", "Self-Employed", "Unemployed"];
+const OCCUPATIONS = ["Unemployed", "Farmer", "Student", "Unorganised Worker", "Homemaker", "Salaried", "Self-Employed", "Street Vendor", "Artisan/Craftsperson", "Labourer", "Fisher"];
 const OCCUPATION_MAP: Record<string, string> = {
-  "Farmer": "farmer", "Student": "student", "Unorganised Worker": "unorganised",
-  "Homemaker": "homemaker", "Salaried": "salaried", "Self-Employed": "self-employed",
-  "Unemployed": "unemployed",
+  "Unemployed": "unemployed", "Farmer": "farmer", "Student": "student",
+  "Unorganised Worker": "unorganised", "Homemaker": "homemaker",
+  "Salaried": "salaried", "Self-Employed": "self-employed",
+  "Street Vendor": "street vendor", "Artisan/Craftsperson": "artisan",
+  "Labourer": "labourer", "Fisher": "fisher",
 };
 
 /* ───── Helpers ───── */
@@ -89,7 +100,7 @@ function checkEligibility(
   if (e.ageMax !== null && age > e.ageMax) return false;
   if (e.gender !== null && e.gender !== gender.toLowerCase()) return false;
   if (e.incomeMax !== null && income > e.incomeMax) return false;
-  if (e.categories !== null && !e.categories.includes(category.toLowerCase())) return false;
+  if (e.categories !== null && !e.categories.some(c => c.toLowerCase() === category.toLowerCase())) return false;
   if (e.occupation !== null && !e.occupation.includes("any") && !e.occupation.includes(occupation)) return false;
   if (e.bpl === true && !bpl) return false;
   if (e.urbanRural !== null && e.urbanRural !== area.toLowerCase()) return false;
@@ -101,20 +112,20 @@ const FAQS = [
   { q: "How does the Government Scheme Finder work?", a: "Enter your basic details like age, income, category, and occupation. Our tool checks your eligibility against 80+ central and state government schemes and shows you the ones you qualify for, along with estimated annual benefits." },
   { q: "Is this eligibility check accurate?", a: "Our tool checks against the official eligibility criteria for each scheme. However, some schemes have additional criteria (like land ownership or specific documents) that can only be verified during the actual application. Always check the official website for final confirmation." },
   { q: "Can I apply for schemes directly from here?", a: "This tool helps you discover schemes you're eligible for. For each scheme, we provide a link to the official website and our detailed guide (where available) with step-by-step application instructions." },
-  { q: "How many government schemes are covered?", a: "We currently cover 83 schemes including major central government schemes (PM Kisan, Ayushman Bharat, PM Awas Yojana, etc.) and state-specific schemes across 12 states. We regularly update the database." },
+  { q: "How many government schemes are covered?", a: "We cover 230+ schemes including 50+ central government schemes (PM Kisan, Ayushman Bharat, PM Awas Yojana, etc.) and 180+ state-specific schemes across all 31 states and UTs. We regularly update the database with verified benefit amounts." },
   { q: "Do I need to pay anything to check my eligibility?", a: "No, this tool is completely free. All government schemes listed here are also free to apply for through official channels. Beware of any third-party service charging money for scheme applications." },
 ];
 
 /* ───── Component ───── */
 export default function SchemeFinderPage() {
   const [state, setState] = useState("All India");
-  const [dob, setDob] = useState("");
+  const [dob, setDob] = useState("2000-01-01");
   const [gender, setGender] = useState("Male");
-  const [income, setIncome] = useState(250000);
+  const [income, setIncome] = useState(100000);
   const [category, setCategory] = useState("General");
-  const [occupation, setOccupation] = useState("Salaried");
-  const [bpl, setBpl] = useState(false);
-  const [area, setArea] = useState("Urban");
+  const [occupation, setOccupation] = useState("Unemployed");
+  const [bpl, setBpl] = useState(true);
+  const [area, setArea] = useState("Rural");
   const [showResults, setShowResults] = useState(false);
   const [useLang, setUseLang] = useState(false);
   const [filter, setFilter] = useState<"all" | "central" | "state">("all");

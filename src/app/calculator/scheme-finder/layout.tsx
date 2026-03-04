@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Government Scheme Finder — Check Eligibility for 80+ Schemes | CitizenNest",
-  description: "Find government schemes you're eligible for. Enter your details to discover central and state schemes with benefits worth lakhs per year. Free eligibility checker.",
+  title: "Government Scheme Finder — Check Eligibility for 230+ Schemes | CitizenNest",
+  description: "Find government schemes you're eligible for. 230+ central & state schemes across all 31 states with ₹ benefits. Free eligibility checker in regional languages.",
 };
 export default function Layout({ children }: { children: React.ReactNode }) { return children; }

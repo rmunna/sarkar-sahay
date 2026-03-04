@@ -1,0 +1,2178 @@
+[
+  {
+    "id": "mh-ladki-bahin",
+    "name": {
+      "en": "Mukhyamantri Majhi Ladki Bahin Yojana",
+      "mr": "मुख्यमंत्री माझी लाडकी बहीण योजना",
+      "hi": "मुख्यमंत्री माझी लाडकी बहीण योजना"
+    },
+    "type": "state",
+    "state": "Maharashtra",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 18000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,500/month financial assistance to women aged 21-65",
+      "mr": "२१-६५ वयोगटातील महिलांना ₹१,५००/महिना आर्थिक सहाय्य"
+    },
+    "eligibility": {
+      "ageMin": 21,
+      "ageMax": 65,
+      "gender": "female",
+      "incomeMax": 250000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must be domiciled in Maharashtra; family income below ₹2.5 lakh/year"
+    },
+    "officialUrl": "https://ladakibahin.maharashtra.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "mh-lek-ladki",
+    "name": {
+      "en": "Lek Ladki Yojana",
+      "mr": "लेक लाडकी योजना",
+      "hi": "लेक लाडकी योजना"
+    },
+    "type": "state",
+    "state": "Maharashtra",
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "milestone",
+    "benefitDescription": {
+      "en": "Total ₹1,01,000 in installments from birth to age 18 for girls from economically weaker families",
+      "mr": "आर्थिकदृष्ट्या दुर्बल कुटुंबातील मुलींना जन्मापासून १८ वर्षांपर्यंत एकूण ₹१,०१,००० हप्त्यांमध्ये"
+    },
+    "eligibility": {
+      "ageMin": 0,
+      "ageMax": 18,
+      "gender": "female",
+      "incomeMax": 100000,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Girl child born in a Yellow/Orange ration card holder family"
+    },
+    "officialUrl": "https://womenchild.maharashtra.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "mh-shravan-bal-pension",
+    "name": {
+      "en": "Shravan Bal Seva Rajya Nivruttivetan Yojana",
+      "mr": "श्रावणबाळ सेवा राज्य निवृत्तीवेतन योजना",
+      "hi": "श्रावणबाल सेवा राज्य निवृत्तिवेतन योजना"
+    },
+    "type": "state",
+    "state": "Maharashtra",
+    "category": "Pension",
+    "benefitAmountPerYear": 18000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,500/month pension for elderly aged 65+ from BPL families",
+      "mr": "बीपीएल कुटुंबातील ६५+ वयोगटातील वृद्धांना ₹१,५००/महिना निवृत्तीवेतन"
+    },
+    "eligibility": {
+      "ageMin": 65,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": 21000,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Must be on BPL list or annual income below ₹21,000"
+    },
+    "officialUrl": "https://sjsa.maharashtra.gov.in/en/scheme/shravan-bal-rajya-nivruttivetan-yojana/",
+    "guideSlug": null
+  },
+  {
+    "id": "mh-mahatma-jyotirao-phule-jan-arogya",
+    "name": {
+      "en": "Mahatma Jyotirao Phule Jan Arogya Yojana",
+      "mr": "महात्मा ज्योतिराव फुले जन आरोग्य योजना",
+      "hi": "महात्मा ज्योतिराव फुले जन आरोग्य योजना"
+    },
+    "type": "state",
+    "state": "Maharashtra",
+    "category": "Health",
+    "benefitAmountPerYear": null,
+    "benefitType": "insurance",
+    "benefitDescription": {
+      "en": "Free health insurance up to ₹5 lakh/family/year for 1000+ diseases at empanelled hospitals",
+      "mr": "सूचीबद्ध रुग्णालयांमध्ये १०००+ आजारांसाठी ₹५ लाख/कुटुंब/वर्ष मोफत आरोग्य विमा"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Yellow/Orange/White ration card holders; farmers"
+    },
+    "officialUrl": "https://www.jeevandayee.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "mh-ramai-awas",
+    "name": {
+      "en": "Ramai Awas Yojana",
+      "mr": "रमाई आवास योजना",
+      "hi": "रमाई आवास योजना"
+    },
+    "type": "state",
+    "state": "Maharashtra",
+    "category": "Housing",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "Housing subsidy up to ₹2.5 lakh for SC/NT/DNT families to build pucca houses",
+      "mr": "अनुसूचित जाती/NT/DNT कुटुंबांना पक्के घर बांधण्यासाठी ₹२.५ लाख अनुदान"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": ["SC", "NT", "DNT"],
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Must not own a pucca house; must be BPL"
+    },
+    "officialUrl": "https://sjsa.maharashtra.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "mh-sanjay-gandhi-niradhar-pension",
+    "name": {
+      "en": "Sanjay Gandhi Niradhar Anudan Yojana",
+      "mr": "संजय गांधी निराधार अनुदान योजना",
+      "hi": "संजय गांधी निराधार अनुदान योजना"
+    },
+    "type": "state",
+    "state": "Maharashtra",
+    "category": "Pension",
+    "benefitAmountPerYear": 7200,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹600/month pension for destitute persons (disabled, widows, orphans, etc.)",
+      "mr": "निराधार व्यक्तींना (अपंग, विधवा, अनाथ इ.) ₹६००/महिना निवृत्तीवेतन"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": 65,
+      "gender": null,
+      "incomeMax": 21000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must be destitute — disabled (40%+), widow, orphan, HIV/AIDS patient, etc."
+    },
+    "officialUrl": "https://sjsa.maharashtra.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "mh-manjhi-kanya-bhagyashree",
+    "name": {
+      "en": "Majhi Kanya Bhagyashree Yojana",
+      "mr": "माझी कन्या भाग्यश्री योजना",
+      "hi": "माझी कन्या भाग्यश्री योजना"
+    },
+    "type": "state",
+    "state": "Maharashtra",
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹50,000 deposited for girl child at birth; maturity amount at age 18",
+      "mr": "मुलीच्या जन्माच्या वेळी ₹५०,००० जमा; वयाच्या १८ व्या वर्षी परिपक्वता रक्कम"
+    },
+    "eligibility": {
+      "ageMin": 0,
+      "ageMax": 0,
+      "gender": "female",
+      "incomeMax": 750000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Family annual income below ₹7.5 lakh; mother must undergo sterilization after one/two girls"
+    },
+    "officialUrl": "https://womenchild.maharashtra.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "mh-gharkul-yojana",
+    "name": {
+      "en": "Maharashtra Gharkul Yojana",
+      "mr": "महाराष्ट्र घरकुल योजना",
+      "hi": "महाराष्ट्र घरकुल योजना"
+    },
+    "type": "state",
+    "state": "Maharashtra",
+    "category": "Housing",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "Free pucca housing for BPL families under various state housing schemes",
+      "mr": "विविध राज्य गृहनिर्माण योजनांतर्गत बीपीएल कुटुंबांना मोफत पक्के घर"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Must be homeless or living in kutcha house"
+    },
+    "officialUrl": "https://mhada.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "gj-namo-lakshmi",
+    "name": {
+      "en": "Namo Lakshmi Yojana",
+      "gu": "નમો લક્ષ્મી યોજના",
+      "hi": "नमो लक्ष्मी योजना"
+    },
+    "type": "state",
+    "state": "Gujarat",
+    "category": "Education",
+    "benefitAmountPerYear": 12500,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Scholarship of ₹10,000-₹15,000/year for girl students in classes 9-12 (total up to ₹50,000)",
+      "gu": "ધોરણ ૯-૧૨ની વિદ્યાર્થિનીઓને ₹૧૦,૦૦૦-₹૧૫,૦૦૦/વર્ષ શિષ્યવૃત્તિ"
+    },
+    "eligibility": {
+      "ageMin": 13,
+      "ageMax": 20,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Girl students studying in classes 9 to 12 in government or grant-in-aid schools"
+    },
+    "officialUrl": "https://education.gujarat.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "gj-vahali-dikri",
+    "name": {
+      "en": "Vahali Dikri Yojana",
+      "gu": "વ્હાલી દીકરી યોજના",
+      "hi": "व्हाली दीकरी योजना"
+    },
+    "type": "state",
+    "state": "Gujarat",
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "milestone",
+    "benefitDescription": {
+      "en": "₹4,000 at Class 1, ₹6,000 at Class 9, ₹1,00,000 at age 18 — total ₹1,10,000 for first two daughters",
+      "gu": "ધોરણ ૧ માં ₹૪,૦૦૦, ધોરણ ૯ માં ₹૬,૦૦૦, ૧૮ વર્ષે ₹૧,૦૦,૦૦૦ — પ્રથમ બે દીકરીઓ માટે"
+    },
+    "eligibility": {
+      "ageMin": 0,
+      "ageMax": 18,
+      "gender": "female",
+      "incomeMax": 200000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "First two daughters of the family; family income below ₹2 lakh/year"
+    },
+    "officialUrl": "https://wcd.gujarat.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "gj-namo-saraswati",
+    "name": {
+      "en": "Namo Saraswati Vigyan Sadhana Yojana",
+      "gu": "નમો સરસ્વતી વિજ્ઞાન સાધના યોજના",
+      "hi": "नमो सरस्वती विज्ञान साधना योजना"
+    },
+    "type": "state",
+    "state": "Gujarat",
+    "category": "Education",
+    "benefitAmountPerYear": 25000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹25,000/year scholarship for students pursuing science stream in classes 11-12",
+      "gu": "ધોરણ ૧૧-૧૨ માં વિજ્ઞાન પ્રવાહના વિદ્યાર્થીઓ માટે ₹૨૫,૦૦૦/વર્ષ શિષ્યવૃત્તિ"
+    },
+    "eligibility": {
+      "ageMin": 15,
+      "ageMax": 20,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Students in science stream classes 11-12 in government/grant-in-aid schools with minimum marks in Class 10"
+    },
+    "officialUrl": "https://education.gujarat.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "gj-kisan-sahay",
+    "name": {
+      "en": "Mukhyamantri Kisan Sahay Yojana",
+      "gu": "મુખ્યમંત્રી કિસાન સહાય યોજના",
+      "hi": "मुख्यमंत्री किसान सहाय योजना"
+    },
+    "type": "state",
+    "state": "Gujarat",
+    "category": "Agriculture",
+    "benefitAmountPerYear": null,
+    "benefitType": "insurance",
+    "benefitDescription": {
+      "en": "Crop loss compensation: ₹20,000/hectare for 33-60% loss, ₹25,000/hectare for 60%+ loss (max 4 hectares)",
+      "gu": "પાક નુકસાન વળતર: ₹૨૦,૦૦૦/હેક્ટર ૩૩-૬૦% નુકસાન, ₹૨૫,૦૦૦/હેક્ટર ૬૦%+ નુકસાન"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": "farmer",
+      "bpl": null,
+      "urbanRural": "rural",
+      "additionalCriteria": "All farmers in Gujarat; no premium required; max 4 hectares"
+    },
+    "officialUrl": "https://agri.gujarat.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "gj-manav-garima",
+    "name": {
+      "en": "Manav Garima Yojana",
+      "gu": "માનવ ગરિમા યોજના",
+      "hi": "मानव गरिमा योजना"
+    },
+    "type": "state",
+    "state": "Gujarat",
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "Up to ₹4,000 worth of tools/equipment kit for self-employment for SC families",
+      "gu": "અનુસૂચિત જાતિ પરિવારો માટે સ્વરોજગાર માટે ₹૪,૦૦૦ સુધીના સાધન/ઉપકરણ કીટ"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": 47000,
+      "categories": ["SC"],
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": "rural",
+      "additionalCriteria": "SC families in rural areas; income below ₹47,000/year (rural) or ₹68,000/year (urban)"
+    },
+    "officialUrl": "https://sje.gujarat.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "gj-ma-amrutam",
+    "name": {
+      "en": "MA (Mukhyamantri Amrutam) Yojana & MA Vatsalya",
+      "gu": "મુખ્યમંત્રી અમૃતમ (MA) યોજના & MA વાત્સલ્ય",
+      "hi": "मुख्यमंत्री अमृतम (MA) योजना & MA वात्सल्य"
+    },
+    "type": "state",
+    "state": "Gujarat",
+    "category": "Health",
+    "benefitAmountPerYear": null,
+    "benefitType": "insurance",
+    "benefitDescription": {
+      "en": "Cashless health insurance up to ₹5 lakh/family/year for BPL and lower-middle-class families",
+      "gu": "BPL અને નિમ્ન-મધ્યમ વર્ગના પરિવારો માટે ₹૫ લાખ/પરિવાર/વર્ષ કેશલેસ આરોગ્ય વીમો"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": 400000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "BPL families (MA) or families with income up to ₹4 lakh (MA Vatsalya)"
+    },
+    "officialUrl": "https://www.magujarat.com/",
+    "guideSlug": null
+  },
+  {
+    "id": "gj-old-age-pension",
+    "name": {
+      "en": "Gujarat Vrudh Sahay (Old Age Pension)",
+      "gu": "ગુજરાત વૃદ્ધ સહાય પેન્શન",
+      "hi": "गुजरात वृद्ध सहाय पेंशन"
+    },
+    "type": "state",
+    "state": "Gujarat",
+    "category": "Pension",
+    "benefitAmountPerYear": 15000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,000-₹1,250/month pension for elderly aged 60+",
+      "gu": "૬૦+ વૃદ્ધો માટે ₹૧,૦૦૦-₹૧,૨૫૦/મહિને પેન્શન"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "BPL families; must be resident of Gujarat"
+    },
+    "officialUrl": "https://sje.gujarat.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "rj-chiranjeevi-health",
+    "name": {
+      "en": "Mukhyamantri Ayushman Arogya Yojana (Chiranjeevi)",
+      "hi": "मुख्यमंत्री आयुष्मान आरोग्य योजना (चिरंजीवी)"
+    },
+    "type": "state",
+    "state": "Rajasthan",
+    "category": "Health",
+    "benefitAmountPerYear": null,
+    "benefitType": "insurance",
+    "benefitDescription": {
+      "en": "Health insurance cover of ₹25 lakh/family/year; merged with Ayushman Bharat; ₹850/year premium for non-exempt families",
+      "hi": "₹25 लाख/परिवार/वर्ष स्वास्थ्य बीमा; आयुष्मान भारत के साथ मिलाया गया"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "All Rajasthan families; BPL/NFSA/small farmers free; others pay ₹850/year premium"
+    },
+    "officialUrl": "https://chiranjeevi.rajasthan.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "rj-old-age-pension",
+    "name": {
+      "en": "Rajasthan Chief Minister Old Age Pension Scheme",
+      "hi": "राजस्थान मुख्यमंत्री वृद्धजन सम्मान पेंशन योजना"
+    },
+    "type": "state",
+    "state": "Rajasthan",
+    "category": "Pension",
+    "benefitAmountPerYear": 12000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹750-₹1,000/month pension for elderly aged 55+ (women) / 58+ (men)",
+      "hi": "55+ (महिला) / 58+ (पुरुष) वृद्धों को ₹750-₹1,000/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 55,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": 48000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Women 55+, Men 58+; income below ₹48,000/year; higher pension for 75+"
+    },
+    "officialUrl": "https://ssp.rajasthan.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "rj-palanhar",
+    "name": {
+      "en": "Palanhar Yojana",
+      "hi": "पालनहार योजना"
+    },
+    "type": "state",
+    "state": "Rajasthan",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 30000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,500/month for children 0-5 years, ₹2,500/month for children 6-18 years — for orphans and destitute children under family care",
+      "hi": "0-5 वर्ष बच्चों को ₹1,500/माह, 6-18 वर्ष को ₹2,500/माह — अनाथ/निराश्रित बच्चों के पालनहार को"
+    },
+    "eligibility": {
+      "ageMin": 0,
+      "ageMax": 18,
+      "gender": null,
+      "incomeMax": 120000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Orphans, children of widows, prisoners, disabled parents, etc.; annual income of guardian below ₹1.2 lakh"
+    },
+    "officialUrl": "https://sje.rajasthan.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "rj-indira-gandhi-smartphone",
+    "name": {
+      "en": "Indira Gandhi Free Smartphone Yojana",
+      "hi": "इंदिरा गांधी फ्री स्मार्टफोन योजना"
+    },
+    "type": "state",
+    "state": "Rajasthan",
+    "category": "Digital Inclusion",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "Free smartphone with 3 years of internet connectivity to women heads of Chiranjeevi-enrolled families",
+      "hi": "चिरंजीवी योजना में पंजीकृत परिवारों की महिला मुखिया को 3 साल इंटरनेट सहित मुफ्त स्मार्टफोन"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Women head of Chiranjeevi-enrolled family; also for Class 9-12 and college girls"
+    },
+    "officialUrl": "https://igsy.rajasthan.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "rj-widow-pension",
+    "name": {
+      "en": "Rajasthan Widow Pension Scheme",
+      "hi": "राजस्थान विधवा पेंशन योजना"
+    },
+    "type": "state",
+    "state": "Rajasthan",
+    "category": "Pension",
+    "benefitAmountPerYear": 9000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹750-₹1,500/month pension for widows aged 18+",
+      "hi": "18+ विधवा महिलाओं को ₹750-₹1,500/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": 48000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Widow; income below ₹48,000/year"
+    },
+    "officialUrl": "https://ssp.rajasthan.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "rj-cm-kanyadan",
+    "name": {
+      "en": "Mukhyamantri Kanyadan Yojana",
+      "hi": "मुख्यमंत्री कन्यादान योजना"
+    },
+    "type": "state",
+    "state": "Rajasthan",
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹31,000-₹41,000 financial assistance at marriage for girls from BPL/SC/ST/minority families",
+      "hi": "BPL/SC/ST/अल्पसंख्यक परिवारों की बेटियों को विवाह पर ₹31,000-₹41,000 सहायता"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": ["SC", "ST", "OBC", "Minority"],
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Daughter of BPL family, widow, or Antyodaya card holder"
+    },
+    "officialUrl": "https://sje.rajasthan.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "rj-anuprati-coaching",
+    "name": {
+      "en": "CM Anuprati Coaching Yojana",
+      "hi": "मुख्यमंत्री अनुप्रति कोचिंग योजना"
+    },
+    "type": "state",
+    "state": "Rajasthan",
+    "category": "Education",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "Free coaching for competitive exams (UPSC, RPSC, JEE, NEET, etc.) for SC/ST/OBC/EWS students",
+      "hi": "SC/ST/OBC/EWS छात्रों को प्रतियोगी परीक्षाओं (UPSC, RPSC, JEE, NEET आदि) की निःशुल्क कोचिंग"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": 800000,
+      "categories": ["SC", "ST", "OBC", "MBC", "EWS"],
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Family annual income below ₹8 lakh"
+    },
+    "officialUrl": "https://sje.rajasthan.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "pb-ashirwad",
+    "name": {
+      "en": "Ashirwad Scheme",
+      "pa": "ਅਸ਼ੀਰਵਾਦ ਸਕੀਮ",
+      "hi": "आशीर्वाद योजना"
+    },
+    "type": "state",
+    "state": "Punjab",
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹51,000 financial assistance for marriage of daughters from SC/BC/EWS families",
+      "pa": "SC/BC/EWS ਪਰਿਵਾਰਾਂ ਦੀਆਂ ਧੀਆਂ ਦੇ ਵਿਆਹ ਲਈ ₹51,000 ਵਿੱਤੀ ਸਹਾਇਤਾ"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": ["SC", "BC", "EWS"],
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Daughter from SC/BC/EWS family in Punjab; marriage must be registered"
+    },
+    "officialUrl": "https://punjab.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "pb-atta-dal",
+    "name": {
+      "en": "Atta Dal Scheme",
+      "pa": "ਆਟਾ ਦਾਲ ਸਕੀਮ",
+      "hi": "आटा दाल योजना"
+    },
+    "type": "state",
+    "state": "Punjab",
+    "category": "Food Security",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Subsidized wheat flour (₹2/kg) and dal (₹20/kg) to BPL families every month",
+      "pa": "BPL ਪਰਿਵਾਰਾਂ ਨੂੰ ਹਰ ਮਹੀਨੇ ਸਬਸਿਡੀ ਵਾਲਾ ਆਟਾ (₹2/ਕਿਲੋ) ਅਤੇ ਦਾਲ (₹20/ਕਿਲੋ)"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Blue card (BPL) holders in Punjab"
+    },
+    "officialUrl": "https://punjab.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "pb-bhagat-puran-singh-sehat-bima",
+    "name": {
+      "en": "Bhagat Puran Singh Sehat Bima Yojana",
+      "pa": "ਭਗਤ ਪੂਰਨ ਸਿੰਘ ਸਿਹਤ ਬੀਮਾ ਯੋਜਨਾ",
+      "hi": "भगत पूरन सिंह सेहत बीमा योजना"
+    },
+    "type": "state",
+    "state": "Punjab",
+    "category": "Health",
+    "benefitAmountPerYear": null,
+    "benefitType": "insurance",
+    "benefitDescription": {
+      "en": "Cashless health insurance up to ₹5 lakh/family/year for BPL families (merged with Ayushman Bharat)",
+      "pa": "BPL ਪਰਿਵਾਰਾਂ ਲਈ ₹5 ਲੱਖ/ਪਰਿਵਾਰ/ਸਾਲ ਕੈਸ਼ਲੈਸ ਸਿਹਤ ਬੀਮਾ"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "SECC/BPL families and Blue card holders in Punjab"
+    },
+    "officialUrl": "https://sha.punjab.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "pb-old-age-pension",
+    "name": {
+      "en": "Punjab Old Age Pension Scheme",
+      "pa": "ਪੰਜਾਬ ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਯੋਜਨਾ",
+      "hi": "पंजाब वृद्धावस्था पेंशन योजना"
+    },
+    "type": "state",
+    "state": "Punjab",
+    "category": "Pension",
+    "benefitAmountPerYear": 18000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,500/month pension for elderly aged 58+ from BPL families",
+      "pa": "BPL ਪਰਿਵਾਰਾਂ ਦੇ 58+ ਬਜ਼ੁਰਗਾਂ ਲਈ ₹1,500/ਮਹੀਨਾ ਪੈਨਸ਼ਨ"
+    },
+    "eligibility": {
+      "ageMin": 58,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "BPL/SECC listed; resident of Punjab"
+    },
+    "officialUrl": "https://punjab.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "pb-widow-pension",
+    "name": {
+      "en": "Punjab Widow Pension Scheme",
+      "pa": "ਪੰਜਾਬ ਵਿਧਵਾ ਪੈਨਸ਼ਨ ਯੋਜਨਾ",
+      "hi": "पंजाब विधवा पेंशन योजना"
+    },
+    "type": "state",
+    "state": "Punjab",
+    "category": "Pension",
+    "benefitAmountPerYear": 18000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,500/month pension for widows from BPL families",
+      "pa": "BPL ਪਰਿਵਾਰਾਂ ਦੀਆਂ ਵਿਧਵਾਵਾਂ ਲਈ ₹1,500/ਮਹੀਨਾ ਪੈਨਸ਼ਨ"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Widow; BPL family; resident of Punjab"
+    },
+    "officialUrl": "https://punjab.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "hr-lado-lakshmi",
+    "name": {
+      "en": "Deen Dayal Lado Lakshmi Yojana",
+      "hi": "दीन दयाल लाडो लक्ष्मी योजना"
+    },
+    "type": "state",
+    "state": "Haryana",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 25200,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹2,100/month financial assistance to women aged 23+ from eligible families",
+      "hi": "पात्र परिवारों की 23+ महिलाओं को ₹2,100/माह आर्थिक सहायता"
+    },
+    "eligibility": {
+      "ageMin": 23,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Women aged 23+ registered on Parivar Pehchan Patra; launched September 2025"
+    },
+    "officialUrl": "https://www.haryana.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "hr-old-age-samman",
+    "name": {
+      "en": "Old Age Samman Allowance",
+      "hi": "वृद्धावस्था सम्मान भत्ता"
+    },
+    "type": "state",
+    "state": "Haryana",
+    "category": "Pension",
+    "benefitAmountPerYear": 38400,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹3,000-₹3,200/month pension for senior citizens aged 60+",
+      "hi": "60+ वरिष्ठ नागरिकों को ₹3,000-₹3,200/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": 200000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Domicile of Haryana; combined income with spouse below ₹2 lakh/year"
+    },
+    "officialUrl": "https://socialjusticehry.gov.in/old-age-samman-allowance-scheme/",
+    "guideSlug": null
+  },
+  {
+    "id": "hr-ladli",
+    "name": {
+      "en": "Ladli Scheme (Haryana)",
+      "hi": "लाडली योजना (हरियाणा)"
+    },
+    "type": "state",
+    "state": "Haryana",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 5000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹5,000/year deposited in Kisan Vikas Patra for second girl child till she turns 18",
+      "hi": "दूसरी बेटी के लिए 18 वर्ष तक ₹5,000/वर्ष किसान विकास पत्र में जमा"
+    },
+    "eligibility": {
+      "ageMin": 0,
+      "ageMax": 18,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Second girl child born on or after 20-Aug-2005; parents domiciled in Haryana"
+    },
+    "officialUrl": "https://wcdhry.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "hr-chirayu",
+    "name": {
+      "en": "Chirayu Haryana Yojana",
+      "hi": "चिरायु हरियाणा योजना"
+    },
+    "type": "state",
+    "state": "Haryana",
+    "category": "Health",
+    "benefitAmountPerYear": null,
+    "benefitType": "insurance",
+    "benefitDescription": {
+      "en": "Cashless health insurance up to ₹10 lakh/family/year at empanelled hospitals",
+      "hi": "सूचीबद्ध अस्पतालों में ₹10 लाख/परिवार/वर्ष तक कैशलेस स्वास्थ्य बीमा"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "All Haryana families with Parivar Pehchan Patra not covered under Ayushman Bharat"
+    },
+    "officialUrl": "https://chirayu.haryana.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "hr-vivah-shagun",
+    "name": {
+      "en": "Vivah Shagun Yojana",
+      "hi": "विवाह शगुन योजना"
+    },
+    "type": "state",
+    "state": "Haryana",
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹51,000 financial assistance for marriage of daughters from BPL/SC/widow families",
+      "hi": "BPL/SC/विधवा परिवारों की बेटियों के विवाह पर ₹51,000 आर्थिक सहायता"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": 180000,
+      "categories": ["SC", "OBC", "EWS"],
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "BPL families, widows, destitute women; income below ₹1.8 lakh/year"
+    },
+    "officialUrl": "https://haryanascbc.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "hp-ig-pyari-behna",
+    "name": {
+      "en": "Indira Gandhi Pyari Behna Sukh Samman Nidhi Yojana",
+      "hi": "इंदिरा गांधी प्यारी बहना सुख सम्मान निधि योजना"
+    },
+    "type": "state",
+    "state": "Himachal Pradesh",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 18000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,500/month financial assistance to women aged 18-59 years",
+      "hi": "18-59 वर्ष की महिलाओं को ₹1,500/माह आर्थिक सहायता"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 59,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Permanent resident of Himachal Pradesh; not a government employee or pensioner"
+    },
+    "officialUrl": "https://www.myscheme.gov.in/schemes/igpbssny",
+    "guideSlug": null
+  },
+  {
+    "id": "hp-him-care",
+    "name": {
+      "en": "Him Care Health Scheme",
+      "hi": "हिम केयर स्वास्थ्य योजना"
+    },
+    "type": "state",
+    "state": "Himachal Pradesh",
+    "category": "Health",
+    "benefitAmountPerYear": null,
+    "benefitType": "insurance",
+    "benefitDescription": {
+      "en": "Cashless health insurance up to ₹5 lakh/family/year at empanelled hospitals",
+      "hi": "सूचीबद्ध अस्पतालों में ₹5 लाख/परिवार/वर्ष कैशलेस स्वास्थ्य बीमा"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "HP residents not covered under Ayushman Bharat; ration card holders; registration with ₹1,000/year"
+    },
+    "officialUrl": "https://himcare.hp.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "hp-medha-protsahan",
+    "name": {
+      "en": "Medha Protsahan Yojana",
+      "hi": "मेधा प्रोत्साहन योजना"
+    },
+    "type": "state",
+    "state": "Himachal Pradesh",
+    "category": "Education",
+    "benefitAmountPerYear": 100000,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "Up to ₹1,00,000 coaching assistance for competitive exam preparation (UPSC, SSC, etc.)",
+      "hi": "प्रतियोगी परीक्षा (UPSC, SSC आदि) की तैयारी के लिए ₹1,00,000 तक कोचिंग सहायता"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": 275000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "HP domicile; family income below ₹2.75 lakh/year; SC/ST/OBC/IRDP/BPL"
+    },
+    "officialUrl": "https://hp.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "hp-old-age-pension",
+    "name": {
+      "en": "Himachal Pradesh Old Age Pension",
+      "hi": "हिमाचल प्रदेश वृद्धावस्था पेंशन"
+    },
+    "type": "state",
+    "state": "Himachal Pradesh",
+    "category": "Pension",
+    "benefitAmountPerYear": 18000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,500/month pension for elderly aged 60+ from BPL families",
+      "hi": "BPL परिवारों के 60+ वृद्धों को ₹1,500/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "BPL family; resident of Himachal Pradesh"
+    },
+    "officialUrl": "https://hp.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "uk-gaura-devi-kanya-dhan",
+    "name": {
+      "en": "Nanda Gaura (Gaura Devi Kanya Dhan) Yojana",
+      "hi": "नंदा गौरा (गौरा देवी कन्या धन) योजना"
+    },
+    "type": "state",
+    "state": "Uttarakhand",
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "milestone",
+    "benefitDescription": {
+      "en": "₹11,000 at birth of girl child + ₹51,000 on passing Class 12 — total up to ₹86,000",
+      "hi": "बेटी के जन्म पर ₹11,000 + कक्षा 12 पास करने पर ₹51,000 — कुल ₹86,000 तक"
+    },
+    "eligibility": {
+      "ageMin": 0,
+      "ageMax": 20,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": "rural",
+      "additionalCriteria": "BPL family domiciled in Uttarakhand; girl must study in government/aided school"
+    },
+    "officialUrl": "https://www.nandagaurauk.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "uk-vatsalya",
+    "name": {
+      "en": "Mukhyamantri Vatsalya Yojana",
+      "hi": "मुख्यमंत्री वात्सल्य योजना"
+    },
+    "type": "state",
+    "state": "Uttarakhand",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 36000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹3,000/month allowance for children orphaned due to COVID-19 or other causes; support till age 21",
+      "hi": "COVID-19 या अन्य कारणों से अनाथ बच्चों को 21 वर्ष तक ₹3,000/माह भत्ता"
+    },
+    "eligibility": {
+      "ageMin": 0,
+      "ageMax": 21,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Children who lost parent(s); domiciled in Uttarakhand"
+    },
+    "officialUrl": "https://uk.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "uk-atal-ayushman",
+    "name": {
+      "en": "Atal Ayushman Uttarakhand Yojana",
+      "hi": "अटल आयुष्मान उत्तराखंड योजना"
+    },
+    "type": "state",
+    "state": "Uttarakhand",
+    "category": "Health",
+    "benefitAmountPerYear": null,
+    "benefitType": "insurance",
+    "benefitDescription": {
+      "en": "Cashless health insurance up to ₹5 lakh/family/year for all Uttarakhand families",
+      "hi": "सभी उत्तराखंड परिवारों को ₹5 लाख/परिवार/वर्ष कैशलेस स्वास्थ्य बीमा"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "All families of Uttarakhand with ration card"
+    },
+    "officialUrl": "https://ayushmanuttarakhand.uk.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "uk-old-age-pension",
+    "name": {
+      "en": "Uttarakhand Old Age Pension",
+      "hi": "उत्तराखंड वृद्धावस्था पेंशन"
+    },
+    "type": "state",
+    "state": "Uttarakhand",
+    "category": "Pension",
+    "benefitAmountPerYear": 14400,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,200/month pension for elderly aged 60+ from BPL families",
+      "hi": "BPL परिवारों के 60+ वृद्धों को ₹1,200/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "BPL/SECC listed; resident of Uttarakhand"
+    },
+    "officialUrl": "https://ssp.uk.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "dl-mahila-samriddhi",
+    "name": {
+      "en": "Mukhyamantri Mahila Samriddhi Yojana",
+      "hi": "मुख्यमंत्री महिला समृद्धि योजना"
+    },
+    "type": "state",
+    "state": "Delhi",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 30000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹2,500/month financial assistance to women residents of Delhi (launched March 2025 by BJP govt)",
+      "hi": "दिल्ली की महिला निवासियों को ₹2,500/माह आर्थिक सहायता (मार्च 2025 में BJP सरकार द्वारा शुरू)"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": 300000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Woman resident of Delhi; family income below ₹3 lakh; not receiving other social security pension"
+    },
+    "officialUrl": "https://delhi.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "dl-old-age-pension",
+    "name": {
+      "en": "Delhi Old Age Pension Scheme",
+      "hi": "दिल्ली वृद्धावस्था पेंशन योजना"
+    },
+    "type": "state",
+    "state": "Delhi",
+    "category": "Pension",
+    "benefitAmountPerYear": 24000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹2,000-₹2,500/month pension for elderly aged 60+",
+      "hi": "60+ वृद्धों को ₹2,000-₹2,500/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": 100000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Resident of Delhi for 5+ years; ₹2,000 for 60-69, ₹2,500 for 70+"
+    },
+    "officialUrl": "https://edistrict.delhigovt.nic.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "dl-free-bus-women",
+    "name": {
+      "en": "Delhi Free Bus Ride for Women",
+      "hi": "दिल्ली महिलाओं के लिए मुफ्त बस सेवा"
+    },
+    "type": "state",
+    "state": "Delhi",
+    "category": "Transport",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Free travel for women in DTC and cluster buses across Delhi",
+      "hi": "दिल्ली में DTC और क्लस्टर बसों में महिलाओं के लिए मुफ्त यात्रा"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "All women passengers in DTC/cluster buses; no registration needed"
+    },
+    "officialUrl": "https://delhi.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "dl-free-ration",
+    "name": {
+      "en": "Delhi Free Ration Scheme",
+      "hi": "दिल्ली मुफ्त राशन योजना"
+    },
+    "type": "state",
+    "state": "Delhi",
+    "category": "Food Security",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Free monthly ration (wheat, rice, sugar, dal) to ration card holders",
+      "hi": "राशन कार्ड धारकों को मुफ्त मासिक राशन (गेहूं, चावल, चीनी, दाल)"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "NFSA/PDS ration card holders in Delhi"
+    },
+    "officialUrl": "https://nfs.delhi.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "dl-widow-pension",
+    "name": {
+      "en": "Delhi Widow Pension Scheme",
+      "hi": "दिल्ली विधवा पेंशन योजना"
+    },
+    "type": "state",
+    "state": "Delhi",
+    "category": "Pension",
+    "benefitAmountPerYear": 30000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹2,500/month pension for widows aged 18+",
+      "hi": "18+ विधवा महिलाओं को ₹2,500/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": 100000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Widow; resident of Delhi for 5+ years; income below ₹1 lakh/year"
+    },
+    "officialUrl": "https://edistrict.delhigovt.nic.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "ga-dayanand-social-security",
+    "name": {
+      "en": "Dayanand Social Security Scheme",
+      "hi": "दयानंद सामाजिक सुरक्षा योजना"
+    },
+    "type": "state",
+    "state": "Goa",
+    "category": "Pension",
+    "benefitAmountPerYear": 30000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹2,500/month pension for senior citizens (60+), persons with disabilities, single women, and HIV/AIDS patients",
+      "hi": "वरिष्ठ नागरिकों (60+), विकलांगों, एकल महिलाओं, HIV/AIDS रोगियों को ₹2,500/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Goa resident 15+ years; senior citizens 60+, or disabled 40%+, or single women, or HIV/AIDS patients"
+    },
+    "officialUrl": "https://socialwelfare.goa.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "ga-griha-aadhar",
+    "name": {
+      "en": "Griha Aadhar Scheme",
+      "hi": "गृह आधार योजना"
+    },
+    "type": "state",
+    "state": "Goa",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 18000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,500/month financial assistance to homemakers/housewives",
+      "hi": "गृहिणियों को ₹1,500/माह आर्थिक सहायता"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": 300000,
+      "categories": null,
+      "occupation": "homemaker",
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Goa resident; homemaker; family income below ₹3 lakh/year"
+    },
+    "officialUrl": "https://www.goa.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "ga-laadli-laxmi",
+    "name": {
+      "en": "Laadli Laxmi Yojana (Goa)",
+      "hi": "लाडली लक्ष्मी योजना (गोवा)"
+    },
+    "type": "state",
+    "state": "Goa",
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "milestone",
+    "benefitDescription": {
+      "en": "₹1,00,000 to girl child at age 18 if she completes education; installments during schooling",
+      "hi": "शिक्षा पूरी करने पर 18 वर्ष की आयु में बेटी को ₹1,00,000; स्कूल के दौरान किस्तें"
+    },
+    "eligibility": {
+      "ageMin": 0,
+      "ageMax": 18,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Girl child born in Goa; must be enrolled in school"
+    },
+    "officialUrl": "https://www.goa.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "jk-sehat",
+    "name": {
+      "en": "Ayushman Bharat PM-JAY SEHAT Scheme",
+      "hi": "आयुष्मान भारत PM-JAY सेहत योजना",
+      "ur": "آیوشمان بھارت سیہت اسکیم"
+    },
+    "type": "state",
+    "state": "Jammu & Kashmir",
+    "category": "Health",
+    "benefitAmountPerYear": null,
+    "benefitType": "insurance",
+    "benefitDescription": {
+      "en": "Cashless health insurance up to ₹5 lakh/family/year for all J&K residents — universal coverage",
+      "hi": "सभी J&K निवासियों को ₹5 लाख/परिवार/वर्ष कैशलेस स्वास्थ्य बीमा — सार्वभौमिक कवरेज"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "All residents of J&K with golden card; universal coverage"
+    },
+    "officialUrl": "https://sha.jk.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "jk-mumkin",
+    "name": {
+      "en": "Mumkin Scheme (J&K)",
+      "hi": "मुमकिन योजना (जम्मू-कश्मीर)",
+      "ur": "ممکن اسکیم"
+    },
+    "type": "state",
+    "state": "Jammu & Kashmir",
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "Subsidy of ₹80,000 on purchase of small commercial vehicle for self-employment of youth",
+      "hi": "युवाओं के स्वरोजगार हेतु छोटे वाणिज्यिक वाहन की खरीद पर ₹80,000 सब्सिडी"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 35,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": "unemployed",
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Unemployed youth of J&K aged 18-35; must have valid driving license"
+    },
+    "officialUrl": "https://jakemp.nic.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "jk-old-age-pension",
+    "name": {
+      "en": "J&K Old Age Pension Scheme",
+      "hi": "जम्मू-कश्मीर वृद्धावस्था पेंशन योजना",
+      "ur": "جموں و کشمیر بڑھاپا پینشن اسکیم"
+    },
+    "type": "state",
+    "state": "Jammu & Kashmir",
+    "category": "Pension",
+    "benefitAmountPerYear": 12000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,000/month pension for elderly aged 60+",
+      "hi": "60+ वृद्धों को ₹1,000/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "BPL resident of J&K"
+    },
+    "officialUrl": "https://jkdswdj.jk.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "as-orunodoi",
+    "name": {
+      "en": "Orunodoi (Arunodoi) Scheme",
+      "as": "অৰুণোদই আঁচনি",
+      "hi": "ओरुनोदोई योजना"
+    },
+    "type": "state",
+    "state": "Assam",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 15000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,250/month DBT to women from economically weaker families (27+ lakh beneficiaries)",
+      "as": "আৰ্থিকভাৱে দুৰ্বল পৰিয়ালৰ মহিলাসকললৈ ₹১,২৫০/মাহ DBT"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": 200000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Women from families with income below ₹2 lakh/year; must have bank account linked to Aadhaar"
+    },
+    "officialUrl": "https://orunodoi.assam.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "as-pragyan-bharati",
+    "name": {
+      "en": "Pragyan Bharati Scheme",
+      "as": "প্ৰজ্ঞান ভাৰতী আঁচনি",
+      "hi": "प्रज्ञान भारती योजना"
+    },
+    "type": "state",
+    "state": "Assam",
+    "category": "Education",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "Scooter/e-scooter or ₹50,000 cash for meritorious students scoring 1st Division in HS/HSLC exams",
+      "as": "HS/HSLC পৰীক্ষাত প্ৰথম বিভাগ পোৱা মেধাৱী ছাত্ৰ-ছাত্ৰীক স্কুটাৰ বা ₹৫০,০০০"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Students scoring 1st Division in HSLC/HS from Assam state board"
+    },
+    "officialUrl": "https://assam.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "as-arundhati",
+    "name": {
+      "en": "Arundhati Gold Scheme",
+      "as": "অৰুন্ধতী সোণৰ আঁচনি",
+      "hi": "अरुंधती स्वर्ण योजना"
+    },
+    "type": "state",
+    "state": "Assam",
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "10 grams gold (1 tola) worth ~₹38,000 to brides at registered marriages",
+      "as": "পঞ্জীভুক্ত বিবাহত কইনাক ১০ গ্ৰাম সোণ"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": 500000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Bride must be 18+; marriage must be registered under Special Marriage Act; family income below ₹5 lakh"
+    },
+    "officialUrl": "https://assam.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "as-old-age-pension",
+    "name": {
+      "en": "Assam Old Age Pension",
+      "as": "অসম বাৰ্ধক্য পেঞ্চন",
+      "hi": "असम वृद्धावस्था पेंशन"
+    },
+    "type": "state",
+    "state": "Assam",
+    "category": "Pension",
+    "benefitAmountPerYear": 12000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,000/month pension for elderly aged 60+ from BPL families",
+      "as": "BPL পৰিয়ালৰ ৬০+ বৃদ্ধসকলক ₹১,০০০/মাহ পেঞ্চন"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "BPL/SECC listed; resident of Assam"
+    },
+    "officialUrl": "https://assam.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "sk-one-family-one-job",
+    "name": {
+      "en": "One Family One Job Scheme",
+      "hi": "वन फैमिली वन जॉब योजना"
+    },
+    "type": "state",
+    "state": "Sikkim",
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Government job for one member of every family without a government employee",
+      "hi": "हर उस परिवार के एक सदस्य को सरकारी नौकरी जिसमें कोई सरकारी कर्मचारी नहीं"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Family with no existing government employee; resident of Sikkim"
+    },
+    "officialUrl": "https://sikkim.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "sk-old-age-pension",
+    "name": {
+      "en": "Sikkim Old Age Pension Scheme",
+      "hi": "सिक्किम वृद्धावस्था पेंशन योजना"
+    },
+    "type": "state",
+    "state": "Sikkim",
+    "category": "Pension",
+    "benefitAmountPerYear": 12000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,000/month pension for elderly aged 60+ from BPL families",
+      "hi": "BPL परिवारों के 60+ वृद्धों को ₹1,000/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "BPL family; resident of Sikkim"
+    },
+    "officialUrl": "https://pensionscheme.sikkim.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "sk-widow-pension",
+    "name": {
+      "en": "Sikkim Widow Pension Scheme",
+      "hi": "सिक्किम विधवा पेंशन योजना"
+    },
+    "type": "state",
+    "state": "Sikkim",
+    "category": "Pension",
+    "benefitAmountPerYear": 12000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹1,000/month pension for widows",
+      "hi": "विधवाओं को ₹1,000/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Widow; BPL; resident of Sikkim"
+    },
+    "officialUrl": "https://pensionscheme.sikkim.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "tr-old-age-pension",
+    "name": {
+      "en": "Tripura Old Age Pension Scheme",
+      "bn": "ত্রিপুরা বৃদ্ধ বয়স পেনশন যোজনা",
+      "hi": "त्रिपुरा वृद्धावस्था पेंशन योजना"
+    },
+    "type": "state",
+    "state": "Tripura",
+    "category": "Pension",
+    "benefitAmountPerYear": 8400,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹700/month state pension for elderly aged 60+ from BPL families",
+      "bn": "BPL পরিবারের ৬০+ বৃদ্ধদের ₹৭০০/মাস রাজ্য পেনশন"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "BPL family; resident of Tripura"
+    },
+    "officialUrl": "https://socialwelfare.tripura.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "tr-widow-pension",
+    "name": {
+      "en": "Tripura Widow Pension Scheme",
+      "bn": "ত্রিপুরা বিধবা পেনশন যোজনা",
+      "hi": "त्रिपुरा विधवा पेंशन योजना"
+    },
+    "type": "state",
+    "state": "Tripura",
+    "category": "Pension",
+    "benefitAmountPerYear": 8400,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹700/month pension for widows from BPL families",
+      "bn": "BPL পরিবারের বিধবাদের ₹৭০০/মাস পেনশন"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Widow; BPL; resident of Tripura"
+    },
+    "officialUrl": "https://socialwelfare.tripura.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "tr-girl-child-incentive",
+    "name": {
+      "en": "Tripura Girl Child Incentive Scheme",
+      "bn": "ত্রিপুরা কন্যা শিশু প্রণোদনা যোজনা",
+      "hi": "त्रिपुरा बालिका प्रोत्साहन योजना"
+    },
+    "type": "state",
+    "state": "Tripura",
+    "category": "Women & Child",
+    "benefitAmountPerYear": 6000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹500/month incentive for girl children from BPL families",
+      "bn": "BPL পরিবারের কন্যা শিশুদের ₹৫০০/মাস প্রণোদনা"
+    },
+    "eligibility": {
+      "ageMin": 0,
+      "ageMax": 18,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Girl child from BPL family in Tripura"
+    },
+    "officialUrl": "https://socialwelfare.tripura.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "ml-focus-plus",
+    "name": {
+      "en": "Focus+ Scheme (Meghalaya)",
+      "hi": "फोकस+ योजना (मेघालय)"
+    },
+    "type": "state",
+    "state": "Meghalaya",
+    "category": "Social Welfare",
+    "benefitAmountPerYear": 5000,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹5,000 one-time financial assistance per household",
+      "hi": "प्रति परिवार ₹5,000 एकमुश्त आर्थिक सहायता"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "All households of Meghalaya"
+    },
+    "officialUrl": "https://meghalaya.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "ml-cm-scholarship",
+    "name": {
+      "en": "Chief Minister's Scholarship Scheme (Meghalaya)",
+      "hi": "मुख्यमंत्री छात्रवृत्ति योजना (मेघालय)"
+    },
+    "type": "state",
+    "state": "Meghalaya",
+    "category": "Education",
+    "benefitAmountPerYear": 6000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹6,000 annual scholarship for meritorious students",
+      "hi": "मेधावी छात्रों को ₹6,000 वार्षिक छात्रवृत्ति"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Meritorious students of Meghalaya"
+    },
+    "officialUrl": "https://meghalaya.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "ml-disability-pension",
+    "name": {
+      "en": "CM's Disability Pension Scheme (Meghalaya)",
+      "hi": "मुख्यमंत्री विकलांगता पेंशन योजना (मेघालय)"
+    },
+    "type": "state",
+    "state": "Meghalaya",
+    "category": "Pension",
+    "benefitAmountPerYear": 6000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹500/month pension for persons with disabilities",
+      "hi": "विकलांग व्यक्तियों को ₹500/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Person with disability certificate from competent authority; resident of Meghalaya"
+    },
+    "officialUrl": "https://megscpwd.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "mn-cmst",
+    "name": {
+      "en": "Chief Ministergi Shotharabasingi Tengbang (CMST)",
+      "hi": "मुख्यमंत्री शोथराबासिंगी तेंगबांग (CMST)"
+    },
+    "type": "state",
+    "state": "Manipur",
+    "category": "Social Welfare",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Social welfare support for elderly, widows, and persons with disabilities through multiple sub-schemes",
+      "hi": "विभिन्न उप-योजनाओं के माध्यम से वृद्धों, विधवाओं और विकलांगों को सामाजिक कल्याण सहायता"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Elderly, widows, disabled; resident of Manipur"
+    },
+    "officialUrl": "https://socialwelfare.mn.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "mn-widow-pension",
+    "name": {
+      "en": "Chief Minister Widow Pension Scheme (Manipur)",
+      "hi": "मुख्यमंत्री विधवा पेंशन योजना (मणिपुर)"
+    },
+    "type": "state",
+    "state": "Manipur",
+    "category": "Pension",
+    "benefitAmountPerYear": 6000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹500/month pension for widows",
+      "hi": "विधवाओं को ₹500/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Widow; BPL; resident of Manipur"
+    },
+    "officialUrl": "https://socialwelfare.mn.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "mn-old-age-pension",
+    "name": {
+      "en": "Manipur Old Age Pension Scheme",
+      "hi": "मणिपुर वृद्धावस्था पेंशन योजना"
+    },
+    "type": "state",
+    "state": "Manipur",
+    "category": "Pension",
+    "benefitAmountPerYear": 6000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹500/month pension for elderly aged 60+",
+      "hi": "60+ वृद्धों को ₹500/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "BPL; resident of Manipur"
+    },
+    "officialUrl": "https://socialwelfare.mn.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "mz-old-age-pension",
+    "name": {
+      "en": "Mizoram Old Age Pension Scheme",
+      "hi": "मिजोरम वृद्धावस्था पेंशन योजना"
+    },
+    "type": "state",
+    "state": "Mizoram",
+    "category": "Pension",
+    "benefitAmountPerYear": 6000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹500/month pension for elderly aged 60+ from BPL families",
+      "hi": "BPL परिवारों के 60+ वृद्धों को ₹500/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "BPL; resident of Mizoram"
+    },
+    "officialUrl": "https://socialwelfare.mizoram.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "mz-widow-pension",
+    "name": {
+      "en": "Mizoram Widow Pension Scheme",
+      "hi": "मिजोरम विधवा पेंशन योजना"
+    },
+    "type": "state",
+    "state": "Mizoram",
+    "category": "Pension",
+    "benefitAmountPerYear": 6000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹500/month pension for widows",
+      "hi": "विधवाओं को ₹500/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Widow; BPL; resident of Mizoram"
+    },
+    "officialUrl": "https://socialwelfare.mizoram.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "nl-old-age-pension",
+    "name": {
+      "en": "Nagaland Old Age Pension Scheme",
+      "hi": "नागालैंड वृद्धावस्था पेंशन योजना"
+    },
+    "type": "state",
+    "state": "Nagaland",
+    "category": "Pension",
+    "benefitAmountPerYear": 6000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹500/month pension for elderly aged 60+ from BPL families",
+      "hi": "BPL परिवारों के 60+ वृद्धों को ₹500/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "BPL; resident of Nagaland"
+    },
+    "officialUrl": "https://socialwelfare.nagaland.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "nl-widow-pension",
+    "name": {
+      "en": "Nagaland Widow Pension Scheme",
+      "hi": "नागालैंड विधवा पेंशन योजना"
+    },
+    "type": "state",
+    "state": "Nagaland",
+    "category": "Pension",
+    "benefitAmountPerYear": 6000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹500/month pension for widows",
+      "hi": "विधवाओं को ₹500/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Widow; BPL; resident of Nagaland"
+    },
+    "officialUrl": "https://socialwelfare.nagaland.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "ar-dulari-kanya",
+    "name": {
+      "en": "Dulari Kanya Yojana",
+      "hi": "दुलारी कन्या योजना"
+    },
+    "type": "state",
+    "state": "Arunachal Pradesh",
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹20,000 fixed deposit for girl child born in government hospital; maturity at age 18",
+      "hi": "सरकारी अस्पताल में जन्मी बालिका के लिए ₹20,000 सावधि जमा; 18 वर्ष पर परिपक्वता"
+    },
+    "eligibility": {
+      "ageMin": 0,
+      "ageMax": 0,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Girl child born in government health facility in Arunachal Pradesh"
+    },
+    "officialUrl": "https://health.arunachal.gov.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "ar-ddu-swavalamban",
+    "name": {
+      "en": "Deen Dayal Upadhyaya Swavalamban Yojana",
+      "hi": "दीन दयाल उपाध्याय स्वावलंबन योजना"
+    },
+    "type": "state",
+    "state": "Arunachal Pradesh",
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "Subsidy on startup loans for unemployed youth to set up enterprises",
+      "hi": "बेरोज़गार युवाओं को उद्यम स्थापित करने के लिए स्टार्टअप ऋण पर सब्सिडी"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 45,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": "unemployed",
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Unemployed youth of Arunachal Pradesh; must have viable business plan"
+    },
+    "officialUrl": "https://ddusyarunachal.in/",
+    "guideSlug": null
+  },
+  {
+    "id": "ar-old-age-pension",
+    "name": {
+      "en": "Arunachal Pradesh Old Age Pension",
+      "hi": "अरुणाचल प्रदेश वृद्धावस्था पेंशन"
+    },
+    "type": "state",
+    "state": "Arunachal Pradesh",
+    "category": "Pension",
+    "benefitAmountPerYear": 6000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹500/month pension for elderly aged 60+ from BPL families",
+      "hi": "BPL परिवारों के 60+ वृद्धों को ₹500/माह पेंशन"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "BPL; resident of Arunachal Pradesh"
+    },
+    "officialUrl": "https://arunachal.gov.in/",
+    "guideSlug": null
+  }
+]

@@ -1,0 +1,1380 @@
+[
+  {
+    "id": "pm-kisan",
+    "name": { "en": "PM Kisan Samman Nidhi", "hi": "पीएम किसान सम्मान निधि" },
+    "type": "central",
+    "state": null,
+    "category": "Agriculture",
+    "benefitAmountPerYear": 6000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹6,000/year in 3 instalments of ₹2,000 each",
+      "hi": "₹6,000/वर्ष 3 किस्तों में ₹2,000 प्रत्येक"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": ["farmer"],
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must own cultivable land. Institutional landholders, income tax payers, and government employees are excluded."
+    },
+    "officialUrl": "https://pmkisan.gov.in",
+    "guideSlug": "pm-kisan-samman-nidhi"
+  },
+  {
+    "id": "pm-fasal-bima",
+    "name": { "en": "Pradhan Mantri Fasal Bima Yojana", "hi": "प्रधानमंत्री फसल बीमा योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Agriculture",
+    "benefitAmountPerYear": null,
+    "benefitType": "insurance",
+    "benefitDescription": {
+      "en": "Crop insurance at subsidised premium: 2% for Kharif, 1.5% for Rabi, 5% for commercial/horticulture crops. Full sum insured on crop loss.",
+      "hi": "फसल बीमा: खरीफ 2%, रबी 1.5%, वाणिज्यिक 5% प्रीमियम पर। फसल नुकसान पर पूरी बीमा राशि।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": ["farmer"],
+      "bpl": null,
+      "urbanRural": "rural",
+      "additionalCriteria": "All farmers including sharecroppers and tenant farmers growing notified crops. Voluntary for all farmers."
+    },
+    "officialUrl": "https://pmfby.gov.in",
+    "guideSlug": "pm-fasal-bima-yojana"
+  },
+  {
+    "id": "kisan-credit-card",
+    "name": { "en": "Kisan Credit Card", "hi": "किसान क्रेडिट कार्ड" },
+    "type": "central",
+    "state": null,
+    "category": "Agriculture",
+    "benefitAmountPerYear": null,
+    "benefitType": "loan",
+    "benefitDescription": {
+      "en": "Short-term crop loans up to ₹3 lakh at 7% interest (effective 4% with prompt repayment subvention). Collateral-free up to ₹1.6 lakh.",
+      "hi": "₹3 लाख तक फसल ऋण 7% ब्याज पर (समय पर भुगतान पर 4%)। ₹1.6 लाख तक बिना गारंटी।"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 75,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": ["farmer"],
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Farmers, fishermen, animal husbandry and dairy farmers. Also available through PM Matsya Sampada for fisheries."
+    },
+    "officialUrl": "https://pmkisan.gov.in/KCC.aspx",
+    "guideSlug": "kisan-credit-card"
+  },
+  {
+    "id": "soil-health-card",
+    "name": { "en": "Soil Health Card Scheme", "hi": "मृदा स्वास्थ्य कार्ड योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Agriculture",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "Free soil testing and health card with crop-wise fertiliser recommendations. Now merged under RKVY as 'Soil Health & Fertility' component.",
+      "hi": "मुफ्त मिट्टी परीक्षण और फसलवार उर्वरक सिफारिशों के साथ स्वास्थ्य कार्ड।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": ["farmer"],
+      "bpl": null,
+      "urbanRural": "rural",
+      "additionalCriteria": "All farmers can get soil tested free of charge"
+    },
+    "officialUrl": "https://soilhealth.dac.gov.in",
+    "guideSlug": "soil-health-card"
+  },
+  {
+    "id": "pm-krishi-sinchai-yojana",
+    "name": { "en": "PM Krishi Sinchai Yojana", "hi": "प्रधानमंत्री कृषि सिंचाई योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Agriculture",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "Subsidy on micro-irrigation (drip/sprinkler): 55% for small/marginal farmers, 45% for others. 'Per Drop More Crop' initiative.",
+      "hi": "सूक्ष्म सिंचाई (ड्रिप/स्प्रिंकलर) पर सब्सिडी: छोटे किसानों को 55%, अन्य को 45%।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": ["farmer"],
+      "bpl": null,
+      "urbanRural": "rural",
+      "additionalCriteria": "All farmers with own or leased land. Priority to small and marginal farmers."
+    },
+    "officialUrl": "https://pmksy.gov.in",
+    "guideSlug": "pm-krishi-sinchai-yojana"
+  },
+  {
+    "id": "pm-kusum",
+    "name": { "en": "PM KUSUM (Solar Energy for Farmers)", "hi": "पीएम कुसुम (किसानों के लिए सौर ऊर्जा)" },
+    "type": "central",
+    "state": null,
+    "category": "Agriculture",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "60% subsidy (30% central + 30% state) on solar pumps and grid-connected solar power plants for farmers. Extended till March 2026.",
+      "hi": "सौर पंप और सौर ऊर्जा संयंत्रों पर 60% सब्सिडी (30% केंद्र + 30% राज्य)।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": ["farmer"],
+      "bpl": null,
+      "urbanRural": "rural",
+      "additionalCriteria": "Farmers, water user associations, farmer producer organisations"
+    },
+    "officialUrl": "https://mnre.gov.in/en/pradhan-mantri-kisan-urja-suraksha-evam-utthaan-mahabhiyaan-pm-kusum/",
+    "guideSlug": "pm-kusum-solar-scheme"
+  },
+  {
+    "id": "pm-awas-yojana-gramin",
+    "name": { "en": "PM Awas Yojana - Gramin (PMAY-G)", "hi": "प्रधानमंत्री आवास योजना - ग्रामीण" },
+    "type": "central",
+    "state": null,
+    "category": "Housing",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹1.20 lakh (plains) / ₹1.30 lakh (hilly/difficult areas) for construction of pucca house with basic amenities.",
+      "hi": "₹1.20 लाख (मैदान) / ₹1.30 लाख (पहाड़ी क्षेत्र) पक्के मकान निर्माण हेतु।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": ["SC", "ST", "OBC", "General"],
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": "rural",
+      "additionalCriteria": "Houseless or living in kutcha/dilapidated house. Selected from SECC 2011 data."
+    },
+    "officialUrl": "https://pmayg.nic.in",
+    "guideSlug": "pm-awas-yojana-gramin"
+  },
+  {
+    "id": "pm-awas-yojana-urban",
+    "name": { "en": "PM Awas Yojana - Urban 2.0 (PMAY-U)", "hi": "प्रधानमंत्री आवास योजना - शहरी 2.0" },
+    "type": "central",
+    "state": null,
+    "category": "Housing",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "4% interest subsidy on first ₹8 lakh of home loan for 12 years (up to ₹1.8 lakh subsidy). Max house value ₹35 lakh, max loan ₹25 lakh.",
+      "hi": "₹8 लाख होम लोन पर 4% ब्याज सब्सिडी 12 वर्षों के लिए (अधिकतम ₹1.8 लाख सब्सिडी)।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": 900000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": "urban",
+      "additionalCriteria": "EWS (income up to ₹3L), LIG (₹3-6L), MIG (₹6-9L). Must not own pucca house anywhere in India. House in female/joint name."
+    },
+    "officialUrl": "https://pmaymis.gov.in",
+    "guideSlug": "pm-awas-yojana-urban"
+  },
+  {
+    "id": "ayushman-bharat-pmjay",
+    "name": { "en": "Ayushman Bharat PM-JAY", "hi": "आयुष्मान भारत पीएम-जय" },
+    "type": "central",
+    "state": null,
+    "category": "Health",
+    "benefitAmountPerYear": 500000,
+    "benefitType": "insurance",
+    "benefitDescription": {
+      "en": "₹5 lakh per family per year for secondary and tertiary hospitalisation. Cashless treatment at empanelled hospitals. Senior citizens 70+ get additional ₹5 lakh top-up.",
+      "hi": "₹5 लाख प्रति परिवार प्रति वर्ष अस्पताल में भर्ती के लिए। 70+ वरिष्ठ नागरिकों को अतिरिक्त ₹5 लाख।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Bottom 40% poor and vulnerable families as per SECC 2011. ~12 crore families (~55 crore beneficiaries). All senior citizens 70+ regardless of income."
+    },
+    "officialUrl": "https://pmjay.gov.in",
+    "guideSlug": "ayushman-bharat-pmjay"
+  },
+  {
+    "id": "pm-suraksha-bima-yojana",
+    "name": { "en": "PM Suraksha Bima Yojana (PMSBY)", "hi": "प्रधानमंत्री सुरक्षा बीमा योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Insurance",
+    "benefitAmountPerYear": null,
+    "benefitType": "insurance",
+    "benefitDescription": {
+      "en": "Accidental death & disability insurance at ₹20/year premium. ₹2 lakh for death/total disability, ₹1 lakh for partial disability.",
+      "hi": "₹20/वर्ष प्रीमियम पर दुर्घटना बीमा। मृत्यु/पूर्ण विकलांगता पर ₹2 लाख, आंशिक विकलांगता पर ₹1 लाख।"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 70,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must have a bank account with Aadhaar linked. Annual auto-debit consent required."
+    },
+    "officialUrl": "https://financialservices.gov.in/insurance-divisions/Government-Sponsored-Socially-Oriented-Insurance-Schemes/Pradhan-Mantri-Suraksha-Bima-Yojana(PMSBY)",
+    "guideSlug": "pm-suraksha-bima-yojana"
+  },
+  {
+    "id": "pm-jeevan-jyoti-bima",
+    "name": { "en": "PM Jeevan Jyoti Bima Yojana (PMJJBY)", "hi": "प्रधानमंत्री जीवन ज्योति बीमा योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Insurance",
+    "benefitAmountPerYear": null,
+    "benefitType": "insurance",
+    "benefitDescription": {
+      "en": "Life insurance cover of ₹2 lakh at ₹436/year premium. Covers death due to any reason.",
+      "hi": "₹436/वर्ष प्रीमियम पर ₹2 लाख जीवन बीमा। किसी भी कारण से मृत्यु पर।"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 50,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Must have bank account with Aadhaar linked. Annual auto-debit consent. Cover continues till age 55."
+    },
+    "officialUrl": "https://financialservices.gov.in/insurance-divisions/Government-Sponsored-Socially-Oriented-Insurance-Schemes/Pradhan-Mantri-Jeevan-Jyoti-Bima-Yojana(PMJJBY)",
+    "guideSlug": "pm-jeevan-jyoti-bima-yojana"
+  },
+  {
+    "id": "pm-jan-aushadhi",
+    "name": { "en": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana", "hi": "प्रधानमंत्री भारतीय जनऔषधि परियोजना" },
+    "type": "central",
+    "state": null,
+    "category": "Health",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "Quality generic medicines at 50-80% cheaper than branded medicines through 17,990+ Jan Aushadhi Kendras. Target 25,000 by 2027.",
+      "hi": "17,990+ जनऔषधि केंद्रों पर ब्रांडेड दवाओं से 50-80% सस्ती गुणवत्तापूर्ण जेनेरिक दवाइयाँ।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Available to all citizens. No registration required."
+    },
+    "officialUrl": "https://janaushadhi.gov.in",
+    "guideSlug": "jan-aushadhi-pariyojana"
+  },
+  {
+    "id": "pm-matru-vandana",
+    "name": { "en": "PM Matru Vandana Yojana (PMMVY)", "hi": "प्रधानमंत्री मातृ वंदना योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹5,000 for first child (in 3 instalments) + ₹6,000 for second child if girl. Total up to ₹11,000.",
+      "hi": "पहले बच्चे पर ₹5,000 (3 किस्तों में) + दूसरी बालिका पर ₹6,000। कुल ₹11,000 तक।"
+    },
+    "eligibility": {
+      "ageMin": 19,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Pregnant and lactating mothers for first living child. Second instalment for girl child only."
+    },
+    "officialUrl": "https://pmmvy.wcd.gov.in",
+    "guideSlug": "pm-matru-vandana-yojana"
+  },
+  {
+    "id": "sukanya-samriddhi",
+    "name": { "en": "Sukanya Samriddhi Yojana", "hi": "सुकन्या समृद्धि योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Savings scheme for girl child with 8.2% p.a. interest (compounded annually). Min ₹250/year, max ₹1.5 lakh/year. Matures in 21 years. Tax-free under 80C.",
+      "hi": "बालिकाओं के लिए 8.2% वार्षिक ब्याज की बचत योजना। न्यूनतम ₹250/वर्ष, अधिकतम ₹1.5 लाख/वर्ष। 21 वर्ष में परिपक्वता।"
+    },
+    "eligibility": {
+      "ageMin": 0,
+      "ageMax": 10,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Girl child up to 10 years old. Max 2 accounts per family. Parent/guardian opens the account."
+    },
+    "officialUrl": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89",
+    "guideSlug": "sukanya-samriddhi-yojana"
+  },
+  {
+    "id": "beti-bachao-beti-padhao",
+    "name": { "en": "Beti Bachao Beti Padhao", "hi": "बेटी बचाओ बेटी पढ़ाओ" },
+    "type": "central",
+    "state": null,
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "Awareness campaign and multi-sectoral action to improve child sex ratio, girls' education and empowerment. No direct cash benefit.",
+      "hi": "बाल लिंगानुपात सुधार, बालिका शिक्षा और सशक्तिकरण हेतु जागरूकता अभियान। कोई प्रत्यक्ष नकद लाभ नहीं।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Nationwide awareness and enforcement programme. Benefits delivered through convergence with other schemes."
+    },
+    "officialUrl": "https://wcd.nic.in/bbbp-schemes",
+    "guideSlug": "beti-bachao-beti-padhao"
+  },
+  {
+    "id": "mgnrega",
+    "name": { "en": "MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act)", "hi": "मनरेगा (महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम)" },
+    "type": "central",
+    "state": null,
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "100 days guaranteed wage employment per year per rural household. Daily wage ₹267-₹370 (varies by state, revised April 2025).",
+      "hi": "प्रति ग्रामीण परिवार प्रति वर्ष 100 दिन रोजगार गारंटी। दैनिक मजदूरी ₹267-₹370 (राज्यानुसार)।"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": "rural",
+      "additionalCriteria": "Any adult member of a rural household willing to do unskilled manual work. Must have job card."
+    },
+    "officialUrl": "https://nrega.nic.in",
+    "guideSlug": "mgnrega"
+  },
+  {
+    "id": "pm-svanidhi",
+    "name": { "en": "PM SVANidhi (Street Vendors' AtmaNirbhar Nidhi)", "hi": "पीएम स्वनिधि (स्ट्रीट वेंडर्स आत्मनिर्भर निधि)" },
+    "type": "central",
+    "state": null,
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "loan",
+    "benefitDescription": {
+      "en": "Collateral-free working capital loans: ₹10,000 (1st), ₹20,000 (2nd), ₹50,000 (3rd tranche). 7% interest subsidy on timely repayment. Extended till 2027.",
+      "hi": "बिना गारंटी कार्यशील पूंजी ऋण: ₹10,000 (पहला), ₹20,000 (दूसरा), ₹50,000 (तीसरा)। समय पर भुगतान पर 7% ब्याज सब्सिडी।"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": ["street vendor"],
+      "bpl": null,
+      "urbanRural": "urban",
+      "additionalCriteria": "Street vendors with certificate of vending/ID issued by ULB or Letter of Recommendation."
+    },
+    "officialUrl": "https://pmsvanidhi.mohua.gov.in",
+    "guideSlug": "pm-svanidhi"
+  },
+  {
+    "id": "pm-vishwakarma",
+    "name": { "en": "PM Vishwakarma Yojana", "hi": "पीएम विश्वकर्मा योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "loan",
+    "benefitDescription": {
+      "en": "Skill training, toolkit incentive (₹15,000), and concessional loans: ₹1 lakh (Phase 1) + ₹2 lakh (Phase 2) at 5% interest. For 18 traditional trades/artisans.",
+      "hi": "कौशल प्रशिक्षण, टूलकिट (₹15,000), रियायती ऋण: ₹1 लाख + ₹2 लाख 5% ब्याज पर। 18 पारंपरिक व्यवसायों के लिए।"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": ["artisan", "craftsperson"],
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Self-employed artisans/craftspersons in 18 family-based traditional trades (carpenter, blacksmith, goldsmith, potter, cobbler, tailor, etc.)"
+    },
+    "officialUrl": "https://pmvishwakarma.gov.in",
+    "guideSlug": "pm-vishwakarma-yojana"
+  },
+  {
+    "id": "pm-mudra-yojana",
+    "name": { "en": "PM Mudra Yojana (PMMY)", "hi": "प्रधानमंत्री मुद्रा योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "loan",
+    "benefitDescription": {
+      "en": "Collateral-free business loans: Shishu (up to ₹50,000), Kishore (₹50,000-₹5 lakh), Tarun (₹5-10 lakh), Tarun Plus (₹10-20 lakh).",
+      "hi": "बिना गारंटी व्यापार ऋण: शिशु (₹50,000 तक), किशोर (₹50,000-₹5 लाख), तरुण (₹5-10 लाख), तरुण प्लस (₹10-20 लाख)।"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": ["self-employed", "entrepreneur"],
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Non-corporate, non-farm small/micro enterprises. For manufacturing, trading, and service activities."
+    },
+    "officialUrl": "https://www.mudra.org.in",
+    "guideSlug": "pm-mudra-yojana"
+  },
+  {
+    "id": "stand-up-india",
+    "name": { "en": "Stand Up India", "hi": "स्टैंड अप इंडिया" },
+    "type": "central",
+    "state": null,
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "loan",
+    "benefitDescription": {
+      "en": "Bank loans of ₹10 lakh to ₹1 crore for greenfield enterprises by SC/ST and women entrepreneurs. Repayable in 7 years with 18-month moratorium.",
+      "hi": "SC/ST और महिला उद्यमियों को नए उद्यम हेतु ₹10 लाख से ₹1 करोड़ तक बैंक ऋण। 7 वर्षों में चुकौती।"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": ["SC", "ST"],
+      "occupation": ["entrepreneur"],
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "SC/ST and/or women entrepreneurs. Must be first-time entrepreneur in greenfield project. At least 51% shareholding."
+    },
+    "officialUrl": "https://www.standupmitra.in",
+    "guideSlug": "stand-up-india"
+  },
+  {
+    "id": "startup-india",
+    "name": { "en": "Startup India", "hi": "स्टार्टअप इंडिया" },
+    "type": "central",
+    "state": null,
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "DPIIT recognition with benefits: 3-year income tax exemption (out of first 10 years), 80% patent fee rebate, self-certification for labour/environment laws, Fund of Funds access.",
+      "hi": "DPIIT मान्यता: 3 वर्ष आयकर छूट, 80% पेटेंट शुल्क छूट, फंड ऑफ फंड्स तक पहुँच।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": ["entrepreneur"],
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Entity incorporated < 10 years ago. Turnover < ₹100 crore in any financial year. Working towards innovation/scalable business model."
+    },
+    "officialUrl": "https://www.startupindia.gov.in",
+    "guideSlug": "startup-india"
+  },
+  {
+    "id": "pmegp",
+    "name": { "en": "PM Employment Generation Programme (PMEGP)", "hi": "प्रधानमंत्री रोजगार सृजन कार्यक्रम" },
+    "type": "central",
+    "state": null,
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "Margin money subsidy: 15-35% on projects up to ₹50 lakh (manufacturing) / ₹20 lakh (service). Higher subsidy for SC/ST/OBC/women/minorities/NE region.",
+      "hi": "मार्जिन मनी सब्सिडी: ₹50 लाख (विनिर्माण) / ₹20 लाख (सेवा) परियोजनाओं पर 15-35%।"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "8th pass for manufacturing projects > ₹10 lakh, service > ₹5 lakh. New projects only. SC/ST/OBC/women/minorities/ex-servicemen/disabled get higher subsidy (25-35%)."
+    },
+    "officialUrl": "https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp",
+    "guideSlug": "pmegp"
+  },
+  {
+    "id": "naps",
+    "name": { "en": "National Apprenticeship Promotion Scheme (NAPS)", "hi": "राष्ट्रीय शिक्षुता संवर्धन योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Government shares 25% of stipend (up to ₹1,500/month) with employers for apprentices. Promotes on-the-job training. Active till March 2026.",
+      "hi": "सरकार शिक्षुओं के वजीफे का 25% (₹1,500/माह तक) नियोक्ताओं के साथ साझा करती है।"
+    },
+    "eligibility": {
+      "ageMin": 14,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Youth enrolled in apprenticeship training in establishments. Employers with 4+ workforce eligible to engage apprentices."
+    },
+    "officialUrl": "https://www.apprenticeshipindia.gov.in",
+    "guideSlug": "national-apprenticeship-promotion-scheme"
+  },
+  {
+    "id": "pm-kaushal-vikas",
+    "name": { "en": "PM Kaushal Vikas Yojana (PMKVY)", "hi": "प्रधानमंत्री कौशल विकास योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "Free short-term skill training (150-300 hours) with industry-relevant certification. Includes assessment, certification and placement support.",
+      "hi": "उद्योग-प्रासंगिक प्रमाणपत्र के साथ मुफ्त अल्पकालिक कौशल प्रशिक्षण (150-300 घंटे)।"
+    },
+    "eligibility": {
+      "ageMin": 15,
+      "ageMax": 45,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Indian youth, school/college dropouts, unemployed. Aadhaar and bank account required."
+    },
+    "officialUrl": "https://www.pmkvyofficial.org",
+    "guideSlug": "pm-kaushal-vikas-yojana"
+  },
+  {
+    "id": "pm-yasasvi",
+    "name": { "en": "PM YASASVI Scholarship Scheme", "hi": "पीएम यशस्वी छात्रवृत्ति योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Education",
+    "benefitAmountPerYear": 125000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Scholarships for OBC, EBC, DNT students: ₹75,000/year (Class 9-10) and ₹1,25,000/year (Class 11-12) at top schools. Also covers college education.",
+      "hi": "OBC, EBC, DNT छात्रों को छात्रवृत्ति: कक्षा 9-10 में ₹75,000/वर्ष, कक्षा 11-12 में ₹1,25,000/वर्ष।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": 250000,
+      "categories": ["OBC", "EBC", "DNT"],
+      "occupation": ["student"],
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "OBC/EBC/DNT students with family income up to ₹2.5 lakh/year. Must qualify YASASVI Entrance Test (YET)."
+    },
+    "officialUrl": "https://yet.nta.ac.in",
+    "guideSlug": "pm-yasasvi-scholarship"
+  },
+  {
+    "id": "pm-vidyalaxmi",
+    "name": { "en": "PM Vidyalaxmi (Education Loan Scheme)", "hi": "पीएम विद्यालक्ष्मी (शिक्षा ऋण योजना)" },
+    "type": "central",
+    "state": null,
+    "category": "Education",
+    "benefitAmountPerYear": null,
+    "benefitType": "loan",
+    "benefitDescription": {
+      "en": "Collateral-free, guarantor-free education loans for students in top 860 NIRF-ranked institutions. 75% interest subvention for family income up to ₹8 lakh. Full interest subvention for income up to ₹4.5 lakh.",
+      "hi": "शीर्ष 860 NIRF संस्थानों के छात्रों को बिना गारंटी शिक्षा ऋण। ₹8 लाख तक आय पर 75% ब्याज सब्सिडी।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": 800000,
+      "categories": null,
+      "occupation": ["student"],
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Students admitted to top 860 NIRF-ranked higher education institutions. Outlay ₹3,600 crore for 2024-31."
+    },
+    "officialUrl": "https://www.vidyalakshmi.co.in",
+    "guideSlug": "pm-vidyalaxmi"
+  },
+  {
+    "id": "samagra-shiksha",
+    "name": { "en": "Samagra Shiksha Abhiyan", "hi": "समग्र शिक्षा अभियान" },
+    "type": "central",
+    "state": null,
+    "category": "Education",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "Integrated school education scheme covering pre-school to Class 12. Includes free textbooks, uniforms, mid-day meals, teacher training, and ICT infrastructure.",
+      "hi": "प्री-स्कूल से कक्षा 12 तक एकीकृत स्कूली शिक्षा योजना। मुफ्त पुस्तकें, वर्दी, मध्याह्न भोजन शामिल।"
+    },
+    "eligibility": {
+      "ageMin": 3,
+      "ageMax": 18,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": ["student"],
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "All students in government and aided schools. Special focus on CWSN, girls, SC/ST students."
+    },
+    "officialUrl": "https://samagra.education.gov.in",
+    "guideSlug": "samagra-shiksha-abhiyan"
+  },
+  {
+    "id": "pm-poshan",
+    "name": { "en": "PM POSHAN (Mid-Day Meal Scheme)", "hi": "पीएम पोषण (मध्याह्न भोजन योजना)" },
+    "type": "central",
+    "state": null,
+    "category": "Education",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Free cooked nutritious meal to students in government and aided schools (Class 1-8). Also covers pre-primary (bal vatika).",
+      "hi": "सरकारी विद्यालयों में कक्षा 1-8 के छात्रों को मुफ्त पका हुआ पोषक भोजन।"
+    },
+    "eligibility": {
+      "ageMin": 3,
+      "ageMax": 14,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": ["student"],
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Students of government, government-aided, and NCLP schools from pre-primary to Class 8."
+    },
+    "officialUrl": "https://pmposhan.education.gov.in",
+    "guideSlug": "pm-poshan-mid-day-meal"
+  },
+  {
+    "id": "nsap-ignoaps",
+    "name": { "en": "National Social Assistance Programme - Old Age Pension (IGNOAPS)", "hi": "राष्ट्रीय सामाजिक सहायता कार्यक्रम - वृद्धावस्था पेंशन" },
+    "type": "central",
+    "state": null,
+    "category": "Social Security",
+    "benefitAmountPerYear": 3600,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Central contribution: ₹200/month (age 60-79), ₹500/month (age 80+). States add their share. For BPL elderly.",
+      "hi": "केंद्रीय अंश: ₹200/माह (60-79 वर्ष), ₹500/माह (80+ वर्ष)। राज्य अपना अंश जोड़ते हैं।"
+    },
+    "eligibility": {
+      "ageMin": 60,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "BPL persons aged 60 years and above. Higher pension for 80+."
+    },
+    "officialUrl": "https://nsap.nic.in",
+    "guideSlug": "nsap-old-age-pension"
+  },
+  {
+    "id": "nsap-ignwps",
+    "name": { "en": "NSAP - Widow Pension (IGNWPS)", "hi": "NSAP - विधवा पेंशन (IGNWPS)" },
+    "type": "central",
+    "state": null,
+    "category": "Social Security",
+    "benefitAmountPerYear": 3600,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Central contribution: ₹300/month (age 40-79), ₹500/month (age 80+) for BPL widows. States add their share.",
+      "hi": "केंद्रीय अंश: ₹300/माह (40-79 वर्ष), ₹500/माह (80+) BPL विधवाओं के लिए।"
+    },
+    "eligibility": {
+      "ageMin": 40,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "BPL widows aged 40 years and above."
+    },
+    "officialUrl": "https://nsap.nic.in",
+    "guideSlug": "nsap-widow-pension"
+  },
+  {
+    "id": "nsap-igndps",
+    "name": { "en": "NSAP - Disability Pension (IGNDPS)", "hi": "NSAP - विकलांगता पेंशन (IGNDPS)" },
+    "type": "central",
+    "state": null,
+    "category": "Social Security",
+    "benefitAmountPerYear": 3600,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Central contribution: ₹300/month (age 18-79), ₹500/month (age 80+) for BPL disabled persons with 80%+ disability.",
+      "hi": "केंद्रीय अंश: ₹300/माह (18-79 वर्ष), ₹500/माह (80+) 80%+ विकलांगता वाले BPL व्यक्तियों के लिए।"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "BPL persons aged 18+ with 80% or more disability."
+    },
+    "officialUrl": "https://nsap.nic.in",
+    "guideSlug": "nsap-disability-pension"
+  },
+  {
+    "id": "nsap-nfbs",
+    "name": { "en": "National Family Benefit Scheme (NFBS)", "hi": "राष्ट्रीय पारिवारिक लाभ योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Social Security",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "₹20,000 lump sum to BPL household on death of primary breadwinner (age 18-59).",
+      "hi": "मुख्य कमाने वाले (18-59 वर्ष) की मृत्यु पर BPL परिवार को ₹20,000 एकमुश्त।"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 59,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "BPL household where primary breadwinner (age 18-59) has died."
+    },
+    "officialUrl": "https://nsap.nic.in",
+    "guideSlug": "national-family-benefit-scheme"
+  },
+  {
+    "id": "e-shram",
+    "name": { "en": "E-Shram (Unorganised Workers Registration)", "hi": "ई-श्रम (असंगठित कामगार पंजीकरण)" },
+    "type": "central",
+    "state": null,
+    "category": "Social Security",
+    "benefitAmountPerYear": null,
+    "benefitType": "insurance",
+    "benefitDescription": {
+      "en": "Universal Account Number (UAN) for unorganised workers. ₹2 lakh accidental insurance (PMSBY). Gateway to access various social security schemes.",
+      "hi": "असंगठित श्रमिकों के लिए UAN कार्ड। ₹2 लाख दुर्घटना बीमा (PMSBY)। विभिन्न सामाजिक सुरक्षा योजनाओं तक पहुँच।"
+    },
+    "eligibility": {
+      "ageMin": 16,
+      "ageMax": 59,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": ["unorganised worker"],
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Unorganised sector workers (construction, gig, domestic, street vendor, migrant, etc.). Must have Aadhaar and mobile number."
+    },
+    "officialUrl": "https://eshram.gov.in",
+    "guideSlug": "e-shram-card"
+  },
+  {
+    "id": "pm-garib-kalyan-anna",
+    "name": { "en": "PM Garib Kalyan Anna Yojana (PMGKAY)", "hi": "प्रधानमंत्री गरीब कल्याण अन्न योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Social Security",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "5 kg free foodgrains (rice/wheat) per person per month to ~81.35 crore beneficiaries under NFSA. Extended till December 2028.",
+      "hi": "NFSA के ~81.35 करोड़ लाभार्थियों को प्रति व्यक्ति 5 किलो मुफ्त अनाज (चावल/गेहूं) प्रति माह। दिसंबर 2028 तक।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Beneficiaries covered under National Food Security Act (NFSA) - Antyodaya Anna Yojana (AAY) and Priority Households (PHH)."
+    },
+    "officialUrl": "https://nfsa.gov.in",
+    "guideSlug": "pm-garib-kalyan-anna-yojana"
+  },
+  {
+    "id": "pm-jan-dhan",
+    "name": { "en": "PM Jan Dhan Yojana (PMJDY)", "hi": "प्रधानमंत्री जन धन योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Financial Inclusion",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Zero-balance bank account with RuPay debit card, ₹2 lakh accident insurance, ₹30,000 life cover, overdraft facility up to ₹10,000.",
+      "hi": "शून्य शेष बैंक खाता, रुपे कार्ड, ₹2 लाख दुर्घटना बीमा, ₹30,000 जीवन बीमा, ₹10,000 ओवरड्राफ्ट।"
+    },
+    "eligibility": {
+      "ageMin": 10,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Any Indian citizen who does not have a bank account. Minor (10+) can open with guardian."
+    },
+    "officialUrl": "https://pmjdy.gov.in",
+    "guideSlug": "pm-jan-dhan-yojana"
+  },
+  {
+    "id": "atal-pension-yojana",
+    "name": { "en": "Atal Pension Yojana (APY)", "hi": "अटल पेंशन योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Financial Inclusion",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Guaranteed monthly pension of ₹1,000-₹5,000 after age 60, based on contribution. Government co-contributes 50% (max ₹1,000/year) for non-taxpayers who joined before 2020.",
+      "hi": "60 वर्ष बाद ₹1,000-₹5,000 गारंटीड मासिक पेंशन। योगदान के अनुसार।"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 40,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Indian citizen aged 18-40 with savings bank account. Must not be income tax payer (for govt co-contribution). Minimum 20 years contribution."
+    },
+    "officialUrl": "https://www.npscra.nsdl.co.in/scheme-details.php",
+    "guideSlug": "atal-pension-yojana"
+  },
+  {
+    "id": "pm-ujjwala",
+    "name": { "en": "PM Ujjwala Yojana (PMUY)", "hi": "प्रधानमंत्री उज्ज्वला योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Energy",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "Free LPG connection (deposit-free) with first refill and stove free of cost. ₹300 subsidy per refill for eligible beneficiaries.",
+      "hi": "मुफ्त LPG कनेक्शन (जमा-मुक्त), पहली रिफिल और चूल्हा मुफ्त। पात्र लाभार्थियों को ₹300/रिफिल सब्सिडी।"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": ["SC", "ST", "OBC", "General"],
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Adult woman from BPL household. Must not already have LPG connection. Aadhaar and bank account required."
+    },
+    "officialUrl": "https://www.pmuy.gov.in",
+    "guideSlug": "pm-ujjwala-yojana"
+  },
+  {
+    "id": "pm-surya-ghar",
+    "name": { "en": "PM Surya Ghar Muft Bijli Yojana", "hi": "पीएम सूर्य घर मुफ्त बिजली योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Energy",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "Subsidy up to ₹78,000 for rooftop solar installation. 300 free electricity units per month. ₹30,000 for 1kW, ₹60,000 for 2kW, ₹78,000 for 3kW+.",
+      "hi": "छत पर सोलर पैनल लगाने पर ₹78,000 तक सब्सिडी। 300 यूनिट मुफ्त बिजली प्रति माह।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Residential households with grid-connected electricity. Must have suitable rooftop space. 1 crore households targeted."
+    },
+    "officialUrl": "https://pmsuryaghar.gov.in",
+    "guideSlug": "pm-surya-ghar-muft-bijli"
+  },
+  {
+    "id": "pm-janjati-adivasi-nyay",
+    "name": { "en": "PM Janjatiya Unnat Gram Abhiyan", "hi": "पीएम जनजातीय उन्नत ग्राम अभियान" },
+    "type": "central",
+    "state": null,
+    "category": "Tribal Welfare",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "Holistic development of tribal villages covering 63,000+ villages and 5 crore tribal people. Infrastructure, health, education, livelihood convergence.",
+      "hi": "63,000+ आदिवासी गाँवों का समग्र विकास। अवसंरचना, स्वास्थ्य, शिक्षा, आजीविका।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": ["ST"],
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": "rural",
+      "additionalCriteria": "Tribal communities in identified tribal villages. Covers 75 Particularly Vulnerable Tribal Groups (PVTGs)."
+    },
+    "officialUrl": "https://tribal.nic.in",
+    "guideSlug": "pm-janjatiya-unnat-gram-abhiyan"
+  },
+  {
+    "id": "antyodaya-anna",
+    "name": { "en": "Antyodaya Anna Yojana (AAY)", "hi": "अंत्योदय अन्न योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Social Security",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "35 kg foodgrains per family per month at highly subsidised rates (₹2/kg wheat, ₹3/kg rice) for poorest of poor families. Now free under PMGKAY.",
+      "hi": "सबसे गरीब परिवारों को 35 किलो अनाज प्रति परिवार प्रति माह। PMGKAY के तहत अब मुफ्त।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": null,
+      "additionalCriteria": "Poorest of the poor families - landless labourers, marginal farmers, artisans, widows, disabled, destitute."
+    },
+    "officialUrl": "https://nfsa.gov.in",
+    "guideSlug": "antyodaya-anna-yojana"
+  },
+  {
+    "id": "deen-dayal-upadhyaya-grameen-kaushalya",
+    "name": { "en": "DDU Grameen Kaushalya Yojana (DDU-GKY)", "hi": "दीन दयाल उपाध्याय ग्रामीण कौशल्य योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Employment",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "Free skill training (576+ hours) with placement support for rural youth from poor families. Training cost ₹25,696-₹1 lakh+ per candidate borne by govt.",
+      "hi": "गरीब परिवारों के ग्रामीण युवाओं को मुफ्त कौशल प्रशिक्षण और प्लेसमेंट सहायता।"
+    },
+    "eligibility": {
+      "ageMin": 15,
+      "ageMax": 35,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": true,
+      "urbanRural": "rural",
+      "additionalCriteria": "Rural youth from poor families (SECC 2011). SC/ST/women/PWD/minorities get age relaxation up to 45 years."
+    },
+    "officialUrl": "https://ddugky.gov.in",
+    "guideSlug": "ddu-grameen-kaushalya-yojana"
+  },
+  {
+    "id": "pm-matsya-sampada",
+    "name": { "en": "PM Matsya Sampada Yojana (PMMSY)", "hi": "प्रधानमंत्री मत्स्य संपदा योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Agriculture",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "40-60% subsidy for fisheries infrastructure, fish farming, cold chain, and insurance. ₹20,050 crore outlay. Promotes blue revolution.",
+      "hi": "मत्स्य पालन अवसंरचना, मछली पालन, कोल्ड चेन पर 40-60% सब्सिडी। ₹20,050 करोड़ बजट।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": ["fisher", "fish farmer"],
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Fishers, fish farmers, SHGs, FFPOs, entrepreneurs in fisheries sector. Higher subsidy for SC/ST/women."
+    },
+    "officialUrl": "https://pmmsy.dof.gov.in",
+    "guideSlug": "pm-matsya-sampada-yojana"
+  },
+  {
+    "id": "swamitva",
+    "name": { "en": "SVAMITVA Yojana", "hi": "स्वामित्व योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Rural Development",
+    "benefitAmountPerYear": null,
+    "benefitType": "one-time",
+    "benefitDescription": {
+      "en": "Property cards (legal ownership) for rural inhabited areas using drone survey. Enables using property as financial asset for loans.",
+      "hi": "ड्रोन सर्वेक्षण से ग्रामीण आबादी क्षेत्रों के लिए संपत्ति कार्ड (कानूनी स्वामित्व)। ऋण के लिए संपत्ति उपयोग।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": "rural",
+      "additionalCriteria": "Rural property owners in Abadi (inhabited) areas of villages."
+    },
+    "officialUrl": "https://svamitva.nic.in",
+    "guideSlug": "svamitva-yojana"
+  },
+  {
+    "id": "pm-shri-schools",
+    "name": { "en": "PM SHRI Schools", "hi": "पीएम श्री स्कूल" },
+    "type": "central",
+    "state": null,
+    "category": "Education",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "14,500+ schools upgraded as model schools with NEP 2020 implementation, smart classrooms, labs, sports facilities, and holistic education.",
+      "hi": "14,500+ स्कूलों को NEP 2020, स्मार्ट कक्षाओं, प्रयोगशालाओं के साथ मॉडल स्कूलों में उन्नत।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": ["student"],
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Students in selected PM SHRI schools (government and government-aided schools)."
+    },
+    "officialUrl": "https://pmshrischools.education.gov.in",
+    "guideSlug": "pm-shri-schools"
+  },
+  {
+    "id": "national-scholarship-portal",
+    "name": { "en": "National Scholarship Portal (NSP)", "hi": "राष्ट्रीय छात्रवृत्ति पोर्टल" },
+    "type": "central",
+    "state": null,
+    "category": "Education",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "One-stop portal for 20+ central scholarship schemes including pre-matric, post-matric, merit-cum-means for SC/ST/OBC/minorities/EBC students.",
+      "hi": "SC/ST/OBC/अल्पसंख्यक छात्रों के लिए 20+ केंद्रीय छात्रवृत्ति योजनाओं का एकल पोर्टल।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": ["SC", "ST", "OBC", "Minority", "EBC"],
+      "occupation": ["student"],
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Students from SC/ST/OBC/minority/EBC categories studying in recognized institutions. Income criteria vary by scheme."
+    },
+    "officialUrl": "https://scholarships.gov.in",
+    "guideSlug": "national-scholarship-portal"
+  },
+  {
+    "id": "pm-gati-shakti",
+    "name": { "en": "PM Gati Shakti National Master Plan", "hi": "पीएम गति शक्ति राष्ट्रीय मास्टर प्लान" },
+    "type": "central",
+    "state": null,
+    "category": "Infrastructure",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "Integrated digital platform for coordinated infrastructure planning across 16 ministries. ₹100 lakh crore infrastructure investment. Reduces logistics costs.",
+      "hi": "16 मंत्रालयों में समन्वित बुनियादी ढाँचा नियोजन हेतु एकीकृत डिजिटल प्लेटफार्म।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Policy/infrastructure initiative. Benefits all citizens through improved connectivity and logistics."
+    },
+    "officialUrl": "https://pmgatishakti.gov.in",
+    "guideSlug": "pm-gati-shakti"
+  },
+  {
+    "id": "pm-kisan-maandhan",
+    "name": { "en": "PM Kisan Maandhan Yojana", "hi": "प्रधानमंत्री किसान मानधन योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Agriculture",
+    "benefitAmountPerYear": 36000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹3,000/month pension after age 60 for small and marginal farmers. Monthly contribution ₹55-200 (age-based). Government matches equal contribution.",
+      "hi": "60 वर्ष बाद छोटे किसानों को ₹3,000/माह पेंशन। मासिक योगदान ₹55-200। सरकार बराबर का योगदान।"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 40,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": ["farmer"],
+      "bpl": null,
+      "urbanRural": "rural",
+      "additionalCriteria": "Small and marginal farmers with cultivable land up to 2 hectares. Must not be covered under NPS/ESIC/EPFO."
+    },
+    "officialUrl": "https://maandhan.in",
+    "guideSlug": "pm-kisan-maandhan"
+  },
+  {
+    "id": "pm-shram-yogi-maandhan",
+    "name": { "en": "PM Shram Yogi Maandhan Yojana (PMSYM)", "hi": "प्रधानमंत्री श्रम योगी मानधन योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Social Security",
+    "benefitAmountPerYear": 36000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹3,000/month pension after age 60 for unorganised workers. Monthly contribution ₹55-200. Government matches equal contribution.",
+      "hi": "60 वर्ष बाद असंगठित श्रमिकों को ₹3,000/माह पेंशन। मासिक योगदान ₹55-200।"
+    },
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 40,
+      "gender": null,
+      "incomeMax": 15000,
+      "categories": null,
+      "occupation": ["unorganised worker"],
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Unorganised workers with monthly income up to ₹15,000. Must not be covered under NPS/ESIC/EPFO. Must not be income tax payer."
+    },
+    "officialUrl": "https://maandhan.in",
+    "guideSlug": "pm-shram-yogi-maandhan"
+  },
+  {
+    "id": "one-stop-centre",
+    "name": { "en": "One Stop Centre (Sakhi Centre)", "hi": "वन स्टॉप सेंटर (सखी केंद्र)" },
+    "type": "central",
+    "state": null,
+    "category": "Women & Child",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "Integrated support for women affected by violence: medical aid, legal assistance, psycho-social counselling, police facilitation, temporary shelter. 700+ centres operational.",
+      "hi": "हिंसा से प्रभावित महिलाओं को एकीकृत सहायता: चिकित्सा, कानूनी, मनोसामाजिक परामर्श, पुलिस, अस्थायी आश्रय।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": "female",
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "All women affected by violence, irrespective of age, class, caste, or marital status. Also serves girls under 18."
+    },
+    "officialUrl": "https://wcd.nic.in/schemes/one-stop-centre-scheme-1",
+    "guideSlug": "one-stop-centre-sakhi"
+  },
+  {
+    "id": "digital-india",
+    "name": { "en": "Digital India Programme", "hi": "डिजिटल इंडिया कार्यक्रम" },
+    "type": "central",
+    "state": null,
+    "category": "Digital",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "Umbrella programme for digital infrastructure, e-governance, and digital literacy. Includes BharatNet, DigiLocker, UMANG, Common Service Centres.",
+      "hi": "डिजिटल अवसंरचना, ई-गवर्नेंस और डिजिटल साक्षरता का व्यापक कार्यक्रम।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "All Indian citizens. Various sub-schemes have specific eligibility criteria."
+    },
+    "officialUrl": "https://www.digitalindia.gov.in",
+    "guideSlug": "digital-india"
+  },
+  {
+    "id": "abha-health-id",
+    "name": { "en": "Ayushman Bharat Health Account (ABHA)", "hi": "आयुष्मान भारत हेल्थ अकाउंट (ABHA)" },
+    "type": "central",
+    "state": null,
+    "category": "Health",
+    "benefitAmountPerYear": null,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "Unique 14-digit health ID for digital health records. Links health records across hospitals and labs under Ayushman Bharat Digital Mission.",
+      "hi": "डिजिटल स्वास्थ्य रिकॉर्ड के लिए 14 अंकों की विशिष्ट स्वास्थ्य आईडी।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "All Indian citizens with Aadhaar or driving licence. Free to create."
+    },
+    "officialUrl": "https://abha.abdm.gov.in",
+    "guideSlug": "abha-health-id"
+  },
+  {
+    "id": "pm-internship-scheme",
+    "name": { "en": "PM Internship Scheme", "hi": "पीएम इंटर्नशिप योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Employment",
+    "benefitAmountPerYear": 66000,
+    "benefitType": "recurring",
+    "benefitDescription": {
+      "en": "₹5,000/month stipend for 12-month internship in top 500 companies. ₹6,000 one-time grant. 1 crore youth in 5 years. Announced in Budget 2024.",
+      "hi": "शीर्ष 500 कंपनियों में 12 माह इंटर्नशिप पर ₹5,000/माह वजीफा। ₹6,000 एकमुश्त अनुदान।"
+    },
+    "eligibility": {
+      "ageMin": 21,
+      "ageMax": 24,
+      "gender": null,
+      "incomeMax": 800000,
+      "categories": null,
+      "occupation": null,
+      "bpl": null,
+      "urbanRural": null,
+      "additionalCriteria": "Youth aged 21-24 not employed full-time and not in full-time education. Family income below ₹8 lakh/year. Priority to SC/ST/OBC/PwD."
+    },
+    "officialUrl": "https://pminternship.mca.gov.in",
+    "guideSlug": "pm-internship-scheme"
+  },
+  {
+    "id": "rashtriya-krishi-vikas-yojana",
+    "name": { "en": "Rashtriya Krishi Vikas Yojana (RKVY)", "hi": "राष्ट्रीय कृषि विकास योजना" },
+    "type": "central",
+    "state": null,
+    "category": "Agriculture",
+    "benefitAmountPerYear": null,
+    "benefitType": "subsidy",
+    "benefitDescription": {
+      "en": "Flexible funding to states for agriculture and allied sector development based on local agro-climatic conditions. Includes Soil Health, organic farming, etc.",
+      "hi": "स्थानीय कृषि-जलवायु परिस्थितियों के अनुसार कृषि विकास हेतु राज्यों को लचीला वित्तपोषण।"
+    },
+    "eligibility": {
+      "ageMin": null,
+      "ageMax": null,
+      "gender": null,
+      "incomeMax": null,
+      "categories": null,
+      "occupation": ["farmer"],
+      "bpl": null,
+      "urbanRural": "rural",
+      "additionalCriteria": "State-level scheme implementation. Farmers access benefits through state agriculture departments."
+    },
+    "officialUrl": "https://rkvy.nic.in",
+    "guideSlug": "rashtriya-krishi-vikas-yojana"
+  }
+]
