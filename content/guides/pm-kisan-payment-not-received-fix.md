@@ -29,7 +29,7 @@ relatedGuides:
 
 Crores of farmers depend on **PM Kisan Samman Nidhi** for ₹6,000 per year (₹2,000 per installment). But many beneficiaries face delayed or stuck payments every cycle. If your PM Kisan payment has not been received, this guide walks you through every possible reason and the exact steps to fix it.
 
-> **Also read:** [Complete Guide to PM Kisan Samman Nidhi](/guides/pm-kisan-samman-nidhi) | [PM Kisan eKYC Failed — How to Fix](/guides/pm-kisan-ekyc-failed-fix)
+> **Also read:** [Complete Guide to PM Kisan Samman Nidhi](/guide/pm-kisan-samman-nidhi) | [PM Kisan eKYC Failed — How to Fix](/guide/pm-kisan-ekyc-failed-fix)
 
 ---
 
@@ -82,7 +82,7 @@ Since 2022, **eKYC is mandatory** for all PM Kisan beneficiaries. No eKYC = no p
 4. Enter the OTP received on your Aadhaar-linked mobile
 5. Submit — eKYC is done
 
-**If OTP-based eKYC fails**, visit your nearest CSC (Common Service Centre) for biometric eKYC. Read our detailed guide: [PM Kisan eKYC Failed — How to Fix](/guides/pm-kisan-ekyc-failed-fix).
+**If OTP-based eKYC fails**, visit your nearest CSC (Common Service Centre) for biometric eKYC. Read our detailed guide: [PM Kisan eKYC Failed — How to Fix](/guide/pm-kisan-ekyc-failed-fix).
 
 ---
 

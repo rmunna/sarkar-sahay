@@ -182,9 +182,9 @@ Read "The Hindu" or "Daily Thanthi" regularly. Maintain monthly current affairs 
 
 ## Related Guides
 
-- [TNPSC Group 2 Exam Guide](/guides/tnpsc-group-2-exam-guide) — For Group II posts in Tamil Nadu
-- [UPSC Civil Services Guide](/guides/upsc-civil-services-exam-guide) — For all-India civil services
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — Alternative government career path
+- [TNPSC Group 2 Exam Guide](/guide/tnpsc-group-2-exam-guide) — For Group II posts in Tamil Nadu
+- [UPSC Civil Services Guide](/guide/upsc-civil-services-exam-guide) — For all-India civil services
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — Alternative government career path
 
 ## Frequently Asked Questions (FAQs)
 

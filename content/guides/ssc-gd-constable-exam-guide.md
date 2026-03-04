@@ -212,9 +212,9 @@ SSC GD papers from the last 3–5 cycles cover almost all question types you'll 
 | Role | Paramilitary/Security | Office support | Military duty |
 
 **Related guides:**
-- [SSC MTS Exam Guide](/guides/ssc-mts-exam-guide) — for office-based government jobs
-- [SSC Stenographer Exam Guide](/guides/ssc-stenographer-exam-guide) — if you have typing skills
-- [RRB NTPC Exam Guide](/guides/rrb-ntpc-exam-guide) — railway non-technical posts
+- [SSC MTS Exam Guide](/guide/ssc-mts-exam-guide) — for office-based government jobs
+- [SSC Stenographer Exam Guide](/guide/ssc-stenographer-exam-guide) — if you have typing skills
+- [RRB NTPC Exam Guide](/guide/rrb-ntpc-exam-guide) — railway non-technical posts
 
 ## Frequently Asked Questions
 

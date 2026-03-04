@@ -133,9 +133,9 @@ Once approved (usually 3-7 working days), download the NOC from the portal. Some
 
 ## Related Guides
 
-- [How to Transfer Electricity Connection](/guides/electricity-connection-transfer-name) — transfer connection after property purchase
-- [How to Get Duplicate Electricity Bill](/guides/duplicate-electricity-bill-download) — download bills to verify dues
-- [How to Apply for Commercial Electricity Connection](/guides/commercial-electricity-connection-apply) — if changing property use
+- [How to Transfer Electricity Connection](/guide/electricity-connection-transfer-name) — transfer connection after property purchase
+- [How to Get Duplicate Electricity Bill](/guide/duplicate-electricity-bill-download) — download bills to verify dues
+- [How to Apply for Commercial Electricity Connection](/guide/commercial-electricity-connection-apply) — if changing property use
 
 - [Apply for New Electricity Connection](/guide/electricity-connection-apply-online)
 - [Pay Electricity Bill](/guide/electricity-bill-pay-online-state-wise)

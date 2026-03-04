@@ -296,8 +296,8 @@ Typically **6 months to 1 year**, depending on the state and the purpose. Some s
 
 ## Related Guides
 
-- [Caste Certificate Rejected — How to Fix](/guides/caste-certificate-rejected-fix)
-- [Domicile Certificate Rejected — How to Fix](/guides/domicile-certificate-rejected-fix)
+- [Caste Certificate Rejected — How to Fix](/guide/caste-certificate-rejected-fix)
+- [Domicile Certificate Rejected — How to Fix](/guide/domicile-certificate-rejected-fix)
 
 ---
 

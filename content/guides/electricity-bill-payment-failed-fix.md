@@ -68,7 +68,7 @@ Every state DISCOM portal has a way to verify payment status:
 ### How to Find Your DISCOM Portal
 
 - Search for your state + "electricity bill payment" (e.g., "MSEDCL bill payment" for Maharashtra)
-- Or pay via [Bharat BillPay System (BBPS)](/guides/bharat-bill-payment-system) — a unified platform that works for all DISCOMs
+- Or pay via [Bharat BillPay System (BBPS)](/guide/bharat-bill-payment-system) — a unified platform that works for all DISCOMs
 
 ---
 
@@ -149,7 +149,7 @@ If the portal is consistently failing, use these instead:
 
 | Method | How |
 |---|---|
-| **Bharat BillPay (BBPS)** | Via any BBPS-enabled app or bank ([learn more](/guides/bharat-bill-payment-system)) |
+| **Bharat BillPay (BBPS)** | Via any BBPS-enabled app or bank ([learn more](/guide/bharat-bill-payment-system)) |
 | **UPI apps** | Google Pay, PhonePe, Paytm — search for your DISCOM |
 | **Bank net banking** | Most banks have a "Bill Pay" section |
 | **Paytm/Amazon Pay** | Third-party apps that support electricity bill payments |
@@ -228,7 +228,7 @@ If your complaint is not resolved:
 
 ## Tips to Avoid Payment Failures
 
-- ✅ **Use BBPS** — it's the most reliable and standardized method ([guide](/guides/bharat-bill-payment-system))
+- ✅ **Use BBPS** — it's the most reliable and standardized method ([guide](/guide/bharat-bill-payment-system))
 - ✅ **Pay before the due date** — portals get overloaded on the last day
 - ✅ **Save your consumer number** in your UPI app for quick access
 - ✅ **Keep sufficient balance** — including buffer for processing holds
@@ -270,6 +270,6 @@ Log in to your DISCOM portal or app and check **Payment History**. You can also 
 
 ### What is the best way to pay electricity bills to avoid failures?
 
-Use **Bharat BillPay (BBPS)** through your bank app or any BBPS-enabled platform. It provides standardized receipts and easier dispute resolution. Read our [complete BBPS guide](/guides/bharat-bill-payment-system).
+Use **Bharat BillPay (BBPS)** through your bank app or any BBPS-enabled platform. It provides standardized receipts and easier dispute resolution. Read our [complete BBPS guide](/guide/bharat-bill-payment-system).
 
 ---

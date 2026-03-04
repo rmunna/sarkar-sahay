@@ -163,6 +163,6 @@ You can visit your nearest **District Employment & Counselling Centre**, **R-SET
 
 ---
 
-*Looking for more government schemes? Check out our guides on [PM Mudra Yojana](/guides/pm-mudra-yojana) and [Aadhaar Card — How to Apply](/guides/aadhaar-card-apply-online) for more useful information.*
+*Looking for more government schemes? Check out our guides on [PM Mudra Yojana](/guide/pm-mudra-yojana) and [Aadhaar Card — How to Apply](/guide/aadhaar-card-apply-online) for more useful information.*
 
 > **Disclaimer:** This guide is for informational purposes only. Scheme details, eligibility criteria, and benefits may change over time. Always verify the latest information on the official Mission Youth website at [missionyouth.jk.gov.in](https://missionyouth.jk.gov.in) before applying. CitizenNest is not affiliated with any government body.

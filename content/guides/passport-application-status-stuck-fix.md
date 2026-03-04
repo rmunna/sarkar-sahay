@@ -126,7 +126,7 @@ This is the **most common** stage where passport applications get delayed.
 
 > **Pro tip:** Police verification for the **same address as Aadhaar** is often faster. If your address documents match across Aadhaar, Voter ID, and passport application, verification is smoother.
 
-For a detailed walkthrough, see our guide on **[Police Verification Stuck — How to Fix](/guides/passport-police-verification-stuck-fix)**.
+For a detailed walkthrough, see our guide on **[Police Verification Stuck — How to Fix](/guide/passport-police-verification-stuck-fix)**.
 
 ---
 
@@ -253,5 +253,5 @@ Contact your local police station and request a re-visit. Provide your phone num
 
 ## Related Guides
 
-- [Passport Police Verification Stuck — How to Fix](/guides/passport-police-verification-stuck-fix)
-- [Passport Appointment Not Available — How to Fix](/guides/passport-appointment-not-available-fix)
+- [Passport Police Verification Stuck — How to Fix](/guide/passport-police-verification-stuck-fix)
+- [Passport Appointment Not Available — How to Fix](/guide/passport-appointment-not-available-fix)

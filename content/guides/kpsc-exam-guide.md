@@ -173,9 +173,9 @@ Read Kannada newspapers (Prajavani, Vijaya Karnataka) alongside The Hindu. Track
 
 ## Related Guides
 
-- [UPSC Civil Services Guide](/guides/upsc-civil-services-exam-guide) — All-India civil services exam
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — Banking sector career path
-- [TNPSC Group 1 Exam Guide](/guides/tnpsc-group-1-exam-guide) — Tamil Nadu state civil services
+- [UPSC Civil Services Guide](/guide/upsc-civil-services-exam-guide) — All-India civil services exam
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — Banking sector career path
+- [TNPSC Group 1 Exam Guide](/guide/tnpsc-group-1-exam-guide) — Tamil Nadu state civil services
 
 ## Frequently Asked Questions (FAQs)
 

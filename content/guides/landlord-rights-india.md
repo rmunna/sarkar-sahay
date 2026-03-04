@@ -99,7 +99,7 @@ Under the **Model Tenancy Act 2021**, if a tenant does not vacate after tenancy 
 
 - Tenants cannot sublet the property or assign the lease without the landlord's **written consent**
 - Unauthorised subletting is a valid ground for eviction under virtually all state laws and the Model Tenancy Act
-- Landlords can include explicit anti-subletting clauses in the [rent agreement](/guides/rent-agreement-registration)
+- Landlords can include explicit anti-subletting clauses in the [rent agreement](/guide/rent-agreement-registration)
 
 ### 8. Right to Dispute Resolution
 
@@ -129,7 +129,7 @@ For states that have not adopted the Model Tenancy Act, disputes are resolved th
 
 ## Important Tips for Landlords
 
-- **Always register the rent agreement** — An unregistered agreement is not admissible as evidence in court. See our guide on [rent agreement registration](/guides/rent-agreement-registration)
+- **Always register the rent agreement** — An unregistered agreement is not admissible as evidence in court. See our guide on [rent agreement registration](/guide/rent-agreement-registration)
 - **Include clear clauses** on rent amount, revision terms, deposit, maintenance responsibilities, subletting restrictions, and notice period
 - **Conduct police verification** of every tenant — this is both a legal requirement and a safety measure
 - **Maintain records** — Keep copies of the agreement, rent receipts, communication with tenant, and property condition photos (before and after)
@@ -180,8 +180,8 @@ Unauthorised subletting is a valid ground for eviction under most state Rent Con
 
 ## Related Guides
 
-- [Rent Agreement Registration — Process, Format & Stamp Duty](/guides/rent-agreement-registration)
-- [Tenant Rights in India](/guides/tenant-rights-india)
+- [Rent Agreement Registration — Process, Format & Stamp Duty](/guide/rent-agreement-registration)
+- [Tenant Rights in India](/guide/tenant-rights-india)
 
 ---
 

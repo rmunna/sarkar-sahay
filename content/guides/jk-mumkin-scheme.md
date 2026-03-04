@@ -123,7 +123,7 @@ There is **no application fee** to apply for the Mumkin scheme. However, standar
 ## Important Tips
 
 1. **Apply early** — Seats may be limited based on district-level budget allocation. Don't wait for the last date.
-2. **Get your commercial driving licence first** — This is a mandatory requirement. If you don't have one, apply at your nearest RTO well in advance. See our guide on [How to Apply for Driving Licence](/guides/driving-licence-online).
+2. **Get your commercial driving licence first** — This is a mandatory requirement. If you don't have one, apply at your nearest RTO well in advance. See our guide on [How to Apply for Driving Licence](/guide/driving-licence-online).
 3. **Keep original documents ready** — Even for online applications, you may need to show originals during verification.
 4. **Check the helpline** — For queries, call the Mission Youth helpline at **8447804846**.
 5. **Don't fall for middlemen** — Apply directly through the official portal. No agent or tout is needed, and paying them is a waste of money.
@@ -164,9 +164,9 @@ No. Only permanent residents (domiciles) of Jammu & Kashmir are eligible.
 
 ## Related Guides
 
-- [How to Apply for Driving Licence Online](/guides/driving-licence-online)
-- [Domicile Certificate — How to Get It](/guides/domicile-certificate)
-- [Aadhaar Card Update and Correction](/guides/aadhaar-card-update)
+- [How to Apply for Driving Licence Online](/guide/driving-licence-online)
+- [Domicile Certificate — How to Get It](/guide/domicile-certificate)
+- [Aadhaar Card Update and Correction](/guide/aadhaar-card-update)
 
 ---
 

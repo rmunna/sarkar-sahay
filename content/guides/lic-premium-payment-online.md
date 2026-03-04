@@ -168,11 +168,11 @@ If you fail to pay the premium even within the grace period, your policy **lapse
 
 1. **Set reminders** — Mark premium due dates on your calendar or phone to avoid missing payments
 2. **Use NACH/ECS** — Auto-debit ensures you never miss a payment and your policy stays active
-3. **Keep receipts** — Always save payment receipts (digital or physical) for tax filing under [Section 80C](/guides/income-tax-saving-tips-80c-investments)
+3. **Keep receipts** — Always save payment receipts (digital or physical) for tax filing under [Section 80C](/guide/income-tax-saving-tips-80c-investments)
 4. **Verify payment status** — Log in to the LIC portal to confirm your premium payment is reflected
 5. **Update contact details** — Ensure your mobile number and email are updated with LIC for payment alerts and OTPs
 6. **Pay before grace period ends** — Don't wait until the last day; payment processing may take 1-2 working days
-7. **Check tax benefits** — LIC premiums qualify for deduction under Section 80C up to ₹1.5 lakh per year. See our [income tax saving guide](/guides/income-tax-saving-tips-80c-investments)
+7. **Check tax benefits** — LIC premiums qualify for deduction under Section 80C up to ₹1.5 lakh per year. See our [income tax saving guide](/guide/income-tax-saving-tips-80c-investments)
 8. **Avoid third-party sites** — Always pay through official LIC channels or your bank to avoid fraud
 
 

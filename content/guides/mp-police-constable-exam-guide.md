@@ -172,10 +172,10 @@ Online mock tests help improve speed and familiarize you with the computer-based
 
 ## Related Guides
 
-- [MPPSC Exam Guide](/guides/mppsc-exam-guide) — For higher administrative posts in MP
-- [UP Police Constable Exam Guide](/guides/up-police-constable-exam-guide) — Similar constable exam in UP
-- [Bihar Police Constable Exam Guide](/guides/bihar-police-constable-exam-guide) — Police constable exam in Bihar
-- [SSC GD Constable Guide](/guides/ssc-gd-constable-exam-guide) — Central police forces constable exam
+- [MPPSC Exam Guide](/guide/mppsc-exam-guide) — For higher administrative posts in MP
+- [UP Police Constable Exam Guide](/guide/up-police-constable-exam-guide) — Similar constable exam in UP
+- [Bihar Police Constable Exam Guide](/guide/bihar-police-constable-exam-guide) — Police constable exam in Bihar
+- [SSC GD Constable Guide](/guide/ssc-gd-constable-exam-guide) — Central police forces constable exam
 
 ## Frequently Asked Questions (FAQs)
 

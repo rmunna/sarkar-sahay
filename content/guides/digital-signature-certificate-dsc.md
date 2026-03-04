@@ -161,9 +161,9 @@ Most DSCs issued via Aadhaar eKYC are delivered within **1–2 hours** during bu
 
 ## Related Guides
 
-- [How to Apply for PAN Card Online](/guides/pan-card-apply-online)
-- [How to Apply for Aadhaar Card Online](/guides/aadhaar-card-apply-online)
-- [GST Registration — Complete Guide](/guides/gst-registration-online)
+- [How to Apply for PAN Card Online](/guide/pan-card-apply-online)
+- [How to Apply for Aadhaar Card Online](/guide/aadhaar-card-apply-online)
+- [GST Registration — Complete Guide](/guide/gst-registration-online)
 
 ---
 

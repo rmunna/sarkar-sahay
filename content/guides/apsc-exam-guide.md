@@ -182,10 +182,10 @@ APSC has its own style and focus areas. Previous papers are invaluable for under
 
 ## Related Guides
 
-- [JPSC Exam Guide](/guides/jpsc-exam-guide) — Jharkhand civil services
-- [OPSC Exam Guide](/guides/opsc-exam-guide) — Odisha civil services
-- [CGPSC Exam Guide](/guides/cgpsc-exam-guide) — Chhattisgarh civil services
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — Bank exams
+- [JPSC Exam Guide](/guide/jpsc-exam-guide) — Jharkhand civil services
+- [OPSC Exam Guide](/guide/opsc-exam-guide) — Odisha civil services
+- [CGPSC Exam Guide](/guide/cgpsc-exam-guide) — Chhattisgarh civil services
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — Bank exams
 
 ## Frequently Asked Questions
 

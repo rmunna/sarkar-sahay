@@ -182,9 +182,9 @@ With only 45 minutes for 40 questions, you need speed. Practice with a timer. At
 | Salary (approx.) | ₹18,000–22,000 | ₹21,700+ | ₹25,500+ | ₹44,900+ |
 
 **Related guides:**
-- [SSC GD Constable Exam Guide](/guides/ssc-gd-constable-exam-guide) — if you're interested in paramilitary forces
-- [SSC Stenographer Exam Guide](/guides/ssc-stenographer-exam-guide) — for those with typing/shorthand skills
-- [RRB NTPC Exam Guide](/guides/rrb-ntpc-exam-guide) — railway jobs for 10th/12th pass candidates
+- [SSC GD Constable Exam Guide](/guide/ssc-gd-constable-exam-guide) — if you're interested in paramilitary forces
+- [SSC Stenographer Exam Guide](/guide/ssc-stenographer-exam-guide) — for those with typing/shorthand skills
+- [RRB NTPC Exam Guide](/guide/rrb-ntpc-exam-guide) — railway jobs for 10th/12th pass candidates
 
 ## Frequently Asked Questions
 

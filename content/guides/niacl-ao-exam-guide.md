@@ -26,7 +26,7 @@ The **NIACL AO (Administrative Officer)** exam is a competitive recruitment exam
 
 NIACL, a Government of India undertaking headquartered in Mumbai, periodically announces AO vacancies through official notifications on [newindia.co.in](https://newindia.co.in). The selection process is modeled similarly to other public-sector insurance recruitment exams and typically involves three stages: Prelims, Mains, and Interview.
 
-If you're exploring other insurance-sector exams, also check out our [LIC AAO Exam Guide](/guides/lic-aao-exam-guide) and [UIIC AO Exam Guide](/guides/uiic-ao-exam-guide).
+If you're exploring other insurance-sector exams, also check out our [LIC AAO Exam Guide](/guide/lic-aao-exam-guide) and [UIIC AO Exam Guide](/guide/uiic-ao-exam-guide).
 
 ---
 
@@ -107,7 +107,7 @@ The NIACL AO selection process has historically followed a three-stage structure
 - **Data Analysis & Interpretation:** Bar/Pie/Line/Table-based DI, Caselet DI, Missing Data DI, Probability, Permutation & Combination.
 - **Descriptive English:** Essay Writing, Letter Writing (Formal).
 
-For a broader view of government exam preparation, see our [SSC CGL Exam Guide](/guides/ssc-cgl-exam-guide) and [IBPS PO Exam Guide](/guides/ibps-po-exam-guide).
+For a broader view of government exam preparation, see our [SSC CGL Exam Guide](/guide/ssc-cgl-exam-guide) and [IBPS PO Exam Guide](/guide/ibps-po-exam-guide).
 
 ---
 
@@ -228,7 +228,7 @@ Past recruitments have not mentioned a mandatory service bond, but this can vary
 
 ### Q7: How is NIACL AO different from LIC AAO?
 
-NIACL is a **general insurance** company while LIC is a **life insurance** company. The exam patterns are similar but administered by different organizations with separate pay structures and job roles. See our [LIC AAO Exam Guide](/guides/lic-aao-exam-guide) for a detailed comparison.
+NIACL is a **general insurance** company while LIC is a **life insurance** company. The exam patterns are similar but administered by different organizations with separate pay structures and job roles. See our [LIC AAO Exam Guide](/guide/lic-aao-exam-guide) for a detailed comparison.
 
 ---
 

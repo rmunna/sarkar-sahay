@@ -199,9 +199,9 @@ Swimming is a mandatory skill in the Indian Navy. If you can't swim, start learn
 
 ## Related Guides
 
-- [Indian Army Agniveer Guide](/guides/agniveer-army-recruitment-guide) — Army Agniveer recruitment
-- [Indian Air Force Agniveer Guide](/guides/agniveer-airforce-recruitment-guide) — Air Force Agniveer recruitment
-- [RRB Group D Exam Guide](/guides/rrb-group-d-exam-guide) — Railway recruitment for 10th pass
+- [Indian Army Agniveer Guide](/guide/agniveer-army-recruitment-guide) — Army Agniveer recruitment
+- [Indian Air Force Agniveer Guide](/guide/agniveer-airforce-recruitment-guide) — Air Force Agniveer recruitment
+- [RRB Group D Exam Guide](/guide/rrb-group-d-exam-guide) — Railway recruitment for 10th pass
 
 ## Frequently Asked Questions
 

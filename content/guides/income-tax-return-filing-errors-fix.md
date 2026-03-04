@@ -236,6 +236,6 @@ If the error persists after trying the above fixes:
 
 ## Related Guides
 
-- [Income Tax Portal Not Working — How to Fix](/guides/income-tax-portal-not-working-fix)
-- [Income Tax Refund Not Received — How to Fix](/guides/income-tax-refund-not-received-fix)
-- [GST Return Filing Errors — How to Fix](/guides/gst-return-filing-errors-fix)
+- [Income Tax Portal Not Working — How to Fix](/guide/income-tax-portal-not-working-fix)
+- [Income Tax Refund Not Received — How to Fix](/guide/income-tax-refund-not-received-fix)
+- [GST Return Filing Errors — How to Fix](/guide/gst-return-filing-errors-fix)

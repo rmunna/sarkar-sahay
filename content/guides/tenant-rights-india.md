@@ -125,7 +125,7 @@ In many cities, especially metros like Mumbai, Bangalore, and Delhi, landlords d
 
 - Always get a **written receipt** for the deposit paid
 - Document the **condition of the property** with photos/videos at move-in and move-out
-- Ensure the deposit amount and refund terms are mentioned in the [rent agreement](/guides/rent-agreement-registration)
+- Ensure the deposit amount and refund terms are mentioned in the [rent agreement](/guide/rent-agreement-registration)
 - If the landlord refuses to refund, approach the **Rent Authority** or file a case in consumer court
 
 ---
@@ -213,7 +213,7 @@ If you face issues with your landlord, these are your options:
 
 ## Important Tips for Tenants
 
-1. **Always have a written rental agreement** — Get it [registered](/guides/rent-agreement-registration) for legal validity
+1. **Always have a written rental agreement** — Get it [registered](/guide/rent-agreement-registration) for legal validity
 2. **Keep copies of all documents** — Agreement, rent receipts, deposit receipts, communication records
 3. **Document property condition** — Take timestamped photos/videos at move-in and move-out
 4. **Pay rent via bank transfer** — Digital payments create an automatic record
@@ -226,10 +226,10 @@ If you face issues with your landlord, these are your options:
 
 ## Related Guides
 
-- [Rent Agreement Registration — Process, Format & Stamp Duty](/guides/rent-agreement-registration)
-- [Property Registration Online — Step-by-Step Guide](/guides/property-registration-online)
-- [Property Tax Payment Online](/guides/property-tax-payment-online)
-- [Freehold vs Leasehold Property](/guides/freehold-vs-leasehold-property)
+- [Rent Agreement Registration — Process, Format & Stamp Duty](/guide/rent-agreement-registration)
+- [Property Registration Online — Step-by-Step Guide](/guide/property-registration-online)
+- [Property Tax Payment Online](/guide/property-tax-payment-online)
+- [Freehold vs Leasehold Property](/guide/freehold-vs-leasehold-property)
 
 ---
 
@@ -256,7 +256,7 @@ First, send a **written notice** (email or registered post) demanding the refund
 
 ### Is a verbal rental agreement valid in India?
 
-While verbal agreements have limited legal standing, they are **difficult to enforce in court**. The Model Tenancy Act 2021 mandates a **written tenancy agreement** submitted to the Rent Authority. Always insist on a [written and registered agreement](/guides/rent-agreement-registration).
+While verbal agreements have limited legal standing, they are **difficult to enforce in court**. The Model Tenancy Act 2021 mandates a **written tenancy agreement** submitted to the Rent Authority. Always insist on a [written and registered agreement](/guide/rent-agreement-registration).
 
 ### Can a tenant claim ownership of the property after living there for many years?
 

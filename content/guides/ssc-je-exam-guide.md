@@ -255,9 +255,9 @@ SSC generally conducts the JE exam **annually**, but schedules can shift. Refer 
 
 ## Related Guides
 
-- [SSC CGL Exam Guide](/guides/ssc-cgl-exam-guide) — Combined Graduate Level exam for graduates
-- [SSC CHSL Exam Guide](/guides/ssc-chsl-exam-guide) — Combined Higher Secondary Level exam
-- [SSC MTS Exam Guide](/guides/ssc-mts-exam-guide) — Multi Tasking Staff exam
+- [SSC CGL Exam Guide](/guide/ssc-cgl-exam-guide) — Combined Graduate Level exam for graduates
+- [SSC CHSL Exam Guide](/guide/ssc-chsl-exam-guide) — Combined Higher Secondary Level exam
+- [SSC MTS Exam Guide](/guide/ssc-mts-exam-guide) — Multi Tasking Staff exam
 
 ---
 

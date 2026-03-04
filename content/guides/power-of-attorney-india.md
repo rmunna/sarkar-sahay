@@ -201,8 +201,8 @@ NRIs frequently use POA to manage property and financial matters in India. Speci
 
 ## Related Guides
 
-- [Property Mutation Online – How to Transfer Property Name in Revenue Records](/guides/property-mutation-online)
-- [Rent Agreement Registration in India – Process, Format & Stamp Duty](/guides/rent-agreement-registration)
+- [Property Mutation Online – How to Transfer Property Name in Revenue Records](/guide/property-mutation-online)
+- [Rent Agreement Registration in India – Process, Format & Stamp Duty](/guide/rent-agreement-registration)
 
 ---
 

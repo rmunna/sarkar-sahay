@@ -151,7 +151,7 @@ You can apply for a **PAN card reprint** (not a new application):
 - **NSDL:** Apply at [Protean PAN Reprint](https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html) — Fee: ₹50 (domestic)
 - **UTIITSL:** Apply at [UTIITSL PAN Portal](https://www.pan.utiitsl.com/) — Fee: ₹50 (domestic)
 
-> For a detailed guide, see: [PAN Card Not Received by Post — How to Fix](/guides/pan-card-not-received-by-post-fix)
+> For a detailed guide, see: [PAN Card Not Received by Post — How to Fix](/guide/pan-card-not-received-by-post-fix)
 
 ---
 
@@ -216,8 +216,8 @@ Yes, if you have their acknowledgement number. The tracking portal does not requ
 
 ## Related Guides
 
-- [PAN Aadhaar Link Failed — How to Fix](/guides/pan-aadhaar-link-failed-fix)
-- [PAN Card Not Received by Post — How to Fix](/guides/pan-card-not-received-by-post-fix)
+- [PAN Aadhaar Link Failed — How to Fix](/guide/pan-aadhaar-link-failed-fix)
+- [PAN Card Not Received by Post — How to Fix](/guide/pan-card-not-received-by-post-fix)
 
 ---
 

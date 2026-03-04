@@ -24,7 +24,7 @@ officialLinks:
 
 Filling the NEET UG application form on the NTA website can be stressful — and small mistakes or technical glitches can block your submission. This guide covers every common error candidates face and the exact steps to fix them.
 
-> **Related:** [NEET UG Exam Guide — Complete Details](/guides/neet-ug-exam-guide)
+> **Related:** [NEET UG Exam Guide — Complete Details](/guide/neet-ug-exam-guide)
 
 ---
 

@@ -195,8 +195,8 @@ Start a fitness routine early — running, push-ups, sit-ups, and sports. SSB te
 | For | All three services | All three services |
 
 **Related guides:**
-- [UPSC CDS Exam Guide](/guides/upsc-cds-exam-guide) — for graduates looking to join defence forces
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — explore other government career paths
+- [UPSC CDS Exam Guide](/guide/upsc-cds-exam-guide) — for graduates looking to join defence forces
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — explore other government career paths
 
 ## Frequently Asked Questions
 

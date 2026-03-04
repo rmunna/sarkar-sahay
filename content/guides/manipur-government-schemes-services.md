@@ -56,7 +56,7 @@ CMHT is Manipur's flagship health assurance scheme providing **cashless treatmen
 - **How to enrol:** Visit the nearest Common Service Centre (CSC) or CMHT enrolment camp with Aadhaar card and ration card
 - **Portal:** [cmhtmanipur.gov.in](https://cmhtmanipur.gov.in)
 
-> 💡 Also see our guide on [Ayushman Bharat – PMJAY](/guides/ayushman-bharat-pmjay-health-card) for the central scheme component.
+> 💡 Also see our guide on [Ayushman Bharat – PMJAY](/guide/ayushman-bharat-pmjay-health-card) for the central scheme component.
 
 ---
 
@@ -80,7 +80,7 @@ Launched under the **Go to Village** initiative, this mission focuses on improvi
 - State scholarships are available for SC/ST/OBC students through the **Directorate of University & Higher Education**
 - **Post-Matric Scholarship** for SC/ST students: Apply through the [National Scholarship Portal](https://scholarships.gov.in)
 
-> 💡 Check our [Education Scholarships Guide](/guides/scholarships-education-india) for central and state scholarship details.
+> 💡 Check our [Education Scholarships Guide](/guide/scholarships-education-india) for central and state scholarship details.
 
 ---
 
@@ -150,7 +150,7 @@ Manipur is renowned for its exquisite handloom and handicraft traditions. The **
 
 **Portal:** [dhtmanipur.mn.gov.in](https://dhtmanipur.mn.gov.in)
 
-> 💡 Weavers can also apply for benefits under [MUDRA Loan Scheme](/guides/mudra-loan-yojana) for working capital needs.
+> 💡 Weavers can also apply for benefits under [MUDRA Loan Scheme](/guide/mudra-loan-yojana) for working capital needs.
 
 ---
 
@@ -178,7 +178,7 @@ MPSC conducts recruitment examinations for state civil services and departmental
 - **Syllabus:** Available on the MPSC website for each post
 - **Recent recruitments:** Posts in Handloom & Textile Department, Education, and other state departments
 
-> 💡 Preparing for government exams? See our [Sarkari Naukri Guide](/guides/sarkari-naukri-government-jobs) for tips and resources.
+> 💡 Preparing for government exams? See our [Sarkari Naukri Guide](/guide/sarkari-naukri-government-jobs) for tips and resources.
 
 ---
 
@@ -204,7 +204,7 @@ The **e-District Manipur** portal enables citizens to apply for certificates, pe
 5. Pay applicable fees online
 6. Track application status using the reference number
 
-> 💡 For general guidance, see our [e-District Portal Guide](/guides/e-district-portal-online-certificates).
+> 💡 For general guidance, see our [e-District Portal Guide](/guide/e-district-portal-online-certificates).
 
 ---
 
@@ -233,7 +233,7 @@ Most Manipur government schemes follow a common application process:
 5. **Track status** – Use the application reference number on the respective portal
 6. **Go to Village/Hills camps** – Attend government outreach camps for on-the-spot enrolment
 
-> 💡 Need help with documents? Check our guides on [Aadhaar Card](/guides/aadhaar-card-complete-guide) and [Income Certificate](/guides/income-certificate-online-apply).
+> 💡 Need help with documents? Check our guides on [Aadhaar Card](/guide/aadhaar-card-complete-guide) and [Income Certificate](/guide/income-certificate-online-apply).
 
 ---
 

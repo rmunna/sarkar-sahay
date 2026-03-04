@@ -135,7 +135,7 @@ After fixing the rejection reason, follow these steps:
 
 > **Important:** If your previous application was rejected, you can re-apply immediately after fixing the issue. No waiting period.
 
-For slot booking issues, see our guide: [Driving Licence Slot Not Available — How to Fix](/guides/driving-licence-slot-not-available-fix)
+For slot booking issues, see our guide: [Driving Licence Slot Not Available — How to Fix](/guide/driving-licence-slot-not-available-fix)
 
 ---
 
@@ -206,7 +206,7 @@ Apply for a **transfer + renewal** on the Sarathi portal of your current state. 
 - **With RTO visit:** 7–30 days depending on state and slot availability
 
 ### How do I track my renewal application status?
-Use the Sarathi portal's **"Application Status"** feature with your application number. For a detailed walkthrough, see: [How to Check Driving Licence Status](/guides/driving-licence-status-check)
+Use the Sarathi portal's **"Application Status"** feature with your application number. For a detailed walkthrough, see: [How to Check Driving Licence Status](/guide/driving-licence-status-check)
 
 ### Is there a fee for re-applying after rejection?
 In most states, you'll need to pay the application fee again. Some states allow re-submission without additional payment if the rejection was due to an RTO-side error.

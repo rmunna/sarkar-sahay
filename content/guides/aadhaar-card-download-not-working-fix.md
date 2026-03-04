@@ -63,9 +63,9 @@ This is the most common issue. Quick fixes:
 3. Check if **DND (Do Not Disturb)** is active on your number — disable it via your telecom provider.
 4. Ensure you have proper **network signal** — try switching between Wi-Fi and mobile data.
 5. Don't request OTP more than **3 times in 24 hours** — you may get temporarily blocked.
-6. If your mobile number is not linked, visit your nearest [Aadhaar Enrolment Centre](/guides/find-nearest-aadhaar-centre-google-maps) to update it.
+6. If your mobile number is not linked, visit your nearest [Aadhaar Enrolment Centre](/guide/find-nearest-aadhaar-centre-google-maps) to update it.
 
-> 📖 **Detailed guide:** [Aadhaar OTP Not Coming? 8 Quick Fixes](/guides/aadhaar-otp-not-received-fix)
+> 📖 **Detailed guide:** [Aadhaar OTP Not Coming? 8 Quick Fixes](/guide/aadhaar-otp-not-received-fix)
 
 ### 3. "Invalid VID" or VID Expired
 
@@ -139,7 +139,7 @@ Follow these steps on the official portal:
 7. Click **"Download"** — the PDF will be saved to your device
 8. Open the PDF with the **password** (first 4 letters of name in caps + birth year)
 
-> 📖 **Full walkthrough:** [How to Download e-Aadhaar Card PDF Online](/guides/aadhaar-card-download-online)
+> 📖 **Full walkthrough:** [How to Download e-Aadhaar Card PDF Online](/guide/aadhaar-card-download-online)
 
 ---
 
@@ -179,7 +179,7 @@ If the website isn't working, use the official **mAadhaar app**:
 
 - ✅ **Bookmark** [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in) — avoid Googling and clicking on fake/phishing sites
 - ✅ e-Aadhaar PDF is **legally valid** and accepted everywhere — you don't need the physical card
-- ✅ If your mobile number isn't linked, visit an [Aadhaar centre](/guides/find-nearest-aadhaar-centre-google-maps) to update it first
+- ✅ If your mobile number isn't linked, visit an [Aadhaar centre](/guide/find-nearest-aadhaar-centre-google-maps) to update it first
 - ✅ Keep your **VID handy** — it's safer to share than your actual Aadhaar number
 - ⚠️ Never download Aadhaar from **third-party websites** — they may steal your data
 - ⚠️ UIDAI **never asks for money** to download e-Aadhaar — it's completely free
@@ -203,23 +203,23 @@ There is no strict limit on downloads, but UIDAI may temporarily restrict if you
 
 ### Can I download Aadhaar without a registered mobile number?
 
-**No.** You need a registered mobile number to receive the OTP. If your number isn't linked, visit your nearest [Aadhaar Enrolment Centre](/guides/find-nearest-aadhaar-centre-google-maps) to update your mobile number. You can also use the **Aadhaar Enrolment ID (EID)** method if you have your enrolment slip.
+**No.** You need a registered mobile number to receive the OTP. If your number isn't linked, visit your nearest [Aadhaar Enrolment Centre](/guide/find-nearest-aadhaar-centre-google-maps) to update your mobile number. You can also use the **Aadhaar Enrolment ID (EID)** method if you have your enrolment slip.
 
 ### Is e-Aadhaar valid as ID proof?
 
-**Yes.** e-Aadhaar (the digitally signed PDF) is legally valid and accepted for all purposes — [bank KYC](/guides/aadhaar-linking-guide), government schemes, SIM activation, passport application, and more.
+**Yes.** e-Aadhaar (the digitally signed PDF) is legally valid and accepted for all purposes — [bank KYC](/guide/aadhaar-linking-guide), government schemes, SIM activation, passport application, and more.
 
 ### What if my name or details are wrong on the downloaded Aadhaar?
 
-You need to update your Aadhaar details first. Follow our guide on [Aadhaar Name Correction Online](/guides/aadhaar-name-correction-online) or [Aadhaar Address Change Online](/guides/aadhaar-address-change-online), then download again after the update is processed.
+You need to update your Aadhaar details first. Follow our guide on [Aadhaar Name Correction Online](/guide/aadhaar-name-correction-online) or [Aadhaar Address Change Online](/guide/aadhaar-address-change-online), then download again after the update is processed.
 
 ### Can I download someone else's Aadhaar card?
 
-**No.** You can only download Aadhaar for a number that has **your registered mobile number** linked to it. The OTP is sent to the registered mobile, so you must have access to that phone. For children's Aadhaar, the parent's linked mobile receives the OTP — see our [Baal Aadhaar guide](/guides/baal-aadhaar-child-aadhaar-card).
+**No.** You can only download Aadhaar for a number that has **your registered mobile number** linked to it. The OTP is sent to the registered mobile, so you must have access to that phone. For children's Aadhaar, the parent's linked mobile receives the OTP — see our [Baal Aadhaar guide](/guide/baal-aadhaar-child-aadhaar-card).
 
 ### How do I check if my mobile number is linked to Aadhaar?
 
-Go to [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in) → "Verify Aadhaar" → Enter your Aadhaar number. It will show a **masked mobile number** if one is linked. You can also check via [Aadhaar Update Mobile & Email guide](/guides/aadhaar-update-mobile-email).
+Go to [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in) → "Verify Aadhaar" → Enter your Aadhaar number. It will show a **masked mobile number** if one is linked. You can also check via [Aadhaar Update Mobile & Email guide](/guide/aadhaar-update-mobile-email).
 
 ### Why does the Aadhaar download page keep showing captcha errors?
 

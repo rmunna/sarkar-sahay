@@ -239,7 +239,7 @@ A: The transfer fee is typically ₹300–₹500 plus any applicable road tax (f
 
 ## Related Guides
 
-- [Driving Licence Renewal Rejected — How to Fix](/guides/driving-licence-renewal-rejected-fix)
+- [Driving Licence Renewal Rejected — How to Fix](/guide/driving-licence-renewal-rejected-fix)
 
 ## Summary
 

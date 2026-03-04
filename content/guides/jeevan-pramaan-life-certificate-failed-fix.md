@@ -38,7 +38,7 @@ Every year, **lakhs of pensioners** across India must submit a Digital Life Cert
 
 If your Jeevan Pramaan attempt **failed**, this guide walks you through every known issue and its fix — so your pension doesn't get disrupted.
 
-> **Related:** If your pension has already stopped or wasn't credited, see our guide on [Pension Payment Not Credited to Bank — How to Fix](/guides/pension-payment-not-credited-fix).
+> **Related:** If your pension has already stopped or wasn't credited, see our guide on [Pension Payment Not Credited to Bank — How to Fix](/guide/pension-payment-not-credited-fix).
 
 ---
 
@@ -330,7 +330,7 @@ Some pension authorities now accept life certificates via video call. Check with
 | **Super senior citizens (80+)** | Can submit from **1st October** (one month early) |
 | **Who needs it** | All pensioners — central, state, defence, family pension holders |
 
-> ⚠️ **Don't miss the deadline.** If you don't submit a life certificate, your pension will be **stopped** from the following month. If that has already happened, follow our guide on [Pension Payment Not Credited — How to Fix](/guides/pension-payment-not-credited-fix).
+> ⚠️ **Don't miss the deadline.** If you don't submit a life certificate, your pension will be **stopped** from the following month. If that has already happened, follow our guide on [Pension Payment Not Credited — How to Fix](/guide/pension-payment-not-credited-fix).
 
 ---
 

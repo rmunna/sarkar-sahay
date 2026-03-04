@@ -69,7 +69,7 @@ Designed to promote entrepreneurship among Sikkim's youth, CMSES provides **subs
 
 **Eligibility:** Sikkim domicile, age 18–45, valid business plan in approved sectors.
 
-> **Related:** [How to Apply for Government Schemes Online](/guides/how-to-apply-government-schemes-online)
+> **Related:** [How to Apply for Government Schemes Online](/guide/how-to-apply-government-schemes-online)
 
 ---
 
@@ -93,7 +93,7 @@ Sikkim became **India's first 100% organic state** in 2016 after a phased transi
 - Market linkage through organic festivals and Sikkim Organic Markets
 - Cold storage and packaging infrastructure at district level
 
-> **Related:** [Kisan Credit Card – How to Apply](/guides/kisan-credit-card-apply-online)
+> **Related:** [Kisan Credit Card – How to Apply](/guide/kisan-credit-card-apply-online)
 
 ---
 
@@ -116,7 +116,7 @@ The state counterpart to central housing schemes, SGAY provides **financial assi
 
 **How to apply:** Through Block Development Officers (BDOs) or the District Collector's office. Applications are also accepted during special housing drives.
 
-> **Related:** [Pradhan Mantri Awas Yojana – Complete Guide](/guides/pradhan-mantri-awas-yojana-pmay)
+> **Related:** [Pradhan Mantri Awas Yojana – Complete Guide](/guide/pradhan-mantri-awas-yojana-pmay)
 
 ---
 
@@ -143,7 +143,7 @@ Sikkim provides **universal free healthcare** at all government hospitals and he
 
 Beyond free government healthcare, the state also participates in **Ayushman Bharat – PMJAY** for treatment at empanelled private hospitals with coverage up to ₹5 lakh per family per year.
 
-> **Related:** [Ayushman Bharat Card – How to Apply](/guides/ayushman-bharat-pmjay-health-card)
+> **Related:** [Ayushman Bharat Card – How to Apply](/guide/ayushman-bharat-pmjay-health-card)
 
 ---
 
@@ -166,7 +166,7 @@ Financial support for meritorious students from Sikkim pursuing higher education
 - **Laptop distribution scheme** for college students
 - **Textbook and uniform grant** for government school students up to Class 12
 
-> **Related:** [National Scholarship Portal – How to Apply](/guides/national-scholarship-portal-guide)
+> **Related:** [National Scholarship Portal – How to Apply](/guide/national-scholarship-portal-guide)
 
 ---
 
@@ -191,7 +191,7 @@ The **e-District Sikkim** portal is the primary digital gateway for residents to
 4. Upload supporting documents
 5. Track application status online
 
-> **Related:** [How to Get Caste Certificate Online](/guides/caste-certificate-online-apply)
+> **Related:** [How to Get Caste Certificate Online](/guide/caste-certificate-online-apply)
 
 ---
 
@@ -231,7 +231,7 @@ SPSC conducts recruitment examinations for Group A and Group B gazetted posts in
 
 **Other recruitment:** Non-gazetted posts are recruited through the **Sikkim Subordinate Services Selection Board** and departmental notifications.
 
-> **Related:** [Sarkari Result – How to Check Government Exam Results](/guides/sarkari-result-check-online)
+> **Related:** [Sarkari Result – How to Check Government Exam Results](/guide/sarkari-result-check-online)
 
 ---
 
@@ -274,7 +274,7 @@ The **State Socio Economic Census (SSEC)** is Sikkim's own household survey — 
 - **Disability Pension:** Monthly support for persons with disabilities
 - **State food security** through subsidised ration distribution
 
-> **Related:** [Ration Card Apply Online – Complete Guide](/guides/ration-card-apply-online)
+> **Related:** [Ration Card Apply Online – Complete Guide](/guide/ration-card-apply-online)
 
 ---
 
@@ -302,7 +302,7 @@ Most Sikkim government schemes follow a common application process:
 4. **Track status** — Use the e-District portal or CM Dashboard for application tracking
 5. **Collect benefit** — Funds are transferred via DBT to your linked bank account; physical benefits distributed through block offices
 
-> **Tip:** Keep your Aadhaar linked to your bank account for faster Direct Benefit Transfer. See our guide on [Aadhaar-Bank Linking](/guides/aadhaar-bank-linking-guide).
+> **Tip:** Keep your Aadhaar linked to your bank account for faster Direct Benefit Transfer. See our guide on [Aadhaar-Bank Linking](/guide/aadhaar-bank-linking-guide).
 
 ---
 

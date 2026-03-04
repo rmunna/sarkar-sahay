@@ -169,9 +169,9 @@ Attempt at least one full-length mock test per week in exam-like conditions. Rev
 
 ## Related Guides
 
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — For candidates also exploring banking sector jobs
-- [SSC Exams Guide](/guides/ssc-exam-guide) — Central government job exams for 10th/12th pass candidates
-- [UPSC Civil Services Guide](/guides/upsc-civil-services-exam-guide) — For higher-level government service aspirations
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — For candidates also exploring banking sector jobs
+- [SSC Exams Guide](/guide/ssc-exam-guide) — Central government job exams for 10th/12th pass candidates
+- [UPSC Civil Services Guide](/guide/upsc-civil-services-exam-guide) — For higher-level government service aspirations
 
 ## Frequently Asked Questions (FAQs)
 

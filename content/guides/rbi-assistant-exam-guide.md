@@ -242,9 +242,9 @@ If the local language of your chosen state isn't your mother tongue, start pract
 | Prestige | Highest among clerical | Standard | High |
 
 **Related guides:**
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — overall banking exam strategy
-- [IBPS SO Exam Guide](/guides/ibps-so-exam-guide) — specialist officer roles in banks
-- [RRB NTPC Exam Guide](/guides/rrb-ntpc-exam-guide) — railway recruitment
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — overall banking exam strategy
+- [IBPS SO Exam Guide](/guide/ibps-so-exam-guide) — specialist officer roles in banks
+- [RRB NTPC Exam Guide](/guide/rrb-ntpc-exam-guide) — railway recruitment
 
 ## Frequently Asked Questions
 

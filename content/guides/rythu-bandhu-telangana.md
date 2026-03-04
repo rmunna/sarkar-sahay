@@ -108,7 +108,7 @@ Rythu Bandhu does not require a separate online application. Eligible farmers ar
 ## Important Tips
 
 - **Keep land records updated** — any mismatch between Dharani records and your actual ownership will delay or block payments
-- **Update Aadhaar details** if you have changed your bank account or address — use our [Aadhaar address change guide](/guides/aadhaar-address-change-online)
+- **Update Aadhaar details** if you have changed your bank account or address — use our [Aadhaar address change guide](/guide/aadhaar-address-change-online)
 - **Check before each season** — verify your details on the Rythu Bandhu portal 1-2 months before the expected payment month
 - **Joint owners** should ensure all co-owners' Aadhaar and bank details are linked correctly
 - **Resolve land disputes quickly** — disputed land parcels are excluded from the scheme until resolved

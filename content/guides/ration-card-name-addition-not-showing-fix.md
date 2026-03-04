@@ -120,7 +120,7 @@ The name may have been added but with a **spelling mistake**, **wrong Aadhaar nu
 
 **How to fix:**
 - Apply for a **name correction** through the state portal or food office
-- See our guide: [Ration Card Name Not Updated: How to Fix](/guides/ration-card-name-not-updated-fix)
+- See our guide: [Ration Card Name Not Updated: How to Fix](/guide/ration-card-name-not-updated-fix)
 
 ---
 
@@ -214,9 +214,9 @@ If the DSO office doesn't resolve your issue within 30 days:
 | Aadhaar not seeded | Visit block supply office with Aadhaar + ration card |
 | Application still pending | Check state portal; visit block office if >30 days |
 | FPS dealer refusing | Show online proof; complain to block office or call 1967 |
-| Name has spelling error | Apply for correction → [Name Not Updated Guide](/guides/ration-card-name-not-updated-fix) |
+| Name has spelling error | Apply for correction → [Name Not Updated Guide](/guide/ration-card-name-not-updated-fix) |
 | Physical card not updated | Entitlement works digitally; request reprint at block office |
-| Ration not available at other state | Check portability → [Portability Not Working Guide](/guides/ration-card-portability-not-working-fix) |
+| Ration not available at other state | Check portability → [Portability Not Working Guide](/guide/ration-card-portability-not-working-fix) |
 
 ---
 
@@ -252,5 +252,5 @@ In some states, yes — the CSC centre or food office can process both together.
 
 ## Related Guides
 
-- [Ration Card Name Not Updated: How to Fix](/guides/ration-card-name-not-updated-fix)
-- [Ration Card Portability Not Working: How to Fix](/guides/ration-card-portability-not-working-fix)
+- [Ration Card Name Not Updated: How to Fix](/guide/ration-card-name-not-updated-fix)
+- [Ration Card Portability Not Working: How to Fix](/guide/ration-card-portability-not-working-fix)

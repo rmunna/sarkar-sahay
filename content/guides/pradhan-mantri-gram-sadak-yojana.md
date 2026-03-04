@@ -152,10 +152,10 @@ You can track PMGSY road progress through these official platforms:
 
 ## Related Guides
 
-- [PM Kisan Samman Nidhi — ₹6,000 Yearly for Farmers](/guides/pm-kisan-samman-nidhi)
-- [MGNREGA — 100 Days Employment Guarantee](/guides/mgnrega-job-card-apply)
-- [Aadhaar Card — Apply Online](/guides/aadhaar-card-apply-online)
-- [Ration Card — Apply Online](/guides/ration-card-apply-online)
+- [PM Kisan Samman Nidhi — ₹6,000 Yearly for Farmers](/guide/pm-kisan-samman-nidhi)
+- [MGNREGA — 100 Days Employment Guarantee](/guide/mgnrega-job-card-apply)
+- [Aadhaar Card — Apply Online](/guide/aadhaar-card-apply-online)
+- [Ration Card — Apply Online](/guide/ration-card-apply-online)
 
 ## Frequently Asked Questions (FAQs)
 

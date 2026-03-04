@@ -276,10 +276,10 @@ During training, NDA cadets receive a **stipend of approximately ₹56,100/month
 
 ## Related Guides on CitizenNest
 
-- [How to Apply for Government Jobs Online](/guides/government-job-application-guide)
-- [UPSC CDS Exam Guide](/guides/cds-exam-preparation-guide)
-- [Indian Army Agniveer Recruitment Guide](/guides/agniveer-army-recruitment-guide)
-- [How to Get a Passport in India](/guides/passport-application-guide)
+- [How to Apply for Government Jobs Online](/guide/government-job-application-guide)
+- [UPSC CDS Exam Guide](/guide/cds-exam-preparation-guide)
+- [Indian Army Agniveer Recruitment Guide](/guide/agniveer-army-recruitment-guide)
+- [How to Get a Passport in India](/guide/passport-application-guide)
 
 ---
 

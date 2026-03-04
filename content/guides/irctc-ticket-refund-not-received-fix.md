@@ -293,7 +293,7 @@ No refund for passenger-initiated cancellation of Tatkal tickets. Refund is only
 
 ### My IRCTC account login is not working — how do I cancel?
 
-If you can't log in to cancel your ticket, first fix the login issue. See our guide: [IRCTC Account Login Problems — How to Fix](/guides/irctc-account-login-problems-fix).
+If you can't log in to cancel your ticket, first fix the login issue. See our guide: [IRCTC Account Login Problems — How to Fix](/guide/irctc-account-login-problems-fix).
 
 ### Can I cancel an e-ticket at the railway counter?
 

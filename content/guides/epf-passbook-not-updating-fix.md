@@ -74,7 +74,7 @@ You cannot view your passbook if your UAN is not activated on the member portal.
 
 Your passbook should be accessible within **24 hours** after activation.
 
-> Having trouble? See our detailed guide: [EPFO UAN Activation Failed — How to Fix](/guides/epfo-uan-activation-failed-fix)
+> Having trouble? See our detailed guide: [EPFO UAN Activation Failed — How to Fix](/guide/epfo-uan-activation-failed-fix)
 
 ---
 
@@ -134,7 +134,7 @@ If you changed jobs and your previous Member ID is not linked to your current UA
 3. Check if all your previous Member IDs are listed
 4. If any are missing, request an **EPF transfer** to consolidate
 
-> Related: [How to Transfer EPF Online After Job Change](/guides/epf-transfer-online-job-change)
+> Related: [How to Transfer EPF Online After Job Change](/guide/epf-transfer-online-job-change)
 
 ---
 
@@ -225,6 +225,6 @@ Interest may not have been credited yet (it's annual). If the issue persists aft
 
 ## Related Guides
 
-- [EPF Claim Rejected — Reasons and How to Fix](/guides/epf-claim-rejected-reasons-fix)
-- [EPFO UAN Activation Failed — How to Fix](/guides/epfo-uan-activation-failed-fix)
-- [How to Transfer EPF Online After Job Change](/guides/epf-transfer-online-job-change)
+- [EPF Claim Rejected — Reasons and How to Fix](/guide/epf-claim-rejected-reasons-fix)
+- [EPFO UAN Activation Failed — How to Fix](/guide/epfo-uan-activation-failed-fix)
+- [How to Transfer EPF Online After Job Change](/guide/epf-transfer-online-job-change)

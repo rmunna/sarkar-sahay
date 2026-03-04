@@ -196,9 +196,9 @@ PSUs typically set their own GATE score cutoffs and may conduct additional inter
 
 ## Related Guides
 
-- [RRB ALP Exam Guide](/guides/rrb-alp-exam-guide) — Technical railway recruitment
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — Government banking jobs
-- [LIC AAO Exam Guide](/guides/lic-aao-exam-guide) — Insurance sector officer recruitment
+- [RRB ALP Exam Guide](/guide/rrb-alp-exam-guide) — Technical railway recruitment
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — Government banking jobs
+- [LIC AAO Exam Guide](/guide/lic-aao-exam-guide) — Insurance sector officer recruitment
 
 ## Frequently Asked Questions
 

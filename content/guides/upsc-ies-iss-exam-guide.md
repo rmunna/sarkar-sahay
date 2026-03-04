@@ -202,8 +202,8 @@ EPW (Economic and Political Weekly), Yojana, and RBI Bulletin provide excellent 
 | Career | Group A (Central Govt.) | IAS/IPS/IFS etc. | Armed Forces |
 
 **Related guides:**
-- [UPSC CDS Exam Guide](/guides/upsc-cds-exam-guide) — for defence career aspirants
-- [IBPS SO Exam Guide](/guides/ibps-so-exam-guide) — specialist officer roles in banks
+- [UPSC CDS Exam Guide](/guide/upsc-cds-exam-guide) — for defence career aspirants
+- [IBPS SO Exam Guide](/guide/ibps-so-exam-guide) — specialist officer roles in banks
 
 ## Frequently Asked Questions
 

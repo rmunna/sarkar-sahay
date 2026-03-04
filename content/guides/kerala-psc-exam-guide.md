@@ -188,9 +188,9 @@ Since exams are OMR-based, practice filling OMR sheets to avoid errors and save 
 
 ## Related Guides
 
-- [APPSC Exam Guide](/guides/appsc-exam-guide) — Andhra Pradesh state services
-- [TSPSC Exam Guide](/guides/tspsc-exam-guide) — Telangana state services
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — Bank PO and Clerk exams
+- [APPSC Exam Guide](/guide/appsc-exam-guide) — Andhra Pradesh state services
+- [TSPSC Exam Guide](/guide/tspsc-exam-guide) — Telangana state services
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — Bank PO and Clerk exams
 
 ## Frequently Asked Questions
 

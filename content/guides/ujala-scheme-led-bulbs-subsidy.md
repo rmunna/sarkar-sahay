@@ -144,9 +144,9 @@ In March 2021, the government launched **Gram UJALA** for rural areas:
 
 ## Related Guides
 
-- [How to Get Duplicate Electricity Bill](/guides/duplicate-electricity-bill-download) — you need electricity bill to buy under UJALA
-- [Jal Jeevan Mission — Tap Water Connection](/guides/jal-jeevan-mission-tap-water) — another government utility scheme
-- [How to Apply for Gas Connection Online](/guides/png-cng-gas-connection-apply) — save on cooking fuel too
+- [How to Get Duplicate Electricity Bill](/guide/duplicate-electricity-bill-download) — you need electricity bill to buy under UJALA
+- [Jal Jeevan Mission — Tap Water Connection](/guide/jal-jeevan-mission-tap-water) — another government utility scheme
+- [How to Apply for Gas Connection Online](/guide/png-cng-gas-connection-apply) — save on cooking fuel too
 
 ## Frequently Asked Questions
 

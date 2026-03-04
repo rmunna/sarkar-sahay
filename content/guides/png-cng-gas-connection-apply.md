@@ -131,9 +131,9 @@ If online application is not available:
 
 ## Related Guides
 
-- [How to Transfer Electricity Connection](/guides/electricity-connection-transfer-name) — if you're moving to a new house
-- [How to Get Duplicate Electricity Bill](/guides/duplicate-electricity-bill-download) — you may need electricity bill as address proof
-- [How to Apply for Sewage Connection](/guides/sewage-connection-apply-online) — another utility connection for new homes
+- [How to Transfer Electricity Connection](/guide/electricity-connection-transfer-name) — if you're moving to a new house
+- [How to Get Duplicate Electricity Bill](/guide/duplicate-electricity-bill-download) — you may need electricity bill as address proof
+- [How to Apply for Sewage Connection](/guide/sewage-connection-apply-online) — another utility connection for new homes
 
 - [Apply for Gas Connection](/guide/lpg-gas-connection-apply-online)
 - [Apply for LPG Subsidy & Ujjwala Yojana](/guide/lpg-subsidy-ujjwala-yojana)

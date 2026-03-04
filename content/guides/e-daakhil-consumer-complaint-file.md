@@ -168,9 +168,9 @@ No. You can file a consumer complaint for any amount. However, for very small am
 
 ## Related Guides
 
-- [How to Check Land Records Online](/guides/land-records-online-all-states)
-- [Police Verification Certificate Guide](/guides/police-verification-certificate-guide)
-- [DigiLocker — Digitize Your Documents](/guides/digilocker-documents-download)
+- [How to Check Land Records Online](/guide/land-records-online-all-states)
+- [Police Verification Certificate Guide](/guide/police-verification-certificate-guide)
+- [DigiLocker — Digitize Your Documents](/guide/digilocker-documents-download)
 
 - [File Consumer Complaint](/guide/consumer-complaint-online)
 - [File Consumer Forum Complaint via e-Daakhil Portal](/guide/consumer-forum-complaint-edaakhil)

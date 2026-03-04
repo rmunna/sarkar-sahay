@@ -1,34 +1,34 @@
 {
-  "scannedAt": "2026-03-03T20:14:58.526980",
+  "scannedAt": "2026-03-04T08:36:58.470079",
   "results": [
     {
-      "topic": "icai result",
+      "topic": "ap ssc hall ticket download 2026",
       "category": "Jobs",
-      "rising_value": 1400,
-      "guide_exists": null
+      "rising_value": 1350,
+      "guide_exists": "ssc-exam-apply-hall-ticket"
     },
     {
       "topic": "icai result jan 2026",
       "category": "Jobs",
-      "rising_value": 1100,
+      "rising_value": 1050,
       "guide_exists": null
     },
     {
       "topic": "ca final result",
       "category": "Jobs",
-      "rising_value": 1000,
+      "rising_value": 850,
       "guide_exists": null
     },
     {
-      "topic": "ap ssc hall ticket download 2026",
+      "topic": "icai result",
       "category": "Jobs",
-      "rising_value": 1000,
-      "guide_exists": "ssc-exam-apply-hall-ticket"
+      "rising_value": 850,
+      "guide_exists": null
     },
     {
       "topic": "sainik school result 2026",
       "category": "Jobs",
-      "rising_value": 750,
+      "rising_value": 800,
       "guide_exists": "sainik-school-aissee-result-2026"
     },
     {
@@ -40,35 +40,29 @@
     {
       "topic": "kvs nvs result 2026",
       "category": "Jobs",
-      "rising_value": 450,
+      "rising_value": 500,
       "guide_exists": "kvs-nvs-recruitment-result-2026"
     },
     {
       "topic": "kvs nvs result",
       "category": "Jobs",
-      "rising_value": 400,
+      "rising_value": 450,
       "guide_exists": "kvs-nvs-recruitment-result-2026"
     },
     {
       "topic": "madras university result 2026",
       "category": "Jobs",
-      "rising_value": 400,
+      "rising_value": 450,
       "guide_exists": "madras-university-result-2026"
     },
     {
       "topic": "sarkari job marg",
       "category": "Jobs",
-      "rising_value": 350,
+      "rising_value": 400,
       "guide_exists": null
     },
     {
       "topic": "sarkari stop",
-      "category": "Jobs",
-      "rising_value": 200,
-      "guide_exists": null
-    },
-    {
-      "topic": "icai",
       "category": "Jobs",
       "rising_value": 190,
       "guide_exists": null
@@ -76,19 +70,25 @@
     {
       "topic": "vtu results",
       "category": "Jobs",
-      "rising_value": 180,
+      "rising_value": 190,
+      "guide_exists": null
+    },
+    {
+      "topic": "icai",
+      "category": "Jobs",
+      "rising_value": 160,
       "guide_exists": null
     },
     {
       "topic": "osm cbse login",
       "category": "Jobs",
-      "rising_value": 140,
+      "rising_value": 130,
       "guide_exists": "cbse-on-screen-marking-osm-login-guide"
     },
     {
       "topic": "cbse on screen marking",
       "category": "Jobs",
-      "rising_value": 70,
+      "rising_value": 80,
       "guide_exists": "cbse-on-screen-marking-osm-login-guide"
     },
     {
@@ -99,6 +99,18 @@
     },
     {
       "topic": "kpsc",
+      "category": "Jobs",
+      "rising_value": 60,
+      "guide_exists": null
+    },
+    {
+      "topic": "rrb group d",
+      "category": "Jobs",
+      "rising_value": 60,
+      "guide_exists": "rrb-group-d-exam-guide"
+    },
+    {
+      "topic": "sarkari results",
       "category": "Jobs",
       "rising_value": 50,
       "guide_exists": null
@@ -106,37 +118,31 @@
   ],
   "opportunities": [
     {
-      "topic": "icai result",
-      "category": "Jobs",
-      "rising_value": 1400,
-      "guide_exists": null
-    },
-    {
       "topic": "icai result jan 2026",
       "category": "Jobs",
-      "rising_value": 1100,
+      "rising_value": 1050,
       "guide_exists": null
     },
     {
       "topic": "ca final result",
       "category": "Jobs",
-      "rising_value": 1000,
+      "rising_value": 850,
+      "guide_exists": null
+    },
+    {
+      "topic": "icai result",
+      "category": "Jobs",
+      "rising_value": 850,
       "guide_exists": null
     },
     {
       "topic": "sarkari job marg",
       "category": "Jobs",
-      "rising_value": 350,
+      "rising_value": 400,
       "guide_exists": null
     },
     {
       "topic": "sarkari stop",
-      "category": "Jobs",
-      "rising_value": 200,
-      "guide_exists": null
-    },
-    {
-      "topic": "icai",
       "category": "Jobs",
       "rising_value": 190,
       "guide_exists": null
@@ -144,7 +150,13 @@
     {
       "topic": "vtu results",
       "category": "Jobs",
-      "rising_value": 180,
+      "rising_value": 190,
+      "guide_exists": null
+    },
+    {
+      "topic": "icai",
+      "category": "Jobs",
+      "rising_value": 160,
       "guide_exists": null
     },
     {
@@ -155,6 +167,12 @@
     },
     {
       "topic": "kpsc",
+      "category": "Jobs",
+      "rising_value": 60,
+      "guide_exists": null
+    },
+    {
+      "topic": "sarkari results",
       "category": "Jobs",
       "rising_value": 50,
       "guide_exists": null
@@ -164,13 +182,13 @@
     {
       "topic": "ap ssc hall ticket download 2026",
       "category": "Jobs",
-      "rising_value": 1000,
+      "rising_value": 1350,
       "guide_exists": "ssc-exam-apply-hall-ticket"
     },
     {
       "topic": "sainik school result 2026",
       "category": "Jobs",
-      "rising_value": 750,
+      "rising_value": 800,
       "guide_exists": "sainik-school-aissee-result-2026"
     },
     {
@@ -182,32 +200,38 @@
     {
       "topic": "kvs nvs result 2026",
       "category": "Jobs",
-      "rising_value": 450,
+      "rising_value": 500,
       "guide_exists": "kvs-nvs-recruitment-result-2026"
     },
     {
       "topic": "kvs nvs result",
       "category": "Jobs",
-      "rising_value": 400,
+      "rising_value": 450,
       "guide_exists": "kvs-nvs-recruitment-result-2026"
     },
     {
       "topic": "madras university result 2026",
       "category": "Jobs",
-      "rising_value": 400,
+      "rising_value": 450,
       "guide_exists": "madras-university-result-2026"
     },
     {
       "topic": "osm cbse login",
       "category": "Jobs",
-      "rising_value": 140,
+      "rising_value": 130,
       "guide_exists": "cbse-on-screen-marking-osm-login-guide"
     },
     {
       "topic": "cbse on screen marking",
       "category": "Jobs",
-      "rising_value": 70,
+      "rising_value": 80,
       "guide_exists": "cbse-on-screen-marking-osm-login-guide"
+    },
+    {
+      "topic": "rrb group d",
+      "category": "Jobs",
+      "rising_value": 60,
+      "guide_exists": "rrb-group-d-exam-guide"
     }
   ]
 }

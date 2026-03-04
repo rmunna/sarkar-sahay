@@ -271,5 +271,5 @@ The interview carries **275 marks** out of 2025 total. It can make or break your
 ---
 
 **Related Guides:**
-- [SSC CGL Exam Guide](/guides/ssc-cgl-exam-guide)
-- [Government Job Preparation Tips](/guides/government-job-preparation-tips)
+- [SSC CGL Exam Guide](/guide/ssc-cgl-exam-guide)
+- [Government Job Preparation Tips](/guide/government-job-preparation-tips)

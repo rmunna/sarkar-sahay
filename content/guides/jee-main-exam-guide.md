@@ -255,4 +255,4 @@ The information in this guide is based on previous years' NTA notifications and 
 
 ---
 
-*Looking for more exam guides? Check out our [NEET UG Exam Guide](/guides/neet-ug-exam-guide) and [SSC CGL Exam Guide](/guides/ssc-cgl-exam-guide) for other popular competitive exams.*
+*Looking for more exam guides? Check out our [NEET UG Exam Guide](/guide/neet-ug-exam-guide) and [SSC CGL Exam Guide](/guide/ssc-cgl-exam-guide) for other popular competitive exams.*

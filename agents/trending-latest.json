@@ -1,40 +1,49 @@
 {
-  "scannedAt": "2026-03-03T14:44:59.497Z",
+  "scannedAt": "2026-03-04T03:06:59.130Z",
   "govtTrends": [
     {
-      "title": "copa del rey",
-      "traffic": "5000+",
-      "pubDate": "Tue, 3 Mar 2026 06:20:00 -0800",
-      "newsTitle": "✅ Misión remontada. La lista de Flick para el milagro ante el Atlético",
+      "title": "gwanghwamun square",
+      "traffic": "200+",
+      "pubDate": "Tue, 3 Mar 2026 18:50:00 -0800",
+      "newsTitle": "Land Ministry Halts Seoul's 'Garden of Gratitude' Project Over Legal Violations",
       "source": "google_trends",
-      "suggestedSlug": "copa-del-rey",
+      "suggestedSlug": "gwanghwamun-square",
       "guideExists": false
     },
     {
-      "title": "t 20 2026 world cup",
+      "title": "lokmat",
+      "traffic": "200+",
+      "pubDate": "Tue, 3 Mar 2026 18:50:00 -0800",
+      "newsTitle": "Bench orders suspension period to be treated as ‘service period’",
+      "source": "google_trends",
+      "suggestedSlug": "lokmat",
+      "guideExists": false
+    },
+    {
+      "title": "zee business live",
       "traffic": "500+",
-      "pubDate": "Tue, 3 Mar 2026 06:00:00 -0800",
-      "newsTitle": "Match officials for T20 World Cup 2026 semi-finals announced",
+      "pubDate": "Tue, 3 Mar 2026 18:40:00 -0800",
+      "newsTitle": "5 Stocks to BUY: Brokerage sees up to 38% upside; HDFC Bank, Bharti Airtel among top picks — check full list inside",
       "source": "google_trends",
-      "suggestedSlug": "t-20-2026-world-cup",
+      "suggestedSlug": "zee-business-live",
       "guideExists": false
     },
     {
-      "title": "t20 match schedule",
+      "title": "cnbc awaaz live",
       "traffic": "200+",
-      "pubDate": "Tue, 3 Mar 2026 05:40:00 -0800",
-      "newsTitle": "Sam Curran insists India T20 World Cup semi-final holds ‘no fear’ for England",
+      "pubDate": "Tue, 3 Mar 2026 18:30:00 -0800",
+      "newsTitle": "HDFC Bank to charge for UPI ATM withdrawals in these cases from April 1",
       "source": "google_trends",
-      "suggestedSlug": "t20-match-schedule",
+      "suggestedSlug": "cnbc-awaaz-live",
       "guideExists": false
     },
     {
-      "title": "garan",
-      "traffic": "200+",
-      "pubDate": "Tue, 3 Mar 2026 05:20:00 -0800",
-      "newsTitle": "GARANTİ BANKASI (GARAN) 03 Mart Salı 2026 Günlük Teknik Analiz",
+      "title": "holi special",
+      "traffic": "100+",
+      "pubDate": "Tue, 3 Mar 2026 18:20:00 -0800",
+      "newsTitle": "Holi Special Bumper Lottery! Nagaland Sambad Result Today, 3-3-2026: Dear 1PM Tuesday Weekly Lucky Draw Winner",
       "source": "google_trends",
-      "suggestedSlug": "garan",
+      "suggestedSlug": "holi-special",
       "guideExists": false
     }
   ],

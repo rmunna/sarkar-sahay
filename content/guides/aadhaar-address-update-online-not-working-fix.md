@@ -57,7 +57,7 @@ Updating your address on Aadhaar online through the SSUP (Self-Service Update Po
 - If OTP arrives late, note that it is **valid for 10 minutes** from generation.
 - If the issue persists, try again after 24 hours — UIDAI may temporarily block OTP after multiple failed attempts.
 
-> 📖 **Detailed fix:** [Aadhaar OTP Not Received — Complete Fix Guide](/guides/aadhaar-otp-not-received-fix)
+> 📖 **Detailed fix:** [Aadhaar OTP Not Received — Complete Fix Guide](/guide/aadhaar-otp-not-received-fix)
 
 ### 3. Address Proof Document Rejected
 
@@ -80,7 +80,7 @@ Updating your address on Aadhaar online through the SSUP (Self-Service Update Po
 - Ensure all **four corners are visible**, text is legible, and the document is not cropped or blurred.
 - The address on the document must **exactly match** what you type in the update form — including pin code, spelling, and locality name.
 
-> 📖 **Related:** [Aadhaar Address Update Rejected — Reasons & Fix](/guides/aadhaar-address-update-rejected-fix)
+> 📖 **Related:** [Aadhaar Address Update Rejected — Reasons & Fix](/guide/aadhaar-address-update-rejected-fix)
 
 ### 4. VID (Virtual ID) Not Accepted
 

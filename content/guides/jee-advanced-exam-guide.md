@@ -165,7 +165,7 @@ JEE Advanced tests deep understanding, not rote learning. Focus on **why** a con
 ### 7. Revision is Key
 Keep short notes and formula sheets. Revise weekly. The last month before the exam should be **mostly revision and mock tests**.
 
-Also see our [JEE Main Exam Guide](/guides/jee-main-exam-guide) for the first stage of the JEE process.
+Also see our [JEE Main Exam Guide](/guide/jee-main-exam-guide) for the first stage of the JEE process.
 
 ---
 
@@ -243,7 +243,7 @@ Approximately ₹2,800 for general/OBC candidates and ₹1,400 for SC/ST/PwD/fem
 - [JEE Advanced Official Website](https://jeeadv.ac.in)
 - [JoSAA Counselling Portal](https://josaa.nic.in)
 - [JEE Main Official Website](https://jeemain.nta.nic.in)
-- [JEE Main Exam Guide](/guides/jee-main-exam-guide)
+- [JEE Main Exam Guide](/guide/jee-main-exam-guide)
 
 ---
 

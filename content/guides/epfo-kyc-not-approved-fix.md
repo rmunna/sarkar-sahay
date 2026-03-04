@@ -229,8 +229,8 @@ If your employer ignores repeated requests:
 
 ## Related Guides
 
-- [EPFO UAN Activation Failed — How to Fix](/guides/epfo-uan-activation-failed-fix)
-- [EPF Claim Rejected — Common Reasons and How to Fix](/guides/epf-claim-rejected-reasons-fix)
+- [EPFO UAN Activation Failed — How to Fix](/guide/epfo-uan-activation-failed-fix)
+- [EPF Claim Rejected — Common Reasons and How to Fix](/guide/epf-claim-rejected-reasons-fix)
 
 ---
 

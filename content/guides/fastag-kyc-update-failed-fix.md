@@ -146,7 +146,7 @@ Even after successful KYC, you may face toll problems:
 ## Related Issues
 
 If your FASTag recharge is failing or balance isn't updating after top-up, see our detailed guide:
-👉 [FASTag Recharge Failed: How to Fix](/guides/fastag-recharge-failed-fix)
+👉 [FASTag Recharge Failed: How to Fix](/guide/fastag-recharge-failed-fix)
 
 ## Frequently Asked Questions
 

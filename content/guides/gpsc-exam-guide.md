@@ -175,9 +175,9 @@ Read Gujarat Samachar or Divya Bhaskar (Gujarati edition). Follow Gujarat Budget
 
 ## Related Guides
 
-- [UPSC Civil Services Guide](/guides/upsc-civil-services-exam-guide) — All-India civil services
-- [HPSC Exam Guide](/guides/hpsc-exam-guide) — Haryana state civil services
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — Banking career opportunities
+- [UPSC Civil Services Guide](/guide/upsc-civil-services-exam-guide) — All-India civil services
+- [HPSC Exam Guide](/guide/hpsc-exam-guide) — Haryana state civil services
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — Banking career opportunities
 
 ## Frequently Asked Questions (FAQs)
 

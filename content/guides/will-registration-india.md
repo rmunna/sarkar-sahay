@@ -178,9 +178,9 @@ A registered will can also be revoked — registration does not make it irrevoca
 
 ## Will Registration vs. Legal Heir Certificate
 
-If a person dies **without a will** (intestate), the family needs a [Legal Heir Certificate](/guides/legal-heir-certificate-apply) to claim the deceased's property and assets. A registered will simplifies inheritance significantly and can reduce the need for lengthy legal proceedings.
+If a person dies **without a will** (intestate), the family needs a [Legal Heir Certificate](/guide/legal-heir-certificate-apply) to claim the deceased's property and assets. A registered will simplifies inheritance significantly and can reduce the need for lengthy legal proceedings.
 
-**Related Guide:** [How to Apply for a Legal Heir Certificate](/guides/legal-heir-certificate-apply)
+**Related Guide:** [How to Apply for a Legal Heir Certificate](/guide/legal-heir-certificate-apply)
 
 ## Frequently Asked Questions (FAQs)
 

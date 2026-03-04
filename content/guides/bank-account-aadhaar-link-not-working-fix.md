@@ -157,7 +157,7 @@ When your bank tries OTP-based Aadhaar authentication and the OTP doesn't arrive
 3. **Wait and retry:** If it's a server issue, try again after 1–2 hours.
 4. **Use biometric authentication instead:** Visit the bank branch and request biometric-based Aadhaar seeding — this doesn't need OTP at all.
 
-For more detailed OTP troubleshooting, see our guide on [Aadhaar OTP not received](/guides/aadhaar-otp-not-received-fix).
+For more detailed OTP troubleshooting, see our guide on [Aadhaar OTP not received](/guide/aadhaar-otp-not-received-fix).
 
 ---
 

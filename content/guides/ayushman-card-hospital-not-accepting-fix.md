@@ -28,7 +28,7 @@ officialLinks:
 
 # Ayushman Bharat Card Not Accepted at Hospital — How to Fix
 
-Your Ayushman Bharat (PMJAY) card is valid, your name is in the system, but the hospital still refuses to accept it. This is a different problem from a [card that isn't working or showing errors](/guides/ayushman-card-not-working-hospital-fix) — here the card itself is fine, but the **hospital is rejecting it** for other reasons.
+Your Ayushman Bharat (PMJAY) card is valid, your name is in the system, but the hospital still refuses to accept it. This is a different problem from a [card that isn't working or showing errors](/guide/ayushman-card-not-working-hospital-fix) — here the card itself is fine, but the **hospital is rejecting it** for other reasons.
 
 This guide covers every scenario where a hospital denies Ayushman card acceptance and exactly what you can do about it.
 
@@ -226,7 +226,7 @@ If a hospital wrongly refuses your Ayushman card, you have multiple ways to comp
 ### "Your card shows invalid"
 
 - This is a **card functionality issue**, not an acceptance issue
-- See our detailed guide: [Ayushman Card Not Working at Hospital — How to Fix](/guides/ayushman-card-not-working-hospital-fix)
+- See our detailed guide: [Ayushman Card Not Working at Hospital — How to Fix](/guide/ayushman-card-not-working-hospital-fix)
 
 ### "This treatment is not covered"
 
@@ -295,4 +295,4 @@ Empanelled hospitals **cannot demand deposits or advance payments** from PMJAY b
 
 ## Related Guides
 
-- [Ayushman Card Not Working at Hospital — How to Fix](/guides/ayushman-card-not-working-hospital-fix) — for card errors, eKYC failures, and system issues
+- [Ayushman Card Not Working at Hospital — How to Fix](/guide/ayushman-card-not-working-hospital-fix) — for card errors, eKYC failures, and system issues

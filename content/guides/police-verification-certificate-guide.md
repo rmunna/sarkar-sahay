@@ -178,10 +178,10 @@ Yes, NRIs can apply for PCC through the nearest Indian Embassy or Consulate, or 
 
 ## Related Guides
 
-- [How to Apply for Passport Online](/guides/passport-apply-online)
-- [How to Apply for Aadhaar Card](/guides/aadhaar-card-apply-online)
-- [DigiLocker — Digitize Your Documents](/guides/digilocker-documents-download)
-- [Indian Visa Types & How to Apply](/guides/indian-visa-types-apply-online)
+- [How to Apply for Passport Online](/guide/passport-apply-online)
+- [How to Apply for Aadhaar Card](/guide/aadhaar-card-apply-online)
+- [DigiLocker — Digitize Your Documents](/guide/digilocker-documents-download)
+- [Indian Visa Types & How to Apply](/guide/indian-visa-types-apply-online)
 
 - [Apply for Birth Certificate](/guide/birth-certificate-apply-online)
 - [Apply for Death Certificate](/guide/death-certificate-apply-online)

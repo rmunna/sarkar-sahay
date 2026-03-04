@@ -207,9 +207,9 @@ ALP requires Aye-1 medical standard — you must have perfect colour vision and 
 
 ## Related Guides
 
-- [RRB Group D Exam Guide](/guides/rrb-group-d-exam-guide) — Entry-level railway recruitment
-- [GATE Exam Guide](/guides/gate-exam-guide) — For engineering graduates seeking PSU/research careers
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — Alternative government career
+- [RRB Group D Exam Guide](/guide/rrb-group-d-exam-guide) — Entry-level railway recruitment
+- [GATE Exam Guide](/guide/gate-exam-guide) — For engineering graduates seeking PSU/research careers
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — Alternative government career
 
 ## Frequently Asked Questions
 

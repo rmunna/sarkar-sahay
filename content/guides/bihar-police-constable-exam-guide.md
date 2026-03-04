@@ -196,10 +196,10 @@ If there is no negative marking, attempt every question. Even educated guesses c
 
 ## Related Guides
 
-- [BPSC PCS Exam Guide](/guides/bpsc-pcs-exam-guide) — For higher administrative posts in Bihar
-- [UP Police Constable Exam Guide](/guides/up-police-constable-exam-guide) — Similar constable exam in UP
-- [MP Police Constable Exam Guide](/guides/mp-police-constable-exam-guide) — Police constable exam in MP
-- [SSC GD Constable Guide](/guides/ssc-gd-constable-exam-guide) — Central police forces recruitment
+- [BPSC PCS Exam Guide](/guide/bpsc-pcs-exam-guide) — For higher administrative posts in Bihar
+- [UP Police Constable Exam Guide](/guide/up-police-constable-exam-guide) — Similar constable exam in UP
+- [MP Police Constable Exam Guide](/guide/mp-police-constable-exam-guide) — Police constable exam in MP
+- [SSC GD Constable Guide](/guide/ssc-gd-constable-exam-guide) — Central police forces recruitment
 
 ## Frequently Asked Questions (FAQs)
 

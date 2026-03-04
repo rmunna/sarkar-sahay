@@ -63,7 +63,7 @@ This guide covers every common e-way bill error, how to fix it, and how to use a
 2. Re-enter the 15-digit GSTIN carefully (format: 2 digits state code + 10-digit PAN + 1 digit entity + 1 digit Z + 1 check digit)
 3. If the GSTIN was recently registered, wait **24 hours** for it to sync to the e-way bill system
 4. For composition dealers or exempt entities, confirm they are eligible for e-way bill generation
-5. If your own [GST registration was recently rejected](/guides/gst-registration-rejected-fix), you cannot generate e-way bills until re-registered
+5. If your own [GST registration was recently rejected](/guide/gst-registration-rejected-fix), you cannot generate e-way bills until re-registered
 
 ### 2. Distance Mismatch Error
 
@@ -140,7 +140,7 @@ This guide covers every common e-way bill error, how to fix it, and how to use a
 1. Use the correct **4-digit or 6-digit HSN code** based on your turnover (6-digit mandatory for turnover above ₹5 crore)
 2. Verify HSN codes at [cbic-gst.gov.in](https://cbic-gst.gov.in/) or search on the GST portal
 3. Ensure the tax rate entered matches the HSN code's prescribed rate
-4. If facing [GST return filing errors](/guides/gst-return-filing-errors-fix) due to HSN mismatch, fix the HSN in your e-way bill and returns both
+4. If facing [GST return filing errors](/guide/gst-return-filing-errors-fix) due to HSN mismatch, fix the HSN in your e-way bill and returns both
 
 ### 7. Portal Down or Technical Errors
 
@@ -311,8 +311,8 @@ For bulk generation or integration with your billing software:
 - [ ] HSN code matches the goods and tax rate
 - [ ] Part B is updated before goods movement
 - [ ] E-way bill is not expired (extend within 8-hour window if needed)
-- [ ] You are using a [valid GST registration](/guides/gst-registration-rejected-fix)
-- [ ] Your [GST returns are filed](/guides/gst-return-filing-errors-fix) and up to date (EWB is blocked if returns are pending for 2+ months)
+- [ ] You are using a [valid GST registration](/guide/gst-registration-rejected-fix)
+- [ ] Your [GST returns are filed](/guide/gst-return-filing-errors-fix) and up to date (EWB is blocked if returns are pending for 2+ months)
 
 ---
 
@@ -321,7 +321,7 @@ For bulk generation or integration with your billing software:
 Since 2019, the e-way bill system **blocks generation** if you have not filed GST returns (GSTR-3B) for **two or more consecutive months** (or quarters for QRMP filers).
 
 **How to fix:**
-1. File all pending [GSTR-3B returns](/guides/gst-return-filing-errors-fix) on the GST portal
+1. File all pending [GSTR-3B returns](/guide/gst-return-filing-errors-fix) on the GST portal
 2. Wait **24 hours** after filing for the block to be lifted on the EWB portal
 3. Try generating the e-way bill again
 
@@ -348,5 +348,5 @@ Yes, if the consignment value exceeds ₹50,000 and the movement is to a differe
 
 ## Related Guides
 
-- [GST Registration Rejected — How to Fix](/guides/gst-registration-rejected-fix)
-- [GST Return Filing Errors — How to Fix](/guides/gst-return-filing-errors-fix)
+- [GST Registration Rejected — How to Fix](/guide/gst-registration-rejected-fix)
+- [GST Return Filing Errors — How to Fix](/guide/gst-return-filing-errors-fix)

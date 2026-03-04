@@ -149,7 +149,7 @@ To apply for a new ration card, keep these documents ready:
 
 > **Tip:** Many states now support applications through **Common Service Centres (CSCs)** and **e-District portals**. Check if your state offers this option.
 
-Also read: [How to Apply for a New Ration Card — Complete Guide](/guides/ration-card-apply-online)
+Also read: [How to Apply for a New Ration Card — Complete Guide](/guide/ration-card-apply-online)
 
 ---
 
@@ -179,7 +179,7 @@ Also read: [How to Apply for a New Ration Card — Complete Guide](/guides/ratio
 6. **Check your entitlement** — Verify your monthly entitlement at [nfsa.gov.in](https://nfsa.gov.in) or through the **Mera Ration** mobile app.
 7. **eKYC verification** — Some states require periodic eKYC (biometric/OTP) at the FPS. Carry your Aadhaar when collecting grains.
 
-Related guide: [One Nation One Ration Card (ONORC) — How It Works](/guides/one-nation-one-ration-card)
+Related guide: [One Nation One Ration Card (ONORC) — How It Works](/guide/one-nation-one-ration-card)
 
 ---
 
@@ -210,10 +210,10 @@ Related guide: [One Nation One Ration Card (ONORC) — How It Works](/guides/one
 
 ## Related Guides
 
-- [How to Apply for a Ration Card Online](/guides/ration-card-apply-online)
-- [One Nation One Ration Card (ONORC) — How It Works](/guides/one-nation-one-ration-card)
-- [How to Check Ration Card Status Online](/guides/ration-card-status-check)
-- [Income Certificate — How to Apply](/guides/income-certificate-apply)
+- [How to Apply for a Ration Card Online](/guide/ration-card-apply-online)
+- [One Nation One Ration Card (ONORC) — How It Works](/guide/one-nation-one-ration-card)
+- [How to Check Ration Card Status Online](/guide/ration-card-status-check)
+- [Income Certificate — How to Apply](/guide/income-certificate-apply)
 
 ---
 

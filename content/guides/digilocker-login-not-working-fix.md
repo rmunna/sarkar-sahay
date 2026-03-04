@@ -63,7 +63,7 @@ This is the most common DigiLocker login problem. The OTP is sent to your Aadhaa
 6. **Try during off-peak hours** — DigiLocker and UIDAI servers are least loaded between 6 AM and 9 AM and after 9 PM.
 7. **Update Aadhaar mobile number** — If your number has changed, visit the nearest Aadhaar Enrolment Centre with your Aadhaar card and proof of new number. This takes 7–10 days to update.
 
-> **Note:** If your Aadhaar verification itself is failing, see our detailed guide on [DigiLocker Aadhaar Verification Failed — How to Fix](/guides/digilocker-aadhaar-verification-failed-fix).
+> **Note:** If your Aadhaar verification itself is failing, see our detailed guide on [DigiLocker Aadhaar Verification Failed — How to Fix](/guide/digilocker-aadhaar-verification-failed-fix).
 
 ---
 
@@ -143,7 +143,7 @@ After updating the DigiLocker app, some users find their documents section empty
 5. **Re-fetch documents** — Go to the "Search Documents" section, find the issuer (e.g., "Driving Licence" from your state's transport department), and re-fetch the document.
 6. **Try the web version** — Log in at [digilocker.gov.in](https://www.digilocker.gov.in/) to check if documents are visible there. If they are, the app issue is temporary.
 
-> **Related:** For detailed steps on fetching missing documents, see [DigiLocker Document Not Showing — How to Fix](/guides/digilocker-document-not-showing-fix).
+> **Related:** For detailed steps on fetching missing documents, see [DigiLocker Document Not Showing — How to Fix](/guide/digilocker-document-not-showing-fix).
 
 ---
 
@@ -247,5 +247,5 @@ This means DigiLocker or UIDAI servers are down. Wait 1–2 hours and try again.
 
 ## Related Guides
 
-- [DigiLocker Aadhaar Verification Failed — How to Fix](/guides/digilocker-aadhaar-verification-failed-fix)
-- [DigiLocker Document Not Showing — How to Fix](/guides/digilocker-document-not-showing-fix)
+- [DigiLocker Aadhaar Verification Failed — How to Fix](/guide/digilocker-aadhaar-verification-failed-fix)
+- [DigiLocker Document Not Showing — How to Fix](/guide/digilocker-document-not-showing-fix)

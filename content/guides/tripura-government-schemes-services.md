@@ -57,7 +57,7 @@ The flagship Mukhyamantri Yuba Yogayog Yojana provides **₹5,000 financial assi
 - **How to apply:** Through the official portal or designated educational institutions
 - **Official notification:** [tripura.gov.in](https://tripura.gov.in/launching-mukhyamantri-yuba-yogayog-yojana)
 
-> **Tip:** Ensure your [Aadhaar card](/guides/aadhaar-card-apply-online) is linked to your bank account for DBT transfer.
+> **Tip:** Ensure your [Aadhaar card](/guide/aadhaar-card-apply-online) is linked to your bank account for DBT transfer.
 
 ### Education Scholarships and Stipends
 
@@ -69,7 +69,7 @@ The Directorate of Higher Education runs multiple scholarship and stipend progra
 - **Boarding House Stipend** for tribal students from remote areas staying in government hostels
 - **Ishan Uday Scholarship** (UGC) for NE region students in professional courses
 
-Apply through the [National Scholarship Portal](/guides/national-scholarship-portal-guide) or directly through the Higher Education Directorate at [highereducation.tripura.gov.in](https://highereducation.tripura.gov.in/DHE/scholarship-scheme).
+Apply through the [National Scholarship Portal](/guide/national-scholarship-portal-guide) or directly through the Higher Education Directorate at [highereducation.tripura.gov.in](https://highereducation.tripura.gov.in/DHE/scholarship-scheme).
 
 ### TPSC – Tripura Public Service Commission
 
@@ -80,7 +80,7 @@ The TPSC conducts recruitment examinations for Group A and Group B government po
 - **Apply online:** [tpsc.tripura.gov.in](https://tpsc.tripura.gov.in) or [tpsconline.in](https://tpsconline.in)
 - Tentative exam schedules are published on the TPSC website
 
-> Check our [admit card download guide](/guides/admit-card-download-online-guide) for tips on downloading your TPSC hall ticket.
+> Check our [admit card download guide](/guide/admit-card-download-online-guide) for tips on downloading your TPSC hall ticket.
 
 ---
 
@@ -159,7 +159,7 @@ Tripura produces quality orthodox and CTC tea. Government support includes:
 
 ### Other Agriculture Schemes
 
-- **PM-KISAN** – ₹6,000 annual income support for farmer families ([PM-KISAN guide](/guides/pm-kisan-status-check))
+- **PM-KISAN** – ₹6,000 annual income support for farmer families ([PM-KISAN guide](/guide/pm-kisan-status-check))
 - **Kisan Credit Card** – Subsidised crop loans for farmers
 - **Soil Health Card** distribution for optimised farming
 - **Crop insurance** under Pradhan Mantri Fasal Bima Yojana
@@ -175,9 +175,9 @@ Tripura actively implements the Ayushman Bharat scheme providing **₹5 lakh ann
 - **Eligibility:** Based on SECC 2011 deprivation criteria — identified BPL families
 - **Coverage:** Free treatment at empanelled government and private hospitals
 - **How to check eligibility:** Visit [pmjay.gov.in](https://pmjay.gov.in) or call **14555**
-- **Download your Ayushman card:** Follow our [Ayushman Bharat card guide](/guides/ayushman-bharat-health-card)
+- **Download your Ayushman card:** Follow our [Ayushman Bharat card guide](/guide/ayushman-bharat-health-card)
 
-> Tripura has empanelled multiple hospitals across districts for cashless treatment under AB-PMJAY. Check the [hospital list guide](/guides/ayushman-bharat-hospital-list-check) to find one near you.
+> Tripura has empanelled multiple hospitals across districts for cashless treatment under AB-PMJAY. Check the [hospital list guide](/guide/ayushman-bharat-hospital-list-check) to find one near you.
 
 ### Other Health Programmes
 
@@ -213,7 +213,7 @@ Jan Seva Kendras across Tripura provide assisted access to government services f
 - Banking and insurance services
 - e-District certificate applications
 
-> If you need to [download your Aadhaar](/guides/aadhaar-card-download-online) or [link Aadhaar with PAN](/guides/aadhaar-pan-link), Jan Seva Kendras can assist.
+> If you need to [download your Aadhaar](/guide/aadhaar-card-download-online) or [link Aadhaar with PAN](/guide/aadhaar-pan-link), Jan Seva Kendras can assist.
 
 ### Other Digital Services
 
@@ -231,7 +231,7 @@ Under the **National Food Security Act (NFSA)**, eligible families in Tripura re
 - **Priority Household (PHH)** – 5 kg per person per month
 - **One Nation One Ration Card (ONORC)** – Portability for migrant families
 
-Check your ration card status at [nfsa.tripura.gov.in](https://nfsa.tripura.gov.in). For general guidance, see our [ration card guide](/guides/ration-card-apply-online).
+Check your ration card status at [nfsa.tripura.gov.in](https://nfsa.tripura.gov.in). For general guidance, see our [ration card guide](/guide/ration-card-apply-online).
 
 ---
 
@@ -269,7 +269,7 @@ Most Tripura government schemes follow a standard application process:
 5. **Track status** – Use the application reference number on the respective portal
 6. **Receive benefit** – Most cash benefits are transferred via DBT to your Aadhaar-linked bank account
 
-> **Important:** Keep your [Aadhaar details updated](/guides/aadhaar-update-mobile-email) and bank account linked for smooth DBT transfers.
+> **Important:** Keep your [Aadhaar details updated](/guide/aadhaar-update-mobile-email) and bank account linked for smooth DBT transfers.
 
 ---
 
@@ -289,7 +289,7 @@ You must be a permanent resident of Tripura, enrolled in a recognised educationa
 
 ### How do I get an Ayushman Bharat card in Tripura?
 
-Check your eligibility at [pmjay.gov.in](https://pmjay.gov.in) or call 14555. If eligible, visit your nearest Ayushman Bharat Kendra or empanelled hospital with your Aadhaar and ration card to get your e-card generated. See our [detailed guide](/guides/ayushman-bharat-health-card).
+Check your eligibility at [pmjay.gov.in](https://pmjay.gov.in) or call 14555. If eligible, visit your nearest Ayushman Bharat Kendra or empanelled hospital with your Aadhaar and ration card to get your e-card generated. See our [detailed guide](/guide/ayushman-bharat-health-card).
 
 ### How can I apply for TPSC exams?
 

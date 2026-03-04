@@ -116,9 +116,9 @@ Your electricity bill contains:
 
 ## Related Guides
 
-- [How to Transfer Electricity Connection](/guides/electricity-connection-transfer-name) — transfer connection after buying property
-- [How to Get NOC from Electricity Board](/guides/electricity-board-noc-apply) — NOC for property transactions
-- [How to Apply for Gas Connection Online](/guides/png-cng-gas-connection-apply) — apply for PNG gas connection
+- [How to Transfer Electricity Connection](/guide/electricity-connection-transfer-name) — transfer connection after buying property
+- [How to Get NOC from Electricity Board](/guide/electricity-board-noc-apply) — NOC for property transactions
+- [How to Apply for Gas Connection Online](/guide/png-cng-gas-connection-apply) — apply for PNG gas connection
 
 - [Apply for New Electricity Connection](/guide/electricity-connection-apply-online)
 - [Pay Electricity Bill](/guide/electricity-bill-pay-online-state-wise)

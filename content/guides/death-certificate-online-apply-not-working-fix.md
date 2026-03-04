@@ -33,7 +33,7 @@ officialLinks:
 
 Applying for a death certificate online in India is often frustrating — CRSORGI portal crashes, document uploads fail, applications get stuck at verification, and delayed registrations (after 21 days or 1 year) require extra steps most people don't know about. Whether you're using the central CRSORGI portal or a state-specific portal in UP, Maharashtra, MP, Delhi, or Tamil Nadu, this guide covers every common problem and its fix.
 
-> **Related guide:** Having trouble with birth certificate applications too? See our [Birth Certificate Online Application Not Working — How to Fix](/guides/birth-certificate-online-apply-not-working-fix) guide.
+> **Related guide:** Having trouble with birth certificate applications too? See our [Birth Certificate Online Application Not Working — How to Fix](/guide/birth-certificate-online-apply-not-working-fix) guide.
 
 ---
 

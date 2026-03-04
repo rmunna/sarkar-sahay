@@ -254,7 +254,7 @@ You'll receive an **average bill** based on your consumption history until the n
 
 ## Related Guides
 
-- [Electricity Bill Payment Failed — How to Fix](/guides/electricity-bill-payment-failed-fix)
+- [Electricity Bill Payment Failed — How to Fix](/guide/electricity-bill-payment-failed-fix)
 
 ---
 

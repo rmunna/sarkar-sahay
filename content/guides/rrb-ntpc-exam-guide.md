@@ -256,10 +256,10 @@ Apply for posts matching your qualification. Graduate-level posts (Level 5–6) 
 | Exam stages | CBT-1 + CBT-2 + Typing/CBAT | CBT + PET | CBT-1 + CBT-2 + CBAT |
 
 **Related guides:**
-- [SSC MTS Exam Guide](/guides/ssc-mts-exam-guide) — central government support roles
-- [SSC GD Constable Exam Guide](/guides/ssc-gd-constable-exam-guide) — paramilitary forces
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — bank recruitment overview
-- [RBI Assistant Exam Guide](/guides/rbi-assistant-exam-guide) — RBI clerical posts
+- [SSC MTS Exam Guide](/guide/ssc-mts-exam-guide) — central government support roles
+- [SSC GD Constable Exam Guide](/guide/ssc-gd-constable-exam-guide) — paramilitary forces
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — bank recruitment overview
+- [RBI Assistant Exam Guide](/guide/rbi-assistant-exam-guide) — RBI clerical posts
 
 ## Frequently Asked Questions
 

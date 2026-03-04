@@ -31,7 +31,7 @@ Your scholarship application shows "approved" or "sanctioned," but the money sti
 
 This guide walks you through **exactly how to track your payment at every stage**, identify what's causing the delay, and escalate effectively until you get paid.
 
-> **Looking for a different problem?** If your scholarship was never credited at all and you're unsure whether it was even sanctioned, see our guide on [Scholarship Payment Not Received — How to Check & Fix](/guides/scholarship-payment-not-received-fix).
+> **Looking for a different problem?** If your scholarship was never credited at all and you're unsure whether it was even sanctioned, see our guide on [Scholarship Payment Not Received — How to Check & Fix](/guide/scholarship-payment-not-received-fix).
 
 ---
 

@@ -202,9 +202,9 @@ These are initial salaries — they increase with experience and pay commission 
 
 ## Related Guides
 
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — Alternative government career option
-- [GATE Exam Guide](/guides/gate-exam-guide) — For engineering graduates
-- [LIC AAO Exam Guide](/guides/lic-aao-exam-guide) — Insurance sector jobs
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — Alternative government career option
+- [GATE Exam Guide](/guide/gate-exam-guide) — For engineering graduates
+- [LIC AAO Exam Guide](/guide/lic-aao-exam-guide) — Insurance sector jobs
 
 ## Frequently Asked Questions
 

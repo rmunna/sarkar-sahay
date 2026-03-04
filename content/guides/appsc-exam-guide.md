@@ -206,9 +206,9 @@ Create short notes for each subject and revise them weekly. Revision is key to r
 
 ## Related Guides
 
-- [TSPSC Exam Guide](/guides/tspsc-exam-guide) — Telangana state services
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — Bank PO and Clerk exams
-- [Board Exam Results](/guides/board-exam-results-check-download) — Check your results online
+- [TSPSC Exam Guide](/guide/tspsc-exam-guide) — Telangana state services
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — Bank PO and Clerk exams
+- [Board Exam Results](/guide/board-exam-results-check-download) — Check your results online
 
 ## Frequently Asked Questions
 

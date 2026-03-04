@@ -208,9 +208,9 @@ Admit cards are available on the official website of the conducting body. Log in
 
 ## Related Guides
 
-- [Aadhaar Card – How to Apply and Update](/guides/aadhaar-card) — Essential ID for all government job applications
-- [PAN Card – Application Guide](/guides/pan-card-application) — Required for income tax after joining service
-- [Passport Application Guide](/guides/passport-application) — Needed for certain government posts
+- [Aadhaar Card – How to Apply and Update](/guide/aadhaar-card) — Essential ID for all government job applications
+- [PAN Card – Application Guide](/guide/pan-card-application) — Required for income tax after joining service
+- [Passport Application Guide](/guide/passport-application) — Needed for certain government posts
 
 ---
 

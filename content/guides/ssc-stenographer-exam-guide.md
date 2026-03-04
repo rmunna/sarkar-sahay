@@ -205,9 +205,9 @@ SSC Stenographer papers follow a predictable pattern. Solve the last 5–7 years
 **Grade C Stenographer salary equals SSC CGL posts — making it one of the best-paying 12th-pass government jobs.**
 
 **Related guides:**
-- [SSC MTS Exam Guide](/guides/ssc-mts-exam-guide) — for 10th-pass candidates
-- [SSC GD Constable Exam Guide](/guides/ssc-gd-constable-exam-guide) — paramilitary force recruitment
-- [RRB NTPC Exam Guide](/guides/rrb-ntpc-exam-guide) — railway non-technical posts
+- [SSC MTS Exam Guide](/guide/ssc-mts-exam-guide) — for 10th-pass candidates
+- [SSC GD Constable Exam Guide](/guide/ssc-gd-constable-exam-guide) — paramilitary force recruitment
+- [RRB NTPC Exam Guide](/guide/rrb-ntpc-exam-guide) — railway non-technical posts
 
 ## Frequently Asked Questions
 

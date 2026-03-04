@@ -244,9 +244,9 @@ Stay updated on IAF's latest achievements, aircraft, operations, and defence new
 
 ## Related Guides
 
-- [Indian Army Agniveer Guide](/guides/agniveer-army-recruitment-guide) — Army Agniveer recruitment
-- [Indian Navy Agniveer Guide](/guides/agniveer-navy-recruitment-guide) — Navy Agniveer recruitment
-- [RRB Group D Exam Guide](/guides/rrb-group-d-exam-guide) — Railway jobs after 10th/12th
+- [Indian Army Agniveer Guide](/guide/agniveer-army-recruitment-guide) — Army Agniveer recruitment
+- [Indian Navy Agniveer Guide](/guide/agniveer-navy-recruitment-guide) — Navy Agniveer recruitment
+- [RRB Group D Exam Guide](/guide/rrb-group-d-exam-guide) — Railway jobs after 10th/12th
 
 ## Frequently Asked Questions
 

@@ -173,7 +173,7 @@ Many users confuse SBI's two digital platforms. They share the same bank account
 **Important:**
 - YONO requires **active internet banking** to register. If OnlineSBI login is broken, fix it first.
 - Resetting your password on OnlineSBI does **not** change your YONO password or MPIN.
-- If YONO is also not working, see our [YONO app troubleshooting guide](/guides/sbi-yono-app-not-working-fix).
+- If YONO is also not working, see our [YONO app troubleshooting guide](/guide/sbi-yono-app-not-working-fix).
 
 ---
 

@@ -212,9 +212,9 @@ Keep checking [rrbcdg.gov.in](https://www.rrbcdg.gov.in) and your zone's RRC web
 
 ## Related Guides
 
-- [RRB ALP Exam Guide](/guides/rrb-alp-exam-guide) — For Assistant Loco Pilot recruitment
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — Alternative government job option
-- [Indian Army Agniveer Guide](/guides/agniveer-army-recruitment-guide) — Defence recruitment for 10th/12th pass
+- [RRB ALP Exam Guide](/guide/rrb-alp-exam-guide) — For Assistant Loco Pilot recruitment
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — Alternative government job option
+- [Indian Army Agniveer Guide](/guide/agniveer-army-recruitment-guide) — Defence recruitment for 10th/12th pass
 
 ## Frequently Asked Questions
 

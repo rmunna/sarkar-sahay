@@ -183,8 +183,8 @@ Regular mock tests help identify weak areas and improve time management for the 
 
 ## Related Guides
 
-- [APPSC Exam Guide](/guides/appsc-exam-guide) — Andhra Pradesh state services
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — Bank PO and Clerk exams
+- [APPSC Exam Guide](/guide/appsc-exam-guide) — Andhra Pradesh state services
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — Bank PO and Clerk exams
 
 ## Frequently Asked Questions
 

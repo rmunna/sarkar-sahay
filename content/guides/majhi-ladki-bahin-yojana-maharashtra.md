@@ -159,7 +159,7 @@ If your application is stuck in "Under Verification" for more than 30 days, visi
 
 6. **Check your bank account regularly** — Sometimes payments arrive without SMS notifications. Check your passbook or bank app monthly.
 
-7. **Already have an Aadhaar card?** Our [Aadhaar linking guide](/guides/aadhaar-linking-guide) can help you connect it to your bank account.
+7. **Already have an Aadhaar card?** Our [Aadhaar linking guide](/guide/aadhaar-linking-guide) can help you connect it to your bank account.
 
 ---
 
@@ -201,9 +201,9 @@ It depends. If you are receiving **less than ₹1,500 per month** from another s
 
 ## Related Guides
 
-- [Aadhaar Card — How to Apply Online](/guides/aadhaar-card-apply-online)
-- [How to Link Aadhaar to Bank, PAN & More](/guides/aadhaar-linking-guide)
-- [Aadhaar Common Problems & Solutions](/guides/aadhaar-common-problems-solutions)
+- [Aadhaar Card — How to Apply Online](/guide/aadhaar-card-apply-online)
+- [How to Link Aadhaar to Bank, PAN & More](/guide/aadhaar-linking-guide)
+- [Aadhaar Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
 
 ---
 

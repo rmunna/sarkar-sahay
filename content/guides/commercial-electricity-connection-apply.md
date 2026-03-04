@@ -159,9 +159,9 @@ Commercial tariff is higher than domestic tariff. Typical commercial rates:
 
 ## Related Guides
 
-- [How to Transfer Electricity Connection](/guides/electricity-connection-transfer-name) — transfer connection for purchased property
-- [How to Get NOC from Electricity Board](/guides/electricity-board-noc-apply) — NOC for property and business needs
-- [How to Get Duplicate Electricity Bill](/guides/duplicate-electricity-bill-download) — download bills for GST input credit
+- [How to Transfer Electricity Connection](/guide/electricity-connection-transfer-name) — transfer connection for purchased property
+- [How to Get NOC from Electricity Board](/guide/electricity-board-noc-apply) — NOC for property and business needs
+- [How to Get Duplicate Electricity Bill](/guide/duplicate-electricity-bill-download) — download bills for GST input credit
 
 - [Apply for New Electricity Connection](/guide/electricity-connection-apply-online)
 - [Pay Electricity Bill](/guide/electricity-bill-pay-online-state-wise)

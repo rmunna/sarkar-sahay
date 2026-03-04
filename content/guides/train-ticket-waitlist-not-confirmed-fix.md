@@ -64,7 +64,7 @@ Check your current waitlist position using your **10-digit PNR number** (found o
 2. Tap **PNR Status** on the home screen
 3. Enter your PNR and check
 
-> Having trouble logging in to IRCTC? See our guide on [IRCTC Account Login Problems — How to Fix](/guides/irctc-account-login-problems-fix).
+> Having trouble logging in to IRCTC? See our guide on [IRCTC Account Login Problems — How to Fix](/guide/irctc-account-login-problems-fix).
 
 ## Understanding Confirmation Chances
 
@@ -127,7 +127,7 @@ For **e-tickets booked on IRCTC**:
 - **Full fare is refunded** minus a nominal clerkage charge (currently ₹60 per passenger for AC classes, ₹30 for Sleeper)
 - Refund typically takes **5–7 working days** for net banking/cards and **up to 10 days** for wallets/UPI
 
-> Not received your refund yet? Check our guide on [IRCTC Ticket Refund Not Received — How to Fix](/guides/irctc-ticket-refund-not-received-fix).
+> Not received your refund yet? Check our guide on [IRCTC Ticket Refund Not Received — How to Fix](/guide/irctc-ticket-refund-not-received-fix).
 
 ## What to Do If Your Ticket Is Still Waitlisted
 

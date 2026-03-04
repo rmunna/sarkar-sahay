@@ -26,7 +26,7 @@ NEET PG (National Eligibility cum Entrance Test for Postgraduates) is the single
 
 Every MBBS graduate who wants to pursue postgraduate medical education in government or private medical colleges must qualify NEET PG. The exam replaced earlier state-level PG entrance tests and provides a unified merit list used for counselling at both **All India Quota (AIQ)** and **State Quota** seats.
 
-> **Related:** Check our guides on [UPSC Civil Services](/guides/upsc-civil-services-exam-guide) and [SSC CGL](/guides/ssc-cgl-exam-guide) for other competitive exams.
+> **Related:** Check our guides on [UPSC Civil Services](/guide/upsc-civil-services-exam-guide) and [SSC CGL](/guide/ssc-cgl-exam-guide) for other competitive exams.
 
 ## Eligibility Criteria
 

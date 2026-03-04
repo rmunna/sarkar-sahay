@@ -235,8 +235,8 @@ File a complaint on your state's **anti-corruption portal** or call the **CM hel
 
 ## Related Guides
 
-- [Caste Certificate Rejected — How to Fix](/guides/caste-certificate-rejected-fix)
-- [How to Apply for OBC/EWS Certificate Online](/guides/obc-ews-certificate-apply-online)
+- [Caste Certificate Rejected — How to Fix](/guide/caste-certificate-rejected-fix)
+- [How to Apply for OBC/EWS Certificate Online](/guide/obc-ews-certificate-apply-online)
 
 ---
 

@@ -171,9 +171,9 @@ The essay paper carries 200 marks. Practice writing structured essays on social,
 
 ## Related Guides
 
-- [JPSC Exam Guide](/guides/jpsc-exam-guide) — Jharkhand civil services
-- [OPSC Exam Guide](/guides/opsc-exam-guide) — Odisha civil services
-- [PPSC PCS Exam Guide](/guides/ppsc-pcs-exam-guide) — Punjab civil services
+- [JPSC Exam Guide](/guide/jpsc-exam-guide) — Jharkhand civil services
+- [OPSC Exam Guide](/guide/opsc-exam-guide) — Odisha civil services
+- [PPSC PCS Exam Guide](/guide/ppsc-pcs-exam-guide) — Punjab civil services
 
 ## Frequently Asked Questions
 

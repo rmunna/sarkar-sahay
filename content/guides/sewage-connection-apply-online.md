@@ -128,9 +128,9 @@ Submit the application and note the reference number. Track status online throug
 
 ## Related Guides
 
-- [Jal Jeevan Mission — Tap Water Connection](/guides/jal-jeevan-mission-tap-water) — government water supply scheme
-- [How to Apply for Gas Connection Online](/guides/png-cng-gas-connection-apply) — piped gas connection process
-- [How to Transfer Electricity Connection](/guides/electricity-connection-transfer-name) — electricity name transfer
+- [Jal Jeevan Mission — Tap Water Connection](/guide/jal-jeevan-mission-tap-water) — government water supply scheme
+- [How to Apply for Gas Connection Online](/guide/png-cng-gas-connection-apply) — piped gas connection process
+- [How to Transfer Electricity Connection](/guide/electricity-connection-transfer-name) — electricity name transfer
 
 - [Apply for Gas Connection](/guide/lpg-gas-connection-apply-online)
 - [Apply for LPG Subsidy & Ujjwala Yojana](/guide/lpg-subsidy-ujjwala-yojana)

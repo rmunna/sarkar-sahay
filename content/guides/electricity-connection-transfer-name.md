@@ -126,9 +126,9 @@ Visit your state DISCOM's official website for the exact online process.
 
 ## Related Guides
 
-- [How to Get Duplicate Electricity Bill](/guides/duplicate-electricity-bill-download) — download previous bills for the connection
-- [How to Get NOC from Electricity Board](/guides/electricity-board-noc-apply) — NOC needed for property transactions
-- [How to Apply for Commercial Electricity Connection](/guides/commercial-electricity-connection-apply) — if converting to commercial use
+- [How to Get Duplicate Electricity Bill](/guide/duplicate-electricity-bill-download) — download previous bills for the connection
+- [How to Get NOC from Electricity Board](/guide/electricity-board-noc-apply) — NOC needed for property transactions
+- [How to Apply for Commercial Electricity Connection](/guide/commercial-electricity-connection-apply) — if converting to commercial use
 
 - [Apply for New Electricity Connection](/guide/electricity-connection-apply-online)
 - [Pay Electricity Bill](/guide/electricity-bill-pay-online-state-wise)

@@ -201,9 +201,9 @@ Get a pre-medical checkup done. Common rejection reasons include flat feet, dent
 
 ## Related Guides
 
-- [Indian Navy Agniveer Guide](/guides/agniveer-navy-recruitment-guide) — Navy Agniveer recruitment
-- [Indian Air Force Agniveer Guide](/guides/agniveer-airforce-recruitment-guide) — Air Force Agniveer recruitment
-- [RRB Group D Exam Guide](/guides/rrb-group-d-exam-guide) — Railway jobs for 10th pass
+- [Indian Navy Agniveer Guide](/guide/agniveer-navy-recruitment-guide) — Navy Agniveer recruitment
+- [Indian Air Force Agniveer Guide](/guide/agniveer-airforce-recruitment-guide) — Air Force Agniveer recruitment
+- [RRB Group D Exam Guide](/guide/rrb-group-d-exam-guide) — Railway jobs for 10th pass
 
 ## Frequently Asked Questions
 

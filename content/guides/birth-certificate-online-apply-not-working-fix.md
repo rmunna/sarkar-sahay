@@ -294,7 +294,7 @@ If the online portal is not working or your case requires offline processing:
 | State portal confusion | Check state-specific section above |
 | Captcha not loading | Disable ad-blocker, refresh page |
 | Payment failed | Check bank statement first; wait 24 hrs for auto-refund |
-| Certificate has errors | See [birth certificate correction guide](/guides/birth-certificate-correction-rejected-fix) |
+| Certificate has errors | See [birth certificate correction guide](/guide/birth-certificate-correction-rejected-fix) |
 
 ## Frequently Asked Questions
 
@@ -316,7 +316,7 @@ Yes, through CRSORGI if the birth was in India. They may need to authorize a rep
 
 ## Related Guides
 
-- [Birth Certificate Correction Rejected — How to Fix](/guides/birth-certificate-correction-rejected-fix)
+- [Birth Certificate Correction Rejected — How to Fix](/guide/birth-certificate-correction-rejected-fix)
 
 ## Official Resources
 

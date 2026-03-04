@@ -158,7 +158,7 @@ After the CUET UG exam, the admission process generally works as follows:
 
 > **Pro Tip:** Some universities also accept CUET UG scores for programmes beyond the traditional ones. Check each university's prospectus for a full list of programmes.
 
-Also read: [SSC CGL Exam Guide](/guides/ssc-cgl-exam-guide) | [UPSC Civil Services Guide](/guides/upsc-civil-services-exam-guide)
+Also read: [SSC CGL Exam Guide](/guide/ssc-cgl-exam-guide) | [UPSC Civil Services Guide](/guide/upsc-civil-services-exam-guide)
 
 ## Important Tips
 

@@ -288,9 +288,9 @@ No physical calculator is allowed. However, an **on-screen calculator** is provi
 
 ## Related Guides
 
-- [UPSC Civil Services Exam Guide](/guides/upsc-civil-services-exam)
-- [SSC CGL Exam Guide](/guides/ssc-cgl-exam)
-- [Bank PO Exam Guide](/guides/bank-po-exam)
+- [UPSC Civil Services Exam Guide](/guide/upsc-civil-services-exam)
+- [SSC CGL Exam Guide](/guide/ssc-cgl-exam)
+- [Bank PO Exam Guide](/guide/bank-po-exam)
 
 ---
 

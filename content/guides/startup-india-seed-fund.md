@@ -33,7 +33,7 @@ Many innovative startup ideas fail because founders cannot arrange early-stage c
 
 The scheme has a total budget of **₹945 crore** and aims to support approximately **3,600 startups** through **300 incubators** across India.
 
-> **Related:** If you haven't registered your startup yet, see our guide on [Startup India DPIIT Registration](/guides/startup-india-dpiit-registration).
+> **Related:** If you haven't registered your startup yet, see our guide on [Startup India DPIIT Registration](/guide/startup-india-dpiit-registration).
 
 ## Fund Amount Under SISFS
 
@@ -103,7 +103,7 @@ Keep these documents ready before applying:
 - Profile of CEO and mentorship team
 - Infrastructure details and seating capacity proof
 
-> **Tip:** Get your [DPIIT registration](/guides/startup-india-dpiit-registration) done first — it is mandatory for applying to SISFS.
+> **Tip:** Get your [DPIIT registration](/guide/startup-india-dpiit-registration) done first — it is mandatory for applying to SISFS.
 
 ## How to Apply for SISFS Online
 
@@ -194,5 +194,5 @@ No. SISFS is specifically designed for **early-stage startups**. You can apply a
 
 ## Related Guides
 
-- [Startup India DPIIT Registration](/guides/startup-india-dpiit-registration) — How to get your startup recognised
-- [Startup India Registration](/guides/startup-india-registration) — Complete registration process
+- [Startup India DPIIT Registration](/guide/startup-india-dpiit-registration) — How to get your startup recognised
+- [Startup India Registration](/guide/startup-india-registration) — Complete registration process

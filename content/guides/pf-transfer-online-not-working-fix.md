@@ -31,7 +31,7 @@ Transferring your PF balance online through the EPFO Unified Portal should be st
 
 This guide covers **every major PF transfer issue** and how to fix it step by step.
 
-> 📌 Before troubleshooting, make sure you've followed the correct [EPF transfer process for job changes](/guides/epf-transfer-online-job-change).
+> 📌 Before troubleshooting, make sure you've followed the correct [EPF transfer process for job changes](/guide/epf-transfer-online-job-change).
 
 ---
 
@@ -72,7 +72,7 @@ PF transfer requires approved KYC (Aadhaar, PAN, and bank account) on your UAN. 
    - **Name mismatch** is the #1 reason — ensure your name on Aadhaar, PAN, and EPF records is identical (spelling, initials, order)
 5. If your employer is unresponsive, you can raise a grievance on [EPFiGMS](https://epfigms.gov.in/)
 
-> 💡 If your UAN activation itself failed, check our guide on [EPFO UAN activation issues](/guides/epfo-uan-activation-failed-fix).
+> 💡 If your UAN activation itself failed, check our guide on [EPFO UAN activation issues](/guide/epfo-uan-activation-failed-fix).
 
 ---
 
@@ -144,7 +144,7 @@ Form 13 (online transfer claim) gets rejected by EPFO with a specific rejection 
 3. Wait 7 days after the correction
 4. **Re-submit** the Form 13 transfer claim
 
-> 📖 For detailed claim rejection reasons, see our [EPF claim rejection guide](/guides/epf-claim-rejected-reasons-fix).
+> 📖 For detailed claim rejection reasons, see our [EPF claim rejection guide](/guide/epf-claim-rejected-reasons-fix).
 
 ---
 
@@ -242,9 +242,9 @@ Before submitting (or re-submitting) a PF transfer claim, verify:
 
 ## Related Guides
 
-- [EPF Transfer Online — Complete Process for Job Changes](/guides/epf-transfer-online-job-change)
-- [EPFO UAN Activation Failed — How to Fix](/guides/epfo-uan-activation-failed-fix)
-- [EPF Claim Rejected — Reasons and Fixes](/guides/epf-claim-rejected-reasons-fix)
+- [EPF Transfer Online — Complete Process for Job Changes](/guide/epf-transfer-online-job-change)
+- [EPFO UAN Activation Failed — How to Fix](/guide/epfo-uan-activation-failed-fix)
+- [EPF Claim Rejected — Reasons and Fixes](/guide/epf-claim-rejected-reasons-fix)
 
 ---
 

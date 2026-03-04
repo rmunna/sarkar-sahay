@@ -55,7 +55,7 @@ Before troubleshooting, understand the two different features:
 | **Use case** | Prevent fingerprint/iris misuse | Prevent Aadhaar number misuse |
 | **Can both be active?** | Yes | Yes |
 
-> **Important:** If you have locked your **biometrics** and are trying to authenticate via fingerprint at a bank or mobile store, it will fail. This is expected behaviour — you need to temporarily unlock biometrics first. See our [biometric verification failed guide](/guides/aadhaar-biometric-verification-failed-fix) for related fixes.
+> **Important:** If you have locked your **biometrics** and are trying to authenticate via fingerprint at a bank or mobile store, it will fail. This is expected behaviour — you need to temporarily unlock biometrics first. See our [biometric verification failed guide](/guide/aadhaar-biometric-verification-failed-fix) for related fixes.
 
 ---
 
@@ -111,7 +111,7 @@ This is the most common issue. You need OTP to lock or unlock biometrics, and if
 5. **Try after 30 minutes** — Clicking "Resend OTP" too many times triggers a temporary cooldown.
 6. **Use TOTP instead** — Generate a TOTP from the mAadhaar app (see below) as an alternative to SMS OTP.
 
-> 📌 For detailed OTP troubleshooting, see our [Aadhaar OTP not received guide](/guides/aadhaar-otp-not-received-fix).
+> 📌 For detailed OTP troubleshooting, see our [Aadhaar OTP not received guide](/guide/aadhaar-otp-not-received-fix).
 
 ---
 
@@ -138,7 +138,7 @@ This is confusing — you've locked your biometrics intentionally but authentica
 - **Unlock didn't process** — The unlock request may have timed out. Go back to myAadhaar and verify the status shows **Unlocked**.
 - **Temporary unlock expired** — If you used the "Unlock for Single Authentication" option, it re-locks automatically after one successful authentication or after a timeout.
 - **Server sync delay** — After unlocking, wait **10–15 minutes** before attempting biometric authentication. UIDAI systems may take time to propagate the change.
-- **Biometric data itself is the issue** — If your fingerprints are worn or changed, unlocking won't help. You may need a [biometric update](/guides/aadhaar-biometric-verification-failed-fix).
+- **Biometric data itself is the issue** — If your fingerprints are worn or changed, unlocking won't help. You may need a [biometric update](/guide/aadhaar-biometric-verification-failed-fix).
 
 ### What To Do
 

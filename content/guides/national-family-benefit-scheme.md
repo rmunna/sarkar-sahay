@@ -112,9 +112,9 @@ The amount is transferred directly to the bank account linked with the claimant'
 
 ## Related Guides
 
-- [Antyodaya Anna Yojana (AAY)](/guides/antyodaya-anna-yojana-aay) — Free food grain scheme for poorest families
-- [Atal Pension Yojana](/guides/atal-pension-yojana-apy) — Pension scheme for unorganised sector
-- [Disability Pension](/guides/disability-pension-apply-online) — Monthly pension for persons with disabilities
+- [Antyodaya Anna Yojana (AAY)](/guide/antyodaya-anna-yojana-aay) — Free food grain scheme for poorest families
+- [Atal Pension Yojana](/guide/atal-pension-yojana-apy) — Pension scheme for unorganised sector
+- [Disability Pension](/guide/disability-pension-apply-online) — Monthly pension for persons with disabilities
 
 ## Frequently Asked Questions (FAQs)
 

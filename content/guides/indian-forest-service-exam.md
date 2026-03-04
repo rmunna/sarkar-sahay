@@ -263,12 +263,12 @@ IFoS Prelims 2026 is scheduled for **May 24, 2026**, and IFoS Mains 2026 is expe
 
 ## Related Guides
 
-- [UPSC Civil Services Preparation Guide](/guides/upsc-civil-services-preparation-guide)
-- [UPSC NDA Exam Guide](/guides/upsc-nda-exam-guide)
-- [UPSC CDS Exam Guide](/guides/upsc-cds-exam-guide)
-- [UPSC IES/ISS Exam Guide](/guides/upsc-ies-iss-exam-guide)
-- [SSC CGL vs UPSC CSE Comparison](/guides/ssc-cgl-vs-upsc-cse-comparison)
-- [IAS Preparation Guide for Beginners](/guides/ias-preparation-guide-beginners)
+- [UPSC Civil Services Preparation Guide](/guide/upsc-civil-services-preparation-guide)
+- [UPSC NDA Exam Guide](/guide/upsc-nda-exam-guide)
+- [UPSC CDS Exam Guide](/guide/upsc-cds-exam-guide)
+- [UPSC IES/ISS Exam Guide](/guide/upsc-ies-iss-exam-guide)
+- [SSC CGL vs UPSC CSE Comparison](/guide/ssc-cgl-vs-upsc-cse-comparison)
+- [IAS Preparation Guide for Beginners](/guide/ias-preparation-guide-beginners)
 
 ---
 

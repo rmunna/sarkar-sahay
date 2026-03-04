@@ -184,9 +184,9 @@ Follow Dainik Jagran (Dehradun edition), Amar Ujala. Track Uttarakhand Budget, C
 
 ## Related Guides
 
-- [UPSC Civil Services Guide](/guides/upsc-civil-services-exam-guide) — All-India civil services
-- [HPSC Exam Guide](/guides/hpsc-exam-guide) — Haryana state civil services
-- [GPSC Exam Guide](/guides/gpsc-exam-guide) — Gujarat state civil services
+- [UPSC Civil Services Guide](/guide/upsc-civil-services-exam-guide) — All-India civil services
+- [HPSC Exam Guide](/guide/hpsc-exam-guide) — Haryana state civil services
+- [GPSC Exam Guide](/guide/gpsc-exam-guide) — Gujarat state civil services
 
 ## Frequently Asked Questions (FAQs)
 

@@ -197,15 +197,15 @@ No. Only **Madhya Pradesh domicile** women are eligible.
 
 ### 8. What happens if I turn 60 while receiving benefits?
 
-Your benefits will **stop** once you cross the age of 60. You may then be eligible for other pension schemes like [Indira Gandhi National Old Age Pension](/guides/old-age-pension-scheme).
+Your benefits will **stop** once you cross the age of 60. You may then be eligible for other pension schemes like [Indira Gandhi National Old Age Pension](/guide/old-age-pension-scheme).
 
 ---
 
 ## Related Guides
 
-- [Aadhaar Card — How to Apply Online](/guides/aadhaar-card-apply-online) — needed for Aadhaar eKYC
-- [Aadhaar Linking Guide](/guides/aadhaar-linking-guide) — link Aadhaar to your bank account
-- [Atal Pension Yojana (APY)](/guides/atal-pension-yojana-apy) — government pension scheme for age 60+
+- [Aadhaar Card — How to Apply Online](/guide/aadhaar-card-apply-online) — needed for Aadhaar eKYC
+- [Aadhaar Linking Guide](/guide/aadhaar-linking-guide) — link Aadhaar to your bank account
+- [Atal Pension Yojana (APY)](/guide/atal-pension-yojana-apy) — government pension scheme for age 60+
 
 ---
 

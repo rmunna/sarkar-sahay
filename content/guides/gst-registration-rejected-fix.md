@@ -223,7 +223,7 @@ File an appeal (APL-01) with the Appellate Authority. Attach all original docume
 
 ## Related Guides
 
-- [GST Return Filing Errors: How to Fix](/guides/gst-return-filing-errors-fix) — troubleshoot GSTR-1, GSTR-3B filing issues and portal errors
+- [GST Return Filing Errors: How to Fix](/guide/gst-return-filing-errors-fix) — troubleshoot GSTR-1, GSTR-3B filing issues and portal errors
 
 ## Official Resources
 

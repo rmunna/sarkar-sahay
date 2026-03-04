@@ -190,8 +190,8 @@ Don't wait until you clear the written exam. Start reading about SSB procedures,
 | Age | 19–25 | 16.5–19.5 | 20–26 |
 
 **Related guides:**
-- [UPSC NDA Exam Guide](/guides/upsc-nda-exam-guide) — for candidates who want to join defence after 10+2
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — for those exploring other government career options
+- [UPSC NDA Exam Guide](/guide/upsc-nda-exam-guide) — for candidates who want to join defence after 10+2
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — for those exploring other government career options
 
 ## Frequently Asked Questions
 

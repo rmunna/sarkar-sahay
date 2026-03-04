@@ -143,7 +143,7 @@ While waiting for your PVC card, consider whether you really need it:
 | **Has QR Code** | ✅ Yes | ✅ Yes |
 | **Wallet-Friendly** | ✅ Credit card size | Needs print or phone |
 
-> 💡 **Pro Tip:** e-Aadhaar is legally equivalent to the PVC card. You can [download it instantly](https://eaadhaar.uidai.gov.in) as a workaround while you wait for delivery. Having trouble downloading? Check our guide on [fixing Aadhaar card download issues](/guides/aadhaar-card-download-not-working-fix).
+> 💡 **Pro Tip:** e-Aadhaar is legally equivalent to the PVC card. You can [download it instantly](https://eaadhaar.uidai.gov.in) as a workaround while you wait for delivery. Having trouble downloading? Check our guide on [fixing Aadhaar card download issues](/guide/aadhaar-card-download-not-working-fix).
 
 ## Related Guides
 

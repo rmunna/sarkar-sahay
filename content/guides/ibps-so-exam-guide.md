@@ -228,9 +228,9 @@ Know about recent RBI policies, digital banking trends, financial inclusion, and
 | Career path | Specialist track | General banking management |
 
 **Related guides:**
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — comprehensive banking exam overview
-- [RBI Assistant Exam Guide](/guides/rbi-assistant-exam-guide) — entry-level RBI positions
-- [UPSC IES/ISS Exam Guide](/guides/upsc-ies-iss-exam-guide) — for economics/statistics specialists
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — comprehensive banking exam overview
+- [RBI Assistant Exam Guide](/guide/rbi-assistant-exam-guide) — entry-level RBI positions
+- [UPSC IES/ISS Exam Guide](/guide/upsc-ies-iss-exam-guide) — for economics/statistics specialists
 
 ## Frequently Asked Questions
 

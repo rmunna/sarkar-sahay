@@ -37,7 +37,7 @@ officialLinks:
 
 **Lost your important documents? Take a deep breath.** Almost every government document in India can be replaced online — often for free and within minutes. This guide covers step-by-step replacement for Aadhaar, PAN, Voter ID, Driving License, Passport, Ration Card, and Birth/Death Certificate.
 
-> 💡 **Quick Tip:** Before anything else, check [DigiLocker](/guides/digilocker-guide) — your lost document might already be available there as a legally valid digital copy!
+> 💡 **Quick Tip:** Before anything else, check [DigiLocker](/guide/digilocker-guide) — your lost document might already be available there as a legally valid digital copy!
 
 ---
 
@@ -58,7 +58,7 @@ This is the fastest option — takes just 2 minutes.
 **Cost:** ₹0 (Free)
 **Time:** Instant
 
-👉 **Detailed steps:** [How to Download e-Aadhaar Card Online](/guides/download-e-aadhaar-card-online)
+👉 **Detailed steps:** [How to Download e-Aadhaar Card Online](/guide/download-e-aadhaar-card-online)
 
 ### Option B: Order Aadhaar PVC Card (₹50)
 
@@ -72,7 +72,7 @@ Want a physical card? Order the official PVC (plastic) Aadhaar card:
 **Cost:** ₹50
 **Time:** 15–20 days delivery
 
-👉 **Full guide:** [How to Order Aadhaar PVC Card Online](/guides/aadhaar-pvc-card-order-online)
+👉 **Full guide:** [How to Order Aadhaar PVC Card Online](/guide/aadhaar-pvc-card-order-online)
 
 ### Option C: Use mAadhaar App
 
@@ -88,7 +88,7 @@ If OTP doesn't come (mobile not linked to Aadhaar):
 - Visit the nearest **Aadhaar Enrolment Centre** with any other ID proof
 - Request Aadhaar reprint there
 
-👉 **Related:** [How to Change Mobile Number in Aadhaar](/guides/change-mobile-number-in-aadhaar-card)
+👉 **Related:** [How to Change Mobile Number in Aadhaar](/guide/change-mobile-number-in-aadhaar-card)
 
 ---
 
@@ -106,7 +106,7 @@ Your PAN number never changes. You just need a new copy of the card.
 **Cost:** ₹0 (Free)
 **Time:** Instant
 
-👉 **Step-by-step:** [How to Download e-PAN Card Online](/guides/download-e-pan-card-online)
+👉 **Step-by-step:** [How to Download e-PAN Card Online](/guide/download-e-pan-card-online)
 
 ### Option B: Reprint Physical PAN Card
 
@@ -125,7 +125,7 @@ Your PAN number never changes. You just need a new copy of the card.
 **Cost:** ~₹50–107 depending on card type and delivery
 **Time:** 15–20 working days
 
-👉 **Also useful:** [PAN Card Status Check](/guides/pan-card-status-check) | [PAN Card Correction](/guides/pan-card-correction-online)
+👉 **Also useful:** [PAN Card Status Check](/guide/pan-card-status-check) | [PAN Card Correction](/guide/pan-card-correction-online)
 
 ### Don't Know Your PAN Number?
 
@@ -165,7 +165,7 @@ If you need a physical replacement:
 **Cost:** Free
 **Time:** 15–30 days
 
-👉 **Detailed guide:** [How to Apply for Voter ID Card Online](/guides/voter-id-card-apply-online) | [Voter ID Correction](/guides/voter-id-correction-online)
+👉 **Detailed guide:** [How to Apply for Voter ID Card Online](/guide/voter-id-card-apply-online) | [Voter ID Correction](/guide/voter-id-correction-online)
 
 ---
 
@@ -181,7 +181,7 @@ If your DL was issued after digitisation:
 
 This is legally valid as original under IT Act.
 
-👉 **Full guide:** [DigiLocker Guide](/guides/digilocker-guide)
+👉 **Full guide:** [DigiLocker Guide](/guide/digilocker-guide)
 
 ### Option B: Apply for Duplicate DL via Parivahan
 
@@ -199,7 +199,7 @@ This is legally valid as original under IT Act.
 **Cost:** ₹200–600 (varies by state)
 **Time:** 7–30 days
 
-👉 **Related:** [How to Apply for Driving License Online](/guides/driving-license-apply-online) | [Driving License Renewal](/guides/driving-license-renewal-online)
+👉 **Related:** [How to Apply for Driving License Online](/guide/driving-license-apply-online) | [Driving License Renewal](/guide/driving-license-renewal-online)
 
 ---
 
@@ -234,7 +234,7 @@ Losing a passport is more serious — it requires an FIR and a fresh application
 
 > ⚠️ **Important:** Keep a photocopy of your passport's first and last page separately. Also save it in DigiLocker.
 
-👉 **Detailed guide:** [How to Apply for Passport Online](/guides/passport-apply-online) | [Track Passport Status](/guides/passport-application-status-track) | [Passport Renewal](/guides/passport-renewal-online-india)
+👉 **Detailed guide:** [How to Apply for Passport Online](/guide/passport-apply-online) | [Track Passport Status](/guide/passport-application-status-track) | [Passport Renewal](/guide/passport-renewal-online-india)
 
 ---
 
@@ -258,9 +258,9 @@ Ration card replacement is handled at the **state level**, so the process varies
 **Cost:** ₹0–50 (varies by state)
 **Time:** 15–30 days
 
-👉 **State guides:** [Ration Card — General Guide](/guides/ration-card-apply-online) | [UP](/guides/ration-card-apply-online-uttar-pradesh) | [Bihar](/guides/ration-card-apply-online-bihar) | [Maharashtra](/guides/ration-card-apply-online-maharashtra) | [Tamil Nadu](/guides/ration-card-apply-online-tamil-nadu) | [Karnataka](/guides/ration-card-apply-online-karnataka)
+👉 **State guides:** [Ration Card — General Guide](/guide/ration-card-apply-online) | [UP](/guide/ration-card-apply-online-uttar-pradesh) | [Bihar](/guide/ration-card-apply-online-bihar) | [Maharashtra](/guide/ration-card-apply-online-maharashtra) | [Tamil Nadu](/guide/ration-card-apply-online-tamil-nadu) | [Karnataka](/guide/ration-card-apply-online-karnataka)
 
-👉 **Also useful:** [Ration Card Status, Download & Update](/guides/ration-card-status-download-update)
+👉 **Also useful:** [Ration Card Status, Download & Update](/guide/ration-card-status-download-update)
 
 ---
 
@@ -288,7 +288,7 @@ Ration card replacement is handled at the **state level**, so the process varies
 **Cost:** ₹10–100
 **Time:** 7–15 days
 
-👉 **Detailed guides:** [Birth Certificate Online](/guides/birth-certificate-apply-online) | [Death Certificate Online](/guides/death-certificate-apply-online)
+👉 **Detailed guides:** [Birth Certificate Online](/guide/birth-certificate-apply-online) | [Death Certificate Online](/guide/death-certificate-apply-online)
 
 ---
 
@@ -302,7 +302,7 @@ Ration card replacement is handled at the **state level**, so the process varies
 - Documents fetched directly from issuing authorities
 - Accepted everywhere as original under IT Act 2000
 
-👉 **Complete setup guide:** [How to Use DigiLocker](/guides/digilocker-guide)
+👉 **Complete setup guide:** [How to Use DigiLocker](/guide/digilocker-guide)
 
 ### ✅ Keep Photocopies & Scans
 
@@ -365,27 +365,27 @@ For **Aadhaar, PAN, and Voter ID** — generally no FIR is needed. For **Passpor
 ### Can someone misuse my lost documents?
 This is why filing an **FIR** is important if documents were stolen. Also:
 - Lock your Aadhaar biometrics on myaadhaar.uidai.gov.in
-- Monitor your bank accounts and credit report ([Check CIBIL Score](/guides/cibil-score-check-improve))
+- Monitor your bank accounts and credit report ([Check CIBIL Score](/guide/cibil-score-check-improve))
 
 ---
 
 ## Related Guides
 
-- [How to Download e-Aadhaar Card Online](/guides/download-e-aadhaar-card-online)
-- [How to Order Aadhaar PVC Card](/guides/aadhaar-pvc-card-order-online)
-- [How to Download e-PAN Card Online](/guides/download-e-pan-card-online)
-- [How to Apply for Voter ID Card Online](/guides/voter-id-card-apply-online)
-- [How to Apply for Driving License Online](/guides/driving-license-apply-online)
-- [How to Apply for Passport Online](/guides/passport-apply-online)
-- [How to Apply for Ration Card Online](/guides/ration-card-apply-online)
-- [Birth Certificate Online](/guides/birth-certificate-apply-online)
-- [Death Certificate Online](/guides/death-certificate-apply-online)
-- [DigiLocker — Store Documents Online](/guides/digilocker-guide)
-- [Aadhaar Common Problems & Solutions](/guides/aadhaar-common-problems-solutions)
-- [Aadhaar-PAN Linking Guide](/guides/aadhaar-pan-link)
-- [Change Mobile Number in Aadhaar](/guides/change-mobile-number-in-aadhaar-card)
-- [PAN Card Correction Online](/guides/pan-card-correction-online)
-- [Voter ID Correction Online](/guides/voter-id-correction-online)
+- [How to Download e-Aadhaar Card Online](/guide/download-e-aadhaar-card-online)
+- [How to Order Aadhaar PVC Card](/guide/aadhaar-pvc-card-order-online)
+- [How to Download e-PAN Card Online](/guide/download-e-pan-card-online)
+- [How to Apply for Voter ID Card Online](/guide/voter-id-card-apply-online)
+- [How to Apply for Driving License Online](/guide/driving-license-apply-online)
+- [How to Apply for Passport Online](/guide/passport-apply-online)
+- [How to Apply for Ration Card Online](/guide/ration-card-apply-online)
+- [Birth Certificate Online](/guide/birth-certificate-apply-online)
+- [Death Certificate Online](/guide/death-certificate-apply-online)
+- [DigiLocker — Store Documents Online](/guide/digilocker-guide)
+- [Aadhaar Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+- [Aadhaar-PAN Linking Guide](/guide/aadhaar-pan-link)
+- [Change Mobile Number in Aadhaar](/guide/change-mobile-number-in-aadhaar-card)
+- [PAN Card Correction Online](/guide/pan-card-correction-online)
+- [Voter ID Correction Online](/guide/voter-id-correction-online)
 
 ---
 

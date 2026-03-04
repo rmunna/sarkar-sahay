@@ -188,7 +188,7 @@ If your correction keeps getting rejected despite correct documents, escalate:
 A: UIDAI allows a maximum of **2 name updates**. After that, changes require special approval from the regional office.
 
 **Q: Can I correct my name online if my mobile number isn't linked to Aadhaar?**
-A: No. SSUP requires OTP authentication via your registered mobile. First [update your mobile number](/guides/aadhar-mobile-number-update-fix) and then apply for name correction.
+A: No. SSUP requires OTP authentication via your registered mobile. First [update your mobile number](/guide/aadhar-mobile-number-update-fix) and then apply for name correction.
 
 **Q: How long does a name correction take?**
 A: Online corrections via SSUP take **5–10 working days**. At an Aadhaar centre, it takes **7–15 working days**. Escalated cases may take up to **30–60 days**.

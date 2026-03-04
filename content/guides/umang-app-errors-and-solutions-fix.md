@@ -30,7 +30,7 @@ officialLinks:
 
 The **UMANG (Unified Mobile Application for New-age Governance)** app integrates 1,700+ government services. With so many backend integrations, service-specific errors are common. This guide covers **exact error messages, error codes, and service-wise fixes** for UMANG app failures.
 
-> **Looking for general troubleshooting?** See our guide on [UMANG App Not Working — How to Fix](/guides/umang-app-not-working-fix) for login, OTP, crash, and cache-clearing solutions.
+> **Looking for general troubleshooting?** See our guide on [UMANG App Not Working — How to Fix](/guide/umang-app-not-working-fix) for login, OTP, crash, and cache-clearing solutions.
 
 ---
 
@@ -95,7 +95,7 @@ The department server took too long to respond.
 3. Check that the **mobile number** linked to your UAN matches your UMANG login number
 4. Try the **missed call method** as alternative: Give a missed call to **011-22901406** from your registered number
 
-> **Related:** [EPF Passbook Not Updating — How to Fix](/guides/epf-passbook-not-updating-fix)
+> **Related:** [EPF Passbook Not Updating — How to Fix](/guide/epf-passbook-not-updating-fix)
 
 ### "Employee Details Not Found"
 
@@ -166,7 +166,7 @@ This is not an error — slots are genuinely limited.
 3. Ensure your DigiLocker account is **Aadhaar-verified**
 4. If relinking fails, log into [digilocker.gov.in](https://www.digilocker.gov.in) directly and check your account status
 
-> **Related:** [DigiLocker Login Not Working — How to Fix](/guides/digilocker-login-not-working-fix)
+> **Related:** [DigiLocker Login Not Working — How to Fix](/guide/digilocker-login-not-working-fix)
 
 ### "Document Fetch Failed"
 

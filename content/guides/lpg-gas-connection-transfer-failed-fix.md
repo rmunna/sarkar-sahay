@@ -163,7 +163,7 @@ Many transfer requests fail because of portal errors. Here are the most common o
 
 ## 5. Updating Aadhaar and Bank Details During Transfer
 
-When transferring your LPG connection, it is the right time to also update your Aadhaar and bank details to avoid [subsidy payment issues](/guides/lpg-subsidy-not-received-fix).
+When transferring your LPG connection, it is the right time to also update your Aadhaar and bank details to avoid [subsidy payment issues](/guide/lpg-subsidy-not-received-fix).
 
 ### Update Aadhaar on LPG Connection
 
@@ -230,7 +230,7 @@ Online transfers typically take **7-15 working days** if all documents are in or
 LPG connections are **non-transferable** to unrelated persons. Transfer is allowed only to a **spouse, legal heir, or family member** in case of death or legal separation.
 
 ### Will I lose my subsidy during transfer?
-Your subsidy may be paused during the transfer process. It resumes once the transfer is complete and your Aadhaar and bank details are linked with the new distributor. If subsidy doesn't resume, see our guide on [LPG subsidy not received — how to fix](/guides/lpg-subsidy-not-received-fix).
+Your subsidy may be paused during the transfer process. It resumes once the transfer is complete and your Aadhaar and bank details are linked with the new distributor. If subsidy doesn't resume, see our guide on [LPG subsidy not received — how to fix](/guide/lpg-subsidy-not-received-fix).
 
 ### Do I need to surrender cylinders when transferring?
 For **relocation transfers**, you usually need to surrender empty cylinders and the regulator to the old distributor and collect the deposit refund. The new distributor will issue fresh equipment (with a new deposit).

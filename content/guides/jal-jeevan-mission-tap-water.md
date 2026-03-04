@@ -117,9 +117,9 @@ JJM emphasizes water quality through:
 
 ## Related Guides
 
-- [How to Apply for Sewage Connection](/guides/sewage-connection-apply-online) — municipal sewage for your home
-- [How to Apply for Gas Connection Online](/guides/png-cng-gas-connection-apply) — piped gas for cooking
-- [Ujala Scheme — LED Bulbs at Subsidized Price](/guides/ujala-scheme-led-bulbs-subsidy) — another government utility scheme
+- [How to Apply for Sewage Connection](/guide/sewage-connection-apply-online) — municipal sewage for your home
+- [How to Apply for Gas Connection Online](/guide/png-cng-gas-connection-apply) — piped gas for cooking
+- [Ujala Scheme — LED Bulbs at Subsidized Price](/guide/ujala-scheme-led-bulbs-subsidy) — another government utility scheme
 
 - [Apply for Gas Connection](/guide/lpg-gas-connection-apply-online)
 - [Apply for LPG Subsidy & Ujjwala Yojana](/guide/lpg-subsidy-ujjwala-yojana)

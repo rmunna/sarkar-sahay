@@ -155,7 +155,7 @@ Based on the rejection reason, gather the correct/missing documents. Do **not** 
 
 - Select your nearest **PSK (Passport Seva Kendra)** or **POPSK (Post Office Passport Seva Kendra)**
 - Pay the fee online (₹1,500 for normal 36-page booklet)
-- If appointment slots are unavailable, see our guide: [Passport Appointment Not Available — How to Fix](/guides/passport-appointment-not-available-fix)
+- If appointment slots are unavailable, see our guide: [Passport Appointment Not Available — How to Fix](/guide/passport-appointment-not-available-fix)
 
 ### Step 5: Visit the PSK
 
@@ -242,8 +242,8 @@ Use this checklist to avoid another rejection:
 
 ## Related Guides
 
-- [Passport Application Status Stuck — How to Fix](/guides/passport-application-status-stuck-fix) — if your reissue application is accepted but not moving forward
-- [Passport Appointment Not Available — How to Fix](/guides/passport-appointment-not-available-fix) — if you can't book a slot at your nearest PSK
+- [Passport Application Status Stuck — How to Fix](/guide/passport-application-status-stuck-fix) — if your reissue application is accepted but not moving forward
+- [Passport Appointment Not Available — How to Fix](/guide/passport-appointment-not-available-fix) — if you can't book a slot at your nearest PSK
 
 ---
 

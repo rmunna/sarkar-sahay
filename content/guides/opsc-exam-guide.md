@@ -175,9 +175,9 @@ Follow Odisha-specific news, government schemes, and development projects alongs
 
 ## Related Guides
 
-- [JPSC Exam Guide](/guides/jpsc-exam-guide) — Jharkhand civil services
-- [APPSC Exam Guide](/guides/appsc-exam-guide) — Andhra Pradesh state services
-- [Banking Exam Preparation Guide](/guides/banking-exam-preparation-guide) — Bank exams
+- [JPSC Exam Guide](/guide/jpsc-exam-guide) — Jharkhand civil services
+- [APPSC Exam Guide](/guide/appsc-exam-guide) — Andhra Pradesh state services
+- [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — Bank exams
 
 ## Frequently Asked Questions
 

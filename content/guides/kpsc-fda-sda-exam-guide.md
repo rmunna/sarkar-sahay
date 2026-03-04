@@ -299,9 +299,9 @@ Spardha Vijetha guides for Kannada and Karnataka GK, Wren & Martin for English g
 
 Preparing for Karnataka government exams? Check out these helpful guides:
 
-- [Karnataka Police Constable Exam Guide](/guides/karnataka-police-constable-exam-guide) — Another popular Karnataka state recruitment
-- [Karnataka TET Exam Guide](/guides/karnataka-tet-exam-guide) — For teaching aspirants in Karnataka
-- [Karnataka Government Schemes & Services](/guides/karnataka-government-schemes-services) — Overview of all state schemes
-- [Bhoomi Land Records Karnataka](/guides/bhoomi-land-records-karnataka) — Karnataka land record services
-- [How to Download Admit Card Online](/guides/admit-card-download-online-guide) — Step-by-step admit card download process
-- [SSC CGL Exam Guide](/guides/ssc-cgl-exam-guide) — Central government clerical exam alternative
+- [Karnataka Police Constable Exam Guide](/guide/karnataka-police-constable-exam-guide) — Another popular Karnataka state recruitment
+- [Karnataka TET Exam Guide](/guide/karnataka-tet-exam-guide) — For teaching aspirants in Karnataka
+- [Karnataka Government Schemes & Services](/guide/karnataka-government-schemes-services) — Overview of all state schemes
+- [Bhoomi Land Records Karnataka](/guide/bhoomi-land-records-karnataka) — Karnataka land record services
+- [How to Download Admit Card Online](/guide/admit-card-download-online-guide) — Step-by-step admit card download process
+- [SSC CGL Exam Guide](/guide/ssc-cgl-exam-guide) — Central government clerical exam alternative

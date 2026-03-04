@@ -58,7 +58,7 @@ CMHIS is Nagaland's flagship health insurance programme providing cashless treat
 
 **How to Enrol:** Visit the nearest Common Service Centre (CSC) or District Hospital with Aadhaar, ration card, and family details. You can also check eligibility on the [CMHIS portal](https://cmhis.nagaland.gov.in).
 
-> Related: [Ayushman Bharat Guide](/guides/ayushman-bharat-pmjay-guide) for understanding the central health insurance component.
+> Related: [Ayushman Bharat Guide](/guide/ayushman-bharat-pmjay-guide) for understanding the central health insurance component.
 
 ---
 
@@ -123,7 +123,7 @@ The e-District portal enables citizens to apply for essential government certifi
 5. Pay applicable fees online
 6. Track application status via the portal
 
-> Related: [How to Get Income Certificate Online](/guides/income-certificate-online-apply) and [Caste Certificate Guide](/guides/caste-certificate-online-apply) for step-by-step instructions.
+> Related: [How to Get Income Certificate Online](/guide/income-certificate-online-apply) and [Caste Certificate Guide](/guide/caste-certificate-online-apply) for step-by-step instructions.
 
 ---
 
@@ -149,7 +149,7 @@ NPSC conducts recruitment examinations for state civil services and other govern
 
 **Tip:** Candidates from Scheduled Tribes are eligible for age relaxation and fee concessions as per government norms.
 
-> Related: [Sarkari Naukri Guide](/guides/sarkari-naukri-government-jobs-guide) for broader government job preparation tips.
+> Related: [Sarkari Naukri Guide](/guide/sarkari-naukri-government-jobs-guide) for broader government job preparation tips.
 
 ---
 
@@ -186,7 +186,7 @@ NSRLM, operating under the National Rural Livelihoods Mission (NRLM) framework, 
 
 **Coverage:** All 12 districts of Nagaland with special focus on remote tribal villages.
 
-> Related: [Ration Card Guide](/guides/ration-card-online-apply) – many NSRLM beneficiaries also qualify for subsidised food grains.
+> Related: [Ration Card Guide](/guide/ration-card-online-apply) – many NSRLM beneficiaries also qualify for subsidised food grains.
 
 ---
 
@@ -236,7 +236,7 @@ Nagaland's population is over 85% Scheduled Tribe, making tribal welfare central
 - **Cultural Preservation Grants:** Funding for preservation of tribal languages, festivals (like Hornbill Festival), and traditional arts
 - **Hostel and Residential School Support:** Government-funded hostels for tribal students in urban centres
 
-> Related: [Scholarship Guide](/guides/scholarships-for-students-india) for national-level tribal scholarship details.
+> Related: [Scholarship Guide](/guide/scholarships-for-students-india) for national-level tribal scholarship details.
 
 ---
 
@@ -294,7 +294,7 @@ Most Nagaland government schemes follow a similar application process:
 5. **Track Status:** Use the application reference number on the respective portal
 6. **Grievance Redressal:** Contact the CM's Grievance Cell or use the [CPGRAMS portal](https://pgportal.gov.in) for unresolved issues
 
-> Related: [Aadhaar Card Guide](/guides/aadhaar-card-complete-guide) – Aadhaar is mandatory for most scheme applications.
+> Related: [Aadhaar Card Guide](/guide/aadhaar-card-complete-guide) – Aadhaar is mandatory for most scheme applications.
 
 ---
 
