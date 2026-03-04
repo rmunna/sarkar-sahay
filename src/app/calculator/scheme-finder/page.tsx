@@ -109,7 +109,7 @@ function checkEligibility(
 
 /* ───── FAQs ───── */
 const FAQS = [
-  { q: "How does the Government Scheme Finder work?", a: "Enter your basic details like age, income, category, and occupation. Our tool checks your eligibility against 80+ central and state government schemes and shows you the ones you qualify for, along with estimated annual benefits." },
+  { q: "How does the Government Scheme Finder work?", a: "Enter your basic details like age, income, category, and occupation. Our tool checks your eligibility against 230+ central and state government schemes and shows you the ones you qualify for, along with estimated annual benefits." },
   { q: "Is this eligibility check accurate?", a: "Our tool checks against the official eligibility criteria for each scheme. However, some schemes have additional criteria (like land ownership or specific documents) that can only be verified during the actual application. Always check the official website for final confirmation." },
   { q: "Can I apply for schemes directly from here?", a: "This tool helps you discover schemes you're eligible for. For each scheme, we provide a link to the official website and our detailed guide (where available) with step-by-step application instructions." },
   { q: "How many government schemes are covered?", a: "We cover 230+ schemes including 50+ central government schemes (PM Kisan, Ayushman Bharat, PM Awas Yojana, etc.) and 180+ state-specific schemes across all 31 states and UTs. We regularly update the database with verified benefit amounts." },
@@ -128,7 +128,7 @@ export default function SchemeFinderPage() {
   const [area, setArea] = useState("Rural");
   const [showResults, setShowResults] = useState(false);
   const [useLang, setUseLang] = useState(false);
-  const [filter, setFilter] = useState<"all" | "central" | "state">("all");
+  const [filter, setFilter] = useState<"all" | "central" | "state">("state");
   const [showIneligible, setShowIneligible] = useState(false);
 
   const langCode = STATE_LANG[state] || null;
@@ -194,7 +194,7 @@ export default function SchemeFinderPage() {
     "applicationCategory": "UtilityApplication",
     "operatingSystem": "Web",
     "offers": { "@type": "Offer", "price": "0", "priceCurrency": "INR" },
-    "description": "Find government schemes you're eligible for. Covers 80+ central and state schemes.",
+    "description": "Find government schemes you're eligible for. Covers 230+ central and state schemes across all 31 states.",
     "url": "https://citizennest.com/calculator/scheme-finder",
   };
 
@@ -216,7 +216,7 @@ export default function SchemeFinderPage() {
           Government Scheme Finder — Check Your Eligibility
         </h1>
         <p className="text-gray-600 mb-8">
-          Enter your details below to discover central and state government schemes you may be eligible for. Covers 83 schemes across 12 states.
+          Enter your details below to discover central and state government schemes you may be eligible for. Covers 230+ schemes across all 31 states.
         </p>
 
         {/* Input Form */}
@@ -333,7 +333,7 @@ export default function SchemeFinderPage() {
 
             {/* Filter Tabs */}
             <div className="flex gap-2 mb-6">
-              {(["all", "central", "state"] as const).map(f => (
+              {(["state", "central", "all"] as const).map(f => (
                 <button key={f} onClick={() => setFilter(f)}
                   className={`px-4 py-1.5 rounded-lg text-sm font-medium border transition ${filter === f ? "bg-orange-600 text-white border-orange-600" : "bg-white text-gray-700 border-gray-300 hover:border-orange-400"}`}>
                   {f === "all" ? `All (${results.eligible.length})` : f === "central" ? `Central (${results.eligible.filter(s => s.type === "central").length})` : `State (${results.eligible.filter(s => s.type === "state").length})`}
