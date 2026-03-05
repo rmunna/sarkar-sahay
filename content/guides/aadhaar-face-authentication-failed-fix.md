@@ -1,267 +1,170 @@
 ---
-title: "Aadhaar Face Authentication Failed — How to Fix Face Match Errors"
-description: "Aadhaar face authentication failed during eKYC? Fix face not matched, liveness check failed, and camera errors with this step-by-step troubleshooting guide."
+title: "Aadhaar Face Authentication Failed? How to Fix Biometric Verification Issues"
+description: "Fix Aadhaar face authentication failed error. Step-by-step solutions for biometric verification issues on mAadhaar, UIDAI portal, and Aadhaar services."
+lastUpdated: "2026-03-05"
 category: "Identity Documents"
-keywords:
-  - aadhaar face authentication failed
-  - aadhaar face id not working
-  - face verification failed aadhaar
-  - aadhaar face match error
-  - aadhaar face auth liveness check failed
-  - aadhaar face recognition not working
-  - pm kisan ekyc face authentication failed
-  - digilocker face verification failed
-  - aadhaar face authentication camera not working
-  - jeevan pramaan face authentication error
-  - aadhaar photo update for face auth
-  - aadhaar ekyc face not matched
-readingTime: "9 min"
-lastUpdated: 2026-03-02
+readingTime: "8 min"
+tags:
+  - "aadhaar"
+  - "face authentication"
+  - "biometric verification"
+  - "UIDAI"
+  - "mAadhaar"
 officialLinks:
-  - "https://uidai.gov.in/en/ecosystem/authentication-devices-documents/face-authentication.html"
-  - "https://myaadhaar.uidai.gov.in/"
-  - "https://resident.uidai.gov.in/aadhaarverification"
-  - "https://ssup.uidai.gov.in/update/demographics"
-  - "https://pmkisan.gov.in/"
+  - "https://uidai.gov.in"
+  - "https://myaadhaar.uidai.gov.in"
+  - "https://resident.uidai.gov.in"
+faqs:
+  - question: "Why does Aadhaar face authentication keep failing?"
+    answer: "Common reasons include poor lighting, outdated photo in UIDAI database, camera quality issues, wearing glasses or face coverings, and network connectivity problems during verification."
+  - question: "How many times can I retry face authentication?"
+    answer: "You can retry face authentication up to 3 times. After 3 failed attempts, the system locks you out temporarily. You can try again after 24 hours or use alternative verification methods like OTP or fingerprint."
+  - question: "Can I use face authentication if my Aadhaar photo is old?"
+    answer: "If your appearance has changed significantly since your last Aadhaar photo update, face authentication may fail. Visit an Aadhaar enrolment centre to update your photograph, which costs ₹50."
+  - question: "Is face authentication available for all Aadhaar services?"
+    answer: "No, face authentication is currently supported for select services like mAadhaar app login, Aadhaar lock/unlock, and certain government scheme verifications. Not all services support it yet."
+  - question: "What should I do if face authentication fails even with good lighting?"
+    answer: "Try updating the mAadhaar app, clear camera permissions, restart your phone, and ensure no other app is using the camera. If the issue persists, update your Aadhaar photo at an enrolment centre."
+  - question: "Can I complete Aadhaar verification without face authentication?"
+    answer: "Yes, you can use fingerprint authentication at an enrolment centre, iris scan, or Aadhaar OTP sent to your registered mobile number as alternatives to face authentication."
 ---
 
-# Aadhaar Face Authentication Failed — How to Fix
+# Aadhaar Face Authentication Failed? How to Fix Biometric Verification Issues
 
-Aadhaar face authentication is a contactless biometric verification method introduced by UIDAI. It matches your live face (captured via phone or webcam) against the photo stored in your Aadhaar database. Many government services now use this — PM Kisan eKYC, DigiLocker verification, Jeevan Pramaan (life certificate for pensioners), UMANG app, and various state portals.
+If you're seeing **"Face Authentication Failed"** or **"Biometric Verification Unsuccessful"** errors while trying to verify your Aadhaar, you're not alone. Millions of Indians face this issue daily when using the mAadhaar app, UIDAI portal, or government services that require Aadhaar-based face verification.
 
-If your face authentication keeps failing, this guide covers every common error and how to fix it.
+This guide covers every common error message, why it happens, and exactly how to fix it.
 
----
+## Common Error Messages You May See
 
-## What Is Aadhaar Face Authentication?
+- "Face Authentication Failed. Please try again"
+- "Biometric verification unsuccessful"
+- "Face did not match. Authentication denied"
+- "Unable to capture face. Please try again"
+- "Face liveness check failed"
+- "Technical error during face authentication"
 
-Face authentication is one of the biometric modes supported by UIDAI alongside fingerprint and iris scan. It works by:
+## Why Does Aadhaar Face Authentication Fail?
 
-1. Your phone or device camera captures a live photo of your face
-2. The system performs a **liveness check** (to ensure it's a real person, not a photo)
-3. Your live image is matched against the photo stored in the UIDAI Aadhaar database
-4. If the match score crosses the threshold, authentication succeeds
+Face authentication compares your live face capture with the photograph stored in the UIDAI database. Here are the main reasons it fails:
 
-It's used in services like:
-- **PM Kisan eKYC** — to verify beneficiary identity
-- **DigiLocker** — for Aadhaar-based sign-in and document verification
-- **Jeevan Pramaan** — digital life certificate for pensioners
-- **UMANG app** — for various government services
-- **mAadhaar app** — profile and biometric operations
-- **State government portals** — for scheme applications and certificate downloads
+### 1. Poor Lighting Conditions
+The camera needs clear, even lighting to capture your face properly. Too dark or too bright environments cause the system to fail.
 
----
+### 2. Outdated Photo in UIDAI Database
+If your Aadhaar photo was taken years ago and your appearance has changed (weight change, ageing, beard, etc.), the system cannot match your current face.
 
-## Common Aadhaar Face Authentication Errors
+### 3. Camera Quality Issues
+Low-resolution front cameras on budget phones may not capture enough facial detail for the algorithm to work.
 
-| Error Message | Meaning |
-|---|---|
-| "Face not matched" | Your live photo didn't match the Aadhaar database photo |
-| "Liveness check failed" | System couldn't confirm you're a real person (not a photo/video) |
-| "Camera not working" / "Camera access denied" | App can't access your device camera |
-| "Authentication failed — technical error" | Server-side issue at UIDAI or the requesting service |
-| "Face capture timeout" | You took too long to position your face |
-| "Poor image quality" | Camera captured a blurry or dark image |
+### 4. Wearing Glasses, Masks, or Coverings
+Any obstruction on your face — spectacles with thick frames, sunglasses, masks, or head coverings that shadow your face — can cause failure.
 
----
+### 5. Network or Server Issues
+UIDAI servers experience heavy load, especially during scheme deadlines. Slow connectivity can cause timeouts during the verification process.
 
-## How to Fix Face Authentication Failures
+## Step-by-Step Fix for Face Authentication Failed
 
-### Step 1: Fix Lighting and Environment
+### Step 1: Check Your Environment
+- Move to a **well-lit room** with natural or white light
+- Ensure light falls **on your face**, not behind you (avoid backlight)
+- Use a **plain background** — avoid busy or colourful backgrounds
 
-Poor lighting is the #1 reason for face match failures.
+### Step 2: Prepare Your Face
+- **Remove glasses**, caps, and any face covering
+- Keep a **neutral expression** — don't smile too wide or frown
+- Look **directly at the camera** at eye level
+- Keep your face **centered in the frame**
 
-- **Use natural daylight** — face a window or go to a well-lit room
-- **Avoid backlighting** — don't sit with a window or bright light behind you
-- **Avoid harsh shadows** — overhead tube lights can create shadows under eyes/nose
-- **No direct sunlight on face** — it causes squinting and uneven exposure
-- **Use a plain background** — a white or light-coloured wall works best
+### Step 3: Check Your Phone and App
+- **Update mAadhaar app** to the latest version from Google Play or App Store
+- Go to Settings → Apps → mAadhaar → **Clear Cache**
+- Ensure **camera permissions** are granted to the app
+- **Restart your phone** before trying again
+- Close all other apps that might use the camera
 
-### Step 2: Position Your Face Correctly
+### Step 4: Check Network Connectivity
+- Use a **stable Wi-Fi connection** instead of mobile data
+- If on mobile data, ensure you have **4G/5G signal with at least 2 bars**
+- Avoid peak hours (10 AM to 2 PM) when UIDAI servers are busiest
 
-- Hold the phone at **eye level**, about 30-40 cm (one arm's length) away
-- Look **directly at the camera** — not at the screen
-- Keep your face **centered in the frame/oval guide**
-- Keep your head **straight** — don't tilt sideways or look up/down
-- Maintain a **neutral expression** — no smiling, mouth closed
+### Step 5: Try Alternative Authentication
+If face authentication keeps failing after 2-3 attempts:
 
-### Step 3: Remove Obstructions
+1. **Use Aadhaar OTP**: Select OTP-based authentication instead of face. An OTP will be sent to your Aadhaar-registered mobile number
+2. **Visit an Aadhaar Enrolment Centre**: Use fingerprint or iris scan for authentication
+3. **Try after 24 hours**: If locked out after multiple failures, wait and retry
 
-- **Remove glasses** (especially tinted/photochromic ones) — even clear glasses can cause glare
-- **Remove face mask** completely
-- **Remove cap, hat, or head covering** (unless worn for religious reasons, ensure face is fully visible)
-- **Push hair back** if it covers your forehead or eyes
-- **Remove earphones** that may partially block your face
+### Step 6: Update Your Aadhaar Photo
+If your appearance has changed significantly:
 
-### Step 4: Check Camera Quality and Permissions
+1. Visit the nearest **Aadhaar Enrolment Centre** ([find one here](https://appointments.uidai.gov.in/))
+2. Request a **biometric update** (photo, fingerprints, iris)
+3. Pay the update fee of **₹50** (for biometric update)
+4. You'll receive an Update Request Number (URN)
+5. New photo will be active in **7-10 working days**
 
-- Use a phone with at least a **5 MP front camera** — most phones from 2018 onwards qualify
-- **Clean the front camera lens** — wipe with a soft cloth
-- **Grant camera permission** to the app: go to Settings → Apps → [App Name] → Permissions → Camera → Allow
-- **Close other camera apps** — only one app should use the camera at a time
-- On Android, check if any **battery saver or privacy mode** is blocking camera access
+## Fix for Specific Scenarios
 
-### Step 5: Check Internet Connection
+### Face Authentication Failed on mAadhaar App
+1. Uninstall and reinstall the mAadhaar app
+2. Log in fresh with your Aadhaar number
+3. When prompted for face auth, hold phone at **arm's length**
+4. Keep your head still — don't move during capture
+5. The liveness check requires you to **blink when asked** — follow on-screen instructions carefully
 
-Face authentication requires a stable internet connection to communicate with the UIDAI server.
+### Face Authentication Failed During eKYC
+When face auth fails during eKYC for bank accounts, SIM cards, or government schemes:
+1. Ask the operator to **retry with fingerprint** instead
+2. If at a bank, request **OTP-based eKYC** as fallback
+3. Carry original Aadhaar card for **offline verification** if digital methods fail
 
-- Use **WiFi or strong 4G/5G** — not 2G/3G
-- If on mobile data, ensure you have at least **2-3 bars of signal**
-- **Disable VPN** if active — it can interfere with authentication servers
-- Try switching between WiFi and mobile data if one isn't working
+### Face Authentication Failed for Aadhaar Lock/Unlock
+1. Go to [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in)
+2. Select **Lock/Unlock Aadhaar**
+3. Choose **OTP verification** instead of face authentication
+4. Enter OTP sent to registered mobile
+5. Complete the lock/unlock process
 
-### Step 6: Retry Multiple Times
+## How to Check if UIDAI Servers Are Down
 
-UIDAI's face matching has a threshold-based system. Minor variations can cause one attempt to fail while the next succeeds.
+Before troubleshooting your device, check if the issue is on UIDAI's end:
 
-- **Try 2-3 times** with slightly different angles
-- Wait a few seconds between attempts
-- If the app has a **re-capture** or **retry** button, use it instead of restarting the app
+1. Visit [UIDAI official website](https://uidai.gov.in)
+2. If the site loads slowly or shows errors, servers may be overloaded
+3. Check social media (Twitter/X) for **#AadhaarDown** or **#UIDAIDown** trending
+4. Try again during **off-peak hours** (early morning or late evening)
 
----
+## When to Visit an Aadhaar Enrolment Centre
 
-## Old Aadhaar Photo vs Current Appearance — The Biggest Problem
+You should visit a centre if:
+- Face authentication has failed **more than 5 times** over multiple days
+- Your Aadhaar photo is **more than 5 years old**
+- You've had **significant appearance changes** (surgery, major weight change)
+- Your registered **mobile number has changed** and you can't receive OTP
+- You need to update **biometrics** (fingerprint, iris, photo)
 
-If your Aadhaar was enrolled years ago, the photo in UIDAI's database may look very different from how you look now. This is the most common reason for persistent face match failures.
+### How to Book an Appointment
+1. Visit [appointments.uidai.gov.in](https://appointments.uidai.gov.in/)
+2. Select your state and city
+3. Choose the nearest enrolment centre
+4. Pick a date and time slot
+5. Note down the appointment number
 
-**Signs this is your issue:**
-- You've aged significantly since Aadhaar enrollment
-- You've gained or lost weight noticeably
-- You've grown or shaved a beard
-- Your Aadhaar was enrolled as a child (under 15)
-- You had different hairstyle/facial features at enrollment
+## Tips to Avoid Face Authentication Failures
 
-### Solution: Update Your Photo on Aadhaar
-
-You can update your Aadhaar photo by visiting an **Aadhaar Enrolment/Update Centre**:
-
-1. **Find nearest centre** — visit [appointments.uidai.gov.in](https://appointments.uidai.gov.in/) or call 1947
-2. **Book an appointment** (optional but recommended)
-3. **Visit the centre** with your current Aadhaar card and one valid ID proof
-4. **Request photo (biometric) update** — fill the Aadhaar Update Form
-5. **Pay the fee** — ₹100 (₹50 for demographic + ₹50 for biometric update, approximately)
-6. **Get acknowledgement slip** — save the URN (Update Request Number)
-7. **Photo update takes 10-30 days** to reflect in the database
-
-> **Note:** Photo update cannot be done online. You must visit an Aadhaar centre in person for biometric (photo, fingerprint, iris) updates.
-
-After your photo is updated, face authentication should work reliably.
-
-See our [Aadhaar card application guide](/guide/aadhaar-card-apply-online) for more details on Aadhaar enrolment centres.
-
----
-
-## Alternative Authentication Methods
-
-If face authentication keeps failing, most services offer alternative verification methods:
-
-| Method | How It Works | When to Use |
-|---|---|---|
-| **Fingerprint** | Place finger on biometric scanner | Available at Aadhaar centres, CSCs, and devices with fingerprint scanners |
-| **Iris scan** | Look into iris scanner | Available at some Aadhaar centres and government offices |
-| **OTP authentication** | Enter OTP sent to Aadhaar-linked mobile | Works on most apps and portals — easiest alternative |
-| **TOTP (Time-based OTP)** | Generate OTP via mAadhaar app | When Aadhaar-linked mobile is unavailable |
-
-### How to Switch to OTP Authentication
-
-On most apps (PM Kisan, DigiLocker, Jeevan Pramaan):
-
-1. On the authentication screen, look for **"Other authentication options"** or **"Use OTP instead"**
-2. Select **OTP-based authentication**
-3. Enter your **12-digit Aadhaar number**
-4. Enter the OTP received on your **Aadhaar-linked mobile number**
-5. Complete the verification
-
-> **Important:** OTP authentication requires that your mobile number is linked to Aadhaar. Check at [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in/) → Verify Aadhaar → check linked mobile.
-
-Also see our [Aadhaar biometric lock/unlock guide](/guide/aadhaar-biometric-lock-unlock) — if your biometrics are locked, face authentication will also fail.
-
----
-
-## Service-Specific Fixes
-
-### PM Kisan eKYC Face Authentication Failed
-
-- Open the PM Kisan app or go to [pmkisan.gov.in](https://pmkisan.gov.in/)
-- If face auth fails, select **OTP-based eKYC** instead
-- You can also complete eKYC at your nearest **CSC (Common Service Centre)**
-- eKYC deadline extensions are usually announced — check the official site
-
-### Jeevan Pramaan Face Authentication Failed
-
-- Elderly pensioners often face issues due to old Aadhaar photos
-- Use the **Jeevan Pramaan app** with good lighting
-- If face auth fails repeatedly, visit a **Jeevan Pramaan centre** or post office for fingerprint/iris-based verification
-- Some banks also facilitate Jeevan Pramaan submission
-
-### DigiLocker Face Verification Failed
-
-- Update the DigiLocker app to the latest version
-- Clear app cache: Settings → Apps → DigiLocker → Clear Cache
-- Use OTP-based sign-in as an alternative
-
----
-
-## Important Tips
-
-1. **Update your Aadhaar photo** if it's more than 5-7 years old or if your appearance has changed significantly — this is the most effective permanent fix
-2. **Always try OTP authentication first** if face auth is giving problems — it's faster and more reliable
-3. **Check if biometrics are locked** on [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in/) — locked biometrics block all biometric authentication including face
-4. **UIDAI server downtime** can cause temporary failures — try again after 30 minutes if you suspect a server issue
-5. **Don't use someone else's photo or a printed photo** — the liveness check will detect this and may flag your Aadhaar for suspicious activity
-
----
+- **Update your Aadhaar photo every 10 years** (UIDAI recommendation)
+- Keep the **mAadhaar app updated** at all times
+- Always have your **registered mobile number active** as OTP backup
+- **Clean your phone camera** before attempting face authentication
+- Practice the face capture position — phone at arm's length, face centered, even lighting
 
 ## Related Guides
 
-- [Aadhaar Biometric Lock & Unlock](/guide/aadhaar-biometric-lock-unlock)
-- [Aadhaar Biometric Lock Not Working? How to Fix Lock/Unlock Errors](/guide/aadhaar-biometric-lock-not-working-fix)
-- [Aadhaar Biometric Not Matching? Fix Face & Fingerprint](/guide/aadhaar-biometric-verification-failed-fix)
-- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
-- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
+- [How to Apply for Aadhaar Card Online](/guide/aadhaar-card-apply-online) — Complete application guide
+- [DigiLocker Document Not Found Fix](/guide/digilocker-document-not-found-fix) — Fix missing documents in DigiLocker
+- [Aadhaar Address Update Rejected Fix](/guide/aadhaar-address-update-rejected-fix) — Fix address update rejections
 
-## FAQs
+## Summary
 
-### Why does Aadhaar face authentication fail even with good lighting?
-
-The most common reason is a mismatch between your current appearance and the photo stored in the UIDAI database. If your Aadhaar was enrolled many years ago, your stored photo may look very different. Updating your Aadhaar photo at an enrolment centre usually fixes this permanently.
-
-### Can I do Aadhaar face authentication with glasses on?
-
-It's recommended to **remove glasses** during face authentication, especially tinted or reflective lenses. Even clear glasses can cause glare that interferes with the face matching algorithm. Remove them for the best chance of success.
-
-### What does "liveness check failed" mean in Aadhaar face authentication?
-
-The liveness check ensures you're a real person and not holding up a photo or video. It fails when the system can't detect natural facial movements or 3D depth. Make sure you're in good lighting, hold the phone steady, look directly at the camera, and follow any on-screen instructions like blinking or turning your head.
-
-### How do I update my photo on Aadhaar for face authentication?
-
-You must visit an Aadhaar Enrolment/Update Centre in person. Photo updates cannot be done online. Carry your current Aadhaar and a valid ID proof. The fee is approximately ₹100 and the update takes 10-30 days to reflect. Book an appointment at [appointments.uidai.gov.in](https://appointments.uidai.gov.in/).
-
-### Is OTP authentication more reliable than face authentication?
-
-Yes, OTP authentication is generally more reliable as it doesn't depend on camera quality, lighting, or photo matching. It only requires that your mobile number is linked to your Aadhaar. Most services that support face authentication also support OTP as an alternative.
-
-### Can Aadhaar face authentication work on any phone?
-
-Most smartphones from 2018 onwards with a front camera of 5 MP or higher should work. However, very old or low-end phones with poor camera quality may cause blurry captures that fail matching. Ensure the camera lens is clean and app permissions are granted.
-
-### What happens if I fail face authentication too many times?
-
-UIDAI may temporarily block authentication attempts for your Aadhaar number if there are too many consecutive failures (typically after 5-10 failed attempts). Wait 30 minutes to an hour before trying again, or switch to OTP-based authentication.
-
-### Does Aadhaar biometric lock affect face authentication?
-
-Yes. If you have enabled biometric lock on your Aadhaar through myAadhaar or mAadhaar app, all biometric authentication (fingerprint, iris, and face) will be blocked. You need to temporarily unlock biometrics before attempting face authentication. See our [biometric lock guide](/guide/aadhaar-biometric-lock-unlock) for instructions.
-
----
-
-*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with UIDAI or any government body. Information is compiled from official sources for citizen convenience. Always verify details on [uidai.gov.in](https://uidai.gov.in/) for the latest updates.*
-
-## Related Aadhaar Guides
-
-- [Aadhaar Biometric Lock Not Working? How to Fix Lock/Unlock Errors](/guide/aadhaar-biometric-lock-not-working-fix)
-- [Aadhaar Fingerprint Not Matching? Fix Biometric Verification Failed](/guide/aadhaar-biometric-verification-failed-fix)
-- [Aadhaar Biometric Lock & Unlock](/guide/aadhaar-biometric-lock-unlock)
-- [Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP](/guide/aadhaar-otp-not-received-fix)
-- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
+Aadhaar face authentication failures are usually caused by poor lighting, outdated photos, or phone camera issues. Start by fixing your environment and phone settings, then try OTP-based verification as a fallback. If nothing works, visit an enrolment centre to update your biometrics. The ₹50 biometric update solves the problem permanently for most users.

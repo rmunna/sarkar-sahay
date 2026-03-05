@@ -1,174 +1,182 @@
 ---
-title: "Aadhaar Address Update Rejected — Reasons & Fix"
-description: "Aadhaar address update rejected? Learn common rejection reasons, how to fix document issues, and re-apply online or at Aadhaar centre."
+title: "Aadhaar Address Update Rejected? How to Fix and Resubmit Online"
+description: "Fix Aadhaar address update rejected errors. Learn why UIDAI rejects address change requests and how to resubmit with correct documents online."
+lastUpdated: "2026-03-05"
 category: "Identity Documents"
-keywords: ["aadhaar address update rejected", "aadhaar address change rejected", "UIDAI address update fix", "aadhaar update rejected reason", "aadhaar address correction"]
-readingTime: "7 min"
-lastUpdated: "2025-02-22"
+readingTime: "9 min"
+tags:
+  - "aadhaar"
+  - "address update"
+  - "UIDAI"
+  - "aadhaar correction"
+  - "address proof"
 officialLinks:
-  - https://ssup.uidai.gov.in
-  - https://uidai.gov.in
-  - https://appointments.uidai.gov.in
+  - "https://myaadhaar.uidai.gov.in"
+  - "https://uidai.gov.in"
+  - "https://ssup.uidai.gov.in"
+faqs:
+  - question: "Why was my Aadhaar address update rejected?"
+    answer: "Common reasons include uploading unclear or expired documents, address mismatch between document and form, document not in the accepted list, poor quality scans, or incomplete form details."
+  - question: "How many times can I resubmit Aadhaar address update?"
+    answer: "There is no fixed limit on resubmissions, but each attempt requires a fresh fee of ₹50. Ensure your documents are correct before resubmitting to avoid repeated rejections."
+  - question: "Which documents are accepted for Aadhaar address update?"
+    answer: "Accepted documents include passport, bank statement (last 3 months), electricity bill, water bill, telephone bill, property tax receipt, voter ID, driving licence, insurance policy, and rental agreement with notarization."
+  - question: "How long does Aadhaar address update take after resubmission?"
+    answer: "Online address updates typically take 7-15 working days after resubmission. You can track status using the Update Request Number (URN) on the UIDAI website."
+  - question: "Can I update Aadhaar address without any documents?"
+    answer: "Yes, UIDAI offers Address Validation Letter (AVL) facility. A verification letter is sent to your new address, and you verify using the OTP in the letter. This doesn't require address proof documents."
+  - question: "What if my address proof document has a different name spelling?"
+    answer: "The name on your address proof must match your Aadhaar name exactly. If there's a spelling difference, first update your name on Aadhaar or use a different document where your name matches."
 ---
 
-## What is Aadhaar Address Update?
+# Aadhaar Address Update Rejected? How to Fix and Resubmit Online
 
-Aadhaar address update allows residents to change the address recorded on their Aadhaar card through the UIDAI Self-Service Update Portal (SSUP) or by visiting an Aadhaar Enrolment Centre. However, many requests get **rejected** due to document issues, mismatches, or upload errors.
+Getting an **"Address Update Request Rejected"** notification from UIDAI is frustrating, especially when you need your updated Aadhaar urgently for bank KYC, government schemes, or other services. This guide explains exactly why rejections happen and how to fix and resubmit successfully.
 
-This guide covers **why your Aadhaar address update was rejected** and **how to fix it** and re-apply successfully.
+## Common Rejection Messages
 
-## Common Rejection Reasons & Error Messages
+- "Your address update request has been rejected"
+- "Document not clear/readable"
+- "Address proof document not acceptable"
+- "Information mismatch in submitted documents"
+- "Incomplete or invalid supporting document"
 
-### 1. Document Mismatch
-- **Error:** "Address proof does not match the address provided"
-- **Cause:** The address on your uploaded document doesn't match what you entered in the form
-- **Fix:** Ensure the address you type in the form **exactly matches** the address on your proof document — including pin code, spelling, and locality name
+## Top Reasons UIDAI Rejects Address Updates
 
-### 2. Blurry or Unclear Upload
-- **Error:** "Document not readable" or "Poor quality document"
-- **Cause:** The scanned/photographed document is too blurry, dark, or cropped
-- **Fix:** Re-scan the document at **300 DPI minimum**. Use a flat surface, good lighting, and ensure all four corners are visible. File size should be under 2 MB in JPEG/PNG format
+### 1. Document Not Clear or Readable
+The most common reason. If your uploaded scan is blurry, dark, cut off, or has low resolution, UIDAI operators will reject it.
 
-### 3. Wrong Proof Type
-- **Error:** "Invalid document" or "Document not accepted"
-- **Cause:** You uploaded a document that UIDAI does not accept as valid address proof
-- **Fix:** Use only documents from the **UIDAI-approved list** (see below)
+### 2. Document Not in Accepted List
+UIDAI accepts only **33 specific documents** as address proof. Common documents that are NOT accepted include:
+- Ration card (not accepted in all states)
+- Company ID card
+- School/college certificates
+- Affidavits without supporting documents
+
+### 3. Address Mismatch
+The address on your document doesn't match what you entered in the update form. Even small differences like "Rd" vs "Road" or missing pin code can cause rejection.
 
 ### 4. Expired Document
-- **Error:** "Document expired or not valid"
-- **Cause:** Some documents like passport, driving licence, or utility bills have validity periods
-- **Fix:** Upload a document that is **current and not expired**. Utility bills must be less than 3 months old
+Bank statements older than 3 months, expired passport, or outdated utility bills (older than 3 months) are rejected.
 
-### 5. Name Mismatch Between Aadhaar and Document
-- **Error:** "Name on document does not match Aadhaar records"
-- **Cause:** Your name on the address proof differs from your Aadhaar name (spelling, middle name, etc.)
-- **Fix:** First update your name on Aadhaar, then apply for address change. Or use a document where your name matches Aadhaar exactly
+### 5. Name Mismatch
+Your name on the address proof doesn't match your name in Aadhaar records.
 
-### 6. Multiple Update Requests
-- **Error:** "Update request already in progress"
-- **Cause:** You submitted another update request while one is still being processed
-- **Fix:** Wait for the previous request to complete (check status at ssup.uidai.gov.in) before submitting a new one
+### 6. Document in Regional Language Without Translation
+Documents in regional languages are accepted, but if the address is not clearly readable, it may be rejected.
 
-## Documents That Work Best for Address Update
+## How to Fix and Resubmit Online
 
-UIDAI accepts **33 documents** as valid address proof. These have the **highest acceptance rate:**
+### Step 1: Check Your Rejection Reason
+1. Visit [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in)
+2. Log in with your Aadhaar number and OTP
+3. Go to **"Check Update Status"**
+4. Enter your **URN (Update Request Number)**
+5. The status page shows the **rejection reason**
 
-| Document | Why It Works |
+### Step 2: Prepare the Right Document
+Choose from these **most reliable** address proof documents (highest acceptance rate):
+
+| Document | Requirements |
 |----------|-------------|
-| Passport | Government-issued, clear address format |
-| Bank Statement / Passbook | Recent, verifiable, widely accepted |
-| Voter ID (EPIC) | Government-issued with full address |
-| Electricity / Water Bill | Must be less than 3 months old |
-| Property Tax Receipt | Shows ownership and address clearly |
-| Driving Licence | Government-issued with address |
-| Gas Connection Bill | Recent utility bill with address |
-| Ration Card | Government-issued household document |
+| **Passport** | Must be valid (not expired) |
+| **Bank Statement** | Last 3 months, with bank letterhead/stamp |
+| **Electricity Bill** | Last 3 months, in your name |
+| **Property Tax Receipt** | Current year |
+| **Driving Licence** | Valid, with current address |
+| **Voter ID** | With current address |
+| **Rent Agreement** | Registered or notarized, with landlord details |
 
-**Pro Tip:** Bank passbook with latest stamp and utility bills (< 3 months old) have the **lowest rejection rate** because they contain a clear, current address.
+### Step 3: Scan Your Document Properly
+- Use a **scanner app** like Adobe Scan or Microsoft Lens (not just phone camera)
+- Scan in **colour**, not black and white
+- Resolution should be **200 DPI or higher**
+- File size: **under 2 MB** (JPEG or PDF)
+- Ensure all **four corners** of the document are visible
+- **Both sides** of the document if applicable
+- Text must be **clearly readable** when zoomed in
 
-## How to Re-Apply: Step-by-Step Fix
+### Step 4: Fill the Form Carefully
+1. Go to [ssup.uidai.gov.in](https://ssup.uidai.gov.in) or [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in)
+2. Select **"Update Address"**
+3. Enter your address **exactly as it appears on your proof document**
+4. Match every detail: house number, street name, locality, district, state, PIN code
+5. Use the **same language** (English/Hindi) as your document
+6. Double-check pin code — wrong PIN code is a very common error
 
-### Method 1: Online via SSUP Portal
+### Step 5: Upload and Submit
+1. Upload the scanned document
+2. Preview the uploaded image — ensure it's **clear and complete**
+3. Pay the **₹50 fee** via credit/debit card, net banking, or UPI
+4. Note down the **new URN** for tracking
+5. Track status at [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in)
 
-1. Go to [ssup.uidai.gov.in](https://ssup.uidai.gov.in)
-2. Enter your **12-digit Aadhaar number** and captcha
-3. Click **"Send OTP"** — OTP will be sent to your registered mobile
-4. Select **"Address"** under the update section
-5. Enter your **new address exactly as it appears** on your proof document
-6. Upload a **clear, high-quality scan** of your address proof (JPEG/PNG, under 2 MB)
-7. Double-check all fields — spelling, pin code, state
-8. Pay the fee of **₹75** (online payment)
-9. Note down the **URN (Update Request Number)** for tracking
-10. Check status after 5-7 days at ssup.uidai.gov.in
+## Alternative: Address Validation Letter (AVL)
 
-### Method 2: At Aadhaar Enrolment Centre (Recommended for Repeated Rejections)
+If you don't have acceptable address proof documents, use UIDAI's **Address Validation Letter** method:
 
-1. Book an appointment at [appointments.uidai.gov.in](https://appointments.uidai.gov.in)
-2. Visit the centre with your **original address proof document** and a **photocopy**
-3. Fill the **Aadhaar Update Form** at the centre
-4. Submit biometrics (fingerprint and iris scan)
-5. Collect the **acknowledgement slip** with URN
-6. Fee: **₹75** (paid at the centre)
-7. Updated Aadhaar will be available in **10-15 working days**
+1. Visit [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in)
+2. Log in and select **"Update Address via Address Validation Letter"**
+3. Enter your **new address**
+4. UIDAI sends a **physical letter** to your new address via Speed Post
+5. The letter contains a **Secret Code**
+6. Log back in within **30 days** and enter the Secret Code
+7. Your address gets updated — **no document upload needed**
 
-**When to choose Aadhaar Centre over Online:**
-- Your request was rejected **2 or more times** online
-- You don't have a clear digital copy of your document
-- Your mobile number is not linked to Aadhaar (can't receive OTP)
-- You need to update address along with other details (name, DOB)
+**Note:** AVL takes 7-15 days for letter delivery. The Secret Code expires in 30 days.
 
-## Address Update via Address Validation Letter (Without Document)
+## Fix for Specific Rejection Scenarios
 
-If you don't have a valid address proof document:
+### Rejected Due to "Document Not Acceptable"
+- Check the [full list of 33 accepted documents](https://uidai.gov.in/en/my-aadhaar/about-your-aadhaar/aadhaar-usage.html)
+- Use a **bank statement** — it's the easiest to obtain and has the highest acceptance rate
+- Download your bank statement from internet banking (ensure it has the bank logo and your address)
 
-1. Visit [ssup.uidai.gov.in](https://ssup.uidai.gov.in) and select **"Address Validation Letter"**
-2. Enter your new address
-3. An **Address Validation Letter** with a Secret Code will be sent to your new address via Speed Post
-4. Use the Secret Code on the SSUP portal to verify and update your address
-5. The letter is valid for **30 days** from the date of issue
-6. Fee: **₹75**
+### Rejected Due to "Address Mismatch"
+- Open your document and the UIDAI form **side by side**
+- Copy the address **character by character** from the document
+- Include the **full address** — don't abbreviate or skip any line
+- Ensure PIN code matches the one on your document
 
-## When to Contact UIDAI Helpline
+### Rejected Due to "Document Not Clear"
+- Re-scan using a scanner app with **auto-enhance** feature
+- Ensure the scan has **no shadows or fingers** visible
+- If the original document is faded, get a **fresh copy** from the issuing authority
+- Upload as **PDF** instead of JPEG for better quality
 
-Contact UIDAI if:
-- Your request has been **pending for more than 30 days**
-- You received a rejection but the **reason is unclear**
-- You've been rejected **3 or more times** despite correct documents
-- You suspect **fraud or unauthorized changes** to your Aadhaar
+### Rejected Multiple Times
+If your online request has been rejected 2-3 times:
+1. **Visit an Aadhaar Enrolment Centre** with original documents
+2. The operator will scan documents using professional equipment
+3. Carry **2 different address proof documents** for better chances
+4. Book appointment at [appointments.uidai.gov.in](https://appointments.uidai.gov.in/)
 
-**UIDAI Helpline:** 1947 (toll-free)
-**Email:** help@uidai.gov.in
-**Regional Office Locator:** [uidai.gov.in/contact-support](https://uidai.gov.in/contact-support)
+## How to Track Address Update Status
 
-## Important Tips
+1. Visit [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in)
+2. Click **"Check Aadhaar Update Status"**
+3. Enter your **URN** (from the acknowledgement slip)
+4. Check the current status:
+   - **Submitted** — Under processing
+   - **Under Review** — Being verified by UIDAI operator
+   - **Approved** — Address updated successfully
+   - **Rejected** — Follow steps above to resubmit
 
-1. **Match exactly** — the address in your form must match your document word-for-word
-2. **Scan quality matters** — use 300 DPI, good lighting, full document visible
-3. **Use recent documents** — utility bills must be less than 3 months old
-4. **Check status regularly** — use your URN at ssup.uidai.gov.in
-5. **Keep acknowledgement safe** — you'll need the URN for any follow-up or complaint
+## Tips to Get Address Update Approved on First Try
+
+- Use a **bank statement** — highest acceptance rate among all documents
+- Scan documents using **Adobe Scan app** for best quality
+- Copy address **exactly** from the document — don't paraphrase
+- Submit during **weekdays** — processing is faster
+- Keep **two backup documents** ready in case one is rejected
+- Ensure your **mobile number is updated** in Aadhaar for OTP
 
 ## Related Guides
 
-- [How to Change Address in Aadhaar Card Online and Offline](/guide/aadhaar-address-change-online)
-- [Aadhaar Address Update Online Not Working — How to Fix](/guide/aadhaar-address-update-online-not-working-fix)
-- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
-- [How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide](/guide/aadhaar-card-download-online)
-- [How to Check Aadhaar Card Update Status Online](/guide/aadhaar-update-status-check)
+- [How to Apply for Aadhaar Card Online](/guide/aadhaar-card-apply-online) — New Aadhaar application process
+- [Aadhaar Face Authentication Failed Fix](/guide/aadhaar-face-authentication-failed-fix) — Fix biometric verification errors
+- [DigiLocker Document Not Found Fix](/guide/digilocker-document-not-found-fix) — Fix missing documents in DigiLocker
 
-## FAQs
+## Summary
 
-### How many times can I update my Aadhaar address?
-There is no limit on the number of address updates. However, each update costs ₹75 and you must wait for one request to complete before submitting another.
-
-### How long does Aadhaar address update take?
-Online updates typically take **5-10 working days**. At Aadhaar centres, it takes **10-15 working days**. Address Validation Letter method takes **15-30 days** including postal delivery.
-
-### Can I update my Aadhaar address without a mobile number linked?
-Not online — you need OTP verification. Visit an **Aadhaar Enrolment Centre** in person with your original documents for address update without OTP.
-
-### Why was my address update rejected even with correct documents?
-Common reasons include: the address entered in the form doesn't exactly match the document, the scan is not clear enough, or the document is expired. Re-read the rejection reason in your status check carefully.
-
-### Can I update my address using someone else's document?
-No. The address proof must be in **your name** (matching your Aadhaar name) or you must be listed on the document (e.g., ration card, property document with your name).
-
-### Is there a fee for Aadhaar address update?
-Yes, ₹75 for both online and offline updates. This is a government-mandated fee.
-
-### Can NRIs update their Aadhaar address?
-Yes, NRIs can update to their Indian address. They need to visit an Aadhaar centre in person with valid address proof.
-
----
-
-*This is an independent guide and is not affiliated with UIDAI or the Government of India. Information is sourced from official UIDAI resources. Always verify at [uidai.gov.in](https://uidai.gov.in) for the latest rules.*
-
-*For a complete guide on applying for a new Aadhaar card, see our [Aadhaar Card Apply Online guide](/guide/aadhaar-card-apply-online).*
-
-## Related Aadhaar Guides
-
-- [Aadhaar Address Update Online Not Working — How to Fix](/guide/aadhaar-address-update-online-not-working-fix)
-- [How to Change Address in Aadhaar Card Online and Offline](/guide/aadhaar-address-change-online)
-- [Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP](/guide/aadhaar-otp-not-received-fix)
-- [Aadhaar Card Common Problems & Solutions](/guide/aadhaar-common-problems-solutions)
-- [How to Apply for Aadhaar Card Online — Step-by-Step Guide](/guide/aadhaar-card-apply-online)
+Aadhaar address update rejections are mostly caused by unclear document scans, expired documents, or address mismatches. To fix it: check the rejection reason on UIDAI portal, prepare a fresh high-quality scan of an accepted document, copy the address exactly as written, and resubmit. If online attempts keep failing, visit an enrolment centre with original documents. The Address Validation Letter (AVL) method is a great alternative when you lack acceptable address proof.

@@ -1,308 +1,213 @@
 ---
-title: How to Apply for Water Connection Online in India
-description: >-
-  Step-by-step guide to apply for a new water connection online in India. Covers
-  Delhi Jal Board, Mumbai BMC, Bangalore BWSSB, Chennai Metro Water,
-  Hyderabad...
-category: Utilities
-keywords:
-  - water connection apply online
-  - new water connection
-  - Delhi Jal Board connection
-  - water bill payment online
-  - BWSSB water connection Bangalore
-  - Chennai Metro Water new connection
-  - HMWSSB Hyderabad water connection
-  - Jal Jeevan Mission
-  - water connection documents required
-  - water connection fees India
-readingTime: 12 min
+title: "How to Apply for New Water Connection Online in India"
+description: "Step-by-step guide to apply for a new water connection online in India. Covers BWSSB, Delhi Jal Board, HMWSSB, and other state water boards."
+lastUpdated: "2026-03-05"
+category: "Utilities"
+readingTime: "9 min"
+tags:
+  - water connection
+  - new connection
+  - BWSSB
+  - Delhi Jal Board
+  - HMWSSB
+  - water supply
+  - municipal services
 officialLinks:
-  - 'https://djb.gov.in'
-  - 'https://portal.mcgm.gov.in'
-  - 'https://bwssb.gov.in'
-  - 'https://chennaimetrowater.tn.nic.in'
-  - 'https://hmwssb.gov.in'
-  - 'https://jaljeevanmission.gov.in'
-  - 'https://ejalshakti.gov.in'
+  - "https://bwssb.karnataka.gov.in"
+  - "https://delhijalboard.delhi.gov.in"
+  - "https://www.hyderabadwater.gov.in"
+  - "https://chennaimetrowater.tn.gov.in"
+faqs:
+  - question: "How long does it take to get a new water connection?"
+    answer: "Typically 15-30 days after submitting all documents and paying fees. In some cities, it may take longer if pipeline extension is required in your area."
+  - question: "What is the cost of a new water connection?"
+    answer: "Costs vary by city and connection size. A standard domestic connection costs ₹2,000-₹15,000 depending on the city, pipe diameter, and infrastructure charges."
+  - question: "Can I apply for a water connection online in all cities?"
+    answer: "Major cities like Bengaluru, Delhi, Hyderabad, Chennai, and Mumbai offer online applications. Smaller towns may still require offline application at the local water authority office."
+  - question: "What documents are needed for a new water connection?"
+    answer: "You typically need property ownership proof (sale deed/Khata), identity proof (Aadhaar), address proof, building plan approval, and a passport-size photograph. Tenants need an NOC from the owner."
+  - question: "Can a tenant apply for a water connection?"
+    answer: "Yes, but a tenant needs a No Objection Certificate (NOC) from the property owner along with the rental agreement. The connection will usually be in the owner's name."
+  - question: "What is the difference between domestic and commercial water connection?"
+    answer: "Domestic connections are for residential use and have lower tariffs. Commercial connections are for businesses and attract higher water charges and connection fees."
 ---
 
-# How to Apply for Water Connection Online in India
+# How to Apply for New Water Connection Online in India
 
-Getting a new water connection in India is now easier thanks to online portals run by municipal water boards. Whether you live in Delhi, Mumbai, Bangalore, Chennai, or Hyderabad, you can apply for a domestic or commercial water connection from your home.
+Getting a new water connection is one of the first things you need after moving into a new property. Most major cities in India now allow you to apply for a **new water supply connection online** through their water board portals. This guide covers the process across major cities.
 
-This guide covers the complete process — types of connections, documents needed, city-wise portals, fees, and how to track your application.
+## Who Provides Water Connections?
 
----
+Water supply is managed by different agencies depending on the city:
+
+| City | Water Authority |
+|------|-----------------|
+| Bengaluru | BWSSB (Bangalore Water Supply and Sewerage Board) |
+| Delhi | Delhi Jal Board (DJB) |
+| Mumbai | BMC (Hydraulic Engineering Department) |
+| Hyderabad | HMWSSB (Hyderabad Metropolitan Water Supply & Sewerage Board) |
+| Chennai | CMWSSB (Chennai Metro Water) |
+| Kolkata | KMC (Water Supply Department) |
+| Pune | PMC Water Supply Department |
 
 ## Types of Water Connections
 
-Most water boards in India offer these types of connections:
-
-| Type | Description |
-|------|-------------|
-| **Domestic** | For residential houses, flats, and apartments |
-| **Commercial** | For shops, offices, hotels, restaurants, and businesses |
-| **Industrial** | For factories and manufacturing units |
-| **Temporary** | For construction sites, events, or short-term needs |
-| **Bulk Supply** | For housing societies, institutions, and large complexes |
-
-> **Tip:** Domestic connections have lower tariffs than commercial or industrial ones. Make sure you apply under the correct category.
-
----
+- **Domestic** — For residential use (houses, apartments)
+- **Commercial** — For shops, offices, restaurants, hotels
+- **Industrial** — For factories and manufacturing units
+- **Institutional** — For schools, hospitals, government buildings
+- **Construction/Temporary** — For building construction (time-limited)
 
 ## Documents Required
 
-While exact requirements vary by city, you will generally need:
+### For Property Owners
+1. **Property ownership proof** — Sale deed, Khata certificate, or property tax receipt
+2. **Identity proof** — Aadhaar card
+3. **Address proof** — Aadhaar or utility bill
+4. **Building plan approval** — Sanctioned plan from municipal authority
+5. **Passport-size photograph**
+6. **Previous water bill** (if transferring connection)
+7. **Plumber's certificate** (required in some cities)
 
-1. **Identity Proof** — [Aadhaar](/guide/aadhaar-card-apply-online) Card, Voter ID, or Passport
-2. **Address Proof** — Aadhaar, Electricity Bill, or Ration Card
-3. **Property Ownership Proof** — Sale Deed, Registry, or Allotment Letter
-4. **Building Plan Approval** — Sanctioned building plan from the local municipal body
-5. **NOC from Property Owner** — If the applicant is a tenant
-6. **Passport-size Photographs** — 2 copies
-7. **Plumber's Certificate** — Internal plumbing completion certificate (required in some cities)
-8. **Previous Water Bill** (if any) — For mutation or transfer cases
+### For Tenants
+All of the above plus:
+- Rental agreement (registered)
+- NOC from property owner
+- Owner's Aadhaar copy
 
-> **Note:** For commercial connections, you may also need a Trade Licence and GST registration.
+### For Apartments/Buildings
+- Society registration certificate
+- Resolution from housing society
+- Common area plan showing water meter location
+- Number of units/flats
 
----
+## How to Apply Online: City-Wise Guide
+
+### Bengaluru (BWSSB)
+
+1. Visit [bwssb.karnataka.gov.in](https://bwssb.karnataka.gov.in)
+2. Click on **"New Connection"** or **"Apply Online"**
+3. Register with your mobile number
+4. Fill the application form:
+   - Property details (Khata number, address, zone)
+   - Connection type (domestic/commercial)
+   - Pipe size required (15mm for domestic, 20mm+ for commercial)
+5. Upload documents (property proof, Aadhaar, photo)
+6. Pay the application fee online
+7. Note the **application number** for tracking
+8. BWSSB engineer will visit for site inspection
+9. After approval, pay the connection charges
+10. Connection installed within 15-30 days
+
+**Fees (approximate):**
+- Application fee: ₹500
+- Connection charges (15mm domestic): ₹5,000-₹8,000
+- Security deposit: ₹2,000-₹5,000
+
+### Delhi (Delhi Jal Board)
+
+1. Visit [delhijalboard.delhi.gov.in](https://delhijalboard.delhi.gov.in)
+2. Go to **"New Water Connection"**
+3. Fill the online form with property and owner details
+4. Upload documents
+5. Pay application fee via online gateway
+6. DJB engineer conducts site survey
+7. Pay connection charges after approval
+8. Connection provided within 15 days (as per citizen charter)
+
+**Fees (approximate):**
+- Application fee: ₹200-₹500
+- Connection charges: ₹3,000-₹7,000
+- Meter charges: Included or separate
+
+### Hyderabad (HMWSSB)
+
+1. Visit [hyderabadwater.gov.in](https://www.hyderabadwater.gov.in)
+2. Navigate to **"Apply for New Connection"**
+3. Enter property details and upload documents
+4. Pay application fee online
+5. Site inspection by HMWSSB staff
+6. Connection installed after fee payment
+
+**Fees:** ₹4,000-₹10,000 for domestic connection
+
+### Chennai (CMWSSB)
+
+1. Visit [chennaimetrowater.tn.gov.in](https://chennaimetrowater.tn.gov.in)
+2. Apply under **"New Connection"**
+3. Submit property documents online
+4. Pay application charges
+5. Inspection and approval process
+6. Connection timeline: 15-30 days
+
+### Mumbai (BMC)
+
+- Apply at the **BMC ward office** (Hydraulic Engineering department)
+- Online tracking available after offline application
+- Submit property documents and building completion certificate
+- Fees vary based on pipe diameter and zone
 
 ## General Step-by-Step Process
 
-The process is similar across most Indian cities:
+For cities where online application is available:
 
-1. **Visit the official water board portal** of your city (links below)
-2. **Register an account** using your mobile number and email
-3. **Log in** and select "Apply for New Connection"
-4. **Fill the application form** — Enter property details, connection type, and personal information
-5. **Upload documents** — Scanned copies of Aadhaar, property papers, building plan, etc.
-6. **Pay the application fee** online (UPI, net banking, debit/credit card)
-7. **Submit the application** and note down the Application Reference Number (ARN)
-8. **Site inspection** — A water board engineer will visit your property for a feasibility check
-9. **Pay connection charges** — After approval, pay the connection fee and security deposit
-10. **Connection installed** — The water board installs the pipeline and meter
+1. **Visit the water authority portal** for your city
+2. **Create an account** with mobile number and email
+3. **Select "New Connection"** and choose connection type
+4. **Fill property details** — address, area, Khata/property ID
+5. **Upload scanned documents** — ownership proof, Aadhaar, photo
+6. **Pay the application fee** online
+7. **Track your application** using the reference number
+8. **Await site inspection** — an engineer will visit to verify
+9. **Pay connection charges** after approval
+10. **Get the connection** — installation within 15-30 days
 
----
+## Choosing the Right Pipe Size
 
-## City-Wise Online Portals
+| Pipe Size | Suitable For | Monthly Supply |
+|-----------|-------------|----------------|
+| 15mm (½ inch) | Small house, 1-2 members | Standard domestic |
+| 20mm (¾ inch) | Medium house, 3-5 members | Higher flow |
+| 25mm (1 inch) | Large house, 5+ members | High volume |
+| 40mm+ | Commercial/apartment buildings | As per requirement |
 
-### 1. Delhi — Delhi Jal Board (DJB)
+Choose based on your household size and usage. A larger pipe means higher connection and monthly charges.
 
-- **Portal:** [https://djb.gov.in](https://djb.gov.in)
-- **Apply:** Go to DJB RMS Portal → "Apply for New Connection"
-- **Track Status:** Use "Track Application Status" on the portal with your ARN
-- **Pay Bill:** Online bill payment via the portal (SBI, Axis Bank, UPI supported)
-- **Grievance:** "Apply for Grievance" option available on the portal
-- **Helpline:** 1916
+## Connection Charges: What You Pay
 
-**Key steps for DJB:**
-1. Visit [https://djb.gov.in](https://djb.gov.in) and click "Apply for New Connection"
-2. Register with your mobile number
-3. Fill property details and upload documents
-4. Pay application fee online
-5. After site inspection and approval, pay connection charges
-6. Connection is typically provided within 15–30 days
+The total cost typically includes:
 
-### 2. Mumbai — Brihanmumbai Municipal Corporation (BMC)
+- **Application/processing fee** — ₹200-₹500
+- **Connection charges** — Based on pipe size and city
+- **Road cutting and restoration** — If the main pipeline is across a road
+- **Security deposit** — Refundable deposit (₹2,000-₹10,000)
+- **Meter charges** — For the water meter installation
+- **Infrastructure/development charges** — One-time charge in some cities
 
-- **Portal:** [https://portal.mcgm.gov.in](https://portal.mcgm.gov.in)
-- **Apply:** Navigate to Hydraulic Engineering Department → New Water Connection
-- **Pay Bill:** Online through the BMC portal
-- **Helpline:** 1916
+## What If Your Application Is Rejected?
 
-**Key steps for Mumbai:**
-1. Visit [https://portal.mcgm.gov.in](https://portal.mcgm.gov.in)
-2. Register and log in to the citizen portal
-3. Select "New Water Connection" under Water Supply services
-4. Fill in property and applicant details
-5. Upload required documents (property proof, ID proof, building plan approval)
-6. Pay the application fee
-7. Await site inspection and approval
-8. Processing time: 30–45 days
+Common reasons and solutions:
 
-### 3. Bangalore — Bangalore Water Supply and Sewerage Board (BWSSB)
+- **Incomplete documents** — Resubmit with missing documents
+- **No pipeline in your area** — Request pipeline extension (may take longer)
+- **Unauthorized construction** — Get building plan approval first
+- **Outstanding dues on property** — Clear previous owner's water bill arrears
 
-- **Portal:** [https://bwssb.gov.in](https://bwssb.gov.in)
-- **Apply:** Online application through BWSSB portal or via Seva Sindhu
-- **Pay Bill:** Online payment available on the BWSSB website
-- **Helpline:** 1916
+## Tips for Faster Processing
 
-**Key steps for BWSSB:**
-1. Visit [https://bwssb.gov.in](https://bwssb.gov.in)
-2. Go to "Online Services" → "New Connection"
-3. Fill application form with property details
-4. Upload Aadhaar, Khata certificate, building plan, and property documents
-5. Pay the application fee
-6. BWSSB engineer conducts site inspection
-7. Pay connection charges after approval
-8. Processing time: 15–30 days
+- Submit **complete documents** the first time — incomplete applications cause delays
+- **Pay fees promptly** after approval notification
+- **Be available for site inspection** — reschedule quickly if you miss it
+- **Follow up** at the ward-level office if online tracking shows no progress
+- Apply for water connection **alongside building plan approval** to save time
 
-### 4. Chennai — Chennai Metropolitan Water Supply and Sewerage Board (CMWSSB)
+## Related Guides
 
-- **Portal:** [https://chennaimetrowater.tn.nic.in](https://chennaimetrowater.tn.nic.in)
-- **Apply:** Apply online or at the nearest Area Office
-- **Pay Bill:** Online payment through the CMWSSB portal
-- **Helpline:** 044-4567 4567
+- [How to Pay Water Bill Online](/guide/water-bill-pay-online) — Pay your water bill after getting connected
+- [Electricity New Connection Guide](/guide/electricity-new-connection-apply-online) — Apply for electricity too
+- [Property Registration Online](/guide/property-registration-online-guide) — Property ownership proof for connection
+- [Khata Transfer Online](/guide/khata-transfer-property-online) — Update property records
 
-**Key steps for Chennai Metro Water:**
-1. Visit [https://chennaimetrowater.tn.nic.in](https://chennaimetrowater.tn.nic.in)
-2. Click on "New Connection" under Online Services
-3. Fill in the application with property and personal details
-4. Upload ownership proof, Aadhaar, and building plan
-5. Pay application fee online
-6. Site inspection will be scheduled
-7. Pay connection fee and security deposit upon approval
-8. Processing time: 15–30 days
+## Conclusion
 
-### 5. Hyderabad — Hyderabad Metropolitan Water Supply and Sewerage Board (HMWSSB)
-
-- **Portal:** [https://hmwssb.gov.in](https://hmwssb.gov.in)
-- **Apply:** Online through HMWSSB portal or Telangana Seva portal
-- **Pay Bill:** Online bill payment on the HMWSSB website
-- **Helpline:** 155313
-
-**Key steps for HMWSSB:**
-1. Visit [https://hmwssb.gov.in](https://hmwssb.gov.in)
-2. Navigate to "New Connection" section
-3. Fill the online application form
-4. Upload property documents, Aadhaar, and building approval
-5. Pay the application processing fee
-6. Await site inspection
-7. Pay connection charges and security deposit
-8. Processing time: 15–30 days
-
----
-
-## Fees and Security Deposit
-
-Water connection charges vary by city, connection type, and pipe size. Here is a general estimate:
-
-| City | Domestic Connection Fee (approx.) | Security Deposit (approx.) |
-|------|----------------------------------|---------------------------|
-| Delhi (DJB) | ₹3,000 – ₹5,000 | ₹1,000 – ₹3,000 |
-| Mumbai (BMC) | ₹5,000 – ₹15,000 | ₹2,000 – ₹5,000 |
-| Bangalore (BWSSB) | ₹5,000 – ₹10,000 | ₹2,000 – ₹5,000 |
-| Chennai (CMWSSB) | ₹3,000 – ₹8,000 | ₹1,000 – ₹3,000 |
-| Hyderabad (HMWSSB) | ₹4,000 – ₹10,000 | ₹1,500 – ₹4,000 |
-
-> **Note:** Commercial and industrial connections cost significantly more. Fees are updated periodically — check the official portal for current rates.
-
-**Payment modes:** UPI, Net Banking, Debit Card, Credit Card, and in some cases, at designated bank branches.
-
----
-
-## Processing Time
-
-| City | Typical Processing Time |
-|------|------------------------|
-| Delhi | 15–30 days |
-| Mumbai | 30–45 days |
-| Bangalore | 15–30 days |
-| Chennai | 15–30 days |
-| Hyderabad | 15–30 days |
-
-Processing time depends on site feasibility, document verification, and pipeline availability in your area. Delays may happen if the main pipeline is far from your property.
-
----
-
-## Jal Jeevan Mission (Rural Water Supply)
-
-If you live in a **rural area**, the **Jal Jeevan Mission (Har Ghar Jal)** is the Central Government's flagship programme to provide piped drinking water to every rural household by 2024.
-
-### Key Details:
-- **Official Portal:** [https://jaljeevanmission.gov.in](https://jaljeevanmission.gov.in)
-- **Dashboard:** [https://ejalshakti.gov.in](https://ejalshakti.gov.in)
-- The mission provides **Functional Household Tap Connections (FHTC)** to rural homes
-- Implementation is done through **Gram Panchayats** and **State Water Supply Departments**
-- Water quality testing and source sustainability are key components
-
-### How to Get a Connection Under JJM:
-1. Contact your **Gram Panchayat** or **Village Water and Sanitation Committee (VWSC)**
-2. Register your household for a tap water connection
-3. The Gram Panchayat prepares a **Village Action Plan** for water supply
-4. Connections are provided free or at subsidised rates under the mission
-5. Track progress on [https://ejalshakti.gov.in/jjmreport/JJMIndia.aspx](https://ejalshakti.gov.in/jjmreport/JJMIndia.aspx)
-
-> **Note:** In rural areas, you generally don't need to apply online. Contact your local Panchayat office or Block Development Officer.
-
----
-
-## How to Pay Water Bill Online
-
-You can pay your water bill online in most Indian cities:
-
-### General Steps:
-1. Visit your city's water board website
-2. Enter your **Consumer Number** or **Account Number** (printed on your water bill)
-3. View outstanding dues
-4. Choose payment method — UPI, Net Banking, Credit/Debit Card
-5. Complete the payment and download the receipt
-
-### City-wise Bill Payment Links:
-- **Delhi (DJB):** [https://djb.gov.in](https://djb.gov.in) → "Pay Your Water Bill"
-- **Mumbai (BMC):** [https://portal.mcgm.gov.in](https://portal.mcgm.gov.in) → Water Bill Payment
-- **Bangalore (BWSSB):** [https://bwssb.gov.in](https://bwssb.gov.in) → Online Bill Payment
-- **Chennai (CMWSSB):** [https://chennaimetrowater.tn.nic.in](https://chennaimetrowater.tn.nic.in) → Pay Bill
-- **Hyderabad (HMWSSB):** [https://hmwssb.gov.in](https://hmwssb.gov.in) → Online Bill Payment
-
-> **Tip:** Many cities also allow bill payment through **Paytm, PhonePe, Google Pay**, and the **BHIM app** using the consumer number.
-
----
-
-## How to File Complaints
-
-If you face issues like water leakage, low pressure, contaminated water, or billing errors:
-
-### General Process:
-1. Visit your city's water board portal
-2. Go to the **Grievance / Complaint** section
-3. Register a complaint with details of the issue
-4. Note the **Complaint Reference Number**
-5. Track the complaint status online
-
-### City-wise Complaint Options:
-- **Delhi (DJB):** "Apply for Grievance" on [djb.gov.in](https://djb.gov.in) or call **1916**
-- **Mumbai (BMC):** Complaint portal on [portal.mcgm.gov.in](https://portal.mcgm.gov.in) or call **1916**
-- **Bangalore (BWSSB):** Online complaint on [bwssb.gov.in](https://bwssb.gov.in) or call **1916**
-- **Chennai (CMWSSB):** Complaint section on CMWSSB portal or call **044-4567 4567**
-- **Hyderabad (HMWSSB):** Online grievance on HMWSSB portal or call **155313**
-
-You can also register complaints through the **CPGRAMS portal** ([https://pgportal.gov.in](https://pgportal.gov.in)) for escalation to higher authorities.
-
----
-
-## Frequently Asked Questions (FAQs)
-
-### 1. Can I apply for a water connection online?
-Yes. Most major cities in India — including Delhi, Mumbai, Bangalore, Chennai, and Hyderabad — allow you to apply for a new water connection through their official online portals. You can fill the form, upload documents, and pay fees online.
-
-### 2. What documents are needed for a new water connection?
-You typically need Aadhaar Card, property ownership proof (sale deed or allotment letter), sanctioned building plan, address proof, and passport-size photographs. Commercial connections may also require a Trade Licence.
-
-### 3. How much does a new water connection cost?
-Domestic water connection charges range from ₹3,000 to ₹15,000 depending on the city, pipe size, and connection type. A refundable security deposit of ₹1,000 to ₹5,000 is also required. Commercial connections cost more.
-
-### 4. How long does it take to get a water connection?
-Typically 15 to 45 days, depending on the city and site conditions. Delhi and Bangalore usually process applications in 15–30 days, while Mumbai may take 30–45 days.
-
-### 5. How can I check my water connection application status?
-Visit the official water board portal of your city and use the "Track Application Status" feature. You will need your Application Reference Number (ARN) to check the status.
-
-### 6. Can a tenant apply for a water connection?
-Generally, the property owner must apply. However, tenants can apply with a **No Objection Certificate (NOC)** from the property owner along with the rental agreement.
-
-### 7. How do I get a water connection in a rural area?
-Under the **Jal Jeevan Mission**, rural households can get free or subsidised piped water connections. Contact your Gram Panchayat or Village Water and Sanitation Committee to register.
-
----
-
-*Last updated: February 2026. Always verify details on the official water board portal of your city before applying.*
-
----
-
-## You May Also Need
-
-- [Electricity Connection Apply Online](/guide/electricity-connection-apply-online)
-- [Property Registration Online](/guide/property-registration-online)
-- [Consumer Complaint Online](/guide/consumer-complaint-online)
+Applying for a new water connection is straightforward in most major Indian cities. Online portals have reduced the need for multiple office visits, though site inspection remains a physical step. Keep your property documents ready, choose the right connection type, and apply well in advance of when you need the water supply. Most connections are installed within 15-30 days of complete application submission.

@@ -1,176 +1,188 @@
 ---
-title: "Mudra Loan Status Check — Track Your PMMY Loan Application Online"
-description: "Check Mudra loan application status online. Track your PMMY Shishu, Kishore, or Tarun loan status through bank portal, SMS, or branch visit."
-category: "Government Schemes"
+title: "Mudra Loan Status Check: How to Track Your PMMY Loan Application"
+description: >-
+  Check your Mudra loan application status online via Udyami Mitra, Jan Samarth, or bank portals. Step-by-step tracking guide for PMMY Mudra Yojana loans.
+category: Tax & Finance
+lastUpdated: "2026-03-05"
 keywords:
-  - Mudra loan status check
-  - PMMY loan status
-  - Mudra loan application status
-  - Shishu loan status
-  - Kishore loan status
-  - Tarun loan status
-  - Mudra loan tracking
-lastUpdated: "2026-02-17"
-readingTime: "7 min"
+  - mudra loan status check
+  - pmmy loan status
+  - mudra loan application status
+  - mudra loan tracking
+  - check mudra loan status online
+  - mudra yojana loan status
+  - udyami mitra loan status
+  - mudra loan approval status
+  - mudra loan pending
+  - bank mudra loan status
+readingTime: 7 min
 officialLinks:
-  - "https://www.mudra.org.in"
-  - "https://mudramitra.in"
+  - 'https://www.mudra.org.in/'
+  - 'https://udyamimitra.in/'
+  - 'https://www.jansamarth.in/'
+  - 'https://psbloansin59minutes.com/'
 ---
 
-# How to Check Mudra Loan Application Status Online
+# Mudra Loan Status Check: How to Track Your PMMY Loan Application
 
-Pradhan Mantri MUDRA Yojana (PMMY) provides loans up to ₹10 lakh to non-corporate, non-farm small/micro enterprises. If you have applied for a Mudra loan under the Shishu, Kishore, or Tarun category, here is how to track your application status.
-
-> **Disclaimer:** CitizenNest is an independent platform and is not affiliated with the Government of India or any bank. Always verify details with your lending bank.
-
----
-
-## What is Mudra Loan?
-
-MUDRA (Micro Units Development and Refinance Agency) loans are available in three categories:
-
-| Category | Loan Amount | Target |
-|----------|------------|--------|
-| **Shishu** | Up to ₹50,000 | Starting businesses |
-| **Kishore** | ₹50,001 to ₹5,00,000 | Growing businesses |
-| **Tarun** | ₹5,00,001 to ₹10,00,000 | Established businesses |
-
-These loans are disbursed through banks, NBFCs, MFIs, and other lending institutions — not directly by the government.
+After [applying for a Mudra loan](/guide/mudra-loan-apply-online), the next step is tracking your application. This guide shows you how to check your Mudra loan status online through various portals and what to do if your application is delayed.
 
 ---
 
-## How to Check Mudra Loan Status
+## How Long Does Mudra Loan Approval Take?
 
-Since Mudra loans are disbursed by individual banks and lending institutions, there is no single centralized portal to track status. Here are the methods:
+Before checking status, understand the typical timelines:
 
-### Method 1: Check via Your Bank's Portal
+| Loan Category | Typical Processing Time |
+|---------------|------------------------|
+| **Shishu** (up to ₹50,000) | 5–7 working days |
+| **Kishore** (₹50,001–₹5 lakh) | 10–15 working days |
+| **Tarun** (₹5–₹10 lakh) | 15–21 working days |
 
-Each bank has its own loan tracking system:
-
-**State Bank of India (SBI):**
-1. Visit [sbi.co.in](https://www.sbi.co.in)
-2. Log in to **Internet Banking** or **YONO app**
-3. Go to **"Loans"** → **"Track Application"**
-4. Enter your **Application Reference Number**
-5. Your Mudra loan status will be displayed
-
-**Bank of Baroda:**
-1. Visit [bankofbaroda.in](https://www.bankofbaroda.in)
-2. Go to **"Loans"** → **"Track Application Status"**
-3. Enter your **Application Number** and **Date of Birth**
-
-**Punjab National Bank (PNB):**
-1. Visit [pnbindia.in](https://www.pnbindia.in)
-2. Navigate to **"Retail Loans"** → **"Application Status"**
-3. Enter your reference number to check status
-
-**Other Banks:** Log in to your respective bank's net banking or mobile app and check under "Loan Applications" or "Track Application."
-
-### Method 2: Check via Mudra Mitra Portal
-
-1. Visit [mudramitra.in](https://mudramitra.in)
-2. If you applied through this portal, log in with your credentials
-3. Go to **"My Applications"**
-4. Your loan application status will be shown
-
-### Method 3: Visit Your Bank Branch
-
-1. Visit the bank branch where you submitted your Mudra loan application
-2. Carry your **application acknowledgement receipt** and **ID proof**
-3. Ask the loan officer to check your application status
-4. They can provide details on approval, pending documents, or rejection reasons
-
-### Method 4: Call Your Bank's Customer Care
-
-- Call your bank's toll-free customer care number
-- Provide your **loan application reference number** and **account number**
-- The executive will update you on your application status
+Applications submitted through **PSB Loans in 59 Minutes** get in-principle approval the same day, but final disbursement still takes a few days.
 
 ---
 
-## Mudra Loan Application Status Meanings
+## Method 1: Check Status on Udyami Mitra Portal
 
-| Status | Meaning |
-|--------|---------|
-| Under Process | Application is being evaluated by the bank |
-| Document Verification | Bank is verifying your submitted documents |
-| Sanctioned | Loan has been approved |
-| Disbursed | Loan amount has been credited to your account |
-| Rejected | Application did not meet the bank's criteria |
-| On Hold | Additional documents or information required |
+If you applied through the Udyami Mitra portal:
 
----
+1. Visit [udyamimitra.in](https://udyamimitra.in/)
+2. Log in with your registered mobile number and OTP
+3. Go to **"My Applications"** or **"Dashboard"**
+4. You will see all submitted loan applications with their current status
+5. Status will show as: **Submitted → Under Review → Sanctioned → Disbursed**
 
-## Documents Required for Mudra Loan
-
-- **Identity Proof:** Aadhaar card, PAN card, or voter ID
-- **Address Proof:** Aadhaar, utility bill, or rent agreement
-- **Business Proof:** Business registration, Udyam certificate, or shop establishment licence
-- **Bank Statements:** Last 6 months of business account statements
-- **Business Plan:** Brief plan for Kishore and Tarun categories
-- **Photographs:** 2 passport-size photos
-- **Existing Loan Details:** If any outstanding loans exist
-- **Quotation/Invoice:** For machinery or equipment purchase (if applicable)
+Click on any application to see detailed remarks from the lender.
 
 ---
 
-## Eligibility for Mudra Loan
+## Method 2: Check Status on Jan Samarth Portal
 
-- Any Indian citizen engaged in **non-farm, non-corporate micro/small enterprise**
-- Business activities in **manufacturing, trading, services, or allied agriculture**
-- Existing businesses or new startups
-- **No collateral required** for loans up to ₹10 lakh
-- No processing fee for Shishu loans
+If you applied through Jan Samarth:
 
----
-
-## Processing Time
-
-- **Shishu Loans (up to ₹50,000):** 7-10 working days
-- **Kishore Loans (₹50,001 - ₹5 lakh):** 15-20 working days
-- **Tarun Loans (₹5 lakh - ₹10 lakh):** 20-30 working days
-- Processing time varies by bank and completeness of documentation
+1. Go to [jansamarth.in](https://www.jansamarth.in/)
+2. Log in with your credentials
+3. Click on **"Track Application"** in the dashboard
+4. Enter your application reference number
+5. View the current status and any pending requirements
 
 ---
 
-## Important Tips
+## Method 3: Check Status on PSB Loans in 59 Minutes
 
-1. **Apply at multiple banks** — If one bank rejects, you can apply at another. Different banks have different evaluation criteria
-2. **Keep Udyam Registration ready** — Having a Udyam certificate strengthens your application significantly
-3. **Maintain good CIBIL score** — A credit score above 650 improves approval chances, especially for Kishore and Tarun loans
-4. **No middlemen needed** — Apply directly at the bank. Agents charging fees for Mudra loans are fraudulent
-5. **Mudra Card facility** — For working capital loans, ask about the Mudra Card (works like a credit card for business expenses)
-
----
-
-## Frequently Asked Questions (FAQ)
-
-### Q1: Is there a central website to check Mudra loan status?
-No. Since Mudra loans are disbursed by individual banks and NBFCs, you need to check status through your specific lender's portal or branch. The [mudra.org.in](https://www.mudra.org.in) portal provides scheme information but not individual loan tracking.
-
-### Q2: How long does Mudra loan approval take?
-Shishu loans are typically approved within 7-10 days. Kishore and Tarun loans take 15-30 days depending on the bank, documentation, and verification requirements.
-
-### Q3: Can I get a Mudra loan with a low CIBIL score?
-For Shishu loans (up to ₹50,000), some banks may approve even with a lower credit score since no collateral is required. For Kishore and Tarun loans, a CIBIL score of 650+ is generally expected.
-
-### Q4: What should I do if my Mudra loan application is rejected?
-Ask the bank for the specific reason. Common reasons include incomplete documents, poor credit history, or unviable business plan. Fix the issues and reapply at the same or a different bank.
-
-### Q5: Is there any subsidy on Mudra loans?
-Mudra loans do not come with a direct subsidy. However, interest rates are regulated and generally range from 8-12% per annum. No processing fee is charged for Shishu loans.
-
-### Q6: Can I apply for a Mudra loan online?
-Yes, many banks accept online applications through their websites. You can also apply through the [Mudra Mitra portal](https://mudramitra.in) or visit the bank branch in person.
+1. Visit [psbloansin59minutes.com](https://psbloansin59minutes.com/)
+2. Log in to your account
+3. Navigate to **"My Loans"** section
+4. View the status — in-principle approval is shown immediately
+5. For final sanction, the assigned bank branch will contact you
 
 ---
 
-## Related Guides
+## Method 4: Check Directly with Your Bank
 
-- [Udyam Registration guide](/guide/udyam-msme-registration-online) — Get your MSME registration for stronger loan applications
-- [PAN Card Apply Online](/guide/pan-card-apply-online) — PAN is required for Mudra loan applications
-- [Aadhaar Card guide](/guide/aadhaar-card-apply-online) — Aadhaar is mandatory for Mudra loans
+If you applied at a bank branch:
+
+1. **Call the branch** where you submitted the application — ask for the loan officer handling your file
+2. **Visit the branch** with your acknowledgement receipt
+3. **Use the bank's online portal or app** — most banks (SBI, PNB, Bank of Baroda) have loan tracking features
+4. **Call the bank's toll-free number** — provide your application reference number
+
+### Bank-Specific Loan Tracking
+
+| Bank | How to Track |
+|------|-------------|
+| **SBI** | SBI YONO app → Loans → Track Application |
+| **PNB** | pnbindia.in → Loan Status |
+| **Bank of Baroda** | bob.in → Track Loan |
+| **Canara Bank** | canarabank.com → Loan Tracker |
+| **Union Bank** | unionbankofindia.co.in → Retail Loans |
 
 ---
 
-*Last updated: February 2026. Mudra loan processes vary by bank. Always confirm with your specific lender for the latest requirements.*
+## Understanding Mudra Loan Status Messages
+
+| Status | What It Means |
+|--------|---------------|
+| **Submitted** | Application received, not yet reviewed |
+| **Under Review** | Bank is verifying documents and checking eligibility |
+| **Query Raised** | Bank needs additional documents or clarification |
+| **Under Credit Appraisal** | CIBIL check and financial assessment in progress |
+| **Sanctioned** | Loan approved — sanction letter will be issued |
+| **Disbursed** | Money credited to your account |
+| **Rejected** | Application declined — [see how to fix and reapply](/guide/mudra-loan-rejected-fix) |
+
+---
+
+## What to Do If Your Application Is Delayed
+
+### 1. Check for Pending Documents
+
+Banks often delay processing because of incomplete documents. Log into the portal or visit the branch to check if any [additional documents](/guide/mudra-loan-documents-required) are required.
+
+### 2. Follow Up Regularly
+
+- Call the branch every 3–4 days
+- Be polite but persistent
+- Note the name of the officer you speak with
+
+### 3. Escalate If Necessary
+
+If your application has been pending for more than 30 days without any response:
+
+1. **Write to the Branch Manager** — submit a written complaint
+2. **Use the bank's grievance portal** — most banks have online complaint systems
+3. **File complaint on CPGRAMS** — [pgportal.gov.in](https://pgportal.gov.in/) for government bank complaints
+4. **Contact MUDRA directly** — email: help@mudra.org.in
+5. **RBI Banking Ombudsman** — file a complaint at [cms.rbi.org.in](https://cms.rbi.org.in/) if the bank is unresponsive
+
+---
+
+## Common Reasons for Delay
+
+- **Incomplete documentation** — missing business proof, bank statements, or photos
+- **Low CIBIL score** — bank may take extra time for credit evaluation
+- **High volume of applications** — especially after budget announcements
+- **Branch-level staffing** — smaller branches may process slower
+- **Business plan unclear** — for Kishore and Tarun loans, banks scrutinise the business plan
+
+---
+
+## Track Your Loan After Disbursement
+
+Once your Mudra loan is disbursed, track your repayment:
+
+- **Check EMI schedule** — confirm monthly EMI amount and dates
+- **Set up auto-debit** — avoid missed payments
+- **Download repayment schedule** from your bank's portal
+- **Monitor your CIBIL report** — ensure the bank reports your payments correctly
+
+💰 Use our [Mudra Loan Interest Rate and EMI Calculator](/guide/mudra-loan-interest-rate-emi) to plan your repayments.
+
+---
+
+## Frequently Asked Questions
+
+### How can I check my Mudra loan status by mobile number?
+
+Log in to the portal where you applied (Udyami Mitra or Jan Samarth) using your registered mobile number. Your application status will appear in the dashboard.
+
+### Can I check Mudra loan status without a reference number?
+
+If you applied online, you can log in with your mobile number. If you applied at a branch, visit the branch with your ID proof and acknowledgement receipt.
+
+### What should I do if my Mudra loan status shows "Query Raised"?
+
+This means the bank needs more information. Log in to the portal to see what's required, or visit the branch. Submit the requested documents promptly to avoid further delays.
+
+### How long can a bank take to process a Mudra loan?
+
+There is no fixed deadline, but MUDRA guidelines suggest processing within 14–21 working days. If it takes longer than 30 days, escalate through the bank's grievance mechanism.
+
+### Can I cancel my Mudra loan application?
+
+Yes. Visit the bank branch or portal and submit a cancellation request. If the loan is already sanctioned but not disbursed, you can decline it without penalty.
+
+### Will checking my loan status affect my CIBIL score?
+
+No. Checking your application status does not impact your credit score. Only the initial loan application triggers a credit inquiry.
