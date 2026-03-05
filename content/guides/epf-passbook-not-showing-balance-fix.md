@@ -1,171 +1,176 @@
 ---
-title: "EPF Passbook Not Updated? Fix Balance Not Showing"
-description: "EPF passbook showing zero balance or not updated? Learn how to fix EPFO passbook errors, check if employer is depositing PF, and file complaints."
+title: "EPF Passbook Not Showing Updated Balance? Here's How to Fix It"
+description: "EPF passbook not updated or showing zero balance? Learn why and how to fix it — UAN activation, KYC, employer delays & UMANG check."
 category: "Tax & Finance"
-keywords: ["EPF passbook not updated", "EPF balance not showing", "EPFO passbook zero balance", "employer not depositing PF", "EPF passbook fix", "check EPF balance", "EPFO passbook error"]
-lastUpdated: "2026-03-05"
-readingTime: "8 min"
+keywords: ["EPF passbook not updated", "PF balance not showing", "EPFO passbook error", "UAN passbook problem", "EPF balance check", "EPFO member passbook fix", "PF passbook zero balance"]
+lastUpdated: "2026-03-06"
+readingTime: "7 min"
 officialLinks:
-  - "https://passbook.epfindia.gov.in"
-  - "https://unifiedportal-mem.epfindia.gov.in"
-  - "https://epfigms.gov.in"
+  - "https://passbook.epfindia.gov.in/MemberPassBook/Login"
+  - "https://unifiedportal-mem.epfindia.gov.in/memberinterface/"
+  - "https://web.umang.gov.in/landing/department/epfo.html"
 ---
 
-# EPF Passbook Not Updated? Fix Balance Not Showing (2026)
+# EPF Passbook Not Showing Updated Balance? Here's How to Fix It
 
-Your EPF passbook should show your monthly contributions and running balance. But many employees find their passbook showing zero balance, outdated entries, or "No records found." Here's why it happens and how to fix it.
+Checked your EPF passbook and found the balance hasn't been updated — or worse, it's showing zero? Don't panic. This is a common issue faced by lakhs of EPF members, and it's usually fixable.
 
-> **Disclaimer:** CitizenNest is an independent platform and is not affiliated with EPFO.
+This guide explains the most common reasons your EPFO passbook may not show updated balance and how to resolve each one.
 
-## Why EPF Passbook Shows Zero or No Balance
+> **Disclaimer:** CitizenNest is an independent platform and is not affiliated with EPFO or the Government of India.
 
-| Reason | Explanation |
-|--------|------------|
-| Employer hasn't deposited PF | Most common — employer deducted but didn't deposit to EPFO |
-| UAN not activated | Passbook only works after UAN activation |
-| KYC not verified | Aadhaar/bank not linked to UAN |
-| EPFO server delay | Passbook updates are not real-time |
-| Wrong UAN | You may have multiple UANs from different employers |
-| New employee | First contribution takes 1-2 months to reflect |
-| Passbook service down | EPFO passbook server has frequent downtime |
+## Common Reasons EPF Passbook Is Not Updated
 
-## How to Check EPF Passbook
+### 1. Employer Has Not Uploaded ECR
 
-### Method 1: EPFO Passbook Portal
-1. Visit [passbook.epfindia.gov.in](https://passbook.epfindia.gov.in)
-2. Login with **UAN** and **password**
-3. Select your **Member ID** (PF account number)
-4. Click **"View Passbook"**
-5. Your contribution history and balance will be displayed
+**Most common reason.** Your employer submits an **Electronic Challan cum Return (ECR)** every month to EPFO. If they delay or miss uploading, your passbook won't reflect the latest contributions.
 
-### Method 2: UMANG App
-1. Open UMANG app → EPFO → View Passbook
-2. Login with UAN
-3. Select Member ID to view balance
+**How to check:**
+- Log in to the [EPFO Member Portal](https://unifiedportal-mem.epfindia.gov.in/memberinterface/)
+- Go to **View → Passbook**
+- Check the last entry date — if it's months old, your employer is behind
 
-### Method 3: SMS
-Send SMS: `EPFOHO UAN ENG` to **7738299899** (replace ENG with your language code)
+**Fix:** Contact your HR/accounts department and ask them to upload pending ECR filings.
 
-### Method 4: Missed Call
-Give a missed call to **011-22901406** from your registered mobile number. Balance details will be sent via SMS.
+### 2. UAN Not Activated
 
-## Fix 1: Check If Employer Is Depositing PF
+Your **Universal Account Number (UAN)** must be activated to view the passbook online. If it's not activated, the portal won't show your data.
 
-This is the most critical check. Your employer may be:
-- **Deducting PF from salary but not depositing** to EPFO (illegal)
-- **Depositing late** — some employers file ECR quarterly instead of monthly
-- **Depositing to a wrong UAN** — if you have multiple UANs
-
-### How to Verify:
-1. **Check salary slip:** Look for "PF Deduction" — note the amount
-2. **Compare with passbook:** Each month's employee + employer contribution should match
-3. **Ask HR:** Request a PF contribution statement from your employer
-4. **Check ECR filing:** On the EPFO portal, check if your employer's latest ECR includes your contribution
-
-### If Employer Is NOT Depositing:
-1. **Talk to HR first** — it may be a processing delay
-2. **File complaint on EPFiGMS:** [epfigms.gov.in](https://epfigms.gov.in) → Select "Non-receipt of EPF contribution"
-3. **Call EPFO helpline:** 1800-118-005 or 14470
-4. **Complaint to Labour Commissioner** of your state
-5. Employer faces **penalty and interest** for late/non-deposit under EPF Act
-
-## Fix 2: Activate Your UAN
-
-If your UAN isn't activated, you can't access the passbook:
-
-1. Visit [unifiedportal-mem.epfindia.gov.in](https://unifiedportal-mem.epfindia.gov.in)
+**Fix:**
+1. Go to [unifiedportal-mem.epfindia.gov.in](https://unifiedportal-mem.epfindia.gov.in/memberinterface/)
 2. Click **"Activate UAN"**
-3. Follow the activation process with Aadhaar verification
+3. Enter your UAN, Aadhaar number, name, date of birth, and mobile number
+4. Verify via OTP
+5. Set your password
 
-Having trouble? See our [UAN activation guide](/guide/uan-activation-not-working-fix).
+### 3. KYC Not Verified
 
-## Fix 3: Update KYC on EPFO Portal
+EPFO requires your KYC (Aadhaar, PAN, bank account) to be verified and linked with your UAN. If KYC is pending or rejected, passbook access may be restricted.
 
-Incomplete KYC can prevent passbook access:
+**How to check:**
+- Log in to the Member Portal
+- Go to **Manage → KYC**
+- Check if Aadhaar, PAN, and bank details show **"Verified"** status
 
-1. Login to EPFO Member Portal
-2. Go to **Manage → KYC**
-3. Ensure these are linked and verified:
-   - **Aadhaar** — must be seeded and verified
-   - **PAN** — linked for tax purposes
-   - **Bank Account** — for withdrawals
-4. Wait for employer/EPFO to approve KYC updates (1-3 days)
+**Fix:**
+- If KYC is pending, ask your employer to approve it from their end
+- If KYC was rejected, re-submit with correct details
+- Ensure your name and DOB match across Aadhaar, PAN, and UAN
 
-## Fix 4: Check for Multiple UANs
+### 4. Multiple UAN Numbers
 
-If you've changed jobs, you might have multiple UANs:
+If you've changed jobs and your new employer created a new UAN instead of using your existing one, your old balance won't show in the new UAN's passbook.
 
-1. Login to EPFO portal → **Online Services → Track Claim Status**
-2. Check all Member IDs linked to your UAN
-3. If you have contributions under a different UAN from a previous employer:
-   - File a **Transfer Request** under Online Services
-   - This merges old PF accounts into your current UAN
-4. Search for other UANs using your Aadhaar/PAN on the EPFO portal
+**Fix:**
+1. Check if you have multiple UANs at the [EPFO Member Portal](https://unifiedportal-mem.epfindia.gov.in/memberinterface/)
+2. Request your employer to **link your old Member IDs** to your current UAN
+3. Or file a **transfer request** online: Login → Online Services → One Member One EPF Account (Transfer Request)
 
-## Fix 5: Wait for Passbook Server Update
+### 5. EPFO Server Issues
 
-EPFO passbook is NOT real-time:
+The EPFO portal experiences heavy traffic, especially at month-end and during withdrawal season. The passbook page may time out or show errors.
 
-| Contribution Month | Usually Reflects In Passbook |
-|-------------------|----------------------------|
-| Current month | Not shown until ECR filed (next month) |
-| Previous month | 15th-25th of current month |
-| Interest credit | End of financial year (March-April) |
+**Fix:**
+- Try during off-peak hours (early morning or late night)
+- Clear browser cache and try again
+- Use the **UMANG app** as an alternative (see below)
 
-**Tip:** If your last entry is 2-3 months old, wait until the 25th of the current month and check again.
+### 6. Recent Job Change
 
-## Fix 6: Try Different Access Methods
+After switching jobs, there can be a gap of 1-2 months before the new employer's contributions reflect in your passbook.
 
-If the passbook portal doesn't work:
-1. **Clear browser cache** and try again
-2. **Try a different browser** — Firefox often works better
-3. **Use UMANG app** — sometimes works when the website doesn't
-4. **Try during off-peak hours** — early morning or late night
-5. **Use missed call service** — call 011-22901406 for SMS balance
+**Fix:** Wait for 2-3 months after joining. If still not updated, confirm with your new employer that they've mapped your UAN correctly and started ECR uploads.
 
-## Understanding Your EPF Passbook
+## How to Check EPF Balance — Alternative Methods
 
-| Column | Meaning |
-|--------|---------|
-| Wage Month | Month for which contribution is made |
-| ECR | Date employer filed the Electronic Challan Return |
-| Employee Share | Your 12% contribution |
-| Employer Share | Employer's 3.67% contribution (remaining 8.33% goes to EPS) |
-| Pension Contribution | Employer's 8.33% for Employees' Pension Scheme |
-| Balance | Running total of your PF corpus |
+### Method 1: UMANG App
 
-**Interest:** EPF interest (currently 8.25% for 2024-25) is credited annually, usually between March and September.
+1. Download the **UMANG app** (available on [Google Play](https://play.google.com/store/apps/details?id=in.gov.umang.negd.g2c) and App Store)
+2. Register with your mobile number
+3. Search for **"EPFO"**
+4. Select **"View Passbook"**
+5. Enter your UAN and OTP
 
-## When to Be Concerned
+### Method 2: SMS Service
 
-Take action immediately if:
-- **No entry for 3+ months** — employer may not be depositing
-- **Amount doesn't match salary slip** — employer depositing less than deducted
-- **Balance suddenly reduced** — unauthorized withdrawal (rare but possible)
-- **Wrong employer name** — your contribution may be going to wrong account
+Send an SMS to **7738299899** from your UAN-registered mobile number:
+
+```
+EPFOHO UAN ENG
+```
+
+Replace `ENG` with the first 3 letters of your preferred language (HIN for Hindi, TAM for Tamil, etc.)
+
+You'll receive your last PF contribution details via SMS.
+
+### Method 3: Missed Call
+
+Give a missed call to **011-22901406** from your UAN-registered mobile number. You'll receive an SMS with your EPF balance details.
+
+### Method 4: EPFO Website
+
+1. Visit [passbook.epfindia.gov.in](https://passbook.epfindia.gov.in/MemberPassBook/Login)
+2. Enter your UAN and password
+3. Select the Member ID to view the passbook
+
+## Step-by-Step: Fix "Passbook Not Available" Error
+
+If you see the message **"Passbook is not available, please try after some time"**:
+
+1. **Check UAN activation** — make sure your UAN is active
+2. **Verify KYC** — all KYC documents must be employer-approved
+3. **Wait 24-48 hours** — after KYC approval, passbook may take time to appear
+4. **Clear browser cache** — or try a different browser
+5. **Check Member ID** — select the correct Member ID (you may have multiple from different employers)
+6. **Contact EPFO** — if nothing works, file a grievance at [epfigms.gov.in](https://epfigms.gov.in)
+
+## How to File an EPFO Grievance
+
+If your passbook remains outdated despite trying all fixes:
+
+1. Visit [epfigms.gov.in](https://epfigms.gov.in)
+2. Register with your UAN and mobile number
+3. Select the category: **"Passbook Related"** or **"Contribution Not Credited"**
+4. Describe the issue with details
+5. Submit and note the grievance number
+6. Track resolution status on the same portal
+
+Typical resolution time: **15-30 days**
+
+## Important Tips
+
+1. **Check your pay slip** — verify that PF deduction is actually being made by your employer every month
+2. **Keep KYC updated** — ensure Aadhaar, PAN, and bank details are verified on UAN portal
+3. **One UAN only** — inform every new employer about your existing UAN to avoid duplicates
+4. **Download passbook PDF** — periodically download your passbook as proof of balance
+5. **Interest credit** — EPF interest is typically credited once a year (around November-December), so don't expect monthly interest updates
 
 ## Frequently Asked Questions
 
 ### Why does my EPF passbook show zero balance?
-Zero balance usually means: UAN not activated, employer hasn't deposited PF yet, KYC not verified, or you're checking the wrong UAN/Member ID. Verify each of these.
 
-### How often is EPF passbook updated?
-EPF passbook is updated after the employer files the monthly ECR (Electronic Challan Return), usually by the 15th-25th of the following month. It's not real-time.
+This usually means your UAN is newly activated and old Member IDs haven't been linked yet. It could also mean your employer hasn't uploaded contributions. Check with your HR department.
 
-### What if employer is not depositing EPF?
-File a complaint on epfigms.gov.in, call EPFO at 1800-118-005, or complain to the Labour Commissioner. Non-deposit of EPF is a criminal offence under the EPF Act.
+### How often is the EPF passbook updated?
 
-### How to check EPF balance without UAN activation?
-Give a missed call to 011-22901406 from your Aadhaar-linked mobile, or send SMS "EPFOHO UAN" to 7738299899. You can also check via UMANG app.
+The passbook updates whenever your employer uploads the monthly ECR. Typically, it should update by the 15th of the following month.
 
-### Why is EPF passbook showing old balance only?
-The passbook shows data only up to the last ECR filed by your employer. If your employer files ECR late, the passbook won't show recent months. Check with HR about ECR filing.
+### Can I check EPF balance without UAN?
 
-### Can I download EPF passbook as PDF?
-Yes. Login to passbook.epfindia.gov.in → View Passbook → Click the download/print icon. The passbook can be saved as PDF from the print dialog.
+You need your UAN for online passbook access. If you don't know your UAN, check your pay slip or ask your HR department. You can also find it using your Aadhaar or PAN on the [EPFO portal](https://unifiedportal-mem.epfindia.gov.in/memberinterface/).
 
-### When is EPF interest credited to passbook?
-EPF interest is calculated annually and usually credited between March and September. You'll see an "Interest" entry in your passbook after it's credited.
+### My employer is not depositing PF — what should I do?
 
-### What is the difference between Employee Share and Employer Share in passbook?
-Employee Share is your 12% contribution deducted from salary. Employer Share shows 3.67% contributed by employer to EPF (remaining 8.33% of employer's 12% goes to EPS/pension).
+This is a serious issue. File a complaint at [epfigms.gov.in](https://epfigms.gov.in) or contact the nearest EPFO regional office. Non-deposit of PF by an employer is a legal violation.
+
+### Does EPF passbook show employer contribution too?
+
+Yes, the passbook shows both **employee contribution** and **employer contribution** in separate columns, along with monthly interest accrued.
+
+### Why is my EPF passbook showing different balance in different Member IDs?
+
+If you've worked with multiple employers, each employer creates a separate Member ID. Your total EPF balance is the sum of all Member IDs. Consider transferring old balances to your current account using the online transfer request.
+
+---
+
+*Last updated: March 2026. For official assistance, visit [epfindia.gov.in](https://www.epfindia.gov.in) or use the UMANG app.*
