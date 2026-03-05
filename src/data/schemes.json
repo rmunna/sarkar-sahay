@@ -29,10 +29,15 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must own cultivable land. Institutional landholders, income tax payers, and government employees are excluded."
+      "additionalCriteria": "Must own cultivable land. Institutional landholders, income tax payers, and government employees are excluded.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://pmkisan.gov.in",
-    "guideSlug": "pm-kisan-samman-nidhi"
+    "guideSlug": "pm-kisan-samman-nidhi",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-fasal-bima",
@@ -60,10 +65,15 @@
       ],
       "bpl": null,
       "urbanRural": "rural",
-      "additionalCriteria": "All farmers including sharecroppers and tenant farmers growing notified crops. Voluntary for all farmers."
+      "additionalCriteria": "All farmers including sharecroppers and tenant farmers growing notified crops. Voluntary for all farmers.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://pmfby.gov.in",
-    "guideSlug": "pm-fasal-bima-yojana"
+    "guideSlug": "pm-fasal-bima-yojana",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "kisan-credit-card",
@@ -92,10 +102,15 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Farmers, fishermen, animal husbandry and dairy farmers. Also available through PM Matsya Sampada for fisheries."
+      "additionalCriteria": "Farmers, fishermen, animal husbandry and dairy farmers. Also available through PM Matsya Sampada for fisheries.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://pmkisan.gov.in/KCC.aspx",
-    "guideSlug": "kisan-credit-card"
+    "guideSlug": "kisan-credit-card",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "soil-health-card",
@@ -123,10 +138,15 @@
       ],
       "bpl": null,
       "urbanRural": "rural",
-      "additionalCriteria": "All farmers can get soil tested free of charge"
+      "additionalCriteria": "All farmers can get soil tested free of charge",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://soilhealth.dac.gov.in",
-    "guideSlug": "soil-health-card"
+    "guideSlug": "soil-health-card",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-krishi-sinchai-yojana",
@@ -154,10 +174,15 @@
       ],
       "bpl": null,
       "urbanRural": "rural",
-      "additionalCriteria": "All farmers with own or leased land. Priority to small and marginal farmers."
+      "additionalCriteria": "All farmers with own or leased land. Priority to small and marginal farmers.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://pmksy.gov.in",
-    "guideSlug": "pm-krishi-sinchai-yojana"
+    "guideSlug": "pm-krishi-sinchai-yojana",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-kusum",
@@ -186,10 +211,15 @@
       ],
       "bpl": null,
       "urbanRural": "rural",
-      "additionalCriteria": "Farmers, water user associations, farmer producer organisations"
+      "additionalCriteria": "Farmers, water user associations, farmer producer organisations",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://mnre.gov.in/en/pradhan-mantri-kisan-urja-suraksha-evam-utthaan-mahabhiyaan-pm-kusum/",
-    "guideSlug": "pm-kusum-solar-scheme"
+    "guideSlug": "pm-kusum-solar-scheme",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-awas-yojana-gramin",
@@ -220,10 +250,15 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": "rural",
-      "additionalCriteria": "Houseless or living in kutcha/dilapidated house. Selected from SECC 2011 data."
+      "additionalCriteria": "Houseless or living in kutcha/dilapidated house. Selected from SECC 2011 data.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://pmayg.nic.in",
-    "guideSlug": "pm-awas-yojana-gramin"
+    "guideSlug": "pm-awas-yojana-gramin",
+    "perHousehold": true,
+    "benefitOneTime": 120000
   },
   {
     "id": "pm-awas-yojana-urban",
@@ -249,10 +284,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": "urban",
-      "additionalCriteria": "EWS (income up to ₹3L), LIG (₹3-6L), MIG (₹6-9L). Must not own pucca house anywhere in India. House in female/joint name."
+      "additionalCriteria": "EWS (income up to ₹3L), LIG (₹3-6L), MIG (₹6-9L). Must not own pucca house anywhere in India. House in female/joint name.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://pmaymis.gov.in",
-    "guideSlug": "pm-awas-yojana-urban"
+    "guideSlug": "pm-awas-yojana-urban",
+    "perHousehold": true,
+    "benefitOneTime": 250000
   },
   {
     "id": "ayushman-bharat-pmjay",
@@ -278,10 +318,15 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Bottom 40% poor and vulnerable families as per SECC 2011. ~12 crore families (~55 crore beneficiaries). All senior citizens 70+ regardless of income."
+      "additionalCriteria": "Bottom 40% poor and vulnerable families as per SECC 2011. ~12 crore families (~55 crore beneficiaries). All senior citizens 70+ regardless of income.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://pmjay.gov.in",
-    "guideSlug": "ayushman-bharat-pmjay"
+    "guideSlug": "ayushman-bharat-pmjay",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "pm-suraksha-bima-yojana",
@@ -307,10 +352,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must have a bank account with Aadhaar linked. Annual auto-debit consent required."
+      "additionalCriteria": "Must have a bank account with Aadhaar linked. Annual auto-debit consent required.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://financialservices.gov.in/insurance-divisions/Government-Sponsored-Socially-Oriented-Insurance-Schemes/Pradhan-Mantri-Suraksha-Bima-Yojana(PMSBY)",
-    "guideSlug": "pm-suraksha-bima-yojana"
+    "guideSlug": "pm-suraksha-bima-yojana",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-jeevan-jyoti-bima",
@@ -336,10 +386,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must have bank account with Aadhaar linked. Annual auto-debit consent. Cover continues till age 55."
+      "additionalCriteria": "Must have bank account with Aadhaar linked. Annual auto-debit consent. Cover continues till age 55.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://financialservices.gov.in/insurance-divisions/Government-Sponsored-Socially-Oriented-Insurance-Schemes/Pradhan-Mantri-Jeevan-Jyoti-Bima-Yojana(PMJJBY)",
-    "guideSlug": "pm-jeevan-jyoti-bima-yojana"
+    "guideSlug": "pm-jeevan-jyoti-bima-yojana",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-jan-aushadhi",
@@ -365,10 +420,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Available to all citizens. No registration required."
+      "additionalCriteria": "Available to all citizens. No registration required.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://janaushadhi.gov.in",
-    "guideSlug": "jan-aushadhi-pariyojana"
+    "guideSlug": "jan-aushadhi-pariyojana",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-matru-vandana",
@@ -394,10 +454,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Pregnant and lactating mothers for first living child. Second instalment for girl child only."
+      "additionalCriteria": "Pregnant and lactating mothers for first living child. Second instalment for girl child only.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://pmmvy.wcd.gov.in",
-    "guideSlug": "pm-matru-vandana-yojana"
+    "guideSlug": "pm-matru-vandana-yojana",
+    "perHousehold": false,
+    "benefitOneTime": 11000
   },
   {
     "id": "sukanya-samriddhi",
@@ -423,10 +490,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Girl child up to 10 years old. Max 2 accounts per family. Parent/guardian opens the account."
+      "additionalCriteria": "Girl child up to 10 years old. Max 2 accounts per family. Parent/guardian opens the account.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89",
-    "guideSlug": "sukanya-samriddhi-yojana"
+    "guideSlug": "sukanya-samriddhi-yojana",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "beti-bachao-beti-padhao",
@@ -452,10 +526,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Nationwide awareness and enforcement programme. Benefits delivered through convergence with other schemes."
+      "additionalCriteria": "Nationwide awareness and enforcement programme. Benefits delivered through convergence with other schemes.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://wcd.nic.in/bbbp-schemes",
-    "guideSlug": "beti-bachao-beti-padhao"
+    "guideSlug": "beti-bachao-beti-padhao",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mgnrega",
@@ -481,10 +560,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": "rural",
-      "additionalCriteria": "Any adult member of a rural household willing to do unskilled manual work. Must have job card."
+      "additionalCriteria": "Any adult member of a rural household willing to do unskilled manual work. Must have job card.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://nrega.nic.in",
-    "guideSlug": "mgnrega"
+    "guideSlug": "mgnrega",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-svanidhi",
@@ -512,10 +596,15 @@
       ],
       "bpl": null,
       "urbanRural": "urban",
-      "additionalCriteria": "Street vendors with certificate of vending/ID issued by ULB or Letter of Recommendation."
+      "additionalCriteria": "Street vendors with certificate of vending/ID issued by ULB or Letter of Recommendation.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://pmsvanidhi.mohua.gov.in",
-    "guideSlug": "pm-svanidhi"
+    "guideSlug": "pm-svanidhi",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-vishwakarma",
@@ -544,10 +633,15 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Self-employed artisans/craftspersons in 18 family-based traditional trades (carpenter, blacksmith, goldsmith, potter, cobbler, tailor, etc.)"
+      "additionalCriteria": "Self-employed artisans/craftspersons in 18 family-based traditional trades (carpenter, blacksmith, goldsmith, potter, cobbler, tailor, etc.)",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://pmvishwakarma.gov.in",
-    "guideSlug": "pm-vishwakarma-yojana"
+    "guideSlug": "pm-vishwakarma-yojana",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-mudra-yojana",
@@ -576,10 +670,15 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Non-corporate, non-farm small/micro enterprises. For manufacturing, trading, and service activities."
+      "additionalCriteria": "Non-corporate, non-farm small/micro enterprises. For manufacturing, trading, and service activities.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://www.mudra.org.in",
-    "guideSlug": "pm-mudra-yojana"
+    "guideSlug": "pm-mudra-yojana",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "stand-up-india",
@@ -609,10 +708,15 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "For SC/ST entrepreneurs and women of any category. One borrower per bank branch per category."
+      "additionalCriteria": "For SC/ST entrepreneurs and women of any category. One borrower per bank branch per category.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://www.standupmitra.in",
-    "guideSlug": "stand-up-india"
+    "guideSlug": "stand-up-india",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "startup-india",
@@ -642,10 +746,15 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Entity incorporated < 10 years ago. Turnover < ₹100 crore in any financial year. Working towards innovation/scalable business model."
+      "additionalCriteria": "Entity incorporated < 10 years ago. Turnover < ₹100 crore in any financial year. Working towards innovation/scalable business model.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://www.startupindia.gov.in",
-    "guideSlug": "startup-india"
+    "guideSlug": "startup-india",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pmegp",
@@ -671,10 +780,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "8th pass for manufacturing projects > ₹10 lakh, service > ₹5 lakh. New projects only. SC/ST/OBC/women/minorities/ex-servicemen/disabled get higher subsidy (25-35%)."
+      "additionalCriteria": "8th pass for manufacturing projects > ₹10 lakh, service > ₹5 lakh. New projects only. SC/ST/OBC/women/minorities/ex-servicemen/disabled get higher subsidy (25-35%).",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp",
-    "guideSlug": "pmegp"
+    "guideSlug": "pmegp",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "naps",
@@ -700,10 +814,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Youth enrolled in apprenticeship training in establishments. Employers with 4+ workforce eligible to engage apprentices."
+      "additionalCriteria": "Youth enrolled in apprenticeship training in establishments. Employers with 4+ workforce eligible to engage apprentices.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://www.apprenticeshipindia.gov.in",
-    "guideSlug": "national-apprenticeship-promotion-scheme"
+    "guideSlug": "national-apprenticeship-promotion-scheme",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-kaushal-vikas",
@@ -729,10 +848,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Indian youth, school/college dropouts, unemployed. Aadhaar and bank account required."
+      "additionalCriteria": "Indian youth, school/college dropouts, unemployed. Aadhaar and bank account required.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://www.pmkvyofficial.org",
-    "guideSlug": "pm-kaushal-vikas-yojana"
+    "guideSlug": "pm-kaushal-vikas-yojana",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-yasasvi",
@@ -764,10 +888,17 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "OBC/EBC/DNT students with family income up to ₹2.5 lakh/year. Must qualify YASASVI Entrance Test (YET)."
+      "additionalCriteria": "OBC/EBC/DNT students with family income up to ₹2.5 lakh/year. Must qualify YASASVI Entrance Test (YET).",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://yet.nta.ac.in",
-    "guideSlug": "pm-yasasvi-scholarship"
+    "guideSlug": "pm-yasasvi-scholarship",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-vidyalaxmi",
@@ -795,10 +926,17 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Students admitted to top 860 NIRF-ranked higher education institutions. Outlay ₹3,600 crore for 2024-31."
+      "additionalCriteria": "Students admitted to top 860 NIRF-ranked higher education institutions. Outlay ₹3,600 crore for 2024-31.",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://www.vidyalakshmi.co.in",
-    "guideSlug": "pm-vidyalaxmi"
+    "guideSlug": "pm-vidyalaxmi",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "samagra-shiksha",
@@ -826,10 +964,17 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All students in government and aided schools. Special focus on CWSN, girls, SC/ST students."
+      "additionalCriteria": "All students in government and aided schools. Special focus on CWSN, girls, SC/ST students.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://samagra.education.gov.in",
-    "guideSlug": "samagra-shiksha-abhiyan"
+    "guideSlug": "samagra-shiksha-abhiyan",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-poshan",
@@ -857,10 +1002,17 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Students of government, government-aided, and NCLP schools from pre-primary to Class 8."
+      "additionalCriteria": "Students of government, government-aided, and NCLP schools from pre-primary to Class 8.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://pmposhan.education.gov.in",
-    "guideSlug": "pm-poshan-mid-day-meal"
+    "guideSlug": "pm-poshan-mid-day-meal",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "nsap-ignoaps",
@@ -886,10 +1038,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "BPL persons aged 60 years and above. Higher pension for 80+."
+      "additionalCriteria": "BPL persons aged 60 years and above. Higher pension for 80+.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://nsap.nic.in",
-    "guideSlug": "nsap-old-age-pension"
+    "guideSlug": "nsap-old-age-pension",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "nsap-ignwps",
@@ -915,10 +1074,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "BPL widows aged 40 years and above."
+      "additionalCriteria": "BPL widows aged 40 years and above.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "spouse"
+      ]
     },
     "officialUrl": "https://nsap.nic.in",
-    "guideSlug": "nsap-widow-pension"
+    "guideSlug": "nsap-widow-pension",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "nsap-igndps",
@@ -944,10 +1110,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "BPL persons aged 18+ with 80% or more disability."
+      "additionalCriteria": "BPL persons aged 18+ with 80% or more disability.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://nsap.nic.in",
-    "guideSlug": "nsap-disability-pension"
+    "guideSlug": "nsap-disability-pension",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "nsap-nfbs",
@@ -973,10 +1146,15 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "BPL household where primary breadwinner (age 18-59) has died."
+      "additionalCriteria": "BPL household where primary breadwinner (age 18-59) has died.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://nsap.nic.in",
-    "guideSlug": "national-family-benefit-scheme"
+    "guideSlug": "national-family-benefit-scheme",
+    "perHousehold": false,
+    "benefitOneTime": 20000
   },
   {
     "id": "e-shram",
@@ -1012,10 +1190,15 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Unorganised sector workers (construction, gig, domestic, street vendor, migrant, etc.). Must have Aadhaar and mobile number."
+      "additionalCriteria": "Unorganised sector workers (construction, gig, domestic, street vendor, migrant, etc.). Must have Aadhaar and mobile number.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://eshram.gov.in",
-    "guideSlug": "e-shram-card"
+    "guideSlug": "e-shram-card",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-garib-kalyan-anna",
@@ -1041,10 +1224,15 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Beneficiaries covered under National Food Security Act (NFSA) - Antyodaya Anna Yojana (AAY) and Priority Households (PHH)."
+      "additionalCriteria": "Beneficiaries covered under National Food Security Act (NFSA) - Antyodaya Anna Yojana (AAY) and Priority Households (PHH).",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://nfsa.gov.in",
-    "guideSlug": "pm-garib-kalyan-anna-yojana"
+    "guideSlug": "pm-garib-kalyan-anna-yojana",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "pm-jan-dhan",
@@ -1070,10 +1258,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Any Indian citizen who does not have a bank account. Minor (10+) can open with guardian."
+      "additionalCriteria": "Any Indian citizen who does not have a bank account. Minor (10+) can open with guardian.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://pmjdy.gov.in",
-    "guideSlug": "pm-jan-dhan-yojana"
+    "guideSlug": "pm-jan-dhan-yojana",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "atal-pension-yojana",
@@ -1099,10 +1292,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Indian citizen aged 18-40 with savings bank account. Must not be income tax payer (for govt co-contribution). Minimum 20 years contribution."
+      "additionalCriteria": "Indian citizen aged 18-40 with savings bank account. Must not be income tax payer (for govt co-contribution). Minimum 20 years contribution.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://www.npscra.nsdl.co.in/scheme-details.php",
-    "guideSlug": "atal-pension-yojana"
+    "guideSlug": "atal-pension-yojana",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-ujjwala",
@@ -1133,10 +1331,15 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Adult woman from BPL household. Must not already have LPG connection. Aadhaar and bank account required."
+      "additionalCriteria": "Adult woman from BPL household. Must not already have LPG connection. Aadhaar and bank account required.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://www.pmuy.gov.in",
-    "guideSlug": "pm-ujjwala-yojana"
+    "guideSlug": "pm-ujjwala-yojana",
+    "perHousehold": true,
+    "benefitOneTime": 1600
   },
   {
     "id": "pm-surya-ghar",
@@ -1162,10 +1365,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Residential households with grid-connected electricity. Must have suitable rooftop space. 1 crore households targeted."
+      "additionalCriteria": "Residential households with grid-connected electricity. Must have suitable rooftop space. 1 crore households targeted.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://pmsuryaghar.gov.in",
-    "guideSlug": "pm-surya-ghar-muft-bijli"
+    "guideSlug": "pm-surya-ghar-muft-bijli",
+    "perHousehold": true,
+    "benefitOneTime": 78000
   },
   {
     "id": "pm-janjati-adivasi-nyay",
@@ -1193,10 +1401,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": "rural",
-      "additionalCriteria": "Tribal communities in identified tribal villages. Covers 75 Particularly Vulnerable Tribal Groups (PVTGs)."
+      "additionalCriteria": "Tribal communities in identified tribal villages. Covers 75 Particularly Vulnerable Tribal Groups (PVTGs).",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://tribal.nic.in",
-    "guideSlug": "pm-janjatiya-unnat-gram-abhiyan"
+    "guideSlug": "pm-janjatiya-unnat-gram-abhiyan",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "antyodaya-anna",
@@ -1222,10 +1435,15 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Poorest of the poor families - landless labourers, marginal farmers, artisans, widows, disabled, destitute."
+      "additionalCriteria": "Poorest of the poor families - landless labourers, marginal farmers, artisans, widows, disabled, destitute.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://nfsa.gov.in",
-    "guideSlug": "antyodaya-anna-yojana"
+    "guideSlug": "antyodaya-anna-yojana",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "deen-dayal-upadhyaya-grameen-kaushalya",
@@ -1251,10 +1469,15 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": "rural",
-      "additionalCriteria": "Rural youth from poor families (SECC 2011). SC/ST/women/PWD/minorities get age relaxation up to 45 years."
+      "additionalCriteria": "Rural youth from poor families (SECC 2011). SC/ST/women/PWD/minorities get age relaxation up to 45 years.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://ddugky.gov.in",
-    "guideSlug": "ddu-grameen-kaushalya-yojana"
+    "guideSlug": "ddu-grameen-kaushalya-yojana",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-matsya-sampada",
@@ -1283,10 +1506,15 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Fishers, fish farmers, SHGs, FFPOs, entrepreneurs in fisheries sector. Higher subsidy for SC/ST/women."
+      "additionalCriteria": "Fishers, fish farmers, SHGs, FFPOs, entrepreneurs in fisheries sector. Higher subsidy for SC/ST/women.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://pmmsy.dof.gov.in",
-    "guideSlug": "pm-matsya-sampada-yojana"
+    "guideSlug": "pm-matsya-sampada-yojana",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "swamitva",
@@ -1312,10 +1540,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": "rural",
-      "additionalCriteria": "Rural property owners in Abadi (inhabited) areas of villages."
+      "additionalCriteria": "Rural property owners in Abadi (inhabited) areas of villages.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://svamitva.nic.in",
-    "guideSlug": "svamitva-yojana"
+    "guideSlug": "svamitva-yojana",
+    "perHousehold": true,
+    "benefitOneTime": 0
   },
   {
     "id": "pm-shri-schools",
@@ -1343,10 +1576,15 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Students in selected PM SHRI schools (government and government-aided schools)."
+      "additionalCriteria": "Students in selected PM SHRI schools (government and government-aided schools).",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://pmshrischools.education.gov.in",
-    "guideSlug": "pm-shri-schools"
+    "guideSlug": "pm-shri-schools",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "national-scholarship-portal",
@@ -1380,10 +1618,17 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Students from SC/ST/OBC/minority/EBC categories studying in recognized institutions. Income criteria vary by scheme."
+      "additionalCriteria": "Students from SC/ST/OBC/minority/EBC categories studying in recognized institutions. Income criteria vary by scheme.",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://scholarships.gov.in",
-    "guideSlug": "national-scholarship-portal"
+    "guideSlug": "national-scholarship-portal",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-gati-shakti",
@@ -1409,10 +1654,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Policy/infrastructure initiative. Benefits all citizens through improved connectivity and logistics."
+      "additionalCriteria": "Policy/infrastructure initiative. Benefits all citizens through improved connectivity and logistics.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://pmgatishakti.gov.in",
-    "guideSlug": "pm-gati-shakti"
+    "guideSlug": "pm-gati-shakti",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-kisan-maandhan",
@@ -1440,10 +1690,15 @@
       ],
       "bpl": null,
       "urbanRural": "rural",
-      "additionalCriteria": "Small and marginal farmers with cultivable land up to 2 hectares. Must not be covered under NPS/ESIC/EPFO."
+      "additionalCriteria": "Small and marginal farmers with cultivable land up to 2 hectares. Must not be covered under NPS/ESIC/EPFO.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://maandhan.in",
-    "guideSlug": "pm-kisan-maandhan"
+    "guideSlug": "pm-kisan-maandhan",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-shram-yogi-maandhan",
@@ -1477,10 +1732,15 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Unorganised workers with monthly income up to ₹15,000. Must not be covered under NPS/ESIC/EPFO. Must not be income tax payer."
+      "additionalCriteria": "Unorganised workers with monthly income up to ₹15,000. Must not be covered under NPS/ESIC/EPFO. Must not be income tax payer.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://maandhan.in",
-    "guideSlug": "pm-shram-yogi-maandhan"
+    "guideSlug": "pm-shram-yogi-maandhan",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "one-stop-centre",
@@ -1506,10 +1766,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All women affected by violence, irrespective of age, class, caste, or marital status. Also serves girls under 18."
+      "additionalCriteria": "All women affected by violence, irrespective of age, class, caste, or marital status. Also serves girls under 18.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://wcd.nic.in/schemes/one-stop-centre-scheme-1",
-    "guideSlug": "one-stop-centre-sakhi"
+    "guideSlug": "one-stop-centre-sakhi",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "digital-india",
@@ -1535,10 +1800,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All Indian citizens. Various sub-schemes have specific eligibility criteria."
+      "additionalCriteria": "All Indian citizens. Various sub-schemes have specific eligibility criteria.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://www.digitalindia.gov.in",
-    "guideSlug": "digital-india"
+    "guideSlug": "digital-india",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "abha-health-id",
@@ -1564,10 +1834,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All Indian citizens with Aadhaar or driving licence. Free to create."
+      "additionalCriteria": "All Indian citizens with Aadhaar or driving licence. Free to create.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://abha.abdm.gov.in",
-    "guideSlug": "abha-health-id"
+    "guideSlug": "abha-health-id",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pm-internship-scheme",
@@ -1593,10 +1868,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Youth aged 21-24 not employed full-time and not in full-time education. Family income below ₹8 lakh/year. Priority to SC/ST/OBC/PwD."
+      "additionalCriteria": "Youth aged 21-24 not employed full-time and not in full-time education. Family income below ₹8 lakh/year. Priority to SC/ST/OBC/PwD.",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://pminternship.mca.gov.in",
-    "guideSlug": "pm-internship-scheme"
+    "guideSlug": "pm-internship-scheme",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "rashtriya-krishi-vikas-yojana",
@@ -1625,10 +1905,15 @@
       ],
       "bpl": null,
       "urbanRural": "rural",
-      "additionalCriteria": "State-level scheme implementation. Farmers access benefits through state agriculture departments."
+      "additionalCriteria": "State-level scheme implementation. Farmers access benefits through state agriculture departments.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://rkvy.nic.in",
-    "guideSlug": "rashtriya-krishi-vikas-yojana"
+    "guideSlug": "rashtriya-krishi-vikas-yojana",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ka-gruha-lakshmi",
@@ -1657,10 +1942,18 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Woman must be head of household. One woman per family. Must hold BPL/Antyodaya/Priority ration card. Government employees and income tax payers excluded."
+      "additionalCriteria": "Woman must be head of household. One woman per family. Must hold BPL/Antyodaya/Priority ration card. Government employees and income tax payers excluded.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://sevasindhuservices.karnataka.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "ka-gruha-jyothi",
@@ -1689,10 +1982,16 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "One connection per household. Must be domestic (residential) electricity connection. Consumption above 200 units will be charged normally."
+      "additionalCriteria": "One connection per household. Must be domestic (residential) electricity connection. Consumption above 200 units will be charged normally.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://gruhajyothi.karnataka.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "subsidy",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "ka-anna-bhagya",
@@ -1721,10 +2020,16 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must have BPL/Antyodaya/Priority ration card issued by Karnataka government."
+      "additionalCriteria": "Must have BPL/Antyodaya/Priority ration card issued by Karnataka government.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://ahara.kar.nic.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "ka-shakti",
@@ -1753,10 +2058,16 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All women can avail free travel on non-AC government buses (KSRTC, BMTC, NWKRTC, NEKRTC). Must carry valid ID."
+      "additionalCriteria": "All women can avail free travel on non-AC government buses (KSRTC, BMTC, NWKRTC, NEKRTC). Must carry valid ID.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://ksrtc.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "service",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ka-yuva-nidhi",
@@ -1785,10 +2096,16 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must have graduated from a Karnataka government/aided college or polytechnic. Must be registered on employment exchange. Family annual income should not exceed certain limits."
+      "additionalCriteria": "Must have graduated from a Karnataka government/aided college or polytechnic. Must be registered on employment exchange. Family annual income should not exceed certain limits.",
+      "education": "graduate",
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://yuvanidhi.karnataka.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ka-vidyasiri",
@@ -1821,10 +2138,18 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be a Karnataka domicile pursuing post-matric education. Family annual income limit applies."
+      "additionalCriteria": "Must be a Karnataka domicile pursuing post-matric education. Family annual income limit applies.",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://sw.kar.nic.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ka-bhagyalakshmi",
@@ -1853,10 +2178,18 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Girl child must be born in a BPL family. Family annual income must be below ₹1.2 lakh. Birth must be registered within 1 year. Only for first two girl children."
+      "additionalCriteria": "Girl child must be born in a BPL family. Family annual income must be below ₹1.2 lakh. Birth must be registered within 1 year. Only for first two girl children.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://dwcd.karnataka.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "milestone",
+    "perHousehold": false,
+    "benefitOneTime": 200000
   },
   {
     "id": "ka-krishi-bhagya",
@@ -1886,10 +2219,16 @@
       ],
       "bpl": null,
       "urbanRural": "rural",
-      "additionalCriteria": "Must be a rainfed area farmer in Karnataka. Land holding limit applies. SC/ST farmers get higher subsidy."
+      "additionalCriteria": "Must be a rainfed area farmer in Karnataka. Land holding limit applies. SC/ST farmers get higher subsidy.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://raitamitra.karnataka.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "subsidy",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ka-sandhya-suraksha",
@@ -1918,10 +2257,18 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must be 65 years or above. Must belong to BPL family. Karnataka domicile."
+      "additionalCriteria": "Must be 65 years or above. Must belong to BPL family. Karnataka domicile.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://sw.kar.nic.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "tn-magalir-urimai-thogai",
@@ -1950,10 +2297,18 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Woman must be head of household. Must have ration card (rice card). Government employees and income tax payers excluded. One woman per family."
+      "additionalCriteria": "Woman must be head of household. Must have ration card (rice card). Government employees and income tax payers excluded. One woman per family.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://kmut.tn.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "tn-pudhumai-penn",
@@ -1982,10 +2337,18 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must have studied Class 6-12 in Tamil Nadu government schools. Must be pursuing undergraduate degree, diploma, or ITI. Credited directly to student's bank account."
+      "additionalCriteria": "Must have studied Class 6-12 in Tamil Nadu government schools. Must be pursuing undergraduate degree, diploma, or ITI. Credited directly to student's bank account.",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://penkalvi.tn.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "tn-naan-mudhalvan",
@@ -2014,10 +2377,16 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be enrolled in any college/university in Tamil Nadu. Courses include AI, data science, soft skills, etc. Available through Naan Mudhalvan portal."
+      "additionalCriteria": "Must be enrolled in any college/university in Tamil Nadu. Courses include AI, data science, soft skills, etc. Available through Naan Mudhalvan portal.",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://naanmudhalvan.tn.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "service",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "tn-free-bus-women",
@@ -2046,10 +2415,16 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All women and transgender persons. Valid on government town buses (non-AC). No registration required."
+      "additionalCriteria": "All women and transgender persons. Valid on government town buses (non-AC). No registration required.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://tnstc.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "service",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "tn-cm-breakfast",
@@ -2078,10 +2453,18 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Students of Classes 1-5 in Tamil Nadu government and government-aided schools."
+      "additionalCriteria": "Students of Classes 1-5 in Tamil Nadu government and government-aided schools.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://cms.tn.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "tn-innuyir-kaappom",
@@ -2110,10 +2493,16 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Any road accident victim in Tamil Nadu. Treated free at empanelled hospitals within 48 hours of accident."
+      "additionalCriteria": "Any road accident victim in Tamil Nadu. Treated free at empanelled hospitals within 48 hours of accident.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://tnhealth.tn.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "service",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "tn-cm-health-insurance",
@@ -2142,10 +2531,16 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must have family annual income below ₹1.2 lakh. Must hold valid ration card. Covers 1,027+ medical procedures."
+      "additionalCriteria": "Must have family annual income below ₹1.2 lakh. Must hold valid ration card. Covers 1,027+ medical procedures.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://www.cmchistn.com",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "insurance",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "tn-marriage-assistance",
@@ -2174,10 +2569,18 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Bride must be a degree holder (graduation). Family must hold ration card. First marriage only. Different amounts for different education levels."
+      "additionalCriteria": "Bride must be a degree holder (graduation). Family must hold ration card. First marriage only. Different amounts for different education levels.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://www.tnsocialwelfare.tn.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "one-time",
+    "perHousehold": false,
+    "benefitOneTime": 25000
   },
   {
     "id": "tn-old-age-pension",
@@ -2206,10 +2609,18 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must be 60 years or above. Must be destitute. Must be resident of Tamil Nadu."
+      "additionalCriteria": "Must be 60 years or above. Must be destitute. Must be resident of Tamil Nadu.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://www.tnsocialwelfare.tn.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "kl-social-security-pension",
@@ -2238,10 +2649,18 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Six types: Old Age, Widow, Agricultural Worker, Disability, Unmarried Women (50+), and Physically Disabled. Must be Kerala resident. Must be BPL. Applied through local self-government (Panchayat/Municipality)."
+      "additionalCriteria": "Six types: Old Age, Widow, Agricultural Worker, Disability, Unmarried Women (50+), and Physically Disabled. Must be Kerala resident. Must be BPL. Applied through local self-government (Panchayat/Municipality).",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://welfarepension.lsgkerala.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "kl-life-mission",
@@ -2270,10 +2689,16 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must be identified as homeless or living in dilapidated house. Beneficiary list prepared by local self-government bodies. Priority for SC/ST, fishermen, and differently-abled."
+      "additionalCriteria": "Must be identified as homeless or living in dilapidated house. Beneficiary list prepared by local self-government bodies. Priority for SC/ST, fishermen, and differently-abled.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://lifemission.kerala.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "one-time",
+    "perHousehold": true,
+    "benefitOneTime": 600000
   },
   {
     "id": "kl-snehapoorvam",
@@ -2302,10 +2727,18 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be an orphan (lost one or both parents) living with family/relatives, not in institutional care. Must be studying in a recognized school/college in Kerala."
+      "additionalCriteria": "Must be an orphan (lost one or both parents) living with family/relatives, not in institutional care. Must be studying in a recognized school/college in Kerala.",
+      "education": "primary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://socialsecuritymission.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "kl-ksheerasagaram",
@@ -2335,10 +2768,16 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be a dairy farmer in Kerala. Milk must be supplied through registered dairy cooperative societies."
+      "additionalCriteria": "Must be a dairy farmer in Kerala. Milk must be supplied through registered dairy cooperative societies.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://dairy.kerala.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "subsidy",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "kl-karunya-health",
@@ -2367,10 +2806,16 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must have Karunya Arogya Suraksha Padhathi (KASP) card. Available to SECC-listed and ration card holding families. Covers 1,600+ medical procedures."
+      "additionalCriteria": "Must have Karunya Arogya Suraksha Padhathi (KASP) card. Available to SECC-listed and ration card holding families. Covers 1,600+ medical procedures.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://kasp.kerala.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "insurance",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "kl-cmdrf",
@@ -2399,10 +2844,16 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Kerala residents facing medical emergencies, natural disasters, or other distress situations. Application through District Collector or online portal."
+      "additionalCriteria": "Kerala residents facing medical emergencies, natural disasters, or other distress situations. Application through District Collector or online portal.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://cmdrf.kerala.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "one-time",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "kl-ksfe-chitty",
@@ -2431,10 +2882,16 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Open to all Kerala residents and NRKs (Non-Resident Keralites). Various chitty denominations available from ₹1 lakh to ₹50 lakh."
+      "additionalCriteria": "Open to all Kerala residents and NRKs (Non-Resident Keralites). Various chitty denominations available from ₹1 lakh to ₹50 lakh.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://www.ksfe.com",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "service",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "kl-fee-waiver",
@@ -2466,10 +2923,18 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must be enrolled in a government or government-aided institution in Kerala. BPL families also eligible regardless of category."
+      "additionalCriteria": "Must be enrolled in a government or government-aided institution in Kerala. BPL families also eligible regardless of category.",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://dcescholarship.kerala.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "subsidy",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ap-ntr-bharosa",
@@ -2498,10 +2963,18 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Covers old age (60+), widows, disabled (40%+), weavers, fishermen, toddy tappers, single women, transgender, PLHIV, dappu artists, cobblers. Enhanced from ₹3,000 to ₹4,000 by TDP government in 2024. Part of Super Six promises."
+      "additionalCriteria": "Covers old age (60+), widows, disabled (40%+), weavers, fishermen, toddy tappers, single women, transgender, PLHIV, dappu artists, cobblers. Enhanced from ₹3,000 to ₹4,000 by TDP government in 2024. Part of Super Six promises.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://sspensions.ap.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ap-thalliki-vandanam",
@@ -2530,10 +3003,18 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Mother/guardian of children studying in government/aided schools (Classes 1-12). Replaces the earlier Amma Vodi scheme. Part of Super Six promises. Launched June 2025."
+      "additionalCriteria": "Mother/guardian of children studying in government/aided schools (Classes 1-12). Replaces the earlier Amma Vodi scheme. Part of Super Six promises. Launched June 2025.",
+      "education": "primary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://thalliki-vandanam.ap.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ap-annadata-sukhibhava",
@@ -2565,10 +3046,16 @@
       ],
       "bpl": null,
       "urbanRural": "rural",
-      "additionalCriteria": "Must be a farmer with cultivable land in AP. Part of Super Six promises. Replaces previous Rythu Bharosa scheme. Announced in Budget 2025-26."
+      "additionalCriteria": "Must be a farmer with cultivable land in AP. Part of Super Six promises. Replaces previous Rythu Bharosa scheme. Announced in Budget 2025-26.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://apagrisnet.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ap-deepam2",
@@ -2597,10 +3084,16 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "LPG connection must be in woman's name. Must have white ration card (BPL). Part of Super Six promises. Already implemented."
+      "additionalCriteria": "LPG connection must be in woman's name. Must have white ration card (BPL). Part of Super Six promises. Already implemented.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://civilsupplies.ap.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "subsidy",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "ap-stree-shakti",
@@ -2629,10 +3122,16 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All women in AP. Valid on APSRTC non-AC buses. Launched 15th August 2025. Part of Super Six promises."
+      "additionalCriteria": "All women in AP. Valid on APSRTC non-AC buses. Launched 15th August 2025. Part of Super Six promises.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://www.apsrtconline.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "service",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ap-anna-canteen",
@@ -2661,10 +3160,16 @@
       ],
       "bpl": null,
       "urbanRural": "urban",
-      "additionalCriteria": "Open to all. Canteens located in major urban centres across Andhra Pradesh. Reopened by TDP government as part of Super Six."
+      "additionalCriteria": "Open to all. Canteens located in major urban centres across Andhra Pradesh. Reopened by TDP government as part of Super Six.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://annacanteen.ap.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "service",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ap-vidya-deevena",
@@ -2693,10 +3198,18 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be pursuing ITI/Polytechnic/Degree/PG/Professional courses in AP. Family annual income below ₹2.5 lakh. Continued from previous government with modifications."
+      "additionalCriteria": "Must be pursuing ITI/Polytechnic/Degree/PG/Professional courses in AP. Family annual income below ₹2.5 lakh. Continued from previous government with modifications.",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://jnanabhumi.ap.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "subsidy",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ap-vahana-mitra",
@@ -2725,10 +3238,16 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be registered auto-rickshaw/taxi driver in AP. Must have valid driving license and vehicle registration."
+      "additionalCriteria": "Must be registered auto-rickshaw/taxi driver in AP. Must have valid driving license and vehicle registration.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://navasakam.ap.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ts-rythu-bharosa",
@@ -2760,10 +3279,16 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must own agricultural land in Telangana. Renamed from Rythu Bandhu to Rythu Bharosa by Congress government on 26 Jan 2025. Amount increased from ₹10,000 to ₹12,000/acre/year."
+      "additionalCriteria": "Must own agricultural land in Telangana. Renamed from Rythu Bandhu to Rythu Bharosa by Congress government on 26 Jan 2025. Amount increased from ₹10,000 to ₹12,000/acre/year.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://rythubharosa.telangana.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ts-cheyutha-pension",
@@ -2792,10 +3317,18 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Old age (57+), widows, disabled (40%+), weavers, toddy tappers, beedi workers, PLHIV, filariasis patients. Renamed from Aasara to Cheyutha by Congress government. Enhanced amounts."
+      "additionalCriteria": "Old age (57+), widows, disabled (40%+), weavers, toddy tappers, beedi workers, PLHIV, filariasis patients. Renamed from Aasara to Cheyutha by Congress government. Enhanced amounts.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://pension.telangana.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ts-kalyana-lakshmi",
@@ -2824,10 +3357,18 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Bride must be 18+ years. Family must hold white ration card. Telangana domicile for 10+ years. Must apply before or within 1 year of marriage. First marriage only."
+      "additionalCriteria": "Bride must be 18+ years. Family must hold white ration card. Telangana domicile for 10+ years. Must apply before or within 1 year of marriage. First marriage only.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://telanganaepass.cgg.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "one-time",
+    "perHousehold": false,
+    "benefitOneTime": 100761
   },
   {
     "id": "ts-2bhk-housing",
@@ -2856,10 +3397,16 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must be landless/homeless in Telangana. Must have white ration card. Priority for SC/ST/BC/Minority. Congress government renamed it as Indiramma Illu and continued the scheme."
+      "additionalCriteria": "Must be landless/homeless in Telangana. Must have white ration card. Priority for SC/ST/BC/Minority. Congress government renamed it as Indiramma Illu and continued the scheme.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://housing.telangana.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "one-time",
+    "perHousehold": true,
+    "benefitOneTime": 0
   },
   {
     "id": "ts-fee-reimbursement",
@@ -2888,10 +3435,18 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be pursuing degree/professional courses in Telangana. Family annual income must be below ₹2.5 lakh. Must have Aadhaar-linked bank account."
+      "additionalCriteria": "Must be pursuing degree/professional courses in Telangana. Family annual income must be below ₹2.5 lakh. Must have Aadhaar-linked bank account.",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://telanganaepass.cgg.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "subsidy",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ts-rajiv-arogyasri",
@@ -2920,10 +3475,16 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must hold white ration card. Covers 1,000+ surgical procedures. Integrated with Ayushman Bharat PMJAY."
+      "additionalCriteria": "Must hold white ration card. Covers 1,000+ surgical procedures. Integrated with Ayushman Bharat PMJAY.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://aarogyasri.telangana.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "insurance",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "ts-gruha-jyothi",
@@ -2952,10 +3513,16 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "One domestic connection per household. Congress government guarantee. Consumption above 200 units charged normally."
+      "additionalCriteria": "One domestic connection per household. Congress government guarantee. Consumption above 200 units charged normally.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://tssouthernpower.com",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "subsidy",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "ts-rythu-bima",
@@ -2984,10 +3551,16 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be a registered pattadar (land-owning farmer) in Telangana. Premium of ~₹2,271/year paid entirely by the state government."
+      "additionalCriteria": "Must be a registered pattadar (land-owning farmer) in Telangana. Premium of ~₹2,271/year paid entirely by the state government.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://rythubandhu.telangana.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "insurance",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "py-old-age-pension",
@@ -3016,10 +3589,18 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must be resident of Puducherry for at least 5 years. Covers old age, widows, deserted women, unmarried women, and transgender persons. Enhanced pension amounts recently increased."
+      "additionalCriteria": "Must be resident of Puducherry for at least 5 years. Covers old age, widows, deserted women, unmarried women, and transgender persons. Enhanced pension amounts recently increased.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://oaps.py.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "py-marriage-assistance",
@@ -3048,10 +3629,18 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must be first marriage. Annual family income should not exceed ₹24,000. Bride must be resident of Puducherry. Applied through Dept of Women & Child Development."
+      "additionalCriteria": "Must be first marriage. Annual family income should not exceed ₹24,000. Bride must be resident of Puducherry. Applied through Dept of Women & Child Development.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://socwelfare.py.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "one-time",
+    "perHousehold": false,
+    "benefitOneTime": 25000
   },
   {
     "id": "py-unemployment-allowance",
@@ -3080,10 +3669,16 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be registered with Employment Exchange in Puducherry. Must be resident of Puducherry UT."
+      "additionalCriteria": "Must be registered with Employment Exchange in Puducherry. Must be resident of Puducherry UT.",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://employment.py.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "py-free-rice",
@@ -3112,10 +3707,16 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must hold ration card issued by Puducherry government. Distributed during Pongal, Deepavali, and natural calamities."
+      "additionalCriteria": "Must hold ration card issued by Puducherry government. Distributed during Pongal, Deepavali, and natural calamities.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://dcs.py.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "py-scholarship-sc",
@@ -3147,10 +3748,18 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be domicile of Puducherry. Must belong to SC/ST community. Family annual income must be below ₹2.5 lakh."
+      "additionalCriteria": "Must be domicile of Puducherry. Must belong to SC/ST community. Family annual income must be below ₹2.5 lakh.",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://scholarships.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "py-disability-pension",
@@ -3179,10 +3788,18 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must have 40% or more disability as certified by medical board. Must be resident of Puducherry."
+      "additionalCriteria": "Must have 40% or more disability as certified by medical board. Must be resident of Puducherry.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://socwelfare.py.gov.in/differently-abled-schemes",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "recurring",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "py-girl-child-protection",
@@ -3211,10 +3828,18 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "For girl children born in Puducherry. Parents must be residents. Higher benefit for BPL families. Only for first two girl children."
+      "additionalCriteria": "For girl children born in Puducherry. Parents must be residents. Higher benefit for BPL families. Only for first two girl children.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://socwelfare.py.gov.in",
-    "guideSlug": null
+    "guideSlug": null,
+    "benefitType": "milestone",
+    "perHousehold": false,
+    "benefitOneTime": 100000
   },
   {
     "id": "up-kanya-sumangala",
@@ -3240,10 +3865,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Max 2 daughters per family"
+      "additionalCriteria": "Max 2 daughters per family",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://mksy.up.gov.in",
-    "guideSlug": "kanya-sumangala-yojana-up"
+    "guideSlug": "kanya-sumangala-yojana-up",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "up-vridha-pension",
@@ -3269,10 +3901,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Below poverty line families"
+      "additionalCriteria": "Below poverty line families",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://sspy-up.gov.in",
-    "guideSlug": "vridha-pension-yojana-up"
+    "guideSlug": "vridha-pension-yojana-up",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "up-vidhwa-pension",
@@ -3298,10 +3937,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Widow women from BPL families"
+      "additionalCriteria": "Widow women from BPL families",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "spouse"
+      ]
     },
     "officialUrl": "https://sspy-up.gov.in",
-    "guideSlug": "vidhwa-pension-yojana-up"
+    "guideSlug": "vidhwa-pension-yojana-up",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "up-divyang-pension",
@@ -3327,10 +3973,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Minimum 40% disability certificate required"
+      "additionalCriteria": "Minimum 40% disability certificate required",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://sspy-up.gov.in",
-    "guideSlug": "divyang-pension-yojana-up"
+    "guideSlug": "divyang-pension-yojana-up",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "up-shadi-anudan",
@@ -3361,10 +4014,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Rural income max ₹46,080, Urban income max ₹56,460 for General; ₹3 lakh for SC/ST/OBC"
+      "additionalCriteria": "Rural income max ₹46,080, Urban income max ₹56,460 for General; ₹3 lakh for SC/ST/OBC",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://shadianudan.upsdc.gov.in",
-    "guideSlug": "shadi-anudan-yojana-up"
+    "guideSlug": "shadi-anudan-yojana-up",
+    "perHousehold": false,
+    "benefitOneTime": 51000
   },
   {
     "id": "up-mukhyamantri-awas-yojana",
@@ -3390,10 +4050,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": "urban",
-      "additionalCriteria": "Should not own a pucca house"
+      "additionalCriteria": "Should not own a pucca house",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://awasyojna.up.gov.in",
-    "guideSlug": "mukhyamantri-awas-yojana-up"
+    "guideSlug": "mukhyamantri-awas-yojana-up",
+    "perHousehold": true,
+    "benefitOneTime": 150000
   },
   {
     "id": "up-free-ration",
@@ -3419,10 +4084,15 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must have valid ration card (BPL/AAY/PHH)"
+      "additionalCriteria": "Must have valid ration card (BPL/AAY/PHH)",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://fcs.up.gov.in",
-    "guideSlug": "free-ration-yojana-up"
+    "guideSlug": "free-ration-yojana-up",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "up-mission-shakti",
@@ -3448,10 +4118,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All women of Uttar Pradesh"
+      "additionalCriteria": "All women of Uttar Pradesh",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://missionshakti.up.gov.in",
-    "guideSlug": "mission-shakti-up"
+    "guideSlug": "mission-shakti-up",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "up-scholarship",
@@ -3482,10 +4157,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be enrolled in recognized educational institution in UP"
+      "additionalCriteria": "Must be enrolled in recognized educational institution in UP",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://scholarship.up.gov.in",
-    "guideSlug": "up-scholarship"
+    "guideSlug": "up-scholarship",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "bihar-kanya-utthan",
@@ -3511,10 +4193,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be resident of Bihar; max 2 daughters per family"
+      "additionalCriteria": "Must be resident of Bihar; max 2 daughters per family",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://medhasoft.bihar.gov.in",
-    "guideSlug": "kanya-utthan-yojana-bihar"
+    "guideSlug": "kanya-utthan-yojana-bihar",
+    "perHousehold": false,
+    "benefitOneTime": 50000
   },
   {
     "id": "bihar-student-credit-card",
@@ -3540,10 +4229,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must have passed 12th from Bihar; admitted in recognized institution"
+      "additionalCriteria": "Must have passed 12th from Bihar; admitted in recognized institution",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://www.7nishchay-yuvaupmission.bihar.gov.in",
-    "guideSlug": "student-credit-card-bihar"
+    "guideSlug": "student-credit-card-bihar",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "bihar-cycle-yojana",
@@ -3569,10 +4265,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be enrolled in class 9 in a government school in Bihar"
+      "additionalCriteria": "Must be enrolled in class 9 in a government school in Bihar",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://education.bihar.gov.in",
-    "guideSlug": "cycle-yojana-bihar"
+    "guideSlug": "cycle-yojana-bihar",
+    "perHousehold": false,
+    "benefitOneTime": 3000
   },
   {
     "id": "bihar-vridha-pension",
@@ -3598,10 +4301,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All elderly residents of Bihar (universal, no income limit)"
+      "additionalCriteria": "All elderly residents of Bihar (universal, no income limit)",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://www.sspmis.bihar.gov.in",
-    "guideSlug": "vridha-pension-bihar"
+    "guideSlug": "vridha-pension-bihar",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "bihar-poshak-yojana",
@@ -3627,10 +4337,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Students enrolled in Bihar government schools"
+      "additionalCriteria": "Students enrolled in Bihar government schools",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://education.bihar.gov.in",
-    "guideSlug": "poshak-yojana-bihar"
+    "guideSlug": "poshak-yojana-bihar",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "bihar-gramin-awas",
@@ -3656,10 +4373,15 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": "rural",
-      "additionalCriteria": "Homeless or living in kutcha house; must be on SECC/Awas+ list"
+      "additionalCriteria": "Homeless or living in kutcha house; must be on SECC/Awas+ list",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://pmaymis.gov.in",
-    "guideSlug": "gramin-awas-yojana-bihar"
+    "guideSlug": "gramin-awas-yojana-bihar",
+    "perHousehold": true,
+    "benefitOneTime": 120000
   },
   {
     "id": "bihar-udyami-yojana",
@@ -3690,10 +4412,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must have passed 10+2 or ITI; resident of Bihar"
+      "additionalCriteria": "Must have passed 10+2 or ITI; resident of Bihar",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://udyami.bihar.gov.in",
-    "guideSlug": "udyami-yojana-bihar"
+    "guideSlug": "udyami-yojana-bihar",
+    "perHousehold": false,
+    "benefitOneTime": 1000000
   },
   {
     "id": "bihar-medhavriti-yojana",
@@ -3722,10 +4449,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must have passed 12th from Bihar board"
+      "additionalCriteria": "Must have passed 12th from Bihar board",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://medhasoft.bihar.gov.in",
-    "guideSlug": "medhavriti-yojana-bihar"
+    "guideSlug": "medhavriti-yojana-bihar",
+    "perHousehold": false,
+    "benefitOneTime": 15000
   },
   {
     "id": "jh-guruji-credit-card",
@@ -3751,10 +4485,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must have passed 10th/12th from Jharkhand; family income below ₹4 lakh/year"
+      "additionalCriteria": "Must have passed 10th/12th from Jharkhand; family income below ₹4 lakh/year",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://jsgcc.jharkhand.gov.in",
-    "guideSlug": "guruji-credit-card-jharkhand"
+    "guideSlug": "guruji-credit-card-jharkhand",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "jh-savitribai-phule-kishori",
@@ -3780,10 +4521,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Girls from SECC-listed families; enrolled in school"
+      "additionalCriteria": "Girls from SECC-listed families; enrolled in school",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://jharkhand.gov.in",
-    "guideSlug": "savitribai-phule-kishori-samridhi-jharkhand"
+    "guideSlug": "savitribai-phule-kishori-samridhi-jharkhand",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "jh-abua-awas",
@@ -3809,10 +4557,15 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": "rural",
-      "additionalCriteria": "Homeless families not covered under PMAY; must be on SECC list"
+      "additionalCriteria": "Homeless families not covered under PMAY; must be on SECC list",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://abuaawas.jharkhand.gov.in",
-    "guideSlug": "abua-awas-yojana-jharkhand"
+    "guideSlug": "abua-awas-yojana-jharkhand",
+    "perHousehold": true,
+    "benefitOneTime": 200000
   },
   {
     "id": "jh-universal-pension",
@@ -3838,10 +4591,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Also covers widows 18+ and disabled with 40%+ disability"
+      "additionalCriteria": "Also covers widows 18+ and disabled with 40%+ disability",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://jharkhand.gov.in",
-    "guideSlug": "universal-pension-jharkhand"
+    "guideSlug": "universal-pension-jharkhand",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "jh-mukhyamantri-protsahan",
@@ -3867,10 +4627,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Graduate from recognized university; registered with employment exchange"
+      "additionalCriteria": "Graduate from recognized university; registered with employment exchange",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://rojgar.jharkhand.gov.in",
-    "guideSlug": "mukhyamantri-protsahan-jharkhand"
+    "guideSlug": "mukhyamantri-protsahan-jharkhand",
+    "perHousehold": false,
+    "benefitOneTime": 5000
   },
   {
     "id": "jh-abua-swasth-suraksha",
@@ -3896,10 +4661,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Families not covered under PMJAY/Ayushman Bharat"
+      "additionalCriteria": "Families not covered under PMJAY/Ayushman Bharat",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://jharkhand.gov.in",
-    "guideSlug": "abua-swasth-suraksha-jharkhand"
+    "guideSlug": "abua-swasth-suraksha-jharkhand",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "jh-maiyan-samman",
@@ -3925,10 +4695,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Women residents of Jharkhand; not a government employee or taxpayer"
+      "additionalCriteria": "Women residents of Jharkhand; not a government employee or taxpayer",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://jharkhand.gov.in",
-    "guideSlug": "maiyan-samman-yojana-jharkhand"
+    "guideSlug": "maiyan-samman-yojana-jharkhand",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "jh-birsa-munda-yojana",
@@ -3956,10 +4733,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must belong to Scheduled Tribe community in Jharkhand"
+      "additionalCriteria": "Must belong to Scheduled Tribe community in Jharkhand",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://jharkhand.gov.in",
-    "guideSlug": "birsa-munda-tribal-welfare-jharkhand"
+    "guideSlug": "birsa-munda-tribal-welfare-jharkhand",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "wb-lakshmir-bhandar",
@@ -3985,10 +4767,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Women head of household in West Bengal; must not be government employee"
+      "additionalCriteria": "Women head of household in West Bengal; must not be government employee",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://socialsecurity.wb.gov.in",
-    "guideSlug": "lakshmir-bhandar-west-bengal"
+    "guideSlug": "lakshmir-bhandar-west-bengal",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "wb-kanyashree",
@@ -4014,10 +4803,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be unmarried and enrolled in educational institution; family income ≤₹1.2 lakh/year"
+      "additionalCriteria": "Must be unmarried and enrolled in educational institution; family income ≤₹1.2 lakh/year",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://wbkanyashree.gov.in",
-    "guideSlug": "kanyashree-prakalpa-west-bengal"
+    "guideSlug": "kanyashree-prakalpa-west-bengal",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "wb-swasthya-sathi",
@@ -4043,10 +4839,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All families of West Bengal with Swasthya Sathi card"
+      "additionalCriteria": "All families of West Bengal with Swasthya Sathi card",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://swasthyasathi.gov.in",
-    "guideSlug": "swasthya-sathi-west-bengal"
+    "guideSlug": "swasthya-sathi-west-bengal",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "wb-sabuj-sathi",
@@ -4072,10 +4873,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Students enrolled in class 9-12 in government/aided schools in West Bengal"
+      "additionalCriteria": "Students enrolled in class 9-12 in government/aided schools in West Bengal",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://wb.gov.in",
-    "guideSlug": "sabuj-sathi-west-bengal"
+    "guideSlug": "sabuj-sathi-west-bengal",
+    "perHousehold": false,
+    "benefitOneTime": 0
   },
   {
     "id": "wb-rupashree",
@@ -4101,10 +4909,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Family annual income ≤₹1.5 lakh; bride must be 18+"
+      "additionalCriteria": "Family annual income ≤₹1.5 lakh; bride must be 18+",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://wbrupashree.gov.in",
-    "guideSlug": "rupashree-prakalpa-west-bengal"
+    "guideSlug": "rupashree-prakalpa-west-bengal",
+    "perHousehold": false,
+    "benefitOneTime": 25000
   },
   {
     "id": "wb-aikyashree",
@@ -4132,10 +4947,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must belong to minority community; family income ≤₹2 lakh/year"
+      "additionalCriteria": "Must belong to minority community; family income ≤₹2 lakh/year",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://wbmdfc.org",
-    "guideSlug": "aikyashree-prakalpa-west-bengal"
+    "guideSlug": "aikyashree-prakalpa-west-bengal",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "wb-taruner-swapno",
@@ -4161,10 +4983,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Students of class 11, 12, and college in West Bengal"
+      "additionalCriteria": "Students of class 11, 12, and college in West Bengal",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://wb.gov.in",
-    "guideSlug": "taruner-swapno-west-bengal"
+    "guideSlug": "taruner-swapno-west-bengal",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "wb-karmatirtha",
@@ -4190,10 +5017,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Unemployed youth of West Bengal"
+      "additionalCriteria": "Unemployed youth of West Bengal",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://karmatirtha.wb.gov.in",
-    "guideSlug": "karmatirtha-west-bengal"
+    "guideSlug": "karmatirtha-west-bengal",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "od-kalia",
@@ -4223,10 +5055,15 @@
       ],
       "bpl": null,
       "urbanRural": "rural",
-      "additionalCriteria": "Small and marginal farmers of Odisha; landless agricultural households also eligible"
+      "additionalCriteria": "Small and marginal farmers of Odisha; landless agricultural households also eligible",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://kalia.odisha.gov.in",
-    "guideSlug": "kalia-yojana-odisha"
+    "guideSlug": "kalia-yojana-odisha",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "od-madhu-babu-pension",
@@ -4252,10 +5089,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Also covers widows 30+ and disabled 5+ with 40% disability; BPL families"
+      "additionalCriteria": "Also covers widows 30+ and disabled 5+ with 40% disability; BPL families",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://ssepd.odisha.gov.in",
-    "guideSlug": "madhu-babu-pension-odisha"
+    "guideSlug": "madhu-babu-pension-odisha",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "od-biju-swasthya-kalyan",
@@ -4281,10 +5125,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All residents of Odisha with ration card"
+      "additionalCriteria": "All residents of Odisha with ration card",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://bsky.odisha.gov.in",
-    "guideSlug": "biju-swasthya-kalyan-odisha"
+    "guideSlug": "biju-swasthya-kalyan-odisha",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "od-mission-shakti",
@@ -4310,10 +5159,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Women SHG members in Odisha"
+      "additionalCriteria": "Women SHG members in Odisha",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://missionshakti.odisha.gov.in",
-    "guideSlug": "mission-shakti-odisha"
+    "guideSlug": "mission-shakti-odisha",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "od-mamata",
@@ -4339,10 +5193,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Pregnant and lactating women; first two live births"
+      "additionalCriteria": "Pregnant and lactating women; first two live births",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://wcd.odisha.gov.in",
-    "guideSlug": "mamata-yojana-odisha"
+    "guideSlug": "mamata-yojana-odisha",
+    "perHousehold": false,
+    "benefitOneTime": 5000
   },
   {
     "id": "od-subhadra",
@@ -4368,10 +5229,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Women residents of Odisha; not a government employee or income taxpayer"
+      "additionalCriteria": "Women residents of Odisha; not a government employee or income taxpayer",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://subhadrayojana.odisha.gov.in",
-    "guideSlug": "subhadra-yojana-odisha"
+    "guideSlug": "subhadra-yojana-odisha",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "od-free-rice",
@@ -4397,10 +5265,15 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must have valid ration card"
+      "additionalCriteria": "Must have valid ration card",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://pdsodisha.gov.in",
-    "guideSlug": "free-rice-scheme-odisha"
+    "guideSlug": "free-rice-scheme-odisha",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "od-labanyavati",
@@ -4426,10 +5299,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All women and adolescent girls in Odisha"
+      "additionalCriteria": "All women and adolescent girls in Odisha",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://missionshakti.odisha.gov.in",
-    "guideSlug": "labanyavati-yojana-odisha"
+    "guideSlug": "labanyavati-yojana-odisha",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "cg-mahtari-vandana",
@@ -4455,10 +5333,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be married; not a government employee or income taxpayer"
+      "additionalCriteria": "Must be married; not a government employee or income taxpayer",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://mahtarivandan.cgstate.gov.in",
-    "guideSlug": "mahtari-vandana-yojana-chhattisgarh"
+    "guideSlug": "mahtari-vandana-yojana-chhattisgarh",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "cg-godhan-nyay",
@@ -4487,10 +5372,15 @@
       ],
       "bpl": null,
       "urbanRural": "rural",
-      "additionalCriteria": "Cattle owners and women SHGs in Chhattisgarh"
+      "additionalCriteria": "Cattle owners and women SHGs in Chhattisgarh",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://godhannyay.cgstate.gov.in",
-    "guideSlug": "godhan-nyay-yojana-chhattisgarh"
+    "guideSlug": "godhan-nyay-yojana-chhattisgarh",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "cg-rajiv-gandhi-kisan-nyay",
@@ -4519,10 +5409,15 @@
       ],
       "bpl": null,
       "urbanRural": "rural",
-      "additionalCriteria": "Registered farmers of Chhattisgarh growing specified crops"
+      "additionalCriteria": "Registered farmers of Chhattisgarh growing specified crops",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://rgkny.cg.nic.in",
-    "guideSlug": "rajiv-gandhi-kisan-nyay-chhattisgarh"
+    "guideSlug": "rajiv-gandhi-kisan-nyay-chhattisgarh",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "cg-swami-atmanand-schools",
@@ -4548,10 +5443,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All children of Chhattisgarh; admission via merit"
+      "additionalCriteria": "All children of Chhattisgarh; admission via merit",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://shiksha.cg.nic.in",
-    "guideSlug": "swami-atmanand-schools-chhattisgarh"
+    "guideSlug": "swami-atmanand-schools-chhattisgarh",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "cg-vridha-pension",
@@ -4577,10 +5477,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Below poverty line families of Chhattisgarh"
+      "additionalCriteria": "Below poverty line families of Chhattisgarh",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://sw.cg.gov.in",
-    "guideSlug": "vridha-pension-chhattisgarh"
+    "guideSlug": "vridha-pension-chhattisgarh",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "cg-free-ration",
@@ -4606,10 +5513,15 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must have valid ration card (BPL/AAY)"
+      "additionalCriteria": "Must have valid ration card (BPL/AAY)",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://khadya.cg.nic.in",
-    "guideSlug": "free-ration-chhattisgarh"
+    "guideSlug": "free-ration-chhattisgarh",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "cg-mukhyamantri-ladli-laxmi",
@@ -4635,10 +5547,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Father/mother must be registered construction worker; max 2 daughters"
+      "additionalCriteria": "Father/mother must be registered construction worker; max 2 daughters",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://cglabour.nic.in",
-    "guideSlug": "noni-sashaktikaran-chhattisgarh"
+    "guideSlug": "noni-sashaktikaran-chhattisgarh",
+    "perHousehold": false,
+    "benefitOneTime": 20000
   },
   {
     "id": "cg-vishwakarma-yojana",
@@ -4666,10 +5583,15 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Traditional artisans (carpenter, blacksmith, goldsmith, potter etc.) of Chhattisgarh"
+      "additionalCriteria": "Traditional artisans (carpenter, blacksmith, goldsmith, potter etc.) of Chhattisgarh",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://cg.gov.in",
-    "guideSlug": "vishwakarma-yojana-chhattisgarh"
+    "guideSlug": "vishwakarma-yojana-chhattisgarh",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mp-ladli-behna",
@@ -4695,10 +5617,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Not an income taxpayer; family income ≤₹2.5 lakh; not a government employee"
+      "additionalCriteria": "Not an income taxpayer; family income ≤₹2.5 lakh; not a government employee",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://ladlibahna.mp.gov.in",
-    "guideSlug": "ladli-behna-yojana-mp"
+    "guideSlug": "ladli-behna-yojana-mp",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mp-seekho-kamao",
@@ -4724,10 +5653,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be resident of MP; minimum 12th pass; not employed or studying"
+      "additionalCriteria": "Must be resident of MP; minimum 12th pass; not employed or studying",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://mmsky.mp.gov.in",
-    "guideSlug": "seekho-kamao-yojana-mp"
+    "guideSlug": "seekho-kamao-yojana-mp",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mp-ladli-laxmi",
@@ -4753,10 +5687,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Girl child born in MP; parents not income taxpayers; max 2 girls per family; 2.0 adds college fee support"
+      "additionalCriteria": "Girl child born in MP; parents not income taxpayers; max 2 girls per family; 2.0 adds college fee support",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://ladlilaxmi.mp.gov.in",
-    "guideSlug": "ladli-laxmi-yojana-mp"
+    "guideSlug": "ladli-laxmi-yojana-mp",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mp-sambal",
@@ -4789,10 +5730,15 @@
       ],
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Unorganized/BPL workers registered under Sambal; must have Samagra ID"
+      "additionalCriteria": "Unorganized/BPL workers registered under Sambal; must have Samagra ID",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://sambal.mp.gov.in",
-    "guideSlug": "sambal-yojana-mp"
+    "guideSlug": "sambal-yojana-mp",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mp-vridha-pension",
@@ -4818,10 +5764,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must be BPL; must have Samagra ID"
+      "additionalCriteria": "Must be BPL; must have Samagra ID",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://socialsecurity.mp.gov.in",
-    "guideSlug": "vridha-pension-mp"
+    "guideSlug": "vridha-pension-mp",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mp-mukhyamantri-jan-seva-mitra",
@@ -4847,10 +5800,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Graduate youth of Madhya Pradesh"
+      "additionalCriteria": "Graduate youth of Madhya Pradesh",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://mp.gov.in",
-    "guideSlug": "yuva-internship-mp"
+    "guideSlug": "yuva-internship-mp",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mp-vidhwa-pension",
@@ -4876,10 +5834,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Widow women from BPL families; must have Samagra ID"
+      "additionalCriteria": "Widow women from BPL families; must have Samagra ID",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "spouse"
+      ]
     },
     "officialUrl": "https://socialsecurity.mp.gov.in",
-    "guideSlug": "vidhwa-pension-mp"
+    "guideSlug": "vidhwa-pension-mp",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mp-free-ration",
@@ -4905,10 +5870,15 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must have valid ration card (BPL/AAY/PHH)"
+      "additionalCriteria": "Must have valid ration card (BPL/AAY/PHH)",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://nfsa.samagra.gov.in",
-    "guideSlug": "free-ration-mp"
+    "guideSlug": "free-ration-mp",
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "mp-mukhyamantri-udyam-kranti",
@@ -4934,10 +5904,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be resident of MP; minimum 12th pass; must have Samagra ID"
+      "additionalCriteria": "Must be resident of MP; minimum 12th pass; must have Samagra ID",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://samast.mponline.gov.in",
-    "guideSlug": "udyam-kranti-yojana-mp"
+    "guideSlug": "udyam-kranti-yojana-mp",
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mh-ladki-bahin",
@@ -4964,10 +5939,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be domiciled in Maharashtra; family income below ₹2.5 lakh/year"
+      "additionalCriteria": "Must be domiciled in Maharashtra; family income below ₹2.5 lakh/year",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://ladakibahin.maharashtra.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mh-lek-ladki",
@@ -4994,10 +5976,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Girl child born in a Yellow/Orange ration card holder family"
+      "additionalCriteria": "Girl child born in a Yellow/Orange ration card holder family",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://womenchild.maharashtra.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 101000
   },
   {
     "id": "mh-shravan-bal-pension",
@@ -5024,10 +6013,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must be on BPL list or annual income below ₹21,000"
+      "additionalCriteria": "Must be on BPL list or annual income below ₹21,000",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://sjsa.maharashtra.gov.in/en/scheme/shravan-bal-rajya-nivruttivetan-yojana/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mh-mahatma-jyotirao-phule-jan-arogya",
@@ -5054,10 +6050,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Yellow/Orange/White ration card holders; farmers"
+      "additionalCriteria": "Yellow/Orange/White ration card holders; farmers",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://www.jeevandayee.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "mh-ramai-awas",
@@ -5088,10 +6089,15 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must not own a pucca house; must be BPL"
+      "additionalCriteria": "Must not own a pucca house; must be BPL",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://sjsa.maharashtra.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": true,
+    "benefitOneTime": 250000
   },
   {
     "id": "mh-sanjay-gandhi-niradhar-pension",
@@ -5118,10 +6124,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Must be destitute — disabled (40%+), widow, orphan, HIV/AIDS patient, etc."
+      "additionalCriteria": "Must be destitute — disabled (40%+), widow, orphan, HIV/AIDS patient, etc.",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://sjsa.maharashtra.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mh-manjhi-kanya-bhagyashree",
@@ -5148,10 +6159,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Family annual income below ₹7.5 lakh; mother must undergo sterilization after one/two girls"
+      "additionalCriteria": "Family annual income below ₹7.5 lakh; mother must undergo sterilization after one/two girls",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://womenchild.maharashtra.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 50000
   },
   {
     "id": "mh-gharkul-yojana",
@@ -5178,10 +6196,15 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Must be homeless or living in kutcha house"
+      "additionalCriteria": "Must be homeless or living in kutcha house",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://mhada.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": true,
+    "benefitOneTime": 250000
   },
   {
     "id": "gj-namo-lakshmi",
@@ -5208,10 +6231,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Girl students studying in classes 9 to 12 in government or grant-in-aid schools"
+      "additionalCriteria": "Girl students studying in classes 9 to 12 in government or grant-in-aid schools",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://education.gujarat.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "gj-vahali-dikri",
@@ -5238,10 +6268,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "First two daughters of the family; family income below ₹2 lakh/year"
+      "additionalCriteria": "First two daughters of the family; family income below ₹2 lakh/year",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://wcd.gujarat.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 110000
   },
   {
     "id": "gj-namo-saraswati",
@@ -5268,10 +6305,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Students in science stream classes 11-12 in government/grant-in-aid schools with minimum marks in Class 10"
+      "additionalCriteria": "Students in science stream classes 11-12 in government/grant-in-aid schools with minimum marks in Class 10",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://education.gujarat.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "gj-kisan-sahay",
@@ -5301,10 +6345,15 @@
       ],
       "bpl": null,
       "urbanRural": "rural",
-      "additionalCriteria": "All farmers in Gujarat; no premium required; max 4 hectares"
+      "additionalCriteria": "All farmers in Gujarat; no premium required; max 4 hectares",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://agri.gujarat.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "gj-manav-garima",
@@ -5335,10 +6384,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": "rural",
-      "additionalCriteria": "SC families in rural areas; income below ₹47,000/year (rural) or ₹68,000/year (urban)"
+      "additionalCriteria": "SC families in rural areas; income below ₹47,000/year (rural) or ₹68,000/year (urban)",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://sje.gujarat.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 4000
   },
   {
     "id": "gj-ma-amrutam",
@@ -5365,10 +6419,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "BPL families (MA) or families with income up to ₹4 lakh (MA Vatsalya)"
+      "additionalCriteria": "BPL families (MA) or families with income up to ₹4 lakh (MA Vatsalya)",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://www.magujarat.com/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "gj-old-age-pension",
@@ -5395,10 +6454,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "BPL families; must be resident of Gujarat"
+      "additionalCriteria": "BPL families; must be resident of Gujarat",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://sje.gujarat.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "rj-chiranjeevi-health",
@@ -5424,10 +6490,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All Rajasthan families; BPL/NFSA/small farmers free; others pay ₹850/year premium"
+      "additionalCriteria": "All Rajasthan families; BPL/NFSA/small farmers free; others pay ₹850/year premium",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://chiranjeevi.rajasthan.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "rj-old-age-pension",
@@ -5453,10 +6524,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Women 55+, Men 58+; income below ₹48,000/year; higher pension for 75+"
+      "additionalCriteria": "Women 55+, Men 58+; income below ₹48,000/year; higher pension for 75+",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://ssp.rajasthan.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "rj-palanhar",
@@ -5482,10 +6560,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Orphans, children of widows, prisoners, disabled parents, etc.; annual income of guardian below ₹1.2 lakh"
+      "additionalCriteria": "Orphans, children of widows, prisoners, disabled parents, etc.; annual income of guardian below ₹1.2 lakh",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://sje.rajasthan.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "rj-indira-gandhi-smartphone",
@@ -5511,10 +6596,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Women head of Chiranjeevi-enrolled family; also for Class 9-12 and college girls"
+      "additionalCriteria": "Women head of Chiranjeevi-enrolled family; also for Class 9-12 and college girls",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://igsy.rajasthan.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 6800
   },
   {
     "id": "rj-widow-pension",
@@ -5540,10 +6630,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Widow; income below ₹48,000/year"
+      "additionalCriteria": "Widow; income below ₹48,000/year",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "spouse"
+      ]
     },
     "officialUrl": "https://ssp.rajasthan.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "rj-cm-kanyadan",
@@ -5574,10 +6671,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Daughter of BPL family, widow, or Antyodaya card holder"
+      "additionalCriteria": "Daughter of BPL family, widow, or Antyodaya card holder",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://sje.rajasthan.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 51000
   },
   {
     "id": "rj-anuprati-coaching",
@@ -5609,10 +6713,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Family annual income below ₹8 lakh"
+      "additionalCriteria": "Family annual income below ₹8 lakh",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://sje.rajasthan.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 50000
   },
   {
     "id": "pb-ashirwad",
@@ -5643,10 +6754,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Daughter from SC/BC/EWS family in Punjab; marriage must be registered"
+      "additionalCriteria": "Daughter from SC/BC/EWS family in Punjab; marriage must be registered",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://punjab.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 51000
   },
   {
     "id": "pb-atta-dal",
@@ -5673,10 +6791,15 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Blue card (BPL) holders in Punjab"
+      "additionalCriteria": "Blue card (BPL) holders in Punjab",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://punjab.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "pb-bhagat-puran-singh-sehat-bima",
@@ -5703,10 +6826,15 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "SECC/BPL families and Blue card holders in Punjab"
+      "additionalCriteria": "SECC/BPL families and Blue card holders in Punjab",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://sha.punjab.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "pb-old-age-pension",
@@ -5733,10 +6861,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "BPL/SECC listed; resident of Punjab"
+      "additionalCriteria": "BPL/SECC listed; resident of Punjab",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://punjab.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "pb-widow-pension",
@@ -5763,10 +6898,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Widow; BPL family; resident of Punjab"
+      "additionalCriteria": "Widow; BPL family; resident of Punjab",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "spouse"
+      ]
     },
     "officialUrl": "https://punjab.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "hr-lado-lakshmi",
@@ -5792,10 +6934,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Women aged 23+ registered on Parivar Pehchan Patra; launched September 2025"
+      "additionalCriteria": "Women aged 23+ registered on Parivar Pehchan Patra; launched September 2025",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://www.haryana.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "hr-old-age-samman",
@@ -5821,10 +6970,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Domicile of Haryana; combined income with spouse below ₹2 lakh/year"
+      "additionalCriteria": "Domicile of Haryana; combined income with spouse below ₹2 lakh/year",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://socialjusticehry.gov.in/old-age-samman-allowance-scheme/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "hr-ladli",
@@ -5850,10 +7006,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Second girl child born on or after 20-Aug-2005; parents domiciled in Haryana"
+      "additionalCriteria": "Second girl child born on or after 20-Aug-2005; parents domiciled in Haryana",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://wcdhry.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "hr-chirayu",
@@ -5879,10 +7042,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All Haryana families with Parivar Pehchan Patra not covered under Ayushman Bharat"
+      "additionalCriteria": "All Haryana families with Parivar Pehchan Patra not covered under Ayushman Bharat",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://chirayu.haryana.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "hr-vivah-shagun",
@@ -5912,10 +7080,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "BPL families, widows, destitute women; income below ₹1.8 lakh/year"
+      "additionalCriteria": "BPL families, widows, destitute women; income below ₹1.8 lakh/year",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://haryanascbc.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 51000
   },
   {
     "id": "hp-ig-pyari-behna",
@@ -5941,10 +7116,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Permanent resident of Himachal Pradesh; not a government employee or pensioner"
+      "additionalCriteria": "Permanent resident of Himachal Pradesh; not a government employee or pensioner",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://www.myscheme.gov.in/schemes/igpbssny",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "hp-him-care",
@@ -5970,10 +7152,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "HP residents not covered under Ayushman Bharat; ration card holders; registration with ₹1,000/year"
+      "additionalCriteria": "HP residents not covered under Ayushman Bharat; ration card holders; registration with ₹1,000/year",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://himcare.hp.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "hp-medha-protsahan",
@@ -5999,10 +7186,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "HP domicile; family income below ₹2.75 lakh/year; SC/ST/OBC/IRDP/BPL"
+      "additionalCriteria": "HP domicile; family income below ₹2.75 lakh/year; SC/ST/OBC/IRDP/BPL",
+      "education": "graduate",
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://hp.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 100000
   },
   {
     "id": "hp-old-age-pension",
@@ -6028,10 +7220,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "BPL family; resident of Himachal Pradesh"
+      "additionalCriteria": "BPL family; resident of Himachal Pradesh",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://hp.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "uk-gaura-devi-kanya-dhan",
@@ -6057,10 +7256,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": "rural",
-      "additionalCriteria": "BPL family domiciled in Uttarakhand; girl must study in government/aided school"
+      "additionalCriteria": "BPL family domiciled in Uttarakhand; girl must study in government/aided school",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://www.nandagaurauk.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 51000
   },
   {
     "id": "uk-vatsalya",
@@ -6086,10 +7292,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Children who lost parent(s); domiciled in Uttarakhand"
+      "additionalCriteria": "Children who lost parent(s); domiciled in Uttarakhand",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://uk.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "uk-atal-ayushman",
@@ -6115,10 +7328,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All families of Uttarakhand with ration card"
+      "additionalCriteria": "All families of Uttarakhand with ration card",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://ayushmanuttarakhand.uk.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "uk-old-age-pension",
@@ -6144,10 +7362,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "BPL/SECC listed; resident of Uttarakhand"
+      "additionalCriteria": "BPL/SECC listed; resident of Uttarakhand",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://ssp.uk.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "dl-mahila-samriddhi",
@@ -6173,10 +7398,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Woman resident of Delhi; family income below ₹3 lakh; not receiving other social security pension"
+      "additionalCriteria": "Woman resident of Delhi; family income below ₹3 lakh; not receiving other social security pension",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://delhi.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "dl-old-age-pension",
@@ -6202,10 +7434,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Resident of Delhi for 5+ years; ₹2,000 for 60-69, ₹2,500 for 70+"
+      "additionalCriteria": "Resident of Delhi for 5+ years; ₹2,000 for 60-69, ₹2,500 for 70+",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://edistrict.delhigovt.nic.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "dl-free-bus-women",
@@ -6231,10 +7470,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All women passengers in DTC/cluster buses; no registration needed"
+      "additionalCriteria": "All women passengers in DTC/cluster buses; no registration needed",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://delhi.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "dl-free-ration",
@@ -6260,10 +7504,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "NFSA/PDS ration card holders in Delhi"
+      "additionalCriteria": "NFSA/PDS ration card holders in Delhi",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://nfs.delhi.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "dl-widow-pension",
@@ -6289,10 +7538,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Widow; resident of Delhi for 5+ years; income below ₹1 lakh/year"
+      "additionalCriteria": "Widow; resident of Delhi for 5+ years; income below ₹1 lakh/year",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "spouse"
+      ]
     },
     "officialUrl": "https://edistrict.delhigovt.nic.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ga-dayanand-social-security",
@@ -6318,10 +7574,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Goa resident 15+ years; senior citizens 60+, or disabled 40%+, or single women, or HIV/AIDS patients"
+      "additionalCriteria": "Goa resident 15+ years; senior citizens 60+, or disabled 40%+, or single women, or HIV/AIDS patients",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://socialwelfare.goa.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ga-griha-aadhar",
@@ -6350,10 +7613,17 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Goa resident; homemaker; family income below ₹3 lakh/year"
+      "additionalCriteria": "Goa resident; homemaker; family income below ₹3 lakh/year",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://www.goa.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ga-laadli-laxmi",
@@ -6379,10 +7649,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Girl child born in Goa; must be enrolled in school"
+      "additionalCriteria": "Girl child born in Goa; must be enrolled in school",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://www.goa.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 100000
   },
   {
     "id": "jk-sehat",
@@ -6409,10 +7686,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All residents of J&K with golden card; universal coverage"
+      "additionalCriteria": "All residents of J&K with golden card; universal coverage",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://sha.jk.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": true,
+    "benefitOneTime": null
   },
   {
     "id": "jk-mumkin",
@@ -6441,10 +7723,15 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Unemployed youth of J&K aged 18-35; must have valid driving license"
+      "additionalCriteria": "Unemployed youth of J&K aged 18-35; must have valid driving license",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://jakemp.nic.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 80000
   },
   {
     "id": "jk-old-age-pension",
@@ -6471,10 +7758,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "BPL resident of J&K"
+      "additionalCriteria": "BPL resident of J&K",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://jkdswdj.jk.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "as-orunodoi",
@@ -6501,10 +7795,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Women from families with income below ₹2 lakh/year; must have bank account linked to Aadhaar"
+      "additionalCriteria": "Women from families with income below ₹2 lakh/year; must have bank account linked to Aadhaar",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://orunodoi.assam.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "as-pragyan-bharati",
@@ -6531,10 +7832,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Students scoring 1st Division in HSLC/HS from Assam state board"
+      "additionalCriteria": "Students scoring 1st Division in HSLC/HS from Assam state board",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://assam.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 0
   },
   {
     "id": "as-arundhati",
@@ -6561,10 +7869,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Bride must be 18+; marriage must be registered under Special Marriage Act; family income below ₹5 lakh"
+      "additionalCriteria": "Bride must be 18+; marriage must be registered under Special Marriage Act; family income below ₹5 lakh",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://assam.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 30000
   },
   {
     "id": "as-old-age-pension",
@@ -6591,10 +7904,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "BPL/SECC listed; resident of Assam"
+      "additionalCriteria": "BPL/SECC listed; resident of Assam",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://assam.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "sk-one-family-one-job",
@@ -6620,10 +7940,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Family with no existing government employee; resident of Sikkim"
+      "additionalCriteria": "Family with no existing government employee; resident of Sikkim",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://sikkim.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "sk-old-age-pension",
@@ -6649,10 +7974,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "BPL family; resident of Sikkim"
+      "additionalCriteria": "BPL family; resident of Sikkim",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://pensionscheme.sikkim.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "sk-widow-pension",
@@ -6678,10 +8010,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Widow; BPL; resident of Sikkim"
+      "additionalCriteria": "Widow; BPL; resident of Sikkim",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "spouse"
+      ]
     },
     "officialUrl": "https://pensionscheme.sikkim.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "tr-old-age-pension",
@@ -6708,10 +8047,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "BPL family; resident of Tripura"
+      "additionalCriteria": "BPL family; resident of Tripura",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://socialwelfare.tripura.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "tr-widow-pension",
@@ -6738,10 +8084,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Widow; BPL; resident of Tripura"
+      "additionalCriteria": "Widow; BPL; resident of Tripura",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "spouse"
+      ]
     },
     "officialUrl": "https://socialwelfare.tripura.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "tr-girl-child-incentive",
@@ -6768,10 +8121,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Girl child from BPL family in Tripura"
+      "additionalCriteria": "Girl child from BPL family in Tripura",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://socialwelfare.tripura.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ml-focus-plus",
@@ -6797,10 +8157,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "All households of Meghalaya"
+      "additionalCriteria": "All households of Meghalaya",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://meghalaya.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 5000
   },
   {
     "id": "ml-cm-scholarship",
@@ -6826,10 +8191,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Meritorious students of Meghalaya"
+      "additionalCriteria": "Meritorious students of Meghalaya",
+      "education": "secondary",
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://meghalaya.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ml-disability-pension",
@@ -6855,10 +8227,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Person with disability certificate from competent authority; resident of Meghalaya"
+      "additionalCriteria": "Person with disability certificate from competent authority; resident of Meghalaya",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "self"
+      ]
     },
     "officialUrl": "https://megscpwd.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mn-cmst",
@@ -6884,10 +8263,15 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Elderly, widows, disabled; resident of Manipur"
+      "additionalCriteria": "Elderly, widows, disabled; resident of Manipur",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://socialwelfare.mn.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mn-widow-pension",
@@ -6913,10 +8297,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Widow; BPL; resident of Manipur"
+      "additionalCriteria": "Widow; BPL; resident of Manipur",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "spouse"
+      ]
     },
     "officialUrl": "https://socialwelfare.mn.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mn-old-age-pension",
@@ -6942,10 +8333,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "BPL; resident of Manipur"
+      "additionalCriteria": "BPL; resident of Manipur",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://socialwelfare.mn.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mz-old-age-pension",
@@ -6971,10 +8369,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "BPL; resident of Mizoram"
+      "additionalCriteria": "BPL; resident of Mizoram",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://socialwelfare.mizoram.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "mz-widow-pension",
@@ -7000,10 +8405,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Widow; BPL; resident of Mizoram"
+      "additionalCriteria": "Widow; BPL; resident of Mizoram",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "spouse"
+      ]
     },
     "officialUrl": "https://socialwelfare.mizoram.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "nl-old-age-pension",
@@ -7029,10 +8441,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "BPL; resident of Nagaland"
+      "additionalCriteria": "BPL; resident of Nagaland",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://socialwelfare.nagaland.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "nl-widow-pension",
@@ -7058,10 +8477,17 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "Widow; BPL; resident of Nagaland"
+      "additionalCriteria": "Widow; BPL; resident of Nagaland",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "spouse"
+      ]
     },
     "officialUrl": "https://socialwelfare.nagaland.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   },
   {
     "id": "ar-dulari-kanya",
@@ -7087,10 +8513,17 @@
       "occupation": null,
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Girl child born in government health facility in Arunachal Pradesh"
+      "additionalCriteria": "Girl child born in government health facility in Arunachal Pradesh",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "child"
+      ]
     },
     "officialUrl": "https://health.arunachal.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 20000
   },
   {
     "id": "ar-ddu-swavalamban",
@@ -7118,10 +8551,15 @@
       ],
       "bpl": null,
       "urbanRural": null,
-      "additionalCriteria": "Unemployed youth of Arunachal Pradesh; must have viable business plan"
+      "additionalCriteria": "Unemployed youth of Arunachal Pradesh; must have viable business plan",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": null
     },
     "officialUrl": "https://ddusyarunachal.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": 500000
   },
   {
     "id": "ar-old-age-pension",
@@ -7147,9 +8585,16 @@
       "occupation": null,
       "bpl": true,
       "urbanRural": null,
-      "additionalCriteria": "BPL; resident of Arunachal Pradesh"
+      "additionalCriteria": "BPL; resident of Arunachal Pradesh",
+      "education": null,
+      "minFamilyMembers": null,
+      "relation": [
+        "senior"
+      ]
     },
     "officialUrl": "https://arunachal.gov.in/",
-    "guideSlug": null
+    "guideSlug": null,
+    "perHousehold": false,
+    "benefitOneTime": null
   }
 ]
