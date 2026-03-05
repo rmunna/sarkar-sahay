@@ -1,5 +1,5 @@
 ---
-title: "LIFE Mission Kerala 2025 – Free Houses for Homeless and Landless Families"
+title: "LIFE Mission Kerala – How to Apply Online, Eligibility & Benefits"
 description: "Kerala LIFE Mission scheme guide. Get free houses for homeless and landless families. Eligibility, application process, and how to apply online."
 category: "State Schemes"
 keywords: ["life mission kerala", "kerala free house scheme", "life mission apply", "life mission eligibility", "kerala housing scheme"]

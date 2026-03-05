@@ -1,5 +1,5 @@
 ---
-title: "Indira Gandhi Pyari Behna Sukh Samman Nidhi (HP) — ₹1,500/Month for Women"
+title: "Indira Gandhi Pyari Behna Sukh Samman Nidhi (HP) — ₹1,500/Month for Women – How to Apply & Benefits"
 description: "Get ₹1,500/month under HP Pyari Behna Sukh Samman Nidhi for women aged 18+. Eligibility, documents, and how to apply online."
 category: "State Schemes"
 keywords: ["Pyari Behna Yojana HP", "Indira Gandhi Pyari Behna", "HP women scheme", "₹1500 per month HP women", "Himachal Pradesh Sukh Samman Nidhi"]

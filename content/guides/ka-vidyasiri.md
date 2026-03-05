@@ -1,5 +1,5 @@
 ---
-title: "Vidyasiri Scholarship Karnataka 2025 – Scholarships for SC/ST/OBC Students"
+title: "Vidyasiri Scholarship Karnataka – How to Apply & Benefits"
 description: "Karnataka Vidyasiri scholarship guide for SC, ST, OBC students. Check eligibility, amount, documents needed, and how to apply online step by step."
 category: "State Schemes"
 keywords: ["vidyasiri scholarship", "karnataka scholarship sc st obc", "vidyasiri apply online", "karnataka student scholarship", "vidyasiri eligibility"]

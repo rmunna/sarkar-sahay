@@ -1,5 +1,5 @@
 ---
-title: "Innuyir Kaappom Scheme Tamil Nadu 2025 – Road Safety and Accident Relief"
+title: "Innuyir Kaappom Scheme Tamil Nadu – How to Apply & Benefits"
 description: "Tamil Nadu Innuyir Kaappom scheme guide. Road accident relief, emergency treatment, and compensation. How to get help and file claims explained."
 category: "State Schemes"
 keywords: ["innuyir kaappom scheme", "tamil nadu road safety scheme", "innuyir kaappom apply", "road accident relief tamil nadu", "tn accident compensation"]

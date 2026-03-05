@@ -1,5 +1,5 @@
 ---
-title: "Gaura Devi Kanya Dhan Yojana (Uttarakhand) — ₹50,000 for Girl Child"
+title: "Gaura Devi Kanya Dhan Yojana (Uttarakhand) — ₹50,000 for Girl Child – How to Apply & Benefits"
 description: "Get ₹50,000 under Uttarakhand Gaura Devi Kanya Dhan Yojana for girl child education. Eligibility, documents, and application guide."
 category: "State Schemes"
 keywords: ["Gaura Devi Kanya Dhan", "Uttarakhand girl child scheme", "Nanda Gaura Yojana", "Uttarakhand Kanya Dhan", "UK girl education scheme"]

@@ -1,5 +1,5 @@
 ---
-title: "DDU Swavalamban Yojana Arunachal Pradesh 2026 – Self-Employment Scheme"
+title: "DDU Swavalamban Yojana Arunachal Pradesh – How to Apply & Benefits"
 description: "Complete guide to DDU Swavalamban Yojana Arunachal Pradesh. Eligibility, loan subsidy, documents, and how to apply."
 category: "State Schemes"
 keywords: ["ddu swavalamban yojana", "arunachal self employment scheme", "ddu swavalamban apply", "arunachal pradesh business loan", "swavalamban yojana eligibility"]

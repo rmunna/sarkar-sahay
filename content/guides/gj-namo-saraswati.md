@@ -1,5 +1,5 @@
 ---
-title: "Namo Saraswati Vigyan Sadhana Yojana Gujarat — Science Scholarship Guide"
+title: "Namo Saraswati Vigyan Sadhana Yojana Gujarat — Science Scholarship Guide – How to Apply & Benefits"
 description: "Guide to Namo Saraswati Yojana Gujarat. ₹25,000 scholarship for science stream students in Class 11-12. How to apply."
 category: "State Schemes"
 keywords: ["namo saraswati yojana", "gujarat science scholarship", "namo saraswati vigyan sadhana", "class 11 12 scholarship gujarat", "science stream scholarship"]

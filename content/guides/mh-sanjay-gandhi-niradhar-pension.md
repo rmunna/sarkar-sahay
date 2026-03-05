@@ -1,5 +1,5 @@
 ---
-title: "Sanjay Gandhi Niradhar Anudan Yojana — Maharashtra Destitute Pension Guide"
+title: "Sanjay Gandhi Niradhar Anudan Yojana — Maharashtra Destitute Pension Guide – How to Apply & Benefits"
 description: "Complete guide to Sanjay Gandhi Niradhar Pension Maharashtra. Monthly pension for destitute persons. Eligibility & how to apply."
 category: "State Schemes"
 keywords: ["sanjay gandhi niradhar pension", "maharashtra destitute pension", "niradhar anudan yojana", "maharashtra pension scheme", "widow pension maharashtra"]

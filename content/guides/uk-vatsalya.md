@@ -1,5 +1,5 @@
 ---
-title: "Mukhyamantri Vatsalya Yojana (Uttarakhand) — Support for Orphan Children"
+title: "Mukhyamantri Vatsalya Yojana (Uttarakhand) — Support for Orphan Children – How to Apply & Benefits"
 description: "Uttarakhand Vatsalya Yojana provides ₹3,000/month and education support for children orphaned by COVID or other causes. Full guide."
 category: "State Schemes"
 keywords: ["Vatsalya Yojana Uttarakhand", "Mukhyamantri Vatsalya", "Uttarakhand orphan scheme", "COVID orphan support UK", "Uttarakhand child welfare scheme"]

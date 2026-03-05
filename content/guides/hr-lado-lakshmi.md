@@ -1,5 +1,5 @@
 ---
-title: "Deen Dayal Lado Lakshmi Yojana (Haryana) — Complete Guide 2026"
+title: "Deen Dayal Lado Lakshmi Yojana (Haryana) — Complete Guide – How to Apply & Benefits"
 description: "Get financial assistance for girl child under Haryana Lado Lakshmi Yojana. Eligibility, benefits, documents, and how to apply online."
 category: "State Schemes"
 keywords: ["Lado Lakshmi Yojana Haryana", "Deen Dayal Lado Lakshmi", "Haryana girl child scheme", "Lado Lakshmi apply online", "Haryana women scheme"]

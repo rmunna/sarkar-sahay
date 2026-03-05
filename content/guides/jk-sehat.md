@@ -1,5 +1,5 @@
 ---
-title: "Ayushman Bharat PM-JAY SEHAT (J&K) — Universal Health Cover ₹5 Lakh"
+title: "Ayushman Bharat PM-JAY SEHAT (J&K) — Universal Health Cover ₹5 Lakh – How to Apply & Benefits"
 description: "Get ₹5 lakh free health insurance under SEHAT scheme in J&K. Universal coverage for all families. Eligibility, card, and hospitals."
 category: "State Schemes"
 keywords: ["SEHAT scheme J&K", "Ayushman SEHAT Jammu Kashmir", "J&K health insurance", "SEHAT card J&K", "PM-JAY SEHAT apply"]

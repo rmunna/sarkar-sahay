@@ -1,5 +1,5 @@
 ---
-title: "Focus+ Scheme Meghalaya 2026 – Livelihood Support for Families"
+title: "Focus+ Scheme Meghalaya – How to Apply, Eligibility & Benefits"
 description: "Complete guide to Meghalaya Focus+ scheme. Eligibility, benefits, documents, and how to apply for livelihood support."
 category: "State Schemes"
 keywords: ["focus plus meghalaya", "meghalaya focus scheme", "meghalaya livelihood scheme", "focus+ meghalaya apply", "meghalaya welfare scheme"]

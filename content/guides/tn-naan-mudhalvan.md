@@ -1,5 +1,5 @@
 ---
-title: "Naan Mudhalvan Scheme Tamil Nadu 2025 – Free Skill Training for Youth"
+title: "Naan Mudhalvan Scheme Tamil Nadu – How to Apply & Benefits"
 description: "Tamil Nadu Naan Mudhalvan scheme complete guide. Get free skill training, certifications, and career guidance. Eligibility and how to register."
 category: "State Schemes"
 keywords: ["naan mudhalvan scheme", "tamil nadu skill training", "naan mudhalvan registration", "free skill development tn", "naan mudhalvan eligibility"]

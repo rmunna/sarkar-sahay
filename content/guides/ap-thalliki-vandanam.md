@@ -1,5 +1,5 @@
 ---
-title: Thalliki Vandanam (Amma Vodi) AP – ₹15,000/Year for Mothers, Eligibility
+title: "Thalliki Vandanam (Amma Vodi) AP – How to Apply & Benefits"
 description: >-
   Complete guide to AP Thalliki Vandanam scheme. ₹15,000/year for mothers to
   send children to school. Check eligibility, documents, and how to apply.

@@ -1,5 +1,5 @@
 ---
-title: "Punjab Widow Pension Scheme — Monthly ₹1,500 Financial Assistance"
+title: "Punjab Widow Pension Scheme — Monthly ₹1,500 Financial Assistance – How to Apply & Benefits"
 description: "Apply for Punjab Widow Pension Scheme and get ₹1,500/month. Check eligibility, documents required, and step-by-step application process."
 category: "State Schemes"
 keywords: ["Punjab Widow Pension", "Punjab widow pension scheme", "widow pension Punjab online apply", "Punjab vidhwa pension", "Punjab social security pension"]

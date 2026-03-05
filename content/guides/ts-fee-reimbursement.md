@@ -1,5 +1,5 @@
 ---
-title: Telangana Fee Reimbursement Scheme – College Fees for EWS Students
+title: "Telangana Fee Reimbursement Scheme – How to Apply & Benefits"
 description: >-
   Guide to Telangana fee reimbursement scheme for EWS students. Full college fee
   coverage for SC/ST/BC/Minority students. Eligibility and how to apply.

@@ -1,5 +1,5 @@
 ---
-title: "Gujarat Vrudh Sahay Old Age Pension — Senior Citizen Pension Guide"
+title: "Gujarat Vrudh Sahay Old Age Pension — Senior Citizen Pension Guide – How to Apply & Benefits"
 description: "Complete guide to Gujarat Old Age Pension (Vrudh Sahay). Monthly pension for seniors 60+. Eligibility, documents, how to apply."
 category: "State Schemes"
 keywords: ["gujarat old age pension", "vrudh sahay yojana", "senior citizen pension gujarat", "old age pension gujarat apply", "gujarat pension scheme"]

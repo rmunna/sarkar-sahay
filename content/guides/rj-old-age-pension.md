@@ -1,5 +1,5 @@
 ---
-title: "Rajasthan CM Old Age Pension Scheme — Senior Citizen Pension Guide"
+title: "Rajasthan CM Old Age Pension Scheme — Senior Citizen Pension Guide – How to Apply & Benefits"
 description: "Complete guide to Rajasthan Old Age Pension. Monthly pension up to ₹1,000 for seniors 55+/58+. Eligibility & how to apply."
 category: "State Schemes"
 keywords: ["rajasthan old age pension", "rajasthan pension scheme", "mukhyamantri vridhavastha pension", "senior citizen pension rajasthan", "rajasthan pension apply"]

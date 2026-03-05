@@ -1,5 +1,5 @@
 ---
-title: "Karunya Health Scheme Kerala 2025 – ₹5 Lakh Free Health Cover"
+title: "Karunya Health Scheme Kerala – How to Apply & Benefits"
 description: "Kerala Karunya Health scheme guide. Get up to ₹5 lakh free treatment for critical illnesses. Eligibility, hospitals, documents, how to apply."
 category: "State Schemes"
 keywords: ["karunya health scheme kerala", "kerala health insurance", "karunya arogya suraksha", "kasp kerala", "kerala free treatment scheme"]

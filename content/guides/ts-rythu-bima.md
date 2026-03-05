@@ -13,6 +13,7 @@ keywords:
   - TS farmer insurance scheme
   - Rythu Bima claim
   - Telangana agriculture insurance
+  - how to apply
 readingTime: 7 min
 lastUpdated: 2026-03-05
 officialLinks:

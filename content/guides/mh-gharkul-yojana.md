@@ -1,5 +1,5 @@
 ---
-title: "Maharashtra Gharkul Yojana — Free Housing Scheme for Homeless Families"
+title: "Maharashtra Gharkul Yojana — Free Housing Scheme for Homeless Families – How to Apply & Benefits"
 description: "Complete guide to Maharashtra Gharkul Yojana. Free pucca house for homeless families. Eligibility, documents & application process."
 category: "State Schemes"
 keywords: ["gharkul yojana maharashtra", "maharashtra free housing scheme", "gharkul yojana apply", "rural housing maharashtra", "homeless scheme maharashtra"]

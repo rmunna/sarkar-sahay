@@ -1,5 +1,5 @@
 ---
-title: "Dayanand Social Security Scheme (Goa) — Monthly Pension for Seniors & Disabled"
+title: "Dayanand Social Security Scheme (Goa) — Monthly Pension for Seniors & Disabled – How to Apply & Benefits"
 description: "Get monthly pension under Goa Dayanand Social Security Scheme for senior citizens, disabled, and widows. Eligibility and how to apply."
 category: "State Schemes"
 keywords: ["Dayanand Social Security Goa", "Goa pension scheme", "Goa old age pension", "Goa social security", "DSSS Goa apply"]

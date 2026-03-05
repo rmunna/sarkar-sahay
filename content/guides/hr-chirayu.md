@@ -1,5 +1,5 @@
 ---
-title: "Chirayu Haryana Yojana — ₹5 Lakh Health Insurance for Families"
+title: "Chirayu Haryana Yojana — ₹5 Lakh Health Insurance for Families – How to Apply & Benefits"
 description: "Get ₹5 lakh free health insurance under Chirayu Haryana Yojana. Eligibility, hospital list, card download, and application process."
 category: "State Schemes"
 keywords: ["Chirayu Haryana Yojana", "Chirayu health scheme", "Haryana health insurance", "Chirayu Ayushman Haryana", "Haryana free health card"]

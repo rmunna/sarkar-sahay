@@ -1,5 +1,5 @@
 ---
-title: "Pudhumai Penn Scheme Tamil Nadu 2025 – ₹1,000/Month for Girl Students"
+title: "Pudhumai Penn Scheme Tamil Nadu – How to Apply & Benefits"
 description: "Tamil Nadu Pudhumai Penn scheme guide. Girl students from government schools get ₹1,000/month for higher education. Eligibility and how to apply."
 category: "State Schemes"
 keywords: ["pudhumai penn scheme", "tamil nadu girl student scholarship", "pudhumai penn apply", "pudhumai penn eligibility", "tn girl education scheme"]

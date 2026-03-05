@@ -1,5 +1,5 @@
 ---
-title: "Delhi Free Bus Ride for Women — Complete Guide to Travel Free on DTC"
+title: "Delhi Free Bus Ride for Women — Complete Guide to Travel Free on DTC – How to Apply & Benefits"
 description: "Women can travel free on DTC and cluster buses in Delhi. Learn how to get the pink ticket, eligibility, routes covered, and FAQs."
 category: "State Schemes"
 keywords: ["Delhi free bus women", "DTC free ride women", "pink ticket Delhi", "Delhi women bus scheme", "free bus pass Delhi women"]

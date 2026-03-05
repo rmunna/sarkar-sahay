@@ -1,5 +1,5 @@
 ---
-title: "Atal Ayushman Uttarakhand Yojana — ₹5 Lakh Free Health Insurance"
+title: "Atal Ayushman Uttarakhand Yojana — ₹5 Lakh Free Health Insurance – How to Apply & Benefits"
 description: "Get ₹5 lakh cashless health cover under Atal Ayushman Uttarakhand Yojana. Check eligibility, hospital list, and how to get your card."
 category: "State Schemes"
 keywords: ["Atal Ayushman Uttarakhand", "Uttarakhand health insurance", "AAUY scheme", "Atal Ayushman card", "Uttarakhand free health cover"]

@@ -1,5 +1,5 @@
 ---
-title: "Kalaignar Magalir Urimai Thogai Tamil Nadu 2025 – ₹1,000/Month for Women"
+title: "Kalaignar Magalir Urimai Thogai Tamil Nadu – How to Apply & Benefits"
 description: "Tamil Nadu Magalir Urimai Thogai scheme guide. Women get ₹1,000/month. Check eligibility, documents, how to apply online, and payment status."
 category: "State Schemes"
 keywords: ["magalir urimai thogai", "tamil nadu women scheme", "kalaignar magalir urimai thogai apply", "tn 1000 rupees women", "magalir urimai thogai eligibility"]

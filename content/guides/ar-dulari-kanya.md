@@ -1,5 +1,5 @@
 ---
-title: "Dulari Kanya Yojana Arunachal Pradesh 2026 – Girl Child Benefit"
+title: "Dulari Kanya Yojana Arunachal Pradesh – How to Apply & Benefits"
 description: "Complete guide to Dulari Kanya Yojana in Arunachal Pradesh. Eligibility, benefits, documents, and how to apply."
 category: "State Schemes"
 keywords: ["dulari kanya yojana", "arunachal pradesh girl child scheme", "dulari kanya apply", "arunachal girl benefit", "dulari kanya eligibility"]

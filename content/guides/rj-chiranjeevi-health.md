@@ -1,5 +1,5 @@
 ---
-title: "Chiranjeevi Health Insurance Rajasthan — Free Treatment Up to ₹25 Lakh Guide"
+title: "Chiranjeevi Health Insurance Rajasthan — Free Treatment Up to ₹25 Lakh Guide – How to Apply & Benefits"
 description: "Complete guide to Rajasthan Chiranjeevi / Ayushman Arogya health scheme. Free cashless treatment. Eligibility & how to apply."
 category: "State Schemes"
 keywords: ["chiranjeevi yojana rajasthan", "rajasthan health insurance", "mukhyamantri ayushman arogya", "chiranjeevi card", "free treatment rajasthan"]

@@ -1,5 +1,5 @@
 ---
-title: "Manav Garima Yojana Gujarat — Self-Employment Kit for SC/OBC Families"
+title: "Manav Garima Yojana Gujarat — Self-Employment Kit for SC/OBC Families – How to Apply & Benefits"
 description: "Guide to Gujarat Manav Garima Yojana. Free tool kits worth ₹4,000 for self-employment. Eligibility, documents, how to apply."
 category: "State Schemes"
 keywords: ["manav garima yojana", "gujarat self employment scheme", "manav garima apply", "SC OBC scheme gujarat", "free tool kit gujarat"]

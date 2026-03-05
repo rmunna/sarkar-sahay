@@ -1,5 +1,5 @@
 ---
-title: "CM Anuprati Coaching Yojana Rajasthan — Free Coaching for Competitive Exams"
+title: "CM Anuprati Coaching Yojana Rajasthan — Free Coaching for Competitive Exams – How to Apply & Benefits"
 description: "Guide to Rajasthan Anuprati Coaching Yojana. Free coaching for UPSC, RPSC, engineering, medical exams. Eligibility & apply."
 category: "State Schemes"
 keywords: ["anuprati coaching yojana", "rajasthan free coaching", "CM anuprati yojana", "free UPSC coaching rajasthan", "competitive exam coaching rajasthan"]

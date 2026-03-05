@@ -1,5 +1,5 @@
 ---
-title: "CM's Breakfast Scheme Tamil Nadu 2025 – Free Breakfast for Government School Children"
+title: "CM's Breakfast Scheme Tamil Nadu – How to Apply & Benefits"
 description: "Tamil Nadu Chief Minister's Breakfast Scheme provides free breakfast to government school students in Classes 1-5. Complete details and eligibility."
 category: "State Schemes"
 keywords: ["cm breakfast scheme tamil nadu", "free breakfast school children tn", "chief minister breakfast scheme", "tamil nadu school breakfast", "free food government school tn"]

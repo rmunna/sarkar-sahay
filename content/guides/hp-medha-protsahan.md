@@ -1,5 +1,5 @@
 ---
-title: "Medha Protsahan Yojana (HP) — Free Coaching for Competitive Exams"
+title: "Medha Protsahan Yojana (HP) — Free Coaching for Competitive Exams – How to Apply & Benefits"
 description: "Get up to ₹1 lakh coaching assistance under HP Medha Protsahan Yojana for UPSC, JEE, NEET, CLAT exams. Eligibility and application."
 category: "State Schemes"
 keywords: ["Medha Protsahan Yojana", "HP coaching scheme", "Himachal Pradesh competitive exam coaching", "Medha Protsahan apply online", "HP free coaching scheme"]

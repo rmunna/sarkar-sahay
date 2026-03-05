@@ -1,5 +1,5 @@
 ---
-title: "Mahatma Jyotirao Phule Jan Arogya Yojana — Maharashtra Health Insurance Guide"
+title: "Mahatma Jyotirao Phule Jan Arogya Yojana — Maharashtra Health Insurance Guide – How to Apply & Benefits"
 description: "Complete guide to MJPJAY Maharashtra health scheme. Free treatment up to ₹5 lakh. Eligibility, hospitals, how to apply."
 category: "State Schemes"
 keywords: ["mahatma jyotirao phule jan arogya yojana", "MJPJAY", "maharashtra health scheme", "free treatment maharashtra", "jan arogya yojana maharashtra"]

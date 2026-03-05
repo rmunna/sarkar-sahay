@@ -1,5 +1,5 @@
 ---
-title: "Old Age Pension Scheme Tamil Nadu 2025 – ₹1,000/Month for Senior Citizens"
+title: "Old Age Pension Scheme Tamil Nadu – How to Apply & Benefits"
 description: "Tamil Nadu old age pension scheme guide. Senior citizens get ₹1,000/month. Check eligibility, documents required, and how to apply step by step."
 category: "State Schemes"
 keywords: ["old age pension tamil nadu", "tn pension scheme", "senior citizen pension tn", "tamil nadu old age pension apply", "tn pension eligibility"]

@@ -1,5 +1,5 @@
 ---
-title: Mukhyamantri Majhi Ladki Bahin Yojana Maharashtra – ₹1,500/Month for Women
+title: "Mukhyamantri Majhi Ladki Bahin Yojana Maharashtra – How to Apply & Benefits"
 description: >-
   Guide to Maharashtra Ladki Bahin Yojana. ₹1,500/month for women aged 21-65.
   Check eligibility, documents, application process, and payment details.

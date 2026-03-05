@@ -1,5 +1,5 @@
 ---
-title: "Krishi Bhagya Scheme Karnataka 2025 – Farm Pond and Irrigation Subsidy for Farmers"
+title: "Krishi Bhagya Scheme Karnataka – How to Apply & Benefits"
 description: "Karnataka Krishi Bhagya scheme guide. Get subsidies for farm ponds, polyhouse, shade nets, and irrigation. Eligibility and application process."
 category: "State Schemes"
 keywords: ["krishi bhagya scheme", "karnataka farm pond subsidy", "krishi bhagya apply", "karnataka farmer scheme", "irrigation subsidy karnataka"]

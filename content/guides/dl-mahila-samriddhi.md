@@ -1,5 +1,5 @@
 ---
-title: "Mukhyamantri Mahila Samriddhi Yojana (Delhi) — ₹2,500/Month for Women"
+title: "Mukhyamantri Mahila Samriddhi Yojana (Delhi) — ₹2,500/Month for Women – How to Apply & Benefits"
 description: "Get ₹2,500/month under Delhi Mahila Samriddhi Yojana for women. Check eligibility, documents, and how to apply for this scheme."
 category: "State Schemes"
 keywords: ["Mahila Samriddhi Yojana Delhi", "Delhi women scheme", "₹2500 per month Delhi women", "Delhi Mahila Samriddhi apply", "Delhi women financial assistance"]

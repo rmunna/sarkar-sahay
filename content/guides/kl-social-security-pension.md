@@ -1,5 +1,5 @@
 ---
-title: "Kerala Social Security Pension 2025 – ₹1,600/Month for Eligible Citizens"
+title: "Kerala Social Security Pension – How to Apply & Benefits"
 description: "Kerala Social Security Pension scheme guide. Get ₹1,600/month for elderly, widows, disabled persons. Eligibility, documents, and how to apply."
 category: "State Schemes"
 keywords: ["kerala social security pension", "kerala pension scheme", "kerala old age pension", "welfare pension kerala", "kerala pension apply online"]

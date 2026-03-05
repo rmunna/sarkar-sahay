@@ -1,5 +1,5 @@
 ---
-title: "Palanhar Yojana Rajasthan — Orphan Care & Financial Assistance Guide"
+title: "Palanhar Yojana Rajasthan — Orphan Care & Financial Assistance Guide – How to Apply & Benefits"
 description: "Complete guide to Rajasthan Palanhar Yojana. Monthly aid for orphan children's caregivers. Eligibility, documents, how to apply."
 category: "State Schemes"
 keywords: ["palanhar yojana", "rajasthan orphan scheme", "palanhar yojana apply", "orphan care rajasthan", "palanhar yojana eligibility"]

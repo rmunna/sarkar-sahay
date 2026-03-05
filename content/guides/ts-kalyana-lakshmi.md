@@ -1,5 +1,5 @@
 ---
-title: Kalyana Lakshmi & Shaadi Mubarak Telangana – Marriage Assistance Scheme
+title: "Kalyana Lakshmi & Shaadi Mubarak Telangana – How to Apply & Benefits"
 description: >-
   Guide to Telangana Kalyana Lakshmi and Shaadi Mubarak marriage assistance.
   ₹1,00,116 for brides from SC/ST/BC/Minority families. How to apply online.

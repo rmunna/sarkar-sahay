@@ -1,5 +1,5 @@
 ---
-title: "Delhi Old Age Pension Scheme — ₹2,500/Month for Senior Citizens"
+title: "Delhi Old Age Pension Scheme — ₹2,500/Month for Senior Citizens – How to Apply & Benefits"
 description: "Apply for Delhi Old Age Pension and get ₹2,500/month. Eligibility, documents, and step-by-step application guide for seniors in Delhi."
 category: "State Schemes"
 keywords: ["Delhi Old Age Pension", "Delhi senior citizen pension", "Delhi pension scheme", "old age pension Delhi apply", "Delhi vridha pension"]

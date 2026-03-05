@@ -1,5 +1,5 @@
 ---
-title: "Arundhati Gold Scheme Assam 2026 – 1 Tola Gold for Brides"
+title: "Arundhati Gold Scheme Assam – How to Apply & Benefits"
 description: "Complete guide to Assam Arundhati Gold Scheme. Eligibility, documents, how to apply for 1 tola (10g) gold for brides."
 category: "State Schemes"
 keywords: ["arundhati gold scheme", "assam bride gold scheme", "arundhati scheme eligibility", "assam marriage gold", "1 tola gold assam"]

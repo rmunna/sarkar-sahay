@@ -1,5 +1,5 @@
 ---
-title: "Mumkin Scheme (J&K) — Livelihood Support for Youth with Vehicle Subsidy"
+title: "Mumkin Scheme (J&K) — Livelihood Support for Youth with Vehicle Subsidy – How to Apply & Benefits"
 description: "Get vehicle subsidy under J&K Mumkin Scheme for self-employment. Eligibility, documents, subsidy amount, and how to apply online."
 category: "State Schemes"
 keywords: ["Mumkin Scheme J&K", "J&K youth livelihood scheme", "Mumkin vehicle subsidy", "J&K self employment scheme", "Mumkin scheme apply"]

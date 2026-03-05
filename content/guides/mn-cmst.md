@@ -1,5 +1,5 @@
 ---
-title: "CMST Scheme Manipur 2026 – Chief Ministergi Shotharabasingi Tengbang"
+title: "CMST Scheme Manipur – How to Apply Online, Eligibility & Benefits"
 description: "Complete guide to Manipur CMST scheme. Eligibility, benefits, documents, and how to apply for financial support."
 category: "State Schemes"
 keywords: ["CMST manipur", "chief ministergi shotharabasingi tengbang", "manipur financial support scheme", "manipur CMST apply", "manipur welfare scheme"]

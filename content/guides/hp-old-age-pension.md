@@ -1,5 +1,5 @@
 ---
-title: "Himachal Pradesh Old Age Pension — ₹1,500/Month for Senior Citizens"
+title: "Himachal Pradesh Old Age Pension — ₹1,500/Month for Senior Citizens – How to Apply & Benefits"
 description: "Apply for HP Old Age Pension and get ₹1,500/month. Check eligibility, documents, and step-by-step application via e-District HP."
 category: "State Schemes"
 keywords: ["HP Old Age Pension", "Himachal Pradesh pension scheme", "HP senior citizen pension", "old age pension HP apply", "HP social security pension"]

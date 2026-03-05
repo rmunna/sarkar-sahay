@@ -1,5 +1,5 @@
 ---
-title: "Rajasthan Widow Pension Scheme — Monthly Pension for Widows Guide"
+title: "Rajasthan Widow Pension Scheme — Monthly Pension for Widows Guide – How to Apply & Benefits"
 description: "Complete guide to Rajasthan Widow Pension. Monthly pension up to ₹1,500 for widows. Eligibility, documents, how to apply."
 category: "State Schemes"
 keywords: ["rajasthan widow pension", "vidhwa pension rajasthan", "widow pension apply rajasthan", "rajasthan pension for widows", "widow pension scheme"]

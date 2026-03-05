@@ -1,5 +1,5 @@
 ---
-title: "Indira Gandhi Free Smartphone Yojana Rajasthan — Eligibility & How to Get"
+title: "Indira Gandhi Free Smartphone Yojana Rajasthan — Eligibility & How to Get – How to Apply & Benefits"
 description: "Complete guide to Rajasthan Free Smartphone Yojana. Free smartphone with 3 years data for women. Eligibility & process."
 category: "State Schemes"
 keywords: ["indira gandhi smartphone yojana", "rajasthan free smartphone", "free mobile rajasthan", "IGSY rajasthan", "rajasthan smartphone scheme"]

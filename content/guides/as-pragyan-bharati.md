@@ -1,5 +1,5 @@
 ---
-title: "Pragyan Bharati Scheme Assam 2026 – Free Education for Students"
+title: "Pragyan Bharati Scheme Assam – How to Apply & Benefits"
 description: "Complete guide to Assam Pragyan Bharati scheme. Eligibility, documents, how to apply for free education benefits."
 category: "State Schemes"
 keywords: ["pragyan bharati scheme", "assam free education", "pragyan bharati eligibility", "assam education scheme", "pragyan bharati apply"]

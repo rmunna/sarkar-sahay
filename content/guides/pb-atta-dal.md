@@ -1,5 +1,5 @@
 ---
-title: "Atta Dal Scheme Punjab — Free Atta & Dal for BPL Families Guide"
+title: "Atta Dal Scheme Punjab — Free Atta & Dal for BPL Families Guide – How to Apply & Benefits"
 description: "Complete guide to Punjab Atta Dal Scheme. Free wheat flour and dal for BPL families. Eligibility, documents, how to avail."
 category: "State Schemes"
 keywords: ["atta dal scheme punjab", "free atta dal punjab", "punjab BPL food scheme", "atta dal yojana", "punjab ration scheme"]

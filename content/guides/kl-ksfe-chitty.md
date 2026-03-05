@@ -1,5 +1,5 @@
 ---
-title: "KSFE Pravasi Chitty Kerala 2025 – Government Chit Fund Schemes"
+title: "KSFE Pravasi Chitty Kerala – How to Apply, Eligibility & Benefits"
 description: "Kerala KSFE Pravasi Chitty scheme guide. Government-backed chit fund for NRIs and residents. How it works, benefits, registration, and returns."
 category: "State Schemes"
 keywords: ["ksfe pravasi chitty", "kerala chit fund", "ksfe chitty scheme", "kerala state financial enterprises", "pravasi chitty registration"]

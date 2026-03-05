@@ -1,5 +1,5 @@
 ---
-title: "Orunodoi (Arunodoi) Scheme Assam 2026 – ₹1,250/Month for Women"
+title: "Orunodoi (Arunodoi) Scheme Assam – How to Apply & Benefits"
 description: "Complete guide to Assam Orunodoi scheme. Check eligibility, documents, how to apply for ₹1,250 monthly benefit for women."
 category: "State Schemes"
 keywords: ["orunodoi scheme", "arunodoi scheme assam", "assam orunodoi apply", "orunodoi eligibility", "assam women scheme 2026", "orunodoi 1250"]

@@ -15,6 +15,7 @@ interface Scheme {
   benefitOneTime?: number | null;
   benefitType?: string;
   perHousehold?: boolean;
+  applyHint?: string;
   benefitDescription: Record<string, string>;
   eligibility: {
     ageMin: number | null;
@@ -794,13 +795,18 @@ function SchemeCard({ scheme, eligMembers, getName, getBenefitDesc, getBenefitBa
             </div>
           )}
 
+          {scheme.applyHint && (
+            <p className="text-xs text-emerald-700 bg-emerald-50 px-2 py-1 rounded mt-1.5 inline-block">
+              📋 <span className="font-medium">How to Apply:</span> {scheme.applyHint}
+            </p>
+          )}
           {scheme.eligibility.additionalCriteria && (
             <p className="text-xs text-gray-500 mt-1">ℹ️ {scheme.eligibility.additionalCriteria}</p>
           )}
           <div className="flex gap-3 mt-2">
             {scheme.guideSlug && (
               <Link href={`/guide/${scheme.guideSlug}`} className="text-sm text-orange-600 hover:underline font-medium">
-                Read Guide →
+                How to Apply — Full Guide →
               </Link>
             )}
             <a href={scheme.officialUrl} target="_blank" rel="noopener noreferrer" className="text-sm text-blue-600 hover:underline">

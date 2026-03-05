@@ -1,5 +1,5 @@
 ---
-title: "Sandhya Suraksha Pension Karnataka 2025 – ₹600/Month Old Age Pension"
+title: "Sandhya Suraksha Pension Karnataka – How to Apply & Benefits"
 description: "Karnataka Sandhya Suraksha old age pension scheme. Get ₹600/month for senior citizens above 65. Eligibility, documents, how to apply online."
 category: "State Schemes"
 keywords: ["sandhya suraksha pension", "karnataka old age pension", "sandhya suraksha apply", "karnataka pension scheme", "old age pension karnataka"]

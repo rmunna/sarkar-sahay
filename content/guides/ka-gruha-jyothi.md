@@ -1,5 +1,5 @@
 ---
-title: "Gruha Jyothi Scheme Karnataka 2025 – Free Electricity Up to 200 Units/Month"
+title: "Gruha Jyothi Scheme Karnataka – How to Apply & Benefits"
 description: "Karnataka Gruha Jyothi scheme guide. Get free electricity up to 200 units per month. Check eligibility, how to apply, and registration process."
 category: "State Schemes"
 keywords: ["gruha jyothi scheme", "karnataka free electricity", "gruha jyothi apply online", "gruha jyothi eligibility", "free electricity karnataka"]

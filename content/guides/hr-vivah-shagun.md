@@ -1,5 +1,5 @@
 ---
-title: "Vivah Shagun Yojana Haryana — ₹71,000 Marriage Assistance for SC/BPL"
+title: "Vivah Shagun Yojana Haryana — ₹71,000 Marriage Assistance for SC/BPL – How to Apply & Benefits"
 description: "Get up to ₹71,000 marriage assistance under Haryana Vivah Shagun Yojana for SC, BPL, and widow families. Apply via Saral Haryana."
 category: "State Schemes"
 keywords: ["Vivah Shagun Yojana", "Haryana marriage assistance", "Kanyadan Yojana Haryana", "Vivah Shagun apply online", "Haryana SC marriage scheme"]

@@ -1,5 +1,5 @@
 ---
-title: Stree Shakti AP – Free Bus Travel for Women in Andhra Pradesh
+title: "Stree Shakti AP – How to Apply Online, Eligibility & Benefits"
 description: >-
   Complete guide to AP Stree Shakti free bus travel scheme for women. Check
   eligibility, how to avail free RTC bus travel, and required documents.

@@ -1,5 +1,5 @@
 ---
-title: "One Family One Job Scheme Sikkim 2026 – Guaranteed Govt Job"
+title: "One Family One Job Scheme Sikkim – How to Apply & Benefits"
 description: "Complete guide to Sikkim One Family One Job scheme. Eligibility, application process, and how to get a guaranteed government job."
 category: "State Schemes"
 keywords: ["one family one job sikkim", "sikkim government job scheme", "OFOJ sikkim", "sikkim employment scheme", "sikkim guaranteed job"]

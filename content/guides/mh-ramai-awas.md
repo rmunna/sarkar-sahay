@@ -1,5 +1,5 @@
 ---
-title: "Ramai Awas Yojana Maharashtra — Housing Scheme for SC/NT/DNT Families"
+title: "Ramai Awas Yojana Maharashtra — Housing Scheme for SC/NT/DNT Families – How to Apply & Benefits"
 description: "Complete guide to Ramai Awas Yojana Maharashtra. Free housing for SC/NT/DNT families. Eligibility, documents, how to apply."
 category: "State Schemes"
 keywords: ["ramai awas yojana", "maharashtra housing scheme", "ramai awas gharkul", "SC housing maharashtra", "free house maharashtra scheme"]

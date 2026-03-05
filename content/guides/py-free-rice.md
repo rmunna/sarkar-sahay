@@ -1,5 +1,5 @@
 ---
-title: Free Supply of Rice Puducherry – Eligibility, Quantity and How to Get
+title: "Free Supply of Rice Puducherry – How to Apply & Benefits"
 description: >-
   Guide to Puducherry free rice distribution scheme. Monthly free rice for BPL
   and AAY families. Eligibility, quantity, and how to collect from ration shop.

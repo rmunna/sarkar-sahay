@@ -1,5 +1,5 @@
 ---
-title: "Mukhyamantri Kisan Sahay Yojana Gujarat — Crop Insurance & Farmer Aid Guide"
+title: "Mukhyamantri Kisan Sahay Yojana Gujarat — Crop Insurance & Farmer Aid Guide – How to Apply & Benefits"
 description: "Complete guide to Gujarat Kisan Sahay Yojana. Crop loss compensation up to ₹25,000/hectare. Eligibility & how to apply."
 category: "State Schemes"
 keywords: ["kisan sahay yojana", "gujarat crop insurance", "mukhyamantri kisan sahay", "farmer scheme gujarat", "crop loss compensation gujarat"]

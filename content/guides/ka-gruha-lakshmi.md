@@ -1,5 +1,5 @@
 ---
-title: "Gruha Lakshmi Scheme Karnataka 2025 – ₹2,000/Month for Women Head of Household"
+title: "Gruha Lakshmi Scheme Karnataka – How to Apply & Benefits"
 description: "Complete guide to Karnataka Gruha Lakshmi scheme. Get ₹2,000 per month as woman head of household. Eligibility, documents, how to apply online."
 category: "State Schemes"
 keywords: ["gruha lakshmi scheme", "karnataka gruha lakshmi", "gruha lakshmi apply online", "gruha lakshmi eligibility", "karnataka women scheme 2025"]

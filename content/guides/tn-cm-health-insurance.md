@@ -1,5 +1,5 @@
 ---
-title: "CM's Comprehensive Health Insurance Scheme Tamil Nadu 2025 – ₹5 Lakh Free Treatment"
+title: "CM's Comprehensive Health Insurance Scheme Tamil Nadu – How to Apply & Benefits"
 description: "Tamil Nadu CM's Health Insurance scheme guide. Get up to ₹5 lakh free medical treatment at empanelled hospitals. Eligibility and how to avail."
 category: "State Schemes"
 keywords: ["cm health insurance tamil nadu", "cmchis tamil nadu", "free health insurance tn", "tamil nadu health scheme", "cmchis eligibility"]

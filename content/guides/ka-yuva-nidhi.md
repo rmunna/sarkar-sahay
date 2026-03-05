@@ -1,5 +1,5 @@
 ---
-title: "Yuva Nidhi Scheme Karnataka 2025 – ₹3,000/Month for Unemployed Graduates"
+title: "Yuva Nidhi Scheme Karnataka – How to Apply & Benefits"
 description: "Karnataka Yuva Nidhi scheme guide. Unemployed graduates get ₹3,000/month and diploma holders ₹1,500/month. Eligibility and how to apply."
 category: "State Schemes"
 keywords: ["yuva nidhi scheme", "karnataka yuva nidhi", "yuva nidhi apply online", "karnataka unemployment allowance", "yuva nidhi eligibility"]

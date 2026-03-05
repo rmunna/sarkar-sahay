@@ -1,5 +1,5 @@
 ---
-title: "Ashirwad Scheme Punjab — Marriage Assistance for SC/BC/Minority Girls"
+title: "Ashirwad Scheme Punjab — Marriage Assistance for SC/BC/Minority Girls – How to Apply & Benefits"
 description: "Complete guide to Punjab Ashirwad Scheme. ₹21,000-₹51,000 marriage assistance for SC/BC/minority families. How to apply."
 category: "State Schemes"
 keywords: ["ashirwad scheme punjab", "punjab marriage scheme", "shagun scheme punjab", "marriage assistance punjab", "SC marriage aid punjab"]

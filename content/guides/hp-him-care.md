@@ -1,5 +1,5 @@
 ---
-title: "Him Care Health Scheme (HP) — ₹5 Lakh Free Health Insurance"
+title: "Him Care Health Scheme (HP) — ₹5 Lakh Free Health Insurance – How to Apply & Benefits"
 description: "Get ₹5 lakh cashless health cover under Him Care scheme in Himachal Pradesh. Eligibility, card registration, hospital list and more."
 category: "State Schemes"
 keywords: ["Him Care scheme", "Himachal Pradesh health insurance", "Him Care card", "HP health scheme", "Him Care hospital list"]

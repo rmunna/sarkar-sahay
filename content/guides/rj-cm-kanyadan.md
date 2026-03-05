@@ -1,5 +1,5 @@
 ---
-title: "Mukhyamantri Kanyadan Yojana Rajasthan — Marriage Assistance for BPL Girls"
+title: "Mukhyamantri Kanyadan Yojana Rajasthan — Marriage Assistance for BPL Girls – How to Apply & Benefits"
 description: "Complete guide to Rajasthan CM Kanyadan Yojana. ₹31,000-₹51,000 marriage aid for BPL families. Eligibility & how to apply."
 category: "State Schemes"
 keywords: ["mukhyamantri kanyadan yojana", "rajasthan marriage scheme", "kanyadan yojana rajasthan", "marriage assistance rajasthan", "BPL marriage aid"]

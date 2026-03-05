@@ -1,5 +1,5 @@
 ---
-title: "Namo Lakshmi Yojana Gujarat — Free Education Scholarship for Girls"
+title: "Namo Lakshmi Yojana Gujarat — Free Education Scholarship for Girls – How to Apply & Benefits"
 description: "Complete guide to Namo Lakshmi Yojana Gujarat. ₹50,000 scholarship for girls in Class 9-12. Eligibility & how to apply."
 category: "State Schemes"
 keywords: ["namo lakshmi yojana", "gujarat girl scholarship", "namo lakshmi yojana apply", "gujarat education scheme girls", "namo lakshmi eligibility"]

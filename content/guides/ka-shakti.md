@@ -1,5 +1,5 @@
 ---
-title: "Shakti Scheme Karnataka 2025 – Free Bus Travel for Women on KSRTC Buses"
+title: "Shakti Scheme Karnataka – How to Apply, Eligibility & Benefits"
 description: "Complete guide to Karnataka Shakti free bus scheme for women. How to register, eligibility, which buses are covered, and step-by-step process."
 category: "State Schemes"
 keywords: ["shakti scheme karnataka", "free bus for women karnataka", "ksrtc free bus women", "shakti smart card", "karnataka women free travel"]

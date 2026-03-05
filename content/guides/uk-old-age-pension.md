@@ -1,5 +1,5 @@
 ---
-title: "Uttarakhand Old Age Pension — ₹1,200/Month for Senior Citizens"
+title: "Uttarakhand Old Age Pension — ₹1,200/Month for Senior Citizens – How to Apply & Benefits"
 description: "Apply for Uttarakhand Old Age Pension and get ₹1,200/month. Check eligibility, documents required, and how to apply via e-District."
 category: "State Schemes"
 keywords: ["Uttarakhand Old Age Pension", "UK pension scheme", "Uttarakhand senior citizen pension", "old age pension UK apply", "vridha pension Uttarakhand"]

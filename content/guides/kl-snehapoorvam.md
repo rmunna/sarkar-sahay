@@ -1,5 +1,5 @@
 ---
-title: "Snehapoorvam Scheme Kerala 2025 – Monthly Stipend for Orphan Children"
+title: "Snehapoorvam Scheme Kerala – How to Apply, Eligibility & Benefits"
 description: "Kerala Snehapoorvam scheme guide. Orphan children get monthly stipend for education. Check eligibility, amount, documents, and how to apply."
 category: "State Schemes"
 keywords: ["snehapoorvam scheme kerala", "kerala orphan stipend", "snehapoorvam apply", "snehapoorvam eligibility", "kerala orphan welfare"]

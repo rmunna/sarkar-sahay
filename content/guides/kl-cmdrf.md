@@ -1,5 +1,5 @@
 ---
-title: "Chief Minister's Distress Relief Fund Kerala 2025 – Emergency Financial Aid"
+title: "Chief Minister's Distress Relief Fund Kerala – How to Apply & Benefits"
 description: "Kerala CMDRF guide. Get emergency financial aid for medical treatment, natural disasters, and accidents. How to apply, eligibility, documents."
 category: "State Schemes"
 keywords: ["cmdrf kerala", "chief minister distress relief fund", "kerala emergency financial aid", "cmdrf apply online", "kerala medical aid fund"]

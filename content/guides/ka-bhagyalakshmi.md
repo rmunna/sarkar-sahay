@@ -1,5 +1,5 @@
 ---
-title: "Bhagyalakshmi Scheme Karnataka 2025 – ₹25,000 Bond at Girl Child's Birth"
+title: "Bhagyalakshmi Scheme Karnataka – How to Apply & Benefits"
 description: "Karnataka Bhagyalakshmi scheme guide. Get ₹25,000 bond at girl's birth in BPL families. Eligibility, documents, and how to apply explained."
 category: "State Schemes"
 keywords: ["bhagyalakshmi scheme karnataka", "bhagyalakshmi apply online", "karnataka girl child scheme", "bhagyalakshmi eligibility", "girl child birth bond karnataka"]

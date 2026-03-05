@@ -13,6 +13,7 @@ keywords:
   - AP college fee scheme
   - Andhra Pradesh education scheme
   - Vidya Deevena apply
+  - how to apply
 readingTime: 8 min
 lastUpdated: 2026-03-05
 officialLinks:

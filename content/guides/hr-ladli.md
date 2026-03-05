@@ -1,5 +1,5 @@
 ---
-title: "Ladli Scheme Haryana — ₹5,000/Year for Second Girl Child"
+title: "Ladli Scheme Haryana — ₹5,000/Year for Second Girl Child – How to Apply & Benefits"
 description: "Haryana Ladli Scheme gives ₹5,000/year for second girl child. Check eligibility, documents required, and how to apply online."
 category: "State Schemes"
 keywords: ["Ladli Scheme Haryana", "Haryana Ladli Yojana", "second girl child benefit Haryana", "Ladli scheme apply online", "Haryana girl child scheme"]

@@ -1,5 +1,5 @@
 ---
-title: "MA Amrutam & MA Vatsalya Yojana Gujarat — Health Insurance Scheme Guide"
+title: "MA Amrutam & MA Vatsalya Yojana Gujarat — Health Insurance Scheme Guide – How to Apply & Benefits"
 description: "Complete guide to Gujarat MA Amrutam & MA Vatsalya health scheme. Free treatment up to ₹5 lakh. Eligibility & how to use."
 category: "State Schemes"
 keywords: ["ma amrutam yojana", "ma vatsalya yojana", "gujarat health insurance", "free treatment gujarat", "MA card gujarat"]

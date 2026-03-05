@@ -1,5 +1,5 @@
 ---
-title: Anna Canteens AP – Subsidized Meals at ₹5 in Andhra Pradesh
+title: "Anna Canteens AP – How to Apply Online, Eligibility & Benefits"
 description: >-
   Guide to Anna Canteens in Andhra Pradesh offering meals at ₹5. Find locations,
   timings, menu details, and eligibility for subsidized food scheme.

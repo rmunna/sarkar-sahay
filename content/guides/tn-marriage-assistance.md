@@ -1,5 +1,5 @@
 ---
-title: "Moovalur Ramamirtham Marriage Assistance Scheme Tamil Nadu 2025"
+title: "Moovalur Ramamirtham Marriage Assistance Scheme Tamil Nadu – How to Apply & Benefits"
 description: "Tamil Nadu Moovalur Ramamirtham marriage assistance scheme. Get ₹25,000 and 8g gold for women's marriage. Eligibility, documents, how to apply."
 category: "State Schemes"
 keywords: ["moovalur ramamirtham scheme", "tamil nadu marriage assistance", "tn marriage scheme apply", "marriage assistance eligibility tn", "government marriage assistance"]

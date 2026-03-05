@@ -1,5 +1,5 @@
 ---
-title: "Bhagat Puran Singh Sehat Bima Yojana Punjab — Health Insurance Guide"
+title: "Bhagat Puran Singh Sehat Bima Yojana Punjab — Health Insurance Guide – How to Apply & Benefits"
 description: "Guide to Punjab Bhagat Puran Singh Sehat Bima Yojana. Free cashless treatment up to ₹5 lakh for BPL families. How to avail."
 category: "State Schemes"
 keywords: ["bhagat puran singh sehat bima", "punjab health insurance", "BPSSBY punjab", "free treatment punjab", "punjab health scheme BPL"]

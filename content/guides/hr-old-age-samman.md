@@ -1,5 +1,5 @@
 ---
-title: "Old Age Samman Allowance Haryana — ₹2,750/Month Pension Guide"
+title: "Old Age Samman Allowance Haryana — ₹2,750/Month Pension Guide – How to Apply & Benefits"
 description: "Apply for Haryana Old Age Samman Allowance and get ₹2,750/month pension. Eligibility, documents, online application via Saral Haryana."
 category: "State Schemes"
 keywords: ["Haryana Old Age Pension", "Old Age Samman Allowance", "Haryana pension scheme", "Samman allowance apply online", "Haryana senior citizen pension"]

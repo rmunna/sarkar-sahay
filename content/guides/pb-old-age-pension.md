@@ -1,5 +1,5 @@
 ---
-title: "Punjab Old Age Pension Scheme — Senior Citizen Monthly Pension Guide"
+title: "Punjab Old Age Pension Scheme — Senior Citizen Monthly Pension Guide – How to Apply & Benefits"
 description: "Complete guide to Punjab Old Age Pension. Monthly pension up to ₹1,500 for seniors 58+. Eligibility, documents, how to apply."
 category: "State Schemes"
 keywords: ["punjab old age pension", "senior citizen pension punjab", "old age pension punjab apply", "punjab pension scheme", "vridha pension punjab"]

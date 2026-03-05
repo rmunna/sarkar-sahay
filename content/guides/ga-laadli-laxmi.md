@@ -1,5 +1,5 @@
 ---
-title: "Laadli Laxmi Yojana (Goa) — Financial Benefit for Girl Child"
+title: "Laadli Laxmi Yojana (Goa) — Financial Benefit for Girl Child – How to Apply & Benefits"
 description: "Get financial assistance for your girl child under Goa Laadli Laxmi Yojana. Eligibility, benefits at each milestone, and how to apply."
 category: "State Schemes"
 keywords: ["Laadli Laxmi Goa", "Goa girl child scheme", "Laadli Laxmi Yojana Goa", "Goa girl benefit scheme", "girl child financial assistance Goa"]

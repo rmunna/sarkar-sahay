@@ -1,5 +1,5 @@
 ---
-title: "Ksheerasagaram Scheme Kerala 2025 – Milk Subsidy for Dairy Farmers"
+title: "Ksheerasagaram Scheme Kerala – How to Apply & Benefits"
 description: "Kerala Ksheerasagaram dairy subsidy scheme guide. Dairy farmers get milk procurement subsidy. Eligibility, benefits, and how to register."
 category: "State Schemes"
 keywords: ["ksheerasagaram scheme kerala", "kerala dairy subsidy", "kerala milk farmers scheme", "ksheerasagaram eligibility", "milma farmers scheme"]

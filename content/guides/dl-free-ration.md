@@ -1,5 +1,5 @@
 ---
-title: "Delhi Free Ration Scheme — Get Free Wheat, Rice & More Under PDS"
+title: "Delhi Free Ration Scheme — Get Free Wheat, Rice & More Under PDS – How to Apply & Benefits"
 description: "Get free ration (wheat, rice, sugar) in Delhi under the free ration scheme. Eligibility, ration card types, and how to apply online."
 category: "State Schemes"
 keywords: ["Delhi free ration", "Delhi ration scheme", "free ration Delhi PDS", "Delhi ration card apply", "Delhi muft ration"]

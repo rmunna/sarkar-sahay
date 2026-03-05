@@ -1,5 +1,5 @@
 ---
-title: "J&K Old Age Pension Scheme — Monthly Pension for Senior Citizens"
+title: "J&K Old Age Pension Scheme — Monthly Pension for Senior Citizens – How to Apply & Benefits"
 description: "Apply for J&K Old Age Pension and get monthly financial assistance. Check eligibility, documents, and how to apply online in J&K."
 category: "State Schemes"
 keywords: ["J&K Old Age Pension", "Jammu Kashmir pension scheme", "J&K senior citizen pension", "old age pension J&K apply", "IGNOAPS J&K"]

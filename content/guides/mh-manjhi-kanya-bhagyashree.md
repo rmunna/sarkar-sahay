@@ -1,5 +1,5 @@
 ---
-title: "Majhi Kanya Bhagyashree Yojana — Maharashtra Girl Child Scheme Guide"
+title: "Majhi Kanya Bhagyashree Yojana — Maharashtra Girl Child Scheme Guide – How to Apply & Benefits"
 description: "Complete guide to Majhi Kanya Bhagyashree Yojana Maharashtra. Financial support for girl child education and welfare."
 category: "State Schemes"
 keywords: ["majhi kanya bhagyashree", "maharashtra girl scheme", "kanya bhagyashree yojana", "girl child scheme maharashtra", "maharashtra daughter scheme"]
