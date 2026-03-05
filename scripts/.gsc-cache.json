@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-03-05T04:16:10.573Z",
+  "timestamp": "2026-03-05T23:35:32.924Z",
   "siteUrl": "sc-domain:citizennest.com",
   "ranges": [
     {
-      "label": "Last 28 days",
-      "days": 28,
-      "startDate": "2026-02-03",
+      "label": "Last 7 days",
+      "days": 7,
+      "startDate": "2026-02-24",
       "endDate": "2026-03-03",
-      "clicks": 370,
-      "impressions": 58155,
-      "ctr": 0.006362307626171439,
-      "position": 8.824211159831485
+      "clicks": 296,
+      "impressions": 58175,
+      "ctr": 0.005088096261280619,
+      "position": 10.321203266007736
     }
   ],
   "topPages": [
@@ -18,379 +18,352 @@
       "keys": [
         "https://www.citizennest.com/guide/voter-id-application-rejected-fix"
       ],
-      "clicks": 143,
-      "impressions": 3508,
-      "ctr": 0.04076396807297605,
-      "position": 5.7916191562143675
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/guide/shakti-free-bus-karnataka"
-      ],
-      "clicks": 49,
-      "impressions": 2301,
-      "ctr": 0.021295089091699262,
-      "position": 8.050412863972186
+      "clicks": 123,
+      "impressions": 2930,
+      "ctr": 0.041979522184300344,
+      "position": 5.913993174061433
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/voter-id-download-not-working-fix"
       ],
-      "clicks": 25,
-      "impressions": 1430,
-      "ctr": 0.017482517482517484,
-      "position": 5.721678321678322
+      "clicks": 26,
+      "impressions": 1174,
+      "ctr": 0.022146507666098807,
+      "position": 5.759795570698467
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/update/rbi-grade-b-2026-notification"
+      ],
+      "clicks": 17,
+      "impressions": 559,
+      "ctr": 0.03041144901610018,
+      "position": 4.756708407871199
     },
     {
       "keys": [
         "https://www.citizennest.com/update/ssc-cgl-2026-notification"
       ],
       "clicks": 14,
-      "impressions": 589,
-      "ctr": 0.023769100169779286,
-      "position": 5.2750424448217315
+      "impressions": 760,
+      "ctr": 0.018421052631578946,
+      "position": 5.136842105263158
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/irctc-account-login-problems-fix"
       ],
-      "clicks": 12,
-      "impressions": 13220,
-      "ctr": 0.000907715582450832,
-      "position": 5.6527987897125564
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/guide/pan-card-not-received-by-post-fix"
-      ],
-      "clicks": 8,
-      "impressions": 450,
-      "ctr": 0.017777777777777778,
-      "position": 8.362222222222222
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/update/rbi-grade-b-2026-notification"
-      ],
-      "clicks": 8,
-      "impressions": 199,
-      "ctr": 0.04020100502512563,
-      "position": 4.844221105527638
+      "clicks": 13,
+      "impressions": 15396,
+      "ctr": 0.0008443751623798389,
+      "position": 5.526175630033775
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/upsc-vs-state-psc-comparison"
       ],
-      "clicks": 7,
-      "impressions": 1625,
-      "ctr": 0.0043076923076923075,
-      "position": 6.937846153846154
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/guide/driving-licence-slot-not-available-fix"
-      ],
-      "clicks": 6,
-      "impressions": 503,
-      "ctr": 0.011928429423459244,
-      "position": 7.489065606361829
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/guide/kpsc-fda-sda-exam-guide"
-      ],
-      "clicks": 6,
-      "impressions": 735,
-      "ctr": 0.00816326530612245,
-      "position": 4.9170068027210885
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/guide/aadhaar-otp-not-received-fix"
-      ],
-      "clicks": 5,
-      "impressions": 1758,
-      "ctr": 0.002844141069397042,
-      "position": 8.604095563139932
+      "clicks": 8,
+      "impressions": 1395,
+      "ctr": 0.005734767025089606,
+      "position": 6.4810035842293905
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/birth-certificate-correction-rejected-fix"
       ],
       "clicks": 5,
-      "impressions": 385,
-      "ctr": 0.012987012987012988,
-      "position": 5.841558441558441
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/guide/aadhaar-vs-voter-id-vs-passport-id-proof"
-      ],
-      "clicks": 4,
-      "impressions": 111,
-      "ctr": 0.036036036036036036,
-      "position": 6.531531531531532
+      "impressions": 274,
+      "ctr": 0.01824817518248175,
+      "position": 6.328467153284672
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/character-certificate-apply"
       ],
+      "clicks": 5,
+      "impressions": 657,
+      "ctr": 0.0076103500761035,
+      "position": 10.700152207001523
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/driving-licence-slot-not-available-fix"
+      ],
+      "clicks": 5,
+      "impressions": 385,
+      "ctr": 0.012987012987012988,
+      "position": 7.545454545454546
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-otp-not-received-fix"
+      ],
       "clicks": 4,
-      "impressions": 806,
-      "ctr": 0.004962779156327543,
-      "position": 10.023573200992557
+      "impressions": 1421,
+      "ctr": 0.0028149190710767065,
+      "position": 8.716396903589022
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/scholarship-payment-not-received-fix"
       ],
       "clicks": 4,
-      "impressions": 452,
-      "ctr": 0.008849557522123894,
-      "position": 5.988938053097345
+      "impressions": 538,
+      "ctr": 0.007434944237918215,
+      "position": 5.934944237918216
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/wbpsc-exam-guide"
       ],
       "clicks": 4,
-      "impressions": 410,
-      "ctr": 0.00975609756097561,
-      "position": 4.117073170731707
+      "impressions": 448,
+      "ctr": 0.008928571428571428,
+      "position": 3.1651785714285716
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/digilocker-aadhaar-verification-failed-fix"
+        "https://www.citizennest.com/guide/yuva-sathi-scheme-west-bengal-status"
       ],
-      "clicks": 3,
-      "impressions": 2499,
-      "ctr": 0.0012004801920768306,
-      "position": 7.110844337735094
+      "clicks": 4,
+      "impressions": 59,
+      "ctr": 0.06779661016949153,
+      "position": 18.89830508474576
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/hp-mukhyamantri-swavalamban-yojana"
+        "https://www.citizennest.com/update/ibps-po-2026-notification"
       ],
-      "clicks": 3,
-      "impressions": 90,
-      "ctr": 0.03333333333333333,
-      "position": 7.7444444444444445
+      "clicks": 4,
+      "impressions": 186,
+      "ctr": 0.021505376344086023,
+      "position": 3.6344086021505375
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/ration-card-name-not-updated-fix"
+        "https://www.citizennest.com/guide/aadhaar-vs-voter-id-vs-passport-id-proof"
       ],
       "clicks": 3,
-      "impressions": 530,
-      "ctr": 0.005660377358490566,
-      "position": 6.167924528301887
+      "impressions": 93,
+      "ctr": 0.03225806451612903,
+      "position": 6.311827956989247
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/ration-card-surrender-cancel"
+        "https://www.citizennest.com/guide/domicile-certificate-rejected-fix"
       ],
       "clicks": 3,
-      "impressions": 334,
-      "ctr": 0.008982035928143712,
-      "position": 7.026946107784431
+      "impressions": 61,
+      "ctr": 0.04918032786885246,
+      "position": 4.967213114754099
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/karnataka-bhagyalakshmi-scheme"
+      ],
+      "clicks": 3,
+      "impressions": 110,
+      "ctr": 0.02727272727272727,
+      "position": 8.472727272727273
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ration-card-add-remove-member"
+      ],
+      "clicks": 3,
+      "impressions": 444,
+      "ctr": 0.006756756756756757,
+      "position": 5.286036036036036
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/sbi-fd-vs-post-office-fd-comparison"
       ],
       "clicks": 3,
-      "impressions": 178,
-      "ctr": 0.016853932584269662,
-      "position": 8.297752808988765
+      "impressions": 143,
+      "ctr": 0.02097902097902098,
+      "position": 8.146853146853147
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/yuva-sathi-scheme-west-bengal-status"
-      ],
-      "clicks": 3,
-      "impressions": 35,
-      "ctr": 0.08571428571428572,
-      "position": 18.62857142857143
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/hi/guide/mudra-loan-status-check"
-      ],
-      "clicks": 3,
-      "impressions": 41,
-      "ctr": 0.07317073170731707,
-      "position": 14.536585365853659
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/guide/aadhaar-biometric-verification-failed-fix"
+        "https://www.citizennest.com/guide/caste-certificate-rejected-fix"
       ],
       "clicks": 2,
-      "impressions": 878,
-      "ctr": 0.002277904328018223,
-      "position": 8.667425968109338
+      "impressions": 179,
+      "ctr": 0.0111731843575419,
+      "position": 7
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/commercial-electricity-connection-apply"
       ],
       "clicks": 2,
-      "impressions": 20,
-      "ctr": 0.1,
-      "position": 8.75
+      "impressions": 24,
+      "ctr": 0.08333333333333333,
+      "position": 8.833333333333332
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/karnataka-bhagyalakshmi-scheme"
+        "https://www.citizennest.com/guide/digilocker-aadhaar-verification-failed-fix"
       ],
       "clicks": 2,
-      "impressions": 68,
-      "ctr": 0.029411764705882353,
-      "position": 8.485294117647058
+      "impressions": 2214,
+      "ctr": 0.0009033423667570009,
+      "position": 6.925925925925926
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/land-records-website-not-loading-fix"
+        "https://www.citizennest.com/guide/jio-fiber-airtel-broadband"
       ],
       "clicks": 2,
-      "impressions": 251,
-      "ctr": 0.00796812749003984,
-      "position": 5.597609561752988
+      "impressions": 772,
+      "ctr": 0.0025906735751295338,
+      "position": 8.373056994818654
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/pan-card-not-received-by-post-fix"
+      ],
+      "clicks": 2,
+      "impressions": 320,
+      "ctr": 0.00625,
+      "position": 8.246875
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/passport-appointment-not-available-fix"
       ],
       "clicks": 2,
-      "impressions": 341,
-      "ctr": 0.005865102639296188,
-      "position": 8.175953079178885
+      "impressions": 244,
+      "ctr": 0.00819672131147541,
+      "position": 8.282786885245901
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/ration-card-apl-vs-bpl-difference"
       ],
       "clicks": 2,
-      "impressions": 278,
-      "ctr": 0.007194244604316547,
-      "position": 7.474820143884892
+      "impressions": 306,
+      "ctr": 0.006535947712418301,
+      "position": 7.944444444444445
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ration-card-name-not-updated-fix"
+      ],
+      "clicks": 2,
+      "impressions": 424,
+      "ctr": 0.0047169811320754715,
+      "position": 6.068396226415095
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/ration-card-portability-not-working-fix"
       ],
       "clicks": 2,
-      "impressions": 424,
-      "ctr": 0.0047169811320754715,
-      "position": 6.841981132075472
+      "impressions": 329,
+      "ctr": 0.0060790273556231,
+      "position": 6.756838905775076
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/telangana-rythu-bandhu-scheme"
+        "https://www.citizennest.com/guide/shakti-free-bus-karnataka"
       ],
       "clicks": 2,
-      "impressions": 339,
-      "ctr": 0.0058997050147492625,
-      "position": 8.404129793510325
+      "impressions": 191,
+      "ctr": 0.010471204188481676,
+      "position": 8.586387434554974
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/umang-app-not-working-fix"
+      ],
+      "clicks": 2,
+      "impressions": 180,
+      "ctr": 0.011111111111111112,
+      "position": 6.811111111111111
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/up-free-laptop-tablet-yojana"
+      ],
+      "clicks": 2,
+      "impressions": 37,
+      "ctr": 0.05405405405405406,
+      "position": 6.648648648648648
     },
     {
       "keys": [
         "https://www.citizennest.com/update/army-afms-mo-2026-notification"
       ],
       "clicks": 2,
-      "impressions": 21,
-      "ctr": 0.09523809523809523,
-      "position": 4.238095238095238
+      "impressions": 39,
+      "ctr": 0.05128205128205128,
+      "position": 3.9743589743589745
     },
     {
       "keys": [
-        "https://www.citizennest.com/update/ibps-po-2026-notification"
-      ],
-      "clicks": 2,
-      "impressions": 120,
-      "ctr": 0.016666666666666666,
-      "position": 3.6333333333333333
-    },
-    {
-      "keys": [
-        "https://citizennest.com/"
+        "https://www.citizennest.com/guide/aadhaar-biometric-verification-failed-fix"
       ],
       "clicks": 1,
-      "impressions": 6,
-      "ctr": 0.16666666666666666,
-      "position": 7
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/"
-      ],
-      "clicks": 1,
-      "impressions": 4,
-      "ctr": 0.25,
-      "position": 1.25
+      "impressions": 611,
+      "ctr": 0.0016366612111292963,
+      "position": 8.798690671031096
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/banglar-yuva-sathi-scheme-west-bengal"
       ],
       "clicks": 1,
-      "impressions": 445,
-      "ctr": 0.0022471910112359553,
-      "position": 11.179775280898877
+      "impressions": 353,
+      "ctr": 0.0028328611898017,
+      "position": 11.373937677053824
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bhoomi-land-records-karnataka"
+      ],
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 8.75
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/broadband-bsnl-apply"
       ],
       "clicks": 1,
-      "impressions": 79,
-      "ctr": 0.012658227848101266,
-      "position": 9.481012658227849
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/guide/caste-certificate-rejected-fix"
-      ],
-      "clicks": 1,
-      "impressions": 102,
-      "ctr": 0.00980392156862745,
-      "position": 6.480392156862745
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/guide/chhattisgarh-mahtari-vandana-yojana"
-      ],
-      "clicks": 1,
-      "impressions": 43,
-      "ctr": 0.023255813953488372,
-      "position": 9.372093023255815
+      "impressions": 142,
+      "ctr": 0.007042253521126761,
+      "position": 10.859154929577464
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/csc-digital-seva-portal-errors-fix"
       ],
       "clicks": 1,
-      "impressions": 5221,
-      "ctr": 0.0001915341888527102,
-      "position": 7.27561769775905
+      "impressions": 5050,
+      "ctr": 0.00019801980198019803,
+      "position": 7.320990099009901
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/digilocker-document-not-showing-fix"
+      ],
+      "clicks": 1,
+      "impressions": 176,
+      "ctr": 0.005681818181818182,
+      "position": 6.596590909090909
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/digital-signature-certificate-dsc"
       ],
       "clicks": 1,
-      "impressions": 5,
-      "ctr": 0.2,
-      "position": 47.8
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/guide/domicile-certificate-rejected-fix"
-      ],
-      "clicks": 1,
-      "impressions": 33,
-      "ctr": 0.030303030303030304,
-      "position": 4.818181818181818
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 61.90909090909091
     },
     {
       "keys": [
@@ -403,131 +376,140 @@
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/epf-claim-rejected-reasons-fix"
+        "https://www.citizennest.com/guide/electricity-connection-transfer-name"
       ],
       "clicks": 1,
-      "impressions": 385,
-      "ctr": 0.0025974025974025974,
-      "position": 10.844155844155845
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 9.454545454545455
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/fastag-recharge-failed-fix"
+      ],
+      "clicks": 1,
+      "impressions": 648,
+      "ctr": 0.0015432098765432098,
+      "position": 10.643518518518519
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/goa-dayanand-social-security"
       ],
       "clicks": 1,
-      "impressions": 42,
-      "ctr": 0.023809523809523808,
-      "position": 8.452380952380953
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 6.666666666666667
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/gujarat-manav-garima-yojana"
+      ],
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 7
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/haryana-family-id-parivar-pehchan-patra"
       ],
       "clicks": 1,
-      "impressions": 14,
-      "ctr": 0.07142857142857142,
-      "position": 7.857142857142857
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 14.666666666666666
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/jio-fiber-airtel-broadband"
+        "https://www.citizennest.com/guide/land-records-website-not-loading-fix"
       ],
       "clicks": 1,
-      "impressions": 642,
-      "ctr": 0.001557632398753894,
-      "position": 8.286604361370717
+      "impressions": 170,
+      "ctr": 0.0058823529411764705,
+      "position": 5.047058823529412
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/navodaya-vidyalaya-teacher"
+        "https://www.citizennest.com/guide/passport-police-verification-stuck-fix"
       ],
       "clicks": 1,
-      "impressions": 33,
-      "ctr": 0.030303030303030304,
-      "position": 10.212121212121213
+      "impressions": 338,
+      "ctr": 0.0029585798816568047,
+      "position": 8.627218934911243
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/passport-status-check-online"
       ],
       "clicks": 1,
-      "impressions": 17,
-      "ctr": 0.058823529411764705,
-      "position": 82.58823529411765
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 72.57377049180327
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/ration-card-add-remove-member"
+        "https://www.citizennest.com/guide/pm-awas-yojana-status-check"
       ],
       "clicks": 1,
-      "impressions": 304,
-      "ctr": 0.003289473684210526,
-      "position": 5.328947368421052
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 26.40983606557377
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/rent-agreement-vs-lease-deed-difference"
+      ],
+      "clicks": 1,
+      "impressions": 37,
+      "ctr": 0.02702702702702703,
+      "position": 9.297297297297296
     }
   ],
   "topQueries": [
     {
       "keys": [
-        "karnataka shakti scheme smart card apply online"
+        "rbi recruitment"
       ],
-      "clicks": 6,
-      "impressions": 45,
-      "ctr": 0.13333333333333333,
-      "position": 8.044444444444444
+      "clicks": 4,
+      "impressions": 180,
+      "ctr": 0.022222222222222223,
+      "position": 4.555555555555555
     },
     {
       "keys": [
         "what to do if your voter id application is rejected india"
       ],
-      "clicks": 4,
-      "impressions": 266,
-      "ctr": 0.015037593984962405,
-      "position": 8.706766917293233
-    },
-    {
-      "keys": [
-        "how to check voter id rejected reason"
-      ],
-      "clicks": 2,
-      "impressions": 5,
-      "ctr": 0.4,
-      "position": 6.4
+      "clicks": 3,
+      "impressions": 256,
+      "ctr": 0.01171875,
+      "position": 8.7734375
     },
     {
       "keys": [
         "how to correct rejected voter id"
       ],
       "clicks": 2,
-      "impressions": 103,
-      "ctr": 0.019417475728155338,
-      "position": 8.184466019417476
+      "impressions": 80,
+      "ctr": 0.025,
+      "position": 8.25
     },
     {
       "keys": [
-        "mmsy hp"
+        "rbi openings"
       ],
       "clicks": 2,
-      "impressions": 5,
-      "ctr": 0.4,
-      "position": 7.2
+      "impressions": 14,
+      "ctr": 0.14285714285714285,
+      "position": 2.5
     },
     {
       "keys": [
-        "rbi recruitment"
+        "you are not authorised to generate e-epic pdf."
       ],
       "clicks": 2,
-      "impressions": 41,
-      "ctr": 0.04878048780487805,
-      "position": 5.804878048780488
-    },
-    {
-      "keys": [
-        "smart card for free bus in karnataka apply online"
-      ],
-      "clicks": 2,
-      "impressions": 32,
-      "ctr": 0.0625,
-      "position": 7.71875
+      "impressions": 11,
+      "ctr": 0.18181818181818182,
+      "position": 7.181818181818182
     },
     {
       "keys": [
@@ -558,21 +540,12 @@
     },
     {
       "keys": [
-        "bmtc smart card for ladies apply online"
-      ],
-      "clicks": 1,
-      "impressions": 32,
-      "ctr": 0.03125,
-      "position": 8.90625
-    },
-    {
-      "keys": [
         "bsnl broadband new connection apply online"
       ],
       "clicks": 1,
-      "impressions": 9,
-      "ctr": 0.1111111111111111,
-      "position": 7.888888888888889
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 8.705882352941178
     },
     {
       "keys": [
@@ -585,12 +558,12 @@
     },
     {
       "keys": [
-        "crsorgi.gov.in birth certificate correction"
+        "character certificate"
       ],
       "clicks": 1,
-      "impressions": 5,
-      "ctr": 0.2,
-      "position": 3.2
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 51.9
     },
     {
       "keys": [
@@ -606,9 +579,9 @@
         "eci application rejected"
       ],
       "clicks": 1,
-      "impressions": 8,
-      "ctr": 0.125,
-      "position": 5.5
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 6.285714285714286
     },
     {
       "keys": [
@@ -624,27 +597,27 @@
         "face authentication unsuccessful biometric data did not match"
       ],
       "clicks": 1,
-      "impressions": 8,
-      "ctr": 0.125,
-      "position": 9
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 9.285714285714286
     },
     {
       "keys": [
-        "fda age limit in karnataka"
+        "how to check user id in irctc"
       ],
       "clicks": 1,
       "impressions": 1,
       "ctr": 1,
-      "position": 8
+      "position": 3
     },
     {
       "keys": [
-        "fda qualification in karnataka"
+        "how to check voter id rejected reason"
       ],
       "clicks": 1,
-      "impressions": 9,
-      "ctr": 0.1111111111111111,
-      "position": 5.777777777777778
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 6.333333333333333
     },
     {
       "keys": [
@@ -687,9 +660,9 @@
         "mera parivar haryana gov in"
       ],
       "clicks": 1,
-      "impressions": 1,
-      "ctr": 1,
-      "position": 35
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 34.5
     },
     {
       "keys": [
@@ -723,9 +696,9 @@
         "passport status"
       ],
       "clicks": 1,
-      "impressions": 1,
-      "ctr": 1,
-      "position": 17
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 16
     },
     {
       "keys": [
@@ -738,12 +711,21 @@
     },
     {
       "keys": [
+        "pmay status check with aadhar"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 35
+    },
+    {
+      "keys": [
         "psc"
       ],
       "clicks": 1,
-      "impressions": 9,
-      "ctr": 0.1111111111111111,
-      "position": 3.2222222222222223
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 3.272727272727273
     },
     {
       "keys": [
@@ -765,30 +747,48 @@
     },
     {
       "keys": [
-        "public service commission west bengal"
+        "public service commission"
       ],
       "clicks": 1,
       "impressions": 3,
       "ctr": 0.3333333333333333,
-      "position": 3.3333333333333335
+      "position": 2.666666666666667
+    },
+    {
+      "keys": [
+        "public service commission west bengal"
+      ],
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 3.25
     },
     {
       "keys": [
         "rbi"
       ],
       "clicks": 1,
-      "impressions": 2,
-      "ctr": 0.5,
-      "position": 4.5
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 6.166666666666667
     },
     {
       "keys": [
-        "rbi openings"
+        "rbi recruitment 2026"
       ],
       "clicks": 1,
-      "impressions": 6,
-      "ctr": 0.16666666666666666,
-      "position": 1
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 4.911764705882353
+    },
+    {
+      "keys": [
+        "rbi vacancy"
+      ],
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 6.434782608695652
     },
     {
       "keys": [
@@ -804,81 +804,54 @@
         "rythu bandhu telangana"
       ],
       "clicks": 1,
-      "impressions": 5,
-      "ctr": 0.2,
-      "position": 25.6
-    },
-    {
-      "keys": [
-        "shakti smart card eligibility"
-      ],
-      "clicks": 1,
-      "impressions": 7,
-      "ctr": 0.14285714285714285,
-      "position": 7.285714285714286
-    },
-    {
-      "keys": [
-        "shakti smart card online apply near bengaluru karnataka"
-      ],
-      "clicks": 1,
-      "impressions": 81,
-      "ctr": 0.012345679012345678,
-      "position": 7.45679012345679
-    },
-    {
-      "keys": [
-        "shakti yojana card apply online karnataka"
-      ],
-      "clicks": 1,
-      "impressions": 12,
-      "ctr": 0.08333333333333333,
-      "position": 8.333333333333332
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 30
     },
     {
       "keys": [
         "ssc"
       ],
       "clicks": 1,
-      "impressions": 10,
-      "ctr": 0.1,
-      "position": 6.5
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 7
     },
     {
       "keys": [
         "ssc gov in"
       ],
       "clicks": 1,
-      "impressions": 3,
-      "ctr": 0.3333333333333333,
-      "position": 1
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 1.5
     },
     {
       "keys": [
         "ssc govt jobs"
       ],
       "clicks": 1,
-      "impressions": 17,
-      "ctr": 0.058823529411764705,
-      "position": 5.470588235294118
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 5.4
     },
     {
       "keys": [
         "ssc jobs 2026"
       ],
       "clicks": 1,
-      "impressions": 15,
-      "ctr": 0.06666666666666667,
-      "position": 5
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 4.846153846153847
     },
     {
       "keys": [
         "ssc vacancy 2026"
       ],
       "clicks": 1,
-      "impressions": 2,
-      "ctr": 0.5,
-      "position": 2
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2.333333333333333
     },
     {
       "keys": [
@@ -915,6 +888,33 @@
       "impressions": 10,
       "ctr": 0.1,
       "position": 1.1
+    },
+    {
+      "keys": [
+        "what to do if my voter id application is rejected india"
+      ],
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 9.272727272727273
+    },
+    {
+      "keys": [
+        "what to do if voter id application is rejected"
+      ],
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 8.411764705882353
+    },
+    {
+      "keys": [
+        "which state pcs exam is easy"
+      ],
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 8.181818181818182
     }
   ]
 }

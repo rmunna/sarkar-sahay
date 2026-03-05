@@ -1,6 +1,6 @@
 ---
-title: "DigiLocker Not Working? Aadhaar Verification Fix (2026)"
-description: "DigiLocker Aadhaar already registered or verification failed? Fix KYC errors, sign-up issues & refused to connect. Quick working solutions inside."
+title: "DigiLocker Aadhaar Verification Failed? Fix It Now"
+description: "DigiLocker showing 'Aadhaar already registered' or verification failed? Fix sign-up errors, KYC issues & connection refused. Working solutions."
 category: "Utilities"
 keywords:
   - digilocker aadhaar verification failed

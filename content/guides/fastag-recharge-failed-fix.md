@@ -1,7 +1,6 @@
 ---
-title: "FASTag Recharge Failed: How to Fix"
-description: >-
-  Troubleshooting guide for FASTag recharge failures. Fix payment errors, wallet not updated, UPI transaction failed, and FASTag balance issues.
+title: "FASTag Recharge Failed? Fix Payment & Balance Errors"
+description: "FASTag recharge failed or balance not updated after payment? Fix UPI errors, wallet issues & wrong vehicle number. Step-by-step solutions that work."
 category: "Utilities"
 keywords:
   - fastag recharge failed
