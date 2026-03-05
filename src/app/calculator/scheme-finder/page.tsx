@@ -172,7 +172,7 @@ export default function SchemeFinderPage() {
   const [area, setArea] = useState("Rural");
   const [showResults, setShowResults] = useState(false);
   const [useLang, setUseLang] = useState(false);
-  const [viewMode, setViewMode] = useState<"family" | "member">("family");
+  const [viewMode, setViewMode] = useState<"family" | "member">("member");
 
   const [members, setMembers] = useState<FamilyMember[]>([
     { id: uid(), relation: "Self", name: "", age: 35, gender: "Male", occupation: "Farmer", education: "Secondary" },
@@ -591,29 +591,106 @@ export default function SchemeFinderPage() {
 
             {/* Member View */}
             {viewMode === "member" && (
-              <div className="space-y-6">
-                {Array.from(results.memberMatches.values()).map(({ member, schemes: memberSchemes }) => (
-                  <div key={member.id}>
-                    <h3 className="text-lg font-semibold text-gray-800 mb-3 flex items-center gap-2">
-                      {getMemberEmoji(member)} {getMemberLabel(member)}
-                      <span className="text-sm font-normal text-gray-500">
-                        ({member.age} yrs, {member.gender}, {member.occupation})
-                      </span>
-                      <span className="text-sm font-medium text-orange-600">— {memberSchemes.length} schemes</span>
-                    </h3>
+              <div className="space-y-8">
+                {Array.from(results.memberMatches.values()).map(({ member, schemes: memberSchemes }) => {
+                  const mRecurring = memberSchemes.filter(s => {
+                    const bt = s.benefitType || "recurring";
+                    return bt === "recurring" || bt === "milestone";
+                  });
+                  const mOneTime = memberSchemes.filter(s => {
+                    const bt = s.benefitType || "recurring";
+                    return bt === "one-time" || bt === "subsidy";
+                  });
+                  const mOther = memberSchemes.filter(s => {
+                    const bt = s.benefitType || "recurring";
+                    return !["recurring", "milestone", "one-time", "subsidy"].includes(bt);
+                  });
+                  const mAnnualTotal = mRecurring.reduce((sum, s) => sum + (s.benefitAmountPerYear || 0), 0);
+                  const mOneTimeTotal = mOneTime.reduce((sum, s) => sum + (s.benefitOneTime || s.benefitAmountPerYear || 0), 0);
+
+                  return (
+                  <div key={member.id} className="border border-gray-200 rounded-xl overflow-hidden">
+                    {/* Member Summary Header */}
+                    <div className="bg-gradient-to-r from-orange-50 to-orange-100 border-b border-orange-200 p-5">
+                      <div className="flex items-center justify-between flex-wrap gap-3">
+                        <div>
+                          <h3 className="text-lg font-bold text-gray-900 flex items-center gap-2">
+                            {getMemberEmoji(member)} {getMemberLabel(member)}
+                          </h3>
+                          <p className="text-sm text-gray-600 mt-0.5">
+                            {member.age} yrs • {member.gender} • {member.occupation} • {member.education}
+                          </p>
+                        </div>
+                        <div className="flex gap-4">
+                          <div className="text-center">
+                            <p className="text-xs text-green-700">Annual</p>
+                            <p className="text-lg font-bold text-green-800">{mAnnualTotal > 0 ? `${fmt(mAnnualTotal)}` : "—"}</p>
+                          </div>
+                          <div className="text-center">
+                            <p className="text-xs text-blue-700">One-Time</p>
+                            <p className="text-lg font-bold text-blue-800">{mOneTimeTotal > 0 ? `${fmt(mOneTimeTotal)}` : "—"}</p>
+                          </div>
+                          <div className="text-center">
+                            <p className="text-xs text-orange-700">Schemes</p>
+                            <p className="text-lg font-bold text-orange-800">{memberSchemes.length}</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    {/* Member Schemes */}
+                    <div className="p-5 bg-white">
                     {memberSchemes.length === 0 ? (
-                      <p className="text-gray-500 text-sm ml-8">No eligible schemes found for this member.</p>
+                      <p className="text-gray-500 text-sm">No eligible schemes found for this member.</p>
                     ) : (
-                      <div className="space-y-3">
-                        {memberSchemes.map(scheme => (
-                          <SchemeCard key={scheme.id} scheme={scheme} eligMembers={[member]}
-                            getName={getName} getBenefitDesc={getBenefitDesc} getBenefitBadge={getBenefitBadge}
-                            getMemberLabel={getMemberLabel} getMemberEmoji={getMemberEmoji} compact />
-                        ))}
+                      <div className="space-y-5">
+                        {mRecurring.length > 0 && (
+                          <div>
+                            <h4 className="text-sm font-semibold text-green-700 mb-2 flex items-center gap-1">
+                              🔄 Annual Recurring
+                              <span className="font-normal text-green-600">({fmt(mAnnualTotal)}/yr)</span>
+                            </h4>
+                            <div className="space-y-2">
+                              {mRecurring.map(scheme => (
+                                <SchemeCard key={scheme.id} scheme={scheme} eligMembers={[member]}
+                                  getName={getName} getBenefitDesc={getBenefitDesc} getBenefitBadge={getBenefitBadge}
+                                  getMemberLabel={getMemberLabel} getMemberEmoji={getMemberEmoji} compact />
+                              ))}
+                            </div>
+                          </div>
+                        )}
+                        {mOneTime.length > 0 && (
+                          <div>
+                            <h4 className="text-sm font-semibold text-blue-700 mb-2 flex items-center gap-1">
+                              🎯 One-Time
+                              <span className="font-normal text-blue-600">({fmt(mOneTimeTotal)})</span>
+                            </h4>
+                            <div className="space-y-2">
+                              {mOneTime.map(scheme => (
+                                <SchemeCard key={scheme.id} scheme={scheme} eligMembers={[member]}
+                                  getName={getName} getBenefitDesc={getBenefitDesc} getBenefitBadge={getBenefitBadge}
+                                  getMemberLabel={getMemberLabel} getMemberEmoji={getMemberEmoji} compact />
+                              ))}
+                            </div>
+                          </div>
+                        )}
+                        {mOther.length > 0 && (
+                          <div>
+                            <h4 className="text-sm font-semibold text-gray-700 mb-2">🛡️ Insurance, Loans &amp; Services</h4>
+                            <div className="space-y-2">
+                              {mOther.map(scheme => (
+                                <SchemeCard key={scheme.id} scheme={scheme} eligMembers={[member]}
+                                  getName={getName} getBenefitDesc={getBenefitDesc} getBenefitBadge={getBenefitBadge}
+                                  getMemberLabel={getMemberLabel} getMemberEmoji={getMemberEmoji} compact />
+                              ))}
+                            </div>
+                          </div>
+                        )}
                       </div>
                     )}
+                    </div>
                   </div>
-                ))}
+                  );})}
               </div>
             )}
 
