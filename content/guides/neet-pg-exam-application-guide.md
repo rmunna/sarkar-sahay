@@ -1,5 +1,5 @@
 ---
-title: "NEET PG — Application Process, Eligibility, Exam Pattern & Counselling Guide"
+title: "NEET PG — How to Apply, Eligibility & Benefits"
 description: "Complete NEET PG guide covering eligibility, registration, exam pattern, cut-off scores, and counselling process for medical PG admissions."
 category: "Jobs & Exams"
 keywords: ["NEET PG exam", "NEET PG application", "NEET PG eligibility", "medical PG admission", "NEET PG counselling", "NBEMS NEET PG", "NEET PG cut off", "MD MS admission"]

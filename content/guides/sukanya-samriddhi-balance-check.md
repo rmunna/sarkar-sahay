@@ -1,5 +1,5 @@
 ---
-title: "Sukanya Samriddhi Yojana Balance Check — Online, Post Office & Bank Methods"
+title: "Sukanya Samriddhi Yojana Balance Check — How to Apply & Benefits"
 description: "Check Sukanya Samriddhi Yojana (SSY) account balance online via DOP internet banking, bank apps, or passbook. Complete guide."
 category: "Tax & Finance"
 keywords: ["sukanya samriddhi yojana balance check", "ssy account balance online", "sukanya samriddhi account status", "post office ssy balance check", "sukanya samriddhi maturity check"]

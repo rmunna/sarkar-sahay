@@ -1,5 +1,5 @@
 ---
-title: Telangana Government Schemes and Services – Complete Guide
+title: "Telangana Government Schemes and Services — How to Apply Online"
 description: >-
   Complete guide to Telangana government schemes — Rythu Bharosa, Aasara Pension,
   Kalyana Lakshmi, Gruha Jyothi, Mahalakshmi, Indiramma Indlu, and how to apply.

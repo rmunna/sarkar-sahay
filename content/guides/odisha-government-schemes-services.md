@@ -1,5 +1,5 @@
 ---
-title: Odisha Government Schemes and Services – Complete Guide
+title: "Odisha Government Schemes and Services — How to Apply & Benefits"
 description: >-
   Complete guide to Odisha government schemes — CM-KISAN, Subhadra Yojana,
   Madhu Babu Pension, Mamata, GJAY health, housing, and how to apply.

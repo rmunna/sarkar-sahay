@@ -1,5 +1,5 @@
 ---
-title: "Madhya Pradesh Ladli Behna Yojana — Eligibility, Application, and Benefits"
+title: "Madhya Pradesh Ladli Behna Yojana — How to Apply & Benefits"
 description: "Complete guide to MP Ladli Behna Yojana providing ₹1,250 monthly to women including eligibility criteria, application process, and benefits."
 category: "State Schemes"
 keywords: ["Ladli Behna Yojana", "MP Ladli Behna", "Madhya Pradesh women scheme", "Ladli Behna eligibility", "Ladli Behna apply online"]

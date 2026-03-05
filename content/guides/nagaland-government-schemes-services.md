@@ -1,5 +1,5 @@
 ---
-title: "Nagaland Government Schemes and Services – Complete Guide"
+title: "Nagaland Government Schemes and Services — How to Apply Online"
 description: "Explore all major Nagaland government schemes and services including CMHIS, Beehive Initiative, communitisation, e-District, and tribal welfare programs."
 category: "State Schemes"
 keywords:

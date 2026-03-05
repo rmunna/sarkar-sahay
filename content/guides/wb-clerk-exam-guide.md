@@ -1,5 +1,5 @@
 ---
-title: "WB Clerkship Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "WB Clerkship Exam Guide — How to Apply, Eligibility & Benefits"
 description: "Complete West Bengal Clerkship exam guide covering eligibility, exam pattern, syllabus, fees, and preparation strategy."
 category: "Jobs & Exams"
 keywords: ["WB Clerkship exam","West Bengal Clerk","WBPSC Clerkship","WB Clerk eligibility","WB Clerkship syllabus"]

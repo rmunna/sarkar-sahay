@@ -1,5 +1,5 @@
 ---
-title: "Chhattisgarh Godhan Nyay Yojana — Cow Dung Procurement Scheme, Benefits & Registration"
+title: "Chhattisgarh Godhan Nyay Yojana — How to Apply & Benefits"
 description: "Complete guide to Chhattisgarh Godhan Nyay Yojana for cow dung procurement from cattle owners. Registration, rates, and benefits explained."
 category: "State Schemes"
 keywords: ["godhan nyay yojana", "chhattisgarh cow dung scheme", "godhan nyay yojana registration", "CG cattle scheme", "godhan nyay apply"]

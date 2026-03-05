@@ -1,5 +1,5 @@
 ---
-title: Bihar Government Schemes and Services – Complete Guide
+title: "Bihar Government Schemes and Services — How to Apply & Benefits"
 description: >-
   Comprehensive guide to all Bihar government schemes and services including
   Mukhyamantri Kanya Utthan, Student Credit Card, Cycle Yojana, Gramin Awas,

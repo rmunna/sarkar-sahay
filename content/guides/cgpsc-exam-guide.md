@@ -1,5 +1,5 @@
 ---
-title: "CGPSC Exam Guide — Chhattisgarh Public Service Commission"
+title: "CGPSC Exam Guide — How to Apply, Eligibility & Benefits"
 description: "Complete CGPSC exam guide with eligibility, exam pattern, syllabus, application process, fees, and preparation tips for Chhattisgarh services."
 category: "Jobs & Exams"
 keywords: ["CGPSC exam", "Chhattisgarh PSC", "CGPSC state services", "CGPSC preparation", "Chhattisgarh civil services", "CGPSC syllabus"]

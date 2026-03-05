@@ -1,5 +1,5 @@
 ---
-title: "Bharat Bill Payment System (BBPS) — Complete Guide to Pay All Bills"
+title: "Bharat Bill Payment System (BBPS) — How to Apply & Benefits"
 description: "Complete guide to Bharat Bill Payment System covering supported billers, payment methods, how to use BBPS, and complaint resolution process."
 category: "Utilities"
 keywords: ["BBPS", "Bharat Bill Payment", "BBPS bill payment", "pay bills online India", "BBPS guide"]

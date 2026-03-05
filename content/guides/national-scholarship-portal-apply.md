@@ -1,5 +1,5 @@
 ---
-title: National Scholarship Portal
+title: "National Scholarship Portal: How to Apply"
 description: >-
   Complete guide to NSP (scholarships.gov.in) — apply for Pre-Matric,
   Post-Matric, Central Sector, PM Scholarship and other government scholarships

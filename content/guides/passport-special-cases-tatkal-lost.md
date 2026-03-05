@@ -1,5 +1,5 @@
 ---
-title: 'Tatkal Passport, Lost Passport & Special Cases'
+title: "Tatkal Passport, Lost Passport & Special Cases: How to Apply"
 description: >-
   Complete guide for tatkal passport, lost or damaged passport, ECR/ECNR, name
   change after marriage, spouse name addition, and additional booklet pages.

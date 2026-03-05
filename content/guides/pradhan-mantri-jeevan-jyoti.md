@@ -1,5 +1,5 @@
 ---
-title: "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) — Life Insurance for ₹436/Year"
+title: "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) — How to Apply Online"
 description: "Complete guide to PMJJBY life insurance scheme. Get ₹2 lakh life cover for just ₹436 per year. Learn eligibility, claim process, and enrolment steps."
 category: "Government Schemes"
 keywords: ["PMJJBY", "Pradhan Mantri Jeevan Jyoti", "life insurance scheme", "₹436 life insurance", "PMJJBY claim", "government life insurance"]

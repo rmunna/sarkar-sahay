@@ -1,5 +1,5 @@
 ---
-title: "Nikshay Poshan Yojana — ₹500/Month Nutrition Support for TB Patients in India"
+title: "Nikshay Poshan Yojana — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Nikshay Poshan Yojana providing ₹500 monthly nutrition support to TB patients. Know eligibility, registration, and DBT process."
 category: "Government Schemes"
 keywords: ["Nikshay Poshan Yojana", "TB patient support", "Nikshay portal", "TB nutrition allowance", "tuberculosis India scheme", "TB Mukt Bharat", "Nikshay registration"]

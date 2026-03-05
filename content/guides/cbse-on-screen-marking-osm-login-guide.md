@@ -1,5 +1,5 @@
 ---
-title: "CBSE On Screen Marking (OSM) Portal — Login and Complete Guide"
+title: "CBSE On Screen Marking (OSM) Portal — How to Apply & Benefits"
 description: "Complete guide to CBSE OSM portal login at cbse.onmark.co.in. Steps for evaluators to access on screen marking system, system requirements, and FAQs."
 category: "Jobs & Exams"
 keywords:

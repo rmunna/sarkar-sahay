@@ -1,5 +1,5 @@
 ---
-title: OBC / EWS Certificate Online
+title: "OBC / EWS Certificate Online: How to Apply"
 description: >-
   Complete guide to apply for OBC certificate and EWS certificate online in
   India. Know eligibility, required documents, fees, validity, and

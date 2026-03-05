@@ -1,5 +1,5 @@
 ---
-title: "Mukhyamantri Medhavriti Yojana Bihar: Scholarship for SC/ST Inter Pass Students"
+title: "Mukhyamantri Medhavriti Yojana Bihar: How to Apply"
 description: "Complete guide to Bihar Medhavriti Yojana — ₹10,000-₹15,000 scholarship for SC/ST students who pass 12th. Eligibility and apply online."
 category: "State Schemes"
 keywords:

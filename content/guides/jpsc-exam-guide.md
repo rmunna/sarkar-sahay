@@ -1,5 +1,5 @@
 ---
-title: "JPSC Exam Guide — Jharkhand Public Service Commission"
+title: "JPSC Exam Guide — How to Apply, Eligibility & Benefits"
 description: "Complete JPSC exam guide with eligibility, exam pattern, syllabus, application process, fees, and preparation tips for Jharkhand civil services."
 category: "Jobs & Exams"
 keywords: ["JPSC exam", "Jharkhand PSC", "JPSC prelims mains", "Jharkhand civil services", "JPSC preparation guide", "JPSC syllabus"]

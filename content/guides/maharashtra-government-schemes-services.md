@@ -1,5 +1,5 @@
 ---
-title: Maharashtra Government Schemes and Services – Complete Guide
+title: "Maharashtra Government Schemes and Services — How to Apply Online"
 description: >-
   Comprehensive guide to all Maharashtra government schemes and services including
   Majhi Ladki Bahin, Gharkul Yojana, Shravan Bal Pension, education, health,

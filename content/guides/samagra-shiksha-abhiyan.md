@@ -1,5 +1,5 @@
 ---
-title: "Samagra Shiksha Abhiyan — Integrated Education Scheme for Schools in India"
+title: "Samagra Shiksha Abhiyan — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Samagra Shiksha Abhiyan. Learn about benefits for students, teacher training, mid-day meals, free textbooks, and how to access."
 category: "Government Schemes"
 keywords: ["Samagra Shiksha Abhiyan", "SSA scheme", "school education scheme India", "free education India", "RTE education", "mid-day meal scheme"]

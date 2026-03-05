@@ -1,5 +1,5 @@
 ---
-title: UP Free Ration Yojana – Uttar Pradesh Free Food Grain Scheme Guide
+title: "UP Free Ration Yojana — How to Apply, Eligibility & Benefits"
 description: >-
   Complete guide to UP free ration scheme under NFSA – eligibility, ration card
   types, application process and how to check beneficiary list online.

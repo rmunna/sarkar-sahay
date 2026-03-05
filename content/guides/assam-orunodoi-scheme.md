@@ -1,5 +1,5 @@
 ---
-title: "Assam Orunodoi Scheme — Eligibility, Benefits, and Application Guide"
+title: "Assam Orunodoi Scheme — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Assam Orunodoi scheme providing ₹1,250 monthly financial assistance to women including eligibility and application process."
 category: "State Schemes"
 keywords: ["Orunodoi scheme", "Assam Orunodoi", "Assam women scheme", "Orunodoi eligibility", "Orunodoi application"]

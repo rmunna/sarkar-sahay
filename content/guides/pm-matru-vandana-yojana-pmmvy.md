@@ -1,5 +1,5 @@
 ---
-title: PM Matru Vandana Yojana (PMMVY)
+title: "PM Matru Vandana Yojana (PMMVY): How to Apply"
 description: >-
   Complete guide to PMMVY maternity benefit scheme. Eligibility, ₹5,000 in 3
   installments, documents, online apply, and status tracking.

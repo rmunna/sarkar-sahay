@@ -1,5 +1,5 @@
 ---
-title: Education Loan in India – Complete Guide for Students
+title: "Education Loan in India — How to Apply, Eligibility & Benefits"
 description: >-
   Complete guide to education loans in India. Compare banks, know eligibility,
   interest rates, documents, repayment options, and tax benefits under 80E.

@@ -1,5 +1,5 @@
 ---
-title: "UP SI (Sub-Inspector) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "UP SI (Sub-Inspector) Exam Guide — How to Apply & Benefits"
 description: "Complete guide to UP Police Sub-Inspector exam covering eligibility, exam pattern, syllabus, physical test, and preparation strategy."
 category: "Jobs & Exams"
 keywords: ["UP SI exam", "UP Police Sub-Inspector", "UPPBPB SI", "UP SI eligibility", "UP SI syllabus", "UP SI exam pattern"]

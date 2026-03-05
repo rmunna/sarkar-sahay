@@ -1,5 +1,5 @@
 ---
-title: "CG TET (Chhattisgarh TET) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "CG TET (Chhattisgarh TET) Exam Guide — How to Apply & Benefits"
 description: "Complete CG TET exam guide covering eligibility, exam pattern for Paper 1 and Paper 2, syllabus, fees, and preparation tips."
 category: "Jobs & Exams"
 keywords: ["CG TET exam","Chhattisgarh TET","CGTET eligibility","CGTET syllabus","CG Teacher Eligibility Test"]

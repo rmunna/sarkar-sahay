@@ -1,5 +1,5 @@
 ---
-title: "Mukhyamantri Rajshri Yojana — ₹50,000 for Girl Child in Rajasthan"
+title: "Mukhyamantri Rajshri Yojana — How to Apply & Benefits"
 description: "Complete guide to Rajasthan Rajshri Yojana offering ₹50,000 in 6 instalments for girl children. Eligibility, documents, and application."
 category: "State Schemes"
 keywords: ["rajshri yojana", "mukhyamantri rajshri yojana", "rajasthan girl child scheme", "rajshri yojana apply", "rajasthan ₹50000 girl scheme"]

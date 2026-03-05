@@ -1,5 +1,5 @@
 ---
-title: "Mahtari Vandana Yojana Chhattisgarh — ₹1,000/Month for Women"
+title: "Mahtari Vandana Yojana Chhattisgarh — How to Apply & Benefits"
 description: "Complete guide to Mahtari Vandana Yojana Chhattisgarh. ₹12,000/year for married women, eligibility, documents, and how to apply online."
 category: "State Schemes"
 keywords: ["Mahtari Vandana Yojana", "Chhattisgarh women scheme", "Mahtari Vandana apply online", "CG ₹1000 women scheme", "Mahtari Vandana eligibility"]

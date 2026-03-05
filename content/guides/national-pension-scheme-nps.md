@@ -1,5 +1,5 @@
 ---
-title: "National Pension Scheme (NPS) – Registration, Benefits & Tax Savings Guide"
+title: "National Pension Scheme (NPS) — How to Apply & Benefits"
 description: "Complete guide to National Pension Scheme – online registration process, tax benefits under 80CCD, fund options, withdrawal rules and NPS calculator tips."
 category: "Government Schemes"
 keywords: ["national pension scheme", "nps registration online", "nps tax benefits", "nps account opening", "nps withdrawal rules", "nps vs ppf"]

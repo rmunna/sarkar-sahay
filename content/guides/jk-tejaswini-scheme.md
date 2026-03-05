@@ -1,5 +1,5 @@
 ---
-title: "J&K Tejaswini Scheme Women Empowerment Loan up to ₹5 Lakh"
+title: "J&K Tejaswini Scheme Women Empowerment Loan up to ₹5 Lakh: How to Apply"
 description: "Complete guide to J&K Tejaswini Scheme for women. Eligibility, documents, how to apply online, interest-free loan up to ₹5 lakh for self-employment."
 category: "State Schemes"
 keywords: ["JK Tejaswini scheme", "Tejaswini scheme J&K", "women empowerment scheme J&K", "Mission Youth Tejaswini", "interest free loan women J&K", "self employment scheme women"]

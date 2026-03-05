@@ -1,5 +1,5 @@
 ---
-title: "National Family Benefit Scheme (NFBS) — ₹20,000 Death Benefit for BPL Families"
+title: "National Family Benefit Scheme (NFBS) — How to Apply & Benefits"
 description: "Complete guide to NFBS under NSAP. Eligibility, documents, how to apply online/offline for ₹20,000 lump sum death benefit for BPL families."
 category: "Government Schemes"
 keywords: ["national family benefit scheme", "NFBS scheme", "NSAP death benefit", "BPL family benefit", "₹20000 death benefit", "breadwinner death scheme"]

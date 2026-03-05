@@ -1,5 +1,5 @@
 ---
-title: "CLAT Exam — Common Law Admission Test Complete Guide"
+title: "CLAT Exam — How to Apply, Eligibility & Benefits"
 description: "CLAT 2026 exam guide covering eligibility, exam pattern, syllabus, NLU admissions, preparation tips and how to apply for UG and PG law entrance."
 category: "Jobs & Exams"
 keywords:

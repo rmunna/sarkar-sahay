@@ -1,5 +1,5 @@
 ---
-title: "UMANG App Services Guide — Access Government Services on Your Phone"
+title: "UMANG App Services Guide — How to Apply, Eligibility & Benefits"
 description: "Complete guide to UMANG app covering key government services, registration process, and how to use it for PF, pension, tax, and more."
 category: "Utilities"
 keywords: ["UMANG app", "UMANG services", "UMANG government app", "UMANG PF withdrawal", "UMANG app guide India"]

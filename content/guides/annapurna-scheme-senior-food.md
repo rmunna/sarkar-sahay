@@ -1,5 +1,5 @@
 ---
-title: "Annapurna Scheme: Free Food Grains for Senior Citizens"
+title: "Annapurna Scheme: Free Food Grains for Senior Citizens: How to Apply"
 description: "Annapurna Scheme provides 10 kg free food grains monthly to senior citizens aged 65+ not receiving pension. Know eligibility, documents & how to apply."
 category: "Government Schemes"
 keywords:

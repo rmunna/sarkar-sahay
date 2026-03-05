@@ -1,5 +1,5 @@
 ---
-title: "Universal Pension Scheme Jharkhand: Monthly Pension for Senior Citizens and Others"
+title: "Universal Pension Scheme Jharkhand: How to Apply"
 description: "Complete guide to Jharkhand Universal Pension scheme — ₹1,000/month pension for elderly, widows, and disabled. Eligibility and apply online."
 category: "State Schemes"
 keywords:

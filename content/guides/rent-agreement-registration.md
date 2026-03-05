@@ -1,5 +1,5 @@
 ---
-title: Rent Agreement Registration in India – Process, Format & Stamp Duty
+title: "Rent Agreement Registration in India — How to Apply & Benefits"
 description: >-
   Complete guide to rent agreement registration in India. Know stamp duty, format,
   documents, online process, and legal validity of rental agreements.

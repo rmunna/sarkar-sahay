@@ -1,5 +1,5 @@
 ---
-title: "UP Shadi Anudan Yojana — ₹20,000 Marriage Grant for Daughters"
+title: "UP Shadi Anudan Yojana — How to Apply, Eligibility & Benefits"
 description: "Apply for UP Shadi Anudan Yojana online. Get ₹20,000 marriage grant for daughters from SC/ST/OBC/General EWS families in Uttar Pradesh."
 category: "State Schemes"
 keywords:

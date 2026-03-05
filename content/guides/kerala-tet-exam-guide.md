@@ -1,5 +1,5 @@
 ---
-title: "Kerala TET (KTET) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Kerala TET (KTET) Exam Guide — How to Apply & Benefits"
 description: "Complete KTET exam guide covering eligibility, exam pattern for all categories, syllabus, fees, and preparation strategy."
 category: "Jobs & Exams"
 keywords: ["KTET exam","Kerala TET","KTET eligibility","KTET syllabus","Kerala Teacher Eligibility Test"]

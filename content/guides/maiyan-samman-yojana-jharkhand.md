@@ -1,5 +1,5 @@
 ---
-title: "Maiyan Samman Yojana Jharkhand: ₹1,000/Month for Women (Age 18-50)"
+title: "Maiyan Samman Yojana Jharkhand: How to Apply"
 description: "Complete guide to Jharkhand Maiyan Samman Yojana — ₹1,000 monthly for women aged 18-50. Eligibility, documents, and online application."
 category: "State Schemes"
 keywords:

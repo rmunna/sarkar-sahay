@@ -1,5 +1,5 @@
 ---
-title: "Jharkhand Police Constable Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Jharkhand Police Constable Exam Guide — How to Apply & Benefits"
 description: "Complete Jharkhand Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and tips."
 category: "Jobs & Exams"
 keywords: ["Jharkhand Police Constable","JSSC Police","Jharkhand Police eligibility","Jharkhand Constable exam","JSSC recruitment"]

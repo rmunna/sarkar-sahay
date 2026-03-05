@@ -1,5 +1,5 @@
 ---
-title: "India Post Office Services Guide — Savings, Insurance, and Postal Services"
+title: "India Post Office Services Guide — How to Apply & Benefits"
 description: "Complete guide to India Post services including savings schemes, postal life insurance, money transfer, Aadhaar, and banking services."
 category: "Utilities"
 keywords: ["India Post services", "post office savings", "India Post banking", "postal life insurance", "post office schemes India"]

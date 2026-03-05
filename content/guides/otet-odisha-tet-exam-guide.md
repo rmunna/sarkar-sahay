@@ -1,5 +1,5 @@
 ---
-title: "OTET (Odisha TET) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "OTET (Odisha TET) Exam Guide — How to Apply & Benefits"
 description: "Complete Odisha TET exam guide with eligibility, exam pattern for Paper 1 and Paper 2, syllabus, and preparation strategy."
 category: "Jobs & Exams"
 keywords: ["OTET exam","Odisha TET","OTET eligibility","OTET syllabus","Odisha Teacher Eligibility Test"]

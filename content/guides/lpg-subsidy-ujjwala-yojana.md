@@ -1,5 +1,5 @@
 ---
-title: "Free LPG Connection + ₹300 Subsidy — Ujjwala Yojana"
+title: "Free LPG Connection + ₹300 Subsidy — How to Apply & Benefits"
 description: "Get free LPG gas connection under Ujjwala Yojana 2.0 + ₹300 subsidy per cylinder via DBTL. Check eligibility, apply online & book refills."
 category: "Utilities"
 keywords:

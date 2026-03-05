@@ -1,5 +1,5 @@
 ---
-title: "Kerala Police Constable Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Kerala Police Constable Exam Guide — How to Apply & Benefits"
 description: "Complete Kerala Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and preparation tips."
 category: "Jobs & Exams"
 keywords: ["Kerala Police Constable","Kerala PSC Police","Kerala Police eligibility","Kerala Constable exam","Kerala Police recruitment"]

@@ -1,5 +1,5 @@
 ---
-title: "Rashtriya Krishi Vikas Yojana (RKVY): Agriculture Development Scheme"
+title: "Rashtriya Krishi Vikas Yojana (RKVY): How to Apply"
 description: "Guide to RKVY — India's flagship agriculture development scheme with funding for farming, agri-startups, and infrastructure. Benefits & details."
 category: "Government Schemes"
 keywords:

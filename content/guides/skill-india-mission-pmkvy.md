@@ -1,5 +1,5 @@
 ---
-title: "Skill India Mission — PMKVY Skill Development Scheme (Complete Guide)"
+title: "Skill India Mission — How to Apply, Eligibility & Benefits"
 description: "Complete guide to PMKVY scheme under Skill India Mission. Eligibility, free courses, enrollment process, training centers, and certification details."
 category: "Government Schemes"
 keywords: ["PMKVY", "Skill India Mission", "Pradhan Mantri Kaushal Vikas Yojana", "skill development scheme", "free skill training", "NSDC courses"]

@@ -1,5 +1,5 @@
 ---
-title: "Banking Exam Preparation Guide — IBPS, SBI, RBI"
+title: "Banking Exam Preparation Guide — How to Apply & Benefits"
 description: "Complete banking exam preparation guide covering IBPS PO, SBI PO, RBI Grade B. Includes syllabus, booklist, strategy, and section-wise tips."
 category: "Jobs & Exams"
 keywords: ["banking exam preparation", "IBPS PO guide", "SBI PO preparation", "RBI Grade B", "bank clerk exam", "banking syllabus books"]

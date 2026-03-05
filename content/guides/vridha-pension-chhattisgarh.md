@@ -1,5 +1,5 @@
 ---
-title: Chhattisgarh Vridha Pension Yojana – Old Age Pension Eligibility and Application
+title: "Chhattisgarh Vridha Pension Yojana — How to Apply & Benefits"
 description: >-
   Guide to Chhattisgarh Vridha Pension Yojana for senior citizens. Eligibility,
   pension amount, required documents, and how to apply online and offline.

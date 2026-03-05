@@ -1,5 +1,5 @@
 ---
-title: "Telangana Dalit Bandhu Scheme — ₹10 Lakh Grant for SC Families"
+title: "Telangana Dalit Bandhu Scheme — How to Apply & Benefits"
 description: "Complete guide to Telangana Dalit Bandhu scheme. ₹10 lakh direct grant for SC families to start businesses. Eligibility and process."
 category: "State Schemes"
 keywords: ["dalit bandhu scheme", "telangana dalit bandhu", "SC scheme telangana", "dalit bandhu 10 lakh", "telangana SC grant"]

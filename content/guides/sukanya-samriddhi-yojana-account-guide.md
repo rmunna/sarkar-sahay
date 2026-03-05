@@ -1,5 +1,5 @@
 ---
-title: "Sukanya Samriddhi Yojana (SSY) — Complete Guide to Girl Child Savings Scheme"
+title: "Sukanya Samriddhi Yojana (SSY) — How to Apply & Benefits"
 description: "Complete guide to Sukanya Samriddhi Yojana. Learn about SSY interest rate 8.2%, eligibility, tax benefits under 80C, how to open account, and withdrawal rules."
 category: "Government Schemes"
 keywords:

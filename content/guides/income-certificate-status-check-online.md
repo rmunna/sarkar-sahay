@@ -1,5 +1,5 @@
 ---
-title: "Income Certificate Status Check Online — State-Wise Guide"
+title: "Income Certificate Status Check Online — How to Apply & Benefits"
 description: "Check your income certificate application status online. State-wise step-by-step guide with official portal URLs and helplines."
 category: "Certificates"
 keywords: ["income certificate status check", "income certificate status online", "income certificate tracking", "e-district income certificate", "income certificate application status", "income certificate check by application number"]

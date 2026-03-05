@@ -1,5 +1,5 @@
 ---
-title: "Guruji Student Credit Card Yojana Jharkhand: ₹15 Lakh Education Loan"
+title: "Guruji Student Credit Card Yojana Jharkhand: How to Apply"
 description: "Complete guide to Jharkhand Guruji Credit Card scheme — up to ₹15 lakh interest-free education loan. Eligibility, documents, and apply."
 category: "State Schemes"
 keywords:

@@ -1,5 +1,5 @@
 ---
-title: "UP Bhulekh — Free Khasra Khatauni Check Online (2026)"
+title: "UP Bhulekh — How to Apply, Eligibility & Benefits"
 description: "Check UP land records free on upbhulekh.gov.in. View Khasra, Khatauni & ownership by name or Gata number. Step-by-step with screenshots."
 category: "Property & Legal"
 keywords:

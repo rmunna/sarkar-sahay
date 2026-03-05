@@ -1,5 +1,5 @@
 ---
-title: Stand Up India — Loan for SC/ST & Women Entrepreneurs
+title: "Stand Up India — How to Apply, Eligibility & Benefits"
 description: >-
   Complete guide to Stand Up India loan scheme. Know eligibility, loan amount,
   interest rate, documents, how to apply on standupmitra.in for SC/ST and

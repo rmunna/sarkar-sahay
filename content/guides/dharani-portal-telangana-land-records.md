@@ -1,5 +1,5 @@
 ---
-title: Dharani Portal Telangana — Land Records & Mutation
+title: "Dharani Portal Telangana — How to Apply, Eligibility & Benefits"
 description: >-
   Check Telangana land records, download Pattadar passbook, apply for mutation &
   encumbrance certificate on Dharani portal. Step-by-step guide.

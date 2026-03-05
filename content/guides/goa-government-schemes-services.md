@@ -1,5 +1,5 @@
 ---
-title: "Goa Government Schemes and Services – Complete Guide"
+title: "Goa Government Schemes and Services — How to Apply & Benefits"
 description: "Complete guide to Goa government schemes including Griha Aadhar, Dayanand Social Security, Laadli Laxmi, Cyber Age, and welfare programs."
 category: "State Schemes"
 keywords:

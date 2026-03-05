@@ -1,5 +1,5 @@
 ---
-title: "PM Shram Yogi Maandhan (PM-SYM): Pension for Unorganised Workers"
+title: "PM Shram Yogi Maandhan (PM-SYM): How to Apply"
 description: "Complete guide to PM Shram Yogi Maandhan pension scheme. Get ₹3,000 monthly pension after 60. Check eligibility, contribution, and how to apply."
 category: "Government Schemes"
 keywords:

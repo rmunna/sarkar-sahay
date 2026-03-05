@@ -1,5 +1,5 @@
 ---
-title: 'Disability Pension, Tax Benefits & Schemes Available with UDID Card'
+title: "Disability Pension, Tax Benefits & Schemes Available with UDID Card: How to Apply"
 description: >-
   Complete guide to benefits with UDID card — disability pension, Section
   80U/80DD tax deductions, railway concessions, ADIP scheme, scholarships, and

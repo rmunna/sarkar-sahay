@@ -1,5 +1,5 @@
 ---
-title: "Assam Government Schemes and Services – Complete Guide"
+title: "Assam Government Schemes and Services — How to Apply & Benefits"
 description: "Complete guide to Assam government schemes and services including Orunodoi, Arundhati Gold Scheme, Pragyan Bharati, housing, health and more."
 category: "State Schemes"
 keywords:

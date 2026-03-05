@@ -1,5 +1,5 @@
 ---
-title: "Court Marriage in India — Complete Process, Documents, and Legal Requirements"
+title: "Court Marriage in India — How to Apply, Eligibility & Benefits"
 description: "Step-by-step guide to court marriage in India under Special Marriage Act. Learn about documents, notice period, fees, and registration process."
 category: "Property & Legal"
 keywords: ["court marriage India", "court marriage process", "Special Marriage Act", "court marriage documents", "marriage registration", "court marriage fees"]

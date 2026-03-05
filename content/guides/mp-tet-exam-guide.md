@@ -1,5 +1,5 @@
 ---
-title: "MP TET (MPTET) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "MP TET (MPTET) Exam Guide — How to Apply, Eligibility & Benefits"
 description: "Complete MPTET exam guide with eligibility, exam pattern for Primary and Middle school, syllabus, fees, and preparation tips."
 category: "Jobs & Exams"
 keywords: ["MPTET exam","MP TET eligibility","MP Teacher Eligibility Test","MPTET syllabus","MPPEB TET"]

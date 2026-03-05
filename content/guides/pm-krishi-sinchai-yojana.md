@@ -1,5 +1,5 @@
 ---
-title: PM Krishi Sinchai Yojana (PMKSY) – Irrigation Scheme for Farmers
+title: "PM Krishi Sinchai Yojana (PMKSY) — How to Apply & Benefits"
 description: Complete guide to Pradhan Mantri Krishi Sinchayee Yojana – components, eligibility, subsidy on micro-irrigation, and how to apply for drip and sprinkler systems.
 category: Government Schemes
 keywords:

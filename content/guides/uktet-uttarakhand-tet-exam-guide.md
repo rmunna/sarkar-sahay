@@ -1,5 +1,5 @@
 ---
-title: "UKTET (Uttarakhand TET) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "UKTET (Uttarakhand TET) Exam Guide — How to Apply & Benefits"
 description: "Complete UKTET exam guide covering eligibility, exam pattern for Paper 1 and Paper 2, syllabus, and preparation strategy."
 category: "Jobs & Exams"
 keywords: ["UKTET exam","Uttarakhand TET","UKTET eligibility","UKTET syllabus","Uttarakhand Teacher Eligibility"]

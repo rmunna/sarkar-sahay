@@ -1,5 +1,5 @@
 ---
-title: "Ration Card Transfer to Another State — ONORC Process"
+title: "Ration Card Transfer to Another State — How to Apply & Benefits"
 description: "How to transfer your ration card to another state using ONORC or fresh application. Step-by-step inter-state ration card transfer process explained simply."
 category: "Food & Ration"
 keywords: ["ration card transfer", "inter-state ration card", "ONORC transfer", "ration card migration", "transfer ration card another state", "One Nation One Ration Card"]

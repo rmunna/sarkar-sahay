@@ -1,5 +1,5 @@
 ---
-title: "Domicile Certificate Status Check Online — State-Wise Guide"
+title: "Domicile Certificate Status Check Online — How to Apply Online"
 description: "Check your domicile certificate application status online. Step-by-step state-wise guide with portal URLs and helpline numbers."
 category: "Certificates"
 keywords: ["domicile certificate status check", "domicile certificate status online", "residence certificate status", "domicile certificate tracking", "e-district domicile status", "domicile certificate application status"]

@@ -1,5 +1,5 @@
 ---
-title: PM Kisan Maandhan Yojana — Pension Scheme for Farmers (₹3000/Month)
+title: "PM Kisan Maandhan Yojana — How to Apply, Eligibility & Benefits"
 description: >-
   Complete guide to PM Kisan Maandhan Yojana — how to apply, eligibility,
   contribution chart, documents needed, and how farmers get ₹3000/month pension

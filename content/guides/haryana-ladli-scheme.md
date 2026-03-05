@@ -1,5 +1,5 @@
 ---
-title: "Haryana Ladli Scheme — Eligibility, Benefits, and Application Guide"
+title: "Haryana Ladli Scheme — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Haryana Ladli scheme providing financial assistance for the second girl child including eligibility and application process."
 category: "State Schemes"
 keywords: ["Haryana Ladli scheme", "Ladli Yojana Haryana", "Haryana girl child scheme", "Ladli scheme eligibility", "Haryana second daughter scheme"]

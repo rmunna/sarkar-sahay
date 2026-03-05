@@ -1,5 +1,5 @@
 ---
-title: "Andhra Pradesh Amma Vodi Scheme — Eligibility, Application, and Benefits"
+title: "Andhra Pradesh Amma Vodi Scheme — How to Apply & Benefits"
 description: "Complete guide to AP Amma Vodi scheme providing ₹15,000 annually to mothers for children's education including eligibility and application."
 category: "State Schemes"
 keywords: ["Amma Vodi scheme", "AP Amma Vodi", "Andhra Pradesh education scheme", "Amma Vodi eligibility", "Amma Vodi apply"]

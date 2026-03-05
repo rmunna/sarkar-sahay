@@ -1,5 +1,5 @@
 ---
-title: PM Employment Generation Programme (PMEGP) – Complete Guide
+title: "PM Employment Generation Programme (PMEGP) — How to Apply Online"
 description: >-
   Complete guide to PMEGP – loan subsidy up to 35%, eligibility, application
   process via Kvic portal for starting manufacturing or service businesses.

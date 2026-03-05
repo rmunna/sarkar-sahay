@@ -1,5 +1,5 @@
 ---
-title: "PM Vishwakarma Yojana Status Check — Application & Payment Status Online"
+title: "PM Vishwakarma Yojana Status Check — How to Apply & Benefits"
 description: "Check PM Vishwakarma Yojana application status online at pmvishwakarma.gov.in. Track registration, training, and loan status."
 category: "Government Schemes"
 keywords: ["pm vishwakarma yojana status check", "pmvishwakarma.gov.in status", "pm vishwakarma application status", "pm vishwakarma loan status", "vishwakarma yojana beneficiary status"]

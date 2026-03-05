@@ -1,5 +1,5 @@
 ---
-title: "Assam Pragyan Bharati Scooty Scheme – Free Scooty for Girl Students"
+title: "Assam Pragyan Bharati Scooty Scheme — How to Apply & Benefits"
 description: "Assam Pragyan Bharati scheme provides free scooties to meritorious girl students. Check eligibility criteria and how to apply."
 category: "State Schemes"
 keywords: ["Pragyan Bharati scooty scheme", "Assam free scooty scheme", "Assam girl students scooty", "Pragyan Bharati eligibility", "free scooty for girls Assam 2025", "Assam education scheme"]

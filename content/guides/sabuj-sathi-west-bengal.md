@@ -1,5 +1,5 @@
 ---
-title: "Sabuj Sathi Scheme West Bengal: Free Bicycle for Class 9-12 Students"
+title: "Sabuj Sathi Scheme West Bengal: How to Apply"
 description: "Complete guide to West Bengal Sabuj Sathi scheme — free bicycle for students in Class 9 to 12. Eligibility, documents, and application."
 category: "State Schemes"
 keywords:

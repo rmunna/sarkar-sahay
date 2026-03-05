@@ -1,5 +1,5 @@
 ---
-title: Kanya Sumangala Yojana UP
+title: "Kanya Sumangala Yojana UP: How to Apply"
 description: >-
   Apply for Kanya Sumangala Yojana online on mksy.up.gov.in. Get ₹25,000 in 6
   installments for your daughter. Full eligibility and process.

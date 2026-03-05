@@ -1,5 +1,5 @@
 ---
-title: "TN Pudhumai Penn Scholarship — Government School Girl Students"
+title: "TN Pudhumai Penn Scholarship — How to Apply & Benefits"
 description: "Complete guide to Tamil Nadu Pudhumai Penn scholarship for girls from government schools. ₹1,000/month stipend, eligibility, and process."
 category: "State Schemes"
 keywords: ["pudhumai penn scheme", "tamil nadu girl scholarship", "TN government school scholarship", "pudhumai penn apply", "moovalur ramamirtham scheme"]

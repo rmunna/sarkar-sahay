@@ -1,5 +1,5 @@
 ---
-title: Uttar Pradesh Government Schemes and Services – Complete Guide
+title: "Uttar Pradesh Government Schemes and Services — How to Apply Online"
 description: >-
   Comprehensive guide to all Uttar Pradesh government schemes and services including
   Kanya Sumangala, Shadi Anudan, UP Bhulekh, pension schemes, education,

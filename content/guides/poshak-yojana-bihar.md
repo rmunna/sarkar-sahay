@@ -1,5 +1,5 @@
 ---
-title: "Bihar Poshak Yojana: School Uniform Allowance for Class 1 to 12 Students"
+title: "Bihar Poshak Yojana: How to Apply"
 description: "Complete guide to Bihar Poshak Yojana — uniform allowance of ₹600-₹1,500 for government school students. Eligibility, amount, and process."
 category: "State Schemes"
 keywords:

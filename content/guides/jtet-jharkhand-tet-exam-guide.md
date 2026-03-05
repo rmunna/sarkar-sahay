@@ -1,5 +1,5 @@
 ---
-title: "JTET (Jharkhand TET) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "JTET (Jharkhand TET) Exam Guide — How to Apply & Benefits"
 description: "Complete Jharkhand TET exam guide covering eligibility, exam pattern, syllabus for Paper 1 and Paper 2, and preparation."
 category: "Jobs & Exams"
 keywords: ["JTET exam","Jharkhand TET","JTET eligibility","JTET syllabus","Jharkhand Teacher Eligibility Test"]

@@ -1,5 +1,5 @@
 ---
-title: "Karnataka Police Constable Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Karnataka Police Constable Exam Guide — How to Apply & Benefits"
 description: "Complete Karnataka Police Constable exam guide covering eligibility, exam pattern, syllabus, physical test, and preparation."
 category: "Jobs & Exams"
 keywords: ["Karnataka Police Constable","KSP Constable exam","Karnataka Police eligibility","KSP recruitment","Karnataka Constable syllabus"]

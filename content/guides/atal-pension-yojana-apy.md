@@ -1,5 +1,5 @@
 ---
-title: Atal Pension Yojana (APY)
+title: "Atal Pension Yojana (APY): How to Apply"
 description: >-
   Complete guide to Atal Pension Yojana (APY) — guaranteed pension of ₹1,000 to
   ₹5,000/month after age 60. Learn eligibility, contribution chart, how to

@@ -1,5 +1,5 @@
 ---
-title: Swami Atmanand Schools Chhattisgarh – Admission, Eligibility and Details
+title: "Swami Atmanand Schools Chhattisgarh — How to Apply & Benefits"
 description: >-
   Guide to Swami Atmanand English and Hindi Medium Schools in Chhattisgarh.
   Learn admission process, eligibility, registration at cgschool.in, and more.

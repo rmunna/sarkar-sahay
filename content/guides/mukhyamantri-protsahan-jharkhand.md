@@ -1,5 +1,5 @@
 ---
-title: "Mukhyamantri Protsahan Yojana Jharkhand: ₹5,000 for Unemployed Graduates"
+title: "Mukhyamantri Protsahan Yojana Jharkhand: How to Apply"
 description: "Guide to Jharkhand Mukhyamantri Protsahan Yojana — ₹5,000 one-time allowance for unemployed graduates. Eligibility, documents, and apply."
 category: "State Schemes"
 keywords:

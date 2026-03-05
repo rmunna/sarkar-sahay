@@ -1,5 +1,5 @@
 ---
-title: "MP Udyam Kranti Yojana: Loan Up to Rs 50 Lakh with Interest Subsidy"
+title: "MP Udyam Kranti Yojana: How to Apply"
 description: "Guide to Mukhyamantri Udyam Kranti Yojana MP — loans up to Rs 50 lakh with interest subsidy for youth entrepreneurs. Eligibility & apply online."
 category: "State Schemes"
 keywords:

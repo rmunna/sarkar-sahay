@@ -1,5 +1,5 @@
 ---
-title: "Bihar Daroga (SI) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Bihar Daroga (SI) Exam Guide — How to Apply & Benefits"
 description: "Complete Bihar Daroga exam guide covering eligibility, exam pattern, syllabus, physical test, and preparation tips for BPSSC."
 category: "Jobs & Exams"
 keywords: ["Bihar Daroga exam","Bihar SI Daroga","BPSSC Daroga","Bihar Daroga eligibility","Bihar Daroga syllabus"]

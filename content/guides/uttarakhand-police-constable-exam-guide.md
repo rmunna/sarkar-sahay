@@ -1,5 +1,5 @@
 ---
-title: "Uttarakhand Police Constable Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Uttarakhand Police Constable Exam Guide — How to Apply & Benefits"
 description: "Complete Uttarakhand Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and tips."
 category: "Jobs & Exams"
 keywords: ["Uttarakhand Police Constable","UK Police exam","Uttarakhand Police eligibility","UKSSSC Police","Uttarakhand Constable"]

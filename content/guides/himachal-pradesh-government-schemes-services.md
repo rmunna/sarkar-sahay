@@ -1,5 +1,5 @@
 ---
-title: "Himachal Pradesh Government Schemes and Services – Complete Guide"
+title: "Himachal Pradesh Government Schemes and Services — How to Apply Online"
 description: "Complete guide to Himachal Pradesh government schemes including Himcare, Sukh Aashray, Indira Gandhi Mahila Samman Nidhi, e-District HP and more."
 category: "State Schemes"
 keywords:

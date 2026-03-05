@@ -1,5 +1,5 @@
 ---
-title: "REET (Rajasthan Teacher Exam) Guide — Eligibility, Pattern & Preparation Tips"
+title: "REET (Rajasthan Teacher Exam) Guide — How to Apply & Benefits"
 description: "Complete REET exam guide with eligibility, exam pattern for Level 1 and Level 2, syllabus, fees, and preparation strategy."
 category: "Jobs & Exams"
 keywords: ["REET exam","Rajasthan TET","REET eligibility","REET syllabus","REET Level 1","REET Level 2"]

@@ -1,5 +1,5 @@
 ---
-title: Udyam Registration Online
+title: "Udyam Registration Online: How to Apply"
 description: >-
   Complete guide to Udyam Registration (MSME Registration) online in India.
   Learn the step-by-step process, documents required, benefits, MSME

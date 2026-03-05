@@ -1,5 +1,5 @@
 ---
-title: Beti Bachao Beti Padhao – Scheme for Girl Child Welfare
+title: "Beti Bachao Beti Padhao — How to Apply, Eligibility & Benefits"
 description: Complete guide to Beti Bachao Beti Padhao scheme – objectives, benefits, Sukanya Samriddhi Yojana link, eligibility, and how to participate in BBBP.
 category: Government Schemes
 keywords:

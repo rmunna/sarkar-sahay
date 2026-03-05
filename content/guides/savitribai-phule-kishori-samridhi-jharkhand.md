@@ -1,5 +1,5 @@
 ---
-title: "Savitribai Phule Kishori Samridhi Yojana Jharkhand: Scholarship for Girls"
+title: "Savitribai Phule Kishori Samridhi Yojana Jharkhand: How to Apply"
 description: "Guide to Jharkhand Savitribai Phule Kishori Samridhi Yojana — ₹40,000 total scholarship for girls from Class 8 to 18 years. Eligibility."
 category: "State Schemes"
 keywords:

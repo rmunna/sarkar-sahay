@@ -1,5 +1,5 @@
 ---
-title: "Home Loan Tax Benefits — Section 24, 80C, 80EEA Complete Guide"
+title: "Home Loan Tax Benefits — How to Apply, Eligibility & Benefits"
 description: "Maximize home loan tax benefits under Section 24, 80C, and 80EEA. Interest, principal deductions, joint loan benefits explained."
 category: "Tax & Finance"
 keywords: ["home loan tax benefit", "Section 24 interest deduction", "80C home loan", "80EEA first time buyer", "home loan tax saving", "joint home loan tax benefit", "housing loan income tax"]

@@ -1,5 +1,5 @@
 ---
-title: "Telangana Police Constable Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Telangana Police Constable Exam Guide — How to Apply & Benefits"
 description: "Complete Telangana Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and preparation."
 category: "Jobs & Exams"
 keywords: ["TS Police Constable","Telangana Police exam","TSLPRB Constable","TS Police eligibility","Telangana Constable syllabus"]

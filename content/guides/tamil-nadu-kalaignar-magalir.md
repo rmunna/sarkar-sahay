@@ -1,5 +1,5 @@
 ---
-title: "Tamil Nadu Kalaignar Magalir Urimai Thogai Scheme — Complete Guide"
+title: "Tamil Nadu Kalaignar Magalir Urimai Thogai Scheme: How to Apply"
 description: "Complete guide to Tamil Nadu Kalaignar Magalir Urimai Thogai scheme providing ₹1,000 monthly to women including eligibility and application."
 category: "State Schemes"
 keywords: ["Kalaignar Magalir Urimai Thogai", "Tamil Nadu women scheme", "TN ₹1000 scheme", "Tamil Nadu welfare scheme", "Magalir Urimai Thogai eligibility"]

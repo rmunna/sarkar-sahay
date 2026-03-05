@@ -1,5 +1,5 @@
 ---
-title: "NREGA Job Card Status & Payment Check Online — Step-by-Step Guide"
+title: "NREGA Job Card Status & Payment Check Online — How to Apply Online"
 description: "Check NREGA job card status and payment details online at nrega.nic.in. Find wages, muster roll, and work days by state and district."
 category: "Government Schemes"
 keywords: ["nrega job card status", "nrega payment status check", "nrega.nic.in job card", "mgnrega payment check online", "nrega job card list"]

@@ -1,5 +1,5 @@
 ---
-title: "Kerala PSC Exam Guide — Kerala Public Service Commission"
+title: "Kerala PSC Exam Guide — How to Apply, Eligibility & Benefits"
 description: "Complete Kerala PSC exam guide with eligibility, exam pattern, syllabus, application process, fees, preparation tips, and FAQs for Kerala jobs."
 category: "Jobs & Exams"
 keywords: ["Kerala PSC exam", "Kerala PSC thulasi", "Kerala government jobs", "Kerala PSC preparation", "KPSC exam guide", "Kerala PSC syllabus"]

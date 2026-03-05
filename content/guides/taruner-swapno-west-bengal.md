@@ -1,5 +1,5 @@
 ---
-title: Taruner Swapno Scheme West Bengal – Financial Aid for Class 11 Students
+title: "Taruner Swapno Scheme West Bengal — How to Apply & Benefits"
 description: >-
   Complete guide to Taruner Swapno scheme – ₹10,000 for tablet or smartphone
   purchase for Class 11 students in West Bengal government schools.

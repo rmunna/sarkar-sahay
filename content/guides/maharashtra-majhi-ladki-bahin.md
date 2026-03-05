@@ -1,5 +1,5 @@
 ---
-title: "Maharashtra Majhi Ladki Bahin Yojana — Eligibility and Application Guide"
+title: "Maharashtra Majhi Ladki Bahin Yojana — How to Apply & Benefits"
 description: "Complete guide to Maharashtra Majhi Ladki Bahin Yojana providing ₹1,500 monthly to women including eligibility, application, and benefits."
 category: "State Schemes"
 keywords: ["Majhi Ladki Bahin", "Maharashtra Ladki Bahin", "Maharashtra women scheme", "Ladki Bahin eligibility", "Ladki Bahin apply"]

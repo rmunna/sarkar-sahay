@@ -1,5 +1,5 @@
 ---
-title: "Chhattisgarh Mahtari Vandan Yojana — Eligibility, Application, and Benefits"
+title: "Chhattisgarh Mahtari Vandan Yojana — How to Apply & Benefits"
 description: "Complete guide to Chhattisgarh Mahtari Vandan Yojana providing ₹1,000 monthly to married women including eligibility and application process."
 category: "State Schemes"
 keywords: ["Mahtari Vandan Yojana", "Chhattisgarh Mahtari Vandan", "CG women scheme", "Mahtari Vandan eligibility", "Mahtari Vandan apply"]

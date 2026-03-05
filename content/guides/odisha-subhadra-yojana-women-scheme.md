@@ -1,5 +1,5 @@
 ---
-title: "Odisha Subhadra Yojana — ₹50,000 Financial Aid for Women"
+title: "Odisha Subhadra Yojana — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Odisha Subhadra Yojana — eligibility, application process, documents, ₹10,000/year for women aged 21-60. Apply at subhadra.odisha.gov.in."
 category: "State Schemes"
 keywords:

@@ -1,5 +1,5 @@
 ---
-title: Delhi Government Schemes and Services – Complete Guide
+title: "Delhi Government Schemes and Services — How to Apply & Benefits"
 description: >-
   Complete guide to Delhi government schemes and services including free electricity,
   water subsidy, Mohalla Clinics, ration card, transport, and e-District services.

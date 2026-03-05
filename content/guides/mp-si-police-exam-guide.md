@@ -1,5 +1,5 @@
 ---
-title: "MP SI (Sub-Inspector) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "MP SI (Sub-Inspector) Exam Guide — How to Apply & Benefits"
 description: "Complete MP Police Sub-Inspector exam guide covering eligibility, exam pattern, syllabus, physical test, and preparation tips."
 category: "Jobs & Exams"
 keywords: ["MP SI exam","MP Police Sub-Inspector","MPPEB SI","MP SI eligibility","MP SI syllabus"]

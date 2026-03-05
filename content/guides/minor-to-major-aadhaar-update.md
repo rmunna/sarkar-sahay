@@ -1,5 +1,5 @@
 ---
-title: "Baal Aadhaar to Adult Aadhaar — Minor to Major Aadhaar Update Guide"
+title: "Baal Aadhaar to Adult Aadhaar — How to Apply & Benefits"
 description: "Complete guide to convert Baal Aadhaar to adult Aadhaar. Mandatory biometric update process at age 5, 15, and 18 with documents and fees."
 category: "Identity Documents"
 keywords: ["baal aadhaar", "minor to major aadhaar", "aadhaar biometric update", "child aadhaar update", "mandatory biometric update", "aadhaar 18 years update"]

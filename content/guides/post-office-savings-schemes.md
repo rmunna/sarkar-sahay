@@ -1,5 +1,5 @@
 ---
-title: "Post Office Savings Schemes — Interest Rates & Tax Benefits"
+title: "Post Office Savings Schemes — How to Apply & Benefits"
 description: "Complete guide to all post office savings schemes in India — PPF, NSC, KVP, SCSS, SSY, MIS, TD, RD with interest rates, eligibility and tax benefits."
 category: "Tax & Finance"
 keywords:

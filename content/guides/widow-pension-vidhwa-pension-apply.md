@@ -1,5 +1,5 @@
 ---
-title: "Widow Pension ₹500-₹3,000/Month — State-Wise Guide"
+title: "Widow Pension ₹500-₹3,000/Month — How to Apply & Benefits"
 description: "Apply for widow pension (vidhwa pension) online. State-wise amounts ₹500-₹3,000/month, eligibility, documents & status check. All states covered."
 category: Government Schemes
 keywords:

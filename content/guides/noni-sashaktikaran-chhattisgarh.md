@@ -1,5 +1,5 @@
 ---
-title: Noni Sashaktikaran Sahayata Yojana Chhattisgarh – Girls Empowerment Guide
+title: "Noni Sashaktikaran Sahayata Yojana Chhattisgarh — How to Apply Online"
 description: >-
   Complete guide to Mukhyamantri Noni Sashaktikaran Yojana – ₹20,000 for
   unmarried girls aged 18-21 from labour families in Chhattisgarh.

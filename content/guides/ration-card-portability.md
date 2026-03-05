@@ -1,5 +1,5 @@
 ---
-title: "Ration Card Portability — Use Your Ration Card Anywhere in India"
+title: "Ration Card Portability — How to Apply, Eligibility & Benefits"
 description: "Learn how to use your ration card at any Fair Price Shop across India under the One Nation One Ration Card scheme. Step-by-step portability guide."
 slug: "ration-card-portability"
 category: "Food & Ration"

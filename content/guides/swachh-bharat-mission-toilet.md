@@ -1,5 +1,5 @@
 ---
-title: "Swachh Bharat Mission — Toilet Construction Subsidy (SBM-G) Guide"
+title: "Swachh Bharat Mission — How to Apply, Eligibility & Benefits"
 description: "Get ₹12,000 subsidy to build a toilet under Swachh Bharat Mission Gramin. Eligibility, documents, online/offline application process explained."
 category: "Government Schemes"
 keywords: ["swachh bharat mission toilet subsidy", "SBM gramin toilet", "free toilet scheme", "shauchalay yojana", "toilet construction subsidy", "IHHL application"]

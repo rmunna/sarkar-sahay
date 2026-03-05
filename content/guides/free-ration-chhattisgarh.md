@@ -1,5 +1,5 @@
 ---
-title: Chhattisgarh Free Ration Scheme – PDS and Food Security Guide
+title: "Chhattisgarh Free Ration Scheme — How to Apply & Benefits"
 description: >-
   Complete guide to Chhattisgarh free ration under NFSA and state food security
   – eligibility, ration card types, application and beneficiary list check.

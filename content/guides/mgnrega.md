@@ -1,5 +1,5 @@
 ---
-title: MGNREGA – 100 Days Employment Guarantee Scheme
+title: "MGNREGA — How to Apply, Eligibility & Benefits"
 description: Complete guide to MGNREGA – how to get a job card, demand work, check payment status, eligibility, wages, and step-by-step process for rural employment.
 category: Government Schemes
 keywords:

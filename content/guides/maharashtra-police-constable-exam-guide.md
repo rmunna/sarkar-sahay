@@ -1,5 +1,5 @@
 ---
-title: "Maharashtra Police Constable Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Maharashtra Police Constable Exam Guide — How to Apply & Benefits"
 description: "Complete Maharashtra Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and tips."
 category: "Jobs & Exams"
 keywords: ["Maharashtra Police Constable","Maha Police exam","Maharashtra Police recruitment","Maha Police eligibility","Maharashtra Constable syllabus"]

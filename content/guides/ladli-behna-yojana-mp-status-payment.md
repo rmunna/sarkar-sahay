@@ -1,5 +1,5 @@
 ---
-title: "Ladli Behna Yojana MP — Payment & Application Status Check Online"
+title: "Ladli Behna Yojana MP — How to Apply, Eligibility & Benefits"
 description: "Check Ladli Behna Yojana MP payment and application status using Samagra ID. Step-by-step portal guide with common errors and fixes."
 category: "State Schemes"
 keywords: ["ladli behna yojana status check", "ladli behna yojana mp payment status", "ladli bahna yojana samagra id", "mp ladli behna status", "ladli behna payment check"]

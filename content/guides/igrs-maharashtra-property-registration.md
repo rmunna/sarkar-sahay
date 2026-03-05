@@ -1,5 +1,5 @@
 ---
-title: "Maharashtra IGRS — Property Registration Online, Stamp Duty & e-Search"
+title: "Maharashtra IGRS — How to Apply, Eligibility & Benefits"
 description: "Complete guide to IGRS Maharashtra property registration online, stamp duty rates 2026, e-Search, Ready Reckoner & Sub-Registrar process."
 category: "Property & Legal"
 keywords:

@@ -1,5 +1,5 @@
 ---
-title: PM Awas Yojana — Gramin & Urban Subsidy Guide
+title: "PM Awas Yojana — How to Apply, Eligibility & Benefits"
 description: >-
   Complete guide to PMAY Gramin and Urban — eligibility criteria, subsidy
   calculation, beneficiary list check, application process, and rejection

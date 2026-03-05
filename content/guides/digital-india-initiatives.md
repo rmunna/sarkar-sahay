@@ -1,5 +1,5 @@
 ---
-title: "Digital India Programme — Overview of Key Initiatives and Services"
+title: "Digital India Programme — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Digital India Programme covering DigiLocker, UMANG, UPI, Aadhaar, e-Sign, GeM and other key digital government initiatives for citizens."
 slug: "digital-india-initiatives"
 category: "Government Schemes"

@@ -1,5 +1,5 @@
 ---
-title: "Digital Rupee for Ration — How CBDC-Based PDS Works (Gujarat & Puducherry Pilot)"
+title: "Digital Rupee for Ration — How to Apply, Eligibility & Benefits"
 description: "Learn how India's CBDC-based PDS uses digital rupee for ration distribution. Gujarat & Puducherry pilot details, benefits, and how it works."
 category: "Food & Ration"
 keywords: ["digital rupee ration", "CBDC PDS", "digital ration card", "digital food currency", "e-rupee ration", "CBDC food subsidy", "digital rupee PDS pilot"]

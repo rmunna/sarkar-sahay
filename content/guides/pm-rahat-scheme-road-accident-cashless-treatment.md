@@ -1,5 +1,5 @@
 ---
-title: "PM RAHAT Scheme — Free ₹1.5 Lakh Cashless Treatment for Accidents"
+title: "PM RAHAT Scheme — How to Apply, Eligibility & Benefits"
 description: >-
   PM RAHAT scheme gives free cashless treatment up to ₹1.5 lakh for road accident victims
   for 7 days. Check eligibility, hospitals, claim process.

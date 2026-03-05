@@ -1,5 +1,5 @@
 ---
-title: "PM Gati Shakti: National Master Plan for Multi-Modal Connectivity"
+title: "PM Gati Shakti: How to Apply"
 description: "Guide to PM Gati Shakti — India's Rs 100 lakh crore infrastructure master plan for integrated multi-modal connectivity and logistics."
 category: "Government Schemes"
 keywords:

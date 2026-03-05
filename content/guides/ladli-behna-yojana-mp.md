@@ -1,5 +1,5 @@
 ---
-title: Ladli Behna Yojana Madhya Pradesh – Eligibility, Application and Benefits
+title: "Ladli Behna Yojana Madhya Pradesh — How to Apply & Benefits"
 description: >-
   Complete guide to MP Ladli Behna Yojana. Learn eligibility, documents needed,
   application process, payment status check, and monthly benefit amount.

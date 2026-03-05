@@ -1,5 +1,5 @@
 ---
-title: "Online LPG Gas Cylinder Booking — Indane, HP Gas, Bharat Gas"
+title: "Online LPG Gas Cylinder Booking — How to Apply & Benefits"
 description: "Book LPG gas cylinder online for Indane, HP Gas, and Bharat Gas. Step-by-step process, missed call booking, app booking, and refill tips."
 category: "Utilities"
 keywords:

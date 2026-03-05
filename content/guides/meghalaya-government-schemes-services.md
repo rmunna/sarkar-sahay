@@ -1,5 +1,5 @@
 ---
-title: "Meghalaya Government Schemes and Services – Complete Guide"
+title: "Meghalaya Government Schemes and Services — How to Apply Online"
 description: "Complete guide to Meghalaya government schemes and services including MHIS, FOCUS portal, Solar Mission, MBDA, scholarships and more."
 category: "State Schemes"
 keywords:

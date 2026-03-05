@@ -1,5 +1,5 @@
 ---
-title: "Mukhyamantri Udyami Yojana Bihar: ₹10 Lakh Loan for Entrepreneurs"
+title: "Mukhyamantri Udyami Yojana Bihar: How to Apply"
 description: "Complete guide to Bihar Udyami Yojana — ₹10 lakh loan with ₹5 lakh subsidy for SC/ST/OBC/women entrepreneurs. Apply at udyami.bihar.gov.in."
 category: "State Schemes"
 keywords:

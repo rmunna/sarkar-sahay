@@ -1,5 +1,5 @@
 ---
-title: "TSPSC Exam Guide — Telangana State Public Service Commission"
+title: "TSPSC Exam Guide — How to Apply, Eligibility & Benefits"
 description: "Complete TSPSC exam guide covering eligibility, exam pattern, syllabus, application process, fees, and preparation tips for Telangana services."
 category: "Jobs & Exams"
 keywords: ["TSPSC exam", "Telangana PSC", "TSPSC Group 1", "TSPSC Group 2", "Telangana state services", "TSPSC preparation"]

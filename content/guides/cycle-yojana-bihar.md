@@ -1,5 +1,5 @@
 ---
-title: "Mukhyamantri Balak Balika Cycle Yojana Bihar: Free Cycle for Class 9 Students"
+title: "Mukhyamantri Balak Balika Cycle Yojana Bihar: How to Apply"
 description: "Complete guide to Bihar Cycle Yojana — ₹3,000 for purchasing a bicycle for Class 9 students. Eligibility, documents, and application process."
 category: "State Schemes"
 keywords:

@@ -1,5 +1,5 @@
 ---
-title: "Karnataka Anna Bhagya Scheme — Free Rice for BPL Families"
+title: "Karnataka Anna Bhagya Scheme — How to Apply & Benefits"
 description: "Complete guide to Karnataka Anna Bhagya scheme. Get 10 kg free rice per person monthly. Eligibility, documents, and how to apply."
 category: "State Schemes"
 keywords: ["anna bhagya scheme", "karnataka free rice", "anna bhagya card", "BPL rice karnataka", "karnataka ration scheme"]

@@ -1,5 +1,5 @@
 ---
-title: Yuva Sathi Scheme West Bengal — Application Status Check, Eligibility, Benefits
+title: "Yuva Sathi Scheme West Bengal — How to Apply & Benefits"
 description: >-
   Check your Yuva Sathi application status online, know eligibility criteria,
   ₹1,500 monthly benefit details, and required documents for West Bengal youth.

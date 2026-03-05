@@ -1,5 +1,5 @@
 ---
-title: "Manipur Government Schemes and Services – Complete Guide"
+title: "Manipur Government Schemes and Services — How to Apply & Benefits"
 description: "Explore all major Manipur government schemes including CMHT health insurance, StartUp Manipur, education, tribal welfare, and e-District services."
 category: "State Schemes"
 keywords:

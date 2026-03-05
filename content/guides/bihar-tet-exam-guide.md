@@ -1,5 +1,5 @@
 ---
-title: "Bihar TET (BTET/STET) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Bihar TET (BTET/STET) Exam Guide — How to Apply & Benefits"
 description: "Complete Bihar TET exam guide with eligibility, exam pattern for Paper 1 and Paper 2, syllabus, fees, and preparation tips."
 category: "Jobs & Exams"
 keywords: ["Bihar TET","BTET exam","Bihar STET","Bihar Teacher Eligibility","BTET syllabus","Bihar TET eligibility"]

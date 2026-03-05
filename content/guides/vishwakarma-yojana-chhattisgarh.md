@@ -1,5 +1,5 @@
 ---
-title: PM Vishwakarma Yojana in Chhattisgarh – Benefits, Eligibility and Application
+title: "PM Vishwakarma Yojana in Chhattisgarh — How to Apply & Benefits"
 description: >-
   Complete guide to PM Vishwakarma Yojana for artisans and craftspeople in
   Chhattisgarh. Toolkit grant, training, loan, and how to apply online.

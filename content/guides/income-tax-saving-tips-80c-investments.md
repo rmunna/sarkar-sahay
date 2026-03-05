@@ -1,5 +1,5 @@
 ---
-title: "Income Tax Saving Tips — Section 80C, 80D, HRA & Best Tax Saving Investments"
+title: "Income Tax Saving Tips — How to Apply, Eligibility & Benefits"
 description: "Save income tax with Section 80C, 80D, HRA, NPS deductions. Best tax-saving investments compared for FY 2025-26."
 category: "Tax & Finance"
 keywords: ["income tax saving tips", "how to save tax india", "best tax saving investments", "80C deductions list", "tax saving tips 2025-26", "section 80C investments", "HRA exemption calculation", "old vs new tax regime"]

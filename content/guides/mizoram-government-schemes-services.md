@@ -1,5 +1,5 @@
 ---
-title: "Mizoram Government Schemes and Services – Complete Guide"
+title: "Mizoram Government Schemes and Services — How to Apply & Benefits"
 description: "Complete guide to Mizoram government schemes and services including SEDP, NLUP, MIP, health care, scholarships, e-District and more."
 category: "State Schemes"
 keywords:

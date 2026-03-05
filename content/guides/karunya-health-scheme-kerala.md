@@ -1,5 +1,5 @@
 ---
-title: "Kerala Karunya Health Scheme — Free Treatment for BPL Families"
+title: "Kerala Karunya Health Scheme — How to Apply & Benefits"
 description: "Complete guide to Kerala Karunya Health Scheme. Eligibility, covered diseases, benefit amount, application process & hospital list for BPL families."
 category: "State Schemes"
 keywords: ["Karunya health scheme Kerala", "Kerala BPL health insurance", "Karunya Benevolent Fund", "കാരുണ്യ ആരോഗ്യ പദ്ധതി", "Kerala free treatment BPL", "Karunya scheme application", "Kerala lottery health fund", "Karunya scheme hospital list", "BPL health scheme Kerala 2026"]

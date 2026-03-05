@@ -1,5 +1,5 @@
 ---
-title: Andhra Pradesh Government Schemes and Services – Complete Guide
+title: "Andhra Pradesh Government Schemes and Services — How to Apply Online"
 description: >-
   Complete guide to Andhra Pradesh government schemes — education, health,
   housing, agriculture, pensions, portals, and how to apply.

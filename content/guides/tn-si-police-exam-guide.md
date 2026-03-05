@@ -1,5 +1,5 @@
 ---
-title: "Tamil Nadu SI (Sub-Inspector) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Tamil Nadu SI (Sub-Inspector) Exam Guide — How to Apply Online"
 description: "Complete Tamil Nadu Police Sub-Inspector exam guide with eligibility, exam pattern, syllabus, physical test, and tips."
 category: "Jobs & Exams"
 keywords: ["TN SI exam","Tamil Nadu SI","TNUSRB SI","TN Police SI eligibility","TN SI syllabus"]

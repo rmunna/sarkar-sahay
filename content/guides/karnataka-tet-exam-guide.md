@@ -1,5 +1,5 @@
 ---
-title: "Karnataka TET Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Karnataka TET Exam Guide — How to Apply, Eligibility & Benefits"
 description: "Complete Karnataka TET exam guide with eligibility, exam pattern for Paper 1 and Paper 2, syllabus, and preparation tips."
 category: "Jobs & Exams"
 keywords: ["Karnataka TET","KARTET exam","Karnataka Teacher Eligibility","KARTET syllabus","Karnataka TET eligibility"]

@@ -1,5 +1,5 @@
 ---
-title: "PM Awas Yojana Beneficiary List — Check Name, Status & Gramin/Urban List"
+title: "PM Awas Yojana Beneficiary List — How to Apply & Benefits"
 description: "Check your name in PM Awas Yojana beneficiary list for Gramin & Urban. Search by Aadhaar, name, or registration number online."
 category: "Government Schemes"
 keywords:

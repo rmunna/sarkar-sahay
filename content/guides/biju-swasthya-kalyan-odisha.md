@@ -1,5 +1,5 @@
 ---
-title: "Biju Swasthya Kalyan Yojana (BSKY) — Free Healthcare in Odisha"
+title: "Biju Swasthya Kalyan Yojana (BSKY) — How to Apply & Benefits"
 description: "Complete guide to Biju Swasthya Kalyan Yojana. Free treatment up to ₹10 lakh for women, eligibility, smart health card, and hospitals."
 category: "State Schemes"
 keywords: ["Biju Swasthya Kalyan Yojana", "BSKY Odisha", "Odisha health card", "free treatment Odisha", "BSKY smart health card"]

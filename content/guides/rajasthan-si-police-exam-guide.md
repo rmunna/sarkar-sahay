@@ -1,5 +1,5 @@
 ---
-title: "Rajasthan SI (Sub-Inspector) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Rajasthan SI (Sub-Inspector) Exam Guide — How to Apply & Benefits"
 description: "Complete Rajasthan Police SI exam guide covering eligibility, exam pattern, syllabus, physical test, and preparation strategy."
 category: "Jobs & Exams"
 keywords: ["Rajasthan SI exam","Rajasthan Police SI","RPSC SI","Rajasthan SI eligibility","Rajasthan SI syllabus"]

@@ -1,5 +1,5 @@
 ---
-title: Passport Police Verification
+title: "Passport Police Verification: How to Apply"
 description: >-
   Complete guide to passport police verification in India — process, timeline,
   status check online, documents needed, and how to handle delays.

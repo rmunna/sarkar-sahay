@@ -1,5 +1,5 @@
 ---
-title: Punjab Government Schemes and Services – Complete Guide
+title: "Punjab Government Schemes and Services — How to Apply & Benefits"
 description: >-
   Complete guide to Punjab government schemes — Atta Dal, Ashirwad, agriculture
   subsidies, education, health, pensions, and how to apply.

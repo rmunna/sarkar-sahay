@@ -1,5 +1,5 @@
 ---
-title: "MP Mukhyamantri Yuva Internship Yojana — Stipend, Eligibility & Application Process"
+title: "MP Mukhyamantri Yuva Internship Yojana — How to Apply & Benefits"
 description: "Complete guide to Madhya Pradesh Mukhyamantri Yuva Internship Yojana. Monthly stipend, eligibility criteria, online application, and selection process."
 category: "State Schemes"
 keywords: ["MP Yuva Internship Yojana", "Mukhyamantri Yuva Internship MP", "MP internship scheme stipend", "Madhya Pradesh youth internship", "MP internship apply online"]

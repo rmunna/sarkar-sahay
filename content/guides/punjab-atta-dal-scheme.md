@@ -1,5 +1,5 @@
 ---
-title: "Punjab Atta Dal Scheme — Subsidized Food for BPL Families, Eligibility & Application"
+title: "Punjab Atta Dal Scheme — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Punjab Atta Dal Scheme providing subsidized wheat flour and dal to BPL families. Eligibility, benefits, and how to apply."
 category: "State Schemes"
 keywords: ["punjab atta dal scheme", "atta dal scheme punjab", "punjab food subsidy", "BPL food scheme punjab", "punjab ration scheme"]

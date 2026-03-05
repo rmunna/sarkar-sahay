@@ -1,5 +1,5 @@
 ---
-title: Ayushman Bharat PMJAY – Free Health Insurance Up to ₹5 Lakh
+title: "Ayushman Bharat PMJAY — How to Apply, Eligibility & Benefits"
 description: Complete guide to Ayushman Bharat PM Jan Arogya Yojana – eligibility, Ayushman card, hospital list, covered treatments, and how to apply for PMJAY.
 category: Government Schemes
 keywords:

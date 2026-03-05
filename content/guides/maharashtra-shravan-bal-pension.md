@@ -1,5 +1,5 @@
 ---
-title: "Maharashtra Shravan Bal Seva Pension — Old Age Pension Scheme Guide"
+title: "Maharashtra Shravan Bal Seva Pension — How to Apply & Benefits"
 description: "Complete guide to Maharashtra Shravan Bal Seva Rajya Nivruttivetan Yojana. Eligibility, pension amount, documents, and application process."
 category: "State Schemes"
 keywords: ["shravan bal pension", "maharashtra old age pension", "shravan bal yojana", "maharashtra pension scheme elderly", "old age pension apply maharashtra"]

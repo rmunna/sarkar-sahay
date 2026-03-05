@@ -1,5 +1,5 @@
 ---
-title: Aikyashree Scholarship West Bengal – Minority Students Financial Aid Guide
+title: "Aikyashree Scholarship West Bengal — How to Apply & Benefits"
 description: >-
   Complete guide to Aikyashree Prakalpa scholarship – eligibility, amount,
   application process for minority students in West Bengal from Class 1 to PhD.

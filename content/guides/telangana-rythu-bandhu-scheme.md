@@ -1,5 +1,5 @@
 ---
-title: "Telangana Rythu Bandhu Scheme — Eligibility, Benefits, and Application"
+title: "Telangana Rythu Bandhu Scheme — How to Apply & Benefits"
 description: "Complete guide to Telangana Rythu Bandhu scheme providing ₹10,000 per acre per year to farmers including eligibility and application process."
 category: "State Schemes"
 keywords: ["Rythu Bandhu scheme", "Telangana Rythu Bandhu", "Telangana farmer scheme", "Rythu Bandhu eligibility", "Telangana agriculture scheme"]

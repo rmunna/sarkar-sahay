@@ -1,5 +1,5 @@
 ---
-title: 'Life Insurance — Types, Buy Online & Claim Process'
+title: "Life Insurance — How to Apply, Eligibility & Benefits"
 description: >-
   Complete guide to life insurance in India — term, endowment, ULIP, whole life
   plans, how to buy online, claim process, tax benefits under 80C & 10(10D).

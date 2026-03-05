@@ -1,5 +1,5 @@
 ---
-title: "Gujarat Mukhyamantri Yuva Swavalamban Yojana — Education Scholarship Guide"
+title: "Gujarat Mukhyamantri Yuva Swavalamban Yojana — How to Apply Online"
 description: "Complete guide to Gujarat MYSY scholarship for higher education. Eligibility, income limit, scholarship amount, and online application."
 category: "State Schemes"
 keywords: ["MYSY scholarship", "mukhyamantri yuva swavalamban yojana", "gujarat education scholarship", "MYSY apply online", "gujarat scholarship scheme"]

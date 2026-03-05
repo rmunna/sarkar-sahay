@@ -1,5 +1,5 @@
 ---
-title: "Devnarayan Scooty Scheme — Free Scooty for Backward Class Girls in Rajasthan"
+title: "Devnarayan Scooty Scheme — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Rajasthan Devnarayan Free Scooty Scheme for backward class girls. Eligibility, marks criteria, and application process."
 category: "State Schemes"
 keywords: ["devnarayan scooty scheme", "rajasthan free scooty scheme", "backward class girls scooty", "devnarayan scooty yojana", "rajasthan scooty scheme apply"]

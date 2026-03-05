@@ -1,5 +1,5 @@
 ---
-title: "WB TET Exam Guide (Primary/Upper Primary) — Eligibility, Pattern & Preparation Tips"
+title: "WB TET Exam Guide (Primary/Upper Primary) — How to Apply Online"
 description: "Complete West Bengal TET exam guide with eligibility, exam pattern, syllabus for Primary and Upper Primary, and tips."
 category: "Jobs & Exams"
 keywords: ["WB TET exam","West Bengal TET","WB Primary TET","WB Upper Primary TET","WB TET eligibility"]

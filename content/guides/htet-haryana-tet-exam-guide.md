@@ -1,5 +1,5 @@
 ---
-title: "HTET (Haryana TET) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "HTET (Haryana TET) Exam Guide — How to Apply & Benefits"
 description: "Complete HTET exam guide covering eligibility, exam pattern for Level 1, 2, and 3, syllabus, fees, and preparation tips."
 category: "Jobs & Exams"
 keywords: ["HTET exam","Haryana TET","HTET eligibility","HTET syllabus","Haryana Teacher Eligibility Test"]

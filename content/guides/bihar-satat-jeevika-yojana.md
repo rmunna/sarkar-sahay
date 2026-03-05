@@ -1,5 +1,5 @@
 ---
-title: "Bihar Satat Jeevika Yojana (JEEViKA) – Livelihood Mission Guide"
+title: "Bihar Satat Jeevika Yojana (JEEViKA) — How to Apply & Benefits"
 description: "Bihar JEEViKA livelihood mission empowers rural women through SHGs. Learn about benefits, how to join, and loan facilities."
 category: "State Schemes"
 keywords: ["Bihar JEEViKA", "Satat Jeevika Yojana", "Bihar livelihood mission", "JEEViKA SHG Bihar", "Bihar rural livelihood", "self help group Bihar", "JEEViKA scheme 2025"]

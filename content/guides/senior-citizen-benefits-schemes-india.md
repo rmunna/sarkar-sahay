@@ -1,5 +1,5 @@
 ---
-title: "Senior Citizen Benefits in India — Complete Guide for 60+ and 80+"
+title: "Senior Citizen Benefits in India — How to Apply & Benefits"
 description: "All government benefits for senior citizens in India — pension schemes, tax exemptions, bank FD rates, health insurance, and more."
 category: "Government Schemes"
 keywords: ["senior citizen benefits India", "old age pension scheme", "senior citizen tax exemption", "IGNOAPS", "senior citizen health insurance", "Vayoshreshtha Samman", "senior citizen bank FD rates"]

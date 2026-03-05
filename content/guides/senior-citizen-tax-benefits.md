@@ -1,5 +1,5 @@
 ---
-title: "Senior Citizen Tax Benefits in India — Complete Deductions and Exemptions Guide"
+title: "Senior Citizen Tax Benefits in India — How to Apply & Benefits"
 description: "All tax benefits available for senior citizens in India. Covers higher exemption limits, Section 80TTB, 80D, pension relief, and more."
 category: "Tax & Finance"
 keywords: ["senior citizen tax benefits", "tax exemption senior citizen", "80TTB deduction", "senior citizen ITR", "pension tax benefit India"]

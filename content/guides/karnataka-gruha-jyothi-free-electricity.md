@@ -1,5 +1,5 @@
 ---
-title: "Gruha Jyothi — 200 Units Free Electricity Karnataka"
+title: "Gruha Jyothi — How to Apply, Eligibility & Benefits"
 description: "Get 200 units free electricity under Karnataka Gruha Jyothi scheme. Check eligibility, apply online via Seva Sindhu & track your application."
 category: "State Schemes"
 keywords: ["Gruha Jyothi scheme", "Karnataka free electricity", "Gruha Jyothi eligibility", "Gruha Jyothi application online", "Karnataka Gruha Jyothi 2025", "free electricity Karnataka", "Seva Sindhu Gruha Jyothi"]

@@ -1,5 +1,5 @@
 ---
-title: "Gujarat Talati Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Gujarat Talati Exam Guide — How to Apply, Eligibility & Benefits"
 description: "Complete Gujarat Talati cum Mantri exam guide covering eligibility, exam pattern, syllabus, fees, and preparation strategy."
 category: "Jobs & Exams"
 keywords: ["Gujarat Talati exam","Gujarat Talati cum Mantri","GPSSB Talati","Gujarat Revenue Talati","Gujarat Talati eligibility"]

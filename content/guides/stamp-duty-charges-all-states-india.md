@@ -1,5 +1,5 @@
 ---
-title: "Stamp Duty & Registration Charges in India — State-wise Complete Guide"
+title: "Stamp Duty & Registration Charges in India — How to Apply Online"
 description: "State-wise stamp duty and registration charges in India for 2025. Rates for men, women, SC/ST concessions, and how to pay online."
 category: "Property & Legal"
 keywords: ["stamp duty charges India", "registration charges state wise", "stamp duty rates 2025", "stamp duty for women", "property registration fees India", "stamp duty calculator"]

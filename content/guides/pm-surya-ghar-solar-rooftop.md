@@ -1,5 +1,5 @@
 ---
-title: PM Surya Ghar Muft Bijli Yojana
+title: "PM Surya Ghar Muft Bijli Yojana: How to Apply"
 description: >-
   Complete guide to PM Surya Ghar Yojana 2024 — get free solar panels on your
   rooftop with government subsidy up to ₹78,000. Learn eligibility, documents,

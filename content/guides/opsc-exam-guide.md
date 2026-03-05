@@ -1,5 +1,5 @@
 ---
-title: "OPSC Exam Guide — Odisha Public Service Commission"
+title: "OPSC Exam Guide — How to Apply, Eligibility & Benefits"
 description: "Complete OPSC exam guide covering eligibility, exam pattern, syllabus, application process, fees, and preparation tips for Odisha civil services."
 category: "Jobs & Exams"
 keywords: ["OPSC exam", "Odisha PSC", "OCS exam", "Odisha civil services", "OPSC preparation", "OPSC syllabus"]

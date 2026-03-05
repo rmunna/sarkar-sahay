@@ -1,5 +1,5 @@
 ---
-title: "Maharashtra TET (MAHATET) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Maharashtra TET (MAHATET) Exam Guide — How to Apply & Benefits"
 description: "Complete Maharashtra TET exam guide with eligibility, exam pattern, syllabus for Paper 1 and Paper 2, and preparation tips."
 category: "Jobs & Exams"
 keywords: ["Maharashtra TET","MAHATET exam","Maha TET eligibility","MAHATET syllabus","Maharashtra Teacher Eligibility"]

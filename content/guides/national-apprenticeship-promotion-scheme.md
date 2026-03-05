@@ -1,5 +1,5 @@
 ---
-title: National Apprenticeship Promotion Scheme (NAPS) – Complete Guide
+title: "National Apprenticeship Promotion Scheme (NAPS) — How to Apply Online"
 description: >-
   Complete guide to NAPS – eligibility, stipend support, registration process
   for employers and apprentices on the apprenticeshipindia.gov.in portal.

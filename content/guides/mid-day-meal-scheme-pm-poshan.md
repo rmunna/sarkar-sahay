@@ -1,5 +1,5 @@
 ---
-title: "Mid-Day Meal Scheme (PM POSHAN) — Complete Guide to School Meal Program"
+title: "Mid-Day Meal Scheme (PM POSHAN) — How to Apply & Benefits"
 description: "Complete guide to PM POSHAN mid-day meal scheme covering nutritional norms, eligibility, entitlements, and how to raise complaints about meals."
 category: "Food & Ration"
 keywords: ["mid-day meal scheme", "PM POSHAN", "school meal program India", "MDM scheme", "free school lunch India"]

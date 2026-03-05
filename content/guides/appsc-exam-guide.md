@@ -1,5 +1,5 @@
 ---
-title: "APPSC Exam Guide — Andhra Pradesh Public Service Commission"
+title: "APPSC Exam Guide — How to Apply, Eligibility & Benefits"
 description: "Complete APPSC exam guide with eligibility, exam pattern, syllabus, how to apply, fees, preparation tips, and FAQs for AP state services."
 category: "Jobs & Exams"
 keywords: ["APPSC exam", "Andhra Pradesh PSC", "APPSC Group 1", "APPSC Group 2", "AP state services exam", "APPSC preparation"]

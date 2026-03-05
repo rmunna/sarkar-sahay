@@ -1,5 +1,5 @@
 ---
-title: Madhya Pradesh Government Schemes and Services – Complete Guide
+title: "Madhya Pradesh Government Schemes and Services — How to Apply Online"
 description: >-
   Comprehensive guide to all Madhya Pradesh government schemes and services
   including Ladli Bahna, Seekho Kamao, Jan Kalyan Sambal, education, health,

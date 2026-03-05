@@ -1,5 +1,5 @@
 ---
-title: "Uttarakhand Government Schemes and Services – Complete Guide"
+title: "Uttarakhand Government Schemes and Services — How to Apply Online"
 description: "Complete guide to Uttarakhand government schemes and services including Vatsalya Yojana, Apuni Sarkar portal, Atal Ayushman, and more."
 category: "State Schemes"
 keywords:

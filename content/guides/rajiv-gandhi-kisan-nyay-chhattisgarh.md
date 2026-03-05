@@ -1,5 +1,5 @@
 ---
-title: "Rajiv Gandhi Kisan Nyay Yojana Chhattisgarh — Farmer Income Support"
+title: "Rajiv Gandhi Kisan Nyay Yojana Chhattisgarh — How to Apply Online"
 description: "Complete guide to Rajiv Gandhi Kisan Nyay Yojana. Input subsidy for CG farmers, eligibility, registration on kisan.cg.nic.in, and benefits."
 category: "State Schemes"
 keywords: ["Rajiv Gandhi Kisan Nyay Yojana", "RGKNY Chhattisgarh", "CG farmer scheme", "kisan nyay yojana apply", "Chhattisgarh farmer subsidy"]

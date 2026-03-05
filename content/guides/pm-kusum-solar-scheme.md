@@ -1,5 +1,5 @@
 ---
-title: PM KUSUM Solar Scheme – Solar Energy for Farmers
+title: "PM KUSUM Solar Scheme — How to Apply, Eligibility & Benefits"
 description: Complete guide to PM KUSUM scheme – solar pump subsidy, solar power plant for farmers, eligibility, components, and how to apply for solar irrigation.
 category: Government Schemes
 keywords:

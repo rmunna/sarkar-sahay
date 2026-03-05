@@ -1,5 +1,5 @@
 ---
-title: "Stand Up India Scheme — Loan for SC, ST, and Women Entrepreneurs"
+title: "Stand Up India Scheme — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Stand Up India scheme. Learn about loan eligibility, ₹10 lakh to ₹1 crore funding, application process, and repayment terms."
 category: "Government Schemes"
 keywords: ["Stand Up India scheme", "Stand Up India loan", "SC ST business loan", "women entrepreneur loan", "Stand Up India apply"]

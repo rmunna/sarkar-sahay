@@ -1,5 +1,5 @@
 ---
-title: "DigiLocker Advanced Features — Complete Guide to Digital Document Vault"
+title: "DigiLocker Advanced Features — How to Apply & Benefits"
 description: "Complete guide to DigiLocker advanced features including document sharing, e-signing, driving licence, academic records, and API integration."
 category: "Utilities"
 keywords: ["DigiLocker features", "DigiLocker guide", "digital documents India", "DigiLocker driving licence", "DigiLocker e-sign"]

@@ -1,5 +1,5 @@
 ---
-title: Chhattisgarh Government Schemes and Services – Complete Guide
+title: "Chhattisgarh Government Schemes and Services — How to Apply Online"
 description: >-
   Complete guide to Chhattisgarh government schemes — Mahtari Vandana, Godhan
   Nyay, education, health, and welfare with eligibility and how to apply.

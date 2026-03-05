@@ -1,5 +1,5 @@
 ---
-title: "Odisha Police Constable Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Odisha Police Constable Exam Guide — How to Apply & Benefits"
 description: "Complete Odisha Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and preparation tips."
 category: "Jobs & Exams"
 keywords: ["Odisha Police Constable","Odisha Police exam","Odisha Police eligibility","Odisha Constable recruitment","Odisha Police syllabus"]

@@ -1,5 +1,5 @@
 ---
-title: "Gujarat Police Constable Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Gujarat Police Constable Exam Guide — How to Apply & Benefits"
 description: "Complete Gujarat Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and preparation tips."
 category: "Jobs & Exams"
 keywords: ["Gujarat Police Constable","Gujarat LRD exam","Gujarat Police eligibility","Gujarat Constable syllabus","LRD recruitment"]

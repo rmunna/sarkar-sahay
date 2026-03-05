@@ -1,5 +1,5 @@
 ---
-title: "Haryana Police Constable Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Haryana Police Constable Exam Guide — How to Apply & Benefits"
 description: "Complete Haryana Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and preparation tips."
 category: "Jobs & Exams"
 keywords: ["Haryana Police Constable","HSSC Police exam","Haryana Police eligibility","Haryana Constable syllabus","HSSC recruitment"]

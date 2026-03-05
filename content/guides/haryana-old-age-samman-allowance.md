@@ -1,5 +1,5 @@
 ---
-title: "Haryana Old Age Samman Allowance — Pension Scheme Eligibility & Application Guide"
+title: "Haryana Old Age Samman Allowance — How to Apply & Benefits"
 description: "Complete guide to Haryana Old Age Samman Allowance pension scheme. Eligibility, pension amount, application process, and required documents."
 category: "State Schemes"
 keywords: ["haryana old age pension", "samman allowance haryana", "haryana pension scheme", "old age pension haryana apply", "vridha pension haryana"]

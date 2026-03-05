@@ -1,5 +1,5 @@
 ---
-title: "Mission Shakti Odisha — Women's Self-Help Group Empowerment Scheme"
+title: "Mission Shakti Odisha — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Mission Shakti Odisha. SHG formation, interest-free loans, livelihood support for women with eligibility and process."
 category: "State Schemes"
 keywords: ["Mission Shakti Odisha", "Odisha women SHG scheme", "Mission Shakti loan", "women empowerment Odisha", "SHG Odisha government"]

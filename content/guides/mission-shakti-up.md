@@ -1,5 +1,5 @@
 ---
-title: Mission Shakti UP – Women Safety and Empowerment Scheme Guide
+title: "Mission Shakti UP — How to Apply, Eligibility & Benefits"
 description: >-
   Complete guide to Mission Shakti Uttar Pradesh – women safety, helpline,
   self-defence training, financial empowerment and anti-trafficking initiatives.

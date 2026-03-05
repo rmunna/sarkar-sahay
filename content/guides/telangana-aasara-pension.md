@@ -1,5 +1,5 @@
 ---
-title: "Telangana Aasara Pension Scheme — Social Security Pension"
+title: "Telangana Aasara Pension Scheme — How to Apply & Benefits"
 description: "Complete guide to Telangana Aasara pension scheme. Monthly pension for elderly, widows, disabled, and weavers. How to apply online."
 category: "State Schemes"
 keywords: ["aasara pension", "telangana pension scheme", "old age pension telangana", "widow pension telangana", "aasara pension apply"]

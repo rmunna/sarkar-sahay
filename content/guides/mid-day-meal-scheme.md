@@ -1,5 +1,5 @@
 ---
-title: "Mid-Day Meal Scheme (PM POSHAN) — Eligibility, Benefits, How It Works"
+title: "Mid-Day Meal Scheme (PM POSHAN) — How to Apply & Benefits"
 description: "Complete guide to PM POSHAN (Mid-Day Meal Scheme) for students in classes 1-8 at government schools. Check eligibility, nutrition norms, and complaints."
 slug: "mid-day-meal-scheme"
 category: "Food & Ration"

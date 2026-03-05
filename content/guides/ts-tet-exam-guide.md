@@ -1,5 +1,5 @@
 ---
-title: "TS TET (Telangana TET) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "TS TET (Telangana TET) Exam Guide — How to Apply & Benefits"
 description: "Complete TS TET exam guide covering eligibility, exam pattern for Paper 1 and Paper 2, syllabus, and preparation strategy."
 category: "Jobs & Exams"
 keywords: ["TS TET exam","Telangana TET","TSTET eligibility","TSTET syllabus","Telangana Teacher Eligibility"]

@@ -1,5 +1,5 @@
 ---
-title: "UP Pension Yojana (SSPY) — Old Age, Widow & Disabled Pension Application Guide"
+title: "UP Pension Yojana (SSPY) — How to Apply, Eligibility & Benefits"
 description: "Complete guide to UP social security pensions via SSPY portal. Old age, widow, and disabled pension eligibility, online application, and status check."
 category: "State Schemes"
 keywords: ["UP pension yojana", "SSPY UP pension", "old age pension UP", "widow pension UP", "disability pension UP", "vridha pension UP"]

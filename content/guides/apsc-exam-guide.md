@@ -1,5 +1,5 @@
 ---
-title: "APSC Exam Guide — Assam Public Service Commission"
+title: "APSC Exam Guide — How to Apply, Eligibility & Benefits"
 description: "Complete APSC exam guide covering eligibility, exam pattern, syllabus, application process, fees, and preparation tips for Assam civil services."
 category: "Jobs & Exams"
 keywords: ["APSC exam", "Assam PSC", "Assam civil services", "APSC CCE", "APSC preparation", "APSC syllabus"]

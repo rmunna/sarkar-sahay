@@ -1,5 +1,5 @@
 ---
-title: "TN Naan Mudhalvan Scheme — Skill Development & Employment"
+title: "TN Naan Mudhalvan Scheme — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Tamil Nadu Naan Mudhalvan skill development programme. Free courses, certifications, and placement support for students."
 category: "State Schemes"
 keywords: ["naan mudhalvan scheme", "tamil nadu skill development", "naan mudhalvan portal", "TN employment scheme", "naan mudhalvan courses"]

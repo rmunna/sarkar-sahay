@@ -1,5 +1,5 @@
 ---
-title: Chiranjeevi Yojana Rajasthan
+title: "Chiranjeevi Yojana Rajasthan: How to Apply"
 description: >-
   Chiranjeevi Yojana gives Rajasthan families free cashless treatment up to ₹25
   lakh/year. Registration, hospital list & claim process explained.

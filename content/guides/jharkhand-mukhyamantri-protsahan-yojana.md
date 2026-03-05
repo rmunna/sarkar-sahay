@@ -1,5 +1,5 @@
 ---
-title: "Jharkhand Mukhyamantri Protsahan Yojana — Unemployment Allowance Eligibility & Application"
+title: "Jharkhand Mukhyamantri Protsahan Yojana — How to Apply & Benefits"
 description: "Complete guide to Jharkhand Mukhyamantri Protsahan Yojana providing unemployment allowance to educated youth. Eligibility and how to apply."
 category: "State Schemes"
 keywords: ["mukhyamantri protsahan yojana", "jharkhand unemployment allowance", "jharkhand berojgari bhatta", "jharkhand youth scheme", "protsahan yojana apply"]

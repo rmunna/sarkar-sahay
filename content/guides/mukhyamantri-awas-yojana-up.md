@@ -1,5 +1,5 @@
 ---
-title: Mukhyamantri Awas Yojana UP – Housing Scheme for Rural Families
+title: "Mukhyamantri Awas Yojana UP — How to Apply & Benefits"
 description: >-
   Complete guide to UP Mukhyamantri Awas Yojana – free pucca houses for rural
   families, eligibility, application process and beneficiary list check.

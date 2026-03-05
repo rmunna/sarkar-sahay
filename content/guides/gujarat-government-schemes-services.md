@@ -1,5 +1,5 @@
 ---
-title: Gujarat Government Schemes and Services – Complete Guide
+title: "Gujarat Government Schemes and Services — How to Apply & Benefits"
 description: >-
   Comprehensive guide to all Gujarat government schemes and services including
   Vhali Dikri, Kisan Sahay, Manav Garima, Yuva Swavalamban, Mahila Utkarsh,

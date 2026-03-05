@@ -1,5 +1,5 @@
 ---
-title: "PMJJBY & PMSBY — ₹2 Lakh Insurance for Just ₹12/Year"
+title: "PMJJBY & PMSBY — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Pradhan Mantri Jeevan Jyoti Bima Yojana and Suraksha Bima Yojana. Get ₹2 lakh life and accident cover from ₹20/year."
 slug: "pmjjby-pmsby-insurance-schemes"
 category: "Government Schemes"

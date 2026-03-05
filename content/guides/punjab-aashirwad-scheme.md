@@ -1,5 +1,5 @@
 ---
-title: "Punjab Aashirwad Scheme — Eligibility, Benefits, and Application Guide"
+title: "Punjab Aashirwad Scheme — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Punjab Aashirwad scheme providing financial assistance for marriages of daughters from economically weaker families."
 category: "State Schemes"
 keywords: ["Punjab Aashirwad scheme", "Punjab marriage assistance", "Aashirwad Yojana Punjab", "Punjab daughter marriage scheme", "Shagun scheme Punjab"]

@@ -1,5 +1,5 @@
 ---
-title: "Indira Gandhi National Pension Scheme — IGNOAPS, IGNWPS, IGNDPS"
+title: "Indira Gandhi National Pension Scheme — How to Apply & Benefits"
 description: "Complete guide to Indira Gandhi Pension Schemes under NSAP — Old Age, Widow, and Disability Pension eligibility, amount, and how to apply."
 readingTime: "8 min"
 category: "Government Schemes"

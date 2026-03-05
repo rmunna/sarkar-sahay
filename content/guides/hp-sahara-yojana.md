@@ -1,5 +1,5 @@
 ---
-title: "HP Sahara Yojana — Himachal Pradesh Health Assistance Scheme"
+title: "HP Sahara Yojana — How to Apply, Eligibility & Benefits"
 description: "Get ₹3,000 per month under HP Sahara Yojana for serious diseases like cancer, paralysis, thalassemia. Eligibility and application guide."
 category: "State Schemes"
 keywords: ["HP Sahara Yojana", "Himachal Pradesh Sahara scheme", "Mukhyamantri Sahara Yojana", "HP health assistance", "Sahara Yojana application"]

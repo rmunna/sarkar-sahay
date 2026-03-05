@@ -1,5 +1,5 @@
 ---
-title: "Mukhyamantri Mahila Utkarsh Yojana Gujarat — Interest-Free Loans for Women Groups"
+title: "Mukhyamantri Mahila Utkarsh Yojana Gujarat — How to Apply Online"
 description: "Complete guide to Gujarat Mukhyamantri Mahila Utkarsh Yojana. Interest-free loans up to ₹1 lakh for women SHGs. Eligibility and application process."
 category: "State Schemes"
 keywords: ["Mukhyamantri Mahila Utkarsh Yojana", "Gujarat women loan scheme", "MMUY Gujarat", "interest free loan women Gujarat", "Gujarat mahila yojana"]

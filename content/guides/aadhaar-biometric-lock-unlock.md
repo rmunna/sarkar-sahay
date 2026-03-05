@@ -1,5 +1,5 @@
 ---
-title: Aadhaar Biometric Lock & Unlock
+title: "Aadhaar Biometric Lock & Unlock: How to Apply"
 description: >-
   Learn how to lock and unlock Aadhaar biometrics to prevent unauthorized
   authentication. Step-by-step guide for mAadhaar app and UIDAI portal.

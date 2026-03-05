@@ -1,5 +1,5 @@
 ---
-title: PM SVANidhi – Micro Loans for Street Vendors
+title: "PM SVANidhi — How to Apply, Eligibility & Benefits"
 description: Complete guide to PM SVANidhi scheme – how street vendors can get loans up to ₹50,000, eligibility, application process, interest subsidy, and repayment.
 category: Government Schemes
 keywords:

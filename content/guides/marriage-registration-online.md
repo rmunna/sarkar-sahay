@@ -1,5 +1,5 @@
 ---
-title: "Online Marriage Registration in India — Step-by-Step Guide"
+title: "Online Marriage Registration in India — How to Apply & Benefits"
 description: "Complete guide to register your marriage online in India. Documents required, state-wise process, fees, and how to get a marriage certificate."
 category: "Certificates"
 keywords: ["marriage registration online", "marriage certificate apply", "online marriage registration india", "marriage certificate documents", "register marriage"]

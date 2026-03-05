@@ -1,5 +1,5 @@
 ---
-title: "Rupashree Prakalpa West Bengal: ₹25,000 Marriage Grant for Girls"
+title: "Rupashree Prakalpa West Bengal: How to Apply"
 description: "Complete guide to West Bengal Rupashree scheme — ₹25,000 one-time marriage grant for girls from economically weaker families. Apply online."
 category: "State Schemes"
 keywords:

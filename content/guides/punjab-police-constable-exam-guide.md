@@ -1,5 +1,5 @@
 ---
-title: "Punjab Police Constable Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Punjab Police Constable Exam Guide — How to Apply & Benefits"
 description: "Complete Punjab Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and preparation tips."
 category: "Jobs & Exams"
 keywords: ["Punjab Police Constable","Punjab Police exam","Punjab Police eligibility","Punjab Constable recruitment","Punjab Police syllabus"]

@@ -1,5 +1,5 @@
 ---
-title: "Delhi Ladli Yojana ₹36,000 for Girl Child Education & Empowerment"
+title: "Delhi Ladli Yojana ₹36,000 for Girl Child Education & Empowerment: How to Apply"
 description: "Complete guide to Delhi Ladli Yojana — financial aid up to ₹36,000 for girls. Eligibility, documents, apply online & track."
 category: "State Schemes"
 keywords: ["delhi ladli yojana", "ladli scheme delhi", "delhi girl child scheme", "ladli yojana apply", "ladli yojana amount 2026", "delhi ladli scheme eligibility"]

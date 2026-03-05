@@ -1,5 +1,5 @@
 ---
-title: "Sikkim Government Schemes and Services – Complete Guide"
+title: "Sikkim Government Schemes and Services — How to Apply & Benefits"
 description: "Explore all Sikkim government schemes and services including One Family One Job, free healthcare, organic farming, scholarships, and e-District portal."
 category: "State Schemes"
 keywords:

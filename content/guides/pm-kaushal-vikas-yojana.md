@@ -1,5 +1,5 @@
 ---
-title: Pradhan Mantri Kaushal Vikas Yojana (PMKVY) – Complete Guide
+title: "Pradhan Mantri Kaushal Vikas Yojana (PMKVY) — How to Apply Online"
 description: >-
   Complete guide to PMKVY 4.0 – free skill training, eligibility, registration
   on Skill India Digital portal, certification and placement support.

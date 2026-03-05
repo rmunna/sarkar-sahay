@@ -1,5 +1,5 @@
 ---
-title: "Pradhan Mantri Suraksha Bima Yojana (PMSBY) — Accident Insurance for ₹20/Year"
+title: "Pradhan Mantri Suraksha Bima Yojana (PMSBY) — How to Apply Online"
 description: "Complete guide to PMSBY accident insurance scheme. Get ₹2 lakh accidental death cover and ₹1 lakh disability cover for just ₹20 per year."
 category: "Government Schemes"
 keywords: ["PMSBY", "Pradhan Mantri Suraksha Bima", "accident insurance scheme", "₹20 insurance", "PMSBY claim", "accidental death insurance"]

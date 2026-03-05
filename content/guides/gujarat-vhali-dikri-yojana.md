@@ -1,5 +1,5 @@
 ---
-title: "Gujarat Vhali Dikri Yojana — Financial Aid for Girl Child Education & Marriage"
+title: "Gujarat Vhali Dikri Yojana — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Gujarat Vhali Dikri Yojana. Get ₹1.10 lakh financial assistance for daughters at three life stages. Eligibility and application."
 category: "State Schemes"
 keywords: ["Vhali Dikri Yojana Gujarat", "Gujarat girl child scheme", "Vhali Dikri Yojana apply online", "Gujarat daughter scheme", "Vhali Dikri eligibility"]

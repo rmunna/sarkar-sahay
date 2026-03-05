@@ -1,5 +1,5 @@
 ---
-title: "UMANG App Complete Guide — 1600+ Government Services in One App"
+title: "UMANG App Complete Guide — How to Apply, Eligibility & Benefits"
 description: "Complete UMANG app guide covering registration, PF check, passport, gas booking, EPFO, PM-KISAN, and 1600+ government services."
 category: "Utilities"
 keywords: ["umang app guide", "umang app government services", "umang app pf check", "umang app download", "umang app registration", "umang epfo passbook"]

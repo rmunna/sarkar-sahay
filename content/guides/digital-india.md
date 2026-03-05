@@ -1,5 +1,5 @@
 ---
-title: "Digital India Programme: Key Initiatives, Benefits & Services"
+title: "Digital India Programme: How to Apply"
 description: "Guide to Digital India Programme — government's flagship initiative for digital infrastructure, e-governance, and digital literacy across India."
 category: "Government Schemes"
 keywords:

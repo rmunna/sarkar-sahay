@@ -1,5 +1,5 @@
 ---
-title: Power of Attorney in India – Types, Registration & Process
+title: "Power of Attorney in India — How to Apply, Eligibility & Benefits"
 description: >-
   Complete guide to Power of Attorney in India. Learn about types, registration
   process, documents required, stamp duty, revocation, and NRI POA rules.

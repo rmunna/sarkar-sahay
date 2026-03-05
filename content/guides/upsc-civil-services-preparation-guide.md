@@ -1,5 +1,5 @@
 ---
-title: "UPSC Civil Services Exam Preparation Guide"
+title: "UPSC Civil Services Exam Preparation Guide — How to Apply & Benefits"
 description: "Complete UPSC CSE preparation guide with booklist, strategy, timeline, and subject-wise tips for Prelims, Mains, and Interview stages."
 category: "Jobs & Exams"
 keywords: ["UPSC preparation", "IAS exam guide", "civil services strategy", "UPSC booklist", "UPSC Prelims Mains tips", "IAS preparation timeline", "UPSC result", "how to check UPSC result"]

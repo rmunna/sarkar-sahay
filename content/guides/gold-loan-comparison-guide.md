@@ -1,5 +1,5 @@
 ---
-title: Gold Loan in India – Compare Interest Rates, Eligibility & Process
+title: "Gold Loan in India — How to Apply, Eligibility & Benefits"
 description: >-
   Compare gold loan options from SBI, Muthoot, Manappuram & banks. Know interest
   rates, LTV ratio, eligibility, documents, and repayment options.

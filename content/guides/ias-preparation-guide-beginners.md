@@ -1,5 +1,5 @@
 ---
-title: "IAS Preparation Guide for Beginners 2026 — UPSC Civil Services"
+title: "IAS Preparation Guide for Beginners — How to Apply & Benefits"
 description: "Complete IAS preparation guide for beginners. Learn UPSC CSE exam pattern, syllabus, strategy, books, and tips to crack Civil Services in 2026."
 category: "Jobs & Exams"
 keywords:

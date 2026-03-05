@@ -1,5 +1,5 @@
 ---
-title: "e-Shram Card Status Check — Online by Mobile, Aadhaar & UAN Number"
+title: "e-Shram Card Status Check — How to Apply, Eligibility & Benefits"
 description: "Check your e-Shram card registration status online at eshram.gov.in. Step-by-step guide using mobile number, Aadhaar, or UAN."
 category: "Government Schemes"
 keywords: ["e-shram card status check", "e-shram card download", "eshram.gov.in status", "e-shram UAN number check", "e-shram card registration status"]

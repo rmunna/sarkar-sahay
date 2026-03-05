@@ -1,5 +1,5 @@
 ---
-title: "Karnataka Bhagyalakshmi Scheme — Girl Child Bond Scheme"
+title: "Karnataka Bhagyalakshmi Scheme — How to Apply & Benefits"
 description: "Complete guide to Karnataka Bhagyalakshmi scheme for girl children in BPL families. Benefits up to ₹1 lakh, eligibility, and application."
 category: "State Schemes"
 keywords: ["bhagyalakshmi scheme", "karnataka girl child scheme", "bhagyalakshmi bond", "girl child benefit karnataka", "BPL girl scheme"]

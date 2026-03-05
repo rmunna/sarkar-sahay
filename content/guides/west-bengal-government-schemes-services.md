@@ -1,5 +1,5 @@
 ---
-title: West Bengal Government Schemes and Services – Complete Guide
+title: "West Bengal Government Schemes and Services — How to Apply Online"
 description: >-
   Comprehensive guide to all West Bengal government schemes and services including
   Lakshmir Bhandar, Kanyashree, Swasthya Sathi, Sabuj Sathi, education,

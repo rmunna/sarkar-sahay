@@ -1,5 +1,5 @@
 ---
-title: PM YASASVI Scholarship – Complete Guide for OBC, EBC and DNT Students
+title: "PM YASASVI Scholarship — How to Apply, Eligibility & Benefits"
 description: >-
   Complete guide to PM YASASVI scholarship – eligibility, scholarship amount,
   application process, exam pattern for OBC, EBC, SC, ST and DNT students.

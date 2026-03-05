@@ -1,5 +1,5 @@
 ---
-title: "SVAMITVA Yojana: Property Cards for Rural India — How It Works"
+title: "SVAMITVA Yojana: Property Cards for Rural India — How to Apply Online"
 description: "Guide to SVAMITVA Yojana — drone survey based property cards for rural households. Benefits, eligibility, and how to get your property card."
 category: "Property & Legal"
 keywords:

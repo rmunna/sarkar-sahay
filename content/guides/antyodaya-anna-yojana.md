@@ -1,5 +1,5 @@
 ---
-title: "Antyodaya Anna Yojana — Eligibility, Benefits, and Application Guide"
+title: "Antyodaya Anna Yojana — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Antyodaya Anna Yojana providing highly subsidized food grains to poorest families including eligibility and ration card process."
 category: "Food & Ration"
 keywords: ["Antyodaya Anna Yojana", "AAY ration card", "AAY scheme", "Antyodaya eligibility", "subsidized food grains India"]

@@ -1,5 +1,5 @@
 ---
-title: "CTET and TET Guide — Teacher Eligibility Test Complete"
+title: "CTET and TET Guide — How to Apply, Eligibility & Benefits"
 description: "Complete guide to CTET and state TET exams. Learn eligibility, exam pattern, syllabus, how to apply, and preparation tips for teacher recruitment."
 category: "Jobs & Exams"
 keywords: ["CTET exam guide", "TET eligibility", "teacher eligibility test", "CTET preparation", "state TET", "STET exam", "teacher recruitment India"]

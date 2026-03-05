@@ -1,5 +1,5 @@
 ---
-title: "PM Jan Dhan Yojana — Zero-Balance Bank Account with Insurance & Overdraft"
+title: "PM Jan Dhan Yojana — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Pradhan Mantri Jan Dhan Yojana. Open a zero-balance bank account with free insurance, RuPay card, and overdraft."
 category: "Government Schemes"
 keywords: ["pm jan dhan yojana", "jan dhan account open", "zero balance bank account", "jan dhan yojana benefits", "pmjdy apply"]

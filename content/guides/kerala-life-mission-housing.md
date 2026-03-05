@@ -1,5 +1,5 @@
 ---
-title: "Kerala LIFE Mission Housing Scheme — Eligibility and Application Guide"
+title: "Kerala LIFE Mission Housing Scheme — How to Apply & Benefits"
 description: "Complete guide to Kerala LIFE Mission housing scheme providing free homes to homeless families including eligibility, application, and benefits."
 category: "State Schemes"
 keywords: ["Kerala LIFE Mission", "Kerala housing scheme", "LIFE Mission eligibility", "Kerala free housing", "Livelihood Inclusion Financial Empowerment"]

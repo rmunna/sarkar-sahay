@@ -1,5 +1,5 @@
 ---
-title: "Ration Card Types and Priority Categories — Complete Guide"
+title: "Ration Card Types and Priority Categories — How to Apply Online"
 description: "Complete guide to different types of ration cards in India including AAY, PHH, APL, BPL categories, eligibility criteria, and entitlements."
 category: "Food & Ration"
 keywords: ["ration card types India", "AAY ration card", "PHH ration card", "BPL ration card", "APL ration card", "ration card categories"]

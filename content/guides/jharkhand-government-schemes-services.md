@@ -1,5 +1,5 @@
 ---
-title: Jharkhand Government Schemes and Services – Complete Guide
+title: "Jharkhand Government Schemes and Services — How to Apply Online"
 description: >-
   Complete guide to Jharkhand government schemes — Maiyan Samman, Guruji Credit
   Card, Mukhyamantri Protsahan, health, education, and how to apply.

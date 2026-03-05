@@ -1,5 +1,5 @@
 ---
-title: "PM POSHAN Mid-Day Meal Scheme: Benefits, Eligibility, and How It Works"
+title: "PM POSHAN Mid-Day Meal Scheme: How to Apply"
 description: "Complete guide to PM POSHAN (Mid-Day Meal) scheme providing free hot meals to school children. Know eligibility, nutrition norms, and how to avail benefits."
 category: "Government Schemes"
 keywords:

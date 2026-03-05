@@ -1,5 +1,5 @@
 ---
-title: "Birth Certificate Status Check Online — Step-by-Step Guide"
+title: "Birth Certificate Status Check Online — How to Apply & Benefits"
 description: "Check your birth certificate application status online via CRSORGI portal. Track by application number, mobile, or Aadhaar."
 category: "Certificates"
 keywords: ["birth certificate status check", "birth certificate status online", "CRSORGI birth certificate", "birth certificate tracking", "birth certificate application status", "crsorgi.gov.in status"]

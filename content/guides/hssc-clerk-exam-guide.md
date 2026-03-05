@@ -1,5 +1,5 @@
 ---
-title: "HSSC Clerk Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "HSSC Clerk Exam Guide — How to Apply, Eligibility & Benefits"
 description: "Complete HSSC Clerk exam guide covering eligibility, exam pattern, syllabus, fees, and preparation tips for Haryana Clerk."
 category: "Jobs & Exams"
 keywords: ["HSSC Clerk exam","Haryana Clerk","HSSC Clerk eligibility","Haryana Clerk recruitment","HSSC Clerk syllabus"]

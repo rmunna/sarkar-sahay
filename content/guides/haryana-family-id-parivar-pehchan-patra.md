@@ -1,5 +1,5 @@
 ---
-title: "Haryana Parivar Pehchan Patra — Family ID Card Registration & Benefits Guide"
+title: "Haryana Parivar Pehchan Patra — How to Apply & Benefits"
 description: "Complete guide to Haryana Parivar Pehchan Patra (Family ID). Eligibility, registration process, documents needed, and scheme benefits explained."
 category: "State Schemes"
 keywords: ["parivar pehchan patra", "haryana family id", "meraparivar haryana", "family id card haryana", "PPP haryana registration"]

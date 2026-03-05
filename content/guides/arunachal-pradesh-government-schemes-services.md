@@ -1,5 +1,5 @@
 ---
-title: "Arunachal Pradesh Government Schemes and Services – Complete Guide"
+title: "Arunachal Pradesh Government Schemes and Services: How to Apply"
 description: "Complete guide to Arunachal Pradesh government schemes including CMAAY, Dulari Kanya, CM Vidya, tribal welfare, horticulture and e-District services."
 category: "State Schemes"
 keywords:

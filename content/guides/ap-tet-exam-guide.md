@@ -1,5 +1,5 @@
 ---
-title: "AP TET (APTET) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "AP TET (APTET) Exam Guide — How to Apply, Eligibility & Benefits"
 description: "Complete APTET exam guide covering eligibility, exam pattern for Paper 1 and Paper 2, syllabus, fees, and preparation tips."
 category: "Jobs & Exams"
 keywords: ["APTET exam","AP TET","Andhra Pradesh TET","APTET eligibility","APTET syllabus"]

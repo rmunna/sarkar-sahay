@@ -1,5 +1,5 @@
 ---
-title: "PM Kisan Status Check — Payment Status, Beneficiary List & e-KYC"
+title: "PM Kisan Status Check — How to Apply, Eligibility & Benefits"
 description: "Step-by-step guide to check PM Kisan payment status, beneficiary list (village-wise), complete e-KYC, and fix common issues like payment not received or name mismatch."
 category: "Government Schemes"
 keywords: ["PM Kisan status check", "PM Kisan beneficiary status", "PM Kisan beneficiary list", "PM Kisan eKYC", "PM Kisan payment status", "PM Kisan village wise list", "PM Kisan 19th installment", "PM Kisan Aadhaar link"]

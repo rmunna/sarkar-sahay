@@ -1,5 +1,5 @@
 ---
-title: "Rajasthan Patwari Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Rajasthan Patwari Exam Guide — How to Apply & Benefits"
 description: "Complete Rajasthan Patwari exam guide with eligibility, exam pattern, syllabus, application process, and preparation tips."
 category: "Jobs & Exams"
 keywords: ["Rajasthan Patwari exam","Raj Patwari eligibility","RSMSSB Patwari","Rajasthan Patwari syllabus","Raj Revenue Patwari"]

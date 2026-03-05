@@ -1,5 +1,5 @@
 ---
-title: "SBI Net Banking Registration & Login — Complete Step-by-Step Guide"
+title: "SBI Net Banking Registration & Login — How to Apply & Benefits"
 description: "Learn how to register for SBI Internet Banking online, login steps, password reset, and features. Complete guide for new and existing users."
 category: "Tax & Finance"
 keywords: ["SBI net banking registration", "SBI internet banking login", "SBI online banking", "onlinesbi registration", "SBI net banking password reset"]

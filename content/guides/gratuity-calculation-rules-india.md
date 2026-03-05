@@ -1,5 +1,5 @@
 ---
-title: "Gratuity in India — Calculation, Rules & Eligibility"
+title: "Gratuity in India — How to Apply, Eligibility & Benefits"
 description: "Learn gratuity calculation formula, eligibility rules, tax exemption up to ₹20 lakh, and how to claim under Payment of Gratuity Act 1972."
 category: "Tax & Finance"
 keywords: ["gratuity calculation", "gratuity formula", "payment of gratuity act 1972", "gratuity eligibility 5 years", "gratuity tax exemption", "how to claim gratuity", "gratuity for private employees", "gratuity nomination form"]

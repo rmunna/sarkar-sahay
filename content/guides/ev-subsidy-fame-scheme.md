@@ -1,5 +1,5 @@
 ---
-title: "EV Subsidy India — Save ₹10,000 to ₹1.5 Lakh (2026)"
+title: "EV Subsidy India — How to Apply, Eligibility & Benefits"
 description: "Claim electric vehicle subsidy up to ₹1.5 lakh under PM E-DRIVE & state schemes. Eligible scooters, cars, buses & how to apply. Updated 2026."
 category: "Government Schemes"
 keywords:

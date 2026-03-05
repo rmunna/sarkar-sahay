@@ -1,5 +1,5 @@
 ---
-title: Rajasthan Government Schemes and Services – Complete Guide
+title: "Rajasthan Government Schemes and Services — How to Apply Online"
 description: >-
   Guide to Rajasthan government schemes 2025 – Ayushman Arogya, Annapurna Rasoi, Lado Protsahan, Palanhar, Jan Aadhaar with eligibility and how to apply.
 category: State Schemes

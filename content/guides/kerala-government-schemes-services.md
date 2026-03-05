@@ -1,5 +1,5 @@
 ---
-title: Kerala Government Schemes and Services – Complete Guide
+title: "Kerala Government Schemes and Services — How to Apply & Benefits"
 description: >-
   Complete guide to Kerala government schemes – LIFE Mission housing, Karunya health, Snehapoorvam scholarship, pensions, K-FON and how to apply.
 category: State Schemes

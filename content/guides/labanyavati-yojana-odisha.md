@@ -1,5 +1,5 @@
 ---
-title: "Labanyavati Yojana Odisha — Women's Financial Assistance Scheme"
+title: "Labanyavati Yojana Odisha — How to Apply, Eligibility & Benefits"
 description: "Guide to Labanyavati Yojana in Odisha. Financial assistance for women, eligibility criteria, application process, and benefits explained."
 category: "State Schemes"
 keywords: ["Labanyavati Yojana Odisha", "Odisha women scheme", "Labanyavati scheme eligibility", "Odisha government women welfare", "women financial aid Odisha"]

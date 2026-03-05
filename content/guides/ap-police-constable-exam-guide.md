@@ -1,5 +1,5 @@
 ---
-title: "AP Police Constable Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "AP Police Constable Exam Guide — How to Apply & Benefits"
 description: "Complete Andhra Pradesh Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and tips."
 category: "Jobs & Exams"
 keywords: ["AP Police Constable","Andhra Pradesh Police","AP Police eligibility","APSLPRB Constable","AP Police exam"]

@@ -1,5 +1,5 @@
 ---
-title: "Punjab Mukh Mantri Sehat Yojana (MMSY) — ₹10 Lakh Free Health Insurance"
+title: "Punjab Mukh Mantri Sehat Yojana (MMSY) — How to Apply & Benefits"
 description: "Punjab Mukh Mantri Sehat Yojana gives ₹10 lakh free cashless health insurance to all 65 lakh families. Check eligibility and how to apply."
 category: "State Schemes"
 keywords:

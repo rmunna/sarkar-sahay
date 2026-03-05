@@ -1,5 +1,5 @@
 ---
-title: "Union Budget 2026-27 New Government Schemes — Complete List & Details"
+title: "Union Budget -27 New Government Schemes — How to Apply & Benefits"
 description: "Complete list of new government schemes announced in Union Budget 2026-27 by FM Nirmala Sitharaman on Feb 1, 2026. Key highlights and benefits."
 category: "Tax & Finance"
 keywords: ["union budget 2026-27", "new government schemes 2026", "budget 2026 highlights", "Bharat VISTAAR", "SHE-Marts", "budget schemes list", "nirmala sitharaman budget 2026", "government schemes india 2026"]

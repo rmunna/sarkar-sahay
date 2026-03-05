@@ -1,5 +1,5 @@
 ---
-title: PM Mudra Yojana – Business Loans Up to ₹20 Lakh Without Collateral
+title: "PM Mudra Yojana — How to Apply, Eligibility & Benefits"
 description: Complete guide to Pradhan Mantri Mudra Yojana – Shishu, Kishore, Tarun loans, eligibility, documents, interest rate, and how to apply for MUDRA loan.
 category: Government Schemes
 keywords:

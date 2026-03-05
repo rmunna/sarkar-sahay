@@ -1,5 +1,5 @@
 ---
-title: "Gujarat TET (GTET) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Gujarat TET (GTET) Exam Guide — How to Apply & Benefits"
 description: "Complete Gujarat TET exam guide with eligibility, exam pattern for TET 1 and TET 2, syllabus, fees, and preparation tips."
 category: "Jobs & Exams"
 keywords: ["Gujarat TET","GTET exam","Gujarat TET eligibility","GTET syllabus","Gujarat Teacher Eligibility"]

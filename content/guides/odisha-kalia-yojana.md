@@ -1,5 +1,5 @@
 ---
-title: "Odisha KALIA Yojana — Eligibility, Benefits, and Application Guide"
+title: "Odisha KALIA Yojana — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Odisha KALIA Yojana providing financial assistance to farmers and landless labourers including eligibility and benefits."
 category: "State Schemes"
 keywords: ["KALIA Yojana", "Odisha KALIA scheme", "Odisha farmer scheme", "KALIA eligibility", "KALIA Yojana benefits"]

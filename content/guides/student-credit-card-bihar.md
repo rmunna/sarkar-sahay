@@ -1,5 +1,5 @@
 ---
-title: Bihar Student Credit Card Scheme
+title: "Bihar Student Credit Card Scheme: How to Apply"
 description: >-
   Apply for Bihar Student Credit Card (BSCC) scheme. Get up to ₹4 lakh education
   loan at 0% interest for higher studies after 12th.

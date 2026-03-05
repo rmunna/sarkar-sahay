@@ -1,5 +1,5 @@
 ---
-title: "Abua Swasth Suraksha Yojana Jharkhand: Free Health Insurance up to ₹5 Lakh"
+title: "Abua Swasth Suraksha Yojana Jharkhand: How to Apply"
 description: "Guide to Jharkhand Abua Swasth Suraksha Yojana — free health cover up to ₹5 lakh per family. Eligibility, hospital list, and apply process."
 category: "State Schemes"
 keywords:

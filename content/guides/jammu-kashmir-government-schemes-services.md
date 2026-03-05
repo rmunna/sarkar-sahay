@@ -1,5 +1,5 @@
 ---
-title: Jammu and Kashmir Government Schemes and Services – Complete Guide
+title: "Jammu and Kashmir Government Schemes and Services: How to Apply"
 description: >-
   Complete guide to J&K government schemes and services including Mumkin, Hausla,
   Tejaswini, Himayat, SEHAT, domicile certificate, e-Services, and JKPSC exams.

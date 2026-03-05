@@ -1,5 +1,5 @@
 ---
-title: Karnataka Government Schemes and Services – Complete Guide
+title: "Karnataka Government Schemes and Services — How to Apply Online"
 description: >-
   Guide to Karnataka government schemes – Gruha Lakshmi, Anna Bhagya, Shakti,
   Gruha Jyothi, Yuva Nidhi, scholarships, health, housing with eligibility and

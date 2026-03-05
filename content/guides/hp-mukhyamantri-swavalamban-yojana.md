@@ -1,5 +1,5 @@
 ---
-title: "HP Mukhyamantri Swavalamban Yojana — Himachal Pradesh Self-Employment Scheme"
+title: "HP Mukhyamantri Swavalamban Yojana — How to Apply & Benefits"
 description: "Complete guide to HP Mukhyamantri Swavalamban Yojana. Get 25-35% subsidy on loans up to ₹60 lakh for starting your business in Himachal Pradesh."
 category: "State Schemes"
 keywords: ["hp mukhyamantri swavalamban yojana", "himachal pradesh self employment scheme", "mmsy hp", "hp business loan subsidy", "swavalamban yojana eligibility"]

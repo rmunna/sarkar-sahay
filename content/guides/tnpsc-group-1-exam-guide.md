@@ -1,5 +1,5 @@
 ---
-title: "TNPSC Group 1 Exam Guide — Eligibility, Pattern & Preparation Strategy"
+title: "TNPSC Group 1 Exam Guide — How to Apply, Eligibility & Benefits"
 description: "Complete TNPSC Group 1 exam guide with eligibility criteria, exam pattern, syllabus, how to apply, and preparation tips for Tamil Nadu aspirants."
 category: "Jobs & Exams"
 keywords: ["TNPSC Group 1", "TNPSC Group 1 exam", "Tamil Nadu PSC", "TNPSC syllabus", "TNPSC Group 1 preparation", "CCSE Group 1"]

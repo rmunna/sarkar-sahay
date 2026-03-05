@@ -1,5 +1,5 @@
 ---
-title: "Aadhaar e-Sign — Sign Documents Online in 2 Minutes"
+title: "Aadhaar e-Sign — How to Apply, Eligibility & Benefits"
 description: "Digitally sign any document using Aadhaar OTP in under 2 minutes. Free e-Sign process, approved providers list & step-by-step guide."
 slug: "e-sign-aadhaar-based"
 category: "Identity Documents"

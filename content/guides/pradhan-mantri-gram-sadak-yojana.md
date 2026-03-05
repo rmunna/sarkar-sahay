@@ -1,5 +1,5 @@
 ---
-title: "Pradhan Mantri Gram Sadak Yojana (PMGSY) — Rural Road Connectivity Scheme"
+title: "Pradhan Mantri Gram Sadak Yojana (PMGSY) — How to Apply Online"
 description: "Complete guide to PMGSY — India's rural road scheme connecting villages with all-weather roads. Phases, objectives, progress, and how to check status."
 category: "Government Schemes"
 keywords: ["PMGSY", "Pradhan Mantri Gram Sadak Yojana", "rural road scheme", "village road connectivity", "PMGSY phase 3", "rural infrastructure India"]

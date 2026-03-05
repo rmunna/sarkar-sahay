@@ -1,5 +1,5 @@
 ---
-title: "Smart Electricity Meter Installation — Process, Benefits & Status"
+title: "Smart Electricity Meter Installation — How to Apply & Benefits"
 description: "Complete guide to smart electricity meter installation in India. Learn about the process, benefits, costs, and how to check your smart meter status."
 category: "Utilities"
 keywords:

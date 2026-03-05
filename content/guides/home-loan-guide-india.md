@@ -1,5 +1,5 @@
 ---
-title: Home Loan in India – Complete Guide to Interest Rates, Eligibility & Process
+title: "Home Loan in India — How to Apply, Eligibility & Benefits"
 description: >-
   Complete home loan guide for India. Compare interest rates from SBI, HDFC, ICICI.
   Know eligibility, documents, EMI calculation, tax benefits under 80C and 24b.

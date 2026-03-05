@@ -1,5 +1,5 @@
 ---
-title: "PM Jeevan Jyoti Bima Yojana (PMJJBY) — ₹2 Lakh Life Insurance at ₹436/Year"
+title: "PM Jeevan Jyoti Bima Yojana (PMJJBY) — How to Apply & Benefits"
 description: "Complete guide to PM Jeevan Jyoti Bima Yojana. Get ₹2 lakh life insurance cover for just ₹436 per year. Eligibility and claim process."
 category: "Government Schemes"
 keywords: ["pm jeevan jyoti bima yojana", "PMJJBY scheme", "life insurance 436 rupees", "government life insurance scheme", "cheap life insurance india"]

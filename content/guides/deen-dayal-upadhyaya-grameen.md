@@ -1,5 +1,5 @@
 ---
-title: "DDU-GKY (Deen Dayal Upadhyaya Grameen Kaushalya Yojana) — Free Skill Training for Rural Youth"
+title: "DDU-GKY (Deen Dayal Upadhyaya Grameen Kaushalya Yojana): How to Apply"
 description: "Complete guide to DDU-GKY scheme. Free skill training, placement assistance, and stipend for rural youth aged 15-35. How to apply."
 category: "Government Schemes"
 keywords: ["ddu-gky scheme", "deen dayal upadhyaya grameen kaushalya yojana", "free skill training rural", "ddu gky apply online", "rural youth training scheme"]

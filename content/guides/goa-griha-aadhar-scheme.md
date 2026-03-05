@@ -1,5 +1,5 @@
 ---
-title: "Goa Griha Aadhar Scheme ₹1,500/Month for Women Homemakers"
+title: "Goa Griha Aadhar Scheme ₹1,500/Month for Women Homemakers: How to Apply"
 description: "Complete guide to Goa Griha Aadhar Scheme — ₹1,500 monthly for women homemakers. Check eligibility, documents required & apply."
 category: "State Schemes"
 keywords: ["goa griha aadhar scheme", "goa homemaker scheme", "goa women scheme", "griha aadhar 1500", "goa housewife pension", "griha aadhar apply online"]

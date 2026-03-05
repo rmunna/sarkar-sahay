@@ -1,5 +1,5 @@
 ---
-title: "Jal Jeevan Mission — Tap Water Connection Guide"
+title: "Jal Jeevan Mission — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Jal Jeevan Mission tap water connection for rural households. Eligibility, application process, and how to check status online."
 category: "Utilities"
 keywords: ["Jal Jeevan Mission", "tap water connection", "rural water supply", "Har Ghar Jal", "FHTC connection", "drinking water scheme"]

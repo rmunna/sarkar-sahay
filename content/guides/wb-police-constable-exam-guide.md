@@ -1,5 +1,5 @@
 ---
-title: "West Bengal Police Constable Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "West Bengal Police Constable Exam Guide — How to Apply & Benefits"
 description: "Complete WB Police Constable exam guide covering eligibility, exam pattern, syllabus, physical test, and preparation tips."
 category: "Jobs & Exams"
 keywords: ["WB Police Constable","West Bengal Police exam","WBP Constable eligibility","WB Police syllabus","WBP recruitment"]

@@ -1,5 +1,5 @@
 ---
-title: Tamil Nadu Government Schemes and Services – Complete Guide
+title: "Tamil Nadu Government Schemes and Services — How to Apply Online"
 description: >-
   Comprehensive guide to all Tamil Nadu government schemes and services including
   Kalaignar Magalir Urimai Thogai, Pudhumai Penn, Naan Mudhalvan, housing,

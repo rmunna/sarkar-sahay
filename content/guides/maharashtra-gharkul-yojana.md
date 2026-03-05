@@ -1,5 +1,5 @@
 ---
-title: "Maharashtra Gharkul Yojana — Rural Housing Scheme Application Guide"
+title: "Maharashtra Gharkul Yojana — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Maharashtra Gharkul Yojana for rural housing. Eligibility criteria, documents required, and step-by-step application."
 category: "State Schemes"
 keywords: ["gharkul yojana", "maharashtra rural housing scheme", "gharkul yojana apply", "ramai awas yojana", "maharashtra housing scheme BPL"]

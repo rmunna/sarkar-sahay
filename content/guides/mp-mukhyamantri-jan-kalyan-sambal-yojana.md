@@ -1,5 +1,5 @@
 ---
-title: "MP Mukhyamantri Jan Kalyan Sambal Yojana — Benefits for Unorganized Workers"
+title: "MP Mukhyamantri Jan Kalyan Sambal Yojana — How to Apply Online"
 description: "Complete guide to MP Jan Kalyan Sambal Yojana for unorganized workers. Benefits, eligibility, Sambal card registration, and claim process explained."
 category: "State Schemes"
 keywords: ["Jan Kalyan Sambal Yojana MP", "Sambal Yojana Madhya Pradesh", "MP unorganized worker scheme", "Sambal card MP", "Naya Savera Yojana MP"]

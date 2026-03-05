@@ -1,5 +1,5 @@
 ---
-title: "Maharashtra Talathi Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Maharashtra Talathi Exam Guide — How to Apply & Benefits"
 description: "Complete Maharashtra Talathi exam guide covering eligibility, exam pattern, syllabus, fees, and preparation tips for revenue."
 category: "Jobs & Exams"
 keywords: ["Maharashtra Talathi exam","Maha Talathi eligibility","Talathi Bharti","Maharashtra Revenue Talathi","Talathi exam pattern"]

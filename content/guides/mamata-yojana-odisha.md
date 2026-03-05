@@ -1,5 +1,5 @@
 ---
-title: "Mamata Yojana Odisha — Maternity Benefit Scheme for Pregnant Women"
+title: "Mamata Yojana Odisha — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Mamata Yojana Odisha. ₹5,000 maternity benefit for pregnant women with eligibility, documents, and application process."
 category: "State Schemes"
 keywords: ["Mamata Yojana Odisha", "Odisha maternity benefit", "Mamata scheme pregnant women", "maternity allowance Odisha", "Mamata Yojana apply"]

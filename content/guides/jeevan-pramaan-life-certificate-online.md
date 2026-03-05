@@ -1,5 +1,5 @@
 ---
-title: Jeevan Pramaan — Digital Life Certificate Online
+title: "Jeevan Pramaan — How to Apply, Eligibility & Benefits"
 description: >-
   Step-by-step guide to generate your Jeevan Pramaan digital life certificate
   online. Learn how pensioners can submit life certificate via app, CSC, bank,

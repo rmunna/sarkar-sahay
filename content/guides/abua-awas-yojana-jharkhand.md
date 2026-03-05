@@ -1,5 +1,5 @@
 ---
-title: "Abua Awas Yojana Jharkhand: Free Pucca House for Rural and Urban Poor"
+title: "Abua Awas Yojana Jharkhand: How to Apply"
 description: "Complete guide to Jharkhand Abua Awas Yojana — free pucca house with ₹2 lakh assistance. Eligibility, documents, and application process."
 category: "State Schemes"
 keywords:

@@ -1,5 +1,5 @@
 ---
-title: Health Insurance in India
+title: "Health Insurance in India: How to Apply"
 description: >-
   Complete guide to health insurance in India. Learn how to buy online, file
   claims, understand cashless vs reimbursement, tax benefits under 80D, and

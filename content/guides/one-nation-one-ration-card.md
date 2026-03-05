@@ -1,5 +1,5 @@
 ---
-title: "One Nation One Ration Card (ONORC) — Portable Ration Card Scheme"
+title: "One Nation One Ration Card (ONORC) — How to Apply & Benefits"
 description: "Complete guide to One Nation One Ration Card scheme. Use your ration card in any state, check eligibility, Mera Ration app, and how to get benefits."
 category: "Government Schemes"
 keywords:

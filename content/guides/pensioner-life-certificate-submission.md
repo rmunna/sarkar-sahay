@@ -1,5 +1,5 @@
 ---
-title: Pensioner Life Certificate Submission
+title: "Pensioner Life Certificate Submission: How to Apply"
 description: >-
   Complete guide to submitting pensioner life certificate via Jeevan Pramaan,
   face authentication, bank branch, or India Post. Know deadlines and avoid...

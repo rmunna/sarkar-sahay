@@ -1,5 +1,5 @@
 ---
-title: "Chhattisgarh Police Constable Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Chhattisgarh Police Constable Exam Guide — How to Apply Online"
 description: "Complete CG Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and preparation strategy."
 category: "Jobs & Exams"
 keywords: ["CG Police Constable","Chhattisgarh Police exam","CG Police eligibility","CG Constable recruitment","CG Police syllabus"]

@@ -1,5 +1,5 @@
 ---
-title: "Godhan Nyay Yojana Chhattisgarh — Cow Dung Purchase Scheme for Farmers"
+title: "Godhan Nyay Yojana Chhattisgarh — How to Apply & Benefits"
 description: "Complete guide to Godhan Nyay Yojana Chhattisgarh. Government buys cow dung at ₹2/kg from farmers. Eligibility, registration, and benefits."
 category: "State Schemes"
 keywords: ["Godhan Nyay Yojana", "Chhattisgarh cow dung scheme", "Godhan Nyay registration", "CG cattle farmer scheme", "cow dung purchase Chhattisgarh"]

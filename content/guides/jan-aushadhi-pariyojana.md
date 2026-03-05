@@ -1,5 +1,5 @@
 ---
-title: Jan Aushadhi Pariyojana – Affordable Generic Medicines Scheme
+title: "Jan Aushadhi Pariyojana — How to Apply, Eligibility & Benefits"
 description: Complete guide to Pradhan Mantri Bhartiya Janaushadhi Pariyojana – how to buy cheap medicines, find nearest Jan Aushadhi store, and open your own store.
 category: Government Schemes
 keywords:

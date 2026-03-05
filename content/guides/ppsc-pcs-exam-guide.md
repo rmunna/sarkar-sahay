@@ -1,5 +1,5 @@
 ---
-title: "Punjab PCS Exam Guide — Punjab Public Service Commission (PPSC)"
+title: "Punjab PCS Exam Guide — How to Apply, Eligibility & Benefits"
 description: "Complete Punjab PCS exam guide with eligibility, exam pattern, syllabus, application process, fees, and preparation tips for Punjab civil services."
 category: "Jobs & Exams"
 keywords: ["PPSC exam", "Punjab PCS", "Punjab civil services", "PPSC preparation", "Punjab PSC exam guide", "PPSC syllabus"]

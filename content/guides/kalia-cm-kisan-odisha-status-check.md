@@ -1,5 +1,5 @@
 ---
-title: "Odisha CM-KISAN (KALIA) Status Check — Payment & Beneficiary Status Online"
+title: "Odisha CM-KISAN (KALIA) Status Check — How to Apply & Benefits"
 description: "Check Odisha CM-KISAN (formerly KALIA) payment and beneficiary status online. Step-by-step guide with portal link, errors, and fixes."
 category: "State Schemes"
 keywords: ["cm kisan odisha status check", "kalia yojana status", "odisha cm kisan payment", "kalia beneficiary list odisha", "cm kisan portal odisha"]

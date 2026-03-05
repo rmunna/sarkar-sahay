@@ -1,5 +1,5 @@
 ---
-title: "TNPSC Group 4 Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "TNPSC Group 4 Exam Guide — How to Apply, Eligibility & Benefits"
 description: "Complete TNPSC Group 4 exam guide covering eligibility, exam pattern, syllabus, fees, and preparation tips for Tamil Nadu jobs."
 category: "Jobs & Exams"
 keywords: ["TNPSC Group 4","TNPSC Group 4 exam","TNPSC Group 4 eligibility","TNPSC Group 4 syllabus","Tamil Nadu Group 4"]

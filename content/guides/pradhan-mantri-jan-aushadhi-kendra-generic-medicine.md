@@ -1,5 +1,5 @@
 ---
-title: "Jan Aushadhi Kendra — Buy Generic Medicines at 50-90% Discount"
+title: "Jan Aushadhi Kendra — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Pradhan Mantri Jan Aushadhi Kendra — find stores, medicine list, price comparison, and how to open a franchise."
 category: "Government Schemes"
 keywords: ["Jan Aushadhi Kendra", "generic medicine India", "cheap medicine store", "PMBJP", "Jan Aushadhi franchise", "generic vs branded medicine", "Jan Aushadhi near me"]

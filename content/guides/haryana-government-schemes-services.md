@@ -1,5 +1,5 @@
 ---
-title: "Haryana Government Schemes and Services – Complete Guide"
+title: "Haryana Government Schemes and Services — How to Apply & Benefits"
 description: "Complete guide to Haryana government schemes and services including Parivar Pehchan Patra, Saral portal, welfare yojanas, and how to apply."
 category: "State Schemes"
 keywords:

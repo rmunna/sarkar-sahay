@@ -1,5 +1,5 @@
 ---
-title: Stand Up India Scheme – Loans for SC, ST and Women Entrepreneurs
+title: "Stand Up India Scheme — How to Apply, Eligibility & Benefits"
 description: >-
   Complete guide to Stand Up India – bank loans from ₹10 lakh to ₹1 crore for
   SC, ST and women entrepreneurs. Eligibility, process and documents required.

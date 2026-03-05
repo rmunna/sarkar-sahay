@@ -1,5 +1,5 @@
 ---
-title: Senior Citizen Savings Scheme (SCSS)
+title: "Senior Citizen Savings Scheme (SCSS): How to Apply"
 description: >-
   Complete guide to SCSS for senior citizens in India. Learn about eligibility,
   current interest rate (8.2% p.a.), how to open an account, tax benefits

@@ -1,5 +1,5 @@
 ---
-title: "West Bengal Lakshmir Bhandar Scheme — Eligibility, Application, and Benefits"
+title: "West Bengal Lakshmir Bhandar Scheme — How to Apply & Benefits"
 description: "Complete guide to West Bengal Lakshmir Bhandar scheme providing monthly income support to women including eligibility and application process."
 category: "State Schemes"
 keywords: ["Lakshmir Bhandar scheme", "West Bengal Lakshmir Bhandar", "Bengal women scheme", "Lakshmir Bhandar eligibility", "WB Lakshmir Bhandar apply"]

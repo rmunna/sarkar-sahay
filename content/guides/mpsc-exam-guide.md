@@ -1,5 +1,5 @@
 ---
-title: "MPSC (Maharashtra PSC) Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "MPSC (Maharashtra PSC) Exam Guide — How to Apply & Benefits"
 description: "Complete MPSC exam guide covering eligibility, exam pattern, syllabus, application process, fees, and preparation strategy."
 category: "Jobs & Exams"
 keywords: ["MPSC exam","Maharashtra PSC","MPSC eligibility","MPSC syllabus","MPSC exam pattern","Maharashtra Civil Service"]

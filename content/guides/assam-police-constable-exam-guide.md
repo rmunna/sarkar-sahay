@@ -1,5 +1,5 @@
 ---
-title: "Assam Police Constable Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Assam Police Constable Exam Guide — How to Apply & Benefits"
 description: "Complete Assam Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and preparation tips."
 category: "Jobs & Exams"
 keywords: ["Assam Police Constable","Assam Police exam","SLPRB Assam","Assam Police eligibility","Assam Constable recruitment"]

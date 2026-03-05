@@ -1,5 +1,5 @@
 ---
-title: "UP Free Laptop/Tablet Yojana — Eligibility, Application Process & Status Check"
+title: "UP Free Laptop/Tablet Yojana — How to Apply & Benefits"
 description: "Complete guide to UP Free Laptop and Tablet Yojana. Check eligibility criteria, application process, beneficiary list, and distribution details."
 category: "State Schemes"
 keywords: ["UP free laptop yojana", "UP free tablet scheme", "UP laptop tablet yojana 2025", "UP free laptop eligibility", "Yogi laptop scheme UP"]

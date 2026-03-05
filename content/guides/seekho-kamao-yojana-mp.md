@@ -1,5 +1,5 @@
 ---
-title: "MP Mukhyamantri Seekho Kamao Yojana — Stipend for Youth Training"
+title: "MP Mukhyamantri Seekho Kamao Yojana — How to Apply & Benefits"
 description: "Complete guide to MP Seekho Kamao Yojana: ₹8,000-10,000/month stipend for youth training. Eligibility, registration, and how to apply."
 category: "State Schemes"
 keywords: ["seekho kamao yojana", "सीखो कमाओ योजना", "mukhyamantri seekho kamao yojana", "MP youth training scheme", "seekho kamao registration", "MMSKY", "madhya pradesh stipend scheme", "seekho kamao yojana eligibility"]

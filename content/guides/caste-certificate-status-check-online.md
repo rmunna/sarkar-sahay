@@ -1,5 +1,5 @@
 ---
-title: "Caste Certificate Status Check Online — State-Wise Guide"
+title: "Caste Certificate Status Check Online — How to Apply & Benefits"
 description: "Check your caste certificate application status online. State-wise step-by-step guide with portals for major Indian states."
 category: "Certificates"
 keywords: ["caste certificate status check", "caste certificate status online", "OBC SC ST certificate status", "caste certificate tracking", "e-district caste certificate", "caste certificate application status"]

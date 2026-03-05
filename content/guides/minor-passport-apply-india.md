@@ -1,5 +1,5 @@
 ---
-title: "Minor Passport Application in India — Documents, Process, and Guidelines"
+title: "Minor Passport Application in India — How to Apply & Benefits"
 description: "Complete guide to applying for a passport for minors in India covering documents required, online process, fees, and special situations."
 category: "Identity Documents"
 keywords: ["minor passport India", "child passport apply", "passport for children", "minor passport documents", "baby passport India"]

@@ -1,5 +1,5 @@
 ---
-title: "Ujala Scheme — LED Bulbs at Subsidized Price"
+title: "Ujala Scheme — How to Apply, Eligibility & Benefits"
 description: "Complete guide to UJALA scheme for subsidized LED bulbs and tube lights. How to buy, eligibility, price, distribution centres, and energy savings."
 category: "Utilities"
 keywords: ["UJALA scheme", "LED bulbs subsidy", "subsidized LED lights", "EESL LED", "government LED bulbs", "Unnat Jyoti by Affordable LEDs"]

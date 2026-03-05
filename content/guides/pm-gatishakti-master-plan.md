@@ -1,5 +1,5 @@
 ---
-title: "PM GatiShakti Master Plan — National Infrastructure and Logistics Overview"
+title: "PM GatiShakti Master Plan — How to Apply, Eligibility & Benefits"
 description: "Complete guide to PM GatiShakti National Master Plan. Learn about integrated infrastructure planning, key projects, and benefits for businesses."
 category: "Government Schemes"
 keywords: ["PM GatiShakti", "GatiShakti master plan", "national infrastructure plan", "logistics India", "multi-modal connectivity", "GatiShakti portal"]

@@ -1,5 +1,5 @@
 ---
-title: "Property Registration Status Check Online — State-Wise Guide"
+title: "Property Registration Status Check Online — How to Apply Online"
 description: "Check your property or land registration status online. Step-by-step guide for Maharashtra, Karnataka, UP, Tamil Nadu & Telangana."
 category: "Property & Legal"
 keywords: ["property registration status check", "land registration status online", "IGR Maharashtra status", "Kaveri Karnataka property", "property registration tracking", "land registry status check India"]

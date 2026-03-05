@@ -1,5 +1,5 @@
 ---
-title: PM Awas Yojana Urban (PMAY-U 2.0) – Urban Housing Scheme
+title: "PM Awas Yojana Urban (PMAY-U 2.0) — How to Apply & Benefits"
 description: Complete guide to PMAY Urban 2.0 – eligibility, subsidy amount, income categories, how to apply online, and check application status for urban housing.
 category: Government Schemes
 keywords:

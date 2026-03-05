@@ -1,5 +1,5 @@
 ---
-title: Startup India – Registration, Benefits and DPIIT Recognition Guide
+title: "Startup India — How to Apply, Eligibility & Benefits"
 description: >-
   Complete guide to Startup India – DPIIT recognition, tax exemption, funding
   support, registration process on startupindia.gov.in for entrepreneurs.

@@ -1,5 +1,5 @@
 ---
-title: "Assam TET Exam Guide — Eligibility, Pattern & Preparation Tips"
+title: "Assam TET Exam Guide — How to Apply, Eligibility & Benefits"
 description: "Complete Assam TET exam guide covering eligibility, exam pattern for Lower and Upper Primary, syllabus, and preparation."
 category: "Jobs & Exams"
 keywords: ["Assam TET exam","Assam TET eligibility","Assam Teacher Eligibility","Assam TET syllabus","Assam LP UP TET"]

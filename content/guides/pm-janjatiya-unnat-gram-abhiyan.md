@@ -1,5 +1,5 @@
 ---
-title: "PM Janjatiya Unnat Gram Abhiyan: Tribal Village Development Scheme"
+title: "PM Janjatiya Unnat Gram Abhiyan: How to Apply"
 description: "Guide to PM Janjatiya Unnat Gram Abhiyan — comprehensive tribal village development covering 63,000+ villages. Benefits, eligibility & details."
 category: "Government Schemes"
 keywords:

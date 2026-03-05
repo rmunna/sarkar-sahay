@@ -1,5 +1,5 @@
 ---
-title: "Karnataka Vidyasiri Scholarship — Backward Class Students"
+title: "Karnataka Vidyasiri Scholarship — How to Apply & Benefits"
 description: "Complete guide to Karnataka Vidyasiri scholarship for OBC, SC, ST students. Eligibility, stipend amounts, application process explained."
 category: "State Schemes"
 keywords: ["vidyasiri scholarship", "karnataka backward class scholarship", "OBC scholarship karnataka", "vidyasiri hostel scholarship", "karnataka SC ST scholarship"]

@@ -1,5 +1,5 @@
 ---
-title: "Government Job Reservation Rules in India — Category-wise Complete Guide"
+title: "Government Job Reservation Rules in India — How to Apply Online"
 description: "Complete guide to reservation in government jobs — SC, ST, OBC, EWS, PwD percentages, age relaxation, creamy layer, and latest rules."
 category: "Jobs & Exams"
 keywords: ["government job reservation India", "SC ST OBC reservation percentage", "EWS reservation", "PwD reservation government jobs", "age relaxation government jobs", "creamy layer limit OBC", "reservation in promotion"]

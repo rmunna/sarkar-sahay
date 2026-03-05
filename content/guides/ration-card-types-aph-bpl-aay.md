@@ -1,5 +1,5 @@
 ---
-title: "Ration Card Types Explained — APL, BPL, AAY & PHH Cards in India"
+title: "Ration Card Types Explained — How to Apply & Benefits"
 description: "Learn about ration card types in India — APL, BPL, AAY & PHH. Know eligibility, entitlements, documents needed & how to apply online or offline."
 keywords:
   - "ration card types in India"

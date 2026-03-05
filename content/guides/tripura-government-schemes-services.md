@@ -1,5 +1,5 @@
 ---
-title: "Tripura Government Schemes and Services – Complete Guide"
+title: "Tripura Government Schemes and Services — How to Apply & Benefits"
 description: "Complete guide to Tripura government schemes including Yuba Yogayog Yojana, Balika Samriddhi, tribal welfare, e-District services and more."
 category: "State Schemes"
 keywords:

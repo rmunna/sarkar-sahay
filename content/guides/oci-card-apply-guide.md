@@ -1,5 +1,5 @@
 ---
-title: "OCI Card Application Guide — Eligibility, Documents, and Process"
+title: "OCI Card Application Guide — How to Apply, Eligibility & Benefits"
 description: "Complete guide to applying for OCI card including eligibility criteria, documents required, fees, processing time, and step-by-step process."
 category: "Identity Documents"
 keywords: ["OCI card apply", "Overseas Citizen of India", "OCI eligibility", "OCI card documents", "OCI application process"]

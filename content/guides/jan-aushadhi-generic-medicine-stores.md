@@ -1,5 +1,5 @@
 ---
-title: "Jan Aushadhi Stores — Find Affordable Generic Medicines Near You in India"
+title: "Jan Aushadhi Stores — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Pradhan Mantri Jan Aushadhi Kendras. Find nearby stores, check medicine prices, and save up to 90% on quality generic drugs."
 category: "Government Schemes"
 keywords: ["Jan Aushadhi", "generic medicine stores", "PMBJP", "Jan Aushadhi Kendra", "affordable medicines India", "generic drugs India", "Pradhan Mantri Bhartiya Janaushadhi Pariyojana"]

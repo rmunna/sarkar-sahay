@@ -1,5 +1,5 @@
 ---
-title: "Gujarat Kisan Sahay Yojana — Eligibility, Benefits, and Application Guide"
+title: "Gujarat Kisan Sahay Yojana — How to Apply, Eligibility & Benefits"
 description: "Complete guide to Gujarat Mukhyamantri Kisan Sahay Yojana providing crop insurance and financial help to farmers for natural calamities."
 category: "State Schemes"
 keywords: ["Gujarat Kisan Sahay Yojana", "Gujarat farmer scheme", "crop insurance Gujarat", "Kisan Sahay eligibility", "Gujarat agriculture scheme"]

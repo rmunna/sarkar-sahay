@@ -1,5 +1,5 @@
 ---
-title: PM Awas Yojana Gramin (PMAY-G) – Rural Housing Scheme
+title: "PM Awas Yojana Gramin (PMAY-G) — How to Apply & Benefits"
 description: Complete guide to PMAY Gramin – eligibility, financial assistance amount, how to apply, beneficiary selection, and check your name in the PMAY-G list.
 category: Government Schemes
 keywords:
