@@ -1,6 +1,6 @@
 ---
-title: "Aadhaar Biometric Not Matching? Fix Face & Fingerprint"
-description: "Face authentication unsuccessful or biometric data did not match? Fix Aadhaar fingerprint, iris & face verification errors at bank or SIM. Try these fixes."
+title: "Aadhaar Biometric Failed? Fix Fingerprint & Face Match"
+description: "Aadhaar biometric not matching at bank or SIM? Fix fingerprint, iris & face authentication errors. Step-by-step solutions that actually work. Fix it now."
 category: "Identity Documents"
 keywords:
   - aadhaar biometric verification failed

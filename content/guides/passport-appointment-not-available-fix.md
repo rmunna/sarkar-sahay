@@ -1,7 +1,6 @@
 ---
-title: "Passport Appointment Not Available: How to Fix"
-description: >-
-  Complete guide to fix passport appointment unavailability. Get appointment slots at Passport Seva Kendra when all dates show full, with tips and alternative methods.
+title: "Passport Appointment Not Available? Fix It (2026)"
+description: "All passport appointment slots full? Get PSK booking when dates show unavailable. Working tricks, best timing tips & alternative methods. Fix it now."
 category: "Identity Documents"
 keywords:
   - passport appointment not available

@@ -1,206 +1,160 @@
 ---
-title: "DigiLocker Document Not Showing: How to Fix"
-description: >-
-  Fix DigiLocker issues when documents are not showing, fetching fails, or certificates are missing. Troubleshoot Aadhaar-linked document retrieval, issuer errors, and DigiLocker app problems.
+title: "DigiLocker Document Not Showing? Fix It (2026)"
+description: "DigiLocker document not showing or missing? Learn how to fix issued certificates not appearing, pull from issuer, and fetch CBSE or university docs."
 category: "Identity Documents"
-keywords:
-  - digilocker document not showing
-  - digilocker document fetch failed
-  - digilocker certificate not available
-  - digilocker driving licence not showing
-  - digilocker marksheet not showing
-  - digilocker aadhaar not linked
-  - digilocker error
-  - digilocker issued documents empty
-  - digilocker fix
-  - digilocker document not found
-readingTime: 8 min
+keywords: ["digilocker document not showing", "digilocker certificate missing", "digilocker issued document not appearing", "digilocker CBSE marksheet", "digilocker pull document", "fetch document digilocker"]
+readingTime: "8 min"
+lastUpdated: "2026-03-05"
 officialLinks:
-  - "https://www.digilocker.gov.in/"
-  - "https://digilocker.gov.in/about-us/contact-us"
-  - "https://partners.digilocker.gov.in/issuer_list.php"
+  - https://www.digilocker.gov.in
+  - https://partners.digilocker.gov.in
+  - https://cbse.gov.in
 ---
 
-# DigiLocker Document Not Showing: How to Fix
+## Why Is Your DigiLocker Document Not Showing?
 
-DigiLocker is the Indian government's digital document storage platform linked to your Aadhaar. It lets you access driving licences, vehicle registration, marksheets, PAN, Aadhaar, and other government documents digitally. When documents fail to appear or fetch correctly, it can be frustrating — especially when you need them urgently. This guide covers all reasons and fixes.
+DigiLocker is India's official cloud-based document storage platform by the Ministry of Electronics & IT (MeitY). It lets you access government-issued documents digitally. However, many users face the issue of **documents not appearing** in their DigiLocker account — even after they've been issued.
 
-## Common Symptoms
+This guide explains **why your document is missing** and **how to fix it** so you can access your certificates, marksheets, driving licence, and other documents on DigiLocker.
 
-- **Issued Documents section is empty** — no documents appear despite having valid government IDs
-- **"Document not found" error** when searching for a specific document
-- **"Unable to fetch document from issuer"** — issuer server error
-- **Driving licence or vehicle RC not showing** after searching
-- **Marksheet/degree certificate missing** from education section
-- **Document shows "Processing"** indefinitely
-- **"Aadhaar not linked with issuer"** error
-- **App crashes or hangs** when loading documents
-- Documents visible on website but not on app (or vice versa)
+## Common Reasons Documents Don't Show Up
 
----
+### 1. Document Not Yet Pushed by Issuer
 
-## Why Documents Don't Show in DigiLocker
+Most documents appear in DigiLocker only when the **issuing authority pushes them** to the DigiLocker system. If your school, university, or government department hasn't uploaded the document, it won't show up.
 
-### 1. Aadhaar Not Linked with the Issuing Authority
+- **CBSE marksheets:** Usually available after results are declared. Check after 2-4 weeks of result publication.
+- **University degrees:** Only available if your university is a DigiLocker partner. Check the [partner list](https://partners.digilocker.gov.in).
+- **Driving Licence:** Depends on your state RTO's integration with DigiLocker via Parivahan.
 
-DigiLocker fetches documents using your Aadhaar number. If the issuing authority (e.g., RTO for driving licence, university for marksheets) does not have your Aadhaar on file, the document cannot be retrieved.
+### 2. Aadhaar Details Mismatch
 
-### 2. Issuer Has Not Digitized the Document
+DigiLocker links documents using your **Aadhaar number**. If the name, date of birth, or Aadhaar number on the issued document doesn't match your DigiLocker (Aadhaar-linked) profile, the document won't appear.
 
-Not all government departments have uploaded their records to DigiLocker. Older documents, records from smaller offices, or documents from states that haven't integrated with DigiLocker may be unavailable.
+### 3. You Haven't Fetched the Document
 
-### 3. Name/DOB Mismatch Between Aadhaar and Document
+Some documents need to be **manually fetched** — they don't auto-appear. You must go to the "Issued Documents" section and search for the issuer to pull them.
 
-If your name or date of birth in Aadhaar differs from what the issuer has on record, the document fetch may fail silently or return "not found."
+### 4. Issuer Organisation Not on DigiLocker
 
-### 4. Issuer Server Downtime
+Not all government bodies are integrated with DigiLocker. If your issuer isn't a partner, the document won't be available digitally.
 
-DigiLocker pulls documents in real-time from issuer APIs. If the issuer's server is down, documents won't load.
+### 5. Server or Sync Delay
 
-### 5. Incorrect Search Parameters
+Sometimes there's a delay between when the issuer uploads and when DigiLocker reflects it. Wait 24-48 hours and try again.
 
-When fetching documents manually, entering wrong details (registration number, year, board name) causes search failures.
+## How to Fix Missing Documents — Step by Step
 
-### 6. App or Cache Issues
+### Method 1: Fetch Document from Issuer (Pull Method)
 
-Outdated app versions or corrupted cache can prevent documents from displaying properly.
+1. **Log in** to [DigiLocker](https://www.digilocker.gov.in) using your Aadhaar-linked mobile number
+2. Go to **"Issued Documents"** section from the dashboard
+3. Click **"Get More Issued Documents"** or the search icon
+4. **Search for the issuer** — e.g., type "CBSE" or your university name
+5. Select the **document type** (e.g., Class 10 Marksheet, Class 12 Marksheet)
+6. Enter required details — roll number, year of passing, etc.
+7. Click **"Get Document"**
+8. If the issuer has the record, it will appear in your Issued Documents within minutes
 
----
+### Method 2: Check Your Aadhaar Details
 
-## Step-by-Step Troubleshooting
+1. Verify that the **name and DOB** on your Aadhaar match the name on the document
+2. If there's a mismatch, update your Aadhaar details at [UIDAI](https://ssup.uidai.gov.in) first
+3. After Aadhaar update (takes 5-10 days), try fetching the document again
+4. See our [Aadhaar correction guide](/guide/aadhaar-card-apply-online) for help
 
-### Step 1: Verify Your Aadhaar is Linked Correctly
+### Method 3: Upload Document Manually
 
-1. Log in to [digilocker.gov.in](https://www.digilocker.gov.in/) or the DigiLocker app
-2. Check your profile — verify your **Aadhaar number, name, and DOB** are correct
-3. If your Aadhaar details are wrong, you need to [update your Aadhaar](/guide/aadhaar-name-correction-online) first
+If the document isn't available from the issuer but you have a digital copy:
 
-### Step 2: Check if the Issuer Supports DigiLocker
+1. Go to **"Uploaded Documents"** section in DigiLocker
+2. Click **"Upload"**
+3. Select the PDF/image file (max 10 MB)
+4. Add document name and type
+5. Click **Save**
 
-Not all departments are integrated:
+**Note:** Uploaded documents don't carry the same digital verification as issued documents, but they're accepted by many services.
 
-1. Visit the [DigiLocker issuer list](https://partners.digilocker.gov.in/issuer_list.php)
-2. Search for your document type and issuing authority
-3. If the issuer is not listed, the document cannot be fetched through DigiLocker
+### Method 4: Contact the Issuer
 
-**Common supported issuers:**
-- CBSE, state education boards (marksheets)
-- Transport departments (driving licence, vehicle RC)
-- Income Tax Department (PAN)
-- UIDAI (Aadhaar)
-- EPFO (UAN/PF details)
-- Various universities
+If the document should be available but isn't:
 
-### Step 3: Search with Correct Parameters
+1. Contact your **school/university/RTO** and ask them to push the document to DigiLocker
+2. Provide your Aadhaar number and document details
+3. For CBSE documents, email: [cbse.gov.in](https://cbse.gov.in) or call the CBSE helpline
+4. For university documents, contact the examination department
 
-When fetching a document manually:
+## Specific Document Fixes
 
-1. Go to **Search Documents** → select the **Issuer** and **Document Type**
-2. Enter details **exactly as they appear** on the original document
-3. For driving licence: enter the **DL number exactly** (including state code, e.g., KA01-20150001234)
-4. For marksheets: select the **correct board, year, and roll number**
-5. Double-check for typos and extra spaces
+### CBSE Marksheets Not Showing
 
-### Step 4: Ensure Aadhaar is Linked with the Issuing Authority
+- Available for **Class 10 and 12** from 2004 onwards
+- Search issuer: "Central Board of Secondary Education"
+- Enter your **roll number and year of passing**
+- If not found, your school may not have submitted records to CBSE's digital repository
 
-For driving licences and vehicle RCs:
-- Visit your RTO and request them to link your Aadhaar with your DL/RC record
-- Some states allow this online through the [Parivahan portal](https://parivahan.gov.in/)
+### University Degree/Marksheet Missing
 
-For education documents:
-- Contact your school/university and confirm your Aadhaar is linked with your enrollment records
-- Some boards (CBSE) allow Aadhaar linking through their own portals
+- Check if your university is a [DigiLocker partner](https://partners.digilocker.gov.in)
+- Only partner universities can push documents
+- Major partners include: Delhi University, Mumbai University, IGNOU, Anna University, and many state universities
+- If not a partner, the document won't be available — use the Upload feature instead
 
-### Step 5: Clear Cache and Update the App
+### Driving Licence Not Appearing
 
-**On mobile (Android/iOS):**
-1. Go to **Settings** → **Apps** → **DigiLocker**
-2. Tap **Clear Cache** (not Clear Data — that may log you out)
-3. Update DigiLocker to the latest version from Play Store / App Store
-4. Restart the app and try again
+- DL is pulled from the **Parivahan/Sarathi** database
+- Search issuer: "Ministry of Road Transport & Highways" or your state transport department
+- Enter your **DL number** exactly as printed
+- If not found, your state RTO may not have digitised records — see our [DL on DigiLocker guide](/guide/digilocker-driving-licence-not-available-fix)
 
-**On web:**
-1. Clear browser cache and cookies for digilocker.gov.in
-2. Try in incognito/private browsing mode
-3. Use Chrome or Firefox (latest version)
+### Aadhaar Card Not Showing
 
-### Step 6: Try at a Different Time
+- Aadhaar is auto-linked when you create a DigiLocker account
+- If missing, go to Issued Documents → Search "UIDAI" → Fetch e-Aadhaar
+- Enter your Aadhaar number to pull it
 
-Issuer servers experience high load during peak hours:
-- Avoid 10 AM – 2 PM on weekdays
-- Try early morning or late evening
-- Avoid deadline dates (exam results, form submission dates)
+## Important Tips
 
-### Step 7: Upload Documents Manually
-
-If automatic fetching doesn't work, you can upload documents manually:
-
-1. Go to **Uploaded Documents** section in DigiLocker
-2. Click **Upload** and select the PDF/image of your document
-3. Uploaded documents are stored in your DigiLocker but won't have the "issued" digital signature
-4. For official purposes, only issuer-fetched documents carry the digital signature equivalent to originals
-
----
-
-## When to Contact DigiLocker Support
-
-Contact support if:
-- A document is listed as supported by the issuer but consistently fails to fetch
-- Your account shows incorrect Aadhaar details that you cannot change
-- Documents were previously visible but have suddenly disappeared
-- You're locked out of your DigiLocker account
-
-**DigiLocker Support:**
-- **Email:** support@digitallocker.gov.in
-- **Phone:** 011-24301661
-- **Helpdesk:** [digilocker.gov.in/about-us/contact-us](https://digilocker.gov.in/about-us/contact-us)
-- **Grievance portal:** [pgportal.gov.in](https://pgportal.gov.in/) (under MeitY)
-
----
-
-## Prevention Tips
-
-1. **Link Aadhaar with all government documents** — when applying for DL, passport, PAN, or education, always provide your Aadhaar number
-2. **Keep names consistent** across all documents — see [Aadhaar name correction guide](/guide/aadhaar-name-correction-online)
-3. **Update the DigiLocker app regularly** — older versions may have bugs
-4. **Fetch documents proactively** — don't wait until you urgently need them; fetch and verify well in advance
-5. **Keep uploaded backups** — upload scanned copies of important documents even if issued versions are available
-6. **Use a strong password and enable 2FA** on your DigiLocker account for security
-
----
-
-## Related Guides
-
-- [Aadhaar Card Download Online](/guide/aadhaar-card-download-online)
-- [Aadhaar Name Correction Online](/guide/aadhaar-name-correction-online)
-- [Aadhaar Update Mobile and Email](/guide/aadhaar-update-mobile-email)
-- [Driving Licence Slot Not Available: How to Fix](/guide/driving-licence-slot-not-available-fix)
-- [Aadhaar Common Problems and Solutions](/guide/aadhaar-common-problems-solutions)
-
----
+1. **Always use the mobile number linked to your Aadhaar** when logging into DigiLocker
+2. **Check the partner directory** before expecting a document — not all issuers are integrated
+3. **Keep your Aadhaar details updated** — name mismatches are the #1 reason for missing documents
+4. **Wait 48 hours** after a document is issued before checking DigiLocker
+5. **Use the DigiLocker app** (Android/iOS) for easier document management — sometimes the app shows documents the website doesn't immediately
 
 ## Frequently Asked Questions
 
-### Are DigiLocker documents legally valid?
+### Q1. Why is my DigiLocker showing "No documents found"?
 
-Yes. Documents issued through DigiLocker are legally valid under the IT Act, 2000 (as amended). They are treated at par with original physical documents. However, uploaded (non-issued) documents do not carry the same legal validity.
+This means either the issuer hasn't pushed the document, your Aadhaar details don't match, or the issuer isn't a DigiLocker partner. Try fetching manually from the Issued Documents section.
 
-### Why is my driving licence not showing in DigiLocker?
+### Q2. How do I pull a CBSE marksheet on DigiLocker?
 
-Your driving licence may not appear if your Aadhaar is not linked with your RTO record, or if your state's transport department hasn't integrated with DigiLocker. Visit your RTO to link Aadhaar with your DL.
+Go to Issued Documents → Get More → Search "CBSE" → Select Class 10/12 Marksheet → Enter roll number and year → Click Get Document.
 
-### Can I use DigiLocker documents for passport verification?
+### Q3. Can I use uploaded documents as valid proof?
 
-Yes. DigiLocker documents are accepted for [passport verification](/guide/passport-police-verification-stuck-fix) and many other government processes. Carry your phone with the DigiLocker app as a backup.
+Uploaded documents are stored for your convenience but don't carry the same digital signature as issuer-pushed documents. Some services may not accept them as valid digital proof.
 
-### What is the difference between "Issued Documents" and "Uploaded Documents"?
+### Q4. My name on DigiLocker and document are different. What do I do?
 
-**Issued Documents** are fetched directly from the government department's database and carry a digital signature — they are legally equivalent to originals. **Uploaded Documents** are scanned copies you upload yourself — they serve as personal backups but don't carry official digital signatures.
+Update your Aadhaar name to match the document, or get the document reissued with the correct name. DigiLocker matches records using Aadhaar details.
 
-### My CBSE marksheet is not showing. What should I do?
+### Q5. How long does it take for a document to appear after being issued?
 
-CBSE marksheets are available from 2004 onwards on DigiLocker. Enter your **roll number and year of passing** correctly. If it still doesn't appear, contact your school to verify your Aadhaar is linked with CBSE records, or email CBSE at cbsedoc@digilocker.gov.in.
+Usually 1-4 weeks, depending on the issuer. CBSE results appear within 2-3 weeks of declaration. Some state departments take longer.
 
-### How many documents can I store in DigiLocker?
+### Q6. Is DigiLocker document legally valid?
 
-DigiLocker provides **1 GB of free storage** for uploaded documents. There is no limit on the number of issued (fetched) documents.
+Yes. DigiLocker documents issued by government agencies are legally valid under the IT Act, 2000 and are equivalent to original documents as per Rule 9A of the IT Rules.
+
+### Q7. What should I do if DigiLocker keeps showing errors?
+
+Clear your browser cache, try a different browser, or use the DigiLocker mobile app. If the issue persists, raise a support ticket at the DigiLocker help section or email support@digilocker.gov.in.
+
+### Q8. Can I access DigiLocker documents without internet?
+
+No, DigiLocker requires an internet connection. However, you can download documents as PDFs and save them offline for use.
+
+---
+
+*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with DigiLocker, MeitY, or any government department. Always verify details on the [official DigiLocker portal](https://www.digilocker.gov.in).*

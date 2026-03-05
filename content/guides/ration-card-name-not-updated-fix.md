@@ -1,6 +1,6 @@
 ---
-title: "Ration Card Name Not Updated: How to Fix"
-description: "Applied to change name on ration card but it's not updated? Fix stuck applications, rejected corrections, and NFSA portal errors — includes offline FPS route if online isn't working."
+title: "Ration Card Name Not Updated? Fix It Now (2026)"
+description: "Ration card name correction stuck or rejected? Fix NFSA portal errors, pending applications & spelling mistakes. Online + offline FPS solutions inside."
 category: "Food & Ration"
 keywords:
   - ration card name not updated

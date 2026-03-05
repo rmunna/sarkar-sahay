@@ -1,7 +1,6 @@
 ---
-title: "Land Records Website Not Loading: How to Fix"
-description: >-
-  Troubleshooting guide for state land records portals not loading. Fix Bhulekh, Bhoomi, Dharitri, and other land records websites when they show errors or fail to load.
+title: "Land Records Website Not Loading? Quick Fix (2026)"
+description: "Bhulekh, Bhoomi or land records portal not opening? Fix server errors, loading failures & search issues on state land websites. Working solutions inside."
 category: "Property & Legal"
 keywords:
   - land records website not loading

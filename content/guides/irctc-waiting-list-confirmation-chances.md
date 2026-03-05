@@ -1,0 +1,181 @@
+---
+title: "IRCTC Waitlist Confirmation Chances — RAC vs WL"
+description: "Check your IRCTC waitlist confirmation chances. Understand WL, RAC, RLWL, PQWL rules, chart preparation time, and when to cancel your ticket."
+category: "Utilities"
+keywords: ["IRCTC waitlist confirmation", "RAC vs WL", "waiting list chances", "IRCTC WL confirmation probability", "RLWL PQWL meaning", "chart preparation IRCTC", "waitlist ticket cancel"]
+lastUpdated: "2026-03-05"
+readingTime: "10 min"
+officialLinks:
+  - "https://www.irctc.co.in"
+  - "https://enquiry.indianrail.gov.in/mntes"
+  - "https://www.indianrail.gov.in"
+---
+
+# IRCTC Waitlist Confirmation Chances — RAC vs WL Explained
+
+Booked a train ticket on IRCTC and got a waitlisted (WL) or RAC status? Wondering if your ticket will confirm? This guide explains everything about Indian Railways' waiting list system, confirmation chances, and when you should cancel.
+
+> **Disclaimer:** CitizenNest is an independent platform and is not affiliated with Indian Railways or IRCTC.
+
+## Understanding Ticket Status Types
+
+| Status | Full Form | Meaning |
+|--------|----------|---------|
+| CNF / Confirmed | Confirmed | You have a confirmed seat/berth |
+| RAC | Reservation Against Cancellation | You get a shared berth (2 people on 1 side-lower) |
+| WL | Waiting List (General) | No berth yet — depends on cancellations |
+| RLWL | Remote Location Waiting List | Waitlist for intermediate stations |
+| PQWL | Pooled Quota Waiting List | For journeys that don't cover the full route |
+| GNWL | General Waiting List | Main waitlist for full-route travel |
+| TQWL | Tatkal Quota Waiting List | Waitlist for Tatkal bookings |
+| REGRET/WL | Waitlist with low chances | Almost certainly won't confirm |
+
+## How Waitlist Confirmation Works
+
+Indian Railways follows this priority order:
+
+1. **Confirmed passengers cancel** → their seat goes to RAC-1 passenger
+2. **RAC-1 moves to Confirmed** → RAC-2 moves to RAC-1, and so on
+3. **Last RAC passenger upgrades** → WL-1 moves to RAC
+4. **Chain continues** until chart is prepared
+
+**Key point:** RAC passengers ALWAYS get confirmed before WL passengers move up.
+
+## Confirmation Chances by Waitlist Number
+
+### General Waiting List (GNWL)
+
+| WL Position | Confirmation Chances | Recommendation |
+|-------------|---------------------|----------------|
+| WL 1-10 | 🟢 Very High (90%+) | Keep the ticket |
+| WL 11-30 | 🟡 Good (60-80%) | Likely to confirm |
+| WL 31-50 | 🟡 Moderate (40-60%) | Monitor daily |
+| WL 51-80 | 🔴 Low (20-40%) | Consider backup plan |
+| WL 80+ | 🔴 Very Low (<20%) | Cancel and rebook |
+
+*These are estimates for popular routes. Actual chances vary by train, route, season, and day.*
+
+### RAC Tickets
+
+| RAC Position | Confirmation Chances |
+|-------------|---------------------|
+| RAC 1-10 | 🟢 Very High (85%+) |
+| RAC 11-30 | 🟡 Good (50-70%) |
+| RAC 30+ | 🟡 Moderate — but you still travel |
+
+**Important:** RAC passengers can always board the train. You get a shared side-lower berth even if the ticket doesn't fully confirm to a reserved berth.
+
+### Tatkal Waitlist (TQWL)
+
+Tatkal waitlist tickets have **very low confirmation chances** because:
+- Tatkal quota is small
+- Few cancellations happen in Tatkal (cancellation refund is zero)
+- Confirmation usually only happens if the train has extra coaches
+
+**TQWL 1-5:** Moderate chances | **TQWL 5+:** Very unlikely
+
+## Factors That Affect Confirmation
+
+### Higher Chances:
+- **Weekday travel** (Mon-Thu) vs weekend
+- **Non-holiday season** — avoid festivals, summer, Diwali
+- **Longer routes** — more passengers board/exit at intermediate stations
+- **Multiple stoppages** — more cancellation opportunities
+- **Booking early** — lower WL numbers
+
+### Lower Chances:
+- **Weekend/holiday travel** — higher demand
+- **Short routes** — fewer intermediate cancellations
+- **Festival season** — everyone is traveling
+- **Rajdhani/Shatabdi** — premium trains have fewer cancellations
+- **Tatkal tickets** — no refund on cancellation means fewer cancellations
+
+## RLWL vs GNWL vs PQWL — What's the Difference?
+
+### GNWL (General Waiting List)
+- For passengers traveling the **full route** of the train (origin to destination)
+- Has the **highest confirmation chances**
+- Example: Delhi to Mumbai on a Delhi-Mumbai train
+
+### RLWL (Remote Location Waiting List)
+- For passengers boarding/alighting at **intermediate stations**
+- Separate quota, separate waitlist
+- Usually **lower confirmation chances** than GNWL
+- Example: Boarding at Kota on a Delhi-Mumbai train
+
+### PQWL (Pooled Quota Waiting List)
+- For short-distance journeys on long-distance trains
+- **Lowest confirmation chances**
+- Example: Delhi to Jaipur on a Delhi-Mumbai train
+
+## Chart Preparation — The Final Cutoff
+
+Charts are prepared **twice** before the train departs:
+
+| Chart | When | What Happens |
+|-------|------|-------------|
+| First Chart | 4-6 hours before departure | WL tickets finalized; unconfirmed WL auto-cancelled |
+| Second Chart | 30 min - 2 hours before departure | Last-minute cancellations reallocated |
+
+**After chart preparation:**
+- If your WL ticket didn't confirm → **automatically cancelled and refund initiated**
+- If your RAC ticket didn't fully confirm → you still travel on shared berth
+- No further status changes after final chart
+
+## How to Check WL Confirmation Status
+
+1. **PNR Status on IRCTC:** Login → My Transactions → Click on booking
+2. **SMS:** Send `PNR <10-digit PNR>` to 139
+3. **IRCTC App:** Open app → PNR Status
+4. **Indian Rail Enquiry:** Visit [enquiry.indianrail.gov.in](https://enquiry.indianrail.gov.in/mntes)
+5. **Phone:** Call 139 → Select PNR option
+
+**Check daily** — your position improves as other passengers cancel.
+
+## When to Cancel a Waitlisted Ticket
+
+Cancel early to get maximum refund:
+
+| When You Cancel | Cancellation Charge |
+|----------------|-------------------|
+| 48+ hours before departure | Flat ₹60 (SL), ₹120 (AC) |
+| 12-48 hours before | 25% of fare |
+| 4-12 hours before | 50% of fare |
+| After chart preparation | No refund (WL auto-cancelled with full refund minus clerk charge) |
+
+**Tip:** If your WL is 50+, cancel early and try rebooking on a different train. You'll get a better refund and a better chance of confirmed seats.
+
+## Smart Strategies for Waitlisted Passengers
+
+1. **Book on multiple trains** for the same date — cancel the waitlisted ones later
+2. **Check alternate trains** on the same route — some trains have more availability
+3. **Try different classes** — 3AC might be WL but Sleeper could be available
+4. **Use Vikalp scheme** — opt for alternate train accommodation through IRCTC
+5. **Book from a different station** — nearby originating stations may have separate quotas
+6. **Check after chart preparation** — second chart may confirm borderline WL tickets
+
+## Frequently Asked Questions
+
+### What is the difference between RAC and WL?
+RAC (Reservation Against Cancellation) means you can board the train and get a shared berth. WL (Waiting List) means you cannot board unless the ticket confirms before chart preparation.
+
+### Will WL 15 confirm?
+WL 15 has good confirmation chances (60-80%) on most trains for general quota. Chances depend on the route, season, and day of travel. Monitor your PNR status daily.
+
+### Can I travel on RAC ticket?
+Yes, RAC passengers can board the train. You get a shared side-lower berth. Two RAC passengers share one berth. You may get a full berth if cancellations happen during the journey.
+
+### What happens to WL ticket after chart preparation?
+If your WL ticket doesn't confirm after chart preparation, it's automatically cancelled and a refund is initiated (full fare minus ₹60/₹120 clerkage charge).
+
+### Can WL ticket confirm after chart preparation?
+In rare cases, the second chart (prepared 30 min to 2 hours before departure) may confirm some borderline WL tickets. But this is uncommon.
+
+### How do I check IRCTC waitlist position?
+Check your PNR status on irctc.co.in, the IRCTC app, by sending SMS "PNR [number]" to 139, or by calling 139. Your current WL position shows how many people are ahead of you.
+
+### Does RLWL ticket confirm easily?
+RLWL (Remote Location) tickets have moderate confirmation chances — generally lower than GNWL. They depend on cancellations from intermediate station passengers specifically.
+
+### What is the Vikalp scheme for waitlisted passengers?
+Vikalp (alternate train accommodation) automatically transfers waitlisted passengers to alternate trains on the same route if available. You can opt for this during booking on IRCTC.

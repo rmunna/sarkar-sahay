@@ -1,6 +1,6 @@
 ---
-title: "Ration Card — How to Add or Remove Family Members"
-description: "Step-by-step guide to add or remove (delete) family member names from your ration card online and offline, with required documents and state-wise process."
+title: "Add or Remove Name from Ration Card Online (2026)"
+description: "Add or delete family member from ration card online — step-by-step process, documents needed & state-wise guide. Get it done in minutes. Apply now."
 category: "Food & Ration"
 keywords: ["ration card name addition", "remove name ration card", "add member ration card", "ration card correction", "ration card update", "delete name ration card"]
 readingTime: "7 min"

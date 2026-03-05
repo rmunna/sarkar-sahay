@@ -1,6 +1,6 @@
 ---
-title: "Jio Fiber vs Airtel Xstream — Plans, Speed & How to Apply"
-description: "Compare Jio Fiber and Airtel Xstream Fiber broadband plans, speeds, and prices. Step-by-step guide to apply for either connection in India."
+title: "Jio Fiber vs Airtel Xstream 2026 — Plans & Speed"
+description: "Jio Fiber vs Airtel Xstream Fiber 2026 — compare plans, prices, speed & OTT bundles side by side. Find the best broadband for your home. Decide now."
 category: "Utilities"
 keywords:
   - jio fiber plans

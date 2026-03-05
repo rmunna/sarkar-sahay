@@ -1,7 +1,6 @@
 ---
-title: "Ration Card Portability Not Working: How to Fix"
-description: >-
-  Troubleshooting guide for One Nation One Ration Card (ONORC) portability issues. Fix ration card ePoS errors, Aadhaar authentication failures, and interstate portability problems.
+title: "Ration Card Portability Not Working? Quick Fix (2026)"
+description: "One Nation One Ration Card not working? Fix ePoS errors, Aadhaar authentication failures & interstate portability issues. Step-by-step solutions inside."
 category: "Food & Ration"
 keywords:
   - ration card portability not working
