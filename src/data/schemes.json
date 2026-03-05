@@ -1950,7 +1950,7 @@
       ]
     },
     "officialUrl": "https://sevasindhuservices.karnataka.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ka-gruha-lakshmi",
     "benefitType": "recurring",
     "perHousehold": true,
     "benefitOneTime": null
@@ -1988,7 +1988,7 @@
       "relation": null
     },
     "officialUrl": "https://gruhajyothi.karnataka.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ka-gruha-jyothi",
     "benefitType": "subsidy",
     "perHousehold": true,
     "benefitOneTime": null
@@ -2026,7 +2026,7 @@
       "relation": null
     },
     "officialUrl": "https://ahara.kar.nic.in",
-    "guideSlug": null,
+    "guideSlug": "ka-anna-bhagya",
     "benefitType": "recurring",
     "perHousehold": true,
     "benefitOneTime": null
@@ -2064,7 +2064,7 @@
       "relation": null
     },
     "officialUrl": "https://ksrtc.in",
-    "guideSlug": null,
+    "guideSlug": "ka-shakti",
     "benefitType": "service",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2102,7 +2102,7 @@
       "relation": null
     },
     "officialUrl": "https://yuvanidhi.karnataka.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ka-yuva-nidhi",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2146,7 +2146,7 @@
       ]
     },
     "officialUrl": "https://sw.kar.nic.in",
-    "guideSlug": null,
+    "guideSlug": "ka-vidyasiri",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2186,7 +2186,7 @@
       ]
     },
     "officialUrl": "https://dwcd.karnataka.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ka-bhagyalakshmi",
     "benefitType": "milestone",
     "perHousehold": false,
     "benefitOneTime": 200000
@@ -2225,7 +2225,7 @@
       "relation": null
     },
     "officialUrl": "https://raitamitra.karnataka.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ka-krishi-bhagya",
     "benefitType": "subsidy",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2265,7 +2265,7 @@
       ]
     },
     "officialUrl": "https://sw.kar.nic.in",
-    "guideSlug": null,
+    "guideSlug": "ka-sandhya-suraksha",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2305,7 +2305,7 @@
       ]
     },
     "officialUrl": "https://kmut.tn.gov.in",
-    "guideSlug": null,
+    "guideSlug": "tn-magalir-urimai-thogai",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2345,7 +2345,7 @@
       ]
     },
     "officialUrl": "https://penkalvi.tn.gov.in",
-    "guideSlug": null,
+    "guideSlug": "tn-pudhumai-penn",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2383,7 +2383,7 @@
       "relation": null
     },
     "officialUrl": "https://naanmudhalvan.tn.gov.in",
-    "guideSlug": null,
+    "guideSlug": "tn-naan-mudhalvan",
     "benefitType": "service",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2421,7 +2421,7 @@
       "relation": null
     },
     "officialUrl": "https://tnstc.in",
-    "guideSlug": null,
+    "guideSlug": "tn-free-bus-women",
     "benefitType": "service",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2461,7 +2461,7 @@
       ]
     },
     "officialUrl": "https://cms.tn.gov.in",
-    "guideSlug": null,
+    "guideSlug": "tn-cm-breakfast",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2499,7 +2499,7 @@
       "relation": null
     },
     "officialUrl": "https://tnhealth.tn.gov.in",
-    "guideSlug": null,
+    "guideSlug": "tn-innuyir-kaappom",
     "benefitType": "service",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2537,7 +2537,7 @@
       "relation": null
     },
     "officialUrl": "https://www.cmchistn.com",
-    "guideSlug": null,
+    "guideSlug": "tn-cm-health-insurance",
     "benefitType": "insurance",
     "perHousehold": true,
     "benefitOneTime": null
@@ -2577,7 +2577,7 @@
       ]
     },
     "officialUrl": "https://www.tnsocialwelfare.tn.gov.in",
-    "guideSlug": null,
+    "guideSlug": "tn-marriage-assistance",
     "benefitType": "one-time",
     "perHousehold": false,
     "benefitOneTime": 25000
@@ -2617,7 +2617,7 @@
       ]
     },
     "officialUrl": "https://www.tnsocialwelfare.tn.gov.in",
-    "guideSlug": null,
+    "guideSlug": "tn-old-age-pension",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2657,7 +2657,7 @@
       ]
     },
     "officialUrl": "https://welfarepension.lsgkerala.gov.in",
-    "guideSlug": null,
+    "guideSlug": "kl-social-security-pension",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2695,7 +2695,7 @@
       "relation": null
     },
     "officialUrl": "https://lifemission.kerala.gov.in",
-    "guideSlug": null,
+    "guideSlug": "kl-life-mission",
     "benefitType": "one-time",
     "perHousehold": true,
     "benefitOneTime": 600000
@@ -2735,7 +2735,7 @@
       ]
     },
     "officialUrl": "https://socialsecuritymission.gov.in",
-    "guideSlug": null,
+    "guideSlug": "kl-snehapoorvam",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2774,7 +2774,7 @@
       "relation": null
     },
     "officialUrl": "https://dairy.kerala.gov.in",
-    "guideSlug": null,
+    "guideSlug": "kl-ksheerasagaram",
     "benefitType": "subsidy",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2812,7 +2812,7 @@
       "relation": null
     },
     "officialUrl": "https://kasp.kerala.gov.in",
-    "guideSlug": null,
+    "guideSlug": "kl-karunya-health",
     "benefitType": "insurance",
     "perHousehold": true,
     "benefitOneTime": null
@@ -2850,7 +2850,7 @@
       "relation": null
     },
     "officialUrl": "https://cmdrf.kerala.gov.in",
-    "guideSlug": null,
+    "guideSlug": "kl-cmdrf",
     "benefitType": "one-time",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2888,7 +2888,7 @@
       "relation": null
     },
     "officialUrl": "https://www.ksfe.com",
-    "guideSlug": null,
+    "guideSlug": "kl-ksfe-chitty",
     "benefitType": "service",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2931,7 +2931,7 @@
       ]
     },
     "officialUrl": "https://dcescholarship.kerala.gov.in",
-    "guideSlug": null,
+    "guideSlug": "kl-fee-waiver",
     "benefitType": "subsidy",
     "perHousehold": false,
     "benefitOneTime": null
@@ -2971,7 +2971,7 @@
       ]
     },
     "officialUrl": "https://sspensions.ap.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ap-ntr-bharosa",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -3011,7 +3011,7 @@
       ]
     },
     "officialUrl": "https://thalliki-vandanam.ap.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ap-thalliki-vandanam",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -3052,7 +3052,7 @@
       "relation": null
     },
     "officialUrl": "https://apagrisnet.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ap-annadata-sukhibhava",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -3090,7 +3090,7 @@
       "relation": null
     },
     "officialUrl": "https://civilsupplies.ap.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ap-deepam2",
     "benefitType": "subsidy",
     "perHousehold": true,
     "benefitOneTime": null
@@ -3128,7 +3128,7 @@
       "relation": null
     },
     "officialUrl": "https://www.apsrtconline.in",
-    "guideSlug": null,
+    "guideSlug": "ap-stree-shakti",
     "benefitType": "service",
     "perHousehold": false,
     "benefitOneTime": null
@@ -3166,7 +3166,7 @@
       "relation": null
     },
     "officialUrl": "https://annacanteen.ap.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ap-anna-canteen",
     "benefitType": "service",
     "perHousehold": false,
     "benefitOneTime": null
@@ -3206,7 +3206,7 @@
       ]
     },
     "officialUrl": "https://jnanabhumi.ap.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ap-vidya-deevena",
     "benefitType": "subsidy",
     "perHousehold": false,
     "benefitOneTime": null
@@ -3244,7 +3244,7 @@
       "relation": null
     },
     "officialUrl": "https://navasakam.ap.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ap-vahana-mitra",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -3285,7 +3285,7 @@
       "relation": null
     },
     "officialUrl": "https://rythubharosa.telangana.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ts-rythu-bharosa",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -3325,7 +3325,7 @@
       ]
     },
     "officialUrl": "https://pension.telangana.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ts-cheyutha-pension",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -3365,7 +3365,7 @@
       ]
     },
     "officialUrl": "https://telanganaepass.cgg.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ts-kalyana-lakshmi",
     "benefitType": "one-time",
     "perHousehold": false,
     "benefitOneTime": 100761
@@ -3403,7 +3403,7 @@
       "relation": null
     },
     "officialUrl": "https://housing.telangana.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ts-2bhk-housing",
     "benefitType": "one-time",
     "perHousehold": true,
     "benefitOneTime": 0
@@ -3443,7 +3443,7 @@
       ]
     },
     "officialUrl": "https://telanganaepass.cgg.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ts-fee-reimbursement",
     "benefitType": "subsidy",
     "perHousehold": false,
     "benefitOneTime": null
@@ -3481,7 +3481,7 @@
       "relation": null
     },
     "officialUrl": "https://aarogyasri.telangana.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ts-rajiv-arogyasri",
     "benefitType": "insurance",
     "perHousehold": true,
     "benefitOneTime": null
@@ -3519,7 +3519,7 @@
       "relation": null
     },
     "officialUrl": "https://tssouthernpower.com",
-    "guideSlug": null,
+    "guideSlug": "ts-gruha-jyothi",
     "benefitType": "subsidy",
     "perHousehold": true,
     "benefitOneTime": null
@@ -3557,7 +3557,7 @@
       "relation": null
     },
     "officialUrl": "https://rythubandhu.telangana.gov.in",
-    "guideSlug": null,
+    "guideSlug": "ts-rythu-bima",
     "benefitType": "insurance",
     "perHousehold": false,
     "benefitOneTime": null
@@ -3597,7 +3597,7 @@
       ]
     },
     "officialUrl": "https://oaps.py.gov.in",
-    "guideSlug": null,
+    "guideSlug": "py-old-age-pension",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -3637,7 +3637,7 @@
       ]
     },
     "officialUrl": "https://socwelfare.py.gov.in",
-    "guideSlug": null,
+    "guideSlug": "py-marriage-assistance",
     "benefitType": "one-time",
     "perHousehold": false,
     "benefitOneTime": 25000
@@ -3675,7 +3675,7 @@
       "relation": null
     },
     "officialUrl": "https://employment.py.gov.in",
-    "guideSlug": null,
+    "guideSlug": "py-unemployment-allowance",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -3713,7 +3713,7 @@
       "relation": null
     },
     "officialUrl": "https://dcs.py.gov.in",
-    "guideSlug": null,
+    "guideSlug": "py-free-rice",
     "benefitType": "recurring",
     "perHousehold": true,
     "benefitOneTime": null
@@ -3756,7 +3756,7 @@
       ]
     },
     "officialUrl": "https://scholarships.gov.in",
-    "guideSlug": null,
+    "guideSlug": "py-scholarship-sc",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -3796,7 +3796,7 @@
       ]
     },
     "officialUrl": "https://socwelfare.py.gov.in/differently-abled-schemes",
-    "guideSlug": null,
+    "guideSlug": "py-disability-pension",
     "benefitType": "recurring",
     "perHousehold": false,
     "benefitOneTime": null
@@ -3836,7 +3836,7 @@
       ]
     },
     "officialUrl": "https://socwelfare.py.gov.in",
-    "guideSlug": null,
+    "guideSlug": "py-girl-child-protection",
     "benefitType": "milestone",
     "perHousehold": false,
     "benefitOneTime": 100000
@@ -5947,7 +5947,7 @@
       ]
     },
     "officialUrl": "https://ladakibahin.maharashtra.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "mh-ladki-bahin",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -5984,7 +5984,7 @@
       ]
     },
     "officialUrl": "https://womenchild.maharashtra.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "mh-lek-ladki",
     "perHousehold": false,
     "benefitOneTime": 101000
   },
@@ -6021,7 +6021,7 @@
       ]
     },
     "officialUrl": "https://sjsa.maharashtra.gov.in/en/scheme/shravan-bal-rajya-nivruttivetan-yojana/",
-    "guideSlug": null,
+    "guideSlug": "mh-shravan-bal-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -6056,7 +6056,7 @@
       "relation": null
     },
     "officialUrl": "https://www.jeevandayee.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "mh-mahatma-jyotirao-phule-jan-arogya",
     "perHousehold": true,
     "benefitOneTime": null
   },
@@ -6095,7 +6095,7 @@
       "relation": null
     },
     "officialUrl": "https://sjsa.maharashtra.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "mh-ramai-awas",
     "perHousehold": true,
     "benefitOneTime": 250000
   },
@@ -6130,7 +6130,7 @@
       "relation": null
     },
     "officialUrl": "https://sjsa.maharashtra.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "mh-sanjay-gandhi-niradhar-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -6167,7 +6167,7 @@
       ]
     },
     "officialUrl": "https://womenchild.maharashtra.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "mh-manjhi-kanya-bhagyashree",
     "perHousehold": false,
     "benefitOneTime": 50000
   },
@@ -6202,7 +6202,7 @@
       "relation": null
     },
     "officialUrl": "https://mhada.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "mh-gharkul-yojana",
     "perHousehold": true,
     "benefitOneTime": 250000
   },
@@ -6239,7 +6239,7 @@
       ]
     },
     "officialUrl": "https://education.gujarat.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "gj-namo-lakshmi",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -6276,7 +6276,7 @@
       ]
     },
     "officialUrl": "https://wcd.gujarat.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "gj-vahali-dikri",
     "perHousehold": false,
     "benefitOneTime": 110000
   },
@@ -6313,7 +6313,7 @@
       ]
     },
     "officialUrl": "https://education.gujarat.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "gj-namo-saraswati",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -6351,7 +6351,7 @@
       "relation": null
     },
     "officialUrl": "https://agri.gujarat.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "gj-kisan-sahay",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -6390,7 +6390,7 @@
       "relation": null
     },
     "officialUrl": "https://sje.gujarat.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "gj-manav-garima",
     "perHousehold": false,
     "benefitOneTime": 4000
   },
@@ -6425,7 +6425,7 @@
       "relation": null
     },
     "officialUrl": "https://www.magujarat.com/",
-    "guideSlug": null,
+    "guideSlug": "gj-ma-amrutam",
     "perHousehold": true,
     "benefitOneTime": null
   },
@@ -6462,7 +6462,7 @@
       ]
     },
     "officialUrl": "https://sje.gujarat.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "gj-old-age-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -6496,7 +6496,7 @@
       "relation": null
     },
     "officialUrl": "https://chiranjeevi.rajasthan.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "rj-chiranjeevi-health",
     "perHousehold": true,
     "benefitOneTime": null
   },
@@ -6532,7 +6532,7 @@
       ]
     },
     "officialUrl": "https://ssp.rajasthan.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "rj-old-age-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -6568,7 +6568,7 @@
       ]
     },
     "officialUrl": "https://sje.rajasthan.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "rj-palanhar",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -6602,7 +6602,7 @@
       "relation": null
     },
     "officialUrl": "https://igsy.rajasthan.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "rj-indira-gandhi-smartphone",
     "perHousehold": false,
     "benefitOneTime": 6800
   },
@@ -6638,7 +6638,7 @@
       ]
     },
     "officialUrl": "https://ssp.rajasthan.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "rj-widow-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -6679,7 +6679,7 @@
       ]
     },
     "officialUrl": "https://sje.rajasthan.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "rj-cm-kanyadan",
     "perHousehold": false,
     "benefitOneTime": 51000
   },
@@ -6721,7 +6721,7 @@
       ]
     },
     "officialUrl": "https://sje.rajasthan.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "rj-anuprati-coaching",
     "perHousehold": false,
     "benefitOneTime": 50000
   },
@@ -6762,7 +6762,7 @@
       ]
     },
     "officialUrl": "https://punjab.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "pb-ashirwad",
     "perHousehold": false,
     "benefitOneTime": 51000
   },
@@ -6797,7 +6797,7 @@
       "relation": null
     },
     "officialUrl": "https://punjab.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "pb-atta-dal",
     "perHousehold": true,
     "benefitOneTime": null
   },
@@ -6832,7 +6832,7 @@
       "relation": null
     },
     "officialUrl": "https://sha.punjab.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "pb-bhagat-puran-singh-sehat-bima",
     "perHousehold": true,
     "benefitOneTime": null
   },
@@ -6869,7 +6869,7 @@
       ]
     },
     "officialUrl": "https://punjab.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "pb-old-age-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -6906,7 +6906,7 @@
       ]
     },
     "officialUrl": "https://punjab.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "pb-widow-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -6942,7 +6942,7 @@
       ]
     },
     "officialUrl": "https://www.haryana.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "hr-lado-lakshmi",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -6978,7 +6978,7 @@
       ]
     },
     "officialUrl": "https://socialjusticehry.gov.in/old-age-samman-allowance-scheme/",
-    "guideSlug": null,
+    "guideSlug": "hr-old-age-samman",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -7014,7 +7014,7 @@
       ]
     },
     "officialUrl": "https://wcdhry.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "hr-ladli",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -7048,7 +7048,7 @@
       "relation": null
     },
     "officialUrl": "https://chirayu.haryana.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "hr-chirayu",
     "perHousehold": true,
     "benefitOneTime": null
   },
@@ -7088,7 +7088,7 @@
       ]
     },
     "officialUrl": "https://haryanascbc.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "hr-vivah-shagun",
     "perHousehold": false,
     "benefitOneTime": 51000
   },
@@ -7124,7 +7124,7 @@
       ]
     },
     "officialUrl": "https://www.myscheme.gov.in/schemes/igpbssny",
-    "guideSlug": null,
+    "guideSlug": "hp-ig-pyari-behna",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -7158,7 +7158,7 @@
       "relation": null
     },
     "officialUrl": "https://himcare.hp.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "hp-him-care",
     "perHousehold": true,
     "benefitOneTime": null
   },
@@ -7192,7 +7192,7 @@
       "relation": null
     },
     "officialUrl": "https://hp.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "hp-medha-protsahan",
     "perHousehold": false,
     "benefitOneTime": 100000
   },
@@ -7228,7 +7228,7 @@
       ]
     },
     "officialUrl": "https://hp.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "hp-old-age-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -7264,7 +7264,7 @@
       ]
     },
     "officialUrl": "https://www.nandagaurauk.in/",
-    "guideSlug": null,
+    "guideSlug": "uk-gaura-devi-kanya-dhan",
     "perHousehold": false,
     "benefitOneTime": 51000
   },
@@ -7300,7 +7300,7 @@
       ]
     },
     "officialUrl": "https://uk.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "uk-vatsalya",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -7334,7 +7334,7 @@
       "relation": null
     },
     "officialUrl": "https://ayushmanuttarakhand.uk.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "uk-atal-ayushman",
     "perHousehold": true,
     "benefitOneTime": null
   },
@@ -7370,7 +7370,7 @@
       ]
     },
     "officialUrl": "https://ssp.uk.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "uk-old-age-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -7406,7 +7406,7 @@
       ]
     },
     "officialUrl": "https://delhi.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "dl-mahila-samriddhi",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -7442,7 +7442,7 @@
       ]
     },
     "officialUrl": "https://edistrict.delhigovt.nic.in/",
-    "guideSlug": null,
+    "guideSlug": "dl-old-age-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -7476,7 +7476,7 @@
       "relation": null
     },
     "officialUrl": "https://delhi.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "dl-free-bus-women",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -7510,7 +7510,7 @@
       "relation": null
     },
     "officialUrl": "https://nfs.delhi.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "dl-free-ration",
     "perHousehold": true,
     "benefitOneTime": null
   },
@@ -7546,7 +7546,7 @@
       ]
     },
     "officialUrl": "https://edistrict.delhigovt.nic.in/",
-    "guideSlug": null,
+    "guideSlug": "dl-widow-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -7582,7 +7582,7 @@
       ]
     },
     "officialUrl": "https://socialwelfare.goa.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "ga-dayanand-social-security",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -7621,7 +7621,7 @@
       ]
     },
     "officialUrl": "https://www.goa.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "ga-griha-aadhar",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -7657,7 +7657,7 @@
       ]
     },
     "officialUrl": "https://www.goa.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "ga-laadli-laxmi",
     "perHousehold": false,
     "benefitOneTime": 100000
   },
@@ -7692,7 +7692,7 @@
       "relation": null
     },
     "officialUrl": "https://sha.jk.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "jk-sehat",
     "perHousehold": true,
     "benefitOneTime": null
   },
@@ -7729,7 +7729,7 @@
       "relation": null
     },
     "officialUrl": "https://jakemp.nic.in/",
-    "guideSlug": null,
+    "guideSlug": "jk-mumkin",
     "perHousehold": false,
     "benefitOneTime": 80000
   },
@@ -7766,7 +7766,7 @@
       ]
     },
     "officialUrl": "https://jkdswdj.jk.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "jk-old-age-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -7803,7 +7803,7 @@
       ]
     },
     "officialUrl": "https://orunodoi.assam.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "as-orunodoi",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -7840,7 +7840,7 @@
       ]
     },
     "officialUrl": "https://assam.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "as-pragyan-bharati",
     "perHousehold": false,
     "benefitOneTime": 0
   },
@@ -7875,7 +7875,7 @@
       "relation": null
     },
     "officialUrl": "https://assam.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "as-arundhati",
     "perHousehold": false,
     "benefitOneTime": 30000
   },
@@ -7912,7 +7912,7 @@
       ]
     },
     "officialUrl": "https://assam.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "as-old-age-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -7946,7 +7946,7 @@
       "relation": null
     },
     "officialUrl": "https://sikkim.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "sk-one-family-one-job",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -7982,7 +7982,7 @@
       ]
     },
     "officialUrl": "https://pensionscheme.sikkim.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "sk-old-age-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -8018,7 +8018,7 @@
       ]
     },
     "officialUrl": "https://pensionscheme.sikkim.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "sk-widow-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -8055,7 +8055,7 @@
       ]
     },
     "officialUrl": "https://socialwelfare.tripura.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "tr-old-age-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -8092,7 +8092,7 @@
       ]
     },
     "officialUrl": "https://socialwelfare.tripura.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "tr-widow-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -8129,7 +8129,7 @@
       ]
     },
     "officialUrl": "https://socialwelfare.tripura.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "tr-girl-child-incentive",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -8163,7 +8163,7 @@
       "relation": null
     },
     "officialUrl": "https://meghalaya.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "ml-focus-plus",
     "perHousehold": false,
     "benefitOneTime": 5000
   },
@@ -8199,7 +8199,7 @@
       ]
     },
     "officialUrl": "https://meghalaya.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "ml-cm-scholarship",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -8235,7 +8235,7 @@
       ]
     },
     "officialUrl": "https://megscpwd.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "ml-disability-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -8269,7 +8269,7 @@
       "relation": null
     },
     "officialUrl": "https://socialwelfare.mn.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "mn-cmst",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -8305,7 +8305,7 @@
       ]
     },
     "officialUrl": "https://socialwelfare.mn.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "mn-widow-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -8341,7 +8341,7 @@
       ]
     },
     "officialUrl": "https://socialwelfare.mn.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "mn-old-age-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -8377,7 +8377,7 @@
       ]
     },
     "officialUrl": "https://socialwelfare.mizoram.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "mz-old-age-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -8413,7 +8413,7 @@
       ]
     },
     "officialUrl": "https://socialwelfare.mizoram.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "mz-widow-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -8449,7 +8449,7 @@
       ]
     },
     "officialUrl": "https://socialwelfare.nagaland.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "nl-old-age-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -8485,7 +8485,7 @@
       ]
     },
     "officialUrl": "https://socialwelfare.nagaland.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "nl-widow-pension",
     "perHousehold": false,
     "benefitOneTime": null
   },
@@ -8521,7 +8521,7 @@
       ]
     },
     "officialUrl": "https://health.arunachal.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "ar-dulari-kanya",
     "perHousehold": false,
     "benefitOneTime": 20000
   },
@@ -8557,7 +8557,7 @@
       "relation": null
     },
     "officialUrl": "https://ddusyarunachal.in/",
-    "guideSlug": null,
+    "guideSlug": "ar-ddu-swavalamban",
     "perHousehold": false,
     "benefitOneTime": 500000
   },
@@ -8593,7 +8593,7 @@
       ]
     },
     "officialUrl": "https://arunachal.gov.in/",
-    "guideSlug": null,
+    "guideSlug": "ar-old-age-pension",
     "perHousehold": false,
     "benefitOneTime": null
   }
