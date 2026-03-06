@@ -1,31 +1,49 @@
 {
-  "scannedAt": "2026-03-05T16:47:25.195Z",
+  "scannedAt": "2026-03-06T14:05:36.168Z",
   "govtTrends": [
     {
-      "title": "sukhoi",
+      "title": "bsnl 5g",
       "traffic": "200+",
-      "pubDate": "Thu, 5 Mar 2026 08:20:00 -0800",
-      "newsTitle": "Air Force's Sukhoi Su-30 Goes Missing From Radar Contact In Assam: Official",
+      "pubDate": "Fri, 6 Mar 2026 05:40:00 -0800",
+      "newsTitle": "BSNL commissions 6,132 4G sites across Andhra Pradesh",
       "source": "google_trends",
-      "suggestedSlug": "sukhoi",
+      "suggestedSlug": "bsnl-5g",
       "guideExists": false
     },
     {
-      "title": "england open badminton",
+      "title": "nta neet 2026",
       "traffic": "1000+",
-      "pubDate": "Thu, 5 Mar 2026 08:10:00 -0800",
-      "newsTitle": "Lakshya Sen enters All England Badminton quarterfinals, East Bengal face Goa in ISL: Indian Sports LIVE, March 5",
+      "pubDate": "Fri, 6 Mar 2026 05:40:00 -0800",
+      "newsTitle": "NEET UG 2026 Registration Ends Soon: NTA’s instructions to upload image, important deadlines",
       "source": "google_trends",
-      "suggestedSlug": "england-open-badminton",
+      "suggestedSlug": "nta-neet-2026",
       "guideExists": false
     },
     {
-      "title": "jasprit bumrah",
-      "traffic": "10000+",
-      "pubDate": "Thu, 5 Mar 2026 08:00:00 -0800",
-      "newsTitle": "Sunil Gavaskar on India’s chances against England in the T20 World Cup semifinals",
+      "title": "wbjee",
+      "traffic": "200+",
+      "pubDate": "Fri, 6 Mar 2026 05:30:00 -0800",
+      "newsTitle": "WBJEE 2026 Official Notification OUT; Exam to be held on May 24",
       "source": "google_trends",
-      "suggestedSlug": "jasprit-bumrah",
+      "suggestedSlug": "wbjee",
+      "guideExists": false
+    },
+    {
+      "title": "west bengal governor cv ananda bose",
+      "traffic": "5000+",
+      "pubDate": "Fri, 6 Mar 2026 05:30:00 -0800",
+      "newsTitle": "Days ahead of elections, Tamil Nadu, West Bengal get new Governors",
+      "source": "google_trends",
+      "suggestedSlug": "west-bengal-governor-cv-ananda-bose",
+      "guideExists": true
+    },
+    {
+      "title": "isl match today",
+      "traffic": "200+",
+      "pubDate": "Fri, 6 Mar 2026 05:20:00 -0800",
+      "newsTitle": "ISL: East Bengal held by FC Goa",
+      "source": "google_trends",
+      "suggestedSlug": "isl-match-today",
       "guideExists": false
     }
   ],

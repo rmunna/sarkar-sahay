@@ -24,6 +24,19 @@ export const STATES: StateInfo[] = [
   { slug: "jharkhand", name: "Jharkhand" },
   { slug: "chhattisgarh", name: "Chhattisgarh" },
   { slug: "odisha", name: "Odisha" },
+  { slug: "andhra-pradesh", name: "Andhra Pradesh" },
+  { slug: "himachal-pradesh", name: "Himachal Pradesh" },
+  { slug: "uttarakhand", name: "Uttarakhand" },
+  { slug: "goa", name: "Goa" },
+  { slug: "manipur", name: "Manipur" },
+  { slug: "meghalaya", name: "Meghalaya" },
+  { slug: "mizoram", name: "Mizoram" },
+  { slug: "nagaland", name: "Nagaland" },
+  { slug: "sikkim", name: "Sikkim" },
+  { slug: "tripura", name: "Tripura" },
+  { slug: "arunachal-pradesh", name: "Arunachal Pradesh" },
+  { slug: "delhi", name: "Delhi" },
+  { slug: "jammu-kashmir", name: "Jammu & Kashmir" },
 ];
 
 /** Keywords in filenames that map to each state */
@@ -45,6 +58,19 @@ const STATE_FILENAME_KEYWORDS: Record<string, string[]> = {
   jharkhand: ["jharkhand"],
   chhattisgarh: ["chhattisgarh"],
   odisha: ["odisha", "kalia-yojana", "madhu-babu-pension"],
+  "andhra-pradesh": ["andhra-pradesh", "ap-", "ysr-", "ntr-", "meebhoomi"],
+  "himachal-pradesh": ["himachal-pradesh", "hp-"],
+  uttarakhand: ["uttarakhand"],
+  goa: ["goa"],
+  manipur: ["manipur"],
+  meghalaya: ["meghalaya"],
+  mizoram: ["mizoram"],
+  nagaland: ["nagaland"],
+  sikkim: ["sikkim"],
+  tripura: ["tripura"],
+  "arunachal-pradesh": ["arunachal-pradesh"],
+  delhi: ["delhi", "e-district-delhi"],
+  "jammu-kashmir": ["jammu-kashmir", "jk-"],
 };
 
 export function getStateBySlug(slug: string): StateInfo | undefined {

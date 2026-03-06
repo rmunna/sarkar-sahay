@@ -23,6 +23,7 @@ const VALID_CATEGORIES = [
   "Property & Legal",
   "Food & Ration",
   "State Schemes",
+  "Banking",
 ];
 
 const REQUIRED_FRONTMATTER = ["title", "description", "category", "keywords", "officialLinks"];
