@@ -1,148 +1,139 @@
 ---
 title: "BSNL 4G SIM Upgrade: How to Get Free 4G SIM"
 description: >-
-  Complete guide to BSNL 4G SIM upgrade including free SIM swap, 4G network
-  rollout status, VoLTE activation, documents needed, and CSC store visit.
+  Get free BSNL 4G SIM upgrade — eligibility, documents needed, how to swap at
+  BSNL office or CSC centre, activation time and 4G coverage check in your area.
 category: Utilities
 keywords:
   - bsnl 4g sim upgrade
   - bsnl free 4g sim
-  - bsnl 4g network
   - bsnl sim swap
+  - bsnl 4g sim replacement
+  - bsnl 4g coverage
+  - bsnl csc sim upgrade
   - bsnl 4g activation
-  - bsnl volte
-  - bsnl 4g rollout
-  - bsnl sim replacement
-  - bsnl csc center
-  - bsnl 4g sim card
+  - bsnl sim change
+  - bsnl 4g sim documents
+  - bsnl 4g sim free swap
 readingTime: 7 min
+lastUpdated: "2026-03-06"
 officialLinks:
-  - 'https://www.bsnl.co.in/'
-  - 'https://selfcare.bsnl.co.in/'
-lastUpdated: '2026-03-06'
+  - "https://www.bsnl.co.in/"
+  - "https://selfcare.bsnl.co.in/"
+  - "https://www.csc.gov.in/"
 ---
 
 # BSNL 4G SIM Upgrade: How to Get Free 4G SIM
 
-BSNL has been rolling out its 4G network across India using indigenous technology. To use BSNL 4G services, you need a **4G-compatible SIM card**. If you have an older 2G/3G BSNL SIM, you can upgrade to a 4G SIM for free. This guide explains the complete process.
+BSNL has launched its 4G services across India and is offering **free 4G SIM upgrades** to existing customers. If you're still using an old 2G/3G BSNL SIM, you need a 4G SIM to enjoy faster internet speeds. This guide explains how to get your free BSNL 4G SIM swap.
 
-## What is BSNL 4G SIM Upgrade?
+> **Disclaimer:** CitizenNest is an independent platform and is not affiliated with BSNL or the Government of India. Information is for guidance purposes only.
 
-BSNL's 4G network requires a new SIM card that supports 4G/LTE frequencies. Older BSNL SIMs (2G/3G) cannot access the 4G network even if your phone supports 4G. BSNL is offering **free 4G SIM upgrades** to existing customers to ensure smooth migration.
+## Who is Eligible for Free BSNL 4G SIM?
 
-## Who is Eligible?
+- All existing BSNL prepaid and postpaid mobile customers
+- Customers with old 2G/3G SIM cards
+- Your BSNL number must be active (not disconnected)
+- Your KYC (Aadhaar linking) should be complete
 
-- **Any existing BSNL prepaid or postpaid subscriber** with an older (non-4G) SIM
-- Your mobile number remains the same after the SIM upgrade
-- You must have a **4G-compatible smartphone**
-- Your BSNL connection must be **active** (not suspended or disconnected)
+> **Note:** New BSNL connections automatically come with a 4G SIM. This guide is for existing customers upgrading from older SIM cards.
 
 ## How to Check if You Need a 4G SIM
 
-1. Insert your BSNL SIM in a 4G phone
-2. Go to Settings → Mobile Networks → Preferred network type
-3. Select "4G/LTE"
-4. If 4G signal appears, your SIM already supports 4G
-5. If only 2G/3G shows, you need a SIM upgrade
+1. **Check your SIM type** — If your SIM card is more than 5 years old, it's likely a 2G/3G SIM
+2. **Try enabling 4G** — Go to Settings → Mobile Network → Preferred Network Type → Select 4G/LTE. If 4G doesn't appear, you need a new SIM
+3. **Dial USSD** — Dial **\*#06#** to check your IMEI, then call **1800-180-1503** to confirm if your SIM supports 4G
+4. **Visit BSNL selfcare** — Login at [selfcare.bsnl.co.in](https://selfcare.bsnl.co.in/) and check SIM details
 
-You can also check by dialing **198** or visiting a BSNL store.
+## Documents Required for BSNL 4G SIM Swap
 
-## Documents Required
+| Document | Details |
+|----------|---------|
+| Aadhaar Card | Original + photocopy |
+| Existing BSNL SIM | The old SIM you want to upgrade |
+| Photo | Passport-size photo (some centres may require) |
+| Phone | A 4G-compatible phone to use the new SIM |
 
-1. **Aadhaar card** (original + photocopy) — See our [Aadhaar guide](/guide/aadhaar-card-apply-online) for details
-2. **Current BSNL SIM** (must be in your phone or available)
-3. **Passport-size photo** (1 copy)
-4. **Existing BSNL mobile number** linked to your Aadhaar
+> **Tip:** Ensure your Aadhaar is linked to your BSNL number. If not, complete e-KYC first — see our [Aadhaar guide](/guide/aadhaar-card-apply-online).
 
-> **Note:** The SIM swap is done through biometric (Aadhaar-based) verification at the store.
+## How to Get Free BSNL 4G SIM — Step by Step
 
-## Step-by-Step Process: Get BSNL 4G SIM
+### Method 1: At BSNL Customer Service Centre (CSC)
 
-### Method 1: Visit BSNL Customer Service Centre
+1. **Find nearest BSNL office** — Visit [www.bsnl.co.in](https://www.bsnl.co.in/) → Customer Service Centre locator
+2. **Visit with documents** — Carry Aadhaar original, photocopy, and your old SIM
+3. **Fill the SIM swap form** — Request 4G SIM upgrade (free of charge)
+4. **Biometric verification** — Aadhaar-based fingerprint verification will be done
+5. **Receive new SIM** — You'll get a new 4G SIM card immediately
+6. **Activation** — The new SIM activates within **2-4 hours** (sometimes up to 24 hours)
+7. **Old SIM deactivates** — Once the new SIM activates, the old one stops working automatically
 
-1. Locate your nearest **BSNL CSC (Customer Service Centre)** or BSNL exchange
-   - Find locations on [bsnl.co.in](https://www.bsnl.co.in/) → Contact Us
-2. Carry your **Aadhaar card (original)** and **current BSNL SIM**
-3. Tell the counter staff you want a **free 4G SIM upgrade**
-4. Complete **biometric verification** (Aadhaar fingerprint/iris)
-5. Fill the **SIM swap form** (CAF - Customer Application Form)
-6. Your old SIM will be deactivated and the new 4G SIM will be issued
-7. **Activation time:** New SIM activates within **2-4 hours** (sometimes up to 24 hours)
-8. Your existing balance, plan validity, and mobile number remain unchanged
+### Method 2: At Common Service Centre (CSC)
 
-### Method 2: Visit Authorized BSNL Retailer/Franchise
+1. **Find a CSC near you** — Visit [www.csc.gov.in](https://www.csc.gov.in/) → Locate CSC
+2. **Visit with documents** — Same documents as above
+3. **Request BSNL 4G SIM swap** — CSC operators can process BSNL SIM replacements
+4. **Complete Aadhaar verification** — Biometric authentication required
+5. **Collect your new SIM** — Activation time is the same (2-24 hours)
 
-1. Many authorized BSNL retailers and franchise stores also offer free 4G SIM swaps
-2. Process is the same — carry Aadhaar and old SIM
-3. Verify the retailer is authorized before handing over documents
+> **Note:** CSC availability for BSNL SIM swap may vary by location. Call the CSC first to confirm.
 
-### Method 3: Via CSC (Common Service Centre)
+## BSNL 4G SIM Activation Process
 
-1. Visit any **CSC (Jan Seva Kendra)** that offers BSNL services
-2. Carry Aadhaar card for biometric verification
-3. The CSC operator will process the SIM swap
+After receiving your new 4G SIM:
 
-## Fees
+1. **Insert the new SIM** into your 4G phone
+2. **Wait for activation** — You'll receive an SMS when activated (2-4 hours typically)
+3. **If not activated in 24 hours** — Call **1800-180-1503** (toll-free) or visit the BSNL office
+4. **Set network to 4G** — Settings → Mobile Network → Preferred Network → 4G/LTE
+5. **Your number remains the same** — SIM swap only changes the SIM card, not your phone number
+
+## How to Check BSNL 4G Coverage in Your Area
+
+Before upgrading, verify 4G is available in your location:
+
+1. **BSNL Coverage Map** — Visit [www.bsnl.co.in](https://www.bsnl.co.in/) → check 4G coverage section
+2. **Call BSNL** — Dial **1800-180-1503** and ask about 4G availability in your PIN code
+3. **Ask at BSNL office** — The staff can confirm tower coverage for your area
+4. **TRAI MyCall App** — Download from Play Store to check network signal strength in your area
+
+> **Important:** BSNL 4G is being rolled out in phases. If 4G is not yet available in your area, your new 4G SIM will still work on 3G/2G networks and automatically switch to 4G when available.
+
+## Fees and Charges
 
 | Item | Cost |
 |------|------|
-| 4G SIM card | **Free** (for existing BSNL subscribers) |
-| SIM swap fee | **Free** (under promotional offer) |
-| New connection (if not existing customer) | ₹20-₹100 (varies by circle) |
-
-> **Note:** BSNL periodically offers free SIM swap promotions. Check the latest offer on [bsnl.co.in](https://www.bsnl.co.in/) or by calling 198.
-
-## After Getting Your 4G SIM
-
-1. **Insert the new SIM** in your 4G phone
-2. **Wait for activation** — You'll receive an SMS confirming activation
-3. **Set network to 4G/LTE** — Settings → Mobile Networks → Preferred Network → 4G/LTE
-4. **Enable VoLTE** — Settings → Mobile Networks → Enable VoLTE (for HD voice calls over 4G)
-5. **Check 4G signal** — If 4G is available in your area, you'll see "4G" or "LTE" on the status bar
-
-## BSNL 4G Network Rollout Status
-
-- BSNL's 4G network is being rolled out in phases across India
-- Initial coverage focuses on **urban areas and district headquarters**
-- Rural areas are being covered progressively
-- Check coverage in your area on [bsnl.co.in](https://www.bsnl.co.in/) or by calling 198
-- BSNL 4G uses **TDD-LTE technology** on the 2500 MHz band
-
-## VoLTE on BSNL 4G
-
-- VoLTE (Voice over LTE) allows HD voice calls over the 4G network
-- Requires both a **VoLTE-compatible phone** and a **4G SIM**
-- Enable VoLTE in your phone settings after SIM upgrade
-- VoLTE availability depends on your area having BSNL 4G coverage
+| BSNL 4G SIM (upgrade) | **Free** (₹0) |
+| New BSNL 4G connection | ₹20-100 (varies by plan) |
+| SIM replacement (lost/damaged) | ₹20-50 |
 
 ## Important Tips
 
-1. **Backup your contacts** before SIM swap — contacts stored on SIM will be lost
-2. The SIM swap does **not** change your mobile number, plan, or balance
-3. If your new SIM doesn't activate within 24 hours, call **198**
-4. Ensure your phone supports **BSNL 4G bands** (Band 41 / 2500 MHz TDD-LTE)
-5. After SIM activation, update your number in apps that use SMS verification (banking, UPI, etc.) — your number stays the same, but some apps may need re-verification
+1. **Backup your contacts** — Save all contacts to Google/iCloud before SIM swap, as the old SIM will stop working.
+2. **Check phone compatibility** — Your phone must support 4G LTE. Most phones sold after 2016 support 4G.
+3. **Visit early morning** — BSNL offices get crowded. Visit when they open (10 AM) for faster service.
+4. **Keep old SIM safe** — Don't destroy your old SIM until the new one is fully activated and working.
+5. **No plan change needed** — Your existing recharge/plan will continue on the new 4G SIM. No need to recharge again.
 
 ## Frequently Asked Questions
 
 ### Is BSNL 4G SIM upgrade really free?
-Yes, BSNL is currently offering free 4G SIM upgrades for existing prepaid and postpaid subscribers. No charges for the SIM card or swap process.
+Yes, BSNL offers free 4G SIM swap to all existing customers. You only need to visit a BSNL office or CSC with your Aadhaar card. No charges apply for the SIM upgrade.
 
-### Will my mobile number change after 4G SIM upgrade?
-No. Your mobile number, existing balance, and plan validity remain the same. Only the physical SIM card changes.
+### Will my BSNL number change after 4G SIM swap?
+No. Your phone number remains exactly the same. Only the physical SIM card changes. All your plans, balance, and validity continue as before.
 
-### How long does BSNL 4G SIM activation take?
-Usually **2-4 hours** after the swap. In some cases, it may take up to 24 hours. If not activated within 24 hours, contact 198.
+### How long does BSNL 4G SIM take to activate?
+Typically 2-4 hours after the swap. In some cases, it may take up to 24 hours. If not activated after 24 hours, call 1800-180-1503 or revisit the BSNL office.
 
-### Can I get BSNL 4G SIM online?
-Currently, BSNL 4G SIM swap requires **physical verification** (Aadhaar biometric). You must visit a BSNL store, franchise, or CSC centre in person.
+### Can I get BSNL 4G SIM online without visiting office?
+Currently, BSNL requires in-person Aadhaar biometric verification for SIM swap. You must visit a BSNL office or CSC. Online SIM swap is not available yet.
 
 ### What if BSNL 4G is not available in my area?
-Your new 4G SIM will work on 2G/3G networks where 4G is not yet available. When BSNL 4G launches in your area, your SIM will automatically connect to 4G.
+You can still upgrade to a 4G SIM. It will work on existing 2G/3G networks and automatically connect to 4G when BSNL launches it in your area.
 
 ### Do I need a new phone for BSNL 4G?
-You need a phone that supports 4G/LTE and specifically **BSNL's Band 41 (2500 MHz)**. Most smartphones sold in India after 2018 support this band.
+You need a 4G VoLTE-compatible phone. Most smartphones sold after 2016 support 4G. Check your phone's specifications or ask at the BSNL office.
 
----
-
-*Disclaimer: CitizenNest is an independent platform and is not affiliated with BSNL or any government entity. Information is for guidance only. For official details, visit bsnl.co.in or call 198.*
+### Can I upgrade my BSNL postpaid SIM to 4G?
+Yes, both prepaid and postpaid BSNL customers can upgrade to a free 4G SIM using the same process at BSNL offices or CSC centres.

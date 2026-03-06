@@ -1,178 +1,197 @@
 ---
 title: "Spam Call Report & Block: TRAI DND Portal & App Guide"
-description: "Block spam calls using TRAI DND app, report to cybercrime portal, operator blocking methods. Complete guide for Indians."
-category: "Utilities"
-keywords: ["spam call block India", "TRAI DND app", "block spam calls", "report spam calls", "DND registration India"]
-readingTime: "8 min"
+description: >-
+  Report and block spam calls in India using TRAI DND app, 1909 helpline, and
+  Truecaller. File complaints against telemarketers on the TRAI DND portal.
+category: Utilities
+keywords:
+  - spam call report
+  - block spam calls India
+  - TRAI DND app
+  - report spam call 1909
+  - DND registration India
+  - Truecaller spam report
+  - telemarketing complaint India
+  - TRAI spam complaint
+  - block unwanted calls
+  - do not disturb India
+readingTime: 8 min
 lastUpdated: "2026-03-06"
 officialLinks:
-  - https://trai.gov.in
-  - https://www.dndregistry.gov.in
-  - https://cybercrime.gov.in
+  - "https://www.trai.gov.in/"
+  - "https://www.nccptrai.gov.in/"
+  - "https://pgportal.gov.in/"
 ---
 
-## What is Spam Call Blocking in India?
+# Spam Call Report & Block: TRAI DND Portal & App Guide
 
-Spam calls — unwanted telemarketing, fraud, and robocalls — are a major nuisance in India. TRAI (Telecom Regulatory Authority of India) provides official mechanisms to block and report spam calls through the **DND (Do Not Disturb)** registry and the **TRAI DND app**. You can also report cyber fraud calls to the national cybercrime portal.
+Unwanted spam calls and promotional SMS are a major nuisance in India. TRAI has set up the Do Not Disturb (DND) registry and complaint system to protect consumers. You can register for DND, report spam callers, and get telemarketers penalised. Here is the complete guide.
 
-This guide covers every method to block, report, and stop spam calls on your Indian mobile number.
+## Step 1: Register for DND (Do Not Disturb)
 
-## Method 1: Register on TRAI DND (Do Not Disturb)
+Registering for DND stops most legitimate telemarketers from calling you.
 
-The DND registry blocks commercial telemarketing calls and SMS from reaching your number.
+### By SMS
 
-### How to Activate DND via SMS:
+1. Send **START 0** to **1909** from your mobile number
+2. You will receive a confirmation SMS
+3. DND activates within **7 days**
+4. Category 0 blocks **all** promotional calls and SMS
 
-1. Open your messaging app
-2. Send SMS **"START 0"** to **1909** from your mobile number
-3. You'll receive a confirmation SMS
-4. DND will be activated within **7 days**
-5. After activation, you'll stop receiving telemarketing calls and SMS
+### By Calling 1909
 
-### DND Category Options:
+1. Call **1909** from your mobile
+2. Follow the IVR instructions
+3. Select to activate DND for all categories or specific ones
+4. DND activates within 7 days
 
-Send these SMS codes to **1909** to block specific categories:
+### Category Options
 
-| Code | Category Blocked |
-|------|-----------------|
-| START 0 | Block ALL commercial communications |
-| START 1 | Banking/Insurance/Financial |
-| START 2 | Real Estate |
-| START 3 | Education |
-| START 4 | Health |
-| START 5 | Consumer Goods & Automobiles |
-| START 6 | Communication/Broadcasting/IT |
-| START 7 | Tourism & Leisure |
+| Category Code | Type |
+|---|---|
+| 0 | Block ALL promotional messages |
+| 1 | Banking/Insurance/Financial |
+| 2 | Real Estate |
+| 3 | Education |
+| 4 | Health |
+| 5 | Consumer Goods & Auto |
+| 6 | Communication/Broadcasting |
+| 7 | Tourism & Leisure |
 
-To unblock, send **"STOP 0"** to **1909**.
+Send **START [category number]** to 1909 to block specific categories only.
 
-### How to Register DND Online:
+## Step 2: Report Spam Calls
 
-1. Visit [dndregistry.gov.in](https://www.dndregistry.gov.in)
-2. Enter your mobile number
-3. Select the categories you want to block
-4. Verify via OTP
-5. DND will be activated within 7 days
+### Method 1: TRAI DND App (Recommended)
 
-## Method 2: TRAI DND App (Official)
+1. Download **TRAI DND** app (previously called "DND/NCCP" app) from Play Store or App Store
+2. Register with your mobile number
+3. When you receive a spam call, open the app
+4. Tap **"Report Unsolicited Call"**
+5. Select the spam number from your call log
+6. Choose the category of spam (financial, real estate, etc.)
+7. Submit the complaint
+8. TRAI forwards the complaint to the telecom operator for action
 
-TRAI offers an official mobile app to report spam calls and manage DND preferences.
+### Method 2: Report via SMS to 1909
 
-### Steps to Use TRAI DND App:
+1. Send an SMS to **1909** in this format:
+   - For unwanted call: **Sender's number, date of call (dd/mm/yyyy)**
+   - Example: `9876543210, 05/03/2026`
+2. You will receive an acknowledgement SMS
+3. The complaint is registered with your telecom operator
 
-1. Download **"TRAI DND"** app from Google Play Store or Apple App Store
-2. Register with your mobile number and verify via OTP
-3. The app allows you to:
-   - **Report spam calls** received despite DND
-   - **Report spam SMS** with screenshot proof
-   - **Check complaint status**
-   - **Manage DND preferences** (block/unblock categories)
-4. To report a spam call:
-   - Open the app → tap **"Report Unwanted Communication"**
-   - Select the spam call/SMS from your log
-   - Choose the category and submit
-5. TRAI will investigate and penalize the sender's telecom operator
+### Method 3: NCCP TRAI Portal (Online)
 
-## Method 3: Block at Operator Level
+1. Visit [nccptrai.gov.in](https://www.nccptrai.gov.in/)
+2. Register with your mobile number
+3. Click **"Register Complaint"**
+4. Enter the spam caller's number, date, and time
+5. Describe the nature of the spam call
+6. Submit — you will get a complaint reference number
 
-### Jio:
-- Open **MyJio app** → "More" → "Block Spam"
-- Or call **199** and request spam blocking
+### Method 4: Report on Truecaller
 
-### Airtel:
-- Open **Airtel Thanks app** → "Manage Services" → "DND Activation"
-- Or SMS **"START 0"** to **1909**
+1. Open **Truecaller** app
+2. Go to the spam call in your call log
+3. Tap the number and select **"Report as Spam"**
+4. Choose the spam category
+5. This helps Truecaller warn other users, but does not file a formal TRAI complaint
 
-### Vi (Vodafone Idea):
-- Open **Vi app** → "My Account" → "DND Service"
-- Or SMS **"START 0"** to **1909**
+## Step 3: Block Spam Calls on Your Phone
 
-### BSNL:
-- SMS **"START 0"** to **1909**
-- Or call **1500** and request DND activation
+### On Android
 
-## Method 4: Report to Cybercrime Portal
+1. Open the **Phone** app
+2. Find the spam number in recent calls
+3. Long-press the number
+4. Select **"Block number"**
+5. For bulk blocking: Go to **Settings > Blocked numbers** and add numbers
 
-For fraudulent calls (bank fraud, OTP scams, lottery scams):
+### On iPhone
 
-1. Visit [cybercrime.gov.in](https://cybercrime.gov.in)
-2. Click **"File a Complaint"**
-3. Select **"Other Cyber Crime"** → **"Online Financial Fraud"**
-4. Enter details: caller number, date, nature of fraud
-5. Upload evidence (call recordings, screenshots)
-6. Submit and note your **complaint number** for tracking
-7. You can also call the cyber helpline **1930** to report immediately
+1. Open the **Phone** app
+2. Go to **Recents**
+3. Tap the **(i)** icon next to the spam number
+4. Scroll down and tap **"Block this Caller"**
 
-See our [Consumer Complaint guide](/guide/consumer-complaint-online) for filing formal complaints against persistent offenders.
+### Using Truecaller
 
-## Method 5: Block Numbers on Your Phone
+1. Install Truecaller and set it as your default caller ID
+2. Enable **"Spam Protection"** in settings
+3. Truecaller automatically identifies and blocks known spam numbers
+4. You can set it to **auto-block top spammers**
 
-### Android:
-1. Open Phone app → Recent Calls
-2. Long press the spam number → **"Block Number"**
-3. For Samsung: Phone → 3-dot menu → Settings → Block Numbers
+## What Happens After You Report?
 
-### iPhone:
-1. Open Phone app → Recents
-2. Tap the (i) icon next to the spam number
-3. Scroll down → **"Block this Caller"**
+1. **TRAI forwards** your complaint to the telecom operator of the spammer
+2. The operator must investigate within **7 days**
+3. **Penalties for telemarketers violating DND:**
+   - First complaint: Warning
+   - Subsequent complaints: Number blacklisted for **2 years**
+   - Telecom operator can be fined up to **₹1 lakh per violation** by TRAI
+4. You receive an SMS update on action taken
 
-### Using Built-in Spam Detection:
-- **Google Phone app** (Android): Has built-in spam detection — flags suspected spam calls
-- **iPhone (iOS 13+):** Settings → Phone → **"Silence Unknown Callers"** — sends unknown numbers to voicemail
+## Escalation If No Action
 
-## Alternatives to Truecaller
+### Step 1: Escalate Within Telecom Operator
 
-While Truecaller is popular, some users prefer privacy-focused alternatives:
+1. If no action within 7 days, call your operator's customer care
+2. Quote your complaint reference number
+3. Ask for escalation to the nodal officer
 
-| App | Privacy | Features |
-|-----|---------|----------|
-| TRAI DND (Official) | High — government app | Report spam, manage DND |
-| Google Phone | Medium | Built-in spam detection |
-| Hiya | Medium | Caller ID, spam block |
-| Should I Answer | High | Community-based spam detection |
+### Step 2: File on PG Portal
 
-## What to Do If Spam Continues After DND
+1. Visit [pgportal.gov.in](https://pgportal.gov.in/)
+2. File a grievance under **Department of Telecommunications**
+3. Describe the issue with complaint reference numbers
+4. DoT must respond within **30 days**
 
-1. **Report via TRAI DND app** — each complaint is tracked
-2. **Report to your telecom operator** — call their helpline
-3. **File complaint on TRAI website** — [trai.gov.in](https://trai.gov.in)
-4. **Escalate to cybercrime portal** — if calls are fraudulent
-5. **File consumer complaint** on [consumerhelpline.gov.in](https://consumerhelpline.gov.in) — see our [Consumer Complaint guide](/guide/consumer-complaint-online)
+### Step 3: Consumer Forum
 
-TRAI can impose penalties of **₹1,000 per spam call** on the offending telecom operator.
+1. If spam continues despite complaints, file a case in the **District Consumer Forum**
+2. Visit [consumerhelpline.gov.in](https://consumerhelpline.gov.in/) for guidance
+3. You can claim compensation for harassment
+4. See our [telecom complaint guide](/guide/telecom-complaint-trai-portal) for detailed process
 
 ## Important Tips
 
-1. **Never share OTP** — banks and government agencies never ask for OTP over phone
-2. **Register DND immediately** — it's free and significantly reduces spam
-3. **Use TRAI DND app** for evidence-based complaints that TRAI actually acts on
-4. **Block and report** every spam call — it helps clean up the telecom ecosystem
-5. **Update your phone's spam filter** — keep Google Phone or iOS spam protection enabled
+1. **Register for DND first** — most spam reduces significantly within a week
+2. **Use the TRAI DND app** — it is the official and most effective way to report spam
+3. **Report within 3 days** of receiving the spam call for best results
+4. **Do not engage** with spam callers — do not press any buttons they ask you to
+5. **Beware of scam calls** — never share OTP, bank details, or Aadhaar number on any call
 
 ## Frequently Asked Questions
 
-### Q1: How long does DND take to activate?
-DND activation takes up to **7 days** from the date of registration. After that, telemarketing calls should stop.
+### How long does DND take to activate?
 
-### Q2: Will DND block all calls?
-No. DND only blocks **commercial/telemarketing** calls. Personal calls, transactional SMS (OTPs, bank alerts), and emergency calls are not affected.
+DND activates within 7 days of registration. After that, registered telemarketers are not allowed to call you.
 
-### Q3: Can I receive some promotional messages after DND?
-Yes. You can choose specific categories to allow (e.g., banking, education) while blocking others. Send category codes to 1909.
+### Can I still receive OTP and bank alerts after DND?
 
-### Q4: Is the TRAI DND app free?
-Yes. The TRAI DND app is completely free and official. No charges apply.
+Yes. DND only blocks promotional and marketing calls/SMS. Transactional messages like OTPs, bank alerts, and service notifications are not affected.
 
-### Q5: What if I get spam calls from international numbers?
-International spam calls are harder to block via DND. Use your phone's built-in blocking feature or report to cybercrime portal at [cybercrime.gov.in](https://cybercrime.gov.in) or call **1930**.
+### What if I keep getting spam after DND registration?
 
-### Q6: Can I report spam SMS through TRAI DND app?
-Yes. The app allows reporting both spam calls and SMS. You can attach screenshot evidence for SMS complaints.
+Report every spam call through the TRAI DND app or by SMS to 1909. The more complaints filed against a number, the faster it gets blocked.
 
-### Q7: What action does TRAI take on spam complaints?
-TRAI investigates complaints and can penalize telecom operators up to ₹1,000 per spam call. Repeat offenders can have their telecom resources disconnected.
+### Is Truecaller safe to use?
+
+Truecaller is widely used in India for spam identification. However, it uploads your contacts to its servers. If privacy is a concern, use the TRAI DND app instead which is government-backed.
+
+### Can I report WhatsApp spam calls?
+
+TRAI's DND system primarily covers regular voice calls and SMS. For WhatsApp spam, use WhatsApp's built-in **"Block and Report"** feature.
+
+### What is the difference between DND and NCCP?
+
+NCCP (National Customer Complaint Portal) is the platform where DND complaints are handled. DND is the service; NCCP is the complaint system behind it.
+
+### Can I deactivate DND later?
+
+Yes. Send **STOP 0** to 1909 to deactivate DND and allow promotional calls again.
 
 ---
 
-*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with TRAI or the Government of India. Information is based on official TRAI guidelines and may change. Always verify on [trai.gov.in](https://trai.gov.in).*
+*Disclaimer: This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Government of India or TRAI. Always verify details from official sources.*

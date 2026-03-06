@@ -1,231 +1,187 @@
 ---
 title: "Airtel Broadband Not Working? Fix WiFi & Internet Issues"
 description: >-
-  Fix Airtel broadband and WiFi issues including router offline, slow speed, DNS
-  errors, and PPPoE problems. Complete troubleshooting guide with complaint process.
+  Fix Airtel broadband and WiFi issues including no internet, slow speed, router
+  problems, and fiber cuts. Troubleshooting steps and complaint registration.
 category: Utilities
 keywords:
   - airtel broadband not working
   - airtel wifi not working
-  - airtel xstream fiber problem
-  - airtel internet slow
-  - airtel router offline
+  - airtel internet problem
+  - airtel fiber not working
+  - airtel broadband slow speed
+  - airtel router restart
   - airtel broadband complaint
-  - airtel DNS error
-  - airtel broadband speed fix
-  - airtel fiber internet problem
-  - airtel broadband bill payment
+  - airtel xstream fiber issue
+  - airtel broadband customer care
+  - airtel broadband outage
 readingTime: 8 min
 lastUpdated: 2026-03-06
 officialLinks:
-  - 'https://www.airtel.in/xstream-fiber'
-  - 'https://www.airtel.in/contact-us'
+  - 'https://www.airtel.in/support'
+  - 'https://www.airtel.in/broadband/'
   - 'https://trai.gov.in/'
 ---
 
 # Airtel Broadband Not Working? Fix WiFi & Internet Issues
 
-Is your Airtel Xstream Fiber or broadband connection not working? Whether your router is offline, WiFi is connected but there's no internet, or speeds are too slow — this guide covers all the fixes you need. Follow these steps before calling customer care.
+Is your Airtel Xstream Fiber or broadband connection not working? Whether you have no internet, slow speeds, or WiFi connectivity problems, this guide will help you troubleshoot and fix the issue step by step.
 
 ## Common Airtel Broadband Problems
 
-- **Router offline** — All lights off or red light blinking
-- **WiFi connected but no internet** — Device connects to WiFi but pages don't load
-- **Extremely slow speed** — Not getting the speed you're paying for
-- **Frequent disconnections** — Internet drops every few minutes
-- **DNS errors** — "DNS server not responding" or "This site can't be reached"
+- **No internet** — router is on but no internet access
+- **WiFi not connecting** — devices cannot find or join the WiFi network
+- **Slow speed** — internet working but much slower than your plan speed
+- **Frequent disconnections** — internet drops every few minutes
+- **Router lights blinking red** — indicates a connectivity issue
+- **Fiber cable cut** — physical damage to the fiber optic cable
 
 ---
 
-## Fix: Airtel Router Offline or Not Working
+## Step-by-Step Troubleshooting
 
-### Step 1: Check Physical Connections
+### Step 1: Restart Your Router
 
-1. Ensure the **power adapter** is plugged in and the power outlet is working
-2. Check the **fiber/LAN cable** — It should be firmly connected to the router's WAN port
-3. Look for **bent or damaged fiber cable** — Even a slight bend can break the connection
-4. Check all router **LED lights**:
-   - **Power** — Should be solid green
-   - **Internet/WAN** — Should be solid green (red = no connection)
-   - **WiFi** — Should be blinking green
+This fixes most temporary issues:
 
-### Step 2: Restart the Router
+1. **Turn off** the router using the power button
+2. **Wait 30 seconds** — this clears the router's temporary memory
+3. **Turn it back on** and wait 2-3 minutes for all lights to stabilize
+4. Check if the **internet light turns green/solid** (not blinking red)
 
-1. Turn off the router using the power button
-2. Wait **30 seconds**
-3. Turn it back on
-4. Wait **2-3 minutes** for it to fully boot and connect
-5. Check if the internet light turns green
+**Pro tip:** If your router has a separate ONT (Optical Network Terminal) box, restart that first, wait 1 minute, then restart the router.
 
-### Step 3: Check for Bill Payment
+### Step 2: Check Router Lights
 
-Unpaid bills cause automatic service disconnection:
+Understanding your Airtel router lights:
 
-1. Open **Airtel Thanks** app → My Account → Bills
-2. Check if there's an outstanding amount
-3. Pay any pending bill immediately
-4. Service resumes within **30 minutes to 2 hours** after payment
+| Light | Green/Solid | Red/Blinking | Off |
+|-------|------------|--------------|-----|
+| Power | Router is on | Power issue | No power |
+| Internet/WAN | Connected | No internet | Not configured |
+| LOS (Line of Signal) | Normal | Fiber issue/cut | Normal (on some models) |
+| WiFi | WiFi active | — | WiFi disabled |
+| LAN | Device connected via cable | — | No wired device |
 
----
+**If LOS light is red:** This usually indicates a fiber cable issue. Check for physical damage to the cable and contact Airtel.
 
-## Fix: WiFi Connected But No Internet
+### Step 3: Check for Outage in Your Area
 
-### Step 1: Test on Multiple Devices
+1. Open the **Airtel Thanks** app
+2. Go to **Help** → **Broadband** → **Internet not working**
+3. The app will check for outages in your area
+4. You can also call **1800-103-0121** (Airtel broadband helpline)
 
-- If only one device has the issue, the problem is with that device
-- If all devices are affected, the problem is with the router/connection
+### Step 4: Test Your Speed
 
-### Step 2: Forget and Reconnect WiFi
+If internet is working but slow:
 
-1. Go to **Settings → WiFi** on your device
-2. Tap on the Airtel network → **Forget Network**
-3. Reconnect by entering the WiFi password again
+1. Connect your laptop/phone to the Airtel WiFi
+2. Visit [speedtest.net](https://www.speedtest.net/) or [fast.com](https://fast.com/)
+3. Run the speed test 2-3 times at different times of day
+4. Compare results with your plan speed
 
-### Step 3: Change DNS Settings
+**Expected speeds:**
+- WiFi speeds are typically 60-80% of your plan speed due to wireless overhead
+- For accurate testing, connect via **LAN cable** directly to the router
+- Test at different times — speeds may drop during peak hours (8-11 PM)
 
-Default DNS can sometimes cause issues. Switch to Google DNS or Cloudflare DNS:
+### Step 5: Fix WiFi Connection Issues
 
-**On your device:**
-1. Go to **Settings → WiFi → Your network → Advanced / IP Settings**
-2. Change IP settings to **Static**
-3. Set DNS 1: **8.8.8.8** (Google) or **1.1.1.1** (Cloudflare)
-4. Set DNS 2: **8.8.4.4** or **1.0.0.1**
+If devices cannot connect to WiFi:
 
-**On the router (applies to all devices):**
-1. Open browser and go to **192.168.1.1** or **192.168.0.1**
-2. Login (default credentials are usually on a sticker on the router)
-3. Go to **Network → WAN → DNS**
-4. Set Primary DNS: **8.8.8.8** and Secondary DNS: **8.8.4.4**
-5. Save and restart the router
+1. **Forget and reconnect** — On your device, forget the WiFi network and reconnect with the password
+2. **Check connected devices** — Too many devices (15+) can slow down the router. Disconnect unused devices
+3. **Change WiFi channel** — Log in to router settings (192.168.1.1) and try a different WiFi channel (1, 6, or 11 for 2.4 GHz)
+4. **Check WiFi band** — Use 5 GHz band for faster speeds in the same room; use 2.4 GHz for better range
+5. **Update device drivers** — On laptops, update WiFi drivers
 
----
+### Step 6: Fix DNS Settings
 
-## Fix: Airtel Broadband Slow Speed
+If some websites don't load but internet works:
 
-### Step 1: Run a Speed Test
+**Change DNS on your device:**
 
-1. Visit [speedtest.net](https://www.speedtest.net/) or use the Airtel Thanks app
-2. Test using a **wired (LAN) connection** for accurate results — WiFi speeds are always lower
-3. Compare with your subscribed plan speed
+| DNS Provider | Primary DNS | Secondary DNS |
+|---|---|---|
+| Google DNS | 8.8.8.8 | 8.8.4.4 |
+| Cloudflare DNS | 1.1.1.1 | 1.0.0.1 |
 
-### Step 2: Optimize WiFi Performance
+**On Windows:**
+1. Control Panel → Network and Sharing Center → Change adapter settings
+2. Right-click WiFi → Properties → Internet Protocol Version 4
+3. Select "Use the following DNS server addresses" and enter the values above
 
-1. **Place router centrally** — Don't keep it in a corner or closed cabinet
-2. **Reduce interference** — Keep away from microwaves, cordless phones, and other electronics
-3. **Use 5GHz band** — If your router is dual-band, connect to the 5GHz network for faster speeds (shorter range)
-4. **Limit connected devices** — Too many devices slow down the connection
-5. **Change WiFi channel** — Access router settings (192.168.1.1) → WiFi → Channel → Try channels 1, 6, or 11 for 2.4GHz
+**On Android/iPhone:**
+1. Go to WiFi settings → tap your connected network
+2. Change DNS to Manual and enter the values above
 
-### Step 3: Check for Background Downloads
+### Step 7: Check for Fiber Cable Damage
 
-- Pause any active downloads, updates, or streaming on other devices
-- Check for devices using excessive bandwidth (smart TVs, gaming consoles)
+If the LOS light is red or blinking:
 
-### Step 4: Update Router Firmware
-
-1. Open **192.168.1.1** in your browser
-2. Login to router admin panel
-3. Go to **System → Firmware Update**
-4. If an update is available, install it
-5. Router will restart after the update
+1. **Trace the fiber cable** from your router to the wall box
+2. Look for **bends, cuts, or crushed sections** — fiber cables are fragile
+3. **Do not try to repair fiber cables yourself** — even a small bend can break the glass inside
+4. **Call Airtel** at 1800-103-0121 to request a technician visit
 
 ---
 
-## Fix: PPPoE Connection Error
-
-If your Airtel broadband uses PPPoE authentication and shows connection errors:
-
-1. Open router settings at **192.168.1.1**
-2. Go to **Network → WAN → Connection Type**
-3. Ensure it's set to **PPPoE**
-4. Enter your Airtel PPPoE **username and password** (provided during installation)
-5. If you've forgotten credentials, call **121** or visit an Airtel store
-6. Save settings and restart the router
-
----
-
-## Fix: Frequent Disconnections
-
-1. **Check fiber cable** — Look for physical damage, bends, or loose connections
-2. **Check router temperature** — Overheating causes disconnections. Ensure proper ventilation
-3. **Disable power-saving mode** on the router if available
-4. **Factory reset** — As a last resort:
-   - Press and hold the **Reset button** on the router for 10 seconds
-   - Router will reset to factory settings
-   - You'll need to reconfigure WiFi name, password, and PPPoE credentials
-5. If disconnections persist, the issue may be with the **fiber line** — request an Airtel technician visit
-
----
-
-## How to Complain About Airtel Broadband Issues
+## How to Register a Complaint
 
 ### Method 1: Airtel Thanks App
+1. Open the app → **Help** → **Broadband**
+2. Select your issue type
+3. The app may run auto-diagnostics on your connection
+4. If unresolved, it will create a complaint ticket
+5. Note the **complaint number** for tracking
 
-1. Open **Airtel Thanks** app
-2. Go to **Help → Broadband / Fiber Issue**
-3. Select the type of issue
-4. Raise a complaint — note the ticket number
+### Method 2: Call Broadband Helpline
+- **1800-103-0121** — Airtel broadband customer care (toll-free)
+- **198** — General Airtel customer care
 
-### Method 2: Call Customer Care
+### Method 3: Online Chat
+- Visit [airtel.in/support](https://www.airtel.in/support)
+- Use the chat assistant for quick resolution
 
-- Dial **121** from your Airtel mobile
-- Dial **1800-103-4444** from any number (toll-free)
-- For broadband-specific issues, select the broadband/fiber option in IVR
-
-### Method 3: Request Technician Visit
-
-1. Through Airtel Thanks app → Help → Book a technician visit
-2. Or call **121** and request on-site support
-3. Technician visits are **free** for service issues within your plan
-
-### Method 4: Escalate to TRAI
-
-If unresolved after 7 days, you can escalate:
-1. Contact Airtel's **Appellate Authority** (details on [airtel.in/contact-us](https://www.airtel.in/contact-us))
-2. File complaint with [TRAI](https://trai.gov.in/)
+### Method 4: Escalation
+If not resolved within 7 days:
+- Email the **Nodal Officer** of your Airtel circle (details on [airtel.in](https://www.airtel.in/))
+- File complaint on **TRAI** portal at [trai.gov.in](https://trai.gov.in/)
+- Use the **National Consumer Helpline** at [consumerhelpline.gov.in](https://consumerhelpline.gov.in/)
 
 ---
 
 ## Important Tips
 
-1. **Restart your router once a week** — This clears memory and improves performance
-2. **Use wired connection for speed tests** — WiFi speeds depend on distance, walls, and interference
-3. **Keep router firmware updated** — Updates fix bugs and improve security
-4. **Don't cover or enclose the router** — Overheating is a common cause of intermittent issues
-5. **Note your PPPoE credentials** — Save them somewhere safe for when you need to reset the router
+1. **Place your router centrally** — avoid corners, enclosed cabinets, and areas near microwaves or thick walls.
+2. **Restart router weekly** — a regular restart prevents many connectivity issues.
+3. **Change default WiFi password** — the default password printed on the router is easy to guess. Change it via 192.168.1.1.
+4. **Keep firmware updated** — Airtel pushes router firmware updates automatically, but check in router settings (192.168.1.1) → Administration.
+5. **Document slow speeds** — if you consistently get less than 50% of your plan speed, you have grounds for a complaint with TRAI.
 
 ---
 
 ## Frequently Asked Questions
 
-### Why is my Airtel broadband showing red light?
+### Why is my Airtel broadband not working but the router is on?
+The router may be on but not receiving an internet signal. Check if the Internet/WAN light is red. Restart both the ONT and router. If the LOS light is red, there may be a fiber cut — contact Airtel at 1800-103-0121.
 
-A red light on the internet/WAN indicator means the router cannot connect to Airtel's network. This could be due to a fiber cable issue, tower-side problem, or unpaid bill. Check the cable, restart the router, and verify your bill payment.
+### How do I restart my Airtel router properly?
+Turn off the router, wait 30 seconds, then turn it back on. Wait 2-3 minutes for all lights to stabilize. If you have a separate ONT box, restart that first.
 
-### How do I reset my Airtel WiFi router?
+### What should I do if the Airtel fiber cable is cut?
+Do not attempt to repair it yourself. Call Airtel at 1800-103-0121 and report a fiber cut. A technician will be dispatched, usually within 24-48 hours. Cable repair is typically free if the damage is outside your premises.
 
-Press and hold the Reset button (small hole on the back) with a pin for 10 seconds. The router will restart with factory settings. You'll need to reconfigure your WiFi name, password, and PPPoE credentials.
+### How can I check my Airtel broadband speed?
+Connect to your Airtel WiFi (preferably via LAN cable for accurate results) and visit speedtest.net or fast.com. Run the test 2-3 times. WiFi speeds are typically 60-80% of your plan speed.
 
-### What is the default login for Airtel router?
+### Can I change my Airtel broadband plan online?
+Yes. Open the Airtel Thanks app → My Account → My Plans → Change Plan. You can upgrade or downgrade your plan. Changes usually take effect from the next billing cycle.
 
-Open **192.168.1.1** in a browser. Default username is usually **admin** and password is **admin** or printed on a sticker on the router. Change the default password after first login for security.
-
-### How do I check my Airtel broadband plan and speed?
-
-Open the Airtel Thanks app → My Account to see your current plan, speed tier, and data usage. You can also call **121** to check plan details.
-
-### Why is Airtel broadband slow at night?
-
-Network congestion during peak hours (8 PM - 12 AM) can slow speeds. Try using the 5GHz WiFi band, connecting via LAN cable, or changing the WiFi channel. If consistently slow, file a speed complaint with Airtel.
-
-### Can I get a refund for Airtel broadband downtime?
-
-Airtel may provide credit or plan extension for prolonged outages. Contact **121** with your complaint history and downtime details. For extended outages, escalate to the Appellate Authority.
-
-### How do I update Airtel router firmware?
-
-Login to your router at **192.168.1.1** → System → Firmware Update. If an update is available, click Install. The router will restart automatically. Do not turn off the router during the update.
+### What is the Airtel broadband customer care number?
+Call **1800-103-0121** (toll-free) for Airtel broadband and Xstream Fiber support. You can also call **198** from your Airtel mobile number.
 
 ---
 
-*Disclaimer: CitizenNest is an independent platform and is not affiliated with Bharti Airtel Limited or any government body. Information is provided for general guidance. Contact Airtel directly for account-specific issues.*
+> **Disclaimer:** CitizenNest is an independent platform and is not affiliated with Bharti Airtel Limited. Information is provided for guidance only. For official support, contact Airtel at 1800-103-0121 or visit [airtel.in/support](https://www.airtel.in/support).

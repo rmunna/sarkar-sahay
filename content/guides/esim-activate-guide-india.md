@@ -1,176 +1,216 @@
 ---
 title: "eSIM Activate India: How to Setup on iPhone & Android"
 description: >-
-  Activate eSIM in India on Jio, Airtel, Vi. Step-by-step setup for iPhone and
-  Android phones. QR code process, dual SIM setup, benefits, and travel use.
+  Complete guide to activate eSIM in India for Jio, Airtel, and Vi. Step-by-step
+  setup on iPhone and Android, QR code method, and dual SIM configuration.
 category: Utilities
 keywords:
-  - eSIM activate India
-  - eSIM setup iPhone
-  - eSIM Jio activate
+  - eSIM India
+  - eSIM activate
+  - eSIM Jio
   - eSIM Airtel
-  - eSIM Android setup
-  - eSIM QR code India
+  - eSIM setup iPhone
+  - eSIM Android India
+  - eSIM QR code
   - dual SIM eSIM
-  - eSIM Vi activate
-  - eSIM supported phones India
-  - convert to eSIM India
+  - eSIM activate India
+  - convert to eSIM
 readingTime: 8 min
 lastUpdated: "2026-03-06"
 officialLinks:
-  - "https://www.jio.com/selfcare/plans/esim/"
-  - "https://www.airtel.in/esim"
-  - "https://www.myvi.in/"
+  - 'https://www.jio.com/selfcare/plans/jiophone-plans/'
+  - 'https://www.airtel.in/esim'
+  - 'https://www.myvi.in/esim'
+  - 'https://www.trai.gov.in/'
 ---
 
 # eSIM Activate India: How to Setup on iPhone & Android
 
-An eSIM (embedded SIM) is a digital SIM built into your phone — no physical SIM card needed. In India, Jio, Airtel, and Vi support eSIM activation. This guide covers the complete process to activate eSIM on iPhone and Android, including QR code scanning, dual SIM configuration, and operator-specific steps.
+An eSIM (embedded SIM) is a digital SIM built into your phone — no physical SIM card needed. In India, Jio, Airtel, and Vi support eSIM activation. This guide covers everything you need to set up eSIM on your iPhone or Android device.
 
 ## What is an eSIM?
 
-An eSIM is a programmable SIM chip embedded inside your phone. Instead of inserting a physical nano SIM, you download your operator's profile digitally. You can store multiple eSIM profiles and switch between them without swapping cards.
+An eSIM is a programmable SIM chip embedded in your device. Instead of inserting a physical SIM card, you download a carrier profile digitally. Benefits include:
 
-## Benefits of eSIM
-
-- **Dual SIM without two physical SIMs** — use eSIM + physical SIM together
-- **Quick activation** — no need to visit a store for a SIM card
-- **Travel-friendly** — add a local eSIM abroad while keeping your Indian number active
-- **No SIM damage or loss** — the chip is inside the phone
-- **Switch operators easily** — download a new profile without changing SIM
-
-## Supported Phones in India
-
-### iPhone (eSIM support)
-- iPhone XS, XR and all newer models (including iPhone 14, 15, 16 series)
-
-### Android (eSIM support)
-- Google Pixel 3 and newer
-- Samsung Galaxy S20 and newer, Galaxy Z Fold/Flip series
-- OnePlus (select models from OnePlus 11 onwards)
-- Motorola Razr series
-- Other flagship phones — check your phone's specifications
-
-> **Check your phone:** Go to Settings → About Phone → look for EID number. If present, your phone supports eSIM.
-
-## How to Activate eSIM: Operator-Wise Process
-
-### Jio eSIM Activation
-
-**Method 1: Via MyJio App**
-1. Download/open the **MyJio** app
-2. Go to **My Account** → **SIM Settings** → **eSIM**
-3. Select **Convert to eSIM** or **Get new eSIM**
-4. Verify with OTP sent to your registered number
-5. A QR code or activation profile will be generated
-6. Scan the QR code from your phone's eSIM settings
-7. eSIM activates within minutes
-
-**Method 2: Via SMS**
-1. From your Jio number, send SMS: **GETESIM <EID> <IMEI>** to **199**
-   - Find EID: Settings → About Phone → EID
-   - Find IMEI: Dial *#06#
-2. You will receive a confirmation SMS
-3. Visit the nearest Jio Store with Aadhaar for verification (if required)
-4. Receive QR code and scan it
-
-### Airtel eSIM Activation
-
-1. Ensure your Airtel number is active and KYC-complete
-2. Send SMS: **eSIM <registered email>** to **121**
-3. You will receive a call for verification
-4. After verification, you receive an eSIM QR code via email
-5. Scan the QR code from your phone's eSIM settings
-6. Airtel eSIM activates within 2 hours
-
-**OR visit an Airtel Store** — carry your [Aadhaar card](/guide/aadhaar-card-apply-online) and the eSIM-supported phone. The store executive will process the conversion.
-
-### Vi (Vodafone Idea) eSIM Activation
-
-1. Call **199** from your Vi number
-2. Request eSIM conversion
-3. Complete verification process
-4. Vi sends the eSIM QR code to your registered email
-5. Scan the QR code from phone settings
-6. eSIM activates within a few hours
-
-**OR visit a Vi Store** with your Aadhaar and phone for in-store conversion.
-
-## How to Scan eSIM QR Code
-
-### On iPhone
-1. Go to **Settings** → **Cellular** → **Add eSIM**
-2. Tap **Use QR Code**
-3. Scan the QR code provided by your operator
-4. Tap **Continue** and wait for activation
-5. Label the eSIM (e.g., "Jio" or "Work")
-6. Set your preferred default line for calls, messages, and data
-
-### On Android
-1. Go to **Settings** → **Network & Internet** → **SIMs** → **Add SIM**
-2. Select **Download a SIM instead** (or **Use eSIM**)
-3. Tap **Scan QR code**
-4. Scan the operator's QR code
-5. Confirm and wait for activation
-6. Configure default SIM preferences
-
-## Dual SIM Setup with eSIM
-
-With eSIM, you can run two numbers simultaneously:
-- **Physical SIM** in the tray + **eSIM** as the second line
-- Choose which SIM handles calls, SMS, and mobile data separately
-- Useful for personal + work numbers, or Indian number + travel eSIM
-
-**To configure on iPhone:** Settings → Cellular → manage Default Voice Line, SMS, and Cellular Data.
-
-**To configure on Android:** Settings → SIM Manager → set defaults for calls, SMS, and data.
-
-## eSIM for International Travel
-
-1. Keep your Indian eSIM/physical SIM active for receiving OTPs
-2. Buy a local eSIM for your travel destination (e.g., Airalo, Holafly)
-3. Scan the travel eSIM QR code and add it
-4. Set travel eSIM as default for data, keep Indian SIM for calls
-5. Avoid expensive international roaming charges
-
-## Important Tips
-
-1. **eSIM conversion is free** on most operators — no charges for switching from physical to eSIM
-2. **Backup your QR code** — save the eSIM QR code image; you may need it if you reset your phone
-3. **Factory reset removes eSIM** — you will need to re-scan the QR code or contact your operator
-4. **One QR code = one device** — you cannot use the same QR code on multiple phones simultaneously
-5. **KYC must be complete** — your Aadhaar-linked KYC must be verified before eSIM activation
-
-## Frequently Asked Questions
-
-### 1. Is eSIM activation free in India?
-
-Yes. Jio, Airtel, and Vi do not charge for converting a physical SIM to eSIM.
-
-### 2. Can I use two eSIMs on one phone?
-
-Some newer phones (like iPhone 13 and above) support two eSIMs simultaneously. Older eSIM phones support one eSIM + one physical SIM.
-
-### 3. Can I switch back from eSIM to physical SIM?
-
-Yes. Contact your operator or visit their store to get a physical SIM reissued for your number.
-
-### 4. What happens to my eSIM if I reset my phone?
-
-A factory reset may erase the eSIM profile. You will need to re-scan the QR code or contact your operator for a new one.
-
-### 5. Does BSNL support eSIM?
-
-As of March 2026, BSNL's eSIM support is limited and not widely available. Check with your local BSNL office.
-
-### 6. Can I use eSIM on a phone bought abroad?
-
-Yes, if the phone is unlocked and supports eSIM. Indian operators can provision an eSIM on any compatible unlocked phone.
-
-### 7. How do I find my EID number?
-
-On iPhone: Settings → General → About → scroll to EID. On Android: Settings → About Phone → EID.
+- **No physical SIM needed** — activate instantly via QR code or app
+- **Dual SIM support** — use eSIM + physical SIM together (two numbers, one phone)
+- **Easy operator switching** — switch carriers without swapping SIM cards
+- **More secure** — cannot be removed or stolen like a physical SIM
 
 ---
 
-*This guide is for informational purposes only. CitizenNest is not affiliated with any telecom operator. Verify details on your operator's official website. Information is current as of March 2026.*
+## Supported Operators in India
+
+| Operator | eSIM Support | Activation Method |
+|---|---|---|
+| **Jio** | ✅ Yes | MyJio app / QR code |
+| **Airtel** | ✅ Yes | Airtel Thanks app / QR code |
+| **Vi (Vodafone Idea)** | ✅ Yes | Vi app / QR code |
+| **BSNL** | ❌ Not yet | Not available |
+
+---
+
+## Supported Devices
+
+### iPhone (iPhone XS and later)
+iPhone XS, XR, 11, 12, 13, 14, 15, 16 series and all SE (2nd gen+)
+
+### Android
+- **Samsung:** Galaxy S20 and later, Galaxy Z Fold/Flip series, Galaxy A54 5G+
+- **Google Pixel:** Pixel 3a and later
+- **OnePlus:** OnePlus 12, Open
+- **Other:** Select Motorola, Nothing Phone, and other flagships
+
+*Check your phone: Settings → About Phone → look for "EID" number. If present, your phone supports eSIM.*
+
+---
+
+## How to Activate eSIM on iPhone
+
+### For Jio eSIM (iPhone)
+
+1. Ensure you have an **active Jio physical SIM** (you'll convert it to eSIM)
+2. Open **MyJio app** → Menu → My Account
+3. Tap **eSIM** option
+4. Verify with OTP sent to your Jio number
+5. You'll receive a **QR code** or activation link via email
+6. Go to **Settings → Cellular → Add Cellular Plan**
+7. Scan the **QR code**
+8. Label the plan (e.g., "Jio") and set defaults for calls, data, and iMessage
+9. Your Jio eSIM activates within **2 hours**
+
+### For Airtel eSIM (iPhone)
+
+1. Ensure you have an **active Airtel SIM**
+2. Open **Airtel Thanks app** → Account → eSIM
+3. Request eSIM conversion, verify via OTP
+4. Receive **QR code** via email/app
+5. Go to **Settings → Cellular → Add Cellular Plan**
+6. Scan the QR code
+7. Configure defaults and labels
+8. Activation: **within 2 hours**
+
+### For Vi eSIM (iPhone)
+
+1. Ensure you have an **active Vi SIM**
+2. SMS `eSIM <EID number>` to **199** (find EID in Settings → General → About)
+3. Or visit a Vi store for QR code generation
+4. Go to **Settings → Cellular → Add Cellular Plan**
+5. Scan the QR code
+6. Activation: **2-4 hours**
+
+---
+
+## How to Activate eSIM on Android
+
+### For Jio eSIM (Android)
+
+1. Open **MyJio app** → eSIM section
+2. Tap **Convert to eSIM**
+3. Verify with OTP
+4. Receive QR code
+5. Go to **Settings → Network & Internet → SIMs → Add SIM (or +)**
+6. Select **Scan QR code** and scan the Jio QR code
+7. Confirm and wait for activation (**2 hours**)
+
+### For Airtel eSIM (Android)
+
+1. Open **Airtel Thanks app** → eSIM
+2. Request conversion, verify via OTP
+3. Receive QR code
+4. Go to **Settings → Network & Internet → SIMs → Add SIM**
+5. Scan QR code
+6. Activation: **within 2 hours**
+
+### For Vi eSIM (Android)
+
+1. SMS `eSIM <EID>` to **199**
+2. Receive QR code via email or at Vi store
+3. Go to **Settings → Network & Internet → SIMs → Add SIM**
+4. Scan QR code
+5. Activation: **2-4 hours**
+
+*Note: Android menu paths may vary by manufacturer (Samsung, Pixel, OnePlus, etc.).*
+
+---
+
+## New Connection via eSIM
+
+If you want a **new number** (not converting existing SIM):
+
+- **Jio:** Visit Jio Store or order online at jio.com — select eSIM option during activation
+- **Airtel:** Visit Airtel Store — request eSIM new connection with eKYC
+- **Vi:** Visit Vi Store — eSIM available for new postpaid connections
+
+Documents needed: [Aadhaar card](/guide/aadhaar-card-apply-online) for eKYC + passport-size photo.
+
+---
+
+## Dual SIM Setup with eSIM
+
+Most modern phones support **1 physical SIM + 1 eSIM** (some newer iPhones support dual eSIM):
+
+1. Keep your **primary number** on physical SIM or eSIM
+2. Add the **secondary number** as eSIM
+3. In phone settings, configure:
+   - **Default line for calls**
+   - **Default line for data**
+   - **Default line for messages**
+4. You can receive calls on both numbers simultaneously
+
+---
+
+## Fees
+
+| Item | Cost |
+|---|---|
+| eSIM conversion (existing SIM) | **Free** (all operators) |
+| New eSIM connection | Same as physical SIM connection charges |
+| QR code regeneration | Free (usually) |
+
+---
+
+## Important Tips
+
+1. **Keep a stable WiFi connection** during eSIM activation — you need internet to download the carrier profile
+2. **Don't delete the eSIM profile** accidentally — you'll need to repeat the process at the store
+3. **Screenshot the QR code** before scanning — some operators don't regenerate it easily
+4. **eSIM is device-locked** — if you switch phones, you need to request a new eSIM profile from your operator
+5. **Backup before switching** — converting from physical SIM to eSIM requires your old SIM to be deactivated
+
+---
+
+## Processing Time
+
+- **eSIM activation:** 2-4 hours after QR code scan
+- **New eSIM connection:** Same day (with eKYC at store)
+- **eSIM transfer to new device:** 1-24 hours (contact operator)
+
+---
+
+## FAQs
+
+### Can I convert my physical SIM to eSIM without visiting a store?
+Yes, for Jio and Airtel you can do it through their apps. Vi may require a store visit or SMS-based process.
+
+### Can I switch back from eSIM to physical SIM?
+Yes. Visit your operator's store and request a physical SIM. The eSIM profile will be deactivated.
+
+### Will I lose my number when converting to eSIM?
+No. Your number remains the same. The conversion only changes the SIM format from physical to digital.
+
+### Can I use two eSIMs on one phone?
+iPhone 13 and later support dual eSIM (no physical SIM needed). Most Android phones support only one eSIM at a time.
+
+### What happens if I factory reset my phone?
+The eSIM profile may be deleted. You'll need to contact your operator and request a new QR code to re-activate.
+
+### Can I use eSIM while traveling internationally?
+Yes. Your eSIM works abroad for roaming. You can also add a local eSIM in the second slot for cheaper data abroad.
+
+### Does eSIM support [WiFi Calling](/guide/wifi-calling-enable-guide)?
+Yes. eSIM supports WiFi Calling (VoWiFi) just like a physical SIM, provided your operator and device support it.
+
+---
+
+*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with Jio, Airtel, Vi, or any telecom operator. Verify specific steps and compatibility with your operator.*

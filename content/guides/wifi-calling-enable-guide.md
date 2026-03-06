@@ -1,156 +1,209 @@
 ---
 title: "WiFi Calling Enable: How to Activate on Any Phone"
 description: >-
-  Enable WiFi calling (VoWiFi) on Jio, Airtel, Vi, BSNL. Step-by-step guide
-  for iPhone and Android. Make calls over WiFi when mobile signal is weak.
+  How to enable WiFi Calling (VoWiFi) on Jio, Airtel, and Vi. Step-by-step
+  guide for iPhone and Android with benefits, troubleshooting, and setup tips.
 category: Utilities
 keywords:
-  - WiFi calling enable
-  - VoWiFi activate India
+  - WiFi calling
+  - VoWiFi India
   - WiFi calling Jio
   - WiFi calling Airtel
-  - WiFi calling Android
+  - WiFi calling Vi
+  - enable WiFi calling
   - WiFi calling iPhone
-  - enable WiFi calling Vi
-  - WiFi calling BSNL
-  - VoWiFi India setup
-  - WiFi calling settings
+  - WiFi calling Android
+  - VoWiFi activate
+  - WiFi calling not working
 readingTime: 7 min
 lastUpdated: "2026-03-06"
 officialLinks:
-  - "https://www.jio.com/"
-  - "https://www.airtel.in/"
-  - "https://www.myvi.in/"
-  - "https://www.bsnl.co.in/"
+  - 'https://www.jio.com/en-in/wifi-calling'
+  - 'https://www.airtel.in/wifi-calling'
+  - 'https://www.myvi.in/wifi-calling'
+  - 'https://www.trai.gov.in/'
 ---
 
-# WiFi Calling Enable: How to Activate on Any Phone in India
+# WiFi Calling Enable: How to Activate on Any Phone
 
-WiFi Calling (also called VoWiFi) lets you make and receive phone calls over a WiFi network instead of a mobile tower. This is extremely useful in areas with poor mobile signal — like basements, offices, or rural areas — as long as you have WiFi. All major Indian operators support it and it is free to enable.
+WiFi Calling (also called VoWiFi) lets you make and receive calls over a WiFi network instead of the cellular network. It's especially useful in areas with weak mobile signal but good WiFi. Here's how to enable it on Jio, Airtel, and Vi.
 
 ## What is WiFi Calling (VoWiFi)?
 
-Voice over WiFi (VoWiFi) routes your regular phone calls through a WiFi connection. It uses your existing phone number — no separate app needed. Calls are charged at the same rate as normal calls (or deducted from your plan minutes). The other person does not need WiFi calling enabled.
+WiFi Calling uses your internet connection (WiFi) to make voice calls. It works just like a regular phone call — you use the same dialer, same number, and the other person doesn't need WiFi Calling.
 
-## Requirements
-
-- A **WiFi calling supported phone** (most phones launched after 2019)
-- An **active mobile plan** with a supporting operator
-- A **WiFi connection** with reasonable internet speed (minimum 1 Mbps recommended)
-- **VoLTE must be enabled** on your phone (WiFi calling depends on VoLTE infrastructure)
-
-## How to Enable WiFi Calling on Android
-
-1. Open **Settings**
-2. Go to **Network & Internet** → **SIMs** (or **Connections** → **SIM Manager** on Samsung)
-3. Select your SIM card
-4. Find **WiFi Calling** and toggle it **ON**
-5. You may see a terms & conditions popup — accept it
-6. A WiFi calling icon will appear in your status bar when active
-
-> On some phones, the path is: Settings → Connections → WiFi Calling
-
-## How to Enable WiFi Calling on iPhone
-
-1. Open **Settings**
-2. Tap **Cellular** (or **Mobile Data**)
-3. Tap your SIM under **SIMs**
-4. Tap **WiFi Calling**
-5. Toggle **WiFi Calling on This iPhone** to **ON**
-6. Accept the terms if prompted
-7. You will see "WiFi" next to the carrier name in the status bar
-
-## Operator-Specific Notes
-
-### Jio WiFi Calling
-
-- **Supported:** Yes, on most 4G/5G phones
-- **Activation:** Automatic once enabled in phone settings; no separate registration needed
-- **Charges:** Same as regular Jio plan (unlimited calls included in most plans)
-- **Note:** Works on Jio 4G SIM only
-
-### Airtel WiFi Calling
-
-- **Supported:** Yes, widely available
-- **Activation:** Enable in phone settings; may require a network refresh (dial *121# and check)
-- **Charges:** Same as regular Airtel plan rates
-- **Note:** Airtel was one of the first operators to launch VoWiFi in India
-
-### Vi (Vodafone Idea) WiFi Calling
-
-- **Supported:** Yes, in select circles
-- **Activation:** Enable in phone settings
-- **Charges:** Standard Vi plan rates apply
-- **Note:** Availability varies by circle — check the Vi app for your region
-
-### BSNL WiFi Calling
-
-- **Supported:** Limited availability (expanding with 4G rollout)
-- **Activation:** Enable in phone settings where available
-- **Charges:** Standard BSNL rates
-- **Note:** BSNL's VoWiFi availability depends on 4G network expansion in your area
-
-## When is WiFi Calling Useful?
-
-- **Basements and underground areas** where mobile signal doesn't reach
-- **High-rise buildings** with poor indoor coverage
-- **Rural areas** with WiFi but weak mobile towers
-- **Offices and malls** with thick walls blocking cellular signal
-- **International travel** — connect to hotel WiFi and make calls at local rates (operator dependent)
-
-## Battery & Data Impact
-
-- **Battery:** WiFi calling uses slightly less battery than searching for weak mobile signals, so it can actually *improve* battery life in low-signal areas
-- **Data usage:** A voice call uses approximately 1 MB per minute over WiFi
-- **No extra charges:** WiFi calling does not consume your mobile data; it uses WiFi bandwidth
-
-## Troubleshooting
-
-| Problem | Solution |
-|---------|----------|
-| WiFi Calling option not showing | Update your phone software; check if your phone model is supported by your operator |
-| Calls dropping on WiFi | Ensure stable WiFi with at least 1 Mbps; move closer to router |
-| Poor call quality | Switch to 5 GHz WiFi band if available; reduce WiFi congestion |
-| WiFi Calling not working after MNP | Re-insert SIM and restart phone; contact new operator |
-
-## Important Tips
-
-1. **WiFi Calling is free to enable** — no extra subscription or charges from any operator
-2. **Emergency calls** may not work over WiFi calling in all cases — keep mobile network as backup
-3. **Seamless handover** — if you leave WiFi range during a call, it switches to mobile network automatically
-4. **Both caller and receiver don't need WiFi** — only you need it enabled; the other person can be on normal mobile
-5. **Check operator support list** — not all phone models support WiFi calling on all operators; check your operator's website
-
-## Frequently Asked Questions
-
-### 1. Is WiFi calling free in India?
-
-Yes. Enabling WiFi calling is free. Calls made over WiFi are charged at the same rate as regular mobile calls (covered under your plan's free minutes).
-
-### 2. Does the other person need WiFi calling too?
-
-No. WiFi calling is needed only on your end. The other person can receive the call normally on their mobile network.
-
-### 3. Can I use WiFi calling abroad?
-
-Yes, if your operator supports it internationally. Connect to any WiFi network abroad and calls may be charged at local rates instead of international roaming rates. Check with your operator.
-
-### 4. Does WiFi calling work on all phones?
-
-No. Your phone must support VoWiFi and your operator must have certified your phone model. Most phones launched after 2019 support it.
-
-### 5. Will WiFi calling drain my battery?
-
-No. In fact, in low-signal areas, WiFi calling can reduce battery drain because your phone stops searching for weak mobile towers.
-
-### 6. Can I send SMS over WiFi calling?
-
-Yes. When WiFi calling is enabled, SMS messages are also routed over WiFi if mobile signal is unavailable.
-
-### 7. How do I know if WiFi calling is active?
-
-You will see a WiFi calling icon or the word "WiFi" next to your operator name in the status bar.
+**Key benefits:**
+- **Better coverage indoors** — works where mobile signal is weak (basements, offices, rural areas)
+- **HD voice quality** — calls over WiFi are often clearer than regular calls
+- **No extra charges** — billed the same as regular calls (uses your existing plan)
+- **No special app needed** — works through your phone's native dialer
+- **Works with [eSIM](/guide/esim-activate-guide-india)** — supported on both physical SIM and eSIM
 
 ---
 
-*This guide is for informational purposes only. CitizenNest is not affiliated with any telecom operator. Verify details on your operator's official website. Information is current as of March 2026.*
+## Supported Operators
+
+| Operator | WiFi Calling | Supported Devices |
+|---|---|---|
+| **Jio** | ✅ Yes | Most smartphones (2018+) |
+| **Airtel** | ✅ Yes | 150+ devices |
+| **Vi** | ✅ Yes | Select devices |
+| **BSNL** | ❌ Not yet | Not available |
+
+---
+
+## How to Enable WiFi Calling on iPhone
+
+### Step 1: Check Compatibility
+WiFi Calling is supported on **iPhone 6s and later** with Jio, Airtel, and Vi.
+
+### Step 2: Enable WiFi Calling
+1. Go to **Settings → Cellular (or Mobile Data)**
+2. Tap **WiFi Calling**
+3. Toggle **WiFi Calling on This iPhone** → **ON**
+4. Accept the terms and conditions if prompted
+5. You'll see **"WiFi"** or a WiFi icon next to your carrier name in the status bar when active
+
+### For Dual SIM iPhone
+1. Go to **Settings → Cellular**
+2. Select the SIM line you want to enable WiFi Calling for
+3. Tap **WiFi Calling** → Toggle ON
+4. Repeat for the second SIM if needed
+
+---
+
+## How to Enable WiFi Calling on Android
+
+*Menu paths vary by manufacturer. Below are common paths:*
+
+### Samsung
+1. Go to **Settings → Connections → WiFi Calling**
+2. Toggle **ON**
+3. Accept terms if prompted
+
+### Google Pixel
+1. Go to **Settings → Network & Internet → SIMs**
+2. Select your SIM
+3. Tap **WiFi Calling** → Toggle ON
+
+### OnePlus
+1. Go to **Settings → WiFi & Network → SIM & Network**
+2. Select your SIM
+3. Enable **WiFi Calling**
+
+### Xiaomi / Redmi / POCO
+1. Go to **Settings → SIM Cards & Mobile Networks**
+2. Select your SIM
+3. Enable **Make calls using WiFi** or **WiFi Calling**
+
+### Generic Android
+1. Go to **Settings → Network & Internet → Mobile Network**
+2. Tap your SIM
+3. Look for **WiFi Calling** or **VoWiFi** → Toggle ON
+
+---
+
+## Operator-Specific Setup
+
+### Jio WiFi Calling
+- **Activation:** Automatic — just enable in phone settings
+- **No app needed** — works through native dialer
+- **Supported on:** Most 4G/5G smartphones
+- Check supported device list: [jio.com/wifi-calling](https://www.jio.com/en-in/wifi-calling)
+
+### Airtel WiFi Calling
+- **Activation:** Enable in phone settings
+- Some devices may require: Open **Airtel Thanks app** → Enable WiFi Calling from settings
+- **Supported on:** 150+ devices
+- Check: [airtel.in/wifi-calling](https://www.airtel.in/wifi-calling)
+
+### Vi WiFi Calling
+- **Activation:** Enable in phone settings
+- **Supported on:** Select devices
+- Check: [myvi.in/wifi-calling](https://www.myvi.in/wifi-calling)
+
+---
+
+## How to Verify WiFi Calling is Working
+
+Once enabled:
+1. Connect to a **WiFi network**
+2. Check the status bar — you should see **"WiFi Calling"**, **"VoWiFi"**, or a small WiFi icon next to your carrier name
+3. Make a test call — the call should connect even if you have no cellular signal
+4. On some phones, the call log shows a WiFi icon next to WiFi calls
+
+---
+
+## Troubleshooting WiFi Calling
+
+| Problem | Solution |
+|---|---|
+| WiFi Calling option not showing | Update your phone software; check if device is supported by your operator |
+| Enabled but not connecting | Restart your phone; disconnect and reconnect WiFi; toggle WiFi Calling off and on |
+| Calls dropping on WiFi | Check WiFi speed (minimum 1 Mbps recommended); move closer to router |
+| Poor call quality | Switch to 5 GHz WiFi band if available; reduce network congestion |
+| Error during activation | Ensure your operator plan is active; try after sometime; contact customer care |
+| Not working after [SIM replacement](/guide/sim-card-lost-block-replace) | Re-enable WiFi Calling in settings after new SIM activation |
+
+### Still Not Working?
+- **Restart** your phone
+- **Update** to the latest software version
+- **Reset network settings** (Settings → General/System → Reset → Reset Network Settings)
+- Contact your operator: Jio (198), Airtel (121), Vi (199)
+
+---
+
+## Fees
+
+| Item | Cost |
+|---|---|
+| WiFi Calling activation | **Free** |
+| Call charges | Same as regular call rates (as per your plan) |
+| Data usage | Uses WiFi — **no mobile data consumed** |
+
+---
+
+## Important Tips
+
+1. **WiFi Calling works only on your home network** — it does not work when roaming internationally (some operators may support it — check with yours)
+2. **Emergency calls (112)** may not work over WiFi Calling — your phone may switch to cellular for emergency calls
+3. **Minimum WiFi speed** of 1 Mbps is recommended for stable calls
+4. **Battery consumption** may increase slightly when WiFi Calling is active
+5. **No VPN** — WiFi Calling may not work when a VPN is active on your phone
+
+---
+
+## Processing Time
+
+- **Activation:** Instant (just toggle on in settings)
+- **No waiting period** — works immediately after enabling
+- **No store visit required**
+
+---
+
+## FAQs
+
+### Is WiFi Calling free?
+The feature itself is free. Calls are charged at your regular plan rates — no extra cost for using WiFi.
+
+### Does the other person need WiFi Calling too?
+No. WiFi Calling is on your end only. You can call any number — landline, mobile, or international.
+
+### Will WiFi Calling work without a SIM card?
+No. You need an active SIM (physical or [eSIM](/guide/esim-activate-guide-india)) with a supported operator. WiFi Calling is a carrier feature, not an internet calling app.
+
+### Can I use WiFi Calling and mobile data simultaneously?
+Yes. WiFi Calling uses your WiFi for voice calls while mobile data can be used separately. However, most phones use WiFi for both when connected.
+
+### Does WiFi Calling work on 2.4 GHz and 5 GHz WiFi?
+Yes, it works on both. The 5 GHz band generally provides better call quality due to less interference.
+
+### What happens if WiFi disconnects during a call?
+Your phone will attempt to seamlessly switch to the cellular network. If cellular signal is also unavailable, the call may drop.
+
+### Can I send SMS over WiFi Calling?
+Yes. When WiFi Calling is active, SMS messages are also sent and received over WiFi.
+
+---
+
+*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with Jio, Airtel, Vi, or any telecom operator. Device compatibility and feature availability may vary. Check with your operator for the latest supported device list.*

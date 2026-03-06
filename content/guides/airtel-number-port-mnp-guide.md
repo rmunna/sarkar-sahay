@@ -1,175 +1,186 @@
 ---
 title: "Port Number to Airtel: MNP Process Step-by-Step"
 description: >-
-  Complete guide to port your mobile number to Airtel via MNP. UPC generation,
-  SMS format, documents, timeline, and plan selection after porting explained.
+  Complete guide to port your mobile number to Airtel via MNP. Steps for SMS
+  PORT to 1900, UPC generation, documents, timeline, and eSIM porting.
 category: Utilities
 keywords:
   - port number to airtel
   - airtel MNP process
   - mobile number portability airtel
-  - airtel porting
-  - UPC code for airtel
-  - port to airtel SMS
+  - airtel port in
+  - SMS PORT to 1900
+  - airtel UPC code
+  - airtel number porting
   - MNP to airtel
-  - switch to airtel
+  - port to airtel eSIM
   - airtel porting documents
-  - airtel port in plan
 readingTime: 7 min
 lastUpdated: 2026-03-06
 officialLinks:
   - 'https://www.airtel.in/port-in'
-  - 'https://www.airtel.in/contact-us'
+  - 'https://www.airtel.in/support'
   - 'https://trai.gov.in/release-publication/mobile-number-portability'
 ---
 
 # Port Number to Airtel: MNP Process Step-by-Step
 
-Want to switch to Airtel without changing your mobile number? Mobile Number Portability (MNP) allows you to move your existing number from any operator (Jio, Vi, BSNL) to Airtel. This guide covers the complete porting process — from generating a UPC code to activating your new Airtel SIM.
+Want to switch to Airtel without changing your mobile number? Mobile Number Portability (MNP) allows you to keep your existing number and move to Airtel from any operator — Jio, Vi (Vodafone Idea), BSNL, or others. Here's the complete process.
 
 ## What is Mobile Number Portability (MNP)?
 
-MNP is a TRAI-regulated facility that lets you switch your mobile operator while keeping the same phone number. You can port from any operator to Airtel (or vice versa) without any number change. The process is free — you only pay for the new Airtel plan you choose.
+MNP is a TRAI-mandated facility that lets you switch telecom operators while keeping your mobile number. You can port to Airtel from any operator in India. The process takes approximately **4 working days** within the same telecom circle and **up to 7 working days** for inter-circle porting.
 
 ---
 
-## Eligibility to Port to Airtel
+## Eligibility for Porting to Airtel
 
 - Your current number must be **at least 90 days old** with the existing operator
-- No **pending contractual obligations** with your current operator
-- You must not have ported in the **last 90 days**
-- Your number should be **active** (not suspended or disconnected)
-- There should be **no pending request** for change of ownership
+- **No pending contractual obligations** with your current operator
+- There should be **no pending request** for change of ownership on the number
+- Your number should **not be under any legal/court order** restriction
 
 ---
 
-## Step-by-Step: How to Port Your Number to Airtel
+## Documents Required
+
+- **Aadhaar card** (original for biometric verification + photocopy)
+- **Passport-size photograph** (1 copy)
+- **UPC (Unique Porting Code)** — generated via SMS (see steps below)
+- **Porting form** — filled at the Airtel store
+
+---
+
+## Step-by-Step Porting Process
 
 ### Step 1: Generate UPC (Unique Porting Code)
 
-Send an SMS from the number you want to port:
+From your current mobile number, send the following SMS:
 
-**SMS Format:** `PORT <your 10-digit number>` to **1900**
+**SMS:** `PORT <space> <your 10-digit mobile number>` to **1900**
 
-**Example:** `PORT 9876543210` to **1900**
+Example: `PORT 9876543210` → Send to **1900**
 
-You'll receive a **UPC code** via SMS within a few minutes. This code is valid for **15 days** (4 days in some circles).
+You will receive a **UPC (Unique Porting Code)** via SMS within a few minutes. This code is valid for **4 days** — complete the porting process within this time.
 
 ### Step 2: Visit an Airtel Store
 
-1. Go to the nearest **Airtel Store** with:
-   - Your **UPC code**
-   - [Aadhaar card](/guide/aadhaar-card-apply-online) (original + photocopy)
-   - Passport-size photograph
-   - Current SIM in your phone (keep it active until porting completes)
+1. Find the nearest Airtel store at [airtel.in](https://www.airtel.in/)
+2. Carry the following:
+   - Your **UPC code** (received via SMS)
+   - **Aadhaar card** (original + photocopy)
+   - **Passport-size photo** (1 copy)
+   - Your **current SIM card** (keep it active)
 
-2. Fill the **Customer Acquisition Form (CAF)** / porting form
-3. Complete **biometric verification** (Aadhaar-based)
-4. Choose your **Airtel prepaid or postpaid plan**
-5. You'll receive a new Airtel SIM card
+### Step 3: Fill the Porting Form
 
-### Step 3: Wait for Porting to Complete
+1. At the Airtel store, fill the **Customer Acquisition Form (CAF)** for porting
+2. Provide your **UPC code**
+3. Select your preferred **Airtel plan** (prepaid or postpaid)
+4. Complete **Aadhaar biometric verification** (fingerprint)
 
-- You'll receive an **SMS from your current operator** confirming the port-out request
-- Your current operator may try to retain you with offers — you can ignore or accept (accepting cancels porting)
-- Porting is completed within **3-5 working days** (TRAI mandated: max 7 days, 15 days for J&K/NE circles)
+### Step 4: Receive Your Airtel SIM
 
-### Step 4: Activate Your New Airtel SIM
+1. You will receive a new **Airtel SIM card** at the store
+2. **Do not insert it yet** — wait for the porting to complete
+3. You'll receive an SMS from Airtel confirming the scheduled porting date and time
 
-1. You'll receive an **SMS confirmation** when porting is done (usually between **10 PM - 7 AM**)
-2. Your old SIM will stop working
-3. Insert the **new Airtel SIM** in your phone
-4. Restart your phone
-5. You should see Airtel network within minutes
+### Step 5: Activation
 
----
-
-## Can I Port to Airtel Online?
-
-1. Visit [airtel.in/port-in](https://www.airtel.in/port-in)
-2. Enter your mobile number and UPC code
-3. Choose your plan
-4. Complete KYC (a delivery agent will visit for biometric verification)
-5. SIM will be delivered to your address and activated after verification
+1. On the scheduled porting date, your **old SIM will stop working** (usually between 10 PM and 6 AM)
+2. **Insert the new Airtel SIM** into your phone
+3. Restart your phone
+4. Your number is now active on Airtel's network
+5. You should receive a welcome SMS from Airtel
 
 ---
 
-## Documents Required for Porting to Airtel
+## Porting Timeline
 
-| Document | Purpose |
-|---|---|
-| [Aadhaar card](/guide/aadhaar-card-apply-online) | Identity & address proof |
-| Passport-size photo | For the application form |
-| UPC code (SMS) | Porting authorization |
-| Existing SIM (active) | Must be active during porting |
-
-**Accepted alternative IDs:** Passport, voter ID, driving licence (along with address proof if address differs).
+| Type | Timeline |
+|------|----------|
+| Within same circle (e.g., Delhi to Delhi) | 4 working days |
+| Inter-circle (e.g., Delhi to Mumbai) | Up to 7 working days |
+| Porting window | Usually 10 PM – 6 AM |
 
 ---
 
-## Choosing an Airtel Plan After Porting
+## Port to Airtel eSIM
 
-After porting, you'll need to select a plan. Consider:
+You can port your number directly to an Airtel eSIM instead of a physical SIM:
 
-- **Prepaid plans** — Start from ₹155 (28 days) to ₹3599 (365 days). Check latest plans at [airtel.in](https://www.airtel.in/)
-- **Postpaid plans** — Start from ₹399/month with unlimited calls and data
-- **5G plans** — If your phone supports 5G, Airtel offers unlimited 5G data on most plans in 5G cities
-- **Porting-special offers** — Airtel sometimes offers bonus data or cashback for new port-in customers. Ask at the store
+1. **Generate UPC** by sending `PORT <your number>` to 1900
+2. **Visit an Airtel store** with Aadhaar and UPC
+3. Request **eSIM porting** instead of physical SIM
+4. After porting is processed, you'll receive an **eSIM QR code** via email
+5. Scan the QR code on your eSIM-compatible phone:
+   - **iPhone:** Settings → Cellular → Add eSIM → Use QR Code
+   - **Android:** Settings → Network & Internet → SIMs → Add eSIM → Scan QR
+6. Your number will activate on Airtel eSIM after the porting window
+
+**Note:** Ensure your phone supports eSIM before requesting this option. See our [Airtel eSIM guide](/guide/airtel-sim-swap-esim-guide) for compatible devices.
 
 ---
 
-## Timeline Summary
+## Porting Charges
 
-| Step | Time |
-|---|---|
-| UPC generation | Instant (via SMS) |
-| UPC validity | 15 days (4 days in some circles) |
-| Store visit & form submission | Same day |
-| Porting completion | 3-5 working days |
-| SIM activation after porting | Automatic (usually overnight) |
+| Item | Cost |
+|------|------|
+| Porting fee (TRAI-mandated) | ₹4 (deducted from balance after porting) |
+| New Airtel SIM card | Free |
+| eSIM activation | Free |
+| First recharge plan | As per selected plan (required at store) |
+
+---
+
+## Reasons Porting May Be Rejected
+
+Your porting request can be rejected if:
+
+1. **Number is less than 90 days old** with current operator
+2. **UPC has expired** (valid for only 4 days)
+3. **Outstanding dues** on postpaid number with current operator
+4. **Incorrect documents** or failed biometric verification
+5. **Active contractual obligation** with current operator
+6. **Sub-judice number** — number involved in legal proceedings
+
+If rejected, you'll receive an SMS with the reason. Fix the issue and generate a new UPC to try again.
 
 ---
 
 ## Important Tips
 
-1. **Keep your old SIM active** until porting completes — Don't remove or destroy it
-2. **Clear outstanding dues** with your current operator before porting to avoid issues
-3. **Recharge immediately** after the new Airtel SIM activates to start using services
-4. **UPC expires in 15 days** — If it expires, generate a new one by sending the PORT SMS again
-5. **Port rejection reasons** — Porting may be rejected if your number is less than 90 days old, has pending dues, or there's a contractual obligation. You'll receive an SMS with the rejection reason
+1. **Clear postpaid dues first** — if porting from a postpaid number, pay all outstanding bills before initiating the port.
+2. **Port during weekdays** — requests made on weekends may take longer as working days are counted.
+3. **Keep your old SIM active** — do not deactivate or remove your old SIM until porting is complete.
+4. **Inform your bank** — update your mobile number with banks and services that use your number for OTPs, as there may be a brief gap during the switch.
+5. **Choose your plan before visiting** — browse Airtel plans online to save time at the store.
 
 ---
 
 ## Frequently Asked Questions
 
-### How much does it cost to port to Airtel?
+### How many days does it take to port a number to Airtel?
+Porting takes approximately 4 working days within the same telecom circle. Inter-circle porting may take up to 7 working days. The actual switch happens during the porting window (usually 10 PM – 6 AM).
 
-Porting itself is **free**. You only pay for the Airtel plan you choose after porting. There's no fee for the SIM card either.
-
-### How long does Airtel porting take?
-
-Porting typically completes in **3-5 working days** from submission. TRAI mandates a maximum of 7 working days (15 days for J&K and Northeast circles).
+### Is there a charge for porting to Airtel?
+TRAI charges a nominal porting fee of ₹4, which is deducted from your Airtel balance after porting. The Airtel SIM card itself is free.
 
 ### Can I port from Jio to Airtel?
+Yes. The process is the same — send `PORT <your Jio number>` to 1900, get the UPC, and visit an Airtel store with Aadhaar and the UPC code.
 
-Yes. The MNP process is the same regardless of your current operator. Send `PORT <your number>` to **1900** from your Jio number and follow the steps above.
-
-### What happens to my current plan after porting?
-
-Your current operator's plan will be cancelled once porting completes. Any remaining balance, data, or validity will be forfeited. Use up benefits before porting or time it near plan expiry.
+### What happens to my balance when I port?
+Any remaining balance, validity, or active plans with your previous operator are forfeited. Airtel starts fresh — you'll need to recharge with an Airtel plan.
 
 ### Can I port a postpaid number to Airtel prepaid?
+Yes. You can port from any operator's postpaid to Airtel prepaid (or postpaid). Clear all outstanding bills with your current operator first.
 
-Yes. You can port from any type (prepaid/postpaid) of any operator to Airtel prepaid or postpaid. Clear all outstanding postpaid bills before initiating the port.
+### Can I port my number to Airtel online without visiting a store?
+Currently, you need to visit an Airtel store for porting as Aadhaar biometric verification is mandatory. You can generate the UPC online, but the SIM collection and verification must be done in person.
 
-### Why was my port request rejected?
-
-Common rejection reasons: number less than 90 days old, ported within last 90 days, pending dues, change of ownership in progress, or incorrect UPC. You'll receive an SMS with the specific reason. Fix the issue and try again.
-
-### Can I cancel a porting request after submitting?
-
-Yes, you can cancel by contacting your **current operator** before the porting window closes. Once porting is executed (SIM swap happens), it cannot be reversed — you'd need to port back (after 90 days).
+### What if my porting request is rejected?
+You will receive an SMS with the rejection reason. Common reasons include expired UPC, outstanding dues, or the number being less than 90 days old. Fix the issue and generate a new UPC to re-apply.
 
 ---
 
-*Disclaimer: CitizenNest is an independent platform and is not affiliated with Bharti Airtel Limited, TRAI, or any government body. Information is provided for general guidance. Contact Airtel directly for account-specific issues.*
+> **Disclaimer:** CitizenNest is an independent platform and is not affiliated with Bharti Airtel Limited or TRAI. Information is provided for guidance only. For official support, contact Airtel at 198 or visit [airtel.in/support](https://www.airtel.in/support).

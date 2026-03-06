@@ -1,21 +1,21 @@
 ---
 title: "JioFiber Not Working? Fix Internet & Router Issues"
 description: >-
-  Fix JioFiber problems including router offline, slow speed, WiFi not connecting,
-  ONT light status, unpaid bills, and router reset. Step-by-step troubleshooting.
+  Fix JioFiber not working — router restart, ONT light meanings, WiFi issues,
+  slow speed troubleshooting, outage check, and customer care contact details.
 category: Utilities
 keywords:
   - jiofiber not working
   - jio fiber internet problem
-  - jio fiber router offline
+  - jio fiber router restart
+  - jio fiber ONT lights
+  - jio fiber wifi not connecting
   - jio fiber slow speed
-  - jio fiber WiFi not connecting
-  - jio fiber ONT light
-  - jio fiber reset router
-  - jio fiber bill unpaid
-  - jio fiber troubleshooting
-  - jiofiber internet down
-readingTime: 8 min
+  - jio fiber outage
+  - jio fiber customer care
+  - jio fiber no internet
+  - jio fiber router fix
+readingTime: 7 min
 lastUpdated: 2026-03-06
 officialLinks:
   - 'https://www.jio.com/fiber'
@@ -25,150 +25,176 @@ officialLinks:
 
 # JioFiber Not Working? Fix Internet & Router Issues
 
-Is your JioFiber internet not working? Whether it's the router going offline, slow speeds, WiFi connection issues, or ONT light errors — this guide covers all common JioFiber problems with step-by-step fixes to get you back online.
+Is your JioFiber internet down? Whether your WiFi won't connect, the router lights are blinking red, or your speed has dropped significantly, this guide covers all troubleshooting steps to get your JioFiber connection back online.
 
-> **Disclaimer:** CitizenNest is an independent platform and is not affiliated with Reliance Jio or any government body. Information is for guidance only.
+> **Disclaimer:** CitizenNest is an independent informational platform and is not affiliated with Reliance Jio or any government body.
 
-## Common JioFiber Problems
+---
 
-- Internet not working / no connectivity
-- Router showing offline or red lights
-- WiFi connected but no internet
-- Very slow internet speed
-- ONT (Optical Network Terminal) light issues
-- Service suspended due to unpaid bill
-- Frequent disconnections
+## Common Reasons for JioFiber Not Working
 
-## Fix 1: Basic Troubleshooting
+- **Area outage** — maintenance or fiber cable cut in your locality
+- **Router/ONT malfunction** — device needs restart or has a hardware issue
+- **Plan expired** — no active subscription
+- **WiFi configuration issue** — wrong password, band selection, or too many devices
+- **Fiber cable damage** — physical damage to the cable entering your home
+- **DNS or IP issue** — network configuration problem on the router
 
-Start with these quick steps:
+---
 
-1. **Check all cables** — ensure the fiber cable, LAN cable, and power adapter are properly connected
-2. **Restart the router** — unplug the power cable, wait 30 seconds, plug it back in
-3. **Restart the ONT** — if you have a separate ONT device, restart it too
-4. **Wait 2-3 minutes** after restart for the router to fully boot up
-5. **Check on multiple devices** — if only one device has issues, the problem is with that device, not JioFiber
+## Step 1: Check the ONT and Router Lights
 
-## Fix 2: Understand ONT Light Status
+The **ONT (Optical Network Terminal)** is the box where the fiber cable connects. Check these lights:
 
-The ONT (Optical Network Terminal) lights indicate your connection status:
+| Light | Normal Status | Problem |
+|---|---|---|
+| Power | Solid Green | Off = no power, check adapter |
+| PON | Solid Green | Blinking/Off = fiber signal issue |
+| LOS | Off (normal) | **Red = fiber cable disconnected or broken** |
+| LAN | Solid/Blinking Green | Off = no connection to router |
+| Internet | Solid Green | Off/Red = no internet from Jio |
 
-| Light | Status | Meaning |
-|-------|--------|---------|
-| Power | Green (solid) | ONT is powered on — normal |
-| PON | Green (solid) | Fiber connection active — normal |
-| PON | Red or off | Fiber cable issue or server-side problem |
-| LOS | Red (blinking) | Fiber cable disconnected or damaged |
-| LOS | Off | Normal — no loss of signal |
-| LAN | Green (blinking) | Data transfer active — normal |
-| LAN | Off | No LAN connection to router |
+**If LOS is Red:** The fiber cable is disconnected or damaged. Check the cable from the wall to the ONT. If damaged, you need a Jio technician visit.
 
-**If LOS light is red:**
-1. Check if the fiber cable is properly connected to the ONT
-2. Look for any bends or damage in the fiber cable
-3. Do not touch or bend the fiber cable sharply — it's fragile
-4. Contact Jio support — a technician may need to fix the fiber line
+**If PON is off:** The ONT is not receiving signal. This usually indicates an area outage or cable issue outside your home.
 
-## Fix 3: WiFi Connected but No Internet
+---
 
-If your device shows WiFi connected but pages won't load:
+## Step 2: Restart the Router and ONT
 
-1. **Forget the WiFi network** on your device and reconnect
-2. Open your browser and try accessing **8.8.8.8** — if it works, it's a DNS issue
-3. **Change DNS settings** on your device:
-   - Go to WiFi settings → Select your JioFiber network → Advanced
-   - Set DNS to **8.8.8.8** (Google) or **1.1.1.1** (Cloudflare)
-4. **Clear browser cache** and try again
-5. Check if the issue is with specific websites only — some sites may be blocked by your ISP or DNS
+The most effective fix for most JioFiber issues:
 
-## Fix 4: Slow JioFiber Speed
+1. **Turn off** the JioFiber router (press the power button or unplug)
+2. **Turn off** the ONT (unplug the power adapter)
+3. Wait **2 minutes** (this clears the device memory)
+4. **Turn on** the ONT first — wait for PON light to go solid green
+5. **Turn on** the router — wait for all lights to stabilize (1-2 minutes)
+6. Try connecting to WiFi and check internet
 
-If your internet speed is much slower than your plan:
+---
 
-1. **Run a speed test** at [speedtest.net](https://www.speedtest.net/) using a LAN cable (not WiFi)
-2. **WiFi is always slower than wired** — connect your laptop via LAN cable for accurate speed
-3. **Check your plan speed** — open MyJio app → JioFiber → My Plan
-4. **Reduce WiFi interference:**
-   - Move the router to a central location
-   - Keep it away from walls, microwave, and other electronics
-   - Switch to **5 GHz WiFi band** for faster speeds (shorter range)
-5. **Check connected devices** — too many devices slow down the network
-6. **Update router firmware** — access router settings at **192.168.29.1** in your browser
-7. If wired speed is also low, contact Jio — there may be a line issue
+## Step 3: Check if Your JioFiber Plan Is Active
 
-## Fix 5: Check and Pay Unpaid Bill
+1. Open the **MyJio app** or log in at [jio.com/selfcare](https://www.jio.com/selfcare)
+2. Check your **JioFiber plan status** — is it active or expired?
+3. If expired, **recharge** with a JioFiber plan to restore service
+4. Note: JioFiber may stop working immediately after plan expiry (no grace period on some plans)
 
-JioFiber service gets suspended if your bill is unpaid:
+---
 
-1. Open **MyJio app → JioFiber → My Bills**
-2. Check if there's an **outstanding amount**
-3. Pay the bill through MyJio app, Jio.com, or any UPI app
-4. After payment, service usually **resumes within 30 minutes to 2 hours**
-5. If service doesn't resume after payment, restart the router and call **199**
+## Step 4: Fix WiFi Not Connecting
 
-## Fix 6: Reset JioFiber Router
+If the router is online but your device can't connect to WiFi:
 
-If nothing else works, factory reset the router:
+### Can't See the WiFi Network:
 
-1. Find the **Reset button** on the back of the router (small pinhole)
-2. Press and hold with a pin for **10-15 seconds** until lights blink
-3. The router will restart and reset to **factory settings**
-4. **Note:** This will erase your custom WiFi name and password
-5. After reset, connect to the default WiFi network (details on the router sticker)
-6. Open **192.168.29.1** in your browser to reconfigure WiFi name and password
+1. Check if the **WiFi LED** on the router is on
+2. Log in to the router admin panel at **192.168.29.1** in a browser
+3. Go to **WiFi Settings** and ensure WiFi is **enabled**
+4. Check if **SSID broadcast** is turned on
+5. Try connecting to both **2.4 GHz and 5 GHz** bands
 
-## Fix 7: Router Login and Settings
+### Can See WiFi but Can't Connect:
 
-Access your JioFiber router settings:
+1. **Forget the network** on your device and reconnect with the correct password
+2. Check if **MAC filtering** is enabled on the router (disable it temporarily)
+3. Check if the **maximum device limit** has been reached
+4. Restart your phone/laptop WiFi
 
-1. Connect to JioFiber WiFi or LAN
-2. Open browser and go to **192.168.29.1**
-3. Login with:
-   - Username: **admin**
-   - Password: **Jiocentrum** (default) or your custom password
-4. From here you can:
-   - Change WiFi name and password
-   - Switch between 2.4 GHz and 5 GHz bands
-   - Check connected devices
-   - Update firmware
-   - Set up parental controls
+### Connected to WiFi but No Internet:
 
-## When to Contact JioFiber Support
+1. Check if the **Internet light** on the router is green
+2. Try opening a website in **incognito/private mode**
+3. Try a **different device** to confirm the issue is with the connection, not the device
+4. Change **DNS** to Google DNS (8.8.8.8) or Cloudflare (1.1.1.1) in your device settings
 
-Contact Jio if the issue requires a technician:
+---
 
-- **Jio Helpline:** 199 or 18008899999 (toll-free)
-- **MyJio App:** Help → JioFiber → Raise Complaint
-- **Jio Website:** [jio.com/selfcare](https://www.jio.com/selfcare)
-- **Technician visit:** Usually scheduled within 24-48 hours of complaint
+## Step 5: Fix Slow JioFiber Speed
+
+If internet is working but speed is slow:
+
+1. **Run a speed test** at [speedtest.net](https://www.speedtest.net) using a **wired (LAN) connection** — WiFi speed is always lower
+2. **Reduce connected devices** — each device shares the total bandwidth
+3. **Use 5 GHz WiFi band** instead of 2.4 GHz for faster speeds
+4. **Move closer to the router** or reduce obstacles between your device and router
+5. **Check for background downloads** on other devices (Windows updates, app updates)
+6. **Update router firmware** via the router admin panel at 192.168.29.1
+7. If wired speed matches your plan but WiFi is slow, the issue is **WiFi range/interference**, not JioFiber
+
+### Expected Speeds vs Plan:
+
+| Plan Speed | Expected WiFi Speed | Expected Wired Speed |
+|---|---|---|
+| 30 Mbps | 20-25 Mbps | 28-30 Mbps |
+| 100 Mbps | 60-80 Mbps | 90-100 Mbps |
+| 300 Mbps | 100-200 Mbps | 280-300 Mbps |
+| 1 Gbps | 200-400 Mbps | 800-950 Mbps |
+
+---
+
+## Step 6: Check for JioFiber Outage
+
+If nothing works after restart:
+
+1. Call **199** or **1800-889-9999** to check if there's an outage in your area
+2. Ask neighbours with JioFiber if they're facing the same issue
+3. Check **@JioCare** on Twitter/X for outage updates
+4. Outages due to fiber cable cuts typically take **4-24 hours** to resolve
+5. Major outages (server-side) are usually resolved within **2-6 hours**
+
+---
+
+## Step 7: Contact JioFiber Customer Care
+
+| Method | Details |
+|---|---|
+| Helpline | **199** (from Jio) or **1800-889-9999** (toll-free) |
+| MyJio App | Help & Support → JioFiber → Raise Complaint |
+| Jio Website | [jio.com/selfcare](https://www.jio.com/selfcare) |
+| Email | care@jio.com |
+| Technician Visit | Request via MyJio app or call 199 |
+
+**Tip:** When calling, keep your **JioFiber account ID** (found in MyJio app or your bill) ready for faster resolution.
+
+---
 
 ## Important Tips
 
-1. Never bend or step on the fiber optic cable — it's fragile and breaks easily
-2. Use **5 GHz WiFi** for faster speeds when near the router; **2.4 GHz** for wider range
-3. Restart your router once a week for optimal performance
-4. Keep the router in a ventilated area — overheating can cause disconnections
-5. Pay your JioFiber bill before the due date to avoid service suspension
+1. **Restart your router weekly** — this prevents many common issues from building up
+2. **Don't place the router inside a closed cabinet** — it reduces WiFi range and causes overheating
+3. **Use the 5 GHz band** for streaming and gaming — 2.4 GHz is better for range but slower
+4. **Connect your TV/gaming console via LAN cable** for the most reliable speed
+5. **Keep the fiber cable safe** — even a slight bend or kink can damage it permanently
 
-## Frequently Asked Questions
+---
 
-### Why is my JioFiber not working?
-Check if your bill is paid, all cables are connected, and ONT lights are normal (PON green, LOS off). Restart the router and ONT. If the LOS light is red, there's a fiber line issue — contact Jio.
+## Frequently Asked Questions (FAQs)
 
-### What does red LOS light mean on JioFiber ONT?
-Red LOS light means "Loss of Signal" — the fiber cable is disconnected or damaged. Check the cable connection. If it's properly connected and still red, contact Jio for a technician visit.
+### Q1: JioFiber LOS light is red. What does it mean?
 
-### How do I reset my JioFiber router?
-Press and hold the reset button (pinhole on the back) for 10-15 seconds using a pin. The router will restart with factory settings. You'll need to reconfigure your WiFi name and password.
+**LOS Red** means the fiber cable connection is broken or disconnected. Check the cable from the wall socket to the ONT. If the cable is damaged, call **199** to request a technician visit.
 
-### Why is JioFiber speed slow?
-Test with a LAN cable first — WiFi is always slower. Check your plan speed, reduce connected devices, switch to 5 GHz band, and place the router centrally. If wired speed is also low, contact Jio.
+### Q2: How do I restart my JioFiber router?
 
-### How do I change JioFiber WiFi password?
-Connect to JioFiber, open 192.168.29.1 in your browser, login with admin credentials, go to WiFi settings, and change the password. Save and reconnect all devices with the new password.
+Unplug both the **router and ONT** from power. Wait **2 minutes**. Plug in the ONT first, wait for green lights, then plug in the router. Wait 1-2 minutes for full boot.
 
-### What happens if I don't pay JioFiber bill?
-Your internet service gets suspended after the due date. Pay the outstanding amount through MyJio app or Jio.com. Service resumes within 30 minutes to 2 hours after payment.
+### Q3: JioFiber is connected but showing slow speed. Why?
 
-### How do I contact JioFiber support?
-Call 199 (free from Jio) or 18008899999 (toll-free from any number). You can also raise a complaint through the MyJio app under Help → JioFiber section.
+Check speed via **wired LAN connection** first. If wired speed matches your plan, the issue is WiFi — try using 5 GHz band, moving closer to router, or reducing connected devices.
+
+### Q4: Can I change my JioFiber WiFi password?
+
+Yes. Open a browser, go to **192.168.29.1**, log in (default password is on the router sticker), go to WiFi Settings, and change the password.
+
+### Q5: What is the JioFiber router admin panel login?
+
+Open **192.168.29.1** in any browser. Default username is **admin** and password is printed on a sticker on the bottom/back of your JioFiber router.
+
+### Q6: How long does a JioFiber outage usually last?
+
+Most outages are resolved within **4-24 hours**. Fiber cable cuts in your area may take longer depending on the extent of damage and technician availability.
+
+### Q7: Can I use my own router with JioFiber?
+
+Yes. Connect your router to the JioFiber ONT via LAN cable. You may need to set your router to **bridge mode** or configure PPPoE settings. Contact Jio support for the exact credentials.

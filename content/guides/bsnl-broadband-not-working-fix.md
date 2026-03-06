@@ -1,160 +1,165 @@
 ---
 title: "BSNL Broadband Not Working? Fix Internet Connection"
 description: >-
-  Fix BSNL broadband issues including FTTH, DSL modem offline, slow speed, IP
-  problems, selfcare portal steps, and how to complain on 198 helpline.
+  Fix BSNL broadband issues — modem restart, DSL light blinking, FTTH problems,
+  slow speed, complaint at 198 and selfcare portal for BSNL internet solutions.
 category: Utilities
 keywords:
   - bsnl broadband not working
-  - bsnl internet not working
-  - bsnl ftth problem
-  - bsnl modem offline
-  - bsnl slow speed fix
-  - bsnl broadband complaint
-  - bsnl 198 complaint
+  - bsnl internet problem
+  - bsnl dsl light blinking
+  - bsnl ftth not working
+  - bsnl broadband slow speed
+  - bsnl complaint 198
   - bsnl selfcare portal
-  - bsnl dsl fix
-  - bsnl wifi not working
-readingTime: 9 min
+  - bsnl broadband fix
+  - bsnl modem restart
+  - bsnl fibre internet issue
+readingTime: 8 min
+lastUpdated: "2026-03-06"
 officialLinks:
-  - 'https://selfcare.bsnl.co.in/'
-  - 'https://www.bsnl.co.in/'
-  - 'https://complaint.bsnl.co.in/BSNL_Apache/complaintregn.jsp'
-lastUpdated: '2026-03-06'
+  - "https://selfcare.bsnl.co.in/"
+  - "https://portal.bsnl.in/"
+  - "https://www.bsnl.co.in/"
 ---
 
 # BSNL Broadband Not Working? Fix Internet Connection
 
-BSNL provides broadband internet via **FTTH (Fibre to the Home)** and **DSL (ADSL/VDSL)** across India. If your BSNL broadband has stopped working — modem offline, slow speed, or no connectivity — this guide covers all troubleshooting steps and how to file a complaint.
+Is your BSNL broadband or FTTH connection not working? Whether your DSL light is blinking, internet speed is slow, or you have no connection at all — this guide covers step-by-step troubleshooting for BSNL broadband and fibre users.
+
+> **Disclaimer:** CitizenNest is an independent platform and is not affiliated with BSNL or the Government of India. Information is for guidance purposes only.
 
 ## Common BSNL Broadband Problems
 
-- **No internet connection** — Modem shows online but no browsing
-- **Modem/ONT offline** — Device lights not showing properly
-- **Extremely slow speed** — Getting much less than plan speed
-- **Frequent disconnections** — Internet drops every few minutes
-- **IP issue / Authentication failure** — PPPoE connection failing
-- **Wi-Fi not working** — Connected but no internet
+- No internet connection (DSL light off or blinking)
+- BSNL FTTH connection not working
+- Very slow internet speed
+- WiFi connected but no internet
+- Frequent disconnections
+- "Limited Connectivity" or "No Internet" error
 
-## Step-by-Step Troubleshooting
+## Step 1: Check Your Modem/Router Lights
 
-### 1. Check Modem/ONT Lights
+Understanding modem lights helps diagnose the problem quickly:
 
-**For FTTH (Fibre):**
 | Light | Normal Status | Problem If |
 |-------|--------------|------------|
-| Power | Solid green | Off = power issue |
-| PON | Solid green | Blinking/off = fibre disconnected |
-| LAN | Solid/blinking green | Off = cable issue |
-| Internet | Solid green | Off/red = no connection |
+| Power | Solid Green | Off = no power |
+| DSL/Link | Solid Green | Blinking or Off = line issue |
+| Internet/WAN | Solid Green | Off = authentication issue |
+| WiFi | Solid Green | Off = WiFi disabled |
+| LAN | Green (when connected) | Off = cable issue |
 
-**For DSL:**
-| Light | Normal Status | Problem If |
-|-------|--------------|------------|
-| Power | Solid green | Off = power issue |
-| DSL/Link | Solid green | Blinking = line syncing, Off = no line |
-| Internet | Solid green | Off = authentication failed |
+## Step 2: Restart Your Modem/Router
 
-### 2. Basic Fixes
+1. Turn off the modem/router using the power button
+2. Unplug the power adapter from the socket
+3. Wait **60 seconds** (not just 10 seconds — full minute)
+4. Plug it back in and turn on
+5. Wait 2-3 minutes for all lights to stabilize
+6. Check if DSL light becomes solid green
 
-1. **Restart your modem** — Unplug power, wait 60 seconds, plug back in
-2. **Check all cables** — Ensure LAN cable, phone line (DSL), or fibre cable is firmly connected
-3. **Bypass the router** — Connect your PC directly to the modem via LAN cable
-4. **Check if your plan is active** — Log in to [BSNL Selfcare Portal](https://selfcare.bsnl.co.in/)
+## Step 3: Fix DSL Light Blinking (ADSL Users)
 
-### 3. Fix PPPoE / Authentication Issues
+If the DSL light keeps blinking and never becomes solid:
 
-If the Internet light is off but modem is synced:
+1. **Check phone line** — Ensure the telephone line is properly connected to the modem's DSL/LINE port
+2. **Check splitter** — The splitter should be connected correctly (LINE from wall → splitter → PHONE + MODEM)
+3. **Try without splitter** — Connect the phone line directly to modem to test
+4. **Check for loose wires** — Inspect the line from your home to the junction box
+5. **Test the line** — Pick up the landline phone. If there's no dial tone or heavy static, the line has a fault
+6. **Report line fault** — Call **198** or **1500** to report a telephone line issue
 
-1. Open modem admin page (usually `192.168.1.1`)
-   - Default username: `admin` | Default password: `admin` or `password`
-2. Go to **WAN / Internet settings**
-3. Verify PPPoE credentials:
-   - Username: Your BSNL broadband landline number (e.g., `0112345678@bsnl.in` or your CA number)
-   - Password: As set during connection registration
-4. If you've forgotten your password, reset it via [BSNL Selfcare Portal](https://selfcare.bsnl.co.in/) or call **198**
+## Step 4: Fix BSNL FTTH (Fibre) Issues
 
-### 4. Fix Slow Speed
+For BSNL Bharat Fibre (FTTH) users:
 
-1. **Run a speed test** at [speedtest.net](https://www.speedtest.net/) using a wired (LAN) connection
-2. **Check your plan** — Verify your subscribed speed on the BSNL Selfcare portal
-3. **Check FUP limit** — BSNL plans have a Fair Usage Policy; after FUP, speed drops to 2-4 Mbps
-4. **Try at different times** — If slow only during evening, it may be network congestion
-5. **For DSL users** — Check SNR margin and line attenuation in modem stats. High attenuation = line quality issue (needs BSNL technician)
-6. **For FTTH users** — Ensure fibre cable is not bent sharply (causes signal loss)
+1. **Check ONT (Optical Network Terminal)** — The PON light should be solid green
+2. **If PON light is red or off** — The fibre cable may be damaged or disconnected
+3. **Do NOT touch the fibre cable** — It's delicate; bending can break it
+4. **Check LAN cable** — Ensure the ethernet cable from ONT to router is properly connected
+5. **Restart ONT and router** — Power cycle both devices (ONT first, then router)
+6. **If PON light stays red** — Call **198** immediately; this requires a technician visit
 
-### 5. Fix Wi-Fi Issues
+## Step 5: Fix "Connected but No Internet"
 
-1. **Restart router** and reconnect
-2. **Change Wi-Fi channel** — In modem settings, switch from Auto to Channel 1, 6, or 11 (2.4 GHz) to reduce interference
-3. **Check connected devices** — Too many devices can slow Wi-Fi
-4. **Update Wi-Fi password** — Ensure no unauthorized users
+If WiFi connects but there's no internet:
 
-### 6. Check BSNL Selfcare Portal
+1. **Check your plan status** — Your plan may have expired
+   - Visit [selfcare.bsnl.co.in](https://selfcare.bsnl.co.in/) → Login with your broadband ID
+   - Check if your plan is active and data limit is not exhausted
+2. **Clear browser cache** — Sometimes old cache causes redirect issues
+3. **Try a different device** — If internet works on another device, the issue is with your device
+4. **Flush DNS:**
+   - Windows: Open CMD → type `ipconfig /flushdns`
+   - Mac: Open Terminal → type `sudo dscacheutil -flushcache`
+5. **Check modem settings** — Open `192.168.1.1` in browser → Check WAN/Internet settings are correct
 
+## Step 6: Fix Slow BSNL Broadband Speed
+
+1. **Run a speed test** — Use [speedtest.net](https://www.speedtest.net/) or the BSNL Speed Test portal
+2. **Check your plan speed** — Compare test results with your plan's promised speed
+3. **Use wired connection** — Connect via LAN cable instead of WiFi for accurate speed
+4. **Check FUP limit** — After FUP (Fair Usage Policy) limit, speed drops significantly
+   - Login to [selfcare.bsnl.co.in](https://selfcare.bsnl.co.in/) to check data usage
+5. **Change WiFi channel** — In modem settings (192.168.1.1), change WiFi channel to reduce interference
+6. **Upgrade your plan** — Older plans have slower speeds; consider upgrading via the BSNL portal
+
+## Step 7: Register Complaint with BSNL
+
+### Via Phone
+- Dial **198** (toll-free from BSNL) or **1800-345-1500**
+- Select language → Choose "Broadband" → Describe your issue
+- Note the **complaint/docket number**
+
+### Via Selfcare Portal
 1. Visit [selfcare.bsnl.co.in](https://selfcare.bsnl.co.in/)
-2. Login with your landline/broadband number
-3. Check: Plan validity, data usage, pending bills, connection status
-4. If your account shows "suspended," pay any pending bill to restore service
+2. Login with your telephone/broadband number
+3. Go to **Complaints** → **Register New Complaint**
+4. Select complaint type and describe the issue
+5. Submit and save the complaint number
 
-## How to File a BSNL Broadband Complaint
+### Via BSNL App
+1. Download **My BSNL** app from Play Store
+2. Register with your BSNL number
+3. Go to Complaints → Lodge a complaint
 
-### Via 198 Helpline
-1. Dial **198** from any BSNL number (toll-free) or your registered mobile
-2. Select language → Choose "Broadband" → Describe issue
-3. You'll receive an SMS with your **complaint number (docket number)**
+## Complaint Escalation
 
-### Via BSNL Complaint Portal
-1. Visit [complaint.bsnl.co.in](https://complaint.bsnl.co.in/BSNL_Apache/complaintregn.jsp)
-2. Enter your service number and details
-3. Submit and note the complaint number
-
-### Via BSNL Selfcare Portal
-1. Login to [selfcare.bsnl.co.in](https://selfcare.bsnl.co.in/)
-2. Go to **Complaints** section
-3. Register a new complaint with issue details
-
-### Via Email
-- Send to your circle/SSA email (find on [bsnl.co.in](https://www.bsnl.co.in/) → Contact Us)
-- Include: Landline/CA number, address, issue description
-
-### Escalation
-If unresolved within **3 days**:
-1. Contact the **Nodal Officer** of your BSNL circle (list on bsnl.co.in)
-2. If still unresolved after **7 days**, approach the **Appellate Authority**
-3. You can also file a complaint on the [TRAI CGMS portal](https://www.trai.gov.in/)
+| Level | Contact | Timeline |
+|-------|---------|----------|
+| First complaint | 198 or Selfcare portal | Should resolve in 3 days |
+| Not resolved | Ask for escalation to SDO/JTO | 7 days |
+| Still pending | Email to CGM of your circle | 15 days |
+| Final escalation | [pgportal.gov.in](https://pgportal.gov.in/) | 30 days |
 
 ## Important Tips
 
-1. Always **pay bills on time** — BSNL auto-suspends connections for pending dues
-2. For FTTH, avoid bending the fibre cable — it damages the optical signal
-3. After a power outage, wait 5 minutes for the modem to fully sync before troubleshooting
-4. Keep your modem firmware updated (check with BSNL support)
-5. If you're on a DSL plan, consider upgrading to BSNL FTTH for faster and more reliable speeds
+1. **Note your broadband ID** — You'll need it for selfcare login and complaints. Find it on your BSNL bill.
+2. **Keep modem firmware updated** — Ask the BSNL technician to update firmware during visits.
+3. **Use your own router** — BSNL-provided modems are often basic. A good WiFi router improves coverage and speed.
+4. **Check for outages** — Before troubleshooting, ask neighbors with BSNL if their internet is also down (area-wide outage).
+5. **Pay bills on time** — BSNL disconnects broadband if the bill is overdue beyond the due date. Pay via [portal.bsnl.in](https://portal.bsnl.in/) — see our [BSNL bill payment guide](/guide/bsnl-bill-payment-online).
 
 ## Frequently Asked Questions
 
-### What is the BSNL broadband complaint number?
-Dial **198** from any BSNL number. It's toll-free and available 24/7 for broadband complaints.
+### Why is my BSNL broadband not working today?
+Check if there's an area-wide outage by asking neighbors or calling 198. Also check modem lights — if DSL light is off or blinking, there's a line issue. Restart your modem as a first step.
 
-### Why is my BSNL broadband light red?
-A red Internet/PON light usually indicates a line disconnection. For FTTH, check if the fibre cable is intact. For DSL, check the phone line. If the issue persists, call 198.
+### What does DSL light blinking mean on BSNL modem?
+DSL light blinking means the modem is trying to sync with the BSNL exchange but failing. This usually indicates a telephone line fault, loose connection, or exchange-side issue. Call 198 to report.
 
-### How do I check my BSNL broadband data usage?
-Login to [selfcare.bsnl.co.in](https://selfcare.bsnl.co.in/) with your broadband number. Dashboard shows current data usage, FUP status, and plan details.
+### How do I check my BSNL broadband usage and plan?
+Login to [selfcare.bsnl.co.in](https://selfcare.bsnl.co.in/) with your broadband/telephone number. You can view your active plan, data usage, FUP status, and bill details.
 
-### Why is BSNL broadband slow after FUP?
-BSNL plans have a Fair Usage Policy (FUP). After consuming the high-speed data quota, speed drops to 2-4 Mbps (varies by plan). Recharge with a speed restore add-on or wait for the next billing cycle.
+### BSNL FTTH PON light is red. What should I do?
+A red PON light means the fibre optic connection is broken or disconnected. Do not attempt to fix the fibre cable yourself. Call 198 immediately and request a technician visit.
 
-### How do I reset my BSNL broadband password?
-Visit [selfcare.bsnl.co.in](https://selfcare.bsnl.co.in/) → Forgot Password, or call 198 and request a password reset for your PPPoE connection.
+### How do I complain about BSNL broadband?
+Call 198 (toll-free from BSNL), use the selfcare portal at selfcare.bsnl.co.in, or download the My BSNL app to lodge a complaint. Always note the complaint/docket number for follow-up.
 
-### Can I upgrade from BSNL DSL to FTTH?
-Yes. Visit your nearest BSNL exchange or apply online at [bsnl.co.in](https://www.bsnl.co.in/). FTTH installation charges and availability vary by location.
+### Why is BSNL broadband speed slow after some days?
+You've likely hit your FUP (Fair Usage Policy) data limit. After FUP, speed reduces to 2 Mbps or lower depending on your plan. Check usage at selfcare.bsnl.co.in and consider a higher plan.
 
-### What speed should I get on BSNL FTTH?
-You should get close to your plan speed (e.g., 100 Mbps plan = 80-100 Mbps on wired connection). Test with a LAN cable, not Wi-Fi, for accurate results.
-
----
-
-*Disclaimer: CitizenNest is an independent platform and is not affiliated with BSNL or any government telecom entity. Information is for guidance only. For official support, contact BSNL directly.*
+### How long does BSNL take to fix broadband complaints?
+BSNL aims to resolve complaints within 3 working days. Line faults may take longer if cable repair is needed. If not resolved, escalate via 198 or email your circle's CGM.

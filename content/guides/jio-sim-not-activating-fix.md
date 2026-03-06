@@ -1,142 +1,172 @@
 ---
 title: "Jio SIM Not Activating? Fix New SIM Activation Issues"
 description: >-
-  Fix Jio SIM activation problems including eKYC failure, tele-verification delay,
-  port-in issues, SIM swap, and activation timeline. Step-by-step solutions.
+  Fix Jio SIM not activating — eKYC pending, TRAI 24-hour wait period, port-in
+  delay, no network after SIM insert, and Jio helpline contact details.
 category: Utilities
 keywords:
-  - jio SIM not activating
-  - jio new SIM activation
-  - jio eKYC
-  - jio tele-verification
-  - jio SIM swap
+  - jio sim not activating
+  - jio new sim activation time
+  - jio eKYC pending
+  - jio sim no network
+  - jio sim activation problem
   - jio port in delay
-  - jio SIM activation time
-  - jio Aadhaar verification
-  - jio SIM not working
-  - jio new connection
+  - jio sim not working
+  - jio sim activation time
+  - jio new connection activation
+  - jio sim card not detected
 readingTime: 7 min
 lastUpdated: 2026-03-06
 officialLinks:
   - 'https://www.jio.com/selfcare'
-  - 'https://www.jio.com/en-in/4g-plans'
   - 'https://trai.gov.in/'
+  - 'https://www.jio.com/en-in/network-coverage'
 ---
 
 # Jio SIM Not Activating? Fix New SIM Activation Issues
 
-Got a new Jio SIM but it's not activating? Activation depends on successful eKYC verification, tele-verification call, and network provisioning. This guide covers all reasons why your Jio SIM may not be activating and how to fix each issue.
+Got a new Jio SIM but it's not activating? Whether you bought it from a Jio Store, a retailer, or ported your number to Jio via MNP, activation delays are common. This guide explains the activation process, expected timelines, and how to fix issues if your Jio SIM is stuck.
 
-> **Disclaimer:** CitizenNest is an independent platform and is not affiliated with Reliance Jio or any government body. Information is for guidance only.
+> **Disclaimer:** CitizenNest is an independent informational platform and is not affiliated with Reliance Jio or any government body.
 
-## Jio SIM Activation Timeline
+---
 
-| Scenario | Expected Activation Time |
-|----------|--------------------------|
-| New Jio SIM (Aadhaar eKYC) | 15 minutes to 4 hours |
-| New Jio SIM (physical KYC) | 24-48 hours |
-| Port-in (MNP) from another operator | 3-5 working days |
-| SIM swap / replacement | 4-24 hours |
-| eSIM activation | 2-4 hours |
+## How Long Does Jio SIM Activation Take?
 
-## Fix 1: Aadhaar eKYC Not Working
+| SIM Type | Expected Activation Time |
+|---|---|
+| New Jio SIM (store purchase with Aadhaar eKYC) | **2-4 hours** (can take up to 24 hours) |
+| New Jio SIM (retailer/agent) | **4-24 hours** |
+| Jio eSIM activation | **2-4 hours** |
+| MNP Port-in to Jio | **4-7 working days** after UPC submission |
+| SIM replacement (same number) | **2-4 hours** |
 
-If Aadhaar-based eKYC fails during SIM activation:
+As per **TRAI regulations**, new SIM activation may take up to **24 hours** from the time of successful eKYC verification.
 
-1. Ensure your **Aadhaar biometrics are unlocked** — check at [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in/)
-2. Your **mobile number must be linked to Aadhaar** for OTP-based eKYC
-3. If fingerprint fails, ask the store executive to try **iris scan**
-4. Ensure your [Aadhaar details](/guide/aadhaar-card-apply-online) are up to date — mismatched name/address can cause issues
-5. If eKYC keeps failing, request **physical document verification** (takes 24-48 hours instead of instant)
+---
 
-## Fix 2: Tele-Verification Call Not Received
+## Why Is Your Jio SIM Not Activating?
 
-After eKYC, TRAI mandates a tele-verification call to activate your SIM:
+### 1. eKYC Verification Pending
 
-1. Keep your phone **switched on** with the new Jio SIM inserted
-2. The verification call comes from a **Jio automated system** — usually within 30 minutes to 4 hours
-3. When the call comes, **follow the IVR instructions** — you may need to press 1 to confirm
-4. If you **miss the call**, another attempt is made automatically
-5. If no call after 24 hours:
-   - Call **199** from another phone and ask them to re-initiate tele-verification
-   - Visit the Jio Store where you purchased the SIM
-6. Make sure your phone is not on **DND (Do Not Disturb) mode** — this can block the verification call
+Your SIM won't activate until Jio completes the eKYC (electronic Know Your Customer) process:
 
-## Fix 3: Port-In (MNP) Delay
+- **Aadhaar-based eKYC** — instant verification using fingerprint/iris at the store
+- **Document-based KYC** — physical form submission, takes longer (1-3 days)
 
-If you're porting your number to Jio and it's delayed:
+**Fix:** If eKYC was done at the store, wait **24 hours**. If you submitted documents, it may take **2-3 days**. Call **199** from another phone to check status.
 
-1. MNP (Mobile Number Portability) takes **3-5 working days** as per TRAI rules
-2. Ensure you received a **UPC (Unique Porting Code)** from your old operator
-3. Check UPC validity — it expires in **4 days** (you must submit it to Jio before expiry)
-4. Your **old operator must not have any pending bills** — unpaid bills can block porting
-5. You should **not be under a contract** with your old operator
-6. If delayed beyond 7 days, contact Jio at **199** with your porting request details
-7. See our complete [MNP guide](/guide/jio-number-port-mnp-guide) for the full process
+### 2. TRAI Mandatory 24-Hour Waiting Period
 
-## Fix 4: SIM Swap Issues
+TRAI requires a minimum waiting period for new SIM activations as a security measure. Even after successful eKYC, your SIM may not activate for **up to 24 hours**.
 
-If you got a SIM replacement (same number, new SIM card):
+**Fix:** Simply wait. This is a regulatory requirement and cannot be bypassed.
 
-1. SIM swap activation takes **4-24 hours**
-2. Your old SIM will stop working once the new SIM is activated
-3. Keep the new SIM inserted and phone switched on during this period
-4. If not activated after 24 hours, call **199** from another phone
-5. You may need to visit the Jio Store with your **Aadhaar card** for re-verification
+### 3. SIM Card Not Detected by Phone
 
-## Fix 5: SIM Showing "Emergency Calls Only"
+If your phone doesn't detect the SIM at all:
 
-If your new SIM shows "Emergency Calls Only" or "No Service":
+1. **Power off** your phone
+2. Remove and **re-insert the SIM** — ensure correct orientation and proper seating in the tray
+3. Clean the SIM contacts gently with a dry cloth
+4. Try the SIM in a **different phone** to rule out phone issues
+5. Check if you received the correct **SIM size** (Nano/Micro/Standard) for your phone
 
-1. This means activation is **still in progress** — wait for the tele-verification call
-2. Restart your phone every few hours
-3. Check if the SIM is properly inserted — try removing and re-inserting
-4. Ensure your phone supports **Jio 4G VoLTE** — Jio doesn't work on 2G/3G-only phones
-5. Try the SIM in another 4G VoLTE-compatible phone to rule out phone issues
+### 4. MNP Port-In Delay
 
-## Fix 6: eSIM Activation Problems
+If you're porting your number to Jio from another operator:
 
-If you're activating a Jio eSIM:
+- The porting process takes **4-7 working days** as per TRAI guidelines
+- Your old SIM will stop working once the port is processed
+- The Jio SIM will activate within a few hours after the old SIM disconnects
+- You'll receive an SMS on your old number before the port date
 
-1. Open **MyJio app → Menu → My Account → eSIM**
-2. Follow the on-screen instructions to scan the QR code or enter activation code
-3. Ensure your phone supports eSIM (iPhone XR and above, select Samsung/Google phones)
-4. Restart your phone after adding the eSIM profile
-5. If activation fails, call **199** or visit a Jio Store
+**Fix:** Check the port status by calling **199** from another phone. If it's been more than **7 working days**, escalate to Jio support.
 
-## Documents Required for Jio SIM Activation
+### 5. SIM Shows "Emergency Calls Only" or "No Service"
 
-- [Aadhaar card](/guide/aadhaar-card-apply-online) (mandatory for eKYC)
-- Passport-size photograph (for physical verification)
-- For company connections: company letter + authorized signatory's Aadhaar
+This means the SIM is detected but not yet activated on the network:
+
+1. Toggle **Airplane Mode** on and off
+2. Set network mode to **4G/LTE** (Jio is 4G-only)
+3. Enable **VoLTE** in phone settings
+4. **Restart** your phone
+5. If the issue persists after 24 hours, call Jio at **199**
+
+---
+
+## Step-by-Step: What to Do After Inserting New Jio SIM
+
+1. **Insert the SIM** in the correct slot and power on your phone
+2. **Wait for signal** — may take a few minutes to a few hours
+3. You may receive a **welcome SMS** from Jio confirming activation
+4. **Make a test call** to verify — dial **199** or any number
+5. **Download MyJio app** and log in with your new Jio number
+6. **Recharge** with a plan (new SIMs often come with limited free data)
+7. **Set APN** to **jionet** if data doesn't work (see our [Jio network fix guide](/guide/jio-network-not-working-fix))
+
+---
+
+## Documents Required for New Jio SIM
+
+| Document | Purpose |
+|---|---|
+| Aadhaar card | eKYC verification (mandatory) |
+| Passport-size photo | For application form |
+| Second ID (optional) | PAN card, voter ID, driving licence |
+
+**Note:** For Aadhaar-based eKYC, you need to provide biometric verification (fingerprint or iris scan) at the Jio Store or authorized retailer.
+
+---
+
+## Jio Helpline & Support for SIM Activation
+
+| Method | Details |
+|---|---|
+| Helpline | **199** (from Jio) or **1800-889-9999** (toll-free from any phone) |
+| MyJio App | Chat support under Help & Support |
+| Jio Store | Visit the store where you purchased the SIM |
+| Email | care@jio.com |
+| Twitter/X | @JioCare |
+
+---
 
 ## Important Tips
 
-1. Keep your phone switched on and charged during the activation period — don't miss the tele-verification call
-2. Jio SIM works only on **4G VoLTE-enabled phones** — check compatibility before buying
-3. If eKYC fails repeatedly, opt for physical document verification at the Jio Store
-4. For port-in, generate UPC fresh — don't use an expired code
-5. After activation, do a **first recharge** to start your plan — the SIM comes with limited trial validity
+1. **Don't buy Jio SIM from unauthorized sellers** — activation may fail due to improper eKYC
+2. **Keep your old SIM active** during the MNP porting period — don't discard it until the Jio SIM activates
+3. **Ensure your phone supports 4G LTE** — Jio does not work on 2G/3G phones
+4. **If the SIM doesn't activate in 24 hours**, call 199 — there may be a backend issue requiring manual intervention
+5. **For eSIM activation**, you'll need a QR code from Jio — scan it from your phone's eSIM settings
 
-## Frequently Asked Questions
+---
 
-### How long does Jio SIM activation take?
-With Aadhaar eKYC, Jio SIM activates within 15 minutes to 4 hours. Physical document verification takes 24-48 hours. Port-in (MNP) takes 3-5 working days.
+## Frequently Asked Questions (FAQs)
 
-### Why is my new Jio SIM not getting network?
-Your SIM activation may still be in progress. Ensure tele-verification is complete, phone supports 4G VoLTE, and SIM is properly inserted. Wait up to 4 hours for eKYC-based activation.
+### Q1: How long does it take for a new Jio SIM to activate?
 
-### What is tele-verification for Jio SIM?
-Tele-verification is a TRAI-mandated call to confirm your identity after eKYC. You'll receive an automated call on your new Jio number — follow the IVR instructions to complete activation.
+Typically **2-4 hours** after eKYC verification, but it can take up to **24 hours** as per TRAI regulations. MNP port-in takes **4-7 working days**.
 
-### Can I activate Jio SIM without Aadhaar?
-Aadhaar is the primary document for Jio eKYC. Without Aadhaar, you can use physical document verification with passport or voter ID, but this takes 24-48 hours and may not be available at all locations.
+### Q2: My Jio SIM shows "Not Registered on Network." What should I do?
 
-### Why is my Jio port-in taking so long?
-MNP takes 3-5 working days per TRAI rules. Delays happen if you have unpaid bills with your old operator, your UPC has expired, or there's a technical issue. Contact 199 if it exceeds 7 days.
+This means activation is not yet complete. Wait 24 hours after purchase. If it still shows this error, call **1800-889-9999** to check your eKYC status.
 
-### How do I get Jio SIM replacement?
-Visit any Jio Store with your Aadhaar card. SIM replacement is free. The new SIM activates within 4-24 hours while your old SIM gets deactivated.
+### Q3: Can I activate a Jio SIM without Aadhaar?
 
-### What if Jio tele-verification call doesn't come?
-Wait up to 24 hours. Ensure DND mode is off. If the call still doesn't come, call 199 from another phone or revisit the Jio Store to re-initiate the verification process.
+As per current TRAI/DoT regulations, **Aadhaar-based eKYC** is the standard process for SIM activation in India. In some cases, alternative documents may be accepted, but the process takes longer.
+
+### Q4: I ported to Jio but the SIM is not working after 7 days. What should I do?
+
+Call **199** from another phone and escalate. The port request may have been rejected by your old operator — common reasons include outstanding dues or incomplete information. You'll need to re-initiate the port.
+
+### Q5: Can I activate a Jio SIM in a phone that's locked to another carrier?
+
+No. If your phone is carrier-locked (common with phones bought on EMI from other operators), Jio SIM won't work. You need to get the phone unlocked by the original carrier first.
+
+### Q6: My Jio SIM was working and suddenly stopped. Is it a deactivation?
+
+If your Jio SIM was inactive (no recharge) for **90 days**, Jio may deactivate it. Contact Jio support to check if your number can be reactivated or if you need a new SIM.
+
+### Q7: How do I activate Jio eSIM?
+
+Visit a Jio Store with your Aadhaar and phone. Jio will provide a **QR code** — scan it from **Settings → Mobile Data → Add eSIM** on your phone. Activation takes 2-4 hours.

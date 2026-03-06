@@ -1,154 +1,173 @@
 ---
 title: "Vi Network Not Working? Fix Vodafone Idea Signal Issues"
 description: >-
-  Fix Vi (Vodafone Idea) network issues including no signal, slow data, VoLTE
-  not working, APN settings, tower outage checks, and how to file complaints.
+  Fix Vi (Vodafone Idea) network problems — no signal, data not working, VoLTE
+  issues, APN settings, tower outage check and Vi helpline numbers for support.
 category: Utilities
 keywords:
   - vi network not working
   - vodafone idea signal problem
   - vi no signal fix
   - vi data not working
-  - vi APN settings
-  - vi VoLTE not working
-  - vi network complaint
+  - vi apn settings
+  - vi volte not working
+  - vi network issue today
+  - vodafone idea helpline
   - vi tower outage
-  - vodafone idea recharge issue
-  - vi customer care number
+  - vi mobile data fix
 readingTime: 8 min
+lastUpdated: "2026-03-06"
 officialLinks:
-  - 'https://www.myvi.in/'
-  - 'https://www.trai.gov.in/'
-lastUpdated: '2026-03-06'
+  - "https://www.myvi.in/"
+  - "https://www.myvi.in/help-and-support"
+  - "https://trai.gov.in/"
 ---
 
 # Vi Network Not Working? Fix Vodafone Idea Signal Issues
 
-Vi (formerly Vodafone Idea) is one of India's major telecom operators. If your Vi network is not working — no signal, slow data, or calls dropping — this guide covers all the troubleshooting steps and how to file a complaint if nothing works.
+Facing Vi (Vodafone Idea) network issues? Whether your calls are dropping, mobile data isn't working, or you see "No Signal" on your phone — this guide covers all common Vi network problems and how to fix them step by step.
+
+> **Disclaimer:** CitizenNest is an independent platform and is not affiliated with Vi (Vodafone Idea) or any telecom operator. Information is for guidance purposes only.
 
 ## Common Vi Network Problems
 
-- **No signal / No network** — SIM shows "No Service" or "Emergency Only"
-- **Slow mobile data** — 4G speeds extremely low or pages not loading
-- **VoLTE not working** — HD calls not connecting
-- **Recharge not reflecting** — Data pack or talktime not activated after payment
-- **Call drops** — Calls disconnecting frequently
-- **Tower outage** — Network down in your area
+- No signal or "Emergency Calls Only"
+- Mobile data not working
+- VoLTE calls not connecting
+- Slow internet speed
+- Network keeps disconnecting
+- "Not Registered on Network" error
 
-## Step-by-Step Troubleshooting
+## Step-by-Step Fixes for Vi Network Issues
 
-### 1. Basic Checks
+### 1. Restart Your Phone
 
-1. **Restart your phone** — Turn off, wait 30 seconds, turn on
-2. **Check Airplane Mode** — Ensure it's turned off (toggle it on/off once)
-3. **Re-insert SIM card** — Remove SIM, clean gently, reinsert
-4. **Check SIM in another phone** — Rules out a phone hardware issue
-5. **Check if your plan is active** — Dial `*199#` or open the Vi app
+The simplest fix works most often. Turn your phone off, wait 30 seconds, and turn it back on. This forces your phone to re-register with the nearest Vi tower.
 
-### 2. Fix Slow Data / No Data
+### 2. Toggle Airplane Mode
 
-1. **Check data balance** — Dial `*199#` or check the Vi app
-2. **Toggle mobile data off/on** in Settings
-3. **Switch network mode** — Go to Settings → Mobile Networks → Preferred network type → Select "4G/LTE" (not "Auto")
-4. **Reset APN settings:**
-   - Go to Settings → Mobile Networks → Access Point Names
-   - Tap "Reset to default" or add manually:
+1. Open **Settings** → Turn on **Airplane Mode**
+2. Wait 15-20 seconds
+3. Turn off Airplane Mode
+4. Wait for Vi network to reconnect
+
+### 3. Check Vi Network Selection
+
+Your phone may have locked onto the wrong network:
+
+1. Go to **Settings** → **Mobile Network** → **Network Operators**
+2. Tap **Search Networks** (or Select Manually)
+3. Select **Vi** or **Vodafone IN** or **Idea** from the list
+4. If not visible, select **Automatic** to let the phone choose
+
+### 4. Fix Vi APN Settings
+
+Incorrect APN (Access Point Name) settings can cause data issues:
+
+**Vi APN Settings:**
 
 | Setting | Value |
 |---------|-------|
-| Name | Vi Internet |
-| APN | portalnmms |
-| Proxy | Not set |
-| Port | Not set |
-| MMSC | http://mms1.live.vodafone.in/mms/ |
-| MMS Proxy | 10.10.1.100 |
-| MMS Port | 9401 |
-| Authentication | Not set |
-| APN Type | default,supl,mms |
+| APN | vi-internet (or portalnmms) |
+| Proxy | Not Set |
+| Port | Not Set |
+| Username | Not Set |
+| Password | Not Set |
+| MCC | 405 |
+| MNC | 840 (may vary by circle) |
+| APN Type | default,supl |
 
-5. **Clear browser cache** and retry
+**How to set:**
+1. Go to **Settings** → **Mobile Network** → **Access Point Names**
+2. Tap **+** (Add New APN)
+3. Enter the settings above
+4. Save and select the new APN
+5. Restart your phone
 
-### 3. Fix VoLTE Not Working
+### 5. Enable VoLTE on Vi
 
-1. Enable VoLTE: Settings → Mobile Networks → Enable "VoLTE" or "Enhanced 4G LTE"
-2. Ensure your phone supports Vi VoLTE (check [Vi's device list](https://www.myvi.in/))
-3. Dial `*199#` and check if your plan includes VoLTE/Wi-Fi Calling
-4. If VoLTE still doesn't work, contact Vi support — your SIM may need a backend refresh
+If your calls are not connecting or you see poor voice quality:
 
-### 4. Check for Tower Outage in Your Area
+1. Go to **Settings** → **Mobile Network** → **VoLTE** or **Enhanced 4G LTE**
+2. Toggle it **ON**
+3. If VoLTE option is missing, dial **\*#\*#4636#\*#\*** → Phone Information → check VoLTE provisioned
 
-1. Open the **Vi app** → Go to "Help" → Check for outage notifications
-2. Visit [TRAI's DND/complaint portal](https://www.trai.gov.in/) for broader outage info
-3. Ask neighbours with Vi SIMs if they also face issues — confirms a tower problem
-4. Tower outages are usually resolved within 4-24 hours
+> **Note:** VoLTE works only on VoLTE-supported handsets. Check the Vi app or website to confirm your phone supports Vi VoLTE.
 
-### 5. Fix Recharge Not Reflecting
+### 6. Check SIM Card
 
-1. Check SMS — You should receive a confirmation SMS after recharge
-2. Check balance via `*199#` or the Vi app
-3. Wait 15 minutes — Sometimes activation takes time
-4. If still not reflected, contact Vi customer care with your **transaction ID** and **payment screenshot**
+- Remove your Vi SIM, clean it gently, and reinsert
+- Try the SIM in another phone to rule out phone issues
+- If the SIM is damaged, visit a Vi store for a replacement (₹25-50)
 
-### 6. Network Reset (Last Resort)
+### 7. Update Network Settings
 
-1. Go to Settings → System → Reset Options → Reset Wi-Fi, Mobile & Bluetooth
-2. Restart phone
-3. Re-enter APN settings if needed
+- **Android:** Settings → System → Software Update → check for updates
+- **iPhone:** Settings → General → About (carrier settings update prompt will appear if available)
 
-## How to File a Vi Network Complaint
+### 8. Check for Tower Outage in Your Area
 
-### Via Vi App
-1. Open the Vi app
-2. Go to **Help** → **Chat with us**
-3. Describe your issue — the chatbot will create a ticket
-4. Note down the **complaint/ticket number**
+Sometimes the issue is not with your phone but with the Vi tower:
 
-### Via Customer Care
-- **Call 199** from your Vi number (toll-free)
-- **Call 9886098860** from any other number
-- Available 24/7
+1. Open the **Vi app** → Go to **Help** → **Network Issue**
+2. The app will show if there's an outage in your area
+3. You can also call **199** (Vi helpline) and ask about tower status
+4. Check [TRAI's MyCall app](https://trai.gov.in/) for network coverage in your area
 
-### Via Email
-- Send detailed complaint to: **customercare@vodafoneidea.com**
-- Include: Mobile number, location, issue description, screenshots
+## When Data Works but Calls Don't (or Vice Versa)
 
-### Via TRAI (If Unresolved)
-If Vi doesn't resolve your complaint within **3 days**, you can escalate:
-1. Visit the [TRAI DND app](https://www.trai.gov.in/) or call **1800-11-1363**
-2. File a complaint on the **TRAI CGMS portal**
-3. You can also approach the **Telecom Ombudsman** if the issue persists beyond 30 days
+| Problem | Likely Cause | Fix |
+|---------|-------------|-----|
+| Data works, no calls | VoLTE off or 2G/3G weak | Enable VoLTE, toggle network mode |
+| Calls work, no data | APN wrong or data limit hit | Reset APN, check data balance |
+| Neither works | SIM issue or tower outage | Try SIM in another phone, call 199 |
+
+## Vi Helpline and Support Channels
+
+| Channel | Details |
+|---------|---------|
+| Vi Helpline | **199** (from Vi number) or **9886012345** (from other number) |
+| Vi App | Download from Play Store / App Store → Help section |
+| Vi Website | [www.myvi.in/help-and-support](https://www.myvi.in/help-and-support) |
+| Email | care@myvi.in |
+| Social Media | Twitter: @Vi_Aborad |
+| Vi Store | Visit nearest Vi store with ID proof |
+
+## How to Register a Complaint with Vi
+
+1. Call **199** → Select language → Choose "Network Issue"
+2. Or open **Vi App** → Help → Raise a Complaint
+3. Note down the **complaint reference number**
+4. If not resolved in 7 days, escalate to the **Appellate Authority** at Vi
+5. If still unresolved, file a complaint on [TRAI's](https://trai.gov.in/) portal or **PGPORTAL** at [pgportal.gov.in](https://pgportal.gov.in/)
 
 ## Important Tips
 
-1. Always keep your **recharge plan active** — Vi deactivates services after plan expiry
-2. If you're in a basement or remote area, signal issues are often location-specific, not SIM-related
-3. Vi's network is being upgraded — some areas may face temporary disruptions during tower maintenance
-4. Keep the Vi app updated for the latest outage alerts and self-service options
-5. Save your complaint ticket number for follow-up and escalation
+1. **Check your plan validity** — Network gets restricted if your plan expires. Recharge to restore service.
+2. **Avoid signal-blocking areas** — Basements, elevators, and metal structures can block signals.
+3. **Preferred network mode** — Set your phone to **4G/LTE preferred** for best experience on Vi.
+4. **Keep your phone updated** — Software updates often fix network compatibility issues.
+5. **Port before disconnecting** — If issues persist, consider porting to another network via MNP (SMS PORT to 1900).
 
 ## Frequently Asked Questions
 
-### What is the Vi customer care number?
-Dial **199** from your Vi number (toll-free) or **9886098860** from any other number. Available 24/7.
+### Why is Vi network not working today?
+Vi may have a tower outage in your area. Check the Vi app for outage alerts or call 199 to confirm. Tower maintenance is usually resolved within a few hours.
 
-### Why does my Vi SIM show "No Service"?
-This can happen due to: expired plan, SIM not properly inserted, phone not supporting Vi bands, or a tower outage in your area. Follow the troubleshooting steps above.
+### How do I fix "Not Registered on Network" on Vi?
+Remove and reinsert your SIM card, restart the phone, and set network selection to Automatic. If it persists, your SIM may need replacement — visit a Vi store.
 
-### How do I check my Vi data balance?
-Dial `*199#` from your Vi number or open the Vi app → Dashboard to see remaining data, validity, and talktime.
+### Why is Vi mobile data slow?
+Check if you've exhausted your daily data limit (speed drops to 64 Kbps after limit). Also verify APN settings and try toggling Airplane mode. For ongoing slow speed, call 199 to complain.
 
-### Can I use VoLTE on Vi?
-Yes, Vi supports VoLTE on most 4G smartphones. Enable it in Settings → Mobile Networks → VoLTE. If your phone isn't VoLTE-compatible, calls will use 2G/3G.
+### How do I check Vi network coverage in my area?
+Visit the Vi website or app → Coverage section. You can also use TRAI's MyCall app to check signal strength and network coverage in your locality.
 
-### How do I reset Vi APN settings?
-Go to Settings → Mobile Networks → Access Point Names → Reset to default. If APN doesn't auto-configure, set APN as `portalnmms` manually.
+### Can I get a refund if Vi network is down for days?
+Vi does not automatically give refunds for outages. However, you can raise a complaint via 199 or the Vi app. If unresolved, escalate to TRAI or the consumer forum for compensation.
 
-### What if my Vi recharge fails but money is deducted?
-Wait 15 minutes for auto-reversal. If not reversed within 24 hours, contact Vi customer care at 199 with your transaction ID and payment proof.
+### How do I enable Vi VoLTE?
+Go to Settings → Mobile Network → Enable VoLTE / Enhanced 4G LTE. If the option is missing, your phone may not support VoLTE on Vi. Check the Vi app for a compatible handset list.
 
-### How long does Vi take to resolve network complaints?
-Vi must resolve complaints within **3 working days** as per TRAI guidelines. If unresolved, escalate to TRAI.
-
----
-
-*Disclaimer: CitizenNest is an independent platform and is not affiliated with Vi (Vodafone Idea Limited) or any telecom operator. Information is for guidance only. For official support, contact Vi directly.*
+### What is Vi's customer care number?
+Dial **199** from your Vi number (toll-free) or **9886012345** from any other number. Vi customer care is available 24/7.

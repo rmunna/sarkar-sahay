@@ -1,209 +1,190 @@
 ---
 title: "Airtel Network Problem? Fix Signal & Call Drop Issues"
 description: >-
-  Fix Airtel network problems including no signal, call drops, slow data, and
-  VoLTE issues. Step-by-step troubleshooting guide with APN settings and complaint process.
+  Fix Airtel network problems including no signal, call drops, and weak coverage.
+  Step-by-step troubleshooting for VoLTE, APN, network mode settings.
 category: Utilities
 keywords:
   - airtel network problem
   - airtel no signal
   - airtel call drop fix
-  - airtel data slow
-  - airtel VoLTE not working
+  - airtel network not working
+  - airtel signal problem
+  - airtel VoLTE settings
   - airtel APN settings
   - airtel tower outage
-  - airtel network complaint
-  - airtel signal problem
-  - airtel 4G not working
+  - airtel customer care number
+  - airtel network issue today
 readingTime: 8 min
 lastUpdated: 2026-03-06
 officialLinks:
-  - 'https://www.airtel.in/contact-us'
-  - 'https://www.airtel.in/myplan-infinity'
+  - 'https://www.airtel.in/support'
+  - 'https://www.airtel.in/myplan-infinity/'
   - 'https://trai.gov.in/'
 ---
 
 # Airtel Network Problem? Fix Signal & Call Drop Issues
 
-Facing Airtel network issues like no signal, frequent call drops, or slow mobile data? These problems can happen due to tower outages, incorrect phone settings, SIM issues, or network congestion. This guide covers step-by-step fixes for all common Airtel network problems.
+Facing Airtel network issues like no signal, call drops, or slow data? This guide covers all common Airtel network problems with step-by-step fixes you can try before calling customer care.
 
 ## Common Airtel Network Problems
 
-Before troubleshooting, identify your issue:
+Airtel users across India may face these issues:
 
-- **No signal / No network** — Phone shows no bars or "No Service"
-- **Call drops** — Calls disconnect mid-conversation
-- **Slow data / No internet** — 4G/5G data is extremely slow or not working
-- **VoLTE not working** — HD calling not available
-- **One-sided audio** — Only one person can hear during calls
+- **No signal or "No Service"** — phone shows no network bars
+- **Call drops** — calls disconnect mid-conversation
+- **Weak signal** — low bars, poor voice quality
+- **Data not working** — mobile data connected but no internet
+- **VoLTE not working** — HD calling icon missing
+- **One-way audio** — caller or receiver cannot hear
 
 ---
 
-## Step-by-Step Fix: Airtel No Signal or No Network
+## Step-by-Step Troubleshooting
 
 ### Step 1: Basic Checks
 
-1. **Restart your phone** — Turn off, wait 10 seconds, turn on again
-2. **Check Airplane Mode** — Ensure Airplane Mode is OFF
-3. **Re-insert SIM** — Remove the SIM card, clean it gently, reinsert it
-4. **Check SIM in another phone** — If it works in another phone, the issue is with your handset
+1. **Toggle Airplane Mode** — Turn on Airplane Mode, wait 10 seconds, turn it off. This forces your phone to reconnect to the nearest tower.
+2. **Restart your phone** — A simple restart fixes most temporary network glitches.
+3. **Check SIM card** — Remove the SIM, clean it gently, and reinsert. Ensure it is properly seated in the tray.
+4. **Try SIM in another phone** — If the issue persists in another phone, the problem is with the SIM or Airtel's network, not your device.
 
-### Step 2: Check Network Mode Settings
+### Step 2: Check for Airtel Network Outage
 
-1. Go to **Settings → Mobile Network → Preferred Network Type**
-2. Select **4G/LTE (Preferred)** or **5G/Auto** if your phone supports it
-3. Avoid "2G Only" as it limits connectivity
-
-### Step 3: Manual Network Selection
-
-1. Go to **Settings → Mobile Network → Network Operators**
-2. Turn off **Auto Select**
-3. Wait for networks to appear
-4. Select **Airtel** manually
-5. Turn Auto Select back ON
-
-### Step 4: Check for Tower Outage
+Before troubleshooting further, check if there's an outage in your area:
 
 1. Open the **Airtel Thanks** app
-2. Go to **Help → Network Issue**
-3. The app will show if there's a tower outage in your area
-4. You can also call **121** (Airtel customer care) to check
+2. Go to **Help** → **Network Issue**
+3. The app will show if there's a known outage in your location
+4. You can also call **198** (Airtel customer care) to check
 
----
+**Tip:** You can also check [Downdetector India](https://downdetector.in/status/airtel/) for real-time outage reports from other users.
 
-## Fix Airtel Slow Data or 4G Not Working
+### Step 3: Set Correct Network Mode
 
-### Step 1: Check Data Settings
+Using the wrong network mode can cause signal issues:
 
-1. Ensure **Mobile Data** is turned ON in settings
-2. Check if you have an active data pack (dial **\*121#** to check balance)
-3. Ensure your daily data limit is not exhausted
+**For Android:**
+1. Go to **Settings** → **SIM cards & mobile networks** (or **Connections** → **Mobile networks**)
+2. Select your Airtel SIM
+3. Tap **Preferred network type**
+4. Select **5G/4G/3G/2G (Auto)** or **LTE/3G/2G (Auto)**
 
-### Step 2: Reset Airtel APN Settings
+**For iPhone:**
+1. Go to **Settings** → **Cellular** → **Cellular Data Options**
+2. Tap **Voice & Data**
+3. Select **5G Auto** or **LTE**
 
-Incorrect APN (Access Point Name) settings can cause data issues. Set them manually:
+### Step 4: Enable VoLTE for HD Calling
+
+VoLTE (Voice over LTE) provides better call quality and fewer drops:
+
+**For Android:**
+1. Go to **Settings** → **SIM cards & mobile networks**
+2. Select your Airtel SIM
+3. Toggle **VoLTE** or **Enhanced calling** ON
+
+**For iPhone:**
+1. Go to **Settings** → **Cellular** → **Cellular Data Options**
+2. Enable **LTE** → **Voice & Data**
+
+**Note:** VoLTE works on most 4G/5G phones. If you have an older 3G-only phone, VoLTE will not be available.
+
+### Step 5: Fix Airtel APN Settings
+
+Incorrect APN (Access Point Name) settings can cause data issues:
+
+**Airtel recommended APN settings:**
 
 | Setting | Value |
-|---|---|
-| **Name** | Airtel Internet |
-| **APN** | airtelgprs.com |
-| **Proxy** | Not set |
-| **Port** | Not set |
-| **Username** | Not set |
-| **Password** | Not set |
-| **MCC** | 404 |
-| **MNC** | 10, 45, 49, or 31 (varies by circle) |
-| **Authentication** | None |
-| **APN Type** | default,supl |
+|---------|-------|
+| Name | Airtel Internet |
+| APN | airtelgprs.com |
+| Proxy | Not set |
+| Port | Not set |
+| Username | Not set |
+| Password | Not set |
+| MCC | 404 |
+| MNC | 10, 45, 49, or 70 (varies by circle) |
+| Authentication | None |
+| APN Type | default,supl |
 
-**How to set APN:**
-1. Go to **Settings → Mobile Network → Access Point Names**
-2. Tap **+** (Add new APN)
+**To set APN on Android:**
+1. Go to **Settings** → **Mobile networks** → **Access Point Names**
+2. Tap **+** to add new APN or edit existing
 3. Enter the values above
 4. Save and select this APN
 
-### Step 3: Reset Network Settings
+**For iPhone:** APN settings are usually configured automatically. Go to **Settings** → **Cellular** → **Cellular Data Network** to verify.
 
-1. Go to **Settings → General Management → Reset → Reset Network Settings**
-2. This clears saved Wi-Fi, Bluetooth, and mobile network settings
-3. Restart your phone after reset
+### Step 6: Reset Network Settings
 
----
+If nothing else works, reset all network settings:
 
-## Fix Airtel VoLTE Not Working
+**Android:** Settings → System → Reset → Reset network settings
 
-VoLTE (Voice over LTE) enables HD calling without switching to 2G/3G for voice calls.
+**iPhone:** Settings → General → Transfer or Reset iPhone → Reset → Reset Network Settings
 
-1. **Check phone compatibility** — Not all phones support Airtel VoLTE. Check on [Airtel's website](https://www.airtel.in/)
-2. Go to **Settings → Mobile Network → VoLTE / HD Calling**
-3. Toggle **VoLTE ON**
-4. If the option is missing, your phone may not support it or needs a software update
-5. Dial **\*121#** and check if VoLTE is enabled on your plan
+**Warning:** This will erase all saved WiFi passwords and Bluetooth pairings.
 
 ---
 
-## Fix Airtel Call Drop Issues
+## How to Register a Complaint with Airtel
 
-Call drops are often caused by weak signal or network congestion:
-
-1. **Move to an open area** — Buildings, basements, and elevators weaken signals
-2. **Check signal strength** — Dial **\*#\*#4636#\*#\*** (Android) to see signal strength in dBm
-3. **Update your phone software** — Outdated software can cause connectivity issues
-4. **Disable Wi-Fi Calling** temporarily if calls drop during Wi-Fi to cellular handover
-5. **Report persistent call drops** — TRAI regulations require operators to maintain quality. File a complaint if the issue continues
-
----
-
-## How to Complain About Airtel Network Issues
+If the problem persists after troubleshooting:
 
 ### Method 1: Airtel Thanks App
+1. Open Airtel Thanks app
+2. Go to **Help** → **Raise a complaint**
+3. Select your issue category
+4. Note down the complaint/ticket number
 
-1. Open **Airtel Thanks** app
-2. Go to **Help → Raise a Complaint**
-3. Select **Network Issue**
-4. Describe your problem and submit
-5. Note the complaint/ticket number
+### Method 2: Call Customer Care
+- **198** — Airtel customer care (toll-free from Airtel number)
+- **121** — For plan and recharge queries
+- **1800-103-4444** — Toll-free from any number
 
-### Method 2: Call Airtel Customer Care
-
-- Dial **121** from your Airtel number (toll-free)
-- Dial **1800-103-4444** from any other number (toll-free)
-
-### Method 3: Online Complaint
-
-- Visit [airtel.in/contact-us](https://www.airtel.in/contact-us)
-- Use the chat support or raise a ticket
+### Method 3: Online
+- Visit [airtel.in/support](https://www.airtel.in/support)
+- Chat with the Airtel assistant or raise a ticket
 
 ### Method 4: TRAI Complaint (Escalation)
-
-If Airtel does not resolve your issue within 7 days:
-
-1. Visit [TRAI's DND portal](https://trai.gov.in/) or call **1909**
-2. You can also escalate to the **Appellate Authority** at Airtel if the first-level resolution is unsatisfactory
-3. File a complaint on the **TRAI MyCall app** for call drop issues
+If Airtel does not resolve your complaint within 7 days:
+1. File a complaint on the **TRAI DND app** or at [trai.gov.in](https://trai.gov.in/)
+2. You can also approach the **Telecom Ombudsman** through your Airtel circle's Appellate Authority
 
 ---
 
 ## Important Tips
 
-1. **Keep your Airtel Thanks app updated** — It shows real-time network status in your area
-2. **Check data balance regularly** — Dial **\*121#** or use the app to avoid unexpected data cutoff
-3. **SIM cards degrade over time** — If your SIM is old (3+ years), visit an Airtel store for a free SIM replacement
-4. **5G availability is limited** — If your phone connects to 5G but speed is poor, switch to 4G/LTE preferred mode
-5. **Indoor signal boosters** — For persistent poor coverage at home, ask Airtel about their Xstream Fiber or Wi-Fi Calling option
+1. **Keep your Airtel Thanks app updated** — it provides network diagnostics and outage alerts for your area.
+2. **Check if your plan is active** — an expired plan can cause data issues even if calls work.
+3. **Indoor signal issues** — try moving near a window. Thick walls and basements weaken mobile signals.
+4. **Carrier settings update (iPhone)** — Go to Settings → General → About. If an update is available, install it.
+5. **Dual SIM conflict** — If using dual SIM, try setting Airtel as the preferred SIM for data and calls.
 
 ---
 
 ## Frequently Asked Questions
 
-### Why does my Airtel SIM show "No Service"?
+### Why is my Airtel network not working today?
+Airtel may have a temporary tower outage in your area due to maintenance or technical issues. Check the Airtel Thanks app or call 198 to confirm. Most outages are resolved within a few hours.
 
-This can happen due to tower outage, SIM damage, phone settings issue, or an expired plan. Restart your phone, reinsert the SIM, and check if your plan is active by dialing **\*121#**.
+### How do I fix Airtel call drop problems?
+Enable VoLTE on your phone, ensure you're on 4G/5G network mode, and check that your SIM is properly inserted. If call drops persist in a specific location, report it to Airtel — they may need to optimize the nearby tower.
 
-### How do I check if there is an Airtel tower outage in my area?
+### What is the Airtel customer care number?
+Call **198** from your Airtel number (toll-free) or **1800-103-4444** from any phone. For broadband issues, call **1800-103-0121**.
 
-Open the Airtel Thanks app and go to Help → Network Issue. The app will automatically detect if there's a planned or unplanned outage in your area.
+### How do I check Airtel network coverage in my area?
+Visit the Airtel website or open the Airtel Thanks app to check coverage maps. You can also check by selecting your city/area on [airtel.in](https://www.airtel.in/).
 
-### What are the correct APN settings for Airtel 4G?
+### Will resetting network settings delete my data?
+No. Resetting network settings only removes saved WiFi passwords, Bluetooth pairings, and VPN configurations. Your photos, apps, and files remain safe.
 
-Set APN to **airtelgprs.com**, leave proxy and port empty, MCC as 404, and authentication as None. See the detailed APN table above.
-
-### How do I enable VoLTE on Airtel?
-
-Go to Settings → Mobile Network → VoLTE/HD Calling and toggle it ON. Your phone must support VoLTE and your Airtel plan must include it (most 4G plans do).
-
-### Can I file a TRAI complaint against Airtel for call drops?
-
-Yes. Download the **TRAI MyCall app** to report call drops. If Airtel doesn't resolve your complaint within 7 days, you can escalate it to TRAI or the Appellate Authority.
-
-### How to get a free SIM replacement from Airtel?
-
-Visit any Airtel store with your [Aadhaar card](/guide/aadhaar-card-apply-online) and current SIM details. SIM replacement is usually free for damaged or old SIMs. You'll receive a new SIM with the same number.
-
-### Why is Airtel 4G slow in my area?
-
-Slow 4G can be due to network congestion (too many users on a tower), poor signal strength, or exhausted daily data limit. Try resetting APN settings and switching network modes.
+### How long does it take Airtel to fix a tower issue?
+Most tower outages are resolved within 4-24 hours. If maintenance is scheduled, it may take up to 48 hours. You should receive updates via the Airtel Thanks app if you've raised a complaint.
 
 ---
 
-*Disclaimer: CitizenNest is an independent platform and is not affiliated with Bharti Airtel Limited or any government body. Information is provided for general guidance. Contact Airtel directly for account-specific issues.*
+> **Disclaimer:** CitizenNest is an independent platform and is not affiliated with Bharti Airtel Limited or any government body. Information is provided for guidance only. For official support, contact Airtel directly at 198 or visit [airtel.in/support](https://www.airtel.in/support).

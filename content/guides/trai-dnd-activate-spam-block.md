@@ -1,164 +1,173 @@
 ---
 title: "TRAI DND Activate: Block Spam Calls & SMS India"
 description: >-
-  How to activate TRAI DND (Do Not Disturb) to block spam calls and SMS in
-  India. Register via SMS, app, or online. File complaints against spammers.
+  How to activate TRAI DND to block spam calls and SMS in India. SMS START DND
+  to 1909, use TRAI DND app, register complaints, and stop unwanted messages.
 category: Utilities
 keywords:
-  - TRAI DND activate
-  - block spam calls India
-  - do not disturb registration
-  - DND SMS activate
-  - TRAI DND app
+  - TRAI DND
+  - DND activate India
+  - block spam calls
   - block spam SMS
-  - spam complaint TRAI
-  - DND registration India
-  - stop telemarketing calls
+  - DND 1909
+  - TRAI DND app
+  - do not disturb register
+  - stop spam calls India
+  - DND complaint
   - TRAI spam block
 readingTime: 7 min
 lastUpdated: "2026-03-06"
 officialLinks:
-  - "https://www.trai.gov.in/"
-  - "https://www.nccptrai.gov.in/nccpregistry/homepage.misc"
+  - 'https://www.trai.gov.in/consumer-info/telecom/do-not-disturb-dnd'
+  - 'https://tafcop.dgtelecom.gov.in/'
 ---
 
-# TRAI DND Activate: How to Block Spam Calls & SMS in India
+# TRAI DND Activate: Block Spam Calls & SMS India
 
-Tired of receiving unwanted telemarketing calls and promotional SMS? TRAI's Do Not Disturb (DND) service lets you block spam calls and messages on your mobile number. Once activated, telemarketers are legally prohibited from contacting you. If they still do, you can file a complaint and they face heavy penalties.
+Tired of spam calls and promotional SMS? TRAI's Do Not Disturb (DND) service lets you block unwanted commercial communications. Once registered, telemarketers are legally prohibited from contacting you. Here's how to activate it.
 
 ## What is TRAI DND?
 
-DND (Do Not Disturb) is a free service by the Telecom Regulatory Authority of India (TRAI) that allows mobile subscribers to stop receiving Unsolicited Commercial Communications (UCC) — spam calls and SMS from telemarketers. It is governed by the Telecom Commercial Communications Customer Preference Regulations (TCCCPR).
+DND (Do Not Disturb) is a free service by TRAI (Telecom Regulatory Authority of India) that blocks unsolicited commercial calls and SMS. Under TCCCPR (Telecom Commercial Communications Customer Preference Regulations), registered telemarketers face penalties for violating DND preferences.
 
-## Who Can Register?
-
-- Any Indian mobile subscriber (prepaid or postpaid)
-- Available on all operators: Jio, Airtel, Vi (Vodafone Idea), BSNL, MTNL
-- No charges for DND activation
-
-## How to Activate DND: 3 Methods
-
-### Method 1: Via SMS (Easiest)
-
-1. Open your SMS app on the phone number you want to register
-2. Send **START 0** to **1909**
-3. You will receive a confirmation SMS from your operator
-4. DND gets activated within **7 days**
-
-**DND Category Codes:**
-
-If you want to block only specific categories instead of all commercial messages, send `START <category number>` to 1909:
-
-| Code | Category |
-|------|----------|
-| 0 | Fully blocked (all categories) |
-| 1 | Banking / Insurance / Financial Products |
-| 2 | Real Estate |
-| 3 | Education |
-| 4 | Health |
-| 5 | Consumer Goods & Automobiles |
-| 6 | Communication / Broadcasting / Entertainment / IT |
-| 7 | Tourism & Leisure |
-
-**Example:** To block only real estate and education spam, send `START 2,3` to 1909.
-
-### Method 2: Via TRAI DND App
-
-1. Download the **TRAI DND** app from [Google Play Store](https://play.google.com/store/apps/details?id=trai.gov.in.dnd) or Apple App Store
-2. Open the app and verify your mobile number via OTP
-3. Select **Fully Blocked** or choose specific categories
-4. Tap **Register**
-5. Your preference is sent to TRAI directly
-
-> The app also lets you file spam complaints directly with call log evidence.
-
-### Method 3: Via Operator Customer Care
-
-1. Call your operator's customer care:
-   - Jio: 199
-   - Airtel: 121
-   - Vi: 199
-   - BSNL: 1503
-2. Request DND activation
-3. Confirm your preference (full block or category-based)
-
-## How to Deactivate DND
-
-Send **STOP** to **1909** from your registered number. DND will be deactivated within 7 days.
-
-## How to File a Complaint Against Spam
-
-If you receive spam calls or SMS even after activating DND, you can file a complaint:
-
-### Via TRAI DND App (Recommended)
-
-1. Open the TRAI DND app
-2. The app automatically shows recent calls and SMS
-3. Select the spam call/SMS
-4. Tap **Report** and confirm
-5. Complaint is filed with TRAI directly
-
-### Via SMS
-
-1. Forward the spam SMS to **1909**
-2. Include the spam sender's number
-
-### Via NCCP Portal
-
-1. Visit [NCCP Portal](https://www.nccptrai.gov.in/nccpregistry/homepage.misc)
-2. Register/login with your mobile number
-3. Go to **Register Complaint**
-4. Enter details of the spam call/SMS
-5. Submit the complaint
-
-## Complaint Timeline & Action
-
-| Stage | Timeline |
-|-------|----------|
-| DND activation | Within 7 days of request |
-| Complaint acknowledgement | Immediate (via SMS) |
-| Operator investigation | Within 7 days |
-| Penalty on spammer (first offence) | ₹25,000 per violation |
-| Repeated offences | Up to ₹2,50,000 + disconnection |
-
-## Important Tips
-
-1. **DND is free** — no operator can charge you for activation or deactivation
-2. **Transactional messages are not blocked** — OTPs, bank alerts, and service messages will still come through
-3. **File complaints within 3 days** — you must report spam within 3 days of receiving it for TRAI to take action
-4. **The TRAI DND app works best** — it auto-captures evidence (call logs, SMS) making complaints stronger
-5. **Re-register after porting** — if you switch operators via MNP, re-activate DND on your new operator
-
-## Frequently Asked Questions
-
-### 1. Does DND block all calls and SMS?
-
-No. DND only blocks unsolicited commercial communications (telemarketing). You will still receive calls from individuals, transactional SMS (OTPs, bank alerts), and service messages from your operator.
-
-### 2. How long does DND activation take?
-
-DND gets activated within 7 days of sending the SMS or registering via the app.
-
-### 3. Can I choose which type of spam to block?
-
-Yes. You can block all categories (send START 0 to 1909) or select specific categories like banking, real estate, education, etc.
-
-### 4. What happens if I still get spam after DND?
-
-File a complaint via the TRAI DND app, SMS to 1909, or the NCCP portal. The spammer can be fined ₹25,000 per violation.
-
-### 5. Is DND available for landline numbers?
-
-Yes, DND can be activated on landline numbers as well. Call your operator's customer care to register.
-
-### 6. Will DND block political or government messages?
-
-No. Messages from government agencies and political parties during election periods may still be delivered as they fall under exempted categories.
-
-### 7. Do I need to renew DND registration?
-
-No. Once activated, DND remains active until you deactivate it or change your number.
+**Key facts:**
+- Completely **free** to activate
+- Works on **all operators** — Jio, Airtel, Vi, BSNL
+- Takes effect within **7 days** of registration
+- You can **selectively allow** certain categories if needed
 
 ---
 
-*This guide is for informational purposes only. CitizenNest is not affiliated with TRAI or any telecom operator. Verify details on the [official TRAI website](https://www.trai.gov.in/). Information is current as of March 2026.*
+## How to Activate DND
+
+### Method 1: SMS to 1909 (Easiest)
+
+Send an SMS from your mobile number:
+
+| Action | SMS Format | Send To |
+|---|---|---|
+| **Block ALL commercial messages** | `START DND` | **1909** |
+| **Block specific categories** | `START DND <category numbers>` | **1909** |
+| **Deactivate DND** | `STOP DND` | **1909** |
+
+**Example:** To block all spam → Send `START DND` to `1909`
+
+You will receive a confirmation SMS. DND activates within **7 days**.
+
+### Method 2: Call 1909
+
+- Call **1909** from your mobile
+- Follow the IVR prompts to activate DND
+- Select full block or category-wise preferences
+
+### Method 3: TRAI DND App
+
+Download the official TRAI DND app:
+- **Android:** Available on Google Play Store — search "TRAI DND"
+- **iPhone:** Available on App Store — search "TRAI DND"
+
+Features of the app:
+- Register for DND
+- Set category preferences
+- **Report spam calls and SMS** directly from call log
+- Track complaint status
+
+### Method 4: Contact Your Operator
+
+Call your operator's customer care and request DND activation:
+- **Jio:** 198
+- **Airtel:** 121
+- **Vi:** 199
+- **BSNL:** 1800-180-1503
+
+---
+
+## DND Categories
+
+You can choose to block all commercial communications or selectively allow specific categories:
+
+| Category | Code | Examples |
+|---|---|---|
+| Banking/Insurance/Finance | 1 | Loan offers, credit card promos, insurance |
+| Real Estate | 2 | Property advertisements |
+| Education | 3 | Coaching classes, university admissions |
+| Health | 4 | Hospital promos, wellness products |
+| Consumer Goods & Auto | 5 | Shopping offers, automobile deals |
+| Communication/Broadcasting | 6 | DTH, broadband, entertainment offers |
+| Tourism & Leisure | 7 | Travel packages, hotel offers |
+
+**To block specific categories:** Send `START DND 1,3,5` to 1909 (blocks Banking, Education, and Consumer categories).
+
+**To allow only certain categories:** Send `START DND` first (blocks all), then send `STOP DND <category>` to allow specific ones.
+
+---
+
+## How to Register a Spam Complaint
+
+If you receive spam calls or SMS even after activating DND:
+
+### Via TRAI DND App (Recommended)
+1. Open the TRAI DND app
+2. The app automatically detects recent calls and SMS
+3. Select the spam call/message
+4. Tap **Report** and confirm
+5. The complaint is sent directly to TRAI
+
+### Via SMS
+Send an SMS to **1909** with details of the spam:
+- For spam **call**: `<Spammer's number> <date of call in dd/mm/yyyy>`
+- For spam **SMS**: Forward the spam SMS to **1909**
+
+### Complaint Timeline
+- Complaint must be filed within **3 days** of receiving spam
+- Your operator investigates within **7 days**
+- If the complaint is valid, the telemarketer faces penalties:
+  - **First offence:** Disconnection of telemarketing number
+  - **Repeated offences:** Blacklisting for up to 2 years
+
+---
+
+## Important Tips
+
+1. **DND does not block transactional messages** — OTPs, bank alerts, delivery updates, and government notifications will still come through
+2. **Register complaints promptly** — you have only 3 days to report spam after receiving it
+3. **Use the TRAI DND app** for easiest complaint registration — it auto-captures call/SMS details
+4. **Check your DND status** anytime by sending `STATUS DND` to 1909
+5. **Be patient** — DND takes up to 7 days to fully activate; spam may continue during this period
+
+---
+
+## Processing Time
+
+- **DND activation:** Up to 7 days after registration
+- **Complaint resolution:** 7 days from filing
+- **Category preference changes:** Take effect within 7 days
+
+---
+
+## FAQs
+
+### Will DND block all calls and messages?
+No. DND only blocks **unsolicited commercial communications** from registered telemarketers. Personal calls, transactional messages (OTPs, bank alerts), and government messages are not affected.
+
+### Is DND free?
+Yes. Activating DND and filing complaints is completely free. There are no charges from TRAI or your operator.
+
+### Can I receive promotional offers from specific companies after DND?
+If you have given explicit consent to a company (e.g., opted in on their website), they can still send you messages. You can withdraw consent by contacting them directly.
+
+### I activated DND but still get spam. What should I do?
+File a complaint via the TRAI DND app or SMS to 1909 within 3 days. Also check if you accidentally gave consent to the company sending the messages.
+
+### How do I deactivate DND?
+Send `STOP DND` to 1909. DND will be deactivated within 7 days.
+
+### Does DND work on landline numbers?
+Yes. You can activate DND on landline numbers by calling 1909 from your landline.
+
+### Will DND block spam from international numbers?
+DND is effective against registered Indian telemarketers. International spam may not be fully blocked. You can use your phone's built-in call blocking for those.
+
+---
+
+*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with TRAI or any telecom operator. Information is based on official TRAI guidelines. Visit [trai.gov.in](https://www.trai.gov.in/) for official details.*
