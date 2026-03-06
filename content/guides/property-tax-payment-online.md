@@ -1,261 +1,240 @@
 ---
-title: How to Pay Property Tax Online in India — Municipal Tax Payment Guide
+title: "Property Tax Payment Online: State-Wise Municipal Portal Guide"
 description: >-
-  Complete guide to pay property tax online in India. Step-by-step process for
-  Delhi MCD, Mumbai BMC, Bangalore BBMP, Chennai, and Hyderabad GHMC with...
-category: Property & Legal
+  Pay property tax online via BMC, MCD, BBMP, Chennai Corporation and other municipal
+  portals. Calculate tax, get early payment rebate & download receipt.
+category: "Property & Legal"
 keywords:
   - property tax payment online
-  - pay property tax
-  - municipal tax online
-  - property tax India
-  - MCD property tax
+  - property tax online
   - BMC property tax
+  - MCD property tax
   - BBMP property tax
-  - GHMC property tax
-  - house tax online
+  - Chennai corporation property tax
+  - property tax calculator
   - property tax receipt download
-readingTime: 10 min
+  - municipal tax payment
+  - house tax online payment
+readingTime: "9 min"
+lastUpdated: "2026-03-06"
 officialLinks:
-  - 'https://mcdonline.nic.in'
-  - 'https://portal.mcgm.gov.in'
-  - 'https://bbmptax.karnataka.gov.in'
-  - 'https://chennaicorporation.gov.in'
-  - 'https://ghmc.gov.in'
+  - "https://ptax.mcgm.gov.in/"
+  - "https://mcdonline.nic.in/"
+  - "https://bbmptax.karnataka.gov.in/"
+  - "https://chennaicorporation.gov.in/online-civic-services/online-payment.html"
+  - "https://ghmc.gov.in/"
 ---
+
+# Property Tax Payment Online: State-Wise Municipal Portal Guide
+
+Property tax is an annual tax levied by municipal corporations and local bodies on all property owners in India. Most major cities now allow **online property tax payment** through their official portals. This guide covers how to pay property tax online across major Indian cities, calculate your tax, claim early payment rebates, and download receipts.
 
 ## What is Property Tax?
 
-Property tax is an annual tax levied by your local municipal corporation or municipality on land and buildings within its limits. Every property owner — whether residential, commercial, or vacant land — must pay this tax. The money collected is used for civic services like roads, water supply, drainage, street lighting, and garbage collection.
+**Property tax** is a tax levied by the **municipal corporation or local body** on all properties — residential, commercial, and vacant land — within its jurisdiction. The tax is used to fund:
 
-Property tax is also called **house tax** or **municipal tax** in different parts of India.
+- Road maintenance and construction
+- Water supply and drainage
+- Garbage collection and sanitation
+- Street lighting
+- Public amenities and parks
 
-## How is Property Tax Calculated?
-
-Property tax calculation varies from city to city. There are three main systems used across India:
-
-### 1. Unit Area System (Delhi, Kolkata, Patna, Hyderabad)
-Tax is calculated based on the **per-unit price of the built-up area** of the property. The rate depends on the location, type of construction, usage (residential/commercial), and age of the building.
-
-**Formula:** Property Tax = Unit Area Value × Built-up Area × Age Factor × Usage Factor × Structure Factor × Occupancy Factor
-
-### 2. Capital Value System (Mumbai)
-Tax is calculated as a **percentage of the market value** of the property as determined by the government. The stamp duty ready reckoner rate is typically used.
-
-**Formula:** Property Tax = Capital Value × Tax Rate
-
-### 3. Rateable Value System (Chennai, parts of Karnataka)
-Also called Annual Rental Value (ARV) system. Tax is calculated based on the **expected annual rent** the property can fetch, whether or not it is actually rented.
-
-**Formula:** Property Tax = Rateable Value × Tax Rate
-
-> **Note:** Most cities revise property tax rates periodically. Check your municipal corporation's website for current rates.
-
-## Documents and Details Needed
-
-Before paying property tax online, keep these details ready:
-
-- **Property ID / Assessment Number** — This is your unique property tax number assigned by the municipality
-- **Khata Number** (Bangalore) or **CTS Number** (Mumbai) or **PTIN** (Hyderabad)
-- **Owner's name** as registered with the municipality
-- **Zone / Ward / Colony details** — needed to search your property
-- **Previous payment receipt** (for reference)
-- **Mobile number and email** linked to the property record
-
-> If you don't know your Property ID, most portals allow you to search by owner name, door number, or address.
-
-## How to Pay Property Tax Online — City-Wise Guide
-
-### Delhi — MCD Property Tax
-
-**Portal:** [https://mcdonline.nic.in](https://mcdonline.nic.in)
-
-After the unification of the three MCDs (North, South, East) into a single **Municipal Corporation of Delhi (MCD)** in 2022, property tax is managed through a single portal.
-
-**Steps to pay:**
-1. Visit [mcdonline.nic.in](https://mcdonline.nic.in)
-2. Click on **"Property Tax"** section
-3. Enter your **Property Unique ID (UPIC)** or search by colony/address
-4. Verify the property details and tax amount displayed
-5. Click **"Pay Online"**
-6. Choose payment method — net banking, debit/credit card, or UPI
-7. Complete payment and download the receipt
-
-**Calculation:** Delhi uses the **Unit Area System**. Tax depends on the colony category (A to H), covered area, age, and usage type.
-
-**Early payment rebate:** MCD offers a **rebate of up to 15%** if you pay before the due date (usually 30th June).
+Property tax is calculated based on the **property area, location, usage type, construction type, and age** of the building.
 
 ---
 
-### Mumbai — BMC Property Tax
+## How to Pay Property Tax Online (City-Wise)
 
-**Portal:** [https://portal.mcgm.gov.in](https://portal.mcgm.gov.in)
+### 1. Mumbai — BMC (MCGM)
 
-The Brihanmumbai Municipal Corporation (BMC) manages property tax for Mumbai city and suburbs.
+**Portal:** [ptax.mcgm.gov.in](https://ptax.mcgm.gov.in/)
 
-**Steps to pay:**
-1. Visit [portal.mcgm.gov.in](https://portal.mcgm.gov.in)
-2. Navigate to **"Property Tax"** section
-3. Enter your **Account Number** or **CTS Number** (City Survey Number)
-4. View the property details and outstanding dues
-5. Click **"Pay Tax"**
-6. Select payment mode — net banking, card, or UPI
-7. Make the payment and save the receipt
+**Steps:**
+1. Visit the BMC property tax portal
+2. Enter your **Property Account Number** (mentioned on previous tax bill)
+3. View the **outstanding tax amount**
+4. Click **"Pay Online"**
+5. Pay via **net banking, debit card, credit card, or UPI**
+6. Download the **payment receipt**
 
-**Calculation:** Mumbai uses the **Capital Value System** since 2010. Tax is based on the market value of the property (ready reckoner rate) multiplied by the applicable tax rate.
+**Rebate:** BMC offers an early payment rebate — typically **2-5% discount** if paid before the due date (usually before June 30).
 
-**Early payment rebate:** BMC provides a **5% rebate** for early payment within the first quarter of the financial year.
+> **To find your Property Account Number:** Check your previous tax receipt or visit [portal.mcgm.gov.in](https://portal.mcgm.gov.in) and search by your name or address.
+
+### 2. Delhi — MCD (Municipal Corporation of Delhi)
+
+**Portal:** [mcdonline.nic.in](https://mcdonline.nic.in/)
+
+**Steps:**
+1. Visit the MCD online portal
+2. Select your zone (the three erstwhile corporations are now unified)
+3. Enter your **Property ID** or **UPIC (Unique Property Identification Code)**
+4. View tax calculation and outstanding dues
+5. Pay online via **net banking, card, or UPI**
+6. Download receipt
+
+**Rebate:** MCD offers **10-15% rebate** on timely payment (before June 30). Women owners may get additional rebate.
+
+### 3. Bengaluru — BBMP
+
+**Portal:** [bbmptax.karnataka.gov.in](https://bbmptax.karnataka.gov.in/)
+
+**Steps:**
+1. Visit the BBMP property tax portal
+2. Enter your **SAS Application Number** or **Property ID (PID)**
+3. View the property details and tax amount
+4. Click **"Pay Tax"**
+5. Pay via **net banking, card, or UPI**
+6. Download the receipt and khata extract
+
+**Rebate:** BBMP offers **5% rebate** for early payment (typically before April 30).
+
+### 4. Chennai — Greater Chennai Corporation
+
+**Portal:** [chennaicorporation.gov.in](https://chennaicorporation.gov.in/online-civic-services/online-payment.html)
+
+**Steps:**
+1. Visit the Chennai Corporation portal
+2. Enter your **Zone Number** and **Bill Number** or **Door Number**
+3. View property tax dues
+4. Pay online via available payment methods
+5. Download receipt
+
+**Rebate:** Chennai Corporation offers **5% rebate** for full-year advance payment.
+
+### 5. Hyderabad — GHMC
+
+**Portal:** [ghmc.gov.in](https://ghmc.gov.in/)
+
+**Steps:**
+1. Visit the GHMC portal
+2. Click on **"Property Tax"**
+3. Enter your **PTIN (Property Tax Identification Number)**
+4. View outstanding dues and calculate current year tax
+5. Pay online and download receipt
+
+**Rebate:** GHMC offers **5% earlybird discount** for payment before April 30.
+
+### 6. Pune — PMC
+
+**Portal:** [pmc.gov.in](https://pmc.gov.in/)
+
+1. Visit PMC portal → **Property Tax**
+2. Enter your **property number**
+3. View dues and pay online
+4. Download receipt
+
+### 7. Kolkata — KMC
+
+**Portal:** [kmc.gov.in](https://www.kmcgov.in/)
+
+1. Visit KMC portal → **e-Services** → **Property Tax**
+2. Enter **Assessee Number**
+3. View tax and pay online
+4. Download receipt
 
 ---
 
-### Bangalore — BBMP Property Tax
+## How Property Tax is Calculated
 
-**Portal:** [https://bbmptax.karnataka.gov.in](https://bbmptax.karnataka.gov.in)
+Property tax is generally calculated using one of two methods:
 
-The Bruhat Bengaluru Mahanagara Palike (BBMP) manages property tax for Bangalore city.
+### Unit Area Value (UAV) System
+Used by: Delhi, Bengaluru, Hyderabad, Kolkata
 
-**Steps to pay:**
-1. Visit [bbmptax.karnataka.gov.in](https://bbmptax.karnataka.gov.in)
-2. Click on **"Property Tax Payment"**
-3. Choose your search option — by **SAS Application Number**, **PID**, or **Khata Number**
-4. Enter the details and click **"Search"**
-5. Review the property details and tax demand
-6. Click **"Pay"** and select payment method
-7. Complete payment via net banking, credit/debit card, or UPI
-8. Download the payment receipt
+**Formula:** Tax = Unit Area Value × Built-up Area × Age Factor × Usage Factor × Structure Factor × Occupancy Factor
 
-**Calculation:** BBMP uses a **self-assessment** system based on zone, built-up area, type of building, and usage. Property owners must self-assess their tax using the online calculator.
+### Capital Value System
+Used by: Mumbai
 
-**Early payment rebate:** BBMP offers a **5% rebate** for payment before 30th April each year.
+**Formula:** Tax = Capital Value of Property × Tax Rate
 
----
+### Annual Rateable Value (ARV) System
+Used by: Chennai, Pune
 
-### Chennai — Corporation Property Tax
+**Formula:** Tax = Annual Rateable Value × Tax Rate
 
-**Portal:** [https://chennaicorporation.gov.in](https://chennaicorporation.gov.in)
-
-The Greater Chennai Corporation (GCC) manages property tax for Chennai city.
-
-**Steps to pay:**
-1. Visit [chennaicorporation.gov.in](https://chennaicorporation.gov.in)
-2. Go to **"Online Services"** → **"Property Tax"**
-3. Enter your **Zone Number** and **Bill Number** or search by door number/street
-4. Check the tax details and outstanding amount
-5. Click **"Pay Online"**
-6. Choose payment method and complete the transaction
-7. Download the receipt
-
-**Calculation:** Chennai uses the **Annual Rental Value (ARV)** system. Tax is calculated based on the reasonable expected rent of the property.
-
-**Early payment rebate:** GCC offers a **5% rebate** for advance payment of half-yearly tax.
+> **Note:** Most municipal portals have an **online tax calculator**. Enter your property details to get the exact tax amount.
 
 ---
 
-### Hyderabad — GHMC Property Tax
+## Property Tax Rates (Indicative)
 
-**Portal:** [https://ghmc.gov.in](https://ghmc.gov.in)
-
-The Greater Hyderabad Municipal Corporation (GHMC) manages property tax for the Hyderabad metropolitan area.
-
-**Steps to pay:**
-1. Visit [ghmc.gov.in](https://ghmc.gov.in)
-2. Click on **"Property Tax"** from the main menu
-3. Enter your **PTIN (Property Tax Identification Number)** or search by owner name/door number
-4. Review the property details and tax calculation
-5. Click **"Pay Tax"**
-6. Select payment mode — net banking, card, or UPI
-7. Complete payment and download the receipt
-
-**Calculation:** GHMC uses the **Unit Area Value** method. Tax depends on slab rate, plinth area, age of building, usage type, and location.
-
-**Early payment rebate:** GHMC provides a **5% early bird discount** for payment before 30th April.
+| City | Residential Rate | Commercial Rate |
+|------|-----------------|-----------------|
+| Mumbai (BMC) | 0.316-0.726% of capital value | Higher rates apply |
+| Delhi (MCD) | 12-15% of annual value | 20% of annual value |
+| Bengaluru (BBMP) | 20% of annual value + cess | 25% of annual value + cess |
+| Chennai (GCC) | Varies by zone and category | Higher than residential |
+| Hyderabad (GHMC) | Varies by circle rate | Varies by circle rate |
 
 ---
 
-## How to Check Property Tax Status and Dues
+## Early Payment Rebates
 
-You can check your pending property tax dues online:
+| City | Rebate | Deadline |
+|------|--------|----------|
+| Mumbai (BMC) | 2-5% | Before June 30 |
+| Delhi (MCD) | 10-15% | Before June 30 |
+| Bengaluru (BBMP) | 5% | Before April 30 |
+| Chennai (GCC) | 5% | Full year advance payment |
+| Hyderabad (GHMC) | 5% | Before April 30 |
 
-1. Visit your city's municipal corporation website (links above)
-2. Go to the **Property Tax** section
-3. Enter your **Property ID / Assessment Number**
-4. The portal will show your **tax demand, payments made, and any outstanding dues**
-
-Most portals also show the year-wise breakup of tax paid and pending amounts.
+---
 
 ## How to Download Property Tax Receipt
 
-After making an online payment:
+1. Visit your city's municipal portal
+2. Log in or enter your property ID/account number
+3. Navigate to **"Payment History"** or **"Receipt Download"**
+4. Select the year and payment
+5. Download/print the receipt in PDF format
 
-1. The receipt is usually displayed immediately after successful payment — **download and save it**
-2. For past receipts, visit the portal and go to **"Payment History"** or **"Receipt Download"**
-3. Enter your Property ID and select the financial year
-4. Download the receipt in PDF format
+> **Keep tax receipts safe** — they are required for property registration, home loan applications, and income tax filings (if claiming HRA exemption).
 
-> **Tip:** Always keep property tax receipts safe. They are required during property sale, loan applications, and as address proof.
+---
 
-## Property Tax Assessment and Self-Assessment
+## Penalty for Late Payment
 
-### What is Self-Assessment?
-Many cities (like Bangalore BBMP) follow a **self-assessment system** where the property owner calculates their own tax based on the parameters provided by the municipal corporation. You fill in details like built-up area, type of construction, usage, and the system computes the tax.
+Most municipal corporations charge **interest on late payment** — typically **1-2% per month** on the outstanding amount. Some cities may also impose a penalty of up to **20% of the tax amount** for non-payment.
 
-### New Property Assessment
-If you have a newly constructed property:
-1. Apply for a **new assessment** on your municipal corporation's portal
-2. Submit property details — area, construction type, usage, occupancy date
-3. The municipality will assign a **Property ID / Assessment Number**
-4. You can then start paying tax online
+---
 
-### Revision of Assessment
-If there are changes to your property (extension, change of usage, etc.), you must apply for **revision of assessment** to update the tax calculation.
+## Important Tips
 
-## Penalties for Late Payment
+1. **Pay before the deadline** to claim early payment rebates of 5-15%
+2. **Keep your Property ID/Account Number handy** — you'll need it for every payment
+3. **Download and save receipts** — they serve as proof of property ownership and payment
+4. **Check for assessment errors** — if your tax seems too high, file a revision petition with the municipal corporation
+5. **Property tax is deductible** — self-employed individuals and landlords can claim property tax as a deduction under the Income Tax Act
 
-If you miss the property tax deadline:
+---
 
-- **Interest charges:** Most municipalities charge **1-2% per month** as penalty on the outstanding amount
-- **Delhi MCD:** 1% per month penalty after the due date
-- **Mumbai BMC:** 2% per month interest on delayed payment
-- **BBMP Bangalore:** 2% per month penalty
-- **Chennai GCC:** Penalty as per Tamil Nadu Municipal laws
-- **Hyderabad GHMC:** 2% per month on unpaid dues
+## Frequently Asked Questions (FAQs)
 
-> Prolonged non-payment can lead to **property attachment** and legal action by the municipality.
+### Q1. Is property tax the same as house tax?
+Yes, **property tax and house tax are the same thing**. Different municipalities use different terms, but both refer to the annual tax levied on property by the local body.
 
-## Property Tax Exemptions
+### Q2. What happens if I don't pay property tax?
+The municipal corporation can impose **late payment interest** (1-2% per month), **penalties**, and in extreme cases, may **attach and auction the property** for recovery of dues.
 
-The following properties are generally exempt from property tax:
+### Q3. How do I find my Property ID or Account Number?
+Check your **previous property tax receipt**, visit the municipal office, or search online on the municipal portal using your **name, address, or door number**.
 
-- **Government buildings** used for public purposes
-- **Religious places** — temples, mosques, churches, gurudwaras
-- **Charitable institutions** registered under relevant acts
-- **Agricultural land** (in most municipalities)
-- **Properties owned by war widows or disabled ex-servicemen** (in some cities)
-- **Properties of senior citizens** may get partial exemption (varies by city)
+### Q4. Can I pay property tax in installments?
+Some cities like **Mumbai and Delhi** allow payment in **two half-yearly installments**. Check your municipal portal for installment options.
 
-> Exemptions vary by state and municipality. Check with your local municipal corporation for applicable exemptions.
+### Q5. Is property tax applicable on rented property?
+Yes, but the **owner is liable** to pay property tax, not the tenant. However, the owner can factor in property tax while setting the rent.
 
-## Related Guides
+### Q6. Do I need to pay property tax on vacant land?
+Yes, most municipal corporations levy property tax on **vacant land** as well, though at a lower rate than built-up property.
 
-- [How to Pay Electricity Bill Online — All State Discoms](/guide/electricity-bill-payment-online)
-- [Electricity Bill Payment Failed — How to Fix](/guide/electricity-bill-payment-failed-fix)
-- [How to Pay Water Bill Online — Municipal & Jal Board](/guide/water-bill-payment-online)
-- [Property Tax Online Payment Failed — How to Fix](/guide/property-tax-payment-failed-fix)
-- [Bharat Bill Payment System (BBPS) — Complete Guide to Pay All Bills](/guide/bharat-bill-payment-system)
+### Q7. Can I claim property tax as income tax deduction?
+Yes, **property tax paid** is allowed as a deduction from the **Gross Annual Value** of the property when calculating income from house property under the Income Tax Act.
 
-## Frequently Asked Questions
+---
 
-### What happens if I don't pay property tax?
-The municipal corporation can charge penalty interest, and in extreme cases, attach and auction your property to recover dues.
+*Disclaimer: CitizenNest is an independent platform and is not affiliated with any government or municipal body. Tax rates and rebates are indicative and may change. Always verify on your city's official municipal portal.*
 
-### Can I pay property tax for previous years online?
-Yes, most portals allow you to pay arrears for past years along with applicable penalty/interest.
-
-### Is property tax different from stamp duty?
-Yes. Stamp duty is a one-time charge paid during [property registration](/guide/property-registration-online). Property tax is an annual recurring tax.
-
-### How do I find my Property ID?
-Check your previous tax receipt, sale deed, or visit your municipal office. You can also search on the portal by owner name or address.
-
-### Can tenants pay property tax?
-The liability is on the property owner, but tenants can pay on behalf of the owner if needed.
+*Also see: [Property Registration Guide](/guide/property-registration-online) | [Land Record Check Guide](/guide/land-record-check-online) | [Khata Transfer Guide](/guide/khata-transfer-apply)*
