@@ -1,249 +1,188 @@
 ---
-title: "Health Insurance Claim Rejected? Reasons & How to Fix"
+title: "Health Insurance Claim Rejected? Common Reasons & How to Fix It"
 description: >-
-  Health insurance claim rejected? Know the top reasons like pre-existing disease
-  and non-disclosure, and how to appeal via insurer, IGMS, and ombudsman.
+  Health insurance claim rejected? Learn common rejection reasons, how to appeal
+  with your insurer, file IRDAI complaint, required documents, and timelines.
 category: Tax & Finance
 keywords:
   - health insurance claim rejected
-  - health insurance claim denied
   - insurance claim rejection reasons
-  - pre existing disease claim rejected
-  - health insurance appeal
-  - igms complaint insurance
+  - how to appeal health insurance claim
+  - IRDAI complaint health insurance
+  - health insurance claim denied
+  - insurance claim rejection appeal
+  - cashless claim rejected
+  - health insurance grievance
   - insurance ombudsman complaint
-  - health insurance non disclosure
-  - health insurance waiting period
-  - insurance claim fix
+  - claim rejection fix India
 readingTime: 10 min
 lastUpdated: "2026-03-06"
 officialLinks:
   - "https://igms.irda.gov.in/"
-  - "https://irdai.gov.in/"
-  - "https://cioins.co.in/"
+  - "https://irdai.gov.in/insurance-ombudsman"
+  - "https://www.cioins.co.in/"
 ---
 
-# Health Insurance Claim Rejected? Reasons & How to Fix
+# Health Insurance Claim Rejected? Common Reasons & How to Fix It
 
-Having your health insurance claim rejected can be stressful, especially when you are dealing with medical bills. This guide explains the most common reasons for health insurance claim rejection in India and gives you a clear step-by-step process to appeal and get your claim approved.
+Getting your health insurance claim rejected can be frustrating, especially when you're already dealing with a medical emergency. However, a rejected claim doesn't mean the end — you have the right to appeal, escalate to IRDAI, and even approach the Insurance Ombudsman. This guide explains the most common rejection reasons and the exact steps to fix them.
+
+## What is a Health Insurance Claim Rejection?
+
+A claim rejection occurs when your health insurer refuses to pay for a hospitalisation or medical treatment that you believed was covered under your policy. The insurer must provide a written reason for the rejection. Under IRDAI regulations, you have the right to appeal any rejected claim.
+
+**Important:** There is a difference between claim rejection (denied entirely) and claim repudiation (partially denied or reduced). Both can be appealed.
+
+---
 
 ## Common Reasons for Health Insurance Claim Rejection
 
 ### 1. Pre-Existing Disease (PED) Not Disclosed
-
-**What it means:** You had a medical condition before buying the policy and did not declare it in the proposal form.
-
-**IRDAI Rule:** All health insurance policies in India must cover pre-existing diseases after a **waiting period of up to 4 years** (as per IRDAI guidelines). However, if you did not disclose the PED at the time of buying the policy, the insurer can reject the claim.
-
-**How to fix:**
-- If you disclosed the PED and the waiting period has passed, **challenge the rejection** — the insurer must cover it
-- If you genuinely forgot to disclose (not intentional), appeal with supporting evidence
-- If the insurer wrongly classified a condition as pre-existing, get a **medical certificate** from your doctor stating the condition developed after the policy was issued
+If you did not disclose a pre-existing condition at the time of buying the policy, the insurer can reject claims related to that condition. IRDAI mandates a waiting period of up to 48 months for PEDs.
 
 ### 2. Waiting Period Not Over
+Most policies have waiting periods:
+- **Initial waiting period:** 30 days (no claims except accidents)
+- **Specific disease waiting period:** 2-4 years for conditions like hernia, kidney stones, etc.
+- **PED waiting period:** Up to 48 months
 
-**What it means:** Most health insurance policies have waiting periods:
-
-| Waiting Period Type | Duration |
-|-------------------|----------|
-| Initial waiting period | 30 days (no claims except for accidents) |
-| Specific disease waiting period | 2-4 years for conditions like hernia, cataract, joint replacement |
-| Pre-existing disease waiting period | Up to 4 years |
-
-**How to fix:**
-- Check your policy document for the exact waiting periods
-- If the waiting period has passed and the claim was still rejected, **appeal with policy dates and treatment dates**
-- For accidents, there is no waiting period — if your accident claim was rejected citing waiting period, challenge it
-
-### 3. Non-Disclosure or Wrong Information
-
-**What it means:** You provided incorrect information in the proposal form — age, occupation, smoking/drinking habits, existing policies, or medical history.
-
-**IRDAI Rule:** Under Section 45 of the Insurance Act, the insurer cannot reject a claim after **3 years** from policy issuance on grounds of non-disclosure, unless it was proven fraudulent.
-
-**How to fix:**
-- If your policy is more than 3 years old, cite **Section 45** in your appeal
-- If the non-disclosure was unintentional, provide a **written explanation** with supporting documents
-- Get a letter from your doctor explaining the medical history
-
-### 4. Treatment Not Covered Under Policy
-
-**What it means:** The specific treatment, procedure, or condition is listed under **exclusions** in your policy.
-
-**Common exclusions:**
+### 3. Excluded Treatment or Procedure
+Certain treatments are excluded from standard health insurance policies:
 - Cosmetic surgery
 - Dental treatment (unless due to accident)
+- Self-inflicted injuries
 - Infertility treatment
 - Experimental treatments
-- Self-inflicted injuries
-- War/nuclear-related injuries
 
-**How to fix:**
-- Read your policy's exclusion list carefully
-- If the treatment is medically necessary and the insurer wrongly classified it as excluded, **appeal with your doctor's recommendation letter**
-- Check if a rider or add-on covers the treatment
+### 4. Policy Lapsed Due to Non-Payment
+If your premium was not paid on time and the grace period expired, your policy lapses and claims will be rejected.
 
-### 5. Delay in Claim Filing
+### 5. Wrong or Incomplete Documentation
+Missing discharge summary, bills, prescriptions, or diagnostic reports can lead to rejection.
 
-**What it means:** You filed the claim after the deadline specified in the policy.
+### 6. Treatment at Non-Network Hospital (for Cashless Claims)
+Cashless claims are only valid at network hospitals. If you visited a non-network hospital, you must file a reimbursement claim instead.
 
-**Typical deadlines:**
-- **Cashless claim:** Inform the insurer 48-72 hours before planned hospitalization; immediately for emergencies
-- **Reimbursement claim:** Submit within 15-30 days of discharge (varies by insurer)
+### 7. Sub-Limits Exceeded
+Some policies have sub-limits on room rent, specific treatments, or doctor fees. If your expenses exceed these limits, the excess amount is rejected.
 
-**How to fix:**
-- If the delay was due to genuine reasons (patient was critical, in ICU, etc.), explain with **hospital records**
-- IRDAI guidelines say insurers should not reject claims solely for minor delays if all other conditions are met
-
-### 6. Hospital Not in Network
-
-**What it means:** You got treated at a hospital not in the insurer's network list.
-
-**How to fix:**
-- You can still file a **reimbursement claim** for non-network hospitals
-- If the insurer rejected the reimbursement claim, check the reason — it may be about rates, not the hospital itself
-- Emergency treatments at any hospital should be covered regardless of network status
-
-### 7. Insufficient or Incorrect Documents
-
-**What it means:** The claim was rejected because of missing bills, prescriptions, discharge summary, or diagnostic reports.
-
-**How to fix:**
-- Get the complete list of required documents from the insurer's TPA (Third Party Administrator)
-- Resubmit with all missing documents
-- Typical documents needed: discharge summary, hospital bills (itemized), prescriptions, diagnostic reports, policy copy, claim form
+### 8. Claim Filed After Deadline
+Most insurers require claim intimation within 24-48 hours of hospitalisation and final claim submission within 15-30 days of discharge.
 
 ---
 
 ## How to Appeal a Rejected Health Insurance Claim
 
-### Step 1: Understand the Rejection Reason
+### Step 1: Get the Rejection Letter
+Request a written rejection letter from your insurer with specific reasons for denial. This is your right under IRDAI regulations.
 
-1. Read the **rejection letter** carefully — it must state the specific reason
-2. Cross-check the reason against your **policy document**
-3. Gather evidence that contradicts the rejection reason
+### Step 2: Review Your Policy Document
+Check your policy wording carefully. Compare the rejection reason against the actual terms, exclusions, and waiting periods in your policy.
 
-### Step 2: Appeal to the Insurance Company
+### Step 3: Gather Supporting Documents
+Collect all relevant documents:
+- Policy document and certificate
+- Claim rejection letter
+- Hospital discharge summary
+- All medical bills and receipts
+- Doctor's prescriptions and diagnosis reports
+- Diagnostic test reports (blood tests, scans, etc.)
+- Previous medical records (if PED-related)
+- Correspondence with insurer
 
-1. Write a **formal appeal letter** to the insurer's grievance cell
-2. Include:
-   - Your policy number and claim number
-   - The rejection reason cited by the insurer
-   - Your counter-argument with supporting documents
-   - Medical certificates, doctor's letters, hospital records
-3. Send via **registered post** and keep the receipt
-4. Also email the complaint to the insurer's grievance email
-5. The insurer must respond within **15 days**
+### Step 4: Write a Formal Appeal to the Insurer
+Send a written appeal (email + registered post) to the insurer's grievance cell:
+- Quote your policy number and claim number
+- State the rejection reason and why you disagree
+- Attach supporting documents
+- Request re-evaluation of your claim
 
-### Step 3: Complain on IRDAI IGMS Portal
+**Timeline:** The insurer must respond within **15 days** of receiving your grievance.
 
-If the insurer does not resolve your complaint within 30 days:
+### Step 5: Escalate to IRDAI (If Insurer Doesn't Resolve)
+If the insurer does not resolve your complaint within 15 days, escalate to IRDAI:
 
-1. Visit [igms.irda.gov.in](https://igms.irda.gov.in/) (Integrated Grievance Management System)
-2. Click **"Register Complaint"**
-3. Select your insurance company
-4. Enter your policy number, claim number, and complaint details
-5. Upload supporting documents (rejection letter, medical records, policy copy)
-6. You will receive a **complaint reference number**
-7. IRDAI will forward your complaint to the insurer and track resolution
+**Online:** File a complaint on the IRDAI Integrated Grievance Management System (IGMS) at [igms.irda.gov.in](https://igms.irda.gov.in/)
 
-### Step 4: Approach the Insurance Ombudsman
+**Toll-free:** Call IRDAI at **155255** or **1800-4254-732**
 
-If IGMS does not resolve the issue within 30 days, or if you are not satisfied:
+**Email:** complaints@irdai.gov.in
 
-1. Find your regional Insurance Ombudsman at [cioins.co.in](https://cioins.co.in/)
-2. File a written complaint with:
-   - Copy of the rejection letter
-   - Your appeal letter and the insurer's response
-   - IGMS complaint details
-   - All medical and policy documents
-3. The Ombudsman will **hear both sides** and pass an order
-4. Orders are binding on the insurer (for claims up to ₹50 lakh)
-5. Resolution typically takes **1-3 months**
+### Step 6: Approach the Insurance Ombudsman
+If IRDAI intervention doesn't help and the claim amount is up to ₹50 lakh, you can approach the [Insurance Ombudsman](https://www.cioins.co.in/):
+- File a complaint within 1 year of the insurer's final rejection
+- The Ombudsman must pass an order within 3 months
+- The decision is binding on the insurer (not on you — you can still go to court)
 
-### Step 5: Consumer Court (Last Resort)
+**Online complaint:** [cioins.co.in](https://www.cioins.co.in/)
 
-If the Ombudsman's decision is not satisfactory:
-1. File a complaint at the **Consumer Disputes Redressal Forum**
-2. District Forum for claims up to ₹1 crore
-3. State Commission for claims ₹1-10 crore
-4. National Commission for claims above ₹10 crore
-5. You can file without a lawyer, and the process is relatively simple
+### Step 7: Consumer Court (Last Resort)
+If all else fails, file a complaint with the Consumer Disputes Redressal Commission:
+- **District Forum:** Claims up to ₹1 crore
+- **State Commission:** Claims ₹1 crore to ₹10 crore
+- **National Commission:** Claims above ₹10 crore
 
 ---
 
-## Documents Needed for Appeal
+## Documents Required for Claim Appeal
 
-- Policy document (copy)
-- Claim form (copy of what was submitted)
-- Rejection letter from the insurer
-- All hospital bills, discharge summary, and prescriptions
-- Diagnostic reports (lab tests, scans)
-- Doctor's certificate explaining the medical condition and treatment necessity
-- Your appeal letter with specific grounds for reconsideration
-- Any correspondence with the insurer
+| Document | Purpose |
+|----------|---------|
+| Policy document | Verify coverage terms |
+| Claim rejection letter | Basis for appeal |
+| Hospital discharge summary | Treatment details |
+| All medical bills & receipts | Expense proof |
+| Doctor's prescription | Treatment necessity |
+| Diagnostic reports | Medical evidence |
+| Pre-hospitalisation records | If applicable |
+| ID proof (Aadhaar/PAN) | Identity verification |
 
 ---
 
-## Know Your Rights as a Policyholder
+## Timeline for Claim Resolution
 
-1. **Right to know the rejection reason** — The insurer must provide a clear, written reason
-2. **Section 45 protection** — After 3 years, claims cannot be rejected for non-disclosure (unless fraud)
-3. **IRDAI timelines** — Claims must be settled within 30 days of receiving all documents
-4. **Interest on delayed claims** — If the insurer delays beyond 30 days, they must pay interest (2% above bank rate)
-5. **Free-look period** — You have 15-30 days after buying to cancel if the terms are not acceptable
-6. **Portability** — You can switch insurers without losing waiting period credits
+| Stage | Timeline |
+|-------|----------|
+| Insurer grievance response | 15 days |
+| IRDAI complaint resolution | 15-30 days |
+| Insurance Ombudsman order | Up to 3 months |
+| Consumer Court | 3-12 months |
 
 ---
 
 ## Important Tips
 
-1. **Always disclose your complete medical history** when buying or renewing health insurance — non-disclosure is the number one reason for rejection
-2. **Read your policy exclusions** before filing a claim to know what is covered
-3. **File claims on time** — Inform the insurer within 24 hours for cashless, submit reimbursement claims within the deadline
-4. **Keep all medical documents** — Bills, prescriptions, discharge summaries, and reports
-5. **Never accept rejection silently** — If you believe the rejection is wrong, appeal. Many rejections are overturned on appeal
+1. **Always disclose pre-existing conditions** when buying or renewing your policy — non-disclosure is the #1 reason for claim rejection
+2. **Intimate the insurer within 24 hours** of hospitalisation, even for emergency admissions
+3. **Keep all original bills and reports** — submit photocopies first if needed, but keep originals safe
+4. **File reimbursement claims within the deadline** mentioned in your policy (usually 15-30 days from discharge)
+5. **Read your policy document thoroughly** — understand exclusions, sub-limits, and waiting periods before you need to make a claim
 
 ---
 
 ## Frequently Asked Questions
 
-### Q1: Can I appeal a health insurance claim rejection?
+### Q1. Can I appeal a health insurance claim rejection?
+Yes. You have the right to appeal any rejected claim. First appeal to the insurer's grievance cell, then escalate to IRDAI, Insurance Ombudsman, or Consumer Court if needed.
 
-Yes, you can appeal at multiple levels: first to the insurer's grievance cell, then to IRDAI via the IGMS portal, then to the Insurance Ombudsman, and finally to the Consumer Court.
+### Q2. How long does the insurer have to settle or reject a claim?
+Under IRDAI guidelines, the insurer must settle or reject a cashless claim within **1 hour** for pre-authorisation and **3 hours** for final settlement. For reimbursement claims, the insurer must settle within **30 days** of receiving all documents.
 
-### Q2: How long do I have to appeal a rejected claim?
+### Q3. What if my claim was rejected due to a pre-existing disease I didn't know about?
+If you genuinely did not know about the condition, provide supporting medical records showing no prior diagnosis or treatment. The Ombudsman may rule in your favour if you can prove good faith.
 
-You can complain to the Ombudsman within **1 year** of the rejection. For Consumer Court, the limitation period is **2 years**. Appeal to the insurer should be done within 30 days of rejection.
+### Q4. Is there a fee to file a complaint with IRDAI or the Ombudsman?
+No. Filing complaints with IRDAI (via IGMS portal) and the Insurance Ombudsman is completely free.
 
-### Q3: Can the insurer reject a claim for pre-existing disease after 4 years?
+### Q5. Can the insurer reject a claim for emergency hospitalisation at a non-network hospital?
+No. For genuine emergencies, the insurer must process reimbursement claims even if the hospital is not in their network. However, cashless facility won't be available.
 
-No. As per IRDAI guidelines, after the 4-year waiting period, the insurer must cover pre-existing diseases. If they reject it, appeal immediately.
+### Q6. What happens if the insurer doesn't respond to my grievance within 15 days?
+You can directly escalate to IRDAI via the IGMS portal or approach the Insurance Ombudsman. The insurer's non-response strengthens your case.
 
-### Q4: What if the hospital says the insurer denied cashless but will accept reimbursement?
-
-Pay the hospital bills and file a **reimbursement claim**. This often happens when the insurer needs more time to verify documents. Keep all original bills and receipts.
-
-### Q5: Is there a cost to complain to the Ombudsman?
-
-No. Filing a complaint with the Insurance Ombudsman is **completely free**. You do not need a lawyer either.
-
-### Q6: Can the insurer reject my claim because I went to a non-network hospital in an emergency?
-
-No. IRDAI guidelines require insurers to cover emergency treatments at any hospital. If rejected, appeal citing the emergency nature of the treatment.
-
-### Q7: What is a TPA and do I complain to them or the insurer?
-
-TPA (Third Party Administrator) processes claims on behalf of the insurer. Always complain to the **insurance company directly**, not the TPA. The insurer is ultimately responsible for claim decisions.
+### Q7. Can I claim the rejected amount in the next policy year?
+No. Rejected claims cannot be rolled over. However, if the rejection was wrong and you win an appeal, the insurer must pay the original claim amount with interest.
 
 ---
 
-## Related Guides
-
-- [LIC Policy Status Check Online](/guide/lic-policy-status-check)
-- [LIC Maturity Amount Not Received? Track & Fix](/guide/lic-maturity-amount-not-received-fix)
-- [PAN Card Apply Online](/guide/pan-card-apply-online)
-
----
-
-*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with any insurance company, IRDAI, or government body. Information is compiled from official IRDAI guidelines and the Insurance Act. Always refer to your policy document and [irdai.gov.in](https://irdai.gov.in/) for authoritative information.*
+*Disclaimer: CitizenNest is an independent platform and is not affiliated with IRDAI or any insurance company. Information is based on IRDAI regulations and is for general guidance. Always refer to your specific policy document and consult your insurer for exact terms.*

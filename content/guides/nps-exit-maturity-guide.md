@@ -1,178 +1,200 @@
 ---
-title: "NPS Exit at 60: Withdrawal Rules, Annuity & Tax Guide"
-description: >-
-  Complete guide to NPS exit at 60 — 60% lump sum withdrawal, 40% annuity rules,
-  ASP selection, premature exit, death benefits, and tax treatment explained.
+title: "NPS Exit at 60: Withdrawal Rules, Tax Benefits & Annuity Options"
+description: "Complete guide to NPS exit at 60 — 60% lump sum tax-free, 40% annuity rules, annuity providers, online exit process, and superannuation options."
 category: Tax & Finance
 keywords:
   - nps exit at 60
   - nps maturity withdrawal
   - nps annuity options
   - nps lump sum withdrawal
+  - nps superannuation
   - nps retirement withdrawal
-  - nps 60 percent withdrawal
-  - nps annuity service provider
-  - nps premature exit
-  - nps death benefit
-  - nps pension after retirement
+  - nps 60 percent tax free
+  - nps annuity providers
+  - nps pension after 60
+  - nps exit process online
 readingTime: 9 min
-lastUpdated: "2026-03-06"
+lastUpdated: 2026-03-06
 officialLinks:
+  - 'https://enps.nsdl.com/'
   - 'https://www.npscra.nsdl.co.in/'
   - 'https://www.pfrda.org.in/'
-  - 'https://enps.nsdl.com/eNPS/NationalPensionSystem.html'
+  - 'https://cra-nsdl.com/'
 ---
 
-# NPS Exit at 60: Withdrawal Rules, Annuity & Tax Guide
+# NPS Exit at 60: Withdrawal Rules, Tax Benefits & Annuity Options
 
-When you turn **60 years old**, your NPS Tier 1 account matures and you can exit the scheme. You can withdraw up to **60% as a tax-free lump sum** and must use at least **40% to purchase an annuity** (monthly pension). This guide covers the complete exit process, annuity options, premature exit rules, death benefits, and taxation.
+When you turn 60 (or superannuate), you can exit the National Pension System and access your retirement corpus. The rules allow you to withdraw up to 60% as a tax-free lump sum and use the remaining 40% (minimum) to purchase an annuity that provides regular monthly pension. This guide covers the complete exit process, annuity options, and tax treatment.
 
-## NPS Exit at 60: Key Rules
+## NPS Exit Rules at Age 60
 
-| Rule | Detail |
+At maturity (age 60), the NPS exit rules are:
+
+| Component | Rule |
 |---|---|
-| Normal exit age | 60 years (can defer up to 75) |
-| Lump sum withdrawal | Up to **60%** of total corpus |
-| Mandatory annuity | Minimum **40%** of corpus |
-| Tax on lump sum | **Tax-free** (entire 60%) |
-| Tax on annuity income | Taxable as per income slab |
-| Total corpus threshold | If corpus ≤ ₹5 lakh, 100% lump sum allowed |
+| **Lump sum withdrawal** | Up to 60% of total corpus — **completely tax-free** |
+| **Annuity purchase** | Minimum 40% of total corpus — **mandatory** |
+| **Remaining amount** | You can use any portion between 0-60% as lump sum and 40-100% for annuity |
+| **Tax on lump sum** | Fully exempt under Section 10(12A) |
+| **Tax on annuity income** | Annuity pension is taxable as per your income tax slab |
+| **Deferment option** | You can defer withdrawal up to age 75 |
 
-## Step-by-Step: NPS Exit Process at Age 60
+**Example:** If your NPS corpus at 60 is ₹50,00,000:
+- Maximum lump sum: ₹30,00,000 (60%) — tax-free
+- Minimum annuity: ₹20,00,000 (40%) — used to buy monthly pension
+- You can also choose 50-50, 30-70, or even 0-100 (all for annuity)
 
-### Step 1: Submit Exit Request
-- **Online:** Log in to [CRA portal](https://www.npscra.nsdl.co.in/) → Transact Online → Exit/Withdrawal
-- **Offline:** Submit exit form to your Nodal Office (government employees) or POP (private/self-employed)
+---
 
-### Step 2: Choose Lump Sum and Annuity Split
-- Decide the split: minimum 40% annuity, maximum 60% lump sum
-- You can allocate **more than 40% to annuity** if you want a higher monthly pension
-- If total corpus is ₹5 lakh or less, you can withdraw **100% as lump sum** (no annuity required)
+## What is an Annuity?
 
-### Step 3: Select Annuity Service Provider (ASP)
-Choose one of the PFRDA-empanelled ASPs:
-- **LIC of India**
-- **SBI Life Insurance**
-- **ICICI Prudential Life Insurance**
-- **HDFC Life Insurance**
-- **Star Union Dai-ichi Life Insurance**
-- **Bajaj Allianz Life Insurance**
-- **Tata AIA Life Insurance**
+An annuity is a financial product that converts your lump sum into a regular monthly/quarterly pension for life. When you exit NPS, you must use at least 40% of your corpus to buy an annuity from a PFRDA-empaneled Annuity Service Provider (ASP).
 
-### Step 4: Choose Annuity Type
-Common annuity options offered by ASPs:
+### PFRDA-Empaneled Annuity Providers:
+
+1. **Life Insurance Corporation of India (LIC)**
+2. **SBI Life Insurance**
+3. **ICICI Prudential Life Insurance**
+4. **HDFC Life Insurance**
+5. **Star Union Dai-ichi Life Insurance**
+6. **IndiaFirst Life Insurance**
+7. **Max Life Insurance**
+8. **Tata AIA Life Insurance**
+9. **Aditya Birla Sun Life Insurance**
+10. **Bajaj Allianz Life Insurance**
+
+---
+
+## Types of Annuity Plans
+
+You must choose one of these annuity options:
 
 | Annuity Type | Description |
 |---|---|
-| **Annuity for life** | Pension paid until death; no payment to nominee after death |
-| **Annuity for life with return of purchase price** | Pension until death; corpus returned to nominee on death |
-| **Annuity for life with spouse continuation** | Pension to subscriber, then 50%/100% to spouse after death |
-| **Annuity certain (5/10/15/20 years)** | Guaranteed pension for chosen period; if subscriber dies earlier, nominee gets remaining payments |
-| **Annuity with annual increase** | Pension increases by 3% annually to counter inflation |
+| **Annuity for life** | Pension paid to you until death. Stops after death |
+| **Annuity for life with return of purchase price** | Pension for life; on death, the annuity amount is returned to nominee |
+| **Annuity for life with 100% to spouse** | Pension for life; after death, same pension continues to spouse |
+| **Annuity for life with 50% to spouse** | Pension for life; after death, 50% pension continues to spouse |
+| **Annuity for life increasing at 3% p.a.** | Pension increases by 3% every year to beat inflation |
+| **Annuity certain for 5/10/15/20 years** | Guaranteed pension for chosen period; continues for life if you survive |
 
-> **Tip:** "Annuity for life with return of purchase price" is the most popular choice — you get lifelong pension and your family gets the capital back.
-
-### Step 5: Submit KYC Documents
-- PRAN card
-- [Aadhaar card](/guide/aadhaar-card-apply-online) and PAN card
-- Bank account details (cancelled cheque)
-- Passport-size photographs
-- Annuity proposal form (provided by ASP)
-
-### Step 6: Receive Lump Sum and Annuity
-- **Lump sum** is credited to your bank account within 7–10 working days
-- **Annuity** starts from the ASP — first pension typically within 30–45 days of annuity purchase
-
-## Deferment Option: Delay Exit Until 75
-
-You don't have to exit at exactly 60. PFRDA allows:
-
-- **Defer entire corpus:** Continue NPS until age 75. Keep contributing or stay invested.
-- **Defer only lump sum:** Buy annuity at 60 but withdraw lump sum later (before 75).
-- **Defer only annuity:** Take lump sum at 60 but defer annuity purchase (before 75).
-
-During deferment, your corpus stays invested and continues to grow.
-
-## Premature Exit (Before Age 60)
-
-If you exit NPS before turning 60:
-
-| Rule | Detail |
-|---|---|
-| Minimum membership for exit | 5 years (if less, 100% goes to annuity except corpus ≤ ₹2.5 lakh) |
-| Maximum lump sum | **20%** of corpus (not 60%) |
-| Mandatory annuity | **80%** of corpus |
-| 100% lump sum allowed if | Corpus ≤ ₹2.5 lakh |
-| Tax on lump sum (20%) | **Tax-free** |
-
-> Premature exit is significantly less favorable than normal exit. If possible, stay invested until 60. See our [NPS partial withdrawal guide](/guide/nps-withdrawal-partial-guide) for withdrawing without exiting.
-
-## Death Benefit
-
-If the NPS subscriber dies at any age:
-
-- **100% of the corpus** is paid to the nominee(s) as a **lump sum**
-- **No annuity purchase required**
-- The amount is **tax-free** in the hands of the nominee
-- If no nominee is registered, the legal heir can claim by submitting a succession certificate
-
-### Process for Nominee to Claim
-1. Nominee submits death claim form to CRA (via Nodal Office or POP)
-2. Attach: death certificate, nominee's Aadhaar, PAN, bank details, PRAN of deceased
-3. CRA processes and credits the entire corpus to nominee's bank account
-4. Processing time: 15–30 working days
-
-## Tax Treatment Summary
-
-| Component | Tax Treatment |
-|---|---|
-| Lump sum at 60 (up to 60%) | **Completely tax-free** |
-| Lump sum on premature exit (up to 20%) | **Tax-free** |
-| Annuity (monthly pension) | **Taxable** as salary/other income at your slab rate |
-| Death benefit to nominee (100%) | **Tax-free** |
-| [Partial withdrawal](/guide/nps-withdrawal-partial-guide) during tenure | **Tax-free** (up to 25% of own contribution) |
-
-**Note:** Prior to 2019, only 40% lump sum was tax-free. Budget 2019 made the entire 60% lump sum tax-free.
-
-## How to Choose the Right ASP and Annuity
-
-1. **Compare annuity rates** — Different ASPs offer different pension amounts for the same corpus. Check current rates on PFRDA's website or ASP portals.
-2. **Consider "return of purchase price"** — Slightly lower monthly pension but your family gets the capital back on your death.
-3. **Factor in inflation** — An annuity with 3% annual increase is worth considering for long retirement periods.
-4. **Joint life annuity** — If your spouse doesn't have independent income, choose spouse continuation option.
-5. **LIC is not always the best** — Compare rates from all 7 ASPs before deciding.
-
-## Important Tips
-
-1. **Start exit process 2–3 months before turning 60** — don't wait until the last day; processing takes time
-2. **If corpus is small (≤ ₹5 lakh), take 100% lump sum** — the annuity pension from a small amount will be negligible
-3. **Consider deferment if markets are down** — if your NPS corpus has dropped due to market conditions near retirement, you can defer and wait for recovery
-4. **Keep nominee updated** — log in to CRA and verify/update nominee details before exit
-5. **Annuity income is taxable** — plan your post-retirement tax liability accordingly; consider other tax-free instruments for remaining investments
-
-## FAQs
-
-### Q1. Can I withdraw 100% from NPS at 60?
-Only if your total corpus is ₹5 lakh or less. Otherwise, minimum 40% must be used to buy an annuity.
-
-### Q2. Is NPS lump sum withdrawal taxable?
-No. The entire 60% lump sum at age 60 is completely tax-free under current rules.
-
-### Q3. Can I change my annuity provider after exit?
-No. Once you purchase an annuity from an ASP, it cannot be transferred to another provider. Choose carefully.
-
-### Q4. What happens to NPS after subscriber's death?
-The entire corpus (100%) is paid as a tax-free lump sum to the registered nominee. No annuity purchase is required.
-
-### Q5. Can I defer NPS exit beyond 60?
-Yes. You can defer exit until age 75. During deferment, your money stays invested and you can continue contributions.
-
-### Q6. What is the minimum annuity from NPS?
-There is no fixed minimum pension amount. Your monthly pension depends on the corpus amount, annuity type chosen, and the ASP's prevailing annuity rates. Roughly, ₹10 lakh corpus may give ₹5,000–₹7,000 monthly pension.
-
-### Q7. Can I exit NPS before 60 without annuity?
-Only if your corpus is ₹2.5 lakh or less. Otherwise, 80% must be used for annuity on premature exit. This is why premature exit is not recommended.
+**How to choose:**
+- **Single with no dependents:** Annuity for life (highest pension amount)
+- **Married:** Annuity with 100% or 50% to spouse (ensures spouse gets pension)
+- **Want nominee protection:** Annuity with return of purchase price
+- **Worried about inflation:** Annuity increasing at 3% p.a.
 
 ---
 
-*This guide is for informational purposes only and is not affiliated with any government body. Information is based on PFRDA and CRA-NSDL official sources. Annuity rates and rules may change — verify on the [official PFRDA website](https://www.pfrda.org.in/).*
+## Step-by-Step Online Exit Process
+
+### For All Citizens Model (Self-Enrolled) Subscribers:
+
+1. **Log in to CRA** — Visit [cra-nsdl.com](https://cra-nsdl.com/) and log in with your PRAN
+2. **Initiate exit request** — Go to "Exit/Withdrawal" → "Superannuation/Normal Exit"
+3. **Choose lump sum percentage** — select how much you want as lump sum (up to 60%) and how much for annuity (minimum 40%)
+4. **Select Annuity Service Provider (ASP)** — choose from the empaneled list
+5. **Choose annuity type** — select the annuity variant you prefer
+6. **Enter bank details** — confirm the bank account for lump sum credit
+7. **Upload documents:**
+   - PRAN card
+   - Identity proof (Aadhaar/PAN)
+   - Bank proof (cancelled cheque)
+   - Passport-size photograph
+8. **Authenticate** — verify with OTP and e-sign
+9. **Submit** — note down the acknowledgement number
+10. **Processing** — lump sum is credited within 7-10 working days; annuity provider contacts you to start pension
+
+### For Government/Corporate Subscribers:
+1. Submit exit form to your nodal officer/DDO
+2. Nodal officer initiates exit on CRA portal
+3. Provide annuity preference and bank details
+4. Processing through employer takes 15-30 working days
+
+---
+
+## Deferment Option: Don't Want to Exit at 60?
+
+You can defer your NPS exit:
+
+- **Defer lump sum:** Up to age 75 — your corpus continues to grow in NPS
+- **Defer annuity:** Up to 3 years from date of exit — you can take lump sum at 60 and buy annuity later
+- **Continue contributing:** You can continue making contributions up to age 75 (since 2021 rule change)
+- **Mandatory exit at 75:** If you haven't exited by 75, the exit happens automatically
+
+**Why defer?** If markets are down at 60, deferring allows your corpus to potentially recover. Your money continues to be managed by the fund manager.
+
+---
+
+## What if Corpus is Less Than ₹5 Lakh?
+
+If your total NPS corpus at exit is ₹5 lakh or less:
+- You can withdraw **100% as lump sum** — no annuity purchase required
+- The entire amount is **tax-free**
+- This applies to both normal exit at 60 and premature exit
+
+---
+
+## Premature Exit (Before Age 60)
+
+If you exit NPS before 60:
+
+| Rule | Details |
+|---|---|
+| **Minimum tenure** | 5 years in NPS |
+| **Lump sum** | Maximum 20% of corpus |
+| **Annuity** | Minimum 80% must be used to buy annuity |
+| **Tax** | 20% lump sum is tax-free; annuity pension is taxable |
+| **Corpus below ₹2.5 lakh** | 100% lump sum withdrawal allowed, tax-free |
+
+---
+
+## Tax Treatment Summary
+
+| Event | Tax Rule |
+|---|---|
+| **NPS contributions** | Deductible under 80CCD(1), 80CCD(1B), 80CCD(2) |
+| **Lump sum at 60 (up to 60%)** | Fully tax-free under Section 10(12A) |
+| **Annuity pension** | Taxable as per income tax slab |
+| **Premature lump sum (20%)** | Tax-free |
+| **Death of subscriber** | 100% paid to nominee, fully tax-free |
+| **Corpus below ₹5 lakh** | 100% tax-free lump sum |
+
+---
+
+## Important Tips
+
+1. **Compare annuity rates** — different providers offer different pension amounts for the same corpus. Compare before choosing
+2. **Don't rush the decision** — you can defer annuity purchase by up to 3 years while you research options
+3. **Consider partial annuity** — take 60% lump sum and invest it yourself if you have financial expertise; use 40% for guaranteed pension
+4. **Spouse protection matters** — choose annuity with spouse benefit if your spouse depends on your income
+5. **Plan for taxes** — while lump sum is tax-free, annuity pension is taxable. Factor this into retirement planning
+
+---
+
+## Frequently Asked Questions
+
+### Is the 60% NPS lump sum completely tax-free?
+Yes. Under Section 10(12A) of the Income Tax Act, up to 60% of the NPS corpus withdrawn as lump sum at maturity (age 60 or superannuation) is completely tax-free.
+
+### What if I don't want any lump sum and want 100% annuity?
+You can use 100% of your corpus to buy annuity. The 60-40 is the maximum lump sum and minimum annuity split, not a mandatory ratio.
+
+### Can I choose multiple annuity providers?
+No. Currently, you must select one Annuity Service Provider for your entire annuity corpus. You cannot split across providers.
+
+### What happens if I die before 60?
+The entire NPS corpus (100%) is paid to the nominee as a lump sum. This amount is completely tax-free. No annuity purchase is required.
+
+### Can I change my annuity provider after starting pension?
+No. Once you purchase an annuity, it cannot be transferred to another provider. Choose carefully after comparing rates and options.
+
+### What is the minimum pension I will get?
+The pension amount depends on your corpus size, chosen annuity type, your age at purchase, and the provider's rates. For example, with ₹20 lakh annuity corpus at age 60, expect roughly ₹8,000-₹12,000 monthly pension (varies by provider and annuity type).
+
+### Can I do [partial withdrawal](/guide/nps-withdrawal-partial-guide) after age 60?
+No. After 60, the exit/maturity process applies. Partial withdrawal is only available before age 60 for specific reasons.
+
+---
+
+*This guide is for informational purposes only and is not affiliated with PFRDA, NSDL, or any government body. Annuity rates and rules may change — verify on the [official PFRDA website](https://www.pfrda.org.in/) and with your chosen annuity provider.*

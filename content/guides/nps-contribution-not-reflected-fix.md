@@ -1,156 +1,183 @@
 ---
 title: "NPS Contribution Not Reflected? How to Fix Employer Issues"
-description: >-
-  Fix NPS contribution not showing in your PRAN statement. Steps to check CRA
-  portal, raise grievance against employer delay, and resolve missing credits.
+description: "Fix NPS contribution not showing in your PRAN statement. Steps to check CRA, contact nodal officer, raise grievance, and resolve employer delays."
 category: Tax & Finance
 keywords:
   - nps contribution not reflected
-  - nps employer contribution delay
-  - nps pran statement check
-  - nps contribution not credited
-  - nps cra grievance
-  - nps missing contribution
+  - nps contribution not showing
+  - nps employer contribution missing
+  - pran statement check
+  - nps contribution delay
+  - nps nodal officer complaint
+  - nps grievance portal
+  - nps cra helpline
   - nps employer not depositing
-  - check nps balance online
-  - nps contribution status
-  - nps salary deduction not credited
-readingTime: 7 min
-lastUpdated: "2026-03-06"
+  - nps contribution status check
+readingTime: 8 min
+lastUpdated: 2026-03-06
 officialLinks:
+  - 'https://cra-nsdl.com/'
   - 'https://www.npscra.nsdl.co.in/'
   - 'https://www.pfrda.org.in/'
-  - 'https://enps.nsdl.com/eNPS/NationalPensionSystem.html'
+  - 'https://npslite-nsdl.com/CRAlite/grievanceInput.do'
 ---
 
 # NPS Contribution Not Reflected? How to Fix Employer Issues
 
-If your NPS contribution is being deducted from your salary but not showing in your PRAN statement, you're not alone. This is a common issue caused by employer delay in remitting contributions to the CRA. This guide explains how to check your contribution status, identify the problem, and resolve it.
+If your NPS contribution has been deducted from salary but is not reflecting in your PRAN account, you are not alone — this is one of the most common NPS complaints. The delay usually happens because of employer processing issues, incorrect PRAN mapping, or nodal officer delays. This guide explains how to check your contribution status and fix the problem.
 
-## Common Reasons for NPS Contribution Not Reflecting
+## Why NPS Contributions Get Delayed
 
-1. **Employer delay in remitting** — Your employer deducts NPS from salary but delays uploading the Subscriber Contribution File (SCF) to the CRA
-2. **Incorrect PRAN mapping** — Your PRAN is not correctly mapped with your employer's nodal office
-3. **Processing delay at CRA** — Contributions uploaded but not yet processed and invested
-4. **Bank transfer delay** — Employer transferred funds but the amount hasn't been reconciled by the trustee bank
-5. **Technical issues** — Portal downtime or errors during employer upload
+Common reasons for NPS contributions not reflecting:
 
-## Step-by-Step: Check Your NPS Contribution Status
-
-### Method 1: CRA Portal (Recommended)
-
-#### Step 1: Log in to CRA Portal
-Visit [https://www.npscra.nsdl.co.in/](https://www.npscra.nsdl.co.in/) and log in with your **PRAN number** and **password**.
-
-#### Step 2: View Transaction Statement
-Go to **"Transaction Statement"** or **"Holding Statement"**. This shows all contributions credited to your account with dates.
-
-#### Step 3: Check Contribution History
-Click on **"Contribution Details"** to see month-wise breakdown. Compare with your salary slips to identify missing months.
-
-### Method 2: NSDL Mobile App (NSDL e-Gov)
-- Download the **NSDL e-Gov NPS** app from Play Store/App Store
-- Log in with PRAN and password
-- View contribution history and current balance
-
-### Method 3: SMS Service
-Send an SMS: **PRAN <space> <Your 12-digit PRAN number>** to **56677** from your registered mobile number to get a balance update.
-
-### Method 4: Check Payslip
-Review your salary slip to confirm:
-- Employee NPS contribution amount deducted
-- Employer NPS contribution amount (if applicable)
-- The month for which deduction was made
-
-## How to Fix Missing NPS Contributions
-
-### Step 1: Contact Your Employer / HR Department
-- Share your **PRAN statement** showing missing contributions
-- Ask for the **Subscriber Contribution File (SCF) upload receipt** from the employer
-- Request the **transaction reference number** for the remittance
-
-### Step 2: Contact the Nodal Office
-For government employees:
-- Contact your **Drawing and Disbursing Officer (DDO)** or **Pay and Accounts Office (PAO)**
-- They are responsible for uploading SCF to the CRA
-- Ask for confirmation of upload date and amount
-
-For private sector employees:
-- Contact your **company's NPS nodal officer** (usually in HR/Finance)
-- The employer must upload contributions via the **Corporate CRA module**
-
-### Step 3: Raise a Grievance on CRA Portal
-
-If the employer is unresponsive:
-
-1. Log in to [https://www.npscra.nsdl.co.in/](https://www.npscra.nsdl.co.in/)
-2. Go to **"Grievance"** section
-3. Select grievance type: **"Contribution not credited"**
-4. Enter details: missing months, amounts deducted (attach salary slips)
-5. Submit the grievance — you'll receive a **ticket number**
-6. Track status under **"Grievance Status"**
-
-### Step 4: Escalate to PFRDA (If Unresolved)
-
-If the CRA grievance doesn't resolve within 30 days:
-
-1. Visit [https://www.pfrda.org.in/](https://www.pfrda.org.in/)
-2. Go to **"Grievance Redressal"** → **"Lodge Grievance"**
-3. File a complaint with details of employer non-compliance
-4. PFRDA can direct the employer to deposit contributions with interest
-
-### Step 5: Legal Recourse
-If the employer has deducted NPS from salary but not deposited it:
-- This is a **violation of PFRDA regulations**
-- The employer is liable to deposit the amount with **penal interest**
-- You can file a complaint with the **Labour Commissioner** or approach the court
-
-## Timeline for Contribution Reflection
-
-| Stage | Expected Time |
-|---|---|
-| Salary deduction to employer upload | By 7th of next month (government) / within 7 days (private) |
-| CRA processing after upload | 2–3 working days |
-| Investment by PFM after CRA processing | T+1 to T+2 working days |
-| Total: Salary deduction to PRAN reflection | 10–15 working days |
-
-## Employer Obligations Under PFRDA Rules
-
-- Employer **must deposit** NPS contributions by the **7th of the following month** (government) or within **7 working days** (private sector)
-- Delayed deposits attract **penal interest** at the rate prescribed by PFRDA
-- The employer must upload the **Subscriber Contribution File (SCF)** along with the payment
-
-## Important Tips
-
-1. **Check your PRAN statement monthly** — don't wait until year-end to discover missing contributions
-2. **Keep salary slips safely** — they are proof of deduction if you need to file a grievance
-3. **Use the CRA mobile app** for quick balance checks — much faster than the portal
-4. **Employer delay doesn't affect your tax benefit** — if NPS was deducted from your salary, you can claim 80CCD deduction regardless of when the employer deposits it
-5. **Self-contributions via eNPS reflect faster** — direct contributions through [eNPS portal](/guide/nps-account-open-online) typically reflect within 3 working days
-
-## FAQs
-
-### Q1. How long does NPS contribution take to reflect?
-Typically 10–15 working days from salary deduction. If it doesn't reflect within 30 days, contact your employer and raise a CRA grievance.
-
-### Q2. Can I deposit NPS contribution myself if employer delays?
-You can make **voluntary contributions** directly via the eNPS portal, but this doesn't substitute for the employer's share. The employer is still liable to deposit their contribution.
-
-### Q3. My NPS shows zero balance despite salary deductions for months. What should I do?
-This is a serious issue. Immediately contact your HR/accounts department with salary slips as proof. If unresponsive, file a grievance with CRA and escalate to PFRDA. Keep all salary slips and communication records.
-
-### Q4. Does employer delay affect my investment returns?
-Yes. Delayed deposit means your money sits idle instead of being invested. The employer is liable to pay **penal interest** to compensate for the delay.
-
-### Q5. How do I check if my employer is registered as NPS corporate?
-Ask your HR for the **Corporate CRA registration number**. You can also check on the CRA portal under your account details whether your employer is mapped correctly.
-
-### Q6. CRA helpline number for NPS queries?
-Call **1800-222-080** (toll-free) or email **npssupport@nsdl.co.in**. Available Monday to Saturday, 8 AM to 8 PM.
-
-### Q7. Can employer contribution delay affect my partial withdrawal eligibility?
-No. Your eligibility for [partial withdrawal](/guide/nps-withdrawal-partial-guide) is based on your membership duration (3 years) and your own contributions, not the employer's deposit timing.
+1. **Employer processing delay** — your employer has deducted the amount but not yet uploaded it to the NPS system
+2. **Incorrect PRAN mapping** — your PRAN number is incorrectly mapped in the employer's payroll system
+3. **Nodal officer delay** — the designated nodal officer has not authorized the contribution upload
+4. **Bank processing delay** — the funds are in transit between the employer's bank and the NPS trustee bank
+5. **Mismatch in details** — name, date of birth, or other details mismatch between payroll and NPS records
+6. **Technical issues** — CRA portal downtime or processing errors
 
 ---
 
-*This guide is for informational purposes only and is not affiliated with any government body. Information is based on PFRDA and CRA-NSDL official sources. For official grievance redressal, visit [PFRDA](https://www.pfrda.org.in/) or [CRA-NSDL](https://www.npscra.nsdl.co.in/).*
+## Step 1: Check Your PRAN Statement
+
+Before raising a complaint, first verify whether the contribution has actually been credited:
+
+### Online Check via CRA Portal:
+1. Visit [cra-nsdl.com](https://cra-nsdl.com/)
+2. Log in with your PRAN number and password (or I-PIN/T-PIN)
+3. Go to "Transaction Statement" → "Contribution Statement"
+4. Check the latest entries — contributions show with the date they were credited
+5. Download the statement for your records
+
+### Via NPS App (NSDL CRA):
+1. Download the "NPS by Protean CRA" app from Play Store or App Store
+2. Log in with PRAN and password
+3. Check "My Holdings" and "Transaction History"
+
+### Via SMS:
+Send an SMS with your PRAN number to the CRA helpline for a quick balance check.
+
+**Note:** Employer contributions typically take 3-7 working days to reflect after salary processing date. Wait at least 10 working days before raising a concern.
+
+---
+
+## Step 2: Contact Your Employer's Nodal Officer
+
+If the contribution has not reflected after 10 working days:
+
+1. **Identify the nodal officer** — every organization with NPS has a designated nodal officer responsible for uploading contributions
+2. **Send a written request** — email the nodal officer with:
+   - Your PRAN number
+   - Employee ID
+   - Month(s) for which contribution is missing
+   - Salary slip showing NPS deduction
+3. **Request upload confirmation** — ask for the Subscriber Contribution File (SCF) upload acknowledgement
+4. **Follow up** — if no response within 5 working days, escalate to HR head
+
+### Common Issues Nodal Officers Can Fix:
+- Upload pending contribution files to CRA
+- Correct PRAN mapping errors
+- Resolve name or date of birth mismatches
+- Reprocess failed upload attempts
+
+---
+
+## Step 3: Contact CRA Helpline
+
+If the nodal officer is unable to resolve the issue:
+
+**CRA (NSDL) Contact Details:**
+| Channel | Details |
+|---|---|
+| **Toll-free number** | 1800-222-080 |
+| **Email** | npslite@nsdl.co.in |
+| **Working hours** | Monday to Saturday, 9:00 AM to 7:00 PM |
+| **CRA website** | [cra-nsdl.com](https://cra-nsdl.com/) |
+
+**When calling, keep ready:**
+- Your PRAN number
+- Employer name and registration number
+- Specific months with missing contributions
+- Salary slips as evidence
+
+---
+
+## Step 4: Raise a Grievance on PFRDA Portal
+
+If the issue persists after contacting the nodal officer and CRA:
+
+1. **Visit the PFRDA grievance portal** — Go to [pgportal.gov.in](https://pgportal.gov.in/) or the PFRDA section on CPGRAMS
+2. **Or use NPS grievance form** — Visit [npslite-nsdl.com/CRAlite/grievanceInput.do](https://npslite-nsdl.com/CRAlite/grievanceInput.do)
+3. **Select grievance type** — choose "Non-credit of contribution" or "Employer related"
+4. **Fill details:**
+   - PRAN number
+   - Employer name and code
+   - Missing contribution months and amounts
+   - Steps already taken (nodal officer contact, CRA call)
+5. **Attach evidence** — upload salary slips showing NPS deduction
+6. **Submit** — note down the grievance tracking number
+7. **Track status** — check resolution status online using the tracking number
+
+**Resolution time:** PFRDA typically resolves grievances within 30 days.
+
+---
+
+## Step 5: Escalate to PFRDA (If Unresolved)
+
+If the grievance portal does not resolve the issue within 30 days:
+
+**PFRDA Contact:**
+| Channel | Details |
+|---|---|
+| **Phone** | 1800-110-708 |
+| **Email** | grievance@pfrda.org.in |
+| **Address** | PFRDA, B-14/A, Chhatrapati Shivaji Bhawan, Qutab Institutional Area, New Delhi - 110016 |
+| **Ombudsman** | You can approach the NPS Ombudsman if PFRDA does not resolve within 60 days |
+
+---
+
+## For Government Employees: Additional Steps
+
+Government NPS subscribers have an additional layer — the Pay and Accounts Office (PAO) or Drawing and Disbursing Officer (DDO):
+
+1. **Check with your DDO** — the DDO is responsible for uploading contribution details to the government NPS system
+2. **Verify on NPSCAN** — government subscribers can check contributions on [npscan.in](https://npscan.in/) (NPS Contribution Accounting Network)
+3. **Contact PAO** — if DDO is unresponsive, escalate to the Pay and Accounts Office
+4. **Ministry level** — for persistent issues, escalate through the department's official channel
+
+---
+
+## Important Tips
+
+1. **Keep salary slips** — always save salary slips showing NPS deduction as proof
+2. **Check monthly** — don't wait for months; check your PRAN statement every month after salary credit
+3. **Normal delay is 3-7 days** — contributions typically take a few working days to reflect; panic only after 10+ working days
+4. **Verify PRAN mapping** — when joining a new employer, ensure your PRAN is correctly mapped in their system from the first month
+5. **Financial year end** — March contributions often get delayed due to year-end processing. Allow extra time
+
+---
+
+## Frequently Asked Questions
+
+### How long does it take for NPS contribution to reflect?
+Employer NPS contributions typically reflect in your PRAN account within 3-7 working days after the salary processing date. Self-contributions via eNPS reflect within 2-3 working days.
+
+### My employer deducted NPS but it's not in my PRAN. Is this legal?
+No. If your employer deducts NPS from your salary, they are legally obligated to deposit it into your NPS account. Non-deposit of deducted contributions is a serious compliance issue that PFRDA can act upon.
+
+### Can I deposit my own contribution if my employer delays?
+For the government sector, employer and employee contributions are processed together. For corporate NPS, you can make additional voluntary contributions via [eNPS](https://enps.nsdl.com/), but this does not replace the employer's obligation to deposit deducted amounts.
+
+### What if my previous employer didn't deposit my NPS?
+Contact the previous employer's nodal officer first. If unresponsive, raise a grievance with PFRDA citing the employer details and missing contribution period. PFRDA can direct the employer to deposit pending amounts.
+
+### How do I check my total NPS balance?
+Log in to [cra-nsdl.com](https://cra-nsdl.com/) with your PRAN and password. Go to "Holdings" to see your current corpus value, or "Contribution Statement" for a detailed contribution history.
+
+### Is there a penalty on employers for late NPS deposit?
+Yes. PFRDA guidelines require timely deposit of NPS contributions. Employers who consistently delay can face regulatory action from PFRDA.
+
+---
+
+*This guide is for informational purposes only and is not affiliated with PFRDA, NSDL, or any government body. For official assistance, contact the CRA helpline at 1800-222-080 or visit [pfrda.org.in](https://www.pfrda.org.in/).*

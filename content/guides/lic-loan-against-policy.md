@@ -1,222 +1,208 @@
 ---
 title: "LIC Loan Against Policy: How to Apply Online"
 description: >-
-  Complete guide to get a loan against LIC policy online. Know eligible policies,
-  loan amount, interest rate, repayment options, and step-by-step online process.
+  Apply for LIC loan against policy online. Know eligible policies, loan amount
+  up to 90% of surrender value, interest rate, repayment, and process.
 category: Tax & Finance
 keywords:
-  - LIC loan against policy
-  - LIC policy loan online
-  - loan against LIC policy
-  - LIC loan interest rate
-  - LIC loan apply online
-  - LIC policy loan eligibility
-  - LIC loan repayment
-  - LIC surrender value loan
-  - LIC loan amount calculator
-  - life insurance loan India
+  - lic loan against policy
+  - lic policy loan online
+  - lic loan apply online
+  - lic policy loan interest rate
+  - lic loan against policy eligibility
+  - lic loan repayment
+  - lic policy loan amount
+  - lic surrender value loan
+  - loan on lic policy
+  - lic policy loan process
 readingTime: 8 min
 lastUpdated: "2026-03-06"
 officialLinks:
   - 'https://licindia.in/'
   - 'https://ebiz.licindia.in/D2CPM/'
-  - 'https://customer.licindia.in/'
 ---
 
 # LIC Loan Against Policy: How to Apply Online
 
-If you hold a Life Insurance Corporation (LIC) policy with surrender value, you can take a loan against it instead of surrendering the policy. This is one of the cheapest loan options available — no credit check, no income proof, and quick disbursement. This guide covers eligible policies, loan amount calculation, interest rates, and the complete online application process.
+Need funds urgently? Instead of surrendering your LIC policy, you can take a loan against it. LIC offers loans up to 90% of the policy's surrender value at competitive interest rates. The policy continues and your coverage remains intact. This guide explains the complete process.
 
 ## What is a Loan Against LIC Policy?
 
-A loan against LIC policy is a secured loan where your LIC policy acts as collateral. Key features:
+A loan against an LIC policy is a secured loan where your life insurance policy acts as collateral:
 
-- **No credit score check** — Your policy is the security
-- **Low interest rate** — Typically 9-10% per annum (simple interest)
-- **No fixed EMI** — You can repay anytime; interest is charged on outstanding balance
-- **Policy continues** — Your life cover remains active while the loan is outstanding
-- **Quick processing** — Online applications are processed within 3-5 working days
-- **No income proof needed** — Only policy documents required
+- **You borrow from LIC** — not from a bank
+- **Loan amount:** Up to 90% of the surrender value of your policy
+- **Interest rate:** 9-10% per annum (simple interest, charged half-yearly)
+- **No fixed EMI** — you can repay at your convenience during the policy term
+- **Policy remains active** — your life cover and bonus accumulation continue
+- **No credit check** — since the policy is collateral, no CIBIL score needed
 
----
+## Eligibility: Which Policies Qualify?
 
-## Which LIC Policies Are Eligible?
+| Condition | Requirement |
+|---|---|
+| **Policy type** | Endowment, Whole Life, Money-back, and similar plans with surrender value |
+| **Minimum premiums paid** | At least 3 years' premiums (policy must have acquired surrender value) |
+| **Policy status** | Must be "In Force" (not lapsed) |
+| **Term plans** | ❌ Not eligible (no surrender value) |
+| **ULIPs** | ❌ Generally not eligible for LIC loan |
+| **Micro insurance** | ❌ Not eligible |
+| **Assigned policies** | ❌ Not eligible if assigned to a bank/third party |
 
-A loan can be taken only against policies that have acquired a **surrender value**. This typically happens after paying premiums for at least **3 consecutive years**.
+> **How to check surrender value:** Log in to [ebiz.licindia.in](https://ebiz.licindia.in/D2CPM/), go to My Policies, and check the surrender value of your policy.
 
-### Eligible Policy Types
-
-- Endowment plans (Jeevan Anand, Jeevan Lakshya, etc.)
-- Money Back plans
-- Whole Life plans (Jeevan Umang)
-- Any traditional LIC plan with surrender value
-
-### NOT Eligible
-
-- Term insurance policies (no surrender value)
-- ULIPs (unit-linked plans — separate loan rules)
-- Policies where premiums paid for less than 3 years
-- Policies that have already been assigned or are under claim
-- Micro insurance and group insurance policies
-
----
-
-## How Much Loan Can You Get?
+## Loan Amount Calculation
 
 The loan amount depends on the **surrender value** of your policy:
 
-| Policy Type | Maximum Loan Amount |
-|------------|-------------------|
-| Participating (with-profits) policies | Up to **90%** of surrender value |
-| Non-participating policies | Up to **80%** of surrender value |
-| Paid-up policies | Up to **80%** of paid-up surrender value |
+| Policy Type | Maximum Loan |
+|---|---|
+| Endowment plans | Up to **90%** of surrender value |
+| Whole life plans | Up to **90%** of surrender value |
+| Money-back plans | Up to **85%** of surrender value |
+| Pension plans | Up to **85%** of surrender value |
 
-### How to Check Surrender Value
-
-1. **LIC Portal:** Login at [customer.licindia.in](https://customer.licindia.in/) → Policy details → Surrender value
-2. **SMS:** Send `ASKLIC STAT <Policy Number>` to 9222492224
-3. **LIC Branch:** Visit with policy bond and ID proof
-4. **LIC App:** Download the LIC Customer app
-
-**Example:** If your policy's surrender value is ₹5,00,000 → Maximum loan = ₹4,50,000 (90%)
-
----
+**Example:**
+- Policy: LIC Jeevan Anand (Endowment)
+- Sum assured: ₹10,00,000
+- Premiums paid: 10 years
+- Surrender value: ₹3,50,000
+- **Maximum loan available: ₹3,15,000** (90% of ₹3,50,000)
 
 ## Interest Rate
 
-| Period | Interest Rate (Approx.) |
-|--------|------------------------|
-| Current rate (2025-26) | **9% to 10% per annum** (simple interest) |
-| Rate revision | IRDAI/LIC reviews periodically |
+- Current interest rate: approximately **9-10% per annum** (simple interest)
+- Interest is charged **half-yearly** on the outstanding loan balance
+- LIC revises the rate periodically — check the latest rate at your branch or on [licindia.in](https://licindia.in/)
+- If interest is not paid, it gets added to the loan principal (compounding effect)
 
-- Interest is charged as **simple interest** (not compounding)
-- Interest is payable half-yearly (every 6 months)
-- If unpaid, the interest is added to the loan principal and then interest is charged on the total (effectively compounding)
+## How to Apply for LIC Loan Online
 
-**Important:** If the total loan + accumulated interest exceeds the surrender value, LIC may foreclose the policy.
+### Step 1: Log In to LIC Portal
 
----
+1. Visit [https://ebiz.licindia.in/D2CPM/](https://ebiz.licindia.in/D2CPM/)
+2. Log in with your registered credentials
+3. If not registered, [create an account first](/guide/lic-policy-status-check)
 
-## How to Apply for LIC Loan Online — Step by Step
+### Step 2: Check Loan Eligibility
 
-### Prerequisites
+1. Go to **My Policies**
+2. Select the policy you want to take a loan against
+3. Click on **Loan** or **Loan Eligibility**
+4. The system will show the maximum loan amount available
 
-- LIC policy must have surrender value (minimum 3 years premium paid)
-- Policy must be registered on LIC's e-Services portal
-- Your mobile number and email must be linked to the policy
+### Step 3: Apply for Loan
 
-### Step 1: Register on LIC Portal (if not done)
+1. Click **Apply for Loan**
+2. Enter the loan amount (up to the maximum eligible amount)
+3. Verify your **NEFT/bank details** — the loan amount will be credited here
+4. Submit the application
 
-1. Visit [customer.licindia.in](https://customer.licindia.in/)
-2. Click "New User" → Register with your policy number, date of birth, and mobile
-3. Set your login credentials
+### Step 4: Complete Verification
 
-### Step 2: Apply for Loan
+1. You may need to complete **e-signature** or **OTP verification**
+2. Accept the loan terms and conditions
+3. Submit the loan request
 
-1. Login to [customer.licindia.in](https://customer.licindia.in/) or the LIC e-Services portal at [ebiz.licindia.in/D2CPM/](https://ebiz.licindia.in/D2CPM/)
-2. Navigate to **"Policy Loan"** or **"Loan Request"** section
-3. Select the policy against which you want the loan
-4. The system shows:
-   - Current surrender value
-   - Maximum eligible loan amount
-   - Applicable interest rate
-5. Enter the loan amount you want (up to the maximum)
-6. Verify your bank account details (loan will be credited here)
-7. Submit the request
+### Step 5: Receive Funds
 
-### Step 3: E-Sign / Document Submission
+- The loan amount is credited to your bank account via NEFT within **3-7 working days**
+- You will receive an SMS/email confirmation
 
-- For online processing: Complete **e-signature** (Aadhaar-based e-sign)
-- If e-sign is not available: Download the loan application form, sign it, and submit at your LIC branch along with the original policy bond
+## How to Apply Offline (Branch Visit)
 
-### Step 4: Loan Disbursement
+If online application is not available for your policy:
 
-- Online applications with e-sign: Processed within **3-5 working days**
-- Offline (branch) applications: **5-7 working days**
-- Loan amount is credited directly to your registered bank account via NEFT/RTGS
-
----
-
-## How to Apply Offline (at LIC Branch)
-
-1. Visit your LIC servicing branch (the branch where your policy is registered)
+1. Visit your **LIC servicing branch**
 2. Carry:
    - Original policy bond
-   - Filled loan application form (available at branch or download from [licindia.in](https://licindia.in/))
    - ID proof (Aadhaar/PAN)
-   - Cancelled cheque or bank passbook
-3. Submit the form and policy bond
-4. The branch processes the loan and returns the policy bond with a loan endorsement
-5. Loan credited to your bank account within 5-7 working days
+   - Cancelled cheque / passbook copy
+   - Loan application form (available at branch)
+3. Submit the form and documents
+4. The branch processes the loan within **5-10 working days**
+5. Loan amount is credited to your bank account or paid by cheque
 
----
+## Loan Repayment
 
-## Documents Required
+One of the biggest advantages of an LIC policy loan is **flexible repayment**:
 
-- LIC policy bond (original)
-- Identity proof (Aadhaar card, PAN card, voter ID)
-- Bank account details (cancelled cheque or passbook copy)
-- Loan application form (for offline)
-- Aadhaar-linked mobile (for e-sign in online process)
+### Repayment Options:
 
----
+1. **Pay anytime** — no fixed EMI schedule; pay any amount whenever you can
+2. **Pay interest only** — keep the principal outstanding and just pay half-yearly interest
+3. **Full repayment** — pay the entire loan + interest at once
+4. **Deduction at maturity** — if not repaid, the outstanding loan + interest is deducted from the maturity amount
+5. **Deduction from death claim** — in case of death, loan is deducted from the claim amount
 
-## Repayment Options
+### How to Repay:
 
-- **No fixed EMI** — You can repay the loan at any time, in full or in part
-- **Interest payment** — Pay at least the half-yearly interest to prevent interest accumulation
-- **Full repayment** — Pay the outstanding loan + interest at any time
-- **Adjustment at maturity/claim** — If not repaid, the loan + interest is deducted from the maturity/death claim amount
+- **Online:** Log in to [ebiz.licindia.in](https://ebiz.licindia.in/D2CPM/) → Loan Repayment
+- **At branch:** Pay by cheque/DD at your servicing branch
+- **Via agent:** Through your LIC agent
 
-### Repayment Methods
+> **Warning:** If the outstanding loan + interest exceeds the surrender value, LIC may **auto-foreclose** your policy. Always pay at least the interest to keep your policy active.
 
-- Online via LIC portal (NEFT/net banking)
-- At LIC branch (cash/cheque/demand draft)
-- Through LIC premium payment channels
+## What Happens If You Don't Repay?
 
----
+| Scenario | Outcome |
+|---|---|
+| **At maturity** | Loan + interest deducted from maturity amount |
+| **At death** | Loan + interest deducted from death claim |
+| **Loan exceeds surrender value** | Policy is automatically terminated (foreclosed) |
+| **Policy lapses with loan** | Surrender value minus loan is paid (may be zero) |
+
+## Loan Against Policy vs. Surrendering the Policy
+
+| Factor | Loan Against Policy | Surrendering Policy |
+|---|---|---|
+| **Life cover** | Continues ✅ | Stops ❌ |
+| **Bonus** | Continues accumulating ✅ | Lost ❌ |
+| **Tax benefit** | Sec 80C continues ✅ | May need to return ❌ |
+| **Amount received** | Up to 90% of surrender value | 100% of surrender value |
+| **Repayment** | Must repay with interest | No repayment needed |
+| **Policy status** | Remains active | Terminated |
+
+> **Recommendation:** Always prefer a loan over surrender unless you're sure you don't need the policy anymore.
 
 ## Important Tips
 
-1. **Don't surrender, take a loan** — A loan keeps your policy alive and your life cover intact; surrendering means losing the cover and bonus
-2. **Pay interest regularly** — Unpaid interest gets added to principal, increasing your debt
-3. **Check surrender value first** — Use the LIC portal or app to know your exact eligible loan amount
-4. **Register your policy online** — You need e-Services registration for online loan application
-5. **Keep policy bond safe** — The original bond is needed for offline loan processing
-
----
+1. **Borrow only what you need** — the interest adds up quickly if left unpaid. Repay as soon as possible.
+2. **Pay at least the interest half-yearly** — this prevents your loan from ballooning and potentially foreclosing your policy.
+3. **Check your loan balance regularly** — log in to the LIC portal to track outstanding loan and interest.
+4. **Don't let the policy lapse while a loan is outstanding** — keep paying premiums on time. See our [premium payment guide](/guide/lic-premium-payment-failed-fix).
+5. **Compare with bank personal loans** — LIC policy loan rates (9-10%) may be higher than some bank personal loans. Compare before deciding.
 
 ## Frequently Asked Questions
 
-### Q1. Can I take a loan against any LIC policy?
-No. Only traditional policies (endowment, money back, whole life) that have acquired surrender value (minimum 3 years premium paid) are eligible. Term plans and ULIPs are not eligible.
+### 1. What is the minimum loan amount I can take against my LIC policy?
 
-### Q2. What is the maximum loan amount I can get?
-Up to 90% of the surrender value for participating policies and 80% for non-participating/paid-up policies.
+There is no official minimum, but practically the loan amount depends on your policy's surrender value. Most branches process loans of ₹5,000 and above.
 
-### Q3. What is the interest rate on LIC policy loan?
-Currently around 9-10% per annum (simple interest). The rate is reviewed periodically by LIC. Check the latest rate on [licindia.in](https://licindia.in/).
+### 2. Can I take a loan if my LIC policy is lapsed?
 
-### Q4. Is there a fixed repayment schedule?
-No. There is no fixed EMI or tenure. You can repay anytime. However, interest is charged half-yearly, and you should pay it regularly to avoid accumulation.
+No. The policy must be "In Force" (active with all premiums paid up to date). You need to [revive the policy](/guide/lic-policy-revival-guide) first before applying for a loan.
 
-### Q5. What happens if I don't repay the loan?
-If the outstanding loan + accumulated interest exceeds the surrender value, LIC will foreclose (terminate) your policy. Also, if you don't repay before maturity or death, the loan amount is deducted from the payout.
+### 3. How many times can I take a loan against the same policy?
 
-### Q6. Can I take a loan against a paid-up policy?
-Yes, if the paid-up policy has surrender value. The loan amount will be up to 80% of the paid-up surrender value.
+You can take multiple loans as long as the total outstanding loan doesn't exceed 90% of the current surrender value.
 
-### Q7. How do I check my outstanding loan balance?
-Login to [customer.licindia.in](https://customer.licindia.in/) → Select your policy → View loan details. You can also visit your LIC branch or call LIC at 022-68276827.
+### 4. Is there any processing fee for LIC policy loan?
+
+LIC does not charge a processing fee or prepayment penalty on policy loans. The only cost is the interest on the outstanding amount.
+
+### 5. Can I take a loan against someone else's LIC policy?
+
+No. Only the policyholder (or assignee) can apply for a loan against the policy.
+
+### 6. Will taking a loan affect my LIC policy bonus?
+
+No. Your policy continues to earn bonus as usual even when a loan is outstanding. The bonus is calculated on the sum assured, not the net amount after loan.
+
+### 7. How do I check my outstanding LIC loan balance?
+
+Log in to [ebiz.licindia.in](https://ebiz.licindia.in/D2CPM/) and go to your policy details. The outstanding loan and interest will be displayed. You can also send SMS: **ASKLIC LOAN <Policy Number>** to 9222492224.
 
 ---
 
-## Related Guides
-
-- [Term Insurance: How to Choose & Buy](/guide/term-insurance-buy-guide)
-- [Motor Insurance Renewal Online](/guide/motor-insurance-renewal-online)
-- [PAN Card Apply Online](/guide/pan-card-apply-online)
-
----
-
-*Disclaimer: CitizenNest is an independent platform and is not affiliated with LIC or IRDAI. Information is for guidance only. Always verify details on [licindia.in](https://licindia.in/) and your LIC branch before applying.*
+*This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with LIC or the Government of India. Always verify details on the [official LIC website](https://licindia.in/).*

@@ -1,215 +1,202 @@
 ---
-title: "PM Fasal Bima Yojana (PMFBY): How to Apply for Crop Insurance"
+title: "PM Fasal Bima Yojana: How to Apply for Crop Insurance Online"
 description: >-
-  Complete guide to apply for crop insurance under PMFBY. Know eligibility,
-  premium rates, claim process, Kharif/Rabi seasons, and CSC application steps.
+  Complete guide to PMFBY crop insurance. Apply at pmfby.gov.in, check premium
+  rates, eligible crops, claim process, bank enrollment, and important timelines.
 category: Tax & Finance
 keywords:
-  - PMFBY
-  - PM Fasal Bima Yojana
-  - crop insurance India
-  - fasal bima yojana apply
+  - pmfby
+  - pm fasal bima yojana
+  - crop insurance india
+  - pmfby apply online
+  - fasal bima yojana
   - crop insurance premium
-  - PMFBY online apply
-  - Kharif crop insurance
-  - Rabi crop insurance
-  - crop insurance claim
+  - pmfby claim
+  - pradhan mantri fasal bima yojana
   - farmer insurance scheme
+  - pmfby gov in
+lastUpdated: '2026-03-06'
 readingTime: 10 min
-lastUpdated: "2026-03-06"
 officialLinks:
   - 'https://pmfby.gov.in/'
-  - 'https://farmer.gov.in/'
-  - 'https://csc.gov.in/'
+  - 'https://www.india.gov.in/spotlight/pradhan-mantri-fasal-bima-yojana'
+  - 'https://agricoop.nic.in/'
 ---
 
 # PM Fasal Bima Yojana (PMFBY): How to Apply for Crop Insurance
 
-Pradhan Mantri Fasal Bima Yojana (PMFBY) is India's flagship crop insurance scheme launched in 2016. It protects farmers against crop loss due to natural calamities, pests, and diseases. With very low premiums (subsidised by the government), PMFBY provides comprehensive risk coverage from sowing to post-harvest. This guide explains eligibility, how to apply, premium rates, and the claim process.
+**Pradhan Mantri Fasal Bima Yojana (PMFBY)** is the Government of India's flagship crop insurance scheme. It protects farmers against crop loss due to natural calamities, pests, and diseases at very low premium rates.
 
-## What is PMFBY?
-
-PMFBY is a Central Government crop insurance scheme administered by the Ministry of Agriculture & Farmers Welfare. Key features:
-
-- **Low premium** — Farmers pay only 2% for Kharif crops, 1.5% for Rabi crops, and 5% for commercial/horticultural crops
-- **Full coverage** — No cap on sum insured; government pays the remaining premium
-- **Voluntary** — Participation is voluntary for all farmers (made voluntary since Kharif 2020 for loanee farmers too)
-- **Technology-driven** — Uses satellite imagery, remote sensing, and drones for crop loss assessment
-- **Quick claims** — Target: settlement within 2 months of crop cutting experiments
+> **Disclaimer:** CitizenNest is an independent informational platform and is not affiliated with the Government of India.
 
 ---
 
-## Who is Eligible?
+## What Is PMFBY?
 
-- **All farmers** — landowners, tenant farmers, and sharecroppers growing notified crops in notified areas
-- **Both loanee and non-loanee farmers** — Loanee farmers can opt in/out; non-loanee farmers must apply separately
-- **Enrolment is voluntary** for all categories since Kharif 2020
-- Farmer must have an Aadhaar number and a bank account
-
----
-
-## Premium Rates
-
-| Season | Crop Type | Farmer's Premium | Government Subsidy |
-|--------|-----------|------------------|--------------------|
-| Kharif (July-Oct) | Food crops, oilseeds | **2%** of sum insured | Remaining premium shared 50:50 by Centre and State |
-| Rabi (Oct-Mar) | Wheat, pulses, oilseeds | **1.5%** of sum insured | Remaining premium shared 50:50 by Centre and State |
-| Kharif & Rabi | Commercial/horticultural crops | **5%** of sum insured | Remaining premium shared 50:50 by Centre and State |
-
-**Example:** If sum insured for a paddy crop is ₹1,00,000 → Farmer pays ₹2,000 (2%). The actual premium may be ₹15,000-20,000 — the government pays the rest.
+| Feature | Details |
+|---|---|
+| **Launched** | 13 January 2016 (Kharif 2016 onwards) |
+| **Implementing Agency** | Department of Agriculture & Farmers Welfare |
+| **Insurance Companies** | Empanelled public & private insurers (varies by state/district) |
+| **Coverage** | Crop loss due to natural calamities, pests, diseases, post-harvest losses |
+| **Enrolment** | **Voluntary** for all farmers (made voluntary since Kharif 2020) |
 
 ---
 
-## Crops and Risks Covered
+## Premium Rates for Farmers
 
-### Crops Covered
-- Notified food crops (rice, wheat, pulses, millets)
-- Oilseeds (mustard, groundnut, soybean)
-- Commercial and horticultural crops (cotton, sugarcane, jute, fruits, vegetables, spices)
+One of PMFBY's biggest advantages — farmers pay a **very small premium**:
 
-*Note: Only crops notified by the State Government for a particular season and area are eligible.*
+| Season | Farmer's Premium | Maximum |
+|---|---|---|
+| **Kharif (monsoon crops)** | 2% of sum insured | — |
+| **Rabi (winter crops)** | 1.5% of sum insured | — |
+| **Commercial & horticultural crops** | 5% of sum insured | — |
 
-### Risks Covered
-1. **Prevented sowing/planting** — If the farmer is unable to sow due to deficit rainfall or adverse conditions
-2. **Standing crop loss** — Due to drought, flood, hailstorm, cyclone, pest/disease attack, fire, lightning
-3. **Post-harvest losses** — Crop loss due to unseasonal rain or cyclone within 14 days of harvesting (for crops kept in the field for drying)
-4. **Localised calamities** — Hailstorm, landslide, waterlogging affecting individual farms
-5. **On-account payment** — Mid-season adversity payment if expected crop loss exceeds 50%
+The **remaining premium** is shared between the Central and State Government (in equal ratio). The farmer's share is always capped at the above rates regardless of actual actuarial premium.
 
-### Not Covered
-- War, nuclear risks, malicious damage, theft
-- Losses due to animals or preventable risks
+**Example:** If sum insured for a Kharif crop is ₹50,000, the farmer pays only **₹1,000** (2%).
 
 ---
 
-## How to Apply for PMFBY — Step by Step
+## Who Is Eligible?
 
-### Method 1: Online via PMFBY Portal
+- **All farmers** — landowner farmers, tenant farmers, and sharecroppers
+- Growing **notified crops** in **notified areas** during the notified season
+- Both **loanee farmers** (crop loan borrowers) and **non-loanee farmers** can enrol
+- Enrolment is **voluntary** — even loanee farmers can opt out by informing their bank before the cut-off date
 
+---
+
+## Crops Covered
+
+PMFBY covers crops notified by the respective **State Government** for each season:
+
+- **Kharif:** Rice, maize, bajra, jowar, cotton, soybean, groundnut, urad, moong, etc.
+- **Rabi:** Wheat, barley, gram (chana), mustard, lentil (masoor), sunflower, etc.
+- **Commercial/Horticultural:** Sugarcane, potato, onion, tomato, chilli, banana, mango, etc. (state-specific)
+
+> **Check your district's notified crops** on [pmfby.gov.in](https://pmfby.gov.in/) before enrolling.
+
+---
+
+## How to Apply: Step-by-Step
+
+### Option 1: Online via PMFBY Portal
 1. Visit [pmfby.gov.in](https://pmfby.gov.in/)
-2. Click "Farmer Corner" → "Guest Farmer" (for new users) or login with your registered mobile
-3. Register with your mobile number and create an account
-4. Fill the application form:
-   - Personal details (name, Aadhaar, bank account)
-   - Land details (survey number, area, crop sown)
-   - Select season (Kharif/Rabi), year, state, district, block, village
-   - Select crop and sum insured
-5. Upload documents (land records, sowing certificate if needed)
-6. Pay the farmer's share of premium online
-7. Download the application receipt
+2. Click **"Farmer Corner"** → **"Apply for Crop Insurance"**
+3. Register with your **mobile number** (OTP verification)
+4. Enter details: **Aadhaar number, bank account, land details (survey number, area, crop)**
+5. Upload documents (land records, sowing certificate if applicable)
+6. Pay the **farmer's share of premium** online
+7. Download the **application acknowledgement**
 
-### Method 2: Through Common Service Centre (CSC)
+### Option 2: Through Your Bank (for Loanee Farmers)
+1. If you have a **crop loan/KCC**, your bank **automatically enrols** you (unless you opt out)
+2. Premium is **deducted from your loan account**
+3. Verify your crop and land details with the bank before the cut-off date
 
-1. Visit your nearest CSC (Jan Seva Kendra)
-2. Carry all required documents
-3. The CSC operator will fill your application on the PMFBY portal
-4. Pay the premium at CSC (cash/UPI/card accepted)
-5. Collect the receipt with application number
+### Option 3: Through CSC (Common Service Centre)
+1. Visit your nearest **CSC / Jan Seva Kendra**
+2. Carry your documents (listed below)
+3. The CSC operator fills your application and collects the premium
+4. You receive an acknowledgement slip
 
-### Method 3: Through Your Bank (for Loanee Farmers)
-
-1. If you have a crop loan (KCC), the bank auto-enrols you unless you opt out
-2. Visit your bank branch to confirm enrolment or opt out
-3. Premium is auto-debited from your loan account
-4. Bank provides a PMFBY enrolment receipt
+### Option 4: Through Insurance Company or Agent
+1. Contact the empanelled insurance company for your district
+2. Submit the application form with documents
+3. Pay the premium
 
 ---
 
 ## Documents Required
 
-- Aadhaar card
-- Bank account passbook / cancelled cheque
-- Land ownership documents (Khasra/Khatauni, 7/12 extract, patta)
-- For tenant/sharecropper: Lease agreement or a letter from the landowner + village officer certification
-- Sowing certificate from Patwari/Agriculture officer (in some states)
-- Passport-size photograph
+- **Aadhaar card**
+- **Bank passbook** (with IFSC code)
+- **Land records** — Khatauni / 7/12 extract / Patta / RoR (Revenue Record)
+- **Sowing certificate** (from Patwari / Village Officer — for non-loanee farmers)
+- **Land lease agreement** (for tenant farmers / sharecroppers)
+- **Passport-size photograph**
 
 ---
 
-## Important Deadlines
+## Important Timelines
 
-| Season | Enrolment Deadline |
-|--------|-------------------|
-| Kharif | Usually 31st July (varies by state notification) |
-| Rabi | Usually 31st December (varies by state notification) |
+| Activity | Kharif Season | Rabi Season |
+|---|---|---|
+| **Enrolment deadline** | Usually 31 July | Usually 31 December |
+| **Cut-off for opting out (loanee)** | 7 days before deadline | 7 days before deadline |
+| **Crop cutting experiments** | Post-harvest | Post-harvest |
+| **Claim settlement** | Within 2 months of crop cutting data | Within 2 months of crop cutting data |
 
-*Check [pmfby.gov.in](https://pmfby.gov.in/) for exact deadlines each season as they may be extended.*
-
----
-
-## How to File a Crop Insurance Claim
-
-### Step 1: Report Crop Loss Within 72 Hours
-
-- Call the **Crop Insurance App helpline** or your insurance company
-- Report via the **Crop Insurance App** (available on Google Play)
-- Inform your bank or agriculture department
-- You MUST report within **72 hours** of the calamity for localised and post-harvest losses
-
-### Step 2: Crop Cutting Experiments (CCE)
-
-- For widespread losses, the government conducts CCEs to assess yield
-- Results are compared with threshold yield to determine claim eligibility
-- For localised losses, individual field inspection is done
-
-### Step 3: Claim Settlement
-
-- Insurance company calculates the claim based on yield data
-- Approved claim amount is directly transferred to the farmer's bank account
-- Target timeline: **within 2 months** of yield data submission
+> ⚠️ **Timelines vary by state.** Always check [pmfby.gov.in](https://pmfby.gov.in/) for your state's exact dates.
 
 ---
 
-## How to Check PMFBY Application Status
+## Claim Process
 
-1. Visit [pmfby.gov.in](https://pmfby.gov.in/)
-2. Click "Application Status"
-3. Enter your application number or receipt number
-4. View status: applied, premium received, claim processed, etc.
+### When Can You Claim?
+- **Prevented sowing** — if you couldn't sow due to deficit rainfall/flood
+- **Standing crop loss** — damage during crop growth due to drought, flood, hailstorm, cyclone, pest attack
+- **Post-harvest losses** — damage within 14 days of harvesting due to cyclone, unseasonal rain, hailstorm
+- **Localized calamities** — hailstorm, landslide, flooding affecting individual farms
+
+### How to File a Claim
+1. **Report crop loss** within **72 hours** through:
+   - **Crop Insurance App** (available on Play Store)
+   - **PMFBY portal** — [pmfby.gov.in](https://pmfby.gov.in/)
+   - **Insurance company toll-free number**
+   - **Your bank branch**
+2. Provide: policy number, crop details, nature of loss, photos of damage
+3. Insurance company sends a **surveyor** for loss assessment
+4. For **widespread losses**, claims are based on Crop Cutting Experiment (CCE) data from the state government
+5. **Claim amount** is credited directly to your **Aadhaar-linked bank account**
+
+---
+
+## Processing Time
+
+| Step | Timeline |
+|---|---|
+| Reporting crop loss | Within 72 hours of damage |
+| Survey/assessment | 7–14 days after reporting |
+| Claim settlement | Within 2 months of yield data availability |
 
 ---
 
 ## Important Tips
 
-1. **Apply before the deadline** — Late applications are not accepted
-2. **Keep crop sowing proof** — Take photos with timestamps as evidence
-3. **Report losses immediately** — 72-hour window is strict for localised/post-harvest losses
-4. **Download the Crop Insurance App** — Available on Google Play for easy claim reporting and status tracking
-5. **Verify your bank details** — Claims are paid directly to your registered bank account; incorrect details cause delays
+1. **Report losses within 72 hours** — delayed reporting may lead to claim rejection
+2. **Download the Crop Insurance App** — fastest way to report losses and track claim status
+3. **Verify your bank details and Aadhaar linkage** — claims are paid directly to your Aadhaar-linked account
+4. **Take photographs** of crop damage immediately — they serve as evidence
+5. **Check premium deduction** — loanee farmers should verify if the correct premium was debited by the bank
 
 ---
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQs)
 
-### Q1. Is PMFBY mandatory for farmers who have crop loans?
-No. Since Kharif 2020, PMFBY is voluntary for all farmers, including loanee (KCC) farmers. You can opt out by giving a written declaration to your bank before the cut-off date.
+### Q1: Is PMFBY compulsory for farmers with crop loans?
+**No.** Since Kharif 2020, PMFBY enrolment is **voluntary** for all farmers, including loanee farmers. You can opt out by informing your bank before the cut-off date.
 
-### Q2. How much premium does a farmer pay under PMFBY?
-Farmers pay 2% for Kharif crops, 1.5% for Rabi crops, and 5% for commercial/horticultural crops. The balance premium (which can be 15-25%) is paid by the Central and State Government equally.
+### Q2: How is the sum insured calculated?
+The sum insured is based on the **Scale of Finance** (cost of cultivation) for the notified crop, as fixed by the **District Level Technical Committee (DLTC)**.
 
-### Q3. Can tenant farmers apply for PMFBY?
-Yes. Tenant farmers and sharecroppers are eligible. They need a lease agreement or certification from the landowner and village officer along with land records.
+### Q3: Can tenant farmers apply for PMFBY?
+**Yes.** Tenant farmers and sharecroppers can enrol by submitting a **land lease agreement** or a letter from the landowner confirming tenancy.
 
-### Q4. How long does it take to receive the claim amount?
-The government targets claim settlement within 2 months of receiving yield data from crop cutting experiments. However, delays can occur. Check status on [pmfby.gov.in](https://pmfby.gov.in/).
+### Q4: How do I check my PMFBY application status?
+Visit [pmfby.gov.in](https://pmfby.gov.in/) → **"Application Status"** → enter your application/receipt number or Aadhaar number.
 
-### Q5. What if my crop is damaged by animals (nilgai, wild boar)?
-Crop damage by wild animals is generally NOT covered under PMFBY. Some states have separate wildlife crop damage compensation schemes — check with your district agriculture office.
+### Q5: What if I don't report crop loss within 72 hours?
+Late reporting may result in **reduced claim payout or rejection**. Always report promptly through the app, portal, or toll-free number.
 
-### Q6. Can I apply for PMFBY through my smartphone?
-Yes. You can apply through the PMFBY portal on your mobile browser or use the **Crop Insurance App** (available on Google Play) to check eligibility, apply, and report claims.
+### Q6: Is there a mobile app for PMFBY?
+**Yes.** Download the **"Crop Insurance"** app from Google Play Store. You can use it to enrol, report crop loss, and check claim status.
 
-### Q7. Which insurance companies implement PMFBY?
-PMFBY is implemented by empanelled insurance companies selected by state governments. These include Agriculture Insurance Company of India (AIC), ICICI Lombard, HDFC ERGO, Bajaj Allianz, and others depending on the state and season.
-
----
-
-## Related Guides
-
-- [PM Kisan Samman Nidhi: Apply & Check Status](/guide/pm-kisan-samman-nidhi-apply)
-- [Kisan Credit Card (KCC) Apply Online](/guide/kisan-credit-card-apply-online)
-- [Insurance Complaint? File with Ombudsman](/guide/insurance-ombudsman-complaint)
+### Q7: What percentage of crop loss qualifies for a claim?
+If the **actual yield** falls below the **threshold yield** (based on historical average) by the defined trigger, the farmer is eligible for compensation. The exact threshold varies by crop and district.
 
 ---
 
-*Disclaimer: CitizenNest is an independent platform and is not affiliated with the Government of India or any insurance company. Information is for guidance only. Always verify details on [pmfby.gov.in](https://pmfby.gov.in/) and your state agriculture department's official portal.*
+*Also see our [PM-KISAN guide](/guide/pm-kisan-samman-nidhi-check-status) for checking your ₹6,000/year farmer benefit status.*

@@ -1,173 +1,169 @@
 ---
 title: "NPS Partial Withdrawal: Rules, Process & Documents Required"
-description: >-
-  Complete guide to NPS partial withdrawal rules, 25% limit, eligible purposes,
-  required documents, and step-by-step process via CRA portal for Tier 1 account.
+description: "Complete guide to NPS partial withdrawal rules, eligible reasons, 25% limit, required documents, and step-by-step online process via CRA portal."
 category: Tax & Finance
 keywords:
   - nps partial withdrawal
   - nps withdrawal rules
-  - nps partial withdrawal process
-  - nps tier 1 withdrawal
+  - nps premature withdrawal
+  - nps partial withdrawal online
   - nps withdrawal for house purchase
+  - nps withdrawal for medical
   - nps withdrawal for education
   - nps 25 percent withdrawal
-  - nps withdrawal documents
-  - nps premature withdrawal
-  - national pension system withdrawal
-readingTime: 8 min
-lastUpdated: "2026-03-06"
+  - nps tier 1 withdrawal
+  - pran withdrawal
+readingTime: 9 min
+lastUpdated: 2026-03-06
 officialLinks:
+  - 'https://enps.nsdl.com/'
   - 'https://www.npscra.nsdl.co.in/'
   - 'https://www.pfrda.org.in/'
-  - 'https://enps.nsdl.com/eNPS/NationalPensionSystem.html'
+  - 'https://cra-nsdl.com/'
 ---
 
 # NPS Partial Withdrawal: Rules, Process & Documents Required
 
-The National Pension System allows **partial withdrawal** from your Tier 1 account for specific life events after completing 3 years. This guide covers the eligibility criteria, withdrawal limits, eligible purposes, required documents, and step-by-step process.
+NPS Tier 1 is primarily a retirement savings account with restricted withdrawals. However, PFRDA allows partial withdrawal from your NPS Tier 1 corpus for specific life events. This guide explains the eligibility criteria, limits, documents needed, and the step-by-step online process.
 
-## NPS Partial Withdrawal Rules at a Glance
+## What is NPS Partial Withdrawal?
 
-| Rule | Detail |
+NPS partial withdrawal allows you to withdraw up to 25% of your own contributions (not employer contributions or investment gains) from your Tier 1 account before retirement. This facility is available only for specified reasons and has strict conditions.
+
+**Key points:**
+- Maximum 25% of your own contributions can be withdrawn
+- Only for specific reasons approved by PFRDA
+- Account must be at least 3 years old
+- Maximum 3 partial withdrawals allowed during the entire NPS tenure
+- Withdrawals are tax-free
+
+---
+
+## Eligible Reasons for Partial Withdrawal
+
+PFRDA permits partial withdrawal only for these reasons:
+
+1. **Higher education of children** — for graduation, post-graduation, or professional courses of children (including legally adopted children)
+2. **Marriage of children** — for the marriage of children (including legally adopted children)
+3. **Purchase or construction of residential house/flat** — first house purchase only (not applicable if you already own a house, excluding ancestral property)
+4. **Treatment of critical illness** — for treatment of specified illnesses of self, spouse, children, or dependent parents. Covered illnesses include cancer, kidney failure, heart valve surgery, stroke, major organ transplant, etc.
+5. **Disability or incapacitation** — if the subscriber suffers more than 75% disability as per government norms
+
+---
+
+## Withdrawal Limits
+
+| Rule | Details |
 |---|---|
-| Minimum membership | 3 years in NPS Tier 1 |
-| Maximum withdrawal | 25% of **own contributions** (employer contributions excluded) |
-| Maximum withdrawals allowed | 3 times during entire NPS tenure |
-| Tax on withdrawal | **Tax-free** (up to 25% of own contribution) |
-| Applicable to | Tier 1 only (Tier 2 has no restrictions) |
+| **Maximum amount** | 25% of own contributions (as on date of application) |
+| **Minimum account age** | 3 years from date of joining |
+| **Maximum withdrawals** | 3 times during entire NPS tenure |
+| **Gap between withdrawals** | Minimum 5 years (except for medical treatment) |
+| **Tax on withdrawal** | Fully tax-free |
 
-## Eligible Purposes for Partial Withdrawal
+**Example:** If you have contributed ₹10,00,000 to NPS over 5 years, the maximum partial withdrawal is ₹2,50,000 (25% of ₹10,00,000). Note: employer contributions and investment returns are not counted.
 
-You can withdraw **only** for these PFRDA-approved reasons:
-
-### 1. Higher Education of Children
-- For children's higher education (graduation, post-graduation, professional courses)
-- Includes admission fees, tuition, hostel charges
-
-### 2. Marriage of Children
-- Wedding expenses for son or daughter
-- Applicable for subscriber's children only
-
-### 3. Treatment of Critical Illness
-- Treatment of specified illnesses of subscriber, spouse, children, or dependent parents
-- Covers hospitalization and medical procedures for illnesses including cancer, kidney failure, heart surgery, organ transplant, stroke, etc.
-
-### 4. Purchase or Construction of Residential House
-- First house purchase or construction only
-- Subscriber must not own a residential house (other than ancestral property) at the time of application
-
-### 5. Disability or Incapacitation
-- If the subscriber suffers disability (80%+ as per government norms)
-
-### 6. Skill Development / Re-skilling
-- For approved skill development or training programs of the subscriber
+---
 
 ## Documents Required
 
-### For All Withdrawal Requests
-- **PRAN card** or PRAN number
-- **Bank account details** (linked to NPS account)
-- **Self-declaration form** (available on CRA portal)
+### For All Withdrawal Reasons:
+- PRAN card or PRAN number
+- Bank account details (linked to NPS)
+- Aadhaar card
+- Cancelled cheque of linked bank account
 
-### Purpose-Specific Documents
+### Reason-Specific Documents:
 
-| Purpose | Documents |
-|---|---|
-| Children's education | Admission letter, fee receipt from institution |
-| Children's marriage | Wedding invitation or declaration of upcoming marriage |
-| Critical illness | Medical diagnosis certificate, hospital bills, doctor's prescription |
-| House purchase | Sale deed / agreement to sell / allotment letter; self-declaration of no existing house |
-| Disability | Disability certificate from competent authority (80%+) |
-| Skill development | Enrollment proof from approved institution |
+**For Children's Education:**
+- Admission letter or fee receipt from the educational institution
+- Proof of relationship (birth certificate of child)
 
-## Step-by-Step Process: Apply for NPS Partial Withdrawal
+**For Children's Marriage:**
+- Wedding invitation card or marriage registration application
+- Proof of relationship (birth certificate of child)
 
-### Online Process (via CRA Portal)
+**For House Purchase/Construction:**
+- Sale agreement or allotment letter
+- Self-declaration that you do not own any other residential property (except ancestral)
+- Builder/seller details and payment schedule
 
-#### Step 1: Log in to CRA Portal
-Visit [https://www.npscra.nsdl.co.in/](https://www.npscra.nsdl.co.in/) and log in with your **PRAN** and **password/OTP**.
+**For Medical Treatment:**
+- Medical certificate from a registered medical practitioner
+- Hospital admission or treatment documents
+- Bills or cost estimates from the hospital
 
-#### Step 2: Navigate to Withdrawal Request
-Go to **"Transact Online"** → **"Partial Withdrawal"**.
+**For Disability:**
+- Disability certificate from competent medical authority (75% or more)
 
-#### Step 3: Verify Eligibility
-The system checks if you meet the 3-year membership requirement and have remaining withdrawal attempts (max 3).
+---
 
-#### Step 4: Fill Withdrawal Details
-- Select the **purpose of withdrawal** from the dropdown
-- Enter the **amount** (system shows maximum eligible amount — 25% of own contributions)
-- Confirm **bank account** for credit
+## Step-by-Step Online Process
 
-#### Step 5: Upload Supporting Documents
-Upload scanned copies of purpose-specific documents (PDF format, max 2 MB each).
+### Method 1: Through CRA Website (NSDL)
 
-#### Step 6: Submit and Authenticate
-- Review all details
-- Authenticate via **OTP** sent to registered mobile
-- Submit the request
+1. **Log in to CRA portal** — Visit [cra-nsdl.com](https://cra-nsdl.com/) and log in using your PRAN and password
+2. **Navigate to withdrawal** — Go to "Transact Online" → "Partial Withdrawal"
+3. **Verify eligibility** — The system will check if your account meets the 3-year requirement and withdrawal limit
+4. **Select reason** — Choose the reason for partial withdrawal from the dropdown
+5. **Enter amount** — Enter the withdrawal amount (up to 25% of your contributions). The system shows the maximum eligible amount
+6. **Upload documents** — Upload the required supporting documents as per the reason selected
+7. **Verify bank details** — Confirm the bank account where you want to receive the funds
+8. **Authenticate** — Verify with OTP sent to your registered mobile number
+9. **Submit request** — Review all details and submit. Note down the acknowledgement number
+10. **Track status** — Check the status under "Transaction Statement" on the CRA portal
 
-#### Step 7: Track Request
-Track the status under **"Track Request"** on the CRA portal. The amount is credited to your bank account after processing.
+### Method 2: Through Nodal Office (Government/Corporate Subscribers)
 
-### Offline Process (via Nodal Office / POP)
-1. Download the **partial withdrawal form** from the CRA website
-2. Fill the form and attach required documents
-3. Submit to your **Nodal Office** (if government employee) or **Point of Presence (POP)**
-4. The Nodal Office/POP verifies and forwards to CRA
-5. CRA processes the withdrawal and credits amount to your bank
+If you are a government or corporate NPS subscriber:
+1. Submit the partial withdrawal form to your employer's nodal officer
+2. Attach all required documents
+3. The nodal officer verifies and forwards to CRA
+4. Processing takes 2-3 weeks after nodal officer approval
+
+---
 
 ## Processing Time
 
-- **Online request processing:** 7–10 working days
-- **Offline request processing:** 15–20 working days
-- **Bank credit after CRA approval:** 2–3 working days
+- **Online (All Citizens Model):** 7-10 working days after document verification
+- **Through Nodal Officer:** 15-20 working days (includes employer processing time)
+- **Amount credited to:** Bank account linked to your PRAN
 
-## Fees
-
-| Item | Amount |
-|---|---|
-| Partial withdrawal request | No charge |
-| CRA processing | No additional fee |
-
-## How the 25% Limit is Calculated
-
-The 25% is calculated on your **own contributions only**, not on the total corpus (which includes employer contributions and investment returns).
-
-**Example:** If you contributed ₹10 lakh from your own salary/contributions and your employer contributed ₹5 lakh, and total corpus grew to ₹20 lakh:
-- Eligible amount = 25% of ₹10 lakh = **₹2.5 lakh** (not ₹5 lakh)
+---
 
 ## Important Tips
 
 1. **Plan withdrawals carefully** — you get only 3 partial withdrawals in your entire NPS tenure
-2. **Partial withdrawal is tax-free** — the withdrawn amount is exempt from income tax
-3. **Tier 2 account has no restrictions** — if you need flexible withdrawals, consider maintaining a [Tier 2 account](/guide/nps-tier-2-account-guide) alongside Tier 1
-4. **Keep documents ready before applying** — incomplete documentation is the most common reason for rejection
-5. **Withdrawal reduces your retirement corpus** — consider the long-term impact on your pension before withdrawing
-
-## FAQs
-
-### Q1. Can I withdraw from NPS before 3 years?
-No. Partial withdrawal from Tier 1 requires a minimum of 3 years of membership. For withdrawals before 3 years, you must opt for premature exit (which has different rules — 80% must go to annuity).
-
-### Q2. Is NPS partial withdrawal taxable?
-No. Partial withdrawal up to 25% of own contributions is completely **tax-free** under current rules.
-
-### Q3. Can I withdraw for my own education?
-No. Partial withdrawal for education is allowed only for children's higher education. However, you can withdraw for your own skill development/re-skilling.
-
-### Q4. What if my withdrawal request is rejected?
-Common reasons include incomplete documents, exceeding 25% limit, or not meeting 3-year criteria. You can resubmit with correct documents. Contact CRA helpline at 1800-222-080 for assistance.
-
-### Q5. Can I do partial withdrawal for home loan EMI?
-No. Partial withdrawal for housing is allowed only for **purchase or construction** of a new house, not for EMI payments on an existing loan.
-
-### Q6. Does partial withdrawal affect my tax benefits?
-No. Your past tax deductions claimed under 80CCD are not reversed on partial withdrawal. Future contributions continue to be eligible for tax benefits.
-
-### Q7. Can government employees apply for partial withdrawal?
-Yes. Government employees can apply for partial withdrawal through their **Nodal Office** or online via CRA portal, subject to the same rules and limits.
+2. **For Tier 2 withdrawals** — there are no restrictions on [Tier 2 account](/guide/nps-tier-2-account-guide) withdrawals; you can withdraw anytime without any reason
+3. **Keep documents ready** — incomplete documentation is the most common reason for rejection
+4. **Check contribution details first** — log in to CRA and check your "Contribution Statement" to know the exact 25% limit
+5. **Medical emergencies** — the 5-year gap rule does not apply for medical treatment withdrawals
 
 ---
 
-*This guide is for informational purposes only and is not affiliated with any government body. Information is based on PFRDA regulations and CRA-NSDL official sources. Rules may change — always verify on the [official CRA portal](https://www.npscra.nsdl.co.in/).*
+## Frequently Asked Questions
+
+### Is NPS partial withdrawal taxable?
+No. Partial withdrawal from NPS Tier 1 is completely tax-free under Section 10(12A) of the Income Tax Act, regardless of the reason.
+
+### Can I withdraw from NPS before 3 years?
+No. The minimum account age for partial withdrawal is 3 years. Before 3 years, you can only exit NPS completely (premature exit), which has different rules and tax implications.
+
+### What if my partial withdrawal request is rejected?
+Common reasons for rejection include incomplete documents, ineligible reason, or exceeding the 25% limit. You can resubmit with correct documents. Contact the CRA helpline at 1800-222-080 for assistance.
+
+### Can I withdraw for my own education or marriage?
+No. Partial withdrawal for education and marriage is allowed only for children (including legally adopted children), not for self.
+
+### Does employer contribution count in the 25% calculation?
+No. The 25% limit applies only to your own contributions. Employer contributions and investment returns are excluded from the calculation.
+
+### Can I make a partial withdrawal after age 60?
+No. After age 60, you must follow the [NPS exit/maturity process](/guide/nps-exit-maturity-guide), not the partial withdrawal route.
+
+### What is the minimum amount I can withdraw?
+PFRDA has not specified a minimum amount for partial withdrawal. However, the maximum is 25% of your own contributions.
+
+---
+
+*This guide is for informational purposes only and is not affiliated with PFRDA, NSDL, or any government body. Rules may change — always verify on the [official CRA portal](https://cra-nsdl.com/) or [PFRDA website](https://www.pfrda.org.in/).*

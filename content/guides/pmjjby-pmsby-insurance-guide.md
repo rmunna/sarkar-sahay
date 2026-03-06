@@ -1,193 +1,177 @@
 ---
-title: "PMJJBY & PMSBY: ₹436 Life Insurance & ₹20 Accident Insurance Government Schemes"
+title: "PMJJBY & PMSBY: ₹12 & ₹436 Insurance Schemes – Complete Guide"
 description: >-
-  Complete guide to PMJJBY and PMSBY government insurance schemes. ₹436 life cover
-  of ₹2 lakh and ₹20 accident cover. Eligibility, enrollment, and claim process.
+  Complete guide to PMJJBY (₹436/year, ₹2 lakh life cover) and PMSBY (₹12/year,
+  ₹2 lakh accident cover). Eligibility, auto-debit enrolment, and claim process.
 category: Tax & Finance
 keywords:
-  - PMJJBY scheme
-  - PMSBY scheme
+  - pmjjby
+  - pmsby
   - pradhan mantri jeevan jyoti bima yojana
   - pradhan mantri suraksha bima yojana
-  - PMJJBY premium
-  - PMSBY premium
+  - pm insurance scheme
+  - pmjjby premium
+  - pmsby claim process
   - government insurance scheme
-  - PMJJBY claim process
-  - PMSBY enrollment
   - cheap life insurance india
-readingTime: 9 min
-lastUpdated: "2026-03-06"
+  - ₹12 insurance scheme
+lastUpdated: '2026-03-06'
+readingTime: 10 min
 officialLinks:
   - 'https://www.jansuraksha.gov.in/'
   - 'https://financialservices.gov.in/insurance-divisions/Government-Sponsored-Socially-Oriented-Insurance-Schemes/Pradhan-Mantri-Jeevan-Jyoti-Bima-Yojana(PMJJBY)'
   - 'https://financialservices.gov.in/insurance-divisions/Government-Sponsored-Socially-Oriented-Insurance-Schemes/Pradhan-Mantri-Suraksha-Bima-Yojana(PMSBY)'
 ---
 
-# PMJJBY & PMSBY: ₹436 Life Insurance & ₹20 Accident Insurance Government Schemes
+# PMJJBY & PMSBY: ₹12 & ₹436 Insurance Schemes – Complete Guide
 
-The Indian government offers two ultra-affordable insurance schemes for every bank account holder: **Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)** for life insurance at just ₹436/year and **Pradhan Mantri Suraksha Bima Yojana (PMSBY)** for accident insurance at just ₹20/year. Together, they provide essential financial protection for your family at less than ₹1.25 per day.
+The Government of India offers two of the world's cheapest insurance schemes — **Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)** and **Pradhan Mantri Suraksha Bima Yojana (PMSBY)**. Together, they provide ₹4 lakh coverage for less than ₹450 per year.
 
-## Scheme Comparison at a Glance
-
-| Feature | PMJJBY (Life Insurance) | PMSBY (Accident Insurance) |
-|---|---|---|
-| **Annual Premium** | ₹436 | ₹20 |
-| **Coverage** | ₹2,00,000 (death - any cause) | ₹2,00,000 (accidental death), ₹1,00,000 (partial disability) |
-| **Age Group** | 18-50 years (cover till 55) | 18-70 years |
-| **Type** | Pure term life insurance | Accidental death & disability |
-| **Auto-debit Date** | 1st June every year | 1st June every year |
-| **Enrollment** | Through bank (savings account) | Through bank (savings account) |
-
-## PMJJBY: Pradhan Mantri Jeevan Jyoti Bima Yojana
-
-### What It Covers
-- **₹2 lakh life insurance** cover for death due to **any cause** (natural or accidental)
-- This is a **pure term insurance** — no maturity benefit, only death benefit
-- Coverage period: 1st June to 31st May each year
-
-### Eligibility
-- Age: **18 to 50 years** (can continue till age 55 after joining)
-- Must have a **savings bank account**
-- Must give consent for **auto-debit** of premium
-- Aadhaar must be linked to the bank account (primary KYC)
-- One person can join through **only one bank account**
-
-### How to Enroll
-
-#### Through Bank Branch
-1. Visit your bank branch
-2. Fill the **PMJJBY enrollment/consent form**
-3. Provide your Aadhaar number and nominee details
-4. Give consent for auto-debit of ₹436 from your savings account
-5. Enrollment is confirmed once premium is debited
-
-#### Through Net Banking / Mobile Banking
-1. Log in to your bank's net banking or mobile app
-2. Go to **Insurance** or **Social Security Schemes** section
-3. Select **PMJJBY**
-4. Fill nominee details and confirm enrollment
-5. Premium of ₹436 will be auto-debited
-
-#### Through Bank Mitra / CSC
-- Visit a Bank Mitra or Common Service Centre
-- Carry your bank passbook and Aadhaar
-- They will enroll you and initiate auto-debit consent
-
-### Premium Details
-- **₹436 per year**, auto-debited on or around **1st June**
-- If your account has insufficient balance on debit date, coverage lapses
-- You can re-enroll later by paying the premium and submitting a self-declaration of good health
-- Premium may be revised by the government periodically
-
-## PMSBY: Pradhan Mantri Suraksha Bima Yojana
-
-### What It Covers
-| Situation | Coverage Amount |
-|---|---|
-| Accidental death | ₹2,00,000 |
-| Total permanent disability (both eyes/hands/feet lost) | ₹2,00,000 |
-| Partial permanent disability (one eye/hand/foot lost) | ₹1,00,000 |
-
-**Note:** Only accidental causes are covered. Natural death, suicide, or illness are NOT covered under PMSBY. For death due to any cause, you need PMJJBY.
-
-### Eligibility
-- Age: **18 to 70 years**
-- Must have a **savings bank account**
-- Must give consent for **auto-debit** of premium
-- Aadhaar linked to bank account
-- One person can join through **only one bank account**
-
-### How to Enroll
-The enrollment process is identical to PMJJBY:
-1. Visit your bank branch, use net banking, or visit a CSC
-2. Fill the PMSBY enrollment form
-3. Provide nominee details
-4. Give consent for auto-debit of ₹20
-5. Coverage starts from 1st June after enrollment
-
-### Premium Details
-- **₹20 per year**, auto-debited on or around **1st June**
-- Extremely affordable — less than ₹2 per month
-- Can be enrolled alongside PMJJBY (total ₹456/year for both)
-
-## Claim Process
-
-### PMJJBY Claim (Death - Any Cause)
-
-1. **Nominee contacts the bank** where the deceased had the PMJJBY-linked account
-2. Collect the **claim form** from the bank
-3. Submit these documents:
-   - Filled claim form
-   - Death certificate (original or attested copy)
-   - Nominee's Aadhaar card and bank account details
-   - Cancelled cheque of nominee's bank account
-4. Bank forwards the claim to the insurance company (LIC or other assigned insurer)
-5. Insurance company processes and pays **₹2,00,000** to the nominee's bank account
-6. **Timeline:** Typically 30-60 days from submission of complete documents
-
-### PMSBY Claim (Accidental Death or Disability)
-
-1. **Insured person (for disability) or nominee (for death)** contacts the bank
-2. Collect the **claim form** from the bank
-3. Submit these documents:
-   - Filled claim form
-   - FIR copy or police report (for accident)
-   - Death certificate (for accidental death claims)
-   - Disability certificate from government hospital (for disability claims)
-   - Hospital records related to the accident
-   - Aadhaar and bank account details
-4. Bank forwards to the insurance company
-5. **Payout:** ₹2 lakh (death/total disability) or ₹1 lakh (partial disability)
-6. **Timeline:** Typically 30-60 days
-
-## Key Dates to Remember
-
-| Date | Event |
-|---|---|
-| 1st June | Premium auto-debit date for both schemes |
-| 1st June - 31st May | Coverage period (annual) |
-| Before 31st May | Renew/re-enroll if lapsed |
-| Any time | New enrollment (coverage starts from next 1st June or immediately for mid-year joins, depending on bank) |
-
-## Important Tips
-
-1. **Enroll in BOTH schemes** — PMJJBY + PMSBY together cost only ₹456/year and cover death (any cause) + accident disability
-2. **Maintain sufficient balance** — Keep at least ₹500 in your savings account before 1st June to avoid premium debit failure
-3. **Update nominee details** — Ensure your nominee information is current. Without correct nominee details, claim processing is delayed
-4. **Link Aadhaar to bank account** — This is mandatory for enrollment and smooth claim processing
-5. **These complement, not replace** — For higher coverage, consider additional term insurance. PMJJBY and PMSBY provide basic protection only
-
-## Who Should Definitely Enroll?
-
-- **Daily wage workers and labourers** — most affordable protection available
-- **Small farmers and rural families** — ensures family gets ₹2 lakh if breadwinner dies
-- **Anyone with a savings account** — at ₹20/year, PMSBY is practically free accident cover
-- **Young adults (18-30)** — start early, stay covered throughout working years
-- **Self-employed individuals** — no employer-provided insurance? These are your safety net
-
-## Frequently Asked Questions
-
-### Can I enroll in both PMJJBY and PMSBY?
-Yes. You can and should enroll in both. They cover different risks — PMJJBY covers death from any cause, PMSBY covers accidental death and disability. Total cost is just ₹456/year.
-
-### What happens if premium auto-debit fails?
-Your coverage lapses. You can re-enroll by paying the premium amount. For PMJJBY, you may need to submit a self-declaration of good health. For PMSBY, re-enrollment is straightforward.
-
-### Can I enroll through multiple bank accounts?
-No. You can enroll in each scheme through only one savings bank account. Duplicate enrollments through multiple banks will be cancelled.
-
-### Is there any tax benefit on PMJJBY/PMSBY premium?
-Yes. The premium paid for PMJJBY qualifies for deduction under **Section 80C** of the Income Tax Act. PMSBY premium qualifies under **Section 80C** as well. However, the amounts (₹436 and ₹20) are small.
-
-### What if I turn 50 while enrolled in PMJJBY?
-If you enrolled before turning 50, your coverage continues till age 55 as long as you keep paying the annual premium. After 55, coverage ends automatically.
-
-### Can NRIs enroll in these schemes?
-NRIs with active Indian savings bank accounts can enroll. However, claim processing may require Indian documentation and in-person verification.
-
-### Which insurance company provides the cover?
-PMJJBY is typically underwritten by **LIC** or other life insurance companies assigned by the government. PMSBY is underwritten by general insurance companies. Your bank acts as the intermediary.
+> **Disclaimer:** CitizenNest is an independent informational platform and is not affiliated with the Government of India.
 
 ---
 
-*This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Government of India. Verify details at [jansuraksha.gov.in](https://www.jansuraksha.gov.in/) or contact your bank.*
+## What Are PMJJBY and PMSBY?
+
+| Feature | PMJJBY | PMSBY |
+|---|---|---|
+| **Full Name** | Pradhan Mantri Jeevan Jyoti Bima Yojana | Pradhan Mantri Suraksha Bima Yojana |
+| **Type** | Term Life Insurance | Accident Insurance |
+| **Premium** | ₹436/year | ₹12/year |
+| **Coverage** | ₹2,00,000 (death due to any cause) | ₹2,00,000 (accidental death), ₹1,00,000 (partial disability) |
+| **Cover Period** | 1 June to 31 May (annual) | 1 June to 31 May (annual) |
+| **Launched** | 9 May 2015 | 9 May 2015 |
+
+---
+
+## Who Is Eligible?
+
+### PMJJBY Eligibility
+- Age: **18 to 50 years** (policy cover up to age 55)
+- Must have a **savings bank account**
+- Must give **auto-debit consent** for annual premium deduction
+- Aadhaar linked to bank account (primary KYC)
+
+### PMSBY Eligibility
+- Age: **18 to 70 years**
+- Must have a **savings bank account**
+- Must give **auto-debit consent** for annual premium deduction
+- Aadhaar linked to bank account (primary KYC)
+
+---
+
+## Documents Required
+
+### For Enrolment
+- **Aadhaar card** (linked to bank account)
+- **Savings bank account passbook**
+- **Nomination form** (available at bank)
+- **Consent-cum-declaration form** (for auto-debit)
+
+### For Claim
+- **Death certificate** (for PMJJBY)
+- **FIR / Post-mortem report** (for accidental death under PMSBY)
+- **Disability certificate** from Civil Surgeon (for partial disability under PMSBY)
+- **Nominee's bank account details** (cancelled cheque / passbook copy)
+- **Claim form** (from the bank)
+
+---
+
+## How to Enrol: Step-by-Step
+
+### Option 1: Through Your Bank (Offline)
+1. Visit your **savings bank branch**
+2. Ask for the **PMJJBY / PMSBY enrolment form**
+3. Fill in details: name, Aadhaar number, nominee details
+4. Sign the **auto-debit consent form**
+5. Submit the form — the bank will activate your cover from 1 June
+6. Premium is **auto-debited** from your account each year (on or before 31 May)
+
+### Option 2: Through Net Banking / Mobile Banking (Online)
+1. Log in to your bank's **net banking or mobile banking app**
+2. Navigate to **Insurance** → **Social Security Schemes** or **PMJJBY / PMSBY**
+3. Select the scheme and verify your details
+4. Add **nominee details**
+5. Confirm **auto-debit consent**
+6. You'll receive an SMS confirmation with your cover details
+
+### Option 3: Through Jan Suraksha Portal
+1. Visit [jansuraksha.gov.in](https://www.jansuraksha.gov.in/)
+2. Download the application form
+3. Fill and submit at your bank branch
+
+---
+
+## Premium Payment & Auto-Debit
+
+- Premium is deducted **once a year** via auto-debit from your linked savings account
+- Deduction happens between **25 May and 31 May** each year
+- If your account has **insufficient balance**, the policy lapses
+- You can **re-enrol** by submitting a fresh form and paying the premium (subject to eligibility and health declaration for PMJJBY)
+- PMJJBY premium of ₹436 is eligible for **tax deduction under Section 80C**
+
+---
+
+## Claim Process
+
+### PMJJBY Claim (Death of Policyholder)
+1. Nominee visits the **bank branch** where the deceased held the account
+2. Collects and fills the **claim form**
+3. Submits: death certificate, nominee's ID proof, bank account details
+4. Bank forwards claim to the **insurance company** (LIC or other participating insurer)
+5. Claim is processed and ₹2,00,000 is **credited to nominee's account** within 30 days
+
+### PMSBY Claim (Accidental Death or Disability)
+1. Policyholder (for disability) or nominee (for death) visits the **bank branch**
+2. Submits **claim form** with: FIR, post-mortem report (if death), disability certificate (if disability)
+3. Bank forwards claim to the insurer
+4. **₹2,00,000** for accidental death or **₹1,00,000** for total permanent disability of one eye/one limb is credited
+
+---
+
+## Processing Time
+
+| Step | Timeline |
+|---|---|
+| Enrolment activation | From 1 June of the cover year |
+| Claim submission to settlement | 30 days (typically) |
+| Re-enrolment after lapse | Anytime before 31 May with fresh form |
+
+---
+
+## Important Tips
+
+1. **Enrol in both schemes** — for just ₹448/year, you get ₹4 lakh combined coverage (₹2L life + ₹2L accident)
+2. **Keep sufficient balance** in your account before 31 May to avoid policy lapse
+3. **Update nominee details** at your bank if your life situation changes
+4. **Link Aadhaar** to your bank account — it's mandatory for these schemes
+5. **Check your bank statement** each June to confirm the premium was deducted and cover is active
+
+---
+
+## Frequently Asked Questions (FAQs)
+
+### Q1: Can I enrol in both PMJJBY and PMSBY simultaneously?
+**Yes.** You can enrol in both schemes through the same bank account. The combined premium is just ₹448 per year.
+
+### Q2: What happens if my premium is not deducted due to insufficient balance?
+Your policy **lapses**. You can re-enrol by submitting a fresh application form and paying the premium. For PMJJBY, you may need to submit a fresh health declaration.
+
+### Q3: Can I have PMJJBY/PMSBY through multiple bank accounts?
+**No.** You can enrol through only **one savings bank account** for each scheme. If enrolled through multiple accounts, only one will be valid and extra premiums are forfeited.
+
+### Q4: Is medical examination required for PMJJBY?
+**No medical examination** is required. However, you must sign a self-declaration of good health. If you re-enrol after a break, a fresh health declaration is needed.
+
+### Q5: Are NRIs eligible for these schemes?
+NRIs with a valid NRO savings bank account in India may be eligible. However, any **claim will be settled in Indian rupees** to the nominee's Indian bank account.
+
+### Q6: How do I check if my PMJJBY/PMSBY is active?
+Check your **bank statement** for the premium deduction. You can also visit your bank branch or check via net banking under the insurance section.
+
+### Q7: Can I exit and re-join the scheme?
+**Yes.** You can opt out and re-join in future years, subject to eligibility criteria and payment of the annual premium. For PMJJBY, a fresh self-declaration of good health is required.
+
+---
+
+*Also see our [income tax return filing guide](/guide/income-tax-return-file-online) for tax-saving tips using Section 80C deductions.*

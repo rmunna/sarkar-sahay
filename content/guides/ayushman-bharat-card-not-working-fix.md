@@ -1,175 +1,171 @@
 ---
-title: "Ayushman Bharat Card Not Working at Hospital? Here's How to Fix It"
+title: "Ayushman Bharat Card Not Working? How to Fix Hospital Issues"
 description: >-
-  Fix Ayushman Bharat card issues at hospitals. Solve card not accepted, verification
-  failed, hospital not empanelled problems. Re-issue card and helpline 14555.
-category: Government Schemes
+  Ayushman Bharat card not working at hospital? Fix eKYC failures, beneficiary
+  ID errors, hospital refusal, and re-verification issues with this guide.
+category: Tax & Finance
 keywords:
   - ayushman bharat card not working
   - PMJAY card problem
-  - ayushman card not accepted hospital
-  - ayushman bharat verification failed
-  - ayushman bharat helpline 14555
-  - ayushman bharat card reissue
-  - PMJAY card rejected
   - ayushman bharat hospital not accepting
-  - ayushman card fix
-  - ayushman bharat complaint
-readingTime: 8 min
+  - ayushman bharat eKYC failed
+  - ayushman bharat beneficiary ID error
+  - PMJAY card issue fix
+  - ayushman bharat helpline
+  - ayushman bharat re-verification
+  - ayushman card rejected at hospital
+  - PMJAY card activation problem
+readingTime: 9 min
 lastUpdated: "2026-03-06"
 officialLinks:
-  - 'https://pmjay.gov.in/'
-  - 'https://mera.pmjay.gov.in/'
-  - 'https://bis.pmjay.gov.in/'
-  - 'https://grievance.pmjay.gov.in/'
+  - "https://pmjay.gov.in/"
+  - "https://beneficiary.nha.gov.in/"
+  - "https://bis.pmjay.gov.in/"
 ---
 
-# Ayushman Bharat Card Not Working at Hospital? Here's How to Fix It
+# Ayushman Bharat Card Not Working? How to Fix Hospital Issues
 
-You've reached the hospital with your Ayushman Bharat (PMJAY) card, but it's not being accepted. This is stressful, but most issues have quick fixes. This guide covers every common reason your Ayushman Bharat card might not work and exactly what to do about it.
+If your Ayushman Bharat (PM-JAY) card is not being accepted at the hospital, don't panic. There are several common reasons this happens — from eKYC failures to beneficiary ID mismatches. This guide covers all the issues and how to fix them so you can get your free treatment.
 
-## Common Reasons Your Ayushman Bharat Card Is Not Working
+## What is the Ayushman Bharat Card?
 
-### 1. Hospital Is Not Empanelled Under PMJAY
+The Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY) card is a health insurance card that provides coverage up to ₹5 lakh per family per year for secondary and tertiary hospitalisation. The card (also called the Ayushman card or golden card) is needed at empanelled hospitals to avail cashless treatment.
 
-**Problem:** Not all hospitals accept Ayushman Bharat cards. Only empanelled (registered) hospitals under PMJAY can provide cashless treatment.
+---
 
-**Fix:**
-- Check if the hospital is empanelled at [pmjay.gov.in](https://pmjay.gov.in/) → Hospital search
-- Ask the hospital's help desk or Ayushman Mitra for confirmation
-- If the hospital is not empanelled, find the nearest empanelled hospital using the PMJAY portal or call **14555**
-- See our [Ayushman Bharat hospital list guide](/guide/ayushman-bharat-hospital-list-check) for detailed search steps
+## Common Reasons Your Ayushman Card Is Not Working
 
-### 2. Aadhaar-Based Verification Failed
-
-**Problem:** PMJAY uses Aadhaar-based biometric or OTP verification at the hospital. If verification fails, treatment cannot be authorized.
+### 1. eKYC Verification Failed
+The hospital must verify your identity through eKYC (Aadhaar-based biometric or OTP verification). Common failures:
+- **Biometric mismatch** — Fingerprints not matching due to worn fingers, cuts, or age
+- **Aadhaar OTP not received** — Mobile number not linked to Aadhaar
+- **Server down** — NHA or UIDAI servers temporarily unavailable
 
 **Fix:**
-- Ensure your **mobile number is linked to Aadhaar** for OTP verification
-- If biometric fails, ask the Ayushman Mitra to try OTP-based verification instead
-- If your Aadhaar details don't match (name, DOB, photo), update your [Aadhaar card](/guide/aadhaar-card-apply-online) first
-- Carry your **original Aadhaar card** — photocopies may not work for biometric
+- Try OTP-based verification if biometric fails
+- Ensure your mobile number is linked to [Aadhaar](/guide/aadhaar-card-apply-online)
+- Try again after some time if servers are down
+- Use iris scan if available at the hospital
 
-### 3. Beneficiary Name Mismatch
-
-**Problem:** Your name on the Ayushman card doesn't match your Aadhaar or the PMJAY database entry.
-
-**Fix:**
-- Visit the nearest Common Service Centre (CSC) or Ayushman Mitra to get the name corrected
-- Carry supporting documents (Aadhaar, ration card, SECC data)
-- Name corrections typically take 2-3 working days
-
-### 4. Card Not Yet Activated or Generated
-
-**Problem:** You may be eligible but haven't generated your Ayushman Bharat card yet, or the card hasn't been activated.
+### 2. Hospital Not Accepting Ayushman Card
+Some hospitals refuse PM-JAY cards despite being empanelled. Reasons:
+- Hospital's empanelment has expired or been suspended
+- The specific treatment is not covered under PM-JAY packages
+- Hospital staff are unaware of PM-JAY processes
 
 **Fix:**
-- Check your eligibility at [mera.pmjay.gov.in](https://mera.pmjay.gov.in/)
-- Visit any empanelled hospital's Ayushman Mitra desk or a CSC to get your card generated
-- Documents needed: Aadhaar card, ration card, any SECC family ID
-- Card generation is **free of cost** — don't pay anyone
+- Verify the hospital's empanelment status on [pmjay.gov.in](https://pmjay.gov.in/)
+- Check if your treatment is covered under PM-JAY packages
+- Call the Ayushman Bharat helpline: **14555** or **1800-111-565**
+- If the hospital wrongly refuses, file a complaint via the helpline
 
-### 5. Treatment Not Covered Under PMJAY Package
-
-**Problem:** PMJAY covers specific treatments and procedures under defined Health Benefit Packages (HBPs). Some treatments may not be included.
-
-**Fix:**
-- Ask the Ayushman Mitra which treatments are covered under your category
-- Check the package list at [pmjay.gov.in](https://pmjay.gov.in/)
-- PMJAY covers **1,929+ treatment packages** across 27 specialities
-- OPD consultations are generally **not covered** — PMJAY is for hospitalization
-
-### 6. ₹5 Lakh Annual Limit Exhausted
-
-**Problem:** Ayushman Bharat provides coverage of up to ₹5 lakh per family per year. If this limit is used up, further cashless treatment won't be approved.
+### 3. Beneficiary ID Not Found or Mismatch
+Your name, Aadhaar number, or family details don't match the PM-JAY database.
 
 **Fix:**
-- Check your remaining balance with the Ayushman Mitra at the hospital
-- The limit resets every policy year (not calendar year)
-- If the limit is exhausted, you may need to pay out of pocket or explore state-specific top-up schemes
+- Check your beneficiary status at [beneficiary.nha.gov.in](https://beneficiary.nha.gov.in/)
+- If details are wrong, visit your nearest Common Service Centre (CSC) or Ayushman Mitra at an empanelled hospital to get corrections done
+- Carry your original Aadhaar card, ration card, and any other ID for verification
 
-### 7. Technical/Server Issues
-
-**Problem:** The PMJAY verification system may be down due to server issues or connectivity problems at the hospital.
+### 4. Card Not Activated / Not Generated
+You may be eligible but haven't generated your Ayushman card yet.
 
 **Fix:**
-- Wait 15-30 minutes and try again
-- Ask the hospital to use an alternative verification method
-- Call the PMJAY helpline **14555** to report the technical issue
-- The hospital can also contact their state health agency
+- Visit the nearest CSC or empanelled hospital with Aadhaar card
+- Complete eKYC verification to generate your card
+- You can also generate the card through the [Beneficiary Identification System (BIS)](https://bis.pmjay.gov.in/)
+- Download your e-card from the Ayushman app
 
-## How to Re-Issue Your Ayushman Bharat Card
+### 5. Family Members Not Listed
+Some family members may be missing from the PM-JAY beneficiary list even if the family is eligible.
 
-If your card is lost, damaged, or has incorrect details:
+**Fix:**
+- Check all family members at [beneficiary.nha.gov.in](https://beneficiary.nha.gov.in/)
+- Visit a CSC with family ration card and Aadhaar cards of all members
+- Request addition of missing members through the Ayushman Mitra
 
-1. Visit the nearest **Common Service Centre (CSC)** or empanelled hospital's Ayushman Mitra desk
-2. Carry your **Aadhaar card** and **ration card**
-3. Complete Aadhaar-based verification (biometric or OTP)
-4. A new card will be generated — usually within **15-30 minutes**
-5. Card generation and re-issue is **completely free**
+### 6. Old RSBY Card Being Used
+If you have an old Rashtriya Swasthya Bima Yojana (RSBY) card, it has been replaced by Ayushman Bharat. The RSBY card is no longer valid.
 
-**Important:** Do not pay any agent or middleman for card generation. It is a free government service.
+**Fix:**
+- Generate a new Ayushman Bharat card at a CSC
+- Your RSBY beneficiary data has been migrated to PM-JAY
 
-## How to File a Complaint
+---
 
-### Call Helpline 14555
-- **Toll-free number:** 14555
-- **Available:** Monday to Saturday, 9 AM to 9 PM
-- Report issues like: card not accepted, hospital refusing treatment, corruption, or overcharging
-- Note down the complaint reference number
+## How to Re-Verify Your Ayushman Card
 
-### Online Grievance Portal
-- Visit [grievance.pmjay.gov.in](https://grievance.pmjay.gov.in/)
-- Register your complaint with details
-- Track status using your complaint ID
-- Resolution timeline: typically 15-30 working days
+If your card needs re-verification:
 
-### At the Hospital
-- Every empanelled hospital must have an **Ayushman Mitra** (Pradhan Mantri Arogya Mitra) at the help desk
-- The Ayushman Mitra is your first point of contact for any PMJAY-related issue
-- If the Ayushman Mitra cannot resolve it, ask for the **District Implementation Unit (DIU)** contact
+1. Visit the nearest **Common Service Centre (CSC)** or empanelled hospital
+2. Carry your **Aadhaar card** (original) and **ration card**
+3. Complete **eKYC** (biometric or OTP verification)
+4. The Ayushman Mitra will update your details in the system
+5. A new card or updated e-card will be generated
 
-## What to Carry to the Hospital
+**Processing time:** Usually completed on the same day.
 
-| Document | Purpose |
-|---|---|
-| Ayushman Bharat card | Primary identification |
-| Aadhaar card (original) | Biometric/OTP verification |
-| Ration card | Family identification backup |
-| Any referral letter | If referred from another hospital |
-| Previous medical records | For treatment continuity |
+---
+
+## Ayushman Bharat Helpline & Complaint Channels
+
+| Channel | Details |
+|---------|---------|
+| Toll-free helpline | **14555** (24x7) |
+| Alternate number | **1800-111-565** |
+| Official website | [pmjay.gov.in](https://pmjay.gov.in/) |
+| Grievance portal | [grievance.pmjay.gov.in](https://grievance.pmjay.gov.in/) |
+| Email | grievance-pmjay@nha.gov.in |
+| Ayushman app | Available on Google Play Store |
+
+**Tip:** When calling the helpline, keep your Aadhaar number and PM-JAY beneficiary ID ready for quick resolution.
+
+---
+
+## Documents Required for Fixing Card Issues
+
+- Aadhaar card (original + copy)
+- Ration card / family ID
+- PM-JAY beneficiary card (if available)
+- Mobile phone linked to Aadhaar (for OTP)
+- Hospital referral or prescription (if seeking treatment)
+- Any previous Ayushman card or RSBY card
+
+---
 
 ## Important Tips
 
-1. **Always verify hospital empanelment** before going — use the PMJAY portal or call 14555
-2. **Keep your Aadhaar mobile number updated** — OTP verification is the most common method
-3. **Card generation is free** — never pay anyone for making your Ayushman card
-4. **Check eligibility first** at [mera.pmjay.gov.in](https://mera.pmjay.gov.in/) — see our [eligibility guide](/guide/ayushman-bharat-eligibility-check)
-5. **In emergencies**, empanelled hospitals must provide treatment first and complete PMJAY verification within 24 hours
-
-## Frequently Asked Questions
-
-### Can a hospital refuse treatment if I have an Ayushman Bharat card?
-An empanelled hospital cannot refuse treatment for covered procedures if your card is valid and verified. If they do, call 14555 immediately to file a complaint.
-
-### Is there any charge for Ayushman Bharat card?
-No. The Ayushman Bharat card is completely free. Card generation, re-issue, and replacement are all free of cost. Do not pay any middleman.
-
-### What if the hospital says my name is not in the PMJAY list?
-Check your eligibility at [mera.pmjay.gov.in](https://mera.pmjay.gov.in/). If you are eligible but not showing in the system, visit a CSC with your Aadhaar and ration card to get added.
-
-### Can I use Ayushman Bharat card in a private hospital?
-Yes, if the private hospital is empanelled under PMJAY. Many private hospitals are empanelled. Check the hospital list on the PMJAY portal.
-
-### What if I need treatment that is not covered under PMJAY?
-PMJAY covers 1,929+ treatment packages. If your treatment is not covered, you will need to pay out of pocket. Check with the Ayushman Mitra for the list of covered treatments.
-
-### Can I use Ayushman Bharat card in another state?
-Yes. Ayushman Bharat is portable across India. You can use your card at any empanelled hospital in any state.
-
-### How do I check my remaining coverage balance?
-Ask the Ayushman Mitra at any empanelled hospital, or call 14555. The ₹5 lakh limit is per family per year.
+1. **Always verify hospital empanelment** before visiting — check on [pmjay.gov.in](https://pmjay.gov.in/) or call 14555
+2. **Link your mobile to Aadhaar** for smooth OTP-based eKYC at hospitals
+3. **Generate your card in advance** — don't wait until you need hospitalisation
+4. **Report hospital refusal** — empanelled hospitals cannot refuse PM-JAY beneficiaries for covered treatments; report violations on 14555
+5. **Keep Aadhaar updated** — name and biometric mismatches are the biggest cause of card failures
 
 ---
 
-*This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Government of India or NHA. Verify details at [pmjay.gov.in](https://pmjay.gov.in/) or call 14555.*
+## Frequently Asked Questions
+
+### Q1. My fingerprint is not matching at the hospital. What should I do?
+Ask for OTP-based verification instead of biometric. Ensure your mobile number is linked to Aadhaar. If neither works, try iris scan verification if available, or visit a CSC for re-verification.
+
+### Q2. The hospital says my name is not in the PM-JAY list. How do I check?
+Visit [beneficiary.nha.gov.in](https://beneficiary.nha.gov.in/) and search using your mobile number or Aadhaar number. You can also call 14555 to check your eligibility status.
+
+### Q3. Can I use Ayushman card at any hospital?
+No. You can only use it at PM-JAY empanelled hospitals. Check the hospital list at [pmjay.gov.in](https://pmjay.gov.in/). See our [Ayushman Bharat hospital list guide](/guide/ayushman-bharat-hospital-list-check) for details.
+
+### Q4. How do I add a missing family member to my Ayushman card?
+Visit the nearest CSC with the family member's Aadhaar card, family ration card, and your existing PM-JAY card. The CSC operator will help add the member after verification.
+
+### Q5. Is there any charge for generating or fixing the Ayushman card?
+No. Generating, re-generating, or fixing your Ayushman Bharat card is completely **free**. If anyone charges money, report them on 14555.
+
+### Q6. Can I get treatment while my card issue is being fixed?
+In emergencies, empanelled hospitals should admit you and start treatment. The card verification can be completed within 24 hours of admission. Inform the Ayushman Mitra at the hospital.
+
+### Q7. My Ayushman card shows the wrong photo. How do I fix it?
+Visit a CSC with your original Aadhaar card. The operator will update your photo through re-verification and generate a new card.
+
+---
+
+*Disclaimer: CitizenNest is an independent platform and is not affiliated with the National Health Authority (NHA) or PM-JAY. Information is based on official PM-JAY guidelines. Always verify with the helpline (14555) for the latest updates.*

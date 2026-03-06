@@ -1,175 +1,179 @@
 ---
 title: "NPS Account Open Online: Step-by-Step Registration Guide"
-description: >-
-  Complete guide to open NPS account online via eNPS portal. Covers Tier 1 vs
-  Tier 2, PRAN generation, documents, PFM selection, and tax benefits under 80CCD.
+description: "Complete guide to open NPS account online via eNPS portal using Aadhaar or PAN. Covers Tier 1 vs Tier 2, fund manager selection, and first contribution."
 category: Tax & Finance
 keywords:
   - nps account open online
-  - how to open nps account
-  - enps registration
+  - nps registration online
+  - enps account opening
   - nps tier 1 account
-  - nps pran card
-  - nps online registration
-  - nps tax benefit 80ccd
-  - national pension system account
-  - nps pension fund manager
-  - nps contribution online
+  - nps tier 2 account
+  - national pension system registration
+  - nps aadhaar registration
+  - nps pan registration
+  - nps fund manager selection
+  - pran card online
 readingTime: 10 min
-lastUpdated: "2026-03-06"
+lastUpdated: 2026-03-06
 officialLinks:
-  - 'https://enps.nsdl.com/eNPS/NationalPensionSystem.html'
-  - 'https://www.pfrda.org.in/'
+  - 'https://enps.nsdl.com/'
   - 'https://www.npscra.nsdl.co.in/'
-  - 'https://www.incometax.gov.in/'
+  - 'https://www.pfrda.org.in/'
 ---
 
 # NPS Account Open Online: Step-by-Step Registration Guide
 
-The **National Pension System (NPS)** is a government-backed retirement savings scheme regulated by the Pension Fund Regulatory and Development Authority (PFRDA). You can open an NPS account online through the **eNPS portal** in minutes using your Aadhaar and PAN. This guide covers the complete process, account types, and tax benefits.
+The National Pension System (NPS) is a government-backed retirement savings scheme regulated by the Pension Fund Regulatory and Development Authority (PFRDA). You can open an NPS account entirely online through the eNPS portal without visiting any office. This guide covers the complete registration process.
 
 ## What is NPS?
 
-NPS is a voluntary, defined-contribution pension system available to all Indian citizens aged 18–70 years. Your contributions are invested in market-linked funds managed by professional Pension Fund Managers (PFMs). At retirement (age 60), you receive a lump sum and a monthly pension through an annuity.
+NPS is a voluntary, defined-contribution pension scheme open to all Indian citizens aged 18-70. It offers market-linked returns through professional fund managers and provides a retirement corpus along with a regular pension (annuity) after retirement.
+
+**Key benefits:**
+- Tax deduction up to ₹1.5 lakh under Section 80CCD(1) within 80C limit
+- Additional ₹50,000 deduction under Section 80CCD(1B)
+- Employer contribution deduction under Section 80CCD(2) — up to 10% of salary (14% for central government)
+- Low fund management charges (0.01% — among the lowest globally)
+
+---
+
+## Tier 1 vs Tier 2 Account
+
+| Feature | Tier 1 | Tier 2 |
+|---|---|---|
+| **Type** | Pension account (mandatory) | Investment account (optional) |
+| **Lock-in** | Until age 60 (partial withdrawal allowed after 3 years) | No lock-in |
+| **Minimum Opening** | ₹500 | ₹1,000 |
+| **Minimum Annual** | ₹1,000 per year | ₹250 per contribution |
+| **Tax Benefit** | Up to ₹2 lakh deduction | No tax benefit (except government employees) |
+| **Withdrawal** | Restricted | Anytime, no restrictions |
+
+**Note:** You must have an active Tier 1 account to open a Tier 2 account. See our [NPS Tier 2 guide](/guide/nps-tier-2-account-guide) for details.
+
+---
 
 ## Who is Eligible?
 
-- Indian citizens (resident and NRI) aged **18 to 70 years**
-- Must have a valid **Aadhaar card** and **PAN card**
-- OCI cardholders are **not eligible**
-- Both salaried and self-employed individuals can open NPS
+- Indian citizens (resident and NRI) aged 18-70 years
+- Must have valid Aadhaar or PAN card
+- Must have an active Indian bank account
+- Mobile number linked to Aadhaar (for Aadhaar-based registration)
 
-## NPS Tier 1 vs Tier 2: Key Differences
-
-| Feature | Tier 1 (Pension) | Tier 2 (Investment) |
-|---|---|---|
-| Purpose | Retirement savings | Voluntary savings |
-| Lock-in | Until age 60 (partial withdrawal allowed) | No lock-in |
-| Minimum opening contribution | ₹500 | ₹1,000 |
-| Minimum annual contribution | ₹1,000 | ₹250 per contribution |
-| Tax benefit under 80CCD | Yes (up to ₹2 lakh) | No (except govt employees) |
-| Withdrawal | Restricted | Anytime |
-| Prerequisite | None | Active Tier 1 account required |
-
-> **Note:** You must open a Tier 1 account first. Tier 2 can be added later. See our [NPS Tier 2 guide](/guide/nps-tier-2-account-guide) for details.
+---
 
 ## Documents Required
 
-- **Aadhaar card** — linked to active mobile number (for eKYC/OTP)
-- **PAN card** — mandatory for tax benefits
+- **Aadhaar card** — for e-KYC based online registration
+- **PAN card** — for PAN-based registration
 - **Bank account details** — account number, IFSC code
-- **Passport-size photograph** — scanned copy (for upload)
-- **Signature** — scanned copy (JPEG/PNG)
-- **Cancelled cheque or bank statement** — for bank verification
+- **Scanned photograph** — JPEG format, max 500 KB
+- **Scanned signature** — JPEG format, max 500 KB
+- **Cancelled cheque or bank statement** — for bank proof (PAN-based registration)
 
-## Step-by-Step Process: Open NPS Account Online via eNPS
+---
 
-### Step 1: Visit the eNPS Portal
-Go to [https://enps.nsdl.com/eNPS/NationalPensionSystem.html](https://enps.nsdl.com/eNPS/NationalPensionSystem.html)
+## Step-by-Step Process: Open NPS Account Online (eNPS Portal)
 
-### Step 2: Click on "Registration"
-Select **"Registration"** under the National Pension System section. Choose your subscriber type — **Individual** for most users.
+### Method 1: Aadhaar-Based Registration (Recommended)
 
-### Step 3: Enter PAN and Aadhaar Details
-- Enter your **PAN number**
-- Select account type: **Tier 1** (mandatory) and optionally **Tier 2**
-- Enter your **Aadhaar number** linked to your mobile
+1. **Visit eNPS portal** — Go to [enps.nsdl.com](https://enps.nsdl.com/) and click on "Registration"
+2. **Select registration type** — Choose "Individual Subscriber" and select "Aadhaar" as the registration method
+3. **Enter Aadhaar number** — Enter your 12-digit Aadhaar number and verify with OTP sent to your Aadhaar-linked mobile
+4. **Verify details** — Your name, date of birth, and address will be auto-fetched from Aadhaar. Verify the details
+5. **Fill personal details** — Enter email ID, communication address, bank account details, and nominee information
+6. **Select scheme preference:**
+   - **Tier 1:** Mandatory — select this
+   - **Tier 2:** Optional — you can add later
+7. **Choose fund manager (Pension Fund Manager - PFM):**
+   - SBI Pension Fund
+   - LIC Pension Fund
+   - UTI Retirement Solutions
+   - HDFC Pension Management
+   - ICICI Prudential Pension Fund
+   - Kotak Mahindra Pension Fund
+   - Aditya Birla Sun Life Pension Management
+8. **Select investment choice:**
+   - **Auto Choice (Lifecycle Fund):** Asset allocation changes automatically based on age — recommended for beginners
+   - **Active Choice:** You decide the allocation between Equity (E), Corporate Bonds (C), Government Securities (G), and Alternative Assets (A)
+9. **Upload photo and signature** — Upload scanned copies as per specifications
+10. **Make first contribution** — Minimum ₹500 for Tier 1. Pay via net banking, debit card, or UPI
+11. **Get PRAN** — After successful payment, your Permanent Retirement Account Number (PRAN) is generated. Save this number
 
-### Step 4: Complete Aadhaar eKYC
-- An OTP is sent to your Aadhaar-linked mobile number
-- Enter the OTP to verify your identity
-- Your name, date of birth, and address are auto-filled from Aadhaar
+### Method 2: PAN-Based Registration
 
-### Step 5: Fill Personal and Bank Details
-- Verify pre-filled details from Aadhaar
-- Enter your **bank account number** and **IFSC code**
-- Upload **photograph** and **signature** (JPEG, max 500 KB each)
+1. Visit [enps.nsdl.com](https://enps.nsdl.com/) and click "Registration"
+2. Select "Individual Subscriber" and choose "PAN" as the registration method
+3. Enter PAN number and verify details
+4. Fill all personal, bank, and nominee details
+5. Upload photograph, signature, PAN card copy, and cancelled cheque
+6. Choose fund manager and investment preference
+7. Make the initial contribution online
+8. Receive acknowledgement number — your PRAN is generated after verification (takes 2-3 working days)
 
-### Step 6: Select Pension Fund Manager (PFM)
-Choose one PFM from the available options:
-- SBI Pension Fund
-- LIC Pension Fund
-- UTI Retirement Solutions
-- HDFC Pension Fund
-- ICICI Prudential Pension Fund
-- Kotak Mahindra Pension Fund
-- Aditya Birla Sun Life Pension Fund
+---
 
-You can change your PFM later (once per year).
+## Fund Manager Selection Tips
 
-### Step 7: Choose Investment Scheme
-- **Active Choice:** You select the allocation between Equity (E), Corporate Bonds (C), and Government Securities (G). Max equity: 75% (reduces after age 50).
-- **Auto Choice (Lifecycle Fund):** Allocation is managed automatically based on your age. Three sub-options: Aggressive (LC-75), Moderate (LC-50), Conservative (LC-25).
+- All 7 fund managers are PFRDA-registered and regulated
+- Compare past returns on the [NPS Trust website](https://www.npstrust.org.in/)
+- You can change your fund manager once per year at no cost
+- You can also change your investment scheme (Auto/Active) once per year
 
-### Step 8: Add Nominee Details
-Enter nominee name, relationship, and share percentage. You can add up to 3 nominees.
-
-### Step 9: Make Initial Contribution
-- Minimum ₹500 for Tier 1, ₹1,000 for Tier 2
-- Pay via **net banking, debit card, or UPI**
-
-### Step 10: PRAN Generation
-After successful payment, your **Permanent Retirement Account Number (PRAN)** is generated. Download and save your PRAN acknowledgement. A physical PRAN card is dispatched to your registered address.
+---
 
 ## Fees
 
 | Item | Amount |
 |---|---|
-| eNPS registration (online) | Free |
-| PRAN card (physical) | ₹200 (deducted from contribution) |
-| Annual CRA maintenance charge | ₹50–₹75 per year |
-| PFM investment management fee | 0.01%–0.09% of AUM |
-| Tier 1 minimum annual contribution | ₹1,000 |
-
-## Tax Benefits Under NPS
-
-| Section | Deduction | Limit |
-|---|---|---|
-| 80CCD(1) | Employee/self contribution to Tier 1 | Up to 10% of salary (within 80C limit of ₹1.5 lakh) |
-| 80CCD(1B) | Additional contribution to Tier 1 | ₹50,000 (over and above 80C) |
-| 80CCD(2) | Employer contribution to Tier 1 | Up to 14% of salary (central govt) / 10% (others) — no cap |
-
-**Total potential deduction:** Up to ₹2 lakh+ for salaried individuals.
-
-At maturity, 60% lump sum withdrawal is **tax-free**. The annuity portion is taxed as per your income slab. See our [NPS exit at 60 guide](/guide/nps-exit-maturity-guide) for details.
-
-## Processing Time
-
-- **PRAN generation:** Instant (online via eNPS with Aadhaar eKYC)
-- **Physical PRAN card delivery:** 15–20 working days
-- **Contribution reflection:** 2–3 working days
-
-## Important Tips
-
-1. **Keep your Aadhaar mobile number active** — OTP verification is mandatory for online registration
-2. **Choose Active Choice if you understand investing** — otherwise, Auto Choice (Moderate LC-50) is a safe default
-3. **Contribute at least ₹1,000 per year** to keep your Tier 1 account active; accounts with zero contribution for 3+ years may be frozen
-4. **Claim the extra ₹50,000 deduction under 80CCD(1B)** — this is over and above the ₹1.5 lakh limit of Section 80C
-5. **You can change your PFM or investment choice once per financial year** through the CRA portal
-
-## FAQs
-
-### Q1. Can I open NPS account without Aadhaar?
-Yes, but only offline through a Point of Presence (POP) by submitting physical KYC documents. Online eNPS registration requires Aadhaar with active mobile number.
-
-### Q2. What is PRAN in NPS?
-PRAN (Permanent Retirement Account Number) is your unique 12-digit NPS account number. It remains the same throughout your life, even if you change employer or city.
-
-### Q3. Can I have two NPS accounts?
-No. Only one PRAN is allowed per person. If you have multiple PRANs, you must merge them through the CRA.
-
-### Q4. What is the minimum contribution for NPS?
-Minimum ₹500 per contribution for Tier 1, ₹1,000 minimum opening for Tier 2, and ₹1,000 minimum per year to keep Tier 1 active.
-
-### Q5. Can NRIs open NPS account?
-Yes, NRIs can open NPS Tier 1 account. Contributions must be made from an NRE/NRO bank account. If the subscriber's citizenship status changes (e.g., becomes OCI), the account will be closed.
-
-### Q6. Is NPS better than PPF?
-NPS offers market-linked returns (historically 9–12%) with partial equity exposure, while PPF gives guaranteed returns (~7.1%). NPS has mandatory annuity purchase at maturity; PPF is fully withdrawable. NPS gives extra ₹50,000 tax deduction under 80CCD(1B).
-
-### Q7. Can I withdraw from NPS before 60?
-Partial withdrawal is allowed after 3 years for specific purposes (max 25% of own contributions). Premature exit before 60 requires 80% annuity purchase. See our [NPS partial withdrawal guide](/guide/nps-withdrawal-partial-guide).
+| Account opening | Free (online via eNPS) |
+| Minimum first contribution (Tier 1) | ₹500 |
+| Minimum annual contribution (Tier 1) | ₹1,000 |
+| PRAN card reprint | ₹50 + GST |
+| Fund management charges | 0.01% of AUM |
+| CRA charges | ₹60-₹95 per year |
 
 ---
 
-*This guide is for informational purposes only and is not affiliated with any government body. Information is based on PFRDA and CRA-NSDL official sources. Rules and limits may change — always verify on the [official eNPS portal](https://enps.nsdl.com/eNPS/NationalPensionSystem.html).*
+## Processing Time
+
+- **Aadhaar-based:** PRAN generated instantly after payment
+- **PAN-based:** 2-3 working days for PRAN generation after document verification
+
+---
+
+## Important Tips
+
+1. **Keep your PRAN number safe** — this is your unique NPS identity. You will need it for all future transactions
+2. **Link your Aadhaar to PRAN** — if you registered via PAN, link Aadhaar later for easier online transactions
+3. **Set up auto-debit** — configure a standing instruction with your bank for regular monthly contributions
+4. **Check your NPS statement regularly** — log in to the CRA website at [cra-nsdl.com](https://cra-nsdl.com/) to track your corpus
+5. **Tier 1 has exit rules** — understand [NPS exit and withdrawal rules](/guide/nps-exit-maturity-guide) before investing
+
+---
+
+## Frequently Asked Questions
+
+### Can NRIs open an NPS account?
+Yes, NRIs can open an NPS account online through the eNPS portal. Contributions must be made from an NRI bank account (NRE/NRO). However, OCI (Overseas Citizen of India) cardholders are not eligible.
+
+### What happens if I don't contribute the minimum ₹1,000 per year to Tier 1?
+Your account will be frozen. To reactivate, you must pay the minimum contribution of ₹1,000 plus a penalty of ₹100 per year of non-contribution.
+
+### Can I have more than one NPS account?
+No. Each individual can have only one PRAN (Permanent Retirement Account Number). If you already have an NPS account through your employer, you cannot open a separate one.
+
+### Can I change my fund manager after opening the account?
+Yes, you can change your Pension Fund Manager once per financial year. This can be done online through the CRA website or the NPS app.
+
+### Is NPS better than PPF for retirement planning?
+NPS offers potentially higher returns (market-linked) with equity exposure, while [PPF](/guide/ppf-account-open-online) offers guaranteed returns with full tax exemption. NPS is better for higher growth potential; PPF is safer. Many investors use both.
+
+### What is the maximum age to open an NPS account?
+The maximum entry age is 70 years. Earlier it was 65, but PFRDA increased it to 70 in 2021.
+
+### Can I open NPS account without Aadhaar?
+Yes, you can open an NPS account using your PAN card. However, the process takes longer as documents need to be verified manually.
+
+---
+
+*This guide is for informational purposes only and is not affiliated with PFRDA, NSDL, or any government body. Rules and processes may change — always verify on the [official eNPS portal](https://enps.nsdl.com/) or [PFRDA website](https://www.pfrda.org.in/).*

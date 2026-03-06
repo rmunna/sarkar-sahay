@@ -1,201 +1,188 @@
 ---
-title: "Motor Insurance Renewal Online: Compare & Renew"
+title: "Motor Insurance Renewal Online: Compare & Renew Your Policy"
 description: >-
-  Complete guide to renew motor insurance online in India. Compare third-party vs
-  comprehensive, transfer NCB, documents needed, and IRDAI rules explained.
+  How to renew motor insurance online in India. Compare third-party vs comprehensive,
+  transfer NCB, renew expired policy, and use official IRDAI-regulated portals.
 category: Tax & Finance
 keywords:
   - motor insurance renewal online
   - car insurance renewal
-  - bike insurance renewal online
-  - third party vs comprehensive insurance
-  - NCB transfer
-  - motor vehicle insurance India
-  - IRDAI motor insurance rules
-  - two wheeler insurance renewal
-  - online insurance comparison
-  - motor insurance documents
+  - bike insurance renewal
+  - third party insurance
+  - comprehensive insurance
+  - ncb transfer
+  - expired motor insurance
+  - vehicle insurance renewal
+  - irdai motor insurance
+  - two wheeler insurance online
+lastUpdated: '2026-03-06'
 readingTime: 10 min
-lastUpdated: "2026-03-06"
 officialLinks:
-  - 'https://irdai.gov.in/'
+  - 'https://www.irdai.gov.in/'
   - 'https://parivahan.gov.in/'
-  - 'https://igms.irda.gov.in/'
+  - 'https://iib.gov.in/'
 ---
 
-# Motor Insurance Renewal Online: Compare & Renew
+# Motor Insurance Renewal Online: Compare & Renew Your Policy
 
-Motor insurance is mandatory for every vehicle on Indian roads under the Motor Vehicles Act, 1988. Whether you own a car or a two-wheeler, you must have at least a third-party insurance policy. This guide explains how to renew your motor insurance online, compare policies, transfer your No Claim Bonus (NCB), and understand IRDAI regulations.
+Motor insurance is **mandatory in India** under the Motor Vehicles Act, 1988. Driving without valid insurance can attract a fine of ₹2,000 (or ₹4,000 for repeat offences) and even imprisonment. This guide covers everything about renewing your motor insurance online.
 
-## What is Motor Insurance?
-
-Motor insurance is a contract between you and an insurance company that protects you against financial loss due to accidents, theft, or damage to your vehicle. In India, the Insurance Regulatory and Development Authority of India (IRDAI) regulates all motor insurance policies.
-
-There are two main types of motor insurance:
-
-- **Third-Party (TP) Insurance** — Mandatory by law. Covers damage you cause to another person, vehicle, or property. Does NOT cover your own vehicle damage.
-- **Comprehensive Insurance** — Covers third-party liability PLUS damage to your own vehicle from accidents, theft, fire, natural disasters, etc.
+> **Disclaimer:** CitizenNest is an independent informational platform and is not affiliated with IRDAI or any insurance company.
 
 ---
 
-## Third-Party vs Comprehensive Insurance
+## Types of Motor Insurance
 
-| Feature | Third-Party Only | Comprehensive |
-|---------|-----------------|---------------|
-| Legal requirement | Mandatory | Optional (but recommended) |
-| Own vehicle damage | ❌ Not covered | ✅ Covered |
-| Third-party liability | ✅ Covered | ✅ Covered |
-| Theft protection | ❌ | ✅ |
-| Natural disaster damage | ❌ | ✅ |
-| Personal accident cover | ✅ (owner-driver) | ✅ (owner-driver) |
-| Premium | Lower (fixed by IRDAI) | Higher (varies by insurer) |
-| NCB available | ❌ | ✅ |
+| Type | What It Covers | Who Needs It |
+|---|---|---|
+| **Third-Party (TP)** | Liability to third parties — injury, death, property damage | Mandatory for all vehicles by law |
+| **Comprehensive** | TP liability + own damage (accident, theft, fire, natural disaster) | Recommended for all vehicle owners |
+| **Standalone OD** | Only own-damage cover (must have separate TP policy) | Those who want to buy OD and TP separately |
 
-**Tip:** Third-party premiums are fixed by IRDAI and are the same across all insurers. Comprehensive premiums vary — this is where comparison helps.
+### Third-Party vs Comprehensive: Which to Choose?
+
+- **New vehicles:** Always go for **comprehensive** — protects your investment
+- **Old vehicles (8+ years):** Third-party may suffice if the vehicle's market value is low
+- **Financed vehicles:** Banks/NBFCs **mandate comprehensive** insurance until the loan is repaid
 
 ---
 
-## No Claim Bonus (NCB) — How It Works
+## No Claim Bonus (NCB) — Don't Lose It
 
-NCB is a discount on your comprehensive premium for every claim-free year:
+NCB is a **discount** on your own-damage premium for every claim-free year:
 
 | Claim-Free Years | NCB Discount |
-|-----------------|-------------|
+|---|---|
 | 1 year | 20% |
 | 2 years | 25% |
 | 3 years | 35% |
 | 4 years | 45% |
 | 5+ years | 50% |
 
-### NCB Transfer Rules
-
-- NCB belongs to the **policyholder**, not the vehicle
-- You can transfer NCB when switching insurers — request an NCB certificate from your current insurer
-- NCB can be transferred to a new vehicle you purchase
-- If your policy lapses for more than 90 days, you lose your NCB
-- IRDAI now allows NCB retention even after a claim in certain cases (check with insurer)
+**Key NCB rules:**
+- NCB belongs to the **policyholder**, not the vehicle — you can transfer it when you buy a new vehicle
+- NCB is **lost if you file a claim** (resets to 0%)
+- NCB lapses if your policy is expired for **more than 90 days**
+- You can protect NCB with an **NCB Protector add-on** (available with most insurers)
 
 ---
 
-## How to Renew Motor Insurance Online — Step by Step
+## How to Renew Motor Insurance Online: Step-by-Step
 
-### Step 1: Gather Your Documents
+### Step 1: Gather Your Details
+- Current policy number and expiry date
+- Vehicle registration number
+- Chassis number and engine number (on RC)
+- Previous year's NCB percentage
 
-- Current or expired insurance policy copy
+### Step 2: Compare Plans
+- Visit the insurer's website or an IRDAI-regulated aggregator
+- Enter your vehicle number — details are auto-fetched from Parivahan/IIB
+- Compare: **IDV (Insured Declared Value)**, premium, add-ons, and claim settlement ratio
+
+### Step 3: Choose Your Plan
+- Select **Third-Party only** or **Comprehensive**
+- Choose **IDV** — this is the maximum payout for total loss/theft (ideally keep it close to market value)
+- Add useful **add-ons**: Zero Depreciation, Roadside Assistance, Engine Protector, NCB Protector
+
+### Step 4: Verify & Pay
+- Verify vehicle details, nominee, and contact information
+- Pay via **net banking, UPI, debit/credit card**
+- Policy is issued **instantly** via email/SMS
+
+### Step 5: Download Your Policy
+- Download the **PDF policy document**
+- Save it on your phone — traffic police accept digital copies via DigiLocker or insurer apps
+
+---
+
+## How to Renew an Expired Motor Insurance Policy
+
+If your policy has **lapsed** (expired), follow these steps:
+
+| Lapse Duration | What Happens |
+|---|---|
+| **0–90 days** | Most insurers allow online renewal with NCB intact |
+| **90 days – 1 year** | NCB is lost; vehicle inspection may be required |
+| **More than 1 year** | Treated as a **fresh policy**; vehicle inspection mandatory |
+
+### Steps for Expired Policy Renewal:
+1. Contact an insurer (online or branch)
+2. Get a **vehicle inspection** done (insurer sends an inspector or you upload photos via their app)
+3. Pay the premium (NCB may be lost depending on lapse duration)
+4. New policy is issued after inspection approval
+
+> ⚠️ **Driving with expired insurance is illegal.** Third-party cover must always be active.
+
+---
+
+## Documents Required
+
+### For Renewal
+- Previous policy copy (if available)
 - Vehicle Registration Certificate (RC)
-- Driving licence of the owner
-- PAN card or Aadhaar for KYC
-- Previous year's NCB proof (if switching insurer)
-- Vehicle inspection report (if policy lapsed more than 90 days)
+- PAN card (for high-value policies)
 
-### Step 2: Compare Policies Online
-
-Visit any of these platforms to compare:
-
-- Your current insurer's website
-- IRDAI-licensed web aggregators (PolicyBazaar, Coverfox, etc.)
-- Individual insurer websites (New India Assurance, ICICI Lombard, HDFC ERGO, etc.)
-
-**What to compare:**
-- Premium amount for same coverage
-- Claim settlement ratio (CSR) of the insurer
-- Cashless garage network in your city
-- Add-on covers available (zero depreciation, engine protect, roadside assistance)
-- Customer reviews and claim experience
-
-### Step 3: Select Your Policy
-
-Choose between:
-- **Third-party only** — if you want minimum legal compliance
-- **Comprehensive** — recommended for newer vehicles
-- **Comprehensive + add-ons** — best protection
-
-### Step 4: Fill Details and Pay Online
-
-1. Visit the insurer's website or app
-2. Enter your vehicle registration number
-3. The system may auto-fetch your vehicle and previous policy details
-4. Verify/update personal and vehicle information
-5. Select coverage type and add-ons
-6. Review the premium breakdown
-7. Pay via net banking, UPI, credit/debit card
-8. Download your policy document (sent via email too)
-
-### Step 5: Verify Your New Policy
-
-- Check that all vehicle details (make, model, registration number, engine/chassis number) are correct
-- Verify the policy period (start and end date)
-- Confirm NCB discount is applied
-- Save a digital and physical copy
+### For Claim
+- Policy copy
+- FIR (for theft/accident involving third party)
+- Driving licence of the person driving at the time of accident
+- RC copy
+- Repair estimates / bills
+- Photographs of damage
 
 ---
 
-## IRDAI Rules You Should Know
+## Fees & Premium Factors
 
-1. **Third-party insurance is mandatory** — Driving without it is punishable with fine up to ₹2,000 and/or imprisonment up to 3 months under the Motor Vehicles Act
-2. **Long-term third-party policies** — IRDAI mandates 3-year TP cover for new cars and 5-year TP cover for new two-wheelers (bought after September 2018)
-3. **Owner-driver PA cover** — Mandatory ₹15 lakh personal accident cover for owner-driver (can be opted out with a declaration)
-4. **Grace period** — There is no official grace period. If your policy expires, you are uninsured from that moment
-5. **Lapsed policy** — If expired more than 90 days, vehicle inspection is required before renewal
-6. **Portability** — You can switch insurers at renewal without losing NCB
+Motor insurance premiums depend on:
 
----
+| Factor | Impact |
+|---|---|
+| **Vehicle type** | Cars cost more than two-wheelers |
+| **Engine capacity / EV** | Higher CC = higher TP premium (fixed by IRDAI) |
+| **Vehicle age** | Older vehicles have lower IDV = lower OD premium |
+| **NCB** | Up to 50% discount on OD premium |
+| **City (Zone)** | Metro cities have higher premiums |
+| **Add-ons** | Zero depreciation, RSA, etc. increase premium |
 
-## Fees and Premium Ranges (Indicative, 2025-26)
-
-| Vehicle Type | Third-Party Premium (Annual) | Comprehensive (Approx.) |
-|-------------|------------------------------|------------------------|
-| Two-wheeler (up to 150cc) | ₹482 – ₹1,193 | ₹1,500 – ₹4,000 |
-| Two-wheeler (150cc+) | ₹1,193 – ₹2,323 | ₹3,000 – ₹7,000 |
-| Private car (up to 1000cc) | ₹2,094 | ₹5,000 – ₹15,000 |
-| Private car (1000-1500cc) | ₹3,416 | ₹8,000 – ₹25,000 |
-| Private car (1500cc+) | ₹7,897 | ₹15,000 – ₹50,000+ |
-
-*Third-party premiums are IRDAI-fixed. Comprehensive premiums depend on IDV, location, NCB, and add-ons.*
+**Third-party premium rates are fixed by IRDAI** and are the same across all insurers. Only the own-damage component varies.
 
 ---
 
 ## Important Tips
 
-1. **Renew before expiry** — Don't let your policy lapse; you lose NCB and need vehicle inspection after 90 days
-2. **Compare at least 3-4 insurers** — Premiums for comprehensive cover can vary significantly
-3. **Check claim settlement ratio** — A high CSR (above 90%) indicates the insurer pays most claims
-4. **Choose the right IDV** — Insured Declared Value should reflect your vehicle's current market value; don't under-insure to save premium
-5. **Consider zero depreciation add-on** — For vehicles under 5 years old, this add-on ensures full claim payment without depreciation deduction
+1. **Renew before expiry** — don't let your policy lapse even for a day; you lose legal cover and NCB
+2. **Compare at least 3 insurers** — OD premiums and add-on prices vary significantly
+3. **Check claim settlement ratio (CSR)** — choose insurers with CSR above 90% (data available on IRDAI website)
+4. **Keep IDV realistic** — too low means less payout; too high means higher premium
+5. **Use DigiLocker** — link your vehicle insurance for instant access during traffic checks
 
 ---
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQs)
 
-### Q1. Can I renew my motor insurance after it has expired?
-Yes, you can renew even after expiry. However, if the policy has lapsed for more than 90 days, the insurer may require a vehicle inspection. You will also lose your accumulated NCB.
+### Q1: Can I switch my motor insurance company at renewal?
+**Yes.** You can switch to any IRDAI-registered insurer at renewal time. Your NCB is transferable — just provide the previous policy copy as proof.
 
-### Q2. Is third-party insurance enough?
-Legally, yes. But third-party insurance does NOT cover damage to your own vehicle. For newer or expensive vehicles, comprehensive insurance is strongly recommended.
+### Q2: Is third-party motor insurance compulsory?
+**Yes.** Under the Motor Vehicles Act, 1988, every vehicle on Indian roads must have at least third-party insurance. Driving without it is a punishable offence.
 
-### Q3. Can I switch my insurer at renewal?
-Yes. IRDAI allows free portability at renewal. You can carry your NCB to the new insurer by requesting an NCB certificate from your current insurer.
+### Q3: What is IDV and how is it calculated?
+**Insured Declared Value (IDV)** is the current market value of your vehicle minus depreciation. It represents the maximum amount the insurer will pay in case of total loss or theft.
 
-### Q4. What is IDV and why does it matter?
-Insured Declared Value (IDV) is the maximum amount the insurer will pay if your vehicle is stolen or totally damaged. It is based on the manufacturer's listed selling price minus depreciation. A higher IDV means higher premium but better coverage.
+### Q4: Can I renew my insurance online if the policy has expired?
+If expired for **less than 90 days**, most insurers allow online renewal. Beyond that, a **vehicle inspection** is typically required before renewal.
 
-### Q5. What happens if I drive without insurance?
-Under the Motor Vehicles Act, 1988 (amended 2019), driving without insurance can attract a fine of ₹2,000 and/or imprisonment up to 3 months for first offence, and ₹4,000 for subsequent offences.
+### Q5: What add-ons are worth buying?
+**Zero Depreciation** is the most valuable add-on — it ensures full claim without depreciation deduction on parts. **Roadside Assistance** and **Engine Protector** are also useful for newer vehicles.
 
-### Q6. Are online motor insurance policies valid?
-Yes. Online policies issued by IRDAI-licensed insurers are fully valid and legally equivalent to offline policies. You receive a digital policy document that is accepted everywhere.
+### Q6: How do I transfer NCB to a new vehicle?
+Inform your insurer when buying the new vehicle's policy. Provide the old policy details as proof of NCB. The insurer will apply the applicable NCB discount to the new policy's OD premium.
 
-### Q7. How is NCB verified when switching insurers?
-The new insurer verifies your NCB through the previous insurer's records or the IIB (Insurance Information Bureau) database. Keep your previous policy and NCB certificate handy.
-
----
-
-## Related Guides
-
-- [Term Insurance: How to Choose & Buy the Best Plan](/guide/term-insurance-buy-guide)
-- [Insurance Complaint? File with Ombudsman](/guide/insurance-ombudsman-complaint)
-- [PAN Card Apply Online](/guide/pan-card-apply-online)
+### Q7: Where can I verify if an insurance company is genuine?
+Check the **IRDAI website** at [irdai.gov.in](https://www.irdai.gov.in/) for the list of registered general insurance companies.
 
 ---
 
-*Disclaimer: CitizenNest is an independent platform and is not affiliated with IRDAI or any insurance company. Information is for guidance only. Always verify details on [irdai.gov.in](https://irdai.gov.in/) and your insurer's official website.*
+*Also see our [PMJJBY & PMSBY guide](/guide/pmjjby-pmsby-insurance-guide) for government-backed life and accident insurance at ₹448/year.*

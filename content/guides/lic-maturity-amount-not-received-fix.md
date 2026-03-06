@@ -1,242 +1,222 @@
 ---
 title: "LIC Maturity Amount Not Received? Track & Fix"
 description: >-
-  Track and fix LIC maturity claim delays. Learn about discharge vouchers, bank
-  detail updates, NEFT claims, and how to complain to LIC and IRDAI.
+  LIC maturity amount not received? Track your maturity claim, fix NEFT issues,
+  submit survival benefit forms, and know the timeline for payment.
 category: Tax & Finance
 keywords:
   - lic maturity amount not received
-  - lic maturity claim
+  - lic maturity claim status
   - lic maturity payment delay
-  - lic discharge voucher
-  - lic maturity bank details update
-  - lic neft claim
-  - lic maturity complaint
+  - lic survival benefit not received
+  - lic maturity claim form
+  - lic neft details update
   - lic maturity amount track
-  - lic policy maturity process
-  - lic irdai complaint
-readingTime: 9 min
+  - lic maturity payment timeline
+  - lic maturity branch visit
+  - lic maturity complaint
+readingTime: 8 min
 lastUpdated: "2026-03-06"
 officialLinks:
-  - "https://licindia.in/"
-  - "https://customer.licindia.in/fce-customer/"
-  - "https://igms.irda.gov.in/"
+  - 'https://licindia.in/'
+  - 'https://ebiz.licindia.in/D2CPM/'
+  - 'https://licindia.in/Bottom-Links/Grievance-Redressal'
 ---
 
 # LIC Maturity Amount Not Received? Track & Fix
 
-If your LIC policy has matured but you have not received the maturity amount, this guide will help you understand the process, track your claim, and resolve delays. LIC typically processes maturity claims within 30 days, but delays can happen due to missing documents, incorrect bank details, or processing backlogs.
+If your LIC policy has matured but you haven't received the maturity amount, this guide will help you track the payment, fix common issues like incorrect NEFT details, and escalate if needed.
 
-## How LIC Maturity Payment Works
+## When Should You Receive the Maturity Amount?
 
-When your LIC policy reaches its maturity date:
+- LIC sends a **maturity intimation letter** about 2-3 months before your policy maturity date
+- The maturity amount should be credited to your bank account **within 30 days** of the maturity date
+- For **survival benefits** (periodic payouts in money-back policies), payment is usually within 15-30 days of the due date
 
-1. **LIC sends a letter/SMS** about 2-3 months before maturity with instructions
-2. **You submit the discharge voucher** and required documents to your servicing branch
-3. **LIC processes the claim** and credits the maturity amount via NEFT to your bank account
-4. **Maturity amount** = Sum Assured + Accumulated Bonus + Final Additional Bonus (if any)
-
----
-
-## Why Maturity Amount Gets Delayed
+## Common Reasons for Delayed Maturity Payment
 
 | Reason | Solution |
-|--------|----------|
-| Discharge voucher not submitted | Submit it to your LIC branch immediately |
-| Bank details not updated / incorrect | Update bank details at your branch |
-| Policy documents missing | Submit original policy bond |
-| KYC not complete | Submit Aadhaar, PAN, and cancelled cheque |
-| LIC processing backlog | Follow up with branch or call helpline |
-| NEFT transfer failed | Verify bank account number and IFSC code |
-| Nominee claim (policyholder deceased) | Additional documents required |
+|---|---|
+| **Incorrect/missing NEFT details** | Update bank details with LIC |
+| **Discharge form not submitted** | Submit the signed discharge voucher |
+| **KYC not completed** | Submit Aadhaar, PAN, and bank proof |
+| **Policy documents not submitted** | Submit original policy bond |
+| **Nomination/assignment issues** | Resolve at branch |
+| **Outstanding loan against policy** | Loan amount deducted from maturity |
+| **TDS deduction confusion** | Maturity taxable if premium > 10% of sum assured |
 
----
+## Step 1: Check if LIC Sent Maturity Intimation
 
-## Step-by-Step: How to Claim LIC Maturity Amount
+About 2-3 months before maturity, LIC sends an intimation letter/SMS to your registered address and mobile number:
 
-### Step 1: Gather Required Documents
+- The letter contains a **Discharge Voucher** (Form No. 3825) that you need to sign and return
+- If you didn't receive the letter, your **address or mobile number may be outdated** with LIC
 
-- **Original policy bond**
-- **Discharge voucher** (Form No. 3825 — sent by LIC before maturity, also available at branch)
-- **ID proof** — Aadhaar card or PAN card
-- **Cancelled cheque** or bank passbook copy (with your name, account number, IFSC)
-- **NEFT mandate form** (for direct bank transfer)
+**What to do:**
+1. Log in to [ebiz.licindia.in](https://ebiz.licindia.in/D2CPM/)
+2. Check your policy details and maturity date
+3. Contact your servicing branch to confirm the intimation was sent
 
-### Step 2: Submit Documents to Your LIC Branch
+## Step 2: Submit Required Documents
 
-1. Visit your **servicing branch** (the branch mentioned on your policy bond)
-2. Submit the discharge voucher signed by the policyholder
-3. Submit the original policy bond
-4. Provide a cancelled cheque for NEFT payment
-5. Get an **acknowledgement receipt** with the date of submission
+For maturity payment, LIC requires:
 
-### Step 3: Track Your Maturity Claim
+| Document | Details |
+|---|---|
+| **Discharge Voucher (Form 3825)** | Signed by the policyholder (revenue stamp of ₹1 required) |
+| **Original Policy Bond** | The physical policy document |
+| **ID Proof** | Aadhaar card / PAN card |
+| **Bank account proof** | Cancelled cheque / passbook copy with IFSC |
+| **NEFT Mandate Form** | For electronic bank transfer |
+| **PAN Card** | Mandatory if maturity amount exceeds ₹1,00,000 |
+| **Form 15G/15H** | To avoid TDS deduction (if applicable) |
 
-#### Online Tracking
-1. Log in to the [LIC customer portal](https://customer.licindia.in/fce-customer/)
-2. Go to **"Policy Details"**
-3. Check the policy status — it should show **"Maturity Claim Under Process"** or **"Maturity Claim Settled"**
-4. If settled, check the NEFT transaction details
+### How to Submit:
 
-#### Offline Tracking
-- Call LIC helpline: **022-68276827** or **1800-227-717**
-- Visit your servicing branch with the acknowledgement receipt
+1. **By post:** Send documents to your servicing branch address (use registered post)
+2. **In person:** Visit your LIC servicing branch with originals and copies
+3. **Through agent:** Your LIC agent can collect and submit documents
 
----
+## Step 3: Update NEFT / Bank Details
 
-## How to Update Bank Details for Maturity Payment
+Incorrect or missing bank details is the #1 reason for delayed maturity payments.
 
-If your bank details have changed since you bought the policy:
+**To update NEFT details:**
 
-### Online Method
-1. Log in to the [LIC customer portal](https://customer.licindia.in/fce-customer/)
-2. Go to **"Service Requests"** → **"Change Bank Details"**
-3. Enter your new bank account number, IFSC code, and bank name
-4. Upload a scanned copy of your cancelled cheque
-5. Submit and wait for verification (3-5 working days)
-
-### Offline Method
 1. Visit your LIC servicing branch
-2. Submit a written request to change bank details
-3. Attach a **cancelled cheque** of the new account
-4. Carry your **Aadhaar and PAN** for verification
-5. The update takes 7-10 working days
+2. Submit **NEFT Mandate Form** (available at the branch or download from licindia.in)
+3. Attach a **cancelled cheque** or **bank passbook first page copy** showing:
+   - Account holder name
+   - Account number
+   - IFSC code
+   - Branch name
+4. The update takes 7-10 working days
 
----
+**Online NEFT update:**
 
-## What is a Discharge Voucher?
+1. Log in to [ebiz.licindia.in](https://ebiz.licindia.in/D2CPM/)
+2. Go to **My Profile** → **Bank Details**
+3. Enter your bank account number, IFSC code, and account type
+4. Upload cancelled cheque image
+5. Submit for verification
 
-The **discharge voucher** (Form No. 3825) is a document you sign to authorize LIC to release the maturity amount. Key points:
+> **Important:** The bank account must be in the **policyholder's name**. Joint accounts are accepted if the policyholder is one of the holders.
 
-- LIC sends it **2-3 months before maturity** to your registered address
-- It contains: policy number, maturity amount, bonus details, and bank details
-- You must **sign it** (or the nominee must sign in case of death claim)
-- If you did not receive it, **collect it from your LIC branch** or download from the portal
-- **Do not delay** submitting the discharge voucher — it is the most common cause of maturity payment delay
+## Step 4: Track Your Maturity Claim
 
----
+### Online Tracking:
 
-## NEFT Payment Process
+1. Log in to [ebiz.licindia.in](https://ebiz.licindia.in/D2CPM/)
+2. Navigate to **My Policies** → select the matured policy
+3. Check claim/payment status
 
-LIC pays maturity amounts via **NEFT (National Electronic Funds Transfer)**:
+### Via Customer Care:
 
-1. Ensure your bank details are correct and updated in LIC records
-2. After processing, LIC initiates an NEFT transfer to your bank account
-3. The amount is usually credited within **2-5 working days** after processing
-4. You will receive an SMS notification once the payment is made
-5. Check your bank statement for the credit
+- Call **069-68-306-090** (LIC customer care)
+- Provide your policy number
+- Ask for the maturity claim status and expected payment date
 
-**If NEFT fails:** This usually happens due to incorrect account number or IFSC code. Contact your LIC branch to verify and correct the details.
+### Via SMS:
 
----
+- Send **ASKLIC STAT <Policy Number>** to **9222492224**
 
-## What to Do If Maturity Amount Is Still Not Received
+## Step 5: Handle Survival Benefit Delays
 
-### Timeline Check
-- **Within 30 days of document submission** — Normal processing time; wait
-- **30-60 days** — Follow up with your branch
-- **Beyond 60 days** — Escalate the complaint
+For money-back policies, survival benefits are paid at fixed intervals (every 5 years, etc.):
 
-### Escalation Steps
+1. **Automatic payment:** If your NEFT details are updated, survival benefits are credited automatically
+2. **No discharge voucher needed** for survival benefits — only NEFT details must be correct
+3. If not received within 30 days of the due date, visit your branch with:
+   - Policy number
+   - Bank statement showing no credit
+   - ID proof
 
-#### Step 1: Contact LIC Customer Care
-- **Phone:** 022-68276827
-- **Toll-free:** 1800-227-717
-- **Email:** customerzone@licindia.com
-- Provide your policy number, document submission date, and acknowledgement receipt number
+## Step 6: Escalate if Payment is Still Delayed
 
-#### Step 2: Write to the Branch Manager
-- Write a formal letter to the manager of your servicing branch
-- Attach copies of your acknowledgement receipt and submitted documents
-- Request a specific timeline for settlement
+If you've submitted all documents and haven't received payment within 30 days:
 
-#### Step 3: Complain on LIC Portal
-1. Go to [licindia.in](https://licindia.in/)
-2. Navigate to **"Customer Services"** → **"Register Complaint"**
-3. Enter your policy number and complaint details
-4. Note the complaint reference number
+### Level 1: Branch Manager
 
-#### Step 4: Complain to IRDAI (If LIC Does Not Resolve)
-If LIC has not resolved your complaint within 30 days:
+- Visit your servicing branch and meet the Branch Manager
+- Carry all submission receipts and document copies
+- Request a written acknowledgment with expected payment date
 
-1. Visit [igms.irda.gov.in](https://igms.irda.gov.in/) (IRDAI Integrated Grievance Management System)
-2. Click **"Register Complaint"**
-3. Select **"LIC"** as the insurance company
-4. Enter your policy number and complaint details
-5. Upload supporting documents
-6. IRDAI will follow up with LIC and ensure resolution
+### Level 2: LIC Grievance Portal
 
-#### Step 5: Approach the Insurance Ombudsman
-If IRDAI does not resolve the issue:
-1. Find your regional Insurance Ombudsman at [cioins.co.in](https://cioins.co.in/)
-2. File a complaint in writing with copies of all documents
-3. The Ombudsman will mediate and pass an order within 3 months
+1. Visit [https://licindia.in/Bottom-Links/Grievance-Redressal](https://licindia.in/Bottom-Links/Grievance-Redressal)
+2. Register your complaint with:
+   - Policy number
+   - Details of documents submitted
+   - Date of maturity
+   - Description of the issue
+3. You will receive a **complaint reference number**
+4. LIC must respond within 15 days
 
----
+### Level 3: IRDAI (Insurance Regulatory Authority)
 
-## Special Cases
+If LIC doesn't resolve within 30 days of your grievance:
 
-### Maturity Claim by Nominee (Policyholder Deceased)
-If the policyholder has passed away before maturity:
-- **Nominee** must submit: death certificate, policy bond, discharge voucher, nominee's ID proof, and cancelled cheque
-- Process takes longer — typically 30-45 days
-- Contact the branch for the complete list of nominee claim documents
+1. Visit [https://igms.irda.gov.in/](https://igms.irda.gov.in/)
+2. Register a complaint with IRDAI
+3. IRDAI will direct LIC to resolve the issue
+4. You can also call IRDAI toll-free: **155255**
 
-### Policy Assigned to Another Person
-If the policy was assigned (transferred) to another person:
-- The **assignee** must claim the maturity amount
-- Additional documents: assignment deed, assignee's ID proof, and cancelled cheque
+### Level 4: Insurance Ombudsman
 
----
+For complaints up to ₹50 lakhs:
+
+1. Visit [https://cioins.co.in/](https://cioins.co.in/)
+2. File a complaint with the Insurance Ombudsman in your region
+3. The Ombudsman's decision is binding on LIC
+
+## Maturity Amount and Tax (TDS)
+
+| Condition | TDS |
+|---|---|
+| Maturity amount ≤ ₹1,00,000 | No TDS |
+| Premium ≤ 10% of sum assured (policies issued after 01-04-2012) | Exempt under Section 10(10D) |
+| Premium > 10% of sum assured | TDS @ 5% (2% if no PAN) |
+
+Submit **Form 15G** (below 60 years) or **Form 15H** (60+ years) to your LIC branch if your total income is below taxable limit, to avoid TDS.
 
 ## Important Tips
 
-1. **Submit your discharge voucher early** — Ideally within 2 weeks of receiving it. This is the number one cause of delays
-2. **Keep bank details updated** — Update your bank account with LIC well before the maturity date
-3. **Complete KYC** — Ensure Aadhaar, PAN, and bank details are linked to your LIC policy
-4. **Keep copies of everything** — Maintain photocopies of all documents you submit
-5. **Track regularly** — Log in to the LIC portal or call the helpline to track your claim status
-
----
+1. **Submit documents early** — don't wait for the maturity date. Send the signed discharge voucher and NEFT form as soon as you receive the intimation letter.
+2. **Update your bank details proactively** — log in to the LIC portal and add NEFT details well before maturity. See our [policy status check guide](/guide/lic-policy-status-check).
+3. **Keep your PAN linked** — PAN is mandatory for maturity amounts over ₹1 lakh to avoid higher TDS.
+4. **Check for outstanding loans** — if you took a [loan against your policy](/guide/lic-loan-against-policy), the outstanding amount will be deducted from maturity.
+5. **Save all submission receipts** — keep photocopies of everything you submit to LIC for tracking.
 
 ## Frequently Asked Questions
 
-### Q1: How long does LIC take to pay the maturity amount?
+### 1. How long does LIC take to pay the maturity amount?
 
-LIC is required to pay the maturity amount within **30 days** of receiving all required documents. If they delay beyond this, they must pay interest on the delayed amount.
+LIC typically processes maturity payments within 30 days of receiving all required documents. If NEFT details are already on file, it can be faster (7-15 days).
 
-### Q2: Can I receive the maturity amount by cheque instead of NEFT?
+### 2. Can the maturity amount be paid by cheque instead of NEFT?
 
-NEFT is the default and preferred mode. If you want a cheque, you can request it at your LIC branch. However, NEFT is faster and more secure.
+Yes, if NEFT details are not available, LIC issues a **crossed cheque** sent by post. However, NEFT is faster and more secure.
 
-### Q3: Is the LIC maturity amount taxable?
+### 3. What if I lost my original policy bond?
 
-LIC maturity proceeds are **tax-free under Section 10(10D)** of the Income Tax Act, provided the annual premium does not exceed 10% of the sum assured (for policies issued after April 2012). For high-premium policies, the maturity amount may be taxable.
+Apply for a **duplicate policy bond** at your LIC branch using Form No. 3781. Alternatively, you can submit an **indemnity bond** on a non-judicial stamp paper along with an affidavit and FIR/lost complaint.
 
-### Q4: What if I lost my original policy bond?
+### 4. Is the LIC maturity amount taxable?
 
-Apply for a **duplicate policy bond** at your LIC branch. You will need to submit an indemnity bond, FIR/lost declaration, and pay a fee. This takes 15-30 days.
+If the annual premium is less than or equal to 10% of the sum assured (for policies issued after April 2012), the maturity amount is tax-free under Section 10(10D). Otherwise, it's taxable.
 
-### Q5: Can I claim maturity amount from any LIC branch?
+### 5. What happens to the maturity amount if the policyholder has died?
 
-You should ideally submit documents at your **servicing branch** (the branch that manages your policy). However, you can request a transfer of servicing to a branch near you if you have relocated.
+The maturity amount is paid to the registered **nominee** or legal heirs. They need to submit a death claim with the death certificate and other documents.
 
-### Q6: What is the Final Additional Bonus (FAB)?
+### 6. Can I get my maturity amount credited to someone else's bank account?
 
-FAB is a one-time bonus LIC adds at the time of maturity for policies that have completed the full term. It is in addition to the regular reversionary bonus declared every year.
+No, the maturity amount can only be credited to the policyholder's own bank account. For assigned policies, it goes to the assignee's account.
 
-### Q7: I did not receive the discharge voucher from LIC. What should I do?
+### 7. What if my LIC survival benefit was not received?
 
-Visit your LIC servicing branch and request a discharge voucher. You can also download it from the LIC customer portal. Ensure your registered address is up to date so that future correspondence reaches you.
-
----
-
-## Related Guides
-
-- [LIC Policy Status Check Online](/guide/lic-policy-status-check)
-- [LIC Premium Payment Failed? Fix Online Payment Errors](/guide/lic-premium-payment-failed-fix)
-- [LIC Policy Lapsed? How to Revive Your Policy](/guide/lic-policy-revival-guide)
+Ensure your NEFT details are updated. Visit your servicing branch with policy number and bank statement. Survival benefits don't require a discharge voucher — only correct bank details.
 
 ---
 
-*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with LIC, IRDAI, or any government body. Information is compiled from official sources. Always verify details on [licindia.in](https://licindia.in/) before taking action.*
+*This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with LIC or the Government of India. Always verify details on the [official LIC website](https://licindia.in/).*

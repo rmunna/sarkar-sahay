@@ -1,219 +1,212 @@
 ---
 title: "LIC Policy Lapsed? How to Revive Your Policy"
 description: >-
-  Revive your lapsed LIC policy online or offline. Know revival rules within 2
-  and 5 years, late fees, medical tests, and special revival schemes by LIC.
+  Revive your lapsed LIC policy through ordinary, special, or installment
+  revival. Know documents, late fees, medical exam requirements, and steps.
 category: Tax & Finance
 keywords:
   - lic policy revival
   - lic lapsed policy revival
-  - revive lic policy online
-  - lic policy revival charges
+  - revive lic policy
+  - lic policy revival online
   - lic special revival scheme
+  - lic installment revival
   - lic policy lapsed
-  - lic revival medical test
-  - lic late fee revival
-  - lic policy revival process
-  - lic policy revival within 5 years
+  - lic revival charges
+  - lic policy revival documents
+  - lic ordinary revival
 readingTime: 9 min
 lastUpdated: "2026-03-06"
 officialLinks:
-  - "https://licindia.in/"
-  - "https://customer.licindia.in/fce-customer/"
-  - "https://ebiz.licindia.in/D2CPM/"
+  - 'https://licindia.in/'
+  - 'https://ebiz.licindia.in/D2CPM/'
 ---
 
 # LIC Policy Lapsed? How to Revive Your Policy
 
-If you missed paying your LIC premiums and your policy has lapsed, do not worry. LIC allows you to revive lapsed policies under certain conditions. This guide explains the complete revival process — online and offline — including timelines, fees, medical requirements, and special revival schemes.
+If you have missed paying your LIC premium beyond the grace period, your policy is considered "lapsed." A lapsed policy loses its risk cover and benefits. However, LIC allows you to revive your lapsed policy by paying the overdue premiums with interest. This guide explains all revival methods, documents, and procedures.
 
 ## What Does "Lapsed Policy" Mean?
 
-A LIC policy becomes **lapsed** when you fail to pay the premium within the grace period:
-- **30 days** for yearly, half-yearly, and quarterly modes
-- **15 days** for monthly (ECS) mode
+When you don't pay your LIC premium within the grace period (15-30 days after the due date), the policy enters a lapsed state:
 
-Once lapsed, the policy loses its benefits — no death claim will be paid, and the policy will not mature. However, LIC allows revival within a specified period.
+- **Risk cover stops** — no death benefit will be paid if the insured dies
+- **Loan facility is suspended**
+- **Bonus accumulation stops**
+- **Maturity benefit may be reduced or zero** (depending on how many premiums were paid)
 
----
+> **Good news:** LIC allows policy revival within **5 years** from the date of the first unpaid premium (for most plans).
 
-## Revival Timelines
+## Types of LIC Policy Revival
 
-| Condition | Revival Allowed? | Requirements |
-|-----------|-----------------|--------------|
-| Within 6 months of lapse | Yes | Pay all due premiums + interest; no medical test usually |
-| 6 months to 2 years | Yes | Pay all due premiums + interest + late fee; medical test may be required |
-| 2 to 5 years | Yes (subject to conditions) | Pay all due premiums + interest + late fee; medical test required |
-| Beyond 5 years | Generally not allowed | Special revival schemes (if available) may apply |
+### 1. Ordinary Revival
 
-**Key Rule:** LIC policies can be revived within **5 years from the date of the first unpaid premium**, but it is always better to revive as early as possible to reduce costs.
+This is the standard revival method available for most lapsed policies.
 
----
+**Eligibility:**
+- Policy must be within 5 years from the first unpaid premium date
+- Available for all individual life insurance plans
 
-## How to Revive LIC Policy Online
+**What you need to pay:**
+- All overdue premiums (from the first unpaid premium to the current date)
+- Interest on overdue premiums (currently around 9-10% per annum, compounding half-yearly)
+- Interest rate is decided by LIC and may change periodically
 
-### Step 1: Check Policy Status
+**Medical requirement:**
+- If lapsed for less than 6 months: usually no medical exam
+- If lapsed for 6 months to 2 years: Declaration of Good Health (DGH) form
+- If lapsed for more than 2 years: full medical examination may be required
+- Medical requirement also depends on the age of the policyholder and sum assured
 
-1. Log in to the [LIC customer portal](https://customer.licindia.in/fce-customer/)
-2. Go to **"Policy Details"** → Check if the status shows **"Lapsed"**
-3. Note the **date of first unpaid premium** and **total amount due**
+**Steps for ordinary revival:**
 
-### Step 2: Calculate Revival Amount
+1. Visit your LIC branch (servicing branch mentioned on your policy)
+2. Submit **Revival Application Form** (Form No. 680)
+3. Submit **Declaration of Good Health** or undergo medical examination as required
+4. Pay all overdue premiums + interest
+5. The branch will process the revival within 7-15 working days
+6. Once revived, your policy status changes to "In Force"
 
-The revival amount includes:
-- **All unpaid premiums** from the date of lapse
-- **Interest/late fee** on each unpaid premium (typically 9-10% per annum)
-- **Revival fee** (if applicable)
+### 2. Special Revival Scheme
 
-You can check the exact revival amount on the LIC portal under **"Revival Quote"** or contact your LIC branch.
+LIC periodically announces special revival schemes with relaxed terms. These are time-limited offers.
 
-### Step 3: Pay the Revival Amount Online
-
-1. Go to [ebiz.licindia.in/D2CPM](https://ebiz.licindia.in/D2CPM/)
-2. Enter your **policy number** and **date of birth**
-3. Select **"Revival Premium"** as the payment type
-4. The system will show the total revival amount
-5. Pay using net banking, debit card, credit card, or UPI
-6. Save the transaction receipt
-
-### Step 4: Submit Revival Form (If Required)
-
-For policies lapsed beyond 6 months, you may need to:
-1. Download the **Revival Form** (Form No. 680) from the LIC portal
-2. Fill in the required details including health declaration
-3. Submit to your LIC branch along with the payment receipt
-
----
-
-## How to Revive LIC Policy Offline
-
-1. Visit your nearest LIC branch (the servicing branch mentioned on your policy)
-2. Carry the following documents:
-   - Policy bond (original)
-   - Valid photo ID (Aadhaar, PAN, or Voter ID)
-   - Revival form (Form No. 680) — available at the branch
-   - Personal health statement / declaration of good health
-   - Medical test reports (if required — see below)
-3. Pay all due premiums plus interest at the branch counter
-4. The branch will process your revival within **7-15 working days**
-5. Once revived, your policy status will change to **"In Force"**
-
----
-
-## Medical Test Requirements
-
-| Lapse Duration | Medical Test |
-|---------------|-------------|
-| Less than 6 months | Usually not required |
-| 6 months to 2 years | May be required depending on age and sum assured |
-| 2 to 5 years | Required in most cases |
-
-**What medical tests?** LIC may require:
-- Basic health check-up (blood pressure, weight, height)
-- Blood tests (sugar, cholesterol, liver function, kidney function)
-- ECG (for age above 40 or high sum assured)
-- Urine test
-
-**Who pays?** LIC arranges and pays for the medical tests through its empanelled doctors/hospitals.
-
----
-
-## LIC Special Revival Schemes
-
-LIC periodically announces **Special Revival Campaigns** that offer relaxed terms for reviving lapsed policies. These may include:
-
-- **Reduced interest rates** on unpaid premiums
-- **Waiver of late fees**
+**Benefits of special revival:**
+- **Reduced late fee** or interest rates
 - **Relaxed medical requirements**
-- **Extended revival window** beyond the normal 5-year limit
+- **Concessions** on the total revival amount
+- Available only during the scheme window (typically 3-6 months)
 
-### How to Know About Special Revival Schemes
+**How to check if a special revival scheme is active:**
+- Visit [licindia.in](https://licindia.in/) and check the notifications section
+- Ask your LIC agent or branch
+- Check LIC's social media channels
 
-1. Check the [LIC website](https://licindia.in/) regularly for announcements
-2. Contact your LIC agent or branch
-3. Call LIC helpline: **022-68276827** or **1800-227-717**
+> **Tip:** If your policy is lapsed and you are in no immediate hurry, wait for a special revival scheme announcement — it can save you significant money on interest.
 
-**Note:** Special revival schemes are time-bound and available only for specific periods. Take advantage of them when available.
+### 3. Installment Revival
 
----
+If you cannot afford to pay all overdue premiums at once, LIC offers installment revival for eligible policies.
 
-## Revival Cost Calculation (Example)
+**How it works:**
+- Pay the overdue premiums in installments instead of a lump sum
+- Typically, you need to pay at least **2 years' worth of overdue premiums** upfront
+- The remaining overdue premiums can be paid in installments along with your regular premiums
+- Interest is charged on the outstanding overdue amount
 
-**Example:** Policy with yearly premium of ₹20,000, lapsed for 2 years
+**Eligibility:**
+- Generally available for policies lapsed for 3+ years
+- Available under specific special revival schemes announced by LIC
 
-| Component | Amount |
-|-----------|--------|
-| Unpaid Premium Year 1 | ₹20,000 |
-| Unpaid Premium Year 2 | ₹20,000 |
-| Interest (~9.5% p.a. on Year 1 premium) | ~₹3,800 |
-| Interest (~9.5% p.a. on Year 2 premium) | ~₹1,900 |
-| **Total Revival Amount (approx.)** | **~₹45,700** |
+### 4. Revival by Loan (Loan-cum-Revival)
 
-*Actual amounts will vary based on LIC's current interest rates and policy terms.*
+If your policy has acquired a surrender value before lapsing:
 
----
+1. LIC grants a **loan against the policy** for the revival amount
+2. The loan covers the overdue premiums and interest
+3. You then repay the loan in installments
+4. Regular premium payments resume from the current date
 
-## What If Revival Is Not Possible?
+This option is useful when you don't have the lump sum for revival but want to restore coverage immediately.
 
-If your policy has lapsed beyond 5 years or cannot be revived:
+## Documents Required for LIC Policy Revival
 
-- **Paid-up value:** If you have paid premiums for at least 3 years, your policy may have acquired a **paid-up value**. You can claim this amount by surrendering the policy
-- **Surrender value:** Contact your LIC branch to know the surrender value of your lapsed policy
-- **Buy a new policy:** If revival is not economical, consider buying a new policy. Note that the premium will be higher due to increased age
+| Document | Required For |
+|---|---|
+| Revival Application Form (Form No. 680) | All revivals |
+| Original policy bond | All revivals |
+| Declaration of Good Health (DGH) form | Lapsed 6 months to 2 years |
+| Medical examination reports | Lapsed more than 2 years (age/sum dependent) |
+| Identity proof (Aadhaar/PAN) | All revivals |
+| Premium payment receipt (latest) | If available |
+| NEFT mandate form / cancelled cheque | For auto-debit setup |
 
----
+## Step-by-Step: Revive Your LIC Policy
+
+### Online Revival (Limited)
+
+Currently, full online revival is not available for all policies. However, you can:
+
+1. Log in to [ebiz.licindia.in](https://ebiz.licindia.in/D2CPM/)
+2. Go to **My Policies** and select the lapsed policy
+3. Check the **Revival Quote** — this shows the exact amount needed for revival
+4. Note the amount and proceed to your branch for processing
+
+### Offline Revival (Branch Visit)
+
+1. **Get a revival quote** — visit your servicing branch or check online for the exact revival amount
+2. **Collect forms** — get Form No. 680 (Revival Application) and DGH form from the branch
+3. **Fill the forms** — complete all details accurately
+4. **Undergo medical exam** (if required) — LIC will arrange this at their empanelled medical centre
+5. **Pay the revival amount** — pay all overdue premiums + interest by cheque, DD, or online
+6. **Submit documents** — submit all forms and documents at the branch
+7. **Wait for processing** — revival is typically processed within 7-15 working days
+8. **Confirm revival** — check your [policy status online](/guide/lic-policy-status-check) to confirm it shows "In Force"
+
+## Revival Charges: How Much Will You Pay?
+
+The total revival cost depends on:
+
+- **Number of unpaid premiums** — all must be paid
+- **Interest rate** — approximately 9-10% per annum (compounding half-yearly)
+- **Medical exam fee** — if applicable, ranges from ₹500 to ₹2,000
+
+**Example calculation:**
+- Annual premium: ₹10,000
+- Lapsed for 2 years: 2 unpaid premiums = ₹20,000
+- Interest (approx. 9.5% for 2 years): ~₹3,800
+- **Total revival cost: ~₹23,800**
+
+> The exact amount will be calculated by LIC based on the policy plan and lapse duration. Always get a revival quote first.
+
+## Time Limit for Revival
+
+| Situation | Time Limit |
+|---|---|
+| Standard plans | 5 years from first unpaid premium |
+| Term insurance plans | Usually 2 years |
+| Special revival schemes | As per scheme rules (may allow beyond 5 years) |
+
+After the time limit expires, the policy cannot be revived. You may only get the surrender value (if eligible).
 
 ## Important Tips
 
-1. **Revive as early as possible** — The longer you wait, the more interest you pay and the harder the medical requirements
-2. **Check for special revival schemes** — LIC runs these periodically with benefits like reduced late fees
-3. **Keep paying even if partially** — Making at least some payments reduces the lapse period and revival cost
-4. **Update your contact details** — Ensure LIC has your current mobile and email so you receive premium reminders
-5. **Consider auto-debit** — Set up ECS/NACH to avoid missing future premiums after revival
-
----
+1. **Don't buy a new policy** to replace a lapsed one — revival is almost always cheaper than buying a new policy at an older age.
+2. **Check for special revival schemes** before reviving — LIC periodically offers concessions that can save you money.
+3. **Get the revival quote first** before arranging funds — the amount may be different from your estimate.
+4. **Set up auto-debit (NACH)** after revival to prevent future lapses. See our [premium payment guide](/guide/lic-premium-payment-failed-fix) for payment options.
+5. **Keep your contact details updated** with LIC to receive premium reminders.
 
 ## Frequently Asked Questions
 
-### Q1: Can I revive my LIC policy after 5 years?
+### 1. Can I revive my LIC policy after 5 years?
 
-Generally, LIC does not allow revival beyond 5 years from the first unpaid premium. However, during special revival campaigns, LIC may extend this window. Check with your branch or the LIC website.
+Generally, no. The standard revival period is 5 years from the first unpaid premium. However, during special revival schemes, LIC may allow revival beyond 5 years for certain plans.
 
-### Q2: Do I need to pay all past premiums to revive my policy?
+### 2. Will I get the full bonus after revival?
 
-Yes, you must pay all unpaid premiums plus interest/late fees. Partial revival is not allowed under normal conditions.
+Yes, once revived, your policy will receive bonus for all the years it was in force (before lapsing). Bonus for the lapsed period may not be applicable for all plans.
 
-### Q3: Will my policy benefits change after revival?
+### 3. Can I revive my LIC policy online?
 
-No. Once revived, your policy will have the same sum assured, bonus, maturity date, and other benefits as before. The bonus accumulated before lapse is preserved.
+Currently, complete online revival is not available for most policies. You can check the revival quote online but need to visit the branch for processing and document submission.
 
-### Q4: Can I revive a policy online if medical tests are required?
+### 4. What happens if I don't revive my lapsed LIC policy?
 
-You can pay online, but you will still need to visit an LIC branch or empanelled hospital for the medical test. Submit the medical reports to the branch for processing.
+If you don't revive within the time limit: (a) if less than 3 years' premiums were paid, you get nothing; (b) if 3+ years' premiums were paid, you may receive a reduced paid-up value at maturity or surrender value.
 
-### Q5: What if LIC rejects my revival request?
+### 5. Is medical examination mandatory for revival?
 
-LIC may reject revival if the medical test results are unfavourable. In such cases, you can:
-- Request reconsideration with additional medical reports
-- Accept the paid-up/surrender value
-- Explore if a special revival scheme offers relaxed medical norms
+Not always. For policies lapsed less than 6 months, usually a simple Declaration of Good Health is sufficient. Medical exams are typically required for longer lapse periods, older policyholders, or high sum assured policies.
 
-### Q6: Is there a lock-in period after revival?
+### 6. Can my LIC agent help with revival?
 
-After revival, the policy is fully active immediately. However, for death claims, LIC may investigate if the death occurs within 1-2 years of revival.
+Yes, your LIC agent can assist with the revival process — collecting forms, scheduling medical exams, and submitting documents at the branch.
 
-### Q7: Can my LIC agent help with revival?
+### 7. Can I revive a policy if the policyholder has died during the lapsed period?
 
-Yes, your LIC agent can assist with the revival process, including filling forms, arranging medical tests, and submitting documents at the branch.
+No. A lapsed policy does not provide death cover. If the insured person dies while the policy is lapsed, no death claim can be made.
 
 ---
 
-## Related Guides
-
-- [LIC Policy Status Check Online](/guide/lic-policy-status-check)
-- [LIC Premium Payment Failed? Fix Online Payment Errors](/guide/lic-premium-payment-failed-fix)
-- [LIC Maturity Amount Not Received? Track & Fix](/guide/lic-maturity-amount-not-received-fix)
-
----
-
-*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with LIC or any government body. Information is compiled from official LIC sources. Always verify details on [licindia.in](https://licindia.in/) before taking action.*
+*This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with LIC or the Government of India. Always verify details on the [official LIC website](https://licindia.in/).*

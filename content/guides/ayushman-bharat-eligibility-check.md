@@ -1,176 +1,213 @@
 ---
 title: "Ayushman Bharat Eligibility Check: How to Know If You Are Eligible"
 description: >-
-  Check your Ayushman Bharat PMJAY eligibility online at mera.pmjay.gov.in. Search
-  by name, mobile, ration card. SECC 2011 criteria and state scheme details.
-category: Government Schemes
+  Check your Ayushman Bharat PM-JAY eligibility online at mera.pmjay.gov.in.
+  Learn SECC 2011 criteria, family ID check, and how to add missing members.
+category: Tax & Finance
 keywords:
   - ayushman bharat eligibility
   - PMJAY eligibility check
   - am I eligible for ayushman bharat
-  - ayushman bharat eligibility check online
   - mera pmjay gov in
-  - PMJAY beneficiary search
-  - ayushman bharat SECC criteria
-  - ayushman bharat ration card eligibility
-  - ayushman card eligibility
-  - PMJAY eligibility by name
-readingTime: 8 min
+  - ayushman bharat eligibility criteria
+  - SECC 2011 ayushman bharat
+  - PM-JAY eligibility check online
+  - ayushman bharat family ID
+  - ayushman bharat apply
+  - PMJAY beneficiary check
+readingTime: 9 min
 lastUpdated: "2026-03-06"
 officialLinks:
-  - 'https://mera.pmjay.gov.in/'
-  - 'https://pmjay.gov.in/'
-  - 'https://bis.pmjay.gov.in/'
+  - "https://mera.pmjay.gov.in/"
+  - "https://pmjay.gov.in/"
+  - "https://beneficiary.nha.gov.in/"
 ---
 
 # Ayushman Bharat Eligibility Check: How to Know If You Are Eligible
 
-Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PMJAY) provides free health coverage of up to **₹5 lakh per family per year** for secondary and tertiary hospitalization. But not everyone is eligible. This guide explains who qualifies, how to check your eligibility online, and what to do if you're not in the list.
+Ayushman Bharat PM-JAY provides free health insurance of up to ₹5 lakh per family per year. But not everyone is eligible — the scheme targets economically vulnerable families identified through the Socio-Economic Caste Census (SECC) 2011. This guide explains the eligibility criteria and how to check if you qualify.
 
-## Who Is Eligible for Ayushman Bharat (PMJAY)?
+## What is Ayushman Bharat PM-JAY?
 
-Eligibility is based on the **Socio-Economic Caste Census (SECC) 2011** data. The government identified economically vulnerable families based on specific deprivation criteria.
-
-### Rural Eligibility Criteria (Any ONE of these)
-
-Families are automatically included if they have any of these deprivation indicators:
-
-1. **Kutcha house** (walls and roof made of temporary materials)
-2. **No adult member aged 16-59** in the family
-3. **Female-headed household** with no male member aged 16-59
-4. **Disabled member** with no able-bodied adult
-5. **SC/ST households**
-6. **Landless households** deriving major income from manual casual labour
-7. **No literate adult** above 25 years in the family
-8. **Manual scavenger** families
-9. **Destitute/living on alms**
-10. **Primitive tribal groups**
-11. **Legally released bonded labourers**
-
-### Urban Eligibility Criteria
-
-Urban families in these occupations are eligible:
-
-- Rag picker
-- Street vendor / hawker / cobbler
-- Domestic worker
-- Construction worker / plumber / mason / painter
-- Sanitation worker / sweeper / gardener
-- Home-based artisan / handicraft worker
-- Transport worker (driver, conductor, rickshaw puller, cart puller)
-- Shop worker / assistant / peon / delivery boy
-- Electrician / mechanic / assembler / repair worker
-- Washer-man / chowkidar / security guard
-
-### Additional Categories (Added Later)
-
-- All ration card holders under **Antyodaya Anna Yojana (AAY)** and **Priority Household (PHH)**
-- Families identified under state-specific health schemes that merged with PMJAY
-
-## How to Check Ayushman Bharat Eligibility Online
-
-### Method 1: mera.pmjay.gov.in Portal
-
-1. Visit [mera.pmjay.gov.in](https://mera.pmjay.gov.in/)
-2. Enter your **mobile number**
-3. Enter the **CAPTCHA** code
-4. Click **Generate OTP** and enter the OTP received
-5. After login, search using any of these:
-   - **Name** — Enter your name as per records
-   - **Ration card number**
-   - **Mobile number**
-   - **RSBY URN** (if you had Rashtriya Swasthya Bima Yojana card)
-6. Select your **State**
-7. Click **Search**
-8. If your name appears in the results, you are eligible
-
-### Method 2: Call 14555
-
-- Dial **14555** (toll-free)
-- Provide your name, location, and Aadhaar/ration card details
-- The operator will check your eligibility in the PMJAY database
-- Available Monday to Saturday, 9 AM to 9 PM
-
-### Method 3: Visit Common Service Centre (CSC)
-
-- Go to your nearest CSC or Ayushman Mitra at an empanelled hospital
-- Carry your **Aadhaar card** and **ration card**
-- They will check your eligibility and can generate your Ayushman card on the spot if eligible
-
-### Method 4: Ayushman App
-
-- Download the **Ayushman Bharat (PMJAY)** app from Google Play Store
-- Register with your mobile number
-- Check eligibility using your name or ID details
-
-## What If You Are Not in the PMJAY List?
-
-If your name doesn't appear in the eligibility search:
-
-1. **Check with correct details** — Try different name spellings, use your ration card number, or try a family member's name
-2. **SECC data might have errors** — Visit the CSC or District Implementation Unit to request correction
-3. **Check state schemes** — Many states have their own health schemes that cover families not in PMJAY (see below)
-4. **New ration card holders** — If you recently got an AAY/PHH ration card, you may be eligible under the expanded criteria. Visit a CSC for verification
-
-## State Health Schemes (Alternatives to PMJAY)
-
-Several states run their own health insurance schemes, some alongside PMJAY:
-
-| State | Scheme | Coverage |
-|---|---|---|
-| Delhi | Delhi Arogya Kosh | Free treatment at government hospitals |
-| West Bengal | Swasthya Sathi | ₹5 lakh per family (all families) |
-| Odisha | Biju Swasthya Kalyan Yojana | ₹5 lakh (women: ₹10 lakh) |
-| Kerala | Karunya Arogya Suraksha Padhathi (KASP) | ₹5 lakh (merged with PMJAY) |
-| Tamil Nadu | Chief Minister's Comprehensive Health Insurance | ₹5 lakh per family |
-| Andhra Pradesh | Dr. YSR Aarogyasri | ₹5 lakh per family |
-| Telangana | Aarogyasri | ₹5 lakh per family |
-| Rajasthan | Chiranjeevi Yojana | ₹25 lakh per family |
-| Karnataka | Arogya Karnataka | Covers BPL + APL families |
-
-**Check with your state government** for scheme-specific eligibility and enrollment.
-
-## How to Get Your Ayushman Bharat Card
-
-If you are eligible:
-
-1. Visit the nearest **CSC** or **empanelled hospital** Ayushman Mitra desk
-2. Carry **Aadhaar card** (mandatory) and **ration card**
-3. Complete **Aadhaar-based verification** (biometric or OTP)
-4. Your Ayushman Bharat card (e-card) will be generated in **15-30 minutes**
-5. The card is **free of cost** — do not pay anyone
-
-## Important Tips
-
-1. **PMJAY eligibility is family-based** — if one family member is eligible, the entire family is covered
-2. **No income certificate needed** — eligibility is based on SECC 2011 data, not current income
-3. **Card generation is free** — never pay agents or middlemen for the Ayushman card
-4. **Coverage is ₹5 lakh per family** — not per person. Plan treatments accordingly
-5. **Check hospital list** before visiting — see our [hospital list guide](/guide/ayushman-bharat-hospital-list-check) to find empanelled hospitals near you
-
-## Frequently Asked Questions
-
-### Can I check Ayushman Bharat eligibility by Aadhaar number?
-The primary search on mera.pmjay.gov.in is by name, ration card, or mobile number. Aadhaar is used for verification during card generation, not for eligibility search.
-
-### Is Ayushman Bharat available for government employees?
-No. Government employees already covered under CGHS, ECHS, or state government health schemes are generally not eligible for PMJAY.
-
-### Can I apply for Ayushman Bharat if I'm not in the SECC list?
-You cannot directly apply. Eligibility is determined by SECC 2011 data and subsequent government expansions (like ration card holders). Check your state's health scheme for alternative coverage.
-
-### Is Ayushman Bharat only for BPL families?
-While it primarily targets economically vulnerable families identified through SECC 2011, the criteria are based on specific deprivation indicators — not just BPL status. Some states have expanded eligibility to all families.
-
-### What is the age limit for Ayushman Bharat?
-There is **no age limit**. All family members — from newborns to senior citizens — are covered if the family is eligible. The ₹5 lakh annual limit now also covers seniors aged 70+ under the expanded AB-PMJAY scheme announced in 2024.
-
-### Can I use Ayushman Bharat in another state?
-Yes. PMJAY is fully portable. You can use your card at any empanelled hospital across India, regardless of your home state.
-
-### How many people are covered under Ayushman Bharat?
-PMJAY covers approximately **12 crore families** (about 55 crore individuals) across India, making it the world's largest government-funded health insurance scheme.
+Pradhan Mantri Jan Arogya Yojana (PM-JAY) is the world's largest government-funded health insurance scheme, covering over 55 crore beneficiaries across India. Key features:
+- **Coverage:** Up to ₹5 lakh per family per year
+- **Cashless treatment** at empanelled hospitals (see our [hospital list guide](/guide/ayushman-bharat-hospital-list-check))
+- **No premium** — fully funded by the government
+- **No age limit** — all family members are covered
+- **Portable** — use it at any empanelled hospital in India
 
 ---
 
-*This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Government of India or NHA. Verify your eligibility at [mera.pmjay.gov.in](https://mera.pmjay.gov.in/) or call 14555.*
+## Who Is Eligible for Ayushman Bharat?
+
+### SECC 2011 Criteria (Primary Basis)
+
+PM-JAY eligibility is primarily based on the **Socio-Economic Caste Census (SECC) 2011** data. The government used this census to identify deprived and vulnerable families.
+
+#### Rural Families — Any ONE of These Conditions:
+
+1. **D1** — Only one room with kucha walls and kucha roof
+2. **D2** — No adult member between age 16-59
+3. **D3** — Female-headed household with no adult male member (16-59)
+4. **D4** — Household with a disabled member and no able-bodied adult
+5. **D5** — SC/ST households
+6. **D6** — Landless households deriving income from manual casual labour
+7. **D7** — Households without shelter, destitute, living on alms, manual scavenging families, primitive tribal groups, legally released bonded labourers
+
+#### Urban Families — Based on Occupation:
+
+Families where the primary breadwinner is engaged in:
+- Rag picker
+- Beggar
+- Domestic worker
+- Street vendor / cobbler / hawker
+- Construction worker / plumber / mason / painter / welder / security guard / coolie
+- Sweeper / sanitation worker / gardener
+- Home-based worker / artisan / handicraft worker / tailor
+- Transport worker (driver, conductor, helper, cart puller, rickshaw puller)
+- Shop worker / assistant / peon / delivery assistant
+- Electrician / mechanic / assembler / repair worker
+- Washer-man / chowkidar
+
+### Additional Categories
+
+Beyond SECC 2011, the following are also covered:
+- **All existing RSBY beneficiaries** (Rashtriya Swasthya Bima Yojana)
+- **Families included by state governments** under state-specific add-on schemes
+- Some states have expanded coverage to include additional categories
+
+---
+
+## How to Check Your Eligibility Online
+
+### Method 1: mera.pmjay.gov.in (Official Portal)
+
+1. Visit [mera.pmjay.gov.in](https://mera.pmjay.gov.in/)
+2. Enter your **mobile number**
+3. Enter the **CAPTCHA code**
+4. Click **Generate OTP**
+5. Enter the OTP received on your mobile
+6. Search by any of these:
+   - **Name** (as per ration card)
+   - **Ration card number**
+   - **Mobile number**
+   - **RSBY URN** (if you had an RSBY card)
+7. Select your **State**
+8. Click **Search**
+9. The portal will show if your family is in the PM-JAY beneficiary list
+
+### Method 2: Beneficiary Identification Portal
+
+1. Visit [beneficiary.nha.gov.in](https://beneficiary.nha.gov.in/)
+2. Search using your Aadhaar number or other details
+3. Check your family's beneficiary status
+
+### Method 3: Call the Helpline
+
+- Dial **14555** (toll-free, 24x7)
+- Provide your name, Aadhaar number, or ration card number
+- The helpline will confirm your eligibility
+
+### Method 4: Visit a Common Service Centre (CSC)
+
+- Go to the nearest CSC with your [Aadhaar card](/guide/aadhaar-card-apply-online) and ration card
+- The CSC operator will check your eligibility and generate your Ayushman card if eligible
+
+---
+
+## Family ID Check: Verifying All Members
+
+PM-JAY covers the **entire family** — not just one individual. To check all family members:
+
+1. Go to [mera.pmjay.gov.in](https://mera.pmjay.gov.in/)
+2. Search using any family member's details
+3. The result will show the **complete family list** with member names and their PM-JAY ID
+4. Verify that all family members are listed
+5. Note down the **PMJAY Family ID / HH ID** for future reference
+
+---
+
+## How to Add Missing Family Members
+
+If some family members are not listed in the PM-JAY database:
+
+### Step 1: Verify Eligibility
+First confirm that the family is eligible (at least one member should appear in the SECC/PMJAY database).
+
+### Step 2: Visit a CSC or Empanelled Hospital
+Go to the nearest Common Service Centre or empanelled hospital with Ayushman Mitra.
+
+### Step 3: Carry Required Documents
+- [Aadhaar card](/guide/aadhaar-card-apply-online) of the missing member (original)
+- Family ration card showing the member's name
+- Existing PM-JAY card of any family member
+- Any other government ID for verification
+
+### Step 4: Request Addition
+- The CSC operator or Ayushman Mitra will verify the member's identity
+- They will submit an addition request in the PM-JAY system
+- The member will be added after verification by the state nodal agency
+
+### Step 5: Generate Card
+Once approved, generate the Ayushman card for the new member through eKYC at the CSC.
+
+**Timeline:** Addition usually takes 7-15 days after verification.
+
+---
+
+## What If You're Not Eligible?
+
+If your family is not in the SECC 2011 list:
+- You **cannot directly apply** for PM-JAY — it is not an application-based scheme
+- Check if your state has an **expanded scheme** that covers additional families
+- Some states (like Rajasthan, Karnataka, etc.) have extended coverage beyond SECC criteria
+- You may become eligible if the government updates the beneficiary database
+
+### State-Specific Expansions
+
+Several states have expanded Ayushman Bharat coverage:
+- **Rajasthan** — Chiranjeevi Yojana (all families can register)
+- **Maharashtra** — Mahatma Jyotiba Phule Jan Arogya Yojana (additional categories)
+- **Karnataka** — Arogya Karnataka (expanded coverage)
+- **Andhra Pradesh** — Dr. YSR Aarogyasri (merged with PM-JAY)
+
+Check your state's health scheme for additional eligibility.
+
+---
+
+## Important Tips
+
+1. **Check eligibility before visiting the hospital** — Use [mera.pmjay.gov.in](https://mera.pmjay.gov.in/) or call 14555
+2. **Generate your card in advance** — Don't wait for a medical emergency to check eligibility
+3. **Ensure all family members are listed** — Missing members can be added at a CSC
+4. **Keep Aadhaar updated** — Your name in Aadhaar should match the PM-JAY database
+5. **PMJAY is free** — Never pay anyone for eligibility check or card generation; report fraud on 14555
+
+---
+
+## Frequently Asked Questions
+
+### Q1. How do I know if I am eligible for Ayushman Bharat?
+Check on [mera.pmjay.gov.in](https://mera.pmjay.gov.in/) using your mobile number, name, or ration card number. You can also call 14555 to verify.
+
+### Q2. Can I apply for Ayushman Bharat if I'm not in the SECC 2011 list?
+PM-JAY is not application-based — eligibility is based on the SECC 2011 database. However, some states have expanded coverage. Check your state's health scheme.
+
+### Q3. Is there any income limit for Ayushman Bharat?
+There is no specific income limit. Eligibility is based on deprivation and occupational criteria from the SECC 2011 census, not income tax returns or salary.
+
+### Q4. Can government employees get Ayushman Bharat card?
+Generally no. Families with a government employee, those paying income tax, or those with motorised vehicles are excluded from SECC 2011 criteria. However, state expansions may differ.
+
+### Q5. My family is eligible but my name is not in the list. What should I do?
+Visit the nearest CSC with your Aadhaar card, family ration card, and an existing family member's PM-JAY card. Request addition of your name to the family's PM-JAY record.
+
+### Q6. Can I check eligibility without Aadhaar?
+Yes. You can search on mera.pmjay.gov.in using your name and ration card number. However, you will need Aadhaar for card generation (eKYC).
+
+### Q7. Is Ayushman Bharat available in all states?
+PM-JAY is available in most states and union territories. A few states initially opted out but have their own equivalent schemes. Check [pmjay.gov.in](https://pmjay.gov.in/) for the latest state list.
+
+---
+
+*Disclaimer: CitizenNest is an independent platform and is not affiliated with the National Health Authority (NHA) or PM-JAY. Eligibility criteria are based on official PM-JAY guidelines and SECC 2011 data. Always verify on [mera.pmjay.gov.in](https://mera.pmjay.gov.in/) or call 14555.*

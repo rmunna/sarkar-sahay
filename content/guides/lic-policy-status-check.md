@@ -1,223 +1,191 @@
 ---
 title: "LIC Policy Status Check Online: Step-by-Step Guide"
 description: >-
-  Check your LIC policy status online via the LIC portal, SMS, IVRS, or app.
-  Track premium due dates, bonus details, and policy number lookup instantly.
+  Check your LIC policy status online via licindia.in, SMS, UMANG app. View
+  premium due dates, policy bond details, and bonus information instantly.
 category: Tax & Finance
 keywords:
   - lic policy status check
   - lic policy status online
+  - lic policy details check
   - check lic policy status
-  - lic policy number lookup
   - lic premium due date
-  - lic bonus check
-  - lic portal login
-  - lic policy details online
-  - lic customer portal
-  - lic app policy status
+  - lic policy bond details
+  - lic umang app
+  - lic sms status check
+  - lic policy enquiry
+  - licindia policy status
 readingTime: 8 min
 lastUpdated: "2026-03-06"
 officialLinks:
-  - "https://licindia.in/"
-  - "https://customer.licindia.in/fce-customer/"
-  - "https://ebiz.licindia.in/D2CPM/"
+  - 'https://licindia.in/'
+  - 'https://ebiz.licindia.in/D2CPM/'
+  - 'https://web.umang.gov.in/landing/department/lic.html'
 ---
 
 # LIC Policy Status Check Online: Step-by-Step Guide
 
-If you hold a Life Insurance Corporation (LIC) policy, it is important to regularly check your policy status to know whether it is active, lapsed, or paid-up. You can check your LIC policy status online through the LIC customer portal, the LIC app, SMS, or IVRS. This guide covers all methods with complete steps.
+LIC (Life Insurance Corporation of India) policyholders can check their policy status online through multiple channels — the official LIC portal, SMS, and the UMANG app. This guide covers all methods to check your policy status, premium due dates, and policy bond details.
 
-## What is LIC Policy Status?
+## What Information Can You Check?
 
-LIC policy status tells you the current standing of your life insurance policy. It includes details like:
+When you check your LIC policy status, you can view:
 
-- **Policy status** — Active (in force), Lapsed, Paid-up, or Matured
-- **Premium due date** — Next premium payment date
-- **Sum assured** — Total coverage amount
-- **Bonus details** — Accumulated bonus on your policy
-- **Nominee details** — Registered nominee name
-- **Loan details** — Any loan taken against the policy
+- **Policy status** — active, lapsed, paid-up, or matured
+- **Premium due date** — next premium payment date and amount
+- **Sum assured** — total coverage amount
+- **Bonus details** — accumulated bonus on your policy
+- **Nominee details** — registered nominee information
+- **Loan details** — any outstanding loan against the policy
+- **Premium payment history** — record of all premiums paid
 
----
+## Method 1: Check LIC Policy Status on licindia.in
 
-## Methods to Check LIC Policy Status
+### Step 1: Register on LIC Portal
 
-You can check your LIC policy status using these methods:
+If you are a first-time user, you need to register:
 
-1. Online via LIC Customer Portal
-2. LIC app (ANANDA or LIC Customer App)
-3. SMS
-4. IVRS (Interactive Voice Response System)
-5. Visiting your nearest LIC branch
+1. Visit [https://ebiz.licindia.in/D2CPM/](https://ebiz.licindia.in/D2CPM/)
+2. Click on **New User** or **Register**
+3. Enter your **Policy Number**, **Date of Birth**, **Mobile Number**, and **Email ID**
+4. Your mobile number and email must match the records linked to your policy
+5. Set a **password** and complete registration
+6. You will receive an OTP on your registered mobile — verify it
 
----
+### Step 2: Log In to Your Account
 
-## Method 1: Check LIC Policy Status Online (Customer Portal)
-
-This is the most detailed method. You need a registered account on the LIC customer portal.
-
-### Step 1: Register on the LIC Portal (First-Time Users)
-
-1. Go to [customer.licindia.in](https://customer.licindia.in/fce-customer/)
-2. Click **"New User"** or **"Register"**
-3. Enter your policy number, date of birth, mobile number, and email
-4. Set a password and complete OTP verification
-5. Your account is now created
-
-### Step 2: Log In and Check Policy Status
-
-1. Visit [customer.licindia.in](https://customer.licindia.in/fce-customer/)
-2. Enter your **User ID** and **Password**
+1. Go to [https://ebiz.licindia.in/D2CPM/](https://ebiz.licindia.in/D2CPM/)
+2. Enter your **User ID** (registered email) and **Password**
 3. Complete the CAPTCHA and click **Login**
-4. On the dashboard, click **"Policy Details"** or **"My Policy"**
-5. Select the policy number you want to check
-6. View complete details: status, premium due date, sum assured, bonus, nominee, loan
 
-### What Details You Can See
+### Step 3: View Policy Details
 
-| Detail | Description |
-|--------|-------------|
-| Policy Status | In Force / Lapsed / Paid-up / Matured |
-| Premium Due Date | Next date when premium is due |
-| Sum Assured | Total insurance coverage |
-| Bonus | Accumulated reversionary bonus |
-| Loan | Outstanding loan against policy |
-| Nominee | Registered nominee name |
+1. After login, go to **My Policies** or **Policy Details**
+2. Select the policy number you want to check
+3. View complete details including:
+   - Policy status (In Force / Lapsed / Paid-Up)
+   - Premium amount and due date
+   - Sum assured and maturity date
+   - Bonus accrued
+   - Nominee details
 
----
+## Method 2: Check LIC Policy Status via SMS
 
-## Method 2: Check via LIC App
+You can check basic policy details by sending an SMS from your registered mobile number:
 
-1. Download the **LIC Customer App** from Google Play Store or Apple App Store
-2. Register using your policy number, date of birth, and mobile number
-3. Log in with your credentials
-4. Tap **"Policy Details"** on the home screen
-5. View your policy status, premium due dates, and bonus details
+1. Open your SMS app
+2. Type: **ASKLIC STAT <Policy Number>**
+3. Send to **9222492224** or **56677**
+4. You will receive an SMS with your policy status
 
----
+**Other SMS commands:**
 
-## Method 3: Check LIC Policy Status via SMS
+| SMS Format | Information |
+|---|---|
+| ASKLIC STAT <Policy No> | Policy status |
+| ASKLIC PREMIUM <Policy No> | Premium due details |
+| ASKLIC BONUS <Policy No> | Bonus details |
+| ASKLIC REVIVAL <Policy No> | Revival amount |
+| ASKLIC LOAN <Policy No> | Loan eligibility |
+| ASKLIC NOMCHG <Policy No> | Nominee details |
 
-Send an SMS from your registered mobile number:
+> **Note:** SMS must be sent from the mobile number registered with LIC against that policy.
 
-**Format:** `ASKLIC STAT <Policy Number>`
+## Method 3: Check via UMANG App
 
-**Send to:** 9222492224 or 56677
+The UMANG (Unified Mobile Application for New-age Governance) app provides LIC services:
 
-**Example:** `ASKLIC STAT 123456789`
+1. Download **UMANG app** from Google Play Store or Apple App Store
+2. Register using your **mobile number** and **Aadhaar** (optional)
+3. Search for **LIC** in the app
+4. Select **Policy Status Enquiry**
+5. Enter your **Policy Number** and **Date of Birth**
+6. View your policy status and details
 
-You will receive an SMS reply with your policy status.
+### Services Available on UMANG for LIC:
 
----
+- Policy status enquiry
+- Premium due calendar
+- Premium payment
+- Loan eligibility check
+- Policy bond details
 
-## Method 4: Check via IVRS (Phone Call)
+## Method 4: Check via LIC Customer App
 
-1. Call **022-68276827** from your registered mobile number
-2. Select your preferred language
-3. Enter your **policy number** using the dial pad
-4. Enter your **date of birth** (DDMMYYYY format)
-5. Listen to your policy status, premium due date, and bonus details
+1. Download **LIC Customer** app from Play Store / App Store
+2. Log in with your LIC portal credentials
+3. All your linked policies will be visible
+4. Tap on any policy to view full details
 
-**Toll-free number:** 1800-227-717 (available during office hours)
+## Understanding Your Policy Status
 
----
-
-## Method 5: Visit Your LIC Branch
-
-1. Visit your nearest LIC branch office
-2. Carry your **policy bond** or **policy number**
-3. Carry a **valid photo ID** (Aadhaar, PAN, or Voter ID)
-4. Request the counter staff to check your policy status
-5. You will receive a printed statement if needed
-
----
-
-## How to Find Your LIC Policy Number
-
-If you have lost or forgotten your policy number:
-
-- **Check your policy bond** — The number is printed on the first page
-- **Check old premium receipts** — Policy number is mentioned on every receipt
-- **Check SMS/email** — LIC sends premium reminders with your policy number
-- **Call LIC helpline** — 022-68276827 with your registered details
-- **Visit LIC branch** — Carry your ID proof; the staff can look up your policy
-
----
+| Status | Meaning |
+|---|---|
+| **In Force** | Policy is active; premiums are being paid on time |
+| **Lapsed** | Premiums not paid for the grace period; benefits suspended |
+| **Paid-Up** | No more premiums due; reduced benefits will be paid at maturity |
+| **Matured** | Policy term completed; maturity amount is due |
+| **Surrendered** | Policy was terminated early by the policyholder |
+| **Death Claim** | Claim raised due to death of the insured |
 
 ## How to Check Premium Due Date
 
-Once logged into the LIC customer portal:
+1. Log in to [ebiz.licindia.in](https://ebiz.licindia.in/D2CPM/)
+2. Go to **My Policies** → select your policy
+3. Check the **Next Premium Due Date** field
+4. You can also view the **Premium Calendar** for the full year's schedule
 
-1. Go to **"Policy Details"**
-2. Click on your policy number
-3. Check the **"Next Premium Due Date"** field
-4. You can also see **premium amount**, **mode of payment** (yearly/half-yearly/quarterly/monthly)
+Alternatively, send SMS: **ASKLIC PREMIUM <Policy Number>** to **9222492224**
 
-**Tip:** Set up a reminder or enable auto-debit through your bank to avoid missing premiums.
+## How to View Policy Bond Details
 
----
+Your policy bond is the official contract document. To view bond details online:
 
-## How to Check Bonus on LIC Policy
+1. Log in to the LIC portal
+2. Navigate to **Policy Bond** or **e-Policy Bond** section
+3. Download your policy bond in PDF format
+4. The bond contains: plan details, term, premium, sum assured, nominee, and terms & conditions
 
-LIC declares bonuses annually for participating policies. To check:
-
-1. Log in to the [LIC customer portal](https://customer.licindia.in/fce-customer/)
-2. Go to **"Policy Details"** → select your policy
-3. Look for **"Bonus"** or **"Accrued Bonus"** section
-4. The total reversionary bonus accumulated will be displayed
-
-**Note:** Bonus rates are declared by LIC every year and vary by plan. Not all policies are eligible for bonus (e.g., term plans do not get bonus).
-
----
+> If you have lost your physical policy bond, you can apply for a duplicate at your LIC branch or request an e-policy bond through the portal.
 
 ## Important Tips
 
-1. **Keep your mobile number updated** with LIC to receive SMS alerts for premium due dates and policy status
-2. **Register on the customer portal** even if you prefer offline — it gives instant access to all policy details
-3. **Check policy status before the grace period ends** — if you miss a premium, your policy may lapse after the grace period (30 days for annual/half-yearly/quarterly; 15 days for monthly)
-4. **Download e-receipts** from the portal after every premium payment for tax filing
-5. **Link your PAN and Aadhaar** to your LIC policy for smooth claim processing
-
----
+1. **Keep your mobile number updated** with LIC — SMS services and OTP verification depend on it. Visit your nearest LIC branch to update contact details.
+2. **Register on the LIC portal** even if you prefer offline services — it gives you 24/7 access to policy information.
+3. **Check premium due dates regularly** to avoid policy lapsing. Set reminders a week before the due date.
+4. **Link all your policies** to one account on the LIC portal for easy management.
+5. **Download your e-policy bond** and save it securely — it serves as proof of your insurance contract.
 
 ## Frequently Asked Questions
 
-### Q1: Can I check LIC policy status without registration?
+### 1. Can I check my LIC policy status without registration?
 
-You can check basic status via SMS (`ASKLIC STAT <Policy Number>` to 9222492224) or IVRS call without portal registration. However, for full details including bonus and loan, you need to register on the customer portal.
+You can check basic status via SMS by sending **ASKLIC STAT <Policy Number>** to 9222492224 from your registered mobile. For detailed information, portal registration is required.
 
-### Q2: How do I know if my LIC policy is active or lapsed?
+### 2. What if my mobile number is not registered with LIC?
 
-Log in to the LIC customer portal and check the policy status field. If it shows **"In Force"**, your policy is active. If it shows **"Lapsed"**, you have missed premiums beyond the grace period.
+Visit your nearest LIC branch with your policy document and an ID proof to update your mobile number. You can also submit a written request with Form No. 3756.
 
-### Q3: Can I check multiple LIC policies in one account?
+### 3. Can I check someone else's LIC policy status?
 
-Yes. After logging in to the customer portal, click **"Link Policy"** to add all your policies under one account. You can then view status for all policies from a single dashboard.
+No. For privacy and security, you can only check policies registered under your name or linked to your registered mobile number and email.
 
-### Q4: What is the grace period for LIC premium payment?
+### 4. How do I find my LIC policy number?
 
-The grace period is **30 days** for yearly, half-yearly, and quarterly premium modes, and **15 days** for monthly mode. If you pay within the grace period, your policy remains active.
+Your policy number is printed on your policy bond document, premium receipts, and any correspondence from LIC. It is typically an 8-10 digit number.
 
-### Q5: How do I update my mobile number with LIC?
+### 5. What should I do if my LIC policy status shows "Lapsed"?
 
-Visit your nearest LIC branch with your policy bond and Aadhaar card. Submit a written request to update your mobile number. You can also update it through the customer portal if your current number is registered.
+A lapsed policy can be revived by paying the overdue premiums along with interest. See our [LIC policy revival guide](/guide/lic-policy-revival-guide) for detailed steps.
 
-### Q6: Is the LIC customer portal available 24/7?
+### 6. Is the LIC online portal available 24/7?
 
-The LIC customer portal is available 24/7 for policy status checks. However, some services like premium payment may have scheduled maintenance windows, usually late at night.
+The portal is generally available 24/7, but scheduled maintenance may cause temporary downtime, usually on weekends or late nights. SMS services are available round the clock.
 
-### Q7: Can I download my LIC policy document online?
+### 7. Can I pay my LIC premium online after checking the status?
 
-Yes. Log in to the customer portal, go to **"e-Policy"** section, and download your policy document in PDF format. This is available for policies issued after 2012.
-
----
-
-## Related Guides
-
-- [LIC Premium Payment Failed? Fix Online Payment Errors](/guide/lic-premium-payment-failed-fix)
-- [LIC Policy Lapsed? How to Revive Your Policy](/guide/lic-policy-revival-guide)
-- [LIC Maturity Amount Not Received? Track & Fix](/guide/lic-maturity-amount-not-received-fix)
+Yes. After logging into the LIC portal, you can directly pay your premium using net banking, debit card, credit card, or UPI. See our [LIC premium payment guide](/guide/lic-premium-payment-failed-fix) for troubleshooting payment issues.
 
 ---
 
-*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with LIC or any government body. Information is compiled from official LIC sources. Always verify details on [licindia.in](https://licindia.in/) before taking action.*
+*This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with LIC or the Government of India. Always verify details on the [official LIC website](https://licindia.in/).*
