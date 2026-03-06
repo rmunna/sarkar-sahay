@@ -1,169 +1,216 @@
 ---
-title: "SC/ST Certificate Apply Online: How to Apply for Scheduled Caste/Tribe Certificate"
+title: "SC/ST Certificate Apply Online: Process, Documents & Verification"
 description: >-
-  Step-by-step guide to apply for SC/ST caste certificate online and offline. Know eligibility, documents, state-wise portals, and verification process.
+  How to apply for SC/ST caste certificate online via e-district portal. Documents, verification process, validity, fees, and misuse penalties explained.
 category: Certificates
 keywords:
   - sc st certificate apply online
-  - scheduled caste certificate
-  - scheduled tribe certificate
   - sc certificate online
   - st certificate online
-  - caste certificate sc st
+  - scheduled caste certificate
+  - scheduled tribe certificate
+  - caste certificate online apply
   - sc st certificate documents
-  - how to apply sc certificate
-  - sc st certificate eligibility
-  - tribal certificate apply
-readingTime: 9 min
-lastUpdated: "2026-03-05"
+  - sc st certificate verification
+  - caste certificate validity
+  - e-district caste certificate
+readingTime: 10 min
 officialLinks:
   - 'https://edistrict.up.gov.in/'
+  - 'https://ncst.nic.in/'
+  - 'https://socialjustice.gov.in/'
   - 'https://edistrict.delhigovt.nic.in/'
-  - 'https://aaplesarkar.mahaonline.gov.in/'
   - 'https://serviceonline.bihar.gov.in/'
+lastUpdated: "2026-03-06"
 ---
 
-# SC/ST Certificate Apply Online: How to Apply for Scheduled Caste/Tribe Certificate
+An **SC/ST certificate** (Scheduled Caste / Scheduled Tribe certificate) is an official government document certifying that a person belongs to a Scheduled Caste or Scheduled Tribe community as listed in the Constitution of India. This certificate is essential for availing reservation benefits in education, government employment, and various welfare schemes.
 
-The Scheduled Caste (SC) and Scheduled Tribe (ST) certificate is a crucial document for members of these communities to access reservation benefits in government jobs, educational admissions, and various welfare schemes. This guide covers the complete process to apply for an SC/ST certificate online and offline across Indian states.
+## Who Can Issue an SC/ST Certificate?
 
-## What is an SC/ST Certificate?
+SC/ST certificates are issued by the following authorities:
 
-An SC/ST certificate is an official document issued by the District Magistrate, Sub-Divisional Magistrate, or Tehsildar that certifies a person belongs to a Scheduled Caste or Scheduled Tribe community as listed in the Constitution of India (Scheduled Castes) Order, 1950 and the Constitution (Scheduled Tribes) Order, 1950.
+- **District Magistrate / Collector**
+- **Sub-Divisional Magistrate (SDM)**
+- **Tehsildar / Naib Tehsildar**
+- **Revenue Officer** (not below the rank of Tehsildar)
+- Any other officer authorized by the state government
 
-### Benefits of SC/ST Certificate
+> **Important:** Only officers of the **revenue department** at or above Tehsildar level are authorized to issue caste certificates. Certificates from unauthorized sources are invalid.
 
-- **Reservation** in government jobs (15% SC, 7.5% ST in central services)
-- **Reservation in education** — seats in IITs, NITs, central and state universities
-- **Fee waivers** and scholarships (Post Matric Scholarship, Pre Matric Scholarship)
-- **Age relaxation** in competitive exams (typically 5 years)
-- **Access to welfare schemes** — housing (PMAY), skill development, business loans
-- **Political reservation** in Lok Sabha, state assemblies, and local bodies
+## Who Needs an SC/ST Certificate?
 
-## Eligibility Criteria
+- Candidates applying for **government jobs** with SC/ST reservation
+- Students seeking **admission under SC/ST quota** in educational institutions
+- Applicants for **SC/ST scholarships** and fellowships (pre-matric, post-matric)
+- Beneficiaries of **government welfare schemes** for SC/ST communities
+- Candidates appearing for **competitive exams** (UPSC, SSC, state PSCs) under reserved category
 
-1. You must belong to a community listed in the official SC or ST list for your state
-2. The list is **state-specific** — a caste listed as SC in one state may not be listed in another
-3. The certificate is issued based on your **father's caste/tribe** and the state of origin
-4. You must be a permanent resident of the state from which you are applying
+## Eligibility
 
-**Important:** The SC/ST list varies by state. Check the official list at the National Commission for Scheduled Castes (ncsc.nic.in) or National Commission for Scheduled Tribes (ncst.nic.in).
+1. Your caste/tribe must be listed in the **official SC/ST list** under the Constitution (Scheduled Castes) Order or Constitution (Scheduled Tribes) Order
+2. You must be a **citizen of India**
+3. The SC/ST list is **state-specific** — a caste listed as SC in one state may not be SC in another state
 
 ## Documents Required
 
-- Aadhaar card of the applicant
-- Birth certificate or school leaving certificate
-- Father's/grandfather's caste certificate (if available)
-- Ration card or family details
-- Address proof (voter ID, utility bill, domicile certificate)
-- Passport-size photographs (2–4 copies)
-- School records showing caste details
-- Affidavit / self-declaration (if father's certificate is not available)
-- Residence proof in the state
+### Mandatory Documents
 
-## How to Apply for SC/ST Certificate Online
+- **Aadhaar card** of the applicant
+- **Father's / family's caste certificate** (SC/ST certificate of parent)
+- **Birth certificate** or age proof
+- **Address proof** — ration card, voter ID, or utility bill
+- **Passport-size photographs** (2-4 copies)
+- **School certificate** mentioning caste (if available)
 
-### Step-by-Step Online Process
+### Additional Documents
 
-1. **Visit your state's e-District portal** (see table below)
-2. **Create an account** or login with existing credentials
-3. **Select** "Caste Certificate" or "SC/ST Certificate" from the services menu
-4. **Fill in the application form** — personal details, father's name, caste/tribe name, address
-5. **Upload scanned documents** — Aadhaar, address proof, father's caste certificate, photographs
-6. **Pay the fee** (usually free to ₹25 for SC/ST applicants)
-7. **Submit** and save the application reference number
-8. **Track status** using the reference number on the same portal
+- **Affidavit** on stamp paper declaring caste
+- **Family ration card** with caste details
+- **Community/caste records** from village panchayat or gram pradhan
+- **Parents' identity documents**
+- **Previous caste certificate** (if renewing or getting a new one)
 
-### State-Wise e-District Portals
+## Step-by-Step Online Process
 
-| State | Portal | URL |
-|-------|--------|-----|
-| Uttar Pradesh | e-District UP | edistrict.up.gov.in |
-| Bihar | ServiceOnline Bihar | serviceonline.bihar.gov.in |
-| Maharashtra | Aaple Sarkar | aaplesarkar.mahaonline.gov.in |
-| Delhi | e-District Delhi | edistrict.delhigovt.nic.in |
-| Madhya Pradesh | MP e-District | mpedistrict.gov.in |
-| Rajasthan | e-Mitra | emitra.rajasthan.gov.in |
-| West Bengal | e-District WB | edistrict.wb.gov.in |
-| Jharkhand | Jharsewa | jharsewa.jharkhand.gov.in |
-| Odisha | e-District Odisha | edistrict.odisha.gov.in |
-| Chhattisgarh | e-District CG | edistrict.cgstate.gov.in |
+### Step 1: Visit Your State's e-District Portal
 
-### Offline Application Process
+Go to your state's official e-district or online service portal:
 
-1. Visit the Tehsildar office or SDM office of your district
-2. Collect or download the caste certificate application form
-3. Fill the form with complete details including caste/tribe name exactly as per official list
-4. Attach self-attested copies of all documents
-5. Submit the form and collect the acknowledgement receipt
-6. A field inquiry may be conducted by the revenue officer
-7. Certificate is issued within 15–30 days after verification
+| State | Portal |
+|-------|--------|
+| Uttar Pradesh | edistrict.up.gov.in |
+| Delhi | edistrict.delhigovt.nic.in |
+| Bihar | serviceonline.bihar.gov.in |
+| Maharashtra | aaplesarkar.mahaonline.gov.in |
+| Jharkhand | jharsewa.jharkhand.gov.in |
+| Chhattisgarh | edistrict.cg.nic.in |
+
+### Step 2: Register and Login
+
+- Create an account using mobile number and email
+- Verify via OTP and log in to the portal
+
+### Step 3: Select "Caste Certificate (SC/ST)" Service
+
+- Navigate to **Certificate Services** or **Revenue Department**
+- Select **Caste Certificate / Jaati Praman Patra (SC/ST)**
+
+### Step 4: Fill the Application Form
+
+- Enter personal details — name, father's name, date of birth, gender
+- Enter your **exact caste/tribe name** as listed in the official SC/ST order
+- Provide residential address and contact details
+- Select whether applying for SC or ST category
+
+### Step 5: Upload Documents
+
+- Upload scanned copies of all required documents
+- Follow the specified format (PDF/JPEG) and size limits
+
+### Step 6: Pay the Fee
+
+- Pay **₹10 to ₹50** depending on the state
+- Payment via UPI, debit card, or net banking
+
+### Step 7: Submit Application
+
+- Review all details before submitting
+- Save the acknowledgement receipt and **application number**
 
 ## Verification Process
 
-The SC/ST certificate issuance involves a verification process:
+After submitting your application, the following verification steps take place:
 
-1. **Document verification** — the office verifies submitted documents
-2. **Field inquiry** — in some states, a revenue officer or patwari visits your locality for verification
-3. **Cross-verification** — father's/family records are checked against government databases
-4. **Caste Scrutiny Committee** — for central government jobs and admissions, a separate Caste Validity Committee may verify the certificate
+1. **Document verification** — The revenue department verifies all submitted documents
+2. **Field inquiry** — A revenue officer (patwari/lekhpal) may visit your residence or village to verify your caste claim
+3. **Cross-verification** — Your claim is checked against existing records and community registers
+4. **Report submission** — The verifying officer submits a report to the issuing authority
+5. **Certificate issuance** — If verified, the certificate is issued and made available for download
 
-### Caste Validity Certificate
+> In some states, a **Caste Scrutiny Committee** may further verify the certificate, especially for employment and admission purposes.
 
-For certain purposes (especially in Maharashtra and some central institutions), you may also need a **Caste Validity Certificate** issued by the Caste Scrutiny Committee. This is a separate verification of your caste certificate and is mandatory for:
+## Offline Process
 
-- Government job appointments
-- College admissions under reservation
-- Election candidature from reserved constituencies
+1. Visit your **Tehsildar / SDM / District Magistrate office**
+2. Obtain the caste certificate application form
+3. Fill in all details and attach self-attested document copies
+4. Submit with the prescribed fee
+5. Wait for field verification
+6. Collect the certificate after processing (15-30 days)
 
-## SC/ST Certificate for Central Government Jobs
+## Fees
 
-When applying for central government jobs through UPSC, SSC, or Railways:
+| State | Approximate Fee |
+|-------|----------------|
+| Uttar Pradesh | ₹10-₹15 |
+| Delhi | ₹10 |
+| Bihar | ₹50 |
+| Maharashtra | Free-₹25 |
+| Madhya Pradesh | ₹20 |
 
-- The certificate must be in the **prescribed format** as per the Government of India
-- It must be issued by a competent authority (DM, ADM, SDM, Tehsildar, or equivalent)
-- The caste/tribe name must match **exactly** with the Presidential Order for your state
-- If you have migrated to another state, you still need the certificate from your **state of origin**
+> Many states issue SC/ST certificates **free of cost** or at a nominal fee. Check your state portal.
 
-## Common Issues and Solutions
+## Processing Time
 
-| Issue | Solution |
-|-------|----------|
-| Father's caste certificate not available | Submit an affidavit along with school records, community records |
-| Caste name spelling mismatch | Get a correction certificate or affidavit; name must match Presidential Order |
-| Certificate rejected | Apply to the appellate authority (Collector/DM); attach additional evidence |
-| Need certificate from state of origin but living elsewhere | Apply through the e-District portal of your home state or visit home district |
+- **Online:** 7 to 21 working days
+- **Offline:** 15 to 30 working days
+- May take longer if field verification or caste scrutiny is involved
 
-## Related Guides
+## Validity
 
-- [Caste Certificate (Jati Praman Patra)](/guides/jati-praman-patra-apply-online) — general caste certificate guide
-- [OBC Certificate Apply Online](/guides/obc-certificate-apply-online) — for Other Backward Classes
-- [EWS Certificate Apply Online](/guides/ews-certificate-apply-online) — for General category economically weaker section
-- [Income Certificate Apply Online](/guides/income-certificate-apply-online) — often required alongside caste certificate
-- [Domicile Certificate Apply Online](/guides/domicile-certificate-apply-online) — proves state residence
+- SC/ST certificates generally have **lifetime validity** in most states
+- However, for **central government jobs and admissions**, a recently issued certificate may be preferred
+- Some institutions require **caste validity certificate** in addition to the caste certificate (especially in Maharashtra)
 
-## Frequently Asked Questions (FAQs)
+## Misuse and Penalties
 
-### 1. How long does it take to get an SC/ST certificate?
+The Indian government takes SC/ST certificate fraud very seriously:
 
-Online applications are typically processed within 15–30 working days. Some states offer faster processing (7–15 days). If field verification is required, it may take longer.
+- **Obtaining a false SC/ST certificate** is a criminal offence under the Indian Penal Code (Sections 420, 467, 468, 471)
+- **Penalties include imprisonment** of up to 7 years and monetary fine
+- If a person avails benefits using a **fake caste certificate**, all benefits will be **revoked** — including jobs, admissions, and promotions
+- The person may be **terminated from service** and required to **refund all benefits** received
+- Several states have enacted specific **Caste Certificate Verification Acts** with dedicated scrutiny committees
 
-### 2. Is there any fee for SC/ST certificate?
+> **Warning:** Never attempt to obtain a fraudulent caste certificate. The consequences are severe and can affect your entire career and life.
 
-Most states issue SC/ST certificates free of charge or at a nominal fee of ₹10–25. Check your state portal for exact fees.
+## Important Tips
 
-### 3. Is the SC/ST certificate valid for life?
+1. **Verify your caste in the official list** — Check the Constitution (Scheduled Castes/Tribes) Orders for your state before applying
+2. **Father's certificate speeds up the process** — Having your father's or family's existing caste certificate makes verification faster
+3. **Apply well in advance** — Don't wait until the last moment; apply at least 2-3 months before you need it
+4. **Check state-specific requirements** — Some states like Maharashtra require an additional caste validity certificate
+5. **Keep multiple copies** — Get the certificate in both physical and digital format for future use
 
-In most states, the SC/ST certificate does not have an expiry date and is valid permanently. However, some states issue it with a validity period, and for certain purposes (like Caste Validity), fresh verification may be needed.
+## Frequently Asked Questions
 
-### 4. Can I use my father's SC/ST certificate for my applications?
+### Q1: Can I get an SC/ST certificate if my father doesn't have one?
 
-No. You need your own SC/ST certificate in your name. However, your father's certificate serves as important supporting evidence when applying for your own.
+Yes, but the verification process will be more thorough. You will need to provide supporting evidence like community records, school records, village panchayat records, or an affidavit. A field inquiry will be conducted to verify your claim.
 
-### 5. What if my caste is listed in one state but not another?
+### Q2: Is SC/ST certificate transferable across states?
 
-SC/ST lists are state-specific. If you have migrated, you must obtain the certificate from your state of origin where your caste/tribe is listed. The certificate from your origin state is valid across India.
+No. The SC/ST list is **state-specific**. A caste listed as SC in one state may not be SC in another. If you move to a different state, you need to check if your caste is in that state's SC/ST list and apply for a new certificate.
 
-### 6. Can an SC/ST certificate be cancelled?
+### Q3: What is a Caste Validity Certificate?
 
-Yes, if obtained fraudulently. If the Caste Scrutiny Committee finds the certificate to be invalid, it can be cancelled, and legal action may be taken under the SC/ST (Prevention of Atrocities) Act.
+In some states like Maharashtra, a **Caste Validity Certificate** is an additional verification document issued by a Caste Scrutiny Committee. It is required for government jobs and admissions to confirm the authenticity of your caste certificate.
+
+### Q4: Can I apply online if I live in a rural area?
+
+Yes, you can visit a **Common Service Centre (CSC)** or **Jan Seva Kendra** in your area. They provide assisted online application services for a nominal charge.
+
+### Q5: How do I check if my caste is in the SC/ST list?
+
+Visit the **National Commission for Scheduled Castes** (ncsc.nic.in) or **National Commission for Scheduled Tribes** (ncst.nic.in) websites. You can also check the state-specific SC/ST lists on your state government's website.
+
+### Q6: What if my SC/ST certificate application is rejected?
+
+Check the rejection reason on the portal. You can reapply with correct documents or **file an appeal** with the higher authority (SDM or District Magistrate). Some states have a formal grievance redressal mechanism.
+
+---
+
+*Related guides: [OBC Certificate](/guide/obc-certificate-apply-online) | [EWS Certificate](/guide/ews-certificate-apply-online) | [Domicile Certificate](/guide/domicile-certificate-apply-online)*
+
+> **Disclaimer:** CitizenNest is an independent informational website and is not affiliated with any government department. Information is compiled from official government sources and may change. Always verify details on official government portals.

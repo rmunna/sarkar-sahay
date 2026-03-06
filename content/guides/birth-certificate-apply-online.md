@@ -1,234 +1,183 @@
 ---
-title: How to Apply for Birth Certificate Online in India
+title: "Birth Certificate Apply Online: State-Wise Process & Documents"
 description: >-
-  Step-by-step guide to apply for birth certificate online in India through CRS
-  portal. Covers documents required, online & offline process, delayed...
+  Complete guide to apply for birth certificate online via CRSORGI portal.
+  Step-by-step process, documents required, fees, and state-wise download steps.
 category: Certificates
 keywords:
-  - birth certificate apply online India
-  - birth certificate online registration
-  - how to get birth certificate India
-  - CRS birth certificate
-  - birth certificate documents required
-  - delayed birth registration India
+  - birth certificate apply online
+  - birth certificate online
   - crsorgi birth certificate
-readingTime: 8 min
+  - birth certificate download
+  - birth certificate documents
+  - birth certificate registration
+  - birth certificate india
+  - birth certificate fee
+  - hospital birth certificate
+  - state birth certificate
+readingTime: 10 min
+lastUpdated: "2026-03-06"
 officialLinks:
-  - 'https://crsorgi.gov.in'
-  - 'https://www.indiacode.nic.in/handle/123456789/1610'
+  - "https://crsorgi.gov.in/"
+  - "https://www.india.gov.in/topics/health-family-welfare/birth-certificate"
 ---
 
-# How to Apply for Birth Certificate Online in India
+# Birth Certificate Apply Online: State-Wise Process & Documents
 
-A birth certificate is the first and most important identity document issued to every citizen of India. Whether you are registering a newborn baby or need a certificate for an older child or adult, this guide explains the complete process — online and offline — in simple steps.
+A birth certificate is the first and most important identity document issued to every child born in India. It is mandatory for school admission, [Aadhaar card](/guide/aadhaar-card-apply-online) enrolment, [passport](/guide/passport-apply-online) application, and various government services. Under the Registration of Births and Deaths (RBD) Act, 1969, every birth must be registered within 21 days.
 
 ## What Is a Birth Certificate?
 
-A birth certificate is an official document issued by the local municipal body or Gram Panchayat that records the birth of a child. It contains details such as:
+A birth certificate is an official document issued by the local municipal body or gram panchayat that records the date, time, and place of birth along with the parents' details. The Registrar General of India oversees birth registration through the **CRS (Civil Registration System)** portal at crsorgi.gov.in.
 
-- Full name of the child
-- Date and place of birth
-- Name of the father and mother
-- Registration number and date of registration
+## Who Needs to Register a Birth?
 
-In India, birth registration is governed by the **Registration of Births and Deaths (RBD) Act, 1969** and managed by the **Office of the Registrar General of India (ORGI)**. The online portal for civil registration is **crsorgi.gov.in**.
+- **Every child born in India** — registration is mandatory regardless of nationality
+- **Parents or head of family** are responsible for registering the birth
+- For **hospital births**, the hospital itself initiates registration in most states
+- For **home births**, the head of household must report to the local registrar
 
-## Why Is a Birth Certificate Needed?
-
-A birth certificate is required for many important purposes:
-
-- **School admission** — Most schools require it as proof of age
-- **[Aadhaar](/guide/aadhaar-card-apply-online) card enrolment** — Needed for children below 5 years
-- **Passport application** — Accepted as proof of date of birth and nationality
-- **Government schemes** — Many welfare schemes require birth proof
-- **Domicile certificate** — Birth certificate serves as supporting document
-- **Property and legal matters** — Establishes identity and age
-- **Nationality proof** — Serves as evidence of Indian citizenship
-
-As per the RBD Act, registration of birth is **compulsory** and must be done within **21 days** of the date of birth.
-
-## Documents Required for Birth Certificate
+## Documents Required
 
 ### For Newborn Registration (Within 21 Days)
 
-- Hospital discharge summary or birth report from the hospital
-- Aadhaar card of father and mother
-- Address proof (any one — Aadhaar, Voter ID, Ration Card, Electricity Bill)
-- Marriage certificate of parents (may be asked in some states)
-- Proof of delivery signed by doctor/ANM (for home births)
+- Hospital discharge summary / birth report from hospital
+- Proof of identity of parents ([Aadhaar card](/guide/aadhaar-card-apply-online), voter ID, or passport)
+- Proof of address of parents
+- Marriage certificate of parents (if available)
+- Mobile number linked to Aadhaar (for OTP verification on CRSORGI)
 
-### For Delayed Registration (After 21 Days)
+### For Home Birth
 
-If birth is registered after 21 days but within **1 year**, additional documents may include:
+- Declaration by the head of the family or a person present at the time of birth
+- Aadhaar card of the person reporting
+- Address proof of the place of birth
 
-- Affidavit (sworn statement) regarding the delay
-- Non-availability certificate from the original registrar (in some states)
+## Step-by-Step Online Process (CRSORGI Portal)
 
-If registration is done **after 1 year**, you will need:
+### Step 1: Visit the CRSORGI Portal
 
-- Order from a First Class Magistrate or Executive Magistrate
-- Affidavit explaining the reason for delay
-- School records, hospital records, or any other supporting documents
-- Two witness identity proofs
+Go to [crsorgi.gov.in](https://crsorgi.gov.in/) and click on **"Citizen Registration"** or **"User Login"**.
 
-> **Note:** The exact requirements for delayed registration vary by state. Always check with your local municipal corporation or Gram Panchayat.
+### Step 2: Create an Account
 
-## How to Apply for Birth Certificate Online (Step-by-Step)
+- Click **"General Public Sign Up"**
+- Enter your name, mobile number, email, and create a password
+- Verify via OTP sent to your mobile
 
-The Government of India provides an online portal — **CRS (Civil Registration System)** — at [crsorgi.gov.in](https://crsorgi.gov.in) for birth registration and certificate download.
+### Step 3: Login and Select "Birth Registration"
 
-### Step 1: Visit the CRS Portal
-
-Go to **https://crsorgi.gov.in** in your browser. The portal is available in English and Hindi.
-
-### Step 2: Create an Account or Log In
-
-- Click on **"Sign Up"** if you are a new user
-- Enter your name, email, mobile number, and create a password
-- Verify your mobile number with OTP
 - Log in with your credentials
-
-### Step 3: Select "Birth Registration"
-
-- After logging in, select **"Birth"** from the registration options
-- Choose your **State**, **District**, and **Registration Unit** (municipal body or Gram Panchayat)
+- Select **"Birth"** from the registration type
+- Choose your **State, District, and Registration Unit**
 
 ### Step 4: Fill the Birth Registration Form
 
-Enter the required details:
-
-- **Child's details** — Name (if decided), sex, date of birth, place of birth (hospital/home/other)
-- **Mother's details** — Name, age at the time of birth, Aadhaar number, address, education, occupation
-- **Father's details** — Name, Aadhaar number, education, occupation
-- **Informant details** — Name and address of the person reporting the birth
-- **Permanent address and present address** of parents
+Enter the following details:
+1. **Child's details** — Date of birth, gender, place of birth (hospital/home/other)
+2. **Mother's details** — Name, Aadhaar number, age at time of birth, address, education, occupation
+3. **Father's details** — Name, Aadhaar number, address, education, occupation
+4. **Informant details** — Name and address of the person reporting the birth
+5. **Permanent address** of parents
 
 ### Step 5: Upload Documents
 
 Upload scanned copies of:
-
-- Hospital discharge slip or birth report
-- Aadhaar card of parents
+- Hospital birth report / discharge summary
+- Parents' ID proof
 - Address proof
 
-File format is usually **PDF or JPEG**, and size limit is typically **200 KB to 1 MB** per document.
+### Step 6: Submit and Note the Registration Number
 
-### Step 6: Submit and Note the Reference Number
+- Review all details carefully
+- Submit the application
+- Note down the **Application Reference Number** for tracking
 
-- Review all details carefully before submitting
-- Click **"Submit"**
-- Note down the **application reference number** for tracking
+### Step 7: Verification by Registrar
 
-### Step 7: Verification and Approval
+The local Registrar/Sub-Registrar will verify the application. This may take 7–21 days depending on the state.
 
-- The application goes to the **local Registrar** for verification
-- The Registrar may verify details with the hospital or concerned authority
-- Processing time is usually **7 to 21 days**, depending on the state
+### Step 8: Download Birth Certificate
 
-### Step 8: Download the Birth Certificate
+Once approved, log in to CRSORGI and download the digitally signed birth certificate from the **"Download Certificate"** section.
 
-- Once approved, log in to the CRS portal
-- Go to **"My Applications"** or **"Print Certificate"**
-- Download and print your **digitally signed birth certificate**
+## Offline Process
 
-> **Tip:** Many states also allow birth registration and certificate download through their own state portals and the **[DigiLocker](/guide/digilocker-guide)** platform.
+1. Visit your local **Municipal Corporation**, **Nagar Palika**, or **Gram Panchayat** office
+2. Obtain the birth registration form (Form No. 1 under RBD Act)
+3. Fill in the details and attach required documents
+4. Submit to the **Registrar of Births and Deaths**
+5. Collect the birth certificate after verification (usually 7–15 days)
 
-## How to Apply for Birth Certificate Offline
+## State-Wise Online Portals
 
-If you prefer the offline method or online registration is not available in your area:
-
-1. **Visit your nearest Municipal Corporation office, Nagar Palika, or Gram Panchayat office**
-2. **Collect the birth registration form** (or download it from the state government website)
-3. **Fill the form** with all required details
-4. **Attach photocopies** of required documents (hospital report, Aadhaar, address proof)
-5. **Submit the form** to the Birth & Death Registration counter
-6. **Collect the acknowledgement receipt** with your reference number
-7. **Collect the birth certificate** after the processing period (usually 7–15 days)
-
-### Hospital-Born vs Home-Born: What's Different?
-
-| Scenario | Key Difference |
+| State | Portal |
 |---|---|
-| **Born in Hospital** | Hospital usually initiates registration automatically. You get a birth report that serves as primary proof. |
-| **Born at Home** | The head of the household or the person present at birth must report it to the local registrar within 21 days. An affidavit or declaration from the attending midwife/ANM may be needed. |
-| **Born during travel** | Report to the registrar of the area where the birth took place, or the area where the mother usually resides. |
+| All States (Central) | crsorgi.gov.in |
+| Delhi | edistrict.delhigovt.nic.in |
+| Maharashtra | aaplesarkar.mahaonline.gov.in |
+| Karnataka | kaveri.karnataka.gov.in |
+| Tamil Nadu | tnreginet.gov.in |
+| Uttar Pradesh | esathi.up.nic.in |
+| West Bengal | wbcrb.gov.in |
 
-## Delayed Birth Registration
+> **Note:** Most states have migrated to the central CRSORGI portal. Check your state's e-District portal if CRSORGI does not cover your area yet.
 
-If the 21-day window has passed, the process depends on how late the registration is:
+## Fees
 
-### Between 21 Days and 30 Days
+| Type | Fee |
+|---|---|
+| Registration within 21 days | **Free** |
+| Registration after 21 days but within 30 days | ₹2 – ₹5 (varies by state) |
+| Late registration (after 30 days) | ₹5 – ₹50 + late fee (varies by state) |
+| Duplicate / copy of birth certificate | ₹10 – ₹50 |
 
-- Registration can be done by the Registrar with **late fee** (varies by state, usually ₹2 to ₹10)
-- No magistrate order needed
+> Fees vary by state. Check your local municipal body for exact charges.
 
-### Between 30 Days and 1 Year
+## Processing Time
 
-- Registration requires permission from a **higher authority** (usually the District Registrar or Additional District Magistrate)
-- Late fee and an **affidavit** explaining the reason for delay are required
+- **Online (CRSORGI):** 7–21 days after submission
+- **Offline:** 7–15 working days
+- **Hospital-initiated registration:** Often auto-registered; certificate available in 15–30 days
 
-### After 1 Year
+## Important Tips
 
-- Registration requires an **order from a First Class Magistrate or Executive Magistrate**
-- You must file an application in the magistrate's court
-- Supporting documents like school leaving certificate, hospital records, and witness statements will be needed
-- Court fee and processing time apply
+1. **Register within 21 days** — this is free and hassle-free. Late registration requires additional documents and fees.
+2. **Hospital births** are usually registered by the hospital itself. Confirm with the hospital before applying separately.
+3. **Keep the reference number safe** — you need it to track status and download the certificate.
+4. **DigiLocker integration** — Many states allow downloading birth certificates through [DigiLocker](https://digilocker.gov.in/) once registered on CRSORGI.
+5. **Name addition** — If you register the birth before naming the child, you can add the name later through the same portal. See our [birth certificate name change guide](/guide/birth-certificate-name-change).
 
-> **Important:** Some states have simplified delayed registration through online portals. Check your state's official website for specific procedures.
+## Frequently Asked Questions
 
-## Fees for Birth Certificate
+### Q1. Is birth certificate mandatory in India?
 
-- **Registration within 21 days:** Free in most states
-- **Late registration (21 days to 1 year):** ₹2 to ₹50 (varies by state)
-- **After 1 year:** Court fees + registration fees (₹50 to ₹500 depending on state)
-- **Duplicate/additional copy:** ₹10 to ₹50
+Yes. Under the Registration of Births and Deaths (Amendment) Act, 2023, a birth certificate is now the **single document** for proof of date and place of birth for admission to educational institutions, government jobs, voter ID, and other purposes.
 
-## How to Check Birth Certificate Status Online
+### Q2. Can I apply for a birth certificate online for free?
 
-1. Visit **crsorgi.gov.in**
-2. Log in to your account
-3. Go to **"Track Application"** or **"My Applications"**
-4. Enter your reference number
-5. Check the current status (Pending / Under Review / Approved / Rejected)
+Yes. If you register the birth within 21 days, it is completely free on the CRSORGI portal (crsorgi.gov.in).
 
-## Frequently Asked Questions (FAQs)
+### Q3. What if the birth was not registered in the hospital?
 
-### 1. Is online birth registration available in all states?
+For home births, the head of the family must report the birth to the local registrar within 21 days. You will need a declaration and ID/address proof. For late registration, see our [late registration guide](/guide/birth-certificate-late-registration).
 
-Most states and Union Territories in India support online birth registration through the CRS portal (crsorgi.gov.in). However, the level of digitisation varies. Some states have their own dedicated portals. If online registration is not working for your area, visit the nearest municipal office.
+### Q4. How do I download my birth certificate online?
 
-### 2. Can I register a birth after 21 days?
+Log in to crsorgi.gov.in with your credentials, go to **"Download Certificate"**, enter your registration number, and download the digitally signed PDF.
 
-Yes. Birth can be registered late, but the process becomes more complex. Between 21 days and 1 year, you need approval from a higher authority and an affidavit. After 1 year, a magistrate's order is required.
+### Q5. Can I get a birth certificate for an adult?
 
-### 3. How long does it take to get a birth certificate?
+Yes. Adults who were never registered can apply for a [late birth certificate registration](/guide/birth-certificate-late-registration) through the Registrar with supporting documents and, in some cases, a magistrate order.
 
-For timely registration (within 21 days), most municipal bodies issue the certificate within **7 to 15 working days**. Online applications through the CRS portal may be processed within **7 to 21 days**.
+### Q6. How long is a birth certificate valid?
 
-### 4. Can I download my birth certificate from DigiLocker?
+A birth certificate has **no expiry date**. It is a lifetime document.
 
-Yes, if your state has integrated with DigiLocker, you can access your birth certificate digitally. Visit **digilocker.gov.in** or use the DigiLocker app, link your Aadhaar, and search for "Birth Certificate" under the issuing department of your state.
+### Q7. What if there is an error in my birth certificate?
 
-### 5. What if there is a mistake in the birth certificate?
-
-You can apply for **correction** at the same registrar's office where the birth was registered. Submit a correction application along with supporting documents. Some states allow online correction through the CRS portal. A small fee may apply.
-
-### 6. Is the birth certificate issued online legally valid?
-
-Yes. The digitally signed birth certificate downloaded from the CRS portal or state portal is legally valid and accepted by all government and private institutions.
-
-### 7. Can NRIs register the birth of their child born in India?
-
-Yes. The process is the same. The birth must be registered at the place where it occurred. NRIs can also use the online portal if they have an Indian mobile number for OTP verification. For births abroad, registration is done at the Indian Embassy/Consulate.
+You can apply for correction through the Registrar. See our [birth certificate name change guide](/guide/birth-certificate-name-change) for the process.
 
 ---
 
-*This guide is for informational purposes. Rules and fees may vary by state. Always verify with your local municipal body or the official CRS portal at [crsorgi.gov.in](https://crsorgi.gov.in) for the latest information.*
-
----
-
-## You May Also Need
-
-- [Death Certificate Apply Online](/guide/death-certificate-apply-online)
-- [Marriage Certificate Apply Online](/guide/marriage-certificate-apply-online)
-- [Passport Apply Online](/guide/passport-apply-online)
+*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with any government body. Information is sourced from official government portals and may change. Always verify details on the official website before applying.*
