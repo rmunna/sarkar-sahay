@@ -1,141 +1,154 @@
 ---
-title: "PM Kisan eKYC Failed / Not Working — Fix Guide"
-description: "PM Kisan eKYC failed or not working? Fix OTP issues, biometric errors, Aadhaar-mobile mismatch & redo eKYC step by step."
+title: "PM Kisan eKYC Failed? Fix Aadhaar Verification Errors"
+description: "PM Kisan eKYC failed? Fix OTP not received, biometric failure, name mismatch, and Aadhaar verification errors with this step-by-step guide."
 category: "Government Schemes"
-keywords: ["PM Kisan eKYC failed", "PM Kisan eKYC not working", "PM Kisan OTP not received", "PM Kisan biometric failed", "PM Kisan eKYC redo"]
-readingTime: "7 min"
-lastUpdated: "2025-02-22"
+keywords: ["PM Kisan eKYC failed", "PM Kisan Aadhaar verification", "PM Kisan OTP not received", "PM Kisan biometric failure", "PM Kisan eKYC deadline"]
+lastUpdated: "2026-03-06"
+readingTime: "8 min"
 officialLinks:
-  - https://pmkisan.gov.in
-  - https://ekyc.pmkisan.gov.in
+  - "https://pmkisan.gov.in"
+  - "https://resident.uidai.gov.in"
+  - "https://uidai.gov.in/en/contact-support.html"
 ---
 
 ## What is PM Kisan eKYC?
 
-PM Kisan Samman Nidhi provides ₹6,000 per year in three instalments to eligible farmer families. The government mandates **eKYC (Electronic Know Your Customer)** to verify beneficiary identity using Aadhaar. Without completed eKYC, your instalments will be **stopped**.
+PM Kisan eKYC (electronic Know Your Customer) is the **mandatory Aadhaar verification** process for all PM Kisan beneficiaries. Without completing eKYC, your PM Kisan installments of ₹2,000 will be **blocked**. The process verifies your identity by matching your Aadhaar details with your PM Kisan registration.
 
-eKYC can be done via:
-- **OTP-based eKYC** on the PM Kisan portal (self-service)
-- **Biometric eKYC** at a CSC (Common Service Centre)
+If your eKYC has failed, this guide will help you identify the exact error and fix it.
 
-This guide covers all eKYC errors and how to fix them.
+> **Disclaimer:** CitizenNest is an independent informational platform and is not affiliated with the Government of India.
 
-## Common eKYC Errors & Fixes
+## Common eKYC Failure Reasons & Fixes
 
 ### 1. OTP Not Received
-- **Error:** "OTP not sent" or you simply don't receive the SMS
-- **Causes & Fixes:**
-  1. **Mobile number not linked to Aadhaar** — Your Aadhaar must have a mobile number registered with UIDAI. Visit an Aadhaar centre to link your mobile first
-  2. **Network issues** — Ensure you have mobile signal. Try moving to an area with better coverage
-  3. **DND (Do Not Disturb) active** — Disable DND by sending "STOP" to 1909 from your registered number
-  4. **Server overload** — Try during off-peak hours (early morning or late night). Avoid last dates of eKYC deadlines
-  5. Wait at least **2-3 minutes** before clicking "Resend OTP"
 
-### 2. Biometric Authentication Failed
-- **Error:** "Biometric authentication failed" or "Fingerprint not matched"
-- **Causes & Fixes:**
-  1. **Worn fingerprints** — Common in farmers and manual labourers. Try using a **different finger** (thumb or index finger of other hand)
-  2. **Dry or wet fingers** — Wipe hands clean and dry before scanning
-  3. **Old biometric data** — If your fingerprints have changed, visit an Aadhaar centre to **update biometrics** first
-  4. **Device issue** — Ask the CSC operator to clean the scanner or try a **different CSC centre**
-  5. Try **iris scan** instead of fingerprint if the CSC has iris scanning equipment
+**Cause:** Your mobile number is not linked to Aadhaar, or network issues.
 
-### 3. Aadhaar-Mobile Number Mismatch
-- **Error:** "Mobile number does not match Aadhaar records" or "Aadhaar authentication failed"
-- **Cause:** The mobile number registered on PM Kisan is different from the one linked to your Aadhaar
-- **Fix:**
-  1. Check which mobile number is linked to your Aadhaar by visiting [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in)
-  2. If your Aadhaar has a **different number**, visit an Aadhaar Enrolment Centre to update it (see our [Aadhaar Mobile Update Fix guide](/guide/aadhar-mobile-number-update-fix))
-  3. Alternatively, do **biometric eKYC at a CSC** — this doesn't require mobile OTP
+**Fix:**
+1. **Check if your mobile number is linked to Aadhaar** — visit [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in) and check under "Verify Email/Mobile"
+2. If not linked, **update your mobile in Aadhaar:**
+   - Visit the nearest **Aadhaar Enrollment Centre**
+   - Carry your Aadhaar card and the new mobile SIM
+   - Submit the mobile update request (takes 3-5 working days)
+3. **Retry after ensuring good network coverage** — sometimes OTP is delayed by 1-2 minutes
+4. **Check SMS filters** on your phone — ensure OTPs are not blocked
+5. Try during **off-peak hours** (early morning or late evening) when server load is lower
 
-### 4. "eKYC Already Done" Error
-- **Error:** "eKYC has already been completed for this Aadhaar" or "Record already exists"
-- **Cause:** Your eKYC was already completed in a previous cycle
-- **Fix:**
-  1. Check your eKYC status at [pmkisan.gov.in](https://pmkisan.gov.in) → "eKYC Status"
-  2. If status shows **"eKYC Done"**, no action needed — your instalments will continue
-  3. If your instalment is still stopped despite eKYC done, the issue may be something else — check beneficiary status
-  4. For re-verification in a new cycle, the government will announce fresh eKYC drives
+### 2. Biometric Authentication Failure
 
-### 5. "Aadhaar Number Not Found" / "Invalid Aadhaar"
-- **Error:** "Aadhaar number not found in UIDAI database"
-- **Fix:**
-  1. Double-check your **12-digit Aadhaar number** — no typos
-  2. Ensure your Aadhaar is **not deactivated** — check at myaadhaar.uidai.gov.in
-  3. If your Aadhaar was generated recently, wait **48-72 hours** for it to sync with PM Kisan systems
+**Cause:** Worn fingerprints (common in farmers), dirty scanner, or device issues.
 
-### 6. "Technical Error" / Server Down
-- **Error:** "Service temporarily unavailable" or blank screen after submission
-- **Fix:**
-  1. The PM Kisan server often gets overloaded near **eKYC deadlines**
-  2. Try at **off-peak hours** — early morning (6-8 AM) or late night (10 PM-12 AM)
-  3. Clear your browser cache and cookies
-  4. Use **Google Chrome** in incognito mode
-  5. Try on a different device or network
+**Fix:**
+1. **Clean and moisturise your fingers** before attempting biometric scan
+2. **Try different fingers** — the system accepts any registered fingerprint
+3. **Use iris scan** instead of fingerprint at the CSC — ask the operator
+4. Visit a **different CSC** with a better biometric device
+5. If fingerprints are permanently damaged, request **iris-based authentication** at the Aadhaar centre
 
-## How to Redo PM Kisan eKYC
+### 3. Name Mismatch Between Aadhaar and PM Kisan
 
-### Method 1: OTP-Based (Online)
-1. Go to [pmkisan.gov.in](https://pmkisan.gov.in)
-2. Click **"eKYC"** option on the homepage
-3. Enter your **Aadhaar number** linked to PM Kisan
-4. Click **"Search"** — your details will appear
-5. Click **"Get OTP"** — OTP sent to Aadhaar-linked mobile
-6. Enter the OTP within **10 minutes**
-7. Click **"Submit"** — you'll see "eKYC Successful" confirmation
-8. Save/screenshot the confirmation
+**Cause:** Your name in Aadhaar is different from your name in PM Kisan records.
 
-### Method 2: Biometric at CSC Centre
-1. Visit your nearest **CSC (Common Service Centre)** — find one at [locator.csccloud.in](https://locator.csccloud.in)
-2. Carry your **Aadhaar card** (original)
-3. Tell the operator you need **PM Kisan eKYC**
-4. Provide your Aadhaar number and biometric (fingerprint/iris)
-5. The operator will complete eKYC on the PM Kisan portal
-6. Collect the **confirmation slip**
-7. **Fee:** Free (government service) — don't pay more than ₹20-30 if CSC charges a nominal fee
+**Fix:**
+1. **Check your exact name** in Aadhaar at [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in)
+2. **Option A — Update PM Kisan name:**
+   - Visit [pmkisan.gov.in](https://pmkisan.gov.in)
+   - Use **"Updation of Self Registered Farmer"** to correct your name
+   - Or visit your local agriculture office for correction
+3. **Option B — Update Aadhaar name:**
+   - Visit an Aadhaar Enrollment Centre
+   - Carry supporting documents (voter ID, passport, etc.)
+   - Submit name correction request (takes 5-10 working days)
+4. After correction, **wait 3-5 days** for systems to sync, then retry eKYC
 
-## When to Contact Helpline
+### 4. Aadhaar Number Invalid or Not Found
 
-Contact PM Kisan helpline if:
-- eKYC fails **repeatedly** despite correct Aadhaar and mobile
-- Your instalment is **stopped even after eKYC completion**
-- Your Aadhaar is correct but the portal shows **"record not found"**
-- You suspect your **registration has been deleted** or modified
+**Cause:** Incorrect Aadhaar number entered, or Aadhaar is deactivated.
 
-**PM Kisan Helpline:** 155261 or 011-24300606
-**Email:** pmkisan-ict@gov.in
-**Portal:** [pmkisan.gov.in](https://pmkisan.gov.in) → Grievance section
+**Fix:**
+1. **Verify your Aadhaar number** at [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in)
+2. If your Aadhaar is **deactivated**, visit an Aadhaar centre to reactivate
+3. Ensure you're entering the **12-digit number correctly** (no spaces or extra digits)
+4. If you've lost your Aadhaar number, retrieve it using **"Retrieve Lost UID"** on the UIDAI website
+
+### 5. Server Error or Technical Glitch
+
+**Cause:** PM Kisan or UIDAI server is overloaded.
+
+**Fix:**
+1. **Try again after a few hours** — server issues are usually temporary
+2. Try during **off-peak hours** (before 9 AM or after 8 PM)
+3. **Clear browser cache** and try in a different browser
+4. Use the **mobile-friendly version** or try from a different device
+5. If the issue persists for more than 48 hours, contact the PM Kisan helpline
+
+## Step-by-Step: Complete eKYC Successfully
+
+### Online (OTP Method):
+1. Visit [pmkisan.gov.in](https://pmkisan.gov.in)
+2. Click **"eKYC"** on the homepage
+3. Enter your **Aadhaar number**
+4. Enter the **OTP** sent to your Aadhaar-linked mobile
+5. If successful, you'll see **"eKYC is successful"**
+
+### At CSC (Biometric Method):
+1. Find your nearest CSC at [locator.csccloud.in](https://locator.csccloud.in)
+2. Visit with your **Aadhaar card** and **registered mobile**
+3. The operator will enter your Aadhaar number
+4. Provide **fingerprint or iris scan**
+5. Collect the **confirmation receipt**
+
+## eKYC Deadline
+
+The government periodically sets eKYC deadlines. If you miss the deadline, your installment for that period will be **withheld** until eKYC is completed. Once done, pending payments are usually released in the next cycle.
+
+**Check the latest deadline** on [pmkisan.gov.in](https://pmkisan.gov.in) — it is displayed on the homepage.
+
+## Helpline & Support
+
+| Channel | Details |
+|---|---|
+| PM Kisan Helpline | **155261** or **011-24300606** |
+| UIDAI Helpline | **1947** |
+| PM Kisan Email | pmkisan-ict@gov.in |
+| UIDAI Email | help@uidai.gov.in |
+| CSC Locator | [locator.csccloud.in](https://locator.csccloud.in) |
 
 ## Important Tips
 
-1. **Don't wait for the deadline** — complete eKYC as soon as the government announces it
-2. **Keep your Aadhaar mobile number updated** — this is the #1 reason for eKYC failure
-3. **Biometric eKYC at CSC is more reliable** than OTP-based if you face repeated issues
-4. **Check beneficiary status regularly** at pmkisan.gov.in to catch issues early
-5. **Screenshot every confirmation** — useful if there's a dispute later
+1. **Complete eKYC as soon as possible** — don't wait for the deadline
+2. **Ensure your Aadhaar mobile number is active** before attempting OTP-based eKYC
+3. **Visit CSC for biometric eKYC** if OTP method keeps failing
+4. **Keep your Aadhaar details updated** — name, mobile, and address should be current
+5. **Take a screenshot** of the eKYC success message for your records
 
-## FAQs
+## Frequently Asked Questions
 
-### Is PM Kisan eKYC mandatory every year?
-The government announces eKYC requirements periodically. As of 2025, eKYC is mandatory and must be completed before each instalment cycle. Check pmkisan.gov.in for current deadlines.
+### How many times can I retry eKYC?
 
-### Can I do PM Kisan eKYC from my mobile phone?
-Yes. Visit [pmkisan.gov.in](https://pmkisan.gov.in) on your mobile browser and follow the OTP-based eKYC process. There is no separate mobile app for PM Kisan eKYC.
+There is no fixed limit on retries. However, if OTP fails multiple times, wait for **24 hours** before trying again. For biometric, you can try at different CSCs.
 
-### What if my Aadhaar has no mobile number linked?
-You cannot do OTP-based eKYC. Visit an **Aadhaar Enrolment Centre** to link your mobile number first, then do eKYC. Alternatively, do biometric eKYC at a CSC centre.
+### eKYC shows "already done" but I didn't receive payment. Why?
 
-### How long does eKYC take to reflect in PM Kisan records?
-Usually **24-48 hours** for OTP-based eKYC and **48-72 hours** for biometric eKYC done at CSC.
+eKYC is just one requirement. Payment may be held due to **land record verification pending**, **bank account issues**, or **Aadhaar-bank linking not done**. Check your full beneficiary status on the PM Kisan portal.
 
-### Will I lose my PM Kisan benefits if eKYC fails?
-Your instalment will be **held** (not cancelled) until eKYC is completed. Once done, pending instalments are typically released in the next payment cycle.
+### Can someone else complete eKYC on my behalf?
 
-### Can someone else do eKYC on my behalf?
-OTP-based eKYC requires your Aadhaar-linked mobile. For biometric eKYC at CSC, **you must be physically present** for fingerprint/iris scan. No one can do it on your behalf.
+No, eKYC requires **your Aadhaar number and your OTP/biometric**. You must be present (or your OTP-linked mobile must be with you) for verification.
+
+### I updated my Aadhaar but eKYC still fails. What should I do?
+
+Aadhaar updates take **3-10 working days** to reflect in all systems. Wait for the update to propagate, then retry. If it still fails after 10 days, contact the PM Kisan helpline.
+
+### Is there a fee for eKYC?
+
+**No**, eKYC is completely free — both online and at CSCs. If a CSC operator charges you, report it to the CSC helpline or district administration.
+
+### My Aadhaar is locked. Can I still do eKYC?
+
+If you've locked your Aadhaar biometrics, you need to **unlock** them temporarily via [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in) before attempting biometric eKYC. For OTP-based eKYC, biometric lock doesn't matter.
 
 ---
 
-*This is an independent guide and is not affiliated with the Government of India or PM Kisan scheme. Information is sourced from official PM Kisan portal. Verify at [pmkisan.gov.in](https://pmkisan.gov.in).*
-
-*Check your PM Kisan payment status in our [PM Kisan Status Check & Beneficiary List guide](/guide/pm-kisan-status-check-beneficiary-list).*
+*If your payment is still not received after eKYC, see our [PM Kisan Payment Not Received guide](/guide/pm-kisan-payment-not-received-fix). To check your payment history, visit our [PM Kisan Beneficiary Status guide](/guide/pm-kisan-beneficiary-status-check).*

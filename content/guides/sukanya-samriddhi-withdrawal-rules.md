@@ -1,186 +1,161 @@
 ---
-title: "Sukanya Samriddhi Yojana Withdrawal Rules: Partial and Full Withdrawal Guide"
-description: "Complete guide to SSY withdrawal rules — partial withdrawal for education, premature closure, maturity withdrawal process, and required documents."
-lastUpdated: "2026-03-05"
-category: "Tax & Finance"
-readingTime: "10 min"
+title: "Sukanya Samriddhi Withdrawal Rules: Partial & Maturity"
+description: >-
+  Complete guide to Sukanya Samriddhi Yojana withdrawal rules including partial withdrawal after 18, marriage withdrawal, premature closure, and maturity process.
+category: Tax & Finance
+keywords:
+  - sukanya samriddhi withdrawal rules
+  - sukanya samriddhi partial withdrawal
+  - SSY withdrawal after 18
+  - sukanya samriddhi maturity
+  - sukanya samriddhi premature closure
+  - sukanya samriddhi marriage withdrawal
+  - SSY account closure rules
+  - sukanya samriddhi yojana withdrawal
+lastUpdated: '2026-03-06'
+readingTime: "8 min"
 officialLinks:
-  - "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89"
-  - "https://www.indiapost.gov.in/Financial/Pages/Content/Sukanya-Samriddhi-Account.aspx"
-faqs:
-  - question: "When can I withdraw money from SSY account?"
-    answer: "Partial withdrawal of up to 50% is allowed after the girl child turns 18 or passes 10th class (whichever is later) for higher education. Full withdrawal is allowed at maturity (21 years) or after the girl turns 18 for marriage."
-  - question: "Can I close SSY account before maturity?"
-    answer: "Yes, premature closure is allowed in case of the account holder's death, life-threatening illness, or if the guardian faces extreme financial hardship. The account can also be closed for marriage after the girl turns 18."
-  - question: "What documents are needed for SSY withdrawal?"
-    answer: "You need the withdrawal application form, SSY passbook, identity proof, admission letter or fee receipt (for education withdrawal), and an affidavit confirming the girl's age (for marriage closure)."
-  - question: "Is the SSY withdrawal amount taxable?"
-    answer: "No. Both partial and full withdrawals from SSY are completely tax-free under the EEE (Exempt-Exempt-Exempt) status."
-  - question: "Can I withdraw SSY money for purposes other than education or marriage?"
-    answer: "No. Partial withdrawal is only permitted for higher education. Premature closure is allowed only for marriage (after 18), death, life-threatening illness, or extreme financial hardship."
-  - question: "How many times can I make partial withdrawal from SSY?"
-    answer: "Partial withdrawal for education can be made in a single lump sum or in installments over a maximum of 5 years, with one withdrawal per year."
+  - 'https://www.indiapost.gov.in/Financial/Pages/Content/Sukanya-Samriddhi-Account.aspx'
+  - 'https://nsiindia.gov.in/InternalPage.aspx?Id_Pk=89'
 ---
 
-# Sukanya Samriddhi Yojana Withdrawal Rules: Partial and Full Withdrawal Guide
+# Sukanya Samriddhi Withdrawal Rules: Partial & Maturity
 
-Understanding SSY withdrawal rules is essential before investing. While the scheme has a 21-year maturity period, there are provisions for partial withdrawal for education and premature closure under specific circumstances. This guide covers every withdrawal scenario with required documents and procedures.
+The **Sukanya Samriddhi Yojana (SSY)** is a government-backed savings scheme for the girl child, offering one of the highest interest rates among small savings instruments. Understanding the withdrawal rules is essential to make the most of your SSY account.
 
-## Types of SSY Withdrawal
+## What is Sukanya Samriddhi Yojana?
 
-There are three types of withdrawals from a Sukanya Samriddhi Yojana account:
+Sukanya Samriddhi Yojana is a savings scheme launched under the **Beti Bachao, Beti Padhao** campaign. It allows parents or guardians to open an account for a girl child below 10 years of age. The account matures **21 years from the date of opening**, and deposits can be made for the first 15 years.
 
-1. **Partial withdrawal** — For higher education after the girl turns 18
-2. **Premature closure** — Before maturity under special conditions
-3. **Maturity withdrawal** — Full amount after 21 years
+- **Current Interest Rate:** 8.2% per annum (compounded yearly, as per Q1 FY 2025-26)
+- **Minimum Deposit:** ₹250 per year
+- **Maximum Deposit:** ₹1,50,000 per year
+- **Tax Benefit:** EEE (Exempt-Exempt-Exempt) under Section 80C
 
-## Partial Withdrawal Rules
+## Withdrawal Rules at a Glance
 
-### Eligibility
+| Type | When Allowed | How Much |
+|------|-------------|----------|
+| Partial Withdrawal | Girl child turns 18 or passes 10th | Up to 50% of previous year balance |
+| Marriage Withdrawal | Girl child aged 18+ for marriage | Full balance (account closes) |
+| Maturity | 21 years from account opening | Full balance with interest |
+| Premature Closure | Special circumstances | Full balance (conditions apply) |
 
-Partial withdrawal is allowed when:
-- The girl child has **turned 18 years of age**, OR
-- Has **passed 10th class** (whichever is later)
-- The purpose must be **higher education**
+## Partial Withdrawal Rules (After Age 18)
 
-### How Much Can You Withdraw?
+The account holder can make a **partial withdrawal** once the girl child:
+- Has **attained the age of 18 years**, OR
+- Has **passed 10th standard** (whichever is earlier)
 
-- Maximum **50% of the balance** at the end of the preceding financial year
-- Withdrawal can be made in **lump sum or up to 5 annual installments**
+### Key Conditions
 
-### Documents Required for Partial Withdrawal
+1. **Maximum Amount:** Up to **50%** of the balance available at the end of the preceding financial year
+2. **Withdrawal Frequency:** Partial withdrawal can be made **only once** or in instalments (maximum one per year)
+3. **Purpose:** The withdrawal is meant for higher education expenses of the girl child
+4. **Proof Required:** Admission offer letter or fee receipt from a recognized educational institution
 
-1. **Withdrawal application form**
-2. **SSY passbook**
-3. **Identity proof** of the account holder (girl child)
-4. **Admission confirmation** letter from a recognized educational institution
-5. **Fee receipt** or demand letter from the institution
+### Documents for Partial Withdrawal
 
-### Process
+- Withdrawal application form
+- Identity proof of the account holder (girl child if 18+)
+- Admission confirmation or fee receipt from educational institution
+- Passbook of SSY account
+- Age proof of the girl child (birth certificate or 10th marksheet)
 
-1. Visit the post office or bank where the SSY account is held
-2. Submit the withdrawal form with supporting documents
-3. Specify the withdrawal amount (up to 50% of previous year-end balance)
-4. Amount is credited to the linked bank account or paid via cheque
+## Marriage Withdrawal (Premature Closure for Marriage)
 
-## Premature Closure Rules
+The SSY account can be **closed before maturity** if the girl child is getting married:
 
-### When Is Premature Closure Allowed?
-
-The SSY account can be closed before the 21-year maturity period in these cases:
-
-#### 1. Marriage of the Girl Child
-- Allowed **after the girl turns 18**
-- Must be at least **one month before** the marriage date
-- Requires an affidavit confirming the girl has attained 18 years
-
-#### 2. Death of the Account Holder
-- The account is closed and the **full balance including interest** is paid to the guardian or nominee
-- Requires a death certificate
-
-#### 3. Life-Threatening Illness
-- If the account holder (girl child) is diagnosed with a **life-threatening disease**
-- Requires medical documentation from a competent authority
-- Full balance is paid out
-
-#### 4. Guardian's Death or Extreme Hardship
-- If continuing the account causes **undue financial hardship** to the guardian
-- Requires supporting documentation
-
-### Interest on Premature Closure
-
-- For **marriage and medical closure**: Interest is paid at the **SSY rate** (not reduced)
-- For **other premature closures**: Interest may be paid at the **Post Office Savings Account rate** instead of the SSY rate
-
-### Documents for Premature Closure
-
-1. **Closure application form**
-2. **SSY passbook**
-3. **Identity and address proof** of the guardian
-4. **Relevant supporting document:**
-   - Marriage: Age affidavit + wedding invitation/proof
-   - Death: Death certificate
-   - Illness: Medical certificate from authorized hospital
-   - Hardship: Documentary proof of financial hardship
-
-## Maturity Withdrawal (After 21 Years)
-
-### When Does SSY Mature?
-
-The account matures **21 years from the date of opening**, regardless of when the deposits were completed (deposits are only required for 15 years).
-
-### Maturity Withdrawal Process
-
-1. Visit the post office or bank branch
-2. Submit the **maturity closure form**
-3. Provide the **SSY passbook** and **identity proof** of the girl child
-4. The girl child (now an adult) must sign the form
-5. Provide bank account details for transfer
-6. The full maturity amount is credited to the account
+1. **Minimum Age:** The girl child must be at least **18 years old** at the time of closure
+2. **Timing:** Closure is allowed **up to one month before** or **three months after** the date of marriage
+3. **Amount:** The **entire balance** including accrued interest is paid out
+4. **Account Status:** The account is permanently closed
 
 ### Documents Required
 
-1. **Account closure/maturity form**
-2. **SSY passbook**
-3. **Identity proof** of the girl child (Aadhaar, PAN)
-4. **Address proof**
-5. **Bank account details** for fund transfer
-
-### What If You Don't Withdraw at Maturity?
-
-If the account is not closed at maturity:
-- The balance continues to earn interest at the **prevailing SSY rate**
-- No further deposits are accepted
-- The account holder can withdraw the amount at any time after maturity
-
-## Account Closure for Marriage (After 18)
-
-This is a special premature closure provision:
-
-- The girl must be **at least 18 years old**
-- Application must be submitted **at least one month before** the wedding
-- Full balance with interest at SSY rate is paid out
-- An affidavit declaring the girl's age is mandatory
-
-## Tax Treatment of Withdrawals
-
-All SSY withdrawals are **completely tax-free**:
-
-| Withdrawal Type | Tax Status |
-|----------------|------------|
-| Partial withdrawal (education) | Tax-free |
-| Premature closure (marriage) | Tax-free |
-| Premature closure (death/illness) | Tax-free |
-| Maturity withdrawal | Tax-free |
-
-For more on tax-free investment options, see our [Section 80C investment guide](/guide/income-tax-saving-tips-80c-investments).
-
-## Transfer of SSY Account
-
-The SSY account can be **transferred free of cost** from one post office/bank to another anywhere in India. Required documents:
-
-- Transfer request form
-- SSY passbook
+- Application for premature closure
+- Marriage proof or affidavit declaring the marriage date
+- Age proof of the girl child
 - Identity proof
-- KYC documents for the new branch
+- SSY passbook
 
-## Important Points to Remember
+## Maturity at 21 Years
 
-- **No withdrawal before age 18** (except death/illness of account holder)
-- **50% maximum** for partial education withdrawal
-- Education withdrawal needs **proof of admission** — you can't withdraw for generic purposes
-- Marriage closure requires the girl to be **18 or older**
-- The maturity amount is **completely tax-free**
-- Account continues to earn SSY interest even after maturity if not closed
+The SSY account **matures 21 years** from the date of opening:
 
-## Related Guides
+1. **Final Payout:** The entire balance including accumulated interest is paid to the **girl child** (account holder)
+2. **Interest Stops:** If the maturity amount is not withdrawn, the balance earns interest at the prevailing SSY rate until closure
+3. **Auto Closure:** The account is closed on maturity, and the final amount is transferred to the account holder's bank account
 
-- [How to open SSY account](/guide/sukanya-samriddhi-yojana-apply) — Complete application process
-- [SSY maturity calculator](/guide/sukanya-samriddhi-calculator-maturity) — Calculate your returns
-- [PPF withdrawal rules](/guide/ppf-withdrawal-loan-rules) — Compare with PPF withdrawal options
-- [Atal Pension vs NPS](/guide/atal-pension-vs-nps-comparison) — Retirement planning alternatives
-- [NPS guide](/guide/national-pension-scheme-nps) — National Pension Scheme details
+### Documents for Maturity Closure
 
-## Conclusion
+- Maturity closure application form
+- Identity and address proof of the girl child
+- Citizenship certificate or declaration
+- SSY passbook
+- Bank account details for fund transfer
 
-SSY withdrawal rules are designed to ensure the funds are used for the girl child's education or marriage. While the 21-year lock-in may seem long, the partial withdrawal option after 18 provides flexibility for higher education expenses. Plan your deposits keeping these withdrawal timelines in mind to make the most of this excellent government savings scheme.
+## Premature Closure (Special Circumstances)
+
+Apart from marriage, premature closure is allowed under these conditions:
+
+1. **Death of the Girl Child:** The guardian can close the account and withdraw the full balance with interest. A death certificate is required.
+2. **Life-Threatening Illness:** If the girl child suffers from a life-threatening disease, the account can be closed with full balance. Medical proof from a competent authority is needed.
+3. **Guardian's Death or Change:** If the guardian maintaining the account dies, the account can be closed or transferred.
+4. **Hardship Clause:** After **5 years** from account opening, premature closure is allowed on compassionate grounds (interest paid at the applicable SSY rate, not reduced).
+
+## Step-by-Step: How to Withdraw from SSY Account
+
+### At Post Office
+
+1. Visit the post office where the SSY account is held
+2. Fill the **withdrawal/closure application form**
+3. Submit the required documents (see above based on withdrawal type)
+4. Provide bank account details for fund transfer
+5. The post office verifies documents and processes the request
+6. Amount is credited to the linked bank account within **2-3 working days**
+
+### At Bank
+
+1. Visit the bank branch where the SSY account is maintained
+2. Fill the bank's SSY withdrawal form
+3. Submit KYC documents and supporting proof
+4. The bank processes the withdrawal and credits the amount
+
+## Important Tips
+
+1. **Plan Withdrawals:** Partial withdrawal is limited to 50% — plan education expenses accordingly
+2. **Keep Passbook Updated:** Always update your SSY passbook before applying for withdrawal
+3. **Deposits Continue:** Even after partial withdrawal, you must continue minimum annual deposits until the 15th year
+4. **Only One Account:** Only one SSY account per girl child is allowed, with a maximum of two accounts per family
+5. **Transfer Facility:** SSY accounts can be transferred between post offices and banks across India
+
+## Frequently Asked Questions
+
+### Can I withdraw from SSY before the girl child turns 18?
+
+No, partial withdrawal is not allowed before the girl child turns 18 years or passes 10th standard (whichever is earlier). The only exception is premature closure due to death, life-threatening illness, or extreme hardship (after 5 years).
+
+### What happens if I don't withdraw at maturity?
+
+If the maturity amount is not withdrawn, the balance continues to earn interest at the prevailing SSY rate. However, no further deposits can be made after the maturity period.
+
+### Can the girl child operate the SSY account herself?
+
+Yes, once the girl child turns **18 years of age**, she can operate the account herself, including making deposits and applying for withdrawal.
+
+### Is partial withdrawal from SSY taxable?
+
+No, withdrawals from SSY are **completely tax-free** under the EEE (Exempt-Exempt-Exempt) status. This includes partial withdrawals, maturity proceeds, and interest earned.
+
+### Can I withdraw SSY money for purposes other than education?
+
+The partial withdrawal facility is specifically for the **higher education** of the girl child. However, full closure is allowed for marriage (after 18) or under special circumstances like illness.
+
+### What is the penalty for not depositing the minimum amount?
+
+If the minimum deposit of ₹250 is not made in any financial year, a **penalty of ₹50** per year of default is charged, along with the minimum deposit for each defaulted year, to revive the account.
+
+---
+
+*This guide is for informational purposes only. CitizenNest is not affiliated with the Government of India. For official details, visit the [India Post](https://www.indiapost.gov.in/Financial/Pages/Content/Sukanya-Samriddhi-Account.aspx) or [National Savings Institute](https://nsiindia.gov.in/) websites. Also see our [PPF account guide](/guide/ppf-account-open-online) for another popular tax-saving investment.*
