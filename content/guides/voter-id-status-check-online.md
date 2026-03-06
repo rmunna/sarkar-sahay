@@ -1,190 +1,157 @@
 ---
-title: "Voter ID Status Check Online — Track EPIC Card Application Status"
-description: "Check voter ID card application status online via NVSP portal or Voter Helpline app. Track new voter ID, correction, or transfer request status."
+title: "Voter ID Application Status Check Online: Track Form 6"
+description: "Track your Voter ID application status online on voters.eci.gov.in. Check Form 6 registration, correction, or transfer request progress."
 category: "Identity Documents"
-keywords:
-  - voter ID status check
-  - EPIC card status
-  - voter ID application status
-  - NVSP status check
-  - voter card tracking
-  - election card status
-  - voter ID online check
-lastUpdated: "2026-02-17"
+keywords: ["voter id status check", "voter id application status", "track voter id", "form 6 status", "NVSP status check", "EPIC card status", "voter id tracking online"]
 readingTime: "7 min"
+lastUpdated: "2026-03-06"
 officialLinks:
-  - "https://www.nvsp.in"
-  - "https://voterportal.eci.gov.in"
-  - "https://electoralsearch.eci.gov.in"
+  - https://voters.eci.gov.in
+  - https://www.nvsp.in
+  - https://eci.gov.in
 ---
 
-# How to Check Voter ID Card Application Status Online
+## Why Check Voter ID Application Status?
 
-After applying for a new voter ID card (EPIC), requesting corrections, or transferring your voter registration, you can track the application status online. This guide covers all methods to check your voter ID status using the NVSP portal and other channels.
+After submitting your Voter ID application — whether it's a **new registration (Form 6)**, **correction (Form 8)**, or **transfer (Form 6/8A)** — you'll want to know if it has been approved. Tracking your application helps you:
 
-> **Disclaimer:** CitizenNest is an independent platform and is not affiliated with the Election Commission of India. Always verify on official portals.
+- Know if **BLO verification** is pending or completed
+- Check if any **documents are missing** or if the application has objections
+- Confirm when your name has been **added to the electoral roll**
+- Take action quickly if the application is **rejected**
 
----
+> **Note:** CitizenNest is an independent informational website and is not affiliated with the Government of India or the Election Commission of India.
 
-## What is a Voter ID Card (EPIC)?
+## How to Check Voter ID Status on voters.eci.gov.in
 
-The Voter ID card, officially called the **Electors Photo Identity Card (EPIC)**, is issued by the Election Commission of India (ECI). It serves as:
+### Step-by-Step Process
 
-- **Proof of identity** for voting in elections
-- **Valid ID proof** accepted by banks, government offices, and other institutions
-- **Address proof** in many cases
+1. Visit [voters.eci.gov.in](https://voters.eci.gov.in)
+2. **Login** with your registered mobile number/email and password
+3. After logging in, go to **"Track Application Status"** on the dashboard
+4. Enter your **Reference ID** (received at the time of application submission)
+5. Click **"Track Status"**
+6. Your application status will be displayed with details like:
+   - Current stage (submitted, under verification, approved, rejected)
+   - BLO verification status
+   - ERO remarks (if any)
 
----
+### Alternative: Check Without Login
 
-## How to Check Voter ID Application Status Online
+1. Visit [voters.eci.gov.in](https://voters.eci.gov.in)
+2. Look for **"Track Application Status"** on the homepage
+3. Enter your **Reference ID**
+4. Complete the **captcha**
+5. Click **"Track"**
 
-### Method 1: Via NVSP Portal
+## How to Check Status via Voter Helpline App
 
-1. Visit the National Voter Service Portal at [nvsp.in](https://www.nvsp.in)
-2. Click on **"Track Application Status"**
-3. Enter your **Reference ID** (received when you submitted the application)
-4. Click **"Track Status"**
-5. Your application status will be displayed with details
-
-### Method 2: Via Voter Portal (ECI)
-
-1. Visit [voterportal.eci.gov.in](https://voterportal.eci.gov.in)
-2. Log in or register with your mobile number
-3. Go to **"Track Application"**
-4. Enter your **Reference ID** or **Application Number**
-5. View the current status of your application
-
-### Method 3: Via Voter Helpline App
-
-1. Download the **Voter Helpline** app from Google Play Store or App Store
-2. Register with your mobile number and OTP
-3. Tap on **"Track Application"**
+1. Open the **Voter Helpline App** on your phone
+2. Login with your registered mobile number
+3. Go to **"Track Application"** section
 4. Enter your **Reference ID**
-5. The app will show your application status and any pending actions
+5. View the current status and any remarks
 
-### Method 4: Via SMS
+## Understanding Your Reference ID
 
-- Send SMS: **`EPIC <space> Voter ID Number`** to **1950** or your state election commission number
-- You will receive the status via SMS
+When you submit any voter-related application (Form 6, Form 8, Form 6A, Form 8A), you receive a **Reference ID**. This is your tracking number.
 
-### Method 5: Contact the Helpline
+- Format: Alphanumeric code (e.g., **SRF0012345678**)
+- It is shown on the **confirmation page** after submission
+- Also sent via **SMS** to your registered mobile number
+- **Keep it safe** — you need it to track your application
 
-- Call **1950** (National Voter Helpline, toll-free)
-- Provide your application reference ID
-- The operator will check and share your status
+> **Tip:** If you've lost your Reference ID, login to [voters.eci.gov.in](https://voters.eci.gov.in) — your submitted applications and their reference IDs are listed under your profile.
 
----
-
-## Voter ID Application Status Meanings
+## Application Status Stages
 
 | Status | Meaning |
-|--------|---------|
+|---|---|
 | **Submitted** | Application received by the system |
-| **Under BLO Verification** | Booth Level Officer is verifying your details |
-| **Approved by ERO** | Electoral Registration Officer has approved |
-| **Printed** | Voter ID card has been printed |
-| **Dispatched** | Card has been sent for delivery |
-| **Rejected** | Application was rejected (reason will be mentioned) |
+| **Under Verification** | BLO/ERO is reviewing your application |
+| **BLO Verification Pending** | BLO visit to your address is scheduled |
+| **BLO Verified** | BLO has completed field verification |
+| **Approved** | Your application is accepted; name added to electoral roll |
+| **Rejected** | Application rejected — check remarks for reason |
+| **Objection Raised** | ERO has raised objections; you may need to provide additional documents |
 
----
+## BLO Visit Status
 
-## How to Check if Your Name is in the Voter List
+The **Booth Level Officer (BLO)** is assigned to verify your application in person. Here's what to expect:
 
-Even if you don't have your reference ID, you can check if your voter registration is complete:
+- BLO is assigned **within 7–15 days** of application submission
+- BLO visits your **residential address** to verify identity and residence
+- You may receive a **phone call** from the BLO before the visit
+- If you're not at home, the BLO may revisit or ask you to visit the ERO office
+- After verification, the BLO submits a report to the ERO
 
-1. Visit [electoralsearch.eci.gov.in](https://electoralsearch.eci.gov.in)
-2. Search by **Name** (enter your name, father's name, age, state, and constituency)
-3. Or search by **EPIC Number** (your voter ID number)
-4. If your name appears, your voter registration is complete and your voter ID should be available
+### What to Keep Ready for BLO Visit
 
----
+- **Original documents** (age proof, address proof) for verification
+- Your **application reference ID**
+- Be available at the **address mentioned** in the application
 
-## Types of Voter ID Applications
+## Approval Timeline
 
-| Form | Purpose |
-|------|---------|
-| **Form 6** | New voter registration |
-| **Form 6B** | Aadhaar linking with voter ID |
-| **Form 7** | Objection to inclusion of a name or request for deletion |
-| **Form 8** | Correction of entries in voter ID (name, address, photo, etc.) |
-| **Form 8A** | Transposition within same constituency |
+| Application Type | Typical Timeline |
+|---|---|
+| New registration (Form 6) | 15–30 days |
+| Correction (Form 8) | 15–30 days |
+| Transfer — new constituency (Form 6) | 15–45 days |
+| Transfer — same constituency (Form 8A) | 15–30 days |
+| During revision drives | 7–15 days |
 
----
+> **Note:** Timelines may vary by state and workload of the ERO. During election periods, processing may be paused.
 
-## Documents Required for Voter ID
+## What to Do If Application Is Rejected
 
-- **Age Proof:** Birth certificate, class 10 marksheet, or passport
-- **Address Proof:** Aadhaar card, utility bill, rent agreement, or bank passbook
-- **Identity Proof:** Aadhaar, PAN card, or driving licence
-- **Photograph:** Recent passport-size photo
-- **Aadhaar Number:** Now required for Form 6B linking
+1. **Check the rejection reason** on the tracking page
+2. Common reasons:
+   - Incomplete or unclear documents
+   - Address does not match
+   - BLO could not verify residence
+   - Duplicate entry found
+3. **Fix the issue** and **re-apply** with correct documents
+4. For detailed help, see our guide on [Voter ID application rejected fixes](/guide/voter-id-application-rejected-fix)
 
----
+## Fees
 
-## Processing Time
-
-- **New Voter ID (Form 6):** 15-30 days
-- **Corrections (Form 8):** 15-30 days
-- **Aadhaar Linking (Form 6B):** 7-15 days
-- **During electoral roll revision:** May take longer due to high volume
-
----
+| Service | Fee |
+|---|---|
+| Status check online | **Free** |
+| Status check on app | **Free** |
 
 ## Important Tips
 
-1. **Save your Reference ID** — You need it to track your application. It is shown after submission and sent via SMS
-2. **Complete Aadhaar linking** — ECI has made Aadhaar-Voter ID linking mandatory. Submit Form 6B if not done. See our [Aadhaar-Voter ID linking guide](/guide/aadhaar-voter-id-linking-online)
-3. **Cooperate with BLO visit** — The Booth Level Officer may visit your address for verification. Be available during daytime
-4. **Download e-EPIC** — You can download a digital voter ID card from the Voter Portal even before the physical card arrives
-5. **Apply during revision period** — Applications submitted during the annual electoral roll revision (Jan-Feb) are processed faster
+1. **Save your Reference ID** immediately after submission — screenshot or write it down
+2. **Check status weekly** — don't wait months without checking
+3. **Keep your phone accessible** — BLO may call the number on your application
+4. **Respond to objections quickly** — delays in response can lead to rejection
+5. **Check the electoral roll** after approval to confirm your name is listed
 
----
+## Frequently Asked Questions
 
-## How to Download e-EPIC (Digital Voter ID)
+### How long does it take for a Voter ID application to be approved?
+Typically **15–30 days** for new registrations and corrections. It may take longer if there are objections or during non-revision periods.
 
-1. Visit [voterportal.eci.gov.in](https://voterportal.eci.gov.in)
-2. Log in with your registered mobile number
-3. Click on **"Download e-EPIC"**
-4. Verify with OTP
-5. Download your digital voter ID card as PDF
+### What if the BLO doesn't visit my address?
+If no BLO visit happens within 30 days, contact your local ERO office or file a complaint through the Voter Helpline App or call **1950** (Voter Helpline number).
 
----
+### Can I check status without the Reference ID?
+If you login to [voters.eci.gov.in](https://voters.eci.gov.in), your submitted applications are listed under your profile even without the Reference ID.
+
+### What does "Objection Raised" status mean?
+It means the ERO has flagged an issue with your application. Login to the portal to see the specific objection and respond with the required documents or clarification.
+
+### How do I know my name is added to the electoral roll?
+After approval, search for your name on [voters.eci.gov.in](https://voters.eci.gov.in) using the "Search in Electoral Roll" feature. You can search by name or EPIC number.
+
+### Can I call someone to check my status?
+Yes, call the **Voter Helpline: 1950** (toll-free) for assistance with your application status.
 
 ## Related Guides
 
-- [How to Transfer Voter ID to New Address — Form 8A Online](/guide/voter-id-address-change-transfer-fix)
-- [Voter ID Application Rejected: How to Fix](/guide/voter-id-application-rejected-fix)
-- [How to Apply for Voter ID Card (EPIC) Online — Step-by-Step Guide](/guide/voter-id-card-apply-online)
-- [Voter ID Card Online Correction Not Working — How to Fix](/guide/voter-id-correction-not-working-fix)
-- [How to Correct Voter ID Card Online](/guide/voter-id-correction-online)
-
-## Frequently Asked Questions (FAQ)
-
-### Q1: How long does it take to get a voter ID card after applying?
-Typically 15-30 days after the BLO verification and ERO approval. During non-revision periods, it may take slightly longer.
-
-### Q2: Can I track voter ID status without a reference ID?
-You can check if your name exists in the voter list at [electoralsearch.eci.gov.in](https://electoralsearch.eci.gov.in) using your name and address details. However, for application-specific tracking, the reference ID is needed.
-
-### Q3: My voter ID application was rejected. What should I do?
-Check the rejection reason on the NVSP portal. Common reasons include incorrect address, unverifiable documents, or BLO unable to find you at the given address. Correct the issues and reapply.
-
-### Q4: Can I apply for voter ID if I am 17 years old?
-You can pre-register at 17 years of age. Your name will be added to the electoral roll on the qualifying date (January 1 of the year you turn 18).
-
-### Q5: How do I update my address on voter ID after shifting?
-If shifting within the same constituency, file **Form 8A** for transposition. If moving to a different constituency, file **Form 6** for new registration in the new area.
-
-### Q6: Is the e-EPIC valid as identity proof?
-Yes, the e-EPIC (digital voter ID) is a valid identity proof and can be used wherever a physical voter ID is accepted. It has a secure QR code for verification.
-
-
-## Related Voter ID Guides
-
-- [Voter ID Application Rejected — How to Fix](/guide/voter-id-application-rejected-fix)
-- [How to Apply for Voter ID Card Online](/guide/voter-id-card-apply-online)
-- [Voter ID First Time Registration](/guide/voter-id-first-time-registration)
-- [Download e-EPIC Digital Voter ID](/guide/e-epic-digital-voter-id-download-guide)
-- [Voter ID Verification Online](/guide/voter-id-verification-online)
-
----
+- [New Voter ID Apply Online](/guide/voter-id-new-apply-online)
+- [Voter ID Correction Online](/guide/voter-id-correction-online)
+- [Voter ID Download — e-EPIC](/guide/voter-id-download-e-epic)
+- [Voter ID Transfer to New Address](/guide/voter-id-transfer-state-assembly)
