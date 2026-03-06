@@ -1,194 +1,228 @@
 ---
-title: "Consumer Complaint Online: File on NCH Portal — Step-by-Step Guide"
-description: "File consumer complaints online on consumerhelpline.gov.in and e-daakhil portal. Complete process, documents, and timeline."
-category: "Utilities"
-keywords: ["consumer complaint online", "consumerhelpline.gov.in", "NCH portal complaint", "e-daakhil consumer court", "consumer forum complaint"]
-readingTime: "9 min"
+title: "Consumer Complaint Online: File on NCH Portal"
+description: >-
+  File a consumer complaint online on the National Consumer Helpline portal.
+  Step-by-step process, 1800-11-4000, INGRAM app, escalation to consumer court.
+category: Utilities
+keywords:
+  - consumer complaint online
+  - national consumer helpline
+  - consumer complaint portal
+  - file consumer complaint india
+  - consumer helpline 1800
+  - consumer court complaint
+  - ingram app consumer
+  - consumer rights india
+  - consumerhelpline.gov.in
+  - consumer grievance redressal
+readingTime: 9 min
 lastUpdated: "2026-03-06"
 officialLinks:
-  - https://consumerhelpline.gov.in
-  - https://edaakhil.nic.in
-  - https://ncdrc.nic.in
-  - https://consumeraffairs.nic.in
+  - 'https://consumerhelpline.gov.in/'
+  - 'https://edaakhil.nic.in/'
+  - 'https://ncdrc.nic.in/'
+  - 'https://consumeraffairs.nic.in/'
 ---
 
-## What is Consumer Complaint Filing?
+# Consumer Complaint Online: File on NCH Portal
 
-Every Indian consumer has the right to file complaints against defective products, deficient services, unfair trade practices, and overcharging. The Government of India provides multiple platforms to register complaints:
+Bought a defective product? Received poor service? Charged unfairly? As an Indian consumer, you have strong legal rights under the **Consumer Protection Act, 2019**. You can file a complaint online through the **National Consumer Helpline (NCH)** portal or escalate to a consumer court. This guide covers the complete process.
 
-1. **National Consumer Helpline (NCH)** — [consumerhelpline.gov.in](https://consumerhelpline.gov.in) for mediation
-2. **e-Daakhil** — [edaakhil.nic.in](https://edaakhil.nic.in) for filing cases in consumer courts online
-3. **INGRAM Portal** — for integrated grievance redressal
+## What is the National Consumer Helpline (NCH)?
 
-Under the **Consumer Protection Act, 2019**, consumers can claim compensation for goods and services issues up to ₹10 crore (depending on the forum level).
+The **National Consumer Helpline** is an initiative by the **Department of Consumer Affairs**, Government of India. It provides:
 
-## Who Can File a Consumer Complaint?
+- **Toll-free helpline:** 1800-11-4000 (available Mon–Sat, 9:30 AM to 5:30 PM)
+- **Online portal:** [consumerhelpline.gov.in](https://consumerhelpline.gov.in/)
+- **SMS:** Send "NCH" to 8800001915
+- **UMANG app:** Consumer complaints section
+- **INGRAM app:** Integrated Grievance Redressal Mechanism
 
-- Any person who buys goods or avails services for personal use
-- Any recognized consumer association
-- The Central or State Government on behalf of consumers
-- Legal heirs of a deceased consumer
-- One or more consumers with the same interest (class action)
+NCH acts as a **mediator** between you and the company. Most complaints are resolved within 15–45 days through NCH's convergence mechanism with companies.
 
-**You CANNOT file if:** the goods/services were purchased for commercial resale purposes.
+---
 
-## Method 1: File on National Consumer Helpline (NCH)
+## Types of Complaints You Can File
 
-The NCH portal provides **free mediation** between consumers and companies. Most complaints get resolved at this stage without going to court.
+- Defective products (electronics, appliances, vehicles)
+- Deficiency of service (banking, insurance, telecom, e-commerce)
+- Unfair trade practices (misleading ads, hidden charges)
+- Overcharging or MRP violations
+- Non-delivery or late delivery of products
+- Refund not processed
+- Warranty/guarantee issues
+- Food adulteration or quality issues
 
-### Step-by-Step Process:
+---
 
-1. Visit [consumerhelpline.gov.in](https://consumerhelpline.gov.in)
-2. Click **"Register"** and create an account with your mobile number and email
-3. Verify your account via OTP
-4. Log in and click **"File a Complaint"**
-5. Fill in the details:
-   - **Company/Brand name** you're complaining against
-   - **Product/Service category** (telecom, banking, e-commerce, etc.)
-   - **Description of complaint** — be specific with dates and amounts
-   - **Relief sought** — refund, replacement, compensation
-6. Upload supporting documents (bills, receipts, photos, emails)
-7. Submit the complaint
-8. You'll receive a **complaint number** for tracking
+## How to File a Complaint on NCH Portal (consumerhelpline.gov.in)
 
-### What Happens After Filing:
+### Step 1: Register on the Portal
 
-- NCH forwards your complaint to the company
-- The company has **15 days** to respond
-- If resolved, the complaint is closed
-- If not resolved, NCH escalates the matter
-- You can **track status** on the portal using your complaint number
+1. Visit [consumerhelpline.gov.in](https://consumerhelpline.gov.in/)
+2. Click **"Register"** or **"Sign Up"**
+3. Enter your name, mobile number, email, and create a password
+4. Verify via OTP sent to your mobile
 
-### Alternative — Call 1800-11-4000:
-- Call the toll-free consumer helpline
-- Explain your complaint to the agent
-- They'll register it and provide a reference number
+### Step 2: Login and File Complaint
 
-## Method 2: File on e-Daakhil (Consumer Court Online)
+1. Login with your credentials
+2. Click **"Lodge a Complaint"** or **"File Grievance"**
+3. Select the **category** (Banking, E-Commerce, Telecom, Electronics, etc.)
+4. Select the **company/brand** from the dropdown
+5. Enter **complaint details:**
+   - Subject of complaint
+   - Detailed description (what happened, when, what you want)
+   - Order number / invoice number / reference number
+   - Date of purchase / transaction
 
-If mediation through NCH fails, you can file a formal case in consumer court through the e-Daakhil portal.
+### Step 3: Upload Documents
 
-### Step-by-Step Process:
+Upload supporting documents:
+- **Invoice / bill / receipt**
+- **Product photos** (defect visible)
+- **Screenshots** of conversations with the company
+- **Email correspondence**
+- **Warranty card** (if applicable)
 
-1. Visit [edaakhil.nic.in](https://edaakhil.nic.in)
-2. Click **"Register as Complainant"**
-3. Enter your Aadhaar-linked mobile number and verify via OTP
-4. Complete your profile with personal details
-5. Click **"File New Case"**
-6. Select the appropriate **Consumer Commission**:
-   - **District Commission:** Claims up to ₹1 crore
-   - **State Commission:** Claims ₹1 crore to ₹10 crore
-   - **National Commission (NCDRC):** Claims above ₹10 crore
-7. Fill in respondent (company) details — name, address, contact
-8. Describe the complaint with full facts, dates, and amounts
-9. Upload documents:
-   - Purchase bill/receipt/invoice
-   - Warranty card (if applicable)
-   - Communication records (emails, chat screenshots)
-   - Photos of defective product
-   - Previous complaint records (if any)
-10. Pay the **court fee** online (see fee table below)
-11. Submit — you'll receive a **case number**
+### Step 4: Submit
 
-### e-Daakhil Court Fees:
+- Review your complaint
+- Click **Submit**
+- You'll receive a **complaint number** via SMS and email
+- Track your complaint status on the portal
+
+---
+
+## Filing via Phone (1800-11-4000)
+
+1. Call **1800-11-4000** (toll free from landline)
+2. Select your preferred language
+3. Describe your complaint to the agent
+4. Provide purchase details and company name
+5. The agent registers the complaint and gives you a reference number
+6. Follow up using the same number
+
+**Timings:** Monday to Saturday, 9:30 AM to 5:30 PM (closed on public holidays)
+
+---
+
+## INGRAM App (Integrated Grievance Redressal Mechanism)
+
+The **INGRAM** app is the mobile version of the NCH system.
+
+1. Download "Consumer Helpline" app (available on Android and iOS)
+2. Register with mobile number and OTP
+3. File complaint with the same process as the portal
+4. Track complaint status in real-time
+5. Receive notifications on complaint updates
+
+---
+
+## What Happens After Filing?
+
+1. **NCH receives your complaint** and assigns a unique docket number
+2. Complaint is **forwarded to the company** through NCH's convergence system
+3. The company has **15 days** to respond
+4. If the company resolves the issue → complaint is closed
+5. If the company **doesn't respond or resolve** → NCH follows up
+6. If still unresolved after 30–45 days → you can **escalate to Consumer Court**
+
+---
+
+## Escalation to Consumer Court (e-Daakhil)
+
+If NCH cannot resolve your complaint, you can file a case in Consumer Court using the **e-Daakhil** portal.
+
+### How to File on e-Daakhil
+
+1. Visit [edaakhil.nic.in](https://edaakhil.nic.in/)
+2. Register with your details
+3. Select the appropriate **Consumer Commission:**
+   - **District Commission** — claims up to ₹1 crore
+   - **State Commission** — claims ₹1 crore to ₹10 crore
+   - **National Commission (NCDRC)** — claims above ₹10 crore
+4. Fill the complaint form with:
+   - Complainant details (your info)
+   - Opposite party details (company/seller)
+   - Facts of the case
+   - Relief sought (refund, replacement, compensation)
+5. Upload documents (invoice, photos, NCH complaint copy)
+6. Pay the **court fee** online (based on claim amount)
+7. Submit — your case is registered
+
+### Court Fees for Consumer Cases
 
 | Claim Amount | Court Fee |
-|-------------|-----------|
-| Up to ₹5 lakh | ₹200 |
-| ₹5 lakh to ₹10 lakh | ₹400 |
-| ₹10 lakh to ₹20 lakh | ₹600 |
-| ₹20 lakh to ₹50 lakh | ₹1,000 |
-| ₹50 lakh to ₹1 crore | ₹2,000 |
-| ₹1 crore to ₹2 crore | ₹2,500 |
-| ₹2 crore to ₹5 crore | ₹3,000 |
-| ₹5 crore to ₹10 crore | ₹5,000 |
-| Above ₹10 crore | ₹7,500 |
+|---|---|
+| Up to ₹5 lakh | ₹100 |
+| ₹5 lakh to ₹10 lakh | ₹200 |
+| ₹10 lakh to ₹20 lakh | ₹500 |
+| ₹20 lakh to ₹50 lakh | ₹2,000 |
+| ₹50 lakh to ₹1 crore | ₹5,000 |
 
-## Method 3: INGRAM Portal
+**Note:** You do NOT need a lawyer for consumer court. You can argue your own case.
 
-The **Integrated Grievance Redress Mechanism (INGRAM)** portal consolidates multiple complaint channels:
-
-1. Visit the INGRAM portal through [consumerhelpline.gov.in](https://consumerhelpline.gov.in)
-2. It redirects complaints to the appropriate authority — NCH, sector regulators, or consumer commissions
-3. Provides a **single window** for tracking complaints across platforms
+---
 
 ## Documents Required
 
 | Document | Purpose |
-|----------|---------|
-| Purchase bill/invoice/receipt | Proof of purchase |
-| Product warranty card | For warranty claims |
-| Photos/videos of defect | Evidence of deficiency |
-| Communication records | Proof of complaint attempts |
-| Bank statement (if relevant) | Proof of payment/overcharging |
-| Aadhaar/ID proof | Identity verification |
-| Previous complaint references | To show escalation history |
-
-## Consumer Court Process & Timeline
-
-| Stage | Timeline |
-|-------|----------|
-| NCH mediation | 15-45 days |
-| e-Daakhil case filing | 1-2 days (online) |
-| Notice to opposite party | 21-30 days |
-| Written response by company | 30-45 days |
-| Hearing & arguments | 2-6 months |
-| Final order | 3-12 months (varies) |
-| Appeal (if any) | 30 days to file |
-
-**Note:** The Consumer Protection Act mandates that cases should be resolved within **3-5 months** from filing. Actual timelines vary by commission workload.
-
-## Types of Relief You Can Claim
-
-- **Refund** of the product/service cost
-- **Replacement** of defective product
-- **Compensation** for mental agony, harassment, and loss
-- **Punitive damages** for unfair trade practices
-- **Interest** on the amount from the date of complaint
-- **Cost of litigation**
-
-## Common Complaint Categories
-
-1. **E-commerce** — wrong product, non-delivery, refund denied
-2. **Banking** — unauthorized charges, loan issues, card fraud
-3. **Telecom** — poor service, wrong billing, plan changes (see our [BSNL Bill guide](/guide/bsnl-bill-payment-online) and [Spam Call guide](/guide/spam-call-report-block))
-4. **Insurance** — claim rejection, delayed settlement
-5. **Real Estate** — delayed possession, false promises
-6. **Automobile** — vehicle defects, warranty denial
-7. **Electricity** — overbilling, meter issues
-8. **Healthcare** — medical negligence, overcharging
-
-## Important Tips
-
-1. **Always keep purchase bills** — they're your primary evidence
-2. **Try NCH mediation first** — it's free and faster than court
-3. **File within 2 years** — consumer complaints must be filed within 2 years of the issue
-4. **Be specific** about the relief you want — mention exact refund amount and compensation
-5. **You don't need a lawyer** — consumer courts are designed for self-representation
-
-## Frequently Asked Questions
-
-### Q1: Is filing a consumer complaint free?
-Filing on NCH (consumerhelpline.gov.in) is **completely free**. Filing on e-Daakhil requires a nominal court fee starting at ₹200.
-
-### Q2: Can I file a complaint against an online seller?
-Yes. E-commerce platforms (Amazon, Flipkart, etc.) and their sellers can be complained against on NCH and e-Daakhil. File against both the seller and the platform.
-
-### Q3: Do I need a lawyer for consumer court?
-No. Consumer courts are designed for **self-representation**. You can argue your own case. However, hiring a lawyer is optional if the case is complex.
-
-### Q4: What if the company doesn't respond to NCH complaint?
-If the company doesn't respond within the stipulated time, you can **escalate to e-Daakhil** and file a formal consumer court case.
-
-### Q5: Can I file a complaint from any state?
-You can file in the consumer commission where the **opposite party is located** or where the **transaction took place**. e-Daakhil allows online filing across states.
-
-### Q6: What is the maximum compensation I can get?
-There's no fixed maximum. Compensation depends on the claim, damages proved, and the forum. District Commissions handle up to ₹1 crore, State Commissions up to ₹10 crore, and the National Commission handles above ₹10 crore.
-
-### Q7: How do I track my consumer complaint status?
-For NCH complaints, log in to [consumerhelpline.gov.in](https://consumerhelpline.gov.in) and check "Track Complaint." For e-Daakhil cases, log in to [edaakhil.nic.in](https://edaakhil.nic.in) and check your case status.
+|---|---|
+| Invoice / receipt / bill | Proof of purchase |
+| Product photos / videos | Evidence of defect |
+| Communication records | Emails, chat screenshots with the company |
+| Warranty / guarantee card | To claim warranty service |
+| Bank statement | Proof of payment |
+| NCH complaint copy | If escalating from NCH to consumer court |
+| ID proof (Aadhaar/PAN) | For court filing |
 
 ---
 
-*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with the Government of India. Information is based on the Consumer Protection Act, 2019 and official government portals. Always verify current processes on [consumerhelpline.gov.in](https://consumerhelpline.gov.in).*
+## Consumer Rights Under the Consumer Protection Act, 2019
+
+1. **Right to Safety** — protection against dangerous products
+2. **Right to Information** — complete product/service details
+3. **Right to Choose** — access to variety at competitive prices
+4. **Right to be Heard** — grievance redressal mechanism
+5. **Right to Seek Redressal** — compensation for unfair practices
+6. **Right to Consumer Education** — awareness of rights
+
+---
+
+## Important Tips
+
+1. **Always keep bills and invoices** — they are your primary proof for any complaint
+2. **First complain to the company directly** — email their customer care and keep records; this strengthens your case
+3. **File on NCH within a reasonable time** — don't wait months after the issue
+4. **Be specific in your complaint** — mention dates, amounts, order numbers, and exactly what resolution you want
+5. **Consumer court cases are fast** — most are resolved within 3–6 months; court fees are minimal
+
+---
+
+## Frequently Asked Questions
+
+### Q1. Is filing a consumer complaint on NCH portal free?
+Yes, filing a complaint on the National Consumer Helpline portal (consumerhelpline.gov.in) is completely free. Even the phone helpline 1800-11-4000 is toll-free.
+
+### Q2. Can I file a complaint against an e-commerce company like Amazon or Flipkart?
+Yes, you can file complaints against any company — e-commerce platforms, banks, telecom operators, airlines, insurance companies, etc. NCH has convergence with most major companies.
+
+### Q3. How long does it take to resolve a complaint through NCH?
+Most complaints are resolved within **15 to 45 days**. Complex cases may take longer. If unresolved, you can escalate to consumer court.
+
+### Q4. Do I need a lawyer for consumer court?
+No, you can file and argue your own case in consumer court. The process is designed to be consumer-friendly. However, you may hire a lawyer if you wish.
+
+### Q5. Can I file a consumer complaint for online fraud?
+For financial fraud, first report to **155260** (cyber fraud helpline) and your bank. For product/service issues from online transactions, file on NCH. For pure cyber crime, report at [cybercrime.gov.in](https://cybercrime.gov.in/).
+
+### Q6. What compensation can I get from consumer court?
+Consumer courts can order refund, replacement, compensation for mental agony and harassment, litigation costs, and even punitive damages against the company.
+
+### Q7. Can I file a complaint against a government service?
+Yes, you can file complaints about government services (electricity, water, telecom) on the NCH portal. For government department grievances, you can also use [CPGRAMS](https://pgportal.gov.in/).
+
+---
+
+*Disclaimer: CitizenNest is an independent platform and is not affiliated with the Department of Consumer Affairs or any Consumer Commission. Processes and fees may change — always verify on the official portal [consumerhelpline.gov.in](https://consumerhelpline.gov.in/).*

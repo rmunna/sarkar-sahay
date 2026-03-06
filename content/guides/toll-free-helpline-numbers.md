@@ -1,226 +1,242 @@
 ---
-title: "Toll Free Helpline Numbers India: All Government Services Directory"
-description: "Complete list of 100+ toll-free government helpline numbers in India — police, ambulance, women, child, consumer, cyber."
-category: "Utilities"
-keywords: ["toll free helpline numbers India", "government helpline numbers", "emergency numbers India", "police helpline", "consumer helpline number"]
-readingTime: "10 min"
+title: "Toll Free Helpline Numbers India: All Government Services"
+description: >-
+  Complete list of toll-free helpline numbers for Indian government services
+  including emergency, women, child, railway, passport, income tax, and EPFO.
+category: Utilities
+keywords:
+  - toll free helpline numbers india
+  - government helpline numbers
+  - emergency numbers india
+  - women helpline number
+  - child helpline number
+  - railway helpline 139
+  - passport helpline
+  - income tax helpline
+  - epfo helpline number
+  - consumer helpline india
+readingTime: 10 min
 lastUpdated: "2026-03-06"
 officialLinks:
-  - https://www.india.gov.in
-  - https://cybercrime.gov.in
-  - https://consumerhelpline.gov.in
-  - https://ncw.nic.in
+  - 'https://www.india.gov.in/helpline-numbers'
+  - 'https://www.mha.gov.in/'
+  - 'https://indianrailways.gov.in/'
+  - 'https://www.incometax.gov.in/'
+  - 'https://www.epfindia.gov.in/'
 ---
 
-## India Government Helpline Numbers — Complete Directory
+# Toll Free Helpline Numbers India: All Government Services
 
-India has a comprehensive network of toll-free helpline numbers for emergencies, government services, and citizen assistance. This guide lists 100+ important helpline numbers every Indian should know.
+India has a comprehensive network of toll-free helpline numbers for emergencies, government services, and citizen grievances. Save these numbers — they can help you in critical situations and for everyday government service queries.
 
-**Save these numbers on your phone — they could save a life or solve a problem.**
+---
 
-## Emergency Helplines
-
-| Number | Service | Available |
-|--------|---------|-----------|
-| **112** | Universal Emergency Number (Police, Fire, Ambulance) | 24×7 |
-| **100** | Police | 24×7 |
-| **101** | Fire Brigade | 24×7 |
-| **102** | National Ambulance Service | 24×7 |
-| **108** | Emergency Ambulance (most states) | 24×7 |
-| **1073** | National Disaster Management | 24×7 |
-| **1078** | Flood/Disaster Helpline | 24×7 |
-| **1091** | Road Accident Emergency | 24×7 |
-
-> **Tip:** **112** is India's unified emergency number (like 911 in the USA). It works from any phone, even without a SIM card.
-
-## Women Safety & Support
+## Emergency Helpline Numbers
 
 | Number | Service | Available |
-|--------|---------|-----------|
-| **181** | Women Helpline (All India) | 24×7 |
-| **1091** | Women Helpline (Police) | 24×7 |
-| **7827-170-170** | Women Helpline (WhatsApp) | 24×7 |
-| **1800-599-0019** | Domestic Violence Helpline | 24×7 |
-| **011-23317004** | National Commission for Women (NCW) | Office hours |
+|---|---|---|
+| **112** | National Emergency Number (Police, Fire, Ambulance) | 24/7, all India |
+| **100** | Police | 24/7 |
+| **101** | Fire Brigade | 24/7 |
+| **102** | Ambulance (National) | 24/7 |
+| **108** | Emergency Medical Service (Ambulance) | 24/7, most states |
+| **1073** | National Disaster Management Authority (NDMA) | 24/7 |
+| **1078** | Flood/Disaster Relief | During disasters |
 
-## Child Protection
+**Note:** **112** is India's unified emergency number (like 911 in the US). It connects to police, fire, and ambulance services. You can also send an SOS by pressing the power button 3 times on most smartphones.
 
-| Number | Service | Available |
-|--------|---------|-----------|
-| **1098** | CHILDLINE (Child in Distress) | 24×7 |
-| **1800-111-000** | Child Abuse Helpline | 24×7 |
-| **080-46110007** | POCSO e-Box (Child Sexual Abuse) | 24×7 |
-| **1800-121-3737** | Missing Children Helpline | 24×7 |
+---
+
+## Women & Child Safety
+
+| Number | Service | Authority |
+|---|---|---|
+| **181** | Women Helpline | Ministry of Women & Child Development |
+| **1091** | Women in Distress | Local Police |
+| **1098** | Child Helpline (CHILDLINE) | Ministry of Women & Child Development |
+| **7827-170-170** | Women Helpline (WhatsApp) | NCW |
+| **1930** | Cyber Crime Helpline | Ministry of Home Affairs |
+| **14461** | Missing Children | Track Child portal |
+
+**181 Women Helpline** provides assistance for domestic violence, harassment, dowry issues, and any distress. Available in local languages in most states.
+
+**1098 CHILDLINE** is for children in need of care and protection. Anyone can call — the child, a concerned adult, or an organisation.
+
+---
 
 ## Health & Medical
 
-| Number | Service | Available |
-|--------|---------|-----------|
-| **104** | Health Helpline (many states) | 24×7 |
-| **1800-599-0019** | Mental Health Helpline (NIMHANS) | 24×7 |
-| **1800-112-500** | AIDS Helpline | 24×7 |
-| **1800-180-1104** | TB Helpline (Nikshay) | 24×7 |
-| **1800-11-0031** | Ayushman Bharat Helpline | 24×7 |
-| **14555** | Ayushman Bharat PMJAY | Office hours |
-| **1800-180-1551** | Blood Bank Helpline | 24×7 |
-
-## Senior Citizens
-
-| Number | Service | Available |
-|--------|---------|-----------|
-| **14567** | Elder Line (Senior Citizen Helpline) | 24×7 |
-| **1800-180-1253** | Senior Citizen Helpline | Office hours |
-
-## Consumer & Financial
-
-| Number | Service | Available |
-|--------|---------|-----------|
-| **1800-11-4000** | Consumer Helpline (NCH) | Office hours |
-| **14404** | Consumer Helpline (Short Code) | Office hours |
-| **1930** | Cyber Crime/Financial Fraud Helpline | 24×7 |
-| **155260** | Cyber Financial Fraud (some states) | 24×7 |
-| **1800-22-1111** | SEBI Investor Helpline | Office hours |
-| **1800-425-3800** | Insurance Ombudsman | Office hours |
-| **14440** | PM SVANidhi (Street Vendor Loans) | Office hours |
-
-See our [Consumer Complaint guide](/guide/consumer-complaint-online) for detailed steps to file complaints online.
-
-## Banking
-
-| Number | Service | Available |
-|--------|---------|-----------|
-| **1800-111-322** | SBI Helpline | 24×7 |
-| **1800-102-6262** | PNB Helpline | 24×7 |
-| **1800-103-1906** | Bank of Baroda | 24×7 |
-| **1800-425-3800** | RBI Ombudsman | Office hours |
-| **14448** | RBI Complaint (CMS) | Office hours |
-
-## Telecom & Utilities
-
-| Number | Service | Available |
-|--------|---------|-----------|
-| **1500** | BSNL Customer Care | 24×7 |
-| **199** | Jio Customer Care | 24×7 |
-| **121** | Airtel Customer Care | 24×7 |
-| **199** | Vi Customer Care | 24×7 |
-| **1909** | DND Registration (all operators) | 24×7 |
-| **1912** | Electricity Complaint (most states) | 24×7 |
-| **1916** | Gas Leak Emergency | 24×7 |
-
-See our [BSNL Bill Payment guide](/guide/bsnl-bill-payment-online) for online bill payment steps and our [Spam Call Block guide](/guide/spam-call-report-block) for DND registration.
-
-## Transport & Travel
-
-| Number | Service | Available |
-|--------|---------|-----------|
-| **139** | IRCTC Rail Enquiry | 24×7 |
-| **138** | Railway Complaint | 24×7 |
-| **1800-111-139** | Railway Helpline (Toll Free) | 24×7 |
-| **1800-180-1551** | National Highway Helpline | 24×7 |
-| **1033** | Railway Accident Emergency | 24×7 |
-| **1800-103-5425** | FASTag Helpline (NHAI) | 24×7 |
-
-## Identity & Government Services
-
-| Number | Service | Available |
-|--------|---------|-----------|
-| **1947** | UIDAI Aadhaar Helpline | Office hours |
-| **1800-300-1947** | Aadhaar Toll Free | Office hours |
-| **18001801961** | Passport Seva Helpline | Office hours |
-| **1800-180-1111** | e-District Helpline | Office hours |
-| **1800-11-2211** | Income Tax Helpline | Office hours |
-| **1800-103-0025** | GST Helpline | Office hours |
-| **14461** | DigiLocker Helpline | Office hours |
-
-## Agriculture & Rural
-
-| Number | Service | Available |
-|--------|---------|-----------|
-| **1800-180-1551** | Kisan Call Centre | 24×7 |
-| **1800-115-526** | PM Kisan Helpline | Office hours |
-| **155261** | Kisan Helpline | Office hours |
-| **1800-233-1904** | Soil Health Card | Office hours |
-| **1800-180-1111** | MGNREGA Helpline | Office hours |
-
-## Education & Scholarship
-
-| Number | Service | Available |
-|--------|---------|-----------|
-| **1800-111-001** | CBSE Helpline | Office hours |
-| **1800-118-002** | UGC Helpline | Office hours |
-| **0120-6619540** | National Scholarship Portal | Office hours |
-| **1800-425-1515** | IGNOU Helpline | Office hours |
-
-## Labour & Employment
-
-| Number | Service | Available |
-|--------|---------|-----------|
-| **14434** | EPFO (PF) Helpline | Office hours |
-| **1800-118-005** | ESIC Helpline | Office hours |
-| **1800-345-4001** | Labour Helpline | Office hours |
-| **1800-425-1514** | Skill India Helpline | Office hours |
-
-## Legal Aid
-
-| Number | Service | Available |
-|--------|---------|-----------|
-| **15100** | NALSA Legal Aid Helpline | Office hours |
-| **1800-345-3525** | Free Legal Aid | Office hours |
-
-## Anti-Corruption & Complaints
-
-| Number | Service | Available |
-|--------|---------|-----------|
-| **1800-11-0031** | Anti-Corruption Helpline (CVC) | Office hours |
-| **1800-233-4636** | RTI Helpline | Office hours |
-| **14588** | CPGRAMS (PM Grievance) | Office hours |
-
-## Environment & Wildlife
-
-| Number | Service | Available |
-|--------|---------|-----------|
-| **1800-11-9898** | Forest/Wildlife Crime | Office hours |
-| **1800-425-1166** | Pollution Complaint (CPCB) | Office hours |
-
-## How to Use These Helplines Effectively
-
-1. **Note down the complaint/reference number** given during the call
-2. **Be specific** — state your problem clearly with dates and details
-3. **Escalate** if not resolved — most helplines have escalation mechanisms
-4. **Follow up** using the reference number
-5. **Use online portals** alongside helplines for documented complaints
-
-## Important Tips
-
-1. **Save 112** — it's the single most important emergency number, works without SIM
-2. **1930** is the fastest way to report financial fraud — call within the "golden hour" for best chance of recovery
-3. **Most helplines are free** from any phone — no charges apply
-4. **Keep a screenshot** of this page on your phone for quick reference
-5. **Teach children** to dial 112 in emergencies
-
-## Frequently Asked Questions
-
-### Q1: Does 112 work without a SIM card?
-Yes. **112** works on any phone even without a SIM card or balance. It connects you to the nearest emergency response center.
-
-### Q2: Are all these numbers toll-free?
-Most numbers listed here are toll-free (1800-xxx-xxxx format). Some short codes (like 100, 112) are also free. A few may have nominal charges from certain operators.
-
-### Q3: What is the best number for cyber fraud?
-Call **1930** immediately if you're a victim of online/financial fraud. This is the national cyber crime helpline and can help freeze fraudulent transactions quickly.
-
-### Q4: Can I call these numbers from any operator?
-Yes. All emergency numbers and toll-free numbers work from any telecom operator (Jio, Airtel, Vi, BSNL) across India.
-
-### Q5: What if the helpline is busy or not answering?
-Try calling during office hours (10 AM - 6 PM) for non-emergency helplines. For emergencies, **112** has the highest response capacity. You can also use online complaint portals as alternatives.
-
-### Q6: Is there a single app with all helpline numbers?
-The **112 India app** (available on Play Store) provides emergency services and some helplines. You can also save this CitizenNest guide as a bookmark for quick reference.
-
-### Q7: How do I file a complaint if the helpline doesn't resolve my issue?
-Escalate to the **CPGRAMS portal** (pgportal.gov.in) for grievances against government services, or use [consumerhelpline.gov.in](https://consumerhelpline.gov.in) for consumer complaints.
+| Number | Service |
+|---|---|
+| **104** | Health Helpline (government health advice) |
+| **1800-599-0019** | Ayushman Bharat / PM-JAY Helpline |
+| **1800-180-1104** | National AIDS Helpline |
+| **08046110007** | Mental Health Helpline (NIMHANS) |
+| **1800-11-0031** | TB Helpline (Nikshay) |
 
 ---
 
-*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with the Government of India. Helpline numbers may change. Verify on [india.gov.in](https://www.india.gov.in) for the latest information.*
+## Railways
+
+| Number | Service |
+|---|---|
+| **139** | Indian Railways Enquiry (PNR, train status, complaints) |
+| **1800-111-139** | IRCTC Customer Care (toll free) |
+| **182** | Railway Security Helpline (RPF) |
+| **1800-110-139** | IRCTC Refund Helpline |
+
+**139** is the all-in-one railway helpline. You can check PNR status, train running status, file complaints, and get information by pressing the relevant option.
+
+Also see: [Train ticket booking guide](/guide/irctc-train-ticket-booking)
+
+---
+
+## Passport & Visa
+
+| Number | Service |
+|---|---|
+| **1800-258-1800** | Passport Seva Helpline (toll free) |
+| **011-2338-6401** | MEA (Ministry of External Affairs) |
+
+**Passport Seva Helpline** helps with appointment booking issues, application status, document queries, and grievances related to passport services.
+
+Also see: [Passport apply online guide](/guide/passport-apply-online-india)
+
+---
+
+## Income Tax & Finance
+
+| Number | Service |
+|---|---|
+| **1800-180-1961** | Income Tax Department Helpline (toll free) |
+| **1961** | Income Tax (short code, from mobile) |
+| **1800-103-0025** | e-Filing Helpdesk |
+| **1800-103-4455** | TIN/NSDL (PAN card) |
+| **1800-222-990** | GST Helpdesk |
+| **155260** | Cyber Financial Fraud (report within golden hour) |
+
+Also see: [ITR filing guide](/guide/income-tax-return-filing-online) | [PAN card guide](/guide/pan-card-apply-online)
+
+---
+
+## EPFO (Provident Fund)
+
+| Number | Service |
+|---|---|
+| **1800-118-005** | EPFO Helpline (toll free) |
+| **011-2617-2828** | EPFO Head Office |
+| **14470** | EPFO Grievance |
+
+Use the EPFO helpline for PF balance enquiry, withdrawal status, UAN activation, KYC update, and pension queries.
+
+Also see: [PF withdrawal guide](/guide/epf-withdrawal-online)
+
+---
+
+## Consumer & Grievance
+
+| Number | Service |
+|---|---|
+| **1800-11-4000** | National Consumer Helpline (NCH) |
+| **1031** | Anti-Corruption Helpline (CVC) |
+| **14411** | Centralised Public Grievance (CPGRAMS) |
+| **1076** | COVID-19 Helpline |
+
+Also see: [Consumer complaint guide](/guide/consumer-complaint-online)
+
+---
+
+## Banking & Insurance
+
+| Number | Service |
+|---|---|
+| **14440** | RBI Complaint Helpline |
+| **1800-425-3800** | Jan Dhan Yojana |
+| **1800-110-001** | SBI Customer Care |
+| **1800-180-1111** | PNB Customer Care |
+| **1800-180-4444** | Atal Pension Yojana |
+| **155255** | PM SVANidhi (Street Vendor Loan) |
+
+---
+
+## Transport & Driving
+
+| Number | Service |
+|---|---|
+| **1033** | Road Accident Helpline |
+| **1800-120-2020** | NHAI (National Highway) Helpline |
+| **1800-180-6622** | Vahan/Sarathi (Driving Licence, RC) |
+| **1800-115-526** | FASTag Helpline |
+
+Also see: [Driving licence guide](/guide/driving-licence-apply-online)
+
+---
+
+## Education & Scholarships
+
+| Number | Service |
+|---|---|
+| **1800-111-002** | UGC Helpline |
+| **011-2323-2701** | National Scholarship Portal |
+| **1800-180-5522** | PM KISAN Helpline |
+
+---
+
+## Telecom & Utilities
+
+| Number | Service |
+|---|---|
+| **1800-11-0420** | TRAI (Do Not Disturb complaints) |
+| **1912** | Electricity Complaint (many states) |
+| **1800-180-1551** | LPG/Gas Booking (Indane) |
+| **1800-233-3555** | Bharat Gas |
+| **1906** | HP Gas |
+| **1947** | Jal Jeevan Mission (water) |
+
+---
+
+## Aadhaar & DigiLocker
+
+| Number | Service |
+|---|---|
+| **1947** | Aadhaar Helpline / UIDAI |
+| **1800-258-1947** | UIDAI Toll Free |
+| **011-2490-0000** | DigiLocker Helpline |
+
+Also see: [Aadhaar card guide](/guide/aadhaar-card-apply-online)
+
+---
+
+## Important Tips
+
+1. **Save 112** — the single emergency number that works across India, even without a SIM card or balance
+2. **Toll-free numbers** starting with 1800 are free from landlines; from mobile phones, regular call charges may apply on some networks
+3. **Keep a list handy** — save important numbers in your phone contacts for quick access
+4. **For financial fraud**, call **155260** within the first hour (golden hour) to increase chances of recovering your money
+5. **CPGRAMS** (14411) is for filing grievances against any central government department when other channels fail
+
+---
+
+## Frequently Asked Questions
+
+### Q1. Is 112 free to call?
+Yes, 112 is free to call from any phone — mobile or landline. It works even without a SIM card, without balance, and even when the phone is locked.
+
+### Q2. What is the difference between 100 and 112?
+100 connects directly to the police. 112 is the unified emergency number that connects you to police, fire, or ambulance based on your need. 112 is the recommended number.
+
+### Q3. Can I call these helplines from any state?
+Yes, most national helplines work from any state. Some state-specific helplines may have different numbers — check your state government website.
+
+### Q4. What is the golden hour for reporting cyber fraud?
+Call **155260** or report at [cybercrime.gov.in](https://cybercrime.gov.in/) within 1 hour of the fraud. This is called the "golden hour" and significantly increases the chance of freezing the fraudulent transaction.
+
+### Q5. Are toll-free 1800 numbers really free?
+From landlines, yes. From mobile phones, most toll-free numbers are free, but some telecom operators may charge regular call rates. Check with your operator.
+
+### Q6. How do I file a complaint if the helpline doesn't resolve my issue?
+Escalate to **CPGRAMS** at [pgportal.gov.in](https://pgportal.gov.in/) or call 14411. You can also write to the department's Grievance Officer. For consumer issues, file on the [National Consumer Helpline portal](https://consumerhelpline.gov.in/).
+
+---
+
+*Disclaimer: CitizenNest is an independent platform and is not affiliated with any government department. Helpline numbers and services may change — verify on [india.gov.in](https://www.india.gov.in/) for the latest information.*
