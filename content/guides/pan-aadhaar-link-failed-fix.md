@@ -1,224 +1,172 @@
 ---
-title: "PAN Aadhaar Link Failed — How to Fix Every Error"
-description: "PAN Aadhaar link failed? Fix name mismatch, already linked, inactive PAN, payment errors and server issues with step-by-step solutions on the Income Tax portal."
-category: "Tax & Finance"
-lastUpdated: 2025-07-05
+title: "PAN Aadhaar Link Failed? Fix Error on Income Tax Portal"
+description: >-
+  PAN Aadhaar linking failed due to name or DOB mismatch? Fix common errors on
+  Income Tax portal, pay ₹1000 fee, know the deadline and consequences.
+category: Tax & Finance
 keywords:
   - pan aadhaar link failed
-  - pan aadhaar link not working
   - pan aadhaar link error
-  - pan aadhaar link name mismatch
-  - pan aadhaar linking failed how to fix
-  - pan aadhaar link server error
-  - pan inoperative aadhaar link
-  - aadhaar pan link problem
-  - pan aadhaar link payment failed
-  - pan aadhaar link status check
-readingTime: "10 min"
+  - pan aadhaar name mismatch
+  - pan aadhaar link fee
+  - pan aadhaar link deadline
+  - pan inoperative
+  - link pan with aadhaar
+  - pan aadhaar dob mismatch
+  - pan aadhaar link online
+  - pan card aadhaar card link
+readingTime: 8 min
+lastUpdated: "2026-03-06"
 officialLinks:
+  - "https://www.incometax.gov.in/iec/foportal/"
   - "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/bl-link-aadhaar"
-  - "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/e-pay-tax-prelogin"
-  - "https://myaadhaar.uidai.gov.in/"
-  - "https://www.tin-nsdl.com/"
+  - "https://www.uidai.gov.in/"
 ---
 
-# PAN Aadhaar Link Failed — How to Fix
+# PAN Aadhaar Link Failed? Fix Error on Income Tax Portal
 
-Linking PAN with Aadhaar is mandatory under Section 139AA of the Income Tax Act. If your PAN is not linked, it becomes **inoperative** — you cannot file ITR, receive refunds, or complete financial transactions. A late fee of **₹1,000** (under Section 234H) applies since the original deadline has passed.
+Linking PAN with Aadhaar is mandatory for all Indian taxpayers. If your PAN is not linked with Aadhaar, it becomes inoperative — meaning you cannot file ITR, process refunds, or do financial transactions requiring PAN. If your linking attempt has failed, this guide covers all common errors and how to fix them.
 
-This guide covers every error you may face during PAN-Aadhaar linking and how to fix it.
+## Why PAN Aadhaar Linking is Mandatory
 
----
+As per Section 139AA of the Income Tax Act, every person with PAN and Aadhaar must link them. Unlinked PANs become inoperative, which means:
 
-## Common Error Messages When Linking PAN to Aadhaar
+- Cannot file Income Tax Returns
+- Cannot receive tax refunds
+- Higher TDS rates apply (under Section 206AA)
+- Cannot open new bank accounts or demat accounts with that PAN
+- Existing financial transactions may be impacted
 
-When you try to link on the [Income Tax e-filing portal](https://eportal.incometax.gov.in/iec/foservices/#/pre-login/bl-link-aadhaar), you may see:
+## Fee for PAN Aadhaar Linking
 
-| Error Message | Meaning |
-|---|---|
-| "Name as per PAN does not match with Aadhaar" | Name spelling differs between PAN and Aadhaar |
-| "Date of birth in PAN and Aadhaar do not match" | DOB mismatch |
-| "Your PAN is already linked with some other Aadhaar" | PAN mapped to a different Aadhaar number |
-| "PAN is already linked with given Aadhaar" | Already linked — no action needed |
-| "PAN not found / Invalid PAN" | Wrong PAN entered or PAN deactivated |
-| "Aadhaar number is invalid" | Incorrect Aadhaar number |
-| "Payment of fee of Rs.1000 is required" | Late linking fee not yet paid |
-| "Your request could not be processed at this time" | Server or technical error |
-| OTP not received | Mobile not linked to Aadhaar or network issue |
+A fee of **₹1,000** is applicable for linking PAN with Aadhaar (after the free linking deadline has passed). This fee must be paid through the e-Pay Tax facility on the Income Tax portal before initiating the link request.
 
----
+## Common PAN Aadhaar Link Errors & Fixes
 
-## Why PAN-Aadhaar Link Fails
+### Error 1: Name Mismatch
 
-### 1. Name Mismatch
-Your name must match in both PAN and Aadhaar. Even small differences — initials vs. full name, different spelling, or reversed first/last name — can cause failure.
+**Problem:** Name in PAN and Aadhaar do not match exactly (spelling difference, middle name missing, initials vs full name).
 
-### 2. Date of Birth Mismatch
-If DOB recorded in PAN and Aadhaar is different, linking will be rejected.
+**Fix:**
+1. Decide which document has the correct name
+2. **If Aadhaar name is wrong:** Update name on [myAadhaar portal](https://myaadhaar.uidai.gov.in/) or visit an Aadhaar enrolment centre. See our [Aadhaar name change guide](/guide/aadhaar-address-change-online) for steps
+3. **If PAN name is wrong:** Apply for PAN correction on [NSDL](https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html) or [UTIITSL](https://www.pan.utiitsl.com/) portal
+4. After correction is done, retry the linking
 
-### 3. PAN Linked to Another Aadhaar
-This happens due to a previous data entry error or if someone else's Aadhaar was accidentally linked to your PAN.
+### Error 2: Date of Birth (DOB) Mismatch
 
-### 4. Late Fee Not Paid
-Since the deadline has passed, you must pay ₹1,000 before the portal allows linking.
+**Problem:** DOB in PAN and Aadhaar are different.
 
-### 5. Inactive or Invalid PAN
-If your PAN has been deactivated (duplicate PAN, fraud, etc.), linking will fail.
-
-### 6. Server / Technical Errors
-The Income Tax portal experiences heavy load, especially near deadline periods. Temporary errors are common.
-
-### 7. Aadhaar Mobile Number Not Registered
-An OTP is sent to your Aadhaar-registered mobile. If no mobile is linked to Aadhaar, you cannot complete the process online.
-
----
-
-## Step-by-Step Fix for Each Error
-
-### Fix: Name Mismatch
-
-1. Verify your PAN name at [PAN Verification](https://eportal.incometax.gov.in/iec/foservices/#/pre-login/verifyYourPAN)
-2. Verify your Aadhaar name at [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in/)
-3. Compare the exact spelling, initials, and name order
-4. **If PAN name is wrong:** Apply for PAN correction at [tin-nsdl.com](https://www.tin-nsdl.com/) — fee is ₹107 (₹1,017 for addresses outside India)
-5. **If Aadhaar name is wrong:** Apply for [Aadhaar name correction online](/guide/aadhaar-name-correction-online)
-6. After correction, wait for the updated document and retry linking
-
-### Fix: Date of Birth Mismatch
-
+**Fix:**
 1. Check which document has the correct DOB
-2. **Correct in PAN:** Apply at [tin-nsdl.com](https://www.tin-nsdl.com/) with DOB proof (birth certificate, passport, or matriculation certificate)
-3. **Correct in Aadhaar:** Visit an Aadhaar enrolment centre with DOB proof
-4. **Note:** Aadhaar allows DOB change only once if it was recorded as "verified"
+2. **If Aadhaar DOB is wrong:** Update DOB on myAadhaar portal (DOB can be updated only once if you are above 5 years, with valid proof)
+3. **If PAN DOB is wrong:** Apply for PAN correction with date of birth proof
+4. Both documents must show the same DOB for linking to succeed
 
-### Fix: PAN Already Linked to Another Aadhaar
+### Error 3: PAN Already Linked to a Different Aadhaar
 
-1. Raise a grievance on the [Income Tax e-filing portal](https://eportal.incometax.gov.in/) under **e-Nivaran**
-2. Call the Income Tax helpline: **1800-103-0025** (toll-free)
-3. Visit your nearest Income Tax office with your PAN card, Aadhaar card, and an application letter
-4. Contact UIDAI helpline at **1947** if UIDAI verification is needed
+**Problem:** Your PAN is already linked to another Aadhaar number.
 
-### Fix: Late Fee ₹1,000 Not Paid
+**Fix:**
+1. This usually happens due to data entry error at the time of PAN application
+2. Visit your nearest Income Tax office or PAN service centre
+3. Carry original PAN card, Aadhaar card, and identity proof
+4. File a request to de-link the wrong Aadhaar and re-link with your correct Aadhaar
+5. You may need to write a letter to the Assessing Officer
 
-1. Go to [e-Pay Tax](https://eportal.incometax.gov.in/iec/foservices/#/pre-login/e-pay-tax-prelogin)
-2. Enter your PAN and mobile number
-3. Select **AY 2025-26** (or the current assessment year)
-4. Under **Type of Payment**, select **Other Receipts (500)**
-5. Select **Fee for delay in linking PAN with Aadhaar (234H)** — amount ₹1,000
-6. Pay via net banking, debit card, or UPI
-7. **Wait 4–5 working days** for the payment to reflect before retrying the link
+### Error 4: Aadhaar Already Linked to a Different PAN
 
-**If payment succeeded but linking still fails:**
-- Check payment status under **e-Pay Tax → Payment History**
-- Wait 5 working days — the challan takes time to sync
-- If still stuck, call 1800-103-0025
+**Problem:** Your Aadhaar is linked to someone else's PAN.
 
-### Fix: OTP Not Received
+**Fix:**
+1. This is a serious issue — may indicate identity fraud
+2. File a grievance on Income Tax portal under e-Nivaran
+3. Visit Income Tax office with original Aadhaar, PAN, and ID proof
+4. Request de-linking of your Aadhaar from the other PAN
+5. Consider filing a police complaint if fraud is suspected
 
-1. Check if your mobile number is registered with Aadhaar at [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in/)
-2. If mobile is not linked, [update your Aadhaar mobile number](/guide/aadhaar-update-mobile-email) first
-3. Ensure your phone has proper network signal
-4. Wait 2–3 minutes and click **Resend OTP**
-5. Try during off-peak hours (early morning or late evening)
+### Error 5: Payment Not Reflecting
 
-### Fix: Server Error / Request Could Not Be Processed
+**Problem:** You paid ₹1,000 fee but the portal shows payment not received.
 
-1. Clear your browser cache and cookies
-2. Use **incognito/private browsing** mode
-3. Try a different browser (Chrome recommended)
-4. Attempt during off-peak hours — early morning or late night
-5. Try again the next day if the portal is under maintenance
+**Fix:**
+1. Wait 4-5 working days for payment to reflect in the system
+2. Check payment status under **e-Pay Tax → Payment History** on Income Tax portal
+3. If still not reflecting, raise a grievance on e-Nivaran with payment challan details
 
----
+## Step-by-Step: How to Link PAN with Aadhaar
 
-## How to Check PAN-Aadhaar Link Status
+1. Visit [Income Tax PAN-Aadhaar Link page](https://eportal.incometax.gov.in/iec/foservices/#/pre-login/bl-link-aadhaar)
+2. Enter your PAN number and Aadhaar number
+3. Click "Validate" — it will check if linking is needed
+4. If fee is required, pay ₹1,000 via **e-Pay Tax** (select Minor Head 500 — Fee)
+5. Wait 4-5 working days after payment
+6. Return to the link page and click "Link Aadhaar"
+7. Enter your name as per Aadhaar, DOB, and mobile number
+8. Verify with Aadhaar OTP
+9. On success, you'll see confirmation message
 
-### Method 1: Online
+## How to Check PAN Aadhaar Link Status
 
-1. Visit [eportal.incometax.gov.in/iec/foservices/#/pre-login/bl-link-aadhaar](https://eportal.incometax.gov.in/iec/foservices/#/pre-login/bl-link-aadhaar)
-2. Enter your **PAN** and **Aadhaar** number
-3. Click **View Link Aadhaar Status**
-4. The page will show whether your PAN and Aadhaar are linked
+1. Visit [Income Tax Portal](https://eportal.incometax.gov.in/iec/foservices/#/pre-login/bl-link-aadhaar)
+2. Enter PAN and Aadhaar number
+3. Click "View Link Aadhaar Status"
+4. It will show whether linking is complete or pending
 
-### Method 2: SMS
+## Consequences of Not Linking
 
-Send the following SMS from your registered mobile number:
+| Consequence | Impact |
+|---|---|
+| PAN becomes inoperative | Cannot use for any financial transaction |
+| Higher TDS deduction | TDS at higher rate (20% instead of normal rate) |
+| Cannot file ITR | Filing blocked until PAN is reactivated |
+| No tax refunds | Pending refunds will not be processed |
+| Financial transactions blocked | Cannot open bank/demat accounts with that PAN |
 
-```
-UIDPAN <12-digit Aadhaar> <10-digit PAN>
-```
+## How to Reactivate Inoperative PAN
 
-Send to **567678** or **56161**.
-
----
-
-## What Happens if PAN Stays Inoperative?
-
-If you don't link PAN with Aadhaar, your PAN becomes inoperative. The consequences:
-
-- **Cannot file income tax returns**
-- **Pending refunds will not be processed** — see [Income Tax Refund Not Received](/guide/income-tax-refund-not-received-fix)
-- **TDS deducted at higher rate** (20% instead of normal rate)
-- **Cannot open** new bank accounts or demat accounts with PAN
-- **Cannot make** high-value financial transactions requiring PAN
-
-After successful linking, PAN becomes operative again within **30 days**.
-
----
+1. Pay ₹1,000 fee on Income Tax portal via e-Pay Tax
+2. Link PAN with Aadhaar (follow steps above)
+3. PAN will be reactivated within **30 days** of successful linking
 
 ## Important Tips
 
-1. **Fix name/DOB mismatches first** — no amount of retrying will work if details don't match
-2. **Save payment challans** — always download the fee payment receipt as proof
-3. **Don't retry immediately** after paying the fee — wait 4–5 working days
-4. **Use off-peak hours** — the portal is less loaded early morning and late night
-5. **Keep both documents updated** — see our complete [PAN-Aadhaar linking guide](/guide/aadhaar-pan-link)
-6. **Check status after linking** — don't assume it worked; verify using the status check
-
----
-
-## Related Guides
-
-- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
-- [How to Link Aadhaar with PAN Card — Step-by-Step Guide](/guide/aadhaar-pan-link)
-- [PAN-Aadhaar Link Failed: Common Errors and How to Fix](/guide/pan-aadhaar-link-failed-common-errors)
-- [How to Link Aadhaar with Voter ID (EPIC) Online — Step-by-Step Guide](/guide/aadhaar-voter-id-linking-online)
-- [Bank Account Aadhaar Link Not Working — How to Fix](/guide/bank-account-aadhaar-link-not-working-fix)
+1. **Check exact name spelling** in both PAN and Aadhaar before attempting to link
+2. **Pay the ₹1,000 fee first** and wait 4-5 days before trying to link
+3. **Keep both documents updated** — mismatches are the #1 reason for failure
+4. **NRIs with Indian PAN** are exempt from PAN-Aadhaar linking if they don't have Aadhaar
+5. **Senior citizens** are not exempt — linking is mandatory for all PAN holders with Aadhaar
 
 ## Frequently Asked Questions
 
-### Is there a deadline for PAN-Aadhaar linking?
+### Q1. What is the fee for PAN Aadhaar linking?
 
-The original deadline has passed. You can still link by paying a late fee of ₹1,000 under Section 234H. Link as soon as possible to avoid your PAN staying inoperative.
+The fee is ₹1,000, payable via e-Pay Tax on the Income Tax portal.
 
-### My PAN is inoperative. Can I still link it with Aadhaar?
+### Q2. What happens if I don't link PAN with Aadhaar?
 
-Yes. Pay the ₹1,000 fee, complete the linking, and your PAN will become operative again within 30 days.
+Your PAN becomes inoperative. You cannot file ITR, receive refunds, or use PAN for financial transactions. Higher TDS rates will apply.
 
-### I paid ₹1,000 but linking still fails. What do I do?
+### Q3. How long does it take for PAN Aadhaar linking after payment?
 
-Wait 4–5 working days for the payment to reflect in the system. Check payment status under e-Pay Tax → Payment History. If it still fails, contact the helpline at 1800-103-0025.
+After paying ₹1,000, wait 4-5 working days for payment to reflect. The actual linking takes a few minutes after that. PAN reactivation takes up to 30 days.
 
-### The portal says PAN is already linked, but I never linked it. What happened?
+### Q4. Can NRIs link PAN with Aadhaar?
 
-Your employer or bank may have initiated the linking on your behalf, or it was done during an Aadhaar-based e-verification. Check the link status to confirm which Aadhaar is linked.
+NRIs who have Aadhaar must link it. NRIs who don't have Aadhaar are exempt from this requirement.
 
-### Can I link PAN and Aadhaar with minor name differences?
+### Q5. My name has minor spelling difference. Will linking fail?
 
-The system allows some fuzzy matching for minor variations (like initials). But if the difference is significant, you must correct the name in PAN or Aadhaar before linking.
+The system allows minor variations, but significant differences (wrong name, initials vs full name) will cause failure. Best to correct the mismatch first.
 
-### Are NRIs required to link PAN with Aadhaar?
+### Q6. Can I link PAN Aadhaar through SMS?
 
-NRIs who do not have an Aadhaar number are currently exempt from this requirement. However, NRIs who hold both PAN and Aadhaar should link them. Check the latest CBDT circulars for updates.
+The SMS-based linking facility (sending SMS to 567678) was available earlier but is no longer active. Use the online portal only.
 
-### Can I link PAN-Aadhaar offline?
+### Q7. Is there a deadline for PAN Aadhaar linking?
 
-You can visit any designated PAN service centre (NSDL TIN-FC or UTIITSL) with your PAN card, Aadhaar card, and the ₹1,000 fee payment challan to request linking assistance.
+The government has extended deadlines multiple times. Currently, PAN without Aadhaar link is already inoperative. Link as soon as possible to avoid issues.
 
-## Related Aadhaar Guides
+---
 
-- [How to Link Aadhaar with PAN, Bank Account, Mobile & Other Services](/guide/aadhaar-linking-guide)
-- [How to Link Aadhaar with PAN Card — Step-by-Step Guide](/guide/aadhaar-pan-link)
-- [PAN-Aadhaar Link Failed: Common Errors and How to Fix](/guide/pan-aadhaar-link-failed-common-errors)
-- [Aadhaar vs PAN Card — Key Differences, Uses, and When You Need Which](/guide/aadhaar-vs-pan-difference)
-- [Aadhaar OTP Not Coming? 8 Quick Fixes for Mobile & Email OTP](/guide/aadhaar-otp-not-received-fix)
+*Disclaimer: CitizenNest is an independent platform and is not affiliated with the Income Tax Department or UIDAI. Information is based on official sources and may change. Always verify on the [official Income Tax portal](https://www.incometax.gov.in/iec/foportal/).*

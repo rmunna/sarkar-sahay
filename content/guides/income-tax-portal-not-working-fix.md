@@ -1,226 +1,185 @@
 ---
-title: "Income Tax Portal Not Working: How to Fix"
+title: Income Tax Portal Not Working? Fix Login & Filing Errors
 description: >-
-  Troubleshooting guide for Income Tax e-Filing portal issues including login errors, ITR filing problems, slow loading, and verification failures on eportal.incometax.gov.in.
-category: "Tax & Finance"
+  Fix Income Tax e-Filing portal issues including login failures, OTP not
+  received, password reset, DSC errors, slow portal, and PAN-Aadhaar mismatch.
+category: Tax & Finance
 keywords:
   - income tax portal not working
-  - income tax efiling portal error
   - income tax login problem
-  - eportal incometax gov in not working
-  - itr filing error
-  - income tax website slow
-  - income tax portal down
-  - efiling portal fix
-  - income tax otp not received
-  - income tax website not loading
+  - e-filing portal otp not received
+  - income tax password reset
+  - dsc not working income tax
+  - income tax portal slow
+  - pan aadhaar link error
+  - income tax website down
+  - e-filing portal login error
+  - income tax portal browser issue
 readingTime: 9 min
+lastUpdated: '2026-03-06'
 officialLinks:
-  - "https://eportal.incometax.gov.in/"
-  - "https://www.incometax.gov.in/iec/foportal/help/all-topics"
-  - "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/grievance"
+  - 'https://www.incometax.gov.in/iec/foportal/'
+  - 'https://www.incometax.gov.in/iec/foportal/help/all-topics/login'
+  - 'https://eportal.incometax.gov.in/iec/foservices/#/pre-login/forgotPassword'
 ---
 
-# Income Tax Portal Not Working: How to Fix
+# Income Tax Portal Not Working? Fix Login & Filing Errors
 
-The Income Tax e-Filing portal ([eportal.incometax.gov.in](https://eportal.incometax.gov.in/)) is essential for filing income tax returns, checking refund status, responding to notices, and managing your tax profile. The portal frequently experiences issues during peak filing season (July-December). This guide covers all common problems and how to resolve them.
+The Income Tax e-Filing portal ([incometax.gov.in](https://www.incometax.gov.in/iec/foportal/)) is the gateway for filing ITR, checking refunds, responding to notices, and managing your tax profile. But many users face issues — login failures, OTP not arriving, slow loading, and technical errors.
 
-## Common Error Messages and Symptoms
+This guide covers the most common portal issues and how to fix them.
 
-- **"We are unable to process your request. Please try after some time"** — server overload
-- **"Invalid username or password"** — login failure even with correct credentials
-- **"Session timed out"** — frequent disconnections during ITR filing
-- **"DSC registration failed"** — Digital Signature Certificate errors
-- **"e-Verification failed"** — ITR verification through Aadhaar OTP or net banking fails
-- **"Error in downloading pre-filled data"** — AIS/TIS data not loading
-- **"PAN not registered"** — PAN not found in the system
-- Portal loads very slowly or shows blank white page
-- JSON upload fails during ITR filing
-- Form 26AS not displaying or showing incorrect data
-- Unable to generate Aadhaar OTP for e-verification
-- Payment of tax challan fails or shows pending
+## 1. Login OTP Not Received
 
-## Why the Income Tax Portal May Not Work
+**Problem:** You enter your PAN/User ID and password, but the OTP for two-factor authentication does not arrive on your mobile or email.
 
-### 1. Peak Season Server Overload
+**Fixes:**
+1. **Wait 2-3 minutes** — OTPs can be delayed during peak hours
+2. Click **Resend OTP** on the portal (you can resend up to 3 times)
+3. Check your **spam/junk folder** for the email OTP
+4. Ensure your **mobile number and email** are correct on the portal — go to **Profile Settings** to verify
+5. If your mobile number has changed, visit your nearest **Income Tax office** with PAN card and ID proof to update it
+6. Try a different method — switch between **mobile OTP** and **email OTP**
+7. Clear browser cache and try in **incognito/private mode**
 
-During ITR filing deadlines (typically July 31 and December 31), millions of users access the portal simultaneously, causing severe slowdowns and timeouts.
+> **Tip:** If you consistently don't receive OTPs, your mobile number registered with the IT department may be outdated. You can update it by visiting your nearest IT office.
 
-### 2. Browser Compatibility Issues
+## 2. Forgot Password / Account Locked
 
-The portal works best with specific browsers and configurations. Outdated browsers or incorrect settings can cause functionality issues.
+**Problem:** You forgot your password or your account got locked after multiple failed attempts.
 
-### 3. Incorrect Login Credentials
+**How to Reset Password:**
+1. Go to [incometax.gov.in](https://www.incometax.gov.in/iec/foportal/) → Click **Login**
+2. Enter your **User ID (PAN)** and click **Continue**
+3. Click **Forgot Password**
+4. Choose a reset method:
+   - **OTP on registered mobile/email**
+   - **Using Aadhaar OTP** (if PAN-Aadhaar linked)
+   - **Using bank account EVC**
+   - **Using Demat account EVC**
+5. Enter the OTP/EVC received
+6. Set a **new password** following the rules:
+   - Minimum 8 characters, maximum 14
+   - At least one uppercase letter, one lowercase, one number, one special character
+7. Click **Submit**
 
-After the new portal launch, many users face issues with migrated accounts where PAN and old credentials may not work directly.
+**If Account Is Locked:**
+- Wait **24 hours** — the account automatically unlocks
+- Or reset your password immediately using the steps above
 
-### 4. Cache and Cookie Conflicts
+## 3. DSC (Digital Signature Certificate) Not Working
 
-Accumulated browser data can conflict with the portal's session management.
+**Problem:** DSC not recognized, "DSC registration failed," or signing errors.
 
-### 5. Internet Speed Issues
+**Fixes:**
+1. Ensure you have the **emsigner utility** installed and running
+   - Download it from the portal's **Downloads** section
+2. Check that your **DSC is valid** (not expired)
+3. Your DSC must be **registered** on the portal:
+   - Go to **My Profile** → **Register DSC**
+   - Upload your certificate and verify
+4. Use **Google Chrome** or **Internet Explorer/Edge** — some browsers don't support DSC plugins
+5. Ensure the **USB token driver** is installed for your DSC dongle
+6. Try running the emsigner as **Administrator**
+7. Check that the **PAN on your DSC** matches your e-Filing PAN
 
-The portal's pages are heavy with scripts and data. Slow internet connections lead to incomplete page loads and errors.
+## 4. Portal Loading Slowly or Not Opening
 
----
+**Problem:** The portal takes too long to load, shows blank pages, or times out.
 
-## Step-by-Step Troubleshooting
+**Fixes:**
+1. **Clear browser cache and cookies** completely
+2. Use an updated browser — **Google Chrome** (latest) or **Firefox** (latest)
+3. Disable **ad blockers** and browser extensions
+4. Try in **incognito/private browsing** mode
+5. Check your **internet connection** — try switching between Wi-Fi and mobile data
+6. File during **off-peak hours**: early morning (6-8 AM) or late night (after 10 PM)
+7. If using a VPN, **disable it** — the portal may block VPN connections
+8. Try accessing from a **different device** (laptop vs mobile)
 
-### Step 1: Check Portal Status
+> **Note:** The portal experiences heavy traffic during July (ITR filing deadline). Server slowdowns are common during this period.
 
-1. Visit [eportal.incometax.gov.in](https://eportal.incometax.gov.in/)
-2. If the portal is completely down, check official announcements on the [Income Tax India Twitter](https://twitter.com/IncomeTaxIndia) handle
-3. Try visiting during off-peak hours (early morning 6-8 AM or late night after 10 PM)
+## 5. Browser Compatibility Issues
 
-### Step 2: Use the Right Browser
+**Problem:** Forms not loading, buttons not clickable, pages displaying incorrectly.
 
-1. Use **Google Chrome** (latest version) — best compatibility
-2. **Mozilla Firefox** is the second-best option
-3. Avoid using Internet Explorer or older Edge versions
-4. Enable JavaScript and cookies
-5. Disable browser extensions, especially ad blockers and privacy extensions
-6. Try in **Incognito/Private** mode
+**Recommended Setup:**
+| Setting | Recommendation |
+|---|---|
+| Browser | Google Chrome (v100+) or Mozilla Firefox (v100+) |
+| JavaScript | Enabled |
+| Cookies | Enabled |
+| Pop-ups | Allow for incometax.gov.in |
+| Cache | Clear before each session |
+| Zoom | Set to 100% |
 
-### Step 3: Clear Browser Cache and Cookies
+**Additional Steps:**
+1. **Disable browser extensions** — especially ad blockers and privacy extensions
+2. **Allow pop-ups** from incometax.gov.in (the portal uses pop-ups for OTP and verification)
+3. **Enable JavaScript** — the portal requires it
+4. If using **Safari on Mac**, switch to Chrome — some features don't work on Safari
+5. **Don't use mobile browsers** for complex operations like ITR filing — use a desktop browser
 
-1. In Chrome: Press **Ctrl + Shift + Delete**
-2. Select **All time** as the time range
-3. Check **Cookies and other site data** and **Cached images and files**
-4. Click **Clear data**
-5. Close and reopen the browser
+## 6. PAN-Aadhaar Mismatch / Link Error
 
-### Step 4: Fix Login Issues
+**Problem:** "PAN-Aadhaar linking failed" or portal shows name/DOB mismatch.
 
-**If password is forgotten:**
-1. Click **Forgot Password** on the login page
-2. Enter your PAN (which is your User ID)
-3. Select reset option — Aadhaar OTP, registered email, or registered mobile
-4. Follow the verification steps and set a new password
+**Causes:**
+- Name in PAN and [Aadhaar](/guide/aadhaar-card-apply-online) don't match exactly
+- Date of birth differs between PAN and Aadhaar
+- Gender mismatch
 
-**If PAN is not registered:**
-1. Click **Register** on the portal homepage
-2. Enter your PAN and validate
-3. Complete registration with mobile number, email, and Aadhaar
-4. Set your password
+**How to Fix:**
+1. Check the exact name, DOB, and gender on both documents
+2. If **Aadhaar details are correct**, update your PAN:
+   - Apply for PAN correction on [NSDL](https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html) or [UTIITSL](https://www.pan.utiitsl.com/) portal
+   - Fee: ₹107 (including GST)
+3. If **PAN details are correct**, update your Aadhaar:
+   - Visit an [Aadhaar enrolment centre](/guide/aadhaar-address-change-online) or update online on myAadhaar portal
+4. After correction, retry the PAN-Aadhaar linking:
+   - Go to **incometax.gov.in** → **Link Aadhaar** (available on the homepage)
+   - Or SMS: **UIDPAN <12-digit Aadhaar> <10-digit PAN>** to 567678
 
-### Step 5: Fix ITR Filing Errors
+> **Deadline:** PAN-Aadhaar linking is mandatory. Unlinked PANs become **inoperative** and cannot be used for filing ITR, opening bank accounts, or other financial transactions.
 
-**JSON upload failure:**
-1. Download the latest **offline utility** from [eportal.incometax.gov.in/iec/foservices/#/pre-login/downloads](https://eportal.incometax.gov.in/iec/foservices/#/pre-login/downloads)
-2. Fill details in the utility and generate a fresh JSON
-3. Ensure the JSON file size does not exceed 50 MB
-4. Try uploading in a different browser
+## 7. Other Common Portal Errors
 
-**Pre-filled data not loading:**
-1. Log in and go to **e-File → Income Tax Returns → File ITR**
-2. Select the correct Assessment Year
-3. Click **Start New Filing** instead of continuing a draft
-4. If data still does not load, file using the offline utility
+| Error | Solution |
+|---|---|
+| "PAN is already registered" | Use **Forgot Password** to recover your existing account |
+| "Session expired" | Log in again — the portal times out after 15 minutes of inactivity |
+| "Service unavailable" | Portal is under maintenance — try after some time |
+| "Invalid captcha" | Refresh the captcha, clear cache, or try in incognito mode |
+| Form 26AS not loading | Access via **TRACES** portal instead — [tdscpc.gov.in](https://www.tdscpc.gov.in/) |
 
-### Step 6: Fix e-Verification Failures
+## Important Tips
 
-1. **Aadhaar OTP method:** Ensure Aadhaar is linked to PAN and mobile number is updated in both Aadhaar and the IT portal
-2. **Net banking method:** Log into your bank's net banking and access the e-filing portal through it
-3. **Bank account EVC:** Prevalidate your bank account on the IT portal first at **Profile → My Bank Accounts**
-4. **Demat account EVC:** Prevalidate via **Profile → My Demat Accounts**
-5. **Physical verification:** Send signed ITR-V to CPC Bengaluru within 120 days as a last resort
-
-### Step 7: Disable VPN and Proxy
-
-Government portals often block VPN and proxy connections:
-1. Turn off any VPN service
-2. Disable proxy settings in your browser
-3. Use a direct internet connection
-
----
-
-## Alternative Methods and Workarounds
-
-### Use the Offline Utility
-
-Download the Income Tax offline utility for your ITR form:
-1. Visit the [Downloads page](https://eportal.incometax.gov.in/iec/foservices/#/pre-login/downloads)
-2. Download the appropriate ITR utility (Excel or Java-based)
-3. Fill your return details offline
-4. Generate and upload the JSON file when the portal is working
-
-### File Through Tax Software
-
-Use authorized tax filing platforms that connect to the Income Tax portal:
-- ClearTax
-- Tax2Win
-- myITreturn
-
-These platforms often have better uptime than direct portal access.
-
-### Visit the Income Tax Office
-
-For critical issues that cannot be resolved online:
-1. Visit your jurisdictional Assessing Officer's office
-2. Carry your PAN card, Aadhaar, and relevant documents
-3. You can file physical returns in exceptional circumstances
-
-### Use the Income Tax App
-
-The **AIS for Taxpayer** app and the mobile-friendly portal may work when the desktop site does not:
-- Download from Google Play or App Store
-- Access your Annual Information Statement (AIS)
-- View Form 26AS data
-
----
-
-## Helpline Contacts
-
-| Contact | Details |
-|---------|---------|
-| **IT Helpdesk** | 1800-103-0025 (toll-free) |
-| **IT Helpdesk** | 1800-419-0025 (toll-free) |
-| **e-Filing Support** | [eportal.incometax.gov.in/iec/foservices/#/pre-login/grievance](https://eportal.incometax.gov.in/iec/foservices/#/pre-login/grievance) |
-| **Email** | e-filingsupport@incometax.gov.in |
-| **CPC Bengaluru** | 1800-425-2229 |
-| **Twitter** | [@IncomeTaxIndia](https://twitter.com/IncomeTaxIndia) |
-
----
-
-## Prevention Tips
-
-1. **File early** — do not wait until the last week before the deadline; servers are least loaded in the first two weeks of filing season
-2. **Keep browser updated** — always use the latest Chrome or Firefox version
-3. **Save drafts frequently** — the portal auto-saves, but also download your JSON periodically
-4. **Pre-validate bank accounts** — do this well before filing season under Profile → My Bank Accounts
-5. **Ensure PAN-Aadhaar linking** — many portal features require this; link them at [eportal.incometax.gov.in/iec/foservices/#/pre-login/bl-link-aadhaar](https://eportal.incometax.gov.in/iec/foservices/#/pre-login/bl-link-aadhaar)
-6. **Use offline utility as backup** — download and keep the utility ready even if you plan to file online
-
----
-
-## Related Guides
-
-- [Income Tax Refund Not Received Fix](/guide/income-tax-refund-not-received-fix)
-- [PAN Aadhaar Link Failed Common Errors](/guide/pan-aadhaar-link-failed-common-errors)
-- [GST Return Filing Errors Fix](/guide/gst-return-filing-errors-fix)
-- [Income Tax Return Filing Guide](/guide/income-tax-return-file-online)
-- [PAN Card Apply Online](/guide/pan-card-apply-online)
-
----
+1. **Bookmark the correct URL** — only use [incometax.gov.in](https://www.incometax.gov.in/iec/foportal/). Avoid search result links that may be phishing sites
+2. **Never share OTP** or password with anyone — the IT Department never asks for it via call or email
+3. **Keep your profile updated** — mobile number, email, and bank details
+4. **Use the official helpline** for unresolved issues: **1800-103-0025** (toll-free)
+5. **Screenshot error messages** before contacting support for faster resolution
 
 ## Frequently Asked Questions
 
-### Why is the Income Tax portal so slow during filing season?
+### Q1: The Income Tax portal is completely down. What should I do?
+Wait and try after a few hours. The IT Department posts maintenance schedules on the portal. If it's close to the filing deadline, the government usually extends the date for widespread outages.
 
-The portal handles over 7 crore ITR filings, with a large portion filed in the last few days before the deadline. The sudden surge in traffic overwhelms the servers. File early in the season or use off-peak hours (6-8 AM, after 10 PM) for a smoother experience.
+### Q2: I can't log in even with the correct password. Why?
+Your account may be locked after multiple failed attempts. Wait 24 hours or reset your password. Also check if you're using PAN (not Aadhaar) as the User ID.
 
-### Can I file my ITR if the portal is down?
+### Q3: Can I file ITR using a mobile phone?
+Yes, you can use the **AIS for Taxpayer** mobile app for simple returns (ITR-1, ITR-4). For complex returns, use a desktop browser for the best experience.
 
-Yes. Download the offline utility from the IT portal's downloads section, fill your details offline, and generate a JSON file. Upload the JSON file when the portal is back up. You can also use authorized third-party tax filing platforms.
+### Q4: The portal accepted my ITR but I didn't get an acknowledgment. What now?
+Log in and go to **View Filed Returns**. If your return shows as filed, download the acknowledgment from there. If it doesn't appear, the submission may have failed — try filing again.
 
-### What should I do if my ITR e-verification fails?
+### Q5: How do I update my mobile number or email on the IT portal?
+Log in → **My Profile** → **Personal Details** → update your contact information. You'll need to verify with OTP sent to both old and new numbers.
 
-Try alternative verification methods: Aadhaar OTP, net banking, bank account EVC, or demat account EVC. If all electronic methods fail, you can send a physically signed ITR-V to CPC Bengaluru (address printed on ITR-V) via speed post within 120 days of filing.
+### Q6: I see a "PAN is inoperative" message. What does this mean?
+Your PAN has been deactivated because it is not linked with Aadhaar. Link your PAN with Aadhaar by paying the applicable fee (₹1,000) on the portal to reactivate it.
 
-### Why does the portal say "PAN not registered" when I try to login?
+---
 
-If you have never filed a return or registered on the new portal, you need to register first. Click "Register" on the homepage, enter your PAN, and complete the registration. If you were registered on the old portal, your account should have been migrated — try the "Forgot Password" option.
-
-### How do I contact Income Tax support for portal issues?
-
-Call the toll-free helpline at 1800-103-0025 or 1800-419-0025 (Monday-Friday, 10 AM - 6 PM). You can also raise a grievance at the e-Filing portal's grievance section or email e-filingsupport@incometax.gov.in.
+*Disclaimer: CitizenNest is an independent platform and is not affiliated with the Income Tax Department or Government of India. Information is for guidance only. Always verify details on the [official Income Tax e-Filing portal](https://www.incometax.gov.in/iec/foportal/).*
