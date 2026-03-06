@@ -1,176 +1,122 @@
 ---
-title: "Change Address in Driving Licence Online"
-description: "Change your driving licence address online via Parivahan Sarathi portal. Step-by-step endorsement process, documents needed, fees, and timelines."
-category: "Identity Documents"
-keywords: ["driving licence address change", "DL address change online", "change address in DL", "parivahan address change", "DL endorsement", "driving licence address update"]
+title: "Driving Licence Address Change Online: Step-by-Step"
+description: "Change your driving licence address online via Parivahan portal. Documents needed, fees, RTO visit details, and complete process guide."
+category: "Utilities"
+keywords: ["driving licence address change", "DL address update online", "parivahan address change", "change address in driving licence", "RTO address change"]
 readingTime: "7 min"
-lastUpdated: "2026-03-05"
 officialLinks:
-  - https://sarathi.parivahan.gov.in
   - https://parivahan.gov.in
+  - https://sarathi.parivahan.gov.in
+lastUpdated: "2026-03-06"
 ---
 
-## How to Change Address in Driving Licence
+## What is DL Address Change?
 
-Changing the address on your Driving Licence (DL) is done through an **endorsement process** on the Sarathi/Parivahan portal. Whether you've moved to a new city within the same state or to a different state, you can update your DL address online.
+If you've moved to a new address, you must update your driving licence to reflect your current residential address. This is important because your DL serves as both an identity and address proof document. The address change on a driving licence is processed through the **Sarathi Parivahan portal** and your Regional Transport Office (RTO).
 
-This process is officially called **"Change of Address in DL"** or **"Endorsement of DL"**.
+You can change your address within the same state or even transfer your DL to a different state's RTO.
 
-## When Do You Need to Update Your DL Address?
+## Who Needs to Change DL Address?
 
-- You've moved to a new address within the same state
-- You've moved to a **different state** (transfer of DL required)
-- Your current address proof doesn't match your DL
-- You need updated address for official/banking purposes
+- Anyone who has **shifted to a new residence** (within the same city, different city, or different state)
+- People whose DL shows an **old or incorrect address**
+- Those who want to **transfer their DL to a new state's RTO** after relocating
 
-**Legal requirement:** Under the Motor Vehicles Act, you should update your DL address within **30 days** of changing your residential address.
+> **Note:** If you're also due for [DL renewal](/guide/driving-licence-renewal-online-fix), you can update your address during the renewal process itself.
 
-## Documents Required
+## Documents Required for DL Address Change
 
-### Mandatory
-- **Existing Driving Licence** (original)
-- **New address proof** — any one of:
-  - Aadhaar card (with updated address)
-  - Passport
+### Mandatory Documents
+
+- **Existing Driving Licence** (original + photocopy)
+- **New Address Proof** (any one):
+  - Aadhaar card with updated address
+  - Passport with current address
   - Utility bill (electricity/water/gas — not older than 3 months)
-  - Bank passbook/statement with new address
+  - Bank statement or passbook with new address
+  - Voter ID with new address
   - Rent agreement (registered) with utility bill
-- **Passport-size photographs** (2-3, white background)
-- **Self-declaration form** (Form 1)
+  - LIC policy with new address
+- **Passport-size photographs** (2 copies, recent, white background)
+- **Self-declaration in Form 1** (available on the portal)
 
-### For Interstate Transfer (Additional)
-- **No Objection Certificate (NOC)** from your previous state's RTO
-- OR apply for NOC through Sarathi portal during the application process
+### For Interstate Transfer (Different State)
 
-## Step-by-Step Online Process
+- **No Objection Certificate (NOC)** from the original issuing RTO
+- Or apply for NOC online through the Sarathi portal (some states support this)
+- **Address proof of the new state**
 
-### Step 1: Visit Sarathi Portal
+## Step-by-Step Process: Change DL Address Online
 
-1. Go to [sarathi.parivahan.gov.in](https://sarathi.parivahan.gov.in)
-2. Select your **current state** (where you live now)
-
-### Step 2: Start Application
-
-1. Click **"Apply Online"**
-2. Select **"DL Services"** → **"Change of Address in DL"**
-3. Some states show this under **"Endorsement of DL"** or **"Issue of Duplicate DL with change"**
+1. Visit [sarathi.parivahan.gov.in](https://sarathi.parivahan.gov.in)
+2. Select your **state** from the dropdown
+3. Click **"DL Services"** → **"Change of Address in DL"** (or "DL Endorsement")
 4. Enter your **DL number** and **date of birth**
-5. Click **"Get DL Details"**
+5. Your existing details will be displayed — verify them
+6. Enter your **new address** in the provided fields
+7. Upload **scanned copies** of your new address proof and photographs
+8. Fill in **Form 1** (self-declaration) — available for download and upload on the portal
+9. **Pay the fee** online via debit card, credit card, net banking, or UPI
+10. **Book an RTO appointment** (if required by your state)
+11. Visit the RTO on the scheduled date with **original documents** for verification
+12. After verification, the updated DL will be dispatched to your new address via Speed Post
 
-### Step 3: Enter New Address
+## Fees for DL Address Change
 
-1. Your current DL details will be displayed
-2. Enter your **new address** in the provided fields
-3. Fill in: House/Flat No., Street, Locality, City, District, State, PIN Code
-4. Double-check spelling — this will be printed on your new DL
+| Service | Fee (Approx.) |
+|---|---|
+| Address change (within same state) | ₹200 |
+| Smart card fee | ₹200 |
+| Interstate transfer + address change | ₹500 - ₹600 |
+| NOC fee (for interstate) | ₹200 |
 
-### Step 4: Upload Documents
+> **Note:** Fees vary by state. Check the Sarathi portal for exact amounts applicable in your state.
 
-1. Upload **new address proof** (JPEG/PDF, max 200 KB)
-2. Upload **passport-size photograph** (JPEG, max 200 KB)
-3. Upload **signature** (JPEG, max 100 KB)
-4. For interstate transfer: upload **NOC** or select "Apply for NOC"
+## RTO Visit: Is It Mandatory?
 
-### Step 5: Pay Fees
+- **Most states require an RTO visit** for address change because biometric verification (photo and fingerprint) is done at the RTO
+- Some states are piloting **fully online address change** — check your state's Sarathi portal
+- If an RTO visit is needed, you'll book a slot during the online application process
+- Carry all **original documents** when visiting the RTO
 
-| Fee Component | Amount |
-|---------------|--------|
-| Endorsement/Address Change Fee | ₹200 |
-| Smart Card Fee | ₹200 |
-| NOC Fee (if interstate) | ₹50-100 |
-| Service/Processing Charge | ₹50-100 |
-| **Total (same state)** | **₹400-500** |
-| **Total (interstate)** | **₹500-600** |
+## Processing Time and Timeline
 
-Pay via debit card, credit card, net banking, or UPI.
-
-### Step 6: Book RTO Appointment
-
-1. Select an available appointment date at your new RTO
-2. Note the **application number** and appointment details
-3. Download the **acknowledgement receipt**
-
-### Step 7: Visit RTO
-
-1. Visit the RTO on your appointment date
-2. Carry **all original documents**
-3. Biometric verification (photo + fingerprint) will be done
-4. RTO officer will verify documents and approve the change
-5. Your old DL may be retained
-
-### Step 8: Receive Updated DL
-
-- New smart card DL with updated address sent via **Speed Post**
-- Delivery: **15-30 working days**
-- Track status on Sarathi portal using your application number
-
-## Same State vs Interstate Transfer
-
-### Same State (Within State)
-- Simpler process — no NOC needed
-- Processed by your new RTO within the same state
-- Faster processing (7-15 days)
-
-### Interstate Transfer (Different State)
-- Requires **NOC** from your previous state's RTO
-- Can apply for NOC online through Sarathi during the application
-- The old state RTO sends NOC electronically to the new state RTO
-- Processing takes **30-60 days** (both RTOs involved)
-- Your new DL will carry the new state's RTO code
-
-## How to Get NOC for Interstate Transfer
-
-### Online (Recommended)
-1. On Sarathi portal, when applying for address change, select **"Apply for NOC"**
-2. The system will send a request to your previous state's RTO
-3. NOC is usually processed within **15-30 days** electronically
-4. No separate visit needed in most cases
-
-### Offline
-1. Visit your **previous state's RTO**
-2. Submit application for NOC with your DL and new address proof
-3. Pay NOC fee (₹50-100)
-4. Collect NOC in **7-15 days**
-5. Submit NOC at your new state's RTO
+| Stage | Timeline |
+|---|---|
+| Online application | 15-30 minutes |
+| RTO appointment (after applying) | 7-15 days (depends on slot availability) |
+| RTO verification | Same day (during your appointment) |
+| Updated DL dispatch | 15-30 days after approval via Speed Post |
+| Interstate transfer | 30-60 days (involves coordination between two RTOs) |
 
 ## Important Tips
 
-1. **Update your Aadhaar address first** — Aadhaar is the easiest address proof to use for DL address change
-2. **Apply online to save time** — walk-in applications take longer
-3. **Keep your acknowledgement receipt** as temporary proof of address change
-4. **For interstate transfer**, start the process early — it takes 1-2 months
-5. **Check DigiLocker** after the update — your new DL should appear within a few weeks
+1. **Update Aadhaar first** — if you're using Aadhaar as address proof, ensure your [Aadhaar address is updated](/guide/aadhaar-address-change-online) before applying for DL address change
+2. **Interstate transfer takes longer** — if you've moved to a new state, start the process early as it involves NOC from your old RTO
+3. **Keep the old DL** — do not discard your old DL until you receive the new one; carry it while driving
+4. **Digital copies** — save scanned copies of all documents in the correct format (JPEG/PDF, under 1 MB) before starting the online process
+5. **Track your application** — use our [DL status check guide](/guide/driving-licence-status-check-online) to monitor your application progress
 
 ## Frequently Asked Questions
 
-### Q1. Can I change my DL address fully online without visiting RTO?
+### Can I change my DL address completely online without visiting the RTO?
+Most states still require an RTO visit for biometric capture. However, some states are enabling fully online processing. Check the Sarathi portal for your specific state's requirements.
 
-Some states allow fully online processing for within-state address changes. However, most states still require an RTO visit for biometric verification.
+### Do I need an NOC to change my address within the same state?
+No, NOC is only required for **interstate transfers** (when your new address is in a different state from where your DL was issued). Within the same state, no NOC is needed.
 
-### Q2. How long does DL address change take?
+### Can I change my address and renew my DL at the same time?
+Yes, if your DL is due for renewal, you can update your address during the renewal process itself. Select both services on the Sarathi portal.
 
-Within-state: 15-30 days. Interstate: 30-60 days. The new smart card is sent by Speed Post.
+### What if my old address proof is not available?
+You only need your **new address proof** for the change. The old address is already recorded in the RTO system against your DL number.
 
-### Q3. Can I drive while the address change is in process?
+### How long is the updated DL valid after address change?
+The validity of your DL does not change with an address update. Your DL remains valid until its original expiry date.
 
-Yes. Carry your old DL along with the application acknowledgement receipt. Your old DL remains valid until the new one is issued.
-
-### Q4. Do I need to take a driving test again for address change?
-
-No. Address change is an endorsement — no driving test is required.
-
-### Q5. My DL is about to expire. Should I renew or change address first?
-
-You can do both simultaneously. Apply for **renewal with address change** on the Sarathi portal. See our [DL renewal guide](/guide/driving-licence-renewal-online).
-
-### Q6. What if my name on address proof is slightly different from DL?
-
-Minor spelling variations (e.g., "Raj Kumar" vs "Rajkumar") may cause rejection. Get one of the documents corrected first to ensure names match exactly.
-
-### Q7. Can I change my address if my DL is expired?
-
-You'll need to apply for **renewal** along with address change. An expired DL address change alone may not be processed — combine it with renewal.
+### Can I use my DL as address proof while the address change is being processed?
+Your old DL remains valid for driving purposes. However, it will show the old address until the updated card is received. Carry the application receipt as supplementary proof if needed.
 
 ---
 
-*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with Parivahan, Sarathi, or any RTO. Verify details on [Sarathi portal](https://sarathi.parivahan.gov.in).*
+*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with the Government of India, Ministry of Road Transport, or any RTO. Information is compiled from official government sources for educational purposes. Always verify details on [parivahan.gov.in](https://parivahan.gov.in) before proceeding.*
