@@ -1,249 +1,164 @@
 ---
-title: "Jio Network Not Working — How to Fix No Signal, Slow Data & Call Drop Issues"
-description: "Jio network not working? Fix no signal, slow 4G/5G data, call drops, VoLTE errors, and SIM not detected issues with this step-by-step troubleshooting guide."
-category: "Utilities"
+title: "Jio Network Not Working? Fix Signal & Data Issues"
+description: >-
+  Fix Jio network problems including no signal, data not working, VoLTE issues,
+  APN settings, SIM not detected, and tower outage. Step-by-step solutions.
+category: Utilities
 keywords:
-  - jio not working
-  - jio network problem
+  - jio network not working
   - jio no signal
-  - jio slow internet
-  - jio call drop fix
-  - jio network not working after recharge
-  - jio not registered on network
-  - jio sim not detected
-  - jio volte not working
-  - jio apn settings
-  - jio 5g not working
-  - jio customer care number
-readingTime: 10 min
-lastUpdated: 2026-03-02
+  - jio data not working
+  - jio VoLTE not working
+  - jio APN settings
+  - jio SIM not detected
+  - jio tower outage
+  - jio network problem fix
+  - jio signal issue
+  - jio 4G not working
+readingTime: 8 min
+lastUpdated: 2026-03-06
 officialLinks:
-  - "https://www.jio.com/selfcare"
-  - "https://www.jio.com/en-in/network-coverage"
-  - "https://play.google.com/store/apps/details?id=com.jio.myjio"
-  - "https://trai.gov.in/"
+  - 'https://www.jio.com/selfcare'
+  - 'https://www.jio.com/en-in/network-coverage'
+  - 'https://trai.gov.in/'
 ---
 
-# Jio Network Not Working — How to Fix No Signal, Slow Data & Call Drop Issues
+# Jio Network Not Working? Fix Signal & Data Issues
 
-Jio is India's largest telecom network with over 480 million subscribers, but network problems still happen. Whether you're seeing "No Signal," experiencing painfully slow data, or facing constant call drops — this guide covers every common Jio network issue and how to fix it.
+Facing Jio network problems like no signal, mobile data not working, or calls dropping? These issues can occur due to SIM card errors, incorrect settings, tower outage, or phone configuration problems. This guide covers all common Jio network issues with step-by-step fixes.
 
-> **Disclaimer:** CitizenNest is an independent platform and is not affiliated with Reliance Jio or any telecom company. Information here is for educational purposes.
+> **Disclaimer:** CitizenNest is an independent platform and is not affiliated with Reliance Jio or any government body. Information is for guidance only.
 
-## 1. No Signal or No Network After Recharge
+## Common Jio Network Problems
 
-If your Jio SIM shows no signal bars or "No Service" after a recharge:
+- No signal or "No Service" on phone
+- Mobile data not working (4G/5G)
+- VoLTE calls not connecting
+- SIM card not detected
+- Slow internet speed
+- Network dropping frequently
+- Tower outage in your area
 
-### Quick Fixes
+## Fix 1: Basic Troubleshooting
 
-1. **Toggle Airplane Mode** — Turn on Airplane Mode, wait 10 seconds, then turn it off. This forces your phone to re-register on the network.
-2. **Restart your phone** — A simple reboot fixes most temporary network glitches.
-3. **Check your plan status** — Open the MyJio app or dial `*333#` to confirm your recharge was successful and your plan is active.
-4. **Check Jio network coverage** — Visit the [Jio coverage map](https://www.jio.com/en-in/network-coverage) to verify your area has coverage.
-5. **Re-insert the SIM card** — Power off the phone, remove the Jio SIM, clean it gently, and re-insert it.
+Before trying advanced fixes, do these quick checks:
 
-### If the Problem Persists
+1. **Toggle Airplane Mode** — Turn on Airplane Mode, wait 10 seconds, turn it off
+2. **Restart your phone** — A simple reboot fixes most temporary network glitches
+3. **Check SIM card** — Remove and re-insert the SIM card properly
+4. **Try SIM in another phone** — This helps determine if the issue is with your SIM or phone
 
-- Try your Jio SIM in another phone to rule out a device issue.
-- If the SIM works in another phone, your device may need a network settings reset (see Section 7 below).
+## Fix 2: Jio Data Not Working
 
-## 2. Slow 4G/5G Data Speeds
+If your Jio 4G/5G data is not working:
 
-Jio 4G typically delivers 10–30 Mbps. If you're getting much less, try these fixes:
+1. Go to **Settings → Mobile Networks → Preferred Network Type**
+2. Select **4G/LTE** or **5G/NR** (depending on your phone)
+3. Ensure **Mobile Data** is turned ON
+4. Check if your **data pack is active** — dial `*333#` or check the MyJio app
+5. Check your **daily data limit** — Jio plans have a daily FUP limit (1GB, 1.5GB, 2GB, etc.)
+6. If data balance is exhausted, speed reduces to 64 Kbps until midnight
 
-### Check and Fix APN Settings
+## Fix 3: Configure Jio APN Settings
 
-Incorrect APN (Access Point Name) settings are a common cause of slow data.
+Incorrect APN settings can cause data issues. Set them manually:
 
-**For Android:**
-1. Go to **Settings → SIM cards & mobile networks → Jio → Access Point Names**
-2. Tap **+** to add a new APN or edit the existing one
-3. Set these values:
-   - **Name:** Jio 4G
-   - **APN:** jionet
-   - **Proxy:** Not set
-   - **Port:** Not set
-   - **MCC:** 405
-   - **MNC:** 857 (or 862, 863, 874 depending on your circle)
-   - **APN Type:** default,supl
-   - **APN Protocol:** IPv4/IPv6
+1. Go to **Settings → Mobile Networks → Access Point Names**
+2. Tap **+** (Add New APN)
+3. Enter these details:
+
+| Field | Value |
+|-------|-------|
+| Name | Jio 4G |
+| APN | jionet |
+| Proxy | (leave blank) |
+| Port | (leave blank) |
+| Username | (leave blank) |
+| Password | (leave blank) |
+| MCC | 405 |
+| MNC | 857, 863, or 874 (varies by circle) |
+| APN Type | default,supl |
+| APN Protocol | IPv4/IPv6 |
+
 4. Save and select this APN
-
-**For iPhone:**
-- iPhones auto-configure Jio APN. If data is slow, go to **Settings → General → About** — if a carrier update is available, install it.
-- Alternatively: **Settings → Mobile Data → Mobile Data Network** → set APN to `jionet`
-
-### Switch Network Mode
-
-1. Go to **Settings → SIM cards & mobile networks → Preferred network type**
-2. Select **5G/4G/3G/2G (Auto)** or **LTE/4G only** if 5G signal is weak in your area
-3. If on 5G but speeds are poor, try switching to **4G LTE only** — Jio's 5G is still expanding and 4G may be faster in some areas
-
-### Other Speed Fixes
-
-- **Clear MyJio app cache** — the app sometimes interferes with data routing
-- **Check daily data limit** — After your daily limit (1.5 GB, 2 GB, etc.), speeds drop to 64 Kbps. Recharge with a data booster or wait for the next day's reset at midnight
-- **Disable data saver** — Settings → Data usage → turn off Data Saver
-- **Test at different times** — Congestion during peak hours (8–11 PM) can slow speeds
-
-## 3. Call Drops and VoLTE Issues
-
-Jio is a VoLTE-only network — all calls go over 4G. If VoLTE isn't working, calls will fail entirely.
-
-### Enable VoLTE
-
-**Android:**
-1. Go to **Settings → SIM cards & mobile networks → Jio**
-2. Enable **VoLTE** or **HD calling** or **Enhanced 4G LTE mode**
-
-**iPhone:**
-1. Go to **Settings → Mobile Data → Mobile Data Options → Voice & Data**
-2. Select **LTE** and enable **VoLTE**
-
-### Fix Call Drops
-
-1. **Check signal strength** — If signal is below 2 bars, move to an open area or near a window
-2. **Disable Wi-Fi Calling temporarily** — Sometimes Wi-Fi calling switches mid-call and drops it. Go to Settings → Wi-Fi Calling → turn off
-3. **Update your phone software** — Outdated firmware can cause VoLTE compatibility issues
-4. **Reset network settings** — See Section 7 below
-5. **Check for Jio outage** — Visit [Downdetector India](https://downdetector.in/status/jio/) to check if others in your area are also facing issues
-
-### Jio to Jio / Other Network Call Failures
-
-- If calls to specific networks (e.g., Jio to Airtel) are failing, this is usually a network interconnect issue. Report it to Jio customer care (see Section 8).
-- For Jio-to-Jio call failures, both parties should restart their phones and ensure active plans.
-
-## 4. "Not Registered on Network" Error
-
-This error means your phone cannot connect to the Jio network. Common causes and fixes:
-
-1. **Plan expired** — Check if your plan is active via MyJio app or dial `*333#`
-2. **SIM deactivated** — If your SIM was inactive for 90+ days, it may be deactivated. Visit a Jio Store with your Aadhaar for reactivation.
-3. **Toggle Airplane Mode** — Turn on, wait 15 seconds, turn off
-4. **Manually select network:**
-   - Go to **Settings → SIM cards & mobile networks → Jio → Network operators**
-   - Choose **Manual** and select **Jio** from the list
-   - Then switch back to **Automatic**
-5. **Reset network settings** — See Section 7
-6. **Update phone software** — Check for pending system updates
-
-## 5. SIM Card Not Detected
-
-If your phone doesn't detect the Jio SIM at all:
-
-1. **Power off** the phone completely
-2. **Remove the SIM tray** — Check if the SIM is properly seated and not damaged
-3. **Clean the SIM** — Use a soft dry cloth to clean the gold contacts
-4. **Try another SIM slot** — If your phone has two SIM slots, try the other one
-5. **Test in another phone** — If the SIM isn't detected in any phone, the SIM is likely damaged
-6. **Get a SIM replacement** — Visit the nearest Jio Store with your original ID proof. SIM replacement is free with same-number portability.
-
-### Common Reasons for SIM Not Detected
-- SIM card physically damaged or scratched
-- SIM tray not properly inserted
-- Phone's SIM reader hardware issue
-- Wrong SIM size (use proper Nano/Micro SIM adapter)
-
-## 6. Jio 5G Not Working
-
-If your phone supports 5G but you're not getting Jio 5G (True 5G):
-
-1. **Check 5G coverage** — Jio 5G is available in 700+ cities but not everywhere. Check the [coverage map](https://www.jio.com/en-in/network-coverage).
-2. **Enable 5G in settings** — Go to **Settings → Mobile Network → Preferred network type → 5G/LTE/3G/2G (Auto)**
-3. **Ensure your plan supports 5G** — Jio offers unlimited 5G data on plans ₹239 and above (subject to change). Check your plan on MyJio.
-4. **Update your phone** — Manufacturers push 5G band updates via software updates
-5. **Restart your phone** after enabling 5G
-
-## 7. Network Settings Reset
-
-This is the most effective fix for persistent network problems.
-
-### Android
-
-1. Go to **Settings → System → Reset options** (or **General Management → Reset**)
-2. Tap **Reset Wi-Fi, mobile & Bluetooth** (or **Reset network settings**)
-3. Select the Jio SIM if prompted
-4. Tap **Reset settings** and confirm
 5. Restart your phone
-6. Re-enter Wi-Fi passwords (they'll be erased)
 
-### iPhone
+## Fix 4: VoLTE Not Working
 
-1. Go to **Settings → General → Transfer or Reset iPhone → Reset**
-2. Tap **Reset Network Settings**
-3. Enter your passcode and confirm
-4. Your iPhone will restart automatically
-5. Reconnect to Wi-Fi networks
+If you cannot make calls or see no VoLTE icon:
 
-> **Note:** This will NOT delete your apps, photos, or data. It only resets Wi-Fi, Bluetooth, and cellular settings.
+1. Go to **Settings → Mobile Networks → VoLTE** and enable it
+2. On Samsung: **Settings → Connections → Mobile Networks → VoLTE Calls → ON**
+3. On Xiaomi: **Settings → SIM Cards & Mobile Networks → Select Jio SIM → Enable VoLTE**
+4. Ensure your phone supports Jio VoLTE — check the [Jio device list](https://www.jio.com/selfcare)
+5. If VoLTE option is missing, update your phone software to the latest version
 
-## 8. Contact Jio Customer Care
+## Fix 5: SIM Card Not Detected
 
-If none of the above fixes work, contact Jio support:
+If your phone shows "No SIM Card" or "SIM Not Detected":
 
-| Method | Details |
-|--------|---------|
-| **Call 198** | From your Jio number — main customer care |
-| **Call 199** | From your Jio number — for complaints and escalations |
-| **Call 1800-889-9999** | Toll-free from any number |
-| **MyJio App** | Open MyJio → Menu → Help → Chat/Raise a complaint |
-| **Jio Website** | [jio.com/selfcare](https://www.jio.com/selfcare) |
-| **Jio Store** | Visit nearest Jio Store for SIM/hardware issues |
+1. Power off the phone and remove the SIM tray
+2. Clean the SIM card gently with a dry cloth
+3. Check for any physical damage to the SIM card
+4. Re-insert the SIM properly — ensure correct orientation
+5. Try the SIM in another phone
+6. If SIM is damaged, get a **free SIM replacement** at any Jio Store with your [Aadhaar card](/guide/aadhaar-card-apply-online)
 
-### How to File a Complaint on MyJio App
+## Fix 6: Check for Jio Tower Outage
 
-1. Open the **MyJio** app
-2. Tap on the **menu (☰)** or your profile
-3. Go to **Help** or **Support**
-4. Select your issue category (Network, Calls, Data, etc.)
-5. Describe the problem and submit
-6. Note down your **complaint/ticket number** for follow-up
+Sometimes the problem is not your phone — it's a tower outage:
 
-### Escalation
+1. Open the **MyJio app** and check for service alerts
+2. Check [Jio Network Coverage Map](https://www.jio.com/en-in/network-coverage) for your area
+3. Ask neighbours or nearby Jio users if they face the same issue
+4. You can report the issue on **MyJio app → Help → Network Issue**
+5. Call Jio customer care: **199** (free from Jio number)
+6. Tower outages are usually resolved within 4-24 hours
 
-If Jio doesn't resolve your complaint within 7 days, you can escalate to the **Telecom Consumer Complaints Monitoring System**:
-- **TRAI DND App** — for spam/DND complaints
-- **Appellate Authority** — details available at [trai.gov.in](https://trai.gov.in/)
-- Write to the **Nodal Officer** of Jio (contact available on Jio's website)
+## Fix 7: Network Selection Settings
+
+1. Go to **Settings → Mobile Networks → Network Operators**
+2. Select **Search Networks Manually**
+3. Wait for the list — select **Jio** from available networks
+4. If Jio doesn't appear, you may be in an area with no Jio coverage
+5. Switch back to **Automatic** network selection after selecting Jio
+
+## When to Contact Jio Support
+
+Contact Jio if none of the above fixes work:
+
+- **Jio Helpline:** 199 (free from Jio) or 18008899999 (toll-free from any number)
+- **MyJio App:** Open → Menu → Help → Raise a Complaint
+- **Jio Store:** Visit with your SIM and ID proof for SIM replacement or technical help
+- **Jio Website:** [jio.com/selfcare](https://www.jio.com/selfcare)
 
 ## Important Tips
 
-1. **Always keep your Jio plan active** — If your plan expires, outgoing services stop first, then incoming, then the number gets deactivated after ~90 days
-2. **Update MyJio app regularly** — Many network features are managed through the app
-3. **Use Wi-Fi Calling** as a backup in areas with poor Jio signal but good Wi-Fi
-4. **Check for network outages first** before troubleshooting your device — saves time
-5. **Keep your phone software updated** — VoLTE and 5G support depend on firmware updates
+1. Always keep your Jio plan active — network disconnects after 90 days of no recharge
+2. Update MyJio app regularly for the latest service improvements
+3. Jio works only on 4G VoLTE-enabled phones — 2G/3G-only phones are not supported
+4. If you're indoors, move near a window for better signal reception
+5. After a SIM swap, activation takes up to 24 hours
 
 ## Frequently Asked Questions
 
-### Why is Jio not working after recharge?
+### Why is my Jio network not working today?
+It could be a local tower outage, expired data plan, or phone settings issue. Check your plan status by dialing `*333#` and try restarting your phone. If the issue persists, report it on the MyJio app.
 
-Your recharge may not have been applied yet. Wait 5–10 minutes, then check your plan status on MyJio app or dial `*333#`. If the plan shows active but network isn't working, toggle Airplane Mode and restart your phone.
+### How do I fix Jio no signal problem?
+Toggle Airplane mode on/off, restart your phone, re-insert the SIM card, and check network selection settings. If no signal persists, there may be a tower outage in your area.
 
-### How do I fix Jio slow internet speed?
+### Why is Jio 4G data not working even though I have a plan?
+Check if your daily data limit is exhausted (speed reduces to 64 Kbps after FUP). Also verify APN settings are correct and mobile data is enabled in phone settings.
 
-First check if you've exceeded your daily data limit. Then verify APN settings (APN should be `jionet`), switch network mode to 4G/LTE, clear MyJio app cache, and disable Data Saver. If the issue persists, reset network settings.
+### How do I get a Jio SIM replacement?
+Visit any Jio Store with your Aadhaar card. SIM replacement is free. The new SIM activates within a few hours after eKYC verification.
 
-### Why does Jio show "Not Registered on Network"?
+### Does Jio work on 3G phones?
+No. Jio is a 4G-only network. Your phone must support 4G LTE and VoLTE for Jio to work. Check Jio's website for the list of compatible devices.
 
-This usually means your plan has expired, your SIM has been deactivated due to inactivity, or there's a network registration glitch. Toggle Airplane Mode, manually select Jio network, and if needed, reset network settings. Visit a Jio Store if the SIM was deactivated.
+### How do I check Jio tower outage in my area?
+Use the Jio Network Coverage Map at jio.com or report the issue through MyJio app → Help → Network Issue. You can also call 199 for outage information.
 
-### How to fix Jio call drop problem?
-
-Ensure VoLTE is enabled in your phone settings. Check signal strength — call drops are common in low-signal areas. Disable Wi-Fi Calling if it's causing mid-call switches. Update your phone software and reset network settings if needed.
-
-### What is Jio customer care number?
-
-Call **198** from your Jio number for general support, or **199** for complaints. You can also call **1800-889-9999** (toll-free) from any number. The MyJio app also has a built-in chat and complaint feature.
-
-### Why is Jio 5G not showing on my phone?
-
-Jio 5G (True 5G) may not be available in your area yet. Check the coverage map on jio.com. Also ensure 5G is enabled in your phone's network settings, your plan is ₹239 or above, and your phone's software is updated.
-
-### My Jio SIM is not getting detected. What should I do?
-
-Remove and re-insert the SIM card after cleaning the gold contacts. Try the SIM in another phone. If it's not detected anywhere, the SIM is damaged — visit a Jio Store with your ID proof for a free replacement with the same number.
-
-### Can I use Jio without VoLTE?
-
-No. Jio is a 4G-only network and all voice calls use VoLTE (Voice over LTE). If your phone doesn't support VoLTE, Jio calls won't work. Most phones sold in India since 2017 support VoLTE — check your phone specifications.
+### What are the correct Jio APN settings?
+Set APN name as "jionet", APN type as "default,supl", and APN protocol as "IPv4/IPv6". Leave proxy, port, username, and password blank.
