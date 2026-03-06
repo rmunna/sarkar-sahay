@@ -1,8 +1,9 @@
 ---
 title: "Aadhaar Address Update Rejected? How to Fix and Resubmit Online"
 description: "Fix Aadhaar address update rejected errors. Learn why UIDAI rejects address change requests and how to resubmit with correct documents online."
-lastUpdated: "2026-03-05"
-category: "Identity Documents"
+lastUpdated: "2026-03-06"
+category: "Utilities"
+keywords: ["aadhaar address update rejected", "aadhaar address change rejected fix", "UIDAI address update resubmit", "aadhaar address proof mismatch", "aadhaar address correction online"]
 readingTime: "9 min"
 tags:
   - "aadhaar"
@@ -176,6 +177,26 @@ If your online request has been rejected 2-3 times:
 - [How to Apply for Aadhaar Card Online](/guide/aadhaar-card-apply-online) — New Aadhaar application process
 - [Aadhaar Face Authentication Failed Fix](/guide/aadhaar-face-authentication-failed-fix) — Fix biometric verification errors
 - [DigiLocker Document Not Found Fix](/guide/digilocker-document-not-found-fix) — Fix missing documents in DigiLocker
+
+## Frequently Asked Questions (FAQs)
+
+### Why was my Aadhaar address update rejected?
+Common reasons include uploading unclear or expired documents, address mismatch between document and form, document not in the accepted list, poor quality scans, or incomplete form details.
+
+### How many times can I resubmit Aadhaar address update?
+There is no fixed limit on resubmissions, but each attempt requires a fresh fee of ₹50. Ensure your documents are correct before resubmitting to avoid repeated rejections.
+
+### Which documents are accepted for Aadhaar address update?
+Accepted documents include passport, bank statement (last 3 months), electricity bill, water bill, telephone bill, property tax receipt, voter ID, driving licence, insurance policy, and rental agreement with notarization.
+
+### How long does Aadhaar address update take after resubmission?
+Online address updates typically take 7-15 working days after resubmission. You can track status using the Update Request Number (URN) on the UIDAI website.
+
+### Can I update Aadhaar address without any documents?
+Yes, UIDAI offers Address Validation Letter (AVL) facility. A verification letter is sent to your new address, and you verify using the OTP in the letter. This doesn't require address proof documents.
+
+### What if my address proof document has a different name spelling?
+The name on your address proof must match your Aadhaar name exactly. If there's a spelling difference, first update your name on Aadhaar or use a different document where your name matches.
 
 ## Summary
 

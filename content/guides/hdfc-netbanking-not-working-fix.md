@@ -1,7 +1,7 @@
 ---
 title: "HDFC Net Banking Not Working? Fix Login Errors and Access Issues"
 description: "HDFC Net Banking not working or login failed? Fix customer ID errors, IPIN reset, OTP failures, session timeout, and browser issues step by step."
-category: "Tax & Finance"
+category: "Utilities"
 keywords:
   - hdfc net banking not working
   - hdfc netbanking login error
