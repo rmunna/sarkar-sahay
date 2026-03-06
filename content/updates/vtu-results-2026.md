@@ -1,103 +1,134 @@
 ---
-title: "VTU Results Declared for December/January Semester Exams"
-description: "VTU has declared Dec 2025/Jan 2026 semester exam results for BE, BArch, BPlan, BSc, and BDesign courses. Check your scorecard at results.vtu.ac.in."
-category: "Results"
+title: "VTU Results 2026: Check Semester Exam Results at results.vtu.ac.in"
+description: "Check VTU results 2026 for all semester exams at results.vtu.ac.in. Step-by-step guide to check by USN, download marksheet, revaluation process, and grading system."
+category: "Jobs & Exams"
 type: "result"
-organization: "VTU"
-examName: "VTU December 2025 / January 2026 Semester Examinations"
+organization: "Visvesvaraya Technological University (VTU)"
+examName: "VTU Semester Exam Results 2026"
 stage: "final-result"
 keywords:
-  - "VTU results 2026"
-  - "VTU semester results"
+  - "vtu results 2026"
   - "results.vtu.ac.in"
-  - "VTU BE results"
-  - "VTU scorecard download"
-  - "Visvesvaraya Technological University results"
-  - "VTU CBCS results"
-  - "VTU BArch results"
-  - "VTU 8th semester result"
-  - "VTU exam results"
+  - "vtu semester results 2026"
+  - "vtu result by usn"
+  - "vtu revaluation 2026"
+  - "vtu backlog results 2026"
+  - "vtu grading system"
+  - "vtu marksheet download"
+  - "vtu exam results check"
+  - "vtu cbcs results 2026"
+importantDates:
+  resultDate: "2026-03-06"
 officialLinks:
   - "https://results.vtu.ac.in"
   - "https://vtu.ac.in"
 readingTime: "4 min"
-publishedDate: "2026-03-03"
-expiryDate: "2026-06-03"
+publishedDate: "2026-03-06"
+expiryDate: "2026-06-06"
 status: "active"
 ---
 
-Visvesvaraya Technological University (VTU), Belagavi, has declared the results for the **December 2025 / January 2026 semester examinations** on March 3, 2026. Results are available for multiple UG and PG courses under the Choice Based Credit System (CBCS) across all regions.
+## VTU Results 2026 — Check Semester Exam Results at results.vtu.ac.in
+
+**Visvesvaraya Technological University (VTU)** has published semester examination results for 2026 on the official results portal. Students who appeared for VTU B.E., B.Tech, M.Tech, and MBA exams can check their results at **results.vtu.ac.in** using their USN (University Seat Number).
+
+VTU conducts examinations for over 200 affiliated engineering and management colleges across Karnataka. Results are typically published within 30–45 days of the exam.
 
 ## Key Highlights
 
 | Detail | Information |
-|---|---|
-| **University** | Visvesvaraya Technological University (VTU), Belagavi |
-| **Exam Session** | December 2025 / January 2026 |
-| **Result Date** | March 3, 2026 |
-| **Courses** | B.E, B.Arch, B.Plan, B.Sc (Hons), B.Design |
-| **Scheme** | CBCS (2021/2022 Scheme) |
-| **Results Portal** | [results.vtu.ac.in](https://results.vtu.ac.in) |
-| **Status** | Results declared for all regions |
+|--------|-------------|
+| University | Visvesvaraya Technological University (VTU) |
+| Exam Type | Semester Examinations 2026 |
+| Result Status | Declared |
+| Result Mode | Online |
+| Official Results Portal | [results.vtu.ac.in](https://results.vtu.ac.in) |
+| Official Website | [vtu.ac.in](https://vtu.ac.in) |
+| Required for Check | USN (University Seat Number) |
+| Applicable For | B.E., B.Tech, M.Tech, MBA, MCA |
 
-## Semesters Declared
+## How to Check VTU Results 2026 by USN
 
-- **B.E (Bachelor of Engineering):** 3rd semester (2021/2022 Scheme), 5th, 6th, 7th, and 8th semester (2022 Scheme) — all regions
-- **B.Arch (Bachelor of Architecture):** All semesters including updated 9th and 10th semester results
-- **B.Plan (Bachelor of Planning):** All regions including 8th semester
-- **B.Sc (Hons):** Updated results for all regions
-- **B.Design (Bachelor of Design):** All regions
+Follow these steps to check your VTU semester exam result:
 
-## How to Check VTU Results
+1. Visit the official results portal at [results.vtu.ac.in](https://results.vtu.ac.in)
+2. Select the appropriate examination (e.g., "B.E./B.Tech CBCS Results" or "Non-CBCS Results")
+3. Enter your **USN (University Seat Number)** — e.g., 1XX21CS001
+4. Click **Submit** to view your result
+5. Your result will display subject-wise marks, total, percentage, and result status (Pass/Fail)
+6. Click **Print** or use Ctrl+P to save or download a copy for your records
 
-1. Visit the official VTU results portal at [https://results.vtu.ac.in](https://results.vtu.ac.in)
-2. On the homepage, select the appropriate result link for your course and semester
-3. Enter your **USN (University Seat Number)**
-4. Click **Submit** to view your results
-5. Download or print your scorecard for future reference
+> **Tip:** If the portal is slow due to heavy traffic, try checking during off-peak hours (early morning or late night).
 
-## Documents Required to Check Results
+## VTU Grading System (CBCS Scheme)
 
-- **USN (University Seat Number):** Your unique seat number allotted by VTU at the time of admission
-- **Date of Birth (optional):** Some result links may ask for verification through date of birth
-- **College Code:** Useful if checking results through alternate portals or college notice boards
+VTU follows the **Choice Based Credit System (CBCS)** grading structure:
 
-## Important Details
+| Grade | Marks Range | Grade Points |
+|-------|-------------|-------------|
+| S (Superior) | 90–100 | 10 |
+| A (Excellent) | 80–89 | 9 |
+| B (Good) | 70–79 | 8 |
+| C (Average) | 60–69 | 7 |
+| D (Below Average) | 50–59 | 6 |
+| E (Poor) | 40–49 | 4 |
+| F (Fail) | Below 40 | 0 |
 
-- Results are available under the **CBCS scheme** — make sure you select the correct scheme while checking
-- Students who find any discrepancy in their results can apply for **revaluation** through their respective colleges within the stipulated deadline
-- **Supplementary exam** dates for students who did not clear subjects will be announced separately on [vtu.ac.in](https://vtu.ac.in)
-- Keep your USN handy before checking results as the portal may experience heavy traffic
+**SGPA** (Semester Grade Point Average) and **CGPA** (Cumulative Grade Point Average) are calculated using credits and grade points. A minimum of 40% in each subject and an SGPA of 4.0 is required to pass.
 
-## About VTU Examinations
+## VTU Revaluation and Photocopy Process
 
-Visvesvaraya Technological University (VTU) is one of the largest technological universities in India, headquartered in Belagavi, Karnataka. It affiliates over 200 engineering colleges across Karnataka and conducts semester examinations twice a year. The odd semester exams (1st, 3rd, 5th, 7th) are typically held between December and January, with results announced between January and March. Even semester exams (2nd, 4th, 6th, 8th) are held between June and July, with results out between August and October.
+If you are not satisfied with your result, VTU offers revaluation and photocopy of answer scripts:
 
-VTU follows the Choice Based Credit System (CBCS) for its academic programs. Under CBCS, students have the flexibility to choose elective subjects alongside mandatory core courses. Results are graded using a combination of internal assessment marks and semester-end examination marks. The university offers programs in engineering, architecture, planning, design, and science at both undergraduate and postgraduate levels.
+### How to Apply for Revaluation
+1. Visit [vtu.ac.in](https://vtu.ac.in) and go to the **Examinations** section
+2. Click on **Revaluation Application** when the window opens
+3. Log in using your USN and date of birth
+4. Select the subjects for revaluation
+5. Pay the revaluation fee online (typically ₹300–400 per subject)
+6. Submit the application before the deadline
 
-Students who fail in any subject can appear for supplementary examinations conducted in the subsequent semester. Revaluation and photocopy facilities are also available for students who wish to challenge their results. Applications for revaluation must be submitted through the respective college within the deadline announced by the university.
+### Photocopy of Answer Scripts
+- Students can apply for a photocopy of their answer scripts before applying for revaluation
+- The photocopy fee is approximately ₹300–400 per subject
+- Apply through the same portal under **Photocopy Application**
 
-## What to Do After Checking Results
+> **Important:** Revaluation and photocopy applications are open only for a limited window (usually 15–20 days after results are declared). Check the VTU website for exact dates.
 
-- **Download your scorecard** from the results portal and save a digital copy for your records
-- **Share results with your college** if required for internal records or placement verification
-- **Apply for revaluation** within the deadline if you believe there is a marking error in any subject
-- **Check for supplementary exam dates** on [vtu.ac.in](https://vtu.ac.in) if you have any backlogs
-- **Final year students** should ensure all semester results are clear before applying for the degree certificate through their college
+## VTU Backlog Results 2026
+
+VTU also publishes results for backlog/supplementary examinations alongside regular results:
+
+- Backlog results are available on the same portal: [results.vtu.ac.in](https://results.vtu.ac.in)
+- Select the appropriate scheme (CBCS/Non-CBCS) and enter your USN
+- Students can appear for backlog exams in subsequent semesters
+- There is no limit on the number of attempts for clearing backlogs
+
+## How to Download VTU Marksheet
+
+- **Provisional marksheet:** Available online at results.vtu.ac.in immediately after results are declared
+- **Original marksheet:** Distributed through colleges after 2–3 months
+- **Consolidated marksheet:** Can be applied for after completing all semesters via the VTU office or your college
+
+To get a digital copy, take a printout or screenshot of your result page from the portal.
 
 ## Frequently Asked Questions
 
-### How can I check my VTU results?
-Visit [results.vtu.ac.in](https://results.vtu.ac.in), select your course and semester link, enter your USN, and click Submit to view your scorecard.
+### How do I check my VTU result if the website is not loading?
+VTU results portals experience heavy traffic right after results are declared. Try after a few hours, or check during off-peak hours. You can also try alternative links sometimes provided on [vtu.ac.in](https://vtu.ac.in).
 
-### Which semester results have been declared?
-Results for B.E 3rd, 5th, 6th, 7th, and 8th semesters, along with B.Arch, B.Plan, B.Sc (Hons), and B.Design results have been declared for all regions.
+### What is the minimum marks to pass in VTU?
+Under the CBCS scheme, you need a minimum of 40% (Grade E) in each subject and an overall SGPA of 4.0 to pass the semester.
 
-### What should I do if the VTU results website is not loading?
-The portal may experience heavy traffic right after result declaration. Try again after some time, or use a different browser. You can also check through your college.
+### How long does VTU revaluation take?
+VTU revaluation results are typically declared within 30–45 days from the last date of revaluation application.
 
-### How do I apply for revaluation of VTU results?
-Contact your college examination cell for revaluation applications. The university will announce the revaluation window and fee details on the official website.
+### Can I get my VTU marksheet online?
+The provisional result is available online. For the official marksheet, you need to collect it from your college. VTU has been rolling out digital marksheets through DigiLocker for recent batches.
 
-### When will VTU supplementary exams be held?
-Supplementary exam schedules will be published separately on [vtu.ac.in](https://vtu.ac.in). Keep checking the official website for updates.
+### What if my VTU result shows "Withheld"?
+A withheld result usually means there is a pending issue — fee payment, malpractice case, or document verification. Contact your college examination cell for clarification.
+
+---
+
+*This is an independent guide. Visit the official website [results.vtu.ac.in](https://results.vtu.ac.in) for the most current information.*
