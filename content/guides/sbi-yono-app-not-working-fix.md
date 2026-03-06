@@ -1,191 +1,194 @@
 ---
-title: "SBI YONO App Not Working — How to Fix Login, OTP, Crash & Other Errors"
-description: "SBI YONO app not working? Fix login errors, OTP not received, app crash, account locked, biometric failed, and server down issues with this guide."
-category: "Utilities"
+title: "SBI YONO App Not Working? Fix Login & Transaction Errors"
+description: "SBI YONO app not working, login failed or OTP not coming? Fix app crashes, server errors, biometric issues and transaction failures step by step."
+category: "Tax & Finance"
 keywords:
   - sbi yono app not working
-  - yono app login problem
-  - yono otp not received
-  - yono app crashing
-  - sbi yono account locked
-  - yono biometric failed
-  - yono server down
-  - yono forgot password
-  - yono forgot mpin
-  - sbi yono error fix
-  - yono app not opening
-  - yono login error
-readingTime: "10 min"
-lastUpdated: "2025-07-05"
+  - sbi yono login failed
+  - yono sbi otp not coming
+  - yono app crash fix
+  - sbi yono server down
+  - yono biometric login not working
+  - sbi yono update required error
+  - yono sbi transaction failed
+  - sbi yono app error fix
+  - yono lite not working
+  - sbi yono password reset
+  - yono sbi registration problem
+readingTime: 10 min
+lastUpdated: 2026-03-06
 officialLinks:
-  - https://www.onlinesbi.sbi
-  - https://sbi.co.in
-  - https://play.google.com/store/apps/details?id=com.sbi.lotusintouch
+  - "https://www.onlinesbi.sbi/"
+  - "https://sbi.co.in/web/yono"
+  - "https://play.google.com/store/apps/details?id=com.sbi.lotusintouch"
+  - "https://cms.onlinesbi.sbi/CMS/emlogin.htm"
 ---
 
-# SBI YONO App Not Working — How to Fix Login, OTP, Crash & Other Errors
+# SBI YONO App Not Working — How to Fix Login & Transaction Errors
 
-SBI YONO (You Only Need One) is the official mobile banking app by State Bank of India used by crores of customers for fund transfers, bill payments, account management, and more. If your YONO app is not working, this guide covers every common error and its fix.
+YONO (You Only Need One) is SBI's flagship mobile banking app used by crores of customers. But users frequently face login failures, app crashes, OTP issues, and transaction errors. This troubleshooting guide covers every common YONO problem and how to fix it.
 
-## Common SBI YONO Errors
+> **Disclaimer:** CitizenNest is an independent informational platform and is not affiliated with SBI or any government body. Always verify details on the [official SBI website](https://sbi.co.in).
 
-| Error | Typical Message |
-|---|---|
-| Login failed | "Invalid credentials" or "User not found" |
-| OTP not received | No SMS after multiple attempts |
-| App crashing | App closes immediately or freezes on launch |
-| Account locked | "Your account has been locked due to multiple incorrect attempts" |
-| Biometric failed | "Fingerprint/Face authentication failed" |
-| Server down | "Service temporarily unavailable" or timeout errors |
-| Forgot Password/MPIN | Unable to log in after forgetting credentials |
+---
 
-## Fix 1: YONO Login Error — Invalid Credentials or User Not Found
+## Common YONO App Problems and Fixes
 
-**Causes:**
-- Wrong username or password
-- Account not registered on YONO
-- SBI net banking not activated
+### 1. YONO App Keeps Crashing or Won't Open
 
-**How to fix:**
-1. Double-check your username (it is case-sensitive)
-2. Ensure you are using your YONO-specific password, not your net banking password (they may differ)
-3. If you never registered, download the app and tap **New User? Register Here**
-4. Ensure your [SBI net banking is active](/guide/sbi-net-banking-registration-login) — YONO requires an active internet banking profile
-5. If your username is correct but login fails, reset your password (see below)
+**Possible causes:** Outdated app, low storage, OS incompatibility.
 
-## Fix 2: OTP Not Received on YONO
+**Fix:**
+1. Close the app completely and reopen it
+2. Check if your phone has at least 500 MB free storage
+3. Update the YONO app from [Google Play Store](https://play.google.com/store/apps/details?id=com.sbi.lotusintouch) or Apple App Store
+4. Clear app cache: Go to **Settings → Apps → YONO SBI → Clear Cache**
+5. If the problem persists, uninstall and reinstall the app
+6. Ensure your phone OS is updated (Android 8+ or iOS 13+ recommended)
 
-**Causes:**
-- Network issues or SMS delays
-- Registered mobile number changed or incorrect
-- DND (Do Not Disturb) enabled on your number
+> **Tip:** Do not install YONO from third-party APK sites. Always use official app stores.
 
-**How to fix:**
-1. Wait 2–3 minutes — OTPs can be delayed during peak hours
-2. Check if your mobile network has signal; try toggling airplane mode
-3. Ensure the mobile number linked to your SBI account is the one in your phone
-4. Disable DND by sending `STOP DND` to 1909 from your registered number
-5. Restart your phone and request OTP again
-6. If OTP still doesn't arrive, visit your SBI home branch to update your mobile number
+### 2. YONO Login Failed — Wrong Password or Username
 
-> **Tip:** This is similar to [Aadhaar OTP issues](/guide/aadhaar-otp-not-received-fix) — network and DND are the most common causes.
+**Possible causes:** Incorrect credentials, account locked, special characters issue.
 
-## Fix 3: YONO App Crashing or Not Opening
+**Fix:**
+1. Ensure you are entering the correct **Internet Banking username** (not account number)
+2. Check that Caps Lock is off and password is entered correctly
+3. If you've forgotten your password, tap **Forgot Password** on the login screen
+4. To reset via the app:
+   - Open YONO → Tap **Forgot Login Password**
+   - Enter your username and registered mobile number
+   - Verify with OTP → Set a new password
+5. If your profile is locked after 3 wrong attempts, wait 24 hours or visit your home branch with ID proof
 
-**Causes:**
-- Outdated app version
-- Corrupted cache/data
-- Incompatible OS version
-- Low storage on device
+### 3. OTP Not Coming on YONO
 
-**How to fix:**
-1. **Update the app** — Go to Google Play Store or Apple App Store and update YONO SBI to the latest version
-2. **Clear cache and data:**
-   - Android: Settings → Apps → YONO SBI → Storage → Clear Cache → Clear Data
-   - iOS: Delete and reinstall the app
-3. **Free up storage** — YONO needs at least 500 MB of free space
-4. **Check OS compatibility** — YONO requires Android 7.0+ or iOS 13.0+
-5. **Restart your device** after clearing cache
-6. If crashing persists, uninstall and reinstall the app from the official store
+**Possible causes:** Network issue, DND activated, SIM not in slot 1, SBI server load.
 
-## Fix 4: SBI YONO Account Locked
+**Fix:**
+1. Ensure your **registered mobile number** is active and has network signal
+2. Check if DND (Do Not Disturb) is blocking transactional SMS — call your telecom provider to whitelist SBI
+3. Keep your SBI-registered SIM in **Slot 1** of your phone
+4. Wait 2-3 minutes — OTPs can be delayed during peak hours (1st of month, salary days)
+5. Tap **Resend OTP** if available
+6. If OTP still doesn't arrive, try after 30 minutes or use SBI's [Internet Banking portal](https://www.onlinesbi.sbi/) instead
 
-**Causes:**
-- 3 or more incorrect password/MPIN attempts
-- Suspicious activity detected
+### 4. YONO Server Down or "Service Temporarily Unavailable"
 
-**How to fix:**
-1. **Wait 24 hours** — the account auto-unlocks after 24 hours in most cases
-2. **Reset password via the app:**
-   - Open YONO → Tap **Forgot Password** → Enter username → Verify OTP → Set new password
-3. **Call SBI helpline:** 1800-1234 (toll-free) or 1800-11-2211
-4. **Visit your home branch** with your passbook and ID proof if the account remains locked
+**Possible causes:** Scheduled maintenance, high traffic, backend issues.
 
-> **Important:** Do not repeatedly attempt wrong credentials — this extends the lock period.
+**Fix:**
+1. SBI performs maintenance usually between **11:30 PM to 12:30 AM IST** — avoid this window
+2. On salary days (1st, 5th, 7th of the month), servers face heavy load — try during off-peak hours
+3. Check SBI's official [Twitter/X handle](https://twitter.com/TheOfficialSBI) for maintenance announcements
+4. Switch between Wi-Fi and mobile data to rule out network issues
+5. If you see a persistent error, try again after 1-2 hours
 
-## Fix 5: Biometric Authentication Failed
+### 5. Biometric Login (Fingerprint/Face) Not Working
 
-**Causes:**
-- Wet or dirty fingers
-- Face not recognized (lighting, mask, glasses)
-- Biometric not enrolled in the app
-- Device biometric hardware issue
+**Possible causes:** Biometric not registered, phone sensor issue, app update needed.
 
-**How to fix:**
-1. Clean and dry your finger before scanning
-2. For face unlock, ensure good lighting and remove masks or sunglasses
-3. Re-register biometric in YONO: Go to **Settings → Biometric Settings → Re-register**
-4. Ensure your device biometric (fingerprint/face) is set up in phone settings
-5. If biometric keeps failing, use password/MPIN login instead
-6. Update the app — older versions may have biometric bugs
+**Fix:**
+1. Go to YONO **Settings → Login Preferences → Enable Biometric Login**
+2. Ensure your phone's fingerprint/face unlock is set up in phone settings first
+3. Clean your fingerprint sensor and try again
+4. If biometric fails repeatedly, log in with password and re-register biometric
+5. After an app update, biometric may reset — set it up again from Settings
 
-> **Related:** If biometric issues also affect your Aadhaar verification, see [Aadhaar Biometric Verification Failed Fix](/guide/aadhaar-biometric-verification-failed-fix).
+### 6. "Update Required" or App Version Not Supported
 
-## Fix 6: YONO Server Down or Timeout Error
+**Fix:**
+1. Open Google Play Store or Apple App Store
+2. Search for "YONO SBI" and tap **Update**
+3. If update is not available, your phone model or OS may no longer be supported
+4. Minimum requirements: Android 8.0+ / iOS 13.0+
+5. If your phone is too old, use [SBI Online Banking](https://www.onlinesbi.sbi/) via a mobile browser as an alternative
 
-**Causes:**
-- SBI server maintenance (usually late night/early morning)
-- High traffic during salary days or month-end
-- Internet connectivity issues on your end
+### 7. Transaction Failed on YONO
 
-**How to fix:**
-1. Check if it's a widespread outage — search "SBI YONO down" on Twitter/X or visit [Downdetector](https://downdetector.in/status/sbi-yono/)
-2. Switch between Wi-Fi and mobile data
-3. Try again after 15–30 minutes
-4. SBI typically schedules maintenance between **11:30 PM – 12:30 AM IST** — avoid this window
-5. If persistent, clear app cache and retry
+**Possible causes:** Insufficient balance, daily limit exceeded, beneficiary not activated, server timeout.
 
-## How to Reset YONO Password
+**Fix:**
+1. Check your account balance — ensure sufficient funds including minimum balance
+2. Verify daily transfer limits:
+   - NEFT/RTGS: Up to ₹10 lakh (default, can be increased at branch)
+   - UPI via YONO: Up to ₹1 lakh per transaction
+   - IMPS: Up to ₹5 lakh
+3. New beneficiaries have a cooling period of **4-24 hours** before first transfer
+4. If the transaction failed but money was debited, it usually reverses within **3-5 working days**
+5. For stuck transactions, raise a complaint in YONO under **Service Requests → Transaction Complaint**
 
-1. Open the YONO SBI app
-2. Tap **Forgot Password** on the login screen
-3. Enter your registered **username**
-4. Verify via **OTP** sent to your registered mobile number
-5. Set a **new password** (must include uppercase, lowercase, number, and special character)
-6. Log in with your new password
+---
 
-## How to Reset YONO MPIN
+## How to Reset YONO Login Password
 
-1. Open YONO SBI app → Go to login screen
-2. Tap **Forgot MPIN**
-3. Enter your **username and password** to authenticate
-4. Set a **new 6-digit MPIN**
-5. Confirm the MPIN and log in
+1. Open the YONO app → Tap **Forgot Password**
+2. Enter your Internet Banking username
+3. Verify with registered mobile OTP
+4. Create a new password (must include uppercase, lowercase, number, special character)
+5. Log in with the new password
 
-> **Note:** If you have forgotten both your password and MPIN, reset the password first, then reset the MPIN.
+Alternatively, reset via [SBI Internet Banking](https://www.onlinesbi.sbi/) → **Forgot Login Password**.
+
+---
+
+## How to Re-register on YONO
+
+If you cannot fix the issue, re-registering often resolves persistent problems:
+
+1. Uninstall YONO from your phone
+2. Reinstall from official app store
+3. Tap **New User? Register Here**
+4. Enter your **account number** and registered mobile number
+5. Verify via OTP and set new credentials
+6. Your previous YONO data (payees, preferences) will be restored
+
+---
+
+## When to Contact SBI Support
+
+If none of the fixes work, contact SBI directly:
+
+| Channel | Details |
+|---------|---------|
+| SBI Helpline | 1800-425-3800 (toll-free) or 1800-11-2211 |
+| SBI Contact Centre | 080-26599990 |
+| Email | customercare@sbi.co.in |
+| Branch Visit | Carry Aadhaar + passbook to your home branch |
+| YONO In-App | Menu → Help → Raise a Complaint |
+
+---
 
 ## Important Tips
 
-- **Always use the official app** — download YONO only from [Google Play Store](https://play.google.com/store/apps/details?id=com.sbi.lotusintouch) or Apple App Store
-- **Keep the app updated** — SBI frequently releases bug fixes and security patches
-- **Never share OTP, password, or MPIN** with anyone — SBI will never call and ask for these
-- **Use strong passwords** — avoid birthdays, sequential numbers, or common words
-- **Enable app notifications** — this helps you get transaction alerts and OTP prompts
-- **Register for [UPI payments](/guide/upi-payment-setup-guide)** separately if YONO UPI is not working
-- **Check your registered mobile number** — most issues stem from a mismatch between your bank records and current number
-- **Bookmark SBI's official site** at [https://www.onlinesbi.sbi](https://www.onlinesbi.sbi) for net banking as a fallback
+1. **Always update** the YONO app to the latest version for security and bug fixes
+2. **Never share** your OTP, MPIN, or login credentials with anyone — SBI will never ask for these
+3. **Use strong passwords** with a mix of letters, numbers, and special characters
+4. **Avoid public Wi-Fi** for banking transactions
+5. If money is debited but transaction shows failed, **do not retry** — wait for auto-reversal
+
+---
 
 ## Frequently Asked Questions
 
-### Why is SBI YONO showing "Service Temporarily Unavailable"?
-This means SBI servers are under maintenance or experiencing high traffic. Wait 15–30 minutes and try again. Scheduled maintenance usually happens between 11:30 PM and 12:30 AM IST.
+### Is YONO and YONO Lite the same?
+No. YONO is SBI's full-feature banking and lifestyle app. YONO Lite is a lighter version focused only on banking. Both use the same Internet Banking credentials.
 
-### Can I use YONO without net banking?
-No. SBI YONO requires an active internet banking profile. If you don't have one, [register for SBI net banking](/guide/sbi-net-banking-registration-login) first, then register on YONO.
+### Can I use YONO without Internet Banking?
+No. You need to be registered for SBI Internet Banking first. You can register at your branch or via [onlinesbi.sbi](https://www.onlinesbi.sbi/).
 
-### How many wrong attempts lock my YONO account?
-Your YONO account gets locked after **3 consecutive incorrect password or MPIN attempts**. It usually auto-unlocks after 24 hours, or you can reset your password immediately.
+### My YONO app shows "Device Binding Failed." What do I do?
+This happens when you switch phones. Uninstall YONO, reinstall on the new phone, and register again. Only one device can be bound at a time.
 
-### YONO app is not available in my country — what do I do?
-YONO SBI is primarily available in India. If you're abroad, use SBI's international app **YONO Global** or access [SBI Online Banking](https://www.onlinesbi.sbi) via browser.
+### How long does a YONO server outage usually last?
+Scheduled maintenance takes 30-60 minutes (usually late night). Unscheduled outages typically resolve within 2-4 hours.
 
-### How do I contact SBI for YONO issues?
-- **Toll-free:** 1800-1234 or 1800-11-2211
-- **Email:** customercare@sbi.co.in
-- **Visit:** Your nearest SBI branch with passbook and ID proof
+### Can I use YONO on two phones?
+No. YONO is bound to one device at a time. To switch, you must re-register on the new phone, which deactivates the old device automatically.
 
-### Is YONO SBI safe to use?
-Yes. YONO uses 256-bit encryption, device binding, and multi-factor authentication. Keep the app updated and never share your credentials. Also review your [bank nomination details](/guide/nomination-update-bank-insurance-epf) to keep your account secure.
+### What should I do if money is debited but not credited to the beneficiary?
+Wait 3-5 working days for auto-reversal. If not reversed, file a complaint via YONO app or visit your home branch with the transaction reference number.
 
-### What is the difference between YONO and YONO Lite?
-**YONO** is the full-featured app with banking, investments, insurance, and shopping. **YONO Lite** is a lighter version focused only on core banking — transfers, balance check, and bill payments. If YONO crashes on your device, try YONO Lite as an alternative.
+### Is YONO safe to use?
+Yes. YONO uses 256-bit encryption, device binding, and OTP verification. Keep your app updated and never share credentials to stay secure.

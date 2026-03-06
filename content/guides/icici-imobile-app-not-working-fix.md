@@ -1,226 +1,163 @@
 ---
-title: "ICICI Bank iMobile App Not Working — How to Fix Login & Transaction Errors"
-description: "ICICI iMobile Pay app not working? Fix login failures, UPI errors, session expired, device not registered, and transaction issues with this troubleshooting guide."
-category: "Tax & Finance"
+title: "ICICI iMobile App Not Working? Fix Login & Errors"
+description: "Fix ICICI iMobile Pay app issues — login failed, app crash, device registration error, biometric not working, mPIN reset and update problems."
+category: Tax & Finance
 keywords:
-  - icici imobile not working
-  - icici bank app error
-  - icici netbanking not working
-  - imobile login failed
-  - icici transaction failed
-  - icici imobile session expired
-  - icici upi transaction failed
-  - icici imobile device not registered
-  - icici mpin reset
-  - icici imobile face id not working
-  - icici neft imps failed
-  - icici internet banking login problem
-readingTime: 10 min
-lastUpdated: 2026-03-02
+  - icici imobile app not working
+  - icici imobile login failed
+  - icici imobile app crash
+  - icici imobile device registration error
+  - icici imobile biometric error
+  - icici imobile mpin reset
+  - icici imobile update problem
+  - icici mobile banking error
+readingTime: "8 min"
+lastUpdated: "2026-03-06"
 officialLinks:
-  - "https://www.icicibank.com/mobile-banking/imobile-pay"
-  - "https://www.icicibank.com/customer-care"
-  - "https://www.icicibank.com/internet-banking"
+  - "https://www.icicibank.com/personal-banking/insta-banking/imobile"
+  - "https://www.icicibank.com/helpdesk"
 ---
 
-# ICICI Bank iMobile Pay App Not Working — How to Fix
+# ICICI iMobile App Not Working? Fix Login & Errors
 
-ICICI Bank's iMobile Pay app is one of India's most popular banking apps for UPI payments, fund transfers, and account management. However, users frequently face login failures, transaction errors, app crashes, and device registration problems. This guide covers every common issue and its fix.
+ICICI iMobile Pay is the bank's official mobile banking app for managing accounts, UPI payments, credit cards, and investments. If the app is crashing, login is failing, or you're stuck on device registration — this guide covers every common fix.
 
-## Common Error Messages
-
-You may encounter these errors while using iMobile Pay or ICICI Internet Banking:
-
-- **"Session Expired. Please login again"** — auto-logout due to inactivity or app update
-- **"Device not registered"** — app reinstalled or SIM changed
-- **"Login Failed. Invalid credentials"** — wrong mPIN, password, or locked account
-- **"Transaction Failed"** — UPI, NEFT, or IMPS payment declined
-- **"Unable to process your request"** — server-side issue
-- **"Biometric authentication failed"** — Face ID or fingerprint not recognized
-- **"UPI PIN is incorrect"** — wrong UPI PIN entered multiple times
-- App crashes on launch or freezes during transactions
+> **Disclaimer:** CitizenNest is an independent informational resource and is not affiliated with ICICI Bank. Always verify details on [ICICI Bank's official website](https://www.icicibank.com/).
 
 ---
 
-## 1. iMobile Pay Login Failures
+## Common ICICI iMobile Issues and Fixes
 
-**Problem:** App shows "Login Failed" or won't accept your mPIN/password.
+### 1. App Crashing or Not Opening
+
+**Symptoms:** App closes immediately after opening, freezes on splash screen, or shows a blank white screen.
 
 **Fixes:**
 
-1. **Check your mPIN** — Ensure you're entering the correct 4/6-digit mPIN. It's case-sensitive for alphanumeric passwords
-2. **Reset mPIN** — On the login screen, tap "Forgot mPIN" → verify with debit card details and OTP → set a new mPIN
-3. **Clear app cache** — Go to phone Settings → Apps → iMobile Pay → Clear Cache (Android). On iPhone, reinstall the app
-4. **Update the app** — Download the latest version from Google Play Store or Apple App Store
-5. **Check account lock** — After 3 wrong attempts, the account gets temporarily locked. Wait 24 hours or call customer care
-
-**Still not working?** Uninstall and reinstall the app, then re-register your device.
+1. **Force close and restart** — Go to your phone's Settings → Apps → iMobile Pay → Force Stop. Reopen the app.
+2. **Clear cache** — Settings → Apps → iMobile Pay → Storage → Clear Cache (do NOT clear data unless necessary, as it will log you out).
+3. **Update the app** — Open Google Play Store or Apple App Store, search for "iMobile Pay by ICICI Bank," and install any pending update.
+4. **Check phone storage** — The app needs at least 200-300 MB free space. Delete unnecessary files if storage is low.
+5. **Restart your phone** — A simple restart fixes many temporary glitches.
+6. **Reinstall the app** — If nothing works, uninstall and reinstall. You will need to register your device again.
 
 ---
 
-## 2. "Session Expired" Error
+### 2. Login Failed Error
 
-**Problem:** App keeps logging you out with "Session Expired" message.
+**Symptoms:** "Login failed," "Invalid credentials," or "Authentication error" after entering User ID and password.
 
 **Fixes:**
 
-1. **Update the app** to the latest version — older versions have session management bugs
-2. **Check your internet connection** — unstable Wi-Fi or mobile data causes session drops
-3. **Don't switch apps** mid-transaction — iMobile expires the session if the app goes to background for too long
-4. **Clear app data** — Settings → Apps → iMobile Pay → Clear Data → login again
-5. **Check phone date/time** — set to automatic. Wrong date/time causes session validation errors
+1. **Check User ID and password** — Ensure you're entering the correct internet banking User ID (not your account number) and the iMobile-specific password.
+2. **Reset password** — On the login screen, tap "Forgot Password" and follow the OTP-based reset process.
+3. **Check if account is locked** — After 3 consecutive wrong attempts, your profile gets locked for 24 hours. Wait and try again, or call ICICI customer care at **1800 1080** (toll-free).
+4. **Ensure registered mobile** — The app works only on the mobile number registered with your ICICI account. If you changed your number, update it at the branch first.
+5. **Check internet connection** — Switch between Wi-Fi and mobile data to rule out network issues.
 
 ---
 
-## 3. Face ID / Fingerprint Not Working
+### 3. Device Registration Error
 
-**Problem:** Biometric login fails or the option is greyed out.
+**Symptoms:** "Device registration failed," "Unable to register device," or stuck on the registration screen.
 
 **Fixes:**
 
-1. **Re-enable biometrics** — Open iMobile Pay → Settings → Login Settings → toggle off and on biometric login
-2. **Re-register fingerprint/Face ID** — Delete and re-add your biometric in phone Settings, then enable it again in iMobile
-3. **Check phone compatibility** — Biometric login requires Android 6.0+ with fingerprint sensor or iPhone with Touch ID/Face ID
-4. **Update your phone OS** — Older OS versions may have incompatible biometric APIs
-5. **Login with mPIN first** — After a successful mPIN login, the biometric option usually re-activates
+1. **Use registered mobile number** — The SIM card linked to your ICICI account must be in the phone. Dual SIM users should ensure the registered SIM is in Slot 1.
+2. **Enable SMS permissions** — The app sends a background SMS during registration. Grant SMS permissions in Settings → Apps → iMobile Pay → Permissions.
+3. **Sufficient SMS balance** — Ensure your prepaid SIM has at least ₹1 balance for the outgoing SMS.
+4. **Disable Wi-Fi during registration** — Use mobile data only during the device registration step, as the app needs to verify your mobile number via the carrier network.
+5. **Deregister old device** — If you switched phones, the old device must be deregistered. Call **1800 1080** or visit a branch to deregister.
+6. **Wait and retry** — Server-side delays can cause temporary failures. Wait 30 minutes and try again.
 
 ---
 
-## 4. "Device Not Registered" Error
+### 4. Biometric (Fingerprint/Face ID) Not Working
 
-**Problem:** After reinstalling the app, changing phone, or changing SIM, you get "Device not registered."
+**Symptoms:** Fingerprint or Face ID login fails, or the biometric option is not showing.
 
 **Fixes:**
 
-1. **Re-register the device** — Uninstall → reinstall iMobile Pay → tap "Register" → enter your registered mobile number
-2. **Verify SIM** — The registered mobile number's SIM must be in the phone (SMS verification is sent)
-3. **Allow SMS permissions** — iMobile needs SMS permission to auto-read the registration OTP
-4. **Use the same mobile number** — The number must match your ICICI bank account's registered mobile number
-5. **Dual SIM users** — Set the registered number's SIM as default for SMS before registering
-
-**If SIM was changed/ported:** Visit your nearest ICICI branch with ID proof to update your mobile number, then re-register.
+1. **Re-enable biometric login** — Go to iMobile Pay → Settings → Login Preferences → Enable Fingerprint/Face ID. You'll need to enter your mPIN to confirm.
+2. **Re-register biometrics on phone** — If you recently changed fingerprints on your phone, the app may stop recognising them. Delete and re-add your fingerprints in phone settings, then re-enable in iMobile.
+3. **Check phone compatibility** — Biometric login requires Android 6.0+ with a hardware fingerprint sensor or iPhone 5s and above.
+4. **Update the app** — Older app versions may have biometric bugs. Update to the latest version.
+5. **Fall back to mPIN** — If biometric consistently fails, use mPIN login as an alternative.
 
 ---
 
-## 5. UPI Transaction Failed
+### 5. mPIN Reset
 
-**Problem:** UPI payments via iMobile Pay show "Transaction Failed" or "Payment Declined."
+**Symptoms:** Forgot mPIN, or mPIN not accepted.
 
 **Fixes:**
 
-1. **Check UPI daily limit** — ICICI allows up to ₹1 lakh per day for UPI. Check if you've exceeded it
-2. **Verify UPI PIN** — After 3 wrong UPI PIN attempts, UPI gets blocked. Reset via iMobile → UPI → "Reset UPI PIN"
-3. **Check beneficiary details** — Ensure the UPI ID or mobile number is correct
-4. **Try after some time** — NPCI or bank server issues cause temporary failures, especially during peak hours (1st of month, salary days)
-5. **Check account balance** — Insufficient funds is the most common reason for UPI failures
-6. **Money debited but not received?** — Wait 48 hours for auto-reversal. If not reversed, raise a complaint in iMobile → UPI → "Raise Dispute"
-
-> **Tip:** Check the NPCI UPI transaction status at your bank's statement rather than relying on third-party confirmations.
+1. **Reset via app** — On the login screen, tap **"Forgot mPIN"** → Verify with debit card details and OTP → Set a new 4-digit or 6-digit mPIN.
+2. **Reset via net banking** — Log in to [ICICI Net Banking](https://infinity.icicibank.com/) → Go to "Customer Service" → "iMobile" → "Reset mPIN."
+3. **Call customer care** — Dial **1800 1080** (toll-free) or **022-33667777** and request an mPIN reset.
 
 ---
 
-## 6. Fund Transfer Errors (NEFT/IMPS)
+### 6. App Update Issues
 
-**Problem:** NEFT or IMPS transfers fail or show pending for too long.
+**Symptoms:** "Update required" but Play Store or App Store shows no update, or update gets stuck.
 
 **Fixes:**
 
-1. **Verify beneficiary details** — Check IFSC code, account number, and beneficiary name carefully
-2. **NEFT timing** — NEFT operates in half-hourly batches (available 24×7 since December 2019). However, delays may occur during bank holidays
-3. **IMPS daily limit** — Standard IMPS limit is ₹5 lakh per day. Contact your branch if you need higher limits
-4. **Add beneficiary cooling period** — Newly added beneficiaries may have a 30-minute to 24-hour cooling period before transfers are allowed
-5. **Transaction pending?** — NEFT can take up to 2 hours during working hours. IMPS is usually instant but may take up to 48 hours during server issues
-6. **Check transaction status** — Go to iMobile → Accounts → Transaction History → find the transaction for real-time status
+1. **Search directly** — Search "iMobile Pay ICICI" in the store instead of following the app's redirect link.
+2. **Clear Play Store cache** — On Android: Settings → Apps → Google Play Store → Clear Cache → Retry.
+3. **Check OS compatibility** — iMobile Pay requires Android 7.0+ or iOS 13+. Older phones may not support the latest version.
+4. **Check storage** — Ensure at least 300 MB free storage for the update.
+5. **Use Wi-Fi** — Large updates may fail on slow mobile data. Switch to Wi-Fi.
 
 ---
 
-## 7. mPIN Reset & Forgot Password
+## When to Contact ICICI Bank
 
-### Reset mPIN (iMobile App):
-1. Open iMobile Pay → tap "Forgot mPIN" on login screen
-2. Enter your registered mobile number
-3. Enter debit card last 6 digits and expiry date
-4. Enter OTP received on registered mobile
-5. Set new 4-digit mPIN
-6. Login with the new mPIN
+Contact ICICI Bank directly if:
 
-### Reset Internet Banking Password:
-1. Go to [ICICI Internet Banking](https://www.icicibank.com/internet-banking)
-2. Click "Forgot Password" on the login page
-3. Enter your User ID (or registered mobile/email)
-4. Authenticate via OTP + debit card details
-5. Create a new password (must include uppercase, lowercase, number, and special character)
-6. Login with the new password
+- Your account is blocked or frozen
+- Device registration fails repeatedly after trying all fixes
+- You see unauthorized transactions in the app
+- The app shows "Account not eligible for iMobile"
 
-> **Important:** If your account gets locked after multiple wrong attempts, wait 24 hours or call ICICI customer care.
-
----
-
-## 8. ICICI Internet Banking Not Working
-
-**Problem:** Can't login to ICICI Internet Banking, pages not loading, or OTP not received.
-
-**Fixes:**
-
-1. **Use supported browsers** — Chrome, Firefox, Edge, or Safari (latest versions). Avoid outdated browsers
-2. **Clear browser cache** — Old cookies can cause login loops. Clear cache and try again
-3. **Disable VPN/proxy** — ICICI blocks some VPN connections for security
-4. **OTP not received?** — Check if your mobile number is updated with the bank. Also check SMS blockers or DND settings
-5. **"User ID locked" error** — Call 1800-1080 to unlock your User ID
-6. **Virtual keyboard not loading** — Enable JavaScript in your browser. Try disabling ad blockers
-
----
-
-## ICICI Customer Care Contact
-
-If none of the above fixes work, contact ICICI Bank directly:
-
-| Channel | Details |
-|---------|---------|
-| **Toll-Free Number** | **1800-1080** (24×7, free from any phone) |
-| **Alternate Number** | 1860-120-7777 (charges apply) |
-| **Email** | care@icicibank.com |
-| **iMobile App** | Open app → Help → Chat with Us |
-| **Branch Visit** | Carry Aadhaar/PAN + debit card for identity verification |
-| **Twitter** | @ICICIBank_Care |
-
-> When calling, keep your Customer ID, registered mobile number, and last transaction details ready for faster resolution.
+**ICICI Customer Care:**
+- Toll-free: **1800 1080** (24/7)
+- Phone banking: **022-33667777**
+- Email: customer.care@icicibank.com
+- Branch visit: [Locate nearest branch](https://www.icicibank.com/branch-atm-locator)
 
 ---
 
 ## Important Tips
 
-1. **Always keep the iMobile Pay app updated** — most bugs are fixed in newer versions
-2. **Never share your mPIN, UPI PIN, or OTP** with anyone, including people claiming to be ICICI staff
-3. **Enable transaction alerts** via SMS and email for real-time monitoring of your account
-4. **Use strong passwords** for Internet Banking — change them every 90 days
-5. **If money is debited but transaction failed**, wait 3-5 business days for auto-reversal before raising a complaint
+1. Always download iMobile Pay only from the official [Google Play Store](https://play.google.com/) or [Apple App Store](https://apps.apple.com/) — never from third-party sites.
+2. Never share your mPIN, OTP, or login credentials with anyone, including bank employees.
+3. Keep the app updated to the latest version for security patches and bug fixes.
+4. If you change your mobile number, update it at the ICICI branch before trying to use iMobile on the new number.
+5. Enable app lock and biometric login for added security.
 
 ---
 
 ## Frequently Asked Questions
 
-### Q1. Why is ICICI iMobile Pay app not working today?
-ICICI iMobile Pay may be down due to scheduled server maintenance (usually between 11:30 PM – 12:30 AM), app update issues, or high traffic. Check ICICI Bank's social media handles for outage announcements. Try updating the app or clearing cache.
+### Q1. Why does ICICI iMobile keep crashing on my phone?
+This usually happens due to low storage, outdated app version, or corrupted cache. Clear the app cache, update to the latest version, and restart your phone. If the problem persists, uninstall and reinstall the app.
 
-### Q2. How do I fix "Device not registered" error on iMobile?
-Uninstall and reinstall the iMobile Pay app. Ensure the SIM card with your registered mobile number is in the phone. Allow SMS permissions and register again. If your number has changed, visit an ICICI branch to update it first.
+### Q2. Can I use iMobile Pay on two phones simultaneously?
+No. ICICI iMobile Pay can be registered on only one device at a time. Registering on a new phone automatically deregisters the old one.
 
-### Q3. How to reset UPI PIN in ICICI iMobile Pay?
-Open iMobile Pay → go to UPI section → tap "Reset UPI PIN" → enter debit card last 6 digits and expiry date → enter OTP → set new 4 or 6-digit UPI PIN.
+### Q3. I changed my phone. How do I set up iMobile again?
+Install the app on your new phone, enter your registered mobile number, and complete the device registration process. You'll need your debit card details and OTP for verification.
 
-### Q4. ICICI fund transfer failed but money got debited. What should I do?
-Wait 3-5 business days for automatic reversal. If not reversed, open iMobile → go to transaction history → select the failed transaction → raise a dispute. You can also call 1800-1080 for immediate assistance.
+### Q4. What should I do if I forgot my iMobile User ID?
+Your iMobile User ID is the same as your ICICI Net Banking User ID. If you've forgotten it, visit [ICICI Net Banking](https://infinity.icicibank.com/) and click "Forgot User ID" to retrieve it via your registered email or mobile.
 
-### Q5. Why is ICICI Internet Banking not loading?
-Clear your browser cache, disable VPN, and try using Chrome or Firefox. If the virtual keyboard doesn't load, enable JavaScript and disable ad blockers. If your account is locked, call 1800-1080.
+### Q5. Is iMobile Pay safe to use on public Wi-Fi?
+It is not recommended. Public Wi-Fi networks are vulnerable to attacks. Use mobile data or a trusted private Wi-Fi network for banking transactions.
 
-### Q6. Can I use iMobile Pay without a debit card?
-You need a debit card for initial registration and mPIN/UPI PIN setup. After that, daily transactions don't require the physical card. If you don't have a debit card, visit your ICICI branch to get one issued.
+### Q6. Why is iMobile showing "Service temporarily unavailable"?
+This usually indicates ICICI server maintenance or downtime. Wait 30-60 minutes and try again. You can check [ICICI Bank's official social media](https://twitter.com/ICICIBank) for any outage announcements.
 
-### Q7. How long does ICICI take to resolve transaction disputes?
-As per RBI guidelines, banks must resolve transaction disputes within 5 working days for domestic transactions. If not resolved, ICICI credits a provisional amount while investigation continues (up to 90 days for complex cases).
-
----
-
-*Disclaimer: CitizenNest is an independent platform and is not affiliated with ICICI Bank. Information is based on publicly available resources and may change. Always verify with ICICI Bank's official channels for the latest updates.*
+### Q7. Can I use iMobile without a debit card?
+You need debit card details for initial registration and mPIN reset. If you don't have a debit card, visit your ICICI branch for alternative registration methods.
