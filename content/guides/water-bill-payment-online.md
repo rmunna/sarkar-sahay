@@ -1,201 +1,164 @@
 ---
-title: "How to Pay Water Bill Online — Municipal & Jal Board"
-description: "Pay your water bill online for any municipal corporation or Jal Board in India. Complete guide with step-by-step process and tips."
-category: "Utilities"
+title: "Water Bill Payment Online: State-Wise Portal & Process"
+description: >-
+  Pay your water bill online via Delhi Jal Board, BMC, BWSSB, Chennai Metro Water
+  and other state portals. Step-by-step process, apps, and receipt download.
+category: Utilities
 keywords:
   - water bill payment online
-  - jal board bill
-  - municipal water bill
-  - water tax payment
-lastUpdated: "2026-02-18"
-readingTime: "8 min"
+  - delhi jal board bill payment
+  - bmc water bill payment
+  - bwssb bill payment online
+  - chennai metro water bill payment
+  - water bill online payment
+  - jal board bill payment
+  - water bill receipt download
+  - pay water bill app
+  - state water bill portal
+readingTime: 10 min
+lastUpdated: "2026-03-06"
 officialLinks:
-  - https://delhijalboard.delhi.gov.in
-  - https://www.mcgm.gov.in
-  - https://www.bwssb.gov.in
-  - https://www.chennaimetrowater.tn.gov.in
+  - 'https://delhijalboard.delhi.gov.in/'
+  - 'https://aquaptax.bmc.gov.in/'
+  - 'https://bwssb.karnataka.gov.in/'
+  - 'https://chennaimetrowater.tn.gov.in/'
+  - 'https://jalshakti-dowr.gov.in/'
 ---
 
-# How to Pay Water Bill Online — Municipal & Jal Board
+# Water Bill Payment Online: State-Wise Portal & Process
 
-Water supply in Indian cities is managed by municipal corporations, Jal Boards, or state water supply authorities. Most of these agencies now allow you to pay your water bill online — no more standing in queues at the municipal office.
+Paying your water bill online is now available in most Indian cities and states through official portals and mobile apps. This guide covers state-wise water bill payment portals, step-by-step process, app-based payment, and how to download your receipt.
 
-> **Disclaimer:** CitizenNest is an independent informational website. We are not affiliated with any government body, Jal Board, or municipal corporation. Always verify details on the official websites.
+## State-Wise Water Bill Payment Portals
 
----
+### Delhi — Delhi Jal Board (DJB)
 
-## What is Water Bill Payment?
+- **Portal:** [delhijalboard.delhi.gov.in](https://delhijalboard.delhi.gov.in/)
+- **App:** Delhi Jal Board app (Android/iOS)
+- **Payment modes:** Net banking, debit/credit card, UPI, Paytm, PhonePe
+- **Bill cycle:** Monthly
 
-If you have a metered water connection from your city's municipal body or Jal Board, you receive periodic water bills (monthly or quarterly). This bill covers your water usage charges, sewerage charges, and sometimes water tax. You need to pay this bill by the due date to avoid penalties and disconnection.
+**Steps to pay Delhi Jal Board bill online:**
+1. Visit [delhijalboard.delhi.gov.in](https://delhijalboard.delhi.gov.in/)
+2. Click on "Pay Water Bill" or "Online Bill Payment"
+3. Enter your K-Number (consumer number) printed on your bill
+4. Your outstanding amount will be displayed
+5. Select payment method and complete payment
+6. Download or print the payment receipt
 
-Major water supply authorities in India:
+### Mumbai — BMC (Brihanmumbai Municipal Corporation)
 
-| City / State | Authority |
-|---|---|
-| Delhi | Delhi Jal Board (DJB) |
-| Mumbai | MCGM (BMC Water) |
-| Bangalore | BWSSB |
-| Chennai | Chennai Metro Water (CMWSSB) |
-| Hyderabad | HMWSSB |
-| Kolkata | KMC Water Supply |
-| Pune | PMC Water |
-| Ahmedabad | AMC Water |
-| Lucknow | Jal Kal Vibhag |
-| Jaipur | PHED Rajasthan |
+- **Portal:** [aquaptax.bmc.gov.in](https://aquaptax.bmc.gov.in/)
+- **Payment modes:** Net banking, debit/credit card, UPI
+- **Bill cycle:** Quarterly
 
----
+**Steps:**
+1. Visit [aquaptax.bmc.gov.in](https://aquaptax.bmc.gov.in/)
+2. Enter your Consumer Account Number
+3. View outstanding bill details
+4. Select payment mode and pay
+5. Save receipt for records
 
-## Eligibility
+### Bengaluru — BWSSB (Bangalore Water Supply and Sewerage Board)
 
-- You must have an **active water connection** (metered or unmetered) with your local authority.
-- You need your **Consumer ID / Connection Number / Property ID** — printed on your water bill.
-- Some cities charge a **flat rate** (no meter), others bill based on **meter reading**.
+- **Portal:** [bwssb.karnataka.gov.in](https://bwssb.karnataka.gov.in/)
+- **App:** BWSSB One app
+- **Payment modes:** Net banking, UPI, cards, wallets
+- **Bill cycle:** Monthly
 
----
+**Steps:**
+1. Visit BWSSB portal or open BWSSB One app
+2. Enter your RR Number (connection number)
+3. Check your bill amount
+4. Select payment gateway and pay
+5. Download receipt
 
-## Details Needed
+### Chennai — Chennai Metro Water (CMWSSB)
 
-- **Consumer Number / Connection ID / Property ID** (from your water bill)
-- **Zone / Ward number** (for some municipal portals)
-- **Mobile number** (for OTP verification on some portals)
-- **Payment method** — UPI, debit card, credit card, or net banking
+- **Portal:** [chennaimetrowater.tn.gov.in](https://chennaimetrowater.tn.gov.in/)
+- **App:** Chennai Metro Water app
+- **Payment modes:** Net banking, debit/credit card, UPI
+- **Bill cycle:** Monthly
 
----
+**Steps:**
+1. Visit [chennaimetrowater.tn.gov.in](https://chennaimetrowater.tn.gov.in/)
+2. Click on "Online Payment"
+3. Enter your Consumer Number
+4. View bill and pay online
+5. Download receipt
 
-## Step-by-Step: Pay Water Bill Online
+### Hyderabad — HMWSSB
 
-### Method 1: Pay on the Official Water Authority Website
+- **Portal:** [hyderabadwater.gov.in](https://hyderabadwater.gov.in/)
+- **Payment modes:** Net banking, UPI, cards
+- **Bill cycle:** Monthly
 
-1. Visit your city's water authority website (see table above or search "[city name] water bill payment online").
-2. Look for **"Online Payment"** or **"Pay Water Bill"** link.
-3. Enter your **Consumer Number / Connection ID**.
-4. Your outstanding bill amount will be displayed.
-5. Verify the details (name, address, amount).
-6. Select payment method and complete payment.
-7. **Download and save the payment receipt.**
+### Kolkata — KMC
 
-**Example — Delhi Jal Board:**
-1. Visit [delhijalboard.delhi.gov.in](https://delhijalboard.delhi.gov.in).
-2. Click **"Water Bill"** → **"Pay Online"**.
-3. Enter your **Consumer Number** (K-number).
-4. View bill and click **"Pay Now"**.
-5. Complete payment via UPI/card/net banking.
+- **Portal:** [kmcwater.in](https://www.kmcgov.in/)
+- **Bill cycle:** Quarterly
 
-### Method 2: Pay via UPI Apps
+### Other States
 
-1. Open Paytm, PhonePe, Google Pay, or any UPI app.
-2. Go to **Bill Payments** → **Water**.
-3. Select your **city** and **water board/authority**.
-4. Enter your **Consumer Number**.
-5. The bill amount will auto-fetch.
-6. Pay and get instant receipt.
+| State/City | Water Board | Portal |
+|---|---|---|
+| Uttar Pradesh | Jal Kal Vibhag | Respective Nagar Nigam portal |
+| Rajasthan | PHED Rajasthan | phed.rajasthan.gov.in |
+| Madhya Pradesh | Municipal Corporation | respective city portal |
+| Punjab | PWSSB | pbdwss.gov.in |
+| Gujarat | GWSSB | gwssb.gujarat.gov.in |
 
-> Not all water authorities are listed on UPI apps. If your authority is not available, use their official website.
+## How to Pay Water Bill via Mobile Apps
 
-### Method 3: Pay via Net Banking
+Most water boards now offer dedicated apps or accept payment through third-party apps:
 
-1. Log in to your bank's internet banking.
-2. Go to **Bill Payments** → **Water / Utility Bills**.
-3. Select your water authority from the list.
-4. Enter consumer number and amount.
-5. Authorize the payment.
+1. **Official water board apps** — Delhi Jal Board, BWSSB One, Chennai Metro Water
+2. **Paytm** — Search "Water Bill" → Select your city/board → Enter consumer number → Pay
+3. **PhonePe** — Go to Bill Payments → Water → Select provider → Pay
+4. **Google Pay** — Bill Payments → Water → Select provider → Pay
+5. **Amazon Pay** — Bill Payments → Water → Select board → Pay
 
----
+## How to Download Water Bill Receipt
 
-## Offline Methods
+1. After successful payment, a receipt is generated on-screen — save or screenshot it
+2. Visit the water board portal → Login or enter consumer number
+3. Go to "Payment History" or "Bill History" section
+4. Select the bill period and click "Download Receipt"
+5. Save the PDF receipt for your records
 
-1. **Municipal office / Jal Board counter:** Pay in cash, by cheque, or card at the billing counter.
-2. **CSC (Common Service Centres):** Available in most localities; they can process your payment for a small fee.
-3. **Authorised banks:** Some water authorities accept payment at designated bank branches.
-4. **Mobile van / camp:** During bill drives, municipal staff may visit localities for collection.
+## Important Tips
 
----
+1. **Keep your consumer/K-number handy** — it is printed on your physical bill
+2. **Pay before the due date** to avoid late payment surcharge (typically 1-2% per month)
+3. **Check for online payment discounts** — some boards like DJB offer rebates for online payment
+4. **Save payment transaction ID** — useful if payment is deducted but not reflected
+5. **Report payment issues** to the water board helpline within 48 hours
 
-## Fees
+## Frequently Asked Questions
 
-- **Online payment via UPI / debit card:** Usually **free** (no convenience fee).
-- **Credit card:** Some portals charge **1–1.5% convenience fee**.
-- **Late payment penalty:** Varies by city — typically **5–10% surcharge** if paid after the due date.
-- **Some cities offer early payment discounts** — check your bill for details.
+### Q1. Where can I find my water consumer number?
+Your consumer number (also called K-Number in Delhi, RR Number in Bengaluru) is printed on the top of your water bill. You can also find it on previous payment receipts.
 
----
+### Q2. Can I pay water bill without consumer number?
+No. You need your consumer/account number to pay online. If you have lost your bill, visit your local water board office with address proof to get your consumer number.
 
-## Processing Time
+### Q3. Is there any extra charge for online payment?
+Most water boards do not charge extra for online payment. Some may charge a small payment gateway fee (₹2-10). Delhi Jal Board actually offers a rebate for online payment.
 
-- **UPI / debit card:** Reflects within **a few hours to 24 hours**.
-- **Net banking:** **1–2 working days**.
-- **Cheque:** **3–7 working days** after clearance.
+### Q4. What if my payment is deducted but bill shows unpaid?
+Wait 24-48 hours for reconciliation. If the issue persists, contact the water board with your transaction ID and bank statement. You can also file a complaint on the portal.
 
-If payment doesn't reflect within 48 hours, contact the water authority helpline with your transaction receipt.
+### Q5. Can I pay someone else's water bill online?
+Yes. You just need their consumer number. The payment portal does not verify the identity of the payer.
 
----
+### Q6. How often are water bills generated?
+This varies by city — Delhi and Bengaluru generate monthly bills, while Mumbai generates quarterly bills. Check your water board for your billing cycle.
 
-## How to Check Your Water Bill Online
-
-1. Visit your water authority's website.
-2. Click **"View Bill"** or **"Bill History"**.
-3. Enter your Consumer Number.
-4. Download or view your current and past bills.
-
-Some authorities also send bills via SMS or WhatsApp to registered numbers.
-
----
-
-## Tips and Best Practices
-
-1. **Save your consumer number** in your phone and UPI app for quick payments.
-2. **Pay before the due date** — avoid late surcharges which can add up quickly.
-3. **Check your meter reading** — if the bill seems too high, request a meter inspection.
-4. **Report leaks** to your municipal authority immediately — you may be billed for leaked water.
-5. **Apply for a water connection** online if available in your city — see our guide on [new water connection](/guide/water-connection-apply-online).
-6. **Rainwater harvesting rebates** — some cities offer discounts if you have a rainwater harvesting system installed.
-7. **Keep payment receipts** for at least 2 years in case of billing disputes.
-8. If you also need to pay property tax, see our guide on [property tax payment online](/guide/property-tax-payment-online).
+### Q7. What is the late payment penalty?
+Late fees vary: Delhi Jal Board charges 1% per month, BMC charges 2% per quarter. Pay before the due date to avoid these charges.
 
 ---
 
-## Related Guides
+*Disclaimer: CitizenNest is an independent platform and is not affiliated with any government department. Information is sourced from official government portals and may change. Always verify on the official water board website.*
 
-- [How to Pay Electricity Bill Online — All State Discoms](/guide/electricity-bill-payment-online)
-- [Electricity Bill Payment Failed — How to Fix](/guide/electricity-bill-payment-failed-fix)
-- [How to Pay Property Tax Online in India — Municipal Tax Payment Guide](/guide/property-tax-payment-online)
-- [Property Tax Online Payment Failed — How to Fix](/guide/property-tax-payment-failed-fix)
-- [Bharat Bill Payment System (BBPS) — Complete Guide to Pay All Bills](/guide/bharat-bill-payment-system)
-
-## Frequently Asked Questions (FAQs)
-
-### 1. What if my water bill shows a very high amount?
-
-This could be due to a meter fault, undetected leak, or estimated billing. Contact your Jal Board or municipal office to request a **meter inspection**. If a fault is found, the bill will be revised.
-
-### 2. Can I pay someone else's water bill?
-
-Yes. You only need their **Consumer Number**. Anyone can pay any consumer's water bill online.
-
-### 3. What happens if I don't pay my water bill?
-
-A **late payment penalty** (5–10%) is added. After prolonged non-payment (usually 3–6 months), your water supply may be **disconnected**. Reconnection requires clearing all dues plus a reconnection fee.
-
-### 4. How do I get a new water connection?
-
-Apply at your municipal corporation or Jal Board office. Most cities now allow **online applications**. You'll need proof of property ownership, ID proof, and a fee (₹500–₹5,000 depending on the city and connection type).
-
-### 5. Is water bill payment and water tax the same thing?
-
-Not always. **Water bill** is for usage (metered consumption). **Water tax** is a property-based charge included in your property tax in some cities. In many cities, they are combined into one bill.
-
-### 6. Can I get my water bill on WhatsApp?
-
-Some authorities like Delhi Jal Board and BWSSB offer bill delivery via WhatsApp or SMS. Register your number on their portal to activate this.
-
-### 7. What is the helpline for water bill complaints?
-
-Most cities have a dedicated helpline:
-- Delhi Jal Board: 1916
-- BWSSB Bangalore: 1916
-- Chennai Metro Water: 044-4567 4567
-- HMWSSB Hyderabad: 155313
-
-Check your bill for the local helpline number.
-
----
+*Related guides: [Water Supply Complaint Online](/guide/water-supply-complaint-online) | [Water Meter Reading Wrong? Fix](/guide/water-meter-reading-wrong-fix) | [Free Water Scheme](/guide/water-bill-subsidy-scheme)*
