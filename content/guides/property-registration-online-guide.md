@@ -1,175 +1,183 @@
 ---
-title: "Property Registration Online — Process & Documents (2026)"
-description: "Complete guide to property registration online in India. Stamp duty, e-registration portals, documents required, and state-wise process for 2026."
+title: "Property Registration Online: State-Wise Process & Documents Required"
+description: "Step-by-step guide to register property online in India. Documents, stamp duty, registration fee, e-registration portals by state."
 category: "Property & Legal"
-keywords: ["property registration online", "property registration process", "stamp duty India", "e-registration property", "property registration documents", "online property registration India"]
-lastUpdated: "2026-03-05"
-readingTime: "10 min"
+keywords: ["property registration online", "property registration documents", "e-registration portal", "sub-registrar property", "sale deed registration India"]
+readingTime: "12 min"
+lastUpdated: "2026-03-06"
 officialLinks:
-  - "https://igrsup.gov.in"
-  - "https://kaveri2.karnataka.gov.in"
-  - "https://igrs.ap.gov.in"
-  - "https://tnreginet.gov.in"
-  - "https://igrmaharashtra.gov.in"
+  - https://igrsup.gov.in
+  - https://igrmaharashtra.gov.in
+  - https://karigr.karnataka.gov.in
+  - https://tnreginet.gov.in
+  - https://doris.delhigovt.nic.in
 ---
 
-# Property Registration Online — Process & Documents (2026)
+## What is Property Registration?
 
-Property registration is the legal process of recording the transfer of property ownership with the Sub-Registrar office. Most Indian states now offer online/e-registration facilities. This guide covers the complete process, documents, stamp duty, and state-wise portal links for property registration in 2026.
+Property registration is the legal process of recording a property transaction (sale, gift, lease, mortgage) with the government. Under the Registration Act, 1908, any transfer of immovable property valued above ₹100 must be registered with the Sub-Registrar Office (SRO).
 
-## Why is Property Registration Important?
+Without registration, the property transfer has no legal validity. The registered sale deed is your primary proof of ownership.
 
-- **Legal requirement** under the Registration Act, 1908 — all property transactions above ₹100 must be registered
-- **Proof of ownership** — registered deed is the primary evidence of ownership
-- **Prevents fraud** — registration creates a public record
-- **Required for loans** — banks need registered property documents for home loans
-- **Transfer of title** — ownership legally transfers only after registration
+## Who Needs to Register Property?
+
+- Buyers of residential or commercial property
+- Anyone receiving property as a gift
+- Parties entering into lease agreements exceeding 12 months
+- Property transferred through partition deed or settlement deed
+- Mortgage transactions (where applicable)
 
 ## Documents Required for Property Registration
 
-### From the Buyer (Purchaser):
-- Aadhaar card
+### From the Buyer
+- Aadhaar card (mandatory in most states)
 - PAN card
 - Passport-size photographs (2-4)
-- Address proof
-- Sale agreement (if any)
+- Address proof (utility bill, passport, voter ID)
+- Sale deed / agreement to sell (drafted by lawyer)
 
-### From the Seller:
-- Original title deed (previous registration document)
+### From the Seller
+- Original title deed of the property
 - Aadhaar card and PAN card
-- Encumbrance Certificate (EC) — proving no pending dues/mortgages
-- Property tax receipts (latest)
-- NOC from housing society/apartment association (if applicable)
-- Power of Attorney (if selling through representative)
+- Encumbrance Certificate (EC) — [see our EC guide](/guide/encumbrance-certificate-online)
+- Property tax paid receipts (latest)
+- NOC from housing society (for flats)
+- Building plan approval (if applicable)
+- Khata certificate (Karnataka) — [see our Khata guide](/guide/khata-transfer-property-guide)
 
-### Property Documents:
-- Sale deed (prepared by lawyer/document writer)
-- Approved building plan/layout (for new constructions)
-- Khata certificate / Patta (land records)
-- Latest property tax paid receipt
-- NOC from relevant authorities (if applicable)
-- Completion certificate (for new buildings)
+### Property Documents
+- Sale deed (on stamp paper of correct value)
+- Previous chain of title documents
+- Approved building plan / completion certificate
+- RERA registration certificate (for new projects)
+- Mutation records / 7/12 extract (Maharashtra) or Patta (Tamil Nadu)
 
-### Witnesses:
-- Two witnesses with valid ID proof (Aadhaar/PAN)
-- Witnesses' photographs
+### Witnesses
+- 2 witnesses with Aadhaar card and photographs
 
-## Step-by-Step Online Property Registration Process
+## State-Wise e-Registration Portals
 
-### Step 1: Get Property Valuation
-- Check the **guideline value / circle rate / ready reckoner rate** for your property area
-- This is available on your state's registration portal
-- Stamp duty is calculated on this value or the actual sale price (whichever is higher)
+| State | Portal | URL |
+|-------|--------|-----|
+| Maharashtra | IGR Maharashtra | [igrmaharashtra.gov.in](https://igrmaharashtra.gov.in) |
+| Uttar Pradesh | IGRSUP | [igrsup.gov.in](https://igrsup.gov.in) |
+| Karnataka | Kaveri Online | [karigr.karnataka.gov.in](https://karigr.karnataka.gov.in) |
+| Tamil Nadu | TNReginet | [tnreginet.gov.in](https://tnreginet.gov.in) |
+| Delhi | DORIS | [doris.delhigovt.nic.in](https://doris.delhigovt.nic.in) |
+| Telangana | IGRS Telangana | [registration.telangana.gov.in](https://registration.telangana.gov.in) |
+| Rajasthan | e-Panjeeyan | [epanjeeyan.rajasthan.gov.in](https://epanjeeyan.rajasthan.gov.in) |
+| Gujarat | iGram | [igrm.gujarat.gov.in](https://igrm.gujarat.gov.in) |
+| West Bengal | e-Nathikaran | [wbregistration.gov.in](https://wbregistration.gov.in) |
+| Haryana | HARIS | [jamabandi.nic.in](https://jamabandi.nic.in) |
 
-### Step 2: Prepare Sale Deed
-- Engage a lawyer or licensed document writer
-- The sale deed must contain: buyer/seller details, property description, sale amount, terms, and witness details
-- Get it vetted by your lawyer
+## Step-by-Step: Online Property Registration
 
-### Step 3: Calculate Stamp Duty and Registration Fee
+### Step 1: Draft the Sale Deed
+- Hire a lawyer to draft the sale deed
+- Include property details, buyer/seller info, consideration amount, terms
+- Ensure property description matches revenue records
 
-Stamp duty and registration fees vary by state:
+### Step 2: Calculate & Pay Stamp Duty
+- Check circle rate / guideline value on the state IGR portal
+- Calculate stamp duty (see our [stamp duty calculator guide](/guide/stamp-duty-calculator-state-wise))
+- Pay stamp duty online or buy e-Stamp paper from SHCIL
+- Keep the e-Stamp certificate or payment receipt
 
-| State | Stamp Duty | Registration Fee |
-|-------|-----------|-----------------|
-| Maharashtra | 5-6% (3% for women in some areas) | 1% (max ₹30,000) |
-| Karnataka | 5% (2-3% for SC/ST) | 1% |
-| Tamil Nadu | 7% | 4% |
-| Uttar Pradesh | 7% (5% for women) | 1% |
-| Telangana | 5% | 0.5% |
-| Delhi | 4-6% (4% for women) | 1% |
-| Rajasthan | 5-6% (4% for women) | 1% |
-| Gujarat | 4.9% | 1% |
-| West Bengal | 5-7% | 1% |
-| Madhya Pradesh | 7.5% | 3% |
+### Step 3: Book Appointment Online
+- Visit your state's e-registration portal
+- Register/login with your mobile number
+- Select "Property Registration" or "Document Registration"
+- Choose the Sub-Registrar Office (SRO) based on property location
+- Book a slot (usually available 3-15 days ahead)
 
-> **Note:** Rates may vary based on property location (urban/rural), gender, and local body surcharges. Check your state portal for exact rates.
+### Step 4: Upload Documents Online (Pre-Registration)
+- Enter buyer/seller details, property details, consideration value
+- Upload scanned copies of required documents
+- Upload passport photos of all parties and witnesses
+- Enter stamp duty payment details / e-Stamp UIN
+- Submit and note the application/token number
 
-### Step 4: Register on State E-Registration Portal
+### Step 5: Visit Sub-Registrar Office
+- All parties (buyer, seller, 2 witnesses) must appear in person
+- Carry original documents + 2 photocopies of each
+- Carry the e-Stamp certificate / stamped sale deed
+- Biometric verification (Aadhaar-based) at the SRO
+- Sub-Registrar verifies documents and identity
 
-Visit your state's registration portal and create an account:
+### Step 6: Pay Registration Fee
+- Pay registration fee (usually 1% of property value) at the SRO
+- Payment via demand draft, challan, or online (state-dependent)
 
-| State | Portal |
-|-------|--------|
-| Uttar Pradesh | [igrsup.gov.in](https://igrsup.gov.in) |
-| Maharashtra | [igrmaharashtra.gov.in](https://igrmaharashtra.gov.in) |
-| Karnataka | [kaveri2.karnataka.gov.in](https://kaveri2.karnataka.gov.in) |
-| Tamil Nadu | [tnreginet.gov.in](https://tnreginet.gov.in) |
-| Andhra Pradesh | [igrs.ap.gov.in](https://igrs.ap.gov.in) |
-| Telangana | [registration.telangana.gov.in](https://registration.telangana.gov.in) |
-| Rajasthan | [psr.rajasthan.gov.in](https://psr.rajasthan.gov.in) |
-| Gujarat | [garvi.gujarat.gov.in](https://garvi.gujarat.gov.in) |
-| Delhi | [doris.delhigovt.nic.in](https://doris.delhigovt.nic.in) |
-
-### Step 5: Book Appointment with Sub-Registrar
-1. Log in to the state portal
-2. Select **"Book Appointment"** or **"Slot Booking"**
-3. Choose your preferred Sub-Registrar office
-4. Select available date and time slot
-5. Upload required documents (scanned copies)
-6. Note the appointment reference number
-
-### Step 6: Pay Stamp Duty Online
-1. On the portal, select **"E-Stamp"** or **"Pay Stamp Duty"**
-2. Enter property details and transaction amount
-3. Stamp duty amount will be auto-calculated
-4. Pay via net banking, debit/credit card, or UPI
-5. Download the **e-Stamp certificate**
-
-### Step 7: Visit Sub-Registrar Office
-On the appointment date:
-1. All parties (buyer, seller, witnesses) must be present
-2. Carry **original documents** and photocopies
-3. Carry printed e-Stamp certificate
-4. Biometric verification (fingerprint/iris) of all parties
-5. Pay **registration fee** (if not paid online)
-6. Sub-Registrar will verify documents and register the deed
+### Step 7: Document Signing & Registration
+- Sign the sale deed in presence of Sub-Registrar
+- Witnesses sign the document
+- Sub-Registrar stamps and registers the document
+- Digital photo and biometrics captured
 
 ### Step 8: Collect Registered Document
-- In many states, the registered document is available for download online within 7-15 days
-- Some states provide the registered document on the same day
-- Download from the portal or collect from the Sub-Registrar office
-- The document will have the registration number and Sub-Registrar's seal
+- Registered sale deed available for collection after 3-15 days
+- Download digitally signed copy from the e-registration portal
+- Some states provide same-day digital copies
 
-## After Registration — Next Steps
+## Fees Summary
 
-1. **Apply for mutation** — update land records with your name. See our [land mutation guide](/guide/land-mutation-online-apply)
-2. **Update property tax records** — transfer property tax to your name at the municipal office
-3. **Update electricity/water connections** — transfer utility bills
-4. **Get Encumbrance Certificate** — verify clean registration after 30 days
-5. **Store documents safely** — keep originals in a bank locker
+| Component | Typical Rate |
+|-----------|-------------|
+| Stamp Duty | 3-8% (varies by state — see [stamp duty guide](/guide/stamp-duty-calculator-state-wise)) |
+| Registration Fee | 1% (some states cap at ₹30,000) |
+| Lawyer Fee | ₹5,000 - ₹25,000 (for drafting sale deed) |
+| Miscellaneous | ₹500 - ₹2,000 (photographs, photocopies, etc.) |
+
+## Processing Time
+
+| Stage | Duration |
+|-------|----------|
+| Appointment booking to visit | 3-15 days |
+| Registration at SRO | 1-3 hours (same day) |
+| Registered document delivery | 3-15 days (or same-day digital in some states) |
+| **Total end-to-end** | **1-4 weeks** |
+
+## Offline Process (Walk-in)
+
+1. Visit the SRO with all documents and stamp paper
+2. Fill the registration form at the counter
+3. Pay stamp duty and registration fee
+4. Complete biometric verification
+5. Collect receipt and return for registered document
+
+> Walk-in may involve longer wait times. Online appointment is recommended.
 
 ## Important Tips
 
-1. **Verify property title** thoroughly before buying — check at least 30 years of ownership chain
-2. **Get an Encumbrance Certificate** for 13-30 years to check for pending loans/disputes
-3. **Women buyers get stamp duty concessions** in many states — register in the woman's name to save
-4. **Pay through banking channels** — all payments above ₹50,000 should be via cheque/transfer for IT compliance
-5. **Register within 4 months** of execution of sale deed — late registration attracts penalties
+1. **Verify property title** thoroughly before registration — check EC for at least 13 years
+2. **Never pay in cash** beyond ₹49,999 — transactions above this must be via banking channels (IT Act)
+3. **Check for pending dues** — property tax, electricity bills, society maintenance
+4. **Get NOC from society/builder** for flat purchases
+5. **Apply for mutation** immediately after registration to update revenue records
 
-## FAQs
+## Frequently Asked Questions
 
-### 1. Can property registration be done completely online?
-Most states now allow online appointment booking, stamp duty payment, and document upload. However, physical presence at the Sub-Registrar office is still required for biometric verification and final registration.
+### Q1. Is physical presence mandatory for property registration?
+Yes. Both buyer and seller must appear in person at the Sub-Registrar Office with valid ID (Aadhaar). Power of Attorney holders can appear on behalf of a party with a registered POA.
 
-### 2. What is the stamp duty for property registration?
-Stamp duty varies by state, typically 4-7% of property value. Women buyers get concessions (1-2% less) in many states. Check your state's registration portal for exact rates.
+### Q2. Can NRIs register property in India?
+Yes. NRIs can buy and register residential and commercial property in India. They can execute a Power of Attorney for someone in India to complete the registration. The POA must be notarized by the Indian embassy/consulate.
 
-### 3. How long does property registration take?
-The actual registration process at the Sub-Registrar office takes 1-3 hours. Including online appointment and document preparation, plan for 7-15 days total.
+### Q3. What is the time limit for property registration?
+A sale deed must be registered within 4 months from the date of execution. Late registration (up to 4 more months) is possible with a penalty up to 10x the registration fee.
 
-### 4. Can I register property in someone else's name?
-Yes, through a registered Gift Deed, Sale Deed, or Will. The person in whose name the property is registered must be present at the Sub-Registrar office (or their Power of Attorney holder).
+### Q4. Can I register property online without visiting the SRO?
+Currently, physical presence at the SRO is mandatory in all states for final registration (biometric verification). The online process only covers appointment booking, document upload, and pre-verification.
 
-### 5. What is the penalty for late registration?
-Registration should be done within 4 months of executing the sale deed. Late registration attracts a penalty of up to 10 times the registration fee, depending on the state.
+### Q5. What if the seller refuses to come for registration?
+You can file a suit for specific performance in civil court. If you have a registered agreement to sell, the court can direct the seller to complete registration.
 
-### 6. Is PAN card mandatory for property registration?
-Yes, PAN card is mandatory for property transactions above ₹10 lakh. Both buyer and seller must provide PAN details.
+### Q6. Is agreement to sell the same as sale deed?
+No. An agreement to sell is a promise for future transfer. A sale deed is the actual transfer document. Only a registered sale deed transfers ownership.
 
-### 7. How to check if a property is already registered?
-Check the Encumbrance Certificate (EC) from the Sub-Registrar office. You can also search property records on your state's registration portal.
+### Q7. Can property registration be done on any day?
+Registration offices are open Monday to Saturday (except gazetted holidays). Some states have extended Saturday hours. Sundays are closed.
 
 ---
 
-*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with any Sub-Registrar office or government body. Stamp duty rates and processes vary by state — verify on your state's official portal.*
+*This guide is for informational purposes only and is not affiliated with any government department. Processes may vary by state — always verify with your local Sub-Registrar Office. Last verified: March 2026.*
