@@ -1,197 +1,188 @@
 ---
-title: "How to Apply for Disability Pension Online in India"
-description: "Complete guide to apply for disability pension in India. Eligibility, UDID card requirement, state-wise schemes, documents needed, and application process."
-category: "Government Schemes"
-keywords: ["disability pension india", "disability pension apply online", "UDID card pension", "divyang pension scheme", "disability benefits india", "pension for disabled persons"]
-readingTime: "7 min"
+title: "Disability Pension Apply Online: Process, Eligibility & Documents"
+description: >-
+  How to apply for disability pension online under IGNDPS. Eligibility for 40%
+  and 80% disability, documents needed, pension amount, and state portal links.
+category: Government Schemes
+keywords:
+  - disability pension apply online
+  - IGNDPS pension scheme
+  - disability pension eligibility
+  - viklang pension yojana
+  - disability pension documents
+  - handicap pension India
+  - disability certificate pension
+  - divyang pension apply
+  - disability pension amount
+  - disability pension state wise
+readingTime: 9 min
 officialLinks:
-  - https://www.swavlambancard.gov.in
-  - https://nsap.nic.in
-  - https://disabilityaffairs.gov.in
+  - "https://nsap.nic.in/"
+  - "https://sspy-up.gov.in/"
+  - "https://swavlambancard.gov.in/"
+  - "https://disabilityaffairs.gov.in/"
+  - "https://rajssp.rajasthan.gov.in/"
+lastUpdated: "2026-03-06"
 ---
 
-## What is Disability Pension?
+# Disability Pension Apply Online: Process, Eligibility & Documents
 
-Disability pension is a monthly financial assistance provided by the Central and State Governments to persons with disabilities (PwD) who are unable to earn a livelihood due to their condition. The pension aims to provide a basic income for daily needs and improve the quality of life of disabled citizens.
+The **Indira Gandhi National Disability Pension Scheme (IGNDPS)** provides monthly financial support to persons with disabilities from BPL families. State governments supplement this with their own disability pension schemes. This guide covers how to apply, eligibility criteria, documents required, and state-wise pension amounts.
 
-In India, disability pension is available through:
-1. **Indira Gandhi National Disability Pension Scheme (IGNDPS)** — Central government scheme under NSAP
-2. **State Disability Pension Schemes** — Each state has its own scheme with varying amounts
-3. **Defence Disability Pension** — For armed forces personnel disabled during service
+## What is IGNDPS (Disability Pension Scheme)?
 
-## Eligibility Criteria
+The **Indira Gandhi National Disability Pension Scheme** is part of the **National Social Assistance Programme (NSAP)** under the Ministry of Rural Development. It provides pension to persons with severe disabilities who belong to BPL households.
 
-### For IGNDPS (Central Scheme)
+**Central government contribution:**
+- **Age 18-79 years (80%+ disability):** ₹300 per month
+- **Age 80+ years:** ₹500 per month
 
-- Age: **18-79 years**
-- Disability: **80% or more** (certified by a medical board)
-- **BPL family** (Below Poverty Line) or economically weaker section
-- Must have a **UDID card** (Unique Disability ID) or disability certificate
-- Not receiving any other pension from Central/State government
+States add their own contribution, making total pension range from ₹500 to ₹2,500 per month. Some states also offer pension for 40%+ disability under their own schemes.
 
-### For State Disability Pension Schemes
+## Who is Eligible?
 
-Eligibility varies by state, but generally:
-- Age: **18 years and above** (some states cover children too)
-- Disability: **40% or more** (lower threshold than central scheme)
-- Income limit: Varies by state (₹30,000 to ₹2 lakh per annum)
-- Resident of the state for a specified period
-- Must have a valid disability certificate or UDID card
-
-## Pension Amounts
-
-### Central Scheme (IGNDPS)
-- **₹300 per month** (Central share) for age 18-79
-- States add their own contribution (₹100-500 additional)
-- After age 80, beneficiary moves to **Indira Gandhi National Old Age Pension Scheme**
-
-### State Pension Amounts (Approximate)
-
-| State | Monthly Pension | Disability Threshold |
-|-------|----------------|---------------------|
-| Uttar Pradesh | ₹500 | 40% |
-| Maharashtra | ₹600-1,000 | 40% |
-| Rajasthan | ₹750-1,500 | 40% |
-| Tamil Nadu | ₹1,000 | 40% |
-| Karnataka | ₹600 | 40% |
-| Madhya Pradesh | ₹600 | 40% |
-| Bihar | ₹400 | 40% |
-| West Bengal | ₹1,000 | 40% |
-| Kerala | ₹1,500-2,000 | 40% |
-| Delhi | ₹2,500 | 40% |
-| Punjab | ₹1,500 | 50% |
-| Haryana | ₹1,800-2,000 | 60% |
-
-> **Note:** Amounts are approximate and updated periodically. Check your state's social welfare department for current rates.
-
-## What is UDID Card?
-
-The **Unique Disability Identity (UDID) Card** is a national identity card for persons with disabilities. It serves as a single document for:
-- Availing disability pension and government benefits
-- Proof of disability percentage
-- Access to schemes like free travel, education concessions, and employment reservation
-
-### How to Apply for UDID Card
-
-1. Visit [swavlambancard.gov.in](https://www.swavlambancard.gov.in)
-2. Click **"Apply for Disability Certificate & UDID Card"**
-3. Fill personal details — name, date of birth, Aadhaar number
-4. Select **type of disability** from the list (21 categories recognized)
-5. Upload documents — photo, Aadhaar, medical reports
-6. Submit the application
-7. Visit the designated **government hospital** for medical assessment
-8. Medical board certifies disability type and percentage
-9. UDID card is generated and sent to your address
+1. **Disability:** Must have **80% or more disability** for IGNDPS (central). Many states offer pension for **40%+ disability** under state schemes
+2. **Age:** Must be between 18-79 years (80+ get higher amount)
+3. **Income/BPL:** Must belong to a BPL family or meet state income criteria
+4. **Residency:** Must be a permanent resident of the applying state
+5. **Disability certificate:** Must have a valid disability certificate from a government hospital
+6. **Not receiving other pension:** Should not be receiving any other government pension of the same type
+7. **Bank account:** Must have [Aadhaar](/guide/aadhaar-card-apply-online)-linked bank account
 
 ### Types of Disabilities Covered
 
-The **Rights of Persons with Disabilities Act, 2016** recognizes **21 types** of disabilities:
+The following disabilities are covered under the **Rights of Persons with Disabilities Act, 2016:**
 - Blindness and low vision
 - Hearing impairment (deaf and hard of hearing)
 - Locomotor disability
-- Cerebral palsy
 - Intellectual disability
 - Mental illness
+- Cerebral palsy
 - Autism spectrum disorder
 - Multiple disabilities
-- And 13 more categories
+- Muscular dystrophy
+- Chronic neurological conditions
+- And other conditions listed under the RPwD Act
 
-## How to Apply for Disability Pension
+### State-Wise Pension Amount
 
-### Method 1: Online Application (State Portal)
-
-Most states now accept online applications:
-
-1. Visit your **state's social welfare/disability pension portal**
-   - UP: [sspy-up.gov.in](https://sspy-up.gov.in)
-   - Maharashtra: [aaplesarkar.mahaonline.gov.in](https://aaplesarkar.mahaonline.gov.in)
-   - Rajasthan: [ssp.rajasthan.gov.in](https://ssp.rajasthan.gov.in)
-   - MP: [socialsecurity.mp.gov.in](https://socialsecurity.mp.gov.in)
-   - Bihar: [serviceonline.bihar.gov.in](https://serviceonline.bihar.gov.in)
-
-2. Register with your **Aadhaar number** and mobile
-3. Select **"Disability Pension"** from available schemes
-4. Fill application details:
-   - Personal information
-   - Disability type and percentage
-   - UDID card number or disability certificate number
-   - Bank account details (for DBT transfer)
-   - Income details
-5. Upload documents (see list below)
-6. Submit and note the application number
-
-### Method 2: Through NSAP Portal (Central Scheme)
-
-1. Visit [nsap.nic.in](https://nsap.nic.in)
-2. The application is usually submitted through **Gram Panchayat** (rural) or **Urban Local Body** (urban)
-3. Contact your local **panchayat/ward office** for assistance
-4. They will help fill the application and submit it through the NSAP portal
-
-### Method 3: Offline Application
-
-1. Visit your **District Social Welfare Office** or **Block Development Office**
-2. Collect the disability pension application form
-3. Fill the form and attach required documents
-4. Submit at the same office
-5. Field verification may be conducted
-6. Pension is sanctioned after verification
+| State | Disability % Required | Income Limit | Pension Amount (Approx.) |
+|-------|----------------------|-------------|-------------------------|
+| Uttar Pradesh | 40%+ | BPL | ₹500/month |
+| Bihar | 40%+ | BPL | ₹400–₹500/month |
+| Rajasthan | 40%+ | Income < ₹60,000/year | ₹750–₹1,500/month |
+| Madhya Pradesh | 40%+ | BPL / Samagra ID | ₹600/month |
+| Delhi | 40%+ | Income < ₹1 lakh/year | ₹2,500/month |
+| Haryana | 40%+ | Income < ₹2 lakh/year | ₹2,000–₹2,750/month |
+| Tamil Nadu | 40%+ | BPL | ₹1,000/month |
+| Maharashtra | 40%+ | BPL | ₹600–₹1,000/month |
+| West Bengal | 40%+ | BPL | ₹1,000/month |
 
 ## Documents Required
 
-| Document | Purpose |
-|----------|---------|
-| UDID Card or Disability Certificate | Proof of disability and percentage |
-| Aadhaar Card | Identity verification |
-| Bank Passbook | For pension transfer (DBT) |
-| Income Certificate | Proof of economic status |
-| BPL Card (if applicable) | For central scheme eligibility |
-| Passport-size Photographs | 2-3 copies |
-| Ration Card | Address and family proof |
-| Age Proof | Birth certificate or school certificate |
+### Mandatory Documents
+- **Disability certificate** (issued by a government district hospital or medical board — most critical document)
+- **UDID card** (Unique Disability ID) — Apply at [swavlambancard.gov.in](https://swavlambancard.gov.in/)
+- **Age proof:** [Aadhaar card](/guide/aadhaar-card-apply-online), birth certificate, voter ID
+- **Identity proof:** Aadhaar card, voter ID
+- **Address proof:** Aadhaar card, [ration card](/guide/ration-card-apply-online), voter ID
+- **Income certificate** or **BPL card** (from Tehsildar/Block office)
+- **Bank passbook** (first page with account details)
+- **Passport-size photographs** (2-4 copies)
 
-## How Pension is Paid
+### How to Get a Disability Certificate
 
-- Pension is transferred directly to your **bank account** via **Direct Benefit Transfer (DBT)**
-- Bank account must be linked with **Aadhaar** for DBT
-- Payment is made **monthly** or **quarterly** depending on the state
-- Some states pay pension in advance on a quarterly basis
+1. Visit the nearest **government district hospital**
+2. Meet the medical board (orthopaedic surgeon, ophthalmologist, ENT, psychiatrist as applicable)
+3. Carry existing medical reports, X-rays, and test results
+4. The medical board assesses disability percentage
+5. Certificate is issued within 7-15 days
+6. Also apply for **UDID card** online at [swavlambancard.gov.in](https://swavlambancard.gov.in/)
 
-## Other Benefits for Persons with Disabilities
+## How to Apply for Disability Pension Online
 
-Beyond pension, PwD are entitled to:
-- **Free travel** in government buses (in most states)
-- **Railway concession** — 50-75% concession on train tickets
-- **Education concessions** — Fee waiver, scholarships, hostel facilities
-- **Employment reservation** — 4% reservation in government jobs
-- **Tax benefits** — Higher deduction under Section 80U of Income Tax Act
-- **Assistive devices** — Free hearing aids, wheelchairs, prosthetics through ADIP scheme
-- **Skill training** — Through National Handicapped Finance and Development Corporation
+### Step 1: Visit Your State Portal
+
+- **Uttar Pradesh:** [sspy-up.gov.in](https://sspy-up.gov.in/) → Divyang Pension (दिव्यांग पेंशन)
+- **Bihar:** [elabharthi.bih.nic.in](https://elabharthi.bih.nic.in/)
+- **Rajasthan:** [rajssp.rajasthan.gov.in](https://rajssp.rajasthan.gov.in/)
+- **Madhya Pradesh:** [pension.socialsecurity.mp.gov.in](https://pension.socialsecurity.mp.gov.in/)
+- **Delhi:** [edistrict.delhigovt.nic.in](https://edistrict.delhigovt.nic.in/)
+- **Haryana:** [pension.socialjusticehry.gov.in](https://pension.socialjusticehry.gov.in/)
+- **Maharashtra:** [aaplesarkar.mahaonline.gov.in](https://aaplesarkar.mahaonline.gov.in/)
+
+### Step 2: Register and Login
+
+1. Select "Disability Pension" or "Divyang/Viklang Pension" section
+2. Register with mobile number and verify OTP
+3. Create login credentials
+4. Login to the portal
+
+### Step 3: Fill Application Form
+
+1. Enter personal details: name, date of birth, gender, father's/guardian's name
+2. Enter disability details: type of disability, percentage, certificate number
+3. Enter address: district, block/tehsil, village/ward
+4. Enter bank account and IFSC code
+5. Enter Aadhaar number and UDID number (if available)
+
+### Step 4: Upload Documents
+
+1. Upload disability certificate (most important)
+2. Upload UDID card (if available)
+3. Upload identity and address proof
+4. Upload income certificate / BPL card
+5. Upload bank passbook photo
+6. Upload photograph
+
+### Step 5: Submit Application
+
+1. Review all details carefully
+2. Submit the application
+3. Note your **application/reference number**
+4. Track status on the state portal
+
+## How to Apply Offline
+
+1. Visit your **Block Development Office** or **District Social Welfare Office** or **District Disability Rehabilitation Centre**
+2. Collect disability pension form (free)
+3. Fill form and attach all documents
+4. Submit and get acknowledgement receipt
+5. Verification by block office and forwarding to district authority
+
+**Processing time:** 1-3 months
+
+## Important Tips
+
+1. **Get disability certificate first** — Without a valid certificate from a government hospital, no application is accepted
+2. **Apply for UDID card** — The Unique Disability ID (UDID) is increasingly becoming mandatory; apply at [swavlambancard.gov.in](https://swavlambancard.gov.in/)
+3. **Check disability percentage carefully** — IGNDPS requires 80%+, but most states give pension for 40%+ disability
+4. **Link Aadhaar to bank** — DBT transfer requires Aadhaar-linked bank account
+5. **Renew disability certificate if temporary** — Some certificates are issued for a limited period and need renewal
 
 ## Frequently Asked Questions
 
-### What is the minimum disability percentage required for pension?
-For the central scheme (IGNDPS), **80% disability** is required. For most state schemes, **40% disability** is sufficient. Check your state's specific requirements.
+### Q1: What percentage of disability is needed for pension?
+**A:** For the central IGNDPS scheme, 80% or more disability is required. However, most state schemes provide pension for 40% or more disability. Check your state's specific requirement.
 
-### Can I receive both central and state disability pension?
-Generally, no. Most states club the central and state share together. You receive a single combined pension amount.
+### Q2: How much disability pension do I get?
+**A:** Central IGNDPS gives ₹300/month (age 18-79) and ₹500/month (80+). With state top-up, total ranges from ₹400 to ₹2,750 per month depending on state.
 
-### How long does it take to get disability pension approved?
-Processing time varies from **1-3 months** depending on the state. Online applications are usually processed faster than offline ones.
+### Q3: Where do I get a disability certificate?
+**A:** Visit the nearest **government district hospital**. A medical board will assess your disability and issue the certificate. Private hospital certificates are not accepted.
 
-### What if my disability pension application is rejected?
-You can **appeal** to the District Collector or the appellate authority specified by your state. Common reasons for rejection include incomplete documents, income above threshold, or disability certificate issues.
+### Q4: Can children get disability pension?
+**A:** IGNDPS starts from age 18. For disabled children below 18, some states have separate schemes or provide assistance under the National Trust or ADIP scheme.
 
-### Can children with disabilities get pension?
-Some states provide pension or financial assistance for **children with disabilities**. Check your state's specific scheme for minors.
+### Q5: I have 40% disability but not 80%. Can I apply?
+**A:** You cannot apply for the central IGNDPS (which requires 80%+), but most states have their own schemes for 40%+ disability. Apply through your state portal.
 
-## Related Guides
+### Q6: What is UDID card and is it mandatory?
+**A:** UDID (Unique Disability ID) is a universal ID for persons with disabilities, issued by the Department of Empowerment of Persons with Disabilities. While not mandatory everywhere yet, it is increasingly required. Apply online at [swavlambancard.gov.in](https://swavlambancard.gov.in/).
 
-- [How to Apply for Aadhaar Card Online](/guide/aadhaar-card-apply-online)
-- [DigiLocker — Digitize Your Documents](/guide/digilocker-documents-download)
-- [How to Apply for Income Certificate](/guide/income-certificate-apply-online)
-- [How to Check Land Records Online](/guide/land-records-online-all-states)
+### Q7: Can I get both disability pension and old age pension?
+**A:** Generally, you cannot receive two pensions under NSAP simultaneously. However, some states allow it under their own schemes. Check with your district social welfare office.
 
-- [Apply for Old Age Pension / Vridha Pension](/guide/old-age-pension-vridha-pension-apply)
-- [Apply for Widow Pension / Vidhwa Pension](/guide/widow-pension-vidhwa-pension-apply)
-- [Disability Pension, Tax Benefits & Schemes Available with...](/guide/disability-pension-benefits-udid)
-- [Atal Pension Yojana (APY)](/guide/atal-pension-yojana-apy)
+---
+
+*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with any government department. Information is compiled from official sources and may change. Always verify from your state's official portal before applying.*

@@ -1,172 +1,168 @@
 ---
-title: "Ayushman Bharat Hospital List — How to Check Empanelled Hospitals Near You"
-description: "Learn how to check Ayushman Bharat empanelled hospitals near you. Complete guide to finding PMJAY hospitals, covered treatments, and claims."
-category: "Government Schemes"
-keywords: ["Ayushman Bharat hospital list", "PMJAY hospital list", "Ayushman Bharat empanelled hospitals", "Ayushman Bharat card", "PMJAY treatment list", "Ayushman Bharat eligibility", "AB-PMJAY"]
-lastUpdated: "2026-02-17"
-readingTime: "9 min"
+title: "Ayushman Bharat Hospital List: How to Find Empanelled Hospitals Near You"
+description: >-
+  Find PMJAY empanelled hospitals near you. Search Ayushman Bharat hospital list
+  by state, district, treatment type, and verify empanelment status online.
+category: Government Schemes
+keywords:
+  - ayushman bharat hospital list
+  - PMJAY hospital list
+  - ayushman bharat empanelled hospitals
+  - PMJAY hospital near me
+  - ayushman bharat hospital search
+  - ayushman bharat network hospitals
+  - PMJAY hospital list state wise
+  - ayushman bharat treatment list
+  - PMJAY package rates
+  - ayushman bharat hospital check
+readingTime: 8 min
+lastUpdated: "2026-03-06"
 officialLinks:
-  - "https://pmjay.gov.in"
-  - "https://hospitals.pmjay.gov.in"
-  - "https://beneficiary.nha.gov.in"
+  - 'https://pmjay.gov.in/'
+  - 'https://hospitals.pmjay.gov.in/'
+  - 'https://mera.pmjay.gov.in/'
 ---
 
-# Ayushman Bharat Hospital List — How to Check Empanelled Hospitals Near You
+# Ayushman Bharat Hospital List: How to Find Empanelled Hospitals Near You
 
-**Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)** is the world's largest health assurance scheme, providing health coverage of ₹5 lakh per family per year to over 55 crore beneficiaries. To avail cashless treatment, you need to visit an **empanelled hospital**. This guide shows you exactly how to find PMJAY hospitals near you.
+Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PMJAY) provides cashless treatment up to ₹5 lakh per family per year — but only at **empanelled hospitals**. Before you visit a hospital, you must verify it is registered under PMJAY. This guide shows you exactly how to search, filter, and verify empanelled hospitals.
 
-> **Disclaimer:** CitizenNest is an independent informational platform and is not affiliated with the Government of India or NHA.
+## How to Search PMJAY Empanelled Hospitals Online
 
-## What is Ayushman Bharat PMJAY?
+### Method 1: PMJAY Hospital Search Portal
 
-Launched in September 2018, PMJAY provides:
+1. Visit [hospitals.pmjay.gov.in](https://hospitals.pmjay.gov.in/)
+2. Select your **State** from the dropdown
+3. Select your **District**
+4. Optionally filter by:
+   - Hospital type (Public/Private/Both)
+   - Speciality (Cardiology, Orthopaedics, etc.)
+   - Treatment/procedure name
+5. Click **Search**
+6. The results show hospital name, address, contact number, and empanelment status
 
-- **₹5 lakh health coverage** per family per year
-- **Cashless and paperless** treatment at empanelled hospitals
-- Coverage for **secondary and tertiary care** hospitalization
-- Over **1,949 treatment packages** including surgeries, medical treatment, and daycare procedures
-- **No restriction** on family size, age, or pre-existing conditions
+### Method 2: PMJAY Mobile App
 
-## Who is Eligible?
+1. Download the **Ayushman Bharat (PMJAY)** app from Google Play Store
+2. Open the app and go to **Hospital Search**
+3. Allow location access for nearby hospitals
+4. Filter by state, district, speciality, or treatment
+5. View hospital details and contact information
 
-Eligibility is based on **SECC 2011 (Socio-Economic Caste Census)** data:
+### Method 3: Call 14555
 
-### Rural Criteria (Any one of)
-- Households with no adult member aged 16-59
-- Female-headed household with no adult male member aged 16-59
-- Households with disabled member and no able-bodied adult
-- SC/ST households
-- Landless households deriving income from manual casual labour
-- And other deprivation criteria
+- Call the toll-free PMJAY helpline **14555**
+- Ask for empanelled hospitals in your area
+- The operator can search by your location and required treatment
+- Available Monday to Saturday, 9 AM to 9 PM
 
-### Urban Criteria (Occupational categories)
-- Rag pickers, street vendors, domestic workers
-- Construction workers, plumbers, painters, welders
-- Security guards, coolies, rickshaw pullers
-- Sweepers, sanitation workers, gardeners
-- Home-based workers, artisans, handicraft workers
-- Transport workers, drivers, conductors
+## State-Wise Hospital Coverage
 
-## How to Check Ayushman Bharat Hospital List
+PMJAY has empanelled hospitals across all participating states and union territories. Coverage varies by state:
 
-### Method 1: Official Website
+| Region | Approximate Empanelled Hospitals |
+|---|---|
+| Uttar Pradesh | 3,000+ |
+| Maharashtra | 2,000+ |
+| Tamil Nadu | 1,500+ |
+| Karnataka | 1,200+ |
+| Madhya Pradesh | 1,500+ |
+| Rajasthan | 1,200+ |
+| Gujarat | 1,500+ |
+| Bihar | 1,000+ |
+| Other states/UTs | Varies |
 
-1. **Visit** [hospitals.pmjay.gov.in](https://hospitals.pmjay.gov.in)
-2. **Select State** from the dropdown menu
-3. **Select District** from the dropdown
-4. **Choose Hospital Type** — Public, Private, or Both
-5. **Select Specialty** (optional) — Cardiology, Orthopaedics, Oncology, etc.
-6. **Search** — The list of empanelled hospitals with addresses and contact details will appear
-7. **View Details** — Click on any hospital to see the specific packages and treatments available
+**Note:** These numbers change as new hospitals are empanelled. Always check the official portal for current data. Some states like Delhi, Odisha, and West Bengal run their own health schemes instead of or alongside PMJAY.
 
-### Method 2: PMJAY App
+## Treatment Categories and Packages
 
-1. Download the **Ayushman Bharat (PMJAY)** app from Google Play Store or Apple App Store
-2. Open the app and go to "Hospital Search"
-3. Allow location access or enter your city/district manually
-4. Browse the list of nearby empanelled hospitals
-5. Check available treatment packages for each hospital
+PMJAY covers **1,929+ treatment packages** across **27 specialities**. Major categories include:
 
-### Method 3: Helpline
+### Medical Specialities Covered
+- **Cardiology** — Bypass surgery, angioplasty, valve replacement
+- **Orthopaedics** — Joint replacement, fracture surgery, spine surgery
+- **Oncology** — Chemotherapy, radiation, cancer surgeries
+- **Neurosurgery** — Brain surgery, spinal cord procedures
+- **Urology** — Kidney stone removal, prostate surgery
+- **Ophthalmology** — Cataract surgery, glaucoma treatment
+- **General Surgery** — Hernia repair, appendectomy, gallbladder removal
+- **Obstetrics & Gynaecology** — Caesarean section, hysterectomy
+- **ENT** — Tonsillectomy, cochlear implant
+- **Paediatrics** — Neonatal care, paediatric surgeries
 
-- Call the **Ayushman Bharat helpline: 14555** (toll-free)
-- Available 24x7 in multiple languages
-- Operators can help you find empanelled hospitals in your area
-
-### Method 4: Ayushman Mitra at Hospitals
-
-- Visit any government hospital
-- Look for the **Ayushman Mitra** (help desk) at the hospital
-- They can check your eligibility and guide you to empanelled hospitals
-
-## How to Check Your Eligibility
-
-1. **Visit** [beneficiary.nha.gov.in](https://beneficiary.nha.gov.in)
-2. Enter your **mobile number** and verify with OTP
-3. Search using any of these: Aadhaar number, ration card number, name + district, or SECC HH ID
-4. If your name appears, you are eligible for the scheme
-
-## How to Get the Ayushman Bharat Card
-
-1. Visit the nearest **Common Service Centre (CSC)** or empanelled hospital
-2. Carry your **Aadhaar card** and **ration card**
-3. Complete **eKYC verification** (Aadhaar-based biometric or OTP)
-4. Your Ayushman Bharat card (AB-PMJAY e-card) will be generated
-5. The card is **free of cost**
-
-## Treatments Covered
-
-PMJAY covers 1,949+ treatment packages including:
-
-- **Cardiology:** Bypass surgery, angioplasty, pacemaker implant
-- **Orthopaedics:** Joint replacement, spine surgery, fracture treatment
-- **Oncology:** Chemotherapy, radiation therapy, surgical oncology
-- **Neurosurgery:** Brain surgery, spinal cord procedures
-- **Urology:** Kidney transplant, dialysis, prostate surgery
-- **General Surgery:** Appendectomy, hernia repair, gallbladder removal
-- **Obstetrics:** Caesarean delivery, complications management
-- **Eye Care:** Cataract surgery, glaucoma treatment
-- **ENT:** Tonsillectomy, cochlear implant
-
-### What is NOT Covered
-- OPD (Out-Patient Department) consultations
+### What Is NOT Covered
+- OPD (outpatient) consultations
+- Fertility treatments (IVF)
 - Cosmetic surgery
-- Fertility treatments
-- Organ transplant (except kidney)
-- Individual therapy/rehabilitation
+- Organ transplants (except kidney in some packages)
+- Drug and alcohol rehabilitation
 
-## Claim Process
+## Package Rates
 
-1. **Visit empanelled hospital** with your Ayushman Bharat card and Aadhaar
-2. **Ayushman Mitra** at the hospital verifies your identity and eligibility
-3. **Treatment is provided** — completely cashless
-4. Hospital directly claims the amount from the insurance company/trust
-5. **No out-of-pocket expense** for the beneficiary for covered treatments
+PMJAY has fixed package rates for each treatment. Hospitals cannot charge more than the package rate. Key examples:
 
-## Fees
+| Treatment | Approximate Package Rate |
+|---|---|
+| Cataract surgery | ₹15,000 - ₹30,000 |
+| Knee replacement | ₹50,000 - ₹80,000 |
+| Coronary bypass surgery | ₹1,20,000 - ₹1,70,000 |
+| Angioplasty (single stent) | ₹40,000 - ₹60,000 |
+| Caesarean delivery | ₹9,000 - ₹18,000 |
+| Dialysis (per session) | ₹1,500 - ₹2,500 |
+| Cancer chemotherapy (per cycle) | ₹10,000 - ₹50,000 |
 
-| Service | Cost |
-|---------|------|
-| Ayushman Bharat Card | Free |
-| Eligibility Check | Free |
-| Treatment (covered packages) | Free (cashless) |
-| Helpline | Free (toll-free) |
+**Note:** Package rates include bed charges, medicines, diagnostics, food, and follow-up care for up to 15 days after discharge. Rates are revised periodically by NHA.
+
+## How to Verify a Hospital's Empanelment
+
+Before admitting yourself or a family member, verify the hospital's status:
+
+1. **Check online** at [hospitals.pmjay.gov.in](https://hospitals.pmjay.gov.in/) — search by hospital name
+2. **Look for the PMJAY board** — empanelled hospitals display the Ayushman Bharat signage at the entrance
+3. **Ask for the Ayushman Mitra** — every empanelled hospital has a designated Ayushman Mitra (PMAM) at the help desk
+4. **Call 14555** — verify the hospital name and address with the helpline
+5. **Check specialities** — a hospital may be empanelled but not for your specific treatment. Verify the specific package is available
+
+## How Hospitals Get Empanelled
+
+For reference, hospitals must meet these PMJAY criteria:
+- Valid registration under Clinical Establishments Act or state equivalent
+- Minimum infrastructure requirements (beds, OT, ICU as applicable)
+- Qualified medical staff and nursing personnel
+- Fire safety and biomedical waste management compliance
+- Willingness to accept PMJAY package rates
 
 ## Important Tips
 
-1. **Verify Before Admission** — Always confirm the hospital is empanelled and your treatment is covered before getting admitted.
-2. **Carry Documents** — Always carry your Ayushman card and Aadhaar to the hospital.
-3. **No Cash Required** — Empanelled hospitals cannot charge you for covered treatments. Report any hospital demanding payment.
-4. **Portability** — Your Ayushman card works at empanelled hospitals across India, not just your home state.
-5. **Report Fraud** — If any hospital denies cashless treatment or asks for money, call 14555 to report.
-
-## Related Guides
-
-- Read about [ABHA Health ID](/guide/digital-health-id-abha-uses) for digital health records
-- Check our [Aadhaar card guide](/guide/aadhaar-card-apply-online) — needed for Ayushman card generation
-- See the [Jan Aushadhi stores guide](/guide/jan-aushadhi-generic-medicine-stores) for affordable medicines
-- Read about [ESIC benefits](/guide/esic-registration-benefits-claim) for another health insurance scheme
+1. **Always verify before going** — an empanelled hospital may be de-empanelled. Check the portal on the day of your visit
+2. **Check specific treatment availability** — a hospital may be empanelled for general surgery but not for cardiac surgery
+3. **Public hospitals are usually empanelled** — all government district hospitals and above are typically empanelled
+4. **In emergencies, go to the nearest empanelled hospital** — verification can be completed within 24 hours of emergency admission
+5. **Carry your Ayushman card and Aadhaar** — you'll need both at the hospital. See our [card issues guide](/guide/ayushman-bharat-card-not-working-fix) if you face problems
 
 ## Frequently Asked Questions
 
-### Q1: How do I know if a hospital is empanelled under Ayushman Bharat?
-Visit [hospitals.pmjay.gov.in](https://hospitals.pmjay.gov.in), select your state and district, and search. You can also call the helpline at 14555 or check the PMJAY mobile app.
+### Are all government hospitals empanelled under PMJAY?
+Most government hospitals at the district level and above are empanelled. Sub-district and primary health centres may not provide all PMJAY packages. Check the portal to confirm.
 
-### Q2: Can I get treatment at a private hospital under Ayushman Bharat?
-Yes, both government and private hospitals can be empanelled under PMJAY. Check the hospital list to confirm which private hospitals are empanelled in your area.
+### Can I go to any empanelled hospital in India?
+Yes. PMJAY is portable across India. You can visit any empanelled hospital in any state, regardless of where your card was issued.
 
-### Q3: What is the annual coverage limit under PMJAY?
-The scheme provides ₹5 lakh per family per year for secondary and tertiary care hospitalization. This is a family floater, meaning any family member can use it.
+### How do I know if my treatment is covered?
+Check the PMJAY treatment package list on [pmjay.gov.in](https://pmjay.gov.in/) or ask the Ayushman Mitra at the hospital. You can also call 14555.
 
-### Q4: Can I use Ayushman Bharat card in another state?
-Yes, PMJAY is portable across India. You can get cashless treatment at any empanelled hospital in any state, not just your home state.
+### Can a hospital charge me extra beyond the PMJAY package rate?
+No. Empanelled hospitals are bound by the PMJAY package rates. If a hospital charges you extra, file a complaint at 14555 or [grievance.pmjay.gov.in](https://grievance.pmjay.gov.in/).
 
-### Q5: What should I do if an empanelled hospital refuses cashless treatment?
-Call the Ayushman Bharat helpline at 14555 immediately. You can also file a complaint on the PMJAY website or through the mobile app.
+### What if there is no empanelled hospital in my district?
+Call 14555 for guidance. You can visit empanelled hospitals in neighbouring districts or cities. Travel is not covered under PMJAY but treatment is fully cashless.
 
-### Q6: Is there a waiting period for pre-existing diseases?
-No, there is no waiting period under PMJAY. Pre-existing conditions are covered from day one.
+### How often is the hospital list updated?
+The PMJAY hospital portal is updated regularly as new hospitals are empanelled or existing ones are de-empanelled. Always check the portal for the latest list.
+
+### Do I need a referral to visit an empanelled hospital?
+No referral is required for PMJAY treatment. You can directly visit any empanelled hospital and approach the Ayushman Mitra desk.
 
 ---
 
-*Last updated: February 2026. Always verify hospital empanelment status and treatment coverage on [pmjay.gov.in](https://pmjay.gov.in) before seeking treatment.*
+*This guide is for informational purposes only. CitizenNest is an independent platform and is not affiliated with the Government of India or NHA. Verify hospital details at [pmjay.gov.in](https://pmjay.gov.in/) or call 14555.*
