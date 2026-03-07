@@ -1,68 +1,43 @@
 ---
-title: "UPSC Civil Services Final Result 2025 Out — Toppers List, Cut-Off & Marksheet Download"
-description: "UPSC CSE 2025 final result declared on 6 March 2026. Check toppers list, category-wise cut-off, vacancy details and download marksheet at upsc.gov.in."
-category: "Jobs & Exams"
+title: "UPSC Civil Services Final Result 2025 Out — Anuj Agnihotri Tops, 958 Candidates Selected"
+description: "UPSC CSE 2025 final result declared on March 6, 2026. Check merit list, toppers, cut-off marks, and download marksheet at upsc.gov.in."
+category: "Results"
 type: "result"
 organization: "UPSC"
 examName: "UPSC Civil Services Examination 2025"
 stage: "final-result"
-keywords: ["upsc result 2025", "upsc cse final result 2025", "upsc toppers list 2025", "upsc cut off 2025", "upsc marksheet download", "upsc civil services result", "ias result 2025", "upsc topper anuj agnihotri", "upsc.gov.in result", "upsc vacancy 2025", "upsc interview marks", "ias ips result 2025"]
+keywords: ["UPSC CSE result 2025", "UPSC civil services final result", "UPSC topper 2025", "Anuj Agnihotri UPSC", "UPSC CSE 2025 merit list", "UPSC result check online", "UPSC marksheet download", "IAS result 2025", "UPSC cut-off 2025", "upsc.gov.in result"]
 importantDates:
-  notificationDate: "2024-06-12"
-  prelimsDate: "2025-05-25"
-  mainsDate: "2025-09-19"
   resultDate: "2026-03-06"
 officialLinks:
-  - "https://upsc.gov.in/"
+  - "https://upsc.gov.in"
   - "https://upsc.gov.in/CSE_2025_FR_Eng_06032026.pdf"
-readingTime: "5 min"
-publishedDate: "2026-03-06"
-expiryDate: "2026-06-06"
+readingTime: "4 min"
+publishedDate: "2026-03-07"
+expiryDate: "2026-06-07"
 status: "active"
 vacancies: "979"
 relatedStages: []
 ---
 
-## UPSC CSE 2025 Final Result Declared
-
-The Union Public Service Commission (UPSC) has declared the **Civil Services Examination (CSE) 2025 final result** on **6 March 2026**. A total of **958 candidates** have been recommended for appointment to IAS, IPS, IFS and other central services.
-
-**Anuj Agnihotri** has topped the examination, securing All India Rank 1. The result PDF with names and roll numbers is available on the official website.
-
-📄 **[Download UPSC CSE 2025 Final Result PDF](https://upsc.gov.in/CSE_2025_FR_Eng_06032026.pdf)**
+The Union Public Service Commission (UPSC) has declared the **final result of the Civil Services Examination (CSE) 2025** on **March 6, 2026**. A total of **958 candidates** have been recommended for appointment to IAS, IPS, IFS, and other central services. **Anuj Agnihotri**, an MBBS graduate from Rajasthan, has secured **All India Rank 1**.
 
 ## Key Highlights
 
 | Detail | Information |
-|--------|------------|
-| Exam Name | UPSC Civil Services Examination 2025 |
-| Conducting Body | Union Public Service Commission |
-| Total Vacancies | 979 |
-| Candidates Recommended | 958 |
-| Reserve List | 258 candidates |
-| Result Date | 6 March 2026 |
-| Topper | Anuj Agnihotri (AIR 1) |
-| Official Website | [upsc.gov.in](https://upsc.gov.in/) |
+|---|---|
+| **Exam Name** | UPSC Civil Services Examination 2025 |
+| **Result Date** | March 6, 2026 |
+| **Total Candidates Selected** | 958 |
+| **Total Vacancies** | 979 |
+| **Topper (AIR 1)** | Anuj Agnihotri |
+| **AIR 2** | Rajeshwari Suve |
+| **Official Website** | [upsc.gov.in](https://upsc.gov.in) |
 
-## UPSC CSE 2025 Toppers List
+## Category-Wise Selection
 
-| Rank | Name |
-|------|------|
-| 1 | Anuj Agnihotri |
-| 2 | Rajeshwari Suve M |
-| 3 | Akansh Dhull |
-| 4 | Raghav Jhunjhunwala |
-| 5 | Ishan Bhatnagar |
-| 6 | Zinnia Aurora |
-| 7 | A R Rajah Mohaideen |
-| 8 | Pakshal Secretry |
-| 9 | Astha Jain |
-| 10 | Ujjwal Priyank |
-
-## Category-Wise Recommended Candidates
-
-| Category | Candidates |
-|----------|-----------|
+| Category | Candidates Selected |
+|---|---|
 | General | 317 |
 | EWS | 104 |
 | OBC | 306 |
@@ -70,74 +45,79 @@ The Union Public Service Commission (UPSC) has declared the **Civil Services Exa
 | ST | 73 |
 | **Total** | **958** |
 
+A reserve list of **258 candidates** has also been released.
+
 ## Service-Wise Vacancy Distribution
 
-| Service | GEN | EWS | OBC | SC | ST | Total |
-|---------|-----|-----|-----|----|----|-------|
-| IAS | 74 | 18 | 47 | 28 | 13 | 180 |
-| IFS | 22 | 6 | 15 | 8 | 4 | 55 |
-| IPS | 60 | 15 | 42 | 22 | 11 | 150 |
-| Central Services (Group A) | 211 | 48 | 141 | 73 | 34 | 507 |
-| Group B Services | 79 | 17 | 61 | 27 | 11 | 195 |
+| Service | Total Vacancies |
+|---|---|
+| IAS (Indian Administrative Service) | 180 |
+| IFS (Indian Foreign Service) | 55 |
+| IPS (Indian Police Service) | 150 |
+| Central Services Group A | 507 |
+| Group B Services | 195 |
 
 ## How to Check UPSC CSE 2025 Final Result
 
-1. Visit the official UPSC website at **[upsc.gov.in](https://upsc.gov.in/)**
+1. Visit the official UPSC website at **[upsc.gov.in](https://upsc.gov.in)**
 2. Click on the **"Examination"** tab on the homepage
 3. Select **"Active Examinations"** or check the **"What's New"** section
 4. Click on the link for **Civil Services Examination Final Result 2025**
-5. The merit list PDF will open with names and roll numbers
-6. Press **Ctrl + F** and type your roll number or name to find your result
+5. The merit list PDF will open in a new tab
+6. Press **Ctrl + F** (or Cmd + F on Mac) and search for your roll number or name
 7. Download and save the PDF for your records
 
-## Previous Year Cut-Off Marks (CSE 2024)
+**Direct Result PDF:** [Download UPSC CSE 2025 Final Result](https://upsc.gov.in/CSE_2025_FR_Eng_06032026.pdf)
 
-| Category | Cut-Off Marks |
-|----------|--------------|
-| General | 87.98 |
-| EWS | 85.92 |
-| OBC | 87.28 |
-| SC | 79.03 |
-| ST | 74.23 |
+## How to Download Marksheet / Score Card
 
-> The CSE 2025 cut-off marks will be published by UPSC separately. Historically, final cut-offs are based on combined Mains + Interview marks (out of 2025 total — 1750 for Mains written + 275 for Interview).
+UPSC will upload the **marksheets of all candidates** (including those who did not qualify) on the official website **within 15 days** of the result declaration. Here's how to download:
 
-## Marksheet Download
+1. Visit **[upsc.gov.in](https://upsc.gov.in)** after the marksheets are uploaded
+2. Navigate to the **"Examination"** section
+3. Look for the **"Marks of Candidates"** link under CSE 2025
+4. Enter your **roll number** and **date of birth** to access your marksheet
+5. Download and save the marksheet — it will be available for **30 days only**
 
-UPSC will upload marksheets of **all candidates** (qualified and non-qualified) on the official website **within 15 days** of the result declaration. The marks will remain available for **30 days** for download.
+> **Note:** Marksheets are expected to be available by **late March 2026**. Keep checking the official website.
 
-**Expected availability:** By 21 March 2026 at [upsc.gov.in](https://upsc.gov.in/)
+## About the Selection Process
 
-## Important Dates (CSE 2025 Timeline)
+The UPSC Civil Services Examination consists of three stages:
 
-| Event | Date |
-|-------|------|
-| Notification | June 2024 |
-| Prelims Exam | 25 May 2025 |
-| Prelims Result | 11 June 2025 |
-| Mains Exam | 19 September 2025 |
-| Mains Result | 11 November 2025 |
-| Interview/Personality Test | January–February 2026 |
-| **Final Result** | **6 March 2026** |
-| Marksheet Upload | By 21 March 2026 (Expected) |
+- **Prelims (Objective):** Qualifying stage with two papers — General Studies and CSAT
+- **Mains (Written):** Nine descriptive papers including Essay, GS Papers I–IV, and Optional Subject
+- **Personality Test (Interview):** Carries 275 marks; conducted by UPSC board members
+
+The **final merit list** is prepared based on the combined marks of Mains (written examination) and the Personality Test. Prelims marks are not counted in the final ranking.
+
+## What to Do After Qualifying
+
+If your name appears in the final merit list:
+
+1. **Service allocation** will be based on your rank and preference — expect communication from DOPT (Department of Personnel and Training)
+2. **Document verification** — keep originals of all educational certificates, caste certificate (if applicable), and age proof ready
+3. **Medical examination** will be conducted before joining
+4. **Foundation training** at LBSNAA, Mussoorie for IAS officers (other services have their respective academies)
+5. **Cadre allocation** for IAS/IPS will be communicated separately
 
 ## FAQs
 
-### How can I download the UPSC CSE 2025 final result?
-Visit [upsc.gov.in](https://upsc.gov.in/), go to the "What's New" section, and click the Civil Services Final Result 2025 link to download the PDF.
+**When will UPSC CSE 2025 marksheets be available?**
+Marksheets will be uploaded on upsc.gov.in within 15 days of the result declaration (expected by late March 2026) and will remain available for 30 days.
 
-### Who topped UPSC CSE 2025?
-Anuj Agnihotri secured All India Rank 1 in the UPSC Civil Services Examination 2025.
-
-### How many candidates were selected in UPSC CSE 2025?
+**How many candidates were selected in UPSC CSE 2025?**
 A total of 958 candidates have been recommended for appointment, with an additional reserve list of 258 candidates.
 
-### When will UPSC CSE 2025 marksheets be available?
-UPSC will upload marksheets within 15 days of the result (expected by 21 March 2026). They will be available for download for 30 days.
+**Who topped UPSC CSE 2025?**
+Anuj Agnihotri, an MBBS graduate from Rajasthan, secured All India Rank 1. Rajeshwari Suve secured Rank 2.
 
-### What is the total marks in UPSC CSE?
-The UPSC Civil Services Examination has a total of 2025 marks — 1750 for the Mains written examination and 275 for the Personality Test (Interview).
+**What is the cut-off for UPSC CSE 2025?**
+The exact cut-off marks will be published along with the marksheets. The previous year's General category cut-off was 87.98.
+
+**Where can I download the UPSC CSE 2025 result PDF?**
+The result PDF is available at [upsc.gov.in/CSE_2025_FR_Eng_06032026.pdf](https://upsc.gov.in/CSE_2025_FR_Eng_06032026.pdf).
 
 ---
 
-*This is an independent guide. Visit the [official UPSC website](https://upsc.gov.in/) for the most current information.*
+*This is an independent guide. Visit the official UPSC website at [upsc.gov.in](https://upsc.gov.in) for the most current information.*
