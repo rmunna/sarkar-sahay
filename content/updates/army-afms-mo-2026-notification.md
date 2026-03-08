@@ -16,7 +16,7 @@ officialLinks:
 readingTime: "5 min"
 publishedDate: "2026-02-17"
 expiryDate: "2026-03-05"
-status: "active"
+status: "expired"
 vacancies: 100
 relatedStages: []
 ---
