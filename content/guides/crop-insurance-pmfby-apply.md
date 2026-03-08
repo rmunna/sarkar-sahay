@@ -199,4 +199,4 @@ If the **actual yield** falls below the **threshold yield** (based on historical
 
 ---
 
-*Also see our [PM-KISAN guide](/guide/pm-kisan-samman-nidhi-check-status) for checking your ₹6,000/year farmer benefit status.*
+*Also see our [PM-KISAN guide](/guide/pm-kisan-samman-nidhi) for checking your ₹6,000/year farmer benefit status.*

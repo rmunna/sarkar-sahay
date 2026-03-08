@@ -177,7 +177,7 @@ Take weekly mock tests. Aim for 200+ marks in prelims for a comfortable clearing
 
 - [TNPSC Group 1 Exam Guide](/guide/tnpsc-group-1-exam-guide) — For higher-level Tamil Nadu civil services
 - [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — Explore banking sector opportunities
-- [SSC Exams Guide](/guide/ssc-exam-guide) — Central government jobs for graduates
+- [SSC Exams Guide](/guide/ssc-exam-complete-guide) — Central government jobs for graduates
 
 ## Frequently Asked Questions (FAQs)
 

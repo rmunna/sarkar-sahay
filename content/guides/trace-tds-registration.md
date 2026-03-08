@@ -171,4 +171,4 @@ Contact your deductor (employer/bank) to verify. If the deductor filed incorrect
 
 ---
 
-*For income tax filing, see our [Income Tax e-Filing guide](/guide/income-tax-efiling-portal). For PAN card services, check our [PAN card guide](/guide/pan-card-apply-online).*
+*For income tax filing, see our [Income Tax e-Filing guide](/guide/income-tax-return-filing-errors-fix). For PAN card services, check our [PAN card guide](/guide/pan-card-apply-online).*

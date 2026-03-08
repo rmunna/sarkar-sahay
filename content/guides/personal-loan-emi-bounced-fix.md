@@ -195,7 +195,7 @@ If you're struggling to pay EMIs, don't hide — talk to your lender. Banks pref
 **3. Balance Transfer**
 - Transfer your loan to another bank at a lower interest rate
 - Possible only if you haven't already defaulted significantly
-- See our [balance transfer guide](/guide/personal-loan-balance-transfer) for details
+- See our [balance transfer guide](/guide/personal-loan-apply-online-compare) for details
 
 **4. Top-Up Loan**
 - Some banks allow a top-up to clear overdue and restart fresh EMIs

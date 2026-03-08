@@ -38,7 +38,7 @@ The following services **legally require Aadhaar** as per the Aadhaar Act and su
 - **Filing Income Tax Returns (ITR)** — Aadhaar or Aadhaar enrolment ID required
 - **New PAN card application** — Aadhaar is required
 
-Non-linking leads to PAN becoming **inoperative**. See our [PAN-Aadhaar linking guide](/guide/pan-aadhaar-link-status-online) for steps.
+Non-linking leads to PAN becoming **inoperative**. See our [PAN-Aadhaar linking guide](/guide/pan-aadhaar-link-failed-common-errors) for steps.
 
 ### 2. Government Subsidies and Welfare Schemes (DBT)
 

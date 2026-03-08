@@ -124,7 +124,7 @@ If you need to apply for mutation (ownership transfer), the following documents 
 
 ## Related Guides
 
-- Check our [property registration guides](/guide/igrsup-property-registration) for related services
+- Check our [property registration guides](/guide/igrs-maharashtra-property-registration) for related services
 - See our [Aadhaar guide](/guide/aadhaar-card-apply-online) for identity document requirements
 
 ## Frequently Asked Questions

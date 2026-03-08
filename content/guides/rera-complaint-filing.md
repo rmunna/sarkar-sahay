@@ -214,9 +214,9 @@ While the RERA Act does not specify a strict limitation period for all complaint
 
 ## Related Guides
 
-- [Property Registration Process in India](/guide/property-registration)
-- [Stamp Duty Calculator — How Much to Pay](/guide/stamp-duty)
-- [Encumbrance Certificate — How to Get EC Online](/guide/encumbrance-certificate)
+- [Property Registration Process in India](/guide/property-registration-online-guide)
+- [Stamp Duty Calculator — How Much to Pay](/guide/stamp-duty-calculator-state-wise)
+- [Encumbrance Certificate — How to Get EC Online](/guide/encumbrance-certificate-apply)
 
 ---
 

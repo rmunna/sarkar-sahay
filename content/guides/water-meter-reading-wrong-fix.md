@@ -142,4 +142,4 @@ If the meter reader does not visit, the board generates an estimated bill. You c
 
 *Disclaimer: CitizenNest is an independent platform and is not affiliated with any government department. Processes may vary by city. Always verify with your local water board.*
 
-*Related guides: [Water Bill Payment Online](/guide/water-bill-payment-online) | [Water Supply Complaint](/guide/water-supply-complaint-online) | [Consumer Court Complaint](/guide/consumer-court-complaint-online)*
+*Related guides: [Water Bill Payment Online](/guide/water-bill-payment-online) | [Water Supply Complaint](/guide/water-supply-complaint-online) | [Consumer Court Complaint](/guide/consumer-court-guide-detailed)*

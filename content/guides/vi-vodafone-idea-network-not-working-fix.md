@@ -224,7 +224,7 @@ If Vi network quality is consistently poor in your area, you can port your numbe
 - **UPC expired** — generate a new one by sending the PORT SMS again
 - **Network down during porting** — brief disconnection (up to a few hours) is normal during the switch
 
-> Also see our guide on [Mobile Number Portability (MNP)](/guide/mobile-number-portability-mnp) for detailed steps.
+> Also see our guide on [Mobile Number Portability (MNP)](/guide/mobile-number-portability-mnp-failed-fix) for detailed steps.
 
 ## Vi Customer Care — All Contact Methods
 

@@ -69,7 +69,7 @@ Designed to promote entrepreneurship among Sikkim's youth, CMSES provides **subs
 
 **Eligibility:** Sikkim domicile, age 18–45, valid business plan in approved sectors.
 
-> **Related:** [How to Apply for Government Schemes Online](/guide/how-to-apply-government-schemes-online)
+> **Related:** [How to Apply for Government Schemes Online](/guide/how-to-apply-government-jobs-online)
 
 ---
 
@@ -93,7 +93,7 @@ Sikkim became **India's first 100% organic state** in 2016 after a phased transi
 - Market linkage through organic festivals and Sikkim Organic Markets
 - Cold storage and packaging infrastructure at district level
 
-> **Related:** [Kisan Credit Card – How to Apply](/guide/kisan-credit-card-apply-online)
+> **Related:** [Kisan Credit Card – How to Apply](/guide/kisan-credit-card-apply)
 
 ---
 
@@ -116,7 +116,7 @@ The state counterpart to central housing schemes, SGAY provides **financial assi
 
 **How to apply:** Through Block Development Officers (BDOs) or the District Collector's office. Applications are also accepted during special housing drives.
 
-> **Related:** [Pradhan Mantri Awas Yojana – Complete Guide](/guide/pradhan-mantri-awas-yojana-pmay)
+> **Related:** [Pradhan Mantri Awas Yojana – Complete Guide](/guide/pmay-online-apply)
 
 ---
 
@@ -143,7 +143,7 @@ Sikkim provides **universal free healthcare** at all government hospitals and he
 
 Beyond free government healthcare, the state also participates in **Ayushman Bharat – PMJAY** for treatment at empanelled private hospitals with coverage up to ₹5 lakh per family per year.
 
-> **Related:** [Ayushman Bharat Card – How to Apply](/guide/ayushman-bharat-pmjay-health-card)
+> **Related:** [Ayushman Bharat Card – How to Apply](/guide/ayushman-bharat-pmjay)
 
 ---
 
@@ -166,7 +166,7 @@ Financial support for meritorious students from Sikkim pursuing higher education
 - **Laptop distribution scheme** for college students
 - **Textbook and uniform grant** for government school students up to Class 12
 
-> **Related:** [National Scholarship Portal – How to Apply](/guide/national-scholarship-portal-guide)
+> **Related:** [National Scholarship Portal – How to Apply](/guide/national-scholarship-portal-apply)
 
 ---
 
@@ -231,7 +231,7 @@ SPSC conducts recruitment examinations for Group A and Group B gazetted posts in
 
 **Other recruitment:** Non-gazetted posts are recruited through the **Sikkim Subordinate Services Selection Board** and departmental notifications.
 
-> **Related:** [Sarkari Result – How to Check Government Exam Results](/guide/sarkari-result-check-online)
+> **Related:** [Sarkari Result – How to Check Government Exam Results](/guide/exam-results-check-online-guide)
 
 ---
 
@@ -302,7 +302,7 @@ Most Sikkim government schemes follow a common application process:
 4. **Track status** — Use the e-District portal or CM Dashboard for application tracking
 5. **Collect benefit** — Funds are transferred via DBT to your linked bank account; physical benefits distributed through block offices
 
-> **Tip:** Keep your Aadhaar linked to your bank account for faster Direct Benefit Transfer. See our guide on [Aadhaar-Bank Linking](/guide/aadhaar-bank-linking-guide).
+> **Tip:** Keep your Aadhaar linked to your bank account for faster Direct Benefit Transfer. See our guide on [Aadhaar-Bank Linking](/guide/aadhaar-card-apply-online).
 
 ---
 

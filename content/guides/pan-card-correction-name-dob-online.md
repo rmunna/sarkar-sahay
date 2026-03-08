@@ -166,7 +166,7 @@ The corrected PAN card is dispatched via **Speed Post** to your registered addre
 2. **Double-check details** — verify all entries before submission to avoid paying again
 3. **Keep your PAN number handy** — you'll need it throughout the process
 4. **Download e-PAN** — after correction, download your updated e-PAN from [incometax.gov.in](https://www.incometax.gov.in) for free
-5. **Link with Aadhaar** — ensure your PAN is linked with Aadhaar after correction. See our [PAN-Aadhaar linking guide](/guide/pan-aadhaar-link-status-check) if needed
+5. **Link with Aadhaar** — ensure your PAN is linked with Aadhaar after correction. See our [PAN-Aadhaar linking guide](/guide/pan-aadhaar-link-failed-common-errors) if needed
 
 ## Common Issues and Fixes
 

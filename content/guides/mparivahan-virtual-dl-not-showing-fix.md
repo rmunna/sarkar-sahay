@@ -112,7 +112,7 @@ If mParivahan is consistently not showing your DL, **DigiLocker** is an excellen
 
 > **Important:** DigiLocker documents are legally valid under the IT Act, 2000. Traffic police must accept them.
 
-See our [DigiLocker guide](/guide/digilocker-account-setup) for detailed instructions.
+See our [DigiLocker guide](/guide/digilocker-advanced-features) for detailed instructions.
 
 ## Fix 7: Clear mParivahan App Data and Retry
 

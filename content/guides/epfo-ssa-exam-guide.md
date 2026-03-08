@@ -193,8 +193,8 @@ EPFO SSA previous papers give the best idea of difficulty level and question typ
 ## Related Guides
 
 - [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — Common aptitude sections overlap with EPFO SSA
-- [SSC CGL Exam Guide](/guide/ssc-cgl-exam-guide) — Similar central government exam at graduate level
-- [UPSC Exam Guide](/guide/upsc-exam-guide) — For higher civil services aspirations
+- [SSC CGL Exam Guide](/guide/ssc-exam-complete-guide) — Similar central government exam at graduate level
+- [UPSC Exam Guide](/guide/upsc-civil-services-preparation-guide) — For higher civil services aspirations
 
 ## Frequently Asked Questions (FAQs)
 

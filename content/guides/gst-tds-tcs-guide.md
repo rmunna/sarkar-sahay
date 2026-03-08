@@ -178,7 +178,7 @@ If TDS/TCS credit exceeds GST liability:
 
 ## Related Guides
 
-- [GST Registration Online Guide](/guide/gst-registration-online-guide)
+- [GST Registration Online Guide](/guide/gst-registration-online)
 - [GSTR-9 Annual Return Filing Guide](/guide/gst-annual-return-gstr9-guide)
 - [26AS Form Not Updated Fix Guide](/guide/tds-26as-form-not-showing-fix)
 

@@ -69,7 +69,7 @@ The Directorate of Higher Education runs multiple scholarship and stipend progra
 - **Boarding House Stipend** for tribal students from remote areas staying in government hostels
 - **Ishan Uday Scholarship** (UGC) for NE region students in professional courses
 
-Apply through the [National Scholarship Portal](/guide/national-scholarship-portal-guide) or directly through the Higher Education Directorate at [highereducation.tripura.gov.in](https://highereducation.tripura.gov.in/DHE/scholarship-scheme).
+Apply through the [National Scholarship Portal](/guide/national-scholarship-portal-apply) or directly through the Higher Education Directorate at [highereducation.tripura.gov.in](https://highereducation.tripura.gov.in/DHE/scholarship-scheme).
 
 ### TPSC – Tripura Public Service Commission
 
@@ -159,7 +159,7 @@ Tripura produces quality orthodox and CTC tea. Government support includes:
 
 ### Other Agriculture Schemes
 
-- **PM-KISAN** – ₹6,000 annual income support for farmer families ([PM-KISAN guide](/guide/pm-kisan-status-check))
+- **PM-KISAN** – ₹6,000 annual income support for farmer families ([PM-KISAN guide](/guide/pm-kisan-status-check-beneficiary-list))
 - **Kisan Credit Card** – Subsidised crop loans for farmers
 - **Soil Health Card** distribution for optimised farming
 - **Crop insurance** under Pradhan Mantri Fasal Bima Yojana

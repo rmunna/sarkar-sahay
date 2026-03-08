@@ -142,4 +142,4 @@ Yes, both can open **separate individual accounts** with ₹30 lakh each, if bot
 
 ---
 
-*See our [NSC guide](/guide/nsc-national-savings-certificate) for another popular post office savings option, or check our [Income Tax guide](/guide/income-tax-return-filing-online) for filing ITR with SCSS income.*
+*See our [NSC guide](/guide/nsc-national-savings-certificate) for another popular post office savings option, or check our [Income Tax guide](/guide/income-tax-return-file-online) for filing ITR with SCSS income.*

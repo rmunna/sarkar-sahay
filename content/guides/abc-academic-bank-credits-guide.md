@@ -67,7 +67,7 @@ ABC is registered under the Companies Act and operates as a national-level facil
 2. **Click "My Account"** or **"Student Registration"**
 3. You will be redirected to **DigiLocker login**
 4. **Log in to DigiLocker** using your Aadhaar-linked mobile number or username
-   - If you don't have a DigiLocker account, click "Sign Up" and create one using your Aadhaar number (see our [DigiLocker guide](/guide/digilocker-account-create-online) for details)
+   - If you don't have a DigiLocker account, click "Sign Up" and create one using your Aadhaar number (see our [DigiLocker guide](/guide/digilocker-nac-certificate-download) for details)
 5. **Authorize ABC** to access your DigiLocker account
 6. **Fill in your academic details:**
    - Select your institution (university/college)

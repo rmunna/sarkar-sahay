@@ -192,7 +192,7 @@ BPSC is considered Hindi medium-friendly. Study materials and answer writing in 
 - [MPPSC Exam Guide](/guide/mppsc-exam-guide) — Madhya Pradesh civil services
 - [RPSC RAS Exam Guide](/guide/rpsc-ras-exam-guide) — Rajasthan civil services
 - [Bihar Police Constable Exam Guide](/guide/bihar-police-constable-exam-guide) — Police recruitment in Bihar
-- [UPSC Exam Guide](/guide/upsc-exam-guide) — All-India civil services
+- [UPSC Exam Guide](/guide/upsc-civil-services-preparation-guide) — All-India civil services
 
 ## Frequently Asked Questions (FAQs)
 

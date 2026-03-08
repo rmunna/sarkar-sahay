@@ -186,7 +186,7 @@ Join a test series for both Prelims and Mains. Regular testing improves time man
 
 ## Related Guides
 
-- [UPSC Exam Guide](/guide/upsc-exam-guide) — For all-India civil services
+- [UPSC Exam Guide](/guide/upsc-civil-services-preparation-guide) — For all-India civil services
 - [BPSC PCS Exam Guide](/guide/bpsc-pcs-exam-guide) — Similar state PCS exam for Bihar
 - [MPPSC Exam Guide](/guide/mppsc-exam-guide) — Madhya Pradesh civil services exam
 - [UP Police Constable Exam Guide](/guide/up-police-constable-exam-guide) — Another popular UP government exam

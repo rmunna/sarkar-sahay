@@ -234,4 +234,4 @@ Physical answer books are scanned at designated CBSE centres. Every page, includ
 
 ---
 
-*Last updated: March 2026. For the latest information, visit [cbse.gov.in](https://www.cbse.gov.in). You may also find our [CBSE guide resources](/guide/cbse-single-girl-child-scholarship) helpful for other CBSE-related services.*
+*Last updated: March 2026. For the latest information, visit [cbse.gov.in](https://www.cbse.gov.in). You may also find our [CBSE guide resources](/guide/national-scholarship-portal-apply) helpful for other CBSE-related services.*

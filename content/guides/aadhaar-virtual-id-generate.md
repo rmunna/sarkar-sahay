@@ -96,14 +96,14 @@ You can revoke your current VID and generate a new one at any time. This is usef
 
 VID can be used anywhere Aadhaar number is accepted for authentication:
 
-- **[e-Aadhaar download](/guide/aadhaar-card-download)** — enter VID instead of Aadhaar number to download
+- **[e-Aadhaar download](/guide/aadhaar-card-download-online)** — enter VID instead of Aadhaar number to download
 - **[Masked Aadhaar download](/guide/aadhaar-masked-download)** — use VID for downloading
 - **[Offline KYC XML download](/guide/aadhaar-offline-kyc-xml)** — enter VID for extra privacy
 - **Bank KYC** — share VID for Aadhaar-based e-KYC
 - **Telecom KYC** — provide VID for SIM activation
 - **Government services** — DigiLocker, UMANG, and other services accept VID
 - **Mutual fund KYC** — via CAMS and KFintech
-- **[PAN-Aadhaar linking](/guide/pan-aadhaar-link)** — VID can be used on the income tax portal
+- **[PAN-Aadhaar linking](/guide/pan-aadhaar-link-failed-common-errors)** — VID can be used on the income tax portal
 
 ## VID vs Aadhaar Number vs Masked Aadhaar
 

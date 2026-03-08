@@ -25,7 +25,7 @@ officialLinks:
 
 # Voter ID for NRI: How to Register as Overseas Voter in India
 
-Indian citizens living abroad (NRIs) have the right to vote in Indian elections. Under the **Representation of the People (Amendment) Act, 2010**, overseas electors can register in the electoral roll of the constituency where their [passport](/guide/passport-apply-online-india) address falls. Registration is done through **Form 6A** (Application for Inclusion of Name in Electoral Roll by Overseas Elector).
+Indian citizens living abroad (NRIs) have the right to vote in Indian elections. Under the **Representation of the People (Amendment) Act, 2010**, overseas electors can register in the electoral roll of the constituency where their [passport](/guide/passport-apply-online) address falls. Registration is done through **Form 6A** (Application for Inclusion of Name in Electoral Roll by Overseas Elector).
 
 ## What is Overseas Voter Registration?
 

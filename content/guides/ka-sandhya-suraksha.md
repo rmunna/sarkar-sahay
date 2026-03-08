@@ -81,7 +81,7 @@ Sandhya Suraksha is the Karnataka government's **old age pension scheme** provid
 
 1. **Age Proof is Critical:** If you don't have a birth certificate, a school leaving certificate or voter ID mentioning age is accepted.
 2. **Aadhaar-Bank Linkage:** Ensure Aadhaar is linked to your bank account for uninterrupted DBT payments.
-3. **Life Certificate:** Pensioners must submit a **life certificate (Jeevan Pramaan)** annually to continue receiving the pension. See our [Jeevan Pramaan guide](/guide/jeevan-pramaan-life-certificate) for help.
+3. **Life Certificate:** Pensioners must submit a **life certificate (Jeevan Pramaan)** annually to continue receiving the pension. See our [Jeevan Pramaan guide](/guide/jeevan-pramaan-life-certificate-failed-fix) for help.
 4. **Nominee Details:** Provide a nominee at the time of application in case of the pensioner's demise.
 5. **Report Death:** Family members must report the pensioner's death to stop pension credits and avoid legal issues.
 

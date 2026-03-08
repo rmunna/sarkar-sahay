@@ -127,7 +127,7 @@ Fill the form with these details:
 - PPF transfer follows the same SB-10(b) process
 - All yearly contributions and interest records are transferred
 - Your PPF tenure and maturity date remain unchanged
-- See our [PPF guide](/guide/ppf-public-provident-fund) for more details
+- See our [PPF guide](/guide/ppf-public-provident-fund-account) for more details
 
 ### Transferring Joint Accounts
 

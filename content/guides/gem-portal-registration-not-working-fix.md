@@ -48,7 +48,7 @@ PAN verification is the first step in GeM seller registration. If it fails:
 2. **Match name exactly** — The name on GeM must match your PAN card letter-by-letter (including middle name, initials)
 3. **Date of birth must match** — For individuals, DOB must match PAN records exactly
 4. **Company PAN vs Personal PAN** — Sellers registering as a firm must use the firm's PAN (not personal PAN)
-5. **PAN-Aadhaar linking** — Ensure your PAN is linked to Aadhaar; unlinked PANs may cause verification failures. See our [PAN-Aadhaar linking guide](/guide/pan-aadhaar-link-online) for help
+5. **PAN-Aadhaar linking** — Ensure your PAN is linked to Aadhaar; unlinked PANs may cause verification failures. See our [PAN-Aadhaar linking guide](/guide/pan-aadhaar-link-failed-common-errors) for help
 
 If PAN is correct but still failing, wait 2-3 hours and retry — the NSDL/UTIITSL verification API may be temporarily down.
 

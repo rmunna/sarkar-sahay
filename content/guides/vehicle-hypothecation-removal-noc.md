@@ -141,7 +141,7 @@ Ensure the bank has completed Part B before you submit the form.
 2. **Keep copies** — Make photocopies of all documents before submitting originals to the RTO
 3. **Verify bank NOC** — Ensure the NOC mentions the correct vehicle registration number, chassis number, and engine number
 4. **Check RC update** — After processing, verify that your RC (physical and digital on mParivahan/DigiLocker) reflects the updated status
-5. **Selling the vehicle** — Remove hypothecation before attempting to sell or [transfer ownership](/guide/vehicle-registration-transfer) of the vehicle
+5. **Selling the vehicle** — Remove hypothecation before attempting to sell or [transfer ownership](/guide/vehicle-registration-certificate-transfer) of the vehicle
 
 ---
 

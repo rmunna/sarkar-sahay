@@ -188,4 +188,4 @@ NCS aggregates lakhs of job listings from across India, including government vac
 
 ---
 
-*For government exam preparation, see our [SSC exam guides](/guide/ssc-cgl-exam-guide). For skill development schemes, check our [PMKVY guide](/guide/pmkvy-skill-india).*
+*For government exam preparation, see our [SSC exam guides](/guide/ssc-exam-complete-guide). For skill development schemes, check our [PMKVY guide](/guide/skill-india-mission-pmkvy).*

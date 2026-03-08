@@ -304,4 +304,4 @@ Preparing for Karnataka government exams? Check out these helpful guides:
 - [Karnataka Government Schemes & Services](/guide/karnataka-government-schemes-services) — Overview of all state schemes
 - [Bhoomi Land Records Karnataka](/guide/bhoomi-land-records-karnataka) — Karnataka land record services
 - [How to Download Admit Card Online](/guide/admit-card-download-online-guide) — Step-by-step admit card download process
-- [SSC CGL Exam Guide](/guide/ssc-cgl-exam-guide) — Central government clerical exam alternative
+- [SSC CGL Exam Guide](/guide/ssc-exam-complete-guide) — Central government clerical exam alternative

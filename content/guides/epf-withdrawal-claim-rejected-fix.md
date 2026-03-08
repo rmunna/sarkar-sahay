@@ -59,7 +59,7 @@ Before troubleshooting, check your claim status to understand why it was rejecte
 4. If name doesn't match:
    - Check for spelling differences (e.g., "Raj Kumar" vs "Rajkumar")
    - Request your **employer** to correct the name in EPFO records via the employer portal
-   - Or update your Aadhaar name to match — see our [Aadhaar name change guide](/guide/aadhaar-name-change-online)
+   - Or update your Aadhaar name to match — see our [Aadhaar name change guide](/guide/aadhaar-name-correction-online)
 5. If DOB doesn't match:
    - Request employer to submit a **Joint Declaration (Form 5)** with correct DOB
    - Attach supporting documents (Aadhaar, PAN, 10th marksheet)

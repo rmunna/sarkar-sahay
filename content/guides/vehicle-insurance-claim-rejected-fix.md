@@ -198,4 +198,4 @@ Not if you inform your insurer and get the modification endorsed on your policy.
 ### Q7. How long does the ombudsman take to resolve a complaint?
 The Insurance Ombudsman typically passes an order within 3 months of receiving the complaint. The process is free and you don't need a lawyer.
 
-See our [driving licence guide](/guide/driving-licence-online-apply) for keeping your DL valid and up to date.
+See our [driving licence guide](/guide/driving-licence-renewal-online) for keeping your DL valid and up to date.

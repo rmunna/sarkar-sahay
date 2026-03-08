@@ -106,4 +106,4 @@ Apply for modification at [edistrict.delhigovt.nic.in](https://edistrict.delhigo
 
 ---
 
-*This guide is for informational purposes only and is not affiliated with the Government of Delhi. Visit [nfs.delhi.gov.in](https://nfs.delhi.gov.in) for official details. See our [Ration Card guide](/guide/ration-card-online-apply) for more help.*
+*This guide is for informational purposes only and is not affiliated with the Government of Delhi. Visit [nfs.delhi.gov.in](https://nfs.delhi.gov.in) for official details. See our [Ration Card guide](/guide/ration-card-apply-online) for more help.*

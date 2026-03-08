@@ -72,7 +72,7 @@ You can also call the **EPFO helpline: 1800-118-005** for claim status details.
 2. **To correct name in EPF records:**
    - Submit a **Joint Declaration (Form-1)** signed by you and your employer to the EPFO field office
    - Attach supporting proof (Aadhaar, PAN, passport)
-3. **To correct name in Aadhaar:** Visit [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in/) — see our [Aadhaar correction guide](/guide/aadhaar-name-change-online)
+3. **To correct name in Aadhaar:** Visit [myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in/) — see our [Aadhaar correction guide](/guide/aadhaar-name-correction-online)
 4. **To correct name in PAN:** Apply on [NSDL](https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html) or [UTIITSL](https://www.pan.utiitsl.com/)
 5. Once all names match, update KYC on the EPFO portal and resubmit
 

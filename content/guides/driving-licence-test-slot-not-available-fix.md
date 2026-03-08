@@ -128,7 +128,7 @@ Keep these ready once you book your slot:
 - **Medical certificate** (Form 1A) if applicable
 - **Vehicle** for the driving test (your own or from a driving school)
 
-See our [driving licence guide](/guide/driving-licence-online-apply) for the complete DL application process.
+See our [driving licence guide](/guide/driving-licence-renewal-online) for the complete DL application process.
 
 ---
 

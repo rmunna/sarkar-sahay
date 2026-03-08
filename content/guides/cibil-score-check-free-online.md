@@ -193,7 +193,7 @@ For business loans, lenders check both the owner's personal CIBIL score and the 
 - [Loan Rejected Due to Low CIBIL Score? What to Do Next](/guide/loan-rejected-low-cibil-fix)
 - [CIBIL Score After Loan Settlement: Impact & How to Fix](/guide/cibil-score-after-loan-settlement)
 - [PAN Card Apply Online](/guide/pan-card-apply-online)
-- [Income Tax Return Filing Guide](/guide/income-tax-return-filing-online)
+- [Income Tax Return Filing Guide](/guide/income-tax-return-file-online)
 
 ---
 

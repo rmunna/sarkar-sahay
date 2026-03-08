@@ -74,7 +74,7 @@ The **Sikkim Widow Pension** provides monthly financial support to widowed women
 **A:** Generally, **only one pension** is provided under NSAP. You can choose whichever gives a higher benefit.
 
 ### Q2: What if I don't have my husband's death certificate?
-**A:** You must obtain it. Visit the **Municipal Office or Gram Panchayat** where the death was registered. See our guide on [death certificate](/guide/death-certificate-online-apply) for help.
+**A:** You must obtain it. Visit the **Municipal Office or Gram Panchayat** where the death was registered. See our guide on [death certificate](/guide/death-certificate-apply-online) for help.
 
 ### Q3: Is there an age limit?
 **A:** Under IGNWPS, the age range is **40-79 years**. Widows aged 80+ may shift to the old age pension scheme for a higher amount.

@@ -207,5 +207,5 @@ Approach the **Divisional Superintendent** of India Post for that area. They wil
 - [Sukanya Samriddhi Yojana — Complete Guide](/guide/sukanya-samriddhi-yojana-account-guide)
 - [How to Check SSY Account Balance](/guide/sukanya-samriddhi-balance-check)
 - [SSY vs Fixed Deposit — Which is Better?](/guide/sukanya-samriddhi-vs-fixed-deposit-comparison)
-- [Post Office Savings Schemes Guide](/guide/post-office-savings-schemes-guide)
-- [PPF Account Guide](/guide/ppf-account-guide)
+- [Post Office Savings Schemes Guide](/guide/post-office-savings-schemes)
+- [PPF Account Guide](/guide/ppf-account-open-guide)

@@ -144,7 +144,7 @@ After buying property or inheritance, you need to transfer the Patta:
 ## Related Guides
 
 - For Aadhaar linking, see our [Aadhaar card guide](/guide/aadhaar-card-apply-online)
-- Check [property registration in India](/guide/property-registration-online-india) for registration process
+- Check [property registration in India](/guide/property-registration-online-guide) for registration process
 
 ## FAQs
 

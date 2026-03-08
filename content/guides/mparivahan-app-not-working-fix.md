@@ -110,7 +110,7 @@ If mParivahan is consistently not working, you can use **DigiLocker** as an alte
 4. Pull your **Driving Licence** and **Vehicle Registration Certificate**
 5. These documents are legally valid as per the IT Act, 2000
 
-See our [DigiLocker guide](/guide/digilocker-account-setup) for detailed setup instructions.
+See our [DigiLocker guide](/guide/digilocker-advanced-features) for detailed setup instructions.
 
 ## Important Tips
 

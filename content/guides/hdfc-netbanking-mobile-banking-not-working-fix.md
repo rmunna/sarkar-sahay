@@ -285,7 +285,7 @@ After adding a beneficiary, there's a cooling period: **30 minutes for IMPS** an
 
 ### Q9. HDFC UPI is not working. How to fix it?
 
-Ensure your UPI PIN is correct (3 wrong attempts block UPI). Reset UPI PIN via the HDFC MobileBanking app. Also check if your daily UPI limit (₹1 lakh) has been reached. See our [UPI guide](/guide/upi-payment-not-working-fix) for general UPI troubleshooting.
+Ensure your UPI PIN is correct (3 wrong attempts block UPI). Reset UPI PIN via the HDFC MobileBanking app. Also check if your daily UPI limit (₹1 lakh) has been reached. See our [UPI guide](/guide/upi-payment-failed-money-debited-refund-fix) for general UPI troubleshooting.
 
 ### Q10. Is there a way to increase HDFC NetBanking transaction limits?
 

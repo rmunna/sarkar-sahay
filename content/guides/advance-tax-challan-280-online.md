@@ -134,7 +134,7 @@ If you don't pay advance tax or pay less than required:
 2. **Calculate tax** as per applicable slab rates
 3. **Subtract TDS** already deducted or expected to be deducted
 4. If remaining tax > ₹10,000, pay advance tax in quarterly instalments
-5. Use the [Income Tax Calculator](/guide/income-tax-calculator-india) or any online advance tax calculator
+5. Use the [Income Tax Calculator](/guide/income-tax-slab-rates-guide) or any online advance tax calculator
 
 ## Important Tips
 

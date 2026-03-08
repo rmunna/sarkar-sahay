@@ -187,7 +187,7 @@ Read Dainik Jagran (Haryana edition) and follow Haryana Budget, Panchayati Raj n
 
 ## Related Guides
 
-- [UPSC Civil Services Guide](/guide/upsc-civil-services-exam-guide) — All-India civil services exam
+- [UPSC Civil Services Guide](/guide/upsc-civil-services-preparation-guide) — All-India civil services exam
 - [GPSC Exam Guide](/guide/gpsc-exam-guide) — Gujarat state civil services
 - [UKPSC Exam Guide](/guide/ukpsc-exam-guide) — Uttarakhand state civil services
 

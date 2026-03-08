@@ -149,7 +149,7 @@ Telangana has moved property registration to the Dharani portal:
 
 - See our [Meebhoomi AP guide](/guide/andhra-pradesh-meebhoomi) for Andhra Pradesh land records
 - Check our [Aadhaar card guide](/guide/aadhaar-card-apply-online) for Aadhaar services
-- For encumbrance certificates in other states, see our [property registration guide](/guide/property-registration-online-india)
+- For encumbrance certificates in other states, see our [property registration guide](/guide/property-registration-online-guide)
 
 ## FAQs
 

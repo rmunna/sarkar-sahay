@@ -143,7 +143,7 @@ If your turnover exceeds the threshold or you wish to switch to regular scheme:
 
 ## Related Guides
 
-- [GST Registration Online Guide](/guide/gst-registration-online-guide)
+- [GST Registration Online Guide](/guide/gst-registration-online)
 - [GSTR-9 Annual Return Filing Guide](/guide/gst-annual-return-gstr9-guide)
 - [E-Way Bill Generate Online Guide](/guide/gst-e-way-bill-generate-guide)
 

@@ -188,7 +188,7 @@ Visit a CSC centre with your Aadhaar card. The CSC operator can update your mobi
 ## Related Guides
 
 - [Aadhaar Card Apply Online](/guide/aadhaar-card-apply-online) — New Aadhaar application process
-- [PM Kisan Status Check](/guide/pm-kisan-status-check) — Check PM Kisan payment status
+- [PM Kisan Status Check](/guide/pm-kisan-status-check-beneficiary-list) — Check PM Kisan payment status
 - [Ration Card Apply Online](/guide/ration-card-apply-online) — Apply for new ration card
 
 ---

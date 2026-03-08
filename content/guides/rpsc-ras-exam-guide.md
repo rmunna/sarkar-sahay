@@ -182,8 +182,8 @@ Regular mock tests for both Prelims and Mains help with time management, revisio
 - [UPPSC PCS Exam Guide](/guide/uppsc-pcs-exam-guide) — UP state civil services
 - [BPSC PCS Exam Guide](/guide/bpsc-pcs-exam-guide) — Bihar state civil services
 - [MPPSC Exam Guide](/guide/mppsc-exam-guide) — Madhya Pradesh civil services
-- [UPSC Exam Guide](/guide/upsc-exam-guide) — All-India civil services
-- [SSC CGL Exam Guide](/guide/ssc-cgl-exam-guide) — Central government graduate-level exam
+- [UPSC Exam Guide](/guide/upsc-civil-services-preparation-guide) — All-India civil services
+- [SSC CGL Exam Guide](/guide/ssc-exam-complete-guide) — Central government graduate-level exam
 
 ## Frequently Asked Questions (FAQs)
 

@@ -72,7 +72,7 @@ Need to enrol for a new [Aadhaar card](/guide/aadhaar-card-apply-online), update
 - **New Aadhaar enrolment** — for first-time applicants including children
 - **Demographic update** — name, address, date of birth, gender, mobile, email
 - **Biometric update** — fingerprints, iris, photo
-- **[Baal Aadhaar](/guide/baal-aadhaar-card-apply)** — Aadhaar for children under 5 years
+- **[Baal Aadhaar](/guide/baal-aadhaar-child-aadhaar-card)** — Aadhaar for children under 5 years
 - **Mandatory biometric update** — UIDAI recommends updating biometrics every 10 years
 
 ## Charges at Aadhaar Centres

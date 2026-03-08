@@ -212,8 +212,8 @@ Related guide: [One Nation One Ration Card (ONORC) — How It Works](/guide/one-
 
 - [How to Apply for a Ration Card Online](/guide/ration-card-apply-online)
 - [One Nation One Ration Card (ONORC) — How It Works](/guide/one-nation-one-ration-card)
-- [How to Check Ration Card Status Online](/guide/ration-card-status-check)
-- [Income Certificate — How to Apply](/guide/income-certificate-apply)
+- [How to Check Ration Card Status Online](/guide/ration-card-status-check-download)
+- [Income Certificate — How to Apply](/guide/income-certificate-apply-online)
 
 ---
 

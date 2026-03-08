@@ -110,7 +110,7 @@ Once you have identified or recovered your active Aadhaar, update it in:
 - **Gas connection (LPG)** — Update via distributor
 - **Government schemes** — Update at the relevant department
 
-See our [Aadhaar-PAN link guide](/guide/pan-aadhaar-link-status-online) for relinking after Aadhaar changes.
+See our [Aadhaar-PAN link guide](/guide/pan-aadhaar-link-failed-common-errors) for relinking after Aadhaar changes.
 
 ## Important Tips
 

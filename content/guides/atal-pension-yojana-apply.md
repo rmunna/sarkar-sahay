@@ -144,4 +144,4 @@ You can check your APY balance through your **bank's net banking**, the **UMANG 
 
 ---
 
-*See our [PAN card guide](/guide/pan-card-apply-online) for more details on PAN requirements. For other government savings schemes, check our guides on [Income Tax Filing](/guide/income-tax-return-filing-online).*
+*See our [PAN card guide](/guide/pan-card-apply-online) for more details on PAN requirements. For other government savings schemes, check our guides on [Income Tax Filing](/guide/income-tax-return-file-online).*

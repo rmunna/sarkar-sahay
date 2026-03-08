@@ -1,237 +1,177 @@
 {
-  "scannedAt": "2026-03-06T19:35:35.453892",
+  "scannedAt": "2026-03-08T18:05:53.556495",
   "results": [
     {
-      "topic": "ssc hall ticket download 2026 ap",
+      "topic": "ap ssc hall ticket download 2026",
       "category": "Jobs",
-      "rising_value": 3850,
+      "rising_value": 3350,
       "guide_exists": "ssc-exam-apply-hall-ticket"
     },
     {
       "topic": "samastha public exam result 2026",
       "category": "Jobs",
-      "rising_value": 2650,
+      "rising_value": 2250,
       "guide_exists": "samastha-public-exam-result-2026"
-    },
-    {
-      "topic": "cbse board exams middle east class 10",
-      "category": "Jobs",
-      "rising_value": 1300,
-      "guide_exists": "cbse-board-exam-admit-card-fix"
-    },
-    {
-      "topic": "sarkari job marg",
-      "category": "Jobs",
-      "rising_value": 750,
-      "guide_exists": null
-    },
-    {
-      "topic": "sainik school result 2026",
-      "category": "Jobs",
-      "rising_value": 750,
-      "guide_exists": "sainik-school-aissee-result-2026"
     },
     {
       "topic": "upsc result 2025",
       "category": "Jobs",
-      "rising_value": 750,
+      "rising_value": 1300,
       "guide_exists": null
-    },
-    {
-      "topic": "ca final result",
-      "category": "Jobs",
-      "rising_value": 600,
-      "guide_exists": null
-    },
-    {
-      "topic": "icai result jan 2026",
-      "category": "Jobs",
-      "rising_value": 550,
-      "guide_exists": null
-    },
-    {
-      "topic": "icai result",
-      "category": "Jobs",
-      "rising_value": 550,
-      "guide_exists": null
-    },
-    {
-      "topic": "cuet pg 2026 admit card",
-      "category": "Jobs",
-      "rising_value": 500,
-      "guide_exists": "cuet-pg-2026-admit-card"
-    },
-    {
-      "topic": "kvs nvs result",
-      "category": "Jobs",
-      "rising_value": 350,
-      "guide_exists": "kvs-nvs-recruitment-result-2026"
-    },
-    {
-      "topic": "kvs nvs result 2026",
-      "category": "Jobs",
-      "rising_value": 350,
-      "guide_exists": "kvs-nvs-recruitment-result-2026"
     },
     {
       "topic": "upsc result",
       "category": "Jobs",
-      "rising_value": 300,
+      "rising_value": 750,
       "guide_exists": null
-    },
-    {
-      "topic": "madras university result",
-      "category": "Jobs",
-      "rising_value": 250,
-      "guide_exists": "madras-university-result-2026"
     },
     {
       "topic": "upsc result 2026",
       "category": "Jobs",
-      "rising_value": 200,
+      "rising_value": 650,
       "guide_exists": null
     },
     {
-      "topic": "kvs",
+      "topic": "cuet pg admit card",
       "category": "Jobs",
-      "rising_value": 190,
-      "guide_exists": null
+      "rising_value": 450,
+      "guide_exists": "cuet-pg-2026-admit-card"
     },
     {
-      "topic": "vtu results",
+      "topic": "cuet pg 2026 admit card",
+      "category": "Jobs",
+      "rising_value": 450,
+      "guide_exists": "cuet-pg-2026-admit-card"
+    },
+    {
+      "topic": "ca inter result",
       "category": "Jobs",
       "rising_value": 180,
       "guide_exists": null
     },
     {
-      "topic": "icai",
+      "topic": "vtu results",
       "category": "Jobs",
       "rising_value": 170,
       "guide_exists": null
     },
     {
-      "topic": "examinfo",
+      "topic": "ca inter result jan 2026",
       "category": "Jobs",
-      "rising_value": 140,
+      "rising_value": 170,
+      "guide_exists": null
+    },
+    {
+      "topic": "neet application form 2026",
+      "category": "Jobs",
+      "rising_value": 100,
+      "guide_exists": "neet-ug-application-form-errors-fix"
+    },
+    {
+      "topic": "rrb ntpc",
+      "category": "Jobs",
+      "rising_value": 80,
+      "guide_exists": "rrb-ntpc-exam-guide"
+    },
+    {
+      "topic": "sarkari vle",
+      "category": "Jobs",
+      "rising_value": 60,
+      "guide_exists": null
+    },
+    {
+      "topic": "chart vacancy",
+      "category": "Jobs",
+      "rising_value": 50,
       "guide_exists": null
     }
   ],
   "opportunities": [
     {
-      "topic": "sarkari job marg",
-      "category": "Jobs",
-      "rising_value": 750,
-      "guide_exists": null
-    },
-    {
       "topic": "upsc result 2025",
       "category": "Jobs",
-      "rising_value": 750,
-      "guide_exists": null
-    },
-    {
-      "topic": "ca final result",
-      "category": "Jobs",
-      "rising_value": 600,
-      "guide_exists": null
-    },
-    {
-      "topic": "icai result jan 2026",
-      "category": "Jobs",
-      "rising_value": 550,
-      "guide_exists": null
-    },
-    {
-      "topic": "icai result",
-      "category": "Jobs",
-      "rising_value": 550,
+      "rising_value": 1300,
       "guide_exists": null
     },
     {
       "topic": "upsc result",
       "category": "Jobs",
-      "rising_value": 300,
+      "rising_value": 750,
       "guide_exists": null
     },
     {
       "topic": "upsc result 2026",
       "category": "Jobs",
-      "rising_value": 200,
+      "rising_value": 650,
       "guide_exists": null
     },
     {
-      "topic": "kvs",
-      "category": "Jobs",
-      "rising_value": 190,
-      "guide_exists": null
-    },
-    {
-      "topic": "vtu results",
+      "topic": "ca inter result",
       "category": "Jobs",
       "rising_value": 180,
       "guide_exists": null
     },
     {
-      "topic": "icai",
+      "topic": "vtu results",
       "category": "Jobs",
       "rising_value": 170,
       "guide_exists": null
     },
     {
-      "topic": "examinfo",
+      "topic": "ca inter result jan 2026",
       "category": "Jobs",
-      "rising_value": 140,
+      "rising_value": 170,
+      "guide_exists": null
+    },
+    {
+      "topic": "sarkari vle",
+      "category": "Jobs",
+      "rising_value": 60,
+      "guide_exists": null
+    },
+    {
+      "topic": "chart vacancy",
+      "category": "Jobs",
+      "rising_value": 50,
       "guide_exists": null
     }
   ],
   "covered": [
     {
-      "topic": "ssc hall ticket download 2026 ap",
+      "topic": "ap ssc hall ticket download 2026",
       "category": "Jobs",
-      "rising_value": 3850,
+      "rising_value": 3350,
       "guide_exists": "ssc-exam-apply-hall-ticket"
     },
     {
       "topic": "samastha public exam result 2026",
       "category": "Jobs",
-      "rising_value": 2650,
+      "rising_value": 2250,
       "guide_exists": "samastha-public-exam-result-2026"
     },
     {
-      "topic": "cbse board exams middle east class 10",
+      "topic": "cuet pg admit card",
       "category": "Jobs",
-      "rising_value": 1300,
-      "guide_exists": "cbse-board-exam-admit-card-fix"
-    },
-    {
-      "topic": "sainik school result 2026",
-      "category": "Jobs",
-      "rising_value": 750,
-      "guide_exists": "sainik-school-aissee-result-2026"
+      "rising_value": 450,
+      "guide_exists": "cuet-pg-2026-admit-card"
     },
     {
       "topic": "cuet pg 2026 admit card",
       "category": "Jobs",
-      "rising_value": 500,
+      "rising_value": 450,
       "guide_exists": "cuet-pg-2026-admit-card"
     },
     {
-      "topic": "kvs nvs result",
+      "topic": "neet application form 2026",
       "category": "Jobs",
-      "rising_value": 350,
-      "guide_exists": "kvs-nvs-recruitment-result-2026"
+      "rising_value": 100,
+      "guide_exists": "neet-ug-application-form-errors-fix"
     },
     {
-      "topic": "kvs nvs result 2026",
+      "topic": "rrb ntpc",
       "category": "Jobs",
-      "rising_value": 350,
-      "guide_exists": "kvs-nvs-recruitment-result-2026"
-    },
-    {
-      "topic": "madras university result",
-      "category": "Jobs",
-      "rising_value": 250,
-      "guide_exists": "madras-university-result-2026"
+      "rising_value": 80,
+      "guide_exists": "rrb-ntpc-exam-guide"
     }
   ]
 }

@@ -89,7 +89,7 @@ If you cannot link your driving licence to DigiLocker through UMANG:
 5. **DL must exist in Parivahan database** — If your DL is not on Parivahan, it won't be available on DigiLocker either
 6. **Try after DL database update** — Some states update DigiLocker data periodically (weekly or monthly)
 
-> See our [DigiLocker guide](/guide/digilocker-account-create-online) for detailed instructions on setting up and using DigiLocker.
+> See our [DigiLocker guide](/guide/digilocker-nac-certificate-download) for detailed instructions on setting up and using DigiLocker.
 
 ---
 

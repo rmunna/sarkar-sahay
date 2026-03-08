@@ -100,7 +100,7 @@ Section 80C of the Income Tax Act is the most popular tax-saving provision in In
 ### 11. National Pension System (NPS) — Section 80CCD(1)
 - **Employee contribution** up to 10% of salary qualifies under 80C limit
 - **Additional ₹50,000** deduction under Section 80CCD(1B) — over and above ₹1.5 lakh
-- See our [NPS guide](/guide/nps-national-pension-system) for details
+- See our [NPS guide](/guide/nps-national-pension-system-account) for details
 
 ### 12. Unit Linked Insurance Plan (ULIP)
 - **Lock-in:** 5 years

@@ -87,7 +87,7 @@ India has a comprehensive network of toll-free helpline numbers for emergencies,
 
 **139** is the all-in-one railway helpline. You can check PNR status, train running status, file complaints, and get information by pressing the relevant option.
 
-Also see: [Train ticket booking guide](/guide/irctc-train-ticket-booking)
+Also see: [Train ticket booking guide](/guide/irctc-train-ticket-pnr-status)
 
 ---
 
@@ -100,7 +100,7 @@ Also see: [Train ticket booking guide](/guide/irctc-train-ticket-booking)
 
 **Passport Seva Helpline** helps with appointment booking issues, application status, document queries, and grievances related to passport services.
 
-Also see: [Passport apply online guide](/guide/passport-apply-online-india)
+Also see: [Passport apply online guide](/guide/passport-apply-online)
 
 ---
 
@@ -115,7 +115,7 @@ Also see: [Passport apply online guide](/guide/passport-apply-online-india)
 | **1800-222-990** | GST Helpdesk |
 | **155260** | Cyber Financial Fraud (report within golden hour) |
 
-Also see: [ITR filing guide](/guide/income-tax-return-filing-online) | [PAN card guide](/guide/pan-card-apply-online)
+Also see: [ITR filing guide](/guide/income-tax-return-file-online) | [PAN card guide](/guide/pan-card-apply-online)
 
 ---
 
@@ -129,7 +129,7 @@ Also see: [ITR filing guide](/guide/income-tax-return-filing-online) | [PAN card
 
 Use the EPFO helpline for PF balance enquiry, withdrawal status, UAN activation, KYC update, and pension queries.
 
-Also see: [PF withdrawal guide](/guide/epf-withdrawal-online)
+Also see: [PF withdrawal guide](/guide/epf-withdrawal-online-guide)
 
 ---
 
@@ -168,7 +168,7 @@ Also see: [Consumer complaint guide](/guide/consumer-complaint-online)
 | **1800-180-6622** | Vahan/Sarathi (Driving Licence, RC) |
 | **1800-115-526** | FASTag Helpline |
 
-Also see: [Driving licence guide](/guide/driving-licence-apply-online)
+Also see: [Driving licence guide](/guide/driving-licence-renewal-online)
 
 ---
 

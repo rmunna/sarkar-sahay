@@ -197,7 +197,7 @@ No. Only **Madhya Pradesh domicile** women are eligible.
 
 ### 8. What happens if I turn 60 while receiving benefits?
 
-Your benefits will **stop** once you cross the age of 60. You may then be eligible for other pension schemes like [Indira Gandhi National Old Age Pension](/guide/old-age-pension-scheme).
+Your benefits will **stop** once you cross the age of 60. You may then be eligible for other pension schemes like [Indira Gandhi National Old Age Pension](/guide/old-age-pension-apply-online).
 
 ---
 

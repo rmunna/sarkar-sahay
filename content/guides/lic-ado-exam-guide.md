@@ -250,8 +250,8 @@ LIC ADO postings are **division-based**. Candidates may be posted in the divisio
 
 - [LIC AAO Exam Guide](/guide/lic-aao-exam-guide) — Assistant Administrative Officer recruitment
 - [NIACL AO Exam Guide](/guide/niacl-ao-exam-guide) — New India Assurance Company recruitment
-- [SSC CGL Exam Guide](/guide/ssc-cgl-exam-guide) — Staff Selection Commission Combined Graduate Level
-- [IBPS PO Exam Guide](/guide/ibps-po-exam-guide) — Institute of Banking Personnel Selection
+- [SSC CGL Exam Guide](/guide/ssc-exam-complete-guide) — Staff Selection Commission Combined Graduate Level
+- [IBPS PO Exam Guide](/guide/ibps-so-exam-guide) — Institute of Banking Personnel Selection
 
 ---
 

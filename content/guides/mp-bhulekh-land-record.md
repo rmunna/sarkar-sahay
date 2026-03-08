@@ -129,7 +129,7 @@ To search any district, simply select it from the dropdown on the MP Bhulekh por
 ## Related Guides
 
 - Check our [Bhulekh UP guide](/guide/bhulekh-up-land-record) for Uttar Pradesh land records
-- For property registration, see our [property registration guide](/guide/property-registration-online-india)
+- For property registration, see our [property registration guide](/guide/property-registration-online-guide)
 
 ## FAQs
 

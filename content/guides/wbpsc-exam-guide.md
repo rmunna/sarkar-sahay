@@ -197,7 +197,7 @@ Solve last 10 years' WBCS papers. Take full-length mock tests to build speed and
 
 ## Related Guides
 
-- [UPSC Civil Services Guide](/guide/upsc-civil-services-exam-guide) — All-India civil services
+- [UPSC Civil Services Guide](/guide/upsc-civil-services-preparation-guide) — All-India civil services
 - [KPSC Exam Guide](/guide/kpsc-exam-guide) — Karnataka state civil services
 - [Banking Exam Preparation Guide](/guide/banking-exam-preparation-guide) — Banking sector jobs
 

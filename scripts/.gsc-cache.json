@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-03-06T15:40:28.966Z",
+  "timestamp": "2026-03-07T04:38:55.156Z",
   "siteUrl": "sc-domain:citizennest.com",
   "ranges": [
     {
-      "label": "Last 7 days",
-      "days": 7,
-      "startDate": "2026-02-25",
-      "endDate": "2026-03-04",
-      "clicks": 289,
-      "impressions": 61782,
-      "ctr": 0.004677737852448933,
-      "position": 10.900310770127222
+      "label": "Last 28 days",
+      "days": 28,
+      "startDate": "2026-02-05",
+      "endDate": "2026-03-05",
+      "clicks": 461,
+      "impressions": 77650,
+      "ctr": 0.005936896329684482,
+      "position": 10.491062459755312
     }
   ],
   "topPages": [
@@ -18,10 +18,28 @@
       "keys": [
         "https://www.citizennest.com/guide/voter-id-application-rejected-fix"
       ],
-      "clicks": 98,
-      "impressions": 2520,
-      "ctr": 0.03888888888888889,
-      "position": 5.920238095238095
+      "clicks": 168,
+      "impressions": 3972,
+      "ctr": 0.04229607250755287,
+      "position": 5.861027190332326
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/shakti-free-bus-karnataka"
+      ],
+      "clicks": 50,
+      "impressions": 2384,
+      "ctr": 0.02097315436241611,
+      "position": 8.085989932885905
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/voter-id-download-not-working-fix"
+      ],
+      "clicks": 27,
+      "impressions": 1514,
+      "ctr": 0.0178335535006605,
+      "position": 5.809114927344782
     },
     {
       "keys": [
@@ -34,21 +52,12 @@
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/voter-id-download-not-working-fix"
-      ],
-      "clicks": 24,
-      "impressions": 1073,
-      "ctr": 0.022367194780987885,
-      "position": 5.907735321528425
-    },
-    {
-      "keys": [
         "https://www.citizennest.com/guide/irctc-account-login-problems-fix"
       ],
-      "clicks": 16,
-      "impressions": 18120,
-      "ctr": 0.0008830022075055188,
-      "position": 5.451600441501104
+      "clicks": 19,
+      "impressions": 19128,
+      "ctr": 0.0009933082392304476,
+      "position": 5.595462149728148
     },
     {
       "keys": [
@@ -61,30 +70,75 @@
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/upsc-vs-state-psc-comparison"
+        "https://www.citizennest.com/guide/pan-card-not-received-by-post-fix"
       ],
-      "clicks": 6,
-      "impressions": 1265,
-      "ctr": 0.0047430830039525695,
-      "position": 6.259288537549407
+      "clicks": 8,
+      "impressions": 477,
+      "ctr": 0.016771488469601678,
+      "position": 8.59119496855346
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/aadhaar-otp-not-received-fix"
+        "https://www.citizennest.com/guide/upsc-vs-state-psc-comparison"
       ],
-      "clicks": 4,
-      "impressions": 1186,
-      "ctr": 0.003372681281618887,
-      "position": 8.86256323777403
+      "clicks": 8,
+      "impressions": 1800,
+      "ctr": 0.0044444444444444444,
+      "position": 6.785
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/birth-certificate-correction-rejected-fix"
       ],
+      "clicks": 7,
+      "impressions": 416,
+      "ctr": 0.016826923076923076,
+      "position": 5.882211538461538
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/driving-licence-slot-not-available-fix"
+      ],
+      "clicks": 6,
+      "impressions": 578,
+      "ctr": 0.010380622837370242,
+      "position": 7.546712802768166
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/kpsc-fda-sda-exam-guide"
+      ],
+      "clicks": 6,
+      "impressions": 790,
+      "ctr": 0.007594936708860759,
+      "position": 5.118987341772152
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-otp-not-received-fix"
+      ],
+      "clicks": 5,
+      "impressions": 1844,
+      "ctr": 0.0027114967462039045,
+      "position": 8.851409978308027
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/character-certificate-apply"
+      ],
+      "clicks": 5,
+      "impressions": 854,
+      "ctr": 0.00585480093676815,
+      "position": 10.475409836065573
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-vs-voter-id-vs-passport-id-proof"
+      ],
       "clicks": 4,
-      "impressions": 240,
-      "ctr": 0.016666666666666666,
-      "position": 6.433333333333334
+      "impressions": 126,
+      "ctr": 0.031746031746031744,
+      "position": 6.595238095238095
     },
     {
       "keys": [
@@ -97,15 +151,6 @@
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/character-certificate-apply"
-      ],
-      "clicks": 4,
-      "impressions": 566,
-      "ctr": 0.007067137809187279,
-      "position": 10.931095406360424
-    },
-    {
-      "keys": [
         "https://www.citizennest.com/guide/domicile-certificate-rejected-fix"
       ],
       "clicks": 4,
@@ -115,30 +160,21 @@
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/driving-licence-slot-not-available-fix"
-      ],
-      "clicks": 4,
-      "impressions": 332,
-      "ctr": 0.012048192771084338,
-      "position": 7.704819277108434
-    },
-    {
-      "keys": [
         "https://www.citizennest.com/guide/scholarship-payment-not-received-fix"
       ],
       "clicks": 4,
-      "impressions": 585,
-      "ctr": 0.006837606837606838,
-      "position": 5.967521367521368
+      "impressions": 586,
+      "ctr": 0.006825938566552901,
+      "position": 5.979522184300341
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/wbpsc-exam-guide"
       ],
       "clicks": 4,
-      "impressions": 446,
-      "ctr": 0.008968609865470852,
-      "position": 2.692825112107623
+      "impressions": 509,
+      "ctr": 0.007858546168958742,
+      "position": 3.56385068762279
     },
     {
       "keys": [
@@ -160,12 +196,21 @@
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/aadhaar-vs-voter-id-vs-passport-id-proof"
+        "https://www.citizennest.com/guide/digilocker-aadhaar-verification-failed-fix"
       ],
       "clicks": 3,
-      "impressions": 89,
-      "ctr": 0.033707865168539325,
-      "position": 6.235955056179775
+      "impressions": 2636,
+      "ctr": 0.0011380880121396055,
+      "position": 7.15288315629742
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/hp-mukhyamantri-swavalamban-yojana"
+      ],
+      "clicks": 3,
+      "impressions": 97,
+      "ctr": 0.030927835051546393,
+      "position": 7.814432989690721
     },
     {
       "keys": [
@@ -193,9 +238,1593 @@
       "impressions": 346,
       "ctr": 0.008670520231213872,
       "position": 8.30635838150289
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ration-card-name-not-updated-fix"
+      ],
+      "clicks": 3,
+      "impressions": 571,
+      "ctr": 0.005253940455341506,
+      "position": 6.309982486865149
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ration-card-surrender-cancel"
+      ],
+      "clicks": 3,
+      "impressions": 353,
+      "ctr": 0.0084985835694051,
+      "position": 6.960339943342777
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/sbi-fd-vs-post-office-fd-comparison"
+      ],
+      "clicks": 3,
+      "impressions": 180,
+      "ctr": 0.016666666666666666,
+      "position": 8.277777777777779
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/hi/guide/mudra-loan-status-check"
+      ],
+      "clicks": 3,
+      "impressions": 42,
+      "ctr": 0.07142857142857142,
+      "position": 14.30952380952381
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-biometric-verification-failed-fix"
+      ],
+      "clicks": 2,
+      "impressions": 939,
+      "ctr": 0.002129925452609159,
+      "position": 8.906283280085198
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/commercial-electricity-connection-apply"
+      ],
+      "clicks": 2,
+      "impressions": 24,
+      "ctr": 0.08333333333333333,
+      "position": 8.833333333333332
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/digilocker-document-not-showing-fix"
+      ],
+      "clicks": 2,
+      "impressions": 297,
+      "ctr": 0.006734006734006734,
+      "position": 5.801346801346801
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/jio-fiber-airtel-broadband"
+      ],
+      "clicks": 2,
+      "impressions": 774,
+      "ctr": 0.002583979328165375,
+      "position": 8.364341085271317
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/land-records-website-not-loading-fix"
+      ],
+      "clicks": 2,
+      "impressions": 266,
+      "ctr": 0.007518796992481203,
+      "position": 5.62781954887218
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/nrega-job-card-apply-download"
+      ],
+      "clicks": 2,
+      "impressions": 101,
+      "ctr": 0.019801980198019802,
+      "position": 17.128712871287128
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/passport-appointment-not-available-fix"
+      ],
+      "clicks": 2,
+      "impressions": 343,
+      "ctr": 0.0058309037900874635,
+      "position": 8.166180758017493
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ration-card-portability-not-working-fix"
+      ],
+      "clicks": 2,
+      "impressions": 457,
+      "ctr": 0.00437636761487965,
+      "position": 6.7986870897155365
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/tatkal-passport-apply-fees-process"
+      ],
+      "clicks": 2,
+      "impressions": 132,
+      "ctr": 0.015151515151515152,
+      "position": 58.02272727272727
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/telangana-rythu-bandhu-scheme"
+      ],
+      "clicks": 2,
+      "impressions": 344,
+      "ctr": 0.005813953488372093,
+      "position": 8.357558139534884
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/umang-app-not-working-fix"
+      ],
+      "clicks": 2,
+      "impressions": 297,
+      "ctr": 0.006734006734006734,
+      "position": 6.892255892255892
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/up-free-laptop-tablet-yojana"
+      ],
+      "clicks": 2,
+      "impressions": 37,
+      "ctr": 0.05405405405405406,
+      "position": 6.648648648648648
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/update/army-afms-mo-2026-notification"
+      ],
+      "clicks": 2,
+      "impressions": 43,
+      "ctr": 0.046511627906976744,
+      "position": 4.534883720930233
+    },
+    {
+      "keys": [
+        "https://citizennest.com/"
+      ],
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/"
+      ],
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1.25
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/banglar-yuva-sathi-scheme-west-bengal"
+      ],
+      "clicks": 1,
+      "impressions": 449,
+      "ctr": 0.0022271714922048997,
+      "position": 11.280623608017818
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bhoomi-land-records-karnataka"
+      ],
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 7.2
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bonafide-certificate-apply-online"
+      ],
+      "clicks": 1,
+      "impressions": 102,
+      "ctr": 0.00980392156862745,
+      "position": 11.637254901960784
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/broadband-bsnl-apply"
+      ],
+      "clicks": 1,
+      "impressions": 143,
+      "ctr": 0.006993006993006993,
+      "position": 10.818181818181818
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/chhattisgarh-mahtari-vandana-yojana"
+      ],
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 9.372093023255815
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/csc-digital-seva-portal-errors-fix"
+      ],
+      "clicks": 1,
+      "impressions": 5272,
+      "ctr": 0.00018968133535660092,
+      "position": 7.280538694992413
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/digital-signature-certificate-dsc"
+      ],
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 63.13333333333333
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/duplicate-pan-card-reprint-online"
+      ],
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/electricity-connection-transfer-name"
+      ],
+      "clicks": 1,
+      "impressions": 52,
+      "ctr": 0.019230769230769232,
+      "position": 10.423076923076923
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/epf-claim-rejected-reasons-fix"
+      ],
+      "clicks": 1,
+      "impressions": 409,
+      "ctr": 0.0024449877750611247,
+      "position": 11.58924205378973
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/fastag-recharge-failed-fix"
+      ],
+      "clicks": 1,
+      "impressions": 869,
+      "ctr": 0.0011507479861910242,
+      "position": 10.028768699654776
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/goa-dayanand-social-security"
+      ],
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 8.452380952380953
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/gujarat-manav-garima-yojana"
+      ],
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 8.76923076923077
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/haryana-family-id-parivar-pehchan-patra"
+      ],
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 15.2
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/jharkhand-police-constable-exam-guide"
+      ],
+      "clicks": 1,
+      "impressions": 114,
+      "ctr": 0.008771929824561403,
+      "position": 9.350877192982455
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/jio-fiber-internet-not-working-fix"
+      ],
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 10.74074074074074
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/kalyana-lakshmi-shaadi-mubarak-telangana"
+      ],
+      "clicks": 1,
+      "impressions": 87,
+      "ctr": 0.011494252873563218,
+      "position": 14.402298850574713
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/navodaya-vidyalaya-teacher"
+      ],
+      "clicks": 1,
+      "impressions": 39,
+      "ctr": 0.02564102564102564,
+      "position": 10.025641025641026
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/pan-card-apply-online"
+      ],
+      "clicks": 1,
+      "impressions": 133,
+      "ctr": 0.007518796992481203,
+      "position": 53.526315789473685
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/passport-police-verification-stuck-fix"
+      ],
+      "clicks": 1,
+      "impressions": 412,
+      "ctr": 0.0024271844660194173,
+      "position": 8.922330097087379
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/passport-status-check-online"
+      ],
+      "clicks": 1,
+      "impressions": 198,
+      "ctr": 0.005050505050505051,
+      "position": 57.09090909090909
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/pm-awas-yojana-status-check"
+      ],
+      "clicks": 1,
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 26.40983606557377
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/rent-agreement-registration-not-working-fix"
+      ],
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 5.333333333333333
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/rent-agreement-vs-lease-deed-difference"
+      ],
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 9.314814814814815
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/sbi-yono-app-not-working-fix"
+      ],
+      "clicks": 1,
+      "impressions": 309,
+      "ctr": 0.003236245954692557,
+      "position": 7.919093851132686
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/seva-sindhu-application-rejected-fix"
+      ],
+      "clicks": 1,
+      "impressions": 194,
+      "ctr": 0.005154639175257732,
+      "position": 6.391752577319588
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/shakti-smart-card-apply-online-karnataka"
+      ],
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 3.6
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/transfer-certificate-school"
+      ],
+      "clicks": 1,
+      "impressions": 298,
+      "ctr": 0.003355704697986577,
+      "position": 9.057046979865772
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/uk-gaura-devi-kanya-dhan"
+      ],
+      "clicks": 1,
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 7.476190476190476
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/up-bhulekh-land-records"
+      ],
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 9.08695652173913
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/wb-sabuj-sathi-bicycle-scheme"
+      ],
+      "clicks": 1,
+      "impressions": 104,
+      "ctr": 0.009615384615384616,
+      "position": 10.5
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/hi"
+      ],
+      "clicks": 1,
+      "impressions": 123,
+      "ctr": 0.008130081300813009,
+      "position": 9.439024390243903
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/hi/guide/chhattisgarh-mahtari-vandana-yojana"
+      ],
+      "clicks": 1,
+      "impressions": 48,
+      "ctr": 0.020833333333333332,
+      "position": 14.3125
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/hi/guide/estamp-paper-online-shcil"
+      ],
+      "clicks": 1,
+      "impressions": 105,
+      "ctr": 0.009523809523809525,
+      "position": 11.714285714285714
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/hi/guide/ration-card-types-priorities"
+      ],
+      "clicks": 1,
+      "impressions": 155,
+      "ctr": 0.0064516129032258064,
+      "position": 13.935483870967742
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/hi/guide/tatkal-passport-apply-fees-process"
+      ],
+      "clicks": 1,
+      "impressions": 133,
+      "ctr": 0.007518796992481203,
+      "position": 15.827067669172932
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/hi/guide/water-bill-payment-online"
+      ],
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 28.333333333333332
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/stories/cds-exam-guide.html"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 42
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/stories/passport-renewal-online.html"
+      ],
+      "clicks": 1,
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 70.21311475409836
+    },
+    {
+      "keys": [
+        "http://citizennest.com/"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "keys": [
+        "https://citizennest.com/guide/state-psc-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 21,
+      "ctr": 0,
+      "position": 7.428571428571429
+    },
+    {
+      "keys": [
+        "https://citizennest.com/update/icai-ca-final-result-january-2026"
+      ],
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 17.75
+    },
+    {
+      "keys": [
+        "https://citizennest.com/update/jee-main-2026-paper-2-result"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/about"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2.5
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/calculator"
+      ],
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 6.75
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/calculator/epf"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 93.66666666666667
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/calculator/fd"
+      ],
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 87.6
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/calculator/gratuity"
+      ],
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 83.28571428571429
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/calculator/hra-exemption"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 84
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/calculator/income-tax"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 55
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/calculator/job-eligibility"
+      ],
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 6.666666666666667
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/calculator/lumpsum"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 72
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/calculator/mudra-loan-eligibility"
+      ],
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 85.16666666666667
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/calculator/pm-awas-yojana-eligibility"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 64
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/calculator/rent-receipt"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 72.33333333333333
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/calculator/salary"
+      ],
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 75.75
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/calculator/sip"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/calculator/stamp-duty"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 87.5
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/calculator/sukanya-samriddhi"
+      ],
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 86.6875
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/categories"
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 13.4
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-address-change-online"
+      ],
+      "clicks": 0,
+      "impressions": 206,
+      "ctr": 0,
+      "position": 56.37864077669903
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-biometric-lock-unlock"
+      ],
+      "clicks": 0,
+      "impressions": 231,
+      "ctr": 0,
+      "position": 38.44588744588744
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-biometric-update-failed-fix"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-card-apply-online"
+      ],
+      "clicks": 0,
+      "impressions": 107,
+      "ctr": 0,
+      "position": 62.12149532710281
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-card-download-not-working-fix"
+      ],
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 16.806451612903224
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-card-download-online"
+      ],
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 71.07142857142857
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-common-problems-solutions"
+      ],
+      "clicks": 0,
+      "impressions": 62,
+      "ctr": 0,
+      "position": 12.580645161290322
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-linking-guide"
+      ],
+      "clicks": 0,
+      "impressions": 40,
+      "ctr": 0,
+      "position": 11.725
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-pvc-card-order-online"
+      ],
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 56.5
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-update-mobile-email"
+      ],
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 33.916666666666664
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-voter-id-linking-online"
+      ],
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 12.833333333333334
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aadhaar-vs-pan-difference"
+      ],
+      "clicks": 0,
+      "impressions": 42,
+      "ctr": 0,
+      "position": 5.666666666666667
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/aaple-sarkar-maharashtra-certificates"
+      ],
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 5.375
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/admit-card-download-online-guide"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/adoption-procedure-india"
+      ],
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 23.31578947368421
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/afcat-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 30.214285714285715
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/agniveer-airforce-recruitment-guide"
+      ],
+      "clicks": 0,
+      "impressions": 60,
+      "ctr": 0,
+      "position": 8.716666666666667
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/agniveer-army-recruitment-guide"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/andhra-pradesh-amma-vodi"
+      ],
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 10.304347826086957
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/andhra-pradesh-government-schemes-services"
+      ],
+      "clicks": 0,
+      "impressions": 159,
+      "ctr": 0,
+      "position": 10.11320754716981
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/anganwadi-services-icds"
+      ],
+      "clicks": 0,
+      "impressions": 48,
+      "ctr": 0,
+      "position": 9.229166666666666
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/annapurna-scheme-senior-food"
+      ],
+      "clicks": 0,
+      "impressions": 140,
+      "ctr": 0,
+      "position": 8.071428571428571
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/antyodaya-anna-yojana"
+      ],
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 26.565217391304348
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/antyodaya-anna-yojana-aay"
+      ],
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 24.8
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ap-police-constable-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 131,
+      "ctr": 0,
+      "position": 12.541984732824428
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/apprenticeship-naps-portal-apply"
+      ],
+      "clicks": 0,
+      "impressions": 75,
+      "ctr": 0,
+      "position": 9.88
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/appsc-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 9.083333333333334
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/apsc-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/arms-licence-apply-india"
+      ],
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 7.363636363636363
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/assam-arundhati-gold-scheme"
+      ],
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 11.333333333333334
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/assam-orunodoi-scheme"
+      ],
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 22.454545454545453
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/assam-police-constable-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 31.428571428571427
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/assam-pragyan-bharati-scooty-scheme"
+      ],
+      "clicks": 0,
+      "impressions": 41,
+      "ctr": 0,
+      "position": 10.463414634146341
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/assam-tet-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 19.181818181818183
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/atal-pension-vs-nps-comparison"
+      ],
+      "clicks": 0,
+      "impressions": 35,
+      "ctr": 0,
+      "position": 11.771428571428572
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/atal-pension-yojana-guide"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 39
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ayushman-bharat-card-download-online"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ayushman-bharat-card-status-check"
+      ],
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 25.59259259259259
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ayushman-bharat-health-card"
+      ],
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 63.52173913043478
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ayushman-bharat-vs-state-health-schemes"
+      ],
+      "clicks": 0,
+      "impressions": 104,
+      "ctr": 0,
+      "position": 5.721153846153846
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/baal-aadhaar-child-aadhaar-card"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 32
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bail-application-process-india"
+      ],
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 3.7142857142857144
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bank-account-aadhaar-link-not-working-fix"
+      ],
+      "clicks": 0,
+      "impressions": 154,
+      "ctr": 0,
+      "position": 6.896103896103896
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bank-account-frozen-blocked-unblock-fix"
+      ],
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 7.625
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bank-locker-rules-charges-rbi"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bharat-bill-payment-system"
+      ],
+      "clicks": 0,
+      "impressions": 55,
+      "ctr": 0,
+      "position": 30.509090909090908
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bihar-daroga-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 35,
+      "ctr": 0,
+      "position": 13.457142857142857
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bihar-government-schemes-services"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bihar-mukhyamantri-cycle-yojana"
+      ],
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 6.266666666666667
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bihar-mukhyamantri-gramin-awas-yojana"
+      ],
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 13.125
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bihar-satat-jeevika-yojana"
+      ],
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 11.31578947368421
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bihar-si-police-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 9.4
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bihar-tet-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 8.25
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/biju-swasthya-kalyan-odisha"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/birth-certificate-apply-online"
+      ],
+      "clicks": 0,
+      "impressions": 132,
+      "ctr": 0,
+      "position": 8.106060606060606
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/board-exam-results-check-download"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bonafide-certificate-apply"
+      ],
+      "clicks": 0,
+      "impressions": 92,
+      "ctr": 0,
+      "position": 20.934782608695652
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bpl-card-apply-eligibility"
+      ],
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 9.166666666666666
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bpsc-pcs-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 9.25
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/building-plan-approval-online"
+      ],
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 6.75
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/capital-gains-tax-india"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/caste-certificate-online"
+      ],
+      "clicks": 0,
+      "impressions": 88,
+      "ctr": 0,
+      "position": 8.125
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/caste-certificate-state-wise-process"
+      ],
+      "clicks": 0,
+      "impressions": 87,
+      "ctr": 0,
+      "position": 8.862068965517242
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/cbse-board-exam-results-check"
+      ],
+      "clicks": 0,
+      "impressions": 92,
+      "ctr": 0,
+      "position": 31.815217391304348
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/cds-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 70.66666666666667
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/cg-police-constable-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 90,
+      "ctr": 0,
+      "position": 8.377777777777778
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/cg-tet-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 26.666666666666668
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/cgpsc-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 9.833333333333334
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/character-certificate-online"
+      ],
+      "clicks": 0,
+      "impressions": 169,
+      "ctr": 0,
+      "position": 6.556213017751479
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/character-verification-certificate"
+      ],
+      "clicks": 0,
+      "impressions": 45,
+      "ctr": 0,
+      "position": 15.222222222222221
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/chhattisgarh-godhan-nyay-yojana"
+      ],
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 10.583333333333334
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/chhattisgarh-mahtari-vandan"
+      ],
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 6.076923076923077
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/child-minor-passport-apply"
+      ],
+      "clicks": 0,
+      "impressions": 44,
+      "ctr": 0,
+      "position": 32.20454545454545
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/chiranjeevi-yojana-rajasthan"
+      ],
+      "clicks": 0,
+      "impressions": 43,
+      "ctr": 0,
+      "position": 14.348837209302326
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/circle-rate-guideline-value-property"
+      ],
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 55.05882352941177
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/clat-law-entrance-exam"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/coast-guard-recruitment-guide"
+      ],
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 9.884615384615385
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/common-service-centre-guide"
+      ],
+      "clicks": 0,
+      "impressions": 51,
+      "ctr": 0,
+      "position": 7.823529411764706
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/consumer-complaint-online"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8.333333333333332
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/consumer-court-guide-detailed"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9.333333333333334
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/consumer-forum-complaint-edaakhil"
+      ],
+      "clicks": 0,
+      "impressions": 279,
+      "ctr": 0,
+      "position": 7.831541218637993
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/court-case-status-check"
+      ],
+      "clicks": 0,
+      "impressions": 34,
+      "ctr": 0,
+      "position": 9.176470588235293
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/credit-card-wrong-charge-dispute-fix"
+      ],
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 3.5
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ctet-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ctet-tet-teacher-eligibility-guide"
+      ],
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/cuet-ug-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/cyber-crime-complaint"
+      ],
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 12.25
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/cyber-crime-complaint-online"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/cycle-yojana-bihar"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/death-certificate-apply-online"
+      ],
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/deen-dayal-upadhyaya-grameen"
+      ],
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 25.2
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/defence-jobs-army-navy-airforce-guide"
+      ],
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 8.833333333333332
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/delhi-doorstep-delivery-services"
+      ],
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 11.541666666666666
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/delhi-ek-parivar-ek-naukri"
+      ],
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 14.5
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/delhi-free-bus-ride-women"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/delhi-police-constable-exam-guide"
+      ],
+      "clicks": 0,
+      "impressions": 137,
+      "ctr": 0,
+      "position": 63.21897810218978
     }
   ],
   "topQueries": [
+    {
+      "keys": [
+        "karnataka shakti scheme smart card apply online"
+      ],
+      "clicks": 6,
+      "impressions": 45,
+      "ctr": 0.13333333333333333,
+      "position": 8.044444444444444
+    },
     {
       "keys": [
         "rbi recruitment"
@@ -209,10 +1838,37 @@
       "keys": [
         "what to do if your voter id application is rejected india"
       ],
-      "clicks": 4,
-      "impressions": 242,
-      "ctr": 0.01652892561983471,
-      "position": 8.913223140495868
+      "clicks": 5,
+      "impressions": 323,
+      "ctr": 0.015479876160990712,
+      "position": 8.91950464396285
+    },
+    {
+      "keys": [
+        "how to check voter id rejected reason"
+      ],
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 6.4
+    },
+    {
+      "keys": [
+        "how to correct rejected voter id"
+      ],
+      "clicks": 2,
+      "impressions": 111,
+      "ctr": 0.018018018018018018,
+      "position": 8.234234234234235
+    },
+    {
+      "keys": [
+        "mmsy hp"
+      ],
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 7.2
     },
     {
       "keys": [
@@ -234,12 +1890,21 @@
     },
     {
       "keys": [
+        "smart card for free bus in karnataka apply online"
+      ],
+      "clicks": 2,
+      "impressions": 32,
+      "ctr": 0.0625,
+      "position": 7.71875
+    },
+    {
+      "keys": [
         "you are not authorised to generate e-epic pdf."
       ],
       "clicks": 2,
-      "impressions": 11,
-      "ctr": 0.18181818181818182,
-      "position": 7.181818181818182
+      "impressions": 21,
+      "ctr": 0.09523809523809523,
+      "position": 6.761904761904762
     },
     {
       "keys": [
@@ -270,6 +1935,15 @@
     },
     {
       "keys": [
+        "bmtc smart card for ladies apply online"
+      ],
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 8.90625
+    },
+    {
+      "keys": [
         "bsnl broadband new connection apply online"
       ],
       "clicks": 1,
@@ -297,6 +1971,15 @@
     },
     {
       "keys": [
+        "crsorgi.gov.in birth certificate correction"
+      ],
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 3.2
+    },
+    {
+      "keys": [
         "digital signature certificate (dsc)"
       ],
       "clicks": 1,
@@ -309,9 +1992,9 @@
         "eci application rejected"
       ],
       "clicks": 1,
-      "impressions": 5,
-      "ctr": 0.2,
-      "position": 6.8
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 5.888888888888889
     },
     {
       "keys": [
@@ -327,9 +2010,27 @@
         "face authentication unsuccessful biometric data did not match"
       ],
       "clicks": 1,
-      "impressions": 5,
-      "ctr": 0.2,
-      "position": 8.4
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 9.11111111111111
+    },
+    {
+      "keys": [
+        "fda age limit in karnataka"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 8
+    },
+    {
+      "keys": [
+        "fda qualification in karnataka"
+      ],
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 5.777777777777778
     },
     {
       "keys": [
@@ -339,24 +2040,6 @@
       "impressions": 1,
       "ctr": 1,
       "position": 3
-    },
-    {
-      "keys": [
-        "how to check voter id rejected reason"
-      ],
-      "clicks": 1,
-      "impressions": 3,
-      "ctr": 0.3333333333333333,
-      "position": 6.333333333333333
-    },
-    {
-      "keys": [
-        "how to correct rejected voter id"
-      ],
-      "clicks": 1,
-      "impressions": 71,
-      "ctr": 0.014084507042253521,
-      "position": 8.47887323943662
     },
     {
       "keys": [
@@ -375,6 +2058,1563 @@
       "impressions": 1,
       "ctr": 1,
       "position": 3
+    },
+    {
+      "keys": [
+        "irctc account locked for the day"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 19
+    },
+    {
+      "keys": [
+        "irctc password recovery by mobile number"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 6
+    },
+    {
+      "keys": [
+        "irctc user id change"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "keys": [
+        "is noc and character certificate same"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 7.5
+    },
+    {
+      "keys": [
+        "mera parivar haryana gov in"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 34.5
+    },
+    {
+      "keys": [
+        "my irctc user id"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "keys": [
+        "nrega job card"
+      ],
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 24.6
+    },
+    {
+      "keys": [
+        "nsp scholarship portal helpline number"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "keys": [
+        "online pan card apply"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 23
+    },
+    {
+      "keys": [
+        "passport renewal online"
+      ],
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 74.8
+    },
+    {
+      "keys": [
+        "passport status"
+      ],
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 39.4
+    },
+    {
+      "keys": [
+        "pending for sanction"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "keys": [
+        "pmay status check with aadhar"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 35
+    },
+    {
+      "keys": [
+        "psc"
+      ],
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 3.25
+    },
+    {
+      "keys": [
+        "psc full from"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "keys": [
+        "psc meaning"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "keys": [
+        "public service commission"
+      ],
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2.666666666666667
+    },
+    {
+      "keys": [
+        "public service commission west bengal"
+      ],
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 3.2
+    },
+    {
+      "keys": [
+        "rbi"
+      ],
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 6
+    },
+    {
+      "keys": [
+        "rbi careers"
+      ],
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 6.368421052631579
+    },
+    {
+      "keys": [
+        "rbi recruitment 2026"
+      ],
+      "clicks": 1,
+      "impressions": 63,
+      "ctr": 0.015873015873015872,
+      "position": 4.857142857142858
+    },
+    {
+      "keys": [
+        "rbi vacancy"
+      ],
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 6.44
+    },
+    {
+      "keys": [
+        "reason for rejection of voter id"
+      ],
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 10.2
+    },
+    {
+      "keys": [
+        "rechs bhel login ecare login"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 9
+    },
+    {
+      "keys": [
+        "rythu bandhu telangana"
+      ],
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 25.6
+    },
+    {
+      "keys": [
+        "shakti smart card eligibility"
+      ],
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 7.285714285714286
+    },
+    {
+      "keys": [
+        "shakti smart card online apply near bengaluru karnataka"
+      ],
+      "clicks": 1,
+      "impressions": 81,
+      "ctr": 0.012345679012345678,
+      "position": 7.45679012345679
+    },
+    {
+      "keys": [
+        "shakti yojana card apply online karnataka"
+      ],
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 8.333333333333332
+    },
+    {
+      "keys": [
+        "ssc"
+      ],
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 6.466666666666667
+    },
+    {
+      "keys": [
+        "ssc cgl 2026"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "keys": [
+        "ssc gov in"
+      ],
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 1.625
+    },
+    {
+      "keys": [
+        "ssc govt jobs"
+      ],
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 5.423076923076923
+    },
+    {
+      "keys": [
+        "ssc jobs 2026"
+      ],
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 5
+    },
+    {
+      "keys": [
+        "ssc vacancy 2026"
+      ],
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2.5
+    },
+    {
+      "keys": [
+        "uidai otp not received"
+      ],
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 9.285714285714286
+    },
+    {
+      "keys": [
+        "voter id not showing online"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "keys": [
+        "voter id website not working"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 6
+    },
+    {
+      "keys": [
+        "wb psc exam"
+      ],
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 1.1
+    },
+    {
+      "keys": [
+        "what to do if my voter id application is rejected india"
+      ],
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 9.291666666666666
+    },
+    {
+      "keys": [
+        "what to do if voter id application is rejected"
+      ],
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 8.76
+    },
+    {
+      "keys": [
+        "which state pcs exam is easy"
+      ],
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 8.181818181818182
+    },
+    {
+      "keys": [
+        "which state pcs exam is easy to crack"
+      ],
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2.666666666666667
+    },
+    {
+      "keys": [
+        "why my voter id application is rejected"
+      ],
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 8.90909090909091
+    },
+    {
+      "keys": [
+        "www irctc login"
+      ],
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2.333333333333333
+    },
+    {
+      "keys": [
+        "www rbi org in recruitment 2026"
+      ],
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 3.8181818181818183
+    },
+    {
+      "keys": [
+        "www.irctc login"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "keys": [
+        "you are not authorised to generate e-epic pdf"
+      ],
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 6.777777777777778
+    },
+    {
+      "keys": [
+        "yubasathi.wb.gov.in"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 30
+    },
+    {
+      "keys": [
+        "yuva sathi application status check"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 21
+    },
+    {
+      "keys": [
+        "yuva sathi online status check"
+      ],
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 26
+    },
+    {
+      "keys": [
+        "yuva sathi prakalpa status check"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 39
+    },
+    {
+      "keys": [
+        "yuva sathi status check"
+      ],
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 34.714285714285715
+    },
+    {
+      "keys": [
+        "दारिद्रय रेषेखालील कुटुंबाची माहिती"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "keys": [
+        "\"2602 sub #n sp\""
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "keys": [
+        "\"applicant's name already exists in the electoral roll\" eci rejection reason"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "keys": [
+        "\"application has been moved to ero\" voter id status"
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 7.2
+    },
+    {
+      "keys": [
+        "\"application has been moved to ero,eci\" voter id"
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 8.4
+    },
+    {
+      "keys": [
+        "\"indian railway catering and tourism corporation\" \"rti online\""
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10.5
+    },
+    {
+      "keys": [
+        "\"jee\""
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46
+    },
+    {
+      "keys": [
+        "\"jeevika\" \"community mobilizer\" cm"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "\"karnataka\" electric vehicle policy sgst reimbursement"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "keys": [
+        "\"know your blo\" \"voters.eci.gov.in\""
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 8.6
+    },
+    {
+      "keys": [
+        "\"know your blo\" nvsp"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "keys": [
+        "\"moved to ero\" voter id application status meaning india"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8.666666666666668
+    },
+    {
+      "keys": [
+        "\"moved to ero\" voter id status eci"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "keys": [
+        "\"police character certificate\" \"serviceonline.bihar.gov.in\""
+      ],
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "keys": [
+        "\"report financial fraud\" \"cybercrime.gov.in\""
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "keys": [
+        "$attr 92112 meaning in hindi"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "keys": [
+        "$attr_92112"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "keys": [
+        "(epfigms.gov.in"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 48
+    },
+    {
+      "keys": [
+        "0120-2459169"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "keys": [
+        "0120-2459169 parivahan"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "017 2025 psc exam date"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "keys": [
+        "12th leaving certificate"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "keys": [
+        "1st sem vtu results 2026"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "2026 ki bharti"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "keys": [
+        "363/2025 exam date"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "keys": [
+        "75 years senior citizen benefits"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 42
+    },
+    {
+      "keys": [
+        "999 error in biometric"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10.5
+    },
+    {
+      "keys": [
+        "aadar address change"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 40
+    },
+    {
+      "keys": [
+        "aadhaar address change online"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 49.666666666666664
+    },
+    {
+      "keys": [
+        "aadhaar address change process"
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 63.2
+    },
+    {
+      "keys": [
+        "aadhaar address update online"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 38
+    },
+    {
+      "keys": [
+        "aadhaar app mobile verification failed"
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 10.4
+    },
+    {
+      "keys": [
+        "aadhaar application"
+      ],
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 56.75
+    },
+    {
+      "keys": [
+        "aadhaar apply online"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 63.333333333333336
+    },
+    {
+      "keys": [
+        "aadhaar authentication failed"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 29
+    },
+    {
+      "keys": [
+        "aadhaar authentication failed meaning in hindi"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "keys": [
+        "aadhaar authentication failed solution"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "keys": [
+        "aadhaar based digital signature"
+      ],
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 42.22222222222222
+    },
+    {
+      "keys": [
+        "aadhaar based e signature"
+      ],
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 39.09090909090909
+    },
+    {
+      "keys": [
+        "aadhaar based esign"
+      ],
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 56.333333333333336
+    },
+    {
+      "keys": [
+        "aadhaar biometric"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 36
+    },
+    {
+      "keys": [
+        "aadhaar biometric lock"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 58.333333333333336
+    },
+    {
+      "keys": [
+        "aadhaar biometric lock unlock"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 98
+    },
+    {
+      "keys": [
+        "aadhaar biometric not matching"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11.5
+    },
+    {
+      "keys": [
+        "aadhaar biometric unlock"
+      ],
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "keys": [
+        "aadhaar biometric unlock login"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "keys": [
+        "aadhaar biometric unlock online"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 75.5
+    },
+    {
+      "keys": [
+        "aadhaar card address change"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 37.5
+    },
+    {
+      "keys": [
+        "aadhaar card address change documents"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "keys": [
+        "aadhaar card download"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 66
+    },
+    {
+      "keys": [
+        "aadhaar card download online"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 96
+    },
+    {
+      "keys": [
+        "aadhaar card download online pdf"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 57.5
+    },
+    {
+      "keys": [
+        "aadhaar card lock"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44
+    },
+    {
+      "keys": [
+        "aadhaar card otp not received"
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "keys": [
+        "aadhaar card otp not received problem"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "aadhaar card unlock"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 61.5
+    },
+    {
+      "keys": [
+        "aadhaar change of address"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 39
+    },
+    {
+      "keys": [
+        "aadhaar change of address online"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "keys": [
+        "aadhaar complaint otp not received"
+      ],
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 8.666666666666668
+    },
+    {
+      "keys": [
+        "aadhaar details do not match. please verify and try again"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 20.666666666666668
+    },
+    {
+      "keys": [
+        "aadhaar download"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 97.5
+    },
+    {
+      "keys": [
+        "aadhaar e card download"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94
+    },
+    {
+      "keys": [
+        "aadhaar email id update"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44
+    },
+    {
+      "keys": [
+        "aadhaar email update"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 39
+    },
+    {
+      "keys": [
+        "aadhaar enrollment"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "keys": [
+        "aadhaar error code 330"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "aadhaar error code list"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 53
+    },
+    {
+      "keys": [
+        "aadhaar error code:k-100 - resident authentication failed"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "keys": [
+        "aadhaar esign"
+      ],
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 64.93333333333334
+    },
+    {
+      "keys": [
+        "aadhaar esign online"
+      ],
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 40.111111111111114
+    },
+    {
+      "keys": [
+        "aadhaar esign online free"
+      ],
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "keys": [
+        "aadhaar esign registration"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "keys": [
+        "aadhaar exceeded maximum otp limit"
+      ],
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 8.714285714285715
+    },
+    {
+      "keys": [
+        "aadhaar is not available in mapper db means"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "keys": [
+        "aadhaar lock unlock"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 45.666666666666664
+    },
+    {
+      "keys": [
+        "aadhaar minor to major"
+      ],
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 9.25
+    },
+    {
+      "keys": [
+        "aadhaar minor to major update"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "aadhaar missing"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "keys": [
+        "aadhaar not verified in digilocker"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "keys": [
+        "aadhaar number does not have verified mobile.[#111] digilocker uses aadhaar to enable authentic document access"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "aadhaar number find"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "keys": [
+        "aadhaar number(s) is/are already associated with another family card.(impds)"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 7.333333333333333
+    },
+    {
+      "keys": [
+        "aadhaar online address change"
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 69.4
+    },
+    {
+      "keys": [
+        "aadhaar online enrollment"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "keys": [
+        "aadhaar otp"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 42
+    },
+    {
+      "keys": [
+        "aadhaar otp is not coming"
+      ],
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 12.272727272727273
+    },
+    {
+      "keys": [
+        "aadhaar otp is not coming to my mobile"
+      ],
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 10.25
+    },
+    {
+      "keys": [
+        "aadhaar otp limit exceeded"
+      ],
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 8.666666666666668
+    },
+    {
+      "keys": [
+        "aadhaar otp limit exceeded problem"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "aadhaar otp limit exceeded time"
+      ],
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 9.444444444444445
+    },
+    {
+      "keys": [
+        "aadhaar otp limit per day"
+      ],
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 10.368421052631579
+    },
+    {
+      "keys": [
+        "aadhaar otp not coming"
+      ],
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 10.263157894736842
+    },
+    {
+      "keys": [
+        "aadhaar otp not coming on mobile"
+      ],
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "keys": [
+        "aadhaar otp not received"
+      ],
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 9.923076923076923
+    },
+    {
+      "keys": [
+        "aadhaar otp not received on airtel"
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 9.2
+    },
+    {
+      "keys": [
+        "aadhaar otp not received on mobile"
+      ],
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 10.833333333333334
+    },
+    {
+      "keys": [
+        "aadhaar otp not received on registered mobile number"
+      ],
+      "clicks": 0,
+      "impressions": 38,
+      "ctr": 0,
+      "position": 9.894736842105264
+    },
+    {
+      "keys": [
+        "aadhaar otp not receiving"
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "keys": [
+        "aadhaar otp time limit"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "keys": [
+        "aadhaar otp verification failed"
+      ],
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 10.666666666666666
+    },
+    {
+      "keys": [
+        "aadhaar pvc card order online"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 134
+    },
+    {
+      "keys": [
+        "aadhaar pvc payment pending"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "keys": [
+        "aadhaar registration"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 37
+    },
+    {
+      "keys": [
+        "aadhaar registration online"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 70
+    },
+    {
+      "keys": [
+        "aadhaar request"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 39
+    },
+    {
+      "keys": [
+        "aadhaar resident authentication failed"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "aadhaar sms not coming"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "keys": [
+        "aadhaar t otp means"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "keys": [
+        "aadhaar totp"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "keys": [
+        "aadhaar unlock"
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 46.2
+    },
+    {
+      "keys": [
+        "aadhaar unlock biometric"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "keys": [
+        "aadhaar unlock online"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "keys": [
+        "aadhaar unmask"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 43
+    },
+    {
+      "keys": [
+        "aadhaar update address"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 57.5
+    },
+    {
+      "keys": [
+        "aadhaar update address online"
+      ],
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 68.28571428571429
+    },
+    {
+      "keys": [
+        "aadhaar update email"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 32
+    },
+    {
+      "keys": [
+        "aadhaar update online address"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 40
+    },
+    {
+      "keys": [
+        "aadhaar verification disable"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23
+    },
+    {
+      "keys": [
+        "aadhaar verification failed"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 10.333333333333334
+    },
+    {
+      "keys": [
+        "aadhaar verification otp not received"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9.666666666666666
+    },
+    {
+      "keys": [
+        "aadhaar website not working"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 91
     }
   ]
 }

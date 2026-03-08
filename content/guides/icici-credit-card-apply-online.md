@@ -151,7 +151,7 @@ If you are an existing ICICI Bank customer, you may have a **pre-approved credit
 ## Important Tips
 
 1. **Check pre-approved offers first** — these have higher approval chances and faster processing
-2. **Maintain a CIBIL score of 750+** for better approval odds and higher credit limits. See our [CIBIL score guide](/guide/cibil-score-check-free) for details
+2. **Maintain a CIBIL score of 750+** for better approval odds and higher credit limits. See our [CIBIL score guide](/guide/cibil-score-check-free-online) for details
 3. **Don't apply for multiple cards simultaneously** — each application creates a hard inquiry on your credit report
 4. **Set up auto-pay** for at least the minimum due amount to avoid late payment charges
 5. **Always pay the full bill** — revolving credit on credit cards carries interest rates of 24-42% per annum

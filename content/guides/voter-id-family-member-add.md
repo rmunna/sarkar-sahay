@@ -49,7 +49,7 @@ Each family member applying needs the following documents:
   - Birth certificate
   - Class 10 marksheet
   - [Aadhaar card](/guide/aadhaar-card-apply-online)
-  - [Passport](/guide/passport-apply-online-india)
+  - [Passport](/guide/passport-apply-online)
   - PAN card
 - **Address proof** (any one):
   - Aadhaar card

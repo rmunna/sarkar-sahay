@@ -181,7 +181,7 @@ If 26AS shows a **different TDS amount** than what was actually deducted:
 
 - [GST TDS & TCS Guide](/guide/gst-tds-tcs-guide)
 - [PAN Card Apply Online Guide](/guide/pan-card-apply-online)
-- [Income Tax e-Filing Guide](/guide/income-tax-efiling-guide)
+- [Income Tax e-Filing Guide](/guide/income-tax-slab-rates-guide)
 
 ## FAQs
 

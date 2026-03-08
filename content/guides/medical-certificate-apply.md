@@ -140,4 +140,4 @@ The RTO provides a specific **Form 1-A** for medical fitness for driving licence
 
 ---
 
-*Disclaimer: CitizenNest is an independent platform and is not affiliated with any government body. Information is compiled from official sources for educational purposes. Always verify specific requirements with your employer or exam authority. See our [driving licence guide](/guide/driving-licence-apply-online) for related information.*
+*Disclaimer: CitizenNest is an independent platform and is not affiliated with any government body. Information is compiled from official sources for educational purposes. Always verify specific requirements with your employer or exam authority. See our [driving licence guide](/guide/driving-licence-renewal-online) for related information.*

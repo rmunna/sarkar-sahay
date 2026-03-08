@@ -78,7 +78,7 @@ The Tamil Nadu Old Age Pension scheme provides **₹1,000 per month** to senior 
 
 ## Important Tips
 
-1. **Annual Life Certificate:** Submit a life certificate (Jeevan Pramaan) every year in November to continue the pension. See our [Jeevan Pramaan guide](/guide/jeevan-pramaan-life-certificate).
+1. **Annual Life Certificate:** Submit a life certificate (Jeevan Pramaan) every year in November to continue the pension. See our [Jeevan Pramaan guide](/guide/jeevan-pramaan-life-certificate-failed-fix).
 2. **Aadhaar Linkage:** Ensure Aadhaar is linked to your bank account for uninterrupted DBT.
 3. **Report Change of Address:** If you shift residence, update your address at the taluk office.
 4. **No Middlemen:** Apply directly at government offices. There is no fee.

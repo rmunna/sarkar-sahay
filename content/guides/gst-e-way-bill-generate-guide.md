@@ -187,7 +187,7 @@ If a transporter is carrying **multiple consignments** in one vehicle:
 
 ## Related Guides
 
-- [GST Registration Online Guide](/guide/gst-registration-online-guide)
+- [GST Registration Online Guide](/guide/gst-registration-online)
 - [GST Composition Scheme Guide](/guide/gst-composition-scheme-guide)
 - [GST TDS & TCS Guide](/guide/gst-tds-tcs-guide)
 

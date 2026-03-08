@@ -204,9 +204,9 @@ Many private law colleges also accept CLAT scores. You can also appear for other
 
 ## Related Guides
 
-- [UPSC Civil Services Exam Guide](/guide/upsc-civil-services-exam)
-- [SSC CGL Exam Guide](/guide/ssc-cgl-exam)
-- [Government Jobs After Graduation](/guide/government-jobs-after-graduation)
+- [UPSC Civil Services Exam Guide](/guide/upsc-civil-services-preparation-guide)
+- [SSC CGL Exam Guide](/guide/ssc-cgl-vs-ssc-chsl-comparison)
+- [Government Jobs After Graduation](/guide/government-jobs-apply-online)
 
 ---
 

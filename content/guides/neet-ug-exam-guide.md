@@ -26,7 +26,7 @@ NEET UG (National Eligibility cum Entrance Test – Undergraduate) is the single
 
 Every year, over **20 lakh students** appear for NEET UG, making it one of the most competitive exams in the country. A good NEET score opens doors to government medical colleges, deemed universities, private colleges, and central institutions.
 
-> **Related:** [SSC CGL Exam Guide](/guide/ssc-cgl-exam-guide) | [UPSC Civil Services Guide](/guide/upsc-civil-services-exam-guide)
+> **Related:** [SSC CGL Exam Guide](/guide/ssc-exam-complete-guide) | [UPSC Civil Services Guide](/guide/upsc-civil-services-preparation-guide)
 
 ---
 

@@ -172,7 +172,7 @@ Several tables in GSTR-9 are **auto-populated** from your filed returns:
 
 ## Related Guides
 
-- [GST Registration Guide](/guide/gst-registration-online-guide)
+- [GST Registration Guide](/guide/gst-registration-online)
 - [GST Composition Scheme Guide](/guide/gst-composition-scheme-guide)
 - [GST TDS & TCS Guide](/guide/gst-tds-tcs-guide)
 

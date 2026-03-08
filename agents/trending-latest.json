@@ -1,49 +1,40 @@
 {
-  "scannedAt": "2026-03-06T14:05:36.168Z",
+  "scannedAt": "2026-03-08T12:35:54.359Z",
   "govtTrends": [
     {
-      "title": "bsnl 5g",
-      "traffic": "200+",
-      "pubDate": "Fri, 6 Mar 2026 05:40:00 -0800",
-      "newsTitle": "BSNL commissions 6,132 4G sites across Andhra Pradesh",
-      "source": "google_trends",
-      "suggestedSlug": "bsnl-5g",
-      "guideExists": false
-    },
-    {
-      "title": "nta neet 2026",
+      "title": "alex wharf",
       "traffic": "1000+",
-      "pubDate": "Fri, 6 Mar 2026 05:40:00 -0800",
-      "newsTitle": "NEET UG 2026 Registration Ends Soon: NTA’s instructions to upload image, important deadlines",
+      "pubDate": "Sun, 8 Mar 2026 05:20:00 -0700",
+      "newsTitle": "MEDIA INFORMATION FOR ICC MEN’S T20 WORLD CUP 2026",
       "source": "google_trends",
-      "suggestedSlug": "nta-neet-2026",
+      "suggestedSlug": "alex-wharf",
       "guideExists": false
     },
     {
-      "title": "wbjee",
+      "title": "pubg mobile",
       "traffic": "200+",
-      "pubDate": "Fri, 6 Mar 2026 05:30:00 -0800",
-      "newsTitle": "WBJEE 2026 Official Notification OUT; Exam to be held on May 24",
+      "pubDate": "Sun, 8 Mar 2026 05:20:00 -0700",
+      "newsTitle": "PUBG Mobile x MrBeast Collaboration Teased Ahead of 8th Anniversary Update",
       "source": "google_trends",
-      "suggestedSlug": "wbjee",
+      "suggestedSlug": "pubg-mobile",
       "guideExists": false
     },
     {
-      "title": "west bengal governor cv ananda bose",
-      "traffic": "5000+",
-      "pubDate": "Fri, 6 Mar 2026 05:30:00 -0800",
-      "newsTitle": "Days ahead of elections, Tamil Nadu, West Bengal get new Governors",
+      "title": "ind vs nz final ticket",
+      "traffic": "200+",
+      "pubDate": "Sun, 8 Mar 2026 05:10:00 -0700",
+      "newsTitle": "ICC Men’s T20 World Cup 2026 final in Gujarat: Ahmedabad police crack down on ticket touts, five arrested",
       "source": "google_trends",
-      "suggestedSlug": "west-bengal-governor-cv-ananda-bose",
-      "guideExists": true
+      "suggestedSlug": "ind-vs-nz-final-ticket",
+      "guideExists": false
     },
     {
-      "title": "isl match today",
-      "traffic": "200+",
-      "pubDate": "Fri, 6 Mar 2026 05:20:00 -0800",
-      "newsTitle": "ISL: East Bengal held by FC Goa",
+      "title": "t20 world cup winners list",
+      "traffic": "1000+",
+      "pubDate": "Sun, 8 Mar 2026 05:00:00 -0700",
+      "newsTitle": "ICC Men’s T20 World Cup Winners List (2007–2026): Complete list of champions and runner-ups",
       "source": "google_trends",
-      "suggestedSlug": "isl-match-today",
+      "suggestedSlug": "t20-world-cup-winners-list",
       "guideExists": false
     }
   ],

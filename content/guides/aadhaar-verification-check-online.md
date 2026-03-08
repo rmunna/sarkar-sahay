@@ -134,7 +134,7 @@ No. The online number verification on myaadhaar.uidai.gov.in only confirms wheth
 
 ### What if the QR code scanner shows an error?
 
-If the QR code scanner shows a verification failure, the Aadhaar card may have been tampered with or the QR code is damaged. Ask the holder to download a fresh [e-Aadhaar](/guide/aadhaar-card-download) which will have an updated secure QR code.
+If the QR code scanner shows a verification failure, the Aadhaar card may have been tampered with or the QR code is damaged. Ask the holder to download a fresh [e-Aadhaar](/guide/aadhaar-card-download-online) which will have an updated secure QR code.
 
 ### Is Offline XML verification legally valid?
 

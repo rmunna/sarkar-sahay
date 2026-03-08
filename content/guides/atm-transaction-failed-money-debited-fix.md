@@ -200,7 +200,7 @@ This is generally **not needed** as it's a technical/banking issue, not theft. H
 The same process applies. Mention the exact amount received vs. amount debited in your complaint. The bank will verify from ATM logs (the ATM records exactly how many notes were dispensed).
 
 ### Q6: Does UPI or net banking failure follow the same rules?
-For UPI and IMPS failed transactions, the same T+5 auto-reversal rule applies. You can complain to your bank or file on the RBI CMS portal. See our [UPI payment failed guide](/guide/upi-payment-failed-money-debited-fix) for details.
+For UPI and IMPS failed transactions, the same T+5 auto-reversal rule applies. You can complain to your bank or file on the RBI CMS portal. See our [UPI payment failed guide](/guide/upi-payment-failed-money-debited-refund-fix) for details.
 
 ### Q7: What if the ATM swallowed my card?
 Card capture is a separate issue. Contact your bank immediately to block the card (to prevent misuse) and visit the ATM's bank branch to retrieve it. The failed transaction refund process remains the same.

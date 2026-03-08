@@ -195,4 +195,4 @@ Not always. You should **request it formally** from the bank after loan closure.
 
 ---
 
-*Disclaimer: CitizenNest is an independent platform and is not affiliated with any government body. Information is compiled from official sources for educational purposes. Always verify specific requirements with the relevant authority. See our [vehicle registration guide](/guide/vehicle-registration-online) for related information.*
+*Disclaimer: CitizenNest is an independent platform and is not affiliated with any government body. Information is compiled from official sources for educational purposes. Always verify specific requirements with the relevant authority. See our [vehicle registration guide](/guide/vehicle-registration-certificate-transfer) for related information.*

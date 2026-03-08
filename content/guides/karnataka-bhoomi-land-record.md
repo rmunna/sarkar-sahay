@@ -132,7 +132,7 @@ Survey number search is the most reliable way to find land records in Karnataka:
 ## Related Guides
 
 - For Aadhaar-linked land records, see our [Aadhaar guide](/guide/aadhaar-card-apply-online)
-- Check [property registration in India](/guide/property-registration-online-india) for deed registration process
+- Check [property registration in India](/guide/property-registration-online-guide) for deed registration process
 
 ## FAQs
 

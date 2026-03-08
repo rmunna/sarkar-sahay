@@ -69,7 +69,7 @@ The **Delhi Widow Pension Scheme** provides a monthly pension of **₹2,500** to
 ## Important Tips
 
 1. **5-Year Residence:** Prove Delhi residence of at least 5 years
-2. **Death Certificate:** Get it from the MCD if not already obtained — see our [Death Certificate guide](/guide/death-certificate-online)
+2. **Death Certificate:** Get it from the MCD if not already obtained — see our [Death Certificate guide](/guide/death-certificate-apply-online)
 3. **One Pension Only:** Cannot combine with old age or disability pension
 4. **Aadhaar-Bank Link:** Mandatory for DBT payments
 5. **Life Certificate:** Submit Jeevan Pramaan annually

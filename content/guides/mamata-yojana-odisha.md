@@ -111,7 +111,7 @@ The scheme was launched in **September 2011** and has since benefited lakhs of p
 ## Important Tips
 
 1. **Register early** — Visit the Anganwadi Centre as soon as you know you are pregnant, ideally in the 1st trimester
-2. **Open bank account in your name** — The benefit is paid only to the woman's own Aadhaar-linked bank account. See our [Jan Dhan Yojana guide](/guide/jan-dhan-yojana) if you need to open one
+2. **Open bank account in your name** — The benefit is paid only to the woman's own Aadhaar-linked bank account. See our [Jan Dhan Yojana guide](/guide/jan-dhan-yojana-account-open) if you need to open one
 3. **Attend all ANC visits** — Missing ante-natal check-ups can delay or disqualify your payment
 4. **Keep MCH Card safe** — This card tracks your pregnancy milestones and is needed for both installments
 5. **Get baby vaccinated on time** — The 2nd installment requires timely vaccination of the child

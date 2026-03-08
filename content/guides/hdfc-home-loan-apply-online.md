@@ -149,7 +149,7 @@ Typical timeline: 7–15 working days from complete document submission to disbu
 - **Section 80C:** Deduction up to ₹1.5 lakh on principal repayment per year
 - **Section 24(b):** Deduction up to ₹2 lakh on interest paid for self-occupied property
 - **Section 80EEA:** Additional ₹1.5 lakh deduction for first-time buyers (if applicable under current rules)
-- See our [income tax guide](/guide/income-tax-return-filing-online) for more details on claiming deductions
+- See our [income tax guide](/guide/income-tax-return-file-online) for more details on claiming deductions
 
 ---
 

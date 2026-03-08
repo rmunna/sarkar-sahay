@@ -163,7 +163,7 @@ If the Parivahan website is consistently not working, use the **mParivahan mobil
 
 **Note:** mParivahan does **not** support slot booking, new DL applications, or RC transfers — for these, you must use the Sarathi/Parivahan website.
 
-For related services, see our [Driving Licence guide](/guide/driving-licence-online-apply) or [Vehicle RC guide](/guide/rc-registration-certificate-download) if available.
+For related services, see our [Driving Licence guide](/guide/driving-licence-renewal-online) or [Vehicle RC guide](/guide/vehicle-rc-transfer-online) if available.
 
 ## Important Tips
 

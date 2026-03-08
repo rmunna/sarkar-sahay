@@ -192,4 +192,4 @@ No, the buyer needs the NOC from your RTO to re-register the vehicle in their st
 ### Q7. What if there are pending challans against my vehicle?
 You must clear all pending challans and fines before the RTO will issue a NOC. Check pending challans on the [echallan.parivahan.gov.in](https://echallan.parivahan.gov.in/) portal and pay them online.
 
-See our [vehicle registration guide](/guide/vehicle-registration-online) for the complete registration process.
+See our [vehicle registration guide](/guide/vehicle-registration-certificate-transfer) for the complete registration process.

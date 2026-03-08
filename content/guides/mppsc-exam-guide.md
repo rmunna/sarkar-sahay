@@ -185,7 +185,7 @@ MPPSC papers help understand the exam pattern and important topics. Solve at lea
 - [BPSC PCS Exam Guide](/guide/bpsc-pcs-exam-guide) — Bihar state civil services
 - [RPSC RAS Exam Guide](/guide/rpsc-ras-exam-guide) — Rajasthan state civil services
 - [MP Police Constable Exam Guide](/guide/mp-police-constable-exam-guide) — Police recruitment in MP
-- [UPSC Exam Guide](/guide/upsc-exam-guide) — All-India civil services
+- [UPSC Exam Guide](/guide/upsc-civil-services-preparation-guide) — All-India civil services
 
 ## Frequently Asked Questions (FAQs)
 

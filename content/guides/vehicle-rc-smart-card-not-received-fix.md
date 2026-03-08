@@ -157,4 +157,4 @@ Some states allow duplicate RC application through the Parivahan portal. Visit p
 ### Q7. My address has changed. Will the RC card reach me?
 If your address changed after registration, the RC will be sent to the old address. Update your address on the Vahan portal or visit your RTO to update records before the card is dispatched.
 
-See our [vehicle registration guide](/guide/vehicle-registration-online) for the complete registration process.
+See our [vehicle registration guide](/guide/vehicle-registration-certificate-transfer) for the complete registration process.

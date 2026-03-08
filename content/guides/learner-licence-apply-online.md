@@ -29,7 +29,7 @@ A Learner's Licence (LL) is the first step towards getting a permanent driving l
 
 ## What is a Learner's Licence?
 
-A Learner's Licence is a temporary permit that allows you to learn to drive a motor vehicle on public roads under the supervision of a person holding a permanent driving licence. It is valid for 6 months from the date of issue. After 30 days (and before 6 months), you can apply for a permanent [driving licence](/guide/driving-licence-apply-online).
+A Learner's Licence is a temporary permit that allows you to learn to drive a motor vehicle on public roads under the supervision of a person holding a permanent driving licence. It is valid for 6 months from the date of issue. After 30 days (and before 6 months), you can apply for a permanent [driving licence](/guide/driving-licence-renewal-online).
 
 ---
 

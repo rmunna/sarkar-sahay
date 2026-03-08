@@ -120,7 +120,7 @@ A failed EMI auto-debit can result in **late payment charges** (typically ₹300
 
 6. **Check your credit report** — After 30-45 days, verify on CIBIL (cibil.com) that the late payment wasn't reported. If you paid within the grace period, it typically won't be reported.
 
-> **Related:** See our [CIBIL score guide](/guide/cibil-score-check-free) for how to monitor your credit score.
+> **Related:** See our [CIBIL score guide](/guide/cibil-score-check-free-online) for how to monitor your credit score.
 
 ## SIP Auto-Debit Failed — What Happens?
 

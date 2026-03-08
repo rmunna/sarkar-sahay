@@ -123,7 +123,7 @@ You can also contact the **MSME&T Department** at Hemanta Bhawan, 12, B.B.D. Bag
 ## Important Tips
 
 1. **Register on Silpa Sathi first** — This is the one-stop portal for all MSME services in West Bengal and speeds up your application
-2. **Get Udyam Registration** — If you run a micro or small enterprise, having Udyam Registration strengthens your application. See our [Udyam Registration guide](/guide/udyam-registration-online) for details
+2. **Get Udyam Registration** — If you run a micro or small enterprise, having Udyam Registration strengthens your application. See our [Udyam Registration guide](/guide/udyam-registration-aadhaar-otp-fix) for details
 3. **Maintain product quality** — Karma Tirtha aims for quality products; keep samples ready for inspection
 4. **Join an SHG** — Women artisans get priority if they are part of a registered Self-Help Group
 5. **Check district-specific openings** — Each Karma Tirtha centre has limited stalls; stay updated through the MSME&T website

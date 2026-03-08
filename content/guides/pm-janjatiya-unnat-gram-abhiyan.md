@@ -74,7 +74,7 @@ PMJUGA does not require individual applications. It works as a **government-driv
 
 - PM Awas Yojana (housing)
 - Jal Jeevan Mission (water)
-- Ayushman Bharat (health insurance — see our [Ayushman Bharat guide](/guide/ayushman-bharat-yojana))
+- Ayushman Bharat (health insurance — see our [Ayushman Bharat guide](/guide/ayushman-bharat-pmjay))
 - PM Jan Dhan Yojana (bank accounts)
 - MGNREGA (employment)
 - PM Kisan Samman Nidhi (farmer income support)

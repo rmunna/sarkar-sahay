@@ -77,7 +77,7 @@ If you encounter payment issues for passport services:
 4. **Use a different payment method** — Try net banking, debit card, or credit card as alternatives
 5. **Payment pending status** — Do not make a duplicate payment. Wait for the status to update
 
-> **Important:** Passport fees are ₹1,500 for normal (fresh/re-issue) and ₹3,500 for tatkal processing (36-page booklet). See our [passport application guide](/guide/passport-apply-online-india) for full fee details.
+> **Important:** Passport fees are ₹1,500 for normal (fresh/re-issue) and ₹3,500 for tatkal processing (36-page booklet). See our [passport application guide](/guide/passport-apply-online) for full fee details.
 
 ---
 
