@@ -1,86 +1,92 @@
 {
-  "scanTime": "2026-03-08T14:17:26.445Z",
-  "elapsedSeconds": 44.2,
-  "changesDetected": 13,
-  "errors": 10,
+  "scanTime": "2026-03-09T05:06:04.973Z",
+  "elapsedSeconds": 39.5,
+  "changesDetected": 14,
+  "errors": 11,
   "changes": [
     {
       "site": "SBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-03-08T14:16:49.873Z"
+      "detectedAt": "2026-03-09T05:05:30.949Z"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-03-08T14:16:47.977Z"
+      "detectedAt": "2026-03-09T05:05:29.955Z"
     },
     {
       "site": "NABARD",
       "type": "CONTENT_CHANGE",
       "url": "https://www.nabard.org/career-notices.aspx",
-      "detectedAt": "2026-03-08T14:16:49.309Z"
+      "detectedAt": "2026-03-09T05:05:30.236Z"
     },
     {
       "site": "Indian Army",
       "type": "CONTENT_CHANGE",
       "url": "https://joinindianarmy.nic.in/",
-      "detectedAt": "2026-03-08T14:16:48.419Z"
+      "detectedAt": "2026-03-09T05:05:30.404Z"
     },
     {
       "site": "Indian Navy",
       "type": "CONTENT_CHANGE",
       "url": "https://www.joinindiannavy.gov.in/",
-      "detectedAt": "2026-03-08T14:16:49.067Z"
+      "detectedAt": "2026-03-09T05:05:34.653Z"
     },
     {
       "site": "CRPF",
       "type": "CONTENT_CHANGE",
       "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-03-08T14:16:53.787Z"
+      "detectedAt": "2026-03-09T05:05:35.878Z"
     },
     {
       "site": "BSF",
       "type": "CONTENT_CHANGE",
       "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-03-08T14:16:53.303Z"
+      "detectedAt": "2026-03-09T05:05:35.272Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-03-08T14:16:56.220Z"
+      "detectedAt": "2026-03-09T05:05:37.348Z"
+    },
+    {
+      "site": "NVS (Navodaya)",
+      "type": "CONTENT_CHANGE",
+      "url": "https://navodaya.gov.in/",
+      "detectedAt": "2026-03-09T05:05:38.127Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-03-08T14:17:00.718Z"
-    },
-    {
-      "site": "RPSC",
-      "type": "CONTENT_CHANGE",
-      "url": "https://rpsc.rajasthan.gov.in/",
-      "detectedAt": "2026-03-08T14:17:01.219Z"
+      "detectedAt": "2026-03-09T05:05:39.654Z"
     },
     {
       "site": "GPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://gpsc.gujarat.gov.in/",
-      "detectedAt": "2026-03-08T14:17:07.261Z"
+      "detectedAt": "2026-03-09T05:05:45.372Z"
     },
     {
       "site": "HPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://www.hpsc.gov.in/",
-      "detectedAt": "2026-03-08T14:17:07.069Z"
+      "detectedAt": "2026-03-09T05:05:45.375Z"
     },
     {
       "site": "DSSSB",
       "type": "CONTENT_CHANGE",
       "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-03-08T14:17:11.569Z"
+      "detectedAt": "2026-03-09T05:05:50.289Z"
+    },
+    {
+      "site": "UP Board",
+      "type": "CONTENT_CHANGE",
+      "url": "https://upmsp.edu.in/",
+      "detectedAt": "2026-03-09T05:05:49.865Z"
     }
   ],
   "errorDetails": [
@@ -90,14 +96,14 @@
       "error": "Timeout"
     },
     {
-      "site": "NVS (Navodaya)",
-      "url": "https://navodaya.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "BPSC",
       "url": "https://www.bpsc.bih.nic.in/",
       "error": "Timeout"
+    },
+    {
+      "site": "RPSC",
+      "url": "https://rpsc.rajasthan.gov.in/",
+      "error": "socket hang up"
     },
     {
       "site": "KPSC",
@@ -123,6 +129,11 @@
       "site": "Income Tax",
       "url": "https://incometaxindia.gov.in/Pages/press-releases.aspx",
       "error": "HTTP 503"
+    },
+    {
+      "site": "RBSE Rajasthan",
+      "url": "https://rajeduboard.rajasthan.gov.in/",
+      "error": "socket hang up"
     },
     {
       "site": "MSBTE",

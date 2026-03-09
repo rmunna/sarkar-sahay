@@ -171,6 +171,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                   <div className="flex flex-col gap-1.5 text-gray-500">
                     <Link href="/privacy-policy" className="hover:text-orange-600 transition">Privacy Policy</Link>
                     <Link href="/terms" className="hover:text-orange-600 transition">Terms of Service</Link>
+                    <Link href="/editorial-policy" className="hover:text-orange-600 transition">Editorial Policy</Link>
                   </div>
                 </div>
                 <div>

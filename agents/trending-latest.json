@@ -1,40 +1,40 @@
 {
-  "scannedAt": "2026-03-08T12:35:54.359Z",
+  "scannedAt": "2026-03-09T04:36:22.312Z",
   "govtTrends": [
     {
-      "title": "alex wharf",
-      "traffic": "1000+",
-      "pubDate": "Sun, 8 Mar 2026 05:20:00 -0700",
-      "newsTitle": "MEDIA INFORMATION FOR ICC MEN’S T20 WORLD CUP 2026",
+      "title": "tata power share",
+      "traffic": "500+",
+      "pubDate": "Sun, 8 Mar 2026 21:10:00 -0700",
+      "newsTitle": "Stocks to watch, March 9: ONGC, Oil India, Indian Oil Corp, Asian Paints, Cipla, Lupin, AC stocks, RailTel, Max Estates, Jyoti Ltd, Tata Power",
       "source": "google_trends",
-      "suggestedSlug": "alex-wharf",
+      "suggestedSlug": "tata-power-share",
       "guideExists": false
     },
     {
-      "title": "pubg mobile",
+      "title": "sbi share price today",
       "traffic": "200+",
-      "pubDate": "Sun, 8 Mar 2026 05:20:00 -0700",
-      "newsTitle": "PUBG Mobile x MrBeast Collaboration Teased Ahead of 8th Anniversary Update",
+      "pubDate": "Sun, 8 Mar 2026 21:10:00 -0700",
+      "newsTitle": "This SBI Life Insurance-backed company to be in focus ahead of board meet, check details here",
       "source": "google_trends",
-      "suggestedSlug": "pubg-mobile",
-      "guideExists": false
+      "suggestedSlug": "sbi-share-price-today",
+      "guideExists": true
     },
     {
-      "title": "ind vs nz final ticket",
+      "title": "sbi share",
       "traffic": "200+",
-      "pubDate": "Sun, 8 Mar 2026 05:10:00 -0700",
-      "newsTitle": "ICC Men’s T20 World Cup 2026 final in Gujarat: Ahmedabad police crack down on ticket touts, five arrested",
+      "pubDate": "Sun, 8 Mar 2026 21:10:00 -0700",
+      "newsTitle": "SBI Share Price Live Updates: SBI's Previous Day Market Close",
       "source": "google_trends",
-      "suggestedSlug": "ind-vs-nz-final-ticket",
+      "suggestedSlug": "sbi-share",
       "guideExists": false
     },
     {
-      "title": "t20 world cup winners list",
-      "traffic": "1000+",
-      "pubDate": "Sun, 8 Mar 2026 05:00:00 -0700",
-      "newsTitle": "ICC Men’s T20 World Cup Winners List (2007–2026): Complete list of champions and runner-ups",
+      "title": "high court of kerala",
+      "traffic": "200+",
+      "pubDate": "Sun, 8 Mar 2026 21:10:00 -0700",
+      "newsTitle": "Plea Raises Data Protection Concerns Over 'Digi Yatra', Kerala High Court Seeks Response Of Centre, Digi...",
       "source": "google_trends",
-      "suggestedSlug": "t20-world-cup-winners-list",
+      "suggestedSlug": "high-court-of-kerala",
       "guideExists": false
     }
   ],

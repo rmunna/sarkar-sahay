@@ -15,17 +15,42 @@ const CATEGORY_ICONS: Record<string, string> = {
   "Food & Ration": "🍚",
 };
 
+// Popular guides — curated from GSC top performers (updated periodically)
+const POPULAR_SLUGS = [
+  "voter-id-application-rejected-fix",
+  "voter-id-download-not-working-fix",
+  "yuva-sathi-scheme-west-bengal-status",
+  "irctc-login-problems-fix",
+  "aadhaar-card-apply-online",
+  "pan-card-apply-online",
+  "passport-apply-online",
+  "nrega-job-card-check-online",
+  "ration-card-apply-online",
+  "income-tax-return-filing-guide",
+  "pm-kisan-samman-nidhi-check-status",
+  "rrb-ntpc-exam-guide",
+];
+
 export default function Home() {
   const allGuides = getAllGuides();
   const totalGuides = allGuides.length;
   const categories = getCategories();
-  // Show 12 guides on homepage (sorted alphabetically by title)
-  const guides = [...allGuides]
-    .sort((a, b) => a.title.localeCompare(b.title))
-    .slice(0, 12)
-    .map(({ slug, title, description, category, readingTime }) => ({
+  // Show popular guides first, fill remaining slots alphabetically
+  const popularGuides = POPULAR_SLUGS
+    .map((s) => allGuides.find((g) => g.slug === s))
+    .filter(Boolean) as typeof allGuides;
+  const remainingSlots = 12 - popularGuides.length;
+  const fillerGuides = remainingSlots > 0
+    ? allGuides
+        .filter((g) => !POPULAR_SLUGS.includes(g.slug))
+        .sort((a, b) => a.title.localeCompare(b.title))
+        .slice(0, remainingSlots)
+    : [];
+  const guides = [...popularGuides, ...fillerGuides].map(
+    ({ slug, title, description, category, readingTime }) => ({
       slug, title, description, category, readingTime,
-    }));
+    })
+  );
   const allUpdates = getActiveUpdates();
 
   return (
@@ -65,7 +90,7 @@ export default function Home() {
 
       {/* Latest Updates */}
       {(() => {
-        const updates = getActiveUpdates().slice(0, 4);
+        const updates = getActiveUpdates().slice(0, 6);
         if (updates.length === 0) return null;
         return (
           <section className="mb-16">
@@ -139,7 +164,7 @@ export default function Home() {
       <section className="mb-16">
         <div className="flex items-center justify-between mb-6">
           <h2 className="text-2xl font-bold text-gray-900">
-            Latest Guides
+            🔥 Popular Guides
             <span className="text-base font-normal text-gray-500 ml-2">
               ({totalGuides} total)
             </span>
