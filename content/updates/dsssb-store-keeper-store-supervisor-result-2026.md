@@ -1,87 +1,120 @@
 ---
-title: "DSSSB Store Keeper & Store Supervisor Result 2026 Out — Check Result Notice No. 1596"
-description: "DSSSB has released Result Notice No. 1596 for Store Keeper and Store Supervisor (Post Code 818/24). Check your result at dsssb.delhi.gov.in now."
-category: "Results"
+title: "DSSSB Result 2026 — Store Keeper and Store Supervisor Post Code 818/24 Result Declared"
+description: "DSSSB has declared the result for Store Keeper and Store Supervisor (Post Code 818/24) in DGHGs vide Result Notice No. 1596. Check how to download your result and scorecard from dsssb.delhi.gov.in."
 type: "result"
+category: "Jobs & Exams"
+keywords: ["DSSSB result 2026", "DSSSB store keeper result", "DSSSB post code 818/24 result", "DSSSB store supervisor result", "DSSSB result notice 1596", "DSSSB DGHGs result", "Delhi store keeper vacancy result", "DSSSB latest result"]
 organization: "DSSSB"
-examName: "DSSSB Store Keeper and Store Supervisor Combined Examination 2024"
-stage: "final-result"
-keywords: ["DSSSB result 2026", "DSSSB store keeper result", "DSSSB store supervisor result", "DSSSB post code 818/24 result", "DSSSB result notice 1596", "DSSSB DGHGs result", "DSSSB combined examination result", "dsssb.delhi.gov.in result"]
-importantDates:
-  resultDate: "2026-03-05"
-officialLinks:
-  - "https://dsssb.delhi.gov.in/dsssb/result-notice-no-1596-combined-examination-post-code-81824-store-keeper-and-store-supervisor"
-  - "https://dsssb.delhi.gov.in/"
-readingTime: "3 min"
-publishedDate: "2026-03-07"
-expiryDate: "2026-06-07"
-status: "active"
-vacancies: "TBA"
-relatedStages: []
+publishedDate: "2026-03-09"
+expiryDate: "2026-06-09"
+officialLinks: ["https://dsssb.delhi.gov.in/"]
+slug: "dsssb-store-keeper-store-supervisor-result-2026"
 ---
 
-## DSSSB Store Keeper & Store Supervisor Result Released
+The **Delhi Subordinate Services Selection Board (DSSSB)** has officially declared the result for the **Combined Examination for Store Keeper and Store Supervisor** posts under **Post Code 818/24**. The result was published vide **Result Notice No. 1596** on the official DSSSB website on **5th March 2026**.
 
-The Delhi Subordinate Services Selection Board (DSSSB) has released **Result Notice No. 1596** for the Combined Examination for the posts of **Store Keeper and Store Supervisor in DGHGs** under **Post Code 818/24**. The result was published on **March 5, 2026**.
+Candidates who appeared for the examination can now check their result status on [dsssb.delhi.gov.in](https://dsssb.delhi.gov.in/).
 
-Candidates who appeared for this examination can check their result on the official DSSSB website.
+Along with the result, DSSSB has also released **Rejection Notice No. 1595** for the same Post Code 818/24, listing candidates whose applications were rejected along with reasons for rejection.
 
-## Key Highlights
+## Key Details at a Glance
 
 | Detail | Information |
-|--------|------------|
-| Organization | Delhi Subordinate Services Selection Board (DSSSB) |
-| Post Name | Store Keeper & Store Supervisor |
-| Post Code | 818/24 |
-| Department | DGHGs |
-| Result Notice No. | 1596 |
-| Result Date | March 5, 2026 |
-| Official Website | dsssb.delhi.gov.in |
+|---|---|
+| **Organization** | Delhi Subordinate Services Selection Board (DSSSB) |
+| **Post Name** | Store Keeper and Store Supervisor |
+| **Post Code** | 818/24 |
+| **Department** | Directorate General of Health and Hospitals (DGHGs), Delhi |
+| **Result Notice No.** | 1596 |
+| **Rejection Notice No.** | 1595 |
+| **Result Published On** | 5th March 2026 |
+| **Official Website** | [dsssb.delhi.gov.in](https://dsssb.delhi.gov.in/) |
 
-## How to Check DSSSB Store Keeper Result 2026
+## How to Check DSSSB Store Keeper / Store Supervisor Result 2026
 
 Follow these steps to check your result:
 
-1. Visit the official DSSSB website at [dsssb.delhi.gov.in](https://dsssb.delhi.gov.in/)
-2. Go to the **"Results"** section on the homepage
-3. Look for **Result Notice No. 1596** — Combined Examination Post Code 818/24
-4. Click on **"View"** to open the result notice
-5. Download the PDF containing the list of selected candidates
-6. Search for your **Roll Number** in the result PDF
-7. Take a printout of the result for your records
+### Step 1: Visit the Official Website
 
-**Direct link:** [View Result Notice No. 1596](https://dsssb.delhi.gov.in/dsssb/result-notice-no-1596-combined-examination-post-code-81824-store-keeper-and-store-supervisor)
+Go to the official DSSSB website at [https://dsssb.delhi.gov.in/](https://dsssb.delhi.gov.in/).
 
-## Rejection Notice
+### Step 2: Navigate to Results Section
 
-DSSSB has also published **Rejection Notice No. 1595** for Store Keeper and Store Supervisor under the same Post Code 818/24. Candidates whose applications were rejected can check the reason and file representations if applicable.
+On the homepage, look for the **"Results"** or **"Latest Updates"** section. You can also check the scrolling notification bar for Result Notice No. 1596.
 
-[View Rejection Notice No. 1595](https://dsssb.delhi.gov.in/dsssb/rejection-notice-no-1595-store-keeper-and-store-supervisor-dghgs-under-post-code-81824)
+### Step 3: Open the Result Notice
 
-## What Next?
+Click on the link for **"Result Notice No. 1596 — Combined Examination Post Code 818/24 (Store Keeper and Store Supervisor in DGHGs)"**.
 
-- **Selected candidates** should wait for further instructions regarding document verification and joining
-- **Check the official notice** for cut-off marks and category-wise selection details
-- Keep your original documents ready for verification (ID proof, educational certificates, category certificates)
+### Step 4: Download the PDF
 
-## Other Active DSSSB Notifications
+The result will open as a PDF document. Download it for your reference.
 
-DSSSB has also released **Vacancy Notice/Advertisement No. 02/2026** for various posts (Post Code 01/26 to 20/26). The last date for online applications is **March 28, 2026**.
+### Step 5: Search for Your Roll Number
 
-## FAQs
+Use **Ctrl+F** (or **Cmd+F** on Mac) to search for your roll number in the PDF. If your roll number appears in the list, you have been selected/shortlisted.
 
-### When was the DSSSB Store Keeper result 2026 released?
-The result was released on March 5, 2026, via Result Notice No. 1596.
+### Step 6: Check Rejection Notice (If Applicable)
 
-### How can I check my DSSSB Post Code 818/24 result?
-Visit dsssb.delhi.gov.in, go to the Results section, and look for Result Notice No. 1596.
+If your name does not appear in the result, also check **Rejection Notice No. 1595** to verify if your application was rejected and the reason cited.
 
-### What is the post code for DSSSB Store Keeper recruitment?
-The post code is 818/24 under DGHGs department.
+## About the Post — Store Keeper and Store Supervisor
 
-### What should I do if my name is in the rejection list?
-Check Rejection Notice No. 1595 for the reason. You may file a representation if you believe the rejection was incorrect.
+The Store Keeper and Store Supervisor positions under DGHGs (Directorate General of Health and Hospitals) are Group C posts in the Government of NCT of Delhi. These roles involve:
+
+- Managing inventory and stock in government hospitals and health facilities
+- Maintaining records of medicines, equipment, and supplies
+- Coordinating with suppliers and departments for timely procurement
+- Ensuring proper storage conditions for medical supplies
+
+These are permanent government positions with benefits including pay as per 7th Pay Commission, medical facilities, pension, and other allowances applicable to Delhi government employees.
+
+## What to Do After the Result
+
+### If You Are Selected
+
+1. **Download and save** the result notice PDF for your records
+2. **Wait for the document verification** schedule — DSSSB will publish a separate notice with dates and venue
+3. **Keep all original documents ready** including educational certificates, caste certificate (if applicable), experience certificates, and identity proof
+4. **Monitor the DSSSB website** regularly for further instructions regarding joining
+
+### If Your Application Was Rejected
+
+1. Check **Rejection Notice No. 1595** to understand the reason for rejection
+2. If you believe the rejection is incorrect, you may have an opportunity to submit a **representation** — check the notice for details and deadlines
+3. Note down the specific reason cited so you can address it in future applications
+
+## Frequently Asked Questions (FAQs)
+
+### Q1: Where can I check the DSSSB Store Keeper result 2026?
+
+Visit the official DSSSB website at [dsssb.delhi.gov.in](https://dsssb.delhi.gov.in/) and look for Result Notice No. 1596 under the Results section.
+
+### Q2: What is the Post Code for Store Keeper and Store Supervisor?
+
+The Post Code is **818/24**.
+
+### Q3: When was the result published?
+
+The result was published on **5th March 2026** by DSSSB.
+
+### Q4: What is Rejection Notice No. 1595?
+
+Rejection Notice No. 1595 lists candidates whose applications for Post Code 818/24 were rejected. It includes the reasons for rejection so candidates can understand why their application was not accepted.
+
+### Q5: What is the next step after being selected in the result?
+
+Selected candidates should wait for the **document verification** notice from DSSSB. Keep all original documents ready and regularly check the DSSSB website for updates.
+
+### Q6: Can I challenge the rejection of my application?
+
+Check Rejection Notice No. 1595 for details on whether representations are being accepted and the deadline for submitting them.
+
+## Important Links
+
+- **DSSSB Official Website:** [https://dsssb.delhi.gov.in/](https://dsssb.delhi.gov.in/)
+- **Result Notice No. 1596:** Available on the DSSSB website under Results/Latest Updates
 
 ---
 
-*This is an independent guide. Visit the [official DSSSB website](https://dsssb.delhi.gov.in/) for the most current information.*
+*__Disclaimer:__ The information provided on this page is for general informational purposes only. While we strive to keep the content accurate and up to date, CitizenNest does not guarantee the completeness or accuracy of any information. Candidates are advised to always refer to the official DSSSB website at [dsssb.delhi.gov.in](https://dsssb.delhi.gov.in/) for the most authoritative and current information. CitizenNest is not affiliated with DSSSB or any government body.*
