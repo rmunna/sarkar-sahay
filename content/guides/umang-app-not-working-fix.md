@@ -1,7 +1,6 @@
 ---
-title: "UMANG App Not Working: How to Fix"
-description: >-
-  Complete troubleshooting guide for UMANG app issues including login failures, OTP problems, services not loading, and crashes. Fix all common UMANG app errors.
+title: "UMANG App Not Working Today? Fix Login, OTP & Crash Errors"
+description: "UMANG app not opening, login failed or OTP not coming? Fix crashes, service not loading & connection errors. Step-by-step troubleshooting that works."
 category: "Utilities"
 keywords:
   - umang app not working

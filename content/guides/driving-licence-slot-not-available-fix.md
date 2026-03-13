@@ -1,6 +1,6 @@
 ---
-title: "Driving Licence Slot Not Available? How to Book DL Test Appointment"
-description: "Can't find a driving licence test slot on Parivahan? Learn how to book DL test appointments when slots are full, check availability, and fix booking errors."
+title: "Driving Licence Slot Not Available on Parivahan? Here's How to Book"
+description: "DL test slot not showing on Parivahan or Sarathi? Tricks to find available slots, best time to check, fix booking errors & get your appointment fast."
 slug: "driving-licence-slot-not-available-fix"
 category: "Utilities"
 tags: ["driving licence", "DL slot booking", "Parivahan", "RTO appointment", "driving test"]

@@ -1,6 +1,6 @@
 ---
-title: "KPSC FDA SDA Exam — Eligibility, Salary & Syllabus Guide"
-description: "KPSC FDA/SDA complete guide — eligibility, salary ₹27,650-₹52,650, exam pattern, syllabus, cutoff marks & preparation tips. Start preparing today."
+title: "KPSC FDA SDA 2026 — Eligibility, Salary, Syllabus & Cut-Off"
+description: "KPSC FDA SDA exam complete guide — eligibility criteria, salary ₹27,650-₹52,650, syllabus, previous cut-off marks & preparation strategy for 2026."
 category: "Jobs & Exams"
 keywords: ["KPSC FDA SDA","FDA qualification in Karnataka","KPSC FDA salary","FDA SDA difference","Karnataka FDA exam","Karnataka SDA exam","KPSC exam guide","Karnataka FDA eligibility","KPSC FDA SDA 2025"]
 readingTime: "14 min"

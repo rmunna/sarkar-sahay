@@ -1,6 +1,6 @@
 ---
-title: "Character Certificate Online — Apply in 5 Minutes (2026)"
-description: "Apply for character certificate online or at police station. Format, documents & state-wise process. Fix delayed police verification. Get yours now."
+title: "Character Certificate — How to Apply Online & at Police Station"
+description: "Get character certificate from police station or apply online. Application format, required documents, processing time & state-wise process explained."
 category: "Utilities"
 keywords: ["character certificate", "character certificate apply online", "police character certificate", "character certificate format", "good conduct certificate"]
 readingTime: "7 min"

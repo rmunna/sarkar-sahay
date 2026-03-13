@@ -1,8 +1,6 @@
 ---
-title: APL vs BPL Ration Card – Differences, Benefits, Eligibility, and How to Apply
-description: >-
-  Understand the differences between APL and BPL ration cards including eligibility
-  criteria, benefits, grain quota, subsidies, and how to check or apply for the
+title: "APL vs BPL Ration Card — Difference, Benefits & How to Check Your Category"
+description: "APL vs BPL ration card — what's the difference? Compare grain quota, subsidies, income limits & benefits. Check if you're APL or BPL and how to apply."
   right category.
 category: Government Schemes
 keywords:

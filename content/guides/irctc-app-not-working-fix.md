@@ -1,6 +1,6 @@
 ---
-title: "IRCTC App Not Working? Fix Connection & Crash Errors"
-description: "IRCTC app not working, crashing or showing connection error? Follow these proven fixes to resolve app issues and book tickets smoothly in 2026."
+title: "IRCTC App Not Working Today? Fix Crashes, Connection & Booking Errors"
+description: "IRCTC Rail Connect app crashing, not loading or showing server error? 7 proven fixes to get it working again. Book your train tickets without issues."
 category: "Utilities"
 keywords: ["IRCTC app not working", "IRCTC app crash fix", "IRCTC connection error", "IRCTC app not loading", "IRCTC app fix 2026", "IRCTC Rail Connect error", "IRCTC app cache clear"]
 lastUpdated: "2026-03-05"

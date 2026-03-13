@@ -1,6 +1,6 @@
 ---
-title: "DigiLocker Document Not Showing? Fix It (2026)"
-description: "DigiLocker document not showing or missing? Learn how to fix issued certificates not appearing, pull from issuer, and fetch CBSE or university docs."
+title: "DigiLocker Document Not Showing? 5 Fixes That Actually Work"
+description: "DigiLocker documents missing or not appearing? Fix issued certificates, CBSE marksheet, driving licence not showing. Pull from issuer step-by-step."
 category: "Identity Documents"
 keywords: ["digilocker document not showing", "digilocker certificate missing", "digilocker issued document not appearing", "digilocker CBSE marksheet", "digilocker pull document", "fetch document digilocker"]
 readingTime: "8 min"

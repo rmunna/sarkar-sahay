@@ -1,92 +1,110 @@
 {
-  "scanTime": "2026-03-09T05:06:04.973Z",
-  "elapsedSeconds": 39.5,
-  "changesDetected": 14,
-  "errors": 11,
+  "scanTime": "2026-03-13T16:55:48.832Z",
+  "elapsedSeconds": 43.9,
+  "changesDetected": 17,
+  "errors": 9,
   "changes": [
     {
       "site": "SBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-03-09T05:05:30.949Z"
+      "detectedAt": "2026-03-13T16:55:10.222Z"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-03-09T05:05:29.955Z"
+      "detectedAt": "2026-03-13T16:55:09.498Z"
     },
     {
       "site": "NABARD",
       "type": "CONTENT_CHANGE",
       "url": "https://www.nabard.org/career-notices.aspx",
-      "detectedAt": "2026-03-09T05:05:30.236Z"
+      "detectedAt": "2026-03-13T16:55:09.549Z"
     },
     {
       "site": "Indian Army",
       "type": "CONTENT_CHANGE",
       "url": "https://joinindianarmy.nic.in/",
-      "detectedAt": "2026-03-09T05:05:30.404Z"
+      "detectedAt": "2026-03-13T16:55:09.771Z"
     },
     {
       "site": "Indian Navy",
       "type": "CONTENT_CHANGE",
       "url": "https://www.joinindiannavy.gov.in/",
-      "detectedAt": "2026-03-09T05:05:34.653Z"
+      "detectedAt": "2026-03-13T16:55:10.500Z"
     },
     {
       "site": "CRPF",
       "type": "CONTENT_CHANGE",
       "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-03-09T05:05:35.878Z"
+      "detectedAt": "2026-03-13T16:55:20.314Z"
+    },
+    {
+      "site": "CISF",
+      "type": "CONTENT_CHANGE",
+      "url": "https://cisf.gov.in/recruitment",
+      "detectedAt": "2026-03-13T16:55:20.284Z"
     },
     {
       "site": "BSF",
       "type": "CONTENT_CHANGE",
       "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-03-09T05:05:35.272Z"
+      "detectedAt": "2026-03-13T16:55:19.884Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-03-09T05:05:37.348Z"
+      "detectedAt": "2026-03-13T16:55:22.050Z"
     },
     {
       "site": "NVS (Navodaya)",
       "type": "CONTENT_CHANGE",
       "url": "https://navodaya.gov.in/",
-      "detectedAt": "2026-03-09T05:05:38.127Z"
+      "detectedAt": "2026-03-13T16:55:22.359Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-03-09T05:05:39.654Z"
+      "detectedAt": "2026-03-13T16:55:23.549Z"
+    },
+    {
+      "site": "RPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://rpsc.rajasthan.gov.in/",
+      "detectedAt": "2026-03-13T16:55:23.748Z"
     },
     {
       "site": "GPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://gpsc.gujarat.gov.in/",
-      "detectedAt": "2026-03-09T05:05:45.372Z"
+      "detectedAt": "2026-03-13T16:55:29.263Z"
     },
     {
       "site": "HPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://www.hpsc.gov.in/",
-      "detectedAt": "2026-03-09T05:05:45.375Z"
+      "detectedAt": "2026-03-13T16:55:29.422Z"
+    },
+    {
+      "site": "CTET",
+      "type": "CONTENT_CHANGE",
+      "url": "https://ctet.nic.in/",
+      "detectedAt": "2026-03-13T16:55:33.991Z"
     },
     {
       "site": "DSSSB",
       "type": "CONTENT_CHANGE",
       "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-03-09T05:05:50.289Z"
+      "detectedAt": "2026-03-13T16:55:34.381Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-03-09T05:05:49.865Z"
+      "detectedAt": "2026-03-13T16:55:33.876Z"
     }
   ],
   "errorDetails": [
@@ -99,11 +117,6 @@
       "site": "BPSC",
       "url": "https://www.bpsc.bih.nic.in/",
       "error": "Timeout"
-    },
-    {
-      "site": "RPSC",
-      "url": "https://rpsc.rajasthan.gov.in/",
-      "error": "socket hang up"
     },
     {
       "site": "KPSC",
@@ -129,11 +142,6 @@
       "site": "Income Tax",
       "url": "https://incometaxindia.gov.in/Pages/press-releases.aspx",
       "error": "HTTP 503"
-    },
-    {
-      "site": "RBSE Rajasthan",
-      "url": "https://rajeduboard.rajasthan.gov.in/",
-      "error": "socket hang up"
     },
     {
       "site": "MSBTE",

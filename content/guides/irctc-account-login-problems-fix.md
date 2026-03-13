@@ -1,6 +1,6 @@
 ---
-title: "IRCTC Login Not Working? Fix All Login Errors Now"
-description: "IRCTC login failed, account locked, or OTP not received? Complete fix guide for all IRCTC login problems — password reset, captcha & server errors."
+title: "IRCTC Login Problem Today? Quick Fix for Failed Login, OTP & Locked Account"
+description: "IRCTC login not working, account locked, OTP not received or password forgot? Step-by-step fixes that work right now. Unlock your account in 2 minutes."
 category: "Utilities"
 keywords:
   - irctc login problem
