@@ -3,7 +3,13 @@
     "lastChecked": "2026-02-17",
     "linkStatus": "ok",
     "brokenLinks": [],
-    "totalLinks": 4
+    "totalLinks": 4,
+    "lastFreshnessCheck": "2026-03-15",
+    "freshnessStatus": "stale",
+    "freshnessIssues": [
+      "Mentions PVC card costs ₹50 — now ₹75 since Jan 2026",
+      "Should mention free online address update deadline (July 14, 2026)"
+    ]
   },
   "aadhaar-biometric-lock-unlock": {
     "lastChecked": "2026-02-17",
@@ -11,7 +17,10 @@
     "brokenLinks": [
       "https://resident.uidai.gov.in (fetch failed)"
     ],
-    "totalLinks": 4
+    "totalLinks": 4,
+    "lastFreshnessCheck": "2026-03-15",
+    "freshnessStatus": "ok",
+    "freshnessIssues": []
   },
   "aadhaar-card-apply-online": {
     "lastChecked": "2026-02-17",
@@ -34,7 +43,13 @@
       "https://ssup.uidai.gov.in (fetch failed)",
       "https://resident.uidai.gov.in (fetch failed)"
     ],
-    "totalLinks": 5
+    "totalLinks": 5,
+    "lastFreshnessCheck": "2026-03-15",
+    "freshnessStatus": "needs-review",
+    "freshnessIssues": [
+      "Fee references throughout may need verification against new ₹75 demographic / ₹125 biometric rates",
+      "Mobile update now available via new Aadhaar app — should mention this option"
+    ]
   },
   "aadhaar-linking-guide": {
     "lastChecked": "2026-02-17",
@@ -45,7 +60,13 @@
       "https://www.nvsp.in (fetch failed)",
       "https://parivahan.gov.in (HTTP 403)"
     ],
-    "totalLinks": 7
+    "totalLinks": 7,
+    "lastFreshnessCheck": "2026-03-15",
+    "freshnessStatus": "needs-review",
+    "freshnessIssues": [
+      "PAN-Aadhaar linking deadline was Dec 31, 2025 — guide should note deadline has passed and unlinked PANs are now inoperative",
+      "Mobile number update now possible via new Aadhaar app (₹75) — guide may reference only centre visits"
+    ]
   },
   "aadhaar-address-update-rejected-fix": {
     "lastChecked": "2026-02-25",
@@ -54,7 +75,13 @@
       "https://ssup.uidai.gov.in (fetch failed)",
       "https://appointments.uidai.gov.in (This operation was aborted)"
     ],
-    "totalLinks": 3
+    "totalLinks": 3,
+    "lastFreshnessCheck": "2026-03-15",
+    "freshnessStatus": "stale",
+    "freshnessIssues": [
+      "FAQ and body mention resubmission fee of ₹50 — should be ₹75 (demographic update fee since Oct 2025)",
+      "Online address update is free till July 14, 2026 — guide should mention this as alternative"
+    ]
   },
   "aadhaar-biometric-verification-failed-fix": {
     "lastChecked": "2026-02-25",
@@ -70,7 +97,10 @@
     "brokenLinks": [
       "https://eaadhaar.uidai.gov.in (fetch failed)"
     ],
-    "totalLinks": 3
+    "totalLinks": 3,
+    "lastFreshnessCheck": "2026-03-15",
+    "freshnessStatus": "ok",
+    "freshnessIssues": []
   },
   "aadhaar-esign-online-guide": {
     "lastChecked": "2026-02-25",
@@ -84,7 +114,14 @@
     "lastChecked": "2026-02-25",
     "linkStatus": "ok",
     "brokenLinks": [],
-    "totalLinks": 4
+    "totalLinks": 4,
+    "lastFreshnessCheck": "2026-03-15",
+    "freshnessStatus": "needs-review",
+    "freshnessIssues": [
+      "Fee ₹75 is correct",
+      "New 2026 rule: name can only be changed twice in lifetime — guide should mention this limit",
+      "Online address update free till July 14, 2026 — but name correction still requires fee"
+    ]
   },
   "aadhaar-otp-not-received-fix": {
     "lastChecked": "2026-02-25",
@@ -98,7 +135,13 @@
     "lastChecked": "2026-02-25",
     "linkStatus": "ok",
     "brokenLinks": [],
-    "totalLinks": 2
+    "totalLinks": 2,
+    "lastFreshnessCheck": "2026-03-15",
+    "freshnessStatus": "needs-review",
+    "freshnessIssues": [
+      "Final deadline was Dec 31, 2025 — guide should clearly state this deadline has passed",
+      "Unlinked PANs became inoperative from Jan 1, 2026 — guide should update to reflect current status"
+    ]
   },
   "aadhaar-pvc-card-order-online": {
     "lastChecked": "2026-02-25",
@@ -106,7 +149,13 @@
     "brokenLinks": [
       "https://resident.uidai.gov.in (fetch failed)"
     ],
-    "totalLinks": 3
+    "totalLinks": 3,
+    "lastFreshnessCheck": "2026-03-15",
+    "freshnessStatus": "stale",
+    "freshnessIssues": [
+      "PVC card fee increased from ₹50 to ₹75 since Jan 1, 2026 — guide shows ₹50 throughout (title description, body, comparison table, steps)",
+      "UIDAI also removed hologram from new PVC cards"
+    ]
   },
   "aadhaar-update-mobile-email": {
     "lastChecked": "2026-02-25",
@@ -114,7 +163,13 @@
     "brokenLinks": [
       "https://ssup.uidai.gov.in (fetch failed)"
     ],
-    "totalLinks": 3
+    "totalLinks": 3,
+    "lastFreshnessCheck": "2026-03-15",
+    "freshnessStatus": "stale",
+    "freshnessIssues": [
+      "New Aadhaar app (2026) now allows mobile number update from home for ₹75 with biometric auth — guide only mentions centre visit",
+      "Fee ₹75 at centre is correct"
+    ]
   },
   "aadhaar-update-status-check": {
     "lastChecked": "2026-02-25",
