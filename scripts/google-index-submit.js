@@ -18,7 +18,7 @@ import { execSync } from 'child_process';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const KEY_PATH = path.resolve(__dirname, '../../keys/gsc-service-account.json');
+const KEY_PATH = path.resolve(__dirname, '../keys/gsc-service-account.json');
 const SITE = 'https://www.citizennest.com';
 const QUOTA_FILE = path.resolve(__dirname, '../agents/.indexing-quota.json');
 

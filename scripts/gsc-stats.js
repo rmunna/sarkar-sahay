@@ -15,7 +15,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const KEY_PATH = path.resolve(__dirname, '../../keys/gsc-service-account.json');
+const KEY_PATH = path.resolve(__dirname, '../keys/gsc-service-account.json');
 const CACHE_PATH = path.resolve(__dirname, '.gsc-cache.json');
 
 // Try URL-prefix first, fall back to domain property
