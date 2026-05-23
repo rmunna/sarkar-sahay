@@ -1,6 +1,6 @@
 ---
-title: "NREGA Job Card Apply & Check: How to Register Online"
-description: "Apply for NREGA job card online, check status, and view muster roll. Get 100 days guaranteed work at ₹267-₹333 per day."
+title: "NREGA Job Card 2026 — Apply Online, Download & Check Payment Status"
+description: "Get your NREGA job card 2026: apply online or at Gram Panchayat, download job card, check payment status & track 100 days work guarantee. State-wise wage rates included."
 category: "Government Schemes"
 keywords: ["NREGA job card", "MGNREGA apply online", "nrega job card status", "muster roll check", "100 days work guarantee"]
 readingTime: "9 min"
