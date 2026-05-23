@@ -1,6 +1,6 @@
 ---
-title: "IRCTC Waitlist Confirmation Chances — RAC vs WL"
-description: "Check your IRCTC waitlist confirmation chances. Understand WL, RAC, RLWL, PQWL rules, chart preparation time, and when to cancel your ticket."
+title: "IRCTC Waiting List Confirmation Chances 2026 — Will Your WL Ticket Confirm?"
+description: "Will your IRCTC WL ticket confirm? Real confirmation chances for GNWL, RAC, RLWL & PQWL. Know chart prep time, when to cancel & what to do if WL doesn't move."
 category: "Utilities"
 keywords: ["IRCTC waitlist confirmation", "RAC vs WL", "waiting list chances", "IRCTC WL confirmation probability", "RLWL PQWL meaning", "chart preparation IRCTC", "waitlist ticket cancel"]
 lastUpdated: "2026-03-05"

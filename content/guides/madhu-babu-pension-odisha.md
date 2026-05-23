@@ -1,6 +1,6 @@
 ---
-title: "Madhu Babu Pension Yojana Odisha — Eligibility, Amount & How to Apply"
-description: "Complete guide to Madhu Babu Pension Yojana in Odisha. Monthly pension for elderly, widows, and disabled persons with application process."
+title: "Madhu Babu Pension Yojana 2026 — Eligibility, ₹500–₹700 Amount & How to Apply"
+description: "Madhu Babu Pension Yojana Odisha 2026: eligibility for elderly, widows & disabled, monthly pension ₹500–₹700, how to apply, check status by Aadhaar & list of beneficiaries."
 category: "State Schemes"
 keywords: ["Madhu Babu Pension Yojana", "Odisha pension scheme", "MBPY Odisha", "old age pension Odisha", "widow pension Odisha"]
 readingTime: "7 min"

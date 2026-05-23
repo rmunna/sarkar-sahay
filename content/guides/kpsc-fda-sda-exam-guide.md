@@ -1,29 +1,29 @@
 ---
-title: "KPSC FDA SDA 2026 — Eligibility, Salary, Syllabus & Cut-Off"
-description: "KPSC FDA SDA exam complete guide — eligibility criteria, salary ₹27,650-₹52,650, syllabus, previous cut-off marks & preparation strategy for 2026."
+title: "KPSC FDA SDA 2026 Recruitment — Vacancies, Eligibility, Syllabus & Cut-Off"
+description: "KPSC FDA SDA 2026: 178 vacancies, salary ₹27,650–₹52,650, eligibility, syllabus, cut-off marks & step-by-step application guide for Karnataka government jobs."
 category: "Jobs & Exams"
-keywords: ["KPSC FDA SDA","FDA qualification in Karnataka","KPSC FDA salary","FDA SDA difference","Karnataka FDA exam","Karnataka SDA exam","KPSC exam guide","Karnataka FDA eligibility","KPSC FDA SDA 2025"]
+keywords: ["KPSC FDA SDA 2026","KPSC FDA SDA recruitment 2026","FDA qualification in Karnataka","KPSC FDA salary","FDA SDA difference","Karnataka FDA exam 2026","Karnataka SDA exam 2026","KPSC exam guide","Karnataka FDA eligibility","sda fda recruitment 2026"]
 readingTime: "14 min"
 officialLinks:
   - "https://kpsc.kar.nic.in"
   - "https://cetonline.karnataka.gov.in"
 ---
 
-# KPSC FDA/SDA Exam 2025 — Qualification, Salary, Exam Pattern & Preparation Guide
+# KPSC FDA/SDA Exam 2026 — Qualification, Salary, Exam Pattern & Preparation Guide
 
 The Karnataka Public Service Commission (KPSC) conducts the recruitment exam for First Division Assistant (FDA) and Second Division Assistant (SDA) posts in various government departments of Karnataka. These are among the most popular clerical/administrative government jobs in the state.
 
-FDA and SDA posts offer a stable government career with opportunities for promotion to higher administrative positions. In 2025, the Karnataka Examination Authority (KEA) released a notification for 178 FDA and SDA vacancies under the RPC (Roster Promotion Category) quota.
+FDA and SDA posts offer a stable government career with opportunities for promotion to higher administrative positions. In 2026, the Karnataka Examination Authority (KEA) released a notification for 178 FDA and SDA vacancies under the RPC (Roster Promotion Category) quota.
 
-## Latest KPSC FDA SDA 2025 Notification
+## Latest KPSC FDA SDA 2026 Notification
 
-The KEA Karnataka SDA FDA Recruitment 2025 notification was released on **8th October 2025** with the following key details:
+The KEA Karnataka SDA FDA Recruitment 2026 notification was released on **8th October 2025** with the following key details:
 
 | Detail | Information |
 |--------|-------------|
 | Conducting Body | Karnataka Examination Authority (KEA) |
 | Total Vacancies | 178 (FDA + SDA combined) |
-| Application Period | 8 Oct 2025 – 14 Nov 2025 |
+| Application Period | 8 Oct 2025 – 14 Nov 2025 (closed) |
 | Exam Mode | OMR-based (Offline) |
 | Result Status | Released at cetonline.karnataka.gov.in |
 | Official Website | [kpsc.kar.nic.in](https://kpsc.kar.nic.in) |
@@ -275,7 +275,7 @@ The selection process primarily involves a **written examination**. Some notific
 Knowledge of Kannada is mandatory for all applicants. While there is no strict domicile requirement in all notifications, candidates from other states must demonstrate Kannada proficiency. Check the specific notification for domicile restrictions.
 
 ### How often is FDA/SDA recruitment conducted?
-KPSC conducts FDA/SDA recruitment typically **every 2–3 years** based on vacancy availability. The 2025 notification had 178 vacancies, while the 2022 cycle had 1,112 vacancies.
+KPSC conducts FDA/SDA recruitment typically **every 2–3 years** based on vacancy availability. The 2026 notification had 178 vacancies, while the 2022 cycle had 1,112 vacancies.
 
 ### What is the SDA salary in Karnataka?
 SDA pay scale is ₹34,100–₹67,600. The approximate in-hand salary is **₹36,000–₹45,000 per month** including allowances, depending on the posting location.
