@@ -298,8 +298,29 @@ export default async function GuidePage({ params }: Props) {
                   rel="noopener noreferrer sponsored"
                   className="inline-flex items-center gap-2 px-4 py-2 bg-white border border-purple-300 hover:bg-purple-50 text-purple-800 text-sm font-semibold rounded-lg transition"
                 >
-                  Invest Free on Groww
+                  Start SIP Free on Groww
                 </a>
+              </div>
+              <div className="mt-4 pt-4 border-t border-purple-200">
+                <p className="text-xs font-bold uppercase tracking-widest text-purple-600 mb-2">Also Compare</p>
+                <div className="flex flex-wrap gap-3">
+                  <a
+                    href="https://www.bankbazaar.com/credit-card.html"
+                    target="_blank"
+                    rel="noopener noreferrer sponsored"
+                    className="inline-flex items-center gap-2 px-3 py-1.5 bg-white border border-purple-200 hover:bg-purple-50 text-purple-700 text-xs font-semibold rounded-lg transition"
+                  >
+                    Best Credit Cards 2026 →
+                  </a>
+                  <a
+                    href="https://www.bankbazaar.com/home-loan.html"
+                    target="_blank"
+                    rel="noopener noreferrer sponsored"
+                    className="inline-flex items-center gap-2 px-3 py-1.5 bg-white border border-purple-200 hover:bg-purple-50 text-purple-700 text-xs font-semibold rounded-lg transition"
+                  >
+                    Compare Loan Rates →
+                  </a>
+                </div>
               </div>
             </div>
           )}
