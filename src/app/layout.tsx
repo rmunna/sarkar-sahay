@@ -75,11 +75,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           gtag('config', 'G-NNYF0TD9EY');
         `}
       </Script>
-      {/* Google AdSense */}
+      {/* Google AdSense — Auto Ads */}
       <Script
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7012449506814064"
         crossOrigin="anonymous"
-        strategy="lazyOnload"
+        strategy="afterInteractive"
       />
       {/* Microsoft Clarity */}
       <Script id="clarity-init" strategy="lazyOnload">
