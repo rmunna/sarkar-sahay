@@ -93,12 +93,23 @@ If the document should be available but isn't:
 - Enter your **roll number and year of passing**
 - If not found, your school may not have submitted records to CBSE's digital repository
 
-### University Degree/Marksheet Missing
+### Why Is My Degree Certificate Not Showing in DigiLocker?
 
-- Check if your university is a [DigiLocker partner](https://partners.digilocker.gov.in)
-- Only partner universities can push documents
-- Major partners include: Delhi University, Mumbai University, IGNOU, Anna University, and many state universities
-- If not a partner, the document won't be available — use the Upload feature instead
+University degree certificates only appear in DigiLocker if **your university has integrated with DigiLocker** and actively pushes documents. Most universities only started this from 2021 onwards.
+
+**Step 1 — Check if your university is a partner:**
+Go to [partners.digilocker.gov.in](https://partners.digilocker.gov.in) → search your university name. Major integrated universities include: Delhi University, Mumbai University, Anna University, IGNOU, Osmania, Calcutta University, VTU (Karnataka), and many state universities and IITs.
+
+**Step 2 — Try fetching manually:**
+Login to DigiLocker → Issued Documents → Search your university name → Enter your enrollment/roll number
+
+**Step 3 — If your university is NOT a partner:**
+Your degree certificate simply is not available on DigiLocker yet. Options:
+- Upload a scanned copy yourself (as a self-uploaded document — not issuer-verified)
+- Contact your university's examination department and ask them to push records to DigiLocker
+- Carry the original or attested photocopy for official purposes until DigiLocker integration happens
+
+**Newer degrees (2021 onwards)** are more likely to be available. Older degrees (before 2020) from most universities are not digitised.
 
 ### Driving Licence Not Appearing
 

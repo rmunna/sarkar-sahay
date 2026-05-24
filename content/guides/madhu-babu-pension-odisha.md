@@ -1,6 +1,6 @@
 ---
-title: "Madhu Babu Pension Yojana 2026 — Eligibility, ₹500–₹700 Amount & How to Apply"
-description: "Madhu Babu Pension Yojana Odisha 2026: eligibility for elderly, widows & disabled, monthly pension ₹500–₹700, how to apply, check status by Aadhaar & list of beneficiaries."
+title: "Madhu Babu Pension Yojana 2026 — Eligibility, ₹3,000/Month & Status Check by Aadhaar"
+description: "Madhu Babu Pension Yojana Odisha 2026: check MBPY status by Aadhaar at ssepd.odisha.gov.in, monthly pension ₹3,000–₹3,500, eligibility for elderly, widows & disabled, how to apply."
 category: "State Schemes"
 keywords: ["Madhu Babu Pension Yojana", "Odisha pension scheme", "MBPY Odisha", "old age pension Odisha", "widow pension Odisha"]
 readingTime: "7 min"
@@ -8,6 +8,32 @@ officialLinks:
   - https://ssepd.odisha.gov.in
   - https://odisha.gov.in
 lastUpdated: "2026-03-04"
+---
+
+## Check MBPY Status by Aadhaar — SSEPD Portal
+
+The most searched question about this scheme is how to check pension status by Aadhaar number online.
+
+**Steps to check Madhu Babu Pension / SSEPD application status by Aadhaar:**
+
+1. Go to **[ssepd.odisha.gov.in](https://ssepd.odisha.gov.in)**
+2. On the homepage, look for **"Application Status"** or **"Beneficiary Status"** link
+3. Select **"Search by Aadhaar"** from the dropdown
+4. Enter your **12-digit Aadhaar number**
+5. Click **Search / Submit**
+6. Your pension application status, beneficiary ID, and payment history will appear
+
+**What the status screen shows:**
+- Application number and date
+- Approval status (Pending / Approved / Rejected)
+- Current pension amount (₹3,000 or ₹3,500/month)
+- Last payment date and amount
+- Bank account details linked
+
+**If status is not found:** Your application may still be in verification. Contact your Block Development Office (BDO) with your application acknowledgement slip.
+
+**SSEPD helpline:** 155335 (Odisha government toll-free)
+
 ---
 
 ## What is Madhu Babu Pension Yojana (MBPY)?
@@ -119,6 +145,12 @@ The scheme was formed by merging the earlier **Revised Old Age Pension Rules** a
 5. **Apply through CSC** — Common Service Centres (Jan Seva Kendras) can help with online applications
 
 ## Frequently Asked Questions
+
+### Q0. How to check SSEPD application status by Aadhaar?
+Go to [ssepd.odisha.gov.in](https://ssepd.odisha.gov.in) → click "Application Status" → select "Search by Aadhaar" → enter your 12-digit Aadhaar number → click Search. The portal shows your pension application status, approval stage, and last payment details.
+
+### Q0b. How to check Madhu Babu Pension Yojana status by Aadhaar card?
+The process is the same: visit ssepd.odisha.gov.in, use the "Beneficiary Status" or "Application Status" link, enter your Aadhaar number. If the portal is down, call the SSEPD helpline 155335 or visit your nearest BDO office with your application ID.
 
 ### Q1. What is the current pension amount under MBPY?
 As of 2025-26, the pension amount is **₹3,000 per month** for most categories and **₹3,500 per month** for persons aged 80+ or with 80%+ disability, under the enhanced Mukhyamantri Sahayata Yojana.

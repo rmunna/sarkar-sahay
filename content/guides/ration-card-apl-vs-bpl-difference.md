@@ -1,6 +1,6 @@
 ---
-title: "APL vs BPL Ration Card 2026 — Difference, Subsidy, Eligibility & Benefits"
-description: "APL vs BPL ration card: income limits, grain quota (5kg vs 35kg), subsidy amounts, AAY category differences & how to check or change your ration card type in 2026."
+title: "APL vs BPL Ration Card — Difference, Card Colours, Subsidy & Eligibility 2026"
+description: "APL vs BPL ration card difference: card colours (state-wise), grain quota (5kg BPL vs limited APL), RKSY-1 is BPL, AAY category benefits, eligibility criteria and how to convert APL to BPL."
 category: Government Schemes
 keywords:
   - apl vs bpl ration card
@@ -45,6 +45,30 @@ India's Public Distribution System (PDS) provides subsidised food grains through
 | **Education Benefits** | Limited | Fee waivers, scholarships |
 | **ID Proof** | Yes | Yes |
 | **Address Proof** | Yes | Yes |
+
+---
+
+## APL and BPL Card Colours — Quick Answer
+
+**APL card colour:** Orange or Saffron in most states (some states use White or Blue for APL)
+**BPL card colour:** Yellow or Green in most states
+**AAY card colour:** Yellow (often the same colour as BPL in many states, distinguished by "AAY" text)
+
+Card colours vary by state — see the detailed state-wise table below.
+
+## RKSY-1 Ration Card — Is It BPL or APL?
+
+**RKSY-1 is a BPL category card.** RKSY stands for **Rashtriya Khadya Suraksha Yojana** (National Food Security Scheme) — it is the name Karnataka and some other states use for the Priority Household (PHH) category under the National Food Security Act 2013.
+
+| Card Type | Category | What It Means |
+|-----------|----------|---------------|
+| RKSY-1 | **BPL / Priority Household (PHH)** | Subsidised rice at ₹2/kg, 5 kg/person/month |
+| RKSY-2 | Non-Priority (APL equivalent) | Limited subsidised grains or none |
+
+RKSY-1 card holders are entitled to:
+- Subsidised rice (₹2/kg) and wheat (₹1/kg) under NFSA
+- Priority access to government welfare schemes
+- Ayushman Bharat (PMJAY) health insurance eligibility
 
 ---
 
@@ -157,6 +181,15 @@ Processing time varies from 15–60 days depending on the state.
 ---
 
 ## Frequently Asked Questions
+
+### Is RKSY-1 BPL or APL?
+RKSY-1 is **BPL (Below Poverty Line)**. It is Karnataka's name for Priority Household (PHH) cards under the National Food Security Act. RKSY-1 card holders get subsidised rice at ₹2/kg and 5 kg of grains per person per month.
+
+### What is the colour of APL ration card?
+APL ration card colour varies by state. Most common: **Orange or Saffron** (UP, Bihar, Rajasthan). Some states use White (Tamil Nadu), Blue (Karnataka for non-priority). There is no single national colour standard.
+
+### What is the colour of BPL ration card?
+BPL ration card colour also varies by state. Most common: **Yellow or Green**. Karnataka BPL (RKSY-1) is typically Green; UP and Bihar BPL cards are Green; Maharashtra is Yellow. AAY cards in most states are also Yellow but marked "AAY."
 
 ### What is AAY ration card?
 AAY (Antyodaya Anna Yojana) is for the poorest of poor families — those with no regular income, destitute, elderly, disabled, or tribal households. They get 35 kg grain per family per month at the lowest prices.

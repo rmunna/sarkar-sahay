@@ -1,17 +1,35 @@
 ---
-title: "KPSC FDA SDA 2026 Recruitment — Vacancies, Eligibility, Syllabus & Cut-Off"
-description: "KPSC FDA SDA 2026: 178 vacancies, salary ₹27,650–₹52,650, eligibility, syllabus, cut-off marks & step-by-step application guide for Karnataka government jobs."
+title: "SDA Full Form, Salary & KPSC FDA SDA 2026 Recruitment — Complete Guide"
+description: "SDA full form is Second Division Assistant. FDA full form is First Division Assistant. KPSC FDA SDA 2026: salary ₹34,100–₹67,600 (SDA) and ₹44,425–₹83,700 (FDA), eligibility, syllabus & application guide."
 category: "Jobs & Exams"
-keywords: ["KPSC FDA SDA 2026","KPSC FDA SDA recruitment 2026","FDA qualification in Karnataka","KPSC FDA salary","FDA SDA difference","Karnataka FDA exam 2026","Karnataka SDA exam 2026","KPSC exam guide","Karnataka FDA eligibility","sda fda recruitment 2026"]
+keywords: ["sda full form","fda full form karnataka","sda salary in karnataka","fda salary in karnataka","KPSC FDA SDA 2026","KPSC FDA SDA recruitment 2026","FDA qualification in Karnataka","sda fda recruitment 2026","Karnataka FDA exam 2026","Karnataka SDA exam 2026"]
 readingTime: "14 min"
 officialLinks:
   - "https://kpsc.kar.nic.in"
   - "https://cetonline.karnataka.gov.in"
 ---
 
-# KPSC FDA/SDA Exam 2026 — Qualification, Salary, Exam Pattern & Preparation Guide
+# SDA Full Form, Salary & KPSC FDA/SDA 2026 Recruitment Guide
 
-The Karnataka Public Service Commission (KPSC) conducts the recruitment exam for First Division Assistant (FDA) and Second Division Assistant (SDA) posts in various government departments of Karnataka. These are among the most popular clerical/administrative government jobs in the state.
+## SDA Full Form and FDA Full Form
+
+**SDA full form:** Second Division Assistant
+**FDA full form:** First Division Assistant
+
+These are Karnataka government administrative posts recruited by the Karnataka Public Service Commission (KPSC) and Karnataka Examination Authority (KEA). SDA (Second Division Assistant) requires PUC (12th pass); FDA (First Division Assistant) requires a Bachelor's degree.
+
+## SDA Salary in Karnataka 2026
+
+| Post | Pay Scale | Approximate In-Hand Salary |
+|------|-----------|---------------------------|
+| **SDA** (Second Division Assistant) | ₹34,100 – ₹67,600 | ₹36,000 – ₹45,000/month |
+| **FDA** (First Division Assistant) | ₹44,425 – ₹83,700 | ₹48,000 – ₹58,000/month |
+
+Salary includes Basic Pay + DA + HRA + other allowances as per Karnataka government pay rules. Both posts have government service benefits including provident fund, medical, and pension.
+
+---
+
+The Karnataka Public Service Commission (KPSC) conducts the recruitment exam for FDA and SDA posts in various government departments of Karnataka. These are among the most popular clerical/administrative government jobs in the state.
 
 FDA and SDA posts offer a stable government career with opportunities for promotion to higher administrative positions. In 2026, the Karnataka Examination Authority (KEA) released a notification for 178 FDA and SDA vacancies under the RPC (Roster Promotion Category) quota.
 
