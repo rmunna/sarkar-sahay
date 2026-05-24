@@ -91,7 +91,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           })(window,document,"clarity","script","vibzpqadbl");
         `}
       </Script>
-      <body className={`${inter.className} bg-gray-50 text-gray-900 antialiased min-h-screen flex flex-col`}>
+      <body className={`${inter.className} bg-gray-100 text-gray-900 antialiased min-h-screen flex flex-col`}>
         {/* WebSite Schema for Google Sitelinks Search Box */}
         <script
           type="application/ld+json"
@@ -111,7 +111,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           }}
         />
         {/* Header */}
-        <header className="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-sm">
+        <header className="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-[0_1px_8px_rgba(0,0,0,0.07)]">
           <nav className="max-w-6xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
             <Link href="/" className="flex items-center gap-2 group">
               <img src="/favicon.svg" alt="CitizenNest" width={32} height={32} className="w-8 h-8" />

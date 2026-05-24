@@ -9,41 +9,58 @@
 }
 
 @layer components {
-  /* Guide article prose overrides */
+
+  /* ── Page-level card (white content area on gray background) ─────────── */
+  .page-card {
+    @apply bg-white rounded-2xl border border-gray-100;
+    box-shadow: 0 2px 16px rgba(0, 0, 0, 0.06);
+  }
+
+  /* ── Guide article prose overrides ────────────────────────────────────── */
+
   .guide-content h2 {
-    @apply text-xl font-bold text-gray-900 mt-10 mb-4 pb-2 border-b border-gray-100;
+    @apply text-xl font-bold text-gray-900 mt-10 mb-4 pb-3;
+    border-bottom: 2px solid #fed7aa; /* orange-200 — visible but not heavy */
   }
 
   .guide-content h3 {
-    @apply text-lg font-semibold text-gray-800 mt-8 mb-3;
+    @apply text-base font-semibold text-gray-800 mt-7 mb-3;
   }
 
   .guide-content h4 {
-    @apply text-base font-semibold text-gray-700 mt-6 mb-2;
+    @apply text-sm font-semibold text-gray-700 uppercase tracking-wide mt-5 mb-2;
   }
 
   .guide-content p {
-    @apply text-gray-700 leading-relaxed mb-4;
+    @apply text-gray-700 leading-[1.75] mb-4;
   }
 
-  .guide-content ul, .guide-content ol {
-    @apply mb-4 pl-6;
+  .guide-content ul,
+  .guide-content ol {
+    @apply mb-5 pl-6 space-y-1.5;
   }
 
   .guide-content li {
-    @apply text-gray-700 mb-2 leading-relaxed;
+    @apply text-gray-700 leading-relaxed;
   }
 
   .guide-content ul li {
-    @apply list-disc;
+    @apply list-disc marker:text-orange-400;
   }
 
   .guide-content ol li {
-    @apply list-decimal;
+    @apply list-decimal marker:text-orange-500 marker:font-semibold;
   }
 
+  /* Tables — bordered card style */
   .guide-content table {
-    @apply w-full border-collapse rounded-lg overflow-hidden mb-6 text-sm;
+    @apply w-full text-sm mb-6;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid #e5e7eb; /* gray-200 */
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
   }
 
   .guide-content thead {
@@ -51,27 +68,39 @@
   }
 
   .guide-content th {
-    @apply px-4 py-3 text-left font-semibold text-gray-900 border-b-2 border-orange-200;
+    @apply px-4 py-3 text-left font-semibold text-gray-800 text-xs uppercase tracking-wide;
+    border-bottom: 2px solid #fed7aa; /* orange-200 */
   }
 
   .guide-content td {
-    @apply px-4 py-3 border-b border-gray-100 text-gray-700;
+    @apply px-4 py-3 text-gray-700;
+    border-bottom: 1px solid #f3f4f6; /* gray-100 */
   }
 
-  .guide-content tr:hover td {
-    @apply bg-gray-50;
+  .guide-content tbody tr:last-child td {
+    border-bottom: none;
   }
 
+  .guide-content tbody tr:hover td {
+    @apply bg-orange-50/40;
+  }
+
+  /* Blockquote — note/tip box */
   .guide-content blockquote {
-    @apply border-l-4 border-orange-400 bg-orange-50 px-4 py-3 my-4 rounded-r-lg text-gray-700 text-sm;
+    @apply border-l-[3px] border-orange-400 bg-orange-50/60 px-4 py-3 my-5 rounded-r-xl text-gray-700 text-sm leading-relaxed;
+    box-shadow: inset 0 0 0 1px rgba(251, 146, 60, 0.12);
   }
 
   .guide-content blockquote strong {
     @apply text-orange-800;
   }
 
+  .guide-content blockquote p {
+    @apply mb-0;
+  }
+
   .guide-content a {
-    @apply text-orange-600 underline decoration-orange-200 underline-offset-2 hover:decoration-orange-500 transition;
+    @apply text-orange-600 underline decoration-orange-200 underline-offset-2 hover:text-orange-700 hover:decoration-orange-400 transition-colors;
   }
 
   .guide-content strong {
@@ -79,35 +108,44 @@
   }
 
   .guide-content code {
-    @apply bg-gray-100 px-1.5 py-0.5 rounded text-sm font-mono text-gray-800;
+    @apply bg-gray-100 text-gray-800 px-1.5 py-0.5 rounded text-[0.82em] font-mono;
+    border: 1px solid #e5e7eb;
   }
 
   .guide-content hr {
-    @apply border-gray-200 my-8;
+    @apply my-8 border-0;
+    border-top: 1px solid #f3f4f6;
   }
 
-  /* Step styling */
-  .guide-content h4:has(+ ol),
-  .guide-content h3:has(+ ol) {
+  /* Step-list headings */
+  .guide-content h3:has(+ ol),
+  .guide-content h4:has(+ ol) {
     @apply text-orange-700;
   }
 
-  /* Category badge */
+  /* ── Category badge ────────────────────────────────────────────────────── */
   .category-badge {
     @apply inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold tracking-wide uppercase;
   }
 
-  /* Card hover effect */
+  /* ── Guide card (listing pages) ───────────────────────────────────────── */
   .guide-card {
-    @apply block border border-gray-200 rounded-xl p-6 hover:border-orange-300 hover:shadow-md transition-all duration-200 bg-white;
+    @apply block border border-gray-200 rounded-xl p-5 bg-white transition-all duration-200;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
   }
 
-  /* TOC sidebar */
+  .guide-card:hover {
+    @apply border-orange-300;
+    box-shadow: 0 4px 12px rgba(234, 88, 12, 0.10);
+    transform: translateY(-1px);
+  }
+
+  /* ── TOC sidebar links ─────────────────────────────────────────────────── */
   .toc-link {
-    @apply text-sm text-gray-500 hover:text-orange-600 transition block py-1 border-l-2 border-transparent hover:border-orange-400 pl-3;
+    @apply text-[13px] text-gray-500 hover:text-orange-600 transition-colors block py-1.5 border-l-2 border-transparent hover:border-orange-400 pl-3 leading-snug;
   }
 
   .toc-link.active {
-    @apply text-orange-600 border-orange-500 font-medium;
+    @apply text-orange-600 border-orange-500 font-medium bg-orange-50/60;
   }
 }

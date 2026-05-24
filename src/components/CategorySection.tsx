@@ -41,7 +41,7 @@ export default function CategorySection({
           <Link
             key={guide.slug}
             href={`/guide/${guide.slug}`}
-            className="block border border-gray-200 rounded-lg p-4 hover:border-orange-400 hover:shadow-sm transition"
+            className="guide-card"
           >
             <h3 className="font-semibold text-gray-900 mb-1">{guide.title}</h3>
             <p className="text-sm text-gray-500">{guide.description}</p>

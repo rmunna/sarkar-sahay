@@ -364,6 +364,9 @@ export default function BankHolidaysPage() {
         <span className="text-gray-800 font-medium">Bank Holidays 2026</span>
       </nav>
 
+      {/* White content card */}
+      <div className="bg-white rounded-2xl border border-gray-100 shadow-sm px-6 py-8 sm:px-8 sm:py-10">
+
       <h1 className="text-2xl font-bold text-gray-900 mb-2">
         Bank Holidays 2026 — India Complete List
       </h1>
@@ -530,6 +533,8 @@ export default function BankHolidaysPage() {
         <Link href="/ifsc" className="text-sm text-orange-600 hover:underline">→ IFSC Lookup</Link>
         <Link href="/guide/bank-account-opening-guide" className="text-sm text-orange-600 hover:underline">→ Bank Account Guide</Link>
       </div>
+
+      </div>{/* end white card */}
     </div>
   );
 }
