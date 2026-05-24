@@ -217,33 +217,7 @@ export default function SIPCalculator() {
         <Link href="/calculator" className="text-sm text-orange-600 hover:underline">→ All Calculators</Link>
       </div>
 
-      {/* Affiliate CTA — Start SIP */}
-      <div className="rounded-2xl border border-green-200 bg-gradient-to-br from-green-50 to-emerald-50 p-6 mb-8">
-        <p className="text-xs font-bold uppercase tracking-widest text-green-600 mb-1">Sponsored</p>
-        <h3 className="text-lg font-bold text-gray-900 mb-1">Ready to Start Your SIP?</h3>
-        <p className="text-sm text-gray-600 mb-4">
-          Open a free mutual fund account and start SIP in 5 minutes — no paperwork, zero commission.
-          Over 1 crore Indians invest via these platforms.
-        </p>
-        <div className="flex flex-wrap gap-3">
-          <a
-            href="https://groww.in/mutual-funds/sip"
-            target="_blank"
-            rel="noopener noreferrer sponsored"
-            className="inline-flex items-center gap-2 px-4 py-2 bg-green-600 hover:bg-green-700 text-white text-sm font-semibold rounded-lg transition"
-          >
-            Start SIP on Groww — Free →
-          </a>
-          <a
-            href="https://upstox.com/mutual-funds/"
-            target="_blank"
-            rel="noopener noreferrer sponsored"
-            className="inline-flex items-center gap-2 px-4 py-2 bg-white border border-green-300 hover:bg-green-50 text-green-800 text-sm font-semibold rounded-lg transition"
-          >
-            Invest via Upstox
-          </a>
-        </div>
-      </div>
+      {/* Affiliate CTA — removed until proper affiliate IDs are configured */}
 
       {/* FAQ */}
       <div className="bg-white rounded-xl border border-gray-200 p-6">

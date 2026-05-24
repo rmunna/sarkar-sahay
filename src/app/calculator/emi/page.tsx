@@ -266,33 +266,7 @@ export default function EMICalculator() {
         <Link href="/calculator" className="text-sm text-orange-600 hover:underline">→ All Calculators</Link>
       </div>
 
-      {/* Affiliate CTA — Compare Loans */}
-      <div className="rounded-2xl border border-blue-200 bg-gradient-to-br from-blue-50 to-indigo-50 p-6 mb-8">
-        <p className="text-xs font-bold uppercase tracking-widest text-blue-600 mb-1">Sponsored</p>
-        <h3 className="text-lg font-bold text-gray-900 mb-1">Get the Lowest Interest Rate on Your Loan</h3>
-        <p className="text-sm text-gray-600 mb-4">
-          Compare home loan, car loan & personal loan rates from 50+ banks in 2 minutes.
-          Lower rate = smaller EMI. Check your eligibility for free.
-        </p>
-        <div className="flex flex-wrap gap-3">
-          <a
-            href="https://www.bankbazaar.com/home-loan.html"
-            target="_blank"
-            rel="noopener noreferrer sponsored"
-            className="inline-flex items-center gap-2 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white text-sm font-semibold rounded-lg transition"
-          >
-            Compare Loan Rates — Free →
-          </a>
-          <a
-            href="https://www.paisabazaar.com/personal-loan/"
-            target="_blank"
-            rel="noopener noreferrer sponsored"
-            className="inline-flex items-center gap-2 px-4 py-2 bg-white border border-blue-300 hover:bg-blue-50 text-blue-800 text-sm font-semibold rounded-lg transition"
-          >
-            Check Eligibility on PaisaBazaar
-          </a>
-        </div>
-      </div>
+      {/* Affiliate CTA — removed until proper affiliate IDs are configured */}
 
       {/* FAQ */}
       <div className="bg-white rounded-xl border border-gray-200 p-6">
