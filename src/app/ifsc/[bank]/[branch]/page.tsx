@@ -4,6 +4,7 @@ import {
   getNearbyBranches,
   BANK_DISPLAY_NAMES,
   BANK_IFSC_PREFIX,
+  BANK_OFFICIAL_URLS,
 } from "@/lib/ifsc";
 import { notFound } from "next/navigation";
 import Link from "next/link";
@@ -174,14 +175,16 @@ export default async function IFSCBranchPage({ params }: Props) {
         <p className="text-xs text-gray-400 mb-8 flex items-center gap-1">
           <span>📅</span>
           <span>Data sourced from RBI IFSC directory. Last verified: {new Date().toLocaleDateString("en-IN", { month: "long", year: "numeric" })}.</span>
-          <a
-            href="https://sbi.co.in"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-blue-500 hover:underline ml-1"
-          >
-            Verify at {data.bank} official site →
-          </a>
+          {BANK_OFFICIAL_URLS[bank] && (
+            <a
+              href={BANK_OFFICIAL_URLS[bank]}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-500 hover:underline ml-1"
+            >
+              Verify at {data.bank} official site →
+            </a>
+          )}
         </p>
 
         {/* How to use */}

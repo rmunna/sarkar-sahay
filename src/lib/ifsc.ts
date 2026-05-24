@@ -265,6 +265,28 @@ export const BANK_DISPLAY_NAMES: Record<string, string> = {
   bandhan: "Bandhan Bank",
 };
 
+export const BANK_OFFICIAL_URLS: Record<string, string> = {
+  sbi: "https://www.sbi.co.in",
+  hdfc: "https://www.hdfcbank.com",
+  icici: "https://www.icicibank.com",
+  axis: "https://www.axisbank.com",
+  pnb: "https://www.pnbindia.in",
+  bob: "https://www.bankofbaroda.in",
+  canara: "https://canarabank.com",
+  union: "https://www.unionbankofindia.co.in",
+  boi: "https://www.bankofindia.co.in",
+  kotak: "https://www.kotak.com",
+  idbi: "https://www.idbibank.in",
+  indian: "https://www.indianbank.in",
+  yes: "https://www.yesbank.in",
+  central: "https://www.centralbankofindia.co.in",
+  indusind: "https://www.indusind.com",
+  federal: "https://www.federalbank.co.in",
+  rbl: "https://www.rblbank.com",
+  idfc: "https://www.idfcfirstbank.com",
+  bandhan: "https://www.bandhanbank.com",
+};
+
 export const BANK_IFSC_PREFIX: Record<string, string> = {
   sbi: "SBIN",
   hdfc: "HDFC",
