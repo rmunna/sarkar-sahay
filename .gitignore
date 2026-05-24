@@ -8,3 +8,6 @@ next-env.d.ts
 .pipeline/
 scripts/.pinterest-token
 exam-monitor-tracker.json
+
+# IFSC raw source data (too large; re-download with: npx tsx scripts/fetch-ifsc-data.ts)
+data/ifsc/raw/

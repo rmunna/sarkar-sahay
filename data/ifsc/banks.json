@@ -1,0 +1,97 @@
+[
+  {
+    "slug": "sbi",
+    "name": "State Bank of India",
+    "count": 26430
+  },
+  {
+    "slug": "pnb",
+    "name": "Punjab National Bank",
+    "count": 13017
+  },
+  {
+    "slug": "canara",
+    "name": "Canara Bank",
+    "count": 12127
+  },
+  {
+    "slug": "union",
+    "name": "Union Bank of India",
+    "count": 11230
+  },
+  {
+    "slug": "hdfc",
+    "name": "HDFC Bank",
+    "count": 11021
+  },
+  {
+    "slug": "bob",
+    "name": "Bank of Baroda",
+    "count": 10137
+  },
+  {
+    "slug": "icici",
+    "name": "ICICI Bank",
+    "count": 8345
+  },
+  {
+    "slug": "boi",
+    "name": "Bank of India",
+    "count": 7168
+  },
+  {
+    "slug": "axis",
+    "name": "Axis Bank",
+    "count": 6993
+  },
+  {
+    "slug": "indian",
+    "name": "Indian Bank",
+    "count": 6018
+  },
+  {
+    "slug": "central",
+    "name": "Central Bank of India",
+    "count": 4760
+  },
+  {
+    "slug": "idbi",
+    "name": "IDBI Bank",
+    "count": 3733
+  },
+  {
+    "slug": "yes",
+    "name": "Yes Bank",
+    "count": 3381
+  },
+  {
+    "slug": "kotak",
+    "name": "Kotak Mahindra Bank",
+    "count": 2533
+  },
+  {
+    "slug": "indusind",
+    "name": "IndusInd Bank",
+    "count": 2301
+  },
+  {
+    "slug": "bandhan",
+    "name": "Bandhan Bank",
+    "count": 1994
+  },
+  {
+    "slug": "federal",
+    "name": "Federal Bank",
+    "count": 1790
+  },
+  {
+    "slug": "idfc",
+    "name": "IDFC FIRST Bank",
+    "count": 1175
+  },
+  {
+    "slug": "rbl",
+    "name": "RBL Bank",
+    "count": 638
+  }
+]

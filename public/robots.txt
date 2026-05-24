@@ -3,6 +3,7 @@ Allow: /
 Disallow: /_next/
 Disallow: /api/
 
+Sitemap: https://www.citizennest.com/sitemap-index.xml
 Sitemap: https://www.citizennest.com/sitemap.xml
 Sitemap: https://www.citizennest.com/stories-sitemap.xml
 

@@ -12,7 +12,7 @@ keywords:
 category: "Tax & Finance"
 author: "CitizenNest Team"
 readingTime: "8 min"
-lastUpdated: "2025-02-28"
+lastUpdated: "2026-05-24"
 officialLinks:
   - "https://www.rbi.org.in/scripts/FAQView.aspx?Id=60"
   - "https://www.npci.org.in/what-we-do/imps/product-overview"
