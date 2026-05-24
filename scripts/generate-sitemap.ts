@@ -164,6 +164,10 @@ function generateMainSitemap(): string {
     { loc: `${BASE_URL}/hsn`, lastmod: today, changefreq: "monthly", priority: "0.8" },
     // RTO home
     { loc: `${BASE_URL}/rto`, lastmod: today, changefreq: "monthly", priority: "0.8" },
+    // Court home + special pages
+    { loc: `${BASE_URL}/court`, lastmod: today, changefreq: "monthly", priority: "0.8" },
+    { loc: `${BASE_URL}/court/supreme-court`, lastmod: today, changefreq: "monthly", priority: "0.8" },
+    { loc: `${BASE_URL}/court/cnr`, lastmod: today, changefreq: "monthly", priority: "0.7" },
     ...STATE_SLUGS.map((s) => ({
       loc: `${BASE_URL}/state/${s}`,
       lastmod: today,
@@ -356,6 +360,52 @@ function generateRTOSitemap(publicDir: string): string {
   return filename;
 }
 
+interface CourtSummary {
+  slug: string;
+  stateSlug: string;
+  type: string;
+}
+
+function generateCourtSitemap(publicDir: string): string {
+  const today = new Date().toISOString().split("T")[0];
+  const courtsFile = path.join(__dirname, "..", "data", "court", "courts.json");
+  if (!fs.existsSync(courtsFile)) return "";
+
+  const courts = JSON.parse(fs.readFileSync(courtsFile, "utf8")) as CourtSummary[];
+
+  const urls: SitemapUrl[] = [];
+
+  // State hubs — unique stateSlug values (exclude supreme which has own page)
+  const stateSeen = new Set<string>();
+  for (const c of courts) {
+    if (!stateSeen.has(c.stateSlug)) {
+      stateSeen.add(c.stateSlug);
+      urls.push({
+        loc: `${BASE_URL}/court/${c.stateSlug}`,
+        lastmod: today,
+        changefreq: "monthly",
+        priority: "0.7",
+      });
+    }
+  }
+
+  // Individual court pages (not supreme — it has its own static route)
+  for (const c of courts) {
+    if (c.type === "supreme") continue;
+    urls.push({
+      loc: `${BASE_URL}/court/${c.stateSlug}/${c.slug}`,
+      lastmod: today,
+      changefreq: "monthly",
+      priority: "0.7",
+    });
+  }
+
+  const filename = "sitemap-court.xml";
+  fs.writeFileSync(path.join(publicDir, filename), buildUrlset(urls));
+  console.log(`  ✅ ${filename}: ${urls.length} URLs`);
+  return filename;
+}
+
 // --- Main ---
 const PUBLIC_DIR = path.join(__dirname, "..", "public");
 
@@ -380,12 +430,17 @@ const hsnSitemapName = generateHSNSitemap(PUBLIC_DIR);
 console.log("🚗 Generating RTO sitemap …");
 const rtoSitemapName = generateRTOSitemap(PUBLIC_DIR);
 
-// 6. Sitemap index
+// 6. Court sitemap
+console.log("⚖️  Generating court sitemap …");
+const courtSitemapName = generateCourtSitemap(PUBLIC_DIR);
+
+// 7. Sitemap index
 const allSitemapNames = [
   ...ifscSitemapNames,
   ...pincodeSitemapNames,
   ...(hsnSitemapName ? [hsnSitemapName] : []),
   ...(rtoSitemapName ? [rtoSitemapName] : []),
+  ...(courtSitemapName ? [courtSitemapName] : []),
 ];
 const sitemapIndex = generateSitemapIndex(PUBLIC_DIR, allSitemapNames);
 fs.writeFileSync(path.join(PUBLIC_DIR, "sitemap-index.xml"), sitemapIndex);
