@@ -1,6 +1,6 @@
 ---
-title: "SDA Full Form, Salary & KPSC FDA SDA 2026 Recruitment — Complete Guide"
-description: "SDA full form is Second Division Assistant. FDA full form is First Division Assistant. KPSC FDA SDA 2026: salary ₹34,100–₹67,600 (SDA) and ₹44,425–₹83,700 (FDA), eligibility, syllabus & application guide."
+title: "KPSC FDA SDA 2026 Recruitment — SDA Full Form, Salary & Application Last Date"
+description: "SDA full form: Second Division Assistant. FDA: First Division Assistant. KPSC FDA SDA 2026: salary ₹34,100–₹67,600 (SDA) and ₹44,425–₹83,700 (FDA), application last date, eligibility & how to apply online."
 category: "Jobs & Exams"
 keywords: ["sda full form","fda full form karnataka","sda salary in karnataka","fda salary in karnataka","KPSC FDA SDA 2026","KPSC FDA SDA recruitment 2026","FDA qualification in Karnataka","sda fda recruitment 2026","Karnataka FDA exam 2026","Karnataka SDA exam 2026"]
 readingTime: "14 min"

@@ -1,6 +1,6 @@
 ---
 title: "IRCTC App Not Working Today? 9 Fixes for Crash, Login & Booking Errors (2026)"
-description: "IRCTC Rail Connect app crashing, stuck on loading or showing server error today? Fix crashes, login failures, OTP & payment issues step by step — works in 5 minutes."
+description: "IRCTC Rail Connect app not working today? Fix 'invalid OTP type flag' error, crash on launch, login failures, OTP not received, and server errors — step by step in 5 minutes."
 category: "Utilities"
 keywords: ["IRCTC app not working", "IRCTC app crash fix", "IRCTC connection error", "IRCTC app not loading", "IRCTC app fix 2026", "IRCTC Rail Connect error", "IRCTC app cache clear"]
 lastUpdated: "2026-03-05"

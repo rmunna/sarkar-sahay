@@ -1,20 +1,22 @@
 ---
-title: "SBI Account Frozen or Blocked? How to Unfreeze"
-description: "SBI account frozen, blocked or inoperative? Learn why accounts get frozen for KYC, nomination, or court orders, and how to reactivate step by step."
+title: "SBI Account Frozen or Blocked? Unfreeze Online Without Branch Visit (2026)"
+description: "SBI account frozen, blocked or inoperative? Unfreeze online via YONO app, net banking, or customer care — no branch visit needed. Step-by-step guide for KYC, dormancy, nomination & court order freezes."
 category: "Tax & Finance"
 keywords:
   - sbi account frozen
   - sbi account blocked
-  - sbi account inoperative
+  - sbi account frozen or blocked
+  - sbi account blocked or frozen
   - how to unfreeze sbi account
+  - how to unblock sbi account without visiting branch
+  - sbi account unfreeze online
+  - sbi unfreeze account online
+  - sbi account inoperative
   - sbi kyc not updated account frozen
   - sbi account reactivation
   - sbi dormant account activate
   - sbi account frozen nomination
-  - sbi frozen account fix
-  - sbi account blocked by bank
-  - sbi inoperative account reactivate
-  - sbi account debit freeze
+  - sbi account freeze solution
 readingTime: 9 min
 lastUpdated: 2026-03-06
 officialLinks:
@@ -65,6 +67,29 @@ Under Anti-Money Laundering (AML) rules, if SBI detects unusual transaction patt
 ### 6. PAN Not Linked to Account
 
 If PAN is not linked to your bank account and you conduct high-value transactions (above ₹50,000), the account may face restrictions.
+
+---
+
+## How to Unfreeze SBI Account Without Visiting Branch
+
+Many SBI account freezes can be resolved **fully online** — no branch visit required:
+
+| Method | Works For | How |
+|--------|-----------|-----|
+| **YONO App** | KYC update (partial freeze), nomination | App → Service Requests → KYC Updation |
+| **SBI Net Banking** | Nomination, PAN linking | onlinesbi.sbi → e-Services |
+| **Customer Care** | Raise complaint, get reason | Call **1800-11-2211** or **1800-425-3800** (toll-free 24×7) |
+| **Video KYC** | KYC-related freezes | YONO App → Video KYC option |
+| **SMS** | PAN linking | SMS **EPAN XXXXXXXXXX** (your PAN) to **567676** |
+
+> **When branch visit is required:** Full freeze, inoperative accounts, court-ordered freezes, and suspicious transaction reviews usually need you to visit your home branch at least once. For all other freezes — try online first.
+
+**Online steps for KYC freeze (YONO):**
+1. Open YONO SBI app → Log in
+2. Go to **Service Requests** → **KYC**
+3. Upload Aadhaar, PAN, and photo
+4. Complete **Video KYC** when prompted
+5. Account unfreezes within **1–3 working days** without visiting branch
 
 ---
 
@@ -161,8 +186,8 @@ In a **partially frozen** (debit freeze) account, yes — credits like salary an
 ### How long does it take to unfreeze an SBI account?
 For KYC-related freezes, 1-3 working days after submitting documents at the branch. For inoperative accounts, usually same day.
 
-### Can I unfreeze my SBI account online?
-Partially frozen accounts may be unfrozen after online KYC update via YONO. Fully frozen or inoperative accounts typically require a branch visit.
+### Can I unfreeze my SBI account without visiting branch?
+Yes — for KYC-related partial freezes: use YONO app or SBI Net Banking to update KYC and complete Video KYC. For nomination issues: add nominee online via Net Banking (e-Services → Nomination). Call 1800-11-2211 (toll-free) to raise a complaint and get guidance without visiting. Full freezes and inoperative accounts often need at least one branch visit, but many KYC freezes are fully resolvable online.
 
 ### Will I lose my money if my account is frozen?
 No. Your money remains safe in the account. Interest continues to accrue on savings accounts. The freeze only restricts transactions.

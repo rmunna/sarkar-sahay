@@ -1,20 +1,22 @@
 ---
-title: "HDFC Bank Account Blocked? How to Reactivate Your Account"
-description: "HDFC Bank account blocked or frozen? Learn how to reactivate accounts blocked due to KYC expiry, dormancy, suspicious activity, or court orders."
+title: "HDFC Account Blocked or Frozen? Unfreeze — Customer Care & Steps (2026)"
+description: "HDFC Bank account blocked or frozen? Call customer care 1800-202-6161 or resolve online. Step-by-step guide to unblock HDFC accounts frozen for KYC expiry, dormancy, suspicious activity, or court orders."
 category: "Tax & Finance"
 keywords:
   - hdfc account blocked
-  - hdfc account reactivate
+  - hdfc account blocked or frozen
+  - hdfc bank account blocked or frozen
+  - hdfc account frozen or blocked
   - hdfc account frozen
+  - hdfc unfreeze account
+  - hdfc account reactivate
+  - hdfc account blocked customer care number
   - hdfc kyc expired account blocked
   - hdfc dormant account reactivation
   - hdfc account suspended
   - hdfc account blocked suspicious activity
-  - hdfc bank account debit freeze
   - hdfc account unblock
-  - hdfc bank account reactivation form
-  - hdfc inactive account activate
-  - hdfc bank account blocked by court
+  - hdfc bank account freeze
 readingTime: "9 min"
 lastUpdated: 2026-03-06
 officialLinks:
