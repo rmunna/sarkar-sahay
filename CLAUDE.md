@@ -474,3 +474,98 @@ When writing guides for a newly elected government's schemes:
 | Jibon Prerana exclusions missed | Private institution grads, govt employee children excluded — not written | Fetch full eligibility including exclusions from official source |
 | Lakshmir Bhandar stale amount | Wrote ₹1,000/₹1,200 — TMC raised to ₹1,500/₹1,700 in Feb 2026 | Search "[scheme] amount [current year]" before writing comparison tables |
 | Yuva Shakti fake sites | Wrote "portal pending" — dozens of fake sites claimed to offer registration | Add scam warning for any unnotified scheme; never link unofficial portals |
+| HC caseStatusUrl 404 | All 23 HC URLs used old `/hcservices/cases/case_no_status.php?state_code=X` path — portal migrated | HC URLs now use `/ecourtindiaHC/index_highcourt.php?state_cd=X` — verify before updating |
+| HC CourtCaseSearch ignored input | `buildSearchUrl()` returned `caseStatusUrl` for all HCs — user form input discarded | HCs now route to tab-specific pages via `buildHCSearchUrl()` — never treat HCs and SCs identically |
+| hcservices param name changed | Old: `state_code=X`, New: `state_cd=X` — silent breakage | Parameter name changed during migration; always verify actual live URL params |
+
+---
+
+## Court Integration Rules
+
+This section documents the architecture and gotchas for `data/court/` and `src/components/CourtCaseSearch.tsx`.
+Rules added after production bugs in May 2026 (broken HC URLs, CourtCaseSearch ignoring all user input for HCs).
+
+### Two Entirely Separate eCourts Portals
+
+| Portal | URL | Used for | Search param |
+|--------|-----|----------|-------------|
+| **District courts** | `services.ecourts.gov.in/ecourtindia_v6/` | All district courts | `state_code=X` |
+| **High Courts** | `hcservices.ecourts.gov.in/ecourtindiaHC/` | All 23 High Courts | `state_cd=X` (no underscore between "state" and "cd") |
+
+⚠️ These portals have **different URL structures, different path names, and different parameter names**. Never mix them up.
+
+### HC URL Structure (hcservices.ecourts.gov.in)
+
+```
+Index page:    /ecourtindiaHC/index_highcourt.php?state_cd=X&dist_cd=1&stateNm=URL+Encoded+State
+Case number:   /ecourtindiaHC/cases/case_no.php?state_cd=X&dist_cd=1&court_code=1&stateNm=...
+Party name:    /ecourtindiaHC/cases/ki_petres.php?state_cd=X&dist_cd=1&court_code=1&stateNm=...
+FIR search:    /ecourtindiaHC/cases/fir1.php?state_cd=X&dist_cd=1&court_code=1&stateNm=...
+Advocate:      /ecourtindiaHC/cases/qs_civil_advocate.php?state_cd=X&dist_cd=1&court_code=1&stateNm=...
+```
+
+**Important limitations:**
+- hcservices portal is fully **form-based** — pre-filling search values in the URL does NOT work
+- Users are routed to the correct *tab/page type* but must re-enter their case details in the form
+- The CourtCaseSearch component shows an amber note for HCs explaining this
+
+### State Codes Reference (hcservices)
+
+| State | state_cd |
+|-------|---------|
+| Andhra Pradesh | 2 |
+| Assam | 4 |
+| Bihar | 5 |
+| Chhattisgarh | 7 |
+| Gujarat | 11 |
+| Himachal Pradesh | 13 |
+| Jammu & Kashmir | 14 |
+| Jharkhand | 15 |
+| Karnataka | 16 |
+| Kerala | 17 |
+| Madhya Pradesh | 19 |
+| Maharashtra | 20 |
+| Manipur | 21 |
+| Meghalaya | 22 |
+| Odisha | 26 |
+| Punjab (P&H HC) | 28 |
+| Rajasthan | 29 |
+| Sikkim | 30 |
+| Tamil Nadu | 31 |
+| Telangana | 32 |
+| Tripura | 33 |
+| Uttarakhand | 35 |
+| West Bengal | 36 |
+
+Note: Allahabad HC (UP) and Delhi HC use their own court websites, not hcservices.
+
+### CourtCaseSearch Component — Key Architecture
+
+`src/components/CourtCaseSearch.tsx` has two separate URL builders:
+- `buildHCSearchUrl()` — for High Courts (uses hcservices + tab-specific pages)
+- `buildSearchUrl()` — calls `buildHCSearchUrl()` for HCs, `caseStatusUrl` for SC, district logic for others
+
+**Do NOT** collapse HC and SC into the same early-return (`if (isHighCourt || isSupremeCourt) return caseStatusUrl`). This was the original bug — it silently discarded all user form input for High Courts.
+
+### Data File Ownership
+
+```
+scripts/generate-court-data.ts  →  data/court/courts.json
+                                   data/court/by-state.json   (derived)
+                                   data/court/index.json      (derived)
+```
+
+**When updating court URLs:**
+1. Update `scripts/generate-court-data.ts` first (source of truth)
+2. Run `npx tsx scripts/generate-court-data.ts` to regenerate JSON
+3. Never hand-edit `courts.json` without also updating the script — they will diverge
+
+### Before Updating Any Court URL
+
+```
+[ ] Open the URL in a real browser — check it actually loads (not 404/500)
+[ ] Verify the parameter name: district courts use `state_code`, HC portal uses `state_cd`
+[ ] Check the path: old HC path was `/hcservices/cases/`, new is `/ecourtindiaHC/cases/`
+[ ] Update scripts/generate-court-data.ts AND regenerate data/ files
+[ ] Run npx tsc --noEmit — must pass before committing
+```

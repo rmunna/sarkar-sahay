@@ -123,6 +123,7 @@ export default async function CourtDetailPage({ params }: Props) {
       <CourtCaseSearch
         caseStatusUrl={court.caseStatusUrl}
         courtName={court.shortName}
+        courtState={court.state}
         ecourtsStateCode={court.ecourtsStateCode}
         ecourtsDistCode={court.ecourtsDistCode}
         isHighCourt={isHighCourt}

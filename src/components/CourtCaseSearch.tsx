@@ -5,6 +5,7 @@ import { useState } from "react";
 interface Props {
   caseStatusUrl: string;
   courtName: string;
+  courtState?: string;          // e.g. "Andhra Pradesh" — used to build HC search URLs
   ecourtsStateCode?: string;
   ecourtsDistCode?: string;
   isHighCourt?: boolean;
@@ -13,9 +14,16 @@ interface Props {
 
 type SearchTab = "cnr" | "case" | "party" | "fir";
 
+// hcservices.ecourts.gov.in URL builder for High Courts
+// The portal moved from /hcservices/cases/case_no_status.php?state_code=X
+//                     to /ecourtindiaHC/cases/case_no.php?state_cd=X&dist_cd=1&...
+// Note: param name changed: state_code → state_cd
+const HC_BASE = "https://hcservices.ecourts.gov.in/ecourtindiaHC";
+
 export default function CourtCaseSearch({
   caseStatusUrl,
   courtName,
+  courtState,
   ecourtsStateCode,
   ecourtsDistCode,
   isHighCourt = false,
@@ -31,16 +39,48 @@ export default function CourtCaseSearch({
   const [firYear, setFirYear] = useState(new Date().getFullYear().toString());
   const [policeStation, setPoliceStation] = useState("");
 
-  // For High Courts, caseStatusUrl points to hcservices.ecourts.gov.in which uses
-  // a completely different state_code system — never build services.ecourts.gov.in
-  // URLs with a High Court's ecourtsStateCode; they would land on the wrong state.
+  // ── Base link at bottom of widget ("Open [court] on eCourts portal") ─────────
+  // For district courts: deep-link to their state+dist page on services.ecourts.gov.in
+  // For High Courts:     use caseStatusUrl (now points to HC index on hcservices)
+  // For Supreme Court:   use caseStatusUrl directly
   const baseEcourts = !isHighCourt && ecourtsStateCode && ecourtsDistCode
     ? `https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=${ecourtsStateCode}&dist_code=${ecourtsDistCode}`
     : caseStatusUrl;
 
-  function buildSearchUrl(): string {
-    if (isSupremeCourt || isHighCourt) return caseStatusUrl;
+  // ── HC-specific URL builder ───────────────────────────────────────────────────
+  // hcservices.ecourts.gov.in moved its URL structure:
+  //   OLD (broken): /hcservices/cases/case_no_status.php?state_code=X
+  //   NEW (live):   /ecourtindiaHC/cases/case_no.php?state_cd=X&dist_cd=1&court_code=1&stateNm=...
+  // The portal is form-based — we route to the correct search page, but the user
+  // must re-enter their case details in the form on the HC portal.
+  function buildHCSearchUrl(): string {
+    if (!ecourtsStateCode) return caseStatusUrl;
+    const stateNm = courtState ? `&stateNm=${encodeURIComponent(courtState)}` : "";
+    const courtParams = `state_cd=${ecourtsStateCode}&dist_cd=1&court_code=1${stateNm}`;
+    const indexParams = `state_cd=${ecourtsStateCode}&dist_cd=1${stateNm}`;
+    switch (tab) {
+      case "case":
+        return `${HC_BASE}/cases/case_no.php?${courtParams}`;
+      case "party":
+        return `${HC_BASE}/cases/ki_petres.php?${courtParams}`;
+      case "fir":
+        return `${HC_BASE}/cases/fir1.php?${courtParams}`;
+      case "cnr":
+      default:
+        // No dedicated CNR page on hcservices — route to HC index
+        return `${HC_BASE}/index_highcourt.php?${indexParams}`;
+    }
+  }
 
+  function buildSearchUrl(): string {
+    if (isSupremeCourt) return caseStatusUrl;
+
+    // High Courts use hcservices.ecourts.gov.in with a completely different
+    // URL structure from district courts (services.ecourts.gov.in).
+    // Route to the correct per-tab search page on hcservices.
+    if (isHighCourt) return buildHCSearchUrl();
+
+    // District Courts — services.ecourts.gov.in
     if (tab === "cnr") {
       const cleanCnr = cnr.replace(/\s/g, "").toUpperCase();
       if (ecourtsStateCode) {
@@ -145,6 +185,7 @@ export default function CourtCaseSearch({
           <div className="space-y-3">
             <p className="text-xs text-gray-500">
               Search by case type, number and year — the format shown on court notices.
+              {isHighCourt && <span className="block mt-1 text-amber-600">Note these details — you&apos;ll re-enter them in the form on the eCourts portal.</span>}
             </p>
             <div className="grid grid-cols-3 gap-2">
               <div className="col-span-1">
@@ -198,6 +239,7 @@ export default function CourtCaseSearch({
           <div className="space-y-3">
             <p className="text-xs text-gray-500">
               Search by petitioner or respondent name. Enter at least 3 characters.
+              {isHighCourt && <span className="block mt-1 text-amber-600">Note your search terms — you&apos;ll enter them in the form on the eCourts portal.</span>}
             </p>
             <div className="grid grid-cols-3 gap-2">
               <div className="col-span-2">

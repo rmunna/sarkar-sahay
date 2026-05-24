@@ -1,1 +1,1524 @@
-{"supreme-court-of-india":{"slug":"supreme-court-of-india","name":"Supreme Court of India","shortName":"Supreme Court","type":"supreme","state":"Delhi","stateSlug":"delhi","city":"New Delhi","address":"Supreme Court of India, Tilak Marg, New Delhi - 110001","website":"https://main.sci.gov.in","caseStatusUrl":"https://main.sci.gov.in/case-status","advocateUrl":"https://main.sci.gov.in/advocate-case-status","causeListUrl":"https://main.sci.gov.in/cause-list","cnrStateCode":"SC","caseTypes":[{"code":"SLP(C)","name":"Special Leave Petition (Civil)"},{"code":"SLP(Crl.)","name":"Special Leave Petition (Criminal)"},{"code":"W.P.(C)","name":"Writ Petition (Civil)"},{"code":"W.P.(Crl.)","name":"Writ Petition (Criminal)"},{"code":"C.A.","name":"Civil Appeal"},{"code":"Crl.A.","name":"Criminal Appeal"},{"code":"T.C.(C)","name":"Transfer Petition (Civil)"},{"code":"Cont.Cas.(C)","name":"Contempt Case (Civil)"}],"established":"1950","phone":"011-23388922","description":"The Supreme Court of India is the apex court and the final court of appeal. Located in New Delhi, it has a Chief Justice and up to 33 other judges."},"allahabad-high-court":{"slug":"allahabad-high-court","name":"Allahabad High Court","shortName":"Allahabad HC","type":"high","state":"Uttar Pradesh","stateSlug":"uttar-pradesh","city":"Prayagraj","address":"High Court of Judicature at Allahabad, Prayagraj - 211001","website":"https://www.allahabadhighcourt.in","caseStatusUrl":"https://www.allahabadhighcourt.in/case/CaseStatus.html","advocateUrl":"https://www.allahabadhighcourt.in/case/AdvocateSearch.html","causeListUrl":"https://www.allahabadhighcourt.in/cause/CauseList.html","cnrStateCode":"UP","ecourtsStateCode":"34","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"},{"code":"WA","name":"Writ Appeal"},{"code":"CMWP","name":"Criminal Misc. Writ Petition"}],"established":"1866","phone":"0532-2422691","description":"The High Court of Judicature at Allahabad is one of the oldest and largest high courts in India, with jurisdiction over Uttar Pradesh. It also has a Lucknow Bench."},"bombay-high-court":{"slug":"bombay-high-court","name":"Bombay High Court","shortName":"Bombay HC","type":"high","state":"Maharashtra","stateSlug":"maharashtra","city":"Mumbai","address":"High Court of Bombay, Fort, Mumbai - 400032","website":"https://bombayhighcourt.nic.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=20","advocateUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/advt_case_status.php?state_code=20","causeListUrl":"https://bombayhighcourt.nic.in/causelist.php","cnrStateCode":"MH","ecourtsStateCode":"20","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"},{"code":"WP","name":"Writ Petition"},{"code":"PIL","name":"Public Interest Litigation"},{"code":"APEAL","name":"Appeal"}],"established":"1862","description":"The Bombay High Court has jurisdiction over Maharashtra, Goa, Dadra & Nagar Haveli, and Daman & Diu. Benches at Nagpur, Aurangabad (Chhatrapati Sambhajinagar), and Panaji."},"calcutta-high-court":{"slug":"calcutta-high-court","name":"Calcutta High Court","shortName":"Calcutta HC","type":"high","state":"West Bengal","stateSlug":"west-bengal","city":"Kolkata","address":"High Court at Calcutta, Esplanade Row West, Kolkata - 700001","website":"https://www.calcuttahighcourt.gov.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=36","causeListUrl":"https://www.calcuttahighcourt.gov.in/CauseList","cnrStateCode":"WB","ecourtsStateCode":"36","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"},{"code":"APO","name":"Appeal from Original Order"},{"code":"CO","name":"Civil Order"},{"code":"CRR","name":"Criminal Revision"}],"established":"1862","description":"The High Court at Calcutta is the oldest High Court in India with jurisdiction over West Bengal and the Andaman & Nicobar Islands. Has a circuit bench at Port Blair."},"delhi-high-court":{"slug":"delhi-high-court","name":"Delhi High Court","shortName":"Delhi HC","type":"high","state":"Delhi","stateSlug":"delhi","city":"New Delhi","address":"High Court of Delhi, Sher Shah Road, New Delhi - 110003","website":"https://delhihighcourt.nic.in","caseStatusUrl":"https://delhihighcourt.nic.in/case_status.asp","advocateUrl":"https://delhihighcourt.nic.in/dhc_adv_case_search_result.asp","causeListUrl":"https://delhihighcourt.nic.in/dhcqryoption.asp","cnrStateCode":"DL","ecourtsStateCode":"25","caseTypes":[{"code":"W.P.(C)","name":"Writ Petition (Civil)"},{"code":"W.P.(Crl.)","name":"Writ Petition (Criminal)"},{"code":"CS(OS)","name":"Civil Suit (Original Side)"},{"code":"CS(COMM)","name":"Civil Suit (Commercial)"},{"code":"FAO","name":"First Appeal from Order"},{"code":"CRL.A.","name":"Criminal Appeal"},{"code":"CRL.M.C.","name":"Criminal Misc. Case"},{"code":"CRL.REV.P.","name":"Criminal Revision Petition"}],"established":"1966","description":"The Delhi High Court has jurisdiction over the National Capital Territory of Delhi. Known for handling high-profile commercial, constitutional, and criminal matters."},"madras-high-court":{"slug":"madras-high-court","name":"Madras High Court","shortName":"Madras HC","type":"high","state":"Tamil Nadu","stateSlug":"tamil-nadu","city":"Chennai","address":"High Court of Madras, High Court Road, Chennai - 600104","website":"https://www.hcmadras.tn.nic.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=31","causeListUrl":"https://www.hcmadras.tn.nic.in/causelist.html","cnrStateCode":"TN","ecourtsStateCode":"31","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"},{"code":"WMP","name":"Writ Misc. Petition"},{"code":"CMA","name":"Civil Misc. Appeal"},{"code":"Crl.A.","name":"Criminal Appeal"}],"established":"1862","description":"The High Court of Madras has jurisdiction over Tamil Nadu and Puducherry. Has a permanent bench at Madurai. One of the four original high courts of India."},"karnataka-high-court":{"slug":"karnataka-high-court","name":"Karnataka High Court","shortName":"Karnataka HC","type":"high","state":"Karnataka","stateSlug":"karnataka","city":"Bengaluru","address":"High Court of Karnataka, Ambedkar Veedhi, Bengaluru - 560001","website":"https://hckinfo.kar.nic.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=16","advocateUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/advt_case_status.php?state_code=16","causeListUrl":"https://hckinfo.kar.nic.in/causelist/","cnrStateCode":"KA","ecourtsStateCode":"16","caseTypes":[{"code":"WP","name":"Writ Petition"},{"code":"WA","name":"Writ Appeal"},{"code":"RSA","name":"Regular Second Appeal"},{"code":"MFA","name":"Misc. First Appeal"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"CRL.P","name":"Criminal Petition"},{"code":"CRL.A","name":"Criminal Appeal"}],"established":"1884","description":"The Karnataka High Court has jurisdiction over Karnataka state. Has benches at Dharwad and Kalaburagi. Located in the heritage High Court building in Bengaluru."},"kerala-high-court":{"slug":"kerala-high-court","name":"Kerala High Court","shortName":"Kerala HC","type":"high","state":"Kerala","stateSlug":"kerala","city":"Kochi","address":"High Court of Kerala, Museum Road, Ernakulam, Kochi - 682031","website":"https://www.hckreports.nic.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=17","causeListUrl":"https://www.hckreports.nic.in/CauseList.aspx","cnrStateCode":"KL","ecourtsStateCode":"17","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"},{"code":"WA","name":"Writ Appeal"},{"code":"RP","name":"Review Petition"}],"established":"1956","description":"The High Court of Kerala has jurisdiction over Kerala and the Union Territory of Lakshadweep. Located in Kochi (Ernakulam)."},"gujarat-high-court":{"slug":"gujarat-high-court","name":"Gujarat High Court","shortName":"Gujarat HC","type":"high","state":"Gujarat","stateSlug":"gujarat","city":"Ahmedabad","address":"High Court of Gujarat, Sola, Ahmedabad - 380060","website":"https://gujarathighcourt.nic.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=11","causeListUrl":"https://gujarathighcourt.nic.in/causelist/","cnrStateCode":"GJ","ecourtsStateCode":"11","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"},{"code":"SCA","name":"Special Civil Application"},{"code":"SCRA","name":"Special Criminal Application"},{"code":"R/SCA","name":"Regular Special Civil Application"}],"established":"1960","description":"The High Court of Gujarat has jurisdiction over the state of Gujarat. The new building is located at Sola, Ahmedabad."},"rajasthan-high-court":{"slug":"rajasthan-high-court","name":"Rajasthan High Court","shortName":"Rajasthan HC","type":"high","state":"Rajasthan","stateSlug":"rajasthan","city":"Jodhpur","address":"High Court of Rajasthan, Residency Road, Jodhpur - 342001","website":"https://www.hcraj.nic.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=29","causeListUrl":"https://www.hcraj.nic.in/causelist.php","cnrStateCode":"RJ","ecourtsStateCode":"29","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"},{"code":"SB","name":"Single Bench"},{"code":"DB","name":"Division Bench"}],"established":"1949","description":"The High Court of Rajasthan is the highest court in Rajasthan, with the principal seat at Jodhpur and a permanent bench at Jaipur."},"andhra-pradesh-high-court":{"slug":"andhra-pradesh-high-court","name":"Andhra Pradesh High Court","shortName":"AP HC","type":"high","state":"Andhra Pradesh","stateSlug":"andhra-pradesh","city":"Amaravati","address":"High Court of Andhra Pradesh, Nelapadu, Amaravati - 522503","website":"https://hcap.nic.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=2","cnrStateCode":"AP","ecourtsStateCode":"2","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"},{"code":"WP","name":"Writ Petition"},{"code":"WA","name":"Writ Appeal"}],"established":"2019","description":"The High Court of Andhra Pradesh was constituted in 2019 after the bifurcation of the combined HC. Currently located at Amaravati."},"telangana-high-court":{"slug":"telangana-high-court","name":"Telangana High Court","shortName":"Telangana HC","type":"high","state":"Telangana","stateSlug":"telangana","city":"Hyderabad","address":"High Court for the State of Telangana, Hyderabad - 500066","website":"https://www.tshc.gov.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=32","causeListUrl":"https://www.tshc.gov.in/causelist","cnrStateCode":"TS","ecourtsStateCode":"32","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"},{"code":"WP","name":"Writ Petition"},{"code":"PIL","name":"Public Interest Litigation"}],"established":"2019","description":"The High Court for the State of Telangana was created in 2019 after bifurcation. Located at Nampally, Hyderabad."},"punjab-haryana-high-court":{"slug":"punjab-haryana-high-court","name":"Punjab and Haryana High Court","shortName":"P&H HC","type":"high","state":"Punjab","stateSlug":"punjab","city":"Chandigarh","address":"High Court of Punjab & Haryana, Sector 1, Chandigarh - 160001","website":"https://highcourtchd.gov.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=28","advocateUrl":"https://highcourtchd.gov.in/index.php?trs=advocate_search","causeListUrl":"https://highcourtchd.gov.in/index.php?trs=dl_causelist","cnrStateCode":"PB","ecourtsStateCode":"28","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"},{"code":"CRM","name":"Criminal Main"},{"code":"CRM-M","name":"Criminal Main (Misc.)"},{"code":"RSA","name":"Regular Second Appeal"}],"established":"1947","description":"The High Court of Punjab and Haryana has jurisdiction over Punjab, Haryana, and the Union Territory of Chandigarh."},"patna-high-court":{"slug":"patna-high-court","name":"Patna High Court","shortName":"Patna HC","type":"high","state":"Bihar","stateSlug":"bihar","city":"Patna","address":"Patna High Court, Patna - 800001","website":"https://patnahighcourt.gov.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=5","causeListUrl":"https://patnahighcourt.gov.in/causelist","cnrStateCode":"BR","ecourtsStateCode":"5","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"}],"established":"1916","description":"Patna High Court has jurisdiction over Bihar state. It was separated from the Calcutta High Court in 1916."},"gauhati-high-court":{"slug":"gauhati-high-court","name":"Gauhati High Court","shortName":"Gauhati HC","type":"high","state":"Assam","stateSlug":"assam","city":"Guwahati","address":"Gauhati High Court, Guwahati - 781001","website":"https://www.ghcnic.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=4","cnrStateCode":"AS","ecourtsStateCode":"4","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"}],"established":"1948","description":"The Gauhati High Court has jurisdiction over Assam, Nagaland, Mizoram, and Arunachal Pradesh. Has benches at Kohima, Aizawl, and Itanagar."},"orissa-high-court":{"slug":"orissa-high-court","name":"Orissa High Court","shortName":"Orissa HC","type":"high","state":"Odisha","stateSlug":"odisha","city":"Cuttack","address":"Orissa High Court, Cuttack - 753002","website":"https://www.orissahighcourt.nic.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=26","causeListUrl":"https://www.orissahighcourt.nic.in/causeList.php","cnrStateCode":"OR","ecourtsStateCode":"26","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"},{"code":"OJC","name":"Original Jurisdiction Case"}],"established":"1948","description":"The Orissa High Court has jurisdiction over Odisha state, located in Cuttack."},"madhya-pradesh-high-court":{"slug":"madhya-pradesh-high-court","name":"Madhya Pradesh High Court","shortName":"MP HC","type":"high","state":"Madhya Pradesh","stateSlug":"madhya-pradesh","city":"Jabalpur","address":"High Court of Madhya Pradesh, Jabalpur - 482001","website":"https://www.mphc.gov.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=19","causeListUrl":"https://www.mphc.gov.in/causelist","cnrStateCode":"MP","ecourtsStateCode":"19","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"},{"code":"WP","name":"Writ Petition"},{"code":"RP","name":"Review Petition"}],"established":"1956","description":"MP High Court is at Jabalpur with benches at Gwalior and Indore. Chhattisgarh HC separated from this in 2000."},"chhattisgarh-high-court":{"slug":"chhattisgarh-high-court","name":"Chhattisgarh High Court","shortName":"CG HC","type":"high","state":"Chhattisgarh","stateSlug":"chhattisgarh","city":"Bilaspur","address":"High Court of Chhattisgarh, Bilaspur - 495001","website":"https://www.highcourt.cg.gov.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=7","cnrStateCode":"CG","ecourtsStateCode":"7","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"}],"established":"2000","description":"The Chhattisgarh High Court was established in 2000 when Chhattisgarh was carved out of Madhya Pradesh."},"uttarakhand-high-court":{"slug":"uttarakhand-high-court","name":"Uttarakhand High Court","shortName":"Uttarakhand HC","type":"high","state":"Uttarakhand","stateSlug":"uttarakhand","city":"Nainital","address":"High Court of Uttarakhand, Belvedere, Nainital - 263001","website":"https://www.highcourtofuttarakhand.gov.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=35","cnrStateCode":"UK","ecourtsStateCode":"35","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"}],"established":"2000","description":"The Uttarakhand High Court is located in Nainital. It was constituted when the state was carved out of Uttar Pradesh in 2000."},"jharkhand-high-court":{"slug":"jharkhand-high-court","name":"Jharkhand High Court","shortName":"Jharkhand HC","type":"high","state":"Jharkhand","stateSlug":"jharkhand","city":"Ranchi","address":"High Court of Jharkhand, H.C. Road, Ranchi - 834002","website":"https://www.jharkhandhighcourt.nic.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=15","cnrStateCode":"JH","ecourtsStateCode":"15","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"}],"established":"2000","description":"The Jharkhand High Court was established in 2000 when Jharkhand was separated from Bihar. Located in Ranchi."},"himachal-pradesh-high-court":{"slug":"himachal-pradesh-high-court","name":"Himachal Pradesh High Court","shortName":"HP HC","type":"high","state":"Himachal Pradesh","stateSlug":"himachal-pradesh","city":"Shimla","address":"High Court of Himachal Pradesh, Ravenswood, Shimla - 171001","website":"https://hphighcourt.nic.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=13","cnrStateCode":"HP","ecourtsStateCode":"13","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"}],"established":"1971","description":"The Himachal Pradesh High Court is located in Shimla, the summer capital. Has a bench at Dharamshala."},"jammu-kashmir-high-court":{"slug":"jammu-kashmir-high-court","name":"High Court of Jammu & Kashmir and Ladakh","shortName":"J&K HC","type":"high","state":"Jammu and Kashmir","stateSlug":"jammu-and-kashmir","city":"Srinagar","address":"High Court of J&K and Ladakh, Srinagar (Summer) / Jammu (Winter)","website":"https://jkhighcourt.nic.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=14","cnrStateCode":"JK","ecourtsStateCode":"14","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"}],"established":"1928","description":"Has jurisdiction over J&K and Ladakh UTs. Sits in Srinagar during summer and Jammu during winter."},"manipur-high-court":{"slug":"manipur-high-court","name":"Manipur High Court","shortName":"Manipur HC","type":"high","state":"Manipur","stateSlug":"manipur","city":"Imphal","address":"High Court of Manipur, Imphal - 795001","website":"https://mhc.nic.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=21","cnrStateCode":"MN","ecourtsStateCode":"21","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"}],"established":"2013","description":"The Manipur High Court was constituted as an independent HC in 2013, separated from the Gauhati High Court."},"meghalaya-high-court":{"slug":"meghalaya-high-court","name":"Meghalaya High Court","shortName":"Meghalaya HC","type":"high","state":"Meghalaya","stateSlug":"meghalaya","city":"Shillong","address":"High Court of Meghalaya, Shillong - 793001","website":"https://www.meghalayahighcourt.nic.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=22","cnrStateCode":"MG","ecourtsStateCode":"22","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"}],"established":"2013","description":"The Meghalaya High Court was constituted in 2013, separated from the Gauhati High Court."},"sikkim-high-court":{"slug":"sikkim-high-court","name":"Sikkim High Court","shortName":"Sikkim HC","type":"high","state":"Sikkim","stateSlug":"sikkim","city":"Gangtok","address":"High Court of Sikkim, Gangtok - 737101","website":"https://www.sikkimhighcourt.nic.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=30","cnrStateCode":"SK","ecourtsStateCode":"30","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"}],"established":"1975","description":"The Sikkim High Court is the smallest high court in India by caseload."},"tripura-high-court":{"slug":"tripura-high-court","name":"Tripura High Court","shortName":"Tripura HC","type":"high","state":"Tripura","stateSlug":"tripura","city":"Agartala","address":"High Court of Tripura, Agartala - 799001","website":"https://www.tripurahighcourt.gov.in","caseStatusUrl":"https://hcservices.ecourts.gov.in/hcservices/cases/case_no_status.php?state_code=33","cnrStateCode":"TR","ecourtsStateCode":"33","caseTypes":[{"code":"WP","name":"Writ Petition (Civil)"},{"code":"FA","name":"First Appeal"},{"code":"SA","name":"Second Appeal"},{"code":"CS","name":"Civil Suit"},{"code":"CRP","name":"Civil Revision Petition"},{"code":"EP","name":"Election Petition"},{"code":"CRL","name":"Criminal Appeal"},{"code":"CRLP","name":"Criminal Petition"},{"code":"CRLMC","name":"Criminal Misc. Case"}],"established":"2013","description":"The Tripura High Court was constituted in 2013, separated from the Gauhati High Court."},"tis-hazari-district-court-delhi":{"slug":"tis-hazari-district-court-delhi","name":"Tis Hazari District Court","shortName":"Tis Hazari Courts","type":"district","state":"Delhi","stateSlug":"delhi","city":"New Delhi","address":"Tis Hazari Courts, Tis Hazari, Delhi - 110054","website":"https://districts.ecourts.gov.in/delhi","caseStatusUrl":"https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=25&dist_code=1","ecourtsStateCode":"25","ecourtsDistCode":"1","cnrStateCode":"DL","caseTypes":[{"code":"OS","name":"Original Suit"},{"code":"CS","name":"Civil Suit"},{"code":"MC","name":"Misc. Case"},{"code":"EP","name":"Execution Petition"},{"code":"IA","name":"Interlocutory Application"},{"code":"CC","name":"Criminal Case"},{"code":"SC","name":"Sessions Case"},{"code":"CRL","name":"Criminal Appeal"},{"code":"PCR","name":"Private Complaint"}],"description":"Tis Hazari Courts is the main civil and criminal district court complex in Delhi, one of the largest court complexes in Asia."},"patiala-house-courts-delhi":{"slug":"patiala-house-courts-delhi","name":"Patiala House Courts","shortName":"Patiala House Courts","type":"district","state":"Delhi","stateSlug":"delhi","city":"New Delhi","address":"Patiala House Courts, India Gate, New Delhi - 110001","website":"https://districts.ecourts.gov.in/delhi","caseStatusUrl":"https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=25&dist_code=2","ecourtsStateCode":"25","ecourtsDistCode":"2","cnrStateCode":"DL","caseTypes":[{"code":"OS","name":"Original Suit"},{"code":"CS","name":"Civil Suit"},{"code":"MC","name":"Misc. Case"},{"code":"EP","name":"Execution Petition"},{"code":"IA","name":"Interlocutory Application"},{"code":"CC","name":"Criminal Case"},{"code":"SC","name":"Sessions Case"},{"code":"CRL","name":"Criminal Appeal"},{"code":"PCR","name":"Private Complaint"}],"description":"Patiala House Courts handles cases related to the Central and New Delhi districts. Located near India Gate."},"karkardooma-district-court-delhi":{"slug":"karkardooma-district-court-delhi","name":"Karkardooma District Court","shortName":"Karkardooma Courts","type":"district","state":"Delhi","stateSlug":"delhi","city":"New Delhi","address":"Karkardooma Courts, Vikas Marg, Delhi - 110092","website":"https://districts.ecourts.gov.in/delhi","caseStatusUrl":"https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=25&dist_code=3","ecourtsStateCode":"25","ecourtsDistCode":"3","cnrStateCode":"DL","caseTypes":[{"code":"OS","name":"Original Suit"},{"code":"CS","name":"Civil Suit"},{"code":"MC","name":"Misc. Case"},{"code":"EP","name":"Execution Petition"},{"code":"IA","name":"Interlocutory Application"},{"code":"CC","name":"Criminal Case"},{"code":"SC","name":"Sessions Case"},{"code":"CRL","name":"Criminal Appeal"},{"code":"PCR","name":"Private Complaint"}],"description":"Karkardooma Courts serves the East and North-East Delhi districts."},"saket-district-court-delhi":{"slug":"saket-district-court-delhi","name":"Saket District Court","shortName":"Saket Courts","type":"district","state":"Delhi","stateSlug":"delhi","city":"New Delhi","address":"Saket District Courts, Press Enclave Road, Saket, New Delhi - 110017","website":"https://districts.ecourts.gov.in/delhi","caseStatusUrl":"https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=25&dist_code=4","ecourtsStateCode":"25","ecourtsDistCode":"4","cnrStateCode":"DL","caseTypes":[{"code":"OS","name":"Original Suit"},{"code":"CS","name":"Civil Suit"},{"code":"MC","name":"Misc. Case"},{"code":"EP","name":"Execution Petition"},{"code":"IA","name":"Interlocutory Application"},{"code":"CC","name":"Criminal Case"},{"code":"SC","name":"Sessions Case"},{"code":"CRL","name":"Criminal Appeal"},{"code":"PCR","name":"Private Complaint"}],"description":"Saket District Court serves the South and South-West Delhi districts."},"city-civil-court-mumbai":{"slug":"city-civil-court-mumbai","name":"City Civil & Sessions Court Mumbai","shortName":"City Civil Court Mumbai","type":"district","state":"Maharashtra","stateSlug":"maharashtra","city":"Mumbai","address":"City Civil & Sessions Court, Kala Ghoda, Fort, Mumbai - 400032","website":"https://districts.ecourts.gov.in/mumbai","caseStatusUrl":"https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=20&dist_code=1","ecourtsStateCode":"20","ecourtsDistCode":"1","cnrStateCode":"MH","caseTypes":[{"code":"OS","name":"Original Suit"},{"code":"CS","name":"Civil Suit"},{"code":"MC","name":"Misc. Case"},{"code":"EP","name":"Execution Petition"},{"code":"IA","name":"Interlocutory Application"},{"code":"CC","name":"Criminal Case"},{"code":"SC","name":"Sessions Case"},{"code":"CRL","name":"Criminal Appeal"},{"code":"PCR","name":"Private Complaint"}],"description":"The City Civil & Sessions Court Mumbai is the principal civil court of original jurisdiction in Mumbai."},"pune-district-court":{"slug":"pune-district-court","name":"Pune District & Sessions Court","shortName":"Pune District Court","type":"district","state":"Maharashtra","stateSlug":"maharashtra","city":"Pune","address":"District & Sessions Court, Shivajinagar, Pune - 411005","website":"https://districts.ecourts.gov.in/pune","caseStatusUrl":"https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=20&dist_code=14","ecourtsStateCode":"20","ecourtsDistCode":"14","cnrStateCode":"MH","caseTypes":[{"code":"OS","name":"Original Suit"},{"code":"CS","name":"Civil Suit"},{"code":"MC","name":"Misc. Case"},{"code":"EP","name":"Execution Petition"},{"code":"IA","name":"Interlocutory Application"},{"code":"CC","name":"Criminal Case"},{"code":"SC","name":"Sessions Case"},{"code":"CRL","name":"Criminal Appeal"},{"code":"PCR","name":"Private Complaint"}],"description":"The Pune District & Sessions Court is the principal court for Pune district."},"bangalore-city-civil-court":{"slug":"bangalore-city-civil-court","name":"Bangalore City Civil & Sessions Court","shortName":"Bangalore City Civil Court","type":"district","state":"Karnataka","stateSlug":"karnataka","city":"Bengaluru","address":"City Civil Court, Mayo Hall, Bengaluru - 560001","website":"https://districts.ecourts.gov.in/bangalorecity","caseStatusUrl":"https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=16&dist_code=2","ecourtsStateCode":"16","ecourtsDistCode":"2","cnrStateCode":"KA","caseTypes":[{"code":"OS","name":"Original Suit"},{"code":"CS","name":"Civil Suit"},{"code":"MC","name":"Misc. Case"},{"code":"EP","name":"Execution Petition"},{"code":"IA","name":"Interlocutory Application"},{"code":"CC","name":"Criminal Case"},{"code":"SC","name":"Sessions Case"},{"code":"CRL","name":"Criminal Appeal"},{"code":"PCR","name":"Private Complaint"}],"description":"The Bangalore City Civil Court handles all original civil jurisdiction cases in Bengaluru city."},"bangalore-rural-district-court":{"slug":"bangalore-rural-district-court","name":"Bangalore Rural District Court","shortName":"Bangalore Rural Court","type":"district","state":"Karnataka","stateSlug":"karnataka","city":"Bengaluru","address":"District Court, Bangalore Rural, Bengaluru","website":"https://districts.ecourts.gov.in/bangalorerural","caseStatusUrl":"https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=16&dist_code=1","ecourtsStateCode":"16","ecourtsDistCode":"1","cnrStateCode":"KA","caseTypes":[{"code":"OS","name":"Original Suit"},{"code":"CS","name":"Civil Suit"},{"code":"MC","name":"Misc. Case"},{"code":"EP","name":"Execution Petition"},{"code":"IA","name":"Interlocutory Application"},{"code":"CC","name":"Criminal Case"},{"code":"SC","name":"Sessions Case"},{"code":"CRL","name":"Criminal Appeal"},{"code":"PCR","name":"Private Complaint"}],"description":"Handles cases for Bangalore Rural district."},"chennai-city-civil-court":{"slug":"chennai-city-civil-court","name":"Chennai City Civil Court","shortName":"Chennai City Civil Court","type":"district","state":"Tamil Nadu","stateSlug":"tamil-nadu","city":"Chennai","address":"City Civil Court, High Court Buildings, Chennai - 600104","website":"https://districts.ecourts.gov.in/chennai","caseStatusUrl":"https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=31&dist_code=2","ecourtsStateCode":"31","ecourtsDistCode":"2","cnrStateCode":"TN","caseTypes":[{"code":"OS","name":"Original Suit"},{"code":"CS","name":"Civil Suit"},{"code":"MC","name":"Misc. Case"},{"code":"EP","name":"Execution Petition"},{"code":"IA","name":"Interlocutory Application"},{"code":"CC","name":"Criminal Case"},{"code":"SC","name":"Sessions Case"},{"code":"CRL","name":"Criminal Appeal"},{"code":"PCR","name":"Private Complaint"}],"description":"The Chennai City Civil Court is the principal civil court of original jurisdiction for Chennai."},"hyderabad-city-civil-court":{"slug":"hyderabad-city-civil-court","name":"Hyderabad City Civil Court","shortName":"Hyderabad Civil Court","type":"district","state":"Telangana","stateSlug":"telangana","city":"Hyderabad","address":"City Civil Court, Nampally, Hyderabad - 500001","website":"https://districts.ecourts.gov.in/hyderabad","caseStatusUrl":"https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=32&dist_code=1","ecourtsStateCode":"32","ecourtsDistCode":"1","cnrStateCode":"TS","caseTypes":[{"code":"OS","name":"Original Suit"},{"code":"CS","name":"Civil Suit"},{"code":"MC","name":"Misc. Case"},{"code":"EP","name":"Execution Petition"},{"code":"IA","name":"Interlocutory Application"},{"code":"CC","name":"Criminal Case"},{"code":"SC","name":"Sessions Case"},{"code":"CRL","name":"Criminal Appeal"},{"code":"PCR","name":"Private Complaint"}],"description":"The Hyderabad City Civil Court handles civil cases for Hyderabad district."},"ahmedabad-city-civil-court":{"slug":"ahmedabad-city-civil-court","name":"Ahmedabad City Civil & Sessions Court","shortName":"Ahmedabad Civil Court","type":"district","state":"Gujarat","stateSlug":"gujarat","city":"Ahmedabad","address":"City Civil Court, Lal Darwaja, Ahmedabad - 380001","website":"https://districts.ecourts.gov.in/ahmedabad","caseStatusUrl":"https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=11&dist_code=1","ecourtsStateCode":"11","ecourtsDistCode":"1","cnrStateCode":"GJ","caseTypes":[{"code":"OS","name":"Original Suit"},{"code":"CS","name":"Civil Suit"},{"code":"MC","name":"Misc. Case"},{"code":"EP","name":"Execution Petition"},{"code":"IA","name":"Interlocutory Application"},{"code":"CC","name":"Criminal Case"},{"code":"SC","name":"Sessions Case"},{"code":"CRL","name":"Criminal Appeal"},{"code":"PCR","name":"Private Complaint"}],"description":"The Ahmedabad City Civil Court is the principal civil court for Ahmedabad district."},"calcutta-city-civil-court":{"slug":"calcutta-city-civil-court","name":"Kolkata City Civil Court","shortName":"Kolkata Civil Court","type":"district","state":"West Bengal","stateSlug":"west-bengal","city":"Kolkata","address":"City Civil Court, 2 Kiran Shankar Roy Road, Kolkata - 700001","website":"https://districts.ecourts.gov.in/kolkata","caseStatusUrl":"https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=36&dist_code=1","ecourtsStateCode":"36","ecourtsDistCode":"1","cnrStateCode":"WB","caseTypes":[{"code":"OS","name":"Original Suit"},{"code":"CS","name":"Civil Suit"},{"code":"MC","name":"Misc. Case"},{"code":"EP","name":"Execution Petition"},{"code":"IA","name":"Interlocutory Application"},{"code":"CC","name":"Criminal Case"},{"code":"SC","name":"Sessions Case"},{"code":"CRL","name":"Criminal Appeal"},{"code":"PCR","name":"Private Complaint"}],"description":"The Kolkata City Civil Court handles civil original jurisdiction cases for Kolkata."},"jaipur-district-court":{"slug":"jaipur-district-court","name":"Jaipur District Court","shortName":"Jaipur District Court","type":"district","state":"Rajasthan","stateSlug":"rajasthan","city":"Jaipur","address":"District Court, Jaipur Metropolitan, Jaipur - 302001","website":"https://districts.ecourts.gov.in/jaipur","caseStatusUrl":"https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=29&dist_code=1","ecourtsStateCode":"29","ecourtsDistCode":"1","cnrStateCode":"RJ","caseTypes":[{"code":"OS","name":"Original Suit"},{"code":"CS","name":"Civil Suit"},{"code":"MC","name":"Misc. Case"},{"code":"EP","name":"Execution Petition"},{"code":"IA","name":"Interlocutory Application"},{"code":"CC","name":"Criminal Case"},{"code":"SC","name":"Sessions Case"},{"code":"CRL","name":"Criminal Appeal"},{"code":"PCR","name":"Private Complaint"}],"description":"The Jaipur District Court is the principal court for Jaipur Metropolitan area."},"lucknow-district-court":{"slug":"lucknow-district-court","name":"Lucknow District & Sessions Court","shortName":"Lucknow District Court","type":"district","state":"Uttar Pradesh","stateSlug":"uttar-pradesh","city":"Lucknow","address":"District Court, Lucknow - 226001","website":"https://districts.ecourts.gov.in/lucknow","caseStatusUrl":"https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=34&dist_code=19","ecourtsStateCode":"34","ecourtsDistCode":"19","cnrStateCode":"UP","caseTypes":[{"code":"OS","name":"Original Suit"},{"code":"CS","name":"Civil Suit"},{"code":"MC","name":"Misc. Case"},{"code":"EP","name":"Execution Petition"},{"code":"IA","name":"Interlocutory Application"},{"code":"CC","name":"Criminal Case"},{"code":"SC","name":"Sessions Case"},{"code":"CRL","name":"Criminal Appeal"},{"code":"PCR","name":"Private Complaint"}],"description":"The Lucknow District Court handles cases for Lucknow district and serves as the seat of the Allahabad HC's Lucknow Bench."},"agra-district-court":{"slug":"agra-district-court","name":"Agra District & Sessions Court","shortName":"Agra District Court","type":"district","state":"Uttar Pradesh","stateSlug":"uttar-pradesh","city":"Agra","address":"District Court, Agra - 282001","website":"https://districts.ecourts.gov.in/agra","caseStatusUrl":"https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=34&dist_code=1","ecourtsStateCode":"34","ecourtsDistCode":"1","cnrStateCode":"UP","caseTypes":[{"code":"OS","name":"Original Suit"},{"code":"CS","name":"Civil Suit"},{"code":"MC","name":"Misc. Case"},{"code":"EP","name":"Execution Petition"},{"code":"IA","name":"Interlocutory Application"},{"code":"CC","name":"Criminal Case"},{"code":"SC","name":"Sessions Case"},{"code":"CRL","name":"Criminal Appeal"},{"code":"PCR","name":"Private Complaint"}],"description":"Agra District Court handles cases for Agra district."},"ernakulam-district-court":{"slug":"ernakulam-district-court","name":"Ernakulam District Court","shortName":"Ernakulam District Court","type":"district","state":"Kerala","stateSlug":"kerala","city":"Kochi","address":"District Court, High Court Road, Ernakulam, Kochi - 682031","website":"https://districts.ecourts.gov.in/ernakulam","caseStatusUrl":"https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=17&dist_code=7","ecourtsStateCode":"17","ecourtsDistCode":"7","cnrStateCode":"KL","caseTypes":[{"code":"OS","name":"Original Suit"},{"code":"CS","name":"Civil Suit"},{"code":"MC","name":"Misc. Case"},{"code":"EP","name":"Execution Petition"},{"code":"IA","name":"Interlocutory Application"},{"code":"CC","name":"Criminal Case"},{"code":"SC","name":"Sessions Case"},{"code":"CRL","name":"Criminal Appeal"},{"code":"PCR","name":"Private Complaint"}],"description":"Ernakulam District Court is the busiest district court in Kerala, located in Kochi."}}
+{
+  "supreme-court-of-india": {
+    "slug": "supreme-court-of-india",
+    "name": "Supreme Court of India",
+    "shortName": "Supreme Court",
+    "type": "supreme",
+    "state": "Delhi",
+    "stateSlug": "delhi",
+    "city": "New Delhi",
+    "address": "Supreme Court of India, Tilak Marg, New Delhi - 110001",
+    "website": "https://main.sci.gov.in",
+    "caseStatusUrl": "https://main.sci.gov.in/case-status",
+    "advocateUrl": "https://main.sci.gov.in/advocate-case-status",
+    "causeListUrl": "https://main.sci.gov.in/cause-list",
+    "cnrStateCode": "SC",
+    "caseTypes": [
+      {
+        "code": "SLP(C)",
+        "name": "Special Leave Petition (Civil)"
+      },
+      {
+        "code": "SLP(Crl.)",
+        "name": "Special Leave Petition (Criminal)"
+      },
+      {
+        "code": "W.P.(C)",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "W.P.(Crl.)",
+        "name": "Writ Petition (Criminal)"
+      },
+      {
+        "code": "C.A.",
+        "name": "Civil Appeal"
+      },
+      {
+        "code": "Crl.A.",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "T.C.(C)",
+        "name": "Transfer Petition (Civil)"
+      },
+      {
+        "code": "Cont.Cas.(C)",
+        "name": "Contempt Case (Civil)"
+      }
+    ],
+    "established": "1950",
+    "phone": "011-23388922",
+    "description": "The Supreme Court of India is the apex court and the final court of appeal. Located in New Delhi, it has a Chief Justice and up to 33 other judges."
+  },
+  "allahabad-high-court": {
+    "slug": "allahabad-high-court",
+    "name": "Allahabad High Court",
+    "shortName": "Allahabad HC",
+    "type": "high",
+    "state": "Uttar Pradesh",
+    "stateSlug": "uttar-pradesh",
+    "city": "Prayagraj",
+    "address": "High Court of Judicature at Allahabad, Prayagraj - 211001",
+    "website": "https://www.allahabadhighcourt.in",
+    "caseStatusUrl": "https://www.allahabadhighcourt.in/case/CaseStatus.html",
+    "advocateUrl": "https://www.allahabadhighcourt.in/case/AdvocateSearch.html",
+    "causeListUrl": "https://www.allahabadhighcourt.in/cause/CauseList.html",
+    "cnrStateCode": "UP",
+    "ecourtsStateCode": "34",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      },
+      {
+        "code": "WA",
+        "name": "Writ Appeal"
+      },
+      {
+        "code": "CMWP",
+        "name": "Criminal Misc. Writ Petition"
+      }
+    ],
+    "established": "1866",
+    "phone": "0532-2422691",
+    "description": "The High Court of Judicature at Allahabad is one of the oldest and largest high courts in India, with jurisdiction over Uttar Pradesh. It also has a Lucknow Bench."
+  },
+  "bombay-high-court": {
+    "slug": "bombay-high-court",
+    "name": "Bombay High Court",
+    "shortName": "Bombay HC",
+    "type": "high",
+    "state": "Maharashtra",
+    "stateSlug": "maharashtra",
+    "city": "Mumbai",
+    "address": "High Court of Bombay, Fort, Mumbai - 400032",
+    "website": "https://bombayhighcourt.nic.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=20&dist_cd=1&stateNm=Maharashtra",
+    "advocateUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/cases/qs_civil_advocate.php?state_cd=20&dist_cd=1&court_code=1&stateNm=Maharashtra",
+    "causeListUrl": "https://bombayhighcourt.nic.in/causelist.php",
+    "cnrStateCode": "MH",
+    "ecourtsStateCode": "20",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      },
+      {
+        "code": "WP",
+        "name": "Writ Petition"
+      },
+      {
+        "code": "PIL",
+        "name": "Public Interest Litigation"
+      },
+      {
+        "code": "APEAL",
+        "name": "Appeal"
+      }
+    ],
+    "established": "1862",
+    "description": "The Bombay High Court has jurisdiction over Maharashtra, Goa, Dadra & Nagar Haveli, and Daman & Diu. Benches at Nagpur, Aurangabad (Chhatrapati Sambhajinagar), and Panaji."
+  },
+  "calcutta-high-court": {
+    "slug": "calcutta-high-court",
+    "name": "Calcutta High Court",
+    "shortName": "Calcutta HC",
+    "type": "high",
+    "state": "West Bengal",
+    "stateSlug": "west-bengal",
+    "city": "Kolkata",
+    "address": "High Court at Calcutta, Esplanade Row West, Kolkata - 700001",
+    "website": "https://www.calcuttahighcourt.gov.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=36&dist_cd=1&stateNm=West+Bengal",
+    "causeListUrl": "https://www.calcuttahighcourt.gov.in/CauseList",
+    "cnrStateCode": "WB",
+    "ecourtsStateCode": "36",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      },
+      {
+        "code": "APO",
+        "name": "Appeal from Original Order"
+      },
+      {
+        "code": "CO",
+        "name": "Civil Order"
+      },
+      {
+        "code": "CRR",
+        "name": "Criminal Revision"
+      }
+    ],
+    "established": "1862",
+    "description": "The High Court at Calcutta is the oldest High Court in India with jurisdiction over West Bengal and the Andaman & Nicobar Islands. Has a circuit bench at Port Blair."
+  },
+  "delhi-high-court": {
+    "slug": "delhi-high-court",
+    "name": "Delhi High Court",
+    "shortName": "Delhi HC",
+    "type": "high",
+    "state": "Delhi",
+    "stateSlug": "delhi",
+    "city": "New Delhi",
+    "address": "High Court of Delhi, Sher Shah Road, New Delhi - 110003",
+    "website": "https://delhihighcourt.nic.in",
+    "caseStatusUrl": "https://delhihighcourt.nic.in/case_status.asp",
+    "advocateUrl": "https://delhihighcourt.nic.in/dhc_adv_case_search_result.asp",
+    "causeListUrl": "https://delhihighcourt.nic.in/dhcqryoption.asp",
+    "cnrStateCode": "DL",
+    "ecourtsStateCode": "25",
+    "caseTypes": [
+      {
+        "code": "W.P.(C)",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "W.P.(Crl.)",
+        "name": "Writ Petition (Criminal)"
+      },
+      {
+        "code": "CS(OS)",
+        "name": "Civil Suit (Original Side)"
+      },
+      {
+        "code": "CS(COMM)",
+        "name": "Civil Suit (Commercial)"
+      },
+      {
+        "code": "FAO",
+        "name": "First Appeal from Order"
+      },
+      {
+        "code": "CRL.A.",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRL.M.C.",
+        "name": "Criminal Misc. Case"
+      },
+      {
+        "code": "CRL.REV.P.",
+        "name": "Criminal Revision Petition"
+      }
+    ],
+    "established": "1966",
+    "description": "The Delhi High Court has jurisdiction over the National Capital Territory of Delhi. Known for handling high-profile commercial, constitutional, and criminal matters."
+  },
+  "madras-high-court": {
+    "slug": "madras-high-court",
+    "name": "Madras High Court",
+    "shortName": "Madras HC",
+    "type": "high",
+    "state": "Tamil Nadu",
+    "stateSlug": "tamil-nadu",
+    "city": "Chennai",
+    "address": "High Court of Madras, High Court Road, Chennai - 600104",
+    "website": "https://www.hcmadras.tn.nic.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=31&dist_cd=1&stateNm=Tamil+Nadu",
+    "causeListUrl": "https://www.hcmadras.tn.nic.in/causelist.html",
+    "cnrStateCode": "TN",
+    "ecourtsStateCode": "31",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      },
+      {
+        "code": "WMP",
+        "name": "Writ Misc. Petition"
+      },
+      {
+        "code": "CMA",
+        "name": "Civil Misc. Appeal"
+      },
+      {
+        "code": "Crl.A.",
+        "name": "Criminal Appeal"
+      }
+    ],
+    "established": "1862",
+    "description": "The High Court of Madras has jurisdiction over Tamil Nadu and Puducherry. Has a permanent bench at Madurai. One of the four original high courts of India."
+  },
+  "karnataka-high-court": {
+    "slug": "karnataka-high-court",
+    "name": "Karnataka High Court",
+    "shortName": "Karnataka HC",
+    "type": "high",
+    "state": "Karnataka",
+    "stateSlug": "karnataka",
+    "city": "Bengaluru",
+    "address": "High Court of Karnataka, Ambedkar Veedhi, Bengaluru - 560001",
+    "website": "https://hckinfo.kar.nic.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=16&dist_cd=1&stateNm=Karnataka",
+    "advocateUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/cases/qs_civil_advocate.php?state_cd=16&dist_cd=1&court_code=1&stateNm=Karnataka",
+    "causeListUrl": "https://hckinfo.kar.nic.in/causelist/",
+    "cnrStateCode": "KA",
+    "ecourtsStateCode": "16",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition"
+      },
+      {
+        "code": "WA",
+        "name": "Writ Appeal"
+      },
+      {
+        "code": "RSA",
+        "name": "Regular Second Appeal"
+      },
+      {
+        "code": "MFA",
+        "name": "Misc. First Appeal"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "CRL.P",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRL.A",
+        "name": "Criminal Appeal"
+      }
+    ],
+    "established": "1884",
+    "description": "The Karnataka High Court has jurisdiction over Karnataka state. Has benches at Dharwad and Kalaburagi. Located in the heritage High Court building in Bengaluru."
+  },
+  "kerala-high-court": {
+    "slug": "kerala-high-court",
+    "name": "Kerala High Court",
+    "shortName": "Kerala HC",
+    "type": "high",
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "city": "Kochi",
+    "address": "High Court of Kerala, Museum Road, Ernakulam, Kochi - 682031",
+    "website": "https://www.hckreports.nic.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=17&dist_cd=1&stateNm=Kerala",
+    "causeListUrl": "https://www.hckreports.nic.in/CauseList.aspx",
+    "cnrStateCode": "KL",
+    "ecourtsStateCode": "17",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      },
+      {
+        "code": "WA",
+        "name": "Writ Appeal"
+      },
+      {
+        "code": "RP",
+        "name": "Review Petition"
+      }
+    ],
+    "established": "1956",
+    "description": "The High Court of Kerala has jurisdiction over Kerala and the Union Territory of Lakshadweep. Located in Kochi (Ernakulam)."
+  },
+  "gujarat-high-court": {
+    "slug": "gujarat-high-court",
+    "name": "Gujarat High Court",
+    "shortName": "Gujarat HC",
+    "type": "high",
+    "state": "Gujarat",
+    "stateSlug": "gujarat",
+    "city": "Ahmedabad",
+    "address": "High Court of Gujarat, Sola, Ahmedabad - 380060",
+    "website": "https://gujarathighcourt.nic.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=11&dist_cd=1&stateNm=Gujarat",
+    "causeListUrl": "https://gujarathighcourt.nic.in/causelist/",
+    "cnrStateCode": "GJ",
+    "ecourtsStateCode": "11",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      },
+      {
+        "code": "SCA",
+        "name": "Special Civil Application"
+      },
+      {
+        "code": "SCRA",
+        "name": "Special Criminal Application"
+      },
+      {
+        "code": "R/SCA",
+        "name": "Regular Special Civil Application"
+      }
+    ],
+    "established": "1960",
+    "description": "The High Court of Gujarat has jurisdiction over the state of Gujarat. The new building is located at Sola, Ahmedabad."
+  },
+  "rajasthan-high-court": {
+    "slug": "rajasthan-high-court",
+    "name": "Rajasthan High Court",
+    "shortName": "Rajasthan HC",
+    "type": "high",
+    "state": "Rajasthan",
+    "stateSlug": "rajasthan",
+    "city": "Jodhpur",
+    "address": "High Court of Rajasthan, Residency Road, Jodhpur - 342001",
+    "website": "https://www.hcraj.nic.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=29&dist_cd=1&stateNm=Rajasthan",
+    "causeListUrl": "https://www.hcraj.nic.in/causelist.php",
+    "cnrStateCode": "RJ",
+    "ecourtsStateCode": "29",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      },
+      {
+        "code": "SB",
+        "name": "Single Bench"
+      },
+      {
+        "code": "DB",
+        "name": "Division Bench"
+      }
+    ],
+    "established": "1949",
+    "description": "The High Court of Rajasthan is the highest court in Rajasthan, with the principal seat at Jodhpur and a permanent bench at Jaipur."
+  },
+  "andhra-pradesh-high-court": {
+    "slug": "andhra-pradesh-high-court",
+    "name": "Andhra Pradesh High Court",
+    "shortName": "AP HC",
+    "type": "high",
+    "state": "Andhra Pradesh",
+    "stateSlug": "andhra-pradesh",
+    "city": "Amaravati",
+    "address": "High Court of Andhra Pradesh, Nelapadu, Amaravati - 522503",
+    "website": "https://hcap.nic.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=2&dist_cd=1&stateNm=Andhra+Pradesh",
+    "cnrStateCode": "AP",
+    "ecourtsStateCode": "2",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      },
+      {
+        "code": "WP",
+        "name": "Writ Petition"
+      },
+      {
+        "code": "WA",
+        "name": "Writ Appeal"
+      }
+    ],
+    "established": "2019",
+    "description": "The High Court of Andhra Pradesh was constituted in 2019 after the bifurcation of the combined HC. Currently located at Amaravati."
+  },
+  "telangana-high-court": {
+    "slug": "telangana-high-court",
+    "name": "Telangana High Court",
+    "shortName": "Telangana HC",
+    "type": "high",
+    "state": "Telangana",
+    "stateSlug": "telangana",
+    "city": "Hyderabad",
+    "address": "High Court for the State of Telangana, Hyderabad - 500066",
+    "website": "https://www.tshc.gov.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=32&dist_cd=1&stateNm=Telangana",
+    "causeListUrl": "https://www.tshc.gov.in/causelist",
+    "cnrStateCode": "TS",
+    "ecourtsStateCode": "32",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      },
+      {
+        "code": "WP",
+        "name": "Writ Petition"
+      },
+      {
+        "code": "PIL",
+        "name": "Public Interest Litigation"
+      }
+    ],
+    "established": "2019",
+    "description": "The High Court for the State of Telangana was created in 2019 after bifurcation. Located at Nampally, Hyderabad."
+  },
+  "punjab-haryana-high-court": {
+    "slug": "punjab-haryana-high-court",
+    "name": "Punjab and Haryana High Court",
+    "shortName": "P&H HC",
+    "type": "high",
+    "state": "Punjab",
+    "stateSlug": "punjab",
+    "city": "Chandigarh",
+    "address": "High Court of Punjab & Haryana, Sector 1, Chandigarh - 160001",
+    "website": "https://highcourtchd.gov.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=28&dist_cd=1&stateNm=Punjab",
+    "advocateUrl": "https://highcourtchd.gov.in/index.php?trs=advocate_search",
+    "causeListUrl": "https://highcourtchd.gov.in/index.php?trs=dl_causelist",
+    "cnrStateCode": "PB",
+    "ecourtsStateCode": "28",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      },
+      {
+        "code": "CRM",
+        "name": "Criminal Main"
+      },
+      {
+        "code": "CRM-M",
+        "name": "Criminal Main (Misc.)"
+      },
+      {
+        "code": "RSA",
+        "name": "Regular Second Appeal"
+      }
+    ],
+    "established": "1947",
+    "description": "The High Court of Punjab and Haryana has jurisdiction over Punjab, Haryana, and the Union Territory of Chandigarh."
+  },
+  "patna-high-court": {
+    "slug": "patna-high-court",
+    "name": "Patna High Court",
+    "shortName": "Patna HC",
+    "type": "high",
+    "state": "Bihar",
+    "stateSlug": "bihar",
+    "city": "Patna",
+    "address": "Patna High Court, Patna - 800001",
+    "website": "https://patnahighcourt.gov.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=5&dist_cd=1&stateNm=Bihar",
+    "causeListUrl": "https://patnahighcourt.gov.in/causelist",
+    "cnrStateCode": "BR",
+    "ecourtsStateCode": "5",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      }
+    ],
+    "established": "1916",
+    "description": "Patna High Court has jurisdiction over Bihar state. It was separated from the Calcutta High Court in 1916."
+  },
+  "gauhati-high-court": {
+    "slug": "gauhati-high-court",
+    "name": "Gauhati High Court",
+    "shortName": "Gauhati HC",
+    "type": "high",
+    "state": "Assam",
+    "stateSlug": "assam",
+    "city": "Guwahati",
+    "address": "Gauhati High Court, Guwahati - 781001",
+    "website": "https://www.ghcnic.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=4&dist_cd=1&stateNm=Assam",
+    "cnrStateCode": "AS",
+    "ecourtsStateCode": "4",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      }
+    ],
+    "established": "1948",
+    "description": "The Gauhati High Court has jurisdiction over Assam, Nagaland, Mizoram, and Arunachal Pradesh. Has benches at Kohima, Aizawl, and Itanagar."
+  },
+  "orissa-high-court": {
+    "slug": "orissa-high-court",
+    "name": "Orissa High Court",
+    "shortName": "Orissa HC",
+    "type": "high",
+    "state": "Odisha",
+    "stateSlug": "odisha",
+    "city": "Cuttack",
+    "address": "Orissa High Court, Cuttack - 753002",
+    "website": "https://www.orissahighcourt.nic.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=26&dist_cd=1&stateNm=Odisha",
+    "causeListUrl": "https://www.orissahighcourt.nic.in/causeList.php",
+    "cnrStateCode": "OR",
+    "ecourtsStateCode": "26",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      },
+      {
+        "code": "OJC",
+        "name": "Original Jurisdiction Case"
+      }
+    ],
+    "established": "1948",
+    "description": "The Orissa High Court has jurisdiction over Odisha state, located in Cuttack."
+  },
+  "madhya-pradesh-high-court": {
+    "slug": "madhya-pradesh-high-court",
+    "name": "Madhya Pradesh High Court",
+    "shortName": "MP HC",
+    "type": "high",
+    "state": "Madhya Pradesh",
+    "stateSlug": "madhya-pradesh",
+    "city": "Jabalpur",
+    "address": "High Court of Madhya Pradesh, Jabalpur - 482001",
+    "website": "https://www.mphc.gov.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=19&dist_cd=1&stateNm=Madhya+Pradesh",
+    "causeListUrl": "https://www.mphc.gov.in/causelist",
+    "cnrStateCode": "MP",
+    "ecourtsStateCode": "19",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      },
+      {
+        "code": "WP",
+        "name": "Writ Petition"
+      },
+      {
+        "code": "RP",
+        "name": "Review Petition"
+      }
+    ],
+    "established": "1956",
+    "description": "MP High Court is at Jabalpur with benches at Gwalior and Indore. Chhattisgarh HC separated from this in 2000."
+  },
+  "chhattisgarh-high-court": {
+    "slug": "chhattisgarh-high-court",
+    "name": "Chhattisgarh High Court",
+    "shortName": "CG HC",
+    "type": "high",
+    "state": "Chhattisgarh",
+    "stateSlug": "chhattisgarh",
+    "city": "Bilaspur",
+    "address": "High Court of Chhattisgarh, Bilaspur - 495001",
+    "website": "https://www.highcourt.cg.gov.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=7&dist_cd=1&stateNm=Chhattisgarh",
+    "cnrStateCode": "CG",
+    "ecourtsStateCode": "7",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      }
+    ],
+    "established": "2000",
+    "description": "The Chhattisgarh High Court was established in 2000 when Chhattisgarh was carved out of Madhya Pradesh."
+  },
+  "uttarakhand-high-court": {
+    "slug": "uttarakhand-high-court",
+    "name": "Uttarakhand High Court",
+    "shortName": "Uttarakhand HC",
+    "type": "high",
+    "state": "Uttarakhand",
+    "stateSlug": "uttarakhand",
+    "city": "Nainital",
+    "address": "High Court of Uttarakhand, Belvedere, Nainital - 263001",
+    "website": "https://www.highcourtofuttarakhand.gov.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=35&dist_cd=1&stateNm=Uttarakhand",
+    "cnrStateCode": "UK",
+    "ecourtsStateCode": "35",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      }
+    ],
+    "established": "2000",
+    "description": "The Uttarakhand High Court is located in Nainital. It was constituted when the state was carved out of Uttar Pradesh in 2000."
+  },
+  "jharkhand-high-court": {
+    "slug": "jharkhand-high-court",
+    "name": "Jharkhand High Court",
+    "shortName": "Jharkhand HC",
+    "type": "high",
+    "state": "Jharkhand",
+    "stateSlug": "jharkhand",
+    "city": "Ranchi",
+    "address": "High Court of Jharkhand, H.C. Road, Ranchi - 834002",
+    "website": "https://www.jharkhandhighcourt.nic.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=15&dist_cd=1&stateNm=Jharkhand",
+    "cnrStateCode": "JH",
+    "ecourtsStateCode": "15",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      }
+    ],
+    "established": "2000",
+    "description": "The Jharkhand High Court was established in 2000 when Jharkhand was separated from Bihar. Located in Ranchi."
+  },
+  "himachal-pradesh-high-court": {
+    "slug": "himachal-pradesh-high-court",
+    "name": "Himachal Pradesh High Court",
+    "shortName": "HP HC",
+    "type": "high",
+    "state": "Himachal Pradesh",
+    "stateSlug": "himachal-pradesh",
+    "city": "Shimla",
+    "address": "High Court of Himachal Pradesh, Ravenswood, Shimla - 171001",
+    "website": "https://hphighcourt.nic.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=13&dist_cd=1&stateNm=Himachal+Pradesh",
+    "cnrStateCode": "HP",
+    "ecourtsStateCode": "13",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      }
+    ],
+    "established": "1971",
+    "description": "The Himachal Pradesh High Court is located in Shimla, the summer capital. Has a bench at Dharamshala."
+  },
+  "jammu-kashmir-high-court": {
+    "slug": "jammu-kashmir-high-court",
+    "name": "High Court of Jammu & Kashmir and Ladakh",
+    "shortName": "J&K HC",
+    "type": "high",
+    "state": "Jammu and Kashmir",
+    "stateSlug": "jammu-and-kashmir",
+    "city": "Srinagar",
+    "address": "High Court of J&K and Ladakh, Srinagar (Summer) / Jammu (Winter)",
+    "website": "https://jkhighcourt.nic.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=14&dist_cd=1&stateNm=Jammu+and+Kashmir",
+    "cnrStateCode": "JK",
+    "ecourtsStateCode": "14",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      }
+    ],
+    "established": "1928",
+    "description": "Has jurisdiction over J&K and Ladakh UTs. Sits in Srinagar during summer and Jammu during winter."
+  },
+  "manipur-high-court": {
+    "slug": "manipur-high-court",
+    "name": "Manipur High Court",
+    "shortName": "Manipur HC",
+    "type": "high",
+    "state": "Manipur",
+    "stateSlug": "manipur",
+    "city": "Imphal",
+    "address": "High Court of Manipur, Imphal - 795001",
+    "website": "https://mhc.nic.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=21&dist_cd=1&stateNm=Manipur",
+    "cnrStateCode": "MN",
+    "ecourtsStateCode": "21",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      }
+    ],
+    "established": "2013",
+    "description": "The Manipur High Court was constituted as an independent HC in 2013, separated from the Gauhati High Court."
+  },
+  "meghalaya-high-court": {
+    "slug": "meghalaya-high-court",
+    "name": "Meghalaya High Court",
+    "shortName": "Meghalaya HC",
+    "type": "high",
+    "state": "Meghalaya",
+    "stateSlug": "meghalaya",
+    "city": "Shillong",
+    "address": "High Court of Meghalaya, Shillong - 793001",
+    "website": "https://www.meghalayahighcourt.nic.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=22&dist_cd=1&stateNm=Meghalaya",
+    "cnrStateCode": "MG",
+    "ecourtsStateCode": "22",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      }
+    ],
+    "established": "2013",
+    "description": "The Meghalaya High Court was constituted in 2013, separated from the Gauhati High Court."
+  },
+  "sikkim-high-court": {
+    "slug": "sikkim-high-court",
+    "name": "Sikkim High Court",
+    "shortName": "Sikkim HC",
+    "type": "high",
+    "state": "Sikkim",
+    "stateSlug": "sikkim",
+    "city": "Gangtok",
+    "address": "High Court of Sikkim, Gangtok - 737101",
+    "website": "https://www.sikkimhighcourt.nic.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=30&dist_cd=1&stateNm=Sikkim",
+    "cnrStateCode": "SK",
+    "ecourtsStateCode": "30",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      }
+    ],
+    "established": "1975",
+    "description": "The Sikkim High Court is the smallest high court in India by caseload."
+  },
+  "tripura-high-court": {
+    "slug": "tripura-high-court",
+    "name": "Tripura High Court",
+    "shortName": "Tripura HC",
+    "type": "high",
+    "state": "Tripura",
+    "stateSlug": "tripura",
+    "city": "Agartala",
+    "address": "High Court of Tripura, Agartala - 799001",
+    "website": "https://www.tripurahighcourt.gov.in",
+    "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=33&dist_cd=1&stateNm=Tripura",
+    "cnrStateCode": "TR",
+    "ecourtsStateCode": "33",
+    "caseTypes": [
+      {
+        "code": "WP",
+        "name": "Writ Petition (Civil)"
+      },
+      {
+        "code": "FA",
+        "name": "First Appeal"
+      },
+      {
+        "code": "SA",
+        "name": "Second Appeal"
+      },
+      {
+        "code": "CS",
+        "name": "Civil Suit"
+      },
+      {
+        "code": "CRP",
+        "name": "Civil Revision Petition"
+      },
+      {
+        "code": "EP",
+        "name": "Election Petition"
+      },
+      {
+        "code": "CRL",
+        "name": "Criminal Appeal"
+      },
+      {
+        "code": "CRLP",
+        "name": "Criminal Petition"
+      },
+      {
+        "code": "CRLMC",
+        "name": "Criminal Misc. Case"
+      }
+    ],
+    "established": "2013",
+    "description": "The Tripura High Court was constituted in 2013, separated from the Gauhati High Court."
+  }
+}
