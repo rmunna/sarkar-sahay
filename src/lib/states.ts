@@ -42,14 +42,14 @@ export const STATES: StateInfo[] = [
 /** Keywords in filenames that map to each state */
 const STATE_FILENAME_KEYWORDS: Record<string, string[]> = {
   karnataka: ["karnataka", "bhoomi-land-records-karnataka", "shakti-free-bus-karnataka", "gruha-lakshmi-karnataka", "ration-card-apply-online-karnataka"],
-  "tamil-nadu": ["tamil-nadu", "tn-", "patta-chitta", "kalaignar"],
+  "tamil-nadu": ["tamil-nadu", "tn-", "patta-chitta", "kalaignar", "tamil-nadu-new-government", "tamil-nadu-government-schemes-services"],
   kerala: ["kerala", "karunya"],
   telangana: ["telangana", "dharani-portal", "rythu-bandhu", "kalyana-lakshmi-shaadi-mubarak"],
   maharashtra: ["maharashtra", "aaple-sarkar", "igrs-maharashtra", "majhi-ladki-bahin"],
   rajasthan: ["rajasthan", "jan-aadhaar-card-rajasthan", "chiranjeevi-yojana-rajasthan", "indira-rasoi", "devnarayan-scooty", "palanhar"],
   bihar: ["bihar", "bhumi-jankari-land-records-bihar", "student-credit-card-bihar", "mukhyamantri-kanya-utthan-yojana-bihar"],
-  "west-bengal": ["west-bengal", "wb-", "kanyashree-prakalpa", "lakshmir-bhandar", "swasthya-sathi"],
-  assam: ["assam"],
+  "west-bengal": ["west-bengal", "wb-", "kanyashree-prakalpa", "lakshmir-bhandar", "swasthya-sathi", "west-bengal-new-government", "west-bengal-government-schemes"],
+  assam: ["assam", "assam-new-government", "assam-government-schemes"],
   gujarat: ["gujarat"],
   "madhya-pradesh": ["ladli-bahna-yojana-mp", "seekho-kamao-yojana-mp", "mp-"],
   "uttar-pradesh": ["up-", "kanya-sumangala-yojana-up", "shadi-anudan-yojana-up", "mukhyamantri-yuva-swarozgar-yojana-up", "kisan-samman-nidhi-up", "ration-card-apply-online-uttar-pradesh"],
