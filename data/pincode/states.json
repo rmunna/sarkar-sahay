@@ -1,0 +1,177 @@
+[
+  {
+    "slug": "tamil-nadu",
+    "name": "Tamil Nadu",
+    "count": 2020
+  },
+  {
+    "slug": "uttar-pradesh",
+    "name": "Uttar Pradesh",
+    "count": 1644
+  },
+  {
+    "slug": "maharashtra",
+    "name": "Maharashtra",
+    "count": 1583
+  },
+  {
+    "slug": "kerala",
+    "name": "Kerala",
+    "count": 1418
+  },
+  {
+    "slug": "karnataka",
+    "name": "Karnataka",
+    "count": 1343
+  },
+  {
+    "slug": "andhra-pradesh",
+    "name": "Andhra Pradesh",
+    "count": 1214
+  },
+  {
+    "slug": "west-bengal",
+    "name": "West Bengal",
+    "count": 1147
+  },
+  {
+    "slug": "gujarat",
+    "name": "Gujarat",
+    "count": 1026
+  },
+  {
+    "slug": "rajasthan",
+    "name": "Rajasthan",
+    "count": 992
+  },
+  {
+    "slug": "odisha",
+    "name": "Odisha",
+    "count": 922
+  },
+  {
+    "slug": "bihar",
+    "name": "Bihar",
+    "count": 862
+  },
+  {
+    "slug": "madhya-pradesh",
+    "name": "Madhya Pradesh",
+    "count": 769
+  },
+  {
+    "slug": "telangana",
+    "name": "Telangana",
+    "count": 665
+  },
+  {
+    "slug": "assam",
+    "name": "Assam",
+    "count": 571
+  },
+  {
+    "slug": "punjab",
+    "name": "Punjab",
+    "count": 523
+  },
+  {
+    "slug": "himachal-pradesh",
+    "name": "Himachal Pradesh",
+    "count": 434
+  },
+  {
+    "slug": "jharkhand",
+    "name": "Jharkhand",
+    "count": 378
+  },
+  {
+    "slug": "haryana",
+    "name": "Haryana",
+    "count": 314
+  },
+  {
+    "slug": "uttarakhand",
+    "name": "Uttarakhand",
+    "count": 296
+  },
+  {
+    "slug": "chattisgarh",
+    "name": "Chattisgarh",
+    "count": 272
+  },
+  {
+    "slug": "jammu-kashmir",
+    "name": "Jammu & Kashmir",
+    "count": 213
+  },
+  {
+    "slug": "delhi",
+    "name": "Delhi",
+    "count": 98
+  },
+  {
+    "slug": "goa",
+    "name": "Goa",
+    "count": 88
+  },
+  {
+    "slug": "tripura",
+    "name": "Tripura",
+    "count": 80
+  },
+  {
+    "slug": "meghalaya",
+    "name": "Meghalaya",
+    "count": 65
+  },
+  {
+    "slug": "manipur",
+    "name": "Manipur",
+    "count": 52
+  },
+  {
+    "slug": "arunachal-pradesh",
+    "name": "Arunachal Pradesh",
+    "count": 49
+  },
+  {
+    "slug": "nagaland",
+    "name": "Nagaland",
+    "count": 42
+  },
+  {
+    "slug": "mizoram",
+    "name": "Mizoram",
+    "count": 41
+  },
+  {
+    "slug": "pondicherry",
+    "name": "Pondicherry",
+    "count": 33
+  },
+  {
+    "slug": "chandigarh",
+    "name": "Chandigarh",
+    "count": 28
+  },
+  {
+    "slug": "andaman-nicobar-islands",
+    "name": "Andaman & Nicobar Islands",
+    "count": 22
+  },
+  {
+    "slug": "sikkim",
+    "name": "Sikkim",
+    "count": 19
+  },
+  {
+    "slug": "lakshadweep",
+    "name": "Lakshadweep",
+    "count": 9
+  },
+  {
+    "slug": "dadra-nagar-haveli-daman-diu",
+    "name": "Dadra & Nagar Haveli / Daman & Diu",
+    "count": 6
+  }
+]

@@ -8,6 +8,7 @@ import {
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
+import IFSCSearchWidget from "@/components/IFSCSearchWidget";
 
 interface Props {
   params: Promise<{ bank: string }>;
@@ -86,10 +87,12 @@ export default async function BankIFSCPage({ params }: Props) {
           IFSC prefix: <span className="font-mono font-bold text-blue-700">{BANK_IFSC_PREFIX[bank]}</span>
         </p>
 
-        {/* Search hint */}
-        <div className="bg-blue-50 border border-blue-200 rounded-xl p-4 mb-8 text-sm text-blue-800">
-          <strong>Find your branch:</strong> Use Ctrl+F / ⌘+F to search for your city or branch name on this page.
-          Or search by city below.
+        {/* Search */}
+        <div className="mb-8">
+          <IFSCSearchWidget
+            defaultBank={bank}
+            placeholder={`Search ${bankName} branches by name or city…`}
+          />
         </div>
 
         {/* Cities grid */}

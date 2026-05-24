@@ -11,3 +11,6 @@ exam-monitor-tracker.json
 
 # IFSC raw source data (too large; re-download with: npx tsx scripts/fetch-ifsc-data.ts)
 data/ifsc/raw/
+
+# Pincode raw source data (re-download: curl -L https://download.geonames.org/export/zip/IN.zip)
+data/pincode/raw/

@@ -157,6 +157,8 @@ function generateMainSitemap(): string {
       changefreq: "monthly" as const,
       priority: "0.8",
     })),
+    // Pincode home
+    { loc: `${BASE_URL}/pincode`, lastmod: today, changefreq: "monthly", priority: "0.9" },
     ...STATE_SLUGS.map((s) => ({
       loc: `${BASE_URL}/state/${s}`,
       lastmod: today,
@@ -236,6 +238,27 @@ ${allSitemaps
 </sitemapindex>`;
 }
 
+function generatePincodeSitemap(publicDir: string): string {
+  const today = new Date().toISOString().split("T")[0];
+  const indexFile = path.join(__dirname, "..", "data", "pincode", "index.json");
+  if (!fs.existsSync(indexFile)) return "";
+
+  const index = JSON.parse(fs.readFileSync(indexFile, "utf8")) as Record<string, unknown>;
+  const pincodes = Object.keys(index);
+
+  const urls: SitemapUrl[] = pincodes.map((p) => ({
+    loc: `${BASE_URL}/pincode/${p}`,
+    lastmod: today,
+    changefreq: "yearly",
+    priority: "0.6",
+  }));
+
+  const filename = "sitemap-pincode.xml";
+  fs.writeFileSync(path.join(publicDir, filename), buildUrlset(urls));
+  console.log(`  ✅ ${filename}: ${urls.length.toLocaleString()} URLs`);
+  return filename;
+}
+
 // --- Main ---
 const PUBLIC_DIR = path.join(__dirname, "..", "public");
 
@@ -248,8 +271,13 @@ console.log("✅ Written public/sitemap.xml");
 console.log("📍 Generating IFSC branch sitemaps …");
 const ifscSitemapNames = generateIFSCSitemaps(PUBLIC_DIR);
 
-// 3. Sitemap index
-const sitemapIndex = generateSitemapIndex(PUBLIC_DIR, ifscSitemapNames);
+// 3. Pincode sitemap
+console.log("📮 Generating pincode sitemap …");
+const pincodeSitemapName = generatePincodeSitemap(PUBLIC_DIR);
+
+// 4. Sitemap index
+const allSitemapNames = [...ifscSitemapNames, ...(pincodeSitemapName ? [pincodeSitemapName] : [])];
+const sitemapIndex = generateSitemapIndex(PUBLIC_DIR, allSitemapNames);
 fs.writeFileSync(path.join(PUBLIC_DIR, "sitemap-index.xml"), sitemapIndex);
 console.log("✅ Written public/sitemap-index.xml");
 
@@ -262,5 +290,6 @@ const totalIFSCUrls = ifscSitemapNames.length > 0
   ? getIFSCBanks().reduce((sum, b) => sum + getIFSCBranches(b.slug).length, 0)
   : 0;
 console.log(`\n📄 Total URLs generated:`);
-console.log(`   Main sitemap: ${getGuides().length + getUpdates().filter(u => u.status === "active").length + getIFSCBanks().length + 10} URLs`);
+console.log(`   Main sitemap: ${getGuides().length + getUpdates().filter(u => u.status === "active").length + getIFSCBanks().length + 11} URLs`);
 console.log(`   IFSC branch sitemaps: ${totalIFSCUrls.toLocaleString()} URLs across ${ifscSitemapNames.length} files`);
+console.log(`   Pincode sitemap: 19,238 URLs`);

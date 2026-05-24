@@ -1,6 +1,7 @@
 import { getAllBanks, BANK_IFSC_PREFIX } from "@/lib/ifsc";
 import Link from "next/link";
 import type { Metadata } from "next";
+import IFSCSearchWidget from "@/components/IFSCSearchWidget";
 
 export const metadata: Metadata = {
   title: "IFSC Code Finder — All Banks, All Branches India",
@@ -38,7 +39,7 @@ export default function IFSCHomePage() {
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <h1 className="text-3xl font-bold text-gray-900 mb-2">IFSC Code Finder</h1>
-      <p className="text-gray-600 mb-8">
+      <p className="text-gray-600 mb-6">
         Find IFSC codes for all bank branches in India. Data sourced from{" "}
         <a
           href="https://www.rbi.org.in"
@@ -50,6 +51,11 @@ export default function IFSCHomePage() {
         </a>
         .
       </p>
+
+      {/* Search */}
+      <div className="mb-8">
+        <IFSCSearchWidget placeholder="Search by branch name, city or IFSC code (e.g. HDFC Koramangala or HDFC0001234)…" />
+      </div>
 
       {/* What is IFSC */}
       <div className="bg-blue-50 border border-blue-200 rounded-xl p-5 mb-8">
