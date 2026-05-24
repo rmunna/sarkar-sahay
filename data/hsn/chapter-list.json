@@ -1,0 +1,492 @@
+[
+  {
+    "code": "10",
+    "name": "Cereals",
+    "count": 2
+  },
+  {
+    "code": "11",
+    "name": "Milling Products",
+    "count": 1
+  },
+  {
+    "code": "12",
+    "name": "Oil Seeds",
+    "count": 3
+  },
+  {
+    "code": "13",
+    "name": "Lac, Gums, Resins",
+    "count": 0
+  },
+  {
+    "code": "14",
+    "name": "Vegetable Plaiting Materials",
+    "count": 0
+  },
+  {
+    "code": "15",
+    "name": "Animal & Vegetable Fats",
+    "count": 5
+  },
+  {
+    "code": "16",
+    "name": "Prepared Meat/Fish",
+    "count": 0
+  },
+  {
+    "code": "17",
+    "name": "Sugars",
+    "count": 2
+  },
+  {
+    "code": "18",
+    "name": "Cocoa & Preparations",
+    "count": 4
+  },
+  {
+    "code": "19",
+    "name": "Cereal Preparations",
+    "count": 3
+  },
+  {
+    "code": "20",
+    "name": "Preparations of Vegetables/Fruit",
+    "count": 1
+  },
+  {
+    "code": "21",
+    "name": "Miscellaneous Food Preparations",
+    "count": 3
+  },
+  {
+    "code": "22",
+    "name": "Beverages & Spirits",
+    "count": 5
+  },
+  {
+    "code": "23",
+    "name": "Animal Feed",
+    "count": 0
+  },
+  {
+    "code": "24",
+    "name": "Tobacco",
+    "count": 3
+  },
+  {
+    "code": "25",
+    "name": "Salt, Sulphur, Earths, Stone",
+    "count": 2
+  },
+  {
+    "code": "26",
+    "name": "Ores, Slag, Ash",
+    "count": 0
+  },
+  {
+    "code": "27",
+    "name": "Mineral Fuels & Oils",
+    "count": 3
+  },
+  {
+    "code": "28",
+    "name": "Inorganic Chemicals",
+    "count": 1
+  },
+  {
+    "code": "29",
+    "name": "Organic Chemicals",
+    "count": 1
+  },
+  {
+    "code": "30",
+    "name": "Pharmaceutical Products",
+    "count": 2
+  },
+  {
+    "code": "31",
+    "name": "Fertilisers",
+    "count": 0
+  },
+  {
+    "code": "32",
+    "name": "Tanning & Dyeing Extracts",
+    "count": 0
+  },
+  {
+    "code": "33",
+    "name": "Essential Oils & Cosmetics",
+    "count": 7
+  },
+  {
+    "code": "34",
+    "name": "Soap, Washing Preparations",
+    "count": 3
+  },
+  {
+    "code": "35",
+    "name": "Albuminoidal Substances, Glues",
+    "count": 0
+  },
+  {
+    "code": "36",
+    "name": "Explosives, Pyrotechnics",
+    "count": 0
+  },
+  {
+    "code": "37",
+    "name": "Photographic Products",
+    "count": 0
+  },
+  {
+    "code": "38",
+    "name": "Miscellaneous Chemical Products",
+    "count": 1
+  },
+  {
+    "code": "39",
+    "name": "Plastics",
+    "count": 5
+  },
+  {
+    "code": "40",
+    "name": "Rubber & Articles",
+    "count": 2
+  },
+  {
+    "code": "41",
+    "name": "Raw Hides, Skins & Leather",
+    "count": 0
+  },
+  {
+    "code": "42",
+    "name": "Articles of Leather",
+    "count": 0
+  },
+  {
+    "code": "43",
+    "name": "Furskins & Artificial Fur",
+    "count": 0
+  },
+  {
+    "code": "44",
+    "name": "Wood & Articles",
+    "count": 1
+  },
+  {
+    "code": "45",
+    "name": "Cork & Articles",
+    "count": 0
+  },
+  {
+    "code": "46",
+    "name": "Manufactures of Straw",
+    "count": 0
+  },
+  {
+    "code": "47",
+    "name": "Pulp of Wood",
+    "count": 0
+  },
+  {
+    "code": "48",
+    "name": "Paper & Paperboard",
+    "count": 1
+  },
+  {
+    "code": "49",
+    "name": "Printed Books, Newspapers",
+    "count": 5
+  },
+  {
+    "code": "50",
+    "name": "Silk",
+    "count": 0
+  },
+  {
+    "code": "51",
+    "name": "Wool",
+    "count": 0
+  },
+  {
+    "code": "52",
+    "name": "Cotton",
+    "count": 3
+  },
+  {
+    "code": "53",
+    "name": "Other Vegetable Textile Fibres",
+    "count": 1
+  },
+  {
+    "code": "54",
+    "name": "Man-Made Filaments",
+    "count": 1
+  },
+  {
+    "code": "55",
+    "name": "Man-Made Staple Fibres",
+    "count": 1
+  },
+  {
+    "code": "56",
+    "name": "Wadding, Felt, Nonwovens",
+    "count": 1
+  },
+  {
+    "code": "57",
+    "name": "Carpets & Textile Floor Coverings",
+    "count": 0
+  },
+  {
+    "code": "58",
+    "name": "Special Woven Fabrics",
+    "count": 0
+  },
+  {
+    "code": "59",
+    "name": "Impregnated Textile Fabrics",
+    "count": 0
+  },
+  {
+    "code": "60",
+    "name": "Knitted or Crocheted Fabrics",
+    "count": 1
+  },
+  {
+    "code": "61",
+    "name": "Knitted Apparel",
+    "count": 2
+  },
+  {
+    "code": "62",
+    "name": "Woven Apparel",
+    "count": 2
+  },
+  {
+    "code": "63",
+    "name": "Other Textile Articles",
+    "count": 2
+  },
+  {
+    "code": "64",
+    "name": "Footwear",
+    "count": 4
+  },
+  {
+    "code": "65",
+    "name": "Headgear",
+    "count": 0
+  },
+  {
+    "code": "66",
+    "name": "Umbrellas, Walking Sticks",
+    "count": 0
+  },
+  {
+    "code": "67",
+    "name": "Prepared Feathers, Artificial Flowers",
+    "count": 0
+  },
+  {
+    "code": "68",
+    "name": "Articles of Stone, Plaster, Cement",
+    "count": 2
+  },
+  {
+    "code": "69",
+    "name": "Ceramic Products",
+    "count": 2
+  },
+  {
+    "code": "70",
+    "name": "Glass & Glassware",
+    "count": 2
+  },
+  {
+    "code": "71",
+    "name": "Precious Stones & Metals",
+    "count": 2
+  },
+  {
+    "code": "72",
+    "name": "Iron & Steel",
+    "count": 5
+  },
+  {
+    "code": "73",
+    "name": "Articles of Iron or Steel",
+    "count": 5
+  },
+  {
+    "code": "74",
+    "name": "Copper & Articles",
+    "count": 0
+  },
+  {
+    "code": "75",
+    "name": "Nickel & Articles",
+    "count": 0
+  },
+  {
+    "code": "76",
+    "name": "Aluminium & Articles",
+    "count": 0
+  },
+  {
+    "code": "78",
+    "name": "Lead & Articles",
+    "count": 0
+  },
+  {
+    "code": "79",
+    "name": "Zinc & Articles",
+    "count": 0
+  },
+  {
+    "code": "80",
+    "name": "Tin & Articles",
+    "count": 0
+  },
+  {
+    "code": "81",
+    "name": "Other Base Metals",
+    "count": 0
+  },
+  {
+    "code": "82",
+    "name": "Tools & Cutlery of Base Metal",
+    "count": 0
+  },
+  {
+    "code": "83",
+    "name": "Miscellaneous Articles of Base Metal",
+    "count": 0
+  },
+  {
+    "code": "84",
+    "name": "Nuclear Reactors, Machinery, Computers",
+    "count": 13
+  },
+  {
+    "code": "85",
+    "name": "Electrical Machinery & Electronics",
+    "count": 14
+  },
+  {
+    "code": "86",
+    "name": "Railway Locomotives",
+    "count": 0
+  },
+  {
+    "code": "87",
+    "name": "Vehicles (Cars, Bikes, Trucks)",
+    "count": 8
+  },
+  {
+    "code": "88",
+    "name": "Aircraft & Spacecraft",
+    "count": 0
+  },
+  {
+    "code": "89",
+    "name": "Ships & Boats",
+    "count": 0
+  },
+  {
+    "code": "90",
+    "name": "Optical, Photographic, Medical Instruments",
+    "count": 6
+  },
+  {
+    "code": "91",
+    "name": "Clocks & Watches",
+    "count": 0
+  },
+  {
+    "code": "92",
+    "name": "Musical Instruments",
+    "count": 0
+  },
+  {
+    "code": "93",
+    "name": "Arms & Ammunition",
+    "count": 0
+  },
+  {
+    "code": "94",
+    "name": "Furniture, Bedding, Mattresses",
+    "count": 4
+  },
+  {
+    "code": "95",
+    "name": "Toys, Games, Sports Equipment",
+    "count": 4
+  },
+  {
+    "code": "96",
+    "name": "Miscellaneous Manufactured Articles",
+    "count": 3
+  },
+  {
+    "code": "97",
+    "name": "Works of Art, Antiques",
+    "count": 0
+  },
+  {
+    "code": "98",
+    "name": "Project Imports, Lab Chemicals",
+    "count": 0
+  },
+  {
+    "code": "99",
+    "name": "Services (SAC Codes)",
+    "count": 20
+  },
+  {
+    "code": "01",
+    "name": "Live Animals",
+    "count": 2
+  },
+  {
+    "code": "02",
+    "name": "Meat & Edible Offals",
+    "count": 3
+  },
+  {
+    "code": "03",
+    "name": "Fish & Seafood",
+    "count": 5
+  },
+  {
+    "code": "04",
+    "name": "Dairy, Eggs, Honey",
+    "count": 8
+  },
+  {
+    "code": "05",
+    "name": "Other Animal Products",
+    "count": 0
+  },
+  {
+    "code": "06",
+    "name": "Live Plants & Flowers",
+    "count": 0
+  },
+  {
+    "code": "07",
+    "name": "Edible Vegetables",
+    "count": 5
+  },
+  {
+    "code": "08",
+    "name": "Edible Fruits & Nuts",
+    "count": 5
+  },
+  {
+    "code": "09",
+    "name": "Coffee, Tea, Spices",
+    "count": 4
+  }
+]

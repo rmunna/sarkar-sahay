@@ -26,8 +26,9 @@ const CALCULATOR_SLUGS = [
   "car-loan", "education-cost", "emi", "epf", "fd", "gratuity", "gst",
   "home-loan-eligibility", "hra-exemption", "income-tax", "interest",
   "job-eligibility", "lumpsum", "mudra-loan-eligibility", "nps",
-  "pm-awas-yojana-eligibility", "pm-kisan-eligibility", "ppf", "rent-receipt",
-  "retirement", "salary", "senior-citizen-pension-eligibility", "sip",
+  "old-vs-new-regime", "pm-awas-yojana-eligibility", "pm-kisan-eligibility",
+  "ppf", "rent-receipt", "retirement", "salary",
+  "senior-citizen-pension-eligibility", "sip",
   "stamp-duty", "sukanya-samriddhi", "sukanya-samriddhi-eligibility",
   "ujjwala-yojana-eligibility",
 ];
@@ -159,6 +160,10 @@ function generateMainSitemap(): string {
     })),
     // Pincode home
     { loc: `${BASE_URL}/pincode`, lastmod: today, changefreq: "monthly", priority: "0.9" },
+    // HSN home
+    { loc: `${BASE_URL}/hsn`, lastmod: today, changefreq: "monthly", priority: "0.8" },
+    // RTO home
+    { loc: `${BASE_URL}/rto`, lastmod: today, changefreq: "monthly", priority: "0.8" },
     ...STATE_SLUGS.map((s) => ({
       loc: `${BASE_URL}/state/${s}`,
       lastmod: today,
@@ -259,6 +264,44 @@ function generatePincodeSitemap(publicDir: string): string {
   return filename;
 }
 
+function generateHSNSitemap(publicDir: string): string {
+  const today = new Date().toISOString().split("T")[0];
+  const allFile = path.join(__dirname, "..", "data", "hsn", "all.json");
+  if (!fs.existsSync(allFile)) return "";
+
+  const records = JSON.parse(fs.readFileSync(allFile, "utf8")) as { code: string }[];
+  const urls: SitemapUrl[] = records.map((r) => ({
+    loc: `${BASE_URL}/hsn/${r.code.toLowerCase()}`,
+    lastmod: today,
+    changefreq: "yearly",
+    priority: "0.6",
+  }));
+
+  const filename = "sitemap-hsn.xml";
+  fs.writeFileSync(path.join(publicDir, filename), buildUrlset(urls));
+  console.log(`  ✅ ${filename}: ${urls.length} URLs`);
+  return filename;
+}
+
+function generateRTOSitemap(publicDir: string): string {
+  const today = new Date().toISOString().split("T")[0];
+  const rtoFile = path.join(__dirname, "..", "data", "rto", "rto.json");
+  if (!fs.existsSync(rtoFile)) return "";
+
+  const records = JSON.parse(fs.readFileSync(rtoFile, "utf8")) as { slug: string }[];
+  const urls: SitemapUrl[] = records.map((r) => ({
+    loc: `${BASE_URL}/rto/${r.slug}`,
+    lastmod: today,
+    changefreq: "yearly",
+    priority: "0.6",
+  }));
+
+  const filename = "sitemap-rto.xml";
+  fs.writeFileSync(path.join(publicDir, filename), buildUrlset(urls));
+  console.log(`  ✅ ${filename}: ${urls.length} URLs`);
+  return filename;
+}
+
 // --- Main ---
 const PUBLIC_DIR = path.join(__dirname, "..", "public");
 
@@ -275,8 +318,21 @@ const ifscSitemapNames = generateIFSCSitemaps(PUBLIC_DIR);
 console.log("📮 Generating pincode sitemap …");
 const pincodeSitemapName = generatePincodeSitemap(PUBLIC_DIR);
 
-// 4. Sitemap index
-const allSitemapNames = [...ifscSitemapNames, ...(pincodeSitemapName ? [pincodeSitemapName] : [])];
+// 4. HSN sitemap
+console.log("📦 Generating HSN sitemap …");
+const hsnSitemapName = generateHSNSitemap(PUBLIC_DIR);
+
+// 5. RTO sitemap
+console.log("🚗 Generating RTO sitemap …");
+const rtoSitemapName = generateRTOSitemap(PUBLIC_DIR);
+
+// 6. Sitemap index
+const allSitemapNames = [
+  ...ifscSitemapNames,
+  ...(pincodeSitemapName ? [pincodeSitemapName] : []),
+  ...(hsnSitemapName ? [hsnSitemapName] : []),
+  ...(rtoSitemapName ? [rtoSitemapName] : []),
+];
 const sitemapIndex = generateSitemapIndex(PUBLIC_DIR, allSitemapNames);
 fs.writeFileSync(path.join(PUBLIC_DIR, "sitemap-index.xml"), sitemapIndex);
 console.log("✅ Written public/sitemap-index.xml");

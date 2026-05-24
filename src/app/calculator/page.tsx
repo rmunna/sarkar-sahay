@@ -21,6 +21,12 @@ const calculators = [
     href: "/calculator/income-tax",
   },
   {
+    icon: "⚖️",
+    title: "Old vs New Tax Regime",
+    description: "Compare old and new tax regime side-by-side with all deductions. Find which saves more tax for FY 2024-25.",
+    href: "/calculator/old-vs-new-regime",
+  },
+  {
     icon: "🏠",
     title: "HRA Exemption Calculator",
     description: "Find your HRA exemption amount and taxable HRA in seconds.",
