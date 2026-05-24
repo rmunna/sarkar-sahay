@@ -1,39 +1,48 @@
 ---
-title: "West Bengal CM Women Welfare Scheme 2026 — Eligibility, Amount & How to Apply"
+title: "Annapurna Bhandar Scheme 2026 — ₹3,000/Month Women Grant West Bengal BJP Govt"
 description: >-
-  Complete guide to West Bengal CM Women Welfare Scheme 2026. Monthly DBT for
-  eligible women, eligibility, required documents, how to apply online via
-  WB e-District portal and at Duare Sarkar camps, and payment status check.
+  Complete guide to West Bengal Annapurna Bhandar scheme 2026. BJP Suvendu
+  Adhikari government's ₹3,000/month for eligible women replacing Lakshmir
+  Bhandar — eligibility, documents, how to apply, launch date June 1 2026.
 category: Women Welfare
 keywords:
-  - west bengal cm women welfare scheme 2026
-  - wb women scheme 2026
-  - west bengal women dbt scheme 2026
-  - wb new women scheme 2026
-  - west bengal women monthly income scheme 2026
-  - lakshmir bhandar 2026 update
-  - wb women benefit scheme eligibility
-  - west bengal magla scheme 2026
-  - how to apply wb women scheme 2026
-  - wb duare sarkar women scheme
-readingTime: 8 min
+  - annapurna bhandar scheme west bengal 2026
+  - wb annapurna bhandar 3000 per month
+  - west bengal women scheme 3000 month bjp
+  - annapurna bhandar eligibility west bengal
+  - wb women dbt 3000 scheme 2026
+  - suvendu adhikari women scheme 2026
+  - west bengal replace lakshmir bhandar 2026
+  - annapurna bhandar apply online wb
+  - wb women income scheme june 2026
+  - how to apply annapurna bhandar west bengal
+readingTime: 9 min
 officialLinks:
   - 'https://wb.gov.in/'
   - 'https://edistrict.wb.gov.in/'
   - 'https://wbsocialwelfare.gov.in/'
 ---
 
-# West Bengal CM Women Welfare Scheme 2026 — Eligibility & How to Apply
+# Annapurna Bhandar Scheme 2026 — ₹3,000/Month Women Grant, West Bengal
 
-The new West Bengal government (2026) has launched a comprehensive women's income support programme — building on the state's tradition of women-centric welfare through Direct Benefit Transfer. This guide covers the scheme's benefits, who qualifies, how to apply, and how to check payment status.
+The **BJP government led by CM Suvendu Adhikari** has launched the **Annapurna Bhandar** scheme — **₹3,000 per month** via Direct Benefit Transfer for eligible women heads of household in West Bengal. This replaces the TMC's Lakshmir Bhandar (₹1,000–₹1,200/month) with a 2.5–3× increase in monthly benefit.
 
-> **Note:** The scheme is newly notified following the 2026 government formation. Details are updated as official orders are released. Visit [wb.gov.in](https://wb.gov.in/) for the latest.
+> **CM Suvendu Adhikari was sworn in on 9 May 2026.** Official notification No. 2411-WCD/O/AB-4/2026 was issued on **19 May 2026**. Scheme launches **1 June 2026**.
 
 ---
 
-## What is the WB CM Women Welfare Scheme 2026?
+## What is the Annapurna Bhandar Scheme?
 
-The West Bengal Chief Minister's Women Welfare Scheme 2026 is a state government initiative providing monthly income support to eligible women from low-income households across West Bengal. The scheme is implemented through the **Department of Women and Child Development and Social Welfare, West Bengal**.
+Annapurna Bhandar (literally "storehouse of abundance") is the West Bengal BJP government's flagship women income support scheme — providing **₹3,000 per month** directly to eligible women's Aadhaar-linked bank accounts. It is implemented by the **Department of Women and Child Development and Social Welfare, Government of West Bengal**.
+
+**How it Compares:**
+
+| Government | Scheme | Monthly Amount |
+|------------|--------|---------------|
+| TMC (2011–2026) | Lakshmir Bhandar | ₹1,000 (Gen) / ₹1,200 (SC/ST) |
+| **BJP (2026–)** | **Annapurna Bhandar** | **₹3,000** |
+
+The BJP's Annapurna Bhandar is **₹3,000 for all categories** — the SC/ST differential is removed; everyone gets the same higher amount.
 
 ---
 
@@ -41,109 +50,115 @@ The West Bengal Chief Minister's Women Welfare Scheme 2026 is a state government
 
 | Feature | Details |
 |---------|---------|
-| **Monthly Benefit** | Direct bank transfer (as per official notification) |
-| **Enhanced Benefit** | Higher amount for SC/ST women beneficiaries |
-| **Payment Mode** | DBT to Aadhaar-linked or voter ID-linked bank account |
+| **Monthly Benefit** | ₹3,000 via Direct Bank Transfer |
+| **Annual Benefit** | ₹36,000 per year |
+| **Launch Date** | 1 June 2026 |
+| **Payment Mode** | DBT to Aadhaar-linked bank account |
 | **Coverage** | All districts of West Bengal — urban and rural |
-| **Application Mode** | Online (e-District portal) + offline (Duare Sarkar camps) |
+| **Implementing Dept** | Women and Child Development & Social Welfare, WB |
 
 ---
 
 ## Eligibility Criteria
 
-Applicants must satisfy ALL of the following:
-
-1. **Domicile:** Must be a resident of West Bengal (minimum 5 years)
-2. **Age:** 25 to 60 years at the time of application
-3. **Gender:** Women (including widows, divorcees, single women)
-4. **Income:** Annual household income below the prescribed limit
-5. **Bank Account:** Must have an active bank account (Aadhaar-linked preferred)
+| Criterion | Details |
+|-----------|---------|
+| **Gender** | Women |
+| **Age** | 25 to 60 years |
+| **Residence** | Permanent resident of West Bengal |
+| **Status** | Not a government employee or pensioner |
+| **Tax status** | Household must not pay income tax |
+| **Vehicle** | Household must not own a motorised four-wheeler |
 
 ### Who is NOT Eligible?
-- Women receiving similar monthly state government DBT benefits (to avoid duplication)
-- Women who are permanent government employees or pensioners
-- Women from income-tax-paying households
-- Women owning motorised four-wheelers
+- Government employees and their immediate family members
+- Income-tax paying households
+- Women receiving equivalent monthly state government DBT already
+- Women under 25 or over 60 years of age
+- Non-residents or recent migrants (minimum WB residency required)
+
+---
+
+## Lakshmir Bhandar → Annapurna Bhandar: What Changes?
+
+| Parameter | Lakshmir Bhandar (TMC) | Annapurna Bhandar (BJP) |
+|-----------|----------------------|------------------------|
+| Amount (General) | ₹1,000/month | ₹3,000/month |
+| Amount (SC/ST) | ₹1,200/month | ₹3,000/month |
+| Launch | 2021 | June 1, 2026 |
+| Application | e-District / Duare Sarkar | e-District portal |
+
+**For existing Lakshmir Bhandar beneficiaries:** The BJP government is expected to migrate verified beneficiaries to Annapurna Bhandar. You may need to re-verify your details at the e-District portal. Official announcement at [wb.gov.in](https://wb.gov.in/).
 
 ---
 
 ## Required Documents
 
-- **Aadhaar Card** (mandatory)
+- **Aadhaar Card** (mandatory — Aadhaar-linked bank account required for DBT)
 - **Voter ID / EPIC Card**
-- **Bank Passbook** (account number and IFSC — Aadhaar-linked preferred)
+- **Bank Passbook** (showing account number and IFSC — must be Aadhaar-linked)
 - **Income Certificate** (from BDO / SDO office)
-- **Domicile Proof** (voter ID, ration card, or utility bill)
-- **Ration Card** (state ration card)
-- **Caste Certificate** (for SC/ST applicants)
-- **Passport-size photograph**
+- **Domicile Proof** (voter ID, ration card, or utility bill showing WB address)
+- **Ration Card** (West Bengal state ration card)
+- **Caste Certificate** (for SC/ST applicants — if applicable)
+- **Passport-size photograph** (recent colour photograph)
+- **Mobile number** linked to Aadhaar (for OTP verification and SMS payment alerts)
 
 ---
 
-## How to Apply Online
+## How to Apply
 
-### Step 1 — Visit WB e-District Portal
-Go to [edistrict.wb.gov.in](https://edistrict.wb.gov.in/)
+### Online — WB e-District Portal (from 1 June 2026)
 
-### Step 2 — Register / Log In
-New users: Register with mobile number + Aadhaar OTP. Existing users: Log in.
+1. Visit [edistrict.wb.gov.in](https://edistrict.wb.gov.in/)
+2. Register with your mobile number + Aadhaar OTP (new users)
+3. Search "Annapurna Bhandar" or browse "Women and Child Development" schemes
+4. Fill application form with name, DOB, address (as per Aadhaar), bank details, ration card number
+5. Upload scanned copies of all required documents (PDF/JPEG under 2MB each)
+6. Submit — note the SMS reference number
+7. Track status at e-District portal → "Track Application"
 
-### Step 3 — Find the Scheme
-Browse "Social Welfare Schemes" or search "CM Women Welfare Scheme 2026."
+### Offline — BDO Office or CSC
 
-### Step 4 — Fill Application
-Enter all details accurately:
-- Name, date of birth, address (as per Aadhaar)
-- Ration card number, voter ID number
-- Bank account number and IFSC
+1. Visit your Block Development Office (BDO), Sub-Division Office (SDO), or Common Service Centre (CSC)
+2. Carry originals + photocopies of all documents
+3. Operator will fill and submit the online application on your behalf
+4. Collect printed acknowledgement with reference number
 
-### Step 5 — Upload Documents
-Upload scanned copies of required documents in the specified file format.
-
-### Step 6 — Submit and Track
-Submit application. Note the reference number received via SMS. Track at e-District or through the Panchayat office.
-
----
-
-## How to Apply at Duare Sarkar Camp
-
-West Bengal's **Duare Sarkar** (Government at Doorstep) initiative makes it easy to apply without visiting government offices:
-
-1. **Find the camp:** Duare Sarkar camps are held at schools, panchayat offices, and community halls. Check schedule at your local Gram Panchayat or BDO office.
-2. **Carry documents:** Bring original Aadhaar, voter ID, bank passbook, income certificate, and ration card.
-3. **Camp officials help:** Government officials and assistants at the camp will fill your form online and submit on your behalf.
-4. **Get acknowledgement:** You'll receive a printed or SMS acknowledgement with reference number.
+**West Bengal Helpline: 1800-103-0136** (toll-free)
 
 ---
 
 ## How to Check Payment Status
 
-1. Visit [edistrict.wb.gov.in](https://edistrict.wb.gov.in/) → "Track Application Status"
-2. Enter reference number from your acknowledgement
-3. Current status (pending/approved/credited) will be shown
-4. Alternatively, check your bank account via passbook, ATM, or mobile banking for credited amounts
+1. Visit [edistrict.wb.gov.in](https://edistrict.wb.gov.in/) → "Track Application" → Enter reference number
+2. Once approved, check your Aadhaar-linked bank account on the 1st–10th of each month
+3. SMS alert will be sent to your registered mobile on successful credit
 
 ---
 
 ## Frequently Asked Questions
 
-### How is the WB CM Women Welfare Scheme 2026 different from Lakshmir Bhandar?
-The 2026 CM Women Welfare Scheme is the new government's flagship scheme. Whether it replaces or complements Lakshmir Bhandar depends on official notification — it may be a rebranded and enhanced version. Check [wb.gov.in](https://wb.gov.in/) for the official order.
+### When will the Annapurna Bhandar payment start?
+The scheme officially launches **1 June 2026**. First payments are expected to be credited in June 2026 for approved applicants.
 
-### What is the monthly amount under this scheme?
-The exact amount is as per the official notification. Lakshmir Bhandar (preceding scheme) provided ₹1,000–₹1,200/month. The 2026 scheme amount will be announced officially.
+### I was receiving Lakshmir Bhandar ₹1,000/month — do I need to reapply?
+Existing Lakshmir Bhandar beneficiaries are expected to be migrated automatically, but you may need to re-verify Aadhaar and bank details at the e-District portal. Watch for official instructions at [wb.gov.in](https://wb.gov.in/) or at your BDO office.
 
-### Can I apply if I'm already receiving Lakshmir Bhandar benefits?
-If the new scheme replaces Lakshmir Bhandar, existing beneficiaries may be automatically migrated. If they are separate schemes, you cannot receive both simultaneously. Await official clarification.
+### Is there a separate amount for SC/ST women under Annapurna Bhandar?
+No — unlike Lakshmir Bhandar (which paid ₹1,000 for General and ₹1,200 for SC/ST), **Annapurna Bhandar pays ₹3,000 to all eligible women** regardless of caste category.
 
-### Is Aadhaar mandatory for WB women scheme 2026?
-Aadhaar linkage to bank account is strongly recommended for faster processing. West Bengal also accepts voter ID-linked bank accounts for some schemes.
+### What is the annual benefit of ₹3,000/month?
+₹3,000 × 12 = **₹36,000 per year** credited directly to your bank account. This is 3× the earlier ₹12,000/year under Lakshmir Bhandar.
 
-### How long does it take to get approved?
-Applications submitted at Duare Sarkar camps or e-District portal are typically processed within 30–45 days. You'll receive an SMS notification on approval.
+### Can widows apply for Annapurna Bhandar?
+Yes. Widows, divorced women, separated women, and single women aged 25–60 who are WB residents and meet the income criteria are fully eligible.
 
-### What if I don't have a bank account?
-Open a Jan Dhan account at any nearby bank branch — it's free, requires minimal documents (Aadhaar + photo), and is Aadhaar-linked automatically. This can be done at CSC centres as well.
+### What if I am 62 years old — can I apply?
+Annapurna Bhandar covers women aged **25 to 60 years**. If you are above 60, you are not eligible for this scheme. However, you may be eligible for the **₹2,000/month old-age pension** also launched by the BJP government on 1 June 2026.
 
-### Where can I get offline help?
-Visit your **Gram Panchayat office**, **BDO office**, or the next **Duare Sarkar camp** in your area. The WB helpline is **1800-103-0136** (toll-free).
+### Is the scheme available for women in Kolkata city?
+Yes. The scheme covers all West Bengal districts including Kolkata Municipal Corporation area.
+
+### What if my bank account is not Aadhaar-linked?
+Visit your nearest bank branch with your Aadhaar card and passbook. Aadhaar seeding is free and takes 2–3 working days to reflect. You can also get it done at a CSC centre.

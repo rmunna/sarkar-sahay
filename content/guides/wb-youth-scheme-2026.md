@@ -1,115 +1,109 @@
 ---
-title: "West Bengal Youth Employment Scheme 2026 — Yuva Sathi & New Schemes Guide"
+title: "West Bengal Youth Scheme 2026 — Yuva Shakti ₹3,000/Month & Job Age Relaxation"
 description: >-
-  Complete guide to West Bengal youth employment and skill development schemes
-  in 2026. Covers Yuva Sathi, new CM youth scheme, self-employment grant,
-  apprenticeship support, eligibility, how to apply, and scholarship links.
+  Complete guide to West Bengal BJP government youth schemes 2026. Yuva Shakti
+  Bharosa Card ₹3,000/month for unemployed graduates, 5-year age relaxation for
+  govt jobs, fill all vacancies by December 2026 — eligibility and how to apply.
 category: Youth & Employment
 keywords:
   - west bengal youth scheme 2026
-  - wb youth employment scheme 2026
-  - west bengal cm youth scheme 2026
-  - yuva sathi west bengal 2026
-  - wb self employment scheme 2026
-  - west bengal skill development 2026
-  - wb youth stipend 2026
-  - west bengal youth welfare scheme
-  - wb student employment scheme 2026
-  - west bengal youth yojana 2026
+  - yuva shakti bharosa card west bengal
+  - wb youth unemployment allowance 3000 month
+  - west bengal bjp youth scheme 2026
+  - wb government job age relaxation 2026
+  - west bengal fill government vacancies 2026
+  - suvendu adhikari youth scheme
+  - wb youth employment scheme bjp
+  - west bengal unemployed youth allowance apply
+  - wb youth welfare scheme 2026
 readingTime: 9 min
 officialLinks:
   - 'https://wb.gov.in/'
   - 'https://employment.wb.gov.in/'
-  - 'https://msme.wb.gov.in/'
   - 'https://edistrict.wb.gov.in/'
+  - 'https://wbpsc.gov.in/'
 ---
 
-# West Bengal Youth Employment Scheme 2026 — Complete Guide
+# West Bengal Youth Scheme 2026 — Yuva Shakti Bharosa Card & Job Openings
 
-The new West Bengal government (2026) has announced a multi-pronged youth welfare agenda — combining employment-linked skill training, self-employment grants, apprenticeship support, and stipends for job-seeking youth. This guide covers all youth-focused schemes in West Bengal for 2026.
+The **BJP government led by CM Suvendu Adhikari** has announced a major youth package for West Bengal — addressing the employment drought of 2015–2026 when virtually no government recruitment took place under the TMC. The centrepiece is the **Yuva Shakti Bharosa Card** providing ₹3,000/month to unemployed registered youth, alongside a massive push to fill all pending government vacancies.
 
----
-
-## CM Yuva Sathi Scheme 2026 (New / Enhanced)
-
-The new West Bengal government's flagship programme for youth — providing employment support, skill stipends, and self-employment grants to youth aged 18–35.
-
-**Expected Key Features:**
-- Monthly stipend during registered skill training period
-- Self-employment grant (non-refundable) for approved business proposals
-- Priority sectors: manufacturing, IT/ITeS, healthcare, logistics, green energy, tourism
-- Online application through [employment.wb.gov.in](https://employment.wb.gov.in/)
-
-📖 **Related guide:** [Banglar Yuva Sathi Scheme](/guide/banglar-yuva-sathi-scheme-west-bengal)
+> CM Suvendu Adhikari was sworn in on **9 May 2026**. Age relaxation implemented **Day 1 (11 May 2026)**. Yuva Shakti portal launch expected within 100 days.
 
 ---
 
-## Taruner Swapno — Dream of Youth (Continuing)
+## 1. Yuva Shakti Bharosa Card — ₹3,000/Month
 
-West Bengal's laptop and tablet scheme for students — providing free devices to help students in secondary and higher secondary government schools pursue digital learning.
+The BJP's flagship youth unemployment allowance for West Bengal:
 
-**Key Details:**
-- Free laptops/tablets to Class 10 and Class 12 students in government/aided schools
-- Distributed through school principal on behalf of the state government
-- No separate application required — automatic distribution to enrolled students
+| Detail | Info |
+|--------|------|
+| **Monthly Amount** | **₹3,000 via DBT** |
+| **Eligibility Age** | 18 years and above |
+| **Residence** | West Bengal resident |
+| **Status** | Unemployed (no regular salaried job) |
+| **Registration** | Must register at District Employment Exchange |
+| **Portal** | Announced — portal launch pending (expected within 100 days) |
 
-📖 **Related guide:** [Taruner Swapno West Bengal](/guide/taruner-swapno-west-bengal)
-
----
-
-## Karmatirtha — Work Opportunity Scheme (Continuing)
-
-Karmatirtha provides structured employment support to educated unemployed youth through skill partnerships with industry and government departments.
-
-**Key Details:**
-- Placement-linked training programmes with stipend
-- Industry partnerships in Kolkata, Howrah, Durgapur, and other industrial zones
-- Priority to youth aged 18–30 with minimum Class 10 qualification
-- Register at the nearest Employment Exchange or online
-
-📖 **Related guide:** [Karmatirtha West Bengal](/guide/karmatirtha-west-bengal)
+**How it works:**
+- Register at your **District Employment Exchange** with educational certificates
+- Apply on the Yuva Shakti Bharosa Card portal when it goes live
+- ₹3,000/month credited to your Aadhaar-linked bank account
+- Allowance stops when you take up employment (must inform the authority)
 
 ---
 
-## Self-Employment Grant for Youth 2026
+## 2. 5-Year Age Relaxation for All Government Jobs (Implemented Day 1)
 
-The 2026 government's self-employment push includes non-refundable grants for youth setting up micro-enterprises in priority sectors.
+One of the most impactful Day 1 decisions — implemented on **11 May 2026**:
 
-**Expected Benefits:**
-- Grant of ₹50,000–₹2,00,000 based on project size and sector
-- Priority to first-generation entrepreneurs from SC/ST/OBC backgrounds
-- Free mentorship and business handholding for 12 months
-- Application through MSME Department, West Bengal
+- **Upper age limit raised by 5 years** for all West Bengal government recruitment examinations
+- Effectively raises the general upper limit from 36 to **41 years**
+- SC/ST age relaxation is stacked above this new limit
+- Affects WBPSC, WBSSC, WBHRB, and all state government recruitment boards
 
-**Portal:** [msme.wb.gov.in](https://msme.wb.gov.in/)
-
----
-
-## Apprenticeship in West Bengal 2026
-
-West Bengal has significantly expanded industrial apprenticeship programmes in partnership with large employers — Tata Steel (Jamshedpur feeder), Durgapur Steel, SAIL, and IT companies in Kolkata's Salt Lake Sector V.
-
-**National Apprenticeship Training Scheme (NATS) — WB:**
-- Monthly stipend of ₹5,000–₹9,000 during apprenticeship
-- Duration: 6 months to 1 year
-- Certificate from BOAT (Board of Apprenticeship Training)
-- Register at [mhrdnats.gov.in](https://mhrdnats.gov.in/)
-
-**Apprenticeship Act Programme:**
-- Designated trade apprenticeships at factories and establishments
-- ITI and non-ITI tracks available
-- Monthly stipend as per Apprenticeship Act minimums
-- Apply through the employer directly or WB Employment Exchange
+**Rationale:** No significant government recruitment happened in West Bengal from 2015 to 2026 under the TMC. Thousands of eligible candidates aged out waiting. The 5-year relaxation restores their opportunity.
 
 ---
 
-## Swami Vivekananda Merit-cum-Means Scholarship (Continuing)
+## 3. Fill All Government Vacancies by December 2026
 
-For students continuing higher education after Class 12 — monthly stipend to meritorious students from economically weaker families.
+The BJP government has committed to filling every vacant government post by December 2026:
 
-**Key Details:**
-- ₹1,000/month for Class 11–12 students
-- ₹1,500–₹5,000/month for Degree/PG/Professional course students
+| Department | Status |
+|-----------|--------|
+| School teachers (WBSSC) | Exam calendar being published |
+| Police constables | Recruitment drive announced |
+| Health workers | WBHRB exams to be scheduled |
+| Administrative posts | WBPSC to fast-track |
+
+**Estimated vacant posts:** Tens of thousands across education, health, police, and administration — built up over a decade of stalled recruitment.
+
+**How to track:** [wbpsc.gov.in](https://wbpsc.gov.in/), [wbssc.wb.gov.in](https://wbssc.wb.gov.in/), [wbhrb.wb.gov.in](https://wbhrb.wb.gov.in/)
+
+---
+
+## 4. 7th Pay Commission for Government Employees
+
+The West Bengal BJP government has announced implementation of **7th Pay Commission** scales for all state government employees:
+
+- Target: within 45 days of government formation (June 2026)
+- Clears pending Dearness Allowance (DA) arrears at central government rates
+- Covers all regular state government employees — teachers, police, health workers, administrative staff
+
+---
+
+## 5. Swami Vivekananda Merit-cum-Means Scholarship (Continuing)
+
+For students from economically weaker sections pursuing higher education:
+
+| Level | Monthly Stipend |
+|-------|----------------|
+| Class 11–12 | ₹1,000/month |
+| UG Degree (Arts/Science/Commerce) | ₹1,000–₹2,000/month |
+| UG Degree (Technical/Professional) | ₹1,500–₹2,500/month |
+| PG / Research | ₹2,500–₹5,000/month |
+
 - Family income below ₹2.5 lakh/year
 - Apply at [scholarships.wbsed.gov.in](https://scholarships.wbsed.gov.in/)
 
@@ -117,33 +111,81 @@ For students continuing higher education after Class 12 — monthly stipend to m
 
 ---
 
+## 6. Sabuj Sathi — Free Bicycle (Continuing)
+
+All Class 9–12 students in government and government-aided schools receive a **free bicycle** — no application required, distributed through school.
+
+📖 **Detailed guide:** [WB Sabuj Sathi Bicycle Scheme](/guide/wb-sabuj-sathi-bicycle-scheme)
+
+---
+
+## 7. National Apprenticeship Training Scheme (NATS) in West Bengal
+
+For diploma holders and graduates wanting hands-on industrial experience:
+
+- **Monthly stipend:** ₹5,000–₹9,000 during apprenticeship
+- Duration: 6 months to 1 year
+- Certificate from BOAT (Board of Apprenticeship Training)
+- Major WB employers: Tata Steel (Jamshedpur feeder), SAIL Durgapur, IT companies (Salt Lake Sector V), logistics firms
+- Register at [mhrdnats.gov.in](https://mhrdnats.gov.in/)
+
+---
+
 ## How to Register at West Bengal Employment Exchange
 
-An active Employment Exchange registration is required for many WB government employment-linked schemes:
+Employment Exchange registration is required for Yuva Shakti Bharosa Card and many other employment-linked schemes:
 
 1. Visit your nearest **District Employment Exchange** (one in every district HQ)
-2. Carry: Aadhaar, educational certificates, passport photo, and residence proof
-3. Register and get Employment Exchange Registration Number
+2. Carry: Aadhaar card, educational certificates (all mark sheets), passport photo, residence proof (voter ID / ration card)
+3. Register in person — receive Employment Exchange Registration Number
 4. Renew registration annually online at [employment.wb.gov.in](https://employment.wb.gov.in/)
+
+---
+
+## Eligibility Summary — WB Youth Schemes 2026
+
+| Scheme | Age | Qualification | Key Condition |
+|--------|-----|--------------|--------------|
+| Yuva Shakti Bharosa Card | 18+ | Any | Unemployed, Employment Exchange registered |
+| Govt Job Age Relaxation | Up to 41 (Gen) | As per post | All WB govt exam applicants |
+| Swami Vivekananda Scholarship | School/College | Class 11 to PG | Income < ₹2.5L/year |
+| NATS Apprenticeship | 16–25 | Class 8 / ITI / Diploma | — |
+| Sabuj Sathi Bicycle | Class 9–12 | In school | Govt/aided school student |
+
+---
+
+## Documents Needed
+
+For Yuva Shakti Bharosa Card:
+- Aadhaar card
+- Educational certificates (Class 10 onwards)
+- Employment Exchange registration card
+- Bank passbook (Aadhaar-linked)
+- Domicile / residence proof (voter ID, ration card)
+- Income certificate (from BDO / SDO)
+- Affidavit of unemployment (format to be provided)
 
 ---
 
 ## Frequently Asked Questions
 
-### What is the CM Yuva Sathi Scheme in West Bengal 2026?
-It is the new West Bengal government's flagship youth programme providing skill training stipends and self-employment grants to youth aged 18–35. The full details are notified at [wb.gov.in](https://wb.gov.in/) and [employment.wb.gov.in](https://employment.wb.gov.in/).
+### When will the Yuva Shakti Bharosa Card portal go live?
+As of May 2026, the portal has been announced but is not yet live. Expected within the first 100 days of the BJP government (by August 2026). Watch [wb.gov.in](https://wb.gov.in/) and [employment.wb.gov.in](https://employment.wb.gov.in/) for updates.
 
-### How much is the self-employment grant for WB youth in 2026?
-The 2026 scheme provides grants in the range of ₹50,000–₹2,00,000 for approved micro-enterprise proposals. Exact amounts and sector-wise eligibility are specified in the official notification from the MSME Department, West Bengal.
+### Who benefits from the 5-year age relaxation?
+Every person who has been waiting to appear for West Bengal government exams and was previously over the age limit. If you were 37 last year and couldn't apply for WBPSC / WBSSC, you can now apply under the new 41-year upper limit.
 
-### Do I need an Employment Exchange card to apply for WB youth schemes?
-An Employment Exchange registration strengthens your application and is sometimes mandatory for government employment schemes. Register at your nearest District Employment Exchange.
+### Is the ₹3,000/month Yuva Shakti stipend for all youth or only graduates?
+The announced scheme targets **unemployed youth aged 18+** with Employment Exchange registration. The exact eligibility (whether it requires a degree or includes Class 10/12 passouts) will be confirmed in the official notification. Check for updates at [wb.gov.in](https://wb.gov.in/).
 
-### What are the top employment sectors for youth in West Bengal?
-Manufacturing (steel, jute, leather), IT and IT services (Kolkata Sector V), healthcare (Kolkata hospitals), e-commerce logistics, tourism, and agro-processing are priority sectors for youth employment support under WB 2026 schemes.
+### What happens to the ₹3,000/month if I get a job?
+You must inform the relevant authority when you take up employment. The allowance stops from the month you become employed.
 
-### Can students still in college apply for WB youth employment schemes?
-Yes. Several schemes (apprenticeship, Karmatirtha training) are open to final-year students and recent graduates. The Swami Vivekananda scholarship supports ongoing students.
+### Can I receive Yuva Shakti allowance and also attend a skill training programme?
+Yes — enrolling in government-recognised skill development programmes while receiving the allowance should be permitted. Final conditions in the official notification.
 
-### Where do I apply for WB youth schemes?
-Apply online at [edistrict.wb.gov.in](https://edistrict.wb.gov.in/) or [employment.wb.gov.in](https://employment.wb.gov.in/). Offline: nearest BDO office, District Employment Exchange, or Duare Sarkar camp.
+### Where do I apply for government jobs in West Bengal?
+- [wbpsc.gov.in](https://wbpsc.gov.in/) — West Bengal Public Service Commission (Group A/B posts)
+- [wbssc.wb.gov.in](https://wbssc.wb.gov.in/) — WB School Service Commission (teaching posts)
+- [wbhrb.wb.gov.in](https://wbhrb.wb.gov.in/) — WB Health Recruitment Board
+- Employment notification portal: [employment.wb.gov.in](https://employment.wb.gov.in/)

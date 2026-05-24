@@ -1,303 +1,311 @@
 ---
-title: "Assam New Government Schemes 2026 — Complete List & How to Apply"
+title: "Assam BJP Government Schemes 2026 — Orunodoi ₹3,000, Jibon Prerana & Complete List"
 description: >-
-  Complete list of Assam new government schemes launched in 2026. Covers women
-  welfare, Orunodoi update, student scholarships, farmer support, health, land
-  records, and how to apply through Seva Setu and RTPS portals.
+  Complete guide to Assam BJP Himanta Biswa Sarma 2nd term government schemes
+  2026. Orunodoi ₹3,000/month promised, Jibon Prerana ₹2,500/month live,
+  farmer ₹11,000/year, UCC bill, 2 lakh jobs — eligibility and how to apply.
 category: State Schemes
 keywords:
   - assam new government schemes 2026
-  - assam government schemes 2026
-  - assam new schemes list 2026
-  - assam 2026 welfare schemes
-  - new government assam schemes
-  - assam women welfare scheme 2026
-  - assam orunodoi 2026
-  - assam farmer scheme 2026
-  - assam scholarship 2026
-  - assam cm yojana 2026
+  - himanta biswa sarma second term schemes 2026
+  - assam orunodoi 3000 scheme 2026
+  - assam jibon prerana 2500 month
+  - assam bjp government schemes 2026
+  - assam farmer scheme 11000 2026
+  - assam 2 lakh government jobs 2026
+  - assam ucc bill 2026
+  - assam government yojana list 2026
+  - assam sankalpa patra 2026 schemes
 readingTime: 14 min
 officialLinks:
   - 'https://assam.gov.in/'
   - 'https://sewasetu.assam.gov.in/'
-  - 'https://rtps.assam.gov.in/'
-  - 'https://missionbasundhara.assam.gov.in/'
+  - 'https://orunodoi.assam.gov.in/'
+  - 'https://jibon-prerana.assam.gov.in/'
 ---
 
-# Assam New Government Schemes 2026 — Complete Guide
+# Assam BJP Government Schemes 2026 — Himanta Biswa Sarma 2nd Term
 
-The newly formed Assam government (2026) has announced a comprehensive welfare agenda — introducing new schemes for women, farmers, students, and youth, while retaining several popular schemes from the outgoing government. This guide covers the complete updated scheme landscape for Assam 2026.
+**CM Himanta Biswa Sarma** (BJP) was sworn in for his **second consecutive term** as Assam Chief Minister on **12 May 2026** at Veterinary College Playground, Khanapara, Guwahati, with PM Modi as chief guest. The BJP won **82 seats outright** (first-ever BJP majority in Assam alone) plus 10 AGP and 10 BPF — a total NDA tally of 102 out of 126 seats.
 
-> **Note:** Scheme details are updated as official notifications are issued. Visit [assam.gov.in](https://assam.gov.in/) and [sewasetu.assam.gov.in](https://sewasetu.assam.gov.in/) for the latest announcements.
+The BJP adopted their entire **"Sankalpa Patra 2026" manifesto** ("Surakshita Asom, Viksita Asom" — Secure Assam, Developed Assam) as the government's formal governance framework on Day 1.
 
----
-
-## Key Government Portals — Assam 2026
-
-| Portal | Purpose | Link |
-|--------|---------|------|
-| **Assam State Portal** | Official government hub | assam.gov.in |
-| **Seva Setu** | Single-window citizen services | sewasetu.assam.gov.in |
-| **RTPS Portal** | Right to Public Services | rtps.assam.gov.in |
-| **Mission Basundhara** | Land records and mutation | missionbasundhara.assam.gov.in |
-| **Scholarship Portal** | All state scholarships | directorateofscholarships.assam.gov.in |
-| **Assam Direct Benefit** | DBT status and payment | dbt.assam.gov.in |
+> **CM Himanta Biswa Sarma** sworn in **12 May 2026**. First cabinet met **13 May 2026** — UCC Bill approved, 2 lakh jobs task force constituted. Most schemes continue from first term with enhancements.
 
 ---
 
-## Women Empowerment Schemes
+## What the Assam Government Did on Day 1 Cabinet (13 May 2026)
 
-### CM Women Welfare Scheme 2026 (New / Relaunched)
+Five major decisions at the first cabinet meeting:
 
-The new Assam government's flagship scheme for women — providing monthly income support to eligible women from low-income families via Direct Benefit Transfer.
-
-**Expected Key Details:**
-- Monthly DBT directly to women's Aadhaar-linked bank accounts
-- Target: Women aged 18–60 from households below income threshold
-- Enhanced amounts for SC/ST/OBC beneficiaries
-- Application through Seva Setu portal or CSC centres
-
-📖 **Detailed guide:** [Assam CM Women Welfare Scheme 2026](/guide/assam-cm-women-welfare-scheme-2026)
+1. **UCC (Uniform Civil Code) Bill Approved** — Cleared for introduction in Assembly on 26 May 2026. Covers minimum marriage age, prohibition of polygamy, equal property rights for daughters. **Exempts:** Scheduled Tribes.
+2. **Sankalpa Patra 2026 Formally Adopted** — All 31 manifesto promises adopted as the government's 5-year governance framework.
+3. **2 Lakh Government Jobs Task Force** — Chief Secretary-led task force constituted with 3-month deadline to submit examination calendar.
+4. **Austerity Measures** — Immediate cuts: no new vehicles for 6 months, no foreign official travel, 20% fuel reduction, electric vehicles for hired transport.
+5. **Bhupen Hazarika Museum** — ₹32 crore approved for museum at Srimanta Sankaradeva Kalakshetra, Guwahati.
 
 ---
 
-### Orunodoi Scheme 2026 (Continuing / Updated)
+## SECTOR 1 — Women's Welfare
 
-Orunodoi — Assam's flagship DBT programme — provides monthly financial support of ₹1,250 to economically weaker households, transferred to a woman member of the family. The new government has signalled continuation of this scheme.
+### 1. Orunodoi Scheme — ₹1,250/Month (Live) → ₹3,000 Promised
 
-**Current Benefits (as last notified):**
-- ₹1,250/month via DBT to a woman nominee (18+ years)
-- Family annual income below ₹2 lakh
-- Excludes government employees, four-wheeler owners, and income tax payers
-- Over 22 lakh families enrolled
+Assam's flagship women DBT programme continues — and is promised a major enhancement:
 
-📖 **Detailed guide:** [Assam Orunodoi Scheme](/guide/assam-orunodoi-scheme)
+| Detail | Current | Promised |
+|--------|---------|---------|
+| **Monthly Amount** | ₹1,250/month | **₹3,000/month** (phased) |
+| **Status** | Live — 40+ lakh beneficiaries | Enhancement not yet notified |
+| **Beneficiaries** | 2 women per household (expanded from 1 in previous term) | — |
+| **Portal** | orunodoi.assam.gov.in | — |
+
+> **Important:** As of May 2026, Orunodoi still pays ₹1,250/month. The ₹3,000 figure is a manifesto promise — enhancement order not yet issued. Watch [orunodoi.assam.gov.in](https://orunodoi.assam.gov.in/) for updates.
+
+📖 **Detailed guide:** [Assam Orunodoi Scheme 2026 — Status Update](/guide/assam-cm-women-welfare-scheme-2026)
 
 ---
 
-### Arundhati Gold Scheme (Continuing)
+### 2. Mukhya Mantri Mahila Udyamita Abhijan
 
-The state-funded scheme providing 10 grams of gold (or cash equivalent) to brides from economically weaker families at the time of registered marriage.
+Support for 40 lakh "Lakhpati Baideos" (women earning ₹1 lakh/year through own enterprise):
 
-**Key Details:**
-- 10 grams of gold or approximately ₹50,000–60,000 cash equivalent
-- Marriage must be registered under Special Marriage Act or Hindu Marriage Act
+| Benefit | Details |
+|---------|---------|
+| Assistance | ₹25,000 per woman + mentorship |
+| Target | 40 lakh women entrepreneurs |
+| Portal | assam.gov.in/womenenterprise |
+
+---
+
+### 3. Arundhati Gold Scheme (Continuing)
+
+10 grams of gold (or cash equivalent ~₹55,000–60,000) for brides from economically weaker families:
+
+- Marriage must be **registered** under the Special Marriage Act or Hindu Marriage Act
 - Bride's family income below ₹5 lakh/year
-- Bride must be 18+ years and groom 21+
+- Bride 18+, groom 21+
+- Apply through Deputy Commissioner's office
 
 📖 **Detailed guide:** [Assam Arundhati Gold Scheme](/guide/assam-arundhati-gold-scheme)
 
 ---
 
-## Student and Youth Schemes
+### 4. Aair Pakghor — Subsidised Community Canteens
 
-### Pragyan Bharati Scooty Scheme (Continuing)
-
-Free scooties for meritorious girl students securing 60%+ in Higher Secondary (Class 12) board exams. A popular scheme that has benefited thousands of girl students across the state.
-
-**Key Details:**
-- Free scooty for eligible girl students from government/govt-aided schools
-- Marks threshold: 60% or above in AHSEC (Class 12) exams
-- Family income below ₹2 lakh/year
-- Application through school/college principal or education department
-
-📖 **Detailed guide:** [Assam Pragyan Bharati Scooty Scheme](/guide/assam-pragyan-bharati-scooty-scheme)
+Women-run community canteens in every district headquarters providing subsidised nutritious meals — empowering women as entrepreneurs and serving urban poor.
 
 ---
 
-### Assam Youth Employment and Self-Reliance Scheme 2026 (New)
+## SECTOR 2 — Youth & Employment
 
-The new government's flagship initiative for youth employment — combining skill training, stipend support, and self-employment grants for youth aged 18–35.
+### 5. CM Jibon Prerana Scheme — ₹2,500/Month (Already Live!)
 
-**Expected Benefits:**
-- Skill training stipend during training period
-- Self-employment grant of ₹50,000–₹1,00,000 for approved ventures
-- Priority sectors: agriculture, fishery, handloom, IT, healthcare
-- Aadhaar-linked bank account required for fund disbursement
+This is **already operational** — launched in November 2025 by CM Himanta before elections, with DBT payments flowing from February 2026:
+
+| Detail | Info |
+|--------|------|
+| **Monthly Amount** | **₹2,500/month** |
+| **Duration** | 12 months |
+| **Eligibility** | Unemployed fresh graduates (2025 batch — Class 12 / degree passouts) |
+| **Mode** | DBT to Aadhaar-linked bank account |
+| **Status** | **Live** — DBT flowing since February 2026 |
+| **Portal** | jibon-prerana.assam.gov.in |
+
+This continues under the second term. If you are a 2025 batch fresh graduate and haven't applied, apply at [jibon-prerana.assam.gov.in](https://jibon-prerana.assam.gov.in/).
 
 📖 **Detailed guide:** [Assam Youth Employment Scheme 2026](/guide/assam-youth-employment-scheme-2026)
 
 ---
 
-### SVAYEM — Swami Vivekananda Assam Youth Empowerment (Continuing)
+### 6. CM Atmanirbhar Asom Abhijan 2.0 — Up to ₹5 Lakh for Startups
 
-One-time grant of ₹50,000 to unemployed youth (18–40 years) for starting self-employment ventures. The new government is expected to continue or enhance this programme.
+Expanded self-employment and startup support scheme:
 
-**Key Details:**
-- ₹50,000 one-time grant with no repayment requirement
-- Eligible ventures: piggery, fishery, dairy, handloom, small business, services
-- Application through District Commissioner's office
-
----
-
-### Chief Minister's Special Scholarship (Continuing)
-
-Scholarship for meritorious Assam students admitted to top national institutions (IITs, IIMs, NLUs, AIIMs, etc.). Covers tuition fees and monthly maintenance allowance.
-
-**Key Details:**
-- Full tuition fee reimbursement at premier national institutions
-- Monthly stipend of ₹5,000–₹10,000 during the course
-- Family income below ₹6 lakh/year
-- Apply through Directorate of Scholarships, Assam
+| Benefit | Details |
+|---------|---------|
+| Startup grant | **Up to ₹5 lakh** |
+| Target | 10 lakh youth beneficiaries over 5 years |
+| Sectors | Agriculture, fishery, handloom, food processing, IT, services |
+| Portal | assam.gov.in/cmsy |
 
 ---
 
-## Farmer Welfare Schemes
+### 7. 2 Lakh Government Jobs — 5-Year Target
 
-### CM Farmer Income Support Scheme 2026 (New)
+Task force constituted on Day 1 (13 May 2026) under Chief Secretary:
 
-The new Assam government's direct income support programme for farmers — providing per-acre annual assistance to small and marginal cultivating farmers.
-
-**Expected Key Details:**
-- Per-acre annual income support credited to farmer's bank account
-- Priority to small farmers (up to 2 hectares)
-- Integrated with PM-Kisan for identification of beneficiaries
-- Additional input subsidy for seed and fertiliser
-
-📖 **Detailed guide on this:** Update coming soon — check [assam.gov.in/agriculture](https://assam.gov.in) for details.
+- 3-month deadline to submit examination calendar
+- Priority departments: Education (teachers), Health (nurses, paramedics), Police (constables), Revenue (circle officers)
+- Assam Direct Recruitment Commission to fast-track examinations
 
 ---
 
-### CMSGUY — Chief Minister's Samagra Gramya Unnayan Yojana (Continuing)
+### 8. SVAYEM — Swami Vivekananda Youth Self-Employment (Continuing)
 
-Integrated rural livelihood programme covering agriculture, fishery, poultry, handloom, and dairy. Village-level implementation through Gaon Panchayats and development blocks.
-
-**Services:**
-- Free piglets, chicks, and fingerlings (fish seed) for rural households
-- Loom and weaving equipment for handloom weavers
-- Vegetable cultivation kits for kitchen gardens
-- Dairy cattle support under Animal Husbandry Department
+₹50,000 one-time non-refundable grant for youth-led micro-enterprises (18–40 years). Apply at District Commissioner's office.
 
 ---
 
-### Kisan Credit Card (KCC) in Assam (Continuing)
+### 9. Pragyan Bharati Scooty Scheme (Continuing)
 
-Short-term interest-subvented crop loans for farmers with Kisan Credit Card. The central scheme continues with state-level facilitation camps in every district.
+Free scooties for girl students scoring 60%+ in AHSEC Class 12 exams. Family income below ₹2 lakh/year. Distributed through school/education department.
 
-**Key Details:**
-- Loan up to ₹3 lakh at 4% effective interest rate (after interest subvention)
-- Available through cooperative banks and commercial banks in Assam
-- Renewed annually based on crop repayment
+📖 **Detailed guide:** [Assam Pragyan Bharati Scooty Scheme](/guide/assam-pragyan-bharati-scooty-scheme)
 
 ---
 
-## Healthcare Schemes
+## SECTOR 3 — Farmer Welfare
 
-### Atal Amrit Abhiyan (Continuing / Enhanced)
+### 10. Mukhya Mantri Krishi Sa Sajuli Yojana — ₹11,000/Year
 
-Comprehensive health insurance scheme covering 6 critical diseases — cancer, kidney failure, heart disease, liver failure, neurological conditions, and neonatal diseases.
+Direct income support for small and marginal farmers:
 
-**Key Details:**
-- Coverage up to ₹2 lakh per family per year for covered conditions
-- Families with annual income below ₹5 lakh eligible
-- Cashless treatment at empanelled government and private hospitals
-- Card issued through district health office or Seva Setu
-
----
-
-### Assam Arogya Nidhi (Continuing)
-
-Emergency financial assistance of up to ₹3 lakh for BPL families needing treatment for critical illnesses not covered under standard health schemes.
-
-**Application:** Through Chief Minister's Office or Health Department with doctor's certificate and BPL card.
+| Benefit | Details |
+|---------|---------|
+| **Annual amount** | **₹11,000 per farmer family** |
+| Eligibility | PM-KISAN beneficiaries (small and marginal farmers) |
+| Mode | DBT — Aadhaar-linked bank account |
 
 ---
 
-## Land and Revenue Services
+### 11. Tractor Subsidy — ₹3 Lakh
 
-### Mission Basundhara 3.0 (New Phase)
+₹3 lakh subsidy per tractor for 10,000 farmers — for mechanised farming.
 
-The third phase of Assam's landmark land reform initiative expands services and covers more categories of land-related applications.
+---
 
-**New Services in 2026 Phase:**
-- Online settlement of periodic patta land
+### 12. Power Tiller Subsidy — ₹1 Lakh
+
+₹1 lakh subsidy per power tiller for 50,000 small farmers.
+
+---
+
+### 13. CM Samagra Gramya Unnayan Yojana — 2 Milk Cows Free
+
+2 milk cows free for **25 lakh poor rural families** — providing a sustainable dairy income source at home.
+
+---
+
+### 14. Tea Garden Workers — ₹75,000 House Repair + Land Pattas
+
+- ₹75,000 per household for home repairs for tea garden workers
+- Land pattas (ownership documents) for tea garden families — long-pending justice for Assam's ~10 lakh tea garden population
+- Phased wage target: ₹500/day (up from current levels)
+
+---
+
+## SECTOR 4 — Infrastructure & Flood Management
+
+### 15. Badh Mukt Assam (Flood-Free Assam) — ₹18,000 Crore
+
+Assam's most ambitious infrastructure commitment:
+
+| Detail | Info |
+|--------|------|
+| **Budget** | **₹18,000 crore** over the first 2 years |
+| Scope | Embankment strengthening, flood-resilient infrastructure, anti-erosion measures |
+| Target | Significantly reduce annual flood damage in Brahmaputra and Barak Valley districts |
+
+---
+
+## SECTOR 5 — Education & Health
+
+### 16. Education Expansion (5-Year Targets)
+- One **medical college** per district
+- One **engineering college** per district
+- One **university** per district
+- Free education from KG to PG for students below income threshold
+- ₹8,000 crore to upgrade 1,000 secondary schools
+
+### 17. Teacher & Health Worker Appointments
+- 70,000+ teacher appointments over 5 years
+- Nursing, paramedic, and healthcare worker appointments district-by-district
+
+---
+
+## SECTOR 6 — Governance & Identity
+
+### 18. UCC (Uniform Civil Code) — Assembly Introduction 26 May 2026
+
+UCC bill cleared by cabinet on 13 May 2026; introduced in Assembly on **26 May 2026**:
+
+- Minimum marriage age enforced for all communities
+- Prohibition of polygamy
+- Equal property rights for daughters
+- Live-in relationship registration
+- **Exempts:** Scheduled Tribes (plains and hills)
+
+---
+
+### 19. Mission Basundhara 3.0 (New Phase)
+
+Third phase of Assam's landmark land reform initiative:
+
+- Settlement of periodic patta land
 - Conversion of annual patta to permanent patta
-- Correction of land records for tea garden workers
+- Land record correction for tea garden workers
 - Enhanced digitisation of older Jamabandi records
 
 **Portal:** [missionbasundhara.assam.gov.in](https://missionbasundhara.assam.gov.in/)
 
-📖 **Detailed guide:** [Assam Dharitree Land Records](/guide/assam-dharitree-land-record)
+---
+
+## Summary — All Key Assam BJP 2026 Schemes
+
+| Scheme | Benefit | Target Group | Status |
+|--------|---------|-------------|--------|
+| Orunodoi | ₹1,250/month current → ₹3,000 promised | Women 18–60 | Live (enhancement pending) |
+| Jibon Prerana | ₹2,500/month (12 months) | Fresh graduates 2025 batch | **Live** |
+| CM Atmanirbhar 2.0 | Up to ₹5 lakh | Youth entrepreneurs | Announced |
+| 2 lakh govt jobs | 5-year target | All job seekers | Task force constituted |
+| SVAYEM | ₹50,000 (one-time) | Youth 18–40 | Continuing |
+| Krishi Sa Sajuli | ₹11,000/year | Small/marginal farmers | Announced |
+| Tractor subsidy | ₹3 lakh | 10,000 farmers | Announced |
+| Power tiller | ₹1 lakh | 50,000 farmers | Announced |
+| 2 cows scheme | 2 milk cows | 25 lakh poor families | Announced |
+| Tea worker support | ₹75,000 + land patta | Tea garden workers | Announced |
+| Badh Mukt Assam | ₹18,000 crore (2 years) | All flood-affected districts | Announced |
+| UCC Bill | Legal rights | All non-tribal citizens | Approved by cabinet |
+| Arundhati Gold | 10g gold | Brides from poor families | Continuing |
 
 ---
 
-## Citizen Services
+## How to Apply for Assam Government Schemes 2026
 
-### Seva Setu (Continuing)
-
-Assam's single-window platform for 50+ government services — including caste, income, and residence certificates, NOCs, land records, and scholarship applications.
-
-**Portal:** [sewasetu.assam.gov.in](https://sewasetu.assam.gov.in/)
-
-### RTPS — Right to Public Services (Continuing)
-
-Legally guaranteed time-bound delivery of notified services. Citizens can escalate to appeal authorities if services are not delivered within stipulated time.
-
-**Portal:** [rtps.assam.gov.in](https://rtps.assam.gov.in/)
-
----
-
-## How to Apply for Assam Government Schemes in 2026
-
-### Step 1 — Visit Seva Setu Portal
-Go to [sewasetu.assam.gov.in](https://sewasetu.assam.gov.in/) — the single-window platform for Assam government services.
-
-### Step 2 — Register with Aadhaar
-Create account using mobile number and Aadhaar OTP. Ensure your Aadhaar is linked to your bank account for DBT scheme benefits.
-
-### Step 3 — Find Your Scheme
-Browse the scheme directory or search by name. Verify eligibility before starting your application.
-
-### Step 4 — Apply and Upload Documents
-Fill application form with personal, income, and bank details. Upload required documents in PDF/JPEG format.
-
-### Step 5 — Submit and Track
-Submit and note your reference number. Track status at the respective portal or at [rtps.assam.gov.in](https://rtps.assam.gov.in/).
-
-### Documents Commonly Required
-- Aadhaar card (mandatory for all DBT schemes)
-- BPL certificate (for BPL-targeted schemes)
+### Step 1 — Keep Documents Ready
+- Aadhaar card (Aadhaar-linked bank account mandatory for all DBT)
 - Income certificate (from Circle Officer)
-- Bank passbook (Aadhaar-linked account)
-- Domicile/Nativity certificate
-- Caste/tribe certificate (for SC/ST/OBC schemes)
-- Passport-size photographs
+- Domicile certificate
+- Ration card (National Food Security Act)
+- Bank passbook (Aadhaar-linked)
+- Caste/tribe certificate (if applicable)
 
----
+### Step 2 — Apply via Seva Setu
+[sewasetu.assam.gov.in](https://sewasetu.assam.gov.in/) — single-window platform for all Assam government services
 
-## Important Helplines — Assam 2026
+### Step 3 — Or Apply at CSC / Circle Office
+Common Service Centres (CSCs) and Circle Offices in every revenue circle can assist with offline applications.
 
-| Service | Helpline |
-|---------|---------|
-| Assam State Helpline | 181 |
-| Orunodoi Helpline | 1800-345-3611 |
-| Women Helpline | 181 / 1091 |
-| Child Helpline | 1098 |
-| Health Emergency | 108 |
-| Police Emergency | 100 / 112 |
-| Seva Setu Helpline | 1800-345-3611 |
+### Step 4 — Track via RTPS
+[rtps.assam.gov.in](https://rtps.assam.gov.in/) — track the time-bound status of your application
+
+**Assam Helpline: 181** (toll-free)
 
 ---
 
 ## Frequently Asked Questions
 
-### What are the flagship schemes of the new Assam government 2026?
-The new Assam government (2026) is expected to continue Orunodoi (women DBT), Arundhati Gold, Pragyan Bharati Scooty, and SVAYEM youth scheme, while launching new schemes for women income support and farmer assistance. Full announcements are available at [assam.gov.in](https://assam.gov.in/).
+### When was Himanta Biswa Sarma sworn in for his second term?
+CM Himanta Biswa Sarma was sworn in for his second consecutive term on **12 May 2026** at Khanapara, Guwahati. BJP won 82 seats alone — first outright BJP majority in Assam's history.
 
-### Will Orunodoi scheme continue under the new Assam government?
-Orunodoi has over 22 lakh beneficiary families and is deeply embedded in Assam's welfare infrastructure. The new government is expected to continue it — with possible modifications to eligibility criteria or benefit amounts. Official notification will be published at [orunodoi.assam.gov.in](https://orunodoi.assam.gov.in/).
+### Is Orunodoi getting ₹3,000/month under the new term?
+₹3,000/month is the **manifesto promise** — the current Orunodoi payment is still **₹1,250/month**. The enhancement has not yet been officially notified. The government has said it will be "phased in." Watch [orunodoi.assam.gov.in](https://orunodoi.assam.gov.in/) for the official enhancement date.
 
-### How do I apply for Mission Basundhara 3.0?
-Visit [missionbasundhara.assam.gov.in](https://missionbasundhara.assam.gov.in/), register with Aadhaar, select the service you need (mutation, conversion, patta settlement), fill the form, upload land documents, and submit. A token number is generated for tracking.
+### Is CM Jibon Prerana scheme still active in 2026?
+Yes — CM Jibon Prerana (₹2,500/month for 12 months for fresh 2025 batch graduates) was **launched before elections in November 2025** and DBT payments started in February 2026. It continues under the second term. Apply at [jibon-prerana.assam.gov.in](https://jibon-prerana.assam.gov.in/) if you are a 2025 batch passout and haven't yet enrolled.
 
-### How can I check my Orunodoi payment status?
-Visit [orunodoi.assam.gov.in](https://orunodoi.assam.gov.in/), click "Beneficiary Status," and enter your Aadhaar number or mobile number registered during enrolment. Payment history will be displayed.
+### What is Badh Mukt Assam?
+"Flood-Free Assam" is the BJP government's ₹18,000 crore commitment over the first 2 years for embankment strengthening, anti-erosion work, and flood-resilient infrastructure. Assam suffers massive annual flood damage in the Brahmaputra and Barak valleys — this is the most ambitious flood management effort in the state's history.
 
-### What is SVAYEM and how much grant does it give?
-SVAYEM (Swami Vivekananda Assam Youth Empowerment Mission) gives a one-time non-refundable grant of ₹50,000 to unemployed youth aged 18–40 for starting a self-employment venture. Apply through the District Commissioner's office.
-
-### How do I apply for the Arundhati Gold Scheme?
-Register your marriage under the Special Marriage Act, then apply at the Deputy Commissioner's office with marriage registration certificate, Aadhaar of bride, family income certificate, and bank details. The bride's family income must be below ₹5 lakh/year.
-
-### Where can I apply offline for Assam government schemes?
-Visit your nearest **Circle Office**, **Block Development Office (BDO)**, **District Commissioner's office**, or **Common Service Centre (CSC)** for assisted application. The state helpline 181 can guide you to the nearest service point.
+### Will the UCC apply to Scheduled Tribes in Assam?
+No. The UCC bill explicitly **exempts** Scheduled Tribes (both hill and plains tribes) from its provisions, preserving customary tribal laws and practices.

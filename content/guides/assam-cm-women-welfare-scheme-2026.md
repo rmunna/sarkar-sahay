@@ -1,39 +1,55 @@
 ---
-title: "Assam CM Women Welfare Scheme 2026 — Eligibility, Amount & How to Apply"
+title: "Assam Orunodoi Scheme 2026 — ₹1,250/Month Live, ₹3,000 Promised — Status & Apply"
 description: >-
-  Complete guide to Assam Chief Minister's Women Welfare Scheme 2026. Monthly
-  DBT for eligible women, Orunodoi update, eligibility criteria, required
-  documents, how to apply via Seva Setu portal, and payment status check.
+  Complete guide to Assam Orunodoi scheme 2026 under CM Himanta Biswa Sarma 2nd
+  term. Current payment ₹1,250/month (live for 40 lakh women), ₹3,000 promised
+  (phased, not yet notified) — eligibility, how to apply, payment status check.
 category: Women Welfare
 keywords:
-  - assam cm women welfare scheme 2026
-  - assam women scheme 2026
+  - assam orunodoi scheme 2026
+  - orunodoi 1250 month assam 2026
+  - assam orunodoi 3000 when will increase
   - assam women dbt scheme 2026
-  - assam new women scheme 2026
-  - orunodoi 2026 update
-  - assam women monthly income scheme 2026
-  - assam magalir scheme 2026
-  - assam women benefit scheme eligibility
-  - how to apply assam women scheme
-  - seva setu women scheme assam
-readingTime: 8 min
+  - orunodoi scheme eligibility apply
+  - assam cm women scheme himanta 2026
+  - orunodoi payment status check
+  - assam women monthly allowance 2026
+  - how to apply orunodoi scheme 2026
+  - orunodoi beneficiary list assam
+readingTime: 9 min
 officialLinks:
+  - 'https://orunodoi.assam.gov.in/'
   - 'https://assam.gov.in/'
   - 'https://sewasetu.assam.gov.in/'
-  - 'https://orunodoi.assam.gov.in/'
 ---
 
-# Assam CM Women Welfare Scheme 2026 — Eligibility & How to Apply
+# Assam Orunodoi Scheme 2026 — ₹1,250/Month Live, ₹3,000 Promised
 
-The new Assam government (2026) has launched a flagship women income support scheme — providing monthly Direct Benefit Transfer to eligible women from low-income households across the state. This guide explains who qualifies, how to apply, what documents you need, and how to check payment status.
+**Orunodoi** ("Dawn / Rise") is Assam's flagship women income support scheme providing monthly Direct Benefit Transfer directly to eligible women. With over **40 lakh beneficiary families**, it is one of the largest state-run women DBT programmes in India.
 
-> **Note:** This guide is updated as the official scheme notification is published. Visit [assam.gov.in](https://assam.gov.in/) and [sewasetu.assam.gov.in](https://sewasetu.assam.gov.in/) for the latest details.
+Under **CM Himanta Biswa Sarma's second term** (2026–), Orunodoi continues — with the BJP manifesto promising an increase to ₹3,000/month (from the current ₹1,250/month). The enhancement is **not yet formally notified** as of May 2026.
+
+| Status | Details |
+|--------|---------|
+| **Current Payment** | **₹1,250/month** (live, regular DBT) |
+| **Manifesto Promise** | ₹3,000/month (phased increase) |
+| **Promise Status** | Announced — official enhancement G.O. not yet issued |
+| **When to expect** | Check [orunodoi.assam.gov.in](https://orunodoi.assam.gov.in/) for update |
 
 ---
 
-## What is the Assam CM Women Welfare Scheme 2026?
+## What is the Orunodoi Scheme?
 
-The Assam Chief Minister's Women Welfare Scheme 2026 is the new state government's flagship DBT programme for women — providing monthly financial assistance directly to eligible women's bank accounts. The scheme is implemented by the **Social Welfare Department, Government of Assam**, using the Seva Setu platform.
+Orunodoi is a monthly stipend of **₹1,250** transferred directly to the bank account of a nominated **woman member** of each eligible low-income household in Assam. The scheme is implemented by the **Social Welfare Department, Government of Assam**, via the Aadhaar-linked DBT system.
+
+**Key Evolution:**
+| Term | CM | Amount |
+|------|----|--------|
+| First launch (2020) | Himanta Biswa Sarma (1st term) | ₹830/month |
+| Enhanced (2022) | Himanta Biswa Sarma (1st term) | ₹1,250/month |
+| Manifesto promise (2026) | Himanta Biswa Sarma (2nd term) | ₹3,000/month (phased — not yet notified) |
+
+A new provision from 2025 allows **2 women per household** to receive Orunodoi (earlier only 1), effectively doubling the household benefit.
 
 ---
 
@@ -41,122 +57,107 @@ The Assam Chief Minister's Women Welfare Scheme 2026 is the new state government
 
 | Feature | Details |
 |---------|---------|
-| **Monthly Benefit** | Direct bank transfer (amount as per official notification) |
-| **Enhanced Benefit** | Higher amount for SC/ST/OBC women |
+| **Current Monthly Benefit** | ₹1,250 per woman beneficiary |
 | **Payment Mode** | DBT to Aadhaar-linked bank account |
-| **Coverage** | All 35 districts — urban and rural |
-| **Application** | Online (Seva Setu) + offline (CSC / Block offices) |
-
----
-
-## Orunodoi Scheme 2026 — Status Update
-
-The existing **Orunodoi scheme** (₹1,250/month, over 22 lakh beneficiaries) is expected to continue or be merged into the new CM Women Welfare Scheme with possible revision of the benefit amount and eligibility criteria.
-
-**If you are an existing Orunodoi beneficiary:**
-- Continue to receive benefits until official transition notification
-- Do NOT re-apply separately unless instructed by the official notification
-- Check [orunodoi.assam.gov.in](https://orunodoi.assam.gov.in/) for the latest update
+| **Beneficiaries** | 40+ lakh registered women in Assam |
+| **Payment Date** | By the 10th of every month (typically) |
+| **SMS Alert** | On every successful transfer |
+| **2-women provision** | 2 women per household can now each receive ₹1,250 |
 
 ---
 
 ## Eligibility Criteria
 
-Applicants must satisfy ALL of the following:
-
-1. **Domicile:** Must be a permanent resident of Assam (minimum 3 years)
-2. **Age:** 18 years to 60 years at the time of application
-3. **Gender:** Women (widows, divorcees, single women eligible)
-4. **Income:** Annual family income below ₹2 lakh (as per income certificate)
-5. **Bank Account:** Must have an Aadhaar-linked active bank account
+| Criterion | Details |
+|-----------|---------|
+| **Residence** | Permanent resident of Assam |
+| **Age** | 18 years to 60 years |
+| **Gender** | Women (including widows, divorcees, single women) |
+| **Income** | Family annual income below ₹2 lakh |
+| **Bank account** | Must have Aadhaar-linked bank account |
 
 ### Who is NOT Eligible?
-- Women from families with government employees or income-tax payers
+- Women from families with government employees (central or state)
+- Women from families that pay income tax
 - Women from families owning motorised four-wheelers
-- Women already receiving equivalent state DBT monthly benefits (no double-dipping)
-- Women from families with agricultural land above the prescribed limit
+- Women from families with agricultural land above the prescribed holding limit
+- Women already receiving equivalent monthly state DBT from another scheme
 
 ---
 
 ## Required Documents
 
-- **Aadhaar Card** (mandatory for all DBT payments)
-- **Bank Passbook** (showing Aadhaar-linked account number and IFSC)
-- **Income Certificate** (from Circle Officer / BDO)
-- **Domicile Certificate** (from Circle Officer)
-- **Ration Card** (National Food Security Act ration card preferred)
-- **Caste/Tribe Certificate** (for SC/ST/OBC applicants)
+- **Aadhaar Card** (mandatory — Aadhaar must be linked to bank account)
+- **Bank Passbook** (account number + IFSC — must be Aadhaar-seeded)
+- **Income Certificate** (from Circle Officer)
+- **Domicile Certificate** (from Circle Officer — proof of Assam permanent residence)
+- **Ration Card** (NFSA ration card preferred)
+- **Caste / Tribe Certificate** (for SC/ST/OBC applicants)
 - **Passport-size photograph** (recent colour photo)
-- **Mobile number** linked to Aadhaar (for OTP and SMS alerts)
+- **Active mobile number** linked to Aadhaar (for OTP + payment SMS)
 
 ---
 
-## How to Apply Online via Seva Setu
+## How to Apply — New Applicants
 
-### Step 1 — Visit Seva Setu Portal
-Go to [sewasetu.assam.gov.in](https://sewasetu.assam.gov.in/)
+### Online via Seva Setu
 
-### Step 2 — Register / Log In
-Click "Register" → Enter mobile number + Aadhaar → Verify with OTP.
+1. Visit [sewasetu.assam.gov.in](https://sewasetu.assam.gov.in/)
+2. Register with mobile number + Aadhaar OTP
+3. Search "Orunodoi" in the scheme directory
+4. Fill application: name, DOB, address (as per Aadhaar), family income, bank details
+5. Upload all required documents (PDF/JPEG under 2MB each)
+6. Submit — note reference number from SMS
 
-### Step 3 — Search for the Scheme
-Use the search function or browse "Women Welfare" to find the CM Women Welfare Scheme 2026.
+### Offline via CSC / Circle Office
 
-### Step 4 — Fill Application Form
-Enter all details accurately:
-- Full name, date of birth, address (as per Aadhaar)
-- Family income, number of family members
-- Bank account number and IFSC code
+1. Visit nearest **Common Service Centre (CSC)** or **Circle Office**
+2. Carry originals + self-attested photocopies of all documents
+3. Operator fills and submits on your behalf
+4. Collect acknowledgement slip with reference number
 
-### Step 5 — Upload Documents
-Upload scanned/photographed copies of all required documents (PDF or JPEG, under 2MB each).
-
-### Step 6 — Submit and Track
-Submit the application. Note the reference number sent to your mobile. Track status on Seva Setu or through the RTPS portal at [rtps.assam.gov.in](https://rtps.assam.gov.in/).
+**Assam Helpline: 181** | **Orunodoi Helpline: 1800-345-3611** (toll-free)
 
 ---
 
-## How to Apply Offline
+## How to Check Orunodoi Payment Status
 
-1. Visit your nearest **Common Service Centre (CSC)** or **Naga Kacha (Block office)**
-2. Carry originals + self-attested photocopies of all required documents
-3. An operator will fill and submit the online application on your behalf
-4. Get the printed acknowledgement slip with reference number
+**Option 1 — Orunodoi Portal:**
+1. Visit [orunodoi.assam.gov.in](https://orunodoi.assam.gov.in/)
+2. Click "Beneficiary Status"
+3. Enter your Aadhaar number or registered mobile number
+4. View payment history and current status
 
-**Alternatively:** Visit your **Circle Office** or **Sub-Divisional Officer's (SDO) office** for assisted application.
+**Option 2 — Bank Account:**
+Check your Aadhaar-linked bank account via passbook, ATM, or mobile banking on the 10th of each month.
 
----
-
-## How to Check Payment Status
-
-1. Visit [sewasetu.assam.gov.in](https://sewasetu.assam.gov.in/) → "Track Application"
-2. Enter reference number or Aadhaar number
-3. Status (pending / approved / payment credited) will be displayed
-
-**OR:** Visit [orunodoi.assam.gov.in](https://orunodoi.assam.gov.in/) (for Orunodoi continuation)
-→ "Beneficiary Status" → Enter Aadhaar number or registered mobile number.
+**Option 3 — RTPS Portal:**
+[rtps.assam.gov.in](https://rtps.assam.gov.in/) → Enter application reference number to track status.
 
 ---
 
 ## Frequently Asked Questions
 
-### How much is the monthly benefit under the Assam CM Women Welfare Scheme 2026?
-The exact amount is specified in the official government notification. The Orunodoi scheme (predecessor) provided ₹1,250/month. The 2026 scheme amount will be published at [assam.gov.in](https://assam.gov.in/).
+### Is Orunodoi paying ₹3,000/month yet?
+**No** — as of May 2026, Orunodoi still pays **₹1,250/month**. The BJP manifesto promised to increase it to ₹3,000/month in a phased manner, but the official Government Order for this enhancement has not been issued yet. Watch [orunodoi.assam.gov.in](https://orunodoi.assam.gov.in/) for the notification.
 
-### Is the Orunodoi scheme replaced or continued?
-The new government has signalled continuation of women income support. Whether Orunodoi continues under the same name or is replaced by a new scheme with enhanced benefits will be specified in the official notification.
+### I am already getting Orunodoi ₹1,250/month — will I automatically get ₹3,000 when the increase happens?
+Yes — existing verified Orunodoi beneficiaries should automatically receive the enhanced amount when the increase is officially notified and implemented. You do not need to reapply.
 
-### What if I am already an Orunodoi beneficiary?
-If you are currently receiving Orunodoi payments, continue as usual until an official transition or change notification. Do not cancel your existing enrolment.
+### Can 2 women from the same household get Orunodoi?
+Yes — since 2025, **2 eligible women from the same household** can each receive ₹1,250/month (total ₹2,500/month per household). This policy continues under the second term.
 
-### What happens if my bank account is not Aadhaar-linked?
-Visit your bank branch with your Aadhaar card and passbook to complete Aadhaar seeding. This typically takes 2–3 working days to reflect. Without Aadhaar seeding, your DBT payment may not be credited.
+### What is the age limit for Orunodoi?
+Women aged **18 to 60 years**. Above 60 years is not covered under Orunodoi (senior citizens may be eligible for separate pension schemes).
 
-### Can widows apply for this scheme?
-Yes. Widows, divorcees, separated women, and single women who are 18–60 years old and meet the income criteria are fully eligible and encouraged to apply.
+### Can a woman who works in the private sector apply?
+Yes — private sector employees are generally eligible as long as the family does not have a **government employee** and does not pay income tax. Check your specific income and asset situation against the eligibility criteria.
 
-### How long does application processing take?
-Applications are typically processed within 30–60 days. Check your SMS and e-mail for updates. You can also check status at [rtps.assam.gov.in](https://rtps.assam.gov.in/) or call the helpline at 1800-345-3611.
+### How do I add my Aadhaar to my bank account?
+Visit your bank branch with your Aadhaar card and account passbook. Request "Aadhaar seeding." This is free and takes 2–3 working days. You can also do it at a CSC or at an Aadhaar-enabled bank kiosk.
 
-### Where can I get help applying?
-Visit the nearest **Common Service Centre (CSC)**, **Block Development Office (BDO)**, or **Circle Office** for free assisted application. Assam helpline: **181** (toll-free).
+### What if I missed the Orunodoi application window?
+New applications are accepted on a rolling basis through Seva Setu and CSC centres. There is no fixed closed window — apply at any time and your application will be processed in the next cycle.
+
+### Where can I apply for Orunodoi offline?
+Visit your nearest **Circle Office**, **Block Development Office (BDO)**, **Common Service Centre (CSC)**, or **District Commissioner's office**. Assam helpline: **181**.
