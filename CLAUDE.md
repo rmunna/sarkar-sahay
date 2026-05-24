@@ -509,35 +509,42 @@ Advocate:      /ecourtindiaHC/cases/qs_civil_advocate.php?state_cd=X&dist_cd=1&c
 - Users are routed to the correct *tab/page type* but must re-enter their case details in the form
 - The CourtCaseSearch component shows an amber note for HCs explaining this
 
-### State Codes Reference (hcservices)
+### State Codes Reference (hcservices) — VERIFIED from portal main page
 
-| State | state_cd |
-|-------|---------|
-| Andhra Pradesh | 2 |
-| Assam | 4 |
-| Bihar | 5 |
-| Chhattisgarh | 7 |
-| Gujarat | 11 |
-| Himachal Pradesh | 13 |
-| Jammu & Kashmir | 14 |
-| Jharkhand | 15 |
-| Karnataka | 16 |
-| Kerala | 17 |
-| Madhya Pradesh | 19 |
-| Maharashtra | 20 |
-| Manipur | 21 |
-| Meghalaya | 22 |
-| Odisha | 26 |
-| Punjab (P&H HC) | 28 |
-| Rajasthan | 29 |
-| Sikkim | 30 |
-| Tamil Nadu | 31 |
-| Telangana | 32 |
-| Tripura | 33 |
-| Uttarakhand | 35 |
-| West Bengal | 36 |
+⚠️ These are COMPLETELY DIFFERENT from services.ecourts.gov.in (district court) state codes.
+Do not assume they are the same — they are not.
 
-Note: Allahabad HC (UP) and Delhi HC use their own court websites, not hcservices.
+| High Court | hcservices state_cd | Verified |
+|-----------|-------------------|---------|
+| Bombay HC (Maharashtra) | 1 | ✓ |
+| Andhra Pradesh HC | 2 | ✓ |
+| Karnataka HC | 3 | ✓ |
+| Kerala HC | 4 | ✓ |
+| Himachal Pradesh HC | 5 | ✓ |
+| Gauhati HC (Assam) | 6 | ✓ |
+| Jharkhand HC | 7 | ✓ |
+| Patna HC (Bihar) | 8 | ✓ |
+| Rajasthan HC | 9 | ✓ |
+| Madras HC (Tamil Nadu) | 10 | ✓ |
+| Orissa HC (Odisha) | 11 | ✓ |
+| J&K and Ladakh HC | 12 | ✓ |
+| Allahabad HC (UP) | 13 | uses own portal (allahabadhighcourt.in) |
+| Uttarakhand HC | 15 | ✓ |
+| Calcutta HC (West Bengal) | 16 | ✓ |
+| Gujarat HC | 17 | ✓ |
+| Chhattisgarh HC | 18 | ✓ |
+| Tripura HC | 20 | ✓ |
+| Meghalaya HC | 21 | ✓ |
+| Sikkim HC | 24 | ✓ |
+| Manipur HC | 25 | ✓ |
+| Telangana HC | 29 | ✓ |
+
+**NOT on hcservices (use own portals):**
+- Delhi HC → `delhihighcourt.nic.in/case_status.asp`
+- Punjab & Haryana HC → `phhc.gov.in`
+- MP HC → `www.mphc.gov.in/`
+
+Note: Allahabad HC is on hcservices (state_cd=13) but we use their own portal which is better.
 
 ### CourtCaseSearch Component — Key Architecture
 
@@ -560,12 +567,31 @@ scripts/generate-court-data.ts  →  data/court/courts.json
 2. Run `npx tsx scripts/generate-court-data.ts` to regenerate JSON
 3. Never hand-edit `courts.json` without also updating the script — they will diverge
 
+### eCourts Portal — URL Parameters Do Not Pre-fill
+
+**Verified May 2026:** Both `services.ecourts.gov.in` (district courts) and `hcservices.ecourts.gov.in` (High Courts) are fully form-based. URL query parameters like `cnrNumber=`, `caseType=`, `partyName=` are **silently ignored** — the portal opens a blank form regardless.
+
+**Do NOT build a fake search form** that collects user input and pretends to pass it to the portal. This creates double data-entry friction: user fills our form, arrives at the portal, fills the same form again. Instead:
+- Show a direct "Open on eCourts" link/button
+- List the available search types (CNR, Case Number, Party Name, etc.) as text
+- Link to the guide (`/guide/ecourts-case-status-search`) for step-by-step instructions
+
 ### Before Updating Any Court URL
 
 ```
-[ ] Open the URL in a real browser — check it actually loads (not 404/500)
+[ ] WebFetch the URL — verify it actually loads AND shows the correct court name
 [ ] Verify the parameter name: district courts use `state_code`, HC portal uses `state_cd`
 [ ] Check the path: old HC path was `/hcservices/cases/`, new is `/ecourtindiaHC/cases/`
+[ ] For HCs: check the state_cd against the verified table above — they differ from district codes
 [ ] Update scripts/generate-court-data.ts AND regenerate data/ files
 [ ] Run npx tsc --noEmit — must pass before committing
 ```
+
+### Verify Before Declaring Done
+
+**Do not say something is fixed without verifying it works.** After any URL or data change:
+1. WebFetch the actual URL — confirm it loads and shows the right content
+2. Run `npx tsc --noEmit` — confirm no type errors
+3. Only then commit and describe as "fixed"
+
+This applies to everything, not just courts: guide links, official scheme URLs, external portal links.

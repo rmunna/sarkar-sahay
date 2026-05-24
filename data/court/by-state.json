@@ -183,11 +183,11 @@
       "city": "Mumbai",
       "address": "High Court of Bombay, Fort, Mumbai - 400032",
       "website": "https://bombayhighcourt.nic.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=20&dist_cd=1&stateNm=Maharashtra",
-      "advocateUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/cases/qs_civil_advocate.php?state_cd=20&dist_cd=1&court_code=1&stateNm=Maharashtra",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=1&dist_cd=1&stateNm=Maharashtra",
+      "advocateUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/cases/qs_civil_advocate.php?state_cd=1&dist_cd=1&court_code=1&stateNm=Maharashtra",
       "causeListUrl": "https://bombayhighcourt.nic.in/causelist.php",
       "cnrStateCode": "MH",
-      "ecourtsStateCode": "20",
+      "ecourtsStateCode": "1",
       "caseTypes": [
         {
           "code": "WP",
@@ -253,10 +253,10 @@
       "city": "Kolkata",
       "address": "High Court at Calcutta, Esplanade Row West, Kolkata - 700001",
       "website": "https://www.calcuttahighcourt.gov.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=36&dist_cd=1&stateNm=West+Bengal",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=16&dist_cd=1&stateNm=West+Bengal",
       "causeListUrl": "https://www.calcuttahighcourt.gov.in/CauseList",
       "cnrStateCode": "WB",
-      "ecourtsStateCode": "36",
+      "ecourtsStateCode": "16",
       "caseTypes": [
         {
           "code": "WP",
@@ -322,10 +322,10 @@
       "city": "Chennai",
       "address": "High Court of Madras, High Court Road, Chennai - 600104",
       "website": "https://www.hcmadras.tn.nic.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=31&dist_cd=1&stateNm=Tamil+Nadu",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=10&dist_cd=1&stateNm=Tamil+Nadu",
       "causeListUrl": "https://www.hcmadras.tn.nic.in/causelist.html",
       "cnrStateCode": "TN",
-      "ecourtsStateCode": "31",
+      "ecourtsStateCode": "10",
       "caseTypes": [
         {
           "code": "WP",
@@ -391,11 +391,11 @@
       "city": "Bengaluru",
       "address": "High Court of Karnataka, Ambedkar Veedhi, Bengaluru - 560001",
       "website": "https://hckinfo.kar.nic.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=16&dist_cd=1&stateNm=Karnataka",
-      "advocateUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/cases/qs_civil_advocate.php?state_cd=16&dist_cd=1&court_code=1&stateNm=Karnataka",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=3&dist_cd=1&stateNm=Karnataka",
+      "advocateUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/cases/qs_civil_advocate.php?state_cd=3&dist_cd=1&court_code=1&stateNm=Karnataka",
       "causeListUrl": "https://hckinfo.kar.nic.in/causelist/",
       "cnrStateCode": "KA",
-      "ecourtsStateCode": "16",
+      "ecourtsStateCode": "3",
       "caseTypes": [
         {
           "code": "WP",
@@ -441,10 +441,10 @@
       "city": "Kochi",
       "address": "High Court of Kerala, Museum Road, Ernakulam, Kochi - 682031",
       "website": "https://www.hckreports.nic.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=17&dist_cd=1&stateNm=Kerala",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=4&dist_cd=1&stateNm=Kerala",
       "causeListUrl": "https://www.hckreports.nic.in/CauseList.aspx",
       "cnrStateCode": "KL",
-      "ecourtsStateCode": "17",
+      "ecourtsStateCode": "4",
       "caseTypes": [
         {
           "code": "WP",
@@ -506,10 +506,10 @@
       "city": "Ahmedabad",
       "address": "High Court of Gujarat, Sola, Ahmedabad - 380060",
       "website": "https://gujarathighcourt.nic.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=11&dist_cd=1&stateNm=Gujarat",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=17&dist_cd=1&stateNm=Gujarat",
       "causeListUrl": "https://gujarathighcourt.nic.in/causelist/",
       "cnrStateCode": "GJ",
-      "ecourtsStateCode": "11",
+      "ecourtsStateCode": "17",
       "caseTypes": [
         {
           "code": "WP",
@@ -575,10 +575,10 @@
       "city": "Jodhpur",
       "address": "High Court of Rajasthan, Residency Road, Jodhpur - 342001",
       "website": "https://www.hcraj.nic.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=29&dist_cd=1&stateNm=Rajasthan",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=9&dist_cd=1&stateNm=Rajasthan",
       "causeListUrl": "https://www.hcraj.nic.in/causelist.php",
       "cnrStateCode": "RJ",
-      "ecourtsStateCode": "29",
+      "ecourtsStateCode": "9",
       "caseTypes": [
         {
           "code": "WP",
@@ -704,10 +704,10 @@
       "city": "Hyderabad",
       "address": "High Court for the State of Telangana, Hyderabad - 500066",
       "website": "https://www.tshc.gov.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=32&dist_cd=1&stateNm=Telangana",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=29&dist_cd=1&stateNm=Telangana",
       "causeListUrl": "https://www.tshc.gov.in/causelist",
       "cnrStateCode": "TS",
-      "ecourtsStateCode": "32",
+      "ecourtsStateCode": "29",
       "caseTypes": [
         {
           "code": "WP",
@@ -769,7 +769,7 @@
       "city": "Chandigarh",
       "address": "High Court of Punjab & Haryana, Sector 1, Chandigarh - 160001",
       "website": "https://highcourtchd.gov.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=28&dist_cd=1&stateNm=Punjab",
+      "caseStatusUrl": "https://phhc.gov.in",
       "advocateUrl": "https://highcourtchd.gov.in/index.php?trs=advocate_search",
       "causeListUrl": "https://highcourtchd.gov.in/index.php?trs=dl_causelist",
       "cnrStateCode": "PB",
@@ -839,10 +839,10 @@
       "city": "Patna",
       "address": "Patna High Court, Patna - 800001",
       "website": "https://patnahighcourt.gov.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=5&dist_cd=1&stateNm=Bihar",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=8&dist_cd=1&stateNm=Bihar",
       "causeListUrl": "https://patnahighcourt.gov.in/causelist",
       "cnrStateCode": "BR",
-      "ecourtsStateCode": "5",
+      "ecourtsStateCode": "8",
       "caseTypes": [
         {
           "code": "WP",
@@ -896,9 +896,9 @@
       "city": "Guwahati",
       "address": "Gauhati High Court, Guwahati - 781001",
       "website": "https://www.ghcnic.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=4&dist_cd=1&stateNm=Assam",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=6&dist_cd=1&stateNm=Assam",
       "cnrStateCode": "AS",
-      "ecourtsStateCode": "4",
+      "ecourtsStateCode": "6",
       "caseTypes": [
         {
           "code": "WP",
@@ -952,10 +952,10 @@
       "city": "Cuttack",
       "address": "Orissa High Court, Cuttack - 753002",
       "website": "https://www.orissahighcourt.nic.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=26&dist_cd=1&stateNm=Odisha",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=11&dist_cd=1&stateNm=Odisha",
       "causeListUrl": "https://www.orissahighcourt.nic.in/causeList.php",
       "cnrStateCode": "OR",
-      "ecourtsStateCode": "26",
+      "ecourtsStateCode": "11",
       "caseTypes": [
         {
           "code": "WP",
@@ -1013,7 +1013,7 @@
       "city": "Jabalpur",
       "address": "High Court of Madhya Pradesh, Jabalpur - 482001",
       "website": "https://www.mphc.gov.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=19&dist_cd=1&stateNm=Madhya+Pradesh",
+      "caseStatusUrl": "https://www.mphc.gov.in/",
       "causeListUrl": "https://www.mphc.gov.in/causelist",
       "cnrStateCode": "MP",
       "ecourtsStateCode": "19",
@@ -1078,9 +1078,9 @@
       "city": "Bilaspur",
       "address": "High Court of Chhattisgarh, Bilaspur - 495001",
       "website": "https://www.highcourt.cg.gov.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=7&dist_cd=1&stateNm=Chhattisgarh",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=18&dist_cd=1&stateNm=Chhattisgarh",
       "cnrStateCode": "CG",
-      "ecourtsStateCode": "7",
+      "ecourtsStateCode": "18",
       "caseTypes": [
         {
           "code": "WP",
@@ -1134,9 +1134,9 @@
       "city": "Nainital",
       "address": "High Court of Uttarakhand, Belvedere, Nainital - 263001",
       "website": "https://www.highcourtofuttarakhand.gov.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=35&dist_cd=1&stateNm=Uttarakhand",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=15&dist_cd=1&stateNm=Uttarakhand",
       "cnrStateCode": "UK",
-      "ecourtsStateCode": "35",
+      "ecourtsStateCode": "15",
       "caseTypes": [
         {
           "code": "WP",
@@ -1190,9 +1190,9 @@
       "city": "Ranchi",
       "address": "High Court of Jharkhand, H.C. Road, Ranchi - 834002",
       "website": "https://www.jharkhandhighcourt.nic.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=15&dist_cd=1&stateNm=Jharkhand",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=7&dist_cd=1&stateNm=Jharkhand",
       "cnrStateCode": "JH",
-      "ecourtsStateCode": "15",
+      "ecourtsStateCode": "7",
       "caseTypes": [
         {
           "code": "WP",
@@ -1246,9 +1246,9 @@
       "city": "Shimla",
       "address": "High Court of Himachal Pradesh, Ravenswood, Shimla - 171001",
       "website": "https://hphighcourt.nic.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=13&dist_cd=1&stateNm=Himachal+Pradesh",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=5&dist_cd=1&stateNm=Himachal+Pradesh",
       "cnrStateCode": "HP",
-      "ecourtsStateCode": "13",
+      "ecourtsStateCode": "5",
       "caseTypes": [
         {
           "code": "WP",
@@ -1302,9 +1302,9 @@
       "city": "Srinagar",
       "address": "High Court of J&K and Ladakh, Srinagar (Summer) / Jammu (Winter)",
       "website": "https://jkhighcourt.nic.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=14&dist_cd=1&stateNm=Jammu+and+Kashmir",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=12&dist_cd=1&stateNm=Jammu+and+Kashmir",
       "cnrStateCode": "JK",
-      "ecourtsStateCode": "14",
+      "ecourtsStateCode": "12",
       "caseTypes": [
         {
           "code": "WP",
@@ -1358,9 +1358,9 @@
       "city": "Imphal",
       "address": "High Court of Manipur, Imphal - 795001",
       "website": "https://mhc.nic.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=21&dist_cd=1&stateNm=Manipur",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=25&dist_cd=1&stateNm=Manipur",
       "cnrStateCode": "MN",
-      "ecourtsStateCode": "21",
+      "ecourtsStateCode": "25",
       "caseTypes": [
         {
           "code": "WP",
@@ -1414,9 +1414,9 @@
       "city": "Shillong",
       "address": "High Court of Meghalaya, Shillong - 793001",
       "website": "https://www.meghalayahighcourt.nic.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=22&dist_cd=1&stateNm=Meghalaya",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=21&dist_cd=1&stateNm=Meghalaya",
       "cnrStateCode": "MG",
-      "ecourtsStateCode": "22",
+      "ecourtsStateCode": "21",
       "caseTypes": [
         {
           "code": "WP",
@@ -1470,9 +1470,9 @@
       "city": "Gangtok",
       "address": "High Court of Sikkim, Gangtok - 737101",
       "website": "https://www.sikkimhighcourt.nic.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=30&dist_cd=1&stateNm=Sikkim",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=24&dist_cd=1&stateNm=Sikkim",
       "cnrStateCode": "SK",
-      "ecourtsStateCode": "30",
+      "ecourtsStateCode": "24",
       "caseTypes": [
         {
           "code": "WP",
@@ -1526,9 +1526,9 @@
       "city": "Agartala",
       "address": "High Court of Tripura, Agartala - 799001",
       "website": "https://www.tripurahighcourt.gov.in",
-      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=33&dist_cd=1&stateNm=Tripura",
+      "caseStatusUrl": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=20&dist_cd=1&stateNm=Tripura",
       "cnrStateCode": "TR",
-      "ecourtsStateCode": "33",
+      "ecourtsStateCode": "20",
       "caseTypes": [
         {
           "code": "WP",

@@ -89,6 +89,9 @@ export default function SupremeCourtPage() {
       <CourtCaseSearch
         caseStatusUrl={court.caseStatusUrl}
         courtName={court.shortName}
+        courtWebsite={court.website}
+        advocateUrl={court.advocateUrl}
+        causeListUrl={court.causeListUrl}
         isSupremeCourt={true}
       />
 

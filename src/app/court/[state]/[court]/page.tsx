@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getCourtBySlug, getCourtsByState, getAllCourtParams, buildEcourtsUrl } from "@/lib/court";
+import { getCourtBySlug, getCourtsByState, getAllCourtParams } from "@/lib/court";
 import CourtCaseSearch from "@/components/CourtCaseSearch";
 
 export const dynamicParams = true;
@@ -39,7 +39,7 @@ export default async function CourtDetailPage({ params }: Props) {
     (c) => c.slug !== courtSlug && c.type !== "supreme"
   );
   const isHighCourt = court.type === "high";
-  const ecourtsUrl = buildEcourtsUrl(court);
+  const isSupremeCourt = court.type === "supreme";
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -121,53 +121,14 @@ export default async function CourtDetailPage({ params }: Props) {
 
       {/* Search widget */}
       <CourtCaseSearch
-        caseStatusUrl={court.caseStatusUrl}
         courtName={court.shortName}
-        courtState={court.state}
-        ecourtsStateCode={court.ecourtsStateCode}
-        ecourtsDistCode={court.ecourtsDistCode}
+        caseStatusUrl={court.caseStatusUrl}
+        advocateUrl={court.advocateUrl}
+        causeListUrl={court.causeListUrl}
+        courtWebsite={court.website}
         isHighCourt={isHighCourt}
+        isSupremeCourt={isSupremeCourt}
       />
-
-      {/* Quick links row */}
-      <div className="flex flex-wrap gap-2 mt-4 mb-6">
-        <a
-          href={ecourtsUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-xs border border-orange-200 text-orange-700 px-3 py-1.5 rounded-full hover:bg-orange-50 transition"
-        >
-          eCourts Portal ↗
-        </a>
-        {court.advocateUrl && (
-          <a
-            href={court.advocateUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-xs border border-gray-200 text-gray-600 px-3 py-1.5 rounded-full hover:bg-gray-50 transition"
-          >
-            Advocate Search ↗
-          </a>
-        )}
-        {court.causeListUrl && (
-          <a
-            href={court.causeListUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-xs border border-gray-200 text-gray-600 px-3 py-1.5 rounded-full hover:bg-gray-50 transition"
-          >
-            Cause List ↗
-          </a>
-        )}
-        <a
-          href={court.website}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-xs border border-gray-200 text-gray-600 px-3 py-1.5 rounded-full hover:bg-gray-50 transition"
-        >
-          Official Website ↗
-        </a>
-      </div>
 
       {/* Court info card */}
       <div className="bg-white border border-gray-200 rounded-xl p-5 mb-6">
@@ -212,23 +173,29 @@ export default async function CourtDetailPage({ params }: Props) {
         </h2>
         <ol className="text-sm text-amber-800 space-y-2 list-decimal list-inside">
           <li>
-            <strong>By CNR Number</strong> — Fastest. Enter the 16-character CNR from your filing receipt.
+            Click <strong>"Search {court.shortName} Cases on eCourts"</strong> above — opens the official portal.
           </li>
           <li>
-            <strong>By Case Number</strong> — Enter case type (e.g., {court.caseTypes[0]?.code ?? "WP"}), number, and year from court notices.
+            <strong>By CNR Number</strong> — Fastest. The 16-character code from your filing receipt (e.g., {court.cnrStateCode ?? "AP"}ST010000122024).
+          </li>
+          <li>
+            <strong>By Case Number</strong> — Select case type (e.g., {court.caseTypes[0]?.code ?? "WP"}), enter number and year.
           </li>
           <li>
             <strong>By Party Name</strong> — Enter petitioner or respondent name (min. 3 characters).
           </li>
-          {!isHighCourt && (
+          {!isHighCourt && !isSupremeCourt && (
             <li>
               <strong>By FIR Number</strong> — For criminal cases, enter FIR number, year, and police station.
             </li>
           )}
-          <li>
-            Click "Search on eCourts" — opens the official government portal with your search pre-filled.
-          </li>
         </ol>
+        <Link
+          href="/guide/ecourts-case-status-search"
+          className="mt-3 inline-block text-xs text-amber-700 underline underline-offset-2 hover:text-amber-900"
+        >
+          Full step-by-step guide with screenshots →
+        </Link>
       </div>
 
       {/* Other courts in state */}
