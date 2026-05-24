@@ -84,4 +84,16 @@
     <loc>https://www.citizennest.com/sitemap-pincode.xml</loc>
     <lastmod>2026-05-24</lastmod>
   </sitemap>
+  <sitemap>
+    <loc>https://www.citizennest.com/sitemap-pincode-hubs.xml</loc>
+    <lastmod>2026-05-24</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.citizennest.com/sitemap-hsn.xml</loc>
+    <lastmod>2026-05-24</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.citizennest.com/sitemap-rto.xml</loc>
+    <lastmod>2026-05-24</lastmod>
+  </sitemap>
 </sitemapindex>

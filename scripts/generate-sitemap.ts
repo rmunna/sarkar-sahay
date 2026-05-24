@@ -243,25 +243,79 @@ ${allSitemaps
 </sitemapindex>`;
 }
 
-function generatePincodeSitemap(publicDir: string): string {
+interface PincodeSummary {
+  pincode: string;
+  postOffice: string;
+  stateSlug: string;
+  districtSlug: string;
+}
+
+function slugifyText(text: string): string {
+  return text.toLowerCase().replace(/[^a-z0-9\s-]/g, " ").trim()
+    .replace(/\s+/g, "-").replace(/-+/g, "-").replace(/^-|-$/g, "");
+}
+
+function generatePincodeSitemap(publicDir: string): string[] {
   const today = new Date().toISOString().split("T")[0];
   const indexFile = path.join(__dirname, "..", "data", "pincode", "index.json");
-  if (!fs.existsSync(indexFile)) return "";
+  if (!fs.existsSync(indexFile)) return [];
 
-  const index = JSON.parse(fs.readFileSync(indexFile, "utf8")) as Record<string, unknown>;
-  const pincodes = Object.keys(index);
+  const index = JSON.parse(fs.readFileSync(indexFile, "utf8")) as Record<string, PincodeSummary>;
+  const records = Object.values(index);
 
-  const urls: SitemapUrl[] = pincodes.map((p) => ({
-    loc: `${BASE_URL}/pincode/${p}`,
-    lastmod: today,
-    changefreq: "yearly",
-    priority: "0.6",
-  }));
+  // 1. Individual pincode pages (new hierarchical URLs)
+  const pincodeUrls: SitemapUrl[] = records.map((r) => {
+    const slug = slugifyText(r.postOffice) + "-" + r.pincode;
+    return {
+      loc: `${BASE_URL}/pincode/${r.stateSlug}/${r.districtSlug}/${slug}`,
+      lastmod: today,
+      changefreq: "yearly",
+      priority: "0.6",
+    };
+  });
 
-  const filename = "sitemap-pincode.xml";
-  fs.writeFileSync(path.join(publicDir, filename), buildUrlset(urls));
-  console.log(`  ✅ ${filename}: ${urls.length.toLocaleString()} URLs`);
-  return filename;
+  // 2. District pages — unique state/district combos
+  const districtSeen = new Set<string>();
+  const districtUrls: SitemapUrl[] = [];
+  for (const r of records) {
+    const key = `${r.stateSlug}/${r.districtSlug}`;
+    if (!districtSeen.has(key)) {
+      districtSeen.add(key);
+      districtUrls.push({
+        loc: `${BASE_URL}/pincode/${r.stateSlug}/${r.districtSlug}`,
+        lastmod: today,
+        changefreq: "monthly",
+        priority: "0.7",
+      });
+    }
+  }
+
+  // 3. State pages — unique state slugs
+  const stateSeen = new Set<string>();
+  const stateUrls: SitemapUrl[] = [];
+  for (const r of records) {
+    if (!stateSeen.has(r.stateSlug)) {
+      stateSeen.add(r.stateSlug);
+      stateUrls.push({
+        loc: `${BASE_URL}/pincode/${r.stateSlug}`,
+        lastmod: today,
+        changefreq: "monthly",
+        priority: "0.8",
+      });
+    }
+  }
+
+  // Write: one sitemap for pincodes, one combined for state+district hubs
+  const pinFile = "sitemap-pincode.xml";
+  const hubFile = "sitemap-pincode-hubs.xml";
+
+  fs.writeFileSync(path.join(publicDir, pinFile), buildUrlset(pincodeUrls));
+  console.log(`  ✅ ${pinFile}: ${pincodeUrls.length.toLocaleString()} URLs`);
+
+  fs.writeFileSync(path.join(publicDir, hubFile), buildUrlset([...stateUrls, ...districtUrls]));
+  console.log(`  ✅ ${hubFile}: ${stateUrls.length} state + ${districtUrls.length} district URLs`);
+
+  return [pinFile, hubFile];
 }
 
 function generateHSNSitemap(publicDir: string): string {
@@ -314,9 +368,9 @@ console.log("✅ Written public/sitemap.xml");
 console.log("📍 Generating IFSC branch sitemaps …");
 const ifscSitemapNames = generateIFSCSitemaps(PUBLIC_DIR);
 
-// 3. Pincode sitemap
-console.log("📮 Generating pincode sitemap …");
-const pincodeSitemapName = generatePincodeSitemap(PUBLIC_DIR);
+// 3. Pincode sitemaps (individual + hub pages)
+console.log("📮 Generating pincode sitemaps …");
+const pincodeSitemapNames = generatePincodeSitemap(PUBLIC_DIR);
 
 // 4. HSN sitemap
 console.log("📦 Generating HSN sitemap …");
@@ -329,7 +383,7 @@ const rtoSitemapName = generateRTOSitemap(PUBLIC_DIR);
 // 6. Sitemap index
 const allSitemapNames = [
   ...ifscSitemapNames,
-  ...(pincodeSitemapName ? [pincodeSitemapName] : []),
+  ...pincodeSitemapNames,
   ...(hsnSitemapName ? [hsnSitemapName] : []),
   ...(rtoSitemapName ? [rtoSitemapName] : []),
 ];
