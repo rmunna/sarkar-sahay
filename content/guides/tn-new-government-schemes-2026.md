@@ -1,252 +1,426 @@
 ---
-title: "Tamil Nadu New Government Schemes 2026 — Complete List & How to Apply"
+title: "Tamil Nadu CM Vijay TVK Government Schemes 2026 — Complete List & How to Apply"
 description: >-
-  Complete list of Tamil Nadu new government schemes launched in 2026. Covers
-  women welfare, farmer support, student scholarships, health insurance, free
-  bus, housing, and how to apply online through TN e-Sevai portal.
+  Complete guide to Tamil Nadu CM Vijay's TVK government schemes 2026.
+  ₹2,500/month women grant, ₹25 lakh health insurance, free electricity 200
+  units, farmer loan waiver, ₹4,000 youth allowance — eligibility and apply.
 category: State Schemes
 keywords:
-  - tamil nadu new government schemes 2026
-  - tamil nadu government schemes 2026
-  - tamil nadu new schemes list
-  - tamil nadu 2026 welfare schemes
-  - new government tn schemes
-  - tamil nadu women welfare scheme 2026
-  - tamil nadu farmer scheme 2026
-  - tamil nadu student scheme 2026
-  - tn government yojana 2026
-  - tn e-sevai new schemes
-readingTime: 14 min
+  - tamil nadu cm vijay schemes 2026
+  - tvk government schemes 2026
+  - vijay cm tamil nadu welfare schemes
+  - tamilaga vettri kazhagam schemes list
+  - tn new government schemes vijay 2026
+  - tvk magalir urimai scheme 2026
+  - vijay free electricity 200 units scheme
+  - tvk farmer loan waiver 2026
+  - vijay youth allowance 4000 month
+  - tvk health insurance 25 lakh 2026
+readingTime: 15 min
 officialLinks:
   - 'https://www.tn.gov.in/'
+  - 'https://vijay.com/en/political/manifesto'
   - 'https://eservices.tn.gov.in/'
   - 'https://tnpds.gov.in/'
-  - 'https://tnreginet.gov.in/'
 ---
 
-# Tamil Nadu New Government Schemes 2026 — Complete Guide
+# Tamil Nadu CM Vijay TVK Government Schemes 2026 — Complete Guide
 
-The newly formed Tamil Nadu government (2026) has announced a series of welfare schemes and continued several popular schemes from previous governments, focusing on women empowerment, youth employment, farmer welfare, and universal health coverage.
+Vijay (Joseph Vijay), leader of **Tamilaga Vettri Kazhagam (TVK)**, was sworn in as Chief Minister of Tamil Nadu on **18 May 2026**. His government has announced a sweeping welfare programme across 10 sectors — women, education, youth, farmers, health, electricity, anti-drugs, governance, technology, and justice.
 
-This guide covers all confirmed and announced Tamil Nadu government schemes for 2026 — including which schemes continue unchanged, which have been enhanced, and which are newly launched.
-
-> **Note:** This guide is updated as schemes are officially notified. Check the official TN Government portal at [tn.gov.in](https://www.tn.gov.in/) for the latest status on individual schemes.
+This guide covers every major TVK government scheme with scheme name, exact benefit amount, eligibility, and how to apply.
 
 ---
 
-## Key Government Portals — Tamil Nadu 2026
+## What CM Vijay Signed on Day 1 (18 May 2026)
 
-| Portal | Purpose | Link |
-|--------|---------|------|
-| **TN e-Sevai** | Online citizen services | eservices.tn.gov.in |
-| **TN PDS** | Ration card and food security | tnpds.gov.in |
-| **TNREGINET** | Property registration, EC | tnreginet.gov.in |
-| **Patta Chitta** | Land records | patta.tn.gov.in |
-| **TN Health Portal** | Health schemes | health.tn.gov.in |
-| **TNPSC** | Public service exam | tnpsc.gov.in |
+On his very first day, CM Vijay signed files for three immediate schemes:
 
----
+1. **Free Electricity — 200 Units** — Enhanced free electricity for all households (doubled from 100 to 200 units every 2 months)
+2. **Singappen Athiradi Padai** — Women's special safety force across all districts
+3. **Anti-Drug Units** — Dedicated anti-narcotics stations in all 37 districts
 
-## Women Empowerment Schemes
-
-### CM Women Welfare Scheme 2026 (New)
-
-The new Tamil Nadu government's flagship scheme for women — providing monthly Direct Benefit Transfer (DBT) to eligible women heads of households across the state. This scheme targets women aged 21–60 from low-income families.
-
-**Expected Benefits:**
-- Monthly cash transfer via DBT to women's bank accounts
-- Enhanced amount for SC/ST women beneficiaries
-- Cover for urban and rural women
-
-📖 **Detailed guide:** [Tamil Nadu CM Women Welfare Scheme 2026](/guide/tn-cm-women-welfare-scheme-2026)
+These three are already operational as on **May 2026**.
 
 ---
 
-### Free Bus Travel for Women (Continuing)
+## SECTOR 1 — Women's Welfare (Magalir Urimai Schemes)
 
-Tamil Nadu's free bus travel scheme for women on all state-run TNSTC and MTC buses continues unchanged. This universally popular scheme benefits millions of women commuters daily across the state.
+### 1. Magalir Urimai Thogai — ₹2,500/Month
 
-**Key Details:**
-- All women passengers travel free on TNSTC, SETC, and MTC government buses
-- No application required — show any valid ID at the conductor's request
-- Applicable on all ordinary and some express government buses
+The TVK government's flagship women's scheme — **₹2,500 per month** as direct income support for every woman head of household.
 
-📖 **Detailed guide:** [TN Free Bus Travel for Women](/guide/tn-free-bus-women)
+| Detail | Info |
+|--------|------|
+| **Monthly Benefit** | ₹2,500 via DBT |
+| **Eligibility** | Women heads of household, aged up to 60 |
+| **Previous Scheme** | Kalaignar Magalir Urimai was ₹1,000/month — TVK has raised it to ₹2,500 |
+| **Application Portal** | eservices.tn.gov.in (expected within 100 days) |
 
----
-
-### Pudhumai Penn Scholarship (Continuing / Enhanced)
-
-The higher education scholarship for girl students continues under the new government. Students who completed Class 10 and 12 from government Tamil Nadu schools and join government colleges receive ₹1,000/month stipend.
-
-**Key Details:**
-- **Benefit:** ₹1,000/month for the duration of UG/PG degree
-- **Eligibility:** Girls who studied Class 10 and 12 in TN government schools and enrol in TN government colleges
-- **No income bar** — all girl students meeting education criteria eligible
-
-📖 **Detailed guide:** [TN Pudhumai Penn Scholarship](/guide/tn-pudhumai-penn-scholarship)
+📖 **Detailed guide:** [TN Magalir Urimai Scheme ₹2,500 — How to Apply](/guide/tn-cm-women-welfare-scheme-2026)
 
 ---
 
-### Marriage Assistance Scheme (Continuing)
+### 2. Free LPG Cylinders — 6 Per Year
 
-Financial assistance for marriages of women from economically weaker sections — one of the oldest and most popular TN government schemes. Continued by the new government.
+Every eligible Tamil Nadu household receives **6 LPG cylinders per year free** under the TVK government.
 
-**Key Benefits:**
-- ₹25,000 for women who have passed SSLC (Class 10)
-- ₹50,000 for women who have passed Class 12 and above
-- 8 grams of gold for thali (mangalsutra)
-- ₹2,000 for wedding sari
-- Applicable for inter-caste marriages with enhanced benefits
-
-📖 **Detailed guide:** [TN Marriage Assistance Scheme](/guide/tn-marriage-assistance-scheme)
+| Detail | Info |
+|--------|------|
+| **Benefit** | 6 free LPG cylinders/year |
+| **Eligibility** | All eligible households (ration card holders) |
+| **Mode** | DBT subsidy to Aadhaar-linked bank account |
 
 ---
 
-## Student and Youth Schemes
+### 3. TVK Marriage Scheme — 8g Gold + Silk Saree
 
-### Naan Mudhalvan — Skill Development (Continuing)
+For every bride from a family with annual income below ₹5 lakh:
 
-The state's flagship skilling initiative continues. Naan Mudhalvan provides industry-linked skill training and certification to students in government schools and colleges, partnering with companies like TCS, NASSCOM, and Amazon.
+- **8 grams of gold** (or cash equivalent)
+- **1 quality silk saree**
+- **₹25,000 pregnancy support grant** for expectant mothers
 
-**Key Details:**
-- Free skill training in IT, healthcare, logistics, banking, and manufacturing
-- Internship and placement support
-- Students earn recognized certifications along with their degrees
+| Detail | Info |
+|--------|------|
+| **Gold** | 8 grams of gold |
+| **Silk Saree** | 1 quality silk saree |
+| **Income Bar** | Family income below ₹5 lakh/year |
+| **Age** | Bride must be 18+ years |
+| **Portal** | Being developed — check tn.gov.in |
 
-📖 **Detailed guide:** [TN Naan Mudhalvan Skill Development](/guide/tn-naan-mudhalvan-skill-development)
-
----
-
-### CM Breakfast Scheme (Continuing)
-
-Free nutritious breakfast for students in government primary schools (Classes 1–5) across Tamil Nadu. The scheme has been recognized as a national model for school nutrition.
-
-- **Coverage:** Over 17 lakh students across 31,000+ government primary schools
-- **Meal:** Upma, pongal, and other nutritious preparations with egg on alternate days
-
-📖 **Detailed guide:** [TN CM Breakfast Scheme](/guide/tn-cm-breakfast)
+> **Status as of May 2026:** The official application portal is being set up and is expected to go live within the 100-day programme.
 
 ---
 
-### Free Laptop/Tablet for Students (Expected — New Government)
+### 4. Newborn Benefits — Gold Ring + Baby Kit
 
-The new Tamil Nadu government is expected to announce a free laptop or tablet scheme for government school and college students. This is a common election promise and early 100-day action for new TN governments.
-
-> 🔔 **Status:** Expected to be notified — check [tn.gov.in](https://www.tn.gov.in/) for official announcement.
-
----
-
-## Farmer Welfare Schemes
-
-### CM Farmer Support Scheme 2026 (New)
-
-The new government has announced farmer-centric support focusing on direct income support, crop insurance, and input subsidy.
-
-**Expected Coverage:**
-- Direct income support per acre for small and marginal farmers
-- Enhanced crop insurance coverage under PMFBY
-- Free/subsidised agricultural inputs (seeds, fertilisers)
-- Irrigation support for rain-fed agriculture zones
-
-📖 **Detailed guide:** [TN CM Farmer Scheme 2026](/guide/tn-cm-farmer-scheme-2026)
+For every child born in a Tamil Nadu government hospital:
+- 1 gold ring
+- Baby Welcome Kit (essentials for newborn)
 
 ---
 
-### Uzhavar Sandhai (Farmers' Market) (Continuing)
+### 5. Student Parent Support — ₹15,000/Year
 
-The direct-to-consumer farmers' market network continues. Uzhavar Sandhai stalls across Tamil Nadu sell vegetables and fruits directly from farmers at lower prices — benefiting both farmers (better price realisation) and consumers.
-
-📖 **Detailed guide:** [TN Uzhavar Sandhai Farmers Market](/guide/tn-uzhavar-sandhai-farmers-market)
+Mothers and guardians of children studying in Classes 1–12 in government schools receive **₹15,000 per year** in direct financial support.
 
 ---
 
-## Health Schemes
+### 6. Rani Velu Nachiyar Force (Women's Safety)
 
-### TN Chief Minister's Health Insurance (Continuing / Enhanced)
-
-Tamil Nadu's flagship health insurance scheme provides cashless treatment to eligible families at empanelled government and private hospitals.
-
-**Key Details:**
-- Covers medical and surgical procedures up to ₹5 lakh per family per year
-- Covers over 1,000 medical procedures and surgeries
-- Families with annual income below ₹72,000 covered automatically
-- Over 6 crore beneficiaries across the state
-
-📖 **Detailed guide:** [TN CM Health Insurance Scheme](/guide/tn-cm-health-insurance)
+A 50,000-strong dedicated women's police unit equipped with body cameras for patrolling and responding to crimes against women.
 
 ---
 
-### Innuyir Kaappom (Life Protection) (Continuing)
+### 7. Anjalai Ammal Fast-Track Courts
 
-The state's comprehensive road accident and injury relief scheme. Victims of accidents can receive immediate cashless treatment at any empanelled hospital in the first 48 hours, irrespective of insurance status.
-
-📖 **Detailed guide:** [TN Innuyir Kaappom Scheme](/guide/tn-innuyir-kaappom)
+Dedicated fast-track courts across Tamil Nadu to deliver justice in cases of crimes against women — with a **90-day resolution target**.
 
 ---
 
-## Housing Schemes
+### 8. Free Sanitary Pads
 
-### Kalaignar Kanavu Illam — Housing (Expected to Continue)
-
-The state-level housing scheme providing affordable homes to urban poor and EWS families. The new government is expected to continue or enhance the scheme with its own branding.
-
-**Key Details (as previously notified):**
-- Subsidised flats for families living in slums and tenements
-- Priority to women-headed households
-- Aadhaar and income certificate required for application
-
-📖 **Detailed guide:** [TN Kalaignar Kanavu Illam Housing](/guide/tn-kalaignar-kanavu-illam-housing)
+Free distribution of sanitary pads through government schools, colleges, and ration shops.
 
 ---
 
-## How to Apply for Tamil Nadu Government Schemes in 2026
+## SECTOR 2 — Youth & Education (Kalvi & Thozhil Urimai)
 
-### Step 1 — Visit TN e-Sevai Portal
-Go to [eservices.tn.gov.in](https://eservices.tn.gov.in/) — this is the single-window portal for most TN government services and scheme applications.
+### 9. Graduate Unemployment Allowance — ₹4,000/Month
 
-### Step 2 — Register / Log In
-Create an account with your mobile number and Aadhaar. Verify with OTP.
+Unemployed graduates aged 21–29 receive **₹4,000 per month** while actively job-seeking.
 
-### Step 3 — Search for the Scheme
-Use the scheme directory or search for the specific scheme by name. Check eligibility criteria before applying.
+| Detail | Info |
+|--------|------|
+| **Monthly Amount** | ₹4,000 |
+| **Eligibility** | Degree holders aged 21–29, unemployed |
+| **Diploma Holders** | ₹2,500/month (see below) |
 
-### Step 4 — Fill Application Form
-Enter required details — personal information, income, Aadhaar, bank account, and upload supporting documents.
+📖 **Detailed guide:** [TN Youth Unemployment Allowance Scheme 2026](/guide/tn-youth-unemployment-allowance-2026)
 
-### Step 5 — Submit and Track
-Submit the application and note the reference number. Track status online using the reference number.
+---
 
-### Documents Commonly Required
-- Aadhaar card (mandatory for DBT schemes)
-- Ration card (smart card)
-- Income certificate (from Revenue Department)
-- Bank passbook (Aadhaar-linked account)
-- Nativity/residence certificate
-- Caste certificate (SC/ST categories)
-- Passport-size photographs
+### 10. Diploma Holder Allowance — ₹2,500/Month
+
+Diploma holders aged 21–29 who are unemployed receive **₹2,500 per month** as a bridging allowance.
+
+---
+
+### 11. Skill Development Stipend — ₹10,000/Month
+
+Youth enrolled in TVK government-backed skill development programmes receive **₹10,000 per month** as a stipend during training.
+
+---
+
+### 12. Collateral-Free Education Loans — ₹20 Lakh
+
+Students from Class 12 through PhD level can avail **₹20 lakh collateral-free education loans** with state government guarantee.
+
+---
+
+### 13. Business Startup Loans — ₹25 Lakh
+
+First-generation entrepreneurs can access **₹25 lakh collateral-free startup loans** under the TVK government's MSME and startup push.
+
+---
+
+### 14. Local Jobs — 75% Reservation in Private Sector
+
+Private sector employers in Tamil Nadu must reserve **75% of jobs** for local Tamil Nadu candidates — a major employment guarantee for youth.
+
+---
+
+### 15. Creatorpreneur Scheme
+
+Support for **1.5 lakh digital content creators** — dedicated labs, equipment, and financial support for YouTubers, podcasters, and social media entrepreneurs.
+
+---
+
+### 16. Kamarajar Residential Schools — 100 New Schools
+
+100 new Kamarajar Residential Schools for gifted students from rural Tamil Nadu to access quality education with hostel facilities.
+
+---
+
+## SECTOR 3 — Farmer Welfare (Vivasayi Urimai)
+
+### 17. Crop Loan Waiver
+
+| Holding | Waiver |
+|---------|--------|
+| Up to 5 acres | **100% waiver** on cooperative crop loans |
+| Above 5 acres | **50% waiver** |
+
+This applies to crop loans from cooperative banks — the single biggest relief measure for Tamil Nadu farmers.
+
+---
+
+### 18. Paddy MSP — ₹3,500 per Quintal
+
+Legal Minimum Support Price for paddy: **₹3,500 per quintal** — backed by state law and state procurement guarantee.
+
+---
+
+### 19. Sugarcane MSP — ₹4,500 per Tonne
+
+Legal MSP for sugarcane: **₹4,500 per tonne**, enforced through the state's Fair and Remunerative Price (FRP) mechanism.
+
+---
+
+### 20. 100% State-Paid Crop Insurance
+
+The state government pays **100% of the crop insurance premium** for essential food crops. Farmers pay nothing — zero premium contribution.
+
+---
+
+### 21. Fishermen Fishing Ban Support — ₹20,000/Month
+
+During the annual fishing ban period (April–June), fishermen receive **₹20,000 per month** as income replacement support.
+
+---
+
+### 22. Fishermen Accident Insurance — ₹25 Lakh
+
+All registered fishermen in Tamil Nadu covered with **₹25 lakh accident insurance**.
+
+---
+
+### 23. Landless Agricultural Labourers — ₹10,000/Year
+
+Agricultural labourers who do not own land receive **₹10,000 per year** as direct income support.
+
+---
+
+### 24. Weaver Support Scheme
+
+| Benefit | Amount |
+|---------|--------|
+| Annual grant | ₹30,000/year per weaver family |
+| Free electricity | 500 units/month for handloom, 1,500 units for powerloom |
+
+---
+
+### 25. Uzhavar Sandhai 2.0 — 180+ Modernised Markets
+
+The existing Uzhavar Sandhai farmers' market network is being expanded to 180+ markets with solar-powered cold storage facilities, so farmers can store and sell produce without spoilage.
+
+---
+
+## SECTOR 4 — Health (Araigal Nalam)
+
+### 26. Universal Health Insurance — ₹25 Lakh
+
+**Every Tamil Nadu family** — irrespective of income — receives health insurance coverage of **₹25 lakh per family per year**.
+
+| Detail | Info |
+|--------|------|
+| **Coverage** | ₹25 lakh/family/year |
+| **Beneficiaries** | All Tamil Nadu families — no income bar |
+| **Previous Scheme** | CM Health Insurance was ₹5 lakh — TVK has raised it to ₹25 lakh |
+| **Hospitals** | Government + empanelled private hospitals |
+
+📖 **Detailed guide:** [TN TVK Health Insurance ₹25 Lakh Scheme 2026](/guide/tn-cm-health-insurance)
+
+---
+
+### 27. 5 New Multispeciality Hospitals
+
+5 new government multispeciality hospitals to be set up across regional hubs in Tamil Nadu.
+
+---
+
+### 28. Mental Health Budget — ₹500 Crore
+
+₹500 crore dedicated annual budget for mental health services, counselling, and community psychiatric care — a first for any Indian state.
+
+---
+
+### 29. 24/7 Tele-Consulting Clinics
+
+Round-the-clock tele-medicine consultation services for all citizens from government doctors.
+
+---
+
+### 30. Differently-Abled Pension — ₹3,000/Month
+
+Persons with disabilities receive **₹3,000 per month** along with home care support.
+
+---
+
+### 31. Senior Citizen Pension — ₹3,000/Month
+
+Senior citizens receive **₹3,000 per month** as monthly pension.
+
+---
+
+## SECTOR 5 — Electricity & Basic Amenities
+
+### 32. Free Electricity — 200 Units
+
+**Already implemented on Day 1.** All domestic consumers receive **200 units of free electricity every 2 months** (doubled from the earlier 100 units).
+
+> 📢 Operational from May 2026.
+
+---
+
+## SECTOR 6 — Governance & Technology (Vetri Aatchi)
+
+### 33. Citizen Privilege Card
+
+An AI-driven entitlement card that automatically identifies and delivers all government scheme benefits a citizen is eligible for — eliminating the need to apply separately for each scheme.
+
+---
+
+### 34. Mudhalvar Makkal Sevai Nanbar
+
+**5 lakh youth workers** deployed across Tamil Nadu to deliver 100+ government services at citizens' doorsteps — similar to West Bengal's Duare Sarkar but at much larger scale.
+
+---
+
+### 35. Ministry of Artificial Intelligence
+
+A dedicated Cabinet-level Ministry for Artificial Intelligence to build Tamil Nadu's **AI City** tech hub and govern AI in governance and industry.
+
+---
+
+### 36. Anganwadi / Noon Meal Workers — ₹18,000/Month
+
+Anganwadi workers and noon-meal programme workers receive a salary of **₹18,000/month** — a major increase from existing pay.
+
+---
+
+### 37. Old Pension Scheme (OPS) Restoration
+
+The Old Pension Scheme is being phased back in for government employees, replacing the National Pension System (NPS).
+
+---
+
+### 38. Temporary Staff Permanence
+
+Teachers, nurses, and other temporary government staff with **5+ years of service** are immediately made permanent.
+
+---
+
+### 39. Two-Language Policy
+
+Tamil Nadu will operate only in Tamil and English in all state administration — rejecting Hindi imposition.
+
+---
+
+## How to Apply — TVK Schemes 2026
+
+Most TVK scheme portals are being launched within the **100-day programme** (by August 2026). Here's how to be ready:
+
+### Step 1 — Keep Documents Ready
+- Aadhaar card (Aadhaar-linked bank account mandatory for DBT)
+- Ration card (Tamil Nadu smart ration card)
+- Income certificate (from Tahsildar/VAO)
+- Bank passbook
+- Voter ID
+
+### Step 2 — Watch for Mudhalvar Makkal Sevai Nanbar Camps
+The TVK government's 5-lakh youth worker force will come to your doorstep to register you for eligible schemes. You can also visit your nearest **e-Sevai centre**.
+
+### Step 3 — Apply Online at TN e-Sevai
+When portals go live: [eservices.tn.gov.in](https://eservices.tn.gov.in/)
+
+### Step 4 — Track via Citizen Privilege Card
+Once launched, the Citizen Privilege Card will show you all schemes you are entitled to and their payment status.
+
+**Helpline:** 1100 (Tamil Nadu government helpline)
+
+---
+
+## TVK Schemes — Quick Reference Table
+
+| Scheme | Benefit | Target Group |
+|--------|---------|-------------|
+| Magalir Urimai | ₹2,500/month | Women heads of household |
+| Free LPG | 6 cylinders/year | All households |
+| Marriage Scheme | 8g gold + silk saree | Brides, family income < ₹5L |
+| Newborn Benefit | Gold ring + baby kit | Govt hospital births |
+| Student Parent Grant | ₹15,000/year | Parents of govt school students |
+| Free Electricity | 200 units/2 months | All households |
+| Graduate Allowance | ₹4,000/month | Unemployed graduates 21–29 |
+| Diploma Allowance | ₹2,500/month | Unemployed diploma holders 21–29 |
+| Skill Stipend | ₹10,000/month | Govt skill programme trainees |
+| Education Loan | ₹20 lakh (collateral-free) | Students Class 12 to PhD |
+| Startup Loan | ₹25 lakh (collateral-free) | First-gen entrepreneurs |
+| Crop Loan Waiver | 100% (≤5 acres) | Farmers — cooperative crop loans |
+| Paddy MSP | ₹3,500/quintal | Paddy farmers |
+| Sugarcane MSP | ₹4,500/tonne | Sugarcane farmers |
+| Crop Insurance | 100% premium state-paid | All food crop farmers |
+| Fishermen Ban Aid | ₹20,000/month | Registered fishermen |
+| Fishermen Insurance | ₹25 lakh | All fishermen |
+| Landless Labour Aid | ₹10,000/year | Agricultural labourers |
+| Weaver Grant | ₹30,000/year | Weaver families |
+| Health Insurance | ₹25 lakh/family | Every TN family |
+| Senior Citizen Pension | ₹3,000/month | Senior citizens |
+| Differently-Abled Pension | ₹3,000/month | Persons with disabilities |
+| Anganwadi Salary | ₹18,000/month | Anganwadi and noon-meal workers |
 
 ---
 
 ## Frequently Asked Questions
 
-### What are the flagship schemes of the new Tamil Nadu government 2026?
-The new Tamil Nadu government (2026) has focused on women empowerment (monthly DBT scheme), farmer income support, continuing Naan Mudhalvan skill development, and enhancing health insurance coverage. Specific scheme names and amounts are updated on the official portal at [tn.gov.in](https://www.tn.gov.in/).
+### When did Vijay become Chief Minister of Tamil Nadu?
+Vijay (of Tamilaga Vettri Kazhagam party) was sworn in as Chief Minister of Tamil Nadu on **18 May 2026** after TVK's historic win in the 2026 Tamil Nadu Legislative Assembly elections.
 
-### Which Tamil Nadu schemes continue under the new government?
-Several popular schemes continue regardless of the government in power — Free Bus Travel for Women, Noon Meal Programme, CM Health Insurance, Pudhumai Penn Scholarship, Uzhavar Sandhai farmers' markets, and Marriage Assistance Scheme. These have broad public support and continued delivery infrastructure.
+### What is the first scheme implemented by CM Vijay's government?
+On Day 1 (18 May 2026), CM Vijay signed three orders: (1) **Free electricity — 200 units** every 2 months for all households, (2) **Singappen Athiradi Padai** women's safety force, and (3) **Anti-drug units** in all 37 districts.
 
-### How do I apply for Tamil Nadu government schemes online?
-Visit [eservices.tn.gov.in](https://eservices.tn.gov.in/) — the TN e-Sevai portal. Register with your mobile number and Aadhaar, find your scheme, check eligibility, fill the application form, upload documents, and submit. Benefits for DBT schemes are credited directly to your Aadhaar-linked bank account.
+### How much is the Magalir Urimai monthly grant under Vijay's TVK government?
+**₹2,500 per month** — significantly higher than the previous government's ₹1,000/month. The benefit goes directly to the bank accounts of women heads of household aged up to 60.
 
-### Does the new TN government scheme require Aadhaar?
-Yes. All Direct Benefit Transfer (DBT) schemes in Tamil Nadu require an Aadhaar-linked bank account. Ensure your Aadhaar is seeded with your bank account before applying.
+### Is the TVK Marriage Scheme portal live?
+As of May 2026, the official application portal for the Marriage Scheme (8g gold + silk saree) is being set up and is expected to launch within 100 days of government formation (by August 2026). Check [tn.gov.in](https://www.tn.gov.in/) for updates.
 
-### Where can I get help applying for TN government schemes?
-Visit your nearest **Common Service Centre (CSC)**, known locally as **e-Sevai centre**, or your **Block Development Office / Taluk Office** for assisted application. The TN helpline is **1100**.
+### Who is eligible for the ₹4,000/month graduate unemployment allowance?
+Unemployed degree holders aged **21 to 29 years** who are residents of Tamil Nadu. Diploma holders receive ₹2,500/month under a companion scheme. Application details will be notified on the TN e-Sevai portal.
 
-### Are there schemes specifically for SC/ST communities in Tamil Nadu?
-Yes. Tamil Nadu runs dedicated schemes through the Adi Dravidar and Tribal Welfare Department — scholarships (pre-matric, post-matric), housing under SC Housing Board, free coaching for competitive exams, and enhanced benefits under universal women welfare schemes. Visit [www.adi-dravidar.tn.gov.in](https://www.adi-dravidar.tn.gov.in/) for details.
+### What is the TVK health insurance coverage?
+**₹25 lakh per family per year** — available to every Tamil Nadu family regardless of income. This replaces the earlier ₹5 lakh limit under the CM Health Insurance scheme.
 
-### What is the new government's approach to farmer welfare in Tamil Nadu?
-The 2026 new government has committed to direct income support for small and marginal farmers, enhanced PMFBY coverage, and input subsidy schemes. Specific details are notified through the Agriculture Department at [www.tnau.ac.in](https://www.tnau.ac.in/) and [www.agriculture.tn.gov.in](https://www.agriculture.tn.gov.in/).
+### How do I register for TVK government schemes?
+The TVK government's **Mudhalvar Makkal Sevai Nanbar** programme deploys 5 lakh youth workers to register citizens for all schemes at their doorstep. You can also visit your nearest **e-Sevai centre** or apply online at [eservices.tn.gov.in](https://eservices.tn.gov.in/) once portals go live. Call **1100** for guidance.

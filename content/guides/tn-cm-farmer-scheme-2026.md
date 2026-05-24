@@ -1,154 +1,213 @@
 ---
-title: "Tamil Nadu CM Farmer Support Scheme 2026 — Benefits, Eligibility & Apply"
+title: "TVK Farmer Schemes 2026 — Loan Waiver, MSP ₹3,500 & Free Crop Insurance by CM Vijay"
 description: >-
-  Complete guide to the Tamil Nadu Chief Minister's Farmer Support Scheme 2026.
-  Direct income support for small and marginal farmers, crop insurance, input
-  subsidy, eligibility criteria, required documents, and how to apply.
+  Complete guide to CM Vijay TVK government farmer schemes 2026. 100% crop loan
+  waiver for ≤5 acres, paddy MSP ₹3,500/quintal, sugarcane ₹4,500/tonne, free
+  crop insurance, fishermen ₹20,000/month ban support and how to apply.
 category: Farmer Welfare
 keywords:
-  - tamil nadu farmer scheme 2026
-  - tn cm farmer support scheme 2026
-  - tamil nadu agriculture scheme 2026
-  - tn farmer income support 2026
-  - tamil nadu new government farmer scheme
-  - tn kisan yojana 2026
-  - tamil nadu crop insurance 2026
-  - tn farmer registration 2026
-  - how to apply tn farmer scheme
-  - tamil nadu small farmer scheme
-readingTime: 8 min
+  - tvk farmer scheme 2026
+  - vijay cm farmer loan waiver tamil nadu 2026
+  - tn paddy msp 3500 quintal 2026
+  - tamil nadu crop loan waiver tvk
+  - sugarcane msp 4500 tonne vijay government
+  - tvk fishermen scheme 20000 month
+  - tamil nadu free crop insurance 2026
+  - cm vijay farmer welfare scheme
+  - tvk agricultural labourer scheme
+  - tamilaga vettri kazhagam farmer policy
+readingTime: 10 min
 officialLinks:
   - 'https://www.agriculture.tn.gov.in/'
   - 'https://www.tn.gov.in/'
   - 'https://eservices.tn.gov.in/'
-  - 'https://pmfby.gov.in/'
 ---
 
-# Tamil Nadu CM Farmer Scheme 2026 — Benefits, Eligibility & How to Apply
+# TVK Farmer Schemes 2026 — Loan Waiver, MSP & Free Insurance by CM Vijay
 
-The Tamil Nadu new government (2026) has launched a comprehensive farmer support package — combining direct income assistance, enhanced crop insurance, and input subsidies for small and marginal farmers across the state.
+The TVK government led by **CM Vijay** has announced the most comprehensive farmer welfare package in Tamil Nadu's recent history. This guide covers every farmer-facing scheme — crop loan waiver, legal MSP, free crop insurance, fishermen support, weaver grants, and agricultural labourer income aid.
 
-> **Official Portal:** Agriculture Department, Tamil Nadu — [www.agriculture.tn.gov.in](https://www.agriculture.tn.gov.in/)
-
----
-
-## What is the TN CM Farmer Support Scheme 2026?
-
-The Chief Minister's Farmer Support Scheme 2026 is a state government programme providing direct financial assistance to registered cultivating farmers in Tamil Nadu. The scheme targets small and marginal farmers (land holding below 2 hectares / 5 acres) who form the backbone of Tamil Nadu's agricultural sector.
-
-**Implementing Department:** Department of Agriculture, Government of Tamil Nadu
+> CM Vijay was sworn in on **18 May 2026**. Most schemes are being notified through Government Orders within 100 days (by August 2026).
 
 ---
 
-## Key Benefits
+## 1. Crop Loan Waiver — 100% for Small Farmers
 
-| Component | Details |
-|-----------|---------|
-| **Direct Income Support** | Per-acre annual financial assistance via DBT |
-| **Crop Insurance** | Enhanced coverage under PMFBY with state top-up |
-| **Input Subsidy** | Subsidised seeds, fertilisers, and pesticides |
-| **Farm Equipment** | Access to subsidised agri-machinery through farm cooperatives |
-| **Irrigation Support** | Drip and sprinkler irrigation subsidies for water-scarce districts |
+The TVK government's biggest single announcement for the farming community:
 
----
+| Land Holding | Waiver |
+|-------------|--------|
+| **Up to 5 acres** | **100% waiver** on cooperative crop loans |
+| **Above 5 acres** | **50% waiver** on cooperative crop loans |
 
-## Eligibility Criteria
+**What loans are covered?**
+- Short-term crop loans taken from **cooperative banks and PACS** (Primary Agricultural Credit Societies)
+- Loans outstanding as of the date of the Government Order
 
-1. **Residence:** Must be a permanent resident of Tamil Nadu
-2. **Occupation:** Must be an active cultivating farmer (owns or leases agricultural land)
-3. **Land Holding:** Small/marginal farmers preferred (up to 2 hectares / 5 acres)
-4. **Registration:** Must be registered in the state farmers' database or hold a Kisan Credit Card
-5. **Land Records:** Must have valid patta/chitta in their name or valid tenancy agreement
+**What is NOT covered?**
+- Commercial bank agricultural loans (not in initial scope — check official G.O.)
+- Loans used for non-crop purposes
 
-### Who May Not Be Eligible?
-- Large farmers (land above state-specified threshold)
-- Farmers who are government employees
-- Farmers with income tax-paying status
+**How to benefit:**
+No separate application needed. The government will reconcile outstanding cooperative loan accounts directly. Check with your local **PACS (Primary Agricultural Credit Society)** or **District Central Cooperative Bank** for your loan waiver status.
 
 ---
 
-## Required Documents
+## 2. Paddy MSP — ₹3,500 per Quintal (State-Backed Legal MSP)
 
-- **Aadhaar Card**
-- **Patta / Chitta** (land ownership record from Revenue Department)
-- **Adangal** (cultivation record showing current crop)
-- **Bank Passbook** (Aadhaar-linked account)
-- **Farmer Identity Card** (if already registered)
-- **Ration Card**
-- **Mobile number** linked to Aadhaar
+| Crop | MSP | Mode |
+|------|-----|------|
+| Paddy | **₹3,500/quintal** | State government procurement guarantee |
 
-For tenancy farmers:
-- **Tenancy Agreement / Lease Document**
-- Landowner's consent/patta copy
+This is a **legally enforceable MSP** backed by state law — farmers can demand ₹3,500/quintal from any buyer. The state government's procurement agencies (TNCSC — Tamil Nadu Civil Supplies Corporation) will procure at this price if private market prices fall below it.
 
----
-
-## How to Apply
-
-### Online
-1. Visit [eservices.tn.gov.in](https://eservices.tn.gov.in/) or the Agriculture Department portal
-2. Register / log in with Aadhaar-linked mobile number
-3. Select "Farmer Welfare Schemes" → "CM Farmer Support Scheme 2026"
-4. Fill application with land and personal details
-5. Upload required documents
-6. Submit and note reference number
-
-### Offline
-1. Visit your nearest **Agricultural Extension Office** (block-level AEO office)
-2. Contact your **Village Administrative Officer (VAO)** for land records assistance
-3. Fill the prescribed application form with land details
-4. Submit with photocopies of all required documents
-5. Get acknowledgement slip for tracking
+**How to sell at MSP:**
+1. Register as a farmer at your nearest **TNCSC procurement centre** or **Agriculture Extension Officer (AEO) office**
+2. Carry Aadhaar, land records (patta), and bank passbook
+3. Bring produce after harvest — procurement happens at designated centres during the harvest season
 
 ---
 
-## Crop Insurance Under PMFBY — Tamil Nadu 2026
+## 3. Sugarcane MSP — ₹4,500 per Tonne
 
-Tamil Nadu participates in the **Pradhan Mantri Fasal Bima Yojana (PMFBY)**. The new government has committed to enhanced state co-contribution, reducing the effective premium paid by farmers.
+| Crop | MSP |
+|------|-----|
+| Sugarcane | **₹4,500/tonne** |
 
-**Key Details:**
-- **Kharif Crops:** 2% of sum insured as farmer premium
-- **Rabi Crops:** 1.5% of sum insured as farmer premium
-- **Commercial/Horticultural Crops:** 5% of sum insured
-- State government pays the remaining premium
-- Claims settled within 60–90 days of crop loss assessment
+Enforced through the **Fair and Remunerative Price (FRP)** mechanism mandated by the state. Sugar mills must pay at least ₹4,500/tonne for cane supplied by Tamil Nadu farmers.
 
-**Enrol through:** Your local Primary Agricultural Cooperative Bank (PACB), bank branch, or CSC centre before the notified cut-off date.
+**If mills do not pay:** Farmers can file a complaint at the **Sugar Development Authority, Tamil Nadu** or through the district Collector's office.
 
 ---
 
-## Uzhavar Sandhai (Farmers' Market) — Sell Directly to Consumers
+## 4. Crop Insurance — 100% Premium Paid by State
 
-The **Uzhavar Sandhai** programme allows farmers to sell vegetables and fruits directly to consumers at regulated market stalls — eliminating middlemen and improving price realisation.
+Under TVK, farmers growing essential food crops pay **zero premium** for crop insurance. The state government covers the entire premium contribution.
 
-- Stalls available at 200+ locations across Tamil Nadu
-- Farmers sell at MRP prices set by the government
-- No stall fee for farmers
-- Register through the nearest HOPCOMS / Agriculture Marketing Department office
+| Who Pays | Amount |
+|----------|--------|
+| **State Government** | 100% of crop insurance premium |
+| **Farmer** | ₹0 (zero) |
 
-📖 **Detailed guide:** [TN Uzhavar Sandhai Farmers Market](/guide/tn-uzhavar-sandhai-farmers-market)
+**Crops covered:** Paddy, millets, oilseeds, pulses, and other notified food crops
+
+**How to enrol:**
+- Register at your nearest **Primary Agricultural Cooperative Bank (PACB)** or through a **Common Service Centre**
+- Enrolment deadline: Before the season's notified cut-off date (Kharif: June-July; Rabi: October-November)
+- Claims settled via PMFBY / state crop insurance mechanism
+
+---
+
+## 5. Fishermen Fishing Ban Support — ₹20,000/Month
+
+During the **annual fishing ban (typically April to June)** along the Tamil Nadu coast, all registered fishermen receive:
+
+| Support | Amount |
+|---------|--------|
+| **Monthly income replacement** | ₹20,000/month during ban period |
+| **Mode** | DBT to Aadhaar-linked bank account |
+
+**Eligibility:**
+- Registered traditional or mechanised fishermen in Tamil Nadu
+- Active fishing licence holder
+
+**How to register:**
+Contact the nearest **Fisheries Department Office** or **Fishermen Cooperative Society**. Carry Aadhaar, fishing licence, and bank passbook.
+
+---
+
+## 6. Fishermen Accident Insurance — ₹25 Lakh
+
+All registered fishermen in Tamil Nadu are covered with **₹25 lakh accident insurance** — one of the highest in the country.
+
+| Coverage | ₹25 lakh |
+|----------|---------|
+| Permanent disability | ₹25 lakh |
+| Accidental death | ₹25 lakh |
+| Medical treatment (accident) | Up to specified limit |
+
+**How to claim:**
+File claim through your **Fishermen Cooperative Society** or the District Fisheries Officer within the specified time after the accident.
+
+---
+
+## 7. Landless Agricultural Labourers — ₹10,000/Year
+
+Agricultural workers who do not own land receive **₹10,000 per year** as direct income support via DBT.
+
+| Benefit | ₹10,000/year |
+|---------|-------------|
+| Mode | DBT to bank account |
+| Frequency | Annual (expected quarterly installments) |
+| Target | Agricultural labourers without land ownership |
+
+**Documents needed:**
+- Aadhaar card
+- Income certificate (below poverty line or agricultural labourer certificate)
+- Bank passbook (Aadhaar-linked)
+
+---
+
+## 8. Handloom & Powerloom Weaver Support
+
+| Support | Amount |
+|---------|--------|
+| Annual grant | **₹30,000/year** per weaver family |
+| Free electricity (handloom) | **500 units/month** |
+| Free electricity (powerloom) | **1,500 units/month** |
+
+**Eligibility:** Registered handloom or powerloom weaver families in Tamil Nadu
+
+**How to register:** Contact the **Tamil Nadu Handloom and Textiles Department** or your nearest weaver cooperative society.
+
+---
+
+## 9. Uzhavar Sandhai 2.0 — Expanded Farmers' Markets
+
+The Uzhavar Sandhai (farmers' direct market) network is being modernised and expanded to **180+ locations** with:
+- Solar-powered cold storage facilities
+- Digital payment infrastructure
+- Improved market space and hygiene
+
+Farmers can sell vegetables, fruits, and grains directly to consumers at government-regulated prices without middlemen.
+
+---
+
+## Summary — All TVK Farmer Schemes at a Glance
+
+| Scheme | Benefit |
+|--------|---------|
+| Crop Loan Waiver | 100% (≤5 acres), 50% (>5 acres) — cooperative loans |
+| Paddy MSP | ₹3,500/quintal — state guaranteed |
+| Sugarcane MSP | ₹4,500/tonne — state enforced |
+| Crop Insurance | Zero premium — fully state-paid |
+| Fishermen Ban Support | ₹20,000/month during annual ban |
+| Fishermen Insurance | ₹25 lakh accident cover |
+| Landless Labour Aid | ₹10,000/year |
+| Weaver Grant | ₹30,000/year + free electricity |
+| Uzhavar Sandhai 2.0 | 180+ modernised markets |
 
 ---
 
 ## Frequently Asked Questions
 
-### What is the per-acre income support amount for Tamil Nadu farmers in 2026?
-The exact per-acre amount is as per official notification from the TN Agriculture Department. Check [www.agriculture.tn.gov.in](https://www.agriculture.tn.gov.in/) or the state budget announcement for the confirmed figure.
+### When will the TVK crop loan waiver be implemented?
+The Government Order is expected within 100 days of government formation (by August 2026). The waiver will be processed directly through cooperative banks. Check with your PACS or District Cooperative Bank for updates.
 
-### I am a tenant farmer (not the patta owner) — can I apply?
-Yes. Tenant/lease farmers who are actually cultivating the land are eligible. You will need a valid tenancy/lease agreement and the landowner's patta copy to support your application.
+### Does the waiver apply to SBI / commercial bank loans?
+The announced waiver specifically covers **cooperative bank crop loans**. Commercial bank agricultural loans are not included in the initial announcement. Official G.O. will specify the exact scope.
 
-### How is the income support transferred?
-Directly to your Aadhaar-linked bank account via DBT. Ensure your Aadhaar is seeded with your bank account before applying. Check with your bank branch if you're unsure.
+### Is the ₹3,500/quintal paddy MSP higher than the central government MSP?
+The central MSP for common paddy is currently around ₹2,300/quintal. The TVK government's state MSP of ₹3,500/quintal is significantly higher and will be enforced through state procurement agencies if market prices fall below this level.
 
-### Is there a deadline to apply?
-Deadlines are announced by the Agriculture Department before each agricultural season (Kharif: June-July; Rabi: October-November). Watch local agricultural office notices or [agriculture.tn.gov.in](https://www.agriculture.tn.gov.in/) for deadlines.
+### How do fishermen register for the ₹20,000/month ban support?
+Visit the nearest Fisheries Department office or Fishermen Cooperative Society. Carry your fishing licence, Aadhaar card, and bank passbook (Aadhaar-linked). Payments will be credited during the ban months.
 
-### Can I claim both PM-Kisan and the TN state farmer scheme?
-Yes. PM-Kisan (central scheme) and TN state farmer scheme are separate programmes. Eligible farmers can receive benefits from both simultaneously.
+### Can tenant/lease farmers benefit from the crop loan waiver?
+The waiver targets cooperative loan holders — mostly patta-owning farmers. Tenant farmers who have taken loans in their name through cooperatives may benefit. Await the official G.O. for specific provisions on lease farmers.
 
-### My patta is in my father's/husband's name — can I still apply?
-If you are the actual cultivator, you may apply under the tenant/cultivator category with a supporting affidavit or declaration. The state scheme aims to reach actual cultivators regardless of patta ownership — check the official notification for specific provisions.
-
-### Where can I get help applying?
-Contact your **Agricultural Extension Officer (AEO)** at the block level, or visit the nearest **Common Service Centre (CSC)** for assisted online application. The TN helpline is **1100**.
+### Where can I get help or updates on TVK farmer schemes?
+- **Agriculture Helpline:** 1800-425-1551 (Tamil Nadu Agriculture Department)
+- **State Helpline:** 1100
+- **Official Portal:** [agriculture.tn.gov.in](https://www.agriculture.tn.gov.in/)
+- **TN Government Portal:** [tn.gov.in](https://www.tn.gov.in/)
