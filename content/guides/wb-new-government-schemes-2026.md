@@ -51,12 +51,12 @@ Six cabinet decisions announced at the very first cabinet meeting:
 
 ### 1. Annapurna Bhandar — ₹3,000/Month (Flagship)
 
-The BJP government's new women income support scheme — **replacing the TMC's Lakshmir Bhandar** (₹500–₹1,200/month) with a significantly higher ₹3,000/month.
+The BJP government's new women income support scheme — **replacing the TMC's Lakshmir Bhandar** (₹1,500/₹1,700/month as of May 2026) with a higher uniform ₹3,000/month for all categories.
 
 | Detail | Info |
 |--------|------|
 | **Monthly Benefit** | **₹3,000 via DBT** |
-| **Previous Scheme** | Lakshmir Bhandar (TMC) was ₹1,000 (Gen) / ₹1,200 (SC/ST) |
+| **Previous Scheme** | Lakshmir Bhandar (TMC) — ₹1,500 (Gen) / ₹1,700 (SC/ST) at time of BJP takeover* |
 | **Launch Date** | **1 June 2026** |
 | **Official Notification** | Notification No. 2411-WCD/O/AB-4/2026, issued 19 May 2026 |
 | **Eligibility** | Women 25–60 years, permanent WB resident, non-taxpayer, non-govt employee |
@@ -276,7 +276,7 @@ The BJP government may continue West Bengal's Duare Sarkar (government at doorst
 Suvendu Adhikari (BJP) was sworn in as West Bengal's first BJP Chief Minister on **9 May 2026** at Brigade Parade Ground, Kolkata. PM Modi attended the ceremony.
 
 ### What replaced Lakshmir Bhandar in West Bengal 2026?
-The BJP government replaced TMC's Lakshmir Bhandar (₹1,000–₹1,200/month) with **Annapurna Bhandar**, which pays **₹3,000/month** to eligible women. Launch date: **1 June 2026**.
+The BJP government replaced TMC's Lakshmir Bhandar (₹1,500/₹1,700/month — raised by TMC from ₹1,000/₹1,200 in February 2026) with **Annapurna Bhandar**, which pays a uniform **₹3,000/month** to all eligible women. Launch date: **1 June 2026**. Existing Lakshmir Bhandar beneficiaries are **automatically migrated** — no reapplication needed.
 
 ### Is Ayushman Bharat now available in West Bengal?
 Yes — for the **first time ever**. The TMC government had rejected Ayushman Bharat since 2018. The BJP cabinet approved it on **11 May 2026** (Day 1). WB families with SECC eligibility can now enrol for ₹5 lakh/year health coverage.

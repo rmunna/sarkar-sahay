@@ -71,7 +71,7 @@ A new provision from 2025 allows **2 women per household** to receive Orunodoi (
 | Criterion | Details |
 |-----------|---------|
 | **Residence** | Permanent resident of Assam |
-| **Age** | 18 years to 60 years |
+| **Age** | **16 years to 59 years** |
 | **Gender** | Women (including widows, divorcees, single women) |
 | **Income** | Family annual income below ₹2 lakh |
 | **Bank account** | Must have Aadhaar-linked bank account |
@@ -148,7 +148,7 @@ Yes — existing verified Orunodoi beneficiaries should automatically receive th
 Yes — since 2025, **2 eligible women from the same household** can each receive ₹1,250/month (total ₹2,500/month per household). This policy continues under the second term.
 
 ### What is the age limit for Orunodoi?
-Women aged **18 to 60 years**. Above 60 years is not covered under Orunodoi (senior citizens may be eligible for separate pension schemes).
+Women aged **16 to 59 years**. Above 59 years is not covered under Orunodoi (senior citizens may be eligible for separate pension schemes).
 
 ### Can a woman who works in the private sector apply?
 Yes — private sector employees are generally eligible as long as the family does not have a **government employee** and does not pay income tax. Check your specific income and asset situation against the eligibility criteria.

@@ -1,22 +1,25 @@
 ---
-title: "Assam Arundhati Gold Scheme – Free 10g Gold for Brides | Apply Online"
-description: "Assam Arundhati Gold Scheme provides 10g gold (1 tola) to brides. Check eligibility, required documents, and application steps."
+title: "Assam Arundhati Gold Scheme – ₹40,000 for Brides | Eligibility & Apply"
+description: "Assam Arundhati Gold Scheme provides ₹40,000 financial assistance to brides for gold purchase at marriage. Eligibility, documents, application via arundhati.nic.in — Special Marriage Act registration required."
 category: "State Schemes"
-keywords: ["Assam Arundhati Gold Scheme", "Arundhati scheme 2025", "free gold for brides Assam", "Assam marriage scheme", "Arundhati gold scheme eligibility", "Assam bride gold scheme apply"]
-lastUpdated: "2025-02-17"
+keywords: ["Assam Arundhati Gold Scheme", "Arundhati scheme 2026", "40000 gold scheme Assam", "Assam marriage scheme", "Arundhati gold scheme eligibility", "Assam bride gold scheme apply arundhati.nic.in"]
+lastUpdated: "2026-05-24"
 readingTime: "7 min"
 officialLinks:
-  - "https://finance.assam.gov.in"
+  - "https://arundhati.nic.in/"
+  - "https://igr.assam.gov.in/schemes/arundhati-gold-scheme"
   - "https://assam.gov.in"
 ---
 
-# Assam Arundhati Gold Scheme 2025 – Complete Guide
+# Assam Arundhati Gold Scheme – ₹40,000 for Brides
 
 ## What is the Arundhati Gold Scheme?
 
-The Arundhati Gold Scheme is a welfare initiative by the Government of Assam launched in 2020. Under this scheme, the government provides **10 grams of gold (1 tola)** or its equivalent cash value to brides at the time of their marriage. The scheme aims to reduce the financial burden on families during weddings and discourage dowry practices.
+The Arundhati Gold Scheme is a welfare initiative by the Government of Assam launched on 1 January 2020. Under this scheme, the government provides **₹40,000 financial assistance** to brides for purchasing gold at the time of their marriage. The scheme aims to reduce the financial burden on families and discourage dowry practices.
 
-The benefit is provided in the form of **cash equivalent** of 10 grams of gold, transferred directly to the bride's bank account. The amount varies based on the prevailing gold rate at the time of marriage registration.
+> **Official portal:** [arundhati.nic.in](https://arundhati.nic.in/) — Track your application here. The scheme is administered by the Inspector General of Registration, Assam.
+
+The amount started at ₹30,000 and was increased to **₹40,000** in view of rising gold prices. It is a **fixed cash amount** (not the market-rate value of 10 grams of gold), transferred directly to the bride's bank account via DBT.
 
 > **Disclaimer:** CitizenNest is an independent informational platform and is not affiliated with any government body. Verify all details with local authorities before applying.
 
@@ -26,7 +29,7 @@ The bride must meet **all** the following conditions:
 
 - **Age:** Bride must be at least **18 years old** and groom at least **21 years old** at the time of marriage
 - **Resident:** Bride must be a permanent resident of Assam
-- **Registration:** The marriage must be **registered** under the Special Marriage Act or relevant personal law
+- **Registration:** The marriage must be **registered under the Special Marriage Act, 1954** — this is mandatory. Hindu Marriage Act registration alone does not qualify.
 - **First Marriage:** The scheme applies to the bride's **first marriage** only
 - **Family Income:** Annual family income of the bride should not exceed **₹5 lakh**
 - **Education:** The bride must have passed at least **Class 10 (HSLC)** from a recognized board
@@ -55,43 +58,36 @@ The bride must meet **all** the following conditions:
 
 ## How to Apply – Step-by-Step
 
-### Step 1: Register Your Marriage
-Get your marriage officially registered at the office of the **Sub-Registrar** or **District Registrar** in your area. You need the marriage registration certificate to apply.
+### Step 1: Register Your Marriage Under the Special Marriage Act
+Go to the **Sub-Registrar / Marriage Officer** office in your district and register your marriage under the **Special Marriage Act, 1954**. A list of Marriage Officers is available at [igr.assam.gov.in](https://igr.assam.gov.in/schemes/arundhati-gold-scheme).
 
-### Step 2: Collect or Download Application Form
-Obtain the Arundhati scheme application form from:
-- Your local **Deputy Commissioner's Office**
-- **Block Development Office (BDO)**
-- Or download from the [Assam government portal](https://assam.gov.in)
+> **Critical:** You must apply for the Arundhati benefit **on the same day** you apply for marriage registration. Applications filed after the registration day are not accepted.
+
+### Step 2: Apply on the Same Day at the Marriage Officer's Office
+On the day you register your marriage, tell the Marriage Officer that you want to apply for the Arundhati Gold Scheme. The application is filed simultaneously with the marriage registration.
 
 ### Step 3: Fill the Application Form
-Provide complete details including:
-- Bride's full name, age, Aadhaar number
-- Groom's full name and age
-- Marriage date and registration number
-- Bank account details (bride's account)
-- Family income details
+Provide all required details. Forms are available at the Marriage Officer's office or at [arundhati.nic.in](https://arundhati.nic.in/).
 
 ### Step 4: Attach Required Documents
 Attach self-attested photocopies of all documents listed above.
 
-### Step 5: Submit Application
-Submit the completed form with documents to the **Deputy Commissioner's Office** or designated office in your district.
+### Step 5: Verification by District Authority
+The Inspector General of Registration's office will verify your documents, marriage registration, and eligibility.
 
-### Step 6: Verification
-The district administration will verify your documents, marriage registration, and eligibility criteria.
-
-### Step 7: Receive Benefit
-Upon approval, the **cash equivalent of 10 grams of gold** (based on prevailing market rates) is transferred to the bride's bank account via DBT.
+### Step 6: Receive ₹40,000 via DBT
+Upon approval, **₹40,000** is transferred to the bride's Aadhaar-linked bank account. Track your application at [arundhati.nic.in/track.php](https://arundhati.nic.in/track.php).
 
 ## Benefit Amount
 
 | Detail | Information |
 |--------|-------------|
-| Benefit | Cash equivalent of 10 grams (1 tola) gold |
-| Approximate Value | ₹55,000–₹75,000 (varies with gold prices) |
+| **Benefit** | **₹40,000 (fixed amount)** |
+| Original amount at launch (2020) | ₹30,000 (later increased) |
 | Payment Mode | Direct Bank Transfer (DBT) |
 | Payment To | Bride's bank account |
+
+> The ₹40,000 is a **fixed cash transfer** — it does not vary with gold prices. It is meant to be used for gold purchase but is not restricted to it.
 
 ## Processing Time
 
@@ -110,7 +106,7 @@ Upon approval, the **cash equivalent of 10 grams of gold** (based on prevailing 
 ## Frequently Asked Questions (FAQs)
 
 ### Q1: Do I get actual gold or cash under the Arundhati scheme?
-**A:** You receive the **cash equivalent** of 10 grams of gold, not physical gold. The amount is based on the prevailing gold rate and is transferred to the bride's bank account.
+**A:** You receive **₹40,000 cash**, transferred directly to the bride's bank account. It is a fixed amount (not tied to market gold prices) that can be used to purchase gold.
 
 ### Q2: What is the income limit for the Arundhati Gold Scheme?
 **A:** The bride's family annual income must not exceed **₹5 lakh** from all sources.

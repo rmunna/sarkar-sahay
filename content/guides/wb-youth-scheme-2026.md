@@ -43,7 +43,11 @@ The BJP's flagship youth unemployment allowance for West Bengal:
 | **Residence** | West Bengal resident |
 | **Status** | Unemployed (no regular salaried job) |
 | **Registration** | Must register at District Employment Exchange |
-| **Portal** | Announced — portal launch pending (expected within 100 days) |
+| **Official notification** | **NOT YET ISSUED** as of May 2026 |
+| **Expected registration** | June–August 2026 |
+| **Expected first payment** | September 2026 |
+
+> **Warning:** Multiple fake websites claim to offer Yuva Shakti Bharosa Card registration. **No official portal has been opened as of May 2026.** Only apply when the official portal is announced at [wb.gov.in](https://wb.gov.in/) or [employment.wb.gov.in](https://employment.wb.gov.in/).
 
 **How it works:**
 - Register at your **District Employment Exchange** with educational certificates
@@ -146,7 +150,7 @@ Employment Exchange registration is required for Yuva Shakti Bharosa Card and ma
 
 | Scheme | Age | Qualification | Key Condition |
 |--------|-----|--------------|--------------|
-| Yuva Shakti Bharosa Card | 18+ | Any | Unemployed, Employment Exchange registered |
+| Yuva Shakti Bharosa Card | 18+ | Any | Unemployed, Employment Exchange registered — **not yet officially launched** |
 | Govt Job Age Relaxation | Up to 41 (Gen) | As per post | All WB govt exam applicants |
 | Swami Vivekananda Scholarship | School/College | Class 11 to PG | Income < ₹2.5L/year |
 | NATS Apprenticeship | 16–25 | Class 8 / ITI / Diploma | — |
@@ -170,7 +174,7 @@ For Yuva Shakti Bharosa Card:
 ## Frequently Asked Questions
 
 ### When will the Yuva Shakti Bharosa Card portal go live?
-As of May 2026, the portal has been announced but is not yet live. Expected within the first 100 days of the BJP government (by August 2026). Watch [wb.gov.in](https://wb.gov.in/) and [employment.wb.gov.in](https://employment.wb.gov.in/) for updates.
+**No official notification has been issued as of May 2026.** The scheme is a BJP election promise. Registration is expected to open around June–August 2026, with first ₹3,000 payments expected by September 2026. Watch only [wb.gov.in](https://wb.gov.in/) and [employment.wb.gov.in](https://employment.wb.gov.in/) for the official launch. Beware of fake registration websites — do NOT enter your Aadhaar or bank details on any site claiming to offer early registration.
 
 ### Who benefits from the 5-year age relaxation?
 Every person who has been waiting to appear for West Bengal government exams and was previously over the age limit. If you were 37 last year and couldn't apply for WBPSC / WBSSC, you can now apply under the new 41-year upper limit.

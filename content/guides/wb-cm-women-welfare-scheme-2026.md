@@ -39,10 +39,12 @@ Annapurna Bhandar (literally "storehouse of abundance") is the West Bengal BJP g
 
 | Government | Scheme | Monthly Amount |
 |------------|--------|---------------|
-| TMC (2011–2026) | Lakshmir Bhandar | ₹1,000 (Gen) / ₹1,200 (SC/ST) |
+| TMC (2011–2026) | Lakshmir Bhandar | ₹1,500 (Gen) / ₹1,700 (SC/ST) as of May 2026* |
 | **BJP (2026–)** | **Annapurna Bhandar** | **₹3,000** |
 
-The BJP's Annapurna Bhandar is **₹3,000 for all categories** — the SC/ST differential is removed; everyone gets the same higher amount.
+> *Lakshmir Bhandar started at ₹1,000 (Gen) / ₹1,200 (SC/ST) in 2021. TMC increased it to ₹1,500/₹1,700 in February 2026 shortly before elections.
+
+The BJP's Annapurna Bhandar is **₹3,000 for all categories** — the SC/ST differential is removed; everyone gets the same higher amount. Existing Lakshmir Bhandar beneficiaries are **automatically migrated** — no fresh application needed.
 
 ---
 

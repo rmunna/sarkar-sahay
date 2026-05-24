@@ -79,12 +79,14 @@ Support for 40 lakh "Lakhpati Baideos" (women earning ₹1 lakh/year through own
 
 ### 3. Arundhati Gold Scheme (Continuing)
 
-10 grams of gold (or cash equivalent ~₹55,000–60,000) for brides from economically weaker families:
+**₹40,000 cash** (for gold purchase) to brides from economically weaker families:
 
-- Marriage must be **registered** under the Special Marriage Act or Hindu Marriage Act
+- Marriage must be **registered under the Special Marriage Act, 1954** — mandatory (Hindu Marriage Act registration alone does not qualify)
+- Both bride and groom must have passed **HSLC (Class 10)**
 - Bride's family income below ₹5 lakh/year
-- Bride 18+, groom 21+
-- Apply through Deputy Commissioner's office
+- Bride 18+, groom 21+; first marriage only
+- Apply **on the same day** as marriage registration at the Marriage Officer's office
+- Track application at [arundhati.nic.in](https://arundhati.nic.in/)
 
 📖 **Detailed guide:** [Assam Arundhati Gold Scheme](/guide/assam-arundhati-gold-scheme)
 
@@ -98,20 +100,22 @@ Women-run community canteens in every district headquarters providing subsidised
 
 ## SECTOR 2 — Youth & Employment
 
-### 5. CM Jibon Prerana Scheme — ₹2,500/Month (Already Live!)
+### 5. CM Jibon Prerana Scheme — ₹2,500/Month (Paying — Application Window Closed)
 
-This is **already operational** — launched in November 2025 by CM Himanta before elections, with DBT payments flowing from February 2026:
+Launched 3 November 2025 by the Skill, Employment & Entrepreneurship Department. DBT payments running since February 2026:
 
 | Detail | Info |
 |--------|------|
 | **Monthly Amount** | **₹2,500/month** |
 | **Duration** | 12 months |
-| **Eligibility** | Unemployed fresh graduates (2025 batch — Class 12 / degree passouts) |
+| **Eligible batch** | **2025 pass-outs only** — from government/public institutions in Assam |
+| **Private institutions** | NOT eligible — open universities and private colleges excluded |
+| **Excluded** | Children of govt employees (except Class IV), children of MLAs/ministers, parents earning >₹10 lakh/year |
 | **Mode** | DBT to Aadhaar-linked bank account |
-| **Status** | **Live** — DBT flowing since February 2026 |
-| **Portal** | jibon-prerana.assam.gov.in |
+| **Application status** | **Closed — last date was 30 November 2025** |
+| **Payment status** | Live — DBT flowing since February 2026 |
 
-This continues under the second term. If you are a 2025 batch fresh graduate and haven't applied, apply at [jibon-prerana.assam.gov.in](https://jibon-prerana.assam.gov.in/).
+> The application window has closed. If you applied before November 30, 2025, payments continue. A new round for future batches has not yet been announced.
 
 📖 **Detailed guide:** [Assam Youth Employment Scheme 2026](/guide/assam-youth-employment-scheme-2026)
 
@@ -266,7 +270,7 @@ Third phase of Assam's landmark land reform initiative:
 | Tea worker support | ₹75,000 + land patta | Tea garden workers | Announced |
 | Badh Mukt Assam | ₹18,000 crore (2 years) | All flood-affected districts | Announced |
 | UCC Bill | Legal rights | All non-tribal citizens | Approved by cabinet |
-| Arundhati Gold | 10g gold | Brides from poor families | Continuing |
+| Arundhati Gold | ₹40,000 cash | Brides — income <₹5L, HSLC passed, Special Marriage Act | Continuing |
 
 ---
 
@@ -302,7 +306,7 @@ CM Himanta Biswa Sarma was sworn in for his second consecutive term on **12 May 
 ₹3,000/month is the **manifesto promise** — the current Orunodoi payment is still **₹1,250/month**. The enhancement has not yet been officially notified. The government has said it will be "phased in." Watch [orunodoi.assam.gov.in](https://orunodoi.assam.gov.in/) for the official enhancement date.
 
 ### Is CM Jibon Prerana scheme still active in 2026?
-Yes — CM Jibon Prerana (₹2,500/month for 12 months for fresh 2025 batch graduates) was **launched before elections in November 2025** and DBT payments started in February 2026. It continues under the second term. Apply at [jibon-prerana.assam.gov.in](https://jibon-prerana.assam.gov.in/) if you are a 2025 batch passout and haven't yet enrolled.
+Payments are still active for approved applicants. However, **the application window closed on 30 November 2025**. The scheme was for **2025 batch pass-outs only** from government/public institutions. If you applied on time and were approved, your ₹2,500/month DBT continues through the 12-month period. New applications from later batches have not been announced under the second term yet.
 
 ### What is Badh Mukt Assam?
 "Flood-Free Assam" is the BJP government's ₹18,000 crore commitment over the first 2 years for embankment strengthening, anti-erosion work, and flood-resilient infrastructure. Assam suffers massive annual flood damage in the Brahmaputra and Barak valleys — this is the most ambitious flood management effort in the state's history.

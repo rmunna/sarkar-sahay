@@ -32,33 +32,33 @@ Under **CM Himanta Biswa Sarma's second term**, Assam has a multi-layered youth 
 
 ---
 
-## 1. CM Jibon Prerana Scheme — ₹2,500/Month (ALREADY LIVE)
+## 1. CM Jibon Prerana Scheme — ₹2,500/Month (Paying; Applications Closed)
 
-This is the most important Assam youth scheme — it is **already operational**, not a future promise:
+Launched 3 November 2025 by the Skill, Employment & Entrepreneurship Department. DBT payments running since February 2026:
 
 | Detail | Info |
 |--------|------|
 | **Monthly Amount** | **₹2,500/month** |
 | **Duration** | 12 months |
-| **Launched** | November 2025 (pre-election launch) |
+| **Launched** | 3 November 2025 |
 | **DBT Started** | February 2026 |
-| **Status** | **LIVE — payments flowing** |
-| **Eligibility** | Unemployed fresh graduates — primarily 2025 batch passouts |
-| **Portal** | [jibon-prerana.assam.gov.in](https://jibon-prerana.assam.gov.in/) |
+| **Application status** | **CLOSED — last date was 30 November 2025** |
+| **Payment status** | Live — DBT flowing for approved applicants |
+| **Eligible batch** | 2025 pass-outs from Assam government/public institutions only |
 
-**Who is eligible?**
-- Class 12 passouts or degree graduates from 2025 batch
+**Who was eligible?**
+- 2025 batch fresh graduates (Class 12 or degree) from **government or public institutions in Assam**
+- **Private college and open university graduates were NOT eligible**
 - Currently unemployed (no regular salaried job)
-- Assam resident with Aadhaar-linked bank account
-- Must register at District Employment Exchange
+- Assam permanent resident
 
-**How to apply:**
-1. Visit [jibon-prerana.assam.gov.in](https://jibon-prerana.assam.gov.in/)
-2. Register with Aadhaar-linked mobile number
-3. Upload mark sheets, Aadhaar, bank passbook, Employment Exchange card
-4. Submit — ₹2,500/month credited to bank account within 30 days of approval
+**Who was excluded:**
+- Children of government employees (except Class IV)
+- Children of MLAs, ministers, or government contractors
+- Graduates from private institutions or open universities
+- Applicants whose parents earn over ₹10 lakh/year
 
-> If you are a 2025 fresh graduate and have not yet enrolled — **apply immediately**. The scheme pays for 12 months from the date of approval.
+> **Application window closed 30 November 2025.** If you applied on time and were approved, your ₹2,500/month DBT continues for the 12-month period. A new round for 2026 batch graduates has not yet been announced under the second term.
 
 ---
 
@@ -201,10 +201,10 @@ Registration at the District Employment Exchange is required for Jibon Prerana a
 ## Frequently Asked Questions
 
 ### Is CM Jibon Prerana open to apply right now?
-**Yes** — CM Jibon Prerana is live. DBT payments have been flowing since February 2026. If you are a 2025 batch passout who hasn't applied yet, apply immediately at [jibon-prerana.assam.gov.in](https://jibon-prerana.assam.gov.in/). The 12-month clock starts from your approval date.
+**No** — the application window closed on **30 November 2025**. The scheme was open only for 2025 batch pass-outs from government/public institutions in Assam. If you applied on time, payments continue. A new round for 2026 batch graduates has not been announced yet. Watch [assam.gov.in](https://assam.gov.in/) for future notifications.
 
-### What qualifications does CM Jibon Prerana require?
-It targets **fresh graduates of the 2025 batch** — this includes Class 12 passouts and degree graduates who completed their exams in 2025. You must be currently unemployed (no regular salaried job) and an Assam resident.
+### What qualifications did CM Jibon Prerana require?
+It targeted **2025 batch fresh graduates** from Assam **government or public institutions only**. Private college and open university graduates were excluded. Applicants had to be unemployed Assam residents. Children of government employees (except Class IV), MLAs, ministers, or parents earning >₹10 lakh/year were not eligible.
 
 ### How is CM Atmanirbhar 2.0 different from SVAYEM?
 SVAYEM gives a fixed ₹50,000 non-refundable grant for any micro-enterprise. CM Atmanirbhar 2.0 goes up to **₹5 lakh** for larger startups, targeting more significant business proposals. Both require a project proposal and district-level committee approval.
