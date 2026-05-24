@@ -1,12 +1,15 @@
 /**
- * Generate comprehensive district court data for all ~736 Indian district courts.
+ * Generate comprehensive district court data for all ~739 Indian district courts.
  * Run: npx tsx scripts/generate-district-courts.ts
  *
  * Output: data/court/district-courts.json
  *
- * dist_code is included only where verified (16 existing courts).
- * All other courts use state-level eCourts fallback URL — CNR and
- * party-name search still work perfectly at state level.
+ * All courts use state-level eCourts fallback URLs (no dist_code) — dist_codes
+ * require live AJAX session tokens to verify, so they are intentionally omitted.
+ * CNR and party-name search still work perfectly at state level.
+ *
+ * eCourts state_codes verified from:
+ * https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index
  */
 
 import * as fs from "fs";
@@ -60,7 +63,6 @@ type D = string | {
   city?: string;
   slug?: string;
   courtName?: string;
-  distCode?: string;
   address?: string;
   description?: string;
   phone?: string;
@@ -78,12 +80,10 @@ function make(state: State, d: D): CourtRecord {
   const isObj = typeof d === "object";
   const dname = isObj ? d.name : d;
   const city = (isObj && d.city) ? d.city : dname;
-  const distCode = isObj ? d.distCode : undefined;
   const slug = (isObj && d.slug) ? d.slug : `${slugify(dname)}-district-court`;
   const courtName = (isObj && d.courtName) ? d.courtName : `${dname} District Court`;
-  const caseStatusUrl = distCode
-    ? `https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=${state.ec}&dist_code=${distCode}`
-    : `https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=${state.ec}`;
+  // State-level fallback — dist_codes require live AJAX verification per state
+  const caseStatusUrl = `https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=${state.ec}`;
   const website = `https://districts.ecourts.gov.in/${slugify(state.name)}`;
   return {
     slug,
@@ -94,10 +94,9 @@ function make(state: State, d: D): CourtRecord {
     stateSlug: state.slug,
     city,
     address: (isObj && d.address) || `District Court, ${city}, ${state.name}`,
-    website: (isObj && d.address) ? website : website,
+    website,
     caseStatusUrl,
     ecourtsStateCode: state.ec,
-    ...(distCode ? { ecourtsDistCode: distCode } : {}),
     cnrStateCode: state.cnr,
     caseTypes: CASE_TYPES,
     description: (isObj && d.description) || `${courtName} handles civil and criminal cases for ${dname} district in ${state.name}.`,
@@ -108,17 +107,17 @@ function make(state: State, d: D): CourtRecord {
 // ─── State definitions ────────────────────────────────────────────────────────
 
 const STATES: State[] = [
-  // ── Andaman & Nicobar (1) ─────────────────────────────────────────────────
+  // ── Andaman & Nicobar Islands ─────────────────────────────────────────────
   {
     name: "Andaman and Nicobar Islands", slug: "andaman-and-nicobar-islands",
-    ec: "1", cnr: "AN",
+    ec: "28", cnr: "AN",
     districts: [
       "Nicobar",
       { name: "North and Middle Andaman", city: "Mayabunder" },
       { name: "South Andaman", city: "Port Blair" },
     ],
   },
-  // ── Andhra Pradesh (2) ────────────────────────────────────────────────────
+  // ── Andhra Pradesh ────────────────────────────────────────────────────────
   {
     name: "Andhra Pradesh", slug: "andhra-pradesh",
     ec: "2", cnr: "AP",
@@ -132,10 +131,10 @@ const STATES: State[] = [
       { name: "YSR Kadapa", city: "Kadapa" },
     ],
   },
-  // ── Arunachal Pradesh (3) ─────────────────────────────────────────────────
+  // ── Arunachal Pradesh ─────────────────────────────────────────────────────
   {
     name: "Arunachal Pradesh", slug: "arunachal-pradesh",
-    ec: "3", cnr: "AR",
+    ec: "36", cnr: "AR",
     districts: [
       "Anjaw",
       { name: "Capital Complex", city: "Itanagar" },
@@ -161,10 +160,10 @@ const STATES: State[] = [
       { name: "West Siang", city: "Aalo" },
     ],
   },
-  // ── Assam (4) ─────────────────────────────────────────────────────────────
+  // ── Assam ─────────────────────────────────────────────────────────────────
   {
     name: "Assam", slug: "assam",
-    ec: "4", cnr: "AS",
+    ec: "6", cnr: "AS",
     districts: [
       "Bajali", "Baksa", "Barpeta", "Biswanath", "Bongaigaon",
       { name: "Cachar", city: "Silchar" },
@@ -181,10 +180,10 @@ const STATES: State[] = [
       { name: "West Karbi Anglong", city: "Hamren" },
     ],
   },
-  // ── Bihar (5) ─────────────────────────────────────────────────────────────
+  // ── Bihar ─────────────────────────────────────────────────────────────────
   {
     name: "Bihar", slug: "bihar",
-    ec: "5", cnr: "BR",
+    ec: "8", cnr: "BR",
     districts: [
       "Araria", "Arwal", "Aurangabad", "Banka", "Begusarai", "Bhagalpur",
       { name: "Bhojpur", city: "Ara" },
@@ -196,7 +195,7 @@ const STATES: State[] = [
       "Katihar", "Khagaria", "Kishanganj", "Lakhisarai", "Madhepura",
       "Madhubani", "Munger", "Muzaffarpur", "Nalanda", "Nawada",
       {
-        name: "Patna", distCode: "26",
+        name: "Patna",
         courtName: "Patna District Court",
         description: "Patna District Court handles civil and criminal cases for Patna, the state capital of Bihar.",
       },
@@ -208,16 +207,16 @@ const STATES: State[] = [
       { name: "West Champaran", city: "Bettiah" },
     ],
   },
-  // ── Chandigarh (6) ───────────────────────────────────────────────────────
+  // ── Chandigarh ───────────────────────────────────────────────────────────
   {
     name: "Chandigarh", slug: "chandigarh",
-    ec: "6", cnr: "CH",
+    ec: "27", cnr: "CH",
     districts: ["Chandigarh"],
   },
-  // ── Chhattisgarh (7) ─────────────────────────────────────────────────────
+  // ── Chhattisgarh ─────────────────────────────────────────────────────────
   {
     name: "Chhattisgarh", slug: "chhattisgarh",
-    ec: "7", cnr: "CG",
+    ec: "18", cnr: "CG",
     districts: [
       "Balod", "Baloda Bazar", "Balrampur",
       { name: "Bastar", city: "Jagdalpur" },
@@ -240,34 +239,34 @@ const STATES: State[] = [
       { name: "Surguja", city: "Ambikapur" },
     ],
   },
-  // ── Dadra & Nagar Haveli (8) ──────────────────────────────────────────────
+  // ── Dadra & Nagar Haveli ──────────────────────────────────────────────────
   {
     name: "Dadra and Nagar Haveli", slug: "dadra-and-nagar-haveli",
-    ec: "8", cnr: "DN",
+    ec: "38", cnr: "DN",
     districts: [{ name: "Dadra and Nagar Haveli", city: "Silvassa" }],
   },
-  // ── Daman & Diu (9) ──────────────────────────────────────────────────────
+  // ── Daman & Diu ──────────────────────────────────────────────────────────
   {
     name: "Daman and Diu", slug: "daman-and-diu",
-    ec: "9", cnr: "DD",
+    ec: "38", cnr: "DD",
     districts: ["Daman", "Diu"],
   },
-  // ── Goa (10) ─────────────────────────────────────────────────────────────
+  // ── Goa ─────────────────────────────────────────────────────────────────
   {
     name: "Goa", slug: "goa",
-    ec: "10", cnr: "GA",
+    ec: "30", cnr: "GA",
     districts: [
       { name: "North Goa", city: "Panaji" },
       { name: "South Goa", city: "Margao" },
     ],
   },
-  // ── Gujarat (11) ─────────────────────────────────────────────────────────
+  // ── Gujarat ─────────────────────────────────────────────────────────────
   {
     name: "Gujarat", slug: "gujarat",
-    ec: "11", cnr: "GJ",
+    ec: "17", cnr: "GJ",
     districts: [
       {
-        name: "Ahmedabad", distCode: "1",
+        name: "Ahmedabad",
         slug: "ahmedabad-city-civil-court",
         courtName: "Ahmedabad City Civil & Sessions Court",
         address: "City Civil Court, Lal Darwaja, Ahmedabad - 380001",
@@ -288,10 +287,10 @@ const STATES: State[] = [
       "Vadodara", "Valsad",
     ],
   },
-  // ── Haryana (12) ─────────────────────────────────────────────────────────
+  // ── Haryana ─────────────────────────────────────────────────────────────
   {
     name: "Haryana", slug: "haryana",
-    ec: "12", cnr: "HR",
+    ec: "14", cnr: "HR",
     districts: [
       "Ambala", "Bhiwani", "Charkhi Dadri", "Faridabad", "Fatehabad",
       { name: "Gurugram", city: "Gurugram" },
@@ -302,10 +301,10 @@ const STATES: State[] = [
       "Sonipat", "Yamunanagar",
     ],
   },
-  // ── Himachal Pradesh (13) ────────────────────────────────────────────────
+  // ── Himachal Pradesh ────────────────────────────────────────────────────
   {
     name: "Himachal Pradesh", slug: "himachal-pradesh",
-    ec: "13", cnr: "HP",
+    ec: "5", cnr: "HP",
     districts: [
       "Bilaspur", "Chamba", "Hamirpur", "Kangra",
       { name: "Kinnaur", city: "Reckong Peo" },
@@ -316,10 +315,10 @@ const STATES: State[] = [
       "Solan", "Una",
     ],
   },
-  // ── Jammu & Kashmir (14) ─────────────────────────────────────────────────
+  // ── Jammu & Kashmir ─────────────────────────────────────────────────────
   {
     name: "Jammu and Kashmir", slug: "jammu-and-kashmir",
-    ec: "14", cnr: "JK",
+    ec: "12", cnr: "JK",
     districts: [
       { name: "Anantnag", city: "Anantnag" },
       "Bandipora", "Baramulla", "Budgam", "Doda", "Ganderbal",
@@ -330,10 +329,10 @@ const STATES: State[] = [
       "Udhampur",
     ],
   },
-  // ── Jharkhand (15) ───────────────────────────────────────────────────────
+  // ── Jharkhand ───────────────────────────────────────────────────────────
   {
     name: "Jharkhand", slug: "jharkhand",
-    ec: "15", cnr: "JH",
+    ec: "7", cnr: "JH",
     districts: [
       "Bokaro", "Chatra", "Deoghar", "Dhanbad", "Dumka",
       { name: "East Singhbhum", city: "Jamshedpur" },
@@ -347,28 +346,27 @@ const STATES: State[] = [
       { name: "West Singhbhum", city: "Chaibasa" },
     ],
   },
-  // ── Karnataka (16) ───────────────────────────────────────────────────────
+  // ── Karnataka ───────────────────────────────────────────────────────────
   {
     name: "Karnataka", slug: "karnataka",
-    ec: "16", cnr: "KA",
+    ec: "3", cnr: "KA",
     districts: [
       "Bagalkot",
       { name: "Ballari", city: "Ballari" },
       { name: "Belagavi", city: "Belagavi" },
       {
-        name: "Bengaluru Rural", distCode: "1",
+        name: "Bengaluru Rural",
         slug: "bangalore-rural-district-court",
         courtName: "Bangalore Rural District Court",
         address: "District Court, Bangalore Rural, Bengaluru",
         description: "Handles cases for Bangalore Rural district.",
       },
       {
-        name: "Bengaluru Urban", distCode: "2",
+        name: "Bengaluru Urban",
         slug: "bangalore-city-civil-court",
         courtName: "Bangalore City Civil & Sessions Court",
         address: "City Civil Court, Mayo Hall, Bengaluru - 560001",
         description: "The Bangalore City Civil Court handles all original civil jurisdiction cases in Bengaluru city.",
-        phone: undefined,
       },
       "Bidar",
       { name: "Chamarajanagara", city: "Chamarajanagara" },
@@ -390,14 +388,14 @@ const STATES: State[] = [
       "Yadgir",
     ],
   },
-  // ── Kerala (17) ──────────────────────────────────────────────────────────
+  // ── Kerala ──────────────────────────────────────────────────────────────
   {
     name: "Kerala", slug: "kerala",
-    ec: "17", cnr: "KL",
+    ec: "4", cnr: "KL",
     districts: [
       { name: "Alappuzha", city: "Alappuzha" },
       {
-        name: "Ernakulam", distCode: "7",
+        name: "Ernakulam",
         slug: "ernakulam-district-court",
         courtName: "Ernakulam District Court",
         address: "District Court, High Court Road, Ernakulam, Kochi - 682031",
@@ -416,16 +414,16 @@ const STATES: State[] = [
       { name: "Wayanad", city: "Kalpetta" },
     ],
   },
-  // ── Lakshadweep (18) ─────────────────────────────────────────────────────
+  // ── Lakshadweep ─────────────────────────────────────────────────────────
   {
     name: "Lakshadweep", slug: "lakshadweep",
-    ec: "18", cnr: "LD",
+    ec: "37", cnr: "LD",
     districts: [{ name: "Lakshadweep", city: "Kavaratti" }],
   },
-  // ── Madhya Pradesh (19) ──────────────────────────────────────────────────
+  // ── Madhya Pradesh ──────────────────────────────────────────────────────
   {
     name: "Madhya Pradesh", slug: "madhya-pradesh",
-    ec: "19", cnr: "MP",
+    ec: "23", cnr: "MP",
     districts: [
       "Agar Malwa", "Alirajpur", "Anuppur",
       { name: "Ashoknagar", city: "Ashoknagar" },
@@ -462,10 +460,10 @@ const STATES: State[] = [
       "Umaria", "Vidisha",
     ],
   },
-  // ── Maharashtra (20) ─────────────────────────────────────────────────────
+  // ── Maharashtra ─────────────────────────────────────────────────────────
   {
     name: "Maharashtra", slug: "maharashtra",
-    ec: "20", cnr: "MH",
+    ec: "1", cnr: "MH",
     districts: [
       { name: "Ahmednagar", city: "Ahmednagar" },
       "Akola", "Amravati",
@@ -474,7 +472,7 @@ const STATES: State[] = [
       { name: "Gadchiroli", city: "Gadchiroli" },
       "Gondia", "Hingoli", "Jalgaon", "Jalna", "Kolhapur", "Latur",
       {
-        name: "Mumbai City", distCode: "1",
+        name: "Mumbai City",
         slug: "city-civil-court-mumbai",
         courtName: "City Civil & Sessions Court Mumbai",
         address: "City Civil & Sessions Court, Kala Ghoda, Fort, Mumbai - 400032",
@@ -487,7 +485,7 @@ const STATES: State[] = [
       { name: "Palghar", city: "Palghar" },
       "Parbhani",
       {
-        name: "Pune", distCode: "14",
+        name: "Pune",
         slug: "pune-district-court",
         courtName: "Pune District & Sessions Court",
         address: "District & Sessions Court, Shivajinagar, Pune - 411005",
@@ -500,10 +498,10 @@ const STATES: State[] = [
       "Wardha", "Washim", "Yavatmal",
     ],
   },
-  // ── Manipur (21) ─────────────────────────────────────────────────────────
+  // ── Manipur ─────────────────────────────────────────────────────────────
   {
     name: "Manipur", slug: "manipur",
-    ec: "21", cnr: "MN",
+    ec: "25", cnr: "MN",
     districts: [
       "Bishnupur", "Chandel", "Churachandpur",
       { name: "Imphal East", city: "Imphal" },
@@ -512,10 +510,10 @@ const STATES: State[] = [
       "Senapati", "Tamenglong", "Tengnoupal", "Thoubal", "Ukhrul",
     ],
   },
-  // ── Meghalaya (22) ───────────────────────────────────────────────────────
+  // ── Meghalaya ───────────────────────────────────────────────────────────
   {
     name: "Meghalaya", slug: "meghalaya",
-    ec: "22", cnr: "MG",
+    ec: "21", cnr: "MG",
     districts: [
       { name: "East Garo Hills", city: "Williamnagar" },
       "East Jaintia Hills",
@@ -531,10 +529,10 @@ const STATES: State[] = [
       { name: "West Khasi Hills", city: "Nongstoin" },
     ],
   },
-  // ── Mizoram (23) ─────────────────────────────────────────────────────────
+  // ── Mizoram ─────────────────────────────────────────────────────────────
   {
     name: "Mizoram", slug: "mizoram",
-    ec: "23", cnr: "MZ",
+    ec: "19", cnr: "MZ",
     districts: [
       { name: "Aizawl", city: "Aizawl" },
       "Champhai", "Hnahthial", "Khawzawl", "Kolasib", "Lawngtlai",
@@ -542,10 +540,10 @@ const STATES: State[] = [
       "Mamit", "Saiha", "Saitual", "Serchhip",
     ],
   },
-  // ── Nagaland (24) ────────────────────────────────────────────────────────
+  // ── Nagaland ────────────────────────────────────────────────────────────
   {
     name: "Nagaland", slug: "nagaland",
-    ec: "24", cnr: "NL",
+    ec: "34", cnr: "NL",
     districts: [
       "Chumoukedima",
       { name: "Dimapur", city: "Dimapur" },
@@ -558,49 +556,48 @@ const STATES: State[] = [
       "Wokha", "Zunheboto",
     ],
   },
-  // ── Delhi (25) ───────────────────────────────────────────────────────────
+  // ── Delhi ───────────────────────────────────────────────────────────────
   {
     name: "Delhi", slug: "delhi",
-    ec: "25", cnr: "DL",
+    ec: "26", cnr: "DL",
     districts: [
       {
-        name: "North Delhi (Tis Hazari)", distCode: "1",
+        name: "North Delhi (Tis Hazari)",
         slug: "tis-hazari-district-court-delhi",
         courtName: "Tis Hazari District Court",
         address: "Tis Hazari Courts, Tis Hazari, Delhi - 110054",
         description: "Tis Hazari Courts is the main civil and criminal district court complex in Delhi, one of the largest court complexes in Asia.",
-        phone: undefined,
       },
       {
-        name: "Central Delhi (Patiala House)", distCode: "2",
+        name: "Central Delhi (Patiala House)",
         slug: "patiala-house-courts-delhi",
         courtName: "Patiala House Courts",
         address: "Patiala House Courts, India Gate, New Delhi - 110001",
         description: "Patiala House Courts handles cases related to the Central and New Delhi districts. Located near India Gate.",
       },
       {
-        name: "East Delhi (Karkardooma)", distCode: "3",
+        name: "East Delhi (Karkardooma)",
         slug: "karkardooma-district-court-delhi",
         courtName: "Karkardooma District Court",
         address: "Karkardooma Courts, Vikas Marg, Delhi - 110092",
         description: "Karkardooma Courts serves the East and North-East Delhi districts.",
       },
       {
-        name: "South Delhi (Saket)", distCode: "4",
+        name: "South Delhi (Saket)",
         slug: "saket-district-court-delhi",
         courtName: "Saket District Court",
         address: "Saket District Courts, Press Enclave Road, Saket, New Delhi - 110017",
         description: "Saket District Court serves the South and South-West Delhi districts.",
       },
       {
-        name: "Northwest Delhi (Rohini)", distCode: "5",
+        name: "Northwest Delhi (Rohini)",
         slug: "rohini-district-court-delhi",
         courtName: "Rohini District Court",
         address: "Rohini Courts, Sector 14, Rohini, Delhi - 110085",
         description: "Rohini District Court serves the North-West and Rohini sub-divisions of Delhi.",
       },
       {
-        name: "West Delhi (Dwarka)", distCode: "6",
+        name: "West Delhi (Dwarka)",
         slug: "dwarka-district-court-delhi",
         courtName: "Dwarka District Court",
         address: "Dwarka District Courts, Sector 10, Dwarka, New Delhi - 110075",
@@ -608,10 +605,10 @@ const STATES: State[] = [
       },
     ],
   },
-  // ── Odisha (26) ──────────────────────────────────────────────────────────
+  // ── Odisha ──────────────────────────────────────────────────────────────
   {
     name: "Odisha", slug: "odisha",
-    ec: "26", cnr: "OR",
+    ec: "11", cnr: "OR",
     districts: [
       "Angul", "Balangir", "Balasore", "Bargarh", "Bhadrak", "Boudh",
       { name: "Cuttack", city: "Cuttack" },
@@ -629,10 +626,10 @@ const STATES: State[] = [
       "Sundargarh",
     ],
   },
-  // ── Puducherry (27) ──────────────────────────────────────────────────────
+  // ── Puducherry ──────────────────────────────────────────────────────────
   {
     name: "Puducherry", slug: "puducherry",
-    ec: "27", cnr: "PY",
+    ec: "35", cnr: "PY",
     districts: [
       { name: "Karaikal", city: "Karaikal" },
       { name: "Mahe", city: "Mahe" },
@@ -640,10 +637,10 @@ const STATES: State[] = [
       { name: "Yanam", city: "Yanam" },
     ],
   },
-  // ── Punjab (28) ──────────────────────────────────────────────────────────
+  // ── Punjab ──────────────────────────────────────────────────────────────
   {
     name: "Punjab", slug: "punjab",
-    ec: "28", cnr: "PB",
+    ec: "22", cnr: "PB",
     districts: [
       "Amritsar", "Barnala", "Bathinda", "Faridkot",
       { name: "Fatehgarh Sahib", city: "Fatehgarh Sahib" },
@@ -659,10 +656,10 @@ const STATES: State[] = [
       "Tarn Taran",
     ],
   },
-  // ── Rajasthan (29) ───────────────────────────────────────────────────────
+  // ── Rajasthan ───────────────────────────────────────────────────────────
   {
     name: "Rajasthan", slug: "rajasthan",
-    ec: "29", cnr: "RJ",
+    ec: "9", cnr: "RJ",
     districts: [
       "Ajmer", "Alwar", "Banswara", "Baran",
       { name: "Barmer", city: "Barmer" },
@@ -671,7 +668,7 @@ const STATES: State[] = [
       "Bundi", "Chittorgarh", "Churu", "Dausa", "Dholpur", "Dungarpur",
       "Hanumangarh",
       {
-        name: "Jaipur", distCode: "1",
+        name: "Jaipur",
         slug: "jaipur-district-court",
         courtName: "Jaipur District Court",
         address: "District Court, Jaipur Metropolitan, Jaipur - 302001",
@@ -688,10 +685,10 @@ const STATES: State[] = [
       { name: "Udaipur", city: "Udaipur" },
     ],
   },
-  // ── Sikkim (30) ──────────────────────────────────────────────────────────
+  // ── Sikkim ──────────────────────────────────────────────────────────────
   {
     name: "Sikkim", slug: "sikkim",
-    ec: "30", cnr: "SK",
+    ec: "24", cnr: "SK",
     districts: [
       { name: "East Sikkim", city: "Gangtok" },
       { name: "Gyalshing", city: "Gyalshing" },
@@ -700,15 +697,15 @@ const STATES: State[] = [
       "Pakyong", "Soreng",
     ],
   },
-  // ── Tamil Nadu (31) ──────────────────────────────────────────────────────
+  // ── Tamil Nadu ──────────────────────────────────────────────────────────
   {
     name: "Tamil Nadu", slug: "tamil-nadu",
-    ec: "31", cnr: "TN",
+    ec: "10", cnr: "TN",
     districts: [
       "Ariyalur",
       { name: "Chengalpattu", city: "Chengalpattu" },
       {
-        name: "Chennai", distCode: "2",
+        name: "Chennai",
         slug: "chennai-city-civil-court",
         courtName: "Chennai City Civil Court",
         address: "City Civil Court, High Court Buildings, Chennai - 600104",
@@ -736,14 +733,14 @@ const STATES: State[] = [
       "Villupuram", "Virudhunagar",
     ],
   },
-  // ── Telangana (32) ───────────────────────────────────────────────────────
+  // ── Telangana ───────────────────────────────────────────────────────────
   {
     name: "Telangana", slug: "telangana",
-    ec: "32", cnr: "TS",
+    ec: "29", cnr: "TS",
     districts: [
       "Adilabad", "Bhadradri Kothagudem",
       {
-        name: "Hyderabad", distCode: "1",
+        name: "Hyderabad",
         slug: "hyderabad-city-civil-court",
         courtName: "Hyderabad City Civil Court",
         address: "City Civil Court, Nampally, Hyderabad - 500001",
@@ -769,10 +766,10 @@ const STATES: State[] = [
       { name: "Yadadri Bhuvanagiri", city: "Bhongir" },
     ],
   },
-  // ── Tripura (33) ─────────────────────────────────────────────────────────
+  // ── Tripura ─────────────────────────────────────────────────────────────
   {
     name: "Tripura", slug: "tripura",
-    ec: "33", cnr: "TR",
+    ec: "20", cnr: "TR",
     districts: [
       { name: "Dhalai", city: "Ambassa" },
       { name: "Gomati", city: "Udaipur" },
@@ -784,13 +781,13 @@ const STATES: State[] = [
       { name: "West Tripura", city: "Agartala" },
     ],
   },
-  // ── Uttar Pradesh (34) ───────────────────────────────────────────────────
+  // ── Uttar Pradesh ───────────────────────────────────────────────────────
   {
     name: "Uttar Pradesh", slug: "uttar-pradesh",
-    ec: "34", cnr: "UP",
+    ec: "13", cnr: "UP",
     districts: [
       {
-        name: "Agra", distCode: "1",
+        name: "Agra",
         slug: "agra-district-court",
         courtName: "Agra District & Sessions Court",
         address: "District Court, Agra - 282001",
@@ -820,7 +817,7 @@ const STATES: State[] = [
       { name: "Lakhimpur Kheri", city: "Lakhimpur" },
       "Lalitpur",
       {
-        name: "Lucknow", distCode: "19",
+        name: "Lucknow",
         slug: "lucknow-district-court",
         courtName: "Lucknow District & Sessions Court",
         address: "District Court, Lucknow - 226001",
@@ -839,10 +836,10 @@ const STATES: State[] = [
       { name: "Varanasi", city: "Varanasi" },
     ],
   },
-  // ── Uttarakhand (35) ─────────────────────────────────────────────────────
+  // ── Uttarakhand ─────────────────────────────────────────────────────────
   {
     name: "Uttarakhand", slug: "uttarakhand",
-    ec: "35", cnr: "UK",
+    ec: "15", cnr: "UK",
     districts: [
       "Almora", "Bageshwar",
       { name: "Chamoli", city: "Gopeshwar" },
@@ -858,10 +855,10 @@ const STATES: State[] = [
       { name: "Uttarkashi", city: "Uttarkashi" },
     ],
   },
-  // ── West Bengal (36) ─────────────────────────────────────────────────────
+  // ── West Bengal ─────────────────────────────────────────────────────────
   {
     name: "West Bengal", slug: "west-bengal",
-    ec: "36", cnr: "WB",
+    ec: "16", cnr: "WB",
     districts: [
       "Alipurduar", "Bankura", "Birbhum",
       { name: "Cooch Behar", city: "Cooch Behar" },
@@ -873,7 +870,7 @@ const STATES: State[] = [
       { name: "Jhargram", city: "Jhargram" },
       { name: "Kalimpong", city: "Kalimpong" },
       {
-        name: "Kolkata", distCode: "1",
+        name: "Kolkata",
         slug: "calcutta-city-civil-court",
         courtName: "Kolkata City Civil Court",
         address: "City Civil Court, 2 Kiran Shankar Roy Road, Kolkata - 700001",
@@ -911,8 +908,6 @@ fs.writeFileSync(
   JSON.stringify(allCourts, null, 2),
 );
 
-const withDistCode = allCourts.filter((c) => c.ecourtsDistCode).length;
 console.log(`✅ ${allCourts.length} district courts generated`);
-console.log(`   ${withDistCode} with verified dist_code (precise deep-link)`);
-console.log(`   ${allCourts.length - withDistCode} with state-level fallback`);
+console.log(`   All use verified state-level eCourts URLs (no unverified dist_codes)`);
 console.log(`📁 Output: ${OUT_DIR}/district-courts.json`);

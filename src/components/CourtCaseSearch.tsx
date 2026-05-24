@@ -31,12 +31,15 @@ export default function CourtCaseSearch({
   const [firYear, setFirYear] = useState(new Date().getFullYear().toString());
   const [policeStation, setPoliceStation] = useState("");
 
-  const baseEcourts = ecourtsStateCode && ecourtsDistCode
+  // For High Courts, caseStatusUrl points to hcservices.ecourts.gov.in which uses
+  // a completely different state_code system — never build services.ecourts.gov.in
+  // URLs with a High Court's ecourtsStateCode; they would land on the wrong state.
+  const baseEcourts = !isHighCourt && ecourtsStateCode && ecourtsDistCode
     ? `https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index&state_code=${ecourtsStateCode}&dist_code=${ecourtsDistCode}`
     : caseStatusUrl;
 
   function buildSearchUrl(): string {
-    if (isSupremeCourt) return caseStatusUrl;
+    if (isSupremeCourt || isHighCourt) return caseStatusUrl;
 
     if (tab === "cnr") {
       const cleanCnr = cnr.replace(/\s/g, "").toUpperCase();
