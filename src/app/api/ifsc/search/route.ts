@@ -11,6 +11,8 @@ import { NextRequest, NextResponse } from "next/server";
 import { searchBranches, getBranchByIFSC, BANK_DISPLAY_NAMES } from "@/lib/ifsc";
 
 export const dynamic = "force-dynamic";
+// Run in Singapore — closest Vercel region to India (~60ms vs ~350ms from US default)
+export const preferredRegion = "sin1";
 
 export async function GET(req: NextRequest) {
   const { searchParams } = req.nextUrl;
