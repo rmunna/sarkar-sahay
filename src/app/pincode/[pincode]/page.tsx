@@ -22,19 +22,22 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!data) return {};
 
   const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.citizennest.com";
-  const areas = data.places.slice(0, 3).join(", ");
-  const title = `${pincode} PIN Code — ${data.district}, ${data.state}`;
-  const description = `${pincode} is the PIN code for ${areas} area in ${data.district} district, ${data.state}. Find post office details, area names and nearby PIN codes.`;
+  const primaryArea = data.postOffice; // e.g. "Banaswadi"
+  const otherAreas = data.places.filter((p) => p !== primaryArea).slice(0, 2);
+  const title = `${primaryArea} PIN Code ${pincode} — ${data.district}, ${data.state}`;
+  const description = `The PIN code of ${primaryArea} is ${pincode}. ${primaryArea} is located in ${data.district} district, ${data.state}.${otherAreas.length ? ` Also covers: ${otherAreas.join(", ")}.` : ""} Find post office, areas and nearby PIN codes.`;
 
   return {
     title,
     description,
     keywords: [
+      `${primaryArea.toLowerCase()} pin code`,
+      `pin code of ${primaryArea.toLowerCase()}`,
+      `${primaryArea.toLowerCase()} postal code`,
       `${pincode} pin code`,
       `${pincode} area name`,
-      `${pincode} post office`,
-      `${data.district} pin code`,
-      `${data.places[0]?.toLowerCase()} pin code`,
+      `${data.district.toLowerCase()} pin code`,
+      ...data.places.map((p) => `${p.toLowerCase()} pin code`),
     ].filter(Boolean),
     alternates: { canonical: `${BASE_URL}/pincode/${pincode}` },
     openGraph: {
@@ -65,24 +68,17 @@ export default async function PincodePage({ params }: Props) {
     ],
   };
 
+  const primaryArea = data.postOffice;
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
     mainEntity: [
       {
         "@type": "Question",
-        name: `What is the PIN code ${pincode}?`,
+        name: `What is the PIN code of ${primaryArea}?`,
         acceptedAnswer: {
           "@type": "Answer",
-          text: `PIN code ${pincode} belongs to ${data.places.slice(0, 3).join(", ")} area in ${data.district} district, ${data.state}.`,
-        },
-      },
-      {
-        "@type": "Question",
-        name: `Which post office serves PIN code ${pincode}?`,
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: `The post office serving PIN code ${pincode} is ${data.postOffice} in ${data.district}, ${data.state}.`,
+          text: `The PIN code of ${primaryArea} is ${pincode}. ${primaryArea} is located in ${data.district} district, ${data.state}.`,
         },
       },
       {
@@ -91,6 +87,22 @@ export default async function PincodePage({ params }: Props) {
         acceptedAnswer: {
           "@type": "Answer",
           text: `The following areas/localities fall under PIN code ${pincode}: ${data.places.join(", ")}.`,
+        },
+      },
+      {
+        "@type": "Question",
+        name: `Which post office serves ${primaryArea}?`,
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: `${data.postOffice} post office (PIN ${pincode}) serves ${primaryArea} and nearby areas in ${data.district}, ${data.state}.`,
+        },
+      },
+      {
+        "@type": "Question",
+        name: `What is the postal code of ${primaryArea}, ${data.district}?`,
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: `The postal code (PIN code) of ${primaryArea}, ${data.district} is ${pincode}. It falls under ${data.state} postal circle.`,
         },
       },
     ],
@@ -112,9 +124,11 @@ export default async function PincodePage({ params }: Props) {
         </nav>
 
         <h1 className="text-2xl font-bold text-gray-900 mb-1">
-          PIN Code {pincode}
+          {data.postOffice} PIN Code — {pincode}
         </h1>
-        <p className="text-gray-600 mb-6">{data.district}, {data.state}</p>
+        <p className="text-gray-600 mb-6">
+          The PIN code of <strong>{data.postOffice}</strong> is <strong>{pincode}</strong>. {data.district}, {data.state}.
+        </p>
 
         {/* PIN hero */}
         <div className="bg-blue-50 border-2 border-blue-200 rounded-xl p-6 mb-6 text-center">
@@ -176,16 +190,16 @@ export default async function PincodePage({ params }: Props) {
           <div className="space-y-3">
             {[
               {
-                q: `What is the PIN code ${pincode}?`,
-                a: `PIN code ${pincode} belongs to ${data.places.slice(0, 3).join(", ")} area in ${data.district} district, ${data.state}.`,
+                q: `What is the PIN code of ${data.postOffice}?`,
+                a: `The PIN code of ${data.postOffice} is ${pincode}. It is located in ${data.district} district, ${data.state}.`,
               },
               {
                 q: `Which areas fall under PIN code ${pincode}?`,
                 a: `The areas under PIN code ${pincode} include: ${data.places.join(", ")}.`,
               },
               {
-                q: `Which post office handles PIN code ${pincode}?`,
-                a: `${data.postOffice} post office handles deliveries for PIN code ${pincode} in ${data.district}, ${data.state}.`,
+                q: `Which post office handles ${data.postOffice}?`,
+                a: `${data.postOffice} post office (PIN ${pincode}) handles deliveries for ${data.places.join(", ")} in ${data.district}, ${data.state}.`,
               },
             ].map(({ q, a }) => (
               <details key={q} className="border border-gray-200 rounded-lg">
