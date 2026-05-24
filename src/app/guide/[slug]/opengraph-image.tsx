@@ -16,6 +16,17 @@ const categoryEmojis: Record<string, string> = {
   "State Schemes": "📍",
 };
 
+/** Replace characters Satori cannot render without dynamic font fetching.
+ *  Satori uses a subset font; ₹ (U+20B9) triggers a failed Google Fonts request.
+ */
+function sanitizeForOG(text: string): string {
+  return text
+    .replace(/₹/g, "Rs.")
+    .replace(/…/g, "...") // ellipsis
+    .replace(/[‘’]/g, "'") // curly single quotes
+    .replace(/[“”]/g, '"'); // curly double quotes
+}
+
 export function generateStaticParams() {
   return getAllGuideSlugs().map((slug) => ({ slug }));
 }
@@ -24,7 +35,7 @@ export default async function OGImage({ params }: { params: Promise<{ slug: stri
   const { slug } = await params;
   const guide = await getGuideBySlug(slug);
 
-  const title = guide?.title ?? "Guide";
+  const title = sanitizeForOG(guide?.title ?? "Guide");
   const category = guide?.category ?? "";
   const emoji = categoryEmojis[category] || "📋";
 
