@@ -368,10 +368,15 @@ interface CourtSummary {
 
 function generateCourtSitemap(publicDir: string): string {
   const today = new Date().toISOString().split("T")[0];
-  const courtsFile = path.join(__dirname, "..", "data", "court", "courts.json");
-  if (!fs.existsSync(courtsFile)) return "";
+  const hcFile = path.join(__dirname, "..", "data", "court", "courts.json");
+  const dcFile = path.join(__dirname, "..", "data", "court", "district-courts.json");
+  if (!fs.existsSync(hcFile)) return "";
 
-  const courts = JSON.parse(fs.readFileSync(courtsFile, "utf8")) as CourtSummary[];
+  const hcCourts = JSON.parse(fs.readFileSync(hcFile, "utf8")) as CourtSummary[];
+  const dcCourts: CourtSummary[] = fs.existsSync(dcFile)
+    ? JSON.parse(fs.readFileSync(dcFile, "utf8"))
+    : [];
+  const courts = [...hcCourts, ...dcCourts];
 
   const urls: SitemapUrl[] = [];
 
@@ -402,7 +407,7 @@ function generateCourtSitemap(publicDir: string): string {
 
   const filename = "sitemap-court.xml";
   fs.writeFileSync(path.join(publicDir, filename), buildUrlset(urls));
-  console.log(`  ✅ ${filename}: ${urls.length} URLs`);
+  console.log(`  ✅ ${filename}: ${urls.length} URLs (${hcCourts.length - 1} HC + ${dcCourts.length} district + state hubs)`);
   return filename;
 }
 

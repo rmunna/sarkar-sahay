@@ -43,21 +43,35 @@ let _byState: Record<string, CourtRecord[]> | null = null;
 
 function loadCourts(): CourtRecord[] {
   if (!_courts) {
-    _courts = JSON.parse(fs.readFileSync(path.join(DATA_DIR, "courts.json"), "utf-8"));
+    // courts.json = Supreme + High Courts
+    const hc: CourtRecord[] = JSON.parse(
+      fs.readFileSync(path.join(DATA_DIR, "courts.json"), "utf-8")
+    );
+    // district-courts.json = all ~739 district courts
+    const districtFile = path.join(DATA_DIR, "district-courts.json");
+    const dc: CourtRecord[] = fs.existsSync(districtFile)
+      ? JSON.parse(fs.readFileSync(districtFile, "utf-8"))
+      : [];
+    _courts = [...hc, ...dc];
   }
   return _courts!;
 }
 
 function loadIndex(): Record<string, CourtRecord> {
   if (!_index) {
-    _index = JSON.parse(fs.readFileSync(path.join(DATA_DIR, "index.json"), "utf-8"));
+    _index = {};
+    for (const c of loadCourts()) _index[c.slug] = c;
   }
   return _index!;
 }
 
 function loadByState(): Record<string, CourtRecord[]> {
   if (!_byState) {
-    _byState = JSON.parse(fs.readFileSync(path.join(DATA_DIR, "by-state.json"), "utf-8"));
+    _byState = {};
+    for (const c of loadCourts()) {
+      if (!_byState[c.stateSlug]) _byState[c.stateSlug] = [];
+      _byState[c.stateSlug].push(c);
+    }
   }
   return _byState!;
 }
