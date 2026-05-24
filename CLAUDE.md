@@ -338,6 +338,124 @@ Only remove code that your changes made obsolete.
 
 ---
 
+## Content Accuracy Rules — Government Scheme Guides
+
+This section exists because factual errors were committed to production in May 2026:
+wrong rupee amounts, wrong eligibility ages, schemes presented as "apply now" when
+applications had closed, and Lakshmir Bhandar amounts that were 6 months out of date.
+These rules are **mandatory**, not suggestions.
+
+---
+
+### Rule 1 — Source Hierarchy: Always Fetch Official Portals First
+
+Before writing ANY scheme detail (amount, eligibility, dates, links), check sources in this order:
+
+| Priority | Source type | Examples |
+|----------|-------------|---------|
+| **1 — Official** | State govt portal, scheme-specific `.gov.in` / `.nic.in` | `igr.assam.gov.in`, `orunodoi.assam.gov.in`, `arundhati.nic.in`, `tn.gov.in`, `wb.gov.in` |
+| **2 — Official PDF** | Guidelines PDF linked from .gov.in page | Download and read — do not guess from PDF filename |
+| **3 — National aggregators** | myscheme.gov.in, india.gov.in | Reasonably reliable but may lag |
+| **4 — News (cross-check only)** | The Hindu, Indian Express, PTI | Use only to confirm; never as sole source |
+| **❌ Never use alone** | sarkariyojana.com, egovtschemes.com, goodreturns.in, citizencompass.in, similar aggregators | Often correct but frequently wrong on amounts, dates, eligibility. Must be cross-checked against official source. |
+
+**Procedure when an official page shows only PDF links (no inline text):**
+- Try to fetch the PDF directly via `WebFetch`
+- If the PDF is inaccessible, explicitly label the data as "per scheme guidelines" and add a note: "Verify exact figures at [official URL] before applying"
+- Do NOT fill in the blanks with guesses or secondary sources
+
+---
+
+### Rule 2 — Six Fields That Must Be Verified from Official Sources
+
+Every guide must have these verified — not inferred, not extrapolated:
+
+| Field | Why it fails | What to verify |
+|-------|-------------|----------------|
+| **Rupee amount** | Schemes get revised; secondary sites quote old rates | Exact current figure from official G.O. or portal |
+| **Age range** | Often wrong by 1–2 years in secondary sources | Both minimum and maximum age, e.g. "16–59" not "18–60" |
+| **Eligibility exclusions** | Secondary sites omit key exclusions | Who is explicitly NOT eligible (govt employees, income tax payers, private institution grads, etc.) |
+| **Application window** | Schemes open and close; secondary sites don't update | Is the portal currently accepting applications? Last date? |
+| **Official links** | Broken or wrong URLs cause user harm | WebFetch every `officialLinks` URL before committing the guide |
+| **Scheme status: promised vs live** | Manifesto promises ≠ implemented schemes | State clearly: "announced", "G.O. pending", "live — DBT flowing", or "application closed" |
+
+---
+
+### Rule 3 — Promised vs Live: Always Distinguish Explicitly
+
+Every scheme in a guide must be tagged with one of these statuses:
+
+| Tag | Meaning | When to use |
+|-----|---------|-------------|
+| **LIVE** | DBT/payments actively flowing | Confirmed from portal or news |
+| **Notified** | G.O. issued, scheme operational, portal open | G.O. number available |
+| **Announced** | CM/Cabinet announced, no G.O. yet | Speech or press release only |
+| **Portal pending** | Notified but application portal not yet live | |
+| **Application closed** | Was live, window has shut | State the last date explicitly |
+
+❌ Never write "apply now" or "apply at [url]" for a scheme tagged Announced or Portal pending.
+❌ Never write a step-by-step "How to apply" for a scheme that hasn't issued a G.O. yet.
+
+---
+
+### Rule 4 — Before Writing, Run This Checklist
+
+```
+[ ] Fetched the official government portal URL (not a secondary site)
+[ ] Verified the rupee amount from the official source (not from another guide)
+[ ] Verified the age range from the official source
+[ ] Verified what categories are EXCLUDED (not just who is included)
+[ ] Confirmed the application portal is currently open (or noted that it is closed/pending)
+[ ] Checked every officialLinks URL responds (no 404, no 500)
+[ ] Scheme status is tagged: LIVE / Notified / Announced / Portal pending / Application closed
+[ ] No "apply immediately" language unless the portal is confirmed open today
+```
+
+If any item can't be checked (portal down, PDF inaccessible), add an explicit note in the guide:
+> "Exact [amount/eligibility/date] could not be verified from the official portal at time of writing. Confirm at [URL] before applying."
+
+---
+
+### Rule 5 — Scheme Comparison Tables: Use Current Figures
+
+When writing "old scheme vs new scheme" comparisons:
+- Look up what the OLD scheme was paying at the time of transition — not at launch years ago
+- Example mistake: Lakshmir Bhandar was quoted as ₹1,000 when it was actually ₹1,500 (TMC raised it Feb 2026 before the election)
+- Always search: "[scheme name] amount [current year]" before filling in the "before" column
+
+---
+
+### Rule 6 — Official Links: Verify Before Committing
+
+Every URL in `officialLinks` frontmatter and in guide body must be tested:
+
+```bash
+# Quick check — must return 2xx or 3xx, not 4xx/5xx
+curl -IL --max-time 10 <url>
+```
+
+Or use WebFetch — if it returns 404/500/connection refused:
+- Remove the broken link
+- Replace with the parent domain (e.g. `assam.gov.in` instead of `assam.gov.in/scheme-page/154` if the sub-page is down)
+- Add a note: "The scheme portal may not be live yet — check [parent domain] for updates"
+
+Known broken patterns to watch for:
+- `assam.gov.in/scheme-page/[id]` — IDs change frequently
+- `jibon-prerana.assam.gov.in` — was unreachable during verification
+- State portals returning HTTP 500 — use parent domain as fallback
+
+---
+
+### Rule 7 — New Government Schemes: Extra Caution
+
+When writing guides for a newly elected government's schemes:
+1. Distinguish what was in the **manifesto** vs what is in an actual **Government Order (G.O.)**
+2. A G.O. has a number (e.g. "Notification No. 2411-WCD/O/AB-4/2026") — if you don't have a G.O. number, it's Announced, not Notified
+3. Never state implementation dates from manifestos as confirmed — manifesto says "100 days", that is a target not a guarantee
+4. For Day 1 / first cabinet decisions: cite the cabinet meeting date and source
+
+---
+
 ## Known Gotchas (Learned the Hard Way)
 
 | Gotcha | What happened | Fix |
@@ -349,3 +467,10 @@ Only remove code that your changes made obsolete.
 | 260 branches instead of 134K | IFSC.json is a compressed index, not data | Use IFSC.csv via curl |
 | Sponsored blocks on wrong pages | Demat ad on ICICI netbanking troubleshoot | Removed all sponsor blocks |
 | `permanentRedirect()` = 308 not 301 | Next.js App Router behavior | Google treats same as 301 ✅ |
+| Arundhati Gold amount wrong | Wrote "10g gold ~₹55-75k" — official says ₹40,000 fixed | Always WebFetch `igr.assam.gov.in/schemes/arundhati-gold-scheme` |
+| Arundhati marriage act wrong | Wrote "Special Marriage Act or Hindu Marriage Act" | Scheme requires Special Marriage Act 1954 ONLY |
+| Orunodoi age range wrong | Wrote 18–60, correct is 16–59 | Verify age from `orunodoi.assam.gov.in` not secondary sites |
+| Jibon Prerana application closed | Wrote "apply immediately" — window closed Nov 30, 2025 | Always check last date of application before writing how-to-apply |
+| Jibon Prerana exclusions missed | Private institution grads, govt employee children excluded — not written | Fetch full eligibility including exclusions from official source |
+| Lakshmir Bhandar stale amount | Wrote ₹1,000/₹1,200 — TMC raised to ₹1,500/₹1,700 in Feb 2026 | Search "[scheme] amount [current year]" before writing comparison tables |
+| Yuva Shakti fake sites | Wrote "portal pending" — dozens of fake sites claimed to offer registration | Add scam warning for any unnotified scheme; never link unofficial portals |
