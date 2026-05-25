@@ -1,9 +1,19 @@
 ---
-title: "How to Apply for Ration Card Online — Step-by-Step Guide"
-description: "Complete guide to apply for new ration card online. State-wise process, documents, eligibility for APL/BPL/AAY categories."
+title: "Ration Card Apply Online 2026 — All States Portal Links & Step-by-Step Process"
+description: "Apply for new ration card online in any state. State portal links for UP, Maharashtra, Karnataka, Tamil Nadu, Delhi, AP, WB, Rajasthan & 15 more. Free process, Aadhaar mandatory, 30-day approval."
 category: "Food & Ration"
-keywords: ["ration card apply online", "new ration card", "BPL ration card", "ration card documents", "NFSA ration card"]
-readingTime: "6 min"
+keywords:
+  - ration card apply online 2026
+  - ration card apply online
+  - new ration card apply
+  - how to apply for ration card online
+  - ration card apply all states
+  - bpl ration card apply online
+  - nfsa ration card apply
+  - ration card documents required
+  - ration card eligibility 2026
+  - ration card online portal all states
+readingTime: "8 min"
 officialLinks:
   - https://nfsa.gov.in
   - https://epds.nic.in
@@ -47,14 +57,30 @@ A Ration Card is a government document that entitles households to purchase subs
 > **Important:** Ration card issuance is a **state subject**. Each state has its own portal. Below is the general process.
 
 ### Step 1: Visit Your State Portal
-Find your state's ration card portal:
-- **Tamil Nadu:** tnpds.gov.in
-- **Uttar Pradesh:** fcs.up.gov.in
-- **Maharashtra:** mahafood.gov.in
-- **Karnataka:** ahara.kar.nic.in
-- **Rajasthan:** food.rajasthan.gov.in
-- **Bihar:** epds.bihar.gov.in
-- **Other states:** Search "[your state] ration card apply online"
+
+Find your state's ration card portal and detailed guide below:
+
+| State | Official Portal | Full Guide |
+|-------|----------------|------------|
+| **Uttar Pradesh** | fcs.up.gov.in | [UP Ration Card](/guide/ration-card-apply-online-uttar-pradesh) |
+| **Maharashtra** | mahafood.gov.in | [Maharashtra Ration Card](/guide/ration-card-apply-online-maharashtra) |
+| **West Bengal** | wbpds.gov.in | [West Bengal Ration Card](/guide/ration-card-apply-online-west-bengal) |
+| **Bihar** | epds.bihar.gov.in | [Bihar Ration Card](/guide/ration-card-apply-online-bihar) |
+| **Madhya Pradesh** | rationmitra.nic.in | [MP Ration Card](/guide/ration-card-apply-online-madhya-pradesh) |
+| **Tamil Nadu** | tnpds.gov.in | [Tamil Nadu Ration Card](/guide/ration-card-apply-online-tamil-nadu) |
+| **Rajasthan** | food.raj.nic.in | [Rajasthan Ration Card](/guide/ration-card-apply-online-rajasthan) |
+| **Karnataka** | ahara.kar.nic.in | [Karnataka Ration Card](/guide/ration-card-apply-online-karnataka) |
+| **Andhra Pradesh** | epdsap.ap.gov.in | [AP Ration Card](/guide/ration-card-apply-online-andhra-pradesh) |
+| **Telangana** | epds.telangana.gov.in | [Telangana Ration Card](/guide/ration-card-apply-online-telangana) |
+| **Gujarat** | digitalgujarat.gov.in | [Gujarat Ration Card](/guide/ration-card-apply-online-gujarat) |
+| **Kerala** | ecitizen.kerala.gov.in | [Kerala Ration Card](/guide/ration-card-apply-online-kerala) |
+| **Odisha** | ahara.odisha.gov.in | [Odisha Ration Card](/guide/ration-card-apply-online-odisha) |
+| **Delhi** | nfs.delhi.gov.in | [Delhi Ration Card](/guide/ration-card-apply-online-delhi) |
+| **Punjab** | epos.punjab.gov.in | [Punjab Ration Card](/guide/ration-card-apply-online-punjab) |
+| **Haryana** | haryanafood.gov.in | [Haryana Ration Card](/guide/ration-card-apply-online-haryana) |
+| **Jharkhand** | aahar.jharkhand.gov.in | [Jharkhand Ration Card](/guide/ration-card-apply-online-jharkhand) |
+| **Assam** | epds.assam.gov.in | [Assam Ration Card](/guide/ration-card-apply-online-assam) |
+| **Chhattisgarh** | khadya.cg.nic.in | [CG Ration Card](/guide/ration-card-apply-online-chhattisgarh) |
 
 ### Step 2: Register / Create Account
 Register with mobile number and Aadhaar OTP verification.
@@ -153,8 +179,16 @@ A: Apply online on your state portal or visit the local food & civil supplies of
 
 ---
 
-## You May Also Need
+## Related Guides
 
+**Ration Card Operations:**
+- [Add or Remove Member in Ration Card](/guide/ration-card-add-remove-member)
+- [Ration Card Split for New Family](/guide/ration-card-split-separate-family)
+- [Surrender or Cancel Ration Card](/guide/ration-card-surrender-cancel)
+- [APL vs BPL Ration Card — Difference](/guide/ration-card-apl-vs-bpl-difference)
+- [One Nation One Ration Card (ONORC)](/guide/one-nation-one-ration-card-guide)
+
+**Government Schemes:**
 - [LPG Subsidy Ujjwala Yojana](/guide/lpg-subsidy-ujjwala-yojana)
 - [PM Jan Dhan Yojana](/guide/pm-jan-dhan-yojana)
 - [PM Awas Yojana Apply](/guide/pm-awas-yojana-apply)
