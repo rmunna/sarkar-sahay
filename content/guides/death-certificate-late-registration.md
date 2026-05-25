@@ -1,8 +1,6 @@
 ---
-title: "Late Death Certificate Registration in India: Process & Fee"
-description: >-
-  How to register a death after 21 days or 1 year in India. Late registration
-  process, magistrate order, affidavit, documents, fees, and court procedure.
+title: "Late Death Certificate Registration — Process, Documents & Fee (All States 2026)"
+description: "How to register a death late (after 21 days or 1 year) in India. Magistrate order, affidavit, required documents, fees, and step-by-step process for Telangana, Maharashtra, Kerala, Delhi & other states."
 category: Certificates
 keywords:
   - late death registration

@@ -1,20 +1,20 @@
 ---
-title: "Yuva Sathi Scheme West Bengal — How to Apply & Benefits"
-description: >-
-  Check your Yuva Sathi application status online, know eligibility criteria,
-  ₹1,500 monthly benefit details, and required documents for West Bengal youth.
+title: "Yuva Sathi Status Check by Mobile Number — West Bengal Payment 2026"
+description: "Check Yuva Sathi application status by mobile number at banglaryuvasathi.gov.in. Track payment status, find May 2026 payment date, and know eligibility for ₹1,500/month benefit for West Bengal youth."
 category: State Schemes
 keywords:
+  - yuva sathi status check by mobile number
+  - yuva sathi payment status check 2026
+  - banglar yuva sathi status check
+  - yuva sathi payment status check
   - yuva sathi scheme
   - yuva sathi status check
   - west bengal yuva sathi
   - banglar yuva sathi application status
+  - yuva sathi payment date may 2026
+  - yuva sathi dbt status
   - yuva sathi eligibility
-  - yuva sathi scheme west bengal
-  - yuva sathi online status
   - bekar bhata west bengal
-  - yuva sathi payment status
-  - west bengal youth allowance
 readingTime: 7 min
 officialLinks:
   - 'https://banglaryuvasathi.gov.in/'

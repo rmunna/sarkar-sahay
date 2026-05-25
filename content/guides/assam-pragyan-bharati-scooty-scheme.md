@@ -1,8 +1,8 @@
 ---
-title: "Assam Pragyan Bharati Scooty Scheme — How to Apply & Benefits"
-description: "Assam Pragyan Bharati scheme provides free scooties to meritorious girl students. Check eligibility criteria and how to apply."
+title: "Assam Pragyan Bharati Scooty Scheme 2026 — HS Percentage Required & How to Apply"
+description: "Assam Pragyan Bharati scooty scheme 2026: minimum HS percentage required, eligibility for girl students, how to apply, and benefits. Free scooty for Class 12 merit students in Assam."
 category: "State Schemes"
-keywords: ["Pragyan Bharati scooty scheme", "Assam free scooty scheme", "Assam girl students scooty", "Pragyan Bharati eligibility", "free scooty for girls Assam 2025", "Assam education scheme"]
+keywords: ["assam pragyan bharati scooty scheme 2026", "hs scooty percentage 2026", "pragyan bharati scooty scheme 2026", "assam scooty scheme 2026", "assam hs scooty percentage 2026", "scooty scheme for students in assam 2026", "Assam free scooty scheme", "Assam girl students scooty", "Pragyan Bharati eligibility"]
 lastUpdated: "2025-02-17"
 readingTime: "7 min"
 officialLinks:

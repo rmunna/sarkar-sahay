@@ -1,5 +1,5 @@
 ---
-title: "Caste Certificate Application Rejected — How to Fix & Re-Apply"
+title: "Caste Certificate Rejected? Reasons, How to Fix & Re-Apply (2026)"
 description: "Caste certificate application rejected? Learn common rejection reasons, how to fix errors, re-apply online, and file an appeal — state-wise steps included."
 category: "Certificates"
 keywords:
