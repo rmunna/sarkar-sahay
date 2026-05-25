@@ -1,8 +1,8 @@
 ---
-title: "Apna Khata Rajasthan: Check Land Record & Jamabandi Online"
-description: "Check Rajasthan land records on Apna Khata portal. View jamabandi nakal, khasra, plot map by district and tehsil search."
+title: "Khata Nakal Rajasthan — Apna Khata Jamabandi Nakal Online (apnakhata.raj.nic.in)"
+description: "Download khata nakal (jamabandi copy) from Apna Khata Rajasthan at apnakhata.raj.nic.in. View land records by district, tehsil, khasra number, and owner name — step-by-step guide."
 category: "Property & Legal"
-keywords: ["Apna Khata Rajasthan", "Rajasthan land record", "jamabandi nakal Rajasthan", "apnakhata.raj.nic.in", "Rajasthan khasra", "Rajasthan plot map"]
+keywords: ["khata nakal", "khata nakal rajasthan", "apna khata rajasthan", "jamabandi nakal rajasthan", "apnakhata.raj.nic.in", "nakal khata", "online jamabandi rajasthan", "khasra number search rajasthan", "rajasthan land record"]
 readingTime: "8 min"
 lastUpdated: "2026-03-06"
 officialLinks:
