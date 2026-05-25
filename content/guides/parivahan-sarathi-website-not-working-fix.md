@@ -1,6 +1,6 @@
 ---
-title: "Parivahan/Sarathi Website Not Working — How to Fix DL & RC Issues"
-description: "Parivahan or Sarathi website not working? Fix server errors, slot booking failures, RC search issues, and payment errors with this step-by-step guide."
+title: "Parivahan & Sarathi Website Not Working Today? Fix Server Error, Slot & Payment (2026)"
+description: "Parivahan.gov.in or Sarathi not opening, server error or slot booking failing? Try before 9 AM, clear browser cache, switch to Chrome, use mParivahan app, or visit nearest RTO directly."
 category: "Utilities"
 keywords:
   - parivahan not working

@@ -1,6 +1,6 @@
 ---
-title: "Domicile Certificate Application Rejected — How to Fix"
-description: "Domicile certificate rejected? Learn common rejection reasons, how to fix errors, re-apply online or offline, and appeal to SDM/DM state-wise."
+title: "Domicile Certificate Rejected? 7 Reasons Why & How to Fix or Re-Apply (2026)"
+description: "Domicile/residence certificate rejected? Common reasons: wrong address proof, Aadhaar address mismatch, tehsildar objection, income certificate missing. Steps to fix, re-apply online & SDM appeal process."
 keywords:
   - domicile certificate rejected
   - domicile certificate rejection reasons

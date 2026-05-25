@@ -1,16 +1,21 @@
 ---
-title: "How to Add or Remove Members from Ration Card"
-description: "Step-by-step guide to add or remove family members from your ration card online and offline. Covers documents, eligibility, and state-wise process."
+title: "Add or Remove Member in Ration Card Online 2026 — Documents & State Portal"
+description: "Add newborn, spouse or remove deceased/migrated member from ration card online. Required docs: Aadhaar, birth certificate, death certificate. Apply at your state PDS portal or nearest ration office."
 slug: "ration-card-add-remove-member"
 category: "Food & Ration"
 lastUpdated: "2026-02-18"
 readingTime: "10 min"
 keywords:
-  - ration card
-  - add member ration card
-  - remove member ration card
-  - PDS
-  - food security
+  - add member in ration card
+  - remove member from ration card
+  - ration card member addition online
+  - add name in ration card 2026
+  - how to add newborn in ration card
+  - add member ration card documents
+  - remove deceased from ration card
+  - ration card member addition
+  - ration card add member online
+  - add family member ration card
 officialLinks:
   - https://nfsa.gov.in
   - https://epds.nic.in

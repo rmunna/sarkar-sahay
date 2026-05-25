@@ -1,8 +1,6 @@
 ---
-title: "Ration Card Split: How to Get Separate Card for New Family"
-description: >-
-  Complete guide to split your ration card for a new family — married children,
-  separate kitchen. Steps, documents, and application process explained.
+title: "Ration Card Split After Marriage 2026 — Get Separate Card for New Family Online"
+description: "Split ration card for a new family after marriage or living separately. Docs needed: existing ration card, Aadhaar, address proof of new residence. Apply at state PDS portal or ration office."
 category: Government Schemes
 keywords:
   - ration card split
