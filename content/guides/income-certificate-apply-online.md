@@ -1,9 +1,19 @@
 ---
-title: "Income Certificate Online Apply: Process, Documents & Fees"
-description: "How to apply for income certificate online in India. Step-by-step process, documents required, fees, timeline & common rejection reasons."
+title: "Income Certificate Apply Online 2026 — All States Portal Links & Process"
+description: "Apply for income certificate (Aay Praman Patra) online in any state. Portal links for UP, Maharashtra, Rajasthan, Kerala, Delhi, AP, WB, Bihar, MP & more. Aadhaar mandatory, 15–30 day approval."
 category: "Certificates"
-keywords: ["income certificate online apply", "income certificate kaise banaye", "income praman patra", "income certificate documents", "income certificate apply online India", "aay praman patra", "income certificate fees"]
-lastUpdated: "2026-03-06"
+keywords:
+  - income certificate apply online 2026
+  - income certificate online apply
+  - aay praman patra apply online
+  - income certificate all states india
+  - how to apply income certificate online
+  - income certificate documents required
+  - income certificate state portal links
+  - income certificate for scholarship 2026
+  - income praman patra apply
+  - income certificate kaise banaye
+lastUpdated: "2026-05-25"
 readingTime: "8 min"
 officialLinks:
   - "https://serviceonline.gov.in"
@@ -63,20 +73,24 @@ Any resident of India can apply for an income certificate from their state gover
 
 While each state has its own portal, the process is largely similar:
 
-### Step 1: Visit Your State's e-District Portal
+### Step 1: Visit Your State's Portal — Full Guide
 
-| State | Portal |
-|-------|--------|
-| Uttar Pradesh | [edistrict.up.gov.in](https://edistrict.up.gov.in) |
-| Delhi | [edistrict.delhigovt.nic.in](https://edistrict.delhigovt.nic.in) |
-| Madhya Pradesh | [mpedistrict.gov.in](https://mpedistrict.gov.in) |
-| Bihar | [serviceonline.bihar.gov.in](https://serviceonline.bihar.gov.in) |
-| Rajasthan | [edistrict.rajasthan.gov.in](https://edistrict.rajasthan.gov.in) |
-| Maharashtra | [aaplesarkar.mahaonline.gov.in](https://aaplesarkar.mahaonline.gov.in) |
-| Karnataka | [sevasindhuservices.karnataka.gov.in](https://sevasindhuservices.karnataka.gov.in) |
-| Tamil Nadu | [tnedistrict.tn.gov.in](https://tnedistrict.tn.gov.in) |
-| West Bengal | [edistrict.wb.gov.in](https://edistrict.wb.gov.in) |
-| Others | [serviceonline.gov.in](https://serviceonline.gov.in) |
+| State | Official Portal | Detailed Guide |
+|-------|----------------|----------------|
+| **Uttar Pradesh** | edistrict.up.gov.in | [UP Income Certificate](/guide/up-income-certificate-apply-online) |
+| **Maharashtra** | aaplesarkar.mahaonline.gov.in | [Maharashtra Income Certificate](/guide/maharashtra-income-certificate-apply-online) |
+| **Rajasthan** | emitra.rajasthan.gov.in | [Rajasthan Income Certificate](/guide/rajasthan-income-certificate-apply-online) |
+| **Telangana** | ts.meeseva.gov.in | [Telangana Income Certificate](/guide/telangana-income-certificate-apply-online) |
+| **Gujarat** | digitalgujarat.gov.in | [Gujarat Income Certificate](/guide/gujarat-income-certificate-apply-online) |
+| **Bihar** | serviceonline.bihar.gov.in | [Bihar Income Certificate](/guide/bihar-income-certificate-apply-online) |
+| **Madhya Pradesh** | mpedistrict.gov.in | [MP Income Certificate](/guide/mp-income-certificate-apply-online) |
+| **West Bengal** | edistrict.wb.gov.in | [WB Income Certificate](/guide/west-bengal-income-certificate-apply-online) |
+| **Delhi** | edistrict.delhigovt.nic.in | [Delhi Income Certificate](/guide/delhi-income-certificate-apply-online) |
+| **Kerala** | ecitizen.kerala.gov.in | [Kerala Income Certificate](/guide/kerala-income-certificate-apply-online) |
+| **Andhra Pradesh** | meeseva.gov.in | [AP Income Certificate](/guide/andhra-pradesh-income-certificate-apply-online) |
+| **Karnataka** | sevasindhu.karnataka.gov.in | [Karnataka Income Certificate](/guide/karnataka-income-certificate-online-apply) |
+| **Tamil Nadu** | tnedistrict.tn.gov.in | Search [Tamil Nadu Revenue Services] |
+| **Others** | serviceonline.gov.in | Check your state government website |
 
 ### Step 2: Register / Login
 
