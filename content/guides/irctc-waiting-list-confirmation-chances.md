@@ -1,8 +1,18 @@
 ---
-title: "WL Confirmation Chances 2026 — IRCTC Waiting List Will It Confirm? (WL 15 to WL 100)"
-description: "WL confirmation chances for every WL number: WL 15 (good), WL 30 (moderate), WL 51–80 (low), WL 80+ (very low). How GNWL, RAC, RLWL and PQWL work, chart prep times, and when to cancel."
+title: "IRCTC Waiting List Confirmation Chances — WL 15, 30, 50, 80+ Probability Chart (2026)"
+description: "Will your IRCTC WL ticket get confirmed? WL 1–15: 85%+ chance. WL 16–30: 50–60%. WL 31–60: 20–30%. WL 60+: under 10%. GNWL vs RLWL vs PQWL explained + when to cancel."
 category: "Utilities"
-keywords: ["IRCTC waitlist confirmation", "RAC vs WL", "waiting list chances", "IRCTC WL confirmation probability", "RLWL PQWL meaning", "chart preparation IRCTC", "waitlist ticket cancel"]
+keywords:
+  - irctc waiting list confirmation chances
+  - wl confirmation chances irctc
+  - wl 15 confirmation chances
+  - wl 30 confirmation chances
+  - irctc waitlist confirmation probability
+  - rac vs wl irctc
+  - gnwl rlwl pqwl meaning
+  - irctc waiting list will confirm
+  - chart preparation irctc
+  - waitlist ticket cancel irctc
 lastUpdated: "2026-03-05"
 readingTime: "10 min"
 officialLinks:

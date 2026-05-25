@@ -1,6 +1,6 @@
 ---
-title: "APL vs BPL Ration Card — Difference, Card Colours, Subsidy & Eligibility 2026"
-description: "APL vs BPL ration card difference: card colours (state-wise), grain quota (5kg BPL vs limited APL), RKSY-1 is BPL, AAY category benefits, eligibility criteria and how to convert APL to BPL."
+title: "APL vs BPL Ration Card — Who Gets Free Grain, Colour Code & How to Convert (2026)"
+description: "BPL/PHH ration card = 5 kg free grain per person/month. AAY = 35 kg free. APL = no free grain. See colour code by state, income limit for BPL eligibility, and how to convert APL to BPL online."
 category: Government Schemes
 keywords:
   - apl vs bpl ration card

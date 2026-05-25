@@ -1,13 +1,14 @@
 ---
-title: "SBI YONO App Not Working Today? Fix Login, OTP & Transaction Errors (2026)"
-description: "YONO SBI not working, login failed or OTP not coming? Fix crashes, biometric errors, server errors & transaction failures step by step — updated for 2026."
+title: "YONO SBI Not Working Today? Login Failed, OTP Not Coming — 8 Fixes (2026)"
+description: "YONO SBI login failed, OTP not arriving, black screen or server error? Check SBI server status + 8 instant fixes: clear cache, force update, reset MPIN, switch network — resolved in 5 min."
 category: "Tax & Finance"
 keywords:
+  - yono sbi not working today
   - sbi yono app not working
   - sbi yono login failed
   - yono sbi otp not coming
+  - sbi yono server down today
   - yono app crash fix
-  - sbi yono server down
   - yono biometric login not working
   - sbi yono update required error
   - yono sbi transaction failed
