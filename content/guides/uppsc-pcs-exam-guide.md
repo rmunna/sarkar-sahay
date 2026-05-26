@@ -1,8 +1,18 @@
 ---
-title: "UPPSC PCS Exam Guide — Eligibility, Pattern, Syllabus & Preparation Tips"
-description: "Complete UPPSC PCS exam guide covering eligibility, exam pattern, syllabus, application process, and preparation strategy for UP civil services."
+title: "UPPSC PCS 2026 — Notification, 200+ Vacancies, Salary ₹56,100 & Apply Online"
+description: "UPPSC PCS 2026: 200+ vacancies for SDM, DSP, BDO and allied posts. Salary ₹56,100–₹1,77,500. Eligibility: graduate 21–40 years. Prelims, Mains, Interview. Apply at uppsc.up.nic.in."
 category: "Jobs & Exams"
-keywords: ["UPPSC PCS exam", "UP PCS preparation", "UPPSC syllabus", "UP civil services", "UPPSC eligibility", "UP PCS exam pattern"]
+keywords:
+  - uppsc pcs 2026
+  - uppsc pcs notification 2026
+  - uppsc pcs salary 2026
+  - uppsc pcs eligibility 2026
+  - uppsc pcs vacancy 2026
+  - uppsc pcs apply online 2026
+  - up pcs exam 2026
+  - uppsc syllabus 2026
+  - up civil services 2026
+  - uppsc pcs cut off 2026
 readingTime: "9 min"
 officialLinks:
   - "https://uppsc.up.nic.in"

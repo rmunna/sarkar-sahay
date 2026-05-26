@@ -1,8 +1,18 @@
 ---
-title: "KVS Teacher Recruitment Guide — Eligibility, Exam Pattern, and Process"
-description: "Complete guide to Kendriya Vidyalaya Sangathan teacher recruitment covering PGT, TGT, PRT eligibility, exam pattern, and selection process."
+title: "KVS Teacher Recruitment 2026 — PGT/TGT/PRT Salary, Eligibility & Apply Online"
+description: "KVS teacher recruitment 2026: PGT (₹47,600), TGT (₹44,900), PRT (₹35,400). Eligibility: B.Ed + CTET/KVS TET. Notification, vacancy count, exam pattern & apply at kvsangathan.nic.in. Thousands of posts across India."
 category: "Jobs & Exams"
-keywords: ["KVS teacher recruitment", "KVS PGT TGT PRT", "Kendriya Vidyalaya teacher", "KVS exam pattern", "KVS eligibility"]
+keywords:
+  - kvs teacher recruitment 2026
+  - kvs pgt tgt prt 2026
+  - kvs teacher salary 2026
+  - kvs teacher eligibility 2026
+  - kvs apply online 2026
+  - kendriya vidyalaya teacher recruitment 2026
+  - kvs notification 2026
+  - kvs vacancy 2026
+  - kvs exam pattern 2026
+  - kvs teacher selection process
 readingTime: "9 min"
 officialLinks:
   - https://kvsangathan.nic.in

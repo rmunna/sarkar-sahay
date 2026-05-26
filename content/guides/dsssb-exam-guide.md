@@ -1,11 +1,21 @@
 ---
-title: "DSSSB Exam Guide 2025: Eligibility, Syllabus, Pattern & Preparation Tips"
-description: "Complete guide to DSSSB (Delhi Subordinate Services Selection Board) exams — eligibility, age limit, syllabus, exam pattern, salary, and preparation strategy for various Delhi government posts."
+title: "DSSSB Recruitment 2026 — Vacancies, Salary, Eligibility & Apply at dsssb.delhi.gov.in"
+description: "DSSSB 2026 recruitment: Delhi government posts for teachers, clerks, JE, pharmacists. Salary ₹25,500–₹1,12,400. Eligibility by post, age limit, one-tier/two-tier exam pattern, syllabus & apply at dsssb.delhi.gov.in."
 slug: dsssb-exam-guide
 category: "Jobs & Exams"
-tags: ["dsssb", "delhi government jobs", "dsssb exam", "dsssb eligibility", "delhi sarkari naukri"]
+tags: ["dsssb", "delhi government jobs", "dsssb exam 2026", "dsssb eligibility", "delhi sarkari naukri 2026"]
 readingTime: "10 min"
-keywords: ["dsssb-exam-guide"]
+keywords:
+  - dsssb recruitment 2026
+  - dsssb vacancy 2026
+  - dsssb exam 2026
+  - dsssb eligibility 2026
+  - dsssb salary 2026
+  - dsssb apply online 2026
+  - dsssb syllabus 2026
+  - delhi government jobs 2026
+  - dsssb teacher recruitment 2026
+  - dsssb je recruitment 2026
 officialLinks:
   - https://dsssb.delhi.gov.in
 ---
