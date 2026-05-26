@@ -1,6 +1,6 @@
 ---
-title: "Domicile Certificate Rejected? 7 Reasons Why & How to Fix or Re-Apply (2026)"
-description: "Domicile/residence certificate rejected? Common reasons: wrong address proof, Aadhaar address mismatch, tehsildar objection, income certificate missing. Steps to fix, re-apply online & SDM appeal process."
+title: "Domicile Certificate Rejected? 7 Reasons Why & Fix — UP, Delhi, Maharashtra (2026)"
+description: "Domicile/residence certificate rejected? Top 7 reasons: address on Aadhaar doesn't match, less than required residence period, wrong documents, missing self-declaration. Step-by-step fix guide for UP, Delhi, Maharashtra & all states."
 keywords:
   - domicile certificate rejected
   - domicile certificate rejection reasons

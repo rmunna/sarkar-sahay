@@ -1,6 +1,6 @@
 ---
-title: "DigiLocker Verification Not Working? Fix Authentication & Login Errors"
-description: "DigiLocker verification or authentication failed? Fix Aadhaar verification issues, login errors, OTP problems, and KYC failures with step-by-step solutions."
+title: "DigiLocker Login & Verification Not Working? 8 Fixes — OTP, Aadhaar Error (2026)"
+description: "DigiLocker login not working, Aadhaar verification failed, or OTP not received? 8 instant fixes: check Aadhaar-mobile link, clear browser cache, use app instead of web, update DigiLocker app. Also fixes 'authentication failed' and KYC errors."
 category: "Utilities"
 keywords:
   - "digilocker verification problem"
