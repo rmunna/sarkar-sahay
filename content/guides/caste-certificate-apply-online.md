@@ -1,6 +1,6 @@
 ---
 title: "Caste Certificate Apply Online 2026 — All States OBC/SC/ST Portal Links & Process"
-description: "Apply for caste certificate (OBC/SC/ST) online in any state. Portal links for UP, Maharashtra, Rajasthan, Tamil Nadu, Telangana, Bihar, MP, Gujarat, Kerala, AP, WB & more. Documents & step-by-step guide 2026."
+description: "Apply for caste certificate (OBC/SC/ST) online in any state. Portal links for UP, Maharashtra, Rajasthan, TN, Karnataka, Kerala, AP, WB, Bihar, MP, Gujarat, Haryana, Punjab, Odisha, Jharkhand, Assam, CG & more. Documents & step-by-step guide 2026."
 category: "Certificates"
 keywords:
   - caste certificate apply online 2026
@@ -46,12 +46,12 @@ A **caste certificate** (जाति प्रमाण पत्र / Communit
 | **Andhra Pradesh** | meeseva.gov.in | MRO / RDO | [AP Caste Certificate](/guide/andhra-pradesh-caste-certificate-apply-online) |
 | **West Bengal** | castcertificatewb.gov.in / edistrict.wb.gov.in | SDO / BDO | [WB Caste Certificate](/guide/west-bengal-caste-certificate-apply-online) |
 | **Karnataka** | sevasindhu.karnataka.gov.in | Tahsildar | [Karnataka Caste Certificate](/guide/karnataka-caste-certificate-apply-online) |
-| **Haryana** | saralharyana.gov.in | Tehsildar | Apply via Antyodaya Saral portal |
-| **Punjab** | punjabedistrictservices.gov.in | Tehsildar / SDM | Apply via Punjab E-District |
-| **Odisha** | serviceonline.odisha.gov.in | Tahasildar | Apply via Odisha Service Online |
-| **Jharkhand** | jharsewa.jharkhand.gov.in | Circle Officer | Apply via Jharsewa portal |
-| **Assam** | edistrict.assam.gov.in | Circle Officer | Apply via Assam e-District |
-| **Chhattisgarh** | edistrict.cgstate.gov.in | SDM / Tehsildar | Apply via CG e-District |
+| **Haryana** | saralharyana.gov.in | Tehsildar | [Haryana Caste Certificate](/guide/haryana-caste-certificate-apply-online) |
+| **Punjab** | punjabedistrictservices.gov.in | Tehsildar / SDM | [Punjab Caste Certificate](/guide/punjab-caste-certificate-apply-online) |
+| **Odisha** | serviceonline.odisha.gov.in | Tahasildar | [Odisha Caste Certificate](/guide/odisha-caste-certificate-apply-online) |
+| **Jharkhand** | jharsewa.jharkhand.gov.in | Circle Officer | [Jharkhand Caste Certificate](/guide/jharkhand-caste-certificate-apply-online) |
+| **Assam** | edistrict.assam.gov.in | Circle Officer | [Assam Caste Certificate](/guide/assam-caste-certificate-apply-online) |
+| **Chhattisgarh** | edistrict.cgstate.gov.in | SDM / Tehsildar | [Chhattisgarh Caste Certificate](/guide/chhattisgarh-caste-certificate-apply-online) |
 | **Delhi** | edistrict.delhigovt.nic.in | SDM | Apply via Delhi e-District |
 
 ---

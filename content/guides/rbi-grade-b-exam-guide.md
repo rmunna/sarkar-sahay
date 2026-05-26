@@ -1,8 +1,18 @@
 ---
-title: "RBI Grade B Exam Guide — Eligibility, Syllabus, and Selection Process"
-description: "Complete guide to RBI Grade B officer exam covering eligibility, exam pattern, syllabus, salary, and step-by-step preparation strategy."
+title: "RBI Grade B 2026 — Notification Out, Vacancies, Salary ₹55,000 & Apply Online"
+description: "RBI Grade B Officer 2026: notification released, 92+ vacancies, salary ₹55,000–₹1,02,000/month. Eligibility: graduate 60%, age 21–30. Exam date, syllabus (Phase 1 & 2), cut-off & apply at opportunities.rbi.org.in."
 category: "Jobs & Exams"
-keywords: ["RBI Grade B exam", "RBI officer recruitment", "RBI Grade B eligibility", "RBI Grade B syllabus", "Reserve Bank of India jobs"]
+keywords:
+  - rbi grade b 2026
+  - rbi grade b notification 2026
+  - rbi grade b officer salary
+  - rbi grade b eligibility 2026
+  - rbi grade b apply online 2026
+  - rbi grade b syllabus 2026
+  - rbi grade b exam date 2026
+  - rbi grade b vacancies 2026
+  - rbi officer recruitment 2026
+  - rbi grade b cut off 2026
 readingTime: "9 min"
 officialLinks:
   - https://rbi.org.in
