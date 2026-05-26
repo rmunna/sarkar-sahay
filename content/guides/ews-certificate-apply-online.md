@@ -1,29 +1,74 @@
 ---
-title: "EWS Certificate Apply Online: Eligibility, Documents & Process"
-description: >-
-  How to apply for EWS certificate online. Eligibility criteria, ₹8 lakh income limit, documents required, e-district process, and 1-year validity explained.
+title: "EWS Certificate Apply Online 2026 — ₹8 Lakh Limit, All States, NEET/JEE & Government Job"
+description: "Apply for EWS (Economically Weaker Section) certificate 2026. Income limit ₹8 lakh/year + property conditions. State portals for UP, Delhi, Bihar, Maharashtra & all states. For 10% quota in UPSC, SSC, NEET, JEE & IIT admissions."
 category: Certificates
 keywords:
-  - ews certificate apply online
-  - ews certificate documents
-  - economically weaker section certificate
-  - ews certificate eligibility
-  - ews income limit
-  - ews reservation certificate
+  - ews certificate apply online 2026
+  - ews certificate income limit
+  - ews certificate documents required
+  - economically weaker section certificate apply online
+  - ews certificate for government job
+  - ews certificate for neet 2026
+  - ews certificate for jee 2026
+  - ews certificate all states
+  - ews praman patra apply online
   - ews certificate validity
-  - ews certificate for government jobs
-  - ews certificate online apply
-  - e-district ews certificate
-readingTime: 8 min
+readingTime: 9 min
 officialLinks:
-  - 'https://edistrict.up.gov.in/'
-  - 'https://dopt.gov.in/'
-  - 'https://edistrict.delhigovt.nic.in/'
-  - 'https://serviceonline.bihar.gov.in/'
-lastUpdated: "2026-03-06"
+  - 'https://edistrict.up.gov.in'
+  - 'https://edistrict.delhigovt.nic.in'
+  - 'https://serviceonline.bihar.gov.in'
+  - 'https://ts.meeseva.gov.in'
+lastUpdated: "2026-05-26"
 ---
 
-An **EWS (Economically Weaker Section) certificate** is a government document certifying that a person belongs to the economically weaker section of society. Introduced by the **103rd Constitutional Amendment (2019)**, EWS reservation provides **10% reservation** in government jobs and educational institutions for economically disadvantaged individuals from the general (unreserved) category.
+# EWS Certificate Apply Online 2026
+
+An **EWS (Economically Weaker Section) certificate** is a government document certifying that a person from the **General/Open category** has annual family income below **₹8 lakh** and does not own significant property. Introduced by the **103rd Constitutional Amendment (2019)**, it provides **10% reservation** in central government jobs and central educational institutions.
+
+> **Critical:** EWS is **only for General category** applicants — if you are SC/ST/OBC, you cannot claim EWS. Apply for the relevant [caste certificate](/guide/caste-certificate-apply-online) instead.
+
+---
+
+## EWS Income & Property Limits (2026)
+
+| Criterion | Eligibility Limit |
+|-----------|------------------|
+| **Annual family income** | **Less than ₹8 lakh/year** (all sources) |
+| **Agricultural land** | Less than **5 acres** |
+| **Residential flat** | Less than **1,000 sq ft** |
+| **Residential plot (notified area)** | Less than **100 sq yards** |
+| **Residential plot (non-notified area)** | Less than **200 sq yards** |
+
+> All conditions must be satisfied simultaneously. Failing any one criterion makes you ineligible even if income is below ₹8 lakh.
+
+---
+
+## State-Wise EWS Certificate Portals
+
+| State | Official Portal | Issued By |
+|-------|----------------|-----------|
+| **Uttar Pradesh** | edistrict.up.gov.in | SDM / Tehsildar |
+| **Delhi** | edistrict.delhigovt.nic.in | SDM |
+| **Maharashtra** | aaplesarkar.mahaonline.gov.in | SDO / Tehsildar |
+| **Rajasthan** | sso.rajasthan.gov.in / E-Mitra | SDM / Tehsildar |
+| **Bihar** | serviceonline.bihar.gov.in | Circle Officer |
+| **Madhya Pradesh** | mpedistrict.gov.in | SDM (Samagra ID required) |
+| **West Bengal** | edistrict.wb.gov.in | SDO |
+| **Tamil Nadu** | tnedistrict.tn.gov.in | Tahsildar |
+| **Telangana** | ts.meeseva.gov.in | MRO / Tahsildar |
+| **Gujarat** | digitalgujarat.gov.in | Mamlatdar |
+| **Karnataka** | sevasindhu.karnataka.gov.in | Tahsildar |
+| **Kerala** | edistrict.kerala.gov.in | Village Officer |
+| **Haryana** | saralharyana.gov.in | Tehsildar |
+| **Punjab** | punjabedistrictservices.gov.in | SDM |
+| **Andhra Pradesh** | meeseva.gov.in | MRO / Tahsildar |
+| **Odisha** | serviceonline.odisha.gov.in | Tahasildar |
+| **Jharkhand** | jharsewa.jharkhand.gov.in | Circle Officer |
+| **Assam** | edistrict.assam.gov.in | Circle Officer |
+| **Chhattisgarh** | edistrict.cgstate.gov.in | SDM |
+
+---
 
 ## Who Needs an EWS Certificate?
 
@@ -191,6 +236,62 @@ No, if the certificate has expired (issued for a previous financial year), you n
 If your family income exceeds ₹8 lakh, you are **no longer eligible** for EWS benefits. You should not use the certificate for any benefits after your income crosses the limit. Using it knowingly can lead to legal consequences.
 
 ---
+
+## EWS for NEET 2026 — What You Need
+
+For **NEET UG 2026 EWS seats** (15% central quota in government medical colleges):
+
+1. EWS certificate from your **state's Tehsildar/SDM** — issued in 2026
+2. Income < ₹8 lakh/year AND all property conditions satisfied
+3. You must be **General/Unreserved category** (not SC/ST/OBC)
+4. Upload during NEET UG counselling on MCC portal (mcc.nic.in)
+5. Some states require EWS certificate mentioning **JEE/NEET counselling** — check state-specific instructions
+
+---
+
+## EWS for JEE / IIT-NIT Admissions 2026
+
+For **JEE Main / JEE Advanced 2026 EWS category**:
+
+1. Select EWS category in JEE registration form
+2. EWS certificate required at **reporting/document verification** stage
+3. Certificate must be issued by Tehsildar/SDM (notarized affidavit alone not accepted)
+4. Must satisfy income AND all property conditions
+5. Certificate must be issued **within the relevant financial year**
+
+---
+
+## EWS for UPSC / SSC / Banking 2026
+
+For **central government job applications** (UPSC Civil Services, SSC CGL, banking exams):
+
+1. Apply under EWS category in the exam application form
+2. At document verification stage: submit EWS certificate
+3. Certificate must be from Tehsildar/SDM — not from employer or notary
+4. Must be for the **current financial year** (April–March)
+5. Income certificate alone is **not sufficient** — EWS certificate must specifically certify EWS status
+
+---
+
+## Common Mistakes That Cause EWS Certificate Rejection
+
+| Mistake | Fix |
+|---------|-----|
+| Applying as OBC/SC/ST | EWS is General category only |
+| Submitting income certificate instead of EWS certificate | Apply specifically for "EWS / Income & Asset Certificate" |
+| Property not declared fully | Declare ALL land and property of entire family |
+| Old/expired certificate | Reapply — EWS is valid for 1 year only |
+| Wrong issuing authority | Must be Tehsildar/SDM — not notary or panchayat |
+
+---
+
+## Related Guides
+
+- [Caste Certificate Apply Online — All States](/guide/caste-certificate-apply-online)
+- [Income Certificate Apply Online — All States](/guide/income-certificate-apply-online)
+- [UP Income Certificate](/guide/up-income-certificate-apply-online)
+- [Delhi Income Certificate](/guide/delhi-income-certificate-apply-online)
+- [Bihar Income Certificate](/guide/bihar-income-certificate-apply-online)
 
 *Related guides: [OBC Certificate](/guide/obc-certificate-apply-online) | [SC/ST Certificate](/guide/sc-st-certificate-apply-online) | [Non-Creamy Layer Certificate](/guide/non-creamy-layer-certificate-apply)*
 
