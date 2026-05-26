@@ -1,6 +1,6 @@
 ---
 title: "Income Certificate Apply Online 2026 — All States Portal Links & Process"
-description: "Apply for income certificate (Aay Praman Patra) online in any state. Portal links for UP, Maharashtra, Rajasthan, Kerala, Delhi, AP, WB, Bihar, MP & more. Aadhaar mandatory, 15–30 day approval."
+description: "Apply for income certificate (Aay Praman Patra) online in any state. Portal links for UP, Maharashtra, Rajasthan, Tamil Nadu, Kerala, Delhi, AP, WB, Bihar, MP, Punjab, Haryana, Odisha & more. Step-by-step guide 2026."
 category: "Certificates"
 keywords:
   - income certificate apply online 2026
@@ -88,8 +88,14 @@ While each state has its own portal, the process is largely similar:
 | **Delhi** | edistrict.delhigovt.nic.in | [Delhi Income Certificate](/guide/delhi-income-certificate-apply-online) |
 | **Kerala** | ecitizen.kerala.gov.in | [Kerala Income Certificate](/guide/kerala-income-certificate-apply-online) |
 | **Andhra Pradesh** | meeseva.gov.in | [AP Income Certificate](/guide/andhra-pradesh-income-certificate-apply-online) |
+| **Tamil Nadu** | tnedistrict.tn.gov.in | [Tamil Nadu Income Certificate](/guide/tamil-nadu-income-certificate-apply-online) |
 | **Karnataka** | sevasindhu.karnataka.gov.in | [Karnataka Income Certificate](/guide/karnataka-income-certificate-online-apply) |
-| **Tamil Nadu** | tnedistrict.tn.gov.in | Search [Tamil Nadu Revenue Services] |
+| **Punjab** | punjabedistrictservices.gov.in | [Punjab Income Certificate](/guide/punjab-income-certificate-apply-online) |
+| **Haryana** | saralharyana.gov.in | [Haryana Income Certificate](/guide/haryana-income-certificate-apply-online) |
+| **Odisha** | serviceonline.odisha.gov.in | [Odisha Income Certificate](/guide/odisha-income-certificate-apply-online) |
+| **Jharkhand** | jharsewa.jharkhand.gov.in | [Jharkhand Income Certificate](/guide/jharkhand-income-certificate-apply-online) |
+| **Assam** | edistrict.assam.gov.in | [Assam Income Certificate](/guide/assam-income-certificate-apply-online) |
+| **Chhattisgarh** | edistrict.cgstate.gov.in | [Chhattisgarh Income Certificate](/guide/chhattisgarh-income-certificate-apply-online) |
 | **Others** | serviceonline.gov.in | Check your state government website |
 
 ### Step 2: Register / Login
