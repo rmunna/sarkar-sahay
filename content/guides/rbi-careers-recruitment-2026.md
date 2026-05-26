@@ -1,6 +1,6 @@
 ---
-title: "RBI Careers 2026 — All Recruitment, Vacancies, Eligibility & Apply Online"
-description: "Complete guide to RBI careers 2026: Grade B Officer, Grade A, Assistant, Office Attendant recruitment. Check eligibility, salary, exam dates and how to apply at opportunities.rbi.org.in."
+title: "RBI Careers 2026 — Grade B ₹55K, Assistant ₹36K, All Vacancies & Apply Online"
+description: "RBI recruitment 2026: Grade B Officer (salary ₹55,000–₹1,02,000), Grade A (DEPR/DSIM), Assistant (₹36,091), Office Attendant. Eligibility, exam dates, notification links & apply at opportunities.rbi.org.in. All posts in one place."
 category: "Jobs & Exams"
 lastUpdated: "2026-05-23"
 readingTime: "11 min"

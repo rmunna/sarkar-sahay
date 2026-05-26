@@ -1,6 +1,6 @@
 ---
-title: "SSEPD Odisha 2026 — Disability Pension Application Status Check by Aadhaar"
-description: "Check SSEPD Odisha disability pension application status by Aadhaar number. Apply for SSEPD schemes (MODST, NMDS, ADWAS), check beneficiary list & track payments online."
+title: "SSEPD Odisha 2026 — Check Application Status by Aadhaar, Pension Amount & Apply"
+description: "SSEPD Odisha status check by Aadhaar: visit ssepd.odisha.gov.in → Beneficiary Search. Disability pension ₹500–₹700/month (MODST, NMDS, ADWAS schemes). How to apply, documents required & payment status check step by step."
 category: "Welfare Schemes"
 lastUpdated: "2026-05-23"
 readingTime: "9 min"

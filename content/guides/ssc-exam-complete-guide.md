@@ -1,8 +1,18 @@
 ---
-title: "SSC Exam Guide — CGL, CHSL, MTS, GD Complete Overview"
-description: "Complete guide to SSC exams including CGL, CHSL, MTS, and GD Constable. Compare eligibility, syllabus, salary, and learn how to apply step by step."
+title: "SSC Recruitment 2026 — CGL, CHSL, MTS, GD Salary, Eligibility & Apply at ssc.gov.in"
+description: "SSC 2026: CGL (Group B/C, ₹25,500–₹1,51,100), CHSL (LDC/JSA ₹19,900), MTS (₹18,000), GD Constable (₹21,700), CPO SI (₹35,400). Eligibility, notification dates, vacancy count & how to apply at ssc.gov.in."
 category: "Jobs & Exams"
-keywords: ["SSC CGL exam", "SSC CHSL guide", "SSC MTS eligibility", "SSC GD Constable", "SSC exam preparation", "Staff Selection Commission"]
+keywords:
+  - ssc recruitment 2026
+  - ssc exam 2026
+  - ssc cgl 2026
+  - ssc chsl 2026
+  - ssc mts 2026
+  - ssc gd 2026 notification
+  - ssc salary 2026
+  - ssc eligibility 2026
+  - ssc apply online 2026
+  - staff selection commission recruitment 2026
 readingTime: "9 min"
 officialLinks:
   - "https://ssc.gov.in"

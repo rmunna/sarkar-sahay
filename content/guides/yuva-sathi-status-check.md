@@ -1,6 +1,6 @@
 ---
-title: "Yuva Sathi Yojana 2026 — Status Check by Mobile Number & Apply Online"
-description: "Check Yuva Sathi Yojana status by mobile number or Aadhaar online. Complete guide to eligibility, stipend amount ₹1,500/month, how to apply & track your application."
+title: "Yuva Sathi Status Check by Mobile Number 2026 — ₹1,500 Stipend & Apply Online"
+description: "Yuva Sathi Yojana status check by mobile number: visit yuvaportal.wb.gov.in → Track Application. Stipend: ₹1,500/month for 1 year. Eligibility: West Bengal resident, 18–40 years, registered jobseeker. Fix login & payment issues."
 category: "Government Schemes"
 lastUpdated: "2026-05-23"
 readingTime: "8 min"
