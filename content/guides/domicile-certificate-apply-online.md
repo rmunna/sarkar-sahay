@@ -1,30 +1,92 @@
 ---
-title: "Domicile Certificate Apply Online: State-Wise Process & Documents"
-description: >-
-  How to apply for domicile certificate online via e-district portal. Documents required, fees ₹10-₹50, processing time, and state-wise process explained.
+title: "Domicile Certificate Apply Online 2026 — All States, NEET State Quota & Residency"
+description: "Apply for domicile/residence/nativity certificate online 2026. Required for NEET 85% state quota, government jobs, state college admissions. Portal links for UP, Delhi, Maharashtra, TN, Karnataka, AP, Telangana & all states. Documents & processing time."
 category: Certificates
 keywords:
-  - domicile certificate apply online
-  - domicile certificate documents
-  - domicile certificate online apply
-  - domicile certificate fee
-  - e-district domicile certificate
-  - domicile certificate for admission
-  - state domicile certificate
+  - domicile certificate apply online 2026
+  - domicile certificate for neet state quota 2026
+  - residence certificate apply online
+  - nativity certificate apply online
+  - domicile certificate all states india
+  - domicile certificate documents required
+  - mool niwas praman patra online apply
+  - state domicile certificate neet
   - domicile certificate validity
-  - mool niwas praman patra
-  - domicile certificate download
+  - bonafide domicile certificate download
 readingTime: 9 min
 officialLinks:
-  - 'https://edistrict.up.gov.in/'
-  - 'https://edistrict.delhigovt.nic.in/'
-  - 'https://edistrict.cg.nic.in/'
-  - 'https://serviceonline.bihar.gov.in/'
-  - 'https://aaplesarkar.mahaonline.gov.in/'
-lastUpdated: "2026-03-06"
+  - 'https://edistrict.up.gov.in'
+  - 'https://edistrict.delhigovt.nic.in'
+  - 'https://serviceonline.bihar.gov.in'
+  - 'https://aaplesarkar.mahaonline.gov.in'
+  - 'https://tnedistrict.tn.gov.in'
+lastUpdated: "2026-05-26"
 ---
 
-A **domicile certificate** (also called residence certificate or mool niwas praman patra) is an official document proving that a person is a permanent resident of a particular state or union territory. It is essential for college admissions, government jobs, and accessing state-specific schemes and reservations.
+# Domicile Certificate Apply Online 2026
+
+A **domicile certificate** (also called **residence certificate**, **nativity certificate**, or **mool niwas praman patra**) is an official document proving that you are a permanent resident of a particular state or union territory. It is required for NEET 85% state quota medical admissions, state government jobs, state college admissions, and state-specific schemes.
+
+> **NEET state quota:** The 85% state quota in NEET requires a valid domicile/nativity certificate from that state. Without it, you compete only in the 15% all-India quota.
+
+---
+
+## Domicile vs Nativity vs Residence Certificate
+
+| Term | States That Use It | Meaning |
+|------|-------------------|---------|
+| **Domicile Certificate** | UP, Bihar, Delhi, MP, WB, Rajasthan | Permanent residence in the state |
+| **Nativity Certificate** | Tamil Nadu, Kerala, AP, Telangana | Born in / native of the state |
+| **Residence Certificate** | Gujarat, Haryana, Punjab, Odisha | Current/long-term residence |
+| **Mool Niwas Praman Patra** | MP, Chhattisgarh, Rajasthan | Permanent/original resident |
+
+---
+
+## State-Wise Domicile Certificate Portals
+
+| State | Official Portal | Certificate Name | Issued By |
+|-------|----------------|-----------------|-----------|
+| **Uttar Pradesh** | edistrict.up.gov.in | Domicile Certificate | SDM / Tehsildar |
+| **Delhi** | edistrict.delhigovt.nic.in | Domicile Certificate | SDM |
+| **Maharashtra** | aaplesarkar.mahaonline.gov.in | Domicile Certificate | SDO / Tehsildar |
+| **Rajasthan** | emitra.rajasthan.gov.in / sso.rajasthan.gov.in | Mool Niwas Praman Patra | SDM / Tehsildar |
+| **Bihar** | serviceonline.bihar.gov.in | Residential Certificate | Circle Officer |
+| **Madhya Pradesh** | mpedistrict.gov.in | Mool Niwasi Praman Patra | SDM |
+| **West Bengal** | edistrict.wb.gov.in | Residence Certificate | SDO |
+| **Tamil Nadu** | tnedistrict.tn.gov.in | Nativity Certificate | Tahsildar |
+| **Telangana** | ts.meeseva.gov.in | Nativity / Residence Cert | MRO |
+| **Gujarat** | digitalgujarat.gov.in | Domicile Certificate | Mamlatdar |
+| **Karnataka** | sevasindhu.karnataka.gov.in | Residence Certificate | Tahsildar |
+| **Kerala** | edistrict.kerala.gov.in | Nativity Certificate | Village Officer |
+| **Haryana** | saralharyana.gov.in | Domicile Certificate | Tehsildar |
+| **Punjab** | punjabedistrictservices.gov.in | Residence Certificate | Tehsildar |
+| **Andhra Pradesh** | meeseva.gov.in | Nativity Certificate | MRO / Tahsildar |
+| **Odisha** | serviceonline.odisha.gov.in | Domicile Certificate | Tahasildar |
+| **Jharkhand** | jharsewa.jharkhand.gov.in | Residential Certificate | Circle Officer |
+| **Assam** | edistrict.assam.gov.in | Permanent Resident Cert | Circle Officer |
+| **Chhattisgarh** | edistrict.cgstate.gov.in | Mool Niwas Praman Patra | SDM |
+
+---
+
+## NEET State Quota 2026 — Domicile Requirements by State
+
+| State | Requirement for 85% State Quota |
+|-------|--------------------------------|
+| **Tamil Nadu** | Studied in TN schools (class 6–12 minimum 5 years) OR born in TN |
+| **Karnataka** | Studied/resided in Karnataka for KCET-prescribed period |
+| **Telangana** | 10 years residence OR studied for 7+ years in TS schools |
+| **Andhra Pradesh** | Resided in AP for 10 years OR studied minimum period in AP |
+| **Kerala** | Born in Kerala OR studied in Kerala schools |
+| **UP** | UP domicile certificate — 3 years residence |
+| **Delhi** | Delhi domicile — 3 years residence |
+| **Maharashtra** | 15 years continuous residence in Maharashtra |
+| **Rajasthan** | Rajasthan domicile — 10 years residence |
+| **Bihar** | Bihar residential certificate |
+| **West Bengal** | WB residence certificate |
+
+> Always check the **current year's NEET state counselling notification** — rules can change year to year.
+
+---
 
 ## Who Needs a Domicile Certificate?
 
@@ -192,6 +254,16 @@ In most states, Aadhaar card is required as identity and address proof. However,
 
 ---
 
-*Also see our [EWS Certificate guide](/guide/ews-certificate-apply-online) and [OBC Certificate guide](/guide/obc-certificate-apply-online) for related certificate processes.*
+---
+
+## Related Guides
+
+- [Caste Certificate Apply Online — All States](/guide/caste-certificate-apply-online)
+- [Income Certificate Apply Online — All States](/guide/income-certificate-apply-online)
+- [EWS Certificate Apply Online 2026](/guide/ews-certificate-apply-online)
+- [OBC NCL Certificate Apply Online 2026](/guide/obc-ncl-certificate-apply-online)
+- [Domicile Certificate Rejected — 7 Reasons & Fix](/guide/domicile-certificate-rejected-fix)
+
+*Also see our [EWS Certificate guide](/guide/ews-certificate-apply-online) and [OBC NCL Certificate guide](/guide/obc-ncl-certificate-apply-online) for related certificate processes.*
 
 > **Disclaimer:** CitizenNest is an independent informational website and is not affiliated with any government department. Information is compiled from official government sources and may change. Always verify details on official government portals.
