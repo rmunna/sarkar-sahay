@@ -1,6 +1,6 @@
 ---
-title: "Shakti Scheme Free Bus Karnataka — KSRTC & BMTC Online Booking for Women"
-description: "How to use Shakti Smart Card for free KSRTC and BMTC bus travel in Karnataka. Book buses online, check availability, resolve booking errors, and know which buses are free for women."
+title: "Shakti Scheme Karnataka 2026 — Free Bus for Women, KSRTC/BMTC & Smart Card"
+description: "Shakti scheme Karnataka: all women travel FREE in KSRTC and BMTC buses (ordinary, express, metro) using Shakti Smart Card or Aadhaar. Know which buses are free, how to get Shakti card, and fix common issues."
 category: "State Schemes"
 keywords:
   - "shakti scheme karnataka"

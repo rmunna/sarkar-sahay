@@ -1,6 +1,6 @@
 ---
-title: "Scholarship Payment Not Received? Check NSP/PFMS Status & Fix Delays (2026)"
-description: "Scholarship payment not received or delayed? Check payment status on NSP (scholarships.gov.in) and PFMS. Fix bank account mismatch, incorrect details, and resolve state scholarship payment delays step by step."
+title: "Scholarship Payment Not Received? Track NSP/PFMS Status & Fix in 10 Minutes (2026)"
+description: "NSP or state scholarship money not credited to your bank account? Check payment status on scholarships.gov.in and pfms.nic.in in 2 steps. Fix bank account mismatch, wrong IFSC, DBT failure, and pending verification — step by step."
 category: "Government Schemes"
 keywords:
   - scholarship payment not received

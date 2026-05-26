@@ -1,6 +1,6 @@
 ---
-title: "HDFC Account Blocked or Frozen? Unfreeze — Customer Care & Steps (2026)"
-description: "HDFC Bank account blocked or frozen? Call customer care 1800-202-6161 or resolve online. Step-by-step guide to unblock HDFC accounts frozen for KYC expiry, dormancy, suspicious activity, or court orders."
+title: "HDFC Account Blocked? Unfreeze Online or Call 1800-202-6161 — Fixed in Minutes (2026)"
+description: "HDFC Bank account blocked or frozen today? Call 1800-202-6161 (toll-free) or unblock online via NetBanking. Fix KYC-expired freeze, dormant account reactivation, suspicious activity block, and court order holds — step by step."
 category: "Tax & Finance"
 keywords:
   - hdfc account blocked

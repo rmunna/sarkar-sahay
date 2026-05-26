@@ -1,6 +1,6 @@
 ---
-title: "Caste Certificate Rejected? Reasons, How to Fix & Re-Apply (2026)"
-description: "Caste certificate application rejected? Learn common rejection reasons, how to fix errors, re-apply online, and file an appeal — state-wise steps included."
+title: "Caste Certificate Rejected? 8 Reasons Why & How to Fix and Re-Apply (2026)"
+description: "Caste certificate application rejected? Top 8 reasons: wrong father's document, address mismatch, community not in list, wrong category applied. Fix each error and re-apply online — state-wise steps for UP, Maharashtra, TN, Karnataka."
 category: "Certificates"
 keywords:
   - "caste certificate rejected"

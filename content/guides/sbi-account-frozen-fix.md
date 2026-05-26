@@ -1,6 +1,6 @@
 ---
-title: "SBI Account Frozen or Blocked? Unfreeze Online Without Branch Visit (2026)"
-description: "SBI account frozen, blocked or inoperative? Unfreeze online via YONO app, net banking, or customer care — no branch visit needed. Step-by-step guide for KYC, dormancy, nomination & court order freezes."
+title: "SBI Account Frozen or Blocked? Unfreeze Online in 5 Minutes — No Branch Visit (2026)"
+description: "SBI account frozen or blocked today? Reactivate online via YONO SBI app or net banking — no branch visit needed. Fixes KYC-frozen accounts, dormant/inoperative accounts, nomination-freeze & suspicious activity blocks. Call 1800-11-2211 (toll-free)."
 category: "Tax & Finance"
 keywords:
   - sbi account frozen
