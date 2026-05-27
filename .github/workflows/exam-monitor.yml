@@ -92,7 +92,18 @@ jobs:
             echo "✅ Pushed $NEW new update(s)"
           fi
 
-      # ── Step 4: Submit new URLs to search engines ────────────────────────
+      # ── Step 4: Regenerate sitemap ───────────────────────────────────────
+
+      - name: Regenerate sitemap
+        if: steps.commit.outputs.new_count > 0
+        run: |
+          npx tsx scripts/generate-sitemap.ts
+          git config user.name "CitizenNest Bot"
+          git config user.email "bot@citizennest.com"
+          git add public/sitemap.xml public/sitemap-index.xml || true
+          git diff --staged --quiet || git commit -m "chore: regenerate sitemap after new updates" && git push || true
+
+      # ── Step 5: Submit new URLs to search engines ────────────────────────
 
       - name: Submit to Google Indexing API
         if: steps.commit.outputs.new_count > 0
