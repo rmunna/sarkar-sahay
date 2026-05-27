@@ -240,15 +240,25 @@ function fetchBytes(url, { timeoutMs = 12000, maxBytes = 8 * 1024 * 1024 } = {})
 
 /**
  * Find the most likely notification PDF links in an HTML page.
- * Returns up to 3 candidate PDF URLs (prioritising notification/vacancy keywords).
+ * Returns up to 5 candidate PDF URLs, best-scoring first.
+ *
+ * Scoring rules:
+ *  +3  URL contains notification/exam/vacancy/notice keyword
+ *  +2  URL contains a recent year (2025/2026)
+ *  +2  URL contains a recent timestamp/date pattern (YYYYMMDD or YYYY-MM-DD)
+ *  +1  Base score for any official PDF
+ *  −2  Archive/old/previous path
  */
 function findNotificationPdfLinks(html, baseUrl) {
   const candidates = new Map(); // url → priority score
-  const hrefRegex = /href=["']([^"'#?\s]{4,500})["']/gi;
-  const notifKeywords = ['notif', 'advt', 'advertisement', 'vacancy', 'recruit', 'exam', 'notice', 'circular'];
+  // Match hrefs AND src attributes for embedded PDFs, and data-* attributes
+  const linkRegex = /(?:href|src|data-href|data-url)=["']([^"'#\s]{4,600})["']/gi;
+  const notifKeywords = ['notif', 'advt', 'advertisement', 'vacancy', 'recruit', 'exam', 'notice', 'circular', 'result', 'admit'];
+  const thisYear  = new Date().getFullYear();
+  const lastYear  = thisYear - 1;
 
   let match;
-  while ((match = hrefRegex.exec(html)) !== null) {
+  while ((match = linkRegex.exec(html)) !== null) {
     const raw = match[1].trim();
     if (!raw.toLowerCase().includes('.pdf')) continue;
 
@@ -257,18 +267,27 @@ function findNotificationPdfLinks(html, baseUrl) {
       fullUrl = new URL(raw, baseUrl).href;
     } catch { continue; }
 
-    // Only trust official domains
     if (!isOfficialUrl(fullUrl)) continue;
 
-    // Score: higher = more likely to be the relevant notification
-    let score = 1;
     const lower = fullUrl.toLowerCase();
+    let score = 1;
+
+    // Keyword match in path
     for (const kw of notifKeywords) {
-      if (lower.includes(kw)) score += 2;
+      if (lower.includes(kw)) { score += 3; break; }
     }
 
-    // Prefer PDFs linked in the visible page body vs. deep archive paths
-    if (lower.includes('/archive/') || lower.includes('/old/')) score -= 1;
+    // Recent year in path (NTA uses timestamps like Notice_20260527...)
+    if (lower.includes(String(thisYear)) || lower.includes(String(lastYear))) score += 2;
+
+    // Date-like timestamp (8-digit YYYYMMDD pattern)
+    if (/\d{8}/.test(lower)) score += 2;
+
+    // Deprioritize archive/old paths
+    if (lower.includes('/archive') || lower.includes('/old/') || lower.includes('/prev')) score -= 2;
+
+    // Deprioritize non-exam content
+    if (lower.includes('tender') || lower.includes('purchase') || lower.includes('annual') || lower.includes('report')) score -= 3;
 
     if (!candidates.has(fullUrl) || candidates.get(fullUrl) < score) {
       candidates.set(fullUrl, score);
@@ -276,8 +295,9 @@ function findNotificationPdfLinks(html, baseUrl) {
   }
 
   return [...candidates.entries()]
+    .filter(([, score]) => score > 0)  // discard negatives (tenders etc.)
     .sort((a, b) => b[1] - a[1])
-    .slice(0, 3)
+    .slice(0, 5)                        // try up to 5 PDFs
     .map(([url]) => url);
 }
 
@@ -312,12 +332,14 @@ async function searchAndExtract(source, changeType) {
    */
   const today = new Date().toISOString().split('T')[0];
 
-  log(`  🌐 Fetching live page: ${source.url}`);
-  const pageBytes = await fetchBytes(source.url, { timeoutMs: 12000, maxBytes: 2 * 1024 * 1024 });
+  // Use notificationsUrl if the org has a better page for scraping (e.g. listing page vs JS-heavy homepage)
+  const fetchUrl = source.notificationsUrl || source.url;
+  log(`  🌐 Fetching live page: ${fetchUrl}`);
+  const pageBytes = await fetchBytes(fetchUrl, { timeoutMs: 12000, maxBytes: 2 * 1024 * 1024 });
 
   if (pageBytes) {
     const html = pageBytes.toString('utf8');
-    const pdfLinks = findNotificationPdfLinks(html, source.url);
+    const pdfLinks = findNotificationPdfLinks(html, fetchUrl);
     log(`  📄 PDF links found on page: ${pdfLinks.length}`);
 
     // ── Tier A: Extract from PDF ────────────────────────────────────────────
@@ -635,8 +657,16 @@ async function generateContent(source, announcement) {
   if (announcement.salaryOrPayScale && announcement.salaryOrPayScale !== 'TBA') {
     extraFields.push(`Salary / Pay Scale (from official source): ${announcement.salaryOrPayScale}`);
   }
-  if (announcement.selectionProcess?.length > 0) {
-    extraFields.push(`Selection Process (from official source): ${announcement.selectionProcess.join(' → ')}`);
+  // Normalize selectionProcess — Gemini sometimes returns string instead of array
+  const selProc = announcement.selectionProcess;
+  const selProcArr = Array.isArray(selProc)
+    ? selProc
+    : (typeof selProc === 'string' && selProc.trim()
+        ? selProc.split(/[→,;|]/).map(s => s.trim()).filter(Boolean)
+        : []);
+  if (selProcArr.length > 0) {
+    announcement.selectionProcess = selProcArr; // normalise in-place
+    extraFields.push(`Selection Process (from official source): ${selProcArr.join(' → ')}`);
   }
   const extraContext = extraFields.length > 0
     ? `\nAdditional Details Extracted from Official Source:\n${extraFields.join('\n')}`
@@ -751,7 +781,8 @@ function buildFrontmatter(source, announcement, slug) {
         ? { educationQualification: announcement.educationQualification } : {}),
     ...(announcement.salaryOrPayScale && announcement.salaryOrPayScale !== 'TBA'
         ? { salaryOrPayScale: announcement.salaryOrPayScale } : {}),
-    ...(announcement.selectionProcess?.length > 0 ? { selectionProcess: announcement.selectionProcess } : {}),
+    ...(Array.isArray(announcement.selectionProcess) && announcement.selectionProcess.length > 0
+        ? { selectionProcess: announcement.selectionProcess } : {}),
   };
 
   return fm;
@@ -834,6 +865,56 @@ function formatDate(dateStr) {
   } catch { return dateStr; }
 }
 
+/**
+ * Convert all-caps strings (common in PDFs) to Title Case.
+ * E.g. "TECHNICIAN GRADE I SIGNAL - CEN 02/2025" → "Technician Grade I Signal - CEN 02/2025"
+ * Preserves known acronyms: CEN, JEE, NEET, UGC, NET, SSC, RRB, IBPS, etc.
+ */
+const KEEP_UPPER = new Set(['CEN', 'JEE', 'NEET', 'UGC', 'NET', 'SSC', 'RRB', 'IBPS', 'SBI',
+  'UPSC', 'NTA', 'GATE', 'CUET', 'CTET', 'CGL', 'CHSL', 'MTS', 'CPO', 'ALP',
+  'RBI', 'NABARD', 'EPFO', 'ESIC', 'NHM', 'AIIMS', 'JIPMER', 'PGI', 'CDS',
+  'NDA', 'AFCAT', 'CSE', 'IFS', 'CBI', 'IB', 'SPG', 'DRDO', 'ISRO', 'BARC',
+  'I', 'II', 'III', 'IV', 'VI', 'VII', 'VIII', 'IX', 'XI', 'XII',
+]);
+function toTitleCase(str) {
+  if (!str) return str;
+  // If not fully uppercase, don't touch it
+  const upperRatio = (str.match(/[A-Z]/g) || []).length / (str.match(/[a-zA-Z]/g) || [' ']).length;
+  if (upperRatio < 0.85) return str;
+  return str.split(/(\s+|(?=-))/).map(word => {
+    const clean = word.replace(/[^A-Za-z0-9]/g, '');
+    if (!clean) return word;
+    if (KEEP_UPPER.has(clean.toUpperCase())) return word.toUpperCase();
+    if (/^\d/.test(clean)) return word;
+    return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+  }).join('');
+}
+
+/**
+ * Post-process generated markdown to fix known LLM output issues:
+ * 1. Remove padding-space lines (model sometimes pads table cells with spaces)
+ * 2. Strip trailing whitespace from lines
+ * 3. Truncate any single line exceeding 5000 chars (malformed table rows)
+ */
+function cleanMarkdown(text) {
+  if (!text) return text;
+  const lines = text.split('\n');
+  const cleaned = lines.map(line => {
+    const stripped = line.trimEnd();
+    // If line is > 5000 chars, it's likely a padded table row — truncate to first meaningful content
+    if (stripped.length > 5000) {
+      const firstPipe = stripped.indexOf('|');
+      if (firstPipe !== -1) {
+        // Try to extract just the table header row (first 500 chars)
+        return stripped.slice(0, 500).trimEnd();
+      }
+      return stripped.slice(0, 500).trimEnd();
+    }
+    return stripped;
+  });
+  return cleaned.join('\n');
+}
+
 function frontmatterToYaml(fm) {
   const lines = ['---'];
   lines.push(`title: "${fm.title.replace(/"/g, "'")}"`);
@@ -868,10 +949,12 @@ function frontmatterToYaml(fm) {
       if (v && v !== 'TBA') lines.push(`  ${k}: "${v}"`);
     }
   }
-  if (fm.ageLimit?.min || fm.ageLimit?.max) {
+  const ageLimitMin = fm.ageLimit?.min && fm.ageLimit.min !== 'TBA' ? fm.ageLimit.min : null;
+  const ageLimitMax = fm.ageLimit?.max && fm.ageLimit.max !== 'TBA' ? fm.ageLimit.max : null;
+  if (ageLimitMin || ageLimitMax) {
     lines.push('ageLimit:');
-    if (fm.ageLimit.min) lines.push(`  min: ${fm.ageLimit.min}`);
-    if (fm.ageLimit.max) lines.push(`  max: ${fm.ageLimit.max}`);
+    if (ageLimitMin) lines.push(`  min: ${ageLimitMin}`);
+    if (ageLimitMax) lines.push(`  max: ${ageLimitMax}`);
   }
   lines.push('---');
   return lines.join('\n');
@@ -954,6 +1037,23 @@ async function main() {
     }
 
     const ann = searchResult.announcement;
+    // ── Normalize announcement fields (handle Gemini type inconsistencies) ──
+    if (typeof ann.selectionProcess === 'string') {
+      ann.selectionProcess = ann.selectionProcess.split(/[→,;|]/).map(s => s.trim()).filter(Boolean);
+    } else if (!Array.isArray(ann.selectionProcess)) {
+      ann.selectionProcess = [];
+    }
+    if (typeof ann.vacancies === 'string' && /^\d+$/.test(ann.vacancies)) {
+      ann.vacancies = parseInt(ann.vacancies, 10);
+    }
+    // Convert all-caps PDF exam names to Title Case
+    ann.examName = toTitleCase(ann.examName);
+    // Normalize ageLimit — drop bare "TBA" values (they cause invalid YAML)
+    if (ann.ageLimit) {
+      if (ann.ageLimit.min === 'TBA' || ann.ageLimit.min === null) delete ann.ageLimit.min;
+      if (ann.ageLimit.max === 'TBA' || ann.ageLimit.max === null) delete ann.ageLimit.max;
+      if (!ann.ageLimit.min && !ann.ageLimit.max) delete ann.ageLimit;
+    }
     log(`  → Found: [${ann.type}] ${ann.examName} (confidence: ${ann.confidenceScore})`);
 
     // ── Deduplication check ───────────────────────────────────────────────
@@ -1015,10 +1115,18 @@ async function main() {
     // ── Generate content body ─────────────────────────────────────────────
 
     log(`  ✍️  Generating content for: ${ann.examName} [${ann.type}]`);
-    const contentBody = await generateContent(source, ann);
-    if (!contentBody || contentBody.length < 200) {
+    const rawContentBody = await generateContent(source, ann);
+    if (!rawContentBody || rawContentBody.length < 200) {
       log(`  ❌ Content generation failed or too short`);
       results.errors.push({ source: source.name, exam: ann.examName, error: 'content too short' });
+      continue;
+    }
+    const contentBody = cleanMarkdown(rawContentBody);
+
+    // Sanity check: reject absurdly large content (> 200KB = model went haywire)
+    if (contentBody.length > 200_000) {
+      log(`  ❌ Content too large (${Math.round(contentBody.length/1024)}KB) — skipping`);
+      results.errors.push({ source: source.name, exam: ann.examName, error: 'content too large' });
       continue;
     }
 
