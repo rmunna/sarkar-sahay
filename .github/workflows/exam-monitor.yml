@@ -30,10 +30,10 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup Node.js 20
+      - name: Setup Node.js 22
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
           cache: 'npm'
 
       - name: Install dependencies
@@ -48,7 +48,8 @@ jobs:
 
           REAL_CHANGES=$(node -e "
             try {
-              const d = require('./agents/exam-monitor-latest.json');
+              const fs = require('fs');
+              const d = JSON.parse(fs.readFileSync('./agents/exam-monitor-latest.json','utf8'));
               const real = d.changes.filter(c => c.type !== 'CONTENT_CHANGE');
               console.log(real.length);
             } catch(e) { console.log(0); }
