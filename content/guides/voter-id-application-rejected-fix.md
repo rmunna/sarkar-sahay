@@ -1,7 +1,6 @@
 ---
-title: "Voter ID Application Rejected: How to Fix"
-description: >-
-  Fix rejected voter ID (EPIC) applications. Understand common rejection reasons including incomplete documents, BLO verification failure, and duplicate entries with step-by-step solutions to reapply.
+title: "Voter ID Application Rejected? 7 Reasons & Fix — BLO Verification, Duplicate & Reapply (2026)"
+description: "Voter ID (EPIC) rejected? Top reasons: BLO verification failed, photo unclear, address proof mismatch, duplicate entry. Step-by-step fix: correct documents, track at voters.eci.gov.in & reapply."
 category: "Identity Documents"
 keywords:
   - voter id application rejected

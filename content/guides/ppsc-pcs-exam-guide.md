@@ -1,8 +1,16 @@
 ---
-title: "Punjab PCS Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete Punjab PCS exam guide with eligibility, exam pattern, syllabus, application process, fees, and preparation tips for Punjab civil services."
+title: "PPSC PCS 2026 — Notification, Salary ₹44,900+, Eligibility & Punjab Civil Services Syllabus"
+description: "PPSC PCS 2026 (Punjab PSC): Salary ₹44,900–₹1,42,400. Posts: PCS (Exec), ACP, DSP. Apply at ppsc.gov.in. Punjab domicile required. Prelim, Mains, Viva Voce. Punjabi language knowledge needed."
 category: "Jobs & Exams"
-keywords: ["PPSC exam", "Punjab PCS", "Punjab civil services", "PPSC preparation", "Punjab PSC exam guide", "PPSC syllabus"]
+keywords:
+  - ppsc pcs 2026
+  - ppsc 2026
+  - punjab pcs 2026
+  - ppsc notification 2026
+  - ppsc pcs syllabus 2026
+  - ppsc pcs salary
+  - punjab civil services 2026
+lastUpdated: "2026-05-26"
 readingTime: "8 min"
 officialLinks:
   - "https://www.ppsc.gov.in"

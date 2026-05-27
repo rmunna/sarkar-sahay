@@ -1,8 +1,16 @@
 ---
-title: "HPSC Exam Guide — Haryana PSC HCS Eligibility, Syllabus & Tips"
-description: "Complete HPSC exam guide for Haryana Civil Services (HCS) covering eligibility, exam pattern, syllabus, fees, and preparation strategy."
+title: "HPSC HCS 2026 — Notification, Salary ₹56,100+, Eligibility & Haryana Civil Services Syllabus"
+description: "HPSC HCS 2026 (Haryana Civil Services): Salary ₹56,100–₹1,31,400. Posts: HCS (Exec), DSP, ACS. Apply at hpsc.gov.in. Haryana domicile + PPP required. Prelim, Mains, Interview. Hindi/Haryanvi knowledge."
 category: "Jobs & Exams"
-keywords: ["HPSC exam", "Haryana PSC", "HCS exam", "HPSC syllabus", "Haryana civil services", "HPSC preparation guide"]
+keywords:
+  - hpsc hcs 2026
+  - hpsc 2026
+  - haryana civil services 2026
+  - hpsc notification 2026
+  - hpsc hcs syllabus 2026
+  - hpsc hcs salary
+  - haryana psc 2026
+lastUpdated: "2026-05-26"
 readingTime: "8 min"
 officialLinks:
   - "https://hpsc.gov.in"

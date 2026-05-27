@@ -1,8 +1,14 @@
 ---
-title: "Aadhaar Mobile Number Not Linked? How to Register"
-description: "No mobile number linked to Aadhaar? Can't receive OTP? Learn how to register or update your mobile number at an Aadhaar enrollment center in 2026."
+title: "Aadhaar Mobile Number Not Linked? Register or Update at Aadhaar Centre 2026 — No OTP Fix"
+description: "Mobile number not linked to Aadhaar? Can't receive OTP for e-KYC or myAadhaar login? Must visit nearest Aadhaar enrollment center to register mobile — ₹50 fee. Cannot be done online. Book appointment at uidai.gov.in."
 category: "Identity Documents"
-keywords: ["Aadhaar mobile number not linked", "Aadhaar OTP not received", "register mobile Aadhaar", "Aadhaar mobile update", "Aadhaar enrollment center mobile", "link mobile to Aadhaar", "Aadhaar mobile number change"]
+keywords:
+  - aadhaar mobile number not linked 2026
+  - aadhaar OTP not received
+  - register mobile in aadhaar offline
+  - aadhaar enrollment center mobile update
+  - link mobile number to aadhaar
+  - aadhaar mobile number change
 lastUpdated: "2026-03-05"
 readingTime: "8 min"
 officialLinks:

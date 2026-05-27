@@ -1,6 +1,6 @@
 ---
-title: "Gujarat Talati Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete Gujarat Talati cum Mantri exam guide covering eligibility, exam pattern, syllabus, fees, and preparation strategy."
+title: "Gujarat Talati 2026 — GPSC Notification, Salary ₹19,950, Eligibility & Syllabus"
+description: "Gujarat Talati cum Mantri 2026 by GPSC/OJAS: Salary ₹19,950–₹63,200. Apply at ojas.gujarat.gov.in. Graduation required. Written exam (200 marks, CBT) + Computer test. Gujarat domicile required."
 category: "Jobs & Exams"
 keywords: ["Gujarat Talati exam","Gujarat Talati cum Mantri","GPSSB Talati","Gujarat Revenue Talati","Gujarat Talati eligibility"]
 readingTime: "10 min"

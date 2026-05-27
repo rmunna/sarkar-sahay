@@ -1,6 +1,6 @@
 ---
-title: "Rajasthan SI (Sub-Inspector) Exam Guide — How to Apply & Benefits"
-description: "Complete Rajasthan Police SI exam guide covering eligibility, exam pattern, syllabus, physical test, and preparation strategy."
+title: "Rajasthan SI 2026 — RPSC Sub Inspector Notification, Salary ₹35,400, Eligibility & Syllabus"
+description: "Rajasthan Police SI 2026 by RPSC: Salary ₹35,400–₹1,12,400. Graduation required. Apply at rpsc.rajasthan.gov.in. Prelim + Mains + Physical + Medical. Rajasthan domicile (10 years) + Jan Aadhaar."
 category: "Jobs & Exams"
 keywords: ["Rajasthan SI exam","Rajasthan Police SI","RPSC SI","Rajasthan SI eligibility","Rajasthan SI syllabus"]
 readingTime: "9 min"

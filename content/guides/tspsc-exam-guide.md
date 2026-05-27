@@ -1,6 +1,6 @@
 ---
-title: "TSPSC Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete TSPSC exam guide covering eligibility, exam pattern, syllabus, application process, fees, and preparation tips for Telangana services."
+title: "TSPSC 2026 — Telangana PSC Notification, Salary ₹35,000+, Group 1/2/4 Eligibility & Syllabus"
+description: "TSPSC 2026 (Telangana PSC): Group 1 salary ₹56,100+, Group 2 salary ₹35,000+, Group 4 salary ₹21,000+. Apply at tspsc.gov.in. TS nativity (10yr/7yr school) required. Prelim + Mains + Interview."
 category: "Jobs & Exams"
 keywords: ["TSPSC exam", "Telangana PSC", "TSPSC Group 1", "TSPSC Group 2", "Telangana state services", "TSPSC preparation"]
 readingTime: "9 min"

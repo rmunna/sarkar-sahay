@@ -1,24 +1,21 @@
 ---
-title: "Ladli Behna Yojana Madhya Pradesh — How to Apply & Benefits"
-description: >-
-  Complete guide to MP Ladli Behna Yojana. Learn eligibility, documents needed,
-  application process, payment status check, and monthly benefit amount.
-category: State Schemes
+title: "Ladli Behna Yojana 2026 — ₹1,250/Month for MP Women, Payment Date & Status at cmladlibahna.mp.gov.in"
+description: "MP Mukhyamantri Ladli Behna Yojana 2026: ₹1,250/month directly to bank for eligible Madhya Pradesh women. Check payment date, registration status, eligibility criteria, and how to apply at cmladlibahna.mp.gov.in."
+category: "State Schemes"
 keywords:
-  - ladli behna yojana
+  - ladli behna yojana 2026
   - ladli behna yojana mp
   - ladli behna yojana madhya pradesh
   - ladli behna yojana eligibility
-  - ladli behna yojana application
-  - ladli behna yojana amount
   - mukhyamantri ladli behna yojana
   - ladli behna yojana status check
-  - ladli behna yojana documents
-  - mp women scheme
-readingTime: 7 min
+  - ladli behna yojana amount 1250
+  - ladli behna yojana payment date 2026
+  - cmladlibahna.mp.gov.in
+readingTime: "7 min"
 officialLinks:
-  - 'https://cmladlibahna.mp.gov.in/'
-  - 'https://mp.gov.in/'
+  - "https://cmladlibahna.mp.gov.in/"
+  - "https://mp.gov.in/"
 ---
 
 # Ladli Behna Yojana Madhya Pradesh – Eligibility, Application and Benefits

@@ -1,6 +1,6 @@
 ---
-title: "Madhu Babu Pension Yojana 2026 — ₹3,500/Month, Status Check by Aadhaar & How to Apply"
-description: "Check Madhu Babu Pension (MBPY) status by Aadhaar at ssepd.odisha.gov.in. Pension ₹3,500/month for elderly (60+), widows & disabled in Odisha. Eligibility, documents & how to apply 2026."
+title: "Madhu Babu Pension Yojana 2026 — ₹3,500/Month Status Check by Aadhaar, Eligibility & Apply"
+description: "MBPY status check by Aadhaar at ssepd.odisha.gov.in. ₹3,500/month for elderly (60+), widows & disabled in Odisha. Family income below ₹24,000/year. Documents, how to apply & payment dates 2026."
 category: "State Schemes"
 keywords:
   - madhu babu pension yojana 2026

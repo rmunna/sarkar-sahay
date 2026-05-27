@@ -1,8 +1,15 @@
 ---
-title: "Punjab Police Constable Exam Guide — How to Apply & Benefits"
-description: "Complete Punjab Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and preparation tips."
+title: "Punjab Police Constable 2026 — PPSC Notification, Salary ₹21,700, Eligibility & Syllabus"
+description: "Punjab Police Constable 2026 by PPSC: Salary ₹21,700–₹69,100. Apply at punjabpolice.gov.in. 12th pass eligible. Written exam (85 marks) + Physical + Medical. Punjab domicile required."
 category: "Jobs & Exams"
-keywords: ["Punjab Police Constable","Punjab Police exam","Punjab Police eligibility","Punjab Constable recruitment","Punjab Police syllabus"]
+keywords:
+  - punjab police constable 2026
+  - punjab police constable notification 2026
+  - punjab police constable salary
+  - punjab police constable eligibility 2026
+  - punjab police constable syllabus 2026
+  - ppsc police constable 2026
+lastUpdated: "2026-05-26"
 readingTime: "8 min"
 officialLinks:
   - "https://punjabpolice.gov.in"

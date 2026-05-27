@@ -1,8 +1,15 @@
 ---
-title: "Maharashtra Police Constable Exam Guide — How to Apply & Benefits"
-description: "Complete Maharashtra Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and tips."
+title: "Maharashtra Police Constable 2026 — Mahapolice Notification, Salary ₹20,200, Eligibility & Syllabus"
+description: "Maharashtra Police Constable 2026 by MPSC/Mahapolice: Salary ₹20,200–₹64,900. Apply at mahapolice.gov.in. 12th pass eligible. Written exam (100 marks) + PET/PST + Medical. Maharashtra domicile (15 years)."
 category: "Jobs & Exams"
-keywords: ["Maharashtra Police Constable","Maha Police exam","Maharashtra Police recruitment","Maha Police eligibility","Maharashtra Constable syllabus"]
+keywords:
+  - maharashtra police constable 2026
+  - mahapolice constable 2026
+  - maharashtra police constable notification 2026
+  - maharashtra police constable salary
+  - mahapolice recruitment 2026
+  - maharashtra police constable syllabus
+lastUpdated: "2026-05-26"
 readingTime: "8 min"
 officialLinks:
   - "https://mahapolice.gov.in"

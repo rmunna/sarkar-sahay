@@ -1,6 +1,6 @@
 ---
-title: "How to Surrender or Cancel Ration Card Online — State-wise Process"
-description: "Surrender or cancel your ration card online in 5 minutes. State-wise portal links, documents needed, and step-by-step process."
+title: "Surrender or Cancel Ration Card Online 2026 — State-Wise Process, Documents & Refund"
+description: "Cancel ration card online: surrendering old card when shifting states, moving abroad, or all members died. State-wise portal links, required documents (Aadhaar, member list), no-dues confirmation."
 category: Food & Ration
 lastUpdated: '2026-02-18'
 keywords:

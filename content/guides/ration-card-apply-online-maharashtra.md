@@ -1,18 +1,17 @@
 ---
-title: "How to Apply for Ration Card Online in Maharashtra"
-description: "Step-by-step guide to apply for a new ration card online in Maharashtra through the mahafood.gov.in portal. Learn about documents, fees, and processing time."
+title: "Maharashtra Ration Card Apply Online 2026 — mahafood.gov.in, Orange/White/Yellow Card & Status"
+description: "Apply for new ration card in Maharashtra online at mahafood.gov.in. Orange (BPL), White (APL), Yellow (AAY) card types. Documents: Aadhaar + income certificate. Status check at rcms.mahafood.gov.in. Free 5kg grain under NFSA."
 category: "Food & Ration"
 keywords:
-  - "Maharashtra ration card"
-  - "ration card apply online Maharashtra"
-  - "mahafood.gov.in ration card"
-  - "Maharashtra ration card online application"
-  - "new ration card Maharashtra"
-  - "PDS Maharashtra"
-  - "ration card status Maharashtra"
+  - Maharashtra ration card apply online 2026
+  - mahafood.gov.in ration card
+  - Orange ration card Maharashtra
+  - White ration card Maharashtra
+  - new ration card Maharashtra 2026
+  - Maharashtra ration card status
 readingTime: "7 min"
 officialLinks:
-  - https://mahafood.gov.in
+  - "https://mahafood.gov.in"
   - https://rcms.mahafood.gov.in
   - https://nfsa.gov.in
 

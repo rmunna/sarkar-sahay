@@ -1,18 +1,17 @@
 ---
-title: "PM Ujjwala Yojana 2.0: Free LPG Connection, Eligibility, and How to Apply"
-description: "Complete guide to PM Ujjwala Yojana for free LPG gas connection. Check eligibility, documents required, and step-by-step application process."
+title: "PM Ujjwala Yojana 2.0 2026 — Free LPG Connection, ₹1,600 Subsidy & How to Apply at pmuy.gov.in"
+description: "PM Ujjwala Yojana 2.0 2026: Free LPG gas connection for BPL/poor women with ₹1,600 subsidy. 10.35 crore beneficiaries covered. Apply at nearest gas agency with Aadhaar + ration card. Check eligibility at pmuy.gov.in."
 category: "Government Schemes"
 keywords:
-  - pm ujjwala yojana
-  - ujjwala yojana apply
-  - free lpg connection
-  - ujjwala 2.0
+  - pm ujjwala yojana 2026
+  - ujjwala yojana 2.0 apply
+  - free lpg connection 2026
+  - ujjwala yojana eligibility
   - pmuy eligibility
-  - ujjwala yojana documents
-  - free gas cylinder scheme
   - pradhan mantri ujjwala yojana
-  - ujjwala yojana online apply
-  - lpg connection for bpl
+  - ujjwala yojana documents
+  - free gas cylinder bpl women
+  - pmuy.gov.in
 readingTime: "8 min"
 officialLinks:
   - "https://www.pmuy.gov.in/"

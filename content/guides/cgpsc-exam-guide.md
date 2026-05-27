@@ -1,6 +1,6 @@
 ---
-title: "CGPSC Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete CGPSC exam guide with eligibility, exam pattern, syllabus, application process, fees, and preparation tips for Chhattisgarh services."
+title: "CGPSC 2026 — Notification, Salary ₹56,100+, CG Civil Services Eligibility & Syllabus"
+description: "CGPSC 2026 (Chhattisgarh PSC): Salary ₹56,100–₹1,31,400. Posts: DSP, SDM, BDO, Tehsildar. Apply at psc.cg.gov.in. CG domicile (Mool Niwas) required. Prelim, Mains, Interview."
 category: "Jobs & Exams"
 keywords: ["CGPSC exam", "Chhattisgarh PSC", "CGPSC state services", "CGPSC preparation", "Chhattisgarh civil services", "CGPSC syllabus"]
 readingTime: "8 min"

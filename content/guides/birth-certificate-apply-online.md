@@ -1,18 +1,15 @@
 ---
-title: "Birth Certificate Apply Online: State-Wise Process & Documents"
-description: >-
-  Complete guide to apply for birth certificate online via CRSORGI portal.
-  Step-by-step process, documents required, fees, and state-wise download steps.
-category: Certificates
+title: "Birth Certificate Apply Online 2026 — CRSORGI State-Wise Portal, Documents, Fee & Download"
+description: "Apply for birth certificate online in 2026 via CRSORGI portal (crsorgi.gov.in). State-wise process for UP, Maharashtra, Delhi, Karnataka, Tamil Nadu & all states. Documents: hospital discharge slip + Aadhaar of parents. Free within 21 days of birth."
+category: "Certificates"
 keywords:
-  - birth certificate apply online
-  - birth certificate online
-  - crsorgi birth certificate
-  - birth certificate download
-  - birth certificate documents
+  - birth certificate apply online 2026
+  - CRSORGI birth certificate
+  - birth certificate download online
   - birth certificate registration
-  - birth certificate india
-  - birth certificate fee
+  - birth certificate documents required
+  - birth certificate state portal 2026
+  - crsorgi.gov.in apply
   - hospital birth certificate
   - state birth certificate
 readingTime: 10 min

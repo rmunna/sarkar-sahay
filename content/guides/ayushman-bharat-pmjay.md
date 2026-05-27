@@ -1,17 +1,16 @@
 ---
-title: "Ayushman Bharat PMJAY — How to Apply, Eligibility & Benefits"
-description: Complete guide to Ayushman Bharat PM Jan Arogya Yojana – eligibility, Ayushman card, hospital list, covered treatments, and how to apply for PMJAY.
-category: Government Schemes
+title: "Ayushman Bharat PMJAY 2026 — ₹5 Lakh Free Health Cover, Check Eligibility & Apply at beneficiary.nha.gov.in"
+description: "Ayushman Bharat PMJAY 2026: Free ₹5 lakh/year health insurance for 55 crore poor families. Check eligibility by mobile number, download Ayushman card, find empanelled hospitals at beneficiary.nha.gov.in."
+category: "Government Schemes"
 keywords:
-  - Ayushman Bharat
-  - PMJAY
-  - Ayushman card
-  - Ayushman Bharat eligibility
-  - Ayushman Bharat card apply
+  - Ayushman Bharat PMJAY 2026
+  - Ayushman card apply 2026
+  - PMJAY eligibility check
+  - Ayushman Bharat 5 lakh health cover
+  - Ayushman card download
   - PMJAY hospital list
-  - free health insurance India
-  - Ayushman Bharat scheme
   - PM Jan Arogya Yojana
+  - beneficiary.nha.gov.in
   - Ayushman Bharat registration
 readingTime: 8 min
 officialLinks:

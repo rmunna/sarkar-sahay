@@ -1,8 +1,6 @@
 ---
-title: "Aadhaar Biometric Lock & Unlock: How to Apply"
-description: >-
-  Learn how to lock and unlock Aadhaar biometrics to prevent unauthorized
-  authentication. Step-by-step guide for mAadhaar app and UIDAI portal.
+title: "Aadhaar Biometric Lock & Unlock 2026 — Prevent Unauthorized Use via mAadhaar App or UIDAI Portal"
+description: "How to lock and unlock Aadhaar biometrics in 2026 to prevent unauthorized fingerprint/iris authentication. Use mAadhaar app or myaadhaar.uidai.gov.in — free, instant. Essential if fingerprint used at SIM shop or AEPS fraud."
 slug: aadhaar-biometric-lock-unlock
 category: Identity Documents
 keywords:

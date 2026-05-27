@@ -1,8 +1,16 @@
 ---
-title: "APPSC Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete APPSC exam guide with eligibility, exam pattern, syllabus, how to apply, fees, preparation tips, and FAQs for AP state services."
+title: "APPSC 2026 — Group 1 & 2 Notification, Salary ₹56,100+, Vacancies & Syllabus"
+description: "APPSC 2026 (AP PSC): Group 1 salary ₹56,100–₹1,31,400 (DSP/SDM posts). Group 2 salary ₹36,900+. Apply at psc.ap.gov.in. AP nativity (10-year/7-year study) required. Prelim, Mains, Interview."
 category: "Jobs & Exams"
-keywords: ["APPSC exam", "Andhra Pradesh PSC", "APPSC Group 1", "APPSC Group 2", "AP state services exam", "APPSC preparation"]
+keywords:
+  - appsc 2026
+  - appsc group 1 2026
+  - appsc group 2 2026
+  - appsc notification 2026
+  - appsc syllabus 2026
+  - appsc salary
+  - andhra pradesh psc 2026
+lastUpdated: "2026-05-26"
 readingTime: "9 min"
 officialLinks:
   - "https://psc.ap.gov.in"

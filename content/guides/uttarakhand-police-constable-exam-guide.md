@@ -1,8 +1,15 @@
 ---
-title: "Uttarakhand Police Constable Exam Guide — How to Apply & Benefits"
-description: "Complete Uttarakhand Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and tips."
+title: "Uttarakhand Police Constable 2026 — UKPOL Notification, Salary ₹21,700, Eligibility & Syllabus"
+description: "Uttarakhand Police Constable 2026 by UKPOL/UKSSSC: Salary ₹21,700–₹69,100. Apply at ukpolice.uk.gov.in. 12th pass eligible. Written exam + PET/PST + Medical. Uttarakhand domicile required."
 category: "Jobs & Exams"
-keywords: ["Uttarakhand Police Constable","UK Police exam","Uttarakhand Police eligibility","UKSSSC Police","Uttarakhand Constable"]
+keywords:
+  - uttarakhand police constable 2026
+  - ukpol constable 2026
+  - uttarakhand police constable notification 2026
+  - uttarakhand police constable salary
+  - uksssc police constable 2026
+  - uttarakhand police constable syllabus
+lastUpdated: "2026-05-26"
 readingTime: "8 min"
 officialLinks:
   - "https://uttarakhandpolice.uk.gov.in"

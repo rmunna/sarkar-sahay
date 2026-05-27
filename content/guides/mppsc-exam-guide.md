@@ -1,8 +1,16 @@
 ---
-title: "MPPSC Exam Guide — Eligibility, Pattern, Syllabus & Preparation Tips"
-description: "Complete MPPSC State Services exam guide with eligibility, exam pattern, syllabus, application process, and preparation tips for MP PCS."
+title: "MPPSC 2026 — Notification, Salary ₹56,100+, Eligibility, Syllabus & MP Civil Services"
+description: "MPPSC State Services 2026 (MP PCS): Salary ₹56,100–₹1,31,400. Posts: DSP, SDM, BDO, Tahsildar. Apply at mppsc.mp.gov.in. MP domicile + Samagra ID required. Prelim, Mains, Interview pattern."
 category: "Jobs & Exams"
-keywords: ["MPPSC exam", "MP PCS preparation", "MPPSC syllabus", "Madhya Pradesh civil services", "MPPSC eligibility", "MPPSC exam pattern"]
+keywords:
+  - mppsc 2026
+  - mppsc state services 2026
+  - mppsc notification 2026
+  - mppsc syllabus 2026
+  - mppsc salary
+  - mp civil services 2026
+  - mppsc eligibility 2026
+lastUpdated: "2026-05-26"
 readingTime: "9 min"
 officialLinks:
   - "https://www.mppsc.mp.gov.in"

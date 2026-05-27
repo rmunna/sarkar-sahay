@@ -1,8 +1,15 @@
 ---
-title: "West Bengal Police Constable Exam Guide — How to Apply & Benefits"
-description: "Complete WB Police Constable exam guide covering eligibility, exam pattern, syllabus, physical test, and preparation tips."
+title: "WB Police Constable 2026 — WBPRB Notification, Salary ₹21,700, Eligibility & Syllabus"
+description: "WB Police Constable 2026 by WBPRB (West Bengal Police Recruitment Board): Salary ₹21,700–₹69,100. Apply at wbpolice.gov.in. 10th pass eligible. Written (85 marks) + Physical + Medical. WB domicile."
 category: "Jobs & Exams"
-keywords: ["WB Police Constable","West Bengal Police exam","WBP Constable eligibility","WB Police syllabus","WBP recruitment"]
+keywords:
+  - wb police constable 2026
+  - wbprb constable 2026
+  - west bengal police constable notification 2026
+  - wb police constable salary
+  - wbprb recruitment 2026
+  - west bengal police constable syllabus
+lastUpdated: "2026-05-26"
 readingTime: "8 min"
 officialLinks:
   - "https://wbpolice.gov.in"

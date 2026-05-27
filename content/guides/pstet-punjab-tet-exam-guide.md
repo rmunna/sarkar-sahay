@@ -1,6 +1,6 @@
 ---
-title: "PSTET (Punjab TET) Exam Guide — How to Apply & Benefits"
-description: "Complete PSTET exam guide covering eligibility, exam pattern for Paper 1 and Paper 2, syllabus, fees, and preparation tips."
+title: "PSTET 2026 (Punjab TET) — Notification, Teacher Salary ₹21,700+, Paper 1 & 2 Syllabus"
+description: "PSTET 2026 by PSEB Punjab: Qualify → Punjab Govt Teacher salary ₹21,700+ (state scale). Paper 1 (Primary) + Paper 2 (Elem). Apply at pseb.ac.in. Punjab domicile + Punjabi knowledge required."
 category: "Jobs & Exams"
 keywords: ["PSTET exam","Punjab TET","PSTET eligibility","PSTET syllabus","Punjab Teacher Eligibility Test"]
 readingTime: "8 min"

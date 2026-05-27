@@ -1,6 +1,6 @@
 ---
-title: "AP TET (APTET) Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete APTET exam guide covering eligibility, exam pattern for Paper 1 and Paper 2, syllabus, fees, and preparation tips."
+title: "AP TET 2026 (APTET) — Notification, Salary ₹39,940, Paper 1 & 2 Syllabus & Apply"
+description: "APTET 2026 by BSEAP: Pass TET → Teacher salary ₹39,940–₹63,060 in AP govt schools. Paper 1 (Primary) + Paper 2 (Upper Primary). Apply at bse.ap.gov.in. Eligibility: B.Ed + Graduation."
 category: "Jobs & Exams"
 keywords: ["APTET exam","AP TET","Andhra Pradesh TET","APTET eligibility","APTET syllabus"]
 readingTime: "8 min"

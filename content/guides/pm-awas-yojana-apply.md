@@ -1,18 +1,19 @@
 ---
-title: "PMAY Apply Online — Pradhan Mantri Awas Yojana Guide"
-description: "Step-by-step guide to apply for Pradhan Mantri Awas Yojana (PMAY) online and offline. Eligibility, documents, subsidy amounts, and FAQs."
+title: "PMAY Apply Online 2026 — Pradhan Mantri Awas Yojana Subsidy ₹2.67 Lakh, Eligibility & Status"
+description: "PMAY 2026: Apply for Pradhan Mantri Awas Yojana (Urban/Gramin) online. Housing subsidy up to ₹2.67 lakh for EWS/LIG families. Check eligibility, beneficiary list, and application status at pmaymis.gov.in."
 category: "Government Schemes"
 keywords:
-  - "PMAY apply online"
-  - "Pradhan Mantri Awas Yojana"
-  - "PMAY eligibility"
-  - "PMAY subsidy amount"
-  - "Housing for All scheme"
-  - "PMAY Urban application"
-  - "PMAY Gramin application"
+  - PMAY apply online 2026
+  - Pradhan Mantri Awas Yojana 2026
+  - PMAY eligibility
+  - PMAY subsidy amount
+  - PM Awas Yojana Urban
+  - PM Awas Yojana Gramin
+  - pmaymis.gov.in apply
+  - PMAY beneficiary list 2026
 readingTime: "8 min"
 officialLinks:
-  - https://pmaymis.gov.in
+  - "https://pmaymis.gov.in"
   - https://pmayg.nic.in
   - https://pmayuclap.gov.in
 ---

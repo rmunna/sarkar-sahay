@@ -1,8 +1,15 @@
 ---
-title: "Know Your BLO: How to Check Booth Level Officer Details Online"
-description: "Find your BLO name, phone number, and polling booth details online via voters.eci.gov.in. When and why to contact your BLO."
+title: "Know Your BLO 2026 — Check Booth Level Officer Name & Phone at voters.eci.gov.in"
+description: "Find your BLO (Booth Level Officer) name, phone number and polling booth details in 2 minutes at voters.eci.gov.in. Contact BLO for voter ID verification, correction or form 6/7/8 submission."
 category: "Identity Documents"
-keywords: ["know your BLO", "booth level officer details", "BLO phone number", "check BLO online", "polling booth search"]
+keywords:
+  - know your blo
+  - booth level officer details
+  - blo phone number 2026
+  - check blo online
+  - voters.eci.gov.in blo details
+  - polling booth officer contact
+  - blo voter id verification
 readingTime: "5 min"
 lastUpdated: "2026-03-06"
 officialLinks:

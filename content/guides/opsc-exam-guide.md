@@ -1,6 +1,6 @@
 ---
-title: "OPSC Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete OPSC exam guide covering eligibility, exam pattern, syllabus, application process, fees, and preparation tips for Odisha civil services."
+title: "OPSC 2026 — Odisha PSC OAS Notification, Salary ₹56,100+, Eligibility & Syllabus"
+description: "OPSC 2026 (Odisha Administrative Service): Salary ₹56,100–₹1,31,400. Posts: OAS (Sub Collector/BDO), OPS (DSP). Apply at opsc.gov.in. Odisha domicile required. Prelim, Mains, Viva Voce."
 category: "Jobs & Exams"
 keywords: ["OPSC exam", "Odisha PSC", "OCS exam", "Odisha civil services", "OPSC preparation", "OPSC syllabus"]
 readingTime: "8 min"

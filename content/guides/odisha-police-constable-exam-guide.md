@@ -1,8 +1,15 @@
 ---
-title: "Odisha Police Constable Exam Guide — How to Apply & Benefits"
-description: "Complete Odisha Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and preparation tips."
+title: "Odisha Police Constable 2026 — OSSC Notification, Salary ₹19,900, Eligibility & Syllabus"
+description: "Odisha Police Constable 2026 by OSSC: Salary ₹19,900–₹63,200. Apply at ossc.gov.in. 10th pass eligible. Written exam (100 marks) + PET/PMT + Medical. Odisha domicile (Adhibasa Praman Patra) required."
 category: "Jobs & Exams"
-keywords: ["Odisha Police Constable","Odisha Police exam","Odisha Police eligibility","Odisha Constable recruitment","Odisha Police syllabus"]
+keywords:
+  - odisha police constable 2026
+  - ossc police constable 2026
+  - odisha police constable notification 2026
+  - odisha police constable salary
+  - ossc constable recruitment 2026
+  - odisha police constable syllabus
+lastUpdated: "2026-05-26"
 readingTime: "8 min"
 officialLinks:
   - "https://odishapolice.gov.in"

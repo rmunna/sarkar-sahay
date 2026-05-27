@@ -1,6 +1,6 @@
 ---
-title: "UP SI (Sub-Inspector) Exam Guide — How to Apply & Benefits"
-description: "Complete guide to UP Police Sub-Inspector exam covering eligibility, exam pattern, syllabus, physical test, and preparation strategy."
+title: "UP SI 2026 — UPPRPB Sub Inspector Notification, Salary ₹35,400, Eligibility & Syllabus"
+description: "UP Police SI 2026 by UPPRPB: Salary ₹35,400–₹1,12,400. Graduation required. Apply at uppbpb.gov.in. Written exam (400 marks, CBT) + Physical + Medical. UP domicile required."
 category: "Jobs & Exams"
 keywords: ["UP SI exam", "UP Police Sub-Inspector", "UPPBPB SI", "UP SI eligibility", "UP SI syllabus", "UP SI exam pattern"]
 readingTime: "9 min"

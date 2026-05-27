@@ -1,12 +1,19 @@
 ---
-title: "Indian Army Agniveer Recruitment Guide — Eligibility, Process, Salary"
-description: "Complete Agniveer Army recruitment guide covering eligibility, selection process, physical standards, salary, and how to apply for Agnipath."
+title: "Agniveer Army Recruitment 2026 — Salary ₹30,000/Month, ₹11.71 Lakh Seva Nidhi, Apply at joinindianarmy.nic.in"
+description: "Agniveer Army 2026: Salary ₹30,000–₹40,000/month + ₹11.71 lakh Seva Nidhi after 4 years. Age 17.5–23 years, 10th/12th pass. Apply online at joinindianarmy.nic.in. Physical, medical, written selection stages."
 category: "Jobs & Exams"
-keywords: ["Agniveer Army", "Agnipath scheme", "Indian Army recruitment", "Agniveer eligibility", "army rally bharti", "Agniveer salary"]
+keywords:
+  - Agniveer Army 2026
+  - Agniveer recruitment 2026
+  - Agnipath scheme army
+  - Agniveer salary 2026
+  - Agniveer eligibility
+  - army agniveer apply 2026
+  - joinindianarmy.nic.in
+  - Agniveer seva nidhi
 readingTime: "9 min"
 officialLinks:
   - "https://www.joinindianarmy.nic.in"
-  - "https://agniveervayu.cdac.in"
   - "https://mod.gov.in"
 ---
 

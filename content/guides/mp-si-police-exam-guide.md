@@ -1,6 +1,6 @@
 ---
-title: "MP SI (Sub-Inspector) Exam Guide — How to Apply & Benefits"
-description: "Complete MP Police Sub-Inspector exam guide covering eligibility, exam pattern, syllabus, physical test, and preparation tips."
+title: "MP SI 2026 — MPPEB Sub Inspector Notification, Salary ₹35,400, Eligibility & Syllabus"
+description: "MP Police SI 2026 by MPPEB/Vyapam: Salary ₹35,400–₹1,12,400. Graduation required. Apply at peb.mp.gov.in. Written exam (200 marks CBT) + Physical + Medical. MP domicile (Mool Niwas required)."
 category: "Jobs & Exams"
 keywords: ["MP SI exam","MP Police Sub-Inspector","MPPEB SI","MP SI eligibility","MP SI syllabus"]
 readingTime: "9 min"

@@ -1,6 +1,6 @@
 ---
-title: "TN TET/TRB Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete Tamil Nadu TET and TRB exam guide covering eligibility, exam pattern, syllabus, fees, and preparation strategy."
+title: "TN TET 2026 (TNTET/TRB) — TNPSC Notification, Teacher Salary ₹37,000+, Paper 1 & 2"
+description: "TN TET 2026 by TNPSC/TRB: Qualify → Tamil Nadu Govt Primary Teacher salary ₹37,000+ (state scale). Paper 1 (Std 1–5) + Paper 2 (Std 6–8). Apply at trb.tn.nic.in. Tamil medium eligible."
 category: "Jobs & Exams"
 keywords: ["TN TET exam","Tamil Nadu TRB","TN TET eligibility","TNTET syllabus","TN Teacher Recruitment"]
 readingTime: "8 min"

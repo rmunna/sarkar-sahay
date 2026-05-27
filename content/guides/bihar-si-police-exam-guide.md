@@ -1,6 +1,6 @@
 ---
-title: "Bihar SI (Sub-Inspector) Exam Guide — How to Apply & Benefits"
-description: "Complete Bihar Police Sub-Inspector exam guide with eligibility, exam pattern, syllabus, physical test details, and tips."
+title: "Bihar SI 2026 — BPSSC Sub Inspector Notification, Salary ₹35,400, Eligibility & Syllabus"
+description: "Bihar SI 2026 by BPSSC: Salary ₹35,400–₹1,12,400. Graduation required. Apply at bpssc.bih.nic.in. Prelim + Mains + Physical Efficiency Test + Medical. Bihar domicile required."
 category: "Jobs & Exams"
 keywords: ["Bihar SI exam","Bihar Police Sub-Inspector","BPSSC SI","Bihar SI eligibility","Bihar SI syllabus"]
 readingTime: "9 min"

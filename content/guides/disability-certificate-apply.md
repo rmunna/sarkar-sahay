@@ -1,12 +1,20 @@
 ---
-title: "Disability Certificate (UDID Card) — How to Apply Online in India"
-description: "Complete guide to applying for a disability certificate and UDID card in India. Learn about eligibility, documents, medical assessment, and online process."
+title: "Disability Certificate (UDID Card) Apply Online 2026 — PwD 40% Benchmark, Benefits & swavlambancard.gov.in"
+description: "How to apply for disability certificate and UDID card online in 2026 at swavlambancard.gov.in. Minimum 40% disability required (benchmark). Get 3% govt job reservation, railway/bus concession, tax benefits, and scholarship eligibility."
 category: "Certificates"
-keywords: ["disability certificate", "UDID card apply", "disability certificate online", "PwD certificate", "disability percentage certificate India"]
+keywords:
+  - disability certificate apply online 2026
+  - UDID card apply 2026
+  - PwD certificate
+  - disability certificate 40 percent
+  - swavlambancard.gov.in
+  - disability certificate benefits
+  - disability certificate documents
+  - benchmark disability India
 readingTime: "8 min"
 officialLinks:
-  - https://www.swavlambancard.gov.in
-  - https://disabilityaffairs.gov.in
+  - "https://www.swavlambancard.gov.in"
+  - "https://disabilityaffairs.gov.in"
 ---
 
 ## What is a Disability Certificate?

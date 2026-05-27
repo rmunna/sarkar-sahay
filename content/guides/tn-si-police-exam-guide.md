@@ -1,6 +1,6 @@
 ---
-title: "Tamil Nadu SI (Sub-Inspector) Exam Guide — How to Apply Online"
-description: "Complete Tamil Nadu Police Sub-Inspector exam guide with eligibility, exam pattern, syllabus, physical test, and tips."
+title: "TN SI 2026 (Tamil Nadu SI) — TNUSRB Notification, Salary ₹38,590, Eligibility & Syllabus"
+description: "Tamil Nadu SI 2026 by TNUSRB: Salary ₹38,590–₹1,22,630. Graduation required. Apply at tnusrb.tn.gov.in. Written exam (200 marks) + Physical + Oral test + Medical. TN nativity required."
 category: "Jobs & Exams"
 keywords: ["TN SI exam","Tamil Nadu SI","TNUSRB SI","TN Police SI eligibility","TN SI syllabus"]
 readingTime: "9 min"

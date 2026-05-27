@@ -1,6 +1,6 @@
 ---
-title: "JPSC Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete JPSC exam guide with eligibility, exam pattern, syllabus, application process, fees, and preparation tips for Jharkhand civil services."
+title: "JPSC 2026 — Jharkhand PSC Notification, Salary ₹56,100+, Eligibility & Syllabus"
+description: "JPSC 2026 (Jharkhand PSC): Salary ₹56,100–₹1,31,400. Posts: SDM, DSP, BDO. Apply at jpsc.gov.in. Jharkhand local resident certificate required. Prelim, Mains, Interview. Hindi/regional language."
 category: "Jobs & Exams"
 keywords: ["JPSC exam", "Jharkhand PSC", "JPSC prelims mains", "Jharkhand civil services", "JPSC preparation guide", "JPSC syllabus"]
 readingTime: "8 min"

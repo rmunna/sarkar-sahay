@@ -1,6 +1,6 @@
 ---
-title: "IRCTC Waiting List Confirmation Chances — WL 15, 30, 50, 80+ Probability Chart (2026)"
-description: "Will your IRCTC WL ticket get confirmed? WL 1–15: 85%+ chance. WL 16–30: 50–60%. WL 31–60: 20–30%. WL 60+: under 10%. GNWL vs RLWL vs PQWL explained + when to cancel."
+title: "IRCTC Waiting List Confirmation Chances 2026 — GNWL vs RLWL, Check PNR & When to Cancel"
+description: "WL 1–15 = 85%+ confirmed. WL 16–30 = 50–60%. WL 31–60 = 20–30%. WL 60+ = under 10%. GNWL confirms faster than RLWL. Check PNR status at indianrail.gov.in — know when to cancel to get refund."
 category: "Utilities"
 keywords:
   - irctc waiting list confirmation chances

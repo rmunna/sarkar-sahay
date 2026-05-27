@@ -1,12 +1,18 @@
 ---
-title: "How to Apply for Aadhaar Card Online — Step-by-Step Guide"
-description: "Complete guide to apply for a new Aadhaar card online. Documents required, step-by-step process, fees, and processing time."
+title: "Aadhaar Card Apply Online 2026 — Book Appointment at uidai.gov.in, Documents & Enrollment Process"
+description: "How to apply for new Aadhaar card in 2026. Book enrollment appointment at appointments.uidai.gov.in. Documents: any 1 identity proof + 1 address proof. Free for first-time applicants. Delivered by post in 90 days."
 category: "Identity Documents"
-keywords: ["aadhaar card apply online", "new aadhaar card", "aadhaar enrollment", "UIDAI aadhaar"]
+keywords:
+  - aadhaar card apply online 2026
+  - new aadhaar card enrollment
+  - aadhaar enrollment center book appointment
+  - uidai.gov.in apply
+  - aadhaar card documents required
+  - aadhaar card processing time
 readingTime: "5 min"
 officialLinks:
-  - https://uidai.gov.in
-  - https://appointments.uidai.gov.in
+  - "https://uidai.gov.in"
+  - "https://appointments.uidai.gov.in"
 ---
 
 ## What is Aadhaar Card?

@@ -1,6 +1,6 @@
 ---
-title: "WB Clerkship Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete West Bengal Clerkship exam guide covering eligibility, exam pattern, syllabus, fees, and preparation strategy."
+title: "WB Clerkship 2026 — WBPSC Notification, Salary ₹22,700, Eligibility & Syllabus"
+description: "WB Clerkship 2026 by WBPSC: Salary ₹22,700–₹58,500. Apply at wbpsc.gov.in. 12th pass + Bengali/Nepali knowledge. Written exam (200 marks) + Computer test. WB domicile required."
 category: "Jobs & Exams"
 keywords: ["WB Clerkship exam","West Bengal Clerk","WBPSC Clerkship","WB Clerk eligibility","WB Clerkship syllabus"]
 readingTime: "10 min"

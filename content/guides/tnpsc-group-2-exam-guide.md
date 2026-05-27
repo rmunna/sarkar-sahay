@@ -1,8 +1,17 @@
 ---
-title: "TNPSC Group 2 Exam Guide — Eligibility, Syllabus & Preparation Tips"
-description: "Complete TNPSC Group 2 exam guide covering eligibility, exam pattern, syllabus, application process, and preparation strategy for Tamil Nadu jobs."
+title: "TNPSC Group 2 2026 — Notification, Salary ₹36,900–₹1,17,600, Vacancies & Syllabus"
+description: "TNPSC Group 2 (CCSE II) 2026: Salary ₹36,900–₹1,17,600. Includes Deputy Tahsildar, Assistant Section Officer, Tax Inspector posts. Apply at tnpscexams.net. Tamil Nadu eligibility, Tamil language test & preparation."
 category: "Jobs & Exams"
-keywords: ["TNPSC Group 2", "TNPSC Group 2 exam", "TNPSC Group 2 syllabus", "Tamil Nadu Group 2", "TNPSC Group 2A", "CCSE Group 2"]
+keywords:
+  - tnpsc group 2 2026
+  - tnpsc group 2 notification 2026
+  - tnpsc group 2 syllabus 2026
+  - tnpsc group 2 salary
+  - tnpsc group 2a 2026
+  - tnpsc ccse 2 2026
+  - tnpsc group 2 vacancies 2026
+  - tnpsc group 2 application 2026
+lastUpdated: "2026-05-26"
 readingTime: "8 min"
 officialLinks:
   - "https://www.tnpsc.gov.in"

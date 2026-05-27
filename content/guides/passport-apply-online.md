@@ -1,13 +1,19 @@
 ---
-title: "How to Apply for Passport Online in India — Step-by-Step Guide"
-description: "Complete guide to apply for Indian passport online via Passport Seva. Documents, fees, appointment booking, and tracking."
+title: "Passport Apply Online India 2026 — Fresh ₹1,500, Tatkal ₹3,500, Appointment at passportindia.gov.in"
+description: "Apply for Indian passport online 2026 at passportindia.gov.in. Fresh passport fee ₹1,500 (36 pages) or ₹2,000 (60 pages). Tatkal ₹3,500 extra. Book PSK/POPSK appointment. Documents: Aadhaar + DOB proof + address proof."
 category: "Identity Documents"
-keywords: ["passport apply online India", "new passport application", "passport seva", "Indian passport fees", "passport renewal online"]
+keywords:
+  - passport apply online India 2026
+  - new passport application 2026
+  - passport fee 2026
+  - Tatkal passport 2026
+  - passportindia.gov.in appointment
+  - passport seva kendra
+  - fresh passport documents
 readingTime: "7 min"
 officialLinks:
-  - https://www.passportindia.gov.in
-  - https://www.passportindia.gov.in
-  - https://mea.gov.in
+  - "https://www.passportindia.gov.in"
+  - "https://mea.gov.in"
 ---
 
 ## What is a Passport?

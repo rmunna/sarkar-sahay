@@ -1,8 +1,6 @@
 ---
-title: "CUET Registration: Step-by-Step Application Guide"
-description: >-
-  Complete guide to CUET registration on the NTA portal. Covers eligibility,
-  subject selection, application fee, exam pattern, and correction window.
+title: "CUET Registration 2026 — NTA Portal, Fee ₹1,000, Eligibility & Subject Selection Guide"
+description: "Register for CUET UG 2026 at exams.nta.ac.in. Fee ₹1,000 (UR), ₹600 (OBC NCL), ₹550 (SC/ST/PwD). Covers eligibility, subject selection (max 6 domain + 1 general), exam pattern & correction window."
 category: Jobs & Exams
 keywords:
   - cuet registration

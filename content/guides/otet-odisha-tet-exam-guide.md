@@ -1,6 +1,6 @@
 ---
-title: "OTET (Odisha TET) Exam Guide — How to Apply & Benefits"
-description: "Complete Odisha TET exam guide with eligibility, exam pattern for Paper 1 and Paper 2, syllabus, and preparation strategy."
+title: "OTET 2026 (Odisha TET) — Notification, Teacher Salary ₹19,900+, Paper 1 & 2 Syllabus"
+description: "OTET 2026 by BSE Odisha: Qualify → Odisha Govt Primary Teacher salary ₹19,900+ (state scale). Paper 1 (Primary) + Paper 2 (Upper Primary). Apply at bseodisha.ac.in. Odisha domicile required."
 category: "Jobs & Exams"
 keywords: ["OTET exam","Odisha TET","OTET eligibility","OTET syllabus","Odisha Teacher Eligibility Test"]
 readingTime: "8 min"

@@ -1,8 +1,15 @@
 ---
-title: "Gujarat Police Constable Exam Guide — How to Apply & Benefits"
-description: "Complete Gujarat Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and preparation tips."
+title: "Gujarat Police Constable 2026 — LRD Notification, Salary ₹19,950, Eligibility & Syllabus"
+description: "Gujarat Police Constable 2026 (LRD — Lokrakshak Dal): Salary ₹19,950–₹63,200. Apply at ojas.gujarat.gov.in. 12th pass eligible. Written test (100 marks, OMR) + PET/PST + Medical. Gujarat domicile."
 category: "Jobs & Exams"
-keywords: ["Gujarat Police Constable","Gujarat LRD exam","Gujarat Police eligibility","Gujarat Constable syllabus","LRD recruitment"]
+keywords:
+  - gujarat police constable 2026
+  - gujarat lrd 2026
+  - gujarat police constable notification 2026
+  - gujarat police constable salary
+  - gujarat lrd eligibility 2026
+  - gujarat police constable syllabus
+lastUpdated: "2026-05-26"
 readingTime: "8 min"
 officialLinks:
   - "https://police.gujarat.gov.in"

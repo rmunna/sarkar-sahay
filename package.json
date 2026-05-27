@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "gen:updates": "node scripts/generate-updates-gemini.js",
+    "gen:updates:dry": "node scripts/generate-updates-gemini.js --dry-run",
+    "gen:updates:force": "node scripts/generate-updates-gemini.js --force-scan"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.19",
@@ -21,6 +24,7 @@
     "twitter-api-v2": "^1.29.0"
   },
   "devDependencies": {
+    "@google/generative-ai": "^0.24.1",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^22",
     "@types/react": "^19",

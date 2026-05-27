@@ -1,8 +1,16 @@
 ---
-title: "RPSC RAS Exam Guide — Eligibility, Pattern, Syllabus & Preparation Tips"
-description: "Complete RPSC RAS exam guide with eligibility criteria, exam pattern, syllabus, application process, and preparation strategy for Rajasthan."
+title: "RPSC RAS 2026 — Notification, Salary ₹56,100+, Vacancies & Rajasthan Civil Services Syllabus"
+description: "RPSC RAS 2026 (Rajasthan Civil Services): Salary ₹56,100–₹1,31,400. Posts: SDM, RAS (Exec), RPS. Apply at rpsc.rajasthan.gov.in. Rajasthan domicile (10 years) + Jan Aadhaar required. Prelim, Mains, Interview."
 category: "Jobs & Exams"
-keywords: ["RPSC RAS exam", "Rajasthan RAS preparation", "RPSC syllabus", "Rajasthan civil services", "RAS eligibility", "RAS exam pattern"]
+keywords:
+  - rpsc ras 2026
+  - rpsc 2026
+  - ras exam 2026
+  - rpsc ras notification 2026
+  - rpsc ras syllabus 2026
+  - rpsc ras salary
+  - rajasthan civil services 2026
+lastUpdated: "2026-05-26"
 readingTime: "9 min"
 officialLinks:
   - "https://rpsc.rajasthan.gov.in"

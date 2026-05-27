@@ -1,9 +1,15 @@
 ---
-title: "PM Kisan Beneficiary Status Check: Track Payment"
-description: "Check your PM Kisan beneficiary status and track installment payments online at pmkisan.gov.in. See registered, rejected, or pending status."
+title: "PM Kisan 19th Installment Status Check 2026 — Track Payment by Aadhaar at pmkisan.gov.in"
+description: "Check PM Kisan 19th installment payment status by Aadhaar number, mobile or bank account at pmkisan.gov.in. See FTO status, payment confirmation date, and fix payment failure issues in 2026."
 category: "Government Schemes"
-keywords: ["PM Kisan beneficiary status", "PM Kisan status check", "PM Kisan payment track", "PM Kisan installment status", "pmkisan.gov.in status"]
-lastUpdated: "2026-03-06"
+keywords:
+  - PM Kisan 19th installment status
+  - PM Kisan beneficiary status 2026
+  - PM Kisan status check
+  - PM Kisan payment track
+  - PM Kisan installment date 2026
+  - pmkisan.gov.in status
+lastUpdated: "2026-05-26"
 readingTime: "7 min"
 officialLinks:
   - "https://pmkisan.gov.in"

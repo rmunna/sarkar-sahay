@@ -1,6 +1,6 @@
 ---
-title: "Kerala TET (KTET) Exam Guide — How to Apply & Benefits"
-description: "Complete KTET exam guide covering eligibility, exam pattern for all categories, syllabus, fees, and preparation strategy."
+title: "KTET 2026 (Kerala TET) — Notification, Teacher Salary ₹27,700+, Category I/II/III/IV Syllabus"
+description: "KTET 2026 by Kerala PSC: Qualify → LP/UP/HS teacher ₹27,700–₹50,000+. Category I (LP), II (UP), III (HS), IV (Special/Vocational). Apply at ktet.kerala.gov.in. Malayalam medium option."
 category: "Jobs & Exams"
 keywords: ["KTET exam","Kerala TET","KTET eligibility","KTET syllabus","Kerala Teacher Eligibility Test"]
 readingTime: "8 min"

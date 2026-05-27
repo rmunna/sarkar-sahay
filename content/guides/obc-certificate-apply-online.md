@@ -1,18 +1,16 @@
 ---
-title: "OBC Certificate Apply Online: Process, Documents & Eligibility"
-description: >-
-  Complete guide to apply for OBC certificate online via e-district portal. Documents, eligibility, creamy layer rules, fee, and validity explained.
-category: Certificates
+title: "OBC Certificate Apply Online 2026 — Creamy Layer ₹8 Lakh Limit, State Portals & Validity"
+description: "How to apply for OBC (Other Backward Class) certificate online in 2026. Creamy layer income limit ₹8 lakh/year. State e-district portals for UP, Maharashtra, Bihar, Rajasthan, MP, Karnataka & all states. 27% reservation in central govt jobs and admissions."
+category: "Certificates"
 keywords:
-  - obc certificate apply online
-  - obc certificate documents
-  - obc certificate online
-  - obc caste certificate
+  - OBC certificate apply online 2026
+  - OBC certificate creamy layer 2026
   - other backward class certificate
-  - obc certificate for admission
-  - obc certificate validity
-  - obc creamy layer
-  - obc certificate fee
+  - OBC certificate documents
+  - OBC certificate validity
+  - OBC certificate for UPSC
+  - OBC certificate state portal
+  - non-creamy layer certificate
   - e-district obc certificate
 readingTime: 9 min
 officialLinks:

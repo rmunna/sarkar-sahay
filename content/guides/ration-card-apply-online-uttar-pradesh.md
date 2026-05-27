@@ -1,12 +1,19 @@
 ---
-title: "How to Apply for Ration Card Online in Uttar Pradesh"
-description: "Step-by-step guide to apply for new ration card online in UP through fcs.up.gov.in. Documents, eligibility, fees, and process for UP ration card."
+title: "UP Ration Card Apply Online 2026 — New PHH/AAY Card at fcs.up.gov.in, Documents & Status Check"
+description: "Apply for new ration card in Uttar Pradesh online at fcs.up.gov.in. PHH (5kg/month free grain) and AAY (35kg/month) card types. Documents: Aadhaar + income certificate + residence proof. 3.62 crore cards, 14.61 crore beneficiaries."
 category: "Food & Ration"
-keywords: ["UP ration card", "uttar pradesh ration card apply", "UP ration card online", "fcs.up.gov.in ration card", "UP new ration card 2026", "UP ration card status"]
+keywords:
+  - UP ration card apply online 2026
+  - uttar pradesh ration card
+  - fcs.up.gov.in ration card apply
+  - UP new ration card 2026
+  - UP ration card status
+  - PHH ration card UP
+  - AAY ration card UP
 readingTime: "7 min"
 officialLinks:
-  - https://fcs.up.gov.in
-  - https://nfsa.gov.in
+  - "https://fcs.up.gov.in"
+  - "https://nfsa.gov.in"
 ---
 
 ## Overview

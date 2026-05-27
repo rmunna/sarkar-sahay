@@ -1,8 +1,16 @@
 ---
-title: "Character Certificate — How to Apply Online & at Police Station"
-description: "Get character certificate from police station or apply online. Application format, required documents, processing time & state-wise process explained."
-category: "Utilities"
-keywords: ["character certificate", "character certificate apply online", "police character certificate", "character certificate format", "good conduct certificate"]
+title: "Character Certificate Apply Online 2026 — Police Station, e-District & digitalpolice.gov.in"
+description: "Character/good conduct certificate: apply online at digitalpolice.gov.in, your state's e-District portal, or police station. Required for government jobs, passports, visa, NRI. Documents, processing time & format."
+category: "Certificates"
+keywords:
+  - character certificate apply online 2026
+  - police character certificate apply online
+  - character certificate from police station
+  - good conduct certificate apply online
+  - character certificate for government job
+  - digitalpolice.gov.in character certificate
+  - character certificate documents required
+  - character certificate format india
 readingTime: "7 min"
 officialLinks:
   - https://serviceonline.gov.in

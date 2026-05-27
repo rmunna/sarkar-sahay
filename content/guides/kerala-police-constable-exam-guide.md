@@ -1,8 +1,15 @@
 ---
-title: "Kerala Police Constable Exam Guide — How to Apply & Benefits"
-description: "Complete Kerala Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and preparation tips."
+title: "Kerala Police Constable 2026 — Kerala PSC Notification, Salary ₹21,000, Eligibility & Syllabus"
+description: "Kerala Police Constable 2026 by Kerala PSC: Salary ₹21,000–₹67,700. Apply at keralapsc.gov.in. 10th pass eligible. Written exam (OMR) + Physical Efficiency Test + Medical. Kerala nativity required."
 category: "Jobs & Exams"
-keywords: ["Kerala Police Constable","Kerala PSC Police","Kerala Police eligibility","Kerala Constable exam","Kerala Police recruitment"]
+keywords:
+  - kerala police constable 2026
+  - kerala psc police constable 2026
+  - kerala police constable notification 2026
+  - kerala police constable salary
+  - keralapsc constable recruitment 2026
+  - kerala police constable syllabus
+lastUpdated: "2026-05-26"
 readingTime: "8 min"
 officialLinks:
   - "https://keralapsc.gov.in"

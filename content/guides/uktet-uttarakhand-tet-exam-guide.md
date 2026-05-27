@@ -1,6 +1,6 @@
 ---
-title: "UKTET (Uttarakhand TET) Exam Guide — How to Apply & Benefits"
-description: "Complete UKTET exam guide covering eligibility, exam pattern for Paper 1 and Paper 2, syllabus, and preparation strategy."
+title: "UKTET 2026 (Uttarakhand TET) — Notification, Teacher Salary ₹21,700+, Paper 1 & 2 Syllabus"
+description: "UKTET 2026 by UBSE Uttarakhand: Qualify → UK Govt Primary Teacher salary ₹21,700+ (state scale). Paper 1 (Primary) + Paper 2 (Junior). Apply at ubse.uk.gov.in. B.Ed / D.El.Ed eligible."
 category: "Jobs & Exams"
 keywords: ["UKTET exam","Uttarakhand TET","UKTET eligibility","UKTET syllabus","Uttarakhand Teacher Eligibility"]
 readingTime: "8 min"

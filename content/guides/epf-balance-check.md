@@ -1,9 +1,6 @@
 ---
-title: "EPF Balance Check — 5 Ways to Check Your PF Balance Online (2025)"
-description: >-
-  How to check your EPF/PF balance online in India. 5 verified methods — EPFO passbook portal,
-  UMANG app, SMS, missed call, and EPFO website. Check UAN passbook, know your interest rate,
-  and understand your EPF account.
+title: "EPF Balance Check 2026 — 5 Ways to Check PF Balance Online by UAN Number, UMANG App & SMS"
+description: "How to check EPF/PF balance online in 2026. 5 verified methods: EPFO passbook portal (passbook.epfindia.gov.in), UMANG app, SMS to 7738299899, missed call 011-22901406, and EPFO website. Check UAN passbook anytime."
 category: Tax & Finance
 keywords:
   - epf balance check online

@@ -1,6 +1,6 @@
 ---
-title: "APSC Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete APSC exam guide covering eligibility, exam pattern, syllabus, application process, fees, and preparation tips for Assam civil services."
+title: "APSC 2026 — Assam PSC CCE Notification, Salary ₹30,000+, Eligibility & Syllabus"
+description: "APSC 2026 (Assam PSC Combined Competitive Exam): Salary ₹30,000–₹1,10,000 (Assam pay). Posts: ACS, APS, DSO. Apply at apsc.nic.in. Assam domicile required. Prelim, Mains, Viva."
 category: "Jobs & Exams"
 keywords: ["APSC exam", "Assam PSC", "Assam civil services", "APSC CCE", "APSC preparation", "APSC syllabus"]
 readingTime: "8 min"

@@ -1,8 +1,16 @@
 ---
-title: "TNPSC Group 4 Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete TNPSC Group 4 exam guide covering eligibility, exam pattern, syllabus, fees, and preparation tips for Tamil Nadu jobs."
+title: "TNPSC Group 4 2026 — Salary ₹19,500–₹62,000, VAO & Junior Assistant Vacancies"
+description: "TNPSC Group 4 (CCSE IV) 2026: Salary ₹19,500–₹62,000. Posts: Village Administrative Officer (VAO), Junior Assistant, Bill Collector. Apply at tnpscexams.net. 10th pass / graduation eligible. No interview."
 category: "Jobs & Exams"
-keywords: ["TNPSC Group 4","TNPSC Group 4 exam","TNPSC Group 4 eligibility","TNPSC Group 4 syllabus","Tamil Nadu Group 4"]
+keywords:
+  - tnpsc group 4 2026
+  - tnpsc group 4 notification 2026
+  - tnpsc group 4 syllabus 2026
+  - tnpsc group 4 salary
+  - tnpsc vao 2026
+  - tnpsc ccse 4 2026
+  - tnpsc group 4 eligibility 2026
+lastUpdated: "2026-05-26"
 readingTime: "9 min"
 officialLinks:
   - "https://www.tnpsc.gov.in"

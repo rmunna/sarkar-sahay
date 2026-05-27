@@ -1,6 +1,6 @@
 ---
-title: "Maharashtra TET (MAHATET) Exam Guide — How to Apply & Benefits"
-description: "Complete Maharashtra TET exam guide with eligibility, exam pattern, syllabus for Paper 1 and Paper 2, and preparation tips."
+title: "MAHATET 2026 (Maharashtra TET) — Notification, Teacher Salary ₹20,200+, Paper 1 & 2"
+description: "MAHATET 2026 by MAHA TET Board: Qualify → Maharashtra Govt Teacher salary ₹20,200+ (state scale). Paper 1 (Std 1–5) + Paper 2 (Std 6–8). Apply at mahatet.in. Marathi medium eligible."
 category: "Jobs & Exams"
 keywords: ["Maharashtra TET","MAHATET exam","Maha TET eligibility","MAHATET syllabus","Maharashtra Teacher Eligibility"]
 readingTime: "8 min"

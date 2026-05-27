@@ -1,6 +1,6 @@
 ---
-title: "Assam TET Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete Assam TET exam guide covering eligibility, exam pattern for Lower and Upper Primary, syllabus, and preparation."
+title: "Assam TET 2026 — LP & UP Paper, Salary ₹14,000+, Eligibility & Syllabus Apply"
+description: "Assam TET 2026 by SEBA/DTE: Pass TET → Lower Primary (LP) teacher ₹14,000+ or Upper Primary (UP) teacher ₹17,000+ salary. Paper 1 (LP) + Paper 2 (UP). Apply at ssa.assam.gov.in."
 category: "Jobs & Exams"
 keywords: ["Assam TET exam","Assam TET eligibility","Assam Teacher Eligibility","Assam TET syllabus","Assam LP UP TET"]
 readingTime: "8 min"

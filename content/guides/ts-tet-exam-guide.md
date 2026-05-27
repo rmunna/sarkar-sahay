@@ -1,6 +1,6 @@
 ---
-title: "TS TET (Telangana TET) Exam Guide — How to Apply & Benefits"
-description: "Complete TS TET exam guide covering eligibility, exam pattern for Paper 1 and Paper 2, syllabus, and preparation strategy."
+title: "TS TET 2026 (Telangana TET) — TGTET Notification, Teacher Salary ₹21,230+, Paper 1 & 2"
+description: "TS TET 2026 (TGTET) by TSBIE: Qualify → Telangana Govt Primary Teacher salary ₹21,230+ (state scale). Paper 1 (Class 1–5) + Paper 2 (Class 6–8). Apply at tstet.cgg.gov.in. Telugu medium eligible."
 category: "Jobs & Exams"
 keywords: ["TS TET exam","Telangana TET","TSTET eligibility","TSTET syllabus","Telangana Teacher Eligibility"]
 readingTime: "8 min"

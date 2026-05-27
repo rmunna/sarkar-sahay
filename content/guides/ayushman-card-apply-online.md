@@ -1,18 +1,16 @@
 ---
-title: "Ayushman Bharat Card Apply Online: How to Get PMJAY Health Card"
-description: >-
-  Step-by-step guide to apply for Ayushman Bharat card (PMJAY) online. Check eligibility, download e-card, find hospitals, and claim up to ₹5 lakh health cover.
-category: Government Schemes
+title: "Ayushman Bharat Card Apply Online 2026 — PMJAY ₹5 Lakh Health Card at beneficiary.nha.gov.in"
+description: "How to apply for Ayushman Bharat PMJAY card online in 2026. Check eligibility, download e-card, find empanelled hospitals, and get ₹5 lakh free health cover per year at beneficiary.nha.gov.in."
+category: "Government Schemes"
 keywords:
-  - ayushman bharat card apply online
-  - ayushman card download
+  - ayushman bharat card apply online 2026
+  - ayushman card download 2026
   - pmjay card apply
   - ayushman bharat health card
   - ayushman card eligibility
-  - abha health card
-  - ayushman bharat yojana
-  - pmjay registration
-  - ayushman card online
+  - ayushman bharat yojana 2026
+  - beneficiary.nha.gov.in apply
+  - pmjay registration 2026
   - ayushman bharat hospital list
 readingTime: 9 min
 lastUpdated: "2026-03-05"

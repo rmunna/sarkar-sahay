@@ -44,27 +44,27 @@ A **domicile certificate** (also called **residence certificate**, **nativity ce
 
 ## State-Wise Domicile Certificate Portals
 
-| State | Official Portal | Certificate Name | Issued By |
-|-------|----------------|-----------------|-----------|
-| **Uttar Pradesh** | edistrict.up.gov.in | Domicile Certificate | SDM / Tehsildar |
-| **Delhi** | edistrict.delhigovt.nic.in | Domicile Certificate | SDM |
-| **Maharashtra** | aaplesarkar.mahaonline.gov.in | Domicile Certificate | SDO / Tehsildar |
-| **Rajasthan** | emitra.rajasthan.gov.in / sso.rajasthan.gov.in | Mool Niwas Praman Patra | SDM / Tehsildar |
-| **Bihar** | serviceonline.bihar.gov.in | Residential Certificate | Circle Officer |
-| **Madhya Pradesh** | mpedistrict.gov.in | Mool Niwasi Praman Patra | SDM |
-| **West Bengal** | edistrict.wb.gov.in | Residence Certificate | SDO |
-| **Tamil Nadu** | tnedistrict.tn.gov.in | Nativity Certificate | Tahsildar |
-| **Telangana** | ts.meeseva.gov.in | Nativity / Residence Cert | MRO |
-| **Gujarat** | digitalgujarat.gov.in | Domicile Certificate | Mamlatdar |
-| **Karnataka** | sevasindhu.karnataka.gov.in | Residence Certificate | Tahsildar |
-| **Kerala** | edistrict.kerala.gov.in | Nativity Certificate | Village Officer |
-| **Haryana** | saralharyana.gov.in | Domicile Certificate | Tehsildar |
-| **Punjab** | punjabedistrictservices.gov.in | Residence Certificate | Tehsildar |
-| **Andhra Pradesh** | meeseva.gov.in | Nativity Certificate | MRO / Tahsildar |
-| **Odisha** | serviceonline.odisha.gov.in | Domicile Certificate | Tahasildar |
-| **Jharkhand** | jharsewa.jharkhand.gov.in | Residential Certificate | Circle Officer |
-| **Assam** | edistrict.assam.gov.in | Permanent Resident Cert | Circle Officer |
-| **Chhattisgarh** | edistrict.cgstate.gov.in | Mool Niwas Praman Patra | SDM |
+| State | Official Portal | Certificate Name | Detailed Guide |
+|-------|----------------|-----------------|----------------|
+| **Uttar Pradesh** | edistrict.up.gov.in | Domicile Certificate | [UP Domicile Certificate](/guide/up-domicile-certificate-apply-online) |
+| **Delhi** | edistrict.delhigovt.nic.in | Domicile Certificate | [Delhi Domicile Certificate](/guide/delhi-domicile-certificate-apply-online) |
+| **Maharashtra** | aaplesarkar.mahaonline.gov.in | Domicile Certificate | [Maharashtra Domicile (15-yr rule)](/guide/maharashtra-domicile-certificate-apply-online) |
+| **Rajasthan** | emitra.rajasthan.gov.in / sso.rajasthan.gov.in | Mool Niwas Praman Patra | [Rajasthan Mool Niwas](/guide/rajasthan-domicile-certificate-apply-online) |
+| **Tamil Nadu** | tnedistrict.tn.gov.in | Nativity Certificate | [Tamil Nadu Nativity Certificate](/guide/tamil-nadu-nativity-certificate-apply-online) |
+| **Telangana** | ts.meeseva.gov.in | Nativity / Residence Cert | [Telangana Nativity Certificate](/guide/telangana-nativity-certificate-apply-online) |
+| **Andhra Pradesh** | meeseva.gov.in | Nativity Certificate | [AP Nativity Certificate](/guide/andhra-pradesh-nativity-certificate-apply-online) |
+| **Gujarat** | digitalgujarat.gov.in | Domicile Certificate | [Gujarat Domicile Certificate](/guide/gujarat-domicile-certificate-apply-online) |
+| **Karnataka** | nadakacheri.karnataka.gov.in | Residence Certificate | [Karnataka Domicile Certificate](/guide/karnataka-domicile-residence-certificate-online) |
+| **Bihar** | serviceonline.bihar.gov.in | Residential Certificate | [Bihar Domicile Certificate](/guide/bihar-domicile-certificate-apply-online) |
+| **Madhya Pradesh** | mpedistrict.gov.in | Mool Niwasi Praman Patra | [MP Domicile Certificate](/guide/mp-domicile-certificate-apply-online) |
+| **West Bengal** | edistrict.wb.gov.in | Residence Certificate | [West Bengal Domicile Certificate](/guide/west-bengal-domicile-certificate-apply-online) |
+| **Kerala** | edistrict.kerala.gov.in | Nativity Certificate | [Kerala Nativity Certificate](/guide/kerala-nativity-certificate-apply-online) |
+| **Haryana** | saralharyana.gov.in | Domicile Certificate | [Haryana Domicile Certificate](/guide/haryana-domicile-certificate-apply-online) |
+| **Punjab** | punjabedistrictservices.gov.in | Residence Certificate | [Punjab Domicile Certificate](/guide/punjab-domicile-certificate-apply-online) |
+| **Odisha** | serviceonline.odisha.gov.in | Domicile Certificate | [Odisha Domicile Certificate](/guide/odisha-domicile-certificate-apply-online) |
+| **Jharkhand** | jharsewa.jharkhand.gov.in | Residential Certificate | [Jharkhand Domicile Certificate](/guide/jharkhand-domicile-certificate-apply-online) |
+| **Assam** | edistrict.assam.gov.in | Permanent Resident Cert | [Assam Domicile Certificate](/guide/assam-domicile-certificate-apply-online) |
+| **Chhattisgarh** | edistrict.cgstate.gov.in | Mool Niwas Praman Patra | [Chhattisgarh Domicile Certificate](/guide/chhattisgarh-domicile-certificate-apply-online) |
 
 ---
 

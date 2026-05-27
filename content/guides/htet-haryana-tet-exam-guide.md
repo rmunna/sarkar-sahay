@@ -1,6 +1,6 @@
 ---
-title: "HTET (Haryana TET) Exam Guide — How to Apply & Benefits"
-description: "Complete HTET exam guide covering eligibility, exam pattern for Level 1, 2, and 3, syllabus, fees, and preparation tips."
+title: "HTET 2026 (Haryana TET) — Notification, Teacher Salary ₹35,400, Level 1/2/3 Syllabus"
+description: "HTET 2026 by BSEH Haryana: Qualify → Haryana Govt Teacher salary ₹35,400+. Level 1 (PRT) + Level 2 (TGT) + Level 3 (PGT). Apply at bseh.org.in. B.Ed / D.El.Ed eligible."
 category: "Jobs & Exams"
 keywords: ["HTET exam","Haryana TET","HTET eligibility","HTET syllabus","Haryana Teacher Eligibility Test"]
 readingTime: "8 min"

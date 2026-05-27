@@ -1,10 +1,20 @@
 ---
-title: "How to Get Domicile/Residence Certificate in Karnataka Online — Nadakacheri & Seva Sindhu"
-description: "Apply for domicile or residence certificate in Karnataka online via Nadakacheri or Seva Sindhu. Steps, documents, fees, and processing time."
+title: "Karnataka Domicile / Residence Certificate Apply Online 2026 — Nadakacheri, Seva Sindhu & KCET"
+description: "Apply for residence/domicile certificate in Karnataka online at nadakacheri.karnataka.gov.in or Seva Sindhu. Required for KCET/NEET Karnataka state quota, KPSC government jobs, Karnataka scholarships. Documents & Tahsildar process 2026."
 category: "Certificates"
-keywords: ["karnataka domicile certificate", "karnataka residence certificate online", "nadakacheri domicile certificate", "seva sindhu residence certificate", "karnataka domicile certificate apply online"]
+keywords:
+  - karnataka domicile certificate apply online 2026
+  - karnataka residence certificate apply online
+  - nadakacheri residence certificate karnataka
+  - seva sindhu domicile certificate karnataka
+  - karnataka domicile certificate for kcet
+  - karnataka domicile certificate for neet
+  - karnataka residence certificate documents
+  - nadakacheri.karnataka.gov.in certificate
+  - karnataka domicile certificate status check
+  - karnataka domicile certificate download
 readingTime: "8 min"
-lastUpdated: "2026-02-22"
+lastUpdated: "2026-05-26"
 officialLinks:
   - https://nadakacheri.karnataka.gov.in
   - https://sevasindhu.karnataka.gov.in
@@ -165,6 +175,23 @@ You can also track via the Seva Sindhu portal if you applied there.
 3. **Save your reference number** — you'll need it for tracking and downloading the certificate
 4. **Digital certificates are legally valid** — the digitally signed certificate from Nadakacheri is accepted everywhere; no need for physical copies
 5. **Apply well in advance** — if needed for admissions or job applications, apply at least 3–4 weeks before your deadline
+
+## KCET / NEET Karnataka State Quota 2026
+
+For **KCET 2026** (Karnataka engineering admissions) and **NEET 2026 Karnataka state quota** (KEA NEET-UG counselling):
+
+| Route | Requirement |
+|-------|-------------|
+| **Born in Karnataka** | Karnataka residence certificate + birth certificate showing Karnataka |
+| **Studied in Karnataka** | Studied in Karnataka-recognized schools for 7+ years (Classes 1–12) |
+| **Parent is Karnataka government employee** | Parent's posting orders + family residence certificate |
+
+- KEA (Karnataka Examinations Authority) verifies during document round
+- Certificate must be Tahsildar-issued — Nadakacheri digital certificate accepted
+- Apply at least **4–6 weeks before KCET/NEET counselling** (15–30 day processing)
+- KCET & NEET Karnataka eligibility rules updated each year at [kea.kar.nic.in](https://kea.kar.nic.in)
+
+---
 
 ## Frequently Asked Questions
 

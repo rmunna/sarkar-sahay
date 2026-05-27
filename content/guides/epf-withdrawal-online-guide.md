@@ -1,8 +1,6 @@
 ---
-title: "EPF Withdrawal Online: How to Withdraw PF Money"
-description: >-
-  Complete guide to withdraw EPF money online using Form 19, Form 31, and Form
-  10C on the EPFO unified portal. Steps, documents, and processing timeline.
+title: "EPF Withdrawal Online 2026 — Full PF Settlement Form 19, Partial Form 31, Pension Form 10C at EPFO Portal"
+description: "How to withdraw PF/EPF money online in 2026 via EPFO unified portal. Full settlement (Form 19), partial withdrawal (Form 31), pension withdrawal (Form 10C). Documents required, 5–20 day processing. UAN must be active."
 category: Utilities
 keywords:
   - epf withdrawal online

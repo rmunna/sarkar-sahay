@@ -21,13 +21,25 @@ You are scanning for new government job notifications, exam updates, admit cards
 
 6. After all sources scanned:
    a. Commit all new files + updated source-monitors.json
-   b. `cd /Users/rajakumar/.openclaw/workspace/sarkar-sahay && git add -A && git commit -m "content: add [N] new updates ([summary])" && git push`
-   c. For each new update published, post to Telegram channel `@citizennest`:
+   b. `cd /Users/rajakumar/.openclaw/workspace/sarkar-sahay && git add content/updates/ agents/source-monitors.json && git commit -m "content: add [N] new updates ([summary])" && git push`
+   c. **Immediately submit new URLs to Google Indexing API** (do this right after push, before Vercel finishes deploying):
+      ```bash
+      # For each new slug just committed:
+      node /Users/rajakumar/.openclaw/workspace/sarkar-sahay/scripts/google-index-submit.js "https://www.citizennest.com/update/{slug}"
+      ```
+      Then submit to IndexNow for Bing/Yandex:
+      ```bash
+      node /Users/rajakumar/.openclaw/workspace/sarkar-sahay/scripts/submit-indexnow.js
+      ```
+   d. For each new update published, post to Telegram channel `@citizennest`:
       ```
       message(action=send, channel=telegram, accountId=midas, target=@citizennest, message=...)
       ```
-      Format: 🔴/🟡 Title + vacancies/type + key date + citizennest.com/update/{slug}
-   d. Summarize: what was found, what was published, what was skipped and why
+      Format: 🔴 **[Exam Name] [Stage]** — [key detail e.g. "14,582 vacancies" or "Result declared"]
+      Last date/result date + direct link: citizennest.com/update/{slug}
+      Example: 🔴 **SSC CGL 2026 Notification** — 14,582 vacancies. Apply by March 15.
+      👉 citizennest.com/update/ssc-cgl-2026-notification
+   e. Summarize: what was found, what was published, what was skipped and why
 
 ## Generation Rules
 

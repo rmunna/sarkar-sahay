@@ -1,8 +1,15 @@
 ---
-title: "Karnataka Police Constable Exam Guide — How to Apply & Benefits"
-description: "Complete Karnataka Police Constable exam guide covering eligibility, exam pattern, syllabus, physical test, and preparation."
+title: "Karnataka Police Constable 2026 — KSP Notification, Salary ₹21,400, Eligibility & Syllabus"
+description: "Karnataka Police Constable 2026 by KSP (Karnataka State Police): Salary ₹21,400–₹67,500. Apply at ksp.gov.in. 10th pass eligible (12th preferred). Written exam + PET/PST + Medical. Kannada mandatory."
 category: "Jobs & Exams"
-keywords: ["Karnataka Police Constable","KSP Constable exam","Karnataka Police eligibility","KSP recruitment","Karnataka Constable syllabus"]
+keywords:
+  - karnataka police constable 2026
+  - ksp constable 2026
+  - karnataka police constable notification 2026
+  - karnataka police constable salary
+  - ksp recruitment 2026
+  - karnataka police constable syllabus
+lastUpdated: "2026-05-26"
 readingTime: "8 min"
 officialLinks:
   - "https://ksp.karnataka.gov.in"

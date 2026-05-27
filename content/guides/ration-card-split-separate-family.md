@@ -1,6 +1,6 @@
 ---
-title: "Ration Card Split After Marriage 2026 — Get Separate Card for New Family Online"
-description: "Split ration card for a new family after marriage or living separately. Docs needed: existing ration card, Aadhaar, address proof of new residence. Apply at state PDS portal or ration office."
+title: "Ration Card Split After Marriage 2026 — New Separate Card in 30 Days, Documents & Apply"
+description: "Newly married or living separately? Split your ration card online to get a new card for your family. Required: existing ration card, Aadhaar, marriage certificate + new address proof. Done in 15–30 days."
 category: Government Schemes
 keywords:
   - ration card split

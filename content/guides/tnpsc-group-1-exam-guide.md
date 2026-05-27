@@ -1,8 +1,16 @@
 ---
-title: "TNPSC Group 1 Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete TNPSC Group 1 exam guide with eligibility criteria, exam pattern, syllabus, how to apply, and preparation tips for Tamil Nadu aspirants."
+title: "TNPSC Group 1 2026 — Notification, Salary ₹56,100+, IAS-Level Posts & Syllabus"
+description: "TNPSC Group 1 (CCSE I) 2026: IAS-equivalent state civil services. Salary ₹56,100–₹1,31,400. Posts: DSP, Deputy Collector, AE, DTCP. Apply at tnpscexams.net. 3-stage exam — Prelim, Mains, Interview."
 category: "Jobs & Exams"
-keywords: ["TNPSC Group 1", "TNPSC Group 1 exam", "Tamil Nadu PSC", "TNPSC syllabus", "TNPSC Group 1 preparation", "CCSE Group 1"]
+keywords:
+  - tnpsc group 1 2026
+  - tnpsc group 1 notification 2026
+  - tnpsc group 1 syllabus 2026
+  - tnpsc group 1 salary
+  - tnpsc ccse 1 2026
+  - tnpsc group 1 eligibility 2026
+  - tnpsc group 1 preparation
+lastUpdated: "2026-05-26"
 readingTime: "9 min"
 officialLinks:
   - "https://www.tnpsc.gov.in"

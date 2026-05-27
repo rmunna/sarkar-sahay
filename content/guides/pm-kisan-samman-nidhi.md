@@ -1,11 +1,19 @@
 ---
-title: "PM Kisan Samman Nidhi — How to Apply, Eligibility & Benefits"
-description: "Complete guide to PM Kisan Yojana. How to register, check payment status, eligibility criteria, and documents required."
+title: "PM Kisan Samman Nidhi 2026 — ₹6,000/Year, 19th Installment Date, Apply & eKYC at pmkisan.gov.in"
+description: "PM Kisan 2026: Get ₹6,000/year (₹2,000×3 installments) in your bank account. Check 19th installment date, how to register online, complete eKYC, and track beneficiary status at pmkisan.gov.in."
 category: "Government Schemes"
-keywords: ["PM Kisan registration", "PM Kisan status check", "PM Kisan Samman Nidhi", "PM Kisan beneficiary list", "PM Kisan installment"]
+keywords:
+  - PM Kisan 2026
+  - PM Kisan 19th installment
+  - PM Kisan Samman Nidhi
+  - PM Kisan registration
+  - PM Kisan status check
+  - PM Kisan beneficiary list
+  - PM Kisan eKYC
+  - pmkisan.gov.in
 readingTime: "5 min"
 officialLinks:
-  - https://pmkisan.gov.in
+  - "https://pmkisan.gov.in"
 ---
 
 ## What is PM Kisan Samman Nidhi?

@@ -1,8 +1,6 @@
 ---
-title: 'NREGA Job Card — How to Apply, Check Status, Download & View Payment'
-description: >-
-  Complete guide to NREGA/MGNREGA job card. Learn how to apply online & offline,
-  check job card status, download job card, view payment status, check muster...
+title: "NREGA Job Card 2026 — Apply Online, Download, Check Status & ₹267/Day Wage at nrega.nic.in"
+description: "Apply for NREGA/MGNREGA job card at nrega.nic.in or Gram Panchayat. ₹267/day wage (2026 rate). Check job card status, download PDF, view muster roll & payment status — all in one guide."
 category: Jobs & Exams
 keywords:
   - NREGA job card

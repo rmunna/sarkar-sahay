@@ -1,18 +1,14 @@
 ---
-title: How to Change Address in Aadhaar Card Online and Offline
-description: >-
-  Step-by-step guide to update or change your address in Aadhaar card online via
-  myAadhaar portal and offline at Aadhaar enrolment centres. Complete list of...
-category: Identity Documents
+title: "Aadhaar Address Change Online 2026 — Update at myAadhaar Portal, Documents & ₹50 Fee"
+description: "How to change address in Aadhaar card online in 2026 at myaadhaar.uidai.gov.in. Fee ₹50. Accepted documents: bank passbook, utility bill, rental agreement. Address update reflects in 30–90 days. Offline option at Aadhaar center."
+category: "Identity Documents"
 keywords:
-  - aadhaar address change
+  - aadhaar address change online 2026
   - change address in aadhaar card
-  - aadhaar address update online
-  - aadhaar address update
-  - update address in aadhaar
-  - aadhaar card address correction
-  - aadhaar address change online
+  - myaadhaar uidai address update
   - aadhaar address update documents
+  - aadhaar address correction fee
+  - update address aadhaar without otp
   - aadhaar address validation letter
   - myaadhaar address update
 readingTime: 8 min

@@ -1,6 +1,6 @@
 ---
-title: "HSSC Clerk Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete HSSC Clerk exam guide covering eligibility, exam pattern, syllabus, fees, and preparation tips for Haryana Clerk."
+title: "HSSC Clerk 2026 — Haryana Clerk Notification, Salary ₹25,500, Eligibility & Syllabus"
+description: "HSSC Clerk 2026 by HSSC: Salary ₹25,500–₹81,100. Apply at saralharyana.gov.in. 12th pass + Computer proficiency. Written exam (100 marks) + Computer test. Haryana domicile + PPP required."
 category: "Jobs & Exams"
 keywords: ["HSSC Clerk exam","Haryana Clerk","HSSC Clerk eligibility","Haryana Clerk recruitment","HSSC Clerk syllabus"]
 readingTime: "8 min"

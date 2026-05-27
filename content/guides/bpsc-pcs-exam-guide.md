@@ -1,8 +1,16 @@
 ---
-title: "BPSC PCS Exam Guide — Eligibility, Pattern, Syllabus & Preparation Tips"
-description: "Complete BPSC PCS exam guide with eligibility criteria, exam pattern, syllabus, application process, and preparation strategy for Bihar."
+title: "BPSC 2026 — Notification, Salary ₹56,100+, Eligibility & Integrated Prelims Syllabus"
+description: "BPSC 2026 (Bihar PCS): Salary ₹56,100–₹1,31,400. Posts: SDM, BDO, DSP, ASP. Apply at bpsc.bih.nic.in. Bihar domicile required. 3 stages: Prelim (integrated), Mains, Interview. Preparation strategy."
 category: "Jobs & Exams"
-keywords: ["BPSC PCS exam", "Bihar PCS preparation", "BPSC syllabus", "Bihar civil services", "BPSC eligibility", "BPSC exam pattern"]
+keywords:
+  - bpsc 2026
+  - bpsc pcs 2026
+  - bpsc notification 2026
+  - bpsc syllabus 2026
+  - bpsc salary
+  - bihar civil services 2026
+  - bpsc eligibility 2026
+lastUpdated: "2026-05-26"
 readingTime: "9 min"
 officialLinks:
   - "https://www.bpsc.bih.nic.in"

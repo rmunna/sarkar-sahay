@@ -1,6 +1,6 @@
 ---
-title: "MP TET (MPTET) Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete MPTET exam guide with eligibility, exam pattern for Primary and Middle school, syllabus, fees, and preparation tips."
+title: "MP TET 2026 (MPTET) — Notification, Teacher Salary ₹19,500+, Primary & Middle School Syllabus"
+description: "MPTET 2026 by MPPEB/Vyapam: Qualify → MP Govt Teacher salary ₹19,500+ (state scale 1). Varg-3 (Primary) + Varg-2 (Middle School). Apply at peb.mp.gov.in. Samagra ID + B.Ed eligible."
 category: "Jobs & Exams"
 keywords: ["MPTET exam","MP TET eligibility","MP Teacher Eligibility Test","MPTET syllabus","MPPEB TET"]
 readingTime: "8 min"

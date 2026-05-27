@@ -1,18 +1,16 @@
 ---
-title: "Atal Pension Yojana (APY): Eligibility, Contribution Chart, and How to Apply"
-description: "Complete guide to Atal Pension Yojana. Check eligibility, contribution chart, pension amounts of ₹1,000-₹5,000, and how to apply through your bank."
+title: "Atal Pension Yojana 2026 — ₹1,000–₹5,000/Month Pension, Contribution Chart & How to Join APY"
+description: "Atal Pension Yojana 2026: Get guaranteed pension of ₹1,000–₹5,000/month after age 60. Join APY through your bank savings account. Age 18–40 eligible. Government co-contribution for unorganized sector workers. Check contribution chart by age."
 category: "Government Schemes"
 keywords:
-  - atal pension yojana
-  - apy scheme
-  - atal pension yojana chart
-  - apy contribution chart
+  - atal pension yojana 2026
+  - APY scheme
+  - atal pension yojana contribution chart
+  - APY pension 5000 per month
   - atal pension yojana eligibility
-  - apy pension scheme
-  - atal pension apply online
   - guaranteed pension scheme
-  - apy benefits
-  - pension for unorganised workers
+  - APY apply through bank
+  - pension for unorganised workers 2026
 readingTime: "8 min"
 officialLinks:
   - "https://www.npscra.nsdl.co.in/scheme-details.php"

@@ -1,8 +1,15 @@
 ---
-title: "Assam Police Constable Exam Guide — How to Apply & Benefits"
-description: "Complete Assam Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and preparation tips."
+title: "Assam Police Constable 2026 — SLPRB Notification, Salary ₹14,000–₹60,500, Eligibility & Syllabus"
+description: "Assam Police Constable 2026 by SLPRB Assam: Salary ₹14,000–₹60,500 (Assam pay). Apply at slprbassam.in. 10th pass eligible. Written exam + PET/PST + Medical. Assam domicile required."
 category: "Jobs & Exams"
-keywords: ["Assam Police Constable","Assam Police exam","SLPRB Assam","Assam Police eligibility","Assam Constable recruitment"]
+keywords:
+  - assam police constable 2026
+  - slprb assam constable 2026
+  - assam police constable notification 2026
+  - assam police constable salary
+  - slprb assam recruitment 2026
+  - assam police constable syllabus
+lastUpdated: "2026-05-26"
 readingTime: "8 min"
 officialLinks:
   - "https://slprbassam.in"

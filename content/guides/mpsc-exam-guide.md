@@ -1,8 +1,16 @@
 ---
-title: "MPSC (Maharashtra PSC) Exam Guide — How to Apply & Benefits"
-description: "Complete MPSC exam guide covering eligibility, exam pattern, syllabus, application process, fees, and preparation strategy."
+title: "MPSC 2026 — Rajyaseva Notification, Salary ₹56,100+, Eligibility & Maharashtra PSC Syllabus"
+description: "MPSC Rajyaseva 2026 (Maharashtra PSC): Salary ₹56,100–₹1,31,400. Posts: DSP, SDO, Tahsildar. Apply at mpsc.gov.in. Maharashtra domicile (15 years) required. Prelim, Mains, Interview. Marathi language test."
 category: "Jobs & Exams"
-keywords: ["MPSC exam","Maharashtra PSC","MPSC eligibility","MPSC syllabus","MPSC exam pattern","Maharashtra Civil Service"]
+keywords:
+  - mpsc 2026
+  - mpsc rajyaseva 2026
+  - mpsc notification 2026
+  - mpsc syllabus 2026
+  - mpsc salary
+  - maharashtra psc 2026
+  - mpsc eligibility 2026
+lastUpdated: "2026-05-26"
 readingTime: "10 min"
 officialLinks:
   - "https://mpsc.gov.in"

@@ -1,16 +1,16 @@
 ---
-title: "ABHA Health ID: How to Create, Benefits & Link Health Records"
-description: "Guide to ABHA (Ayushman Bharat Health Account) — create your 14-digit health ID, link records, and access digital health services online."
+title: "ABHA Health ID 2026 — Create 14-Digit Health Account & Link Records at abha.abdm.gov.in"
+description: "ABHA (Ayushman Bharat Health Account) 2026: Create your free 14-digit digital health ID using Aadhaar at abha.abdm.gov.in. Link prescriptions, lab reports, and hospital records. Access anywhere in India."
 category: "Identity Documents"
 keywords:
-  - abha health id
-  - abha card
+  - abha health id 2026
+  - abha card create online
   - ayushman bharat health account
-  - abha id create online
-  - health id india
-  - abha number
-  - digital health id
-  - abha health card apply
+  - abha id create
+  - abha number download
+  - digital health id india
+  - abha.abdm.gov.in
+  - 14 digit health id
 readingTime: "8 min"
 lastUpdated: "2026-03-04"
 officialLinks:

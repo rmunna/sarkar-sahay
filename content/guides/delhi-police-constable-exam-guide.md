@@ -1,6 +1,6 @@
 ---
-title: "Delhi Police Constable Exam Guide 2025: Eligibility, Syllabus & Preparation"
-description: "Complete guide to Delhi Police Constable recruitment exam — eligibility criteria, age limit, syllabus, exam pattern, physical standards, salary, and preparation tips."
+title: "Delhi Police Constable 2026 — SSC CPO Notification, Salary ₹35,000+, Eligibility & Syllabus"
+description: "Delhi Police Constable 2026 via SSC CPO: Salary ₹21,700 basic + Delhi allowances = ₹35,000+ in-hand. 12th pass eligible. Written exam (200 marks, CBT) + Physical + Medical. Apply at ssc.gov.in."
 slug: delhi-police-constable-exam-guide
 category: "Jobs & Exams"
 tags: ["delhi police", "delhi police constable", "delhi police exam", "ssc delhi police", "delhi police recruitment"]

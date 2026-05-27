@@ -1,8 +1,15 @@
 ---
-title: "Jharkhand Police Constable Exam Guide — How to Apply & Benefits"
-description: "Complete Jharkhand Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and tips."
+title: "Jharkhand Police Constable 2026 — JSSC Notification, Salary ₹19,900, Eligibility & Syllabus"
+description: "Jharkhand Police Constable 2026 by JSSC: Salary ₹19,900–₹63,200. Apply at jssc.nic.in. 10th pass eligible. Written exam + PET/PST + Medical. Jharkhand local resident certificate required."
 category: "Jobs & Exams"
-keywords: ["Jharkhand Police Constable","JSSC Police","Jharkhand Police eligibility","Jharkhand Constable exam","JSSC recruitment"]
+keywords:
+  - jharkhand police constable 2026
+  - jssc police constable 2026
+  - jharkhand police constable notification 2026
+  - jharkhand police constable salary
+  - jssc recruitment 2026
+  - jharkhand police constable syllabus
+lastUpdated: "2026-05-26"
 readingTime: "8 min"
 officialLinks:
   - "https://jssc.nic.in"

@@ -1,8 +1,16 @@
 ---
-title: "DigiLocker Document Not Showing or Missing? Fix in 5 Minutes (Marksheet, DL, Aadhaar 2026)"
-description: "DigiLocker certificate, marksheet, Aadhaar or driving licence not showing? Fetch from issuer, check linked Aadhaar number, clear app cache, or use alternative pull link — 6 fixes, resolved in 5 min."
+title: "DigiLocker Document Not Showing or Missing? 7 Fixes — Marksheet, DL, Aadhaar (2026)"
+description: "DigiLocker certificate or marksheet not showing in issued documents? 7 fixes: fetch from issuer portal, check Aadhaar number linked, clear app cache, re-link account, or pull via partner link — resolved in 5 minutes."
 category: "Identity Documents"
-keywords: ["digilocker document not showing", "digilocker certificate missing", "digilocker issued document not appearing", "digilocker CBSE marksheet", "digilocker pull document", "fetch document digilocker"]
+keywords:
+  - digilocker document not showing
+  - digilocker certificate missing 2026
+  - digilocker issued document not appearing
+  - digilocker CBSE marksheet not showing
+  - digilocker pull document fix
+  - fetch document digilocker
+  - digilocker aadhaar not linked fix
+  - digilocker driving licence not showing
 readingTime: "8 min"
 lastUpdated: "2026-03-05"
 officialLinks:

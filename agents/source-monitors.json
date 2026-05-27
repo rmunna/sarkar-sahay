@@ -1,5 +1,5 @@
 {
-  "_comment": "Organizations to monitor for new announcements. tier = scan frequency.",
+  "_comment": "Organizations to monitor for new announcements. tier = scan frequency. tier1 = daemon polls every 5 min, tier2 = Claude agent scans daily, tier3 = weekly.",
   "sources": [
     {
       "id": "ssc",
@@ -12,19 +12,11 @@
         "SSC CGL 2026",
         "SSC CHSL 2026",
         "SSC MTS 2026",
-        "SSC GD 2026"
+        "SSC GD 2026",
+        "SSC CPO 2026 result"
       ],
-      "exams": [
-        "CGL",
-        "CHSL",
-        "MTS",
-        "GD Constable",
-        "CPO",
-        "JE",
-        "Stenographer",
-        "JHT"
-      ],
-      "lastScanned": "2026-03-01"
+      "exams": ["CGL", "CHSL", "MTS", "GD Constable", "CPO", "JE", "Stenographer", "JHT"],
+      "lastScanned": "2026-01-01"
     },
     {
       "id": "upsc",
@@ -36,18 +28,11 @@
         "UPSC notification 2026",
         "UPSC Civil Services 2026",
         "UPSC NDA 2026",
-        "UPSC CDS 2026"
+        "UPSC CDS 2026",
+        "UPSC CAPF 2026"
       ],
-      "exams": [
-        "Civil Services",
-        "NDA",
-        "CDS",
-        "CAPF",
-        "IES/ISS",
-        "CMS",
-        "IFS"
-      ],
-      "lastScanned": "2026-03-01"
+      "exams": ["Civil Services", "NDA", "CDS", "CAPF", "IES/ISS", "CMS", "IFS"],
+      "lastScanned": "2026-01-01"
     },
     {
       "id": "rrb",
@@ -59,17 +44,11 @@
         "RRB recruitment 2026",
         "Railway NTPC 2026",
         "RRB Group D 2026",
-        "RRB ALP 2026"
+        "RRB ALP 2026",
+        "Railway recruitment 2026 result"
       ],
-      "exams": [
-        "NTPC",
-        "Group D",
-        "ALP",
-        "JE",
-        "Paramedical",
-        "Ministerial"
-      ],
-      "lastScanned": "2026-03-01"
+      "exams": ["NTPC", "Group D", "ALP", "JE", "Paramedical", "Ministerial"],
+      "lastScanned": "2026-01-01"
     },
     {
       "id": "ibps",
@@ -81,16 +60,11 @@
         "IBPS PO 2026",
         "IBPS Clerk 2026",
         "IBPS SO 2026",
-        "IBPS RRB 2026"
+        "IBPS RRB 2026",
+        "IBPS result 2026"
       ],
-      "exams": [
-        "PO",
-        "Clerk",
-        "SO",
-        "RRB Officer",
-        "RRB Office Assistant"
-      ],
-      "lastScanned": "2026-03-01"
+      "exams": ["PO", "Clerk", "SO", "RRB Officer", "RRB Office Assistant"],
+      "lastScanned": "2026-01-01"
     },
     {
       "id": "sbi",
@@ -101,15 +75,11 @@
       "searchQueries": [
         "SBI PO 2026",
         "SBI Clerk 2026",
-        "SBI SO 2026"
+        "SBI SO 2026",
+        "SBI result 2026"
       ],
-      "exams": [
-        "PO",
-        "Clerk",
-        "SO"
-      ],
-      "lastScanned": "2026-03-01",
-      "lastScanNote": "SBI Clerk Mains Result 2025-26 (27 Feb) — published"
+      "exams": ["PO", "Clerk", "SO"],
+      "lastScanned": "2026-01-01"
     },
     {
       "id": "nta",
@@ -118,21 +88,92 @@
       "url": "https://nta.ac.in",
       "tier": 1,
       "searchQueries": [
-        "JEE Main 2026",
-        "NEET 2026",
+        "JEE Main 2026 result",
+        "NEET 2026 result",
         "CUET 2026",
-        "UGC NET 2026"
+        "UGC NET 2026",
+        "CTET 2026",
+        "NTA admit card 2026"
       ],
-      "exams": [
-        "JEE Main",
-        "NEET UG",
-        "CUET UG",
-        "CUET PG",
-        "UGC NET",
-        "CSIR NET"
+      "exams": ["JEE Main", "NEET UG", "CUET UG", "CUET PG", "UGC NET", "CSIR NET", "CTET"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "cbse",
+      "name": "CBSE",
+      "fullName": "Central Board of Secondary Education",
+      "url": "https://cbseresults.nic.in",
+      "tier": 1,
+      "searchQueries": [
+        "CBSE Class 10 result 2026",
+        "CBSE Class 12 result 2026",
+        "CBSE board result 2026",
+        "cbseresults.nic.in 2026"
       ],
-      "lastScanned": "2026-03-01",
-      "lastScanNote": "CSIR NET Dec 2025 final result (23 Feb) — published"
+      "exams": ["Class 10 Board", "Class 12 Board"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "upmsp",
+      "name": "UP Board",
+      "fullName": "Uttar Pradesh Madhyamik Shiksha Parishad",
+      "url": "https://upmsp.edu.in",
+      "tier": 1,
+      "searchQueries": [
+        "UP Board result 2026",
+        "UP 10th result 2026",
+        "UP 12th result 2026",
+        "upmsp result 2026"
+      ],
+      "exams": ["Class 10 (Madhyamik)", "Class 12 (Intermediate)"],
+      "lastScanned": "2026-01-01",
+      "_note": "UP Board result gets 2 crore+ searches on result day"
+    },
+    {
+      "id": "bseb",
+      "name": "Bihar Board",
+      "fullName": "Bihar School Examination Board",
+      "url": "https://biharboardonline.bihar.gov.in",
+      "tier": 1,
+      "searchQueries": [
+        "Bihar Board result 2026",
+        "BSEB 10th result 2026",
+        "BSEB 12th result 2026",
+        "Bihar Board Matric result 2026"
+      ],
+      "exams": ["Class 10 (Matric)", "Class 12 (Inter)"],
+      "lastScanned": "2026-01-01",
+      "_note": "Bihar Board result gets 1 crore+ searches on result day"
+    },
+    {
+      "id": "msbshse",
+      "name": "Maharashtra Board",
+      "fullName": "Maharashtra State Board of Secondary and Higher Secondary Education",
+      "url": "https://mahresult.nic.in",
+      "tier": 1,
+      "searchQueries": [
+        "Maharashtra SSC result 2026",
+        "Maharashtra HSC result 2026",
+        "MSBSHSE result 2026",
+        "10th result Maharashtra 2026",
+        "12th result Maharashtra 2026"
+      ],
+      "exams": ["SSC (Class 10)", "HSC (Class 12)"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "rbi",
+      "name": "RBI",
+      "fullName": "Reserve Bank of India",
+      "url": "https://opportunities.rbi.org.in",
+      "tier": 2,
+      "searchQueries": [
+        "RBI Grade B 2026",
+        "RBI Assistant 2026",
+        "RBI recruitment 2026"
+      ],
+      "exams": ["Grade B", "Assistant"],
+      "lastScanned": "2026-01-01"
     },
     {
       "id": "gate",
@@ -142,12 +183,11 @@
       "tier": 2,
       "searchQueries": [
         "GATE 2026 notification",
-        "GATE 2026 result"
+        "GATE 2026 result",
+        "GATE 2027 notification"
       ],
-      "exams": [
-        "GATE"
-      ],
-      "lastScanned": "2026-02-28"
+      "exams": ["GATE"],
+      "lastScanned": "2026-01-01"
     },
     {
       "id": "uppsc",
@@ -157,14 +197,12 @@
       "tier": 2,
       "searchQueries": [
         "UPPSC PCS 2026",
-        "UPPSC recruitment 2026"
+        "UPPSC recruitment 2026",
+        "UPPSC result 2026",
+        "UPPSC RO ARO 2026"
       ],
-      "exams": [
-        "PCS",
-        "RO/ARO",
-        "ACF/RFO"
-      ],
-      "lastScanned": "2026-02-28"
+      "exams": ["PCS", "RO/ARO", "ACF/RFO"],
+      "lastScanned": "2026-01-01"
     },
     {
       "id": "bpsc",
@@ -174,13 +212,12 @@
       "tier": 2,
       "searchQueries": [
         "BPSC 2026",
-        "BPSC teacher 2026"
+        "BPSC teacher 2026",
+        "BPSC 71st 2026",
+        "BPSC result 2026"
       ],
-      "exams": [
-        "CCE",
-        "Teacher"
-      ],
-      "lastScanned": "2026-02-28"
+      "exams": ["CCE", "Teacher", "TRE"],
+      "lastScanned": "2026-01-01"
     },
     {
       "id": "army",
@@ -191,46 +228,578 @@
       "searchQueries": [
         "Indian Army recruitment 2026",
         "Army Agniveer 2026",
-        "Army rally 2026"
+        "Army rally 2026",
+        "Indian Army result 2026"
       ],
-      "exams": [
-        "Agniveer",
-        "TGC",
-        "SSC Tech",
-        "NCC Special Entry"
+      "exams": ["Agniveer", "TGC", "SSC Tech", "NCC Special Entry"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "navy",
+      "name": "Indian Navy",
+      "fullName": "Indian Navy",
+      "url": "https://joinindiannavy.gov.in",
+      "tier": 2,
+      "searchQueries": [
+        "Indian Navy Agniveer 2026",
+        "Indian Navy recruitment 2026",
+        "Navy SSR MR 2026"
       ],
-      "lastScanned": "2026-02-28"
+      "exams": ["Agniveer SSR", "Agniveer MR", "AA", "SSC Officer"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "airforce",
+      "name": "Indian Air Force",
+      "fullName": "Indian Air Force",
+      "url": "https://agnipathvayu.cdac.in",
+      "tier": 2,
+      "searchQueries": [
+        "Indian Air Force Agniveer Vayu 2026",
+        "IAF recruitment 2026",
+        "Agniveer Vayu 2026"
+      ],
+      "exams": ["Agniveer Vayu", "AFCAT"],
+      "lastScanned": "2026-01-01"
     },
     {
       "id": "ctet",
-      "name": "CBSE/CTET",
+      "name": "CTET",
       "fullName": "Central Teacher Eligibility Test",
       "url": "https://ctet.nic.in",
       "tier": 2,
       "searchQueries": [
         "CTET 2026 notification",
-        "CTET 2026 result"
+        "CTET 2026 result",
+        "CTET admit card 2026"
       ],
-      "exams": [
-        "CTET"
-      ],
-      "lastScanned": "2026-02-28"
+      "exams": ["CTET Paper 1", "CTET Paper 2"],
+      "lastScanned": "2026-01-01"
     },
     {
-      "id": "rbi",
-      "name": "RBI",
-      "fullName": "Reserve Bank of India",
-      "url": "https://opportunities.rbi.org.in",
+      "id": "mpsc",
+      "name": "MPSC",
+      "fullName": "Maharashtra Public Service Commission",
+      "url": "https://mpsc.gov.in",
       "tier": 2,
       "searchQueries": [
-        "RBI Grade B 2026",
-        "RBI Assistant 2026"
+        "MPSC Rajyaseva 2026",
+        "MPSC recruitment 2026",
+        "MPSC result 2026",
+        "MPSC notification 2026"
       ],
-      "exams": [
-        "Grade B",
-        "Assistant"
+      "exams": ["Rajyaseva", "Group B", "Group C", "STI", "PSI"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "rpsc",
+      "name": "RPSC",
+      "fullName": "Rajasthan Public Service Commission",
+      "url": "https://rpsc.rajasthan.gov.in",
+      "tier": 2,
+      "searchQueries": [
+        "RPSC RAS 2026",
+        "RPSC 2026 notification",
+        "RPSC result 2026",
+        "RPSC 1st Grade Teacher 2026"
       ],
-      "lastScanned": "2026-02-28"
+      "exams": ["RAS", "1st Grade Teacher", "2nd Grade Teacher", "ACF/FRO"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "tnpsc",
+      "name": "TNPSC",
+      "fullName": "Tamil Nadu Public Service Commission",
+      "url": "https://www.tnpsc.gov.in",
+      "tier": 2,
+      "searchQueries": [
+        "TNPSC Group 1 2026",
+        "TNPSC Group 2 2026",
+        "TNPSC Group 4 2026",
+        "TNPSC result 2026"
+      ],
+      "exams": ["Group 1", "Group 2", "Group 4", "CCSE"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "kpsc",
+      "name": "KPSC",
+      "fullName": "Karnataka Public Service Commission",
+      "url": "https://kpsc.kar.nic.in",
+      "tier": 2,
+      "searchQueries": [
+        "KPSC KAS 2026",
+        "KPSC FDA SDA 2026",
+        "KPSC recruitment 2026",
+        "KPSC result 2026"
+      ],
+      "exams": ["KAS", "FDA", "SDA", "PDO"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "wbpsc",
+      "name": "WBPSC",
+      "fullName": "West Bengal Public Service Commission",
+      "url": "https://www.psc.wb.gov.in",
+      "tier": 2,
+      "searchQueries": [
+        "WBPSC WBCS 2026",
+        "WBPSC Clerkship 2026",
+        "WBPSC recruitment 2026",
+        "WBPSC result 2026"
+      ],
+      "exams": ["WBCS", "Clerkship", "Food SI", "JE"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "opsc",
+      "name": "OPSC",
+      "fullName": "Odisha Public Service Commission",
+      "url": "https://opsc.gov.in",
+      "tier": 2,
+      "searchQueries": [
+        "OPSC OAS 2026",
+        "OPSC recruitment 2026",
+        "OPSC result 2026"
+      ],
+      "exams": ["OAS", "OFS", "Medical Officer"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "upprpb",
+      "name": "UPPRPB",
+      "fullName": "Uttar Pradesh Police Recruitment and Promotion Board",
+      "url": "https://uppbpb.gov.in",
+      "tier": 2,
+      "searchQueries": [
+        "UP Police Constable 2026",
+        "UP Police SI 2026",
+        "UPPRPB recruitment 2026",
+        "UP Police result 2026"
+      ],
+      "exams": ["Constable", "Sub-Inspector", "Head Operator"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "rsmssb",
+      "name": "RSMSSB",
+      "fullName": "Rajasthan Subordinate and Ministerial Services Selection Board",
+      "url": "https://rsmssb.rajasthan.gov.in",
+      "tier": 2,
+      "searchQueries": [
+        "RSMSSB Constable 2026",
+        "RSMSSB Patwari 2026",
+        "RSMSSB recruitment 2026",
+        "Rajasthan Police Constable 2026"
+      ],
+      "exams": ["Constable", "Patwari", "LDC", "Lab Assistant"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "dsssb",
+      "name": "DSSSB",
+      "fullName": "Delhi Subordinate Services Selection Board",
+      "url": "https://dsssb.delhi.gov.in",
+      "tier": 2,
+      "searchQueries": [
+        "DSSSB recruitment 2026",
+        "DSSSB result 2026",
+        "DSSSB TGT PGT 2026",
+        "DSSSB notification 2026"
+      ],
+      "exams": ["TGT", "PGT", "PRT", "Clerk", "Store Keeper"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "nabard",
+      "name": "NABARD",
+      "fullName": "National Bank for Agriculture and Rural Development",
+      "url": "https://www.nabard.org/career-notices.aspx",
+      "tier": 2,
+      "searchQueries": [
+        "NABARD Grade A 2026",
+        "NABARD Grade B 2026",
+        "NABARD recruitment 2026"
+      ],
+      "exams": ["Grade A", "Grade B", "Office Attendant"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "epfo",
+      "name": "EPFO",
+      "fullName": "Employees Provident Fund Organisation",
+      "url": "https://www.epfindia.gov.in",
+      "tier": 2,
+      "searchQueries": [
+        "EPFO SSA 2026",
+        "EPFO recruitment 2026",
+        "EPFO Social Security Assistant 2026"
+      ],
+      "exams": ["SSA", "Assistant", "Enforcement Officer"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "esic",
+      "name": "ESIC",
+      "fullName": "Employees State Insurance Corporation",
+      "url": "https://esic.gov.in/recruitment",
+      "tier": 2,
+      "searchQueries": [
+        "ESIC recruitment 2026",
+        "ESIC UDC 2026",
+        "ESIC IMO 2026"
+      ],
+      "exams": ["UDC", "MTS", "IMO", "Stenographer"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "mht-cet",
+      "name": "MHT-CET",
+      "fullName": "Maharashtra Common Entrance Test",
+      "url": "https://cetcell.mahacet.org",
+      "tier": 2,
+      "searchQueries": [
+        "MHT CET 2026 result",
+        "MHT CET 2026 admit card",
+        "Maharashtra CET 2026",
+        "mahacet result 2026"
+      ],
+      "exams": ["PCM", "PCB"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "wbjee",
+      "name": "WBJEE",
+      "fullName": "West Bengal Joint Entrance Examination",
+      "url": "https://wbjeeb.nic.in",
+      "tier": 2,
+      "searchQueries": [
+        "WBJEE 2026 result",
+        "WBJEE 2026 admit card",
+        "WBJEE rank card 2026"
+      ],
+      "exams": ["WBJEE"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "keam",
+      "name": "KEAM",
+      "fullName": "Kerala Engineering Architecture Medical",
+      "url": "https://cee.kerala.gov.in",
+      "tier": 2,
+      "searchQueries": [
+        "KEAM 2026 result",
+        "KEAM 2026 admit card",
+        "CEE Kerala 2026",
+        "KEAM rank list 2026"
+      ],
+      "exams": ["KEAM Engineering", "KEAM Architecture"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "ap-eamcet",
+      "name": "AP EAMCET",
+      "fullName": "Andhra Pradesh Engineering Agriculture Medical Common Entrance Test",
+      "url": "https://cets.apsche.ap.gov.in",
+      "tier": 2,
+      "searchQueries": [
+        "AP EAMCET 2026 result",
+        "APEAPCET 2026 result",
+        "AP EAMCET rank card 2026",
+        "AP EAMCET admit card 2026"
+      ],
+      "exams": ["Engineering", "Agriculture"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "ts-eamcet",
+      "name": "TS EAMCET",
+      "fullName": "Telangana State Engineering Agriculture Medical Common Entrance Test",
+      "url": "https://tseamcet.nic.in",
+      "tier": 2,
+      "searchQueries": [
+        "TS EAMCET 2026 result",
+        "TSEAPCET 2026 result",
+        "TS EAMCET rank card 2026"
+      ],
+      "exams": ["Engineering", "Agriculture"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "kcet",
+      "name": "KCET",
+      "fullName": "Karnataka Common Entrance Test",
+      "url": "https://cetonline.karnataka.gov.in",
+      "tier": 2,
+      "searchQueries": [
+        "KCET 2026 result",
+        "KCET 2026 answer key",
+        "KEA KCET 2026",
+        "Karnataka CET 2026 rank"
+      ],
+      "exams": ["KCET"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "gujcet",
+      "name": "GUJCET",
+      "fullName": "Gujarat Common Entrance Test",
+      "url": "https://gujcet.gseb.org",
+      "tier": 2,
+      "searchQueries": [
+        "GUJCET 2026 result",
+        "GUJCET 2026 answer key",
+        "Gujarat CET 2026"
+      ],
+      "exams": ["GUJCET"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "hpsc",
+      "name": "HPSC",
+      "fullName": "Haryana Public Service Commission",
+      "url": "https://hpsc.gov.in",
+      "tier": 2,
+      "searchQueries": [
+        "HPSC HCS 2026",
+        "HPSC recruitment 2026",
+        "Haryana PSC 2026"
+      ],
+      "exams": ["HCS", "Naib Tehsildar", "Canal Patwari"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "hssc",
+      "name": "HSSC",
+      "fullName": "Haryana Staff Selection Commission",
+      "url": "https://hssc.gov.in",
+      "tier": 2,
+      "searchQueries": [
+        "HSSC recruitment 2026",
+        "HSSC Clerk 2026",
+        "HSSC Constable 2026",
+        "Haryana CET 2026"
+      ],
+      "exams": ["Clerk", "Constable", "CET Group C", "CET Group D"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "jpsc",
+      "name": "JPSC",
+      "fullName": "Jharkhand Public Service Commission",
+      "url": "https://jpsc.gov.in",
+      "tier": 2,
+      "searchQueries": [
+        "JPSC JPCS 2026",
+        "JPSC recruitment 2026",
+        "Jharkhand PSC 2026"
+      ],
+      "exams": ["JPCS", "JDLRS"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "cgpsc",
+      "name": "CGPSC",
+      "fullName": "Chhattisgarh Public Service Commission",
+      "url": "https://psc.cg.gov.in",
+      "tier": 2,
+      "searchQueries": [
+        "CGPSC SCCS 2026",
+        "CGPSC recruitment 2026",
+        "CG PSC 2026"
+      ],
+      "exams": ["SCCS", "Forest Ranger", "Assistant Professor"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "apsc",
+      "name": "APSC",
+      "fullName": "Assam Public Service Commission",
+      "url": "https://apsc.nic.in",
+      "tier": 2,
+      "searchQueries": [
+        "APSC ACS 2026",
+        "APSC recruitment 2026",
+        "Assam PSC 2026"
+      ],
+      "exams": ["ACS", "APS", "Combined Competitive"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "ukpsc",
+      "name": "UKPSC",
+      "fullName": "Uttarakhand Public Service Commission",
+      "url": "https://ukpsc.gov.in",
+      "tier": 3,
+      "searchQueries": [
+        "UKPSC PCS 2026",
+        "Uttarakhand PSC 2026"
+      ],
+      "exams": ["PCS", "ACF"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "ap-tet",
+      "name": "AP TET",
+      "fullName": "Andhra Pradesh Teacher Eligibility Test",
+      "url": "https://aptet.apcfss.in",
+      "tier": 3,
+      "searchQueries": [
+        "AP TET 2026 notification",
+        "AP TET 2026 result"
+      ],
+      "exams": ["AP TET Paper 1", "AP TET Paper 2"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "ts-tet",
+      "name": "TS TET",
+      "fullName": "Telangana State Teacher Eligibility Test",
+      "url": "https://tstet.cgg.gov.in",
+      "tier": 3,
+      "searchQueries": [
+        "TS TET 2026 notification",
+        "TSTET 2026 result"
+      ],
+      "exams": ["TS TET Paper 1", "TS TET Paper 2"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "up-tet",
+      "name": "UPTET",
+      "fullName": "Uttar Pradesh Teacher Eligibility Test",
+      "url": "https://updeled.gov.in",
+      "tier": 3,
+      "searchQueries": [
+        "UPTET 2026 notification",
+        "UPTET 2026 result",
+        "UP TET 2026"
+      ],
+      "exams": ["UPTET Paper 1", "UPTET Paper 2"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "mp-tet",
+      "name": "MPTET",
+      "fullName": "Madhya Pradesh Teacher Eligibility Test",
+      "url": "https://peb.mp.gov.in",
+      "tier": 3,
+      "searchQueries": [
+        "MPTET 2026 notification",
+        "MP TET 2026 result",
+        "MPTET Varg 1 2 3 2026"
+      ],
+      "exams": ["Varg 1 (PGT)", "Varg 2 (TGT)", "Varg 3 (Primary)"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "reet",
+      "name": "REET",
+      "fullName": "Rajasthan Eligibility Examination for Teachers",
+      "url": "https://rajeduboard.rajasthan.gov.in",
+      "tier": 3,
+      "searchQueries": [
+        "REET 2026 notification",
+        "REET 2026 result"
+      ],
+      "exams": ["REET Level 1", "REET Level 2"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "uktet",
+      "name": "UKTET",
+      "fullName": "Uttarakhand Teacher Eligibility Test",
+      "url": "https://ubse.uk.gov.in",
+      "tier": 3,
+      "searchQueries": [
+        "UKTET 2026 notification",
+        "Uttarakhand TET 2026"
+      ],
+      "exams": ["UKTET Paper 1", "UKTET Paper 2"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "tet-punjab",
+      "name": "Punjab TET",
+      "fullName": "Punjab State Teacher Eligibility Test",
+      "url": "https://pstet.pseb.ac.in",
+      "tier": 3,
+      "searchQueries": [
+        "Punjab TET 2026 notification",
+        "PSTET 2026 result"
+      ],
+      "exams": ["PSTET"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "jac-board",
+      "name": "JAC Board",
+      "fullName": "Jharkhand Academic Council",
+      "url": "https://jac.jharkhand.gov.in",
+      "tier": 3,
+      "searchQueries": [
+        "JAC Board result 2026",
+        "Jharkhand 10th result 2026",
+        "Jharkhand 12th result 2026"
+      ],
+      "exams": ["Class 10", "Class 12"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "hbse",
+      "name": "HBSE",
+      "fullName": "Haryana Board of School Education",
+      "url": "https://bseh.org.in",
+      "tier": 3,
+      "searchQueries": [
+        "HBSE 10th result 2026",
+        "HBSE 12th result 2026",
+        "Haryana Board result 2026"
+      ],
+      "exams": ["Class 10", "Class 12"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "pseb",
+      "name": "PSEB",
+      "fullName": "Punjab School Education Board",
+      "url": "https://pseb.ac.in",
+      "tier": 3,
+      "searchQueries": [
+        "PSEB 10th result 2026",
+        "PSEB 12th result 2026",
+        "Punjab Board result 2026"
+      ],
+      "exams": ["Class 10", "Class 12"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "rbse",
+      "name": "RBSE",
+      "fullName": "Rajasthan Board of Secondary Education",
+      "url": "https://rajeduboard.rajasthan.gov.in",
+      "tier": 3,
+      "searchQueries": [
+        "RBSE 10th result 2026",
+        "RBSE 12th result 2026",
+        "Rajasthan Board result 2026"
+      ],
+      "exams": ["Class 10", "Class 12"],
+      "lastScanned": "2026-01-01"
+    },
+    {
+      "id": "cgbse",
+      "name": "CGBSE",
+      "fullName": "Chhattisgarh Board of Secondary Education",
+      "url": "https://cgbse.nic.in",
+      "tier": 3,
+      "searchQueries": [
+        "CGBSE 10th result 2026",
+        "CGBSE 12th result 2026",
+        "CG Board result 2026"
+      ],
+      "exams": ["Class 10", "Class 12"],
+      "lastScanned": "2026-01-01"
     }
   ]
 }

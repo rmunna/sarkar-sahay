@@ -1,6 +1,6 @@
 ---
-title: "Bihar TET (BTET/STET) Exam Guide — How to Apply & Benefits"
-description: "Complete Bihar TET exam guide with eligibility, exam pattern for Paper 1 and Paper 2, syllabus, fees, and preparation tips."
+title: "Bihar TET 2026 (BTET/STET) — Notification, Teacher Salary ₹25,000+, Paper 1 & 2 Syllabus"
+description: "BTET/STET 2026 by BSEB Bihar: Qualify TET → Primary Teacher (Paper 1) salary ₹25,000+ or Secondary Teacher (Paper 2) salary ₹28,000+. Apply at bsebstet.com. B.Ed eligible."
 category: "Jobs & Exams"
 keywords: ["Bihar TET","BTET exam","Bihar STET","Bihar Teacher Eligibility","BTET syllabus","Bihar TET eligibility"]
 readingTime: "8 min"

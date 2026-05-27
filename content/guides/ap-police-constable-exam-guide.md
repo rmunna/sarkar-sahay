@@ -1,8 +1,15 @@
 ---
-title: "AP Police Constable Exam Guide — How to Apply & Benefits"
-description: "Complete Andhra Pradesh Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and tips."
+title: "AP Police Constable 2026 — APSLPRB Notification, Salary ₹21,700, Eligibility & Syllabus"
+description: "AP Police Constable 2026 by APSLPRB: Salary ₹21,700–₹69,100. Apply at appolice.gov.in. 10th pass eligible. Written exam (100 marks) + Physical Efficiency Test + Medical. AP nativity required."
 category: "Jobs & Exams"
-keywords: ["AP Police Constable","Andhra Pradesh Police","AP Police eligibility","APSLPRB Constable","AP Police exam"]
+keywords:
+  - ap police constable 2026
+  - apslprb constable 2026
+  - ap police constable notification 2026
+  - ap police constable salary
+  - ap police constable eligibility 2026
+  - ap police constable syllabus 2026
+lastUpdated: "2026-05-26"
 readingTime: "8 min"
 officialLinks:
   - "https://slprb.ap.gov.in"

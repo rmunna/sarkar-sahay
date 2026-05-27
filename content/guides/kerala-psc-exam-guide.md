@@ -1,6 +1,6 @@
 ---
-title: "Kerala PSC Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete Kerala PSC exam guide with eligibility, exam pattern, syllabus, application process, fees, preparation tips, and FAQs for Kerala jobs."
+title: "Kerala PSC 2026 — Notification, Salary ₹27,700–₹56,100+, LDC & Grade 2 Eligibility"
+description: "Kerala PSC 2026: Thousands of vacancies — LDC ₹27,700, Lower Division Assistant ₹35,400, HSA ₹50,000+. Apply at keralapsc.gov.in. Kerala nativity required. Thulasi app for notifications."
 category: "Jobs & Exams"
 keywords: ["Kerala PSC exam", "Kerala PSC thulasi", "Kerala government jobs", "Kerala PSC preparation", "KPSC exam guide", "Kerala PSC syllabus"]
 readingTime: "9 min"

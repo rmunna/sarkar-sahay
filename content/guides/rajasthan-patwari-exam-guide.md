@@ -1,6 +1,6 @@
 ---
-title: "Rajasthan Patwari Exam Guide — How to Apply & Benefits"
-description: "Complete Rajasthan Patwari exam guide with eligibility, exam pattern, syllabus, application process, and preparation tips."
+title: "Rajasthan Patwari 2026 — RSMSSB Notification, Salary ₹19,500, Eligibility & Syllabus"
+description: "Rajasthan Patwari 2026 by RSMSSB: Salary ₹19,500–₹62,000. Apply at rsmssb.rajasthan.gov.in or SSO portal. 12th pass eligible. Written exam (300 marks) + Computer proficiency. Jan Aadhaar required."
 category: "Jobs & Exams"
 keywords: ["Rajasthan Patwari exam","Raj Patwari eligibility","RSMSSB Patwari","Rajasthan Patwari syllabus","Raj Revenue Patwari"]
 readingTime: "10 min"

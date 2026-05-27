@@ -1,6 +1,6 @@
 ---
-title: "CG TET (Chhattisgarh TET) Exam Guide — How to Apply & Benefits"
-description: "Complete CG TET exam guide covering eligibility, exam pattern for Paper 1 and Paper 2, syllabus, fees, and preparation tips."
+title: "CG TET 2026 (CGTET) — Notification, Teacher Salary ₹19,500+, Paper 1 & 2 Syllabus"
+description: "CGTET 2026 by CGBSE: Qualify → CG Govt Primary Teacher salary ₹19,500+ (Scale 6). Paper 1 (Class 1–5) + Paper 2 (Class 6–8). Apply at cgbse.nic.in. B.Ed / D.El.Ed eligible."
 category: "Jobs & Exams"
 keywords: ["CG TET exam","Chhattisgarh TET","CGTET eligibility","CGTET syllabus","CG Teacher Eligibility Test"]
 readingTime: "8 min"

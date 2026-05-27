@@ -1,8 +1,16 @@
 ---
-title: "WBPSC Exam Guide — West Bengal PSC Eligibility, Syllabus & Tips"
-description: "Complete WBPSC exam guide for West Bengal Civil Service (WBCS) covering eligibility, exam pattern, syllabus, and preparation strategy."
+title: "WBPSC / WBCS 2026 — Notification, Salary ₹56,100+, Eligibility & Group A/B Posts"
+description: "WBPSC 2026 / WBCS Executive: Salary ₹56,100–₹1,31,400 (Group A). Apply at wbpsc.gov.in. WB domicile required. Posts: WBCS (Exec), DSWO, Labour Inspector. Prelim, Mains, Personality Test pattern."
 category: "Jobs & Exams"
-keywords: ["WBPSC exam", "WBCS exam", "West Bengal PSC", "WBCS syllabus", "West Bengal civil services", "WBPSC preparation"]
+keywords:
+  - wbpsc 2026
+  - wbcs exam 2026
+  - west bengal psc 2026
+  - wbpsc notification 2026
+  - wbcs syllabus 2026
+  - wbpsc salary
+  - west bengal civil services 2026
+lastUpdated: "2026-05-26"
 readingTime: "9 min"
 officialLinks:
   - "https://wbpsc.gov.in"

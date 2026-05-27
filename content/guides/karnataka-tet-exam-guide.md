@@ -1,6 +1,6 @@
 ---
-title: "Karnataka TET Exam Guide — How to Apply, Eligibility & Benefits"
-description: "Complete Karnataka TET exam guide with eligibility, exam pattern for Paper 1 and Paper 2, syllabus, and preparation tips."
+title: "Karnataka TET 2026 — KARTET Notification, Teacher Salary ₹27,650+, Paper 1 & 2 Syllabus"
+description: "KARTET 2026 by KSEAB: Qualify → Karnataka Govt Primary Teacher salary ₹27,650+ (state scale). Paper 1 (Class 1–5) + Paper 2 (Class 6–8). Apply at kseab.karnataka.gov.in. Kannada knowledge needed."
 category: "Jobs & Exams"
 keywords: ["Karnataka TET","KARTET exam","Karnataka Teacher Eligibility","KARTET syllabus","Karnataka TET eligibility"]
 readingTime: "8 min"

@@ -1,13 +1,21 @@
 ---
-title: "PM Jan Dhan Yojana — How to Apply, Eligibility & Benefits"
-description: "Complete guide to Pradhan Mantri Jan Dhan Yojana. Open a zero-balance bank account with free insurance, RuPay card, and overdraft."
+title: "PM Jan Dhan Yojana 2026 — Zero Balance Account, ₹2 Lakh Insurance, RuPay Card & ₹10,000 Overdraft"
+description: "PM Jan Dhan Yojana 2026: Open zero-balance bank account with ₹2 lakh accident insurance, free RuPay debit card, and ₹10,000 overdraft facility. 53 crore accounts opened. Apply at any bank or Post Office."
 category: "Government Schemes"
-keywords: ["pm jan dhan yojana", "jan dhan account open", "zero balance bank account", "jan dhan yojana benefits", "pmjdy apply"]
-lastUpdated: "2026-02-18"
+keywords:
+  - PM Jan Dhan Yojana 2026
+  - jan dhan account open
+  - zero balance bank account
+  - jan dhan yojana benefits
+  - PMJDY apply
+  - jan dhan rupay card
+  - jan dhan overdraft 10000
+  - pmjdy.gov.in
+lastUpdated: "2026-05-26"
 readingTime: "7 min"
 officialLinks:
-  - https://pmjdy.gov.in
-  - https://financialservices.gov.in
+  - "https://pmjdy.gov.in"
+  - "https://financialservices.gov.in"
 ---
 
 ## What is PM Jan Dhan Yojana (PMJDY)?

@@ -1,12 +1,20 @@
 ---
-title: "Sukanya Samriddhi Yojana — How to Open Account (Guide"
-description: "Complete guide to Sukanya Samriddhi Yojana. Interest rate, eligibility, how to open account, tax benefits, and withdrawal rules."
+title: "Sukanya Samriddhi Yojana 2026 — 8.2% Interest, Open SSY Account for Girl Child at Post Office/Bank"
+description: "Sukanya Samriddhi Yojana 2026: 8.2% interest rate (Q1 FY2026-27). Open SSY account for girl child under 10 years at Post Office or bank. Minimum ₹250/year, tax-free maturity, Section 80C benefit up to ₹1.5 lakh."
 category: "Government Schemes"
-keywords: ["Sukanya Samriddhi Yojana", "SSY account", "girl child savings scheme", "SSY interest rate 2026", "Sukanya Samriddhi account opening"]
+keywords:
+  - Sukanya Samriddhi Yojana 2026
+  - SSY interest rate 2026
+  - SSY account open
+  - girl child savings scheme
+  - Sukanya Samriddhi account opening
+  - sukanya samriddhi yojana eligibility
+  - SSY post office
+  - sukanya samriddhi calculator
 readingTime: "5 min"
 officialLinks:
-  - https://www.nsiindia.gov.in
-  - https://www.indiapost.gov.in
+  - "https://www.nsiindia.gov.in"
+  - "https://www.indiapost.gov.in"
 ---
 
 ## What is Sukanya Samriddhi Yojana?

@@ -1,13 +1,21 @@
 ---
-title: "How to Apply for PAN Card Online — Step-by-Step Guide"
-description: "Complete guide to apply for a new PAN card online via NSDL and UTIITSL. Documents, fees, step-by-step process, and tracking."
+title: "PAN Card Apply Online 2026 — New PAN ₹91 Fee, Form 49A at NSDL & UTIITSL, Instant e-PAN Free"
+description: "How to apply for new PAN card online in 2026. Physical PAN card fee ₹91 (domestic) via NSDL/UTIITSL. Instant e-PAN free via incometax.gov.in using Aadhaar. Documents: Aadhaar + passport photo. 15-day delivery."
 category: "Identity Documents"
-keywords: ["PAN card apply online", "new PAN card", "PAN card application", "Form 49A", "NSDL PAN", "UTIITSL PAN"]
+keywords:
+  - PAN card apply online 2026
+  - new PAN card apply
+  - PAN card fee 2026
+  - instant e-PAN free
+  - NSDL PAN apply
+  - UTIITSL PAN apply
+  - Form 49A PAN
+  - PAN card Aadhaar based
 readingTime: "6 min"
 officialLinks:
-  - https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html
-  - https://www.pan.utiitsl.com
-  - https://incometaxindia.gov.in
+  - "https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html"
+  - "https://www.pan.utiitsl.com"
+  - "https://incometaxindia.gov.in"
 ---
 
 ## What is a PAN Card?

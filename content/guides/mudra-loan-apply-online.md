@@ -1,20 +1,17 @@
 ---
-title: "Mudra Loan Apply Online: How to Apply for PMMY Mudra Yojana Loan"
-description: >-
-  Step-by-step guide to apply for Mudra loan online under PMMY. Learn eligibility, application process, required documents, and tips to get approved fast.
-category: Tax & Finance
-lastUpdated: "2026-03-05"
+title: "Mudra Loan Apply Online 2026 — Shishu ₹50K, Kishore ₹5L, Tarun ₹10L — PMMY at mudra.org.in"
+description: "Mudra Loan 2026: Apply for PMMY Mudra Yojana — Shishu (up to ₹50,000), Kishore (₹50K–₹5 lakh), Tarun (₹5L–₹10 lakh). No collateral. Apply at any bank, NBFC, or MFI. No processing fee for Shishu."
+category: "Tax & Finance"
+lastUpdated: "2026-05-26"
 keywords:
-  - mudra loan apply online
-  - pmmy mudra yojana
-  - mudra loan application
-  - how to apply mudra loan
-  - pradhan mantri mudra yojana
-  - mudra loan online apply
-  - mudra loan bank application
+  - mudra loan apply online 2026
+  - mudra loan shishu kishore tarun
+  - PMMY mudra yojana
   - mudra loan eligibility
-  - mudra loan for small business
-  - mudra loan process
+  - mudra loan without collateral
+  - pradhan mantri mudra yojana
+  - mudra loan interest rate
+  - mudra.org.in apply
 readingTime: 10 min
 officialLinks:
   - 'https://www.mudra.org.in/'

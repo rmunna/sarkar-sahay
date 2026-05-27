@@ -1,6 +1,6 @@
 ---
-title: "NPS Account Open Online: Step-by-Step Registration Guide"
-description: "Complete guide to open NPS account online via eNPS portal using Aadhaar or PAN. Covers Tier 1 vs Tier 2, fund manager selection, and first contribution."
+title: "NPS Account Open Online 2026 — eNPS Registration, Tier 1 vs Tier 2, Fund Manager & First Contribution"
+description: "Open NPS (National Pension System) account online in 2026 via eNPS portal at enps.nsdl.com using Aadhaar or PAN. Choose Tier 1 (pension) or Tier 2 (investment), select fund manager, and make first contribution of ₹500."
 category: Tax & Finance
 keywords:
   - nps account open online

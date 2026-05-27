@@ -1,8 +1,15 @@
 ---
-title: "Haryana Police Constable Exam Guide — How to Apply & Benefits"
-description: "Complete Haryana Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and preparation tips."
+title: "Haryana Police Constable 2026 — HSSC Notification, Salary ₹21,700, Eligibility & Syllabus"
+description: "Haryana Police Constable 2026 by HSSC: Salary ₹21,700–₹69,100. Apply at saralharyana.gov.in. 12th pass + PPP required. Written exam (90 marks) + Physical + Medical. Haryana domicile mandatory."
 category: "Jobs & Exams"
-keywords: ["Haryana Police Constable","HSSC Police exam","Haryana Police eligibility","Haryana Constable syllabus","HSSC recruitment"]
+keywords:
+  - haryana police constable 2026
+  - hssc police constable 2026
+  - haryana police constable notification 2026
+  - haryana police constable salary
+  - hssc police eligibility 2026
+  - haryana police constable syllabus
+lastUpdated: "2026-05-26"
 readingTime: "8 min"
 officialLinks:
   - "https://hssc.gov.in"

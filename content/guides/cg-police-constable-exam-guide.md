@@ -1,8 +1,15 @@
 ---
-title: "Chhattisgarh Police Constable Exam Guide — How to Apply Online"
-description: "Complete CG Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and preparation strategy."
+title: "CG Police Constable 2026 — CGPEB Notification, Salary ₹19,500, Eligibility & Syllabus"
+description: "Chhattisgarh Police Constable 2026 by CGPEB: Salary ₹19,500–₹62,000. Apply at cgpolice.gov.in. 10th pass eligible. Written exam (OMR) + PET/PST + Medical. CG domicile (Mool Niwas required)."
 category: "Jobs & Exams"
-keywords: ["CG Police Constable","Chhattisgarh Police exam","CG Police eligibility","CG Constable recruitment","CG Police syllabus"]
+keywords:
+  - cg police constable 2026
+  - cgpeb constable 2026
+  - chhattisgarh police constable notification 2026
+  - cg police constable salary
+  - cgpeb recruitment 2026
+  - cg police constable syllabus
+lastUpdated: "2026-05-26"
 readingTime: "8 min"
 officialLinks:
   - "https://cgpolice.gov.in"

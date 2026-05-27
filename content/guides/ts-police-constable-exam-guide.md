@@ -1,8 +1,15 @@
 ---
-title: "Telangana Police Constable Exam Guide — How to Apply & Benefits"
-description: "Complete Telangana Police Constable exam guide with eligibility, exam pattern, syllabus, physical test, and preparation."
+title: "TS Police Constable 2026 — TSLPRB Notification, Salary ₹21,230, Eligibility & Syllabus"
+description: "Telangana Police Constable 2026 by TSLPRB: Salary ₹21,230–₹63,010. Apply at tslprb.in. 10th pass eligible. Written exam (100 marks, OMR) + PET/PMT + Medical. TS nativity (10yr/7yr school)."
 category: "Jobs & Exams"
-keywords: ["TS Police Constable","Telangana Police exam","TSLPRB Constable","TS Police eligibility","Telangana Constable syllabus"]
+keywords:
+  - ts police constable 2026
+  - tslprb constable 2026
+  - telangana police constable notification 2026
+  - ts police constable salary
+  - tslprb recruitment 2026
+  - telangana police constable syllabus
+lastUpdated: "2026-05-26"
 readingTime: "8 min"
 officialLinks:
   - "https://www.tslprb.in"
