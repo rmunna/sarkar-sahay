@@ -1,8 +1,8 @@
 {
-  "scanTime": "2026-05-27T05:29:36.189Z",
-  "elapsedSeconds": 53.2,
+  "scanTime": "2026-05-27T07:02:45.639Z",
+  "elapsedSeconds": 61.8,
   "changesDetected": 0,
-  "errors": 25,
+  "errors": 29,
   "changes": [],
   "errorDetails": [
     {
@@ -17,6 +17,11 @@
     {
       "site": "NABARD",
       "url": "https://www.nabard.org/career-notices.aspx",
+      "error": "Timeout"
+    },
+    {
+      "site": "RRB (Railway)",
+      "url": "https://www.rrbcdg.gov.in/",
       "error": "Timeout"
     },
     {
@@ -35,11 +40,6 @@
       "error": "Timeout"
     },
     {
-      "site": "BSF",
-      "url": "https://rectt.bsf.gov.in/",
-      "error": "HTTP 403"
-    },
-    {
       "site": "ITBP",
       "url": "https://recruitment.itbpolice.nic.in/",
       "error": "Timeout"
@@ -55,14 +55,34 @@
       "error": "Timeout"
     },
     {
+      "site": "UGC NET",
+      "url": "https://ugcnet.nta.ac.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "CUET",
+      "url": "https://cuet.nta.nic.in/",
+      "error": "Timeout"
+    },
+    {
       "site": "BPSC",
       "url": "https://www.bpsc.bih.nic.in/",
       "error": "Timeout"
     },
     {
+      "site": "UPPSC",
+      "url": "https://uppsc.up.nic.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "MPPSC",
+      "url": "https://mppsc.mp.gov.in/",
+      "error": "Timeout"
+    },
+    {
       "site": "RPSC",
       "url": "https://rpsc.rajasthan.gov.in/",
-      "error": ""
+      "error": "Timeout"
     },
     {
       "site": "TNPSC",
