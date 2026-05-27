@@ -1,5 +1,5 @@
-import { getDistrictsByState, getAllStateParams, getStateName, getPincodesByDistrict, getPincodePath } from "@/lib/pincode";
-import { notFound } from "next/navigation";
+import { getDistrictsByState, getAllStateParams, getStateName, getPincodesByDistrict, getPincodePath, getPincodeCanonicalUrl } from "@/lib/pincode";
+import { notFound, permanentRedirect } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 
@@ -32,6 +32,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function StatePincodePage({ params }: Props) {
   const { state } = await params;
+
+  // Legacy redirect: /pincode/560043 → /pincode/karnataka/bengaluru/banaswadi-560043
+  if (/^\d{6}$/.test(state)) {
+    const canonical = getPincodeCanonicalUrl(state);
+    if (canonical) permanentRedirect(canonical);
+    notFound();
+  }
+
   const districts = getDistrictsByState(state);
   if (!districts.length) notFound();
 

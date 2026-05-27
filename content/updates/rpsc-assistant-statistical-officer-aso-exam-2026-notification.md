@@ -18,101 +18,149 @@ importantDates:
 officialLinks:
   - "https://rpsc.rajasthan.gov.in"
   - "https://dipr.rajasthan.gov.in"
-readingTime: "5 min"
+readingTime: "8 min"
 publishedDate: "2026-05-27"
 expiryDate: "2026-07-05"
 status: "active"
 vacancies: 250
 ---
 
-## What is Assistant Statistical Officer (ASO) Exam 2026?
+## What is RPSC Assistant Statistical Officer (ASO) Exam 2026?
 
-The Assistant Statistical Officer (ASO) Exam 2026 is a recruitment examination conducted by the Rajasthan Public Service Commission (RPSC). RPSC is the premier commission of the Government of Rajasthan, responsible for conducting recruitment examinations and recommending candidates for appointment to various posts in the state government.
+The Rajasthan Public Service Commission (RPSC) has released the official notification for the **Assistant Statistical Officer (ASO) Exam 2026**, announcing **250 vacancies**. The last date to apply online is **4 July 2026**.
 
-This particular examination aims to fill vacancies for the post of Assistant Statistical Officer within various departments of the Government of Rajasthan. An Assistant Statistical Officer typically plays a crucial role in collecting, compiling, analyzing, and interpreting statistical data, which is vital for policy formulation and decision-making by the state government. Candidates selected through this examination will contribute to the statistical framework of Rajasthan, working on various projects related to economic surveys, agricultural statistics, industrial statistics, and other socio-economic indicators.
+RPSC is the apex recruitment body for the Government of Rajasthan, conducting state-level competitive exams for Group A and Group B gazetted posts. The Assistant Statistical Officer post falls under the Rajasthan Accounts and Statistical Service — a gazetted post requiring a strong background in Statistics or Economics.
+
+ASOs serve in the Directorate of Economics and Statistics, Government of Rajasthan, handling data collection, economic surveys, census coordination, agricultural statistics, price monitoring, and statistical reporting for state policy decisions. It is a permanent government post with job security and good career progression within the state government.
 
 ## Important Dates
 
-Candidates interested in applying for the RPSC Assistant Statistical Officer (ASO) Exam 2026 should note the following important dates:
+| Event | Date |
+|-------|------|
+| Official Notification Released | 27 May 2026 |
+| Online Application Opens | Expected shortly after notification — check [rpsc.rajasthan.gov.in](https://rpsc.rajasthan.gov.in) |
+| **Last Date to Apply Online** | **4 July 2026** |
+| Last Date for Fee Payment | Expected same as or 1–2 days after application closing date |
+| Admit Card | TBA — typically 2–3 weeks before exam |
+| Written Examination | TBA — expected September–November 2026 |
+| Result / Merit List | TBA — after exam evaluation |
 
-*   **Official Notification Date:** 2026-05-27
-*   **Application Start Date:** To be announced (expected to commence shortly after the notification date)
-*   **Last Date to Apply Online:** 2026-07-04
-*   **Last Date for Fee Payment:** To be announced
-*   **Admit Card Release Date:** To be announced
-*   **Examination Date:** To be announced
-*   **Result Declaration Date:** To be announced
-
-Applicants are strongly advised to keep track of the official RPSC website for any updates or changes to these dates.
+> Always verify dates on [rpsc.rajasthan.gov.in](https://rpsc.rajasthan.gov.in) — RPSC sometimes revises dates after notification.
 
 ## Vacancy Details
 
-The RPSC has announced a total of 250 vacancies for the Assistant Statistical Officer (ASO) post through the ASO Exam 2026 notification.
-
-*   **Total Vacancies:** 250
-*   **Category-wise Vacancies:** To be announced (Detailed breakdown of vacancies for various categories such as General, OBC, SC, ST, EWS, PwD, etc., will be provided in the comprehensive official notification.)
-
-Candidates should refer to the detailed official notification on the RPSC website for the complete distribution of vacancies once it is released.
+- **Total Vacancies: 250**
+- Category-wise breakdown will be published in the detailed notification on the RPSC website
+- Reservation norms followed: General / EWS / OBC (Non-Creamy Layer) / SC / ST / PwD / Ex-servicemen as per Rajasthan Government reservation policy
+- Some vacancies may be reserved for Rajasthan state domicile holders — check the official notification for departmental-wise distribution
 
 ## Eligibility Criteria
 
-To be eligible for the RPSC Assistant Statistical Officer (ASO) Exam 2026, candidates must meet specific criteria related to age, educational qualification, and nationality. The precise details will be outlined in the full official notification.
+### Nationality
+Candidates must be Indian citizens. Rajasthan domicile is typically required for reserved category relaxation; non-domicile candidates may apply at the General category fee and age limit.
 
-*   **Nationality:**
-    *   Candidates must be a citizen of India.
-    *   Specific provisions for subjects of Nepal/Bhutan or Tibetan refugees may apply as per government rules, which will be detailed in the official notification.
+### Age Limit
+As per RPSC norms for Group B posts, the typical age range is:
+- **General / EWS**: 21–40 years (as on 1 January 2027 — verify in official notification)
+- **OBC (Non-Creamy Layer) / BC**: 21–45 years (5-year relaxation as per Rajasthan rules)
+- **SC / ST (Rajasthan domicile)**: 21–45 years (5-year relaxation)
+- **PwD (Disabled)**: Additional 10-year relaxation on the base limit
+- **Ex-servicemen and other categories**: As per Rajasthan Government Recruitment Rules
 
-*   **Age Limit:**
-    *   **Minimum Age:** To be announced
-    *   **Maximum Age:** To be announced
-    *   Age relaxation for reserved categories (SC/ST/OBC/EWS/PwD/Women/Ex-servicemen etc.) will be applicable as per Rajasthan Government rules. The specific age limits and relaxation details will be clearly mentioned in the official notification.
+> **Important**: Age is calculated as of a reference date specified in the notification (usually 1 January of the exam year). Verify the exact cutoff date in the official notification.
 
-*   **Educational Qualification:**
-    *   **Required Qualification:** To be announced
-    *   Typically, for statistical officer roles, candidates are required to possess a Master's degree in Statistics, Mathematical Statistics, Applied Statistics, Economics, Applied Economics, Business Economics, Econometrics, Mathematics, or Commerce with Statistics as a subject from a recognized university. A Bachelor's degree with a strong background in Statistics or Mathematics might also be considered, often with specific experience requirements.
-    *   Candidates are advised to carefully check the official notification for the exact and detailed educational qualifications required, including any specific percentage requirements or computer proficiency.
+### Educational Qualification
+For the Assistant Statistical Officer post, candidates are typically required to have:
+
+- **Required degree**: A Bachelor's or Master's degree in **Statistics**, Mathematical Statistics, Applied Statistics, **Economics**, Applied Economics, Business Economics, Econometrics, or **Mathematics with Statistics** as a subject from a recognized university
+- Candidates with a B.Sc./M.Sc. in Statistics or an M.A./M.Sc. in Economics with Statistics are generally eligible
+- Some notifications also accept Commerce graduates with Statistics as a subject — check the official notification for exact qualifications
+
+> Verify the exact qualification requirement in the full official notification at [rpsc.rajasthan.gov.in](https://rpsc.rajasthan.gov.in).
 
 ## Application Fee
 
-The application fee for the RPSC Assistant Statistical Officer (ASO) Exam 2026 will vary based on the candidate's category. The exact fee structure and payment modes will be specified in the official notification.
+RPSC follows a standard fee structure for Group B examinations. The expected fees for RPSC ASO Exam 2026 are:
 
-*   **Application Fee for General/Unreserved Candidates:** To be announced
-*   **Application Fee for OBC/EWS Candidates:** To be announced
-*   **Application Fee for SC/ST Candidates:** To be announced
-*   **Application Fee for PwD Candidates:** To be announced
-*   **Payment Mode:** To be announced (Commonly, fees can be paid online through Net Banking, Credit Card, Debit Card, or through E-Mitra kiosks in Rajasthan.)
+| Category | Fee (Expected) |
+|----------|---------------|
+| General / EWS / OBC Creamy Layer | ₹350 |
+| OBC Non-Creamy Layer (Rajasthan domicile) | ₹250 |
+| SC / ST (Rajasthan domicile) | ₹150 |
+| PwD (Disabled) — Rajasthan domicile | ₹150 |
+| Ex-servicemen (Rajasthan domicile) | As per norms |
 
-Candidates must ensure that they pay the correct application fee as per their category to successfully complete their application.
+**Payment Mode**: Online via e-Mitra kiosk, Net Banking, Debit Card, or Credit Card through the RPSC official portal.
 
-## How to Apply Online
+> Fee amounts are based on RPSC's standard structure — verify the exact amounts in the official notification before payment.
 
-Candidates interested in applying for the RPSC Assistant Statistical Officer (ASO) Exam 2026 must submit their applications online through the official RPSC website. Follow these general steps:
+## Selection Process
 
-1.  **Visit the Official Website:** Go to the official website of the Rajasthan Public Service Commission: [rpsc.rajasthan.gov.in](https://rpsc.rajasthan.gov.in).
-2.  **Locate Recruitment Section:** Navigate to the "Recruitment Advertisements" or "Apply Online" section on the homepage.
-3.  **Find the ASO 2026 Notification:** Look for the link related to the "Assistant Statistical Officer (ASO) Exam 2026 Notification" and click on it to read the detailed advertisement.
-4.  **New Registration/Login:** If you are a new user, you will likely need to register first to create a profile (often through the SSO ID portal of Rajasthan). If already registered, log in using your credentials.
-5.  **Fill Application Form:** Carefully fill in all the required details in the online application form, including personal information, educational qualifications, and other relevant data.
-6.  **Upload Documents:** Upload scanned copies of your photograph, signature, and any other required documents as per the specifications mentioned in the notification.
-7.  **Pay Application Fee:** Proceed to pay the application fee online using the available payment modes.
-8.  **Review and Submit:** Before final submission, thoroughly review all the entered information to ensure accuracy. Once satisfied, submit the application form.
-9.  **Print Confirmation:** After successful submission, take a printout of the filled application form and the fee receipt for your records.
+The RPSC ASO recruitment typically follows this selection process:
 
-It is crucial to refer to the official notification for precise, step-by-step instructions and any specific guidelines for the application process.
+1. **Written Examination (Objective Type)**: Paper covering Statistics / Economics / Mathematics, General Knowledge of Rajasthan, and General English/Hindi — exact syllabus in the notification
+2. **Interview / Personality Test**: Candidates shortlisted from the written exam appear before an RPSC interview board (if applicable for this post — verify in notification)
+3. **Document Verification**: Original documents checked for eligibility proof
+4. **Final Merit List**: Based on written exam marks (and interview marks if applicable), reservation norms applied, final selection list published
+
+The RPSC generally releases a detailed syllabus along with the notification. Candidates are advised to download it from the official website.
+
+## Salary and Pay Scale
+
+The Assistant Statistical Officer post is a Group B gazetted post under the Government of Rajasthan. The expected pay scale is:
+
+- **Pay Matrix Level**: Level 10 or Level 11 of the Rajasthan State Pay Matrix (7th Pay Commission)
+- **Basic Pay**: Approximately ₹33,800–₹35,000 per month (starting)
+- **Gross Salary**: ₹45,000–₹55,000 per month approximately (including DA, HRA, other allowances)
+- **Additional benefits**: Government medical facilities, pension, LTC, and other state government service perks
+
+> Exact pay scale will be specified in the official notification — verify before applying.
+
+## How to Apply Online for RPSC ASO 2026
+
+Applications must be submitted online only. Follow these steps:
+
+1. **Visit** [rpsc.rajasthan.gov.in](https://rpsc.rajasthan.gov.in) — the official RPSC website
+2. **Log in using your SSO ID** — all Rajasthan government applications go through the Rajasthan Single Sign-On portal at [sso.rajasthan.gov.in](https://sso.rajasthan.gov.in). Create a new SSO ID if you don't have one.
+3. **Find the ASO 2026 notification** in the Recruitment / Apply Online section
+4. **Read the full notification** — download the PDF and read it completely before applying
+5. **Fill the online application form** — enter personal details, educational qualifications, category, and domicile details accurately
+6. **Upload documents**: Scanned photo (passport size, recent), signature, and any other documents specified
+7. **Pay the application fee** via the online payment gateway (e-Mitra / Net Banking / Card)
+8. **Submit the form** and note your application number
+9. **Print the confirmation page** — keep it safely for future reference
+
+> Do not wait until the last date — the RPSC portal can get slow near the deadline.
+
+## Documents Required
+
+Keep these ready for the application and document verification stage:
+
+- Recent passport-size photograph and signature (scanned)
+- Class 10 certificate (for date of birth proof)
+- Graduation/Post-graduation marksheets and degree certificate
+- Caste/Category certificate (if applying under OBC/SC/ST/EWS)
+- Rajasthan domicile certificate (mandatory for reserved category fee and relaxation)
+- PwD certificate (if applicable)
+- Ex-servicemen discharge certificate (if applicable)
+- Valid Photo ID (Aadhaar / Voter ID / Driving Licence)
 
 ## FAQs
 
-**Q1: What is the last date to apply for the RPSC ASO Exam 2026?**
-A1: The last date to apply online for the RPSC Assistant Statistical Officer (ASO) Exam 2026 is 2026-07-04.
+**Q1: What is the last date to apply for RPSC ASO 2026?**  
+A1: The last date to apply online is **4 July 2026**. The application portal is at [rpsc.rajasthan.gov.in](https://rpsc.rajasthan.gov.in) via SSO ID.
 
-**Q2: How many vacancies are announced for the RPSC ASO Exam 2026?**
-A2: A total of 250 vacancies have been announced for the Assistant Statistical Officer (ASO) post through this notification.
+**Q2: How many vacancies are there in RPSC ASO 2026?**  
+A2: RPSC has announced **250 vacancies** for the Assistant Statistical Officer post. Category-wise breakdown will be in the official notification.
 
-**Q3: Where can I find the official notification for the RPSC ASO Exam 2026?**
-A3: The official notification for the RPSC ASO Exam 2026 can be found on the official website of the Rajasthan Public Service Commission: rpsc.rajasthan.gov.in.
+**Q3: What is the educational qualification for RPSC ASO?**  
+A3: A degree (Bachelor's or Master's) in Statistics, Economics, Mathematics with Statistics, or similar disciplines from a recognized university. Verify the exact requirement in the official notification.
 
-**Q4: What are the eligibility criteria (age and education) for the ASO post?**
-A4: The detailed eligibility criteria, including specific age limits and educational qualifications, are To be announced in the comprehensive official notification. Candidates are advised to refer to the full notification on the RPSC website for precise details.
+**Q4: What is the application fee for RPSC ASO 2026?**  
+A4: Based on RPSC standard fees — General/EWS: ₹350, OBC-NCL (Rajasthan domicile): ₹250, SC/ST/PwD (Rajasthan domicile): ₹150. Verify in official notification before paying.
 
-**Q5: When will the RPSC ASO Exam 2026 be conducted?**
-A5: The examination date for the RPSC ASO Exam 2026 is To be announced. Candidates should regularly check the official RPSC website for updates regarding the exam schedule.
+**Q5: What is the age limit for RPSC ASO Exam 2026?**  
+A5: Typically 21–40 years for General/EWS candidates, with 5-year relaxation for OBC-NCL and SC/ST (Rajasthan domicile). Verify the exact cutoff date and relaxation rules in the official notification.
+
+**Q6: When will the RPSC ASO 2026 exam be conducted?**  
+A6: The exam date is TBA — RPSC typically conducts the exam 3–5 months after the application deadline. Based on the 4 July 2026 closing date, the exam is expected around September–November 2026. Check [rpsc.rajasthan.gov.in](https://rpsc.rajasthan.gov.in) for updates.

@@ -260,75 +260,154 @@ async function generateContent(source, announcement) {
 
   // Stage-specific content structure instructions
   const stageStructure = {
-    'result': `Structure:
-- ## [ExamName] Result [Year] — Overview (intro with result date, board/body name, total appeared)
-- ## How to Check Result (numbered steps: visit URL → enter roll number → submit → download)
-- ## What Details Are Shown (marks, grade, percentage, pass/fail)
-- ## Important Dates (only show resultDate and any re-checking deadline)
-- ## FAQs (When declared? How to check? What if server is down? Is online result valid for admission?)
-DO NOT include: Vacancy Details, Eligibility, How to Apply — they are irrelevant for results.`,
+    'result': `Sections to include (in order):
+## [ExamName] Result [Year] — Overview
+  Paragraph: which exam, who conducts it, when result was declared, total candidates appeared (if known), overall pass percentage (if known). Mention that students can check their individual result online.
 
-    'admit-card': `Structure:
-- ## [ExamName] Admit Card — Overview (exam date, issuing authority, what's on the card)
-- ## How to Download Admit Card (numbered steps: visit URL → enter registration/roll → download/print)
-- ## Details on Admit Card (name, photo, exam centre, timing, instructions)
-- ## Important Dates (admitCardDate, examDate)
-- ## FAQs (When available? What if I forgot registration? Can I use mobile phone as admit card?)
-DO NOT include: Vacancy Details, Eligibility, How to Apply.`,
+## How to Check Your Result Online
+  Numbered steps (at least 5): visit the official website → go to results section → select the exam → enter roll number / registration number / date of birth → click Submit → view and download result.
 
-    'notification': `Structure:
-- ## What is [ExamName]? (what it is, who conducts it, what posts are filled)
-- ## Important Dates (all relevant dates from the notification)
-- ## Vacancy Details (total and category-wise if available; state TBA if not)
-- ## Eligibility Criteria (age, education, nationality)
-- ## Application Fee (category-wise, payment mode)
-- ## How to Apply Online (numbered steps)
-- ## FAQs (last date? eligible? documents? fee exemption?)`,
+## Details Shown in the Result / Marksheet
+  Bullet list: candidate's name, roll number, subject-wise marks, total marks obtained, maximum marks, percentage, grade/division, pass/fail status, qualifying marks. Mention that the official marksheet is needed for admission/employment.
 
-    'answer-key': `Structure:
-- ## [ExamName] Answer Key — Overview (when released, set-wise, how to use it)
-- ## How to Download Answer Key (numbered steps)
-- ## How to Raise an Objection (if applicable — steps, fee, deadline)
-- ## Important Dates (answer key release date, objection deadline if any)
-- ## FAQs (How to challenge? What is objection fee? When will final key come?)`,
+## What Happens Next — After the Result
+  Paragraph: what students who passed should do (apply for counselling/admission, download digital marksheet from DigiLocker if applicable, await merit list). What students who did not pass should do (compartment/supplementary exam if applicable, re-checking if applicable).
 
-    'default': `Structure:
-- ## Overview (what this update is about)
-- ## Important Dates
-- ## Key Details
-- ## What to Do Next (action steps for candidates)
-- ## FAQs`,
+## Re-evaluation / Re-checking / Compartment Exam
+  If board exam: explain the re-checking/photocopy process — candidates can apply online within the deadline, fee payable per subject. Compartment exam date expected in [month] — verify on official site.
+  If competitive exam: explain whether re-evaluation is available (usually not for MCQ-based exams — state this clearly).
+
+## Important Dates
+  Table or bullet list: result date, re-checking application deadline (if any), compartment/supplementary exam date (if applicable), other next steps. Mark any unknown dates as "TBA — check official website".
+
+## FAQs
+  7 FAQs covering: When was result declared? How to check online? Official website is slow/down — what to do? Is the online result valid for admission? How to get physical marksheet? What are the qualifying marks / passing criteria? How to apply for re-checking?`,
+
+    'admit-card': `Sections to include (in order):
+## [ExamName] Admit Card — Overview
+  Paragraph: admit card release date, issuing authority (${source.name}), exam date (if known), and why the admit card is mandatory (entry to exam hall, identity proof).
+
+## How to Download the Admit Card
+  Numbered steps (at least 5): visit official website → find admit card / hall ticket link → enter registration number / roll number / date of birth → submit → download PDF → take 2–3 printouts.
+
+## Details Printed on the Admit Card
+  Bullet list: candidate's name, photograph, signature, roll number, exam centre address, reporting time, exam date and shift, exam day instructions, list of documents to bring.
+
+## Exam Day Instructions
+  Bullet list: what to bring (photo ID, admit card), what not to bring (mobile, calculator — unless allowed), reporting time (typically 30–60 min before exam), gate closing time.
+
+## Important Dates
+  admitCardDate, examDate, and any other relevant dates. Mark unknown as "TBA".
+
+## FAQs
+  5 FAQs: When was admit card released? How to download? What if I forgot my registration number? Can I use a mobile printout? What if my photo/details are wrong on the admit card?`,
+
+    'notification': `Sections to include (in order):
+## What is [ExamName]?
+  2–3 paragraphs: explain the exam, who conducts it (${source.name} — ${source.fullName}), what posts are being filled, which departments/states these posts are in, and why this is significant for candidates.
+
+## Important Dates
+  Bullet list of all known dates. For dates not yet announced, write "Expected to open within 1–2 weeks of notification — check official website" (for application start) or "Expected 3–6 months after last date to apply — TBA" (for exam date). Do NOT leave all dates as bare "TBA" — give context about when candidates can expect updates.
+
+## Vacancy Details
+  Total vacancies: ${announcement.vacancies ?? 'As per official notification'}. If category-wise breakup is not yet announced, say so — but explain that it typically includes General / EWS / OBC / SC / ST / PwD categories as per government reservation norms.
+
+## Eligibility Criteria
+  Sub-sections:
+  - **Nationality**: Indian citizen (standard); mention any Nepal/Bhutan/refugee provisions if applicable.
+  - **Age Limit**: State the age range. If not officially announced yet, use your knowledge of the organization's standard age norms for this post level and write: "Expected [X]–[Y] years for General category, with relaxation for SC/ST/OBC/PwD/Ex-servicemen as per [org] rules — verify in official notification." NEVER leave age as bare "TBA" without context.
+  - **Educational Qualification**: State the required degree/subject based on the post name. For well-known post types (Statistical Officer, Clerk, Constable, Engineer), use your knowledge of typical qualifications required and note "as per official notification — verify before applying."
+
+## Application Fee
+  Provide the fee structure. Use your knowledge of the organization's standard fee structure if available. For example, RPSC standard fees are: General/OBC Creamy Layer ₹350, OBC Non-Creamy Layer ₹250, SC/ST/PwD (Rajasthan domicile) ₹150, all others as per General category. Always add: "Fee structure subject to change — verify in official notification." Payment mode: Online via e-Mitra / Net Banking / Card (for state PSCs) or similar.
+
+## Selection Process
+  Numbered stages based on what is typical for this type of post: Written Exam → Interview/Personality Test (if applicable) → Document Verification → Medical Exam (if applicable) → Final Merit List. Use post-specific knowledge.
+
+## Salary and Pay Scale
+  Provide the approximate pay scale / pay matrix level if knowable from the post name and organization. Write: "Expected Pay Level [X] (₹[Y,000]–₹[Z,000] approx.) as per [state/central] 7th Pay Commission — verify in official notification."
+
+## How to Apply Online
+  Numbered steps (at least 7): visit official website → go to recruitment/notification section → find the notification link → read full notification → click Apply Online → register/login → fill form → upload documents → pay fee → submit → print confirmation.
+
+## Documents Required
+  Bullet list: photo, signature, class 10 certificate (for DOB), graduation marksheets, caste certificate (if applicable), domicile certificate, EWS certificate, disability certificate (if applicable), ID proof.
+
+## FAQs
+  6 FAQs: What is the last date to apply? How many vacancies? What is the educational qualification? What is the application fee? Is there any age relaxation? How will the selection be done?`,
+
+    'answer-key': `Sections to include (in order):
+## [ExamName] Answer Key — Overview
+  When released, how many sets/series (A/B/C/D), how candidates can use it to estimate their score.
+
+## How to Download the Answer Key
+  Numbered steps: visit official website → find answer key link → select your paper set/series → download PDF → match with your responses.
+
+## How to Calculate Your Score
+  Simple explanation: for each correct answer +[marks], for each wrong answer -[marks] (if negative marking) or 0 (if no penalty). Provide the marking scheme if known.
+
+## How to Raise an Objection / Challenge
+  Steps and fee: only if objection window is open. Steps to challenge on official portal, fee per question (typically ₹100–₹1000 refundable if upheld). Deadline for objections.
+
+## Important Dates
+  Answer key release date, objection deadline, final answer key date, result expected date.
+
+## FAQs
+  5 FAQs: How to challenge wrong answers? What is the objection fee? When will the final key come? Will the score change after objections? When is the result expected?`,
+
+    'default': `Sections to include:
+## Overview
+  What this update is about and why it matters for candidates.
+
+## Important Dates
+  All known dates; TBA for unknown ones with expected timelines where possible.
+
+## Key Details
+  Relevant specifics for this update type.
+
+## What to Do Next
+  Clear action steps for candidates — step by step.
+
+## FAQs
+  5 realistic questions that students Google about this update.`,
   };
 
   const structure = stageStructure[announcement.type] || stageStructure['default'];
 
+  // Build the dates context — show ALL dates including TBA so LLM knows what's unknown
+  const allDates = Object.entries(announcement.importantDates || {});
+  const datesContext = allDates.length > 0
+    ? allDates.map(([k, v]) => `  ${k}: ${v || 'TBA'}`).join('\n')
+    : '  (no dates provided)';
+
   const prompt = `
-You are writing a factual, helpful guide for an Indian government exam information website (citizennest.com).
+You are writing a factual, comprehensive guide for an Indian government exam information website (citizennest.com).
+Your content must be thorough enough to rank on Google — thin or vague content will not help users.
 
 Write a complete guide for this announcement:
 
 Organization: ${source.name} (${source.fullName})
 Exam: ${announcement.examName}
 Type: ${announcement.type}
-Official website: ${getDomain(announcement.officialUrl)} (link to the domain, not deep paths)
-Vacancies: ${announcement.vacancies ?? 'Not applicable'}
-Important Dates: ${JSON.stringify(
-    Object.fromEntries(Object.entries(announcement.importantDates || {}).filter(([,v]) => v && v !== 'TBA')),
-    null, 2
-  )}
-Published: ${today}
+Official website: ${getDomain(announcement.officialUrl)} (link to this domain, never guess deep paths)
+Vacancies: ${announcement.vacancies ?? 'Not specified'}
+Important Dates (from official source):
+${datesContext}
+Today / Published: ${today}
 
 CONTENT RULES:
-1. Write only CONFIRMED facts. Use "TBA" or "To be announced" for unknown details — NEVER guess or invent
-2. Do NOT invent vacancy numbers, dates, salary figures, eligibility criteria, or specific portal URLs
-3. Link to the official website domain only (e.g. cbseresults.nic.in) — never guess deep paths like /result2026.htm
-4. Tone: factual, helpful, no clickbait, no urgency pressure language
-5. Length: 400-650 words for results/admit-cards, 600-900 words for notifications
-6. FAQs must answer exactly what students Google (5 realistic Q&As)
+1. CONFIRMED data (dates, vacancies from above): state precisely.
+2. STANDARD organizational norms (fee structures, age limits, selection process, pay scale): use your knowledge about this specific organization (${source.name}) and post type. State these as "standard/typical" or "as per [org] rules" — NEVER leave all rows as bare "TBA" without any context.
+3. GENUINELY UNKNOWN future events (exam date, admit card, result when not provided): write "TBA — check ${getDomain(announcement.officialUrl)}" with an expected timeline where possible (e.g., "expected 3–5 months after notification").
+4. NEVER invent specific dates that were not provided, never guess deep URL paths, never make up specific vacancy breakdowns.
+5. Link to the official website domain only (${getDomain(announcement.officialUrl)}) — never guess deep paths.
+6. Tone: factual, helpful, reassuring. No clickbait, no pressure language.
+7. Length: 800–1200 words for results, 1000–1400 words for notifications, 600–900 words for admit-cards/answer-keys. Use proper markdown with bold, bullet lists, and numbered lists — do NOT write large unbroken paragraphs.
+8. FAQs must answer exactly what students type into Google for this specific exam and stage.
 
 ${structure}
 
-Write ONLY the markdown body (no frontmatter). Start with the first ## heading directly.
+Write ONLY the markdown body (no frontmatter, no YAML). Start directly with the first ## heading.
 `;
 
   try {

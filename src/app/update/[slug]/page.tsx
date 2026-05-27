@@ -230,9 +230,9 @@ export default async function UpdatePage({ params }: Props) {
         <span className="text-gray-700">{update.organization}</span>
       </nav>
 
-      <div className="lg:grid lg:grid-cols-[1fr_260px] lg:gap-10">
+      <div className="lg:grid lg:grid-cols-[1fr_260px] lg:gap-10 items-start">
         {/* Main Content */}
-        <article>
+        <article className="bg-white rounded-2xl border border-gray-100 shadow-sm px-6 py-8 sm:px-8 lg:px-10 lg:py-10">
           {/* Header */}
           <header className="mb-6">
             <div className="flex flex-wrap items-center gap-2 mb-3">
@@ -442,7 +442,7 @@ export default async function UpdatePage({ params }: Props) {
         {/* Table of Contents Sidebar */}
         {headings.length > 3 && (
           <aside className="hidden lg:block">
-            <div className="sticky top-24">
+            <div className="sticky top-24 bg-white rounded-2xl border border-gray-100 shadow-sm p-5">
               <h3 className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-3">
                 On this page
               </h3>

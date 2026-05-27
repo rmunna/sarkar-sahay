@@ -1,543 +1,653 @@
 {
   "period": {
-    "start": "2026-03-02",
-    "end": "2026-03-09",
-    "days": 7
+    "start": "2026-04-25",
+    "end": "2026-05-23",
+    "days": 28
   },
   "totals": {
-    "clicks": 260,
-    "impressions": 46341,
-    "ctr": 0.0056105824216136895,
-    "position": 13.5162598994411
+    "clicks": 9865,
+    "impressions": 1303919,
+    "ctr": 0.007565654001513897,
+    "position": 8.748709083923158
   },
   "topQueries": [
     {
-      "query": "rbi recruitment",
-      "clicks": 13,
-      "impressions": 888,
-      "ctr": "1.5%",
+      "query": "shakti smart card online apply",
+      "clicks": 144,
+      "impressions": 904,
+      "ctr": "15.9%",
+      "position": "3.5"
+    },
+    {
+      "query": "shakti smart card",
+      "clicks": 141,
+      "impressions": 999,
+      "ctr": "14.1%",
       "position": "3.9"
     },
     {
-      "query": "rbi careers",
-      "clicks": 6,
-      "impressions": 461,
-      "ctr": "1.3%",
+      "query": "smart card for free bus in karnataka online application",
+      "clicks": 84,
+      "impressions": 781,
+      "ctr": "10.8%",
+      "position": "4.1"
+    },
+    {
+      "query": "bagyalakshmi bond",
+      "clicks": 62,
+      "impressions": 726,
+      "ctr": "8.5%",
       "position": "3.0"
     },
     {
-      "query": "yuva sathi status check",
-      "clicks": 6,
-      "impressions": 94,
-      "ctr": "6.4%",
-      "position": "26.0"
+      "query": "free bus smart card",
+      "clicks": 49,
+      "impressions": 511,
+      "ctr": "9.6%",
+      "position": "4.6"
     },
     {
-      "query": "nrega job card",
-      "clicks": 3,
-      "impressions": 37,
-      "ctr": "8.1%",
-      "position": "24.5"
+      "query": "ssepd application status check by aadhaar",
+      "clicks": 42,
+      "impressions": 2389,
+      "ctr": "1.8%",
+      "position": "8.0"
     },
     {
-      "query": "yuva sathi application status check",
-      "clicks": 3,
-      "impressions": 9,
-      "ctr": "33.3%",
-      "position": "29.8"
+      "query": "sda fda recruitment 2026",
+      "clicks": 41,
+      "impressions": 5112,
+      "ctr": "0.8%",
+      "position": "8.5"
     },
     {
-      "query": "ksrtc smart card online apply",
-      "clicks": 2,
-      "impressions": 12,
-      "ctr": "16.7%",
-      "position": "7.3"
+      "query": "seva sindhu portal shakti smart card",
+      "clicks": 36,
+      "impressions": 211,
+      "ctr": "17.1%",
+      "position": "4.3"
     },
     {
-      "query": "rbi openings",
-      "clicks": 2,
-      "impressions": 25,
-      "ctr": "8.0%",
-      "position": "4.5"
+      "query": "kalia yojana check",
+      "clicks": 33,
+      "impressions": 463,
+      "ctr": "7.1%",
+      "position": "5.9"
     },
     {
-      "query": "rbi vacancy",
-      "clicks": 2,
-      "impressions": 386,
-      "ctr": "0.5%",
-      "position": "3.9"
+      "query": "seva sindhu shakti smart card",
+      "clicks": 31,
+      "impressions": 413,
+      "ctr": "7.5%",
+      "position": "6.4"
     },
     {
-      "query": "rbi vacancy 2026",
-      "clicks": 2,
-      "impressions": 33,
+      "query": "smart card for bus",
+      "clicks": 30,
+      "impressions": 490,
       "ctr": "6.1%",
       "position": "4.9"
     },
     {
-      "query": "shakti card online apply",
-      "clicks": 2,
-      "impressions": 58,
-      "ctr": "3.4%",
-      "position": "8.3"
-    },
-    {
-      "query": "what to do if your voter id application is rejected india",
-      "clicks": 2,
-      "impressions": 172,
+      "query": "rbi careers",
+      "clicks": 29,
+      "impressions": 2328,
       "ctr": "1.2%",
-      "position": "9.9"
+      "position": "2.7"
     },
     {
-      "query": "you are not authorised to generate e-epic pdf",
-      "clicks": 2,
-      "impressions": 4,
-      "ctr": "50.0%",
+      "query": "land record of jharkhand online",
+      "clicks": 25,
+      "impressions": 789,
+      "ctr": "3.2%",
       "position": "7.0"
     },
     {
-      "query": "you are not authorised to generate e-epic pdf.",
-      "clicks": 2,
-      "impressions": 6,
-      "ctr": "33.3%",
-      "position": "7.3"
+      "query": "ration card apply online",
+      "clicks": 25,
+      "impressions": 2689,
+      "ctr": "0.9%",
+      "position": "7.7"
     },
     {
-      "query": "apl 1 ration card benefits in gujarat",
-      "clicks": 1,
-      "impressions": 1,
-      "ctr": "100.0%",
-      "position": "12.0"
+      "query": "bhagyalakshmi bond details",
+      "clicks": 24,
+      "impressions": 154,
+      "ctr": "15.6%",
+      "position": "1.8"
     },
     {
-      "query": "apl vs bpl ration card",
-      "clicks": 1,
-      "impressions": 6,
-      "ctr": "16.7%",
-      "position": "9.7"
+      "query": "smart card apply online karnataka",
+      "clicks": 23,
+      "impressions": 146,
+      "ctr": "15.8%",
+      "position": "4.4"
     },
     {
-      "query": "bank exam date 2026",
-      "clicks": 1,
-      "impressions": 1,
-      "ctr": "100.0%",
-      "position": "1.0"
-    },
-    {
-      "query": "bhagyalakshmi bond documents",
-      "clicks": 1,
-      "impressions": 3,
-      "ctr": "33.3%",
-      "position": "10.3"
-    },
-    {
-      "query": "bharti 2026 maharashtra",
-      "clicks": 1,
-      "impressions": 9,
-      "ctr": "11.1%",
-      "position": "1.0"
-    },
-    {
-      "query": "bsnl broadband new connection apply online",
-      "clicks": 1,
-      "impressions": 15,
-      "ctr": "6.7%",
-      "position": "8.6"
-    },
-    {
-      "query": "cancel ration card online",
-      "clicks": 1,
-      "impressions": 1,
-      "ctr": "100.0%",
-      "position": "4.0"
-    },
-    {
-      "query": "cgl 2026 expected vacancy",
-      "clicks": 1,
-      "impressions": 1,
-      "ctr": "100.0%",
-      "position": "1.0"
-    },
-    {
-      "query": "character certificate",
-      "clicks": 1,
-      "impressions": 9,
-      "ctr": "11.1%",
-      "position": "27.9"
-    },
-    {
-      "query": "eci application rejected",
-      "clicks": 1,
-      "impressions": 7,
-      "ctr": "14.3%",
+      "query": "madhubabu pension yojana application status check by aadhaar",
+      "clicks": 22,
+      "impressions": 1127,
+      "ctr": "2.0%",
       "position": "8.0"
     },
     {
-      "query": "gov job",
-      "clicks": 1,
-      "impressions": 9,
-      "ctr": "11.1%",
-      "position": "2.9"
+      "query": "bsnl sim price",
+      "clicks": 20,
+      "impressions": 457,
+      "ctr": "4.4%",
+      "position": "2.2"
     },
     {
-      "query": "gov vacancy",
-      "clicks": 1,
-      "impressions": 7,
-      "ctr": "14.3%",
-      "position": "6.1"
+      "query": "ration card apply",
+      "clicks": 20,
+      "impressions": 4969,
+      "ctr": "0.4%",
+      "position": "9.0"
     },
     {
-      "query": "gov. vacancy",
-      "clicks": 1,
-      "impressions": 1,
-      "ctr": "100.0%",
-      "position": "1.0"
+      "query": "e shram card update mobile number",
+      "clicks": 19,
+      "impressions": 307,
+      "ctr": "6.2%",
+      "position": "7.8"
     },
     {
-      "query": "haryana jamabandi by owner name",
-      "clicks": 1,
-      "impressions": 1,
-      "ctr": "100.0%",
-      "position": "17.0"
+      "query": "khata nakal",
+      "clicks": 19,
+      "impressions": 5009,
+      "ctr": "0.4%",
+      "position": "7.7"
     },
     {
-      "query": "how to apply shakti card",
-      "clicks": 1,
-      "impressions": 1,
-      "ctr": "100.0%",
-      "position": "7.0"
+      "query": "madhu babu pension yojana status check by aadhar card",
+      "clicks": 18,
+      "impressions": 389,
+      "ctr": "4.6%",
+      "position": "8.1"
     },
     {
-      "query": "how to apply widow pension in punjab",
-      "clicks": 1,
-      "impressions": 1,
-      "ctr": "100.0%",
-      "position": "10.0"
+      "query": "nrega job card",
+      "clicks": 18,
+      "impressions": 2159,
+      "ctr": "0.8%",
+      "position": "9.9"
     },
     {
-      "query": "how to check user id in irctc",
-      "clicks": 1,
-      "impressions": 1,
-      "ctr": "100.0%",
-      "position": "3.0"
+      "query": "yuva sathi status check by mobile number",
+      "clicks": 18,
+      "impressions": 1116,
+      "ctr": "1.6%",
+      "position": "7.2"
+    },
+    {
+      "query": "bsnl sim",
+      "clicks": 16,
+      "impressions": 292,
+      "ctr": "5.5%",
+      "position": "3.3"
+    },
+    {
+      "query": "shakthi yojane smart card",
+      "clicks": 16,
+      "impressions": 126,
+      "ctr": "12.7%",
+      "position": "5.4"
+    },
+    {
+      "query": "smart card for bus apply online",
+      "clicks": 15,
+      "impressions": 195,
+      "ctr": "7.7%",
+      "position": "4.8"
+    },
+    {
+      "query": "smart card karnataka",
+      "clicks": 15,
+      "impressions": 229,
+      "ctr": "6.6%",
+      "position": "4.2"
+    },
+    {
+      "query": "ssc recruitment 2026",
+      "clicks": 15,
+      "impressions": 1249,
+      "ctr": "1.2%",
+      "position": "4.9"
+    },
+    {
+      "query": "ladli laxmi scholarship online apply",
+      "clicks": 14,
+      "impressions": 637,
+      "ctr": "2.2%",
+      "position": "7.4"
     }
   ],
   "topPages": [
     {
-      "page": "/guide/voter-id-application-rejected-fix",
-      "clicks": 110,
-      "impressions": 1739,
-      "ctr": "6.3%",
-      "position": "6.4"
-    },
-    {
-      "page": "/update/rbi-grade-b-2026-notification",
-      "clicks": 44,
-      "impressions": 3036,
-      "ctr": "1.4%",
-      "position": "4.1"
-    },
-    {
-      "page": "/update/ssc-cgl-2026-notification",
-      "clicks": 20,
-      "impressions": 1091,
-      "ctr": "1.8%",
-      "position": "5.5"
-    },
-    {
-      "page": "/guide/voter-id-download-not-working-fix",
-      "clicks": 18,
-      "impressions": 383,
-      "ctr": "4.7%",
-      "position": "6.3"
-    },
-    {
-      "page": "/guide/yuva-sathi-scheme-west-bengal-status",
-      "clicks": 18,
-      "impressions": 471,
-      "ctr": "3.8%",
-      "position": "18.6"
-    },
-    {
       "page": "/guide/shakti-smart-card-apply-online-karnataka",
-      "clicks": 17,
-      "impressions": 659,
-      "ctr": "2.6%",
-      "position": "9.0"
+      "clicks": 1095,
+      "impressions": 14305,
+      "ctr": "7.7%",
+      "position": "5.1"
     },
     {
-      "page": "/guide/irctc-account-login-problems-fix",
-      "clicks": 7,
-      "impressions": 10289,
-      "ctr": "0.1%",
-      "position": "5.5"
+      "page": "/guide/kpsc-fda-sda-exam-guide",
+      "clicks": 616,
+      "impressions": 72397,
+      "ctr": "0.9%",
+      "position": "6.8"
     },
     {
-      "page": "/guide/ml-focus-plus",
-      "clicks": 7,
-      "impressions": 71,
-      "ctr": "9.9%",
-      "position": "6.2"
+      "page": "/guide/scholarship-payment-not-received-fix",
+      "clicks": 275,
+      "impressions": 15945,
+      "ctr": "1.7%",
+      "position": "4.3"
     },
     {
-      "page": "/guide/domicile-certificate-rejected-fix",
-      "clicks": 6,
-      "impressions": 279,
-      "ctr": "2.2%",
-      "position": "4.8"
-    },
-    {
-      "page": "/guide/karnataka-bhagyalakshmi-scheme",
-      "clicks": 6,
-      "impressions": 293,
-      "ctr": "2.0%",
-      "position": "8.1"
-    },
-    {
-      "page": "/update/ibps-po-2026-notification",
-      "clicks": 6,
-      "impressions": 396,
-      "ctr": "1.5%",
-      "position": "3.9"
-    },
-    {
-      "page": "/guide/caste-certificate-rejected-fix",
-      "clicks": 5,
-      "impressions": 659,
-      "ctr": "0.8%",
-      "position": "5.7"
-    },
-    {
-      "page": "/guide/ration-card-apl-vs-bpl-difference",
-      "clicks": 5,
-      "impressions": 465,
-      "ctr": "1.1%",
-      "position": "9.6"
-    },
-    {
-      "page": "/guide/digilocker-document-not-showing-fix",
-      "clicks": 4,
-      "impressions": 1065,
-      "ctr": "0.4%",
-      "position": "4.5"
-    },
-    {
-      "page": "/guide/nrega-job-card-apply-download",
-      "clicks": 4,
-      "impressions": 161,
-      "ctr": "2.5%",
-      "position": "18.1"
-    },
-    {
-      "page": "/guide/parivahan-sarathi-website-not-working-fix",
-      "clicks": 4,
-      "impressions": 215,
-      "ctr": "1.9%",
-      "position": "6.9"
-    },
-    {
-      "page": "/guide/upsc-vs-state-psc-comparison",
-      "clicks": 4,
-      "impressions": 527,
-      "ctr": "0.8%",
-      "position": "6.3"
-    },
-    {
-      "page": "/guide/wb-sabuj-sathi-bicycle-scheme",
-      "clicks": 4,
-      "impressions": 194,
+      "page": "/guide/ration-card-surrender-cancel",
+      "clicks": 243,
+      "impressions": 11604,
       "ctr": "2.1%",
-      "position": "9.6"
-    },
-    {
-      "page": "/guide/bhoomi-land-records-karnataka",
-      "clicks": 3,
-      "impressions": 45,
-      "ctr": "6.7%",
-      "position": "6.9"
-    },
-    {
-      "page": "/guide/birth-certificate-correction-rejected-fix",
-      "clicks": 3,
-      "impressions": 138,
-      "ctr": "2.2%",
       "position": "6.1"
     },
     {
-      "page": "/guide/pan-card-apply-online",
-      "clicks": 3,
-      "impressions": 233,
-      "ctr": "1.3%",
-      "position": "49.3"
+      "page": "/guide/voter-id-form-6-rejection-reasons",
+      "clicks": 243,
+      "impressions": 4519,
+      "ctr": "5.4%",
+      "position": "6.0"
     },
     {
-      "page": "/guide/passport-application-status-track",
-      "clicks": 3,
-      "impressions": 1140,
-      "ctr": "0.3%",
-      "position": "74.5"
+      "page": "/guide/voter-id-application-rejected-fix",
+      "clicks": 239,
+      "impressions": 8622,
+      "ctr": "2.8%",
+      "position": "7.0"
+    },
+    {
+      "page": "/guide/ration-card-split-separate-family",
+      "clicks": 227,
+      "impressions": 11686,
+      "ctr": "1.9%",
+      "position": "5.4"
+    },
+    {
+      "page": "/guide/sbi-account-frozen-fix",
+      "clicks": 220,
+      "impressions": 14246,
+      "ctr": "1.5%",
+      "position": "6.0"
     },
     {
       "page": "/guide/ration-card-add-remove-member",
-      "clicks": 3,
-      "impressions": 302,
-      "ctr": "1.0%",
+      "clicks": 187,
+      "impressions": 12238,
+      "ctr": "1.5%",
+      "position": "5.4"
+    },
+    {
+      "page": "/guide/bsnl-sim-4g-upgrade-guide",
+      "clicks": 185,
+      "impressions": 8901,
+      "ctr": "2.1%",
+      "position": "4.4"
+    },
+    {
+      "page": "/guide/madhu-babu-pension-odisha",
+      "clicks": 185,
+      "impressions": 11250,
+      "ctr": "1.6%",
+      "position": "9.0"
+    },
+    {
+      "page": "/guide/karnataka-bhagyalakshmi-scheme",
+      "clicks": 165,
+      "impressions": 4540,
+      "ctr": "3.6%",
+      "position": "6.2"
+    },
+    {
+      "page": "/guide/ration-card-apl-vs-bpl-difference",
+      "clicks": 164,
+      "impressions": 22011,
+      "ctr": "0.7%",
+      "position": "8.6"
+    },
+    {
+      "page": "/guide/hdfc-account-blocked-fix",
+      "clicks": 158,
+      "impressions": 13024,
+      "ctr": "1.2%",
+      "position": "7.0"
+    },
+    {
+      "page": "/guide/voter-id-correction-not-working-fix",
+      "clicks": 157,
+      "impressions": 3939,
+      "ctr": "4.0%",
+      "position": "6.4"
+    },
+    {
+      "page": "/guide/voter-id-blo-details-check",
+      "clicks": 142,
+      "impressions": 6253,
+      "ctr": "2.3%",
+      "position": "8.3"
+    },
+    {
+      "page": "/guide/irctc-app-not-working-fix",
+      "clicks": 121,
+      "impressions": 16550,
+      "ctr": "0.7%",
+      "position": "4.5"
+    },
+    {
+      "page": "/guide/eshram-card-update-mobile-name-fix",
+      "clicks": 117,
+      "impressions": 4326,
+      "ctr": "2.7%",
+      "position": "6.3"
+    },
+    {
+      "page": "/guide/ration-card-photo-update",
+      "clicks": 111,
+      "impressions": 2866,
+      "ctr": "3.9%",
+      "position": "5.8"
+    },
+    {
+      "page": "/guide/digilocker-document-not-showing-fix",
+      "clicks": 104,
+      "impressions": 14411,
+      "ctr": "0.7%",
+      "position": "6.1"
+    },
+    {
+      "page": "/guide/caste-certificate-rejected-fix",
+      "clicks": 92,
+      "impressions": 7449,
+      "ctr": "1.2%",
+      "position": "5.6"
+    },
+    {
+      "page": "https://citizennest.com/update/rbi-grade-b-2026-notification",
+      "clicks": 91,
+      "impressions": 5610,
+      "ctr": "1.6%",
+      "position": "4.0"
+    },
+    {
+      "page": "/guide/irctc-waiting-list-confirmation-chances",
+      "clicks": 87,
+      "impressions": 22051,
+      "ctr": "0.4%",
+      "position": "7.8"
+    },
+    {
+      "page": "/guide/assam-pragyan-bharati-scooty-scheme",
+      "clicks": 85,
+      "impressions": 6871,
+      "ctr": "1.2%",
+      "position": "6.6"
+    },
+    {
+      "page": "/guide/domicile-certificate-rejected-fix",
+      "clicks": 85,
+      "impressions": 4451,
+      "ctr": "1.9%",
+      "position": "5.4"
+    },
+    {
+      "page": "/guide/sbi-yono-app-not-working-fix",
+      "clicks": 85,
+      "impressions": 15141,
+      "ctr": "0.6%",
+      "position": "5.3"
+    },
+    {
+      "page": "/guide/digilocker-login-verification-not-working-fix",
+      "clicks": 81,
+      "impressions": 4650,
+      "ctr": "1.7%",
+      "position": "6.7"
+    },
+    {
+      "page": "/guide/voter-id-download-not-working-fix",
+      "clicks": 81,
+      "impressions": 1580,
+      "ctr": "5.1%",
+      "position": "5.8"
+    },
+    {
+      "page": "/guide/parivahan-sarathi-website-not-working-fix",
+      "clicks": 77,
+      "impressions": 5800,
+      "ctr": "1.3%",
       "position": "6.9"
     },
     {
-      "page": "/guide/bonafide-certificate-apply-online",
-      "clicks": 2,
-      "impressions": 160,
-      "ctr": "1.3%",
-      "position": "11.8"
-    },
-    {
-      "page": "/guide/gujarat-manav-garima-yojana",
-      "clicks": 2,
-      "impressions": 16,
-      "ctr": "12.5%",
+      "page": "/guide/shakti-free-bus-karnataka",
+      "clicks": 77,
+      "impressions": 7823,
+      "ctr": "1.0%",
       "position": "8.1"
-    },
-    {
-      "page": "/guide/jio-fiber-airtel-broadband",
-      "clicks": 2,
-      "impressions": 530,
-      "ctr": "0.4%",
-      "position": "8.5"
-    },
-    {
-      "page": "/guide/jio-fiber-internet-not-working-fix",
-      "clicks": 2,
-      "impressions": 169,
-      "ctr": "1.2%",
-      "position": "11.1"
-    },
-    {
-      "page": "/guide/maharashtra-talathi-exam-guide",
-      "clicks": 2,
-      "impressions": 593,
-      "ctr": "0.3%",
-      "position": "7.3"
-    },
-    {
-      "page": "/guide/nta-registration-not-working-fix",
-      "clicks": 2,
-      "impressions": 1125,
-      "ctr": "0.2%",
-      "position": "7.3"
-    },
-    {
-      "page": "/guide/passport-police-verification-stuck-fix",
-      "clicks": 2,
-      "impressions": 139,
-      "ctr": "1.4%",
-      "position": "11.2"
     }
   ],
   "dailyTrend": [
     {
-      "date": "2026-03-02",
-      "clicks": 48,
-      "impressions": 9652
+      "date": "2026-04-25",
+      "clicks": 144,
+      "impressions": 26252
     },
     {
-      "date": "2026-03-03",
-      "clicks": 43,
-      "impressions": 10180
+      "date": "2026-04-26",
+      "clicks": 180,
+      "impressions": 25634
     },
     {
-      "date": "2026-03-04",
-      "clicks": 48,
-      "impressions": 9315
+      "date": "2026-04-27",
+      "clicks": 228,
+      "impressions": 29762
     },
     {
-      "date": "2026-03-05",
-      "clicks": 51,
-      "impressions": 8558
+      "date": "2026-04-28",
+      "clicks": 202,
+      "impressions": 27807
     },
     {
-      "date": "2026-03-06",
-      "clicks": 70,
-      "impressions": 8636
+      "date": "2026-04-29",
+      "clicks": 189,
+      "impressions": 27443
     },
     {
-      "date": "2026-03-07",
-      "clicks": 85,
-      "impressions": 13652
+      "date": "2026-04-30",
+      "clicks": 244,
+      "impressions": 29080
     },
     {
-      "date": "2026-03-08",
-      "clicks": 54,
-      "impressions": 10466
+      "date": "2026-05-01",
+      "clicks": 201,
+      "impressions": 31591
+    },
+    {
+      "date": "2026-05-02",
+      "clicks": 243,
+      "impressions": 34515
+    },
+    {
+      "date": "2026-05-03",
+      "clicks": 252,
+      "impressions": 36255
+    },
+    {
+      "date": "2026-05-04",
+      "clicks": 320,
+      "impressions": 45062
+    },
+    {
+      "date": "2026-05-05",
+      "clicks": 337,
+      "impressions": 49205
+    },
+    {
+      "date": "2026-05-06",
+      "clicks": 419,
+      "impressions": 47398
+    },
+    {
+      "date": "2026-05-07",
+      "clicks": 376,
+      "impressions": 50762
+    },
+    {
+      "date": "2026-05-08",
+      "clicks": 353,
+      "impressions": 48117
+    },
+    {
+      "date": "2026-05-09",
+      "clicks": 341,
+      "impressions": 41828
+    },
+    {
+      "date": "2026-05-10",
+      "clicks": 349,
+      "impressions": 44494
+    },
+    {
+      "date": "2026-05-11",
+      "clicks": 531,
+      "impressions": 56299
+    },
+    {
+      "date": "2026-05-12",
+      "clicks": 466,
+      "impressions": 55483
+    },
+    {
+      "date": "2026-05-13",
+      "clicks": 490,
+      "impressions": 64372
+    },
+    {
+      "date": "2026-05-14",
+      "clicks": 462,
+      "impressions": 66465
+    },
+    {
+      "date": "2026-05-15",
+      "clicks": 505,
+      "impressions": 69716
+    },
+    {
+      "date": "2026-05-16",
+      "clicks": 438,
+      "impressions": 60138
+    },
+    {
+      "date": "2026-05-17",
+      "clicks": 410,
+      "impressions": 60905
+    },
+    {
+      "date": "2026-05-18",
+      "clicks": 473,
+      "impressions": 66134
+    },
+    {
+      "date": "2026-05-19",
+      "clicks": 554,
+      "impressions": 65041
+    },
+    {
+      "date": "2026-05-20",
+      "clicks": 591,
+      "impressions": 71646
+    },
+    {
+      "date": "2026-05-21",
+      "clicks": 567,
+      "impressions": 72515
+    },
+    {
+      "date": "2026-05-22",
+      "clicks": 546,
+      "impressions": 72540
+    },
+    {
+      "date": "2026-05-23",
+      "clicks": 144,
+      "impressions": 16292
     }
   ],
   "countries": [
     {
       "country": "ind",
-      "clicks": 372,
-      "impressions": 36656
+      "clicks": 9996,
+      "impressions": 941585
     },
     {
       "country": "usa",
-      "clicks": 6,
-      "impressions": 21249
+      "clicks": 92,
+      "impressions": 340095
     },
     {
       "country": "are",
-      "clicks": 3,
-      "impressions": 230
-    },
-    {
-      "country": "kwt",
-      "clicks": 3,
-      "impressions": 44
-    },
-    {
-      "country": "sau",
-      "clicks": 3,
-      "impressions": 132
+      "clicks": 61,
+      "impressions": 4792
     },
     {
       "country": "gbr",
-      "clicks": 2,
-      "impressions": 749
+      "clicks": 55,
+      "impressions": 7305
     },
     {
       "country": "can",
-      "clicks": 1,
-      "impressions": 2602
+      "clicks": 44,
+      "impressions": 14716
     },
     {
-      "country": "chl",
-      "clicks": 1,
-      "impressions": 103
+      "country": "sau",
+      "clicks": 33,
+      "impressions": 2358
     },
     {
-      "country": "deu",
-      "clicks": 1,
-      "impressions": 186
+      "country": "sgp",
+      "clicks": 23,
+      "impressions": 1657
     },
     {
-      "country": "esp",
-      "clicks": 1,
-      "impressions": 481
+      "country": "aus",
+      "clicks": 18,
+      "impressions": 2773
+    },
+    {
+      "country": "mex",
+      "clicks": 15,
+      "impressions": 3300
+    },
+    {
+      "country": "omn",
+      "clicks": 15,
+      "impressions": 811
     }
   ],
   "devices": [
     {
       "device": "MOBILE",
-      "clicks": 308,
-      "impressions": 32176
+      "clicks": 8252,
+      "impressions": 714820
     },
     {
       "device": "DESKTOP",
-      "clicks": 90,
-      "impressions": 37096
+      "clicks": 2238,
+      "impressions": 672436
     },
     {
       "device": "TABLET",
-      "clicks": 1,
-      "impressions": 1187
+      "clicks": 65,
+      "impressions": 5495
     }
   ]
 }
