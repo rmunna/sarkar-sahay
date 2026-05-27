@@ -58,6 +58,7 @@
       "name": "RRB",
       "fullName": "Railway Recruitment Board",
       "url": "https://www.rrbcdg.gov.in",
+      "notificationsUrl": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,1,304,366",
       "tier": 1,
       "searchQueries": [
         "RRB recruitment 2026",
@@ -81,6 +82,7 @@
       "name": "IBPS",
       "fullName": "Institute of Banking Personnel Selection",
       "url": "https://www.ibps.in",
+      "notificationsUrl": "https://www.ibps.in/vacancy/",
       "tier": 1,
       "searchQueries": [
         "IBPS PO 2026",
@@ -103,6 +105,7 @@
       "name": "SBI",
       "fullName": "State Bank of India",
       "url": "https://www.sbi.co.in/web/careers",
+      "notificationsUrl": "https://bank.sbi/web/careers/current-openings",
       "tier": 1,
       "searchQueries": [
         "SBI PO 2026",
@@ -148,6 +151,7 @@
       "name": "CBSE",
       "fullName": "Central Board of Secondary Education",
       "url": "https://cbseresults.nic.in",
+      "notificationsUrl": "https://results.cbse.nic.in",
       "tier": 1,
       "searchQueries": [
         "CBSE Class 10 result 2026",
@@ -166,6 +170,7 @@
       "name": "UP Board",
       "fullName": "Uttar Pradesh Madhyamik Shiksha Parishad",
       "url": "https://upmsp.edu.in",
+      "notificationsUrl": "https://upmsp.edu.in/notices.aspx",
       "tier": 1,
       "searchQueries": [
         "UP Board result 2026",
@@ -185,6 +190,7 @@
       "name": "Bihar Board",
       "fullName": "Bihar School Examination Board",
       "url": "https://biharboardonline.bihar.gov.in",
+      "notificationsUrl": "https://secondary.biharboardonline.com",
       "tier": 1,
       "searchQueries": [
         "Bihar Board result 2026",
@@ -204,6 +210,7 @@
       "name": "Maharashtra Board",
       "fullName": "Maharashtra State Board of Secondary and Higher Secondary Education",
       "url": "https://mahresult.nic.in",
+      "notificationsUrl": "https://mahahsscboard.in/result",
       "tier": 1,
       "searchQueries": [
         "Maharashtra SSC result 2026",
@@ -223,6 +230,7 @@
       "name": "RBI",
       "fullName": "Reserve Bank of India",
       "url": "https://opportunities.rbi.org.in",
+      "notificationsUrl": "https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=4",
       "tier": 2,
       "searchQueries": [
         "RBI Grade B 2026",
@@ -256,6 +264,7 @@
       "name": "UPPSC",
       "fullName": "Uttar Pradesh Public Service Commission",
       "url": "https://uppsc.up.nic.in",
+      "notificationsUrl": "https://uppsc.up.nic.in/pages/Advertisements.aspx",
       "tier": 2,
       "searchQueries": [
         "UPPSC PCS 2026",
@@ -275,6 +284,7 @@
       "name": "BPSC",
       "fullName": "Bihar Public Service Commission",
       "url": "https://www.bpsc.bih.nic.in",
+      "notificationsUrl": "https://www.bpsc.bih.nic.in/AdvtDetails.aspx",
       "tier": 2,
       "searchQueries": [
         "BPSC 2026",
@@ -367,6 +377,7 @@
       "name": "MPSC",
       "fullName": "Maharashtra Public Service Commission",
       "url": "https://mpsc.gov.in",
+      "notificationsUrl": "https://mpsc.gov.in/advertisements",
       "tier": 2,
       "searchQueries": [
         "MPSC Rajyaseva 2026",
@@ -388,6 +399,7 @@
       "name": "RPSC",
       "fullName": "Rajasthan Public Service Commission",
       "url": "https://rpsc.rajasthan.gov.in",
+      "notificationsUrl": "https://rpsc.rajasthan.gov.in/news.aspx",
       "tier": 2,
       "searchQueries": [
         "RPSC RAS 2026",
@@ -408,6 +420,7 @@
       "name": "TNPSC",
       "fullName": "Tamil Nadu Public Service Commission",
       "url": "https://www.tnpsc.gov.in",
+      "notificationsUrl": "https://www.tnpsc.gov.in/current-notifications.html",
       "tier": 2,
       "searchQueries": [
         "TNPSC Group 1 2026",
@@ -486,6 +499,7 @@
       "name": "UPPRPB",
       "fullName": "Uttar Pradesh Police Recruitment and Promotion Board",
       "url": "https://uppbpb.gov.in",
+      "notificationsUrl": "https://uppbpb.gov.in/pages/viewpage/news",
       "tier": 2,
       "searchQueries": [
         "UP Police Constable 2026",
