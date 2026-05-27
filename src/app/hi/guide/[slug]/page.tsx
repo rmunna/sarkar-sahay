@@ -1,4 +1,4 @@
-import { getHindiGuideBySlug, getAllHindiGuideSlugs, getHindiGuideRawContent, getRelatedHindiGuides } from "@/lib/guides-hi";
+import { getHindiGuideBySlug, getHindiGuideRawContent, getRelatedHindiGuides } from "@/lib/guides-hi";
 import { generateFAQSchema, generateArticleSchema, generateHowToSchema, extractFAQs } from "@/lib/faq-schema";
 import { notFound } from "next/navigation";
 import Link from "next/link";
@@ -8,8 +8,12 @@ interface Props {
   params: Promise<{ slug: string }>;
 }
 
+// ISR: render on first request, cache for 24 hours. Avoids pre-rendering 300 Hindi pages at build time.
+export const dynamicParams = true;
+export const revalidate = 86400; // 24 hours
+
 export async function generateStaticParams() {
-  return getAllHindiGuideSlugs().map((slug) => ({ slug }));
+  return []; // No pages pre-rendered at build time — all served via ISR
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

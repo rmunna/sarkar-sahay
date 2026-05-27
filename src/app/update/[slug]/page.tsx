@@ -1,4 +1,4 @@
-import { getUpdateBySlug, getAllUpdateSlugs, getUpdateRawContent, getRelatedUpdates } from "@/lib/updates";
+import { getUpdateBySlug, getUpdateRawContent, getRelatedUpdates } from "@/lib/updates";
 import { generateFAQSchema, extractFAQs } from "@/lib/faq-schema";
 import { notFound } from "next/navigation";
 import Link from "next/link";
@@ -8,8 +8,12 @@ interface Props {
   params: Promise<{ slug: string }>;
 }
 
+// ISR: render on first request, cache for 1 hour. Updates are time-sensitive (result/admit card pages).
+export const dynamicParams = true;
+export const revalidate = 3600; // 1 hour
+
 export async function generateStaticParams() {
-  return getAllUpdateSlugs().map((slug) => ({ slug }));
+  return []; // No pages pre-rendered at build time — all served via ISR
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
