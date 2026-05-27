@@ -5,7 +5,7 @@ category: "Results"
 type: "result"
 organization: "DSSSB"
 examName: "DSSSB Combined Examination Post Code 818/24 — Store Keeper & Store Supervisor"
-stage: "final-result"
+stage: "result"
 keywords:
   - "dsssb result 2026"
   - "dsssb post code 818/24 result"

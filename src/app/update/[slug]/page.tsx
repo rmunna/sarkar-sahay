@@ -95,6 +95,7 @@ const stageInfo: Record<string, { label: string; icon: string; color: string }> 
   "answer-key": { label: "Answer Key", icon: "🔑", color: "bg-teal-100 text-teal-800 border-teal-200" },
   result: { label: "Result", icon: "📊", color: "bg-green-100 text-green-800 border-green-200" },
   cutoff: { label: "Cutoff", icon: "📉", color: "bg-rose-100 text-rose-800 border-rose-200" },
+  registration: { label: "Registration", icon: "📝", color: "bg-indigo-100 text-indigo-800 border-indigo-200" },
 };
 
 // Status badge
@@ -261,7 +262,7 @@ export default async function UpdatePage({ params }: Props) {
               {update.publishedDate && (
                 <span>Published: {formatDate(update.publishedDate)}</span>
               )}
-              {update.vacancies && (
+              {update.vacancies && update.vacancies !== "TBA" && String(update.vacancies).toLowerCase() !== "tba" && (
                 <span className="font-semibold text-orange-600">
                   {typeof update.vacancies === "number"
                     ? `${update.vacancies.toLocaleString("en-IN")} Vacancies`

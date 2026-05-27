@@ -5,7 +5,7 @@ category: "Results"
 type: "result"
 organization: "ICAI"
 examName: "ICAI CA Final Examination January 2026"
-stage: "final-result"
+stage: "result"
 keywords:
   - "ICAI CA Final result January 2026"
   - "CA Final result 2026"

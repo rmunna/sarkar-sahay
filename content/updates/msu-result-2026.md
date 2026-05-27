@@ -16,7 +16,7 @@ keywords:
   - "msu ug pg result 2026"
 organization: "MSU Baroda"
 examName: "Maharaja Sayajirao University of Baroda Semester Exams 2026"
-stage: "final-result"
+stage: "result"
 importantDates:
   resultDate: "2026-03-19"
 officialLinks:

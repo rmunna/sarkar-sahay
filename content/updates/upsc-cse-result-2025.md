@@ -5,7 +5,7 @@ category: "Results"
 type: "result"
 organization: "UPSC"
 examName: "UPSC CSE 2025"
-stage: "final-result"
+stage: "result"
 keywords: ["upsc result 2025", "upsc result", "upsc result 2026", "upsc cse result 2025", "upsc final result 2025", "upsc topper 2025", "ias result 2025", "upsc civil services result"]
 importantDates:
   notificationDate: "2025-02-12"

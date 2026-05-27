@@ -5,7 +5,7 @@ category: "Government Jobs"
 type: "notification"
 organization: "Staff Selection Commission (SSC)"
 examName: "Combined Graduate Level Examination 2026 (SSC CGL 2026)"
-stage: "Notification Expected (March 2026)"
+stage: "notification"
 keywords:
   - "SSC CGL 2026"
   - "SSC CGL 2026 notification"

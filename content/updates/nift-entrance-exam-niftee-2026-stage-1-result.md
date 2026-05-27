@@ -5,7 +5,7 @@ category: "Results"
 type: "result"
 organization: "NTA"
 examName: "NIFTEE 2026 Stage 1"
-stage: "prelim-result"
+stage: "result"
 keywords:
   - "NIFTEE 2026 result"
   - "NIFT entrance exam result 2026"

@@ -5,7 +5,7 @@ category: "Results"
 type: "result"
 organization: "IBPS"
 examName: "IBPS Clerk (CRP CSA XV)"
-stage: "final-result"
+stage: "result"
 keywords:
   - "ibps clerk mains result 2026"
   - "ibps clerk result 2025-26"

@@ -5,7 +5,7 @@ category: "Registrations"
 type: "registration"
 organization: "RRB"
 examName: "RRB Group D 2026"
-stage: "registration-open"
+stage: "registration"
 keywords: ["rrb group d last date", "rrb group d apply", "rrb group d 2026 registration", "rrb group d last date to apply", "railway group d apply online", "rrb group d 2026 last date", "rrbapply.gov.in registration", "rrb group d application form 2026", "railway group d 2026 vacancy"]
 importantDates:
   notificationDate: "2025-12-27"

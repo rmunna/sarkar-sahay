@@ -5,7 +5,7 @@ category: "Registrations"
 type: "registration"
 organization: "NTA"
 examName: "Navayug School Sarojini Nagar Entrance Test (NSSNET) 2026"
-stage: "registration-open"
+stage: "registration"
 keywords: ["nssnet 2026", "navayug school entrance test", "nssnet registration", "nta nssnet 2026", "nssnet last date extended", "navayug school admission 2026", "nssnet apply online", "nta nssnet registration 2026", "navayug school class 6 admission", "nssnet exam date 2026"]
 importantDates:
   notificationDate: "2026-02-25"

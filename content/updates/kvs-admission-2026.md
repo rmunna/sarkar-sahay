@@ -5,7 +5,7 @@ category: "Registrations"
 type: "registration"
 organization: "KVS"
 examName: "KVS Admission 2026-27"
-stage: "registration-open"
+stage: "registration"
 keywords:
   - "kvs admission 2026"
   - "kendriya vidyalaya admission"

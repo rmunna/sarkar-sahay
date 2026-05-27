@@ -5,7 +5,7 @@ category: "Results"
 type: "result"
 organization: "ICAI"
 examName: "CA Intermediate Examination"
-stage: "final-result"
+stage: "result"
 keywords:
   - "CA Inter result January 2026"
   - "ICAI CA Intermediate result"

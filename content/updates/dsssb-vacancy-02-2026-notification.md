@@ -5,7 +5,7 @@ category: "Notifications"
 type: "notification"
 organization: "DSSSB"
 examName: "DSSSB Recruitment 2026 — Advertisement No. 02/2026"
-stage: "registration-open"
+stage: "registration"
 keywords: ["DSSSB vacancy 2026", "DSSSB advertisement 02/2026", "DSSSB post code 01/26 to 20/26", "DSSSB apply online 2026", "DSSSB recruitment 2026", "DSSSB Delhi vacancy", "DSSSB notification March 2026", "dsssb.delhi.gov.in apply", "DSSSB new vacancy 2026", "Delhi government jobs 2026"]
 importantDates:
   notificationDate: "2026-02-25"

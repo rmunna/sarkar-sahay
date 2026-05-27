@@ -5,7 +5,7 @@ category: "Results"
 type: "result"
 organization: "University of Madras (UNOM)"
 examName: "Madras University UG PG Examinations 2026"
-stage: "final-result"
+stage: "result"
 keywords: ["madras university result", "madras university result 2026", "unom result", "university of madras result", "unom ug result", "unom pg result", "madras university semester result", "unom exam result 2026", "results.unom.ac.in"]
 importantDates:
   resultDate: "2026-03-01"

@@ -5,7 +5,7 @@ category: "Government Jobs"
 type: "exam-schedule"
 organization: "SSC"
 examName: "SSC GD Constable 2026"
-stage: "exam-postponed"
+stage: "exam-schedule"
 keywords: ["ssc gd 2026 postponed", "ssc gd exam date 2026", "ssc gd constable postponed", "ssc gd new exam date"]
 importantDates:
   notificationDate: "2025-11-01"

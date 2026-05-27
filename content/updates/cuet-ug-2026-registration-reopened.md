@@ -5,7 +5,7 @@ category: "Entrance Exams"
 type: "notification"
 organization: "NTA"
 examName: "CUET UG 2026"
-stage: "registration-reopened"
+stage: "registration"
 keywords: ["cuet ug 2026", "cuet registration reopened", "cuet ug apply online 2026", "nta cuet 2026", "cuet last date extended"]
 importantDates:
   registrationReopened: "2026-02-23"

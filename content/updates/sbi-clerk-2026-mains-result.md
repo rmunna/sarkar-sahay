@@ -5,7 +5,7 @@ category: "Results"
 type: "result"
 organization: "SBI"
 examName: "SBI Clerk 2025-26"
-stage: "mains-result"
+stage: "result"
 keywords: ["sbi clerk mains result 2026", "sbi clerk result", "sbi junior associate result", "sbi clerk mains cut off 2026", "sbi clerk scorecard 2026"]
 importantDates:
   notificationDate: "2025-07-15"

@@ -16,7 +16,7 @@ keywords:
   - "bihar board intermediate result date"
 organization: "BSEB"
 examName: "Bihar Board Class 12 Intermediate Exam 2026"
-stage: "final-result"
+stage: "result"
 publishedDate: "2026-03-19"
 expiryDate: "2026-06-19"
 officialLinks:

@@ -5,7 +5,7 @@ category: "Jobs & Exams"
 type: "result"
 organization: "Visvesvaraya Technological University (VTU)"
 examName: "VTU Semester Exam Results 2026"
-stage: "final-result"
+stage: "result"
 keywords:
   - "vtu results 2026"
   - "results.vtu.ac.in"

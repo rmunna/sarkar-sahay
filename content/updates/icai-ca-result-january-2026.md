@@ -5,7 +5,7 @@ category: "Jobs & Exams"
 type: "result"
 organization: "ICAI"
 examName: "ICAI CA Examination January 2026"
-stage: "final-result"
+stage: "result"
 keywords: ["icai ca result january 2026", "ca final result 2026", "ca inter result january 2026", "icai result", "ca foundation result 2026", "icai.nic.in result", "caresults.icai.org", "ca result by roll number", "icai merit list 2026", "ca marksheet download", "icai ca pass percentage 2026", "ca revaluation 2026"]
 importantDates:
   examDate: "2026-01-09"

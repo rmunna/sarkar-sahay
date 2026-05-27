@@ -5,7 +5,7 @@ category: "Results"
 type: "result"
 organization: "MDU"
 examName: "MDU UG PG Examination 2026"
-stage: "final-result"
+stage: "result"
 keywords: ["mdu result 2026", "maharshi dayanand university result", "mdu rohtak result", "mdu ug result 2026", "mdu pg result 2026", "mdu ba result", "mdu bsc result", "mdu ma result", "result.mdurtk.in", "mdu exam result check"]
 importantDates:
   resultDate: "2026-03-02"

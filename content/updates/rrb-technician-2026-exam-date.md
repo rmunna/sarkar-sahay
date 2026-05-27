@@ -5,7 +5,7 @@ category: "Admit Cards"
 type: "exam-schedule"
 organization: "RRB"
 examName: "RRB Technician 2026"
-stage: "exam-date"
+stage: "exam-schedule"
 keywords: ["rrb technician exam date 2026", "rrb technician admit card 2026", "rrb technician city slip", "railway technician exam 2026", "cen 02/2025"]
 importantDates:
   notificationDate: "2025-07-01"

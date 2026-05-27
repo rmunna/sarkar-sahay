@@ -5,7 +5,7 @@ category: "Jobs & Exams"
 type: "result"
 organization: "Samastha Kerala Islam Matha Vidyabhyasa Board (SKIMVB)"
 examName: "Samastha Kerala Public Exam 2026"
-stage: "final-result"
+stage: "result"
 keywords:
   - "samastha result 2026"
   - "samastha public exam result 2026"

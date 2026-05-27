@@ -33,7 +33,7 @@ const LATEST_PATH      = path.join(ROOT, 'agents/exam-monitor-latest.json');
 const RUN_LOG_PATH     = path.join(ROOT, 'agents/generate-updates-run.log');
 
 const SITE_URL         = 'https://www.citizennest.com';
-const MODEL_NAME       = 'gemini-1.5-flash';          // Free tier
+const MODEL_NAME       = 'gemini-2.5-flash';          // Free tier (1500 req/day)
 const MAX_SEARCHES_PER_RUN = 20;                       // Stay within free quota
 const SEARCH_FRESHNESS = 'w1';                         // Past 1 week
 
@@ -222,8 +222,8 @@ Return JSON in this EXACT schema:
     "type": "notification" | "admit-card" | "result" | "answer-key" | "cutoff" | "exam-schedule",
     "examName": "full exam name with year, e.g. SSC CGL 2026",
     "headline": "short factual headline",
-    "officialUrl": "direct URL to the official page or notification",
-    "backupUrl": "second official source URL (required for verification)",
+    "officialUrl": "ROOT domain URL only — e.g. https://ssc.gov.in NOT https://ssc.gov.in/uploads/notification123.pdf",
+    "backupUrl": "second official source ROOT domain URL (required for verification)",
     "vacancies": number | "TBA" | null,
     "importantDates": {
       "notificationDate": "YYYY-MM-DD" | "TBA",
@@ -258,6 +258,50 @@ async function generateContent(source, announcement) {
    */
   const today = new Date().toISOString().split('T')[0];
 
+  // Stage-specific content structure instructions
+  const stageStructure = {
+    'result': `Structure:
+- ## [ExamName] Result [Year] — Overview (intro with result date, board/body name, total appeared)
+- ## How to Check Result (numbered steps: visit URL → enter roll number → submit → download)
+- ## What Details Are Shown (marks, grade, percentage, pass/fail)
+- ## Important Dates (only show resultDate and any re-checking deadline)
+- ## FAQs (When declared? How to check? What if server is down? Is online result valid for admission?)
+DO NOT include: Vacancy Details, Eligibility, How to Apply — they are irrelevant for results.`,
+
+    'admit-card': `Structure:
+- ## [ExamName] Admit Card — Overview (exam date, issuing authority, what's on the card)
+- ## How to Download Admit Card (numbered steps: visit URL → enter registration/roll → download/print)
+- ## Details on Admit Card (name, photo, exam centre, timing, instructions)
+- ## Important Dates (admitCardDate, examDate)
+- ## FAQs (When available? What if I forgot registration? Can I use mobile phone as admit card?)
+DO NOT include: Vacancy Details, Eligibility, How to Apply.`,
+
+    'notification': `Structure:
+- ## What is [ExamName]? (what it is, who conducts it, what posts are filled)
+- ## Important Dates (all relevant dates from the notification)
+- ## Vacancy Details (total and category-wise if available; state TBA if not)
+- ## Eligibility Criteria (age, education, nationality)
+- ## Application Fee (category-wise, payment mode)
+- ## How to Apply Online (numbered steps)
+- ## FAQs (last date? eligible? documents? fee exemption?)`,
+
+    'answer-key': `Structure:
+- ## [ExamName] Answer Key — Overview (when released, set-wise, how to use it)
+- ## How to Download Answer Key (numbered steps)
+- ## How to Raise an Objection (if applicable — steps, fee, deadline)
+- ## Important Dates (answer key release date, objection deadline if any)
+- ## FAQs (How to challenge? What is objection fee? When will final key come?)`,
+
+    'default': `Structure:
+- ## Overview (what this update is about)
+- ## Important Dates
+- ## Key Details
+- ## What to Do Next (action steps for candidates)
+- ## FAQs`,
+  };
+
+  const structure = stageStructure[announcement.type] || stageStructure['default'];
+
   const prompt = `
 You are writing a factual, helpful guide for an Indian government exam information website (citizennest.com).
 
@@ -266,23 +310,25 @@ Write a complete guide for this announcement:
 Organization: ${source.name} (${source.fullName})
 Exam: ${announcement.examName}
 Type: ${announcement.type}
-Official URL: ${announcement.officialUrl}
-Vacancies: ${announcement.vacancies ?? 'TBA'}
-Important Dates: ${JSON.stringify(announcement.importantDates, null, 2)}
+Official website: ${getDomain(announcement.officialUrl)} (link to the domain, not deep paths)
+Vacancies: ${announcement.vacancies ?? 'Not applicable'}
+Important Dates: ${JSON.stringify(
+    Object.fromEntries(Object.entries(announcement.importantDates || {}).filter(([,v]) => v && v !== 'TBA')),
+    null, 2
+  )}
 Published: ${today}
 
 CONTENT RULES:
-1. Write only CONFIRMED facts. Use "TBA" or "To be announced" for unknown details — NEVER guess
-2. Do not invent vacancy numbers, dates, salary figures, or eligibility criteria
-3. Structure: intro paragraph → Important Dates table → Vacancy Details → Eligibility → How to Apply → FAQs
-4. FAQs must directly answer what users search for (e.g. "When is the last date to apply?", "How to download admit card?")
-5. Include a "How to Check [Result/Download Admit Card/Apply]" section with numbered steps
-6. Link to the official website in the content body
-7. Length: 400-700 words for results/admit cards, 600-900 words for notifications
-8. Tone: factual, helpful, no clickbait, no "hurry apply now" language
+1. Write only CONFIRMED facts. Use "TBA" or "To be announced" for unknown details — NEVER guess or invent
+2. Do NOT invent vacancy numbers, dates, salary figures, eligibility criteria, or specific portal URLs
+3. Link to the official website domain only (e.g. cbseresults.nic.in) — never guess deep paths like /result2026.htm
+4. Tone: factual, helpful, no clickbait, no urgency pressure language
+5. Length: 400-650 words for results/admit-cards, 600-900 words for notifications
+6. FAQs must answer exactly what students Google (5 realistic Q&As)
 
-Write ONLY the markdown body (no frontmatter — that's handled separately).
-Start directly with ## What is [Exam Name]? or ## [Exam] [Stage] Released
+${structure}
+
+Write ONLY the markdown body (no frontmatter). Start with the first ## heading directly.
 `;
 
   try {
@@ -322,15 +368,22 @@ function buildFrontmatter(source, announcement, slug) {
     ? 'Results'
     : (categoryMap[announcement.type] || 'Government Jobs');
 
-  // Auto-generate keywords
-  const keywords = [
-    `${announcement.examName.toLowerCase()} ${announcement.type.replace('-', ' ')}`,
-    `${announcement.examName.toLowerCase()} 2026`,
-    `${source.name.toLowerCase()} ${announcement.type.replace('-', ' ')} 2026`,
-    ...(announcement.type === 'notification' ? [`${announcement.examName.toLowerCase()} apply online`] : []),
-    ...(announcement.type === 'result' ? [`${announcement.examName.toLowerCase()} result date`] : []),
-    ...(announcement.type === 'admit-card' ? [`${announcement.examName.toLowerCase()} hall ticket download`] : []),
+  // Auto-generate keywords — deduplicated, no trailing year if already in examName
+  const examLower = announcement.examName.toLowerCase();
+  const alreadyHasYear = /\b202[4-9]\b/.test(examLower);
+  const yearSuffix = alreadyHasYear ? '' : ' 2026';
+  const typeLabel = announcement.type.replace(/-/g, ' ');
+  const rawKeywords = [
+    `${examLower} ${typeLabel}`,
+    `${examLower}${yearSuffix}`,
+    `${source.name.toLowerCase()} ${typeLabel} 2026`,
+    ...(announcement.type === 'notification' ? [`${examLower} apply online`, `${examLower} notification 2026`] : []),
+    ...(announcement.type === 'result' ? [`${examLower} result date`, `${examLower} marksheet download`] : []),
+    ...(announcement.type === 'admit-card' ? [`${examLower} hall ticket download`, `${examLower} admit card 2026`] : []),
+    ...(announcement.type === 'answer-key' ? [`${examLower} answer key pdf`, `${examLower} objection`] : []),
   ];
+  // Deduplicate
+  const keywords = [...new Set(rawKeywords.map(k => k.trim()).filter(Boolean))];
 
   const fm = {
     title: buildTitle(announcement, source),
@@ -342,7 +395,7 @@ function buildFrontmatter(source, announcement, slug) {
     stage: announcement.type,
     keywords,
     importantDates: Object.fromEntries(
-      Object.entries(announcement.importantDates || {}).filter(([, v]) => v)
+      Object.entries(announcement.importantDates || {}).filter(([, v]) => v && v !== 'TBA' && v !== 'null')
     ),
     officialLinks: [announcement.officialUrl, announcement.backupUrl].filter(Boolean).filter(isOfficialUrl),
     readingTime: '5 min',
@@ -377,7 +430,10 @@ function buildTitle(announcement, source) {
 
   if (announcement.type === 'result') {
     const resultDate = announcement.importantDates?.resultDate;
-    return `${announcement.examName} ${label} ${resultDate && resultDate !== 'TBA' ? resultDate.slice(0, 7) : ''} — Direct Link at ${getDomain(announcement.officialUrl)}`.trim();
+    const dateLabel = resultDate && resultDate !== 'TBA'
+      ? (() => { try { return new Date(resultDate).toLocaleDateString('en-IN', { month: 'long', year: 'numeric' }); } catch { return ''; } })()
+      : '';
+    return `${announcement.examName} ${label}${dateLabel ? ` ${dateLabel}` : ''} — Check at ${getDomain(announcement.officialUrl)}`.trim();
   }
 
   if (announcement.type === 'admit-card') {
@@ -400,7 +456,10 @@ function buildDescription(announcement, source) {
       : '';
     desc = `${announcement.examName} official notification out. ${vac}${applyBy}Check eligibility, dates & apply at ${getDomain(announcement.officialUrl)}.`;
   } else if (announcement.type === 'result') {
-    desc = `${announcement.examName} result declared. Check your result, scorecard, and cut-off marks at ${getDomain(announcement.officialUrl)}. Direct link inside.`;
+    const resultDate = announcement.importantDates?.resultDate && announcement.importantDates.resultDate !== 'TBA'
+      ? formatDate(announcement.importantDates.resultDate) : null;
+    const dateClause = resultDate ? ` out ${resultDate}.` : ' declared.';
+    desc = `${announcement.examName} result${dateClause} Check marksheet, subject-wise marks and pass/fail status at ${getDomain(announcement.officialUrl)}.`;
   } else if (announcement.type === 'admit-card') {
     const examDate = announcement.importantDates?.examDate && announcement.importantDates.examDate !== 'TBA'
       ? ` Exam on ${formatDate(announcement.importantDates.examDate)}.`

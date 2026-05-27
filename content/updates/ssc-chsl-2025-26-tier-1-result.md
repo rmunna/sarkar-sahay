@@ -5,7 +5,7 @@ category: "Results"
 type: "result"
 organization: "SSC"
 examName: "SSC CHSL 2025-26"
-stage: "tier-1-result"
+stage: "result"
 keywords: ["ssc chsl result 2025", "ssc chsl tier 1 result", "ssc chsl result 2026", "ssc chsl cutoff 2025", "ssc chsl tier 2"]
 importantDates:
   notificationDate: "2025-06-15"

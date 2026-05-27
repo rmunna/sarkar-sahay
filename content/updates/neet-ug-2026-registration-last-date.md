@@ -5,7 +5,7 @@ category: "Registrations"
 type: "registration"
 organization: "NTA"
 examName: "NEET UG 2026"
-stage: "registration-open"
+stage: "registration"
 keywords: ["neet registration 2026", "neet ug 2026 last date", "neet apply online", "neet registration deadline", "neet ug 2026 application form", "neet 2026 exam date", "nta neet 2026", "neet application last date 2026"]
 importantDates:
   notificationDate: "2026-02-01"

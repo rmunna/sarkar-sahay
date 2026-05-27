@@ -15,8 +15,17 @@
         "SSC GD 2026",
         "SSC CPO 2026 result"
       ],
-      "exams": ["CGL", "CHSL", "MTS", "GD Constable", "CPO", "JE", "Stenographer", "JHT"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "CGL",
+        "CHSL",
+        "MTS",
+        "GD Constable",
+        "CPO",
+        "JE",
+        "Stenographer",
+        "JHT"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "upsc",
@@ -31,8 +40,16 @@
         "UPSC CDS 2026",
         "UPSC CAPF 2026"
       ],
-      "exams": ["Civil Services", "NDA", "CDS", "CAPF", "IES/ISS", "CMS", "IFS"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "Civil Services",
+        "NDA",
+        "CDS",
+        "CAPF",
+        "IES/ISS",
+        "CMS",
+        "IFS"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "rrb",
@@ -47,8 +64,15 @@
         "RRB ALP 2026",
         "Railway recruitment 2026 result"
       ],
-      "exams": ["NTPC", "Group D", "ALP", "JE", "Paramedical", "Ministerial"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "NTPC",
+        "Group D",
+        "ALP",
+        "JE",
+        "Paramedical",
+        "Ministerial"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "ibps",
@@ -63,8 +87,14 @@
         "IBPS RRB 2026",
         "IBPS result 2026"
       ],
-      "exams": ["PO", "Clerk", "SO", "RRB Officer", "RRB Office Assistant"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "PO",
+        "Clerk",
+        "SO",
+        "RRB Officer",
+        "RRB Office Assistant"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "sbi",
@@ -78,8 +108,12 @@
         "SBI SO 2026",
         "SBI result 2026"
       ],
-      "exams": ["PO", "Clerk", "SO"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "PO",
+        "Clerk",
+        "SO"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "nta",
@@ -95,8 +129,16 @@
         "CTET 2026",
         "NTA admit card 2026"
       ],
-      "exams": ["JEE Main", "NEET UG", "CUET UG", "CUET PG", "UGC NET", "CSIR NET", "CTET"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "JEE Main",
+        "NEET UG",
+        "CUET UG",
+        "CUET PG",
+        "UGC NET",
+        "CSIR NET",
+        "CTET"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "cbse",
@@ -110,8 +152,11 @@
         "CBSE board result 2026",
         "cbseresults.nic.in 2026"
       ],
-      "exams": ["Class 10 Board", "Class 12 Board"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "Class 10 Board",
+        "Class 12 Board"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "upmsp",
@@ -125,8 +170,11 @@
         "UP 12th result 2026",
         "upmsp result 2026"
       ],
-      "exams": ["Class 10 (Madhyamik)", "Class 12 (Intermediate)"],
-      "lastScanned": "2026-01-01",
+      "exams": [
+        "Class 10 (Madhyamik)",
+        "Class 12 (Intermediate)"
+      ],
+      "lastScanned": "2026-05-27",
       "_note": "UP Board result gets 2 crore+ searches on result day"
     },
     {
@@ -141,8 +189,11 @@
         "BSEB 12th result 2026",
         "Bihar Board Matric result 2026"
       ],
-      "exams": ["Class 10 (Matric)", "Class 12 (Inter)"],
-      "lastScanned": "2026-01-01",
+      "exams": [
+        "Class 10 (Matric)",
+        "Class 12 (Inter)"
+      ],
+      "lastScanned": "2026-05-27",
       "_note": "Bihar Board result gets 1 crore+ searches on result day"
     },
     {
@@ -158,8 +209,11 @@
         "10th result Maharashtra 2026",
         "12th result Maharashtra 2026"
       ],
-      "exams": ["SSC (Class 10)", "HSC (Class 12)"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "SSC (Class 10)",
+        "HSC (Class 12)"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "rbi",
@@ -172,8 +226,11 @@
         "RBI Assistant 2026",
         "RBI recruitment 2026"
       ],
-      "exams": ["Grade B", "Assistant"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "Grade B",
+        "Assistant"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "gate",
@@ -186,8 +243,10 @@
         "GATE 2026 result",
         "GATE 2027 notification"
       ],
-      "exams": ["GATE"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "GATE"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "uppsc",
@@ -201,8 +260,12 @@
         "UPPSC result 2026",
         "UPPSC RO ARO 2026"
       ],
-      "exams": ["PCS", "RO/ARO", "ACF/RFO"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "PCS",
+        "RO/ARO",
+        "ACF/RFO"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "bpsc",
@@ -216,8 +279,12 @@
         "BPSC 71st 2026",
         "BPSC result 2026"
       ],
-      "exams": ["CCE", "Teacher", "TRE"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "CCE",
+        "Teacher",
+        "TRE"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "army",
@@ -231,8 +298,13 @@
         "Army rally 2026",
         "Indian Army result 2026"
       ],
-      "exams": ["Agniveer", "TGC", "SSC Tech", "NCC Special Entry"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "Agniveer",
+        "TGC",
+        "SSC Tech",
+        "NCC Special Entry"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "navy",
@@ -245,8 +317,13 @@
         "Indian Navy recruitment 2026",
         "Navy SSR MR 2026"
       ],
-      "exams": ["Agniveer SSR", "Agniveer MR", "AA", "SSC Officer"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "Agniveer SSR",
+        "Agniveer MR",
+        "AA",
+        "SSC Officer"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "airforce",
@@ -259,8 +336,11 @@
         "IAF recruitment 2026",
         "Agniveer Vayu 2026"
       ],
-      "exams": ["Agniveer Vayu", "AFCAT"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "Agniveer Vayu",
+        "AFCAT"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "ctet",
@@ -273,8 +353,11 @@
         "CTET 2026 result",
         "CTET admit card 2026"
       ],
-      "exams": ["CTET Paper 1", "CTET Paper 2"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "CTET Paper 1",
+        "CTET Paper 2"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "mpsc",
@@ -288,8 +371,14 @@
         "MPSC result 2026",
         "MPSC notification 2026"
       ],
-      "exams": ["Rajyaseva", "Group B", "Group C", "STI", "PSI"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "Rajyaseva",
+        "Group B",
+        "Group C",
+        "STI",
+        "PSI"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "rpsc",
@@ -303,8 +392,13 @@
         "RPSC result 2026",
         "RPSC 1st Grade Teacher 2026"
       ],
-      "exams": ["RAS", "1st Grade Teacher", "2nd Grade Teacher", "ACF/FRO"],
-      "lastScanned": "2026-01-01"
+      "exams": [
+        "RAS",
+        "1st Grade Teacher",
+        "2nd Grade Teacher",
+        "ACF/FRO"
+      ],
+      "lastScanned": "2026-05-27"
     },
     {
       "id": "tnpsc",
@@ -318,7 +412,12 @@
         "TNPSC Group 4 2026",
         "TNPSC result 2026"
       ],
-      "exams": ["Group 1", "Group 2", "Group 4", "CCSE"],
+      "exams": [
+        "Group 1",
+        "Group 2",
+        "Group 4",
+        "CCSE"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -333,7 +432,12 @@
         "KPSC recruitment 2026",
         "KPSC result 2026"
       ],
-      "exams": ["KAS", "FDA", "SDA", "PDO"],
+      "exams": [
+        "KAS",
+        "FDA",
+        "SDA",
+        "PDO"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -348,7 +452,12 @@
         "WBPSC recruitment 2026",
         "WBPSC result 2026"
       ],
-      "exams": ["WBCS", "Clerkship", "Food SI", "JE"],
+      "exams": [
+        "WBCS",
+        "Clerkship",
+        "Food SI",
+        "JE"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -362,7 +471,11 @@
         "OPSC recruitment 2026",
         "OPSC result 2026"
       ],
-      "exams": ["OAS", "OFS", "Medical Officer"],
+      "exams": [
+        "OAS",
+        "OFS",
+        "Medical Officer"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -377,7 +490,11 @@
         "UPPRPB recruitment 2026",
         "UP Police result 2026"
       ],
-      "exams": ["Constable", "Sub-Inspector", "Head Operator"],
+      "exams": [
+        "Constable",
+        "Sub-Inspector",
+        "Head Operator"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -392,7 +509,12 @@
         "RSMSSB recruitment 2026",
         "Rajasthan Police Constable 2026"
       ],
-      "exams": ["Constable", "Patwari", "LDC", "Lab Assistant"],
+      "exams": [
+        "Constable",
+        "Patwari",
+        "LDC",
+        "Lab Assistant"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -407,7 +529,13 @@
         "DSSSB TGT PGT 2026",
         "DSSSB notification 2026"
       ],
-      "exams": ["TGT", "PGT", "PRT", "Clerk", "Store Keeper"],
+      "exams": [
+        "TGT",
+        "PGT",
+        "PRT",
+        "Clerk",
+        "Store Keeper"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -421,7 +549,11 @@
         "NABARD Grade B 2026",
         "NABARD recruitment 2026"
       ],
-      "exams": ["Grade A", "Grade B", "Office Attendant"],
+      "exams": [
+        "Grade A",
+        "Grade B",
+        "Office Attendant"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -435,7 +567,11 @@
         "EPFO recruitment 2026",
         "EPFO Social Security Assistant 2026"
       ],
-      "exams": ["SSA", "Assistant", "Enforcement Officer"],
+      "exams": [
+        "SSA",
+        "Assistant",
+        "Enforcement Officer"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -449,7 +585,12 @@
         "ESIC UDC 2026",
         "ESIC IMO 2026"
       ],
-      "exams": ["UDC", "MTS", "IMO", "Stenographer"],
+      "exams": [
+        "UDC",
+        "MTS",
+        "IMO",
+        "Stenographer"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -464,7 +605,10 @@
         "Maharashtra CET 2026",
         "mahacet result 2026"
       ],
-      "exams": ["PCM", "PCB"],
+      "exams": [
+        "PCM",
+        "PCB"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -478,7 +622,9 @@
         "WBJEE 2026 admit card",
         "WBJEE rank card 2026"
       ],
-      "exams": ["WBJEE"],
+      "exams": [
+        "WBJEE"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -493,7 +639,10 @@
         "CEE Kerala 2026",
         "KEAM rank list 2026"
       ],
-      "exams": ["KEAM Engineering", "KEAM Architecture"],
+      "exams": [
+        "KEAM Engineering",
+        "KEAM Architecture"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -508,7 +657,10 @@
         "AP EAMCET rank card 2026",
         "AP EAMCET admit card 2026"
       ],
-      "exams": ["Engineering", "Agriculture"],
+      "exams": [
+        "Engineering",
+        "Agriculture"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -522,7 +674,10 @@
         "TSEAPCET 2026 result",
         "TS EAMCET rank card 2026"
       ],
-      "exams": ["Engineering", "Agriculture"],
+      "exams": [
+        "Engineering",
+        "Agriculture"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -537,7 +692,9 @@
         "KEA KCET 2026",
         "Karnataka CET 2026 rank"
       ],
-      "exams": ["KCET"],
+      "exams": [
+        "KCET"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -551,7 +708,9 @@
         "GUJCET 2026 answer key",
         "Gujarat CET 2026"
       ],
-      "exams": ["GUJCET"],
+      "exams": [
+        "GUJCET"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -565,7 +724,11 @@
         "HPSC recruitment 2026",
         "Haryana PSC 2026"
       ],
-      "exams": ["HCS", "Naib Tehsildar", "Canal Patwari"],
+      "exams": [
+        "HCS",
+        "Naib Tehsildar",
+        "Canal Patwari"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -580,7 +743,12 @@
         "HSSC Constable 2026",
         "Haryana CET 2026"
       ],
-      "exams": ["Clerk", "Constable", "CET Group C", "CET Group D"],
+      "exams": [
+        "Clerk",
+        "Constable",
+        "CET Group C",
+        "CET Group D"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -594,7 +762,10 @@
         "JPSC recruitment 2026",
         "Jharkhand PSC 2026"
       ],
-      "exams": ["JPCS", "JDLRS"],
+      "exams": [
+        "JPCS",
+        "JDLRS"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -608,7 +779,11 @@
         "CGPSC recruitment 2026",
         "CG PSC 2026"
       ],
-      "exams": ["SCCS", "Forest Ranger", "Assistant Professor"],
+      "exams": [
+        "SCCS",
+        "Forest Ranger",
+        "Assistant Professor"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -622,7 +797,11 @@
         "APSC recruitment 2026",
         "Assam PSC 2026"
       ],
-      "exams": ["ACS", "APS", "Combined Competitive"],
+      "exams": [
+        "ACS",
+        "APS",
+        "Combined Competitive"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -635,7 +814,10 @@
         "UKPSC PCS 2026",
         "Uttarakhand PSC 2026"
       ],
-      "exams": ["PCS", "ACF"],
+      "exams": [
+        "PCS",
+        "ACF"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -648,7 +830,10 @@
         "AP TET 2026 notification",
         "AP TET 2026 result"
       ],
-      "exams": ["AP TET Paper 1", "AP TET Paper 2"],
+      "exams": [
+        "AP TET Paper 1",
+        "AP TET Paper 2"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -661,7 +846,10 @@
         "TS TET 2026 notification",
         "TSTET 2026 result"
       ],
-      "exams": ["TS TET Paper 1", "TS TET Paper 2"],
+      "exams": [
+        "TS TET Paper 1",
+        "TS TET Paper 2"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -675,7 +863,10 @@
         "UPTET 2026 result",
         "UP TET 2026"
       ],
-      "exams": ["UPTET Paper 1", "UPTET Paper 2"],
+      "exams": [
+        "UPTET Paper 1",
+        "UPTET Paper 2"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -689,7 +880,11 @@
         "MP TET 2026 result",
         "MPTET Varg 1 2 3 2026"
       ],
-      "exams": ["Varg 1 (PGT)", "Varg 2 (TGT)", "Varg 3 (Primary)"],
+      "exams": [
+        "Varg 1 (PGT)",
+        "Varg 2 (TGT)",
+        "Varg 3 (Primary)"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -702,7 +897,10 @@
         "REET 2026 notification",
         "REET 2026 result"
       ],
-      "exams": ["REET Level 1", "REET Level 2"],
+      "exams": [
+        "REET Level 1",
+        "REET Level 2"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -715,7 +913,10 @@
         "UKTET 2026 notification",
         "Uttarakhand TET 2026"
       ],
-      "exams": ["UKTET Paper 1", "UKTET Paper 2"],
+      "exams": [
+        "UKTET Paper 1",
+        "UKTET Paper 2"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -728,7 +929,9 @@
         "Punjab TET 2026 notification",
         "PSTET 2026 result"
       ],
-      "exams": ["PSTET"],
+      "exams": [
+        "PSTET"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -742,7 +945,10 @@
         "Jharkhand 10th result 2026",
         "Jharkhand 12th result 2026"
       ],
-      "exams": ["Class 10", "Class 12"],
+      "exams": [
+        "Class 10",
+        "Class 12"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -756,7 +962,10 @@
         "HBSE 12th result 2026",
         "Haryana Board result 2026"
       ],
-      "exams": ["Class 10", "Class 12"],
+      "exams": [
+        "Class 10",
+        "Class 12"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -770,7 +979,10 @@
         "PSEB 12th result 2026",
         "Punjab Board result 2026"
       ],
-      "exams": ["Class 10", "Class 12"],
+      "exams": [
+        "Class 10",
+        "Class 12"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -784,7 +996,10 @@
         "RBSE 12th result 2026",
         "Rajasthan Board result 2026"
       ],
-      "exams": ["Class 10", "Class 12"],
+      "exams": [
+        "Class 10",
+        "Class 12"
+      ],
       "lastScanned": "2026-01-01"
     },
     {
@@ -798,7 +1013,10 @@
         "CGBSE 12th result 2026",
         "CG Board result 2026"
       ],
-      "exams": ["Class 10", "Class 12"],
+      "exams": [
+        "Class 10",
+        "Class 12"
+      ],
       "lastScanned": "2026-01-01"
     }
   ]

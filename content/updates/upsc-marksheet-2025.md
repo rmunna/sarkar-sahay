@@ -5,7 +5,7 @@ category: "Results"
 type: "result"
 organization: "UPSC"
 examName: "UPSC Civil Services Examination 2025"
-stage: "final-result"
+stage: "result"
 keywords:
   - "upsc marksheet 2025"
   - "upsc marksheet download"

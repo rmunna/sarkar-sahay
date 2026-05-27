@@ -5,7 +5,7 @@ category: "Results"
 type: "result"
 organization: "NTA"
 examName: "CSIR NET December 2025"
-stage: "final-result"
+stage: "result"
 keywords: ["csir net result 2025", "csir net december 2025 result", "csir net score card", "csir ugc net result", "nta csir net 2025", "csir net jrf result"]
 importantDates:
   notificationDate: "2025-09-15"

@@ -1,117 +1,111 @@
 {
-  "scanTime": "2026-03-13T16:55:48.832Z",
-  "elapsedSeconds": 43.9,
-  "changesDetected": 17,
+  "scanTime": "2026-05-27T03:07:49.818Z",
+  "elapsedSeconds": 38.7,
+  "changesDetected": 16,
   "errors": 9,
   "changes": [
     {
       "site": "SBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-03-13T16:55:10.222Z"
+      "detectedAt": "2026-05-27T03:07:20.082Z"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-03-13T16:55:09.498Z"
+      "detectedAt": "2026-05-27T03:07:18.429Z"
     },
     {
       "site": "NABARD",
       "type": "CONTENT_CHANGE",
       "url": "https://www.nabard.org/career-notices.aspx",
-      "detectedAt": "2026-03-13T16:55:09.549Z"
+      "detectedAt": "2026-05-27T03:07:19.025Z"
     },
     {
       "site": "Indian Army",
       "type": "CONTENT_CHANGE",
       "url": "https://joinindianarmy.nic.in/",
-      "detectedAt": "2026-03-13T16:55:09.771Z"
+      "detectedAt": "2026-05-27T03:07:18.719Z"
     },
     {
       "site": "Indian Navy",
       "type": "CONTENT_CHANGE",
       "url": "https://www.joinindiannavy.gov.in/",
-      "detectedAt": "2026-03-13T16:55:10.500Z"
-    },
-    {
-      "site": "CRPF",
-      "type": "CONTENT_CHANGE",
-      "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-03-13T16:55:20.314Z"
+      "detectedAt": "2026-05-27T03:07:19.410Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-03-13T16:55:20.284Z"
+      "detectedAt": "2026-05-27T03:07:20.848Z"
     },
     {
       "site": "BSF",
       "type": "CONTENT_CHANGE",
       "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-03-13T16:55:19.884Z"
+      "detectedAt": "2026-05-27T03:07:20.649Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-03-13T16:55:22.050Z"
+      "detectedAt": "2026-05-27T03:07:24.051Z"
     },
     {
       "site": "NVS (Navodaya)",
       "type": "CONTENT_CHANGE",
       "url": "https://navodaya.gov.in/",
-      "detectedAt": "2026-03-13T16:55:22.359Z"
+      "detectedAt": "2026-05-27T03:07:23.180Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-03-13T16:55:23.549Z"
+      "detectedAt": "2026-05-27T03:07:26.101Z"
     },
     {
       "site": "RPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://rpsc.rajasthan.gov.in/",
-      "detectedAt": "2026-03-13T16:55:23.748Z"
+      "detectedAt": "2026-05-27T03:07:25.378Z"
+    },
+    {
+      "site": "TNPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://www.tnpsc.gov.in/",
+      "detectedAt": "2026-05-27T03:07:25.311Z"
     },
     {
       "site": "GPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://gpsc.gujarat.gov.in/",
-      "detectedAt": "2026-03-13T16:55:29.263Z"
+      "detectedAt": "2026-05-27T03:07:31.402Z"
     },
     {
       "site": "HPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://www.hpsc.gov.in/",
-      "detectedAt": "2026-03-13T16:55:29.422Z"
-    },
-    {
-      "site": "CTET",
-      "type": "CONTENT_CHANGE",
-      "url": "https://ctet.nic.in/",
-      "detectedAt": "2026-03-13T16:55:33.991Z"
+      "detectedAt": "2026-05-27T03:07:31.225Z"
     },
     {
       "site": "DSSSB",
       "type": "CONTENT_CHANGE",
       "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-03-13T16:55:34.381Z"
+      "detectedAt": "2026-05-27T03:07:36.100Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-03-13T16:55:33.876Z"
+      "detectedAt": "2026-05-27T03:07:35.740Z"
     }
   ],
   "errorDetails": [
     {
-      "site": "RRB (Railway)",
-      "url": "https://www.rrbcdg.gov.in/",
-      "error": "Timeout"
+      "site": "Air Force",
+      "url": "https://afcat.cdac.in/AFCAT/",
+      "error": "HTTP 503"
     },
     {
       "site": "BPSC",
@@ -141,12 +135,12 @@
     {
       "site": "Income Tax",
       "url": "https://incometaxindia.gov.in/Pages/press-releases.aspx",
-      "error": "HTTP 503"
+      "error": "HTTP 403"
     },
     {
       "site": "MSBTE",
       "url": "https://www.msbte.org.in/",
-      "error": "Timeout"
+      "error": "connect ENETUNREACH 103.89.44.171:443"
     },
     {
       "site": "Bihar Board",

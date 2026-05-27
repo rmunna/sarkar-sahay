@@ -5,7 +5,7 @@ category: "Jobs & Exams"
 type: "notification"
 organization: "Board of Secondary Education Andhra Pradesh (BSEAP)"
 examName: "AP SSC 10th Class Exam 2026"
-stage: "hall-ticket"
+stage: "admit-card"
 keywords:
   - "bseap 10th hall ticket 2026"
   - "ap ssc hall ticket 2026"
