@@ -21,8 +21,7 @@ officialLinks:
 readingTime: "5 min"
 publishedDate: "2026-05-27"
 expiryDate: "2026-05-21"
-status: "active"
-vacancies: 1
+status: "expired"
 educationQualification: "Candidate should be a Chartered Accountant"
 salaryOrPayScale: "Basic Pay ₹44,900.00, Total emolument (approx.) per month ₹91,070.00, Annual CTC (approx.) ₹17.28 Lakhs"
 selectionProcess:
@@ -53,7 +52,7 @@ Candidates interested in the IBPS Deputy Manager - Accounts Recruitment 2026-27 
 *   **Last Date to Apply Online:** 2026-05-20
 *   **Last Date for Online Fee Payment:** 2026-05-20
 *   **Admit Card Release Date for Online Examination:** TBA — Expected 1-2 weeks before the online examination date. Check www.ibps.in for updates.
-*   **Online Examination Date:** TBA — The exam date provided in the source (2026-05-01) precedes the notification and application period, which is not feasible. Therefore, the actual online examination date is TBA and is expected 1-3 months after the application period closes, typically for IBPS online exams. Candidates should regularly check www.ibps.in for official announcements.
+*   **Online Examination Date:** TBA — Expected 1-3 months after the application period closes. Candidates should regularly check www.ibps.in for official announcements.
 *   **Result Date for Online Examination:** TBA — Expected 4-6 weeks after the online examination. Check www.ibps.in for updates.
 *   **Dates for Group Exercises & Personal Interview:** TBA — Will be announced after the online examination results.
 *   **Provisional Allotment:** TBA — Expected several months after the final interview process.

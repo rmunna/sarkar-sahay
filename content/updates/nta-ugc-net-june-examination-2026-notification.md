@@ -1,6 +1,6 @@
 ---
 title: "UGC-NET June 2026 Examination Notification — NTA Official Update"
-description: "UGC-NET June 2026 Examination official notification out. Apply online by 24 May 2026. Check eligibility, dates & apply at ugcnet.nta.nic.in."
+description: "UGC-NET June 2026 Examination official notification out. Apply online by 24 Jun 2026. Check eligibility, dates & apply at ugcnet.nta.nic.in."
 category: "Government Jobs"
 type: "notification"
 organization: "NTA"
