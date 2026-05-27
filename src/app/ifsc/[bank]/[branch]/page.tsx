@@ -20,7 +20,9 @@ export const dynamicParams = true;
 export const revalidate = 2592000; // 30 days
 
 export async function generateStaticParams() {
-  return getTopBranchParams(5000);
+  // Pre-render only top 300 branches (major metro main branches per bank).
+  // The remaining 673,655 branches are served by ISR on first request (30-day cache).
+  return getTopBranchParams(300);
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

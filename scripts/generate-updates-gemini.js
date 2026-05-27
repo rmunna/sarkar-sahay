@@ -191,62 +191,295 @@ const structuredModel = genAI.getGenerativeModel({
   },
 });
 
+// ─── HTTP helpers ────────────────────────────────────────────────────────────
+
+/**
+ * Fetch a URL (HTTP or HTTPS) with a timeout.
+ * Returns a Buffer, or null on failure.
+ * rejectUnauthorized=false because many .gov.in sites have old/self-signed certs.
+ */
+function fetchBytes(url, { timeoutMs = 12000, maxBytes = 8 * 1024 * 1024 } = {}) {
+  return new Promise((resolve) => {
+    try {
+      const protocol = url.startsWith('https') ? https : http;
+      const options = {
+        rejectUnauthorized: false,
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (compatible; CitizenNest-Bot/1.0; +https://www.citizennest.com)',
+          'Accept': 'text/html,application/xhtml+xml,application/pdf,*/*',
+        },
+        timeout: timeoutMs,
+      };
+
+      const req = protocol.get(url, options, (res) => {
+        // Follow one level of redirect
+        if ((res.statusCode === 301 || res.statusCode === 302) && res.headers.location) {
+          return fetchBytes(res.headers.location, { timeoutMs, maxBytes }).then(resolve);
+        }
+        if (res.statusCode !== 200) { resolve(null); return; }
+
+        const chunks = [];
+        let total = 0;
+        res.on('data', (chunk) => {
+          total += chunk.length;
+          if (total > maxBytes) { req.destroy(); resolve(null); return; }
+          chunks.push(chunk);
+        });
+        res.on('end', () => resolve(Buffer.concat(chunks)));
+        res.on('error', () => resolve(null));
+      });
+
+      req.on('error', () => resolve(null));
+      req.on('timeout', () => { req.destroy(); resolve(null); });
+      setTimeout(() => { try { req.destroy(); } catch {} resolve(null); }, timeoutMs + 2000);
+    } catch {
+      resolve(null);
+    }
+  });
+}
+
+/**
+ * Find the most likely notification PDF links in an HTML page.
+ * Returns up to 3 candidate PDF URLs (prioritising notification/vacancy keywords).
+ */
+function findNotificationPdfLinks(html, baseUrl) {
+  const candidates = new Map(); // url → priority score
+  const hrefRegex = /href=["']([^"'#?\s]{4,500})["']/gi;
+  const notifKeywords = ['notif', 'advt', 'advertisement', 'vacancy', 'recruit', 'exam', 'notice', 'circular'];
+
+  let match;
+  while ((match = hrefRegex.exec(html)) !== null) {
+    const raw = match[1].trim();
+    if (!raw.toLowerCase().includes('.pdf')) continue;
+
+    let fullUrl;
+    try {
+      fullUrl = new URL(raw, baseUrl).href;
+    } catch { continue; }
+
+    // Only trust official domains
+    if (!isOfficialUrl(fullUrl)) continue;
+
+    // Score: higher = more likely to be the relevant notification
+    let score = 1;
+    const lower = fullUrl.toLowerCase();
+    for (const kw of notifKeywords) {
+      if (lower.includes(kw)) score += 2;
+    }
+
+    // Prefer PDFs linked in the visible page body vs. deep archive paths
+    if (lower.includes('/archive/') || lower.includes('/old/')) score -= 1;
+
+    if (!candidates.has(fullUrl) || candidates.get(fullUrl) < score) {
+      candidates.set(fullUrl, score);
+    }
+  }
+
+  return [...candidates.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 3)
+    .map(([url]) => url);
+}
+
+/**
+ * Extract visible text content from an HTML page (strip tags, collapse whitespace).
+ * Keeps up to `maxChars` characters.
+ */
+function htmlToText(html, maxChars = 8000) {
+  return html
+    .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
+    .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/\s{2,}/g, ' ')
+    .trim()
+    .slice(0, maxChars);
+}
+
+// ─── Phase 1: Extract data from official source ───────────────────────────────
+
 async function searchAndExtract(source, changeType) {
   /**
-   * Phase 1: Use Gemini to search for the latest announcement from this org.
-   * Returns structured data or null if nothing credible found.
+   * Phase 1 — three-tier approach (each fallback is tried only if the previous fails):
+   *
+   * Tier A: Fetch page → find notification PDF → send PDF to Gemini (most accurate)
+   * Tier B: Fetch page → extract visible text → send text to Gemini (good accuracy)
+   * Tier C: Ask Gemini from training data alone (fallback; least accurate)
    */
   const today = new Date().toISOString().split('T')[0];
-  const searchPrompt = `
-You are a fact-checker for an Indian government exam information website.
 
-Organization: ${source.name} (${source.fullName})
-Official website: ${source.url}
-Today's date: ${today}
-Change detected: ${changeType} on ${source.url}
+  log(`  🌐 Fetching live page: ${source.url}`);
+  const pageBytes = await fetchBytes(source.url, { timeoutMs: 12000, maxBytes: 2 * 1024 * 1024 });
 
-Search for the MOST RECENT announcement from ${source.name} in the past 7 days.
-Look specifically for: new exam notifications, admit card releases, result declarations, answer keys, exam date announcements.
+  if (pageBytes) {
+    const html = pageBytes.toString('utf8');
+    const pdfLinks = findNotificationPdfLinks(html, source.url);
+    log(`  📄 PDF links found on page: ${pdfLinks.length}`);
 
-RULES:
-- Only report something if you have HIGH CONFIDENCE it is real and recent (past 7 days)
-- Cross-reference: the same announcement must appear on at least 2 credible sources
-- Credible sources: official .gov.in/.nic.in sites, NIC portals, the organization's own website
-- Blog posts, news aggregators, or WhatsApp forwards alone are NOT credible
-- If no credible recent announcement found, return null
+    // ── Tier A: Extract from PDF ────────────────────────────────────────────
+    for (const pdfUrl of pdfLinks) {
+      log(`  📥 Downloading PDF: ${pdfUrl}`);
+      const pdfBytes = await fetchBytes(pdfUrl, { timeoutMs: 20000, maxBytes: 5 * 1024 * 1024 });
+      if (!pdfBytes || pdfBytes.length < 1000) continue;
 
-Return JSON in this EXACT schema:
-{
+      log(`  ✅ PDF downloaded: ${Math.round(pdfBytes.length / 1024)} KB — sending to Gemini`);
+      const result = await extractFromPdf(source, pdfBytes, pdfUrl, today);
+      if (result?.found) return result;
+      log(`  ⚠️  PDF extraction returned nothing useful — trying next PDF`);
+    }
+
+    // ── Tier B: Extract from page text ─────────────────────────────────────
+    const pageText = htmlToText(html, 8000);
+    if (pageText.length > 200) {
+      log(`  📝 Falling back to page text extraction (${pageText.length} chars)`);
+      const result = await extractFromPageText(source, pageText, today);
+      if (result?.found) return result;
+    }
+  } else {
+    log(`  ⚠️  Could not fetch page (network issue / blocked) — falling back to training data`);
+  }
+
+  // ── Tier C: Training data fallback ─────────────────────────────────────
+  log(`  🧠 Using Gemini training data (least accurate)`);
+  return extractFromTrainingData(source, changeType, today);
+}
+
+const EXTRACT_JSON_SCHEMA = `{
   "found": true | false,
   "announcement": {
-    "type": "notification" | "admit-card" | "result" | "answer-key" | "cutoff" | "exam-schedule",
-    "examName": "full exam name with year, e.g. SSC CGL 2026",
-    "headline": "short factual headline",
-    "officialUrl": "ROOT domain URL only — e.g. https://ssc.gov.in NOT https://ssc.gov.in/uploads/notification123.pdf",
-    "backupUrl": "second official source ROOT domain URL (required for verification)",
-    "vacancies": number | "TBA" | null,
+    "type": "notification" | "admit-card" | "result" | "answer-key" | "cutoff" | "exam-schedule" | "registration",
+    "examName": "full exam name with year e.g. SSC CGL 2026",
+    "headline": "one factual headline sentence",
+    "officialUrl": "ROOT domain only e.g. https://ssc.gov.in",
+    "backupUrl": "second official ROOT domain URL",
+    "vacancies": <number> | "TBA" | null,
     "importantDates": {
       "notificationDate": "YYYY-MM-DD" | "TBA",
       "lastDateToApply": "YYYY-MM-DD" | "TBA",
+      "lastDateFeePayment": "YYYY-MM-DD" | "TBA",
       "examDate": "YYYY-MM-DD" | "TBA",
       "admitCardDate": "YYYY-MM-DD" | "TBA",
       "resultDate": "YYYY-MM-DD" | "TBA"
     },
+    "applicationFee": {
+      "general": "amount in ₹ e.g. ₹350" | "TBA",
+      "obc": "amount" | "TBA",
+      "scSt": "amount" | "TBA",
+      "pwd": "amount" | "TBA"
+    },
+    "ageLimit": {
+      "min": <number> | "TBA",
+      "max": <number> | "TBA"
+    },
+    "educationQualification": "brief description" | "TBA",
+    "salaryOrPayScale": "brief description e.g. Pay Level 10, ₹33,800-₹1,07,000" | "TBA",
+    "selectionProcess": ["Stage 1", "Stage 2"],
     "confidenceScore": 0.0-1.0,
-    "verificationNotes": "what sources confirmed this"
+    "verificationNotes": "brief note on what the source confirms"
+  }
+}`;
+
+const EXTRACT_RULES = `EXTRACTION RULES:
+1. Extract ONLY what is EXPLICITLY STATED in the provided content — do not guess or invent.
+2. For any field not found in the content: use "TBA" for strings, null for numbers.
+3. Dates must be in YYYY-MM-DD format. If only month/year given, use the 1st of that month.
+4. For "officialUrl" and "backupUrl": use ROOT domain only (e.g. https://ssc.gov.in), never a deep path.
+5. If the content does not contain any recruitment/exam announcement, return {"found": false, "reason": "..."}.
+6. "confidenceScore" reflects how certain you are the extracted data is accurate (0=guessing, 1=explicitly stated in document).`;
+
+async function extractFromPdf(source, pdfBytes, pdfUrl, today) {
+  const prompt = `You are extracting structured data from an official Indian government exam notification PDF.
+
+Organization: ${source.name} (${source.fullName})
+Source PDF URL: ${pdfUrl}
+Today: ${today}
+
+READ THE PDF CAREFULLY and extract the recruitment/exam announcement details.
+
+${EXTRACT_RULES}
+
+Return ONLY valid JSON matching this schema:
+${EXTRACT_JSON_SCHEMA}`;
+
+  try {
+    const result = await structuredModel.generateContent([
+      {
+        inlineData: {
+          data: pdfBytes.toString('base64'),
+          mimeType: 'application/pdf',
+        },
+      },
+      { text: prompt },
+    ]);
+    const data = JSON.parse(result.response.text());
+    if (data?.found) {
+      data.announcement.officialUrl = data.announcement.officialUrl || source.url;
+    }
+    return data;
+  } catch (err) {
+    log(`  ⚠️  PDF extraction error: ${err.message?.slice(0, 100)}`);
+    return null;
   }
 }
 
-If nothing credible found, return: {"found": false, "reason": "brief explanation"}
-`;
+async function extractFromPageText(source, pageText, today) {
+  const prompt = `You are extracting structured data from an official Indian government website page.
+
+Organization: ${source.name} (${source.fullName})
+Official website: ${source.url}
+Today: ${today}
+
+PAGE CONTENT (extracted text):
+---
+${pageText}
+---
+
+${EXTRACT_RULES}
+Look specifically for: exam notifications, admit card releases, result declarations, answer keys, exam schedule announcements from the PAST 30 DAYS.
+
+Return ONLY valid JSON matching this schema:
+${EXTRACT_JSON_SCHEMA}`;
 
   try {
-    const result = await structuredModel.generateContent(searchPrompt);
-    const text = result.response.text();
-    const data = JSON.parse(text);
+    const result = await structuredModel.generateContent(prompt);
+    const data = JSON.parse(result.response.text());
+    if (data?.found) {
+      data.announcement.officialUrl = data.announcement.officialUrl || source.url;
+    }
     return data;
   } catch (err) {
-    log(`⚠️  Gemini search error for ${source.name}: ${err.message}`);
+    log(`  ⚠️  Page text extraction error: ${err.message?.slice(0, 100)}`);
+    return null;
+  }
+}
+
+async function extractFromTrainingData(source, changeType, today) {
+  const prompt = `You are a fact-checker for an Indian government exam information website.
+
+Organization: ${source.name} (${source.fullName})
+Official website: ${source.url}
+Today: ${today}
+Change detected: ${changeType} on ${source.url}
+
+NOTE: The official website could not be fetched. Use your training knowledge ONLY if you have HIGH CONFIDENCE (≥0.85) that a specific real announcement was made in the past 7 days.
+
+${EXTRACT_RULES}
+- Only report something if confidence ≥ 0.85 (you have strong reason to believe it is real and recent)
+- If uncertain, return {"found": false, "reason": "could not fetch page and insufficient training confidence"}
+
+Return ONLY valid JSON matching this schema:
+${EXTRACT_JSON_SCHEMA}`;
+
+  try {
+    const result = await structuredModel.generateContent(prompt);
+    const data = JSON.parse(result.response.text());
+    return data;
+  } catch (err) {
+    log(`  ⚠️  Training data extraction error: ${err.message?.slice(0, 100)}`);
     return null;
   }
 }
@@ -380,6 +613,35 @@ async function generateContent(source, announcement) {
     ? allDates.map(([k, v]) => `  ${k}: ${v || 'TBA'}`).join('\n')
     : '  (no dates provided)';
 
+  // Build extra fields extracted from PDF (fees, age, salary, selection process)
+  const extraFields = [];
+  if (announcement.applicationFee) {
+    const f = announcement.applicationFee;
+    extraFields.push(`Application Fee (from official source):`);
+    extraFields.push(`  General/EWS: ${f.general || 'TBA'}`);
+    extraFields.push(`  OBC: ${f.obc || 'TBA'}`);
+    extraFields.push(`  SC/ST: ${f.scSt || 'TBA'}`);
+    extraFields.push(`  PwD: ${f.pwd || 'TBA'}`);
+  }
+  if (announcement.ageLimit) {
+    const a = announcement.ageLimit;
+    const min = a.min && a.min !== 'TBA' ? a.min : null;
+    const max = a.max && a.max !== 'TBA' ? a.max : null;
+    if (min || max) extraFields.push(`Age Limit (from official source): ${min ?? '?'}–${max ?? '?'} years`);
+  }
+  if (announcement.educationQualification && announcement.educationQualification !== 'TBA') {
+    extraFields.push(`Education Qualification (from official source): ${announcement.educationQualification}`);
+  }
+  if (announcement.salaryOrPayScale && announcement.salaryOrPayScale !== 'TBA') {
+    extraFields.push(`Salary / Pay Scale (from official source): ${announcement.salaryOrPayScale}`);
+  }
+  if (announcement.selectionProcess?.length > 0) {
+    extraFields.push(`Selection Process (from official source): ${announcement.selectionProcess.join(' → ')}`);
+  }
+  const extraContext = extraFields.length > 0
+    ? `\nAdditional Details Extracted from Official Source:\n${extraFields.join('\n')}`
+    : '';
+
   const prompt = `
 You are writing a factual, comprehensive guide for an Indian government exam information website (citizennest.com).
 Your content must be thorough enough to rank on Google — thin or vague content will not help users.
@@ -392,14 +654,14 @@ Type: ${announcement.type}
 Official website: ${getDomain(announcement.officialUrl)} (link to this domain, never guess deep paths)
 Vacancies: ${announcement.vacancies ?? 'Not specified'}
 Important Dates (from official source):
-${datesContext}
+${datesContext}${extraContext}
 Today / Published: ${today}
 
 CONTENT RULES:
-1. CONFIRMED data (dates, vacancies from above): state precisely.
-2. STANDARD organizational norms (fee structures, age limits, selection process, pay scale): use your knowledge about this specific organization (${source.name}) and post type. State these as "standard/typical" or "as per [org] rules" — NEVER leave all rows as bare "TBA" without any context.
-3. GENUINELY UNKNOWN future events (exam date, admit card, result when not provided): write "TBA — check ${getDomain(announcement.officialUrl)}" with an expected timeline where possible (e.g., "expected 3–5 months after notification").
-4. NEVER invent specific dates that were not provided, never guess deep URL paths, never make up specific vacancy breakdowns.
+1. CONFIRMED data (dates, vacancies, fees, age limits above): state precisely — these came from the actual official document.
+2. For fields showing "TBA": fill them using your knowledge of this organization (${source.name}) and post type, labeled as "standard/typical" or "as per [org] rules". NEVER leave all rows as bare "TBA" without any context.
+3. GENUINELY UNKNOWN future events (exam date, admit card, result when not provided): write "TBA — check ${getDomain(announcement.officialUrl)}" with expected timeline where possible.
+4. NEVER invent specific dates not provided, never guess deep URL paths, never make up vacancy breakdowns.
 5. Link to the official website domain only (${getDomain(announcement.officialUrl)}) — never guess deep paths.
 6. Tone: factual, helpful, reassuring. No clickbait, no pressure language.
 7. Length: 800–1200 words for results, 1000–1400 words for notifications, 600–900 words for admit-cards/answer-keys. Use proper markdown with bold, bullet lists, and numbered lists — do NOT write large unbroken paragraphs.
@@ -482,6 +744,14 @@ function buildFrontmatter(source, announcement, slug) {
     ...(expiryDate ? { expiryDate } : {}),
     status: 'active',
     vacancies: announcement.vacancies || undefined,
+    // Extra fields extracted from official PDF/page (used in content generation)
+    ...(announcement.applicationFee ? { applicationFee: announcement.applicationFee } : {}),
+    ...(announcement.ageLimit?.min || announcement.ageLimit?.max ? { ageLimit: announcement.ageLimit } : {}),
+    ...(announcement.educationQualification && announcement.educationQualification !== 'TBA'
+        ? { educationQualification: announcement.educationQualification } : {}),
+    ...(announcement.salaryOrPayScale && announcement.salaryOrPayScale !== 'TBA'
+        ? { salaryOrPayScale: announcement.salaryOrPayScale } : {}),
+    ...(announcement.selectionProcess?.length > 0 ? { selectionProcess: announcement.selectionProcess } : {}),
   };
 
   return fm;
@@ -586,6 +856,23 @@ function frontmatterToYaml(fm) {
   if (fm.expiryDate) lines.push(`expiryDate: "${fm.expiryDate}"`);
   lines.push(`status: "${fm.status}"`);
   if (fm.vacancies) lines.push(`vacancies: ${typeof fm.vacancies === 'number' ? fm.vacancies : `"${fm.vacancies}"`}`);
+  if (fm.educationQualification) lines.push(`educationQualification: "${fm.educationQualification.replace(/"/g, "'")}"`);
+  if (fm.salaryOrPayScale) lines.push(`salaryOrPayScale: "${fm.salaryOrPayScale.replace(/"/g, "'")}"`);
+  if (fm.selectionProcess?.length > 0) {
+    lines.push('selectionProcess:');
+    for (const step of fm.selectionProcess) lines.push(`  - "${step.replace(/"/g, "'")}"`);
+  }
+  if (fm.applicationFee) {
+    lines.push('applicationFee:');
+    for (const [k, v] of Object.entries(fm.applicationFee)) {
+      if (v && v !== 'TBA') lines.push(`  ${k}: "${v}"`);
+    }
+  }
+  if (fm.ageLimit?.min || fm.ageLimit?.max) {
+    lines.push('ageLimit:');
+    if (fm.ageLimit.min) lines.push(`  min: ${fm.ageLimit.min}`);
+    if (fm.ageLimit.max) lines.push(`  max: ${fm.ageLimit.max}`);
+  }
   lines.push('---');
   return lines.join('\n');
 }

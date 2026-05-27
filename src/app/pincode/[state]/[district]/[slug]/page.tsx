@@ -12,7 +12,9 @@ export const dynamicParams = true;
 export const revalidate = 7776000; // 90 days
 
 export async function generateStaticParams() {
-  return getAllPincodeSlugParams();
+  // Return empty — all 19,238 pincode pages are served by ISR on first request (90-day cache).
+  // Pre-rendering all of them adds 15+ minutes to every deploy with zero SEO benefit.
+  return [];
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
