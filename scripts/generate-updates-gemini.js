@@ -1182,9 +1182,14 @@ async function main() {
     } else if (!Array.isArray(ann.selectionProcess)) {
       ann.selectionProcess = [];
     }
+    // Remove TBA placeholders from selectionProcess array
+    ann.selectionProcess = ann.selectionProcess.filter(s => s && s !== 'TBA');
+
     if (typeof ann.vacancies === 'string' && /^\d+$/.test(ann.vacancies)) {
       ann.vacancies = parseInt(ann.vacancies, 10);
     }
+    // Treat "TBA" vacancies as missing (don't emit noisy TBA in frontmatter)
+    if (ann.vacancies === 'TBA') ann.vacancies = null;
     // Convert all-caps PDF exam names to Title Case
     ann.examName = toTitleCase(ann.examName);
     // Normalize ageLimit — drop bare "TBA" values (they cause invalid YAML)
