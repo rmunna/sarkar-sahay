@@ -1,0 +1,32 @@
+name: Exam Monitor + Content Generation
+on:
+  schedule:
+    - cron: '*/30 1-17 * * *'  # Every 30 min, 6:30AM–11PM IST
+  workflow_dispatch:            # Manual trigger
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+      - run: node agents/exam-site-monitor.js
+      - name: Check for real changes
+        id: changes
+        run: |
+          CHANGES=$(node -e "const d=require('./agents/exam-monitor-latest.json'); 
+          const real=d.changes.filter(c=>c.type!=='CONTENT_CHANGE');
+          console.log(real.length)")
+          echo "count=$CHANGES" >> $GITHUB_OUTPUT
+      - name: Generate content (if changes)
+        if: steps.changes.outputs.count > 0
+        uses: anthropics/claude-code-action@v1
+        with:
+          prompt-file: agents/detect-updates.md
+          anthropic-api-key: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Commit & push new updates
+        run: |
+          git config user.name "CitizenNest Bot"
+          git add content/updates/ agents/
+          git diff --staged --quiet || git commit -m "content: auto-add exam updates $(date +%Y-%m-%d)"
+          git push
