@@ -44,7 +44,10 @@ jobs:
       - name: Poll exam sites (zero API cost)
         id: monitor
         run: |
-          node agents/exam-site-monitor.js
+          # || true: some govt sites return malformed HTTP headers (e.g. kpsc.kar.nic.in)
+          # causing Node socket-level uncaughtException → exit 1. The JSON output is still
+          # written before the crash, so we tolerate the non-zero exit and read the file.
+          node agents/exam-site-monitor.js || true
 
           REAL_CHANGES=$(node -e "
             try {
@@ -87,6 +90,7 @@ jobs:
 
             Source: GitHub Actions exam-monitor workflow
             Tier: ${{ github.event.inputs.tier || '2' }}"
+            git pull --rebase origin main || true
             git push
             echo "new_count=$NEW" >> $GITHUB_OUTPUT
             echo "✅ Pushed $NEW new update(s)"
@@ -101,7 +105,7 @@ jobs:
           git config user.name "CitizenNest Bot"
           git config user.email "bot@citizennest.com"
           git add public/sitemap.xml public/sitemap-index.xml || true
-          git diff --staged --quiet || git commit -m "chore: regenerate sitemap after new updates" && git push || true
+          git diff --staged --quiet || (git commit -m "chore: regenerate sitemap after new updates" && git pull --rebase origin main || true && git push) || true
 
       # ── Step 5: Submit new URLs to search engines ────────────────────────
 
@@ -129,7 +133,7 @@ jobs:
           git config user.name "CitizenNest Bot"
           git config user.email "bot@citizennest.com"
           git add agents/exam-monitor-tracker.json agents/exam-monitor-latest.json || true
-          git diff --staged --quiet || git commit -m "chore: update exam monitor tracker" && git push || true
+          git diff --staged --quiet || (git commit -m "chore: update exam monitor tracker" && git pull --rebase origin main || true && git push) || true
 
       # ── Summary ──────────────────────────────────────────────────────────
 

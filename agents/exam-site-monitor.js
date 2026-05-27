@@ -304,7 +304,7 @@ const HTML_SITES = [
   { id: 'mppsc', name: 'MPPSC', url: 'https://mppsc.mp.gov.in/' },
   { id: 'rpsc', name: 'RPSC', url: 'https://rpsc.rajasthan.gov.in/' },
   { id: 'tnpsc', name: 'TNPSC', url: 'https://www.tnpsc.gov.in/' },
-  { id: 'kpsc', name: 'KPSC', url: 'https://kpsc.kar.nic.in/' },
+  { id: 'kpsc', name: 'KPSC/KEA', url: 'https://cetonline.karnataka.gov.in/kea/' },  // kpsc.kar.nic.in has malformed TLS; use KEA portal
   { id: 'appsc', name: 'APPSC', url: 'https://psc.ap.gov.in/' },
   { id: 'tspsc', name: 'TSPSC', url: 'https://websitenew.tspsc.gov.in/' },
   { id: 'wbpsc', name: 'WBPSC', url: 'https://wbpsc.gov.in/' },
