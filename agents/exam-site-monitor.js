@@ -226,27 +226,40 @@ async function checkHTML(siteId, name, url, tracker) {
       .replace(/[a-f0-9]{32,}/gi, '') // session hashes
       .replace(/\s+/g, ' ');
     
-    // Also extract PDF links specifically
-    const pdfs = [...new Set((body.match(/href="[^"]*\.pdf[^"]*"/gi) || []))].sort();
-    const pdfHash = md5(pdfs.join('|'));
+    // Extract PDF links as full URLs (not just href strings) so we can thread them downstream
+    const pdfUrls = [...new Set(
+      (body.match(/href=["']([^"']*\.pdf[^"']*)/gi) || [])
+        .map(m => m.replace(/href=["']/i, '').trim())
+        .map(raw => { try { return raw.startsWith('http') ? raw : new URL(raw, url).href; } catch { return null; } })
+        .filter(Boolean)
+    )].sort();
+    const pdfHash = md5(pdfUrls.join('|'));
     const contentHash = md5(cleaned);
-    
+
     const prev = tracker.sites[key];
     if (!prev) {
-      console.log(`📝 ${name}: baseline`);
+      console.log(`📝 ${name}: baseline (${pdfUrls.length} PDFs)`);
     } else if (prev.pdfHash !== pdfHash) {
-      // PDF list changed — most reliable signal
-      console.log(`🔴 ${name}: new/changed PDFs detected!`);
-      changes.push({ site: name, type: 'PDF_CHANGE', url, detectedAt: new Date().toISOString() });
+      // Identify exactly which PDFs are new → thread the URL to the generator
+      const prevSet = new Set(prev.pdfs || []);
+      const newPdfs = pdfUrls.filter(p => !prevSet.has(p));
+      console.log(`🔴 ${name}: ${newPdfs.length > 0 ? newPdfs.length + ' new' : 'changed'} PDF(s)!`);
+      for (const pdfUrl of newPdfs.slice(0, 3)) {
+        console.log(`   📎 ${pdfUrl}`);
+        changes.push({ site: name, type: 'PDF_CHANGE', pdfUrl, url, detectedAt: new Date().toISOString() });
+      }
+      if (newPdfs.length === 0) {
+        // PDFs changed/removed — still flag but without specific URL
+        changes.push({ site: name, type: 'PDF_CHANGE', url, detectedAt: new Date().toISOString() });
+      }
     } else if (prev.contentHash !== contentHash) {
-      // Content changed but PDFs same — might be cosmetic
-      console.log(`🟡 ${name}: content changed (might be cosmetic)`);
+      console.log(`🟡 ${name}: content changed (cosmetic — no new PDFs)`);
       changes.push({ site: name, type: 'CONTENT_CHANGE', url, detectedAt: new Date().toISOString() });
     } else {
       console.log(`✅ ${name}: no change`);
     }
 
-    tracker.sites[key] = { lastChecked: new Date().toISOString(), contentHash, pdfHash, pdfCount: pdfs.length };
+    tracker.sites[key] = { lastChecked: new Date().toISOString(), contentHash, pdfHash, pdfs: pdfUrls };
   } catch (e) {
     console.log(`❌ ${name}: ${e.message}`);
     return { changes, errors: [{ site: name, url, error: e.message }] };

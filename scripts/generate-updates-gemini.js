@@ -322,44 +322,166 @@ function htmlToText(html, maxChars = 8000) {
 
 // ─── Phase 1: Extract data from official source ───────────────────────────────
 
-async function searchAndExtract(source, changeType) {
+/**
+ * Gap-filling verification call — second targeted Gemini call to fill TBA fields.
+ * Only called when critical fields are missing after initial extraction.
+ * Costs 1 extra Gemini request but eliminates most TBA in final content.
+ */
+async function fillTbaGaps(source, announcement, pdfBytes, pageText, today) {
+  const ann = announcement;
+  const gaps = [];
+
+  if (ann.type === 'notification' || ann.type === 'registration') {
+    if (!ann.importantDates?.lastDateToApply || ann.importantDates.lastDateToApply === 'TBA')
+      gaps.push('lastDateToApply (last date to apply online, YYYY-MM-DD)');
+    if (!ann.vacancies || ann.vacancies === 'TBA')
+      gaps.push('vacancies (total number of posts, integer)');
+    if (!ann.applicationFee?.general || ann.applicationFee.general === 'TBA')
+      gaps.push('applicationFee.general (fee for General/EWS category in ₹)');
+    if (!ann.ageLimit?.max || ann.ageLimit.max === 'TBA')
+      gaps.push('ageLimit.max (maximum age in years for General category)');
+  } else if (ann.type === 'result') {
+    if (!ann.importantDates?.resultDate || ann.importantDates.resultDate === 'TBA')
+      gaps.push('resultDate (date result was declared, YYYY-MM-DD)');
+  } else if (ann.type === 'admit-card') {
+    if (!ann.importantDates?.examDate || ann.importantDates.examDate === 'TBA')
+      gaps.push('examDate (date of examination, YYYY-MM-DD)');
+  }
+
+  if (gaps.length === 0) return ann; // Nothing to fill
+  log(`  🔍 Gap-fill: ${gaps.length} missing field(s) — making verification call`);
+
+  const gapList = gaps.map((g, i) => `${i + 1}. ${g}`).join('\n');
+  const prompt = `You extracted this announcement from ${source.name} (${source.fullName}):
+Exam: ${ann.examName}
+Type: ${ann.type}
+What was found so far: ${JSON.stringify({ importantDates: ann.importantDates, vacancies: ann.vacancies, applicationFee: ann.applicationFee, ageLimit: ann.ageLimit })}
+
+The following fields were NOT found in the initial extraction. Search the source content carefully ONE MORE TIME for these specific items:
+${gapList}
+
+Return ONLY valid JSON. Use null if genuinely not present (do not guess):
+{"lastDateToApply": "YYYY-MM-DD"|null, "vacancies": <number>|null, "applicationFeeGeneral": "₹amount"|null, "ageLimitMax": <number>|null, "resultDate": "YYYY-MM-DD"|null, "examDate": "YYYY-MM-DD"|null}`;
+
+  try {
+    const parts = pdfBytes
+      ? [{ inlineData: { data: pdfBytes.toString('base64'), mimeType: 'application/pdf' } }, { text: prompt }]
+      : (pageText ? `${prompt}\n\nSOURCE TEXT:\n${pageText}` : prompt);
+
+    const result = await structuredModel.generateContent(parts);
+    const filled = JSON.parse(result.response.text());
+
+    // Merge filled values back into announcement
+    if (filled.lastDateToApply) ann.importantDates.lastDateToApply = filled.lastDateToApply;
+    if (filled.resultDate) ann.importantDates.resultDate = filled.resultDate;
+    if (filled.examDate) ann.importantDates.examDate = filled.examDate;
+    if (filled.vacancies) ann.vacancies = filled.vacancies;
+    if (filled.applicationFeeGeneral) {
+      ann.applicationFee = ann.applicationFee || {};
+      ann.applicationFee.general = filled.applicationFeeGeneral;
+    }
+    if (filled.ageLimitMax) {
+      ann.ageLimit = ann.ageLimit || {};
+      ann.ageLimit.max = filled.ageLimitMax;
+    }
+    log(`  ✅ Gap-fill complete`);
+  } catch (err) {
+    log(`  ⚠️  Gap-fill error: ${err.message?.slice(0, 80)}`);
+  }
+  return ann;
+}
+
+/**
+ * Programmatic content quality check — catches issues before writing to disk.
+ * Returns array of issue strings (empty = all good).
+ * No LLM call needed — these are deterministic checks.
+ */
+function validateContentQuality(content) {
+  const issues = [];
+  const lines = content.split('\n');
+
+  for (const line of lines) {
+    // All-caps section headings (from PDF text bleeding into ## headings)
+    if (line.startsWith('##')) {
+      const text = line.replace(/^#+\s*/, '');
+      const letters = text.replace(/[^a-zA-Z]/g, '');
+      const upper = text.replace(/[^A-Z]/g, '');
+      if (letters.length > 10 && upper.length / letters.length > 0.8) {
+        issues.push(`all-caps heading: "${text.slice(0, 60)}"`);
+      }
+    }
+    // Table padding bug (single line > 2000 chars — indicates model output issue)
+    if (line.length > 2000) {
+      issues.push(`oversized line: ${line.length} chars (table padding bug?)`);
+    }
+  }
+
+  // Excessive TBA count in non-table lines
+  const bodyLines = lines.filter(l => !l.startsWith('|'));
+  const tbaBare = bodyLines.join('\n').match(/\bTBA\b/g) || [];
+  if (tbaBare.length > 6) {
+    issues.push(`excessive TBA: ${tbaBare.length} occurrences in body text`);
+  }
+
+  return issues;
+}
+
+async function searchAndExtract(source, changeType, knownPdfUrl = null) {
   /**
-   * Phase 1 — three-tier approach (each fallback is tried only if the previous fails):
+   * Phase 1 — now agentic hybrid:
    *
-   * Tier A: Fetch page → find notification PDF → send PDF to Gemini (most accurate)
-   * Tier B: Fetch page → extract visible text → send text to Gemini (good accuracy)
-   * Tier C: Ask Gemini from training data alone (fallback; least accurate)
+   * Tier A: Fetch page → find notification PDF → send PDF to Gemini
+   *   A0: If detector already found the new PDF URL → skip re-discovery, use it directly
+   *   A1: Score and try up to 5 PDFs from the page
+   * Tier B: Fetch page text → send to Gemini
+   * Tier C: Training data fallback (confidence ≥ 0.85 only)
+   * Gap-fill: If extraction succeeded but critical fields are TBA → one more targeted call
    */
   const today = new Date().toISOString().split('T')[0];
 
-  // Use notificationsUrl if the org has a better page for scraping (e.g. listing page vs JS-heavy homepage)
   const fetchUrl = source.notificationsUrl || source.url;
   log(`  🌐 Fetching live page: ${fetchUrl}`);
   const pageBytes = await fetchBytes(fetchUrl, { timeoutMs: 12000, maxBytes: 2 * 1024 * 1024 });
 
+  let lastPdfBytes = null; // keep for gap-fill
+  let pageText = null;
+
   if (pageBytes) {
     const html = pageBytes.toString('utf8');
-    const pdfLinks = findNotificationPdfLinks(html, fetchUrl);
-    log(`  📄 PDF links found on page: ${pdfLinks.length}`);
+    pageText = htmlToText(html, 8000);
+
+    // ── Tier A0: Use known PDF URL from change detector (skip re-discovery) ──
+    const pdfCandidates = knownPdfUrl
+      ? [knownPdfUrl, ...findNotificationPdfLinks(html, fetchUrl).filter(u => u !== knownPdfUrl)]
+      : findNotificationPdfLinks(html, fetchUrl);
+
+    log(`  📄 PDF links found on page: ${pdfCandidates.length}${knownPdfUrl ? ' (detector-provided URL first)' : ''}`);
 
     // ── Tier A: Extract from PDF ────────────────────────────────────────────
-    for (const pdfUrl of pdfLinks) {
+    for (const pdfUrl of pdfCandidates) {
       log(`  📥 Downloading PDF: ${pdfUrl}`);
       const pdfBytes = await fetchBytes(pdfUrl, { timeoutMs: 20000, maxBytes: 5 * 1024 * 1024 });
       if (!pdfBytes || pdfBytes.length < 1000) continue;
 
       log(`  ✅ PDF downloaded: ${Math.round(pdfBytes.length / 1024)} KB — sending to Gemini`);
       const result = await extractFromPdf(source, pdfBytes, pdfUrl, today);
-      if (result?.found) return result;
+      if (result?.found) {
+        lastPdfBytes = pdfBytes;
+        // Gap-fill: try to resolve TBA fields with a second targeted call
+        result.announcement = await fillTbaGaps(source, result.announcement, lastPdfBytes, pageText, today);
+        return result;
+      }
       log(`  ⚠️  PDF extraction returned nothing useful — trying next PDF`);
     }
 
     // ── Tier B: Extract from page text ─────────────────────────────────────
-    const pageText = htmlToText(html, 8000);
     if (pageText.length > 200) {
       log(`  📝 Falling back to page text extraction (${pageText.length} chars)`);
       const result = await extractFromPageText(source, pageText, today);
-      if (result?.found) return result;
+      if (result?.found) {
+        result.announcement = await fillTbaGaps(source, result.announcement, null, pageText, today);
+        return result;
+      }
     }
   } else {
     log(`  ⚠️  Could not fetch page (network issue / blocked) — falling back to training data`);
@@ -1017,9 +1139,15 @@ async function main() {
     log(`\n🔍 Searching: ${source.name} (tier ${source.tier})`);
     const changeType = latestChanges.find(c => c.url.includes(new URL(source.url).hostname))?.type || 'SCHEDULED_SCAN';
 
+    // Thread known PDF URL from change detector into extraction (skip re-discovery)
+    const knownPdfUrl = latestChanges.find(c =>
+      c.pdfUrl && c.url && c.url.includes(new URL(source.url).hostname)
+    )?.pdfUrl || null;
+    if (knownPdfUrl) log(`  🔗 Detector-provided PDF URL: ${knownPdfUrl}`);
+
     let searchResult;
     try {
-      searchResult = await searchAndExtract(source, changeType);
+      searchResult = await searchAndExtract(source, changeType, knownPdfUrl);
       searchCount++;
     } catch (err) {
       log(`❌ Search failed for ${source.name}: ${err.message}`);
@@ -1122,6 +1250,14 @@ async function main() {
       continue;
     }
     const contentBody = cleanMarkdown(rawContentBody);
+
+    // Programmatic quality check — catch all-caps headings, padding bugs, excessive TBA
+    const qualityIssues = validateContentQuality(contentBody);
+    if (qualityIssues.length > 0) {
+      log(`  ⚠️  Quality issues detected in generated content:`);
+      for (const issue of qualityIssues) log(`     - ${issue}`);
+      // Log but don't block — oversized lines are caught by cleanMarkdown already
+    }
 
     // Sanity check: reject absurdly large content (> 200KB = model went haywire)
     if (contentBody.length > 200_000) {
