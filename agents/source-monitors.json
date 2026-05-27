@@ -58,7 +58,7 @@
       "name": "RRB",
       "fullName": "Railway Recruitment Board",
       "url": "https://www.rrbcdg.gov.in",
-      "notificationsUrl": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,1,304,366",
+      "notificationsUrl": "https://www.rrbcdg.gov.in/public/en/page/notification",
       "tier": 1,
       "searchQueries": [
         "RRB recruitment 2026",
@@ -247,7 +247,8 @@
       "id": "gate",
       "name": "GATE/IIT",
       "fullName": "Graduate Aptitude Test in Engineering",
-      "url": "https://gate2026.iitg.ac.in",
+      "url": "https://gate2027.iitb.ac.in",
+      "notificationsUrl": "https://gate2027.iitb.ac.in/news",
       "tier": 2,
       "searchQueries": [
         "GATE 2026 notification",
@@ -560,6 +561,7 @@
       "name": "NABARD",
       "fullName": "National Bank for Agriculture and Rural Development",
       "url": "https://www.nabard.org/career-notices.aspx",
+      "notificationsUrl": "https://www.nabard.org/career-notices.aspx",
       "tier": 2,
       "searchQueries": [
         "NABARD Grade A 2026",

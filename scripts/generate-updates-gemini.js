@@ -40,8 +40,13 @@ const SEARCH_FRESHNESS = 'w1';                         // Past 1 week
 // Allowed official domains — reject anything else as unofficial
 const OFFICIAL_DOMAINS = [
   '.gov.in', '.nic.in', '.ac.in', '.edu.in',
-  'ibps.in', 'sbi.co.in', 'nabard.org', 'iocl.com',
-  'aissee.nta.nic.in', 'jeemain.nta.nic.in',
+  'ibps.in', 'sbi.co.in', 'bank.sbi', 'nabard.org', 'iocl.com',
+  'rbi.org.in', 'opportunities.rbi.org.in',
+  'bpsc.bih.nic.in',
+  // CDN used by NTA / CUET for PDF hosting
+  'cdnbbsr.s3waas.gov.in',
+  // Board exam result portals
+  'mahresult.nic.in', 'mahahsscboard.in',
 ];
 
 // ─── CLI args ───────────────────────────────────────────────────────────────
@@ -129,8 +134,10 @@ function generateSlug(org, examName, stage) {
                               .replace('union-public-service-commission', 'upsc')
                               .replace('institute-of-banking-personnel-selection', 'ibps')
                               .replace('national-testing-agency', 'nta');
-  const examSlug = part(examName.replace(year, '').replace(org, '').trim())
+  let examSlug = part(examName.replace(year, '').replace(org, '').trim())
                     .replace(/^-+|-+$/g, '');
+  // Cap exam slug at 50 chars to avoid absurdly long slugs from verbose official titles
+  if (examSlug.length > 50) examSlug = examSlug.slice(0, 50).replace(/-[^-]*$/, '');
   const stageSlug = part(stage);
 
   return `${orgSlug}-${examSlug}-${year}-${stageSlug}`
@@ -996,6 +1003,9 @@ const KEEP_UPPER = new Set(['CEN', 'JEE', 'NEET', 'UGC', 'NET', 'SSC', 'RRB', 'I
   'UPSC', 'NTA', 'GATE', 'CUET', 'CTET', 'CGL', 'CHSL', 'MTS', 'CPO', 'ALP',
   'RBI', 'NABARD', 'EPFO', 'ESIC', 'NHM', 'AIIMS', 'JIPMER', 'PGI', 'CDS',
   'NDA', 'AFCAT', 'CSE', 'IFS', 'CBI', 'IB', 'SPG', 'DRDO', 'ISRO', 'BARC',
+  'UG', 'PG', 'LLB', 'LLM', 'MBA', 'MBBS', 'BDS', 'BAMS', 'BHMS', 'BCA', 'MCA',
+  'BCom', 'MCom', 'BSc', 'MSc', 'BTech', 'MTech', 'BE', 'ME',
+  'TGT', 'PGT', 'PRT', 'PGI', 'PGIMER', 'NIMHANS',
   'I', 'II', 'III', 'IV', 'VI', 'VII', 'VIII', 'IX', 'XI', 'XII',
 ]);
 function toTitleCase(str) {
@@ -1066,9 +1076,10 @@ function frontmatterToYaml(fm) {
     for (const step of fm.selectionProcess) lines.push(`  - "${step.replace(/"/g, "'")}"`);
   }
   if (fm.applicationFee) {
-    lines.push('applicationFee:');
-    for (const [k, v] of Object.entries(fm.applicationFee)) {
-      if (v && v !== 'TBA') lines.push(`  ${k}: "${v}"`);
+    const feeEntries = Object.entries(fm.applicationFee).filter(([, v]) => v && v !== 'TBA');
+    if (feeEntries.length > 0) {
+      lines.push('applicationFee:');
+      for (const [k, v] of feeEntries) lines.push(`  ${k}: "${v}"`);
     }
   }
   const ageLimitMin = fm.ageLimit?.min && fm.ageLimit.min !== 'TBA' ? fm.ageLimit.min : null;
