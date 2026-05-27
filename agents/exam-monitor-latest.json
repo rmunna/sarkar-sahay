@@ -1,8 +1,8 @@
 {
-  "scanTime": "2026-05-27T07:02:45.639Z",
-  "elapsedSeconds": 61.8,
+  "scanTime": "2026-05-27T11:05:05.740Z",
+  "elapsedSeconds": 66.2,
   "changesDetected": 0,
-  "errors": 29,
+  "errors": 24,
   "changes": [],
   "errorDetails": [
     {
@@ -50,39 +50,14 @@
       "error": "Timeout"
     },
     {
-      "site": "IGNOU",
-      "url": "https://ignou.ac.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "UGC NET",
-      "url": "https://ugcnet.nta.ac.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "CUET",
-      "url": "https://cuet.nta.nic.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "BPSC",
       "url": "https://www.bpsc.bih.nic.in/",
       "error": "Timeout"
     },
     {
-      "site": "UPPSC",
-      "url": "https://uppsc.up.nic.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "MPPSC",
-      "url": "https://mppsc.mp.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "RPSC",
       "url": "https://rpsc.rajasthan.gov.in/",
-      "error": "Timeout"
+      "error": ""
     },
     {
       "site": "TNPSC",
@@ -147,7 +122,7 @@
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "read ECONNRESET"
+      "error": "Timeout"
     }
   ]
 }
