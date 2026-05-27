@@ -57,7 +57,7 @@
       "lastChanged": "2026-03-01T02:46:19.512Z"
     },
     "ssc:notices": {
-      "lastChecked": "2026-05-27T11:44:08.323Z",
+      "lastChecked": "2026-05-27T11:48:24.887Z",
       "noticeIds": [
         "82liqxb6q7v0m8s0jg65w",
         "q7dih97yi2jfor4swjm9p",
@@ -82,7 +82,7 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-05-27T11:44:13.569Z",
+      "lastChecked": "2026-05-27T11:48:29.564Z",
       "noticeIds": [
         "20260526121738",
         "20260525132221",
@@ -800,7 +800,7 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-05-27T11:44:16.195Z",
+      "lastChecked": "2026-05-27T11:48:38.270Z",
       "contentHash": "4049c879174684f2b9f981f928779ddf",
       "pdfHash": "342b2be781241c342ec042c7a1892373",
       "pdfCount": 4
@@ -812,13 +812,13 @@
       "pdfCount": 409
     },
     "uppsc:hash": {
-      "lastChecked": "2026-05-27T11:44:30.922Z",
-      "contentHash": "2aacb0910dec944f93780bea46f7eff6",
+      "lastChecked": "2026-05-27T11:48:56.508Z",
+      "contentHash": "3fac735c81c1a3a1d8ac9712287cfd85",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfCount": 0
     },
     "icai:hash": {
-      "lastChecked": "2026-05-27T11:44:15.668Z",
+      "lastChecked": "2026-05-27T11:48:37.692Z",
       "contentHash": "bfee5a70310ab46024b67901f50bd215",
       "pdfHash": "ac1d361ca05389f19dfef9d594a87559",
       "pdfCount": 1
@@ -830,8 +830,8 @@
       "pdfCount": 6
     },
     "rbi:hash": {
-      "lastChecked": "2026-05-27T11:44:15.252Z",
-      "contentHash": "2c1ad6f08bc321fc9e25ed534b616750",
+      "lastChecked": "2026-05-27T11:48:37.305Z",
+      "contentHash": "b89535d9c0276f35ec10db60b7020b56",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfCount": 0
     },
@@ -848,7 +848,7 @@
       "pdfCount": 0
     },
     "cbse:hash": {
-      "lastChecked": "2026-05-27T11:44:23.301Z",
+      "lastChecked": "2026-05-27T11:48:47.402Z",
       "contentHash": "d6a628eaab0dd482f268ee87f0443394",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfCount": 0
@@ -860,8 +860,8 @@
       "pdfCount": 15
     },
     "cisf:hash": {
-      "lastChecked": "2026-05-27T11:44:23.826Z",
-      "contentHash": "1042518ab4899e5f478ed49d3d1ad120",
+      "lastChecked": "2026-05-27T11:48:47.254Z",
+      "contentHash": "224632ec6616048d6a5d6454ed0322e2",
       "pdfHash": "a03f12a2de7ebe91acab6602367b6e22",
       "pdfCount": 10
     },
@@ -872,7 +872,7 @@
       "pdfCount": 0
     },
     "crpf:hash": {
-      "lastChecked": "2026-05-27T11:44:25.331Z",
+      "lastChecked": "2026-05-27T11:48:50.414Z",
       "contentHash": "83a4e60728b297352e867178ab24c9c4",
       "pdfHash": "597a5c79370d0bfec51b779d87d899b9",
       "pdfCount": 16
@@ -884,8 +884,8 @@
       "pdfCount": 1
     },
     "kvs:hash": {
-      "lastChecked": "2026-05-27T11:44:26.742Z",
-      "contentHash": "4ca8dbd581cdca2ed1e9821ce80d0d4e",
+      "lastChecked": "2026-05-27T11:48:51.388Z",
+      "contentHash": "7e2825e88fe01375ba71c19a4f16bad6",
       "pdfHash": "a01f8754bc1355133272fb0608fc175c",
       "pdfCount": 17
     },
@@ -896,13 +896,13 @@
       "pdfCount": 11
     },
     "ugc:hash": {
-      "lastChecked": "2026-05-27T11:44:29.851Z",
+      "lastChecked": "2026-05-27T11:48:52.713Z",
       "contentHash": "afd68862fdf99c50e8d36a196d1afb9a",
       "pdfHash": "f034f90a0068da6f7df8760c693d056e",
       "pdfCount": 21
     },
     "mppsc:hash": {
-      "lastChecked": "2026-05-27T11:44:29.609Z",
+      "lastChecked": "2026-05-27T11:48:55.859Z",
       "contentHash": "31e5532b133396db300c0a2380e44837",
       "pdfHash": "6f4e1901b024c4295b5947fd38275568",
       "pdfCount": 76
@@ -914,7 +914,7 @@
       "pdfCount": 18
     },
     "cuet:hash": {
-      "lastChecked": "2026-05-27T11:44:29.330Z",
+      "lastChecked": "2026-05-27T11:48:55.305Z",
       "contentHash": "dc02c94d918b3c43d748952ffea8239e",
       "pdfHash": "68112dd31250b7a7901c26d2f30bd76f",
       "pdfCount": 24
@@ -926,8 +926,8 @@
       "pdfCount": 1
     },
     "ignou:hash": {
-      "lastChecked": "2026-05-27T11:44:30.609Z",
-      "contentHash": "192f47fab05ccf3bd9e0b28fd7bca70a",
+      "lastChecked": "2026-05-27T11:48:57.172Z",
+      "contentHash": "059819306b891066717d6bfe47f86493",
       "pdfHash": "1d2c7264ebb81e02fcf8fbb4d81cae42",
       "pdfCount": 3
     },
@@ -938,7 +938,7 @@
       "pdfCount": 0
     },
     "jpsc:hash": {
-      "lastChecked": "2026-05-27T11:44:34.763Z",
+      "lastChecked": "2026-05-27T11:49:04.666Z",
       "contentHash": "df5e0c39a35d88d4803d85579228bb68",
       "pdfHash": "7db8363bdf6d61b563fa88229108a942",
       "pdfCount": 17
@@ -962,25 +962,25 @@
       "pdfCount": 34
     },
     "ukpsc:hash": {
-      "lastChecked": "2026-05-27T11:44:39.686Z",
+      "lastChecked": "2026-05-27T11:49:09.974Z",
       "contentHash": "29183ec5cee976219d1fa1ec8bb74947",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfCount": 0
     },
     "up-board:hash": {
-      "lastChecked": "2026-05-27T11:44:39.947Z",
-      "contentHash": "f320e61e233fffbdef3eadfb0d98749d",
+      "lastChecked": "2026-05-27T11:49:12.429Z",
+      "contentHash": "2ce78aad643d976ae5d32948d31dc634",
       "pdfHash": "a6c21eb0eec963012606f5af00586d46",
       "pdfCount": 17
     },
     "rbse:hash": {
-      "lastChecked": "2026-05-27T11:44:39.807Z",
+      "lastChecked": "2026-05-27T11:49:11.381Z",
       "contentHash": "7f127d3d8ecd4419f163c0d14fa4ba31",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfCount": 0
     },
     "ctet:hash": {
-      "lastChecked": "2026-05-27T11:44:40.374Z",
+      "lastChecked": "2026-05-27T11:49:11.433Z",
       "contentHash": "a76bd54b1463317c659a67381d439fc3",
       "pdfHash": "510cad65c65e4b00a7d3f66ead643212",
       "pdfCount": 13
@@ -992,17 +992,17 @@
       "pdfCount": 11
     },
     "mp-board:hash": {
-      "lastChecked": "2026-05-27T11:44:45.450Z",
+      "lastChecked": "2026-05-27T11:49:17.670Z",
       "contentHash": "1d04e3c1c49828828baf9a859d8abb16",
       "pdfHash": "28cfd95453504b7d934324415f173ea1",
       "pdfCount": 37
     },
     "rrb:hash": {
-      "lastChecked": "2026-05-27T11:44:22.387Z",
+      "lastChecked": "2026-05-27T11:48:44.452Z",
       "contentHash": "f223c36b56c9713cfdf3cb578c28d52a",
       "pdfHash": "4e900b32cff186669c1959c3c5e24fc0",
       "pdfCount": 545
     }
   },
-  "lastScan": "2026-05-27T11:44:49.020Z"
+  "lastScan": "2026-05-27T11:49:20.656Z"
 }

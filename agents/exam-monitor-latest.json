@@ -1,9 +1,46 @@
 {
-  "scanTime": "2026-05-27T11:05:05.740Z",
-  "elapsedSeconds": 66.2,
-  "changesDetected": 0,
+  "scanTime": "2026-05-27T11:49:20.659Z",
+  "elapsedSeconds": 57.1,
+  "changesDetected": 6,
   "errors": 24,
-  "changes": [],
+  "changes": [
+    {
+      "site": "RBI Careers",
+      "type": "CONTENT_CHANGE",
+      "url": "https://opportunities.rbi.org.in/",
+      "detectedAt": "2026-05-27T11:48:37.305Z"
+    },
+    {
+      "site": "CISF",
+      "type": "CONTENT_CHANGE",
+      "url": "https://cisf.gov.in/recruitment",
+      "detectedAt": "2026-05-27T11:48:47.254Z"
+    },
+    {
+      "site": "KVS",
+      "type": "CONTENT_CHANGE",
+      "url": "https://kvsangathan.nic.in/",
+      "detectedAt": "2026-05-27T11:48:51.388Z"
+    },
+    {
+      "site": "IGNOU",
+      "type": "CONTENT_CHANGE",
+      "url": "https://ignou.ac.in/",
+      "detectedAt": "2026-05-27T11:48:57.172Z"
+    },
+    {
+      "site": "UPPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://uppsc.up.nic.in/",
+      "detectedAt": "2026-05-27T11:48:56.508Z"
+    },
+    {
+      "site": "UP Board",
+      "type": "CONTENT_CHANGE",
+      "url": "https://upmsp.edu.in/",
+      "detectedAt": "2026-05-27T11:49:12.429Z"
+    }
+  ],
   "errorDetails": [
     {
       "site": "UPSC",
@@ -20,11 +57,6 @@
       "error": "Timeout"
     },
     {
-      "site": "RRB (Railway)",
-      "url": "https://www.rrbcdg.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "Indian Army",
       "url": "https://joinindianarmy.nic.in/",
       "error": "Timeout"
@@ -38,6 +70,11 @@
       "site": "Air Force",
       "url": "https://afcat.cdac.in/AFCAT/",
       "error": "Timeout"
+    },
+    {
+      "site": "BSF",
+      "url": "https://rectt.bsf.gov.in/",
+      "error": "HTTP 403"
     },
     {
       "site": "ITBP",
@@ -122,7 +159,7 @@
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     }
   ]
 }
