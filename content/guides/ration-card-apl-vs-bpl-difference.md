@@ -1,6 +1,6 @@
 ---
-title: "APL vs BPL Ration Card 2026 — 5 kg Free Grain, Income Limit ₹1.2 Lakh & How to Convert"
-description: "BPL (PHH) ration card = 5 kg FREE grain per person/month. AAY = 35 kg free. APL = no free grain. BPL income limit: ₹1–1.2 lakh/year (state-wise). Yellow/Green/Red colour code explained. How to convert APL to BPL online."
+title: "APL vs BPL Ration Card — Colour, 5 kg Free Grain, Income Limit & How to Convert (2026)"
+description: "BPL (green/pink card) = 5 kg FREE grain/month; income ≤₹1.2 lakh/year. APL (yellow/white card) = no free grain. AAY (red card) = 35 kg free. Colour code, eligibility & how to convert APL to BPL online."
 category: Government Schemes
 lastUpdated: "2026-05-26"
 keywords:
