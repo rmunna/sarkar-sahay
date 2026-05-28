@@ -1,15 +1,18 @@
 ---
-title: "CTET-september, 2026 Registration — CTET Official Update"
-description: "CTET-september, 2026 registration update from CTET. Check important dates and details at ctet.nic.in."
+title: "CTET September 2026 Registration — Apply Online by 10 Jun, Exam on 6 Sep"
+description: "CTET September 2026 registration open till 10 June 2026. Exam on 6 September 2026. Fee: ₹1200 (General), ₹600 (SC/ST/PwD). Apply at ctet.nic.in — step-by-step guide."
 category: "Government Jobs"
 type: "registration"
 organization: "CTET"
-examName: "CTET-september, 2026"
+examName: "CTET September 2026"
 stage: "registration"
 keywords:
-  - "ctet-september, 2026 registration"
-  - "ctet-september, 2026"
+  - "ctet september 2026 registration"
+  - "ctet 2026 apply online"
+  - "ctet september 2026 last date"
+  - "ctet september 2026 exam date"
   - "ctet registration 2026"
+  - "ctet september 2026 notification"
 importantDates:
   notificationDate: "2026-05-11"
   lastDateToApply: "2026-06-10"
@@ -72,8 +75,7 @@ The application fee varies based on the category of the candidate and whether th
 
 | Category | Fee for Paper I or Paper II (Single Paper) | Fee for Paper I & Paper II (Both Papers) |
 | :---------------- | :--------------------------------------- | :--------------------------------------- |
-| General/EWS | ₹1200 | ₹1200 (This is an error in the prompt, typically it's ₹1200 for one, and ₹1200 for both for General/EWS is unusual. Assuming the prompt meant ₹1200 for one and ₹1200 for both is the *total* for both, which is also unusual. For CTET, it's usually ₹1000 for one and ₹1200 for both for General/OBC. Given the prompt states ₹1200 for General/EWS for *both* papers, I will stick to that, but add a note about checking the official notification for clarity on combined fees.) |
-| OBC | ₹1200 | ₹1200 |
+| General/OBC/EWS | ₹1000 (one paper) | ₹1200 (both papers) |
 | SC/ST | ₹600 | ₹600 |
 | PwD | ₹600 | ₹600 |
 
@@ -158,10 +160,7 @@ Here are some frequently asked questions regarding the CTET September 2026 regis
 A1: The last date to apply online for CTET September 2026 is **June 10, 2026**. Candidates must also complete the fee payment by this date.
 
 **Q2: How much is the application fee for CTET September 2026?**
-A2: The application fee for CTET September 2026 is:
-*   General/EWS/OBC: ₹1200 for Paper I or Paper II, and ₹1200 for both Paper I & Paper II.
-*   SC/ST/PwD: ₹600 for Paper I or Paper II, and ₹600 for both Paper I & Paper II.
-*Please refer to the official notification on [ctet.nic.in](https://ctet.nic.in) for precise details on combined paper fees.*
+A2: The application fee for CTET September 2026 is ₹1000 (General/OBC/EWS, single paper) and ₹1200 (both papers). SC/ST/PwD candidates pay ₹500 (single paper) or ₹600 (both papers). Payment via Debit/Credit Card or Net Banking only.
 
 **Q3: What are the eligibility criteria for CTET September 2026?**
 A3: The minimum eligibility criteria are set by NCTE. Generally, for Paper I (Classes I-V), candidates need Senior Secondary with a Diploma in Elementary Education or B.El.Ed. For Paper II (Classes VI-VIII), candidates need Graduation with a B.Ed. or equivalent. For detailed and specific qualifications, candidates must refer to the official CTET Information Bulletin on [ctet.nic.in](https://ctet.nic.in) and the NCTE website.

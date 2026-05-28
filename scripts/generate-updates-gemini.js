@@ -430,6 +430,25 @@ function validateContentQuality(content) {
     issues.push(`excessive TBA: ${tbaBare.length} occurrences in body text`);
   }
 
+  // Gemini reasoning leak — model left internal commentary in output
+  const leakPhrases = [
+    'This is an error in the prompt',
+    'this is unusual',
+    'I will stick to that',
+    'as per the prompt',
+    'Given the prompt',
+    'the prompt states',
+    'I cannot determine',
+    'I don\'t have information',
+    'As an AI',
+  ];
+  const fullText = content.toLowerCase();
+  for (const phrase of leakPhrases) {
+    if (fullText.includes(phrase.toLowerCase())) {
+      issues.push(`Gemini reasoning leak detected: "${phrase}"`);
+    }
+  }
+
   return issues;
 }
 
