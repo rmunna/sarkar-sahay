@@ -1,44 +1,56 @@
 {
-  "scannedAt": "2026-05-27T08:43:01.371789",
+  "scannedAt": "2026-05-28T11:36:27.702300",
   "results": [
     {
-      "topic": "plus two result 2026 school wise",
+      "topic": "upsc answer key 2026",
       "category": "Jobs",
-      "rising_value": 2850,
+      "rising_value": 4300,
+      "guide_exists": "ssc-aso-ssa-jsa-ldce-2024-final-answer-key"
+    },
+    {
+      "topic": "aibe admit card",
+      "category": "Jobs",
+      "rising_value": 2650,
       "guide_exists": null
     },
     {
       "topic": "aibe admit card 2026",
       "category": "Jobs",
-      "rising_value": 2700,
+      "rising_value": 2500,
       "guide_exists": null
     },
     {
-      "topic": "hse result 2026",
+      "topic": "excise inspector admit card 2026",
       "category": "Jobs",
-      "rising_value": 850,
+      "rising_value": 1900,
+      "guide_exists": null
+    },
+    {
+      "topic": "iiser admit card",
+      "category": "Jobs",
+      "rising_value": 1500,
       "guide_exists": null
     },
     {
       "topic": "plus two result 2026",
       "category": "Jobs",
-      "rising_value": 650,
+      "rising_value": 800,
       "guide_exists": null
     },
     {
-      "topic": "exam sarkari result info odisha",
+      "topic": "jeecup admit card 2026",
       "category": "Jobs",
-      "rising_value": 650,
-      "guide_exists": "otet-odisha-tet-exam-guide"
-    },
-    {
-      "topic": "plus two result 2026 date kerala",
-      "category": "Jobs",
-      "rising_value": 350,
+      "rising_value": 500,
       "guide_exists": null
     },
     {
-      "topic": "www tnresults nic in 10th result 2026",
+      "topic": "common university entrance test",
+      "category": "Jobs",
+      "rising_value": 400,
+      "guide_exists": "nta-national-eligibility-cum-entrance-test-ug-2026-result"
+    },
+    {
+      "topic": "upsc prelims 2026",
       "category": "Jobs",
       "rising_value": 350,
       "guide_exists": null
@@ -46,19 +58,7 @@
     {
       "topic": "rgpv result",
       "category": "Jobs",
-      "rising_value": 300,
-      "guide_exists": null
-    },
-    {
-      "topic": "upsc prelims 2026",
-      "category": "Jobs",
-      "rising_value": 250,
-      "guide_exists": null
-    },
-    {
-      "topic": "tn 10th result 2026",
-      "category": "Jobs",
-      "rising_value": 250,
+      "rising_value": 350,
       "guide_exists": null
     },
     {
@@ -68,75 +68,51 @@
       "guide_exists": "ssc-cgl-vs-ssc-chsl-comparison"
     },
     {
-      "topic": "chse odisha 12th result 2026",
-      "category": "Jobs",
-      "rising_value": 200,
-      "guide_exists": null
-    },
-    {
-      "topic": "tn results",
-      "category": "Jobs",
-      "rising_value": 190,
-      "guide_exists": null
-    },
-    {
-      "topic": "sslc 10th result 2026",
-      "category": "Jobs",
-      "rising_value": 190,
-      "guide_exists": null
-    },
-    {
-      "topic": "tn result",
-      "category": "Jobs",
-      "rising_value": 190,
-      "guide_exists": null
-    },
-    {
-      "topic": "ignou admit card",
+      "topic": "ssc cgl",
       "category": "Jobs",
       "rising_value": 170,
-      "guide_exists": null
-    },
-    {
-      "topic": "10th public result 2026",
-      "category": "Jobs",
-      "rising_value": 160,
-      "guide_exists": null
+      "guide_exists": "ssc-cgl-vs-ssc-chsl-comparison"
     }
   ],
   "opportunities": [
     {
-      "topic": "plus two result 2026 school wise",
+      "topic": "aibe admit card",
       "category": "Jobs",
-      "rising_value": 2850,
+      "rising_value": 2650,
       "guide_exists": null
     },
     {
       "topic": "aibe admit card 2026",
       "category": "Jobs",
-      "rising_value": 2700,
+      "rising_value": 2500,
       "guide_exists": null
     },
     {
-      "topic": "hse result 2026",
+      "topic": "excise inspector admit card 2026",
       "category": "Jobs",
-      "rising_value": 850,
+      "rising_value": 1900,
+      "guide_exists": null
+    },
+    {
+      "topic": "iiser admit card",
+      "category": "Jobs",
+      "rising_value": 1500,
       "guide_exists": null
     },
     {
       "topic": "plus two result 2026",
       "category": "Jobs",
-      "rising_value": 650,
+      "rising_value": 800,
       "guide_exists": null
     },
     {
-      "topic": "plus two result 2026 date kerala",
+      "topic": "jeecup admit card 2026",
       "category": "Jobs",
-      "rising_value": 350,
+      "rising_value": 500,
       "guide_exists": null
     },
     {
-      "topic": "www tnresults nic in 10th result 2026",
+      "topic": "upsc prelims 2026",
       "category": "Jobs",
       "rising_value": 350,
       "guide_exists": null
@@ -144,69 +120,33 @@
     {
       "topic": "rgpv result",
       "category": "Jobs",
-      "rising_value": 300,
-      "guide_exists": null
-    },
-    {
-      "topic": "upsc prelims 2026",
-      "category": "Jobs",
-      "rising_value": 250,
-      "guide_exists": null
-    },
-    {
-      "topic": "tn 10th result 2026",
-      "category": "Jobs",
-      "rising_value": 250,
-      "guide_exists": null
-    },
-    {
-      "topic": "chse odisha 12th result 2026",
-      "category": "Jobs",
-      "rising_value": 200,
-      "guide_exists": null
-    },
-    {
-      "topic": "tn results",
-      "category": "Jobs",
-      "rising_value": 190,
-      "guide_exists": null
-    },
-    {
-      "topic": "sslc 10th result 2026",
-      "category": "Jobs",
-      "rising_value": 190,
-      "guide_exists": null
-    },
-    {
-      "topic": "tn result",
-      "category": "Jobs",
-      "rising_value": 190,
-      "guide_exists": null
-    },
-    {
-      "topic": "ignou admit card",
-      "category": "Jobs",
-      "rising_value": 170,
-      "guide_exists": null
-    },
-    {
-      "topic": "10th public result 2026",
-      "category": "Jobs",
-      "rising_value": 160,
+      "rising_value": 350,
       "guide_exists": null
     }
   ],
   "covered": [
     {
-      "topic": "exam sarkari result info odisha",
+      "topic": "upsc answer key 2026",
       "category": "Jobs",
-      "rising_value": 650,
-      "guide_exists": "otet-odisha-tet-exam-guide"
+      "rising_value": 4300,
+      "guide_exists": "ssc-aso-ssa-jsa-ldce-2024-final-answer-key"
+    },
+    {
+      "topic": "common university entrance test",
+      "category": "Jobs",
+      "rising_value": 400,
+      "guide_exists": "nta-national-eligibility-cum-entrance-test-ug-2026-result"
     },
     {
       "topic": "ssc cgl notification 2026",
       "category": "Jobs",
       "rising_value": 250,
+      "guide_exists": "ssc-cgl-vs-ssc-chsl-comparison"
+    },
+    {
+      "topic": "ssc cgl",
+      "category": "Jobs",
+      "rising_value": 170,
       "guide_exists": "ssc-cgl-vs-ssc-chsl-comparison"
     }
   ]

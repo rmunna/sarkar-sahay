@@ -306,7 +306,7 @@ const HTML_SITES = [
   { id: 'tnpsc', name: 'TNPSC', url: 'https://www.tnpsc.gov.in/' },
   { id: 'kpsc', name: 'KPSC/KEA', url: 'https://cetonline.karnataka.gov.in/kea/' },  // kpsc.kar.nic.in has malformed TLS; use KEA portal
   { id: 'appsc', name: 'APPSC', url: 'https://psc.ap.gov.in/' },
-  { id: 'tspsc', name: 'TSPSC', url: 'https://www.tspsc.gov.in/' },  // websitenew subdomain has DNS failure; main domain works
+  { id: 'tspsc', name: 'TSPSC', url: 'https://tspsc.gov.in/' },  // both websitenew. and www. fail from GH Actions (India-only DNS); bare domain resolves
   { id: 'wbpsc', name: 'WBPSC', url: 'https://wbpsc.gov.in/' },
   { id: 'gpsc', name: 'GPSC', url: 'https://gpsc.gujarat.gov.in/' },
   { id: 'hpsc', name: 'HPSC', url: 'https://www.hpsc.gov.in/' },
@@ -317,7 +317,7 @@ const HTML_SITES = [
   // Teaching & Others
   { id: 'ctet', name: 'CTET', url: 'https://ctet.nic.in/' },
   { id: 'dsssb', name: 'DSSSB', url: 'https://dsssb.delhi.gov.in/' },
-  { id: 'sainik', name: 'Sainik School', url: 'https://aissee.nta.nic.in/' },  // exams.nta.ac.in/AISSEE 404; dedicated portal is aissee.nta.nic.in
+  { id: 'sainik', name: 'Sainik School', url: 'https://nta.ac.in/ExamDetail?ExamCode=AISSEE' },  // aissee.nta.nic.in DNS fails from GH Actions; use NTA exam detail page
   { id: 'cbdt', name: 'Income Tax', url: 'https://incometaxindia.gov.in/Pages/press-releases.aspx' },
 
   // State Boards (results)
