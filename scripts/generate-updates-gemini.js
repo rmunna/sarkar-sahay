@@ -406,8 +406,12 @@ Return ONLY valid JSON. Use null if genuinely not present (do not guess):
 function validateContentQuality(content) {
   const issues = [];
   const lines = content.split('\n');
+  const h2Seen = new Set();
+  let inTable = false;
 
-  for (const line of lines) {
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+
     // All-caps section headings (from PDF text bleeding into ## headings)
     if (line.startsWith('##')) {
       const text = line.replace(/^#+\s*/, '');
@@ -416,10 +420,32 @@ function validateContentQuality(content) {
       if (letters.length > 10 && upper.length / letters.length > 0.8) {
         issues.push(`all-caps heading: "${text.slice(0, 60)}"`);
       }
+      // Duplicate H2 detection
+      if (line.startsWith('## ')) {
+        const normalized = text.trim().toLowerCase();
+        if (h2Seen.has(normalized)) {
+          issues.push(`duplicate H2 heading: "${text.slice(0, 60)}"`);
+        }
+        h2Seen.add(normalized);
+      }
     }
+
     // Table padding bug (single line > 2000 chars — indicates model output issue)
     if (line.length > 2000) {
       issues.push(`oversized line: ${line.length} chars (table padding bug?)`);
+    }
+
+    // Broken table row: starts with | but doesn't end with | (unclosed cell)
+    if (line.trimStart().startsWith('|')) {
+      inTable = true;
+      const trimmed = line.trimEnd();
+      // Skip separator rows like |---|---| and header-divider rows
+      const isSeparator = /^\|[\s\-:|]+\|[\s\-:|]*$/.test(trimmed);
+      if (!isSeparator && !trimmed.endsWith('|')) {
+        issues.push(`broken table row at line ${i + 1}: "${trimmed.slice(0, 80)}"`);
+      }
+    } else if (inTable && line.trim() !== '') {
+      inTable = false;
     }
   }
 
@@ -522,7 +548,7 @@ const EXTRACT_JSON_SCHEMA = `{
   "found": true | false,
   "announcement": {
     "type": "notification" | "admit-card" | "result" | "answer-key" | "cutoff" | "exam-schedule" | "registration",
-    "examName": "full exam name with year e.g. SSC CGL 2026",
+    "examName": "SHORT common name — prefer acronym/abbreviation e.g. 'JIPMAT 2026', 'SSC CGL 2026', 'CTET Sep 2026'. Do NOT use the full official title.",
     "headline": "one factual headline sentence",
     "officialUrl": "ROOT domain only e.g. https://ssc.gov.in",
     "backupUrl": "second official ROOT domain URL",
@@ -901,8 +927,8 @@ function buildFrontmatter(source, announcement, slug) {
     ...(announcement.type === 'admit-card' ? [`${examLower} hall ticket download`, `${examLower} admit card 2026`] : []),
     ...(announcement.type === 'answer-key' ? [`${examLower} answer key pdf`, `${examLower} objection`] : []),
   ];
-  // Deduplicate
-  const keywords = [...new Set(rawKeywords.map(k => k.trim()).filter(Boolean))];
+  // Deduplicate + drop any keyword > 60 chars (verbose exam names bleed in otherwise)
+  const keywords = [...new Set(rawKeywords.map(k => k.trim()).filter(k => k && k.length <= 60))];
 
   const fm = {
     title: buildTitle(announcement, source),
@@ -969,7 +995,23 @@ function buildTitle(announcement, source) {
     return `${announcement.examName} Admit Card${examDate && examDate !== 'TBA' ? ` — Exam ${formatDate(examDate)}` : ''} — Download at ${getDomain(announcement.officialUrl)}`;
   }
 
-  return `${announcement.examName} ${label} — ${source.name} Official Update`;
+  // registration: lead with deadline; exam-schedule: lead with exam date; others: source name
+  if (announcement.type === 'registration') {
+    const lastDate = announcement.importantDates?.lastDateToApply;
+    if (lastDate && lastDate !== 'TBA') {
+      return `${announcement.examName} ${label} — Apply Online by ${formatDate(lastDate)}`;
+    }
+  }
+  if (announcement.type === 'exam-schedule') {
+    const examDate = announcement.importantDates?.examDate;
+    if (examDate && examDate !== 'TBA') {
+      return `${announcement.examName} Exam Date — ${formatDate(examDate)}`;
+    }
+  }
+  if (announcement.type === 'cutoff') {
+    return `${announcement.examName} Cut-off Marks — ${source.name} Official List`;
+  }
+  return `${announcement.examName} ${label} — ${source.name}`;
 }
 
 function buildDescription(announcement, source) {
@@ -1039,6 +1081,33 @@ function toTitleCase(str) {
     if (/^\d/.test(clean)) return word;
     return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
   }).join('');
+}
+
+/**
+ * Shorten verbose exam names returned by Gemini.
+ * If the name contains a parenthetical acronym like "…(JIPMAT)…" or "…(SSC CGL)…",
+ * extract it and append the year portion.
+ * E.g. "Joint Integrated Programme in Management Admission Test (JIPMAT)-2026"
+ *   → "JIPMAT 2026"
+ * E.g. "Combined Graduate Level (CGL) Examination 2026"
+ *   → "SSC CGL 2026"  (org prefix handled by caller)
+ * Leaves short names (<= 40 chars) unchanged.
+ */
+function normalizeExamName(name) {
+  if (!name || name.length <= 40) return name;
+  // Extract acronym from parentheses: "…(ACRONYM)…" or "…(ACRONYM)-YEAR"
+  const acronymMatch = name.match(/\(([A-Z][A-Z0-9 \-]{1,20})\)/);
+  if (acronymMatch) {
+    const acronym = acronymMatch[1].trim();
+    // Extract optional month qualifier + year: e.g. "Sep 2026" or "2026-27"
+    const yearMatch = name.match(/\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[\s\-]+(20[2-3][0-9])(?:[–\-]\d{2,4})?\b|\b(20[2-3][0-9])(?:[–\-](\d{2,4}))?\b/);
+    if (yearMatch) {
+      const suffix = yearMatch[0].replace('–', '-');
+      return `${acronym} ${suffix}`;
+    }
+    return acronym;
+  }
+  return name;
 }
 
 /**
@@ -1209,8 +1278,8 @@ async function main() {
     }
     // Treat "TBA" vacancies as missing (don't emit noisy TBA in frontmatter)
     if (ann.vacancies === 'TBA') ann.vacancies = null;
-    // Convert all-caps PDF exam names to Title Case
-    ann.examName = toTitleCase(ann.examName);
+    // Convert all-caps PDF exam names to Title Case, then shorten if verbose
+    ann.examName = normalizeExamName(toTitleCase(ann.examName));
     // Normalize ageLimit — drop bare "TBA" values (they cause invalid YAML)
     if (ann.ageLimit) {
       if (ann.ageLimit.min === 'TBA' || ann.ageLimit.min === null) delete ann.ageLimit.min;
@@ -1220,6 +1289,23 @@ async function main() {
     log(`  → Found: [${ann.type}] ${ann.examName} (confidence: ${ann.confidenceScore})`);
 
     // ── Deduplication check ───────────────────────────────────────────────
+
+    // 0. Thin-content gate: if the announcement has almost no useful data, skip it.
+    //    Counts how many of the 6 most important fields are genuinely known (not TBA/null/empty).
+    const thinFields = [
+      ann.importantDates?.examDate,
+      ann.importantDates?.lastDateToApply,
+      ann.importantDates?.resultDate,
+      ann.applicationFee?.general,
+      ann.educationQualification,
+      ann.selectionProcess?.length > 0 ? 'ok' : null,
+    ];
+    const knownCount = thinFields.filter(v => v && v !== 'TBA' && v !== 'null').length;
+    if (knownCount < 2) {
+      log(`  ⏭  Thin content: only ${knownCount}/6 key fields known — skipping to avoid empty page`);
+      results.skipped.push({ source: source.name, reason: `thin content (${knownCount}/6 fields)`, exam: ann.examName });
+      continue;
+    }
 
     // 1. Confidence threshold
     if (ann.confidenceScore < 0.7) {
@@ -1286,12 +1372,22 @@ async function main() {
     }
     const contentBody = cleanMarkdown(rawContentBody);
 
-    // Programmatic quality check — catch all-caps headings, padding bugs, excessive TBA
+    // Programmatic quality check — catch all-caps headings, padding bugs, excessive TBA,
+    // duplicate H2s, broken table rows, and Gemini reasoning leaks.
     const qualityIssues = validateContentQuality(contentBody);
+    const criticalIssues = qualityIssues.filter(q =>
+      q.startsWith('Gemini reasoning leak') ||
+      q.startsWith('duplicate H2') ||
+      q.startsWith('broken table row')
+    );
     if (qualityIssues.length > 0) {
       log(`  ⚠️  Quality issues detected in generated content:`);
       for (const issue of qualityIssues) log(`     - ${issue}`);
-      // Log but don't block — oversized lines are caught by cleanMarkdown already
+    }
+    if (criticalIssues.length > 0) {
+      log(`  ❌ Critical quality issues — skipping write to avoid publishing bad content`);
+      results.errors.push({ source: source.name, exam: ann.examName, errors: criticalIssues });
+      continue;
     }
 
     // Sanity check: reject absurdly large content (> 200KB = model went haywire)
