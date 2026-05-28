@@ -1,75 +1,55 @@
 {
-  "scanTime": "2026-05-28T05:07:39.295Z",
-  "elapsedSeconds": 61.7,
-  "changesDetected": 9,
-  "errors": 25,
+  "scanTime": "2026-05-28T08:49:42.263Z",
+  "elapsedSeconds": 57.3,
+  "changesDetected": 7,
+  "errors": 23,
   "changes": [
     {
       "site": "SBI Careers",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://bank.sbi/documents/77530/0/03122024-SCO_09_SELECT_LIST_RM.pdf/6807986c-7598-35dd-9ab8-682a8c8a1683?t=1733204687360",
+      "type": "CONTENT_CHANGE",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-05-28T05:06:54.487Z"
-    },
-    {
-      "site": "SBI Careers",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://bank.sbi/documents/77530/0/03122024-sco_16_select_list.pdf/67955dcb-740b-9d88-ac5c-9a035c492221?t=1733218402835",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-05-28T05:06:54.487Z"
-    },
-    {
-      "site": "SBI Careers",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://bank.sbi/documents/77530/0/05102024-SBI+-+CRPD-SCO-2024-25_15+-+Hindi_FINAL.pdf/8fc5eee4-e819-d638-51ca-c9d705d62ba5?t=1728131774227",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-05-28T05:06:54.487Z"
+      "detectedAt": "2026-05-28T08:49:00.304Z"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-05-28T05:06:51.478Z"
+      "detectedAt": "2026-05-28T08:48:57.735Z"
+    },
+    {
+      "site": "ICAI (CA)",
+      "type": "CONTENT_CHANGE",
+      "url": "https://www.icai.org/",
+      "detectedAt": "2026-05-28T08:48:58.299Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-05-28T05:06:59.128Z"
+      "detectedAt": "2026-05-28T08:49:04.840Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-05-28T05:07:03.441Z"
+      "detectedAt": "2026-05-28T08:49:10.547Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-05-28T05:07:08.042Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "PDF_CHANGE",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-05-28T05:07:07.348Z"
+      "detectedAt": "2026-05-28T08:49:14.151Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-05-28T05:07:24.739Z"
+      "detectedAt": "2026-05-28T08:49:27.304Z"
     }
   ],
   "errorDetails": [
     {
       "site": "UPSC",
-      "error": "Timeout"
-    },
-    {
-      "site": "IBPS",
-      "url": "https://www.ibps.in/",
       "error": "Timeout"
     },
     {
@@ -105,7 +85,7 @@
     {
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
-      "error": "Timeout"
+      "error": ""
     },
     {
       "site": "BPSC",
@@ -150,11 +130,6 @@
     {
       "site": "HPSC",
       "url": "https://www.hpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "JPSC",
-      "url": "https://www.jpsc.gov.in/",
       "error": "Timeout"
     },
     {
