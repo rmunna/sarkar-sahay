@@ -1,112 +1,121 @@
 {
-  "scanTime": "2026-05-28T15:01:39.503Z",
-  "elapsedSeconds": 55.4,
-  "changesDetected": 5,
-  "errors": 31,
+  "scanTime": "2026-05-28T14:54:53.013Z",
+  "elapsedSeconds": 36.8,
+  "changesDetected": 17,
+  "errors": 8,
   "changes": [
     {
       "site": "SBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-05-28T15:01:01.727Z"
+      "detectedAt": "2026-05-28T14:54:26.159Z"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-05-28T15:00:58.904Z"
+      "detectedAt": "2026-05-28T14:54:23.254Z"
+    },
+    {
+      "site": "NABARD",
+      "type": "CONTENT_CHANGE",
+      "url": "https://www.nabard.org/career-notices.aspx",
+      "detectedAt": "2026-05-28T14:54:26.369Z"
+    },
+    {
+      "site": "Indian Army",
+      "type": "CONTENT_CHANGE",
+      "url": "https://joinindianarmy.nic.in/",
+      "detectedAt": "2026-05-28T14:54:24.611Z"
+    },
+    {
+      "site": "Indian Navy",
+      "type": "CONTENT_CHANGE",
+      "url": "https://www.joinindiannavy.gov.in/",
+      "detectedAt": "2026-05-28T14:54:25.725Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-05-28T15:01:09.146Z"
+      "detectedAt": "2026-05-28T14:54:27.409Z"
     },
     {
       "site": "BSF",
       "type": "CONTENT_CHANGE",
       "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-05-28T15:01:09.801Z"
+      "detectedAt": "2026-05-28T14:54:27.209Z"
+    },
+    {
+      "site": "KVS",
+      "type": "CONTENT_CHANGE",
+      "url": "https://kvsangathan.nic.in/",
+      "detectedAt": "2026-05-28T14:54:30.813Z"
+    },
+    {
+      "site": "NVS (Navodaya)",
+      "type": "CONTENT_CHANGE",
+      "url": "https://navodaya.gov.in/",
+      "detectedAt": "2026-05-28T14:54:31.580Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-05-28T15:01:20.685Z"
+      "detectedAt": "2026-05-28T14:54:33.406Z"
+    },
+    {
+      "site": "RPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://rpsc.rajasthan.gov.in/",
+      "detectedAt": "2026-05-28T14:54:34.331Z"
+    },
+    {
+      "site": "TNPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://www.tnpsc.gov.in/",
+      "detectedAt": "2026-05-28T14:54:33.065Z"
+    },
+    {
+      "site": "KPSC/KEA",
+      "type": "CONTENT_CHANGE",
+      "url": "https://cetonline.karnataka.gov.in/kea/",
+      "detectedAt": "2026-05-28T14:54:38.467Z"
+    },
+    {
+      "site": "GPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://gpsc.gujarat.gov.in/",
+      "detectedAt": "2026-05-28T14:54:39.057Z"
+    },
+    {
+      "site": "HPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://www.hpsc.gov.in/",
+      "detectedAt": "2026-05-28T14:54:40.246Z"
+    },
+    {
+      "site": "DSSSB",
+      "type": "CONTENT_CHANGE",
+      "url": "https://dsssb.delhi.gov.in/",
+      "detectedAt": "2026-05-28T14:54:44.089Z"
+    },
+    {
+      "site": "UP Board",
+      "type": "CONTENT_CHANGE",
+      "url": "https://upmsp.edu.in/",
+      "detectedAt": "2026-05-28T14:54:43.815Z"
     }
   ],
   "errorDetails": [
     {
-      "site": "NTA",
-      "error": "Timeout"
-    },
-    {
-      "site": "UPSC",
-      "error": "Timeout"
-    },
-    {
-      "site": "NABARD",
-      "url": "https://www.nabard.org/career-notices.aspx",
-      "error": "Timeout"
-    },
-    {
-      "site": "Indian Army",
-      "url": "https://joinindianarmy.nic.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "Indian Navy",
-      "url": "https://www.joinindiannavy.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "Air Force",
       "url": "https://afcat.cdac.in/AFCAT/",
-      "error": "Timeout"
-    },
-    {
-      "site": "ITBP",
-      "url": "https://recruitment.itbpolice.nic.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "KVS",
-      "url": "https://kvsangathan.nic.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "NVS (Navodaya)",
-      "url": "https://navodaya.gov.in/",
-      "error": "Timeout"
+      "error": "HTTP 503"
     },
     {
       "site": "BPSC",
       "url": "https://www.bpsc.bih.nic.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "MPPSC",
-      "url": "https://mppsc.mp.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "RPSC",
-      "url": "https://rpsc.rajasthan.gov.in/",
-      "error": ""
-    },
-    {
-      "site": "TNPSC",
-      "url": "https://www.tnpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "KPSC/KEA",
-      "url": "https://cetonline.karnataka.gov.in/kea/",
-      "error": "Timeout"
-    },
-    {
-      "site": "APPSC",
-      "url": "https://psc.ap.gov.in/",
       "error": "Timeout"
     },
     {
@@ -120,54 +129,14 @@
       "error": "Timeout"
     },
     {
-      "site": "GPSC",
-      "url": "https://gpsc.gujarat.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "HPSC",
-      "url": "https://www.hpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "JPSC",
-      "url": "https://www.jpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "CGPSC",
-      "url": "https://psc.cg.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "UKPSC",
-      "url": "https://ukpsc.net.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "CTET",
-      "url": "https://ctet.nic.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "DSSSB",
-      "url": "https://dsssb.delhi.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "Sainik School",
       "url": "https://nta.ac.in/ExamDetail?ExamCode=AISSEE",
-      "error": "Timeout"
+      "error": "HTTP 404"
     },
     {
       "site": "Income Tax",
       "url": "https://incometaxindia.gov.in/Pages/press-releases.aspx",
-      "error": "Timeout"
-    },
-    {
-      "site": "RBSE Rajasthan",
-      "url": "https://rajeduboard.rajasthan.gov.in/",
-      "error": "Timeout"
+      "error": "HTTP 403"
     },
     {
       "site": "MSBTE",
@@ -175,19 +144,9 @@
       "error": "Timeout"
     },
     {
-      "site": "UP Board",
-      "url": "https://upmsp.edu.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "MP Board",
-      "url": "https://mpbse.nic.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     }
   ]
 }

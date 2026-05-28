@@ -1,22 +1,22 @@
 {
-  "scannedAt": "2026-05-28T11:36:27.702300",
+  "scannedAt": "2026-05-28T16:06:39.821254",
   "results": [
     {
       "topic": "upsc answer key 2026",
       "category": "Jobs",
-      "rising_value": 4300,
+      "rising_value": 4850,
       "guide_exists": "ssc-aso-ssa-jsa-ldce-2024-final-answer-key"
     },
     {
       "topic": "aibe admit card",
       "category": "Jobs",
-      "rising_value": 2650,
+      "rising_value": 2400,
       "guide_exists": null
     },
     {
       "topic": "aibe admit card 2026",
       "category": "Jobs",
-      "rising_value": 2500,
+      "rising_value": 2150,
       "guide_exists": null
     },
     {
@@ -34,7 +34,7 @@
     {
       "topic": "plus two result 2026",
       "category": "Jobs",
-      "rising_value": 800,
+      "rising_value": 650,
       "guide_exists": null
     },
     {
@@ -52,7 +52,7 @@
     {
       "topic": "upsc prelims 2026",
       "category": "Jobs",
-      "rising_value": 350,
+      "rising_value": 400,
       "guide_exists": null
     },
     {
@@ -64,27 +64,33 @@
     {
       "topic": "ssc cgl notification 2026",
       "category": "Jobs",
-      "rising_value": 250,
+      "rising_value": 300,
       "guide_exists": "ssc-cgl-vs-ssc-chsl-comparison"
     },
     {
       "topic": "ssc cgl",
       "category": "Jobs",
-      "rising_value": 170,
+      "rising_value": 180,
       "guide_exists": "ssc-cgl-vs-ssc-chsl-comparison"
+    },
+    {
+      "topic": "rpsc",
+      "category": "Jobs",
+      "rising_value": 130,
+      "guide_exists": null
     }
   ],
   "opportunities": [
     {
       "topic": "aibe admit card",
       "category": "Jobs",
-      "rising_value": 2650,
+      "rising_value": 2400,
       "guide_exists": null
     },
     {
       "topic": "aibe admit card 2026",
       "category": "Jobs",
-      "rising_value": 2500,
+      "rising_value": 2150,
       "guide_exists": null
     },
     {
@@ -102,7 +108,7 @@
     {
       "topic": "plus two result 2026",
       "category": "Jobs",
-      "rising_value": 800,
+      "rising_value": 650,
       "guide_exists": null
     },
     {
@@ -114,13 +120,19 @@
     {
       "topic": "upsc prelims 2026",
       "category": "Jobs",
-      "rising_value": 350,
+      "rising_value": 400,
       "guide_exists": null
     },
     {
       "topic": "rgpv result",
       "category": "Jobs",
       "rising_value": 350,
+      "guide_exists": null
+    },
+    {
+      "topic": "rpsc",
+      "category": "Jobs",
+      "rising_value": 130,
       "guide_exists": null
     }
   ],
@@ -128,7 +140,7 @@
     {
       "topic": "upsc answer key 2026",
       "category": "Jobs",
-      "rising_value": 4300,
+      "rising_value": 4850,
       "guide_exists": "ssc-aso-ssa-jsa-ldce-2024-final-answer-key"
     },
     {
@@ -140,13 +152,13 @@
     {
       "topic": "ssc cgl notification 2026",
       "category": "Jobs",
-      "rising_value": 250,
+      "rising_value": 300,
       "guide_exists": "ssc-cgl-vs-ssc-chsl-comparison"
     },
     {
       "topic": "ssc cgl",
       "category": "Jobs",
-      "rising_value": 170,
+      "rising_value": 180,
       "guide_exists": "ssc-cgl-vs-ssc-chsl-comparison"
     }
   ]

@@ -134,16 +134,30 @@ export default async function UpdatePage({ params }: Props) {
 
   const articleSchema = {
     "@context": "https://schema.org",
-    "@type": "Article",
+    "@type": "NewsArticle",
     headline: update.title,
     description: update.description,
     datePublished: update.publishedDate,
-    publisher: {
+    dateModified: update.publishedDate,
+    author: {
       "@type": "Organization",
       name: "CitizenNest",
       url: BASE_URL,
     },
-    mainEntityOfPage: `${BASE_URL}/update/${update.slug}`,
+    publisher: {
+      "@type": "Organization",
+      name: "CitizenNest",
+      url: BASE_URL,
+      logo: {
+        "@type": "ImageObject",
+        url: `${BASE_URL}/logo.png`,
+      },
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `${BASE_URL}/update/${update.slug}`,
+    },
+    keywords: update.keywords?.join(", "),
   };
 
   const breadcrumbSchema = {

@@ -1,13 +1,22 @@
 {
-  "scannedAt": "2026-05-28T06:06:28.333Z",
+  "scannedAt": "2026-05-28T10:36:40.604Z",
   "govtTrends": [
     {
-      "title": "jac delhi",
-      "traffic": "200+",
-      "pubDate": "Wed, 27 May 2026 22:10:00 -0700",
-      "newsTitle": "JAC Delhi 2026 counselling begins today: Registration to open for DTU, NSUT, IIIT-Delhi BTech admissions",
+      "title": "gas",
+      "traffic": "2000+",
+      "pubDate": "Thu, 28 May 2026 02:40:00 -0700",
+      "newsTitle": "Trump wants a gas tax holiday. There’s a much bigger problem looming",
       "source": "google_trends",
-      "suggestedSlug": "jac-delhi",
+      "suggestedSlug": "gas",
+      "guideExists": false
+    },
+    {
+      "title": "dharmendra pradhan",
+      "traffic": "2000+",
+      "pubDate": "Thu, 28 May 2026 02:30:00 -0700",
+      "newsTitle": "CBSE OSM: Controversies rock crucial school-leaving exam in India",
+      "source": "google_trends",
+      "suggestedSlug": "dharmendra-pradhan",
       "guideExists": false
     }
   ],
