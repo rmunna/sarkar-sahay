@@ -1,6 +1,6 @@
 {
-  "scanTime": "2026-05-28T09:48:40.579Z",
-  "elapsedSeconds": 55.7,
+  "scanTime": "2026-05-28T12:31:37.008Z",
+  "elapsedSeconds": 50.4,
   "changesDetected": 7,
   "errors": 22,
   "changes": [
@@ -8,43 +8,43 @@
       "site": "SBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-05-28T09:48:00.613Z"
+      "detectedAt": "2026-05-28T12:31:01.391Z"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-05-28T09:47:58.309Z"
+      "detectedAt": "2026-05-28T12:30:59.314Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-05-28T09:48:04.798Z"
+      "detectedAt": "2026-05-28T12:31:06.272Z"
     },
     {
       "site": "BSF",
       "type": "CONTENT_CHANGE",
       "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-05-28T09:48:04.944Z"
+      "detectedAt": "2026-05-28T12:31:06.359Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-05-28T09:48:09.236Z"
+      "detectedAt": "2026-05-28T12:31:09.766Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-05-28T09:48:12.495Z"
+      "detectedAt": "2026-05-28T12:31:13.278Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-05-28T09:48:26.111Z"
+      "detectedAt": "2026-05-28T12:31:28.867Z"
     }
   ],
   "errorDetails": [
@@ -155,7 +155,7 @@
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     }
   ]
 }
