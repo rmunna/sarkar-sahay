@@ -57,7 +57,7 @@
       "lastChanged": "2026-03-01T02:46:19.512Z"
     },
     "ssc:notices": {
-      "lastChecked": "2026-05-28T16:51:53.136Z",
+      "lastChecked": "2026-05-28T19:33:56.280Z",
       "noticeIds": [
         "82liqxb6q7v0m8s0jg65w",
         "q7dih97yi2jfor4swjm9p",
@@ -82,7 +82,7 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-05-28T16:51:57.028Z",
+      "lastChecked": "2026-05-28T19:34:00.508Z",
       "noticeIds": [
         "20260527224323",
         "20260527222829",
@@ -805,7 +805,7 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-05-28T16:52:05.621Z",
+      "lastChecked": "2026-05-28T19:34:09.221Z",
       "contentHash": "618abcee6e251fbe86d871242aa73961",
       "pdfHash": "9e5ad7eec8260afa3e3bb72deb1ae10a",
       "pdfs": [
@@ -816,8 +816,8 @@
       ]
     },
     "sbi:hash": {
-      "lastChecked": "2026-05-28T14:54:26.159Z",
-      "contentHash": "96f4b143e1b5da58cec12a7f65d75720",
+      "lastChecked": "2026-05-28T19:34:10.411Z",
+      "contentHash": "07ad4b52c9758b9213950506f9c2bfd1",
       "pdfHash": "54d2b115831a3468e8fe775fafb923ca",
       "pdfs": [
         "https://bank.sbi/documents/77530/0/03122024-SCO_09_SELECT_LIST_RM.pdf/6807986c-7598-35dd-9ab8-682a8c8a1683?t=1733204687360",
@@ -1232,13 +1232,13 @@
       ]
     },
     "uppsc:hash": {
-      "lastChecked": "2026-05-28T16:52:20.872Z",
-      "contentHash": "027011c0a9a4b26064fb14e353d30ee8",
+      "lastChecked": "2026-05-28T19:34:25.624Z",
+      "contentHash": "242b5af753722bd4b2c2fac4d2f9d807",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-05-28T16:52:04.449Z",
+      "lastChecked": "2026-05-28T19:34:08.449Z",
       "contentHash": "d73d6b3ca9ca2cec845a9eb5d6b217b9",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
       "pdfs": [
@@ -1259,8 +1259,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-05-28T16:52:04.216Z",
-      "contentHash": "fd3871d45be206573472ac47d301f6ae",
+      "lastChecked": "2026-05-28T19:34:08.189Z",
+      "contentHash": "11d6f87ef17cb65ea43c63619e12a0ec",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "pdfs": [
         "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
@@ -1284,14 +1284,14 @@
       "pdfs": []
     },
     "cbse:hash": {
-      "lastChecked": "2026-05-28T16:52:12.004Z",
+      "lastChecked": "2026-05-28T19:34:17.405Z",
       "contentHash": "d6a628eaab0dd482f268ee87f0443394",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "bsf:hash": {
-      "lastChecked": "2026-05-28T14:54:27.209Z",
-      "contentHash": "a94dc1f2f080d576261eec4f389fe8f2",
+      "lastChecked": "2026-05-28T19:34:19.030Z",
+      "contentHash": "41272cade0b393e60436fe7a112bb572",
       "pdfHash": "63d89b350a3b7d01d5a4a386b54fce7f",
       "pdfs": [
         "https://d3t79nicn48uzj.cloudfront.net/bsf/custom/1779709440.pdf",
@@ -1316,8 +1316,8 @@
       ]
     },
     "cisf:hash": {
-      "lastChecked": "2026-05-28T16:52:11.627Z",
-      "contentHash": "931db27dafabeca6156803c0bc3e6b8d",
+      "lastChecked": "2026-05-28T19:34:17.916Z",
+      "contentHash": "40b0ffefe22d8e5df0b2943563215427",
       "pdfHash": "dcb8f9d4988ce1cb962ced406b83bc91",
       "pdfs": [
         "https://cisf.gov.in/assets/pdfs/2025/08/id_eng.pdf",
@@ -1339,7 +1339,7 @@
       "pdfCount": 0
     },
     "crpf:hash": {
-      "lastChecked": "2026-05-28T16:52:13.931Z",
+      "lastChecked": "2026-05-28T19:34:20.022Z",
       "contentHash": "1486498231d27c3027e93954dec5567d",
       "pdfHash": "54327c482d22b3933eb335c1a9b4500f",
       "pdfs": [
@@ -1370,8 +1370,8 @@
       ]
     },
     "kvs:hash": {
-      "lastChecked": "2026-05-28T16:52:15.923Z",
-      "contentHash": "2321c171e975860d2dbcb15f6854e75c",
+      "lastChecked": "2026-05-28T19:34:21.437Z",
+      "contentHash": "e4bcdc905862fecfa23dfca85cf45d59",
       "pdfHash": "3814a4a73ff2a42e331ef46624f41e2f",
       "pdfs": [
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/11/2023112463.pdf",
@@ -1412,7 +1412,7 @@
       ]
     },
     "ugc:hash": {
-      "lastChecked": "2026-05-28T16:52:17.671Z",
+      "lastChecked": "2026-05-28T19:34:23.547Z",
       "contentHash": "afd68862fdf99c50e8d36a196d1afb9a",
       "pdfHash": "95dd0e41cad4c36bd545cf906a567d8b",
       "pdfs": [
@@ -1440,9 +1440,9 @@
       ]
     },
     "mppsc:hash": {
-      "lastChecked": "2026-05-28T16:52:20.883Z",
-      "contentHash": "6be061c99633bee4984ac401bfedf3ba",
-      "pdfHash": "e62fa867650a4b973fecb689d9f73035",
+      "lastChecked": "2026-05-28T19:34:24.992Z",
+      "contentHash": "5f978d1500837fa5537754ee26344431",
+      "pdfHash": "ee01785352e69f212c7ce6c089d117f1",
       "pdfs": [
         "https://mppsc.mp.gov.in/uploads/advertisement/Additional_Subjects_Assistant_Professor_Sanskrit_2025.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Advt_ADPO_Exam_2026_Dated_10_03_2026.pdf",
@@ -1471,10 +1471,8 @@
         "https://mppsc.mp.gov.in/uploads/advertisement/Advt_State_Forest_Service_Examination_2026_Dated_31_12_2025.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Advt_State_Service_Exam_2026_Dated_31_12_2025.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Advt_Unani_Medical_Officer_Exam_2025_Dated_31_12_2025.pdf",
-        "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Inspector_Boiler_Grade_2_2026_Dated_13_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Result_State_Forest_Service_Preliminary_Exam_2026_Dated_22_05_20261.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Revised_Tuberculosis_Specialist_2024_dated_21_05_2026.pdf",
-        "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_State_Eligibility_Test_SET_2025_Dated_13_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Corrigendum_Dental_Specialist_2024_Dated_21_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Corrigendum_State_Service_Exam_2026_Dated_20_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Anesthesia_Specialist_2024_Dated_21_05_2026.pdf",
@@ -1488,7 +1486,6 @@
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Medical_Specialist_2024_Dated_18_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Ophthalmologist_Specialist_2024_Dated_14_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Orthopedic_Specialist_2024_Dated_20_05_2026.pdf",
-        "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Paediatric_Specialist_2024_Dated_13_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Pathology_Specialist_2024_Dated_15_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Sports_Officer_Exam_2024_Dated_19_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Sports_Officer_Exam_2024_Dated_26_05_2026.pdf",
@@ -1496,26 +1493,21 @@
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_State_Service_Mains_Exam_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Surgery_Specialist_2024_Dated_19_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigypti_Gynaecology_Specialist_2024_Dated_20_05_2026.pdf",
-        "https://mppsc.mp.gov.in/uploads/files/Additional_Result_Scientific_Officer_Chemistry_2013_Dated_13_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Caveat_Vigyapti_Result_State_Service_Preliminary_Exam_2026_Dated_22_05_20261.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Exam_Plan_And_Syllabus_AD_Veterinary_Assistant_Surgeon_VEO_2026_Dated_25_05_20261.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Exam_Plan_And_Syllabus_Internal_Accounts_Examiner_Officer_2026_Dated_25_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Exam_Plan_and_Syllabus_Scientific_Officer_Chemistry_Exam_2026_Dated_18_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Final_Answer_Key_SSE_SFS_Exam_2026_Dated_19_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Final_Answer_Key_State_Engineering_Service_Exam_2025_Dated_20_05_2026.pdf",
-        "https://mppsc.mp.gov.in/uploads/files/Obtained_Mark_List_Inspector_Boiler_Grade_2_2026_Dated_13_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Provisional_Answer_Key_Assistant_Registrar_Exam_2025_Dated_26_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Provisional_Answer_Key_Assistant_Research_Officer_Exam_2024_Dated_27_05_2026.pdf",
-        "https://mppsc.mp.gov.in/uploads/files/Result_State_Eligibility_Test_SET_2025_Dated_13_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Result_State_Forest_Service_Preliminary_Exam_2026_Dated_22_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Result_State_Service_Preliminary_Exam_2026_Dated_22_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Revised_Exam_Calendar_2026_Dated_15_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Revised_Obtained_Mark_List_Tuberculosis_Specialist_2024_Dated_21_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Revised_Selection_List_Tuberculosis_Specialist_2024_Dated_21_05_2026.pdf",
-        "https://mppsc.mp.gov.in/uploads/files/Selection_List_Inspector_Boiler_Grade_2_2026_Dated_13_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Tender_Notice_2611_01_2017_Lekha.pdf",
-        "https://mppsc.mp.gov.in/uploads/files/Vigyapti_3272_02_2011_Computer.pdf",
-        "https://mppsc.mp.gov.in/uploads/files/Vigyapti_Scientific_Officer_Chemistry_2013_Dated_13_05_2026.pdf"
+        "https://mppsc.mp.gov.in/uploads/files/Vigyapti_3272_02_2011_Computer.pdf"
       ]
     },
     "tnpsc:hash": {
@@ -1544,7 +1536,7 @@
       ]
     },
     "cuet:hash": {
-      "lastChecked": "2026-05-28T16:52:20.270Z",
+      "lastChecked": "2026-05-28T19:34:25.146Z",
       "contentHash": "4e82e4d11f18d5bd9bb6eef111744a42",
       "pdfHash": "22d3664ee67d6eb549c1929278cd7a4b",
       "pdfs": [
@@ -1848,7 +1840,7 @@
       ]
     },
     "ignou:hash": {
-      "lastChecked": "2026-05-28T16:52:21.819Z",
+      "lastChecked": "2026-05-28T19:34:25.908Z",
       "contentHash": "059819306b891066717d6bfe47f86493",
       "pdfHash": "af84736a61ff48e2daf9d78fd5394f2a",
       "pdfs": [
@@ -1864,7 +1856,7 @@
       "pdfs": []
     },
     "jpsc:hash": {
-      "lastChecked": "2026-05-28T14:54:38.103Z",
+      "lastChecked": "2026-05-28T19:34:32.079Z",
       "contentHash": "df5e0c39a35d88d4803d85579228bb68",
       "pdfHash": "c81cae127ad2cea7bedabdb4973b7f7d",
       "pdfs": [
@@ -2022,14 +2014,14 @@
       ]
     },
     "ukpsc:hash": {
-      "lastChecked": "2026-05-28T16:52:34.944Z",
+      "lastChecked": "2026-05-28T19:34:36.296Z",
       "contentHash": "29183ec5cee976219d1fa1ec8bb74947",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "up-board:hash": {
-      "lastChecked": "2026-05-28T16:52:38.370Z",
-      "contentHash": "dba57ae67299f5b986977a503df94448",
+      "lastChecked": "2026-05-28T19:34:39.140Z",
+      "contentHash": "b44c2f3b9ffccf146f2bfdee811bf74f",
       "pdfHash": "71a54c9da12fec398807bf0d96052fbc",
       "pdfs": [
         "https://upmsp.edu.in/Downloads/Circular_2_04-04-2026.pdf",
@@ -2052,13 +2044,13 @@
       ]
     },
     "rbse:hash": {
-      "lastChecked": "2026-05-28T16:52:36.731Z",
+      "lastChecked": "2026-05-28T19:34:37.924Z",
       "contentHash": "7f127d3d8ecd4419f163c0d14fa4ba31",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "ctet:hash": {
-      "lastChecked": "2026-05-28T16:52:37.285Z",
+      "lastChecked": "2026-05-28T19:34:38.775Z",
       "contentHash": "a76bd54b1463317c659a67381d439fc3",
       "pdfHash": "3243cc5ff9cc78ab399571499e449e90",
       "pdfs": [
@@ -2096,7 +2088,7 @@
       ]
     },
     "mp-board:hash": {
-      "lastChecked": "2026-05-28T16:52:43.432Z",
+      "lastChecked": "2026-05-28T19:34:44.031Z",
       "contentHash": "1c042b51f1f39f0e328cc3eba3840cd1",
       "pdfHash": "02973078bb6b3d94f53549d614817487",
       "pdfs": [
@@ -2130,7 +2122,7 @@
       ]
     },
     "rrb:hash": {
-      "lastChecked": "2026-05-28T16:52:06.511Z",
+      "lastChecked": "2026-05-28T19:34:10.253Z",
       "contentHash": "f223c36b56c9713cfdf3cb578c28d52a",
       "pdfHash": "56bac08265942f3c4441d53c40137928",
       "pdfs": [
@@ -2722,5 +2714,5 @@
       ]
     }
   },
-  "lastScan": "2026-05-28T16:52:52.389Z"
+  "lastScan": "2026-05-28T19:34:52.850Z"
 }
