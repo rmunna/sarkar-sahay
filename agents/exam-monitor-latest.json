@@ -1,56 +1,49 @@
 {
-  "scanTime": "2026-05-28T08:49:42.263Z",
-  "elapsedSeconds": 57.3,
-  "changesDetected": 7,
-  "errors": 23,
+  "scanTime": "2026-05-28T08:59:07.457Z",
+  "elapsedSeconds": 51.5,
+  "changesDetected": 5,
+  "errors": 24,
   "changes": [
-    {
-      "site": "SBI Careers",
-      "type": "CONTENT_CHANGE",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-05-28T08:49:00.304Z"
-    },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-05-28T08:48:57.735Z"
-    },
-    {
-      "site": "ICAI (CA)",
-      "type": "CONTENT_CHANGE",
-      "url": "https://www.icai.org/",
-      "detectedAt": "2026-05-28T08:48:58.299Z"
+      "detectedAt": "2026-05-28T08:58:29.803Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-05-28T08:49:04.840Z"
+      "detectedAt": "2026-05-28T08:58:36.930Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-05-28T08:49:10.547Z"
+      "detectedAt": "2026-05-28T08:58:40.678Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-05-28T08:49:14.151Z"
+      "detectedAt": "2026-05-28T08:58:44.480Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-05-28T08:49:27.304Z"
+      "detectedAt": "2026-05-28T08:58:58.972Z"
     }
   ],
   "errorDetails": [
     {
       "site": "UPSC",
       "error": "Timeout"
+    },
+    {
+      "site": "SBI Careers",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "error": ""
     },
     {
       "site": "NABARD",
@@ -85,7 +78,7 @@
     {
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
-      "error": ""
+      "error": "Timeout"
     },
     {
       "site": "BPSC",
@@ -114,8 +107,8 @@
     },
     {
       "site": "TSPSC",
-      "url": "https://websitenew.tspsc.gov.in/",
-      "error": "getaddrinfo ENOTFOUND websitenew.tspsc.gov.in"
+      "url": "https://www.tspsc.gov.in/",
+      "error": "Timeout"
     },
     {
       "site": "WBPSC",
@@ -144,8 +137,8 @@
     },
     {
       "site": "Sainik School",
-      "url": "https://exams.nta.ac.in/AISSEE/",
-      "error": "HTTP 404"
+      "url": "https://aissee.nta.nic.in/",
+      "error": "getaddrinfo ENOTFOUND aissee.nta.nic.in"
     },
     {
       "site": "Income Tax",
@@ -160,7 +153,7 @@
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     }
   ]
 }
