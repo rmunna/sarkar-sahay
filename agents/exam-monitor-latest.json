@@ -1,50 +1,79 @@
 {
-  "scanTime": "2026-05-29T05:11:54.219Z",
-  "elapsedSeconds": 61.7,
-  "changesDetected": 7,
-  "errors": 24,
+  "scanTime": "2026-05-29T08:56:36.285Z",
+  "elapsedSeconds": 65.2,
+  "changesDetected": 11,
+  "errors": 23,
   "changes": [
     {
-      "site": "IBPS",
-      "type": "PDF_CHANGE",
-      "url": "https://www.ibps.in/",
-      "detectedAt": "2026-05-29T05:11:06.909Z"
+      "site": "NTA",
+      "type": "NEW_NOTICE",
+      "headline": "Hosting of Score Cards on Digi-Locker for National Teachers&#39; Eligibility Test (NTET)-2026 - reg.&nbsp;",
+      "date": "2026-05-29",
+      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260529120905.pdf",
+      "url": "https://nta.ac.in"
+    },
+    {
+      "site": "NTA",
+      "type": "NEW_NOTICE",
+      "headline": "details for availing the facility of Scribe by PwD/PwBD candidates in Joint Integrated Programme in Management Admission Test (JIPMAT)-2026-reg.&nbsp;",
+      "date": "2026-05-29",
+      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260529120330.pdf",
+      "url": "https://nta.ac.in"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-05-29T05:11:06.078Z"
+      "detectedAt": "2026-05-29T08:55:43.289Z"
+    },
+    {
+      "site": "RRB (Railway)",
+      "type": "CONTENT_CHANGE",
+      "url": "https://www.rrbcdg.gov.in/",
+      "detectedAt": "2026-05-29T08:55:45.678Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "CONTENT_CHANGE",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-05-29T08:55:55.660Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-05-29T05:11:15.220Z"
+      "detectedAt": "2026-05-29T08:55:53.416Z"
     },
     {
-      "site": "CBSE",
+      "site": "BSF",
       "type": "CONTENT_CHANGE",
-      "url": "https://www.cbse.gov.in/",
-      "detectedAt": "2026-05-29T05:11:16.145Z"
+      "url": "https://rectt.bsf.gov.in/",
+      "detectedAt": "2026-05-29T08:55:53.382Z"
     },
     {
       "site": "KVS",
-      "type": "CONTENT_CHANGE",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/05/2026052991.pdf",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-05-29T05:11:20.936Z"
+      "detectedAt": "2026-05-29T08:56:00.756Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-05-29T05:11:25.391Z"
+      "detectedAt": "2026-05-29T08:56:05.731Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-05-29T08:56:05.109Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-05-29T05:11:39.496Z"
+      "detectedAt": "2026-05-29T08:56:21.633Z"
     }
   ],
   "errorDetails": [
@@ -76,11 +105,6 @@
       "site": "Air Force",
       "url": "https://afcat.cdac.in/AFCAT/",
       "error": "Timeout"
-    },
-    {
-      "site": "BSF",
-      "url": "https://rectt.bsf.gov.in/",
-      "error": "HTTP 403"
     },
     {
       "site": "ITBP",
