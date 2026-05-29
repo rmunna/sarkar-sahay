@@ -1,90 +1,73 @@
 {
-  "scanTime": "2026-05-29T08:56:36.285Z",
-  "elapsedSeconds": 65.2,
-  "changesDetected": 11,
+  "scanTime": "2026-05-29T12:13:36.502Z",
+  "elapsedSeconds": 59.1,
+  "changesDetected": 9,
   "errors": 23,
   "changes": [
     {
-      "site": "NTA",
-      "type": "NEW_NOTICE",
-      "headline": "Hosting of Score Cards on Digi-Locker for National Teachers&#39; Eligibility Test (NTET)-2026 - reg.&nbsp;",
-      "date": "2026-05-29",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260529120905.pdf",
-      "url": "https://nta.ac.in"
+      "site": "SBI Careers",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://bank.sbi/documents/77530/52947104/29052026_SCO_01_Select+List.pdf/cd3270da-4b35-7226-98d9-951ac9824367?t=1780031551939",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-05-29T12:12:51.594Z"
     },
     {
-      "site": "NTA",
-      "type": "NEW_NOTICE",
-      "headline": "details for availing the facility of Scribe by PwD/PwBD candidates in Joint Integrated Programme in Management Admission Test (JIPMAT)-2026-reg.&nbsp;",
-      "date": "2026-05-29",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260529120330.pdf",
-      "url": "https://nta.ac.in"
+      "site": "SBI Careers",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://bank.sbi/documents/77530/57941334/29052026_Final+AD+Concurrent+Auditors+-+Hindi.pdf/368f88f2-e411-e920-5758-34a5174aa61b?t=1780035907865",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-05-29T12:12:51.594Z"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-05-29T08:55:43.289Z"
-    },
-    {
-      "site": "RRB (Railway)",
-      "type": "CONTENT_CHANGE",
-      "url": "https://www.rrbcdg.gov.in/",
-      "detectedAt": "2026-05-29T08:55:45.678Z"
+      "detectedAt": "2026-05-29T12:12:49.384Z"
     },
     {
       "site": "CRPF",
-      "type": "CONTENT_CHANGE",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://crpf.gov.in/Upload/Document/RRs_of_CT(General_Duty)_115042026-565.pdf",
       "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-05-29T08:55:55.660Z"
+      "detectedAt": "2026-05-29T12:13:01.257Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-05-29T08:55:53.416Z"
-    },
-    {
-      "site": "BSF",
-      "type": "CONTENT_CHANGE",
-      "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-05-29T08:55:53.382Z"
+      "detectedAt": "2026-05-29T12:12:58.848Z"
     },
     {
       "site": "KVS",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/05/2026052991.pdf",
+      "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-05-29T08:56:00.756Z"
+      "detectedAt": "2026-05-29T12:13:02.887Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-05-29T08:56:05.731Z"
+      "detectedAt": "2026-05-29T12:13:06.111Z"
     },
     {
       "site": "MPPSC",
-      "type": "CONTENT_CHANGE",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_AD_Veterinary_Assistant_Surgeon_VEO_2026_Dated_29_05_2026.pdf",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-05-29T08:56:05.109Z"
+      "detectedAt": "2026-05-29T12:13:05.746Z"
     },
     {
       "site": "UP Board",
-      "type": "CONTENT_CHANGE",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://upmsp.edu.in/Downloads/SarvjanikSuchanaLetterNo209.pdf",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-05-29T08:56:21.633Z"
+      "detectedAt": "2026-05-29T12:13:22.241Z"
     }
   ],
   "errorDetails": [
     {
       "site": "UPSC",
       "error": "Timeout"
-    },
-    {
-      "site": "SBI Careers",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "error": ""
     },
     {
       "site": "NABARD",
@@ -107,6 +90,11 @@
       "error": "Timeout"
     },
     {
+      "site": "BSF",
+      "url": "https://rectt.bsf.gov.in/",
+      "error": "HTTP 403"
+    },
+    {
       "site": "ITBP",
       "url": "https://recruitment.itbpolice.nic.in/",
       "error": "Timeout"
@@ -114,7 +102,7 @@
     {
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
-      "error": "Timeout"
+      "error": ""
     },
     {
       "site": "BPSC",
