@@ -1078,6 +1078,7 @@ function toTitleCase(str) {
     const clean = word.replace(/[^A-Za-z0-9]/g, '');
     if (!clean) return word;
     if (KEEP_UPPER.has(clean.toUpperCase())) return word.toUpperCase();
+    if (/^[A-Z]{2,}$/.test(clean)) return word; // preserve acronyms (NTET, UPSC, etc.)
     if (/^\d/.test(clean)) return word;
     return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
   }).join('');
