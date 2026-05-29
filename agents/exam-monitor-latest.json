@@ -1,67 +1,66 @@
 {
-  "scanTime": "2026-05-29T12:13:36.502Z",
-  "elapsedSeconds": 59.1,
+  "scanTime": "2026-05-29T16:14:51.256Z",
+  "elapsedSeconds": 62.4,
   "changesDetected": 9,
-  "errors": 23,
+  "errors": 26,
   "changes": [
     {
-      "site": "SBI Careers",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://bank.sbi/documents/77530/52947104/29052026_SCO_01_Select+List.pdf/cd3270da-4b35-7226-98d9-951ac9824367?t=1780031551939",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-05-29T12:12:51.594Z"
+      "site": "SSC",
+      "type": "NEW_NOTICE",
+      "headline": "Head Constable {Assistant Wireless Operator (AWO)/Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025 – Declaration of result of Computer Based Examination for shortlisting candidates to appear in Physical Endurance and Measurement Test (PE and MT)/ Document Verification (DV)/ Trade Test.",
+      "date": "2026-05-29T12:41:13.152Z",
+      "id": "hvcvnq6iuo746xj9qe5g4",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Write_up_DPHCT_2025_CBE.pdf",
+      "url": "https://ssc.gov.in"
     },
     {
       "site": "SBI Careers",
       "type": "PDF_CHANGE",
-      "pdfUrl": "https://bank.sbi/documents/77530/57941334/29052026_Final+AD+Concurrent+Auditors+-+Hindi.pdf/368f88f2-e411-e920-5758-34a5174aa61b?t=1780035907865",
+      "pdfUrl": "https://bank.sbi/documents/77530/57941334/29052026_SBI+-+CRPD-SCO-2026-27_05+-+Hindi.pdf/b69000cb-41bf-850d-c94d-9e377f62923d?t=1780059177665",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-05-29T12:12:51.594Z"
+      "detectedAt": "2026-05-29T16:14:03.229Z"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-05-29T12:12:49.384Z"
+      "detectedAt": "2026-05-29T16:14:01.524Z"
     },
     {
       "site": "CRPF",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://crpf.gov.in/Upload/Document/RRs_of_CT(General_Duty)_115042026-565.pdf",
+      "type": "CONTENT_CHANGE",
       "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-05-29T12:13:01.257Z"
+      "detectedAt": "2026-05-29T16:14:17.124Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-05-29T12:12:58.848Z"
+      "detectedAt": "2026-05-29T16:14:14.433Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-05-29T12:13:02.887Z"
+      "detectedAt": "2026-05-29T16:14:20.141Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-05-29T12:13:06.111Z"
+      "detectedAt": "2026-05-29T16:14:26.143Z"
     },
     {
       "site": "MPPSC",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_AD_Veterinary_Assistant_Surgeon_VEO_2026_Dated_29_05_2026.pdf",
+      "type": "CONTENT_CHANGE",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-05-29T12:13:05.746Z"
+      "detectedAt": "2026-05-29T16:14:24.417Z"
     },
     {
       "site": "UP Board",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://upmsp.edu.in/Downloads/SarvjanikSuchanaLetterNo209.pdf",
+      "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-05-29T12:13:22.241Z"
+      "detectedAt": "2026-05-29T16:14:42.310Z"
     }
   ],
   "errorDetails": [
@@ -72,6 +71,11 @@
     {
       "site": "NABARD",
       "url": "https://www.nabard.org/career-notices.aspx",
+      "error": "Timeout"
+    },
+    {
+      "site": "RRB (Railway)",
+      "url": "https://www.rrbcdg.gov.in/",
       "error": "Timeout"
     },
     {
@@ -142,7 +146,7 @@
     {
       "site": "GPSC",
       "url": "https://gpsc.gujarat.gov.in/",
-      "error": ""
+      "error": "Timeout"
     },
     {
       "site": "HPSC",
@@ -150,8 +154,18 @@
       "error": "Timeout"
     },
     {
+      "site": "JPSC",
+      "url": "https://www.jpsc.gov.in/",
+      "error": "Timeout"
+    },
+    {
       "site": "CGPSC",
       "url": "https://psc.cg.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "CTET",
+      "url": "https://ctet.nic.in/",
       "error": "Timeout"
     },
     {
@@ -177,7 +191,7 @@
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     }
   ]
 }
