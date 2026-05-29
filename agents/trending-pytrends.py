@@ -24,6 +24,16 @@ GUIDES_DIR = os.path.join(os.path.dirname(__file__), '..', 'content', 'guides')
 UPDATES_DIR = os.path.join(os.path.dirname(__file__), '..', 'content', 'updates')
 OUT_PATH = os.path.join(os.path.dirname(__file__), 'trending-pytrends.json')
 
+# Spike patterns — indicate an imminent traffic event (result / admit card / answer key)
+SPIKE_PATTERNS = [
+    'result', 'results', 'admit card', 'answer key', 'cut off', 'cutoff',
+    'merit list', 'scorecard', 'score card', 'counselling', 'counseling',
+    'rank card', 'marksheet', 'final answer',
+]
+
+# Minimum rising value to be considered a spike opportunity
+SPIKE_THRESHOLD = 200
+
 # Categories to monitor
 CATEGORIES = [
     (958, 'Jobs'),
@@ -65,6 +75,12 @@ def is_relevant(query):
     return any(rel in lower for rel in RELEVANT_PATTERNS)
 
 
+def is_spike(query, rising_value):
+    """True if this query signals an imminent high-traffic event."""
+    lower = query.lower()
+    return rising_value >= SPIKE_THRESHOLD and any(p in lower for p in SPIKE_PATTERNS)
+
+
 def check_guide_exists(topic):
     """Check if we have a guide or update matching this topic."""
     slug_words = [w for w in topic.lower().split() if len(w) > 2]
@@ -104,6 +120,7 @@ def main():
                             'category': cat_name,
                             'rising_value': value,
                             'guide_exists': guide,
+                            'is_spike': is_spike(query, value),
                         })
             time.sleep(1)
         except Exception as e:
@@ -140,12 +157,20 @@ def main():
     if not unique:
         print("  No relevant rising queries found.")
 
+    spike_candidates = [x for x in unique if x.get('is_spike') and not x['guide_exists']]
+
+    if spike_candidates:
+        print(f"\n🚨 SPIKE CANDIDATES ({len(spike_candidates)} — imminent traffic events):\n")
+        for s in spike_candidates:
+            print(f"  🔥 {s['topic']} (rising: {s['rising_value']}, cat: {s['category']})")
+
     # Save JSON
     output = {
         'scannedAt': datetime.now().isoformat(),
         'results': unique,
         'opportunities': opportunities,
         'covered': covered,
+        'spike_candidates': spike_candidates,
     }
     with open(OUT_PATH, 'w') as f:
         json.dump(output, f, indent=2)

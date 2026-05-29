@@ -1,165 +1,221 @@
 {
-  "scannedAt": "2026-05-28T16:06:39.821254",
+  "scannedAt": "2026-05-29T18:21:04.715801",
   "results": [
     {
       "topic": "upsc answer key 2026",
       "category": "Jobs",
-      "rising_value": 4850,
-      "guide_exists": "ssc-aso-ssa-jsa-ldce-2024-final-answer-key"
-    },
-    {
-      "topic": "aibe admit card",
-      "category": "Jobs",
-      "rising_value": 2400,
-      "guide_exists": null
-    },
-    {
-      "topic": "aibe admit card 2026",
-      "category": "Jobs",
-      "rising_value": 2150,
-      "guide_exists": null
-    },
-    {
-      "topic": "excise inspector admit card 2026",
-      "category": "Jobs",
-      "rising_value": 1900,
-      "guide_exists": null
+      "rising_value": 5150,
+      "guide_exists": "ssc-aso-ssa-jsa-ldce-2024-final-answer-key",
+      "is_spike": true
     },
     {
       "topic": "iiser admit card",
       "category": "Jobs",
-      "rising_value": 1500,
-      "guide_exists": null
+      "rising_value": 1450,
+      "guide_exists": null,
+      "is_spike": true
+    },
+    {
+      "topic": "iiser admit card 2026",
+      "category": "Jobs",
+      "rising_value": 1350,
+      "guide_exists": null,
+      "is_spike": true
+    },
+    {
+      "topic": "iat admit card",
+      "category": "Jobs",
+      "rising_value": 1300,
+      "guide_exists": null,
+      "is_spike": true
+    },
+    {
+      "topic": "jeecup admit card 2026",
+      "category": "Jobs",
+      "rising_value": 700,
+      "guide_exists": null,
+      "is_spike": true
     },
     {
       "topic": "plus two result 2026",
       "category": "Jobs",
       "rising_value": 650,
-      "guide_exists": null
+      "guide_exists": null,
+      "is_spike": true
     },
     {
-      "topic": "jeecup admit card 2026",
+      "topic": "bihar school examination board",
       "category": "Jobs",
-      "rising_value": 500,
-      "guide_exists": null
+      "rising_value": 550,
+      "guide_exists": "cbse-class-12-board-examination-2026-result",
+      "is_spike": false
+    },
+    {
+      "topic": "upsc prelims 2026",
+      "category": "Jobs",
+      "rising_value": 450,
+      "guide_exists": "upsc-cse-prelims-2026-answer-key",
+      "is_spike": false
     },
     {
       "topic": "common university entrance test",
       "category": "Jobs",
-      "rising_value": 400,
-      "guide_exists": "nta-national-eligibility-cum-entrance-test-ug-2026-result"
+      "rising_value": 450,
+      "guide_exists": "nta-national-eligibility-cum-entrance-test-ug-2026-result",
+      "is_spike": false
     },
     {
-      "topic": "upsc prelims 2026",
+      "topic": "comedk results 2026",
       "category": "Jobs",
       "rising_value": 400,
-      "guide_exists": null
+      "guide_exists": null,
+      "is_spike": true
     },
     {
-      "topic": "rgpv result",
-      "category": "Jobs",
-      "rising_value": 350,
-      "guide_exists": null
-    },
-    {
-      "topic": "ssc cgl notification 2026",
-      "category": "Jobs",
-      "rising_value": 300,
-      "guide_exists": "ssc-cgl-vs-ssc-chsl-comparison"
-    },
-    {
-      "topic": "ssc cgl",
+      "topic": "comedk result",
       "category": "Jobs",
       "rising_value": 180,
-      "guide_exists": "ssc-cgl-vs-ssc-chsl-comparison"
-    },
-    {
-      "topic": "rpsc",
-      "category": "Jobs",
-      "rising_value": 130,
-      "guide_exists": null
-    }
-  ],
-  "opportunities": [
-    {
-      "topic": "aibe admit card",
-      "category": "Jobs",
-      "rising_value": 2400,
-      "guide_exists": null
+      "guide_exists": null,
+      "is_spike": false
     },
     {
       "topic": "aibe admit card 2026",
       "category": "Jobs",
-      "rising_value": 2150,
-      "guide_exists": null
-    },
-    {
-      "topic": "excise inspector admit card 2026",
-      "category": "Jobs",
-      "rising_value": 1900,
-      "guide_exists": null
-    },
+      "rising_value": 180,
+      "guide_exists": null,
+      "is_spike": false
+    }
+  ],
+  "opportunities": [
     {
       "topic": "iiser admit card",
       "category": "Jobs",
-      "rising_value": 1500,
-      "guide_exists": null
+      "rising_value": 1450,
+      "guide_exists": null,
+      "is_spike": true
+    },
+    {
+      "topic": "iiser admit card 2026",
+      "category": "Jobs",
+      "rising_value": 1350,
+      "guide_exists": null,
+      "is_spike": true
+    },
+    {
+      "topic": "iat admit card",
+      "category": "Jobs",
+      "rising_value": 1300,
+      "guide_exists": null,
+      "is_spike": true
+    },
+    {
+      "topic": "jeecup admit card 2026",
+      "category": "Jobs",
+      "rising_value": 700,
+      "guide_exists": null,
+      "is_spike": true
     },
     {
       "topic": "plus two result 2026",
       "category": "Jobs",
       "rising_value": 650,
-      "guide_exists": null
+      "guide_exists": null,
+      "is_spike": true
     },
     {
-      "topic": "jeecup admit card 2026",
-      "category": "Jobs",
-      "rising_value": 500,
-      "guide_exists": null
-    },
-    {
-      "topic": "upsc prelims 2026",
+      "topic": "comedk results 2026",
       "category": "Jobs",
       "rising_value": 400,
-      "guide_exists": null
+      "guide_exists": null,
+      "is_spike": true
     },
     {
-      "topic": "rgpv result",
+      "topic": "comedk result",
       "category": "Jobs",
-      "rising_value": 350,
-      "guide_exists": null
+      "rising_value": 180,
+      "guide_exists": null,
+      "is_spike": false
     },
     {
-      "topic": "rpsc",
+      "topic": "aibe admit card 2026",
       "category": "Jobs",
-      "rising_value": 130,
-      "guide_exists": null
+      "rising_value": 180,
+      "guide_exists": null,
+      "is_spike": false
     }
   ],
   "covered": [
     {
       "topic": "upsc answer key 2026",
       "category": "Jobs",
-      "rising_value": 4850,
-      "guide_exists": "ssc-aso-ssa-jsa-ldce-2024-final-answer-key"
+      "rising_value": 5150,
+      "guide_exists": "ssc-aso-ssa-jsa-ldce-2024-final-answer-key",
+      "is_spike": true
+    },
+    {
+      "topic": "bihar school examination board",
+      "category": "Jobs",
+      "rising_value": 550,
+      "guide_exists": "cbse-class-12-board-examination-2026-result",
+      "is_spike": false
+    },
+    {
+      "topic": "upsc prelims 2026",
+      "category": "Jobs",
+      "rising_value": 450,
+      "guide_exists": "upsc-cse-prelims-2026-answer-key",
+      "is_spike": false
     },
     {
       "topic": "common university entrance test",
       "category": "Jobs",
+      "rising_value": 450,
+      "guide_exists": "nta-national-eligibility-cum-entrance-test-ug-2026-result",
+      "is_spike": false
+    }
+  ],
+  "spike_candidates": [
+    {
+      "topic": "iiser admit card",
+      "category": "Jobs",
+      "rising_value": 1450,
+      "guide_exists": null,
+      "is_spike": true
+    },
+    {
+      "topic": "iiser admit card 2026",
+      "category": "Jobs",
+      "rising_value": 1350,
+      "guide_exists": null,
+      "is_spike": true
+    },
+    {
+      "topic": "iat admit card",
+      "category": "Jobs",
+      "rising_value": 1300,
+      "guide_exists": null,
+      "is_spike": true
+    },
+    {
+      "topic": "jeecup admit card 2026",
+      "category": "Jobs",
+      "rising_value": 700,
+      "guide_exists": null,
+      "is_spike": true
+    },
+    {
+      "topic": "plus two result 2026",
+      "category": "Jobs",
+      "rising_value": 650,
+      "guide_exists": null,
+      "is_spike": true
+    },
+    {
+      "topic": "comedk results 2026",
+      "category": "Jobs",
       "rising_value": 400,
-      "guide_exists": "nta-national-eligibility-cum-entrance-test-ug-2026-result"
-    },
-    {
-      "topic": "ssc cgl notification 2026",
-      "category": "Jobs",
-      "rising_value": 300,
-      "guide_exists": "ssc-cgl-vs-ssc-chsl-comparison"
-    },
-    {
-      "topic": "ssc cgl",
-      "category": "Jobs",
-      "rising_value": 180,
-      "guide_exists": "ssc-cgl-vs-ssc-chsl-comparison"
+      "guide_exists": null,
+      "is_spike": true
     }
   ]
 }
