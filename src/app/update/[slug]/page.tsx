@@ -1,4 +1,5 @@
 import { getUpdateBySlug, getUpdateRawContent, getRelatedUpdates } from "@/lib/updates";
+import { getRelatedGuideForUpdate } from "@/lib/cross-links";
 import { generateFAQSchema, extractFAQs } from "@/lib/faq-schema";
 import { notFound } from "next/navigation";
 import Link from "next/link";
@@ -32,6 +33,20 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       siteName: "CitizenNest",
       type: "article",
       locale: "en_IN",
+      images: [
+        {
+          url: `${BASE_URL}/update/${update.slug}/opengraph-image`,
+          width: 1200,
+          height: 630,
+          alt: update.title,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: update.title,
+      description: update.description,
+      images: [`${BASE_URL}/update/${update.slug}/opengraph-image`],
     },
     alternates: {
       canonical: `${BASE_URL}/update/${update.slug}`,
@@ -127,6 +142,7 @@ export default async function UpdatePage({ params }: Props) {
   const headings = extractHeadings(update.contentHtml);
   const contentWithIds = addHeadingIds(update.contentHtml);
   const relatedUpdates = getRelatedUpdates(slug, 5);
+  const relatedGuide = getRelatedGuideForUpdate(slug);
   const stage = stageInfo[update.stage] || stageInfo["notification"];
   const statusBadge = getStatusBadge(update.status);
 
@@ -152,6 +168,12 @@ export default async function UpdatePage({ params }: Props) {
         "@type": "ImageObject",
         url: `${BASE_URL}/logo.png`,
       },
+    },
+    image: {
+      "@type": "ImageObject",
+      url: `${BASE_URL}/update/${update.slug}/opengraph-image`,
+      width: 1200,
+      height: 630,
     },
     mainEntityOfPage: {
       "@type": "WebPage",
@@ -403,6 +425,30 @@ export default async function UpdatePage({ params }: Props) {
             className="guide-content"
             dangerouslySetInnerHTML={{ __html: contentWithIds }}
           />
+
+          {/* Related Exam Guide */}
+          {relatedGuide && (
+            <div className="mt-10 pt-8 border-t border-gray-200">
+              <h2 className="text-base font-semibold text-gray-500 uppercase tracking-wide mb-3">Exam Guide</h2>
+              <Link
+                href={`/guide/${relatedGuide.slug}`}
+                className="flex items-start gap-4 p-4 bg-orange-50 border border-orange-200 rounded-xl hover:border-orange-400 hover:bg-orange-100 transition group"
+              >
+                <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-orange-500 flex items-center justify-center text-white text-lg font-bold">
+                  📘
+                </div>
+                <div>
+                  <p className="text-sm font-bold text-gray-900 group-hover:text-orange-700 leading-snug">
+                    {relatedGuide.title}
+                  </p>
+                  <p className="text-xs text-gray-500 mt-0.5 line-clamp-2">{relatedGuide.description}</p>
+                  <span className="inline-block mt-2 text-xs font-semibold text-orange-600 group-hover:underline">
+                    Full exam guide →
+                  </span>
+                </div>
+              </Link>
+            </div>
+          )}
 
           {/* Related Updates */}
           {relatedUpdates.length > 0 && (

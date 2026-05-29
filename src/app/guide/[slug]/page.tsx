@@ -1,4 +1,5 @@
 import { getGuideBySlug, getGuideRawContent, getRelatedGuides } from "@/lib/guides";
+import { getRelatedUpdatesForGuide } from "@/lib/cross-links";
 import { getAllHindiGuideSlugs } from "@/lib/guides-hi";
 import { generateFAQSchema, generateArticleSchema, generateHowToSchema, extractFAQs } from "@/lib/faq-schema";
 import { notFound } from "next/navigation";
@@ -103,6 +104,7 @@ export default async function GuidePage({ params }: Props) {
   const contentWithIds = addHeadingIds(guide.contentHtml);
   const catStyle = getCategoryStyle(guide.category);
   const relatedGuides = getRelatedGuides(slug, 5);
+  const relatedUpdates = getRelatedUpdatesForGuide(slug, 4);
   const hasHindi = getAllHindiGuideSlugs().includes(slug);
 
   const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.citizennest.com";
@@ -251,6 +253,39 @@ export default async function GuidePage({ params }: Props) {
           />
 
           {/* Affiliate CTA — removed until proper affiliate IDs are set up */}
+
+          {/* Latest Updates for this exam */}
+          {relatedUpdates.length > 0 && (
+            <div className="mt-12 pt-8 border-t border-gray-200">
+              <h2 className="text-xl font-bold text-gray-900 mb-4">Latest Updates</h2>
+              <div className="flex flex-col gap-3">
+                {relatedUpdates.map((ru) => (
+                  <Link
+                    key={ru.slug}
+                    href={`/update/${ru.slug}`}
+                    className="flex items-center gap-3 p-3 bg-orange-50 border border-orange-200 rounded-xl hover:border-orange-400 hover:bg-orange-100 transition group"
+                  >
+                    <span className="flex-shrink-0 text-xl">
+                      {ru.stage === "result" ? "📊" : ru.stage === "admit-card" ? "🎫" : ru.stage === "answer-key" ? "🔑" : ru.stage === "cutoff" ? "📉" : "📢"}
+                    </span>
+                    <div className="min-w-0">
+                      <p className="text-sm font-semibold text-gray-900 group-hover:text-orange-700 leading-snug truncate">
+                        {ru.title}
+                      </p>
+                      {ru.publishedDate && (
+                        <p className="text-xs text-gray-400 mt-0.5">
+                          {new Date(ru.publishedDate + "T00:00:00").toLocaleDateString("en-IN", { day: "numeric", month: "short", year: "numeric" })}
+                        </p>
+                      )}
+                    </div>
+                    <svg className="ml-auto flex-shrink-0 w-4 h-4 text-orange-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                    </svg>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
 
           {/* Related Guides */}
           {relatedGuides.length > 0 && (
