@@ -29,6 +29,8 @@ SPIKE_PATTERNS = [
     'result', 'results', 'admit card', 'answer key', 'cut off', 'cutoff',
     'merit list', 'scorecard', 'score card', 'counselling', 'counseling',
     'rank card', 'marksheet', 'final answer',
+    'notification', 'vacancy', 'recruitment', 'apply online', 'last date',
+    'registration', 'application form', 'exam date', 'schedule',
 ]
 
 # Minimum rising value to be considered a spike opportunity

@@ -1342,12 +1342,21 @@ async function main() {
       continue;
     }
 
-    // 5. Slug collision check
+    // 5. Slug collision check — allow overwrite if existing page is stale (key dates are TBA)
     const slug = generateSlug(source.name, ann.examName, ann.type);
     if (slugRegistry.has(slug)) {
-      log(`  ⏭  Slug collision: ${slug} already exists`);
-      results.skipped.push({ source: source.name, reason: `slug collision: ${slug}`, exam: ann.examName });
-      continue;
+      const existingPath = path.join(UPDATES_DIR, `${slug}.md`);
+      const existingContent = fs.existsSync(existingPath) ? fs.readFileSync(existingPath, 'utf8') : '';
+      const resultDateTBA   = /resultDate:\s*["']?TBA["']?/i.test(existingContent);
+      const examDateTBA     = /examDate:\s*["']?TBA["']?/i.test(existingContent);
+      const isStale = resultDateTBA || examDateTBA;
+      if (isStale) {
+        log(`  ♻️  Stale spike page detected (TBA dates) — regenerating: ${slug}`);
+      } else {
+        log(`  ⏭  Slug collision: ${slug} already exists`);
+        results.skipped.push({ source: source.name, reason: `slug collision: ${slug}`, exam: ann.examName });
+        continue;
+      }
     }
 
     // ── Generate frontmatter ──────────────────────────────────────────────
