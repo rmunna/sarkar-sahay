@@ -57,7 +57,7 @@
       "lastChanged": "2026-03-01T02:46:19.512Z"
     },
     "ssc:notices": {
-      "lastChecked": "2026-05-29T16:13:50.133Z",
+      "lastChecked": "2026-05-29T19:06:49.839Z",
       "noticeIds": [
         "hvcvnq6iuo746xj9qe5g4",
         "82liqxb6q7v0m8s0jg65w",
@@ -82,7 +82,7 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-05-29T16:13:53.598Z",
+      "lastChecked": "2026-05-29T19:06:53.571Z",
       "noticeIds": [
         "20260529120905",
         "20260529120330",
@@ -807,8 +807,8 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-05-29T16:14:02.064Z",
-      "contentHash": "c664ebe0f372fe57c8794439cbd503e5",
+      "lastChecked": "2026-05-29T19:07:02.410Z",
+      "contentHash": "d6fc9758e0584f4ef8f60ee561f86ee1",
       "pdfHash": "f4afe66da877612ac4e077bfb2e9bc6e",
       "pdfs": [
         "https://www.ibps.in/wp-content/uploads/Advertisement-for-Deputy-Manager-Accounts-Grade-E-April-2026.pdf",
@@ -1236,13 +1236,13 @@
       ]
     },
     "uppsc:hash": {
-      "lastChecked": "2026-05-29T16:14:26.143Z",
-      "contentHash": "599ee78479e3beb772712b8f17b1628b",
+      "lastChecked": "2026-05-29T19:07:15.793Z",
+      "contentHash": "e47a91a09bcdc546b20c12c1eda0646d",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-05-29T16:14:01.269Z",
+      "lastChecked": "2026-05-29T19:07:01.373Z",
       "contentHash": "d73d6b3ca9ca2cec845a9eb5d6b217b9",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
       "pdfs": [
@@ -1263,8 +1263,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-05-29T16:14:01.524Z",
-      "contentHash": "8a4005935b1ec5b9fd9c35055cb36e98",
+      "lastChecked": "2026-05-29T19:07:01.005Z",
+      "contentHash": "be34adebada914e7cce6c55e980e1f35",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "pdfs": [
         "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
@@ -1288,7 +1288,7 @@
       "pdfs": []
     },
     "cbse:hash": {
-      "lastChecked": "2026-05-29T16:14:14.479Z",
+      "lastChecked": "2026-05-29T19:07:08.084Z",
       "contentHash": "397e41594c9f5800063d5a9fd1e70e7f",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
@@ -1320,8 +1320,8 @@
       ]
     },
     "cisf:hash": {
-      "lastChecked": "2026-05-29T16:14:14.433Z",
-      "contentHash": "7a2bc00544769188eeaa27a5aaee20b4",
+      "lastChecked": "2026-05-29T19:07:07.869Z",
+      "contentHash": "84db9176bf91c54b47530c16456fb105",
       "pdfHash": "dcb8f9d4988ce1cb962ced406b83bc91",
       "pdfs": [
         "https://cisf.gov.in/assets/pdfs/2025/08/id_eng.pdf",
@@ -1374,8 +1374,8 @@
       ]
     },
     "kvs:hash": {
-      "lastChecked": "2026-05-29T16:14:20.141Z",
-      "contentHash": "3914b234a5c34de56276d2a1d4bfd036",
+      "lastChecked": "2026-05-29T19:07:12.651Z",
+      "contentHash": "1a9fb0aca2f7381f5deeb6a0f610731c",
       "pdfHash": "3b5e753b2f3d272f4442e5a30bd346be",
       "pdfs": [
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/11/2023112463.pdf",
@@ -1416,7 +1416,7 @@
       ]
     },
     "ugc:hash": {
-      "lastChecked": "2026-05-29T16:14:21.429Z",
+      "lastChecked": "2026-05-29T19:07:13.414Z",
       "contentHash": "afd68862fdf99c50e8d36a196d1afb9a",
       "pdfHash": "95dd0e41cad4c36bd545cf906a567d8b",
       "pdfs": [
@@ -1444,9 +1444,9 @@
       ]
     },
     "mppsc:hash": {
-      "lastChecked": "2026-05-29T16:14:24.417Z",
-      "contentHash": "674496a7de163b8117b7336d8258884d",
-      "pdfHash": "cfe7d032758690b821166bb2d6291735",
+      "lastChecked": "2026-05-29T19:07:15.530Z",
+      "contentHash": "d26e8ea32fe286fafa092bffe88d860c",
+      "pdfHash": "12f304b8cec93d1aa682b239406268d2",
       "pdfs": [
         "https://mppsc.mp.gov.in/uploads/advertisement/Additional_Subjects_Assistant_Professor_Sanskrit_2025.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Advt_ADPO_Exam_2026_Dated_10_03_2026.pdf",
@@ -1485,11 +1485,9 @@
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Professor_History_Exam_2024_Dated_26_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Professor_History_Exam_2024_Dated_26_05_2026_(2).pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Professor_Sanskrit_Prachya_Exam_2024_Dated_26_05_2026.pdf",
-        "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_ENT_Specialist_2024_Dated_14_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Insurance_Medical_Officer_Assistant_Surgeon_2024_Dated_26_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Medical_Officer_Ayurveda_Homeopathy_Unani_2025_Dated_15_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Medical_Specialist_2024_Dated_18_05_2026.pdf",
-        "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Ophthalmologist_Specialist_2024_Dated_14_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Orthopedic_Specialist_2024_Dated_20_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Pathology_Specialist_2024_Dated_15_05_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Sports_Officer_Exam_2024_Dated_19_05_2026.pdf",
@@ -1541,7 +1539,7 @@
       ]
     },
     "cuet:hash": {
-      "lastChecked": "2026-05-29T16:14:23.815Z",
+      "lastChecked": "2026-05-29T19:07:15.528Z",
       "contentHash": "4e82e4d11f18d5bd9bb6eef111744a42",
       "pdfHash": "22d3664ee67d6eb549c1929278cd7a4b",
       "pdfs": [
@@ -2019,14 +2017,14 @@
       ]
     },
     "ukpsc:hash": {
-      "lastChecked": "2026-05-29T16:14:38.321Z",
+      "lastChecked": "2026-05-29T19:07:29.961Z",
       "contentHash": "29183ec5cee976219d1fa1ec8bb74947",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "up-board:hash": {
-      "lastChecked": "2026-05-29T16:14:42.310Z",
-      "contentHash": "180f7265a2e13b9cd68248b52de5e45a",
+      "lastChecked": "2026-05-29T19:07:32.661Z",
+      "contentHash": "5feecf819562656c4f24b9cb1b636477",
       "pdfHash": "b91f3fc51f4d570fd2da15c996ad5428",
       "pdfs": [
         "https://upmsp.edu.in/Downloads/Circular_2_04-04-2026.pdf",
@@ -2050,13 +2048,13 @@
       ]
     },
     "rbse:hash": {
-      "lastChecked": "2026-05-29T16:14:41.167Z",
+      "lastChecked": "2026-05-29T19:07:31.643Z",
       "contentHash": "7f127d3d8ecd4419f163c0d14fa4ba31",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "ctet:hash": {
-      "lastChecked": "2026-05-29T12:13:21.386Z",
+      "lastChecked": "2026-05-29T19:07:32.206Z",
       "contentHash": "a76bd54b1463317c659a67381d439fc3",
       "pdfHash": "3243cc5ff9cc78ab399571499e449e90",
       "pdfs": [
@@ -2094,7 +2092,7 @@
       ]
     },
     "mp-board:hash": {
-      "lastChecked": "2026-05-29T16:14:47.522Z",
+      "lastChecked": "2026-05-29T19:07:37.673Z",
       "contentHash": "1c042b51f1f39f0e328cc3eba3840cd1",
       "pdfHash": "02973078bb6b3d94f53549d614817487",
       "pdfs": [
@@ -2128,7 +2126,7 @@
       ]
     },
     "rrb:hash": {
-      "lastChecked": "2026-05-29T12:12:50.842Z",
+      "lastChecked": "2026-05-29T19:07:03.036Z",
       "contentHash": "9e006497b55ef0205446925e6ec3535f",
       "pdfHash": "56bac08265942f3c4441d53c40137928",
       "pdfs": [
@@ -2720,5 +2718,5 @@
       ]
     }
   },
-  "lastScan": "2026-05-29T16:14:51.252Z"
+  "lastScan": "2026-05-29T19:07:51.302Z"
 }

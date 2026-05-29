@@ -1,66 +1,50 @@
 {
-  "scanTime": "2026-05-29T16:14:51.256Z",
-  "elapsedSeconds": 62.4,
-  "changesDetected": 9,
-  "errors": 26,
+  "scanTime": "2026-05-29T19:07:51.307Z",
+  "elapsedSeconds": 62.7,
+  "changesDetected": 7,
+  "errors": 27,
   "changes": [
     {
-      "site": "SSC",
-      "type": "NEW_NOTICE",
-      "headline": "Head Constable {Assistant Wireless Operator (AWO)/Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025 – Declaration of result of Computer Based Examination for shortlisting candidates to appear in Physical Endurance and Measurement Test (PE and MT)/ Document Verification (DV)/ Trade Test.",
-      "date": "2026-05-29T12:41:13.152Z",
-      "id": "hvcvnq6iuo746xj9qe5g4",
-      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Write_up_DPHCT_2025_CBE.pdf",
-      "url": "https://ssc.gov.in"
-    },
-    {
-      "site": "SBI Careers",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://bank.sbi/documents/77530/57941334/29052026_SBI+-+CRPD-SCO-2026-27_05+-+Hindi.pdf/b69000cb-41bf-850d-c94d-9e377f62923d?t=1780059177665",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-05-29T16:14:03.229Z"
+      "site": "IBPS",
+      "type": "CONTENT_CHANGE",
+      "url": "https://www.ibps.in/",
+      "detectedAt": "2026-05-29T19:07:02.410Z"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-05-29T16:14:01.524Z"
-    },
-    {
-      "site": "CRPF",
-      "type": "CONTENT_CHANGE",
-      "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-05-29T16:14:17.124Z"
+      "detectedAt": "2026-05-29T19:07:01.005Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-05-29T16:14:14.433Z"
+      "detectedAt": "2026-05-29T19:07:07.869Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-05-29T16:14:20.141Z"
+      "detectedAt": "2026-05-29T19:07:12.651Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-05-29T16:14:26.143Z"
+      "detectedAt": "2026-05-29T19:07:15.793Z"
     },
     {
       "site": "MPPSC",
-      "type": "CONTENT_CHANGE",
+      "type": "PDF_CHANGE",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-05-29T16:14:24.417Z"
+      "detectedAt": "2026-05-29T19:07:15.530Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-05-29T16:14:42.310Z"
+      "detectedAt": "2026-05-29T19:07:32.661Z"
     }
   ],
   "errorDetails": [
@@ -69,13 +53,13 @@
       "error": "Timeout"
     },
     {
-      "site": "NABARD",
-      "url": "https://www.nabard.org/career-notices.aspx",
-      "error": "Timeout"
+      "site": "SBI Careers",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "error": ""
     },
     {
-      "site": "RRB (Railway)",
-      "url": "https://www.rrbcdg.gov.in/",
+      "site": "NABARD",
+      "url": "https://www.nabard.org/career-notices.aspx",
       "error": "Timeout"
     },
     {
@@ -94,6 +78,11 @@
       "error": "Timeout"
     },
     {
+      "site": "CRPF",
+      "url": "https://crpf.gov.in/",
+      "error": "Timeout"
+    },
+    {
       "site": "BSF",
       "url": "https://rectt.bsf.gov.in/",
       "error": "HTTP 403"
@@ -107,6 +96,11 @@
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
       "error": ""
+    },
+    {
+      "site": "IGNOU",
+      "url": "https://ignou.ac.in/",
+      "error": "read ECONNRESET"
     },
     {
       "site": "BPSC",
@@ -146,7 +140,7 @@
     {
       "site": "GPSC",
       "url": "https://gpsc.gujarat.gov.in/",
-      "error": "Timeout"
+      "error": ""
     },
     {
       "site": "HPSC",
@@ -161,11 +155,6 @@
     {
       "site": "CGPSC",
       "url": "https://psc.cg.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "CTET",
-      "url": "https://ctet.nic.in/",
       "error": "Timeout"
     },
     {
@@ -191,7 +180,7 @@
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "read ECONNRESET"
+      "error": "Timeout"
     }
   ]
 }
