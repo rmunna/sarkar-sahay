@@ -1,64 +1,44 @@
 {
-  "scanTime": "2026-05-30T07:39:04.133Z",
-  "elapsedSeconds": 67.9,
-  "changesDetected": 9,
-  "errors": 24,
+  "scanTime": "2026-05-30T09:56:24.350Z",
+  "elapsedSeconds": 59.9,
+  "changesDetected": 6,
+  "errors": 23,
   "changes": [
     {
       "site": "SBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-05-30T07:38:12.589Z"
+      "detectedAt": "2026-05-30T09:55:39.987Z"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-05-30T07:38:09.515Z"
-    },
-    {
-      "site": "CRPF",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://crpf.gov.in/Upload/Tender/NIT55BN-290.pdf",
-      "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-05-30T07:38:26.192Z"
-    },
-    {
-      "site": "CRPF",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://crpf.gov.in/Upload/Tender/Tender%20notice%20898092025-520.pdf",
-      "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-05-30T07:38:26.192Z"
+      "detectedAt": "2026-05-30T09:55:37.499Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-05-30T07:38:23.560Z"
-    },
-    {
-      "site": "BSF",
-      "type": "CONTENT_CHANGE",
-      "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-05-30T07:38:23.932Z"
+      "detectedAt": "2026-05-30T09:55:46.713Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-05-30T07:38:27.501Z"
+      "detectedAt": "2026-05-30T09:55:50.501Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-05-30T07:38:32.279Z"
+      "detectedAt": "2026-05-30T09:55:54.082Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-05-30T07:38:48.442Z"
+      "detectedAt": "2026-05-30T09:56:10.261Z"
     }
   ],
   "errorDetails": [
@@ -69,11 +49,6 @@
     {
       "site": "NABARD",
       "url": "https://www.nabard.org/career-notices.aspx",
-      "error": "Timeout"
-    },
-    {
-      "site": "RRB (Railway)",
-      "url": "https://www.rrbcdg.gov.in/",
       "error": "Timeout"
     },
     {
@@ -92,6 +67,11 @@
       "error": "Timeout"
     },
     {
+      "site": "BSF",
+      "url": "https://rectt.bsf.gov.in/",
+      "error": "HTTP 403"
+    },
+    {
       "site": "ITBP",
       "url": "https://recruitment.itbpolice.nic.in/",
       "error": "Timeout"
@@ -99,7 +79,7 @@
     {
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
-      "error": "Timeout"
+      "error": ""
     },
     {
       "site": "BPSC",
@@ -144,11 +124,6 @@
     {
       "site": "HPSC",
       "url": "https://www.hpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "JPSC",
-      "url": "https://www.jpsc.gov.in/",
       "error": "Timeout"
     },
     {
