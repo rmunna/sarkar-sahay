@@ -10,7 +10,10 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/grlymkgvkrt",
       "priority": 1,
       "estimatedMonthlySearches": 50000,
-      "notes": "₹2,000/month to woman head of household. Karnataka guarantee scheme. Very high search volume."
+      "notes": "₹2,000/month to woman head of household. Karnataka guarantee scheme. Very high search volume.",
+      "langs": [
+        "en"
+      ]
     },
     {
       "name": "Yuva Nidhi Scheme",
@@ -21,7 +24,10 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/yns",
       "priority": 1,
       "estimatedMonthlySearches": 40000,
-      "notes": "₹3,000/month for graduates, ₹1,500 for diploma holders who are unemployed. Karnataka guarantee scheme."
+      "notes": "₹3,000/month for graduates, ₹1,500 for diploma holders who are unemployed. Karnataka guarantee scheme.",
+      "langs": [
+        "en"
+      ]
     },
     {
       "name": "PM Kisan Samman Nidhi",
@@ -32,7 +38,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/pm-kisan",
       "priority": 1,
       "estimatedMonthlySearches": 500000,
-      "notes": "₹6,000/year to farmers. Massive search volume for status check and installment dates."
+      "notes": "₹6,000/year to farmers. Massive search volume for status check and installment dates.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "Ayushman Bharat PM-JAY",
@@ -43,7 +53,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmjay",
       "priority": 1,
       "estimatedMonthlySearches": 300000,
-      "notes": "₹5 lakh health cover. How to get card, check eligibility, add hospital."
+      "notes": "₹5 lakh health cover. How to get card, check eligibility, add hospital.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "PM Awas Yojana Gramin",
@@ -54,7 +68,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmayg",
       "priority": 1,
       "estimatedMonthlySearches": 400000,
-      "notes": "Rural housing scheme. ₹1.2-1.3 lakh for house construction. Huge search volume."
+      "notes": "Rural housing scheme. ₹1.2-1.3 lakh for house construction. Huge search volume.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "PM Awas Yojana Urban",
@@ -65,7 +83,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmay-u",
       "priority": 1,
       "estimatedMonthlySearches": 200000,
-      "notes": "Urban housing subsidy. Different from PMAY-G. CLSS interest subsidy."
+      "notes": "Urban housing subsidy. Different from PMAY-G. CLSS interest subsidy.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "Sukanya Samriddhi Yojana",
@@ -76,7 +98,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/ssy",
       "priority": 1,
       "estimatedMonthlySearches": 150000,
-      "notes": "Savings scheme for girl child. 8.2% interest. How to open account, balance check."
+      "notes": "Savings scheme for girl child. 8.2% interest. How to open account, balance check.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "Atal Pension Yojana",
@@ -87,7 +113,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/apy",
       "priority": 2,
       "estimatedMonthlySearches": 80000,
-      "notes": "Pension scheme for unorganized workers. ₹1,000-5,000/month pension after 60."
+      "notes": "Pension scheme for unorganized workers. ₹1,000-5,000/month pension after 60.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "PM Ujjwala Yojana",
@@ -98,7 +128,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmuy",
       "priority": 1,
       "estimatedMonthlySearches": 120000,
-      "notes": "Free LPG connection for BPL families. How to apply, documents, status check."
+      "notes": "Free LPG connection for BPL families. How to apply, documents, status check.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "National Scholarship Portal",
@@ -109,7 +143,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/nsp",
       "priority": 1,
       "estimatedMonthlySearches": 200000,
-      "notes": "Central scholarship portal. Pre-matric, post-matric, merit scholarships. Payment tracking."
+      "notes": "Central scholarship portal. Pre-matric, post-matric, merit scholarships. Payment tracking.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "PM MUDRA Yojana",
@@ -120,7 +158,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmmy",
       "priority": 2,
       "estimatedMonthlySearches": 100000,
-      "notes": "Loans up to ₹10 lakh for small businesses. Shishu, Kishor, Tarun categories."
+      "notes": "Loans up to ₹10 lakh for small businesses. Shishu, Kishor, Tarun categories.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "PM Jan Dhan Yojana",
@@ -131,7 +173,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmjdy",
       "priority": 2,
       "estimatedMonthlySearches": 80000,
-      "notes": "Zero balance bank account with RuPay card, overdraft facility, insurance."
+      "notes": "Zero balance bank account with RuPay card, overdraft facility, insurance.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "E-Shram Card",
@@ -142,7 +188,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/eshram",
       "priority": 1,
       "estimatedMonthlySearches": 300000,
-      "notes": "Unorganized worker registration card. ₹2 lakh accident insurance. Very high search volume."
+      "notes": "Unorganized worker registration card. ₹2 lakh accident insurance. Very high search volume.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "Ladki Bahin Yojana Maharashtra",
@@ -153,7 +203,10 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/lby",
       "priority": 1,
       "estimatedMonthlySearches": 200000,
-      "notes": "₹1,500/month to women. Maharashtra scheme. Huge search volume."
+      "notes": "₹1,500/month to women. Maharashtra scheme. Huge search volume.",
+      "langs": [
+        "en"
+      ]
     },
     {
       "name": "Mahtari Vandan Yojana",
@@ -164,7 +217,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/mvy",
       "priority": 1,
       "estimatedMonthlySearches": 150000,
-      "notes": "₹1,000/month to married women in Chhattisgarh. Status check very searched."
+      "notes": "₹1,000/month to married women in Chhattisgarh. Status check very searched.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "Mukhyamantri Kanya Sumangala Yojana",
@@ -175,7 +232,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/mksy",
       "priority": 1,
       "estimatedMonthlySearches": 100000,
-      "notes": "₹15,000 in 6 stages for girl child education in UP."
+      "notes": "₹15,000 in 6 stages for girl child education in UP.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "Lakhpati Didi Yojana",
@@ -186,7 +247,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/ldy",
       "priority": 2,
       "estimatedMonthlySearches": 80000,
-      "notes": "SHG women to earn ₹1 lakh+ annually through skill training and micro-enterprise."
+      "notes": "SHG women to earn ₹1 lakh+ annually through skill training and micro-enterprise.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "Mukhyamantri Majhi Ladki Bahin Yojana",
@@ -197,7 +262,10 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/mmlby",
       "priority": 2,
       "estimatedMonthlySearches": 60000,
-      "notes": "Extension of Ladki Bahin with additional benefits."
+      "notes": "Extension of Ladki Bahin with additional benefits.",
+      "langs": [
+        "en"
+      ]
     },
     {
       "name": "Anna Bhagya Scheme Karnataka",
@@ -208,7 +276,10 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/abs",
       "priority": 2,
       "estimatedMonthlySearches": 50000,
-      "notes": "10 kg free rice per person per month. Karnataka guarantee scheme."
+      "notes": "10 kg free rice per person per month. Karnataka guarantee scheme.",
+      "langs": [
+        "en"
+      ]
     },
     {
       "name": "Mukhyamantri Yuva Sambal Yojana Rajasthan",
@@ -219,7 +290,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/mysyraj",
       "priority": 2,
       "estimatedMonthlySearches": 40000,
-      "notes": "Unemployment allowance for educated youth in Rajasthan."
+      "notes": "Unemployment allowance for educated youth in Rajasthan.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "Abua Awas Yojana Jharkhand",
@@ -230,7 +305,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/aay",
       "priority": 2,
       "estimatedMonthlySearches": 60000,
-      "notes": "3-room pucca house for poor families in Jharkhand. High search volume."
+      "notes": "3-room pucca house for poor families in Jharkhand. High search volume.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "PM Surya Ghar Muft Bijli Yojana",
@@ -241,7 +320,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmsgmby",
       "priority": 1,
       "estimatedMonthlySearches": 200000,
-      "notes": "Free solar rooftop panels + up to 300 units free electricity/month. Very high search volume in 2026."
+      "notes": "Free solar rooftop panels + up to 300 units free electricity/month. Very high search volume in 2026.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "PM Vishwakarma Yojana",
@@ -252,7 +335,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmvy",
       "priority": 1,
       "estimatedMonthlySearches": 150000,
-      "notes": "Artisan skill training + ₹15,000 toolkit + collateral-free loans. 18 traditional trades."
+      "notes": "Artisan skill training + ₹15,000 toolkit + collateral-free loans. 18 traditional trades.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "Kisan Credit Card",
@@ -263,7 +350,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/kcc",
       "priority": 2,
       "estimatedMonthlySearches": 100000,
-      "notes": "Short-term crop loan for farmers at subsidized interest rate."
+      "notes": "Short-term crop loan for farmers at subsidized interest rate.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "Pradhan Mantri Fasal Bima Yojana",
@@ -274,7 +365,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmfby",
       "priority": 2,
       "estimatedMonthlySearches": 80000,
-      "notes": "Crop insurance scheme. Low premium, high coverage for crop losses."
+      "notes": "Crop insurance scheme. Low premium, high coverage for crop losses.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "Beti Bachao Beti Padhao",
@@ -285,7 +380,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/bbbp",
       "priority": 3,
       "estimatedMonthlySearches": 50000,
-      "notes": "Scheme for girl child welfare. Awareness + education campaign."
+      "notes": "Scheme for girl child welfare. Awareness + education campaign.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "Poshan Abhiyaan",
@@ -296,7 +395,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/poshanabhiyaan",
       "priority": 3,
       "estimatedMonthlySearches": 30000,
-      "notes": "Nutrition scheme for pregnant women, lactating mothers and children under 6."
+      "notes": "Nutrition scheme for pregnant women, lactating mothers and children under 6.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "Mukhyamantri Seekho Kamao Yojana MP",
@@ -307,7 +410,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/mmsky",
       "priority": 2,
       "estimatedMonthlySearches": 80000,
-      "notes": "Skill training + ₹8,000-10,000 stipend per month for youth in MP."
+      "notes": "Skill training + ₹8,000-10,000 stipend per month for youth in MP.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "Namo Shetkari Mahasanman Nidhi Maharashtra",
@@ -318,7 +425,10 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/nsmnmh",
       "priority": 2,
       "estimatedMonthlySearches": 60000,
-      "notes": "₹6,000/year state top-up for farmers in Maharashtra (in addition to PM Kisan)."
+      "notes": "₹6,000/year state top-up for farmers in Maharashtra (in addition to PM Kisan).",
+      "langs": [
+        "en"
+      ]
     },
     {
       "name": "Subhadra Yojana Odisha",
@@ -329,7 +439,10 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/sy",
       "priority": 1,
       "estimatedMonthlySearches": 100000,
-      "notes": "₹10,000/year (₹5,000 twice) to women aged 21-60 in Odisha. High search volume."
+      "notes": "₹10,000/year (₹5,000 twice) to women aged 21-60 in Odisha. High search volume.",
+      "langs": [
+        "en"
+      ]
     },
     {
       "name": "Rajshri Yojana Rajasthan",
@@ -340,7 +453,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/mrsy",
       "priority": 2,
       "estimatedMonthlySearches": 50000,
-      "notes": "₹50,000 in 6 installments for girl child education in Rajasthan."
+      "notes": "₹50,000 in 6 installments for girl child education in Rajasthan.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "PMEGP Scheme",
@@ -351,7 +468,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmegp",
       "priority": 2,
       "estimatedMonthlySearches": 70000,
-      "notes": "₹25-50 lakh loan for starting business. 15-35% subsidy. KVIC administered."
+      "notes": "₹25-50 lakh loan for starting business. 15-35% subsidy. KVIC administered.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "Agnipath Agniveer Scheme",
@@ -362,7 +483,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/agnipath",
       "priority": 2,
       "estimatedMonthlySearches": 150000,
-      "notes": "4-year military service scheme. Army, Navy, Air Force. Seva Nidhi ₹11.71 lakh at exit."
+      "notes": "4-year military service scheme. Army, Navy, Air Force. Seva Nidhi ₹11.71 lakh at exit.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "PM SVANidhi Scheme",
@@ -373,7 +498,11 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmsvanidhi",
       "priority": 2,
       "estimatedMonthlySearches": 40000,
-      "notes": "₹10,000-50,000 collateral-free loan for street vendors."
+      "notes": "₹10,000-50,000 collateral-free loan for street vendors.",
+      "langs": [
+        "en",
+        "hi"
+      ]
     },
     {
       "name": "Startup India Scheme",
@@ -384,7 +513,3391 @@
       "myschemeUrl": "https://www.myscheme.gov.in/schemes/startup-india",
       "priority": 3,
       "estimatedMonthlySearches": 80000,
-      "notes": "DPIIT recognition, tax exemptions, funding support for startups."
+      "notes": "DPIIT recognition, tax exemptions, funding support for startups.",
+      "langs": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "name": "PM Kisan Maan Dhan Yojana",
+      "state": "Central",
+      "category": "Agriculture",
+      "slug": "pm-kisan-maan-dhan-yojana-farmer-pension",
+      "officialUrl": "https://maandhan.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmkmy",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹3,000/month pension for small/marginal farmers after age 60. Register via CSC."
+    },
+    {
+      "name": "Paramparagat Krishi Vikas Yojana",
+      "state": "Central",
+      "category": "Agriculture",
+      "slug": "paramparagat-krishi-vikas-yojana-organic-farming",
+      "officialUrl": "https://pgsindia-ncof.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pkvy",
+      "priority": 3,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹50,000/ha over 3 years for organic farming clusters. PGS certification."
+    },
+    {
+      "name": "PM Krishi Sinchayee Yojana",
+      "state": "Central",
+      "category": "Agriculture",
+      "slug": "pm-krishi-sinchayee-yojana-drip-irrigation",
+      "officialUrl": "https://pmksy.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmksy",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Drip/sprinkler irrigation subsidy. Har Khet Ko Paani. More Crop Per Drop."
+    },
+    {
+      "name": "PM Kusum Yojana",
+      "state": "Central",
+      "category": "Agriculture",
+      "slug": "pm-kusum-yojana-solar-pump-farmers",
+      "officialUrl": "https://mnre.gov.in/solar/schemes",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmkusum",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Solar pump subsidy for farmers. Component A: solar plant; B: standalone pump; C: solarize grid pumps."
+    },
+    {
+      "name": "Soil Health Card Scheme",
+      "state": "Central",
+      "category": "Agriculture",
+      "slug": "soil-health-card-scheme-apply",
+      "officialUrl": "https://soilhealth.dac.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/shcs",
+      "priority": 3,
+      "estimatedMonthlySearches": 15000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free soil testing and Soil Health Card for farmers with nutrient recommendations."
+    },
+    {
+      "name": "PM Matsya Sampada Yojana",
+      "state": "Central",
+      "category": "Agriculture",
+      "slug": "pm-matsya-sampada-yojana-fisheries",
+      "officialUrl": "https://pmmsy.dof.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmmsy",
+      "priority": 2,
+      "estimatedMonthlySearches": 25000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹20,050 crore for fisheries infra. Subsidies for fish farming, boats, cold chains."
+    },
+    {
+      "name": "National Horticulture Mission",
+      "state": "Central",
+      "category": "Agriculture",
+      "slug": "national-horticulture-mission-subsidy",
+      "officialUrl": "https://midh.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/nhm",
+      "priority": 3,
+      "estimatedMonthlySearches": 15000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Subsidy on fruit/vegetable/flower/spice cultivation, cold storage, pack houses."
+    },
+    {
+      "name": "PM FME Scheme",
+      "state": "Central",
+      "category": "Agriculture",
+      "slug": "pm-fme-micro-food-processing-scheme",
+      "officialUrl": "https://mofpi.gov.in/pmfme",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmfme",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Up to ₹10 lakh credit-linked subsidy for micro food processing units. FPOs, SHGs, co-ops."
+    },
+    {
+      "name": "Agriculture Infrastructure Fund",
+      "state": "Central",
+      "category": "Agriculture",
+      "slug": "agriculture-infrastructure-fund-aif-loan",
+      "officialUrl": "https://agriinfra.dac.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/aif",
+      "priority": 2,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "3% interest subsidy on loans up to ₹2 crore for post-harvest infra (cold storage, silos, grading)."
+    },
+    {
+      "name": "National Livestock Mission",
+      "state": "Central",
+      "category": "Agriculture",
+      "slug": "national-livestock-mission-animal-husbandry",
+      "officialUrl": "https://nlm.udyamimitra.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/nlm",
+      "priority": 3,
+      "estimatedMonthlySearches": 10000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Subsidy for goat, pig, poultry units. Breed improvement. Fodder development."
+    },
+    {
+      "name": "Rashtriya Gokul Mission",
+      "state": "Central",
+      "category": "Agriculture",
+      "slug": "rashtriya-gokul-mission-cow-breed",
+      "officialUrl": "https://dahd.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/rgm",
+      "priority": 3,
+      "estimatedMonthlySearches": 15000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Breed improvement for indigenous cattle and buffalo. Gokul Grams, Kamdhenu Sankrit."
+    },
+    {
+      "name": "PM AASHA Scheme",
+      "state": "Central",
+      "category": "Agriculture",
+      "slug": "pm-aasha-msp-price-support-farmers",
+      "officialUrl": "https://pmaasha.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmaasha",
+      "priority": 2,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "MSP price support for oilseeds and pulses. Price Deficiency Payment Scheme (PDPS)."
+    },
+    {
+      "name": "National Beekeeping and Honey Mission",
+      "state": "Central",
+      "category": "Agriculture",
+      "slug": "national-beekeeping-honey-mission-nbhm",
+      "officialUrl": "https://midh.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/nbhm",
+      "priority": 3,
+      "estimatedMonthlySearches": 8000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Subsidy on bee boxes, honey extraction, training for beekeepers."
+    },
+    {
+      "name": "Gramin Bhandaran Yojana",
+      "state": "Central",
+      "category": "Agriculture",
+      "slug": "gramin-bhandaran-yojana-rural-storage",
+      "officialUrl": "https://nabard.org",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/gby",
+      "priority": 3,
+      "estimatedMonthlySearches": 8000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Capital subsidy for rural godown/warehouse construction. 25-33.33% subsidy via NABARD."
+    },
+    {
+      "name": "National Mission on Edible Oils – Oil Palm",
+      "state": "Central",
+      "category": "Agriculture",
+      "slug": "national-mission-edible-oils-oil-palm",
+      "officialUrl": "https://nmeo-op.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/nmeo",
+      "priority": 3,
+      "estimatedMonthlySearches": 10000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Price assurance + subsidy for oil palm cultivation in NE India, Andaman, tribal areas."
+    },
+    {
+      "name": "Janani Suraksha Yojana",
+      "state": "Central",
+      "category": "Health",
+      "slug": "janani-suraksha-yojana-delivery-cash",
+      "officialUrl": "https://nhm.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/jsy",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹1,400 (rural) / ₹1,000 (urban) cash to BPL women for institutional delivery."
+    },
+    {
+      "name": "Pradhan Mantri Matru Vandana Yojana",
+      "state": "Central",
+      "category": "Health",
+      "slug": "pm-matru-vandana-yojana-pmmvy-apply",
+      "officialUrl": "https://wcd.nic.in/pmmvy",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmmvy",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹5,000 in 3 installments to pregnant and lactating mothers for first live birth."
+    },
+    {
+      "name": "Mission Indradhanush",
+      "state": "Central",
+      "category": "Health",
+      "slug": "mission-indradhanush-vaccination-children",
+      "officialUrl": "https://nhm.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mi",
+      "priority": 3,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Full vaccination for children under 2 and pregnant women. 12 vaccine-preventable diseases."
+    },
+    {
+      "name": "Nikshay Poshan Yojana",
+      "state": "Central",
+      "category": "Health",
+      "slug": "nikshay-poshan-yojana-tb-patient-500",
+      "officialUrl": "https://nikshay.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/npy",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹500/month nutritional support for TB patients till treatment completion. DBT to bank."
+    },
+    {
+      "name": "Janaushadhi Scheme",
+      "state": "Central",
+      "category": "Health",
+      "slug": "pm-janaushadhi-pariyojana-generic-medicine",
+      "officialUrl": "https://janaushadhi.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmbjp",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Generic medicines at 50-90% less than branded rates. 10,000+ PM Janaushadhi Kendras."
+    },
+    {
+      "name": "Rashtriya Arogya Nidhi",
+      "state": "Central",
+      "category": "Health",
+      "slug": "rashtriya-arogya-nidhi-financial-aid",
+      "officialUrl": "https://mohfw.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/ran",
+      "priority": 3,
+      "estimatedMonthlySearches": 15000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Financial aid up to ₹15 lakh for BPL patients with life-threatening diseases at govt hospitals."
+    },
+    {
+      "name": "Niramaya Health Insurance",
+      "state": "Central",
+      "category": "Health",
+      "slug": "niramaya-health-insurance-disabled-persons",
+      "officialUrl": "https://nhfdc.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/niramaya",
+      "priority": 3,
+      "estimatedMonthlySearches": 15000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹1 lakh health insurance for persons with disability. ₹500/year premium (BPL: ₹250)."
+    },
+    {
+      "name": "Rashtriya Bal Swasthya Karyakram",
+      "state": "Central",
+      "category": "Health",
+      "slug": "rashtriya-bal-swasthya-karyakram-child-health",
+      "officialUrl": "https://nhm.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/rbsk",
+      "priority": 3,
+      "estimatedMonthlySearches": 12000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free health screening for children 0-18 for 4 D's: defects, diseases, deficiencies, developmental delays."
+    },
+    {
+      "name": "PM CARES for Children",
+      "state": "Central",
+      "category": "Health",
+      "slug": "pm-cares-for-children-covid-orphans",
+      "officialUrl": "https://pmcaresforchildren.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmcfc",
+      "priority": 2,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Support for children orphaned by COVID-19. Free education, ₹10 lakh at 23, health cover."
+    },
+    {
+      "name": "National AYUSH Mission",
+      "state": "Central",
+      "category": "Health",
+      "slug": "national-ayush-mission-yoga-ayurveda",
+      "officialUrl": "https://ayush.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/nam",
+      "priority": 3,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Promotion of Ayurveda, Yoga, Naturopathy, Unani, Siddha, Homeopathy through govt institutions."
+    },
+    {
+      "name": "Pradhan Mantri Surakshit Matritva Abhiyan",
+      "state": "Central",
+      "category": "Health",
+      "slug": "pmsma-free-antenatal-checkup-pregnant",
+      "officialUrl": "https://pmsma.nhp.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmsma",
+      "priority": 2,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free antenatal checkup on 9th of every month for pregnant women at govt health facilities."
+    },
+    {
+      "name": "PM Jan Arogya Yojana (Top-Up)",
+      "state": "Central",
+      "category": "Health",
+      "slug": "pm-jan-arogya-yojana-top-up-insurance",
+      "officialUrl": "https://pmjay.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmjay-tu",
+      "priority": 3,
+      "estimatedMonthlySearches": 15000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Additional ₹5 lakh insurance for senior citizens 70+ under Ayushman Bharat umbrella."
+    },
+    {
+      "name": "National Mental Health Programme",
+      "state": "Central",
+      "category": "Health",
+      "slug": "national-mental-health-programme-nmhp",
+      "officialUrl": "https://nhm.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/nmhp",
+      "priority": 3,
+      "estimatedMonthlySearches": 10000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "District Mental Health Programme. Free counselling, medicines at community health centres."
+    },
+    {
+      "name": "PM TB Mukt Bharat Abhiyan",
+      "state": "Central",
+      "category": "Health",
+      "slug": "pm-tb-mukt-bharat-ni-kshay-mitra",
+      "officialUrl": "https://nikshay.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/ptmba",
+      "priority": 2,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Ni-kshay Mitra donors adopt TB patients. Nutritional support + care. Goal: TB-free India by 2025."
+    },
+    {
+      "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+      "state": "Central",
+      "category": "Finance & Insurance",
+      "slug": "pm-jeevan-jyoti-bima-yojana-pmjjby",
+      "officialUrl": "https://jansuraksha.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmjjby",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹2 lakh life insurance for ₹436/year. For 18-50 age group with bank account."
+    },
+    {
+      "name": "Pradhan Mantri Suraksha Bima Yojana",
+      "state": "Central",
+      "category": "Finance & Insurance",
+      "slug": "pm-suraksha-bima-yojana-pmsby-accident",
+      "officialUrl": "https://jansuraksha.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmsby",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹2 lakh accidental death/disability insurance for just ₹20/year. 18-70 age group."
+    },
+    {
+      "name": "PM YASASVI Scholarship",
+      "state": "Central",
+      "category": "Education",
+      "slug": "pm-yasasvi-scholarship-obc-ews-apply",
+      "officialUrl": "https://yet.nta.ac.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmyasasvi",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹75,000–₹1.25 lakh/year for Class 9-12 OBC/EWS/NT/DNT students. NTA conducts exam."
+    },
+    {
+      "name": "Post Matric Scholarship SC Students",
+      "state": "Central",
+      "category": "Education",
+      "slug": "post-matric-scholarship-sc-students-apply",
+      "officialUrl": "https://scholarships.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmssc",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Maintenance allowance + tuition fees for SC students in Class 11 to PhD. Apply via NSP."
+    },
+    {
+      "name": "Post Matric Scholarship ST Students",
+      "state": "Central",
+      "category": "Education",
+      "slug": "post-matric-scholarship-st-students-apply",
+      "officialUrl": "https://scholarships.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmsst",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Maintenance allowance + tuition fees for ST students in Class 11 onwards. Apply via NSP."
+    },
+    {
+      "name": "Post Matric Scholarship OBC",
+      "state": "Central",
+      "category": "Education",
+      "slug": "post-matric-scholarship-obc-dr-ambedkar",
+      "officialUrl": "https://scholarships.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmsobc",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Maintenance allowance for OBC students from Class 11 onwards. Dr. Ambedkar Post Matric Scholarship."
+    },
+    {
+      "name": "NMMS Scholarship",
+      "state": "Central",
+      "category": "Education",
+      "slug": "nmms-scholarship-class-8-apply",
+      "officialUrl": "https://scholarships.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/nmms",
+      "priority": 2,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹12,000/year (₹1,000/month) for meritorious Class 9-12 students from economically weaker sections."
+    },
+    {
+      "name": "AICTE Pragati Scholarship Girls",
+      "state": "Central",
+      "category": "Education",
+      "slug": "aicte-pragati-scholarship-girls-technical",
+      "officialUrl": "https://www.aicte-india.org",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/aicte-pragati",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹50,000/year for girls in AICTE-approved technical institutes. First 2 girls per family."
+    },
+    {
+      "name": "Ishan Uday Scholarship NE Students",
+      "state": "Central",
+      "category": "Education",
+      "slug": "ishan-uday-scholarship-northeast-students",
+      "officialUrl": "https://scholarships.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/ishanuday",
+      "priority": 3,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹5,400-7,800/month for NE India students for undergraduate studies."
+    },
+    {
+      "name": "Samagra Shiksha Abhiyan",
+      "state": "Central",
+      "category": "Education",
+      "slug": "samagra-shiksha-abhiyan-school-education",
+      "officialUrl": "https://samagra.education.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/ssa",
+      "priority": 3,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Integrated school education scheme. Textbooks, uniforms, MDM, digital education."
+    },
+    {
+      "name": "PM POSHAN Mid Day Meal Scheme",
+      "state": "Central",
+      "category": "Education",
+      "slug": "pm-poshan-mid-day-meal-scheme",
+      "officialUrl": "https://pmposhan.education.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmposhan",
+      "priority": 3,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free hot cooked meal to all children in Class 1-8 in govt schools. 11.8 crore children daily."
+    },
+    {
+      "name": "Eklavya Model Residential Schools",
+      "state": "Central",
+      "category": "Education",
+      "slug": "eklavya-model-residential-schools-emrs",
+      "officialUrl": "https://emrs.tribal.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/emrs",
+      "priority": 3,
+      "estimatedMonthlySearches": 15000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Residential schools for ST children in tribal areas. Free quality education Class 6-12."
+    },
+    {
+      "name": "Pre Matric Scholarship SC ST Minorities",
+      "state": "Central",
+      "category": "Education",
+      "slug": "pre-matric-scholarship-sc-st-minorities",
+      "officialUrl": "https://scholarships.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pms-pm",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Scholarship for Class 1-10 students from SC/ST/OBC/Minority communities. Via NSP portal."
+    },
+    {
+      "name": "MGNREGS 100 Days Work",
+      "state": "Central",
+      "category": "Labour & Employment",
+      "slug": "mgnregs-100-days-work-guarantee-apply",
+      "officialUrl": "https://nrega.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mgnregs",
+      "priority": 1,
+      "estimatedMonthlySearches": 200000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Guaranteed 100 days of unskilled wage employment per year. Apply at gram panchayat."
+    },
+    {
+      "name": "National Pension System NPS",
+      "state": "Central",
+      "category": "Finance & Savings",
+      "slug": "national-pension-system-nps-account-open",
+      "officialUrl": "https://enps.nsdl.com",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/nps",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Voluntary pension scheme. Market-linked returns. 60% lump sum + 40% annuity at retirement."
+    },
+    {
+      "name": "Kisan Vikas Patra",
+      "state": "Central",
+      "category": "Finance & Savings",
+      "slug": "kisan-vikas-patra-kvp-post-office",
+      "officialUrl": "https://indiapost.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/kvp",
+      "priority": 3,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Post office savings: money doubles in ~115 months (7.5% p.a.). Min ₹1,000 investment."
+    },
+    {
+      "name": "Senior Citizen Savings Scheme",
+      "state": "Central",
+      "category": "Finance & Savings",
+      "slug": "senior-citizen-savings-scheme-scss",
+      "officialUrl": "https://indiapost.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/scss",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "8.2% interest for seniors (60+). Max ₹30 lakh. Available at post offices and banks."
+    },
+    {
+      "name": "Public Provident Fund PPF",
+      "state": "Central",
+      "category": "Finance & Savings",
+      "slug": "public-provident-fund-ppf-account",
+      "officialUrl": "https://indiapost.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/ppf",
+      "priority": 2,
+      "estimatedMonthlySearches": 150000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "EEE tax savings. 7.1% interest. 15-year lock-in. Max ₹1.5 lakh/year."
+    },
+    {
+      "name": "PM Kaushal Vikas Yojana",
+      "state": "Central",
+      "category": "Skill & Training",
+      "slug": "pm-kaushal-vikas-yojana-pmkvy-training",
+      "officialUrl": "https://pmkvyofficial.org",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmkvy",
+      "priority": 2,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free skill training + ₹8,000 reward + placement support. 300+ job roles. NSQF aligned."
+    },
+    {
+      "name": "Deen Dayal Upadhyay Grameen Kaushalya Yojana",
+      "state": "Central",
+      "category": "Skill & Training",
+      "slug": "ddu-gky-rural-skill-training-placement",
+      "officialUrl": "https://ddugky.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/ddu-gky",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free skill training + job placement for rural youth aged 15-35. 100% residential training."
+    },
+    {
+      "name": "NAPS National Apprenticeship Promotion",
+      "state": "Central",
+      "category": "Skill & Training",
+      "slug": "national-apprenticeship-promotion-scheme-naps",
+      "officialUrl": "https://apprenticeshipindia.org",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/naps",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "25% stipend reimbursement to employer. ₹1,500/month basic stipend for apprentices."
+    },
+    {
+      "name": "Stand Up India Scheme",
+      "state": "Central",
+      "category": "Business & Finance",
+      "slug": "stand-up-india-sc-st-women-loan",
+      "officialUrl": "https://standupmitra.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/sui",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹10 lakh – ₹1 crore greenfield enterprise loan for SC/ST and women entrepreneurs."
+    },
+    {
+      "name": "PM Shram Yogi Maan-dhan",
+      "state": "Central",
+      "category": "Labour & Employment",
+      "slug": "pm-shram-yogi-maan-dhan-pension-pm-sym",
+      "officialUrl": "https://maandhan.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pm-sym",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹3,000/month pension for unorganised workers (₹15,000/month income cap) after age 60."
+    },
+    {
+      "name": "NPS for Traders and Self Employed",
+      "state": "Central",
+      "category": "Labour & Employment",
+      "slug": "nps-traders-self-employed-vyapari-scheme",
+      "officialUrl": "https://maandhan.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/nps-traders",
+      "priority": 3,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹3,000/month pension for traders/shopkeepers with annual turnover <₹1.5 crore after age 60."
+    },
+    {
+      "name": "Rozgar Mela",
+      "state": "Central",
+      "category": "Labour & Employment",
+      "slug": "rozgar-mela-government-job-fair",
+      "officialUrl": "https://rozgarmela.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/rm",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Government job fairs with appointment letters given on spot. Freshers can register on portal."
+    },
+    {
+      "name": "Udyam Registration MSME",
+      "state": "Central",
+      "category": "Business & Finance",
+      "slug": "udyam-registration-msme-online",
+      "officialUrl": "https://udyamregistration.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/udyam",
+      "priority": 1,
+      "estimatedMonthlySearches": 200000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free MSME registration for micro/small/medium enterprises. Enables access to all MSME schemes."
+    },
+    {
+      "name": "CGTMSE Credit Guarantee Scheme",
+      "state": "Central",
+      "category": "Business & Finance",
+      "slug": "cgtmse-credit-guarantee-scheme-msme-loan",
+      "officialUrl": "https://cgtmse.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/cgtmse",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Collateral-free loan guarantee for MSMEs up to ₹5 crore. Covers 75-85% of default."
+    },
+    {
+      "name": "GeM Seller Registration",
+      "state": "Central",
+      "category": "Business & Finance",
+      "slug": "gem-government-marketplace-seller-registration",
+      "officialUrl": "https://gem.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/gem",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Sell products/services to government online. Zero commission for MSMEs. ₹2 lakh crore annual GMV."
+    },
+    {
+      "name": "Zero Defect Zero Effect Scheme",
+      "state": "Central",
+      "category": "Business & Finance",
+      "slug": "zero-defect-zero-effect-zed-msme-certification",
+      "officialUrl": "https://zed.msme.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/zed",
+      "priority": 3,
+      "estimatedMonthlySearches": 10000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "ZED certification for MSMEs for quality and environmental compliance. 80% subsidy on certification."
+    },
+    {
+      "name": "SIDBI SMILE Loan",
+      "state": "Central",
+      "category": "Business & Finance",
+      "slug": "sidbi-smile-loan-micro-small-enterprise",
+      "officialUrl": "https://www.sidbi.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/sidbi-smile",
+      "priority": 2,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Loans ₹10 lakh – ₹25 lakh for micro enterprises at low interest rate via SIDBI."
+    },
+    {
+      "name": "Technology Upgradation Fund Scheme TUFS",
+      "state": "Central",
+      "category": "Business & Finance",
+      "slug": "technology-upgradation-fund-scheme-tufs-textile",
+      "officialUrl": "https://texmin.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/tufs",
+      "priority": 3,
+      "estimatedMonthlySearches": 10000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Interest reimbursement and capital subsidy for modernising textile mills."
+    },
+    {
+      "name": "NSAP National Social Assistance Programme",
+      "state": "Central",
+      "category": "Social Welfare",
+      "slug": "nsap-national-social-assistance-old-age-pension",
+      "officialUrl": "https://nsap.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/nsap",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Pension for BPL elderly (₹200-500/month), widows (₹300-500/month), disabled persons."
+    },
+    {
+      "name": "Indira Gandhi National Old Age Pension",
+      "state": "Central",
+      "category": "Social Welfare",
+      "slug": "indira-gandhi-national-old-age-pension-ignoaps",
+      "officialUrl": "https://nsap.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/ignoaps",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹200/month (60-79 yrs) / ₹500/month (80+) BPL pension under NSAP. State adds on top."
+    },
+    {
+      "name": "Indira Gandhi National Widow Pension",
+      "state": "Central",
+      "category": "Social Welfare",
+      "slug": "indira-gandhi-national-widow-pension-ignwps",
+      "officialUrl": "https://nsap.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/ignwps",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹300/month central pension for BPL widows aged 40-79. Most states top up to ₹1,000+."
+    },
+    {
+      "name": "Indira Gandhi National Disability Pension",
+      "state": "Central",
+      "category": "Social Welfare",
+      "slug": "indira-gandhi-disability-pension-igndps",
+      "officialUrl": "https://nsap.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/igndps",
+      "priority": 2,
+      "estimatedMonthlySearches": 25000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹300/month central pension for BPL persons with 80%+ disability aged 18-79."
+    },
+    {
+      "name": "PM Garib Kalyan Ann Yojana",
+      "state": "Central",
+      "category": "Social Welfare",
+      "slug": "pm-garib-kalyan-ann-yojana-free-ration",
+      "officialUrl": "https://dfpd.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmgkay",
+      "priority": 1,
+      "estimatedMonthlySearches": 300000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "5 kg free foodgrains per person per month for NFSA beneficiaries. 80 crore people covered."
+    },
+    {
+      "name": "One Nation One Ration Card",
+      "state": "Central",
+      "category": "Social Welfare",
+      "slug": "one-nation-one-ration-card-onorc",
+      "officialUrl": "https://impds.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/onorc",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Portability of ration card across India. Migrants can get ration anywhere in India."
+    },
+    {
+      "name": "Antyodaya Anna Yojana",
+      "state": "Central",
+      "category": "Social Welfare",
+      "slug": "antyodaya-anna-yojana-aay-ration-card",
+      "officialUrl": "https://dfpd.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/aay",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "35 kg grain/month at ₹2/kg wheat, ₹3/kg rice for poorest of poor families."
+    },
+    {
+      "name": "Divyangjan Scholarship",
+      "state": "Central",
+      "category": "Disability",
+      "slug": "divyangjan-scholarship-disabled-students",
+      "officialUrl": "https://scholarships.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/dvng-scholar",
+      "priority": 2,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Pre/post matric scholarships + free coaching for disabled students. Apply via NSP."
+    },
+    {
+      "name": "DPIIT Startup India Seed Fund",
+      "state": "Central",
+      "category": "Business & Finance",
+      "slug": "startup-india-seed-fund-sisfs-incubator",
+      "officialUrl": "https://startupindia.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/sisfs",
+      "priority": 2,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Up to ₹20 lakh grant + ₹50 lakh soft loan via empanelled incubators for DPIIT startups."
+    },
+    {
+      "name": "Saubhagya Scheme Free Electricity",
+      "state": "Central",
+      "category": "Energy",
+      "slug": "saubhagya-scheme-free-electricity-connection",
+      "officialUrl": "https://saubhagya.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/saubhagya",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free electricity connection to BPL households. Apply at local electricity office or CSC."
+    },
+    {
+      "name": "PAHAL LPG Subsidy DBT",
+      "state": "Central",
+      "category": "Energy",
+      "slug": "pahal-lpg-subsidy-dbt-direct-benefit",
+      "officialUrl": "https://mylpg.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pahal",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "LPG subsidy directly credited to bank account (DBT). Link Aadhaar with LPG connection."
+    },
+    {
+      "name": "FAME India Scheme EV Subsidy",
+      "state": "Central",
+      "category": "Energy",
+      "slug": "fame-india-scheme-ev-electric-vehicle-subsidy",
+      "officialUrl": "https://fame2.heavyindustry.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/fame",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Electric vehicle purchase subsidy under FAME-II. ₹10,000–1.5 lakh on 2W, 3W, buses, cars."
+    },
+    {
+      "name": "National Solar Rooftop Mission",
+      "state": "Central",
+      "category": "Energy",
+      "slug": "national-solar-rooftop-subsidy-residential",
+      "officialUrl": "https://solarrooftop.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/nsrm",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "40% subsidy on 1-3 kW solar rooftop systems for homes. Apply via DISCOM or pm surya ghar portal."
+    },
+    {
+      "name": "Jal Jeevan Mission Har Ghar Jal",
+      "state": "Central",
+      "category": "Housing",
+      "slug": "jal-jeevan-mission-tap-water-connection",
+      "officialUrl": "https://jaljeevanmission.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/jjm",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Tap water connection to every rural household. Apply at gram panchayat."
+    },
+    {
+      "name": "Swachh Bharat Mission Gramin",
+      "state": "Central",
+      "category": "Housing",
+      "slug": "swachh-bharat-mission-gramin-toilet-subsidy",
+      "officialUrl": "https://swachhbharatmission.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/sbmg",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹12,000 incentive for construction of household toilet in rural areas. Apply at gram panchayat."
+    },
+    {
+      "name": "PM Gram Sadak Yojana",
+      "state": "Central",
+      "category": "Infrastructure",
+      "slug": "pm-gram-sadak-yojana-rural-road",
+      "officialUrl": "https://omms.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmgsy",
+      "priority": 3,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "All-weather road connectivity for villages with population 250+. Check road status online."
+    },
+    {
+      "name": "AMRUT 2.0 Urban Mission",
+      "state": "Central",
+      "category": "Infrastructure",
+      "slug": "amrut-urban-mission-water-sanitation",
+      "officialUrl": "https://amrut.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/amrut",
+      "priority": 3,
+      "estimatedMonthlySearches": 15000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Urban water supply, sewerage, green spaces for cities with 1 lakh+ population."
+    },
+    {
+      "name": "Smart Cities Mission",
+      "state": "Central",
+      "category": "Infrastructure",
+      "slug": "smart-cities-mission-india",
+      "officialUrl": "https://smartcities.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/scm",
+      "priority": 3,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "100 smart city projects. Integrated command centres, smart roads, wi-fi, CCTV."
+    },
+    {
+      "name": "One Stop Centre Sakhi",
+      "state": "Central",
+      "category": "Women & Family",
+      "slug": "one-stop-centre-sakhi-violence-women",
+      "officialUrl": "https://wcd.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/osc",
+      "priority": 2,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Integrated support for women affected by violence. Medical, legal, police, shelter, counselling."
+    },
+    {
+      "name": "Working Women Hostel Scheme",
+      "state": "Central",
+      "category": "Women & Family",
+      "slug": "working-women-hostel-scheme-apply",
+      "officialUrl": "https://wcd.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/wwhs",
+      "priority": 3,
+      "estimatedMonthlySearches": 15000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Subsidised hostel accommodation for working women/female students in cities."
+    },
+    {
+      "name": "National Creche Scheme",
+      "state": "Central",
+      "category": "Women & Family",
+      "slug": "national-creche-scheme-child-daycare",
+      "officialUrl": "https://wcd.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/ncs",
+      "priority": 3,
+      "estimatedMonthlySearches": 10000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Day care for children of working mothers (6 months – 6 years). ₹20/day nominal fee."
+    },
+    {
+      "name": "Mahila Shakti Kendra",
+      "state": "Central",
+      "category": "Women & Family",
+      "slug": "mahila-shakti-kendra-skill-empowerment",
+      "officialUrl": "https://wcd.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/msk",
+      "priority": 3,
+      "estimatedMonthlySearches": 10000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Skill training, digital literacy, health awareness for women in block-level centres."
+    },
+    {
+      "name": "PM Care Fund",
+      "state": "Central",
+      "category": "Social Welfare",
+      "slug": "pm-care-fund-apply-covid-distress",
+      "officialUrl": "https://pmcares.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmcare",
+      "priority": 3,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Emergency relief fund set up for COVID-19. Funds directed to health infra, vaccines, migrants."
+    },
+    {
+      "name": "DigiLocker",
+      "state": "Central",
+      "category": "Digital Services",
+      "slug": "digilocker-digital-document-wallet",
+      "officialUrl": "https://digilocker.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/digilocker",
+      "priority": 2,
+      "estimatedMonthlySearches": 500000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Store driving licence, marksheets, Aadhaar, PAN digitally. Officially valid. 200+ documents."
+    },
+    {
+      "name": "UMANG App",
+      "state": "Central",
+      "category": "Digital Services",
+      "slug": "umang-app-government-services",
+      "officialUrl": "https://web.umang.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/umang",
+      "priority": 2,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "1,700+ government services on one app. PF balance, scholarship, land records, electricity bills."
+    },
+    {
+      "name": "Common Service Centre CSC",
+      "state": "Central",
+      "category": "Digital Services",
+      "slug": "common-service-centre-csc-services",
+      "officialUrl": "https://csc.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/csc",
+      "priority": 2,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Govt services at village level. Aadhaar enrolment, certificates, banking, insurance at CSC."
+    },
+    {
+      "name": "EPFO PF Withdrawal Online",
+      "state": "Central",
+      "category": "Labour & Employment",
+      "slug": "epfo-pf-withdrawal-online-claim",
+      "officialUrl": "https://epfindia.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/epfo",
+      "priority": 1,
+      "estimatedMonthlySearches": 800000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "PF balance check, online withdrawal, UAN activation, pension claim. Very high search volume."
+    },
+    {
+      "name": "EPFO EPS Pension",
+      "state": "Central",
+      "category": "Labour & Employment",
+      "slug": "epfo-eps-pension-claim-apply",
+      "officialUrl": "https://epfindia.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/eps",
+      "priority": 2,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Employee Pension Scheme. Pension after 10 years of service + 58 years age. Apply on EPFO portal."
+    },
+    {
+      "name": "PM WANI WiFi Scheme",
+      "state": "Central",
+      "category": "Digital Services",
+      "slug": "pm-wani-wifi-public-internet-scheme",
+      "officialUrl": "https://dot.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pmwani",
+      "priority": 3,
+      "estimatedMonthlySearches": 15000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Public Wi-Fi hotspots via local kirana/shops. PM-WANI service providers and PDOA registration."
+    },
+    {
+      "name": "BharatNet Rural Broadband",
+      "state": "Central",
+      "category": "Digital Services",
+      "slug": "bharatnet-rural-broadband-scheme",
+      "officialUrl": "https://bbnl.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/bharatnet",
+      "priority": 3,
+      "estimatedMonthlySearches": 15000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Optical fibre internet to all 2.5 lakh gram panchayats. Free for public Wi-Fi up to 100 Mbps."
+    },
+    {
+      "name": "UP Scholarship Pre Matric",
+      "state": "Uttar Pradesh",
+      "category": "Education",
+      "slug": "up-scholarship-pre-matric-apply-online",
+      "officialUrl": "https://scholarship.up.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/up-pms",
+      "priority": 1,
+      "estimatedMonthlySearches": 500000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Pre-matric scholarship for SC/ST/OBC/minority students in UP. Apply at scholarship.up.gov.in. Massive search volume every cycle."
+    },
+    {
+      "name": "UP Scholarship Post Matric",
+      "state": "Uttar Pradesh",
+      "category": "Education",
+      "slug": "up-scholarship-post-matric-apply-online",
+      "officialUrl": "https://scholarship.up.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/up-postms",
+      "priority": 1,
+      "estimatedMonthlySearches": 600000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Post-matric scholarship for SC/ST/OBC/minority students in UP. Most searched UP scheme."
+    },
+    {
+      "name": "UP BC Sakhi Yojana",
+      "state": "Uttar Pradesh",
+      "category": "Women & Family",
+      "slug": "up-bc-sakhi-yojana-banking-correspondent",
+      "officialUrl": "https://up.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upbcs",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Women appointed as Bank Correspondent Sakhi. ₹4,000/month for 6 months + commission."
+    },
+    {
+      "name": "Mukhyamantri Abhyudaya Yojana UP",
+      "state": "Uttar Pradesh",
+      "category": "Education",
+      "slug": "mukhyamantri-abhyudaya-yojana-up-free-coaching",
+      "officialUrl": "https://abhyuday.up.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/muay",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free coaching for UPSC/UPPSC/JEE/NEET/NDA/SSB in govt colleges. High demand in UP."
+    },
+    {
+      "name": "UP Mukhyamantri Yuva Swarozgar Yojana",
+      "state": "Uttar Pradesh",
+      "category": "Business & Finance",
+      "slug": "up-yuva-swarozgar-yojana-loan-subsidy",
+      "officialUrl": "https://diupmsme.upsdc.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upys",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Loan up to ₹25 lakh with 25% subsidy for educated youth in UP. Service sector up to ₹10 lakh."
+    },
+    {
+      "name": "UP Free Laptop Yojana",
+      "state": "Uttar Pradesh",
+      "category": "Education",
+      "slug": "up-free-laptop-yojana-students",
+      "officialUrl": "https://upcmo.up.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upfl",
+      "priority": 2,
+      "estimatedMonthlySearches": 300000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free laptop for students with 65%+ marks in Class 10/12. Very high search volume in UP."
+    },
+    {
+      "name": "UP Kisan Karj Mafi Yojana",
+      "state": "Uttar Pradesh",
+      "category": "Agriculture",
+      "slug": "up-kisan-karj-mafi-farm-loan-waiver",
+      "officialUrl": "https://upkisankarjrahat.upsdc.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upkkmf",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Farm loan waiver scheme for small and marginal farmers in UP. Check status online."
+    },
+    {
+      "name": "UP Mathrubhumi Yojana",
+      "state": "Uttar Pradesh",
+      "category": "Infrastructure",
+      "slug": "up-mathrubhumi-yojana-village-development",
+      "officialUrl": "https://mathrubhumi.up.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upmby",
+      "priority": 3,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Individuals/NRIs fund village infrastructure. 50% govt + 50% individual. Schools, roads, health centres."
+    },
+    {
+      "name": "UP MSME Loan Mela",
+      "state": "Uttar Pradesh",
+      "category": "Business & Finance",
+      "slug": "up-msme-loan-mela-odop",
+      "officialUrl": "https://odopup.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upml",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "One District One Product (ODOP) — loans and subsidies for district-specific craft/product businesses."
+    },
+    {
+      "name": "UP Mahila Samarthya Yojana",
+      "state": "Uttar Pradesh",
+      "category": "Women & Family",
+      "slug": "up-mahila-samarthya-yojana-women-skill",
+      "officialUrl": "https://mahilakalyan.up.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upmsy",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Skill and livelihood training for rural women. SHG based model. Free training + market linkage."
+    },
+    {
+      "name": "UP Mukhyamantri Krishak Durghatna Bima",
+      "state": "Uttar Pradesh",
+      "category": "Agriculture",
+      "slug": "up-krishak-durghatna-bima-farmer-insurance",
+      "officialUrl": "https://upagripardarshi.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upkdby",
+      "priority": 3,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹5 lakh accidental insurance for farmers in UP. Free for all registered farmers."
+    },
+    {
+      "name": "UP Bhagya Laxmi Yojana",
+      "state": "Uttar Pradesh",
+      "category": "Women & Family",
+      "slug": "up-bhagya-laxmi-yojana-girl-birth-benefit",
+      "officialUrl": "https://mahilakalyan.up.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upbly",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹50,000 bond at girl's birth for BPL families. ₹5,100 nutrition grant for mother. Class 6-12 scholarships."
+    },
+    {
+      "name": "UP Startup Policy Yojana",
+      "state": "Uttar Pradesh",
+      "category": "Business & Finance",
+      "slug": "up-startup-policy-yojana-seed-fund",
+      "officialUrl": "https://invest.up.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upsp",
+      "priority": 3,
+      "estimatedMonthlySearches": 15000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Seed fund up to ₹25 lakh, mentorship, and SIDBI support for UP startups."
+    },
+    {
+      "name": "UP Solar Pump Scheme",
+      "state": "Uttar Pradesh",
+      "category": "Agriculture",
+      "slug": "up-solar-pump-scheme-farmers-subsidy",
+      "officialUrl": "https://upagripardarshi.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upsps",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "UP government 70% subsidy on solar irrigation pumps for farmers. Apply via agri dept."
+    },
+    {
+      "name": "Mukhyamantri Parivar Kalyan Yojana UP",
+      "state": "Uttar Pradesh",
+      "category": "Social Welfare",
+      "slug": "mukhyamantri-parivar-kalyan-yojana-up",
+      "officialUrl": "https://up.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upmpky",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹2 lakh on accidental death + scholarship for children + pension for widowed spouse."
+    },
+    {
+      "name": "UP Vidhwa Pension",
+      "state": "Uttar Pradesh",
+      "category": "Social Welfare",
+      "slug": "up-vidhwa-pension-yojana-widow-pension",
+      "officialUrl": "https://sspy-up.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upvp",
+      "priority": 2,
+      "estimatedMonthlySearches": 200000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹1,000/month widow pension in UP. Apply at sspy-up.gov.in. Check status online."
+    },
+    {
+      "name": "UP Vridha Pension",
+      "state": "Uttar Pradesh",
+      "category": "Social Welfare",
+      "slug": "up-vridha-pension-yojana-old-age",
+      "officialUrl": "https://sspy-up.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upvrp",
+      "priority": 2,
+      "estimatedMonthlySearches": 300000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹1,000/month old age pension (60+) in UP. Apply at sspy-up.gov.in. Huge search volume."
+    },
+    {
+      "name": "UP Divyang Pension",
+      "state": "Uttar Pradesh",
+      "category": "Social Welfare",
+      "slug": "up-divyang-pension-handicapped-pension",
+      "officialUrl": "https://sspy-up.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/updvp",
+      "priority": 2,
+      "estimatedMonthlySearches": 150000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹1,000/month disability pension in UP. Apply at sspy-up.gov.in."
+    },
+    {
+      "name": "UP Saur Urja Sahayata Yojana",
+      "state": "Uttar Pradesh",
+      "category": "Energy",
+      "slug": "up-saur-urja-sahayata-solar-free-electricity",
+      "officialUrl": "https://upneda.org.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upsus",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free solar power connection for BPL families in UP. 2-3 LED bulbs and fan. Under rural electrification."
+    },
+    {
+      "name": "UP CM Kisan Sarvhit Bima Yojana",
+      "state": "Uttar Pradesh",
+      "category": "Agriculture",
+      "slug": "up-kisan-sarvhit-bima-comprehensive-insurance",
+      "officialUrl": "https://upagripardarshi.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upksby",
+      "priority": 3,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Comprehensive accident + hospitalization insurance for UP farmers and their families."
+    },
+    {
+      "name": "UP Janai Suraksha Yojana",
+      "state": "Uttar Pradesh",
+      "category": "Women & Family",
+      "slug": "up-janani-suraksha-yojana-delivery-cash",
+      "officialUrl": "https://nhm.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upjsy",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "UP state top-up on Janani Suraksha. ₹1,500 extra for home delivery, extra for institutional birth."
+    },
+    {
+      "name": "UP ODOP Product Training Subsidy",
+      "state": "Uttar Pradesh",
+      "category": "Skill & Training",
+      "slug": "up-odop-training-subsidy-district-craft",
+      "officialUrl": "https://odopup.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upodop",
+      "priority": 3,
+      "estimatedMonthlySearches": 15000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free skill training + tools for local craft (chikankari, zari, woodwork, etc.) under ODOP mission."
+    },
+    {
+      "name": "CM Swarozgar Yojana UP",
+      "state": "Uttar Pradesh",
+      "category": "Business & Finance",
+      "slug": "cm-swarozgar-yojana-up-business-loan",
+      "officialUrl": "https://diupmsme.upsdc.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/cmsyup",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Self-employment loans for artisans and micro-entrepreneurs in UP. ₹1-25 lakh range."
+    },
+    {
+      "name": "UP Mukhyamantri Nishulk Boring Yojana",
+      "state": "Uttar Pradesh",
+      "category": "Agriculture",
+      "slug": "up-nishulk-boring-yojana-free-tube-well",
+      "officialUrl": "https://minorirrigationup.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upnby",
+      "priority": 3,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free tube well boring for small/marginal farmers in UP with up to 0.2 ha land."
+    },
+    {
+      "name": "UP Gopalak Yojana",
+      "state": "Uttar Pradesh",
+      "category": "Agriculture",
+      "slug": "up-gopalak-yojana-dairy-loan",
+      "officialUrl": "https://upahd.upsdc.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/upgy",
+      "priority": 3,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Loan up to ₹1.8 lakh for purchasing 5-10 cows/buffaloes in UP for dairy farming."
+    },
+    {
+      "name": "Mukhyamantri Kanya Utthan Yojana Bihar",
+      "state": "Bihar",
+      "category": "Women & Family",
+      "slug": "mukhyamantri-kanya-utthan-yojana-bihar",
+      "officialUrl": "https://edudbt.bih.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mkuy",
+      "priority": 1,
+      "estimatedMonthlySearches": 200000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹50,000 to girls from birth to graduation in 5+ installments in Bihar. Very high search volume."
+    },
+    {
+      "name": "Bihar Student Credit Card",
+      "state": "Bihar",
+      "category": "Education",
+      "slug": "bihar-student-credit-card-apply",
+      "officialUrl": "https://www.7nishchay-yuvaupmission.bihar.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/bscc",
+      "priority": 1,
+      "estimatedMonthlySearches": 150000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹4 lakh loan at 4% interest for higher education. 0% for girls/disabled. No collateral."
+    },
+    {
+      "name": "Bihar Laghu Udyami Yojana",
+      "state": "Bihar",
+      "category": "Business & Finance",
+      "slug": "bihar-laghu-udyami-yojana-entrepreneur-grant",
+      "officialUrl": "https://udyami.bihar.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/bluy",
+      "priority": 2,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹2 lakh grant for BPL/SC/ST entrepreneurs to start business. 94 product categories."
+    },
+    {
+      "name": "Bihar Har Ghar Bijli Yojana",
+      "state": "Bihar",
+      "category": "Energy",
+      "slug": "bihar-har-ghar-bijli-yojana",
+      "officialUrl": "https://hargharbijli.bsphcl.co.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/bhgby",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free electricity connection for all households in Bihar. Check status + apply online."
+    },
+    {
+      "name": "Bihar Cycle Yojana",
+      "state": "Bihar",
+      "category": "Education",
+      "slug": "bihar-mukhyamantri-cycle-yojana-girls",
+      "officialUrl": "https://state.bihar.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/bmcy",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free bicycle for girls in Class 9 in govt schools. ₹3,000 DBT to account."
+    },
+    {
+      "name": "Bihar Kishori Swasthya Karyakram",
+      "state": "Bihar",
+      "category": "Health",
+      "slug": "bihar-kishori-swasthya-karyakram-nutrition",
+      "officialUrl": "https://icdsonline.bih.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/bksk",
+      "priority": 3,
+      "estimatedMonthlySearches": 15000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Iron + folic acid supplements, nutrition counselling, sanitary napkins for adolescent girls 14-18."
+    },
+    {
+      "name": "Bihar Kushal Yuva Programme",
+      "state": "Bihar",
+      "category": "Skill & Training",
+      "slug": "bihar-kushal-yuva-programme-skill-training",
+      "officialUrl": "https://skillmissionbihar.org",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/bkyp",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Communication + IT skills + life skills training for Bihar youth aged 15-28. 240 hours."
+    },
+    {
+      "name": "Bihar Vridhjan Pension Yojana",
+      "state": "Bihar",
+      "category": "Social Welfare",
+      "slug": "bihar-vridhjan-pension-yojana-mukhyamantri",
+      "officialUrl": "https://sspmis.bihar.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/bvpy",
+      "priority": 2,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹400/month for 60-79 age; ₹500/month for 80+. Apply at sspmis.bihar.gov.in."
+    },
+    {
+      "name": "Bihar RTPS Birth Certificate",
+      "state": "Bihar",
+      "category": "Digital Services",
+      "slug": "bihar-rtps-birth-certificate-caste-domicile",
+      "officialUrl": "https://serviceonline.bihar.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/brtps",
+      "priority": 1,
+      "estimatedMonthlySearches": 400000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Online birth/death/caste/domicile/income certificates in Bihar via serviceonline.bihar.gov.in."
+    },
+    {
+      "name": "Bihar Diesel Anudan Yojana",
+      "state": "Bihar",
+      "category": "Agriculture",
+      "slug": "bihar-diesel-anudan-yojana-farmer-subsidy",
+      "officialUrl": "https://dbtagriculture.bihar.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/bday",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Diesel subsidy ₹50/litre for irrigation pump up to 8 hours/acre for Bihar farmers."
+    },
+    {
+      "name": "Bihar Krishi Input Anudan",
+      "state": "Bihar",
+      "category": "Agriculture",
+      "slug": "bihar-krishi-input-anudan-flood-drought-farmers",
+      "officialUrl": "https://dbtagriculture.bihar.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/bkia",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹8,500-13,500/ha compensation for crop damage due to flood/drought in Bihar."
+    },
+    {
+      "name": "Bihar Aaksmik Fasal Yojana",
+      "state": "Bihar",
+      "category": "Agriculture",
+      "slug": "bihar-aaksmik-fasal-yojana-contingency-crop",
+      "officialUrl": "https://dbtagriculture.bihar.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/bafy",
+      "priority": 3,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free mini-kits (seeds) for alternate crops when main crop fails due to drought in Bihar."
+    },
+    {
+      "name": "Mukhyamantri Ladli Bahna Yojana",
+      "state": "Madhya Pradesh",
+      "category": "Women & Family",
+      "slug": "mukhyamantri-ladli-bahna-yojana-mp",
+      "officialUrl": "https://cmladlibahna.mp.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mmlby",
+      "priority": 1,
+      "estimatedMonthlySearches": 400000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹1,250/month to married women in MP aged 23-60. ₹1.5 crore DBT monthly. Huge search volume."
+    },
+    {
+      "name": "Ladli Laxmi Yojana MP",
+      "state": "Madhya Pradesh",
+      "category": "Women & Family",
+      "slug": "ladli-laxmi-yojana-mp-girl-child",
+      "officialUrl": "https://ladlilaxmi.mp.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/llym",
+      "priority": 2,
+      "estimatedMonthlySearches": 150000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹1.43 lakh support in installments from birth to Class 12 for girl child in MP."
+    },
+    {
+      "name": "MP Mukhyamantri Krishak Mitra Yojana",
+      "state": "Madhya Pradesh",
+      "category": "Agriculture",
+      "slug": "mp-krishak-mitra-yojana-electricity-pump",
+      "officialUrl": "https://mpwrd.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mpkmmy",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "3-HP electric pump + pipeline for farmers in MP at 50% cost. Electricity connection in 3 months."
+    },
+    {
+      "name": "MP Mukhyamantri Udyam Kranti Yojana",
+      "state": "Madhya Pradesh",
+      "category": "Business & Finance",
+      "slug": "mp-mukhyamantri-udyam-kranti-yojana-loan",
+      "officialUrl": "https://samast.mponline.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mpmuky",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Collateral-free loan ₹1-50 lakh for new businesses. 3% interest subsidy for 7 years in MP."
+    },
+    {
+      "name": "MP Mukhyamantri Awasiya Bhu-Adhikar Yojana",
+      "state": "Madhya Pradesh",
+      "category": "Housing",
+      "slug": "mp-awasiya-bhu-adhikar-yojana-land-rights",
+      "officialUrl": "https://saara.mp.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mpabay",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free residential land to landless rural families in MP. Check SAARA portal for status."
+    },
+    {
+      "name": "MP Mukhyamantri Tirth Darshan Yojana",
+      "state": "Madhya Pradesh",
+      "category": "Social Welfare",
+      "slug": "mp-tirth-darshan-yojana-free-pilgrimage",
+      "officialUrl": "https://tirthdarshan.mp.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mptdy",
+      "priority": 3,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free pilgrimage to religious sites (Shirdi, Tirupati, Vaishno Devi, etc.) for seniors 60+ in MP."
+    },
+    {
+      "name": "MP Viklang Pension",
+      "state": "Madhya Pradesh",
+      "category": "Social Welfare",
+      "slug": "mp-viklang-pension-disability-pension",
+      "officialUrl": "https://socialsecurity.mp.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mpvp",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹600/month disability pension in MP. Apply via Social Justice portal. Check status online."
+    },
+    {
+      "name": "MP Vriddha Pension",
+      "state": "Madhya Pradesh",
+      "category": "Social Welfare",
+      "slug": "mp-vriddha-pension-old-age-pension",
+      "officialUrl": "https://socialsecurity.mp.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mpvrp",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹600/month old age pension for seniors 60+ in MP. socialsecurity.mp.gov.in"
+    },
+    {
+      "name": "MP Mukhyamantri Swarojgar Yojana",
+      "state": "Madhya Pradesh",
+      "category": "Business & Finance",
+      "slug": "mp-mukhyamantri-swarojgar-yojana-loan",
+      "officialUrl": "https://msme.mponline.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mpmsy",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Interest-free loan for new enterprise in MP. ₹50,000–₹10 lakh. 15% margin money subsidy."
+    },
+    {
+      "name": "MP Kanya Vivah Nikah Yojana",
+      "state": "Madhya Pradesh",
+      "category": "Women & Family",
+      "slug": "mp-kanya-vivah-nikah-yojana-marriage-grant",
+      "officialUrl": "https://vivah.samagra.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mpkvny",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹55,000 for marriage expenses (gifts + household items + cash) for BPL/SC/ST girls in MP."
+    },
+    {
+      "name": "MP E-Uparjan Wheat MSP",
+      "state": "Madhya Pradesh",
+      "category": "Agriculture",
+      "slug": "mp-e-uparjan-wheat-procurement-msp",
+      "officialUrl": "https://mpeuparjan.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mpeu",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Wheat/paddy procurement at MSP from farmers in MP. Register at mpeuparjan.nic.in."
+    },
+    {
+      "name": "MP Mukhyamantri Gaon Ki Beti Yojana",
+      "state": "Madhya Pradesh",
+      "category": "Education",
+      "slug": "mp-gaon-ki-beti-yojana-rural-girls-scholarship",
+      "officialUrl": "https://scholarshipportal.mp.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mpgkby",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹500/month (10 months/year) for rural girls who scored 60%+ in Class 12 in MP."
+    },
+    {
+      "name": "Mukhyamantri Chiranjeevi Swasthya Bima",
+      "state": "Rajasthan",
+      "category": "Health",
+      "slug": "mukhyamantri-chiranjeevi-swasthya-bima-rajasthan",
+      "officialUrl": "https://chiranjeevi.rajasthan.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mcsby",
+      "priority": 1,
+      "estimatedMonthlySearches": 200000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹25 lakh health insurance per family per year in Rajasthan. Universal — all resident families eligible."
+    },
+    {
+      "name": "Mukhyamantri Anuprati Coaching Yojana",
+      "state": "Rajasthan",
+      "category": "Education",
+      "slug": "mukhyamantri-anuprati-coaching-yojana-rajasthan",
+      "officialUrl": "https://sje.rajasthan.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/maacy",
+      "priority": 2,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free coaching for UPSC/RPSC/SSC/bank exams for SC/ST/OBC/EWS students in Rajasthan."
+    },
+    {
+      "name": "Rajasthan Palanhar Yojana",
+      "state": "Rajasthan",
+      "category": "Social Welfare",
+      "slug": "rajasthan-palanhar-yojana-orphan-children",
+      "officialUrl": "https://sje.rajasthan.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/rjspy",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹1,500/month for caretakers of orphans/destitute children. 0-5 years: ₹1,500; 6-18: ₹2,500."
+    },
+    {
+      "name": "Ambedkar DBT Voucher Scheme Rajasthan",
+      "state": "Rajasthan",
+      "category": "Education",
+      "slug": "ambedkar-dbt-voucher-scheme-rajasthan-rent",
+      "officialUrl": "https://sje.rajasthan.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/advsr",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹2,000/month rent + electricity voucher for SC/ST/OBC/EWS students away from home for study."
+    },
+    {
+      "name": "Rajasthan Mukhyamantri Vishwakarma Pension",
+      "state": "Rajasthan",
+      "category": "Social Welfare",
+      "slug": "rajasthan-vishwakarma-pension-artisan",
+      "officialUrl": "https://ssp.rajasthan.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/rjvps",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹2,000/month pension for artisans and craftsmen (Vishwakarma community) in Rajasthan."
+    },
+    {
+      "name": "Rajasthan Mukhyamantri Bal Gopal Yojana",
+      "state": "Rajasthan",
+      "category": "Education",
+      "slug": "rajasthan-bal-gopal-yojana-milk-students",
+      "officialUrl": "https://rajshaladarpan.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/rjbgy",
+      "priority": 3,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free milk (200ml) on school days for government school children Class 1-8 in Rajasthan."
+    },
+    {
+      "name": "Rajasthan Old Age Pension Vridhjan Samman",
+      "state": "Rajasthan",
+      "category": "Social Welfare",
+      "slug": "rajasthan-vridhjan-samman-pension-apply",
+      "officialUrl": "https://ssp.rajasthan.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/rjvsp",
+      "priority": 2,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹1,000-1,500/month old age pension in Rajasthan. Apply at ssp.rajasthan.gov.in."
+    },
+    {
+      "name": "Rajasthan Widow Pension Ekl Nari",
+      "state": "Rajasthan",
+      "category": "Social Welfare",
+      "slug": "rajasthan-ekl-nari-widow-pension",
+      "officialUrl": "https://ssp.rajasthan.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/rjenps",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹1,000-1,500/month widow/single woman pension in Rajasthan. ssp.rajasthan.gov.in"
+    },
+    {
+      "name": "Mukhyamantri Digital Seva Yojana Rajasthan",
+      "state": "Rajasthan",
+      "category": "Women & Family",
+      "slug": "mukhyamantri-digital-seva-yojana-free-smartphone",
+      "officialUrl": "https://jansoochna.rajasthan.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mdsyr",
+      "priority": 2,
+      "estimatedMonthlySearches": 150000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free smartphone with 3 years data for women household heads in Rajasthan."
+    },
+    {
+      "name": "Mukhyamantri Parivar Samridhi Yojana Haryana",
+      "state": "Haryana",
+      "category": "Social Welfare",
+      "slug": "mukhyamantri-parivar-samridhi-yojana-haryana",
+      "officialUrl": "https://cm-psy.haryana.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/hmpsy",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹6,000/year social security to economically weak families in Haryana. Multiple benefit types."
+    },
+    {
+      "name": "Haryana Saksham Yuva Scheme",
+      "state": "Haryana",
+      "category": "Employment",
+      "slug": "haryana-saksham-yuva-unemployment-allowance",
+      "officialUrl": "https://hreyahs.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/hsys",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹900-3,000/month unemployment allowance for Haryana graduates. Plus honorarium for work assignments."
+    },
+    {
+      "name": "Meri Fasal Mera Byora Haryana",
+      "state": "Haryana",
+      "category": "Agriculture",
+      "slug": "meri-fasal-mera-byora-haryana-crop-registration",
+      "officialUrl": "https://fasal.haryana.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/hmfmb",
+      "priority": 2,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Crop registration portal in Haryana. Mandatory for MSP procurement, insurance, and all crop benefits."
+    },
+    {
+      "name": "Haryana Mahila Samridhi Yojana",
+      "state": "Haryana",
+      "category": "Women & Family",
+      "slug": "haryana-mahila-samridhi-yojana-women-loan",
+      "officialUrl": "https://haryanascbc.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/hmsy",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹60,000 loan at 5% interest for SC women entrepreneurs in Haryana. HBSC administered."
+    },
+    {
+      "name": "Haryana CM Antyodaya Parivar Utthan Yojana",
+      "state": "Haryana",
+      "category": "Social Welfare",
+      "slug": "haryana-antyodaya-parivar-utthan-yojana",
+      "officialUrl": "https://parivarutthan.haryana.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/hapy",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Skill and livelihood support for families with income <₹1 lakh/year. 1.8 lakh families identified."
+    },
+    {
+      "name": "Haryana Kisan Mitra Yojana",
+      "state": "Haryana",
+      "category": "Agriculture",
+      "slug": "haryana-kisan-mitra-yojana-small-farmers",
+      "officialUrl": "https://agriharyana.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/hkmy",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Package of benefits for small/marginal farmers in Haryana — insurance, pension, soil testing."
+    },
+    {
+      "name": "Haryana Old Age Samman Allowance",
+      "state": "Haryana",
+      "category": "Social Welfare",
+      "slug": "haryana-old-age-samman-allowance-pension",
+      "officialUrl": "https://socialjusticehry.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/hoasa",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹3,000/month old age pension for 60+ in Haryana. Apply at socialjusticehry.gov.in."
+    },
+    {
+      "name": "Haryana Disability Pension",
+      "state": "Haryana",
+      "category": "Social Welfare",
+      "slug": "haryana-disability-pension-divyang",
+      "officialUrl": "https://socialjusticehry.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/hdp",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹3,000/month disability pension for persons with 70%+ disability in Haryana."
+    },
+    {
+      "name": "Haryana Free Bijli 2000 Units",
+      "state": "Haryana",
+      "category": "Energy",
+      "slug": "haryana-free-electricity-2000-units-bpl",
+      "officialUrl": "https://dhbvn.org.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/hfbu",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "BPL households in Haryana get 100 units free per month. Rs 2 per unit for next 100 units."
+    },
+    {
+      "name": "Mukhyamantri Mahila Samman Yojana Delhi",
+      "state": "Delhi",
+      "category": "Women & Family",
+      "slug": "mukhyamantri-mahila-samman-yojana-delhi",
+      "officialUrl": "https://delhi.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/dmmsy",
+      "priority": 1,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹1,000/month to women 18+ in Delhi. Apply via Aam Aadmi Party app/portal. High search volume."
+    },
+    {
+      "name": "Delhi Free Electricity 200 Units",
+      "state": "Delhi",
+      "category": "Energy",
+      "slug": "delhi-free-electricity-200-units-scheme",
+      "officialUrl": "https://bsesdelhi.com",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/dfes",
+      "priority": 2,
+      "estimatedMonthlySearches": 150000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "200 units free electricity per month for Delhi residents. Above 200 units billed normally."
+    },
+    {
+      "name": "Delhi Aam Aadmi Clinic",
+      "state": "Delhi",
+      "category": "Health",
+      "slug": "delhi-aam-aadmi-clinic-mohalla-clinic",
+      "officialUrl": "https://mohallaclinic.delhi.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/daac",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free OPD, 212 diagnostic tests, 50+ medicines. 500+ clinics across Delhi."
+    },
+    {
+      "name": "Delhi Rozgar Bazaar Portal",
+      "state": "Delhi",
+      "category": "Labour & Employment",
+      "slug": "delhi-rozgar-bazaar-job-portal",
+      "officialUrl": "https://jobs.delhi.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/drbp",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free job portal for Delhi job seekers. Matches candidates with employer vacancies."
+    },
+    {
+      "name": "Delhi Construction Worker Welfare Scheme",
+      "state": "Delhi",
+      "category": "Labour & Employment",
+      "slug": "delhi-construction-worker-welfare-scheme",
+      "officialUrl": "https://bocw.delhi.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/dcwws",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Scholarship, accident benefit, maternity, pension for registered construction workers in Delhi."
+    },
+    {
+      "name": "Delhi EV Policy Subsidy",
+      "state": "Delhi",
+      "category": "Energy",
+      "slug": "delhi-ev-policy-electric-vehicle-subsidy",
+      "officialUrl": "https://ev.delhi.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/devp",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹5,000-30,000 subsidy on buying e-scooter/e-cycle/e-auto in Delhi. Switch Delhi scheme."
+    },
+    {
+      "name": "Mukhyamantri Swarojgar Yojana Uttarakhand",
+      "state": "Uttarakhand",
+      "category": "Business & Finance",
+      "slug": "mukhyamantri-swarojgar-yojana-uttarakhand",
+      "officialUrl": "https://msy.uk.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/ukmsy",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Loan ₹25,000-2 lakh for new micro enterprise in Uttarakhand. 25% subsidy for hills. msy.uk.gov.in"
+    },
+    {
+      "name": "Mukhyamantri Vatsalya Yojana Uttarakhand",
+      "state": "Uttarakhand",
+      "category": "Women & Family",
+      "slug": "mukhyamantri-vatsalya-yojana-uttarakhand",
+      "officialUrl": "https://escholarship.uk.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/ukvvy",
+      "priority": 2,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹3,000/month to mothers who give up jobs to raise children under 3. COVID orphan support also."
+    },
+    {
+      "name": "Uttarakhand Mukhyamantri Mahila Poshan Yojana",
+      "state": "Uttarakhand",
+      "category": "Health",
+      "slug": "uttarakhand-mahila-poshan-yojana-nutrition",
+      "officialUrl": "https://icds.uk.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/ukmmpy",
+      "priority": 3,
+      "estimatedMonthlySearches": 10000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Free nutrition supplements (sattu, pulses, oil) for pregnant and lactating women in Uttarakhand."
+    },
+    {
+      "name": "Uttarakhand Old Age Pension",
+      "state": "Uttarakhand",
+      "category": "Social Welfare",
+      "slug": "uttarakhand-old-age-pension-apply",
+      "officialUrl": "https://ssp.uk.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/ukoap",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹1,200/month for seniors 60+ in Uttarakhand. Apply online at ssp.uk.gov.in."
+    },
+    {
+      "name": "Mukhyamantri Ekl Mahila Swarojgar Yojana",
+      "state": "Uttarakhand",
+      "category": "Women & Family",
+      "slug": "mukhyamantri-ekl-mahila-swarojgar-uttarakhand",
+      "officialUrl": "https://swrojgar.uk.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/ukemsy",
+      "priority": 3,
+      "estimatedMonthlySearches": 10000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Interest-free loan up to ₹1 lakh for single/widow/divorced women entrepreneurs in Uttarakhand."
+    },
+    {
+      "name": "Jharkhand Mukhyamantri Sathi Yojana",
+      "state": "Jharkhand",
+      "category": "Social Welfare",
+      "slug": "jharkhand-mukhyamantri-sathi-yojana",
+      "officialUrl": "https://jharkhand.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/jhmsy",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹5,000/month for critically ill patients' family members to stay with them at hospital."
+    },
+    {
+      "name": "Jharkhand Guruji Credit Card",
+      "state": "Jharkhand",
+      "category": "Education",
+      "slug": "jharkhand-guruji-credit-card-education-loan",
+      "officialUrl": "https://jharkhand.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/jhgcc",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹10 lakh education loan for higher studies for Jharkhand students. 0% interest for girls."
+    },
+    {
+      "name": "Jharkhand Savitribai Phule Kishori Samridhi",
+      "state": "Jharkhand",
+      "category": "Women & Family",
+      "slug": "jharkhand-savitribai-phule-kishori-samridhi",
+      "officialUrl": "https://jharkhand.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/jhspksy",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹40,000 in installments from Class 8 to 18 years for adolescent girls in Jharkhand."
+    },
+    {
+      "name": "Jharkhand Mukhyamantri Maiya Samman Yojana",
+      "state": "Jharkhand",
+      "category": "Women & Family",
+      "slug": "jharkhand-maiya-samman-yojana-women-monthly",
+      "officialUrl": "https://maiyasamman.jharkhand.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/jhmmsmy",
+      "priority": 1,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹2,500/month to women 18-50 in Jharkhand. 3 months retrospective payment to new beneficiaries."
+    },
+    {
+      "name": "Rajiv Gandhi Grameen Bhoomihin Mazdoor Nyay Yojana",
+      "state": "Chhattisgarh",
+      "category": "Agriculture",
+      "slug": "rajiv-gandhi-bhoomihin-mazdoor-nyay-chhattisgarh",
+      "officialUrl": "https://rgbmnyk.cg.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/rgbmny",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "₹7,000/year for landless agricultural labourers in Chhattisgarh. 3.5 lakh beneficiaries."
+    },
+    {
+      "name": "CG Mukhyamantri Kisan Mitan Yojana",
+      "state": "Chhattisgarh",
+      "category": "Agriculture",
+      "slug": "cg-kisan-mitan-yojana-agri-service-centre",
+      "officialUrl": "https://agri.cg.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/cgkmmy",
+      "priority": 3,
+      "estimatedMonthlySearches": 15000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Farm service centres run by trained youth. Subsidised machinery rental and agri-input supply in CG."
+    },
+    {
+      "name": "CG Mukhyamantri Suposhan Abhiyan",
+      "state": "Chhattisgarh",
+      "category": "Health",
+      "slug": "cg-mukhyamantri-suposhan-abhiyan-malnutrition",
+      "officialUrl": "https://cgwcd.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/cgmsa",
+      "priority": 3,
+      "estimatedMonthlySearches": 10000,
+      "langs": [
+        "en",
+        "hi"
+      ],
+      "notes": "Door-to-door nutrition monitoring + hot meals for malnourished children in Chhattisgarh."
+    },
+    {
+      "name": "Atta Dal Scheme Punjab",
+      "state": "Punjab",
+      "category": "Social Welfare",
+      "slug": "atta-dal-scheme-punjab-free-ration",
+      "officialUrl": "https://punjab.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pjads",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en"
+      ],
+      "notes": "5 kg atta + 1 kg dal free per person per month for BPL/BPL-SC families in Punjab."
+    },
+    {
+      "name": "Bhagwant Mann Sarkar Di Guarantee Aam Aadmi Clinic",
+      "state": "Punjab",
+      "category": "Health",
+      "slug": "aam-aadmi-clinic-punjab-free-health",
+      "officialUrl": "https://aadaab.punjab.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pjaac",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en"
+      ],
+      "notes": "Free OPD, 38 diagnostic tests, medicines at 800+ Aam Aadmi Clinics in Punjab."
+    },
+    {
+      "name": "Punjab Ghar Ghar Rozgar",
+      "state": "Punjab",
+      "category": "Labour & Employment",
+      "slug": "punjab-ghar-ghar-rozgar-employment-portal",
+      "officialUrl": "https://pgrkam.com",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pjggr",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en"
+      ],
+      "notes": "Punjab job portal for skilled and unskilled workers. pgrkam.com links job seekers with employers."
+    },
+    {
+      "name": "Punjab Mata Kanya Scheme",
+      "state": "Punjab",
+      "category": "Women & Family",
+      "slug": "punjab-mata-kanya-baal-sahyogi-girl-child",
+      "officialUrl": "https://swc.punjab.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pjmks",
+      "priority": 2,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹51,000 FD at birth for BPL girls in Punjab. Matured at 18 for education/marriage."
+    },
+    {
+      "name": "Punjab Post Matric Scholarship SC Students",
+      "state": "Punjab",
+      "category": "Education",
+      "slug": "punjab-post-matric-scholarship-sc-apply",
+      "officialUrl": "https://punjabscholarships.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pjpms",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en"
+      ],
+      "notes": "Post-matric scholarship for SC students in Punjab. Apply at punjabscholarships.gov.in."
+    },
+    {
+      "name": "Punjab Mukhyamantri Solar Pump Yojana",
+      "state": "Punjab",
+      "category": "Agriculture",
+      "slug": "punjab-mukhyamantri-solar-pump-yojana-farmers",
+      "officialUrl": "https://peda.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pjmspy",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en"
+      ],
+      "notes": "50-90% subsidy on solar pump sets for Punjab farmers. Up to 10 HP capacity."
+    },
+    {
+      "name": "Punjab Ashirwad Scheme",
+      "state": "Punjab",
+      "category": "Women & Family",
+      "slug": "punjab-ashirwad-scheme-marriage-grant-bpl",
+      "officialUrl": "https://punjab.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/pjas",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹51,000 marriage grant for BPL/SC girls in Punjab. Applied before marriage ceremony."
+    },
+    {
+      "name": "Maharashtra Mukhyamantri Saur Krishi Pump",
+      "state": "Maharashtra",
+      "category": "Agriculture",
+      "slug": "maharashtra-saur-krishi-pump-solar-scheme",
+      "officialUrl": "https://mahadiscom.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mhskp",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en"
+      ],
+      "notes": "Free/subsidised solar agricultural pump for farmers in Maharashtra. 5 HP at ₹25,000 max."
+    },
+    {
+      "name": "Maharashtra Ek Rupee Clinic",
+      "state": "Maharashtra",
+      "category": "Health",
+      "slug": "maharashtra-ek-rupee-clinic-government-hospital",
+      "officialUrl": "https://arogya.maharashtra.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mherc",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en"
+      ],
+      "notes": "Generic medicines at ₹1 per strip at govt hospitals. 600+ medicines available in Maharashtra."
+    },
+    {
+      "name": "MahaDBT Scholarship Portal",
+      "state": "Maharashtra",
+      "category": "Education",
+      "slug": "mahadbt-scholarship-maharashtra-apply",
+      "officialUrl": "https://mahadbt.maharashtra.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mhdbt",
+      "priority": 1,
+      "estimatedMonthlySearches": 300000,
+      "langs": [
+        "en"
+      ],
+      "notes": "All Maharashtra government scholarships on one portal. SC/ST/OBC/EWS/minority. Huge search volume."
+    },
+    {
+      "name": "Maharashtra Swadhaar Yojana Hostel",
+      "state": "Maharashtra",
+      "category": "Education",
+      "slug": "maharashtra-swadhaar-yojana-sc-hostel-stipend",
+      "officialUrl": "https://sjsa.maharashtra.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mhswyd",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹51,000-60,000/year for SC/NavBauddha students living outside hostel for higher education in Maharashtra."
+    },
+    {
+      "name": "Maharashtra Rajshri Shahu Scholarship",
+      "state": "Maharashtra",
+      "category": "Education",
+      "slug": "maharashtra-rajshri-shahu-scholarship-obc",
+      "officialUrl": "https://mahadbt.maharashtra.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mhrsso",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en"
+      ],
+      "notes": "Post-matric scholarship for OBC students in Maharashtra. ₹8,000-15,000/year."
+    },
+    {
+      "name": "Mahatma Phule Jan Arogya Yojana",
+      "state": "Maharashtra",
+      "category": "Health",
+      "slug": "mahatma-phule-jan-arogya-yojana-maharashtra",
+      "officialUrl": "https://www.jeevandayee.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mpjay",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹5 lakh health insurance for BPL/yellow ration card families in Maharashtra. 996 procedures."
+    },
+    {
+      "name": "Maharashtra Annasaheb Patil Loan Guarantee",
+      "state": "Maharashtra",
+      "category": "Business & Finance",
+      "slug": "maharashtra-annasaheb-patil-loan-maratha-entrepreneur",
+      "officialUrl": "https://mahaswayam.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/mhapml",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en"
+      ],
+      "notes": "Loan guarantee up to ₹3 crore for Maratha community entrepreneurs in Maharashtra."
+    },
+    {
+      "name": "Karnataka Raitha Siri Scheme",
+      "state": "Karnataka",
+      "category": "Agriculture",
+      "slug": "karnataka-raitha-siri-farmer-insurance",
+      "officialUrl": "https://raitamitra.kar.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/krss",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en"
+      ],
+      "notes": "Accident insurance ₹5 lakh for farmers in Karnataka. Crop damage compensation. Free on registration."
+    },
+    {
+      "name": "Karnataka Shaadi Bhagya Marriage Grant",
+      "state": "Karnataka",
+      "category": "Women & Family",
+      "slug": "karnataka-shaadi-bhagya-marriage-grant-sc-st",
+      "officialUrl": "https://socialsecurity.karnataka.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/ksbmg",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹50,000 marriage grant for SC/ST/OBC/Minority girls in Karnataka."
+    },
+    {
+      "name": "Karnataka Suvarna Gramodaya Yojana",
+      "state": "Karnataka",
+      "category": "Infrastructure",
+      "slug": "karnataka-suvarna-gramodaya-rural-development",
+      "officialUrl": "https://rdpr.karnataka.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/ksgy",
+      "priority": 3,
+      "estimatedMonthlySearches": 10000,
+      "langs": [
+        "en"
+      ],
+      "notes": "Integrated rural village development scheme — roads, drainage, lighting, water in Karnataka."
+    },
+    {
+      "name": "Karnataka Swalambi Shahari Pension",
+      "state": "Karnataka",
+      "category": "Social Welfare",
+      "slug": "karnataka-sandhya-suraksha-old-age-pension",
+      "officialUrl": "https://sevasindhu.karnataka.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/kssp",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹600-1,000/month old age/widow/disability pension in Karnataka. Apply at Seva Sindhu."
+    },
+    {
+      "name": "Vidyasiri Karnataka Scholarship SC ST",
+      "state": "Karnataka",
+      "category": "Education",
+      "slug": "vidyasiri-karnataka-scholarship-sc-st-apply",
+      "officialUrl": "https://sevasindhu.karnataka.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/kvssi",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en"
+      ],
+      "notes": "Post-matric scholarship for SC/ST students in Karnataka. Apply via Seva Sindhu portal."
+    },
+    {
+      "name": "Mukhyamantri Mahila Utkarsh Yojana Gujarat",
+      "state": "Gujarat",
+      "category": "Women & Family",
+      "slug": "mukhyamantri-mahila-utkarsh-yojana-gujarat",
+      "officialUrl": "https://mmuy.gujarat.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/gjmmuy",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en"
+      ],
+      "notes": "0% interest loan for SHG women in Gujarat. ₹1 lakh per member. 10 lakh women covered."
+    },
+    {
+      "name": "iKhedut Portal Gujarat Farmer Schemes",
+      "state": "Gujarat",
+      "category": "Agriculture",
+      "slug": "ikhedut-portal-gujarat-farmer-schemes",
+      "officialUrl": "https://ikhedut.gujarat.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/gjikh",
+      "priority": 2,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en"
+      ],
+      "notes": "Single portal for all Gujarat farmer schemes — tractor, drip irrigation, power pump subsidies."
+    },
+    {
+      "name": "Mukhyamantri Amrutum Yojana Gujarat",
+      "state": "Gujarat",
+      "category": "Health",
+      "slug": "mukhyamantri-amrutum-yojana-gujarat-health",
+      "officialUrl": "https://health.gujarat.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/gjmay",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹10 lakh health insurance for BPL families in Gujarat. Cashless at empanelled hospitals."
+    },
+    {
+      "name": "VANBANDHU Kalyan Yojana Gujarat",
+      "state": "Gujarat",
+      "category": "Social Welfare",
+      "slug": "vanbandhu-kalyan-yojana-gujarat-tribal",
+      "officialUrl": "https://tribal.gujarat.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/gjvky",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en"
+      ],
+      "notes": "Welfare for tribal communities in Gujarat — housing, education, health, livelihood."
+    },
+    {
+      "name": "Kisan Suryoday Yojana Gujarat",
+      "state": "Gujarat",
+      "category": "Agriculture",
+      "slug": "kisan-suryoday-yojana-gujarat-3-phase-power",
+      "officialUrl": "https://agri.gujarat.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/gjksy",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en"
+      ],
+      "notes": "3-phase electricity to all Gujarat farmers from 5 AM to 9 PM for irrigation pumps."
+    },
+    {
+      "name": "Gujarat Scholarship for SC Students",
+      "state": "Gujarat",
+      "category": "Education",
+      "slug": "gujarat-scholarship-sc-students-e-samaj-kalyan",
+      "officialUrl": "https://esamajkalyan.gujarat.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/gjscs",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en"
+      ],
+      "notes": "Pre/post matric scholarship for SC students. Apply at esamajkalyan.gujarat.gov.in"
+    },
+    {
+      "name": "Kalaignar Magalir Urimai Thogai",
+      "state": "Tamil Nadu",
+      "category": "Women & Family",
+      "slug": "kalaignar-magalir-urimai-thogai-1000-women",
+      "officialUrl": "https://tn.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/tnkmut",
+      "priority": 1,
+      "estimatedMonthlySearches": 200000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹1,000/month to women household heads in Tamil Nadu. One of highest-searched TN schemes."
+    },
+    {
+      "name": "Murasoli Scheme Tamil Nadu",
+      "state": "Tamil Nadu",
+      "category": "Social Welfare",
+      "slug": "murasoli-scheme-tamil-nadu-disabled-pension",
+      "officialUrl": "https://tn.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/tnms",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹1,000/month pension for disabled persons in Tamil Nadu. Apply at district social welfare office."
+    },
+    {
+      "name": "Tamil Nadu CM Breakfast Scheme",
+      "state": "Tamil Nadu",
+      "category": "Education",
+      "slug": "tamil-nadu-cm-breakfast-scheme-students",
+      "officialUrl": "https://tnschools.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/tncmbs",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en"
+      ],
+      "notes": "Free breakfast for government school students Class 1-5 in Tamil Nadu."
+    },
+    {
+      "name": "TN Pudhumai Penn Scholarship",
+      "state": "Tamil Nadu",
+      "category": "Education",
+      "slug": "tn-pudhumai-penn-scholarship-government-school-girls",
+      "officialUrl": "https://tnscholarships.nic.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/tnpps",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹1,000/month for govt school girl students pursuing higher education in Tamil Nadu."
+    },
+    {
+      "name": "Amma Unavagam Tamil Nadu",
+      "state": "Tamil Nadu",
+      "category": "Social Welfare",
+      "slug": "amma-unavagam-cheap-canteen-tamil-nadu",
+      "officialUrl": "https://tn.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/tnau",
+      "priority": 3,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en"
+      ],
+      "notes": "Subsidised food at ₹5 per meal (rice + 2 side dishes) at 500+ canteens across Tamil Nadu."
+    },
+    {
+      "name": "TN Chief Minister Health Insurance Scheme",
+      "state": "Tamil Nadu",
+      "category": "Health",
+      "slug": "tn-cm-health-insurance-scheme-apply",
+      "officialUrl": "https://cmchis.tn.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/tncmhis",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹5 lakh health cover for TN families with annual income <₹1.2 lakh. cmchis.tn.gov.in"
+    },
+    {
+      "name": "YSR Rythu Bharosa Andhra Pradesh",
+      "state": "Andhra Pradesh",
+      "category": "Agriculture",
+      "slug": "ysr-rythu-bharosa-ap-farmer-support",
+      "officialUrl": "https://ysrrythubharosa.ap.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/apyrb",
+      "priority": 2,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹13,500/year to all farmer families in AP (₹7,500 state + PM Kisan ₹6,000). Status check online."
+    },
+    {
+      "name": "Jagananna Amma Vodi AP",
+      "state": "Andhra Pradesh",
+      "category": "Education",
+      "slug": "jagananna-amma-vodi-ap-school-mothers",
+      "officialUrl": "https://ammavodi.ap.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/apjav",
+      "priority": 2,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹15,000/year to mothers who send children to govt schools in AP. DBT to mother's account."
+    },
+    {
+      "name": "YSR Aarogyasri Health Scheme AP",
+      "state": "Andhra Pradesh",
+      "category": "Health",
+      "slug": "ysr-aarogyasri-health-scheme-ap",
+      "officialUrl": "https://ysraarogyasri.ap.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/apyaas",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹5 lakh + ₹10 lakh health insurance for BPL families in AP. 2,500+ procedures covered."
+    },
+    {
+      "name": "YSR Pension Kanuka AP",
+      "state": "Andhra Pradesh",
+      "category": "Social Welfare",
+      "slug": "ysr-pension-kanuka-ap-social-security",
+      "officialUrl": "https://navasakam.ap.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/apypk",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹3,000-3,500/month pension for old age, widow, disability, fishermen in AP."
+    },
+    {
+      "name": "Jagananna Housing Scheme AP",
+      "state": "Andhra Pradesh",
+      "category": "Housing",
+      "slug": "jagananna-housing-scheme-ap-navaratnalu",
+      "officialUrl": "https://navaratnalu.ap.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/apjhs",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en"
+      ],
+      "notes": "Free house with ₹1.8 lakh grant for homeless BPL families in AP. Check status at navaratnalu.ap.gov.in"
+    },
+    {
+      "name": "Rythu Bandhu Telangana Farmer Investment",
+      "state": "Telangana",
+      "category": "Agriculture",
+      "slug": "rythu-bandhu-telangana-farmer-investment",
+      "officialUrl": "https://rythubandhu.telangana.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/tsrb",
+      "priority": 2,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹10,000/acre/year to all farm land owners in Telangana. ₹5,000 per Kharif and Rabi."
+    },
+    {
+      "name": "Rythu Bima Telangana Farmer Insurance",
+      "state": "Telangana",
+      "category": "Agriculture",
+      "slug": "rythu-bima-telangana-farmer-life-insurance",
+      "officialUrl": "https://rythubandhu.telangana.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/tsrbi",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹5 lakh life insurance for all 4-72 age farmers in Telangana. Free, government pays premium."
+    },
+    {
+      "name": "Kalyana Lakshmi Shaadi Mubarak Telangana",
+      "state": "Telangana",
+      "category": "Women & Family",
+      "slug": "kalyana-lakshmi-shaadi-mubarak-telangana-marriage",
+      "officialUrl": "https://telanganaepass.cgg.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/tskl",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹1,00,116 marriage grant for SC/ST (Kalyana Lakshmi) and Minorities (Shaadi Mubarak) in Telangana."
+    },
+    {
+      "name": "KCR Kit Telangana Pregnant Women",
+      "state": "Telangana",
+      "category": "Health",
+      "slug": "kcr-kit-telangana-pregnant-women-kit",
+      "officialUrl": "https://hmfw.telangana.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/tskcr",
+      "priority": 2,
+      "estimatedMonthlySearches": 40000,
+      "langs": [
+        "en"
+      ],
+      "notes": "16-item baby kit + ₹12,000 cash incentive for pregnant women in Telangana delivering at govt hospitals."
+    },
+    {
+      "name": "TS Aasara Pension",
+      "state": "Telangana",
+      "category": "Social Welfare",
+      "slug": "ts-aasara-pension-telangana-old-age",
+      "officialUrl": "https://aasara.telangana.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/tsap",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹2,016-4,016/month pension for old age, widow, disabled, toddy tappers, weavers in Telangana."
+    },
+    {
+      "name": "Lakshmir Bhandar West Bengal",
+      "state": "West Bengal",
+      "category": "Women & Family",
+      "slug": "lakshmir-bhandar-west-bengal-monthly-allowance",
+      "officialUrl": "https://wb.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/wblb",
+      "priority": 1,
+      "estimatedMonthlySearches": 200000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹500/month (General) / ₹1,000/month (SC/ST) for women household heads in WB. Duare Sarkar."
+    },
+    {
+      "name": "Kanyashree Prakalpa West Bengal",
+      "state": "West Bengal",
+      "category": "Women & Family",
+      "slug": "kanyashree-prakalpa-west-bengal-girls",
+      "officialUrl": "https://wbkanyashree.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/wbkp",
+      "priority": 2,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹1,000/year (K1) and ₹25,000 one-time (K2 at 18+) for unmarried girls in WB schools."
+    },
+    {
+      "name": "Krishak Bandhu West Bengal",
+      "state": "West Bengal",
+      "category": "Agriculture",
+      "slug": "krishak-bandhu-west-bengal-farmer-support",
+      "officialUrl": "https://krishakbandhu.net",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/wbkrb",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹10,000/year for farmers with 1+ acre; ₹4,000 for <1 acre in WB. Free life insurance ₹2 lakh."
+    },
+    {
+      "name": "Rupashree Prakalpa West Bengal Marriage",
+      "state": "West Bengal",
+      "category": "Women & Family",
+      "slug": "rupashree-prakalpa-west-bengal-marriage-grant",
+      "officialUrl": "https://wb.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/wbrp",
+      "priority": 2,
+      "estimatedMonthlySearches": 60000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹25,000 one-time grant for marriage of economically backward girls in WB (family income <₹1.5 lakh)."
+    },
+    {
+      "name": "Duare Sarkar West Bengal Services",
+      "state": "West Bengal",
+      "category": "Digital Services",
+      "slug": "duare-sarkar-west-bengal-doorstep-services",
+      "officialUrl": "https://wb.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/wbds",
+      "priority": 2,
+      "estimatedMonthlySearches": 100000,
+      "langs": [
+        "en"
+      ],
+      "notes": "30+ government schemes delivered at doorstep camps in WB. Lakshmir Bhandar, health cards, pensions."
+    },
+    {
+      "name": "KALIA Scheme Odisha Farmers",
+      "state": "Odisha",
+      "category": "Agriculture",
+      "slug": "kalia-scheme-odisha-farmer-support",
+      "officialUrl": "https://kalia.odisha.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/odks",
+      "priority": 2,
+      "estimatedMonthlySearches": 80000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹25,000 over 5 seasons for small/marginal farmers in Odisha. ₹12,500 for landless laborers."
+    },
+    {
+      "name": "Biju Swasthya Kalyan Yojana Odisha",
+      "state": "Odisha",
+      "category": "Health",
+      "slug": "biju-swasthya-kalyan-yojana-odisha-health",
+      "officialUrl": "https://bsky.odisha.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/odbsky",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹5 lakh (women: ₹10 lakh) health insurance for BPL families in Odisha at empanelled hospitals."
+    },
+    {
+      "name": "Mission Shakti Odisha SHG",
+      "state": "Odisha",
+      "category": "Women & Family",
+      "slug": "mission-shakti-odisha-shg-women",
+      "officialUrl": "https://missionshakti.odisha.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/odmss",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en"
+      ],
+      "notes": "7 million SHG women in Odisha. Savings, credit, livelihood, capacity building. ₹1 lakh revolving fund."
+    },
+    {
+      "name": "Kerala Karshaka Kshemanidhi Farmer Pension",
+      "state": "Kerala",
+      "category": "Agriculture",
+      "slug": "kerala-karshaka-kshemanidhi-farmer-pension",
+      "officialUrl": "https://keralaagriculture.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/klkkf",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹1,100/month pension for registered farmers and agricultural workers in Kerala after 60."
+    },
+    {
+      "name": "Snehapoorvam Scholarship Kerala",
+      "state": "Kerala",
+      "category": "Education",
+      "slug": "snehapoorvam-scholarship-kerala-orphans",
+      "officialUrl": "https://swd.kerala.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/klsps",
+      "priority": 2,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹300-1,000/month scholarship for orphan children and children of jailed parents in Kerala."
+    },
+    {
+      "name": "Kudumbashree Mission Kerala",
+      "state": "Kerala",
+      "category": "Women & Family",
+      "slug": "kudumbashree-mission-kerala-shg-microenterprise",
+      "officialUrl": "https://kudumbashree.org",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/klkm",
+      "priority": 2,
+      "estimatedMonthlySearches": 50000,
+      "langs": [
+        "en"
+      ],
+      "notes": "5 million women in 2.77 lakh SHGs. Microcredit, agri enterprises, urban wage employment."
+    },
+    {
+      "name": "Kerala Arogyakeralam Health Insurance",
+      "state": "Kerala",
+      "category": "Health",
+      "slug": "kerala-arogyakeralam-karunya-health-insurance",
+      "officialUrl": "https://arogyakeralam.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/klakh",
+      "priority": 2,
+      "estimatedMonthlySearches": 30000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹5 lakh health insurance under Karunya Arogya Suraksha Padhathi (KASP) for BPL families in Kerala."
+    },
+    {
+      "name": "Kerala Chiri Chiriyath Scheme Disability",
+      "state": "Kerala",
+      "category": "Social Welfare",
+      "slug": "kerala-disability-pension-social-security",
+      "officialUrl": "https://socialwelfare.kerala.gov.in",
+      "myschemeUrl": "https://www.myscheme.gov.in/schemes/klssd",
+      "priority": 2,
+      "estimatedMonthlySearches": 20000,
+      "langs": [
+        "en"
+      ],
+      "notes": "₹1,600/month disability pension in Kerala. 40%+ disability certificate required."
     }
   ]
 }
