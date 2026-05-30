@@ -57,7 +57,7 @@
       "lastChanged": "2026-03-01T02:46:19.512Z"
     },
     "ssc:notices": {
-      "lastChecked": "2026-05-30T09:55:25.885Z",
+      "lastChecked": "2026-05-30T11:17:28.419Z",
       "noticeIds": [
         "hvcvnq6iuo746xj9qe5g4",
         "82liqxb6q7v0m8s0jg65w",
@@ -82,7 +82,7 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-05-30T09:55:30.425Z",
+      "lastChecked": "2026-05-30T11:17:32.471Z",
       "noticeIds": [
         "20260529120905",
         "20260529120330",
@@ -807,7 +807,7 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-05-30T09:55:38.915Z",
+      "lastChecked": "2026-05-30T11:17:41.118Z",
       "contentHash": "d6fc9758e0584f4ef8f60ee561f86ee1",
       "pdfHash": "f4afe66da877612ac4e077bfb2e9bc6e",
       "pdfs": [
@@ -817,8 +817,8 @@
       ]
     },
     "sbi:hash": {
-      "lastChecked": "2026-05-30T09:55:39.987Z",
-      "contentHash": "1b3644e75aaac60678f67d8ab81904ca",
+      "lastChecked": "2026-05-30T11:17:41.722Z",
+      "contentHash": "d80c7f4a75cf019e2c9ccb7d7214e1ab",
       "pdfHash": "971d6175597be3d91590d30157b537c8",
       "pdfs": [
         "https://bank.sbi/documents/77530/0/03122024-SCO_09_SELECT_LIST_RM.pdf/6807986c-7598-35dd-9ab8-682a8c8a1683?t=1733204687360",
@@ -1242,7 +1242,7 @@
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-05-30T09:55:37.625Z",
+      "lastChecked": "2026-05-30T11:17:40.365Z",
       "contentHash": "d73d6b3ca9ca2cec845a9eb5d6b217b9",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
       "pdfs": [
@@ -1263,8 +1263,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-05-30T09:55:37.499Z",
-      "contentHash": "ba478353635615bd368004327e5732e7",
+      "lastChecked": "2026-05-30T11:17:39.901Z",
+      "contentHash": "703eac3044e912c5a7c671a02c2e2d16",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "pdfs": [
         "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
@@ -2720,5 +2720,5 @@
       ]
     }
   },
-  "lastScan": "2026-05-30T09:56:24.347Z"
+  "lastScan": "2026-05-30T11:18:15.994Z"
 }
