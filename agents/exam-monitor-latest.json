@@ -1,42 +1,34 @@
 {
-  "scanTime": "2026-05-30T15:47:08.103Z",
-  "elapsedSeconds": 51.2,
-  "changesDetected": 3,
-  "errors": 39,
+  "scanTime": "2026-05-30T16:58:41.365Z",
+  "elapsedSeconds": 43,
+  "changesDetected": 1,
+  "errors": 40,
   "changes": [
-    {
-      "site": "NTA",
-      "type": "NEW_NOTICE",
-      "headline": "Re-scheduling of examination for the candidates affected due to technical glitch in CUET (UG) - 2026 on 30.05.2026 (Shift-I)-reg.&nbsp;",
-      "date": "2026-05-30",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260530182445.pdf",
-      "url": "https://nta.ac.in"
-    },
-    {
-      "site": "SBI Careers",
-      "type": "CONTENT_CHANGE",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-05-30T15:46:39.020Z"
-    },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-05-30T15:46:37.363Z"
+      "detectedAt": "2026-05-30T16:58:10.879Z"
     }
   ],
   "errorDetails": [
-    {
-      "site": "SSC",
-      "error": "Timeout"
-    },
     {
       "site": "UPSC",
       "error": "Timeout"
     },
     {
+      "site": "SBI Careers",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "error": ""
+    },
+    {
       "site": "NABARD",
       "url": "https://www.nabard.org/career-notices.aspx",
+      "error": "Timeout"
+    },
+    {
+      "site": "RRB (Railway)",
+      "url": "https://www.rrbcdg.gov.in/",
       "error": "Timeout"
     },
     {
