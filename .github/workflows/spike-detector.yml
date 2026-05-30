@@ -118,12 +118,35 @@ jobs:
             while IFS= read -r slug; do
               node scripts/google-index-submit.js "https://www.citizennest.com/update/$slug" || true
             done < agents/.newly-generated-slugs
-            rm -f agents/.newly-generated-slugs
           fi
 
       - name: Submit to IndexNow (Bing + Yandex)
         if: steps.commit.outputs.new_count > 0
         run: node scripts/submit-indexnow.js || true
+
+      # ── Step 6: Notify channels ──────────────────────────────────────────
+
+      - name: Post to Telegram channel
+        if: steps.commit.outputs.new_count > 0
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+        run: |
+          if [ -f "agents/.newly-generated-slugs" ]; then
+            node scripts/notify-telegram.js agents/.newly-generated-slugs || true
+          fi
+
+      - name: Post to WhatsApp channel
+        if: steps.commit.outputs.new_count > 0
+        env:
+          WA_PHONE_NUMBER_ID: ${{ secrets.WA_PHONE_NUMBER_ID }}
+          WA_ACCESS_TOKEN: ${{ secrets.WA_ACCESS_TOKEN }}
+          WA_CHANNEL_ID: ${{ secrets.WA_CHANNEL_ID }}
+        run: |
+          if [ -f "agents/.newly-generated-slugs" ]; then
+            node scripts/notify-whatsapp.js agents/.newly-generated-slugs || true
+            rm -f agents/.newly-generated-slugs
+          fi
 
       # ── Summary ──────────────────────────────────────────────────────────
 
