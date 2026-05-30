@@ -13,20 +13,37 @@ keywords:
   - sda fda exam 2026
   - sda eligibility karnataka
   - kpsc fda sda apply online
-readingTime: "14 min"
+  - kpsc sda result 2026
+  - kpsc fda result 2026
+  - kea sda fda result 2026
+  - sda fda next recruitment 2026
+  - kpsc fda sda syllabus 2026
+readingTime: "22 min"
 officialLinks:
   - "https://kpsc.kar.nic.in"
   - "https://cetonline.karnataka.gov.in"
 ---
 
-# SDA Full Form, Salary & KPSC FDA/SDA 2026 Recruitment Guide
+# SDA Full Form, Salary & KPSC FDA/SDA 2026 Complete Guide
 
-## SDA Full Form and FDA Full Form
+## Quick Answer: SDA Full Form and FDA Full Form
 
-**SDA full form:** Second Division Assistant
-**FDA full form:** First Division Assistant
+**SDA full form in Karnataka:** Second Division Assistant
+**FDA full form in Karnataka:** First Division Assistant
 
-These are Karnataka government administrative posts recruited by the Karnataka Public Service Commission (KPSC) and Karnataka Examination Authority (KEA). SDA (Second Division Assistant) requires PUC (12th pass); FDA (First Division Assistant) requires a Bachelor's degree.
+SDA and FDA are Karnataka state government administrative posts filled by the Karnataka Public Service Commission (KPSC) and Karnataka Examination Authority (KEA). SDA requires PUC (12th pass); FDA requires a Bachelor's degree.
+
+## Current Status — KPSC SDA FDA 2025–26
+
+| What | Status |
+|------|--------|
+| Recruitment notification | Released 8 Oct 2025 (178 vacancies) |
+| Application window | Closed (8 Oct – 14 Nov 2025) |
+| Written exam | Conducted |
+| Result | Released — check at cetonline.karnataka.gov.in |
+| Next recruitment | Watch kpsc.kar.nic.in (typically every 2–3 years) |
+
+> **If you missed this cycle:** The next KPSC SDA/FDA recruitment is expected in 2027–28. Use this time to complete preparation — especially Kannada language and Karnataka GK, which carry the most marks.
 
 ## SDA Salary in Karnataka 2026
 
@@ -155,6 +172,148 @@ Understanding the difference between FDA and SDA is crucial for choosing the rig
 - Average, Profit & Loss, Simple & Compound Interest
 - Time & Work, Time & Distance, Mensuration
 
+## Detailed Syllabus — Topic-by-Topic Breakdown
+
+### General Kannada — Full Syllabus (150 marks, FDA Paper 1)
+
+This is the highest-scoring paper in FDA. Most candidates lose marks here for lack of depth in grammar.
+
+**Grammar (ವ್ಯಾಕರಣ) — 40–50 marks**
+- Sandhi (ಸಂಧಿ): Svara sandhi, Vyanjana sandhi, Visarga sandhi — with rules and examples
+- Samaasa (ಸಮಾಸ): Tatpurusha, Dvandva, Bahuvrihi, Karmadharaya, Avyayibhava
+- Vibhakti (ವಿಭಕ್ತಿ): All 8 cases with Kannada suffixes
+- Kriya (ಕ್ರಿಯಾ): Verb forms, tenses, causative, passive voice in Kannada
+- Alankara (ಅಲಂಕಾರ): Upama, Rupaka, Utpreksha, Anuprasa, Yamaka
+
+**Kannada Literature & Prose — 30–40 marks**
+- Ancient Kannada (ಹಳಗನ್ನಡ): Pampa, Ponna, Ranna (Three Gems), Janna, Raghavanka
+- Medieval Kannada (ನಡುಗನ್ನಡ): Vachana literature — Basavanna, Akkamahadevi, Allama Prabhu
+- Modern Kannada (ಹೊಸಗನ್ನಡ): Kuvempu, D.R. Bendre, Masti, Shivaram Karanth
+- Dalit and women's writing in Kannada literature
+
+**Comprehension & Vocabulary — 30–35 marks**
+- Reading comprehension (unseen passage)
+- Synonyms (ಸಮಾನಾರ್ಥ ಪದ), Antonyms (ವಿರುದ್ಧಾರ್ಥ ಪದ)
+- One-word substitution, Proverbs (ಗಾದೆ ಮಾತು)
+- Translation (English to Kannada or vice versa — short sentences)
+
+**Essay / Paragraph Writing — 25–30 marks**
+- Essay on Karnataka topics: rivers, dams, personalities, schemes
+- Letter writing (formal and informal in Kannada)
+
+---
+
+### General English — Full Syllabus (150 marks, FDA Paper 2)
+
+**Grammar — 50–60 marks**
+- Tenses: Present (Simple/Continuous/Perfect), Past, Future — usage and corrections
+- Articles: a, an, the — rules and exceptions
+- Prepositions: in, on, at, by, for, since, until — correct usage
+- Voice: Active to Passive and vice versa (all tenses)
+- Narration: Direct to Indirect speech (all sentence types)
+- Conjunctions, Modals (can, could, may, might, should, would, must)
+- Conditional sentences (Type 0, 1, 2, 3)
+
+**Vocabulary — 30–40 marks**
+- Synonyms and Antonyms (commonly tested: alleviate, benevolent, candid, diligent...)
+- One-word substitution (e.g., "one who cannot be corrected" = incorrigible)
+- Idioms and Phrases (common: at the drop of a hat, burn the midnight oil...)
+- Word pairs (affect/effect, accept/except, principal/principle)
+- Spellings (commonly misspelled words)
+
+**Reading Comprehension — 30–35 marks**
+- 2–3 unseen passages with questions
+- Inferential and direct questions
+- Finding the main idea, tone, and title of passage
+
+**Writing — 25–30 marks**
+- Essay (250–300 words on current/general topics)
+- Précis writing (summarizing a given passage to 1/3rd its length)
+- Letter / Report writing
+
+---
+
+### General Knowledge — Full Syllabus (100 marks)
+
+**History — 20–25 marks**
+- Karnataka History: Dynasties (Kadamba, Chalukya, Rashtrakuta, Hoysala, Vijayanagara, Bahmani, Mysore Wadiyars)
+- Unification of Karnataka (Ekikarana Movement) — 1 November 1956
+- Indian National Movement: Role of Karnataka leaders (Veer Savarkar, B.R. Ambedkar connections)
+- Ancient Indian history: Indus Valley, Vedic Period, Maurya, Gupta empires
+- Medieval India: Delhi Sultanate, Mughal Empire, Maratha Empire
+- Modern India: 1857 revolt, Congress formation, Gandhi, Partition
+
+**Geography — 15–20 marks**
+- Karnataka: Districts (31), Rivers (Krishna, Kaveri, Tungabhadra, Sharavati), Dams (KRS, Tungabhadra, Narayanapura), National Parks (Bandipur, Nagarhole, Kudremukh), Hills (Bababudangiri, Kodachadri)
+- Physical India: Himalayan ranges, Deccan Plateau, river systems, coastal plains
+- Economic geography: major crops, minerals, industries by state
+
+**Indian Polity & Constitution — 15–20 marks**
+- Preamble, Fundamental Rights (Articles 12–35), Directive Principles (36–51), Fundamental Duties
+- Parliament: Lok Sabha, Rajya Sabha, President's powers
+- Judiciary: Supreme Court, High Courts, subordinate courts
+- Local self-government: Panchayati Raj, urban bodies
+- Constitutional amendments: 42nd, 44th, 73rd, 74th, 86th, 101st
+
+**Economy — 10–15 marks**
+- Karnataka Budget highlights (latest year)
+- India's GDP, sectors (Agriculture, Industry, Services)
+- Reserve Bank, monetary policy, inflation
+- Government schemes: PM Kisan, PM Awas, Ayushman Bharat, MGNREGA
+- Karnataka schemes: Gruha Lakshmi, Yuva Nidhi, Shakti, Anna Bhagya
+
+**Science & Technology — 10–15 marks**
+- Basic physics, chemistry, biology (Class 10 level)
+- Space: ISRO missions (Chandrayaan, Gaganyaan, Aditya-L1)
+- Defence: INS, IAF achievements, DRDO projects
+- Digital India, UPI, cybersecurity basics
+
+**Current Affairs (Karnataka-specific) — 15–20 marks**
+- Karnataka government appointments (Chief Minister, Governors, new secretaries)
+- Awards to Karnataka personalities (Jnanpith, Padma awards)
+- New infrastructure projects in Karnataka
+- Sports achievements by Karnataka athletes
+- National-level current affairs (last 12 months)
+
+---
+
+### Arithmetic — Full Syllabus (SDA Paper 2, 50 marks)
+
+This section is only in the SDA exam. FDA does not have arithmetic.
+
+**Number System — 5–8 marks**
+- LCM, HCF, prime factorisation
+- Divisibility rules (2, 3, 4, 5, 6, 8, 9, 10, 11)
+- Fractions, decimals, surds and indices
+
+**Percentage & Ratio — 8–10 marks**
+- Percentage increase/decrease
+- Ratio and proportion, variation (direct and inverse)
+- Partnership problems
+
+**Profit, Loss & Discount — 5–7 marks**
+- Cost price, selling price, marked price relationships
+- Successive discounts
+- Dishonest shopkeeper problems
+
+**Simple & Compound Interest — 5–7 marks**
+- SI formula, applications
+- CI annually, half-yearly, quarterly
+- Population growth problems
+
+**Time, Work & Speed — 8–10 marks**
+- Time and work (pipes and cistern, efficiency-based)
+- Speed, distance, time (trains, boats and streams)
+- Relative speed problems
+
+**Mensuration — 5–7 marks**
+- Area and perimeter: rectangle, triangle, circle, trapezium
+- Volume and surface area: cube, cuboid, cylinder, cone, sphere
+- Combined shapes
+
+**Data Interpretation — 3–5 marks**
+- Bar graphs, pie charts, line graphs — reading and calculating values
+
 ## KPSC FDA SDA Salary Structure
 
 ### Pay Scale
@@ -208,6 +367,75 @@ Cutoff marks vary based on the number of vacancies, difficulty level, and applic
 | PwD | — | 105 – 120 |
 
 > **Tip:** Aim for at least 10–15 marks above the expected cutoff for your category to ensure a comfortable selection.
+
+## How to Check KPSC SDA FDA Result 2025–26
+
+The result for the October 2025 notification (178 vacancies) has been declared. Follow these steps:
+
+1. Go to [cetonline.karnataka.gov.in](https://cetonline.karnataka.gov.in)
+2. Click on **"Results"** in the top menu
+3. Find **"SDA/FDA Recruitment 2025"** or **"KEA SDA FDA Result"** link
+4. Enter your **Hall Ticket Number** and **Date of Birth**
+5. Click Submit — your result, marks, and rank will be displayed
+6. Download and save the result PDF
+
+**What the result page shows:**
+- Written exam marks (Paper 1, Paper 2, Paper 3 for FDA)
+- Total marks and percentage
+- Qualifying status (Pass / Not Qualified)
+- Merit rank within your category
+- Document verification call letter (if shortlisted)
+
+**If you qualified:** You'll receive a call for document verification. Carry originals of: degree/PUC certificate, caste certificate, Aadhaar, PAN, residence proof, and passport photos.
+
+---
+
+## Previous Year Question Paper Analysis
+
+Understanding which topics appear most in KPSC SDA/FDA exams helps focus your preparation.
+
+### Most-Asked Topics in General Kannada (based on past papers)
+| Topic | Approximate Questions |
+|-------|----------------------|
+| Sandhi (ಸಂಧಿ) | 15–20 |
+| Samaasa (ಸಮಾಸ) | 10–15 |
+| Alankara (ಅಲಂಕಾರ) | 8–12 |
+| Comprehension passage | 15–20 |
+| Vocabulary (synonyms, antonyms) | 10–15 |
+| Literature (poets and works) | 10–15 |
+| Grammar (Vibhakti, Kriya) | 10–15 |
+
+### Most-Asked Topics in General Knowledge
+| Topic | Approximate Questions |
+|-------|----------------------|
+| Karnataka history (dynasties) | 12–18 |
+| Indian Polity & Constitution | 10–15 |
+| Karnataka geography (rivers, dams) | 8–12 |
+| Current affairs (Karnataka-specific) | 10–15 |
+| Economy (schemes, budget) | 8–10 |
+| Science & Technology | 8–10 |
+| Indian history (modern period) | 8–10 |
+
+**Key tip from previous papers:** Karnataka-specific questions (history, geography, schemes, appointments) account for 40–50% of GK marks. Focus heavily on this over generic Indian GK.
+
+---
+
+## When is the Next KPSC SDA FDA Recruitment?
+
+KPSC has historically conducted SDA/FDA recruitment in cycles:
+
+| Year | Vacancies | Conducting Body |
+|------|-----------|-----------------|
+| 2013 | ~1,000+ | KPSC |
+| 2016 | ~2,000+ | KPSC |
+| 2019 | ~1,500+ | KPSC |
+| 2022 | 1,112 | KPSC |
+| 2025 | 178 (KEA) | KEA |
+| **Next (expected)** | **TBA** | **Watch kpsc.kar.nic.in** |
+
+The 2025 batch had only 178 vacancies under a specific category. A major open recruitment with 1,000+ vacancies is expected in the next cycle. **Register for alerts at kpsc.kar.nic.in** and check back here — we'll update this page the moment a notification drops.
+
+---
 
 ## How to Apply
 
@@ -322,6 +550,24 @@ SDA can be promoted to FDA through departmental exams, then further to Superinte
 
 ### Which books are best for KPSC FDA/SDA preparation?
 Spardha Vijetha guides for Kannada and Karnataka GK, Wren & Martin for English grammar, Lucent GK, and RS Aggarwal for Arithmetic (SDA) are widely recommended by toppers.
+
+### How to check KPSC SDA FDA result 2026?
+Go to cetonline.karnataka.gov.in → click Results → select SDA/FDA recruitment → enter your Hall Ticket Number and Date of Birth → submit to view your marks and qualifying status.
+
+### What documents are needed for KPSC SDA FDA document verification?
+Carry originals and photocopies of: degree/PUC marks card and certificate, caste/category certificate (if applicable), Aadhaar card, PAN card, residence proof, income certificate (for EWS), disability certificate (for PwD), and 4 passport-size photos.
+
+### Is there a typing test for KPSC SDA FDA?
+Some notifications include a computer/typing skill test after the written exam, especially for SDA posts. The requirement (speed in words per minute) is mentioned in the specific recruitment advertisement. Check the official notification for the current cycle.
+
+### Can I prepare for KPSC SDA and KPSC KAS simultaneously?
+Yes, there is significant overlap in the GK and Kannada syllabus. Many aspirants prepare for both simultaneously. However, KAS requires deeper analytical preparation and has additional papers. Start with SDA/FDA (shorter syllabus) to build your base before attempting KAS.
+
+### What is the difference between KPSC and KEA for SDA/FDA recruitment?
+KPSC (Karnataka Public Service Commission) handles recruitment for gazetted and non-gazetted state government posts. KEA (Karnataka Examination Authority) handles some specific category recruitments and entrance exams. Both have conducted SDA/FDA recruitments — check which body released the current notification.
+
+### How many attempts are allowed for KPSC SDA/FDA?
+There is no restriction on the number of attempts as long as the candidate meets the age limit. You can apply every time a notification is released until you cross the maximum age limit for your category.
 
 ## Related Guides
 
