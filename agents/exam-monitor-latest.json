@@ -1,50 +1,44 @@
 {
-  "scanTime": "2026-05-29T19:07:51.307Z",
-  "elapsedSeconds": 62.7,
-  "changesDetected": 7,
-  "errors": 27,
+  "scanTime": "2026-05-30T04:50:02.055Z",
+  "elapsedSeconds": 57.6,
+  "changesDetected": 6,
+  "errors": 25,
   "changes": [
     {
-      "site": "IBPS",
+      "site": "SBI Careers",
       "type": "CONTENT_CHANGE",
-      "url": "https://www.ibps.in/",
-      "detectedAt": "2026-05-29T19:07:02.410Z"
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-05-30T04:49:19.831Z"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-05-29T19:07:01.005Z"
+      "detectedAt": "2026-05-30T04:49:17.496Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-05-29T19:07:07.869Z"
+      "detectedAt": "2026-05-30T04:49:29.344Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-05-29T19:07:12.651Z"
+      "detectedAt": "2026-05-30T04:49:33.901Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-05-29T19:07:15.793Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "PDF_CHANGE",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-05-29T19:07:15.530Z"
+      "detectedAt": "2026-05-30T04:49:37.269Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-05-29T19:07:32.661Z"
+      "detectedAt": "2026-05-30T04:49:53.927Z"
     }
   ],
   "errorDetails": [
@@ -53,13 +47,13 @@
       "error": "Timeout"
     },
     {
-      "site": "SBI Careers",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "error": ""
-    },
-    {
       "site": "NABARD",
       "url": "https://www.nabard.org/career-notices.aspx",
+      "error": "Timeout"
+    },
+    {
+      "site": "RRB (Railway)",
+      "url": "https://www.rrbcdg.gov.in/",
       "error": "Timeout"
     },
     {
@@ -96,11 +90,6 @@
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
       "error": ""
-    },
-    {
-      "site": "IGNOU",
-      "url": "https://ignou.ac.in/",
-      "error": "read ECONNRESET"
     },
     {
       "site": "BPSC",
@@ -148,11 +137,6 @@
       "error": "Timeout"
     },
     {
-      "site": "JPSC",
-      "url": "https://www.jpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "CGPSC",
       "url": "https://psc.cg.gov.in/",
       "error": "Timeout"
@@ -180,7 +164,7 @@
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     }
   ]
 }
