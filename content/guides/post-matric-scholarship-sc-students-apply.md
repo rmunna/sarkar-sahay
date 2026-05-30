@@ -1,5 +1,5 @@
 ---
-title: "Post Matric Scholarship for SC Students 2024 — Apply at scholarships.gov.in"
+title: "Post Matric Scholarship for SC Students"
 description: "SC students get full tuition + maintenance allowance up to ₹1,200/month via Post Matric Scholarship. Apply at scholarships.gov.in. Income limit ₹2.5 lakh/year."
 category: "Government Schemes"
 keywords:

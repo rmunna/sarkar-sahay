@@ -1,6 +1,6 @@
 ---
-title: "Startup India Scheme 2024 — DPIIT Recognition, Tax Benefits & Funding, Apply Online"
-description: "Get Startup India DPIIT recognition for tax exemptions, government tenders, and SEBI fast-track IPO. Apply at startupindia.gov.in. Free legal IP support and mentorship."
+title: "Startup India — DPIIT Recognition, Tax Benefits & Funds"
+description: "Get Startup India DPIIT recognition for tax exemptions, government tenders, and SEBI fast-track IPO. Apply at startupindia.gov.in. Free legal IP support and..."
 category: "Government Schemes"
 keywords:
   - "startup india scheme"

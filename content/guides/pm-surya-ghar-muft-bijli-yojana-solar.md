@@ -1,5 +1,5 @@
 ---
-title: "PM Surya Ghar Muft Bijli Yojana 2024 — Free Solar Panel & 300 Units Free Electricity"
+title: "PM Surya Ghar — Free Electricity + Solar Rooftop Subsidy"
 description: "Get free solar rooftop panels under PM Surya Ghar Yojana. Up to 300 units free electricity/month, ₹78,000 subsidy. Apply at pmsuryaghar.gov.in."
 category: "Government Schemes"
 keywords:

@@ -1,6 +1,6 @@
 ---
-title: "PAHAL LPG Subsidy 2024 — How to Get LPG Subsidy in Bank Account, DBTL"
-description: "PAHAL (DBTL) transfers LPG subsidy directly to your Aadhaar-linked bank account. Check subsidy status, link Aadhaar to LPG, and how to activate PAHAL for Indane/HP/Bharat Gas."
+title: "PAHAL/DBTL — LPG Subsidy via Direct Benefit Transfer"
+description: "PAHAL (DBTL) transfers LPG subsidy directly to your Aadhaar-linked bank account. Check subsidy status, link Aadhaar to LPG, and how to activate PAHAL for..."
 category: "Government Schemes"
 keywords:
   - "pahal lpg subsidy"

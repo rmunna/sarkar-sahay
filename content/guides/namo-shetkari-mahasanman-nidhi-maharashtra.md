@@ -1,6 +1,6 @@
 ---
-title: "Namo Shetkari Mahasanman Nidhi 2024 — ₹6,000/Year Extra for Maharashtra Farmers"
-description: "Namo Shetkari Mahasanman Nidhi gives Maharashtra farmers ₹6,000/year in addition to PM Kisan ₹6,000. Total ₹12,000/year. Check eligibility, beneficiary list, and payment status."
+title: "Namo Shetkari Mahasanman Nidhi — ₹6,000/Year"
+description: "Namo Shetkari Mahasanman Nidhi gives Maharashtra farmers ₹6,000/year in addition to PM Kisan ₹6,000. Total ₹12,000/year. Check eligibility, beneficiary..."
 category: "Government Schemes"
 keywords:
   - "namo shetkari mahasanman nidhi"

@@ -1,6 +1,6 @@
 ---
-title: "POSHAN Abhiyaan 2024 — PM's Nutrition Mission, Benefits for Children & Mothers"
-description: "POSHAN Abhiyaan (PM's Overarching Scheme for Holistic Nourishment) provides nutrition support to children under 6, pregnant women, and lactating mothers through Anganwadi centers."
+title: "POSHAN Abhiyaan — National Nutrition Mission Benefits"
+description: "POSHAN Abhiyaan (PM's Overarching Scheme for Holistic Nourishment) provides nutrition support to children under 6, pregnant women, and lactating mothers..."
 category: "Government Schemes"
 keywords:
   - "poshan abhiyaan"

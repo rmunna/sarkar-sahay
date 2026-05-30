@@ -1,6 +1,6 @@
 ---
-title: "UP Kisan Karj Mafi Yojana — Farm Loan Waiver Status, Check Name in List"
-description: "UP Kisan Karj Mafi gives crop loan waiver up to ₹1 lakh to small/marginal farmers. Check your name at upkisaan.upcmo.up.nic.in. See how to apply and check beneficiary status."
+title: "UP Kisan Karj Mafi — Farm Loan Waiver up to ₹1 Lakh"
+description: "UP Kisan Karj Mafi gives crop loan waiver up to ₹1 lakh to small/marginal farmers. Check your name at upkisaan.upcmo.up.nic.in. See how to apply and check..."
 category: "Government Schemes"
 keywords:
   - "up kisan karj mafi yojana"

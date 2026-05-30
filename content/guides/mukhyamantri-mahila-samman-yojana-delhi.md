@@ -1,6 +1,6 @@
 ---
-title: "Mukhyamantri Mahila Samman Yojana Delhi 2024 — ₹1,000/Month for Women, Apply"
-description: "Delhi Mukhyamantri Mahila Samman Yojana gives ₹1,000/month to women 18+ in Delhi. Check eligibility, how to apply via AAP app, documents required, and payment status."
+title: "Mukhyamantri Mahila Samman Yojana Delhi — ₹1,000"
+description: "Delhi Mukhyamantri Mahila Samman Yojana gives ₹1,000/month to women 18+ in Delhi. Check eligibility, how to apply via AAP app, documents required, and..."
 category: "Government Schemes"
 keywords:
   - "mukhyamantri mahila samman yojana delhi"

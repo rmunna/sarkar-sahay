@@ -1,6 +1,6 @@
 ---
-title: "E-Shram Card Registration: Get ₹2 Lakh Accident Cover for Workers 2024"
-description: "E-Shram Card provides unorganized workers ₹2 lakh accident insurance. Register for vital social security. Check eligibility & apply at the official site: eshram.gov.in."
+title: "E-Shram Card Registration: Get ₹2 Lakh Accident Cover for..."
+description: "E-Shram Card provides unorganized workers ₹2 lakh accident insurance. Register for vital social security. Check eligibility & apply at the official site..."
 category: "Government Schemes"
 keywords:
   - "e shram card apply online"

@@ -1,6 +1,6 @@
 ---
-title: "Jal Jeevan Mission 2024 — Free Tap Water Connection, How to Apply"
-description: "Jal Jeevan Mission (Har Ghar Jal) provides free tap water connections to every rural household. Apply via Gram Panchayat. Check village water supply status at jaljeevanmission.gov.in."
+title: "Jal Jeevan Mission — Free Tap Water Connection, How to Apply"
+description: "Jal Jeevan Mission (Har Ghar Jal) provides free tap water connections to every rural household. Apply via Gram Panchayat. Check village water supply status..."
 category: "Government Schemes"
 keywords:
   - "jal jeevan mission apply"

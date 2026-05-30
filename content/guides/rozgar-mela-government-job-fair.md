@@ -1,6 +1,6 @@
 ---
-title: "Rozgar Mela 2024 — PM Rozgar Mela Government Job Appointment, Apply Online"
-description: "PM Rozgar Mela distributes appointment letters to newly recruited government employees. Register at rozgarmela.pmkvy.in. Check upcoming dates and how to track your appointment."
+title: "Rozgar Mela — PM Rozgar Mela Government Job Appointment"
+description: "PM Rozgar Mela distributes appointment letters to newly recruited government employees. Register at rozgarmela.pmkvy.in. Check upcoming dates and how to..."
 category: "Government Schemes"
 keywords:
   - "rozgar mela pm india"

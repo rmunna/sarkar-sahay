@@ -1,5 +1,5 @@
 ---
-title: "PM Jan Dhan Yojana 2024 — Open Zero Balance Account, ₹2 Lakh Insurance"
+title: "PM Jan Dhan Yojana — Zero-Balance Account + ₹2L Cover"
 description: "Open a Jan Dhan account at any bank with zero balance. Get RuPay debit card, ₹2 lakh accident insurance, ₹30,000 life cover, and overdraft up to ₹10,000."
 category: "Government Schemes"
 keywords:

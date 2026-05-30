@@ -1,6 +1,6 @@
 ---
-title: "Antyodaya Anna Yojana (AAY) 2024 — 35 kg Free Ration Card, How to Apply"
-description: "AAY ration card gives 35 kg of grain per month to the poorest families at ₹2-3/kg. Apply at your state Food Department or via online PDS portal. Check eligibility and documents."
+title: "Antyodaya Anna Yojana — 35 kg Free Ration for Poorest"
+description: "AAY ration card gives 35 kg of grain per month to the poorest families at ₹2-3/kg. Apply at your state Food Department or via online PDS portal. Check..."
 category: "Government Schemes"
 keywords:
   - "antyodaya anna yojana"

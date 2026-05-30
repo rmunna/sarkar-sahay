@@ -1,6 +1,6 @@
 ---
-title: "Ladki Bahin Yojana Maharashtra 2024: ₹1,500/Month Financial Aid for Women"
-description: "Secure ₹1,500 monthly financial aid under the Ladki Bahin Yojana for eligible women residents of Maharashtra. Apply online and check status at the official Maharashtra government portal."
+title: "Ladki Bahin Yojana Maharashtra: ₹1,500/Month Financial..."
+description: "Secure ₹1,500 monthly financial aid under the Ladki Bahin Yojana for eligible women residents of Maharashtra. Apply online and check status at the official..."
 category: "Government Schemes"
 keywords:
   - "Ladki Bahin Yojana Maharashtra"

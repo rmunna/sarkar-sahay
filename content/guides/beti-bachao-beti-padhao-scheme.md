@@ -1,6 +1,6 @@
 ---
-title: "Beti Bachao Beti Padhao Scheme 2024 — Benefits, How to Apply, Sukanya Samriddhi"
-description: "Beti Bachao Beti Padhao scheme promotes girl child education and health. It works with Sukanya Samriddhi Yojana for savings. Check benefits, eligibility, and apply."
+title: "Beti Bachao Beti Padhao — Girl Child Welfare Scheme"
+description: "Beti Bachao Beti Padhao scheme promotes girl child education and health. It works with Sukanya Samriddhi Yojana for savings. Check benefits, eligibility..."
 category: "Government Schemes"
 keywords:
   - "beti bachao beti padhao scheme"

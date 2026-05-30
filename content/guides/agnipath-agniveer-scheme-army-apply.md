@@ -1,6 +1,6 @@
 ---
-title: "Agnipath Agniveer Scheme 2024 — Army, Navy, Air Force Recruitment, Apply Online"
-description: "Agnipath scheme recruits youth as Agniveers in Indian Army, Navy, and Air Force for 4 years. ₹30,000–₹40,000/month salary, ₹11.71 lakh severance package. Apply at joinindianarmy.nic.in."
+title: "Agnipath Agniveer Scheme — Army, Navy, Air Force Recruitment"
+description: "Agnipath scheme recruits youth as Agniveers in Indian Army, Navy, and Air Force for 4 years. ₹30,000–₹40,000/month salary, ₹11.71 lakh severance package..."
 category: "Government Schemes"
 keywords:
   - "agnipath scheme army apply"

@@ -1,5 +1,5 @@
 ---
-title: "PM MUDRA Yojana 2024 — Business Loan up to ₹10 Lakh, Apply Online"
+title: "PM MUDRA Yojana — Business Loan up to ₹10 Lakh, Apply Online"
 description: "Get collateral-free business loan up to ₹10 lakh under PM MUDRA Yojana. Shishu (₹50K), Kishore (₹5L), Tarun (₹10L). Apply at any bank or MUDRA portal."
 category: "Government Schemes"
 keywords:

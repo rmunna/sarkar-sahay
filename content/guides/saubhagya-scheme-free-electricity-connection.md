@@ -1,6 +1,6 @@
 ---
-title: "Saubhagya Scheme 2024 — Free Electricity Connection for BPL Households, Apply"
-description: "Saubhagya scheme provides free electricity connections to unelectrified BPL households. Apply via your state DISCOM or saubhagya.gov.in. No registration fee for BPL families."
+title: "Saubhagya Scheme — Free Electricity Connection BPL"
+description: "Saubhagya scheme provides free electricity connections to unelectrified BPL households. Apply via your state DISCOM or saubhagya.gov.in. No registration fee..."
 category: "Government Schemes"
 keywords:
   - "saubhagya scheme apply"

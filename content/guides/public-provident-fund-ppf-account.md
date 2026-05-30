@@ -1,5 +1,5 @@
 ---
-title: "PPF Account 2024 — How to Open Online, Interest Rate, Withdrawal Rules"
+title: "PPF Account — 7.1% Tax-Free, 15-Year Savings Scheme"
 description: "PPF gives 7.1% tax-free interest with full 80C deduction. Open online at SBI/HDFC/ICICI or any post office. 15-year lock-in with partial withdrawal from year 7."
 category: "Government Schemes"
 keywords:

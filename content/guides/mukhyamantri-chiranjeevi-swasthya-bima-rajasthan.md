@@ -1,6 +1,6 @@
 ---
-title: "Mukhyamantri Chiranjeevi Swasthya Bima Yojana 2024 — ₹25 Lakh Free Health Cover Rajasthan"
-description: "Rajasthan's Chiranjeevi Swasthya Bima Yojana gives ₹25 lakh free health insurance to all resident families. Cashless treatment at 2,000+ hospitals. Apply at chiranjeevi.rajasthan.gov.in."
+title: "Mukhyamantri Chiranjeevi Swasthya Bima Yojana — ₹25 Lakh"
+description: "Rajasthan's Chiranjeevi Swasthya Bima Yojana gives ₹25 lakh free health insurance to all resident families. Cashless treatment at 2,000+ hospitals. Apply at..."
 category: "Government Schemes"
 keywords:
   - "mukhyamantri chiranjeevi swasthya bima yojana"

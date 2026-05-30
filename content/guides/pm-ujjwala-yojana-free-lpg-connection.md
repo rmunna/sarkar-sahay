@@ -1,6 +1,6 @@
 ---
-title: "PM Ujjwala Yojana: Free LPG Connection for BPL Families 2024 Guide"
-description: "PM Ujjwala Yojana provides free LPG connections to BPL families. Apply, submit documents, and check application status on the official site: pmujjwalayojana.com."
+title: "PM Ujjwala Yojana: Free LPG Connection for BPL Families..."
+description: "PM Ujjwala Yojana provides free LPG connections to BPL families. Apply, submit documents, and check application status on the official site..."
 category: "Government Schemes"
 keywords:
   - "PM Ujjwala Yojana"

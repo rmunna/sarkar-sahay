@@ -1,6 +1,6 @@
 ---
-title: "MahaDBT Scholarship 2024-25 — Maharashtra Scholarship Apply Online, Status"
-description: "MahaDBT portal at mahadbt.maharashtra.gov.in has all Maharashtra government scholarships for SC/ST/OBC/EWS/Minority students. Apply online, check status, and payment."
+title: "MahaDBT Scholarship Maharashtra — Apply Online"
+description: "MahaDBT portal at mahadbt.maharashtra.gov.in has all Maharashtra government scholarships for SC/ST/OBC/EWS/Minority students. Apply online, check status..."
 category: "Government Schemes"
 keywords:
   - "mahadbt scholarship"

@@ -1,5 +1,5 @@
 ---
-title: "PM Jeevan Jyoti Bima Yojana 2024 — ₹2 Lakh Life Insurance at ₹436/Year, Apply"
+title: "PM Jeevan Jyoti Bima Yojana — ₹2L Life Cover ₹436/yr"
 description: "PMJJBY gives ₹2 lakh life insurance at just ₹436/year for bank account holders aged 18-50. Enroll via your bank or Jan Dhan account. No medical tests needed."
 category: "Government Schemes"
 keywords:

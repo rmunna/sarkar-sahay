@@ -1,6 +1,6 @@
 ---
-title: "Bihar RTPS Certificate Online 2024 — Birth, Caste, Income, Domicile at serviceonline.bihar.gov.in"
-description: "Apply for Bihar caste, income, residence, birth, and death certificates online via RTPS at serviceonline.bihar.gov.in. Check application status, documents, and processing time."
+title: "Bihar RTPS — Caste, Income & Domicile Certificate Online"
+description: "Apply for Bihar caste, income, residence, birth, and death certificates online via RTPS at serviceonline.bihar.gov.in. Check application status, documents..."
 category: "Government Schemes"
 keywords:
   - "bihar rtps certificate online"

@@ -1,6 +1,6 @@
 ---
-title: "Mukhyamantri Abhyudaya Yojana UP 2024 — Free UPSC/IAS Coaching, Apply Online"
-description: "UP Mukhyamantri Abhyudaya Yojana provides free coaching for UPSC, PCS, NEET, JEE, SSC, NDA to UP students. Apply at abhyuday.up.gov.in. Online + offline batches."
+title: "Mukhyamantri Abhyudaya Yojana UP — Free UPSC/IAS Coaching"
+description: "UP Mukhyamantri Abhyudaya Yojana provides free coaching for UPSC, PCS, NEET, JEE, SSC, NDA to UP students. Apply at abhyuday.up.gov.in. Online + offline..."
 category: "Government Schemes"
 keywords:
   - "mukhyamantri abhyudaya yojana"

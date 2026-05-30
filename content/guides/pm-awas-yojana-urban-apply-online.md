@@ -1,5 +1,5 @@
 ---
-title: "PMAY-U: Affordable Urban Housing & CLSS Interest Subsidy Scheme"
+title: "PMAY-U: Affordable Urban Housing & CLSS Interest Subsidy..."
 description: "Get up to ₹2.67 lakh interest subsidy for urban housing. Open to EWS, LIG, MIG families. Apply online at the official PMAY-U portal: pmaymis.gov.in."
 category: "Government Schemes"
 keywords:

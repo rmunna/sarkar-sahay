@@ -1,5 +1,5 @@
 ---
-title: "Yuva Sambal Yojana Rajasthan 2024 — ₹4,500 Unemployment Allowance, Apply Online"
+title: "Yuva Sambal Yojana Rajasthan — ₹4,500 Unemployment Allowance"
 description: "Rajasthan Mukhyamantri Yuva Sambal Yojana gives ₹4,000–₹4,500/month unemployment allowance to educated jobless youth. Apply at employment.rajasthan.gov.in."
 category: "Government Schemes"
 keywords:

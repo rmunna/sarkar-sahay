@@ -1,6 +1,6 @@
 ---
-title: "PM Vishwakarma Yojana 2024 — ₹15,000 Toolkit, Free Training & Loan for Artisans"
-description: "PM Vishwakarma scheme for traditional artisans — free skill training, ₹15,000 toolkit grant, and collateral-free loans up to ₹3 lakh at 5% interest. Apply at pmvishwakarma.gov.in."
+title: "PM Vishwakarma Yojana — ₹15,000 Toolkit + Loan"
+description: "PM Vishwakarma scheme for traditional artisans — free skill training, ₹15,000 toolkit grant, and collateral-free loans up to ₹3 lakh at 5% interest. Apply..."
 category: "Government Schemes"
 keywords:
   - "pm vishwakarma yojana"

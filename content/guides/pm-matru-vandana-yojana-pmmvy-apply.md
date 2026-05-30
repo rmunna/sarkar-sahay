@@ -1,5 +1,5 @@
 ---
-title: "PM Matru Vandana Yojana 2024 — ₹5,000 Maternity Benefit, Apply Online"
+title: "PM Matru Vandana Yojana — ₹5,000 Maternity Benefit"
 description: "PMMVY gives ₹5,000 in 3 installments to pregnant women for first live birth. Apply at pmmvy.wcd.gov.in or Anganwadi centre. No income limit for first child."
 category: "Government Schemes"
 keywords:

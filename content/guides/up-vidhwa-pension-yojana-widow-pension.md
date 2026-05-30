@@ -1,5 +1,5 @@
 ---
-title: "UP Vidhwa Pension Yojana 2024 — ₹500/Month for Widows, Apply Online"
+title: "UP Vidhwa Pension Yojana — ₹500/Month for Widows"
 description: "UP Vidhwa Pension gives ₹500/month to widows aged 18-60 with income below ₹2 lakh. Apply at sspy-up.gov.in. Check beneficiary status and payment online."
 category: "Government Schemes"
 keywords:

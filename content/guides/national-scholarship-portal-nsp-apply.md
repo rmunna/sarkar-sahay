@@ -1,6 +1,6 @@
 ---
-title: "National Scholarship Portal 2024: Access Central Pre & Post-Matric Scholarships"
-description: "Get financial aid via various central scholarships including pre-matric, post-matric, and merit-based for students nationwide. Track payments and apply at scholarships.gov.in."
+title: "National Scholarship Portal (NSP) — Apply for Scholarships"
+description: "Get financial aid via various central scholarships including pre-matric, post-matric, and merit-based for students nationwide. Track payments and apply at..."
 category: "Government Schemes"
 keywords:
   - "National Scholarship Portal"

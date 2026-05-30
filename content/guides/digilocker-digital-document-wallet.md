@@ -1,6 +1,6 @@
 ---
-title: "DigiLocker 2024 — How to Use, Download Aadhaar, Marksheet, Driving Licence"
-description: "DigiLocker is the government's free digital document wallet. Store and share Aadhaar, driving licence, vehicle RC, marksheets digitally. Accepted everywhere like originals."
+title: "DigiLocker — Free Digital Document Wallet for Indians"
+description: "DigiLocker is the government's free digital document wallet. Store and share Aadhaar, driving licence, vehicle RC, marksheets digitally. Accepted everywhere..."
 category: "Government Schemes"
 keywords:
   - "digilocker how to use"

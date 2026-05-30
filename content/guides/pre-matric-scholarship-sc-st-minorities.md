@@ -1,6 +1,6 @@
 ---
-title: "Pre-Matric Scholarship for SC/ST/Minorities 2024 — Apply at scholarships.gov.in"
-description: "Pre-Matric Scholarship gives ₹150-600/month to SC/ST/Minority students in Class 1-10. Apply at scholarships.gov.in. Income limit ₹2 lakh. Day scholar and hosteller amounts differ."
+title: "Pre-Matric Scholarship for SC/ST/Minorities"
+description: "Pre-Matric Scholarship gives ₹150-600/month to SC/ST/Minority students in Class 1-10. Apply at scholarships.gov.in. Income limit ₹2 lakh. Day scholar and..."
 category: "Government Schemes"
 keywords:
   - "pre matric scholarship sc st"

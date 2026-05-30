@@ -1,6 +1,6 @@
 ---
-title: "Swachh Bharat Mission Gramin (SBM-G) 2024 — ₹12,000 Toilet Subsidy, Apply"
-description: "SBM Gramin gives ₹12,000 to BPL rural households to build toilets. Apply via Gram Panchayat. Check beneficiary status at sbmreports.nic.in. No open defecation policy."
+title: "Swachh Bharat Mission Gramin (SBM-G) — ₹12,000"
+description: "SBM Gramin gives ₹12,000 to BPL rural households to build toilets. Apply via Gram Panchayat. Check beneficiary status at sbmreports.nic.in. No open..."
 category: "Government Schemes"
 keywords:
   - "swachh bharat mission gramin toilet"

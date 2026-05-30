@@ -1,6 +1,6 @@
 ---
-title: "CGTMSE 2024 — Credit Guarantee for MSME Loans up to ₹5 Crore, How to Apply"
-description: "CGTMSE provides credit guarantee to banks for MSME loans up to ₹5 crore without collateral. Apply via your bank — no separate CGTMSE application needed. New Udyam MSME eligible."
+title: "CGTMSE — Collateral-Free MSME Loan up to ₹5 Crore"
+description: "CGTMSE provides credit guarantee to banks for MSME loans up to ₹5 crore without collateral. Apply via your bank — no separate CGTMSE application needed. New..."
 category: "Government Schemes"
 keywords:
   - "cgtmse credit guarantee msme"

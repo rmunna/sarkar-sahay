@@ -1,5 +1,5 @@
 ---
-title: "PM Surya Ghar (Solar Rooftop Subsidy) 2024 — ₹78,000 Subsidy, Apply Online"
+title: "PM Surya Ghar (Solar Rooftop Subsidy) — ₹78,000 Subsidy"
 description: "PM Surya Ghar gives subsidy of ₹30,000–78,000 on rooftop solar panels for households. Apply at pmsuryaghar.gov.in. Get free electricity up to 300 units/month."
 category: "Government Schemes"
 keywords:

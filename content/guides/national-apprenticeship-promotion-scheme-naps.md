@@ -1,6 +1,6 @@
 ---
-title: "National Apprenticeship Promotion Scheme (NAPS) 2024 — Stipend + Training, Apply"
-description: "NAPS pays 25% of apprentice stipend (min ₹1,500/month) to employers. Students get 1-3 years on-the-job training with stipend. Register at apprenticeshipindia.gov.in."
+title: "National Apprenticeship Promotion Scheme (NAPS)"
+description: "NAPS pays 25% of apprentice stipend (min ₹1,500/month) to employers. Students get 1-3 years on-the-job training with stipend. Register at..."
 category: "Government Schemes"
 keywords:
   - "national apprenticeship promotion scheme naps"

@@ -1,6 +1,6 @@
 ---
-title: "Anna Bhagya Scheme Karnataka 2024 — Free 10 kg Rice per Person, Eligibility"
-description: "Karnataka Anna Bhagya scheme provides 10 kg free rice per person per month to BPL/AAY ration card holders. Check eligibility, how to get rice, and how to verify."
+title: "Anna Bhagya Karnataka — Free 10 kg Rice per Person"
+description: "Karnataka Anna Bhagya scheme provides 10 kg free rice per person per month to BPL/AAY ration card holders. Check eligibility, how to get rice, and how to..."
 category: "Government Schemes"
 keywords:
   - "anna bhagya scheme karnataka"

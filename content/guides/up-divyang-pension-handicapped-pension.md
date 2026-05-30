@@ -1,5 +1,5 @@
 ---
-title: "UP Divyang Pension Yojana 2024 — ₹500/Month for Disabled Persons, Apply Online"
+title: "UP Divyang Pension Yojana — ₹500/Month for Disabled Persons"
 description: "UP Divyang Pension gives ₹500/month to persons with 40%+ disability and income below ₹2 lakh. Apply at sspy-up.gov.in. Check status and beneficiary list online."
 category: "Government Schemes"
 keywords:

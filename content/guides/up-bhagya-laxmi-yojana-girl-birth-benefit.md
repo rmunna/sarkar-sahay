@@ -1,6 +1,6 @@
 ---
-title: "UP Bhagya Laxmi Yojana 2024 — ₹50,000 Bond + Benefits for Girl Child, Apply"
-description: "Bhagya Laxmi Yojana UP gives ₹50,000 bond at birth for BPL girl child, ₹2,000 on health checkup, and ₹25,000 education scholarships. Apply via Anganwadi or mahilakalyan.up.nic.in."
+title: "UP Bhagya Laxmi Yojana — ₹50,000 Bond for Girl Child"
+description: "Bhagya Laxmi Yojana UP gives ₹50,000 bond at birth for BPL girl child, ₹2,000 on health checkup, and ₹25,000 education scholarships. Apply via Anganwadi or..."
 category: "Government Schemes"
 keywords:
   - "up bhagya laxmi yojana"

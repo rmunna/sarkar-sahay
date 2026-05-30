@@ -1,5 +1,5 @@
 ---
-title: "Ayushman Bharat PM-JAY: India's ₹5 Lakh Health Cover Guide 2024"
+title: "Ayushman Bharat PM-JAY: India's ₹5 Lakh Health Cover Guide"
 description: "Get ₹5 lakh health cover annually under Ayushman Bharat PM-JAY. Check eligibility, apply for your card, and find empanelled hospitals at pmjay.gov.in."
 category: "Government Schemes"
 keywords:

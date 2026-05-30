@@ -1,6 +1,6 @@
 ---
-title: "Lakshmir Bhandar Scheme West Bengal 2024 — ₹1,000/Month, Apply, Status Check"
-description: "Lakshmir Bhandar gives ₹500-₹1,000/month to women household heads in West Bengal. Apply at Duare Sarkar camp or online. Check status at socialsecurity.wb.gov.in."
+title: "Lakshmir Bhandar Scheme West Bengal — ₹1,000"
+description: "Lakshmir Bhandar gives ₹500-₹1,000/month to women household heads in West Bengal. Apply at Duare Sarkar camp or online. Check status at..."
 category: "Government Schemes"
 keywords:
   - "lakshmir bhandar scheme"

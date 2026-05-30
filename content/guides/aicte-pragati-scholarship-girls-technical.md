@@ -1,6 +1,6 @@
 ---
-title: "AICTE Pragati Scholarship 2024 — ₹50,000/Year for Girls in Technical Courses"
-description: "AICTE Pragati Scholarship gives ₹50,000/year to girl students in AICTE-approved degree/diploma colleges. Apply at scholarships.gov.in. Income limit ₹8 lakh/year."
+title: "AICTE Pragati Scholarship — ₹50,000/Year"
+description: "AICTE Pragati Scholarship gives ₹50,000/year to girl students in AICTE-approved degree/diploma colleges. Apply at scholarships.gov.in. Income limit ₹8..."
 category: "Government Schemes"
 keywords:
   - "aicte pragati scholarship"

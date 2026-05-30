@@ -1,6 +1,6 @@
 ---
-title: "Atal Pension Yojana 2024 — ₹1,000–₹5,000 Monthly Pension, Apply Online"
-description: "Atal Pension Yojana gives guaranteed pension of ₹1,000 to ₹5,000/month after age 60. Open account at any bank or post office. Eligibility, contribution table & how to apply."
+title: "Atal Pension Yojana — ₹1,000–₹5,000 Monthly Pension"
+description: "Atal Pension Yojana gives guaranteed pension of ₹1,000 to ₹5,000/month after age 60. Open account at any bank or post office. Eligibility, contribution..."
 category: "Government Schemes"
 keywords:
   - "atal pension yojana"

@@ -1,6 +1,6 @@
 ---
-title: "GeM Portal 2024 — Register as Seller, Sell to Government, How to Apply"
-description: "GeM (Government e-Marketplace) lets businesses sell products and services to government departments. Register at gem.gov.in. MSMEs, startups, and artisans get preference."
+title: "GeM Portal — Government e-Marketplace Seller Guide"
+description: "GeM (Government e-Marketplace) lets businesses sell products and services to government departments. Register at gem.gov.in. MSMEs, startups, and artisans..."
 category: "Government Schemes"
 keywords:
   - "gem portal seller registration"

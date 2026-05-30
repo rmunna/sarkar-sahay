@@ -1,5 +1,5 @@
 ---
-title: "PM Suraksha Bima Yojana 2024 — ₹2 Lakh Accident Insurance at ₹20/Year, Apply"
+title: "PM Suraksha Bima Yojana — ₹2 Lakh Accident Cover"
 description: "PMSBY provides ₹2 lakh accident insurance at just ₹20/year for bank holders aged 18-70. Enroll at your bank or Jan Dhan account. No documents needed."
 category: "Government Schemes"
 keywords:

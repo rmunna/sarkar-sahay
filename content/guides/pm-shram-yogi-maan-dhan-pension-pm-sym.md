@@ -1,6 +1,6 @@
 ---
-title: "PM Shram Yogi Maan-dhan 2024 — ₹3,000/Month Pension for Unorganized Workers"
-description: "PM-SYM gives ₹3,000/month pension to unorganized workers (street vendors, domestic workers, construction workers) after age 60. Enroll at CSC with ₹55–200/month contribution."
+title: "PM Shram Yogi Maan-dhan — ₹3,000/Month Pension"
+description: "PM-SYM gives ₹3,000/month pension to unorganized workers (street vendors, domestic workers, construction workers) after age 60. Enroll at CSC with..."
 category: "Government Schemes"
 keywords:
   - "pm shram yogi maan dhan"

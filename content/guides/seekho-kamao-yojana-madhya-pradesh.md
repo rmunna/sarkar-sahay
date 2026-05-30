@@ -1,6 +1,6 @@
 ---
-title: "Seekho Kamao Yojana MP 2024 — ₹8,000–₹10,000 Stipend, Free Training, Apply Online"
-description: "Mukhyamantri Seekho Kamao Yojana MP gives ₹8,000–₹10,000/month stipend to youth while they get free skill training at private companies. Apply at mmsky.mp.gov.in."
+title: "Seekho Kamao Yojana MP — ₹8,000"
+description: "Mukhyamantri Seekho Kamao Yojana MP gives ₹8,000–₹10,000/month stipend to youth while they get free skill training at private companies. Apply at..."
 category: "Government Schemes"
 keywords:
   - "seekho kamao yojana madhya pradesh"

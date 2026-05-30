@@ -1,6 +1,6 @@
 ---
-title: "MGNREGS 2024 — 100 Days Work Guarantee, Job Card, Apply, Payment Status"
-description: "MGNREGA guarantees 100 days of paid work per year to rural households. Get job card, demand work, check payment at nrega.nic.in. Wage ₹230-357/day depending on state."
+title: "MGNREGS — 100 Days Work Guarantee, How to Apply"
+description: "MGNREGA guarantees 100 days of paid work per year to rural households. Get job card, demand work, check payment at nrega.nic.in. Wage ₹230-357/day depending..."
 category: "Government Schemes"
 keywords:
   - "mgnregs 100 days work"

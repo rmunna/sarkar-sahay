@@ -1,6 +1,6 @@
 ---
-title: "Kisan Credit Card 2024 — Up to ₹3 Lakh Loan at 4% Interest, Apply Online"
-description: "Kisan Credit Card (KCC) gives farmers loans up to ₹3 lakh at 4% interest for seeds, fertilizers, and crop needs. Apply at any bank with PM-KISAN or land records."
+title: "Kisan Credit Card — Up to ₹3 Lakh Loan at 4% Interest"
+description: "Kisan Credit Card (KCC) gives farmers loans up to ₹3 lakh at 4% interest for seeds, fertilizers, and crop needs. Apply at any bank with PM-KISAN or land..."
 category: "Government Schemes"
 keywords:
   - "kisan credit card apply online"

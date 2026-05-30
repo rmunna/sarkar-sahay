@@ -1,6 +1,6 @@
 ---
-title: "UP Scholarship Pre Matric 2024-25 — Apply Online, Eligibility, Status Check"
-description: "UP pre matric scholarship for SC/ST/OBC/minority students in Class 9-10. Apply at scholarship.up.gov.in. Check application status, documents needed, and payment dates."
+title: "UP Pre Matric Scholarship — scholarship.up.gov.in"
+description: "UP pre matric scholarship for SC/ST/OBC/minority students in Class 9-10. Apply at scholarship.up.gov.in. Check application status, documents needed, and..."
 category: "Government Schemes"
 keywords:
   - "up scholarship pre matric apply online"

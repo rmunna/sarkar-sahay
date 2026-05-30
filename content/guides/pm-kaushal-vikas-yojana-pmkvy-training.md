@@ -1,6 +1,6 @@
 ---
-title: "PM Kaushal Vikas Yojana 2024 — Free Skill Training + ₹8,000 Reward, Apply Online"
-description: "PMKVY 4.0 offers free skill training in 300+ trades with a ₹8,000 cash reward on completion and job placement. Apply at pmkvyofficial.org or your nearest skill centre."
+title: "PM Kaushal Vikas Yojana — Free Skill Training + ₹8,000"
+description: "PMKVY 4.0 offers free skill training in 300+ trades with a ₹8,000 cash reward on completion and job placement. Apply at pmkvyofficial.org or your nearest..."
 category: "Government Schemes"
 keywords:
   - "pm kaushal vikas yojana"

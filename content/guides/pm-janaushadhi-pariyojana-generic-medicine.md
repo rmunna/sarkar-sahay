@@ -1,5 +1,5 @@
 ---
-title: "PM Janaushadhi Pariyojana 2024 — Cheap Generic Medicines, Store Locator"
+title: "PM Janaushadhi Pariyojana — Cheap Generic Medicines"
 description: "PM Janaushadhi Pariyojana provides quality generic medicines at 50-90% less than branded prices. Find your nearest Jan Aushadhi store at janaushadhi.gov.in."
 category: "Government Schemes"
 keywords:

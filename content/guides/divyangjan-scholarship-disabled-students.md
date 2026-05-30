@@ -1,6 +1,6 @@
 ---
-title: "Divyangjan Scholarship 2024 — ₹500-20,000/Year for Disabled Students, Apply"
-description: "NHFDC Divyangjan Scholarships give ₹500-20,000/year to disabled students in Class 1 to PhD. Apply at scholarships.gov.in. Disability 40%+ required. No income limit for some."
+title: "Divyangjan Scholarship — ₹500–20,000/Year for Disabled"
+description: "NHFDC Divyangjan Scholarships give ₹500-20,000/year to disabled students in Class 1 to PhD. Apply at scholarships.gov.in. Disability 40%+ required. No..."
 category: "Government Schemes"
 keywords:
   - "divyangjan scholarship"

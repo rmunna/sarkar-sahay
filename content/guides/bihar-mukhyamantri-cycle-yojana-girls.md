@@ -1,6 +1,6 @@
 ---
-title: "Bihar Mukhyamantri Cycle Yojana 2024 — Free Bicycle for Class 9 Girls, Apply"
-description: "Bihar CM Cycle Yojana gives a free bicycle (or ₹3,000) to girls enrolling in Class 9 in government schools. Apply via your school. Check status at educationbihar.gov.in."
+title: "Bihar Mukhyamantri Cycle Yojana — Free Bike for Girls"
+description: "Bihar CM Cycle Yojana gives a free bicycle (or ₹3,000) to girls enrolling in Class 9 in government schools. Apply via your school. Check status at..."
 category: "Government Schemes"
 keywords:
   - "bihar mukhyamantri cycle yojana"

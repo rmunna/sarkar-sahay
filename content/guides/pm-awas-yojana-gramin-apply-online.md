@@ -1,6 +1,6 @@
 ---
-title: "PM Awas Yojana Gramin 2024: Rural Housing Aid for ₹1.2-1.3 Lakh Construction"
-description: "Get ₹1.2-1.3 Lakh financial aid for rural home construction via PMAY-G. Scheme for landless/kutcha house owners. Apply directly at https://pmayg.nic.in for housing support."
+title: "PM Awas Yojana Gramin: Rural Housing Aid for ₹1.2-1.3..."
+description: "Get ₹1.2-1.3 Lakh financial aid for rural home construction via PMAY-G. Scheme for landless/kutcha house owners. Apply directly at https://pmayg.nic.in for..."
 category: "Government Schemes"
 keywords:
   - "PM Awas Yojana Gramin apply online"

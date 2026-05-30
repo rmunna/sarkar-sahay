@@ -1,6 +1,6 @@
 ---
-title: "EPFO PF Withdrawal Online 2024 — Claim PF Balance, UAN Activation, Pension"
-description: "Withdraw EPF online via EPFO unified portal. Check PF balance, activate UAN, claim PF/pension. Full guide for Form 19, 10C, 31 with eligibility and processing time."
+title: "EPFO PF Withdrawal Online — Full PF Claim Guide"
+description: "Withdraw EPF online via EPFO unified portal. Check PF balance, activate UAN, claim PF/pension. Full guide for Form 19, 10C, 31 with eligibility and..."
 category: "Government Schemes"
 keywords:
   - "epfo pf withdrawal online"

@@ -1,6 +1,6 @@
 ---
-title: "Bihar Laghu Udyami Yojana 2024 — ₹2 Lakh Grant for Entrepreneurs, Apply Online"
-description: "Bihar Laghu Udyami Yojana gives ₹2 lakh grant (no repayment) to BPL families to start small businesses. Apply at udyami.bihar.gov.in. SC/ST/Women get priority. 94 business categories."
+title: "Bihar Laghu Udyami Yojana — ₹2 Lakh Grant for Entrepreneurs"
+description: "Bihar Laghu Udyami Yojana gives ₹2 lakh grant (no repayment) to BPL families to start small businesses. Apply at udyami.bihar.gov.in. SC/ST/Women get..."
 category: "Government Schemes"
 keywords:
   - "bihar laghu udyami yojana"

@@ -1,5 +1,5 @@
 ---
-title: "National Pension System (NPS) 2024 — How to Open Account Online, Tax Benefits"
+title: "National Pension System (NPS) — Open Account & Benefits"
 description: "NPS offers market-linked pension savings with 80CCD(1B) tax deduction up to ₹50,000 extra. Open account at enps.nsdl.com or via bank. Minimum ₹500 to start."
 category: "Government Schemes"
 keywords:

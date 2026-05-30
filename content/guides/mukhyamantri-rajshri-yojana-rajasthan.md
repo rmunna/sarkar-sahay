@@ -1,6 +1,6 @@
 ---
-title: "Mukhyamantri Rajshri Yojana Rajasthan 2024 — ₹50,000 for Girl Child, Apply Online"
-description: "Rajasthan Rajshri Yojana gives ₹50,000 in 6 installments from birth to Class 12 for girl children born after June 2016. Apply through government hospital or Anganwadi."
+title: "Mukhyamantri Rajshri Yojana Rajasthan — ₹50,000"
+description: "Rajasthan Rajshri Yojana gives ₹50,000 in 6 installments from birth to Class 12 for girl children born after June 2016. Apply through government hospital or..."
 category: "Government Schemes"
 keywords:
   - "mukhyamantri rajshri yojana"

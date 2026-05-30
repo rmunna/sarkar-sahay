@@ -1,6 +1,6 @@
 ---
-title: "DDU-GKY 2024 — Free Rural Skill Training with Job Placement Guarantee"
-description: "Deen Dayal Upadhyaya Grameen Kaushalya Yojana offers free skill training + placement for rural youth aged 15-35. Apply via state rural livelihood mission or ddugky.nic.in."
+title: "DDU-GKY — Free Rural Skill Training + Job Placement"
+description: "Deen Dayal Upadhyaya Grameen Kaushalya Yojana offers free skill training + placement for rural youth aged 15-35. Apply via state rural livelihood mission or..."
 category: "Government Schemes"
 keywords:
   - "ddu gky apply"

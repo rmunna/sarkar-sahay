@@ -1,6 +1,6 @@
 ---
-title: "UP Scholarship Post Matric 2024-25 — Apply Online, Status Check, Last Date"
-description: "UP post matric scholarship for SC/ST/OBC/minority students in Class 11 to PhD. Apply at scholarship.up.gov.in. Check payment status, renewal dates, and documents required."
+title: "UP Post Matric Scholarship — scholarship.up.gov.in"
+description: "UP post matric scholarship for SC/ST/OBC/minority students in Class 11 to PhD. Apply at scholarship.up.gov.in. Check payment status, renewal dates, and..."
 category: "Government Schemes"
 keywords:
   - "up scholarship post matric apply online"

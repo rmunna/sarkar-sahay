@@ -1,6 +1,6 @@
 ---
-title: "Pradhan Mantri Fasal Bima Yojana 2024 — Crop Insurance at 2% Premium, Apply Online"
-description: "PMFBY provides crop insurance at just 2% premium for Kharif and 1.5% for Rabi crops. Claim up to full sum insured if crop fails. Apply at pmfby.gov.in or your bank."
+title: "PM Fasal Bima Yojana — Crop Insurance at 2% Premium"
+description: "PMFBY provides crop insurance at just 2% premium for Kharif and 1.5% for Rabi crops. Claim up to full sum insured if crop fails. Apply at pmfby.gov.in or..."
 category: "Government Schemes"
 keywords:
   - "pradhan mantri fasal bima yojana"

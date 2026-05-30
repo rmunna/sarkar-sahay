@@ -1,5 +1,5 @@
 ---
-title: "Janani Suraksha Yojana 2024 — Cash for Institutional Delivery, How to Apply"
+title: "Janani Suraksha Yojana — ₹700–1,400 for Delivery"
 description: "Janani Suraksha Yojana gives ₹1,400 (rural) or ₹1,000 (urban) to BPL women for delivery at government hospital. Apply via ASHA worker or health centre."
 category: "Government Schemes"
 keywords:

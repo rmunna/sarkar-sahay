@@ -1,6 +1,6 @@
 ---
-title: "Bihar Kushal Yuva Programme (KYP) 2024 — Free Computer + Soft Skills Training"
-description: "Bihar KYP gives free 240-hour computer training and soft skills course to Class 10-12 youth. Apply at skillmissionbihar.org. Get certificate recognized across Bihar."
+title: "Bihar Kushal Yuva Programme — Free Computer Training"
+description: "Bihar KYP gives free 240-hour computer training and soft skills course to Class 10-12 youth. Apply at skillmissionbihar.org. Get certificate recognized..."
 category: "Government Schemes"
 keywords:
   - "bihar kushal yuva programme"

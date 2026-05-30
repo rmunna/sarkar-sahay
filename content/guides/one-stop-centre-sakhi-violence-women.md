@@ -1,6 +1,6 @@
 ---
-title: "One Stop Centre (Sakhi) 2024 — Free Help for Women Facing Violence, 181 Helpline"
-description: "One Stop Centres (Sakhi) provide free medical, legal, shelter, and police help to women facing domestic violence, rape, or trafficking. Call 181 or visit your district's OSC."
+title: "One Stop Centre (Sakhi) — Help for Women in Crisis"
+description: "One Stop Centres (Sakhi) provide free medical, legal, shelter, and police help to women facing domestic violence, rape, or trafficking. Call 181 or visit..."
 category: "Government Schemes"
 keywords:
   - "one stop centre sakhi women"

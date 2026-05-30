@@ -1,6 +1,6 @@
 ---
-title: "Udyam Registration 2024 — Free MSME Certificate Online, Benefits, How to Apply"
-description: "Register your business as MSME on Udyam portal for free. Get Udyam certificate, collateral-free loans, govt tender priority, GST exemptions. Apply at udyamregistration.gov.in."
+title: "Udyam Registration — MSME Online Certificate in Minutes"
+description: "Register your business as MSME on Udyam portal for free. Get Udyam certificate, collateral-free loans, govt tender priority, GST exemptions. Apply at..."
 category: "Government Schemes"
 keywords:
   - "udyam registration"

@@ -1,6 +1,6 @@
 ---
-title: "Bihar Student Credit Card 2024 — ₹4 Lakh Education Loan at 4%, Apply Online"
-description: "Bihar Student Credit Card gives ₹4 lakh loan at 4% interest (0% for girls/disabled) for higher education. Apply at 7nishchay-yuvaupmission.bihar.gov.in. No collateral needed."
+title: "Bihar Student Credit Card — ₹4 Lakh Education Loan at 4%"
+description: "Bihar Student Credit Card gives ₹4 lakh loan at 4% interest (0% for girls/disabled) for higher education. Apply at 7nishchay-yuvaupmission.bihar.gov.in. No..."
 category: "Government Schemes"
 keywords:
   - "bihar student credit card"

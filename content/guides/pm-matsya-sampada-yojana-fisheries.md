@@ -1,5 +1,5 @@
 ---
-title: "PM Matsya Sampada Yojana 2024 — Fish Farming Subsidy 40-60%, Apply Online"
+title: "PM Matsya Sampada Yojana — Fish Farming Subsidy 40-60%"
 description: "PMMSY gives 40-60% subsidy on fish farming, aquaculture ponds, boats, and equipment. Apply via your state fisheries department. SC/ST/women get 60% subsidy."
 category: "Government Schemes"
 keywords:

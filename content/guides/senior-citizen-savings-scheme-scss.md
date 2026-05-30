@@ -1,5 +1,5 @@
 ---
-title: "Senior Citizen Savings Scheme (SCSS) 2024 — 8.2% Interest, How to Open"
+title: "Senior Citizen Savings Scheme (SCSS) — 8.2% Returns"
 description: "SCSS offers 8.2% per annum quarterly interest for senior citizens 60+. Invest up to ₹30 lakh with 80C benefit. Open at any bank or post office."
 category: "Government Schemes"
 keywords:

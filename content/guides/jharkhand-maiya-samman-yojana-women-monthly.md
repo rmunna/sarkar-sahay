@@ -1,6 +1,6 @@
 ---
-title: "Jharkhand Maiya Samman Yojana 2024 — ₹2,500/Month for Women, Apply Online"
-description: "Jharkhand Mukhyamantri Maiya Samman Yojana gives ₹2,500/month to women aged 18-50. Check eligibility, apply at maiyasamman.jharkhand.gov.in, and track payment status."
+title: "Jharkhand Maiya Samman Yojana — ₹2,500/Month for Women"
+description: "Jharkhand Mukhyamantri Maiya Samman Yojana gives ₹2,500/month to women aged 18-50. Check eligibility, apply at maiyasamman.jharkhand.gov.in, and track..."
 category: "Government Schemes"
 keywords:
   - "jharkhand maiya samman yojana"

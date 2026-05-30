@@ -1,6 +1,6 @@
 ---
-title: "UMANG App 2024 — Access 2,000+ Government Services on Mobile, How to Use"
-description: "UMANG app gives access to 2,000+ government services — EPFO, DigiLocker, Aadhaar, income tax, scholarship, pension — on one mobile app. Free download for Android and iOS."
+title: "UMANG App — 2,000+ Government Services on Mobile"
+description: "UMANG app gives access to 2,000+ government services — EPFO, DigiLocker, Aadhaar, income tax, scholarship, pension — on one mobile app. Free download for..."
 category: "Government Schemes"
 keywords:
   - "umang app government services"

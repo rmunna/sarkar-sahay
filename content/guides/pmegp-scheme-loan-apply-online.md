@@ -1,5 +1,5 @@
 ---
-title: "PMEGP Scheme 2024 — 25–35% Subsidy on Business Loan up to ₹50 Lakh, Apply Online"
+title: "PMEGP Scheme — 35% Subsidy, Loan up to ₹25 Lakh"
 description: "PMEGP gives 25–35% subsidy on business loans up to ₹50 lakh for new micro-enterprises. Apply at kviconline.gov.in. No collateral for loans up to ₹10 lakh."
 category: "Government Schemes"
 keywords:

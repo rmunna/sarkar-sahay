@@ -1,6 +1,6 @@
 ---
-title: "UP Free Laptop Yojana 2024 — Who Gets Free Laptop in UP, Status Check"
-description: "UP Free Laptop Yojana gives free laptops/tablets to Class 10-12 and college students. Check eligibility, application status at upcmo.up.nic.in. Distribution via schools."
+title: "UP Free Laptop Yojana — Digi Shakti Tablet for Students"
+description: "UP Free Laptop Yojana gives free laptops/tablets to Class 10-12 and college students. Check eligibility, application status at upcmo.up.nic.in. Distribution..."
 category: "Government Schemes"
 keywords:
   - "up free laptop yojana"

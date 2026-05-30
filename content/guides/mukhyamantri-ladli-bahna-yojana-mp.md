@@ -1,6 +1,6 @@
 ---
-title: "Mukhyamantri Ladli Bahna Yojana MP 2024 — ₹1,250/Month Apply, Status Check"
-description: "Madhya Pradesh Ladli Bahna Yojana gives ₹1,250/month to married women aged 23-60. Check eligibility, apply at cmladlibahna.mp.gov.in, status check, and payment dates."
+title: "Mukhyamantri Ladli Bahna Yojana MP — ₹1,250"
+description: "Madhya Pradesh Ladli Bahna Yojana gives ₹1,250/month to married women aged 23-60. Check eligibility, apply at cmladlibahna.mp.gov.in, status check, and..."
 category: "Government Schemes"
 keywords:
   - "ladli bahna yojana mp"

@@ -1,6 +1,6 @@
 ---
-title: "PM FME Scheme 2024 — ₹10 Lakh Grant for Micro Food Processing Units, Apply"
-description: "PM FME gives credit-linked subsidy of 35% (up to ₹10 lakh) to micro food processing units. Apply via your state food processing department. ODOP focus products get priority."
+title: "PM FME Scheme — ₹10 Lakh Subsidy, Food Processing Units"
+description: "PM FME gives credit-linked subsidy of 35% (up to ₹10 lakh) to micro food processing units. Apply via your state food processing department. ODOP focus..."
 category: "Government Schemes"
 keywords:
   - "pm fme scheme food processing"

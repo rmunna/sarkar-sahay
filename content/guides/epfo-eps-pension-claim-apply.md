@@ -1,6 +1,6 @@
 ---
-title: "EPFO EPS Pension 2024 — How to Apply for Employee Pension Scheme, Claim Online"
-description: "EPS pension gives ₹1,000/month minimum to employees who contributed 10+ years. Apply online at unifiedportal-mem.epfindia.gov.in using UAN. Reduced pension at 50, full at 58."
+title: "EPFO EPS Pension — ₹1,000/Month Minimum, Form 10D"
+description: "EPS pension gives ₹1,000/month minimum to employees who contributed 10+ years. Apply online at unifiedportal-mem.epfindia.gov.in using UAN. Reduced pension..."
 category: "Government Schemes"
 keywords:
   - "epfo eps pension apply"

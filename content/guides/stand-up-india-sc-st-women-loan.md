@@ -1,6 +1,6 @@
 ---
-title: "Stand Up India Scheme 2024 — ₹10L to ₹1 Crore Loan for SC/ST/Women Entrepreneurs"
-description: "Stand Up India gives bank loans of ₹10 lakh to ₹1 crore to SC, ST, and women entrepreneurs for greenfield businesses. Apply at standupmitra.in or any bank branch."
+title: "Stand Up India — ₹10L to ₹1Cr Loans for SC/ST/Women"
+description: "Stand Up India gives bank loans of ₹10 lakh to ₹1 crore to SC, ST, and women entrepreneurs for greenfield businesses. Apply at standupmitra.in or any bank..."
 category: "Government Schemes"
 keywords:
   - "stand up india scheme apply"

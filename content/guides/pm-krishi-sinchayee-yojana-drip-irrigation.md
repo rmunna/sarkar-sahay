@@ -1,6 +1,6 @@
 ---
-title: "PM Krishi Sinchayee Yojana (PMKSY) 2024 — Drip/Sprinkler Subsidy 55-90%, Apply"
-description: "PMKSY gives 55-90% subsidy on drip irrigation and sprinkler systems for farmers. Apply via state agriculture department. Reduce water use by 40-50% and increase crop yield."
+title: "PMKSY — 90% Drip/Sprinkler Irrigation Subsidy"
+description: "PMKSY gives 55-90% subsidy on drip irrigation and sprinkler systems for farmers. Apply via state agriculture department. Reduce water use by 40-50% and..."
 category: "Government Schemes"
 keywords:
   - "pm krishi sinchayee yojana"

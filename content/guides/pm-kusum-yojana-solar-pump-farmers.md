@@ -1,6 +1,6 @@
 ---
-title: "PM KUSUM Yojana 2024 — Solar Pump for Farmers, 90% Subsidy, How to Apply"
-description: "PM KUSUM gives farmers up to 90% subsidy on solar pumps (3–10 HP). Apply via your state agriculture or energy department. Reduce diesel costs and earn from solar power."
+title: "PM KUSUM Yojana — 90% Solar Pump Subsidy for Farmers"
+description: "PM KUSUM gives farmers up to 90% subsidy on solar pumps (3–10 HP). Apply via your state agriculture or energy department. Reduce diesel costs and earn from..."
 category: "Government Schemes"
 keywords:
   - "pm kusum yojana apply"

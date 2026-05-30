@@ -1,6 +1,6 @@
 ---
-title: "Dr. Ambedkar Post Matric Scholarship for OBC 2024 — Apply at scholarships.gov.in"
-description: "Dr. Ambedkar Post Matric Scholarship for OBC gives maintenance allowance + tuition fee to OBC students in Class 11 and above. Apply at scholarships.gov.in. Income limit ₹1 lakh."
+title: "Dr. Ambedkar Post Matric Scholarship for OBC"
+description: "Dr. Ambedkar Post Matric Scholarship for OBC gives maintenance allowance + tuition fee to OBC students in Class 11 and above. Apply at scholarships.gov.in..."
 category: "Government Schemes"
 keywords:
   - "dr ambedkar post matric scholarship obc"

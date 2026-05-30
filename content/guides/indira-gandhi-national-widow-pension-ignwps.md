@@ -1,6 +1,6 @@
 ---
-title: "Indira Gandhi National Widow Pension Scheme 2024 — ₹300+/Month, Apply"
-description: "IGNWPS gives ₹300/month (central) to BPL widows aged 40-79. States add top-ups making total ₹500-1,500/month. Apply at Gram Panchayat or state portal. Aadhaar + BPL card needed."
+title: "Indira Gandhi National Widow Pension Scheme — ₹300+/Month"
+description: "IGNWPS gives ₹300/month (central) to BPL widows aged 40-79. States add top-ups making total ₹500-1,500/month. Apply at Gram Panchayat or state portal..."
 category: "Government Schemes"
 keywords:
   - "indira gandhi national widow pension"

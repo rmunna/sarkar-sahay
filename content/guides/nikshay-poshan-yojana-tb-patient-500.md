@@ -1,6 +1,6 @@
 ---
-title: "Nikshay Poshan Yojana 2024 — ₹500/Month for TB Patients, How to Register"
-description: "Nikshay Poshan Yojana gives ₹500/month nutritional support to all TB patients during treatment. Register at nikshay.in via DOTS centre or health facility. Auto DBT payment."
+title: "Nikshay Poshan Yojana — ₹500/Month for TB Patients"
+description: "Nikshay Poshan Yojana gives ₹500/month nutritional support to all TB patients during treatment. Register at nikshay.in via DOTS centre or health facility..."
 category: "Government Schemes"
 keywords:
   - "nikshay poshan yojana"

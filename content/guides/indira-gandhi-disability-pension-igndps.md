@@ -1,5 +1,5 @@
 ---
-title: "Indira Gandhi National Disability Pension (IGNDPS) 2024 — ₹300+/Month, Apply"
+title: "Indira Gandhi National Disability Pension (IGNDPS) — ₹300"
 description: "IGNDPS gives ₹300/month (central) to BPL disabled persons aged 18-79. States add top-ups making total ₹500-1,000/month. Apply at Gram Panchayat or state portal."
 category: "Government Schemes"
 keywords:

@@ -1,6 +1,6 @@
 ---
-title: "FAME India Scheme 2024 — EV Subsidy on Electric Vehicles, How to Apply"
-description: "FAME India Phase 2 and PM E-Drive give subsidies on electric 2-wheelers, 3-wheelers, and buses. Subsidy is directly reduced from vehicle price at dealership. No separate application needed."
+title: "FAME India / PM E-Drive — EV Purchase Subsidy India"
+description: "FAME India Phase 2 and PM E-Drive give subsidies on electric 2-wheelers, 3-wheelers, and buses. Subsidy is directly reduced from vehicle price at..."
 category: "Government Schemes"
 keywords:
   - "fame india scheme ev subsidy"

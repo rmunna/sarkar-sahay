@@ -1,5 +1,5 @@
 ---
-title: "Sukanya Samriddhi Yojana: High-Interest Savings for Girl Child 2024"
+title: "Sukanya Samriddhi Yojana: High-Interest Savings for Girl..."
 description: "Secure your girl's future with Sukanya Samriddhi Yojana. Earn 8.2% interest. Open account for girl child up to 10 years. Apply at India Post or banks."
 category: "Government Schemes"
 keywords:

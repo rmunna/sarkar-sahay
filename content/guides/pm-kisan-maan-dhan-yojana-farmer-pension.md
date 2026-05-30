@@ -1,5 +1,5 @@
 ---
-title: "PM Kisan Maan Dhan Yojana 2024 — ₹3,000/Month Pension for Small Farmers"
+title: "PM Kisan Maan Dhan Yojana — ₹3,000/Month Pension"
 description: "PM Kisan Maan Dhan gives ₹3,000/month pension to small/marginal farmers after 60. Contribute ₹55-200/month based on age. Enroll at CSC or maandhan.in."
 category: "Government Schemes"
 keywords:

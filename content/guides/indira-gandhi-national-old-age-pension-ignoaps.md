@@ -1,6 +1,6 @@
 ---
-title: "Indira Gandhi National Old Age Pension (IGNOAPS) 2024 — ₹200–500/Month, Apply"
-description: "IGNOAPS gives ₹200–500/month pension to BPL senior citizens aged 60+. Apply at Gram Panchayat or online via your state social welfare portal. No formal employment needed."
+title: "Indira Gandhi National Old Age Pension (IGNOAPS) — ₹200"
+description: "IGNOAPS gives ₹200–500/month pension to BPL senior citizens aged 60+. Apply at Gram Panchayat or online via your state social welfare portal. No formal..."
 category: "Government Schemes"
 keywords:
   - "indira gandhi national old age pension"

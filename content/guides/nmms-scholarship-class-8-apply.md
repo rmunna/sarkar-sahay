@@ -1,6 +1,6 @@
 ---
-title: "NMMS Scholarship 2024 — ₹12,000/Year for Class 8 Students, How to Apply"
-description: "NMMS Scholarship gives ₹12,000/year (₹1,000/month) to meritorious Class 8 students from low-income families. State exam in November. Apply via your state education department."
+title: "NMMS Scholarship — ₹12,000/Year for Class 8 Students"
+description: "NMMS Scholarship gives ₹12,000/year (₹1,000/month) to meritorious Class 8 students from low-income families. State exam in November. Apply via your state..."
 category: "Government Schemes"
 keywords:
   - "nmms scholarship apply"

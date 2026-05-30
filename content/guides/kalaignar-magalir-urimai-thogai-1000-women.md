@@ -1,5 +1,5 @@
 ---
-title: "Kalaignar Magalir Urimai Thogai 2024 — ₹1,000/Month for Tamil Nadu Women, Apply"
+title: "Kalaignar Magalir Urimai Thogai — ₹1,000"
 description: "Kalaignar Magalir Urimai Thogai gives ₹1,000/month to women household heads in Tamil Nadu. Check eligibility, how to apply, status at cms.tn.gov.in."
 category: "Government Schemes"
 keywords:

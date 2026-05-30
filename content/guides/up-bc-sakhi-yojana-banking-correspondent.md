@@ -1,6 +1,6 @@
 ---
-title: "UP BC Sakhi Yojana 2024 — ₹4,000/Month for Women as Banking Correspondents"
-description: "UP BC Sakhi Yojana appoints rural women as bank correspondents with ₹4,000/month stipend for 6 months. Apply via UP SRLM. Women bring banking services to villages and earn commissions."
+title: "UP BC Sakhi Yojana — ₹4,000/Month Banking Stipend"
+description: "UP BC Sakhi Yojana appoints rural women as bank correspondents with ₹4,000/month stipend for 6 months. Apply via UP SRLM. Women bring banking services to..."
 category: "Government Schemes"
 keywords:
   - "up bc sakhi yojana"

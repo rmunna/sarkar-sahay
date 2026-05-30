@@ -1,6 +1,6 @@
 ---
-title: "Lakhpati Didi Yojana 2024 — ₹1 Lakh Income for SHG Women, Apply Online"
-description: "Lakhpati Didi Yojana helps women SHG members earn ₹1 lakh+ per year through skill training, drones, and income-generating activities. Apply via your SHG or NRLM."
+title: "Lakhpati Didi Yojana — ₹1 Lakh Income for SHG Women"
+description: "Lakhpati Didi Yojana helps women SHG members earn ₹1 lakh+ per year through skill training, drones, and income-generating activities. Apply via your SHG or..."
 category: "Government Schemes"
 keywords:
   - "lakhpati didi yojana"

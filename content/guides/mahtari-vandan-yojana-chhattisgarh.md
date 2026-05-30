@@ -1,7 +1,11 @@
 ---
-title: "Mahtari Vandan Yojana — ₹1,000/Month for Women in Chhattisgarh"
+title: "Mahtari Vandan Yojana CG — ₹1,000/Month for Women"
 description: "Complete guide to Mahtari Vandan Yojana: eligibility, documents, how to apply, and how to check application and payment status at mahtarivandan.cgstate.gov.in."
+category: "Government Schemes"
+readingTime: "5 min"
 lastUpdated: "2026-05-30"
+officialLinks:
+  - "https://mahtarivandan.cgstate.gov.in"
 keywords:
   - mahtari vandan yojana
   - mahtari vandan yojana status check

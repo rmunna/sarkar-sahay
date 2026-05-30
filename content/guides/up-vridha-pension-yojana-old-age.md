@@ -1,6 +1,6 @@
 ---
-title: "UP Vridha Pension Yojana 2024 — ₹500/Month for Senior Citizens, Apply Online"
-description: "UP Vridha Pension gives ₹500/month to senior citizens aged 60+ with income below ₹2 lakh. Apply at sspy-up.gov.in. Check beneficiary list and payment status online."
+title: "UP Vridha Pension Yojana — ₹500/Month for Senior Citizens"
+description: "UP Vridha Pension gives ₹500/month to senior citizens aged 60+ with income below ₹2 lakh. Apply at sspy-up.gov.in. Check beneficiary list and payment status..."
 category: "Government Schemes"
 keywords:
   - "up vridha pension yojana"

@@ -1,5 +1,5 @@
 ---
-title: "PM Kisan Samman Nidhi: Annual ₹6,000 Support for Farmers Guide"
+title: "PM Kisan Samman Nidhi: Annual ₹6,000 Support for Farmers..."
 description: "Get annual support of ₹6,000 under PM Kisan Samman Nidhi. Eligible landholding farmers can check status & apply online via pmkisan.gov.in for direct income aid."
 category: "Government Schemes"
 keywords:

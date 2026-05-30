@@ -1,6 +1,6 @@
 ---
-title: "PM SVANidhi Scheme 2024 — ₹50,000 Loan for Street Vendors, Apply Online"
-description: "PM SVANidhi gives street vendors working capital loans starting ₹10,000 up to ₹50,000 at low interest. Apply at pmsvanidhi.mohua.gov.in. ₹100/month cash back on digital payments."
+title: "PM SVANidhi Scheme — ₹50,000 Loan for Street Vendors"
+description: "PM SVANidhi gives street vendors working capital loans starting ₹10,000 up to ₹50,000 at low interest. Apply at pmsvanidhi.mohua.gov.in. ₹100/month cash..."
 category: "Government Schemes"
 keywords:
   - "pm svanidhi scheme"

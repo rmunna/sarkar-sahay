@@ -1,6 +1,6 @@
 ---
-title: "PM Garib Kalyan Ann Yojana 2024 — 5 kg Free Ration, Eligibility, How to Get"
-description: "PM Garib Kalyan Ann Yojana gives 5 kg free foodgrains per person per month to 80 crore NFSA beneficiaries. Check eligibility, ration card, One Nation One Ration Card."
+title: "PM Garib Kalyan Ann Yojana — Free Ration for 80 Crore"
+description: "PM Garib Kalyan Ann Yojana gives 5 kg free foodgrains per person per month to 80 crore NFSA beneficiaries. Check eligibility, ration card, One Nation One..."
 category: "Government Schemes"
 keywords:
   - "pm garib kalyan ann yojana"

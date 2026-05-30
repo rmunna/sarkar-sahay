@@ -1,5 +1,5 @@
 ---
-title: "PM YASASVI Scholarship 2024 — ₹75,000-1,25,000 for OBC/EWS Students, Apply"
+title: "PM YASASVI Scholarship — ₹75,000–1.25L for OBC/EWS"
 description: "PM YASASVI gives ₹75,000/year (Class 9-10) and ₹1,25,000/year (Class 11-12) to OBC, EWS, NT, DNT students. Apply at yet.nta.ac.in. Entrance test required."
 category: "Government Schemes"
 keywords:

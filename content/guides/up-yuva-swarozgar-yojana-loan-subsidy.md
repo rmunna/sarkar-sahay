@@ -1,6 +1,6 @@
 ---
-title: "UP Mukhyamantri Yuva Swarozgar Yojana 2024 — ₹25 Lakh Loan + 25% Subsidy, Apply"
-description: "UP Yuva Swarozgar gives loans of ₹5-25 lakh with 25% margin money (subsidy) to UP youth for self-employment. Apply at diupmsme.upsdc.gov.in. Age 18-40, Class 10 pass."
+title: "UP Mukhyamantri Yuva Swarozgar Yojana — ₹25 Lakh"
+description: "UP Yuva Swarozgar gives loans of ₹5-25 lakh with 25% margin money (subsidy) to UP youth for self-employment. Apply at diupmsme.upsdc.gov.in. Age 18-40..."
 category: "Government Schemes"
 keywords:
   - "up yuva swarozgar yojana"

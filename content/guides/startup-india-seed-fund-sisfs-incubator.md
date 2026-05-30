@@ -1,6 +1,6 @@
 ---
-title: "Startup India Seed Fund (SISFS) 2024 — ₹20 Lakh Grant for Startups, Apply"
-description: "SISFS gives up to ₹20 lakh grant and ₹50 lakh loan to early-stage startups via incubators. Apply at seedfund.startupindia.gov.in. DPIIT-recognized startups eligible."
+title: "Startup India Seed Fund (SISFS) — ₹20 Lakh"
+description: "SISFS gives up to ₹20 lakh grant and ₹50 lakh loan to early-stage startups via incubators. Apply at seedfund.startupindia.gov.in. DPIIT-recognized startups..."
 category: "Government Schemes"
 keywords:
   - "startup india seed fund sisfs"
