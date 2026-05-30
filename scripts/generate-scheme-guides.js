@@ -6,14 +6,14 @@
  * guide pages for each scheme not already covered in content/guides/.
  *
  * Usage:
- *   GEMINI_API_KEY=your_key node scripts/generate-scheme-guides.js
- *   GEMINI_API_KEY=your_key node scripts/generate-scheme-guides.js --priority 1
- *   GEMINI_API_KEY=your_key node scripts/generate-scheme-guides.js --state Karnataka
- *   GEMINI_API_KEY=your_key node scripts/generate-scheme-guides.js --dry-run
- *   GEMINI_API_KEY=your_key node scripts/generate-scheme-guides.js --slug pm-kisan-samman-nidhi-status-check
+ *   ANTHROPIC_API_KEY=your_key node scripts/generate-scheme-guides.js
+ *   ANTHROPIC_API_KEY=your_key node scripts/generate-scheme-guides.js --priority 1
+ *   ANTHROPIC_API_KEY=your_key node scripts/generate-scheme-guides.js --state Karnataka
+ *   ANTHROPIC_API_KEY=your_key node scripts/generate-scheme-guides.js --dry-run
+ *   ANTHROPIC_API_KEY=your_key node scripts/generate-scheme-guides.js --slug pm-kisan-samman-nidhi-status-check
  */
 
-import { GoogleGenerativeAI } from '@google/generative-ai';
+import Anthropic from '@anthropic-ai/sdk';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -41,34 +41,28 @@ const SLUG_FILTER = slugArg !== -1 ? process.argv[slugArg + 1] : null;
 const batchArg = process.argv.indexOf('--batch');
 const BATCH_SIZE = batchArg !== -1 ? parseInt(process.argv[batchArg + 1]) : 5;
 
-// Delay between API calls in ms (2 calls per scheme, free tier = 15 RPM)
-// 15 RPM = 1 call per 4s minimum. We use 5s to be safe.
+// Small delay between schemes to be courteous to the API
 const delayArg = process.argv.indexOf('--delay');
-const CALL_DELAY_MS = delayArg !== -1 ? parseInt(process.argv[delayArg + 1]) : 5000;
+const CALL_DELAY_MS = delayArg !== -1 ? parseInt(process.argv[delayArg + 1]) : 1000;
 
-// Rate limiter — tracks calls in the last 60 seconds
-const callTimestamps = [];
-async function rateLimitedCall(fn) {
-  const now = Date.now();
-  // Remove timestamps older than 60s
-  while (callTimestamps.length && callTimestamps[0] < now - 60000) callTimestamps.shift();
-  // Free tier: 15 RPM. Stay under 12 to be safe.
-  if (callTimestamps.length >= 12) {
-    const waitMs = 60000 - (now - callTimestamps[0]) + 1000;
-    log(`  ⏳ Rate limit: waiting ${Math.ceil(waitMs / 1000)}s...`);
-    await new Promise(r => setTimeout(r, waitMs));
-  }
-  callTimestamps.push(Date.now());
-  return fn();
+async function callClaude(prompt) {
+  const msg = await anthropic.messages.create({
+    model: 'claude-haiku-4-5-20251001',
+    max_tokens: 4096,
+    messages: [{ role: 'user', content: prompt }],
+  });
+  return msg.content[0].text;
 }
 
-if (!process.env.GEMINI_API_KEY) {
-  console.error('❌ GEMINI_API_KEY not set');
+// Thin wrapper kept so the rest of the code stays the same
+async function rateLimitedCall(fn) { return fn(); }
+
+if (!process.env.ANTHROPIC_API_KEY) {
+  console.error('❌ ANTHROPIC_API_KEY not set');
   process.exit(1);
 }
 
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
+const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
 function log(...args) { console.log(`[${new Date().toISOString()}]`, ...args); }
 
@@ -97,8 +91,8 @@ ${context}
 JSON format:
 {"title":"60-80 chars, scheme name + key benefit + year","description":"130-160 chars, benefit amount + eligibility + apply at official site","category":"Government Schemes","keywords":["8-12 exact search queries people use including vernacular like 'gruha lakshmi yojana apply online', 'gruha lakshmi status check'"]}`;
 
-  const metaResult = await rateLimitedCall(() => model.generateContent(metaPrompt));
-  const meta = parseJson(metaResult.response.text().trim());
+  const metaText = await rateLimitedCall(() => callClaude(metaPrompt));
+  const meta = parseJson(metaText.trim());
 
   await new Promise(r => setTimeout(r, CALL_DELAY_MS));
 
@@ -124,8 +118,8 @@ Write the guide in Markdown. Start directly with the first ## section (no H1, no
 ## Frequently Asked Questions (6-8 Q&As)
 ## Official Links`;
 
-  const contentResult = await rateLimitedCall(() => model.generateContent(contentPrompt));
-  const contentMarkdown = contentResult.response.text().trim()
+  const contentText = await rateLimitedCall(() => callClaude(contentPrompt));
+  const contentMarkdown = contentText.trim()
     .replace(/^#\s.+\n/m, '') // remove any H1 if Gemini adds one
     .trim();
 
@@ -169,7 +163,7 @@ async function main() {
   const batch = pending.slice(0, BATCH_SIZE);
 
   log(`📋 ${targets.length} schemes targeted | ${pending.length} pending | ${skipped} already exist | processing ${batch.length} this run (batch=${BATCH_SIZE})`);
-  log(`⏱  Rate limit: ${CALL_DELAY_MS / 1000}s between calls, max 12 calls/min`);
+  log(`⏱  Using claude-haiku-4-5 | ${CALL_DELAY_MS / 1000}s delay between schemes`);
 
   if (batch.length === 0) {
     log('✅ All targeted schemes already have guides.');

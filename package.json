@@ -12,6 +12,7 @@
     "gen:updates:force": "node scripts/generate-updates-gemini.js --force-scan"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.100.1",
     "@tailwindcss/typography": "^0.5.19",
     "dotenv": "^17.3.1",
     "gray-matter": "^4.0.3",
