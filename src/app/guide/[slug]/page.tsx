@@ -1,4 +1,5 @@
 import { getGuideBySlug, getGuideRawContent, getRelatedGuides } from "@/lib/guides";
+import TelegramCTA from "@/components/TelegramCTA";
 import { getRelatedUpdatesForGuide } from "@/lib/cross-links";
 import { getAllHindiGuideSlugs } from "@/lib/guides-hi";
 import { generateFAQSchema, generateArticleSchema, generateHowToSchema, extractFAQs } from "@/lib/faq-schema";
@@ -286,6 +287,9 @@ export default async function GuidePage({ params }: Props) {
               </div>
             </div>
           )}
+
+          {/* Telegram CTA */}
+          <TelegramCTA />
 
           {/* Related Guides */}
           {relatedGuides.length > 0 && (

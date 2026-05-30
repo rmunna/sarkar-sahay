@@ -1,4 +1,5 @@
 import { getUpdateBySlug, getUpdateRawContent, getRelatedUpdates } from "@/lib/updates";
+import TelegramCTA from "@/components/TelegramCTA";
 import { getRelatedGuideForUpdate } from "@/lib/cross-links";
 import { generateFAQSchema, extractFAQs } from "@/lib/faq-schema";
 import { notFound } from "next/navigation";
@@ -425,6 +426,9 @@ export default async function UpdatePage({ params }: Props) {
             className="guide-content"
             dangerouslySetInnerHTML={{ __html: contentWithIds }}
           />
+
+          {/* Telegram CTA */}
+          <TelegramCTA />
 
           {/* Related Exam Guide */}
           {relatedGuide && (
