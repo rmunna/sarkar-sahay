@@ -1,25 +1,24 @@
 {
-  "scanTime": "2026-05-30T11:18:15.998Z",
-  "elapsedSeconds": 48.9,
-  "changesDetected": 2,
-  "errors": 39,
+  "scanTime": "2026-05-30T12:46:53.955Z",
+  "elapsedSeconds": 64.8,
+  "changesDetected": 1,
+  "errors": 38,
   "changes": [
-    {
-      "site": "SBI Careers",
-      "type": "CONTENT_CHANGE",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-05-30T11:17:41.722Z"
-    },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-05-30T11:17:39.901Z"
+      "detectedAt": "2026-05-30T12:46:05.479Z"
     }
   ],
   "errorDetails": [
     {
       "site": "UPSC",
+      "error": "Timeout"
+    },
+    {
+      "site": "SBI Careers",
+      "url": "https://bank.sbi/web/careers/current-openings",
       "error": "Timeout"
     },
     {
@@ -135,7 +134,7 @@
     {
       "site": "TSPSC",
       "url": "https://tspsc.gov.in/",
-      "error": "Timeout"
+      "error": "getaddrinfo ENOTFOUND tspsc.gov.in"
     },
     {
       "site": "WBPSC",
@@ -160,11 +159,6 @@
     {
       "site": "CGPSC",
       "url": "https://psc.cg.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "UKPSC",
-      "url": "https://ukpsc.net.in/",
       "error": "Timeout"
     },
     {
@@ -205,11 +199,6 @@
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "MP Board",
-      "url": "https://mpbse.nic.in/",
       "error": "Timeout"
     }
   ]
