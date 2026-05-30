@@ -82,8 +82,9 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-05-30T12:45:57.747Z",
+      "lastChecked": "2026-05-30T15:46:25.596Z",
       "noticeIds": [
+        "20260530182445",
         "20260529120905",
         "20260529120330",
         "20260527224323",
@@ -807,7 +808,7 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-05-30T14:26:51.650Z",
+      "lastChecked": "2026-05-30T15:46:38.324Z",
       "contentHash": "d6fc9758e0584f4ef8f60ee561f86ee1",
       "pdfHash": "f4afe66da877612ac4e077bfb2e9bc6e",
       "pdfs": [
@@ -817,8 +818,8 @@
       ]
     },
     "sbi:hash": {
-      "lastChecked": "2026-05-30T14:26:53.076Z",
-      "contentHash": "79f70a50dae1799dbd1635b9ca09a532",
+      "lastChecked": "2026-05-30T15:46:39.020Z",
+      "contentHash": "06f1cb69f26f062315506976337fc3ad",
       "pdfHash": "971d6175597be3d91590d30157b537c8",
       "pdfs": [
         "https://bank.sbi/documents/77530/0/03122024-SCO_09_SELECT_LIST_RM.pdf/6807986c-7598-35dd-9ab8-682a8c8a1683?t=1733204687360",
@@ -1242,7 +1243,7 @@
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-05-30T14:26:50.993Z",
+      "lastChecked": "2026-05-30T15:46:37.612Z",
       "contentHash": "d73d6b3ca9ca2cec845a9eb5d6b217b9",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
       "pdfs": [
@@ -1263,8 +1264,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-05-30T14:26:51.026Z",
-      "contentHash": "02fb6737b94266307fc82a73888b6128",
+      "lastChecked": "2026-05-30T15:46:37.363Z",
+      "contentHash": "030401e723e4e149519279598cc4c141",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "pdfs": [
         "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
@@ -2129,7 +2130,7 @@
       ]
     },
     "rrb:hash": {
-      "lastChecked": "2026-05-30T14:26:52.301Z",
+      "lastChecked": "2026-05-30T15:46:40.553Z",
       "contentHash": "9e006497b55ef0205446925e6ec3535f",
       "pdfHash": "56bac08265942f3c4441d53c40137928",
       "pdfs": [
@@ -2721,5 +2722,5 @@
       ]
     }
   },
-  "lastScan": "2026-05-30T14:27:39.211Z"
+  "lastScan": "2026-05-30T15:47:08.099Z"
 }
