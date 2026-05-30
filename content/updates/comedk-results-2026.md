@@ -40,12 +40,12 @@ The COMEDK UGET is conducted annually to facilitate admissions to over 150 engin
 
 Follow these simple steps to check and download your COMEDK UGET 2026 result and rank card:
 
-1.  **Visit the Official Website:** Go to the official COMEDK website: `https://www.comedk.org/`.
-2.  **Locate the Result Link:** On the homepage, look for the "COMEDK UGET 2026 Result" or "Applicant Login" link. This link is usually prominently displayed under the latest announcements section.
-3.  **Click on the Link:** Click on the designated result link. You will be redirected to the applicant login portal (often found at `https://cdn.comedk.org/` or a similar sub-domain).
-4.  **Enter Your Credentials:** You will need to enter your Application Sequence Number/User ID and Password. Ensure you enter these details accurately as provided during your registration.
+1.  **Visit the Official Website:** Go to [comedk.org](https://www.comedk.org/).
+2.  **Locate the Result Link:** On the homepage, look for the "COMEDK UGET 2026 Result" or "Applicant Login" link. This is usually prominently displayed under the latest announcements section.
+3.  **Click on the Link:** Click on the designated result link. You will be redirected to the applicant login portal at [cdn.comedk.org](https://cdn.comedk.org/).
+4.  **Enter Your Credentials:** Enter your Application Sequence Number/User ID and Password as provided during registration.
 5.  **View Your Result:** After logging in, your COMEDK UGET 2026 Score Card and Rank Card will be displayed on the screen.
-6.  **Download and Print:** Carefully review all the details on your scorecard. It is highly recommended to download the rank card and take multiple printouts for future reference and for the counselling process. Do not forget to save a digital copy as well.
+6.  **Download and Print:** Download the rank card and take multiple printouts for future reference and for the counselling process.
 
 It is crucial to keep your rank card safe, as it is a mandatory document for the counselling and seat allotment process.
 
@@ -75,7 +75,7 @@ The declaration of results is the first major step. The next critical stage for 
 5.  **Seat Allotment:** Actual seat allotment will be done in multiple rounds based on merit (rank), preferences filled, and availability of seats.
 6.  **Reporting to Allotted College:** Candidates who are allotted a seat and wish to accept it must download their allotment letter and report to the respective college within the stipulated time frame with all original documents and pay the admission fee.
 
-Detailed schedules for COMEDK UGET 2026 counselling, including registration dates, document verification timelines, and choice filling dates, will be released shortly on the official website. Candidates are strongly advised to regularly check `https://www.comedk.org/` for the latest updates.
+Detailed schedules for COMEDK UGET 2026 counselling, including registration dates, document verification timelines, and choice filling dates, will be released shortly on the official website. Candidates are strongly advised to regularly check [comedk.org](https://www.comedk.org/) for the latest updates.
 
 ### Important Note for Architecture Aspirants (COMEDK UGET 2026 & NATA)
 
@@ -87,7 +87,7 @@ For admissions to B.Arch courses through COMEDK, candidates must have qualified 
 A1: The COMEDK UGET 2026 results have been declared today, May 29, 2026.
 
 **Q2: How can I check my COMEDK UGET 2026 result?**
-A2: You can check your result by visiting the official COMEDK website (`https://www.comedk.org/`), logging into the applicant portal using your Application Sequence Number/User ID and Password.
+A2: Visit [comedk.org](https://www.comedk.org/) and log into the applicant portal using your Application Sequence Number/User ID and Password.
 
 **Q3: What details are required to check the COMEDK UGET 2026 result?**
 A3: You need your Application Sequence Number/User ID and Password to log in and check your result.
@@ -96,7 +96,7 @@ A3: You need your Application Sequence Number/User ID and Password to log in and
 A4: The COMEDK UGET Rank Card is an official document containing your personal details, subject-wise scores, total score, and most importantly, your COMEDK UGET 2026 rank. It is essential for the counselling and admission process.
 
 **Q5: What is the next step after the COMEDK UGET 2026 result?**
-A5: The next step is the online counselling process, which includes registration, document verification, choice filling, seat allotment, and reporting to the allotted college. Detailed schedules for this process will be announced soon on the official website. You should regularly check `https://www.comedk.org/` for updates.
+A5: The next step is the online counselling process, which includes registration, document verification, choice filling, seat allotment, and reporting to the allotted college. Detailed schedules will be announced soon — check [comedk.org](https://www.comedk.org/) for updates.
 
 **Q6: Can I get a re-evaluation of my COMEDK UGET 2026 scores?**
 A6: COMEDK generally provides an option for candidates to challenge the provisional answer key before the final results are declared. However, post-result re-evaluation or re-checking of scores is typically not permitted. The rank card is considered final. Always refer to the official COMEDK information brochure for specific policies regarding result challenges.

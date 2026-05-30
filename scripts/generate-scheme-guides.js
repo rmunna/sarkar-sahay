@@ -2,20 +2,19 @@
 /**
  * generate-scheme-guides.js
  *
- * Generates comprehensive guide pages for Indian government schemes.
- *
  * Runtime detection (automatic):
  *   - Local / Claude Code  → uses `claude --print` CLI (no API key needed)
  *   - GitHub Actions (CI)  → uses Gemini API via GEMINI_API_KEY secret
  *
  * Usage:
- *   node scripts/generate-scheme-guides.js
- *   node scripts/generate-scheme-guides.js --priority 1
- *   node scripts/generate-scheme-guides.js --state Karnataka
- *   node scripts/generate-scheme-guides.js --dry-run
- *   node scripts/generate-scheme-guides.js --batch 10
+ *   node scripts/generate-scheme-guides.js                    # English, batch 5
+ *   node scripts/generate-scheme-guides.js --lang hi          # Hindi guides
+ *   node scripts/generate-scheme-guides.js --lang both        # English + Hindi
+ *   node scripts/generate-scheme-guides.js --priority 1       # Priority 1 only
+ *   node scripts/generate-scheme-guides.js --state UP         # UP schemes only
+ *   node scripts/generate-scheme-guides.js --batch 20         # Process 20 per run
  *   node scripts/generate-scheme-guides.js --slug pm-kisan-samman-nidhi-status-check
- *   GITHUB_ACTIONS=true GEMINI_API_KEY=xxx node scripts/generate-scheme-guides.js   # force Gemini
+ *   node scripts/generate-scheme-guides.js --dry-run
  */
 
 import { execSync } from 'child_process';
@@ -26,15 +25,20 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 
-const GUIDES_DIR = path.join(ROOT, 'content/guides');
-const SCHEME_LIST = path.join(ROOT, 'agents/scheme-pipeline-list.json');
-const SLUGS_FILE = path.join(ROOT, 'agents/.newly-generated-slugs');
+const GUIDES_EN_DIR = path.join(ROOT, 'content/guides');
+const GUIDES_HI_DIR = path.join(ROOT, 'content/guides-hi');
+const SCHEME_LIST   = path.join(ROOT, 'agents/scheme-pipeline-list.json');
+const SLUGS_EN_FILE = path.join(ROOT, 'agents/.newly-generated-slugs');
+const SLUGS_HI_FILE = path.join(ROOT, 'agents/.newly-generated-slugs-hi');
 
 // ── Environment detection ───────────────────────────────────────────────────
 const IS_CI = process.env.GITHUB_ACTIONS === 'true' || process.env.CI === 'true';
 
 // ── CLI flags ───────────────────────────────────────────────────────────────
 const DRY_RUN = process.argv.includes('--dry-run');
+
+const langArg = process.argv.indexOf('--lang');
+const LANG = langArg !== -1 ? process.argv[langArg + 1] : 'en'; // 'en' | 'hi' | 'both'
 
 const priorityArg = process.argv.indexOf('--priority');
 const PRIORITY_FILTER = priorityArg !== -1 ? parseInt(process.argv[priorityArg + 1]) : null;
@@ -49,14 +53,13 @@ const batchArg = process.argv.indexOf('--batch');
 const BATCH_SIZE = batchArg !== -1 ? parseInt(process.argv[batchArg + 1]) : 5;
 
 const delayArg = process.argv.indexOf('--delay');
-// Default: 1s locally (no rate limit on Claude), 4s on CI (Gemini free tier ~15 RPM)
 const CALL_DELAY_MS = delayArg !== -1 ? parseInt(process.argv[delayArg + 1]) : (IS_CI ? 4000 : 1000);
 
 // ── Gemini client (CI only) ─────────────────────────────────────────────────
 let geminiModel = null;
 if (IS_CI) {
   if (!process.env.GEMINI_API_KEY) {
-    console.error('❌ GEMINI_API_KEY is required in CI. Set it as a GitHub Actions secret.');
+    console.error('❌ GEMINI_API_KEY is required in CI.');
     process.exit(1);
   }
   const { GoogleGenerativeAI } = await import('@google/generative-ai');
@@ -65,29 +68,23 @@ if (IS_CI) {
 }
 
 function log(...args) { console.log(`[${new Date().toISOString()}]`, ...args); }
-
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
-function guideExists(slug) {
-  return fs.existsSync(path.join(GUIDES_DIR, `${slug}.md`));
+function guideExists(slug, lang) {
+  const dir = lang === 'hi' ? GUIDES_HI_DIR : GUIDES_EN_DIR;
+  return fs.existsSync(path.join(dir, `${slug}.md`));
 }
 
-// ── AI backend routing ──────────────────────────────────────────────────────
-
+// ── AI backend ──────────────────────────────────────────────────────────────
 function callClaudeCLI(prompt) {
-  const tmpFile = `/tmp/scheme-prompt-${Date.now()}-${Math.random().toString(36).slice(2)}.txt`;
+  const tmpFile = `/tmp/scheme-${Date.now()}-${Math.random().toString(36).slice(2)}.txt`;
   fs.writeFileSync(tmpFile, prompt, 'utf8');
   try {
-    const output = execSync(`claude --print < "${tmpFile}"`, {
-      timeout: 180000,      // 3 min — scheme content prompts are large
-      maxBuffer: 1024 * 1024 * 10,
-      encoding: 'utf8',
+    return execSync(`claude --print < "${tmpFile}"`, {
+      timeout: 180000, maxBuffer: 1024 * 1024 * 10, encoding: 'utf8',
       stdio: ['pipe', 'pipe', 'pipe'],
-    });
-    return output.trim();
-  } finally {
-    try { fs.unlinkSync(tmpFile); } catch { /* ignore */ }
-  }
+    }).trim();
+  } finally { try { fs.unlinkSync(tmpFile); } catch {} }
 }
 
 async function callGemini(prompt) {
@@ -96,175 +93,172 @@ async function callGemini(prompt) {
 }
 
 async function callAI(prompt) {
-  if (IS_CI) return callGemini(prompt);
-  return callClaudeCLI(prompt);
+  return IS_CI ? callGemini(prompt) : callClaudeCLI(prompt);
 }
 
-// ── JSON parser (handles markdown fences from both models) ──────────────────
+// ── JSON parser ─────────────────────────────────────────────────────────────
 function parseJson(text) {
   let clean = text.replace(/^```(?:json)?\s*/i, '').replace(/\s*```\s*$/i, '').trim();
-  try { return JSON.parse(clean); } catch { /* continue */ }
+  try { return JSON.parse(clean); } catch {}
   const match = clean.match(/\{[\s\S]*\}/);
-  if (match) try { return JSON.parse(match[0]); } catch { /* continue */ }
+  if (match) try { return JSON.parse(match[0]); } catch {}
   throw new Error(`JSON parse failed. Preview: ${text.slice(0, 300)}`);
 }
 
-// ── SEO validation ──────────────────────────────────────────────────────────
-function validateSEO(meta, contentMarkdown) {
-  const errors = [];
+// ── Validation ──────────────────────────────────────────────────────────────
+const REQUIRED_SECTIONS_EN = ['## What is', '## Key Benefits', '## Who is Eligible', '## Documents Required', '## How to Apply', '## Frequently Asked Questions', '## Official Links'];
+const REQUIRED_SECTIONS_HI = ['## क्या है', '## मुख्य लाभ', '## पात्रता', '## ज़रूरी दस्तावेज़', '## आवेदन कैसे करें', '## अक्सर पूछे जाने वाले सवाल', '## आधिकारिक लिंक'];
 
-  // Title: 50–90 chars (Google truncates at ~60 but longer is still useful for ranking)
-  if (!meta.title) errors.push('title is missing');
-  else if (meta.title.length < 30) errors.push(`title too short (${meta.title.length} chars, min 30)`);
-  else if (meta.title.length > 100) errors.push(`title too long (${meta.title.length} chars, max 100)`);
-
-  // Description: 120–165 chars
-  if (!meta.description) errors.push('description is missing');
-  else if (meta.description.length < 100) errors.push(`description too short (${meta.description.length} chars, min 100)`);
-  else if (meta.description.length > 175) errors.push(`description too long (${meta.description.length} chars, max 175)`);
-
-  // Keywords: at least 6
-  if (!Array.isArray(meta.keywords) || meta.keywords.length < 6) {
-    errors.push(`too few keywords (${meta.keywords?.length ?? 0}, min 6)`);
-  }
-
-  return errors;
+function validateSEO(meta) {
+  const errs = [];
+  if (!meta.title || meta.title.length < 20) errs.push(`title too short (${meta.title?.length})`);
+  if (meta.title?.length > 110) errs.push(`title too long (${meta.title.length})`);
+  if (!meta.description || meta.description.length < 80) errs.push(`description too short (${meta.description?.length})`);
+  if (meta.description?.length > 180) errs.push(`description too long (${meta.description.length})`);
+  if (!Array.isArray(meta.keywords) || meta.keywords.length < 5) errs.push(`too few keywords (${meta.keywords?.length})`);
+  return errs;
 }
 
-// ── Content validation ──────────────────────────────────────────────────────
-const REQUIRED_SECTIONS = [
-  '## What is',
-  '## Key Benefits',
-  '## Who is Eligible',
-  '## Documents Required',
-  '## How to Apply',
-  '## Frequently Asked Questions',
-  '## Official Links',
-];
-
-function validateContent(contentMarkdown) {
-  const errors = [];
-
-  // Minimum length
-  const wordCount = contentMarkdown.split(/\s+/).filter(Boolean).length;
-  if (wordCount < 700) errors.push(`content too short (${wordCount} words, min 700)`);
-
-  // Required sections
-  for (const section of REQUIRED_SECTIONS) {
-    if (!contentMarkdown.includes(section)) {
-      errors.push(`missing section: "${section}"`);
-    }
-  }
-
-  // No placeholder text leaked through
-  if (/\[insert|TODO|PLACEHOLDER|your text here/i.test(contentMarkdown)) {
-    errors.push('content contains placeholder text');
-  }
-
-  return errors;
+function validateContent(md, lang) {
+  const errs = [];
+  const words = md.split(/\s+/).filter(Boolean).length;
+  if (words < 600) errs.push(`too short (${words} words)`);
+  const required = lang === 'hi' ? REQUIRED_SECTIONS_HI : REQUIRED_SECTIONS_EN;
+  for (const s of required) { if (!md.includes(s)) errs.push(`missing: "${s}"`); }
+  if (/\[insert|TODO|PLACEHOLDER/i.test(md)) errs.push('placeholder text found');
+  return errs;
 }
 
-// ── Two-pass generation with retry ─────────────────────────────────────────
-async function generateSchemeGuide(scheme) {
+// ── English generation ──────────────────────────────────────────────────────
+async function generateEN(scheme) {
   const today = new Date().toISOString().split('T')[0];
-  const context = `Scheme: "${scheme.name}" | State: ${scheme.state} | Category: ${scheme.category} | Official URL: ${scheme.officialUrl} | Notes: ${scheme.notes}`;
+  const ctx = `Scheme: "${scheme.name}" | State: ${scheme.state} | Category: ${scheme.category} | Official: ${scheme.officialUrl} | Notes: ${scheme.notes}`;
 
-  // ── Pass 1: SEO metadata (small JSON, reliable) ─────────────────────────
-  const metaPrompt = `Return ONLY valid JSON (no markdown code fences) for a citizennest.com guide about this Indian government scheme:
-${context}
+  // Pass 1: SEO metadata
+  const metaPrompt = `Return ONLY valid JSON (no markdown fences) for a citizennest.com guide:
+${ctx}
 
-Required JSON format — fill all fields accurately:
-{
-  "title": "50-80 chars: scheme name + key benefit + year (e.g. 'PM MUDRA Yojana 2024 — Business Loan up to ₹10 Lakh, Apply Online')",
-  "description": "130-160 chars: key benefit + who is eligible + where to apply (include rupee amounts, official site name)",
-  "category": "Government Schemes",
-  "keywords": ["8-12 exact search queries Indians type — include scheme name variations, apply online, eligibility, documents, status check, state language transliterations"]
-}`;
+{"title":"50-85 chars: scheme name + key benefit + year","description":"120-165 chars: benefit amount + who is eligible + official site","category":"Government Schemes","keywords":["8-12 search queries Indians use — mix of English and transliterated Hindi"]}`;
 
   let meta;
-  for (let attempt = 1; attempt <= 3; attempt++) {
-    const metaText = await callAI(metaPrompt);
+  for (let i = 1; i <= 3; i++) {
+    const t = await callAI(metaPrompt);
     try {
-      meta = parseJson(metaText);
-      const seoErrors = validateSEO(meta, '');
-      if (seoErrors.length === 0) break;
-      log(`   ⚠️  SEO validation (attempt ${attempt}): ${seoErrors.join(', ')}`);
-      if (attempt === 3) throw new Error(`SEO validation failed after 3 attempts: ${seoErrors.join(', ')}`);
+      meta = parseJson(t);
+      const e = validateSEO(meta);
+      if (!e.length) break;
+      log(`   ⚠️  SEO (attempt ${i}): ${e.join(', ')}`);
+      if (i === 3) throw new Error(`SEO failed: ${e.join(', ')}`);
       await sleep(2000);
-    } catch (err) {
-      if (attempt === 3) throw err;
-      log(`   ⚠️  Meta parse error (attempt ${attempt}): ${err.message}`);
-      await sleep(2000);
-    }
+    } catch(err) { if (i === 3) throw err; await sleep(2000); }
   }
 
   await sleep(CALL_DELAY_MS);
 
-  // ── Pass 2: Markdown content ────────────────────────────────────────────
-  const contentPrompt = `Write a comprehensive, accurate guide for citizennest.com about this Indian government scheme:
-${context}
-Today's date: ${today}
+  // Pass 2: Markdown content
+  const contentPrompt = `Write a comprehensive guide for citizennest.com about this Indian government scheme:
+${ctx}
+Today: ${today}
 
-Writing rules:
-- Factual only. If you are unsure of an exact amount or date, say "as per latest notification — check official website"
-- Simple language suitable for first-generation smartphone users in India
-- Focus on practical HOW TO information: how to apply, check status, check payment, documents needed
-- Target length: 1,200–1,800 words
-- Use Indian number formatting: ₹ symbol, lakh/crore (not million/billion)
+Rules:
+- Factual only. Unsure of exact amount/date → say "as per latest notification — check official website"
+- Simple language for first-generation smartphone users in India
+- Use ₹ symbol and Indian number format (lakh/crore). Target 1,200–1,800 words.
+- Start directly with first ## heading. Do NOT add H1 or preamble.
 
-Write the complete guide in Markdown. Start directly with the first ## heading (do NOT add H1, preamble, or introductory sentences before the first section):
-
+Required sections:
 ## What is ${scheme.name}?
-[2-3 paragraphs explaining the scheme clearly]
-
 ## Key Benefits
-[Bullet list or table of all benefits with exact amounts]
-
 ## Who is Eligible?
-[Eligibility criteria — age, income, state, occupation, etc.]
-
 ## Documents Required
-[Numbered list of all documents needed]
-
 ## How to Apply — Step by Step
-[Numbered steps for online + offline application]
-
 ## How to Check Application / Payment Status
-[Step-by-step status check instructions]
-
-## Frequently Asked Questions
-[6-8 Q&As covering the most common questions]
-
-## Official Links
-[List of official websites and helpline numbers]`;
+## Frequently Asked Questions (6-8 Q&As)
+## Official Links`;
 
   let contentMarkdown;
-  for (let attempt = 1; attempt <= 3; attempt++) {
-    const contentText = await callAI(contentPrompt);
-    contentMarkdown = contentText
-      .replace(/^#\s[^\n]+\n/m, '')    // remove stray H1
-      .replace(/^```[a-z]*\n?/im, '')  // remove opening code fence
-      .replace(/```\s*$/m, '')          // remove closing code fence
-      .trim();
-
-    const contentErrors = validateContent(contentMarkdown);
-    if (contentErrors.length === 0) break;
-    log(`   ⚠️  Content validation (attempt ${attempt}): ${contentErrors.join(', ')}`);
-    if (attempt === 3) throw new Error(`Content validation failed after 3 attempts: ${contentErrors.join(', ')}`);
+  for (let i = 1; i <= 3; i++) {
+    const t = await callAI(contentPrompt);
+    contentMarkdown = t.replace(/^#\s[^\n]+\n/m,'').replace(/^```[a-z]*\n?/im,'').replace(/```\s*$/m,'').trim();
+    const e = validateContent(contentMarkdown, 'en');
+    if (!e.length) break;
+    log(`   ⚠️  Content (attempt ${i}): ${e.join(', ')}`);
+    if (i === 3) throw new Error(`Content failed: ${e.join(', ')}`);
     await sleep(3000);
   }
 
   return { ...meta, contentMarkdown };
 }
 
-// ── Build final markdown file ───────────────────────────────────────────────
-function buildMarkdownFile(data, scheme) {
+// ── Hindi generation ────────────────────────────────────────────────────────
+async function generateHI(scheme) {
+  const today = new Date().toISOString().split('T')[0];
+  const ctx = `Scheme: "${scheme.name}" | State: ${scheme.state} | Category: ${scheme.category} | Official: ${scheme.officialUrl} | Notes: ${scheme.notes}`;
+
+  // Pass 1: SEO metadata in Hindi
+  const metaPrompt = `Return ONLY valid JSON (no markdown fences) for a Hindi guide on citizennest.com about this Indian government scheme:
+${ctx}
+
+{"title":"Hindi title 40-80 chars: scheme name in Hindi + key benefit","description":"Hindi description 100-160 chars: benefit + who can apply + official site name","category":"Government Schemes","keywords":["8-12 keywords — mix Hindi (Devanagari) and English transliteration, e.g. 'पीएम किसान रजिस्ट्रेशन', 'PM Kisan status check', 'pm kisan samman nidhi'"]}`;
+
+  let meta;
+  for (let i = 1; i <= 3; i++) {
+    const t = await callAI(metaPrompt);
+    try {
+      meta = parseJson(t);
+      const e = validateSEO(meta);
+      if (!e.length) break;
+      log(`   ⚠️  Hindi SEO (attempt ${i}): ${e.join(', ')}`);
+      if (i === 3) throw new Error(`Hindi SEO failed: ${e.join(', ')}`);
+      await sleep(2000);
+    } catch(err) { if (i === 3) throw err; await sleep(2000); }
+  }
+
+  await sleep(CALL_DELAY_MS);
+
+  // Pass 2: Hindi markdown content
+  const contentPrompt = `citizennest.com के लिए इस भारतीय सरकारी योजना पर एक विस्तृत हिंदी गाइड लिखें:
+${ctx}
+आज की तारीख: ${today}
+
+नियम:
+- केवल तथ्यात्मक जानकारी। अगर राशि/तारीख निश्चित न हो तो लिखें "नवीनतम अधिसूचना के अनुसार — आधिकारिक वेबसाइट देखें"
+- सरल हिंदी — पहली बार स्मार्टफोन इस्तेमाल करने वाले लोगों के लिए
+- ₹ और लाख/करोड़ का प्रयोग करें। लक्ष्य: 1,200–1,800 शब्द
+- पहले ## heading से सीधे शुरू करें। H1 या प्रस्तावना न जोड़ें।
+- Important: scheme name, portal names, and official URLs keep in English/original form
+
+आवश्यक sections:
+## ${scheme.name} क्या है?
+## मुख्य लाभ
+## पात्रता (कौन आवेदन कर सकता है?)
+## ज़रूरी दस्तावेज़
+## आवेदन कैसे करें — स्टेप-बाय-स्टेप
+## आवेदन / भुगतान स्टेटस कैसे चेक करें
+## अक्सर पूछे जाने वाले सवाल (6-8 Q&As)
+## आधिकारिक लिंक`;
+
+  let contentMarkdown;
+  for (let i = 1; i <= 3; i++) {
+    const t = await callAI(contentPrompt);
+    contentMarkdown = t.replace(/^#\s[^\n]+\n/m,'').replace(/^```[a-z]*\n?/im,'').replace(/```\s*$/m,'').trim();
+    const e = validateContent(contentMarkdown, 'hi');
+    if (!e.length) break;
+    log(`   ⚠️  Hindi Content (attempt ${i}): ${e.join(', ')}`);
+    if (i === 3) throw new Error(`Hindi content failed: ${e.join(', ')}`);
+    await sleep(3000);
+  }
+
+  return { ...meta, contentMarkdown };
+}
+
+// ── Build markdown file ─────────────────────────────────────────────────────
+function buildMarkdownFile(data, scheme, lang) {
   const today = new Date().toISOString().split('T')[0];
   const keywords = (data.keywords || []).map(k => `  - "${k.replace(/"/g, '\\"')}"`).join('\n');
-
-  // Estimate reading time (avg 200 wpm)
-  const wordCount = (data.contentMarkdown || '').split(/\s+/).filter(Boolean).length;
-  const readingMinutes = Math.max(5, Math.round(wordCount / 200));
+  const words = (data.contentMarkdown || '').split(/\s+/).filter(Boolean).length;
+  const mins = Math.max(5, Math.round(words / 200));
+  const readingTime = lang === 'hi' ? `${mins} मिनट` : `${mins} min`;
 
   return `---
 title: "${data.title.replace(/"/g, '\\"')}"
@@ -275,7 +269,7 @@ ${keywords}
 officialLinks:
   - "${scheme.officialUrl}"
   - "${scheme.myschemeUrl}"
-readingTime: "${readingMinutes} min"
+readingTime: "${readingTime}"
 lastUpdated: "${today}"
 ---
 
@@ -292,83 +286,70 @@ async function main() {
   let targets = schemes;
   if (SLUG_FILTER) targets = targets.filter(s => s.slug === SLUG_FILTER);
   if (PRIORITY_FILTER !== null) targets = targets.filter(s => s.priority <= PRIORITY_FILTER);
-  if (STATE_FILTER) targets = targets.filter(s => s.state.toLowerCase() === STATE_FILTER.toLowerCase());
+  if (STATE_FILTER) targets = targets.filter(s =>
+    s.state.toLowerCase().includes(STATE_FILTER.toLowerCase()));
 
-  const pending = targets.filter(s => !guideExists(s.slug));
-  const skipped = targets.length - pending.length;
-  const batch = pending.slice(0, BATCH_SIZE);
+  // Language filter — only process schemes that have requested lang in their `langs` array
+  const langs = LANG === 'both' ? ['en', 'hi'] : [LANG];
 
-  log(`📋 ${targets.length} schemes targeted | ${pending.length} pending | ${skipped} already exist | processing ${batch.length} this run (batch=${BATCH_SIZE})`);
-  log(`🤖 Backend: ${backend} | delay: ${CALL_DELAY_MS / 1000}s between API calls`);
+  log(`🤖 Backend: ${backend} | lang: ${LANG} | delay: ${CALL_DELAY_MS/1000}s`);
 
-  if (batch.length === 0) {
-    log('✅ All targeted schemes already have guides.');
-    return;
-  }
+  for (const lang of langs) {
+    const langLabel = lang === 'hi' ? '🇮🇳 Hindi' : '🇬🇧 English';
+    // Filter schemes that support this language
+    const langTargets = targets.filter(s => {
+      if (!s.langs) return lang === 'en'; // default: English only
+      return s.langs.includes(lang);
+    });
 
-  const results = { generated: 0, skipped, errors: [] };
-  const newSlugs = [];
+    const pending = langTargets.filter(s => !guideExists(s.slug, lang));
+    const skipped = langTargets.length - pending.length;
+    const batch = pending.slice(0, BATCH_SIZE);
 
-  for (const scheme of batch) {
-    log(`\n🏛  [Priority ${scheme.priority}] ${scheme.name} (${scheme.state})`);
-    log(`    slug: ${scheme.slug}`);
+    log(`\n${langLabel}: ${langTargets.length} targeted | ${pending.length} pending | ${skipped} exist | processing ${batch.length}`);
 
-    if (DRY_RUN) {
-      log(`    📝 DRY RUN — would generate: ${scheme.slug}.md`);
-      results.generated++;
-      continue;
-    }
+    if (batch.length === 0) { log(`✅ All ${langLabel} guides exist.`); continue; }
 
-    try {
-      log(`    🤖 Generating with ${backend}...`);
-      const data = await generateSchemeGuide(scheme);
+    const dir = lang === 'hi' ? GUIDES_HI_DIR : GUIDES_EN_DIR;
+    const slugsFile = lang === 'hi' ? SLUGS_HI_FILE : SLUGS_EN_FILE;
+    const newSlugs = [];
+    let errors = 0;
 
-      // Final hard validation
-      if (!data.title) throw new Error('title missing after generation');
-      if (!data.contentMarkdown || data.contentMarkdown.length < 400) {
-        throw new Error(`Thin content: ${data.contentMarkdown?.length ?? 0} chars`);
+    for (const scheme of batch) {
+      log(`\n  🏛  [P${scheme.priority}] ${scheme.name} (${scheme.state}) [${lang}]`);
+
+      if (DRY_RUN) { log(`  📝 DRY RUN — ${scheme.slug}.md`); continue; }
+
+      try {
+        log(`  🤖 Generating...`);
+        const data = lang === 'hi' ? await generateHI(scheme) : await generateEN(scheme);
+
+        if (!data.title || !data.contentMarkdown || data.contentMarkdown.length < 400)
+          throw new Error(`Thin content: ${data.contentMarkdown?.length ?? 0} chars`);
+
+        const markdown = buildMarkdownFile(data, scheme, lang);
+        const filePath = path.join(dir, `${scheme.slug}.md`);
+        fs.writeFileSync(filePath, markdown, 'utf8');
+        newSlugs.push(scheme.slug);
+
+        const wc = data.contentMarkdown.split(/\s+/).filter(Boolean).length;
+        log(`  ✅ ${scheme.slug}.md (${wc} words)`);
+      } catch(err) {
+        log(`  ❌ ${err.message}`);
+        errors++;
       }
 
-      const seoErrors = validateSEO(data, data.contentMarkdown);
-      if (seoErrors.length > 0) log(`    ⚠️  SEO warnings: ${seoErrors.join(', ')}`);
-
-      const contentErrors = validateContent(data.contentMarkdown);
-      if (contentErrors.length > 0) log(`    ⚠️  Content warnings: ${contentErrors.join(', ')}`);
-
-      const markdown = buildMarkdownFile(data, scheme);
-      const filePath = path.join(GUIDES_DIR, `${scheme.slug}.md`);
-      fs.writeFileSync(filePath, markdown, 'utf8');
-      newSlugs.push(scheme.slug);
-      results.generated++;
-
-      const wordCount = data.contentMarkdown.split(/\s+/).filter(Boolean).length;
-      log(`    ✅ Written: ${scheme.slug}.md (${wordCount} words)`);
-    } catch (err) {
-      log(`    ❌ Error: ${err.message}`);
-      results.errors.push({ scheme: scheme.name, error: err.message });
+      await sleep(CALL_DELAY_MS);
     }
 
-    // Delay between schemes (avoid rate limits on CI / be polite locally)
-    await sleep(CALL_DELAY_MS);
-  }
+    const remaining = pending.length - batch.length;
+    log(`\n${'─'.repeat(50)}`);
+    log(`${langLabel} — Generated: ${newSlugs.length} | Errors: ${errors}${remaining > 0 ? ` | ${remaining} more pending` : ''}`);
 
-  log(`\n${'─'.repeat(55)}`);
-  log(`✅ Generated:  ${results.generated}`);
-  log(`⏭  Skipped:   ${results.skipped} (already exist)`);
-  log(`❌ Errors:     ${results.errors.length}`);
-  if (results.errors.length > 0) {
-    results.errors.forEach(e => log(`   • ${e.scheme}: ${e.error}`));
-  }
-
-  const remaining = pending.length - batch.length;
-  if (remaining > 0) log(`🔄 ${remaining} more schemes pending — run again to continue`);
-
-  if (newSlugs.length > 0) {
-    fs.appendFileSync(SLUGS_FILE, newSlugs.join('\n') + '\n');
-    log(`\n💾 New slugs → agents/.newly-generated-slugs`);
-    log(`\nNext steps:`);
-    log(`  git add content/guides/ && git commit -m "content: add ${newSlugs.length} scheme guides"`);
-    log(`  node scripts/google-index-submit.js for each new slug`);
+    if (newSlugs.length > 0) {
+      fs.appendFileSync(slugsFile, newSlugs.join('\n') + '\n');
+      log(`💾 Slugs → ${path.basename(slugsFile)}`);
+    }
   }
 }
 

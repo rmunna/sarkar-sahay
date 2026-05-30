@@ -1,0 +1,153 @@
+name: Auto-Index New Content on Push
+
+# Fires whenever content/updates/ or content/guides/ files land on main.
+# Submits those exact URLs to Google Indexing API + IndexNow immediately
+# so the pages appear in search within 2–6 hours, not 2–7 days.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/updates/**'
+      - 'content/guides/**'
+      - 'content/guides-hi/**'
+  workflow_dispatch:
+    inputs:
+      url:
+        description: 'Specific URL to index (leave blank to auto-detect from last commit)'
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  index-new-pages:
+    name: Submit New Pages to Search Engines
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4.2.2
+        with:
+          fetch-depth: 2   # need HEAD~1 to detect which files changed
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4.4.0
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci --prefer-offline
+
+      # ── Build URL list from changed content files ─────────────────────────
+
+      - name: Detect changed content files
+        id: detect
+        run: |
+          SITE="https://www.citizennest.com"
+
+          if [ -n "${{ github.event.inputs.url }}" ]; then
+            # Manual trigger with specific URL
+            echo "${{ github.event.inputs.url }}" > /tmp/new-urls.txt
+          else
+            # Auto-detect from git diff (files changed in this push)
+            git diff --name-only HEAD~1 HEAD -- 'content/updates/*.md' 'content/guides/*.md' 'content/guides-hi/*.md' > /tmp/changed-files.txt || true
+
+            > /tmp/new-urls.txt
+            while IFS= read -r file; do
+              [ -z "$file" ] && continue
+              slug=$(basename "$file" .md)
+              if echo "$file" | grep -q "content/updates/"; then
+                echo "$SITE/update/$slug" >> /tmp/new-urls.txt
+              elif echo "$file" | grep -q "content/guides-hi/"; then
+                echo "$SITE/hi/guide/$slug" >> /tmp/new-urls.txt
+              elif echo "$file" | grep -q "content/guides/"; then
+                echo "$SITE/guide/$slug" >> /tmp/new-urls.txt
+              fi
+            done < /tmp/changed-files.txt
+          fi
+
+          COUNT=$(wc -l < /tmp/new-urls.txt | tr -d ' ')
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          echo "has_urls=$([ "$COUNT" -gt 0 ] && echo true || echo false)" >> $GITHUB_OUTPUT
+
+          echo "URLs to index ($COUNT):"
+          cat /tmp/new-urls.txt
+
+      # ── Regenerate sitemap so new URLs appear there too ───────────────────
+
+      - name: Regenerate sitemap
+        if: steps.detect.outputs.has_urls == 'true'
+        run: |
+          npx tsx scripts/generate-sitemap.ts 2>/dev/null || echo "Sitemap generation skipped"
+          git config user.name "CitizenNest Bot"
+          git config user.email "bot@citizennest.com"
+          git add public/sitemap.xml public/sitemap-index.xml 2>/dev/null || true
+          git diff --staged --quiet || (git commit -m "chore: update sitemap after new content" && git pull --rebase origin main && git push) || true
+
+      # ── Google Indexing API — fastest path to Google index ───────────────
+
+      - name: Submit to Google Indexing API
+        if: steps.detect.outputs.has_urls == 'true'
+        env:
+          GOOGLE_INDEXING_KEY: ${{ secrets.GOOGLE_INDEXING_KEY }}
+        run: |
+          # Write service account JSON from secret
+          if [ -n "$GOOGLE_INDEXING_KEY" ]; then
+            mkdir -p keys
+            echo "$GOOGLE_INDEXING_KEY" > keys/gsc-service-account.json
+            while IFS= read -r url; do
+              [ -z "$url" ] && continue
+              echo "Submitting: $url"
+              node scripts/google-index-submit.js "$url" || echo "Warning: indexing failed for $url"
+            done < /tmp/new-urls.txt
+            rm -f keys/gsc-service-account.json
+          else
+            echo "⚠️ GOOGLE_INDEXING_KEY secret not set — skipping Google Indexing API"
+          fi
+
+      # ── IndexNow — instant Bing + Yandex indexing ────────────────────────
+
+      - name: Submit to IndexNow (Bing + Yandex)
+        if: steps.detect.outputs.has_urls == 'true'
+        run: |
+          URLS_JSON=$(awk '{printf "\"%s\",", $0}' /tmp/new-urls.txt | sed 's/,$//')
+          curl -s -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"host\": \"www.citizennest.com\",
+              \"key\": \"0a27db7c4d814e6ebc070df3513d0d93\",
+              \"keyLocation\": \"https://www.citizennest.com/0a27db7c4d814e6ebc070df3513d0d93.txt\",
+              \"urlList\": [$URLS_JSON]
+            }" && echo "✅ IndexNow submitted" || echo "⚠️ IndexNow failed (non-critical)"
+
+      # ── Ping Google + Bing sitemaps ───────────────────────────────────────
+
+      - name: Ping sitemaps
+        if: steps.detect.outputs.has_urls == 'true'
+        run: |
+          curl -s "https://www.google.com/ping?sitemap=https://www.citizennest.com/sitemap.xml" > /dev/null && echo "✅ Google sitemap pinged" || true
+          curl -s "https://www.bing.com/ping?sitemap=https://www.citizennest.com/sitemap.xml" > /dev/null && echo "✅ Bing sitemap pinged" || true
+
+      # ── Summary ──────────────────────────────────────────────────────────
+
+      - name: Job Summary
+        if: always()
+        run: |
+          echo "## 🔍 Auto-Index Run" >> $GITHUB_STEP_SUMMARY
+          echo "| | |" >> $GITHUB_STEP_SUMMARY
+          echo "|---|---|" >> $GITHUB_STEP_SUMMARY
+          echo "| New URLs submitted | ${{ steps.detect.outputs.count || 0 }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Run time (IST) | $(TZ=Asia/Kolkata date) |" >> $GITHUB_STEP_SUMMARY
+          if [ -f /tmp/new-urls.txt ]; then
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "**URLs indexed:**" >> $GITHUB_STEP_SUMMARY
+            while IFS= read -r url; do
+              echo "- $url" >> $GITHUB_STEP_SUMMARY
+            done < /tmp/new-urls.txt
+          fi

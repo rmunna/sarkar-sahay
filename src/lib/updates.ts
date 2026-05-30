@@ -129,7 +129,17 @@ export async function getUpdateBySlug(slug: string): Promise<Update | null> {
   const { content } = matter(fileContents);
   const processedContent = await remark().use(remarkGfm).use(html).process(content);
   const meta = getUpdateMeta(slug)!;
-  return { ...meta, contentHtml: processedContent.toString() };
+
+  // Post-process: convert <code>https://...</code> → real clickable <a> links.
+  // Content generators often wrap URLs in backticks; this makes them clickable
+  // without requiring a code change every time a new content file is added.
+  let contentHtml = processedContent.toString();
+  contentHtml = contentHtml.replace(
+    /<code>(https?:\/\/[^<\s"']+)<\/code>/g,
+    '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>'
+  );
+
+  return { ...meta, contentHtml };
 }
 
 export function getUpdateRawContent(slug: string): string | null {

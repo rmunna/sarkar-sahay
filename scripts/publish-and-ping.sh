@@ -50,6 +50,23 @@ git add -A
 git commit -m "Publish $COUNT new pages + sitemap" 2>/dev/null || true
 git push 2>/dev/null
 
-# Ping search engines with exact URLs
+# Ping search engines with exact URLs (IndexNow + Google sitemap ping)
 echo ""
 bash "$SCRIPT_DIR/ping-search-engines.sh" $URLS
+
+# Submit each URL to Google Indexing API (200/day quota — fastest Google path)
+echo ""
+echo "🔍 Submitting to Google Indexing API..."
+KEY_FILE="$PROJECT_DIR/keys/gsc-service-account.json"
+if [ -f "$KEY_FILE" ]; then
+    for url in $URLS; do
+        node "$SCRIPT_DIR/google-index-submit.js" "$url" || echo "  ⚠️ Google index submit failed for $url (non-critical)"
+    done
+    echo "✅ Google Indexing API done"
+else
+    echo "  ⚠️ $KEY_FILE not found — skipping Google Indexing API"
+    echo "     Run: node scripts/google-index-submit.js <url> manually"
+fi
+
+echo ""
+echo "✅ Published and pinged. Vercel will deploy in ~2 min, Google indexes in 2–6 hours."
