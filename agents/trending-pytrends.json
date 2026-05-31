@@ -1,6 +1,13 @@
 {
-  "scannedAt": "2026-05-30T22:41:58.208467",
+  "scannedAt": "2026-05-31T05:50:00.306678",
   "results": [
+    {
+      "topic": "ncert cee 2026 registration",
+      "category": "Jobs",
+      "rising_value": 6450,
+      "guide_exists": null,
+      "is_spike": true
+    },
     {
       "topic": "upsc answer key 2026",
       "category": "Jobs",
@@ -9,38 +16,24 @@
       "is_spike": true
     },
     {
-      "topic": "ncert cee 2026 registration",
-      "category": "Jobs",
-      "rising_value": 4950,
-      "guide_exists": null,
-      "is_spike": true
-    },
-    {
-      "topic": "iiser admit card",
-      "category": "Jobs",
-      "rising_value": 1250,
-      "guide_exists": "iiser-admit-card",
-      "is_spike": true
-    },
-    {
       "topic": "bihar school examination board",
       "category": "Jobs",
-      "rising_value": 1150,
-      "guide_exists": "cbse-class-12-board-examination-2026-result",
+      "rising_value": 1100,
+      "guide_exists": "bihar-board-class-12-result-2026",
       "is_spike": false
-    },
-    {
-      "topic": "iiser admit card 2026",
-      "category": "Jobs",
-      "rising_value": 1150,
-      "guide_exists": "iiser-admit-card",
-      "is_spike": true
     },
     {
       "topic": "rpsc admit card",
       "category": "Jobs",
-      "rising_value": 1150,
+      "rising_value": 1000,
       "guide_exists": null,
+      "is_spike": true
+    },
+    {
+      "topic": "iiser admit card 2026",
+      "category": "Jobs",
+      "rising_value": 800,
+      "guide_exists": "iiser-admit-card",
       "is_spike": true
     },
     {
@@ -51,30 +44,44 @@
       "is_spike": true
     },
     {
-      "topic": "plus two result 2026",
+      "topic": "iiser admit card",
       "category": "Jobs",
-      "rising_value": 700,
-      "guide_exists": "plus-two-result-2026",
+      "rising_value": 750,
+      "guide_exists": "iiser-admit-card",
       "is_spike": true
     },
     {
       "topic": "jeecup admit card 2026",
       "category": "Jobs",
-      "rising_value": 700,
+      "rising_value": 650,
       "guide_exists": "jeecup-admit-card-2026",
+      "is_spike": true
+    },
+    {
+      "topic": "plus two result 2026",
+      "category": "Jobs",
+      "rising_value": 650,
+      "guide_exists": "plus-two-result-2026",
+      "is_spike": true
+    },
+    {
+      "topic": "iat admit card",
+      "category": "Jobs",
+      "rising_value": 650,
+      "guide_exists": "iat-admit-card",
       "is_spike": true
     },
     {
       "topic": "upsc prelims 2026",
       "category": "Jobs",
-      "rising_value": 500,
+      "rising_value": 400,
       "guide_exists": "upsc-cse-prelims-2026-answer-key",
       "is_spike": false
     },
     {
       "topic": "rpsc",
       "category": "Jobs",
-      "rising_value": 190,
+      "rising_value": 160,
       "guide_exists": null,
       "is_spike": false
     }
@@ -83,14 +90,14 @@
     {
       "topic": "ncert cee 2026 registration",
       "category": "Jobs",
-      "rising_value": 4950,
+      "rising_value": 6450,
       "guide_exists": null,
       "is_spike": true
     },
     {
       "topic": "rpsc admit card",
       "category": "Jobs",
-      "rising_value": 1150,
+      "rising_value": 1000,
       "guide_exists": null,
       "is_spike": true
     },
@@ -104,7 +111,7 @@
     {
       "topic": "rpsc",
       "category": "Jobs",
-      "rising_value": 190,
+      "rising_value": 160,
       "guide_exists": null,
       "is_spike": false
     }
@@ -118,44 +125,51 @@
       "is_spike": true
     },
     {
-      "topic": "iiser admit card",
-      "category": "Jobs",
-      "rising_value": 1250,
-      "guide_exists": "iiser-admit-card",
-      "is_spike": true
-    },
-    {
       "topic": "bihar school examination board",
       "category": "Jobs",
-      "rising_value": 1150,
-      "guide_exists": "cbse-class-12-board-examination-2026-result",
+      "rising_value": 1100,
+      "guide_exists": "bihar-board-class-12-result-2026",
       "is_spike": false
     },
     {
       "topic": "iiser admit card 2026",
       "category": "Jobs",
-      "rising_value": 1150,
+      "rising_value": 800,
       "guide_exists": "iiser-admit-card",
       "is_spike": true
     },
     {
-      "topic": "plus two result 2026",
+      "topic": "iiser admit card",
       "category": "Jobs",
-      "rising_value": 700,
-      "guide_exists": "plus-two-result-2026",
+      "rising_value": 750,
+      "guide_exists": "iiser-admit-card",
       "is_spike": true
     },
     {
       "topic": "jeecup admit card 2026",
       "category": "Jobs",
-      "rising_value": 700,
+      "rising_value": 650,
       "guide_exists": "jeecup-admit-card-2026",
+      "is_spike": true
+    },
+    {
+      "topic": "plus two result 2026",
+      "category": "Jobs",
+      "rising_value": 650,
+      "guide_exists": "plus-two-result-2026",
+      "is_spike": true
+    },
+    {
+      "topic": "iat admit card",
+      "category": "Jobs",
+      "rising_value": 650,
+      "guide_exists": "iat-admit-card",
       "is_spike": true
     },
     {
       "topic": "upsc prelims 2026",
       "category": "Jobs",
-      "rising_value": 500,
+      "rising_value": 400,
       "guide_exists": "upsc-cse-prelims-2026-answer-key",
       "is_spike": false
     }
@@ -164,14 +178,14 @@
     {
       "topic": "ncert cee 2026 registration",
       "category": "Jobs",
-      "rising_value": 4950,
+      "rising_value": 6450,
       "guide_exists": null,
       "is_spike": true
     },
     {
       "topic": "rpsc admit card",
       "category": "Jobs",
-      "rising_value": 1150,
+      "rising_value": 1000,
       "guide_exists": null,
       "is_spike": true
     },
