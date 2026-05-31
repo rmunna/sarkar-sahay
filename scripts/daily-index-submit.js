@@ -44,20 +44,27 @@ const guideSlugs = fs.readdirSync(path.join(ROOT, 'content/guides'))
   .filter(f => f.endsWith('.md'))
   .map(f => `${SITE_URL}/guide/${f.replace('.md', '')}`);
 
+const hindiGuideSlugs = fs.existsSync(path.join(ROOT, 'content/guides-hi'))
+  ? fs.readdirSync(path.join(ROOT, 'content/guides-hi'))
+      .filter(f => f.endsWith('.md'))
+      .map(f => `${SITE_URL}/hi/guide/${f.replace('.md', '')}`)
+  : [];
+
 const updateSlugs = fs.readdirSync(path.join(ROOT, 'content/updates'))
   .filter(f => f.endsWith('.md'))
   .map(f => `${SITE_URL}/update/${f.replace('.md', '')}`);
 
-const allUrls = [...guideSlugs, ...updateSlugs];
+const allUrls = [...guideSlugs, ...hindiGuideSlugs, ...updateSlugs];
 
 // Filter out already submitted
 const pending = allUrls.filter(u => !submitted.has(u));
 
-// Prioritize: fix guides first, then updates, then others
-const fixUrls = pending.filter(u => u.includes('-fix'));
+// Prioritize: updates first (time-sensitive), then Hindi guides, then fix guides, then others
 const updateUrls = pending.filter(u => u.includes('/update/'));
-const otherUrls = pending.filter(u => !u.includes('-fix') && !u.includes('/update/'));
-const prioritized = [...fixUrls, ...updateUrls, ...otherUrls];
+const hindiUrls = pending.filter(u => u.includes('/hi/guide/'));
+const fixUrls = pending.filter(u => u.includes('-fix') && !u.includes('/hi/'));
+const otherUrls = pending.filter(u => !u.includes('/update/') && !u.includes('/hi/guide/') && !u.includes('-fix'));
+const prioritized = [...updateUrls, ...hindiUrls, ...fixUrls, ...otherUrls];
 
 const batch = prioritized.slice(0, MAX_PER_DAY);
 
