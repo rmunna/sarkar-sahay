@@ -57,7 +57,7 @@
       "lastChanged": "2026-03-01T02:46:19.512Z"
     },
     "ssc:notices": {
-      "lastChecked": "2026-05-31T02:07:50.866Z",
+      "lastChecked": "2026-05-31T10:29:08.849Z",
       "noticeIds": [
         "hvcvnq6iuo746xj9qe5g4",
         "82liqxb6q7v0m8s0jg65w",
@@ -82,7 +82,7 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-05-31T05:15:25.164Z",
+      "lastChecked": "2026-05-31T12:00:21.920Z",
       "noticeIds": [
         "20260530182445",
         "20260529120905",
@@ -99,10 +99,6 @@
         "20260522222328",
         "20260520174345",
         "20260519182850",
-        "20260517182420",
-        "20260517182325",
-        "20260517182255",
-        "20260517181626",
         "20260516152513",
         "20260516152301",
         "20260515182252",
@@ -808,7 +804,7 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-05-31T05:15:34.001Z",
+      "lastChecked": "2026-05-31T12:00:30.647Z",
       "contentHash": "d6fc9758e0584f4ef8f60ee561f86ee1",
       "pdfHash": "f4afe66da877612ac4e077bfb2e9bc6e",
       "pdfs": [
@@ -1237,13 +1233,13 @@
       ]
     },
     "uppsc:hash": {
-      "lastChecked": "2026-05-31T02:08:06.940Z",
-      "contentHash": "c4b51ac5fbb94593cb4ad84b626837ef",
+      "lastChecked": "2026-05-31T12:00:48.014Z",
+      "contentHash": "ba410756192275ceb585c07dbb6f2c14",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-05-31T05:15:36.048Z",
+      "lastChecked": "2026-05-31T12:00:31.994Z",
       "contentHash": "d73d6b3ca9ca2cec845a9eb5d6b217b9",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
       "pdfs": [
@@ -1264,8 +1260,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-05-31T05:15:33.864Z",
-      "contentHash": "bc358d2775a737f7df1d9f23052c23fb",
+      "lastChecked": "2026-05-31T12:00:30.300Z",
+      "contentHash": "4e1c67766623fa968e49a9b08a9f49e7",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "pdfs": [
         "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
@@ -1289,14 +1285,14 @@
       "pdfs": []
     },
     "cbse:hash": {
-      "lastChecked": "2026-05-31T02:08:01.275Z",
+      "lastChecked": "2026-05-31T10:29:31.863Z",
       "contentHash": "397e41594c9f5800063d5a9fd1e70e7f",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "bsf:hash": {
-      "lastChecked": "2026-05-31T02:08:01.277Z",
-      "contentHash": "0f79eebc9850cb920c529c09c96ef5f1",
+      "lastChecked": "2026-05-31T10:29:30.089Z",
+      "contentHash": "1606352d7865e02dfb6d779781e48503",
       "pdfHash": "63d89b350a3b7d01d5a4a386b54fce7f",
       "pdfs": [
         "https://d3t79nicn48uzj.cloudfront.net/bsf/custom/1779709440.pdf",
@@ -1321,8 +1317,8 @@
       ]
     },
     "cisf:hash": {
-      "lastChecked": "2026-05-31T02:08:01.553Z",
-      "contentHash": "9bf71021d67206d8e19130bc54e7677f",
+      "lastChecked": "2026-05-31T10:29:30.164Z",
+      "contentHash": "0b27aede6392b557e24ea9a1f863c3ca",
       "pdfHash": "dcb8f9d4988ce1cb962ced406b83bc91",
       "pdfs": [
         "https://cisf.gov.in/assets/pdfs/2025/08/id_eng.pdf",
@@ -1344,7 +1340,7 @@
       "pdfCount": 0
     },
     "crpf:hash": {
-      "lastChecked": "2026-05-31T02:08:02.612Z",
+      "lastChecked": "2026-05-31T12:00:41.741Z",
       "contentHash": "b4ae50616a2c1981fe645a501a59a071",
       "pdfHash": "eebdd8689365da8c8d596fcd968f76b1",
       "pdfs": [
@@ -1377,8 +1373,8 @@
       ]
     },
     "kvs:hash": {
-      "lastChecked": "2026-05-31T02:08:04.920Z",
-      "contentHash": "0a553973cde594308134fbea4f7759e8",
+      "lastChecked": "2026-05-31T10:29:36.504Z",
+      "contentHash": "ca699579889e450f45eaaf7eddbc6c39",
       "pdfHash": "3b5e753b2f3d272f4442e5a30bd346be",
       "pdfs": [
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/11/2023112463.pdf",
@@ -1419,7 +1415,7 @@
       ]
     },
     "ugc:hash": {
-      "lastChecked": "2026-05-31T02:08:05.750Z",
+      "lastChecked": "2026-05-31T12:00:46.447Z",
       "contentHash": "afd68862fdf99c50e8d36a196d1afb9a",
       "pdfHash": "95dd0e41cad4c36bd545cf906a567d8b",
       "pdfs": [
@@ -1447,7 +1443,7 @@
       ]
     },
     "mppsc:hash": {
-      "lastChecked": "2026-05-31T02:08:06.052Z",
+      "lastChecked": "2026-05-31T10:29:39.291Z",
       "contentHash": "0ef9ca666eb3525fd791b8692e860b6e",
       "pdfHash": "f98f345056707f1a04c6e1b9381f680d",
       "pdfs": [
@@ -1539,7 +1535,7 @@
       ]
     },
     "cuet:hash": {
-      "lastChecked": "2026-05-31T02:08:06.191Z",
+      "lastChecked": "2026-05-31T12:00:47.312Z",
       "contentHash": "b0423ba311e4934f824a5aecdfe6703d",
       "pdfHash": "85a7d6bb2a5a6075584b3d9527c4f0c0",
       "pdfs": [
@@ -1861,7 +1857,7 @@
       "pdfs": []
     },
     "jpsc:hash": {
-      "lastChecked": "2026-05-31T02:08:11.193Z",
+      "lastChecked": "2026-05-31T10:29:48.997Z",
       "contentHash": "df5e0c39a35d88d4803d85579228bb68",
       "pdfHash": "c81cae127ad2cea7bedabdb4973b7f7d",
       "pdfs": [
@@ -2028,14 +2024,14 @@
       ]
     },
     "ukpsc:hash": {
-      "lastChecked": "2026-05-31T02:08:16.404Z",
+      "lastChecked": "2026-05-31T10:29:52.910Z",
       "contentHash": "29183ec5cee976219d1fa1ec8bb74947",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "up-board:hash": {
-      "lastChecked": "2026-05-31T02:02:41.625Z",
-      "contentHash": "918fa229d56e4ea89573cd8d6fbe9fad",
+      "lastChecked": "2026-05-31T10:29:58.382Z",
+      "contentHash": "18cd065e2fac814dc28c10201e25b8ea",
       "pdfHash": "b91f3fc51f4d570fd2da15c996ad5428",
       "pdfs": [
         "https://upmsp.edu.in/Downloads/Circular_2_04-04-2026.pdf",
@@ -2059,13 +2055,13 @@
       ]
     },
     "rbse:hash": {
-      "lastChecked": "2026-05-31T02:08:16.362Z",
+      "lastChecked": "2026-05-31T10:29:55.574Z",
       "contentHash": "7f127d3d8ecd4419f163c0d14fa4ba31",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "ctet:hash": {
-      "lastChecked": "2026-05-31T02:08:16.727Z",
+      "lastChecked": "2026-05-31T10:29:59.440Z",
       "contentHash": "a76bd54b1463317c659a67381d439fc3",
       "pdfHash": "3243cc5ff9cc78ab399571499e449e90",
       "pdfs": [
@@ -2103,7 +2099,7 @@
       ]
     },
     "mp-board:hash": {
-      "lastChecked": "2026-05-31T02:08:22.038Z",
+      "lastChecked": "2026-05-31T12:01:07.619Z",
       "contentHash": "1c042b51f1f39f0e328cc3eba3840cd1",
       "pdfHash": "02973078bb6b3d94f53549d614817487",
       "pdfs": [
@@ -2137,7 +2133,7 @@
       ]
     },
     "rrb:hash": {
-      "lastChecked": "2026-05-31T02:07:56.542Z",
+      "lastChecked": "2026-05-31T12:00:33.965Z",
       "contentHash": "9e006497b55ef0205446925e6ec3535f",
       "pdfHash": "56bac08265942f3c4441d53c40137928",
       "pdfs": [
@@ -2728,5 +2724,5 @@
       ]
     }
   },
-  "lastScan": "2026-05-31T05:16:05.908Z"
+  "lastScan": "2026-05-31T12:01:16.672Z"
 }

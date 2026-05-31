@@ -1,14 +1,20 @@
 {
-  "scanTime": "2026-05-31T05:16:05.912Z",
-  "elapsedSeconds": 50.1,
-  "changesDetected": 1,
-  "errors": 41,
+  "scanTime": "2026-05-31T12:01:16.675Z",
+  "elapsedSeconds": 64.6,
+  "changesDetected": 2,
+  "errors": 35,
   "changes": [
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-05-31T05:15:33.864Z"
+      "detectedAt": "2026-05-31T12:00:30.300Z"
+    },
+    {
+      "site": "UPPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://uppsc.up.nic.in/",
+      "detectedAt": "2026-05-31T12:00:48.014Z"
     }
   ],
   "errorDetails": [
@@ -31,11 +37,6 @@
       "error": "Timeout"
     },
     {
-      "site": "RRB (Railway)",
-      "url": "https://www.rrbcdg.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "Indian Army",
       "url": "https://joinindianarmy.nic.in/",
       "error": "Timeout"
@@ -48,11 +49,6 @@
     {
       "site": "Air Force",
       "url": "https://afcat.cdac.in/AFCAT/",
-      "error": "Timeout"
-    },
-    {
-      "site": "CRPF",
-      "url": "https://crpf.gov.in/",
       "error": "Timeout"
     },
     {
@@ -91,23 +87,8 @@
       "error": "Timeout"
     },
     {
-      "site": "UGC NET",
-      "url": "https://ugcnet.nta.ac.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "CUET",
-      "url": "https://cuet.nta.nic.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "BPSC",
       "url": "https://www.bpsc.bih.nic.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "UPPSC",
-      "url": "https://uppsc.up.nic.in/",
       "error": "Timeout"
     },
     {
@@ -118,7 +99,7 @@
     {
       "site": "RPSC",
       "url": "https://rpsc.rajasthan.gov.in/",
-      "error": "Timeout"
+      "error": ""
     },
     {
       "site": "TNPSC",
@@ -208,11 +189,6 @@
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "MP Board",
-      "url": "https://mpbse.nic.in/",
       "error": "Timeout"
     }
   ]
