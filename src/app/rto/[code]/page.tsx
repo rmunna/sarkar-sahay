@@ -2,6 +2,9 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { getRTOBySlug, getAllRTOParams, getRTOsByState } from "@/lib/rto";
+import AdUnit from "@/components/AdUnit";
+
+const AD_SLOT_DATA = process.env.NEXT_PUBLIC_AD_SLOT_DATA || "";
 
 export const dynamicParams = true;
 export const revalidate = 7776000; // 90 days
@@ -144,6 +147,9 @@ export default async function RTOCodePage({ params }: { params: Promise<{ code: 
         </div>
       </div>
 
+      {/* Ad — after hero, before services */}
+      <AdUnit slot={AD_SLOT_DATA} className="mb-6" />
+
       {/* Services */}
       <div className="bg-white rounded-xl border border-gray-200 p-6 mb-6">
         <h2 className="text-base font-bold text-gray-900 mb-3">Services at RTO {rto.code}</h2>
@@ -198,6 +204,9 @@ export default async function RTOCodePage({ params }: { params: Promise<{ code: 
         <Link href="/calculator/emi" className="text-sm text-orange-600 hover:underline">→ Car Loan EMI Calculator</Link>
         <Link href="/calculator" className="text-sm text-orange-600 hover:underline">→ All Calculators</Link>
       </div>
+
+      {/* Ad — before FAQ */}
+      <AdUnit slot={AD_SLOT_DATA} className="mb-6" />
 
       {/* FAQ */}
       <div className="bg-white rounded-xl border border-gray-200 p-6">

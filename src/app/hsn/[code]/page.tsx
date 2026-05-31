@@ -2,6 +2,9 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { getHSNByCode, getAllHSNParams, getRelatedHSN } from "@/lib/hsn";
+import AdUnit from "@/components/AdUnit";
+
+const AD_SLOT_DATA = process.env.NEXT_PUBLIC_AD_SLOT_DATA || "";
 
 export const dynamicParams = true;
 export const revalidate = 7776000; // 90 days
@@ -169,6 +172,9 @@ export default async function HSNCodePage({ params }: { params: Promise<{ code: 
           </p>
         </div>
       </div>
+
+      {/* Ad — before related codes */}
+      <AdUnit slot={AD_SLOT_DATA} className="mb-6" />
 
       {/* Related codes */}
       {related.length > 0 && (

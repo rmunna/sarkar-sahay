@@ -3,6 +3,9 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 import CopyButton from "@/components/CopyButton";
+import AdUnit from "@/components/AdUnit";
+
+const AD_SLOT_DATA = process.env.NEXT_PUBLIC_AD_SLOT_DATA || "";
 
 interface Props {
   params: Promise<{ state: string; district: string; slug: string }>;
@@ -214,6 +217,9 @@ export default async function PincodePage({ params }: Props) {
           </p>
         </div>
 
+        {/* Ad — before FAQs */}
+        <AdUnit slot={AD_SLOT_DATA} className="mb-6" />
+
         {/* FAQs */}
         <div className="mb-6">
           <h2 className="text-lg font-semibold text-gray-800 mb-4">Frequently Asked Questions</h2>
@@ -241,6 +247,9 @@ export default async function PincodePage({ params }: Props) {
             ))}
           </div>
         </div>
+
+        {/* Ad — before nearby PINs */}
+        <AdUnit slot={AD_SLOT_DATA} className="mb-4" />
 
         {/* Nearby PINs */}
         {nearby.length > 0 && (

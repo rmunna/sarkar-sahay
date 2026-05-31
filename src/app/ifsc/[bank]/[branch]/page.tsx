@@ -10,6 +10,9 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 import CopyButton from "@/components/CopyButton";
+import AdUnit from "@/components/AdUnit";
+
+const AD_SLOT_DATA = process.env.NEXT_PUBLIC_AD_SLOT_DATA || "";
 
 interface Props {
   params: Promise<{ bank: string; branch: string }>;
@@ -145,6 +148,9 @@ export default async function IFSCBranchPage({ params }: Props) {
           <CopyButton text={data.ifsc} label="Copy IFSC" />
         </div>
 
+        {/* Ad — between hero IFSC card and details table */}
+        <AdUnit slot={AD_SLOT_DATA} className="my-4" />
+
         {/* Branch Details Table */}
         <div className="bg-white border border-gray-200 rounded-xl overflow-hidden mb-6">
           <table className="w-full text-sm">
@@ -243,6 +249,9 @@ export default async function IFSCBranchPage({ params }: Props) {
             ))}
           </div>
         </div>
+
+        {/* Ad — between FAQs and nearby branches */}
+        <AdUnit slot={AD_SLOT_DATA} className="my-6" />
 
         {/* Nearby branches */}
         {nearby.length > 0 && (
