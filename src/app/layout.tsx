@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import Script from "next/script";
 import Link from "next/link";
 import { MobileNav } from "./mobile-nav";
+import AdSenseInit from "@/components/AdSenseInit";
 import "./globals.css";
 
 const inter = Inter({
@@ -62,36 +63,45 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={inter.variable}>
-      {/* Google Analytics */}
-      <Script
-        src="https://www.googletagmanager.com/gtag/js?id=G-NNYF0TD9EY"
-        strategy="lazyOnload"
-      />
-      <Script id="ga4-init" strategy="lazyOnload">
-        {`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-NNYF0TD9EY');
-        `}
-      </Script>
-      {/* Google AdSense — Auto Ads */}
-      <Script
-        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7012449506814064"
-        crossOrigin="anonymous"
-        strategy="afterInteractive"
-      />
-      {/* Microsoft Clarity */}
-      <Script id="clarity-init" strategy="lazyOnload">
-        {`
-          (function(c,l,a,r,i,t,y){
-            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-          })(window,document,"clarity","script","vibzpqadbl");
-        `}
-      </Script>
       <body className={`${inter.className} bg-gray-100 text-gray-900 antialiased min-h-screen flex flex-col`}>
+        {/* ── Third-party scripts ── all inside <body> so Next.js does NOT inject
+            data-nscript into <head>, which causes AdSense to refuse initialising */}
+
+        {/* Google AdSense — Auto Ads (afterInteractive = loads after hydration) */}
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7012449506814064"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
+
+        {/* AdSense re-init on client-side navigation + aria-hidden guard */}
+        <AdSenseInit />
+
+        {/* Google Analytics */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-NNYF0TD9EY"
+          strategy="lazyOnload"
+        />
+        <Script id="ga4-init" strategy="lazyOnload">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-NNYF0TD9EY');
+          `}
+        </Script>
+
+        {/* Microsoft Clarity */}
+        <Script id="clarity-init" strategy="lazyOnload">
+          {`
+            (function(c,l,a,r,i,t,y){
+              c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+              t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+              y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+            })(window,document,"clarity","script","vibzpqadbl");
+          `}
+        </Script>
         {/* WebSite Schema for Google Sitelinks Search Box */}
         <script
           type="application/ld+json"
