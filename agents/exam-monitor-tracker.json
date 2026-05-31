@@ -82,7 +82,7 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-05-31T02:07:54.589Z",
+      "lastChecked": "2026-05-31T05:15:25.164Z",
       "noticeIds": [
         "20260530182445",
         "20260529120905",
@@ -808,7 +808,7 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-05-31T02:07:56.891Z",
+      "lastChecked": "2026-05-31T05:15:34.001Z",
       "contentHash": "d6fc9758e0584f4ef8f60ee561f86ee1",
       "pdfHash": "f4afe66da877612ac4e077bfb2e9bc6e",
       "pdfs": [
@@ -1243,7 +1243,7 @@
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-05-31T02:07:56.296Z",
+      "lastChecked": "2026-05-31T05:15:36.048Z",
       "contentHash": "d73d6b3ca9ca2cec845a9eb5d6b217b9",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
       "pdfs": [
@@ -1264,8 +1264,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-05-31T02:07:56.114Z",
-      "contentHash": "1b65215961927605c4e7916cde79677a",
+      "lastChecked": "2026-05-31T05:15:33.864Z",
+      "contentHash": "bc358d2775a737f7df1d9f23052c23fb",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "pdfs": [
         "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
@@ -2728,5 +2728,5 @@
       ]
     }
   },
-  "lastScan": "2026-05-31T02:08:25.757Z"
+  "lastScan": "2026-05-31T05:16:05.908Z"
 }
