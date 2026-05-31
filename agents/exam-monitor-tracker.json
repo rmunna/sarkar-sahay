@@ -57,7 +57,7 @@
       "lastChanged": "2026-03-01T02:46:19.512Z"
     },
     "ssc:notices": {
-      "lastChecked": "2026-05-31T10:29:08.849Z",
+      "lastChecked": "2026-05-31T17:02:04.786Z",
       "noticeIds": [
         "hvcvnq6iuo746xj9qe5g4",
         "82liqxb6q7v0m8s0jg65w",
@@ -82,7 +82,7 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-05-31T12:00:21.920Z",
+      "lastChecked": "2026-05-31T17:02:09.113Z",
       "noticeIds": [
         "20260530182445",
         "20260529120905",
@@ -804,7 +804,7 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-05-31T12:00:30.647Z",
+      "lastChecked": "2026-05-31T17:02:17.394Z",
       "contentHash": "d6fc9758e0584f4ef8f60ee561f86ee1",
       "pdfHash": "f4afe66da877612ac4e077bfb2e9bc6e",
       "pdfs": [
@@ -814,8 +814,8 @@
       ]
     },
     "sbi:hash": {
-      "lastChecked": "2026-05-31T02:07:57.925Z",
-      "contentHash": "a8786eb2fbbc534c0bcd59931f6b1698",
+      "lastChecked": "2026-05-31T15:47:34.872Z",
+      "contentHash": "64780743d15e6cbaff5612d663d0b2f5",
       "pdfHash": "971d6175597be3d91590d30157b537c8",
       "pdfs": [
         "https://bank.sbi/documents/77530/0/03122024-SCO_09_SELECT_LIST_RM.pdf/6807986c-7598-35dd-9ab8-682a8c8a1683?t=1733204687360",
@@ -1233,13 +1233,13 @@
       ]
     },
     "uppsc:hash": {
-      "lastChecked": "2026-05-31T12:00:48.014Z",
-      "contentHash": "ba410756192275ceb585c07dbb6f2c14",
+      "lastChecked": "2026-05-31T15:47:49.708Z",
+      "contentHash": "53e8b72d0a19859a4d8d41507b42cace",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-05-31T12:00:31.994Z",
+      "lastChecked": "2026-05-31T17:02:16.803Z",
       "contentHash": "d73d6b3ca9ca2cec845a9eb5d6b217b9",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
       "pdfs": [
@@ -1260,8 +1260,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-05-31T12:00:30.300Z",
-      "contentHash": "4e1c67766623fa968e49a9b08a9f49e7",
+      "lastChecked": "2026-05-31T17:02:17.256Z",
+      "contentHash": "7e8f1c97e4d3e55e8efe13a72d1dffa3",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "pdfs": [
         "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
@@ -1285,7 +1285,7 @@
       "pdfs": []
     },
     "cbse:hash": {
-      "lastChecked": "2026-05-31T10:29:31.863Z",
+      "lastChecked": "2026-05-31T14:05:17.620Z",
       "contentHash": "397e41594c9f5800063d5a9fd1e70e7f",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
@@ -1317,8 +1317,8 @@
       ]
     },
     "cisf:hash": {
-      "lastChecked": "2026-05-31T10:29:30.164Z",
-      "contentHash": "0b27aede6392b557e24ea9a1f863c3ca",
+      "lastChecked": "2026-05-31T14:05:17.524Z",
+      "contentHash": "cc3fbe5dcafadd4b87a3135b84852c88",
       "pdfHash": "dcb8f9d4988ce1cb962ced406b83bc91",
       "pdfs": [
         "https://cisf.gov.in/assets/pdfs/2025/08/id_eng.pdf",
@@ -1340,7 +1340,7 @@
       "pdfCount": 0
     },
     "crpf:hash": {
-      "lastChecked": "2026-05-31T12:00:41.741Z",
+      "lastChecked": "2026-05-31T14:05:19.896Z",
       "contentHash": "b4ae50616a2c1981fe645a501a59a071",
       "pdfHash": "eebdd8689365da8c8d596fcd968f76b1",
       "pdfs": [
@@ -1415,7 +1415,7 @@
       ]
     },
     "ugc:hash": {
-      "lastChecked": "2026-05-31T12:00:46.447Z",
+      "lastChecked": "2026-05-31T15:47:46.979Z",
       "contentHash": "afd68862fdf99c50e8d36a196d1afb9a",
       "pdfHash": "95dd0e41cad4c36bd545cf906a567d8b",
       "pdfs": [
@@ -1535,7 +1535,7 @@
       ]
     },
     "cuet:hash": {
-      "lastChecked": "2026-05-31T12:00:47.312Z",
+      "lastChecked": "2026-05-31T15:47:48.032Z",
       "contentHash": "b0423ba311e4934f824a5aecdfe6703d",
       "pdfHash": "85a7d6bb2a5a6075584b3d9527c4f0c0",
       "pdfs": [
@@ -2133,7 +2133,7 @@
       ]
     },
     "rrb:hash": {
-      "lastChecked": "2026-05-31T12:00:33.965Z",
+      "lastChecked": "2026-05-31T15:47:34.900Z",
       "contentHash": "9e006497b55ef0205446925e6ec3535f",
       "pdfHash": "56bac08265942f3c4441d53c40137928",
       "pdfs": [
@@ -2724,5 +2724,5 @@
       ]
     }
   },
-  "lastScan": "2026-05-31T12:01:16.672Z"
+  "lastScan": "2026-05-31T17:02:47.999Z"
 }
