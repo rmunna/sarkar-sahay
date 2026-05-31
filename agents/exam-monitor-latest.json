@@ -1,55 +1,36 @@
 {
-  "scanTime": "2026-05-31T14:05:44.564Z",
-  "elapsedSeconds": 54.7,
+  "scanTime": "2026-05-31T15:48:07.369Z",
+  "elapsedSeconds": 47,
   "changesDetected": 3,
-  "errors": 36,
+  "errors": 35,
   "changes": [
+    {
+      "site": "SBI Careers",
+      "type": "CONTENT_CHANGE",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-05-31T15:47:34.872Z"
+    },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-05-31T14:05:08.757Z"
-    },
-    {
-      "site": "CISF",
-      "type": "CONTENT_CHANGE",
-      "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-05-31T14:05:17.524Z"
+      "detectedAt": "2026-05-31T15:47:33.522Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-05-31T14:05:25.679Z"
+      "detectedAt": "2026-05-31T15:47:49.708Z"
     }
   ],
   "errorDetails": [
-    {
-      "site": "SSC",
-      "error": "Timeout"
-    },
     {
       "site": "UPSC",
       "error": "Timeout"
     },
     {
-      "site": "SBI Careers",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "error": "Timeout"
-    },
-    {
       "site": "NABARD",
       "url": "https://www.nabard.org/career-notices.aspx",
-      "error": "Timeout"
-    },
-    {
-      "site": "ICAI (CA)",
-      "url": "https://www.icai.org/",
-      "error": "Timeout"
-    },
-    {
-      "site": "RRB (Railway)",
-      "url": "https://www.rrbcdg.gov.in/",
       "error": "Timeout"
     },
     {
@@ -68,13 +49,28 @@
       "error": "Timeout"
     },
     {
+      "site": "CRPF",
+      "url": "https://crpf.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "CISF",
+      "url": "https://cisf.gov.in/recruitment",
+      "error": "Timeout"
+    },
+    {
       "site": "BSF",
       "url": "https://rectt.bsf.gov.in/",
-      "error": "HTTP 403"
+      "error": "Timeout"
     },
     {
       "site": "ITBP",
       "url": "https://recruitment.itbpolice.nic.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "CBSE",
+      "url": "https://www.cbse.gov.in/",
       "error": "Timeout"
     },
     {
