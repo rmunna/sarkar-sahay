@@ -112,8 +112,26 @@ Return ONLY valid JSON in this exact format (no markdown, no code blocks):
   const result = await model.generateContent(prompt);
   const text = result.response.text().trim();
 
-  // Strip markdown code fences if Gemini wraps it
-  const jsonStr = text.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/i, '').trim();
+  // Robustly extract JSON from Gemini's response — handles:
+  //   1. ```json ... ``` fences (anywhere in the text, with optional preamble)
+  //   2. Plain ``` ... ``` fences
+  //   3. Raw JSON with no fences but surrounded by prose
+  //   4. Clean JSON with no wrapping at all
+  function extractJson(raw) {
+    // Strategy 1: code fence with optional "json" tag (handles preamble text before fence)
+    const fenceMatch = raw.match(/```(?:json)?\s*([\s\S]*?)```/i);
+    if (fenceMatch) return fenceMatch[1].trim();
+
+    // Strategy 2: find the outermost { ... } block (handles inline prose)
+    const start = raw.indexOf('{');
+    const end = raw.lastIndexOf('}');
+    if (start !== -1 && end > start) return raw.slice(start, end + 1).trim();
+
+    // Strategy 3: return as-is and let JSON.parse decide
+    return raw;
+  }
+
+  const jsonStr = extractJson(text);
 
   let data;
   try {
