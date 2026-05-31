@@ -1,6 +1,6 @@
 {
-  "scanTime": "2026-05-31T17:02:48.004Z",
-  "elapsedSeconds": 49,
+  "scanTime": "2026-05-31T18:43:54.874Z",
+  "elapsedSeconds": 49.7,
   "changesDetected": 1,
   "errors": 40,
   "changes": [
@@ -8,10 +8,14 @@
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-05-31T17:02:17.256Z"
+      "detectedAt": "2026-05-31T18:43:22.721Z"
     }
   ],
   "errorDetails": [
+    {
+      "site": "SSC",
+      "error": "Timeout"
+    },
     {
       "site": "UPSC",
       "error": "Timeout"
@@ -19,7 +23,7 @@
     {
       "site": "SBI Careers",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "error": ""
+      "error": "Timeout"
     },
     {
       "site": "NABARD",
@@ -44,11 +48,6 @@
     {
       "site": "Air Force",
       "url": "https://afcat.cdac.in/AFCAT/",
-      "error": "Timeout"
-    },
-    {
-      "site": "CRPF",
-      "url": "https://crpf.gov.in/",
       "error": "Timeout"
     },
     {
