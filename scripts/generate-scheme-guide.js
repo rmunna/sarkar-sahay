@@ -90,19 +90,34 @@ function guideExists(slug) {
 }
 
 /**
- * Fetch PIB press release page text (strip HTML tags).
+ * Fetch PIB/RBI press release page text (strip HTML tags).
  * Falls back gracefully if the page is unreachable.
+ *
+ * Key hardening:
+ *  - Always upgrades HTTP → HTTPS for rbi.org.in and pib.gov.in
+ *    (their HTTP URLs return 404 or hang in CI environments)
+ *  - Hard wall-clock timeout via Promise.race so the caller is never blocked
+ *  - Handles response stream errors explicitly
  */
 function fetchPageText(urlStr) {
-  return new Promise((resolve) => {
+  // Upgrade to HTTPS for known domains that require it
+  let normalizedUrl = urlStr
+    .replace('http://www.rbi.org.in', 'https://www.rbi.org.in')
+    .replace('http://rbi.org.in', 'https://rbi.org.in')
+    .replace('http://pib.gov.in', 'https://pib.gov.in')
+    .replace('http://www.pib.gov.in', 'https://www.pib.gov.in');
+
+  const HARD_TIMEOUT_MS = 10000;  // never wait more than 10s total
+
+  const fetchPromise = new Promise((resolve) => {
     try {
-      const parsed = new URL(urlStr);
+      const parsed = new URL(normalizedUrl);
       const client = parsed.protocol === 'https:' ? https : http;
       const options = {
         hostname: parsed.hostname,
         path: parsed.pathname + parsed.search,
         method: 'GET',
-        timeout: 12000,
+        timeout: 8000,
         headers: {
           'User-Agent': 'Mozilla/5.0 (compatible; CitizenNestBot/1.0; +https://citizennest.com)',
           'Accept': 'text/html,application/xhtml+xml',
@@ -110,7 +125,7 @@ function fetchPageText(urlStr) {
         },
       };
       const req = client.request(options, (res) => {
-        // Follow one redirect
+        // Follow one redirect (using the normalized HTTPS strategy)
         if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
           fetchPageText(res.headers.location).then(resolve);
           return;
@@ -118,6 +133,7 @@ function fetchPageText(urlStr) {
         let raw = '';
         res.setEncoding('utf8');
         res.on('data', chunk => { raw += chunk; if (raw.length > 80000) req.destroy(); });
+        res.on('error', () => resolve(''));
         res.on('end', () => {
           // Strip HTML — keep visible text
           const text = raw
@@ -131,7 +147,7 @@ function fetchPageText(urlStr) {
             .replace(/&quot;/g, '"')
             .replace(/\s{2,}/g, ' ')
             .trim()
-            .slice(0, 6000);   // cap at 6000 chars — enough context for Gemini
+            .slice(0, 6000);
           resolve(text);
         });
       });
@@ -142,6 +158,12 @@ function fetchPageText(urlStr) {
       resolve('');
     }
   });
+
+  // Hard wall-clock timeout — fetchPromise wins if it finishes first
+  const timeoutPromise = new Promise(resolve =>
+    setTimeout(() => resolve(''), HARD_TIMEOUT_MS)
+  );
+  return Promise.race([fetchPromise, timeoutPromise]);
 }
 
 /**
