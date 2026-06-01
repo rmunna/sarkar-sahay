@@ -1,6 +1,6 @@
 ---
-title: "KPSC FDA SDA 2026 — SDA Full Form, ₹34,100 Salary, Eligibility & Apply Online"
-description: "SDA = Second Division Assistant (PUC pass, ₹34,100–₹67,600). FDA = First Division Assistant (degree, ₹44,425–₹83,700). KPSC FDA SDA 2026: vacancies, eligibility, exam pattern, syllabus & how to apply at kpsc.kar.nic.in."
+title: "KPSC FDA SDA Recruitment 2026 — Apply Online, ₹34,100 Salary, Eligibility & Syllabus"
+description: "KPSC/KEA FDA SDA 2026 recruitment notification released. SDA: PUC pass, ₹34,100–₹67,600/month. FDA: Graduate, ₹44,425–₹83,700/month. Latest vacancies, online application last date, exam pattern, syllabus & step-by-step apply guide at kpsc.kar.nic.in."
 category: "Jobs & Exams"
 keywords:
   - sda full form

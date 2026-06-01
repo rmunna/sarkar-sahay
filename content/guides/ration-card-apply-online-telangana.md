@@ -1,6 +1,6 @@
 ---
-title: "Telangana Ration Card Apply Online 2026 — EPDS, MeeSeva & Status Check"
-description: "Apply for new ration card in Telangana online via MeeSeva (ts.meeseva.gov.in) or EPDS Telangana. Ration card types (Rice card/AAY/PHH), eligibility, documents, status check, and helpline 1967."
+title: "Telangana Ration Card Apply Online 2026 — 6 kg FREE Rice, MeeSeva, Eligibility & Status"
+description: "Apply for Telangana ration card at ts.meeseva.gov.in — no office visit. PHH/Rice card = 6 kg rice/unit/month at just ₹1/kg. AAY card = 35 kg free. Documents needed, step-by-step apply process, status check & helpline 1967."
 category: "Food & Ration"
 keywords:
   - telangana ration card apply online 2026

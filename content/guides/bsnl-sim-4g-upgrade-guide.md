@@ -1,6 +1,6 @@
 ---
-title: "BSNL Free 4G SIM Upgrade 2026 — Swap at BSNL Store or CSC in 2 Steps"
-description: "BSNL 4G SIM upgrade is free — no charge to change number. Visit BSNL office, CSC centre, or use BSNL Self Care app. Keep your existing number, activate within 24 hours. Documents: Aadhaar + old SIM."
+title: "BSNL New SIM Price 2026 — Free 4G Upgrade, Port to BSNL & Keep Your Number"
+description: "BSNL SIM available at ₹20–₹100 depending on plan. 4G SIM upgrade is completely FREE — visit any BSNL office or CSC, keep your existing number. Port from Airtel/Jio in 7 days. Docs: Aadhaar + old SIM."
 category: Utilities
 keywords:
   - bsnl 4g sim upgrade
