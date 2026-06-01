@@ -57,7 +57,7 @@
       "lastChanged": "2026-03-01T02:46:19.512Z"
     },
     "ssc:notices": {
-      "lastChecked": "2026-06-01T17:29:24.197Z",
+      "lastChecked": "2026-06-01T21:08:44.076Z",
       "noticeIds": [
         "hvcvnq6iuo746xj9qe5g4",
         "82liqxb6q7v0m8s0jg65w",
@@ -82,7 +82,7 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-06-01T17:29:28.536Z",
+      "lastChecked": "2026-06-01T21:08:47.840Z",
       "noticeIds": [
         "20260601213649",
         "20260601213514",
@@ -806,8 +806,8 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-06-01T17:29:36.894Z",
-      "contentHash": "6bc4b5ebe4d7ffe4b8a7da47983193b5",
+      "lastChecked": "2026-06-01T21:08:56.436Z",
+      "contentHash": "b4b54941c71169407f46ea688622067f",
       "pdfHash": "14732563d46631835f47078a967da1b1",
       "pdfs": [
         "https://www.ibps.in/wp-content/uploads/IBPS-Notification-Fraud-Websites-27April26.pdf",
@@ -1238,7 +1238,7 @@
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-06-01T17:29:36.291Z",
+      "lastChecked": "2026-06-01T21:08:55.551Z",
       "contentHash": "d73d6b3ca9ca2cec845a9eb5d6b217b9",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
       "pdfs": [
@@ -1259,8 +1259,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-06-01T17:29:36.092Z",
-      "contentHash": "ef81423a057f6ce69a91de8d28502faf",
+      "lastChecked": "2026-06-01T21:08:55.536Z",
+      "contentHash": "22b4af74de8033c7754fa51362a340b5",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "pdfs": [
         "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
@@ -1411,7 +1411,7 @@
       ]
     },
     "ugc:hash": {
-      "lastChecked": "2026-06-01T17:29:54.980Z",
+      "lastChecked": "2026-06-01T21:09:09.829Z",
       "contentHash": "afd68862fdf99c50e8d36a196d1afb9a",
       "pdfHash": "95dd0e41cad4c36bd545cf906a567d8b",
       "pdfs": [
@@ -1535,7 +1535,7 @@
       ]
     },
     "cuet:hash": {
-      "lastChecked": "2026-06-01T17:29:57.398Z",
+      "lastChecked": "2026-06-01T21:09:12.258Z",
       "contentHash": "7f61bf754629001fa57fcbffd90f2644",
       "pdfHash": "072b9f2d41e95875cecbe42053f0acae",
       "pdfs": [
@@ -1839,7 +1839,7 @@
       ]
     },
     "ignou:hash": {
-      "lastChecked": "2026-06-01T17:29:58.159Z",
+      "lastChecked": "2026-06-01T21:09:14.632Z",
       "contentHash": "059819306b891066717d6bfe47f86493",
       "pdfHash": "af84736a61ff48e2daf9d78fd5394f2a",
       "pdfs": [
@@ -2020,7 +2020,7 @@
       ]
     },
     "ukpsc:hash": {
-      "lastChecked": "2026-06-01T17:30:08.911Z",
+      "lastChecked": "2026-06-01T21:09:27.615Z",
       "contentHash": "29183ec5cee976219d1fa1ec8bb74947",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
@@ -2130,7 +2130,7 @@
       ]
     },
     "rrb:hash": {
-      "lastChecked": "2026-06-01T17:29:37.754Z",
+      "lastChecked": "2026-06-01T21:08:57.607Z",
       "contentHash": "fbf3cd436f1cf174fd7a34dda6a1a77b",
       "pdfHash": "4047598c041d0084871d607ac3adfca3",
       "pdfs": [
@@ -2726,5 +2726,5 @@
       ]
     }
   },
-  "lastScan": "2026-06-01T17:30:30.500Z"
+  "lastScan": "2026-06-01T21:09:32.969Z"
 }
