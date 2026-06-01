@@ -1,132 +1,152 @@
 {
-  "scanTime": "2026-06-01T04:32:35.871Z",
-  "elapsedSeconds": 38.3,
-  "changesDetected": 18,
-  "errors": 9,
+  "scanTime": "2026-06-01T11:43:58.758Z",
+  "elapsedSeconds": 59.9,
+  "changesDetected": 13,
+  "errors": 22,
   "changes": [
     {
+      "site": "IBPS",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://www.ibps.in/wp-content/uploads/IBPS-Notification-Fraud-Websites-27April26.pdf",
+      "url": "https://www.ibps.in/",
+      "detectedAt": "2026-06-01T11:43:12.521Z"
+    },
+    {
       "site": "SBI Careers",
-      "type": "CONTENT_CHANGE",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://bank.sbi/documents/77530/52947104/01062026_SCO_21_Select+list.pdf/da9d4d12-6480-1ef6-195d-94611ead1fd8?t=1780311796333",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-06-01T04:32:02.004Z"
+      "detectedAt": "2026-06-01T11:43:13.894Z"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-01T04:32:01.457Z"
+      "detectedAt": "2026-06-01T11:43:11.722Z"
     },
     {
-      "site": "NABARD",
-      "type": "CONTENT_CHANGE",
-      "url": "https://www.nabard.org/career-notices.aspx",
-      "detectedAt": "2026-06-01T04:32:02.351Z"
+      "site": "RRB (Railway)",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://www.rrbcdg.gov.in/uploads/2025/07-NTPCUG/072025NTPCUG-CBT1_RevisedSchedule-Hi.pdf",
+      "url": "https://www.rrbcdg.gov.in/",
+      "detectedAt": "2026-06-01T11:43:13.340Z"
     },
     {
-      "site": "Indian Army",
-      "type": "CONTENT_CHANGE",
-      "url": "https://joinindianarmy.nic.in/",
-      "detectedAt": "2026-06-01T04:32:01.731Z"
+      "site": "RRB (Railway)",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://www.rrbcdg.gov.in/uploads/2025/07-NTPCUG/072025NTPCUG-CBT1_RevisedSchedule.pdf",
+      "url": "https://www.rrbcdg.gov.in/",
+      "detectedAt": "2026-06-01T11:43:13.340Z"
     },
     {
-      "site": "Indian Navy",
-      "type": "CONTENT_CHANGE",
-      "url": "https://www.joinindiannavy.gov.in/",
-      "detectedAt": "2026-06-01T04:32:02.054Z"
+      "site": "CRPF",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://crpf.gov.in/Upload/Document/208%20cobra%2053032026-832.pdf",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-06-01T11:43:23.624Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-01T04:32:07.106Z"
+      "detectedAt": "2026-06-01T11:43:20.736Z"
     },
     {
       "site": "BSF",
       "type": "CONTENT_CHANGE",
       "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-06-01T04:32:06.580Z"
+      "detectedAt": "2026-06-01T11:43:20.875Z"
     },
     {
-      "site": "ITBP",
+      "site": "CBSE",
       "type": "CONTENT_CHANGE",
-      "url": "https://recruitment.itbpolice.nic.in/",
-      "detectedAt": "2026-06-01T04:32:08.057Z"
+      "url": "https://www.cbse.gov.in/",
+      "detectedAt": "2026-06-01T11:43:20.177Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-01T04:32:08.602Z"
-    },
-    {
-      "site": "NVS (Navodaya)",
-      "type": "CONTENT_CHANGE",
-      "url": "https://navodaya.gov.in/",
-      "detectedAt": "2026-06-01T04:32:09.419Z"
+      "detectedAt": "2026-06-01T11:43:24.170Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-01T04:32:10.695Z"
+      "detectedAt": "2026-06-01T11:43:28.108Z"
     },
     {
-      "site": "RPSC",
-      "type": "CONTENT_CHANGE",
-      "url": "https://rpsc.rajasthan.gov.in/",
-      "detectedAt": "2026-06-01T04:32:10.584Z"
-    },
-    {
-      "site": "TNPSC",
-      "type": "CONTENT_CHANGE",
-      "url": "https://www.tnpsc.gov.in/",
-      "detectedAt": "2026-06-01T04:32:10.653Z"
-    },
-    {
-      "site": "KPSC/KEA",
-      "type": "CONTENT_CHANGE",
-      "url": "https://cetonline.karnataka.gov.in/kea/",
-      "detectedAt": "2026-06-01T04:32:15.737Z"
-    },
-    {
-      "site": "GPSC",
-      "type": "CONTENT_CHANGE",
-      "url": "https://gpsc.gujarat.gov.in/",
-      "detectedAt": "2026-06-01T04:32:16.559Z"
-    },
-    {
-      "site": "HPSC",
-      "type": "CONTENT_CHANGE",
-      "url": "https://www.hpsc.gov.in/",
-      "detectedAt": "2026-06-01T04:32:16.631Z"
-    },
-    {
-      "site": "DSSSB",
-      "type": "CONTENT_CHANGE",
-      "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-06-01T04:32:21.299Z"
+      "site": "MPPSC",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Internal_Accounts_Examiner_Officer_2024_Dated_01_06_2026.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-06-01T11:43:27.469Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-01T04:32:21.114Z"
+      "detectedAt": "2026-06-01T11:43:41.465Z"
     }
   ],
   "errorDetails": [
     {
-      "site": "RRB (Railway)",
-      "url": "https://www.rrbcdg.gov.in/",
+      "site": "UPSC",
+      "error": "Timeout"
+    },
+    {
+      "site": "NABARD",
+      "url": "https://www.nabard.org/career-notices.aspx",
+      "error": "Timeout"
+    },
+    {
+      "site": "Indian Army",
+      "url": "https://joinindianarmy.nic.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "Indian Navy",
+      "url": "https://www.joinindiannavy.gov.in/",
       "error": "Timeout"
     },
     {
       "site": "Air Force",
       "url": "https://afcat.cdac.in/AFCAT/",
-      "error": "HTTP 503"
+      "error": "Timeout"
+    },
+    {
+      "site": "ITBP",
+      "url": "https://recruitment.itbpolice.nic.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "NVS (Navodaya)",
+      "url": "https://navodaya.gov.in/",
+      "error": ""
     },
     {
       "site": "BPSC",
       "url": "https://www.bpsc.bih.nic.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "RPSC",
+      "url": "https://rpsc.rajasthan.gov.in/",
+      "error": ""
+    },
+    {
+      "site": "TNPSC",
+      "url": "https://www.tnpsc.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "KPSC/KEA",
+      "url": "https://cetonline.karnataka.gov.in/kea/",
+      "error": "Timeout"
+    },
+    {
+      "site": "APPSC",
+      "url": "https://psc.ap.gov.in/",
       "error": "Timeout"
     },
     {
@@ -137,6 +157,26 @@
     {
       "site": "WBPSC",
       "url": "https://wbpsc.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "GPSC",
+      "url": "https://gpsc.gujarat.gov.in/",
+      "error": ""
+    },
+    {
+      "site": "HPSC",
+      "url": "https://www.hpsc.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "CGPSC",
+      "url": "https://psc.cg.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "DSSSB",
+      "url": "https://dsssb.delhi.gov.in/",
       "error": "Timeout"
     },
     {
