@@ -101,9 +101,19 @@ jobs:
             echo "new_count=$NEW" >> $GITHUB_OUTPUT
             echo "✅ Pushed $NEW new scheme guide(s)"
           else
-            git restore --staged agents/pib-latest.json agents/pib-tracker.json 2>/dev/null || true
             echo "new_count=0" >> $GITHUB_OUTPUT
-            echo "No new scheme guides — nothing to commit"
+            echo "No new scheme guides"
+            # Always commit tracker so seen items aren't reprocessed tomorrow
+            git restore --staged content/guides/ 2>/dev/null || true
+            if ! git diff --staged --quiet; then
+              git commit -m "chore: update PIB scan tracker [skip ci] [$(date +'%Y-%m-%d')]"
+              git pull --rebase origin main || true
+              git push
+              echo "✅ Tracker committed (prevents duplicate processing)"
+            else
+              git restore --staged agents/pib-latest.json agents/pib-tracker.json 2>/dev/null || true
+              echo "No tracker changes — nothing to commit"
+            fi
           fi
 
       # ── Step 4: Regenerate sitemap ───────────────────────────────────────────

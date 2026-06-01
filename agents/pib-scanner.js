@@ -79,12 +79,21 @@ const SKIP_KEYWORDS = [
   'responsible business conduct', 'resolution of stressed assets',
   'all india financial institutions', 'regional rural banks',
   'non-banking financial companies',
+  // RBI bank accounting / capital / portfolio standards (not citizen-facing)
+  'financial statements: presentation and disclosures',
+  'financial statements: presentation',
+  'prudential norms on capital adequacy', 'capital adequacy',
+  'classification, valuation, and operation of investment portfolio',
+  'valuation, and operation of investment',
+  'local area banks',
   // Bank mergers/amalgamations
   'voluntary amalgamation', 'amalgamation of',
   // Infrastructure inaugurations (not welfare schemes)
   'औद्योगिक पार्क', 'industrial park', 'industrial corridor',
   // Review meetings (not new schemes)
-  'समीक्षा बैठक', 'review meeting', 'review of schemes',
+  'समीक्षा बैठक', 'समीक्षा की', 'review meeting', 'review of schemes',
+  // Conferences / summits (not scheme launches)
+  'राष्ट्रीय सम्मेलन', 'national conference', 'महासम्मेलन',
   // Defence
   'रक्षा मंत्री', 'naval', 'defence minister',
 ];
