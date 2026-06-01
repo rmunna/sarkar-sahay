@@ -35,6 +35,8 @@ You are scanning for new government job notifications, exam updates, admit cards
       ```
       message(action=send, channel=telegram, accountId=midas, target=@citizennest, message=...)
       ```
+      ⚠️  ONLY post exam and job notifications — NOT government schemes, NOT citizen service guides.
+      The Telegram channel is dedicated to Jobs & Exams only.
       Format: 🔴 **[Exam Name] [Stage]** — [key detail e.g. "14,582 vacancies" or "Result declared"]
       Last date/result date + direct link: citizennest.com/update/{slug}
       Example: 🔴 **SSC CGL 2026 Notification** — 14,582 vacancies. Apply by March 15.

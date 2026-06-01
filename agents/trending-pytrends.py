@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
 CitizenNest Trending Scanner — Category-based approach
-Monitors Google Trends RISING queries in Jobs (958) and Education (174) categories.
-Catches what's actually trending without needing hardcoded terms.
+Monitors Google Trends RISING queries in:
+  - Jobs (958) and Education (174) categories → exam/recruitment spikes
+  - Government (17) category → trending citizen services and schemes
 
 Usage: python3 agents/trending-pytrends.py
 Output: agents/trending-pytrends.json
@@ -40,7 +41,11 @@ SPIKE_THRESHOLD = 200
 CATEGORIES = [
     (958, 'Jobs'),
     (174, 'Education'),
+    (17,  'Government'),   # Citizen services, government schemes, portals
 ]
+
+# Categories where a trending query signals a scheme/service (no Telegram post)
+SCHEME_CATEGORIES = {'Government'}
 
 # Skip patterns — stuff we don't create guides for
 SKIP_PATTERNS = [
@@ -54,9 +59,10 @@ SKIP_PATTERNS = [
 
 # Citizen-relevant patterns — things we DO want
 RELEVANT_PATTERNS = [
+    # Exam / job
     'result', 'admit card', 'recruitment', 'vacancy', 'notification',
     'sarkari', 'exam', 'apply', 'login', 'status', 'download',
-    'scheme', 'yojana', 'portal', 'registration', 'form',
+    'registration', 'form',
     'ssc', 'upsc', 'neet', 'jee', 'kvs', 'nvs', 'cbse', 'icai',
     'rbse', 'bser', 'ctet', 'rrb', 'ibps', 'sbi', 'rbi',
     'bpsc', 'uppsc', 'tnpsc', 'kpsc', 'mppsc', 'rpsc',
@@ -64,8 +70,13 @@ RELEVANT_PATTERNS = [
     'sainik', 'navodaya', 'kendriya', 'ignou', 'university',
     'deled', 'bed', 'nta', 'ugc', 'gate', 'cuet', 'clat',
     'uan', 'epf', 'pan card', 'aadhaar', 'passport', 'voter',
-    'ration', 'pension', 'scholarship', 'loan', 'subsidy',
-    'railway', 'fastag', 'electricity', 'msbte', 'dsssb',
+    'railway', 'fastag', 'msbte', 'dsssb',
+    # Scheme / citizen service (Government category)
+    'scheme', 'yojana', 'portal', 'ration', 'pension', 'scholarship',
+    'loan', 'subsidy', 'electricity', 'pm kisan', 'pmkisan', 'kisan',
+    'ayushman', 'ujjwala', 'mudra', 'pmay', 'awas', 'ujala',
+    'jan dhan', 'jandhan', 'svamitva', 'ladli', 'kanya',
+    'beneficiary', 'eligibility', 'list', 'ekyc', 'e-kyc',
 ]
 
 
@@ -123,6 +134,7 @@ def main():
                             'rising_value': value,
                             'guide_exists': guide,
                             'is_spike': is_spike(query, value),
+                            'is_scheme': cat_name in SCHEME_CATEGORIES,
                         })
             time.sleep(1)
         except Exception as e:
@@ -159,12 +171,27 @@ def main():
     if not unique:
         print("  No relevant rising queries found.")
 
-    spike_candidates = [x for x in unique if x.get('is_spike') and not x['guide_exists']]
+    # spike_candidates = exam/job only (Jobs + Education categories) — goes to Telegram via spike-detector
+    spike_candidates = [
+        x for x in unique
+        if x.get('is_spike') and not x['guide_exists'] and not x.get('is_scheme')
+    ]
+
+    # scheme_opportunities = Government category trends without a guide — separate pipeline, NO Telegram
+    scheme_opportunities = [
+        x for x in unique
+        if x.get('is_scheme') and not x['guide_exists']
+    ]
 
     if spike_candidates:
-        print(f"\n🚨 SPIKE CANDIDATES ({len(spike_candidates)} — imminent traffic events):\n")
+        print(f"\n🚨 SPIKE CANDIDATES ({len(spike_candidates)} — exam/job, will post to Telegram):\n")
         for s in spike_candidates:
             print(f"  🔥 {s['topic']} (rising: {s['rising_value']}, cat: {s['category']})")
+
+    if scheme_opportunities:
+        print(f"\n🏛  SCHEME OPPORTUNITIES ({len(scheme_opportunities)} — Government cat, no guide yet):\n")
+        for s in scheme_opportunities:
+            print(f"  📋 {s['topic']} (rising: {s['rising_value']})")
 
     # Save JSON
     output = {
@@ -172,7 +199,8 @@ def main():
         'results': unique,
         'opportunities': opportunities,
         'covered': covered,
-        'spike_candidates': spike_candidates,
+        'spike_candidates': spike_candidates,        # exam/job only — triggers Telegram
+        'scheme_opportunities': scheme_opportunities,  # Government cat — handled by scheme-detector
     }
     with open(OUT_PATH, 'w') as f:
         json.dump(output, f, indent=2)

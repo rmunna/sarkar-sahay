@@ -48,7 +48,7 @@ jobs:
 
       # ── Step 1: Query Google Trends for rising exam/job queries ──────────
 
-      - name: Scan rising trends (Jobs + Education categories)
+      - name: Scan rising trends (Jobs + Education + Government categories)
         id: trends
         run: |
           python3 agents/trending-pytrends.py
@@ -87,6 +87,7 @@ jobs:
             git commit -m "content: auto-add ${NEW} spike page(s) from Google Trends [$(date +'%Y-%m-%d')]
 
             Source: trending-pytrends.py (Jobs cat 958 + Education cat 174)
+            Note: Government cat (17) scheme_opportunities handled by scheme-detector.yml
             Spike threshold: 200%+ rising"
             git pull --rebase origin main || true
             git push

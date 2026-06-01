@@ -1,0 +1,157 @@
+name: Scheme Detector — PIB RSS → Auto-Generate Guides
+
+# Runs daily at 9:00 AM IST (3:30 UTC) — catches morning government announcements
+# Also triggered manually for on-demand runs.
+#
+# Pipeline:
+#   PIB RSS (ministry-specific) → pib-scanner.js → generate-scheme-guide.js → content/guides/
+#
+# NOTE: No Telegram notification — Telegram channel @citizennest is for Jobs & Exams only.
+# Scheme guides are indexed and published silently.
+
+on:
+  schedule:
+    - cron: '30 3 * * *'   # 9:00 AM IST daily
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (detect schemes but do not write files)'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  detect-and-generate:
+    name: Detect New Schemes & Generate Guides
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4.2.2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4.4.0
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install Node dependencies
+        run: npm ci --prefer-offline
+
+      # ── Step 1: Scan PIB + RBI RSS for new scheme announcements ─────────────
+
+      - name: Scan PIB RSS feeds
+        id: pib_scan
+        run: |
+          node agents/pib-scanner.js
+
+          # Count scheme-type items (NEW_SCHEME_OR_LAUNCH + POLICY_CHANGE)
+          SCHEME_COUNT=$(node -e "
+            try {
+              const d = JSON.parse(require('fs').readFileSync('./agents/pib-latest.json','utf8'));
+              const items = (d.items || []).filter(i =>
+                i.category === 'NEW_SCHEME_OR_LAUNCH' || i.category === 'POLICY_CHANGE'
+              );
+              console.log(items.length);
+            } catch(e) { console.log(0); }
+          ")
+          echo "scheme_count=$SCHEME_COUNT" >> $GITHUB_OUTPUT
+          echo "has_schemes=$([ $SCHEME_COUNT -gt 0 ] && echo true || echo false)" >> $GITHUB_OUTPUT
+          echo "Scheme announcements found: $SCHEME_COUNT"
+
+      # ── Step 2: Generate guides for new schemes ──────────────────────────────
+      # Uses Gemini — ACCURACY ENFORCED:
+      #   - Fetches actual PIB press release text as ground truth
+      #   - Forbids fabricating dates, amounts, or eligibility criteria
+      #   - Only .gov.in / .nic.in official links allowed
+
+      - name: Generate scheme guides with Gemini
+        if: steps.pib_scan.outputs.has_schemes == 'true'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          ARGS=""
+          [ "${{ github.event.inputs.dry_run }}" = "true" ] && ARGS="--dry-run"
+          node scripts/generate-scheme-guide.js $ARGS
+
+      # ── Step 3: Commit new guides ────────────────────────────────────────────
+
+      - name: Commit and push scheme guides
+        id: commit
+        run: |
+          git config user.name "CitizenNest Bot"
+          git config user.email "bot@citizennest.com"
+          git add content/guides/ agents/pib-latest.json agents/pib-tracker.json || true
+          NEW=$(git diff --staged --name-only | grep 'content/guides/' | wc -l | tr -d ' ')
+          if [ "$NEW" -gt 0 ]; then
+            git commit -m "content: add ${NEW} new scheme guide(s) from PIB [$(date +'%Y-%m-%d')]
+
+            Source: PIB RSS (ministry-specific feeds)
+            Accuracy: verified from press release text + official .gov.in links
+            Telegram: NOT posted (Jobs & Exams channel only)"
+            git pull --rebase origin main || true
+            git push
+            echo "new_count=$NEW" >> $GITHUB_OUTPUT
+            echo "✅ Pushed $NEW new scheme guide(s)"
+          else
+            git restore --staged agents/pib-latest.json agents/pib-tracker.json 2>/dev/null || true
+            echo "new_count=0" >> $GITHUB_OUTPUT
+            echo "No new scheme guides — nothing to commit"
+          fi
+
+      # ── Step 4: Regenerate sitemap ───────────────────────────────────────────
+
+      - name: Regenerate sitemap
+        if: steps.commit.outputs.new_count > 0
+        run: |
+          npx tsx scripts/generate-sitemap.ts
+          git config user.name "CitizenNest Bot"
+          git config user.email "bot@citizennest.com"
+          git add public/sitemap.xml public/sitemap-index.xml || true
+          git diff --staged --quiet || (
+            git commit -m "chore: regenerate sitemap after new scheme guides" &&
+            git pull --rebase origin main || true &&
+            git push
+          ) || true
+
+      # ── Step 5: Submit to indexing APIs ─────────────────────────────────────
+      # Fast indexing = scheme guide ranks before any competitor covers it
+
+      - name: Submit new guides to Google Indexing API
+        if: steps.commit.outputs.new_count > 0
+        env:
+          GOOGLE_INDEXING_KEY: ${{ secrets.GOOGLE_INDEXING_KEY }}
+        run: |
+          if [ -f "agents/.newly-generated-scheme-slugs" ]; then
+            while IFS= read -r slug; do
+              node scripts/google-index-submit.js "https://www.citizennest.com/guide/$slug" || true
+            done < agents/.newly-generated-scheme-slugs
+            rm -f agents/.newly-generated-scheme-slugs
+          fi
+
+      - name: Submit to IndexNow (Bing + Yandex)
+        if: steps.commit.outputs.new_count > 0
+        run: node scripts/submit-indexnow.js || true
+
+      # ── NO Telegram step — scheme content is NOT posted to @citizennest ─────
+      # Telegram channel is for Jobs & Exam updates only.
+
+      # ── Summary ──────────────────────────────────────────────────────────────
+
+      - name: Job Summary
+        if: always()
+        run: |
+          echo "## 🏛 Scheme Detector Run" >> $GITHUB_STEP_SUMMARY
+          echo "| | |" >> $GITHUB_STEP_SUMMARY
+          echo "|---|---|" >> $GITHUB_STEP_SUMMARY
+          echo "| PIB scheme announcements found | ${{ steps.pib_scan.outputs.scheme_count || 0 }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| New scheme guides generated | ${{ steps.commit.outputs.new_count || 0 }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Telegram notification | ❌ Not sent (Jobs & Exams only) |" >> $GITHUB_STEP_SUMMARY
+          echo "| Run time (UTC) | $(date -u) |" >> $GITHUB_STEP_SUMMARY

@@ -199,10 +199,12 @@ async function main() {
   }
 
   const pytrends = JSON.parse(fs.readFileSync(PYTRENDS_PATH, 'utf8'));
-  const raw = pytrends.spike_candidates || [];
+  // ONLY process Jobs/Education spikes — Government category is handled by scheme-detector workflow
+  // (no Telegram posting for scheme content)
+  const raw = (pytrends.spike_candidates || []).filter(c => !c.is_scheme);
 
   if (raw.length === 0) {
-    log('✅ No spike candidates found — nothing to generate');
+    log('✅ No exam/job spike candidates found — nothing to generate');
     return;
   }
 
