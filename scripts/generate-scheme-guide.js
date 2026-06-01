@@ -221,11 +221,23 @@ Return ONLY a JSON object with these fields (no prose, no code fences, no conten
     throw new Error(`Metadata JSON parse failed. Preview: ${metaText.slice(0, 300)}`);
   }
 
+  // Normalize http → https for known domains in officialLinks
+  if (metadata.officialLinks) {
+    metadata.officialLinks = metadata.officialLinks.map(l =>
+      l.replace(/^http:\/\/(www\.)?rbi\.org\.in/i, 'https://www.rbi.org.in')
+       .replace(/^http:\/\/(www\.)?pib\.gov\.in/i, 'https://pib.gov.in')
+       .replace(/^http:\/\/(www\.)?sebi\.gov\.in/i, 'https://www.sebi.gov.in')
+    );
+  }
+
   // Ensure officialLinks always contains the source URL — fallback if Gemini forgot it
+  const normalizedSource = item.link
+    .replace(/^http:\/\/(www\.)?rbi\.org\.in/i, 'https://www.rbi.org.in')
+    .replace(/^http:\/\/(www\.)?pib\.gov\.in/i, 'https://pib.gov.in');
   if (!metadata.officialLinks || metadata.officialLinks.length === 0) {
-    metadata.officialLinks = [item.link];
-  } else if (!metadata.officialLinks.includes(item.link)) {
-    metadata.officialLinks.unshift(item.link);  // source URL is always first
+    metadata.officialLinks = [normalizedSource];
+  } else if (!metadata.officialLinks.includes(normalizedSource) && !metadata.officialLinks.includes(item.link)) {
+    metadata.officialLinks.unshift(normalizedSource);  // source URL is always first
   }
 
   // Validate essential metadata fields

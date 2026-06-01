@@ -57,7 +57,7 @@
       "lastChanged": "2026-03-01T02:46:19.512Z"
     },
     "ssc:notices": {
-      "lastChecked": "2026-06-01T05:58:28.152Z",
+      "lastChecked": "2026-06-01T04:31:57.955Z",
       "noticeIds": [
         "hvcvnq6iuo746xj9qe5g4",
         "82liqxb6q7v0m8s0jg65w",
@@ -82,7 +82,7 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-06-01T05:58:35.586Z",
+      "lastChecked": "2026-06-01T04:31:59.744Z",
       "noticeIds": [
         "20260530182445",
         "20260529120905",
@@ -797,14 +797,14 @@
       ]
     },
     "upsc:whatsnew": {
-      "lastChecked": "2026-05-31T02:07:55.379Z",
+      "lastChecked": "2026-06-01T04:32:00.631Z",
       "pdfHash": "2be3fc569974a34ff19f44c1fe2d8cac",
       "pdfs": [
         "/sites/default/files/Common_Mistake_OMR_SAL.pdf"
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-06-01T05:58:44.329Z",
+      "lastChecked": "2026-06-01T04:32:02.264Z",
       "contentHash": "d6fc9758e0584f4ef8f60ee561f86ee1",
       "pdfHash": "f4afe66da877612ac4e077bfb2e9bc6e",
       "pdfs": [
@@ -814,8 +814,8 @@
       ]
     },
     "sbi:hash": {
-      "lastChecked": "2026-05-31T15:47:34.872Z",
-      "contentHash": "64780743d15e6cbaff5612d663d0b2f5",
+      "lastChecked": "2026-06-01T04:32:02.004Z",
+      "contentHash": "8374bfc7a937ac695eab76f77f04b242",
       "pdfHash": "971d6175597be3d91590d30157b537c8",
       "pdfs": [
         "https://bank.sbi/documents/77530/0/03122024-SCO_09_SELECT_LIST_RM.pdf/6807986c-7598-35dd-9ab8-682a8c8a1683?t=1733204687360",
@@ -1233,13 +1233,13 @@
       ]
     },
     "uppsc:hash": {
-      "lastChecked": "2026-06-01T05:59:03.761Z",
-      "contentHash": "788d2d4990ec262f79350f4d92f54600",
+      "lastChecked": "2026-06-01T04:32:10.695Z",
+      "contentHash": "caa384498622341fe3214f68415521b1",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-06-01T05:58:43.202Z",
+      "lastChecked": "2026-06-01T04:32:01.505Z",
       "contentHash": "d73d6b3ca9ca2cec845a9eb5d6b217b9",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
       "pdfs": [
@@ -1247,8 +1247,8 @@
       ]
     },
     "nabard:hash": {
-      "lastChecked": "2026-05-31T02:07:56.544Z",
-      "contentHash": "c637eab906ba5e8ea737f56d2585a9de",
+      "lastChecked": "2026-06-01T04:32:02.351Z",
+      "contentHash": "46ffafbb8455140b960f17e5f50a8090",
       "pdfHash": "9f726a189b6f0a53b9e6efbb4e96de4a",
       "pdfs": [
         "https://www.nabard.org/PDF/NABARD-ISO27001-ISMS-Certificate.pdf",
@@ -1260,8 +1260,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-06-01T05:58:43.129Z",
-      "contentHash": "4cd19c2722d51e621ae52478e9d0eab5",
+      "lastChecked": "2026-06-01T04:32:01.457Z",
+      "contentHash": "09d828d2145764db9a8c05960100a639",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "pdfs": [
         "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
@@ -1269,8 +1269,8 @@
       ]
     },
     "indiannavy:hash": {
-      "lastChecked": "2026-05-31T02:07:56.736Z",
-      "contentHash": "44fbcdd5a13f215e3d421d7b8ff6b84b",
+      "lastChecked": "2026-06-01T04:32:02.054Z",
+      "contentHash": "8df0de09cee11d62cbadade28327508d",
       "pdfHash": "8132c8e5d5805ffea440bd365d5e6502",
       "pdfs": [
         "https://www.joinindiannavy.gov.in/files/Advertisement_10+2_B.Tech_Jan_27.pdf",
@@ -1279,20 +1279,20 @@
       ]
     },
     "indianarmy:hash": {
-      "lastChecked": "2026-05-30T17:25:24.563Z",
-      "contentHash": "814bd357eaa654eebc817c5cbc916034",
+      "lastChecked": "2026-06-01T04:32:01.731Z",
+      "contentHash": "8cebc3c81b5769885e11caf600b00426",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "cbse:hash": {
-      "lastChecked": "2026-06-01T05:58:52.436Z",
+      "lastChecked": "2026-06-01T04:32:06.441Z",
       "contentHash": "397e41594c9f5800063d5a9fd1e70e7f",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "bsf:hash": {
-      "lastChecked": "2026-05-31T10:29:30.089Z",
-      "contentHash": "1606352d7865e02dfb6d779781e48503",
+      "lastChecked": "2026-06-01T04:32:06.580Z",
+      "contentHash": "c323bb31b571ddfd03ea3f3caefcb4d7",
       "pdfHash": "63d89b350a3b7d01d5a4a386b54fce7f",
       "pdfs": [
         "https://d3t79nicn48uzj.cloudfront.net/bsf/custom/1779709440.pdf",
@@ -1317,8 +1317,8 @@
       ]
     },
     "cisf:hash": {
-      "lastChecked": "2026-06-01T05:58:52.018Z",
-      "contentHash": "6768c0cbb3a19e65d362b47aefbb9138",
+      "lastChecked": "2026-06-01T04:32:07.106Z",
+      "contentHash": "994a075739035edfd1d62b7b7136e459",
       "pdfHash": "dcb8f9d4988ce1cb962ced406b83bc91",
       "pdfs": [
         "https://cisf.gov.in/assets/pdfs/2025/08/id_eng.pdf",
@@ -1340,7 +1340,7 @@
       "pdfCount": 0
     },
     "crpf:hash": {
-      "lastChecked": "2026-06-01T05:58:52.376Z",
+      "lastChecked": "2026-06-01T04:32:07.074Z",
       "contentHash": "b4ae50616a2c1981fe645a501a59a071",
       "pdfHash": "eebdd8689365da8c8d596fcd968f76b1",
       "pdfs": [
@@ -1365,16 +1365,14 @@
       ]
     },
     "itbp:hash": {
-      "lastChecked": "2026-05-31T02:08:02.546Z",
-      "contentHash": "aec1c09ca67c43a2ad43dcc32be57def",
-      "pdfHash": "a0b46430cdd3386e684c333679908ac4",
-      "pdfs": [
-        "https://recruitment.itbpolice.nic.in/rect/noticeboards/downloadpdf/349.pdf"
-      ]
+      "lastChecked": "2026-06-01T04:32:08.057Z",
+      "contentHash": "cd0041de910543f3c3a196c2186fc684",
+      "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
+      "pdfs": []
     },
     "kvs:hash": {
-      "lastChecked": "2026-05-31T10:29:36.504Z",
-      "contentHash": "ca699579889e450f45eaaf7eddbc6c39",
+      "lastChecked": "2026-06-01T04:32:08.602Z",
+      "contentHash": "63a44a86914edfad748879bc3cc961de",
       "pdfHash": "3b5e753b2f3d272f4442e5a30bd346be",
       "pdfs": [
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/11/2023112463.pdf",
@@ -1397,8 +1395,8 @@
       ]
     },
     "nvs:hash": {
-      "lastChecked": "2026-05-31T02:08:05.210Z",
-      "contentHash": "9aa06638397f81a07088efdc9ee86a6e",
+      "lastChecked": "2026-06-01T04:32:09.419Z",
+      "contentHash": "b55877b64527e28b5a8a34757e1cb014",
       "pdfHash": "27002441e9f34ba02daccb6e2a06100f",
       "pdfs": [
         "https://navodaya.gov.in/nvs/pdf-download-gallery/28507_Schedule_Trade-Test_MH_Website.pdf",
@@ -1415,7 +1413,7 @@
       ]
     },
     "ugc:hash": {
-      "lastChecked": "2026-06-01T05:58:58.664Z",
+      "lastChecked": "2026-06-01T04:32:10.150Z",
       "contentHash": "afd68862fdf99c50e8d36a196d1afb9a",
       "pdfHash": "95dd0e41cad4c36bd545cf906a567d8b",
       "pdfs": [
@@ -1443,8 +1441,8 @@
       ]
     },
     "mppsc:hash": {
-      "lastChecked": "2026-05-31T10:29:39.291Z",
-      "contentHash": "0ef9ca666eb3525fd791b8692e860b6e",
+      "lastChecked": "2026-06-01T04:32:10.359Z",
+      "contentHash": "aa3a078d604c8bec012aed20e8d03101",
       "pdfHash": "f98f345056707f1a04c6e1b9381f680d",
       "pdfs": [
         "https://mppsc.mp.gov.in/uploads/advertisement/Additional_Subjects_Assistant_Professor_Sanskrit_2025.pdf",
@@ -1510,8 +1508,8 @@
       ]
     },
     "tnpsc:hash": {
-      "lastChecked": "2026-05-31T02:08:06.574Z",
-      "contentHash": "d098a41deeb5a346baa4e77c255ba707",
+      "lastChecked": "2026-06-01T04:32:10.653Z",
+      "contentHash": "922093a415632ccf85d6c08c036e9927",
       "pdfHash": "e3a47f0431b9968c69a90cc121d0f5ad",
       "pdfs": [
         "https://www.tnpsc.gov.in/static_pdf/Governmentusers/CHECK_LIST_PDF_TNPSC_19112025.pdf",
@@ -1535,7 +1533,7 @@
       ]
     },
     "cuet:hash": {
-      "lastChecked": "2026-06-01T05:59:01.286Z",
+      "lastChecked": "2026-06-01T04:32:10.683Z",
       "contentHash": "b0423ba311e4934f824a5aecdfe6703d",
       "pdfHash": "85a7d6bb2a5a6075584b3d9527c4f0c0",
       "pdfs": [
@@ -1568,9 +1566,9 @@
       ]
     },
     "rpsc:hash": {
-      "lastChecked": "2026-05-31T02:08:07.421Z",
-      "contentHash": "faf09339e36abfcc6544abd04bfb9324",
-      "pdfHash": "7011645138a4d198d1da9fa6b0e2fd7b",
+      "lastChecked": "2026-06-01T04:32:10.584Z",
+      "contentHash": "2da135eeb310094ff1d734ae873bd416",
+      "pdfHash": "4cc5d2ff03173c5b03ef0d72de14f2ad",
       "pdfs": [
         "https://rpsc.rajasthan.gov.in/Static/AnswerKeys/107810A6-BAB9-4D75-8F8D-FDB2B847B7AC.pdf",
         "https://rpsc.rajasthan.gov.in/Static/AnswerKeys/19DD6674-0F42-46B9-A0E9-EBFFA180663E.pdf",
@@ -1755,7 +1753,6 @@
         "https://rpsc.rajasthan.gov.in/Static/Result/56DE08F6AACB43718D7523025F169E7A.pdf",
         "https://rpsc.rajasthan.gov.in/Static/Result/5BCD5C1E96D8418C8B3EB89DB60B2DB2.pdf",
         "https://rpsc.rajasthan.gov.in/Static/Result/5C8BD6BAA24A46CFA7285C3998ABE699.pdf",
-        "https://rpsc.rajasthan.gov.in/Static/Result/604A4CA888E84332BBB0F4701D44E95D.pdf",
         "https://rpsc.rajasthan.gov.in/Static/Result/608735F2E52242C48248612E16F75C14.pdf",
         "https://rpsc.rajasthan.gov.in/Static/Result/680C8DFEA4FC4D15A26E4E2232436A4C.pdf",
         "https://rpsc.rajasthan.gov.in/Static/Result/6A2214AE616E4AB988F6CEC2EB219340.pdf",
@@ -1763,7 +1760,6 @@
         "https://rpsc.rajasthan.gov.in/Static/Result/6C9FC5DA80584111838BEA2FF965A2B7.pdf",
         "https://rpsc.rajasthan.gov.in/Static/Result/6CEC3DCC64F346C6A3050825BA5DE3CA.pdf",
         "https://rpsc.rajasthan.gov.in/Static/Result/71017C97C8094900991C92ED3A3218B9.pdf",
-        "https://rpsc.rajasthan.gov.in/Static/Result/718ECEC57F1E4F31BF324BD6C2A97E94.pdf",
         "https://rpsc.rajasthan.gov.in/Static/Result/720BEB4C70F6455199C7EBF696DC7B8D.pdf",
         "https://rpsc.rajasthan.gov.in/Static/Result/72E41EAB9D7F4BA9A609580F4EAEDC50.pdf",
         "https://rpsc.rajasthan.gov.in/Static/Result/73191DD4CB3B4A83A6D3E1DEF7B647CC.pdf",
@@ -1829,7 +1825,6 @@
         "https://rpsc.rajasthan.gov.in/Static/Result/E6AD6CA78F4A4F79A0279DA10838A64A.pdf",
         "https://rpsc.rajasthan.gov.in/Static/Result/E8303D0DA0044BBA8AD7450EEE8B7720.pdf",
         "https://rpsc.rajasthan.gov.in/Static/Result/E86A42D877AD4E1C9446ADA6F6B3E041.pdf",
-        "https://rpsc.rajasthan.gov.in/Static/Result/EB7EF7836CED4873A536D3910ADC7036.pdf",
         "https://rpsc.rajasthan.gov.in/Static/Result/ED057D5604B548688DF4EAE56D283C56.pdf",
         "https://rpsc.rajasthan.gov.in/Static/Result/F70726CF4DC848CEAD7A23F251636D85.pdf",
         "https://rpsc.rajasthan.gov.in/Static/Result/F8D41EF1A07A4D3F8ACC42D5248A4C84.pdf",
@@ -1841,7 +1836,7 @@
       ]
     },
     "ignou:hash": {
-      "lastChecked": "2026-05-31T02:08:06.866Z",
+      "lastChecked": "2026-06-01T04:32:11.097Z",
       "contentHash": "059819306b891066717d6bfe47f86493",
       "pdfHash": "af84736a61ff48e2daf9d78fd5394f2a",
       "pdfs": [
@@ -1851,13 +1846,13 @@
       ]
     },
     "appsc:hash": {
-      "lastChecked": "2026-05-31T02:08:10.914Z",
+      "lastChecked": "2026-06-01T04:32:15.319Z",
       "contentHash": "e034af33a0999080e8190aa29abeb8d7",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "jpsc:hash": {
-      "lastChecked": "2026-06-01T05:59:08.211Z",
+      "lastChecked": "2026-06-01T04:32:15.618Z",
       "contentHash": "df5e0c39a35d88d4803d85579228bb68",
       "pdfHash": "c81cae127ad2cea7bedabdb4973b7f7d",
       "pdfs": [
@@ -1881,15 +1876,15 @@
       ]
     },
     "cgpsc:hash": {
-      "lastChecked": "2026-05-31T02:08:11.619Z",
+      "lastChecked": "2026-06-01T04:32:15.841Z",
       "contentHash": "0d6a1ddaab2ab85a541fe292eaf6917e",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "gpsc:hash": {
-      "lastChecked": "2026-05-31T02:08:12.081Z",
-      "contentHash": "c7985b2bc7599f3fbd57017c75d306a5",
-      "pdfHash": "741041ee96fd2f12ba9e2c00007376f6",
+      "lastChecked": "2026-06-01T04:32:16.559Z",
+      "contentHash": "bcf138f32090c457344e3abe7be0a4de",
+      "pdfHash": "59fdc028c4c6f65c87f94933de9471b8",
       "pdfs": [
         "http://gpsc.gujarat.gov.in/Archieved/pdf/Suggestion-of-Candidate-for-Provisional-Key-24-12-16.pdf",
         "http://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/2018-4-19_160.pdf",
@@ -1923,12 +1918,10 @@
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/IN-IP-31-08-2023.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/INA-28-154-202425.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/INC-15042026.pdf",
-        "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/INCD-01042026.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/INCD-110326.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/INCPTD-270426.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/INCRO-18-202627-290526.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/INCRRO-20262718.pdf",
-        "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/INDILR-12-11-2025.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/INDOPE.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/INDU-12__2026_27.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/INDU-15-2026-27.pdf",
@@ -1954,7 +1947,6 @@
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/INTCCD-13112025.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LECI-124-202425.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LECI-135-202425.pdf",
-        "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LICI-156-202425.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LICMA-8-202526.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LICPC-52-2024-25.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/NA-30012026F.pdf",
@@ -1982,8 +1974,8 @@
       ]
     },
     "hpsc:hash": {
-      "lastChecked": "2026-05-31T02:08:12.214Z",
-      "contentHash": "782d13916d0d49f62cd33bb5726fba1c",
+      "lastChecked": "2026-06-01T04:32:16.631Z",
+      "contentHash": "a106d38dd11eb1f218de603633fdd078",
       "pdfHash": "5c9b7bfb294e8250f3c08a1cb3ed2813",
       "pdfs": [
         "https://d14x4f1qlhs370.cloudfront.net/Rejected_OMR_HCS_Paper_II_CSAT_02.05.2026_Final.pdf",
@@ -2024,14 +2016,14 @@
       ]
     },
     "ukpsc:hash": {
-      "lastChecked": "2026-06-01T05:59:14.148Z",
+      "lastChecked": "2026-06-01T04:32:20.619Z",
       "contentHash": "29183ec5cee976219d1fa1ec8bb74947",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "up-board:hash": {
-      "lastChecked": "2026-06-01T05:59:16.820Z",
-      "contentHash": "423eefe7e9675fc8beb3c7fad43d0ea8",
+      "lastChecked": "2026-06-01T04:32:21.115Z",
+      "contentHash": "b84f1e7f0944b284c54e7fe3dd60e22a",
       "pdfHash": "b91f3fc51f4d570fd2da15c996ad5428",
       "pdfs": [
         "https://upmsp.edu.in/Downloads/Circular_2_04-04-2026.pdf",
@@ -2055,13 +2047,13 @@
       ]
     },
     "rbse:hash": {
-      "lastChecked": "2026-06-01T05:59:15.234Z",
+      "lastChecked": "2026-06-01T04:32:20.696Z",
       "contentHash": "7f127d3d8ecd4419f163c0d14fa4ba31",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "ctet:hash": {
-      "lastChecked": "2026-06-01T05:59:16.001Z",
+      "lastChecked": "2026-06-01T04:32:21.122Z",
       "contentHash": "a76bd54b1463317c659a67381d439fc3",
       "pdfHash": "3243cc5ff9cc78ab399571499e449e90",
       "pdfs": [
@@ -2081,8 +2073,8 @@
       ]
     },
     "dsssb:hash": {
-      "lastChecked": "2026-05-31T02:08:17.212Z",
-      "contentHash": "fdded1774a0676dcf879ea8595c444b4",
+      "lastChecked": "2026-06-01T04:32:21.299Z",
+      "contentHash": "70684d5659735381ca7a79e904fdbb7e",
       "pdfHash": "03f39f823554752d75fda97db14a434f",
       "pdfs": [
         "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/18_25_0001.pdf",
@@ -2099,7 +2091,7 @@
       ]
     },
     "mp-board:hash": {
-      "lastChecked": "2026-05-31T12:01:07.619Z",
+      "lastChecked": "2026-06-01T04:32:30.362Z",
       "contentHash": "1c042b51f1f39f0e328cc3eba3840cd1",
       "pdfHash": "02973078bb6b3d94f53549d614817487",
       "pdfs": [
@@ -2133,7 +2125,7 @@
       ]
     },
     "rrb:hash": {
-      "lastChecked": "2026-06-01T05:58:45.092Z",
+      "lastChecked": "2026-06-01T04:26:24.404Z",
       "contentHash": "be98b6cd8b41997f76211cac231afde3",
       "pdfHash": "37981bf966482feac25c14f86c21f3e5",
       "pdfs": [
@@ -2687,8 +2679,8 @@
       ]
     },
     "kpsc:hash": {
-      "lastChecked": "2026-05-31T02:08:11.698Z",
-      "contentHash": "1b49dc779502089f83e71b6096405857",
+      "lastChecked": "2026-06-01T04:32:15.737Z",
+      "contentHash": "a8919cb37dbe058f4851d5ae594ce2f1",
       "pdfHash": "76c90c4795b6e38f288dec28e66a5cf2",
       "pdfs": [
         "https://cetonline.karnataka.gov.in/kea/Documents/Executive%20Committee_kan.pdf",
@@ -2726,5 +2718,5 @@
       ]
     }
   },
-  "lastScan": "2026-06-01T05:59:30.785Z"
+  "lastScan": "2026-06-01T04:32:35.865Z"
 }

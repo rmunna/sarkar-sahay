@@ -1,22 +1,13 @@
 {
-  "scannedAt": "2026-05-30T17:11:58.844Z",
+  "scannedAt": "2026-06-01T04:01:32.081Z",
   "govtTrends": [
     {
-      "title": "fifa world cup games",
+      "title": "gujarat samachar",
       "traffic": "200+",
-      "pubDate": "Sat, 30 May 2026 09:40:00 -0700",
-      "newsTitle": "View of Vancouver, Canadian host city for FIFA World Cup 2026",
+      "pubDate": "Sun, 31 May 2026 19:40:00 -0700",
+      "newsTitle": "",
       "source": "google_trends",
-      "suggestedSlug": "fifa-world-cup-games",
-      "guideExists": false
-    },
-    {
-      "title": "fifa",
-      "traffic": "500+",
-      "pubDate": "Sat, 30 May 2026 09:20:00 -0700",
-      "newsTitle": "Iran ambassador hits out at ‘country to the north’ in US World Cup visa row",
-      "source": "google_trends",
-      "suggestedSlug": "fifa",
+      "suggestedSlug": "gujarat-samachar",
       "guideExists": false
     }
   ],

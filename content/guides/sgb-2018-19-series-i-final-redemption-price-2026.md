@@ -17,8 +17,8 @@ keywords:
   - "SGB 2018-19 Series-I maturity"
 readingTime: 7 min
 officialLinks:
-  - 'http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62666'
-  - 'http://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=106'
+  - 'https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62666'
+  - 'https://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=106'
 schemeType: financial-aid
 targetBeneficiary: "Investors in SGB 2018-19 Series-I"
 benefitAmount: "check official website"
@@ -57,7 +57,7 @@ The press release title does not explicitly mention any documents required for t
 The press release title announces the "final redemption" of the SGB 2018-19 Series-I, due on May 04, 2026. This process generally involves receiving maturity proceeds for an existing investment.
 
 1.  **Monitor RBI Announcements:** Bondholders should regularly check the official Reserve Bank of India (RBI) website for the announcement of the precise "Redemption Price" for the SGB 2018-19 Series-I. This information is typically released close to the maturity date.
-    *   Official Link: [http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62666](http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62666)
+    *   Official Link: [https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62666](https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62666)
 2.  **Contact Issuing Agent:** For procedural clarifications and to confirm redemption processing, contact the bank, post office, or stockbroker through whom you purchased the SGB.
 3.  **Verify Bank Account:** Ensure that the bank account linked to your SGB holding is active and correctly updated for direct credit of the redemption proceeds.
 4.  **Check for Credit:** On or shortly after May 04, 2026, verify your bank account statement for the credit of the redemption amount.
@@ -92,4 +92,4 @@ A8: This press release title does not cover this. It is crucial to update your b
 **Q9: Are there any tax implications for this redemption?**
 A9: The press release title does not mention tax implications. Generally, capital gains from SGB redemption for individuals are tax-exempt. However, it's best to consult a tax advisor for current and personalized tax information.
 
-*Source: [RBI Press Releases](http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62666). Last updated: 2026-06-01. Always verify at official website before applying.*
+*Source: [RBI Press Releases](https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62666). Last updated: 2026-06-01. Always verify at official website before applying.*
