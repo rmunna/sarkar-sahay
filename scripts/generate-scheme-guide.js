@@ -65,12 +65,24 @@ function guideExists(slug) {
   if (fs.existsSync(path.join(GUIDES_DIR, `${slug}.md`))) return slug;
   if (fs.existsSync(path.join(GUIDES_DIR, `${slug}-guide.md`))) return `${slug}-guide`;
 
-  // Fuzzy: if slug words overlap with any existing guide filename
-  const words = slug.split('-').filter(w => w.length > 3);
+  // Fuzzy: require 2+ SPECIFIC (non-generic) overlapping words in the filename
+  // Generic words excluded — they appear in many guide filenames and cause false matches
+  const GENERIC = new Set([
+    '2024','2025','2026','2027','2028',
+    'result','results','online','india','apply','status','check','download',
+    'card','form','guide','yojana','scheme','pradhan','mantri','minister',
+    'under','price','rate','gold','bond','silver','bank','loan','fund',
+    'government','central','state','national','new','free','list',
+    'apply','portal','register','registration','application','how',
+    'what','know','about','details','full','complete','update',
+  ]);
+  const words = slug.split('-').filter(w => w.length > 3 && !GENERIC.has(w));
+  if (words.length < 2) return null;  // not enough specific words to match reliably
+
   const files = fs.readdirSync(GUIDES_DIR).filter(f => f.endsWith('.md'));
   for (const file of files) {
-    const nameWords = file.replace('.md', '').split('-');
-    const hits = words.filter(w => nameWords.includes(w));
+    const nameWords = new Set(file.replace('.md', '').split('-'));
+    const hits = words.filter(w => nameWords.has(w));
     if (hits.length >= 2) return file.replace('.md', '');
   }
   return null;
