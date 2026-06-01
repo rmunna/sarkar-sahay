@@ -191,14 +191,15 @@ ACCURACY RULES (violation = reject):
 - NEVER invent benefit amounts — use only what the press release states; say "check official website" if unclear
 - NEVER fabricate dates — write "announced recently" or "check official website"
 - NEVER invent eligibility — only state what is explicitly in the press release
-- Official links: only .gov.in or .nic.in URLs
+- Official links: use .gov.in, .nic.in, rbi.org.in, sebi.gov.in, nabard.org, epfindia.gov.in, or nsdl.co.in — the source press release URL is always valid
+- ALWAYS include the source press release URL as one of the officialLinks: ${item.link}
 - Language: English`;
 
   // ── Step 1: Metadata JSON (small, no markdown — avoids JSON escaping issues) ──
   const metaPrompt = `${baseContext}
 
 Return ONLY a JSON object with these fields (no prose, no code fences, no contentMarkdown):
-{"title":"55-90 chars: [Scheme Name] [Year] — [key benefit] Guide","description":"140-160 chars: searchable fact + who benefits + how to apply/check status","slug":"lowercase-hyphenated max 60 chars e.g. pm-kisan-samman-nidhi-guide","keywords":["8-12 exact search queries"],"officialLinks":["1-3 .gov.in or .nic.in URLs only"],"schemeType":"financial-aid|health|housing|education|agriculture|employment|social-security|digital-service","targetBeneficiary":"who benefits — from press release only","benefitAmount":"exact amount from press release or check official website"}`;
+{"title":"55-90 chars: [Scheme Name] [Year] — [key benefit] Guide","description":"140-160 chars: searchable fact + who benefits + how to apply/check status","slug":"lowercase-hyphenated max 60 chars e.g. sgb-premature-redemption-2026","keywords":["8-12 exact search queries"],"officialLinks":["MUST include: ${item.link.replace(/"/g, '\\"')}","add 1-2 more relevant .gov.in, .nic.in or rbi.org.in URLs if known"],"schemeType":"financial-aid|health|housing|education|agriculture|employment|social-security|digital-service","targetBeneficiary":"who benefits — from press release only","benefitAmount":"exact amount from press release or check official website"}`;
 
   const metaResult = await model.generateContent(metaPrompt);
   const metaText = metaResult.response.text().trim();
@@ -220,9 +221,16 @@ Return ONLY a JSON object with these fields (no prose, no code fences, no conten
     throw new Error(`Metadata JSON parse failed. Preview: ${metaText.slice(0, 300)}`);
   }
 
+  // Ensure officialLinks always contains the source URL — fallback if Gemini forgot it
+  if (!metadata.officialLinks || metadata.officialLinks.length === 0) {
+    metadata.officialLinks = [item.link];
+  } else if (!metadata.officialLinks.includes(item.link)) {
+    metadata.officialLinks.unshift(item.link);  // source URL is always first
+  }
+
   // Validate essential metadata fields
-  if (!metadata.title || !metadata.slug || !metadata.officialLinks?.length) {
-    throw new Error(`Metadata missing required fields: title=${!!metadata.title}, slug=${!!metadata.slug}, links=${metadata.officialLinks?.length}`);
+  if (!metadata.title || !metadata.slug) {
+    throw new Error(`Metadata missing required fields: title=${!!metadata.title}, slug=${!!metadata.slug}`);
   }
 
   // ── Step 2: Markdown content (plain text — no JSON, no escaping issues) ──
