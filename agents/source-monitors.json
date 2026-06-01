@@ -147,6 +147,26 @@
       "lastScanned": "2026-05-29"
     },
     {
+      "id": "jeeadv",
+      "name": "JEE Advanced",
+      "fullName": "Joint Entrance Examination (Advanced) — IIT",
+      "url": "https://jeeadv.ac.in",
+      "notificationsUrl": "https://jeeadv.ac.in",
+      "tier": 1,
+      "searchQueries": [
+        "JEE Advanced 2026 result",
+        "JEE Advanced 2026 answer key",
+        "JEE Advanced 2026 admit card",
+        "JEE Advanced 2026 cutoff",
+        "JEE Advanced 2026 rank list",
+        "JEE Advanced 2026 registration"
+      ],
+      "exams": [
+        "JEE Advanced"
+      ],
+      "lastScanned": "2026-01-01"
+    },
+    {
       "id": "cbse",
       "name": "CBSE",
       "fullName": "Central Board of Secondary Education",
@@ -669,12 +689,13 @@
       "name": "AP EAMCET",
       "fullName": "Andhra Pradesh Engineering Agriculture Medical Common Entrance Test",
       "url": "https://cets.apsche.ap.gov.in",
-      "tier": 2,
+      "tier": 1,
       "searchQueries": [
         "AP EAMCET 2026 result",
-        "APEAPCET 2026 result",
-        "AP EAMCET rank card 2026",
-        "AP EAMCET admit card 2026"
+        "APEAPCET 2026 result declared",
+        "AP EAMCET 2026 rank card download",
+        "AP EAMCET 2026 cutoff",
+        "AP EAMCET 2026 counselling"
       ],
       "exams": [
         "Engineering",
@@ -687,11 +708,13 @@
       "name": "TS EAMCET",
       "fullName": "Telangana State Engineering Agriculture Medical Common Entrance Test",
       "url": "https://tseamcet.nic.in",
-      "tier": 2,
+      "tier": 1,
       "searchQueries": [
         "TS EAMCET 2026 result",
-        "TSEAPCET 2026 result",
-        "TS EAMCET rank card 2026"
+        "TSEAMCET 2026 result declared",
+        "TS EAMCET 2026 rank card",
+        "TS EAMCET 2026 cutoff",
+        "TS EAMCET 2026 counselling"
       ],
       "exams": [
         "Engineering",

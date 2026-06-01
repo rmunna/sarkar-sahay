@@ -1213,18 +1213,24 @@ async function main() {
   const { registry, slugRegistry } = buildDeduplicationRegistry();
 
   // Determine which sources to process
-  // - If real changes detected: process changed sources first, then all tier1
+  // - If real changes detected: changed sources first, then tier1, then tier2 (stale ones)
   // - If force scan: process all active sources
+  // - If no changes: tier1 + stale tier2 (lastScanned > 24h ago)
   let sourcesToProcess = activeSources;
-  if (!FORCE_SCAN && latestChanges.length > 0) {
-    // Prioritize sources that had changes
-    const changedUrls = new Set(latestChanges.map(c => c.url));
-    const changed = activeSources.filter(s =>
-      latestChanges.some(c => c.url.includes(new URL(s.url).hostname))
-    );
+  if (!FORCE_SCAN) {
+    const changed = latestChanges.length > 0
+      ? activeSources.filter(s => latestChanges.some(c => c.url.includes(new URL(s.url).hostname)))
+      : [];
     const tier1Rest = activeSources.filter(s => s.tier === 1 && !changed.find(c => c.id === s.id));
-    sourcesToProcess = [...changed, ...tier1Rest].slice(0, MAX_SEARCHES_PER_RUN);
-    log(`🎯 Processing ${changed.length} changed + ${tier1Rest.length} tier1 sources (max ${MAX_SEARCHES_PER_RUN})`);
+    // Include tier2 sources not scanned in the last 24h — rotate through them daily
+    const yesterday = new Date(Date.now() - 24 * 60 * 60 * 1000).toISOString().slice(0, 10);
+    const staleTier2 = activeSources.filter(s =>
+      s.tier === 2 &&
+      !changed.find(c => c.id === s.id) &&
+      (!s.lastScanned || s.lastScanned < yesterday)
+    ).slice(0, 5); // max 5 tier2 per run to stay within quota
+    sourcesToProcess = [...changed, ...tier1Rest, ...staleTier2].slice(0, MAX_SEARCHES_PER_RUN);
+    log(`🎯 Processing ${changed.length} changed + ${tier1Rest.length} tier1 + ${staleTier2.length} stale tier2 (max ${MAX_SEARCHES_PER_RUN})`);
   }
 
   const results = { generated: [], skipped: [], errors: [] };
