@@ -76,7 +76,8 @@ function guideExists(slug) {
     'apply','portal','register','registration','application','how',
     'what','know','about','details','full','complete','update',
   ]);
-  const words = slug.split('-').filter(w => w.length > 3 && !GENERIC.has(w));
+  // Deduplicate so a word repeated in the slug (e.g. "redemption" twice) counts only once
+  const words = [...new Set(slug.split('-').filter(w => w.length > 3 && !GENERIC.has(w)))];
   if (words.length < 2) return null;  // not enough specific words to match reliably
 
   const files = fs.readdirSync(GUIDES_DIR).filter(f => f.endsWith('.md'));
