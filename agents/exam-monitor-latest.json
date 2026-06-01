@@ -1,21 +1,49 @@
 {
-  "scanTime": "2026-05-31T18:43:54.874Z",
-  "elapsedSeconds": 49.7,
-  "changesDetected": 1,
-  "errors": 40,
+  "scanTime": "2026-06-01T05:59:30.789Z",
+  "elapsedSeconds": 63.7,
+  "changesDetected": 6,
+  "errors": 28,
   "changes": [
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-05-31T18:43:22.721Z"
+      "detectedAt": "2026-06-01T05:58:43.129Z"
+    },
+    {
+      "site": "RRB (Railway)",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://www.rrbcdg.gov.in/uploads/2025/02-TECH/022025TECH-CBTResult_Tech3-CutOff.pdf",
+      "url": "https://www.rrbcdg.gov.in/",
+      "detectedAt": "2026-06-01T05:58:45.092Z"
+    },
+    {
+      "site": "RRB (Railway)",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://www.rrbcdg.gov.in/uploads/2025/02-TECH/022025TECH-CBTResult_Tech3.pdf",
+      "url": "https://www.rrbcdg.gov.in/",
+      "detectedAt": "2026-06-01T05:58:45.092Z"
+    },
+    {
+      "site": "CISF",
+      "type": "CONTENT_CHANGE",
+      "url": "https://cisf.gov.in/recruitment",
+      "detectedAt": "2026-06-01T05:58:52.017Z"
+    },
+    {
+      "site": "UPPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://uppsc.up.nic.in/",
+      "detectedAt": "2026-06-01T05:59:03.761Z"
+    },
+    {
+      "site": "UP Board",
+      "type": "CONTENT_CHANGE",
+      "url": "https://upmsp.edu.in/",
+      "detectedAt": "2026-06-01T05:59:16.820Z"
     }
   ],
   "errorDetails": [
-    {
-      "site": "SSC",
-      "error": "Timeout"
-    },
     {
       "site": "UPSC",
       "error": "Timeout"
@@ -23,16 +51,11 @@
     {
       "site": "SBI Careers",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "error": "Timeout"
+      "error": ""
     },
     {
       "site": "NABARD",
       "url": "https://www.nabard.org/career-notices.aspx",
-      "error": "Timeout"
-    },
-    {
-      "site": "RRB (Railway)",
-      "url": "https://www.rrbcdg.gov.in/",
       "error": "Timeout"
     },
     {
@@ -51,23 +74,13 @@
       "error": "Timeout"
     },
     {
-      "site": "CISF",
-      "url": "https://cisf.gov.in/recruitment",
-      "error": "Timeout"
-    },
-    {
       "site": "BSF",
       "url": "https://rectt.bsf.gov.in/",
-      "error": "Timeout"
+      "error": "HTTP 403"
     },
     {
       "site": "ITBP",
       "url": "https://recruitment.itbpolice.nic.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "CBSE",
-      "url": "https://www.cbse.gov.in/",
       "error": "Timeout"
     },
     {
@@ -86,23 +99,8 @@
       "error": "Timeout"
     },
     {
-      "site": "UGC NET",
-      "url": "https://ugcnet.nta.ac.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "CUET",
-      "url": "https://cuet.nta.nic.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "BPSC",
       "url": "https://www.bpsc.bih.nic.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "UPPSC",
-      "url": "https://uppsc.up.nic.in/",
       "error": "Timeout"
     },
     {
@@ -133,7 +131,7 @@
     {
       "site": "TSPSC",
       "url": "https://tspsc.gov.in/",
-      "error": "Timeout"
+      "error": "getaddrinfo ENOTFOUND tspsc.gov.in"
     },
     {
       "site": "WBPSC",
@@ -143,7 +141,7 @@
     {
       "site": "GPSC",
       "url": "https://gpsc.gujarat.gov.in/",
-      "error": "Timeout"
+      "error": ""
     },
     {
       "site": "HPSC",
@@ -151,23 +149,8 @@
       "error": "Timeout"
     },
     {
-      "site": "JPSC",
-      "url": "https://www.jpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "CGPSC",
       "url": "https://psc.cg.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "UKPSC",
-      "url": "https://ukpsc.net.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "CTET",
-      "url": "https://ctet.nic.in/",
       "error": "Timeout"
     },
     {
@@ -178,26 +161,16 @@
     {
       "site": "Sainik School",
       "url": "https://nta.ac.in/ExamDetail?ExamCode=AISSEE",
-      "error": "Timeout"
+      "error": "HTTP 404"
     },
     {
       "site": "Income Tax",
       "url": "https://incometaxindia.gov.in/Pages/press-releases.aspx",
-      "error": "Timeout"
-    },
-    {
-      "site": "RBSE Rajasthan",
-      "url": "https://rajeduboard.rajasthan.gov.in/",
-      "error": "Timeout"
+      "error": "HTTP 403"
     },
     {
       "site": "MSBTE",
       "url": "https://www.msbte.org.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "UP Board",
-      "url": "https://upmsp.edu.in/",
       "error": "Timeout"
     },
     {
