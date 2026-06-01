@@ -2,8 +2,9 @@ name: Spike Detector — Google Trends → Auto-Generate Pages
 
 on:
   schedule:
-    # Once daily at 7:00 AM IST (1:30 UTC)
+    # Twice daily: 7:00 AM IST (1:30 UTC) and 2:00 PM IST (8:30 UTC)
     - cron: '30 1 * * *'
+    - cron: '30 8 * * *'
   workflow_dispatch:
     inputs:
       dry_run:
@@ -81,11 +82,8 @@ jobs:
           git config user.name "CitizenNest Bot"
           git config user.email "bot@citizennest.com"
           git add content/updates/ agents/trending-pytrends.json || true
-          if git diff --staged --quiet; then
-            echo "new_count=0" >> $GITHUB_OUTPUT
-            echo "No new spike pages — nothing to commit"
-          else
-            NEW=$(git diff --staged --name-only | grep 'content/updates/' | wc -l | tr -d ' ')
+          NEW=$(git diff --staged --name-only | grep 'content/updates/' | wc -l | tr -d ' ')
+          if [ "$NEW" -gt 0 ]; then
             git commit -m "content: auto-add ${NEW} spike page(s) from Google Trends [$(date +'%Y-%m-%d')]
 
             Source: trending-pytrends.py (Jobs cat 958 + Education cat 174)
@@ -94,6 +92,10 @@ jobs:
             git push
             echo "new_count=$NEW" >> $GITHUB_OUTPUT
             echo "✅ Pushed $NEW spike page(s)"
+          else
+            git restore --staged agents/trending-pytrends.json || true
+            echo "new_count=0" >> $GITHUB_OUTPUT
+            echo "No new spike pages — nothing to commit"
           fi
 
       # ── Step 4: Regenerate sitemap ───────────────────────────────────────
