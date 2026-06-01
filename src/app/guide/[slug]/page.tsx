@@ -1,11 +1,14 @@
 import { getGuideBySlug, getGuideRawContent, getRelatedGuides } from "@/lib/guides";
 import TelegramCTA from "@/components/TelegramCTA";
+import AdUnit from "@/components/AdUnit";
 import { getRelatedUpdatesForGuide } from "@/lib/cross-links";
 import { getAllHindiGuideSlugs } from "@/lib/guides-hi";
 import { generateFAQSchema, generateArticleSchema, generateHowToSchema, extractFAQs } from "@/lib/faq-schema";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
+
+const AD_SLOT_GUIDE = process.env.NEXT_PUBLIC_AD_SLOT_DATA || "";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -219,6 +222,9 @@ export default async function GuidePage({ params }: Props) {
             </div>
           </div>
 
+          {/* Ad — after disclaimer, before content */}
+          <AdUnit slot={AD_SLOT_GUIDE} format="horizontal" className="mb-8" />
+
           {/* Quick Links - Official Sites */}
           {guide.officialLinks.length > 0 && (
             <div className="bg-blue-50 border border-blue-200 rounded-xl p-5 mb-8">
@@ -252,6 +258,9 @@ export default async function GuidePage({ params }: Props) {
             className="guide-content"
             dangerouslySetInnerHTML={{ __html: contentWithIds }}
           />
+
+          {/* Ad — after article body */}
+          <AdUnit slot={AD_SLOT_GUIDE} format="auto" className="my-8" />
 
           {/* Affiliate CTA — removed until proper affiliate IDs are set up */}
 
@@ -287,6 +296,9 @@ export default async function GuidePage({ params }: Props) {
               </div>
             </div>
           )}
+
+          {/* Ad — before Telegram CTA */}
+          <AdUnit slot={AD_SLOT_GUIDE} format="auto" className="mb-8" />
 
           {/* Telegram CTA */}
           <TelegramCTA />

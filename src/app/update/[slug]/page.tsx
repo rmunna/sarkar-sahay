@@ -1,10 +1,13 @@
 import { getUpdateBySlug, getUpdateRawContent, getRelatedUpdates } from "@/lib/updates";
 import TelegramCTA from "@/components/TelegramCTA";
+import AdUnit from "@/components/AdUnit";
 import { getRelatedGuideForUpdate } from "@/lib/cross-links";
 import { generateFAQSchema, extractFAQs } from "@/lib/faq-schema";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
+
+const AD_SLOT_UPDATE = process.env.NEXT_PUBLIC_AD_SLOT_DATA || "";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -421,11 +424,17 @@ export default async function UpdatePage({ params }: Props) {
             </div>
           )}
 
+          {/* Ad — before article body */}
+          <AdUnit slot={AD_SLOT_UPDATE} format="horizontal" className="mb-8" />
+
           {/* Article Content */}
           <div
             className="guide-content"
             dangerouslySetInnerHTML={{ __html: contentWithIds }}
           />
+
+          {/* Ad — after article body */}
+          <AdUnit slot={AD_SLOT_UPDATE} format="auto" className="my-8" />
 
           {/* Telegram CTA */}
           <TelegramCTA />
