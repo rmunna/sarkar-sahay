@@ -134,53 +134,42 @@ function fetchPageText(urlStr) {
 /**
  * Ask Gemini to generate a verified scheme guide.
  *
+ * TWO-STEP APPROACH — avoids JSON parse failures:
+ *   Step 1: Get metadata only as compact JSON (no markdown content → no escaping issues)
+ *   Step 2: Get markdown body as plain text (no JSON wrapper → no escaping issues)
+ *
  * The pressReleaseText is the ground truth — Gemini must not go beyond it
  * without clearly stating "verify at official website".
  */
 async function generateSchemeGuide(item, pressReleaseText, today) {
   const sourceContext = pressReleaseText.length > 100
-    ? `\n\nPIB PRESS RELEASE TEXT (your primary source — do not contradict this):\n"""\n${pressReleaseText}\n"""`
-    : '\n\nNote: Could not fetch full press release text. Use only what is in the title.';
+    ? `PIB PRESS RELEASE TEXT (primary source — do not contradict):\n"""\n${pressReleaseText.slice(0, 4000)}\n"""`
+    : 'Note: Could not fetch full press release. Use only information from the title.';
 
-  const prompt = `You are writing a factual, accurate guide for citizennest.com about a newly announced Indian government scheme or policy.
+  const baseContext = `PIB Press Release Title: "${item.title}"
+Source: ${item.sourceName || 'PIB'} | Link: ${item.link}
+Today: ${today}
 
-PIB Press Release Title: "${item.title}"
-Source Link: ${item.link}
-Source: ${item.sourceName || 'PIB'}
-Today's date: ${today}
 ${sourceContext}
 
-TASK: Write a complete, helpful guide about this scheme for Indian citizens searching for information.
+ACCURACY RULES (violation = reject):
+- NEVER invent benefit amounts — use only what the press release states; say "check official website" if unclear
+- NEVER fabricate dates — write "announced recently" or "check official website"
+- NEVER invent eligibility — only state what is explicitly in the press release
+- Official links: only .gov.in or .nic.in URLs
+- Language: English`;
 
-CRITICAL ACCURACY RULES — violation means the guide is rejected:
-1. NEVER invent benefit amounts — use only what the press release says; write "check official website for current rates" if unclear
-2. NEVER fabricate dates — write "announced recently" or "check official website" for unconfirmed dates
-3. NEVER fabricate eligibility criteria beyond what the press release states
-4. ALL official links must be real .gov.in / .nic.in URLs; do not guess — use only links mentioned in the press release or well-known ministry portals
-5. If the scheme name in the title is unclear or very new, write a factual overview + direct users to the ministry website
-6. Write in English (this is a central government scheme applicable nationwide)
-7. Do not exaggerate benefits — be conservative and accurate
+  // ── Step 1: Metadata JSON (small, no markdown — avoids JSON escaping issues) ──
+  const metaPrompt = `${baseContext}
 
-Return ONLY valid JSON (no markdown fences, no preamble):
-{
-  "title": "string — 55-90 chars. Pattern: [Scheme Name] [Year] — [key benefit, e.g. '₹6,000/year' or 'Free Health Cover'] Guide",
-  "description": "string — 140-160 chars. Lead with the most searchable fact. Include what the scheme gives, who is eligible, and how to apply/check status.",
-  "category": "Government Schemes",
-  "slug": "string — lowercase hyphenated, max 60 chars, NO year unless essential. E.g. 'pm-kisan-samman-nidhi-guide'",
-  "keywords": ["8-12 exact queries people search — include scheme name variants, status check, apply, eligibility, beneficiary list"],
-  "officialLinks": ["1-3 URLs — only .gov.in or .nic.in. If no specific URL found in the press release, use the ministry homepage e.g. 'https://agriwelfare.gov.in/'"],
-  "schemeType": "one of: financial-aid | health | housing | education | agriculture | employment | social-security | digital-service",
-  "targetBeneficiary": "e.g. 'Farmers with less than 2 hectares of land' — only what the press release confirms",
-  "benefitAmount": "e.g. '₹6,000/year in 3 installments' — exact figure from press release, or 'check official website'",
-  "launchYear": "${today.slice(0, 4)} or actual year if stated in press release",
-  "contentMarkdown": "Complete guide in Markdown (700-1400 words). Sections: ## What is [Scheme Name], ## Key Benefits (table or bullets), ## Who is Eligible, ## Documents Required, ## How to Apply / Check Status (numbered steps), ## Frequently Asked Questions (5+ Q&As). Use ## for all section headings. No H1. Be specific but only state what is confirmed. Add note 'verify at official website' for any detail not in the press release."
-}`;
+Return ONLY a JSON object with these fields (no prose, no code fences, no contentMarkdown):
+{"title":"55-90 chars: [Scheme Name] [Year] — [key benefit] Guide","description":"140-160 chars: searchable fact + who benefits + how to apply/check status","slug":"lowercase-hyphenated max 60 chars e.g. pm-kisan-samman-nidhi-guide","keywords":["8-12 exact search queries"],"officialLinks":["1-3 .gov.in or .nic.in URLs only"],"schemeType":"financial-aid|health|housing|education|agriculture|employment|social-security|digital-service","targetBeneficiary":"who benefits — from press release only","benefitAmount":"exact amount from press release or check official website"}`;
 
-  const result = await model.generateContent(prompt);
-  const text = result.response.text().trim();
+  const metaResult = await model.generateContent(metaPrompt);
+  const metaText = metaResult.response.text().trim();
 
-  // Extract JSON robustly
   function extractJson(raw) {
+    // Strip code fences if present
     const fenceMatch = raw.match(/```(?:json)?\s*([\s\S]*?)```/i);
     if (fenceMatch) return fenceMatch[1].trim();
     const start = raw.indexOf('{');
@@ -189,14 +178,57 @@ Return ONLY valid JSON (no markdown fences, no preamble):
     return raw;
   }
 
-  let data;
+  let metadata;
   try {
-    data = JSON.parse(extractJson(text));
+    metadata = JSON.parse(extractJson(metaText));
   } catch {
-    throw new Error(`JSON parse failed. Response preview: ${text.slice(0, 400)}`);
+    throw new Error(`Metadata JSON parse failed. Preview: ${metaText.slice(0, 300)}`);
   }
 
-  return data;
+  // Validate essential metadata fields
+  if (!metadata.title || !metadata.slug || !metadata.officialLinks?.length) {
+    throw new Error(`Metadata missing required fields: title=${!!metadata.title}, slug=${!!metadata.slug}, links=${metadata.officialLinks?.length}`);
+  }
+
+  // ── Step 2: Markdown content (plain text — no JSON, no escaping issues) ──
+  // Short delay between calls
+  await new Promise(r => setTimeout(r, 1500));
+
+  const contentPrompt = `${baseContext}
+
+Write a complete, accurate guide about this scheme for CitizenNest.com.
+Guide title: "${metadata.title}"
+
+Return ONLY the Markdown body (700-1200 words). No JSON, no code fences, no title H1.
+Required sections (use ## headings):
+## What is [Scheme Name]
+(2-3 sentence factual intro — only confirmed facts)
+
+## Key Benefits
+(table or bullets — ONLY amounts/benefits stated in the press release; otherwise "Refer to official website")
+
+## Who is Eligible
+(confirmed eligibility criteria only; say "check official website" for anything unclear)
+
+## Documents Required
+(standard documents for such schemes; note "requirements may vary — verify at official website")
+
+## How to Apply / Check Status
+(numbered steps; use the official link from the press release)
+
+## Frequently Asked Questions
+(5+ Q&As with honest answers — say "not confirmed" if a detail wasn't in the press release)
+
+FINAL LINE: *Source: [${item.sourceName || 'PIB'}](${item.link}). Last updated: ${today}. Always verify at official website before applying.*`;
+
+  const contentResult = await model.generateContent(contentPrompt);
+  const contentMarkdown = contentResult.response.text().trim();
+
+  if (contentMarkdown.length < 500) {
+    throw new Error(`Content too short: ${contentMarkdown.length} chars`);
+  }
+
+  return { ...metadata, contentMarkdown };
 }
 
 function buildGuideMarkdown(data, today) {

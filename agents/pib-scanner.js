@@ -50,11 +50,43 @@ const RELEVANT_KEYWORDS = [
   'करोड़', 'crore', 'lakh', 'लाख',
 ];
 
-// Skip keywords
+// Skip keywords — items matching any of these are dropped entirely
 const SKIP_KEYWORDS = [
+  // Diplomatic/ceremonial (not citizen-actionable)
   'शोक', 'संवेदना', 'बधाई', 'मन की बात', 'विदेश दौरा',
   'द्विपक्षीय', 'शिखर सम्मेलन', 'condolence', 'greetings',
+  'श्रद्धांजलि', 'जयंती',
+  // Sports/entertainment
   'cricket', 'क्रिकेट', 'रणजी', 'sports',
+  // RBI financial market operations (auctions, interbank, statistical bulletins)
+  'auction of state government', 'auction of 91-day', 'auction of 182-day',
+  'auction of 364-day', 'treasury bill', 'government securities',
+  'weekly statistical supplement', 'statistical supplement',
+  'sectoral deployment of bank credit', 'international trade in services',
+  'lending and deposit rates', 'money market operations',
+  'house price index', 'all-india house price',
+  'monetary penalty', 'imposes monetary penalty', 'imposes penalty',
+  'second schedule to the reserve bank', 'co-operative banks',
+  'inclusion in the second schedule',
+  // Not retail consumer prices — export/import duties affect businesses
+  'export duty', 'निर्यात शुल्क', 'import duty',
+  // RBI bank-facing circulars (not citizen-actionable)
+  'conduct of government business', 'payment of agency commission',
+  'agency banks', 'disbursement of government pension by agency',
+  'oversight of abs',
+  // RBI bank regulation amendments (not citizen-facing)
+  'credit risk management', 'income recognition, asset classification',
+  'responsible business conduct', 'resolution of stressed assets',
+  'all india financial institutions', 'regional rural banks',
+  'non-banking financial companies',
+  // Bank mergers/amalgamations
+  'voluntary amalgamation', 'amalgamation of',
+  // Infrastructure inaugurations (not welfare schemes)
+  'औद्योगिक पार्क', 'industrial park', 'industrial corridor',
+  // Review meetings (not new schemes)
+  'समीक्षा बैठक', 'review meeting', 'review of schemes',
+  // Defence
+  'रक्षा मंत्री', 'naval', 'defence minister',
 ];
 
 function fetch(urlStr) {
@@ -105,11 +137,24 @@ function isRelevant(item) {
 
 function categorize(item) {
   const text = `${item.title} ${item.description}`;
-  
-  if (/योजना|scheme|yojana|शुभारंभ|उद्घाटन|launched|inaugurated|लॉन्च/i.test(text))
+
+  // NEW_SCHEME_OR_LAUNCH: requires an actual launch/inauguration verb, not just the word "scheme"
+  // AND must be citizen-welfare related (not just any government program review)
+  const hasLaunchVerb = /शुभारंभ|उद्घाटन|launched|inaugurated|लॉन्च|शुरू|प्रारंभ|आरंभ/i.test(text);
+  const hasCitizenWelfare = /किसान|kisan|आवास|housing|स्वास्थ्य|health|पेंशन|pension|scholarship|छात्रवृत्ति|ration|राशन|subsidy|सब्सिडी|ujjwala|उज्ज्वला|svamitva|svarnidhi|स्वनिधि|mudra|मुद्रा|ayushman|आयुष्मान|ladli|kanya|mahila|महिला|farmer|labour|श्रम|employment|रोजगार|gold bond|sovereign gold|pension bank|government pension/i.test(text);
+  if (hasLaunchVerb && hasCitizenWelfare)
     return 'NEW_SCHEME_OR_LAUNCH';
-  if (/संशोधित|revised|amendment|नए नियम|new rules|शुल्क|fee|charges/i.test(text))
+
+  // Also catch scheme milestones / significant updates (no launch verb needed)
+  if (/pmkisan|pm kisan|svamitva|pm svamitva|pm svanidhi|pm svamitva|ayushman bharat|ayushman card|ujjwala yojana|mudra loan|pmay|pradhan mantri awas|pmgsy|jal jeevan|nal se jal|sovereign gold bond.*redemption|sgb.*redemption|redemption.*sgb/i.test(text))
+    return 'NEW_SCHEME_OR_LAUNCH';
+
+  // POLICY_CHANGE: citizen-facing policy changes (fuel prices, tax, fee changes)
+  // Explicitly exclude RBI bank amendment directions
+  const isRBIBankReg = /reserve bank of india.*directions|rbi.*amendment.*directions|rbi.*amendment.*regulations/i.test(text);
+  if (!isRBIBankReg && /संशोधित|revised|amendment|नए नियम|new rules|शुल्क|fee|charges|निर्यात शुल्क|export duty|import duty|tax rate|पेट्रोल|diesel|fuel price|petrol price|electricity tariff/i.test(text))
     return 'POLICY_CHANGE';
+
   if (/पोर्टल|portal|ऐप|app|डिजिटल|digital|ऑनलाइन|online/i.test(text))
     return 'DIGITAL_SERVICE';
   if (/भर्ती|recruitment|रिक्ति|vacancy|परीक्षा|exam|परिणाम|result/i.test(text))
