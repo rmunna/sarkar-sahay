@@ -13,6 +13,7 @@ import json
 import os
 import sys
 import time
+import urllib.request
 from datetime import datetime
 
 try:
@@ -112,10 +113,105 @@ def check_guide_exists(topic):
     return None
 
 
+def fetch_realtime_trends():
+    """
+    Fetch from Google Trends Realtime Trending API — the same data shown on
+    https://trends.google.com/trending?geo=IN&category=9
+
+    This catches same-day spikes (result declarations, admit card releases) that
+    pytrends related_queries() misses due to its 7-day lag window.
+
+    Returns list of dicts with same shape as all_rising items.
+    """
+    # Category IDs on the Trending Now page (different from pytrends category IDs):
+    #   9  = Science & Education (JEE, NEET, AP EAMCET, board results)
+    #   8  = Jobs & Education (SSC, UPSC, railway, government jobs)
+    # 'all' = all categories (broader, more noise but catches cross-category trends)
+    REALTIME_CATS = [
+        (9,     'Science & Education'),
+        (8,     'Jobs & Education'),
+    ]
+    API_URL = (
+        "https://trends.google.com/trends/api/realtimetrends"
+        "?hl=en-IN&tz=-330&cat={cat}&fi=0&fs=0&geo=IN&ri=300&rs=20&sort=0"
+    )
+    results = []
+    seen_titles = set()
+
+    for cat_id, cat_name in REALTIME_CATS:
+        try:
+            url = API_URL.format(cat=cat_id)
+            req = urllib.request.Request(url, headers={
+                'User-Agent': (
+                    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 '
+                    '(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+                ),
+                'Accept': 'text/javascript, application/json, */*',
+                'Accept-Language': 'en-IN,en;q=0.9',
+                'Referer': 'https://trends.google.com/trending?geo=IN',
+            })
+            with urllib.request.urlopen(req, timeout=15) as response:
+                raw = response.read().decode('utf-8')
+
+            # Google prefixes JSON responses with ")]}'" as XSSI protection
+            if raw.startswith(")]}'"):
+                raw = raw[5:].lstrip('\n')
+
+            data = json.loads(raw)
+            stories = data.get('storySummaries', {}).get('trendingStories', [])
+            print(f"  🌐 Realtime {cat_name}: {len(stories)} trending stories")
+
+            for story in stories:
+                title = story.get('title', '').strip()
+                if not title or title.lower() in seen_titles:
+                    continue
+
+                # Build combined text for matching (title + entities + article headlines)
+                entity_names = story.get('entityNames', [])
+                articles = story.get('articles', [])
+                combined = ' '.join(
+                    [title] + entity_names + [a.get('title', '') for a in articles[:3]]
+                ).lower()
+
+                # Apply same relevance + skip filters as pytrends results
+                if not is_relevant(title) and not is_relevant(combined):
+                    continue
+
+                guide = check_guide_exists(title)
+                spike = any(p in title.lower() for p in SPIKE_PATTERNS) or \
+                        any(p in combined for p in SPIKE_PATTERNS)
+
+                seen_titles.add(title.lower())
+                results.append({
+                    'topic': title,
+                    'category': cat_name,
+                    'rising_value': 999,  # Realtime = maximum priority
+                    'guide_exists': guide,
+                    'is_spike': spike,
+                    'is_scheme': False,   # Science/Jobs categories are not scheme content
+                    'source': 'realtime',
+                })
+
+            time.sleep(1)
+
+        except Exception as e:
+            print(f"  ⚠️  Realtime {cat_name} failed: {e}", file=sys.stderr)
+
+    return results
+
+
 def main():
     pytrends = TrendReq(hl='en-IN', geo='IN')
     all_rising = []
 
+    # ── Source 1: Google Trends Realtime Trending (same-day spikes) ──────────
+    print("🌐 Fetching Google Trends Realtime (trending.google.com)...")
+    realtime = fetch_realtime_trends()
+    all_rising.extend(realtime)
+    print(f"   → {len(realtime)} relevant realtime topics\n")
+
+    # ── Source 2: pytrends Rising Queries (7-day trend, catches upcoming exams) ─
+    print("📈 Fetching pytrends rising queries (7-day window)...")
     for cat_id, cat_name in CATEGORIES:
         try:
             pytrends.build_payload([''], geo='IN', timeframe='now 7-d', cat=cat_id)
