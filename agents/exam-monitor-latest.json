@@ -1,50 +1,44 @@
 {
-  "scanTime": "2026-06-02T05:28:34.170Z",
-  "elapsedSeconds": 59.3,
-  "changesDetected": 7,
-  "errors": 24,
+  "scanTime": "2026-06-02T09:50:35.387Z",
+  "elapsedSeconds": 59.1,
+  "changesDetected": 6,
+  "errors": 26,
   "changes": [
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-02T05:27:46.758Z"
+      "detectedAt": "2026-06-02T09:49:49.691Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-02T05:27:54.912Z"
+      "detectedAt": "2026-06-02T09:49:59.521Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-02T05:27:58.618Z"
+      "detectedAt": "2026-06-02T09:50:05.198Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-02T05:28:03.919Z"
+      "detectedAt": "2026-06-02T09:50:09.422Z"
     },
     {
       "site": "MPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-02T05:28:03.619Z"
-    },
-    {
-      "site": "CTET",
-      "type": "CONTENT_CHANGE",
-      "url": "https://ctet.nic.in/",
-      "detectedAt": "2026-06-02T05:28:19.574Z"
+      "detectedAt": "2026-06-02T09:50:09.037Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-02T05:28:19.764Z"
+      "detectedAt": "2026-06-02T09:50:30.002Z"
     }
   ],
   "errorDetails": [
@@ -90,6 +84,16 @@
     {
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
+      "error": ""
+    },
+    {
+      "site": "IGNOU",
+      "url": "https://ignou.ac.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "UGC NET",
+      "url": "https://ugcnet.nta.ac.in/",
       "error": "Timeout"
     },
     {
@@ -165,7 +169,7 @@
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     }
   ]
 }

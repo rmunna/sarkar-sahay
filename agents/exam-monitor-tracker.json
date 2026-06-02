@@ -57,7 +57,7 @@
       "lastChanged": "2026-03-01T02:46:19.512Z"
     },
     "ssc:notices": {
-      "lastChecked": "2026-06-02T05:27:35.962Z",
+      "lastChecked": "2026-06-02T09:49:37.345Z",
       "noticeIds": [
         "hvcvnq6iuo746xj9qe5g4",
         "82liqxb6q7v0m8s0jg65w",
@@ -82,7 +82,7 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-06-02T05:27:39.290Z",
+      "lastChecked": "2026-06-02T09:49:41.759Z",
       "noticeIds": [
         "20260601213649",
         "20260601213514",
@@ -806,7 +806,7 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-06-02T05:27:48.065Z",
+      "lastChecked": "2026-06-02T09:49:51.163Z",
       "contentHash": "b4b54941c71169407f46ea688622067f",
       "pdfHash": "14732563d46631835f47078a967da1b1",
       "pdfs": [
@@ -1232,13 +1232,13 @@
       ]
     },
     "uppsc:hash": {
-      "lastChecked": "2026-06-02T05:28:03.919Z",
-      "contentHash": "67b5b4af8633c714566b7dbd79534683",
+      "lastChecked": "2026-06-02T09:50:09.422Z",
+      "contentHash": "d47f9669741f83537afd140c593ef629",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-06-02T05:27:47.031Z",
+      "lastChecked": "2026-06-02T09:49:49.690Z",
       "contentHash": "d73d6b3ca9ca2cec845a9eb5d6b217b9",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
       "pdfs": [
@@ -1259,8 +1259,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-06-02T05:27:46.758Z",
-      "contentHash": "c72888862526d01c772bd3a12a330a65",
+      "lastChecked": "2026-06-02T09:49:49.691Z",
+      "contentHash": "1c41a5ae06e6c6a6cc76b57332418408",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "pdfs": [
         "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
@@ -1284,7 +1284,7 @@
       "pdfs": []
     },
     "cbse:hash": {
-      "lastChecked": "2026-06-02T05:27:55.618Z",
+      "lastChecked": "2026-06-02T09:50:00.027Z",
       "contentHash": "4a4ccfaf29d0213341e5ce78085aab01",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
@@ -1316,8 +1316,8 @@
       ]
     },
     "cisf:hash": {
-      "lastChecked": "2026-06-02T05:27:54.912Z",
-      "contentHash": "b6ec5c81ffdd24dcb6c20c570e8912ae",
+      "lastChecked": "2026-06-02T09:49:59.521Z",
+      "contentHash": "acc9f6af2cf1a0688c70b0f65b2b3174",
       "pdfHash": "dcb8f9d4988ce1cb962ced406b83bc91",
       "pdfs": [
         "https://cisf.gov.in/assets/pdfs/2025/08/id_eng.pdf",
@@ -1339,7 +1339,7 @@
       "pdfCount": 0
     },
     "crpf:hash": {
-      "lastChecked": "2026-06-02T05:27:58.243Z",
+      "lastChecked": "2026-06-02T09:50:02.996Z",
       "contentHash": "7edc756edd8bffc5a1982bb224d0ca65",
       "pdfHash": "f689a77adc1db4e190baca6d7a9f93e5",
       "pdfs": [
@@ -1369,8 +1369,8 @@
       "pdfs": []
     },
     "kvs:hash": {
-      "lastChecked": "2026-06-02T05:27:58.618Z",
-      "contentHash": "774f5d2cedad44ad47c2620aaf2a7267",
+      "lastChecked": "2026-06-02T09:50:05.198Z",
+      "contentHash": "e486f9ed5ff5834e56a56192e7e643a4",
       "pdfHash": "3b5e753b2f3d272f4442e5a30bd346be",
       "pdfs": [
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/11/2023112463.pdf",
@@ -1439,8 +1439,8 @@
       ]
     },
     "mppsc:hash": {
-      "lastChecked": "2026-06-02T05:28:03.619Z",
-      "contentHash": "de0ea94cc483a54abf4ccd46619d81c2",
+      "lastChecked": "2026-06-02T09:50:09.037Z",
+      "contentHash": "380e4deefa7f5a824fdefd04554a36d4",
       "pdfHash": "8310727dd9581f1348e81a774357ca0c",
       "pdfs": [
         "https://mppsc.mp.gov.in/uploads/advertisement/Additional_Subjects_Assistant_Professor_Sanskrit_2025.pdf",
@@ -1535,7 +1535,7 @@
       ]
     },
     "cuet:hash": {
-      "lastChecked": "2026-06-02T05:28:03.290Z",
+      "lastChecked": "2026-06-02T09:50:08.502Z",
       "contentHash": "7f61bf754629001fa57fcbffd90f2644",
       "pdfHash": "072b9f2d41e95875cecbe42053f0acae",
       "pdfs": [
@@ -1855,7 +1855,7 @@
       "pdfs": []
     },
     "jpsc:hash": {
-      "lastChecked": "2026-06-02T05:28:12.443Z",
+      "lastChecked": "2026-06-02T09:50:15.468Z",
       "contentHash": "486f1f0229df64a5aacdf94b72e9edca",
       "pdfHash": "360247600b8c264d185ef104fcb04341",
       "pdfs": [
@@ -2020,14 +2020,14 @@
       ]
     },
     "ukpsc:hash": {
-      "lastChecked": "2026-06-02T05:28:16.872Z",
+      "lastChecked": "2026-06-02T09:50:19.409Z",
       "contentHash": "29183ec5cee976219d1fa1ec8bb74947",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "up-board:hash": {
-      "lastChecked": "2026-06-02T05:28:19.764Z",
-      "contentHash": "c45d030d98a63ba69610c2af94e015c4",
+      "lastChecked": "2026-06-02T09:50:30.002Z",
+      "contentHash": "f2ba0de06226ea2e8175d9b67f241d06",
       "pdfHash": "b91f3fc51f4d570fd2da15c996ad5428",
       "pdfs": [
         "https://upmsp.edu.in/Downloads/Circular_2_04-04-2026.pdf",
@@ -2051,13 +2051,13 @@
       ]
     },
     "rbse:hash": {
-      "lastChecked": "2026-06-02T05:28:18.699Z",
+      "lastChecked": "2026-06-02T09:50:21.315Z",
       "contentHash": "7f127d3d8ecd4419f163c0d14fa4ba31",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "ctet:hash": {
-      "lastChecked": "2026-06-02T05:28:19.574Z",
+      "lastChecked": "2026-06-02T09:50:22.035Z",
       "contentHash": "39c1760d6d9272a88414efe0086b4654",
       "pdfHash": "3243cc5ff9cc78ab399571499e449e90",
       "pdfs": [
@@ -2095,7 +2095,7 @@
       ]
     },
     "mp-board:hash": {
-      "lastChecked": "2026-06-02T05:28:25.062Z",
+      "lastChecked": "2026-06-02T09:50:32.483Z",
       "contentHash": "b1179d9607eb395a3aa69473c7c6125e",
       "pdfHash": "95cd4ffebd701b4cfe4d6f7bf95343dc",
       "pdfs": [
@@ -2130,7 +2130,7 @@
       ]
     },
     "rrb:hash": {
-      "lastChecked": "2026-06-02T05:27:48.708Z",
+      "lastChecked": "2026-06-02T09:49:51.651Z",
       "contentHash": "fbf3cd436f1cf174fd7a34dda6a1a77b",
       "pdfHash": "4047598c041d0084871d607ac3adfca3",
       "pdfs": [
@@ -2726,5 +2726,5 @@
       ]
     }
   },
-  "lastScan": "2026-06-02T05:28:34.166Z"
+  "lastScan": "2026-06-02T09:50:35.383Z"
 }
