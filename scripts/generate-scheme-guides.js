@@ -81,7 +81,7 @@ function callClaudeCLI(prompt) {
   fs.writeFileSync(tmpFile, prompt, 'utf8');
   try {
     return execSync(`claude --print < "${tmpFile}"`, {
-      timeout: 180000, maxBuffer: 1024 * 1024 * 10, encoding: 'utf8',
+      timeout: 300000, maxBuffer: 1024 * 1024 * 10, encoding: 'utf8',
       stdio: ['pipe', 'pipe', 'pipe'],
     }).trim();
   } finally { try { fs.unlinkSync(tmpFile); } catch {} }
@@ -107,7 +107,8 @@ function parseJson(text) {
 
 // ── Validation ──────────────────────────────────────────────────────────────
 const REQUIRED_SECTIONS_EN = ['## What is', '## Key Benefits', '## Who is Eligible', '## Documents Required', '## How to Apply', '## Frequently Asked Questions', '## Official Links'];
-const REQUIRED_SECTIONS_HI = ['## क्या है', '## मुख्य लाभ', '## पात्रता', '## ज़रूरी दस्तावेज़', '## आवेदन कैसे करें', '## अक्सर पूछे जाने वाले सवाल', '## आधिकारिक लिंक'];
+// Hindi sections: use partial keywords so "## Gruha Lakshmi Yojana क्या है?" still matches "क्या है"
+const REQUIRED_SECTIONS_HI = ['क्या है', 'मुख्य लाभ', 'पात्रता', 'ज़रूरी दस्तावेज़', 'आवेदन कैसे करें', 'अक्सर पूछे जाने वाले सवाल', 'आधिकारिक लिंक'];
 
 function validateSEO(meta) {
   const errs = [];

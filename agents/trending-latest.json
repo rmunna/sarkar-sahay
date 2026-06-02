@@ -1,58 +1,31 @@
 {
-  "scannedAt": "2026-06-01T09:43:39.379Z",
+  "scannedAt": "2026-06-01T02:01:22.316Z",
   "govtTrends": [
     {
-      "title": "pm svanidhi",
+      "title": "jee advanced",
       "traffic": "100+",
-      "pubDate": "Mon, 1 Jun 2026 01:00:00 -0700",
-      "newsTitle": "PM SVANidhi: From Survival to Self-Reliance",
+      "pubDate": "Sun, 31 May 2026 18:00:00 -0700",
+      "newsTitle": "JEE Advanced: నేడు జేఈఈ అడ్వాన్స్‌డ్‌ ఫలితాలు",
       "source": "google_trends",
-      "suggestedSlug": "pm-svanidhi",
+      "suggestedSlug": "jee-advanced",
       "guideExists": false
     },
     {
-      "title": "annapurna bhandar online apply",
-      "traffic": "1000+",
-      "pubDate": "Mon, 1 Jun 2026 00:40:00 -0700",
-      "newsTitle": "A Key Bengal BJP Govt Scheme Has a 10-Page Application Form. Heres Why it is Leading to Fears of Disenfranchisement",
-      "source": "google_trends",
-      "suggestedSlug": "annapurna-bhandar-online-apply",
-      "guideExists": true
-    },
-    {
-      "title": "bombay high court",
-      "traffic": "100+",
-      "pubDate": "Mon, 1 Jun 2026 00:40:00 -0700",
-      "newsTitle": "Can In-Laws Be Prosecuted For Husband's Second Marriage? Supreme Court Answers",
-      "source": "google_trends",
-      "suggestedSlug": "bombay-high-court",
-      "guideExists": false
-    },
-    {
-      "title": "passport",
-      "traffic": "200+",
-      "pubDate": "Mon, 1 Jun 2026 00:20:00 -0700",
-      "newsTitle": "Saheb, I have a passport, why don't I still feel sufficiently Indian?",
-      "source": "google_trends",
-      "suggestedSlug": "passport",
-      "guideExists": false
-    },
-    {
-      "title": "pf",
-      "traffic": "1000+",
-      "pubDate": "Mon, 1 Jun 2026 00:10:00 -0700",
-      "newsTitle": "EPFO 3.0 UPI withdrawal: What changes and what doesn't",
-      "source": "google_trends",
-      "suggestedSlug": "pf",
-      "guideExists": false
-    },
-    {
-      "title": "dsssb",
+      "title": "jee advanced 2026",
       "traffic": "500+",
-      "pubDate": "Mon, 1 Jun 2026 00:10:00 -0700",
-      "newsTitle": "DSSSB Final Answer Key 2026 released for PGT, PRT and teaching examinations",
+      "pubDate": "Sun, 31 May 2026 17:20:00 -0700",
+      "newsTitle": "JEE Advanced 2026 Topper AIR 1 to 10 (OUT): Toppers Name with Marks",
       "source": "google_trends",
-      "suggestedSlug": "dsssb",
+      "suggestedSlug": "jee-advanced-2026",
+      "guideExists": false
+    },
+    {
+      "title": "toi",
+      "traffic": "200+",
+      "pubDate": "Sun, 31 May 2026 11:40:00 -0700",
+      "newsTitle": "‘Mantri Pradhan’s Ministry of Scandals’: Congress flags CBSE answer sheets ‘data breach’",
+      "source": "google_trends",
+      "suggestedSlug": "toi",
       "guideExists": false
     }
   ],

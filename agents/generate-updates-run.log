@@ -1,0 +1,562 @@
+[2026-05-27T03:08:07.914Z] ═══════════════════════════════════════════
+[2026-05-27T03:08:07.916Z] 🚀 generate-updates-gemini.js starting
+[2026-05-27T03:08:07.916Z]    Mode: LIVE | Tier filter: all | Force: true
+[2026-05-27T03:08:07.916Z] 📡 Sources to process: 55/55
+[2026-05-27T03:08:07.917Z] 🔴 Real changes detected: 0
+[2026-05-27T03:08:07.919Z] 📚 Dedup registry: 64 entries, 80 slugs
+[2026-05-27T03:08:07.919Z] 
+🔍 Searching: SSC (tier 1)
+[2026-05-27T03:08:08.558Z] ⚠️  Gemini search error for SSC: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:08.558Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:08.558Z] 
+🔍 Searching: UPSC (tier 1)
+[2026-05-27T03:08:08.711Z] ⚠️  Gemini search error for UPSC: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:08.711Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:08.712Z] 
+🔍 Searching: RRB (tier 1)
+[2026-05-27T03:08:08.921Z] ⚠️  Gemini search error for RRB: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:08.921Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:08.921Z] 
+🔍 Searching: IBPS (tier 1)
+[2026-05-27T03:08:09.077Z] ⚠️  Gemini search error for IBPS: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:09.077Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:09.077Z] 
+🔍 Searching: SBI (tier 1)
+[2026-05-27T03:08:09.250Z] ⚠️  Gemini search error for SBI: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:09.250Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:09.250Z] 
+🔍 Searching: NTA (tier 1)
+[2026-05-27T03:08:09.382Z] ⚠️  Gemini search error for NTA: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:09.383Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:09.383Z] 
+🔍 Searching: CBSE (tier 1)
+[2026-05-27T03:08:09.574Z] ⚠️  Gemini search error for CBSE: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:09.574Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:09.574Z] 
+🔍 Searching: UP Board (tier 1)
+[2026-05-27T03:08:09.719Z] ⚠️  Gemini search error for UP Board: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:09.719Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:09.719Z] 
+🔍 Searching: Bihar Board (tier 1)
+[2026-05-27T03:08:09.888Z] ⚠️  Gemini search error for Bihar Board: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:09.889Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:09.889Z] 
+🔍 Searching: Maharashtra Board (tier 1)
+[2026-05-27T03:08:10.047Z] ⚠️  Gemini search error for Maharashtra Board: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:10.047Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:10.047Z] 
+🔍 Searching: RBI (tier 2)
+[2026-05-27T03:08:10.206Z] ⚠️  Gemini search error for RBI: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:10.206Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:10.206Z] 
+🔍 Searching: GATE/IIT (tier 2)
+[2026-05-27T03:08:10.369Z] ⚠️  Gemini search error for GATE/IIT: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:10.369Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:10.369Z] 
+🔍 Searching: UPPSC (tier 2)
+[2026-05-27T03:08:10.561Z] ⚠️  Gemini search error for UPPSC: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:10.561Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:10.561Z] 
+🔍 Searching: BPSC (tier 2)
+[2026-05-27T03:08:10.750Z] ⚠️  Gemini search error for BPSC: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:10.751Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:10.751Z] 
+🔍 Searching: Indian Army (tier 2)
+[2026-05-27T03:08:10.910Z] ⚠️  Gemini search error for Indian Army: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:10.910Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:10.911Z] 
+🔍 Searching: Indian Navy (tier 2)
+[2026-05-27T03:08:11.091Z] ⚠️  Gemini search error for Indian Navy: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:11.091Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:11.092Z] 
+🔍 Searching: Indian Air Force (tier 2)
+[2026-05-27T03:08:11.228Z] ⚠️  Gemini search error for Indian Air Force: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:11.229Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:11.229Z] 
+🔍 Searching: CTET (tier 2)
+[2026-05-27T03:08:11.408Z] ⚠️  Gemini search error for CTET: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:11.408Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:11.409Z] 
+🔍 Searching: MPSC (tier 2)
+[2026-05-27T03:08:11.576Z] ⚠️  Gemini search error for MPSC: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:11.576Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:11.577Z] 
+🔍 Searching: RPSC (tier 2)
+[2026-05-27T03:08:11.928Z] ⚠️  Gemini search error for RPSC: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[2026-05-27T03:08:11.929Z]   → No credible announcement found (nothing recent)
+[2026-05-27T03:08:11.929Z] ⏸️  Reached max searches (20) — stopping
+[2026-05-27T03:08:11.930Z] 
+═══════════════════════════════════════════
+[2026-05-27T03:08:11.930Z] 📊 Run Summary:
+[2026-05-27T03:08:11.930Z]    ✅ Generated:  0 new updates
+[2026-05-27T03:08:11.930Z]    ⏭  Skipped:   20 (dedup/low confidence/no news)
+[2026-05-27T03:08:11.930Z]    ❌ Errors:     0
+[2026-05-27T03:08:11.930Z]    🔍 Searches:  20
+[2026-05-27T03:09:31.292Z] ═══════════════════════════════════════════
+[2026-05-27T03:09:31.294Z] 🚀 generate-updates-gemini.js starting
+[2026-05-27T03:09:31.294Z]    Mode: LIVE | Tier filter: 1 | Force: true
+[2026-05-27T03:09:31.295Z] 📡 Sources to process: 10/55
+[2026-05-27T03:09:31.295Z] 🔴 Real changes detected: 0
+[2026-05-27T03:09:31.306Z] 📚 Dedup registry: 64 entries, 80 slugs
+[2026-05-27T03:09:31.306Z] 
+🔍 Searching: SSC (tier 1)
+[2026-05-27T03:09:36.009Z]   → No credible announcement found (As an AI, I cannot browse the internet in real-time to check for the most recent announcements on https://ssc.gov.in or cross-reference with other live government websites as of 2026-05-27. Therefore, I cannot provide a verified, up-to-date announcement.)
+[2026-05-27T03:09:36.009Z] 
+🔍 Searching: UPSC (tier 1)
+[2026-05-27T03:09:40.302Z]   → No credible announcement found (As an AI, I cannot perform real-time web searches or access current information from websites like upsc.gov.in for the specified future date (2026-05-27). Therefore, I cannot find any recent announcements within the past 7 days.)
+[2026-05-27T03:09:40.302Z] 
+🔍 Searching: RRB (tier 1)
+[2026-05-27T03:09:48.083Z]   → No credible announcement found (As an AI, I do not have real-time access to future web content. Therefore, I cannot verify any announcements made by RRB between 2026-05-21 and 2026-05-27.)
+[2026-05-27T03:09:48.084Z] 
+🔍 Searching: IBPS (tier 1)
+[2026-05-27T03:09:51.719Z]   → No credible announcement found (Unable to access real-time information for the specified future date (2026-05-27) to verify recent announcements.)
+[2026-05-27T03:09:51.719Z] 
+🔍 Searching: SBI (tier 1)
+[2026-05-27T03:09:54.615Z]   → No credible announcement found (As an AI, I cannot browse future websites or access real-time, future-dated information from 2026-05-27. Therefore, I cannot verify any announcements within the specified timeframe.)
+[2026-05-27T03:09:54.615Z] 
+🔍 Searching: NTA (tier 1)
+[2026-05-27T03:09:59.962Z]   → No credible announcement found (Unable to access real-time information for the specified future date (2026-05-27) to verify recent announcements from NTA on official sources. As an AI, I cannot browse future websites or confirm events that have not yet occurred.)
+[2026-05-27T03:09:59.962Z] 
+🔍 Searching: CBSE (tier 1)
+[2026-05-27T03:10:08.532Z]   → Found: [result] CBSE Class 12th Board Examination 2026 (confidence: 1)
+[2026-05-27T03:10:08.533Z]   ✍️  Generating content for: CBSE Class 12th Board Examination 2026 [result]
+[2026-05-27T03:10:19.349Z]   ✅ Written: /Users/rajakumar/.openclaw/workspace/sarkar-sahay/content/updates/cbse-class-12th-board-examination-2026-result.md
+[2026-05-27T03:10:20.350Z] 
+🔍 Searching: UP Board (tier 1)
+[2026-05-27T03:10:27.508Z]   → No credible announcement found (No new exam notifications, admit card releases, result declarations, answer keys, or exam date announcements from UP Board were found on official sources within the last 7 days (2026-05-21 to 2026-05-27) that could be cross-referenced with at least two credible sources.)
+[2026-05-27T03:10:27.509Z] 
+🔍 Searching: Bihar Board (tier 1)
+[2026-05-27T03:10:33.022Z]   → No credible announcement found (As an AI, I do not have real-time access to the internet to browse current websites and verify live announcements from the Bihar Board. Therefore, I cannot confirm any recent updates within the specified timeframe of 2026-05-21 to 2026-05-27.)
+[2026-05-27T03:10:33.022Z] 
+🔍 Searching: Maharashtra Board (tier 1)
+[2026-05-27T03:10:35.904Z]   → No credible announcement found (As an AI, I cannot perform real-time web searches or access future information from 2026-05-27. Therefore, I cannot check for recent announcements on the Maharashtra Board website for the specified date range.)
+[2026-05-27T03:10:35.905Z] 
+═══════════════════════════════════════════
+[2026-05-27T03:10:35.905Z] 📊 Run Summary:
+[2026-05-27T03:10:35.905Z]    ✅ Generated:  1 new updates
+[2026-05-27T03:10:35.905Z]    ⏭  Skipped:   9 (dedup/low confidence/no news)
+[2026-05-27T03:10:35.905Z]    ❌ Errors:     0
+[2026-05-27T03:10:35.905Z]    🔍 Searches:  10
+[2026-05-27T03:10:35.906Z] 
+📄 New pages:
+[2026-05-27T03:10:35.906Z]    https://www.citizennest.com/update/cbse-class-12th-board-examination-2026-result  [confidence: 1]
+[2026-05-27T03:10:35.906Z] 
+💾 Slugs written to /Users/rajakumar/.openclaw/workspace/sarkar-sahay/agents/.newly-generated-slugs for indexing
+[2026-05-27T03:13:11.314Z] ═══════════════════════════════════════════
+[2026-05-27T03:13:11.316Z] 🚀 generate-updates-gemini.js starting
+[2026-05-27T03:13:11.316Z]    Mode: LIVE | Tier filter: 1 | Force: true
+[2026-05-27T03:13:11.317Z] 📡 Sources to process: 10/55
+[2026-05-27T03:13:11.317Z] 🔴 Real changes detected: 0
+[2026-05-27T03:13:11.324Z] 📚 Dedup registry: 64 entries, 80 slugs
+[2026-05-27T03:13:11.324Z] 
+🔍 Searching: SSC (tier 1)
+[2026-05-27T03:13:15.156Z]   → No credible announcement found (As an AI, I do not have real-time access to the internet to browse live websites like https://ssc.gov.in and cross-reference information from multiple sources. Therefore, I cannot verify the most recent announcements within the past 7 days from today's date (2026-05-27).)
+[2026-05-27T03:13:15.157Z] 
+🔍 Searching: UPSC (tier 1)
+[2026-05-27T03:13:19.746Z]   → No credible announcement found (No verifiable announcement from UPSC found within the last 7 days (2026-05-20 to 2026-05-27) that meets the criteria of appearing on at least two credible official sources.)
+[2026-05-27T03:13:19.747Z] 
+🔍 Searching: RRB (tier 1)
+[2026-05-27T03:13:25.275Z]   → No credible announcement found (As an AI, I cannot access real-time, future-dated information from websites as of 2026-05-27 to verify recent announcements. My knowledge is based on data up to my last training update.)
+[2026-05-27T03:13:25.276Z] 
+🔍 Searching: IBPS (tier 1)
+[2026-05-27T03:13:28.726Z]   → No credible announcement found (As an AI, I cannot perform real-time web searches or access future content from 2026-05-27. Therefore, I cannot verify any announcements made by IBPS within the specified 7-day period (2026-05-21 to 2026-05-27).)
+[2026-05-27T03:13:28.727Z] 
+🔍 Searching: SBI (tier 1)
+[2026-05-27T03:13:32.082Z]   → No credible announcement found (As an AI, I cannot browse the internet in real-time to check for announcements on specific websites or verify information from future dates (2026-05-27). Therefore, I cannot confirm any recent SBI announcements within the specified timeframe.)
+[2026-05-27T03:13:32.083Z] 
+🔍 Searching: NTA (tier 1)
+[2026-05-27T03:13:42.107Z]   → Found: [result] National Eligibility cum Entrance Test (UG) 2026 (confidence: 1)
+[2026-05-27T03:13:42.107Z]   ⚠️  Warning: no verified second source — proceeding with caution
+[2026-05-27T03:13:42.122Z]   ✍️  Generating content for: National Eligibility cum Entrance Test (UG) 2026 [result]
+[2026-05-27T03:13:55.690Z]   ✅ Written: /Users/rajakumar/.openclaw/workspace/sarkar-sahay/content/updates/nta-national-eligibility-cum-entrance-test-ug-2026-result.md
+[2026-05-27T03:13:56.691Z] 
+🔍 Searching: CBSE (tier 1)
+[2026-05-27T03:14:06.436Z]   → Found: [result] CBSE Class 12 Board Examination 2026 (confidence: 1)
+[2026-05-27T03:14:06.437Z]   ✍️  Generating content for: CBSE Class 12 Board Examination 2026 [result]
+[2026-05-27T03:14:19.251Z]   ✅ Written: /Users/rajakumar/.openclaw/workspace/sarkar-sahay/content/updates/cbse-class-12-board-examination-2026-result.md
+[2026-05-27T03:14:20.252Z] 
+🔍 Searching: UP Board (tier 1)
+[2026-05-27T03:14:28.873Z]   → No credible announcement found (As an AI, I do not have real-time access to browse websites as of 2026-05-27 to verify announcements across multiple credible sources within the past 7 days. Therefore, I cannot confirm any recent UP Board announcements with high confidence.)
+[2026-05-27T03:14:28.873Z] 
+🔍 Searching: Bihar Board (tier 1)
+[2026-05-27T03:14:34.805Z]   → No credible announcement found (No recent, credible announcement found from Bihar Board within the last 7 days (2026-05-21 to 2026-05-27) that meets the cross-verification requirements from official sources.)
+[2026-05-27T03:14:34.807Z] 
+🔍 Searching: Maharashtra Board (tier 1)
+[2026-05-27T03:14:43.568Z]   → No credible announcement found (No recent, cross-referenced announcements (new exam notifications, admit card releases, result declarations, answer keys, exam date announcements) found on official Maharashtra Board websites within the past 7 days (2026-05-21 to 2026-05-27) that meet the high confidence and dual-source verification criteria.)
+[2026-05-27T03:14:43.569Z] 
+═══════════════════════════════════════════
+[2026-05-27T03:14:43.569Z] 📊 Run Summary:
+[2026-05-27T03:14:43.569Z]    ✅ Generated:  2 new updates
+[2026-05-27T03:14:43.569Z]    ⏭  Skipped:   8 (dedup/low confidence/no news)
+[2026-05-27T03:14:43.569Z]    ❌ Errors:     0
+[2026-05-27T03:14:43.569Z]    🔍 Searches:  10
+[2026-05-27T03:14:43.570Z] 
+📄 New pages:
+[2026-05-27T03:14:43.570Z]    https://www.citizennest.com/update/nta-national-eligibility-cum-entrance-test-ug-2026-result  [confidence: 1]
+[2026-05-27T03:14:43.570Z]    https://www.citizennest.com/update/cbse-class-12-board-examination-2026-result  [confidence: 1]
+[2026-05-27T03:14:43.570Z] 
+💾 Slugs written to /Users/rajakumar/.openclaw/workspace/sarkar-sahay/agents/.newly-generated-slugs for indexing
+[2026-05-27T03:15:40.426Z] ═══════════════════════════════════════════
+[2026-05-27T03:15:40.427Z] 🚀 generate-updates-gemini.js starting
+[2026-05-27T03:15:40.428Z]    Mode: LIVE | Tier filter: 1 | Force: true
+[2026-05-27T03:15:40.428Z] 📡 Sources to process: 10/55
+[2026-05-27T03:15:40.428Z] 🔴 Real changes detected: 0
+[2026-05-27T03:15:40.432Z] 📚 Dedup registry: 66 entries, 82 slugs
+[2026-05-27T03:15:40.432Z] 
+🔍 Searching: SSC (tier 1)
+[2026-05-27T03:15:45.673Z]   → No credible announcement found (As an AI, I do not have real-time access to the internet to browse current websites like https://ssc.gov.in and cross-reference announcements within the specified 7-day window (2026-05-20 to 2026-05-27). Therefore, I cannot verify any recent announcements with high confidence from multiple credible sources.)
+[2026-05-27T03:15:45.673Z] 
+🔍 Searching: UPSC (tier 1)
+[2026-05-27T03:15:49.559Z]   → No credible announcement found (Unable to perform real-time web search for announcements on the specified date. My knowledge cutoff is prior to 2026-05-27, and I cannot access future live websites.)
+[2026-05-27T03:15:49.559Z] 
+🔍 Searching: RRB (tier 1)
+[2026-05-27T03:16:03.383Z]   → Found: [admit-card] CEN 02/2025 (Junior Engineer Posts) (confidence: 0.98)
+[2026-05-27T03:16:03.401Z]   ✍️  Generating content for: CEN 02/2025 (Junior Engineer Posts) [admit-card]
+[2026-05-27T03:16:14.449Z]   ✅ Written: /Users/rajakumar/.openclaw/workspace/sarkar-sahay/content/updates/rrb-cen-02-junior-engineer-posts-2025-admit-card.md
+[2026-05-27T03:16:15.450Z] 
+🔍 Searching: IBPS (tier 1)
+[2026-05-27T03:16:19.089Z]   → No credible announcement found (As an AI, I do not have real-time access to future website updates or the ability to browse the internet beyond my last training data. Therefore, I cannot verify announcements from 2026-05-21 to 2026-05-27.)
+[2026-05-27T03:16:19.089Z] 
+🔍 Searching: SBI (tier 1)
+[2026-05-27T03:16:22.532Z]   → No credible announcement found (As an AI, I do not have real-time access to the internet to browse current websites and verify announcements from 2026-05-20 to 2026-05-27. Therefore, I cannot confirm any recent activity on the SBI careers portal or other credible sources for the specified date range.)
+[2026-05-27T03:16:22.532Z] 
+🔍 Searching: NTA (tier 1)
+[2026-05-27T03:16:29.392Z]   → No credible announcement found (As an AI, I do not have real-time access to the internet or future web content (2026-05-27). Therefore, I cannot perform a live search on https://nta.ac.in or cross-reference with other official sources to find recent announcements and verify them with high confidence.)
+[2026-05-27T03:16:29.393Z] 
+🔍 Searching: CBSE (tier 1)
+[2026-05-27T03:16:35.496Z]   → No credible announcement found (As an AI, I cannot access real-time future information or perform live web searches to verify announcements made between 2026-05-21 and 2026-05-27 across multiple credible sources.)
+[2026-05-27T03:16:35.496Z] 
+🔍 Searching: UP Board (tier 1)
+[2026-05-27T03:16:45.368Z]   → Found: [result] UP Board Class 10 & 12 Examination 2026 (confidence: 1)
+[2026-05-27T03:16:45.369Z]   ✍️  Generating content for: UP Board Class 10 & 12 Examination 2026 [result]
+[2026-05-27T03:16:56.221Z]   ✅ Written: /Users/rajakumar/.openclaw/workspace/sarkar-sahay/content/updates/up-board-class-10-12-examination-2026-result.md
+[2026-05-27T03:16:57.221Z] 
+🔍 Searching: Bihar Board (tier 1)
+[2026-05-27T03:17:02.185Z]   → No credible announcement found (As an AI, I cannot access real-time or future web content to verify announcements from the Bihar Board for the specified date range (2026-05-21 to 2026-05-27).)
+[2026-05-27T03:17:02.186Z] 
+🔍 Searching: Maharashtra Board (tier 1)
+[2026-05-27T03:17:10.352Z]   → Found: [result] Maharashtra HSC Examination 2026 (confidence: 0.95)
+[2026-05-27T03:17:10.353Z]   ⚠️  Warning: no verified second source — proceeding with caution
+[2026-05-27T03:17:10.353Z]   ✍️  Generating content for: Maharashtra HSC Examination 2026 [result]
+[2026-05-27T03:17:26.534Z]   ✅ Written: /Users/rajakumar/.openclaw/workspace/sarkar-sahay/content/updates/maharashtra-board-maharashtra-hsc-examination-2026-result.md
+[2026-05-27T03:17:27.536Z] 
+═══════════════════════════════════════════
+[2026-05-27T03:17:27.536Z] 📊 Run Summary:
+[2026-05-27T03:17:27.536Z]    ✅ Generated:  3 new updates
+[2026-05-27T03:17:27.536Z]    ⏭  Skipped:   7 (dedup/low confidence/no news)
+[2026-05-27T03:17:27.536Z]    ❌ Errors:     0
+[2026-05-27T03:17:27.536Z]    🔍 Searches:  10
+[2026-05-27T03:17:27.536Z] 
+📄 New pages:
+[2026-05-27T03:17:27.536Z]    https://www.citizennest.com/update/rrb-cen-02-junior-engineer-posts-2025-admit-card  [confidence: 0.98]
+[2026-05-27T03:17:27.537Z]    https://www.citizennest.com/update/up-board-class-10-12-examination-2026-result  [confidence: 1]
+[2026-05-27T03:17:27.537Z]    https://www.citizennest.com/update/maharashtra-board-maharashtra-hsc-examination-2026-result  [confidence: 0.95]
+[2026-05-27T03:17:27.537Z] 
+💾 Slugs written to /Users/rajakumar/.openclaw/workspace/sarkar-sahay/agents/.newly-generated-slugs for indexing
+[2026-05-27T12:39:36.489Z] ═══════════════════════════════════════════
+[2026-05-27T12:39:36.491Z] 🚀 generate-updates-gemini.js starting
+[2026-05-27T12:39:36.491Z]    Mode: DRY RUN | Tier filter: 1 | Force: true
+[2026-05-27T12:39:36.491Z] 📡 Sources to process: 10/55
+[2026-05-27T12:39:36.491Z] 🔴 Real changes detected: 3
+[2026-05-27T12:39:36.501Z] 📚 Dedup registry: 73 entries, 89 slugs
+[2026-05-27T12:39:36.502Z] 
+🔍 Searching: SSC (tier 1)
+[2026-05-27T12:39:36.502Z]   🌐 Fetching live page: https://ssc.gov.in
+[2026-05-27T12:39:36.922Z]   📄 PDF links found on page: 0
+[2026-05-27T12:39:36.922Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T12:39:41.883Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T12:39:41.884Z] 
+🔍 Searching: UPSC (tier 1)
+[2026-05-27T12:39:41.884Z]   🌐 Fetching live page: https://upsc.gov.in
+[2026-05-27T12:39:42.206Z]   ⚠️  Could not fetch page (network issue / blocked) — falling back to training data
+[2026-05-27T12:39:42.206Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T12:39:44.336Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T12:39:44.336Z] 
+🔍 Searching: RRB (tier 1)
+[2026-05-27T12:39:44.336Z]   🌐 Fetching live page: https://www.rrbcdg.gov.in
+[2026-05-27T12:39:52.237Z]   📄 PDF links found on page: 3
+[2026-05-27T12:39:52.237Z]   📥 Downloading PDF: https://www.rrbcdg.gov.in/uploads/2026/01-ALP/012026ALP-IndicativeNotice-Hi.pdf
+[2026-05-27T12:39:55.666Z]   ✅ PDF downloaded: 969 KB — sending to Gemini
+[2026-05-27T12:40:09.495Z]   → Found: [notification] RRB ALP CEN 01/2026 (confidence: 0.95)
+[2026-05-27T12:40:09.522Z]   ✍️  Generating content for: RRB ALP CEN 01/2026 [notification]
+[2026-05-27T12:40:35.678Z]   🔵 DRY RUN — would write: /Users/rajakumar/.openclaw/workspace/sarkar-sahay/content/updates/rrb-alp-cen-01-2026-notification.md
+[2026-05-27T12:40:35.678Z]      Title: RRB ALP CEN 01/2026 Notification — 11127 Vacancies, Apply by 14 Jun 2026
+[2026-05-27T12:40:35.679Z]      Desc: RRB ALP CEN 01/2026 official notification out. 11127 vacancies. Apply online by 14 Jun 2026. Check eligibility, dates & apply at www.rrbapply.gov.in.
+[2026-05-27T12:40:36.680Z] 
+🔍 Searching: IBPS (tier 1)
+[2026-05-27T12:40:36.680Z]   🌐 Fetching live page: https://www.ibps.in
+[2026-05-27T12:40:38.046Z]   📄 PDF links found on page: 3
+[2026-05-27T12:40:38.046Z]   📥 Downloading PDF: https://www.ibps.in/wp-content/uploads/Advertisement-for-Division-Head-F-AS-on-contract.pdf
+[2026-05-27T12:40:38.509Z]   ✅ PDF downloaded: 377 KB — sending to Gemini
+[2026-05-27T12:42:15.903Z] ═══════════════════════════════════════════
+[2026-05-27T12:42:15.904Z] 🚀 generate-updates-gemini.js starting
+[2026-05-27T12:42:15.904Z]    Mode: DRY RUN | Tier filter: 1 | Force: true
+[2026-05-27T12:42:15.904Z] 📡 Sources to process: 10/55
+[2026-05-27T12:42:15.905Z] 🔴 Real changes detected: 1
+[2026-05-27T12:42:15.913Z] 📚 Dedup registry: 73 entries, 89 slugs
+[2026-05-27T12:42:15.914Z] 
+🔍 Searching: SSC (tier 1)
+[2026-05-27T12:42:15.914Z]   🌐 Fetching live page: https://ssc.gov.in
+[2026-05-27T12:42:16.723Z]   📄 PDF links found on page: 0
+[2026-05-27T12:42:16.724Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T12:42:22.092Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T12:42:22.093Z] 
+🔍 Searching: UPSC (tier 1)
+[2026-05-27T12:42:22.093Z]   🌐 Fetching live page: https://upsc.gov.in
+[2026-05-27T12:42:22.330Z]   ⚠️  Could not fetch page (network issue / blocked) — falling back to training data
+[2026-05-27T12:42:22.330Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T12:42:33.254Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T12:42:33.254Z] 
+🔍 Searching: RRB (tier 1)
+[2026-05-27T12:42:33.255Z]   🌐 Fetching live page: https://www.rrbcdg.gov.in
+[2026-05-27T12:42:34.405Z]   📄 PDF links found on page: 3
+[2026-05-27T12:42:34.406Z]   📥 Downloading PDF: https://www.rrbcdg.gov.in/uploads/2026/01-ALP/012026ALP-IndicativeNotice-Hi.pdf
+[2026-05-27T12:42:35.458Z]   ✅ PDF downloaded: 969 KB — sending to Gemini
+[2026-05-27T12:42:46.464Z]   → Found: [notification] RRB Assistant Loco Pilot (ALP) CEN 01/2026 (confidence: 0.9)
+[2026-05-27T12:42:46.488Z]   ✍️  Generating content for: RRB Assistant Loco Pilot (ALP) CEN 01/2026 [notification]
+[2026-05-27T12:42:46.489Z] 💥 Fatal error: announcement.selectionProcess.join is not a function
+[2026-05-27T12:44:23.344Z]   ⚠️  PDF extraction error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/mod
+[2026-05-27T12:44:23.345Z]   ⚠️  PDF extraction returned nothing useful — trying next PDF
+[2026-05-27T12:44:23.345Z]   📥 Downloading PDF: https://www.ibps.in/wp-content/uploads/Advertisement-for-Deputy-Manager-Accounts-Grade-E-April-2026.pdf
+[2026-05-27T12:44:24.127Z]   ✅ PDF downloaded: 449 KB — sending to Gemini
+[2026-05-27T12:44:58.365Z]   ⚠️  PDF extraction error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/mod
+[2026-05-27T12:44:58.365Z]   ⚠️  PDF extraction returned nothing useful — trying next PDF
+[2026-05-27T12:44:58.366Z]   📥 Downloading PDF: https://www.ibps.in/wp-content/uploads/IBPS-Notification-Fraud-Websites-27April26.pdf
+[2026-05-27T12:44:59.458Z]   ✅ PDF downloaded: 431 KB — sending to Gemini
+[2026-05-27T12:45:05.969Z]   ⚠️  PDF extraction returned nothing useful — trying next PDF
+[2026-05-27T12:45:05.970Z]   📝 Falling back to page text extraction (3372 chars)
+[2026-05-27T12:45:40.758Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T12:45:46.599Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T12:45:46.600Z] 
+🔍 Searching: SBI (tier 1)
+[2026-05-27T12:45:46.600Z]   🌐 Fetching live page: https://www.sbi.co.in/web/careers
+[2026-05-27T12:45:47.437Z]   📄 PDF links found on page: 0
+[2026-05-27T12:45:47.438Z]   📝 Falling back to page text extraction (8000 chars)
+[2026-05-27T12:45:52.356Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T12:45:56.585Z]   → No credible announcement found (could not fetch page and insufficient training confidence for a recent announcement (past 7 days from 2026-05-27).)
+[2026-05-27T12:45:56.586Z] 
+🔍 Searching: NTA (tier 1)
+[2026-05-27T12:45:56.586Z]   🌐 Fetching live page: https://nta.ac.in
+[2026-05-27T12:45:59.906Z]   📄 PDF links found on page: 3
+[2026-05-27T12:45:59.907Z]   📥 Downloading PDF: https://nta.ac.in/Download/Notice/Notice_20260527175411.pdf
+[2026-05-27T12:46:02.554Z]   ✅ PDF downloaded: 523 KB — sending to Gemini
+[2026-05-27T12:46:12.643Z]   → Found: [notification] UGC-NET June 2026 Examination (confidence: 0.9)
+[2026-05-27T12:46:12.644Z]   ⚠️  Warning: no verified second source — proceeding with caution
+[2026-05-27T12:46:12.645Z]   ✍️  Generating content for: UGC-NET June 2026 Examination [notification]
+[2026-05-27T12:46:39.461Z]   🔵 DRY RUN — would write: /Users/rajakumar/.openclaw/workspace/sarkar-sahay/content/updates/nta-ugc-net-june-examination-2026-notification.md
+[2026-05-27T12:46:39.461Z]      Title: UGC-NET June 2026 Examination Notification — NTA Official Update
+[2026-05-27T12:46:39.461Z]      Desc: UGC-NET June 2026 Examination official notification out. Apply online by 24 May 2026. Check eligibility, dates & apply at ugcnet.nta.nic.in.
+[2026-05-27T12:46:40.464Z] 
+🔍 Searching: CBSE (tier 1)
+[2026-05-27T12:46:40.465Z]   🌐 Fetching live page: https://cbseresults.nic.in
+[2026-05-27T12:46:40.693Z]   ⚠️  Could not fetch page (network issue / blocked) — falling back to training data
+[2026-05-27T12:46:40.694Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T12:46:47.411Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T12:46:47.411Z] 
+🔍 Searching: UP Board (tier 1)
+[2026-05-27T12:46:47.412Z]   🌐 Fetching live page: https://upmsp.edu.in
+[2026-05-27T12:46:47.922Z]   📄 PDF links found on page: 3
+[2026-05-27T12:46:47.923Z]   📥 Downloading PDF: https://upmsp.edu.in/Downloads/exam_result_2026.pdf
+[2026-05-27T12:46:48.633Z]   ✅ PDF downloaded: 121 KB — sending to Gemini
+[2026-05-27T12:46:58.876Z]   → Found: [result] UP Board High School & Intermediate Examination 2026 (confidence: 1)
+[2026-05-27T12:46:58.877Z]   ✍️  Generating content for: UP Board High School & Intermediate Examination 2026 [result]
+[2026-05-27T12:47:03.515Z] ═══════════════════════════════════════════
+[2026-05-27T12:47:03.517Z] 🚀 generate-updates-gemini.js starting
+[2026-05-27T12:47:03.517Z]    Mode: LIVE | Tier filter: 1 | Force: true
+[2026-05-27T12:47:03.517Z] 📡 Sources to process: 10/55
+[2026-05-27T12:47:03.517Z] 🔴 Real changes detected: 1
+[2026-05-27T12:47:03.526Z] 📚 Dedup registry: 73 entries, 89 slugs
+[2026-05-27T12:47:03.526Z] 
+🔍 Searching: SSC (tier 1)
+[2026-05-27T12:47:03.527Z]   🌐 Fetching live page: https://ssc.gov.in/portal/notice-new
+[2026-05-27T12:47:04.027Z]   📄 PDF links found on page: 0
+[2026-05-27T12:47:04.028Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T12:47:09.260Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T12:47:09.260Z] 
+🔍 Searching: UPSC (tier 1)
+[2026-05-27T12:47:09.260Z]   🌐 Fetching live page: https://upsc.gov.in/whatsnew
+[2026-05-27T12:47:09.519Z]   ⚠️  Could not fetch page (network issue / blocked) — falling back to training data
+[2026-05-27T12:47:09.519Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T12:47:11.999Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T12:47:12.000Z] 
+🔍 Searching: RRB (tier 1)
+[2026-05-27T12:47:12.001Z]   🌐 Fetching live page: https://www.rrbcdg.gov.in
+[2026-05-27T12:47:12.985Z]   📄 PDF links found on page: 5
+[2026-05-27T12:47:12.986Z]   📥 Downloading PDF: https://www.rrbcdg.gov.in/uploads/2025/02-TECH/022025TECH-CBTResult_Tech1.pdf
+[2026-05-27T12:47:13.270Z]   ✅ PDF downloaded: 227 KB — sending to Gemini
+[2026-05-27T12:47:22.629Z]   → Found: [result] TECHNICIAN GRADE I SIGNAL - CEN 02/2025 (confidence: 0.9)
+[2026-05-27T12:47:22.629Z]   ⚠️  Warning: no verified second source — proceeding with caution
+[2026-05-27T12:47:22.647Z]   ✍️  Generating content for: TECHNICIAN GRADE I SIGNAL - CEN 02/2025 [result]
+[2026-05-27T12:47:57.739Z]   ✅ Written: /Users/rajakumar/.openclaw/workspace/sarkar-sahay/content/updates/rrb-technician-grade-i-signal-cen-02-2025-result.md
+[2026-05-27T12:47:58.741Z] 
+🔍 Searching: IBPS (tier 1)
+[2026-05-27T12:47:58.742Z]   🌐 Fetching live page: https://www.ibps.in
+[2026-05-27T12:47:59.982Z]   📄 PDF links found on page: 3
+[2026-05-27T12:47:59.983Z]   📥 Downloading PDF: https://www.ibps.in/wp-content/uploads/Advertisement-for-Deputy-Manager-Accounts-Grade-E-April-2026.pdf
+[2026-05-27T12:48:00.386Z]   ✅ PDF downloaded: 449 KB — sending to Gemini
+[2026-05-27T12:48:09.883Z]   → Found: [notification] IBPS Deputy Manager - Accounts Recruitment 2026-27 (confidence: 1)
+[2026-05-27T12:48:09.883Z]   ⚠️  Warning: no verified second source — proceeding with caution
+[2026-05-27T12:48:09.884Z]   ✍️  Generating content for: IBPS Deputy Manager - Accounts Recruitment 2026-27 [notification]
+[2026-05-27T12:48:41.862Z]   ✅ Written: /Users/rajakumar/.openclaw/workspace/sarkar-sahay/content/updates/ibps-deputy-manager-accounts-recruitment-27-2026-notification.md
+[2026-05-27T12:48:42.864Z] 
+🔍 Searching: SBI (tier 1)
+[2026-05-27T12:48:42.865Z]   🌐 Fetching live page: https://www.sbi.co.in/web/careers
+[2026-05-27T12:48:44.136Z]   📄 PDF links found on page: 1
+[2026-05-27T12:48:44.136Z]   📥 Downloading PDF: https://www.sbi.co.in/documents/77530/47792862/career+progression.pdf/f50e62fe-fdf0-1a86-c085-b59d46cef919?t=1724840715877
+[2026-05-27T12:48:45.161Z]   ✅ PDF downloaded: 204 KB — sending to Gemini
+[2026-05-27T12:48:49.586Z]   ⚠️  PDF extraction returned nothing useful — trying next PDF
+[2026-05-27T12:48:49.588Z]   📝 Falling back to page text extraction (8000 chars)
+[2026-05-27T12:48:53.684Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T12:48:57.679Z]   → No credible announcement found (could not fetch page and insufficient training confidence for recent announcements (past 7 days relative to 2026-05-27))
+[2026-05-27T12:48:57.679Z] 
+🔍 Searching: NTA (tier 1)
+[2026-05-27T12:48:57.680Z]   🌐 Fetching live page: https://nta.ac.in
+[2026-05-27T12:49:00.582Z]   📄 PDF links found on page: 5
+[2026-05-27T12:49:00.582Z]   📥 Downloading PDF: https://nta.ac.in/Download/Notice/Notice_20260527175411.pdf
+[2026-05-27T12:49:03.195Z]   ✅ PDF downloaded: 523 KB — sending to Gemini
+[2026-05-27T12:49:13.039Z]   → Found: [notification] UGC-NET June 2026 Examination (confidence: 0.9)
+[2026-05-27T12:49:13.040Z]   ⚠️  Warning: no verified second source — proceeding with caution
+[2026-05-27T12:49:13.041Z]   ✍️  Generating content for: UGC-NET June 2026 Examination [notification]
+[2026-05-27T12:49:47.242Z]   ✅ Written: /Users/rajakumar/.openclaw/workspace/sarkar-sahay/content/updates/nta-ugc-net-june-examination-2026-notification.md
+[2026-05-27T12:49:48.244Z] 
+🔍 Searching: CBSE (tier 1)
+[2026-05-27T12:49:48.245Z]   🌐 Fetching live page: https://cbseresults.nic.in
+[2026-05-27T12:49:48.435Z]   ⚠️  Could not fetch page (network issue / blocked) — falling back to training data
+[2026-05-27T12:49:48.435Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T12:49:56.673Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T12:49:56.674Z] 
+🔍 Searching: UP Board (tier 1)
+[2026-05-27T12:49:56.674Z]   🌐 Fetching live page: https://upmsp.edu.in
+[2026-05-27T12:49:57.096Z]   📄 PDF links found on page: 5
+[2026-05-27T12:49:57.096Z]   📥 Downloading PDF: https://upmsp.edu.in/Downloads/exam_result_2026.pdf
+[2026-05-27T12:49:57.335Z]   ✅ PDF downloaded: 121 KB — sending to Gemini
+[2026-05-27T12:50:07.416Z]   → Found: [result] UP Board High School & Intermediate Exam 2026 (confidence: 1)
+[2026-05-27T12:50:07.418Z]   ✍️  Generating content for: UP Board High School & Intermediate Exam 2026 [result]
+[2026-05-27T12:54:37.910Z]   ✅ Written: /Users/rajakumar/.openclaw/workspace/sarkar-sahay/content/updates/up-board-high-school-intermediate-exam-2026-result.md
+[2026-05-27T12:54:38.913Z] 
+🔍 Searching: Bihar Board (tier 1)
+[2026-05-27T12:54:38.915Z]   🌐 Fetching live page: https://biharboardonline.bihar.gov.in
+[2026-05-27T12:54:43.156Z]   ⚠️  Could not fetch page (network issue / blocked) — falling back to training data
+[2026-05-27T12:54:43.157Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T12:54:47.790Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T12:54:47.791Z] 
+🔍 Searching: Maharashtra Board (tier 1)
+[2026-05-27T12:54:47.792Z]   🌐 Fetching live page: https://mahresult.nic.in
+[2026-05-27T12:54:47.944Z]   ⚠️  Could not fetch page (network issue / blocked) — falling back to training data
+[2026-05-27T12:54:47.944Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T12:54:53.868Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T12:54:53.872Z] 
+═══════════════════════════════════════════
+[2026-05-27T12:54:53.872Z] 📊 Run Summary:
+[2026-05-27T12:54:53.872Z]    ✅ Generated:  4 new updates
+[2026-05-27T12:54:53.872Z]    ⏭  Skipped:   6 (dedup/low confidence/no news)
+[2026-05-27T12:54:53.872Z]    ❌ Errors:     0
+[2026-05-27T12:54:53.872Z]    🔍 Searches:  10
+[2026-05-27T12:54:53.872Z] 
+📄 New pages:
+[2026-05-27T12:54:53.872Z]    https://www.citizennest.com/update/rrb-technician-grade-i-signal-cen-02-2025-result  [confidence: 0.9]
+[2026-05-27T12:54:53.872Z]    https://www.citizennest.com/update/ibps-deputy-manager-accounts-recruitment-27-2026-notification  [confidence: 1]
+[2026-05-27T12:54:53.873Z]    https://www.citizennest.com/update/nta-ugc-net-june-examination-2026-notification  [confidence: 0.9]
+[2026-05-27T12:54:53.873Z]    https://www.citizennest.com/update/up-board-high-school-intermediate-exam-2026-result  [confidence: 1]
+[2026-05-27T12:54:53.873Z] 
+💾 Slugs written to /Users/rajakumar/.openclaw/workspace/sarkar-sahay/agents/.newly-generated-slugs for indexing
+[2026-05-27T14:34:02.436Z] ═══════════════════════════════════════════
+[2026-05-27T14:34:02.437Z] 🚀 generate-updates-gemini.js starting
+[2026-05-27T14:34:02.437Z]    Mode: LIVE | Tier filter: all | Force: false
+[2026-05-27T14:34:02.437Z] 📡 Sources to process: 55/55
+[2026-05-27T14:34:02.437Z] 🔴 Real changes detected: 3
+[2026-05-27T14:34:02.448Z] 📚 Dedup registry: 77 entries, 93 slugs
+[2026-05-27T14:34:02.449Z] 🎯 Processing 1 changed + 9 tier1 sources (max 20)
+[2026-05-27T14:34:02.449Z] 
+🔍 Searching: NTA (tier 1)
+[2026-05-27T14:34:02.449Z]   🔗 Detector-provided PDF URL: https://nta.ac.in/Download/Notice/Notice_20260527195858.pdf
+[2026-05-27T14:34:02.450Z]   🌐 Fetching live page: https://nta.ac.in
+[2026-05-27T14:34:05.958Z]   📄 PDF links found on page: 5 (detector-provided URL first)
+[2026-05-27T14:34:05.959Z]   📥 Downloading PDF: https://nta.ac.in/Download/Notice/Notice_20260527195858.pdf
+[2026-05-27T14:34:08.158Z]   ✅ PDF downloaded: 385 KB — sending to Gemini
+[2026-05-27T14:34:20.611Z]   → Found: [admit-card] CUET (ug) 2026 (confidence: 0.9)
+[2026-05-27T14:34:20.627Z]   ✍️  Generating content for: CUET (ug) 2026 [admit-card]
+[2026-05-27T14:35:26.027Z]   ✅ Written: /Users/rajakumar/.openclaw/workspace/sarkar-sahay/content/updates/nta-cuet-ug-2026-admit-card.md
+[2026-05-27T14:35:27.029Z] 
+🔍 Searching: SSC (tier 1)
+[2026-05-27T14:35:27.029Z]   🌐 Fetching live page: https://ssc.gov.in/portal/notice-new
+[2026-05-27T14:35:27.628Z]   📄 PDF links found on page: 0
+[2026-05-27T14:35:27.629Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T14:35:30.400Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T14:35:30.400Z] 
+🔍 Searching: UPSC (tier 1)
+[2026-05-27T14:35:30.401Z]   🌐 Fetching live page: https://upsc.gov.in/whatsnew
+[2026-05-27T14:35:30.640Z]   ⚠️  Could not fetch page (network issue / blocked) — falling back to training data
+[2026-05-27T14:35:30.640Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T14:35:34.531Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T14:35:34.531Z] 
+🔍 Searching: RRB (tier 1)
+[2026-05-27T14:35:34.532Z]   🌐 Fetching live page: https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,1,304,366
+[2026-05-27T14:35:35.221Z]   📄 PDF links found on page: 3
+[2026-05-27T14:35:35.221Z]   📥 Downloading PDF: https://indianrailways.gov.in/railwayboard/uploads/directorate/secretary_branches/Office_Order_2020/OO_75_2020.pdf
+[2026-05-27T14:35:43.368Z]   ✅ PDF downloaded: 1333 KB — sending to Gemini
+[2026-05-27T14:35:55.077Z]   ⚠️  PDF extraction returned nothing useful — trying next PDF
+[2026-05-27T14:35:55.078Z]   📥 Downloading PDF: https://indianrailways.gov.in/railwayboard/uploads/directorate/secretary_branches/Office_Order_2020/OO_42_2020.pdf
+[2026-05-27T14:35:57.776Z]   ✅ PDF downloaded: 434 KB — sending to Gemini
+[2026-05-27T14:36:04.906Z]   ⚠️  PDF extraction returned nothing useful — trying next PDF
+[2026-05-27T14:36:04.906Z]   📥 Downloading PDF: https://indianrailways.gov.in/railwayboard/uploads/directorate/secretary_branches/Office_Order_2023/OO_60_2023_260923.pdf
+[2026-05-27T14:36:12.124Z]   ✅ PDF downloaded: 602 KB — sending to Gemini
+[2026-05-27T14:36:22.626Z]   ⚠️  PDF extraction returned nothing useful — trying next PDF
+[2026-05-27T14:36:22.629Z]   📝 Falling back to page text extraction (3987 chars)
+[2026-05-27T14:36:29.183Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T14:36:32.660Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T14:36:32.661Z] 
+🔍 Searching: IBPS (tier 1)
+[2026-05-27T14:36:32.661Z]   🌐 Fetching live page: https://www.ibps.in/vacancy/
+[2026-05-27T14:36:33.227Z]   ⚠️  Could not fetch page (network issue / blocked) — falling back to training data
+[2026-05-27T14:36:33.228Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T14:36:35.970Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T14:36:35.970Z] 
+🔍 Searching: SBI (tier 1)
+[2026-05-27T14:36:35.971Z]   🌐 Fetching live page: https://bank.sbi/web/careers/current-openings
+[2026-05-27T14:36:38.734Z]   📄 PDF links found on page: 0
+[2026-05-27T14:36:38.735Z]   📝 Falling back to page text extraction (8000 chars)
+[2026-05-27T14:37:11.314Z]   🔍 Gap-fill: 3 missing field(s) — making verification call
+[2026-05-27T14:37:16.796Z]   ✅ Gap-fill complete
+[2026-05-27T14:37:16.797Z]   → Found: [registration] Engagement of Apprentices Under The Apprentices Act, 1961 (2026-27) (confidence: 0.9)
+[2026-05-27T14:37:16.797Z]   ⚠️  Warning: no verified second source — proceeding with caution
+[2026-05-27T14:37:16.798Z]   ✍️  Generating content for: Engagement of Apprentices Under The Apprentices Act, 1961 (2026-27) [registration]
+[2026-05-27T14:41:28.922Z]   ✅ Written: /Users/rajakumar/.openclaw/workspace/sarkar-sahay/content/updates/sbi-engagement-of-apprentices-under-the-apprentices-act-1961-27-2026-registration.md
+[2026-05-27T14:41:29.925Z] 
+🔍 Searching: CBSE (tier 1)
+[2026-05-27T14:41:29.926Z]   🌐 Fetching live page: https://results.cbse.nic.in
+[2026-05-27T14:41:30.510Z]   ⚠️  Could not fetch page (network issue / blocked) — falling back to training data
+[2026-05-27T14:41:30.510Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T14:41:36.807Z]   → No credible announcement found (could not fetch page and insufficient training confidence to confirm any specific announcement made in the past 7 days for 2026.)
+[2026-05-27T14:41:36.807Z] 
+🔍 Searching: UP Board (tier 1)
+[2026-05-27T14:41:36.807Z]   🌐 Fetching live page: https://upmsp.edu.in/notices.aspx
+[2026-05-27T14:41:37.564Z]   ⚠️  Could not fetch page (network issue / blocked) — falling back to training data
+[2026-05-27T14:41:37.564Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T14:41:47.276Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T14:41:47.277Z] 
+🔍 Searching: Bihar Board (tier 1)
+[2026-05-27T14:41:47.277Z]   🌐 Fetching live page: https://secondary.biharboardonline.com
+[2026-05-27T14:41:51.142Z]   📄 PDF links found on page: 0
+[2026-05-27T14:41:51.142Z]   📝 Falling back to page text extraction (2607 chars)
+[2026-05-27T14:41:54.224Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T14:41:58.600Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T14:41:58.600Z] 
+🔍 Searching: Maharashtra Board (tier 1)
+[2026-05-27T14:41:58.601Z]   🌐 Fetching live page: https://mahahsscboard.in/result
+[2026-05-27T14:41:59.150Z]   📄 PDF links found on page: 0
+[2026-05-27T14:41:59.151Z]   🧠 Using Gemini training data (least accurate)
+[2026-05-27T14:42:05.666Z]   → No credible announcement found (could not fetch page and insufficient training confidence)
+[2026-05-27T14:42:05.668Z] 
+═══════════════════════════════════════════
+[2026-05-27T14:42:05.668Z] 📊 Run Summary:
+[2026-05-27T14:42:05.668Z]    ✅ Generated:  2 new updates
+[2026-05-27T14:42:05.668Z]    ⏭  Skipped:   8 (dedup/low confidence/no news)
+[2026-05-27T14:42:05.669Z]    ❌ Errors:     0
+[2026-05-27T14:42:05.669Z]    🔍 Searches:  10
+[2026-05-27T14:42:05.669Z] 
+📄 New pages:
+[2026-05-27T14:42:05.669Z]    https://www.citizennest.com/update/nta-cuet-ug-2026-admit-card  [confidence: 0.9]
+[2026-05-27T14:42:05.669Z]    https://www.citizennest.com/update/sbi-engagement-of-apprentices-under-the-apprentices-act-1961-27-2026-registration  [confidence: 0.9]
+[2026-05-27T14:42:05.669Z] 
+💾 Slugs written to /Users/rajakumar/.openclaw/workspace/sarkar-sahay/agents/.newly-generated-slugs for indexing

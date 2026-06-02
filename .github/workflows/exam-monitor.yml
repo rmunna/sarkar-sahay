@@ -122,15 +122,28 @@ jobs:
 
       # ── Step 5: Submit new URLs to search engines ────────────────────────
 
+      - name: Write Google service account key
+        if: steps.commit.outputs.new_count > 0
+        env:
+          GOOGLE_INDEXING_KEY: ${{ secrets.GOOGLE_INDEXING_KEY }}
+        run: |
+          mkdir -p keys
+          echo "$GOOGLE_INDEXING_KEY" > keys/gsc-service-account.json
+          echo "✅ Key file written ($(wc -c < keys/gsc-service-account.json) bytes)"
+
       - name: Submit to Google Indexing API
         if: steps.commit.outputs.new_count > 0
         env:
           GOOGLE_INDEXING_KEY: ${{ secrets.GOOGLE_INDEXING_KEY }}
         run: |
           if [ -f "agents/.newly-generated-slugs" ]; then
+            echo "Submitting slugs:"
+            cat agents/.newly-generated-slugs
             while IFS= read -r slug; do
               node scripts/google-index-submit.js "https://www.citizennest.com/update/$slug" || true
             done < agents/.newly-generated-slugs
+          else
+            echo "No .newly-generated-slugs file found — skipping"
           fi
 
       - name: Submit to IndexNow (Bing + Yandex)
