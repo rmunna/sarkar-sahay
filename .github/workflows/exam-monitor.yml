@@ -41,6 +41,21 @@ jobs:
       - name: Install dependencies
         run: npm ci --prefer-offline
 
+      # ── Step 0: Write Google service account key (always, for all runs) ──
+      - name: Write Google service account key
+        env:
+          GOOGLE_INDEXING_KEY: ${{ secrets.GOOGLE_INDEXING_KEY }}
+        run: |
+          mkdir -p keys
+          echo "$GOOGLE_INDEXING_KEY" > keys/gsc-service-account.json
+          BYTES=$(wc -c < keys/gsc-service-account.json)
+          echo "✅ Key file written ($BYTES bytes)"
+          node -e "
+            const d = JSON.parse(require('fs').readFileSync('./keys/gsc-service-account.json','utf8'));
+            console.log('  type:', d.type);
+            console.log('  project_id:', d.project_id);
+          " 2>/dev/null || echo "  ⚠️ Key is not valid JSON — may need base64 decode"
+
       # ── Step 1: Poll exam sites for changes ──────────────────────────────
 
       - name: Poll exam sites (zero API cost)
@@ -121,15 +136,6 @@ jobs:
           fi
 
       # ── Step 5: Submit new URLs to search engines ────────────────────────
-
-      - name: Write Google service account key
-        if: steps.commit.outputs.new_count > 0
-        env:
-          GOOGLE_INDEXING_KEY: ${{ secrets.GOOGLE_INDEXING_KEY }}
-        run: |
-          mkdir -p keys
-          echo "$GOOGLE_INDEXING_KEY" > keys/gsc-service-account.json
-          echo "✅ Key file written ($(wc -c < keys/gsc-service-account.json) bytes)"
 
       - name: Submit to Google Indexing API
         if: steps.commit.outputs.new_count > 0
