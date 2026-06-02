@@ -1,121 +1,173 @@
 {
-  "scanTime": "2026-06-01T16:58:46.233Z",
-  "elapsedSeconds": 35.1,
-  "changesDetected": 17,
-  "errors": 8,
+  "scanTime": "2026-06-02T18:08:05.608Z",
+  "elapsedSeconds": 56.2,
+  "changesDetected": 14,
+  "errors": 24,
   "changes": [
     {
-      "site": "SBI Careers",
+      "site": "SSC",
+      "type": "NEW_NOTICE",
+      "headline": "Important Notice - Schedule of Examination",
+      "date": "2026-06-02T12:42:32.572Z",
+      "id": "gds7gnnd5whkwbicmacyx",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Date Notice CAG_2025.pdf",
+      "url": "https://ssc.gov.in"
+    },
+    {
+      "site": "SSC",
+      "type": "NEW_NOTICE",
+      "headline": "Empanelment of Language Experts",
+      "date": "2026-06-02T12:11:53.889Z",
+      "id": "ibyn1adl6ox9xvnfh2cxh",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Empanlement of Language Experts.pdf",
+      "url": "https://ssc.gov.in"
+    },
+    {
+      "site": "IBPS",
       "type": "CONTENT_CHANGE",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-06-01T16:58:15.956Z"
+      "url": "https://www.ibps.in/",
+      "detectedAt": "2026-06-02T18:07:22.955Z"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-01T16:58:15.423Z"
+      "detectedAt": "2026-06-02T18:07:22.002Z"
     },
     {
-      "site": "NABARD",
+      "site": "ICAI (CA)",
       "type": "CONTENT_CHANGE",
-      "url": "https://www.nabard.org/career-notices.aspx",
-      "detectedAt": "2026-06-01T16:58:15.754Z"
-    },
-    {
-      "site": "Indian Army",
-      "type": "CONTENT_CHANGE",
-      "url": "https://joinindianarmy.nic.in/",
-      "detectedAt": "2026-06-01T16:58:15.688Z"
-    },
-    {
-      "site": "Indian Navy",
-      "type": "CONTENT_CHANGE",
-      "url": "https://www.joinindiannavy.gov.in/",
-      "detectedAt": "2026-06-01T16:58:16.273Z"
+      "url": "https://www.icai.org/",
+      "detectedAt": "2026-06-02T18:07:22.600Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-01T16:58:17.095Z"
-    },
-    {
-      "site": "BSF",
-      "type": "CONTENT_CHANGE",
-      "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-06-01T16:58:16.914Z"
+      "detectedAt": "2026-06-02T18:07:32.181Z"
     },
     {
       "site": "KVS",
-      "type": "CONTENT_CHANGE",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026060212.pdf",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-01T16:58:19.900Z"
+      "detectedAt": "2026-06-02T18:07:37.343Z"
     },
     {
-      "site": "NVS (Navodaya)",
-      "type": "CONTENT_CHANGE",
-      "url": "https://navodaya.gov.in/",
-      "detectedAt": "2026-06-01T16:58:19.617Z"
+      "site": "KVS",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026060295.pdf",
+      "url": "https://kvsangathan.nic.in/",
+      "detectedAt": "2026-06-02T18:07:37.344Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-01T16:58:21.508Z"
+      "detectedAt": "2026-06-02T18:07:40.899Z"
     },
     {
-      "site": "RPSC",
-      "type": "CONTENT_CHANGE",
-      "url": "https://rpsc.rajasthan.gov.in/",
-      "detectedAt": "2026-06-01T16:58:20.995Z"
+      "site": "MPPSC",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti__Transport_Vehicle_Transport_Sub_Inspector_Exam_2025_Dated_02_06_2026.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-06-02T18:07:40.052Z"
     },
     {
-      "site": "TNPSC",
-      "type": "CONTENT_CHANGE",
-      "url": "https://www.tnpsc.gov.in/",
-      "detectedAt": "2026-06-01T16:58:21.040Z"
+      "site": "MPPSC",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Mining_Inspector_Exam_2025_Dated_02_06_2026.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-06-02T18:07:40.052Z"
     },
     {
-      "site": "KPSC/KEA",
-      "type": "CONTENT_CHANGE",
-      "url": "https://cetonline.karnataka.gov.in/kea/",
-      "detectedAt": "2026-06-01T16:58:26.094Z"
+      "site": "MPPSC",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://mppsc.mp.gov.in/uploads/files/Obtained_Mark_List_Transport_Vehicle_Transport_Sub_Inspector_Exam_2025_Dated_02_06_2026.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-06-02T18:07:40.052Z"
     },
     {
-      "site": "GPSC",
+      "site": "CTET",
       "type": "CONTENT_CHANGE",
-      "url": "https://gpsc.gujarat.gov.in/",
-      "detectedAt": "2026-06-01T16:58:27.015Z"
-    },
-    {
-      "site": "HPSC",
-      "type": "CONTENT_CHANGE",
-      "url": "https://www.hpsc.gov.in/",
-      "detectedAt": "2026-06-01T16:58:27.351Z"
-    },
-    {
-      "site": "DSSSB",
-      "type": "CONTENT_CHANGE",
-      "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-06-01T16:58:32.021Z"
+      "url": "https://ctet.nic.in/",
+      "detectedAt": "2026-06-02T18:07:55.977Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-01T16:58:31.343Z"
+      "detectedAt": "2026-06-02T18:07:56.100Z"
     }
   ],
   "errorDetails": [
     {
+      "site": "UPSC",
+      "error": "Timeout"
+    },
+    {
+      "site": "SBI Careers",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "error": ""
+    },
+    {
+      "site": "NABARD",
+      "url": "https://www.nabard.org/career-notices.aspx",
+      "error": "Timeout"
+    },
+    {
+      "site": "Indian Army",
+      "url": "https://joinindianarmy.nic.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "Indian Navy",
+      "url": "https://www.joinindiannavy.gov.in/",
+      "error": "Timeout"
+    },
+    {
       "site": "Air Force",
       "url": "https://afcat.cdac.in/AFCAT/",
-      "error": "HTTP 503"
+      "error": "Timeout"
+    },
+    {
+      "site": "BSF",
+      "url": "https://rectt.bsf.gov.in/",
+      "error": "HTTP 403"
+    },
+    {
+      "site": "ITBP",
+      "url": "https://recruitment.itbpolice.nic.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "NVS (Navodaya)",
+      "url": "https://navodaya.gov.in/",
+      "error": ""
     },
     {
       "site": "BPSC",
       "url": "https://www.bpsc.bih.nic.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "RPSC",
+      "url": "https://rpsc.rajasthan.gov.in/",
+      "error": ""
+    },
+    {
+      "site": "TNPSC",
+      "url": "https://www.tnpsc.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "KPSC/KEA",
+      "url": "https://cetonline.karnataka.gov.in/kea/",
+      "error": "Timeout"
+    },
+    {
+      "site": "APPSC",
+      "url": "https://psc.ap.gov.in/",
       "error": "Timeout"
     },
     {
@@ -126,6 +178,26 @@
     {
       "site": "WBPSC",
       "url": "https://wbpsc.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "GPSC",
+      "url": "https://gpsc.gujarat.gov.in/",
+      "error": ""
+    },
+    {
+      "site": "HPSC",
+      "url": "https://www.hpsc.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "CGPSC",
+      "url": "https://psc.cg.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "DSSSB",
+      "url": "https://dsssb.delhi.gov.in/",
       "error": "Timeout"
     },
     {
@@ -146,7 +218,7 @@
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     }
   ]
 }
