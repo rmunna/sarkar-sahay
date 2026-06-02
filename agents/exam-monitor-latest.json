@@ -1,20 +1,50 @@
 {
-  "scanTime": "2026-06-01T21:09:32.973Z",
-  "elapsedSeconds": 50.1,
-  "changesDetected": 2,
-  "errors": 35,
+  "scanTime": "2026-06-02T05:28:34.170Z",
+  "elapsedSeconds": 59.3,
+  "changesDetected": 7,
+  "errors": 24,
   "changes": [
-    {
-      "site": "IBPS",
-      "type": "CONTENT_CHANGE",
-      "url": "https://www.ibps.in/",
-      "detectedAt": "2026-06-01T21:08:56.436Z"
-    },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-01T21:08:55.536Z"
+      "detectedAt": "2026-06-02T05:27:46.758Z"
+    },
+    {
+      "site": "CISF",
+      "type": "CONTENT_CHANGE",
+      "url": "https://cisf.gov.in/recruitment",
+      "detectedAt": "2026-06-02T05:27:54.912Z"
+    },
+    {
+      "site": "KVS",
+      "type": "CONTENT_CHANGE",
+      "url": "https://kvsangathan.nic.in/",
+      "detectedAt": "2026-06-02T05:27:58.618Z"
+    },
+    {
+      "site": "UPPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://uppsc.up.nic.in/",
+      "detectedAt": "2026-06-02T05:28:03.919Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-06-02T05:28:03.619Z"
+    },
+    {
+      "site": "CTET",
+      "type": "CONTENT_CHANGE",
+      "url": "https://ctet.nic.in/",
+      "detectedAt": "2026-06-02T05:28:19.574Z"
+    },
+    {
+      "site": "UP Board",
+      "type": "CONTENT_CHANGE",
+      "url": "https://upmsp.edu.in/",
+      "detectedAt": "2026-06-02T05:28:19.764Z"
     }
   ],
   "errorDetails": [
@@ -48,33 +78,13 @@
       "error": "Timeout"
     },
     {
-      "site": "CRPF",
-      "url": "https://crpf.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "CISF",
-      "url": "https://cisf.gov.in/recruitment",
-      "error": "Timeout"
-    },
-    {
       "site": "BSF",
       "url": "https://rectt.bsf.gov.in/",
-      "error": "Timeout"
+      "error": "HTTP 403"
     },
     {
       "site": "ITBP",
       "url": "https://recruitment.itbpolice.nic.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "CBSE",
-      "url": "https://www.cbse.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "KVS",
-      "url": "https://kvsangathan.nic.in/",
       "error": "Timeout"
     },
     {
@@ -88,19 +98,9 @@
       "error": "Timeout"
     },
     {
-      "site": "UPPSC",
-      "url": "https://uppsc.up.nic.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "MPPSC",
-      "url": "https://mppsc.mp.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "RPSC",
       "url": "https://rpsc.rajasthan.gov.in/",
-      "error": "Timeout"
+      "error": ""
     },
     {
       "site": "TNPSC",
@@ -138,18 +138,8 @@
       "error": "Timeout"
     },
     {
-      "site": "JPSC",
-      "url": "https://www.jpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "CGPSC",
       "url": "https://psc.cg.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "CTET",
-      "url": "https://ctet.nic.in/",
       "error": "Timeout"
     },
     {
@@ -160,17 +150,12 @@
     {
       "site": "Sainik School",
       "url": "https://nta.ac.in/ExamDetail?ExamCode=AISSEE",
-      "error": "Timeout"
+      "error": "HTTP 404"
     },
     {
       "site": "Income Tax",
       "url": "https://incometaxindia.gov.in/Pages/press-releases.aspx",
-      "error": "Timeout"
-    },
-    {
-      "site": "RBSE Rajasthan",
-      "url": "https://rajeduboard.rajasthan.gov.in/",
-      "error": "Timeout"
+      "error": "HTTP 403"
     },
     {
       "site": "MSBTE",
@@ -178,18 +163,8 @@
       "error": "Timeout"
     },
     {
-      "site": "UP Board",
-      "url": "https://upmsp.edu.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "MP Board",
-      "url": "https://mpbse.nic.in/",
       "error": "Timeout"
     }
   ]
