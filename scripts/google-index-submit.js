@@ -22,6 +22,21 @@ const KEY_PATH = path.resolve(__dirname, '../keys/gsc-service-account.json');
 const SITE = 'https://www.citizennest.com';
 const QUOTA_FILE = path.resolve(__dirname, '../agents/.indexing-quota.json');
 
+// In GitHub Actions the key file doesn't exist — write it from the env var.
+// Supports both raw JSON and base64-encoded JSON (both common storage formats).
+if (!fs.existsSync(KEY_PATH) && process.env.GOOGLE_INDEXING_KEY) {
+  fs.mkdirSync(path.dirname(KEY_PATH), { recursive: true });
+  let keyContent = process.env.GOOGLE_INDEXING_KEY.trim();
+  // Detect base64: valid service account JSON always starts with '{'
+  if (!keyContent.startsWith('{')) {
+    try {
+      keyContent = Buffer.from(keyContent, 'base64').toString('utf8');
+    } catch {}
+  }
+  fs.writeFileSync(KEY_PATH, keyContent, { mode: 0o600 });
+  console.log('🔑 Service account key written from GOOGLE_INDEXING_KEY env var');
+}
+
 function loadQuota() {
   try {
     const data = JSON.parse(fs.readFileSync(QUOTA_FILE, 'utf-8'));
