@@ -82,7 +82,7 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-06-02T09:49:41.759Z",
+      "lastChecked": "2026-06-02T13:58:15.046Z",
       "noticeIds": [
         "20260601213649",
         "20260601213514",
@@ -806,7 +806,7 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-06-02T09:49:51.163Z",
+      "lastChecked": "2026-06-02T13:58:22.925Z",
       "contentHash": "b4b54941c71169407f46ea688622067f",
       "pdfHash": "14732563d46631835f47078a967da1b1",
       "pdfs": [
@@ -1238,8 +1238,8 @@
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-06-02T09:49:49.690Z",
-      "contentHash": "d73d6b3ca9ca2cec845a9eb5d6b217b9",
+      "lastChecked": "2026-06-02T13:58:26.583Z",
+      "contentHash": "3c174cf7ebb8f715da6cb5b864d3eda4",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
       "pdfs": [
         "https://resource.cdn.icai.org/86965cmib-62nd-campus-brochure.pdf"
@@ -1259,8 +1259,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-06-02T09:49:49.691Z",
-      "contentHash": "1c41a5ae06e6c6a6cc76b57332418408",
+      "lastChecked": "2026-06-02T13:58:22.426Z",
+      "contentHash": "0443a1edc005a7e0cac62603bf4080fa",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "pdfs": [
         "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
@@ -2726,5 +2726,5 @@
       ]
     }
   },
-  "lastScan": "2026-06-02T09:50:35.383Z"
+  "lastScan": "2026-06-02T13:58:56.245Z"
 }
