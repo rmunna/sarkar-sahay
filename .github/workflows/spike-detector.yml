@@ -86,10 +86,12 @@ jobs:
           if [ "$NEW" -gt 0 ]; then
             git commit -m "content: auto-add ${NEW} spike page(s) from Google Trends [$(date +'%Y-%m-%d')]
 
-            Source: trending-pytrends.py (Jobs cat 958 + Education cat 174)
-            Note: Government cat (17) scheme_opportunities handled by scheme-detector.yml
+            Source: trending-pytrends.py (RSS realtime + Jobs/Education/Govt categories)
             Spike threshold: 200%+ rising"
-            git pull --rebase origin main || true
+            git stash --include-untracked 2>/dev/null || true
+            git fetch origin main
+            git rebase origin/main 2>/dev/null || git rebase --abort
+            git stash pop 2>/dev/null || true
             git push
             echo "new_count=$NEW" >> $GITHUB_OUTPUT
             echo "✅ Pushed $NEW spike page(s)"
@@ -108,7 +110,14 @@ jobs:
           git config user.name "CitizenNest Bot"
           git config user.email "bot@citizennest.com"
           git add public/sitemap.xml public/sitemap-index.xml || true
-          git diff --staged --quiet || (git commit -m "chore: regenerate sitemap after spike pages" && git pull --rebase origin main || true && git push) || true
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: regenerate sitemap after spike pages [skip ci]"
+            git stash --include-untracked 2>/dev/null || true
+            git fetch origin main
+            git rebase origin/main 2>/dev/null || git rebase --abort
+            git stash pop 2>/dev/null || true
+            git push || true
+          fi
 
       # ── Step 5: Submit to indexing APIs ──────────────────────────────────
 

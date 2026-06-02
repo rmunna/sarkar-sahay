@@ -14,6 +14,7 @@ import os
 import sys
 import time
 import urllib.request
+import xml.etree.ElementTree as ET
 from datetime import datetime
 
 try:
@@ -98,104 +99,115 @@ def is_spike(query, rising_value):
 def check_guide_exists(topic):
     """Check if we have a guide or update matching this topic."""
     slug_words = [w for w in topic.lower().split() if len(w) > 2]
+    skip_words = {
+        '2024','2025','2026','2027','result','results','online','india',
+        'apply','status','check','download','card','form','exam','test',
+    }
     for d in [GUIDES_DIR, UPDATES_DIR]:
         if not os.path.exists(d):
             continue
         for f in os.listdir(d):
             if not f.endswith('.md'):
                 continue
-            name_words = f.replace('.md', '').lower().split('-')
-            # Require matching on meaningful words (not years/generic terms)
-            skip_words = {'2024','2025','2026','2027','result','results','online','india','apply','status','check','download','card','form'}
-            meaningful_matches = sum(1 for w in slug_words if w in name_words and w not in skip_words)
-            if meaningful_matches >= 2:
+            name_words = set(f.replace('.md', '').lower().split('-'))
+            meaningful_matches = [
+                w for w in slug_words if w in name_words and w not in skip_words
+            ]
+            # Two-word match always counts — OR one highly-distinctive word (len>=5)
+            # catches cases like "comedk results 2026" → only "comedk" is distinctive
+            if len(meaningful_matches) >= 2:
+                return f.replace('.md', '')
+            if len(meaningful_matches) == 1 and len(meaningful_matches[0]) >= 5:
                 return f.replace('.md', '')
     return None
 
 
 def fetch_realtime_trends():
     """
-    Fetch from Google Trends Realtime Trending API — the same data shown on
-    https://trends.google.com/trending?geo=IN&category=9
+    Fetch from Google Trends RSS feed — reliable public endpoint, no auth required.
+    Works from GitHub Actions unlike the /api/realtimetrends endpoint (returns 404).
 
-    This catches same-day spikes (result declarations, admit card releases) that
-    pytrends related_queries() misses due to its 7-day lag window.
-
-    Returns list of dicts with same shape as all_rising items.
+    URL: https://trends.google.com/trending/rss?geo=IN
+    Returns top ~20 trending searches in India with approx traffic counts.
     """
-    # Category IDs on the Trending Now page (different from pytrends category IDs):
-    #   9  = Science & Education (JEE, NEET, AP EAMCET, board results)
-    #   8  = Jobs & Education (SSC, UPSC, railway, government jobs)
-    # 'all' = all categories (broader, more noise but catches cross-category trends)
-    REALTIME_CATS = [
-        (9,     'Science & Education'),
-        (8,     'Jobs & Education'),
-    ]
-    API_URL = (
-        "https://trends.google.com/trends/api/realtimetrends"
-        "?hl=en-IN&tz=-330&cat={cat}&fi=0&fs=0&geo=IN&ri=300&rs=20&sort=0"
-    )
+    RSS_URL = "https://trends.google.com/trending/rss?geo=IN"
+    # XML namespace used by Google Trends RSS
+    NS = 'https://trends.google.com/trending/rss'
+
     results = []
     seen_titles = set()
 
-    for cat_id, cat_name in REALTIME_CATS:
-        try:
-            url = API_URL.format(cat=cat_id)
-            req = urllib.request.Request(url, headers={
-                'User-Agent': (
-                    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 '
-                    '(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
-                ),
-                'Accept': 'text/javascript, application/json, */*',
-                'Accept-Language': 'en-IN,en;q=0.9',
-                'Referer': 'https://trends.google.com/trending?geo=IN',
+    try:
+        req = urllib.request.Request(RSS_URL, headers={
+            'User-Agent': (
+                'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 '
+                '(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+            ),
+            'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+        })
+        with urllib.request.urlopen(req, timeout=15) as response:
+            raw = response.read()
+
+        root = ET.fromstring(raw)
+        items = root.findall('.//item')
+        print(f"  🌐 Google Trends RSS India: {len(items)} trending items")
+
+        for item in items:
+            title_el = item.find('title')
+            if title_el is None or not title_el.text:
+                continue
+            title = title_el.text.strip()
+
+            if title.lower() in seen_titles:
+                continue
+
+            # Grab approx_traffic for scoring (e.g. "50,000+" → 50)
+            traffic_el = item.find(f'{{{NS}}}approx_traffic')
+            traffic_str = (traffic_el.text or '0') if traffic_el is not None else '0'
+            # Convert "500,000+" or "2M+" to an integer
+            traffic_clean = traffic_str.replace(',', '').replace('+', '').strip()
+            if traffic_clean.endswith('M'):
+                traffic_num = int(float(traffic_clean[:-1]) * 1_000_000)
+            elif traffic_clean.endswith('K'):
+                traffic_num = int(float(traffic_clean[:-1]) * 1_000)
+            else:
+                try:
+                    traffic_num = int(traffic_clean)
+                except ValueError:
+                    traffic_num = 0
+
+            # Collect related news headlines to broaden matching
+            news_titles = [
+                el.text.strip()
+                for el in item.findall(f'{{{NS}}}news_item_title')
+                if el.text
+            ]
+            combined = ' '.join([title] + news_titles[:3]).lower()
+
+            # Apply relevance + skip filters
+            if not is_relevant(title) and not is_relevant(combined):
+                continue
+
+            guide = check_guide_exists(title)
+            spike = any(p in title.lower() for p in SPIKE_PATTERNS) or \
+                    any(p in combined for p in SPIKE_PATTERNS)
+
+            seen_titles.add(title.lower())
+            # Scale traffic to a rising_value (cap at 999 for highest priority)
+            rising_value = min(999, max(100, traffic_num // 1000))
+
+            results.append({
+                'topic': title,
+                'category': 'Realtime RSS',
+                'rising_value': rising_value,
+                'guide_exists': guide,
+                'is_spike': spike,
+                'is_scheme': False,
+                'source': 'realtime-rss',
             })
-            with urllib.request.urlopen(req, timeout=15) as response:
-                raw = response.read().decode('utf-8')
 
-            # Google prefixes JSON responses with ")]}'" as XSSI protection
-            if raw.startswith(")]}'"):
-                raw = raw[5:].lstrip('\n')
-
-            data = json.loads(raw)
-            stories = data.get('storySummaries', {}).get('trendingStories', [])
-            print(f"  🌐 Realtime {cat_name}: {len(stories)} trending stories")
-
-            for story in stories:
-                title = story.get('title', '').strip()
-                if not title or title.lower() in seen_titles:
-                    continue
-
-                # Build combined text for matching (title + entities + article headlines)
-                entity_names = story.get('entityNames', [])
-                articles = story.get('articles', [])
-                combined = ' '.join(
-                    [title] + entity_names + [a.get('title', '') for a in articles[:3]]
-                ).lower()
-
-                # Apply same relevance + skip filters as pytrends results
-                if not is_relevant(title) and not is_relevant(combined):
-                    continue
-
-                guide = check_guide_exists(title)
-                spike = any(p in title.lower() for p in SPIKE_PATTERNS) or \
-                        any(p in combined for p in SPIKE_PATTERNS)
-
-                seen_titles.add(title.lower())
-                results.append({
-                    'topic': title,
-                    'category': cat_name,
-                    'rising_value': 999,  # Realtime = maximum priority
-                    'guide_exists': guide,
-                    'is_spike': spike,
-                    'is_scheme': False,   # Science/Jobs categories are not scheme content
-                    'source': 'realtime',
-                })
-
-            time.sleep(1)
-
-        except Exception as e:
-            print(f"  ⚠️  Realtime {cat_name} failed: {e}", file=sys.stderr)
+    except Exception as e:
+        print(f"  ⚠️  Google Trends RSS failed: {e}", file=sys.stderr)
 
     return results
 
@@ -204,14 +216,17 @@ def main():
     pytrends = TrendReq(hl='en-IN', geo='IN')
     all_rising = []
 
-    # ── Source 1: Google Trends Realtime Trending (same-day spikes) ──────────
-    print("🌐 Fetching Google Trends Realtime (trending.google.com)...")
+    # ── Source 1: Google Trends RSS (same-day spikes, works in GitHub Actions) ─
+    print("🌐 Fetching Google Trends RSS (trends.google.com/trending/rss?geo=IN)...")
     realtime = fetch_realtime_trends()
     all_rising.extend(realtime)
     print(f"   → {len(realtime)} relevant realtime topics\n")
 
     # ── Source 2: pytrends Rising Queries (7-day trend, catches upcoming exams) ─
+    # NOTE: Using empty-string [''] approach for category-level trending.
+    # GitHub Actions IPs are sometimes rate-limited; failures are silently skipped.
     print("📈 Fetching pytrends rising queries (7-day window)...")
+    pytrends_got_data = False
     for cat_id, cat_name in CATEGORIES:
         try:
             pytrends.build_payload([''], geo='IN', timeframe='now 7-d', cat=cat_id)
@@ -219,6 +234,8 @@ def main():
             rising = related.get('', {}).get('rising', None)
 
             if rising is not None and not rising.empty:
+                pytrends_got_data = True
+                print(f"  📊 {cat_name}: {len(rising)} rising queries")
                 for _, row in rising.iterrows():
                     query = row['query']
                     value = int(row['value'])
@@ -232,9 +249,34 @@ def main():
                             'is_spike': is_spike(query, value),
                             'is_scheme': cat_name in SCHEME_CATEGORIES,
                         })
-            time.sleep(1)
+            else:
+                print(f"  ⚠️  {cat_name}: no rising data (rate-limited or empty)")
+            time.sleep(2)
         except Exception as e:
-            print(f"⚠️  {cat_name} failed: {e}", file=sys.stderr)
+            print(f"  ⚠️  {cat_name} failed: {e}", file=sys.stderr)
+
+    # ── Source 3: pytrends Today Searches fallback (if related_queries failed) ──
+    # trending_searches() works when related_queries() is rate-blocked
+    if not pytrends_got_data:
+        print("📈 pytrends related_queries returned nothing — trying trending_searches()...")
+        try:
+            df = pytrends.trending_searches(pn='india')
+            if df is not None and not df.empty:
+                for query in df[0].tolist()[:30]:
+                    if is_relevant(query):
+                        guide = check_guide_exists(query)
+                        spike = is_spike(query, SPIKE_THRESHOLD)
+                        all_rising.append({
+                            'topic': query,
+                            'category': 'Trending India',
+                            'rising_value': 150,  # unknown magnitude — use middle value
+                            'guide_exists': guide,
+                            'is_spike': spike,
+                            'is_scheme': False,
+                        })
+                print(f"  ✅ trending_searches: {len(df)} queries fetched")
+        except Exception as e:
+            print(f"  ⚠️  trending_searches also failed: {e}", file=sys.stderr)
 
     # Deduplicate by topic
     seen = set()

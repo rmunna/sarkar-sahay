@@ -1,82 +1,90 @@
 {
-  "scannedAt": "2026-06-01T15:13:38.601932",
+  "scannedAt": "2026-06-03T00:15:13.227579",
   "results": [
     {
       "topic": "ncert cee 2026 registration",
       "category": "Jobs",
-      "rising_value": 8000,
-      "guide_exists": "ncert-cee-2026-registration",
+      "rising_value": 8550,
+      "guide_exists": "cuet-registration-guide",
       "is_spike": true,
       "is_scheme": false
     },
     {
       "topic": "bihar school examination board",
       "category": "Jobs",
-      "rising_value": 1300,
-      "guide_exists": "cbse-class-12-board-examination-2026-result",
+      "rising_value": 1150,
+      "guide_exists": "udyami-yojana-bihar",
       "is_spike": false,
       "is_scheme": false
     },
     {
       "topic": "comedk results 2026",
       "category": "Jobs",
-      "rising_value": 1000,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "plus two result 2026",
-      "category": "Jobs",
-      "rising_value": 750,
-      "guide_exists": "plus-two-result-2026",
+      "rising_value": 900,
+      "guide_exists": "comedk-results-2026",
       "is_spike": true,
       "is_scheme": false
     },
     {
       "topic": "rpsc admit card",
       "category": "Jobs",
-      "rising_value": 700,
-      "guide_exists": "rpsc-admit-card",
+      "rising_value": 650,
+      "guide_exists": "neet-ug-apply-admit-card-results",
       "is_spike": true,
       "is_scheme": false
     },
     {
-      "topic": "jeecup admit card 2026",
+      "topic": "ap eamcet result 2026",
       "category": "Jobs",
       "rising_value": 300,
-      "guide_exists": "jeecup-admit-card-2026",
+      "guide_exists": "ap-eamcet-2026-exam-guide",
       "is_spike": true,
       "is_scheme": false
     },
     {
-      "topic": "upsc answer key 2026",
+      "topic": "ktu login",
       "category": "Jobs",
-      "rising_value": 160,
-      "guide_exists": "ssc-aso-ssa-jsa-ldce-2024-final-answer-key",
+      "rising_value": 170,
+      "guide_exists": "sbi-net-banking-blocked-login-fix",
       "is_spike": false,
       "is_scheme": false
     },
     {
       "topic": "assam university",
       "category": "Jobs",
-      "rising_value": 150,
-      "guide_exists": null,
+      "rising_value": 160,
+      "guide_exists": "assam-pragyan-bharati-scooty-scheme",
       "is_spike": false,
       "is_scheme": false
     },
     {
       "topic": "rpsc",
       "category": "Jobs",
-      "rising_value": 140,
+      "rising_value": 130,
       "guide_exists": null,
       "is_spike": false,
       "is_scheme": false
     },
     {
-      "topic": "ktu login",
+      "topic": "dsssb",
       "category": "Jobs",
-      "rising_value": 110,
+      "rising_value": 80,
+      "guide_exists": "dsssb-exam-guide",
+      "is_spike": false,
+      "is_scheme": false
+    },
+    {
+      "topic": "sats login",
+      "category": "Jobs",
+      "rising_value": 60,
+      "guide_exists": "sbi-net-banking-blocked-login-fix",
+      "is_spike": false,
+      "is_scheme": false
+    },
+    {
+      "topic": "cet result date 2026",
+      "category": "Jobs",
+      "rising_value": 50,
       "guide_exists": null,
       "is_spike": false,
       "is_scheme": false
@@ -84,33 +92,17 @@
   ],
   "opportunities": [
     {
-      "topic": "comedk results 2026",
-      "category": "Jobs",
-      "rising_value": 1000,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "assam university",
-      "category": "Jobs",
-      "rising_value": 150,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false
-    },
-    {
       "topic": "rpsc",
       "category": "Jobs",
-      "rising_value": 140,
+      "rising_value": 130,
       "guide_exists": null,
       "is_spike": false,
       "is_scheme": false
     },
     {
-      "topic": "ktu login",
+      "topic": "cet result date 2026",
       "category": "Jobs",
-      "rising_value": 110,
+      "rising_value": 50,
       "guide_exists": null,
       "is_spike": false,
       "is_scheme": false
@@ -120,61 +112,76 @@
     {
       "topic": "ncert cee 2026 registration",
       "category": "Jobs",
-      "rising_value": 8000,
-      "guide_exists": "ncert-cee-2026-registration",
+      "rising_value": 8550,
+      "guide_exists": "cuet-registration-guide",
       "is_spike": true,
       "is_scheme": false
     },
     {
       "topic": "bihar school examination board",
       "category": "Jobs",
-      "rising_value": 1300,
-      "guide_exists": "cbse-class-12-board-examination-2026-result",
+      "rising_value": 1150,
+      "guide_exists": "udyami-yojana-bihar",
       "is_spike": false,
       "is_scheme": false
     },
     {
-      "topic": "plus two result 2026",
+      "topic": "comedk results 2026",
       "category": "Jobs",
-      "rising_value": 750,
-      "guide_exists": "plus-two-result-2026",
+      "rising_value": 900,
+      "guide_exists": "comedk-results-2026",
       "is_spike": true,
       "is_scheme": false
     },
     {
       "topic": "rpsc admit card",
       "category": "Jobs",
-      "rising_value": 700,
-      "guide_exists": "rpsc-admit-card",
+      "rising_value": 650,
+      "guide_exists": "neet-ug-apply-admit-card-results",
       "is_spike": true,
       "is_scheme": false
     },
     {
-      "topic": "jeecup admit card 2026",
+      "topic": "ap eamcet result 2026",
       "category": "Jobs",
       "rising_value": 300,
-      "guide_exists": "jeecup-admit-card-2026",
+      "guide_exists": "ap-eamcet-2026-exam-guide",
       "is_spike": true,
       "is_scheme": false
     },
     {
-      "topic": "upsc answer key 2026",
+      "topic": "ktu login",
+      "category": "Jobs",
+      "rising_value": 170,
+      "guide_exists": "sbi-net-banking-blocked-login-fix",
+      "is_spike": false,
+      "is_scheme": false
+    },
+    {
+      "topic": "assam university",
       "category": "Jobs",
       "rising_value": 160,
-      "guide_exists": "ssc-aso-ssa-jsa-ldce-2024-final-answer-key",
+      "guide_exists": "assam-pragyan-bharati-scooty-scheme",
+      "is_spike": false,
+      "is_scheme": false
+    },
+    {
+      "topic": "dsssb",
+      "category": "Jobs",
+      "rising_value": 80,
+      "guide_exists": "dsssb-exam-guide",
+      "is_spike": false,
+      "is_scheme": false
+    },
+    {
+      "topic": "sats login",
+      "category": "Jobs",
+      "rising_value": 60,
+      "guide_exists": "sbi-net-banking-blocked-login-fix",
       "is_spike": false,
       "is_scheme": false
     }
   ],
-  "spike_candidates": [
-    {
-      "topic": "comedk results 2026",
-      "category": "Jobs",
-      "rising_value": 1000,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false
-    }
-  ],
+  "spike_candidates": [],
   "scheme_opportunities": []
 }
