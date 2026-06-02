@@ -1,127 +1,239 @@
 {
-  "scanTime": "2026-06-01T02:27:28.286Z",
-  "elapsedSeconds": 41.2,
-  "changesDetected": 18,
-  "errors": 8,
+  "scanTime": "2026-06-02T20:33:59.475Z",
+  "elapsedSeconds": 65.5,
+  "changesDetected": 21,
+  "errors": 27,
   "changes": [
     {
-      "site": "SBI Careers",
-      "type": "CONTENT_CHANGE",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-06-01T02:26:55.928Z"
+      "site": "SSC",
+      "type": "NEW_NOTICE",
+      "headline": "Important Notice - Schedule of Examination",
+      "date": "2026-06-02T12:42:32.572Z",
+      "id": "gds7gnnd5whkwbicmacyx",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Date Notice CAG_2025.pdf",
+      "url": "https://ssc.gov.in"
+    },
+    {
+      "site": "SSC",
+      "type": "NEW_NOTICE",
+      "headline": "Empanelment of Language Experts",
+      "date": "2026-06-02T12:11:53.889Z",
+      "id": "ibyn1adl6ox9xvnfh2cxh",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Empanlement of Language Experts.pdf",
+      "url": "https://ssc.gov.in"
+    },
+    {
+      "site": "NTA",
+      "type": "NEW_NOTICE",
+      "headline": "Release of admit cards for re-scheduled candidates for CUET (UG)- 2026 on 06-07 June 2026-reg.&nbsp;",
+      "date": "2026-06-01",
+      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260601213649.pdf",
+      "url": "https://nta.ac.in"
+    },
+    {
+      "site": "NTA",
+      "type": "NEW_NOTICE",
+      "headline": "Release of Admit Cards for the Candidates of Joint Integrated Programme in Management Admission Test (JIPMAT)-2026-reg.)&nbsp;",
+      "date": "2026-06-01",
+      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260601213514.pdf",
+      "url": "https://nta.ac.in"
+    },
+    {
+      "site": "IBPS",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://www.ibps.in/wp-content/uploads/IBPS-Notification-Fraud-Websites-27April26.pdf",
+      "url": "https://www.ibps.in/",
+      "detectedAt": "2026-06-02T20:33:11.472Z"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-01T02:26:53.717Z"
+      "detectedAt": "2026-06-02T20:33:10.853Z"
     },
     {
-      "site": "NABARD",
+      "site": "ICAI (CA)",
       "type": "CONTENT_CHANGE",
-      "url": "https://www.nabard.org/career-notices.aspx",
-      "detectedAt": "2026-06-01T02:26:56.545Z"
+      "url": "https://www.icai.org/",
+      "detectedAt": "2026-06-02T20:33:11.755Z"
     },
     {
-      "site": "Indian Army",
-      "type": "CONTENT_CHANGE",
-      "url": "https://joinindianarmy.nic.in/",
-      "detectedAt": "2026-06-01T02:26:54.067Z"
+      "site": "RRB (Railway)",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://www.rrbcdg.gov.in/uploads/2025/04-SCTRL/042024-CBAT_FAQs.pdf",
+      "url": "https://www.rrbcdg.gov.in/",
+      "detectedAt": "2026-06-02T20:33:13.440Z"
     },
     {
-      "site": "Indian Navy",
-      "type": "CONTENT_CHANGE",
-      "url": "https://www.joinindiannavy.gov.in/",
-      "detectedAt": "2026-06-01T02:26:54.852Z"
+      "site": "RRB (Railway)",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://www.rrbcdg.gov.in/uploads/2025/07-NTPCUG/072025NTPCUG-CBT1_RevisedSchedule-Hi.pdf",
+      "url": "https://www.rrbcdg.gov.in/",
+      "detectedAt": "2026-06-02T20:33:13.440Z"
+    },
+    {
+      "site": "RRB (Railway)",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://www.rrbcdg.gov.in/uploads/2025/07-NTPCUG/072025NTPCUG-CBT1_RevisedSchedule.pdf",
+      "url": "https://www.rrbcdg.gov.in/",
+      "detectedAt": "2026-06-02T20:33:13.440Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-01T02:26:58.711Z"
+      "detectedAt": "2026-06-02T20:33:20.858Z"
     },
     {
-      "site": "BSF",
+      "site": "CBSE",
       "type": "CONTENT_CHANGE",
-      "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-06-01T02:26:57.133Z"
-    },
-    {
-      "site": "ITBP",
-      "type": "CONTENT_CHANGE",
-      "url": "https://recruitment.itbpolice.nic.in/",
-      "detectedAt": "2026-06-01T02:26:59.678Z"
+      "url": "https://www.cbse.gov.in/",
+      "detectedAt": "2026-06-02T20:33:21.670Z"
     },
     {
       "site": "KVS",
-      "type": "CONTENT_CHANGE",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026060212.pdf",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-01T02:27:01.811Z"
+      "detectedAt": "2026-06-02T20:33:25.437Z"
     },
     {
-      "site": "NVS (Navodaya)",
-      "type": "CONTENT_CHANGE",
-      "url": "https://navodaya.gov.in/",
-      "detectedAt": "2026-06-01T02:27:00.354Z"
+      "site": "KVS",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026060295.pdf",
+      "url": "https://kvsangathan.nic.in/",
+      "detectedAt": "2026-06-02T20:33:25.437Z"
+    },
+    {
+      "site": "CUET",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/06/20260601958335840.pdf",
+      "url": "https://cuet.nta.nic.in/",
+      "detectedAt": "2026-06-02T20:33:32.725Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-01T02:27:03.830Z"
+      "detectedAt": "2026-06-02T20:33:29.398Z"
     },
     {
-      "site": "RPSC",
-      "type": "CONTENT_CHANGE",
-      "url": "https://rpsc.rajasthan.gov.in/",
-      "detectedAt": "2026-06-01T02:27:04.314Z"
+      "site": "JPSC",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://www.jpsc.gov.in/data/Press_Release_and_Answer_Key_22_23_dated_01_06_2026.pdf",
+      "url": "https://www.jpsc.gov.in/",
+      "detectedAt": "2026-06-02T20:33:38.298Z"
     },
     {
-      "site": "TNPSC",
-      "type": "CONTENT_CHANGE",
-      "url": "https://www.tnpsc.gov.in/",
-      "detectedAt": "2026-06-01T02:27:03.417Z"
+      "site": "JPSC",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://www.jpsc.gov.in/data/Press_Release_and_Preliminary_Answer_Key_06_26_dated_01_06_2026.pdf",
+      "url": "https://www.jpsc.gov.in/",
+      "detectedAt": "2026-06-02T20:33:38.298Z"
     },
     {
-      "site": "KPSC/KEA",
+      "site": "CTET",
       "type": "CONTENT_CHANGE",
-      "url": "https://cetonline.karnataka.gov.in/kea/",
-      "detectedAt": "2026-06-01T02:27:08.814Z"
-    },
-    {
-      "site": "GPSC",
-      "type": "CONTENT_CHANGE",
-      "url": "https://gpsc.gujarat.gov.in/",
-      "detectedAt": "2026-06-01T02:27:08.777Z"
-    },
-    {
-      "site": "HPSC",
-      "type": "CONTENT_CHANGE",
-      "url": "https://www.hpsc.gov.in/",
-      "detectedAt": "2026-06-01T02:27:09.059Z"
-    },
-    {
-      "site": "DSSSB",
-      "type": "CONTENT_CHANGE",
-      "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-06-01T02:27:13.916Z"
+      "url": "https://ctet.nic.in/",
+      "detectedAt": "2026-06-02T20:33:44.581Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-01T02:27:14.260Z"
+      "detectedAt": "2026-06-02T20:33:45.062Z"
+    },
+    {
+      "site": "MP Board",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://mpbse.nic.in/Bse_985_E_E_Adv.PDF",
+      "url": "https://mpbse.nic.in/",
+      "detectedAt": "2026-06-02T20:33:50.403Z"
     }
   ],
   "errorDetails": [
     {
+      "site": "UPSC",
+      "error": "Timeout"
+    },
+    {
+      "site": "SBI Careers",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "error": ""
+    },
+    {
+      "site": "NABARD",
+      "url": "https://www.nabard.org/career-notices.aspx",
+      "error": "Timeout"
+    },
+    {
+      "site": "Indian Army",
+      "url": "https://joinindianarmy.nic.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "Indian Navy",
+      "url": "https://www.joinindiannavy.gov.in/",
+      "error": "Timeout"
+    },
+    {
       "site": "Air Force",
       "url": "https://afcat.cdac.in/AFCAT/",
-      "error": "HTTP 503"
+      "error": "Timeout"
+    },
+    {
+      "site": "CRPF",
+      "url": "https://crpf.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "BSF",
+      "url": "https://rectt.bsf.gov.in/",
+      "error": "HTTP 403"
+    },
+    {
+      "site": "ITBP",
+      "url": "https://recruitment.itbpolice.nic.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "NVS (Navodaya)",
+      "url": "https://navodaya.gov.in/",
+      "error": ""
+    },
+    {
+      "site": "IGNOU",
+      "url": "https://ignou.ac.in/",
+      "error": "Timeout"
     },
     {
       "site": "BPSC",
       "url": "https://www.bpsc.bih.nic.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "MPPSC",
+      "url": "https://mppsc.mp.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "RPSC",
+      "url": "https://rpsc.rajasthan.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "TNPSC",
+      "url": "https://www.tnpsc.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "KPSC/KEA",
+      "url": "https://cetonline.karnataka.gov.in/kea/",
+      "error": "Timeout"
+    },
+    {
+      "site": "APPSC",
+      "url": "https://psc.ap.gov.in/",
       "error": "Timeout"
     },
     {
@@ -135,6 +247,26 @@
       "error": "Timeout"
     },
     {
+      "site": "GPSC",
+      "url": "https://gpsc.gujarat.gov.in/",
+      "error": ""
+    },
+    {
+      "site": "HPSC",
+      "url": "https://www.hpsc.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "CGPSC",
+      "url": "https://psc.cg.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "DSSSB",
+      "url": "https://dsssb.delhi.gov.in/",
+      "error": "Timeout"
+    },
+    {
       "site": "Sainik School",
       "url": "https://nta.ac.in/ExamDetail?ExamCode=AISSEE",
       "error": "HTTP 404"
@@ -142,7 +274,7 @@
     {
       "site": "Income Tax",
       "url": "https://incometaxindia.gov.in/Pages/press-releases.aspx",
-      "error": "HTTP 403"
+      "error": "Timeout"
     },
     {
       "site": "MSBTE",
