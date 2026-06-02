@@ -261,7 +261,7 @@
         "Grade B",
         "Assistant"
       ],
-      "lastScanned": "2026-06-01"
+      "lastScanned": "2026-06-02"
     },
     {
       "id": "gate",
@@ -278,7 +278,7 @@
       "exams": [
         "GATE"
       ],
-      "lastScanned": "2026-06-01"
+      "lastScanned": "2026-06-02"
     },
     {
       "id": "uppsc",
@@ -298,7 +298,7 @@
         "RO/ARO",
         "ACF/RFO"
       ],
-      "lastScanned": "2026-06-01"
+      "lastScanned": "2026-06-02"
     },
     {
       "id": "bpsc",
@@ -318,7 +318,7 @@
         "Teacher",
         "TRE"
       ],
-      "lastScanned": "2026-06-01"
+      "lastScanned": "2026-06-02"
     },
     {
       "id": "army",
@@ -338,7 +338,7 @@
         "SSC Tech",
         "NCC Special Entry"
       ],
-      "lastScanned": "2026-06-01"
+      "lastScanned": "2026-06-02"
     },
     {
       "id": "navy",
@@ -357,7 +357,7 @@
         "AA",
         "SSC Officer"
       ],
-      "lastScanned": "2026-06-01"
+      "lastScanned": "2026-06-02"
     },
     {
       "id": "airforce",
@@ -374,7 +374,7 @@
         "Agniveer Vayu",
         "AFCAT"
       ],
-      "lastScanned": "2026-06-01"
+      "lastScanned": "2026-06-02"
     },
     {
       "id": "ctet",
@@ -413,7 +413,7 @@
         "STI",
         "PSI"
       ],
-      "lastScanned": "2026-06-01"
+      "lastScanned": "2026-06-02"
     },
     {
       "id": "rpsc",
