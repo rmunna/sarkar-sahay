@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const update = await getUpdateBySlug(slug);
   if (!update) return {};
-  const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://citizennest.com";
+  const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.citizennest.com";
   return {
     title: update.title,
     description: update.description,
@@ -150,7 +150,7 @@ export default async function UpdatePage({ params }: Props) {
   const stage = stageInfo[update.stage] || stageInfo["notification"];
   const statusBadge = getStatusBadge(update.status);
 
-  const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://citizennest.com";
+  const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.citizennest.com";
 
   const articleSchema = {
     "@context": "https://schema.org",
