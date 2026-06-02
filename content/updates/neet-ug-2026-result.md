@@ -1,144 +1,92 @@
 ---
-title: "NEET UG 2026 Result — Check Score, Cut-off & Qualifying Marks"
-description: "NEET UG 2026 result expected June 2026. Check your score, percentile, category-wise cut-off, and qualifying status at neet.ntaonline.in."
+title: "NEET UG 2026 Result Date — Expected Mid-June, Check at neet.nta.nic.in"
+description: "NEET UG 2026 result expected mid-June 2026 at neet.nta.nic.in. Exam held May 4. Check scorecard, cutoff, qualifying marks and counselling dates here."
 category: "Results"
 type: "result"
 organization: "NTA"
 examName: "NEET UG 2026"
 stage: "result"
-keywords:
-  - "neet ug 2026 result"
-  - "neet 2026 result date"
-  - "neet result 2026"
-  - "neet ug result 2026 check online"
-  - "neet 2026 cut off"
-  - "neet 2026 score card download"
-  - "neet 2026 qualifying marks"
+keywords: ["NEET 2026 result", "NEET UG 2026 result", "neet.nta.nic.in result 2026", "NEET result date 2026", "NEET 2026 scorecard", "NEET 2026 cutoff", "NEET UG result date"]
 importantDates:
   examDate: "2026-05-04"
   resultDate: "TBA"
+  counsellingDate: "TBA"
 officialLinks:
-  - "https://neet.ntaonline.in"
-  - "https://nta.ac.in"
-  - "https://digilocker.gov.in"
-readingTime: "6 min"
-publishedDate: "2026-05-29"
-expiryDate: "2026-12-31"
+  - "https://neet.nta.nic.in"
+readingTime: "4 min"
+publishedDate: "2026-06-02"
 status: "active"
-educationQualification: "10+2 with Physics, Chemistry, Biology/Biotechnology. Minimum 50% for General (40% for SC/ST/OBC/PwD)."
-selectionProcess:
-  - "Written Examination (MCQ)"
-  - "Counselling via MCC / State Counselling"
-applicationFee:
-  general: "₹1700"
-  obc: "₹1600"
-  scSt: "₹1000"
-  pwd: "₹1000"
+relatedStages: []
 ---
 
-## NEET UG 2026 Result — Overview
+## NEET UG 2026 Result — Expected Mid-June 2026
 
-NEET UG 2026 was conducted by the National Testing Agency (NTA) on May 4, 2026 across exam centres throughout India and abroad. The result is expected in June 2026 on the official website **neet.ntaonline.in**.
+The National Testing Agency (NTA) conducted **NEET UG 2026 on May 4, 2026**. The result is **expected in mid-June 2026**, though NTA has not announced an official result date yet. Candidates should check the official website **neet.nta.nic.in** for the latest updates.
 
-NEET UG is the single national entrance exam for admission to MBBS, BDS, BAMS, BSMS, BUMS, BHMS, BVSc, and AH programmes across all government and private medical colleges in India. Over 22 lakh candidates appeared in 2026.
+> Note: The result date is not yet officially confirmed by NTA. This page will be updated as soon as the official date is announced.
 
-This page will be updated with the result link, score card download steps, cut-off marks, and counselling timeline as soon as NTA officially declares the result.
+## NEET UG 2026 Important Dates
+
+| Event | Date |
+|-------|------|
+| NEET UG 2026 Exam | May 4, 2026 |
+| Result Declaration | To be announced (expected mid-June 2026) |
+| Counselling (MCC / State) | To be announced |
 
 ## How to Check NEET UG 2026 Result
 
-1. **Visit the official portal:** Go to [neet.ntaonline.in](https://neet.ntaonline.in)
-2. **Click the result link:** Look for "NEET UG 2026 Result / Score Card" on the homepage
-3. **Enter credentials:** Application Number + Date of Birth + Security Pin
-4. **View and download:** Your score card showing marks, percentile, and All India Rank (AIR) will appear
-5. **Save a copy:** Download the PDF — this is required for counselling
+Once declared, follow these steps:
 
-> **Result not out yet?** The official result date will be announced by NTA. Check this page or [nta.ac.in](https://nta.ac.in) for updates.
+1. Visit the official website **[neet.nta.nic.in](https://neet.nta.nic.in)**
+2. Click on the **"NEET UG 2026 Result"** link
+3. Enter your **Application Number** and **Date of Birth**
+4. Click **Submit**
+5. Your scorecard will appear — download and save it
 
-## NEET UG 2026 Score Card — Details Shown
+## What the NEET UG 2026 Scorecard Will Contain
 
-| Field | Details |
-|-------|---------|
-| Candidate Name | Full name as per application |
-| Roll Number | Unique exam roll number |
-| Application Number | Registration ID |
-| Subject-wise Marks | Physics, Chemistry, Biology scores |
-| Total Marks | Out of 720 |
-| Percentile Score | Percentile among all candidates |
-| All India Rank (AIR) | Overall and category rank |
-| Category | General / OBC / SC / ST / PwD / EWS |
-| Qualifying Status | Qualified / Not Qualified |
-
-## Expected Cut-off Marks — NEET UG 2026
-
-Cut-off marks are the minimum marks required to be considered eligible for MBBS/BDS counselling. Based on previous years:
-
-| Category | Expected Cut-off Marks | Expected Percentile |
-|----------|------------------------|---------------------|
-| General / EWS | 137–150 | 50th percentile |
-| OBC | 107–120 | 40th percentile |
-| SC | 107–120 | 40th percentile |
-| ST | 107–120 | 40th percentile |
-| PwD (General) | 121–130 | 45th percentile |
-
-*Actual cut-offs will be declared with the result and depend on exam difficulty and number of candidates.*
+- Candidate's name and application number
+- Roll number
+- Subject-wise marks (Physics, Chemistry, Biology)
+- Total marks obtained
+- Percentile score
+- All India Rank (AIR)
+- Category rank
+- Qualifying status
 
 ## What Happens After NEET UG 2026 Result
 
-### For Qualified Candidates
+Qualified candidates will be eligible for:
 
-1. **MCC Counselling (MBBS/BDS — All India Quota):** Medical Counselling Committee (MCC) conducts counselling for 15% All India Quota seats in government colleges and 100% seats in deemed/central universities and ESIC/AFMC. Register at [mcc.nic.in](https://mcc.nic.in)
+- **MCC Counselling** (Medical Counselling Committee) for 15% All India Quota seats in government medical colleges, central universities, AFMC, ESIC, and deemed universities — at mcc.nic.in
+- **State Counselling** for 85% state quota seats — conducted separately by each state
 
-2. **State Counselling (85% State Quota):** Each state conducts its own counselling for 85% of government medical college seats. Check your state's medical admission authority.
-
-3. **Deemed/Private College Counselling:** Separate counselling by MCC (deemed universities) and individual states.
-
-### NEET UG 2026 Counselling Timeline (Expected)
-
-| Round | Expected Dates |
-|-------|---------------|
-| MCC Round 1 Registration | June–July 2026 |
-| MCC Round 1 Allotment | July 2026 |
-| MCC Round 2 | August 2026 |
-| Mop-up Round | September 2026 |
-| State Counselling | Varies by state |
-
-*Dates are provisional. Official schedule will be released by MCC after result declaration.*
-
-## NEET UG 2026 — Important Facts
-
-- **Total seats (approx.):** 1,09,000+ MBBS seats + 27,000+ BDS seats across India
-- **Exam pattern:** 200 questions (180 to attempt), 720 marks total
-  - Physics: 50 questions (45 attempt)
-  - Chemistry: 50 questions (45 attempt)
-  - Biology (Botany + Zoology): 100 questions (90 attempt)
-- **Marking:** +4 for correct, −1 for incorrect
-- **Validity:** NEET score is valid for one year (for the current admission cycle only)
-
-## Re-evaluation / Grievance
-
-NTA does not offer re-evaluation of NEET answer sheets. However:
-- **Provisional Answer Key Challenge:** Candidates can challenge answer keys before the final result (window typically open for 2–3 days after answer key release). Fee: ₹200 per question
-- **Result Grievance:** If there are discrepancies in the score card after result, candidates can contact NTA helpdesk at [nta.ac.in](https://nta.ac.in)
+Counselling dates will be announced after the result is declared.
 
 ## FAQs
 
-**Q1. When will NEET UG 2026 result be declared?**
-A1. The result is expected in June 2026. NTA has not yet announced an exact date. Check neet.ntaonline.in or this page for the latest.
+**Q: When will NEET UG 2026 result be declared?**
+A: NTA has not announced an official date yet. The result is expected in mid-June 2026. Check neet.nta.nic.in for official updates.
 
-**Q2. How is NEET UG 2026 score calculated?**
-A2. Total score = (Correct answers × 4) − (Incorrect answers × 1). Maximum score is 720.
+**Q: Where can I check the NEET UG 2026 result?**
+A: The result will be available at neet.nta.nic.in after it is officially declared.
 
-**Q3. What is the minimum score to qualify NEET UG 2026?**
-A3. General category candidates need to score at the 50th percentile or above. For SC/ST/OBC, the threshold is the 40th percentile. The exact qualifying marks in absolute scores are announced with the result.
+**Q: When was NEET UG 2026 conducted?**
+A: NEET UG 2026 was held on May 4, 2026.
 
-**Q4. Can I get a physical copy of the NEET score card?**
-A4. NTA provides the score card only online via neet.ntaonline.in and DigiLocker. No physical copy is sent by post.
+**Q: What documents are needed for NEET UG 2026 counselling?**
+A: Typically required documents include the NEET scorecard, admit card, Class 10 and 12 mark sheets and certificates, category certificate (if applicable), and Aadhaar card. The exact list will be published by MCC and state authorities with the counselling schedule.
 
-**Q5. Is NEET 2026 score valid for next year?**
-A5. No. NEET scores are valid only for the current academic year's admission cycle.
+**Q: What is the qualifying cutoff for NEET UG 2026?**
+A: The official cutoff will be published along with the result. This page will be updated once NTA announces the qualifying marks.
 
-**Q6. What is the All India Rank (AIR) in NEET?**
-A6. AIR is your rank among all candidates who appeared for NEET UG 2026. A separate AIR is also calculated category-wise. AIR determines eligibility for different colleges and quota seats during counselling.
+**Q: Who conducts NEET UG 2026 counselling?**
+A: The Medical Counselling Committee (MCC) at mcc.nic.in conducts counselling for the 15% All India Quota. State medical/dental councils conduct counselling for the 85% state quota.
 
-**Q7. Where can I check NEET UG 2026 cut-off for specific colleges?**
-A7. College-wise and state-wise cut-offs (closing ranks) are published by MCC after each counselling round at mcc.nic.in. These are not declared with the result.
+**Q: Can I appear for both MCC and state counselling for NEET UG 2026?**
+A: Yes. Qualified candidates can register for both MCC (All India Quota) counselling and their respective state quota counselling simultaneously.
+
+## Important Links
+
+- [NEET UG 2026 Official Website](https://neet.nta.nic.in)
+- [MCC Counselling Website](https://mcc.nic.in)
