@@ -16873,12 +16873,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.citizennest.com/hi/guide/ysr-rythu-bharosa-ap-farmer-support</loc>
-    <lastmod>2026-06-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.citizennest.com/hi/guide/yuva-nidhi-scheme-karnataka</loc>
     <lastmod>2026-05-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -17025,6 +17019,12 @@
   <url>
     <loc>https://www.citizennest.com/update/cuet-pg-2026-admit-card</loc>
     <lastmod>2026-03-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.citizennest.com/update/cuet-ug-2026-result</loc>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -17193,6 +17193,12 @@
   <url>
     <loc>https://www.citizennest.com/update/mdu-result-2026</loc>
     <lastmod>2026-03-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.citizennest.com/update/mht-cet-2026-result</loc>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
