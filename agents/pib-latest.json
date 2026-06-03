@@ -1,57 +1,30 @@
 {
-  "scanTime": "2026-06-02T08:13:17.956Z",
+  "scanTime": "2026-06-03T08:33:36.187Z",
   "totalItems": 40,
   "newItems": 30,
-  "relevantItems": 16,
+  "relevantItems": 7,
   "items": [
     {
-      "title": "Processing of Applications Received Under the Citizen’s Charter  – Status as on May 31, 2026",
-      "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62845",
-      "description": "<table width=\"100%\" border=\"0\" align=\"center\" class=\"td\">  <tr>    <td><p>A summary of the performance under the Citizen&rsquo;s Charter of the Reserve Bank of India during the month of May 2026 is given below &ndash;</p>      <table width=\"85%\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"1\" class=\"tablebg\">        <tr class=\"head\">          <td colspan=\"2\" align=\"center\">Description</td>          <td width=\"10%\" align=\"center\">No. of Applications</td>        </tr>        <tr>          <td width=\"6%\" align=\"center\" valign=\"top\">A</td>          <td width=\"84%\" valign=\"top\">Applications pending at the beginning of the month</td>          <td align=\"right\" valign=\"top\">2,473&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>        </tr>        <tr>          <td align=\"center\" valign=\"top\">B</td>          <td valign=\"top\">Applications received during the month</td>          <td align=\"right\" valign=\"top\">16,865&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>        </tr>        <tr>          <td align=\"center\" valign=\"top\">C</td>          <td valign=\"top\">Referred back to applicants for additional information</td>          <td align=\"right\" valign=\"top\">575&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>        </tr>        <tr>          <td align=\"center\" valign=\"top\">&nbsp;</td>          <td align=\"center\" valign=\"top\" class=\"head\">Total (A+B-C)</td>          <td align=\"right\" valign=\"top\" class=\"head\">18,763&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>        </tr>        <tr>          <td align=\"center\" valign=\"top\">D</td>          <td valign=\"top\">Applications processed during the month<br>            &ndash; Within timeline<br>            &ndash; Beyond timeline</td>          <td align=\"right\" valign=\"top\"><span class=\"head\">16,209</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>            16,193&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(99.9%)<br>          16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(0.1%)</td>        </tr>        <tr>          <td align=\"center\" valign=\"top\">E</td>          <td valign=\"top\">Applications pending at the end of the month<br>            &ndash; Within timeline<br>            &ndash; Beyond timeline</td>          <td align=\"right\" valign=\"top\"><span class=\"head\">2,554</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>            2,539&nbsp;&nbsp;&nbsp;&nbsp; (99.4%)<br>          15*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(0.6%)</td>        </tr>        <tr>          <td colspan=\"3\">* Awaiting inputs from external agencies (14), Under Process (1)</td>        </tr>      </table>      <br>      <table width=\"85%\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"1\" class=\"tablebg\">        <tr>          <td colspan=\"6\" align=\"center\"><span class=\"head\">Function-wise Status of Applications Received / Processed / Pending</span></td>        </tr>        <tr>          <td width=\"40%\" rowspan=\"3\" align=\"center\"><span class=\"head\">Function</span></td>          <td colspan=\"5\" align=\"center\"><span class=\"head\">No. of Applications</span></td>        </tr>        <tr>          <td width=\"12%\" rowspan=\"2\" align=\"center\"><span class=\"head\">Total</span></td>          <td colspan=\"2\" align=\"center\"><span class=\"head\">Processed</span></td>          <td colspan=\"2\" align=\"center\"><span class=\"head\">Pending</span></td>        </tr>        <tr>          <td width=\"12%\" align=\"center\"><span class=\"head\">Within timeline</span></td>          <td width=\"12%\" align=\"center\"><span class=\"head\">Beyond timeline</span></td>          <td width=\"12%\" align=\"center\"><span class=\"head\">Within timeline</span></td>          <td width=\"12%\" align=\"center\"><span class=\"head\">Beyond timeline</span></td>        </tr>        <tr>          <td>Banker to Banks and Governments </td>          <td align=\"right\">7,602 </td>          <td align=\"right\">7,602 </td>          <td align=\"right\">- </td>          <td align=\"right\">- </td>          <td align=\"right\">- </td>        </tr>        <tr>          <td>Currency Management</td>          <td align=\"right\">6,964 </td>          <td align=\"right\">6,261 </td>          <td align=\"right\">- </td>          <td align=\"right\">703 </td>          <td align=\"right\">- </td>        </tr>        <tr>          <td>Debt Management</td>          <td align=\"right\">744 </td>          <td align=\"right\">594 </td>          <td align=\"right\">- </td>          <td align=\"right\">150 </td>          <td align=\"right\">- </td>        </tr>        <tr>          <td>Financial Markets</td>          <td align=\"right\">12 </td>          <td align=\"right\">9 </td>          <td align=\"right\">- </td>          <td align=\"right\">3 </td>          <td align=\"right\">- </td>        </tr>        <tr>          <td>FinTech </td>          <td align=\"right\">- </td>          <td align=\"right\">- </td>          <td align=\"right\">- </td>          <td align=\"right\">- </td>          <td align=\"right\">- </td>        </tr>        <tr>          <td>Foreign Exchange Management</td>          <td align=\"right\">2,201 </td>          <td align=\"right\">1,158 </td>          <td align=\"right\">7 </td>          <td align=\"right\">1,021 </td>          <td align=\"right\">15 </td>        </tr>        <tr>          <td>Payment and Settlement Systems</td>          <td align=\"right\">40 </td>          <td align=\"right\">22 </td>          <td align=\"right\">3 </td>          <td align=\"right\">15 </td>          <td align=\"right\">- </td>        </tr>        <tr>          <td>Regulation and Supervision</td>          <td align=\"right\">1,200 </td>          <td align=\"right\">547 </td>          <td align=\"right\">6 </td>          <td align=\"right\">647 </td>          <td align=\"right\">- </td>        </tr>        <tr>          <td>Total</td>          <td align=\"right\">18,763 </td>          <td align=\"right\">16,193 </td>          <td align=\"right\">16 </td>          <td align=\"right\">2,539 </td>          <td align=\"right\">15 </td>        </tr>      </table><p>The Reserve Bank of India regularly reviews the services covered under its Citizen&rsquo;s Charter and based on the recent review &ndash; (i) two services have been included, and (ii) one service related to Issuance of Fresh Money Changers license has been discontinued. Accordingly, the number of services under the Charter now stands at 199.</p><p align=\"right\"><span class=\"head\">(Brij Raj)</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br aria-hidden=\"true\">  Chief General Manager</p><p class=\"head\">Press Release: 2026-2027/367</p></td>  </tr></table>",
-      "source": "rbi-press",
-      "sourceName": "RBI Press Releases",
-      "lang": "en",
+      "title": "डिजिटल इंडिया भाषिनी डिवीजन, करंट एआई और कल्पा इम्पैक्ट ने बहुभाषी अत्याधुनिक एआई नवाचार को बढ़ावा देने के लिए व्योमा इनोवेशन प्रतियोगिता का शुभारंभ किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2268152",
+      "description": "",
+      "source": "pib",
+      "sourceName": "PIB Press Releases",
+      "lang": "hi",
       "category": "DIGITAL_SERVICE"
     },
     {
-      "title": "RBI launches the Survey on Foreign Liabilities and Assets of Mutual Funds: 2025-26 round",
-      "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62841",
-      "description": "<table width=\"100%\" border=\"0\" align=\"center\" class=\"td\">  <tr>    <td><p>The Reserve Bank hereby launches the <a href=\"https://rbidocs.rbi.org.in/rdocs/Forms/DOCs/FLAMFC01062026F_English.xls\" target=\"_blank\" class=\"links\">2025-26 round</a> of its annual survey on &lsquo;Foreign Liabilities and Assets of Mutual Funds&rsquo;. The survey collects the information from mutual funds on their external financial liabilities and assets as at end-March of the financial year 2025-26. The aggregated survey results are disseminated in the public domain and are used in the compilation of India&rsquo;s external sector statistics.</p>    <p>Mutual funds are required to fill the survey schedule, which is available on the RBI website [path: (i) &lsquo;Regulatory Reporting&rsquo; <span class=\"head\">&rarr;</span> &lsquo;<a href=\"https://www.rbi.org.in/scripts/BS_Listofallreturns.aspx\" target=\"_blank\" class=\"links\">List of Returns</a>&rsquo; <span class=\"head\">&rarr;</span> &lsquo;FLA MF - Survey Schedule&rsquo; or (ii) &lsquo;<a href=\"https://rbi.org.in/Scripts/BS_ViewForms.aspx\" target=\"_blank\" class=\"links\">Forms</a>&rsquo; (available at the bottom of the home page) <span class=\"head\">&rarr;</span> &lsquo;<a href=\"https://rbi.org.in/Scripts/BS_ViewForms.aspx?FCId=40\" target=\"_blank\" class=\"links\">Survey</a>&rsquo;], and send via <a href=\"mailto:mf@rbi.org.in\" class=\"links\">e-mail</a> by <span class=\"head\">July 07, 2026</span>. The survey schedule is available in both <a href=\"https://www.rbi.org.in/hindi1/Upload/Forms/Docs/HFLAMFC01062026_Hindi.xls\" target=\"_blank\" class=\"links\">Hindi</a> and <a href=\"https://rbidocs.rbi.org.in/rdocs/Forms/DOCs/FLAMFC01062026F_English.xls\" target=\"_blank\" class=\"links\">English</a> and reporting entities may use either of them.</p>    <p>This survey round is being conducted through survey module of Centralised Information Management System (CIMS) enabling web-based submission with built-in data consistency checks for data quality assurance and automated email acknowledgement on successful submission facility. The facility to submit excel based survey responses through existing SMS system is also available in parallel.</p>    <p>For this purpose, the respondent entities will get survey launching email from both the systems, i.e., from email ID: <a href=\"mailto:mf@rbi.org.in\" class=\"links\">mf@rbi.org.in</a> (existing SMS system) as well as <a href=\"mailto:no-reply-cims@rbi.org.in\" class=\"links\">no-reply-cims@rbi.org.in</a> (through CIMS portal). The reporting entities are requested to send their response in excel based form via e-mail to <a href=\"mailto:mf@rbi.org.in\" class=\"links\">mf@rbi.org.in</a> as well as by login to the CIMS portal through link received from e-mail ID: <a href=\"mailto:no-reply-cims@rbi.org.in\" class=\"links\">no-reply-cims@rbi.org.in</a>. Alternatively, reporting entities are requested to open the self-registration link (URL: <a href=\"https://cims.rbi.org.in/#/login?responders\" target=\"_blank\" class=\"links\">https://cims.rbi.org.in/#/login?responders</a> [Click: New Registration]) and create login credential and submit the response through online web-based form in the CIMS portal. This existing excel-based reporting system will be decommissioned from the next round of the survey.</p>    <p>The instructions are provided in <a href=\"https://rbi.org.in/Scripts/FAQView.aspx?Id=143\" target=\"_blank\" class=\"links\">FAQs</a>. In case of further query or clarification, kindly contact us at <a href=\"mailto:mfquery@rbi.org.in\" class=\"links\">mfquery@rbi.org.in</a> or given below address.</p>    <p align=\"center\">The Director,<br>      International Investment Position Division (IIPD),<br>      Department of Statistics and Information Management (DSIM),<br>      Reserve Bank of India,<br>      C9-5th floor, Bandra-Kurla Complex, Bandra (East),<br>      Mumbai-400051.<br>    Please <a href=\"mailto:mfquery@rbi.org.in\" class=\"links\">click here</a> to send email.</p>    <p align=\"right\"><span class=\"head\">Ajit Prasad</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>      Deputy General Manager<br>      (Communications)&nbsp;&nbsp;&nbsp;&nbsp;</p>    <p class=\"head\">Press Release: 2026-2027/363</p></td>  </tr></table>",
-      "source": "rbi-press",
-      "sourceName": "RBI Press Releases",
-      "lang": "en",
+      "title": "वेव्स ओटीटी ने एक करोड़ उपयोगकर्ताओं का आंकड़ा पार किया, जिससे भारत के सार्वजनिक सेवा डिजिटल मीडिया इकोसिस्टम को मजबूती मिली",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2268117",
+      "description": "",
+      "source": "pib",
+      "sourceName": "PIB Press Releases",
+      "lang": "hi",
       "category": "DIGITAL_SERVICE"
     },
     {
-      "title": "भारत का सीफूड निर्यात वित्त वर्ष 2025-26 में ₹73,890 करोड़ के उच्चतम स्तर पर पहुंच गया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2267692",
-      "description": "",
-      "source": "pib",
-      "sourceName": "PIB Press Releases",
-      "lang": "hi",
-      "category": "FUNDING"
-    },
-    {
-      "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on June 02, 2026",
-      "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62846",
-      "description": "<table width=\"100%\" border=\"0\" align=\"center\" class=\"td\">  <tr>    <td><p>On a review of current and evolving liquidity conditions, it has been decided to conduct a Variable Rate Repo (VRR) auction on Tuesday, June 02, 2026, as under:</p>      <table width=\"85%\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"1\" class=\"tablebg\">        <tr class=\"head\">          <td width=\"9%\" align=\"center\">Sl. No.</td>          <td width=\"26%\" align=\"center\">Notified Amount<br>          (&#8377; crore)</td>          <td width=\"12%\" align=\"center\">Tenor<br>          (day)</td>          <td width=\"28%\" align=\"center\">Window Timing </td>          <td width=\"25%\" align=\"center\">Date of Reversal</td>        </tr>        <tr>          <td height=\"24\" align=\"center\" valign=\"top\">1</td>          <td align=\"center\" valign=\"top\">75,000</td>          <td align=\"center\" valign=\"top\">3</td>          <td align=\"center\" valign=\"top\">9:30 AM to 10:00 AM</td>          <td align=\"center\">June 05, 2026<br>          (Friday)</td>        </tr>      </table><p>2. The operational guidelines for the auction will be same as given in Reserve Bank&rsquo;s <a href=\"https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=53127\" target=\"_blank\" class=\"links\">Press Release 2021-2022/1572 dated January 20, 2022</a>.</p><p align=\"right\"><span class=\"head\">Ajit Prasad</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  Deputy General Manager<br>  (Communications)&nbsp;&nbsp;&nbsp;&nbsp;</p><p class=\"head\">Press Release: 2026-2027/368</p></td>  </tr></table>",
-      "source": "rbi-press",
-      "sourceName": "RBI Press Releases",
-      "lang": "en",
-      "category": "FUNDING"
-    },
-    {
-      "title": "Result of the 3-day Variable Rate Repo (VRR) auction held on June 02, 2026",
-      "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62848",
-      "description": "<table width=\"100%\" border=\"0\" align=\"center\" class=\"td\">  <tr>    <td><table width=\"85%\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"1\" class=\"tablebg\">      <tr>        <td width=\"70%\">Tenor</td>        <td width=\"30%\" align=\"right\">3-day</td>      </tr>      <tr>        <td>Notified Amount (in &#8377; crore)</td>        <td align=\"right\">75,000</td>      </tr>      <tr>        <td>Total amount of bids received (in &#8377; crore)</td>        <td align=\"right\">17,445</td>      </tr>      <tr>        <td>Amount allotted (in &#8377; crore)</td>        <td align=\"right\">17,445</td>      </tr>      <tr>        <td>Cut off Rate (%)</td>        <td align=\"right\">5.26</td>      </tr>      <tr>        <td>Weighted Average Rate (%)</td>        <td align=\"right\">5.26</td>      </tr>      <tr>        <td>Partial Allotment Percentage of bids received at cut off rate (%)</td>        <td align=\"right\">NA</td>      </tr>    </table><p align=\"right\"><span class=\"head\">Ajit Prasad</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  Deputy General Manager<br>  (Communications)&nbsp;&nbsp;&nbsp;&nbsp;</p><p class=\"head\">Press Release: 2026-2027/370</p></td>  </tr></table>",
-      "source": "rbi-press",
-      "sourceName": "RBI Press Releases",
-      "lang": "en",
-      "category": "JOBS_EXAMS"
-    },
-    {
-      "title": "प्रधानमंत्री ने दृढ़ संकल्प, आत्म-संयम और बुद्धिमत्ता के गुणों को दर्शाने वाला संस्कृत सुभाषितम् साझा किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2267820",
+      "title": "आईईपीएफए और सेबी 5 जून को भोपाल में 'निवेशक शिविर' का आयोजन करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2268286",
       "description": "",
       "source": "pib",
       "sourceName": "PIB Press Releases",
@@ -59,8 +32,8 @@
       "category": "OTHER"
     },
     {
-      "title": "प्रधानमंत्री ने तेलंगाना राज्य स्थापना दिवस के अवसर पर वहां के लोगों को शुभकामनाएं दीं",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2267822",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने एकता, आपसी सहयोग और सामूहिक संकल्प की शक्ति को दर्शाने वाला एक संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2268216",
       "description": "",
       "source": "pib",
       "sourceName": "PIB Press Releases",
@@ -68,8 +41,8 @@
       "category": "OTHER"
     },
     {
-      "title": "जल शक्ति मंत्री सी.आर. पाटिल ने 'स्वच्छ गांव, सुरक्षित जलवायु' अभियान और ठोस अपशिष्ट प्रबंधन (एसडब्ल्यूएम) नियम 2026 पर राष्ट्रीय स्तर का जागरूकता अभियान (आईईसी) का शुभारंभ किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2267756",
+      "title": "भारत के पास जैव-अर्थव्यवस्था तथा जैव-आधारित कृषि-लागत क्षेत्र में वैश्विक अग्रणी बनने की अपार क्षमता है: श्री तेजवीर सिंह, सचिव, डीसीपीसी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2268217",
       "description": "",
       "source": "pib",
       "sourceName": "PIB Press Releases",
@@ -77,8 +50,8 @@
       "category": "OTHER"
     },
     {
-      "title": "सीमा सड़क संगठन ने असम के डूमडूमा में उदयक परियोजना का 37वां स्थापना दिवस मनाया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2267776",
+      "title": "केंद्रीय मंत्री डॉ. वीरेंद्र कुमार पीएम-एजेएवाई पर केंद्रीय सलाहकार समिति की बैठक की अध्यक्षता करेंगे; अनुसूचित जातियों के सामाजिक-आर्थिक विकास को सुदृढ़ करने पर ध्यान केंद्रित किया जाएगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2268204",
       "description": "",
       "source": "pib",
       "sourceName": "PIB Press Releases",
@@ -86,67 +59,13 @@
       "category": "OTHER"
     },
     {
-      "title": "प्रधानमंत्री ने म्यांमार के राष्ट्रपति यू मिन आंग ह्लाइंग के साथ वार्ता की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2267741",
+      "title": "केंद्रीय मंत्री ज्योतिरादित्य एम. सिंधिया ने असम के मूगा रेशम के लिए \"सेनेहजोरी\" मिशन का शुभारंभ किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2268151",
       "description": "",
       "source": "pib",
       "sourceName": "PIB Press Releases",
       "lang": "hi",
       "category": "OTHER"
-    },
-    {
-      "title": "इंडिया स्किल्स एक्सेलरेटर राउंडटेबल ने कौशल की कमी को दूर करने और भारत को एक वैश्विक प्रतिभा केंद्र के रूप में मजबूत करने के लिए रोडमैप तैयार करने हेतु सरकार, उद्योग और वैश्विक नीति-निर्माताओं को एक मंच पर एकत्रित किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2267702",
-      "description": "",
-      "source": "pib",
-      "sourceName": "PIB Press Releases",
-      "lang": "hi",
-      "category": "OTHER"
-    },
-    {
-      "title": "राष्ट्रीय प्राणी उद्यान मिशन लाइफ और पर्यावरण संरक्षण को बढ़ावा देने के लिए स्वच्छता पखवाड़ा आयोजित कर रहा है",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2267694",
-      "description": "",
-      "source": "pib",
-      "sourceName": "PIB Press Releases",
-      "lang": "hi",
-      "category": "OTHER"
-    },
-    {
-      "title": "आईपीएफटी ने अगली पीढ़ी के बायो-इनपुट पर बायोपीएसएफ 2026 संगोष्ठी-सह-कार्यशाला आयोजित की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2267703",
-      "description": "",
-      "source": "pib",
-      "sourceName": "PIB Press Releases",
-      "lang": "hi",
-      "category": "OTHER"
-    },
-    {
-      "title": "जल क्षेत्र में अनुसंधान एवं विकास पर राष्ट्रीय कार्यशाला ने अनुसंधान-आधारित जल सुरक्षा के लिए भविष्य की रूपरेखा तैयार की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2267680",
-      "description": "",
-      "source": "pib",
-      "sourceName": "PIB Press Releases",
-      "lang": "hi",
-      "category": "OTHER"
-    },
-    {
-      "title": "राजस्थान के मुख्यमंत्री ने प्रधानमंत्री से मुलाकात की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2267676",
-      "description": "",
-      "source": "pib",
-      "sourceName": "PIB Press Releases",
-      "lang": "hi",
-      "category": "OTHER"
-    },
-    {
-      "title": "RBI launches Survey on Computer Software and Information Technology Enabled Services (ITES) Exports: 2025-26",
-      "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62840",
-      "description": "<table width=\"100%\" border=\"0\" align=\"center\" class=\"td\">  <tr>    <td><p>The Reserve Bank has launched its annual survey on Computer Software and Information Technology Enabled Services (ITES) Exports for <a href=\"https://rbidocs.rbi.org.in/rdocs/Forms/DOCs/ITES20252601062026_ENGLISH.xls\" target=\"_blank\" class=\"links\">2025-26</a>.</p>      <p>The survey collects data on various aspects of computer services exports as well as exports of information technology enabled services (ITES) and business process outsourcing (BPO) services. The aggregated survey results are disseminated in public domain besides being used in the compilation of India&rsquo;s external sector statistics.</p>      <p>The survey schedule for the 2025-26 round is required to be filled in by all software and ITES/BPO services exporting entities. The format of the ITES survey schedule has been updated for the current round. The soft form of this survey schedule (both in <a href=\"https://www.rbi.org.in/hindi1/Upload/Forms/DOCs/ITES20252601062026_HINDI.xls\" target=\"_blank\" class=\"links\">Hindi</a>&nbsp;and&nbsp;<a href=\"https://rbidocs.rbi.org.in/rdocs/Forms/DOCs/ITES20252601062026_ENGLISH.xls\" target=\"_blank\" class=\"links\">English</a>) is available on the RBI&rsquo;s website under the head &lsquo;Regulatory Reporting&rsquo; <span class=\"head\">&rarr;</span> &lsquo;<a href=\"https://www.rbi.org.in/scripts/BS_Listofallreturns.aspx\" target=\"_blank\" class=\"links\">List of Returns</a>&rsquo; <span class=\"head\">&rarr;</span> &lsquo;Return Name&rsquo; <span class=\"head\">&rarr;</span> &lsquo;ITES - Survey Schedule&rsquo; [ or under the head &lsquo;<a href=\"https://rbi.org.in/Scripts/BS_ViewForms.aspx\" target=\"_blank\" class=\"links\">Forms</a>&rsquo; (available at the bottom of the home page) and sub-head &lsquo;<a href=\"https://rbi.org.in/Scripts/BS_ViewForms.aspx?FCId=40\" target=\"_blank\" class=\"links\">Survey</a>&rsquo; <span class=\"head\">&rarr;</span> Computer Software and Information Technology Enabled Services (ITES) Exports for 2025-26], which can be duly filled and submitted via <a href=\"mailto:surveysoftex@rbi.org.in\" class=\"links\">email</a>. The due date to submit the survey response is<span class=\"head\"> July 15, 2026</span>.</p>      <p>This survey round is being conducted through survey module of Centralised Information Management System (CIMS) enabling web-based submission with built-in data consistency checks for data quality assurance and automated email acknowledgement on successful submission facility. The facility to submit excel based survey responses through existing SMS system is also available in parallel.</p>      <p>For this purpose, the respondent entities will get survey launching email from both the systems, i.e., from email ID: <a href=\"mailto:surveysoftex@rbi.org.in\" class=\"links\">surveysoftex@rbi.org.in</a> (existing SMS system) as well as <a href=\"mailto:no-reply-cims@rbi.org.in\" class=\"links\">no-reply-cims@rbi.org.in</a> (through CIMS portal). The reporting entities are requested to send their response in excel based form via e-mail to <a href=\"mailto:surveysoftex@rbi.org.in\" class=\"links\">surveysoftex@rbi.org.in</a> as well as by login to the CIMS portal through link received from e-mail ID: <a href=\"mailto:no-reply-cims@rbi.org.in\" class=\"links\">no-reply-cims@rbi.org.in</a>. Alternatively, reporting entities are requested to open the self-registration link (URL: <a href=\"https://cims.rbi.org.in/#/login?responders\" target=\"_blank\" class=\"links\">https://cims.rbi.org.in/#/login?responders</a> [Click: New Registration]) and create login credential and submit the response through online web-based form in the CIMS portal. This existing excel-based reporting system will be decommissioned from the next round of the survey.</p>      <p>The instructions are provided in <a href=\"https://www.rbi.org.in/Scripts/FAQView.aspx?Id=142\" target=\"_blank\" class=\"links\">FAQs</a>&nbsp;and, in case of any query or clarification, kindly contact us at <a href=\"mailto:itesquery@rbi.org.in\" class=\"links\">itesquery@rbi.org.in</a> or given below address.</p>      <p align=\"center\">The Director,<br>International Investment Position Division,<br>Department of Statistics and Information Management (DSIM),<br>Reserve Bank of India,<br>C-9, 5th floor, Bandra-Kurla Complex, Bandra (E),<br>Mumbai-400 051.<br>Please <a href=\"mailto:itesquery@rbi.org.in\" class=\"links\">click here</a> to send email.</p>      <p align=\"right\"><span class=\"head\">Ajit Prasad</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>        Deputy General Manager<br>        (Communications)&nbsp;&nbsp;&nbsp;&nbsp;</p>    <p class=\"head\">Press Release: 2026-2027/362</p></td>  </tr></table>",
-      "source": "rbi-press",
-      "sourceName": "RBI Press Releases",
-      "lang": "en",
-      "category": "NEW_SCHEME_OR_LAUNCH"
     }
   ]
 }
