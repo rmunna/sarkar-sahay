@@ -343,7 +343,7 @@ export default async function GuidePage({ params }: Props) {
           )}
 
           {/* Ad — after header info, before content body */}
-          <AdUnit slot={AD_SLOT_GUIDE} format="horizontal" className="mb-8" />
+          <AdUnit slot={AD_SLOT_GUIDE} format="auto" className="mb-8" />
 
           {/* Article Content */}
           <div

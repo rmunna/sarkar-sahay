@@ -4,6 +4,7 @@ import Script from "next/script";
 import Link from "next/link";
 import { MobileNav } from "./mobile-nav";
 import AdSenseInit from "@/components/AdSenseInit";
+import StickyMobileAd from "@/components/StickyMobileAd";
 import "./globals.css";
 
 const inter = Inter({
@@ -147,6 +148,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main className="max-w-6xl mx-auto px-4 sm:px-6 py-8 flex-1 w-full">
           {children}
         </main>
+
+        {/* Sticky mobile footer ad — only shows when NEXT_PUBLIC_AD_SLOT_STICKY is set */}
+        <StickyMobileAd />
 
         {/* Footer */}
         <footer className="bg-white border-t-4 border-[#0f2744] mt-auto">
