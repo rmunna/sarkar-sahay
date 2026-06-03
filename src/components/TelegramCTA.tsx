@@ -1,4 +1,18 @@
-export default function TelegramCTA() {
+interface TelegramCTAProps {
+  category?: string;
+}
+
+export default function TelegramCTA({ category = "" }: TelegramCTAProps) {
+  const isExam = category === "Jobs & Exams";
+
+  const heading = isExam
+    ? "Get instant exam alerts on Telegram"
+    : "Stay updated on government schemes & services";
+
+  const subtext = isExam
+    ? "SSC, UPSC, NEET, JEE results — posted the moment they drop. Join 100% free."
+    : "New schemes, policy changes & citizen service updates — free & instant on @citizennest.";
+
   return (
     <div className="mt-10 rounded-2xl overflow-hidden border border-[#229ED9]/30 bg-gradient-to-br from-[#E8F4FD] to-[#D0EAFA]">
       <div className="px-6 py-6 flex flex-col sm:flex-row items-center gap-5">
@@ -12,11 +26,10 @@ export default function TelegramCTA() {
         {/* Text */}
         <div className="flex-1 text-center sm:text-left">
           <p className="text-base font-bold text-gray-900 leading-snug">
-            Get instant exam alerts on Telegram
+            {heading}
           </p>
           <p className="text-sm text-gray-600 mt-1">
-            SSC, UPSC, NEET, JEE results — posted the moment they drop.
-            Join 100% free.
+            {subtext}
           </p>
         </div>
 

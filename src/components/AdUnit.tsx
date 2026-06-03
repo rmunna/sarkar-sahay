@@ -38,7 +38,7 @@ export default function AdUnit({ slot, format = "auto", className = "" }: AdUnit
     <div className={`overflow-hidden ${className}`}>
       <ins
         className="adsbygoogle"
-        style={{ display: "block" }}
+        style={{ display: "block", minHeight: 0 }}
         data-ad-client="ca-pub-7012449506814064"
         data-ad-slot={slot}
         data-ad-format={format}
