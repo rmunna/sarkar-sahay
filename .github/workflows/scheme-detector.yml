@@ -102,13 +102,16 @@ jobs:
         run: |
           git config user.name "CitizenNest Bot"
           git config user.email "bot@citizennest.com"
-          git add content/guides/ agents/pib-latest.json agents/pib-tracker.json || true
-          NEW=$(git diff --staged --name-only | grep 'content/guides/' | wc -l | tr -d ' ')
+          # Stage English AND all southern-language content directories
+          git add content/guides/ content/guides-ta/ content/guides-ml/ content/guides-te/ \
+            agents/pib-latest.json agents/pib-tracker.json 2>/dev/null || true
+          NEW=$(git diff --staged --name-only | grep -E 'content/guides(-ta|-ml|-te)?/' | wc -l | tr -d ' ')
           if [ "$NEW" -gt 0 ]; then
             git commit -m "content: add ${NEW} new scheme guide(s) from PIB [$(date +'%Y-%m-%d')]
 
             Source: PIB RSS (ministry-specific feeds)
             Accuracy: verified from press release text + official .gov.in links
+            Language: southern state schemes written in local language (ta/ml/te)
             Telegram: NOT posted (Jobs & Exams channel only)"
             git stash --include-untracked 2>/dev/null || true
             git fetch origin main
@@ -121,7 +124,7 @@ jobs:
             echo "new_count=0" >> $GITHUB_OUTPUT
             echo "No new scheme guides"
             # Always commit tracker so seen items aren't reprocessed tomorrow
-            git restore --staged content/guides/ 2>/dev/null || true
+            git restore --staged content/guides/ content/guides-ta/ content/guides-ml/ content/guides-te/ 2>/dev/null || true
             if ! git diff --staged --quiet; then
               git commit -m "chore: update PIB scan tracker [skip ci] [$(date +'%Y-%m-%d')]"
               git stash --include-untracked 2>/dev/null || true
@@ -163,10 +166,21 @@ jobs:
           GOOGLE_INDEXING_KEY: ${{ secrets.GOOGLE_INDEXING_KEY }}
         run: |
           if [ -f "agents/.newly-generated-scheme-slugs" ]; then
-            echo "Submitting slugs:"
+            echo "Submitting slugs (format: langCode:slug):"
             cat agents/.newly-generated-scheme-slugs
-            while IFS= read -r slug; do
-              node scripts/google-index-submit.js "https://www.citizennest.com/guide/$slug" || true
+            # Parse "langCode:slug" → correct URL prefix
+            # ta → /ta/guide, ml → /ml/guide, te → /te/guide, en (or any) → /guide
+            while IFS= read -r entry; do
+              [ -z "$entry" ] && continue
+              langCode="${entry%%:*}"
+              slug="${entry##*:}"
+              case "$langCode" in
+                ta) urlPath="/ta/guide" ;;
+                ml) urlPath="/ml/guide" ;;
+                te) urlPath="/te/guide" ;;
+                *)  urlPath="/guide" ;;
+              esac
+              node scripts/google-index-submit.js "https://www.citizennest.com${urlPath}/${slug}" || true
             done < agents/.newly-generated-scheme-slugs
           else
             echo "No .newly-generated-scheme-slugs file — skipping"
@@ -176,9 +190,18 @@ jobs:
         if: steps.commit.outputs.new_count > 0
         run: |
           if [ -f "agents/.newly-generated-scheme-slugs" ]; then
-            URLS_JSON=$(while IFS= read -r slug; do
-              [ -z "$slug" ] && continue
-              printf '"https://www.citizennest.com/guide/%s",' "$slug"
+            # Parse "langCode:slug" → correct URL prefix for each entry
+            URLS_JSON=$(while IFS= read -r entry; do
+              [ -z "$entry" ] && continue
+              langCode="${entry%%:*}"
+              slug="${entry##*:}"
+              case "$langCode" in
+                ta) urlPath="/ta/guide" ;;
+                ml) urlPath="/ml/guide" ;;
+                te) urlPath="/te/guide" ;;
+                *)  urlPath="/guide" ;;
+              esac
+              printf '"https://www.citizennest.com%s/%s",' "$urlPath" "$slug"
             done < agents/.newly-generated-scheme-slugs | sed 's/,$//')
             curl -s -X POST "https://api.indexnow.org/indexnow" \
               -H "Content-Type: application/json" \
