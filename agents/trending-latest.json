@@ -1,33 +1,5 @@
 {
-  "scannedAt": "2026-06-01T02:01:22.316Z",
-  "govtTrends": [
-    {
-      "title": "jee advanced",
-      "traffic": "100+",
-      "pubDate": "Sun, 31 May 2026 18:00:00 -0700",
-      "newsTitle": "JEE Advanced: నేడు జేఈఈ అడ్వాన్స్‌డ్‌ ఫలితాలు",
-      "source": "google_trends",
-      "suggestedSlug": "jee-advanced",
-      "guideExists": false
-    },
-    {
-      "title": "jee advanced 2026",
-      "traffic": "500+",
-      "pubDate": "Sun, 31 May 2026 17:20:00 -0700",
-      "newsTitle": "JEE Advanced 2026 Topper AIR 1 to 10 (OUT): Toppers Name with Marks",
-      "source": "google_trends",
-      "suggestedSlug": "jee-advanced-2026",
-      "guideExists": false
-    },
-    {
-      "title": "toi",
-      "traffic": "200+",
-      "pubDate": "Sun, 31 May 2026 11:40:00 -0700",
-      "newsTitle": "‘Mantri Pradhan’s Ministry of Scandals’: Congress flags CBSE answer sheets ‘data breach’",
-      "source": "google_trends",
-      "suggestedSlug": "toi",
-      "guideExists": false
-    }
-  ],
+  "scannedAt": "2026-06-03T15:54:29.150Z",
+  "govtTrends": [],
   "totalTrends": 10
 }

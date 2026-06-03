@@ -19,12 +19,12 @@
   /* ── Guide article prose overrides ────────────────────────────────────── */
 
   .guide-content h2 {
-    @apply text-xl font-bold text-gray-900 mt-10 mb-4 pb-3;
-    border-bottom: 2px solid #fed7aa; /* orange-200 — visible but not heavy */
+    @apply text-2xl font-bold text-gray-900 mt-10 mb-4 pb-3;
+    border-bottom: 2px solid #fdba74; /* orange-300 — visible section divider */
   }
 
   .guide-content h3 {
-    @apply text-base font-semibold text-gray-800 mt-7 mb-3;
+    @apply text-lg font-semibold text-gray-800 mt-7 mb-3;
   }
 
   .guide-content h4 {
@@ -52,7 +52,8 @@
     @apply list-decimal marker:text-orange-500 marker:font-semibold;
   }
 
-  /* Tables — bordered card style */
+  /* ── Tables ─────────────────────────────────────────────────────────── */
+
   .guide-content table {
     @apply w-full text-sm mb-6;
     border-collapse: separate;
@@ -60,16 +61,17 @@
     border: 1px solid #e5e7eb; /* gray-200 */
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
   }
 
+  /* Visibly distinct header row — orange-100, not the near-invisible orange-50 */
   .guide-content thead {
-    @apply bg-orange-50;
+    background-color: #ffedd5; /* orange-100 */
   }
 
   .guide-content th {
-    @apply px-4 py-3 text-left font-semibold text-gray-800 text-xs uppercase tracking-wide;
-    border-bottom: 2px solid #fed7aa; /* orange-200 */
+    @apply px-4 py-3 text-left font-semibold text-gray-900 text-sm uppercase tracking-wide;
+    border-bottom: 2px solid #fdba74; /* orange-300 */
   }
 
   .guide-content td {
@@ -81,14 +83,24 @@
     border-bottom: none;
   }
 
-  .guide-content tbody tr:hover td {
-    @apply bg-orange-50/40;
+  /* Alternating row stripes — makes wide tables (3–4 col comparisons) much easier to scan */
+  .guide-content tbody tr:nth-child(even) td {
+    background-color: #f9fafb; /* gray-50 */
   }
 
-  /* Blockquote — note/tip box */
+  /* Highlight first column as the row-label — bold + very subtle gray tint */
+  .guide-content td:first-child {
+    @apply font-medium text-gray-800;
+  }
+
+  /* Hover overrides striping — full orange tint on hover for any row */
+  .guide-content tbody tr:hover td {
+    background-color: rgba(255, 237, 213, 0.5); /* orange-100/50 */
+  }
+
+  /* ── Blockquote — note/tip box ─────────────────────────────────────────── */
   .guide-content blockquote {
-    @apply border-l-[3px] border-orange-400 bg-orange-50/60 px-4 py-3 my-5 rounded-r-xl text-gray-700 text-sm leading-relaxed;
-    box-shadow: inset 0 0 0 1px rgba(251, 146, 60, 0.12);
+    @apply border-l-4 border-orange-400 bg-orange-50 px-4 py-3 my-5 rounded-r-xl text-gray-700 text-sm leading-relaxed;
   }
 
   .guide-content blockquote strong {
@@ -117,7 +129,7 @@
     border-top: 1px solid #f3f4f6;
   }
 
-  /* Step-list headings */
+  /* Step-list headings (h3 or h4 immediately before an <ol>) */
   .guide-content h3:has(+ ol),
   .guide-content h4:has(+ ol) {
     @apply text-orange-700;
