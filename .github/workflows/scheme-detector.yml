@@ -45,6 +45,20 @@ jobs:
       - name: Install Node dependencies
         run: npm ci --prefer-offline
 
+      # ── Step 0: Write Google service account key (always) ───────────────────
+      - name: Write Google service account key
+        env:
+          GOOGLE_INDEXING_KEY: ${{ secrets.GOOGLE_INDEXING_KEY }}
+        run: |
+          mkdir -p keys
+          echo "$GOOGLE_INDEXING_KEY" > keys/gsc-service-account.json
+          BYTES=$(wc -c < keys/gsc-service-account.json)
+          echo "✅ Key file written ($BYTES bytes)"
+          node -e "
+            const d = JSON.parse(require('fs').readFileSync('./keys/gsc-service-account.json','utf8'));
+            console.log('  type:', d.type, '| project_id:', d.project_id);
+          " 2>/dev/null || echo "  ⚠️ Key not valid JSON"
+
       # ── Step 1: Scan PIB + RBI RSS for new scheme announcements ─────────────
 
       - name: Scan PIB RSS feeds
@@ -96,7 +110,10 @@ jobs:
             Source: PIB RSS (ministry-specific feeds)
             Accuracy: verified from press release text + official .gov.in links
             Telegram: NOT posted (Jobs & Exams channel only)"
-            git pull --rebase origin main || true
+            git stash --include-untracked 2>/dev/null || true
+            git fetch origin main
+            git rebase origin/main 2>/dev/null || git rebase --abort
+            git stash pop 2>/dev/null || true
             git push
             echo "new_count=$NEW" >> $GITHUB_OUTPUT
             echo "✅ Pushed $NEW new scheme guide(s)"
@@ -107,8 +124,11 @@ jobs:
             git restore --staged content/guides/ 2>/dev/null || true
             if ! git diff --staged --quiet; then
               git commit -m "chore: update PIB scan tracker [skip ci] [$(date +'%Y-%m-%d')]"
-              git pull --rebase origin main || true
-              git push
+              git stash --include-untracked 2>/dev/null || true
+              git fetch origin main
+              git rebase origin/main 2>/dev/null || git rebase --abort
+              git stash pop 2>/dev/null || true
+              git push || true
               echo "✅ Tracker committed (prevents duplicate processing)"
             else
               git restore --staged agents/pib-latest.json agents/pib-tracker.json 2>/dev/null || true
@@ -125,11 +145,14 @@ jobs:
           git config user.name "CitizenNest Bot"
           git config user.email "bot@citizennest.com"
           git add public/sitemap.xml public/sitemap-index.xml || true
-          git diff --staged --quiet || (
-            git commit -m "chore: regenerate sitemap after new scheme guides" &&
-            git pull --rebase origin main || true &&
-            git push
-          ) || true
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: regenerate sitemap after new scheme guides [skip ci]"
+            git stash --include-untracked 2>/dev/null || true
+            git fetch origin main
+            git rebase origin/main 2>/dev/null || git rebase --abort
+            git stash pop 2>/dev/null || true
+            git push || true
+          fi
 
       # ── Step 5: Submit to indexing APIs ─────────────────────────────────────
       # Fast indexing = scheme guide ranks before any competitor covers it
@@ -140,10 +163,14 @@ jobs:
           GOOGLE_INDEXING_KEY: ${{ secrets.GOOGLE_INDEXING_KEY }}
         run: |
           if [ -f "agents/.newly-generated-scheme-slugs" ]; then
+            echo "Submitting slugs:"
+            cat agents/.newly-generated-scheme-slugs
             while IFS= read -r slug; do
               node scripts/google-index-submit.js "https://www.citizennest.com/guide/$slug" || true
             done < agents/.newly-generated-scheme-slugs
             rm -f agents/.newly-generated-scheme-slugs
+          else
+            echo "No .newly-generated-scheme-slugs file — skipping"
           fi
 
       - name: Submit to IndexNow (Bing + Yandex)
