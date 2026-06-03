@@ -1,67 +1,38 @@
 {
-  "scanTime": "2026-06-02T20:42:20.263Z",
-  "elapsedSeconds": 52.7,
-  "changesDetected": 9,
-  "errors": 24,
+  "scanTime": "2026-06-03T06:01:56.638Z",
+  "elapsedSeconds": 61.3,
+  "changesDetected": 5,
+  "errors": 25,
   "changes": [
-    {
-      "site": "SBI Careers",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://bank.sbi/documents/77530/52947104/01062026_SCO_21_Select+list.pdf/da9d4d12-6480-1ef6-195d-94611ead1fd8?t=1780311796333",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-06-02T20:41:41.995Z"
-    },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-02T20:41:39.639Z"
-    },
-    {
-      "site": "CRPF",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://crpf.gov.in/Upload/Document/208%20cobra%2053032026-832.pdf",
-      "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-06-02T20:41:51.658Z"
+      "detectedAt": "2026-06-03T06:01:08.293Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-02T20:41:49.189Z"
+      "detectedAt": "2026-06-03T06:01:19.560Z"
+    },
+    {
+      "site": "KVS",
+      "type": "CONTENT_CHANGE",
+      "url": "https://kvsangathan.nic.in/",
+      "detectedAt": "2026-06-03T06:01:23.268Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-02T20:41:58.152Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Written_Exam_Result_State_Engineering_Service_Exam_2025_Dated_01_06_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-02T20:41:57.737Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti__Transport_Vehicle_Transport_Sub_Inspector_Exam_2025_Dated_02_06_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-02T20:41:57.737Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Internal_Accounts_Examiner_Officer_2024_Dated_01_06_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-02T20:41:57.737Z"
+      "detectedAt": "2026-06-03T06:01:29.335Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-02T20:42:11.860Z"
+      "detectedAt": "2026-06-03T06:01:45.863Z"
     }
   ],
   "errorDetails": [
@@ -70,8 +41,18 @@
       "error": "Timeout"
     },
     {
+      "site": "SBI Careers",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "error": ""
+    },
+    {
       "site": "NABARD",
       "url": "https://www.nabard.org/career-notices.aspx",
+      "error": "Timeout"
+    },
+    {
+      "site": "RRB (Railway)",
+      "url": "https://www.rrbcdg.gov.in/",
       "error": "Timeout"
     },
     {
@@ -100,14 +81,9 @@
       "error": "Timeout"
     },
     {
-      "site": "KVS",
-      "url": "https://kvsangathan.nic.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
-      "error": ""
+      "error": "Timeout"
     },
     {
       "site": "BPSC",
