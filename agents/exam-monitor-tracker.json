@@ -57,7 +57,7 @@
       "lastChanged": "2026-03-01T02:46:19.512Z"
     },
     "ssc:notices": {
-      "lastChecked": "2026-06-03T04:38:49.942Z",
+      "lastChecked": "2026-06-03T11:26:46.567Z",
       "noticeIds": [
         "gds7gnnd5whkwbicmacyx",
         "ibyn1adl6ox9xvnfh2cxh",
@@ -82,7 +82,7 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-06-03T04:38:53.079Z",
+      "lastChecked": "2026-06-03T11:26:54.547Z",
       "noticeIds": [
         "20260601213649",
         "20260601213514",
@@ -806,7 +806,7 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-06-03T04:38:55.966Z",
+      "lastChecked": "2026-06-03T11:27:02.566Z",
       "contentHash": "b4b54941c71169407f46ea688622067f",
       "pdfHash": "14732563d46631835f47078a967da1b1",
       "pdfs": [
@@ -1232,14 +1232,14 @@
       ]
     },
     "uppsc:hash": {
-      "lastChecked": "2026-06-03T04:39:05.943Z",
-      "contentHash": "7c830ef95386540830fd2629ba769df4",
+      "lastChecked": "2026-06-03T11:27:23.773Z",
+      "contentHash": "4e6257be5c9dd0eaf19d5a401d8ade38",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-06-03T04:38:55.396Z",
-      "contentHash": "e0515c4c64b5f1b2f81d659f19a5a311",
+      "lastChecked": "2026-06-03T11:27:01.936Z",
+      "contentHash": "734ef183e3e54020d2d593cb3e5f5e76",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
       "pdfs": [
         "https://resource.cdn.icai.org/86965cmib-62nd-campus-brochure.pdf"
@@ -1259,8 +1259,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-06-03T04:38:55.204Z",
-      "contentHash": "3391c995515fc599858a6a40942e300f",
+      "lastChecked": "2026-06-03T11:27:01.922Z",
+      "contentHash": "530e26c491c7f25c654ff5c4b4e6bca1",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "pdfs": [
         "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
@@ -1283,7 +1283,7 @@
       "pdfs": []
     },
     "cbse:hash": {
-      "lastChecked": "2026-06-03T04:39:00.741Z",
+      "lastChecked": "2026-06-03T11:27:13.766Z",
       "contentHash": "4a4ccfaf29d0213341e5ce78085aab01",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
@@ -1315,8 +1315,8 @@
       ]
     },
     "cisf:hash": {
-      "lastChecked": "2026-06-03T04:39:00.861Z",
-      "contentHash": "65d13a868c152a04ae4d12a57cfc9875",
+      "lastChecked": "2026-06-03T11:27:13.677Z",
+      "contentHash": "e542724c5d214c27599bcc1f6ed66772",
       "pdfHash": "dcb8f9d4988ce1cb962ced406b83bc91",
       "pdfs": [
         "https://cisf.gov.in/assets/pdfs/2025/08/id_eng.pdf",
@@ -1368,8 +1368,8 @@
       "pdfs": []
     },
     "kvs:hash": {
-      "lastChecked": "2026-06-03T04:39:04.261Z",
-      "contentHash": "c8ac859929cfc72a82a51369ad1300cd",
+      "lastChecked": "2026-06-03T11:27:18.043Z",
+      "contentHash": "d91ed8b6a782562c06c65ab49b7e0539",
       "pdfHash": "c0267580f088984860b8e26157d69cfe",
       "pdfs": [
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/11/2023112463.pdf",
@@ -1410,7 +1410,7 @@
       ]
     },
     "ugc:hash": {
-      "lastChecked": "2026-06-03T04:39:04.993Z",
+      "lastChecked": "2026-06-03T11:27:20.582Z",
       "contentHash": "afd68862fdf99c50e8d36a196d1afb9a",
       "pdfHash": "95dd0e41cad4c36bd545cf906a567d8b",
       "pdfs": [
@@ -1438,7 +1438,7 @@
       ]
     },
     "mppsc:hash": {
-      "lastChecked": "2026-06-03T04:39:05.518Z",
+      "lastChecked": "2026-06-03T11:27:23.661Z",
       "contentHash": "064003ad9e2bec513a574edab931a3e3",
       "pdfHash": "4b588e55999ef5aa981f8c262792af06",
       "pdfs": [
@@ -1537,7 +1537,7 @@
       ]
     },
     "cuet:hash": {
-      "lastChecked": "2026-06-03T04:39:05.720Z",
+      "lastChecked": "2026-06-03T11:27:23.136Z",
       "contentHash": "7f61bf754629001fa57fcbffd90f2644",
       "pdfHash": "072b9f2d41e95875cecbe42053f0acae",
       "pdfs": [
@@ -2737,5 +2737,5 @@
       ]
     }
   },
-  "lastScan": "2026-06-03T04:39:31.874Z"
+  "lastScan": "2026-06-03T11:27:43.694Z"
 }
