@@ -239,7 +239,7 @@ export default async function GuidePage({ params }: Props) {
 
       <div className="lg:grid lg:grid-cols-[1fr_240px] lg:gap-10">
         {/* Main Content */}
-        <article className="bg-white rounded-2xl border border-gray-100 shadow-sm px-6 py-8 sm:px-8 lg:px-10 lg:py-10">
+        <article className="bg-white rounded-2xl border border-gray-100 border-t-4 border-t-[#0f2744] shadow-sm px-6 py-8 sm:px-8 lg:px-10 lg:py-10">
           {/* Header */}
           <header className="mb-8">
             <span className={`category-badge ${catStyle.bg} ${catStyle.text} border ${catStyle.border} mb-4`}>

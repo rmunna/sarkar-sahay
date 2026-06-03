@@ -39,7 +39,7 @@ export function MobileNav() {
       {/* Hamburger button */}
       <button
         onClick={() => setOpen(!open)}
-        className="p-2 rounded-lg text-gray-600 hover:text-orange-600 hover:bg-orange-50 transition"
+        className="p-2 rounded-lg text-slate-200 hover:text-orange-300 hover:bg-white/10 transition"
         aria-label="Toggle menu"
         aria-expanded={open}
       >
@@ -61,7 +61,7 @@ export function MobileNav() {
 
       {/* Slide-down menu */}
       <div
-        className={`fixed left-0 right-0 top-[65px] z-50 bg-white border-b border-gray-200 shadow-lg transition-all duration-200 ease-in-out ${
+        className={`fixed left-0 right-0 top-[65px] z-50 bg-[#0f2744] border-b border-[#1e3a5f] shadow-xl transition-all duration-200 ease-in-out ${
           open ? "translate-y-0 opacity-100" : "-translate-y-full opacity-0 pointer-events-none"
         }`}
       >
@@ -72,8 +72,8 @@ export function MobileNav() {
               href={link.href}
               className={`px-4 py-3 text-base font-medium rounded-lg transition ${
                 pathname === link.href
-                  ? "text-orange-600 bg-orange-50"
-                  : "text-gray-700 hover:text-orange-600 hover:bg-orange-50"
+                  ? "text-orange-400 bg-white/10"
+                  : "text-slate-200 hover:text-orange-300 hover:bg-white/10"
               }`}
             >
               {link.label}

@@ -19,12 +19,12 @@
   /* ── Guide article prose overrides ────────────────────────────────────── */
 
   .guide-content h2 {
-    @apply text-2xl font-bold text-gray-900 mt-10 mb-4 pb-3;
+    @apply text-2xl font-bold text-slate-800 mt-10 mb-4 pb-3;
     border-bottom: 2px solid #fdba74; /* orange-300 — visible section divider */
   }
 
   .guide-content h3 {
-    @apply text-lg font-semibold text-gray-800 mt-7 mb-3;
+    @apply text-lg font-semibold text-slate-700 mt-7 mb-3;
   }
 
   .guide-content h4 {
@@ -158,6 +158,8 @@
   }
 
   .toc-link.active {
-    @apply text-orange-600 border-orange-500 font-medium bg-orange-50/60;
+    @apply font-medium bg-slate-50;
+    color: #0f2744;
+    border-color: #0f2744;
   }
 }

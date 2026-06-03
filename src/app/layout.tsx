@@ -63,7 +63,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={inter.variable}>
-      <body className={`${inter.className} bg-gray-100 text-gray-900 antialiased min-h-screen flex flex-col`}>
+      <body className={`${inter.className} bg-slate-100 text-gray-900 antialiased min-h-screen flex flex-col`}>
         {/* ── Third-party scripts ── all inside <body> so Next.js does NOT inject
             data-nscript into <head>, which causes AdSense to refuse initialising */}
 
@@ -121,22 +121,22 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           }}
         />
         {/* Header */}
-        <header className="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-[0_1px_8px_rgba(0,0,0,0.07)]">
+        <header className="bg-[#0f2744] sticky top-0 z-50 shadow-[0_2px_16px_rgba(15,39,68,0.45)]">
           <nav className="max-w-6xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
             <Link href="/" className="flex items-center gap-2 group">
               <img src="/favicon.svg" alt="CitizenNest" width={32} height={32} className="w-8 h-8" />
-              <span className="text-xl font-extrabold text-gray-900 group-hover:text-orange-600 transition">
-                Citizen<span className="text-orange-600">Nest</span>
+              <span className="text-xl font-extrabold text-white group-hover:text-orange-300 transition">
+                Citizen<span className="text-orange-400">Nest</span>
               </span>
             </Link>
             {/* Desktop nav */}
             <div className="hidden md:flex gap-1">
-              <Link href="/" prefetch={false} className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">Home</Link>
-              <Link href="/categories" prefetch={false} className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">Categories</Link>
-              <Link href="/calculator" prefetch={false} className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">Calculators</Link>
-              <Link href="/updates" prefetch={false} className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">Updates</Link>
-              <Link href="/about" prefetch={false} className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">About</Link>
-              <Link href="/hi" prefetch={false} className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-orange-600 hover:bg-orange-50 rounded-lg transition">🇮🇳 हिन्दी</Link>
+              <Link href="/" prefetch={false} className="px-3 py-2 text-sm font-medium text-slate-200 hover:text-orange-300 hover:bg-white/10 rounded-lg transition">Home</Link>
+              <Link href="/categories" prefetch={false} className="px-3 py-2 text-sm font-medium text-slate-200 hover:text-orange-300 hover:bg-white/10 rounded-lg transition">Categories</Link>
+              <Link href="/calculator" prefetch={false} className="px-3 py-2 text-sm font-medium text-slate-200 hover:text-orange-300 hover:bg-white/10 rounded-lg transition">Calculators</Link>
+              <Link href="/updates" prefetch={false} className="px-3 py-2 text-sm font-medium text-slate-200 hover:text-orange-300 hover:bg-white/10 rounded-lg transition">Updates</Link>
+              <Link href="/about" prefetch={false} className="px-3 py-2 text-sm font-medium text-slate-200 hover:text-orange-300 hover:bg-white/10 rounded-lg transition">About</Link>
+              <Link href="/hi" prefetch={false} className="px-3 py-2 text-sm font-medium text-slate-200 hover:text-orange-300 hover:bg-white/10 rounded-lg transition">🇮🇳 हिन्दी</Link>
             </div>
             {/* Mobile hamburger */}
             <MobileNav />
@@ -149,7 +149,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </main>
 
         {/* Footer */}
-        <footer className="bg-white border-t border-gray-200 mt-auto">
+        <footer className="bg-white border-t-4 border-[#0f2744] mt-auto">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8">
             <div className="flex flex-col md:flex-row justify-between gap-6">
               <div>

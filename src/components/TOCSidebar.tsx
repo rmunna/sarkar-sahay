@@ -55,7 +55,7 @@ export default function TOCSidebar({ headings }: TOCSidebarProps) {
 
   return (
     <div className="sticky top-24 bg-white rounded-2xl border border-gray-100 shadow-sm p-5">
-      <h3 className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-3">
+      <h3 className="text-xs font-bold text-[#0f2744] uppercase tracking-wider mb-3">
         On this page
       </h3>
       <nav className="space-y-0.5 max-h-[calc(100vh-8rem)] overflow-y-auto">
