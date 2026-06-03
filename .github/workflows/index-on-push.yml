@@ -88,7 +88,14 @@ jobs:
           git config user.name "CitizenNest Bot"
           git config user.email "bot@citizennest.com"
           git add public/sitemap.xml public/sitemap-index.xml 2>/dev/null || true
-          git diff --staged --quiet || (git commit -m "chore: update sitemap after new content" && git pull --rebase origin main && git push) || true
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update sitemap after new content [skip ci]"
+            git stash --include-untracked 2>/dev/null || true
+            git fetch origin main
+            git rebase origin/main 2>/dev/null || git rebase --abort
+            git stash pop 2>/dev/null || true
+            git push || true
+          fi
 
       # ── Google Indexing API — fastest path to Google index ───────────────
 
@@ -121,8 +128,8 @@ jobs:
             -H "Content-Type: application/json" \
             -d "{
               \"host\": \"www.citizennest.com\",
-              \"key\": \"0a27db7c4d814e6ebc070df3513d0d93\",
-              \"keyLocation\": \"https://www.citizennest.com/0a27db7c4d814e6ebc070df3513d0d93.txt\",
+              \"key\": \"c4afa3fbd1f57a882b7e8453af3e4f7e\",
+              \"keyLocation\": \"https://www.citizennest.com/c4afa3fbd1f57a882b7e8453af3e4f7e.txt\",
               \"urlList\": [$URLS_JSON]
             }" && echo "✅ IndexNow submitted" || echo "⚠️ IndexNow failed (non-critical)"
 

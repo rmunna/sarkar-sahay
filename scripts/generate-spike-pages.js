@@ -264,7 +264,7 @@ async function main() {
   log(`❌ Errors:     ${results.errors.length}`);
 
   if (newSlugs.length > 0) {
-    fs.appendFileSync(SLUGS_FILE, newSlugs.join('\n') + '\n');
+    fs.writeFileSync(SLUGS_FILE, newSlugs.join('\n') + '\n', 'utf8');
     log(`💾 Wrote ${newSlugs.length} slug(s) to .newly-generated-slugs`);
   }
 }

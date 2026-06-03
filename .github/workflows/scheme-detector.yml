@@ -168,14 +168,26 @@ jobs:
             while IFS= read -r slug; do
               node scripts/google-index-submit.js "https://www.citizennest.com/guide/$slug" || true
             done < agents/.newly-generated-scheme-slugs
-            rm -f agents/.newly-generated-scheme-slugs
           else
             echo "No .newly-generated-scheme-slugs file — skipping"
           fi
 
       - name: Submit to IndexNow (Bing + Yandex)
         if: steps.commit.outputs.new_count > 0
-        run: node scripts/submit-indexnow.js || true
+        run: |
+          if [ -f "agents/.newly-generated-scheme-slugs" ]; then
+            URLS_JSON=$(while IFS= read -r slug; do
+              [ -z "$slug" ] && continue
+              printf '"https://www.citizennest.com/guide/%s",' "$slug"
+            done < agents/.newly-generated-scheme-slugs | sed 's/,$//')
+            curl -s -X POST "https://api.indexnow.org/indexnow" \
+              -H "Content-Type: application/json" \
+              -d "{\"host\":\"www.citizennest.com\",\"key\":\"c4afa3fbd1f57a882b7e8453af3e4f7e\",\"keyLocation\":\"https://www.citizennest.com/c4afa3fbd1f57a882b7e8453af3e4f7e.txt\",\"urlList\":[$URLS_JSON]}" \
+              && echo "✅ IndexNow submitted" || echo "⚠️ IndexNow failed (non-critical)"
+            rm -f agents/.newly-generated-scheme-slugs
+          else
+            echo "No slug file — skipping IndexNow"
+          fi
 
       # ── NO Telegram step — scheme content is NOT posted to @citizennest ─────
       # Telegram channel is for Jobs & Exam updates only.

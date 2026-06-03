@@ -154,7 +154,19 @@ jobs:
 
       - name: Submit to IndexNow (Bing + Yandex)
         if: steps.commit.outputs.new_count > 0
-        run: node scripts/submit-indexnow.js || true
+        run: |
+          if [ -f "agents/.newly-generated-slugs" ]; then
+            URLS_JSON=$(while IFS= read -r slug; do
+              [ -z "$slug" ] && continue
+              printf '"https://www.citizennest.com/update/%s",' "$slug"
+            done < agents/.newly-generated-slugs | sed 's/,$//')
+            curl -s -X POST "https://api.indexnow.org/indexnow" \
+              -H "Content-Type: application/json" \
+              -d "{\"host\":\"www.citizennest.com\",\"key\":\"c4afa3fbd1f57a882b7e8453af3e4f7e\",\"keyLocation\":\"https://www.citizennest.com/c4afa3fbd1f57a882b7e8453af3e4f7e.txt\",\"urlList\":[$URLS_JSON]}" \
+              && echo "✅ IndexNow submitted" || echo "⚠️ IndexNow failed (non-critical)"
+          else
+            echo "No slug file — skipping IndexNow"
+          fi
 
       # ── Step 6: Notify channels ──────────────────────────────────────────
 
