@@ -3,5 +3,6 @@
   "buildCommand": "npm run build",
   "framework": "nextjs",
   "outputDirectory": ".next",
-  "regions": ["sin1"]
+  "regions": ["sin1"],
+  "ignoreCommand": "git diff HEAD^ HEAD --name-only | grep -qvE '^agents/'"
 }

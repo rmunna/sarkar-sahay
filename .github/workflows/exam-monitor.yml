@@ -97,7 +97,10 @@ jobs:
         run: |
           git config user.name "CitizenNest Bot"
           git config user.email "bot@citizennest.com"
-          git add content/updates/ agents/source-monitors.json || true
+          # NOTE: source-monitors.json is NOT staged here — it goes into the
+          # tracker commit (Step 7) which carries [skip ci], preventing a
+          # Vercel deployment on every run even when no content was added.
+          git add content/updates/ || true
           if git diff --staged --quiet; then
             echo "new_count=0" >> $GITHUB_OUTPUT
             echo "No new content — nothing to commit"
@@ -199,7 +202,9 @@ jobs:
         run: |
           git config user.name "CitizenNest Bot"
           git config user.email "bot@citizennest.com"
-          git add agents/exam-monitor-tracker.json agents/exam-monitor-latest.json || true
+          # Also stage source-monitors.json here so it gets [skip ci] and
+          # never triggers a Vercel deployment on its own.
+          git add agents/exam-monitor-tracker.json agents/exam-monitor-latest.json agents/source-monitors.json || true
           if ! git diff --staged --quiet; then
             git commit -m "chore: update exam monitor tracker [skip ci]"
             git stash --include-untracked 2>/dev/null || true
