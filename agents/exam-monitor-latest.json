@@ -1,65 +1,53 @@
 {
-  "scanTime": "2026-06-04T12:42:57.577Z",
-  "elapsedSeconds": 62.7,
-  "changesDetected": 9,
-  "errors": 27,
+  "scanTime": "2026-06-04T16:20:15.690Z",
+  "elapsedSeconds": 54.5,
+  "changesDetected": 7,
+  "errors": 26,
   "changes": [
     {
-      "site": "SBI Careers",
-      "type": "CONTENT_CHANGE",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-06-04T12:42:12.729Z"
+      "site": "NTA",
+      "type": "NEW_NOTICE",
+      "headline": "NTA Declares the Result/NTA Scores of National Common Entrance Test (NCET) 2026 - reg.&nbsp;",
+      "date": "2026-06-04",
+      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260604181537.pdf",
+      "url": "https://nta.ac.in"
     },
     {
-      "site": "RBI Careers",
-      "type": "CONTENT_CHANGE",
-      "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-04T12:42:10.437Z"
+      "site": "SBI Careers",
+      "type": "PDF_CHANGE",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-06-04T16:19:33.138Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-04T12:42:22.423Z"
+      "detectedAt": "2026-06-04T16:19:45.225Z"
+    },
+    {
+      "site": "BSF",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://d3t79nicn48uzj.cloudfront.net/bsf/custom/1780574766.pdf",
+      "url": "https://rectt.bsf.gov.in/",
+      "detectedAt": "2026-06-04T16:19:45.454Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-04T12:42:27.280Z"
+      "detectedAt": "2026-06-04T16:19:49.093Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-04T12:42:30.849Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Corrigendum_Assistant_Professor_Sanskrit_Geography_Psychology_Law_Geology_Yogik_Science_2025_Dated_04_06_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-04T12:42:30.983Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Professor_History_Exam_2024_Dated_04_06_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-04T12:42:30.983Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://mppsc.mp.gov.in/uploads/files/Vigyapti_3565_03_2022_Computer.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-04T12:42:30.983Z"
+      "detectedAt": "2026-06-04T16:19:52.927Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-04T12:42:49.346Z"
+      "detectedAt": "2026-06-04T16:20:07.402Z"
     }
   ],
   "errorDetails": [
@@ -68,8 +56,8 @@
       "error": "Timeout"
     },
     {
-      "site": "IBPS",
-      "url": "https://www.ibps.in/",
+      "site": "RBI Careers",
+      "url": "https://opportunities.rbi.org.in/",
       "error": "Timeout"
     },
     {
@@ -96,11 +84,6 @@
       "site": "Air Force",
       "url": "https://afcat.cdac.in/AFCAT/",
       "error": "Timeout"
-    },
-    {
-      "site": "BSF",
-      "url": "https://rectt.bsf.gov.in/",
-      "error": "HTTP 403"
     },
     {
       "site": "ITBP",
@@ -163,11 +146,6 @@
       "error": "Timeout"
     },
     {
-      "site": "JPSC",
-      "url": "https://www.jpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "CGPSC",
       "url": "https://psc.cg.gov.in/",
       "error": "Timeout"
@@ -188,6 +166,11 @@
       "error": "HTTP 403"
     },
     {
+      "site": "RBSE Rajasthan",
+      "url": "https://rajeduboard.rajasthan.gov.in/",
+      "error": "Timeout"
+    },
+    {
       "site": "MSBTE",
       "url": "https://www.msbte.org.in/",
       "error": "Timeout"
@@ -195,7 +178,7 @@
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     }
   ]
 }
