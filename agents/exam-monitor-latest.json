@@ -1,53 +1,50 @@
 {
-  "scanTime": "2026-06-04T16:20:15.690Z",
-  "elapsedSeconds": 54.5,
+  "scanTime": "2026-06-04T18:34:49.691Z",
+  "elapsedSeconds": 61,
   "changesDetected": 7,
-  "errors": 26,
+  "errors": 25,
   "changes": [
     {
-      "site": "NTA",
-      "type": "NEW_NOTICE",
-      "headline": "NTA Declares the Result/NTA Scores of National Common Entrance Test (NCET) 2026 - reg.&nbsp;",
-      "date": "2026-06-04",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260604181537.pdf",
-      "url": "https://nta.ac.in"
-    },
-    {
-      "site": "SBI Careers",
-      "type": "PDF_CHANGE",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-06-04T16:19:33.138Z"
+      "site": "RBI Careers",
+      "type": "CONTENT_CHANGE",
+      "url": "https://opportunities.rbi.org.in/",
+      "detectedAt": "2026-06-04T18:34:02.102Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-04T16:19:45.225Z"
+      "detectedAt": "2026-06-04T18:34:09.002Z"
     },
     {
       "site": "BSF",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://d3t79nicn48uzj.cloudfront.net/bsf/custom/1780574766.pdf",
+      "type": "CONTENT_CHANGE",
       "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-06-04T16:19:45.454Z"
+      "detectedAt": "2026-06-04T18:34:09.373Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-04T16:19:49.093Z"
+      "detectedAt": "2026-06-04T18:34:13.210Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-04T16:19:52.927Z"
+      "detectedAt": "2026-06-04T18:34:21.677Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "PDF_CHANGE",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-06-04T18:34:19.267Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-04T16:20:07.402Z"
+      "detectedAt": "2026-06-04T18:34:35.685Z"
     }
   ],
   "errorDetails": [
@@ -56,18 +53,13 @@
       "error": "Timeout"
     },
     {
-      "site": "RBI Careers",
-      "url": "https://opportunities.rbi.org.in/",
-      "error": "Timeout"
+      "site": "SBI Careers",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "error": ""
     },
     {
       "site": "NABARD",
       "url": "https://www.nabard.org/career-notices.aspx",
-      "error": "Timeout"
-    },
-    {
-      "site": "RRB (Railway)",
-      "url": "https://www.rrbcdg.gov.in/",
       "error": "Timeout"
     },
     {
@@ -99,6 +91,11 @@
       "site": "UGC NET",
       "url": "https://ugcnet.nta.ac.in/",
       "error": "HTTP 404"
+    },
+    {
+      "site": "CUET",
+      "url": "https://cuet.nta.nic.in/",
+      "error": "Timeout"
     },
     {
       "site": "BPSC",
@@ -166,11 +163,6 @@
       "error": "HTTP 403"
     },
     {
-      "site": "RBSE Rajasthan",
-      "url": "https://rajeduboard.rajasthan.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "MSBTE",
       "url": "https://www.msbte.org.in/",
       "error": "Timeout"
@@ -178,7 +170,7 @@
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "read ECONNRESET"
+      "error": "Timeout"
     }
   ]
 }
