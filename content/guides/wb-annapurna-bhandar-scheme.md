@@ -43,12 +43,12 @@ The scheme was announced as the BJP came to power on **May 9, 2026**, ending the
 ## Eligibility Criteria
 
 - **Resident** of West Bengal (with valid domicile)
-- **Female** aged 18 years and above
-- Should be from a family below or at a specified income threshold
+- **Female** aged **25–60 years** (as per Official Notification No. 2411-WCD/O/AB-4/2026)
+- West Bengal permanent resident
 - Must have an **Aadhaar-linked bank account** for DBT
-- SC/ST women may receive priority or enhanced benefit as notified
+- SC/ST women receive priority enrolment
 
-> **Note:** Exact income eligibility criteria and SC/ST enhanced benefit slab will be published in the official government gazette. Check wb.gov.in for current notification.
+> **Note:** The age band of 25–60 years is specified in Notification No. 2411-WCD/O/AB-4/2026. Women outside this range (under 25 or above 60) are not eligible under this scheme.
 
 ---
 
@@ -88,17 +88,18 @@ The previous TMC government's **Lakshmir Bhandar** scheme provided ₹500–₹1
 | Scheme | Government | Amount | Coverage |
 |---|---|---|---|
 | Lakshmir Bhandar | TMC (Mamata Banerjee) | ₹500–₹1,000/month | General / SC/ST women |
-| **Annapurna Bhandar** | **BJP (Suvendu Adhikari)** | **₹3,000/month** | Women 18+ |
+| **Annapurna Bhandar** | **BJP (Suvendu Adhikari)** | **₹3,000/month** | Women 25–60 years |
 
-Women already enrolled in Lakshmir Bhandar are expected to be transitioned to Annapurna Bhandar automatically; however, **fresh enrolment is required** if you were not previously enrolled.
+Women already enrolled in Lakshmir Bhandar in the eligible age band are expected to be migrated; however, **fresh enrolment is required** if you were not previously enrolled or if your age details need re-verification.
 
 ---
 
 ## Payment Schedule
 
-- Monthly DBT directly to bank account
-- Payments typically processed on a fixed date each month (date to be notified)
-- Check your bank account or Aadhaar payment history on [PFMS](https://pfms.nic.in/) to track payments
+- **First disbursement: June 1, 2026** — approximately 28 lakh women received ₹3,000 in the first tranche (as of June 3, 2026)
+- Monthly DBT directly to Aadhaar-linked bank account on/around the 1st of each month
+- New enrolments (90-day window, closing ~September 2026) will be included from the following month's cycle
+- Track payments via bank SMS, net banking, or [PFMS](https://pfms.nic.in/) using your Aadhaar number
 
 ---
 
@@ -114,7 +115,7 @@ A: Yes, unless the government specifies employment-based exclusions in its offic
 A: The scheme is expected to issue a **Matrishakti Bharosa Card** as a beneficiary ID. Carry this at Duare Sarkar camps to check your status.
 
 **Q: When will the first payment come?**
-A: The scheme was launched in June 2026. First payments are expected within 1–2 months of enrolment verification. Check wb.gov.in for the official disbursement timeline.
+A: **First payments were released on June 1, 2026.** As of June 3, 2026, approximately **28 lakh women** across West Bengal have received the first ₹3,000 credit. If you enrolled during the initial Duare Sarkar camps and have an Aadhaar-linked account, check your bank account or PFMS for the credit. New enrolments during the 90-day window will receive payments in the following month's cycle.
 
 **Q: What if my bank account is not Aadhaar-linked?**
 A: Link your Aadhaar to your bank account before applying. Visit your bank branch with your Aadhaar and passbook. DBT cannot be processed to an account that is not Aadhaar-seeded.
