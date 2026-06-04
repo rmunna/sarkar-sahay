@@ -9,6 +9,7 @@ import { getAllHindiGuideSlugs } from "@/lib/guides-hi";
 import { getAllTamilGuideSlugs } from "@/lib/guides-ta";
 import { getAllMalayalamGuideSlugs } from "@/lib/guides-ml";
 import { getAllTeluguGuideSlugs } from "@/lib/guides-te";
+import { getAllKannadaGuideSlugs } from "@/lib/guides-kn";
 import { generateFAQSchema, generateArticleSchema, generateHowToSchema, extractFAQs } from "@/lib/faq-schema";
 import { notFound } from "next/navigation";
 import Link from "next/link";
@@ -53,6 +54,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         ...(getAllTamilGuideSlugs().includes(guide.slug) ? { ta: `${BASE_URL}/ta/guide/${guide.slug}` } : {}),
         ...(getAllMalayalamGuideSlugs().includes(guide.slug) ? { ml: `${BASE_URL}/ml/guide/${guide.slug}` } : {}),
         ...(getAllTeluguGuideSlugs().includes(guide.slug) ? { te: `${BASE_URL}/te/guide/${guide.slug}` } : {}),
+        ...(getAllKannadaGuideSlugs().includes(guide.slug) ? { kn: `${BASE_URL}/kn/guide/${guide.slug}` } : {}),
       },
     },
   };
@@ -124,7 +126,8 @@ export default async function GuidePage({ params }: Props) {
   const hasTamil    = getAllTamilGuideSlugs().includes(slug);
   const hasMalayalam = getAllMalayalamGuideSlugs().includes(slug);
   const hasTelugu   = getAllTeluguGuideSlugs().includes(slug);
-  const hasOtherLang = hasHindi || hasTamil || hasMalayalam || hasTelugu;
+  const hasKannada  = getAllKannadaGuideSlugs().includes(slug);
+  const hasOtherLang = hasHindi || hasTamil || hasMalayalam || hasTelugu || hasKannada;
 
   // Last modified date from file system
   const guideFilePath = path.join(process.cwd(), `content/guides/${slug}.md`);
@@ -218,6 +221,14 @@ export default async function GuidePage({ params }: Props) {
               className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-gray-100 border border-gray-200 rounded-lg text-sm text-gray-600 hover:bg-gray-200 transition"
             >
               🇮🇳 తెలుగు
+            </Link>
+          )}
+          {hasKannada && (
+            <Link
+              href={`/kn/guide/${slug}`}
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-gray-100 border border-gray-200 rounded-lg text-sm text-gray-600 hover:bg-gray-200 transition"
+            >
+              🇮🇳 ಕನ್ನಡ
             </Link>
           )}
         </div>
