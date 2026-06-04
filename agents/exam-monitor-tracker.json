@@ -57,8 +57,10 @@
       "lastChanged": "2026-03-01T02:46:19.512Z"
     },
     "ssc:notices": {
-      "lastChecked": "2026-06-04T05:53:34.441Z",
+      "lastChecked": "2026-06-04T09:50:37.419Z",
       "noticeIds": [
+        "tk9eer8hvh44hi4zarqhe",
+        "5vikbwo9by2nsm6gtrl5f",
         "gds7gnnd5whkwbicmacyx",
         "ibyn1adl6ox9xvnfh2cxh",
         "hvcvnq6iuo746xj9qe5g4",
@@ -66,11 +68,9 @@
         "q7dih97yi2jfor4swjm9p",
         "6wc8jsbrhzjsy7826ybtx",
         "107fdwh9ej8ohd2db0hu8",
-        "tjxizmabr5j6zsy50p6ov",
-        "mjom6yfsezyufe6kdewhl",
-        "enbozlxt0mwtofx1thm9z"
+        "tjxizmabr5j6zsy50p6ov"
       ],
-      "latest": "Important Notice - Schedule of Examination"
+      "latest": "Combined Hindi Translators Examination, 2025: Declaration of result of Paper-II for shortlisting candidates for post of Sub Inspector (Hindi Translator) in CRPF to appear for PET/PST examination"
     },
     "ssc:lastUpdate": {
       "timestamp": "2026-02-27T14:22:16.641Z",
@@ -82,8 +82,9 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-06-04T05:53:38.899Z",
+      "lastChecked": "2026-06-04T09:50:40.940Z",
       "noticeIds": [
+        "20260604114322",
         "20260601213649",
         "20260601213514",
         "20260530182445",
@@ -806,7 +807,7 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-06-04T05:53:47.480Z",
+      "lastChecked": "2026-06-04T09:50:50.074Z",
       "contentHash": "e60211e976ba11ba9e92661a9913f7c6",
       "pdfHash": "14732563d46631835f47078a967da1b1",
       "pdfs": [
@@ -1238,7 +1239,7 @@
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-06-04T05:53:46.955Z",
+      "lastChecked": "2026-06-04T09:50:48.446Z",
       "contentHash": "734ef183e3e54020d2d593cb3e5f5e76",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
       "pdfs": [
@@ -1259,8 +1260,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-06-04T05:53:46.568Z",
-      "contentHash": "24c8117022e8e5167464854820513633",
+      "lastChecked": "2026-06-04T09:50:48.305Z",
+      "contentHash": "22e58a3a8ae20d0b68d5cbedcdedc337",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "pdfs": [
         "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
@@ -1285,7 +1286,7 @@
       "pdfs": []
     },
     "cbse:hash": {
-      "lastChecked": "2026-06-04T05:53:58.771Z",
+      "lastChecked": "2026-06-04T09:50:59.459Z",
       "contentHash": "4a4ccfaf29d0213341e5ce78085aab01",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
@@ -1317,8 +1318,8 @@
       ]
     },
     "cisf:hash": {
-      "lastChecked": "2026-06-04T05:53:59.580Z",
-      "contentHash": "e26f12fb8745516078cec5889f599c8c",
+      "lastChecked": "2026-06-04T09:51:00.180Z",
+      "contentHash": "5894112b049750cfef4fa9cfc42eff89",
       "pdfHash": "dcb8f9d4988ce1cb962ced406b83bc91",
       "pdfs": [
         "https://cisf.gov.in/assets/pdfs/2025/08/id_eng.pdf",
@@ -1340,7 +1341,7 @@
       "pdfs": []
     },
     "crpf:hash": {
-      "lastChecked": "2026-06-04T05:54:02.467Z",
+      "lastChecked": "2026-06-04T09:51:03.028Z",
       "contentHash": "7edc756edd8bffc5a1982bb224d0ca65",
       "pdfHash": "f689a77adc1db4e190baca6d7a9f93e5",
       "pdfs": [
@@ -1370,8 +1371,8 @@
       "pdfs": []
     },
     "kvs:hash": {
-      "lastChecked": "2026-06-04T05:54:03.888Z",
-      "contentHash": "34d62d027dade227047a4a60804dcd2d",
+      "lastChecked": "2026-06-04T09:51:05.189Z",
+      "contentHash": "b8cf16334fd9a4ac4afaf9dd344bb175",
       "pdfHash": "c0267580f088984860b8e26157d69cfe",
       "pdfs": [
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/11/2023112463.pdf",
@@ -1440,7 +1441,7 @@
       ]
     },
     "mppsc:hash": {
-      "lastChecked": "2026-06-04T05:54:09.214Z",
+      "lastChecked": "2026-06-04T09:51:07.910Z",
       "contentHash": "f73e41b1fecdf11030cf244f730914ab",
       "pdfHash": "5909d4297d8ca93022a098e086269613",
       "pdfs": [
@@ -1535,7 +1536,7 @@
       ]
     },
     "cuet:hash": {
-      "lastChecked": "2026-06-04T05:54:08.267Z",
+      "lastChecked": "2026-06-04T09:51:08.164Z",
       "contentHash": "7f61bf754629001fa57fcbffd90f2644",
       "pdfHash": "072b9f2d41e95875cecbe42053f0acae",
       "pdfs": [
@@ -1856,7 +1857,7 @@
       ]
     },
     "ignou:hash": {
-      "lastChecked": "2026-06-04T05:54:10.163Z",
+      "lastChecked": "2026-06-04T09:51:08.733Z",
       "contentHash": "059819306b891066717d6bfe47f86493",
       "pdfHash": "af84736a61ff48e2daf9d78fd5394f2a",
       "pdfs": [
@@ -1872,7 +1873,7 @@
       "pdfs": []
     },
     "jpsc:hash": {
-      "lastChecked": "2026-06-03T17:07:17.745Z",
+      "lastChecked": "2026-06-04T09:51:16.092Z",
       "contentHash": "486f1f0229df64a5aacdf94b72e9edca",
       "pdfHash": "360247600b8c264d185ef104fcb04341",
       "pdfs": [
@@ -2035,17 +2036,18 @@
       ]
     },
     "ukpsc:hash": {
-      "lastChecked": "2026-06-03T19:56:23.169Z",
+      "lastChecked": "2026-06-04T09:51:20.537Z",
       "contentHash": "29183ec5cee976219d1fa1ec8bb74947",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "up-board:hash": {
-      "lastChecked": "2026-06-03T19:56:25.745Z",
-      "contentHash": "9a9afc2a5329488931bbb06d88c73be7",
-      "pdfHash": "b91f3fc51f4d570fd2da15c996ad5428",
+      "lastChecked": "2026-06-04T09:51:24.252Z",
+      "contentHash": "ed89725558b5a39baebf4049ea2a7683",
+      "pdfHash": "e636b1a8a63394e1e9c664876874c843",
       "pdfs": [
         "https://upmsp.edu.in/Downloads/Circular_2_04-04-2026.pdf",
+        "https://upmsp.edu.in/Downloads/Compartment_2026_Vigyapti.pdf",
         "https://upmsp.edu.in/Downloads/Cyber_Fraud_related_04-04-26.pdf",
         "https://upmsp.edu.in/Downloads/Head-Office-110226.pdf",
         "https://upmsp.edu.in/Downloads/NCERT_and_Non_NCERT_Books_price_list.pdf",
@@ -2072,7 +2074,7 @@
       "pdfs": []
     },
     "ctet:hash": {
-      "lastChecked": "2026-06-03T19:56:25.738Z",
+      "lastChecked": "2026-06-04T09:51:22.675Z",
       "contentHash": "39c1760d6d9272a88414efe0086b4654",
       "pdfHash": "3243cc5ff9cc78ab399571499e449e90",
       "pdfs": [
@@ -2110,7 +2112,7 @@
       ]
     },
     "mp-board:hash": {
-      "lastChecked": "2026-06-04T05:54:27.624Z",
+      "lastChecked": "2026-06-04T09:51:29.349Z",
       "contentHash": "b1179d9607eb395a3aa69473c7c6125e",
       "pdfHash": "95cd4ffebd701b4cfe4d6f7bf95343dc",
       "pdfs": [
@@ -2736,5 +2738,5 @@
       ]
     }
   },
-  "lastScan": "2026-06-04T05:54:28.645Z"
+  "lastScan": "2026-06-04T09:51:38.449Z"
 }
