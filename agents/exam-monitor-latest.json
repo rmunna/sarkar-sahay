@@ -1,74 +1,71 @@
 {
-  "scanTime": "2026-06-05T15:20:11.282Z",
-  "elapsedSeconds": 58.6,
-  "changesDetected": 8,
-  "errors": 25,
+  "scanTime": "2026-06-05T17:28:42.835Z",
+  "elapsedSeconds": 51.4,
+  "changesDetected": 7,
+  "errors": 31,
   "changes": [
-    {
-      "site": "SBI Careers",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://bank.sbi/documents/77530/52947104/05062026_SCO_25_SELECT_LIST.pdf/cd3c7b25-a252-01f0-e39c-0fa54689d4be?t=1780653385745",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-06-05T15:19:28.380Z"
-    },
-    {
-      "site": "SBI Careers",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://bank.sbi/documents/77530/52947104/05062026_SCO_28_Select+list.pdf/81e54d6d-728e-f91e-b47f-69bb2ec34030?t=1780653639271",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-06-05T15:19:28.380Z"
-    },
-    {
-      "site": "SBI Careers",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://bank.sbi/documents/77530/57941334/05062026_SCO_04_INT_SCH.pdf/1472667c-c591-9867-c42d-b15b6d751825?t=1780663729504",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-06-05T15:19:28.380Z"
-    },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-05T15:19:25.962Z"
+      "detectedAt": "2026-06-05T17:28:03.031Z"
+    },
+    {
+      "site": "RRB (Railway)",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://www.rrbcdg.gov.in/uploads/2025/03-PMED/032025PMed-CBT_Result.pdf",
+      "url": "https://www.rrbcdg.gov.in/",
+      "detectedAt": "2026-06-05T17:28:08.697Z"
+    },
+    {
+      "site": "RRB (Railway)",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://www.rrbcdg.gov.in/uploads/2025/03-PMED/032025PMed-CBT_Result_CutOff.pdf",
+      "url": "https://www.rrbcdg.gov.in/",
+      "detectedAt": "2026-06-05T17:28:08.697Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-05T15:19:37.800Z"
+      "detectedAt": "2026-06-05T17:28:13.759Z"
+    },
+    {
+      "site": "BSF",
+      "type": "CONTENT_CHANGE",
+      "url": "https://rectt.bsf.gov.in/",
+      "detectedAt": "2026-06-05T17:28:13.764Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-05T15:19:43.116Z"
+      "detectedAt": "2026-06-05T17:28:17.559Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-05T15:19:46.921Z"
-    },
-    {
-      "site": "UP Board",
-      "type": "CONTENT_CHANGE",
-      "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-05T15:20:02.422Z"
+      "detectedAt": "2026-06-05T17:28:21.347Z"
     }
   ],
   "errorDetails": [
+    {
+      "site": "SSC",
+      "error": "getaddrinfo ENOTFOUND ssc.gov.in"
+    },
     {
       "site": "UPSC",
       "error": "Timeout"
     },
     {
-      "site": "NABARD",
-      "url": "https://www.nabard.org/career-notices.aspx",
+      "site": "SBI Careers",
+      "url": "https://bank.sbi/web/careers/current-openings",
       "error": "Timeout"
     },
     {
-      "site": "RRB (Railway)",
-      "url": "https://www.rrbcdg.gov.in/",
+      "site": "NABARD",
+      "url": "https://www.nabard.org/career-notices.aspx",
       "error": "Timeout"
     },
     {
@@ -87,11 +84,6 @@
       "error": "Timeout"
     },
     {
-      "site": "BSF",
-      "url": "https://rectt.bsf.gov.in/",
-      "error": "getaddrinfo ENOTFOUND rectt.bsf.gov.in"
-    },
-    {
       "site": "ITBP",
       "url": "https://recruitment.itbpolice.nic.in/",
       "error": "Timeout"
@@ -99,7 +91,7 @@
     {
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
-      "error": ""
+      "error": "Timeout"
     },
     {
       "site": "UGC NET",
@@ -114,7 +106,7 @@
     {
       "site": "RPSC",
       "url": "https://rpsc.rajasthan.gov.in/",
-      "error": ""
+      "error": "Timeout"
     },
     {
       "site": "TNPSC",
@@ -144,7 +136,7 @@
     {
       "site": "GPSC",
       "url": "https://gpsc.gujarat.gov.in/",
-      "error": ""
+      "error": "Timeout"
     },
     {
       "site": "HPSC",
@@ -152,8 +144,23 @@
       "error": "Timeout"
     },
     {
+      "site": "JPSC",
+      "url": "https://www.jpsc.gov.in/",
+      "error": "Timeout"
+    },
+    {
       "site": "CGPSC",
       "url": "https://psc.cg.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "UKPSC",
+      "url": "https://ukpsc.net.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "CTET",
+      "url": "https://ctet.nic.in/",
       "error": "Timeout"
     },
     {
@@ -164,12 +171,17 @@
     {
       "site": "Sainik School",
       "url": "https://nta.ac.in/ExamDetail?ExamCode=AISSEE",
-      "error": "HTTP 404"
+      "error": "Timeout"
     },
     {
       "site": "Income Tax",
       "url": "https://incometaxindia.gov.in/Pages/press-releases.aspx",
-      "error": "HTTP 403"
+      "error": "Timeout"
+    },
+    {
+      "site": "RBSE Rajasthan",
+      "url": "https://rajeduboard.rajasthan.gov.in/",
+      "error": "Timeout"
     },
     {
       "site": "MSBTE",
@@ -177,9 +189,19 @@
       "error": "Timeout"
     },
     {
+      "site": "UP Board",
+      "url": "https://upmsp.edu.in/",
+      "error": "Timeout"
+    },
+    {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "read ECONNRESET"
+      "error": "Timeout"
+    },
+    {
+      "site": "MP Board",
+      "url": "https://mpbse.nic.in/",
+      "error": "Timeout"
     }
   ]
 }

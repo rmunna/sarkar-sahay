@@ -82,7 +82,7 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-06-05T15:19:18.152Z",
+      "lastChecked": "2026-06-05T17:27:55.444Z",
       "noticeIds": [
         "20260604181537",
         "20260604114322",
@@ -808,7 +808,7 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-06-05T15:19:26.737Z",
+      "lastChecked": "2026-06-05T17:28:07.365Z",
       "contentHash": "4c63ffd3ab3ac0744eab9f0439bb26a2",
       "pdfHash": "65f37d235b41ba4f3d2e786e991ea6e0",
       "pdfs": [
@@ -1236,13 +1236,13 @@
       ]
     },
     "uppsc:hash": {
-      "lastChecked": "2026-06-05T15:19:46.921Z",
-      "contentHash": "1c0eb7b3eaa947ba71507b26d6395b6b",
+      "lastChecked": "2026-06-05T17:28:21.348Z",
+      "contentHash": "b98df2c762b1518d2cf0dd5b00ed42ac",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-06-05T15:19:26.152Z",
+      "lastChecked": "2026-06-05T17:28:06.636Z",
       "contentHash": "15a8cd61a005deaef7c818af57696a18",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
       "pdfs": [
@@ -1263,8 +1263,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-06-05T15:19:25.962Z",
-      "contentHash": "0820a7fe0ce61f96303ca7a03f190c0e",
+      "lastChecked": "2026-06-05T17:28:03.031Z",
+      "contentHash": "4413d7cb1ed10011d7afadbd50d064b0",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "pdfs": [
         "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
@@ -1289,14 +1289,14 @@
       "pdfs": []
     },
     "cbse:hash": {
-      "lastChecked": "2026-06-05T15:19:37.374Z",
+      "lastChecked": "2026-06-05T17:28:13.205Z",
       "contentHash": "4a4ccfaf29d0213341e5ce78085aab01",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "bsf:hash": {
-      "lastChecked": "2026-06-05T09:05:52.825Z",
-      "contentHash": "445ba9d2ffa8ce34f4e3fba8226e7ce5",
+      "lastChecked": "2026-06-05T17:28:13.764Z",
+      "contentHash": "714d075290bc1c862f791fe6112d7874",
       "pdfHash": "3582e319871ca40322e03689437d4f5f",
       "pdfs": [
         "https://d3t79nicn48uzj.cloudfront.net/bsf/custom/1779709440.pdf",
@@ -1322,8 +1322,8 @@
       ]
     },
     "cisf:hash": {
-      "lastChecked": "2026-06-05T15:19:37.800Z",
-      "contentHash": "c3d919b803b4f02563c23d958b6ed5e9",
+      "lastChecked": "2026-06-05T17:28:13.759Z",
+      "contentHash": "b35e6590aee6fce8376c37a75889218b",
       "pdfHash": "dcb8f9d4988ce1cb962ced406b83bc91",
       "pdfs": [
         "https://cisf.gov.in/assets/pdfs/2025/08/id_eng.pdf",
@@ -1345,7 +1345,7 @@
       "pdfs": []
     },
     "crpf:hash": {
-      "lastChecked": "2026-06-05T15:19:40.594Z",
+      "lastChecked": "2026-06-05T17:28:15.836Z",
       "contentHash": "40c2bc9a5e3f9d4b52165d22762c2d78",
       "pdfHash": "97638b0c54fa60d397b5602444b2f468",
       "pdfs": [
@@ -1376,8 +1376,8 @@
       "pdfs": []
     },
     "kvs:hash": {
-      "lastChecked": "2026-06-05T15:19:43.116Z",
-      "contentHash": "875873cdff5c04588d8a33dfaf91bdbb",
+      "lastChecked": "2026-06-05T17:28:17.559Z",
+      "contentHash": "c76f2ad99ba15b68df1b1176d1d9244b",
       "pdfHash": "b7f47f897d8e7b2c00b199b8d60f8e00",
       "pdfs": [
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/11/2023112463.pdf",
@@ -1446,7 +1446,7 @@
       ]
     },
     "mppsc:hash": {
-      "lastChecked": "2026-06-05T15:19:45.989Z",
+      "lastChecked": "2026-06-05T17:28:20.910Z",
       "contentHash": "46df3530f74a89bbd8bbe6d2435904ad",
       "pdfHash": "689619c58e91d5183e53c4c20bc10568",
       "pdfs": [
@@ -1540,7 +1540,7 @@
       ]
     },
     "cuet:hash": {
-      "lastChecked": "2026-06-05T15:19:46.237Z",
+      "lastChecked": "2026-06-05T17:28:23.322Z",
       "contentHash": "7f61bf754629001fa57fcbffd90f2644",
       "pdfHash": "072b9f2d41e95875cecbe42053f0acae",
       "pdfs": [
@@ -1864,7 +1864,7 @@
       ]
     },
     "ignou:hash": {
-      "lastChecked": "2026-06-05T15:19:46.696Z",
+      "lastChecked": "2026-06-05T17:28:23.943Z",
       "contentHash": "94e4c6ae443519f329d451a51c6f027f",
       "pdfHash": "af84736a61ff48e2daf9d78fd5394f2a",
       "pdfs": [
@@ -2157,9 +2157,9 @@
       ]
     },
     "rrb:hash": {
-      "lastChecked": "2026-06-05T11:59:26.178Z",
-      "contentHash": "fbf3cd436f1cf174fd7a34dda6a1a77b",
-      "pdfHash": "4047598c041d0084871d607ac3adfca3",
+      "lastChecked": "2026-06-05T17:28:08.697Z",
+      "contentHash": "1169fe668c33b6f8907e331a06ee385f",
+      "pdfHash": "d030f0f31015d376f3f417c9401af157",
       "pdfs": [
         "https://www.rrbcdg.gov.in/2019/02-PMED/02-2019%20AP4.pdf",
         "https://www.rrbcdg.gov.in/uploads/2018/01-ALP&T/01-2018%20AP7.pdf",
@@ -2615,6 +2615,8 @@
         "https://www.rrbcdg.gov.in/uploads/2025/03-PMED/032025PMed-CBT_ExamDates.pdf",
         "https://www.rrbcdg.gov.in/uploads/2025/03-PMED/032025PMed-CBT_ObjectionTracker-Hi.pdf",
         "https://www.rrbcdg.gov.in/uploads/2025/03-PMED/032025PMed-CBT_ObjectionTracker.pdf",
+        "https://www.rrbcdg.gov.in/uploads/2025/03-PMED/032025PMed-CBT_Result.pdf",
+        "https://www.rrbcdg.gov.in/uploads/2025/03-PMED/032025PMed-CBT_Result_CutOff.pdf",
         "https://www.rrbcdg.gov.in/uploads/2025/03-PMED/032025PMed-CBT_TentativeSchedule-Hi.pdf",
         "https://www.rrbcdg.gov.in/uploads/2025/03-PMED/032025PMed-CBT_TentativeSchedule.pdf",
         "https://www.rrbcdg.gov.in/uploads/2025/03-PMED/032025PMed-Corrigendum1.pdf",
@@ -2750,5 +2752,5 @@
       ]
     }
   },
-  "lastScan": "2026-06-05T15:20:11.278Z"
+  "lastScan": "2026-06-05T17:28:42.832Z"
 }
