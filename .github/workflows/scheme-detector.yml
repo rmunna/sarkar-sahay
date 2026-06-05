@@ -234,6 +234,18 @@ jobs:
         run: |
           if [ -f "agents/.newly-generated-scheme-slugs" ]; then
             node scripts/notify-linkedin.js agents/.newly-generated-scheme-slugs || true
+          fi
+
+      - name: Post to Reddit (state subreddit auto-match)
+        if: steps.commit.outputs.new_count > 0
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+        run: |
+          if [ -f "agents/.newly-generated-scheme-slugs" ]; then
+            node scripts/notify-reddit.js agents/.newly-generated-scheme-slugs || true
             rm -f agents/.newly-generated-scheme-slugs
           fi
 
