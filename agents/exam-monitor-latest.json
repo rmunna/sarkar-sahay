@@ -1,53 +1,59 @@
 {
-  "scanTime": "2026-06-05T12:00:04.975Z",
-  "elapsedSeconds": 54.1,
-  "changesDetected": 7,
-  "errors": 26,
+  "scanTime": "2026-06-05T15:20:11.282Z",
+  "elapsedSeconds": 58.6,
+  "changesDetected": 8,
+  "errors": 25,
   "changes": [
     {
-      "site": "IBPS",
+      "site": "SBI Careers",
       "type": "PDF_CHANGE",
-      "pdfUrl": "https://www.ibps.in/wp-content/uploads/Revised-Advisory-and-Standard-Operating-Procedure-SOP-to-handle-the-cases-of-PwBD-candidates.pdf",
-      "url": "https://www.ibps.in/",
-      "detectedAt": "2026-06-05T11:59:24.668Z"
+      "pdfUrl": "https://bank.sbi/documents/77530/52947104/05062026_SCO_25_SELECT_LIST.pdf/cd3c7b25-a252-01f0-e39c-0fa54689d4be?t=1780653385745",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-06-05T15:19:28.380Z"
+    },
+    {
+      "site": "SBI Careers",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://bank.sbi/documents/77530/52947104/05062026_SCO_28_Select+list.pdf/81e54d6d-728e-f91e-b47f-69bb2ec34030?t=1780653639271",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-06-05T15:19:28.380Z"
+    },
+    {
+      "site": "SBI Careers",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://bank.sbi/documents/77530/57941334/05062026_SCO_04_INT_SCH.pdf/1472667c-c591-9867-c42d-b15b6d751825?t=1780663729504",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-06-05T15:19:28.380Z"
     },
     {
       "site": "RBI Careers",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
+      "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-05T11:59:23.601Z"
-    },
-    {
-      "site": "RBI Careers",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh30122022.pdf",
-      "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-05T11:59:23.601Z"
+      "detectedAt": "2026-06-05T15:19:25.962Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-05T11:59:31.017Z"
+      "detectedAt": "2026-06-05T15:19:37.800Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-05T11:59:36.947Z"
+      "detectedAt": "2026-06-05T15:19:43.116Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-05T11:59:40.631Z"
+      "detectedAt": "2026-06-05T15:19:46.921Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-05T11:59:56.188Z"
+      "detectedAt": "2026-06-05T15:20:02.422Z"
     }
   ],
   "errorDetails": [
@@ -56,13 +62,13 @@
       "error": "Timeout"
     },
     {
-      "site": "SBI Careers",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "error": ""
-    },
-    {
       "site": "NABARD",
       "url": "https://www.nabard.org/career-notices.aspx",
+      "error": "Timeout"
+    },
+    {
+      "site": "RRB (Railway)",
+      "url": "https://www.rrbcdg.gov.in/",
       "error": "Timeout"
     },
     {
@@ -83,7 +89,7 @@
     {
       "site": "BSF",
       "url": "https://rectt.bsf.gov.in/",
-      "error": "HTTP 403"
+      "error": "getaddrinfo ENOTFOUND rectt.bsf.gov.in"
     },
     {
       "site": "ITBP",
@@ -93,7 +99,7 @@
     {
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
-      "error": "Timeout"
+      "error": ""
     },
     {
       "site": "UGC NET",
@@ -143,11 +149,6 @@
     {
       "site": "HPSC",
       "url": "https://www.hpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "JPSC",
-      "url": "https://www.jpsc.gov.in/",
       "error": "Timeout"
     },
     {

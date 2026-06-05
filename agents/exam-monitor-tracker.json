@@ -57,7 +57,7 @@
       "lastChanged": "2026-03-01T02:46:19.512Z"
     },
     "ssc:notices": {
-      "lastChecked": "2026-06-05T11:59:12.464Z",
+      "lastChecked": "2026-06-05T15:19:14.223Z",
       "noticeIds": [
         "lnbvjaf4x2i7t0c5qrueg",
         "rp6tszdugxtr1we9uiacc",
@@ -82,7 +82,7 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-06-05T11:59:15.972Z",
+      "lastChecked": "2026-06-05T15:19:18.152Z",
       "noticeIds": [
         "20260604181537",
         "20260604114322",
@@ -808,7 +808,7 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-06-05T11:59:24.668Z",
+      "lastChecked": "2026-06-05T15:19:26.737Z",
       "contentHash": "4c63ffd3ab3ac0744eab9f0439bb26a2",
       "pdfHash": "65f37d235b41ba4f3d2e786e991ea6e0",
       "pdfs": [
@@ -817,9 +817,9 @@
       ]
     },
     "sbi:hash": {
-      "lastChecked": "2026-06-05T09:05:48.297Z",
-      "contentHash": "7e879f340501162a8dcfbc32b4d585bd",
-      "pdfHash": "eaefcb710a05bef3dbba679acee1cc9d",
+      "lastChecked": "2026-06-05T15:19:28.380Z",
+      "contentHash": "f78eed164a22e3e54d6b88bc2b1fa7ab",
+      "pdfHash": "3dfb4c4d8907f622e1b764ff484ce6a4",
       "pdfs": [
         "https://bank.sbi/documents/77530/0/03122024-SCO_09_SELECT_LIST_RM.pdf/6807986c-7598-35dd-9ab8-682a8c8a1683?t=1733204687360",
         "https://bank.sbi/documents/77530/0/03122024-sco_16_select_list.pdf/67955dcb-740b-9d88-ac5c-9a035c492221?t=1733218402835",
@@ -1016,6 +1016,8 @@
         "https://bank.sbi/documents/77530/52947104/05022026_ADVT+FLC+COUNSELLOR++DIRECTOR.pdf/4514b13e-59f6-fcf2-0721-e7f3670d854f?t=1770272246716",
         "https://bank.sbi/documents/77530/52947104/05022026_BIODATA.pdf/a53c7bcd-b5f1-deae-1265-2198f97c3936?t=1770272198210",
         "https://bank.sbi/documents/77530/52947104/05022026_Junior+Associates-WL-2-2024-RESULT-15+FORMAT.pdf/b82f59d3-4c96-87ec-46b6-74156aeb7f07?t=1770294554772",
+        "https://bank.sbi/documents/77530/52947104/05062026_SCO_25_SELECT_LIST.pdf/cd3c7b25-a252-01f0-e39c-0fa54689d4be?t=1780653385745",
+        "https://bank.sbi/documents/77530/52947104/05062026_SCO_28_Select+list.pdf/81e54d6d-728e-f91e-b47f-69bb2ec34030?t=1780653639271",
         "https://bank.sbi/documents/77530/52947104/06122025_SCO_12_INT_SCH.pdf/7a903555-64a0-96b6-2575-66f52ab75c11?t=1765024438044",
         "https://bank.sbi/documents/77530/52947104/08052026_SCO_25_INT_SCH.pdf/57f106db-856d-3337-0587-ad5427fbae0f?t=1778224795950",
         "https://bank.sbi/documents/77530/52947104/09022026_Final+Advertisement+-+Hindi.pdf/1c557c24-77df-92aa-21e7-e586a46d7bf8?t=1770638509018",
@@ -1036,7 +1038,6 @@
         "https://bank.sbi/documents/77530/52947104/16022026_SBI+AD+FLC+Counsellors+-+CRPD-RS-2025-26-23_Hindi.pdf/eb50270f-662f-516a-2cde-75ebd9bf4992?t=1771221535371",
         "https://bank.sbi/documents/77530/52947104/16022026_SCO_19_INT_SCH.pdf/3ca84c6c-e39d-e660-7fd7-26b185355f5f?t=1771223355268",
         "https://bank.sbi/documents/77530/52947104/17012026_SCO_11_SELECT_LIST.pdf/192c9393-9d77-8ae5-838c-45e85e29043c?t=1768650766575",
-        "https://bank.sbi/documents/77530/52947104/19052026_SCO_28_INT_SCH.pdf/5db097f4-1bee-150a-a36e-3fa8ab0563b6?t=1779194614038",
         "https://bank.sbi/documents/77530/52947104/19122025-SBIPO-RESULT-2025-25-15-COL-FORMAT+%281%29.pdf/676b6ad1-999c-cc50-00e3-7e83ea16c5d6?t=1766141040106",
         "https://bank.sbi/documents/77530/52947104/1_Advertisement+_Wealth+MGMT_02.12.2025.pdf/2788f63d-697c-ee09-2fb0-1c6502d171a7?t=1764654253632",
         "https://bank.sbi/documents/77530/52947104/1_Detailed_Adv.2025_23.06.2025.pdf/54ca0942-3de1-afc4-45e8-f679fc552e7b?t=1750741324277",
@@ -1204,6 +1205,7 @@
         "https://bank.sbi/documents/77530/52947104/sco_34_FLC_COUNSELLOR_Select_List.pdf/195b7da3-3f9d-6e2d-2a51-83236d1520c3?t=1752555597873",
         "https://bank.sbi/documents/77530/52947104/sco_34_FLC_DIRECTOR_Select+list.pdf/ff327b86-691b-9286-89c2-cf1fc8f70b26?t=1752555617425",
         "https://bank.sbi/documents/77530/52947104/sco_35_select+list.pdf/093fc00c-fbf6-2d35-ddb7-33ebef453ba9?t=1749106518830",
+        "https://bank.sbi/documents/77530/57941334/05062026_SCO_04_INT_SCH.pdf/1472667c-c591-9867-c42d-b15b6d751825?t=1780663729504",
         "https://bank.sbi/documents/77530/57941334/13042026_BIODATA.pdf/2efeb788-aeca-8751-ab66-f7a4884b2c00?t=1776061130812",
         "https://bank.sbi/documents/77530/57941334/13042026_BIODATA_SCO-04.pdf/b93e9972-ec04-363f-efdf-bf22994fa454?t=1776065182467",
         "https://bank.sbi/documents/77530/57941334/13042026_CTC+Negotiation+Form+REVISED.pdf/3de54a62-98f5-0b4d-ed6f-a0cdce2fb3b5?t=1776061157544",
@@ -1234,13 +1236,13 @@
       ]
     },
     "uppsc:hash": {
-      "lastChecked": "2026-06-05T11:59:40.631Z",
-      "contentHash": "4fb40177c505687359f31a13446eb65d",
+      "lastChecked": "2026-06-05T15:19:46.921Z",
+      "contentHash": "1c0eb7b3eaa947ba71507b26d6395b6b",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-06-05T11:59:23.991Z",
+      "lastChecked": "2026-06-05T15:19:26.152Z",
       "contentHash": "15a8cd61a005deaef7c818af57696a18",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
       "pdfs": [
@@ -1261,8 +1263,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-06-05T11:59:23.601Z",
-      "contentHash": "81a4615eb3e1e7f7ba9be2a225d086cc",
+      "lastChecked": "2026-06-05T15:19:25.962Z",
+      "contentHash": "0820a7fe0ce61f96303ca7a03f190c0e",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "pdfs": [
         "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
@@ -1287,7 +1289,7 @@
       "pdfs": []
     },
     "cbse:hash": {
-      "lastChecked": "2026-06-05T11:59:31.325Z",
+      "lastChecked": "2026-06-05T15:19:37.374Z",
       "contentHash": "4a4ccfaf29d0213341e5ce78085aab01",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
@@ -1320,8 +1322,8 @@
       ]
     },
     "cisf:hash": {
-      "lastChecked": "2026-06-05T11:59:31.017Z",
-      "contentHash": "72185021f5badb9f22224303f3cae624",
+      "lastChecked": "2026-06-05T15:19:37.800Z",
+      "contentHash": "c3d919b803b4f02563c23d958b6ed5e9",
       "pdfHash": "dcb8f9d4988ce1cb962ced406b83bc91",
       "pdfs": [
         "https://cisf.gov.in/assets/pdfs/2025/08/id_eng.pdf",
@@ -1343,7 +1345,7 @@
       "pdfs": []
     },
     "crpf:hash": {
-      "lastChecked": "2026-06-05T11:59:33.941Z",
+      "lastChecked": "2026-06-05T15:19:40.594Z",
       "contentHash": "40c2bc9a5e3f9d4b52165d22762c2d78",
       "pdfHash": "97638b0c54fa60d397b5602444b2f468",
       "pdfs": [
@@ -1374,8 +1376,8 @@
       "pdfs": []
     },
     "kvs:hash": {
-      "lastChecked": "2026-06-05T11:59:36.947Z",
-      "contentHash": "ff66842243802e1f64d6bfdadf77982f",
+      "lastChecked": "2026-06-05T15:19:43.116Z",
+      "contentHash": "875873cdff5c04588d8a33dfaf91bdbb",
       "pdfHash": "b7f47f897d8e7b2c00b199b8d60f8e00",
       "pdfs": [
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/11/2023112463.pdf",
@@ -1444,7 +1446,7 @@
       ]
     },
     "mppsc:hash": {
-      "lastChecked": "2026-06-05T11:59:40.405Z",
+      "lastChecked": "2026-06-05T15:19:45.989Z",
       "contentHash": "46df3530f74a89bbd8bbe6d2435904ad",
       "pdfHash": "689619c58e91d5183e53c4c20bc10568",
       "pdfs": [
@@ -1538,7 +1540,7 @@
       ]
     },
     "cuet:hash": {
-      "lastChecked": "2026-06-05T11:59:39.938Z",
+      "lastChecked": "2026-06-05T15:19:46.237Z",
       "contentHash": "7f61bf754629001fa57fcbffd90f2644",
       "pdfHash": "072b9f2d41e95875cecbe42053f0acae",
       "pdfs": [
@@ -1862,7 +1864,7 @@
       ]
     },
     "ignou:hash": {
-      "lastChecked": "2026-06-05T11:59:42.105Z",
+      "lastChecked": "2026-06-05T15:19:46.696Z",
       "contentHash": "94e4c6ae443519f329d451a51c6f027f",
       "pdfHash": "af84736a61ff48e2daf9d78fd5394f2a",
       "pdfs": [
@@ -1878,7 +1880,7 @@
       "pdfs": []
     },
     "jpsc:hash": {
-      "lastChecked": "2026-06-05T09:06:02.427Z",
+      "lastChecked": "2026-06-05T15:19:53.768Z",
       "contentHash": "486f1f0229df64a5aacdf94b72e9edca",
       "pdfHash": "360247600b8c264d185ef104fcb04341",
       "pdfs": [
@@ -2044,14 +2046,14 @@
       ]
     },
     "ukpsc:hash": {
-      "lastChecked": "2026-06-05T11:59:53.309Z",
+      "lastChecked": "2026-06-05T15:19:58.402Z",
       "contentHash": "29183ec5cee976219d1fa1ec8bb74947",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "up-board:hash": {
-      "lastChecked": "2026-06-05T11:59:56.188Z",
-      "contentHash": "62be7953c55cca640c60eda414a5c8d1",
+      "lastChecked": "2026-06-05T15:20:02.422Z",
+      "contentHash": "e15e00edd5595800bb073ab09f351148",
       "pdfHash": "e636b1a8a63394e1e9c664876874c843",
       "pdfs": [
         "https://upmsp.edu.in/Downloads/Circular_2_04-04-2026.pdf",
@@ -2076,13 +2078,13 @@
       ]
     },
     "rbse:hash": {
-      "lastChecked": "2026-06-05T11:59:55.148Z",
+      "lastChecked": "2026-06-05T15:20:01.516Z",
       "contentHash": "7f127d3d8ecd4419f163c0d14fa4ba31",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "ctet:hash": {
-      "lastChecked": "2026-06-05T11:59:55.772Z",
+      "lastChecked": "2026-06-05T15:20:01.203Z",
       "contentHash": "39c1760d6d9272a88414efe0086b4654",
       "pdfHash": "3243cc5ff9cc78ab399571499e449e90",
       "pdfs": [
@@ -2120,7 +2122,7 @@
       ]
     },
     "mp-board:hash": {
-      "lastChecked": "2026-06-05T12:00:01.735Z",
+      "lastChecked": "2026-06-05T15:20:08.090Z",
       "contentHash": "b1179d9607eb395a3aa69473c7c6125e",
       "pdfHash": "95cd4ffebd701b4cfe4d6f7bf95343dc",
       "pdfs": [
@@ -2748,5 +2750,5 @@
       ]
     }
   },
-  "lastScan": "2026-06-05T12:00:04.971Z"
+  "lastScan": "2026-06-05T15:20:11.278Z"
 }
