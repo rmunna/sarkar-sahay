@@ -1,172 +1,116 @@
 {
-  "scanTime": "2026-06-05T08:56:15.900Z",
-  "elapsedSeconds": 52.5,
-  "changesDetected": 16,
-  "errors": 25,
+  "scanTime": "2026-06-05T09:06:16.979Z",
+  "elapsedSeconds": 33.8,
+  "changesDetected": 17,
+  "errors": 9,
   "changes": [
     {
-      "site": "SSC",
-      "type": "NEW_NOTICE",
-      "headline": "Notice of Senior Secretariat Assistant/ Upper Division Clerk Grade Limited Departmental Competitive Examination, 2025",
-      "date": "2026-06-05T07:51:55.515Z",
-      "id": "lnbvjaf4x2i7t0c5qrueg",
-      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/departmental_05062026.pdf",
-      "url": "https://ssc.gov.in"
-    },
-    {
-      "site": "SSC",
-      "type": "NEW_NOTICE",
-      "headline": "Head Constable (Ministerial) in Delhi Police Examination, 2025 – Declaration of result of Computer Based Examination for shortlisting candidates to appear in Physical Endurance and Measurement Test (PE and MT)/ Document Verification (DV)/ Trade Test (Skill Test).",
-      "date": "2026-06-05T07:48:58.460Z",
-      "id": "rp6tszdugxtr1we9uiacc",
-      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_05062026.pdf",
-      "url": "https://ssc.gov.in"
-    },
-    {
-      "site": "SSC",
-      "type": "NEW_NOTICE",
-      "headline": "Notice of Junior Secretariat Assistant/ Lower Division Clerk Grade Limited Departmental Competitive Examination, 2025",
-      "date": "2026-06-05T07:41:49.954Z",
-      "id": "rwqkm2vrr3bqeem5e2xff",
-      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/departmental_notice_05062026.pdf",
-      "url": "https://ssc.gov.in"
-    },
-    {
-      "site": "SSC",
-      "type": "NEW_NOTICE",
-      "headline": "Important Notice - Schedule of Examination",
-      "date": "2026-06-05T06:59:54.618Z",
-      "id": "ougb1xx0ng6612e3gbooy",
-      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Date Notice of Steno C LDCE, 2025.pdf",
-      "url": "https://ssc.gov.in"
-    },
-    {
-      "site": "SSC",
-      "type": "NEW_NOTICE",
-      "headline": "Combined Hindi Translators Examination, 2025: Declaration of result of Paper-II for shortlisting candidates for post of Sub Inspector (Hindi Translator) in CRPF to appear for PET/PST examination",
-      "date": "2026-06-04T07:24:27.322Z",
-      "id": "tk9eer8hvh44hi4zarqhe",
-      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_04062026.pdf",
-      "url": "https://ssc.gov.in"
-    },
-    {
-      "site": "SSC",
-      "type": "NEW_NOTICE",
-      "headline": "Tentative Vacancies for Stenographer Grade 'C' and 'D' Examination, 2026 (As on 04.06.2026)",
-      "date": "2026-06-04T06:52:24.943Z",
-      "id": "5vikbwo9by2nsm6gtrl5f",
-      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/tentative_vacancy_04062026.pdf",
-      "url": "https://ssc.gov.in"
+      "site": "SBI Careers",
+      "type": "CONTENT_CHANGE",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-06-05T09:05:48.297Z"
     },
     {
       "site": "RBI Careers",
-      "type": "CONTENT_CHANGE",
+      "type": "PDF_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-05T08:55:35.911Z"
+      "detectedAt": "2026-06-05T09:05:47.533Z"
     },
     {
-      "site": "CRPF",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://crpf.gov.in/Upload/Tender/Tender_Notice_136062026-182.pdf",
-      "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-06-05T08:55:45.732Z"
+      "site": "NABARD",
+      "type": "CONTENT_CHANGE",
+      "url": "https://www.nabard.org/career-notices.aspx",
+      "detectedAt": "2026-06-05T09:05:48.051Z"
+    },
+    {
+      "site": "Indian Army",
+      "type": "CONTENT_CHANGE",
+      "url": "https://joinindianarmy.nic.in/",
+      "detectedAt": "2026-06-05T09:05:48.018Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-05T08:55:42.773Z"
+      "detectedAt": "2026-06-05T09:05:52.966Z"
     },
     {
       "site": "BSF",
       "type": "CONTENT_CHANGE",
       "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-06-05T08:55:42.832Z"
+      "detectedAt": "2026-06-05T09:05:52.825Z"
     },
     {
-      "site": "IGNOU",
+      "site": "ITBP",
       "type": "CONTENT_CHANGE",
-      "url": "https://ignou.ac.in/",
-      "detectedAt": "2026-06-05T08:55:53.449Z"
+      "url": "https://recruitment.itbpolice.nic.in/",
+      "detectedAt": "2026-06-05T09:05:54.167Z"
+    },
+    {
+      "site": "KVS",
+      "type": "CONTENT_CHANGE",
+      "url": "https://kvsangathan.nic.in/",
+      "detectedAt": "2026-06-05T09:05:55.482Z"
+    },
+    {
+      "site": "NVS (Navodaya)",
+      "type": "CONTENT_CHANGE",
+      "url": "https://navodaya.gov.in/",
+      "detectedAt": "2026-06-05T09:05:56.256Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-05T08:55:53.153Z"
+      "detectedAt": "2026-06-05T09:05:58.901Z"
     },
     {
-      "site": "MPPSC",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Corrigendum_Assistant_Professor_Sanskrit_Geography_Psychology_Law_Geology_Yogik_Science_2025_Dated_04_06_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-05T08:55:52.269Z"
+      "site": "RPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://rpsc.rajasthan.gov.in/",
+      "detectedAt": "2026-06-05T09:05:57.776Z"
     },
     {
-      "site": "MPPSC",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Professor_History_Exam_2024_Dated_04_06_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-05T08:55:52.269Z"
+      "site": "TNPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://www.tnpsc.gov.in/",
+      "detectedAt": "2026-06-05T09:05:57.660Z"
     },
     {
-      "site": "MPPSC",
+      "site": "KPSC/KEA",
       "type": "PDF_CHANGE",
-      "pdfUrl": "https://mppsc.mp.gov.in/uploads/files/Vigyapti_3565_03_2022_Computer.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-05T08:55:52.269Z"
+      "url": "https://cetonline.karnataka.gov.in/kea/",
+      "detectedAt": "2026-06-05T09:06:02.423Z"
+    },
+    {
+      "site": "GPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://gpsc.gujarat.gov.in/",
+      "detectedAt": "2026-06-05T09:06:03.402Z"
+    },
+    {
+      "site": "HPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://www.hpsc.gov.in/",
+      "detectedAt": "2026-06-05T09:06:03.562Z"
+    },
+    {
+      "site": "DSSSB",
+      "type": "CONTENT_CHANGE",
+      "url": "https://dsssb.delhi.gov.in/",
+      "detectedAt": "2026-06-05T09:06:08.696Z"
     },
     {
       "site": "UP Board",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://upmsp.edu.in/Downloads/Compartment_2026_Vigyapti.pdf",
+      "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-05T08:56:07.322Z"
+      "detectedAt": "2026-06-05T09:06:08.959Z"
     }
   ],
   "errorDetails": [
     {
-      "site": "UPSC",
-      "error": "Timeout"
-    },
-    {
-      "site": "SBI Careers",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "error": ""
-    },
-    {
-      "site": "NABARD",
-      "url": "https://www.nabard.org/career-notices.aspx",
-      "error": "Timeout"
-    },
-    {
-      "site": "Indian Army",
-      "url": "https://joinindianarmy.nic.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "Indian Navy",
       "url": "https://www.joinindiannavy.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "Air Force",
-      "url": "https://afcat.cdac.in/AFCAT/",
-      "error": "Timeout"
-    },
-    {
-      "site": "ITBP",
-      "url": "https://recruitment.itbpolice.nic.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "KVS",
-      "url": "https://kvsangathan.nic.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "NVS (Navodaya)",
-      "url": "https://navodaya.gov.in/",
       "error": "Timeout"
     },
     {
@@ -180,26 +124,6 @@
       "error": "Timeout"
     },
     {
-      "site": "RPSC",
-      "url": "https://rpsc.rajasthan.gov.in/",
-      "error": ""
-    },
-    {
-      "site": "TNPSC",
-      "url": "https://www.tnpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "KPSC/KEA",
-      "url": "https://cetonline.karnataka.gov.in/kea/",
-      "error": "Timeout"
-    },
-    {
-      "site": "APPSC",
-      "url": "https://psc.ap.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "TSPSC",
       "url": "https://tspsc.gov.in/",
       "error": "getaddrinfo ENOTFOUND tspsc.gov.in"
@@ -207,26 +131,6 @@
     {
       "site": "WBPSC",
       "url": "https://wbpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "GPSC",
-      "url": "https://gpsc.gujarat.gov.in/",
-      "error": ""
-    },
-    {
-      "site": "HPSC",
-      "url": "https://www.hpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "CGPSC",
-      "url": "https://psc.cg.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "DSSSB",
-      "url": "https://dsssb.delhi.gov.in/",
       "error": "Timeout"
     },
     {
