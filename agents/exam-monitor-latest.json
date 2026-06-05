@@ -1,62 +1,130 @@
 {
-  "scanTime": "2026-06-05T05:13:51.153Z",
-  "elapsedSeconds": 58.8,
-  "changesDetected": 7,
-  "errors": 36,
+  "scanTime": "2026-06-05T08:56:15.900Z",
+  "elapsedSeconds": 52.5,
+  "changesDetected": 16,
+  "errors": 25,
   "changes": [
     {
-      "site": "NTA",
+      "site": "SSC",
       "type": "NEW_NOTICE",
-      "headline": "NTA Declares the Result/NTA Scores of National Common Entrance Test (NCET) 2026 - reg.&nbsp;",
-      "date": "2026-06-04",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260604181537.pdf",
-      "url": "https://nta.ac.in"
+      "headline": "Notice of Senior Secretariat Assistant/ Upper Division Clerk Grade Limited Departmental Competitive Examination, 2025",
+      "date": "2026-06-05T07:51:55.515Z",
+      "id": "lnbvjaf4x2i7t0c5qrueg",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/departmental_05062026.pdf",
+      "url": "https://ssc.gov.in"
     },
     {
-      "site": "NTA",
+      "site": "SSC",
       "type": "NEW_NOTICE",
-      "headline": "nd Declaration of Results for the National Institute of Fashion Technology Entrance Examination (NIFTEE)- 2026 for UG &amp; PG Programmes - Reg.&nbsp;",
-      "date": "2026-06-04",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260604114322.pdf",
-      "url": "https://nta.ac.in"
+      "headline": "Head Constable (Ministerial) in Delhi Police Examination, 2025 – Declaration of result of Computer Based Examination for shortlisting candidates to appear in Physical Endurance and Measurement Test (PE and MT)/ Document Verification (DV)/ Trade Test (Skill Test).",
+      "date": "2026-06-05T07:48:58.460Z",
+      "id": "rp6tszdugxtr1we9uiacc",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_05062026.pdf",
+      "url": "https://ssc.gov.in"
+    },
+    {
+      "site": "SSC",
+      "type": "NEW_NOTICE",
+      "headline": "Notice of Junior Secretariat Assistant/ Lower Division Clerk Grade Limited Departmental Competitive Examination, 2025",
+      "date": "2026-06-05T07:41:49.954Z",
+      "id": "rwqkm2vrr3bqeem5e2xff",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/departmental_notice_05062026.pdf",
+      "url": "https://ssc.gov.in"
+    },
+    {
+      "site": "SSC",
+      "type": "NEW_NOTICE",
+      "headline": "Important Notice - Schedule of Examination",
+      "date": "2026-06-05T06:59:54.618Z",
+      "id": "ougb1xx0ng6612e3gbooy",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Date Notice of Steno C LDCE, 2025.pdf",
+      "url": "https://ssc.gov.in"
+    },
+    {
+      "site": "SSC",
+      "type": "NEW_NOTICE",
+      "headline": "Combined Hindi Translators Examination, 2025: Declaration of result of Paper-II for shortlisting candidates for post of Sub Inspector (Hindi Translator) in CRPF to appear for PET/PST examination",
+      "date": "2026-06-04T07:24:27.322Z",
+      "id": "tk9eer8hvh44hi4zarqhe",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_04062026.pdf",
+      "url": "https://ssc.gov.in"
+    },
+    {
+      "site": "SSC",
+      "type": "NEW_NOTICE",
+      "headline": "Tentative Vacancies for Stenographer Grade 'C' and 'D' Examination, 2026 (As on 04.06.2026)",
+      "date": "2026-06-04T06:52:24.943Z",
+      "id": "5vikbwo9by2nsm6gtrl5f",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/tentative_vacancy_04062026.pdf",
+      "url": "https://ssc.gov.in"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-05T05:13:03.742Z"
+      "detectedAt": "2026-06-05T08:55:35.911Z"
     },
     {
-      "site": "ICAI (CA)",
-      "type": "CONTENT_CHANGE",
-      "url": "https://www.icai.org/",
-      "detectedAt": "2026-06-05T05:13:04.088Z"
+      "site": "CRPF",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://crpf.gov.in/Upload/Tender/Tender_Notice_136062026-182.pdf",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-06-05T08:55:45.732Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-05T05:13:15.760Z"
+      "detectedAt": "2026-06-05T08:55:42.773Z"
     },
     {
       "site": "BSF",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://d3t79nicn48uzj.cloudfront.net/bsf/custom/1780574766.pdf",
+      "type": "CONTENT_CHANGE",
       "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-06-05T05:13:15.838Z"
+      "detectedAt": "2026-06-05T08:55:42.832Z"
     },
     {
-      "site": "KVS",
+      "site": "IGNOU",
       "type": "CONTENT_CHANGE",
-      "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-05T05:13:19.169Z"
+      "url": "https://ignou.ac.in/",
+      "detectedAt": "2026-06-05T08:55:53.449Z"
+    },
+    {
+      "site": "UPPSC",
+      "type": "CONTENT_CHANGE",
+      "url": "https://uppsc.up.nic.in/",
+      "detectedAt": "2026-06-05T08:55:53.153Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Corrigendum_Assistant_Professor_Sanskrit_Geography_Psychology_Law_Geology_Yogik_Science_2025_Dated_04_06_2026.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-06-05T08:55:52.269Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Professor_History_Exam_2024_Dated_04_06_2026.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-06-05T08:55:52.269Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://mppsc.mp.gov.in/uploads/files/Vigyapti_3565_03_2022_Computer.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-06-05T08:55:52.269Z"
+    },
+    {
+      "site": "UP Board",
+      "type": "PDF_CHANGE",
+      "pdfUrl": "https://upmsp.edu.in/Downloads/Compartment_2026_Vigyapti.pdf",
+      "url": "https://upmsp.edu.in/",
+      "detectedAt": "2026-06-05T08:56:07.322Z"
     }
   ],
   "errorDetails": [
-    {
-      "site": "SSC",
-      "error": "getaddrinfo ENOTFOUND ssc.gov.in"
-    },
     {
       "site": "UPSC",
       "error": "Timeout"
@@ -69,11 +137,6 @@
     {
       "site": "NABARD",
       "url": "https://www.nabard.org/career-notices.aspx",
-      "error": "Timeout"
-    },
-    {
-      "site": "RRB (Railway)",
-      "url": "https://www.rrbcdg.gov.in/",
       "error": "Timeout"
     },
     {
@@ -97,13 +160,13 @@
       "error": "Timeout"
     },
     {
-      "site": "NVS (Navodaya)",
-      "url": "https://navodaya.gov.in/",
+      "site": "KVS",
+      "url": "https://kvsangathan.nic.in/",
       "error": "Timeout"
     },
     {
-      "site": "IGNOU",
-      "url": "https://ignou.ac.in/",
+      "site": "NVS (Navodaya)",
+      "url": "https://navodaya.gov.in/",
       "error": "Timeout"
     },
     {
@@ -112,29 +175,14 @@
       "error": "HTTP 404"
     },
     {
-      "site": "CUET",
-      "url": "https://cuet.nta.nic.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "BPSC",
       "url": "https://www.bpsc.bih.nic.in/",
       "error": "Timeout"
     },
     {
-      "site": "UPPSC",
-      "url": "https://uppsc.up.nic.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "MPPSC",
-      "url": "https://mppsc.mp.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "RPSC",
       "url": "https://rpsc.rajasthan.gov.in/",
-      "error": "Timeout"
+      "error": ""
     },
     {
       "site": "TNPSC",
@@ -154,7 +202,7 @@
     {
       "site": "TSPSC",
       "url": "https://tspsc.gov.in/",
-      "error": "Timeout"
+      "error": "getaddrinfo ENOTFOUND tspsc.gov.in"
     },
     {
       "site": "WBPSC",
@@ -164,7 +212,7 @@
     {
       "site": "GPSC",
       "url": "https://gpsc.gujarat.gov.in/",
-      "error": "Timeout"
+      "error": ""
     },
     {
       "site": "HPSC",
@@ -172,23 +220,8 @@
       "error": "Timeout"
     },
     {
-      "site": "JPSC",
-      "url": "https://www.jpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "CGPSC",
       "url": "https://psc.cg.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "UKPSC",
-      "url": "https://ukpsc.net.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "CTET",
-      "url": "https://ctet.nic.in/",
       "error": "Timeout"
     },
     {
@@ -199,17 +232,12 @@
     {
       "site": "Sainik School",
       "url": "https://nta.ac.in/ExamDetail?ExamCode=AISSEE",
-      "error": "Timeout"
+      "error": "HTTP 404"
     },
     {
       "site": "Income Tax",
       "url": "https://incometaxindia.gov.in/Pages/press-releases.aspx",
-      "error": "Timeout"
-    },
-    {
-      "site": "RBSE Rajasthan",
-      "url": "https://rajeduboard.rajasthan.gov.in/",
-      "error": "Timeout"
+      "error": "HTTP 403"
     },
     {
       "site": "MSBTE",
@@ -217,19 +245,9 @@
       "error": "Timeout"
     },
     {
-      "site": "UP Board",
-      "url": "https://upmsp.edu.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
       "error": "read ECONNRESET"
-    },
-    {
-      "site": "MP Board",
-      "url": "https://mpbse.nic.in/",
-      "error": "Timeout"
     }
   ]
 }
