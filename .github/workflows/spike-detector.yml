@@ -182,6 +182,26 @@ jobs:
         run: |
           if [ -f "agents/.newly-generated-slugs" ]; then
             node scripts/notify-whatsapp.js agents/.newly-generated-slugs || true
+          fi
+
+      - name: Post to Facebook Page
+        if: steps.commit.outputs.new_count > 0
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+        run: |
+          if [ -f "agents/.newly-generated-slugs" ]; then
+            node scripts/notify-facebook.js agents/.newly-generated-slugs || true
+          fi
+
+      - name: Post to LinkedIn Company Page
+        if: steps.commit.outputs.new_count > 0
+        env:
+          LI_ORGANIZATION_ID: ${{ secrets.LI_ORGANIZATION_ID }}
+          LI_ACCESS_TOKEN: ${{ secrets.LI_ACCESS_TOKEN }}
+        run: |
+          if [ -f "agents/.newly-generated-slugs" ]; then
+            node scripts/notify-linkedin.js agents/.newly-generated-slugs || true
             rm -f agents/.newly-generated-slugs
           fi
 

@@ -212,8 +212,30 @@ jobs:
             echo "No slug file — skipping IndexNow"
           fi
 
-      # ── NO Telegram step — scheme content is NOT posted to @citizennest ─────
-      # Telegram channel is for Jobs & Exam updates only.
+      # ── NO Telegram/WhatsApp — scheme content not posted to @citizennest ────
+      # Telegram/WhatsApp channel is for Jobs & Exam updates only.
+      # Facebook & LinkedIn are appropriate for scheme guides (broader audience).
+
+      - name: Post to Facebook Page
+        if: steps.commit.outputs.new_count > 0
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+        run: |
+          if [ -f "agents/.newly-generated-scheme-slugs" ]; then
+            node scripts/notify-facebook.js agents/.newly-generated-scheme-slugs || true
+          fi
+
+      - name: Post to LinkedIn Company Page
+        if: steps.commit.outputs.new_count > 0
+        env:
+          LI_ORGANIZATION_ID: ${{ secrets.LI_ORGANIZATION_ID }}
+          LI_ACCESS_TOKEN: ${{ secrets.LI_ACCESS_TOKEN }}
+        run: |
+          if [ -f "agents/.newly-generated-scheme-slugs" ]; then
+            node scripts/notify-linkedin.js agents/.newly-generated-scheme-slugs || true
+            rm -f agents/.newly-generated-scheme-slugs
+          fi
 
       # ── Summary ──────────────────────────────────────────────────────────────
 
