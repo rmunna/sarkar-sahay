@@ -1,63 +1,38 @@
 {
-  "scanTime": "2026-06-05T19:19:20.701Z",
-  "elapsedSeconds": 62.6,
-  "changesDetected": 9,
-  "errors": 23,
+  "scanTime": "2026-06-06T04:52:29.172Z",
+  "elapsedSeconds": 64.5,
+  "changesDetected": 5,
+  "errors": 25,
   "changes": [
     {
       "site": "SBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-06-05T19:18:36.433Z"
+      "detectedAt": "2026-06-06T04:51:40.652Z"
     },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-05T19:18:34.411Z"
+      "detectedAt": "2026-06-06T04:51:37.195Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-05T19:18:42.003Z"
-    },
-    {
-      "site": "BSF",
-      "type": "CONTENT_CHANGE",
-      "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-06-05T19:18:42.382Z"
-    },
-    {
-      "site": "KVS",
-      "type": "CONTENT_CHANGE",
-      "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-05T19:18:46.419Z"
+      "detectedAt": "2026-06-06T04:51:47.947Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-05T19:18:50.886Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "PDF_CHANGE",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-05T19:18:50.565Z"
-    },
-    {
-      "site": "JPSC",
-      "type": "PDF_CHANGE",
-      "pdfUrl": "https://www.jpsc.gov.in/data/Press_Release_and_Revised_Result_P.T_22_23_Dated_05_06_2026.pdf",
-      "url": "https://www.jpsc.gov.in/",
-      "detectedAt": "2026-06-05T19:18:59.135Z"
+      "detectedAt": "2026-06-06T04:51:55.817Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-05T19:19:08.389Z"
+      "detectedAt": "2026-06-06T04:52:10.093Z"
     }
   ],
   "errorDetails": [
@@ -86,19 +61,29 @@
       "error": "Timeout"
     },
     {
+      "site": "BSF",
+      "url": "https://rectt.bsf.gov.in/",
+      "error": "HTTP 403"
+    },
+    {
       "site": "ITBP",
       "url": "https://recruitment.itbpolice.nic.in/",
       "error": "Timeout"
     },
     {
+      "site": "KVS",
+      "url": "https://kvsangathan.nic.in/",
+      "error": "Timeout"
+    },
+    {
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
-      "error": ""
+      "error": "Timeout"
     },
     {
       "site": "UGC NET",
       "url": "https://ugcnet.nta.ac.in/",
-      "error": "Timeout"
+      "error": "HTTP 404"
     },
     {
       "site": "BPSC",
@@ -138,7 +123,7 @@
     {
       "site": "GPSC",
       "url": "https://gpsc.gujarat.gov.in/",
-      "error": ""
+      "error": "Timeout"
     },
     {
       "site": "HPSC",
@@ -158,7 +143,7 @@
     {
       "site": "Sainik School",
       "url": "https://nta.ac.in/ExamDetail?ExamCode=AISSEE",
-      "error": "HTTP 404"
+      "error": "Timeout"
     },
     {
       "site": "Income Tax",
@@ -173,7 +158,7 @@
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "read ECONNRESET"
+      "error": "Timeout"
     }
   ]
 }
