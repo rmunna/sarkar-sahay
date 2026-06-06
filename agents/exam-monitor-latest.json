@@ -1,39 +1,45 @@
 {
-  "scanTime": "2026-06-06T13:22:58.582Z",
-  "elapsedSeconds": 55.3,
+  "scanTime": "2026-06-06T14:58:07.902Z",
+  "elapsedSeconds": 52.1,
   "changesDetected": 0,
-  "noiseDetected": 5,
+  "noiseDetected": 6,
   "changes": [],
   "noiseChanges": [
+    {
+      "site": "SBI Careers",
+      "type": "CONTENT_CHANGE",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-06-06T14:57:31.359Z"
+    },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-06T13:22:15.989Z"
+      "detectedAt": "2026-06-06T14:57:28.843Z"
     },
     {
       "site": "CISF",
       "type": "CONTENT_CHANGE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-06T13:22:23.121Z"
+      "detectedAt": "2026-06-06T14:57:36.014Z"
     },
     {
       "site": "KVS",
       "type": "CONTENT_CHANGE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-06T13:22:27.725Z"
+      "detectedAt": "2026-06-06T14:57:39.867Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-06T13:22:32.238Z"
+      "detectedAt": "2026-06-06T14:57:43.378Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-06T13:22:50.350Z"
+      "detectedAt": "2026-06-06T14:57:59.656Z"
     }
   ],
   "errors": 25,
@@ -41,11 +47,6 @@
     {
       "site": "UPSC",
       "error": "Timeout"
-    },
-    {
-      "site": "SBI Careers",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "error": ""
     },
     {
       "site": "NABARD",
@@ -130,6 +131,11 @@
     {
       "site": "HPSC",
       "url": "https://www.hpsc.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "JPSC",
+      "url": "https://www.jpsc.gov.in/",
       "error": "Timeout"
     },
     {
