@@ -36,8 +36,18 @@ SPIKE_PATTERNS = [
     'registration', 'application form', 'exam date', 'schedule',
 ]
 
+# Exam and result queries that may qualify as lower-threshold spikes.
+EXAM_SPIKE_PATTERNS = [
+    'result', 'results', 'admit card', 'answer key', 'cut off', 'cutoff',
+    'rank card', 'scorecard', 'marksheet', 'registration', 'exam date',
+    'exam schedule', 'application form', 'last date', 'counselling',
+    'counseling', 'result date', 'marksheet issue', 'score card',
+]
+
 # Minimum rising value to be considered a spike opportunity
 SPIKE_THRESHOLD = 200
+# Lower threshold for strong exam/result queries
+EXAM_SPIKE_THRESHOLD = 150
 
 # Categories to monitor
 CATEGORIES = [
@@ -93,7 +103,11 @@ def is_relevant(query):
 def is_spike(query, rising_value):
     """True if this query signals an imminent high-traffic event."""
     lower = query.lower()
-    return rising_value >= SPIKE_THRESHOLD and any(p in lower for p in SPIKE_PATTERNS)
+    if rising_value >= SPIKE_THRESHOLD and any(p in lower for p in SPIKE_PATTERNS):
+        return True
+    if rising_value >= EXAM_SPIKE_THRESHOLD and any(p in lower for p in EXAM_SPIKE_PATTERNS):
+        return True
+    return False
 
 
 def check_guide_exists(topic):

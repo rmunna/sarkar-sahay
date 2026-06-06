@@ -74,9 +74,18 @@ jobs:
               console.log(real.length);
             } catch(e) { console.log(0); }
           ")
+          NOISE_CHANGES=$(node -e "
+            try {
+              const fs = require('fs');
+              const d = JSON.parse(fs.readFileSync('./agents/exam-monitor-latest.json','utf8'));
+              console.log(d.noiseDetected || 0);
+            } catch(e) { console.log(0); }
+          ")
           echo "change_count=$REAL_CHANGES" >> $GITHUB_OUTPUT
+          echo "noise_count=$NOISE_CHANGES" >> $GITHUB_OUTPUT
           echo "has_changes=$([ $REAL_CHANGES -gt 0 ] && echo true || echo false)" >> $GITHUB_OUTPUT
           echo "Real changes: $REAL_CHANGES"
+          echo "Noise changes: $NOISE_CHANGES"
 
       # ── Step 2: Generate content with Gemini (free API) ──────────────────
 
@@ -256,5 +265,6 @@ jobs:
           echo "| | |" >> $GITHUB_STEP_SUMMARY
           echo "|---|---|" >> $GITHUB_STEP_SUMMARY
           echo "| Real changes detected | ${{ steps.monitor.outputs.change_count }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Noise changes detected | ${{ steps.monitor.outputs.noise_count || 0 }} |" >> $GITHUB_STEP_SUMMARY
           echo "| New pages generated | ${{ steps.commit.outputs.new_count || 0 }} |" >> $GITHUB_STEP_SUMMARY
           echo "| Run time (UTC) | $(date -u) |" >> $GITHUB_STEP_SUMMARY
