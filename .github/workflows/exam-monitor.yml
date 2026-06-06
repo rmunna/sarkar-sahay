@@ -237,15 +237,14 @@ jobs:
             rm -f agents/.newly-generated-slugs
           fi
 
-      # ── Step 7: Update tracker (even if no new content) ──────────────────
+      # ── Step 7: Update tracker (only if changes were found) ──────────────────
 
       - name: Save monitor tracker state
-        if: always()
+        if: steps.monitor.outputs.has_changes == 'true' || steps.commit.outputs.new_count > 0
         run: |
           git config user.name "CitizenNest Bot"
           git config user.email "bot@citizennest.com"
-          # Also stage source-monitors.json here so it gets [skip ci] and
-          # never triggers a Vercel deployment on its own.
+          # Stage tracker files only if changes were detected
           git add agents/exam-monitor-tracker.json agents/exam-monitor-latest.json agents/source-monitors.json || true
           if ! git diff --staged --quiet; then
             git commit -m "chore: update exam monitor tracker [skip ci] [skip vercel]"
