@@ -50,6 +50,16 @@ const RELEVANT_KEYWORDS = [
   'करोड़', 'crore', 'lakh', 'लाख',
 ];
 
+const STRONG_RELEVANCE_KEYWORDS = [
+  'योजना', 'पोर्टल', 'पंजीकरण', 'आवेदन', 'पात्रता', 'अधिसूचना',
+  'notification', 'scheme', 'plan', 'subsidy', 'beneficiary', 'DBT',
+  'डिजिटल', 'online', 'portal', 'launch', 'launched', 'inaugurated',
+  'revised', 'policy', 'नए नियम', 'new rules', 'extended', 'deadline',
+  'registration', 'scheme', 'notice', 'circular', 'guidelines', 'payment',
+  'पैसे', 'ऋण', 'अनुदान', 'अधिकार', 'बढ़ा', 'fee', 'tax', 'राशन',
+  'पेंशन', 'आवास', 'scholarship', 'health', 'insurance', 'loan',
+];
+
 // Skip keywords — items matching any of these are dropped entirely
 const SKIP_KEYWORDS = [
   // Diplomatic/ceremonial (not citizen-actionable)
@@ -141,7 +151,12 @@ function parseRSS(xml) {
 function isRelevant(item) {
   const text = `${item.title} ${item.description}`.toLowerCase();
   if (SKIP_KEYWORDS.some(kw => text.includes(kw.toLowerCase()))) return false;
-  return RELEVANT_KEYWORDS.some(kw => text.includes(kw.toLowerCase()));
+
+  const hasStrong = STRONG_RELEVANCE_KEYWORDS.some(kw => text.includes(kw.toLowerCase()));
+  const hasGeneral = RELEVANT_KEYWORDS.some(kw => text.includes(kw.toLowerCase()));
+
+  // Require at least one strong scheme/policy/service signal plus a general topic match.
+  return hasStrong && hasGeneral;
 }
 
 function categorize(item) {

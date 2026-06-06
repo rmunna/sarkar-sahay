@@ -59,9 +59,17 @@ jobs:
               console.log((d.spike_candidates || []).length);
             } catch(e) { console.log(0); }
           ")
+          SCHEME_OPPORTUNITY_COUNT=$(node -e "
+            try {
+              const d = JSON.parse(require('fs').readFileSync('./agents/trending-pytrends.json','utf8'));
+              console.log((d.scheme_opportunities || []).length);
+            } catch(e) { console.log(0); }
+          ")
           echo "spike_count=$SPIKE_COUNT" >> $GITHUB_OUTPUT
+          echo "scheme_opportunity_count=$SCHEME_OPPORTUNITY_COUNT" >> $GITHUB_OUTPUT
           echo "has_spikes=$([ $SPIKE_COUNT -gt 0 ] && echo true || echo false)" >> $GITHUB_OUTPUT
           echo "Spike candidates: $SPIKE_COUNT"
+          echo "Scheme opportunities: $SCHEME_OPPORTUNITY_COUNT"
 
       # ── Step 2: Generate pages for spike candidates ──────────────────────
 
@@ -226,5 +234,6 @@ jobs:
           echo "| | |" >> $GITHUB_STEP_SUMMARY
           echo "|---|---|" >> $GITHUB_STEP_SUMMARY
           echo "| Spike candidates detected | ${{ steps.trends.outputs.spike_count || 0 }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Scheme opportunities detected | ${{ steps.trends.outputs.scheme_opportunity_count || 0 }} |" >> $GITHUB_STEP_SUMMARY
           echo "| New spike pages generated | ${{ steps.commit.outputs.new_count || 0 }} |" >> $GITHUB_STEP_SUMMARY
           echo "| Run time (UTC) | $(date -u) |" >> $GITHUB_STEP_SUMMARY

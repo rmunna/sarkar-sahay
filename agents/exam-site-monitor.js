@@ -367,15 +367,24 @@ async function main() {
   }
 
   const elapsed = ((Date.now() - start) / 1000).toFixed(1);
+  const actionableChanges = allChanges.filter(c => c.type !== 'CONTENT_CHANGE');
+  const noiseChanges = allChanges.filter(c => c.type === 'CONTENT_CHANGE');
 
   console.log(`\n${'='.repeat(50)}`);
-  console.log(`⏱️  ${elapsed}s | 🔴 Changes: ${allChanges.length} | ❌ Errors: ${allErrors.length}`);
+  console.log(`⏱️  ${elapsed}s | 🔴 Actionable changes: ${actionableChanges.length} | 🟡 Noise changes: ${noiseChanges.length} | ❌ Errors: ${allErrors.length}`);
 
-  if (allChanges.length > 0) {
-    console.log('\n🔴 CHANGES:\n');
-    for (const c of allChanges) {
+  if (actionableChanges.length > 0) {
+    console.log('\n🔴 ACTIONABLE CHANGES:\n');
+    for (const c of actionableChanges) {
       console.log(`  [${c.site}] ${c.type}: ${c.headline || c.url}`);
       if (c.pdfUrl) console.log(`  📎 ${c.pdfUrl}`);
+    }
+  }
+
+  if (noiseChanges.length > 0) {
+    console.log('\n🟡 NOISE CHANGES (content-only):\n');
+    for (const c of noiseChanges) {
+      console.log(`  [${c.site}] ${c.type}: ${c.url}`);
     }
   }
 
@@ -384,9 +393,11 @@ async function main() {
   const output = {
     scanTime: new Date().toISOString(),
     elapsedSeconds: parseFloat(elapsed),
-    changesDetected: allChanges.length,
+    changesDetected: actionableChanges.length,
+    noiseDetected: noiseChanges.length,
+    changes: actionableChanges,
+    noiseChanges,
     errors: allErrors.length,
-    changes: allChanges,
     errorDetails: allErrors,
   };
   
