@@ -4,5 +4,5 @@
   "framework": "nextjs",
   "outputDirectory": ".next",
   "regions": ["sin1"],
-  "ignoreCommand": "sh -lc 'if [ -n \"$VERCEL_GIT_PREVIOUS_SHA\" ] && [ -n \"$VERCEL_GIT_COMMIT_SHA\" ]; then git diff --name-only \"$VERCEL_GIT_PREVIOUS_SHA\" \"$VERCEL_GIT_COMMIT_SHA\" | grep -qvE \"^agents/\" && exit 1 || exit 0; else git diff --name-only HEAD^ HEAD | grep -qvE \"^agents/\" && exit 1 || exit 0; fi'"
+  "ignoreCommand": "bash scripts/vercel-ignore.sh"
 }
