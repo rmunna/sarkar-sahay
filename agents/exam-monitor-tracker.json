@@ -57,7 +57,7 @@
       "lastChanged": "2026-03-01T02:46:19.512Z"
     },
     "ssc:notices": {
-      "lastChecked": "2026-06-06T07:43:43.913Z",
+      "lastChecked": "2026-06-06T09:59:54.247Z",
       "noticeIds": [
         "lnbvjaf4x2i7t0c5qrueg",
         "rp6tszdugxtr1we9uiacc",
@@ -82,8 +82,9 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-06-06T07:43:47.596Z",
+      "lastChecked": "2026-06-06T09:59:57.826Z",
       "noticeIds": [
+        "20260606142500",
         "20260604181537",
         "20260604114322",
         "20260601213649",
@@ -808,7 +809,7 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-06-06T04:51:38.217Z",
+      "lastChecked": "2026-06-06T10:00:08.483Z",
       "contentHash": "4c63ffd3ab3ac0744eab9f0439bb26a2",
       "pdfHash": "65f37d235b41ba4f3d2e786e991ea6e0",
       "pdfs": [
@@ -1236,13 +1237,13 @@
       ]
     },
     "uppsc:hash": {
-      "lastChecked": "2026-06-06T07:44:15.930Z",
-      "contentHash": "042ab30be78e4752582a636cfb6632ed",
+      "lastChecked": "2026-06-06T10:00:27.213Z",
+      "contentHash": "ac19064fd75698b34be52fb56dec0f58",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-06-06T04:51:37.738Z",
+      "lastChecked": "2026-06-06T10:00:07.841Z",
       "contentHash": "15a8cd61a005deaef7c818af57696a18",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
       "pdfs": [
@@ -1263,10 +1264,13 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-06-06T07:43:54.979Z",
-      "contentHash": "7049e5242e6becb7c447d4706b3c8da7",
-      "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
-      "pdfs": []
+      "lastChecked": "2026-06-06T10:00:05.332Z",
+      "contentHash": "540774760da7ee43cd5fc5c0581acdf7",
+      "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
+      "pdfs": [
+        "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
+        "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh30122022.pdf"
+      ]
     },
     "indiannavy:hash": {
       "lastChecked": "2026-06-05T08:54:42.193Z",
@@ -1286,7 +1290,7 @@
       "pdfs": []
     },
     "cbse:hash": {
-      "lastChecked": "2026-06-06T07:44:06.425Z",
+      "lastChecked": "2026-06-06T10:00:19.078Z",
       "contentHash": "4a4ccfaf29d0213341e5ce78085aab01",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
@@ -1319,8 +1323,8 @@
       ]
     },
     "cisf:hash": {
-      "lastChecked": "2026-06-06T07:44:05.527Z",
-      "contentHash": "1279942318255be21653a9329a9df07d",
+      "lastChecked": "2026-06-06T10:00:19.313Z",
+      "contentHash": "d821ef6d90a4dac4a5a39311f01d9f01",
       "pdfHash": "dcb8f9d4988ce1cb962ced406b83bc91",
       "pdfs": [
         "https://cisf.gov.in/assets/pdfs/2025/08/id_eng.pdf",
@@ -1342,7 +1346,7 @@
       "pdfs": []
     },
     "crpf:hash": {
-      "lastChecked": "2026-06-06T07:44:08.455Z",
+      "lastChecked": "2026-06-06T10:00:21.806Z",
       "contentHash": "40c2bc9a5e3f9d4b52165d22762c2d78",
       "pdfHash": "97638b0c54fa60d397b5602444b2f468",
       "pdfs": [
@@ -1373,8 +1377,8 @@
       "pdfs": []
     },
     "kvs:hash": {
-      "lastChecked": "2026-06-06T07:44:10.837Z",
-      "contentHash": "de065b3a36405c9dbe030dc73fcac6e1",
+      "lastChecked": "2026-06-06T10:00:22.845Z",
+      "contentHash": "34dfbffc928655732e5eaa83d0fe5b76",
       "pdfHash": "b7f47f897d8e7b2c00b199b8d60f8e00",
       "pdfs": [
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/11/2023112463.pdf",
@@ -1532,7 +1536,7 @@
       ]
     },
     "cuet:hash": {
-      "lastChecked": "2026-06-06T07:44:17.506Z",
+      "lastChecked": "2026-06-06T10:00:26.672Z",
       "contentHash": "7f61bf754629001fa57fcbffd90f2644",
       "pdfHash": "072b9f2d41e95875cecbe42053f0acae",
       "pdfs": [
@@ -1856,7 +1860,7 @@
       ]
     },
     "ignou:hash": {
-      "lastChecked": "2026-06-06T07:44:14.959Z",
+      "lastChecked": "2026-06-06T10:00:27.754Z",
       "contentHash": "94e4c6ae443519f329d451a51c6f027f",
       "pdfHash": "af84736a61ff48e2daf9d78fd5394f2a",
       "pdfs": [
@@ -1872,7 +1876,7 @@
       "pdfs": []
     },
     "jpsc:hash": {
-      "lastChecked": "2026-06-06T04:52:03.196Z",
+      "lastChecked": "2026-06-06T10:00:34.854Z",
       "contentHash": "8cdb38c25a95f2eff1b507fac0b0a033",
       "pdfHash": "c9af55d42b52224cedb69411e41999dd",
       "pdfs": [
@@ -2038,14 +2042,14 @@
       ]
     },
     "ukpsc:hash": {
-      "lastChecked": "2026-06-06T07:44:25.875Z",
+      "lastChecked": "2026-06-06T10:00:39.860Z",
       "contentHash": "29183ec5cee976219d1fa1ec8bb74947",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "up-board:hash": {
-      "lastChecked": "2026-06-06T04:52:10.093Z",
-      "contentHash": "cb78d8582124d71241a92e7e728a831b",
+      "lastChecked": "2026-06-06T10:00:43.181Z",
+      "contentHash": "71b024f711d05e0168cc83b04104d547",
       "pdfHash": "e636b1a8a63394e1e9c664876874c843",
       "pdfs": [
         "https://upmsp.edu.in/Downloads/Circular_2_04-04-2026.pdf",
@@ -2070,13 +2074,13 @@
       ]
     },
     "rbse:hash": {
-      "lastChecked": "2026-06-06T07:44:31.320Z",
+      "lastChecked": "2026-06-06T10:00:42.313Z",
       "contentHash": "7f127d3d8ecd4419f163c0d14fa4ba31",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfs": []
     },
     "ctet:hash": {
-      "lastChecked": "2026-06-06T07:44:32.177Z",
+      "lastChecked": "2026-06-06T10:00:42.640Z",
       "contentHash": "39c1760d6d9272a88414efe0086b4654",
       "pdfHash": "3243cc5ff9cc78ab399571499e449e90",
       "pdfs": [
@@ -2114,7 +2118,7 @@
       ]
     },
     "mp-board:hash": {
-      "lastChecked": "2026-06-06T07:44:36.483Z",
+      "lastChecked": "2026-06-06T10:00:48.591Z",
       "contentHash": "b1179d9607eb395a3aa69473c7c6125e",
       "pdfHash": "95cd4ffebd701b4cfe4d6f7bf95343dc",
       "pdfs": [
@@ -2744,5 +2748,5 @@
       ]
     }
   },
-  "lastScan": "2026-06-06T07:44:39.685Z"
+  "lastScan": "2026-06-06T10:00:57.624Z"
 }
