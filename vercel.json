@@ -4,5 +4,5 @@
   "framework": "nextjs",
   "outputDirectory": ".next",
   "regions": ["sin1"],
-  "ignoreCommand": "git diff HEAD^ HEAD --name-only | grep -qvE '^agents/'"
+  "ignoreCommand": "sh -lc 'git diff --name-only HEAD^ HEAD | grep -qvE "^agents/" && exit 1 || exit 0'"
 }
