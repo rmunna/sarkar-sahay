@@ -105,3 +105,16 @@ officialLinks:
 
 - ನಾಡಕಚೇರಿ: [nadakacheri.karnataka.gov.in](https://nadakacheri.karnataka.gov.in)
 - ಸೇವಾ ಸಿಂಧು: [sevasindhu.karnataka.gov.in](https://sevasindhu.karnataka.gov.in)
+
+---
+
+## ಪ್ರತ್ಯೇಕ ಪ್ರಮಾಣಪತ್ರ ಗೈಡ್‌ಗಳು
+
+ಪ್ರತಿಯೊಂದು ಪ್ರಮಾಣಪತ್ರಕ್ಕೆ ವಿವರವಾದ ಮಾರ್ಗದರ್ಶಿ:
+
+- [ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ — ಸಂಪೂರ್ಣ ಗೈಡ್](/kn/guide/karnataka-income-certificate-online-apply)
+- [ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ (OBC/SC/ST)](/kn/guide/karnataka-caste-certificate-apply-online)
+- [ನಿವಾಸ ಪ್ರಮಾಣಪತ್ರ](/kn/guide/karnataka-domicile-certificate-online)
+- [ಜನನ ಪ್ರಮಾಣಪತ್ರ](/kn/guide/karnataka-birth-certificate-online-apply)
+- [ಮರಣ ಪ್ರಮಾಣಪತ್ರ](/kn/guide/karnataka-death-certificate-online-apply)
+- [EWS ಪ್ರಮಾಣಪತ್ರ (ಸಾಮಾನ್ಯ ವರ್ಗ 10%)](/kn/guide/karnataka-ews-certificate-online-apply)

@@ -109,3 +109,14 @@ AP ప్రభుత్వం Grama/Ward Volunteer వ్యవస్థ ద్
 
 - MeeSeva: [meeseva.gov.in](https://meeseva.gov.in)
 - AP ఏపీ ఆన్‌లైన్: [aponline.gov.in](https://aponline.gov.in)
+
+---
+
+## ప్రతి సర్టిఫికెట్‌కు వివరణాత్మక గైడ్
+
+- [ఆదాయ సర్టిఫికెట్ — సంపూర్ణ గైడ్](/te/guide/ap-income-certificate-meeseva-apply)
+- [కులం సర్టిఫికెట్ (BC/SC/ST)](/te/guide/ap-caste-certificate-meeseva-apply)
+- [నివాస / డొమిసైల్ సర్టిఫికెట్](/te/guide/ap-domicile-certificate-meeseva-apply)
+- [జనన సర్టిఫికెట్](/te/guide/ap-birth-certificate-online-apply)
+- [మరణ సర్టిఫికెట్](/te/guide/ap-death-certificate-meeseva-apply)
+- [EWS సర్టిఫికెట్ (సాధారణ వర్గం 10%)](/te/guide/ap-ews-certificate-meeseva-apply)

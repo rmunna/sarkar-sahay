@@ -96,3 +96,14 @@ Information Kerala Mission (IKM) ആണ് ഈ പോർട്ടൽ നടത�
 
 - കേരള ഇ-ഡിസ്ട്രിക്റ്റ്: [edistrict.kerala.gov.in](https://edistrict.kerala.gov.in)
 - കേരള സർക്കാർ: [kerala.gov.in](https://kerala.gov.in)
+
+---
+
+## ഓരോ സർട്ടിഫിക്കറ്റിനും വിശദ ഗൈഡ്
+
+- [വരുമാന സർട്ടിഫിക്കറ്റ് — സമ്പൂർണ ഗൈഡ്](/ml/guide/kerala-income-certificate-online-apply)
+- [ജാതി / OBC / SC / ST സർട്ടിഫിക്കറ്റ്](/ml/guide/kerala-caste-certificate-online-apply)
+- [നേറ്റിവിറ്റി / ജന്മദേശ സർട്ടിഫിക്കറ്റ്](/ml/guide/kerala-nativity-certificate-online-apply)
+- [ജനന സർട്ടിഫിക്കറ്റ്](/ml/guide/kerala-birth-certificate-online-apply)
+- [മരണ സർട്ടിഫിക്കറ്റ്](/ml/guide/kerala-death-certificate-online-apply)
+- [EWS സർട്ടിഫിക്കറ്റ് (പൊതു വിഭാഗം 10%)](/ml/guide/kerala-ews-certificate-online-apply)

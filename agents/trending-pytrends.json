@@ -1,36 +1,28 @@
 {
-  "scannedAt": "2026-06-05T08:08:26.881517",
+  "scannedAt": "2026-06-06T18:44:02.848223",
   "results": [
     {
-      "topic": "ncert cee 2026 registration",
+      "topic": "cbse delhi student marksheet issue",
       "category": "Jobs",
-      "rising_value": 7700,
-      "guide_exists": "cuet-registration-guide",
+      "rising_value": 2100,
+      "guide_exists": "delhi-government-schemes-services",
       "is_spike": true,
       "is_scheme": false
     },
     {
-      "topic": "environmental day poster",
-      "category": "Education",
-      "rising_value": 1350,
+      "topic": "kcet results",
+      "category": "Jobs",
+      "rising_value": 250,
       "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false
-    },
-    {
-      "topic": "comedk results 2026",
-      "category": "Jobs",
-      "rising_value": 550,
-      "guide_exists": "comedk-results-2026",
       "is_spike": true,
       "is_scheme": false
     },
     {
-      "topic": "bihar school examination board",
+      "topic": "up police admit card",
       "category": "Jobs",
-      "rising_value": 350,
-      "guide_exists": "udyami-yojana-bihar",
-      "is_spike": false,
+      "rising_value": 250,
+      "guide_exists": "police-verification-certificate-guide",
+      "is_spike": true,
       "is_scheme": false
     },
     {
@@ -42,101 +34,131 @@
       "is_scheme": false
     },
     {
+      "topic": "nios result",
+      "category": "Jobs",
+      "rising_value": 180,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "kcet result",
+      "category": "Jobs",
+      "rising_value": 170,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
       "topic": "ktu login",
       "category": "Jobs",
-      "rising_value": 200,
+      "rising_value": 140,
       "guide_exists": "sbi-net-banking-blocked-login-fix",
       "is_spike": false,
       "is_scheme": false
     },
     {
-      "topic": "rpsc admit card",
+      "topic": "cet result date 2026",
       "category": "Jobs",
-      "rising_value": 130,
-      "guide_exists": "neet-ug-apply-admit-card-results",
+      "rising_value": 90,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false
+    },
+    {
+      "topic": "mht cet result date 2026",
+      "category": "Jobs",
+      "rising_value": 90,
+      "guide_exists": "mht-cet-2026-exam-guide",
       "is_spike": false,
       "is_scheme": false
     },
     {
       "topic": "sats login",
       "category": "Jobs",
-      "rising_value": 130,
+      "rising_value": 90,
       "guide_exists": "sbi-net-banking-blocked-login-fix",
       "is_spike": false,
       "is_scheme": false
     },
     {
-      "topic": "kerala university",
+      "topic": "cet result 2026",
       "category": "Jobs",
-      "rising_value": 120,
-      "guide_exists": "kerala-income-certificate-apply-online",
+      "rising_value": 70,
+      "guide_exists": null,
       "is_spike": false,
       "is_scheme": false
     },
     {
-      "topic": "mexico vs serbia",
-      "category": "Realtime RSS",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
       "topic": "calicut university",
       "category": "Jobs",
-      "rising_value": 80,
+      "rising_value": 70,
       "guide_exists": "anna-university-results-2026",
       "is_spike": false,
       "is_scheme": false
     },
     {
-      "topic": "dsssb",
+      "topic": "cet result",
       "category": "Jobs",
       "rising_value": 70,
-      "guide_exists": "dsssb-exam-guide",
-      "is_spike": false,
-      "is_scheme": false
-    },
-    {
-      "topic": "cet result date 2026",
-      "category": "Jobs",
-      "rising_value": 60,
       "guide_exists": null,
       "is_spike": false,
       "is_scheme": false
     },
     {
-      "topic": "assam university",
+      "topic": "uppsc",
       "category": "Jobs",
       "rising_value": 50,
-      "guide_exists": "assam-pragyan-bharati-scooty-scheme",
+      "guide_exists": "uppsc-pcs-exam-guide",
       "is_spike": false,
       "is_scheme": false
     }
   ],
   "opportunities": [
     {
-      "topic": "environmental day poster",
-      "category": "Education",
-      "rising_value": 1350,
+      "topic": "kcet results",
+      "category": "Jobs",
+      "rising_value": 250,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "nios result",
+      "category": "Jobs",
+      "rising_value": 180,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "kcet result",
+      "category": "Jobs",
+      "rising_value": 170,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "cet result date 2026",
+      "category": "Jobs",
+      "rising_value": 90,
       "guide_exists": null,
       "is_spike": false,
       "is_scheme": false
     },
     {
-      "topic": "mexico vs serbia",
-      "category": "Realtime RSS",
-      "rising_value": 100,
+      "topic": "cet result 2026",
+      "category": "Jobs",
+      "rising_value": 70,
       "guide_exists": null,
       "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
+      "is_scheme": false
     },
     {
-      "topic": "cet result date 2026",
+      "topic": "cet result",
       "category": "Jobs",
-      "rising_value": 60,
+      "rising_value": 70,
       "guide_exists": null,
       "is_spike": false,
       "is_scheme": false
@@ -144,27 +166,19 @@
   ],
   "covered": [
     {
-      "topic": "ncert cee 2026 registration",
+      "topic": "cbse delhi student marksheet issue",
       "category": "Jobs",
-      "rising_value": 7700,
-      "guide_exists": "cuet-registration-guide",
+      "rising_value": 2100,
+      "guide_exists": "delhi-government-schemes-services",
       "is_spike": true,
       "is_scheme": false
     },
     {
-      "topic": "comedk results 2026",
+      "topic": "up police admit card",
       "category": "Jobs",
-      "rising_value": 550,
-      "guide_exists": "comedk-results-2026",
+      "rising_value": 250,
+      "guide_exists": "police-verification-certificate-guide",
       "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "bihar school examination board",
-      "category": "Jobs",
-      "rising_value": 350,
-      "guide_exists": "udyami-yojana-bihar",
-      "is_spike": false,
       "is_scheme": false
     },
     {
@@ -178,60 +192,69 @@
     {
       "topic": "ktu login",
       "category": "Jobs",
-      "rising_value": 200,
+      "rising_value": 140,
       "guide_exists": "sbi-net-banking-blocked-login-fix",
       "is_spike": false,
       "is_scheme": false
     },
     {
-      "topic": "rpsc admit card",
+      "topic": "mht cet result date 2026",
       "category": "Jobs",
-      "rising_value": 130,
-      "guide_exists": "neet-ug-apply-admit-card-results",
+      "rising_value": 90,
+      "guide_exists": "mht-cet-2026-exam-guide",
       "is_spike": false,
       "is_scheme": false
     },
     {
       "topic": "sats login",
       "category": "Jobs",
-      "rising_value": 130,
+      "rising_value": 90,
       "guide_exists": "sbi-net-banking-blocked-login-fix",
-      "is_spike": false,
-      "is_scheme": false
-    },
-    {
-      "topic": "kerala university",
-      "category": "Jobs",
-      "rising_value": 120,
-      "guide_exists": "kerala-income-certificate-apply-online",
       "is_spike": false,
       "is_scheme": false
     },
     {
       "topic": "calicut university",
       "category": "Jobs",
-      "rising_value": 80,
+      "rising_value": 70,
       "guide_exists": "anna-university-results-2026",
       "is_spike": false,
       "is_scheme": false
     },
     {
-      "topic": "dsssb",
-      "category": "Jobs",
-      "rising_value": 70,
-      "guide_exists": "dsssb-exam-guide",
-      "is_spike": false,
-      "is_scheme": false
-    },
-    {
-      "topic": "assam university",
+      "topic": "uppsc",
       "category": "Jobs",
       "rising_value": 50,
-      "guide_exists": "assam-pragyan-bharati-scooty-scheme",
+      "guide_exists": "uppsc-pcs-exam-guide",
       "is_spike": false,
       "is_scheme": false
     }
   ],
-  "spike_candidates": [],
+  "spike_candidates": [
+    {
+      "topic": "kcet results",
+      "category": "Jobs",
+      "rising_value": 250,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "nios result",
+      "category": "Jobs",
+      "rising_value": 180,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "kcet result",
+      "category": "Jobs",
+      "rising_value": 170,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
+    }
+  ],
   "scheme_opportunities": []
 }

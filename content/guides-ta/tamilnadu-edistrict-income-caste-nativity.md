@@ -114,3 +114,16 @@ officialLinks:
 
 - TN eDistrict: [tnedistrict.tn.gov.in](https://tnedistrict.tn.gov.in)
 - தமிழ்நாடு அரசு: [tn.gov.in](https://www.tn.gov.in)
+
+---
+
+## தனித்தனி சான்றிதழ் வழிகாட்டிகள்
+
+ஒவ்வொரு சான்றிதழுக்கும் விரிவான வழிகாட்டி:
+
+- [வருமான சான்றிதழ் — முழு வழிகாட்டி](/ta/guide/tamilnadu-income-certificate-online-apply)
+- [சமுதாய சான்றிதழ் (BC/MBC/SC/ST)](/ta/guide/tamil-nadu-community-certificate-apply-online)
+- [தாய்நாடு சான்றிதழ்](/ta/guide/tamilnadu-nativity-certificate-online-apply)
+- [பிறப்பு சான்றிதழ்](/ta/guide/tamilnadu-birth-certificate-online-apply)
+- [இறப்பு சான்றிதழ்](/ta/guide/tamilnadu-death-certificate-online-apply)
+- [EWS சான்றிதழ் (பொது வகை 10%)](/ta/guide/tamilnadu-ews-certificate-online-apply)

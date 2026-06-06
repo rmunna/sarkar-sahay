@@ -102,3 +102,12 @@ officialLinks:
 
 - TS MeeSeva: [ts.meeseva.gov.in](https://ts.meeseva.gov.in)
 - తెలంగాణ అరసు: [telangana.gov.in](https://telangana.gov.in)
+
+---
+
+## ప్రతి సర్టిఫికెట్‌కు వివరణాత్మక గైడ్
+
+- [ఆదాయ సర్టిఫికెట్ — సంపూర్ణ గైడ్](/te/guide/telangana-income-certificate-meeseva-apply)
+- [కులం సర్టిఫికెట్ (BC-A/B/C/D/E, SC, ST)](/te/guide/telangana-caste-certificate-meeseva-apply)
+- [నివాస సర్టిఫికెట్](/te/guide/telangana-domicile-certificate-meeseva-apply)
+- [EWS సర్టిఫికెట్ (సాధారణ వర్గం 10%)](/te/guide/telangana-ews-certificate-meeseva-apply)
