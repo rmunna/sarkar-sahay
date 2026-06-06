@@ -97,19 +97,17 @@ jobs:
         run: |
           git config user.name "CitizenNest Bot"
           git config user.email "bot@citizennest.com"
-          # NOTE: source-monitors.json is NOT staged here — it goes into the
-          # tracker commit (Step 7) which carries [skip ci], preventing a
-          # Vercel deployment on every run even when no content was added.
-          git add content/updates/ || true
-          if git diff --staged --quiet; then
-            echo "new_count=0" >> $GITHUB_OUTPUT
-            echo "No new content — nothing to commit"
-          else
-            NEW=$(git diff --staged --name-only | grep 'content/updates/' | wc -l | tr -d ' ')
+          # Only stage content files to avoid accidentally committing tracker or
+          # other repo files (those should be committed in Step 7 with [skip ci]).
+          git add -A content/updates || true
+          # Check for staged changes under content/updates specifically
+          if git diff --staged --name-only -- 'content/updates/*' | grep -q .; then
+            NEW=$(git diff --staged --name-only -- 'content/updates/*' | wc -l | tr -d ' ')
+            # Commit only the content paths to ensure other staged files are not included
             git commit -m "content: auto-add ${NEW} exam update(s) [$(date +'%Y-%m-%d %H:%M IST')]
 
             Source: GitHub Actions exam-monitor workflow
-            Tier: ${{ github.event.inputs.tier || '2' }}"
+            Tier: ${{ github.event.inputs.tier || '2' }} [skip vercel]" -- content/updates || true
             # Stash unstaged tracker files before rebase (they block git pull --rebase)
             git stash --include-untracked 2>/dev/null || true
             git fetch origin main
@@ -118,6 +116,9 @@ jobs:
             git push
             echo "new_count=$NEW" >> $GITHUB_OUTPUT
             echo "✅ Pushed $NEW new update(s)"
+          else
+            echo "new_count=0" >> $GITHUB_OUTPUT
+            echo "No new content — nothing to commit"
           fi
 
       # ── Step 4: Regenerate sitemap ───────────────────────────────────────
@@ -130,7 +131,7 @@ jobs:
           git config user.email "bot@citizennest.com"
           git add public/sitemap.xml public/sitemap-index.xml || true
           if ! git diff --staged --quiet; then
-            git commit -m "chore: regenerate sitemap after new updates [skip ci]"
+            git commit -m "chore: regenerate sitemap after new updates [skip ci] [skip vercel]"
             git stash --include-untracked 2>/dev/null || true
             git fetch origin main
             git rebase origin/main 2>/dev/null || git rebase --abort
@@ -238,7 +239,7 @@ jobs:
           # never triggers a Vercel deployment on its own.
           git add agents/exam-monitor-tracker.json agents/exam-monitor-latest.json agents/source-monitors.json || true
           if ! git diff --staged --quiet; then
-            git commit -m "chore: update exam monitor tracker [skip ci]"
+            git commit -m "chore: update exam monitor tracker [skip ci] [skip vercel]"
             git stash --include-untracked 2>/dev/null || true
             git fetch origin main
             git rebase origin/main 2>/dev/null || git rebase --abort
