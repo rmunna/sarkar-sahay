@@ -1,56 +1,54 @@
 {
-  "scanTime": "2026-06-06T14:58:07.902Z",
-  "elapsedSeconds": 52.1,
+  "scanTime": "2026-06-06T16:07:06.970Z",
+  "elapsedSeconds": 54,
   "changesDetected": 0,
-  "noiseDetected": 6,
+  "noiseDetected": 4,
   "changes": [],
   "noiseChanges": [
-    {
-      "site": "SBI Careers",
-      "type": "CONTENT_CHANGE",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-06-06T14:57:31.359Z"
-    },
     {
       "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-06T14:57:28.843Z"
+      "detectedAt": "2026-06-06T16:06:20.938Z"
     },
     {
-      "site": "CISF",
+      "site": "BSF",
       "type": "CONTENT_CHANGE",
-      "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-06T14:57:36.014Z"
-    },
-    {
-      "site": "KVS",
-      "type": "CONTENT_CHANGE",
-      "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-06T14:57:39.867Z"
+      "url": "https://rectt.bsf.gov.in/",
+      "detectedAt": "2026-06-06T16:06:33.666Z"
     },
     {
       "site": "UPPSC",
       "type": "CONTENT_CHANGE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-06T14:57:43.378Z"
+      "detectedAt": "2026-06-06T16:06:43.863Z"
     },
     {
       "site": "UP Board",
       "type": "CONTENT_CHANGE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-06T14:57:59.656Z"
+      "detectedAt": "2026-06-06T16:06:58.247Z"
     }
   ],
-  "errors": 25,
+  "errors": 27,
   "errorDetails": [
     {
       "site": "UPSC",
-      "error": "Timeout"
+      "error": "getaddrinfo ENOTFOUND upsc.gov.in"
+    },
+    {
+      "site": "SBI Careers",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "error": ""
     },
     {
       "site": "NABARD",
       "url": "https://www.nabard.org/career-notices.aspx",
+      "error": "Timeout"
+    },
+    {
+      "site": "RRB (Railway)",
+      "url": "https://www.rrbcdg.gov.in/",
       "error": "Timeout"
     },
     {
@@ -69,9 +67,9 @@
       "error": "Timeout"
     },
     {
-      "site": "BSF",
-      "url": "https://rectt.bsf.gov.in/",
-      "error": "HTTP 403"
+      "site": "CISF",
+      "url": "https://cisf.gov.in/recruitment",
+      "error": "getaddrinfo ENOTFOUND cisf.gov.in"
     },
     {
       "site": "ITBP",
@@ -79,9 +77,14 @@
       "error": "Timeout"
     },
     {
+      "site": "KVS",
+      "url": "https://kvsangathan.nic.in/",
+      "error": "Timeout"
+    },
+    {
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
-      "error": ""
+      "error": "Timeout"
     },
     {
       "site": "UGC NET",
@@ -131,11 +134,6 @@
     {
       "site": "HPSC",
       "url": "https://www.hpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "JPSC",
-      "url": "https://www.jpsc.gov.in/",
       "error": "Timeout"
     },
     {
