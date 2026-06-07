@@ -225,41 +225,64 @@ async function checkHTML(siteId, name, url, tracker) {
       .replace(/\b\d{10,13}\b/g, '')  // timestamps
       .replace(/[a-f0-9]{32,}/gi, '') // session hashes
       .replace(/\s+/g, ' ');
-    
-    // Extract PDF links as full URLs (not just href strings) so we can thread them downstream
-    const pdfUrls = [...new Set(
-      (body.match(/href=["']([^"']*\.pdf[^"']*)/gi) || [])
-        .map(m => m.replace(/href=["']/i, '').trim())
-        .map(raw => { try { return raw.startsWith('http') ? raw : new URL(raw, url).href; } catch { return null; } })
+
+    // Extract file and notice links as full URLs so we can detect new site announcements.
+    const hrefMatches = [...body.matchAll(/href=["']([^"']+)["']/gi)];
+    const rawLinks = [...new Set(hrefMatches.map(match => match[1].trim()))];
+    const noticeUrls = [...new Set(
+      rawLinks
+        .map(raw => {
+          let normalized = raw.replace(/^\s+|\s+$/g, '');
+          if (!/^https?:\/\//i.test(normalized)) {
+            try { normalized = new URL(normalized, url).href; } catch { return null; }
+          }
+          normalized = normalized.replace(/^(https?:\/\/)+/i, 'https://');
+          return normalized;
+        })
         .filter(Boolean)
+        .filter(link => !/\.(css|js|png|jpe?g|gif|svg|ico|woff2?|ttf|eot)(\?|#|$)/i.test(link))
+        .filter(link => !/\b(?:google\.com|maps\.google\.com|facebook\.com|twitter\.com|instagram\.com|linkedin\.com|youtube\.com|t\.me|wa\.me)\b/i.test(link))
+        .filter(link => /\.(pdf|zip|xlsx?|xls|docx?|doc)(\?|#|$)/i.test(link)
+          || /(?:\bnotice\b|\brecruitment\b|\bvacanc(?:y|ies)\b|\badmit\b|\bresult\b|\bapply\b|\bnotification\b|\bhall\s*ticket\b|\banswer\s*key\b|\bscorecard\b|\bcut\s*off\b|\bcorrigendum\b|\bregistration\b|\bexam\s*date\b|\blogin\b|\bregister\b|\bstatus\b|\bdownload\b)/i.test(link))
     )].sort();
+    const pdfUrls = noticeUrls.filter(link => /\.(pdf)(\?|#|$)/i.test(link));
+    const noticeHash = md5(noticeUrls.join('|'));
     const pdfHash = md5(pdfUrls.join('|'));
     const contentHash = md5(cleaned);
+    const hasNoticeKeywords = /\b(?:admit card|result|results|notification|apply online|registration|vacancy|recruitment|exam date|answer key|cut off|cutoff|merit list|scorecard|call letter|corrigendum|eligibility|exam schedule|hall ticket|answer sheet|application form|download)\b/i.test(cleaned);
 
     const prev = tracker.sites[key];
     if (!prev) {
-      console.log(`📝 ${name}: baseline (${pdfUrls.length} PDFs)`);
-    } else if (prev.pdfHash !== pdfHash) {
-      // Identify exactly which PDFs are new → thread the URL to the generator
-      const prevSet = new Set(prev.pdfs || []);
-      const newPdfs = pdfUrls.filter(p => !prevSet.has(p));
-      console.log(`🔴 ${name}: ${newPdfs.length > 0 ? newPdfs.length + ' new' : 'changed'} PDF(s)!`);
-      for (const pdfUrl of newPdfs.slice(0, 3)) {
-        console.log(`   📎 ${pdfUrl}`);
-        changes.push({ site: name, type: 'PDF_CHANGE', pdfUrl, url, detectedAt: new Date().toISOString() });
+      console.log(`📝 ${name}: baseline (${noticeUrls.length} notice links)`);
+    } else if (prev.noticeHash !== noticeHash) {
+      const prevSet = new Set(prev.noticeUrls || []);
+      const newNotices = noticeUrls.filter(p => !prevSet.has(p));
+      console.log(`🔴 ${name}: ${newNotices.length > 0 ? newNotices.length + ' new' : 'changed'} notice link(s)!`);
+      for (const noticeUrl of newNotices.slice(0, 5)) {
+        console.log(`   📎 ${noticeUrl}`);
+        changes.push({ site: name, type: 'LINK_CHANGE', noticeUrl, url, detectedAt: new Date().toISOString() });
       }
-      if (newPdfs.length === 0) {
-        // PDFs changed/removed — still flag but without specific URL
-        changes.push({ site: name, type: 'PDF_CHANGE', url, detectedAt: new Date().toISOString() });
+      if (newNotices.length === 0) {
+        changes.push({ site: name, type: 'LINK_CHANGE', url, detectedAt: new Date().toISOString() });
       }
+    } else if (prev.contentHash !== contentHash && hasNoticeKeywords) {
+      console.log(`🔴 ${name}: content changed with notice keywords`);
+      changes.push({ site: name, type: 'TEXT_NOTICE', url, detectedAt: new Date().toISOString() });
     } else if (prev.contentHash !== contentHash) {
-      console.log(`🟡 ${name}: content changed (cosmetic — no new PDFs)`);
+      console.log(`🟡 ${name}: content changed (cosmetic — no new notice links)`);
       changes.push({ site: name, type: 'CONTENT_CHANGE', url, detectedAt: new Date().toISOString() });
     } else {
       console.log(`✅ ${name}: no change`);
     }
 
-    tracker.sites[key] = { lastChecked: new Date().toISOString(), contentHash, pdfHash, pdfs: pdfUrls };
+    tracker.sites[key] = {
+      lastChecked: new Date().toISOString(),
+      contentHash,
+      noticeHash,
+      pdfHash,
+      noticeUrls,
+      pdfs: pdfUrls,
+    };
   } catch (e) {
     console.log(`❌ ${name}: ${e.message}`);
     return { changes, errors: [{ site: name, url, error: e.message }] };
