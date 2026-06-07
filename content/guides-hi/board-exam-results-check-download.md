@@ -12,6 +12,7 @@ officialLinks:
   - https://cbseresults.nic.in
   - https://results.nic.in
   - https://digilocker.gov.in
+  - https://apaar.education.gov.in/get-your-apaar
 ---
 
 ## बोर्ड परीक्षा रिजल्ट कैसे चेक करें
@@ -49,6 +50,8 @@ officialLinks:
 1. [digilocker.gov.in](https://digilocker.gov.in) पर रजिस्टर/लॉगिन करें
 2. **"Issued Documents"** में बोर्ड मार्कशीट खोजें
 3. **डिजिटल मार्कशीट** डाउनलोड करें — ओरिजिनल के समान मान्य
+
+अगर school, admission या scholarship form APAAR/ABC ID मांग रहा है, तो [APAAR ID क्या है](/hi/guide/apaar-id-guide) और [DigiLocker से APAAR ID कैसे बनाएं](/hi/guide/apaar-id-create-digilocker) पढ़ें।
 
 ### बोर्ड वेबसाइट से
 - कुछ बोर्ड वेबसाइट पर **"Download Marksheet"** विकल्प देते हैं
@@ -89,3 +92,4 @@ CBSE — आमतौर पर **मई** (12वीं) और **जुला�
 
 - [CBSE बोर्ड रिजल्ट विस्तृत गाइड](/guide/cbse-board-exam-results-check)
 - [DigiLocker डॉक्यूमेंट डाउनलोड](/guide/digilocker-documents-download)
+- [APAAR ID क्या है](/hi/guide/apaar-id-guide)

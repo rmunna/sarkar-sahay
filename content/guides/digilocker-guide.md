@@ -23,6 +23,7 @@ officialLinks:
   - 'https://www.digilocker.gov.in'
   - 'https://digilocker.gov.in'
   - 'https://abc.gov.in'
+  - 'https://apaar.education.gov.in/get-your-apaar'
   - 'https://play.google.com/store/apps/details?id=com.digilocker.android'
 ---
 
@@ -113,7 +114,9 @@ DigiLocker connects with **2,300+ issuing organisations**. Here are the most com
 - **CBSE Class 10 & 12 Marksheets and Certificates** — CBSE
 - **Degree Certificates** — Various universities (UGC-recognised)
 - **Diploma Certificates** — State technical boards
-- **ABC (Academic Bank of Credits)** — Academic transcripts
+- **APAAR ID / ABC (Academic Bank of Credits)** — student academic identity and academic credit records
+
+If you are a student, also read: [APAAR ID Guide](/guide/apaar-id-guide), [Download APAAR ID from DigiLocker](/guide/apaar-id-download-digilocker), and [APAAR ID Not Showing in DigiLocker](/guide/apaar-id-not-showing-digilocker-fix).
 
 ### Health Documents
 - **CoWIN Vaccination Certificate** — Ministry of Health

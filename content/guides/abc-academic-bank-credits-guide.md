@@ -1,8 +1,8 @@
 ---
-title: "Academic Bank of Credits (ABC): How to Create Account & Store Credits"
+title: "Academic Bank of Credits (ABC) 2026 - APAAR ID, DigiLocker Login & Credits"
 description: >-
   Complete guide to creating an Academic Bank of Credits (ABC) account via
-  DigiLocker. Learn about ABC ID, credit accumulation, transfer, and benefits.
+  DigiLocker. Learn about APAAR ID, credit accumulation, transfer, and benefits.
 category: Jobs & Exams
 keywords:
   - academic bank of credits
@@ -15,18 +15,24 @@ keywords:
   - credit accumulation abc
   - abc portal login
   - multiple entry exit abc
+  - APAAR ID
 readingTime: 8 min
-lastUpdated: "2026-03-06"
+lastUpdated: "2026-06-07"
 officialLinks:
   - 'https://www.abc.gov.in/'
+  - 'https://apaar.education.gov.in/get-your-apaar'
   - 'https://www.digilocker.gov.in/'
   - 'https://www.ugc.gov.in/'
   - 'https://www.education.gov.in/'
 ---
 
-# Academic Bank of Credits (ABC): How to Create Account & Store Credits
+# Academic Bank of Credits (ABC): APAAR ID, DigiLocker Login and Credits
 
-The Academic Bank of Credits (ABC) is a flagship initiative under the National Education Policy (NEP) 2020. It is a digital storehouse that holds academic credits earned by students from any registered higher education institution in India. ABC allows students to accumulate, store, and transfer credits seamlessly — enabling multi-disciplinary learning and multiple entry-exit options.
+**Quick answer:** Academic Bank of Credits (ABC) is the platform for academic credit storage and transfer. APAAR ID is the learner identity used in the ABC ecosystem, and DigiLocker is used for student login/authentication and issued documents. If your college asks for "ABC ID", confirm whether it means your APAAR/ABC learner ID from the official ABC-DigiLocker flow.
+
+The Academic Bank of Credits (ABC) is a flagship initiative under the National Education Policy (NEP) 2020. It is a digital storehouse that holds academic credits earned by students from registered institutions. ABC allows students to accumulate, store, and transfer credits for flexible academic progression.
+
+> **Verified on 7 June 2026:** The official ABC portal says student login/register uses DigiLocker, APAAR ID is integrated with ABC, and ABC uses APAAR ID to track and manage academic credits.
 
 ## What is the Academic Bank of Credits?
 
@@ -39,12 +45,14 @@ ABC is a virtual bank established by the Ministry of Education, Government of In
 
 ABC is registered under the Companies Act and operates as a national-level facility.
 
+Related explainer: [APAAR ID vs ABC ID vs DigiLocker](/guide/apaar-vs-abc-id-digilocker-difference).
+
 ---
 
 ## Who is Eligible?
 
 - Any student currently enrolled in a higher education institution in India
-- The institution must be registered with ABC (most UGC-recognised universities are registered)
+- The institution or awarding body must be available in the ABC ecosystem for credit records to appear
 - Students of all levels — UG, PG, diploma, certificate, and doctoral programmes
 - No age limit for creating an ABC account
 
@@ -75,15 +83,17 @@ ABC is registered under the Companies Act and operates as a national-level facil
    - Select current academic year
 7. **Verify your identity** via Aadhaar OTP
 8. **Submit the registration form**
-9. Your **ABC ID** will be generated and displayed on screen
+9. Your APAAR/ABC learner ID will be generated or displayed if your record is matched
 10. You will receive a confirmation SMS and email
 
-### Getting Your ABC ID
+### Getting Your APAAR / ABC Learner ID
 
-- Your ABC ID is a **12-digit unique identification number**
-- It is linked to your Aadhaar and DigiLocker
-- You can find your ABC ID by logging into [abc.gov.in](https://www.abc.gov.in/) anytime
-- Share this ABC ID with your institution for credit deposits
+- The official APAAR FAQ describes APAAR ID as a unique 12-digit code.
+- ABC uses APAAR ID as the learner identity for academic credit management.
+- You can find it through the official ABC/DigiLocker flow.
+- Share this learner ID with your institution only when required.
+
+Detailed guide: [Create APAAR ID Through DigiLocker](/guide/apaar-id-create-digilocker-students).
 
 ---
 
@@ -95,7 +105,7 @@ ABC is registered under the Companies Act and operates as a national-level facil
 | Credit Storage | Credits are stored securely in your ABC account |
 | Credit Transfer | Credits can be transferred when you change institutions |
 | Credit Redemption | Accumulated credits are redeemed for degree/diploma |
-| Validity | Credits remain valid for up to **7 years** for redemption |
+| Validity | Credit validity and redemption rules depend on current UGC/institution rules |
 
 ### Credit Transfer Between Universities
 
@@ -107,7 +117,7 @@ ABC is registered under the Companies Act and operates as a national-level facil
 6. The receiving institution verifies and accepts the credits
 7. Transferred credits reflect in your ABC account under the new institution
 
-**Note:** Both the source and destination institutions must be registered with ABC.
+**Note:** Both the source and destination institutions must support the relevant ABC/credit-transfer workflow. Confirm with the institutions before planning a transfer.
 
 ---
 
@@ -151,8 +161,8 @@ There are no charges for creating or maintaining an ABC account.
 1. **Keep your Aadhaar mobile number active** — it is required for DigiLocker and ABC login
 2. **Share your ABC ID with your college** so they can deposit your credits correctly
 3. **Check your ABC account regularly** to ensure credits are deposited after each semester
-4. **Credits are valid for 7 years** — plan your re-entry within this period if you take a break
-5. **Both institutions must be ABC-registered** for credit transfer to work
+4. **Use exact roll/enrolment format** — slashes, hyphens and leading zeroes can matter
+5. **Confirm institution support** before relying on credit transfer
 
 ---
 
@@ -160,15 +170,15 @@ There are no charges for creating or maintaining an ABC account.
 
 ### Q1: Is ABC account mandatory for all students?
 
-ABC account creation is being progressively made mandatory for students in UGC-recognised institutions. Many universities now require ABC ID at the time of admission. Check with your institution.
+Many institutions ask students for APAAR/ABC learner details during admission or credit workflows. Check your institution's current instruction before assuming it is required for your course.
 
 ### Q2: Can I create an ABC account without Aadhaar?
 
-No, Aadhaar is mandatory as ABC registration is done through DigiLocker, which requires Aadhaar verification.
+The official ABC student route uses DigiLocker authentication. Check the current DigiLocker/ABC login requirements on the official portal.
 
 ### Q3: What happens to my credits if I drop out?
 
-Your credits remain stored in your ABC account for up to 7 years. You can rejoin the same or a different institution and redeem those credits towards a degree.
+Your credits remain visible according to the credit records uploaded by institutions and the applicable academic rules. Confirm redemption/validity rules with your university or current UGC framework.
 
 ### Q4: Can I earn credits from multiple institutions simultaneously?
 
@@ -177,6 +187,10 @@ Yes, ABC supports multi-disciplinary and multi-institutional learning. You can a
 ### Q5: Is ABC the same as DigiLocker?
 
 No. DigiLocker is a digital document storage platform. ABC is specifically for academic credits. However, ABC uses DigiLocker for identity verification and login.
+
+### Q8: Is ABC ID the same as APAAR ID?
+
+The current official ABC ecosystem describes APAAR ID as the learner identity used by ABC. Many students still call it ABC ID because they access it through the ABC portal.
 
 ### Q6: How do I check if my university is registered with ABC?
 

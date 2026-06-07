@@ -15,6 +15,7 @@ officialLinks:
   - https://www.digilocker.gov.in
   - https://digilocker.gov.in
   - https://abc.gov.in
+  - https://apaar.education.gov.in/get-your-apaar
 ---
 
 # DigiLocker कैसे इस्तेमाल करें — सरकारी दस्तावेज़ ऑनलाइन रखें
@@ -79,6 +80,7 @@ DigiLocker **इलेक्ट्रॉनिक्स और सूचना �
 | Transport | ड्राइविंग लाइसेंस, Vehicle RC |
 | CBSE | मार्कशीट, सर्टिफ़िकेट |
 | UGC | डिग्री वेरिफ़िकेशन |
+| APAAR/ABC | छात्र academic identity और credits |
 | Insurance | पॉलिसी दस्तावेज़ |
 
 ---
@@ -88,6 +90,7 @@ DigiLocker **इलेक्ट्रॉनिक्स और सूचना �
 - **ट्रैफ़िक पुलिस** को DL दिखाना — डिजिटल DL मान्य है
 - **बैंक KYC** — DigiLocker दस्तावेज़ स्वीकार होते हैं
 - **परीक्षा प्रवेश** — मार्कशीट/सर्टिफ़िकेट
+- **APAAR ID** — student academic identity card और ABC learner records
 - **नौकरी आवेदन** — दस्तावेज़ सत्यापन
 - **सरकारी योजनाएँ** — पहचान प्रमाण
 
@@ -108,6 +111,9 @@ DigiLocker **इलेक्ट्रॉनिक्स और सूचना �
 
 ## संबंधित गाइड
 
+- [APAAR ID क्या है](/hi/guide/apaar-id-guide)
+- [DigiLocker से APAAR ID कैसे बनाएं](/hi/guide/apaar-id-create-digilocker)
+- [APAAR ID DigiLocker में नहीं दिख रहा](/hi/guide/apaar-id-not-showing-digilocker-fix)
 - [आधार मोबाइल अपडेट](/guide/aadhaar-update-mobile-email)
 - [PAN कार्ड ऑनलाइन आवेदन](/guide/pan-card-apply-online)
 - [ड्राइविंग लाइसेंस आवेदन](/guide/driving-license-apply-online)

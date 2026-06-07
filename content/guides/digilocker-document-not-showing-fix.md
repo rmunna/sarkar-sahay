@@ -16,6 +16,8 @@ lastUpdated: "2026-03-05"
 officialLinks:
   - https://www.digilocker.gov.in
   - https://partners.digilocker.gov.in
+  - https://apaar.education.gov.in/get-your-apaar
+  - https://www.abc.gov.in/
   - https://cbse.gov.in
 ---
 
@@ -93,6 +95,15 @@ If the document should be available but isn't:
 4. For university documents, contact the examination department
 
 ## Specific Document Fixes
+
+### APAAR ID Not Showing
+
+APAAR ID appears only after it is generated and pushed to the student's DigiLocker account. For school students, ask the school to check the UDISE+ APAAR module and PEN mapping. For college or skill learners, check the ABC portal through DigiLocker and confirm institution, admission year and roll/enrolment details.
+
+Use these detailed guides:
+- [APAAR ID Not Showing in DigiLocker](/guide/apaar-id-not-showing-digilocker-fix)
+- [Download APAAR ID from DigiLocker](/guide/apaar-id-download-digilocker)
+- [APAAR Aadhaar Name Mismatch Fix](/guide/apaar-id-aadhaar-name-mismatch-fix)
 
 ### CBSE Marksheets Not Showing
 
