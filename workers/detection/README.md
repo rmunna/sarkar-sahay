@@ -36,17 +36,17 @@ It does **not** treat whole-page text changes as actionable. Each source extract
 | --- | --- | --- | --- |
 | SSC | 1 | Structured JSON API | Strong |
 | NTA | 1 | Notice PDF timestamp parser | Strong |
-| UPSC | 1 | Official link extraction | Medium; needs custom table parser |
-| KEA | 1 | Official link extraction | Medium; needs custom notice-block parser |
+| UPSC | 1 | Source-specific What's New parser + official fallbacks | Strong; live Cloudflare dry-run OK |
+| KEA | 1 | Source-specific announcement parser + UGCET/PGCET fallbacks | Medium; Cloudflare edge is intermittent with 522s |
 | RRB Chandigarh | 1 | Official link extraction + CEN ID fingerprinting | Medium-strong |
 | IBPS | 1 | Official link extraction | Medium; intermittently blocks/fails from some networks |
 | SBI Careers | 1 | Official link extraction | Medium |
-| CBSE Results | 1 | Official link extraction | Medium; intermittent fetch failures |
+| CBSE Results | 1 | Source-specific result parser + official CBSE fallback | Strong; live Cloudflare dry-run OK via `cbse.gov.in` |
 | NIOS Results | 1 | Official link extraction | Medium |
 | PIB Hindi RSS | 2 | RSS | Strong for feed items |
 | RBI Notifications | 2 | RSS | Strong for feed items |
 
-Next hardening target: replace medium `official_links` sources with source-specific parsers.
+Next hardening target: KEA non-Cloudflare fallback, then source-specific parsers for IBPS, SBI and NIOS.
 
 ## Setup
 

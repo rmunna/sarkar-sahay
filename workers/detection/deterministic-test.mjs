@@ -14,6 +14,8 @@ class MemoryKV {
 }
 
 const RRB_URL = "https://www.rrbcdg.gov.in/";
+const CBSE_PRIMARY_URL = "https://results.cbse.nic.in/";
+const CBSE_FALLBACK_URL = "https://www.cbseresults.nic.in/";
 
 const baselineHtml = `
   <html>
@@ -55,6 +57,20 @@ const realNewHtml = `
   </html>
 `;
 
+const cbseFallbackHtml = `
+  <html>
+    <body>
+      <h1>Central Board of Secondary Education Examination Results 2026</h1>
+      <a href="/class_x_jj_2026_de/ClassTenth_xy_2026.htm">
+        Secondary School Examination (Class X) Results 2026 - Announced on 15th April 2026
+      </a>
+      <a href="/class_xii_2026/ClassTwelfth_2026.htm?utm_source=home">
+        Senior School Certificate Examination (Class XII) Results 2026 - Announced on 13th May 2026
+      </a>
+    </body>
+  </html>
+`;
+
 async function scan(kv, html) {
   const response = await worker.fetch(new Request("https://local.test/scan?source=rrb", {
     headers: { Authorization: "Bearer local-test" }
@@ -91,6 +107,21 @@ async function status(kv) {
   return response.json();
 }
 
+async function scanCbseWithFallback(kv) {
+  const response = await worker.fetch(new Request("https://local.test/scan?source=cbse-results", {
+    headers: { Authorization: "Bearer local-test" }
+  }), {
+    MONITOR_STATE: kv,
+    MONITOR_ADMIN_TOKEN: "local-test",
+    FIXTURE_RESPONSES: JSON.stringify({
+      [CBSE_PRIMARY_URL]: { error: "primary blocked" },
+      [CBSE_FALLBACK_URL]: cbseFallbackHtml
+    })
+  });
+  assert.equal(response.status, 200);
+  return response.json();
+}
+
 const kv = new MemoryKV();
 
 const baseline = await scan(kv, baselineHtml);
@@ -119,5 +150,13 @@ assert.equal(rrb.fingerprintCount, 1, "failed scan should preserve last good fin
 assert.equal(rrb.health, "degraded", "source with a previous success and current error is degraded");
 const recovered = await scan(kvFailure, baselineHtml);
 assert.equal(recovered.newCount, 0, "recovery after failure should not re-baseline or flood");
+
+const kvFallback = new MemoryKV();
+const cbseBaseline = await scanCbseWithFallback(kvFallback);
+assert.equal(cbseBaseline.results[0].urlUsed, CBSE_FALLBACK_URL, "CBSE should use the official fallback URL");
+assert.equal(cbseBaseline.results[0].itemCount, 2, "CBSE fallback should extract result links");
+assert.equal(cbseBaseline.newCount, 0, "fallback first scan should baseline only");
+const cbseSecond = await scanCbseWithFallback(kvFallback);
+assert.equal(cbseSecond.newCount, 0, "CBSE fallback should not duplicate unchanged result links");
 
 console.log("deterministic detection tests passed");

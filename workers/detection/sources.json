@@ -20,17 +20,25 @@
       "id": "upsc",
       "name": "UPSC",
       "tier": 1,
-      "strategy": "official_links",
-      "url": "https://upsc.gov.in/whats-new",
-      "homepage": "https://upsc.gov.in",
+      "strategy": "upsc_whats_new",
+      "url": "https://www.upsc.gov.in/",
+      "fallbackUrls": [
+        "https://upsc.gov.in/whats-new",
+        "https://www.upsc.gov.in/exams-related-info/exam-notification/archives"
+      ],
+      "homepage": "https://www.upsc.gov.in",
       "include": ["pdf", "notification", "recruitment", "result", "admit", "exam", "written", "schedule"]
     },
     {
       "id": "kea",
       "name": "KEA",
       "tier": 1,
-      "strategy": "official_links",
+      "strategy": "kea_announcements",
       "url": "https://cetonline.karnataka.gov.in/kea/",
+      "fallbackUrls": [
+        "https://cetonline.karnataka.gov.in/kea/ugcet2026",
+        "https://cetonline.karnataka.gov.in/kea/pgcet2026"
+      ],
       "homepage": "https://cetonline.karnataka.gov.in/kea/",
       "include": ["notification", "result", "admission", "counselling", "seat", "exam", "cet", "ugcet", "pgcet"]
     },
@@ -66,8 +74,14 @@
       "id": "cbse-results",
       "name": "CBSE Results",
       "tier": 1,
-      "strategy": "official_links",
+      "strategy": "cbse_results",
       "url": "https://results.cbse.nic.in/",
+      "fallbackUrls": [
+        "https://www.cbseresults.nic.in/",
+        "https://cbseresults.nic.in/",
+        "https://results.cbse.nic.in/results/",
+        "https://www.cbse.gov.in/cbsenew/cbse.html"
+      ],
       "homepage": "https://results.cbse.nic.in/",
       "include": ["result", "class", "secondary", "senior", "marksheet"]
     },

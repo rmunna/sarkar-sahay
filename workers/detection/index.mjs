@@ -156,6 +156,7 @@ async function scanAndPersist(env, options) {
         scannedAt: startedAt,
         lastSuccessAt: successfulScan ? startedAt : previous.lastSuccessAt || null,
         sourceId: source.id,
+        urlUsed: result.urlUsed || previous.urlUsed || null,
         fingerprints: successfulScan ? currentFingerprints.slice(0, 250) : previous.fingerprints || [],
         itemCount: result.items.length,
         lastGoodItemCount: successfulScan ? result.items.length : previous.lastGoodItemCount || 0,
@@ -169,6 +170,7 @@ async function scanAndPersist(env, options) {
       sourceId: source.id,
       sourceName: source.name,
       strategy: source.strategy,
+      urlUsed: result.urlUsed || null,
       itemCount: result.items.length,
       newCount: newItems.length,
       error: result.error || null
@@ -196,6 +198,10 @@ async function scanAndPersist(env, options) {
 }
 
 async function scanSource(source, env) {
+  if (usesUrlFallbacks(source)) {
+    return scanSourceWithUrlFallbacks(source, env);
+  }
+
   try {
     if (source.strategy === "ssc_api") return { items: await scanSscApi(source, env) };
     if (source.strategy === "nta_notice_pdf") return { items: await scanNta(source, env) };
@@ -204,6 +210,37 @@ async function scanSource(source, env) {
   } catch (error) {
     return { items: [], error: error.message || String(error) };
   }
+}
+
+async function scanSourceWithUrlFallbacks(source, env) {
+  const errors = [];
+  for (const url of getSourceUrls(source)) {
+    const scopedSource = { ...source, url };
+    try {
+      const items = await scanFallbackSource(scopedSource, env);
+      if (items.length > 0) return { items, urlUsed: url };
+      errors.push(`${url}: no actionable items`);
+    } catch (error) {
+      errors.push(`${url}: ${error.message || String(error)}`);
+    }
+  }
+  return { items: [], error: errors.join(" | ") || "no source URLs configured" };
+}
+
+async function scanFallbackSource(source, env) {
+  if (source.strategy === "upsc_whats_new") return scanUpscWhatsNew(source, env);
+  if (source.strategy === "kea_announcements") return scanKeaAnnouncements(source, env);
+  if (source.strategy === "cbse_results") return scanCbseResults(source, env);
+  return scanOfficialLinks(source, env);
+}
+
+function usesUrlFallbacks(source) {
+  return Array.isArray(source.fallbackUrls) && source.fallbackUrls.length > 0
+    || ["upsc_whats_new", "kea_announcements", "cbse_results"].includes(source.strategy);
+}
+
+function getSourceUrls(source) {
+  return [...new Set([source.url, ...(source.fallbackUrls || [])].filter(Boolean))];
 }
 
 async function scanSscApi(source, env) {
@@ -305,6 +342,107 @@ async function scanOfficialLinks(source, env) {
   return items.filter(Boolean).sort(sortByDateDesc).slice(0, 50);
 }
 
+async function scanUpscWhatsNew(source, env) {
+  const html = await fetchText(source.url, env);
+  const anchors = extractAnchors(html, source.url);
+  const items = [];
+  const seen = new Set();
+
+  for (const anchor of anchors) {
+    const title = anchor.title || linkLabel(anchor.url);
+    const haystack = `${title} ${anchor.url}`.toLowerCase();
+    if (seen.has(anchor.url)) continue;
+    if (isNoise(haystack)) continue;
+    if (!/(exam|notification|result|interview|schedule|admit|e-?summon|recruitment|rectt|written|marks|omr|nda|cds|civil services|capf|cse)/i.test(haystack)) continue;
+    if (!isLikelyOfficialUrl(anchor.url, source)) continue;
+
+    seen.add(anchor.url);
+    items.push(makeItem(source, {
+      id: upscId(anchor.url, title),
+      title,
+      url: anchor.url,
+      date: extractDate(title) || extractDate(anchor.url),
+      type: /\.pdf(\?|#|$)/i.test(anchor.url) ? "pdf" : "link"
+    }));
+  }
+
+  return items.filter(Boolean).sort(sortByDateDesc).slice(0, 50);
+}
+
+async function scanKeaAnnouncements(source, env) {
+  const html = await fetchText(source.url, env);
+  const anchors = extractAnchors(html, source.url);
+  const include = (source.include || KEYWORDS).map(value => value.toLowerCase());
+  const items = [];
+  const seen = new Set();
+
+  for (const anchor of anchors) {
+    const title = anchor.title || linkLabel(anchor.url);
+    const haystack = `${title} ${anchor.url}`.toLowerCase();
+    if (seen.has(anchor.url)) continue;
+    if (isNoise(haystack)) continue;
+    if (!include.some(term => haystack.includes(term))) continue;
+    if (!/(kea|cet|ugcet|pgcet|dcet|keaonline|admission|seat|allotment|rank|result|notification|counselling|counseling)/i.test(haystack)) continue;
+    if (!isLikelyOfficialUrl(anchor.url, source)) continue;
+
+    seen.add(anchor.url);
+    items.push(makeItem(source, {
+      id: keaId(anchor.url, title),
+      title,
+      url: anchor.url,
+      date: extractDate(title) || extractDate(anchor.url),
+      type: /\.pdf(\?|#|$)/i.test(anchor.url) ? "pdf" : "link"
+    }));
+  }
+
+  return items.filter(Boolean).sort(sortByDateDesc).slice(0, 50);
+}
+
+async function scanCbseResults(source, env) {
+  const html = await fetchText(source.url, env);
+  const anchors = extractAnchors(html, source.url);
+  const textItems = extractCbseResultTextItems(html, source);
+  const items = [];
+  const seen = new Set();
+  const seenIds = new Set();
+
+  for (const raw of [...anchors, ...textItems]) {
+    const title = raw.title || linkLabel(raw.url);
+    const haystack = `${title} ${raw.url}`.toLowerCase();
+    if (seen.has(`${title}|${raw.url}`)) continue;
+    if (isNoise(haystack)) continue;
+    if (!/(result|secondary|senior|class x|class 10|class xii|class 12|ctet|examination)/i.test(haystack)) continue;
+    if (!isLikelyOfficialUrl(raw.url, source)) continue;
+
+    const item = makeItem(source, {
+      id: cbseId(raw.url, title),
+      title,
+      url: raw.url,
+      date: extractDate(title) || extractDate(raw.url),
+      type: "link"
+    });
+    if (!item || seenIds.has(item.canonicalId)) continue;
+    seen.add(`${title}|${raw.url}`);
+    seenIds.add(item.canonicalId);
+    items.push(item);
+  }
+
+  return items.filter(Boolean).sort(sortByDateDesc).slice(0, 30);
+}
+
+function extractCbseResultTextItems(html, source) {
+  const text = cleanText(html).replace(/\s+/g, " ");
+  const regex = /((?:Senior School Certificate|Secondary School|CENTRAL TEACHER ELIGIBILITY TEST|CTET)[^.;|]{0,140}?(?:20\d{2})[^.;|]{0,120}?(?:Announced on [^.;|]{3,40})?)/gi;
+  const items = [];
+  let match;
+  while ((match = regex.exec(text)) !== null) {
+    const title = cleanText(match[1]);
+    if (!title) continue;
+    items.push({ title, url: source.url });
+  }
+  return items;
+}
+
 function extractAnchors(html, baseUrl) {
   const anchors = [];
   const anchorRegex = /<a\b([^>]*)>([\s\S]*?)<\/a>/gi;
@@ -378,6 +516,36 @@ function officialIdFromUrl(source, url) {
   const rrbCen = `${value} ${source.id}`.match(/\b(CEN|C\.E\.N\.?)\s*[-_/ ]?\s*(\d{1,2})\s*[-_/ ]?\s*(20\d{2})\b/i);
   if (rrbCen) return `rrb-cen:${rrbCen[2].padStart(2, "0")}-${rrbCen[3]}`;
   return null;
+}
+
+function upscId(url, title) {
+  const value = `${url} ${title}`;
+  const file = value.match(/\/([^/]+?)(?:\.pdf|$)/i);
+  if (file && /\.pdf/i.test(value)) return `upsc-file:${file[1].toLowerCase()}`;
+  const exam = value.match(/\b(NDA|CDS|CAPF|CISF|Civil Services|CSE|Engineering Services|Combined Medical Services|CMS|Geo-Scientist|IES|ISS)[^|]{0,80}?\b(20\d{2})\b/i);
+  if (exam) return `upsc:${normalizeTitleForId(exam[1])}-${exam[2]}-${classifyStage(value)}`;
+  return `upsc:${normalizeTitleForId(title)}|${canonicalizeUrl(url).toLowerCase()}`;
+}
+
+function keaId(url, title) {
+  const value = `${url} ${title}`;
+  const course = value.match(/\b(UGCET|KCET|PGCET|DCET|KEA|NEET|CET)\s*[- ]?\s*(20\d{2})?\b/i);
+  const dated = extractDate(value);
+  if (course) return `kea:${course[1].toLowerCase()}-${course[2] || dated || "current"}-${classifyStage(value)}`;
+  const file = value.match(/\/([^/]+?)(?:\.pdf|$)/i);
+  if (file && /\.pdf/i.test(value)) return `kea-file:${file[1].toLowerCase()}`;
+  return `kea:${normalizeTitleForId(title)}|${canonicalizeUrl(url).toLowerCase()}`;
+}
+
+function cbseId(url, title) {
+  const value = `${url} ${title}`;
+  const classMatch = value.match(/\b(Class\s*(XII|12|X|10)|Senior School Certificate|Secondary School|CTET)[^|]{0,80}?\b(20\d{2})\b/i);
+  if (classMatch) {
+    return `cbse-result:${normalizeTitleForId(classMatch[1])}-${classMatch[3]}`;
+  }
+  const resultPath = value.match(/\/([^/]*(?:result|class)[^/?#]*)/i);
+  if (resultPath) return `cbse-result:${normalizeTitleForId(resultPath[1])}`;
+  return `cbse:${normalizeTitleForId(title)}|${canonicalizeUrl(url).toLowerCase()}`;
 }
 
 function normalizeTitleForId(title) {
@@ -589,9 +757,10 @@ async function fetchText(url, env) {
   if (fixture !== null) return fixture;
   const response = await fetch(url, {
     headers: {
-      "User-Agent": "CitizenNest-Monitor/1.0 (+https://www.citizennest.com)",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36 CitizenNest-Monitor/1.0",
       "Accept": "text/html,application/xhtml+xml,application/xml,text/xml,*/*",
-      "Accept-Language": "en-IN,en;q=0.9,hi;q=0.8"
+      "Accept-Language": "en-IN,en;q=0.9,hi;q=0.8",
+      "Referer": "https://www.citizennest.com/"
     }
   });
   if (!response.ok) throw new Error(`HTTP ${response.status} ${url}`);
@@ -603,8 +772,10 @@ async function fetchJson(url, env) {
   if (fixture !== null) return JSON.parse(fixture);
   const response = await fetch(url, {
     headers: {
-      "User-Agent": "CitizenNest-Monitor/1.0 (+https://www.citizennest.com)",
-      "Accept": "application/json,*/*"
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36 CitizenNest-Monitor/1.0",
+      "Accept": "application/json,*/*",
+      "Accept-Language": "en-IN,en;q=0.9,hi;q=0.8",
+      "Referer": "https://www.citizennest.com/"
     }
   });
   if (!response.ok) throw new Error(`HTTP ${response.status} ${url}`);
