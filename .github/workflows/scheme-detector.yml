@@ -10,8 +10,10 @@ name: Scheme Detector — PIB RSS → Auto-Generate Guides
 # Scheme guides are indexed and published silently.
 
 on:
-  schedule:
-    - cron: '30 3 * * *'   # 9:00 AM IST daily
+  repository_dispatch:
+    types: [cloudflare_scheme_batch]
+  # Scheduled scheme polling is moving to Cloudflare official-feed detection.
+  # Keep manual dispatch as a fallback while the Cloudflare handoff is expanded.
   workflow_dispatch:
     inputs:
       dry_run:
@@ -63,8 +65,51 @@ jobs:
 
       - name: Scan PIB RSS feeds
         id: pib_scan
+        env:
+          DISPATCH_PAYLOAD: ${{ toJson(github.event.client_payload) }}
         run: |
-          node agents/pib-scanner.js
+          if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+            node <<'JS'
+            const fs = require('fs');
+            const payload = JSON.parse(process.env.DISPATCH_PAYLOAD || '{}');
+            const detections = payload.detections || [];
+            const categoryMap = {
+              scheme: 'NEW_SCHEME_OR_LAUNCH',
+              'policy-change': 'POLICY_CHANGE',
+              'digital-service': 'DIGITAL_SERVICE'
+            };
+            const items = detections.map(d => {
+              const text = `${d.title || ''} ${d.url || ''}`.toLowerCase();
+              let category = 'DIGITAL_SERVICE';
+              if (/scheme|yojana|subsidy|beneficiary|dbt|pension|scholarship|loan|insurance|awas|ayushman|ujjwala|mudra|kisan|pm[- ]?surya|solar|आवास|किसान|योजना|सब्सिडी|पेंशन/.test(text)) {
+                category = 'NEW_SCHEME_OR_LAUNCH';
+              } else if (/deadline|extended|revised|amendment|guidelines|new rules|fee|charges|tax|last date|registration|अंतिम तिथि|विस्तार|संशोधित|शुल्क/.test(text)) {
+                category = 'POLICY_CHANGE';
+              }
+              return {
+                title: d.title,
+                link: d.url,
+                description: d.title,
+                source: d.sourceId,
+                sourceName: d.sourceName || 'Official feed',
+                lang: d.sourceId === 'pib' ? 'hi' : 'en',
+                category: categoryMap[d.category] || category
+              };
+            });
+            fs.mkdirSync('agents', { recursive: true });
+            fs.writeFileSync('agents/pib-latest.json', JSON.stringify({
+              scanTime: new Date().toISOString(),
+              totalItems: detections.length,
+              newItems: detections.length,
+              relevantItems: items.length,
+              items
+            }, null, 2));
+            fs.writeFileSync('agents/.cloudflare-detection-fingerprints', detections.map(d => d.fingerprint).filter(Boolean).join('\n'));
+            console.log(`Cloudflare scheme detections: ${items.length}`);
+            JS
+          else
+            node agents/pib-scanner.js
+          fi
 
           # Count scheme-type items (NEW_SCHEME_OR_LAUNCH + POLICY_CHANGE)
           SCHEME_COUNT=$(node -e "
@@ -250,3 +295,38 @@ jobs:
           echo "| New scheme guides generated | ${{ steps.commit.outputs.new_count || 0 }} |" >> $GITHUB_STEP_SUMMARY
           echo "| Telegram notification | ❌ Not sent (Jobs & Exams only) |" >> $GITHUB_STEP_SUMMARY
           echo "| Run time (UTC) | $(date -u) |" >> $GITHUB_STEP_SUMMARY
+
+      - name: Mark Cloudflare scheme detections processed
+        if: always() && github.event_name == 'repository_dispatch'
+        env:
+          CF_MONITOR_ADMIN_TOKEN: ${{ secrets.CF_MONITOR_ADMIN_TOKEN }}
+          MONITOR_URL: https://citizennest-detection.citizennest.workers.dev
+        run: |
+          [ -z "$CF_MONITOR_ADMIN_TOKEN" ] && { echo "CF_MONITOR_ADMIN_TOKEN not set; skipping monitor status update"; exit 0; }
+          export STATUS=$([ "${{ steps.commit.outputs.new_count || 0 }}" -gt 0 ] && echo "generated" || echo "generation_skipped")
+          node <<'JS'
+          const fs = require('fs');
+          const https = require('https');
+          const fingerprints = fs.existsSync('agents/.cloudflare-detection-fingerprints')
+            ? fs.readFileSync('agents/.cloudflare-detection-fingerprints', 'utf8').split('\n').filter(Boolean)
+            : [];
+          if (fingerprints.length === 0) process.exit(0);
+          const body = JSON.stringify({
+            fingerprints,
+            status: process.env.STATUS,
+            runUrl: `https://github.com/${process.env.GITHUB_REPOSITORY}/actions/runs/${process.env.GITHUB_RUN_ID}`
+          });
+          const req = https.request(`${process.env.MONITOR_URL}/detections/mark`, {
+            method: 'POST',
+            headers: {
+              'Authorization': `Bearer ${process.env.CF_MONITOR_ADMIN_TOKEN}`,
+              'Content-Type': 'application/json',
+              'Content-Length': Buffer.byteLength(body)
+            }
+          }, res => {
+            res.resume();
+            res.on('end', () => console.log(`Monitor status update: HTTP ${res.statusCode}`));
+          });
+          req.on('error', err => console.log(`Monitor status update failed: ${err.message}`));
+          req.end(body);
+          JS

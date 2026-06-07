@@ -4,10 +4,11 @@ const STATE_PREFIX = "source:";
 const DETECTION_PREFIX = "detection:";
 const PROCESS_PREFIX = "process:";
 const RECENT_KEY = "detections:recent";
-const DEFAULT_TIER = 1;
+const DEFAULT_TIER = 2;
 const MAX_RECENT = 100;
 const DEFAULT_MIN_DISPATCH_CONFIDENCE = 0.75;
 const HEALTH_STALE_MINUTES = 45;
+const FINGERPRINT_SCHEMA_VERSION = "2026-06-08.1";
 
 const KEYWORDS = [
   "notice", "notification", "result", "admit", "hall ticket", "answer key",
@@ -32,6 +33,15 @@ const STAGE_PATTERNS = [
   ["cutoff", /\b(cut off|cutoff|cut-off)\b/i]
 ];
 
+const OPPORTUNITY_CATEGORIES = [
+  ["scheme", /\b(scheme|yojana|subsidy|beneficiary|dbt|pension|scholarship|loan|insurance|awas|ayushman|ujjwala|mudra|kisan|pm[- ]?surya|solar|apaar|abha|my bharat)\b|योजना|सब्सिडी|पेंशन|छात्रवृत्ति|ऋण|बीमा|किसान|आवास|आयुष्मान|उज्ज्वला/i],
+  ["policy-change", /\b(deadline|extended|revised|amendment|guidelines|new rules|fee|charges|tax|last date|registration)\b|अंतिम तिथि|विस्तार|संशोधित|अधिसूचना|शुल्क|नए नियम/i],
+  ["digital-service", /\b(portal|app|digital|online|registration|login|download|certificate|locker|health locker|id)\b|पोर्टल|ऐप|डिजिटल|ऑनलाइन|पंजीकरण|प्रमाण पत्र/i],
+  ["exam-jobs", /\b(recruitment|vacancy|exam|result|admit card|answer key|notification)\b|भर्ती|रिक्ति|परीक्षा|परिणाम|प्रवेश पत्र/i]
+];
+
+const OPPORTUNITY_SKIP = /\b(tender|auction|annual report|conference|webinar|condolence|greetings|statistical supplement|monetary penalty|co-operative bank|treasury bill|government securities)\b|शोक|बधाई|सम्मेलन/i;
+
 export default {
   async scheduled(_event, env, ctx) {
     ctx.waitUntil(scanAndPersist(env, { tier: DEFAULT_TIER, dryRun: false, sourceId: null }));
@@ -53,6 +63,16 @@ export default {
         return json({ ok: false, error: "Unauthorized" }, 401);
       }
       const result = await scanAndPersist(env, { tier, dryRun, sourceId });
+      return json(result);
+    }
+
+    if (pathname === "/opportunities") {
+      const tier = Number(url.searchParams.get("tier") || 2);
+      const dryRun = url.searchParams.get("dryRun") === "1" || url.searchParams.get("dryRun") === "true";
+      if (!dryRun && !isAuthorized(request, env)) {
+        return json({ ok: false, error: "Unauthorized" }, 401);
+      }
+      const result = await scanOpportunities(env, { tier, dryRun });
       return json(result);
     }
 
@@ -132,9 +152,11 @@ async function scanAndPersist(env, options) {
     const scanStarted = Date.now();
     const result = await scanSource(source, env);
     const previous = await readSourceState(state, source.id);
-    const previousFingerprints = new Set(previous.fingerprints || []);
+    const schemaChanged = previous.scannedAt
+      && previous.fingerprintSchemaVersion !== FINGERPRINT_SCHEMA_VERSION;
+    const previousFingerprints = new Set(schemaChanged ? [] : previous.fingerprints || []);
     const currentFingerprints = result.items.map(item => item.fingerprint);
-    const hasComparableBaseline = previous.scannedAt && previousFingerprints.size > 0;
+    const hasComparableBaseline = !schemaChanged && previous.scannedAt && previousFingerprints.size > 0;
     const newItems = hasComparableBaseline
       ? result.items.filter(item => !previousFingerprints.has(item.fingerprint))
       : [];
@@ -156,6 +178,7 @@ async function scanAndPersist(env, options) {
         scannedAt: startedAt,
         lastSuccessAt: successfulScan ? startedAt : previous.lastSuccessAt || null,
         sourceId: source.id,
+        fingerprintSchemaVersion: FINGERPRINT_SCHEMA_VERSION,
         urlUsed: result.urlUsed || previous.urlUsed || null,
         fingerprints: successfulScan ? currentFingerprints.slice(0, 250) : previous.fingerprints || [],
         itemCount: result.items.length,
@@ -173,6 +196,7 @@ async function scanAndPersist(env, options) {
       urlUsed: result.urlUsed || null,
       itemCount: result.items.length,
       newCount: newItems.length,
+      schemaChanged: Boolean(schemaChanged),
       error: result.error || null
     });
   }
@@ -182,7 +206,7 @@ async function scanAndPersist(env, options) {
     const claimed = await claimDetectionsForGeneration(env, detections);
     if (claimed.length > 0) {
       await notifyWebhook(env, claimed);
-      await dispatchToGitHub(env, claimed);
+      await dispatchClaimedDetections(env, claimed);
     }
   }
 
@@ -195,6 +219,144 @@ async function scanAndPersist(env, options) {
     results,
     detections
   };
+}
+
+async function scanOpportunities(env, options) {
+  const startedAt = new Date().toISOString();
+  const feedSources = config.sources.filter(source =>
+    Number(source.tier || 99) <= options.tier &&
+    source.strategy === "rss"
+  );
+  const items = [];
+  const results = [];
+
+  for (const source of feedSources) {
+    const result = await scanSource(source, env);
+    const opportunities = result.items
+      .map(item => scoreOpportunity(source, item))
+      .filter(Boolean);
+    items.push(...opportunities);
+    results.push({
+      sourceId: source.id,
+      sourceName: source.name,
+      itemCount: result.items.length,
+      opportunityCount: opportunities.length,
+      error: result.error || null
+    });
+  }
+
+  const clusters = clusterOpportunities(items)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 40);
+
+  return {
+    ok: true,
+    dryRun: options.dryRun,
+    scannedAt: startedAt,
+    sourceCount: feedSources.length,
+    opportunityCount: items.length,
+    clusterCount: clusters.length,
+    results,
+    clusters
+  };
+}
+
+function scoreOpportunity(source, item) {
+  const text = `${item.title} ${item.url}`.toLowerCase();
+  if (OPPORTUNITY_SKIP.test(text)) return null;
+
+  const category = classifyOpportunity(text);
+  if (!category) return null;
+
+  const freshness = freshnessScore(item.date);
+  const sourceWeight = source.id === "pib" ? 35
+    : source.id.startsWith("rbi") ? 25
+    : source.tier === 1 ? 30
+    : 15;
+  const actionability = /\b(apply|registration|deadline|last date|portal|download|result|admit|beneficiary|subsidy|guidelines)\b|आवेदन|पंजीकरण|अंतिम तिथि|पोर्टल|डाउनलोड/i.test(text) ? 25 : 10;
+  const specificity = extractOpportunityTerms(text).length >= 2 ? 15 : 5;
+  const score = sourceWeight + freshness + actionability + specificity;
+  const terms = extractOpportunityTerms(text);
+  if (terms.length === 0) return null;
+
+  return {
+    sourceId: source.id,
+    sourceName: source.name,
+    title: item.title,
+    url: item.url,
+    date: item.date,
+    category,
+    terms,
+    score,
+    fingerprint: item.fingerprint
+  };
+}
+
+function classifyOpportunity(text) {
+  for (const [category, pattern] of OPPORTUNITY_CATEGORIES) {
+    if (pattern.test(text)) return category;
+  }
+  return null;
+}
+
+function freshnessScore(date) {
+  if (!date) return 10;
+  const ageDays = Math.max(0, Math.floor((Date.now() - Date.parse(date)) / 86400000));
+  if (ageDays <= 1) return 30;
+  if (ageDays <= 7) return 22;
+  if (ageDays <= 30) return 12;
+  return 4;
+}
+
+function extractOpportunityTerms(text) {
+  const normalized = String(text || "").toLowerCase();
+  const dictionary = [
+    ["apaar", /\bapaar\b|अपार/i],
+    ["pm surya", /\bpm[- ]?surya|surya ghar|सूर्य घर|सौर/i],
+    ["abha", /\babha\b|health locker|आभा|स्वास्थ्य/i],
+    ["my bharat", /\bmy bharat\b|युवा|nyps/i],
+    ["ayushman", /\bayushman\b|आयुष्मान/i],
+    ["ujjwala", /\bujjwala\b|उज्ज्वला/i],
+    ["pm kisan", /\bpm[- ]?kisan\b|किसान/i],
+    ["mudra", /\bmudra\b|मुद्रा/i],
+    ["pm awas", /\bpmay\b|pm awas|आवास/i],
+    ["scholarship", /\bscholarship\b|छात्रवृत्ति/i],
+    ["pension", /\bpension\b|पेंशन/i],
+    ["ration", /\bration\b|राशन/i],
+    ["aadhaar", /\baadhaar\b|आधार/i],
+    ["pan", /\bpan\b|पैन/i],
+    ["epfo", /\bepfo\b|ईपीएफ/i],
+    ["upi", /\bupi\b|यूपीआई/i],
+    ["rbi", /\brbi\b|reserve bank/i],
+    ["solar", /\bsolar\b|सौर/i],
+    ["dbt", /\bdbt\b|direct benefit|डीबीटी/i],
+    ["portal", /\bportal\b|पोर्टल/i],
+    ["registration", /\bregistration\b|पंजीकरण/i]
+  ];
+  return dictionary.filter(([, pattern]) => pattern.test(normalized)).map(([term]) => term).slice(0, 8);
+}
+
+function clusterOpportunities(items) {
+  const clusters = new Map();
+  for (const item of items) {
+    const key = item.terms[0] || normalizeTitleForId(item.title).split("-").slice(0, 4).join("-");
+    if (!clusters.has(key)) {
+      clusters.set(key, {
+        key,
+        category: item.category,
+        score: 0,
+        sources: [],
+        terms: [],
+        items: []
+      });
+    }
+    const cluster = clusters.get(key);
+    cluster.items.push(item);
+    cluster.sources = [...new Set([...cluster.sources, item.sourceId])];
+    cluster.terms = [...new Set([...cluster.terms, ...item.terms])].slice(0, 10);
+    cluster.score = Math.max(cluster.score, item.score) + Math.min(20, cluster.sources.length * 5);
+  }
+  return [...clusters.values()];
 }
 
 async function scanSource(source, env) {
@@ -473,6 +635,7 @@ function makeItem(source, raw) {
     type: raw.type || "item",
     stage,
     canonicalId,
+    fingerprintSchemaVersion: FINGERPRINT_SCHEMA_VERSION,
     confidence: confidenceFor(raw, title, url),
     fingerprint: sha256HexSync(fingerprintBase)
   };
@@ -605,6 +768,10 @@ async function claimDetectionsForGeneration(env, detections) {
 async function dispatchToGitHub(env, detections) {
   if (!env.GITHUB_DISPATCH_TOKEN || !env.GITHUB_REPO) return;
 
+  const eventType = detections.every(isSchemeDetection)
+    ? "cloudflare_scheme_batch"
+    : "cloudflare_detection_batch";
+
   const response = await fetch(`https://api.github.com/repos/${env.GITHUB_REPO}/dispatches`, {
     method: "POST",
     headers: {
@@ -614,7 +781,7 @@ async function dispatchToGitHub(env, detections) {
       "User-Agent": "CitizenNest-Monitor/1.0"
     },
     body: JSON.stringify({
-      event_type: "cloudflare_detection_batch",
+      event_type: eventType,
       client_payload: {
         source: "cloudflare-worker",
         detectedAt: new Date().toISOString(),
@@ -629,6 +796,19 @@ async function dispatchToGitHub(env, detections) {
     githubStatus: response.status,
     details: details?.slice(0, 500)
   });
+}
+
+async function dispatchClaimedDetections(env, detections) {
+  const scheme = detections.filter(isSchemeDetection);
+  const exam = detections.filter(detection => !isSchemeDetection(detection));
+  if (scheme.length > 0) await dispatchToGitHub(env, scheme);
+  if (exam.length > 0) await dispatchToGitHub(env, exam);
+}
+
+function isSchemeDetection(detection) {
+  if (!["pib", "rbi-notifications"].includes(detection.sourceId)) return false;
+  const category = classifyOpportunity(`${detection.title} ${detection.url}`.toLowerCase());
+  return ["scheme", "policy-change", "digital-service"].includes(category);
 }
 
 async function notifyWebhook(env, detections) {

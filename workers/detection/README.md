@@ -154,10 +154,26 @@ curl -H "Authorization: Bearer $MONITOR_ADMIN_TOKEN" \
   "https://citizennest-detection.citizennest.workers.dev/detections/status?fingerprints=abc123"
 ```
 
+Opportunity clusters without pytrends:
+
+```bash
+curl "https://citizennest-detection.citizennest.workers.dev/opportunities?tier=2&dryRun=1"
+```
+
+This does not estimate Google search volume. It scores emerging topics from official evidence:
+
+- fresh official RSS/notices
+- source importance
+- actionability words like apply, deadline, portal, subsidy, result
+- repeated entities such as APAAR, PM Surya Ghar, ABHA, MY Bharat, Ayushman, SSC, CBSE
+- cross-source clustering when the same term appears from multiple official feeds
+
+Use this as an early opportunity radar. Generation should still require an official source URL and the same quality gates as exam/scheme pages.
+
 ## Generation Flow
 
 1. Cloudflare scans every 10 minutes.
-2. First successful scan for a source stores a baseline and generates no pages.
+2. First successful scan for a source stores a baseline and generates no pages. If `fingerprintSchemaVersion` changes after parser work, the next successful scan also baselines instead of dispatching old inventory.
 3. A later unseen fingerprint is stored as a detection.
 4. Detections below `MIN_DISPATCH_CONFIDENCE` are held and not sent to Gemini.
 5. High-confidence detections are marked `queued`, then dispatched to GitHub once.

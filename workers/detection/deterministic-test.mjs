@@ -16,6 +16,7 @@ class MemoryKV {
 const RRB_URL = "https://www.rrbcdg.gov.in/";
 const CBSE_PRIMARY_URL = "https://results.cbse.nic.in/";
 const CBSE_FALLBACK_URL = "https://www.cbseresults.nic.in/";
+const PIB_RSS_URL = "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=2&Regid=3";
 
 const baselineHtml = `
   <html>
@@ -71,6 +72,23 @@ const cbseFallbackHtml = `
   </html>
 `;
 
+const pibRssXml = `
+  <rss><channel>
+    <item>
+      <title><![CDATA[PM Surya Ghar portal registration deadline extended for subsidy beneficiaries]]></title>
+      <link>https://pib.gov.in/PressReleasePage.aspx?PRID=12345</link>
+      <pubDate>Mon, 08 Jun 2026 10:00:00 GMT</pubDate>
+      <description><![CDATA[Citizens can apply online for rooftop solar subsidy.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Auction of Government Securities announced]]></title>
+      <link>https://pib.gov.in/PressReleasePage.aspx?PRID=12346</link>
+      <pubDate>Mon, 08 Jun 2026 11:00:00 GMT</pubDate>
+      <description><![CDATA[Market operation notice.]]></description>
+    </item>
+  </channel></rss>
+`;
+
 async function scan(kv, html) {
   const response = await worker.fetch(new Request("https://local.test/scan?source=rrb", {
     headers: { Authorization: "Bearer local-test" }
@@ -122,6 +140,16 @@ async function scanCbseWithFallback(kv) {
   return response.json();
 }
 
+async function scanOpportunities(kv) {
+  const response = await worker.fetch(new Request("https://local.test/opportunities?tier=2&dryRun=1"), {
+    MONITOR_STATE: kv,
+    MONITOR_ADMIN_TOKEN: "local-test",
+    FIXTURE_RESPONSES: JSON.stringify({ [PIB_RSS_URL]: pibRssXml })
+  });
+  assert.equal(response.status, 200);
+  return response.json();
+}
+
 const kv = new MemoryKV();
 
 const baseline = await scan(kv, baselineHtml);
@@ -158,5 +186,10 @@ assert.equal(cbseBaseline.results[0].itemCount, 2, "CBSE fallback should extract
 assert.equal(cbseBaseline.newCount, 0, "fallback first scan should baseline only");
 const cbseSecond = await scanCbseWithFallback(kvFallback);
 assert.equal(cbseSecond.newCount, 0, "CBSE fallback should not duplicate unchanged result links");
+
+const opportunity = await scanOpportunities(new MemoryKV());
+assert.ok(opportunity.clusterCount >= 1, "official RSS opportunity should be clustered");
+assert.ok(opportunity.clusters.some(cluster => cluster.key === "pm surya"), "PM Surya item should become an opportunity cluster");
+assert.equal(opportunity.clusters.some(cluster => cluster.key.includes("auction")), false, "auction noise should be skipped");
 
 console.log("deterministic detection tests passed");
