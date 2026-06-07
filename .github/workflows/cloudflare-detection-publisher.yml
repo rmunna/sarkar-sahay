@@ -1,0 +1,257 @@
+name: Cloudflare Detection Publisher
+
+on:
+  repository_dispatch:
+    types: [cloudflare_detection_batch]
+  workflow_dispatch:
+    inputs:
+      detections_json:
+        description: "Optional JSON array or {detections:[...]} payload for manual testing"
+        required: false
+        default: ""
+      dry_run:
+        description: "Detect and generate without writing pages"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-from-detections:
+    name: Generate Pages From Confirmed Detections
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      SITE_URL: https://www.citizennest.com
+      MONITOR_URL: https://citizennest-detection.citizennest.workers.dev
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4.2.2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4.4.0
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --prefer-offline
+
+      - name: Write Cloudflare detections payload
+        id: payload
+        env:
+          DISPATCH_PAYLOAD: ${{ toJson(github.event.client_payload) }}
+          MANUAL_PAYLOAD: ${{ github.event.inputs.detections_json }}
+        run: |
+          node <<'JS'
+          const fs = require('fs');
+          const path = require('path');
+
+          function parseJson(value, fallback) {
+            if (!value || !value.trim()) return fallback;
+            try { return JSON.parse(value); } catch { return fallback; }
+          }
+
+          const dispatchPayload = parseJson(process.env.DISPATCH_PAYLOAD, {});
+          const manualPayload = parseJson(process.env.MANUAL_PAYLOAD, null);
+          const payload = manualPayload || dispatchPayload || {};
+          const detections = Array.isArray(payload) ? payload : (payload.detections || []);
+
+          fs.mkdirSync('agents', { recursive: true });
+          fs.writeFileSync(
+            path.join('agents', 'cloudflare-detections.json'),
+            JSON.stringify({ detections }, null, 2)
+          );
+          fs.writeFileSync(
+            path.join('agents', '.cloudflare-detection-fingerprints'),
+            detections.map(d => d.fingerprint).filter(Boolean).join('\n')
+          );
+
+          console.log(`Detections received: ${detections.length}`);
+          JS
+
+          COUNT=$(node -e "const d=require('./agents/cloudflare-detections.json'); console.log((d.detections||[]).length)")
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "has_detections=$([ "$COUNT" -gt 0 ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+
+      - name: Mark empty handoff as skipped
+        if: steps.payload.outputs.has_detections != 'true'
+        run: echo "No detections in payload"
+
+      - name: Generate update pages with Gemini
+        if: steps.payload.outputs.has_detections == 'true'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          ARGS="--cloudflare-detections --cloudflare-detections-file agents/cloudflare-detections.json"
+          [ "${{ github.event.inputs.dry_run }}" = "true" ] && ARGS="$ARGS --dry-run"
+          node scripts/generate-updates-gemini.js $ARGS
+
+      - name: Regenerate sitemap when content changed
+        if: steps.payload.outputs.has_detections == 'true'
+        run: |
+          if git status --porcelain -- content/updates | grep -q .; then
+            npx tsx scripts/generate-sitemap.ts
+          else
+            echo "No generated content files; sitemap unchanged"
+          fi
+
+      - name: Commit and push generated pages
+        id: commit
+        if: steps.payload.outputs.has_detections == 'true'
+        run: |
+          git config user.name "CitizenNest Bot"
+          git config user.email "bot@citizennest.com"
+
+          git add content/updates/ public/sitemap.xml public/sitemap-index.xml agents/source-monitors.json 2>/dev/null || true
+          NEW=$(git diff --staged --name-only -- 'content/updates/*.md' | wc -l | tr -d ' ')
+
+          if [ "$NEW" -gt 0 ]; then
+            git commit -m "content: auto-add ${NEW} Cloudflare-detected update(s) [$(TZ=Asia/Kolkata date +'%Y-%m-%d %H:%M IST')]
+
+            Source: Cloudflare detection worker
+            Safeguards: item fingerprint dedupe + official-source extraction"
+            git fetch origin main
+            git rebase origin/main
+            git push
+            echo "new_count=$NEW" >> "$GITHUB_OUTPUT"
+          else
+            git restore --staged content/updates/ public/sitemap.xml public/sitemap-index.xml agents/source-monitors.json 2>/dev/null || true
+            echo "new_count=0" >> "$GITHUB_OUTPUT"
+            echo "No new content generated; nothing pushed"
+          fi
+
+      - name: Build generated URL list
+        id: urls
+        if: steps.commit.outputs.new_count > 0
+        run: |
+          if [ -f "agents/.newly-generated-slugs" ]; then
+            while IFS= read -r slug; do
+              [ -z "$slug" ] && continue
+              echo "$SITE_URL/update/$slug" >> /tmp/generated-urls.txt
+            done < agents/.newly-generated-slugs
+          fi
+          COUNT=$(wc -l < /tmp/generated-urls.txt 2>/dev/null | tr -d ' ' || echo 0)
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "has_urls=$([ "$COUNT" -gt 0 ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+          cat /tmp/generated-urls.txt 2>/dev/null || true
+
+      - name: Wait for generated URLs to deploy
+        if: steps.urls.outputs.has_urls == 'true'
+        run: |
+          while IFS= read -r url; do
+            [ -z "$url" ] && continue
+            echo "Waiting for $url"
+            for i in $(seq 1 30); do
+              STATUS=$(curl -L -sS -o /dev/null -w '%{http_code}' "$url" || true)
+              if [ "$STATUS" = "200" ]; then
+                echo "Live: $url"
+                break
+              fi
+              if [ "$i" = "30" ]; then
+                echo "Timed out waiting for $url (last HTTP $STATUS); indexing will continue as best-effort"
+                break
+              fi
+              sleep 20
+            done
+          done < /tmp/generated-urls.txt
+
+      - name: Submit generated URLs to Google Indexing API
+        if: steps.urls.outputs.has_urls == 'true'
+        env:
+          GOOGLE_INDEXING_KEY: ${{ secrets.GOOGLE_INDEXING_KEY }}
+        run: |
+          while IFS= read -r url; do
+            [ -z "$url" ] && continue
+            node scripts/google-index-submit.js "$url" || true
+          done < /tmp/generated-urls.txt
+
+      - name: Submit generated URLs to IndexNow
+        if: steps.urls.outputs.has_urls == 'true'
+        run: |
+          URLS_JSON=$(awk '{printf "\"%s\",", $0}' /tmp/generated-urls.txt | sed 's/,$//')
+          curl -s -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json" \
+            -d "{\"host\":\"www.citizennest.com\",\"key\":\"c4afa3fbd1f57a882b7e8453af3e4f7e\",\"keyLocation\":\"https://www.citizennest.com/c4afa3fbd1f57a882b7e8453af3e4f7e.txt\",\"urlList\":[$URLS_JSON]}" \
+            && echo "IndexNow submitted" || echo "IndexNow failed"
+
+      - name: Mark Cloudflare detections generated
+        if: always() && steps.payload.outputs.has_detections == 'true'
+        env:
+          CF_MONITOR_ADMIN_TOKEN: ${{ secrets.CF_MONITOR_ADMIN_TOKEN }}
+        run: |
+          [ -z "$CF_MONITOR_ADMIN_TOKEN" ] && { echo "CF_MONITOR_ADMIN_TOKEN not set; skipping monitor status update"; exit 0; }
+          export STATUS=$([ "${{ steps.commit.outputs.new_count || 0 }}" -gt 0 ] && echo "generated" || echo "generation_skipped")
+          node <<'JS'
+          const fs = require('fs');
+          const https = require('https');
+
+          const fingerprints = fs.existsSync('agents/.cloudflare-detection-fingerprints')
+            ? fs.readFileSync('agents/.cloudflare-detection-fingerprints', 'utf8').split('\n').filter(Boolean)
+            : [];
+          const status = process.env.STATUS;
+          if (fingerprints.length === 0) process.exit(0);
+
+          const body = JSON.stringify({
+            fingerprints,
+            status,
+            runUrl: `https://github.com/${process.env.GITHUB_REPOSITORY}/actions/runs/${process.env.GITHUB_RUN_ID}`
+          });
+          const req = https.request(`${process.env.MONITOR_URL}/detections/mark`, {
+            method: 'POST',
+            headers: {
+              'Authorization': `Bearer ${process.env.CF_MONITOR_ADMIN_TOKEN}`,
+              'Content-Type': 'application/json',
+              'Content-Length': Buffer.byteLength(body)
+            }
+          }, res => {
+            res.resume();
+            res.on('end', () => console.log(`Monitor status update: HTTP ${res.statusCode}`));
+          });
+          req.on('error', err => console.log(`Monitor status update failed: ${err.message}`));
+          req.end(body);
+          JS
+
+      - name: Email page-created notification
+        if: steps.urls.outputs.has_urls == 'true'
+        env:
+          CF_MONITOR_ADMIN_TOKEN: ${{ secrets.CF_MONITOR_ADMIN_TOKEN }}
+        run: |
+          [ -z "$CF_MONITOR_ADMIN_TOKEN" ] && { echo "CF_MONITOR_ADMIN_TOKEN not set; skipping email notification"; exit 0; }
+          node <<'JS'
+          const fs = require('fs');
+          const https = require('https');
+          const urls = fs.readFileSync('/tmp/generated-urls.txt', 'utf8').split('\n').filter(Boolean);
+          const body = JSON.stringify({
+            urls,
+            runUrl: `https://github.com/${process.env.GITHUB_REPOSITORY}/actions/runs/${process.env.GITHUB_RUN_ID}`
+          });
+          const req = https.request(`${process.env.MONITOR_URL}/notify/pages-created`, {
+            method: 'POST',
+            headers: {
+              'Authorization': `Bearer ${process.env.CF_MONITOR_ADMIN_TOKEN}`,
+              'Content-Type': 'application/json',
+              'Content-Length': Buffer.byteLength(body)
+            }
+          }, res => {
+            res.resume();
+            res.on('end', () => console.log(`Email notify endpoint: HTTP ${res.statusCode}`));
+          });
+          req.on('error', err => console.log(`Email notify failed: ${err.message}`));
+          req.end(body);
+          JS
+
+      - name: Job Summary
+        if: always()
+        run: |
+          echo "## Cloudflare Detection Publisher" >> "$GITHUB_STEP_SUMMARY"
+          echo "| | |" >> "$GITHUB_STEP_SUMMARY"
+          echo "|---|---|" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Detections received | ${{ steps.payload.outputs.count || 0 }} |" >> "$GITHUB_STEP_SUMMARY"
+          echo "| New pages generated | ${{ steps.commit.outputs.new_count || 0 }} |" >> "$GITHUB_STEP_SUMMARY"
+          echo "| URLs indexed | ${{ steps.urls.outputs.count || 0 }} |" >> "$GITHUB_STEP_SUMMARY"

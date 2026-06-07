@@ -58,7 +58,7 @@
       "name": "RRB",
       "fullName": "Railway Recruitment Board",
       "url": "https://www.rrbcdg.gov.in",
-      "notificationsUrl": "https://www.rrbcdg.gov.in/public/en/page/notification",
+      "notificationsUrl": "https://www.rrbcdg.gov.in",
       "tier": 1,
       "searchQueries": [
         "RRB recruitment 2026",
@@ -143,6 +143,26 @@
         "UGC NET",
         "CSIR NET",
         "CTET"
+      ],
+      "lastScanned": "2026-06-07"
+    },
+    {
+      "id": "nios",
+      "name": "NIOS",
+      "fullName": "National Institute of Open Schooling",
+      "url": "https://results.nios.ac.in",
+      "notificationsUrl": "https://results.nios.ac.in",
+      "tier": 1,
+      "searchQueries": [
+        "NIOS result 2026",
+        "NIOS secondary result 2026",
+        "NIOS senior secondary result 2026",
+        "NIOS public exam result 2026"
+      ],
+      "exams": [
+        "Secondary",
+        "Senior Secondary",
+        "Public Examination"
       ],
       "lastScanned": "2026-06-07"
     },

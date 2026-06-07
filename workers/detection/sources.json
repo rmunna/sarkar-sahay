@@ -1,0 +1,100 @@
+{
+  "sources": [
+    {
+      "id": "ssc",
+      "name": "SSC",
+      "tier": 1,
+      "strategy": "ssc_api",
+      "url": "https://ssc.gov.in/api/general-website/portal/notice-boards?page=1&limit=20&contentType=notice-boards&key=createdAt&order=DESC&isAttachment=true&language=english&attributes=id,headline,examId,contentType,redirectUrl,startDate,endDate,language,createdAt",
+      "homepage": "https://ssc.gov.in"
+    },
+    {
+      "id": "nta",
+      "name": "NTA",
+      "tier": 1,
+      "strategy": "nta_notice_pdf",
+      "url": "https://nta.ac.in/",
+      "homepage": "https://nta.ac.in"
+    },
+    {
+      "id": "upsc",
+      "name": "UPSC",
+      "tier": 1,
+      "strategy": "official_links",
+      "url": "https://upsc.gov.in/whats-new",
+      "homepage": "https://upsc.gov.in",
+      "include": ["pdf", "notification", "recruitment", "result", "admit", "exam", "written", "schedule"]
+    },
+    {
+      "id": "kea",
+      "name": "KEA",
+      "tier": 1,
+      "strategy": "official_links",
+      "url": "https://cetonline.karnataka.gov.in/kea/",
+      "homepage": "https://cetonline.karnataka.gov.in/kea/",
+      "include": ["notification", "result", "admission", "counselling", "seat", "exam", "cet", "ugcet", "pgcet"]
+    },
+    {
+      "id": "rrb",
+      "name": "RRB Chandigarh",
+      "tier": 1,
+      "strategy": "official_links",
+      "url": "https://www.rrbcdg.gov.in/",
+      "homepage": "https://www.rrbcdg.gov.in",
+      "include": ["notification", "result", "admit", "cen", "exam", "answer", "notice", "schedule"]
+    },
+    {
+      "id": "ibps",
+      "name": "IBPS",
+      "tier": 1,
+      "strategy": "official_links",
+      "url": "https://www.ibps.in/",
+      "homepage": "https://www.ibps.in",
+      "include": ["crp", "recruitment", "result", "admit", "call-letter", "notification", "vacancy"]
+    },
+    {
+      "id": "sbi-careers",
+      "name": "SBI Careers",
+      "tier": 1,
+      "strategy": "official_links",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "homepage": "https://bank.sbi/web/careers",
+      "include": ["recruitment", "result", "admit", "notice", "clerk", "po", "specialist", "written", "interview"],
+      "exclude": ["experience", "format", "ctc", "certificate"]
+    },
+    {
+      "id": "cbse-results",
+      "name": "CBSE Results",
+      "tier": 1,
+      "strategy": "official_links",
+      "url": "https://results.cbse.nic.in/",
+      "homepage": "https://results.cbse.nic.in/",
+      "include": ["result", "class", "secondary", "senior", "marksheet"]
+    },
+    {
+      "id": "nios-results",
+      "name": "NIOS Results",
+      "tier": 1,
+      "strategy": "official_links",
+      "url": "https://results.nios.ac.in/",
+      "homepage": "https://results.nios.ac.in/",
+      "include": ["result", "secondary", "senior", "public", "exam"]
+    },
+    {
+      "id": "pib",
+      "name": "PIB Hindi RSS",
+      "tier": 2,
+      "strategy": "rss",
+      "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=2&Regid=3",
+      "homepage": "https://pib.gov.in"
+    },
+    {
+      "id": "rbi-notifications",
+      "name": "RBI Notifications",
+      "tier": 2,
+      "strategy": "rss",
+      "url": "https://rbi.org.in/notifications_rss.xml",
+      "homepage": "https://rbi.org.in"
+    }
+  ]
+}

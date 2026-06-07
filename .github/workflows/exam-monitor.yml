@@ -1,9 +1,9 @@
 name: Exam Monitor — Detect & Publish Updates
 
 on:
-  schedule:
-    # Every 30 minutes, 6AM–11PM IST (0:30–17:30 UTC)
-    - cron: '*/30 1-17 * * *'
+  # Scheduled polling moved to Cloudflare Worker:
+  # https://citizennest-detection.citizennest.workers.dev
+  # Keep manual dispatch as a fallback for sources that block Cloudflare.
   workflow_dispatch:
     inputs:
       tier:

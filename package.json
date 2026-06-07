@@ -9,7 +9,9 @@
     "lint": "next lint",
     "gen:updates": "node scripts/generate-updates-gemini.js",
     "gen:updates:dry": "node scripts/generate-updates-gemini.js --dry-run",
-    "gen:updates:force": "node scripts/generate-updates-gemini.js --force-scan"
+    "gen:updates:force": "node scripts/generate-updates-gemini.js --force-scan",
+    "monitor:cf:test": "node workers/detection/local-test.mjs",
+    "monitor:cf:deploy": "npx wrangler deploy"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.100.1",

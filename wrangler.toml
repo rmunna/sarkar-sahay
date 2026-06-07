@@ -1,0 +1,30 @@
+name = "citizennest-detection"
+main = "workers/detection/index.mjs"
+compatibility_date = "2026-06-01"
+workers_dev = true
+preview_urls = false
+
+[triggers]
+crons = ["*/10 * * * *"]
+
+[[kv_namespaces]]
+binding = "MONITOR_STATE"
+id = "9cc9201602094ba1a4bfc57fb90fe6b7"
+preview_id = "e6adb74edb514b2b8bf86331dbffc9b6"
+
+[vars]
+GITHUB_REPO = "rmunna/sarkar-sahay"
+MIN_DISPATCH_CONFIDENCE = "0.75"
+PAGE_CREATED_EMAIL_TO = "admin@citizennest.com"
+PAGE_CREATED_EMAIL_FROM = "monitor@citizennest.com"
+
+# Required secrets:
+#   npx wrangler secret put MONITOR_ADMIN_TOKEN
+#   gh auth token | npx wrangler secret put GITHUB_DISPATCH_TOKEN
+#
+# Optional webhook:
+#   npx wrangler secret put DETECTION_WEBHOOK_URL
+#   npx wrangler secret put DETECTION_WEBHOOK_SECRET
+#
+# Optional Cloudflare Email Sending binding, after citizennest.com is enabled:
+#   send_email binding name must be EMAIL

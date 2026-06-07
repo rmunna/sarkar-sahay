@@ -54,6 +54,11 @@ const OFFICIAL_DOMAINS = [
 const args          = process.argv.slice(2);
 const DRY_RUN       = args.includes('--dry-run');
 const FORCE_SCAN    = args.includes('--force-scan');
+const CLOUDFLARE_DETECTIONS = args.includes('--cloudflare-detections');
+const cloudflareDetectionsArg = args.find(a => a.startsWith('--cloudflare-detections-file'));
+const CLOUDFLARE_DETECTIONS_PATH = cloudflareDetectionsArg
+  ? path.resolve(ROOT, cloudflareDetectionsArg.split('=')[1] || args[args.indexOf(cloudflareDetectionsArg) + 1])
+  : path.join(ROOT, 'agents/cloudflare-detections.json');
 const tierArg       = args.find(a => a.startsWith('--tier'));
 const TIER_FILTER   = tierArg ? parseInt(tierArg.split('=')[1] || args[args.indexOf(tierArg) + 1], 10) : null;
 
@@ -114,6 +119,29 @@ function buildDeduplicationRegistry() {
 
 function dedupeKey(org, examName, stage) {
   return `${org}|${examName}|${stage}`.toLowerCase().trim();
+}
+
+function normalizeSourceId(id) {
+  const aliases = {
+    'sbi-careers': 'sbi',
+    'cbse-results': 'cbse',
+    'nios-results': 'nios'
+  };
+  return aliases[id] || id;
+}
+
+function sourceMatchesChange(source, change) {
+  if (change.sourceId && normalizeSourceId(change.sourceId) === source.id) return true;
+  if (!change.url) return false;
+  try {
+    const changeHost = new URL(change.url).hostname.replace(/^www\./, '');
+    const sourceHosts = [source.url, source.notificationsUrl]
+      .filter(Boolean)
+      .map(value => new URL(value).hostname.replace(/^www\./, ''));
+    return sourceHosts.some(host => changeHost === host || changeHost.endsWith(`.${host}`) || host.endsWith(`.${changeHost}`));
+  } catch {
+    return false;
+  }
 }
 
 /**
@@ -1187,7 +1215,7 @@ function frontmatterToYaml(fm) {
 async function main() {
   log('═══════════════════════════════════════════');
   log(`🚀 generate-updates-gemini.js starting`);
-  log(`   Mode: ${DRY_RUN ? 'DRY RUN' : 'LIVE'} | Tier filter: ${TIER_FILTER || 'all'} | Force: ${FORCE_SCAN}`);
+  log(`   Mode: ${DRY_RUN ? 'DRY RUN' : 'LIVE'} | Tier filter: ${TIER_FILTER || 'all'} | Force: ${FORCE_SCAN} | Cloudflare: ${CLOUDFLARE_DETECTIONS}`);
 
   // Load sources
   const { sources } = JSON.parse(fs.readFileSync(SOURCES_PATH, 'utf8'));
@@ -1196,7 +1224,26 @@ async function main() {
 
   // Load latest detected changes
   let latestChanges = [];
-  if (fs.existsSync(LATEST_PATH)) {
+  let cloudflareDetections = [];
+  if (CLOUDFLARE_DETECTIONS) {
+    if (!fs.existsSync(CLOUDFLARE_DETECTIONS_PATH)) {
+      log(`✅ No Cloudflare detections file found at ${CLOUDFLARE_DETECTIONS_PATH} — nothing to generate`);
+      return;
+    }
+    const payload = JSON.parse(fs.readFileSync(CLOUDFLARE_DETECTIONS_PATH, 'utf8'));
+    cloudflareDetections = Array.isArray(payload) ? payload : (payload.detections || []);
+    latestChanges = cloudflareDetections.map(detection => ({
+      site: detection.sourceName || detection.sourceId,
+      sourceId: normalizeSourceId(detection.sourceId),
+      type: detection.type === 'pdf' ? 'NEW_PDF' : 'NEW_NOTICE',
+      headline: detection.title,
+      date: detection.date,
+      url: detection.url,
+      pdfUrl: /\.pdf(\?|#|$)/i.test(detection.url || '') ? detection.url : null,
+      fingerprint: detection.fingerprint
+    }));
+    log(`🔴 Cloudflare detections loaded: ${latestChanges.length}`);
+  } else if (fs.existsSync(LATEST_PATH)) {
     const latest = JSON.parse(fs.readFileSync(LATEST_PATH, 'utf8'));
     // Only process real changes (not cosmetic content changes)
     latestChanges = (latest.changes || []).filter(c => c.type !== 'CONTENT_CHANGE');
@@ -1217,9 +1264,13 @@ async function main() {
   // - If force scan: process all active sources
   // - If no changes: tier1 + stale tier2 (lastScanned > 24h ago)
   let sourcesToProcess = activeSources;
-  if (!FORCE_SCAN) {
+  if (CLOUDFLARE_DETECTIONS) {
+    const changedSourceIds = new Set(latestChanges.map(change => change.sourceId).filter(Boolean));
+    sourcesToProcess = activeSources.filter(source => changedSourceIds.has(source.id));
+    log(`🎯 Processing only ${sourcesToProcess.length} Cloudflare-confirmed source(s)`);
+  } else if (!FORCE_SCAN) {
     const changed = latestChanges.length > 0
-      ? activeSources.filter(s => latestChanges.some(c => c.url.includes(new URL(s.url).hostname)))
+      ? activeSources.filter(s => latestChanges.some(c => sourceMatchesChange(s, c)))
       : [];
     const tier1Rest = activeSources.filter(s => s.tier === 1 && !changed.find(c => c.id === s.id));
     // Include tier2 sources not scanned in the last 24h — rotate through them daily
@@ -1243,12 +1294,11 @@ async function main() {
     }
 
     log(`\n🔍 Searching: ${source.name} (tier ${source.tier})`);
-    const changeType = latestChanges.find(c => c.url.includes(new URL(source.url).hostname))?.type || 'SCHEDULED_SCAN';
+    const matchingChanges = latestChanges.filter(change => sourceMatchesChange(source, change));
+    const changeType = matchingChanges[0]?.type || 'SCHEDULED_SCAN';
 
     // Thread known PDF URL from change detector into extraction (skip re-discovery)
-    const knownPdfUrl = latestChanges.find(c =>
-      c.pdfUrl && c.url && c.url.includes(new URL(source.url).hostname)
-    )?.pdfUrl || null;
+    const knownPdfUrl = matchingChanges.find(c => c.pdfUrl)?.pdfUrl || null;
     if (knownPdfUrl) log(`  🔗 Detector-provided PDF URL: ${knownPdfUrl}`);
 
     let searchResult;
@@ -1436,6 +1486,7 @@ async function main() {
       title: fm.title,
       url: `${SITE_URL}/update/${slug}`,
       confidence: ann.confidenceScore,
+      fingerprints: matchingChanges.map(change => change.fingerprint).filter(Boolean),
     });
 
     // Update lastScanned
