@@ -1,40 +1,480 @@
 {
-  "scanTime": "2026-06-06T16:07:06.970Z",
-  "elapsedSeconds": 54,
-  "changesDetected": 0,
-  "noiseDetected": 4,
-  "changes": [],
-  "noiseChanges": [
+  "scanTime": "2026-06-07T04:56:27.048Z",
+  "elapsedSeconds": 70,
+  "changesDetected": 66,
+  "noiseDetected": 0,
+  "changes": [
     {
       "site": "RBI Careers",
-      "type": "CONTENT_CHANGE",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://opportunities.rbi.org.in/Scripts/Vacancies.aspx",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-06T16:06:20.938Z"
+      "detectedAt": "2026-06-07T04:55:30.065Z"
     },
     {
-      "site": "BSF",
-      "type": "CONTENT_CHANGE",
-      "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-06-06T16:06:33.666Z"
+      "site": "RBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://opportunities.rbi.org.in/Scripts/apply.aspx",
+      "url": "https://opportunities.rbi.org.in/",
+      "detectedAt": "2026-06-07T04:55:30.065Z"
+    },
+    {
+      "site": "RBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://opportunities.rbi.org.in/Scripts/download.aspx",
+      "url": "https://opportunities.rbi.org.in/",
+      "detectedAt": "2026-06-07T04:55:30.065Z"
+    },
+    {
+      "site": "RBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://opportunities.rbi.org.in/apply.html",
+      "url": "https://opportunities.rbi.org.in/",
+      "detectedAt": "2026-06-07T04:55:30.065Z"
+    },
+    {
+      "site": "RBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://opportunities.rbi.org.in/download.html",
+      "url": "https://opportunities.rbi.org.in/",
+      "detectedAt": "2026-06-07T04:55:30.065Z"
+    },
+    {
+      "site": "ICAI (CA)",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://impact.indiaai.gov.in/registration",
+      "url": "https://www.icai.org/",
+      "detectedAt": "2026-06-07T04:55:32.179Z"
+    },
+    {
+      "site": "ICAI (CA)",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://nirc.icai.org/GCC-Summit-2025/registration",
+      "url": "https://www.icai.org/",
+      "detectedAt": "2026-06-07T04:55:32.179Z"
+    },
+    {
+      "site": "ICAI (CA)",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://resource.cdn.icai.org/86965cmib-62nd-campus-brochure.pdf",
+      "url": "https://www.icai.org/",
+      "detectedAt": "2026-06-07T04:55:32.179Z"
+    },
+    {
+      "site": "ICAI (CA)",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://startupsphere.org/registration.php",
+      "url": "https://www.icai.org/",
+      "detectedAt": "2026-06-07T04:55:32.179Z"
+    },
+    {
+      "site": "ICAI (CA)",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://www.icai.org/category/free-download-online-publications",
+      "url": "https://www.icai.org/",
+      "detectedAt": "2026-06-07T04:55:32.179Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://crpf.gov.in/Upload/Document/1_809_1_293062022.pdf",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-06-07T04:55:46.935Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://crpf.gov.in/Upload/Document/208%20cobra%2053032026-832.pdf",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-06-07T04:55:46.935Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://crpf.gov.in/Upload/Document/Advertisement%20GC%20BBSR-219.pdf",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-06-07T04:55:46.935Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://crpf.gov.in/Upload/Document/MOU%20ROYAL%20INST%20GUWAHATI-921.pdf",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-06-07T04:55:46.935Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://crpf.gov.in/Upload/Document/Rent%20advertisement%20124052026-946.pdf",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-06-07T04:55:46.935Z"
+    },
+    {
+      "site": "CISF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cisf.gov.in/assets/pdfs/2025/08/id_eng.pdf",
+      "url": "https://cisf.gov.in/recruitment",
+      "detectedAt": "2026-06-07T04:55:44.527Z"
+    },
+    {
+      "site": "CISF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cisf.gov.in/assets/pdfs/2025/10/dg_diwali_msg_eng.pdf",
+      "url": "https://cisf.gov.in/recruitment",
+      "detectedAt": "2026-06-07T04:55:44.527Z"
+    },
+    {
+      "site": "CISF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cisf.gov.in/assets/pdfs/2025/10/dg_msg_eng.pdf",
+      "url": "https://cisf.gov.in/recruitment",
+      "detectedAt": "2026-06-07T04:55:44.527Z"
+    },
+    {
+      "site": "CISF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cisf.gov.in/assets/pdfs/aprjun25.pdf",
+      "url": "https://cisf.gov.in/recruitment",
+      "detectedAt": "2026-06-07T04:55:44.527Z"
+    },
+    {
+      "site": "CISF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cisf.gov.in/assets/pdfs/dg_nym_2026_eng.pdf",
+      "url": "https://cisf.gov.in/recruitment",
+      "detectedAt": "2026-06-07T04:55:44.527Z"
+    },
+    {
+      "site": "CBSE",
+      "type": "LINK_CHANGE",
+      "url": "https://www.cbse.gov.in/",
+      "detectedAt": "2026-06-07T04:55:45.090Z"
+    },
+    {
+      "site": "KVS",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/11/2023112463.pdf",
+      "url": "https://kvsangathan.nic.in/",
+      "detectedAt": "2026-06-07T04:55:49.633Z"
+    },
+    {
+      "site": "KVS",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/12/2023120838.pdf",
+      "url": "https://kvsangathan.nic.in/",
+      "detectedAt": "2026-06-07T04:55:49.633Z"
+    },
+    {
+      "site": "KVS",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/12/2023120857.pdf",
+      "url": "https://kvsangathan.nic.in/",
+      "detectedAt": "2026-06-07T04:55:49.633Z"
+    },
+    {
+      "site": "KVS",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2025/02/2025022538.pdf",
+      "url": "https://kvsangathan.nic.in/",
+      "detectedAt": "2026-06-07T04:55:49.633Z"
+    },
+    {
+      "site": "KVS",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2025/04/2025042811.pdf",
+      "url": "https://kvsangathan.nic.in/",
+      "detectedAt": "2026-06-07T04:55:49.633Z"
+    },
+    {
+      "site": "IGNOU",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cuignou.samarth.ac.in/index.php/site/login",
+      "url": "https://ignou.ac.in/",
+      "detectedAt": "2026-06-07T04:55:54.358Z"
+    },
+    {
+      "site": "IGNOU",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://ignou.ac.in/viewFile/hq/common/TelDirectory11Nov2025.pdf",
+      "url": "https://ignou.ac.in/",
+      "detectedAt": "2026-06-07T04:55:54.358Z"
+    },
+    {
+      "site": "IGNOU",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://ignou.ac.in/viewFile/mpdd/study_material/Price-Catalogue.pdf",
+      "url": "https://ignou.ac.in/",
+      "detectedAt": "2026-06-07T04:55:54.358Z"
+    },
+    {
+      "site": "IGNOU",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://ignou.ac.in/viewFile/services/Common_Prospectus/Common-Prospectus-January-2026-V-1-2.pdf",
+      "url": "https://ignou.ac.in/",
+      "detectedAt": "2026-06-07T04:55:54.358Z"
+    },
+    {
+      "site": "IGNOU",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://ignoualumni.samarth.edu.in/index.php/site/login",
+      "url": "https://ignou.ac.in/",
+      "detectedAt": "2026-06-07T04:55:54.358Z"
+    },
+    {
+      "site": "CUET",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2025/03/2025030146.pdf",
+      "url": "https://cuet.nta.nic.in/",
+      "detectedAt": "2026-06-07T04:55:53.357Z"
+    },
+    {
+      "site": "CUET",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2025/12/202512041822130213.pdf",
+      "url": "https://cuet.nta.nic.in/",
+      "detectedAt": "2026-06-07T04:55:53.357Z"
+    },
+    {
+      "site": "CUET",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2025/12/202512271820873357.pdf",
+      "url": "https://cuet.nta.nic.in/",
+      "detectedAt": "2026-06-07T04:55:53.357Z"
+    },
+    {
+      "site": "CUET",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/01/202601031118382370.pdf",
+      "url": "https://cuet.nta.nic.in/",
+      "detectedAt": "2026-06-07T04:55:53.357Z"
+    },
+    {
+      "site": "CUET",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/01/202601031633478370.pdf",
+      "url": "https://cuet.nta.nic.in/",
+      "detectedAt": "2026-06-07T04:55:53.357Z"
     },
     {
       "site": "UPPSC",
-      "type": "CONTENT_CHANGE",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://uppsc.up.nic.in/CandidatePages/Status/ViewAnswerKey.aspx?ID=5",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-06T16:06:43.863Z"
+      "detectedAt": "2026-06-07T04:55:53.274Z"
+    },
+    {
+      "site": "UPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://uppsc.up.nic.in/CandidatePages/Status/ViewStatus.aspx",
+      "url": "https://uppsc.up.nic.in/",
+      "detectedAt": "2026-06-07T04:55:53.274Z"
+    },
+    {
+      "site": "UPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://uppsc.up.nic.in/FooterPages/Notice",
+      "url": "https://uppsc.up.nic.in/",
+      "detectedAt": "2026-06-07T04:55:53.274Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/login",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-06-07T04:55:54.239Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Additional_Subjects_Assistant_Professor_Sanskrit_2025.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-06-07T04:55:54.239Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Advt_ADPO_Exam_2026_Dated_10_03_2026.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-06-07T04:55:54.239Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Advt_AD_Farmer_Welfare_Agri_Dev_Dept_Field_Extension_Exam_2025_Dated_31_12_2025.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-06-07T04:55:54.239Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Advt_AD_Farmers_Welfare_and_Agriculture_Development_Statistics_2026_Dated_10_04_2026.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-06-07T04:55:54.239Z"
+    },
+    {
+      "site": "JPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://www.jpsc.gov.in/Recruitment.php",
+      "url": "https://www.jpsc.gov.in/",
+      "detectedAt": "2026-06-07T04:56:00.445Z"
+    },
+    {
+      "site": "JPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://www.jpsc.gov.in/data/Exam_Calendar_2026_dtd_06_01_2026.pdf",
+      "url": "https://www.jpsc.gov.in/",
+      "detectedAt": "2026-06-07T04:56:00.445Z"
+    },
+    {
+      "site": "JPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://www.jpsc.gov.in/data/FAQ.pdf",
+      "url": "https://www.jpsc.gov.in/",
+      "detectedAt": "2026-06-07T04:56:00.445Z"
+    },
+    {
+      "site": "JPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://www.jpsc.gov.in/data/JPSC%20Annual%20Report%20(2011-12).pdf",
+      "url": "https://www.jpsc.gov.in/",
+      "detectedAt": "2026-06-07T04:56:00.445Z"
+    },
+    {
+      "site": "JPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://www.jpsc.gov.in/data/JPSC%20Annual%20Report%20(2013-14).pdf",
+      "url": "https://www.jpsc.gov.in/",
+      "detectedAt": "2026-06-07T04:56:00.445Z"
+    },
+    {
+      "site": "UKPSC",
+      "type": "LINK_CHANGE",
+      "url": "https://ukpsc.net.in/",
+      "detectedAt": "2026-06-07T04:56:06.110Z"
+    },
+    {
+      "site": "CTET",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s3443dec3062d0286986e21dc0631734c9/uploads/2022/03/2022032515.pdf",
+      "url": "https://ctet.nic.in/",
+      "detectedAt": "2026-06-07T04:56:08.273Z"
+    },
+    {
+      "site": "CTET",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s3443dec3062d0286986e21dc0631734c9/uploads/2022/03/2022032562.pdf",
+      "url": "https://ctet.nic.in/",
+      "detectedAt": "2026-06-07T04:56:08.273Z"
+    },
+    {
+      "site": "CTET",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s3443dec3062d0286986e21dc0631734c9/uploads/2022/04/2022042551.pdf",
+      "url": "https://ctet.nic.in/",
+      "detectedAt": "2026-06-07T04:56:08.273Z"
+    },
+    {
+      "site": "CTET",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s3443dec3062d0286986e21dc0631734c9/uploads/2025/11/202511271744861076.pdf",
+      "url": "https://ctet.nic.in/",
+      "detectedAt": "2026-06-07T04:56:08.273Z"
+    },
+    {
+      "site": "CTET",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s3443dec3062d0286986e21dc0631734c9/uploads/2025/12/20251201121096588.pdf",
+      "url": "https://ctet.nic.in/",
+      "detectedAt": "2026-06-07T04:56:08.273Z"
+    },
+    {
+      "site": "RBSE Rajasthan",
+      "type": "LINK_CHANGE",
+      "url": "https://rajeduboard.rajasthan.gov.in/",
+      "detectedAt": "2026-06-07T04:56:07.337Z"
     },
     {
       "site": "UP Board",
-      "type": "CONTENT_CHANGE",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://dse.upmsp.edu.in/Login.aspx",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-06T16:06:58.247Z"
+      "detectedAt": "2026-06-07T04:56:07.090Z"
+    },
+    {
+      "site": "UP Board",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://upmsp.edu.in/Download.aspx",
+      "url": "https://upmsp.edu.in/",
+      "detectedAt": "2026-06-07T04:56:07.090Z"
+    },
+    {
+      "site": "UP Board",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://upmsp.edu.in/Downloads/Circular_2_04-04-2026.pdf",
+      "url": "https://upmsp.edu.in/",
+      "detectedAt": "2026-06-07T04:56:07.090Z"
+    },
+    {
+      "site": "UP Board",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://upmsp.edu.in/Downloads/Compartment_2026_Vigyapti.pdf",
+      "url": "https://upmsp.edu.in/",
+      "detectedAt": "2026-06-07T04:56:07.090Z"
+    },
+    {
+      "site": "UP Board",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://upmsp.edu.in/Downloads/Cyber_Fraud_related_04-04-26.pdf",
+      "url": "https://upmsp.edu.in/",
+      "detectedAt": "2026-06-07T04:56:07.090Z"
+    },
+    {
+      "site": "MP Board",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://bsemp.nic.in/Login/Pages/slogin.aspx",
+      "url": "https://mpbse.nic.in/",
+      "detectedAt": "2026-06-07T04:56:13.772Z"
+    },
+    {
+      "site": "MP Board",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mpbse.mponline.gov.in/Result/Result?rspbmhsh=MgfgfJHGFFtytytykoReiLme7klyzAugfgHtkrmgy45Mi4eyrZZGnPzi9K1pc7sKI0vs==",
+      "url": "https://mpbse.nic.in/",
+      "detectedAt": "2026-06-07T04:56:13.772Z"
+    },
+    {
+      "site": "MP Board",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mpbse.nic.in/1509_Pr_exam_order.PDF",
+      "url": "https://mpbse.nic.in/",
+      "detectedAt": "2026-06-07T04:56:13.772Z"
+    },
+    {
+      "site": "MP Board",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mpbse.nic.in/9th-age_relaxation2025-26.PDF",
+      "url": "https://mpbse.nic.in/",
+      "detectedAt": "2026-06-07T04:56:13.772Z"
+    },
+    {
+      "site": "MP Board",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mpbse.nic.in/BSE_2017_18.PDF",
+      "url": "https://mpbse.nic.in/",
+      "detectedAt": "2026-06-07T04:56:13.772Z"
     }
   ],
+  "noiseChanges": [],
   "errors": 27,
   "errorDetails": [
     {
       "site": "UPSC",
-      "error": "getaddrinfo ENOTFOUND upsc.gov.in"
+      "error": "Timeout"
+    },
+    {
+      "site": "IBPS",
+      "url": "https://www.ibps.in/",
+      "error": "Timeout"
     },
     {
       "site": "SBI Careers",
@@ -67,9 +507,9 @@
       "error": "Timeout"
     },
     {
-      "site": "CISF",
-      "url": "https://cisf.gov.in/recruitment",
-      "error": "getaddrinfo ENOTFOUND cisf.gov.in"
+      "site": "BSF",
+      "url": "https://rectt.bsf.gov.in/",
+      "error": "HTTP 403"
     },
     {
       "site": "ITBP",
@@ -77,14 +517,9 @@
       "error": "Timeout"
     },
     {
-      "site": "KVS",
-      "url": "https://kvsangathan.nic.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
-      "error": "Timeout"
+      "error": ""
     },
     {
       "site": "UGC NET",
@@ -129,7 +564,7 @@
     {
       "site": "GPSC",
       "url": "https://gpsc.gujarat.gov.in/",
-      "error": ""
+      "error": "Timeout"
     },
     {
       "site": "HPSC",
@@ -164,7 +599,7 @@
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "read ECONNRESET"
+      "error": "Timeout"
     }
   ]
 }
