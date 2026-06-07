@@ -106,17 +106,16 @@ jobs:
         run: |
           git config user.name "CitizenNest Bot"
           git config user.email "bot@citizennest.com"
-          # Only stage content files to avoid accidentally committing tracker or
-          # other repo files (those should be committed in Step 7 with [skip ci]).
-          git add -A content/updates || true
+          # Stage generated content and tracker state together. If no content
+          # was generated, nothing is pushed to git.
+          git add -A content/updates agents/exam-monitor-tracker.json agents/exam-monitor-latest.json agents/source-monitors.json || true
           # Check for staged changes under content/updates specifically
           if git diff --staged --name-only -- 'content/updates/*' | grep -q .; then
             NEW=$(git diff --staged --name-only -- 'content/updates/*' | wc -l | tr -d ' ')
-            # Commit only the content paths to ensure other staged files are not included
             git commit -m "content: auto-add ${NEW} exam update(s) [$(date +'%Y-%m-%d %H:%M IST')]
 
             Source: GitHub Actions exam-monitor workflow
-            Tier: ${{ github.event.inputs.tier || '2' }} [skip vercel]" -- content/updates || true
+            Tier: ${{ github.event.inputs.tier || '2' }} [skip vercel]"
             # Stash unstaged tracker files before rebase (they block git pull --rebase)
             git stash --include-untracked 2>/dev/null || true
             git fetch origin main
@@ -126,6 +125,7 @@ jobs:
             echo "new_count=$NEW" >> $GITHUB_OUTPUT
             echo "✅ Pushed $NEW new update(s)"
           else
+            git restore --staged agents/exam-monitor-tracker.json agents/exam-monitor-latest.json agents/source-monitors.json || true
             echo "new_count=0" >> $GITHUB_OUTPUT
             echo "No new content — nothing to commit"
           fi
@@ -235,24 +235,6 @@ jobs:
           if [ -f "agents/.newly-generated-slugs" ]; then
             node scripts/notify-reddit.js agents/.newly-generated-slugs || true
             rm -f agents/.newly-generated-slugs
-          fi
-
-      # ── Step 7: Update tracker (only if changes were found) ──────────────────
-
-      - name: Save monitor tracker state
-        if: steps.monitor.outputs.has_changes == 'true' || steps.commit.outputs.new_count > 0
-        run: |
-          git config user.name "CitizenNest Bot"
-          git config user.email "bot@citizennest.com"
-          # Stage tracker files only if changes were detected
-          git add agents/exam-monitor-tracker.json agents/exam-monitor-latest.json agents/source-monitors.json || true
-          if ! git diff --staged --quiet; then
-            git commit -m "chore: update exam monitor tracker [skip ci] [skip vercel]"
-            git stash --include-untracked 2>/dev/null || true
-            git fetch origin main
-            git rebase origin/main 2>/dev/null || git rebase --abort
-            git stash pop 2>/dev/null || true
-            git push || true
           fi
 
       # ── Summary ──────────────────────────────────────────────────────────
