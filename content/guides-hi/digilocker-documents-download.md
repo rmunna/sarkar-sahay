@@ -11,6 +11,8 @@ keywords:
 readingTime: "6 मिनट"
 officialLinks:
   - https://www.digilocker.gov.in
+  - https://apaar.education.gov.in/get-your-apaar
+  - https://www.abc.gov.in/
   - https://play.google.com/store/apps/details?id=com.digilocker.android
 ---
 
@@ -64,6 +66,7 @@ DigiLocker भारत सरकार का **डिजिटल डॉक्
 | ड्राइविंग लाइसेंस | Parivahan |
 | वाहन RC | Parivahan |
 | 10वीं/12वीं मार्कशीट | CBSE/State Boards |
+| APAAR ID / ABC learner record | शिक्षा मंत्रालय / ABC ecosystem |
 | डिग्री/डिप्लोमा | विश्वविद्यालय |
 | COVID वैक्सीन सर्टिफिकेट | CoWIN |
 | जन्म/मृत्यु प्रमाण पत्र | नगर निगम |
@@ -101,5 +104,9 @@ DigiLocker भारत सरकार का **डिजिटल डॉक्
 
 ## संबंधित गाइड
 
+- [APAAR ID क्या है](/hi/guide/apaar-id-guide)
+- [DigiLocker से APAAR ID कैसे बनाएं](/hi/guide/apaar-id-create-digilocker)
+- [DigiLocker से APAAR ID download करें](/hi/guide/apaar-id-download-digilocker)
+- [APAAR ID DigiLocker में नहीं दिख रहा](/hi/guide/apaar-id-not-showing-digilocker-fix)
 - [आधार कार्ड डाउनलोड](/guide/aadhaar-card-download-online)
 - [बोर्ड परीक्षा रिजल्ट चेक](/guide/board-exam-results-check-download)

@@ -1,6 +1,6 @@
 ---
-title: "DigiLocker ABC Academic Bank of Credits Not Showing? Fix It"
-description: "Fix Academic Bank of Credits (ABC) not showing in DigiLocker. Covers university registration, NAD linking, and enrollment mismatch fixes."
+title: "ABC / APAAR ID Not Showing in DigiLocker? Fix Academic Bank of Credits Records"
+description: "Fix ABC, APAAR ID or Academic Bank of Credits records not showing in DigiLocker. Covers institution mapping, NAD linking, enrollment mismatch and Aadhaar/KYC fixes."
 category: Identity Documents
 keywords:
   - abc digilocker not showing
@@ -10,17 +10,23 @@ keywords:
   - academic bank of credits digilocker
   - nad digilocker linking
   - abc id not showing
+  - APAAR ID not showing
 readingTime: "7 min"
-lastUpdated: "2026-03-06"
+lastUpdated: "2026-06-07"
 officialLinks:
   - "https://www.digilocker.gov.in/"
   - "https://www.abc.gov.in/"
+  - "https://apaar.education.gov.in/get-your-apaar"
   - "https://nad.digilocker.gov.in/"
 ---
 
-# DigiLocker ABC Academic Bank of Credits Not Showing? Fix It
+# ABC / APAAR ID Not Showing in DigiLocker? Fix Academic Bank of Credits Records
 
-The **Academic Bank of Credits (ABC)** is a Government of India initiative under the National Education Policy (NEP) 2020 that stores your academic credits digitally. ABC is integrated with [DigiLocker](https://www.digilocker.gov.in/), but many students find their ABC ID or academic records not showing. Here's how to fix it.
+**Quick answer:** If ABC, APAAR ID or academic credits are not showing in DigiLocker, first check whether your APAAR/ABC learner ID was created successfully. Then verify institution mapping, roll/enrolment number format, Aadhaar/DigiLocker KYC match, and whether the institution has uploaded records to ABC/NAD.
+
+The **Academic Bank of Credits (ABC)** stores and manages academic credits. APAAR ID is the learner identity used in the ABC ecosystem, and DigiLocker is used for authentication and issued documents.
+
+> **Verified on 7 June 2026:** The official ABC portal says student login/register uses DigiLocker, APAAR ID is integrated with ABC, and institutions upload credit data mapped with APAAR ID.
 
 ## What Is Academic Bank of Credits (ABC)?
 
@@ -39,11 +45,11 @@ Your ABC records may not appear in DigiLocker for these reasons:
 - **Enrollment number mismatch** — Your enrollment details at the university don't match your DigiLocker/Aadhaar details
 - **NAD (National Academic Depository) not linked** — Your university uploads records to NAD, which feeds into ABC
 - **University has not uploaded your records** — The institution has not submitted your credits to ABC yet
-- **ABC account not created** — You may not have created your ABC ID yet
+- **APAAR/ABC learner ID not created** — You may not have completed the ABC-DigiLocker flow
 
-## Fix 1: Create Your ABC ID
+## Fix 1: Create Your APAAR / ABC Learner ID
 
-If you haven't created an ABC ID yet, you need to do it first:
+If you haven't completed the APAAR/ABC learner flow yet, you need to do it first:
 
 1. Visit [abc.gov.in](https://www.abc.gov.in/)
 2. Click **Students** → **Sign In / Register**
@@ -53,9 +59,9 @@ If you haven't created an ABC ID yet, you need to do it first:
    - Full name (must match Aadhaar)
    - Date of birth
    - Enrollment/registration number from your university
-6. Your **ABC ID** will be generated
+6. Your APAAR/ABC learner ID can be accessed if your record is matched
 
-> **Important:** Your name and date of birth must exactly match your Aadhaar details. Even a small mismatch will prevent linking.
+> **Important:** Your name, date of birth, institution and enrolment details must match official records. Even a small mismatch can prevent linking.
 
 ## Fix 2: Check If Your University Is Registered with ABC
 
@@ -67,7 +73,7 @@ Not all universities have registered with ABC. To check:
 4. If your university is **not listed**, ABC records will not be available
 5. Contact your university's examination department and request them to register with ABC
 
-> As of 2026, most central universities, IITs, NITs, and state universities in major states are registered. However, many private universities, deemed universities, and affiliated colleges are still in the process of joining.
+> Do not assume your institution is onboarded. Always check the live ABC institution list or ask your university/college academic section.
 
 ## Fix 3: Link Your NAD (National Academic Depository) Account
 
@@ -102,8 +108,8 @@ If your university is registered with ABC but your records are missing:
    - Full name (as on university records)
    - Enrollment/registration number
    - Course name and batch year
-   - ABC ID (if already created)
-4. The university will upload records which will then appear in DigiLocker within 7–15 days
+   - APAAR/ABC learner ID (if already created)
+4. The university can upload or correct records through its official academic-record workflow; appearance time depends on the institution and platform sync
 
 ## Fix 6: Check DigiLocker Issued Documents
 
@@ -120,22 +126,22 @@ Sometimes ABC records are available but not visible on the main dashboard:
 - ABC ID creation is free and available to all students of registered institutions
 - Your ABC account is lifelong — credits from multiple institutions are accumulated
 - Keep your Aadhaar details (name, date of birth) matching across all platforms
-- ABC is mandatory for students under NEP 2020 guidelines in participating universities
-- For credit transfer between institutions, both institutions must be ABC-registered
+- Follow your institution's current instruction on whether APAAR/ABC details are required
+- For credit transfer, both institutions must support the relevant ABC workflow
 
 ## Frequently Asked Questions
 
-### What is an ABC ID?
-ABC ID (Academic Bank of Credits ID) is a unique 12-digit number assigned to students when they register on the ABC portal. It serves as your lifelong academic identity for credit accumulation and transfer.
+### What is ABC ID?
+Many students use "ABC ID" to mean the learner ID created through ABC. The current official ecosystem uses APAAR ID as the learner identity inside ABC.
 
 ### Is ABC registration mandatory for all students?
-ABC registration is mandatory for students enrolled in universities participating in the ABC ecosystem under NEP 2020. Your university will inform you if registration is required.
+Your university or institution will inform you if APAAR/ABC registration is required for admission, credit upload or credit transfer.
 
 ### My university is not on ABC. Can I still create an ABC ID?
 You can create an ABC account, but your academic records won't be available until your university registers with ABC and uploads your data. Request your university administration to join the ABC ecosystem.
 
 ### How long does it take for records to appear after university uploads them?
-Academic records typically appear in DigiLocker within 7–15 days after the university uploads them to NAD/ABC.
+There is no single public timeline that applies to every institution. It depends on the institution upload, NAD/ABC processing and DigiLocker sync. Ask your university for the expected timeline.
 
 ### Can I see records from multiple universities in ABC?
 Yes. ABC accumulates credits from all registered institutions you've studied at. This is one of the key features — enabling lifelong credit accumulation and transfer.

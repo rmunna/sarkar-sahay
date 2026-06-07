@@ -190,6 +190,8 @@ Yes, employers can register as verifiers on NAD and authenticate your academic r
 
 No. NAD stores completed academic awards (degrees, mark sheets). [ABC (Academic Bank of Credits)](/guide/abc-academic-bank-credits-guide) stores ongoing academic credits for flexible learning.
 
+APAAR ID is the learner identity used in the ABC ecosystem. If your college asks for APAAR/ABC details, read [APAAR ID Guide](/guide/apaar-id-guide) and [APAAR vs ABC ID vs DigiLocker](/guide/apaar-vs-abc-id-digilocker-difference).
+
 ### Q6: Are old degrees (before NAD was launched) available?
 
 Only if your institution has retrospectively uploaded them to NAD. You can lodge a request for your institution to do so.

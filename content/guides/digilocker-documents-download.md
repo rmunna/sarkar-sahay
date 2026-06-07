@@ -6,6 +6,8 @@ keywords: ["digilocker", "digilocker documents download", "digital documents ind
 readingTime: "6 min"
 officialLinks:
   - https://www.digilocker.gov.in
+  - https://apaar.education.gov.in/get-your-apaar
+  - https://www.abc.gov.in/
   - https://play.google.com/store/apps/details?id=com.digilocker.android
 ---
 
@@ -102,9 +104,10 @@ Browse or search for the issuing organization. Popular issuers include:
 5. **Class 10 Marksheet** — CBSE, state boards
 6. **Class 12 Marksheet** — CBSE, state boards
 7. **Degree/Diploma Certificates** — Select universities
-8. **Insurance Policies** — LIC, health insurance
-9. **EPFO Documents** — UAN card, passbook summary
-10. **COVID Vaccination Certificate** — CoWIN certificate
+8. **APAAR ID / ABC learner records** — student academic identity and credit ecosystem
+9. **Insurance Policies** — LIC, health insurance
+10. **EPFO Documents** — UAN card, passbook summary
+11. **COVID Vaccination Certificate** — CoWIN certificate
 
 ### State-Specific Documents
 
@@ -169,6 +172,9 @@ Yes, you get **1 GB of free storage** for uploaded documents. Issued (fetched) d
 
 ## Related Guides
 
+- [APAAR ID Guide](/guide/apaar-id-guide)
+- [Download APAAR ID from DigiLocker](/guide/apaar-id-download-digilocker)
+- [APAAR ID Not Showing in DigiLocker](/guide/apaar-id-not-showing-digilocker-fix)
 - [How to Apply for Aadhaar Card Online](/guide/aadhaar-card-apply-online)
 - [How to Apply for PAN Card Online](/guide/pan-card-apply-online)
 - [How to Apply for Driving Licence](/guide/driving-licence-renewal-online)
