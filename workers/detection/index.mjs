@@ -7,6 +7,7 @@ const RECENT_KEY = "detections:recent";
 const DEFAULT_TIER = 1;
 const MAX_RECENT = 100;
 const DEFAULT_MIN_DISPATCH_CONFIDENCE = 0.75;
+const HEALTH_STALE_MINUTES = 45;
 
 const KEYWORDS = [
   "notice", "notification", "result", "admit", "hall ticket", "answer key",
@@ -19,6 +20,16 @@ const NOISE = [
   "visitor", "counter", "tender", "annual report", "privacy", "terms",
   "facebook", "twitter", "instagram", "youtube", "login#", "javascript:",
   "style.css", ".png", ".jpg", ".jpeg", ".gif", ".svg", ".ico", ".woff"
+];
+
+const STAGE_PATTERNS = [
+  ["admit-card", /\b(admit card|hall ticket|call letter|city intimation|exam city)\b/i],
+  ["result", /\b(result|scorecard|marksheet|merit list|shortlisted|provisional list)\b/i],
+  ["answer-key", /\b(answer key|response sheet|objection|challenge)\b/i],
+  ["notification", /\b(notification|advertisement|recruitment|vacancy|notice|cen|crp)\b/i],
+  ["exam-schedule", /\b(schedule|exam date|time table|date sheet|written exam|interview schedule)\b/i],
+  ["registration", /\b(apply online|registration|application form|last date|online application)\b/i],
+  ["cutoff", /\b(cut off|cutoff|cut-off)\b/i]
 ];
 
 export default {
@@ -51,6 +62,13 @@ export default {
       }
       const recent = await readRecent(env);
       return json({ detections: recent });
+    }
+
+    if (pathname === "/sources/status") {
+      if (!isAuthorized(request, env)) {
+        return json({ ok: false, error: "Unauthorized" }, 401);
+      }
+      return json({ sources: await readSourcesStatus(env) });
     }
 
     if (pathname === "/detections/status") {
@@ -111,7 +129,8 @@ async function scanAndPersist(env, options) {
   const detections = [];
 
   for (const source of sources) {
-    const result = await scanSource(source);
+    const scanStarted = Date.now();
+    const result = await scanSource(source, env);
     const previous = await readSourceState(state, source.id);
     const previousFingerprints = new Set(previous.fingerprints || []);
     const currentFingerprints = result.items.map(item => item.fingerprint);
@@ -132,12 +151,17 @@ async function scanAndPersist(env, options) {
     }
 
     if (!options.dryRun) {
+      const successfulScan = !result.error && currentFingerprints.length > 0;
       await state.put(`${STATE_PREFIX}${source.id}`, JSON.stringify({
         scannedAt: startedAt,
+        lastSuccessAt: successfulScan ? startedAt : previous.lastSuccessAt || null,
         sourceId: source.id,
-        fingerprints: currentFingerprints.slice(0, 250),
+        fingerprints: successfulScan ? currentFingerprints.slice(0, 250) : previous.fingerprints || [],
         itemCount: result.items.length,
-        error: result.error || null
+        lastGoodItemCount: successfulScan ? result.items.length : previous.lastGoodItemCount || 0,
+        durationMs: Date.now() - scanStarted,
+        error: result.error || null,
+        consecutiveErrors: result.error ? Number(previous.consecutiveErrors || 0) + 1 : 0
       }));
     }
 
@@ -171,19 +195,19 @@ async function scanAndPersist(env, options) {
   };
 }
 
-async function scanSource(source) {
+async function scanSource(source, env) {
   try {
-    if (source.strategy === "ssc_api") return { items: await scanSscApi(source) };
-    if (source.strategy === "nta_notice_pdf") return { items: await scanNta(source) };
-    if (source.strategy === "rss") return { items: await scanRss(source) };
-    return { items: await scanOfficialLinks(source) };
+    if (source.strategy === "ssc_api") return { items: await scanSscApi(source, env) };
+    if (source.strategy === "nta_notice_pdf") return { items: await scanNta(source, env) };
+    if (source.strategy === "rss") return { items: await scanRss(source, env) };
+    return { items: await scanOfficialLinks(source, env) };
   } catch (error) {
     return { items: [], error: error.message || String(error) };
   }
 }
 
-async function scanSscApi(source) {
-  const data = await fetchJson(source.url);
+async function scanSscApi(source, env) {
+  const data = await fetchJson(source.url, env);
   const notices = Array.isArray(data?.data) ? data.data : [];
   return notices.map(notice => {
     const attachment = notice.attachments?.[0]?.path;
@@ -200,8 +224,8 @@ async function scanSscApi(source) {
   }).filter(Boolean);
 }
 
-async function scanNta(source) {
-  const html = await fetchText(source.url);
+async function scanNta(source, env) {
+  const html = await fetchText(source.url, env);
   const items = [];
   const regex = /(?:<[^>]+>)*([^<]{8,220}?)(?:&nbsp;|\s)*<\/[^>]+>\s*<a[^>]+href=["']([^"']*Download\/Notice\/Notice_(\d{14})\.pdf)["'][^>]*>/gi;
   const fallback = /href=["']([^"']*Download\/Notice\/Notice_(\d{14})\.pdf)["']/gi;
@@ -237,8 +261,8 @@ async function scanNta(source) {
   return items.filter(Boolean).sort(sortByDateDesc).slice(0, 30);
 }
 
-async function scanRss(source) {
-  const xml = await fetchText(source.url);
+async function scanRss(source, env) {
+  const xml = await fetchText(source.url, env);
   const items = [];
   const itemRegex = /<item>([\s\S]*?)<\/item>/gi;
   let match;
@@ -253,8 +277,8 @@ async function scanRss(source) {
   return items.filter(Boolean).slice(0, 40);
 }
 
-async function scanOfficialLinks(source) {
-  const html = await fetchText(source.url);
+async function scanOfficialLinks(source, env) {
+  const html = await fetchText(source.url, env);
   const anchors = extractAnchors(html, source.url);
   const include = (source.include || KEYWORDS).map(v => v.toLowerCase());
   const exclude = (source.exclude || []).map(v => v.toLowerCase());
@@ -298,13 +322,19 @@ function makeItem(source, raw) {
   const title = cleanText(raw.title || "");
   const url = normalizeUrl(raw.url || source.homepage);
   if (!title && !url) return null;
-  const fingerprintBase = `${source.id}|${title.toLowerCase()}|${url.toLowerCase()}`;
+  const canonicalUrl = canonicalizeUrl(url);
+  const stage = classifyStage(`${title} ${canonicalUrl}`);
+  const canonicalId = canonicalItemId(source, raw, title, canonicalUrl);
+  const fingerprintBase = `${source.id}|${stage}|${canonicalId}`;
   return {
     id: raw.id || null,
     title: title || linkLabel(url),
     url,
+    canonicalUrl,
     date: normalizeDate(raw.date),
     type: raw.type || "item",
+    stage,
+    canonicalId,
     confidence: confidenceFor(raw, title, url),
     fingerprint: sha256HexSync(fingerprintBase)
   };
@@ -316,8 +346,49 @@ function confidenceFor(raw, title, url) {
   if (raw.type === "rss") score += 0.2;
   if (raw.type === "pdf") score += 0.2;
   if (KEYWORDS.some(k => text.includes(k))) score += 0.15;
+  if (classifyStage(text) !== "other") score += 0.05;
+  if (raw.id) score += 0.05;
   if (/\b20\d{2}\b/.test(text)) score += 0.05;
   return Math.min(0.98, Number(score.toFixed(2)));
+}
+
+function classifyStage(text) {
+  const value = String(text || "");
+  for (const [stage, pattern] of STAGE_PATTERNS) {
+    if (pattern.test(value)) return stage;
+  }
+  return "other";
+}
+
+function canonicalItemId(source, raw, title, canonicalUrl) {
+  if (raw.id) return `${raw.type || "item"}:${String(raw.id).toLowerCase()}`;
+  const officialId = officialIdFromUrl(source, canonicalUrl);
+  if (officialId) return officialId;
+  return `${normalizeTitleForId(title)}|${canonicalUrl.toLowerCase()}`;
+}
+
+function officialIdFromUrl(source, url) {
+  const value = String(url || "");
+  const nta = value.match(/Notice_(\d{14})\.pdf/i);
+  if (nta) return `nta-notice:${nta[1]}`;
+  const ssc = value.match(/\/api\/attachment\/(.+)$/i);
+  if (ssc) return `ssc-attachment:${ssc[1].toLowerCase()}`;
+  const rbi = value.match(/\/PDFs\/([^/?#]+)\.PDF/i);
+  if (rbi) return `rbi-pdf:${rbi[1].toLowerCase()}`;
+  const rrbCen = `${value} ${source.id}`.match(/\b(CEN|C\.E\.N\.?)\s*[-_/ ]?\s*(\d{1,2})\s*[-_/ ]?\s*(20\d{2})\b/i);
+  if (rrbCen) return `rrb-cen:${rrbCen[2].padStart(2, "0")}-${rrbCen[3]}`;
+  return null;
+}
+
+function normalizeTitleForId(title) {
+  return cleanText(title)
+    .toLowerCase()
+    .replace(/\b\d{1,2}:\d{2}(:\d{2})?\b/g, "")
+    .replace(/\b(visitor|counter|updated on|last updated)\b.*$/i, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-|-$/g, "")
+    .slice(0, 160);
 }
 
 async function persistDetections(env, detections) {
@@ -466,6 +537,43 @@ async function readRecent(env) {
   return raw ? JSON.parse(raw) : [];
 }
 
+async function readSourcesStatus(env) {
+  const state = getStateBinding(env);
+  const now = Date.now();
+  const statuses = [];
+
+  for (const source of config.sources) {
+    const current = await readSourceState(state, source.id);
+    const lastSuccessAgeMinutes = current.lastSuccessAt
+      ? Math.round((now - Date.parse(current.lastSuccessAt)) / 60000)
+      : null;
+    const stale = lastSuccessAgeMinutes === null || lastSuccessAgeMinutes > HEALTH_STALE_MINUTES;
+    const health = current.error
+      ? (current.lastSuccessAt ? "degraded" : "failing")
+      : (stale ? "stale" : "ok");
+
+    statuses.push({
+      id: source.id,
+      name: source.name,
+      tier: source.tier,
+      strategy: source.strategy,
+      url: source.url,
+      health,
+      scannedAt: current.scannedAt || null,
+      lastSuccessAt: current.lastSuccessAt || null,
+      lastSuccessAgeMinutes,
+      itemCount: current.itemCount || 0,
+      lastGoodItemCount: current.lastGoodItemCount || current.itemCount || 0,
+      fingerprintCount: current.fingerprints?.length || 0,
+      consecutiveErrors: current.consecutiveErrors || 0,
+      durationMs: current.durationMs || null,
+      error: current.error || null
+    });
+  }
+
+  return statuses;
+}
+
 async function readSourceState(state, sourceId) {
   const raw = await state.get(`${STATE_PREFIX}${sourceId}`);
   return raw ? JSON.parse(raw) : {};
@@ -476,7 +584,9 @@ function getStateBinding(env) {
   return env.MONITOR_STATE;
 }
 
-async function fetchText(url) {
+async function fetchText(url, env) {
+  const fixture = readFixture(url, env);
+  if (fixture !== null) return fixture;
   const response = await fetch(url, {
     headers: {
       "User-Agent": "CitizenNest-Monitor/1.0 (+https://www.citizennest.com)",
@@ -488,7 +598,9 @@ async function fetchText(url) {
   return response.text();
 }
 
-async function fetchJson(url) {
+async function fetchJson(url, env) {
+  const fixture = readFixture(url, env);
+  if (fixture !== null) return JSON.parse(fixture);
   const response = await fetch(url, {
     headers: {
       "User-Agent": "CitizenNest-Monitor/1.0 (+https://www.citizennest.com)",
@@ -497,6 +609,24 @@ async function fetchJson(url) {
   });
   if (!response.ok) throw new Error(`HTTP ${response.status} ${url}`);
   return response.json();
+}
+
+function readFixture(url, env) {
+  if (!env?.FIXTURE_RESPONSES) return null;
+  let fixtures;
+  try {
+    fixtures = typeof env.FIXTURE_RESPONSES === "string"
+      ? JSON.parse(env.FIXTURE_RESPONSES)
+      : env.FIXTURE_RESPONSES;
+  } catch {
+    return null;
+  }
+  if (!Object.prototype.hasOwnProperty.call(fixtures, url)) return null;
+  const fixture = fixtures[url];
+  if (fixture && typeof fixture === "object" && fixture.error) {
+    throw new Error(fixture.error);
+  }
+  return fixture;
 }
 
 function json(data, status = 200) {
@@ -522,6 +652,24 @@ function normalizeUrl(url) {
     .replace(/^(https?:\/\/)+/i, match => match.toLowerCase().startsWith("https") ? "https://" : "http://")
     .replace(/&amp;/g, "&")
     .trim();
+}
+
+function canonicalizeUrl(url) {
+  try {
+    const parsed = new URL(normalizeUrl(url));
+    parsed.hash = "";
+    parsed.hostname = parsed.hostname.toLowerCase().replace(/^www\./, "");
+    for (const key of [...parsed.searchParams.keys()]) {
+      if (/^(utm_|fbclid$|gclid$|mc_|_hs|cache|timestamp|ts$|v$)/i.test(key)) {
+        parsed.searchParams.delete(key);
+      }
+    }
+    parsed.searchParams.sort();
+    const text = parsed.toString().replace(/\/$/, "");
+    return text;
+  } catch {
+    return normalizeUrl(url).replace(/[?#].*$/, "");
+  }
 }
 
 function isLikelyOfficialUrl(url, source) {

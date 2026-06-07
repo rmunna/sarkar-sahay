@@ -2,7 +2,7 @@
 
 This worker replaces page-hash monitoring with item-level detection.
 
-It does **not** treat whole-page text changes as actionable. Each source extractor returns announcement items, then the worker fingerprints `source + title + url`. Visitor counters, footer changes, random timestamps and layout changes should not create detections.
+It does **not** treat whole-page text changes as actionable. Each source extractor returns announcement items, then the worker fingerprints stable item IDs, stage and canonical URL/title fallback. Visitor counters, footer changes, random timestamps and layout changes should not create detections.
 
 ## What It Does
 
@@ -10,6 +10,8 @@ It does **not** treat whole-page text changes as actionable. Each source extract
 - Scans configured tier-1/tier-2 official sources.
 - Stores last-seen item fingerprints in Cloudflare KV.
 - Records only new announcement items after the first baseline scan.
+- Preserves the last good baseline when a source fetch fails, so one blocked scan cannot wipe detection state.
+- Classifies stage deterministically (`result`, `admit-card`, `answer-key`, `notification`, `exam-schedule`, `registration`, `cutoff`) before Gemini.
 - Claims each detection fingerprint before generation so the same item is not handed to Gemini twice.
 - Triggers the GitHub `Cloudflare Detection Publisher` workflow through `repository_dispatch`.
 - Receives page-created callbacks for status updates and optional email.
@@ -27,6 +29,24 @@ It does **not** treat whole-page text changes as actionable. Each source extract
 - `nta_notice_pdf` — NTA notice PDF timestamp extraction.
 - `rss` — PIB/RBI RSS items.
 - `official_links` — only official announcement-like links; no page text hash.
+
+## Current Coverage
+
+| Source | Tier | Strategy | Current confidence |
+| --- | --- | --- | --- |
+| SSC | 1 | Structured JSON API | Strong |
+| NTA | 1 | Notice PDF timestamp parser | Strong |
+| UPSC | 1 | Official link extraction | Medium; needs custom table parser |
+| KEA | 1 | Official link extraction | Medium; needs custom notice-block parser |
+| RRB Chandigarh | 1 | Official link extraction + CEN ID fingerprinting | Medium-strong |
+| IBPS | 1 | Official link extraction | Medium; intermittently blocks/fails from some networks |
+| SBI Careers | 1 | Official link extraction | Medium |
+| CBSE Results | 1 | Official link extraction | Medium; intermittent fetch failures |
+| NIOS Results | 1 | Official link extraction | Medium |
+| PIB Hindi RSS | 2 | RSS | Strong for feed items |
+| RBI Notifications | 2 | RSS | Strong for feed items |
+
+Next hardening target: replace medium `official_links` sources with source-specific parsers.
 
 ## Setup
 
@@ -86,10 +106,17 @@ Two-pass baseline test:
 npm run monitor:cf:test -- --source=all --tier=1 --twice
 ```
 
+Deterministic fixture test:
+
+```bash
+npm run monitor:cf:test:deterministic
+```
+
 Expected behavior:
 
 - Pass 1 stores the baseline and produces `0` detections.
 - Pass 2 produces `0` detections if no source changed.
+- The deterministic fixture test proves visitor count changes, tracking query params and transient fetch failures do not create false positives or wipe baselines.
 
 ## Manual Scan
 
@@ -111,6 +138,13 @@ Recent detections:
 ```bash
 curl -H "Authorization: Bearer $MONITOR_ADMIN_TOKEN" \
   "https://citizennest-detection.citizennest.workers.dev/detections/recent"
+```
+
+Source health:
+
+```bash
+curl -H "Authorization: Bearer $MONITOR_ADMIN_TOKEN" \
+  "https://citizennest-detection.citizennest.workers.dev/sources/status"
 ```
 
 Processing status:

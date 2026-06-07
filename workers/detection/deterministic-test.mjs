@@ -1,0 +1,123 @@
+import assert from "node:assert/strict";
+import worker from "./index.mjs";
+
+class MemoryKV {
+  constructor() {
+    this.map = new Map();
+  }
+  async get(key) {
+    return this.map.get(key) || null;
+  }
+  async put(key, value) {
+    this.map.set(key, value);
+  }
+}
+
+const RRB_URL = "https://www.rrbcdg.gov.in/";
+
+const baselineHtml = `
+  <html>
+    <body>
+      <div id="visitor">Visitor Count: 123456</div>
+      <a href="/uploads/CEN-01-2026-notification.pdf?utm_source=footer">
+        CEN 01/2026 Recruitment Notification
+      </a>
+      <a href="/privacy-policy">Privacy Policy</a>
+      <a href="/tender-2026.pdf">Tender Notice</a>
+    </body>
+  </html>
+`;
+
+const noiseOnlyHtml = `
+  <html>
+    <body>
+      <div id="visitor">Visitor Count: 999999</div>
+      <a href="/uploads/CEN-01-2026-notification.pdf?utm_source=homepage&cache=999">
+        CEN 01/2026 Recruitment Notification
+      </a>
+      <a href="/privacy-policy">Privacy Policy Updated</a>
+      <a href="/tender-2026.pdf">Tender Notice</a>
+    </body>
+  </html>
+`;
+
+const realNewHtml = `
+  <html>
+    <body>
+      <div id="visitor">Visitor Count: 999999</div>
+      <a href="/uploads/CEN-01-2026-notification.pdf?utm_source=homepage&cache=999">
+        CEN 01/2026 Recruitment Notification
+      </a>
+      <a href="/uploads/CEN-02-2026-result.pdf">
+        CEN 02/2026 Result Notice
+      </a>
+    </body>
+  </html>
+`;
+
+async function scan(kv, html) {
+  const response = await worker.fetch(new Request("https://local.test/scan?source=rrb", {
+    headers: { Authorization: "Bearer local-test" }
+  }), {
+    MONITOR_STATE: kv,
+    MONITOR_ADMIN_TOKEN: "local-test",
+    MIN_DISPATCH_CONFIDENCE: "0.75",
+    FIXTURE_RESPONSES: JSON.stringify({ [RRB_URL]: html })
+  });
+  assert.equal(response.status, 200);
+  return response.json();
+}
+
+async function scanWithFixtureError(kv) {
+  const response = await worker.fetch(new Request("https://local.test/scan?source=rrb", {
+    headers: { Authorization: "Bearer local-test" }
+  }), {
+    MONITOR_STATE: kv,
+    MONITOR_ADMIN_TOKEN: "local-test",
+    FIXTURE_RESPONSES: JSON.stringify({ [RRB_URL]: { error: "fixture network failure" } })
+  });
+  assert.equal(response.status, 200);
+  return response.json();
+}
+
+async function status(kv) {
+  const response = await worker.fetch(new Request("https://local.test/sources/status", {
+    headers: { Authorization: "Bearer local-test" }
+  }), {
+    MONITOR_STATE: kv,
+    MONITOR_ADMIN_TOKEN: "local-test"
+  });
+  assert.equal(response.status, 200);
+  return response.json();
+}
+
+const kv = new MemoryKV();
+
+const baseline = await scan(kv, baselineHtml);
+assert.equal(baseline.newCount, 0, "first scan should baseline only");
+assert.equal(baseline.results[0].itemCount, 1, "baseline should ignore privacy/tender noise");
+
+const noise = await scan(kv, noiseOnlyHtml);
+assert.equal(noise.newCount, 0, "visitor count and tracking query changes should not trigger");
+assert.equal(noise.results[0].itemCount, 1, "noise scan should still see the same one actionable item");
+
+const real = await scan(kv, realNewHtml);
+assert.equal(real.newCount, 1, "a new official result notice should trigger exactly once");
+assert.equal(real.detections[0].stage, "result", "new notice should be classified deterministically");
+
+const afterReal = await scan(kv, realNewHtml);
+assert.equal(afterReal.newCount, 0, "same new notice should not trigger twice");
+
+const kvFailure = new MemoryKV();
+const failureBaseline = await scan(kvFailure, baselineHtml);
+assert.equal(failureBaseline.newCount, 0);
+const failed = await scanWithFixtureError(kvFailure);
+assert.equal(failed.results[0].error, "fixture network failure");
+const sourceStatus = await status(kvFailure);
+const rrb = sourceStatus.sources.find(source => source.id === "rrb");
+assert.equal(rrb.fingerprintCount, 1, "failed scan should preserve last good fingerprints");
+assert.equal(rrb.health, "degraded", "source with a previous success and current error is degraded");
+const recovered = await scan(kvFailure, baselineHtml);
+assert.equal(recovered.newCount, 0, "recovery after failure should not re-baseline or flood");
+
+console.log("deterministic detection tests passed");
