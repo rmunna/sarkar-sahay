@@ -5,11 +5,16 @@ const DETECTION_PREFIX = "detection:";
 const PROCESS_PREFIX = "process:";
 const WATCH_PREFIX = "watch:";
 const WATCH_INDEX_KEY = "watch:index";
+const OPPORTUNITY_PREFIX = "opportunity:";
+const OPPORTUNITY_INDEX_KEY = "opportunity:index";
+const OPPORTUNITY_RUN_KEY = "opportunity:last-run";
 const RECENT_KEY = "detections:recent";
 const DEFAULT_TIER = 2;
 const MAX_RECENT = 100;
 const MAX_WATCH_TOPICS = 100;
+const MAX_OPPORTUNITIES = 200;
 const DEFAULT_MIN_DISPATCH_CONFIDENCE = 0.75;
+const DEFAULT_MIN_OPPORTUNITY_SCORE = 86;
 const HEALTH_STALE_MINUTES = 45;
 const FINGERPRINT_SCHEMA_VERSION = "2026-06-08.1";
 
@@ -87,10 +92,27 @@ const OPPORTUNITY_CATEGORIES = [
 
 const OPPORTUNITY_SKIP = /\b(tender|auction|annual report|conference|webinar|condolence|greetings|statistical supplement|monetary penalty|co-operative bank|treasury bill|government securities)\b|शोक|बधाई|सम्मेलन/i;
 
+const LOW_COMPETITION_TOPICS = [
+  "apaar", "pm surya", "abha", "health locker", "my bharat", "nyps",
+  "farmer id", "agri stack", "agristack", "bharat vistaar", "bhashini",
+  "aikosha", "indiaai", "ondc saarthi", "samadhan didi", "kar saathi"
+];
+
+const EXISTING_PAGE_TARGETS = [
+  { terms: ["apaar"], slug: "/guide/apaar-id-guide", action: "update_existing" },
+  { terms: ["pm surya", "surya ghar", "solar"], slug: "/guide/pm-surya-ghar-muft-bijli", action: "update_existing" },
+  { terms: ["abha", "health locker"], slug: "/guide/abha-health-locker-records-guide", action: "update_existing" },
+  { terms: ["my bharat", "nyps", "youth"], slug: "/guide/my-bharat-registration-guide", action: "update_existing" },
+  { terms: ["farmer id", "agri stack", "agristack", "farmer registry"], slug: "/guide/farmer-id-agri-stack-guide", action: "update_existing" },
+  { terms: ["bhashini", "saarthi", "vyoma"], slug: "/guide/bhashini-ondc-saarthi-multilingual-ai-guide", action: "update_existing" },
+  { terms: ["indiaai", "aikosha", "compute"], slug: "/guide/indiaai-compute-aikosha-students-developers-guide", action: "update_existing" }
+];
+
 export default {
   async scheduled(_event, env, ctx) {
     ctx.waitUntil(Promise.all([
       scanAndPersist(env, { tier: DEFAULT_TIER, dryRun: false, sourceId: null }),
+      scanOpportunityQueue(env, { tier: DEFAULT_TIER, dryRun: false }),
       scanTrendSignals(env, { dryRun: false })
     ]));
   },
@@ -116,12 +138,45 @@ export default {
 
     if (pathname === "/opportunities") {
       const tier = Number(url.searchParams.get("tier") || 2);
+      const sourceId = url.searchParams.get("source");
       const dryRun = url.searchParams.get("dryRun") === "1" || url.searchParams.get("dryRun") === "true";
       if (!dryRun && !isAuthorized(request, env)) {
         return json({ ok: false, error: "Unauthorized" }, 401);
       }
-      const result = await scanOpportunities(env, { tier, dryRun });
+      const result = await scanOpportunityQueue(env, { tier, dryRun, sourceId });
       return json(result);
+    }
+
+    if (pathname === "/opportunities/queue") {
+      if (!isAuthorized(request, env)) {
+        return json({ ok: false, error: "Unauthorized" }, 401);
+      }
+      const status = url.searchParams.get("status");
+      const queue = await readOpportunityQueue(env, { status });
+      return json({ ok: true, count: queue.length, opportunities: queue });
+    }
+
+    if (pathname === "/opportunities/summary") {
+      if (!isAuthorized(request, env)) {
+        return json({ ok: false, error: "Unauthorized" }, 401);
+      }
+      const queue = await readOpportunityQueue(env, {});
+      return json({ ok: true, summary: summarizeOpportunities(queue), opportunities: queue.slice(0, 25) });
+    }
+
+    if (pathname === "/opportunities/mark") {
+      if (request.method !== "POST") {
+        return json({ ok: false, error: "Method not allowed" }, 405);
+      }
+      if (!isAuthorized(request, env)) {
+        return json({ ok: false, error: "Unauthorized" }, 401);
+      }
+      const body = await request.json().catch(() => null);
+      if (!body?.keys?.length || !body.status) {
+        return json({ ok: false, error: "keys and status are required" }, 400);
+      }
+      await markOpportunityStatuses(env, body.keys, body.status, body);
+      return json({ ok: true, marked: body.keys.length, status: body.status });
     }
 
     if (pathname === "/trend-signals") {
@@ -286,12 +341,12 @@ async function scanAndPersist(env, options) {
   };
 }
 
-async function scanOpportunities(env, options) {
+async function scanOpportunityQueue(env, options) {
   const startedAt = new Date().toISOString();
-  const feedSources = config.sources.filter(source =>
-    Number(source.tier || 99) <= options.tier &&
-    source.strategy === "rss"
-  );
+  const feedSources = config.sources.filter(source => {
+    if (options.sourceId) return source.id === options.sourceId;
+    return Number(source.tier || 99) <= options.tier && source.strategy === "rss";
+  }).filter(source => source.strategy === "rss");
   const items = [];
   const results = [];
 
@@ -313,6 +368,17 @@ async function scanOpportunities(env, options) {
   const clusters = clusterOpportunities(items)
     .sort((a, b) => b.score - a.score)
     .slice(0, 40);
+  const queued = clusters.map(cluster => buildOpportunityRecord(cluster, startedAt));
+  const queueUpdates = options.dryRun ? [] : await persistOpportunityQueue(env, queued, startedAt);
+  const dispatchable = options.dryRun ? [] : await claimOpportunitiesForGeneration(env, queued);
+
+  if (!options.dryRun && dispatchable.length > 0) {
+    await notifyWebhook(env, dispatchable);
+    await dispatchClaimedDetections(env, dispatchable);
+  }
+  const emailSummary = options.dryRun
+    ? { skipped: true, reason: "dry run" }
+    : await maybeSendOpportunitySummaryEmail(env, queued, queueUpdates, startedAt);
 
   return {
     ok: true,
@@ -321,10 +387,18 @@ async function scanOpportunities(env, options) {
     sourceCount: feedSources.length,
     opportunityCount: items.length,
     clusterCount: clusters.length,
+    queuedCount: queued.length,
+    queueUpdates,
+    dispatchableCount: dispatchable.length,
+    emailSummary,
+    summary: summarizeOpportunities(queued),
     results,
+    opportunities: queued,
     clusters
   };
 }
+
+const scanOpportunities = scanOpportunityQueue;
 
 async function scanTrendSignals(env, options) {
   const startedAt = new Date().toISOString();
@@ -618,6 +692,382 @@ function clusterOpportunities(items) {
     cluster.score = Math.max(cluster.score, item.score) + Math.min(20, cluster.sources.length * 5);
   }
   return [...clusters.values()];
+}
+
+function buildOpportunityRecord(cluster, now) {
+  const best = [...cluster.items].sort((a, b) => b.score - a.score)[0];
+  const text = normalizeSearchText(`${cluster.key} ${cluster.terms.join(" ")} ${cluster.items.map(item => item.title).join(" ")}`);
+  const existingPageMatch = findExistingPageMatch(text);
+  const officialConfidence = officialConfidenceForCluster(cluster);
+  const freshness = Math.max(...cluster.items.map(item => freshnessScore(item.date)));
+  const searchIntent = Math.max(...cluster.items.map(item => actionabilityScore(`${item.title} ${item.url}`)));
+  const competitionScore = lowCompetitionScore(text);
+  const existingPageScore = existingPageMatch ? 12 : 0;
+  const sourceDiversity = Math.min(12, cluster.sources.length * 6);
+  const score = Math.min(100, Math.round(
+    officialConfidence + freshness * 0.55 + searchIntent + competitionScore + existingPageScore + sourceDiversity
+  ));
+  const decision = opportunityDecision({ score, existingPageMatch, officialConfidence, cluster });
+  const key = canonicalOpportunityKey(cluster, best);
+
+  return {
+    key,
+    fingerprint: `opp:${sha256HexSync(key)}`,
+    sourceId: best.sourceId,
+    sourceName: best.sourceName,
+    title: best.title,
+    url: best.url,
+    date: best.date,
+    type: best.category,
+    category: cluster.category,
+    terms: cluster.terms,
+    sources: cluster.sources,
+    score,
+    scoreBreakdown: {
+      officialConfidence,
+      freshness,
+      searchIntent,
+      competitionScore,
+      existingPageScore,
+      sourceDiversity
+    },
+    decision: decision.decision,
+    status: decision.status,
+    reason: decision.reason,
+    existingPageMatch,
+    contentAction: decision.contentAction,
+    detectedAt: now,
+    queuedAt: now,
+    updatedAt: now,
+    evidence: cluster.items.slice(0, 8).map(item => ({
+      title: item.title,
+      url: item.url,
+      sourceId: item.sourceId,
+      sourceName: item.sourceName,
+      date: item.date,
+      score: item.score,
+      fingerprint: item.fingerprint
+    })),
+    officialConfirmationRequired: false,
+    dispatchEligible: decision.status === "publish_now"
+  };
+}
+
+function canonicalOpportunityKey(cluster, best) {
+  const term = normalizeTitleForId(cluster.key || cluster.terms[0] || "opportunity");
+  const category = normalizeTitleForId(cluster.category || "general");
+  const source = normalizeTitleForId(best.sourceId || "official");
+  const stage = classifyStage(`${best.title} ${best.url}`);
+  const date = normalizeDate(best.date) || "current";
+  return [category, term, stage, source, date].filter(Boolean).join(":").slice(0, 180);
+}
+
+function officialConfidenceForCluster(cluster) {
+  const sourceScores = cluster.sources.map(sourceId => {
+    if (sourceId === "pib") return 34;
+    if (sourceId === "rbi-notifications") return 28;
+    if (sourceId === "ssc" || sourceId === "nta" || sourceId === "upsc") return 30;
+    return 22;
+  });
+  return Math.max(...sourceScores, 20);
+}
+
+function actionabilityScore(text) {
+  const value = normalizeSearchText(text);
+  let score = 8;
+  if (/\b(apply|registration|deadline|last date|portal|download|status|beneficiary|subsidy|guidelines|launched|extended)\b/i.test(value)) score += 14;
+  if (/\b(result|admit card|answer key|exam date|vacancy|recruitment)\b/i.test(value)) score += 12;
+  if (/\b(how to|check|create|link|download|fix|not showing)\b/i.test(value)) score += 8;
+  return Math.min(28, score);
+}
+
+function lowCompetitionScore(text) {
+  const value = normalizeSearchText(text);
+  const matches = LOW_COMPETITION_TOPICS.filter(topic => value.includes(normalizeSearchText(topic))).length;
+  if (matches >= 2) return 16;
+  if (matches === 1) return 12;
+  return 4;
+}
+
+function findExistingPageMatch(text) {
+  const value = normalizeSearchText(text);
+  for (const target of EXISTING_PAGE_TARGETS) {
+    if (target.terms.some(term => value.includes(normalizeSearchText(term)))) {
+      return {
+        slug: target.slug,
+        action: target.action,
+        matchedTerms: target.terms.filter(term => value.includes(normalizeSearchText(term)))
+      };
+    }
+  }
+  return null;
+}
+
+function opportunityDecision({ score, existingPageMatch, officialConfidence, cluster }) {
+  const minScore = DEFAULT_MIN_OPPORTUNITY_SCORE;
+  if (existingPageMatch && score >= 70) {
+    return {
+      decision: "update_existing",
+      status: "needs_review",
+      contentAction: "update_existing",
+      reason: `Existing page ${existingPageMatch.slug} should be updated; held because the current GitHub generator creates new pages only.`
+    };
+  }
+  if (score >= minScore && officialConfidence >= 30) {
+    return {
+      decision: "publish_now",
+      status: "publish_now",
+      contentAction: cluster.category === "exam-jobs" ? "create_update" : "create_guide_or_update",
+      reason: `Score ${score} >= ${minScore} with strong official source confidence.`
+    };
+  }
+  if (score >= 65) {
+    return {
+      decision: "needs_review",
+      status: "needs_review",
+      contentAction: "review",
+      reason: `Score ${score} is promising but below auto-publish threshold or needs editorial routing.`
+    };
+  }
+  return {
+    decision: "watch",
+    status: "watch",
+    contentAction: "watch",
+    reason: `Score ${score} below review threshold.`
+  };
+}
+
+async function persistOpportunityQueue(env, opportunities, now) {
+  const state = getStateBinding(env);
+  const updates = [];
+  const index = await readOpportunityIndex(state);
+
+  for (const opportunity of opportunities) {
+    const storageKey = `${OPPORTUNITY_PREFIX}${opportunity.key}`;
+    const previousRaw = await state.get(storageKey);
+    const previous = previousRaw ? JSON.parse(previousRaw) : null;
+    const seenFingerprints = [...new Set([
+      ...(previous?.seenFingerprints || []),
+      ...opportunity.evidence.map(item => item.fingerprint).filter(Boolean)
+    ])].slice(-30);
+    const merged = {
+      ...previous,
+      ...opportunity,
+      status: previous?.status && ["dispatched", "generated", "rejected"].includes(previous.status)
+        ? previous.status
+        : opportunity.status,
+      firstSeenAt: previous?.firstSeenAt || now,
+      lastSeenAt: now,
+      seenCount: Number(previous?.seenCount || 0) + 1,
+      highestScore: Math.max(Number(previous?.highestScore || 0), opportunity.score),
+      seenFingerprints,
+      evidence: mergeEvidence(previous?.evidence || [], opportunity.evidence || [])
+    };
+    await state.put(storageKey, JSON.stringify(merged));
+    if (!index.includes(opportunity.key)) index.unshift(opportunity.key);
+    updates.push({ key: opportunity.key, status: previous ? "updated" : "created", queueStatus: merged.status, score: merged.score });
+  }
+
+  await state.put(OPPORTUNITY_INDEX_KEY, JSON.stringify(index.slice(0, MAX_OPPORTUNITIES)));
+  await state.put(OPPORTUNITY_RUN_KEY, JSON.stringify({ scannedAt: now, count: opportunities.length, summary: summarizeOpportunities(opportunities) }));
+  return updates;
+}
+
+async function claimOpportunitiesForGeneration(env, opportunities) {
+  const state = getStateBinding(env);
+  const claimed = [];
+
+  for (const opportunity of opportunities) {
+    if (!opportunity.dispatchEligible) continue;
+    const storageKey = `${OPPORTUNITY_PREFIX}${opportunity.key}`;
+    const raw = await state.get(storageKey);
+    const current = raw ? JSON.parse(raw) : opportunity;
+    if (["dispatched", "generated", "rejected"].includes(current.status)) continue;
+
+    const detection = opportunityToDetection(current);
+    const existingProcess = await state.get(`${PROCESS_PREFIX}${detection.fingerprint}`);
+    if (existingProcess) continue;
+
+    await putProcessStatus(state, detection.fingerprint, {
+      status: "queued",
+      detection,
+      opportunityKey: current.key,
+      score: current.score,
+      decision: current.decision,
+      queuedAt: new Date().toISOString(),
+      updatedAt: new Date().toISOString()
+    });
+    await state.put(storageKey, JSON.stringify({
+      ...current,
+      status: "dispatched",
+      dispatchedAt: new Date().toISOString(),
+      updatedAt: new Date().toISOString()
+    }));
+    claimed.push(detection);
+  }
+
+  return claimed;
+}
+
+function opportunityToDetection(opportunity) {
+  return {
+    id: opportunity.key,
+    title: opportunity.title,
+    url: opportunity.url,
+    canonicalUrl: canonicalizeUrl(opportunity.url),
+    date: opportunity.date,
+    type: "opportunity",
+    stage: classifyStage(`${opportunity.title} ${opportunity.url}`),
+    sourceId: opportunity.sourceId,
+    sourceName: opportunity.sourceName,
+    strategy: "opportunity_queue",
+    detectedAt: opportunity.detectedAt,
+    category: opportunity.category,
+    terms: opportunity.terms,
+    score: opportunity.score,
+    decision: opportunity.decision,
+    existingPageMatch: opportunity.existingPageMatch,
+    evidence: opportunity.evidence,
+    confidence: Math.min(0.98, Number((0.65 + opportunity.score / 300).toFixed(2))),
+    fingerprint: opportunity.fingerprint
+  };
+}
+
+async function readOpportunityQueue(env, { status } = {}) {
+  const state = getStateBinding(env);
+  const index = await readOpportunityIndex(state);
+  const items = [];
+  for (const key of index.slice(0, MAX_OPPORTUNITIES)) {
+    const raw = await state.get(`${OPPORTUNITY_PREFIX}${key}`);
+    if (!raw) continue;
+    const item = JSON.parse(raw);
+    if (status && item.status !== status) continue;
+    items.push(item);
+  }
+  return items.sort((a, b) => {
+    const scoreDiff = Number(b.highestScore || b.score || 0) - Number(a.highestScore || a.score || 0);
+    if (scoreDiff) return scoreDiff;
+    return String(b.lastSeenAt || b.updatedAt || "").localeCompare(String(a.lastSeenAt || a.updatedAt || ""));
+  });
+}
+
+async function readOpportunityIndex(state) {
+  const raw = await state.get(OPPORTUNITY_INDEX_KEY);
+  return raw ? JSON.parse(raw) : [];
+}
+
+async function markOpportunityStatuses(env, keys, status, details = {}) {
+  const state = getStateBinding(env);
+  for (const key of keys.slice(0, 100)) {
+    const raw = await state.get(`${OPPORTUNITY_PREFIX}${key}`);
+    if (!raw) continue;
+    const previous = JSON.parse(raw);
+    await state.put(`${OPPORTUNITY_PREFIX}${key}`, JSON.stringify({
+      ...previous,
+      ...details,
+      status,
+      updatedAt: new Date().toISOString()
+    }));
+  }
+}
+
+function summarizeOpportunities(opportunities) {
+  const summary = {
+    total: opportunities.length,
+    publishNow: 0,
+    needsReview: 0,
+    updateExisting: 0,
+    watch: 0,
+    rejected: 0,
+    top: []
+  };
+  for (const item of opportunities) {
+    if (item.status === "publish_now") summary.publishNow++;
+    else if (item.status === "needs_review") summary.needsReview++;
+    else if (item.status === "watch") summary.watch++;
+    else if (item.status === "rejected") summary.rejected++;
+    if (item.decision === "update_existing") summary.updateExisting++;
+  }
+  summary.top = [...opportunities]
+    .sort((a, b) => Number(b.highestScore || b.score || 0) - Number(a.highestScore || a.score || 0))
+    .slice(0, 8)
+    .map(item => ({
+      key: item.key,
+      title: item.title,
+      score: item.highestScore || item.score,
+      status: item.status,
+      decision: item.decision,
+      existingPage: item.existingPageMatch?.slug || null
+    }));
+  return summary;
+}
+
+async function maybeSendOpportunitySummaryEmail(env, opportunities, updates, now) {
+  if (env.OPPORTUNITY_SUMMARY_EMAIL !== "1") {
+    return { skipped: true, reason: "OPPORTUNITY_SUMMARY_EMAIL is not enabled" };
+  }
+  if (!updates.length) {
+    return { skipped: true, reason: "no queue updates" };
+  }
+  const summary = summarizeOpportunities(opportunities);
+  if (summary.publishNow === 0 && summary.needsReview === 0) {
+    return { skipped: true, reason: "no publish/review opportunities" };
+  }
+
+  const state = getStateBinding(env);
+  const day = now.slice(0, 10);
+  const digestKey = `opportunity:summary-email:${day}`;
+  const alreadySent = await state.get(digestKey);
+  if (alreadySent) {
+    return { skipped: true, reason: "daily opportunity summary already sent", day };
+  }
+
+  const result = await sendOpportunitySummaryEmail(env, summary);
+  if (result.ok || result.skipped) {
+    await state.put(digestKey, JSON.stringify({ sentAt: now, result }), { expirationTtl: 172800 });
+  }
+  return result;
+}
+
+async function sendOpportunitySummaryEmail(env, summary) {
+  const to = env.PAGE_CREATED_EMAIL_TO || "admin@citizennest.com";
+  const from = env.PAGE_CREATED_EMAIL_FROM || "monitor@citizennest.com";
+  const subject = `CitizenNest opportunity queue: ${summary.publishNow} publish, ${summary.needsReview} review`;
+  const top = summary.top.slice(0, 8);
+  const text = [
+    "CitizenNest Opportunity Queue summary:",
+    "",
+    `Publish now: ${summary.publishNow}`,
+    `Needs review: ${summary.needsReview}`,
+    `Update existing: ${summary.updateExisting}`,
+    `Watch: ${summary.watch}`,
+    "",
+    ...top.map(item => `- [${item.status}] ${item.score} ${item.title} ${item.existingPage ? `(existing: ${item.existingPage})` : ""}`),
+    "",
+    "Queue endpoint: https://citizennest-detection.citizennest.workers.dev/opportunities/queue"
+  ].join("\n");
+
+  if (!env.EMAIL?.send) {
+    return { ok: false, skipped: true, reason: "EMAIL binding is not configured", to, from, summary };
+  }
+
+  await env.EMAIL.send({
+    to,
+    from: { email: from, name: "CitizenNest Monitor" },
+    subject,
+    text,
+    html: `<p>CitizenNest Opportunity Queue summary:</p>
+      <ul>
+        <li>Publish now: ${summary.publishNow}</li>
+        <li>Needs review: ${summary.needsReview}</li>
+        <li>Update existing: ${summary.updateExisting}</li>
+        <li>Watch: ${summary.watch}</li>
+      </ul>
+      <ol>${top.map(item => `<li><strong>${escapeHtml(String(item.score))}</strong> ${escapeHtml(item.title || item.key)} ${item.existingPage ? `(existing: ${escapeHtml(item.existingPage)})` : ""}</li>`).join("")}</ol>
+      <p>Queue endpoint: <code>/opportunities/queue</code></p>`
+  });
+
+  return { ok: true, emailed: true, to, from, summary };
 }
 
 async function scanSource(source, env) {
@@ -1060,6 +1510,16 @@ async function claimDetectionsForGeneration(env, detections) {
       continue;
     }
 
+    if (requiresOpportunityQueue(detection)) {
+      await putProcessStatus(state, detection.fingerprint, {
+        status: "opportunity_queue_required",
+        reason: "Official RSS scheme/digital-service detections are scored and deduped through the Opportunity Queue before generation.",
+        detection,
+        updatedAt: new Date().toISOString()
+      });
+      continue;
+    }
+
     if ((detection.confidence || 0) < minConfidence) {
       await putProcessStatus(state, detection.fingerprint, {
         status: "held_low_confidence",
@@ -1084,6 +1544,12 @@ async function claimDetectionsForGeneration(env, detections) {
   }
 
   return claimed;
+}
+
+function requiresOpportunityQueue(detection) {
+  if (!["pib", "rbi-notifications"].includes(detection.sourceId)) return false;
+  const category = classifyOpportunity(`${detection.title} ${detection.url}`.toLowerCase());
+  return ["scheme", "policy-change", "digital-service"].includes(category);
 }
 
 async function dispatchToGitHub(env, detections) {

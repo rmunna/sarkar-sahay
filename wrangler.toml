@@ -17,6 +17,8 @@ GITHUB_REPO = "rmunna/sarkar-sahay"
 MIN_DISPATCH_CONFIDENCE = "0.75"
 PAGE_CREATED_EMAIL_TO = "admin@citizennest.com"
 PAGE_CREATED_EMAIL_FROM = "monitor@citizennest.com"
+# Enable only after Cloudflare Email Sending binding is configured.
+OPPORTUNITY_SUMMARY_EMAIL = "0"
 
 # Required secrets:
 #   npx wrangler secret put MONITOR_ADMIN_TOKEN

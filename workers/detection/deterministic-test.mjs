@@ -177,10 +177,33 @@ async function scanCbseWithFallback(kv) {
 }
 
 async function scanOpportunities(kv) {
-  const response = await worker.fetch(new Request("https://local.test/opportunities?tier=2&dryRun=1"), {
+  const response = await worker.fetch(new Request("https://local.test/opportunities?tier=2&source=pib&dryRun=1"), {
     MONITOR_STATE: kv,
     MONITOR_ADMIN_TOKEN: "local-test",
     FIXTURE_RESPONSES: JSON.stringify({ [PIB_RSS_URL]: pibRssXml })
+  });
+  assert.equal(response.status, 200);
+  return response.json();
+}
+
+async function persistOpportunities(kv) {
+  const response = await worker.fetch(new Request("https://local.test/opportunities?tier=2&source=pib&dryRun=0", {
+    headers: { Authorization: "Bearer local-test" }
+  }), {
+    MONITOR_STATE: kv,
+    MONITOR_ADMIN_TOKEN: "local-test",
+    FIXTURE_RESPONSES: JSON.stringify({ [PIB_RSS_URL]: pibRssXml })
+  });
+  assert.equal(response.status, 200);
+  return response.json();
+}
+
+async function readOpportunityQueue(kv) {
+  const response = await worker.fetch(new Request("https://local.test/opportunities/queue", {
+    headers: { Authorization: "Bearer local-test" }
+  }), {
+    MONITOR_STATE: kv,
+    MONITOR_ADMIN_TOKEN: "local-test"
   });
   assert.equal(response.status, 200);
   return response.json();
@@ -263,6 +286,20 @@ const opportunity = await scanOpportunities(new MemoryKV());
 assert.ok(opportunity.clusterCount >= 1, "official RSS opportunity should be clustered");
 assert.ok(opportunity.clusters.some(cluster => cluster.key === "pm surya"), "PM Surya item should become an opportunity cluster");
 assert.equal(opportunity.clusters.some(cluster => cluster.key.includes("auction")), false, "auction noise should be skipped");
+assert.ok(opportunity.opportunities.some(item => item.decision === "update_existing"), "known evergreen topics should be routed to existing-page updates");
+assert.equal(opportunity.dispatchableCount, 0, "dry-run opportunity scan should not dispatch");
+
+const kvOpportunity = new MemoryKV();
+const firstOpportunityRun = await persistOpportunities(kvOpportunity);
+assert.equal(firstOpportunityRun.queueUpdates.length, 1, "write-mode opportunity scan should create one queue item");
+assert.equal(firstOpportunityRun.dispatchableCount, 0, "PM Surya existing-page opportunity should be held for review, not auto-dispatched");
+const secondOpportunityRun = await persistOpportunities(kvOpportunity);
+assert.equal(secondOpportunityRun.queueUpdates[0].status, "updated", "repeat opportunity scan should update the same queue item");
+const opportunityQueue = await readOpportunityQueue(kvOpportunity);
+assert.equal(opportunityQueue.count, 1, "opportunity queue should dedupe repeat official items");
+assert.equal(opportunityQueue.opportunities[0].decision, "update_existing", "queue should preserve update-existing decision");
+assert.equal(opportunityQueue.opportunities[0].status, "needs_review", "update-existing records require review until guide updater exists");
+assert.equal(opportunityQueue.opportunities[0].existingPageMatch.slug, "/guide/pm-surya-ghar-muft-bijli");
 
 const trendSignals = await scanTrendSignals(new MemoryKV());
 assert.equal(trendSignals.itemCount, 2, "Google Trends RSS parser should read trend items");

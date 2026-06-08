@@ -15,6 +15,7 @@ It does **not** treat whole-page text changes as actionable. Each source extract
 - Claims each detection fingerprint before generation so the same item is not handed to Gemini twice.
 - Triggers the GitHub `Cloudflare Detection Publisher` workflow through `repository_dispatch`.
 - Receives page-created callbacks for status updates and optional email.
+- Maintains an Opportunity Queue for emerging official-feed topics before any auto-generation.
 
 ## Files
 
@@ -167,8 +168,46 @@ This does not estimate Google search volume. It scores emerging topics from offi
 - actionability words like apply, deadline, portal, subsidy, result
 - repeated entities such as APAAR, PM Surya Ghar, ABHA, MY Bharat, Ayushman, SSC, CBSE
 - cross-source clustering when the same term appears from multiple official feeds
+- low-competition CitizenNest targets such as APAAR, PM Surya Ghar, ABHA, MY Bharat and Farmer ID / Agri Stack
+- existing-page matches, so known evergreen pages are updated/reviewed instead of duplicated
 
 Use this as an early opportunity radar. Generation should still require an official source URL and the same quality gates as exam/scheme pages.
+
+Persist the queue from official RSS feeds:
+
+```bash
+curl -H "Authorization: Bearer $MONITOR_ADMIN_TOKEN" \
+  "https://citizennest-detection.citizennest.workers.dev/opportunities?tier=2&dryRun=0"
+```
+
+Read the queue:
+
+```bash
+curl -H "Authorization: Bearer $MONITOR_ADMIN_TOKEN" \
+  "https://citizennest-detection.citizennest.workers.dev/opportunities/queue"
+```
+
+Read a compact summary:
+
+```bash
+curl -H "Authorization: Bearer $MONITOR_ADMIN_TOKEN" \
+  "https://citizennest-detection.citizennest.workers.dev/opportunities/summary"
+```
+
+Manual single-source check:
+
+```bash
+curl "https://citizennest-detection.citizennest.workers.dev/opportunities?source=pib&dryRun=1"
+```
+
+Queue statuses:
+
+- `publish_now` — high score, strong official source, no known evergreen target; eligible for GitHub dispatch.
+- `needs_review` — promising, but either below auto threshold or should update an existing guide.
+- `watch` — official signal exists, but score is not strong enough.
+- `dispatched` / `generated` / `rejected` — lifecycle statuses after handoff or manual marking.
+
+Known evergreen topics such as PM Surya Ghar, ABHA, MY Bharat and Farmer ID are intentionally marked `update_existing` + `needs_review` because the current GitHub generator creates new update/scheme pages; it does not yet safely edit existing evergreen guides. This prevents duplicate page clutter.
 
 Google Trends RSS exam/job signals:
 
@@ -207,12 +246,21 @@ The watchlist is deduped by canonical topic key: organization + subject + stage 
 3. A later unseen fingerprint is stored as a detection.
 4. Detections below `MIN_DISPATCH_CONFIDENCE` are held and not sent to Gemini.
 5. High-confidence detections are marked `queued`, then dispatched to GitHub once.
-6. GitHub Actions runs `scripts/generate-updates-gemini.js --cloudflare-detections`.
-7. The generator processes only the detected source IDs and the detected official URL/PDF.
-8. If content is created, GitHub commits without `[skip vercel]`, submits the exact URL to Google Indexing API and IndexNow, then calls the Worker to mark the fingerprints `generated`.
+6. Official PIB/RBI scheme and digital-service RSS detections are held behind the Opportunity Queue. Raw RSS detections cannot bypass queue scoring.
+7. GitHub Actions runs `scripts/generate-updates-gemini.js --cloudflare-detections` for eligible exam/update detections.
+8. The generator processes only the detected source IDs and the detected official URL/PDF.
+9. If content is created, GitHub commits without `[skip vercel]`, submits the exact URL to Google Indexing API and IndexNow, then calls the Worker to mark the fingerprints `generated`.
 
 The old `exam-monitor.yml` and `spike-detector.yml` scheduled triggers are disabled. They remain manual-only fallbacks.
 
 ## Email
 
 The Worker has a `/notify/pages-created` endpoint. It sends via Cloudflare Email Sending only when an `EMAIL` binding is configured and `citizennest.com` is enabled for Email Sending. Without that binding, the endpoint returns a skipped response and does not fail the publishing workflow.
+
+Opportunity summary emails are optional. Set this Worker var only after Email Sending is configured:
+
+```toml
+OPPORTUNITY_SUMMARY_EMAIL = "1"
+```
+
+The Worker sends at most one Opportunity Queue summary email per day, and only when there are publish/review items.
