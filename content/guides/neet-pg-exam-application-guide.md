@@ -142,7 +142,7 @@ The exam determines eligibility and ranking for admission to approximately 60,00
 
 - Check the [UGC NET exam guide](/guide/ugc-net-exam-guide) for other competitive exam information
 - See our [Aadhaar card guide](/guide/aadhaar-card-apply-online) for identity document requirements
-- Read about [ABHA Health ID](/guide/digital-health-id-abha-uses) for digital health documentation
+- Read about [ABHA Health ID](/guide/abha-health-id) for digital health documentation
 
 ## Frequently Asked Questions
 

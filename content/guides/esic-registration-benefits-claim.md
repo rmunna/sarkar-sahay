@@ -168,7 +168,7 @@ The ESI (Employees' State Insurance) Scheme is a self-financing social security 
 ## Related Guides
 
 - Check the [Ayushman Bharat hospital guide](/guide/ayushman-bharat-hospital-list-check) for additional health coverage
-- Read about [ABHA Health ID](/guide/digital-health-id-abha-uses) for digital health records
+- Read about [ABHA Health ID](/guide/abha-health-id) for digital health records
 - See the [Jan Aushadhi guide](/guide/jan-aushadhi-generic-medicine-stores) for affordable medicines
 - Check our [PAN card guide](/guide/pan-card-apply-online) for employer registration requirements
 

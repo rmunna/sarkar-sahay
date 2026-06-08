@@ -44,7 +44,7 @@ If you only created ABHA but never linked a hospital or health app, your health 
 - Reduce repeated paperwork in ABDM-enabled facilities
 - Manage health data permissions
 
-For creating ABHA, read [ABHA Health ID Create Online](/guide/abha-health-id-create-online).
+For creating ABHA, read [ABHA Health ID Guide](/guide/abha-health-id).
 
 ## How Health Record Linking Usually Works
 
@@ -100,9 +100,9 @@ Read: [Ayushman Bharat Card Download Online](/guide/ayushman-bharat-card-downloa
 
 ## Related Guides
 
-- [ABHA Health ID Create Online](/guide/abha-health-id-create-online)
+- [ABHA Health ID Guide](/guide/abha-health-id)
 - [ABHA Health ID Not Working Fix](/guide/abha-health-id-not-working-fix)
-- [Digital Health ID ABHA Uses](/guide/digital-health-id-abha-uses)
+- [ABHA Health ID Guide](/guide/abha-health-id)
 - [Ayushman Bharat vs State Health Schemes](/guide/ayushman-bharat-vs-state-health-schemes)
 
 ## Frequently Asked Questions

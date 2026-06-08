@@ -160,13 +160,13 @@ No. The Ayushman Bharat card is completely free. If anyone demands money, report
 Yes, each eligible family member gets an individual Ayushman card, but the ₹5 lakh cover is shared by the entire family per year.
 
 ### Q6: What is the difference between ABHA card and Ayushman card?
-ABHA (Ayushman Bharat Health Account) is a 14-digit health ID for digital health records. The Ayushman Bharat PMJAY card is specifically for cashless treatment under the ₹5 lakh health insurance scheme. They are different. See our [ABHA Health ID guide](/guide/abha-health-id-create-online) for details.
+ABHA (Ayushman Bharat Health Account) is a 14-digit health ID for digital health records. The Ayushman Bharat PMJAY card is specifically for cashless treatment under the ₹5 lakh health insurance scheme. They are different. See our [ABHA Health ID guide](/guide/abha-health-id) for details.
 
 ---
 
 ## Related Guides
 
-- [ABHA Health ID — Create Online](/guide/abha-health-id-create-online) — Create your Ayushman Bharat Health Account
+- [ABHA Health ID — Create Online](/guide/abha-health-id) — Create your Ayushman Bharat Health Account
 - [Ayushman Bharat Card Download](/guide/ayushman-bharat-card-download-online) — Detailed download guide
 - [Aadhaar Card Apply Online](/guide/aadhaar-card-apply-online) — Aadhaar is required for Ayushman card
 

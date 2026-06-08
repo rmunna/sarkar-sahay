@@ -42,6 +42,21 @@ const nextConfig: NextConfig = {
         destination: "/guide/pm-surya-ghar-muft-bijli",
         permanent: true,
       },
+      {
+        source: "/guide/abha-health-id-create-online",
+        destination: "/guide/abha-health-id",
+        permanent: true,
+      },
+      {
+        source: "/guide/digital-health-id-abha-create",
+        destination: "/guide/abha-health-id",
+        permanent: true,
+      },
+      {
+        source: "/guide/digital-health-id-abha-uses",
+        destination: "/guide/abha-health-id",
+        permanent: true,
+      },
     ];
   },
 };

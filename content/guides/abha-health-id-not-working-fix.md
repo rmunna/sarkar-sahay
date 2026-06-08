@@ -137,7 +137,7 @@ This usually means the server is under maintenance or experiencing high traffic.
 Yes. ABHA follows the **consent-based data sharing** model. No hospital or facility can access your records without your explicit approval. You can revoke access anytime from your dashboard.
 
 ### Can I create ABHA at a hospital or health centre?
-Yes. Many government hospitals and Ayushman Bharat Health & Wellness Centres can create ABHA for you at the registration counter. Carry your Aadhaar card. See our [ABHA creation guide](/guide/digital-health-id-abha-create) for the full process.
+Yes. Many government hospitals and Ayushman Bharat Health & Wellness Centres can create ABHA for you at the registration counter. Carry your Aadhaar card. See our [ABHA Health ID guide](/guide/abha-health-id) for the full process.
 
 ---
 

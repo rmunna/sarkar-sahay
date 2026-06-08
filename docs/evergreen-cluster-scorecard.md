@@ -10,7 +10,7 @@ This scorecard tracks CitizenNest's emerging evergreen clusters so monitoring, c
 |---|---|---:|---:|---|---|
 | PM Surya Ghar | `/guide/pm-surya-ghar-muft-bijli` | 5 | 6 | Consolidated | Keep all future rooftop-solar updates on the pillar unless the search intent is state-specific. |
 | APAAR ID | `/guide/apaar-id-guide` | 7 | 0 | Strong | Add Hindi variants and keep fixes linked back to the pillar. |
-| ABHA / Health Locker | `/guide/abha-health-id` | 5 | 0 | Needs light cleanup | Choose whether health-locker should remain a sub-pillar or be folded into ABHA hub links. |
+| ABHA / Health Locker | `/guide/abha-health-id` | 2 | 3 | Consolidated | Keep health-locker and troubleshooting pages as distinct support intent. |
 | MY Bharat / NYPS | `/guide/my-bharat-registration-guide` | 2 | 0 | Clean | Add state/youth-program links only when official pages exist. |
 | Farmer ID / Agri Stack | `/guide/farmer-id-agri-stack-guide` | 2 | 0 | Clean | Add state rollout pages only after official state registry evidence. |
 | Government AI services | `/guide/kar-saathi-income-tax-ai-chatbot-guide` | 4 | 0 | Emerging | Build hub page later if traffic/query volume appears across multiple AI services. |

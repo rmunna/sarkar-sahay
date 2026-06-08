@@ -107,7 +107,7 @@ The **Ni-kshay Mitra (TB Mukt Bharat)** initiative allows individuals, organizat
 ## Related Guides
 
 - Check the [Ayushman Bharat hospital guide](/guide/ayushman-bharat-hospital-list-check) for free hospitalization
-- Read about [ABHA Health ID](/guide/digital-health-id-abha-uses) for maintaining digital health records
+- Read about [ABHA Health ID](/guide/abha-health-id) for maintaining digital health records
 - See the [Jan Aushadhi guide](/guide/jan-aushadhi-generic-medicine-stores) for affordable medicines
 - Check our [Aadhaar card guide](/guide/aadhaar-card-apply-online) for Aadhaar-related help
 

@@ -175,7 +175,7 @@ ESI (कर्मचारी राज्य बीमा) योजना ए�
 ## संबंधित मार्गदर्शिकाएं
 
 - अतिरिक्त स्वास्थ्य कवरेज के लिए [आयुष्मान भारत अस्पताल गाइड](/guide/ayushman-bharat-hospital-list-check) देखें
-- डिजिटल स्वास्थ्य रिकॉर्ड के लिए [ABHA हेल्थ ID](/guide/digital-health-id-abha-uses) पढ़ें
+- डिजिटल स्वास्थ्य रिकॉर्ड के लिए [ABHA हेल्थ ID](/guide/abha-health-id) पढ़ें
 - सस्ती दवाइयों के लिए [जन औषधि गाइड](/guide/jan-aushadhi-generic-medicine-stores) देखें
 - नियोक्ता पंजीकरण के लिए [PAN कार्ड गाइड](/guide/pan-card-apply-online) देखें
 

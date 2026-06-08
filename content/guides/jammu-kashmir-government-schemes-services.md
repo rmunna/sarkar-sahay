@@ -124,7 +124,7 @@ Ayushman Bharat – Social Endeavour for Health and Telemedicine (SEHAT) extends
 - Covers hospitalisation, surgery, diagnostics, and follow-up care
 - Golden Card (Ayushman Card) required for availing benefits
 
-**How to apply:** Visit the nearest Ayushman Bharat centre, Common Service Centre (CSC), or empanelled hospital with Aadhaar, domicile, and ration card. See also: [Ayushman Bharat Card – Apply Online](/guide/ayushman-bharat-card-download-eligibility) | [ABHA Health ID](/guide/abha-health-id-create-online)
+**How to apply:** Visit the nearest Ayushman Bharat centre, Common Service Centre (CSC), or empanelled hospital with Aadhaar, domicile, and ration card. See also: [Ayushman Bharat Card – Apply Online](/guide/ayushman-bharat-card-download-eligibility) | [ABHA Health ID](/guide/abha-health-id)
 
 ### PMJAY in J&K
 

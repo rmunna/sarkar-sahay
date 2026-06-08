@@ -105,7 +105,8 @@ const LOW_COMPETITION_TOPICS = [
 const EXISTING_PAGE_TARGETS = [
   { terms: ["apaar"], slug: "/guide/apaar-id-guide", action: "update_existing" },
   { terms: ["pm surya", "surya ghar", "solar"], slug: "/guide/pm-surya-ghar-muft-bijli", action: "update_existing" },
-  { terms: ["abha", "health locker"], slug: "/guide/abha-health-locker-records-guide", action: "update_existing" },
+  { terms: ["health locker", "abha records", "health records", "abha consent", "consent manager"], slug: "/guide/abha-health-locker-records-guide", action: "update_existing" },
+  { terms: ["abha", "digital health id", "ayushman bharat health account"], slug: "/guide/abha-health-id", action: "update_existing" },
   { terms: ["my bharat", "nyps", "youth"], slug: "/guide/my-bharat-registration-guide", action: "update_existing" },
   { terms: ["farmer id", "agri stack", "agristack", "farmer registry"], slug: "/guide/farmer-id-agri-stack-guide", action: "update_existing" },
   { terms: ["bhashini", "saarthi", "vyoma"], slug: "/guide/bhashini-ondc-saarthi-multilingual-ai-guide", action: "update_existing" },

@@ -112,7 +112,7 @@ If you're interested in opening a store:
 
 - Check the [Ayushman Bharat hospital guide](/guide/ayushman-bharat-hospital-list-check) for free hospital treatment
 - Read about [ESIC benefits](/guide/esic-registration-benefits-claim) for employee health insurance
-- See our [ABHA Health ID guide](/guide/digital-health-id-abha-uses) for digital health records
+- See our [ABHA Health ID guide](/guide/abha-health-id) for digital health records
 
 ## Frequently Asked Questions
 
