@@ -68,6 +68,8 @@ According to the official APAAR and ABC portals, APAAR helps with:
 
 APAAR should not be treated as a replacement for marksheets, certificates, Aadhaar or DigiLocker. It is an academic identity that helps connect those records.
 
+Students looking for government youth opportunities can also use [MY Bharat Registration Guide](/guide/my-bharat-registration-guide) after their academic identity and DigiLocker basics are in order.
+
 ## How to Get APAAR ID - Choose Your Route
 
 | Student Type | Where to Start | Main Requirement |
@@ -161,6 +163,7 @@ Detailed comparison: [APAAR vs ABC ID vs DigiLocker](/guide/apaar-vs-abc-id-digi
 - APAAR official portal: [apaar.education.gov.in](https://apaar.education.gov.in/get-your-apaar)
 - ABC official portal: [abc.gov.in](https://www.abc.gov.in/)
 - DigiLocker: [digilocker.gov.in](https://www.digilocker.gov.in/)
+- MY Bharat youth opportunities: [MY Bharat Registration Guide](/guide/my-bharat-registration-guide)
 
 ## FAQs
 

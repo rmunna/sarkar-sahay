@@ -56,7 +56,7 @@ AI advisories become more useful when the system knows:
 - Scheme eligibility
 - Crop stage
 
-That is why Farmer ID, Agri-Stack and Digital Agriculture Mission matter. For scheme benefits, also read [PM-KISAN eKYC Failed Fix](/guide/pm-kisan-ekyc-failed-fix), [PMFBY Claim Status](/guide/pmfby-claim-status-crop-loss), and [PM-KUSUM Solar Pump Guide](/guide/pm-kusum-yojana-solar-pump-farmers).
+That is why Farmer ID, Agri-Stack and Digital Agriculture Mission matter. Start with [Farmer ID Agri Stack Guide](/guide/farmer-id-agri-stack-guide) and [Farmer Registry Status Check](/guide/farmer-registry-status-check). For scheme benefits, also read [PM-KISAN eKYC Failed Fix](/guide/pm-kisan-ekyc-failed-fix), [PMFBY Claim Status](/guide/pmfby-claim-status-crop-loss), and [PM-KUSUM Solar Pump Guide](/guide/pm-kusum-yojana-solar-pump-farmers).
 
 ## Questions Farmers Can Ask an AI Advisory Tool
 
@@ -80,6 +80,7 @@ Good questions are specific:
 
 - [IndiaAI Compute and AIKosha Guide](/guide/indiaai-compute-aikosha-students-developers-guide)
 - [BHASHINI and ONDC Saarthi AI Guide](/guide/bhashini-ondc-saarthi-multilingual-ai-guide)
+- [Farmer ID Agri Stack Guide](/guide/farmer-id-agri-stack-guide)
 - [Kar Saathi Income Tax AI Chatbot Guide](/guide/kar-saathi-income-tax-ai-chatbot-guide)
 - [Samadhan Didi CPGRAMS Voice Bot Guide](/guide/samadhan-didi-cpgrams-ai-voice-bot-guide)
 
@@ -100,4 +101,3 @@ Do not rely on AI alone for pesticide decisions. Confirm with the local agricult
 ### Should farmers share Aadhaar or bank OTP with AI tools?
 
 No. Never share OTPs, passwords or banking credentials with any chatbot or unofficial app.
-

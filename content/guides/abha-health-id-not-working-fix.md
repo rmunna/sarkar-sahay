@@ -93,6 +93,8 @@ Having trouble creating or accessing your ABHA Health ID? You're not alone. Comm
 - **Records take time** — After linking, records may take 24-48 hours to reflect
 - **Check consent** — Ensure you haven't accidentally revoked consent for that facility
 
+For the full health-record linking flow, read [ABHA Health Locker Guide](/guide/abha-health-locker-records-guide).
+
 ---
 
 ## ABHA Helpline & Support
@@ -113,6 +115,7 @@ Having trouble creating or accessing your ABHA Health ID? You're not alone. Comm
 3. **Screenshot your ABHA details** — Save your 14-digit ABHA number and ABHA address somewhere safe
 4. **One ABHA per person** — Don't try to create multiple accounts; it will cause duplicate errors
 5. **Be patient during peak hours** — Government portals experience heavy traffic during mornings and scheme deadlines
+6. **Understand consent** — Before linking health records, review [ABHA Health Locker Guide](/guide/abha-health-locker-records-guide)
 
 ---
 
