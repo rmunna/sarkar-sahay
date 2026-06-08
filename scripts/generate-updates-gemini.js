@@ -125,13 +125,15 @@ function normalizeSourceId(id) {
   const aliases = {
     'sbi-careers': 'sbi',
     'cbse-results': 'cbse',
-    'nios-results': 'nios'
+    'nios-results': 'nios',
+    'kea': 'kcet',
+    'rbi-notifications': 'rbi'
   };
   return aliases[id] || id;
 }
 
 function sourceMatchesChange(source, change) {
-  if (change.sourceId && normalizeSourceId(change.sourceId) === source.id) return true;
+  if (change.sourceId && normalizeSourceId(change.sourceId) === normalizeSourceId(source.id)) return true;
   if (!change.url) return false;
   try {
     const changeHost = new URL(change.url).hostname.replace(/^www\./, '');
@@ -1265,8 +1267,7 @@ async function main() {
   // - If no changes: tier1 + stale tier2 (lastScanned > 24h ago)
   let sourcesToProcess = activeSources;
   if (CLOUDFLARE_DETECTIONS) {
-    const changedSourceIds = new Set(latestChanges.map(change => change.sourceId).filter(Boolean));
-    sourcesToProcess = activeSources.filter(source => changedSourceIds.has(source.id));
+    sourcesToProcess = activeSources.filter(source => latestChanges.some(change => sourceMatchesChange(source, change)));
     log(`🎯 Processing only ${sourcesToProcess.length} Cloudflare-confirmed source(s)`);
   } else if (!FORCE_SCAN) {
     const changed = latestChanges.length > 0
