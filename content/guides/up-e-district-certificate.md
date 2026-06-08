@@ -1,18 +1,33 @@
 ---
-title: "UP eDistrict: Apply for Income, Caste, Domicile Certificate Online"
-description: "Apply for income, caste, and domicile certificates online on UP eDistrict portal. Complete process, fees ₹10-₹15, and timeline guide."
+title: "eDistrict UP Certificate Apply Online — Income, Caste, Domicile"
+description: "eDistrict UP is the official edistrict.up.gov.in portal for income, caste, domicile and other certificates in Uttar Pradesh. Apply, track and verify certificates online."
 category: "Certificates"
 keywords: ["up edistrict", "up income certificate online", "up caste certificate", "up domicile certificate", "edistrict up gov in", "uttar pradesh certificate online"]
 readingTime: "8 min"
 officialLinks:
   - https://edistrict.up.gov.in
   - https://up.gov.in
-lastUpdated: "2026-03-06"
+lastUpdated: "2026-06-08"
 ---
 
-## What is UP eDistrict?
+# eDistrict UP Certificate Apply Online
 
-UP eDistrict is the official online service delivery portal of the Government of Uttar Pradesh. Through **edistrict.up.gov.in**, residents of Uttar Pradesh can apply for various certificates including income, caste, domicile, birth, death, and other documents online. The portal is integrated with the Uttar Pradesh Revenue Department and SDM offices across the state.
+**Quick answer:** eDistrict UP is the official Uttar Pradesh portal at [edistrict.up.gov.in](https://edistrict.up.gov.in) for applying, tracking and verifying income, caste, domicile and other certificates. Use the citizen login or a Jan Seva Kendra / CSC route, save your application number, and download the digitally signed certificate after approval.
+
+## What is eDistrict UP?
+
+eDistrict UP is the official online service delivery portal of the Government of Uttar Pradesh. Through **edistrict.up.gov.in**, residents of Uttar Pradesh can apply for various certificates including income, caste, domicile, birth, death, and other documents online. The portal is integrated with the Uttar Pradesh Revenue Department and SDM offices across the state.
+
+## eDistrict UP Quick Links
+
+| Task | Where to go |
+|---|---|
+| Apply for certificate | Citizen login / new user registration on `edistrict.up.gov.in` |
+| Track application | `आवेदन की स्थिति` / application status option |
+| Verify certificate | `प्रमाण पत्र सत्यापन` / certificate verification option |
+| Assisted application | Jan Seva Kendra / CSC or Tehsil office |
+
+**Official-source note:** Always check the URL before entering details. The official portal is `edistrict.up.gov.in`; avoid lookalike sites asking for extra payments.
 
 ### Certificates Available on UP eDistrict
 

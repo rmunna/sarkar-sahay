@@ -1,6 +1,6 @@
 ---
-title: "KPSC FDA SDA Recruitment 2026 — Apply Online, ₹34,100 Salary, Eligibility & Syllabus"
-description: "KPSC/KEA FDA SDA 2026 recruitment notification released. SDA: PUC pass, ₹34,100–₹67,600/month. FDA: Graduate, ₹44,425–₹83,700/month. Latest vacancies, online application last date, exam pattern, syllabus & step-by-step apply guide at kpsc.kar.nic.in."
+title: "SDA FDA Recruitment 2026 Karnataka — Full Form, Exam Date, Salary"
+description: "SDA full form is Second Division Assistant and FDA full form is First Division Assistant. Check Karnataka FDA/SDA recruitment status, exam date, salary, eligibility and official KPSC/KEA links."
 category: "Jobs & Exams"
 keywords:
   - sda full form
@@ -19,6 +19,7 @@ keywords:
   - sda fda next recruitment 2026
   - kpsc fda sda syllabus 2026
 readingTime: "22 min"
+lastUpdated: "2026-06-08"
 officialLinks:
   - "https://kpsc.kar.nic.in"
   - "https://cetonline.karnataka.gov.in"
@@ -32,6 +33,19 @@ officialLinks:
 **FDA full form in Karnataka:** First Division Assistant
 
 SDA and FDA are Karnataka state government administrative posts filled by the Karnataka Public Service Commission (KPSC) and Karnataka Examination Authority (KEA). SDA requires PUC (12th pass); FDA requires a Bachelor's degree.
+
+## SDA FDA Recruitment 2026: What Aspirants Should Check First
+
+| Search query | Direct answer |
+|---|---|
+| SDA FDA recruitment 2026 | The 2025-26 KEA/KPSC cycle listed 178 FDA/SDA vacancies and the application window is closed. Watch official KPSC/KEA sites for the next notification. |
+| FDA SDA online application 2026 last date | The listed 2025-26 application window was 8 Oct to 14 Nov 2025. Do not use unofficial application links after the window closes. |
+| SDA exam date 2026 / FDA exam date 2026 | Check `cetonline.karnataka.gov.in` and `kpsc.kar.nic.in` for official exam/result notices. |
+| SDA full form | Second Division Assistant. |
+| FDA full form | First Division Assistant. |
+| FDA salary in Karnataka | FDA pay scale shown in this guide: ₹44,425-₹83,700, subject to official notification/pay rules. |
+
+**Official-source note:** Use only KPSC (`kpsc.kar.nic.in`) and KEA (`cetonline.karnataka.gov.in`) for notification, application, admit card, answer key and result links. Coaching or job sites may lag or use old dates.
 
 ## Current Status — KPSC SDA FDA 2025–26
 
