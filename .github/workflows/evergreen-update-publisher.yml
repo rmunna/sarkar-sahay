@@ -1,0 +1,233 @@
+name: Evergreen Guide Updater
+
+on:
+  repository_dispatch:
+    types: [cloudflare_evergreen_update_batch]
+  workflow_dispatch:
+    inputs:
+      opportunities_json:
+        description: "Optional JSON array or {detections:[...]} payload for manual testing"
+        required: false
+        default: ""
+      dry_run:
+        description: "Apply without writing files"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+jobs:
+  update-evergreen-guides:
+    name: Update Existing Guides From Official Queue
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      SITE_URL: https://www.citizennest.com
+      MONITOR_URL: https://citizennest-detection.citizennest.workers.dev
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4.2.2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4.4.0
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --prefer-offline
+
+      - name: Write evergreen update payload
+        id: payload
+        env:
+          DISPATCH_PAYLOAD: ${{ toJson(github.event.client_payload) }}
+          MANUAL_PAYLOAD: ${{ github.event.inputs.opportunities_json }}
+        run: |
+          node <<'JS'
+          const fs = require('fs');
+          const path = require('path');
+
+          function parseJson(value, fallback) {
+            if (!value || !value.trim()) return fallback;
+            try { return JSON.parse(value); } catch { return fallback; }
+          }
+
+          const dispatchPayload = parseJson(process.env.DISPATCH_PAYLOAD, {});
+          const manualPayload = parseJson(process.env.MANUAL_PAYLOAD, null);
+          const payload = manualPayload || dispatchPayload || {};
+          const detections = Array.isArray(payload) ? payload : (payload.detections || payload.opportunities || []);
+
+          fs.mkdirSync('agents', { recursive: true });
+          fs.writeFileSync(path.join('agents', 'evergreen-opportunities.json'), JSON.stringify({ detections }, null, 2));
+          fs.writeFileSync(path.join('agents', '.evergreen-opportunity-keys-all'), detections.map(d => d.id || d.key).filter(Boolean).join('\n'));
+          fs.writeFileSync(path.join('agents', '.evergreen-detection-fingerprints'), detections.map(d => d.fingerprint).filter(Boolean).join('\n'));
+
+          console.log(`Evergreen opportunities received: ${detections.length}`);
+          JS
+
+          COUNT=$(node -e "const d=require('./agents/evergreen-opportunities.json'); console.log((d.detections||[]).length)")
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "has_opportunities=$([ "$COUNT" -gt 0 ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+
+      - name: Apply evergreen updates
+        if: steps.payload.outputs.has_opportunities == 'true'
+        run: |
+          ARGS="--opportunities-file agents/evergreen-opportunities.json"
+          [ "${{ github.event.inputs.dry_run }}" = "true" ] && ARGS="$ARGS --dry-run"
+          node scripts/apply-evergreen-updates.js $ARGS
+
+      - name: Regenerate sitemap when guides changed
+        if: steps.payload.outputs.has_opportunities == 'true'
+        run: |
+          if git status --porcelain -- content/guides | grep -q .; then
+            npx tsx scripts/generate-sitemap.ts
+            git restore public/sitemap-index.xml public/sitemap-court.xml public/sitemap-hsn.xml \
+              public/sitemap-ifsc-axis.xml public/sitemap-ifsc-bandhan.xml public/sitemap-ifsc-bob.xml \
+              public/sitemap-ifsc-boi.xml public/sitemap-ifsc-canara.xml public/sitemap-ifsc-central.xml \
+              public/sitemap-ifsc-federal.xml public/sitemap-ifsc-hdfc.xml public/sitemap-ifsc-icici.xml \
+              public/sitemap-ifsc-idbi.xml public/sitemap-ifsc-idfc.xml public/sitemap-ifsc-indian.xml \
+              public/sitemap-ifsc-indusind.xml public/sitemap-ifsc-kotak.xml public/sitemap-ifsc-pnb.xml \
+              public/sitemap-ifsc-rbl.xml public/sitemap-ifsc-sbi.xml public/sitemap-ifsc-union.xml \
+              public/sitemap-ifsc-yes.xml public/sitemap-pincode-hubs.xml public/sitemap-pincode.xml \
+              public/sitemap-rto.xml 2>/dev/null || true
+          else
+            echo "No guide files changed; sitemap unchanged"
+          fi
+
+      - name: Commit and push updated guides
+        id: commit
+        if: steps.payload.outputs.has_opportunities == 'true'
+        run: |
+          git config user.name "CitizenNest Bot"
+          git config user.email "bot@citizennest.com"
+
+          git add content/guides/ public/sitemap.xml 2>/dev/null || true
+          UPDATED=$(git diff --staged --name-only -- 'content/guides/*.md' | wc -l | tr -d ' ')
+
+          if [ "$UPDATED" -gt 0 ]; then
+            git commit -m "content: refresh ${UPDATED} evergreen guide(s) [$(TZ=Asia/Kolkata date +'%Y-%m-%d %H:%M IST')]
+
+            Source: Cloudflare opportunity queue
+            Safeguards: official-source block update only"
+            git fetch origin main
+            git rebase origin/main
+            git push
+            echo "updated_count=$UPDATED" >> "$GITHUB_OUTPUT"
+          else
+            git restore --staged content/guides/ public/sitemap.xml agents/evergreen-update-results.json 2>/dev/null || true
+            echo "updated_count=0" >> "$GITHUB_OUTPUT"
+            echo "No evergreen guide changes; nothing pushed"
+          fi
+
+      - name: Build updated URL list
+        id: urls
+        if: steps.commit.outputs.updated_count > 0
+        run: |
+          if [ -f "agents/.evergreen-updated-slugs" ]; then
+            while IFS= read -r slug; do
+              [ -z "$slug" ] && continue
+              echo "$SITE_URL/guide/$slug" >> /tmp/evergreen-updated-urls.txt
+            done < agents/.evergreen-updated-slugs
+          fi
+          COUNT=$(wc -l < /tmp/evergreen-updated-urls.txt 2>/dev/null | tr -d ' ' || echo 0)
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "has_urls=$([ "$COUNT" -gt 0 ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+          cat /tmp/evergreen-updated-urls.txt 2>/dev/null || true
+
+      - name: Submit updated URLs to IndexNow
+        if: steps.urls.outputs.has_urls == 'true'
+        run: |
+          URLS_JSON=$(awk '{printf "\"%s\",", $0}' /tmp/evergreen-updated-urls.txt | sed 's/,$//')
+          curl -s -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json" \
+            -d "{\"host\":\"www.citizennest.com\",\"key\":\"c4afa3fbd1f57a882b7e8453af3e4f7e\",\"keyLocation\":\"https://www.citizennest.com/c4afa3fbd1f57a882b7e8453af3e4f7e.txt\",\"urlList\":[$URLS_JSON]}" \
+            && echo "IndexNow submitted" || echo "IndexNow failed"
+
+      - name: Mark opportunity queue
+        if: always() && steps.payload.outputs.has_opportunities == 'true'
+        env:
+          CF_MONITOR_ADMIN_TOKEN: ${{ secrets.CF_MONITOR_ADMIN_TOKEN }}
+        run: |
+          [ -z "$CF_MONITOR_ADMIN_TOKEN" ] && { echo "CF_MONITOR_ADMIN_TOKEN not set; skipping monitor status update"; exit 0; }
+          export STATUS=$([ "${{ steps.commit.outputs.updated_count || 0 }}" -gt 0 ] && echo "updated" || echo "update_skipped")
+          node <<'JS'
+          const fs = require('fs');
+          const https = require('https');
+
+          const updatedKeys = fs.existsSync('agents/.evergreen-opportunity-keys')
+            ? fs.readFileSync('agents/.evergreen-opportunity-keys', 'utf8').split('\n').filter(Boolean)
+            : [];
+          const allKeys = fs.existsSync('agents/.evergreen-opportunity-keys-all')
+            ? fs.readFileSync('agents/.evergreen-opportunity-keys-all', 'utf8').split('\n').filter(Boolean)
+            : [];
+          const keys = updatedKeys.length ? updatedKeys : allKeys;
+          if (keys.length === 0) process.exit(0);
+
+          const body = JSON.stringify({
+            keys,
+            status: process.env.STATUS,
+            runUrl: `https://github.com/${process.env.GITHUB_REPOSITORY}/actions/runs/${process.env.GITHUB_RUN_ID}`
+          });
+          const req = https.request(`${process.env.MONITOR_URL}/opportunities/mark`, {
+            method: 'POST',
+            headers: {
+              'Authorization': `Bearer ${process.env.CF_MONITOR_ADMIN_TOKEN}`,
+              'Content-Type': 'application/json',
+              'Content-Length': Buffer.byteLength(body)
+            }
+          }, res => {
+            res.resume();
+            res.on('end', () => console.log(`Opportunity status update: HTTP ${res.statusCode}`));
+          });
+          req.on('error', err => console.log(`Opportunity status update failed: ${err.message}`));
+          req.end(body);
+          JS
+
+      - name: Mark detection process statuses
+        if: always() && steps.payload.outputs.has_opportunities == 'true'
+        env:
+          CF_MONITOR_ADMIN_TOKEN: ${{ secrets.CF_MONITOR_ADMIN_TOKEN }}
+        run: |
+          [ -z "$CF_MONITOR_ADMIN_TOKEN" ] && { echo "CF_MONITOR_ADMIN_TOKEN not set; skipping detection status update"; exit 0; }
+          export STATUS=$([ "${{ steps.commit.outputs.updated_count || 0 }}" -gt 0 ] && echo "updated" || echo "update_skipped")
+          node <<'JS'
+          const fs = require('fs');
+          const https = require('https');
+          const fingerprints = fs.existsSync('agents/.evergreen-detection-fingerprints')
+            ? fs.readFileSync('agents/.evergreen-detection-fingerprints', 'utf8').split('\n').filter(Boolean)
+            : [];
+          if (fingerprints.length === 0) process.exit(0);
+          const body = JSON.stringify({
+            fingerprints,
+            status: process.env.STATUS,
+            runUrl: `https://github.com/${process.env.GITHUB_REPOSITORY}/actions/runs/${process.env.GITHUB_RUN_ID}`
+          });
+          const req = https.request(`${process.env.MONITOR_URL}/detections/mark`, {
+            method: 'POST',
+            headers: {
+              'Authorization': `Bearer ${process.env.CF_MONITOR_ADMIN_TOKEN}`,
+              'Content-Type': 'application/json',
+              'Content-Length': Buffer.byteLength(body)
+            }
+          }, res => {
+            res.resume();
+            res.on('end', () => console.log(`Detection status update: HTTP ${res.statusCode}`));
+          });
+          req.on('error', err => console.log(`Detection status update failed: ${err.message}`));
+          req.end(body);
+          JS
+
+      - name: Job Summary
+        if: always()
+        run: |
+          echo "## Evergreen Guide Updater" >> "$GITHUB_STEP_SUMMARY"
+          echo "| | |" >> "$GITHUB_STEP_SUMMARY"
+          echo "|---|---|" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Opportunities received | ${{ steps.payload.outputs.count || 0 }} |" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Guides updated | ${{ steps.commit.outputs.updated_count || 0 }} |" >> "$GITHUB_STEP_SUMMARY"
+          echo "| URLs submitted to IndexNow | ${{ steps.urls.outputs.count || 0 }} |" >> "$GITHUB_STEP_SUMMARY"

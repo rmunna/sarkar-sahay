@@ -292,13 +292,13 @@ assert.equal(opportunity.dispatchableCount, 0, "dry-run opportunity scan should 
 const kvOpportunity = new MemoryKV();
 const firstOpportunityRun = await persistOpportunities(kvOpportunity);
 assert.equal(firstOpportunityRun.queueUpdates.length, 1, "write-mode opportunity scan should create one queue item");
-assert.equal(firstOpportunityRun.dispatchableCount, 0, "PM Surya existing-page opportunity should be held for review, not auto-dispatched");
+assert.equal(firstOpportunityRun.dispatchableCount, 1, "PM Surya existing-page opportunity should be handed to the evergreen updater");
 const secondOpportunityRun = await persistOpportunities(kvOpportunity);
 assert.equal(secondOpportunityRun.queueUpdates[0].status, "updated", "repeat opportunity scan should update the same queue item");
 const opportunityQueue = await readOpportunityQueue(kvOpportunity);
 assert.equal(opportunityQueue.count, 1, "opportunity queue should dedupe repeat official items");
 assert.equal(opportunityQueue.opportunities[0].decision, "update_existing", "queue should preserve update-existing decision");
-assert.equal(opportunityQueue.opportunities[0].status, "needs_review", "update-existing records require review until guide updater exists");
+assert.equal(opportunityQueue.opportunities[0].status, "dispatched", "update-ready records should be claimed once for the evergreen updater");
 assert.equal(opportunityQueue.opportunities[0].existingPageMatch.slug, "/guide/pm-surya-ghar-muft-bijli");
 
 const trendSignals = await scanTrendSignals(new MemoryKV());

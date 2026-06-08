@@ -785,7 +785,7 @@ function buildOpportunityRecord(cluster, now) {
       fingerprint: item.fingerprint
     })),
     officialConfirmationRequired: false,
-    dispatchEligible: decision.status === "publish_now"
+    dispatchEligible: decision.status === "publish_now" || decision.status === "update_ready"
   };
 }
 
@@ -844,9 +844,9 @@ function opportunityDecision({ score, existingPageMatch, officialConfidence, clu
   if (existingPageMatch && score >= 70) {
     return {
       decision: "update_existing",
-      status: "needs_review",
+      status: "update_ready",
       contentAction: "update_existing",
-      reason: `Existing page ${existingPageMatch.slug} should be updated; held because the current GitHub generator creates new pages only.`
+      reason: `Existing page ${existingPageMatch.slug} should be refreshed with the official update.`
     };
   }
   if (score >= minScore && officialConfidence >= 30) {
@@ -889,7 +889,7 @@ async function persistOpportunityQueue(env, opportunities, now) {
     const merged = {
       ...previous,
       ...opportunity,
-      status: previous?.status && ["dispatched", "generated", "rejected"].includes(previous.status)
+      status: previous?.status && ["dispatched", "generated", "updated", "update_skipped", "rejected"].includes(previous.status)
         ? previous.status
         : opportunity.status,
       firstSeenAt: previous?.firstSeenAt || now,
@@ -918,7 +918,7 @@ async function claimOpportunitiesForGeneration(env, opportunities) {
     const storageKey = `${OPPORTUNITY_PREFIX}${opportunity.key}`;
     const raw = await state.get(storageKey);
     const current = raw ? JSON.parse(raw) : opportunity;
-    if (["dispatched", "generated", "rejected"].includes(current.status)) continue;
+    if (["dispatched", "generated", "updated", "update_skipped", "rejected"].includes(current.status)) continue;
 
     const detection = opportunityToDetection(current);
     const existingProcess = await state.get(`${PROCESS_PREFIX}${detection.fingerprint}`);
@@ -1011,6 +1011,7 @@ function summarizeOpportunities(opportunities) {
   const summary = {
     total: opportunities.length,
     publishNow: 0,
+    updateReady: 0,
     needsReview: 0,
     updateExisting: 0,
     watch: 0,
@@ -1019,6 +1020,7 @@ function summarizeOpportunities(opportunities) {
   };
   for (const item of opportunities) {
     if (item.status === "publish_now") summary.publishNow++;
+    else if (item.status === "update_ready") summary.updateReady++;
     else if (item.status === "needs_review") summary.needsReview++;
     else if (item.status === "watch") summary.watch++;
     else if (item.status === "rejected") summary.rejected++;
@@ -1046,7 +1048,7 @@ async function maybeSendOpportunitySummaryEmail(env, opportunities, updates, now
     return { skipped: true, reason: "no queue updates" };
   }
   const summary = summarizeOpportunities(opportunities);
-  if (summary.publishNow === 0 && summary.needsReview === 0) {
+  if (summary.publishNow === 0 && summary.updateReady === 0 && summary.needsReview === 0) {
     return { skipped: true, reason: "no publish/review opportunities" };
   }
 
@@ -1068,12 +1070,13 @@ async function maybeSendOpportunitySummaryEmail(env, opportunities, updates, now
 async function sendOpportunitySummaryEmail(env, summary) {
   const to = env.PAGE_CREATED_EMAIL_TO || "admin@citizennest.com";
   const from = env.PAGE_CREATED_EMAIL_FROM || "monitor@citizennest.com";
-  const subject = `CitizenNest opportunity queue: ${summary.publishNow} publish, ${summary.needsReview} review`;
+  const subject = `CitizenNest opportunity queue: ${summary.publishNow} publish, ${summary.updateReady} update, ${summary.needsReview} review`;
   const top = summary.top.slice(0, 8);
   const text = [
     "CitizenNest Opportunity Queue summary:",
     "",
     `Publish now: ${summary.publishNow}`,
+    `Update ready: ${summary.updateReady}`,
     `Needs review: ${summary.needsReview}`,
     `Update existing: ${summary.updateExisting}`,
     `Watch: ${summary.watch}`,
@@ -1095,6 +1098,7 @@ async function sendOpportunitySummaryEmail(env, summary) {
     html: `<p>CitizenNest Opportunity Queue summary:</p>
       <ul>
         <li>Publish now: ${summary.publishNow}</li>
+        <li>Update ready: ${summary.updateReady}</li>
         <li>Needs review: ${summary.needsReview}</li>
         <li>Update existing: ${summary.updateExisting}</li>
         <li>Watch: ${summary.watch}</li>
@@ -1594,7 +1598,9 @@ function requiresOpportunityQueue(detection) {
 async function dispatchToGitHub(env, detections) {
   if (!env.GITHUB_DISPATCH_TOKEN || !env.GITHUB_REPO) return;
 
-  const eventType = detections.every(isSchemeDetection)
+  const eventType = detections.every(isEvergreenUpdateDetection)
+    ? "cloudflare_evergreen_update_batch"
+    : detections.every(isSchemeDetection)
     ? "cloudflare_scheme_batch"
     : "cloudflare_detection_batch";
 
@@ -1625,10 +1631,16 @@ async function dispatchToGitHub(env, detections) {
 }
 
 async function dispatchClaimedDetections(env, detections) {
-  const scheme = detections.filter(isSchemeDetection);
-  const exam = detections.filter(detection => !isSchemeDetection(detection));
+  const evergreen = detections.filter(isEvergreenUpdateDetection);
+  const scheme = detections.filter(detection => !isEvergreenUpdateDetection(detection) && isSchemeDetection(detection));
+  const exam = detections.filter(detection => !isEvergreenUpdateDetection(detection) && !isSchemeDetection(detection));
+  if (evergreen.length > 0) await dispatchToGitHub(env, evergreen);
   if (scheme.length > 0) await dispatchToGitHub(env, scheme);
   if (exam.length > 0) await dispatchToGitHub(env, exam);
+}
+
+function isEvergreenUpdateDetection(detection) {
+  return detection.decision === "update_existing" && Boolean(detection.existingPageMatch?.slug);
 }
 
 function isSchemeDetection(detection) {
