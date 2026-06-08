@@ -8,6 +8,7 @@ It does **not** treat whole-page text changes as actionable. Each source extract
 
 - Runs from Cloudflare Cron every 10 minutes.
 - Scans configured tier-1/tier-2 official sources.
+- Scans a bounded rotating batch of official sources per cron run, choosing the stalest sources first, so one heavy portal cannot sink the whole Worker invocation.
 - Stores last-seen item fingerprints in Cloudflare KV.
 - Records only new announcement items after the first baseline scan.
 - Preserves the last good baseline when a source fetch fails, so one blocked scan cannot wipe detection state.
@@ -126,6 +127,14 @@ Dry-run scan:
 ```bash
 curl "https://citizennest-detection.citizennest.workers.dev/scan?source=nta&dryRun=1"
 ```
+
+Rotating batch dry-run:
+
+```bash
+curl "https://citizennest-detection.citizennest.workers.dev/scan?tier=1&limit=4&dryRun=1"
+```
+
+Use `limit=all` only for local diagnostics. On Cloudflare, large aggregate scans can exceed request limits on heavy portals.
 
 Mutating scan:
 

@@ -16,7 +16,11 @@ const MAX_OPPORTUNITIES = 200;
 const DEFAULT_MIN_DISPATCH_CONFIDENCE = 0.75;
 const DEFAULT_MIN_OPPORTUNITY_SCORE = 86;
 const HEALTH_STALE_MINUTES = 45;
-const FINGERPRINT_SCHEMA_VERSION = "2026-06-08.1";
+const FINGERPRINT_SCHEMA_VERSION = "2026-06-08.2";
+const DEFAULT_FETCH_TIMEOUT_MS = 12000;
+const DEFAULT_MAX_HTML_CHARS = 450_000;
+const DEFAULT_MAX_ANCHORS = 350;
+const DEFAULT_SCAN_SOURCE_LIMIT = 4;
 
 const KEYWORDS = [
   "notice", "notification", "result", "admit", "hall ticket", "answer key",
@@ -111,7 +115,7 @@ const EXISTING_PAGE_TARGETS = [
 export default {
   async scheduled(_event, env, ctx) {
     ctx.waitUntil(Promise.all([
-      scanAndPersist(env, { tier: DEFAULT_TIER, dryRun: false, sourceId: null }),
+      scanAndPersist(env, { tier: DEFAULT_TIER, dryRun: false, sourceId: null, limit: DEFAULT_SCAN_SOURCE_LIMIT }),
       scanOpportunityQueue(env, { tier: DEFAULT_TIER, dryRun: false }),
       scanTrendSignals(env, { dryRun: false })
     ]));
@@ -128,11 +132,12 @@ export default {
     if (pathname === "/scan") {
       const tier = Number(url.searchParams.get("tier") || DEFAULT_TIER);
       const sourceId = url.searchParams.get("source");
+      const limit = scanLimitFromParam(url.searchParams.get("limit"), sourceId);
       const dryRun = url.searchParams.get("dryRun") === "1" || url.searchParams.get("dryRun") === "true";
       if (!dryRun && !isAuthorized(request, env)) {
         return json({ ok: false, error: "Unauthorized" }, 401);
       }
-      const result = await scanAndPersist(env, { tier, dryRun, sourceId });
+      const result = await scanAndPersist(env, { tier, dryRun, sourceId, limit });
       return json(result);
     }
 
@@ -259,10 +264,11 @@ export default {
 
 async function scanAndPersist(env, options) {
   const state = getStateBinding(env);
-  const sources = config.sources.filter(source => {
+  const eligibleSources = config.sources.filter(source => {
     if (options.sourceId) return source.id === options.sourceId;
     return Number(source.tier || 99) <= options.tier;
   });
+  const sources = await selectSourcesForScan(state, eligibleSources, options);
 
   const startedAt = new Date().toISOString();
   const results = [];
@@ -339,6 +345,36 @@ async function scanAndPersist(env, options) {
     results,
     detections
   };
+}
+
+async function selectSourcesForScan(state, sources, options) {
+  if (options.sourceId) return sources;
+  const limit = Number(options.limit || 0);
+  if (!limit || sources.length <= limit) return sources;
+
+  const withState = [];
+  for (const source of sources) {
+    const current = await readSourceState(state, source.id);
+    const lastScan = current.scannedAt ? Date.parse(current.scannedAt) : 0;
+    const consecutiveErrors = Number(current.consecutiveErrors || 0);
+    withState.push({ source, lastScan, consecutiveErrors });
+  }
+
+  return withState
+    .sort((a, b) => {
+      if (a.lastScan !== b.lastScan) return a.lastScan - b.lastScan;
+      if (a.consecutiveErrors !== b.consecutiveErrors) return a.consecutiveErrors - b.consecutiveErrors;
+      return String(a.source.id).localeCompare(String(b.source.id));
+    })
+    .slice(0, limit)
+    .map(item => item.source);
+}
+
+function scanLimitFromParam(value, sourceId) {
+  if (sourceId) return 0;
+  if (value === "all" || value === "0") return 0;
+  if (value && Number.isFinite(Number(value))) return Math.max(1, Number(value));
+  return DEFAULT_SCAN_SOURCE_LIMIT;
 }
 
 async function scanOpportunityQueue(env, options) {
@@ -1136,33 +1172,20 @@ async function scanSscApi(source, env) {
 }
 
 async function scanNta(source, env) {
-  const html = await fetchText(source.url, env);
+  const html = await fetchText(source.url, env, { maxChars: 350_000 });
   const items = [];
-  const regex = /(?:<[^>]+>)*([^<]{8,220}?)(?:&nbsp;|\s)*<\/[^>]+>\s*<a[^>]+href=["']([^"']*Download\/Notice\/Notice_(\d{14})\.pdf)["'][^>]*>/gi;
-  const fallback = /href=["']([^"']*Download\/Notice\/Notice_(\d{14})\.pdf)["']/gi;
   const seen = new Set();
+  const noticeHref = /href=["']([^"']*Download\/Notice\/Notice_(\d{14})\.pdf)["']/gi;
   let match;
 
-  while ((match = regex.exec(html)) !== null) {
-    const url = absolutize(match[2], source.url);
-    if (!url || seen.has(url)) continue;
-    seen.add(url);
-    items.push(makeItem(source, {
-      id: match[3],
-      title: cleanText(match[1]) || `NTA notice ${match[3]}`,
-      url,
-      date: timestampDate(match[3]),
-      type: "pdf"
-    }));
-  }
-
-  while ((match = fallback.exec(html)) !== null) {
+  while ((match = noticeHref.exec(html)) !== null && items.length < 30) {
     const url = absolutize(match[1], source.url);
     if (!url || seen.has(url)) continue;
     seen.add(url);
+    const title = ntaNoticeTitleFromContext(html, match.index, match[2]);
     items.push(makeItem(source, {
       id: match[2],
-      title: `NTA notice ${match[2]}`,
+      title: title || `NTA notice ${match[2]}`,
       url,
       date: timestampDate(match[2]),
       type: "pdf"
@@ -1170,6 +1193,21 @@ async function scanNta(source, env) {
   }
 
   return items.filter(Boolean).sort(sortByDateDesc).slice(0, 30);
+}
+
+function ntaNoticeTitleFromContext(html, hrefIndex, id) {
+  const start = Math.max(0, hrefIndex - 1200);
+  const end = Math.min(html.length, hrefIndex + 500);
+  const context = html.slice(start, end)
+    .replace(/<script[\s\S]*?<\/script>/gi, " ")
+    .replace(/<style[\s\S]*?<\/style>/gi, " ");
+  const candidates = [
+    context.match(/<td[^>]*>([\s\S]{8,420}?)<\/td>\s*<td[^>]*>[\s\S]{0,300}?href=["'][^"']*Notice_/i)?.[1],
+    context.match(/<p[^>]*>([\s\S]{8,420}?)<\/p>/i)?.[1],
+    context.match(/<span[^>]*>([\s\S]{8,420}?)<\/span>/i)?.[1]
+  ].map(value => cleanText(value || ""))
+    .filter(value => value && !/^download$/i.test(value) && !/^view$/i.test(value));
+  return candidates[0] || `NTA notice ${id}`;
 }
 
 async function scanRss(source, env) {
@@ -1238,8 +1276,8 @@ function extractTrendNewsItems(block) {
 }
 
 async function scanOfficialLinks(source, env) {
-  const html = await fetchText(source.url, env);
-  const anchors = extractAnchors(html, source.url);
+  const html = await fetchText(source.url, env, { maxChars: source.maxHtmlChars || DEFAULT_MAX_HTML_CHARS });
+  const anchors = extractAnchors(html, source.url, { maxAnchors: source.maxAnchors || DEFAULT_MAX_ANCHORS });
   const include = (source.include || KEYWORDS).map(v => v.toLowerCase());
   const exclude = (source.exclude || []).map(v => v.toLowerCase());
   const seen = new Set();
@@ -1266,8 +1304,8 @@ async function scanOfficialLinks(source, env) {
 }
 
 async function scanUpscWhatsNew(source, env) {
-  const html = await fetchText(source.url, env);
-  const anchors = extractAnchors(html, source.url);
+  const html = await fetchText(source.url, env, { maxChars: source.maxHtmlChars || DEFAULT_MAX_HTML_CHARS });
+  const anchors = extractAnchors(html, source.url, { maxAnchors: source.maxAnchors || DEFAULT_MAX_ANCHORS });
   const items = [];
   const seen = new Set();
 
@@ -1293,8 +1331,8 @@ async function scanUpscWhatsNew(source, env) {
 }
 
 async function scanKeaAnnouncements(source, env) {
-  const html = await fetchText(source.url, env);
-  const anchors = extractAnchors(html, source.url);
+  const html = await fetchText(source.url, env, { maxChars: source.maxHtmlChars || DEFAULT_MAX_HTML_CHARS });
+  const anchors = extractAnchors(html, source.url, { maxAnchors: source.maxAnchors || DEFAULT_MAX_ANCHORS });
   const include = (source.include || KEYWORDS).map(value => value.toLowerCase());
   const items = [];
   const seen = new Set();
@@ -1322,8 +1360,8 @@ async function scanKeaAnnouncements(source, env) {
 }
 
 async function scanCbseResults(source, env) {
-  const html = await fetchText(source.url, env);
-  const anchors = extractAnchors(html, source.url);
+  const html = await fetchText(source.url, env, { maxChars: source.maxHtmlChars || DEFAULT_MAX_HTML_CHARS });
+  const anchors = extractAnchors(html, source.url, { maxAnchors: source.maxAnchors || DEFAULT_MAX_ANCHORS });
   const textItems = extractCbseResultTextItems(html, source);
   const items = [];
   const seen = new Set();
@@ -1366,11 +1404,12 @@ function extractCbseResultTextItems(html, source) {
   return items;
 }
 
-function extractAnchors(html, baseUrl) {
+function extractAnchors(html, baseUrl, options = {}) {
   const anchors = [];
   const anchorRegex = /<a\b([^>]*)>([\s\S]*?)<\/a>/gi;
   let match;
   while ((match = anchorRegex.exec(html)) !== null) {
+    if (options.maxAnchors && anchors.length >= options.maxAnchors) break;
     const href = match[1].match(/\bhref=["']([^"']+)["']/i)?.[1];
     const url = absolutize(href, baseUrl);
     if (!url) continue;
@@ -1719,10 +1758,11 @@ function getStateBinding(env) {
   return env.MONITOR_STATE;
 }
 
-async function fetchText(url, env) {
+async function fetchText(url, env, options = {}) {
   const fixture = readFixture(url, env);
-  if (fixture !== null) return fixture;
+  if (fixture !== null) return truncateText(fixture, options.maxChars);
   const response = await fetch(url, {
+    signal: AbortSignal.timeout(options.timeoutMs || DEFAULT_FETCH_TIMEOUT_MS),
     headers: {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36 CitizenNest-Monitor/1.0",
       "Accept": "text/html,application/xhtml+xml,application/xml,text/xml,*/*",
@@ -1731,13 +1771,14 @@ async function fetchText(url, env) {
     }
   });
   if (!response.ok) throw new Error(`HTTP ${response.status} ${url}`);
-  return response.text();
+  return truncateText(await response.text(), options.maxChars);
 }
 
-async function fetchJson(url, env) {
+async function fetchJson(url, env, options = {}) {
   const fixture = readFixture(url, env);
   if (fixture !== null) return JSON.parse(fixture);
   const response = await fetch(url, {
+    signal: AbortSignal.timeout(options.timeoutMs || DEFAULT_FETCH_TIMEOUT_MS),
     headers: {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36 CitizenNest-Monitor/1.0",
       "Accept": "application/json,*/*",
@@ -1747,6 +1788,13 @@ async function fetchJson(url, env) {
   });
   if (!response.ok) throw new Error(`HTTP ${response.status} ${url}`);
   return response.json();
+}
+
+function truncateText(text, maxChars) {
+  const value = String(text || "");
+  const limit = Number(maxChars || 0);
+  if (!limit || value.length <= limit) return value;
+  return value.slice(0, limit);
 }
 
 function readFixture(url, env) {
