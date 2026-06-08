@@ -7,6 +7,8 @@ next-env.d.ts
 .vercel
 .pipeline/
 scripts/.pinterest-token
+agents/gsc-opportunities.json
+agents/gsc-opportunities.md
 
 # IFSC raw source data (too large; re-download with: npx tsx scripts/fetch-ifsc-data.ts)
 data/ifsc/raw/
