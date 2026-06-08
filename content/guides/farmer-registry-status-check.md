@@ -25,6 +25,8 @@ officialLinks:
 
 Do not enter Aadhaar, OTP or bank details on unofficial "Farmer ID status" websites.
 
+For the full identity explanation, read the [Farmer ID Agri Stack Guide](/guide/farmer-id-agri-stack-guide). If you are confused between Farmer ID, Farm ID, Aadhaar, PM-KISAN ID and Kisan ID, read [Farmer ID vs Farm ID vs Kisan ID](/guide/farmer-id-vs-farm-id-agristack).
+
 ## State Portal Examples
 
 | State | Official portal pattern | What to look for |

@@ -21,6 +21,8 @@ officialLinks:
 
 Certificate not showing does not always mean an error. Sometimes attendance, organiser approval or completion marking is still pending.
 
+For account setup, profile details and NYPS 2.0 / MY Bharat confusion, start with the [MY Bharat Registration Guide](/guide/my-bharat-registration-guide). For finding activities, use the [MY Bharat Experiential Learning Guide](/guide/my-bharat-experiential-learning-guide).
+
 ## Before Looking for Certificate
 
 Check:

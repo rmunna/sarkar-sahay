@@ -23,6 +23,8 @@ officialLinks:
 
 The confusion is normal because different schemes and states use different names. This page keeps the terms separate.
 
+For the full registration and rollout context, start with the [Farmer ID Agri Stack Guide](/guide/farmer-id-agri-stack-guide). To check whether a state portal has generated or found your record, use [Farmer Registry Status Check](/guide/farmer-registry-status-check).
+
 ## Difference Table
 
 | Term | Meaning | Used For |

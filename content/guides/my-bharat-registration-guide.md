@@ -24,6 +24,18 @@ officialLinks:
 
 Some users search for NYPS 2.0 or older youth portal terms. For current youth opportunities, use the official MY Bharat portal unless a government department gives a different official link.
 
+## MY Bharat Cluster Map
+
+Use these pages based on what you need:
+
+| Need | Start here |
+|---|---|
+| Create account, login, profile, opportunities and NYPS 2.0 confusion | This registration guide |
+| Find events, volunteering and experiential learning opportunities | [MY Bharat Experiential Learning Guide](/guide/my-bharat-experiential-learning-guide) |
+| Certificate not showing or download after an activity | [MY Bharat Certificate Download Guide](/guide/my-bharat-certificate-download) |
+
+**Official-source note:** CitizenNest treats `mybharat.gov.in` as the primary source. If an opportunity is listed elsewhere, verify that the organiser or department link is official before applying.
+
 ## What MY Bharat Offers
 
 The official portal highlights:

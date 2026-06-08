@@ -85,6 +85,19 @@ Detailed comparison: [Farmer ID vs Farm ID vs Kisan ID](/guide/farmer-id-vs-farm
 
 Use this status guide: [Farmer Registry Status Check](/guide/farmer-registry-status-check).
 
+## State Rollout Tracker
+
+Farmer Registry rollout is state-led. Use this tracker as a starting point, then verify the exact login/status route on the official portal.
+
+| State / route | Official signal to verify | CitizenNest action |
+|---|---|---|
+| Odisha | `odfr.agristack.gov.in` Farmer Registry portal | Use the [Farmer Registry Status Check](/guide/farmer-registry-status-check) guide before entering details |
+| Madhya Pradesh | `mpfr.agristack.gov.in` Farmer Registry portal | Check state-specific status/login labels on the official page |
+| Chhattisgarh | `cgfr.agristack.gov.in` Farmer Registry portal | Check whether farmer login, CSC login or enrollment status is available |
+| Other states | State agriculture / revenue department or Agri Stack-linked portal | Do not create a state page until an official state URL is verified |
+
+**Official-source note:** If the portal is not a government domain or an `agristack.gov.in` subdomain, treat it as unverified. Farmer ID content should not promise registration, subsidy or PM-KISAN approval unless the state portal says so.
+
 ## Documents Farmers May Need
 
 Requirements can differ by state, but farmers should keep these ready:

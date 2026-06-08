@@ -20,6 +20,8 @@ officialLinks:
 
 **Quick answer:** MY Bharat Experiential Learning Programmes are official youth opportunities where eligible participants can learn through practical activities offered by government, institutions, non-profits or other organisations. Apply only through the official MY Bharat portal or an official organiser link.
 
+For registration, profile setup and older NYPS / NYPS 2.0 search terms, read the [MY Bharat Registration Guide](/guide/my-bharat-registration-guide). For certificates after completion, read the [MY Bharat Certificate Download Guide](/guide/my-bharat-certificate-download).
+
 ## What Experiential Learning Means
 
 Experiential learning is learning by doing. On MY Bharat, it can include practical activities, events, field exposure, volunteering, institutional tasks or project-based opportunities.
