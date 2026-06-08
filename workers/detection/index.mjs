@@ -17,6 +17,32 @@ const KEYWORDS = [
   "merit", "interview", "written", "city intimation"
 ];
 
+const TREND_SIGNAL_KEYWORDS = [
+  "result", "results", "exam", "exams", "admit card", "hall ticket",
+  "answer key", "response sheet", "cut off", "cutoff", "cut-off",
+  "scorecard", "score card", "marksheet", "mark sheet", "rank card",
+  "merit list", "final list", "shortlisted", "selection list",
+  "counselling", "counseling", "seat allotment", "registration",
+  "application form", "apply online", "last date", "exam date",
+  "schedule", "date sheet", "time table", "notification", "notice",
+  "recruitment", "vacancy", "job", "jobs", "bharti", "sarkari naukri",
+  "constable", "police", "teacher", "clerk", "po", "mts", "stenographer"
+];
+
+const TREND_SIGNAL_ORGS = [
+  "ssc", "upsc", "nta", "cbse", "nios", "rrb", "ibps", "sbi",
+  "rbi", "csbc", "bpsc", "bssc", "bseb", "uppsc", "upsssc",
+  "upprpb", "dsssb", "kvs", "nvs", "ctet", "ugc net", "neet",
+  "jee", "cuet", "gate", "clat", "iiser", "iat", "icai", "icmai",
+  "kea", "kcet", "cet", "mht cet", "comedk", "tspsc",
+  "appsc", "tnpsc", "kpsc", "mppsc", "rpsc", "gpsc", "opsc",
+  "jpsc", "hpsc", "hppsc", "ukpsc", "wbpsc", "ap eamcet",
+  "ts eamcet", "eamcet", "msbte", "ignou", "du", "anna university",
+  "calicut university", "ktu"
+];
+
+const TREND_SIGNAL_SKIP = /\b(cricket|ipl|t20|stock market|nifty|sensex|movie|ott|song|weather|earthquake|lottery|horoscope|share price|election result|football|kabaddi)\b/i;
+
 const NOISE = [
   "visitor", "counter", "tender", "annual report", "privacy", "terms",
   "facebook", "twitter", "instagram", "youtube", "login#", "javascript:",
@@ -73,6 +99,15 @@ export default {
         return json({ ok: false, error: "Unauthorized" }, 401);
       }
       const result = await scanOpportunities(env, { tier, dryRun });
+      return json(result);
+    }
+
+    if (pathname === "/trend-signals") {
+      const dryRun = url.searchParams.get("dryRun") !== "0";
+      if (!dryRun && !isAuthorized(request, env)) {
+        return json({ ok: false, error: "Unauthorized" }, 401);
+      }
+      const result = await scanTrendSignals(env, { dryRun });
       return json(result);
     }
 
@@ -261,6 +296,74 @@ async function scanOpportunities(env, options) {
   };
 }
 
+async function scanTrendSignals(env, options) {
+  const startedAt = new Date().toISOString();
+  const source = config.sources.find(item => item.id === "google-trends-in");
+  if (!source) {
+    return {
+      ok: false,
+      dryRun: options.dryRun,
+      scannedAt: startedAt,
+      error: "google-trends-in source is not configured"
+    };
+  }
+
+  const result = await scanGoogleTrendsRss(source, env);
+  const signals = result
+    .map(item => scoreTrendSignal(source, item))
+    .filter(Boolean)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 40);
+
+  return {
+    ok: true,
+    dryRun: options.dryRun,
+    scannedAt: startedAt,
+    sourceId: source.id,
+    sourceName: source.name,
+    itemCount: result.length,
+    signalCount: signals.length,
+    note: "Trend signals are demand evidence only. Generate content only after official-source confirmation.",
+    signals
+  };
+}
+
+function scoreTrendSignal(source, item) {
+  const text = normalizeSearchText([
+    item.title,
+    item.url,
+    ...(item.news || []).map(news => `${news.title} ${news.source} ${news.url}`)
+  ].join(" "));
+  if (!text || TREND_SIGNAL_SKIP.test(text)) return null;
+
+  const matchedKeywords = matchDictionary(text, TREND_SIGNAL_KEYWORDS);
+  const matchedOrgs = matchDictionary(text, TREND_SIGNAL_ORGS);
+  if (matchedKeywords.length === 0 && matchedOrgs.length === 0) return null;
+
+  const traffic = parseTrendTraffic(item.traffic);
+  const trafficScore = traffic >= 10000 ? 30 : traffic >= 1000 ? 22 : traffic >= 500 ? 15 : 8;
+  const keywordScore = Math.min(25, matchedKeywords.length * 6);
+  const orgScore = Math.min(25, matchedOrgs.length * 8);
+  const freshness = freshnessScore(item.date);
+  const score = 10 + trafficScore + keywordScore + orgScore + Math.min(20, freshness);
+
+  return {
+    sourceId: source.id,
+    sourceName: source.name,
+    title: item.title,
+    traffic: item.traffic,
+    trafficApprox: traffic,
+    date: item.date,
+    matchedKeywords,
+    matchedOrgs,
+    stage: classifyStage(text),
+    score,
+    officialConfirmationRequired: true,
+    evidence: (item.news || []).slice(0, 5),
+    fingerprint: item.fingerprint
+  };
+}
+
 function scoreOpportunity(source, item) {
   const text = `${item.title} ${item.url}`.toLowerCase();
   if (OPPORTUNITY_SKIP.test(text)) return null;
@@ -368,6 +471,7 @@ async function scanSource(source, env) {
     if (source.strategy === "ssc_api") return { items: await scanSscApi(source, env) };
     if (source.strategy === "nta_notice_pdf") return { items: await scanNta(source, env) };
     if (source.strategy === "rss") return { items: await scanRss(source, env) };
+    if (source.strategy === "google_trends_rss") return { items: await scanGoogleTrendsRss(source, env) };
     return { items: await scanOfficialLinks(source, env) };
   } catch (error) {
     return { items: [], error: error.message || String(error) };
@@ -474,6 +578,55 @@ async function scanRss(source, env) {
     items.push(makeItem(source, { title, url: link, date, type: "rss" }));
   }
   return items.filter(Boolean).slice(0, 40);
+}
+
+async function scanGoogleTrendsRss(source, env) {
+  const xml = await fetchText(source.url, env);
+  const items = [];
+  const itemRegex = /<item\b[^>]*>([\s\S]*?)<\/item>/gi;
+  let match;
+
+  while ((match = itemRegex.exec(xml)) !== null) {
+    const block = match[1];
+    const title = stripCdata(extractTag(block, "title"));
+    const traffic = stripCdata(extractNamespacedTag(block, "approx_traffic"));
+    const date = stripCdata(extractTag(block, "pubDate")) || null;
+    const news = extractTrendNewsItems(block);
+    if (!title || isNoise(`${title} ${news.map(item => item.title).join(" ")}`)) continue;
+
+    items.push({
+      id: `trend:${normalizeTitleForId(title)}:${normalizeDate(date) || "current"}`,
+      title,
+      url: source.url,
+      canonicalUrl: canonicalizeUrl(source.url),
+      date: normalizeDate(date),
+      type: "trend-rss",
+      traffic,
+      news,
+      stage: classifyStage(`${title} ${news.map(item => item.title).join(" ")}`),
+      canonicalId: `trend:${normalizeTitleForId(title)}:${normalizeDate(date) || "current"}`,
+      fingerprintSchemaVersion: FINGERPRINT_SCHEMA_VERSION,
+      confidence: 0.65,
+      fingerprint: sha256HexSync(`${source.id}|${normalizeTitleForId(title)}|${normalizeDate(date) || "current"}|${traffic}`)
+    });
+  }
+
+  return items.slice(0, 40);
+}
+
+function extractTrendNewsItems(block) {
+  const news = [];
+  const newsRegex = /<[^:>]*:?news_item\b[^>]*>([\s\S]*?)<\/[^:>]*:?news_item>/gi;
+  let match;
+  while ((match = newsRegex.exec(block)) !== null) {
+    const itemBlock = match[1];
+    const title = stripCdata(extractNamespacedTag(itemBlock, "news_item_title"));
+    const url = stripCdata(extractNamespacedTag(itemBlock, "news_item_url"));
+    const source = stripCdata(extractNamespacedTag(itemBlock, "news_item_source"));
+    if (!title) continue;
+    news.push({ title, url, source });
+  }
+  return news;
 }
 
 async function scanOfficialLinks(source, env) {
@@ -739,6 +892,16 @@ async function claimDetectionsForGeneration(env, detections) {
   const claimed = [];
 
   for (const detection of detections) {
+    if (detection.strategy === "google_trends_rss" || detection.sourceId === "google-trends-in") {
+      await putProcessStatus(state, detection.fingerprint, {
+        status: "trend_signal_only",
+        reason: "Google Trends RSS is demand evidence only; official-source confirmation is required before generation.",
+        detection,
+        updatedAt: new Date().toISOString()
+      });
+      continue;
+    }
+
     if ((detection.confidence || 0) < minConfidence) {
       await putProcessStatus(state, detection.fingerprint, {
         status: "held_low_confidence",
@@ -1081,6 +1244,37 @@ function stripCdata(text) {
 
 function extractTag(xml, tag) {
   return xml.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, "i"))?.[1] || "";
+}
+
+function extractNamespacedTag(xml, tag) {
+  return xml.match(new RegExp(`<(?:[a-z0-9_-]+:)?${tag}[^>]*>([\\s\\S]*?)<\\/(?:[a-z0-9_-]+:)?${tag}>`, "i"))?.[1] || "";
+}
+
+function normalizeSearchText(text) {
+  return decodeHtml(String(text || ""))
+    .toLowerCase()
+    .replace(/[-_/]+/g, " ")
+    .replace(/[^a-z0-9\s.]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function matchDictionary(text, dictionary) {
+  const value = ` ${normalizeSearchText(text)} `;
+  const matches = [];
+  for (const term of dictionary) {
+    const normalized = normalizeSearchText(term);
+    if (!normalized) continue;
+    if (value.includes(` ${normalized} `)) matches.push(term);
+  }
+  return [...new Set(matches)].slice(0, 12);
+}
+
+function parseTrendTraffic(value) {
+  const text = String(value || "0").replace(/,/g, "").replace(/\+/g, "").trim().toLowerCase();
+  if (text.endsWith("m")) return Math.round(Number(text.slice(0, -1)) * 1000000) || 0;
+  if (text.endsWith("k")) return Math.round(Number(text.slice(0, -1)) * 1000) || 0;
+  return Number.parseInt(text, 10) || 0;
 }
 
 function timestampDate(value) {

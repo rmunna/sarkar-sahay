@@ -170,6 +170,20 @@ This does not estimate Google search volume. It scores emerging topics from offi
 
 Use this as an early opportunity radar. Generation should still require an official source URL and the same quality gates as exam/scheme pages.
 
+Google Trends RSS exam/job signals:
+
+```bash
+curl "https://citizennest-detection.citizennest.workers.dev/trend-signals?dryRun=1"
+```
+
+This reads the public India Google Trends RSS feed and filters both trend titles and nested news titles for exam/job demand signals. The filter covers:
+
+- stages: result, admit card, hall ticket, answer key, cutoff, scorecard, marksheet, counselling, registration, notification
+- job intent: recruitment, vacancy, apply online, last date, constable, police, teacher, clerk, PO, MTS
+- known org/topic abbreviations: SSC, UPSC, NTA, CBSE, NIOS, RRB, IBPS, CSBC, BPSC, DSSSB, KEA/KCET, NEET, JEE, CUET, UGC NET, CTET, state PSCs
+
+These are demand signals only. The endpoint does not dispatch to Gemini, and any generated page must still be confirmed against an official source first.
+
 ## Generation Flow
 
 1. Cloudflare scans every 10 minutes.

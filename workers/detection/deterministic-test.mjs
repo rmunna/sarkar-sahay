@@ -17,6 +17,7 @@ const RRB_URL = "https://www.rrbcdg.gov.in/";
 const CBSE_PRIMARY_URL = "https://results.cbse.nic.in/";
 const CBSE_FALLBACK_URL = "https://www.cbseresults.nic.in/";
 const PIB_RSS_URL = "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=2&Regid=3";
+const GOOGLE_TRENDS_RSS_URL = "https://trends.google.com/trending/rss?geo=IN";
 
 const baselineHtml = `
   <html>
@@ -89,6 +90,41 @@ const pibRssXml = `
   </channel></rss>
 `;
 
+const googleTrendsRssXml = `
+  <rss xmlns:ht="https://trends.google.com/trending/rss">
+    <channel>
+      <item>
+        <title>csbc</title>
+        <ht:approx_traffic>1000+</ht:approx_traffic>
+        <pubDate>Sun, 7 Jun 2026 16:30:00 -0700</pubDate>
+        <ht:news_item>
+          <ht:news_item_title>CSBC Bihar Constable Admit Card 2026 Out: Check Hall Ticket Link And Exam Details</ht:news_item_title>
+          <ht:news_item_url>https://www.ndtv.com/education/csbc-bihar-constable-admit-card-2026-out-check-hall-ticket-link-and-exam-details-11596238</ht:news_item_url>
+          <ht:news_item_source>NDTV</ht:news_item_source>
+        </ht:news_item>
+        <ht:news_item>
+          <ht:news_item_title>Bihar Daroga Vacancy 2026: 20,937 New SI Posts Approved</ht:news_item_title>
+          <ht:news_item_url>https://www.adda247.com/exams/bihar/bihar-daroga-vacancy-2026-20937-new-si-posts-approved/</ht:news_item_url>
+          <ht:news_item_source>Adda247</ht:news_item_source>
+        </ht:news_item>
+        <ht:news_item>
+          <ht:news_item_title>Bihar Police Constable Final Results 2026 Released at csbc.bihar.gov.in</ht:news_item_title>
+          <ht:news_item_url>https://www.jagranjosh.com/articles/bihar-police-constable-final-result-2026-released-at-csbc-bihar-gov-in-check-merit-list-pdf-here-1800012237-1</ht:news_item_url>
+          <ht:news_item_source>Jagran Josh</ht:news_item_source>
+        </ht:news_item>
+      </item>
+      <item>
+        <title>mas vs oma</title>
+        <ht:approx_traffic>500+</ht:approx_traffic>
+        <pubDate>Sun, 7 Jun 2026 16:00:00 -0700</pubDate>
+        <ht:news_item>
+          <ht:news_item_title>Cricket match live score updates</ht:news_item_title>
+        </ht:news_item>
+      </item>
+    </channel>
+  </rss>
+`;
+
 async function scan(kv, html) {
   const response = await worker.fetch(new Request("https://local.test/scan?source=rrb", {
     headers: { Authorization: "Bearer local-test" }
@@ -150,6 +186,16 @@ async function scanOpportunities(kv) {
   return response.json();
 }
 
+async function scanTrendSignals(kv) {
+  const response = await worker.fetch(new Request("https://local.test/trend-signals?dryRun=1"), {
+    MONITOR_STATE: kv,
+    MONITOR_ADMIN_TOKEN: "local-test",
+    FIXTURE_RESPONSES: JSON.stringify({ [GOOGLE_TRENDS_RSS_URL]: googleTrendsRssXml })
+  });
+  assert.equal(response.status, 200);
+  return response.json();
+}
+
 const kv = new MemoryKV();
 
 const baseline = await scan(kv, baselineHtml);
@@ -191,5 +237,13 @@ const opportunity = await scanOpportunities(new MemoryKV());
 assert.ok(opportunity.clusterCount >= 1, "official RSS opportunity should be clustered");
 assert.ok(opportunity.clusters.some(cluster => cluster.key === "pm surya"), "PM Surya item should become an opportunity cluster");
 assert.equal(opportunity.clusters.some(cluster => cluster.key.includes("auction")), false, "auction noise should be skipped");
+
+const trendSignals = await scanTrendSignals(new MemoryKV());
+assert.equal(trendSignals.itemCount, 2, "Google Trends RSS parser should read trend items");
+assert.equal(trendSignals.signalCount, 1, "exam/job trend filtering should keep CSBC and drop sports noise");
+assert.equal(trendSignals.signals[0].title, "csbc", "abbreviation-only trend should be retained through nested news evidence");
+assert.ok(trendSignals.signals[0].matchedOrgs.includes("csbc"), "CSBC abbreviation should match known exam orgs");
+assert.ok(trendSignals.signals[0].matchedKeywords.includes("admit card"), "nested news title should match admit card keyword");
+assert.equal(trendSignals.signals[0].officialConfirmationRequired, true, "trend signal should require official confirmation");
 
 console.log("deterministic detection tests passed");

@@ -109,6 +109,14 @@
       "strategy": "rss",
       "url": "https://rbi.org.in/notifications_rss.xml",
       "homepage": "https://rbi.org.in"
+    },
+    {
+      "id": "google-trends-in",
+      "name": "Google Trends India RSS",
+      "tier": 3,
+      "strategy": "google_trends_rss",
+      "url": "https://trends.google.com/trending/rss?geo=IN",
+      "homepage": "https://trends.google.com"
     }
   ]
 }
