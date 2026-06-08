@@ -13,7 +13,7 @@ This scorecard tracks CitizenNest's emerging evergreen clusters so monitoring, c
 | ABHA / Health Locker | `/guide/abha-health-id` | 2 | 3 | Consolidated | Keep health-locker and troubleshooting pages as distinct support intent. |
 | MY Bharat / NYPS | `/guide/my-bharat-registration-guide` | 2 | 0 | Clean | Add state/youth-program links only when official pages exist. |
 | Farmer ID / Agri Stack | `/guide/farmer-id-agri-stack-guide` | 2 | 0 | Clean | Add state rollout pages only after official state registry evidence. |
-| Government AI services | `/guide/kar-saathi-income-tax-ai-chatbot-guide` | 4 | 0 | Emerging | Build hub page later if traffic/query volume appears across multiple AI services. |
+| Government AI services | `/guide/government-ai-services-india` | 5 | 0 | Hub built | Route broad government-AI updates to the hub; route service names to their specific pages. |
 
 ## PM Surya Ghar Consolidation
 
@@ -60,3 +60,4 @@ For each cluster:
 | Bharat-VISTAAR AI for farmers | `/guide/bharat-vistaar-ai-farmers-guide` |
 | BHASHINI, ONDC Saarthi | `/guide/bhashini-ondc-saarthi-multilingual-ai-guide` |
 | IndiaAI Compute, AIKosha | `/guide/indiaai-compute-aikosha-students-developers-guide` |
+| Government AI services, AI for citizens, IndiaAI Mission overview | `/guide/government-ai-services-india` |

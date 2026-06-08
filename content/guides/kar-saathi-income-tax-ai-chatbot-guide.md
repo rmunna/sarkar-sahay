@@ -90,6 +90,7 @@ For common portal errors, read:
 
 ## Related AI Government Service Hubs
 
+- [Government AI Services in India 2026](/guide/government-ai-services-india)
 - [Samadhan Didi CPGRAMS Voice Bot Guide](/guide/samadhan-didi-cpgrams-ai-voice-bot-guide)
 - [Bharat-VISTAAR AI for Farmers Guide](/guide/bharat-vistaar-ai-farmers-guide)
 - [IndiaAI Compute and AIKosha Guide](/guide/indiaai-compute-aikosha-students-developers-guide)
@@ -112,4 +113,3 @@ Use it for guidance, not final professional advice. For notices, complex capital
 ### What should I do if the chatbot gives a confusing answer?
 
 Ask a narrower question, include the assessment year and taxpayer type, and cross-check with the official portal guidance before acting.
-

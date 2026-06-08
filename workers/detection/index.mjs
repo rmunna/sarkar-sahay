@@ -109,6 +109,7 @@ const EXISTING_PAGE_TARGETS = [
   { terms: ["abha", "digital health id", "ayushman bharat health account"], slug: "/guide/abha-health-id", action: "update_existing" },
   { terms: ["my bharat", "nyps", "youth"], slug: "/guide/my-bharat-registration-guide", action: "update_existing" },
   { terms: ["farmer id", "agri stack", "agristack", "farmer registry"], slug: "/guide/farmer-id-agri-stack-guide", action: "update_existing" },
+  { terms: ["government ai services", "ai for citizens", "ai for all", "india ai mission", "indiaai mission", "ai in government"], slug: "/guide/government-ai-services-india", action: "update_existing" },
   { terms: ["bhashini", "saarthi", "vyoma"], slug: "/guide/bhashini-ondc-saarthi-multilingual-ai-guide", action: "update_existing" },
   { terms: ["indiaai", "aikosha", "compute"], slug: "/guide/indiaai-compute-aikosha-students-developers-guide", action: "update_existing" }
 ];

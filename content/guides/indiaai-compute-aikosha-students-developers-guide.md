@@ -88,6 +88,7 @@ Good starter use cases:
 
 ## Related AI Government Service Hubs
 
+- [Government AI Services in India 2026](/guide/government-ai-services-india)
 - [BHASHINI and ONDC Saarthi AI Guide](/guide/bhashini-ondc-saarthi-multilingual-ai-guide)
 - [Bharat-VISTAAR AI for Farmers Guide](/guide/bharat-vistaar-ai-farmers-guide)
 - [Kar Saathi Income Tax AI Chatbot Guide](/guide/kar-saathi-income-tax-ai-chatbot-guide)
@@ -110,4 +111,3 @@ No. It is meant as a shared AI resource platform, but access and permitted use d
 ### Can I use IndiaAI resources for a commercial startup?
 
 Startups and MSMEs are listed among eligible categories, but you must satisfy the portal criteria and comply with usage terms.
-

@@ -78,6 +78,7 @@ Good questions are specific:
 
 ## Related AI Government Service Hubs
 
+- [Government AI Services in India 2026](/guide/government-ai-services-india)
 - [IndiaAI Compute and AIKosha Guide](/guide/indiaai-compute-aikosha-students-developers-guide)
 - [BHASHINI and ONDC Saarthi AI Guide](/guide/bhashini-ondc-saarthi-multilingual-ai-guide)
 - [Farmer ID Agri Stack Guide](/guide/farmer-id-agri-stack-guide)

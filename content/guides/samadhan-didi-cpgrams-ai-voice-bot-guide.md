@@ -85,6 +85,7 @@ CPGRAMS is not the fastest route for every issue. Use a more specific portal for
 
 ## Related AI Government Service Hubs
 
+- [Government AI Services in India 2026](/guide/government-ai-services-india)
 - [Kar Saathi Income Tax AI Chatbot Guide](/guide/kar-saathi-income-tax-ai-chatbot-guide)
 - [BHASHINI and ONDC Saarthi AI Guide](/guide/bhashini-ondc-saarthi-multilingual-ai-guide)
 - [IndiaAI Compute and AIKosha Guide](/guide/indiaai-compute-aikosha-students-developers-guide)
@@ -107,4 +108,3 @@ No. It improves access, but you should still check the department, category and 
 ### Should I upload documents?
 
 Yes, wherever the portal allows it. Reference numbers, receipts, screenshots and letters make grievances easier to verify.
-
