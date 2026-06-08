@@ -154,6 +154,6 @@ FAME का मतलब है **Faster Adoption and Manufacturing of Electric 
 
 ## संबंधित गाइड
 
-- [PM सूर्य घर — सोलर रूफटॉप सब्सिडी](/guide/solar-rooftop-subsidy-apply)
+- [PM सूर्य घर — सोलर रूफटॉप सब्सिडी](/guide/pm-surya-ghar-muft-bijli)
 - [बिजली बिल ऑनलाइन भरें](/guide/electricity-bill-payment-online)
 - [स्मार्ट बिजली मीटर](/guide/smart-meter-installation)

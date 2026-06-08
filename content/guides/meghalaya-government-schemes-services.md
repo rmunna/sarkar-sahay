@@ -70,7 +70,7 @@ The Chief Minister's Solar Mission aims to promote solar energy adoption across 
 - **Subsidy:** Up to 40–60% subsidy on installation costs (varies by category)
 - **How to Apply:** Through the district administration or the Meghalaya Energy Development Agency (MEDA)
 
-This aligns with the central [PM Surya Ghar Muft Bijli Yojana](/guide/pm-surya-ghar-solar-rooftop) for rooftop solar subsidies.
+This aligns with the central [PM Surya Ghar Muft Bijli Yojana](/guide/pm-surya-ghar-muft-bijli) for rooftop solar subsidies.
 
 ### Meghalaya State Housing Financing Co-operative Society
 

@@ -369,7 +369,7 @@ When filing your [income tax return](/guide/income-tax-return-file-online), clai
 
 ## Related Guides
 
-- [PM Surya Ghar — Solar Rooftop Subsidy](/guide/pm-surya-ghar-solar-rooftop)
+- [PM Surya Ghar — Solar Rooftop Subsidy](/guide/pm-surya-ghar-muft-bijli)
 - [How to Apply for Driving Licence Online](/guide/driving-license-apply-online)
 - [Vehicle Registration Certificate (RC) Transfer](/guide/vehicle-rc-transfer-online)
 - [Rainwater Harvesting Subsidy](/guide/rainwater-harvesting-subsidy)

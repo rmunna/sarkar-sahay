@@ -158,4 +158,4 @@ officialLinks:
 
 - [पानी का बिल ऑनलाइन भरें](/guide/water-bill-payment-online)
 - [LPG गैस सिलेंडर बुकिंग](/guide/lpg-gas-booking-online)
-- [सोलर रूफटॉप सब्सिडी](/guide/solar-rooftop-subsidy-apply)
+- [सोलर रूफटॉप सब्सिडी](/guide/pm-surya-ghar-muft-bijli)

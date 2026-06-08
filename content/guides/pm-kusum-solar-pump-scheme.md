@@ -274,7 +274,7 @@ Yes. Several banks including **SBI, Bank of Baroda, PNB,** and **Nabard-affiliat
 
 If you are a farmer, explore these other beneficial schemes:
 
-- [PM Surya Ghar — Free Solar Rooftop Scheme](/guide/pm-surya-ghar-solar-rooftop) — Get solar panels on your home roof with government subsidy
+- [PM Surya Ghar — Free Solar Rooftop Scheme](/guide/pm-surya-ghar-muft-bijli) — Get solar panels on your home roof with government subsidy
 - [PM-Kisan Samman Nidhi](/guide/pm-kisan-samman-nidhi) — Receive ₹6,000 per year directly in your bank account
 - [Kisan Credit Card — How to Apply](/guide/kisan-credit-card-apply) — Get affordable farm credit with subsidised interest rates
 - [PMFBY Crop Insurance](/guide/pmfby-crop-insurance-apply) — Protect your crops against natural calamities with government-backed insurance

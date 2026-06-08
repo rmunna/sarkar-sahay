@@ -139,4 +139,4 @@ officialLinks:
 
 - [बिजली बिल ऑनलाइन भरें](/guide/electricity-bill-payment-online)
 - [नया बिजली कनेक्शन](/guide/electricity-connection-apply-online)
-- [सोलर रूफटॉप सब्सिडी](/guide/solar-rooftop-subsidy-apply)
+- [सोलर रूफटॉप सब्सिडी](/guide/pm-surya-ghar-muft-bijli)

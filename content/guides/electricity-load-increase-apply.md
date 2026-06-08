@@ -157,4 +157,4 @@ Using load above your sanctioned limit can lead to penalties, disconnection, and
 
 ---
 
-*For help with paying your electricity bill, see our [electricity bill payment guide](/guide/electricity-bill-pay-online-state-wise). If you're considering solar panels to offset higher consumption, check our [solar rooftop subsidy guide](/guide/electricity-solar-rooftop-subsidy).*
+*For help with paying your electricity bill, see our [electricity bill payment guide](/guide/electricity-bill-pay-online-state-wise). If you're considering solar panels to offset higher consumption, check our [solar rooftop subsidy guide](/guide/pm-surya-ghar-muft-bijli).*
