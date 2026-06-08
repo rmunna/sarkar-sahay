@@ -184,6 +184,22 @@ This reads the public India Google Trends RSS feed and filters both trend titles
 
 These are demand signals only. The endpoint does not dispatch to Gemini, and any generated page must still be confirmed against an official source first.
 
+Persist trend signals into the official-pending watchlist:
+
+```bash
+curl -H "Authorization: Bearer $MONITOR_ADMIN_TOKEN" \
+  "https://citizennest-detection.citizennest.workers.dev/trend-signals?dryRun=0"
+```
+
+Read pending watch topics:
+
+```bash
+curl -H "Authorization: Bearer $MONITOR_ADMIN_TOKEN" \
+  "https://citizennest-detection.citizennest.workers.dev/watchlist"
+```
+
+The watchlist is deduped by canonical topic key: organization + subject + stage + year, for example `csbc:bihar-police-constable:admit-card:2026`. Early/uncertain trend language such as "expected soon", "likely", "may release", or "to be released" is held as `official_pending`.
+
 ## Generation Flow
 
 1. Cloudflare scans every 10 minutes.

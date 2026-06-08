@@ -3,9 +3,12 @@ import config from "./sources.json" with { type: "json" };
 const STATE_PREFIX = "source:";
 const DETECTION_PREFIX = "detection:";
 const PROCESS_PREFIX = "process:";
+const WATCH_PREFIX = "watch:";
+const WATCH_INDEX_KEY = "watch:index";
 const RECENT_KEY = "detections:recent";
 const DEFAULT_TIER = 2;
 const MAX_RECENT = 100;
+const MAX_WATCH_TOPICS = 100;
 const DEFAULT_MIN_DISPATCH_CONFIDENCE = 0.75;
 const HEALTH_STALE_MINUTES = 45;
 const FINGERPRINT_SCHEMA_VERSION = "2026-06-08.1";
@@ -42,6 +45,22 @@ const TREND_SIGNAL_ORGS = [
 ];
 
 const TREND_SIGNAL_SKIP = /\b(cricket|ipl|t20|stock market|nifty|sensex|movie|ott|song|weather|earthquake|lottery|horoscope|share price|election result|football|kabaddi)\b/i;
+const PRE_RELEASE_PATTERN = /\b(expected|expected soon|likely|may release|to be released|release date|tentative|soon|awaited|kab aayega|when will|not yet released)\b/i;
+
+const TREND_OFFICIAL_SOURCES = [
+  { id: "ssc", terms: ["ssc"], officialUrls: ["https://ssc.gov.in"] },
+  { id: "nta", terms: ["nta", "neet", "jee", "cuet", "ugc net"], officialUrls: ["https://nta.ac.in"] },
+  { id: "upsc", terms: ["upsc"], officialUrls: ["https://www.upsc.gov.in"] },
+  { id: "kea", terms: ["kea", "kcet", "cet"], officialUrls: ["https://cetonline.karnataka.gov.in/kea/"] },
+  { id: "rrb", terms: ["rrb"], officialUrls: ["https://www.rrbcdg.gov.in/"] },
+  { id: "ibps", terms: ["ibps"], officialUrls: ["https://www.ibps.in/"] },
+  { id: "sbi-careers", terms: ["sbi"], officialUrls: ["https://bank.sbi/web/careers/current-openings"] },
+  { id: "cbse-results", terms: ["cbse", "ctet"], officialUrls: ["https://results.cbse.nic.in/", "https://www.cbse.gov.in/cbsenew/cbse.html"] },
+  { id: "nios-results", terms: ["nios"], officialUrls: ["https://results.nios.ac.in/"] },
+  { id: "csbc-official", terms: ["csbc", "bihar police", "bihar constable"], officialUrls: ["https://csbc.bihar.gov.in/"] },
+  { id: "bpsc-official", terms: ["bpsc"], officialUrls: ["https://bpsc.bihar.gov.in/"] },
+  { id: "dsssb", terms: ["dsssb"], officialUrls: ["https://dsssb.delhi.gov.in/"] }
+];
 
 const NOISE = [
   "visitor", "counter", "tender", "annual report", "privacy", "terms",
@@ -70,7 +89,10 @@ const OPPORTUNITY_SKIP = /\b(tender|auction|annual report|conference|webinar|con
 
 export default {
   async scheduled(_event, env, ctx) {
-    ctx.waitUntil(scanAndPersist(env, { tier: DEFAULT_TIER, dryRun: false, sourceId: null }));
+    ctx.waitUntil(Promise.all([
+      scanAndPersist(env, { tier: DEFAULT_TIER, dryRun: false, sourceId: null }),
+      scanTrendSignals(env, { dryRun: false })
+    ]));
   },
 
   async fetch(request, env) {
@@ -109,6 +131,14 @@ export default {
       }
       const result = await scanTrendSignals(env, { dryRun });
       return json(result);
+    }
+
+    if (pathname === "/watchlist") {
+      if (!isAuthorized(request, env)) {
+        return json({ ok: false, error: "Unauthorized" }, 401);
+      }
+      const watchlist = await readWatchlist(env);
+      return json({ ok: true, watchCount: watchlist.length, watchlist });
     }
 
     if (pathname === "/detections/recent") {
@@ -314,6 +344,7 @@ async function scanTrendSignals(env, options) {
     .filter(Boolean)
     .sort((a, b) => b.score - a.score)
     .slice(0, 40);
+  const watchUpdates = options.dryRun ? [] : await persistTrendWatchlist(env, signals, startedAt);
 
   return {
     ok: true,
@@ -323,6 +354,7 @@ async function scanTrendSignals(env, options) {
     sourceName: source.name,
     itemCount: result.length,
     signalCount: signals.length,
+    watchUpdates,
     note: "Trend signals are demand evidence only. Generate content only after official-source confirmation.",
     signals
   };
@@ -351,6 +383,7 @@ function scoreTrendSignal(source, item) {
     sourceId: source.id,
     sourceName: source.name,
     title: item.title,
+    topicKey: canonicalTrendTopicKey(item, matchedOrgs, text),
     traffic: item.traffic,
     trafficApprox: traffic,
     date: item.date,
@@ -358,10 +391,79 @@ function scoreTrendSignal(source, item) {
     matchedOrgs,
     stage: classifyStage(text),
     score,
+    status: PRE_RELEASE_PATTERN.test(text) ? "official_pending" : "official_check_required",
+    preReleaseLanguage: PRE_RELEASE_PATTERN.test(text),
+    suggestedOfficialSources: suggestedOfficialSources(matchedOrgs, text),
     officialConfirmationRequired: true,
     evidence: (item.news || []).slice(0, 5),
     fingerprint: item.fingerprint
   };
+}
+
+async function persistTrendWatchlist(env, signals, now) {
+  const state = getStateBinding(env);
+  const updates = [];
+  const index = await readWatchIndex(state);
+
+  for (const signal of signals) {
+    const key = signal.topicKey;
+    const storageKey = `${WATCH_PREFIX}${key}`;
+    const previousRaw = await state.get(storageKey);
+    const previous = previousRaw ? JSON.parse(previousRaw) : null;
+    const seenFingerprints = [...new Set([...(previous?.seenFingerprints || []), signal.fingerprint])].slice(-20);
+    const evidence = mergeEvidence(previous?.evidence || [], signal.evidence || []);
+    const watch = {
+      topicKey: key,
+      status: signal.status,
+      title: signal.title,
+      stage: signal.stage,
+      matchedOrgs: signal.matchedOrgs,
+      matchedKeywords: signal.matchedKeywords,
+      suggestedOfficialSources: signal.suggestedOfficialSources,
+      officialConfirmationRequired: true,
+      firstSeenAt: previous?.firstSeenAt || now,
+      lastSeenAt: now,
+      seenCount: Number(previous?.seenCount || 0) + 1,
+      highestScore: Math.max(Number(previous?.highestScore || 0), signal.score),
+      latestTraffic: signal.traffic,
+      preReleaseLanguage: Boolean(previous?.preReleaseLanguage || signal.preReleaseLanguage),
+      seenFingerprints,
+      evidence
+    };
+
+    await state.put(storageKey, JSON.stringify(watch));
+    updates.push({ topicKey: key, status: previous ? "updated" : "created", watchStatus: watch.status });
+    if (!index.includes(key)) index.unshift(key);
+  }
+
+  await state.put(WATCH_INDEX_KEY, JSON.stringify(index.slice(0, MAX_WATCH_TOPICS)));
+  return updates;
+}
+
+async function readWatchlist(env) {
+  const state = getStateBinding(env);
+  const index = await readWatchIndex(state);
+  const items = [];
+  for (const key of index.slice(0, MAX_WATCH_TOPICS)) {
+    const raw = await state.get(`${WATCH_PREFIX}${key}`);
+    if (raw) items.push(JSON.parse(raw));
+  }
+  return items.sort((a, b) => String(b.lastSeenAt || "").localeCompare(String(a.lastSeenAt || "")));
+}
+
+async function readWatchIndex(state) {
+  const raw = await state.get(WATCH_INDEX_KEY);
+  return raw ? JSON.parse(raw) : [];
+}
+
+function mergeEvidence(previous, current) {
+  const byUrl = new Map();
+  for (const item of [...previous, ...current]) {
+    const key = item.url || item.title;
+    if (!key || byUrl.has(key)) continue;
+    byUrl.set(key, item);
+  }
+  return [...byUrl.values()].slice(0, 8);
 }
 
 function scoreOpportunity(source, item) {
@@ -400,6 +502,62 @@ function classifyOpportunity(text) {
     if (pattern.test(text)) return category;
   }
   return null;
+}
+
+function canonicalTrendTopicKey(item, matchedOrgs, text) {
+  const stage = classifyStage(text);
+  const year = String(text).match(/\b(20\d{2})\b/)?.[1] || item.date?.slice(0, 4) || "current";
+  const org = primaryTrendOrg(matchedOrgs, text);
+  const subject = trendSubject(text);
+  return [org || subject || normalizeTitleForId(item.title), subject && org ? subject : null, stage, year]
+    .filter(Boolean)
+    .join(":")
+    .replace(/:+/g, ":")
+    .slice(0, 180);
+}
+
+function primaryTrendOrg(matchedOrgs, text) {
+  const value = normalizeSearchText(text);
+  if (value.includes("bihar police") || value.includes("bihar constable")) return "csbc";
+  if (matchedOrgs.includes("csbc")) return "csbc";
+  if (value.includes("mht cet")) return "mht-cet";
+  if (value.includes("ugc net")) return "ugc-net";
+  if (value.includes("ap eamcet")) return "ap-eamcet";
+  if (value.includes("ts eamcet")) return "ts-eamcet";
+  return normalizeTitleForId(matchedOrgs[0] || "");
+}
+
+function trendSubject(text) {
+  const value = normalizeSearchText(text);
+  const subjects = [
+    ["bihar-police-constable", /\bbihar police\b.*\bconstable\b|\bconstable\b.*\bbihar police\b|\bcsbc\b.*\bconstable\b/i],
+    ["bihar-daroga", /\bbihar daroga\b|\bsub inspector\b.*\bbihar\b|\bsi\b.*\bbihar\b/i],
+    ["ctet", /\bctet\b/i],
+    ["ugc-net", /\bugc net\b/i],
+    ["neet", /\bneet\b/i],
+    ["jee", /\bjee\b/i],
+    ["cuet", /\bcuet\b/i],
+    ["kcet", /\bkcet\b|\bkea\b.*\bcet\b/i],
+    ["mht-cet", /\bmht cet\b/i],
+    ["rrb-recruitment", /\brrb\b.*\b(recruitment|vacancy|cen)\b/i],
+    ["ssc-cgl", /\bssc cgl\b/i],
+    ["ssc-chsl", /\bssc chsl\b/i],
+    ["ssc-mts", /\bssc mts\b/i],
+    ["ibps-po", /\bibps po\b/i],
+    ["ibps-clerk", /\bibps clerk\b/i]
+  ];
+  return subjects.find(([, pattern]) => pattern.test(value))?.[0] || null;
+}
+
+function suggestedOfficialSources(matchedOrgs, text) {
+  const value = normalizeSearchText(text);
+  const matches = [];
+  for (const source of TREND_OFFICIAL_SOURCES) {
+    const matched = source.terms.some(term => value.includes(normalizeSearchText(term)))
+      || source.terms.some(term => matchedOrgs.includes(term));
+    if (matched) matches.push(source);
+  }
+  return matches.slice(0, 5);
 }
 
 function freshnessScore(date) {

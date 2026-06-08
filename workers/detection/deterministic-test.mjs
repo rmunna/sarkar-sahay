@@ -196,6 +196,32 @@ async function scanTrendSignals(kv) {
   return response.json();
 }
 
+async function persistTrendSignals(kv) {
+  const response = await worker.fetch(
+    new Request("https://local.test/trend-signals?dryRun=0", {
+      headers: { Authorization: "Bearer local-test" }
+    }),
+    {
+      MONITOR_STATE: kv,
+      MONITOR_ADMIN_TOKEN: "local-test",
+      FIXTURE_RESPONSES: JSON.stringify({ [GOOGLE_TRENDS_RSS_URL]: googleTrendsRssXml })
+    }
+  );
+  assert.equal(response.status, 200);
+  return response.json();
+}
+
+async function readTrendWatchlist(kv) {
+  const response = await worker.fetch(new Request("https://local.test/watchlist", {
+    headers: { Authorization: "Bearer local-test" }
+  }), {
+    MONITOR_STATE: kv,
+    MONITOR_ADMIN_TOKEN: "local-test"
+  });
+  assert.equal(response.status, 200);
+  return response.json();
+}
+
 const kv = new MemoryKV();
 
 const baseline = await scan(kv, baselineHtml);
@@ -245,5 +271,19 @@ assert.equal(trendSignals.signals[0].title, "csbc", "abbreviation-only trend sho
 assert.ok(trendSignals.signals[0].matchedOrgs.includes("csbc"), "CSBC abbreviation should match known exam orgs");
 assert.ok(trendSignals.signals[0].matchedKeywords.includes("admit card"), "nested news title should match admit card keyword");
 assert.equal(trendSignals.signals[0].officialConfirmationRequired, true, "trend signal should require official confirmation");
+assert.equal(trendSignals.signals[0].topicKey, "csbc:bihar-police-constable:admit-card:2026", "trend topic key should dedupe variants by org, subject, stage, and year");
+
+const kvTrend = new MemoryKV();
+const firstWatch = await persistTrendSignals(kvTrend);
+assert.equal(firstWatch.watchUpdates.length, 1, "write-mode trend scan should create one watch topic");
+assert.equal(firstWatch.watchUpdates[0].status, "created");
+const secondWatch = await persistTrendSignals(kvTrend);
+assert.equal(secondWatch.watchUpdates.length, 1, "repeat trend scan should update the same watch topic");
+assert.equal(secondWatch.watchUpdates[0].status, "updated");
+const watchlist = await readTrendWatchlist(kvTrend);
+assert.equal(watchlist.watchCount, 1, "watchlist should keep one deduped CSBC topic");
+assert.equal(watchlist.watchlist[0].topicKey, "csbc:bihar-police-constable:admit-card:2026");
+assert.equal(watchlist.watchlist[0].seenCount, 2, "repeat sightings should increment the existing watch topic");
+assert.equal(watchlist.watchlist[0].suggestedOfficialSources[0].id, "csbc-official", "watch topic should suggest the official CSBC portal");
 
 console.log("deterministic detection tests passed");
