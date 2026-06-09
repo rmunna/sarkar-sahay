@@ -10,12 +10,8 @@ const profiledSources = config.sources.filter(source =>
 const results = [];
 
 for (const source of profiledSources) {
-  const url = `${WORKER_URL}/scan?source=${encodeURIComponent(source.id)}&dryRun=1`;
   const started = Date.now();
-  const response = await fetch(url, { signal: AbortSignal.timeout(45_000) });
-  assert.equal(response.ok, true, `${source.id}: HTTP ${response.status}`);
-  const body = await response.json();
-  const result = body.results?.[0] || {};
+  const { body, result, attempts } = await scanProfiledSource(source);
   const passed = Boolean(
     body.ok
       && !result.error
@@ -33,6 +29,7 @@ for (const source of profiledSources) {
     matchedSelectors: result.matchedSelectors || [],
     schemaChanged: Boolean(result.schemaChanged),
     error: result.error || null,
+    attempts,
     durationMs: Date.now() - started
   });
 }
@@ -43,6 +40,7 @@ console.table(results.map(result => ({
   items: result.itemCount,
   mode: result.extractionMode,
   selectors: result.matchedSelectors.join(", "),
+  attempts: result.attempts,
   error: result.error || ""
 })));
 
@@ -53,3 +51,26 @@ if (failed.length > 0) {
 }
 
 console.log(JSON.stringify({ ok: true, checked: results.length, results }, null, 2));
+
+async function scanProfiledSource(source) {
+  let lastBody = null;
+  let lastResult = null;
+  const maxAttempts = Number(process.env.PROFILE_AUDIT_ATTEMPTS || 2);
+
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    const url = `${WORKER_URL}/scan?source=${encodeURIComponent(source.id)}&dryRun=1`;
+    const response = await fetch(url, { signal: AbortSignal.timeout(60_000) });
+    assert.equal(response.ok, true, `${source.id}: HTTP ${response.status}`);
+    const body = await response.json();
+    const result = body.results?.[0] || {};
+    lastBody = body;
+    lastResult = result;
+
+    if (!result.error && result.extractionMode === "selector" && Number(result.itemCount || 0) > 0) {
+      return { body, result, attempts: attempt };
+    }
+    if (attempt < maxAttempts) await new Promise(resolve => setTimeout(resolve, 2500));
+  }
+
+  return { body: lastBody, result: lastResult || {}, attempts: maxAttempts };
+}

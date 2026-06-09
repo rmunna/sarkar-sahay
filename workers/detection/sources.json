@@ -60,10 +60,13 @@
       "name": "RRB Chandigarh",
       "tier": 1,
       "strategy": "official_links",
-      "url": "https://www.rrbcdg.gov.in/",
+      "url": "https://www.rrbcdg.gov.in/employment-notices.php",
+      "fallbackUrls": [
+        "https://www.rrbcdg.gov.in/"
+      ],
       "homepage": "https://www.rrbcdg.gov.in",
       "timeoutMs": 25000,
-      "selectors": [".notice-board a", ".latest-news a", "#news-container a", "marquee a", "table a"],
+      "selectors": [".notice-board a", ".latest-news a", "#news-container a", "marquee a", "table a", ".menu a"],
       "include": ["notification", "result", "admit", "cen", "exam", "answer", "notice", "schedule"]
     },
     {

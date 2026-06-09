@@ -14,6 +14,7 @@ class MemoryKV {
 }
 
 const RRB_URL = "https://www.rrbcdg.gov.in/";
+const RRB_NOTICES_URL = "https://www.rrbcdg.gov.in/employment-notices.php";
 const CBSE_PRIMARY_URL = "https://results.cbse.nic.in/";
 const CBSE_FALLBACK_URL = "https://www.cbseresults.nic.in/";
 const PIB_RSS_URL = "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=2&Regid=3";
@@ -194,7 +195,7 @@ async function scan(kv, html) {
     MONITOR_STATE: kv,
     MONITOR_ADMIN_TOKEN: "local-test",
     MIN_DISPATCH_CONFIDENCE: "0.75",
-    FIXTURE_RESPONSES: JSON.stringify({ [RRB_URL]: html })
+    FIXTURE_RESPONSES: JSON.stringify({ [RRB_NOTICES_URL]: html, [RRB_URL]: html })
   });
   assert.equal(response.status, 200);
   return response.json();
@@ -206,7 +207,10 @@ async function scanWithFixtureError(kv) {
   }), {
     MONITOR_STATE: kv,
     MONITOR_ADMIN_TOKEN: "local-test",
-    FIXTURE_RESPONSES: JSON.stringify({ [RRB_URL]: { error: "fixture network failure" } })
+    FIXTURE_RESPONSES: JSON.stringify({
+      [RRB_NOTICES_URL]: { error: "fixture network failure" },
+      [RRB_URL]: { error: "fixture network failure" }
+    })
   });
   assert.equal(response.status, 200);
   return response.json();
@@ -347,7 +351,7 @@ const kvFailure = new MemoryKV();
 const failureBaseline = await scan(kvFailure, baselineHtml);
 assert.equal(failureBaseline.newCount, 0);
 const failed = await scanWithFixtureError(kvFailure);
-assert.equal(failed.results[0].error, "fixture network failure");
+assert.ok(failed.results[0].error.includes("fixture network failure"));
 const sourceStatus = await status(kvFailure);
 const rrb = sourceStatus.sources.find(source => source.id === "rrb");
 assert.equal(rrb.fingerprintCount, 1, "failed scan should preserve last good fingerprints");
