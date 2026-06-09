@@ -101,15 +101,7 @@ The age limit criteria for UGC-NET vary depending on whether the candidate is ap
 
 ## Application Fee
 
-The application fee for the UGC-NET June 2026 Examination is expected to be as per NTA's standard fee structure for this examination. The exact amounts will be confirmed in the official notification.
-
-*   **General / EWS:** Expected ₹1100 - ₹1150
-*   **OBC (Non-Creamy Layer):** Expected ₹550 - ₹600
-*   **SC / ST / PwD / Third Gender:** Expected ₹275 - ₹300
-
-**Payment Mode:** The application fee must be paid online through Net Banking, Credit Card, Debit Card, or UPI.
-
-*Fee structure subject to change — verify in official notification.*
+Use only the fee table published in the official NTA UGC-NET June 2026 notification. Category-wise fees, concessions, and payment modes can change between cycles, so do not pay based on expected or previous-cycle amounts.
 
 ## Selection Process
 
@@ -136,16 +128,9 @@ The selection process for UGC-NET is straightforward, focusing solely on a writt
 
 The UGC-NET is a qualifying examination and does not directly lead to a salary or a specific pay scale from the NTA. However, qualifying the NET makes candidates eligible for the following:
 
-*   **Junior Research Fellowship (JRF):**
-    *   Candidates awarded JRF receive a fellowship amount for pursuing research.
-    *   **Expected Fellowship:** Approximately ₹31,000 per month for the initial two years (JRF), and ₹35,000 per month for the subsequent years (Senior Research Fellowship - SRF), along with House Rent Allowance (HRA) and other contingencies as per UGC norms. This fellowship is provided by UGC or other funding agencies to support research scholars.
+*   **Junior Research Fellowship (JRF):** Candidates awarded JRF should check the current UGC fellowship order or the official funding-agency notice for the applicable monthly amount, tenure, and allowances.
 
-*   **Assistant Professor:**
-    *   Candidates who qualify for Assistant Professor become eligible to apply for teaching positions in universities and colleges across India.
-    *   **Expected Pay Scale:** Upon securing an Assistant Professor position, the entry-level salary is typically based on Academic Pay Level 10 of the 7th Pay Commission. This translates to a basic pay of approximately ₹57,700 per month, excluding various allowances such as Dearness Allowance (DA), House Rent Allowance (HRA), Travel Allowance (TA), etc.
-    *   The total emoluments for an entry-level Assistant Professor can range from ₹70,000 to ₹90,000 per month, depending on the institution and location.
-
-*Verify in official notification and respective institutional recruitment advertisements for precise details.*
+*   **Assistant Professor:** Qualifying for Assistant Professor eligibility does not itself create an appointment or salary. Pay level and allowances depend on the separate university or college recruitment advertisement.
 
 ## How to Apply Online
 

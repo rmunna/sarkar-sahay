@@ -20,6 +20,10 @@ permissions:
 jobs:
   generate-from-detections:
     name: Generate Pages From Confirmed Detections
+    # Temporary quality freeze: Cloudflare may still dispatch detections, but
+    # automatic publishing stays disabled until the content gates are tightened.
+    # Manual workflow_dispatch runs remain available for reviewed testing.
+    if: github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     timeout-minutes: 40
     env:

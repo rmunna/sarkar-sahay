@@ -150,13 +150,7 @@ Upon successful qualification, candidates receive a CTET eligibility certificate
 
 As CTET is an eligibility test and not a direct recruitment examination, there is no specific salary or pay scale associated with qualifying the CTET itself. The salary and pay scale will depend entirely on the recruiting organization (e.g., KVS, NVS, State Government schools, private schools) and the specific teaching post (e.g., Primary Teacher, Trained Graduate Teacher, Post Graduate Teacher) for which a candidate is eventually selected.
 
-However, to provide an approximate idea, for entry-level teachers in central government schools (like KVS/NVS) under the 7th Pay Commission, the expected pay scales are generally as follows:
-
-*   **Primary Teacher (PRT):** Expected Pay Level 6 (₹35,400 – ₹1,12,400 approx.)
-*   **Trained Graduate Teacher (TGT):** Expected Pay Level 7 (₹44,900 – ₹1,42,400 approx.)
-*   **Post Graduate Teacher (PGT):** Expected Pay Level 8 (₹47,600 – ₹1,51,100 approx.)
-
-These figures represent the basic pay and do not include various allowances such as Dearness Allowance (DA), House Rent Allowance (HRA), Transport Allowance (TA), etc., which would further increase the gross salary. Candidates should verify the exact pay scale and allowances in the specific recruitment notifications released by the respective employing bodies.
+Do not treat CTET qualification as a salary offer. Pay level, allowances, appointment terms, and service conditions are decided only in the separate recruitment notification issued by the employing body. Check that recruitment notice before applying for a teaching post.
 
 ## How to Apply Online
 

@@ -20,6 +20,10 @@ permissions:
 jobs:
   update-evergreen-guides:
     name: Update Existing Guides From Official Queue
+    # Temporary quality freeze: Cloudflare may still dispatch opportunities, but
+    # automatic guide edits stay disabled until review-grade validation is added.
+    # Manual workflow_dispatch runs remain available for reviewed testing.
+    if: github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     env:

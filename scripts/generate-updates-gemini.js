@@ -439,6 +439,10 @@ function validateContentQuality(content) {
   const h2Seen = new Set();
   let inTable = false;
 
+  if (content.trim().length < 5_000) {
+    issues.push(`thin generated body: ${content.trim().length} chars`);
+  }
+
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
 
@@ -502,6 +506,22 @@ function validateContentQuality(content) {
   for (const phrase of leakPhrases) {
     if (fullText.includes(phrase.toLowerCase())) {
       issues.push(`Gemini reasoning leak detected: "${phrase}"`);
+    }
+  }
+
+  const bannedTrustPhrases = [
+    'CitizenNest detected',
+    'CitizenNest created this page',
+    'publishing this tracker',
+    'without adding unverified',
+    'search demand is rising',
+    'status tracker',
+    'pre-position',
+    'not been confirmed from the official source yet',
+  ];
+  for (const phrase of bannedTrustPhrases) {
+    if (fullText.includes(phrase.toLowerCase())) {
+      issues.push(`trust-damaging phrase detected: "${phrase}"`);
     }
   }
 
@@ -733,11 +753,11 @@ async function generateContent(source, announcement) {
   Paragraph: what students who passed should do (apply for counselling/admission, download digital marksheet from DigiLocker if applicable, await merit list). What students who did not pass should do (compartment/supplementary exam if applicable, re-checking if applicable).
 
 ## Re-evaluation / Re-checking / Compartment Exam
-  If board exam: explain the re-checking/photocopy process — candidates can apply online within the deadline, fee payable per subject. Compartment exam date expected in [month] — verify on official site.
+  If board exam: explain the re-checking/photocopy process only when the official result notice states the window, fee, or link. Do not infer compartment exam months.
   If competitive exam: explain whether re-evaluation is available (usually not for MCQ-based exams — state this clearly).
 
 ## Important Dates
-  Table or bullet list: result date, re-checking application deadline (if any), compartment/supplementary exam date (if applicable), other next steps. Mark any unknown dates as "TBA — check official website".
+  Table or bullet list: result date, re-checking application deadline (if any), compartment/supplementary exam date (if applicable), and other next steps only when officially stated.
 
 ## FAQs
   7 FAQs covering: When was result declared? How to check online? Official website is slow/down — what to do? Is the online result valid for admission? How to get physical marksheet? What are the qualifying marks / passing criteria? How to apply for re-checking?`,
@@ -753,10 +773,10 @@ async function generateContent(source, announcement) {
   Bullet list: candidate's name, photograph, signature, roll number, exam centre address, reporting time, exam date and shift, exam day instructions, list of documents to bring.
 
 ## Exam Day Instructions
-  Bullet list: what to bring (photo ID, admit card), what not to bring (mobile, calculator — unless allowed), reporting time (typically 30–60 min before exam), gate closing time.
+  Bullet list: what to bring, what not to bring, reporting time, and gate closing time only when stated in the official admit card or notice.
 
 ## Important Dates
-  admitCardDate, examDate, and any other relevant dates. Mark unknown as "TBA".
+  Admit card date, exam date, and any other relevant dates only when officially stated.
 
 ## FAQs
   5 FAQs: When was admit card released? How to download? What if I forgot my registration number? Can I use a mobile printout? What if my photo/details are wrong on the admit card?`,
@@ -766,25 +786,25 @@ async function generateContent(source, announcement) {
   2–3 paragraphs: explain the exam, who conducts it (${source.name} — ${source.fullName}), what posts are being filled, which departments/states these posts are in, and why this is significant for candidates.
 
 ## Important Dates
-  Bullet list of all known dates. For dates not yet announced, write "Expected to open within 1–2 weeks of notification — check official website" (for application start) or "Expected 3–6 months after last date to apply — TBA" (for exam date). Do NOT leave all dates as bare "TBA" — give context about when candidates can expect updates.
+  Bullet list of all known official dates. Do not invent expected windows. If a date is not present in the official source, say it has not been announced in the notice.
 
 ## Vacancy Details
-  Total vacancies: ${announcement.vacancies ?? 'As per official notification'}. If category-wise breakup is not yet announced, say so — but explain that it typically includes General / EWS / OBC / SC / ST / PwD categories as per government reservation norms.
+  Total vacancies: ${announcement.vacancies ?? 'As per official notification'}. If category-wise breakup is not announced in the official source, say it has not been announced.
 
 ## Eligibility Criteria
   Sub-sections:
-  - **Nationality**: Indian citizen (standard); mention any Nepal/Bhutan/refugee provisions if applicable.
-  - **Age Limit**: State the age range. If not officially announced yet, use your knowledge of the organization's standard age norms for this post level and write: "Expected [X]–[Y] years for General category, with relaxation for SC/ST/OBC/PwD/Ex-servicemen as per [org] rules — verify in official notification." NEVER leave age as bare "TBA" without context.
-  - **Educational Qualification**: State the required degree/subject based on the post name. For well-known post types (Statistical Officer, Clerk, Constable, Engineer), use your knowledge of typical qualifications required and note "as per official notification — verify before applying."
+  - **Nationality**: State only what the official source says.
+  - **Age Limit**: State the age range only when present in the official source. Do not infer standard age norms or category relaxations.
+  - **Educational Qualification**: State the degree, subject, or class requirement only when present in the official source.
 
 ## Application Fee
-  Provide the fee structure. Use your knowledge of the organization's standard fee structure if available. For example, RPSC standard fees are: General/OBC Creamy Layer ₹350, OBC Non-Creamy Layer ₹250, SC/ST/PwD (Rajasthan domicile) ₹150, all others as per General category. Always add: "Fee structure subject to change — verify in official notification." Payment mode: Online via e-Mitra / Net Banking / Card (for state PSCs) or similar.
+  Provide the fee structure and payment mode only when present in the official source. Do not use standard fee tables from past exams.
 
 ## Selection Process
-  Numbered stages based on what is typical for this type of post: Written Exam → Interview/Personality Test (if applicable) → Document Verification → Medical Exam (if applicable) → Final Merit List. Use post-specific knowledge.
+  Numbered stages only when the official source states them. Do not infer stages from the post type.
 
 ## Salary and Pay Scale
-  Provide the approximate pay scale / pay matrix level if knowable from the post name and organization. Write: "Expected Pay Level [X] (₹[Y,000]–₹[Z,000] approx.) as per [state/central] 7th Pay Commission — verify in official notification."
+  Provide pay scale or pay matrix only when the official source states it.
 
 ## How to Apply Online
   Numbered steps (at least 7): visit official website → go to recruitment/notification section → find the notification link → read full notification → click Apply Online → register/login → fill form → upload documents → pay fee → submit → print confirmation.
@@ -806,20 +826,20 @@ async function generateContent(source, announcement) {
   Simple explanation: for each correct answer +[marks], for each wrong answer -[marks] (if negative marking) or 0 (if no penalty). Provide the marking scheme if known.
 
 ## How to Raise an Objection / Challenge
-  Steps and fee: only if objection window is open. Steps to challenge on official portal, fee per question (typically ₹100–₹1000 refundable if upheld). Deadline for objections.
+  Steps and fee only when the official source states the process, fee, and deadline.
 
 ## Important Dates
-  Answer key release date, objection deadline, final answer key date, result expected date.
+  Answer key release date, objection deadline, final answer key date, and result date only when officially stated.
 
 ## FAQs
-  5 FAQs: How to challenge wrong answers? What is the objection fee? When will the final key come? Will the score change after objections? When is the result expected?`,
+  5 FAQs grounded in the official notice. Do not answer unknown future dates with expected timelines.`,
 
     'default': `Sections to include:
 ## Overview
   What this update is about and why it matters for candidates.
 
 ## Important Dates
-  All known dates; TBA for unknown ones with expected timelines where possible.
+  All known official dates. For unknown dates, say they are not announced in the official notice.
 
 ## Key Details
   Relevant specifics for this update type.
@@ -893,8 +913,8 @@ Today / Published: ${today}
 
 CONTENT RULES:
 1. CONFIRMED data (dates, vacancies, fees, age limits above): state precisely — these came from the actual official document.
-2. For fields showing "TBA": fill them using your knowledge of this organization (${source.name}) and post type, labeled as "standard/typical" or "as per [org] rules". NEVER leave all rows as bare "TBA" without any context.
-3. GENUINELY UNKNOWN future events (exam date, admit card, result when not provided): write "TBA — check ${getDomain(announcement.officialUrl)}" with expected timeline where possible.
+2. For fields showing "TBA": do not fill them from memory, past cycles, or typical rules. State that the official notice has not announced the field.
+3. GENUINELY UNKNOWN future events (exam date, admit card, result when not provided): write "not announced in the official notice" and point users to ${getDomain(announcement.officialUrl)}.
 4. NEVER invent specific dates not provided, never guess deep URL paths, never make up vacancy breakdowns.
 5. Link to the official website domain only (${getDomain(announcement.officialUrl)}) — never guess deep paths.
 6. Tone: factual, helpful, reassuring. No clickbait, no pressure language.
@@ -1461,7 +1481,10 @@ async function main() {
     const criticalIssues = qualityIssues.filter(q =>
       q.startsWith('Gemini reasoning leak') ||
       q.startsWith('duplicate H2') ||
-      q.startsWith('broken table row')
+      q.startsWith('broken table row') ||
+      q.startsWith('thin generated body') ||
+      q.startsWith('excessive TBA') ||
+      q.startsWith('trust-damaging phrase')
     );
     if (qualityIssues.length > 0) {
       log(`  ⚠️  Quality issues detected in generated content:`);

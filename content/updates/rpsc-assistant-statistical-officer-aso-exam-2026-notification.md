@@ -70,29 +70,11 @@ As per RPSC norms for Group B posts, the typical age range is:
 > **Important**: Age is calculated as of a reference date specified in the notification (usually 1 January of the exam year). Verify the exact cutoff date in the official notification.
 
 ### Educational Qualification
-For the Assistant Statistical Officer post, candidates are typically required to have:
-
-- **Required degree**: A Bachelor's or Master's degree in **Statistics**, Mathematical Statistics, Applied Statistics, **Economics**, Applied Economics, Business Economics, Econometrics, or **Mathematics with Statistics** as a subject from a recognized university
-- Candidates with a B.Sc./M.Sc. in Statistics or an M.A./M.Sc. in Economics with Statistics are generally eligible
-- Some notifications also accept Commerce graduates with Statistics as a subject — check the official notification for exact qualifications
-
-> Verify the exact qualification requirement in the full official notification at [rpsc.rajasthan.gov.in](https://rpsc.rajasthan.gov.in).
+The exact qualification requirement must be read from the full official RPSC notification. Do not rely on past ASO recruitment patterns for subject eligibility, equivalent degrees, or category-specific relaxations. Check the notification at [rpsc.rajasthan.gov.in](https://rpsc.rajasthan.gov.in) before applying.
 
 ## Application Fee
 
-RPSC follows a standard fee structure for Group B examinations. The expected fees for RPSC ASO Exam 2026 are:
-
-| Category | Fee (Expected) |
-|----------|---------------|
-| General / EWS / OBC Creamy Layer | ₹350 |
-| OBC Non-Creamy Layer (Rajasthan domicile) | ₹250 |
-| SC / ST (Rajasthan domicile) | ₹150 |
-| PwD (Disabled) — Rajasthan domicile | ₹150 |
-| Ex-servicemen (Rajasthan domicile) | As per norms |
-
-**Payment Mode**: Online via e-Mitra kiosk, Net Banking, Debit Card, or Credit Card through the RPSC official portal.
-
-> Fee amounts are based on RPSC's standard structure — verify the exact amounts in the official notification before payment.
+The application fee, category-wise fee concessions, and payment mode must be taken from the official RPSC notification. Do not pay based on standard fee tables from older examinations.
 
 ## Selection Process
 

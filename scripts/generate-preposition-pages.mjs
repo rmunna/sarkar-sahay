@@ -10,6 +10,16 @@ const DEFAULT_PAYLOAD = path.join(ROOT, "agents", "cloudflare-detections.json");
 
 const args = process.argv.slice(2);
 const dryRun = args.includes("--dry-run");
+if (process.env.ALLOW_PREPOSITION_PAGES !== "true") {
+  console.log(JSON.stringify({
+    ok: true,
+    dryRun,
+    received: 0,
+    written: 0,
+    skipped: "preposition pages disabled; official confirmation required before publishing"
+  }, null, 2));
+  process.exit(0);
+}
 const fileArg = args.find(arg => arg.startsWith("--file"));
 const payloadPath = fileArg
   ? path.resolve(ROOT, fileArg.split("=")[1] || args[args.indexOf(fileArg) + 1])
@@ -55,8 +65,8 @@ function buildPrepositionPage(detection) {
     `${org} official update`
   ]).slice(0, 8);
 
-  const title = `${topic} Status ${year} - Official Update Tracker`;
-  const description = `${topic} status tracker for ${year}. Check official ${org} links, current release status, safe steps, and scam warnings. Updated only after official source confirmation.`;
+  const title = `${topic} Official Status ${year}`;
+  const description = `${topic} official status for ${year}. Check official ${org} links, current release status, safe steps, and scam warnings.`;
 
   const frontmatter = [
     "---",
@@ -87,7 +97,7 @@ function buildPrepositionPage(detection) {
   const body = [
     `## ${topic} Status ${year}`,
     "",
-    `This is a **status tracker** for ${topic}. CitizenNest created this page because search demand is rising, but the final release or download notice has **not been confirmed from the official source yet**.`,
+    `This page is limited to officially confirmed information for ${topic}. If the official source has not released a notice, result, admit card, answer key, or schedule, this page must not be published.`,
     "",
     "| Detail | Current Status |",
     "|---|---|",
@@ -128,7 +138,7 @@ function buildPrepositionPage(detection) {
     "",
     "### Why did CitizenNest create this page before release?",
     "",
-    "Because public search demand is rising. The page is intentionally limited to safe status tracking until official confirmation appears.",
+    "Only after an official source confirms a notice, result, admit card, answer key, or schedule.",
     "",
     "---",
     "",

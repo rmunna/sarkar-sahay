@@ -27,6 +27,10 @@ permissions:
 jobs:
   detect-and-generate:
     name: Detect New Schemes & Generate Guides
+    # Temporary quality freeze: automatic Cloudflare scheme dispatches must not
+    # publish guides until the generated-content audit gate is stricter.
+    # Manual workflow_dispatch runs remain available for reviewed testing.
+    if: github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     timeout-minutes: 25
     env:
