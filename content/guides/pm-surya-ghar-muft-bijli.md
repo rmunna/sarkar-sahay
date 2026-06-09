@@ -3,13 +3,23 @@ title: "PM Surya Ghar Muft Bijli Yojana — Free Solar Electricity Scheme, How t
 description: "Complete guide to PM Surya Ghar Muft Bijli Yojana. Get rooftop solar panels with subsidy up to ₹78,000 and 300 units free electricity."
 category: "Government Schemes"
 keywords: ["pm surya ghar yojana", "free electricity scheme", "rooftop solar subsidy", "pm surya ghar apply online", "solar panel government scheme"]
-lastUpdated: "2026-02-18"
+lastUpdated: "2026-06-09"
 readingTime: "8 min"
 officialLinks:
+  - "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2270660"
   - https://pmsuryaghar.gov.in
   - https://solarrooftop.gov.in
   - https://mnre.gov.in
 ---
+<!-- CITIZENNEST:OFFICIAL_UPDATE_START -->
+## Latest Official Update
+
+This page is refreshed when CitizenNest detects a relevant official update. Always verify final eligibility, dates and application steps on the official link before acting.
+
+| Date | Official update | Source | Queue status |
+|---|---|---|---|
+| 2026-06-09 | [रक्षा मंत्री ने उत्तर प्रदेश के सीतापुर में रक्षा भूमि पर बड़ी सौर ऊर्जा परियोजना को मंजूरी दी](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2270660) | PIB Hindi RSS | update_ready |
+<!-- CITIZENNEST:OFFICIAL_UPDATE_END -->
 
 ## What is PM Surya Ghar Muft Bijli Yojana?
 
