@@ -22,6 +22,7 @@ const GOOGLE_TRENDS_RSS_URL = "https://trends.google.com/trending/rss?geo=IN";
 const CSBC_URL = "https://csbc.bihar.gov.in/";
 const CUET_URL = "https://cuet.nta.nic.in/";
 const NTA_URL = "https://nta.ac.in/";
+const SSC_API_URL = "https://ssc.gov.in/api/general-website/portal/notice-boards?page=1&limit=20&contentType=notice-boards&key=createdAt&order=DESC&isAttachment=true&language=english&attributes=id,headline,examId,contentType,redirectUrl,startDate,endDate,language,createdAt";
 
 const baselineHtml = `
   <html>
@@ -218,6 +219,29 @@ const cuetOfficialNoResultHtml = `
   </html>
 `;
 
+const sscApiJson = JSON.stringify({
+  data: [
+    {
+      id: 1001,
+      headline: "Empanelment of Subject Matter Experts",
+      createdAt: new Date().toISOString(),
+      attachments: [{ path: "uploads/masterData/NoticeBoards/Notice_final_09062026.pdf" }]
+    },
+    {
+      id: 1002,
+      headline: "Notice of Senior Secretariat Assistant/ Upper Division Clerk Grade Limited Departmental Competitive Examination, 2025",
+      createdAt: new Date().toISOString(),
+      attachments: [{ path: "uploads/masterData/NoticeBoards/departmental_05062026.pdf" }]
+    },
+    {
+      id: 1003,
+      headline: "Head Constable (Ministerial) in Delhi Police Examination, 2025 - Declaration of result",
+      createdAt: new Date().toISOString(),
+      attachments: [{ path: "uploads/masterData/NoticeBoards/writeup_05062026.pdf" }]
+    }
+  ]
+});
+
 async function scan(kv, html) {
   const response = await worker.fetch(new Request("https://local.test/scan?source=rrb", {
     headers: { Authorization: "Bearer local-test" }
@@ -226,6 +250,32 @@ async function scan(kv, html) {
     MONITOR_ADMIN_TOKEN: "local-test",
     MIN_DISPATCH_CONFIDENCE: "0.75",
     FIXTURE_RESPONSES: JSON.stringify({ [RRB_NOTICES_URL]: html, [RRB_URL]: html })
+  });
+  assert.equal(response.status, 200);
+  return response.json();
+}
+
+async function scanSsc(kv) {
+  const response = await worker.fetch(new Request("https://local.test/scan?source=ssc", {
+    headers: { Authorization: "Bearer local-test" }
+  }), {
+    MONITOR_STATE: kv,
+    MONITOR_ADMIN_TOKEN: "local-test",
+    MIN_DISPATCH_CONFIDENCE: "0.75",
+    FIXTURE_RESPONSES: JSON.stringify({ [SSC_API_URL]: sscApiJson })
+  });
+  assert.equal(response.status, 200);
+  return response.json();
+}
+
+async function backfillSsc(kv, dryRun = true) {
+  const response = await worker.fetch(new Request(`https://local.test/backfill?source=ssc&days=7&dryRun=${dryRun ? "1" : "0"}`, {
+    headers: { Authorization: "Bearer local-test" }
+  }), {
+    MONITOR_STATE: kv,
+    MONITOR_ADMIN_TOKEN: "local-test",
+    MIN_DISPATCH_CONFIDENCE: "0.75",
+    FIXTURE_RESPONSES: JSON.stringify({ [SSC_API_URL]: sscApiJson })
   });
   assert.equal(response.status, 200);
   return response.json();
@@ -382,6 +432,18 @@ assert.equal(real.detections[0].stage, "result", "new notice should be classifie
 
 const afterReal = await scan(kv, realNewHtml);
 assert.equal(afterReal.newCount, 0, "same new notice should not trigger twice");
+
+const kvSsc = new MemoryKV();
+const sscBaseline = await scanSsc(kvSsc);
+assert.equal(sscBaseline.newCount, 0, "SSC first scan should baseline only");
+assert.equal(sscBaseline.results[0].itemCount, 2, "SSC scan should keep candidate notices and filter expert empanelment");
+const sscBackfillDryRun = await backfillSsc(kvSsc);
+assert.equal(sscBackfillDryRun.candidateCount, 2, "SSC backfill should recover fresh candidate-facing notices after baseline");
+assert.equal(sscBackfillDryRun.detections.some(item => /Empanelment/i.test(item.title)), false, "SSC backfill should not recover admin empanelment notices");
+const sscBackfillPersist = await backfillSsc(kvSsc, false);
+assert.equal(sscBackfillPersist.dispatchedCount, 2, "SSC backfill should queue recovered candidate notices for generation");
+const sscBackfillRepeat = await backfillSsc(kvSsc);
+assert.equal(sscBackfillRepeat.candidateCount, 0, "SSC backfill should not queue the same notices again after processing status exists");
 
 const kvSelector = new MemoryKV();
 const selectorBaseline = await scan(kvSelector, selectorBaselineHtml);

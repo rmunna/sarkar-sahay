@@ -6,7 +6,9 @@
       "tier": 1,
       "strategy": "ssc_api",
       "url": "https://ssc.gov.in/api/general-website/portal/notice-boards?page=1&limit=20&contentType=notice-boards&key=createdAt&order=DESC&isAttachment=true&language=english&attributes=id,headline,examId,contentType,redirectUrl,startDate,endDate,language,createdAt",
-      "homepage": "https://ssc.gov.in"
+      "homepage": "https://ssc.gov.in",
+      "include": ["notice", "notification", "result", "answer key", "schedule", "exam", "examination", "vacancy", "vacancies", "recruitment", "admit", "marks", "scorecard", "departmental competitive examination", "limited departmental competitive examination"],
+      "exclude": ["empanelment of subject matter experts", "empanelment of language experts", "subject matter experts", "language experts", "tender", "procurement", "office memorandum"]
     },
     {
       "id": "nta",

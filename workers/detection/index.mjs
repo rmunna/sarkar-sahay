@@ -87,8 +87,8 @@ const STAGE_PATTERNS = [
   ["admit-card", /\b(admit card|hall ticket|call letter|city intimation|exam city)\b/i],
   ["result", /\b(result|scorecard|marksheet|merit list|shortlisted|provisional list)\b/i],
   ["answer-key", /\b(answer key|response sheet|objection|challenge)\b/i],
-  ["notification", /\b(notification|advertisement|recruitment|vacancy|notice|cen|crp)\b/i],
   ["exam-schedule", /\b(schedule|exam date|time table|date sheet|written exam|interview schedule)\b/i],
+  ["notification", /\b(notification|advertisement|recruitment|vacanc(?:y|ies)|notice|cen|crp)\b/i],
   ["registration", /\b(apply online|registration|application form|last date|online application)\b/i],
   ["cutoff", /\b(cut off|cutoff|cut-off)\b/i]
 ];
@@ -150,6 +150,21 @@ export default {
         return json({ ok: false, error: "Unauthorized" }, 401);
       }
       const result = await scanAndPersist(env, { tier, dryRun, sourceId, limit });
+      return json(result);
+    }
+
+    if (pathname === "/backfill") {
+      const sourceId = url.searchParams.get("source");
+      const days = Number(url.searchParams.get("days") || 7);
+      const limit = Number(url.searchParams.get("limit") || 12);
+      const dryRun = url.searchParams.get("dryRun") !== "0";
+      if (!sourceId) {
+        return json({ ok: false, error: "source is required" }, 400);
+      }
+      if (!dryRun && !isAuthorized(request, env)) {
+        return json({ ok: false, error: "Unauthorized" }, 401);
+      }
+      const result = await backfillRecentSource(env, { sourceId, days, limit, dryRun });
       return json(result);
     }
 
@@ -273,6 +288,91 @@ export default {
     return json({ ok: false, error: "Not found" }, 404);
   }
 };
+
+async function backfillRecentSource(env, options) {
+  const source = config.sources.find(item => item.id === options.sourceId);
+  if (!source) {
+    return { ok: false, dryRun: options.dryRun, sourceId: options.sourceId, error: "source not found" };
+  }
+
+  const startedAt = new Date().toISOString();
+  const result = await scanSource(source, env);
+  const cutoffMs = Date.parse(startedAt) - Math.max(1, Number(options.days || 7)) * 86400000;
+  const state = getStateBinding(env);
+  const candidates = [];
+  const rejected = [];
+
+  for (const item of result.items || []) {
+    const decision = backfillDecision(source, item, cutoffMs);
+    if (!decision.ok) {
+      rejected.push({
+        title: item.title,
+        url: item.url,
+        fingerprint: item.fingerprint,
+        reason: decision.reason
+      });
+      continue;
+    }
+
+    const existing = await state.get(`${PROCESS_PREFIX}${item.fingerprint}`);
+    if (existing) {
+      rejected.push({
+        title: item.title,
+        url: item.url,
+        fingerprint: item.fingerprint,
+        reason: "already processed or queued"
+      });
+      continue;
+    }
+
+    candidates.push({
+      ...item,
+      sourceId: source.id,
+      sourceName: source.name,
+      strategy: source.strategy,
+      detectedAt: startedAt,
+      backfill: true,
+      backfillReason: "recent official item exists but was not previously handed to generation"
+    });
+  }
+
+  const selected = candidates.slice(0, Math.max(1, Number(options.limit || 12)));
+  let claimed = [];
+  if (!options.dryRun && selected.length > 0) {
+    await persistDetections(env, selected);
+    claimed = await claimDetectionsForGeneration(env, selected);
+    if (claimed.length > 0) {
+      await notifyWebhook(env, claimed);
+      await dispatchClaimedDetections(env, claimed);
+    }
+  }
+
+  return {
+    ok: true,
+    dryRun: options.dryRun,
+    scannedAt: startedAt,
+    sourceId: source.id,
+    sourceName: source.name,
+    itemCount: result.items?.length || 0,
+    candidateCount: candidates.length,
+    selectedCount: selected.length,
+    dispatchedCount: claimed.length,
+    error: result.error || null,
+    detections: selected,
+    rejected: rejected.slice(0, 25)
+  };
+}
+
+function backfillDecision(source, item, cutoffMs) {
+  if (!item?.fingerprint) return { ok: false, reason: "missing fingerprint" };
+  if (!isSourceFilterMatch(source, item.title, item.url)) return { ok: false, reason: "source include/exclude filter" };
+  if ((item.confidence || 0) < DEFAULT_MIN_DISPATCH_CONFIDENCE) return { ok: false, reason: "low confidence" };
+  if (item.stage === "other") return { ok: false, reason: "not a candidate-facing stage" };
+
+  const itemMs = item.date ? Date.parse(item.date) : NaN;
+  if (Number.isFinite(itemMs) && itemMs < cutoffMs) return { ok: false, reason: "older than backfill window" };
+  return { ok: true };
+}
 
 async function scanAndPersist(env, options) {
   const state = getStateBinding(env);
@@ -1481,7 +1581,7 @@ async function scanSscApi(source, env) {
       date: notice.createdAt || notice.startDate || null,
       type: "notice"
     });
-  }).filter(Boolean);
+  }).filter(item => item && isSourceFilterMatch(source, item.title, item.url));
 }
 
 async function scanNta(source, env) {
@@ -1614,8 +1714,6 @@ async function scanOfficialLinks(source, env) {
 }
 
 function officialItemsFromAnchors(source, anchors) {
-  const include = (source.include || KEYWORDS).map(v => v.toLowerCase());
-  const exclude = (source.exclude || []).map(v => v.toLowerCase());
   const seen = new Set();
   const items = [];
 
@@ -1623,8 +1721,7 @@ function officialItemsFromAnchors(source, anchors) {
     const haystack = `${anchor.title} ${anchor.url}`.toLowerCase();
     if (seen.has(anchor.url)) continue;
     if (isNoise(haystack)) continue;
-    if (exclude.some(term => haystack.includes(term))) continue;
-    if (!include.some(term => haystack.includes(term))) continue;
+    if (!isSourceFilterMatch(source, anchor.title, anchor.url)) continue;
     if (!isLikelyOfficialUrl(anchor.url, source)) continue;
 
     seen.add(anchor.url);
@@ -1637,6 +1734,15 @@ function officialItemsFromAnchors(source, anchors) {
   }
 
   return items;
+}
+
+function isSourceFilterMatch(source, title, url) {
+  const haystack = `${title || ""} ${url || ""}`.toLowerCase();
+  const include = (source.include || KEYWORDS).map(value => value.toLowerCase());
+  const exclude = (source.exclude || []).map(value => value.toLowerCase());
+  if (isNoise(haystack)) return false;
+  if (exclude.some(term => haystack.includes(term))) return false;
+  return include.length === 0 || include.some(term => haystack.includes(term));
 }
 
 async function scanUpscWhatsNew(source, env) {

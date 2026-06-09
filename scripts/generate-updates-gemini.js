@@ -1275,6 +1275,12 @@ async function main() {
         log(`  ⚠️  Unmatched Cloudflare detection: sourceId=${change.sourceId || 'unknown'} title="${String(change.headline || '').slice(0, 100)}" url=${change.url || 'none'}`);
       }
     }
+    sourcesToProcess = sourcesToProcess.flatMap(source =>
+      latestChanges
+        .filter(change => sourceMatchesChange(source, change))
+        .map(change => ({ ...source, _cloudflareChange: change }))
+    );
+    log(`🎯 Cloudflare work items: ${sourcesToProcess.length} detection(s)`);
   } else if (!FORCE_SCAN) {
     const changed = latestChanges.length > 0
       ? activeSources.filter(s => latestChanges.some(c => sourceMatchesChange(s, c)))
@@ -1301,7 +1307,9 @@ async function main() {
     }
 
     log(`\n🔍 Searching: ${source.name} (tier ${source.tier})`);
-    const matchingChanges = latestChanges.filter(change => sourceMatchesChange(source, change));
+    const matchingChanges = source._cloudflareChange
+      ? [source._cloudflareChange]
+      : latestChanges.filter(change => sourceMatchesChange(source, change));
     const changeType = matchingChanges[0]?.type || 'SCHEDULED_SCAN';
 
     // Thread known PDF URL from change detector into extraction (skip re-discovery)

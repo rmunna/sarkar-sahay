@@ -119,7 +119,7 @@ jobs:
           git config user.name "CitizenNest Bot"
           git config user.email "bot@citizennest.com"
 
-          git add content/updates/ public/sitemap.xml public/sitemap-index.xml agents/source-monitors.json 2>/dev/null || true
+          git add content/updates/ public/sitemap*.xml agents/source-monitors.json 2>/dev/null || true
           NEW=$(git diff --staged --name-only -- 'content/updates/*.md' | wc -l | tr -d ' ')
 
           if [ "$NEW" -gt 0 ]; then
@@ -128,7 +128,7 @@ jobs:
             Source: Cloudflare detection worker
             Safeguards: item fingerprint dedupe + official-source extraction + pre-position no-release guardrails"
             git fetch origin main
-            git rebase origin/main
+            git rebase --autostash origin/main
             git push
             echo "new_count=$NEW" >> "$GITHUB_OUTPUT"
           else
