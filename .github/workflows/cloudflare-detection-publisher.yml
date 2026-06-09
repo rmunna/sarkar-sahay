@@ -2,7 +2,7 @@ name: Cloudflare Detection Publisher
 
 on:
   repository_dispatch:
-    types: [cloudflare_detection_batch]
+    types: [cloudflare_detection_batch, cloudflare_preposition_batch]
   workflow_dispatch:
     inputs:
       detections_json:
@@ -76,7 +76,11 @@ jobs:
           JS
 
           COUNT=$(node -e "const d=require('./agents/cloudflare-detections.json'); console.log((d.detections||[]).length)")
+          PREPOSITION_COUNT=$(node -e "const d=require('./agents/cloudflare-detections.json'); const xs=d.detections||[]; console.log(xs.filter(x => x.strategy === 'trend_preposition' || x.safeContentMode === 'preposition_only').length)")
+          ALL_PREPOSITION=$(node -e "const d=require('./agents/cloudflare-detections.json'); const xs=d.detections||[]; console.log(xs.length > 0 && xs.every(x => x.strategy === 'trend_preposition' || x.safeContentMode === 'preposition_only') ? 'true' : 'false')")
           echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "preposition_count=$PREPOSITION_COUNT" >> "$GITHUB_OUTPUT"
+          echo "all_preposition=$ALL_PREPOSITION" >> "$GITHUB_OUTPUT"
           echo "has_detections=$([ "$COUNT" -gt 0 ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
 
       - name: Mark empty handoff as skipped
@@ -84,13 +88,20 @@ jobs:
         run: echo "No detections in payload"
 
       - name: Generate update pages with Gemini
-        if: steps.payload.outputs.has_detections == 'true'
+        if: steps.payload.outputs.has_detections == 'true' && steps.payload.outputs.all_preposition != 'true'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           ARGS="--cloudflare-detections --cloudflare-detections-file agents/cloudflare-detections.json"
           [ "${{ github.event.inputs.dry_run }}" = "true" ] && ARGS="$ARGS --dry-run"
           node scripts/generate-updates-gemini.js $ARGS
+
+      - name: Generate pre-position tracker pages
+        if: steps.payload.outputs.has_detections == 'true' && steps.payload.outputs.all_preposition == 'true'
+        run: |
+          ARGS="--file agents/cloudflare-detections.json"
+          [ "${{ github.event.inputs.dry_run }}" = "true" ] && ARGS="$ARGS --dry-run"
+          node scripts/generate-preposition-pages.mjs $ARGS
 
       - name: Regenerate sitemap when content changed
         if: steps.payload.outputs.has_detections == 'true'
@@ -115,7 +126,7 @@ jobs:
             git commit -m "content: auto-add ${NEW} Cloudflare-detected update(s) [$(TZ=Asia/Kolkata date +'%Y-%m-%d %H:%M IST')]
 
             Source: Cloudflare detection worker
-            Safeguards: item fingerprint dedupe + official-source extraction"
+            Safeguards: item fingerprint dedupe + official-source extraction + pre-position no-release guardrails"
             git fetch origin main
             git rebase origin/main
             git push
@@ -253,5 +264,6 @@ jobs:
           echo "| | |" >> "$GITHUB_STEP_SUMMARY"
           echo "|---|---|" >> "$GITHUB_STEP_SUMMARY"
           echo "| Detections received | ${{ steps.payload.outputs.count || 0 }} |" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Pre-position detections | ${{ steps.payload.outputs.preposition_count || 0 }} |" >> "$GITHUB_STEP_SUMMARY"
           echo "| New pages generated | ${{ steps.commit.outputs.new_count || 0 }} |" >> "$GITHUB_STEP_SUMMARY"
           echo "| URLs indexed | ${{ steps.urls.outputs.count || 0 }} |" >> "$GITHUB_STEP_SUMMARY"

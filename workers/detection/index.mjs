@@ -23,6 +23,7 @@ const DEFAULT_MAX_ANCHORS = 350;
 const DEFAULT_SCAN_SOURCE_LIMIT = 8;
 const DEFAULT_MAX_TREND_CONFIRMATIONS = 6;
 const DEFAULT_MIN_TREND_CONFIRM_SCORE = 68;
+const DEFAULT_MIN_PREPOSITION_SCORE = 82;
 
 const KEYWORDS = [
   "notice", "notification", "result", "admit", "hall ticket", "answer key",
@@ -499,10 +500,12 @@ async function scanTrendSignals(env, options) {
       checked: confirmation.checked,
       confirmedCount: confirmation.confirmed.length,
       rejectedCount: confirmation.rejected.length,
+      prepositionCount: confirmation.prepositions.length,
       dispatchableCount: confirmation.detections.length,
       dispatchedCount: confirmation.dispatchedCount || 0,
       confirmed: confirmation.confirmed,
-      rejected: confirmation.rejected
+      rejected: confirmation.rejected,
+      prepositions: confirmation.prepositions
     },
     note: "Trend signals are demand evidence only. The agent publishes only after official-source confirmation; otherwise it rejects with a reason.",
     signals: resolvedSignals
@@ -519,23 +522,12 @@ async function confirmTrendSignalsWithOfficialSources(env, signals, options, now
     .slice(0, maxConfirmations);
   const signalUpdates = new Map();
   const detections = [];
+  const prepositions = [];
   const confirmed = [];
   const rejected = [];
   let checked = 0;
 
   for (const signal of candidates) {
-    if (signal.preReleaseLanguage) {
-      const update = {
-        status: "rejected_prerelease",
-        rejectReason: "Trend contains pre-release/expected language; official live proof required before publishing.",
-        officialConfirmationRequired: true
-      };
-      signalUpdates.set(signal.topicKey, update);
-      rejected.push({ topicKey: signal.topicKey, title: signal.title, status: update.status, reason: update.rejectReason });
-      if (!options.dryRun) await putTrendProcessStatus(state, signal, update);
-      continue;
-    }
-
     const sourceCandidates = officialSourcesForTrend(signal);
     if (sourceCandidates.length === 0) {
       const update = {
@@ -550,16 +542,47 @@ async function confirmTrendSignalsWithOfficialSources(env, signals, options, now
     }
 
     let best = null;
+    let scannedWithoutError = false;
     for (const officialSource of sourceCandidates) {
       checked++;
       const result = await scanSource(officialSource, env);
+      if (!result.error && (result.items || []).length > 0) scannedWithoutError = true;
       for (const item of result.items || []) {
         const score = officialTrendMatchScore(signal, item, officialSource);
         if (!best || score > best.score) best = { source: officialSource, item, score };
       }
     }
 
-    if (!best || best.score < minConfirmScore) {
+    const shouldPreposition = scannedWithoutError
+      && signal.score >= Number(env.MIN_PREPOSITION_SCORE || DEFAULT_MIN_PREPOSITION_SCORE)
+      && (!best || best.score < minConfirmScore || (signal.preReleaseLanguage && best.item?.stage !== signal.stage));
+
+    if (!best || best.score < minConfirmScore || shouldPreposition) {
+      if (scannedWithoutError && signal.score >= Number(env.MIN_PREPOSITION_SCORE || DEFAULT_MIN_PREPOSITION_SCORE)) {
+        const detection = prepositionDetectionFromTrend(signal, sourceCandidates[0], best?.score || 0, now);
+        const update = {
+          status: "preposition_ready",
+          rejectReason: null,
+          officialConfirmationRequired: true,
+          prepositionSourceId: sourceCandidates[0].id,
+          prepositionOfficialUrl: sourceCandidates[0].homepage || sourceCandidates[0].url,
+          prepositionFingerprint: detection.fingerprint,
+          bestOfficialMatchScore: best?.score || 0
+        };
+        signalUpdates.set(signal.topicKey, update);
+        prepositions.push({
+          topicKey: signal.topicKey,
+          title: signal.title,
+          sourceId: sourceCandidates[0].id,
+          officialUrl: detection.url,
+          score: signal.score,
+          bestOfficialMatchScore: best?.score || 0
+        });
+        detections.push(detection);
+        if (!options.dryRun) await putTrendProcessStatus(state, signal, update);
+        continue;
+      }
+
       const update = {
         status: "rejected_no_official_match",
         rejectReason: `Official source scanned but no matching live item reached score ${minConfirmScore}.`,
@@ -596,7 +619,7 @@ async function confirmTrendSignalsWithOfficialSources(env, signals, options, now
     if (!options.dryRun) await putTrendProcessStatus(state, signal, update);
   }
 
-  return { signalUpdates, detections, confirmed, rejected, checked, dispatchedCount: 0 };
+  return { signalUpdates, detections, confirmed, rejected, prepositions, checked, dispatchedCount: 0 };
 }
 
 function officialSourcesForTrend(signal) {
@@ -670,6 +693,56 @@ function officialDetectionFromTrend(signal, source, item, score, now) {
   };
 }
 
+function prepositionDetectionFromTrend(signal, source, bestOfficialMatchScore, now) {
+  const sourceUrl = source.homepage || source.url;
+  const fingerprint = sha256HexSync(`trend-preposition|${signal.topicKey}|${source.id}`);
+  return {
+    id: `preposition:${signal.topicKey}`,
+    title: `${humanTrendTopic(signal)} status tracker`,
+    url: sourceUrl,
+    canonicalUrl: canonicalizeUrl(sourceUrl),
+    date: signal.date || now,
+    type: "preposition",
+    stage: signal.stage && signal.stage !== "other" ? signal.stage : "notification",
+    canonicalId: `preposition:${signal.topicKey}`,
+    fingerprintSchemaVersion: FINGERPRINT_SCHEMA_VERSION,
+    confidence: Math.min(0.95, Math.max(0.82, signal.score / 100)),
+    fingerprint,
+    sourceId: source.id,
+    sourceName: source.name,
+    strategy: "trend_preposition",
+    detectedAt: now,
+    trendTopicKey: signal.topicKey,
+    trendTitle: signal.title,
+    trendScore: signal.score,
+    trendTraffic: signal.traffic,
+    matchedOrgs: signal.matchedOrgs || [],
+    matchedKeywords: signal.matchedKeywords || [],
+    evidence: signal.evidence || [],
+    officialSourceId: source.id,
+    officialSourceName: source.name,
+    officialSourceUrl: sourceUrl,
+    officialConfirmationRequired: true,
+    bestOfficialMatchScore,
+    safeContentMode: "preposition_only"
+  };
+}
+
+function humanTrendTopic(signal) {
+  const parts = String(signal.topicKey || signal.title || "")
+    .split(":")
+    .filter(Boolean)
+    .slice(0, 3)
+    .map(part => part.replace(/-/g, " "));
+  return titleCase(parts.join(" ") || signal.title || "Exam update");
+}
+
+function titleCase(text) {
+  return String(text || "")
+    .toLowerCase()
+    .replace(/\b[a-z]/g, letter => letter.toUpperCase());
+}
+
 async function putTrendProcessStatus(state, signal, update) {
   await putProcessStatus(state, `trend:${signal.fingerprint}`, {
     status: update.status,
@@ -682,6 +755,9 @@ async function putTrendProcessStatus(state, signal, update) {
     confirmedTitle: update.confirmedTitle || null,
     officialMatchScore: update.officialMatchScore || update.bestOfficialMatchScore || 0,
     detectionFingerprint: update.detectionFingerprint || null,
+    prepositionSourceId: update.prepositionSourceId || null,
+    prepositionOfficialUrl: update.prepositionOfficialUrl || null,
+    prepositionFingerprint: update.prepositionFingerprint || null,
     updatedAt: new Date().toISOString()
   });
 }
@@ -756,6 +832,9 @@ async function persistTrendWatchlist(env, signals, now) {
       confirmedTitle: signal.confirmedTitle || previous?.confirmedTitle || null,
       officialMatchScore: signal.officialMatchScore || signal.bestOfficialMatchScore || previous?.officialMatchScore || 0,
       detectionFingerprint: signal.detectionFingerprint || previous?.detectionFingerprint || null,
+      prepositionSourceId: signal.prepositionSourceId || previous?.prepositionSourceId || null,
+      prepositionOfficialUrl: signal.prepositionOfficialUrl || previous?.prepositionOfficialUrl || null,
+      prepositionFingerprint: signal.prepositionFingerprint || previous?.prepositionFingerprint || null,
       firstSeenAt: previous?.firstSeenAt || now,
       lastSeenAt: now,
       seenCount: Number(previous?.seenCount || 0) + 1,
@@ -1980,6 +2059,8 @@ async function dispatchToGitHub(env, detections) {
     ? "cloudflare_evergreen_update_batch"
     : detections.every(isSchemeDetection)
     ? "cloudflare_scheme_batch"
+    : detections.every(isPrepositionDetection)
+    ? "cloudflare_preposition_batch"
     : "cloudflare_detection_batch";
 
   const response = await fetch(`https://api.github.com/repos/${env.GITHUB_REPO}/dispatches`, {
@@ -2011,9 +2092,11 @@ async function dispatchToGitHub(env, detections) {
 async function dispatchClaimedDetections(env, detections) {
   const evergreen = detections.filter(isEvergreenUpdateDetection);
   const scheme = detections.filter(detection => !isEvergreenUpdateDetection(detection) && isSchemeDetection(detection));
-  const exam = detections.filter(detection => !isEvergreenUpdateDetection(detection) && !isSchemeDetection(detection));
+  const preposition = detections.filter(detection => !isEvergreenUpdateDetection(detection) && !isSchemeDetection(detection) && isPrepositionDetection(detection));
+  const exam = detections.filter(detection => !isEvergreenUpdateDetection(detection) && !isSchemeDetection(detection) && !isPrepositionDetection(detection));
   if (evergreen.length > 0) await dispatchToGitHub(env, evergreen);
   if (scheme.length > 0) await dispatchToGitHub(env, scheme);
+  if (preposition.length > 0) await dispatchToGitHub(env, preposition);
   if (exam.length > 0) await dispatchToGitHub(env, exam);
 }
 
@@ -2025,6 +2108,10 @@ function isSchemeDetection(detection) {
   if (!["pib", "rbi-notifications"].includes(detection.sourceId)) return false;
   const category = classifyOpportunity(`${detection.title} ${detection.url}`.toLowerCase());
   return ["scheme", "policy-change", "digital-service"].includes(category);
+}
+
+function isPrepositionDetection(detection) {
+  return detection.strategy === "trend_preposition" || detection.safeContentMode === "preposition_only";
 }
 
 async function notifyWebhook(env, detections) {

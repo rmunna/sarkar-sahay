@@ -20,6 +20,8 @@ const CBSE_FALLBACK_URL = "https://www.cbseresults.nic.in/";
 const PIB_RSS_URL = "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=2&Regid=3";
 const GOOGLE_TRENDS_RSS_URL = "https://trends.google.com/trending/rss?geo=IN";
 const CSBC_URL = "https://csbc.bihar.gov.in/";
+const CUET_URL = "https://cuet.nta.nic.in/";
+const NTA_URL = "https://nta.ac.in/";
 
 const baselineHtml = `
   <html>
@@ -188,6 +190,34 @@ const csbcOfficialHtml = `
   </html>
 `;
 
+const googleTrendsPrereleaseXml = `
+  <rss xmlns:ht="https://trends.google.com/trending/rss">
+    <channel>
+      <item>
+        <title>cuet result expected soon</title>
+        <ht:approx_traffic>50000+</ht:approx_traffic>
+        <pubDate>Sun, 7 Jun 2026 17:30:00 -0700</pubDate>
+        <ht:news_item>
+          <ht:news_item_title>NTA CUET result expected soon, students wait for official update</ht:news_item_title>
+          <ht:news_item_url>https://example.com/cuet-result-expected-soon</ht:news_item_url>
+          <ht:news_item_source>Example News</ht:news_item_source>
+        </ht:news_item>
+      </item>
+    </channel>
+  </rss>
+`;
+
+const cuetOfficialNoResultHtml = `
+  <html>
+    <body>
+      <main>
+        <a href="/information-bulletin-cuet-ug-2026.pdf">CUET UG Information Bulletin</a>
+        <a href="/cuet-ug-city-intimation-2026.pdf">CUET UG City Intimation Notice</a>
+      </main>
+    </body>
+  </html>
+`;
+
 async function scan(kv, html) {
   const response = await worker.fetch(new Request("https://local.test/scan?source=rrb", {
     headers: { Authorization: "Bearer local-test" }
@@ -306,6 +336,25 @@ async function persistTrendSignals(kv) {
   return response.json();
 }
 
+async function scanPrepositionTrendSignals(kv, dryRun = true) {
+  const response = await worker.fetch(
+    new Request(`https://local.test/trend-signals?dryRun=${dryRun ? "1" : "0"}`, {
+      headers: { Authorization: "Bearer local-test" }
+    }),
+    {
+      MONITOR_STATE: kv,
+      MONITOR_ADMIN_TOKEN: "local-test",
+      FIXTURE_RESPONSES: JSON.stringify({
+        [GOOGLE_TRENDS_RSS_URL]: googleTrendsPrereleaseXml,
+        [CUET_URL]: cuetOfficialNoResultHtml,
+        [NTA_URL]: "<html><body><a href=\"/\">NTA homepage</a></body></html>"
+      })
+    }
+  );
+  assert.equal(response.status, 200);
+  return response.json();
+}
+
 async function readTrendWatchlist(kv) {
   const response = await worker.fetch(new Request("https://local.test/watchlist", {
     headers: { Authorization: "Bearer local-test" }
@@ -416,5 +465,22 @@ assert.equal(watchlist.watchlist[0].suggestedOfficialSources[0].id, "csbc-offici
 assert.equal(watchlist.watchlist[0].officialConfirmationRequired, false, "confirmed watch topic should not wait for human review");
 assert.equal(watchlist.watchlist[0].confirmedSourceId, "csbc-official", "watch topic should preserve official confirmation");
 assert.ok(watchlist.watchlist[0].confirmedOfficialUrl.includes("csbc.bihar.gov.in"), "watch topic should store the official confirmation URL");
+
+const prepositionDryRun = await scanPrepositionTrendSignals(new MemoryKV());
+assert.equal(prepositionDryRun.signalCount, 1, "pre-release trend should be retained");
+assert.equal(prepositionDryRun.confirmation.confirmedCount, 0, "pre-release trend without official release should not be confirmed");
+assert.equal(prepositionDryRun.confirmation.prepositionCount, 1, "pre-release trend with a verified official source should become pre-position ready");
+assert.equal(prepositionDryRun.confirmation.dispatchableCount, 1, "pre-position tracker should be dispatchable through its own guarded lane");
+assert.equal(prepositionDryRun.signals[0].status, "preposition_ready");
+assert.equal(prepositionDryRun.signals[0].officialConfirmationRequired, true);
+assert.equal(prepositionDryRun.signals[0].prepositionSourceId, "cuet-ug");
+
+const kvPreposition = new MemoryKV();
+const prepositionPersist = await scanPrepositionTrendSignals(kvPreposition, false);
+assert.equal(prepositionPersist.confirmation.prepositionCount, 1, "write-mode pre-position should preserve the preposition signal");
+const prepositionWatchlist = await readTrendWatchlist(kvPreposition);
+assert.equal(prepositionWatchlist.watchlist[0].status, "preposition_ready");
+assert.equal(prepositionWatchlist.watchlist[0].prepositionSourceId, "cuet-ug");
+assert.ok(prepositionWatchlist.watchlist[0].prepositionOfficialUrl.includes("cuet.nta.nic.in"));
 
 console.log("deterministic detection tests passed");
