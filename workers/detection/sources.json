@@ -133,6 +133,7 @@
       "strategy": "official_links",
       "url": "https://indiapostgdsonline.gov.in/",
       "homepage": "https://indiapostgdsonline.gov.in/",
+      "timeoutMs": 45000,
       "selectors": ["main a", ".content a", ".state-wise-list a", ".latest-news a", "table a"],
       "include": ["gds", "shortlisted", "candidate", "merit", "supplementary", "result", "notification", "document verification", "list"]
     },
