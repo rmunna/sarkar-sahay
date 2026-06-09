@@ -20,7 +20,7 @@ const FINGERPRINT_SCHEMA_VERSION = "2026-06-08.2";
 const DEFAULT_FETCH_TIMEOUT_MS = 12000;
 const DEFAULT_MAX_HTML_CHARS = 450_000;
 const DEFAULT_MAX_ANCHORS = 350;
-const DEFAULT_SCAN_SOURCE_LIMIT = 4;
+const DEFAULT_SCAN_SOURCE_LIMIT = 8;
 
 const KEYWORDS = [
   "notice", "notification", "result", "admit", "hall ticket", "answer key",
@@ -46,6 +46,7 @@ const TREND_SIGNAL_ORGS = [
   "rbi", "csbc", "bpsc", "bssc", "bseb", "uppsc", "upsssc",
   "upprpb", "dsssb", "kvs", "nvs", "ctet", "ugc net", "neet",
   "jee", "cuet", "gate", "clat", "iiser", "iat", "icai", "icmai",
+  "india post", "indiapost", "gds", "gramin dak sevak",
   "kea", "kcet", "cet", "mht cet", "comedk", "tspsc",
   "appsc", "tnpsc", "kpsc", "mppsc", "rpsc", "gpsc", "opsc",
   "jpsc", "hpsc", "hppsc", "ukpsc", "wbpsc", "ap eamcet",
@@ -68,7 +69,8 @@ const TREND_OFFICIAL_SOURCES = [
   { id: "nios-results", terms: ["nios"], officialUrls: ["https://results.nios.ac.in/"] },
   { id: "csbc-official", terms: ["csbc", "bihar police", "bihar constable"], officialUrls: ["https://csbc.bihar.gov.in/"] },
   { id: "bpsc-official", terms: ["bpsc"], officialUrls: ["https://bpsc.bihar.gov.in/"] },
-  { id: "dsssb", terms: ["dsssb"], officialUrls: ["https://dsssb.delhi.gov.in/"] }
+  { id: "dsssb", terms: ["dsssb"], officialUrls: ["https://dsssb.delhi.gov.in/"] },
+  { id: "india-post-gds", terms: ["india post", "indiapost", "gds", "gramin dak sevak"], officialUrls: ["https://indiapostgdsonline.gov.in/"] }
 ];
 
 const NOISE = [

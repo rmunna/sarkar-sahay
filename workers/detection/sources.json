@@ -17,6 +17,18 @@
       "homepage": "https://nta.ac.in"
     },
     {
+      "id": "cuet-ug",
+      "name": "CUET UG",
+      "tier": 1,
+      "strategy": "official_links",
+      "url": "https://cuet.nta.nic.in/",
+      "fallbackUrls": [
+        "https://exams.nta.ac.in/CUET-UG/"
+      ],
+      "homepage": "https://cuet.nta.nic.in/",
+      "include": ["cuet", "answer key", "response sheet", "admit", "result", "notification", "city", "re-allocation", "objection"]
+    },
+    {
       "id": "upsc",
       "name": "UPSC",
       "tier": 1,
@@ -93,6 +105,15 @@
       "url": "https://results.nios.ac.in/",
       "homepage": "https://results.nios.ac.in/",
       "include": ["result", "secondary", "senior", "public", "exam"]
+    },
+    {
+      "id": "india-post-gds",
+      "name": "India Post GDS",
+      "tier": 1,
+      "strategy": "official_links",
+      "url": "https://indiapostgdsonline.gov.in/",
+      "homepage": "https://indiapostgdsonline.gov.in/",
+      "include": ["gds", "shortlisted", "candidate", "merit", "supplementary", "result", "notification", "document verification", "list"]
     },
     {
       "id": "pib",

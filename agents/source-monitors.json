@@ -147,6 +147,25 @@
       "lastScanned": "2026-06-07"
     },
     {
+      "id": "cuet-ug",
+      "name": "CUET UG",
+      "fullName": "Common University Entrance Test Undergraduate",
+      "url": "https://cuet.nta.nic.in",
+      "notificationsUrl": "https://cuet.nta.nic.in",
+      "tier": 1,
+      "searchQueries": [
+        "CUET UG 2026 answer key",
+        "CUET UG 2026 response sheet",
+        "CUET UG 2026 result",
+        "CUET UG 2026 admit card",
+        "CUET UG 2026 notification"
+      ],
+      "exams": [
+        "CUET UG"
+      ],
+      "lastScanned": "2026-06-09"
+    },
+    {
       "id": "nios",
       "name": "NIOS",
       "fullName": "National Institute of Open Schooling",
@@ -165,6 +184,25 @@
         "Public Examination"
       ],
       "lastScanned": "2026-06-07"
+    },
+    {
+      "id": "india-post-gds",
+      "name": "India Post GDS",
+      "fullName": "Department of Posts Gramin Dak Sevak Online Engagement",
+      "url": "https://indiapostgdsonline.gov.in",
+      "notificationsUrl": "https://indiapostgdsonline.gov.in",
+      "tier": 1,
+      "searchQueries": [
+        "India Post GDS 2026 merit list",
+        "India Post GDS 4th merit list 2026",
+        "India Post GDS shortlisted candidates 2026",
+        "India Post GDS result 2026",
+        "Gramin Dak Sevak merit list 2026"
+      ],
+      "exams": [
+        "GDS Online Engagement"
+      ],
+      "lastScanned": "2026-06-09"
     },
     {
       "id": "jeeadv",

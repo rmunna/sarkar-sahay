@@ -1269,6 +1269,12 @@ async function main() {
   if (CLOUDFLARE_DETECTIONS) {
     sourcesToProcess = activeSources.filter(source => latestChanges.some(change => sourceMatchesChange(source, change)));
     log(`🎯 Processing only ${sourcesToProcess.length} Cloudflare-confirmed source(s)`);
+    const unmatchedChanges = latestChanges.filter(change => !activeSources.some(source => sourceMatchesChange(source, change)));
+    if (unmatchedChanges.length > 0) {
+      for (const change of unmatchedChanges.slice(0, 10)) {
+        log(`  ⚠️  Unmatched Cloudflare detection: sourceId=${change.sourceId || 'unknown'} title="${String(change.headline || '').slice(0, 100)}" url=${change.url || 'none'}`);
+      }
+    }
   } else if (!FORCE_SCAN) {
     const changed = latestChanges.length > 0
       ? activeSources.filter(s => latestChanges.some(c => sourceMatchesChange(s, c)))
