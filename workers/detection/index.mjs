@@ -318,6 +318,7 @@ async function scanAndPersist(env, options) {
         fingerprintSchemaVersion: FINGERPRINT_SCHEMA_VERSION,
         urlUsed: result.urlUsed || previous.urlUsed || null,
         extractionMode: result.extractionMode || previous.extractionMode || null,
+        matchedSelectors: result.matchedSelectors || previous.matchedSelectors || [],
         fingerprints: successfulScan ? currentFingerprints.slice(0, 250) : previous.fingerprints || [],
         itemCount: result.items.length,
         lastGoodItemCount: successfulScan ? result.items.length : previous.lastGoodItemCount || 0,
@@ -333,6 +334,7 @@ async function scanAndPersist(env, options) {
       strategy: source.strategy,
       urlUsed: result.urlUsed || null,
       extractionMode: result.extractionMode || null,
+      matchedSelectors: result.matchedSelectors || [],
       itemCount: result.items.length,
       newCount: newItems.length,
       schemaChanged: Boolean(schemaChanged),
@@ -1508,7 +1510,10 @@ function extractTrendNewsItems(block) {
 }
 
 async function scanOfficialLinks(source, env) {
-  const html = await fetchText(source.url, env, { maxChars: source.maxHtmlChars || DEFAULT_MAX_HTML_CHARS });
+  const html = await fetchText(source.url, env, {
+    maxChars: source.maxHtmlChars || DEFAULT_MAX_HTML_CHARS,
+    timeoutMs: source.timeoutMs || DEFAULT_FETCH_TIMEOUT_MS
+  });
   const scoped = extractAnchorsFromSelectors(html, source.url, source.selectors || [], {
     maxAnchors: source.maxAnchors || DEFAULT_MAX_ANCHORS
   });
@@ -1738,16 +1743,33 @@ function extractBlocksBySimpleSelector(html, selector) {
     const tag = match[1];
     const attrs = match[2] || "";
     if (!attributesMatchSelector(attrs, parsed)) continue;
-
-    const closeRegex = new RegExp(`</${escapeRegex(tag)}>`, "gi");
-    closeRegex.lastIndex = openTagRegex.lastIndex;
-    const close = closeRegex.exec(html);
-    if (!close) continue;
-    blocks.push(html.slice(match.index, close.index + close[0].length));
-    openTagRegex.lastIndex = close.index + close[0].length;
+    const block = extractElementBlock(html, match.index, tag);
+    if (!block) continue;
+    blocks.push(block.html);
+    openTagRegex.lastIndex = block.endIndex;
   }
 
   return blocks;
+}
+
+function extractElementBlock(html, startIndex, tag) {
+  const pattern = new RegExp(`<\\/?${escapeRegex(tag)}\\b[^>]*>`, "gi");
+  pattern.lastIndex = startIndex;
+  let depth = 0;
+  let match;
+
+  while ((match = pattern.exec(html)) !== null) {
+    const isClosing = /^<\//.test(match[0]);
+    depth += isClosing ? -1 : 1;
+    if (depth === 0) {
+      return {
+        html: html.slice(startIndex, pattern.lastIndex),
+        endIndex: pattern.lastIndex
+      };
+    }
+  }
+
+  return null;
 }
 
 function parseSimpleSelector(selector) {
@@ -2230,6 +2252,8 @@ function isLikelyOfficialUrl(url, source) {
   try {
     const itemHost = new URL(url).hostname.replace(/^www\./, "");
     const sourceHost = new URL(source.homepage || source.url).hostname.replace(/^www\./, "");
+    const officialHosts = (source.officialHosts || []).map(host => String(host).replace(/^www\./, "").toLowerCase());
+    if (officialHosts.some(host => itemHost === host || itemHost.endsWith(`.${host}`))) return true;
     return itemHost === sourceHost
       || itemHost.endsWith(".gov.in")
       || itemHost.endsWith(".nic.in")

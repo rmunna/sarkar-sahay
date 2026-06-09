@@ -333,6 +333,7 @@ assert.equal(afterReal.newCount, 0, "same new notice should not trigger twice");
 const kvSelector = new MemoryKV();
 const selectorBaseline = await scan(kvSelector, selectorBaselineHtml);
 assert.equal(selectorBaseline.results[0].extractionMode, "selector", "RRB should use scoped announcement selectors when available");
+assert.deepEqual(selectorBaseline.results[0].matchedSelectors, [".notice-board a"], "scan result should prove which selector matched");
 assert.equal(selectorBaseline.results[0].itemCount, 1, "selector mode should ignore matching links outside the announcement block");
 assert.equal(selectorBaseline.newCount, 0);
 const selectorFooterChange = await scan(kvSelector, selectorFooterChangeHtml);
