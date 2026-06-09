@@ -26,6 +26,7 @@
         "https://exams.nta.ac.in/CUET-UG/"
       ],
       "homepage": "https://cuet.nta.nic.in/",
+      "selectors": ["main a", ".entry-content a", ".site-main a", ".elementor-widget-container a", "table a"],
       "include": ["cuet", "answer key", "response sheet", "admit", "result", "notification", "city", "re-allocation", "objection"]
     },
     {
@@ -61,6 +62,7 @@
       "strategy": "official_links",
       "url": "https://www.rrbcdg.gov.in/",
       "homepage": "https://www.rrbcdg.gov.in",
+      "selectors": [".notice-board a", ".latest-news a", "#news-container a", "marquee a", "table a"],
       "include": ["notification", "result", "admit", "cen", "exam", "answer", "notice", "schedule"]
     },
     {
@@ -70,6 +72,7 @@
       "strategy": "official_links",
       "url": "https://csbc.bihar.gov.in/",
       "homepage": "https://csbc.bihar.gov.in/",
+      "selectors": ["main a", ".notice-board a", ".latest-news a", ".views-field-title a", "table a"],
       "include": ["constable", "police", "admit", "result", "merit", "notice", "notification", "vacancy", "written", "exam"]
     },
     {
@@ -79,6 +82,7 @@
       "strategy": "official_links",
       "url": "https://www.ibps.in/",
       "homepage": "https://www.ibps.in",
+      "selectors": ["main a", ".entry-content a", ".vc_tta-panel-body a", ".latest-news a", "table a"],
       "include": ["crp", "recruitment", "result", "admit", "call-letter", "notification", "vacancy"]
     },
     {
@@ -88,6 +92,7 @@
       "strategy": "official_links",
       "url": "https://bank.sbi/web/careers/current-openings",
       "homepage": "https://bank.sbi/web/careers",
+      "selectors": ["main a", ".current-openings a", ".career a", ".accordion a", "table a"],
       "include": ["recruitment", "result", "admit", "notice", "clerk", "po", "specialist", "written", "interview"],
       "exclude": ["experience", "format", "ctc", "certificate"]
     },
@@ -113,6 +118,7 @@
       "strategy": "official_links",
       "url": "https://results.nios.ac.in/",
       "homepage": "https://results.nios.ac.in/",
+      "selectors": ["main a", ".result a", ".latest-news a", "table a"],
       "include": ["result", "secondary", "senior", "public", "exam"]
     },
     {
@@ -122,6 +128,7 @@
       "strategy": "official_links",
       "url": "https://indiapostgdsonline.gov.in/",
       "homepage": "https://indiapostgdsonline.gov.in/",
+      "selectors": ["main a", ".content a", ".state-wise-list a", ".latest-news a", "table a"],
       "include": ["gds", "shortlisted", "candidate", "merit", "supplementary", "result", "notification", "document verification", "list"]
     },
     {

@@ -317,6 +317,7 @@ async function scanAndPersist(env, options) {
         sourceId: source.id,
         fingerprintSchemaVersion: FINGERPRINT_SCHEMA_VERSION,
         urlUsed: result.urlUsed || previous.urlUsed || null,
+        extractionMode: result.extractionMode || previous.extractionMode || null,
         fingerprints: successfulScan ? currentFingerprints.slice(0, 250) : previous.fingerprints || [],
         itemCount: result.items.length,
         lastGoodItemCount: successfulScan ? result.items.length : previous.lastGoodItemCount || 0,
@@ -331,6 +332,7 @@ async function scanAndPersist(env, options) {
       sourceName: source.name,
       strategy: source.strategy,
       urlUsed: result.urlUsed || null,
+      extractionMode: result.extractionMode || null,
       itemCount: result.items.length,
       newCount: newItems.length,
       schemaChanged: Boolean(schemaChanged),
@@ -1341,7 +1343,7 @@ async function scanSource(source, env) {
     if (source.strategy === "nta_notice_pdf") return { items: await scanNta(source, env) };
     if (source.strategy === "rss") return { items: await scanRss(source, env) };
     if (source.strategy === "google_trends_rss") return { items: await scanGoogleTrendsRss(source, env) };
-    return { items: await scanOfficialLinks(source, env) };
+    return await scanOfficialLinks(source, env);
   } catch (error) {
     return { items: [], error: error.message || String(error) };
   }
@@ -1352,8 +1354,8 @@ async function scanSourceWithUrlFallbacks(source, env) {
   for (const url of getSourceUrls(source)) {
     const scopedSource = { ...source, url };
     try {
-      const items = await scanFallbackSource(scopedSource, env);
-      if (items.length > 0) return { items, urlUsed: url };
+      const result = normalizeScanResult(await scanFallbackSource(scopedSource, env));
+      if (result.items.length > 0) return { ...result, urlUsed: url };
       errors.push(`${url}: no actionable items`);
     } catch (error) {
       errors.push(`${url}: ${error.message || String(error)}`);
@@ -1367,6 +1369,11 @@ async function scanFallbackSource(source, env) {
   if (source.strategy === "kea_announcements") return scanKeaAnnouncements(source, env);
   if (source.strategy === "cbse_results") return scanCbseResults(source, env);
   return scanOfficialLinks(source, env);
+}
+
+function normalizeScanResult(result) {
+  if (Array.isArray(result)) return { items: result };
+  return { items: result?.items || [], ...result };
 }
 
 function usesUrlFallbacks(source) {
@@ -1502,7 +1509,27 @@ function extractTrendNewsItems(block) {
 
 async function scanOfficialLinks(source, env) {
   const html = await fetchText(source.url, env, { maxChars: source.maxHtmlChars || DEFAULT_MAX_HTML_CHARS });
+  const scoped = extractAnchorsFromSelectors(html, source.url, source.selectors || [], {
+    maxAnchors: source.maxAnchors || DEFAULT_MAX_ANCHORS
+  });
+  const scopedItems = officialItemsFromAnchors(source, scoped.anchors);
+  if (scopedItems.length > 0) {
+    return {
+      items: scopedItems.filter(Boolean).sort(sortByDateDesc).slice(0, 50),
+      extractionMode: "selector",
+      matchedSelectors: scoped.matchedSelectors
+    };
+  }
+
   const anchors = extractAnchors(html, source.url, { maxAnchors: source.maxAnchors || DEFAULT_MAX_ANCHORS });
+  return {
+    items: officialItemsFromAnchors(source, anchors).filter(Boolean).sort(sortByDateDesc).slice(0, 50),
+    extractionMode: "fallback",
+    matchedSelectors: scoped.matchedSelectors
+  };
+}
+
+function officialItemsFromAnchors(source, anchors) {
   const include = (source.include || KEYWORDS).map(v => v.toLowerCase());
   const exclude = (source.exclude || []).map(v => v.toLowerCase());
   const seen = new Set();
@@ -1525,7 +1552,7 @@ async function scanOfficialLinks(source, env) {
     }));
   }
 
-  return items.filter(Boolean).sort(sortByDateDesc).slice(0, 50);
+  return items;
 }
 
 async function scanUpscWhatsNew(source, env) {
@@ -1641,6 +1668,114 @@ function extractAnchors(html, baseUrl, options = {}) {
     anchors.push({ url, title: cleanText(match[2]) });
   }
   return anchors;
+}
+
+function extractAnchorsFromSelectors(html, baseUrl, selectors, options = {}) {
+  const anchors = [];
+  const matchedSelectors = [];
+  const seen = new Set();
+
+  for (const selector of selectors) {
+    if (options.maxAnchors && anchors.length >= options.maxAnchors) break;
+    const selectorAnchors = extractAnchorsForSelector(html, baseUrl, selector, {
+      maxAnchors: options.maxAnchors ? options.maxAnchors - anchors.length : null
+    });
+    if (selectorAnchors.length === 0) continue;
+    matchedSelectors.push(selector);
+    for (const anchor of selectorAnchors) {
+      const key = `${anchor.url}|${anchor.title}`;
+      if (seen.has(key)) continue;
+      seen.add(key);
+      anchors.push(anchor);
+      if (options.maxAnchors && anchors.length >= options.maxAnchors) break;
+    }
+  }
+
+  return { anchors, matchedSelectors };
+}
+
+function extractAnchorsForSelector(html, baseUrl, selector, options = {}) {
+  const value = String(selector || "").trim();
+  if (!value) return [];
+  if (/^a(?:[.#][a-z0-9_-]+)?$/i.test(value)) {
+    return filterAnchorsByAnchorSelector(extractAnchors(html, baseUrl, options), value);
+  }
+
+  const containerSelector = value.replace(/\s*>\s*a\s*$/i, "").replace(/\s+a\s*$/i, "").trim();
+  if (!containerSelector || containerSelector === value) return [];
+
+  const blocks = extractBlocksBySimpleSelector(html, containerSelector);
+  const anchors = [];
+  for (const block of blocks) {
+    if (options.maxAnchors && anchors.length >= options.maxAnchors) break;
+    anchors.push(...extractAnchors(block, baseUrl, {
+      maxAnchors: options.maxAnchors ? options.maxAnchors - anchors.length : null
+    }));
+  }
+  return anchors;
+}
+
+function filterAnchorsByAnchorSelector(anchors, selector) {
+  const requiredClass = selector.match(/\.([a-z0-9_-]+)/i)?.[1];
+  const requiredId = selector.match(/#([a-z0-9_-]+)/i)?.[1];
+  if (!requiredClass && !requiredId) return anchors;
+  return anchors.filter(anchor => {
+    const text = `${anchor.title} ${anchor.url}`.toLowerCase();
+    return (!requiredClass || text.includes(requiredClass.toLowerCase()))
+      && (!requiredId || text.includes(requiredId.toLowerCase()));
+  });
+}
+
+function extractBlocksBySimpleSelector(html, selector) {
+  const parsed = parseSimpleSelector(selector);
+  if (!parsed) return [];
+  const blocks = [];
+  const tagPattern = parsed.tag || "[a-z][\\w:-]*";
+  const openTagRegex = new RegExp(`<(${tagPattern})\\b([^>]*)>`, "gi");
+  let match;
+
+  while ((match = openTagRegex.exec(html)) !== null) {
+    const tag = match[1];
+    const attrs = match[2] || "";
+    if (!attributesMatchSelector(attrs, parsed)) continue;
+
+    const closeRegex = new RegExp(`</${escapeRegex(tag)}>`, "gi");
+    closeRegex.lastIndex = openTagRegex.lastIndex;
+    const close = closeRegex.exec(html);
+    if (!close) continue;
+    blocks.push(html.slice(match.index, close.index + close[0].length));
+    openTagRegex.lastIndex = close.index + close[0].length;
+  }
+
+  return blocks;
+}
+
+function parseSimpleSelector(selector) {
+  const value = String(selector || "").trim();
+  const match = value.match(/^(?:(?<tag>[a-z][\w:-]*)?)?(?:(?<id>#[a-z0-9_-]+)|(?<class>\.[a-z0-9_-]+))?$/i);
+  if (!match) return null;
+  const tag = match.groups?.tag || null;
+  const id = match.groups?.id ? match.groups.id.slice(1) : null;
+  const className = match.groups?.class ? match.groups.class.slice(1) : null;
+  if (!tag && !id && !className) return null;
+  return { tag, id, className };
+}
+
+function attributesMatchSelector(attrs, selector) {
+  if (selector.id) {
+    const idValue = attrs.match(/\bid\s*=\s*["']([^"']+)["']/i)?.[1] || "";
+    if (idValue !== selector.id) return false;
+  }
+  if (selector.className) {
+    const classValue = attrs.match(/\bclass\s*=\s*["']([^"']+)["']/i)?.[1] || "";
+    const classes = classValue.toLowerCase().split(/\s+/);
+    if (!classes.includes(selector.className.toLowerCase())) return false;
+  }
+  return true;
+}
+
+function escapeRegex(text) {
+  return String(text || "").replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
 function makeItem(source, raw) {

@@ -60,6 +60,54 @@ const realNewHtml = `
   </html>
 `;
 
+const selectorBaselineHtml = `
+  <html>
+    <body>
+      <section class="notice-board">
+        <a href="/uploads/CEN-01-2026-notification.pdf">
+          CEN 01/2026 Recruitment Notification
+        </a>
+      </section>
+      <footer>
+        <a href="/uploads/CEN-99-2026-result.pdf">Footer archive result</a>
+      </footer>
+    </body>
+  </html>
+`;
+
+const selectorFooterChangeHtml = `
+  <html>
+    <body>
+      <section class="notice-board">
+        <a href="/uploads/CEN-01-2026-notification.pdf">
+          CEN 01/2026 Recruitment Notification
+        </a>
+      </section>
+      <footer>
+        <a href="/uploads/CEN-100-2026-result.pdf">Footer archive result changed</a>
+      </footer>
+    </body>
+  </html>
+`;
+
+const selectorNoticeChangeHtml = `
+  <html>
+    <body>
+      <section class="notice-board">
+        <a href="/uploads/CEN-01-2026-notification.pdf">
+          CEN 01/2026 Recruitment Notification
+        </a>
+        <a href="/uploads/CEN-02-2026-result.pdf">
+          CEN 02/2026 Result Notice
+        </a>
+      </section>
+      <footer>
+        <a href="/uploads/CEN-100-2026-result.pdf">Footer archive result changed</a>
+      </footer>
+    </body>
+  </html>
+`;
+
 const cbseFallbackHtml = `
   <html>
     <body>
@@ -281,6 +329,18 @@ assert.equal(real.detections[0].stage, "result", "new notice should be classifie
 
 const afterReal = await scan(kv, realNewHtml);
 assert.equal(afterReal.newCount, 0, "same new notice should not trigger twice");
+
+const kvSelector = new MemoryKV();
+const selectorBaseline = await scan(kvSelector, selectorBaselineHtml);
+assert.equal(selectorBaseline.results[0].extractionMode, "selector", "RRB should use scoped announcement selectors when available");
+assert.equal(selectorBaseline.results[0].itemCount, 1, "selector mode should ignore matching links outside the announcement block");
+assert.equal(selectorBaseline.newCount, 0);
+const selectorFooterChange = await scan(kvSelector, selectorFooterChangeHtml);
+assert.equal(selectorFooterChange.newCount, 0, "footer/archive changes outside selected announcement blocks should not trigger");
+assert.equal(selectorFooterChange.results[0].itemCount, 1);
+const selectorNoticeChange = await scan(kvSelector, selectorNoticeChangeHtml);
+assert.equal(selectorNoticeChange.newCount, 1, "new links inside selected announcement blocks should trigger");
+assert.equal(selectorNoticeChange.detections[0].title, "CEN 02/2026 Result Notice");
 
 const kvFailure = new MemoryKV();
 const failureBaseline = await scan(kvFailure, baselineHtml);
