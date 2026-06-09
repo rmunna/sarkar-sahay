@@ -18,6 +18,7 @@ const CBSE_PRIMARY_URL = "https://results.cbse.nic.in/";
 const CBSE_FALLBACK_URL = "https://www.cbseresults.nic.in/";
 const PIB_RSS_URL = "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=2&Regid=3";
 const GOOGLE_TRENDS_RSS_URL = "https://trends.google.com/trending/rss?geo=IN";
+const CSBC_URL = "https://csbc.bihar.gov.in/";
 
 const baselineHtml = `
   <html>
@@ -125,6 +126,19 @@ const googleTrendsRssXml = `
   </rss>
 `;
 
+const csbcOfficialHtml = `
+  <html>
+    <body>
+      <main>
+        <a href="/Admit-Card/Bihar-Police-Constable-Admit-Card-2026.pdf">
+          Bihar Police Constable Admit Card 2026
+        </a>
+        <a href="/tender/security-services-2026.pdf">Security services tender</a>
+      </main>
+    </body>
+  </html>
+`;
+
 async function scan(kv, html) {
   const response = await worker.fetch(new Request("https://local.test/scan?source=rrb", {
     headers: { Authorization: "Bearer local-test" }
@@ -213,7 +227,10 @@ async function scanTrendSignals(kv) {
   const response = await worker.fetch(new Request("https://local.test/trend-signals?dryRun=1"), {
     MONITOR_STATE: kv,
     MONITOR_ADMIN_TOKEN: "local-test",
-    FIXTURE_RESPONSES: JSON.stringify({ [GOOGLE_TRENDS_RSS_URL]: googleTrendsRssXml })
+    FIXTURE_RESPONSES: JSON.stringify({
+      [GOOGLE_TRENDS_RSS_URL]: googleTrendsRssXml,
+      [CSBC_URL]: csbcOfficialHtml
+    })
   });
   assert.equal(response.status, 200);
   return response.json();
@@ -227,7 +244,10 @@ async function persistTrendSignals(kv) {
     {
       MONITOR_STATE: kv,
       MONITOR_ADMIN_TOKEN: "local-test",
-      FIXTURE_RESPONSES: JSON.stringify({ [GOOGLE_TRENDS_RSS_URL]: googleTrendsRssXml })
+      FIXTURE_RESPONSES: JSON.stringify({
+        [GOOGLE_TRENDS_RSS_URL]: googleTrendsRssXml,
+        [CSBC_URL]: csbcOfficialHtml
+      })
     }
   );
   assert.equal(response.status, 200);
@@ -307,13 +327,19 @@ assert.equal(trendSignals.signalCount, 1, "exam/job trend filtering should keep 
 assert.equal(trendSignals.signals[0].title, "csbc", "abbreviation-only trend should be retained through nested news evidence");
 assert.ok(trendSignals.signals[0].matchedOrgs.includes("csbc"), "CSBC abbreviation should match known exam orgs");
 assert.ok(trendSignals.signals[0].matchedKeywords.includes("admit card"), "nested news title should match admit card keyword");
-assert.equal(trendSignals.signals[0].officialConfirmationRequired, true, "trend signal should require official confirmation");
+assert.equal(trendSignals.confirmation.confirmedCount, 1, "trend signal should be confirmed by an official source");
+assert.equal(trendSignals.confirmation.rejectedCount, 0, "confirmed trend should not be rejected");
+assert.equal(trendSignals.confirmation.dispatchableCount, 1, "confirmed official trend should become generation-ready");
+assert.equal(trendSignals.signals[0].officialConfirmationRequired, false, "confirmed trend signal should no longer require review");
+assert.equal(trendSignals.signals[0].status, "official_confirmed", "confirmed trend should carry an official-confirmed status");
+assert.equal(trendSignals.signals[0].confirmedSourceId, "csbc-official", "confirmed trend should point at the official source");
 assert.equal(trendSignals.signals[0].topicKey, "csbc:bihar-police-constable:admit-card:2026", "trend topic key should dedupe variants by org, subject, stage, and year");
 
 const kvTrend = new MemoryKV();
 const firstWatch = await persistTrendSignals(kvTrend);
 assert.equal(firstWatch.watchUpdates.length, 1, "write-mode trend scan should create one watch topic");
 assert.equal(firstWatch.watchUpdates[0].status, "created");
+assert.equal(firstWatch.confirmation.dispatchableCount, 1, "write-mode confirmed trend should be dispatchable");
 const secondWatch = await persistTrendSignals(kvTrend);
 assert.equal(secondWatch.watchUpdates.length, 1, "repeat trend scan should update the same watch topic");
 assert.equal(secondWatch.watchUpdates[0].status, "updated");
@@ -322,5 +348,8 @@ assert.equal(watchlist.watchCount, 1, "watchlist should keep one deduped CSBC to
 assert.equal(watchlist.watchlist[0].topicKey, "csbc:bihar-police-constable:admit-card:2026");
 assert.equal(watchlist.watchlist[0].seenCount, 2, "repeat sightings should increment the existing watch topic");
 assert.equal(watchlist.watchlist[0].suggestedOfficialSources[0].id, "csbc-official", "watch topic should suggest the official CSBC portal");
+assert.equal(watchlist.watchlist[0].officialConfirmationRequired, false, "confirmed watch topic should not wait for human review");
+assert.equal(watchlist.watchlist[0].confirmedSourceId, "csbc-official", "watch topic should preserve official confirmation");
+assert.ok(watchlist.watchlist[0].confirmedOfficialUrl.includes("csbc.bihar.gov.in"), "watch topic should store the official confirmation URL");
 
 console.log("deterministic detection tests passed");

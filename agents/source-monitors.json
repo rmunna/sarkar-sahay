@@ -78,6 +78,24 @@
       "lastScanned": "2026-06-07"
     },
     {
+      "id": "csbc-official",
+      "name": "CSBC Bihar",
+      "fullName": "Central Selection Board of Constable, Bihar",
+      "url": "https://csbc.bihar.gov.in",
+      "notificationsUrl": "https://csbc.bihar.gov.in",
+      "tier": 1,
+      "searchQueries": [
+        "CSBC Bihar constable admit card 2026",
+        "CSBC Bihar police constable result 2026",
+        "CSBC Bihar constable merit list 2026",
+        "Bihar Police Constable vacancy 2026"
+      ],
+      "exams": [
+        "Bihar Police Constable"
+      ],
+      "lastScanned": "2026-06-09"
+    },
+    {
       "id": "ibps",
       "name": "IBPS",
       "fullName": "Institute of Banking Personnel Selection",

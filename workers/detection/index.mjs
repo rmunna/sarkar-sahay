@@ -21,6 +21,8 @@ const DEFAULT_FETCH_TIMEOUT_MS = 12000;
 const DEFAULT_MAX_HTML_CHARS = 450_000;
 const DEFAULT_MAX_ANCHORS = 350;
 const DEFAULT_SCAN_SOURCE_LIMIT = 8;
+const DEFAULT_MAX_TREND_CONFIRMATIONS = 6;
+const DEFAULT_MIN_TREND_CONFIRM_SCORE = 68;
 
 const KEYWORDS = [
   "notice", "notification", "result", "admit", "hall ticket", "answer key",
@@ -59,7 +61,8 @@ const PRE_RELEASE_PATTERN = /\b(expected|expected soon|likely|may release|to be 
 
 const TREND_OFFICIAL_SOURCES = [
   { id: "ssc", terms: ["ssc"], officialUrls: ["https://ssc.gov.in"] },
-  { id: "nta", terms: ["nta", "neet", "jee", "cuet", "ugc net"], officialUrls: ["https://nta.ac.in"] },
+  { id: "cuet-ug", terms: ["cuet", "cuet ug"], officialUrls: ["https://cuet.nta.nic.in/"] },
+  { id: "nta", terms: ["nta", "neet", "jee", "ugc net"], officialUrls: ["https://nta.ac.in"] },
   { id: "upsc", terms: ["upsc"], officialUrls: ["https://www.upsc.gov.in"] },
   { id: "kea", terms: ["kea", "kcet", "cet"], officialUrls: ["https://cetonline.karnataka.gov.in/kea/"] },
   { id: "rrb", terms: ["rrb"], officialUrls: ["https://www.rrbcdg.gov.in/"] },
@@ -68,7 +71,7 @@ const TREND_OFFICIAL_SOURCES = [
   { id: "cbse-results", terms: ["cbse", "ctet"], officialUrls: ["https://results.cbse.nic.in/", "https://www.cbse.gov.in/cbsenew/cbse.html"] },
   { id: "nios-results", terms: ["nios"], officialUrls: ["https://results.nios.ac.in/"] },
   { id: "csbc-official", terms: ["csbc", "bihar police", "bihar constable"], officialUrls: ["https://csbc.bihar.gov.in/"] },
-  { id: "bpsc-official", terms: ["bpsc"], officialUrls: ["https://bpsc.bihar.gov.in/"] },
+  { id: "bpsc", terms: ["bpsc"], officialUrls: ["https://bpsc.bihar.gov.in/"] },
   { id: "dsssb", terms: ["dsssb"], officialUrls: ["https://dsssb.delhi.gov.in/"] },
   { id: "india-post-gds", terms: ["india post", "indiapost", "gds", "gramin dak sevak"], officialUrls: ["https://indiapostgdsonline.gov.in/"] }
 ];
@@ -462,7 +465,22 @@ async function scanTrendSignals(env, options) {
     .filter(Boolean)
     .sort((a, b) => b.score - a.score)
     .slice(0, 40);
-  const watchUpdates = options.dryRun ? [] : await persistTrendWatchlist(env, signals, startedAt);
+  const confirmation = await confirmTrendSignalsWithOfficialSources(env, signals, options, startedAt);
+  const resolvedSignals = signals.map(signal => ({
+    ...signal,
+    ...(confirmation.signalUpdates.get(signal.topicKey) || {})
+  }));
+  const watchUpdates = options.dryRun ? [] : await persistTrendWatchlist(env, resolvedSignals, startedAt);
+
+  if (!options.dryRun && confirmation.detections.length > 0) {
+    await persistDetections(env, confirmation.detections);
+    const claimed = await claimDetectionsForGeneration(env, confirmation.detections);
+    if (claimed.length > 0) {
+      await notifyWebhook(env, claimed);
+      await dispatchClaimedDetections(env, claimed);
+    }
+    confirmation.dispatchedCount = claimed.length;
+  }
 
   return {
     ok: true,
@@ -471,11 +489,197 @@ async function scanTrendSignals(env, options) {
     sourceId: source.id,
     sourceName: source.name,
     itemCount: result.length,
-    signalCount: signals.length,
+    signalCount: resolvedSignals.length,
     watchUpdates,
-    note: "Trend signals are demand evidence only. Generate content only after official-source confirmation.",
-    signals
+    confirmation: {
+      checked: confirmation.checked,
+      confirmedCount: confirmation.confirmed.length,
+      rejectedCount: confirmation.rejected.length,
+      dispatchableCount: confirmation.detections.length,
+      dispatchedCount: confirmation.dispatchedCount || 0,
+      confirmed: confirmation.confirmed,
+      rejected: confirmation.rejected
+    },
+    note: "Trend signals are demand evidence only. The agent publishes only after official-source confirmation; otherwise it rejects with a reason.",
+    signals: resolvedSignals
   };
+}
+
+async function confirmTrendSignalsWithOfficialSources(env, signals, options, now) {
+  const state = getStateBinding(env);
+  const maxConfirmations = Number(env.MAX_TREND_CONFIRMATIONS || DEFAULT_MAX_TREND_CONFIRMATIONS);
+  const minConfirmScore = Number(env.MIN_TREND_CONFIRM_SCORE || DEFAULT_MIN_TREND_CONFIRM_SCORE);
+  const candidates = signals
+    .filter(signal => signal.score >= 80)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, maxConfirmations);
+  const signalUpdates = new Map();
+  const detections = [];
+  const confirmed = [];
+  const rejected = [];
+  let checked = 0;
+
+  for (const signal of candidates) {
+    if (signal.preReleaseLanguage) {
+      const update = {
+        status: "rejected_prerelease",
+        rejectReason: "Trend contains pre-release/expected language; official live proof required before publishing.",
+        officialConfirmationRequired: true
+      };
+      signalUpdates.set(signal.topicKey, update);
+      rejected.push({ topicKey: signal.topicKey, title: signal.title, status: update.status, reason: update.rejectReason });
+      if (!options.dryRun) await putTrendProcessStatus(state, signal, update);
+      continue;
+    }
+
+    const sourceCandidates = officialSourcesForTrend(signal);
+    if (sourceCandidates.length === 0) {
+      const update = {
+        status: "rejected_no_official_source",
+        rejectReason: "No configured official source is mapped for this trend.",
+        officialConfirmationRequired: true
+      };
+      signalUpdates.set(signal.topicKey, update);
+      rejected.push({ topicKey: signal.topicKey, title: signal.title, status: update.status, reason: update.rejectReason });
+      if (!options.dryRun) await putTrendProcessStatus(state, signal, update);
+      continue;
+    }
+
+    let best = null;
+    for (const officialSource of sourceCandidates) {
+      checked++;
+      const result = await scanSource(officialSource, env);
+      for (const item of result.items || []) {
+        const score = officialTrendMatchScore(signal, item, officialSource);
+        if (!best || score > best.score) best = { source: officialSource, item, score };
+      }
+    }
+
+    if (!best || best.score < minConfirmScore) {
+      const update = {
+        status: "rejected_no_official_match",
+        rejectReason: `Official source scanned but no matching live item reached score ${minConfirmScore}.`,
+        officialConfirmationRequired: true,
+        bestOfficialMatchScore: best?.score || 0
+      };
+      signalUpdates.set(signal.topicKey, update);
+      rejected.push({ topicKey: signal.topicKey, title: signal.title, status: update.status, reason: update.rejectReason, bestScore: best?.score || 0 });
+      if (!options.dryRun) await putTrendProcessStatus(state, signal, update);
+      continue;
+    }
+
+    const detection = officialDetectionFromTrend(signal, best.source, best.item, best.score, now);
+    const update = {
+      status: "official_confirmed",
+      rejectReason: null,
+      officialConfirmationRequired: false,
+      confirmedSourceId: best.source.id,
+      confirmedOfficialUrl: best.item.url,
+      confirmedTitle: best.item.title,
+      officialMatchScore: best.score,
+      detectionFingerprint: detection.fingerprint
+    };
+    signalUpdates.set(signal.topicKey, update);
+    detections.push(detection);
+    confirmed.push({
+      topicKey: signal.topicKey,
+      title: signal.title,
+      sourceId: best.source.id,
+      officialTitle: best.item.title,
+      officialUrl: best.item.url,
+      score: best.score
+    });
+    if (!options.dryRun) await putTrendProcessStatus(state, signal, update);
+  }
+
+  return { signalUpdates, detections, confirmed, rejected, checked, dispatchedCount: 0 };
+}
+
+function officialSourcesForTrend(signal) {
+  const suggestions = signal.suggestedOfficialSources || [];
+  const aliases = {
+    "bpsc-official": "bpsc"
+  };
+  const seen = new Set();
+  const sources = [];
+  for (const suggestion of suggestions) {
+    const id = aliases[suggestion.id] || suggestion.id;
+    const source = config.sources.find(item => item.id === id);
+    if (!source || seen.has(source.id) || source.strategy === "google_trends_rss") continue;
+    seen.add(source.id);
+    sources.push(source);
+  }
+  return sources.slice(0, 3);
+}
+
+function officialTrendMatchScore(signal, item, source) {
+  const signalText = trendSignalSearchText(signal);
+  const officialText = normalizeSearchText(`${item.title} ${item.url} ${source.name}`);
+  let score = 0;
+  if (item.stage && signal.stage && item.stage === signal.stage) score += 34;
+  if (signal.stage === "other" && item.stage !== "other") score += 12;
+
+  const signalYear = signalText.match(/\b(20\d{2})\b/)?.[1] || signal.date?.slice(0, 4);
+  const officialYear = officialText.match(/\b(20\d{2})\b/)?.[1] || item.date?.slice(0, 4);
+  if (signalYear && officialYear && signalYear === officialYear) score += 18;
+  if (signal.matchedOrgs?.some(org => officialText.includes(normalizeSearchText(org)))) score += 16;
+  if (source.id && signal.suggestedOfficialSources?.some(candidate => candidate.id === source.id)) score += 10;
+
+  const tokens = importantTrendTokens(signalText);
+  const overlap = tokens.filter(token => officialText.includes(token));
+  score += Math.min(32, overlap.length * 8);
+  if (/\.pdf(\?|#|$)/i.test(item.url || "")) score += 4;
+  return Math.min(100, score);
+}
+
+function importantTrendTokens(text) {
+  const skip = new Set(["2025", "2026", "2027", "india", "official", "online", "pdf", "out", "released", "check", "download"]);
+  return [...new Set(normalizeSearchText(text).split(" "))]
+    .filter(token => token.length >= 3 && !skip.has(token))
+    .slice(0, 12);
+}
+
+function trendSignalSearchText(signal) {
+  return normalizeSearchText([
+    signal.title,
+    signal.stage,
+    ...(signal.matchedOrgs || []),
+    ...(signal.matchedKeywords || []),
+    ...(signal.evidence || []).map(item => `${item.title} ${item.source} ${item.url}`)
+  ].join(" "));
+}
+
+function officialDetectionFromTrend(signal, source, item, score, now) {
+  const fingerprint = sha256HexSync(`trend-confirmed|${signal.topicKey}|${item.fingerprint}`);
+  return {
+    ...item,
+    sourceId: source.id,
+    sourceName: source.name,
+    strategy: "trend_official_confirmation",
+    detectedAt: now,
+    trendTopicKey: signal.topicKey,
+    trendTitle: signal.title,
+    trendScore: signal.score,
+    officialMatchScore: score,
+    confidence: Math.min(0.98, Math.max(Number(item.confidence || 0), 0.82, score / 100)),
+    fingerprint
+  };
+}
+
+async function putTrendProcessStatus(state, signal, update) {
+  await putProcessStatus(state, `trend:${signal.fingerprint}`, {
+    status: update.status,
+    topicKey: signal.topicKey,
+    title: signal.title,
+    rejectReason: update.rejectReason || null,
+    officialConfirmationRequired: update.officialConfirmationRequired,
+    confirmedSourceId: update.confirmedSourceId || null,
+    confirmedOfficialUrl: update.confirmedOfficialUrl || null,
+    confirmedTitle: update.confirmedTitle || null,
+    officialMatchScore: update.officialMatchScore || update.bestOfficialMatchScore || 0,
+    detectionFingerprint: update.detectionFingerprint || null,
+    updatedAt: new Date().toISOString()
+  });
 }
 
 function scoreTrendSignal(source, item) {
@@ -530,15 +734,24 @@ async function persistTrendWatchlist(env, signals, now) {
     const previous = previousRaw ? JSON.parse(previousRaw) : null;
     const seenFingerprints = [...new Set([...(previous?.seenFingerprints || []), signal.fingerprint])].slice(-20);
     const evidence = mergeEvidence(previous?.evidence || [], signal.evidence || []);
+    const hasCurrentConfirmation = signal.officialConfirmationRequired === false;
+    const hasPreviousConfirmation = previous?.officialConfirmationRequired === false;
+    const keepPreviousConfirmation = hasPreviousConfirmation && !hasCurrentConfirmation;
     const watch = {
       topicKey: key,
-      status: signal.status,
+      status: keepPreviousConfirmation ? previous.status : signal.status,
       title: signal.title,
       stage: signal.stage,
       matchedOrgs: signal.matchedOrgs,
       matchedKeywords: signal.matchedKeywords,
       suggestedOfficialSources: signal.suggestedOfficialSources,
-      officialConfirmationRequired: true,
+      officialConfirmationRequired: keepPreviousConfirmation ? false : signal.officialConfirmationRequired !== false,
+      rejectReason: keepPreviousConfirmation ? previous.rejectReason || null : signal.rejectReason || null,
+      confirmedSourceId: signal.confirmedSourceId || previous?.confirmedSourceId || null,
+      confirmedOfficialUrl: signal.confirmedOfficialUrl || previous?.confirmedOfficialUrl || null,
+      confirmedTitle: signal.confirmedTitle || previous?.confirmedTitle || null,
+      officialMatchScore: signal.officialMatchScore || signal.bestOfficialMatchScore || previous?.officialMatchScore || 0,
+      detectionFingerprint: signal.detectionFingerprint || previous?.detectionFingerprint || null,
       firstSeenAt: previous?.firstSeenAt || now,
       lastSeenAt: now,
       seenCount: Number(previous?.seenCount || 0) + 1,

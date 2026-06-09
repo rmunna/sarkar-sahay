@@ -64,6 +64,15 @@
       "include": ["notification", "result", "admit", "cen", "exam", "answer", "notice", "schedule"]
     },
     {
+      "id": "csbc-official",
+      "name": "CSBC Bihar",
+      "tier": 1,
+      "strategy": "official_links",
+      "url": "https://csbc.bihar.gov.in/",
+      "homepage": "https://csbc.bihar.gov.in/",
+      "include": ["constable", "police", "admit", "result", "merit", "notice", "notification", "vacancy", "written", "exam"]
+    },
+    {
       "id": "ibps",
       "name": "IBPS",
       "tier": 1,
