@@ -12,14 +12,25 @@ keywords:
   - abha.abdm.gov.in
   - 14 digit health id
 readingTime: "8 min"
-lastUpdated: "2026-03-04"
+lastUpdated: "2026-06-09"
 officialLinks:
+  - "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2270742"
   - "https://abha.abdm.gov.in/"
   - "https://abdm.gov.in/"
   - "https://healthid.ndhm.gov.in/"
 ---
-
 # ABHA Health ID: How to Create Your Digital Health Account
+
+<!-- CITIZENNEST:OFFICIAL_UPDATE_START -->
+## Latest Official Update
+
+This page is refreshed when CitizenNest detects a relevant official update. Always verify final eligibility, dates and application steps on the official link before acting.
+
+| Date | Official update | Source | Queue status |
+|---|---|---|---|
+| 2026-06-09 | [प्रधानमंत्री मातृ वंदना योजना से मातृ स्वास्थ्य और प्रारंभिक बाल्यावस्था देखभाल सुदृढ़ हुआ](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2270742) | PIB Hindi RSS | update_ready |
+<!-- CITIZENNEST:OFFICIAL_UPDATE_END -->
+
 
 **ABHA (Ayushman Bharat Health Account)**, formerly known as Health ID, is a unique 14-digit identification number that allows Indian citizens to store, access, and share their health records digitally. It is a key component of the **Ayushman Bharat Digital Mission (ABDM)** and serves as your digital health identity across all healthcare providers in India.
 
