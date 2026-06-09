@@ -27,10 +27,6 @@ permissions:
 jobs:
   detect-and-generate:
     name: Detect New Schemes & Generate Guides
-    # Temporary quality freeze: automatic Cloudflare scheme dispatches must not
-    # publish guides until the generated-content audit gate is stricter.
-    # Manual workflow_dispatch runs remain available for reviewed testing.
-    if: github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     timeout-minutes: 25
     env:
@@ -143,6 +139,10 @@ jobs:
           ARGS=""
           [ "${{ github.event.inputs.dry_run }}" = "true" ] && ARGS="--dry-run"
           node scripts/generate-scheme-guide.js $ARGS
+
+      - name: Audit generated scheme guides
+        if: steps.pib_scan.outputs.has_schemes == 'true'
+        run: node scripts/audit-generated-content.mjs --dir=content/guides --dir=content/guides-ta --dir=content/guides-ml --dir=content/guides-te --revert-rejected --check-links
 
       # ── Step 3: Commit new guides ────────────────────────────────────────────
 

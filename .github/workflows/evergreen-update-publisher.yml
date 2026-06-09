@@ -20,10 +20,6 @@ permissions:
 jobs:
   update-evergreen-guides:
     name: Update Existing Guides From Official Queue
-    # Temporary quality freeze: Cloudflare may still dispatch opportunities, but
-    # automatic guide edits stay disabled until review-grade validation is added.
-    # Manual workflow_dispatch runs remain available for reviewed testing.
-    if: github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     env:
@@ -84,6 +80,10 @@ jobs:
           ARGS="--opportunities-file agents/evergreen-opportunities.json"
           [ "${{ github.event.inputs.dry_run }}" = "true" ] && ARGS="$ARGS --dry-run"
           node scripts/apply-evergreen-updates.js $ARGS
+
+      - name: Audit updated evergreen guides
+        if: steps.payload.outputs.has_opportunities == 'true'
+        run: node scripts/audit-generated-content.mjs --dir=content/guides --revert-rejected --check-links
 
       - name: Regenerate sitemap when guides changed
         if: steps.payload.outputs.has_opportunities == 'true'

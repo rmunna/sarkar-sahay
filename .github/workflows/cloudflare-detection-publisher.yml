@@ -20,10 +20,6 @@ permissions:
 jobs:
   generate-from-detections:
     name: Generate Pages From Confirmed Detections
-    # Temporary quality freeze: Cloudflare may still dispatch detections, but
-    # automatic publishing stays disabled until the content gates are tightened.
-    # Manual workflow_dispatch runs remain available for reviewed testing.
-    if: github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     timeout-minutes: 40
     env:
@@ -107,6 +103,10 @@ jobs:
           [ "${{ github.event.inputs.dry_run }}" = "true" ] && ARGS="$ARGS --dry-run"
           node scripts/generate-preposition-pages.mjs $ARGS
 
+      - name: Audit generated update pages
+        if: steps.payload.outputs.has_detections == 'true'
+        run: node scripts/audit-generated-content.mjs --dir=content/updates --revert-rejected --check-links
+
       - name: Regenerate sitemap when content changed
         if: steps.payload.outputs.has_detections == 'true'
         run: |
@@ -130,7 +130,7 @@ jobs:
             git commit -m "content: auto-add ${NEW} Cloudflare-detected update(s) [$(TZ=Asia/Kolkata date +'%Y-%m-%d %H:%M IST')]
 
             Source: Cloudflare detection worker
-            Safeguards: item fingerprint dedupe + official-source extraction + pre-position no-release guardrails"
+            Safeguards: item fingerprint dedupe + official-source extraction + deterministic publish audit"
             git fetch origin main
             git rebase --autostash origin/main
             git push
