@@ -2,14 +2,7 @@
 
 import { useMemo, useState } from "react";
 import Link from "next/link";
-
-export interface SchemeLite {
-  name: string;
-  slug: string;
-  level: "central" | "state";
-  state: string | null;
-  category: string;
-}
+import type { SchemeLite } from "@/lib/schemes";
 
 function label(slug: string) {
   return slug.split("-").map(w => w[0]?.toUpperCase() + w.slice(1)).join(" ");

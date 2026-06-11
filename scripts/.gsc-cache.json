@@ -1,26 +1,16 @@
 {
-  "timestamp": "2026-06-01T02:22:08.673Z",
+  "timestamp": "2026-06-11T02:03:47.305Z",
   "siteUrl": "sc-domain:citizennest.com",
   "ranges": [
     {
-      "label": "Last 7 days",
-      "days": 7,
-      "startDate": "2026-05-23",
-      "endDate": "2026-05-30",
-      "clicks": 3662,
-      "impressions": 481101,
-      "ctr": 0.007611707313017433,
-      "position": 9.649788713804378
-    },
-    {
       "label": "Last 28 days",
       "days": 28,
-      "startDate": "2026-05-02",
-      "endDate": "2026-05-30",
-      "clicks": 12743,
-      "impressions": 1664687,
-      "ctr": 0.007654892481289276,
-      "position": 9.079905712004718
+      "startDate": "2026-05-12",
+      "endDate": "2026-06-09",
+      "clicks": 16054,
+      "impressions": 2090716,
+      "ctr": 0.007678709112093656,
+      "position": 9.466896986486926
     }
   ],
   "topPages": [
@@ -28,181 +18,181 @@
       "keys": [
         "https://www.citizennest.com/guide/shakti-smart-card-apply-online-karnataka"
       ],
-      "clicks": 1274,
-      "impressions": 15827,
-      "ctr": 0.0804953560371517,
-      "position": 4.9637328615656795
+      "clicks": 1858,
+      "impressions": 24583,
+      "ctr": 0.075580685839808,
+      "position": 5.093641947687426
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/kpsc-fda-sda-exam-guide"
       ],
-      "clicks": 958,
-      "impressions": 102754,
-      "ctr": 0.009323238024797089,
-      "position": 6.890184323724624
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/guide/ration-card-surrender-cancel"
-      ],
-      "clicks": 317,
-      "impressions": 16702,
-      "ctr": 0.01897976290264639,
-      "position": 6.302718237336846
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/guide/sbi-account-frozen-fix"
-      ],
-      "clicks": 310,
-      "impressions": 17867,
-      "ctr": 0.017350422566743157,
-      "position": 6.000503721945486
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/guide/voter-id-application-rejected-fix"
-      ],
-      "clicks": 284,
-      "impressions": 9180,
-      "ctr": 0.03093681917211329,
-      "position": 7.026579520697168
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/guide/scholarship-payment-not-received-fix"
-      ],
-      "clicks": 279,
-      "impressions": 16644,
-      "ctr": 0.01676279740447008,
-      "position": 4.3181927421292965
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/guide/ration-card-split-separate-family"
-      ],
-      "clicks": 275,
-      "impressions": 14802,
-      "ctr": 0.018578570463450884,
-      "position": 5.876908525874882
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/guide/voter-id-form-6-rejection-reasons"
-      ],
-      "clicks": 250,
-      "impressions": 4852,
-      "ctr": 0.05152514427040396,
-      "position": 6.160346248969497
-    },
-    {
-      "keys": [
-        "https://www.citizennest.com/guide/karnataka-bhagyalakshmi-scheme"
-      ],
-      "clicks": 230,
-      "impressions": 5332,
-      "ctr": 0.043135783945986494,
-      "position": 5.661665416354088
+      "clicks": 1179,
+      "impressions": 129594,
+      "ctr": 0.009097643409417103,
+      "position": 7.028612435760915
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/madhu-babu-pension-odisha"
       ],
-      "clicks": 223,
-      "impressions": 14150,
-      "ctr": 0.015759717314487633,
-      "position": 9.168904593639576
+      "clicks": 533,
+      "impressions": 21843,
+      "ctr": 0.024401410062720324,
+      "position": 8.290985670466512
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/ration-card-add-remove-member"
+        "https://www.citizennest.com/guide/voter-id-application-rejected-fix"
       ],
-      "clicks": 211,
-      "impressions": 13553,
-      "ctr": 0.015568508817236036,
-      "position": 5.379399394967904
+      "clicks": 443,
+      "impressions": 11578,
+      "ctr": 0.03826222145448264,
+      "position": 6.7026256693729485
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/bsnl-sim-4g-upgrade-guide"
+        "https://www.citizennest.com/guide/sbi-account-frozen-fix"
       ],
-      "clicks": 200,
-      "impressions": 10055,
-      "ctr": 0.019890601690701143,
-      "position": 4.467130780706116
+      "clicks": 430,
+      "impressions": 20742,
+      "ctr": 0.020730884196316652,
+      "position": 6.1187445762221575
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/kalia-yojana-odisha"
       ],
-      "clicks": 191,
-      "impressions": 2605,
-      "ctr": 0.07332053742802304,
-      "position": 5.717850287907869
+      "clicks": 415,
+      "impressions": 5247,
+      "ctr": 0.07909281494187155,
+      "position": 4.539736992567182
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/ration-card-apl-vs-bpl-difference"
+        "https://www.citizennest.com/guide/ration-card-split-separate-family"
       ],
-      "clicks": 175,
-      "impressions": 24503,
-      "ctr": 0.0071419826143737505,
-      "position": 8.593886462882097
+      "clicks": 395,
+      "impressions": 23563,
+      "ctr": 0.016763570003819547,
+      "position": 6.444807537240589
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/hdfc-account-blocked-fix"
+        "https://www.citizennest.com/guide/ration-card-surrender-cancel"
       ],
-      "clicks": 163,
-      "impressions": 14270,
-      "ctr": 0.011422564821303435,
-      "position": 7.062999299229152
+      "clicks": 388,
+      "impressions": 20692,
+      "ctr": 0.01875120819640441,
+      "position": 6.558863328822733
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/voter-id-correction-not-working-fix"
+        "https://www.citizennest.com/guide/voter-id-form-6-rejection-reasons"
       ],
-      "clicks": 154,
-      "impressions": 3828,
-      "ctr": 0.040229885057471264,
-      "position": 6.468390804597701
+      "clicks": 292,
+      "impressions": 5113,
+      "ctr": 0.05710932916096225,
+      "position": 6.392920007823196
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/scholarship-payment-not-received-fix"
+      ],
+      "clicks": 287,
+      "impressions": 16006,
+      "ctr": 0.01793077595901537,
+      "position": 4.227664625765338
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/karnataka-bhagyalakshmi-scheme"
+      ],
+      "clicks": 274,
+      "impressions": 6096,
+      "ctr": 0.04494750656167979,
+      "position": 5.631069553805775
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ration-card-add-remove-member"
+      ],
+      "clicks": 208,
+      "impressions": 12818,
+      "ctr": 0.016227180527383367,
+      "position": 5.768138555156811
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/irctc-waiting-list-confirmation-chances"
       ],
-      "clicks": 133,
-      "impressions": 25028,
-      "ctr": 0.005314048265942145,
-      "position": 7.429199296787598
+      "clicks": 203,
+      "impressions": 37759,
+      "ctr": 0.005376201700256892,
+      "position": 7.374480256362721
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/hdfc-account-blocked-fix"
+      ],
+      "clicks": 170,
+      "impressions": 14436,
+      "ctr": 0.011776115267387088,
+      "position": 7.180659462454973
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/ration-card-apl-vs-bpl-difference"
+      ],
+      "clicks": 162,
+      "impressions": 29209,
+      "ctr": 0.005546235749255366,
+      "position": 8.827553151425931
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/bsnl-sim-4g-upgrade-guide"
+      ],
+      "clicks": 159,
+      "impressions": 9943,
+      "ctr": 0.015991149552448958,
+      "position": 4.905662274967314
+    },
+    {
+      "keys": [
+        "https://www.citizennest.com/guide/voter-id-correction-not-working-fix"
+      ],
+      "clicks": 147,
+      "impressions": 3789,
+      "ctr": 0.038796516231195566,
+      "position": 6.902084982845078
     },
     {
       "keys": [
         "https://www.citizennest.com/guide/ration-card-photo-update"
       ],
-      "clicks": 130,
-      "impressions": 3340,
-      "ctr": 0.038922155688622756,
-      "position": 5.8544910179640715
+      "clicks": 137,
+      "impressions": 3544,
+      "ctr": 0.0386568848758465,
+      "position": 5.970654627539504
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/voter-id-blo-details-check"
+        "https://www.citizennest.com/guide/irctc-app-not-working-fix"
       ],
-      "clicks": 124,
-      "impressions": 5959,
-      "ctr": 0.020808860547071657,
-      "position": 8.413492196677295
+      "clicks": 113,
+      "impressions": 16409,
+      "ctr": 0.006886464744957035,
+      "position": 5.194771162167103
     },
     {
       "keys": [
-        "https://www.citizennest.com/guide/ration-card-apply-online-tamil-nadu"
+        "https://www.citizennest.com/guide/shakti-free-bus-karnataka"
       ],
-      "clicks": 119,
-      "impressions": 18291,
-      "ctr": 0.006505931879066207,
-      "position": 9.01355858072276
+      "clicks": 112,
+      "impressions": 13542,
+      "ctr": 0.008270565647614829,
+      "position": 8.236597252990695
     }
   ],
   "topQueries": [
@@ -210,181 +200,181 @@
       "keys": [
         "shakti smart card"
       ],
-      "clicks": 152,
-      "impressions": 1013,
-      "ctr": 0.15004935834155972,
-      "position": 3.6584402764067128
-    },
-    {
-      "keys": [
-        "shakti smart card online apply"
-      ],
-      "clicks": 151,
-      "impressions": 951,
-      "ctr": 0.1587802313354364,
-      "position": 3.355415352260778
+      "clicks": 232,
+      "impressions": 1222,
+      "ctr": 0.18985270049099837,
+      "position": 3.076104746317512
     },
     {
       "keys": [
         "kalia yojana"
       ],
-      "clicks": 100,
-      "impressions": 908,
-      "ctr": 0.11013215859030837,
-      "position": 4.4129955947136565
+      "clicks": 229,
+      "impressions": 2003,
+      "ctr": 0.11432850723914129,
+      "position": 3.978532201697454
+    },
+    {
+      "keys": [
+        "shakti smart card online apply"
+      ],
+      "clicks": 182,
+      "impressions": 1104,
+      "ctr": 0.16485507246376813,
+      "position": 3.058876811594203
     },
     {
       "keys": [
         "sda fda recruitment 2026"
       ],
-      "clicks": 97,
-      "impressions": 10262,
-      "ctr": 0.009452348470083805,
-      "position": 8.211752095108167
-    },
-    {
-      "keys": [
-        "smart card for free bus in karnataka online application"
-      ],
-      "clicks": 91,
-      "impressions": 772,
-      "ctr": 0.11787564766839378,
-      "position": 4.045336787564767
+      "clicks": 153,
+      "impressions": 13364,
+      "ctr": 0.011448668063454055,
+      "position": 7.952484286141874
     },
     {
       "keys": [
         "bagyalakshmi bond"
       ],
-      "clicks": 87,
-      "impressions": 718,
-      "ctr": 0.12116991643454039,
-      "position": 2.1754874651810585
-    },
-    {
-      "keys": [
-        "free bus smart card"
-      ],
-      "clicks": 64,
-      "impressions": 637,
-      "ctr": 0.10047095761381476,
-      "position": 4.723704866562009
+      "clicks": 119,
+      "impressions": 761,
+      "ctr": 0.15637319316688567,
+      "position": 1.5124835742444152
     },
     {
       "keys": [
         "smart card for bus"
       ],
-      "clicks": 55,
-      "impressions": 690,
-      "ctr": 0.07971014492753623,
-      "position": 5.217391304347826
+      "clicks": 89,
+      "impressions": 1070,
+      "ctr": 0.08317757009345794,
+      "position": 5.069158878504673
     },
     {
       "keys": [
         "ssepd application status check by aadhaar"
       ],
-      "clicks": 49,
-      "impressions": 2937,
-      "ctr": 0.016683690840994213,
-      "position": 8.148110316649642
+      "clicks": 78,
+      "impressions": 3024,
+      "ctr": 0.025793650793650792,
+      "position": 7.958002645502646
     },
     {
       "keys": [
-        "kalia yojana check"
+        "free bus smart card"
       ],
-      "clicks": 46,
-      "impressions": 637,
-      "ctr": 0.07221350078492936,
-      "position": 5.004709576138148
+      "clicks": 66,
+      "impressions": 681,
+      "ctr": 0.09691629955947137,
+      "position": 4.568281938325992
     },
     {
       "keys": [
-        "ration card apply"
+        "smart card for free bus in karnataka online application"
       ],
-      "clicks": 37,
-      "impressions": 6330,
-      "ctr": 0.005845181674565561,
-      "position": 8.509636650868877
+      "clicks": 59,
+      "impressions": 660,
+      "ctr": 0.0893939393939394,
+      "position": 3.9393939393939394
     },
     {
       "keys": [
-        "ration card apply online"
+        "madhu babu pension yojana status check by aadhar card"
       ],
-      "clicks": 37,
-      "impressions": 3348,
-      "ctr": 0.011051373954599762,
-      "position": 7.164277180406213
-    },
-    {
-      "keys": [
-        "seva sindhu portal shakti smart card"
-      ],
-      "clicks": 37,
-      "impressions": 221,
-      "ctr": 0.167420814479638,
-      "position": 4.217194570135747
-    },
-    {
-      "keys": [
-        "seva sindhu shakti smart card"
-      ],
-      "clicks": 37,
-      "impressions": 373,
-      "ctr": 0.09919571045576407,
-      "position": 5.766756032171582
-    },
-    {
-      "keys": [
-        "fda recruitment 2026"
-      ],
-      "clicks": 31,
-      "impressions": 1287,
-      "ctr": 0.024087024087024088,
-      "position": 7.038073038073038
-    },
-    {
-      "keys": [
-        "rbi careers"
-      ],
-      "clicks": 29,
-      "impressions": 2339,
-      "ctr": 0.012398460880718255,
-      "position": 2.672082086361693
-    },
-    {
-      "keys": [
-        "bhagyalakshmi bond details"
-      ],
-      "clicks": 28,
-      "impressions": 185,
-      "ctr": 0.15135135135135136,
-      "position": 1.654054054054054
+      "clicks": 57,
+      "impressions": 1319,
+      "ctr": 0.043214556482183475,
+      "position": 7.074298711144807
     },
     {
       "keys": [
         "madhubabu pension yojana application status check by aadhaar"
       ],
-      "clicks": 27,
-      "impressions": 1465,
-      "ctr": 0.018430034129692834,
-      "position": 8.435494880546075
+      "clicks": 57,
+      "impressions": 2645,
+      "ctr": 0.02155009451795841,
+      "position": 8.341776937618148
     },
     {
       "keys": [
-        "smart card apply online karnataka"
+        "seva sindhu shakti smart card"
       ],
-      "clicks": 27,
-      "impressions": 145,
-      "ctr": 0.18620689655172415,
-      "position": 4.2827586206896555
+      "clicks": 53,
+      "impressions": 383,
+      "ctr": 0.13838120104438642,
+      "position": 4.4751958224543085
     },
     {
       "keys": [
-        "land record of jharkhand online"
+        "fda recruitment 2026"
       ],
-      "clicks": 25,
-      "impressions": 788,
-      "ctr": 0.031725888324873094,
-      "position": 6.956852791878172
+      "clicks": 46,
+      "impressions": 1769,
+      "ctr": 0.026003391746749576,
+      "position": 6.796495195025438
+    },
+    {
+      "keys": [
+        "fda sda online application 2026"
+      ],
+      "clicks": 45,
+      "impressions": 2843,
+      "ctr": 0.015828350334154064,
+      "position": 7.048540274358072
+    },
+    {
+      "keys": [
+        "kalia yojana check"
+      ],
+      "clicks": 45,
+      "impressions": 661,
+      "ctr": 0.0680786686838124,
+      "position": 4.534039334341906
+    },
+    {
+      "keys": [
+        "smart card karnataka"
+      ],
+      "clicks": 41,
+      "impressions": 488,
+      "ctr": 0.08401639344262295,
+      "position": 4.42827868852459
+    },
+    {
+      "keys": [
+        "seva sindhu portal shakti smart card"
+      ],
+      "clicks": 40,
+      "impressions": 207,
+      "ctr": 0.1932367149758454,
+      "position": 3.6956521739130435
+    },
+    {
+      "keys": [
+        "fda sda online application 2026 last date"
+      ],
+      "clicks": 35,
+      "impressions": 4244,
+      "ctr": 0.00824693685202639,
+      "position": 7.45004712535344
+    },
+    {
+      "keys": [
+        "ration card apply"
+      ],
+      "clicks": 33,
+      "impressions": 4827,
+      "ctr": 0.006836544437538844,
+      "position": 8.239486223327118
+    },
+    {
+      "keys": [
+        "bhagyalakshmi bond details"
+      ],
+      "clicks": 32,
+      "impressions": 268,
+      "ctr": 0.11940298507462686,
+      "position": 1.5597014925373134
     }
   ]
 }

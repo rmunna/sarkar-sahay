@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getAllSchemes } from "@/lib/schemes-data";
-import SchemesBrowser, { type SchemeLite } from "./SchemesBrowser";
+import { getCatalogLite } from "@/lib/schemes-data";
+import SchemesBrowser from "./SchemesBrowser";
 
 export const revalidate = 604800;
 
@@ -13,12 +13,9 @@ export const metadata: Metadata = {
 };
 
 export default function SchemesDirectory() {
-  const all = getAllSchemes();
-  const schemes: SchemeLite[] = all
-    .map(s => ({ name: s.name, slug: (s.slug ?? s.id) as string, level: s.level, state: s.state, category: s.schemeCategory }))
-    .sort((a, b) => a.name.localeCompare(b.name));
-  const states = [...new Set(all.filter(s => s.state).map(s => s.state as string))].sort();
-  const categories = [...new Set(all.map(s => s.schemeCategory))].sort();
+  const schemes = getCatalogLite().sort((a, b) => a.name.localeCompare(b.name));
+  const states = [...new Set(schemes.filter(s => s.state).map(s => s.state as string))].sort();
+  const categories = [...new Set(schemes.map(s => s.category))].sort();
 
   return (
     <main className="max-w-4xl mx-auto px-4 py-8">
@@ -28,7 +25,7 @@ export default function SchemesDirectory() {
 
       <h1 className="text-2xl sm:text-3xl font-bold text-gray-900">All Government Schemes in India</h1>
       <p className="mt-2 text-gray-600">
-        Search {all.length.toLocaleString("en-IN")} central and state schemes by state and category. Not sure what
+        Search {schemes.length.toLocaleString("en-IN")} central and state schemes by state and category. Not sure what
         you qualify for? <Link href="/eligibility" className="text-blue-600 font-medium hover:underline">Check your eligibility →</Link>
       </p>
 

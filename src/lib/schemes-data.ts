@@ -1,6 +1,6 @@
 import { readFileSync, readdirSync, existsSync } from "fs";
 import path from "path";
-import type { SchemeRecord } from "./schemes";
+import type { SchemeRecord, SchemeLite } from "./schemes";
 
 // Server-only filesystem loaders for the scheme database. Kept separate from
 // schemes.ts so the pure matcher/types there stay importable by client
@@ -43,23 +43,23 @@ export function getSchemeStates(): string[] {
   return [...states].sort();
 }
 
-/** Slim projection for the client-side matcher — drops the heavy `detail`/
- * description fields so /eligibility doesn't ship megabytes of props. */
-export function getSchemesForMatcher(): SchemeRecord[] {
+/** The hand-verified schemes with PRECISE structured eligibility (~10). Sent
+ * full to the client matcher — tiny. */
+export function getCuratedSchemes(): SchemeRecord[] {
+  return getAllSchemes().filter(s => s.source !== "myscheme");
+}
+
+/** Ultra-slim catalog for the broad "schemes for your state/category" list and
+ * the /schemes directory. ~60 bytes/scheme → the whole 3.5k set is ~50KB gzip,
+ * vs 3MB+ when full records were shipped. */
+export function getCatalogLite(): SchemeLite[] {
   return getAllSchemes().map(s => ({
-    id: s.id,
     name: s.name,
-    slug: s.slug,
+    slug: (s.slug ?? s.id) as string,
     guidePath: s.guidePath,
     level: s.level,
     state: s.state,
-    schemeCategory: s.schemeCategory,
-    benefitSummary: s.benefitSummary,
-    benefitType: s.benefitType,
-    eligibility: s.eligibility,
-    officialLink: s.officialLink,
-    confidence: s.confidence,
-    extractedAt: s.extractedAt,
+    category: s.schemeCategory,
   }));
 }
 

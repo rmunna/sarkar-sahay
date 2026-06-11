@@ -1,154 +1,119 @@
 {
-  "scanTime": "2026-06-07T08:35:11.107Z",
-  "elapsedSeconds": 55.8,
-  "changesDetected": 14,
-  "noiseDetected": 0,
+  "scanTime": "2026-06-11T17:29:38.790Z",
+  "elapsedSeconds": 46.7,
+  "changesDetected": 15,
+  "noiseDetected": 2,
   "changes": [
     {
-      "site": "IBPS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://ibpsreg.ibps.in/ibpsdmapr26/oecla_may26/login.php?appid=ccdc2ed6397cb7e6590d37cea572ebaf",
-      "url": "https://www.ibps.in/",
-      "detectedAt": "2026-06-07T08:34:29.319Z"
-    },
-    {
-      "site": "IBPS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://www.ibps.in/index.php/recruitment",
-      "url": "https://www.ibps.in/",
-      "detectedAt": "2026-06-07T08:34:29.319Z"
-    },
-    {
-      "site": "IBPS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://www.ibps.in/index.php/recruitment/",
-      "url": "https://www.ibps.in/",
-      "detectedAt": "2026-06-07T08:34:29.319Z"
-    },
-    {
-      "site": "IBPS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://www.ibps.in/wp-content/uploads/IBPS-Notification-Fraud-Websites-27April26.pdf",
-      "url": "https://www.ibps.in/",
-      "detectedAt": "2026-06-07T08:34:29.319Z"
-    },
-    {
-      "site": "IBPS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://www.ibps.in/wp-content/uploads/Revised-Advisory-and-Standard-Operating-Procedure-SOP-to-handle-the-cases-of-PwBD-candidates.pdf",
-      "url": "https://www.ibps.in/",
-      "detectedAt": "2026-06-07T08:34:29.319Z"
+      "site": "SBI Careers",
+      "type": "TEXT_NOTICE",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-06-11T17:28:56.734Z"
     },
     {
       "site": "RBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-07T08:34:28.161Z"
+      "detectedAt": "2026-06-11T17:28:56.131Z"
     },
     {
-      "site": "RRB (Railway)",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://dc4-g22.digialm.com//EForms/configuredHtml/2667/68658/login.html",
-      "url": "https://www.rrbcdg.gov.in/",
-      "detectedAt": "2026-06-07T08:34:29.967Z"
+      "site": "Indian Army",
+      "type": "TEXT_NOTICE",
+      "url": "https://joinindianarmy.nic.in/",
+      "detectedAt": "2026-06-11T17:28:56.409Z"
     },
     {
-      "site": "RRB (Railway)",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://rrb.digialm.com//EForms/configuredHtml/2667/95125/login.html",
-      "url": "https://www.rrbcdg.gov.in/",
-      "detectedAt": "2026-06-07T08:34:29.967Z"
-    },
-    {
-      "site": "RRB (Railway)",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://rrb.digialm.com//EForms/configuredHtml/33015/93368/login.html",
-      "url": "https://www.rrbcdg.gov.in/",
-      "detectedAt": "2026-06-07T08:34:29.967Z"
-    },
-    {
-      "site": "RRB (Railway)",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://rrb.digialm.com//EForms/configuredHtml/33015/94346/login.html",
-      "url": "https://www.rrbcdg.gov.in/",
-      "detectedAt": "2026-06-07T08:34:29.967Z"
-    },
-    {
-      "site": "RRB (Railway)",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://rrb.digialm.com//EForms/configuredHtml/33015/95530/login.html",
-      "url": "https://www.rrbcdg.gov.in/",
-      "detectedAt": "2026-06-07T08:34:29.967Z"
+      "site": "Indian Navy",
+      "type": "TEXT_NOTICE",
+      "url": "https://www.joinindiannavy.gov.in/",
+      "detectedAt": "2026-06-11T17:28:56.681Z"
     },
     {
       "site": "CISF",
       "type": "TEXT_NOTICE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-07T08:34:35.853Z"
+      "detectedAt": "2026-06-11T17:29:09.534Z"
+    },
+    {
+      "site": "BSF",
+      "type": "TEXT_NOTICE",
+      "url": "https://rectt.bsf.gov.in/",
+      "detectedAt": "2026-06-11T17:29:09.543Z"
     },
     {
       "site": "KVS",
       "type": "TEXT_NOTICE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-07T08:34:40.546Z"
+      "detectedAt": "2026-06-11T17:29:11.079Z"
+    },
+    {
+      "site": "NVS (Navodaya)",
+      "type": "TEXT_NOTICE",
+      "url": "https://navodaya.gov.in/",
+      "detectedAt": "2026-06-11T17:29:12.053Z"
     },
     {
       "site": "UPPSC",
       "type": "TEXT_NOTICE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-07T08:34:45.029Z"
+      "detectedAt": "2026-06-11T17:29:13.595Z"
+    },
+    {
+      "site": "RPSC",
+      "type": "TEXT_NOTICE",
+      "url": "https://rpsc.rajasthan.gov.in/",
+      "detectedAt": "2026-06-11T17:29:13.560Z"
+    },
+    {
+      "site": "TNPSC",
+      "type": "TEXT_NOTICE",
+      "url": "https://www.tnpsc.gov.in/",
+      "detectedAt": "2026-06-11T17:29:13.390Z"
+    },
+    {
+      "site": "GPSC",
+      "type": "TEXT_NOTICE",
+      "url": "https://gpsc.gujarat.gov.in/",
+      "detectedAt": "2026-06-11T17:29:19.249Z"
+    },
+    {
+      "site": "HPSC",
+      "type": "TEXT_NOTICE",
+      "url": "https://www.hpsc.gov.in/",
+      "detectedAt": "2026-06-11T17:29:19.368Z"
+    },
+    {
+      "site": "DSSSB",
+      "type": "TEXT_NOTICE",
+      "url": "https://dsssb.delhi.gov.in/",
+      "detectedAt": "2026-06-11T17:29:24.051Z"
+    },
+    {
+      "site": "UP Board",
+      "type": "TEXT_NOTICE",
+      "url": "https://upmsp.edu.in/",
+      "detectedAt": "2026-06-11T17:29:23.947Z"
     }
   ],
-  "noiseChanges": [],
-  "errors": 27,
-  "errorDetails": [
-    {
-      "site": "UPSC",
-      "error": "Timeout"
-    },
-    {
-      "site": "SBI Careers",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "error": ""
-    },
+  "noiseChanges": [
     {
       "site": "NABARD",
+      "type": "CONTENT_CHANGE",
       "url": "https://www.nabard.org/career-notices.aspx",
-      "error": "Timeout"
+      "detectedAt": "2026-06-11T17:28:56.451Z"
     },
     {
-      "site": "Indian Army",
-      "url": "https://joinindianarmy.nic.in/",
-      "error": "Timeout"
-    },
+      "site": "KPSC/KEA",
+      "type": "CONTENT_CHANGE",
+      "url": "https://cetonline.karnataka.gov.in/kea/",
+      "detectedAt": "2026-06-11T17:29:18.122Z"
+    }
+  ],
+  "errors": 9,
+  "errorDetails": [
     {
-      "site": "Indian Navy",
-      "url": "https://www.joinindiannavy.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "Air Force",
-      "url": "https://afcat.cdac.in/AFCAT/",
-      "error": "Timeout"
-    },
-    {
-      "site": "BSF",
-      "url": "https://rectt.bsf.gov.in/",
-      "error": "HTTP 403"
-    },
-    {
-      "site": "ITBP",
-      "url": "https://recruitment.itbpolice.nic.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "NVS (Navodaya)",
-      "url": "https://navodaya.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "IGNOU",
-      "url": "https://ignou.ac.in/",
+      "site": "RRB (Railway)",
+      "url": "https://www.rrbcdg.gov.in/",
       "error": "Timeout"
     },
     {
@@ -162,26 +127,6 @@
       "error": "Timeout"
     },
     {
-      "site": "RPSC",
-      "url": "https://rpsc.rajasthan.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "TNPSC",
-      "url": "https://www.tnpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "KPSC/KEA",
-      "url": "https://cetonline.karnataka.gov.in/kea/",
-      "error": "Timeout"
-    },
-    {
-      "site": "APPSC",
-      "url": "https://psc.ap.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "TSPSC",
       "url": "https://tspsc.gov.in/",
       "error": "getaddrinfo ENOTFOUND tspsc.gov.in"
@@ -189,26 +134,6 @@
     {
       "site": "WBPSC",
       "url": "https://wbpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "GPSC",
-      "url": "https://gpsc.gujarat.gov.in/",
-      "error": ""
-    },
-    {
-      "site": "HPSC",
-      "url": "https://www.hpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "CGPSC",
-      "url": "https://psc.cg.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "DSSSB",
-      "url": "https://dsssb.delhi.gov.in/",
       "error": "Timeout"
     },
     {
@@ -227,14 +152,9 @@
       "error": "Timeout"
     },
     {
-      "site": "UP Board",
-      "url": "https://upmsp.edu.in/",
-      "error": "HTTP 525"
-    },
-    {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "read ECONNRESET"
+      "error": "Timeout"
     }
   ]
 }

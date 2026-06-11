@@ -51,6 +51,16 @@ export interface SchemeRecord {
   source?: string;
 }
 
+/** Minimal scheme shape for client lists/directories (no `fs`, no heavy fields). */
+export interface SchemeLite {
+  name: string;
+  slug: string;
+  guidePath: string;
+  level: "central" | "state";
+  state: string | null;
+  category: string;
+}
+
 export interface UserProfile {
   age: number;
   gender: "female" | "male";
