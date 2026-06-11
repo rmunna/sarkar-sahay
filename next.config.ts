@@ -6,12 +6,13 @@ const nextConfig: NextConfig = {
   poweredByHeader: false,
   async redirects() {
     return [
-      {
-        source: "/:path*",
-        has: [{ type: "host", value: "citizennest.com" }],
-        destination: "https://www.citizennest.com/:path*",
-        permanent: true, // 308 redirect — tells Google www is canonical
-      },
+      // NOTE: the apex→www host redirect that used to live here was removed
+      // during the Cloudflare migration — on OpenNext the `has host` match is
+      // too loose (it fired on www too) and `:path*` is not interpolated in an
+      // absolute destination, which 308-looped every page to "/:path*".
+      // Apex→www canonicalization is handled by per-page <link rel="canonical">
+      // tags (all point to https://www.citizennest.com/...). For a hard
+      // apex→www redirect, add a Cloudflare Redirect Rule at the edge instead.
       {
         source: "/guide/pm-surya-ghar-muft-bijli-yojana-solar",
         destination: "/guide/pm-surya-ghar-muft-bijli",
