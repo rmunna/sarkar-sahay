@@ -1,4 +1,4 @@
-import { getKannadaGuideBySlug, getKannadaGuideRawContent, getRelatedKannadaGuides } from "@/lib/guides-kn";
+import { getKannadaGuideBySlug, getKannadaGuideRawContent, getRelatedKannadaGuides, getAllKannadaGuideSlugs } from "@/lib/guides-kn";
 import { generateFAQSchema, generateArticleSchema, generateHowToSchema, extractFAQs } from "@/lib/faq-schema";
 import { notFound } from "next/navigation";
 import Link from "next/link";
@@ -8,11 +8,11 @@ interface Props {
   params: Promise<{ slug: string }>;
 }
 
-export const dynamicParams = true;
+export const dynamicParams = false;
 export const revalidate = 86400;
 
 export async function generateStaticParams() {
-  return [];
+  return getAllKannadaGuideSlugs().map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

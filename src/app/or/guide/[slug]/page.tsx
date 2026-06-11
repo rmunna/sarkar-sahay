@@ -1,4 +1,4 @@
-import { getOdiaGuideBySlug, getOdiaGuideRawContent, getRelatedOdiaGuides } from "@/lib/guides-or";
+import { getOdiaGuideBySlug, getOdiaGuideRawContent, getRelatedOdiaGuides, getAllOdiaGuideSlugs } from "@/lib/guides-or";
 import { generateFAQSchema, generateArticleSchema, generateHowToSchema, extractFAQs } from "@/lib/faq-schema";
 import { notFound } from "next/navigation";
 import Link from "next/link";
@@ -8,11 +8,11 @@ interface Props {
   params: Promise<{ slug: string }>;
 }
 
-export const dynamicParams = true;
+export const dynamicParams = false;
 export const revalidate = 86400;
 
 export async function generateStaticParams() {
-  return [];
+  return getAllOdiaGuideSlugs().map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

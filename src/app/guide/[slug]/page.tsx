@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from "path";
-import { getGuideBySlug, getGuideRawContent, getRelatedGuides } from "@/lib/guides";
+import { getGuideBySlug, getGuideRawContent, getRelatedGuides, getAllGuideSlugs } from "@/lib/guides";
 import TelegramCTA from "@/components/TelegramCTA";
 import AdUnit from "@/components/AdUnit";
 import TOCSidebar from "@/components/TOCSidebar";
@@ -21,12 +21,16 @@ interface Props {
   params: Promise<{ slug: string }>;
 }
 
-// ISR: render on first request, cache for 24 hours. Avoids pre-rendering 1,982 pages at build time.
-export const dynamicParams = true;
+// Cloudflare Workers has no runtime filesystem, and guide markdown lives in
+// content/guides/. So we prerender every guide at build (where fs works) and
+// serve them as static assets. dynamicParams=false → unknown slugs 404 cleanly
+// instead of attempting a doomed on-demand fs render. New content ships via
+// rebuild, matching the git-committed content pipeline.
+export const dynamicParams = false;
 export const revalidate = 86400; // 24 hours
 
 export async function generateStaticParams() {
-  return []; // No pages pre-rendered at build time — all served via ISR
+  return getAllGuideSlugs().map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

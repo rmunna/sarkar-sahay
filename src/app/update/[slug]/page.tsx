@@ -1,4 +1,4 @@
-import { getUpdateBySlug, getUpdateRawContent, getRelatedUpdates } from "@/lib/updates";
+import { getUpdateBySlug, getUpdateRawContent, getRelatedUpdates, getAllUpdateSlugs } from "@/lib/updates";
 import TelegramCTA from "@/components/TelegramCTA";
 import AdUnit from "@/components/AdUnit";
 import { getRelatedGuideForUpdate } from "@/lib/cross-links";
@@ -13,12 +13,13 @@ interface Props {
   params: Promise<{ slug: string }>;
 }
 
-// ISR: render on first request, cache for 1 hour. Updates are time-sensitive (result/admit card pages).
-export const dynamicParams = true;
+// Prerender all updates at build (no runtime fs on Workers). New updates from
+// the content pipeline ship on the next build/deploy.
+export const dynamicParams = false;
 export const revalidate = 3600; // 1 hour
 
 export async function generateStaticParams() {
-  return []; // No pages pre-rendered at build time — all served via ISR
+  return getAllUpdateSlugs().map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

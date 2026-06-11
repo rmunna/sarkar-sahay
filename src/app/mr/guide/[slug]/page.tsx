@@ -1,4 +1,4 @@
-import { getMarathiGuideBySlug, getMarathiGuideRawContent, getRelatedMarathiGuides } from "@/lib/guides-mr";
+import { getMarathiGuideBySlug, getMarathiGuideRawContent, getRelatedMarathiGuides, getAllMarathiGuideSlugs } from "@/lib/guides-mr";
 import { generateFAQSchema, generateArticleSchema, generateHowToSchema, extractFAQs } from "@/lib/faq-schema";
 import { notFound } from "next/navigation";
 import Link from "next/link";
@@ -8,11 +8,11 @@ interface Props {
   params: Promise<{ slug: string }>;
 }
 
-export const dynamicParams = true;
+export const dynamicParams = false;
 export const revalidate = 86400;
 
 export async function generateStaticParams() {
-  return [];
+  return getAllMarathiGuideSlugs().map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

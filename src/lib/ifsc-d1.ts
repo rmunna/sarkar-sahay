@@ -56,6 +56,11 @@ type CloudflareCtxModule = {
 };
 
 async function getDB(): Promise<D1Like | null> {
+  // During `next build` (SSG prerender), use the fs fallback: the JSON data
+  // files are present on disk, and hitting the local miniflare D1 from many
+  // parallel prerenders triggers SQLITE_BUSY. At runtime on Workers NEXT_PHASE
+  // is not "phase-production-build", so the D1 binding is used.
+  if (process.env.NEXT_PHASE === "phase-production-build") return null;
   try {
     // Indirection keeps tsc from resolving the adapter until it is installed at
     // cutover; until then this returns null and callers use the fs fallback.
