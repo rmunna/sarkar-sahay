@@ -67,6 +67,27 @@ export function getSchemeBySlug(slug: string): SchemeRecord | null {
   return getAllSchemes().find(s => (s.slug ?? s.id) === slug) ?? null;
 }
 
+/** Related schemes for internal linking: same category, same state first, then
+ * same category central, excluding self. Keeps the detail page useful and
+ * spreads crawl/link equity. */
+export function getRelatedSchemes(scheme: SchemeRecord, limit = 10): SchemeRecord[] {
+  const self = scheme.slug ?? scheme.id;
+  const all = getAllSchemes().filter(s => (s.slug ?? s.id) !== self && s.schemeCategory === scheme.schemeCategory);
+  const sameState = scheme.state ? all.filter(s => s.state === scheme.state) : [];
+  const central = all.filter(s => s.level === "central");
+  const rest = all.filter(s => !sameState.includes(s) && !central.includes(s));
+  const seen = new Set<string>();
+  const out: SchemeRecord[] = [];
+  for (const s of [...sameState, ...central, ...rest]) {
+    const id = s.slug ?? s.id;
+    if (seen.has(id)) continue;
+    seen.add(id);
+    out.push(s);
+    if (out.length >= limit) break;
+  }
+  return out;
+}
+
 export function getAllSchemeSlugs(): string[] {
   return getAllSchemes().map(s => s.slug ?? s.id).filter(Boolean) as string[];
 }

@@ -136,27 +136,12 @@ function getIFSCBranches(bankSlug: string): IFSCBranchRecord[] {
   return JSON.parse(fs.readFileSync(f, "utf8")) as IFSCBranchRecord[];
 }
 
-function getSchemeSlugs(): string[] {
-  const dir = path.join(__dirname, "..", "data", "schemes");
-  if (!fs.existsSync(dir)) return [];
-  const slugs = new Set<string>();
-  for (const f of fs.readdirSync(dir)) {
-    if (!f.endsWith(".json") || f.endsWith("index.json")) continue;
-    try {
-      const rows = JSON.parse(fs.readFileSync(path.join(dir, f), "utf-8")) as { slug?: string; id: string }[];
-      for (const r of rows) { const s = r.slug ?? r.id; if (s) slugs.add(s); }
-    } catch { /* skip */ }
-  }
-  return [...slugs];
-}
-
 function generateMainSitemap(): string {
   const guides = getGuides();
   const hindiGuides = getHindiGuides();
   const updates = getUpdates();
   const today = new Date().toISOString().split("T")[0];
   const ifscBanks = getIFSCBanks();
-  const schemeSlugs = getSchemeSlugs();
 
   const urls: SitemapUrl[] = [
     { loc: BASE_URL, lastmod: today, changefreq: "daily", priority: "1.0" },
@@ -179,15 +164,12 @@ function generateMainSitemap(): string {
     { loc: `${BASE_URL}/hsn`, lastmod: today, changefreq: "monthly", priority: "0.8" },
     // RTO home
     { loc: `${BASE_URL}/rto`, lastmod: today, changefreq: "monthly", priority: "0.8" },
-    // Scheme eligibility engine + directory + per-scheme detail pages
+    // Scheme eligibility engine + directory (the indexable hubs).
+    // Individual /scheme/[slug] pages are intentionally EXCLUDED + noindex,follow
+    // until they carry deeper content — they are thin (name + short description)
+    // and indexing 3.5k of them risks a scaled-content/thin-content penalty.
     { loc: `${BASE_URL}/eligibility`, lastmod: today, changefreq: "weekly", priority: "0.9" },
     { loc: `${BASE_URL}/schemes`, lastmod: today, changefreq: "weekly", priority: "0.9" },
-    ...schemeSlugs.map((slug) => ({
-      loc: `${BASE_URL}/scheme/${slug}`,
-      lastmod: today,
-      changefreq: "monthly" as const,
-      priority: "0.7",
-    })),
     // Court home + special pages
     { loc: `${BASE_URL}/court`, lastmod: today, changefreq: "monthly", priority: "0.8" },
     { loc: `${BASE_URL}/court/supreme-court`, lastmod: today, changefreq: "monthly", priority: "0.8" },
