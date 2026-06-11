@@ -56,6 +56,7 @@ export default function EligibilityChecker({ schemes, states }: { schemes: Schem
   const [hasDisability, setHasDisability] = useState(false);
   const [hasBplCard, setHasBplCard] = useState(false);
   const [submitted, setSubmitted] = useState(false);
+  const [catFilter, setCatFilter] = useState("all");
 
   const results: SchemeMatch[] | null = useMemo(() => {
     if (!submitted || !age) return null;
@@ -73,8 +74,23 @@ export default function EligibilityChecker({ schemes, states }: { schemes: Schem
     return matchSchemes(profile, schemes);
   }, [submitted, age, gender, state, income, caste, occupation, isWidow, hasDisability, hasBplCard, schemes]);
 
-  const stateMatches = results?.filter(m => m.scheme.level === "state") ?? [];
-  const centralMatches = results?.filter(m => m.scheme.level === "central") ?? [];
+  // Precise = scheme actually constrained on the user's profile (curated set,
+  // specificity>0). Broad = matched only by state/category (myScheme catalog).
+  const filtered = (results ?? []).filter(m => catFilter === "all" || m.scheme.schemeCategory === catFilter);
+  const precise = filtered.filter(m => m.specificity > 0);
+  const broad = filtered.filter(m => m.specificity === 0);
+  const catCounts = new Map<string, number>();
+  for (const m of results ?? []) catCounts.set(m.scheme.schemeCategory, (catCounts.get(m.scheme.schemeCategory) ?? 0) + 1);
+  const catOptions = [...catCounts.entries()].sort((a, b) => b[1] - a[1]);
+
+  // group broad matches by category, cap each for display
+  const broadByCat = new Map<string, typeof broad>();
+  for (const m of broad) {
+    const c = m.scheme.schemeCategory;
+    if (!broadByCat.has(c)) broadByCat.set(c, []);
+    broadByCat.get(c)!.push(m);
+  }
+  const CAP = 8;
 
   const selectCls = "w-full rounded-lg border border-gray-300 px-3 py-2.5 text-sm focus:border-blue-500 focus:outline-none bg-white";
   const labelCls = "block text-sm font-medium text-gray-700 mb-1";
@@ -158,49 +174,81 @@ export default function EligibilityChecker({ schemes, states }: { schemes: Schem
         <div className="mt-8">
           <h2 className="text-xl font-bold text-gray-900">
             {results.length > 0
-              ? `You may be eligible for ${results.length} scheme${results.length === 1 ? "" : "s"}`
+              ? `${results.length} scheme${results.length === 1 ? "" : "s"} for your profile`
               : "No matching schemes found"}
           </h2>
           <p className="mt-1 text-sm text-gray-600">
-            Based on the criteria each scheme publishes. Always confirm on the official website before applying — rules and amounts change.
+            {precise.length > 0
+              ? `${precise.length} closely match your details; the rest are central/state schemes you're likely eligible for. `
+              : ""}
+            Always confirm on the official site before applying.
           </p>
 
-          {[{ title: state ? `${stateLabel(state)} schemes` : null, items: stateMatches },
-            { title: "Central government schemes", items: centralMatches }]
-            .filter(g => g.title && g.items.length > 0)
-            .map(group => (
-              <section key={group.title} className="mt-6">
-                <h3 className="text-base font-semibold text-gray-800 mb-3">{group.title}</h3>
-                <ul className="space-y-3">
-                  {group.items.map(({ scheme, checkManually }) => (
-                    <li key={scheme.id} className="rounded-xl border border-gray-200 bg-white p-4">
-                      <div className="flex flex-wrap items-baseline justify-between gap-2">
-                        <Link href={scheme.guidePath} className="font-semibold text-blue-700 hover:underline">
-                          {scheme.name}
-                        </Link>
-                        <span className="text-xs rounded-full bg-gray-100 px-2 py-0.5 text-gray-600 capitalize">
-                          {scheme.schemeCategory.replace(/-/g, " ")}
-                        </span>
-                      </div>
-                      <p className="mt-1 text-sm text-gray-700">{scheme.benefitSummary}</p>
-                      {checkManually.length > 0 && (
-                        <p className="mt-2 text-xs text-amber-700">
-                          Also check: {checkManually.slice(0, 3).join(" · ")}
-                        </p>
+          {results.length > 0 && catOptions.length > 1 && (
+            <div className="mt-4">
+              <label htmlFor="el-catfilter" className={labelCls}>Filter by category</label>
+              <select id="el-catfilter" value={catFilter} onChange={e => setCatFilter(e.target.value)} className={`${selectCls} sm:max-w-xs`}>
+                <option value="all">All categories ({results.length})</option>
+                {catOptions.map(([c, n]) => (
+                  <option key={c} value={c}>{c.replace(/-/g, " ").replace(/\b\w/g, m => m.toUpperCase())} ({n})</option>
+                ))}
+              </select>
+            </div>
+          )}
+
+          {precise.length > 0 && (
+            <section className="mt-6">
+              <h3 className="text-base font-semibold text-gray-800 mb-3">✅ Best matches for your profile</h3>
+              <ul className="space-y-3">
+                {precise.map(({ scheme, checkManually }) => (
+                  <li key={scheme.id} className="rounded-xl border border-green-200 bg-green-50/40 p-4">
+                    <div className="flex flex-wrap items-baseline justify-between gap-2">
+                      <Link href={scheme.guidePath} className="font-semibold text-blue-700 hover:underline">{scheme.name}</Link>
+                      <span className="text-xs rounded-full bg-white px-2 py-0.5 text-gray-600 capitalize">{scheme.schemeCategory.replace(/-/g, " ")}</span>
+                    </div>
+                    <p className="mt-1 text-sm text-gray-700">{scheme.benefitSummary}</p>
+                    {checkManually.length > 0 && (
+                      <p className="mt-2 text-xs text-amber-700">Also check: {checkManually.slice(0, 3).join(" · ")}</p>
+                    )}
+                    <div className="mt-2 flex gap-4 text-sm">
+                      <Link href={scheme.guidePath} className="text-blue-600 hover:underline">How to apply →</Link>
+                      {scheme.officialLink && (
+                        <a href={scheme.officialLink} target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:underline">Official site ↗</a>
                       )}
-                      <div className="mt-2 flex gap-4 text-sm">
-                        <Link href={scheme.guidePath} className="text-blue-600 hover:underline">How to apply →</Link>
-                        {scheme.officialLink && (
-                          <a href={scheme.officialLink} target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:underline">
-                            Official site ↗
-                          </a>
-                        )}
-                      </div>
-                    </li>
-                  ))}
-                </ul>
-              </section>
-            ))}
+                    </div>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
+
+          {broad.length > 0 && (
+            <section className="mt-8">
+              <h3 className="text-base font-semibold text-gray-800 mb-1">
+                More schemes you&apos;re likely eligible for
+              </h3>
+              <p className="text-xs text-gray-500 mb-3">
+                {state ? `Central + ${stateLabel(state)} ` : "Central "}schemes in your selected categories. Open any for full eligibility and how to apply.
+              </p>
+              {[...broadByCat.entries()].sort((a, b) => b[1].length - a[1].length).map(([cat, list]) => (
+                <div key={cat} className="mb-5">
+                  <h4 className="text-sm font-medium text-gray-700 capitalize mb-2">{cat.replace(/-/g, " ")} <span className="text-gray-400">({list.length})</span></h4>
+                  <ul className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-1.5">
+                    {list.slice(0, CAP).map(({ scheme }) => (
+                      <li key={scheme.id}>
+                        <Link href={scheme.guidePath} className="text-sm text-blue-700 hover:underline">{scheme.name}</Link>
+                      </li>
+                    ))}
+                  </ul>
+                  {list.length > CAP && (
+                    <Link href="/schemes" className="mt-1 inline-block text-xs text-gray-500 hover:underline">
+                      +{list.length - CAP} more in this category →
+                    </Link>
+                  )}
+                </div>
+              ))}
+            </section>
+          )}
         </div>
       )}
     </div>
