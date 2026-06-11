@@ -1,0 +1,59 @@
+[
+  {
+    "id": "shakti-free-bus-karnataka",
+    "name": "Shakti Scheme (Free Bus Travel)",
+    "guidePath": "/guide/shakti-free-bus-karnataka",
+    "level": "state",
+    "state": "karnataka",
+    "schemeCategory": "women-welfare",
+    "benefitSummary": "Free travel for women in non-premium Karnataka state buses (KSRTC/BMTC)",
+    "benefitType": "in-kind",
+    "eligibility": {
+      "gender": "female",
+      "minAge": null,
+      "maxAge": null,
+      "maxAnnualIncomeINR": null,
+      "casteCategories": ["any"],
+      "occupations": ["any"],
+      "widowOnly": false,
+      "disabilityRequired": false,
+      "bplOrPriorityCardRequired": false,
+      "otherRequirements": [
+        "Resident of Karnataka (Aadhaar address in Karnataka)",
+        "Carry Aadhaar or Shakti Smart Card while travelling"
+      ]
+    },
+    "officialLink": "https://sevasindhuservices.karnataka.gov.in",
+    "confidence": 0.95,
+    "extractedAt": "2026-06-11"
+  },
+  {
+    "id": "karnataka-bhagyalakshmi-scheme",
+    "name": "Bhagyalakshmi Scheme",
+    "guidePath": "/guide/karnataka-bhagyalakshmi-scheme",
+    "level": "state",
+    "state": "karnataka",
+    "schemeCategory": "women-welfare",
+    "benefitSummary": "Maturity bond for girl children born in BPL families in Karnataka",
+    "benefitType": "cash",
+    "eligibility": {
+      "gender": "female",
+      "minAge": null,
+      "maxAge": 18,
+      "maxAnnualIncomeINR": null,
+      "casteCategories": ["any"],
+      "occupations": ["any"],
+      "widowOnly": false,
+      "disabilityRequired": false,
+      "bplOrPriorityCardRequired": true,
+      "otherRequirements": [
+        "Girl child born in a BPL family in Karnataka, first two girl children only",
+        "Birth must be registered; enrolment in government/aided school",
+        "Girl must remain unmarried until age 18 for maturity payout"
+      ]
+    },
+    "officialLink": "https://dwcd.karnataka.gov.in",
+    "confidence": 0.85,
+    "extractedAt": "2026-06-11"
+  }
+]

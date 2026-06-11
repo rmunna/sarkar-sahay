@@ -1,0 +1,11 @@
+{
+  "generatedAt": "2026-06-11T03:10:00.000Z",
+  "note": "Seed database, hand-verified from CitizenNest guides. Full corpus extraction via scripts/extract-scheme-eligibility.mjs once GEMINI_API_KEY has credits.",
+  "total": 10,
+  "central": 5,
+  "states": {
+    "karnataka": 2,
+    "odisha": 2,
+    "west-bengal": 1
+  }
+}

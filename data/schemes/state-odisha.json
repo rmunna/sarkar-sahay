@@ -1,0 +1,58 @@
+[
+  {
+    "id": "madhu-babu-pension-odisha",
+    "name": "Madhu Babu Pension Yojana (MBPY)",
+    "guidePath": "/guide/madhu-babu-pension-odisha",
+    "level": "state",
+    "state": "odisha",
+    "schemeCategory": "pension",
+    "benefitSummary": "₹3,500/month social security pension for elderly, widows and persons with disability in Odisha",
+    "benefitType": "cash",
+    "eligibility": {
+      "gender": "any",
+      "minAge": null,
+      "maxAge": null,
+      "maxAnnualIncomeINR": 24000,
+      "casteCategories": ["any"],
+      "occupations": ["any"],
+      "widowOnly": false,
+      "disabilityRequired": false,
+      "bplOrPriorityCardRequired": false,
+      "otherRequirements": [
+        "Must be aged 60+ OR a widow OR a person with disability (any age)",
+        "Resident of Odisha; not already receiving another government pension"
+      ]
+    },
+    "officialLink": "https://ssepd.odisha.gov.in",
+    "confidence": 0.9,
+    "extractedAt": "2026-06-11"
+  },
+  {
+    "id": "kalia-yojana-odisha",
+    "name": "KALIA Yojana",
+    "guidePath": "/guide/kalia-yojana-odisha",
+    "level": "state",
+    "state": "odisha",
+    "schemeCategory": "farmer-support",
+    "benefitSummary": "₹25,000 over 5 seasons for small/marginal farmers; ₹12,500 livelihood support for landless agricultural households",
+    "benefitType": "cash",
+    "eligibility": {
+      "gender": "any",
+      "minAge": 18,
+      "maxAge": null,
+      "maxAnnualIncomeINR": null,
+      "casteCategories": ["any"],
+      "occupations": ["farmer", "agricultural-labourer"],
+      "widowOnly": false,
+      "disabilityRequired": false,
+      "bplOrPriorityCardRequired": false,
+      "otherRequirements": [
+        "One beneficiary per family",
+        "Small/marginal farmers get cultivation support; landless agricultural households get livelihood support"
+      ]
+    },
+    "officialLink": "https://kalia.odisha.gov.in",
+    "confidence": 0.9,
+    "extractedAt": "2026-06-11"
+  }
+]

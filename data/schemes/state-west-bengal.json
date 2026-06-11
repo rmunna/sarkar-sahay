@@ -1,0 +1,30 @@
+[
+  {
+    "id": "west-bengal-lakshmir-bhandar",
+    "name": "Lakshmir Bhandar",
+    "guidePath": "/guide/west-bengal-lakshmir-bhandar",
+    "level": "state",
+    "state": "west-bengal",
+    "schemeCategory": "women-welfare",
+    "benefitSummary": "₹1,200/month for SC/ST women, ₹1,000/month for General/OBC women in West Bengal",
+    "benefitType": "cash",
+    "eligibility": {
+      "gender": "female",
+      "minAge": 25,
+      "maxAge": 60,
+      "maxAnnualIncomeINR": null,
+      "casteCategories": ["any"],
+      "occupations": ["any"],
+      "widowOnly": false,
+      "disabilityRequired": false,
+      "bplOrPriorityCardRequired": false,
+      "otherRequirements": [
+        "Resident of West Bengal with a Swasthya Sathi card",
+        "Income-tax payers, government employees and pensioners are excluded"
+      ]
+    },
+    "officialLink": "https://socialsecurity.wb.gov.in",
+    "confidence": 0.9,
+    "extractedAt": "2026-06-11"
+  }
+]

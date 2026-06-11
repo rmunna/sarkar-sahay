@@ -1,0 +1,144 @@
+[
+  {
+    "id": "pm-kisan-samman-nidhi",
+    "name": "PM Kisan Samman Nidhi",
+    "guidePath": "/guide/pm-kisan-samman-nidhi",
+    "level": "central",
+    "state": null,
+    "schemeCategory": "farmer-support",
+    "benefitSummary": "₹6,000 per year (3 installments of ₹2,000) direct to farmer's bank account",
+    "benefitType": "cash",
+    "eligibility": {
+      "gender": "any",
+      "minAge": 18,
+      "maxAge": null,
+      "maxAnnualIncomeINR": null,
+      "casteCategories": ["any"],
+      "occupations": ["farmer"],
+      "widowOnly": false,
+      "disabilityRequired": false,
+      "bplOrPriorityCardRequired": false,
+      "otherRequirements": [
+        "Cultivable land in farmer's (or spouse's) name as per land records",
+        "Income-tax payers, government employees/pensioners and professionals are excluded"
+      ]
+    },
+    "officialLink": "https://pmkisan.gov.in",
+    "confidence": 0.9,
+    "extractedAt": "2026-06-11"
+  },
+  {
+    "id": "sukanya-samriddhi-yojana",
+    "name": "Sukanya Samriddhi Yojana",
+    "guidePath": "/guide/sukanya-samriddhi-yojana",
+    "level": "central",
+    "state": null,
+    "schemeCategory": "women-welfare",
+    "benefitSummary": "High-interest tax-free savings account for a girl child's education and marriage",
+    "benefitType": "service",
+    "eligibility": {
+      "gender": "female",
+      "minAge": null,
+      "maxAge": 10,
+      "maxAnnualIncomeINR": null,
+      "casteCategories": ["any"],
+      "occupations": ["any"],
+      "widowOnly": false,
+      "disabilityRequired": false,
+      "bplOrPriorityCardRequired": false,
+      "otherRequirements": [
+        "Account is opened by a parent or legal guardian for the girl child",
+        "Maximum 2 accounts per family (3 allowed for twins/triplets)",
+        "Resident Indian citizens only"
+      ]
+    },
+    "officialLink": "https://www.indiapost.gov.in",
+    "confidence": 0.9,
+    "extractedAt": "2026-06-11"
+  },
+  {
+    "id": "atal-pension-yojana-apy",
+    "name": "Atal Pension Yojana (APY)",
+    "guidePath": "/guide/atal-pension-yojana-apy",
+    "level": "central",
+    "state": null,
+    "schemeCategory": "pension",
+    "benefitSummary": "Guaranteed pension of ₹1,000–₹5,000/month after age 60, based on contribution",
+    "benefitType": "service",
+    "eligibility": {
+      "gender": "any",
+      "minAge": 18,
+      "maxAge": 40,
+      "maxAnnualIncomeINR": null,
+      "casteCategories": ["any"],
+      "occupations": ["any"],
+      "widowOnly": false,
+      "disabilityRequired": false,
+      "bplOrPriorityCardRequired": false,
+      "otherRequirements": [
+        "Savings bank account with Aadhaar and linked mobile number required",
+        "Income-tax payers cannot enrol (new enrolments barred from 1 Oct 2022)"
+      ]
+    },
+    "officialLink": "https://npscra.nsdl.co.in",
+    "confidence": 0.9,
+    "extractedAt": "2026-06-11"
+  },
+  {
+    "id": "e-shram-card-registration",
+    "name": "e-Shram Card",
+    "guidePath": "/guide/e-shram-card-registration",
+    "level": "central",
+    "state": null,
+    "schemeCategory": "employment",
+    "benefitSummary": "National unorganised-worker registry with ₹2 lakh accidental insurance cover",
+    "benefitType": "insurance",
+    "eligibility": {
+      "gender": "any",
+      "minAge": 16,
+      "maxAge": 59,
+      "maxAnnualIncomeINR": null,
+      "casteCategories": ["any"],
+      "occupations": ["agricultural-labourer", "construction-worker", "street-vendor", "domestic-worker", "fisherman", "artisan", "self-employed", "homemaker", "unemployed-youth"],
+      "widowOnly": false,
+      "disabilityRequired": false,
+      "bplOrPriorityCardRequired": false,
+      "otherRequirements": [
+        "Must be an unorganised worker (not in formal employment)",
+        "Must not be a member of EPFO, ESIC or government NPS",
+        "Valid Aadhaar required"
+      ]
+    },
+    "officialLink": "https://eshram.gov.in",
+    "confidence": 0.9,
+    "extractedAt": "2026-06-11"
+  },
+  {
+    "id": "ayushman-bharat-health-card",
+    "name": "Ayushman Bharat (PM-JAY)",
+    "guidePath": "/guide/ayushman-bharat-health-card",
+    "level": "central",
+    "state": null,
+    "schemeCategory": "health-insurance",
+    "benefitSummary": "₹5 lakh/year cashless health cover per family at empanelled hospitals",
+    "benefitType": "insurance",
+    "eligibility": {
+      "gender": "any",
+      "minAge": null,
+      "maxAge": null,
+      "maxAnnualIncomeINR": null,
+      "casteCategories": ["any"],
+      "occupations": ["any"],
+      "widowOnly": false,
+      "disabilityRequired": false,
+      "bplOrPriorityCardRequired": false,
+      "otherRequirements": [
+        "Family must be listed in SECC 2011 deprivation criteria or the state's beneficiary list — check at beneficiary.nha.gov.in",
+        "Senior citizens 70+ are eligible regardless of income (Vay Vandana card)"
+      ]
+    },
+    "officialLink": "https://beneficiary.nha.gov.in",
+    "confidence": 0.85,
+    "extractedAt": "2026-06-11"
+  }
+]
