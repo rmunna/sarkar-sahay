@@ -1,8 +1,10 @@
 name: Spike Detector — Google Trends → Auto-Generate Pages
 
 on:
-  # Scheduled pytrends polling is disabled because Google Trends returns 429s.
-  # Keep manual dispatch only until a cheaper non-pytrends spike source is added.
+  schedule:
+    # Google Trends RSS (national + state feeds) — no auth, not rate-limited
+    # like pytrends. Spikes are time-sensitive, so poll every 2 hours.
+    - cron: '23 */2 * * *'
   workflow_dispatch:
     inputs:
       dry_run:
@@ -36,18 +38,14 @@ jobs:
       - name: Install Node dependencies
         run: npm ci --prefer-offline
 
-      - name: Setup Python 3
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+      # ── Step 1: Query Google Trends RSS for rising exam/job queries ──────
+      # pytrends is dead (Google 429s related_queries, removed trending_searches)
+      # so the scanner runs RSS-only on the runner's system python3.
 
-      - name: Install pytrends
-        run: pip install pytrends --quiet
-
-      # ── Step 1: Query Google Trends for rising exam/job queries ──────────
-
-      - name: Scan rising trends (Jobs + Education + Government categories)
+      - name: Scan rising trends (Google Trends RSS, national + state feeds)
         id: trends
+        env:
+          SKIP_PYTRENDS: '1'
         run: |
           python3 agents/trending-pytrends.py
 

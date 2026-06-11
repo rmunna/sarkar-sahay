@@ -17,11 +17,12 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime
 
+# pytrends is optional legacy: Google now 429s related_queries and removed the
+# trending_searches endpoint (404). The RSS feeds below are the primary source.
 try:
     from pytrends.request import TrendReq
 except ImportError:
-    print("❌ pytrends not installed. Run: pip3 install pytrends")
-    sys.exit(1)
+    TrendReq = None
 
 GUIDES_DIR = os.path.join(os.path.dirname(__file__), '..', 'content', 'guides')
 UPDATES_DIR = os.path.join(os.path.dirname(__file__), '..', 'content', 'updates')
@@ -136,37 +137,64 @@ def check_guide_exists(topic):
     return None
 
 
-def fetch_realtime_trends():
-    """
-    Fetch from Google Trends RSS feed — reliable public endpoint, no auth required.
-    Works from GitHub Actions unlike the /api/realtimetrends endpoint (returns 404).
+# National feed plus the states where CitizenNest already wins (state schemes
+# like Shakti, Kalia, Madhu Babu, Lakshmir Bhandar are the site's top pages).
+TRENDS_RSS_GEOS = [
+    'IN', 'IN-UP', 'IN-BR', 'IN-WB', 'IN-KA', 'IN-TN',
+    'IN-AP', 'IN-TG', 'IN-OR', 'IN-RJ', 'IN-MH',
+]
 
-    URL: https://trends.google.com/trending/rss?geo=IN
-    Returns top ~20 trending searches in India with approx traffic counts.
+
+def fetch_realtime_trends(geos=None):
     """
-    RSS_URL = "https://trends.google.com/trending/rss?geo=IN"
+    Fetch from Google Trends RSS feeds — reliable public endpoint, no auth
+    required, not rate-limited like pytrends. One feed per geo (national +
+    major states), deduplicated across feeds.
+
+    URL pattern: https://trends.google.com/trending/rss?geo=<GEO>
+    Each feed returns top ~10-20 trending searches with approx traffic counts.
+    """
     # XML namespace used by Google Trends RSS
     NS = 'https://trends.google.com/trending/rss'
 
     results = []
     seen_titles = set()
 
-    try:
-        req = urllib.request.Request(RSS_URL, headers={
-            'User-Agent': (
-                'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 '
-                '(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
-            ),
-            'Accept': 'application/rss+xml, application/xml, text/xml, */*',
-        })
-        with urllib.request.urlopen(req, timeout=15) as response:
-            raw = response.read()
+    for geo in (geos or TRENDS_RSS_GEOS):
+        try:
+            req = urllib.request.Request(
+                f"https://trends.google.com/trending/rss?geo={geo}",
+                headers={
+                    'User-Agent': (
+                        'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 '
+                        '(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+                    ),
+                    'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+                },
+            )
+            with urllib.request.urlopen(req, timeout=15) as response:
+                raw = response.read()
+        except Exception as e:
+            print(f"  ⚠️  Google Trends RSS ({geo}) failed: {e}", file=sys.stderr)
+            continue
 
-        root = ET.fromstring(raw)
+        try:
+            root = ET.fromstring(raw)
+        except ET.ParseError as e:
+            print(f"  ⚠️  Google Trends RSS ({geo}) bad XML: {e}", file=sys.stderr)
+            continue
         items = root.findall('.//item')
-        print(f"  🌐 Google Trends RSS India: {len(items)} trending items")
+        print(f"  🌐 Google Trends RSS {geo}: {len(items)} trending items")
 
-        for item in items:
+        results.extend(_extract_rss_items(items, geo, NS, seen_titles))
+        time.sleep(1)
+
+    return results
+
+
+def _extract_rss_items(items, geo, NS, seen_titles):
+    results = []
+    for item in items:
             title_el = item.find('title')
             if title_el is None or not title_el.text:
                 continue
@@ -212,7 +240,7 @@ def fetch_realtime_trends():
 
             results.append({
                 'topic': title,
-                'category': 'Realtime RSS',
+                'category': f'Realtime RSS ({geo})',
                 'rising_value': rising_value,
                 'guide_exists': guide,
                 'is_spike': spike,
@@ -220,28 +248,30 @@ def fetch_realtime_trends():
                 'source': 'realtime-rss',
             })
 
-    except Exception as e:
-        print(f"  ⚠️  Google Trends RSS failed: {e}", file=sys.stderr)
-
     return results
 
 
 def main():
-    pytrends = TrendReq(hl='en-IN', geo='IN')
     all_rising = []
 
-    # ── Source 1: Google Trends RSS (same-day spikes, works in GitHub Actions) ─
-    print("🌐 Fetching Google Trends RSS (trends.google.com/trending/rss?geo=IN)...")
+    # ── Source 1: Google Trends RSS (primary — same-day spikes, national + state feeds) ─
+    print("🌐 Fetching Google Trends RSS (national + state feeds)...")
     realtime = fetch_realtime_trends()
     all_rising.extend(realtime)
     print(f"   → {len(realtime)} relevant realtime topics\n")
 
-    # ── Source 2: pytrends Rising Queries (7-day trend, catches upcoming exams) ─
-    # NOTE: Using empty-string [''] approach for category-level trending.
-    # GitHub Actions IPs are sometimes rate-limited; failures are silently skipped.
-    print("📈 Fetching pytrends rising queries (7-day window)...")
+    # ── Source 2: pytrends Rising Queries (legacy — Google 429s/404s these endpoints;
+    # skipped unless pytrends is installed and SKIP_PYTRENDS != 1) ─
+    pytrends = None
+    if TrendReq is not None and os.environ.get('SKIP_PYTRENDS') != '1':
+        try:
+            pytrends = TrendReq(hl='en-IN', geo='IN')
+        except Exception as e:
+            print(f"  ⚠️  pytrends init failed: {e}", file=sys.stderr)
+    if pytrends is None:
+        print("📈 pytrends skipped (not installed, SKIP_PYTRENDS=1, or init failed)")
     pytrends_got_data = False
-    for cat_id, cat_name in CATEGORIES:
+    for cat_id, cat_name in (CATEGORIES if pytrends is not None else []):
         try:
             pytrends.build_payload([''], geo='IN', timeframe='now 7-d', cat=cat_id)
             related = pytrends.related_queries()
@@ -271,7 +301,7 @@ def main():
 
     # ── Source 3: pytrends Today Searches fallback (if related_queries failed) ──
     # trending_searches() works when related_queries() is rate-blocked
-    if not pytrends_got_data:
+    if pytrends is not None and not pytrends_got_data:
         print("📈 pytrends related_queries returned nothing — trying trending_searches()...")
         try:
             df = pytrends.trending_searches(pn='india')

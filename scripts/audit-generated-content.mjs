@@ -70,6 +70,7 @@ async function auditFile(file, fullPath) {
   const body = parsed.content.trim();
   const fm = parsed.data || {};
   const issues = [];
+  const warnings = [];
   const kind = file.startsWith("content/updates/") ? "update" : "guide";
   const wordCount = countWords(body);
 
@@ -95,7 +96,13 @@ async function auditFile(file, fullPath) {
   }
   for (const link of officialLinks) {
     if (!isOfficialishUrl(link)) issues.push(`untrusted official link: ${link}`);
-    if (checkLinks && !(await linkResponds(link))) issues.push(`official link did not respond: ${link}`);
+    if (checkLinks) {
+      const probe = await probeLink(link);
+      if (probe === "gone") issues.push(`official link returned 404/410: ${link}`);
+      // Gov sites routinely time out or block datacenter IPs (the GitHub
+      // runner is in the US), so unreachable is not proof the page is bad.
+      if (probe === "unreachable") warnings.push(`official link did not respond from runner: ${link}`);
+    }
   }
 
   const fullText = `${raw}\n${body}`.toLowerCase();
@@ -121,6 +128,7 @@ async function auditFile(file, fullPath) {
     charCount: body.length,
     officialLinks,
     issues,
+    warnings,
   };
 }
 
@@ -166,30 +174,46 @@ function isOfficialishUrl(value) {
   ].includes(host);
 }
 
-async function linkResponds(value) {
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 10_000);
-  try {
-    const response = await fetch(value, {
-      method: "HEAD",
-      redirect: "follow",
-      signal: controller.signal,
-    });
-    if (response.status >= 200 && response.status < 400) return true;
-    if (response.status === 405 || response.status === 403) {
-      const getResponse = await fetch(value, {
-        method: "GET",
+const PROBE_HEADERS = {
+  "User-Agent":
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+  Accept: "text/html,application/xhtml+xml,application/pdf,*/*;q=0.8",
+  "Accept-Language": "en-IN,en;q=0.9,hi;q=0.8",
+};
+
+// "ok" — link confirmed live. "gone" — server said 404/410, the page is
+// definitively dead. "unreachable" — timeout, TLS error, bot-block or other
+// non-definitive failure; gov.in hosts do this constantly to foreign IPs.
+async function probeLink(value) {
+  const attempt = async (method) => {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 15_000);
+    try {
+      const response = await fetch(value, {
+        method,
         redirect: "follow",
+        headers: PROBE_HEADERS,
         signal: controller.signal,
       });
-      return getResponse.status >= 200 && getResponse.status < 400;
+      if (response.status >= 200 && response.status < 400) return "ok";
+      if (response.status === 404 || response.status === 410) return "gone";
+      return "blocked";
+    } catch {
+      return "error";
+    } finally {
+      clearTimeout(timeout);
     }
-    return false;
-  } catch {
-    return false;
-  } finally {
-    clearTimeout(timeout);
-  }
+  };
+
+  const head = await attempt("HEAD");
+  if (head === "ok") return "ok";
+  // Never trust a non-200 HEAD: csbc.bihar.gov.in answers 404 to HEAD but 200
+  // to GET. Only a GET 404/410 proves the page is gone.
+  const get = await attempt("GET");
+  if (get === "ok" || get === "gone") return get;
+  const retry = await attempt("GET");
+  if (retry === "ok" || retry === "gone") return retry;
+  return "unreachable";
 }
 
 function bannedPhrases() {
