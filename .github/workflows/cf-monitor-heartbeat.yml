@@ -1,0 +1,45 @@
+name: CF Monitor Heartbeat
+
+# Backstop for the Cloudflare Worker cron: as of 2026-06-11 the */10min cron
+# trigger is attached (confirmed by wrangler deploy) but invocations never
+# execute — KV stays empty and no detections flow. The worker's scan logic is
+# healthy over HTTP, so this workflow drives the same scan paths the cron
+# would, every 15 minutes. Remove the schedule here once Cloudflare cron
+# executions are confirmed working again (KV keys repopulating on their own).
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  scan:
+    name: Trigger worker detection scan
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    env:
+      MONITOR_URL: https://citizennest-detection.citizennest.workers.dev
+    steps:
+      - name: Detection scan
+        env:
+          CF_MONITOR_ADMIN_TOKEN: ${{ secrets.CF_MONITOR_ADMIN_TOKEN }}
+        run: |
+          [ -z "$CF_MONITOR_ADMIN_TOKEN" ] && { echo "::error::CF_MONITOR_ADMIN_TOKEN secret not set"; exit 1; }
+          RES=$(curl -sS --max-time 300 -H "Authorization: Bearer $CF_MONITOR_ADMIN_TOKEN" "$MONITOR_URL/scan?tier=2&dryRun=0")
+          echo "$RES" | head -c 2000
+          echo "$RES" | grep -q '"ok": *true' || { echo "::error::detection scan failed"; exit 1; }
+
+      - name: Trend signal scan
+        env:
+          CF_MONITOR_ADMIN_TOKEN: ${{ secrets.CF_MONITOR_ADMIN_TOKEN }}
+        run: |
+          RES=$(curl -sS --max-time 120 -H "Authorization: Bearer $CF_MONITOR_ADMIN_TOKEN" "$MONITOR_URL/trend-signals?dryRun=0" || echo '{"ok":false}')
+          echo "$RES" | head -c 1000
+          # trend lane is best-effort; do not fail the heartbeat on it
+
+      - name: Summary
+        run: |
+          echo "## 💓 CF Monitor Heartbeat" >> $GITHUB_STEP_SUMMARY
+          echo "Drove worker scan via HTTP (Cloudflare cron backstop) at $(date -u)" >> $GITHUB_STEP_SUMMARY
