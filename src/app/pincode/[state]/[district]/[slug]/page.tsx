@@ -1,4 +1,6 @@
-import { getPincodeBySlug, getAllPincodeSlugParams, getNearbyPincodes, getPincodePath, getPincodeSlug } from "@/lib/pincode";
+import { getAllPincodeSlugParams, getPincodePath, getPincodeSlug } from "@/lib/pincode";
+// Runtime data via D1 (fs fallback at build); see src/lib/pincode-d1.ts.
+import { getPincodeBySlug, getNearbyPincodes } from "@/lib/pincode-d1";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
@@ -22,7 +24,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { state, district, slug } = await params;
-  const data = getPincodeBySlug(state, district, slug);
+  const data = await getPincodeBySlug(state, district, slug);
   if (!data) return {};
 
   const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.citizennest.com";
@@ -71,10 +73,10 @@ function getPinZone(firstDigit: string): string {
 
 export default async function PincodePage({ params }: Props) {
   const { state, district, slug } = await params;
-  const data = getPincodeBySlug(state, district, slug);
+  const data = await getPincodeBySlug(state, district, slug);
   if (!data) notFound();
 
-  const nearby = getNearbyPincodes(data, 8);
+  const nearby = await getNearbyPincodes(data, 8);
   const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.citizennest.com";
   const primaryArea = data.postOffice;
 
