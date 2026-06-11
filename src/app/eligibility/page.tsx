@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { getAllSchemes, getSchemeStates } from "@/lib/schemes-data";
+import { getSchemesForMatcher, getSchemeStates } from "@/lib/schemes-data";
 import EligibilityChecker from "./EligibilityChecker";
 
 export const revalidate = 86400; // daily — scheme DB updates with content pipeline
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 };
 
 export default function EligibilityPage() {
-  const schemes = getAllSchemes();
+  const schemes = getSchemesForMatcher();
   const states = getSchemeStates();
 
   const jsonLd = {

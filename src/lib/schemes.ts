@@ -18,6 +18,19 @@ export interface SchemeEligibility {
   otherRequirements: string[];
 }
 
+export interface SchemeDetail {
+  ministry?: string | null;
+  shortTitle?: string | null;
+  beneficiaryState?: string[];
+  schemeFor?: string | null;
+  tags?: string[];
+  description?: string;
+  eligibilityText?: string;
+  benefitsText?: string;
+  applicationProcess?: string;
+  documents?: string;
+}
+
 export interface SchemeRecord {
   id: string;
   name: string;
@@ -31,6 +44,11 @@ export interface SchemeRecord {
   officialLink: string | null;
   confidence: number;
   extractedAt: string;
+  // Optional — present on myScheme-sourced records (full catalog).
+  slug?: string;
+  categories?: string[];
+  detail?: SchemeDetail;
+  source?: string;
 }
 
 export interface UserProfile {

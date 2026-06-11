@@ -18,3 +18,5 @@ data/pincode/raw/
 keys/
 data/d1/ifsc/
 .open-next/
+data/schemes/_raw/
+data/schemes/_probe-*.json
