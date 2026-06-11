@@ -19,7 +19,7 @@ import { fileURLToPath } from "node:url";
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const SRC = path.join(ROOT, "data", "ifsc");
 const OUT = path.join(ROOT, "data", "d1", "ifsc");
-const ROWS_PER_FILE = 2000;
+const ROWS_PER_FILE = 5000;
 // D1 rejects oversized single statements (SQLITE_TOOBIG), so cap each
 // multi-row INSERT; many statements per file is fine.
 const ROWS_PER_INSERT = 100;

@@ -24,8 +24,12 @@ CREATE TABLE ifsc_branches (
   page_slug     TEXT NOT NULL
 );
 
--- getBranchBySlug(bankSlug, pageSlug) — the hot path (every branch page render)
-CREATE UNIQUE INDEX idx_ifsc_bank_page ON ifsc_branches (bank_slug, page_slug);
+-- getBranchBySlug(bankSlug, pageSlug) — the hot path (every branch page render).
+-- NOT unique: ~62% of branches share a (bank_slug, page_slug) with a different
+-- IFSC (a pre-existing slug-collision quirk; the live site's .find() returns the
+-- first such branch). The PRIMARY KEY (ifsc) keeps all 134,791 rows; lookups use
+-- LIMIT 1 to mirror current behaviour.
+CREATE INDEX idx_ifsc_bank_page ON ifsc_branches (bank_slug, page_slug);
 -- getBranchesByBank / getCitiesByBank / getBranchesByCity / getNearbyBranches
 CREATE INDEX idx_ifsc_bank_city ON ifsc_branches (bank_slug, city_slug);
 

@@ -1,11 +1,11 @@
 import {
-  getBranchBySlug,
   getTopBranchParams,
-  getNearbyBranches,
   BANK_DISPLAY_NAMES,
   BANK_IFSC_PREFIX,
   BANK_OFFICIAL_URLS,
 } from "@/lib/ifsc";
+// Runtime data via D1 (fs fallback at build); see src/lib/ifsc-d1.ts.
+import { getBranchBySlug, getNearbyBranches } from "@/lib/ifsc-d1";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
@@ -30,7 +30,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { bank, branch } = await params;
-  const data = getBranchBySlug(bank, branch);
+  const data = await getBranchBySlug(bank, branch);
   if (!data) return {};
 
   const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.citizennest.com";
@@ -63,10 +63,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function IFSCBranchPage({ params }: Props) {
   const { bank, branch } = await params;
-  const data = getBranchBySlug(bank, branch);
+  const data = await getBranchBySlug(bank, branch);
   if (!data) notFound();
 
-  const nearby = getNearbyBranches(data, 6);
+  const nearby = await getNearbyBranches(data, 6);
   const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.citizennest.com";
 
   const breadcrumbSchema = {

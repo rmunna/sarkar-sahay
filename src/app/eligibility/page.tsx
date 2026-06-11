@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { getAllSchemes, getSchemeStates } from "@/lib/schemes";
+import { getAllSchemes, getSchemeStates } from "@/lib/schemes-data";
 import EligibilityChecker from "./EligibilityChecker";
 
 export const revalidate = 86400; // daily — scheme DB updates with content pipeline

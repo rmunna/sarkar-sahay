@@ -1,5 +1,5 @@
 name = "citizennest-detection"
-main = "workers/detection/index.mjs"
+main = "index.mjs"
 compatibility_date = "2026-06-01"
 workers_dev = true
 preview_urls = false
@@ -20,13 +20,12 @@ PAGE_CREATED_EMAIL_FROM = "monitor@citizennest.com"
 # Enable only after Cloudflare Email Sending binding is configured.
 OPPORTUNITY_SUMMARY_EMAIL = "0"
 
-# Required secrets:
-#   npx wrangler secret put MONITOR_ADMIN_TOKEN
-#   gh auth token | npx wrangler secret put GITHUB_DISPATCH_TOKEN
+# Deploy:  npx wrangler deploy -c workers/detection/wrangler.toml
+#
+# Required secrets (scope to this config with -c):
+#   npx wrangler secret put MONITOR_ADMIN_TOKEN -c workers/detection/wrangler.toml
+#   gh auth token | npx wrangler secret put GITHUB_DISPATCH_TOKEN -c workers/detection/wrangler.toml
 #
 # Optional webhook:
-#   npx wrangler secret put DETECTION_WEBHOOK_URL
-#   npx wrangler secret put DETECTION_WEBHOOK_SECRET
-#
-# Optional Cloudflare Email Sending binding, after citizennest.com is enabled:
-#   send_email binding name must be EMAIL
+#   npx wrangler secret put DETECTION_WEBHOOK_URL -c workers/detection/wrangler.toml
+#   npx wrangler secret put DETECTION_WEBHOOK_SECRET -c workers/detection/wrangler.toml

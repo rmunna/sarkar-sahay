@@ -1,0 +1,23 @@
+{
+  // CitizenNest Next.js app on Cloudflare Workers (via @opennextjs/cloudflare).
+  // The detection worker has its own config at workers/detection/wrangler.toml.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "citizennest",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-06-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "binding": "ASSETS",
+    "directory": ".open-next/assets"
+  },
+  "d1_databases": [
+    {
+      "binding": "citizennest_data",
+      "database_name": "citizennest-data",
+      "database_id": "3038c3c0-3d1a-4d64-b72a-eeba216f00ea"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}

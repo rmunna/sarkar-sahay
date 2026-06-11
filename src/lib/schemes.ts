@@ -1,5 +1,6 @@
-import { readFileSync, readdirSync, existsSync } from "fs";
-import path from "path";
+// Pure types + matcher only — NO `fs` import, so this module is safe to import
+// from client components (e.g. EligibilityChecker). Filesystem loaders live in
+// schemes-data.ts (server-only).
 
 export type Gender = "any" | "female" | "male";
 export type CasteCategory = "general" | "obc" | "sc" | "st" | "ews" | "minority";
@@ -52,34 +53,13 @@ export interface SchemeMatch {
   checkManually: string[];
 }
 
-const DATA_DIR = () => path.join(process.cwd(), "data", "schemes");
-
-let _all: SchemeRecord[] | null = null;
-
-export function getAllSchemes(): SchemeRecord[] {
-  if (!_all) {
-    const dir = DATA_DIR();
-    if (!existsSync(dir)) return (_all = []);
-    _all = readdirSync(dir)
-      .filter(f => f.endsWith(".json") && f !== "index.json")
-      .flatMap(f => JSON.parse(readFileSync(path.join(dir, f), "utf-8")) as SchemeRecord[]);
-  }
-  return _all;
-}
-
-export function getSchemeStates(): string[] {
-  const states = new Set<string>();
-  for (const s of getAllSchemes()) if (s.state) states.add(s.state);
-  return [...states].sort();
-}
-
 /**
  * Core matching rule: a scheme matches when EVERY constraint it defines is
  * satisfied by the profile. Null / "any" constraints are skipped — the guide
  * does not restrict on that axis. Constraints we can't model are surfaced in
  * `checkManually` instead of silently dropped.
  */
-export function matchSchemes(profile: UserProfile, schemes: SchemeRecord[] = getAllSchemes()): SchemeMatch[] {
+export function matchSchemes(profile: UserProfile, schemes: SchemeRecord[]): SchemeMatch[] {
   const matches: SchemeMatch[] = [];
 
   for (const scheme of schemes) {

@@ -8,11 +8,11 @@
  */
 
 import { NextRequest, NextResponse } from "next/server";
-import { searchBranches, getBranchByIFSC, BANK_DISPLAY_NAMES } from "@/lib/ifsc";
+import { BANK_DISPLAY_NAMES } from "@/lib/ifsc";
+// Runtime data via D1 (fs fallback at build); see src/lib/ifsc-d1.ts.
+import { searchBranches, getBranchByIFSC } from "@/lib/ifsc-d1";
 
 export const dynamic = "force-dynamic";
-// Run in Singapore — closest Vercel region to India (~60ms vs ~350ms from US default)
-export const preferredRegion = "sin1";
 
 export async function GET(req: NextRequest) {
   const { searchParams } = req.nextUrl;
@@ -25,7 +25,7 @@ export async function GET(req: NextRequest) {
 
   // Direct IFSC code lookup (11 chars, alphanumeric)
   if (/^[A-Za-z]{4}0[A-Za-z0-9]{6}$/.test(q)) {
-    const branch = getBranchByIFSC(q.toUpperCase());
+    const branch = await getBranchByIFSC(q.toUpperCase());
     if (branch) {
       return NextResponse.json({
         results: [{
@@ -46,7 +46,7 @@ export async function GET(req: NextRequest) {
   }
 
   // Text search
-  const branches = searchBranches(q, bank || undefined, 10);
+  const branches = await searchBranches(q, bank || undefined, 10);
 
   const results = branches.map((b) => ({
     ifsc: b.ifsc,
