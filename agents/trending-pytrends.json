@@ -1,283 +1,55 @@
 {
-  "scannedAt": "2026-06-07T05:56:45.626176",
+  "scannedAt": "2026-06-11T17:48:51.794083",
   "results": [
     {
-      "topic": "cbse delhi student marksheet issue",
-      "category": "Jobs",
-      "rising_value": 2300,
-      "guide_exists": "delhi-e-district-certificate",
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "drdo rac scientist notification 2026",
-      "category": "Education",
-      "rising_value": 650,
-      "guide_exists": "name-change-gazette-notification-process",
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "kcet results",
-      "category": "Jobs",
-      "rising_value": 300,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "ap eamcet result 2026",
-      "category": "Jobs",
-      "rising_value": 250,
-      "guide_exists": "ap-eamcet-2026-exam-guide",
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "kcet result",
-      "category": "Jobs",
-      "rising_value": 200,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "up police admit card",
-      "category": "Jobs",
-      "rising_value": 200,
-      "guide_exists": "up-si-police-exam-guide",
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "kcet result 2026",
-      "category": "Jobs",
-      "rising_value": 190,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "nios result",
-      "category": "Jobs",
-      "rising_value": 180,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "sats login",
-      "category": "Jobs",
+      "topic": "osssc",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
-      "guide_exists": "icici-netbanking-login-failed-fix",
-      "is_spike": false,
-      "is_scheme": false
-    },
-    {
-      "topic": "cet result date 2026",
-      "category": "Jobs",
-      "rising_value": 80,
       "guide_exists": null,
       "is_spike": false,
-      "is_scheme": false
+      "is_scheme": false,
+      "source": "realtime-rss"
     },
     {
-      "topic": "mht cet result date 2026",
-      "category": "Jobs",
-      "rising_value": 70,
-      "guide_exists": "mht-cet-2026-exam-guide",
-      "is_spike": false,
-      "is_scheme": false
-    },
-    {
-      "topic": "calicut university",
-      "category": "Jobs",
-      "rising_value": 70,
-      "guide_exists": "madras-university-result-2026",
-      "is_spike": false,
-      "is_scheme": false
-    },
-    {
-      "topic": "aibe admit card",
-      "category": "Jobs",
-      "rising_value": 60,
-      "guide_exists": "admit-card-download-online-guide",
-      "is_spike": false,
-      "is_scheme": false
-    },
-    {
-      "topic": "cet result 2026",
-      "category": "Jobs",
-      "rising_value": 60,
+      "topic": "rssb result",
+      "category": "Realtime RSS (IN-RJ)",
+      "rising_value": 100,
       "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false
-    },
-    {
-      "topic": "cet result",
-      "category": "Jobs",
-      "rising_value": 50,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "kcet results",
-      "category": "Jobs",
-      "rising_value": 300,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "kcet result",
-      "category": "Jobs",
-      "rising_value": 200,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "kcet result 2026",
-      "category": "Jobs",
-      "rising_value": 190,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "nios result",
-      "category": "Jobs",
-      "rising_value": 180,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "cet result date 2026",
-      "category": "Jobs",
-      "rising_value": 80,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false
-    },
-    {
-      "topic": "cet result 2026",
-      "category": "Jobs",
-      "rising_value": 60,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false
-    },
-    {
-      "topic": "cet result",
-      "category": "Jobs",
-      "rising_value": 50,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false
-    }
-  ],
-  "covered": [
-    {
-      "topic": "cbse delhi student marksheet issue",
-      "category": "Jobs",
-      "rising_value": 2300,
-      "guide_exists": "delhi-e-district-certificate",
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "drdo rac scientist notification 2026",
-      "category": "Education",
-      "rising_value": 650,
-      "guide_exists": "name-change-gazette-notification-process",
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "ap eamcet result 2026",
-      "category": "Jobs",
-      "rising_value": 250,
-      "guide_exists": "ap-eamcet-2026-exam-guide",
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "up police admit card",
-      "category": "Jobs",
-      "rising_value": 200,
-      "guide_exists": "up-si-police-exam-guide",
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "sats login",
-      "category": "Jobs",
+      "topic": "osssc",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
-      "guide_exists": "icici-netbanking-login-failed-fix",
+      "guide_exists": null,
       "is_spike": false,
-      "is_scheme": false
+      "is_scheme": false,
+      "source": "realtime-rss"
     },
     {
-      "topic": "mht cet result date 2026",
-      "category": "Jobs",
-      "rising_value": 70,
-      "guide_exists": "mht-cet-2026-exam-guide",
-      "is_spike": false,
-      "is_scheme": false
-    },
-    {
-      "topic": "calicut university",
-      "category": "Jobs",
-      "rising_value": 70,
-      "guide_exists": "madras-university-result-2026",
-      "is_spike": false,
-      "is_scheme": false
-    },
-    {
-      "topic": "aibe admit card",
-      "category": "Jobs",
-      "rising_value": 60,
-      "guide_exists": "admit-card-download-online-guide",
-      "is_spike": false,
-      "is_scheme": false
+      "topic": "rssb result",
+      "category": "Realtime RSS (IN-RJ)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
     }
   ],
+  "covered": [],
   "spike_candidates": [
     {
-      "topic": "kcet results",
-      "category": "Jobs",
-      "rising_value": 300,
+      "topic": "rssb result",
+      "category": "Realtime RSS (IN-RJ)",
+      "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "kcet result",
-      "category": "Jobs",
-      "rising_value": 200,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "kcet result 2026",
-      "category": "Jobs",
-      "rising_value": 190,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "nios result",
-      "category": "Jobs",
-      "rising_value": 180,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false
+      "is_scheme": false,
+      "source": "realtime-rss"
     }
   ],
   "scheme_opportunities": []
