@@ -1,20 +1,31 @@
 ---
-title: "West Bengal Lakshmir Bhandar Scheme — How to Apply & Benefits"
-description: "Complete guide to West Bengal Lakshmir Bhandar scheme providing monthly income support to women including eligibility and application process."
+title: "Lakshmir Bhandar Apply & Status Check 2026 — socialsecurity.wb.gov.in"
+description: "Apply for Lakshmir Bhandar at socialsecurity.wb.gov.in or Duare Sarkar camps. SC/ST women get ₹1,200/month, General/OBC ₹1,000/month. Check application status online."
 category: "State Schemes"
-keywords: ["Lakshmir Bhandar scheme", "West Bengal Lakshmir Bhandar", "Bengal women scheme", "Lakshmir Bhandar eligibility", "WB Lakshmir Bhandar apply"]
+keywords: ["Lakshmir Bhandar scheme", "West Bengal Lakshmir Bhandar", "socialsecurity.wb.gov.in lakshmi bhandar", "socialsecurity wb gov in registration", "lakshmir bhandar status check", "Bengal women scheme", "Lakshmir Bhandar eligibility", "WB Lakshmir Bhandar apply", "lakshmir bhandar amount"]
 readingTime: "7 min"
+lastUpdated: "2026-06-11"
 officialLinks:
   - https://socialsecurity.wb.gov.in
 ---
+
+## Quick Answer: Apply & Check Status on socialsecurity.wb.gov.in
+
+**Official portal:** [socialsecurity.wb.gov.in](https://socialsecurity.wb.gov.in) — the West Bengal Social Security portal used for Lakshmir Bhandar registration and status checks.
+
+| What you want | Where to do it |
+|---|---|
+| Apply / register | Duare Sarkar camp (easiest route) or [socialsecurity.wb.gov.in](https://socialsecurity.wb.gov.in) |
+| Check application status | socialsecurity.wb.gov.in → track application with your application/reference number |
+| Monthly amount | ₹1,200 (SC/ST women) · ₹1,000 (General/OBC women) — revised from April 2024 |
 
 ## What is Lakshmir Bhandar Scheme?
 
 Lakshmir Bhandar (Lakshmi's Treasure) is a flagship scheme of the West Bengal government that provides monthly financial assistance to women aged 25-60 years. It is one of the largest direct benefit transfer schemes in India, benefiting over 2 crore women across West Bengal.
 
-The scheme provides:
-- **₹1,000 per month** for SC/ST women
-- **₹500 per month** for General category women
+The scheme provides (rates revised upward from April 2024):
+- **₹1,200 per month** for SC/ST women
+- **₹1,000 per month** for General/OBC category women
 
 The amount is credited directly to the beneficiary's bank account every month.
 
@@ -32,8 +43,8 @@ The amount is credited directly to the beneficiary's bank account every month.
 
 | Category | Monthly Amount | Annual Total |
 |----------|---------------|-------------|
-| SC / ST women | ₹1,000 | ₹12,000 |
-| General / OBC women | ₹500 | ₹6,000 |
+| SC / ST women | ₹1,200 | ₹14,400 |
+| General / OBC women | ₹1,000 | ₹12,000 |
 
 ## Documents Required
 
@@ -41,7 +52,7 @@ The amount is credited directly to the beneficiary's bank account every month.
 - **Swasthya Sathi card** (mandatory)
 - **Bank account details** (in the applicant's name)
 - **Voter ID / address proof**
-- **Caste certificate** (for SC/ST women claiming ₹1,000)
+- **Caste certificate** (for SC/ST women claiming ₹1,200)
 - **Age proof** (birth certificate, school certificate, or Aadhaar)
 - **Recent photograph**
 
@@ -80,11 +91,27 @@ The amount is credited directly to the beneficiary's bank account every month.
 - First payment: Within 45-60 days of approval
 - Monthly payments continue automatically thereafter
 
+## Application Status Stages on socialsecurity.wb.gov.in
+
+When you track your application on the portal, it moves through these stages:
+
+| Stage | What it means |
+|---|---|
+| Submitted | Application received; not yet checked |
+| Under Verification | Block/municipality officials are verifying your documents and eligibility |
+| Approved | You are a beneficiary — payments will begin from the next cycle |
+| Payment Initiated | Money has been sent to your bank account via DBT |
+| Rejected | Application did not pass verification — see common reasons below |
+
+**Common rejection reasons:** missing or mismatched Swasthya Sathi card details, bank account not in the applicant's own name, applicant is a government employee or pensioner, or a duplicate application for the same person. If rejected, fix the underlying issue and reapply at the next Duare Sarkar camp.
+
+**Payment not received after approval?** First confirm your bank account is active and Aadhaar-seeded for DBT. Then raise the issue at your Block Development Office (rural) or municipality office (urban) with your approval reference, or ask at a Bangla Sahayata Kendra.
+
 ## Important Tips
 
 - **Swasthya Sathi card is mandatory** — if you don't have one, apply for it first at a Duare Sarkar camp or health department office
 - **Bank account must be in your name** — joint accounts may cause issues; open an individual savings account
-- **SC/ST women must have valid caste certificate** — this determines whether you get ₹1,000 or ₹500
+- **SC/ST women must have valid caste certificate** — this determines whether you get ₹1,200 or ₹1,000
 - **Duare Sarkar camps are the easiest route** — watch for camp announcements in your area
 - **Keep your mobile number updated** — all notifications and OTPs come to your registered number
 

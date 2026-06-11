@@ -6,8 +6,7 @@ keywords: ["KALIA Yojana Odisha", "KALIA scheme eligibility", "Odisha farmer sch
 readingTime: "8 min"
 officialLinks:
   - https://kalia.odisha.gov.in
-  - https://kalia.co.in
-lastUpdated: "2026-03-04"
+lastUpdated: "2026-06-11"
 ---
 
 ## What is KALIA Yojana?
@@ -135,6 +134,13 @@ No. KALIA benefits are provided per family, not per individual. Only one member 
 
 ### Q7. What if I was wrongly excluded from KALIA?
 You can file a grievance through the online portal at kalia.odisha.gov.in or visit your Gram Panchayat office to submit a written complaint.
+
+## Related Odisha Schemes
+
+- [Madhu Babu Pension Yojana — check SSEPD application status by Aadhaar](/guide/madhu-babu-pension-odisha) (₹3,500/month for elderly, widows & disabled)
+- [KALIA / CM-KISAN status check by Aadhaar](/guide/kalia-cm-kisan-odisha-status-check)
+- [Free Rice Scheme Odisha](/guide/free-rice-scheme-odisha)
+- [Biju Swasthya Kalyan Yojana — free health cover](/guide/biju-swasthya-kalyan-odisha)
 
 ---
 

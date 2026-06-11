@@ -1,6 +1,6 @@
 ---
-title: "Waiting List Ticket Confirmation Chances 2026 — WL, GNWL, RLWL & When to Cancel"
-description: "Will your WL ticket confirm? WL 1–15: 85%+ chance. WL 16–30: 55%. WL 60+: under 10%. GNWL confirms fastest — RLWL rarely does. Check your PNR live at indianrail.gov.in — know exactly when to cancel for a full refund."
+title: "IRCTC Waiting List Confirmation Chances 2026 — WL, GNWL, RLWL & When to Cancel"
+description: "Will your WL ticket confirm? WL 1–15: 85%+. WL 16–30: 55%. WL 60+: under 10%. GNWL confirms fastest, RLWL rarely. Check PNR live & know when to cancel for a refund."
 category: "Utilities"
 keywords:
   - irctc waiting list confirmation chances
@@ -13,7 +13,7 @@ keywords:
   - irctc waiting list will confirm
   - chart preparation irctc
   - waitlist ticket cancel irctc
-lastUpdated: "2026-03-05"
+lastUpdated: "2026-06-11"
 readingTime: "10 min"
 officialLinks:
   - "https://www.irctc.co.in"
@@ -21,9 +21,20 @@ officialLinks:
   - "https://www.indianrail.gov.in"
 ---
 
-# IRCTC Waitlist Confirmation Chances — RAC vs WL Explained
+# IRCTC Waiting List Confirmation Chances — RAC vs WL Explained
 
-Booked a train ticket on IRCTC and got a waitlisted (WL) or RAC status? Wondering if your ticket will confirm? This guide explains everything about Indian Railways' waiting list system, confirmation chances, and when you should cancel.
+**Quick answer — will your waitlisted ticket confirm?**
+
+| Your status | Confirmation chance |
+|---|---|
+| GNWL 1–15 | **85%+** — very likely to confirm |
+| GNWL 16–30 | ~55% — decent, watch until chart preparation |
+| GNWL 30–60 | ~25% — risky, keep a backup plan |
+| WL 60+ | **Under 10%** — book an alternative now |
+| RAC (any number) | You **will board** — shared berth, often upgraded to full berth |
+| RLWL / PQWL / TQWL | Much lower than GNWL at the same number — see breakdown below |
+
+Check your live status by PNR at [enquiry.indianrail.gov.in](https://enquiry.indianrail.gov.in/mntes). Final status comes at **chart preparation, ~4 hours before departure**. If it stays WL on an IRCTC e-ticket, it auto-cancels with a refund — but cancelling *before* chart saves you the clerkage fee. Details on every status type below.
 
 > **Disclaimer:** CitizenNest is an independent platform and is not affiliated with Indian Railways or IRCTC.
 

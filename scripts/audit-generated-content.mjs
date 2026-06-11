@@ -156,6 +156,7 @@ function isOfficialishUrl(value) {
   if (host.endsWith(".ac.in")) return true;
   if (host.endsWith(".res.in")) return true;
   return [
+    "irctc.co.in",
     "ssc.gov.in",
     "nta.ac.in",
     "ugcnet.nta.nic.in",

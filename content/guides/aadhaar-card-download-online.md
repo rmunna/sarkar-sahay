@@ -1,14 +1,27 @@
 ---
-title: "How to Download e-Aadhaar Card PDF Online — Step-by-Step Guide"
-description: "Download your e-Aadhaar card PDF from UIDAI website using Aadhaar number, VID, or enrolment ID. Complete step-by-step process explained."
+title: "Aadhaar Card Download Online PDF — myaadhaar.uidai.gov.in in 5 Steps"
+description: "Download Aadhaar card PDF online free at myaadhaar.uidai.gov.in with Aadhaar number + OTP. PDF password = first 4 letters of your name in CAPITALS + birth year (e.g. RAJE1990)."
 category: "Identity Documents"
-keywords: ["download e-aadhaar", "e-aadhaar pdf download", "aadhaar card download online", "UIDAI aadhaar download", "aadhaar pdf"]
+keywords: ["aadhar card download online pdf", "download e-aadhaar", "e-aadhaar pdf download", "aadhaar card download online", "UIDAI aadhaar download", "aadhaar pdf password", "myaadhaar uidai gov in"]
 readingTime: "5 min"
+lastUpdated: "2026-06-11"
 officialLinks:
   - https://myaadhaar.uidai.gov.in
   - https://eaadhaar.uidai.gov.in
   - https://uidai.gov.in
 ---
+
+## Quick Answer: Download Aadhaar PDF in 5 Steps
+
+1. Go to **[myaadhaar.uidai.gov.in](https://myaadhaar.uidai.gov.in)** (official UIDAI portal — free, no charges)
+2. Click **"Download Aadhaar"**
+3. Enter your **12-digit Aadhaar number** + captcha
+4. Enter the **OTP** sent to your Aadhaar-registered mobile number
+5. Click **"Verify & Download"** — the PDF saves to your device
+
+**Opening the PDF — password:** first **4 letters of your name in CAPITAL letters + birth year**. Example: name *Rajesh Kumar*, born *1990* → password `RAJE1990`.
+
+> **No registered mobile?** You cannot download online — update your mobile at an Aadhaar enrolment centre first (details in the note below).
 
 ## What is e-Aadhaar?
 
