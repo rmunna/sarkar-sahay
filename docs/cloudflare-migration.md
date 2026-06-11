@@ -50,7 +50,8 @@ OpenNext, so canonical URLs keep working post-cutover.
 - [x] IFSC branch + search API → `./ifsc-d1`; pincode leaf → `./pincode-d1` (await)
 - [x] Guides (all 10 langs) + updates prerender all slugs at build; static-assets incremental cache wired
 - [x] `opennextjs-cloudflare build` (7,973 pages) + deploy to workers.dev — **all routes verified 200 with real content**
-- [ ] **DNS cutover** (see section above — your action: move nameservers to Cloudflare, then I attach the custom domain)
+- [x] **DNS cutover COMPLETE** (2026-06-11): nameservers moved GoDaddy→Cloudflare (`cory/dell.ns.cloudflare.com`), zone active, stale Vercel A records deleted, `citizennest.com` + `www` attached as Worker custom domains, SSL issued. **Live and serving 200 from Cloudflare (SIN edge).**
+- [x] Removed apex→www redirect from next.config.ts (it 308-looped on OpenNext; canonical via per-page tags)
 
 ### Verified live on https://citizennest.citizennest.workers.dev
 homepage · /eligibility · EN+HI guides · updates · /ifsc/[bank] · IFSC branch (D1) · IFSC search API (D1) · /rto · /hsn · pincode leaf (D1, real data) — all 200.
