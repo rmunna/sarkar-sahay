@@ -1,41 +1,41 @@
 {
-  "scannedAt": "2026-06-11T17:48:51.794083",
+  "scannedAt": "2026-06-11T23:57:15.141844",
   "results": [
+    {
+      "topic": "polytechnic result",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
     {
       "topic": "osssc",
       "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "rssb result",
-      "category": "Realtime RSS (IN-RJ)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
+      "topic": "polytechnic result",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
       "topic": "osssc",
       "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "rssb result",
-      "category": "Realtime RSS (IN-RJ)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
@@ -43,8 +43,8 @@
   "covered": [],
   "spike_candidates": [
     {
-      "topic": "rssb result",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "polytechnic result",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
