@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 import CopyButton from "@/components/CopyButton";
 import AdUnit from "@/components/AdUnit";
 
-const AD_SLOT_DATA = process.env.NEXT_PUBLIC_AD_SLOT_DATA || "";
+const AD_SLOT_DATA = process.env.NEXT_PUBLIC_AD_SLOT_DATA || "6012591181";
 
 interface Props {
   params: Promise<{ state: string; district: string; slug: string }>;

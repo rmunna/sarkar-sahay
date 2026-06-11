@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 import { getHSNByCode, getAllHSNParams, getRelatedHSN } from "@/lib/hsn";
 import AdUnit from "@/components/AdUnit";
 
-const AD_SLOT_DATA = process.env.NEXT_PUBLIC_AD_SLOT_DATA || "";
+const AD_SLOT_DATA = process.env.NEXT_PUBLIC_AD_SLOT_DATA || "6012591181";
 
 export const dynamicParams = true;
 export const revalidate = 7776000; // 90 days

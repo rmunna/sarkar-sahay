@@ -15,7 +15,7 @@ import { useState, useEffect, useRef } from "react";
  */
 
 const CLIENT = "ca-pub-7012449506814064";
-const SLOT = process.env.NEXT_PUBLIC_AD_SLOT_STICKY || "";
+const SLOT = process.env.NEXT_PUBLIC_AD_SLOT_STICKY || "8631535180";
 
 export default function StickyMobileAd() {
   const [visible, setVisible] = useState(true);

@@ -7,7 +7,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 
-const AD_SLOT_UPDATE = process.env.NEXT_PUBLIC_AD_SLOT_DATA || "";
+const AD_SLOT_UPDATE = process.env.NEXT_PUBLIC_AD_SLOT_DATA || "6012591181";
 
 interface Props {
   params: Promise<{ slug: string }>;
