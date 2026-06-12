@@ -91,3 +91,15 @@ export function getRelatedSchemes(scheme: SchemeRecord, limit = 10): SchemeRecor
 export function getAllSchemeSlugs(): string[] {
   return getAllSchemes().map(s => s.slug ?? s.id).filter(Boolean) as string[];
 }
+
+let _guideMap: Record<string, string> | null = null;
+
+/** Confident scheme→guide matches (from scripts/match-scheme-guides.mjs). Lets
+ * a scheme page link to the full how-to-apply guide where one exists. */
+export function getGuideForScheme(schemeSlug: string): string | null {
+  if (!_guideMap) {
+    const f = path.join(DATA_DIR(), "scheme-guide-map.json");
+    _guideMap = existsSync(f) ? JSON.parse(readFileSync(f, "utf-8")) : {};
+  }
+  return _guideMap![schemeSlug] ?? null;
+}

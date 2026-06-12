@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getSchemeBySlug, getAllSchemeSlugs, getRelatedSchemes } from "@/lib/schemes-data";
+import { getSchemeBySlug, getAllSchemeSlugs, getRelatedSchemes, getGuideForScheme } from "@/lib/schemes-data";
+import { getGuideMeta } from "@/lib/guides";
 
 export const dynamicParams = false;
 export const revalidate = 604800;
@@ -50,6 +51,8 @@ export default async function SchemePage({ params }: Props) {
   const d = s.detail || {};
   const tags = (d.tags || s.categories || []).filter(Boolean);
   const related = getRelatedSchemes(s, 10);
+  const guideSlug = getGuideForScheme(slug);
+  const guide = guideSlug ? getGuideMeta(guideSlug) : null;
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -97,6 +100,17 @@ export default async function SchemePage({ params }: Props) {
           <h2 className="text-lg font-semibold text-gray-900 mb-1">About this scheme</h2>
           <p className="text-gray-800 leading-relaxed">{s.benefitSummary}</p>
         </section>
+      )}
+
+      {/* Full step-by-step guide, where we have one — funnels to rich content */}
+      {guide && (
+        <Link href={`/guide/${guideSlug}`} className="mt-6 flex items-start gap-3 rounded-xl border border-blue-200 bg-blue-50 p-4 hover:bg-blue-100 transition">
+          <span className="text-xl">📖</span>
+          <span>
+            <span className="block text-sm font-semibold text-blue-900">Read our full step-by-step guide</span>
+            <span className="block text-sm text-blue-800/80 mt-0.5">{guide.title} →</span>
+          </span>
+        </Link>
       )}
 
       {/* Quick facts */}
