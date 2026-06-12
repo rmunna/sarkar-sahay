@@ -38,6 +38,10 @@ jobs:
       NEXT_PUBLIC_SITE_URL: https://www.citizennest.com
       NEXT_PUBLIC_AD_SLOT_DATA: ${{ vars.NEXT_PUBLIC_AD_SLOT_DATA }}
       NEXT_PUBLIC_AD_SLOT_STICKY: ${{ vars.NEXT_PUBLIC_AD_SLOT_STICKY }}
+      # Affiliate links — set these as repo Variables once you have accounts.
+      NEXT_PUBLIC_AFF_TESTSERIES_URL: ${{ vars.NEXT_PUBLIC_AFF_TESTSERIES_URL }}
+      NEXT_PUBLIC_AFF_DEMAT_URL: ${{ vars.NEXT_PUBLIC_AFF_DEMAT_URL }}
+      NEXT_PUBLIC_AFF_LOAN_URL: ${{ vars.NEXT_PUBLIC_AFF_LOAN_URL }}
     steps:
       - uses: actions/checkout@v4.2.2
 

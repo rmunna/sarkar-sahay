@@ -3,6 +3,7 @@ import path from "path";
 import { getGuideBySlug, getGuideRawContent, getRelatedGuides, getAllGuideSlugs } from "@/lib/guides";
 import TelegramCTA from "@/components/TelegramCTA";
 import AdUnit from "@/components/AdUnit";
+import { AffiliateCTA } from "@/components/AffiliateCTA";
 import TOCSidebar from "@/components/TOCSidebar";
 import { getRelatedUpdatesForGuide } from "@/lib/cross-links";
 import { getAllHindiGuideSlugs } from "@/lib/guides-hi";
@@ -364,6 +365,9 @@ export default async function GuidePage({ params }: Props) {
             className="guide-content"
             dangerouslySetInnerHTML={{ __html: contentWithIds }}
           />
+
+          {/* Affiliate offer matched to category (test-series / demat) — hidden until configured */}
+          <AffiliateCTA category={guide.category} />
 
           {/* Ad — after article body */}
           <AdUnit slot={AD_SLOT_GUIDE} format="auto" className="my-8" />
