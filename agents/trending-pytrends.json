@@ -1,9 +1,27 @@
 {
-  "scannedAt": "2026-06-11T23:57:15.141844",
+  "scannedAt": "2026-06-12T15:44:29.122852",
   "results": [
     {
-      "topic": "polytechnic result",
+      "topic": "bigg boss 20 contestants list",
       "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "wbjee",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "wbjee-2026-exam-guide",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "iiit results 2026 ap",
+      "category": "Realtime RSS (IN-AP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -11,40 +29,59 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "osssc",
-      "category": "Realtime RSS (IN-OR)",
+      "topic": "mht cet 1st attempt result date 2026 pcm",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
+      "guide_exists": "mht-cet-2026-exam-guide",
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "polytechnic result",
+      "topic": "bigg boss 20 contestants list",
       "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "osssc",
-      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
+    },
+    {
+      "topic": "iiit results 2026 ap",
+      "category": "Realtime RSS (IN-AP)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
     }
   ],
-  "covered": [],
+  "covered": [
+    {
+      "topic": "wbjee",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "wbjee-2026-exam-guide",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "mht cet 1st attempt result date 2026 pcm",
+      "category": "Realtime RSS (IN-MH)",
+      "rising_value": 100,
+      "guide_exists": "mht-cet-2026-exam-guide",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    }
+  ],
   "spike_candidates": [
     {
-      "topic": "polytechnic result",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "iiit results 2026 ap",
+      "category": "Realtime RSS (IN-AP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
