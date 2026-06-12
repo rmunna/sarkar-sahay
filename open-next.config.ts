@@ -13,4 +13,11 @@ import staticAssetsIncrementalCache from "@opennextjs/cloudflare/overrides/incre
 // not exist on Workers at runtime.
 export default defineCloudflareConfig({
   incrementalCache: staticAssetsIncrementalCache,
+  // Serve prerendered (fully static, no-revalidate) pages DIRECTLY from
+  // Cloudflare Static Assets, bypassing the Worker — eliminates the cold-start
+  // 1102/503s that were hitting Googlebot on guide/content pages. The D1
+  // on-demand routes (IFSC branch, pincode leaf, search API) still run on the
+  // Worker. Requires no ISR/revalidation, which is why revalidate was removed
+  // from the static content routes.
+  enableCacheInterception: true,
 });

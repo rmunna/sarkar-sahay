@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import CNRDecoder from "./CNRDecoder";
 
-export const revalidate = 7776000;
 
 export const metadata: Metadata = {
   title: "CNR Number Decoder — What Does My CNR Mean?",

@@ -4,8 +4,7 @@ import { notFound } from "next/navigation";
 import { getCourtBySlug, getCourtsByState, getAllCourtParams } from "@/lib/court";
 import CourtCaseSearch from "@/components/CourtCaseSearch";
 
-export const dynamicParams = true;
-export const revalidate = 7776000;
+export const dynamicParams = false;
 
 interface Props {
   params: Promise<{ state: string; court: string }>;

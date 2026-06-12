@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllHSNCodes, getChapterList } from "@/lib/hsn";
 
-export const revalidate = 7776000;
 
 export const metadata: Metadata = {
   title: "HSN Code List India 2024 — GST Rates & Search | CitizenNest",

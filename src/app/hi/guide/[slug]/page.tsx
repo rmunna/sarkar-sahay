@@ -10,7 +10,6 @@ interface Props {
 
 // ISR: render on first request, cache for 24 hours. Avoids pre-rendering 300 Hindi pages at build time.
 export const dynamicParams = false;
-export const revalidate = 86400; // 24 hours
 
 export async function generateStaticParams() {
   return getAllHindiGuideSlugs().map((slug) => ({ slug }));

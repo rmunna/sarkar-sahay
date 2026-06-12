@@ -3,7 +3,6 @@ import Link from "next/link";
 import { getCuratedSchemes, getCatalogLite, getSchemeStates } from "@/lib/schemes-data";
 import EligibilityChecker from "./EligibilityChecker";
 
-export const revalidate = 86400;
 
 export const metadata: Metadata = {
   title: "Government Scheme Eligibility Checker 2026 — Find Schemes You Qualify For",

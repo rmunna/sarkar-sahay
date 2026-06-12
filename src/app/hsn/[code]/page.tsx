@@ -6,8 +6,7 @@ import AdUnit from "@/components/AdUnit";
 
 const AD_SLOT_DATA = process.env.NEXT_PUBLIC_AD_SLOT_DATA || "6012591181";
 
-export const dynamicParams = true;
-export const revalidate = 7776000; // 90 days
+export const dynamicParams = false;
 
 export async function generateStaticParams() {
   return getAllHSNParams();

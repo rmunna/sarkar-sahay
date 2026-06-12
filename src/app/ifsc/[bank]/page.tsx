@@ -14,7 +14,6 @@ interface Props {
   params: Promise<{ bank: string }>;
 }
 
-export const revalidate = 2592000; // 30 days
 
 export async function generateStaticParams() {
   return getAllBankParams();

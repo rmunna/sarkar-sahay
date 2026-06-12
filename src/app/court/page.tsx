@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllCourts, getAllStates, getHighCourts } from "@/lib/court";
 
-export const revalidate = 7776000;
 
 export const metadata: Metadata = {
   title: "Court Case Status India — High Courts & District Courts",

@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllStatesWithCounts, getPincodeData, getPincodePath } from "@/lib/pincode";
 
-export const revalidate = 7776000;
 
 export const metadata: Metadata = {
   title: "PIN Code Finder India — All States & Districts",

@@ -27,7 +27,6 @@ interface Props {
 // instead of attempting a doomed on-demand fs render. New content ships via
 // rebuild, matching the git-committed content pipeline.
 export const dynamicParams = false;
-export const revalidate = 86400; // 24 hours
 
 export async function generateStaticParams() {
   return getAllGuideSlugs().map((slug) => ({ slug }));

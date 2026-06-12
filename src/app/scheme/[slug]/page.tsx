@@ -5,7 +5,7 @@ import { getSchemeBySlug, getAllSchemeSlugs, getRelatedSchemes, getGuideForSchem
 import { getGuideMeta } from "@/lib/guides";
 
 export const dynamicParams = false;
-export const revalidate = 604800;
+export const revalidate = 604800; // keep on Worker (noindex, not in sitemap — no SEO 503 risk; saves 3.5k asset files)
 
 interface Props {
   params: Promise<{ slug: string }>;

@@ -9,7 +9,6 @@ interface Props {
 }
 
 export const dynamicParams = false;
-export const revalidate = 86400;
 
 export async function generateStaticParams() {
   return getAllTeluguGuideSlugs().map((slug) => ({ slug }));

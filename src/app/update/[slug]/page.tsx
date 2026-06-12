@@ -16,7 +16,6 @@ interface Props {
 // Prerender all updates at build (no runtime fs on Workers). New updates from
 // the content pipeline ship on the next build/deploy.
 export const dynamicParams = false;
-export const revalidate = 3600; // 1 hour
 
 export async function generateStaticParams() {
   return getAllUpdateSlugs().map((slug) => ({ slug }));

@@ -3,7 +3,6 @@ import Link from "next/link";
 import { getCatalogLite } from "@/lib/schemes-data";
 import SchemesBrowser from "./SchemesBrowser";
 
-export const revalidate = 604800;
 
 export const metadata: Metadata = {
   title: "All Government Schemes in India — Search Central & State Schemes | CitizenNest",

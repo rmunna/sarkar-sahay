@@ -3,8 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getCourtsByState, getAllStateParams } from "@/lib/court";
 
-export const dynamicParams = true;
-export const revalidate = 7776000;
+export const dynamicParams = false;
 
 interface Props {
   params: Promise<{ state: string }>;

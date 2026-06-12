@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllStates, getAllRTOs } from "@/lib/rto";
 
-export const revalidate = 7776000;
 
 export const metadata: Metadata = {
   title: "RTO Code List India — All State Vehicle Registration Codes | CitizenNest",

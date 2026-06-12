@@ -7,8 +7,7 @@ interface Props {
   params: Promise<{ state: string; district: string }>;
 }
 
-export const dynamicParams = true;
-export const revalidate = 7776000;
+export const dynamicParams = false;
 
 export async function generateStaticParams() {
   return getAllDistrictParams();

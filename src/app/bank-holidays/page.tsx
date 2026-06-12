@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 
-export const revalidate = 2592000; // 30 days
 
 export const metadata: Metadata = {
   title: "Bank Holidays 2026 India — Complete State-wise List (RBI Calendar)",

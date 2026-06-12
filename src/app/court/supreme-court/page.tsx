@@ -3,7 +3,6 @@ import Link from "next/link";
 import { getSupremeCourt } from "@/lib/court";
 import CourtCaseSearch from "@/components/CourtCaseSearch";
 
-export const revalidate = 7776000;
 
 export const metadata: Metadata = {
   title: "Supreme Court of India Case Status — Check Online",
