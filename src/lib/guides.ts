@@ -65,7 +65,10 @@ export async function getGuideBySlug(slug: string): Promise<Guide | null> {
   if (!fs.existsSync(filePath)) return null;
   const fileContents = fs.readFileSync(filePath, "utf8");
   const { data, content } = matter(fileContents);
-  const processedContent = await remark().use(remarkGfm).use(html).process(content);
+  // Drop the body's leading "# Title" — the page template already renders the
+  // H1, so keeping it produced two <h1> per guide. Strip only a leading H1.
+  const body = content.replace(/^\s*#\s+.*\r?\n/, "");
+  const processedContent = await remark().use(remarkGfm).use(html).process(body);
   const meta = getGuideMeta(slug)!;
   return { ...meta, contentHtml: processedContent.toString() };
 }
