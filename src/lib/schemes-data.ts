@@ -25,8 +25,10 @@ export function getAllSchemes(): SchemeRecord[] {
   const curated: SchemeRecord[] = [];
   let myscheme: SchemeRecord[] = [];
   for (const f of readdirSync(dir)) {
-    if (!f.endsWith(".json") || f.endsWith("index.json")) continue;
-    const rows = JSON.parse(readFileSync(path.join(dir, f), "utf-8")) as SchemeRecord[];
+    // only scheme-record arrays: skip index files and the scheme→guide map (an object)
+    if (!f.endsWith(".json") || f.endsWith("index.json") || f === "scheme-guide-map.json") continue;
+    const rows = JSON.parse(readFileSync(path.join(dir, f), "utf-8"));
+    if (!Array.isArray(rows)) continue; // defensive: ignore any non-array json
     if (f === "myscheme.json") myscheme = rows;
     else curated.push(...rows);
   }
