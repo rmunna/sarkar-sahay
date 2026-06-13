@@ -1,0 +1,32 @@
+{
+  "slug": "apy",
+  "name": "Atal Pension Yojana",
+  "shortTitle": "APY",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Financial Service",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Atal Pension Yojana (APY) is a voluntary retirement scheme for savings-account holders aged 18–40 (who are not income-tax payers), giving a guaranteed monthly pension of ₹1,000–₹5,000 from age 60.",
+  "descriptionMd": "Atal Pension Yojana (APY) is an old-age income-security scheme aimed mainly at workers in the unorganised sector — the poor and under-privileged. It lets a savings-account holder aged **18 to 40** save a small amount each month during their working years in exchange for a **guaranteed monthly pension from the age of 60**. The exact pension depends on the amount you contribute and the age at which you join, as set out in the official APY contribution chart.",
+  "benefitsMd": "From the age of 60, an APY subscriber receives three guarantees:\n\n- **Guaranteed monthly pension:** a fixed pension of **₹1,000, ₹2,000, ₹3,000, ₹4,000 or ₹5,000 per month** (depending on your chosen plan), payable for life.\n- **Pension for the spouse:** after the subscriber's death, the spouse continues to receive the same monthly pension for life.\n- **Corpus for the nominee:** after both the subscriber and spouse have passed away, the accumulated pension corpus is returned to the nominee.",
+  "eligibilityMd": "- You must be **between 18 and 40 years old** to join, and you start receiving the pension at **age 60**.\n- You need a **savings bank account**; contributions are collected by **auto-debit** on a monthly, quarterly or half-yearly basis and continue until you turn 60.\n- **From 1 October 2022, anyone who is or has been an income-tax payer is not eligible** to join APY.",
+  "exclusionsMd": "Since **1 October 2022**, any citizen who is, or has previously been, an income-tax payer cannot join APY.",
+  "applicationMode": "Online",
+  "applicationMd": "You can enrol online in one of two ways.\n\n### Through your bank's net banking\n**Step 1:** Log in to your internet-banking account and search for **APY** on the dashboard.\n**Step 2:** Fill in your basic and nominee details.\n**Step 3:** Give consent for the monthly contribution to be auto-debited, and submit the form.\n\n### Through the eNPS portal\n**Step 1:** Visit the eNPS website ([enps.nsdl.com](https://enps.nsdl.com/eNPS/NationalPensionSystem.html)) and select **'Atal Pension Yojana'**, then **'APY Registration'**.\n**Step 2:** Fill in your basic details and complete KYC — for example, by verifying your **Aadhaar**.\n**Step 3:** Add nominee details, authorise the auto-debit and submit.",
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": " https://jansuraksha.gov.in/Files/APY/ENGLISH/APY.pdf "
+    },
+    {
+      "title": "APY Subscriber Contribution Chart",
+      "url": "https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY_Subscribers_Contribution_Chart_1.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

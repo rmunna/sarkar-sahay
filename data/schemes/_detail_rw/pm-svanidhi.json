@@ -1,0 +1,56 @@
+{
+  "slug": "pm-svanidhi",
+  "name": "PM Street Vendor’s AtmaNirbhar Nidhi (PM SVANidhi)",
+  "shortTitle": "PM SVANIDHI",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Housing & Urban Affairs",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "PM SVANidhi gives street vendors collateral-free working-capital loans — starting at ₹15,000 and rising to ₹25,000 and ₹50,000 — with a 7% interest subsidy and cashback on digital payments.",
+  "descriptionMd": "PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi) is a central scheme of the Ministry of Housing & Urban Affairs, launched on 1 June 2020 to help street vendors restart and grow their businesses. It offers **collateral-free working-capital loans**, an interest subsidy, and rewards for going digital, while helping bring vendors — hawkers, thelewalas, rehriwalas and other small sellers — into the formal economy.",
+  "benefitsMd": "### Working-capital loan\n- **1st loan:** up to **₹15,000**, repayable within 12 months.\n- **2nd loan:** up to **₹25,000**, repayable within 18 months.\n- **3rd loan:** up to **₹50,000**, repayable within 36 months.\n- Each higher loan unlocks on timely or early repayment of the previous one, and there is **no prepayment penalty**.\n\n### Interest subsidy\n- A **7% per year** interest subsidy on the loan, credited to your bank account every quarter.\n- Available only on standard (non-NPA) accounts, and valid up to **31 March 2033**.\n\n### Digital-transaction cashback\n- Earn cashback of **up to ₹100 a month** for accepting digital payments.\n\nThe scheme also comes with credit-guarantee support for the lending banks.",
+  "eligibilityMd": "The scheme is for street vendors who fall into any of these groups:\n\n- Vendors holding a **Certificate of Vending or Identity Card** issued by an Urban Local Body (ULB).\n- Vendors identified in the ULB survey but **not yet issued** a Certificate of Vending / ID Card.\n- Vendors left out of the survey, or who started vending after it, who hold a **Letter of Recommendation (LoR)** from the ULB or Town Vending Committee (TVC).\n- Vendors from surrounding peri-urban or rural areas who sell within the ULB's limits and hold an **LoR** from the ULB / TVC.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Go to the official portal at [pmsvanidhi.mohua.gov.in](https://pmsvanidhi.mohua.gov.in/) and click **'Log In'**.\n**Step 2:** Enter your **mobile number** and the captcha, then request an **OTP**.\n**Step 3:** After logging in, select your **vendor category** and enter your **Survey Reference Number (SRN)**, which is mandatory.\n**Step 4:** Complete the application form online, upload the required documents and submit.\n\nFor a detailed walkthrough, the portal also provides a step-by-step user manual.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://pmsvanidhi.mohua.gov.in/Default/ViewFile/?id=Scheme+Guidelines.pdf&path=MiscFiles"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://mohua.gov.in/pm_svandhi/FAQ.pdf"
+    },
+    {
+      "title": "Offline Application Form",
+      "url": "https://www.pmsvanidhi.mohua.gov.in/Default/ViewFile/?id=PM+SVANidhi+LAF.pdf&path=MiscFiles"
+    },
+    {
+      "title": "Check Application Status",
+      "url": "https://pmsvanidhi.mohua.gov.in/Schemes/SearchVendor  "
+    },
+    {
+      "title": "User Manuals For Applicant",
+      "url": "https://pmsvanidhi.mohua.gov.in/Schemes/UserManual"
+    },
+    {
+      "title": "Pre-Application Steps",
+      "url": "https://pmsvanidhi.mohua.gov.in/Default/ViewFile/?id=FAQEng.pdf&path=MiscFiles"
+    },
+    {
+      "title": "Helpdesk",
+      "url": "https://pmsvanidhi.mohua.gov.in/Home/Contact"
+    },
+    {
+      "title": "Application Submission/Log In",
+      "url": "https://pmsvanidhi.mohua.gov.in/Login"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

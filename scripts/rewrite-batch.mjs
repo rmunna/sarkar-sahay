@@ -1,10 +1,11 @@
 #!/usr/bin/env node
 /**
- * Hand-written original rewrites of the highest-traffic scheme prose, to de-dupe
- * from myScheme's verbatim text (Google scaled-content risk). Keeps every fact;
- * only the wording/structure is ours. Reads the raw _detail/<msSlug>.json for
- * metadata + references, overrides the prose fields, writes _detail_rw/<msSlug>.json.
- * Reversible: delete the _rw file to fall back to raw myScheme content.
+ * Hand-written original rewrites of high-traffic scheme prose, to de-dupe from
+ * myScheme's verbatim text. Every fact/number/step preserved; wording is ours.
+ * Reads raw _detail/<msSlug>.json for metadata + references, overrides the prose
+ * fields, writes _detail_rw/<msSlug>.json. Reversible: delete the _rw file.
+ *
+ * Append new batches to REWRITES over time; re-running is idempotent.
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -47,6 +48,51 @@ const REWRITES = {
     benefitsMd: "- **Cashless cover of up to ₹5,00,000 per family per year** for hospitalisation.\n- Covers the full treatment chain — consultation, medicines, diagnostics, surgery, ICU, implants, room and food.\n- Includes **3 days of pre-hospitalisation** and **15 days of post-hospitalisation** expenses.\n- Covers complications that arise during treatment.\n- **Pre-existing conditions are covered from day one.**\n- **No cap on family size, age or gender** — every eligible member is covered.",
     eligibilityMd: "Eligibility is based on the deprivation and occupational categories of the SECC database, so there is **no enrolment fee or age limit**.\n\nIn **rural areas**, families qualify if they fall under the SECC deprivation criteria, along with automatic inclusion for the most vulnerable — the destitute or those surviving on alms, manual scavenger households, primitive tribal groups, and legally released bonded labourers. Eligible **urban** households are identified through their occupational category. You can check your eligibility on the PM-JAY portal or at any empanelled hospital.",
     applicationMd: "There is no separate online application — identification is done with help from an **Arogya Mitra** at any empanelled hospital or Common Service Centre (CSC):\n\n**Step 1:** Submit your PM letter / RSBY URN / ration card number / mobile number. The operator searches the beneficiary list using these details.\n**Step 2:** The operator searches the BIS application against the SECC, RSBY and state health-scheme databases.\n**Step 3:** **Individual identification** — your Aadhaar or government ID and ration card (or family ID) are verified and scanned.\n**Step 4:** **Family identification** — family records are confirmed through the ration card, and the documents are uploaded and submitted for approval.\n**Step 5:** The trust or insurance company **approves or recommends rejection**; rejections are finally decided by the State Health Agency (SHA).\n**Step 6:** Once approved, your **e-card is issued** and you can avail cashless treatment.",
+  },
+
+  "pm-svanidhi": {
+    briefDescription: "PM SVANidhi gives street vendors collateral-free working-capital loans — starting at ₹15,000 and rising to ₹25,000 and ₹50,000 — with a 7% interest subsidy and cashback on digital payments.",
+    descriptionMd: "PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi) is a central scheme of the Ministry of Housing & Urban Affairs, launched on 1 June 2020 to help street vendors restart and grow their businesses. It offers **collateral-free working-capital loans**, an interest subsidy, and rewards for going digital, while helping bring vendors — hawkers, thelewalas, rehriwalas and other small sellers — into the formal economy.",
+    benefitsMd: "### Working-capital loan\n- **1st loan:** up to **₹15,000**, repayable within 12 months.\n- **2nd loan:** up to **₹25,000**, repayable within 18 months.\n- **3rd loan:** up to **₹50,000**, repayable within 36 months.\n- Each higher loan unlocks on timely or early repayment of the previous one, and there is **no prepayment penalty**.\n\n### Interest subsidy\n- A **7% per year** interest subsidy on the loan, credited to your bank account every quarter.\n- Available only on standard (non-NPA) accounts, and valid up to **31 March 2033**.\n\n### Digital-transaction cashback\n- Earn cashback of **up to ₹100 a month** for accepting digital payments.\n\nThe scheme also comes with credit-guarantee support for the lending banks.",
+    eligibilityMd: "The scheme is for street vendors who fall into any of these groups:\n\n- Vendors holding a **Certificate of Vending or Identity Card** issued by an Urban Local Body (ULB).\n- Vendors identified in the ULB survey but **not yet issued** a Certificate of Vending / ID Card.\n- Vendors left out of the survey, or who started vending after it, who hold a **Letter of Recommendation (LoR)** from the ULB or Town Vending Committee (TVC).\n- Vendors from surrounding peri-urban or rural areas who sell within the ULB's limits and hold an **LoR** from the ULB / TVC.",
+    exclusionsMd: "",
+    applicationMd: "**Step 1:** Go to the official portal at [pmsvanidhi.mohua.gov.in](https://pmsvanidhi.mohua.gov.in/) and click **'Log In'**.\n**Step 2:** Enter your **mobile number** and the captcha, then request an **OTP**.\n**Step 3:** After logging in, select your **vendor category** and enter your **Survey Reference Number (SRN)**, which is mandatory.\n**Step 4:** Complete the application form online, upload the required documents and submit.\n\nFor a detailed walkthrough, the portal also provides a step-by-step user manual.",
+  },
+
+  "apy": {
+    briefDescription: "Atal Pension Yojana (APY) is a voluntary retirement scheme for savings-account holders aged 18–40 (who are not income-tax payers), giving a guaranteed monthly pension of ₹1,000–₹5,000 from age 60.",
+    descriptionMd: "Atal Pension Yojana (APY) is an old-age income-security scheme aimed mainly at workers in the unorganised sector — the poor and under-privileged. It lets a savings-account holder aged **18 to 40** save a small amount each month during their working years in exchange for a **guaranteed monthly pension from the age of 60**. The exact pension depends on the amount you contribute and the age at which you join, as set out in the official APY contribution chart.",
+    benefitsMd: "From the age of 60, an APY subscriber receives three guarantees:\n\n- **Guaranteed monthly pension:** a fixed pension of **₹1,000, ₹2,000, ₹3,000, ₹4,000 or ₹5,000 per month** (depending on your chosen plan), payable for life.\n- **Pension for the spouse:** after the subscriber's death, the spouse continues to receive the same monthly pension for life.\n- **Corpus for the nominee:** after both the subscriber and spouse have passed away, the accumulated pension corpus is returned to the nominee.",
+    eligibilityMd: "- You must be **between 18 and 40 years old** to join, and you start receiving the pension at **age 60**.\n- You need a **savings bank account**; contributions are collected by **auto-debit** on a monthly, quarterly or half-yearly basis and continue until you turn 60.\n- **From 1 October 2022, anyone who is or has been an income-tax payer is not eligible** to join APY.",
+    exclusionsMd: "Since **1 October 2022**, any citizen who is, or has previously been, an income-tax payer cannot join APY.",
+    applicationMd: "You can enrol online in one of two ways.\n\n### Through your bank's net banking\n**Step 1:** Log in to your internet-banking account and search for **APY** on the dashboard.\n**Step 2:** Fill in your basic and nominee details.\n**Step 3:** Give consent for the monthly contribution to be auto-debited, and submit the form.\n\n### Through the eNPS portal\n**Step 1:** Visit the eNPS website ([enps.nsdl.com](https://enps.nsdl.com/eNPS/NationalPensionSystem.html)) and select **'Atal Pension Yojana'**, then **'APY Registration'**.\n**Step 2:** Fill in your basic details and complete KYC — for example, by verifying your **Aadhaar**.\n**Step 3:** Add nominee details, authorise the auto-debit and submit.",
+  },
+
+  "pmjjby": {
+    briefDescription: "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) is a renewable one-year life-insurance cover of ₹2 lakh for bank/post-office account holders aged 18–50, for a premium of ₹436 a year.",
+    descriptionMd: "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) is a low-cost life-insurance scheme that pays out on death due to **any cause**. It is a one-year term cover that renews every year, offered through participating banks and post offices and backed by life-insurance companies. Any account holder of a participating bank or post office aged **18 to 50** can join.",
+    benefitsMd: "- **Life cover of ₹2 lakh** for one year, payable to your nominee on death due to **any reason**.\n- The cover renews from year to year.\n- The premium is just **₹436 per year** per member, auto-debited from your bank or post-office account.",
+    eligibilityMd: "- You must be **between 18 and 50 years old**.\n- You must hold an **individual bank or post-office account** and agree to the annual auto-debit of the premium.",
+    exclusionsMd: "",
+    applicationMd: "PMJJBY is enrolled offline through your bank or post office:\n\n**Step 1:** Download and print the **Consent-cum-Declaration form** from the official Jansuraksha portal.\n**Step 2:** Fill in and sign the form, attach self-attested copies of the required documents, and submit it to the authorised official at your bank or post office.\n**Step 3:** The official will hand you the **Acknowledgement Slip Cum Certificate of Insurance** as proof of cover.",
+  },
+
+  "pmsby": {
+    briefDescription: "Pradhan Mantri Suraksha Bima Yojana (PMSBY) is an accident-insurance cover of up to ₹2 lakh for bank account holders aged 18–70, for a premium of just ₹20 a year.",
+    descriptionMd: "Pradhan Mantri Suraksha Bima Yojana (PMSBY) is an affordable accident-insurance scheme covering **accidental death and disability**. For a premium of just **₹20 a year**, auto-debited from your bank or post-office account on or before 1 June each year, you get one year of cover running from **1 June to 31 May**.",
+    benefitsMd: "The cover pays out as follows:\n\n- **Accidental death:** ₹2 lakh to the nominee.\n- **Total and permanent disability** — loss of both eyes, both hands or feet, or sight of one eye plus loss of a hand or foot: **₹2 lakh**.\n- **Partial permanent disability** — loss of sight of one eye, or loss of use of one hand or foot: **₹1 lakh**.",
+    eligibilityMd: "- Individual **bank account holders aged 18 to 70** of participating banks can join by giving consent and enabling the annual auto-debit.\n- The cover ends when the member turns **70**, or if the bank account is closed.",
+    exclusionsMd: "",
+    applicationMd: "PMSBY is enrolled offline:\n\n**Step 1:** Visit the bank branch where you hold a savings account, or download the form from the official Jansuraksha portal ([jansuraksha.gov.in](https://jansuraksha.gov.in/Forms-PMSBY.aspx)).\n**Step 2:** Fill in the form and submit it to the bank along with the required documents.\n**Step 3:** Once enrolled, you receive an **Acknowledgement Slip Cum Certificate of Insurance**.",
+  },
+
+  "pmuy": {
+    briefDescription: "Pradhan Mantri Ujjwala Yojana (PMUY) gives women from poor households a free LPG connection, along with a free first refill and stove.",
+    descriptionMd: "Pradhan Mantri Ujjwala Yojana (PMUY) is a scheme of the Ministry of Petroleum & Natural Gas that provides **deposit-free LPG connections to women from poor households** who do not already have one. By replacing firewood, coal and cow-dung cakes with clean cooking gas, it protects the health of rural women and reduces household pollution. Under Ujjwala 2.0, priority goes to states whose LPG coverage was below the national average as on 1 January 2016.",
+    benefitsMd: "- A **deposit-free LPG connection** worth **₹1,600** for a 14.2 kg cylinder, or **₹1,150** for a 5 kg cylinder.\n- Every beneficiary also gets a **free first refill** and a **free stove (hot plate)** along with the connection.",
+    eligibilityMd: "The applicant must be an **adult woman from a poor household that does not already have an LPG connection**, falling into any of these categories:\n\n- Listed in the **SECC 2011** data.\n- Belonging to **SC/ST households**, or a beneficiary of PMAY (Gramin), Antyodaya Anna Yojana (AAY); forest dwellers, Most Backward Classes (MBC), tea and ex-tea garden tribes, or people living on river islands (with supporting documents).\n- If none of the above applies, she can still claim eligibility as a **poor household** by submitting the 14-point declaration.",
+    exclusionsMd: "A male member of a household cannot apply for the connection — the scheme is in the woman's name.",
+    applicationMd: "Before you start, keep ready your **Aadhaar card, ration card, address proof, a passport-size photo and bank details**.\n\n**Step 1:** Apply online on the official portal ([pmuy.gov.in](https://www.pmuy.gov.in)).\n**Step 2:** Choose the gas company — Indane, Bharatgas or HP Gas.\n**Step 3:** Select the connection type, e.g. **Ujjwala 2.0 New Connection**, and choose your state, district and distributor.\n**Step 4:** Enter your mobile number, captcha and OTP, and indicate whether you are a migrant family.\n**Step 5:** Provide your family identifier — a ration card if you have one, or Annexure 1 if you do not — then select your category and complete the form.",
   },
 };
 

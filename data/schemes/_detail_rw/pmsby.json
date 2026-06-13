@@ -1,0 +1,28 @@
+{
+  "slug": "pmsby",
+  "name": "Pradhan Mantri Suraksha Bima Yojana",
+  "shortTitle": "PMSBY",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Financial Service",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "All"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Pradhan Mantri Suraksha Bima Yojana (PMSBY) is an accident-insurance cover of up to ₹2 lakh for bank account holders aged 18–70, for a premium of just ₹20 a year.",
+  "descriptionMd": "Pradhan Mantri Suraksha Bima Yojana (PMSBY) is an affordable accident-insurance scheme covering **accidental death and disability**. For a premium of just **₹20 a year**, auto-debited from your bank or post-office account on or before 1 June each year, you get one year of cover running from **1 June to 31 May**.",
+  "benefitsMd": "The cover pays out as follows:\n\n- **Accidental death:** ₹2 lakh to the nominee.\n- **Total and permanent disability** — loss of both eyes, both hands or feet, or sight of one eye plus loss of a hand or foot: **₹2 lakh**.\n- **Partial permanent disability** — loss of sight of one eye, or loss of use of one hand or foot: **₹1 lakh**.",
+  "eligibilityMd": "- Individual **bank account holders aged 18 to 70** of participating banks can join by giving consent and enabling the annual auto-debit.\n- The cover ends when the member turns **70**, or if the bank account is closed.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "PMSBY is enrolled offline:\n\n**Step 1:** Visit the bank branch where you hold a savings account, or download the form from the official Jansuraksha portal ([jansuraksha.gov.in](https://jansuraksha.gov.in/Forms-PMSBY.aspx)).\n**Step 2:** Fill in the form and submit it to the bank along with the required documents.\n**Step 3:** Once enrolled, you receive an **Acknowledgement Slip Cum Certificate of Insurance**.",
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "https://jansuraksha.gov.in/Files/PMSBY/English/Rules.pdf "
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

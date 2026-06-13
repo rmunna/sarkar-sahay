@@ -1,0 +1,37 @@
+{
+  "slug": "pmuy",
+  "name": "Pradhan Mantri Ujjwala Yojana",
+  "shortTitle": "PMUY",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Petroleum and Natural Gas",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family",
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "Pradhan Mantri Ujjwala Yojana (PMUY) gives women from poor households a free LPG connection, along with a free first refill and stove.",
+  "descriptionMd": "Pradhan Mantri Ujjwala Yojana (PMUY) is a scheme of the Ministry of Petroleum & Natural Gas that provides **deposit-free LPG connections to women from poor households** who do not already have one. By replacing firewood, coal and cow-dung cakes with clean cooking gas, it protects the health of rural women and reduces household pollution. Under Ujjwala 2.0, priority goes to states whose LPG coverage was below the national average as on 1 January 2016.",
+  "benefitsMd": "- A **deposit-free LPG connection** worth **₹1,600** for a 14.2 kg cylinder, or **₹1,150** for a 5 kg cylinder.\n- Every beneficiary also gets a **free first refill** and a **free stove (hot plate)** along with the connection.",
+  "eligibilityMd": "The applicant must be an **adult woman from a poor household that does not already have an LPG connection**, falling into any of these categories:\n\n- Listed in the **SECC 2011** data.\n- Belonging to **SC/ST households**, or a beneficiary of PMAY (Gramin), Antyodaya Anna Yojana (AAY); forest dwellers, Most Backward Classes (MBC), tea and ex-tea garden tribes, or people living on river islands (with supporting documents).\n- If none of the above applies, she can still claim eligibility as a **poor household** by submitting the 14-point declaration.",
+  "exclusionsMd": "A male member of a household cannot apply for the connection — the scheme is in the woman's name.",
+  "applicationMode": "Online",
+  "applicationMd": "Before you start, keep ready your **Aadhaar card, ration card, address proof, a passport-size photo and bank details**.\n\n**Step 1:** Apply online on the official portal ([pmuy.gov.in](https://www.pmuy.gov.in)).\n**Step 2:** Choose the gas company — Indane, Bharatgas or HP Gas.\n**Step 3:** Select the connection type, e.g. **Ujjwala 2.0 New Connection**, and choose your state, district and distributor.\n**Step 4:** Enter your mobile number, captcha and OTP, and indicate whether you are a migrant family.\n**Step 5:** Provide your family identifier — a ration card if you have one, or Annexure 1 if you do not — then select your category and complete the form.",
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "http://nadia.gov.in/DISHA/DISHASchemeGuidelines/Pradhan%20Mantri%20UJJWALA%20Yojna%20Guideline.pdf "
+    },
+    {
+      "title": "Additional Guidelines",
+      "url": "https://www.pmuy.gov.in/index.aspx"
+    },
+    {
+      "title": "Additional Guidelines",
+      "url": "https://mopng.gov.in/en/marketing/pmuy"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

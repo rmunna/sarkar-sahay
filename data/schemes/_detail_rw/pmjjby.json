@@ -1,0 +1,28 @@
+{
+  "slug": "pmjjby",
+  "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+  "shortTitle": "PMJJBY",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Financial Service",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) is a renewable one-year life-insurance cover of ₹2 lakh for bank/post-office account holders aged 18–50, for a premium of ₹436 a year.",
+  "descriptionMd": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) is a low-cost life-insurance scheme that pays out on death due to **any cause**. It is a one-year term cover that renews every year, offered through participating banks and post offices and backed by life-insurance companies. Any account holder of a participating bank or post office aged **18 to 50** can join.",
+  "benefitsMd": "- **Life cover of ₹2 lakh** for one year, payable to your nominee on death due to **any reason**.\n- The cover renews from year to year.\n- The premium is just **₹436 per year** per member, auto-debited from your bank or post-office account.",
+  "eligibilityMd": "- You must be **between 18 and 50 years old**.\n- You must hold an **individual bank or post-office account** and agree to the annual auto-debit of the premium.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "PMJJBY is enrolled offline through your bank or post office:\n\n**Step 1:** Download and print the **Consent-cum-Declaration form** from the official Jansuraksha portal.\n**Step 2:** Fill in and sign the form, attach self-attested copies of the required documents, and submit it to the authorised official at your bank or post office.\n**Step 3:** The official will hand you the **Acknowledgement Slip Cum Certificate of Insurance** as proof of cover.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jansuraksha.gov.in/Files/PMJJBY/English/Rules.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}
