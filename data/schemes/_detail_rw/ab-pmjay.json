@@ -1,0 +1,44 @@
+{
+  "slug": "ab-pmjay",
+  "name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana",
+  "shortTitle": "AB-PMJAY",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Health and Family Welfare",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Ayushman Bharat PM-JAY gives eligible poor and vulnerable families cashless health cover of up to ₹5 lakh per family per year at empanelled hospitals.",
+  "descriptionMd": "Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (AB PM-JAY) is the world's largest health-assurance scheme, run by the Department of Health & Family Welfare. It provides eligible low-income families in both rural and urban areas with **cashless hospital cover of up to ₹5 lakh per family per year**, so that a medical emergency does not push a family into debt. Care is delivered at empanelled public and private hospitals across the country.",
+  "benefitsMd": "- **Cashless cover of up to ₹5,00,000 per family per year** for hospitalisation.\n- Covers the full treatment chain — consultation, medicines, diagnostics, surgery, ICU, implants, room and food.\n- Includes **3 days of pre-hospitalisation** and **15 days of post-hospitalisation** expenses.\n- Covers complications that arise during treatment.\n- **Pre-existing conditions are covered from day one.**\n- **No cap on family size, age or gender** — every eligible member is covered.",
+  "eligibilityMd": "Eligibility is based on the deprivation and occupational categories of the SECC database, so there is **no enrolment fee or age limit**.\n\nIn **rural areas**, families qualify if they fall under the SECC deprivation criteria, along with automatic inclusion for the most vulnerable — the destitute or those surviving on alms, manual scavenger households, primitive tribal groups, and legally released bonded labourers. Eligible **urban** households are identified through their occupational category. You can check your eligibility on the PM-JAY portal or at any empanelled hospital.",
+  "exclusionsMd": "1. Those who own a two, three, or four-wheeler or a motorized fishing boat.\n1. Those who own mechanized farming equipment.\n1. Those who have Kisan cards with a credit limit of ₹50,000/-.\n1. Those employed by the government.\n1. Those who work in government-managed non-agricultural enterprises.\n1. Those earning a monthly income above ₹10,000/-.\n1. Those owning refrigerators and landlines.\n1. Those with decent, solidly built houses.\n1. Those owning 5 acres or more of agricultural land.\n\n<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "There is no separate online application — identification is done with help from an **Arogya Mitra** at any empanelled hospital or Common Service Centre (CSC):\n\n**Step 1:** Submit your PM letter / RSBY URN / ration card number / mobile number. The operator searches the beneficiary list using these details.\n**Step 2:** The operator searches the BIS application against the SECC, RSBY and state health-scheme databases.\n**Step 3:** **Individual identification** — your Aadhaar or government ID and ration card (or family ID) are verified and scanned.\n**Step 4:** **Family identification** — family records are confirmed through the ration card, and the documents are uploaded and submitted for approval.\n**Step 5:** The trust or insurance company **approves or recommends rejection**; rejections are finally decided by the State Health Agency (SHA).\n**Step 6:** Once approved, your **e-card is issued** and you can avail cashless treatment.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.pmjay.gov.in/about/pmjay"
+    },
+    {
+      "title": "Guidelines For Beneficiary Identification",
+      "url": "https://sha.uk.gov.in//ScannedDocs/WebSite/Uploads/BIS/beneficiary-identification-guidelineson-6-5-19.pdf"
+    },
+    {
+      "title": "Guidelines On Payment For Special Cases",
+      "url": "https://pmjay.gov.in/sites/default/files/2020-05/NHA-Guidelines-for-Special-Cases-vFinal_0.pdf"
+    },
+    {
+      "title": "Guidelines On Claim Settlement",
+      "url": "https://www.pmjay.gov.in/sites/default/files/2018-07/GuidelinesonClaimSettlement_0.pdf"
+    },
+    {
+      "title": "UMANG",
+      "url": "https://web.umang.gov.in/landing/department/pradhan-mantri-jan-arogya-yojana.html"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

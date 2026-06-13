@@ -1,110 +1,119 @@
 {
-  "scanTime": "2026-06-13T07:46:14.010Z",
-  "elapsedSeconds": 41.4,
-  "changesDetected": 12,
-  "noiseDetected": 1,
+  "scanTime": "2026-06-13T08:09:35.052Z",
+  "elapsedSeconds": 52.4,
+  "changesDetected": 15,
+  "noiseDetected": 2,
   "changes": [
     {
       "site": "SBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-06-13T07:45:37.714Z"
+      "detectedAt": "2026-06-13T08:08:51.456Z"
+    },
+    {
+      "site": "RBI Careers",
+      "type": "TEXT_NOTICE",
+      "url": "https://opportunities.rbi.org.in/",
+      "detectedAt": "2026-06-13T08:08:50.012Z"
+    },
+    {
+      "site": "Indian Army",
+      "type": "TEXT_NOTICE",
+      "url": "https://joinindianarmy.nic.in/",
+      "detectedAt": "2026-06-13T08:08:50.457Z"
+    },
+    {
+      "site": "Indian Navy",
+      "type": "TEXT_NOTICE",
+      "url": "https://www.joinindiannavy.gov.in/",
+      "detectedAt": "2026-06-13T08:08:50.688Z"
     },
     {
       "site": "CISF",
       "type": "TEXT_NOTICE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-13T07:45:42.850Z"
+      "detectedAt": "2026-06-13T08:09:02.653Z"
     },
     {
       "site": "BSF",
       "type": "TEXT_NOTICE",
       "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-06-13T07:45:42.618Z"
+      "detectedAt": "2026-06-13T08:09:02.850Z"
     },
     {
       "site": "KVS",
       "type": "TEXT_NOTICE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-13T07:45:47.355Z"
+      "detectedAt": "2026-06-13T08:09:06.304Z"
     },
     {
       "site": "NVS (Navodaya)",
       "type": "TEXT_NOTICE",
       "url": "https://navodaya.gov.in/",
-      "detectedAt": "2026-06-13T07:45:45.366Z"
+      "detectedAt": "2026-06-13T08:09:07.722Z"
     },
     {
       "site": "UPPSC",
       "type": "TEXT_NOTICE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-13T07:45:48.866Z"
+      "detectedAt": "2026-06-13T08:09:10.588Z"
     },
     {
       "site": "RPSC",
       "type": "TEXT_NOTICE",
       "url": "https://rpsc.rajasthan.gov.in/",
-      "detectedAt": "2026-06-13T07:45:48.388Z"
+      "detectedAt": "2026-06-13T08:09:10.314Z"
     },
     {
       "site": "TNPSC",
       "type": "TEXT_NOTICE",
       "url": "https://www.tnpsc.gov.in/",
-      "detectedAt": "2026-06-13T07:45:48.792Z"
+      "detectedAt": "2026-06-13T08:09:10.080Z"
     },
     {
       "site": "GPSC",
       "type": "TEXT_NOTICE",
       "url": "https://gpsc.gujarat.gov.in/",
-      "detectedAt": "2026-06-13T07:45:54.621Z"
+      "detectedAt": "2026-06-13T08:09:15.720Z"
     },
     {
       "site": "HPSC",
       "type": "TEXT_NOTICE",
       "url": "https://www.hpsc.gov.in/",
-      "detectedAt": "2026-06-13T07:45:54.748Z"
+      "detectedAt": "2026-06-13T08:09:16.991Z"
     },
     {
       "site": "DSSSB",
       "type": "TEXT_NOTICE",
       "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-06-13T07:45:59.633Z"
+      "detectedAt": "2026-06-13T08:09:20.623Z"
     },
     {
       "site": "UP Board",
       "type": "TEXT_NOTICE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-13T07:46:00.058Z"
+      "detectedAt": "2026-06-13T08:09:20.439Z"
     }
   ],
   "noiseChanges": [
     {
-      "site": "RBI Careers",
+      "site": "NABARD",
       "type": "CONTENT_CHANGE",
-      "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-13T07:45:36.992Z"
+      "url": "https://www.nabard.org/career-notices.aspx",
+      "detectedAt": "2026-06-13T08:08:51.928Z"
+    },
+    {
+      "site": "KPSC/KEA",
+      "type": "CONTENT_CHANGE",
+      "url": "https://cetonline.karnataka.gov.in/kea/",
+      "detectedAt": "2026-06-13T08:09:14.313Z"
     }
   ],
-  "errors": 13,
+  "errors": 10,
   "errorDetails": [
-    {
-      "site": "NABARD",
-      "url": "https://www.nabard.org/career-notices.aspx",
-      "error": "Timeout"
-    },
     {
       "site": "RRB (Railway)",
       "url": "https://www.rrbcdg.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "Indian Army",
-      "url": "https://joinindianarmy.nic.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "Indian Navy",
-      "url": "https://www.joinindiannavy.gov.in/",
       "error": "Timeout"
     },
     {

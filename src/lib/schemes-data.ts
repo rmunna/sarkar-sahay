@@ -120,10 +120,16 @@ export interface SchemeFullDetail {
  * translated set (_detail_hi, etc.). Present only for ingested schemes. */
 export function getSchemeDetail(msSlug: string, lang = "en"): SchemeFullDetail | null {
   if (!msSlug) return null;
-  const dir = lang === "en" ? "_detail" : `_detail_${lang}`;
-  const f = path.join(DATA_DIR(), dir, `${msSlug}.json`);
-  if (!existsSync(f)) return null;
-  try { return JSON.parse(readFileSync(f, "utf-8")) as SchemeFullDetail; } catch { return null; }
+  // For English, prefer our rewritten prose (_detail_rw) over the raw myScheme
+  // dump (_detail) where it exists — same shape, original wording. Raw stays the
+  // source of truth and is re-ingestable; delete the _rw file to revert.
+  const dirs = lang === "en" ? ["_detail_rw", "_detail"] : [`_detail_${lang}`];
+  for (const dir of dirs) {
+    const f = path.join(DATA_DIR(), dir, `${msSlug}.json`);
+    if (!existsSync(f)) continue;
+    try { return JSON.parse(readFileSync(f, "utf-8")) as SchemeFullDetail; } catch { /* try next */ }
+  }
+  return null;
 }
 
 /** A scheme is "rich enough to index" when it has real benefit + eligibility

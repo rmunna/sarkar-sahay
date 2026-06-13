@@ -1,0 +1,41 @@
+{
+  "slug": "pm-kisan",
+  "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+  "shortTitle": "PM-KISAN",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Agriculture and Cooperation",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "PM-KISAN is a central government scheme that pays eligible land-owning farmer families ₹6,000 a year, in three instalments, directly to their bank accounts.",
+  "descriptionMd": "PM-KISAN is a central-sector income-support scheme run by the Department of Agriculture & Farmers Welfare. It gives every eligible land-owning farmer family a fixed yearly cash benefit to help meet the cost of seeds, fertiliser and other farming inputs. The money is paid straight into the farmer's bank account through Direct Benefit Transfer (DBT), so the full amount reaches the beneficiary with no middlemen and no deductions.",
+  "benefitsMd": "- **₹6,000 every year**, released in **three equal instalments of ₹2,000**, roughly once every four months.\n- Paid directly to your bank account by **Direct Benefit Transfer (DBT)** — no agents, no cuts.\n- Meant to ease the cost of crop inputs and routine family needs across the farming cycle.",
+  "eligibilityMd": "You qualify if your family **owns cultivable agricultural land recorded in your name**. Here a 'family' means the husband, wife and their minor children, and the benefit is paid **per family** rather than per individual landholder.",
+  "exclusionsMd": "Several higher-income groups are excluded even if they own farmland. You are **not** eligible if you — or any member of your family — fall under any of the following:\n\n- Institutional land holders.\n- Current or former holders of constitutional posts.\n- Current or former Ministers, MPs, MLAs, MLCs, Mayors of Municipal Corporations, or Chairpersons of District Panchayats.\n- Serving or retired officers and employees of central/state government departments, PSUs and government bodies — **except** Group D / Class IV / Multi-Tasking Staff.\n- Retired pensioners drawing a monthly pension of **₹10,000 or more** (again excluding Group D / Class IV / MTS).\n- Anyone who **paid income tax** in the last assessment year.\n- Practising professionals registered with their professional bodies — doctors, engineers, lawyers, chartered accountants and architects.",
+  "applicationMode": "Online",
+  "applicationMd": "You can register yourself online in a few minutes:\n\n**Step 1:** Go to the official PM-KISAN portal at [pmkisan.gov.in](https://pmkisan.gov.in/).\n**Step 2:** Open **'New Farmer Registration'**.\n**Step 3:** Enter your **Aadhaar number** and **mobile number**.\n**Step 4:** Verify the **OTP** to authenticate your Aadhaar with UIDAI.\n**Step 5:** Fill in your land and bank details and upload the required documents.\n**Step 6:** Submit the form.\n\nAfter registering, you can check your payments any time using the **'Know Your Status'** tool on the same portal.",
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "https://pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines(English).pdf "
+    },
+    {
+      "title": "E-KYC",
+      "url": "https://pmkisan.gov.in/Documents/Note-on-Modes-and-processes-of-ekyc-13th-Nov-English.pdf"
+    },
+    {
+      "title": "New Farmer Registration Form",
+      "url": "https://pmkisan.gov.in/RegistrationFormupdated.aspx"
+    },
+    {
+      "title": "Know Your Registration",
+      "url": "https://www.pmkisan.gov.in/KnowYour_Registration.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}
