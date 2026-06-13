@@ -1,27 +1,18 @@
 {
-  "scannedAt": "2026-06-12T15:44:29.122852",
+  "scannedAt": "2026-06-13T14:32:49.526684",
   "results": [
     {
-      "topic": "bigg boss 20 contestants list",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "re-neet 2026 admit card download",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
+      "guide_exists": "jee-main-apply-admit-card-results",
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "wbjee",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "wbjee-2026-exam-guide",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "iiit results 2026 ap",
-      "category": "Realtime RSS (IN-AP)",
+      "topic": "up cnet result 2026",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -29,10 +20,10 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "mht cet 1st attempt result date 2026 pcm",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "cnet result date 2026",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
-      "guide_exists": "mht-cet-2026-exam-guide",
+      "guide_exists": null,
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -40,17 +31,17 @@
   ],
   "opportunities": [
     {
-      "topic": "bigg boss 20 contestants list",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "up cnet result 2026",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": false,
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "iiit results 2026 ap",
-      "category": "Realtime RSS (IN-AP)",
+      "topic": "cnet result date 2026",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -60,19 +51,10 @@
   ],
   "covered": [
     {
-      "topic": "wbjee",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "re-neet 2026 admit card download",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": "wbjee-2026-exam-guide",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "mht cet 1st attempt result date 2026 pcm",
-      "category": "Realtime RSS (IN-MH)",
-      "rising_value": 100,
-      "guide_exists": "mht-cet-2026-exam-guide",
+      "guide_exists": "jee-main-apply-admit-card-results",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -80,8 +62,17 @@
   ],
   "spike_candidates": [
     {
-      "topic": "iiit results 2026 ap",
-      "category": "Realtime RSS (IN-AP)",
+      "topic": "up cnet result 2026",
+      "category": "Realtime RSS (IN)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "cnet result date 2026",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
