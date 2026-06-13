@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getSchemeBySlug, getAllSchemeSlugs, getRelatedSchemes, getGuideForScheme, getSchemeDetail, isRichDetail, hasHindiScheme } from "@/lib/schemes-data";
+import { getSchemeBySlug, getAllSchemeSlugs, getRelatedSchemes, getGuideForScheme, getSchemeDetail, isRichDetail } from "@/lib/schemes-data";
 import { getGuideMeta } from "@/lib/guides";
 import { renderMarkdown } from "@/lib/markdown";
 import TOCSidebar from "@/components/TOCSidebar";
@@ -90,19 +90,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   // Index only when the page carries real content (benefits + eligibility);
   // thin/un-ingested schemes stay noindex,follow to avoid scaled-content penalty.
   const rich = isRichDetail(detail) || s.source !== "myscheme";
-  // Link to the Hindi version only when a real Hindi page exists for this scheme.
-  const hasHi = hasHindiScheme(slug);
   return {
     title,
     description,
     robots: rich ? undefined : { index: false, follow: true },
-    alternates: {
-      canonical: `https://www.citizennest.com/scheme/${slug}`,
-      ...(hasHi ? { languages: {
-        en: `https://www.citizennest.com/scheme/${slug}`,
-        hi: `https://www.citizennest.com/hi/scheme/${slug}`,
-      } } : {}),
-    },
+    alternates: { canonical: `https://www.citizennest.com/scheme/${slug}` },
     openGraph: { title, description, url: `https://www.citizennest.com/scheme/${slug}`, siteName: "CitizenNest", locale: "en_IN" },
   };
 }

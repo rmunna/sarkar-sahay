@@ -255,13 +255,6 @@ function generateMainSitemap(): string {
       changefreq: "weekly" as const,
       priority: "0.8",
     })),
-    // Hindi per-scheme pages (only those with genuinely-Hindi rich detail).
-    ...getRichHindiSchemeSlugs().map((slug) => ({
-      loc: `${BASE_URL}/hi/scheme/${slug}`,
-      lastmod: today,
-      changefreq: "monthly" as const,
-      priority: "0.6",
-    })),
     ...updates
       .filter((u) => u.status === "active")
       .map((u) => ({
