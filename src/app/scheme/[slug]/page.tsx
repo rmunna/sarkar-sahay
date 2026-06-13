@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { getSchemeBySlug, getAllSchemeSlugs, getRelatedSchemes, getGuideForScheme, getSchemeDetail, isRichDetail } from "@/lib/schemes-data";
 import { getGuideMeta } from "@/lib/guides";
 import { renderMarkdown } from "@/lib/markdown";
+import TOCSidebar from "@/components/TOCSidebar";
 
 export const dynamicParams = false;
 // Fully static: rich scheme pages serve direct from the edge (no Worker 503s),
@@ -152,7 +153,7 @@ export default async function SchemePage({ params }: Props) {
   };
 
   return (
-    <main className="max-w-3xl mx-auto px-4 py-8">
+    <main className="max-w-6xl mx-auto px-4 py-8">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
       <nav className="text-sm text-gray-500 mb-5 flex flex-wrap gap-1 items-center">
@@ -161,8 +162,10 @@ export default async function SchemePage({ params }: Props) {
         <span className="text-gray-800 line-clamp-1">{s.name}</span>
       </nav>
 
-      <h1 className="text-2xl font-bold text-gray-900">{s.name}</h1>
-      <div className="mt-2 flex flex-wrap gap-2 text-xs">
+      <div className="lg:grid lg:grid-cols-[1fr_260px] lg:gap-10">
+        <article className="min-w-0 bg-white rounded-2xl border border-gray-100 border-t-4 border-t-[#0f2744] shadow-sm px-6 py-8 sm:px-8 lg:px-10">
+      <h1 className="text-2xl md:text-3xl font-bold text-gray-900 leading-tight">{s.name}</h1>
+      <div className="mt-3 flex flex-wrap gap-2 text-xs">
         <span className="rounded-full bg-blue-50 text-blue-700 px-2.5 py-1">{where}</span>
         <span className="rounded-full bg-gray-100 text-gray-700 px-2.5 py-1">{catLabel(s.schemeCategory)}</span>
         {s.level === "central" && <span className="rounded-full bg-emerald-50 text-emerald-700 px-2.5 py-1">Central scheme</span>}
@@ -177,16 +180,16 @@ export default async function SchemePage({ params }: Props) {
         </p>
       )}
 
-      {/* On this page */}
+      {/* On this page — mobile only (desktop uses the sticky sidebar) */}
       {toc.length > 2 && (
-        <nav aria-label="On this page" className="mt-5 rounded-xl border border-gray-200 bg-gray-50/60 p-4">
-          <p className="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-2">On this page</p>
-          <ul className="flex flex-wrap gap-x-4 gap-y-1 text-sm">
+        <details className="lg:hidden mt-5 rounded-xl border border-gray-200 bg-gray-50 group">
+          <summary className="cursor-pointer px-4 py-3 text-sm font-semibold text-gray-700">On this page</summary>
+          <ul className="px-4 pb-3 space-y-1 text-sm">
             {toc.map(([id, label]) => (
               <li key={id}><a href={`#${id}`} className="text-blue-600 hover:underline">{label}</a></li>
             ))}
           </ul>
-        </nav>
+        </details>
       )}
 
       {/* About */}
@@ -318,6 +321,13 @@ export default async function SchemePage({ params }: Props) {
         Scheme information sourced from the Government of India&apos;s myScheme portal and official department sources.
         Always confirm eligibility and apply via the official scheme page. CitizenNest is an independent platform.
       </p>
+        </article>
+
+        {/* Sticky right-rail TOC (desktop), like the guides */}
+        <aside className="hidden lg:block">
+          <TOCSidebar headings={toc.map(([id, text]) => ({ id, text, level: 2 }))} />
+        </aside>
+      </div>
     </main>
   );
 }
