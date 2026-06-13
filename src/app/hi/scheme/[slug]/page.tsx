@@ -34,6 +34,17 @@ function toText(md?: string): string {
     .trim();
 }
 
+/** Force a paragraph break before each step marker ("Step N" / "चरण N") so the
+ * how-to-apply steps render as separate, scannable blocks instead of one run-on
+ * paragraph (myScheme sends them with only single newlines). */
+function normalizeSteps(md?: string): string {
+  return (md || "")
+    .replace(/\r/g, "")
+    .replace(/[ \t]*\n*[ \t]*(\**\s*(?:Step|चरण)\s*\d+\s*[:.)।])/gi, "\n\n$1")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
 /** Real, data-backed Hindi FAQs (every answer comes from the scheme's own
  * Hindi fields — no fabrication). Powers visible Q&A + FAQPage schema. */
 function buildFaqs(name: string, where: string, level: string, detail: import("@/lib/schemes-data").SchemeFullDetail | null) {
@@ -57,7 +68,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!s) return {};
   const detail = getSchemeDetail(s.msSlug ?? slug, "hi");
   const where = s.level === "state" ? stateLabel(s.state) : "भारत";
-  const title = `${s.name} — पात्रता, लाभ और आवेदन कैसे करें (${where})`;
+  // Front-load "आवेदन कैसे करें" (how to apply) + short name to survive SERP truncation.
+  const shortName = s.name.length <= 42 ? s.name : (s.name.split(/\s+[-–—:]\s*/)[0].trim() || s.name);
+  const title = `${shortName}: आवेदन कैसे करें, पात्रता और लाभ (${where})`;
   const description = (detail?.briefDescription || s.benefitSummary || `${s.name}: पात्रता, लाभ और आवेदन प्रक्रिया।`).slice(0, 160);
   const BASE_URL = "https://www.citizennest.com";
   return {
@@ -90,7 +103,7 @@ export default async function HindiSchemePage({ params }: Props) {
     renderMarkdown(detail?.benefitsMd),
     renderMarkdown(detail?.eligibilityMd),
     renderMarkdown(detail?.exclusionsMd),
-    renderMarkdown(detail?.applicationMd),
+    renderMarkdown(normalizeSteps(detail?.applicationMd)),
   ]);
   const nodalDept = detail?.nodalDept || null;
   const beneficiary = detail?.schemeFor || null;
@@ -282,7 +295,7 @@ export default async function HindiSchemePage({ params }: Props) {
               <h2 className="sec-h2">{shortName} — अक्सर पूछे जाने वाले प्रश्न</h2>
               <div className="divide-y divide-gray-100 rounded-xl border border-gray-200 bg-white">
                 {faqs.map((f, i) => (
-                  <details key={i} className="group p-4">
+                  <details key={i} open className="group p-4">
                     <summary className="cursor-pointer list-none font-medium text-gray-900 flex items-start justify-between gap-3">
                       <span>{f.q}</span>
                       <span className="text-gray-400 group-open:rotate-180 transition shrink-0">▾</span>

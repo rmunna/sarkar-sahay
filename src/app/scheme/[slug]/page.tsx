@@ -36,6 +36,18 @@ function toText(md?: string): string {
     .trim();
 }
 
+/** myScheme's "how to apply" text crams every "Step N:" onto consecutive lines
+ * with only single newlines, so Markdown renders them as ONE paragraph. Force a
+ * paragraph break before each step marker (English "Step 3" / Hindi "चरण 3") so
+ * they render as a clean, scannable list. */
+function normalizeSteps(md?: string): string {
+  return (md || "")
+    .replace(/\r/g, "")
+    .replace(/[ \t]*\n*[ \t]*(\**\s*(?:Step|चरण)\s*\d+\s*[:.)।])/gi, "\n\n$1")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
 /** Build real, data-backed FAQs from the scheme detail (no fabrication —
  * every answer comes from the scheme's own fields). Powers visible Q&A +
  * FAQPage schema, the biggest gap vs. the top-ranked guides. */
@@ -60,7 +72,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!s) return {};
   const detail = getSchemeDetail(s.msSlug ?? slug);
   const where = s.level === "state" ? stateLabel(s.state) : "India";
-  const title = `${s.name} — Eligibility, Benefits & How to Apply (${where})`;
+  // Front-load the high-intent keyword ("How to Apply") and use the short name
+  // so it survives Google's ~60-char title truncation. Full name stays in H1.
+  const shortName = s.name.length <= 42 ? s.name : (s.name.split(/\s+[-–—:]\s*/)[0].trim() || s.name);
+  const title = `${shortName}: How to Apply, Eligibility & Benefits (${where})`;
   const description = (detail?.briefDescription || s.benefitSummary || `${s.name}: eligibility, benefits and how to apply.`).slice(0, 160);
   // Index only when the page carries real content (benefits + eligibility);
   // thin/un-ingested schemes stay noindex,follow to avoid scaled-content penalty.
@@ -103,7 +118,7 @@ export default async function SchemePage({ params }: Props) {
     renderMarkdown(detail?.benefitsMd),
     renderMarkdown(detail?.eligibilityMd),
     renderMarkdown(detail?.exclusionsMd),
-    renderMarkdown(detail?.applicationMd),
+    renderMarkdown(normalizeSteps(detail?.applicationMd)),
   ]);
   const nodalDept = detail?.nodalDept || d.ministry || null;
   const beneficiary = detail?.schemeFor || d.schemeFor || null;
@@ -290,7 +305,7 @@ export default async function SchemePage({ params }: Props) {
           <h2 className="sec-h2">{shortName} — Frequently Asked Questions</h2>
           <div className="divide-y divide-gray-100 rounded-xl border border-gray-200 bg-white">
             {faqs.map((f, i) => (
-              <details key={i} className="group p-4">
+              <details key={i} open className="group p-4">
                 <summary className="cursor-pointer list-none font-medium text-gray-900 flex items-start justify-between gap-3">
                   <span>{f.q}</span>
                   <span className="text-gray-400 group-open:rotate-180 transition shrink-0">▾</span>

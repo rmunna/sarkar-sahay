@@ -1,0 +1,27 @@
+{
+  "slug": "els-nmdfc",
+  "name": "Education Loan Scheme of NMDFC",
+  "shortTitle": "ELS-NMDFC",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Minority Affairs",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "All"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "घरेलू पाठ्यक्रमों के लिए 20 लाख रुपये और क्रेडिट लाइन-1 और क्रेडिट लाइन-2 के तहत विदेशों में पाठ्यक्रमों के लिए 30 लाख रुपये तक का ऋण अल्पसंख्यक समुदायों के लाभार्थियों को क्रमशः 3 प्रतिशत और 8 प्रतिशत प्रति वर्ष की दर से दिया जाता है।",
+  "descriptionMd": "Under this scheme of NMDFC, loan is available for job oriented &#39;technical and professional courses&#39; of durations not  exceeding five years. Loan of upto ₹20,00,000/- for domestic courses &amp; ₹30,00,000/- for courses abroad under Credit  Line-1 and Credit line -2 is extended to beneficiaries belong to minority communities at 3% p.a. &amp; 8% p.a respectively. Further, concession of  3% is extended to women beneficiaries under Credit Line-2.  \n<br>",
+  "benefitsMd": "- अल्पसंख्यक समुदायों के बीच लाभार्थियों को रियायती ऋण",
+  "eligibilityMd": "क) आवेदक भारतीय होना चाहिए और छह अधिसूचित अल्पसंख्यक समुदायों (मुस्लिम, ईसाई, सिख, बौद्ध, पारसी, जैन) में से किसी एक से संबंधित होना चाहिए। क्रेडिट लाइन-1 के तहत प्रति वर्ष 3 लाख रुपये तक। क्रेडिट लाइन-2 के तहत प्रति वर्ष 8 लाख रुपये तक. ग) आवेदक को योग्यता-आधारित चयन या प्रवेश परीक्षा के माध्यम से भारत या विदेश में किसी मान्यता प्राप्त संस्थान में प्रवेश प्राप्त होना चाहिए. घ) पाठ्यक्रम तकनीकी या पेशेवर होना चाहिए, जिसकी अवधि 5 वर्ष से अधिक नहीं होनी चाहिए. ङ) आवेदक ने किसी अन्य सरकारी योजना के तहत उसी पाठ्यक्रम के लिए वित्तीय सहायता का लाभ नहीं उठाया होना चाहिए. च) शिक्षण शुल्क, छात्रावास शुल्क, किताबें, उपकरण और यात्रा (विदेश अध्ययन के लिए) के लिए ऋण स्वीकार्य है। छ) आवेदक के पास सत्यापित आय प्रमाण पत्र के साथ सह-उधारकर्ता (माता-पिता/अभिभावक) होना चाहिए। ज) आर्थिक रूप से कमजोर वर्गों की महिला छात्रों और उम्मीदवारों को वरीयता दी जाएगी",
+  "exclusionsMd": "छह अधिसूचित अल्पसंख्यक समुदायों के अलावा जिनकी वार्षिक पारिवारिक आय क्रेडिट लाइन 1 के तहत 3 लाख रुपये से अधिक और क्रेडिट लाइन 2 के तहत 8 लाख रुपये से अधिक है",
+  "applicationMode": "Offline",
+  "applicationMd": "- एन. एम. डी. एफ. सी. अपनी योजनाओं और कार्यक्रमों को संबंधित राज्य सरकारों और बैंकिंग भागीदारों द्वारा नामित राज्य चैनलाइज़िंग एजेंसियों (एस. सी. ए. सूची: www.nmdfc.org/SCA) के माध्यम से पुनर्वित्त मोड (वर्तमान में केनरा बैंक और पंजाब ग्रामीण बैंक के माध्यम से) पर लागू करता है। <बीआर>",
+  "references": [
+    {
+      "title": "NMDFC Lending Policy",
+      "url": "https://www.nmdfc.org/lendingpolicy"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}
