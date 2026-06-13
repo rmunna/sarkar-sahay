@@ -1,98 +1,92 @@
 {
-  "scanTime": "2026-06-13T04:21:40.960Z",
-  "elapsedSeconds": 43.7,
-  "changesDetected": 15,
-  "noiseDetected": 1,
+  "scanTime": "2026-06-13T05:08:29.518Z",
+  "elapsedSeconds": 52.9,
+  "changesDetected": 14,
+  "noiseDetected": 2,
   "changes": [
     {
       "site": "SBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-06-13T04:21:02.236Z"
+      "detectedAt": "2026-06-13T05:07:41.760Z"
     },
     {
       "site": "RBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-13T04:21:01.902Z"
+      "detectedAt": "2026-06-13T05:07:41.243Z"
     },
     {
       "site": "Indian Army",
       "type": "TEXT_NOTICE",
       "url": "https://joinindianarmy.nic.in/",
-      "detectedAt": "2026-06-13T04:21:02.286Z"
+      "detectedAt": "2026-06-13T05:07:41.635Z"
     },
     {
       "site": "Indian Navy",
       "type": "TEXT_NOTICE",
       "url": "https://www.joinindiannavy.gov.in/",
-      "detectedAt": "2026-06-13T04:21:02.480Z"
+      "detectedAt": "2026-06-13T05:07:42.236Z"
     },
     {
       "site": "CISF",
       "type": "TEXT_NOTICE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-13T04:21:07.382Z"
+      "detectedAt": "2026-06-13T05:07:51.640Z"
     },
     {
       "site": "BSF",
       "type": "TEXT_NOTICE",
       "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-06-13T04:21:07.269Z"
-    },
-    {
-      "site": "KVS",
-      "type": "TEXT_NOTICE",
-      "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-13T04:21:10.758Z"
+      "detectedAt": "2026-06-13T05:07:51.626Z"
     },
     {
       "site": "NVS (Navodaya)",
       "type": "TEXT_NOTICE",
       "url": "https://navodaya.gov.in/",
-      "detectedAt": "2026-06-13T04:21:10.195Z"
+      "detectedAt": "2026-06-13T05:07:54.684Z"
     },
     {
       "site": "UPPSC",
       "type": "TEXT_NOTICE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-13T04:21:15.290Z"
+      "detectedAt": "2026-06-13T05:08:03.524Z"
     },
     {
       "site": "RPSC",
       "type": "TEXT_NOTICE",
       "url": "https://rpsc.rajasthan.gov.in/",
-      "detectedAt": "2026-06-13T04:21:14.208Z"
+      "detectedAt": "2026-06-13T05:08:03.169Z"
     },
     {
       "site": "TNPSC",
       "type": "TEXT_NOTICE",
       "url": "https://www.tnpsc.gov.in/",
-      "detectedAt": "2026-06-13T04:21:13.525Z"
+      "detectedAt": "2026-06-13T05:08:03.410Z"
     },
     {
       "site": "GPSC",
       "type": "TEXT_NOTICE",
       "url": "https://gpsc.gujarat.gov.in/",
-      "detectedAt": "2026-06-13T04:21:19.460Z"
+      "detectedAt": "2026-06-13T05:08:10.236Z"
     },
     {
       "site": "HPSC",
       "type": "TEXT_NOTICE",
       "url": "https://www.hpsc.gov.in/",
-      "detectedAt": "2026-06-13T04:21:19.332Z"
+      "detectedAt": "2026-06-13T05:08:10.328Z"
     },
     {
       "site": "DSSSB",
       "type": "TEXT_NOTICE",
       "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-06-13T04:21:26.387Z"
+      "detectedAt": "2026-06-13T05:08:14.669Z"
     },
     {
       "site": "UP Board",
       "type": "TEXT_NOTICE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-13T04:21:29.121Z"
+      "detectedAt": "2026-06-13T05:08:14.456Z"
     }
   ],
   "noiseChanges": [
@@ -100,10 +94,16 @@
       "site": "NABARD",
       "type": "CONTENT_CHANGE",
       "url": "https://www.nabard.org/career-notices.aspx",
-      "detectedAt": "2026-06-13T04:21:02.034Z"
+      "detectedAt": "2026-06-13T05:07:41.528Z"
+    },
+    {
+      "site": "KPSC/KEA",
+      "type": "CONTENT_CHANGE",
+      "url": "https://cetonline.karnataka.gov.in/kea/",
+      "detectedAt": "2026-06-13T05:08:08.960Z"
     }
   ],
-  "errors": 10,
+  "errors": 11,
   "errorDetails": [
     {
       "site": "RRB (Railway)",
@@ -113,6 +113,11 @@
     {
       "site": "ITBP",
       "url": "https://recruitment.itbpolice.nic.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "KVS",
+      "url": "https://kvsangathan.nic.in/",
       "error": "Timeout"
     },
     {
