@@ -57,7 +57,7 @@
       "lastChanged": "2026-03-01T02:46:19.512Z"
     },
     "ssc:notices": {
-      "lastChecked": "2026-06-13T10:32:23.656Z",
+      "lastChecked": "2026-06-13T10:58:43.908Z",
       "noticeIds": [
         "vxypmb8obbjggmjeqs3oa",
         "739a10i10513s46dp13cy",
@@ -82,7 +82,7 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-06-13T10:32:26.194Z",
+      "lastChecked": "2026-06-13T10:58:45.894Z",
       "noticeIds": [
         "20260612174824",
         "20260612162332",
@@ -816,14 +816,14 @@
       ]
     },
     "upsc:whatsnew": {
-      "lastChecked": "2026-06-13T10:32:27.405Z",
+      "lastChecked": "2026-06-13T10:58:47.073Z",
       "pdfHash": "2be3fc569974a34ff19f44c1fe2d8cac",
       "pdfs": [
         "/sites/default/files/Common_Mistake_OMR_SAL.pdf"
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-06-13T10:32:29.221Z",
+      "lastChecked": "2026-06-13T10:58:48.731Z",
       "contentHash": "7d8660b40cd156898576df728bc06bc1",
       "noticeHash": "4b0e31bf5efd097bda7dc59eab0d9e36",
       "pdfHash": "d44af7f55a7c04af43bdc8205695e671",
@@ -842,8 +842,8 @@
       ]
     },
     "sbi:hash": {
-      "lastChecked": "2026-06-13T10:32:29.302Z",
-      "contentHash": "5b4522f8f620e8a1d1a08e5e95f14602",
+      "lastChecked": "2026-06-13T10:58:48.705Z",
+      "contentHash": "4f3b976695901ad929a83d0c717e70ae",
       "noticeHash": "51e3a9af866a17b1dd01cc4cb2a160cb",
       "pdfHash": "11686c29cec49b43153ec6510fa98dcc",
       "noticeUrls": [
@@ -934,8 +934,8 @@
       ]
     },
     "uppsc:hash": {
-      "lastChecked": "2026-06-13T10:32:47.681Z",
-      "contentHash": "e281830557d09c2e591bc8c547f8c6cc",
+      "lastChecked": "2026-06-13T10:59:06.492Z",
+      "contentHash": "b3468c79057ee60388992bbf28734ca0",
       "noticeHash": "2705524bc5eeeed716a92ca9dd868e9b",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "noticeUrls": [
@@ -946,7 +946,7 @@
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-06-13T10:32:28.432Z",
+      "lastChecked": "2026-06-13T10:58:48.194Z",
       "contentHash": "5507c375a8b23fc4f6af57918c510a91",
       "noticeHash": "afa955b7c27ef2cfe68b5b6ca72c10bc",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
@@ -963,8 +963,8 @@
       ]
     },
     "nabard:hash": {
-      "lastChecked": "2026-06-13T10:26:33.568Z",
-      "contentHash": "ac45748013b61beb32ba12e992d2af33",
+      "lastChecked": "2026-06-13T10:41:21.366Z",
+      "contentHash": "66adddcfe2fa3d88f412c9d6e1139af2",
       "noticeHash": "9f726a189b6f0a53b9e6efbb4e96de4a",
       "pdfHash": "9f726a189b6f0a53b9e6efbb4e96de4a",
       "noticeUrls": [
@@ -985,8 +985,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-06-13T10:32:30.348Z",
-      "contentHash": "00f85a954921ecad13a4d28980245ae9",
+      "lastChecked": "2026-06-13T10:58:48.185Z",
+      "contentHash": "14e7db3c354b2c8794f478d8ee7cfa6d",
       "noticeHash": "f8e8af967e3a5c4c10e2a4e2931d2145",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "noticeUrls": [
@@ -1004,8 +1004,8 @@
       ]
     },
     "indiannavy:hash": {
-      "lastChecked": "2026-06-13T10:32:29.352Z",
-      "contentHash": "ddaab1475509ee0f66818d698d0900a9",
+      "lastChecked": "2026-06-13T10:58:48.831Z",
+      "contentHash": "45ba0efc86b63d758bb738f7190d49fb",
       "noticeHash": "25f98ce29e3e0bac2e076906b634db8a",
       "pdfHash": "e8fef51f4b6d84bd888eb58bc9e268dd",
       "noticeUrls": [
@@ -1031,8 +1031,8 @@
       ]
     },
     "indianarmy:hash": {
-      "lastChecked": "2026-06-13T10:32:28.869Z",
-      "contentHash": "0aca6f4e5010792916588cb967c21b65",
+      "lastChecked": "2026-06-13T10:58:48.505Z",
+      "contentHash": "b84d5c28288713e5297b9d9b859c2389",
       "noticeHash": "8f1a0731b245fb4cc0ade16762ecdc55",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "noticeUrls": [
@@ -1041,7 +1041,7 @@
       "pdfs": []
     },
     "cbse:hash": {
-      "lastChecked": "2026-06-13T10:32:39.913Z",
+      "lastChecked": "2026-06-13T10:59:00.595Z",
       "contentHash": "4a4ccfaf29d0213341e5ce78085aab01",
       "noticeHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -1049,8 +1049,8 @@
       "pdfs": []
     },
     "bsf:hash": {
-      "lastChecked": "2026-06-13T10:32:39.879Z",
-      "contentHash": "c105d7149d388ef8649bcfdb07c0edb4",
+      "lastChecked": "2026-06-13T10:59:00.504Z",
+      "contentHash": "a8af1570fcfd6e43f7b15cf9691405aa",
       "noticeHash": "c92745d790df6f978a953d65324f9deb",
       "pdfHash": "a01f5c12d67b3be5d51b4b44bcd92762",
       "noticeUrls": [
@@ -1103,8 +1103,8 @@
       ]
     },
     "cisf:hash": {
-      "lastChecked": "2026-06-13T10:32:40.592Z",
-      "contentHash": "22856c94f27a33ceba768479beb7d1f5",
+      "lastChecked": "2026-06-13T10:59:00.512Z",
+      "contentHash": "a8889d243f1675a1f7dfeb134a59eb73",
       "noticeHash": "7e266caf0e56317aa1805d17ba5fad2c",
       "pdfHash": "dcb8f9d4988ce1cb962ced406b83bc91",
       "noticeUrls": [
@@ -1136,7 +1136,7 @@
       ]
     },
     "airforce:hash": {
-      "lastChecked": "2026-06-13T10:32:40.146Z",
+      "lastChecked": "2026-06-13T10:59:00.639Z",
       "contentHash": "5c3a5ddc0d432038eab5a99c4558618f",
       "noticeHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -1144,7 +1144,7 @@
       "pdfs": []
     },
     "crpf:hash": {
-      "lastChecked": "2026-06-13T10:32:42.015Z",
+      "lastChecked": "2026-06-13T10:59:01.904Z",
       "contentHash": "77d57158d2f12277c71d6832d08392d2",
       "noticeHash": "bc2e64948e30353f24fa4f74bc966143",
       "pdfHash": "2c43b889cc234897fcebc7a695909fbb",
@@ -1233,8 +1233,8 @@
       ]
     },
     "kvs:hash": {
-      "lastChecked": "2026-06-13T10:32:41.523Z",
-      "contentHash": "c722168843d70a8e66ab99efc72e06ef",
+      "lastChecked": "2026-06-13T10:59:03.609Z",
+      "contentHash": "eb6c722a531cd31a95584557b6959177",
       "noticeHash": "e9e1a4a990985582d196041261c02e9b",
       "pdfHash": "25e32379b8f0b399da0ab3fc2f26d0dc",
       "noticeUrls": [
@@ -1318,8 +1318,8 @@
       ]
     },
     "nvs:hash": {
-      "lastChecked": "2026-06-13T10:32:43.768Z",
-      "contentHash": "cf46a7855ff9b1d407ee5f84b1c2c175",
+      "lastChecked": "2026-06-13T10:59:03.601Z",
+      "contentHash": "5e95be40e2a8bb3dc7ffcc0b86408653",
       "noticeHash": "237d6af4768826158d04c0ec6207b14b",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "noticeUrls": [
@@ -1374,7 +1374,7 @@
       ]
     },
     "mppsc:hash": {
-      "lastChecked": "2026-06-13T10:32:45.772Z",
+      "lastChecked": "2026-06-13T10:59:05.919Z",
       "contentHash": "44adc48f8ce92331dc00b571304387a5",
       "noticeHash": "3f728e9cd2dc6b549b7dd72f85489605",
       "pdfHash": "2a5a2ce280e43cac7890bff55c8da06a",
@@ -1494,8 +1494,8 @@
       ]
     },
     "tnpsc:hash": {
-      "lastChecked": "2026-06-13T10:32:46.192Z",
-      "contentHash": "be146b1026bf5fb93add017ace278859",
+      "lastChecked": "2026-06-13T10:59:06.204Z",
+      "contentHash": "4d8eaf666771ebc36b4ff5175185658a",
       "noticeHash": "9c2990ac757d76a239852a7c05642b41",
       "pdfHash": "e3a47f0431b9968c69a90cc121d0f5ad",
       "noticeUrls": [
@@ -1547,7 +1547,7 @@
       ]
     },
     "cuet:hash": {
-      "lastChecked": "2026-06-13T10:32:46.136Z",
+      "lastChecked": "2026-06-13T10:59:06.163Z",
       "contentHash": "657f18df2829b0a9a5a5fd284c313bf2",
       "noticeHash": "5b1e4e46e9763ebb272171c1da290455",
       "pdfHash": "49d4ce3a2583068d2759894c5f23baae",
@@ -1618,8 +1618,8 @@
       ]
     },
     "rpsc:hash": {
-      "lastChecked": "2026-06-13T10:32:45.866Z",
-      "contentHash": "f7f74ad66eca949fc9a19bf8bb0e5d02",
+      "lastChecked": "2026-06-13T10:59:06.538Z",
+      "contentHash": "37ff5434c37b7953ec5b6d406b294048",
       "noticeHash": "6326bc809e0b90c0c67e00306a816681",
       "pdfHash": "6326bc809e0b90c0c67e00306a816681",
       "noticeUrls": [
@@ -2180,7 +2180,7 @@
       ]
     },
     "ignou:hash": {
-      "lastChecked": "2026-06-13T10:32:46.589Z",
+      "lastChecked": "2026-06-13T10:59:06.832Z",
       "contentHash": "19a84486603fcd27d2ef0f35731a1fe5",
       "noticeHash": "19ef1225fae8a96a50dcae0a13df657d",
       "pdfHash": "af84736a61ff48e2daf9d78fd5394f2a",
@@ -2198,7 +2198,7 @@
       ]
     },
     "appsc:hash": {
-      "lastChecked": "2026-06-13T10:32:50.502Z",
+      "lastChecked": "2026-06-13T10:59:10.869Z",
       "contentHash": "e034af33a0999080e8190aa29abeb8d7",
       "noticeHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -2206,7 +2206,7 @@
       "pdfs": []
     },
     "jpsc:hash": {
-      "lastChecked": "2026-06-13T10:32:50.860Z",
+      "lastChecked": "2026-06-13T10:59:11.234Z",
       "contentHash": "8cdb38c25a95f2eff1b507fac0b0a033",
       "noticeHash": "32ceb10f38564222ec7cb86f76b6ebcd",
       "pdfHash": "c9af55d42b52224cedb69411e41999dd",
@@ -2253,7 +2253,7 @@
       ]
     },
     "cgpsc:hash": {
-      "lastChecked": "2026-06-13T10:32:52.071Z",
+      "lastChecked": "2026-06-13T10:59:11.647Z",
       "contentHash": "0d6a1ddaab2ab85a541fe292eaf6917e",
       "noticeHash": "2af3c44f647b238edfa978e4d49b596a",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -2264,10 +2264,10 @@
       "pdfs": []
     },
     "gpsc:hash": {
-      "lastChecked": "2026-06-13T10:32:51.984Z",
-      "contentHash": "2ab7471f26960e177196d4d29114318c",
-      "noticeHash": "789cd92af56ecfc10f676b8bb2819f40",
-      "pdfHash": "4c6a077518d3e2ee2eec8f8e0cf81231",
+      "lastChecked": "2026-06-13T10:59:12.277Z",
+      "contentHash": "fbc8f2a021f80fe5b52851438ac9dc7c",
+      "noticeHash": "d8fbf10ba60cb93796cbed78bd537950",
+      "pdfHash": "f54d472ba2e80f0c574a5c751657b1da",
       "noticeUrls": [
         "https://gpsc.gujarat.gov.in/Archieved/pdf/Suggestion-of-Candidate-for-Provisional-Key-24-12-16.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AC-2026-1902261.pdf",
@@ -2381,7 +2381,6 @@
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LECI-149-202425.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LECI-152-202425.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LECI-156-202425.pdf",
-        "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LIC-12-2026-27.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LIC-240-2024-25.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LICI-153-202425.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LICI-18-202526.pdf",
@@ -2553,7 +2552,6 @@
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LECI-149-202425.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LECI-152-202425.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LECI-156-202425.pdf",
-        "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LIC-12-2026-27.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LIC-240-2024-25.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LICI-153-202425.pdf",
         "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/LICI-18-202526.pdf",
@@ -2609,8 +2607,8 @@
       ]
     },
     "hpsc:hash": {
-      "lastChecked": "2026-06-13T10:32:52.101Z",
-      "contentHash": "012b2b88760f54483dee97835cd4bd2c",
+      "lastChecked": "2026-06-13T10:59:12.237Z",
+      "contentHash": "d7b5ae6c8776f43297bd786571fde129",
       "noticeHash": "3562a8782eac951de7b7b05069b862dc",
       "pdfHash": "9514c17f2baa9e72b84ad97e5c6ad753",
       "noticeUrls": [
@@ -2643,7 +2641,7 @@
       ]
     },
     "ukpsc:hash": {
-      "lastChecked": "2026-06-13T10:32:55.948Z",
+      "lastChecked": "2026-06-13T10:59:16.408Z",
       "contentHash": "29183ec5cee976219d1fa1ec8bb74947",
       "noticeHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -2651,8 +2649,8 @@
       "pdfs": []
     },
     "up-board:hash": {
-      "lastChecked": "2026-06-13T10:32:56.217Z",
-      "contentHash": "498fcdf41841f3eaf2202986c1059a44",
+      "lastChecked": "2026-06-13T10:59:16.650Z",
+      "contentHash": "d70c83ec95204cbd2d6cf4cb761de2ee",
       "noticeHash": "a19046136ecfcb8e8efc00954810b0d2",
       "pdfHash": "e636b1a8a63394e1e9c664876874c843",
       "noticeUrls": [
@@ -2704,7 +2702,7 @@
       ]
     },
     "rbse:hash": {
-      "lastChecked": "2026-06-13T10:32:56.026Z",
+      "lastChecked": "2026-06-13T10:59:16.445Z",
       "contentHash": "7f127d3d8ecd4419f163c0d14fa4ba31",
       "noticeHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -2712,7 +2710,7 @@
       "pdfs": []
     },
     "ctet:hash": {
-      "lastChecked": "2026-06-13T10:32:56.407Z",
+      "lastChecked": "2026-06-13T10:59:16.863Z",
       "contentHash": "39c1760d6d9272a88414efe0086b4654",
       "noticeHash": "f9613e6465b7f473a404d005b8f8730d",
       "pdfHash": "3243cc5ff9cc78ab399571499e449e90",
@@ -2749,8 +2747,8 @@
       ]
     },
     "dsssb:hash": {
-      "lastChecked": "2026-06-13T10:32:57.118Z",
-      "contentHash": "7a0f99f50b56af30f825b83a18ac7d3b",
+      "lastChecked": "2026-06-13T10:59:17.102Z",
+      "contentHash": "9cfdc13ff2e77f7bec42801598a0ac7a",
       "noticeHash": "ddb102dbd1aa2c6784f3ca6b30f73f12",
       "pdfHash": "6c0eb3fbcd4c267174be8b2559c36eb8",
       "noticeUrls": [
@@ -2814,7 +2812,7 @@
       ]
     },
     "mp-board:hash": {
-      "lastChecked": "2026-06-13T10:33:01.790Z",
+      "lastChecked": "2026-06-13T10:59:22.045Z",
       "contentHash": "c97fb528b51ad85d4973420d8729de40",
       "noticeHash": "686e726a92ed6b7f42b5b8dedb41a747",
       "pdfHash": "95cd4ffebd701b4cfe4d6f7bf95343dc",
@@ -4021,8 +4019,8 @@
       ]
     },
     "kpsc:hash": {
-      "lastChecked": "2026-06-13T10:32:50.759Z",
-      "contentHash": "00ad9566f41c97a55df8db0ab957d4c7",
+      "lastChecked": "2026-06-13T10:59:11.187Z",
+      "contentHash": "94c635eeb1fd761d3cc9b0cc68103381",
       "noticeHash": "666ec340a0e5e2c486a3350d86ebdb41",
       "pdfHash": "5bf271e541026ab6aa651827d0aa5f6f",
       "noticeUrls": [
@@ -4086,5 +4084,5 @@
       ]
     }
   },
-  "lastScan": "2026-06-13T10:33:11.399Z"
+  "lastScan": "2026-06-13T10:59:31.554Z"
 }

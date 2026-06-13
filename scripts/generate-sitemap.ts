@@ -163,15 +163,20 @@ function getRichSchemeSlugs(): string[] {
 // Descriptive slugs with a genuinely-Hindi, rich detail file. Mirrors
 // isRichHindiDetail() in src/lib/schemes-data.ts (the myScheme API falls back
 // to English when a translation is missing, so we require real Devanagari).
-function getRichHindiSchemeSlugs(): string[] {
+// MUST stay in sync with getTopHindiSchemeSlugs() in src/lib/schemes-data.ts:
+// same rich-Hindi filter + same ranking (guide-linked first, then central, then
+// name) capped at 300, so the sitemap lists exactly the pages the route builds.
+function getRichHindiSchemeSlugs(limit = 300): string[] {
   const detailDir = path.join(__dirname, "..", "data", "schemes", "_detail_hi");
   const msFile = path.join(__dirname, "..", "data", "schemes", "myscheme.json");
+  const mapFile = path.join(__dirname, "..", "data", "schemes", "scheme-guide-map.json");
   if (!fs.existsSync(detailDir) || !fs.existsSync(msFile)) return [];
-  const schemes = JSON.parse(fs.readFileSync(msFile, "utf-8")) as { slug?: string; id: string; msSlug?: string }[];
-  const out: string[] = [];
+  const schemes = JSON.parse(fs.readFileSync(msFile, "utf-8")) as { slug?: string; id: string; msSlug?: string; level?: string; name?: string }[];
+  const guideMap: Record<string, string> = fs.existsSync(mapFile) ? JSON.parse(fs.readFileSync(mapFile, "utf-8")) : {};
+  const rich: { slug: string; level?: string; name: string }[] = [];
   for (const s of schemes) {
     const msSlug = s.msSlug ?? s.slug ?? s.id;
-    const urlSlug = s.slug ?? s.id;
+    const urlSlug = (s.slug ?? s.id) as string;
     const f = path.join(detailDir, `${msSlug}.json`);
     if (!fs.existsSync(f)) continue;
     try {
@@ -181,11 +186,13 @@ function getRichHindiSchemeSlugs(): string[] {
       const desc = (d.descriptionMd || d.briefDescription || "").length;
       if (elig < 80 || (ben < 20 && desc < 200)) continue;
       const prose = `${d.descriptionMd || ""} ${d.benefitsMd || ""} ${d.eligibilityMd || ""} ${d.briefDescription || ""}`;
-      const deva = (prose.match(/[ऀ-ॿ]/g) || []).length;
-      if (deva >= 40) out.push(urlSlug);
+      if ((prose.match(/[ऀ-ॿ]/g) || []).length < 40) continue;
+      rich.push({ slug: urlSlug, level: s.level, name: s.name || urlSlug });
     } catch { /* skip */ }
   }
-  return out;
+  const rank = (s: { slug: string; level?: string }) => (s.level === "central" ? 0 : 2) + (guideMap[s.slug] ? 0 : 1);
+  rich.sort((a, b) => rank(a) - rank(b) || a.name.localeCompare(b.name));
+  return rich.slice(0, limit).map((s) => s.slug);
 }
 
 function generateMainSitemap(): string {
@@ -254,6 +261,13 @@ function generateMainSitemap(): string {
       lastmod: g.lastUpdated || today,
       changefreq: "weekly" as const,
       priority: "0.8",
+    })),
+    // Hindi per-scheme pages — top ~300 only (free-plan worker route budget).
+    ...getRichHindiSchemeSlugs().map((slug) => ({
+      loc: `${BASE_URL}/hi/scheme/${slug}`,
+      lastmod: today,
+      changefreq: "monthly" as const,
+      priority: "0.6",
     })),
     ...updates
       .filter((u) => u.status === "active")

@@ -2,6 +2,11 @@ User-agent: *
 Allow: /
 Disallow: /_next/
 Disallow: /api/
+# No-traffic deep IFSC-branch / pincode-leaf pages (D1 runtime). Crawling 150k+
+# of these burns free-plan Worker CPU (caused 1102s) for ~272 clicks/quarter.
+# Hub pages (/ifsc, /ifsc/<bank>, /pincode, /pincode/<state>) stay crawlable.
+Disallow: /ifsc/*/*
+Disallow: /pincode/*/*/*
 
 Sitemap: https://www.citizennest.com/sitemap-index.xml
 Sitemap: https://www.citizennest.com/sitemap.xml

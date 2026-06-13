@@ -167,9 +167,28 @@ export function getHindiSchemeSlugs(): string[] {
 /** Whether a scheme (by descriptive slug) has a publishable Hindi page — used by
  * the English route to add a reciprocal hreflang only when the target exists. */
 export function hasHindiScheme(slug: string): boolean {
-  const s = getSchemeBySlug(slug);
-  if (!s) return false;
-  return isRichHindiDetail(getSchemeDetail(s.msSlug ?? slug, "hi"));
+  return getTopHindiSchemeSlugs().includes(slug);
+}
+
+/** The free Cloudflare worker can't carry all ~2,835 Hindi scheme routes (it
+ * tips cold-start past the CPU limit → site-wide 1102s). So we publish Hindi
+ * pages only for the highest-value schemes: guide-linked first (high intent),
+ * then central schemes, capped well under the stable route ceiling. */
+let _topHi: string[] | null = null;
+export function getTopHindiSchemeSlugs(limit = 300): string[] {
+  if (_topHi) return _topHi;
+  const rich = getAllSchemes().filter((s) =>
+    isRichHindiDetail(getSchemeDetail(s.msSlug ?? s.slug ?? s.id, "hi")),
+  );
+  const rank = (s: SchemeRecord) => {
+    const slug = (s.slug ?? s.id) as string;
+    // central schemes first (PM-KISAN, Ayushman, Mudra… — biggest Hindi reach),
+    // then guide-linked (proven intent), then the rest
+    return (s.level === "central" ? 0 : 2) + (getGuideForScheme(slug) ? 0 : 1);
+  };
+  rich.sort((a, b) => rank(a) - rank(b) || a.name.localeCompare(b.name));
+  _topHi = rich.slice(0, limit).map((s) => (s.slug ?? s.id) as string);
+  return _topHi;
 }
 
 let _guideMap: Record<string, string> | null = null;
