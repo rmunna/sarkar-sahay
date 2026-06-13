@@ -116,6 +116,16 @@
   .guide-content hr { @apply my-9 border-0; border-top: 1px solid var(--line); }
   .guide-content h3:has(+ ol), .guide-content h4:has(+ ol) { color: var(--brand); }
 
+  /* ── Section heading (scheme pages) — matches .guide-content h2 ──────── */
+  .sec-h2 {
+    @apply text-[1.5rem] font-bold mt-10 mb-4 pb-2.5;
+    color: var(--ink); letter-spacing: -0.02em; border-bottom: 1px solid var(--line);
+  }
+  .sec-h2::after {
+    content: ""; display: block; width: 44px; height: 3px; border-radius: 3px;
+    margin-top: -1px; background: var(--accent);
+  }
+
   /* ── Category badge ──────────────────────────────────────────────────── */
   .category-badge {
     @apply inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold tracking-wide uppercase;

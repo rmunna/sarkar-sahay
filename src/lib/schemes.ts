@@ -45,7 +45,8 @@ export interface SchemeRecord {
   confidence: number;
   extractedAt: string;
   // Optional — present on myScheme-sourced records (full catalog).
-  slug?: string;
+  slug?: string;        // SEO-friendly descriptive slug (URL)
+  msSlug?: string;      // myScheme short code (detail-file key)
   categories?: string[];
   detail?: SchemeDetail;
   source?: string;

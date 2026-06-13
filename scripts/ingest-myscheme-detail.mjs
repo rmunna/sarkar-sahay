@@ -21,7 +21,9 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const OUT = path.join(ROOT, "data", "schemes", "_detail");
+const langI = process.argv.indexOf("--lang");
+const LANG = langI !== -1 ? process.argv[langI + 1] : "en";
+const OUT = path.join(ROOT, "data", "schemes", LANG === "en" ? "_detail" : `_detail_${LANG}`);
 const API = "https://api.myscheme.gov.in/schemes/v6/public/schemes";
 const KEY = process.env.MYSCHEME_API_KEY || "tYTy5eEhlu9rFjyxuCr7ra7ACp4dv1RH8gWuHTDc";
 const HEADERS = {
@@ -72,11 +74,12 @@ function map(slug, en, basicFallback) {
 async function fetchDetail(slug, tries = 3) {
   for (let i = 0; i < tries; i++) {
     try {
-      const res = await fetch(`${API}?slug=${encodeURIComponent(slug)}&lang=en`, { headers: HEADERS });
+      const res = await fetch(`${API}?slug=${encodeURIComponent(slug)}&lang=${LANG}`, { headers: HEADERS });
       if (res.status === 429) { await sleep(8000 * (i + 1)); continue; }
       const j = await res.json();
-      const en = j?.data?.en;
-      if (j?.status === "Success" && en) return en;
+      // response is keyed by language (data.en / data.hi / data.ta …)
+      const node = j?.data?.[LANG] || j?.data?.en;
+      if (j?.status === "Success" && node) return node;
       return null; // success-but-empty or failure
     } catch (e) {
       if (i === tries - 1) throw e;
@@ -89,7 +92,7 @@ async function fetchDetail(slug, tries = 3) {
 function slugList() {
   if (one) return [one];
   const ms = JSON.parse(fs.readFileSync(path.join(ROOT, "data", "schemes", "myscheme.json"), "utf8"));
-  return ms.map(s => ({ slug: s.slug ?? s.id, name: s.name }));
+  return ms.map(s => ({ slug: s.msSlug ?? s.slug ?? s.id, name: s.name }));
 }
 
 async function main() {

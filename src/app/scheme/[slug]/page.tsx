@@ -57,7 +57,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const s = getSchemeBySlug(slug);
   if (!s) return {};
-  const detail = getSchemeDetail(slug);
+  const detail = getSchemeDetail(s.msSlug ?? slug);
   const where = s.level === "state" ? stateLabel(s.state) : "India";
   const title = `${s.name} — Eligibility, Benefits & How to Apply (${where})`;
   const description = (detail?.briefDescription || s.benefitSummary || `${s.name}: eligibility, benefits and how to apply.`).slice(0, 160);
@@ -79,7 +79,7 @@ export default async function SchemePage({ params }: Props) {
   if (!s) notFound();
 
   const where = s.level === "state" ? stateLabel(s.state) : "All India";
-  const detail = getSchemeDetail(slug);
+  const detail = getSchemeDetail(s.msSlug ?? slug);
   const d = s.detail || {};
   const tags = (detail ? [] : (d.tags || s.categories || [])).filter(Boolean);
   const related = getRelatedSchemes(s, 10);
@@ -190,7 +190,7 @@ export default async function SchemePage({ params }: Props) {
       {/* About */}
       {(aboutHtml || s.benefitSummary) && (
         <section id="about" className="mt-6 scroll-mt-20">
-          <h2 className="text-lg font-semibold text-gray-900 mb-2">About this scheme</h2>
+          <h2 className="sec-h2">About this scheme</h2>
           {aboutHtml
             ? <div className="guide-content" dangerouslySetInnerHTML={{ __html: aboutHtml }} />
             : <p className="text-gray-800 leading-relaxed">{s.benefitSummary}</p>}
@@ -200,7 +200,7 @@ export default async function SchemePage({ params }: Props) {
       {/* Benefits */}
       {benefitsHtml && (
         <section id="benefits" className="mt-6 scroll-mt-20">
-          <h2 className="text-lg font-semibold text-gray-900 mb-2">Benefits</h2>
+          <h2 className="sec-h2">Benefits</h2>
           <div className="guide-content" dangerouslySetInnerHTML={{ __html: benefitsHtml }} />
         </section>
       )}
@@ -218,7 +218,7 @@ export default async function SchemePage({ params }: Props) {
 
       {/* Quick facts */}
       <section id="facts" className="mt-6 scroll-mt-20">
-        <h2 className="text-lg font-semibold text-gray-900 mb-2">Quick facts</h2>
+        <h2 className="sec-h2">Quick facts</h2>
         <div className="overflow-hidden rounded-xl border border-gray-200 bg-white">
           <table className="w-full text-sm">
             <tbody>
@@ -234,7 +234,7 @@ export default async function SchemePage({ params }: Props) {
 
       {/* Eligibility */}
       <section id="eligibility" className="mt-6 scroll-mt-20">
-        <h2 className="text-lg font-semibold text-gray-900 mb-2">Eligibility — who can apply</h2>
+        <h2 className="sec-h2">Eligibility — who can apply</h2>
         {eligHtml
           ? <div className="guide-content" dangerouslySetInnerHTML={{ __html: eligHtml }} />
           : s.eligibility?.otherRequirements?.length
@@ -245,25 +245,24 @@ export default async function SchemePage({ params }: Props) {
       {/* Exclusions */}
       {exclHtml && (
         <section id="exclusions" className="mt-6 scroll-mt-20">
-          <h2 className="text-lg font-semibold text-gray-900 mb-2">Exclusions</h2>
+          <h2 className="sec-h2">Exclusions</h2>
           <div className="guide-content" dangerouslySetInnerHTML={{ __html: exclHtml }} />
         </section>
       )}
 
       {/* How to apply */}
       <section id="apply" className="mt-6 scroll-mt-20">
-        <h2 className="text-lg font-semibold text-gray-900 mb-2">How to apply{detail?.applicationMode ? ` (${detail.applicationMode})` : ""}</h2>
+        <h2 className="sec-h2">How to apply{detail?.applicationMode ? ` (${detail.applicationMode})` : ""}</h2>
         {applyHtml && <div className="guide-content" dangerouslySetInnerHTML={{ __html: applyHtml }} />}
         <div className="mt-3 flex flex-wrap gap-3">
           <Link href="/eligibility" className="rounded-lg bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white hover:bg-blue-700">Check your eligibility →</Link>
-          {officialUrl && <a href={officialUrl} target="_blank" rel="noopener noreferrer" className="rounded-lg border border-gray-300 bg-white px-5 py-2.5 text-sm font-semibold text-gray-700 hover:bg-gray-50">Official scheme page ↗</a>}
         </div>
       </section>
 
       {/* Official references */}
       {detail?.references && detail.references.length > 0 && (
         <section className="mt-6">
-          <h2 className="text-base font-semibold text-gray-900 mb-2">Official sources</h2>
+          <h2 className="sec-h2 !text-xl">Official sources</h2>
           <ul className="list-disc pl-5 text-sm space-y-1">
             {detail.references.slice(0, 5).map((r, i) => (
               <li key={i}><a href={r.url} target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">{r.title || r.url}</a></li>
@@ -275,7 +274,7 @@ export default async function SchemePage({ params }: Props) {
       {/* FAQs — real Q&A from the scheme data (FAQPage schema above) */}
       {faqs.length > 0 && (
         <section id="faqs" className="mt-8 scroll-mt-20">
-          <h2 className="text-lg font-semibold text-gray-900 mb-3">Frequently asked questions</h2>
+          <h2 className="sec-h2">Frequently asked questions</h2>
           <div className="divide-y divide-gray-100 rounded-xl border border-gray-200 bg-white">
             {faqs.map((f, i) => (
               <details key={i} className="group p-4">
@@ -299,7 +298,7 @@ export default async function SchemePage({ params }: Props) {
       {/* Related — internal links, keeps the page useful + spreads equity */}
       {related.length > 0 && (
         <section className="mt-8">
-          <h2 className="text-lg font-semibold text-gray-900 mb-3">
+          <h2 className="sec-h2">
             Related {catLabel(s.schemeCategory).toLowerCase()} schemes{s.state ? ` in ${where}` : ""}
           </h2>
           <ul className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-1.5">

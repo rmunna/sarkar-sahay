@@ -139,17 +139,22 @@ function getIFSCBranches(bankSlug: string): IFSCBranchRecord[] {
 // Scheme pages are indexable only once they carry rich myScheme detail
 // (benefits + eligibility). Mirrors isRichDetail() in src/lib/schemes-data.ts.
 function getRichSchemeSlugs(): string[] {
-  const dir = path.join(__dirname, "..", "data", "schemes", "_detail");
-  if (!fs.existsSync(dir)) return [];
+  const detailDir = path.join(__dirname, "..", "data", "schemes", "_detail");
+  const msFile = path.join(__dirname, "..", "data", "schemes", "myscheme.json");
+  if (!fs.existsSync(detailDir) || !fs.existsSync(msFile)) return [];
+  const schemes = JSON.parse(fs.readFileSync(msFile, "utf-8")) as { slug?: string; id: string; msSlug?: string }[];
   const out: string[] = [];
-  for (const f of fs.readdirSync(dir)) {
-    if (!f.endsWith(".json")) continue;
+  for (const s of schemes) {
+    const msSlug = s.msSlug ?? s.slug ?? s.id;     // detail file key
+    const urlSlug = s.slug ?? s.id;                // descriptive URL slug
+    const f = path.join(detailDir, `${msSlug}.json`);
+    if (!fs.existsSync(f)) continue;
     try {
-      const d = JSON.parse(fs.readFileSync(path.join(dir, f), "utf-8"));
+      const d = JSON.parse(fs.readFileSync(f, "utf-8"));
       const elig = (d.eligibilityMd || "").length;
       const ben = (d.benefitsMd || "").length;
       const desc = (d.descriptionMd || d.briefDescription || "").length;
-      if (elig >= 80 && (ben >= 20 || desc >= 200)) out.push(f.replace(/\.json$/, ""));
+      if (elig >= 80 && (ben >= 20 || desc >= 200)) out.push(urlSlug);
     } catch { /* skip */ }
   }
   return out;

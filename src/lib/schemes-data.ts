@@ -115,10 +115,13 @@ export interface SchemeFullDetail {
   fetchedAt: string;
 }
 
-/** Full myScheme detail (description/benefits/eligibility/how-to-apply) scraped
- * to data/schemes/_detail/<slug>.json. Present only for ingested schemes. */
-export function getSchemeDetail(slug: string): SchemeFullDetail | null {
-  const f = path.join(DATA_DIR(), "_detail", `${slug}.json`);
+/** Full myScheme detail (description/benefits/eligibility/how-to-apply), keyed
+ * by the myScheme short code (msSlug). `lang` selects en (default) or a
+ * translated set (_detail_hi, etc.). Present only for ingested schemes. */
+export function getSchemeDetail(msSlug: string, lang = "en"): SchemeFullDetail | null {
+  if (!msSlug) return null;
+  const dir = lang === "en" ? "_detail" : `_detail_${lang}`;
+  const f = path.join(DATA_DIR(), dir, `${msSlug}.json`);
   if (!existsSync(f)) return null;
   try { return JSON.parse(readFileSync(f, "utf-8")) as SchemeFullDetail; } catch { return null; }
 }
