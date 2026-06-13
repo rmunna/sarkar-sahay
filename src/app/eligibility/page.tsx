@@ -62,6 +62,7 @@ export default function EligibilityPage() {
         <Link href="/" className="hover:text-orange-600">Home</Link> / <span className="text-gray-800">Eligibility Checker</span>
       </nav>
 
+      <article className="bg-white rounded-2xl border border-gray-100 border-t-4 border-t-[#0f2744] shadow-sm px-6 py-8 sm:px-8 lg:px-10">
       <h1 className="text-2xl sm:text-3xl font-bold text-gray-900">Government Scheme Eligibility Checker</h1>
       <p className="mt-2 text-gray-600">
         Answer 6 quick questions and instantly see which of{" "}
@@ -112,6 +113,7 @@ export default function EligibilityPage() {
         Scheme data sourced from the Government of India&apos;s myScheme portal and official department sources.
         CitizenNest is an independent platform, not affiliated with any government; eligibility shown is indicative.
       </p>
+      </article>
     </main>
   );
 }

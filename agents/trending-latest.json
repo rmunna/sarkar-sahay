@@ -1,5 +1,42 @@
 {
-  "scannedAt": "2026-06-13T11:50:53.356Z",
-  "govtTrends": [],
+  "scannedAt": "2026-06-13T13:51:27.537Z",
+  "govtTrends": [
+    {
+      "title": "ಮುನ್ಸೂಚನೆ",
+      "traffic": "500+",
+      "pubDate": "Sat, 13 Jun 2026 06:30:00 -0700",
+      "newsTitle": "Kerala Heavy Rain Alert: ಕೇರಳಂ: ಭಾರಿ ಮಳೆ ಮುನ್ಸೂಚನೆ",
+      "source": "google_trends",
+      "suggestedSlug": "",
+      "guideExists": false
+    },
+    {
+      "title": "abvmu result 2026",
+      "traffic": "2000+",
+      "pubDate": "Sat, 13 Jun 2026 06:20:00 -0700",
+      "newsTitle": "UP CNET Result 2026, Release Date, Scorecard Download Link Active Soon @abvmucet26.co.in",
+      "source": "google_trends",
+      "suggestedSlug": "abvmu-result-2026",
+      "guideExists": false
+    },
+    {
+      "title": "कर्मचारी भविष्य निधि संगठन",
+      "traffic": "1000+",
+      "pubDate": "Sat, 13 Jun 2026 06:10:00 -0700",
+      "newsTitle": "EPFO Update: पीएफ खाते में कब जमा होगा ब्याज का पैसा? आ गया ये बड़ा अपडेट",
+      "source": "google_trends",
+      "suggestedSlug": "-",
+      "guideExists": false
+    },
+    {
+      "title": "bail",
+      "traffic": "500+",
+      "pubDate": "Sat, 13 Jun 2026 05:10:00 -0700",
+      "newsTitle": "2020 Delhi riots: Sharjeel Imam, Umar Khalid move fresh bail pleas in ‘larger conspiracy’ case",
+      "source": "google_trends",
+      "suggestedSlug": "bail",
+      "guideExists": false
+    }
+  ],
   "totalTrends": 10
 }
