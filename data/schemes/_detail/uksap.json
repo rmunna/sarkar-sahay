@@ -1,0 +1,27 @@
+{
+  "slug": "uksap",
+  "name": "Pension for Agitators Who were Jailed for 7 Days or Injured During the Uttarakhand State Movement",
+  "shortTitle": "PAJ7IDUKSM",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department of Home",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme provides a monthly pension of ₹6,000 to agitators who were jailed for 7 days or injured during the Uttarakhand State Movement and are unable to gain employment due to certain reasons.",
+  "descriptionMd": "The &amp;quot;Pension for Agitators Who were Jailed for 7 Days or Injured During the Uttarakhand State Movement&amp;quot; scheme is implemented by the Police Department under the Department of Home, Government of Uttarakhand. The scheme aims to provide a monthly pension to agitators who were jailed for 7 days or injured during the Uttarakhand State Movement and are unable to gain employment due to certain reasons.\n<br>",
+  "benefitsMd": "**Pension Amount:** ₹6,000/- per month\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Uttarakhand.\n   1. The applicant must be an agitator who was jailed for 7 days or injured during the Uttarakhand State Movement.\n   1. The applicant must be unable to gain employment due to certain reasons.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- The application must be submitted to the concerned District Magistrate, and no specific format is prescribed for the application. An identified list of agitators has already been released. Those who were left out will be eligible to receive the benefits of the scheme only after their respective identity card is issued.\n  - Regarding the identification of State agitators, it will be carried out in accordance with the standards prescribed in Government Order Number 777/XX(4)/26/U. A./2006.08 dated 22.10.2008, read with Government Order Number 1192/Twenty.4/2017-3 (13)/2011 dated 01.12.2017. After submission of the application, based on the report/recommendation of the District Magistrate and after obtaining the approval of the Hon’ble Departmental Minister / Hon’ble Chief Minister, the pension will be sanctioned by the Government.\n  - Identification: Uttarakhand State agitators are identified by the District Magistrates and officers nominated by them. The identification is carried out based on the following records: LIU report, other police records (such as relevant entries from the daily diary, First Information Report (FIR) in any form), hospital reports, and information from other records whose authenticity is verified by the District Magistrate. Only after this verification is the identity card issued.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 63)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

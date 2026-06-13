@@ -1,0 +1,35 @@
+{
+  "slug": "cmcalss",
+  "name": "Chief Minister's COVID-19 Affected Livelihood Support Scheme",
+  "shortTitle": "CMCALSS",
+  "level": "state",
+  "state": "Manipur",
+  "nodalDept": "Family Welfare Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The guidelines of the \"Chief Minister's COVID-19 Affected Livelihood Support Scheme\" were approved by the Dept. of Social Welfare, Govt. of Manipur. The COVID-19 Pandemic and the resulting economic dislocations have severely affected the livelihood of a large percentage of the population.",
+  "descriptionMd": "The guidelines of the &amp;quot;Chief Minister&amp;#39;s COVID-19 Affected Livelihood Support Scheme&amp;quot; were approved by the Dept. of Social Welfare, Govt. of Manipur on 6th July 2021. The COVID-19 Pandemic and the resulting economic dislocations have severely affected the livelihood of a large percentage of the population, especially vulnerable groups including daily wage earners, those without a regular source of income, and without sufficient savings to fall back upon. There is a need to have additional direct income support for these vulnerable groups. The beneficiary will be those domiciled in Manipur, whose livelihood has been adversely affected by the COVID-19 Pandemic leading to an inability to maintain a basic minimum standard of living. There can be only one beneficiary per family. This beneficiary must be the main bread earner and should be employed in the informal sector.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant should be domiciled in the state of Manipur.\n1. The livelihood of the applicant should have been adversely affected by the COVID-19 pandemic, leading to an inability to maintain a basic minimum standard of living. \n1. The applicant should be the only applicant from the family.\n1. The applicant should be the main bread earner. \n1. The applicant should be employed in the informal sector. \n\n<br>\n\n<br>\n\nThe applicants will include, but not be limited, to the following occupations:\n(a)\tStreet Vendor.\n(b)\tFarmer (includes Agriculture, Fisheries, Horticulture, and Animal Husbandry).\n(c)\tDaily-Wage Worker and Labourer.\n(d)\tConstruction-Site Worker.\n(e)\tPublic Transport Driver (Auto, Winger, Bus, Rickshaw, etc).\n(f)\t    School Van Driver.\n(g)\tShop Assistant.\n(h)\tArtisan.\n(i)     Weaver.\n(j)     Performing Artist\n(k)    Home-Based Business etc.\n<br>\n\nInclusion Criteria (subject to exclusion criteria fulfillment):\n(a)\tRation Card Holder.\n(b)\tMGNREGA Card Holder.\n(c)\tPM-KISAN Beneficiary.\n(d)\tCMHT/ PMJAY Beneficiary.\n(e)\tPMUY Beneficiary.\n(f)\t    PM SVANidhi Beneficiary.\n(g)\tCMST/ CMAT Beneficiary.\n(h)\tPMAY (G) or PMAY (U) Beneficiary.\n(i)\t    SBM (G) or SBM (U) Beneficiary.\n(j)\t    Person in Vendor List of Municipalities or District Councils.\n(k)\tPerson with a permit for public transport/ school van in Municipalities or District Councils.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socialwelfare.mn.gov.in/media/filer_public/e5/c2/e5c27bf0-8ae4-4202-bd97-f7fb263684c5/cmcalss1.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://socialwelfare.mn.gov.in/media/filer_public/51/fd/51fda9bf-5542-4796-ad45-0bcfa0bb6bda/application_form_-_10__final-cmcalss__1-merged.pdf"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://socialwelfare.mn.gov.in/media/filer_public/9b/89/9b894ea8-09c5-4ed6-8179-211322634f7f/frequently_asked_questions-_cmcalss_10_1.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

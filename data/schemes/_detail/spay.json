@@ -1,0 +1,31 @@
+{
+  "slug": "spay",
+  "name": "Sardar Patel Awas Yojana",
+  "shortTitle": "SPAY",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Panchayats and Rural Housing Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Sardar Patel Awas Yojana (SPAY) is a housing scheme launched by the government of Gujarat in India to provide affordable housing to economically weaker sections (EWS) and low-income groups (LIG) of society.",
+  "descriptionMd": "**Detailed**\nUnder the Sardar Patel Awas Yojana, the government provides financial assistance to eligible beneficiaries for the construction of their own house. The scheme is implemented by Gujarat Housing Board (GHB) and Gujarat Urban Development Mission (GUDM) in urban areas, and by Gujarat Rural Housing Corporation (GRHC) in rural areas.\nSardar Patel Awas Yojana is a housing scheme launched by the government of Gujarat in India to provide affordable housing to economically weaker sections and low-income groups of the society. The scheme provides financial assistance to eligible beneficiaries for the construction of their own house, and is implemented by Gujarat Housing Board and Gujarat Urban Development Mission in urban areas, and by Gujarat Rural Housing Corporation in rural areas. The scheme aims to improve the living standards of the underprivileged sections of society by providing them with their own homes.",
+  "benefitsMd": "",
+  "eligibilityMd": "**Eligibility** \n\n   1. This scheme of the State Govt. being poor-oriented the persons registered Below the Poverty Line in rural areas may avail the benefit of the scheme.\n   1. A person who has no plot or house may avail the benefit of the scheme.\n   1. The applicant should not have taken benefit of any other housing scheme.\n   1. The applicant who has a maximum of half a hectare of irrigated land or a maximum of one hectare of unrelated land may also avail advantage of the scheme.\n   1. If husband and wife live together and if there is a plot or house in the name of the husband or wife and living in the same village for the last five years, either of them may avail the benefit of the scheme.\n   1. If a beneficiary is a native of the village he should hold a card Below the Poverty Line of that village such person should obtain a certificate from the Sarpanch of his native village that “this beneficiary has not taken advantage of Sardar Patel Awas Yojana in our village. A certificate should be produced that there is no house in his name or in the name of his wife in his native place and they should fall in the definition of B.P.L.\n   1. Benefit under Sardar Patel Awas Yojana is available to the villager living Below Poverty Line only once.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://panchayat.gujarat.gov.in/en/sardar-aavas-yojna"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://panchayat.gujarat.gov.in/panchayat/documents/sardar_awas.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

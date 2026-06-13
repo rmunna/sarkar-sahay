@@ -1,0 +1,27 @@
+{
+  "slug": "p1234uk",
+  "name": "P1, P2, P3, P4, SIV, Guided Flying",
+  "shortTitle": "P1234SIVGF",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Tourism Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The aim of the scheme is to train and develop skilled youth of Uttarakhand, aged between 18 to 30 years, who are educated, mentally, and physically fit, to become professional paragliding pilots and instructors.",
+  "descriptionMd": "The scheme “P1, P2, P3, P4, SIV, Guided Flying” is implemented by the Uttarakhand Tourism Development Board under the Department of Tourism, Government of Uttarakhand. The scheme aims to develop skilled and certified paragliding professionals from Uttarakhand who can work as Tandem Pilots, Instructors, or Competitors in the tourism sector.\n<br>",
+  "benefitsMd": "**Beneficiaries can work in firms operating as:**\n\n- Tandem Pilots\n- Instructors\n- Competitors\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be between 18 to 30 years of age.\n1. The applicant must be educated.\n1. The applicant must be mentally and physically healthy.\n\n> The total number of 215 beneficiaries will be selected.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- The prescribed application form must be duly filled out and submitted along with all required documents to the office of the District Tourism Development Officer.\n  - After the completion of the selection tests, the District Tourism Development Officer forwards the list of selected applicants to the headquarters for further processing.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 123)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

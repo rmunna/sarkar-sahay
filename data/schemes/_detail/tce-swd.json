@@ -1,0 +1,31 @@
+{
+  "slug": "tce-swd",
+  "name": "Top Class Education For Students With Disabilities",
+  "shortTitle": "TCE-SWD",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Empowerment Of Persons With Disabilities",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "A scholarship scheme by DoEPwDs for Students with Disabilities (SwDs) pursuing studies beyond class 12th admitted in a full-time course in one of the 'notified institutions'.",
+  "descriptionMd": "A scholarship scheme by DoEPwDs for Students with Disabilities (SwDs) pursuing studies beyond class 12th admitted in a full-time course in one of the &#39;notified institutions&#39;. The students with the specified disabilities defined in Schedule of the &quot;Rights of Persons with Disabilities Act, 2016&quot; will be eligible under this scheme. This includes persons with visual, hearing, speech, loco-motor, mental retardation, and other disabilities. At times SwDs are deprived of harnessing their latent skills and thereby miss the opportunity. This scheme aims to support SwDs to study further in order to prepare themselves to earn their livelihood and to find a dignified place for themselves in the society as they face several barriers physical, financial, psychological, mental in pursuing studies and living with dignity.\n<br>",
+  "benefitsMd": "1. Payment of **Full tuition fee** and non-refundable charges (Ceiling of ₹ 2.00 LPA per student for private sector institutions)1. **Living expenses**: ₹ 3000/- per month per student.1. **Books and stationery**: ₹ 5000/- per annum per student.1. A **computer/laptop** with accessories (UPS and printer) is limited to ₹ 30,000/- per student (one-time assistance).1. Reimbursement of expenses for the purchase of **Aids and Assistive Devices** including necessary software related to the particular disability of the selected candidate: ₹ 30,000/- per student (one-time assistance).1. **Special Allowance** (related to types of disabilities like Reader Allowance, Escort Allowance, Helper Allowance etc.): ₹ 2000/- per month.\n> **The aids and assistive devices may include:**\n\n> **For the blind I low vision:**\n\n\n- Braille / Brailer Typewriter\n- Laptop with screen-reading software\n- Laptop with Screen Magnification software\n- Talk software for mobile phone accessibility\n- DAISY Recorder and player\n\n> **For the hearing impaired:**\n\n\n- Binaural digital programmable hearing aid with provision for button cells.\n- Cell phone with SMS SIM Card\n- Laptop with WiFi (Bluetooth) facility.\n\n<br>",
+  "eligibilityMd": "1. The applicant should be a Student admitted in a full-time course in one of the &quot;notified institutions&quot;.\n1. The Percentage of Disability should be 40% or above.\n1. The applicant should be Pursuing a Graduate or Post Graduate Degree or Diploma.\n1. The Total Annual Income of the Parent / Guardian should be less than or equal to ₹ 6.00 Lakh per Annum.\n1. The applicant MUST NOT be the third sibling in his/her family who is availing of this scholarship.",
+  "exclusionsMd": "1. Not more than two children with disabilities of the same parents will be entitled to receive the benefits of the scheme. Provided in case the second child is a twin, the scholarship will be admissible to both.\n1. If a student is found to have obtained a scholarship by false statements, his/her scholarship will be cancelled forthwith and the amount of the scholarship will be recovered, at the discretion of DEPwD, GoI. The student concerned will be blacklisted and debarred for scholarship in any scheme forever.\n1. If the scholar changes the subject of the course of study for which the scholarship was originally awarded unless such change in course has been approved by DEPwD.\n1. If a student has to repeat a class, he/she would not get any scholarship for that class for a second (or subsequent) year.\n\n<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:**   Keep the soft copies of the required documents.\nGo to [http://www.scholarships.gov.in/](http://www.scholarships.gov.in/). and click “New Registration”.\nGuidelines for Registration will appear. Scroll to the bottom. \nRead the undertaking carefully. Accept the Terms. Click “Continue”.\n**Step 2:**  A Registration Form will appear. (The fields marked as * are compulsory)\nFill in the details and click “Register”. \nYour Application ID and password will be displayed.\nThe same will also be sent as an SMS to your registered mobile number. \n**Step 3:**  Go to [https://scholarships.gov.in/fresh/newstdRegfrmInstruction ](https://scholarships.gov.in/fresh/newstdRegfrmInstruction)\nClick on “Login to Apply”. Enter your Application ID and password.\nType the Captcha and click “Login”.\nOn the next screen, provide the OTP received on your registered mobile number. You will be directed to the Password Reset screen.\nCreate a new password and confirm.\nClick “Submit”. You will be directed to the “Applicant’s Dashboard”.\n**Step 4:**  On the left pane, click “Application Form”. The fields marked as * are compulsory. Fill in the details and upload the documents.\nYou can either click on “Save as Draft” to complete the application later.\nOtherwise, click “Final Submit” to submit the application.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://disabilityaffairs.gov.in/upload/uploadfiles/files/scholarship2(1).pdf"
+    },
+    {
+      "title": "Rights Of Persons With Disabilities Act 2016",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_with_disabilities_act%2C_2016.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

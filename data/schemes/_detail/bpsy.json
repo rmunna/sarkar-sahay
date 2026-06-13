@@ -1,0 +1,39 @@
+{
+  "slug": "bpsy",
+  "name": "Minimata Mahtari Jatan Yojana",
+  "shortTitle": "BPSY",
+  "level": "state",
+  "state": "Chhattisgarh",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The Labor Department of Chhattisgarh started this scheme on March 4, 2010, under the \"Building and Construction Workers Welfare Board\" for female construction workers. Under the scheme registered female construction workers will receive benefits during pregnancy.",
+  "descriptionMd": "The Labor Department of Chhattisgarh introduced the &quot;Minimata Mahtari Jatan Yojana&quot; on March 4, 2010, through the &quot;Building and Construction Workers Welfare Board.&quot; This initiative is designed to provide benefits to registered female construction workers during pregnancy. The scheme applies to both male and female beneficiaries who are registered and possess a beneficiary identity card at least 90 days before the scheme application date.\n<br>\n\n**Note:** The name of this scheme was changed from &quot;Bhagini Prasuti Sahayata Yojana&quot; to  &quot;Minimata Mahtari Jatan Yojana&quot; on May 12, 2022.\n<br>",
+  "benefitsMd": "> A lump sum amount of ₹20,000/- will be provided to the registered female construction worker after the birth of the child.",
+  "eligibilityMd": "1. The applicant should be a permanent resident of Chhattisgarh.\n1. The applicant should be a woman worker.\n1. The applicant should be registered  Building &amp; Other Construction Workers Welfare Board.\n1. The benefit will only be provided for only first two children.\n1. The applicant should be registered as a construction worker 90 days in advance.\n\n<br>\n\n**Note:** In case of the death of the beneficiary female worker during delivery, the payment of the Assistance Scheme will be payable to her husband (full amount).",
+  "exclusionsMd": "- Spouses of construction workers employed by public or government institutions.\n- Construction worker beneficiaries who lack valid membership with the Board.",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Registration of a Construction Worker Under CBOCWWB**\n\nStep-1: All the applicant have to visit the official website [Chhattisgarh Labour Department](https://cglabour.nic.in/). \nStep-2: On the home page click on &quot;[Apply](https://cglabour.nic.in/EngPages/Departments.aspx?id=3)&quot; under &quot;Chhattisgarh Building and Other Construction Workers Welfare Board&quot;.\nStep-3: Enter the following details\n\n\n  - Select : &quot;Building and Other Construction Workers Welfare Board&quot;.\n  - Select Service : &quot;Labour Registration&quot;.\n  - What do you want to do : &quot;Registration Application&quot;.\n  - Click Proceed.\n\n\nStep-4: Now enter your details :Name\n\n\n  - Father name.\n  - Aadhaar card.\n  - D.O.B.\n  - Age.\n\n\nStep-5: Click on submit only after uploading all the important information and documents given in Part 1, Part 2, Part 3.\nStep-6: When you click on submit, your registration ID will be sent to your mobile and email.\n<br>\n\n> **Apply**\n\nStep-1: All the applicant have to visit the official [website](https://cglabour.nic.in) [Chhattisgarh Labour Department](https://cglabour.nic.in/). \nStep-2: On the home page click on &quot;[Apply](https://cglabour.nic.in/EngPages/Departments.aspx?id=3)&quot; under &quot;Chhattisgarh Building and Other Construction Workers Welfare Board\nStep-3:  Enter the following details\n\n\n  - Select : &quot;Building and Other Construction Workers Welfare Board&quot;.\n  - Select Service : Scheme\n  - What do you want to do : &quot;Application&quot;.\n  - Click Proceed.\n\n\nStep-4: Select your district name and provide old/new registration number and click proceed.\nStep-5: When you enter the district and registration number, an OTP will be sent to your mobile for verification. \nStep-6: After this, a dashboard will open in front of you, containing information about your name, address, age, and caste etc.\nStep-7: After that, you select your Yojana and upload your important documents and basic information.\nStep-8: Click &quot;Submit&quot; to register yourself for this scheme.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cglabour.nic.in/BOCW/BOCADHISUCHNA/194939_10_05_2019.pdf"
+    },
+    {
+      "title": "Registration",
+      "url": "https://cglabour.nic.in/Public/ApplicationBOC_public.aspx"
+    },
+    {
+      "title": "Apply",
+      "url": "https://cglabour.nic.in/userlogin.aspx"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://cglabour.nic.in/schemes.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "lbs",
+  "name": "Ladli Beti Scheme",
+  "shortTitle": "LBS",
+  "level": "state",
+  "state": "Jammu and Kashmir",
+  "nodalDept": "Department Of Industries and Commerce",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "A social assistance scheme sponsored by the J&K Govt. for newborn girl children born on or after 01/04/2015. The objective is to arrest the declining female sex ratio. The scheme ensures that the girl child does not become a burden for the parent or guardian at the time of her marriage.",
+  "descriptionMd": "A social assistance scheme sponsored by the Jammu &amp; Kashmir Government for newborn girl child of the Union Territories of J&amp;K and Ladakh born on or after 01/04/2015. The objective of the scheme is to arrest the declining female sex ratio. The scheme further intends to ensure that the girl child does not become a burden for the parent or guardian at the time of her marriage. The scheme is a hybrid deposit plan having two phases:\n<br>\n\nPhase I: A recurring deposit for 14 years having a date of completion as one month after the last installment received in the account.\nPhase II: A Cumulative Term Deposit (CCR) for 7 years.\n<br>\n\nAfter the maturity of Phase I (recurring deposit account) the account will graduate to Phase II (Cumulative Term Deposit account). The monthly contribution of ₹1000/- in Phase-I is made by the J&amp;K Govt. The annual income of the parents from all sources should be less than ₹75,000. The required documents are the Application Form, KYC Norms of the Parent/ Guardian, and the sanction letter from the CDPO (Child Development Project Officer).",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The girl child should have been born on or after 01/04/2015.\n1. The annual income of the parents of the girl child from all sources should be less than ₹75,000.\n1. The girl child and her family should be residents of Jammu &amp; Kashmir.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jkbank.com/deposits/personal/ladliBeti.php"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "adtwstb",
+  "name": "Adi Dravidar and Tribal Welfare Department: Stationary-Text Books",
+  "shortTitle": "ADTWSTB",
+  "level": "state",
+  "state": "Tamil Nadu",
+  "nodalDept": "Adi Dravidar and Tribal Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "This scheme provides free textbooks to students from 1st to 12th standard in Adi Dravidar and Tribal welfare schools.",
+  "descriptionMd": "The scheme “Adi Dravidar and Tribal Welfare Department: Stationary-Text Books” by the Adi Dravidar and Tribal Welfare Department, Tamil Nadu, is designed to support students from 1st to 12th standard who are enrolled in Adi Dravidar and Tribal welfare schools by offering them free textbooks. This initiative aims to ensure that no student is deprived of education due to a lack of study materials.",
+  "benefitsMd": "- **Textbooks:** Free textbooks for students from 1st to 12th standard.\n&lt;br&gt;",
+  "eligibilityMd": "- The beneficiary should be a Student.\n  - The beneficiary should be a resident of Tamil Nadu.\n  - The beneficiary should be enrolled in Adi Dravidar and Tribal welfare schools.\n  - The beneficiary must be studying in any class between 1st to 12th standard.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "- Students/ Guardians should contact the Headmaster of the School with all the required documents as directed by the authority.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/83086"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

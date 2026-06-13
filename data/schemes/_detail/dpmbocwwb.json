@@ -1,0 +1,59 @@
+{
+  "slug": "dpmbocwwb",
+  "name": "Disability Pension (MBOCWWB)",
+  "shortTitle": "DP(MBOCWWB)",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Labour and Employment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under the scheme, the Board shall provide disability pension to a beneficiary who is permanently disabled due to paralysis, leprosy, T.B., accidents,etc. Additionally, workers will be eligible for an exgratia payment based on percentage of disability & subject to condition as may fixed by the Board.",
+  "descriptionMd": "The scheme “Disability Pension” is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, the Board shall provide financial assistance in the form of a disability pension to a beneficiary who is permanently disabled due to paralysis, leprosy, tuberculosis (T.B.), accidents, etc. Additionally, the worker will be eligible for an ex-gratia payment based on the percentage of disability and subject to conditions as may fixed by the Board.",
+  "benefitsMd": "1. The financial assistance of ₹150/- per month as disability pension shall be given to a beneficiary who is permanently disabled due to paralysis, leprosy, tuberculosis (T.B.), accidents, etc.\n   1. In addition to this pension, the worker will also be eligible for an exgratia payment of not more than ₹5,000/- depending upon the percentage of disability and subject to such conditions as may fixed by the Board.",
+  "eligibilityMd": "1. The beneficiary should be a resident of Meghalaya.\n   1. The beneficiary should be engaged in a building or other construction work.\n   1. The beneficiary should be registered under the Meghalaya Building &amp;amp; Other Construction Workers Welfare Board.\n   1. The beneficiary should have an active membership of the Board.\n   1. Registered construction workers who have become permanently disabled due to conditions such as paralysis, leprosy, tuberculosis (T.B.), accidents, etc., are eligible to avail of the benefits under the scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Online Worker Registration Process (Portal):**\n\n**Step 01:** The applicants may visit the online Portal: [https://megbocwwb.gov.in/bocw_services/login.htm](https://megbocwwb.gov.in/bocw_services/login.htm)\n**Step 02:** The applicant can register by creating a new account, on the home page click on the ‘Worker’ button and enter all the mandatory information.\n**Step 03:** After filling in all the details, click on ‘Register’.\n**Step 04:** After successful registration, the applicant will see the message “Registered Successfully”.\n&gt; **Application Process for New Registration under the MBOCWWB:**\n\n**Step 01:** Visit the online Portal: [https://megbocwwb.gov.in/bocw_services/login.htm](https://megbocwwb.gov.in/bocw_services/login.htm)\n**Step 02:** Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login.\n**Step 03:** After successful login, click on ‘Apply for New Registration’ from the menu.\n**Step 04:** Fill in all the required details in the Registration Form i.e. Personal Details, Service/Work Details, Bank Details, and Demographic Details, etc.\n**Step 05:** Click on &amp;#39;Submit&amp;#39;.\n**Step 06:** After successful registration, you will be directed to another page to manage all the Family &amp;amp; Nominee Details. Click on ‘Add New’ to add Family members and Nominee Details.\n**Step 07:** After adding all the Family &amp;amp; Nominee Details, click on Proceed.\n**Step 08:** Now upload all the required enclosures i.e. Photograph, ID Proof, Employer Certificate/Self Certification, Bank Passbook of the Worker.\n**Step 09:** Click on the ‘Complete’ Button to complete the registration process.\n**Step 10:** Once your application has been processed and verified by Block/District LDA, Block/District Labour Inspector, and approved District Labour Commissioner (DLC), Registration Certificate will be generated.\n&gt; **Application Process for Disability Pension:**\n\n**Step 01:** Visit the online Portal: [https://megbocwwb.gov.in/bocw_services/login.htm ](https://megbocwwb.gov.in/bocw_services/login.htm)\n**Step 02:** Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login.\n**Step 03:** After successful login, click on the “Disability Pension” scheme from the Dashboard.\n**Step 04:** Fill in all the required information and necessary enclosures.\n**Step 05:** Click Submit to apply for benefits.\n&gt; **Application Process to Track/Update:**\n\n**Step 01:** Visit the online Portal: [https://megbocwwb.gov.in/bocw_services/login.htm](https://megbocwwb.gov.in/bocw_services/login.htm)\n**Step 02:** Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login.\n**Step 03:** From the menu, click on ‘Track Application Status’.\n**Step 04:** Click on ‘View Details’ to view your application.\n**Step 05:** Click on ‘Application History’ to view the application history.\n**Step 06:** Click on ‘Update’ to update your application.\n**Note:** Once your application is under process or processed, you cannot update it.\n(Worker’s [User Manual](https://megbocwwb.gov.in/bocw_services/assets/files/user-manual-workers.pdf))",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megbocwwb.gov.in/enrollment"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://megbocwwb.gov.in/schemes_disability_pension"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://megbocwwb.gov.in/bocw_services/login.htm"
+    },
+    {
+      "title": "Registration Form",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/Registration%20Form.pdf"
+    },
+    {
+      "title": "Application Form For Disability Pension",
+      "url": "https://megbocwwb.gov.in/forms/benefit/disability_pension_form.pdf"
+    },
+    {
+      "title": "Nomination Form",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/NominationForm.pdf"
+    },
+    {
+      "title": "Family Members Form",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/Familymembers.pdf"
+    },
+    {
+      "title": "SDO Certificate",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/SDOCertificate.pdf"
+    },
+    {
+      "title": "Employer Certificate",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/EmployersCertificate.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

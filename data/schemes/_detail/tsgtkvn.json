@@ -1,0 +1,27 @@
+{
+  "slug": "tsgtkvn",
+  "name": "Vehicle Loan Scheme (GTKVN)",
+  "shortTitle": "VLSGTKVN",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to promote self-employment among youth from the Thakor and Koli communities by providing loans of up to ₹4,00,000/- for the purchase of commercial vehicles such as auto-rickshaws, loading rickshaws, or a Maruti Eeco van to start an income-generating transport business.",
+  "descriptionMd": "The &amp;quot;Vehicle Loan Scheme&amp;quot; is implemented by the Gujarat Thakor and Koli Vikas Nigam (GTKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to promote self-employment among youth from the Thakor and Koli communities by providing financial assistance for the purchase of commercial vehicles. Under this scheme, beneficiaries can avail of a subsidized loan to purchase auto-rickshaws, loading rickshaws, or a Maruti Eeco van to start an income-generating transport business.\n<br>",
+  "benefitsMd": "Under this scheme, beneficiaries can avail of a loan of up to ₹4,00,000/- for the purchase of commercial vehicles such as auto-rickshaws, loading rickshaws, Maruti Eeco, etc.\n<br>",
+  "eligibilityMd": "1. The applicant should be a resident of Gujarat.\n1. The applicant should belong to Thakor or Koli community.\n1. The applicant&#39;s age should be between 21 to 50 years. \n1. The applicant’s annual family income should not exceed ₹3,00,000/-.\n1. The applicant should intend to purchase an approved transport vehicle for commercial use.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the [official website](https://gtkdconline.gujarat.gov.in/) of the Gujarat Thakor and Koli Vikas Nigam.\n**Step 2:** On the top menu bar, click on &quot;Apply Now&quot;.\n**Step 3:** Click on the loan scheme name. \n**Step 4:** Select the loan category and fill in the loan amount.\n**Step 5:** Fill out the Application Form, enter the following details:\n\n- Personal Information: Name, gender, date of birth, caste, etc.\n- Address Information: Permanent and correspondence address\n- Income Details: Monthly family income and source\n- Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)\n- Bank Account Details: For loan disbursement\n\n**Step 6:** Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.\n**Step 7:** Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.\n**Step 8:** Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

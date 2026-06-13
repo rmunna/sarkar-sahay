@@ -1,0 +1,27 @@
+{
+  "slug": "hs",
+  "name": "House Subsidy Scheme",
+  "shortTitle": "HS",
+  "level": "state",
+  "state": "Himachal Pradesh",
+  "nodalDept": "Department of Social Justice and Empowerment",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "A subsidy of Rs. 1,30,000/- is given to persons from Scheduled Castes, Other Backward Classes, Minority Communities, Single Women, or handicapped for the construction of the house.",
+  "descriptionMd": "The housing subsidy scheme was launched by the Government of Himachal Pradesh to provide financial assistance to individuals from marginalized sections for the construction of their own houses. Under this scheme, a subsidy of Rs. 1,30,000/- is provided to persons from Scheduled Castes, Other Backward Classes, Minority Communities, Single Women, or handicapped for the construction of their houses. This scheme aims to improve the living conditions and overall quality of life of individuals from these sections.",
+  "benefitsMd": "",
+  "eligibilityMd": "1.\tThe applicant should be a resident of Himachal Pradesh.\n2.\tThe applicant should belong to Scheduled Cast, Other Backward Classes, Minority Community, Single Women, or Handicapped.\n3.\tThe applicant&#39;s annual income should be less than Rs. 3.00 lakhs.\n4.\tThe applicant should not have availed of any such subsidy earlier.\n5.\tThe applicant should have a bonafide Himachali certificate of the couple.\n6.\tThe applicant should possess a Scheduled Cast/Other Backward Classes/Minority Community/Single Women or Handicapped Certificate.\n7.\tThe applicant should have income and revenue papers (Record of Right – Parcha &amp; Tatima).\n8.\tThe applicant should have a recommendation from the concerned Gram Panchayat.\n9.\tLatest photographs of the present house are required.\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Govt Portal",
+      "url": "https://hpshimla.nic.in/dwo-shimla/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

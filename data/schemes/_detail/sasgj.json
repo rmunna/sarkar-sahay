@@ -1,0 +1,27 @@
+{
+  "slug": "sasgj",
+  "name": "Scholarships and Stipends",
+  "shortTitle": "SASGJ",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Sports, Youth and Cultural Activities Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"Scholarships and Stipends\" by the Sports, Youth and Cultural Activities Department, Government of Gujarat aims to encourage and support national-level athletes by providing scholarships to medal winners and stipends to participants.",
+  "descriptionMd": "The scheme &amp;quot;Scholarships and Stipends&amp;quot; by the Sports, Youth and Cultural Activities Department, Government of Gujarat, aims to promote excellence in sports by offering financial support to individuals who have represented the state at national-level events and have won medals. This initiative is designed to reduce the financial burden on athletes and to recognize their achievements at the national level, thereby motivating them to continue their athletic pursuits and strive for excellence. The scheme is implemented by the Sports Authority of Gujarat.\n<br>",
+  "benefitsMd": "- **Scholarships:** ₹2,500/- per player is awarded to athletes who have won medals at the national level.  - **Stipends:** ₹2,000/- per player is awarded to athletes who have participated at the national level, irrespective of winning.\n<br>",
+  "eligibilityMd": "- The applicant should be a resident of Gujarat.\n  - The applicant should be a male.\n  - The applicant should have participated in a national-level sports event.\n  - The applicant should have won a medal at the national level to be eligible for the scholarship.\n\n<br>\n\n<br>\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step 1:** Visit the homepage of the [Sports Authority of Gujarat](https://sportsauthority.gujarat.gov.in/).\n**Step 2:** Click on the “Registration” button on the upper-right side of the page.\n**Step 3:** Fill in all the required details as per the form and submit it.\n> **Application Process:**\n\n**Step 1:** After registration, check your registered email for login credentials.\n**Step 2:** Select “Player” as the user type and log in using the credentials received.\n**Step 3:** Click on the concerned scheme name and proceed with the application.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 557)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "epy-csts",
+  "name": "Eklavya Prashikshan Yojana - Coaching To Scheduled Tribe Student Studying In Class Xth, XIth & XIIth",
+  "shortTitle": "EPY-CSTS",
+  "level": "state",
+  "state": "Goa",
+  "nodalDept": "Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The objective of the scheme is to impart coaching to ST students across Goa studying in classes Xth, XIth (Science), and XIIth (Arts, Science and Commerce). The scheme prepares the students for various professional courses such as Engineering, Medicine, Architecture, Paramedical Sciences, Law, etc.",
+  "descriptionMd": "&quot;Eklavya Prashikshan Yojana&quot; is a Scholarship Scheme by the Department of Tribal Welfare, Government of Goa. The objective of the scheme is to impart coaching to Scheduled Tribes students across Goa studying in classes Xth, XIth (Science), and XIIth (Arts, Science and Commerce). The scheme prepares the students for various professional courses such as Engineering, Medicine, Architecture, Paramedical Sciences, Law, Chartered Accountancy, etc. after class XIIth.\n<br>\n\n> **Scope**\n\nThe fees shall be reimbursed to the students enrolled in coaching institutes within the State of Goa recognised by the Directorate of Education or registered under the Goa Coaching Classes Regulation Act, 2001. The coaching fees of the students will be reimbursed for the Classes as given below:\n**Group 1:** Xth: Mathematics, Science &amp; English\n**Group 2:** XIth (Science): Mathematics, Physics, Chemistry, Biology.\n**Group 3:** XIIth (Science): Mathematics, Physics, Chemistry, Biology.\n**Group 4:** XIIth (Commerce): Accountancy, Mathematics.\n**Group 5:** XIIth (Arts): English, Economics.",
+  "benefitsMd": "The student shall be **reimbursed 75% of the fees paid** (upto a ceiling of ₹ 10,000/- per annum per subject in rural areas and ₹ 12,000/- per annum per subject in urban areas) to the coaching institute upon submission of the fee receipt that is duly certified by the competent authority of the coaching institute.\n<br>\n\n**50% of the Fees:** Reimbursed as a first instalment during the First Term of the Academic year upon submission of the fee receipt.\n**25% of the Fees:** Reimbursed as a second instalment upon the submission of the Attendance Certificate of the First Term.\n<br>\n\n> **Mode of Payment**\n\nThe payment shall be done in the Direct Benefit Transfer mode upon submission of the fee receipt along with the fee structure duly certified by the competent authority of the coaching institute.",
+  "eligibilityMd": "1. The student shall belong to Scheduled Tribe (ST) Category.\n1. The Student shall be a regular, full-time student studying in a Government School/ Higher Secondary or in a school that is recognised by the Government of Goa or a Central/State Board of Higher Secondary Education.\n1. The fees shall be reimbursed for a particular class in which the student is studying. In the event of a failure in a particular class and the student has to repeat the class, in such circumstances, the fees shall not be reimbursed for a second year.",
+  "exclusionsMd": "Students pursuing any course through open school or any such mode of schooling shall not be eligible for the benefit under the scheme.",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Visit the Office of the Director/ Deputy Director, Department of Tribal Welfare, Govt. of Goa, and request a physical copy of the proforma of the application form for the scheme from the Concerned Authority.\nOR\nTake a print of the [format](https://www.goa.gov.in/wp-content/uploads/2022/10/Eklavya-Prashikshan-Yojana-6-10-2022.pdf) of the Application Form.\n**Step 2:** In the application form, fill in all the mandatory fields, affix the passport-sized photograph (signed across), and attach copies of all the mandatory documents (self-attest if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Concerned Authority.\n**Step 4:** Acquire the receipt/acknowledgement of the successful submission of the application from the Department&#39;s Office.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.goa.gov.in/wp-content/uploads/2022/10/Eklavya-Prashikshan-Yojana-6-10-2022.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

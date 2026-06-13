@@ -1,0 +1,27 @@
+{
+  "slug": "msygtkdc",
+  "name": "Mahila Samriddhi Yojana (GTKVN)",
+  "shortTitle": "MSYGTKVN",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to empower women entrepreneurs from Thakor & Koli communities by providing access to micro-loans for self-employment. Under this scheme, financial assistance in the form of low-interest loans is provided to eligible beneficiaries to set up small businesses based on their skills.",
+  "descriptionMd": "The &amp;quot;Mahila Samriddhi Yojana&amp;quot; is implemented by the Gujarat Thakor and Koli Vikas Nigam (GTKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to empower women entrepreneurs from the Thakor and Koli communities by providing access to micro-loans for self-employment. Under this scheme, financial assistance in the form of low-interest loans is provided to eligible women beneficiaries to help them set up small businesses or trades based on their skills.\n<br>",
+  "benefitsMd": "- **Maximum Loan Amount:** Up to ₹60,000/-.- **Interest Rate:** 4% per annum.- **Loan Coverage:** Up to 100% of the loan will be given for the proposed business/trade.- **Repayment:** The loan amount will have to be repaid in 48 equal monthly installments (4 years) including interest.\n<br>",
+  "eligibilityMd": "1. The applicant should be a resident of Gujarat.\n1. The applicant should be a woman from Thakor or Koli caste. \n1. The applicant should be between 21 to 50 years of age at the time of application.\n1. The applicant’s annual family income should not exceed ₹3,00,000/-. \n1. The applicant should have relevant technical skills and experience in the proposed trade/business.\n1. The applicant will have to provide suitable collateral to get the loan.\n\n> **Note:** At least 50% of the total loan amount will be allocated for families with annual income up to ₹1,50,000/-.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the [official website](https://gtkdconline.gujarat.gov.in/) of the Gujarat Thakor and Koli Vikas Nigam.\n**Step 2:** On the top menu bar, click on &quot;Apply Now&quot;.\n**Step 3:** Click on the loan scheme name. \n**Step 4:** Select the loan category and fill in the loan amount.\n**Step 5:** Fill out the Application Form, enter the following details:\n\n- Personal Information: Name, gender, date of birth, caste, etc.\n- Address Information: Permanent and correspondence address\n- Income Details: Monthly family income and source\n- Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)\n- Bank Account Details: For loan disbursement\n\n**Step 6:** Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.\n**Step 7:** Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.\n**Step 8:** Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.gujarat.gov.in/gtkvn/Schemes/1450?lang=English"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

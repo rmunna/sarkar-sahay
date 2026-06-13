@@ -1,0 +1,27 @@
+{
+  "slug": "cssrbl",
+  "name": "Central Sector Scheme for Rehabilitation of Bonded Labourer",
+  "shortTitle": "CSSRBL",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Labour and Employment",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The scheme addresses eradicating bonded labour in India. It introduces varying rehabilitation assistance amounts based on beneficiary categories, such as adults, children, women, and extreme cases, with provisions for annuity schemes and Direct Benefit Transfer.",
+  "descriptionMd": "The Central Sector Scheme for Rehabilitation of Bonded Labourer-2021, effective from January 27, 2022, is a crucial initiative led by the Ministry of Labour &amp;amp; Employment, Government of India that addresses eradicating bonded labour in India. It introduces varying rehabilitation assistance amounts based on beneficiary categories, such as adults, children, women, and extreme cases, with provisions for annuity schemes and Direct Benefit Transfer. The scheme also facilitates surveys, awareness programs, and evaluatory studies to combat bonded labour, with financial support. It emphasizes skill development, socio-economic assistance, and monitoring mechanisms, all aimed at offering comprehensive support to eradicate the bonded labour system in the country.",
+  "benefitsMd": "> **For Adult Male Beneficiaries**\n\n\n- The rehabilitation assistance shall be ₹1,00,000 (One Lakh Rupees) per adult male beneficiary.\n- Beneficiaries have the option to deposit the assistance in an annuity scheme or receive it as a cash grant.\n- The District Administration will assess the cash requirement of the beneficiary and, with their consent, place the money in an annuity scheme.\n\n<br>\n\n> **Special Category Beneficiaries (Children, Women)**\n\n\n- Rehabilitation assistance for special category beneficiaries, such as children, including orphans, or those rescued from forced labour, and women, shall be ₹2,00,000 (Two Lakhs Rupees).\n- At least ₹1,25,000 (One Lakh Twenty-Five Thousand Rupees) shall be deposited in an annuity scheme in each beneficiary&#39;s name.\n- The remaining amount shall be transferred to the beneficiary&#39;s account via Direct Benefit Transfer (DBT).\n\n<br>\n\n> **Extreme Cases of Bonded or Forced Labor**\n\n\n- In cases of extreme deprivation, such as transgender individuals, women, and children rescued from sexual exploitation, or trafficking, the rehabilitation assistance shall be ₹3,00,000 (Three Lakhs Rupees).\n- At least ₹2,00,000 (Two Lakhs Rupees) shall be deposited in an annuity scheme in each beneficiary&#39;s name.\n- ₹1,00,000 (One Lakh Rupees) shall be transferred to the beneficiary&#39;s account via DBT.\n\n<br>\n\n> **Bonded Labour Rehabilitation Fund:**\n\n\n- Each state shall create a Bonded Labour Rehabilitation Fund at the district level with a permanent corpus of at least ₹10,00,000 (Ten Lakhs Rupees) at the disposal of the District Magistrate.\n- Penalties recovered from convicted perpetrators of bonded labour may be deposited in this corpus.\n\n<br>\n\n> **Immediate Financial Assistance**\n\n\n- The District Administration shall provide immediate financial assistance up to ₹30,000 (Thirty Thousand Rupees) to rescued individuals from the District Bonded Labour Rehabilitation Fund.\n- The District Magistrate may disburse higher amounts if required but limited to the maximum entitlement prescribed under this scheme.\n\n<br>\n\n> **State Government Responsibilities**\n\nState Governments/UTs shall focus on:\n\n- Providing a safe and secure environment for capacity building of child-bonded labourers.\n- Addressing the special needs of female freed bonded labourers, including financial support for marriage.\n- Offering special care for disabled individuals, in line with the national policy for disabled people.\n- Providing employable skill development training for adult bonded labourers who do not fall into the above categories.",
+  "eligibilityMd": "- The beneficiary should be a rescued bonded labour.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Step 1: Submission of Proposal**\n\nThe District Magistrate/Administration forwards the proposal for financial support to the relevant State Ministry/Department dealing with the Bonded Labour Rehabilitation Scheme (BLR).  The State/UT Government submits each proposal for immediate cash assistance and rehabilitation assistance.\n<br>\n\n> **Step 2: Release of Funds**\n\nThe eligible reimbursements are disbursed directly by the MoLE to the State/UT Government. The State/UT Government transfers the allocated funds to the concerned District Magistrate/Collector to support the implementation of the Bonded Labour Rehabilitation Scheme (BLR).\n<br>\n\n> **Step 3: Disbursement of Benefits**\n\nThe District Administration will assess the cash requirement of the beneficiary and exercise its best judgement if the amount should be put under an annuity scheme or transfer it to the beneficiary account through **Direct Benefit Transfer (DBT)**.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://tndistricts.nic.in/bonded-labour-abolition/related_government_orders/Central-Sector-Scheme-Revised-2021.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

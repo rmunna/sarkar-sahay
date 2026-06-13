@@ -1,0 +1,32 @@
+{
+  "slug": "gtcisliu",
+  "name": "Gujarat Textile Policy: Interest Subsidy (Fiscal Incentives to Labour Intensive Unit)",
+  "shortTitle": "GTCISLIU",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Industries and Mines Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity",
+    "Industries"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Gujarat Textile Policy\" introduced by the Industries and Mines Department aims to create a vibrant Textile Sector ecosystem and generate enormous employment opportunities in the State.",
+  "descriptionMd": "The &amp;quot;Gujarat Textile Policy&amp;quot; is an umbrella scheme introduced by the Industries and Mines Department, Gujarat. It aimed at augmenting investments in the textile sector and strengthening the textile value chain across each sub-sector, while also focusing on strengthening the garments and apparel as well as technical textiles industry. Effective from October 1st, 2024 to September 29th, 2029, this initiative focuses on reducing the carbon footprint and promoting green growth, thereby making the sector globally competitive and environmentally sustainable.\nThe component &amp;quot;Interest Subsidy&amp;quot; provides financial assistance in the form of a credit-linked interest subsidy for eligible industrial activities. This subsidy helps reduce the financial burden on industrial units by reimbursing a portion of the interest paid on term loans for Gross Fixed Capital Investment.",
+  "benefitsMd": "**Financial Assistance:**\n**Category of Taluka****Activity 1****Activity 2**Category 1 &amp;amp;amp;amp; PM MITRA Park7% on Term Loan for 8 years; Maximum 3% of eFCI per annum 7% on Term Loan for 8 years; Maximum 3% of eFCI per annum Category 27% on Term Loan for 8 years; Maximum 3% of eFCI per annum 7% on Term Loan for 8 years; Maximum 3% of eFCI per annum Category 37% on Term Loan for 8 years; Maximum 3% of eFCI per annum 7% on Term Loan for 8 years; Maximum 3% of eFCI per annum",
+  "eligibilityMd": "1. The industrial unit must be recognized as a Labour Intensive Unit.\n   1. Industrial units must have taken a sanctioned term loan for Gross Fixed Capital Investment.\n   1. The loan disbursement date must be on or after 01/01/2024 for units under implementation as of 01/10/2024.\n   1. The unit must apply within one year from the Date of Commercial Production (DoCP).\n   1. The unit must be in regular repayment of installments and interest.\n   1. The unit must bear at least 2% interest on the term loan.\n\n&lt;br&gt;\n\n&amp;gt; **Eligible Activities:**\n\n**Activity 1:**\n\n  - Garments, Apparel &amp;amp;amp; Made-ups, Technical Textiles Activity (including Composite Unit)\n\n**Activity 2:**\n\n  - Weaving (with or without preparatory), Knitting, Dyeing &amp;amp;amp; Processing, Texturising, Twisting, Embroidery and MMF Spinning to manufacture yarn from Polyester Staple Fiber (PSF) / Viscose Staple Fiber (VSF) (excluding Spinning activity of Cotton and Synthetic Filament Yarn).\n\n&amp;gt; **Labour Intensive Unit:**\n\nLabour Intensive Unit means a new industrial unit that provides minimum employment to 4000 (four thousand) persons duly registered under EPF scheme, out of which minimum female employee should be at least 1000 (one thousand). The existing unit that carrying out expansion/diversification of activities , during the operative period of the scheme and provides totally new employment to minimum 4000 (four thousand) persons duly registered under EPF scheme, out of which minimum female employee should be at least 1000 (one thousand).",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "&gt; **Application for Registration:**\n\n**Step 1:** The application has to be made to the Industries Commissioner in the [prescribed format](https://ic.gujarat.gov.in/documents/commondoc/2025/GTP%202024%20Registration%20Form.pdf) along with the following documents within one year from loan disbursement, production start, or policy operative date (whichever is later).\n**Step 2:** On receipt of the application and after the scrutiny and verification of relevant documents as per the procedure prescribed, registration certificate will be issued by the Industrial Commissioner.\n&lt;br&gt;\n\n&gt; **Application for Provisional/Final Eligibility Certificate:**\n\n**Application for Industrial Unit:**\n\n  - **MSME Units having GFCI up to INR 10 Crore:** After DoCP, the Industrial Unit shall submit an application to the General Manager, District Industries Center.  - **MSME Units having GFCI above INR 10 Crore and up to 50 Crore:** After DoCP, the Industrial Unit  shall submit an application to MSME Commissioner for Provisional Eligibility Certificate within 1 year from DoCP or within one year from the date of issuance of this GR, whichever is later.  - **Other than MSME Units:** After DoCP, the Industrial Unit, having registration shall submit an application for Provisional Eligibility Certificate to the Industries Commissioner within 1 year from DoCP or within 1 year from the date of issuance of the registration certificate, whichever is later.\n&lt;br&gt;\n\n**Contact Us:**\n&gt; [Industries Commissionerate](https://ic.gujarat.gov.in/ic-contact.aspx)\n\n&gt; [District Industries Center](https://ic.gujarat.gov.in/dic-contact.aspx)",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ic.gujarat.gov.in/documents/pagecontent/Gujarat%20Textile%20Policy_2024.pdf"
+    },
+    {
+      "title": "Category Of Taluka",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/I-Branch_2297_02_Nov_2020_98_06112020.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

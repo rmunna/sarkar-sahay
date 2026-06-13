@@ -1,0 +1,31 @@
+{
+  "slug": "sasss",
+  "name": "Sanction of Adult Sticks to Senior Citizens",
+  "shortTitle": "SASSS",
+  "level": "state",
+  "state": "Andhra Pradesh",
+  "nodalDept": "Dept of Social Welfare, WCD",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The \"Sanction of Adult Sticks to Senior Citizens\" scheme aims to provide walking sticks to senior citizens. This initiative ensures that eligible senior citizens receive the necessary support to enhance their mobility and independence.",
+  "descriptionMd": "The &quot;Sanction of Adult Sticks to Senior Citizens&quot; scheme aims to provide walking sticks to senior citizens. The A.P. Differently Abled &amp; Senior Citizens Assistance Corporation, Andhra Pradesh, under its Action Plan 2017-18. The walking sticks are distributed by the Assistant Directors, Department for the Welfare of Differently Abled &amp; Senior Citizens, and District Managers, A.P. Differently Abled &amp; Senior Citizens Assistance Corporation.",
+  "benefitsMd": "- Eligible beneficiaries of this scheme will be provided with a DAISY Player to facilitate accessible learning and information access.\n\n<br>",
+  "eligibilityMd": "1. The applicant should have 40% or above disability and meet the eligibility criteria as specified in the [RPwD Act, 2016](https://cdnbbsr.s3waas.gov.in/s3e58aea67b01fa747687f038dfde066f6/uploads/2023/10/202310161053958942.pdf).1. The applicant should be eligible for sanction only once in three years.\n1. The applicant&#39;s family annual income should not exceed ₹3,00,000/-.\n\n<br>",
+  "exclusionsMd": "<br>\n\n<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 01:** Visit the official website: [https://apdascac.ap.gov.in](https://apdascac.ap.gov.in)\n**Step 02:** On the homepage, click on &quot;[APDASCAC Schemes](https://apdascac.ap.gov.in/APDASCAC-Schemes/)&quot;.\n**Step 03:** Select the &quot;SANCTION OF ADULT STICKS&quot; option.\n**Step 04:** Click on &quot;[Apply Now](https://apdascac.ap.gov.in/Forms/adult-sticks/)&quot; to begin the application process.\n**Step 05:** Fill in the required details and submit your application.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://apdascac.ap.gov.in/Schemes/adult-sticks/"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://apdascac.ap.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

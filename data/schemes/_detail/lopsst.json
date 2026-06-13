@@ -1,0 +1,31 @@
+{
+  "slug": "lopsst",
+  "name": "Livelihood Opportunity Promotion Scheme (Scheduled Tribes)",
+  "shortTitle": "LOPSST",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department Of Social Welfare",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to promote self-employment among Scheduled Tribe individuals through financial support, including loans, margin money, and grants.",
+  "descriptionMd": "The &quot;Livelihood Opportunity Promotion Scheme (Scheduled Tribe)&quot; scheme was launched by the Social Welfare Department, Government of Uttarakhand. It aims to promote sustainable self-employment and income generation among Scheduled Tribe individuals by supporting viable livelihood projects. Under this scheme, financial assistance, including a bank loan is provided to the beneficiaries for setting up income-generating units with a total project cost between ₹50,000 and ₹2,00,000.",
+  "benefitsMd": "> **Financial Assistance:**\n\n\n\n  - Project Cost: Between ₹50,000/- and ₹2,00,000/-.\n  - Bank Loan: 60% of the project cost\n  - Margin Money: 30% of the project cost, repayable at 7% annual interest in 60 monthly installments\n  - Grant: Up to ₹50,000/-.\n\n\n> **Beneficiary Contribution:**\n\n\n\n  - No contribution for project cost up to ₹1,00,000/-\n  - 10% contribution for project cost between ₹1,01,000/- and ₹2,00,000/-\n\n\n<br>\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a permanent resident of Uttarakhand.\n1. The applicant must belong to the Scheduled Tribe (ST) category.\n1. The applicant&#39;s age must be between 18 and 50 years.\n1. The applicant’s annual family income should not exceed ₹2,50,000/-.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "***Application Process:***\n**Step 1:** The interested applicant downloads the [application form](http://www.ukbvvn.org.in/Download/ApplicationFormFormatJeevika.pdf) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the office of the Vikas Khand (Block Development) Office. \n&amp;amp;lt;br&amp;amp;gt;\n\n***Selection Process:***\n**Step 1:** The application will be forwarded to the District Social Welfare Officer.\n**Step 2:** A District-Level Committee, headed by the District Social Welfare Officer, will review the proposals and select beneficiaries.",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 33)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "http://www.ukbvvn.org.in/frmJeevikaAvsarProtsahanYojna.html"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

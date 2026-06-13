@@ -1,0 +1,31 @@
+{
+  "slug": "spy-gbocwwb",
+  "name": "Shramik Parivahan Yojana (GBOCWWB)",
+  "shortTitle": "SPY-GBOCWWB",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Labour and Employment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The registered construction workers will be provided a bus pass through the Municipal Corporation at a concessional rate for commuting from Kadianaka to the workplace.",
+  "descriptionMd": "The “Shramik Parivahan Yojana” is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB), Labour, Skill Development &amp;amp; Employment Department, Government of Gujarat. Under the scheme, the registered construction workers will be provided a bus pass through the Municipal Corporation at a concessional rate for commuting from Kadianaka to the workplace.",
+  "benefitsMd": "1. Under the scheme, registered construction workers will receive a bus pass at a concessional rate for commuting from Kadianaka to the workplace.\n   1. Under the scheme, the beneficiary is required to contribute 20% of the pass amount, while the board covers the remaining 80%. \n\n**Note:** The pass shall be issued at a concessional rate monthly or quarterly or six-monthly or annually as per the demand of the registered construction worker.",
+  "eligibilityMd": "1. The applicant should be engaged in any Building or Other Construction Work.\n   1. The construction workers who are registered with the Gujarat Building and Other Construction Worker’s Welfare Board will be eligible to get the benefit of this scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 01:** The applicant needs to visit the nearest municipal corporation office.\n**Step 02:** Collect the application form and fill in all the details as required.\n**Step 03:** Attach all the required documents and submit it to the concerned official in the municipal corporation office.\n**Step 04:** After verification of the details and a bus pass may be issued to the applicant by the authority.\n**Note:** 4 municipalities of the state (Ahmedabad, Vadodara, Surat, and Rajkot) are included in this scheme.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://bocwwb.gujarat.gov.in/schemes.htm"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://bocwwb.gujarat.gov.in/Portal/Document/10_381_1_Shramik_Parivahan_Yojana.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

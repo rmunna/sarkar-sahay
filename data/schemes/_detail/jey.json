@@ -1,0 +1,27 @@
+{
+  "slug": "jey",
+  "name": "Janani Express Yojana",
+  "shortTitle": "JEY",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Public Health and Family Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to provide free and timely transport to pregnant women for safe institutional deliveries.",
+  "descriptionMd": "The &quot;Janani Express Yojana&quot; was launched by the Public Health and Family Welfare Department, Government of Madhya Pradesh. The scheme aims to provide free transport facilities for pregnant women to reach government health institutions for safe delivery.\n<br>",
+  "benefitsMd": "- Free transport facility is provided to pregnant women for traveling to government hospitals for delivery.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Madhya Pradesh. \n1. The applicant must be a pregnant woman. \n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "If the pregnant woman fulfills all the eligibility criteria of the scheme, she is automatically entitled to avail the benefits of the scheme. She (or her family member) can simply call on the Janani Express helpline number and provide the basic information along with the location for pickup. The local Janani Express vehicle will arrive at the location for pickup.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=279"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

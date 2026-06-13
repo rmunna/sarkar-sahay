@@ -1,0 +1,27 @@
+{
+  "slug": "nbcfdc-gls",
+  "name": "NBCFDC General Loan Scheme",
+  "shortTitle": "NBCFDC - GLS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Social Justice and Empowerment",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "A general loan scheme by the Ministry of Social Justice for Indian citizens from backward classes for various income-generating activities. Loan up to ₹15 Lakh per beneficiary for pursuing income-generating activities.",
+  "descriptionMd": "The scheme &quot;General Loan&quot; has been launched by the National Backwards Classes Finance and Development Corporation (NBCFDC), Ministry of Social Justice and Empowerment and aims to provide loan assistance for various income-generating activities such as agriculture and allied activities, small business, artisan and traditional occupations, transport sector activities, service sector activities, and technical and professional trades/courses. Through this scheme, financial assistance is provided to eligible members of Backwards Classes for undertaking income-generating activities. The scheme is implemented by the National Backwards Classes Finance and Development Corporation (NBCFDC) through its Channel Partners. NBCFDC finances up to 85% of the project cost, while the remaining 15% is contributed by the Channel Partner and/or beneficiary. The applicable rate of interest varies according to the loan amount. The loan is repayable in quarterly instalments over a maximum period of 8 years, including a moratorium period of 6 months on recovery of the principal amount.\n<br>",
+  "benefitsMd": "1. Loan assistance of up to ₹15,00,000/- for income-generating activities such as agriculture and allied activities, small business, artisan and traditional occupations, transport sector, service sector, and technical/professional trades or courses.\n1. NBCFDC finances 85% of the project cost, while 15% is contributed by the Channel Partner and/or beneficiary.\n1. Concessional interest rates ranging from 6% to 8% per annum, depending on the loan amount.\n1. Repayment in quarterly instalments over a maximum period of 8 years, including a 6-month moratorium on recovery of the principal amount.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be an Entrepreneur\n1. The applicant should be a member of the Backwards Classes, as notified by the Central Government or the State Government from time to time.\n1. The applicant&#39;s annual family income should be up to ₹3,00,000/-.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "- Obtain the prescribed application form from the District Office of the concerned Channel Partner. Channel Partners may include State Channelising Agencies (SCAs), Regional Rural Banks (RRBs), or Public Sector Banks (PSBs).\n- Fill in the application form with all required details.\n- Clearly mention the proposed income-generating activity, vocational choice, and training requirements (if any) in the application form.\n- Submit the completed application form to the District Office of the concerned Channel Partner in the area where the applicant normally resides.\n- The application will be processed by the concerned Channel Partner as per NBCFDC guidelines.\n- For further assistance, applicants may contact the concerned State Channelizing Agency, Regional Rural Bank, or Public Sector Bank.\n- Applicants may also obtain information by calling the NBCFDC Toll-Free Number: 1800 102 3399.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://nbcfdc.gov.in/nbcfdc/web/general-loan"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "rvy",
+  "name": "Raah-Veer Yojana",
+  "shortTitle": "RVY",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Home Department ",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme encourages citizens to help road accident victims during emergencies by providing a ₹25,000 incentive to individuals who save lives through timely medical assistance.",
+  "descriptionMd": "The “Raah-Veer Yojana” was launched by the Home Department, Government of Madhya Pradesh. It aims to encourage the general public to help road accident victims during emergencies and save innocent lives during the critical Golden Hour by rewarding citizens who voluntarily take accident victims to a hospital for treatment. The scheme promotes civic responsibility and compassion among citizens by recognizing their bravery and humanitarian actions. \n> **Scheme Implementation**\n\nIt is implemented by the Office of the Transport Commissioner, Bhopal, Madhya Pradesh, under the supervision of the State and District-Level Evaluation Committees and monitored by the Home Department.\n<br>\n\n<br>",
+  "benefitsMd": "**Tangible Benefits**\n\n- Provides a cash reward of ₹25,000 to individuals (“Rah-Veers”) who save the life of an accident victim by taking them to a hospital within the Golden Hour.\n- Selected “Rah-Veers” may be nominated for national-level awards by the Ministry of Road Transport and Highways (MoRTH).\n- The MoRTH Evaluation Committee selects the top 10 Rah-Veers nationwide, each awarded ₹1,00,000, a certificate, and a trophy at the National Road Safety Mission (NRSM) in New Delhi.\n- Each individual can be awarded a maximum of 5 times per year under this scheme.\n\n**Mode of Disbursement**\n\n- The payment is made online directly to the beneficiary’s bank account through the Public Financial Management System (PFMS).\n\n**Frequency of Disbursement**\n\n- One-time per eligible instance, up to a maximum of 5 instances per year.\n\n**Expected Time of Disbursement**\n\n- The payment is processed within 1 month after the District Evaluation Committee’s approval.\n\n<br>",
+  "eligibilityMd": "1. The applicant should be a resident of Madhya Pradesh.\n1. The applicant should be any individual (citizen or resident) who voluntarily assists a road accident victim in a motor vehicle-related accident.\n1. The applicant must have helped the victim reach a hospital within the Golden Hour, ensuring the victim’s survival.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "> **Incident Reporting by the Applicant:**\n\n\n- The Rah-Veer informs the police first, the police will verify details with the attending doctor and issue an official acknowledgment slip containing the Rah-Veer’s name, mobile number, address, location, date, time, and details of assistance.\n- A copy of this slip is sent to the District Evaluation Committee and one to the Rah-Veer.\n\n> **Direct Hospital Assistance:**\n\n\n- If the Rah-Veer takes the victim directly to the hospital, the hospital must inform the local police station.\n- The police then issue the acknowledgment slip as above.\n\n> **District-Level Evaluation Committee:**\n\n\n- Composed of the District Magistrate, Superintendent of Police (SSP), Chief Medical Officer (CMOH), and Regional Transport Officer (RTO).\n- Reviews and approves the cases on a monthly basis.\n\n> **State-Level Monitoring:**\n\n\n- Headed by the Principal Secretary (Home) with members including the Commissioner (Health), ADGP (Traffic and Road Safety), and Commissioner (Transport) as Member Secretary.\n- Conducts quarterly reviews to ensure smooth implementation.\n\n> **Disbursement:**\n\n\n- After approval, the Transport Commissioner, Bhopal, processes the payment directly into the Rah-Veer’s bank account through PFMS.\n- The Ministry of Road Transport and Highways (MoRTH) provides monthly reimbursement to the State Transport Department.\n\n> **National-Level Recognition:**\n\n\n- Each year, up to three exceptional Rah-Veers are nominated for national awards.\n\n<br>\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dhar.nic.in/%E0%A4%B0%E0%A4%BE%E0%A4%B9-%E0%A4%B5%E0%A5%80%E0%A4%B0-%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF-%E0%A4%B8/"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=985"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "mssmpbocwwb",
+  "name": "Maternity Support Scheme (MPBOCWWB)",
+  "shortTitle": "MSSMPBOCWWB",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Maternity Support Scheme\" by the MPBOCW Welfare Board, Labour Department, Government of Madhya Pradesh provides an amount of ₹16,000/- as maternity allowance, payable in two installments.",
+  "descriptionMd": "The &quot;Maternity Support Scheme&quot; by the Building and Other Construction Workers Welfare Board, Labour Department, Jammu &amp; Kashmir, provides financial assistance of ₹16,000/- as maternity allowance, payable in two installments. Only registered construction workers or their wives are eligible to receive the benefits under this scheme.\n<br>\n\n<br>\n\n<br>\n\n<br>",
+  "benefitsMd": "1. **First Installment:** ₹4,000 for registration of pregnancy in the first trimester.1. **Second Installment:** ₹12,000 for:\n\n- Delivery in government or authorized non-government hospitals under the Ayushman Bharat &quot;Niramayam&quot; program for pregnancy and delivery-related high-risk packages.\n- Registration of newborns after institutional birth.\n- Early breastfeeding of babies.\n- BCG, OPV, and Hep B vaccination for the infant.\n\n**Total Amount: ₹16,000**",
+  "eligibilityMd": "**For Registration as a Building/ Construction Worker:**\n\n1. The applicant should be a resident of Madhya Pradesh.\n1. The applicant should be a Building/ Construction Worker.\n1. The applicant should be between 18 and 60 years.\n1. The applicant should have engaged in any building or other construction work for at least 90 days during the preceding 12 months.\n1. The applicant should be registration is renewed annually.\n\n**For the Application of the Welfare Scheme:**\n\n1. The applicant should be registered Under the Building and Other Construction Workers Welfare Board of Madhya Pradesh.\n1. The applicant should be pregnant.\n1. The worker&#39;s membership with the Welfare Board must be active at the time of application.\n\n**NOTE:** Assistance is limited to a maximum of three children.\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Registration of a Construction Worker under MPBOCWWB:**\nStep 1: Go to the Shram Seva Portal (MPBOCWWB) [official website.](https://labour.mp.gov.in/Default.aspx)\nStep 2: On the homepage, find and click on &quot;Registration of Construction Worker.&quot;\nStep 3:Select the option &quot;[Apply online](https://labour.mp.gov.in/Public/Application/RegsiterSchemeApplication.aspx) for registration as a beneficiary.&quot;\nStep 4: Enter your Composite Member ID and Samagra Family ID, then click Get Details.\nStep 5: Your family or beneficiary details will be displayed on the screen.\nStep 8: Complete the form by entering all required details (marked with *).\nStep 9: Upload all necessary documents, such as ID proof and other relevant certificates.\nStep 10:After completing the form and uploading the documents, click Submit and pay the application fee online.\nStep11 : You will receive a registration number after successful payment and submission.\n<br>\n\n**Steps to Apply for Scheme Benefits:**\nStep1: Go to the Shram Seva Portal (MPBOCWWB) [official website.](https://labour.mp.gov.in/Default.aspx)\nStep2: On the homepage, find and click on Planning Application, then register the applications of registered workers for the [benefits of schemes](https://labour.mp.gov.in/Public/Application/RegsiterSchemeApplication.aspx).\nStep 3: Enter your Labor Registration Number (Portal Code) and the code displayed in the image, then click View Details.\nStep4: Choose the scheme you wish to apply for in order to avail the benefits.\nStep5: Enter all required information and upload the necessary documents as prompted.\nStep6: Finally, click on Submit Application to complete the process.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://labour.mp.gov.in/Public/Pages/Schemes/PrasutiSahayta.aspx"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=333"
+    },
+    {
+      "title": "Labour Registration",
+      "url": "https://labour.mp.gov.in/Public/Registration/BeneficiaryRegistrationRequest.aspx"
+    },
+    {
+      "title": "Scheme Registration",
+      "url": "https://labour.mp.gov.in/Public/Application/RegsiterSchemeApplication.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

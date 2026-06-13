@@ -1,0 +1,27 @@
+{
+  "slug": "copvf",
+  "name": "Conducting Outreach Programmes in Various Fields",
+  "shortTitle": "COPVF",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Science And Technology",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "It aims to promote scientific awareness among students, teachers, and the general public by conducting outreach programmes and activities in various fields of science through both online and offline modes, thereby making science education and research more accessible across the state.",
+  "descriptionMd": "The scheme “Conducting Outreach Programmes in Various Fields” is implemented by the Uttarakhand Science Education and Research Centre (USERC) under the Department of Science and Technology, Government of Uttarakhand. It aims to promote scientific awareness among students, teachers, and the general public by conducting outreach programmes and activities in various fields of science through both online and offline modes, thereby making science education and research more accessible across the state.\n<br>",
+  "benefitsMd": "In order to make the benefits of science education and research accessible to every individual in the state, information regarding the development of scientific consciousness and the dissemination of scientific knowledge among students, teachers, and the general public through online and offline mediums is disseminated through various social media sites, USERC Science Awareness Centres (currently 200 in the state), and USERC Nodal Officers working in higher education.\n<br>",
+  "eligibilityMd": "1. The applicant must be a student or a person (general public) from Uttarakhand.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "There is no fixed duration for outreach programs; some last one day, while others span multiple days. To participate, USERC first solicits applications through a Google form, after which all students are free to join. In offline programs, students from nearby schools and the general public can participate, with information provided by the relevant venue or USERC Science Awareness Centres.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 118)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

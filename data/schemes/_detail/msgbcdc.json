@@ -1,0 +1,35 @@
+{
+  "slug": "msgbcdc",
+  "name": "Mahila Samruddhi (Gujarat Backward Caste Development Corporation)",
+  "shortTitle": "MSGBCDC",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to create self-employment for women from the backward classes. Through this scheme, low-interest rate loans are provided to female beneficiaries.",
+  "descriptionMd": "The scheme &quot;Mahila Samruddhi&quot; by the Social Justice and Empowerment Department, Government of Gujarat, aims to provide a small-scale credit scheme for creating self-employment for women from backward classes. Through this scheme, low-interest rate loans are provided to female beneficiaries, enabling them to undertake a business of their choice. The scheme is implemented by the Gujarat Backward Class Development Corporation. The primary objective is to empower women from socially and educationally backward classes by facilitating self-employment opportunities.\n<br>",
+  "benefitsMd": "1. The maximum loan limit under this scheme is up to ₹1,25,000/-.\n1. The interest rate on these schemes will be 4% per annum.\n1. In these schemes, 95% of the unit cost will be provided as a loan, where 95% will be contributed by the National Corporation and 5% by the State Government.\n1. This loan is to be repaid in 48 equal monthly installments, including interest.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be female.\n1. The applicant must be a resident of Gujarat.\n1. The applicant should belong to a socially and educationally backward class, specifically Other Backward Classes (OBC).\n1. The total annual income of the applicant&#39;s family should not exceed ₹3,00,000/-.\n1. The applicant&#39;s age should be between 21 and 45 years on the date of application.\n1. The applicant must have experience in a business requiring technical and other skills.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the [official website](https://gbcdconline.gujarat.gov.in/) of the Gujarat Backwards Caste Development Corporation.\n**Step 2:** On the top menu bar, click on &quot;Apply Online&quot;.\n**Step 3:** If you’re a new user, click on &quot;New Registration&quot; Enter personal details (name, mobile number, email, aadhaar number, etc.), create a password, and complete OTP verification.\n**Step 4:** Use your registered credentials (User ID and password) to log in.\n**Step 5:** Click on “New Application”. Select “Mahila Samruddhi” from the list of available schemes.\n**Step 6:** Fill out the Application Form, enter the following details:\n\n- Personal Information: Name, gender, date of birth, caste, etc.\n- Address Information: Permanent and correspondence address\n- Income Details: Monthly family income and source\n- Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)\n- Bank Account Details: For loan disbursement\n\n**Step 7:** Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.\n**Step 8:** Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.\n**Step 9:** Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.gujarat.gov.in/gbcdc/Schemes/1456"
+    },
+    {
+      "title": "Online Application",
+      "url": "https://gbcdconline.gujarat.gov.in/"
+    },
+    {
+      "title": "More Details",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

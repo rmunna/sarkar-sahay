@@ -1,0 +1,35 @@
+{
+  "slug": "tepssmpbocwwb",
+  "name": "Tool/Equipment Purchase Subsidy Scheme (MPBOCWWB)",
+  "shortTitle": "TEPSSMPBOCWWB",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Launched on January 1, 2018, the \"Tool/Equipment Purchase Subsidy Scheme\" provides financial assistance to construction workers registered under the M.P. Building and Other Construction Workers Welfare Board for the purchase of tools and equipment related to their work.",
+  "descriptionMd": "Launched on 1st January 2018, the &quot;Tool/Equipment Purchase Subsidy Scheme&quot; offers financial assistance to construction workers registered under the M.P. Building and Other Construction Workers Welfare Board, helping them purchase tools and equipment related to their work. To be eligible, workers must possess a valid identity card from the Mandal, and they can receive a subsidy of up to 10% of the loan taken for the tool kit, or ₹5,000, whichever is less, within 3 months of the equipment purchase date.",
+  "benefitsMd": "The benefit is 10% of the loan or ₹5,000, whichever is lower.",
+  "eligibilityMd": "**For Registration as a Building/ Construction Worker:**\n\n1. The applicant should be a resident of Madhya Pradesh.\n1. The applicant should be a Building/ Construction Worker.\n1. The applicant should be between 18 and 60 years.\n1. The applicant should have engaged in any building or other construction work for at least 90 days during the preceding 12 months.\n1. The applicant should be registration is renewed annually.\n\n**For the Application of the Welfare Scheme:**\n\n1. The applicant should be registered Under the Building and Other Construction Workers Welfare Board of Madhya Pradesh.\n1. The worker should possess a valid identity card issued by the Mandal.\n1. The worker should be up to 60 years of age.\n1. The subsidy should be available once in a lifetime for the worker.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit (during office hours) the Officer Assistant Welfare Commissioner Labor Kalyan Mandal Bhopal and request the hard copy of the prescribed format of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n**NOTE 1:** Ensure that the application is submitted within the prescribed period, if any.\n**NOTE 2:** Up to 03 months from the equipment purchase date.\n**NOTE 3:** First Appellate Officer Assistant Welfare Commissioner Labor Kalyan Mandal Bhopal Second Appellate Officer Welfare Commissioner Labor Kalyan Mandal Bhopal.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://labour.mp.gov.in/Public/Pages/Schemes/AujarUpkaranKharidiYojna.aspx"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=882"
+    },
+    {
+      "title": "Labour Registration",
+      "url": "https://labour.mp.gov.in/Public/Registration/BeneficiaryRegistrationRequest.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

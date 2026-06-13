@@ -1,0 +1,31 @@
+{
+  "slug": "afsispscupsce",
+  "name": "Award for Success in State Public Service Commission, Union Public Service Commission Examination (MPBOCWWB)",
+  "shortTitle": "AFSISPSCUPSCE",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The State Public Service Commission and Union Public Service Commission Examination Success Award Scheme, 2012 provides an incentive to sons and daughters of registered construction workers, up to 45 years of age, selected in State or Union Public Service Commission exams.",
+  "descriptionMd": "Under the&quot; State Public Service Commission and Union Public Service Commission Examination Success Award Scheme&quot; by the Labour Department, Government of Madhya Pradesh, the sons and daughters of registered construction workers who are selected at various levels in the State Public Service Commission or Union Public Service Commission examinations, are provided incentives ranging from ₹15,000/- to ₹50,000/-.",
+  "benefitsMd": "**Incentives Upon Selection in &quot;Madhya Pradesh Public Service Commission&quot; Exam**\n\n- Preliminary Exam: ₹15,000/-\n- Main Exam: ₹25,000/-\n\n**Incentives Upon Selection in &quot;Union Public Service Commission&quot; Exam**\n\n- Preliminary Exam: ₹25,000/-\n- Main Exam: ₹50,000/-",
+  "eligibilityMd": "**For Registration**\n\n1. The applicant should be a resident of Madhya Pradesh.\n1. The applicant should be a Building/ Construction Worker.\n1. The applicant should be between 18 and 60 years.\n1. The applicant should have engaged in any building or other construction work for at least 90 days during the preceding 12 months.\n1. The registration of the applicant should be renewed annually.\n\n**For Application**\n\n1. The applicant should be a son or daughter of a registered Building/ Construction Worker.\n1. The applicant should be up to 45 years of age.\n1. The applicant should be in possession of a valid identity card issued by the Labour Department.\n1. The applicant should be selected at Preliminary or Main Level of either the &quot;State Public Service Commission Examination&quot; or the &quot;Union Public Service Commission Examination&quot;.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**(For Registration Only)**\n**Step 1:** Go to the Shram Seva Portal (MPBOCWWB) [official website.](https://labour.mp.gov.in/Default.aspx)\n**Step 2:** On the homepage, find and click on &quot;Registration of Construction Worker.&quot;\n**Step 3:** Select the option &quot;[Apply online](https://labour.mp.gov.in/Public/Application/RegsiterSchemeApplication.aspx) for registration as a beneficiary.&quot;\n**Step 4:** Enter your Composite Member ID and Samagra Family ID, then click Get Details.\n**Step 5:** Your family or beneficiary details will be displayed on the screen.\n**Step 8:** Complete the form by entering all required details (marked with *).\n**Step 9:** Upload all necessary documents, such as ID proof and other relevant certificates.\n**Step 10:** After completing the form and uploading the documents, click Submit and pay the application fee online.\n**Step 11:** You will receive a registration number after successful payment and submission.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://labour.mp.gov.in/Public/Pages/Schemes/RajyaLokSevaAyog.aspx"
+    },
+    {
+      "title": "Labour Registration",
+      "url": "https://labour.mp.gov.in/Public/Registration/BeneficiaryRegistrationRequest.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

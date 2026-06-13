@@ -1,0 +1,27 @@
+{
+  "slug": "nets",
+  "name": "NAMO E-Tablet Scheme",
+  "shortTitle": "NETS",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The Namo Tablet Yojana in Gujarat is a state-specific version of the central government's PM Tablet Scheme. The scheme was launched in 2017 by the Gujarat government and aims to distribute tablets to around 3.5 lakh students in the state.",
+  "descriptionMd": "**Detailed** \nUnder the Gujarat Namo Tablet Yojana, tablets are provided to students studying in colleges and universities in the state. . The tablets are given to students for free and are preloaded with educational content, including textbooks, e-books, and video lectures, to facilitate their studies.\nThe Gujarat Namo Tablet Yojana is part of the state government&amp;#39;s efforts to promote digital learning and reduce the digital divide among students from different socioeconomic backgrounds. The tablets distributed under the scheme are equipped with 4G connectivity and have a screen size of 7 inches.",
+  "benefitsMd": "",
+  "eligibilityMd": "**Eligibility** \n\n- The students should have passed the 12th examination from a recognized institution and board in Gujarat. \n- He or she must be in the first year of college. \n- Students who have taken up polytechnic are also eligible.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://kcg.gujarat.gov.in/namo-e-tablet-scheme"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

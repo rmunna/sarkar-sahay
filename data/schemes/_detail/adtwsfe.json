@@ -1,0 +1,27 @@
+{
+  "slug": "adtwsfe",
+  "name": "Adi Dravidar and Tribal Welfare Department: Scholarship-Free Education upto 12th Std. to All",
+  "shortTitle": "ADTWSFE",
+  "level": "state",
+  "state": "Tamil Nadu",
+  "nodalDept": "Adi Dravidar and Tribal Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This scheme provides free education for Adi Dravidar, Tribal and Adi Dravidar (Converted to Christianity) students up to 12th standard, covering tuition fees, which are reimbursed by the government.",
+  "descriptionMd": "The scheme “Adi Dravidar and Tribal Welfare Department: Scholarship-Free Education upto 12th Std. to All” by the Adi Dravidar and Tribal Welfare Department, Tamil Nadu, is designed to support students from Adi Dravidar, Tribal, and Adi Dravidar Converted to Christianity communities by offering free education up to the 12th standard. The tuition fees for eligible students are waived, and the government reimburses the amount, ensuring financial barriers do not hinder access to education.\n&lt;br&gt;",
+  "benefitsMd": "- Reimbursement: Full reimbursement of tuition fees for students up to the 12th standard.",
+  "eligibilityMd": "- The beneficiary should be a Student.\n  - The beneficiary should be a resident of Tamil Nadu.\n  - The beneficiary should belong to the Adi Dravidar/Tribal/Adi Dravidar converted to Christianity community.\n  - The beneficiary must be enrolled in a school up to the 12th standard.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "- Students/ Guardians should contact the Headmaster of the School with all the required documents as directed by the authority.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/83084"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

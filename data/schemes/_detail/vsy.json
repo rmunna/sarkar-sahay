@@ -1,0 +1,36 @@
+{
+  "slug": "vsy",
+  "name": "Vivah Sahayata Yojana",
+  "shortTitle": "VSY",
+  "level": "state",
+  "state": "Jharkhand",
+  "nodalDept": "Labour, Employment, Training and Skill Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Vivah Sahayata Yojana\" is a scheme by the Department of Labour, Employment, Training & Skill Development Govt of Jharkhand. The scheme provides financial assistance of ₹ 30,000/- (Rupees Thirty Thousand Only) rupees for the marriage of two children / female members of the family.",
+  "descriptionMd": "&quot;Vivah Sahayata Yojana&quot; is a scheme by the Department of Labour, Employment, Training &amp; Skill Development Govt of Jharkhand. This is a 100% State Sponsored Scheme. Only the residents/domicile of the state of Jharkhand can apply to this scheme. Applications for this scheme are accepted online through the official website of the department. The scheme provides financial assistance of ₹ 30,000/- (Rupees Thirty Thousand Only) rupees for the marriage of two children / female members of the family.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant should be a domicile in the state of Jharkhand.\n1. The applicant should be a Worker registered with the &#39;Jharkhand Building and Other Construction Worker Welfare Board (JBOCWW Board)&#39;.The applicant should be between 18-60 years of age.\n1. The applicant should be engaged in construction work such as masons, carpenters, electricians, porters, painters, etc.\n1. The registered worker should have made continuous contributions for five years. \n1. The bride should be at least 18 years of age. \n1. The groom should be at least 21 years of age.\n1. The scheme is applicable for up to two children / female members of the family.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://shramadhan.jharkhand.gov.in/schemmeDetailsShow.action"
+    },
+    {
+      "title": "Application Process",
+      "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/BOC_SCHEME_BENEFIT_APPLICANT_SIDE.pdf"
+    },
+    {
+      "title": "District-Wise Contact Details Of Labour Offices",
+      "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/labourcontactdetails.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

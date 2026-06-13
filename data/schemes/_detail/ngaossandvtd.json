@@ -1,0 +1,27 @@
+{
+  "slug": "ngaossandvtd",
+  "name": "Non-Governmental Aided Organization (Special Schools And Vocational Training Centre) For Disabled",
+  "shortTitle": "NGAO(SS&VT)D",
+  "level": "state",
+  "state": "Maharashtra",
+  "nodalDept": "Social Justice and Special Assistance Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "In this scheme, Special Education is provided to children with disability who are below the age of 18 years. The child should be enrolled in a special school run by a Non-Governmental Aided Organization. Vocational Training is given to special children above the age of 18 years.",
+  "descriptionMd": "The &quot;Non-Governmental Aided Organization (Special Schools and Vocational Training Centre) for Disabled&quot; is a scheme by the Department of Social Justice &amp; Special Assistance, Govt. of Maharashtra. In this scheme, Special Education is provided to children with disability who are below the age of 18 years. The child should be enrolled in a special school run by a Non-Governmental Aided Organization. Vocational Training is given to special children above the age of 18 years. Only citizens who are permanent residents of the state of Maharashtra are eligible to apply for this scheme. This scheme is 100% funded by the Govt. of Maharashtra.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant should be a citizen of India.\n1. The applicant should be a permanent resident of Maharashtra State.\n1. The applicant should be enrolled in a Non-Government Institution / Residential Institution.\n1. The applicant should be a Person with Disability (Visually Impaired, Hearing Impaired, Orthopedically Handicapped, etc).\n1. The percentage of disability should be 40% and above.\n1. For Special Education, the age of the applicant should be between 6 to 18 years.\n1. For Vocational Education, the age of the applicant should be 18 years and above.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

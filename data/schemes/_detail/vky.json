@@ -1,0 +1,37 @@
+{
+  "slug": "vky",
+  "name": "Vanbandhu Kalyan Yojana",
+  "shortTitle": "VKY",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Tribal Development Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Family",
+    "Registered Societies",
+    "Village"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Vanbandhu Kalyan Yojana focuses on integrated, holistic, and inclusive development of tribal communities. It aims at creation of quality social and civil infrastructure, and sustainable livelihood, employment & entrepreneurship in tribal areas such that the income of every tribal family doubles.",
+  "descriptionMd": "Vanbandhu Kalyan Yojana focuses on integrated, holistic and inclusive development of tribal communities. It aims at creation of quality social and civil infrastructure, and sustainable livelihood, employment &amp;amp; entrepreneurship in tribal areas such that the income of every tribal family doubles. The approach is mission mode implementation of need-based outcome-oriented projects that improve the quality of life of tribal people and bring happiness and prosperity.\n&lt;br&gt;\n\n**Ten Points-Focus areas of VKY**\n&lt;br&gt;\n\n\n  - Employment opportunities\n  - Emphasis on Quality Education &amp;amp; Higher Education\n  - Economic Development\n  - Health\n  - Housing\n  - Safe drinking water\n  - Irrigation\n  - Universal Electrification\n  - All-Weather Road Connectivity\n  - Urban development",
+  "benefitsMd": "- Double the income of all tribal families, with a special focus on the migrant families and the Particularly Vulnerable Tribal Groups\n  - Increas in animal husbandry and dairy based activities\n  - Access to quality education for every eligible tribal child and increased emphasis on higher education.\n  - Double the income of all tribal families including migrant tribal families and Particularly Vulnerable Tribal Groups\n  - Support the socio-economic development of all tribal families by providing access to necessary amenities for a healthy living.\n  - Provide a house to each tribal family, including those from Particularly Venerable Tribal Groups,\n  - provide access to safe drinking water to all tribal families\n  - Assured income from agriculture to all tribal farmers \n  - Ensure universal electrification for all Scheduled Tribe households and villages for improved quality of life and economic development.\n  - Promote wealth creation in tribal areas and improve the quality of life of all tribal families.\n  - Develop tribal towns as growth engines to augment the income of tribal families.",
+  "eligibilityMd": "1. Beneficiary must be from Tribal Category. \n1. Must belong to BPL group.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "The citizen need not apply to the scheme.",
+  "references": [
+    {
+      "title": "Portal",
+      "url": "https://vky.gujarat.gov.in/home"
+    },
+    {
+      "title": "Portal",
+      "url": "https://tribal.gujarat.gov.in/vanbandhu-kalyan-yojana"
+    },
+    {
+      "title": "Portal",
+      "url": "https://tribal.guj.nic.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

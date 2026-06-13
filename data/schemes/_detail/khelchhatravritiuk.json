@@ -1,0 +1,27 @@
+{
+  "slug": "khelchhatravritiuk",
+  "name": "Sports Scholarship (UG) - Uttarakhand",
+  "shortTitle": "SSUG",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide monthly financial assistance of ₹800/- in the form of scholarships to undergraduate students who excel in sports.",
+  "descriptionMd": "The “Sports Scholarship (UG)” scheme is implemented by Govind Ballabh Pant University of Agriculture and Technology, Pantnagar, under the Department of Agriculture, Government of Uttarakhand. The scheme aims to provide monthly financial assistance in the form of scholarships to undergraduate students who excel in sports.\n<br>",
+  "benefitsMd": "**Rate of Scholarship:** ₹800/- per month.\n<br>",
+  "eligibilityMd": "1. The applicant must be a student.\n   1. The applicant must be enrolled in the first year of an undergraduate course at Govind Ballabh Pant University of Agriculture and Technology, Pantnagar.\n   1. The applicant must be one of the six selected students eligible to receive this benefit.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "First, applications are invited from students using a prescribed form. Thereafter, a committee constituted by the Vice-Chancellor evaluates the received applications as per the established selection process. Based on the committee’s recommendations, the Vice-Chancellor approves the selected students, following which the scholarship amount is disbursed to them.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 180)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "donpv",
+  "name": "Distribution of Nuclear Poly Hedrosis Virus",
+  "shortTitle": "DONPV",
+  "level": "state",
+  "state": "Tamil Nadu",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Distribution of Nuclear Poly Hedrosis Virus\" scheme provides subsidies for the distribution of Nuclear Poly Hedrosis Virus (NPV) to farmers raising seed farms with Pulses crops.",
+  "descriptionMd": "The “Distribution of Nuclear Poly Hedrosis Virus” scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, provides subsidies for the distribution of Nuclear Poly Hedrosis Virus (NPV) to farmers raising seed farms with Pulses crops.",
+  "benefitsMd": "- **Quantum of Assistance:** 50% cost of input limited to ₹250/- per hectare.\n<br>",
+  "eligibilityMd": "- The beneficiary should be a Farmer.\n  - The beneficiary should be a resident of Tamil Nadu.\n  - The beneficiary should raise seed farms with Pulses crops.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/7078"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

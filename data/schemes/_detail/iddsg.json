@@ -1,0 +1,27 @@
+{
+  "slug": "iddsg",
+  "name": "Integrated Dairy Development Scheme Gujarat",
+  "shortTitle": "IDDSG",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Tribal Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "Under this scheme, tribal women beneficiaries are provided with milch cattle, dairy equipment, and financial assistance of up to ₹90,000 per unit.",
+  "descriptionMd": "The “Integrated Dairy Development Scheme” was launched by the Tribal Development Department, Government of Gujarat. It aims to uplift tribal families living below the poverty line by providing sustainable livelihood opportunities through dairy farming. Under this scheme, tribal women beneficiaries receive milch cattle along with essential dairy equipment. \n<br>",
+  "benefitsMd": "> **Financial Assistance Structure:**\n\n\n- Total unit cost: ₹90,000\n- GTDC Loan (Gujarat Tribal Development Corporation): ₹29,000\n- Government of India Subsidy: ₹29,000\n- State Government Assistance: ₹29,000\n- Beneficiary Contribution: ₹3,000\n- Milch cattle and dairy equipment provided to tribal women beneficiaries.\n\n<br>",
+  "eligibilityMd": "1. The applicant should be a woman. \n1. The applicant should belong to Scheduled Tribes (ST).\n1. The applicant should belong to a Below Poverty Line (BPL) family.\n1. The applicant should be a farmer, livestock keeper (Pashu Palak), or self-employed woman in tribal or forest areas.\n1. The applicant should be interested in self-employment through dairy farming.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Application Process:**\n\n**Step 1:** Visit the [official website of](https://dsagsahay.gujarat.gov.in/)[ ](https://dsagsahay.gujarat.gov.in/)[Development Support Agency of Gujarat (D-SAG)](https://dsagsahay.gujarat.gov.in/), [Tribal Development Department](https://dsagsahay.gujarat.gov.in/).\n**Step 2:** Click on Beneficiary Registration. A new page will appears. Select &quot;New beneficiary registration&quot; if you are registering for the first time.\n**Step 3:** Register by entering your Ration Card Number and Mobile Number, then click GET OTP.\n**Step 4:** Enter the One Time Password (OTP) received on your mobile number and click Register.\n**Step 5:** Upon successful registration, a Success pop-up will appear.\n**Step 6:** Select your Applicant Type from the available options: Livestock Keeper, Farmer and Livestock Keeper, or Student/Trainee. Click Save.\n**Step 7:** Fill in the General Details, Personal Details, Bank Details, as required, and click the Proceed button. Confirm by clicking OK on the pop-up.\n**Step 8:** Upload the required documents by clicking Choose File and then Upload File.\n**Step 9:** After uploading all documents, a window will appear. Click View to check each document. If any document was uploaded incorrectly, click Delete and re-upload it.\n**Step 10:** Once all documents are verified, click the Proceed button. Confirm by clicking OK on the pop-up.\n**Step 11:** After completing these steps, your profile will be created, and the portal dashboard will be displayed.\n> **Tracking Process:**\n\n**Step 1:** Visit the [official website](https://dsagsahay.gujarat.gov.in/#) of Development Support Agency of Gujarat (D-SAG), Tribal Development Department.\n**Step 2:** Click on &quot;Application Status&quot;. A pop-up window will appear.\n**Step 3:** Select the &quot;Scheme name&quot; from the options provided.\n**Step 4:** Enter your application number in the designated field.\n**Step 5:** Click on &quot;Application Status&quot; again to view the status of your application.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

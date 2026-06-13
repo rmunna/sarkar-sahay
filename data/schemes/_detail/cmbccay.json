@@ -1,0 +1,27 @@
+{
+  "slug": "cmbccay",
+  "name": "Chief Minister BC & EBC Chhatravas Anudan Yojana",
+  "shortTitle": "CMBCCAY",
+  "level": "state",
+  "state": "Bihar",
+  "nodalDept": "BC & EBC Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Chief Minister BC & EBC Chhatravas Anudan Yojana\", implemented by the Backward Classes and Extremely Backward Classes Welfare Department, provides financial assistance to students from Backward Classes (BC) and Extremely Backward Classes (EBC) residing in government hostels.",
+  "descriptionMd": "The &amp;quot;Chief Minister BC &amp;amp; EBC Chhatravas Anudan Yojana&amp;quot;, implemented by the Backward Classes and Extremely Backward Classes Welfare Department, aims to support students belonging to Backward Classes (BC) and Extremely Backward Classes (EBC) residing in government hostels by providing them a financial grant to cover their essential needs.",
+  "benefitsMd": "- **Financial Assistance:**  ₹1,000/- per month for students residing in government hostels.",
+  "eligibilityMd": "1. The applicant must belong to the BC or EBC category.\n1. The annual family income should be less than ₹3,00,000/-.\n1. The student must be residing in a government hostel.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "Step 1: The applicant must first register on the [e-Kalyan portal](https://bcebconline.bihar.gov.in/cay/Login.aspx?Id=7).\nStep 2: To complete the registration, the applicant must fill in the following details: Personal details &amp;amp; Contact details\nStep 3: After registration, the applicant must log in using the provided User ID and Password.\nStep 4: Once logged in, the applicant must carefully fill out the application form.\nStep 5: All required documents must be uploaded to the portal.\nStep 6: The application form, along with the uploaded documents, will be verified by the concerned authorities.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://state.bihar.gov.in/bcebcwelfare/Content.html?links&page=Schemes"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

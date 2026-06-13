@@ -1,0 +1,31 @@
+{
+  "slug": "steu",
+  "name": "Stipend to Educated Unemployed",
+  "shortTitle": "STEU",
+  "level": "state",
+  "state": "Mizoram",
+  "nodalDept": "Social Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, provides a stipend of ₹650 per month to assist 25 educated persons with disabilities who have registered in an Employment Exchange for over three years and have not been placed in gainful employment.",
+  "descriptionMd": "The Stipend to Educated Unemployed scheme was launched by the Social Welfare &amp; Tribal Affairs Department, Government of Mizoram. Under this scheme, provides a stipend of ₹650 per month to assist 25 educated persons with disabilities who have registered in an Employment Exchange for over three years and have not been placed in gainful employment.",
+  "benefitsMd": "- Stipend of ₹650/- per month to the educated unemployed individuals with disabilities.",
+  "eligibilityMd": "1. The applicant should be a resident of Mizoram.\n1. The applicant should be a disabled person. \n1. The applicant should be an educated unemployed registered with an Employment Exchange for at least three years.\n1. The applicant should be from the Below Poverty Line (BPL) family.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The applicant writes the application on plain paper. \n**Step 2:** In the application form attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application along with the documents to the District Social Welfare Office\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable).\n<br>\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socialwelfare.mizoram.gov.in/page/stipend-to-educated-unemployed"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://socialwelfare.mizoram.gov.in/page/welcome-to-directorate-of-social-welfare"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

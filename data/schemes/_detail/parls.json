@@ -1,0 +1,27 @@
+{
+  "slug": "parls",
+  "name": "Passenger Auto Rickshaw Loan Scheme (DAADC)",
+  "shortTitle": "PARLS",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Passenger Auto Rickshaw Loan Scheme\" introduced by the Social Justice and Empowerment Department offers financial assistance in the form of loans to Scheduled Caste individuals from Antyodaya families to purchase passenger auto rickshaws and enhance their livelihood opportunities.",
+  "descriptionMd": "The &amp;quot;Passenger Auto Rickshaw Loan Scheme&amp;quot; introduced by the Social Justice and Empowerment Department, Gujarat, aims to provide financial assistance in the form of loans to Scheduled Caste individuals from Antyodaya families to purchase passenger auto rickshaws, enabling them to generate sustainable income through transport services. The scheme is being implemented by the Dr. Ambedkar Antyodaya Development Corporation.",
+  "benefitsMd": "- Financial assistance in the form of a loan.",
+  "eligibilityMd": "- The Applicant must be a permanent resident of Gujarat.\n  - The Applicant must belong to a Scheduled Caste (SC) community.\n  - The Applicant must be from an Antyodaya family.\n  - The Applicant’s family income must not exceed ₹3,00,000/- per annum.\n\n&lt;br&gt;",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the official [DAADC ](https://daadconline.gujarat.gov.in/)online portal.\n**Step 2:** Register/log in using your credentials.\n**Step 3:** Fill out the application form with accurate personal and scheme-specific details.\n**Step 4:** Upload the required documents and submit.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

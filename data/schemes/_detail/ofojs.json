@@ -1,0 +1,39 @@
+{
+  "slug": "ofojs",
+  "name": "One Family One Job Scheme",
+  "shortTitle": "OFOJS",
+  "level": "state",
+  "state": "Haryana",
+  "nodalDept": "Employment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme is implemented by the Directorate of Employment, Government of Haryana on 1st December, 1992 in Haryana State. Eligible applicants can register their names under this scheme, making them eligible for all benefits provided by the Employment Department.",
+  "descriptionMd": "The scheme “One Family One Job Scheme” is implemented by the Directorate of Employment, Government of Haryana on 1st December, 1992 in Haryana State. Eligible applicants can register their names under this scheme, making them eligible for all benefits provided by the Employment Department. A resident of Haryana State aged 18 to 35 years (with a relaxation of up to 5 years for SC or BC applicants) is eligible to apply under the scheme, provided no member of their family is employed in the public or private sector and no family member is an income tax or sales taxpayer.",
+  "benefitsMd": "1. Candidates registered under this scheme are eligible for all benefits provided by the Employment Department.",
+  "eligibilityMd": "1. The applicant must be between 18 and 35 years old (with a relaxation of up to 5 years for SC or BC applicants).\n   1. The applicant must be a resident of Haryana State.\n   1. No member of the applicant&amp;#39;s family should be employed in the public or private sector.\n   1. No member of the applicant&amp;#39;s family should be an income tax or sales taxpayer.\n   1. No member of the applicant&amp;#39;s family should be a current or former MP/MLA or a chairman of any board, corporation, or undertaking.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 01:** The eligible applicant may apply online through the Official Portal- Antyodaya-SARAL Portal. [https://saralharyana.gov.in/](https://saralharyana.gov.in/)\n**Step 02:** If the applicant is not registered on the portal, he/she gets registered there. \n**Step 03:** For registration, click “[New User](https://saralharyana.gov.in/citizenRegistration.html)” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password &amp;amp; State. Click on ‘Submit’.\n**Step 04:** Verify your mobile number and email ID through the received OTP and complete the registration process.\n&gt; **Login to apply for the scheme:**\n\n**Step 01:** To avail the benefits of the scheme, visit the Official [Antyodaya-SARAL Portal](https://saralharyana.gov.in/) and log in through the email ID used while registering.\n**Step 02:** Enter Password &amp;amp; Captcha and click on ‘Login’.\n**Step 03:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’\n**Step 04:** Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form.\n**Step 05:** Enter your Parivar Pehchan Patra number - Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.\n**Step 06:** Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”\n**Step 07:** Fill in all the mandatory details and upload all the mandatory documents.\n**Step 08:** Preview the application form and click on ‘Submit’.\n&gt; **Tracking of Application:**\n\nApplicants can track his/her application through the Official [Antyodaya-SARAL Portal](https://status.saralharyana.nic.in/) by entering their Department Name, Scheme Name, and Application Reference ID.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://hrex.gov.in/api/downloadFile/pdf/ofoj.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=kPcdWFRjTQE0phQYgKiJwQ%3d%3d"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://hrex.gov.in/"
+    },
+    {
+      "title": "Antyodaya-SARAL Portal",
+      "url": "https://saralharyana.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

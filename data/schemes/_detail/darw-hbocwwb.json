@@ -1,0 +1,35 @@
+{
+  "slug": "darw-hbocwwb",
+  "name": "Death Assistance For Registered Worker (HBOCWWB)",
+  "shortTitle": "DARW-(HBOCWWB)",
+  "level": "state",
+  "state": "Haryana",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme “Death Assistance for Registered Worker (HBOCWWB)” was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana.",
+  "descriptionMd": "The scheme “Death Assistance for Registered Worker (HBOCWWB)” was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under the scheme, financial assistance of ₹2,00,000/- will be given to the nominee/legal heir/dependent family members of the registered worker on his natural death.",
+  "benefitsMd": "1. The financial assistance of ₹2,00,000/- will be given to the nominee/legal heir/dependent family members of the registered worker on his natural death.",
+  "eligibilityMd": "1. The deceased construction worker should have been registered with the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB).\n   1. The deceased construction worker should have held an active regular membership.\n   1. The only person who is a legal heir/dependent family member of the deceased registered worker is eligible to apply under the scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 01:** To avail of the benefits of the scheme, the applicant needs to visit the Official Portal -[Antyodaya-SARAL Portal](https://saralharyana.gov.in/)\n**Step 02:** If the applicant is not registered on the portal, then he/she gets registered on the portal. \n**Step 03:** For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number &amp;amp; password. Click on ‘Submit’.\n**Step 04:** Applicants will receive the login ID on their mobile number.\n&gt; **Login to Apply for the Scheme:**\n\n**Step 01:** Visit the Official Portal -[Antyodaya-SARAL Portal](https://saralharyana.gov.in/)\n**Step 02:** The “Sign in here” option is available on the right side of the screen. Applicant needs to fill in their credentials and click on the ‘Login’ button.\n**Step 03:** In the opened window, click on “Scheme/Services list” and a list of schemes will appear on the screen.\n**Step 04:** Now, select the scheme and click on “Apply for Service/Scheme”.\n**Step 05:** Fill in all the details asked in the online application form and submit the application form.",
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://hrylabour.gov.in/bocw/settings/schemeDetail/97"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=E7YXN9rKquvp%2fp7lO%2frGKA%3d%3d"
+    },
+    {
+      "title": "HBOCWWB Rule",
+      "url": "https://hrylabour.gov.in/staticdocs/labourActpdfdocs/HBOCW_Rules.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

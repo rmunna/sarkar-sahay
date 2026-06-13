@@ -1,0 +1,43 @@
+{
+  "slug": "ukmsmep2023",
+  "name": "Uttarakhand Micro, Small and Medium Enterprises Policy - 2023",
+  "shortTitle": "UKMSMEP2023",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Industry Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to promote investment and employment in the state by supporting the establishment, expansion, and diversification of micro, small, and medium enterprises through financial incentives and a favourable ecosystem.",
+  "descriptionMd": "The “Uttarakhand Micro, Small and Medium Enterprises Policy - 2023” is implemented by the Micro, Small, and Medium Enterprises (MSMEs) under the Department of Industries, Government of Uttarakhand. The scheme aims to promote investment and employment in the state by supporting the establishment, expansion, and diversification of micro, small, and medium enterprises through financial incentives and a favourable ecosystem.\n<br>",
+  "benefitsMd": "***Assistance Provided under the MSME Policy:***\n\n  - **DPR Assistance:** 75% reimbursement of expenditure incurred on the preparation of Detailed Project Report (DPR).  - **Stamp Duty Reimbursement:** 50% to 100%, depending on the category of the enterprise.  - **Capital Goods Assistance:** 20% to 50% of the total fixed capital investment in workshop building, plant, and machinery, up to a maximum reimbursement of ₹4 crore, as per the district and category of enterprise.  - **Interest Subsidy Reimbursement:** 2% to 4% per annum, within the prescribed maximum limit, as per the district and category of enterprise.  - **Electricity Duty Reimbursement:** 100% reimbursement for load up to 500 KW.  - **Market Fee Reimbursement:** 50% reimbursement, subject to a maximum annual limit.  - **Quality Certification Incentive Assistance:** 75% reimbursement, up to a maximum of ₹1 lakh.  - **Incentive for Cluster Development:** Financial incentive of 70% of the project cost, up to a maximum of ₹5 crore per project.\n<br>",
+  "eligibilityMd": "1. Micro, small, and medium manufacturing enterprises in Uttarakhand, excluding those in the restricted categories under the policy, will be eligible.\n   1. The benefits of the policy will be applicable only if there is a minimum of 25% additional capital investment in the existing enterprise along with at least a 25% increase in capacity.\n   1. Under the Uttarakhand Enterprise Single Window Facilitation and Licensing Act, 2012, enterprises must obtain in-principle approval from the District/State Empowered Committee before commencing commercial production by applying through the CAF (Common Application Form) via the single-window portal.\n   1. Financial incentives will be provided based on the category of the enterprise (Micro, Small, Medium) and the classification of the district/area (Category A, B, C, D).\n   1. For new units or substantial expansion of existing enterprises, commercial production must commence during the policy’s period of operation, starting from 01.08.2023.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "- Units fulfilling the eligibility criteria under the policy can apply for incentives through the Incentive Tab on the portal [www.investuttarakhand.uk.gov.in](https://investuttarakhand.uk.gov.in/) after commencing commercial production.  - Claims for financial incentives will be approved by the State Level Authorized Committee, headed by the Director General/Commissioner of Industries.\n  - Capital subsidy will be disbursed to micro enterprises in 2 equal annual installments and to small and medium enterprises in 5 equal annual installments. All other financial incentives will be provided in a lump sum.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines Page No. 100",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    },
+    {
+      "title": "Guidelines PDF",
+      "url": "https://investuttarakhand.uk.gov.in/themes/backend/acts/act_english1694183094.pdf"
+    },
+    {
+      "title": "Incentive Dashboard",
+      "url": "https://investuttarakhand.uk.gov.in/incentiveDashboard"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://investuttarakhand.uk.gov.in/themes/new_investuk/img/faq/MSME_Policy_2023_V1_FAQ.pdf"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://investuttarakhand.uk.gov.in/investmenttracking/uploads/icons/Investment%20Tracking%20Portal%20User%20Manual.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

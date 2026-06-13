@@ -1,0 +1,25 @@
+{
+  "slug": "fufs",
+  "name": "Free Uniforms for Students",
+  "shortTitle": "FUFS",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "School Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [],
+  "benefitType": "In Kind",
+  "briefDescription": "This scheme Launched on 1 July 2004 with the aims to ensure regular attendance and continuity in education by offering uniform assistance to both boys and girls enrolled in Classes 1 to 8.",
+  "descriptionMd": "Implemented by the School Education Department, Government of Madhya Pradesh, this state-sponsored initiative provides free uniforms to students of Classes 1 to 8 studying in government primary and middle schools. Launched on 1st July 2004, the scheme aims to promote regular attendance and reduce dropout rates among schoolchildren. Under this scheme, each boy is provided with two pairs of uniforms valued at ₹600, while each girl receives two pairs of stitched uniforms through the School Management Committee. The scheme extends its benefits to students across both rural and urban areas of the state.\n<br>",
+  "benefitsMd": "- Each boy and girl student is provided ₹600/- for two sets of uniforms.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a student of a government primary or middle school in Madhya Pradesh.\n1. Applicable for Classes 1 to 8.\n1. Student must be enrolled before 15 August of the academic year.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "1. No separate application is required.\n1. Eligible students enrolled in government schools are automatically covered under the scheme.\n1. The benefit is distributed through the School Management Committee.\n\n<br>\n\n<br>",
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=385"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "mmsby",
+  "name": "Mukhmantri Sehat Bima Yojana",
+  "shortTitle": "MMSBY",
+  "level": "state",
+  "state": "Punjab",
+  "nodalDept": "Department of Health & Family Welfare",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "\"AYUSHMAN BHARAT PM-JAY MUKH MANTRI SEHAT BIMA YOJNA” is a flagship State Health Insurance Program of the Government of Punjab.",
+  "descriptionMd": "Ayushman Bharat PM-JAY Mukhmantri Sehat Bima Yojana (AB PM-JAY MMSBY), was launched on 20 August 2019 this is a flagship State Health Insurance Scheme for the beneficiaires of State of Punjab. AB PM-JAY MMSBY will provide financial protection to 65% population of state of Punjab. It is entitlement based cashless Health Insurance cover. Under this scheme cashless and paperless treatment is available at Government and empaneled Private hospitals.\n&lt;br&gt;",
+  "benefitsMd": "- A cashless health insurance  cover of ₹5,00,000/- rupees per family per year for secondary and tertiary care hospitalization (in-patient services) for treatment of listed diseases and medical conditions.",
+  "eligibilityMd": "1. Residents of Punjab. \n1. Applicants should be from the following categories\n\n  - SECC 2011 data families, \n  - Smart Ration Card holder families, \n  - J-Form holder farmers, \n  - Small traders registered with Excise &amp; Taxation Department, \n  - Small &amp; Marginal Farmers, \n  - Accredited &amp; Yellow Card Journalist and Construction workers registered with Punjab Building &amp; Other Construction Workers Welfare Board.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **REGISTRATION PROCESS FOR E-CARD GENERATION**\n\n\n- Now generate e-card from home without visiting anywhere: Download &#39;Ayushman App&#39; on mobile or visit [https://beneficiary.nha.gov.in/](https://beneficiary.nha.gov.in/) to self-register.- Please visit any empaneled private or public hospital, lists available under &#39;[Hospitals](https://sha.punjab.gov.in/shapb/publicPages/hospSpltyView)&#39; on SHA website for getting e-card generation.",
+  "references": [
+    {
+      "title": "Official Portal",
+      "url": "https://sha.punjab.gov.in/shapunjab/index.php"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

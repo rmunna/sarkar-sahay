@@ -1,0 +1,31 @@
+{
+  "slug": "aaelss",
+  "name": "Assam Abhinandan Education Loan Subsidy Scheme",
+  "shortTitle": "AAELSS",
+  "level": "state",
+  "state": "Assam",
+  "nodalDept": "Finance Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Assam Abhinandan Education Loan Subsidy Scheme\" was launched on 26 December 2019 by the Hon'ble Chief Minister of Assam. The scheme is managed by the Finance Department, Govt. of Assam. The govt. will provide a loan subsidy of up to ₹ 50,000 on education loans to students pursuing higher education.",
+  "descriptionMd": "&amp;quot;Assam Abhinandan Education Loan Subsidy Scheme&amp;quot; was launched on 26 December 2019 by the Hon&amp;#39;ble Chief Minister of Assam. The scheme is managed by the Finance Department, Govt. of Assam. The govt. will provide a loan subsidy of up to ₹ 50,000 on education loans to students pursuing higher education. This scheme would cover all commercial banks like the Federal Bank and HDFC and also the regional rural banks like Assam Gramin Vikash Bank within Assam. The objective of this scheme is to encourage students to pursue higher studies by providing subsidies on education loans. The applicant students can apply for the subsidy by paying 25% of their loans. Only the students who are permanent residents of the state of Assam can apply to this scheme.\n<br>",
+  "benefitsMd": "The govt. will provide a loan subsidy of up to ₹ 50,000/- per student.",
+  "eligibilityMd": "1. The applicant student should be a permanent resident of Assam.\n1. The Education Loan should have been availed from any Scheduled Commercial Bank or Regional Rural Bank within the state recognized by the Reserve Bank of India.\n1. The education loan should be a minimum of ₹ 1,00,000.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the [official website](https://assamfinanceloans.in/subsidy/welcome). Navigate to the &quot;Click here for Loan Subsidy&quot; section.\n**Step 2:** Click &quot;Assam Abhinandan (Education Loan Subsidy Scheme)&quot;. You will be taken to &quot;[Application for Release for Subsidy](https://assamfinanceloans.in/subsidy/gotoHomeLoanApplication.action)&quot;. Fill in all the mandatory details: Applicant Name, Father’s Name, Date Of Birth, Address, Mobile Number, PAN Card Details, and Bank Details.\nUpload the Supporting Documents: Loan Proof (Loan Sanction Letter, Loan Account Passbook, Statement of Loan), Address Proof, and PAN Card.\n**Step 3:** Check the Declaration, and click &quot;Save&quot;.\n<br>\n\n> **Check Application Status:**\n\n**Step 1:** Visit the [official website](https://assamfinanceloans.in/subsidy/welcome). At the bottom right of the page, in the &quot;Application Tracking&quot; section, click &quot;Track&quot;.\n**Step 2:** On the next page, provide your Mobile Number, and Loan Account Number or Application Number, and click &quot;Submit&quot;.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://assam.gov.in/assam-abhinandan-education-loan-subsidy-scheme"
+    },
+    {
+      "title": "Description As On The Assam State Portal",
+      "url": "https://assam.gov.in/scheme-page/223"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

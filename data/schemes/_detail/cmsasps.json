@@ -1,0 +1,31 @@
+{
+  "slug": "cmsasps",
+  "name": "Chief Minister Specially Abled Samman Pension Scheme",
+  "shortTitle": "CMSASPS",
+  "level": "state",
+  "state": "Rajasthan",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Rajasthan Government started a scholarship for Specially Abled persons.",
+  "descriptionMd": "Chief Minister Specially Abled Samman Pension Scheme has been launched by the Government of Rajasthan. This scheme is an important scheme by the Government of Rajasthan for the Divyangjan of the state. It was started mainly to provide financial assistance to disabled persons.\nIn State, a specially-abled person of any age who is suffering from any one or more disabilities (40% and above disability) will be eligible for a pension. From October 2, 2021, the process of issuing automatic approval of applications received online without human intervention was started using the metadata available on the Jan Aadhaar portal for the pension scheme.",
+  "benefitsMd": "1. For women below 55 years of age and men below 58 years of age: Rs. 750/- per month. \n1. To women aged 55 years and above, men aged 58 years and above but less than 75 years of age: Rs. 1,000/- per month.\n1. To the beneficiaries of 75 years and above age ( male and female): Rs. 1,250/- per month.\n1. To leprosy-free beneficiaries of all ages  ( male and female): Rs. 1,500/- per month.",
+  "eligibilityMd": "1. Specially abled persons of any age with 40% and above disability.\n1. Applicants are suffering from any one or more following disabilities : \n\n   1. Blindness, \n   1. Short-sightedness, \n   1. Locomotor disability, \n   1. Leprosy free, \n   1. Hearing loss, \n   1. Mental retardation, \n   1. Mental illness, \n   1. Dwarfism (less than 3 feet 6 inches in height in case of an adult and holding a certificate issued by an authorized medical officer),\n   1. Naturally suffering from eunuchism.\n\n1. Native of Rajasthan and living in Rajasthan.\n1. Own combined annual income (from all sources) is up to Rs. 60,000/-.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "1. Applicants have to visit the[ official portal](https://emitra.rajasthan.gov.in/emitra/home). 1. Click on login.\n1. If applicants are existing SSO users, log in with their SSO user and password. and If applicants don’t have SSO Id then create one by clicking “Registration”. Applicants can create SSO IDs by using Janaadhar &amp; Google\n1. Completing the SSO profile process. \n1. Select Appropriate Scheme and click on the “Next” button\n1. Fill out all required academic information and click on the “Submit” button",
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://ssp.rajasthan.gov.in/HtmlPages/Schemes/DisablityDetail.aspx"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://schemes.rajasthan.gov.in/scheme/detail/113"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

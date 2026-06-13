@@ -1,0 +1,27 @@
+{
+  "slug": "mssg",
+  "name": "Mahila Swavlamban Scheme",
+  "shortTitle": "MSSG",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Women and Child Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme provides financial assistance to women from rural and urban areas for undertaking economic activities, with support in the form of a subsidy and loans.",
+  "descriptionMd": "The &amp;quot;Mahila Swavlamban Scheme&amp;quot; launched by the Women and Child Development Department, Gujarat, aims to empower women by providing financial assistance for starting or expanding economic activities. This initiative targets women from rural and urban areas, especially those from families living below the poverty line. The scheme offers a subsidy and a loan to support the economic development of women, helping them become self-reliant.\n&lt;br&gt;\n\n&lt;br&gt;",
+  "benefitsMd": "- **Subsidy Support:** A subsidy of 15% or up to ₹30,000/- (whichever is lower) is provided to eligible women to support their business ventures.\n\n  - **Loan Facility:** Women can avail of loans up to ₹2,00,000/- to start or expand their economic activities.",
+  "eligibilityMd": "1. The applicant must be a woman.\n1. The applicant must be a resident of Gujarat.\n1. The applicant must belong to the BPL (Below Poverty Line) category \n1. The applicant&#39;s annual income must be ₹1,20,000/- in rural areas and ₹1,50,000/-in urban areas.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step-1:** The applicant must fill out the prescribed form with complete details.\n**Step-2:** Submit the form along with the necessary documents to the Women&amp;#39;s Economic Development Corporation.\n&amp;gt; **Helpdesk:** [Contact Details.](https://wcd.gujarat.gov.in/general_contact)",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://wcd.gujarat.gov.in/initiativedetails?id=233"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

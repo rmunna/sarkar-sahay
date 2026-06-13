@@ -1,0 +1,31 @@
+{
+  "slug": "sssgtkdc",
+  "name": "Swayam Saksham Yojana (GTKVN)",
+  "shortTitle": "SSYGTKVN",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to promote economic self-reliance among professionally educated unemployed youth from Thakor & Koli communities, aged between 18 & 35 years, who hold degrees in fields such as Pharmacy, Software/Hardware, Automobile Engineering, Law, Chartered Accountancy, & others.",
+  "descriptionMd": "The &amp;quot;Swayam Saksham Yojana&amp;quot; is implemented by the Gujarat Thakor and Koli Vikas Nigam (GTKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to promote economic self-reliance among professionally educated unemployed youth (both men and women) from the Thakor and Koli communities, aged between 18 and 35 years, who hold degrees in fields such as Pharmacy, Architecture, Software/Hardware, Automobile Engineering, Law, Chartered Accountancy, and others.\nUnder this scheme, financial assistance in the form of low-interest loans is provided to eligible beneficiaries who have completed higher professional education and wish to become self-reliant by starting their own business in their respective fields. It specifically supports individuals trained in professional fields like medicine, law, engineering, accounting, hotel management, and even wrestling or sculpture, to use their skills for gainful self-employment.\n<br>",
+  "benefitsMd": "**Loan Amount:**\n\n- Up to ₹5,00,000/-.\n\n**Interest Rate:**\n\n- 5% per annum.\n\n**Contribution Split:**\n\n- 95% of the business/project cost is covered under the scheme as a loan.\n- 5% contribution must be made by the beneficiary.\n\n**Loan Repayment Terms:**\n\n- Repayable in 60 equal monthly installments (maximum 5 years).\n- The repayment period depends on the nature of the business plan.\n\n<br>",
+  "eligibilityMd": "1. The applicant should be a resident of Gujarat.\n   1. The applicant should belong to the Thakor or Koli caste/community. \n   1. The applicant should be between 18 and 35 years of age on the date of application.\n   1. The applicant should have technical/professional education or experience in the field of business/trade.\n   1. The applicant should be unemployed and looking to start a self-employment unit.\n   1. The applicant family’s annual income should not exceed ₹3,00,000/-.\n   1. The applicant should have completed professional education in areas such as Medical, Law, Architecture, Engineering, Chartered Accountancy, Hotel Management, Software/Hardware, Financial Consultancy, Sculpture or Wrestling (with training) etc.\n\n> **Note:**\n\nOut of total loans disbursed, at least 50% will be allocated to families with income up to ₹1,50,000/-.\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the [official website](https://gtkdconline.gujarat.gov.in/) of the Gujarat Thakor and Koli Vikas Nigam.\n**Step 2:** On the top menu bar, click on &quot;Apply Now&quot;.\n**Step 3:** Click on the loan scheme name. \n**Step 4:** Select the loan category and fill in the loan amount.\n**Step 5:** Fill out the Application Form, enter the following details:\n\n- Personal Information: Name, gender, date of birth, caste, etc.\n- Address Information: Permanent and correspondence address\n- Income Details: Monthly family income and source\n- Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)\n- Bank Account Details: For loan disbursement\n\n**Step 6:** Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.\n**Step 7:** Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.\n**Step 8:** Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.gujarat.gov.in/gtkvn/Schemes/1456?lang=English"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

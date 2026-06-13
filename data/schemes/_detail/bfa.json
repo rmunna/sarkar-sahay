@@ -1,0 +1,31 @@
+{
+  "slug": "bfa",
+  "name": "Buti Foundation Award",
+  "shortTitle": "BFA",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Space",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The Buti Foundation Award, established in 2007 by the Buti Foundation, New Delhi, is a biennial award recognizing innovative and outstanding research in the field of Plasma Science & Technology. The award aims to honor a Scientist/Engineer under the age of 45 years for their significant contribution",
+  "descriptionMd": "The Buti Foundation Award, established in 2007 by the Buti Foundation, New Delhi, is a biennial award recognizing innovative and outstanding research in the field of Plasma Science &amp; Technology. The award aims to honor a Scientist/Engineer under the age of 45 years for their significant contributions to this field. The award includes a medal and a cash prize.",
+  "benefitsMd": "- **Award Amount:** ₹50,000/-- **Award Recognition:** Medal",
+  "eligibilityMd": "- The applicant should be a Scientist/Engineer.\n  - The applicant’s age should be under 45 years as of 1st January 2021 (born on or after 02.01.1976).\n  - The applicant should have conducted innovative and outstanding research in the field of Plasma Science &amp;amp; Technology in India.\n\n<br>\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Download the prescribed format of the [application form](https://www.prl.res.in/prl-eng/sites/default/files/documents/national-awards/Proforma-for-Nomination-Buti-Foundation-Award-2019.doc) from the PRL official website. \n**Step 2:** Fill in all the mandatory fields in the application form and attach copies of all the required documents (self-attested, if necessary).\n**Step 3:** Candidate can email their applications in the prescribed format to: DIRECTOR@PRL.RES.IN with the subject line “Nomination for The Buti Foundation Award”. \n<br>\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.prl.res.in/prl-eng/opportunities/aabprl/butifoundationaward"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://www.indiascienceandtechnology.gov.in/nurturing-minds/s-and-t-awards/national/buti-foundation-award"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

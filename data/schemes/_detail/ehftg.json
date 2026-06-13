@@ -1,0 +1,31 @@
+{
+  "slug": "ehftg",
+  "name": "Economic Help To Tribal Girls For Higher Education (Class 11 & 12)",
+  "shortTitle": "EHFTG",
+  "level": "state",
+  "state": "Rajasthan",
+  "nodalDept": "Tribal Area Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Rajasthan Government started a scholarship for tribal girls higher education (Class 11 & 12) In the year 2011.",
+  "descriptionMd": "Rajasthan state government started a scheme &quot;**Economic Help to Tribal Girls for Higher Education (Class 11 &amp; 12)**&quot;. The main objective is to provide benefits to the tribal girls for their higher education, who are studying in government schools by taking admission as regular students for higher education.",
+  "benefitsMd": "- Rs. 3,500/- One time and fully in July",
+  "eligibilityMd": "1. Should be studying regularly in 11th and 12th in government schools.\n1. The girl student should belong to the Scheduled Tribe category of Rajasthan.\n1. The parent/guardian/guardian/husband of the student should not be an income tax payer.\n1. The student must be a native of Rajasthan.\n1. The student who is studying by living in the hostel run by the government. They will not be entitled to benefit under the said scheme.\n1. Must have Vaidya Bhamashah card and Aadhaar card.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "1. Applicant to log in to [RajSSO](https://sso.rajasthan.gov.in) Portal using his/her SSOID.1. If SSOID is not available then the applicant to first [register ](https://sso.rajasthan.gov.in/register)on RajSSO Portal to create SSOID and update SSO Profile at first login.1. After successful authentication/login and updation of the SSOID Profile and select the scheme name. \n1. Select his/her name, the bank account and fill in personal details.\n1. Upload the required document.\n1. Click the “SUBMIT” button.",
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://schemes.rajasthan.gov.in/scheme/detail/457"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/register"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "mbspy",
+  "name": "Mukhyamantri Balika (Snatak) Protsahan Yojana",
+  "shortTitle": "MBSPY",
+  "level": "state",
+  "state": "Bihar",
+  "nodalDept": "Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to encourage higher education among girls in Bihar by providing a one-time incentive of ₹25,000/- to eligible graduate students of the state.",
+  "descriptionMd": "The “Mukhyamantri Balika (Snatak) Protsahan Yojana”, is a component of the “Mukhyamantri Kanya Utthan Yojna”, launched by the Department of Education, Bihar. The scheme aims to promote higher education and empower girls by making them self-reliant. A lump sum incentive of ₹25,000/- is awarded to girl students from Bihar who have successfully graduated from recognized institutions within the state. The amount is directly transferred to the beneficiary&amp;#39;s bank account.",
+  "benefitsMd": "- **Financial Incentive:** ₹25,000/- as a one-time allowance.\n<br>\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Bihar.\n   1. The applicant must have graduated or obtained an equivalent degree (including Alim or Shastri) after April 25, 2018, from a government-recognized or affiliated institution within Bihar.\n   1. The scheme applies to graduates from general, technical, or professional courses.\n   1. The applicant must have an account in any nationalized bank, recognized private bank or India Postal Payment Bank located in Bihar.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step 1:** Visit the [Registration page](https://medhasoft.bih.nic.in/SnatakStudent/(S(g3mz4xgoeranmfbzt31lazfp))/Register.aspx).\n**Step 2:** Enter all the mandatory details and create a new password. Validate the Captcha code.\n**Step 3:** Click on “Submit” to generate the login ID and Password.\n> **Application Process:**\n\n**Step 1:** Visit the [Login page](https://medhasoft.bih.nic.in/SnatakStudent/(S(segtokfpkf2xy1vikgkqwhqx))/Login.aspx?Id=19).\n**Step 2:** Enter all the mandatory details and upload all the required documents.\n**Step 3:** Recheck all entries before final submission, no modifications can be made in the application after final submission.\n**Step 4:** Click on “Submit” and take a printout of a copy of the submitted application.\n> **Check application Details:** [Click Here.](https://medhasoft.bih.nic.in/SnatakStudent/(S(ibr5z42hxfxjsvsvthsdu5rm))/ApplicationStatusofStudent.aspx)\n\n> **Payment Done Information:** [Click Here.](https://medhasoft.bih.nic.in/SnatakStudent/(S(ibr5z42hxfxjsvsvthsdu5rm))/RPT/PaymentDoneInfo.aspx)\n\n<br>\n\n> ***Helpdesk:*** \n\nFor technical problems: [Click Here](https://medhasoft.bih.nic.in/SnatakStudent/(S(hrbnlrdjhi3044o1rrfpc4n4))/HelpDesk.aspx).\n> ***Note:*** If the name of the concerned college is not in the list, the applicant should contact the Registrar of their University and request to add its name.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://medhasoft.bih.nic.in/SnatakStudent/(S(dym3bdrzp51hjvjkft4hpem5))/pdf/Advt.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

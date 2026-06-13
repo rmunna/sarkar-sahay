@@ -1,0 +1,28 @@
+{
+  "slug": "pkvy",
+  "name": "Paramparagat Krishi Vikas Yojana",
+  "shortTitle": "PKVY",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Agriculture & Farmers Welfare",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Individual",
+    "University / Institution"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The Paramparagat Krishi Vikas Yojana (PKVY), launched in 2015, is an extended component of Soil Health Management (SHM) under the Centrally Sponsored Scheme (CSS), National Mission on Sustainable Agriculture (NMSA).",
+  "descriptionMd": "The &quot;Paramparagat Krishi Vikas Yojana (PKVY)&quot; is a Centrally Sponsored Scheme implemented by the Department of Agriculture, Cooperation and Farmers Welfare, Government of India under the &quot;National Mission on Sustainable Agriculture (NMSA)&quot;. The scheme aims to promote organic farming through a cluster-based approach and Participatory Guarantee System (PGS) certification. It supports farmers in converting conventional agricultural land into organic farming systems through financial assistance for certification, organic inputs, manure management, and marketing activities. The scheme is implemented over a period of 3 years, corresponding to the 36-month conversion period from conventional to organic farming. The funding pattern is 60:40 between the Central and State Governments, 90:10 for North Eastern and Himalayan States, and 100% Central assistance for Union Territories.\n<br>",
+  "benefitsMd": "> **Financial Assistance for Organic Farming Cluster:**\n\n\n- Total assistance of ₹14,95,030/- per cluster of 20 hectares (50 acres) for 3 years.\n- Maximum assistance of ₹10,00,000/- per cluster for farmer members.\n- Maximum assistance of ₹50,000/- per farmer per hectare, limited to 1 hectare per farmer.\n\n> **Participatory Guarantee System (PGS) Certification:**\n\n\n- Assistance for mobilization of farmers and formation of Local Groups.\n- Support for PGS certification and quality control activities.\n- Assistance for online registration, soil testing, field inspections, residue analysis, and certification processes.\n\n> **Conversion of Land into Organic Farming:**\n\n\n- Assistance for conversion of conventional land into organic farming.\n- Support for organic cropping systems.\n- Assistance for organic seed procurement and nursery raising.\n- Support for establishment of organic input production units.\n- Assistance for biological nitrogen harvesting plantations.\n- Support for botanical extract production units.\n\n> **Integrated Manure Management**\n\n\n- Assistance for production and use of liquid bio-fertilizers.\n- Assistance for liquid bio-pesticides.\n- Support for natural pest control practices.\n- Assistance for Phosphate Rich Organic Manure (PROM).\n- Support for vermicompost units.\n\n> **Custom Hiring Centre (CHC):**\n\n\n- Assistance for hiring agricultural implements required for organic farming operations.\n\n> **Packing, Labelling and Branding:**\n\n\n- Assistance for procurement of packing materials.\n- Support for PGS logo and hologram printing.\n- Assistance for branding and marketing of organic products.\n- Support for transportation of organic produce.\n- Assistance for participation in organic fairs.\n\n<br>",
+  "eligibilityMd": "- The applicant must be a farmer willing to adopt organic farming practices.\n- The applicant must be part of a cluster or Local Group formed under the Participatory Guarantee System (PGS)-India programme.\n- The applicant must be a member of a cluster covering approximately 20 hectares (50 acres) in a contiguous area.\n\n<br>",
+  "exclusionsMd": "<br>\n\n<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The eligible farmers form or join a Local Group under a cluster of approximately 20 hectares (50 acres).\n**Step 2:** The Local Group submits an application to the Regional Council in the prescribed format.\n**Step 3:** The Regional Council verifies the application and supporting documents.\n**Step 4:** The Regional Council registers the Local Group under the PGS-India programme.\n**Step 5:** User ID and password are issued for registration on the PGS portal.\n**Step 6:** Farmers sign the prescribed pledge and undertake organic farming practices.\n**Step 7:** Peer appraisals, field inspections, soil testing, and quality control activities are conducted.\n**Step 8:** The Certificate Approval Committee evaluates compliance with PGS requirements.\n**Step 9:** The Regional Council issues certification approval and Scope Certificate.\n**Step 10:** Financial assistance is released based on approved activities and implementation progress.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://darpg.gov.in/sites/default/files/Paramparagat%20Krishi%20Vikas%20Yojana.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

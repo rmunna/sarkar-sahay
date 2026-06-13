@@ -1,0 +1,35 @@
+{
+  "slug": "rcmrf-aa",
+  "name": "Rajasthan Chief Minister's Relief Fund - Accident Assistance",
+  "shortTitle": "RCMRF-AA",
+  "level": "state",
+  "state": "Rajasthan",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Rajasthan Chief Minister's Relief Fund - Accident Assistance\" is a scheme by the Chief Minister's Secretariat, Govt. of Rajasthan. In case of death due to accident, ₹ 1,00,000 is provided. In case of serious injury, assistance is up to ₹ 20,000. The assistance is \"one-time full-support\".",
+  "descriptionMd": "Launched in April 1999, &quot;Rajasthan Chief Minister&#39;s Relief Fund - Accident Assistance&quot; is a scheme by the Chief Minister&#39;s Secretariat, Govt. of Rajasthan. In case of death due to accident, ₹ 1,00,000 is provided to the dependent of the deceased. In case of serious injury, assistance should be approved up to ₹ 20,000, keeping in view the seriousness of the injury to the ordinary injured. A revolving fund of ₹20,00,000 each has been made available to all district collectors. The assistance is &quot;one-time full-support&quot; and is sanctioned by the concerned District Collector. For assistance, one has to apply either to the Tehsil/District Collector&#39;s Office or to the Chief Minister&#39;s Office.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The victim should be a resident of the state of Rajasthan.\n1. The victim should have suffered serious injury / death.\n1. In case of death, the assistance is payable only to the dependent parents/husband-wife/son-daughter of the deceased in the accident. \n1. Under special circumstances, assistance can be given to grandparents/dependent siblings with the consent of the Chief Minister&#39;s Office. \n1. In cases of murder and rape, action should be taken to give compensation under the Rajasthan Victim Compensation (Amended) Scheme-2015 under the provision of providing assistance in cases of murder and rape.\n1. The applicant must apply within a maximum period of 6 months from the date of accident.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/435"
+    },
+    {
+      "title": "Guidelines (Hindi)",
+      "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/cmrf/CMRFAH/DOC_435_18e2e39a-0263-44f6-967f-33f44247ae5c.pdf"
+    },
+    {
+      "title": "Proforma For The Income Certificate, Affidavit, And Declaration",
+      "url": "https://cmrelief.rajasthan.gov.in/pdf/Proforma2.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

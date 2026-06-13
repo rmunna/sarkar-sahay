@@ -1,0 +1,35 @@
+{
+  "slug": "maygskdc",
+  "name": "Mahila Adhikarita Yojana (Gujarat Safai Kamdar Development Corporation)",
+  "shortTitle": "MAYGSKDC",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Mahila Adhikarita Yojana\" introduced by the Social Justice and Empowerment Department, Gujarat, is a centrally sponsored financial support scheme offering loans of ₹20,000/- at a subsidized interest rate to women sweepers and their dependents to promote self-reliance and upliftment.",
+  "descriptionMd": "&amp;quot;Mahila Adhikarita Yojana&amp;quot; introduced by the Social Justice and Empowerment Department, Gujarat, is a centrally sponsored financial support scheme targeting women sweepers and their dependents. Under this scheme, eligible beneficiaries are provided a loan of ₹20,000 at a low interest rate of 5%, with a repayment period of 5 years. This initiative aims to empower women engaged in sanitation work by providing them with the financial means to pursue economic activities and improve their quality of life. The scheme is being implemented by the Gujarat Safai Kamdar Development Corporation.",
+  "benefitsMd": "- **Loan Assistance:** An amount of ₹20,000/- at 5% interest rate, with a repayment period of 5 years.",
+  "eligibilityMd": "- The applicant must be a woman sweeper or a dependent of a woman sweeper.\n- The applicant must be a resident of Gujarat.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step 1:** Go to the  [eSamajKalyan portal](https://esamajkalyan.gujarat.gov.in/index.aspx?HodID=Mgt3fh4h1dSAcTIdCEHhzQ==) and navigate to the &quot;Gujarat Safai Kamdar Development Corporation&quot; section under the Corporation menu.\n**Step 2:** Click on &quot;Mahila Adhikarita Yojana&quot; and then Apply Now.\n**Step 3:** Click on &quot;New User? Please Register Here&quot;.\n**Step 4:** Enter the required details and click Register.\n<br>\n\n> **Application Process:**\n\n**Step 1:** Enter your User ID, Password, and Captcha Code, then click &quot;Login&quot;.\n**Step 2:** Read the scheme details carefully and click OK.\n**Step 3:** If your permanent address is correct, confirm it. Otherwise, enter your correct address.\n**Step 4:** Click Save &amp; Next to proceed. Upload the relevant documents.\n**Step 5:** If you need to make changes, click &quot;No, Cancel&quot;. If all details are correct, click &quot;Yes, Submit&quot;.\n**Step 6:** Click Save Application. Note down your Application Number for future reference. You can also take a printout by clicking Print Application.\n<br>\n\n> **Check Application Status:** [Click here](https://esamajkalyan.gujarat.gov.in/ViewApplicationStatus.aspx).",
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 319)",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://esamajkalyan.gujarat.gov.in/index.aspx?ServiceID=wbt7oLAClfC7TIFZdb9BMw=="
+    },
+    {
+      "title": "User Manual",
+      "url": "https://esamajkalyan.gujarat.gov.in/HelpManual/Citizen-HelpManual.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

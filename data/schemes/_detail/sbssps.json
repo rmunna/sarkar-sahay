@@ -1,0 +1,43 @@
+{
+  "slug": "sbssps",
+  "name": "Shravanbal Seva State Pension Scheme",
+  "shortTitle": "SBSSPS",
+  "level": "state",
+  "state": "Maharashtra",
+  "nodalDept": "Social Justice and Special Assistance Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Shravanbal Seva State Pension Scheme\" is a Pension Scheme by the Department of Social Justice & Special Assistance, Govt. of Maharashtra. In this scheme, a monthly pension of ₹ 600/- is provided to destitute persons in the state of Maharashtra.",
+  "descriptionMd": "The &quot;Shravanbal Seva State Pension Scheme&quot; is a Pension Scheme by the Department of Social Justice &amp; Special Assistance, Govt. of Maharashtra. In this scheme, a monthly pension of ₹ 600/- is provided to destitute persons in the state of Maharashtra. Only citizens who are permanent residents of the state of Maharashtra are eligible to apply for this scheme. This scheme is 100% funded by the Govt. of Maharashtra.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant should be a citizen of India.\n1. The applicant should be a domicile / permanent resident of the state of Maharashtra for at least 15 years.\n1. The applicant should be destitute.\n1. The applicant should be 65 years or above in age.\n1. The name of the applicant should be in the list of Below Poverty Line (BPL) families OR the annual income of the family should be less than or equal to ₹ 21,000/-.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sjsa.maharashtra.gov.in/mr/schemes-page?scheme_nature=37"
+    },
+    {
+      "title": "Guidelines (Marathi)",
+      "url": "https://cdn.s3waas.gov.in/s317e62166fc8586dfa4d1bc0e1742c08b/uploads/2018/03/2018031988.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://aaplesarkar.mahaonline.gov.in/en/CommonForm/ContactUs"
+    },
+    {
+      "title": "Photo Upload Manual",
+      "url": "https://aaplesarkar.mahaonline.gov.in/pdf/Photoupload.pdf"
+    },
+    {
+      "title": "Seva Kendras",
+      "url": "https://aaplesarkar.mahaonline.gov.in/en/CommonForm/SewaKendraDetails"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "mta",
+  "name": "Mamta Taruni Abhiyan",
+  "shortTitle": "MTA",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Health & Family Welfare Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "\"Mamta Taruni Abhiyan\" was a program launched in Gujarat, India, aimed at providing healthcare facilities to adolescent girls and pregnant women in rural areas. The program was launched by the Gujarat state government in 2010.",
+  "descriptionMd": "**Details**\nUnder this program, free medical check-ups, iron and folic acid supplements, and deworming medication were provided to adolescent girls between the ages of 10 and 19 years, and pregnant women. The program also aimed to create awareness about menstrual hygiene, family planning, and nutrition among adolescent girls and pregnant women.\nThe program was implemented through a network of health workers, including Accredited Social Health Activists (ASHAs), Auxiliary Nurse Midwives (ANMs), and Anganwadi workers. The Mamta Taruni Abhiyan was seen as a significant step towards improving maternal and child health in rural areas of Gujarat.\n&lt;br&gt;",
+  "benefitsMd": "",
+  "eligibilityMd": "**Eligibility** \n\n1. Adolescent Girls: The scheme is open to all adolescent girls between the ages of 10 and 19 years who are residents of Gujarat.\n1. Pregnant Women: The scheme is open to all pregnant women who are residents of Gujarat.\n1. BPL Families: The scheme gives priority to women and girls belonging to Below Poverty Line (BPL) families.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://nhm.gujarat.gov.in/mamta-abhiyan.htm"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

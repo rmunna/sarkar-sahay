@@ -1,0 +1,31 @@
+{
+  "slug": "mkaps",
+  "name": "Mukhyamantri Kanya Abhibhawak Pension Scheme",
+  "shortTitle": "MKAPS",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Social Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The Government of Madhya Pradesh has launched a scheme entitled “Mukhyamantri Kanya Abhibhavak Pension Yojana” on 01 April 201,  for the welfare of citizens having one daughter.",
+  "descriptionMd": "**Detailed** \nThe tradition prevalent in India requires the girl to leave her parent’s home after the marriage of the girl and she establishes her own family. In such a situation, the parents who have only female children have to remain alone in their old age after the marriage of their girl child. In this state, parents have to face many problems, especially those parents who do not have a son to look after them. Couples who, in their youth, with a view to establishing a small family without worrying about their children, they adopted a family planning program and supported the program being run by the government for the prevention of growing population. The state should be responsible for providing social security to such a couple. Keeping all these things in mind, the Madhya Pradesh government implemented the Chief Minister Kanya Guardian Pension Scheme to provide social security to those couples who have only kanyas, jointly (couple i.e. husband and wife) on completing 60 years of age.\n**Purpose**\nFor the purpose of providing social security to those couples who have only kanyas and after the marriage of the girls, the Chief Minister Kanya Guardian Pension Scheme has been started. For more details please visit the departmental website",
+  "benefitsMd": "",
+  "eligibilityMd": "**Eligibility** \n\n1. The native place should be Madhya Pradesh\n1. The benefits under this scheme can be availed to the couple having an only daughter as a child.\n1. The age of either of the beneficiary couples is 60 years or more.\n1. The beneficiary couple should not be income-tax payers.\n1. The children of the parent(beneficiary couple) should be daughters and should be married.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://socialsecurity.mp.gov.in/Scheme/KAPS.aspx"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://socialjustice.mp.gov.in/uploads/schemes/10__1-4-2013_Kanya_Abhibhavak_Pension_yojana-new_colour_full.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

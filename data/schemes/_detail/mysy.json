@@ -1,0 +1,43 @@
+{
+  "slug": "mysy",
+  "name": "Mukhyamantri Yuva Swavalamban Yojana",
+  "shortTitle": "MYSY",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Mukhya Mantri Yuva Swavalamban Yojana (MYSY) scholarship is a scholarship program offered by the government of Gujarat, India for students pursuing higher education.",
+  "descriptionMd": "**Detailed** \nMukhymantri Yuva Swavalamban Yojana or MYSY Scholarship is a scholarship scheme that is offered to the economically weaker section students of Gujarat. All those students who wish to pursue higher education like diploma courses, engineering, pharmacy course, medical course, etc apply for MYSY scholarship every year.\n&lt;br&gt;\n\n**Objective**\nThe main objective of the MYSY Scholarship Scheme is to help those students financially who are not being able to finance their education due to low family income. Through this scholarship scheme, financial assistance will be provided to those students so that they can continue their education without any problem.\n&lt;br&gt;\n\n**Types of Scholarship Under MYSY Scholarship**\nThere are three types of scholarships that are offered under the MYSY Scholarship which are as follows:-\n\n   1. Tuition fee grant\n   1. Hostel grant\n   1. Book/instruments grant\n\n&lt;br&gt;\n\n**Features and Benefits of the MYSY Scholarship**\n\n   1. Under the MYSY scholarship scheme, non-reserve students will also get financial help for buying books and equipment.\n   1. Those students who are in Gujarat medical education research society and dental courses will get financial assistance of Rs 10 lakh over 5 years\n   1. For government jobs, there is an age relaxation given to all category students. This age relaxation is of 5 years\n   1. All those students who wish to appear in the competitive exam will be provided training under training centers.\n   1. The government will also provide assistance of Rs 1200 per month for 10 months if in that region there is no higher education facility or government hostel.\n   1. All the students who have passed class 10th and 12th with 80% and have opted for diploma courses will get Rs 25000 per year or 50% fees whichever is less.\n   1. Under the MYSY scholarship scheme free of cost outfits, reading material etc will be provided by the government\n\n&lt;br&gt;",
+  "benefitsMd": "",
+  "eligibilityMd": "**Eligibility** \n\n   1. For scholarship in Diploma admissions, the candidate should have passed the Std X from a recognized board from the state of Gujarat with a minimum 80 percentile in the board examination\n   1. For scholarship in Bachelor&amp;#39;s degree programs, the candidates should have passed Std XII Science/ General stream from a recognized board from the state of Gujarat with a minimum 80 percentile in the board examination.\n   1. For Diploma to Degree students, the minimum eligibility criteria for availing the benefits of the scheme is a 65% mark at the Diploma level examination from a recognized university situated in the state of Gujarat.\n   1. The candidates whose parents annual income is not more than Rs. 6,00,000/- per annum shall only be considered eligible for the said scheme.\n   1. The State Government has approved the validity of the income certificate for three financial years from the date of issue. Accordingly, a candidate who has a valid income certificate need not have to issue it again for the next three years financial years.\n\n&lt;br&gt;\n\n&lt;br&gt;",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Official Site",
+      "url": "https://mysy.guj.nic.in/"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://mysy.guj.nic.in/Noticeboard/sso_user_manual.pdf"
+    },
+    {
+      "title": "FAQ In Gujarati",
+      "url": "https://mysy.guj.nic.in/Noticeboard/FAQs.pdf"
+    },
+    {
+      "title": "Instruction For Students",
+      "url": "https://mysy.guj.nic.in/Noticeboard/Instructions%20to%20Students.pdf"
+    },
+    {
+      "title": "Documents Format",
+      "url": "https://mysy.guj.nic.in/Noticeboard/Documents%20Formates.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

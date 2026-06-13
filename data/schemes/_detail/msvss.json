@@ -1,0 +1,27 @@
+{
+  "slug": "msvss",
+  "name": "Meritorious Scholarships To Vjnt And Sbc Students Studying In Secondary Schools",
+  "shortTitle": "Msvss",
+  "level": "state",
+  "state": "Maharashtra",
+  "nodalDept": "Social Justice and Special Assistance Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The government of Maharashtra introduced the scheme of meritorious Scholarships to VJNT and SBC students studying in Secondary Schools. To motivate Backward Class students for education.",
+  "descriptionMd": "The government of Maharashtra introduced the scheme of Meritorious Scholarships to VJNT and SBC students studying in Secondary Schools. To motivate Backward Class students for education.\nThe students will get ₹ 200/- for 5th to 7th and ₹ 400/- for 8th to 10th standard per annum.",
+  "benefitsMd": "1. The students will get ₹ 200/- for 5th to 7th standard per annum. \n1. The students will get ₹ 400/- for 8th to 10th standard per annum.",
+  "eligibilityMd": "1. Students who secured more than 50 percent marks in the previous year’s annual examination and stood first or second in the class.\n1. He should belong to VJNT / SBC category.\n1. He should be studying in 5th to 10th standard.\n1. There is no income limit for this scholarship.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "1. The students should contact the school principal for application.\n1. The application will be submitted by Head Master of the concerned School through the concerned Block Education Officer to District Social Welfare Officer, Zillah Parishad concerned. \n1. For Mumbai City, only proposals are to be submitted to the Assistant Commissioner of Social Welfare, Mumbai City.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

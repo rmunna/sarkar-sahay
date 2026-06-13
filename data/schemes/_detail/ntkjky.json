@@ -1,0 +1,35 @@
+{
+  "slug": "ntkjky",
+  "name": "Niji Talabon Ka Jirnoddhar Ki Yojana",
+  "shortTitle": "NTKJKY",
+  "level": "state",
+  "state": "Bihar",
+  "nodalDept": "Animal & Fisheries Resources Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The government of Bihar launched the \"Niji Talabon Ka Jirnoddhar Ki Yojana\" scheme aims to enhance the water holding capacity of private ponds to boost fish productivity & production as well as provide benefits to private fish farmers through the expansion/renovation of their ponds.",
+  "descriptionMd": "The &quot;Niji Talabon Ka Jirnoddhar Ki Yojana&quot; was launched by the Animal and Fisheries Resources Department, Government of Bihar. The scheme specifically allocates resources for extremely backward castes, scheduled castes, and scheduled tribes, ensuring inclusive growth and support for marginalized communities. Under the scheme, the target is to renovate 150.00 hectares of private ponds. \n<br>\n\n> ***Objectives:***\n\n\n- **Increase Water Holding Capacity:** Enhance the water holding capacity of private ponds to boost fish productivity and production.\n\n- **Economic Benefits for Fish Farmers:** Provide benefits to private fish farmers through the expansion/renovation of their ponds.\n<br>\n\n> ***Model of Pond Restoration:***\n\n\n- **Model-1:** Renovation of old private ponds (not renovated under any government scheme in the last five years).- **Model-2:** Renovation of private ponds constructed under government schemes (benefits payable after five years of construction).",
+  "benefitsMd": "**Renovation of 150 hectares of private ponds with the following category-specific targets:**\n\n- Other category beneficiaries: 86 hectares\n- Extremely backward castes: 27 hectares\n- Scheduled castes: 30 hectares\n- Scheduled tribes: 7 hectares\n\n<br>\n\n**Subsidy Details:**\n\n- Unit cost: ₹ 6,00,000/- per hectare.\n- Subsidy: 30% for other categories, 40% for extremely backward castes/scheduled castes/tribes.\n\n**NOTE:** Subsidy disbursement in two installments based on completion of work.",
+  "eligibilityMd": "1. The applicant should be a fish farmer.\n1. The applicant should be private pond owners or lessees.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> ***Registration Process:***\n\n**Step-01:** The applicant visits the [official website](https://fisheries.bihar.gov.in/Default.aspx) and clicks the &quot;Applications are being invited for all the schemes of the financial year (2024-25), [click here](https://fisheries.bihar.gov.in/Accordion.aspx) to apply&quot;. \n**Step-02:** Select the &quot;[Registration for Fisheries Schemes](https://misfisheries.bihar.gov.in/RegisterFisheries.aspx)&quot;\n**Step-03:** Select the category: Individual and complete all basic details of the applicant for registration, including category, caste, applicant name, date of birth, address, bank details, etc.\n**Step-04:** Enter a valid 10-digit mobile number and click to send OTP.\n**Step-05:** An OTP will be sent to the provided mobile number.\n**Step-06:** Enter the OTP; after verification of the OTP, you will receive a Registration Number and Password.\n**Step-07:** Click on the &quot;Login&quot; and enter the Registration Number and Password\n<br>\n\n> ***Application Form Filling Process:***\n\n**Step-01:** The applicant visits the [official website](https://fisheries.bihar.gov.in/Default.aspx) and clicks the &quot;Applications are being invited for all the schemes of the financial year (2024-25), [click here](https://fisheries.bihar.gov.in/Accordion.aspx) to apply&quot;.\n**Step-02:** Click &quot;If your already register, [login here](https://misfisheries.bihar.gov.in/login.aspx)&quot;. \n**Step-03**: Select &quot;Scheme name&quot; under the &quot;Matsya Yojana&quot; option on the top menu.\n**Step-04:** Applicant need to provide the following details :\n\n\n  - Details of individual (applicant/group leader)\n  - Permanent address\n  - Bank account details\n  - Land/pond details\n\n\n**Step-05**: Upload the required documents.\n**Step-06:** Click on the submit button as well print the application form and submit it to the District Fisheries Office along with attachments. \n<br>\n\nNote: Download the [Affidavit form](https://misfisheries.bihar.gov.in/Docs/Specialpackagesapat.pdf) and [Consent form](https://misfisheries.bihar.gov.in/Docs/specialpackagesahmati.pdf) also attached with the application.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://fisheries.bihar.gov.in/docs/niji24-25.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://fisheries.bihar.gov.in/Default.aspx"
+    },
+    {
+      "title": "Login",
+      "url": "https://misfisheries.bihar.gov.in/login.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

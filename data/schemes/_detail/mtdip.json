@@ -1,0 +1,27 @@
+{
+  "slug": "mtdip",
+  "name": "Meghalaya Tourism Development & Investment Promotion",
+  "shortTitle": "MTDIP",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Tourism Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "Meghalaya Tourism Development and Investment Promotion Scheme 2012 started on 20th Jan 2012 under the Tourism Department sponsored by the state to assist in the creation of tourism infrastructure in the form of homestays and resorts",
+  "descriptionMd": "Homestays: Provision of affordable accommodation to tourists in private houses with basic amenities would help in bridging the gap in the shortage of accommodation in the State during the tourist season.\n&lt;br&gt;\n\nResorts: Provision of affordable accommodation to tourists at various destinations in the form of cottages which are aesthetically and eco-friendly designed, taking into consideration the natural landscape of the area. These accommodation facilities should necessarily be reliable, safe and clean. They should be preferably built beyond Shillong to encourage tourists to stay at destinations listed for development which can in turn create an income transfer and job creation opportunity at the locations.\n&lt;br&gt;",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The cost of the project should be within Rs 16.00 Lakhs for homestays and within Rs 100.00 Lakhs for resorts. In case the project cost is above Rs 16.00 Lakhs for homestays and above Rs 100.00 Lakhs for resorts the assistance would be limited to 30% of the amount of Rs 16.00 Lakhs for homestays and 30% of the amount of Rs 100.00 Lakhs for resorts.\n   1. The entrepreneur should own the land for the project in the case of Resorts and should be the owner of the property with built-up houses in the case of homestays.\n   1. The project should be completed within a period of 18 (eighteen) months from the date of disbursement of the incentive for the Resort and within a period of 12(twelve) months in case of homestays. \n   1. The scheme is available only for units set up on or after the date of notification of the incentive scheme.\n   1. The entrepreneur will have to follow the Minimum Wage policy of the Government.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://meghalaya.gov.in/sites/default/files/schemes/MTD_Investment_Promotion_Scheme_2012.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

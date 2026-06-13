@@ -1,0 +1,32 @@
+{
+  "slug": "sps-assam",
+  "name": "Silpi Pension Scheme - Assam",
+  "shortTitle": "SPS-ASSAM",
+  "level": "state",
+  "state": "Assam",
+  "nodalDept": "Cultural Affairs Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Silpi Pension Scheme is a Welfare Scheme provided by the Government of Assam to support the Artists of Assam. Those artists and families who have made outstanding contributions in the field of Art and Culture of Assam will be given financial aid and Pension.",
+  "descriptionMd": "Silpi Pension Scheme is a Welfare Scheme provided by the Government of Assam to support the Artists of Assam. Artiste/Family pension along with Barxik Silpi Sanman (One-time financial assistance) of the Govt. of Assam will be offered to the person having outstanding contributions in the field of Art and Culture in the State and Special Family Pension will also be offered to indigent families of Artistes who had made a spectacular contribution in the State’s Cultural sphere and have unfortunately passed away. There are 4 types of Schemes under the Silpi Pension Scheme:\n<br>\n\n1.\tArtist Pension Scheme\n2.\tFamily Pension Scheme\n3.\tBarxik Silpi Sanman (Ex-Gratia Grant) Scheme\n4.\tOne-time Special Financial Assistance to Families of deceased artist Scheme\n<br>\n\nThe main objective of the Scheme is to support the artist and needy families of Artists who made contributions to the field of Art and Culture in the State of Assam. It also aims to provide Financial assistance to the artist and their families in different schemes. It provides pensions to families and artists monthly for better livelihood and gives recognition to the Art and Culture of Assam through this platform. The financial assistance schemes are expected to encourage artists and technicians to engage in their creative pursuits with renewed vigour.\n<br>\n\nFor Divyang and Bed-ridden artists, the Cultural Development Officers or the Junior Assistants of Cultural Centres under the Directorate of Cultural Affairs from their respective districts will visit the homes of those applicants for applying through an online process. The names and contact numbers of concerned Cultural Development Officers/Junior Assistants will be available on the official website.\n<br>",
+  "benefitsMd": "",
+  "eligibilityMd": "- The applicant must be a permanent resident of the State of Assam.\n- An artist, who has made outstanding contributions in the field of Music, Dance, Fine Arts, Puppetry, Musk making, and also covering artists and technicians associated with Mobile Theatre and Amateur Theatre and Films, is eligible under this scheme.\n- Indigent families of artists who have made outstanding contributions in the field of Music, Dance, Fine Arts, Puppetry, Musk making, etc. are eligible under this scheme.\n- The applicant must have a recognition proof certificate.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://directorculture.assam.gov.in/sites/default/files/swf_utility_folder/departments/dca_medhassu_in_oid_3/how_do_i/level_1/artist_pension_advertisement.pdf"
+    },
+    {
+      "title": "Amendment",
+      "url": "https://culturalaffairs.assam.gov.in/sites/default/files/2/menu/document/Document-notification-award%20of%20pension%20to%20artist.pdf "
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

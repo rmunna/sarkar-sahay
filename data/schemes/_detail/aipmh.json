@@ -1,0 +1,27 @@
+{
+  "slug": "aipmh",
+  "name": "Admission in Post Matric Hostel",
+  "shortTitle": "AIPMH",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Backward Classes and Minorities Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme was launched on 1st January1900, the scheme \"Admission in Post Matric Hostel\" by the Backward Classes and Minorities Welfare Department, Government of Madhya Pradesh, provides free accommodation to backward class students to support their education.",
+  "descriptionMd": "The scheme was launched on 1st January 1900, the &quot;Admission in Post Matric Hostel&quot; scheme by the Backward Classes and Minorities Welfare Department, Government of Madhya Pradesh provides free accommodation to backward class students who are eligible for the Post Matric Scholarship, studying in an educational institution near the hostel, and are not local residents.",
+  "benefitsMd": "Providing free accommodation for education to backward class students",
+  "eligibilityMd": "1. The applicant should belong to the Backward Class.\n1. The applicant should be studying in an educational institution located near the hostel.\n1. The applicant should not be a resident.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit the Office of the Collector, Assistant Director, Backward Classes and Minority Welfare Department District Office and request the hard copy of the prescribed format of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned authority.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n**NOTE:** Ensure that the application is submitted within the prescribed period, if any.",
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=953"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

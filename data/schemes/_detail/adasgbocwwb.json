@@ -1,0 +1,35 @@
+{
+  "slug": "adasgbocwwb",
+  "name": "Accidental Death Assistance Scheme (GBOCWWB)",
+  "shortTitle": "ADAS(GBOCWWB)",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Labour and Employment Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Assistance shall be provided to the legal heirs of deceased construction workers, whether registered or unregistered with the Board, in the event of accidental death or permanent disability occurring during ongoing work at the construction site.",
+  "descriptionMd": "The “Accidental Death Assistance Scheme” is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB), Labour, Skill Development &amp;amp; Employment Department, Government of Gujarat. Under this scheme, financial assistance shall be provided to the legal heirs of the deceased construction workers, registered or unregistered with the Board, in case of accidental death or permanent disability during ongoing work at the construction site.",
+  "benefitsMd": "1. Under the scheme, financial assistance of ₹3,00,000/- shall be given to the legal heirs of the deceased construction workers.",
+  "eligibilityMd": "1. The applicant should be a legal heir of the deceased worker.\n   1. The deceased worker should have been engaged in any building or other construction work.\n   1. The financial assistance shall be provided to the legal heirs of construction workers, whether registered or unregistered with the Board, in the event of accidental death or permanent disability occurring during ongoing work at the construction site.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Application Process for Scheme Benefit:**\n\n**Step 01:** The applicant may visit the Sanman Portal: [https://sanman.gujarat.gov.in/](https://sanman.gujarat.gov.in/)\n**Step 02:** On the home page, under the tab ‘Citizen Login’, click on ‘[Please Register Here](https://sanman.gujarat.gov.in/Home/Registration)’.\n**Step 03:** Enter the Aadhaar Card Number of Shram Yogi and select the user type.\n**Step 04:** Now, fill in the heir’s details &amp;amp; click on ‘Create’.\n**Step 05:** After successful registration, the applicants can login through their User ID and Password.\n**Step 06:** Now, select the scheme and read the rules carefully for the selected scheme.\n**Step 07:** Fill out the application form and upload all the relevant documents.\n**Step 08:** Agree with the Rules &amp;amp; Regulations and submit the application form. A confirmation email with the application Number will be sent to the registered email ID.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://sanman.gujarat.gov.in/Home/BOCWScheme"
+    },
+    {
+      "title": "Sanman Portal",
+      "url": "https://sanman.gujarat.gov.in/"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://bocwwb.gujarat.gov.in/Portal/Document/10_405_1_Accidental_Death_Assistance_Scheme_27102023.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

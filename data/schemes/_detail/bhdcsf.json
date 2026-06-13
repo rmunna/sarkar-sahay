@@ -1,0 +1,27 @@
+{
+  "slug": "bhdcsf",
+  "name": "Seemant Parvatiya Janpad Baal Vigyan Mahotsav",
+  "shortTitle": "SPJBVM",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Science And Technology",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "It aims to provide students from classes 6 to 12 of government/non-government schools in six border districts of the state (Uttarkashi, Chamoli, Rudraprayag, Champawat, Bageshwar,Pithoragarh) with an opportunity to participate in science competitions & to promote scientific awareness in these areas.",
+  "descriptionMd": "The scheme “Seemant Parvatiya Janpad Baal Vigyan Mahotsav” is implemented by the Uttarakhand State Council for Science and Technology (UCOST) under the Science and Technology Department, Government of Uttarakhand. It aims to provide students from classes 6 to 12 of government/non-government schools in the remote and border districts of the state an opportunity to participate in various science competitions and promote scientific awareness in these areas.\n<br>",
+  "benefitsMd": "Under this, special opportunities are provided to child scientists from the border hill districts to participate in various state-level science competitions and to promote scientific awareness through activities in remote border areas.\n<br>",
+  "eligibilityMd": "1. The applicant must be a student from classes 6 to 12, studying in a government or non-government school in any of the six border districts of the state: Uttarkashi, Chamoli, Rudraprayag, Champawat, Bageshwar, or Pithoragarh.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "All students from classes 6th to 12th can participate at the block level. The students selected at the block level then participate at the district level, and those selected at the district level get an opportunity to participate at the state level.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 85)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

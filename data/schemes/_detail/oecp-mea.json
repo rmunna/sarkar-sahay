@@ -1,0 +1,43 @@
+{
+  "slug": "oecp-mea",
+  "name": "OEC Pre-matric Educational Assistance",
+  "shortTitle": "OECP-MEA",
+  "level": "state",
+  "state": "Kerala",
+  "nodalDept": "Backward Classes Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The Scheme “OEC Pre-matric Educational Assistance” was started by the Backward Classes Development Department, Government of Kerala to provide educational assistance to pre-matric students belonging to these communities who are studying in Government/Aided/Unaided schools from Classes 1st to 10th.",
+  "descriptionMd": "The Scheme “OEC Pre-matric Educational Assistance” was started by the Backward Classes Development Department, Government of Kerala. In the state, the most backward communities from among the Other Backward Communities are grouped as Other Eligible Communities (OEC). The scheme is intended to provide educational assistance to pre-matric students belonging to these communities who are studying in Government/Aided/Unaided schools from Classes 1st to 10th. This scheme is being fully implemented with the state fund.",
+  "benefitsMd": "**Educational Assistance Benefits:**\n**Sl. No.****Classes/Standards****Educational Assistance Amount**1I to IV ₹320/-2V to VII₹630/-3VIII to X ₹940/-",
+  "eligibilityMd": "1.\tThe students should belong to the [Other Eligible Communities](https://bcdd.kerala.gov.in/wp-content/uploads/2018/11/2-01.pdf) (OEC) &amp;amp; [Other Equivalent Communities](https://bcdd.kerala.gov.in/wp-content/uploads/2018/11/2-02-2.pdf) of Kerala State.\n2.\tThe students should be studying in Government/Aided/Recognized Un-Aided/C.B.S.E/I.C.S.E Affiliated Schools and Kendriya Vidyalayas in Kerala state.\n3.\tThe students must be studying in Class 1st to 10th.\n4.\tThere is no annual family income limit for the students who belong to OEC Communities.\n5.\tThe annual family income should be ₹6,00,000/- for the students who belong to Other Equivalent Communities.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 01:** To get the benefits of the scheme, the students do not have to submit separate applications.\n**Step 02:** The School authorities should make an online entry through the [scholarship portal](https://www.egrantz.kerala.gov.in/) within the prescribed time. \n**Step 03:** The concerned Educational Officer should do on-time verification of the details entered by the Un-aided/ Affiliated Institutions.\n**Step 04:** The school authorities will apply online for the scheme and financial assistance reaches the eligible students’ bank account through Direct Beneficiary Transfer (DBT).",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://bcdd.kerala.gov.in/en/schemes/educational-schemes/oec-prematric-educational-assistance/"
+    },
+    {
+      "title": "Governmemt Order",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2018/11/2-03-2.pdf"
+    },
+    {
+      "title": "Notification",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2018/11/2-04-2.pdf"
+    },
+    {
+      "title": "List Of OEC. Communities",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2018/11/2-01.pdf"
+    },
+    {
+      "title": "List Of Other Communities Selected For OEC Educational Benefit",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2018/11/2-02-2.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "gfapscplw",
+  "name": "Grant of Financial Assistance to Poor Scheduled Caste Pregnant & Lactating Women",
+  "shortTitle": "GFAPSCPLW",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Adi Dravidar Welfare Department, Puducherry",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme “Grant of Financial Assistance to Poor Scheduled Caste Pregnant & Lactating Women” was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to provide assistance for the well-being of Pregnant and Lactating mothers and their children.",
+  "descriptionMd": "The scheme “Grant of Financial Assistance to Poor Scheduled Caste Pregnant &amp; Lactating Women” was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to provide assistance for the well-being of Pregnant and Lactating mothers and their children.",
+  "benefitsMd": "Financial Assistance of ₹12,000/- as follows:\n\n- The pre-natal assistance shall be ₹ 2,000 in cash per month for three months prior to the month of delivery.\n- The post-natal assistance shall be ₹ 2,000 in cash per month for three months following delivery. \n\n**** The grant of financial assistance is made available only for 2 deliveries.***",
+  "eligibilityMd": "- The applicant should be a citizen of India.\n- The applicant should belong to the Union Territory of Pondicherry by virtue of birth or continuous residence of not less than 3 years.\n- The applicant should be from Scheduled Caste.\n- The applicant should be a woman.\n- The applicant should be pregnant.\n- The applicant should apply from 6 months of pregnancy and within 3 months from the date of delivery.\n- The annual income of the applicant and spouse should not exceed ₹ 2,00,000/-.\n- The grant of financial assistance is made available only for 2 deliveries.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit (during office hours) the [Office/ Sub-Office](https://adwelfare.py.gov.in/contact-us) of the Adi Dravidar Welfare and Scheduled Tribes Welfare Department, and request the hard copy of the [prescribed format](https://adwelfare.py.gov.in/sites/default/files/104-10-1.pdf) of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://adwelfare.py.gov.in/grant-financial-assistance-poor-sc-pregnant-lactating-women"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://adwelfare.py.gov.in/sites/default/files/104-10-1.pdf"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://py.gov.in/sites/default/files/citizencharter-adidravidar.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://adwelfare.py.gov.in/contact-us"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "kssk",
+  "name": "Kayaka Spoorthi Scheme Karnataka ",
+  "shortTitle": "KSSK",
+  "level": "state",
+  "state": "Karnataka",
+  "nodalDept": "Social Welfare Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Self Help Groups (SHGS)"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Kayaka Spoorthi Scheme\" aims to provide financial assistance to women Self-Help Groups (SHGs) engaged in the leather industry. The goal is to promote self-sufficiency and economic independence by enabling these women to start or expand business activities related to leatherwork.",
+  "descriptionMd": "The &quot;Kayaka Spoorthi Scheme&quot; aims to provide financial assistance to women Self-Help Groups (SHGs) engaged in the leather industry. The goal is to promote self-sufficiency and economic independence by enabling these women to start or expand business activities related to leatherwork. A group of 10 members receives financial support under this scheme.",
+  "benefitsMd": "- Financial Assistance of ₹2,50,000/- per SHG with 10 members.\n\n<br>\n\n**NOTE:** \n\n- Each member gets ₹15,000/- as a subsidy and ₹10,000/- as a loan from the corporation.\n- 33% representation for women artisans and 5% for physically challenged individuals.",
+  "eligibilityMd": "1. A Self-Help Group must have at least 10 female artisans to be eligible.\n1. The applicant should belongs to sub-castes Arundathiyar, Chammadiya, Chamar, Chambar, Chamagar, Madar, Madig, Madiga, Mini Madig, Jambavalu, Haralayya, Machigar, Mochigar, Mochi, muchi, Telugu Mochi, kamaati mocha, Rohidas, Dhor, kakkayya, Kankayya, Samagara, Samagar, Aadhi Anddra, Aadhi Dravida, Aadhi Karnataka among schedule castes.\n1. The age of the applicant should be 18 years.\n1. The applicant&#39;s annual family income should not exceed ₹30,000/- in rural areas and ₹25,000/- in urban areas.\n1. The applicant or their family members must not have received benefits from other schemes, except training programs.\n1. The applicant&#39;s family members should not be employed in government or semi-government organizations.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step-01:** Visit the official [Seva Sindhu Portal](https://sevasindhu.karnataka.gov.in/Sevasindhu/English). \n**Step-02:** Choose &quot;New Users Register Here&quot; and fill in your Aadhaar Number and the Captcha code.\n**Step-03:** An OTP will be sent to your Aadhaar-linked mobile number. Enter the OTP to continue.\n**Step-04:** Once your DigiLocker account is created, click &quot;Allow&quot; to proceed.\n**Step-05:** Fill out your email ID, mobile number, create a password, and enter the captcha, then click &quot;Submit&quot;.\n**Step-06:** You will receive OTPs on both your email and mobile number. Enter both OTPs and select &quot;Validate&quot;.\n**Step-07:** Once validated, a confirmation message will indicate your registration is successful.\n<br>\n\n> **Applying for a Scheme::**\n\n**Step-01:** Go to [Seva Sindhu Portal](https://sevasindhu.karnataka.gov.in/Sevasindhu/English) and select &quot;Department &amp; Services&quot;.\n**Step-02:** Select department &quot;Social Welfare Department&quot; and click on the scheme &quot;Kayaka Spoorthi Scheme&quot;\n**Step-03:** Click &quot;Apply Online&quot; and enter your registered email ID/mobile number and the OTP.\n**Step-04:** Select the scheme and provide your personal, address, and banking details as required.\n**Step-05:** Once submitted, you will receive an Application ID. You can use this ID to track your application status on the portal.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://schemes.lidkar.com/schemes/self-employment-programs/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

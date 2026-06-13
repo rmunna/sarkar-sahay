@@ -1,0 +1,43 @@
+{
+  "slug": "atpm",
+  "name": "Assistance to Traditional Pottery Makers",
+  "shortTitle": "ATPM",
+  "level": "state",
+  "state": "Kerala",
+  "nodalDept": "Backward Classes Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme “Assistance to Traditional Pottery Makers” provides financial assistance to Traditional Pottery makers belonging to the state OBC category for the purchase of modern machinery for job modernization.",
+  "descriptionMd": "Certain communities among the Other Backward Classes are engaged in traditional occupations including pottery. Traditional pottery workers are following conventional methods for manufacturing products and face tough competition in the market. In this circumstance, this traditional industry has to be revived by imparting training to pottery workers on modern methods/techniques of production and also by providing financial assistance to mechanize and modernize the sector.\nIn view of the above, the scheme “Assistance to Traditional Pottery Makers” is launched by the Backword Classes Development Department, Government of Kerala. Under the scheme, financial assistance will be provided to Traditional Pottery makers belonging to the state OBC category for the purchase of modern machinery for job modernization.",
+  "benefitsMd": "1. The financial assistance of ₹25,000/- will be provided to the Traditional Pottery Makers for upgrading the occupation and purchasing machinery.",
+  "eligibilityMd": "1.\tThe applicant should be a permanent resident of the Kerala State.\n2.\tThe applicant should belong to the State Backward Community of Kerala State.\n3.\tThe applicant should be currently engaged in a traditional pottery-making occupation.\n4.\tThe annual family income of the applicant should be ₹1,00,000/-.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "The completely filled [Application Form](https://bcdd.kerala.gov.in/wp-content/uploads/2021/07/Assistance-to-Traditional-Pottery-Makers-Application-Form-1.pdf) along with all the relevant documents should be submitted before the Regional Deputy Director at the following addresses:\n**Applicants From Trivandrum to Trissur:**\nRegional Deputy Director, Backward Classes Development Department\nCivil station, Kakkanad, Ernakulam- 682030, Kerala\n**Applicants From Palakkad to Kasargode:**\nRegional Deputy Director, Backward Classes Development Department\nCivil Station, Kozhikode- 673020, Kerala",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://bcdd.kerala.gov.in/en/schemes/development-schemes/assistance-to-traditional-pottery-makers/"
+    },
+    {
+      "title": "Government Orders",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2018/12/10-01.pdf"
+    },
+    {
+      "title": "Notification",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2021/07/Assistance-to-Traditional-Pottery-Makers-Notification.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2021/07/Assistance-to-Traditional-Pottery-Makers-Application-Form-1.pdf"
+    },
+    {
+      "title": "Agreement Model",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2018/12/10-04.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

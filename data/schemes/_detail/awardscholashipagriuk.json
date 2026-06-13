@@ -1,0 +1,27 @@
+{
+  "slug": "awardscholashipagriuk",
+  "name": "Award of Merit Scholarship for Agricultural Engineering Students (B.Tech 3rd/4th Year)",
+  "shortTitle": "AMSAES",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to support meritorious students pursuing B.Tech in Agricultural Engineering in their 3rd and 4th years by providing scholarship of ₹2000/- per month for one year.",
+  "descriptionMd": "The “Award of Merit Scholarship for Agricultural Engineering Students (B.Tech 3rd/4th Year)” scheme is implemented by Govind Ballabh Pant University of Agriculture and Technology, Pantnagar, under the Department of Agriculture, Government of Uttarakhand. The scheme aims to support meritorious students pursuing B.Tech in Agricultural Engineering in their 3rd and 4th years by providing a one-year scholarship.\n<br>",
+  "benefitsMd": "**Rate of Scholarship:** ₹2,000/- per month.\n<br>",
+  "eligibilityMd": "1. The applicant must be a student.\n   1. The applicant must be enrolled in the 3rd or 4th year of the B.Tech (Agricultural Engineering) course at Govind Ballabh Pant University of Agriculture and Technology, Pantnagar.\n   1. The scholarship is awarded for a duration of one year only.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "Students are first invited to submit their applications on the prescribed form. A committee, constituted by the Vice Chancellor, then reviews and evaluates these applications following a defined procedure. Based on the committee’s recommendations, the Vice Chancellor grants approval, after which the students receive their payments.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 184)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

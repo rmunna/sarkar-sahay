@@ -1,0 +1,35 @@
+{
+  "slug": "nfbsjak",
+  "name": "National Family Benefit Scheme (Jammu and Kashmir)",
+  "shortTitle": "NFBSJAK",
+  "level": "state",
+  "state": "Jammu and Kashmir",
+  "nodalDept": "Department Of Social Welfare J and K",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Launched on 15th August 1995, the \"National Family Assistance Scheme\" by the Department of Social Welfare, Union Territory of Jammu and Kashmir provides ₹20,000/- to ensure social security for bereaved families living below the poverty line in case of death of their breadwinner.",
+  "descriptionMd": "Launched on 15th August 1995, the &amp;quot;National Family Benefit Scheme&amp;quot; is a welfare scheme by the Social Welfare Department, Union Territory of Jammu and Kashmir. The scheme provides one-time financial assistance of ₹20,000/- to ensure social security for bereaved families living below the poverty line in case of the death of their breadwinner.",
+  "benefitsMd": "A one-time financial assistance of ₹20,000/-.",
+  "eligibilityMd": "1. The applicant should be a resident of Jammu and Kashmir.\n   1. The applicant should be a family member or dependent of the deceased person.\n   1. The deceased should have been the primary breadwinner (the main earning member of the family).\n   1. The family of the deceased must be living Below the Poverty Line (BPL).\n   1. At the time of death, the deceased must have been between 18 and 59 years old.\n   1. The application should be submitted within one year of the death of the primary breadwinner (husband, wife, or son).",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The applicant should visit the Tehsil Social Welfare Officer (TSWO) in the concerned area. during office hours and request a hard copy of the prescribed application form from the concerned authority.\n**Step 2:** Fill in all the mandatory fields in the application form. Paste a passport-sized photograph (signed across, if required), and attach copies of all necessary documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Tehsil Social Welfare Officer (TSWO).\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n**Post Application Processes**\n**Step 1:** The TSWO verifies the submitted forms and forwards them to the District Social Welfare Officer (DSWO) for review.\n**Step 2:** The District Level Committee reviews the application and sanctions the pension.\n<br>\n\n**NOTE 1:** Upon submission of the completed application form and the necessary documents, make sure to take a photocopy of the filled application form and the acknowledgement receipt for your future reference.\n**NOTE 2:** Ensure that the application is submitted within the prescribed period, if any.",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 6)",
+      "url": "https://jkdswdj.jk.gov.in/welfareSchemes/PensionSchemes.pdf"
+    },
+    {
+      "title": "Website",
+      "url": "https://jkdswdj.jk.gov.in/schemes.html"
+    },
+    {
+      "title": "Amendment",
+      "url": "https://jksocialwelfare.nic.in/schemes/Schemes.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

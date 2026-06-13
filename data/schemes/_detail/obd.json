@@ -1,0 +1,27 @@
+{
+  "slug": "obd",
+  "name": "Organizing Block Demonstration",
+  "shortTitle": "OBD",
+  "level": "state",
+  "state": "Tamil Nadu",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The “Organizing Block Demonstration” scheme provides a 50% subsidy or ₹2,000/- (whichever is less) on input costs for demonstrating the cultivation of Pulses crops over 5 hectares.",
+  "descriptionMd": "The “Organizing Block Demonstration” scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, provides subsidy to promote best agricultural practices to farmers who cultivate seed farms with Pulses crops. The subsidy covers 50% of the input costs or ₹2,000/- per demonstration, whichever is less.",
+  "benefitsMd": "**Financial Assistance:** A subsidy of 50% on the cost of inputs required to layout the demonstration of 5 hectare each or ₹2,000/- whichever is less.",
+  "eligibilityMd": "- The beneficiary should be a Farmer.\n- The beneficiary should be a resident of Tamil Nadu.\n- The beneficiary should cultivate seed farms with Pulses crops.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/6902"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

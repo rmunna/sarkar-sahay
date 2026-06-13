@@ -1,0 +1,31 @@
+{
+  "slug": "sn2408",
+  "name": "National Fellowship for Students with Disabilities",
+  "shortTitle": "NFFSWD",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Empowerment Of Persons With Disabilities",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "A Scheme \"National Fellowship For Students With Disabilities\" was initiated by the Department of Empowerment of Persons with Disabilities under the \"Ministry of Social Justice and Empowerment\".",
+  "descriptionMd": "The National Fellowship for Students with Disabilities (NFPwD) is a fellowship scheme launched by the Government of India in 2012-13 to increase opportunities for students with disabilities to pursue higher education leading to degrees such as M. Phil. and Ph.D. The scheme is implemented by the University Grants Commission (UGC) on behalf of the Department of Empowerment of Persons with Disabilities (DEPwD), Ministry of Social Justice and Empowerment.\nThe NFPwD scheme provides financial assistance to students with disabilities who are pursuing M. Phil. and Ph.D. degrees in any university/institution recognized by the UGC. The fellowship is awarded on the basis of merit and the student&#39;s disability certificate\n<br>",
+  "benefitsMd": "**The value of the fellowship is as follows:**\n\n1. The fellowship provides financial assistance to students with disabilities to pursue M. Phil. and Ph.D. degrees.\n1. The fellowship is awarded on the basis of merit and the student&#39;s disability certificate.\n1. The value of the fellowship is ₹ 37,000 per month for Junior Research Fellows (JRFs) and ₹ 42,000 per month for Senior Research Fellows (SRFs).\n1. The fellowship is awarded for a maximum period of five years, including the JRF and SRF periods.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a person with disability (PWD) as defined under the Rights of Persons with Disabilities Act, 2016, with at least 40% disability.\n1. The applicant must have a valid disability certificate issued by the competent authority.\n1. The applicant must have secured admission to an M. Phil. or Ph.D. program in a university/institution recognized by the University Grants Commission (UGC).\n1. The applicant must have a good academic record.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "1. To apply for the National Fellowship for Persons with Disabilities (NFPwD), applicants must visit the University Grants Commission&#39;s (UGC) NFPwD [website](https://www.ugc.gov.in/).1. On the home page, go to the &quot;[Scholarships/Fellowships&quot;](https://www.ugc.gov.in/ugc_schemes/) section and click &quot;View All.&quot;1. Scroll down to find the &quot;National Fellowship for Persons with Disabilities&quot; link and click &quot;See Detailed Information.&quot;\n1. Read the detailed information carefully.\n1. Then, click &quot;Apply for Fresh Registration (Click Here).&quot; The registration form will open on the screen.\n1. Follow the instructions on the screen carefully and enter the required information, including the captcha code.\n1. Click &quot;Register&quot; to complete the process.\n1. Next, provide the remaining information in the form and upload the required documents.\n1. Finally, click &quot;Submit",
+  "references": [
+    {
+      "title": "Website",
+      "url": "https://disabilityaffairs.gov.in/upload/uploadfiles/files/Scholarship%20Scheme%20Guidelines%202023-24.pdf"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3e58aea67b01fa747687f038dfde066f6/uploads/2023/10/202405091196982143.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

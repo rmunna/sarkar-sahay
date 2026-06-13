@@ -1,0 +1,31 @@
+{
+  "slug": "fesftydpc",
+  "name": "Free Education Scholarship for Three-Year Diploma (Polytechnic Courses)",
+  "shortTitle": "FESFTYDPC",
+  "level": "state",
+  "state": "Tamil Nadu",
+  "nodalDept": "Backward Classes Most Backward Classes and Minorities Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This scheme provides free education scholarships for students from Backward Classes, Most Backward Classes, and Denotified Communities pursuing 3-year Diploma courses in Government and Government-Aided Polytechnics.",
+  "descriptionMd": "The &amp;quot;Free Education Scholarship for Three-Year Diploma (Polytechnic Courses)&amp;quot; launched on 7th May, 2012, by the Backward Classes, Most Backward Classes and Minorities Welfare Department, Tamil Nadu, is designed to support students from Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC) who wish to pursue higher education in polytechnic institutions.\n&lt;br&gt;\n\n&lt;br&gt;",
+  "benefitsMd": "&gt; **Financial Assistance:** \n\n\n  - Full payment of tuition fees.\n  - Coverage of special and other non-refundable compulsory fees.\n  - Full reimbursement of examination fees as per government norms.\n\n&lt;br&gt;",
+  "eligibilityMd": "1. The beneficiary should be a student.\n   1. The beneficiary should be a resident of Tamil Nadu.\n   1. The beneficiary should belong to the Backward Classes (BC), Most Backward Classes (MBC), and De-notified Communities (DNC).\n   1. The beneficiary should be pursuing studying in 3 year Diploma courses in Government and Government Aided Polytechnics.\n   1. The beneficiary’s family income should not exceed ₹1,00,000/- annually.\n   1. There should not be any Diploma/ Graduate in the family.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step-1:** The interested applicant should collect the application form from the concerned Government or Government Aided Polytechnic College.\n**Step-2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step-3:** Submit the duly filled and signed application form along with the documents to the institution.\n**Step-4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines-1",
+      "url": "https://www.tn.gov.in/scheme/data_view/27483"
+    },
+    {
+      "title": "Guidelines-2",
+      "url": "https://cms.tn.gov.in/sites/default/files/schemes/bcmbcmw_5.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

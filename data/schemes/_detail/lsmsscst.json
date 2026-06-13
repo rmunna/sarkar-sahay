@@ -1,0 +1,27 @@
+{
+  "slug": "lsmsscst",
+  "name": "Laptop Scheme for Meritorious Students of SC/ST",
+  "shortTitle": "LSMSSCST",
+  "level": "state",
+  "state": "Goa",
+  "nodalDept": "Information and Publicity Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme \"Laptop Scheme for Meritorious Students of SC/ST\" by the Department of Information Technology, Electronics and Communication, Government of Goa aims to provide laptops to the meritorious students who were born in Goa.",
+  "descriptionMd": "The scheme &quot;Laptop Scheme for Meritorious Students of SC/ST&quot; by the Department of Information Technology, Electronics and Communication, Government of Goa aims to provide laptops to the meritorious students who were born in Goa. The students fulfilling the eligibility criteria may apply for the scheme by filling the prescribed online application form. The call for applications for the scheme will be announced by Info Tech Corporation of Goa Limited (ITG) every year.",
+  "benefitsMd": "Laptop is provided to the meritorious student.",
+  "eligibilityMd": "- The applicant should be born in Goa.\n- The applicant should be from a Scheduled Caste (SC) or Scheduled Tribe (ST) Community.\n- The applicant should have passed the class 10th examination of the Goa Board in the first attempt.\n- The applicant should have scored at least 70% (aggregate) marks in the class 10th examination of the Goa Board.\n- The applicant should be schooling in the taluka in which he/she is considered meritorious.\n- In the case of male students, he should have featured in the Top 5 among the Class 10th male students of his taluka.\n- In the case of female students, she should have featured in the Top 5 among the Class 10th female students of her taluka.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "- The students fulfilling the eligibility criteria may apply for the scheme by filling out the [prescribed online application form](https://merit.goa.gov.in).- The complete application will be reviewed by the scrutinizing committee of Info Tech Corporation of Goa Limited.\n\n_* The applicants having their applications completed in all respects will only be considered for the scheme._\n_* The start and last date for applying for the scheme will be announced by Info Tech Corporation of Goa Limited (ITG) every year._\n_* For technical support write to_ ***topper.helpdesk@gmail.com*** _or call_ ***9607963089 / 9607963098***_._",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dit.goa.gov.in/schemes_policies.html"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

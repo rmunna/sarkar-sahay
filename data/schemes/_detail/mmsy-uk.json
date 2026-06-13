@@ -1,0 +1,28 @@
+{
+  "slug": "mmsy-uk",
+  "name": "Mukhyamantri Swarozgar Yojana - Uttarakhand",
+  "shortTitle": "MMSY-UK",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Industry Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual",
+    "Business Entity"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to promote self-employment and entrepreneurship among the residents of Uttarakhand by providing financial assistance and subsidies for establishing new enterprises or upgrading existing small-scale units.",
+  "descriptionMd": "The “Mukhyamantri Swarozgar Yojana” has been implemented by the Uttarakhand Khadi and Village Industries Board under the Department of Industries, Government of Uttarakhand. The scheme aims to promote self-employment and entrepreneurship among the residents of Uttarakhand by providing financial assistance and subsidies for establishing new enterprises or upgrading existing small-scale units.\n<br>",
+  "benefitsMd": "The maximum project cost for manufacturing sector enterprises is ₹25 lakh, and for service and business sector enterprises, it is ₹10 lakh, which is financed through banks.\n\n  - 25% subsidy for Category-A districts (manufacturing sector – maximum ₹6.25 lakh; service sector – maximum ₹2.50 lakh)\n  - 20% subsidy for Category-B and B+ districts (manufacturing sector – maximum ₹5 lakh; service sector – maximum ₹2 lakh)\n  - 15% subsidy for Category-C and D districts (manufacturing sector – maximum ₹3.75 lakh; service sector – maximum ₹1.50 lakh)\n\n> **Note:** Classification of districts category wise is attached at [Annexure-1](https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf). (Page No. 157)\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a native or permanent resident of Uttarakhand.\n   1. The applicant must be at least 18 years of age.\n   1. No educational qualification is required for availing the benefits under this scheme.\n   1. Under the scheme, financing is available for industrial, service, and business sectors. It is also available for projects related to apple cultivation, orchids, animal husbandry, and agriculture activities.\n   1. The applicant or entity must not be a defaulter of any bank, nationalized bank, financial institution, or cooperative bank/institution.\n   1. The applicant must hold an account with the financing bank in the concerned area.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "- To avail the benefits of the scheme, applications must be submitted online through the portal [https://msy.uk.gov.in](https://msy.uk.gov.in/)/. Eligible applications are then forwarded online to banks for funding. Financial assistance may be provided under the scheme for both new projects and for upgrading existing small-scale enterprises.  - The documents required for the application include the applicant’s photograph, Aadhaar card, permanent or original residence certificate, special category or caste certificate (if applicable), a copy of project details, handicapped certificate (if applicable), and ration card. All self-attested documents must be uploaded online through the online portal.\n  - The prescribed subsidy will be released only after the project established under the scheme has been successfully operational for a continuous period of two years.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 109)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

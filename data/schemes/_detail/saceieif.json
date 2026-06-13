@@ -1,0 +1,30 @@
+{
+  "slug": "saceieif",
+  "name": "Scheme of Assistance for Common Environment Infrastructure: Financial Assistance for Common Environmental Infrastructure Facilities",
+  "shortTitle": "SACEIEIF",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Industries and Mines Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity",
+    "Industries",
+    "Government Organisation",
+    "Registered Societies"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"Scheme of Assistance for Common Environment Infrastructure\" under the Gujarat Industrial Policy aims to provide incentives for environmental compliance to ensure long-term economic and ecological balance.",
+  "descriptionMd": "The scheme &amp;quot;Scheme of Assistance for Common Environment Infrastructure&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, it aims to boost industrial growth through financial assistance, modern technologies, and enhanced facilities for industrial parks and clusters.\nThe component “Financial Assistance for Common Environmental Infrastructure Facilities” aims to support industries and organizations in establishing and upgrading environmental management infrastructure. It provides financial aid for projects that promote pollution control, waste management, and environmental sustainability.",
+  "benefitsMd": "- **General Projects:** Up to 40% financial assistance, with a maximum limit of ₹50,00,00,000/-.  - **Government Projects:** Assistance up to 80% for Government Departments, Agencies, PSUs, and Boards, with a ₹50,00,00,000/-.  - **Co-Funding with GoI:** Total assistance from GoI + GoG is limited to 75%, with 25% contribution from the institution.",
+  "eligibilityMd": "- Industries association / Any Enterprise (except for captive use) or firm which is registered under Societies Act, Trust Act or under the Companies Act.; or GIDC/Board/ Corporations / Special Purpose Vehicle (SPV) / PSU / Municipal Corporation / Nagarpalika / Urban Development Authority etc.\n  - The project must comply with Ministry of Environment, Forest and Climate Change (MoEF) &amp;amp; Gujarat Pollution Control Board (GPCB) [regulations](https://gpcb.gujarat.gov.in/ViewFile?fileName=%E2%9C%BF84VtA%E2%9C%A45Y2S5am0gZge7C5DIhraFNMo2Ft55An9ZyFCK3Aq9K4dpmnxwVOuBnFXqslsR%E2%9C%A4PycTDCIhX4VZROM%E2%9C%BFi06yKqnt6WggtDpEP%E2%9C%A49qS%E2%9C%A4OqhmJOM%E2%9C%A4HY9NwlZsBW6x0te88%E2%9C%BF%E2%9C%BF0jyrttC7nRRU7AbQ%E2%99%AC%E2%99%AC).  - The project must remain operational for a minimum of 5 years post-completion.",
+  "exclusionsMd": "- The Project availing incentives under this scheme will not be entitled to avail incentives under any other scheme of the State Government for the same component, unless specified otherwise. However, the project will be eligible to avail incentives available under schemes of Government of India or any other institutions.\n  - The following investments are not eligible for financial assistance:\n\n\n   1. Land purchase\n   1. Land development\n   1. Preliminary expenses\n   1. Pre-operative expenses\n   1. Consultancy fees",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Prepare a Detailed Project Report (DPR).\n**Step 2:** Fill out the [prescribed application form](https://ic.gujarat.gov.in/documents/commondoc/2023/Scheme-1_Application-form_CEIS-IP-2020.pdf).\n**Step 3:** Submit the application with the required documents to the [Industries Commissionerate](https://ic.gujarat.gov.in/ic-contact.aspx).\n**Step 4:** Await evaluation and approval from the State Level Empowered Committee. If approved, assistance will be disbursed in phases based on project progress.\n&gt; **Helpdesk****:** [Contact Here](https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/contact.jsp?pagedisp=static)",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/12-GR_02092020.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

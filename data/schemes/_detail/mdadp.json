@@ -1,0 +1,27 @@
+{
+  "slug": "mdadp",
+  "name": "Mukhyamantri Dairy Animal Distribution Programme (Special Backward Tribes Baiga, Bharia & Sahariya)",
+  "shortTitle": "MDADP",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Animal Husbandry Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to improve the livelihood and nutritional security of tribal communities by providing two dairy animals at a 90% subsidy to eligible tribal livestock farmers.",
+  "descriptionMd": "The  &quot;Mukhyamantri Dairy Animal Distribution Programme (Special Backward Tribes Baiga, Bharia &amp; Sahariya)&quot; scheme is launched by the Animal Husbandry Department, Government of Madhya Pradesh. The scheme aims to improve the economic status, nutrition, and income of special backward tribal communities by promoting livestock rearing. The beneficiaries from the Baiga, Bharia, and Sahariya tribes receive two high-yielding dairy cows or Murrah buffaloes at a 90% subsidy, with 10% contribution by the beneficiary. \n> **Selected Districts:**\n\nThe scheme targets specific districts including Dindori, Umaria, Shahdol, Anuppur, Mandla, Balaghat, Chhindwara, Gwalior, Datia, Shivpuri, Guna, Ashoknagar, Sheopurkala, Morena, and Bhind.\n<br>",
+  "benefitsMd": "- Provision of 2 Dairy Animals (cow or Murrah buffalo) per beneficiary at 90% subsidy.\n- Animals sourced from certified breeding tracts, progressive farmers, or NABARD-approved markets, ensuring quality and health.\n- Minimum milk yield requirement: cows – 7 liters/day; buffaloes – 8 liters/day.\n- Animal age limit: calves must be under 2 months.\n- Disease-free, healthy animals with mandatory tagging.\n- Training and guidance on dairy management provided before distribution.\n- Milk route establishment and cluster development support provided.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Madhya Pradesh.\n1. The applicant must belong to special backward tribes: Baiga, Bharia, or Sahariya.\n1. The applicant must be a livestock farmer residing in the designated districts.\n1. The applicant’s selected animals must comply with minimum milk yield and age requirements.\n1. The applicant must participate in pre-distribution training and follow cluster/milk route arrangements.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "> **Application Process:**\n\n**Step 1:** The interested applicant should visit the Veterinary Officer, Veterinary Hospital In-Charge, or Deputy Director of Veterinary Services in their respective district (Sehore, Vidisha, or Raisen) and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Veterinary Officer, Veterinary Hospital In-Charge, or Deputy Director of Veterinary Services office.\n**Step 4:** Request a receipt or acknowledgment from the Veterinary Officer, Veterinary Hospital In-Charge, or Deputy Director of Veterinary Services office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n> **Post-Application Process:**\n\n**Step 1:** Applications are verified and approved by the Gram Sabha. Gram Sabha-approved applications are forwarded to the Janpad Panchayat Agricultural Standing Committee.\n**Step 2:** Final approval is granted by the District Panchayat Agricultural Committee.\n**Step 3:** Selected beneficiaries are trained in dairy management before animal distribution.\n**Step 4:** Animals are provided to beneficiaries with proper tagging and health certification, followed by milk route and cluster integration.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=981"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

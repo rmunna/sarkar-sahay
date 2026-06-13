@@ -1,0 +1,31 @@
+{
+  "slug": "solap",
+  "name": "Sanction of Laptops - Andhra Pradesh",
+  "shortTitle": "SOLAP",
+  "level": "state",
+  "state": "Andhra Pradesh",
+  "nodalDept": "Dept of Social Welfare, WCD",
+  "schemeFor": null,
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The \"Sanction of Laptops\" scheme aims to distribute laptops to visually challenged, hearing impairments, speech impairments, and orthopedic challenges students pursuing professional courses. The A.P. Differently Abled & Senior Citizens Assistance Corporation proposes to procure 200 laptops.",
+  "descriptionMd": "The Department for the Welfare of Differently Abled &amp; Senior Citizens launched the &quot;Sanction of Laptops&quot; scheme to distribute free laptops to visually challenged, hearing impairments, speech impairments, and orthopedic challenges students pursuing professional courses. The A.P. Differently Abled &amp; Senior Citizens Assistance Corporation proposes to procure 200 laptops at ₹30,000/- each.",
+  "benefitsMd": "**Distribution of Laptops.**\n\n- Category I: Parent/guardian income up to ₹15,000/- per month - Full cost covered.\n- Category II: Parent/guardian income from ₹15,000/- to ₹20,000/- per month - Half of the cost covered.\n- Category III: Parent/guardian income above ₹20,000/- per month - Full cost to be paid by the beneficiary.",
+  "eligibilityMd": "1. The student should be a native of Andhra Pradesh.\n1. The student should be visually challenged, hearing challenged, speech impaired, and orthopedically challenged.\n1. The student should be pursuing postgraduate or professional courses.\n1. The laptop is sanctioned once in the lifetime of the student.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 01:** The interested student needs to visit the [official website](https://apdascac.ap.gov.in/). \n**Step 02:** Click on the &quot;Online Applications&quot; on the home page. \n**Step 03:** Select the category &quot;click here to apply for differently abled schemes&quot; \n**Step 04:** Now click on &quot;Apply Online&quot; respect to the scheme name.\n**Step 05:** And confirm your registration. \n<br>\n\n> **If applicant was not register earlier**\n\n**Step 06:** Answer the above registration question as &quot;No&quot;. \n**Step 07:** Fill in your Aadhaar card name, Aadhaar number, Mobile number, email ID.\n**Step 08:** Create a new password for this application.\n**Step 09:** Click on &quot;Register&quot; After that get the registration number.\n<br>\n\n> **After the registration**\n\n**Step 10:** Click here to Login.\n**Step 11:** Again, ask the same &quot;Are you registered already: Yes/No Select &quot;Yes&quot;.\n**Step 12:** Enter email/mobile number and password.\n**Step 13:** Click on &quot;Login&quot; and select the category again &quot;click here to apply for differently abled schemes&quot; .\n**Step 14:** Fill out the application form for personal employment and disability detail.\n**Step 15:** Click on &quot;Submit&quot;.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://apdascac.ap.gov.in/Schemes/laptops/"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://apdascac.ap.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "glrmy",
+  "name": "Gadiya Lohar Raw Material Purchase Grant-in-aid Scheme",
+  "shortTitle": "GLRMPGS",
+  "level": "state",
+  "state": "Rajasthan",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, the state government provides financial assistance of ₹10,000/- as a one-time grant to the Gadia Lohar community of Rajasthan for purchasing raw materials and making themselves self-reliant in their business.",
+  "descriptionMd": "The scheme &amp;quot;Gadiya Lohar Raw Material Purchase Grant-in-Aid Scheme&amp;quot; was introduced by the Social Justice and Empowerment Department, Government of Rajasthan. Under this scheme, the state government provides a one-time financial assistance of ₹10,000/- to the Gadia Lohar community of Rajasthan for purchasing raw materials, helping them become self-reliant in their business.",
+  "benefitsMd": "- Under this scheme, the member of Gadia Lohar community of Rajasthan receives a one-time financial grant of ₹10,000/- to purchase raw materials for their business.",
+  "eligibilityMd": "1. The applicant should be a native of Rajasthan.\n   1. The applicant should belong to the Gadiya Lohar community.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit (during office hours) the District Social Welfare Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Social Welfare Office.\n**Step 4:** Request a receipt or acknowledgment from the District Social Welfare Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable).\n**Note:** The applicant must submit a utilization certificate within 3 months.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=175"
+    },
+    {
+      "title": "Amendment",
+      "url": "https://jankalyanfile.rajasthan.gov.in/Content/UploadFolder/DepartmentMaster/166/2023/Feb/30409/133142.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

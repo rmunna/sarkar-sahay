@@ -1,0 +1,39 @@
+{
+  "slug": "kkt",
+  "name": "Kantedar Tarbandi Yojana",
+  "shortTitle": "KTY",
+  "level": "state",
+  "state": "Rajasthan",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "A initiative of Rajasthan State for the farmer to protect crops from damage caused by Nilgai and stray animals. Financial assistance will be provided to the farmers by the Rajasthan government for fencing their fields.",
+  "descriptionMd": "The Taarbandi Scheme for Fields was launched on July 21, 2017, under the auspices of the Agriculture Department of the Rajasthan government. The primary objective of this scheme is to safeguard farmers&amp;#39; crops from damage caused by stray animals. Many farmers face crop losses due to the intrusion of such animals into their unfenced fields, particularly those who lack the financial means to secure their land. To address this issue, the Rajasthan Taarbandi Scheme was introduced, offering financial assistance to farmers across the state for the installation of fencing around their fields. This initiative aims to enable farmers to protect their crops effectively by erecting barbed wire enclosures around their fields.\n&lt;br&gt;\n\n> **Priority** \n\n\n- Scheduled Caste 17.83 percent,\n- Scheduled Caste 13.48 percent,\n- Women category farmers will be given priority for 30.0 percent participation.",
+  "benefitsMd": "1. Subsidy amount:\n\n  - Small and marginal farmers: 60% of the total cost, capped at ₹48,000/-.\n  - Other farmers: 50% of the total cost, capped at ₹40,000/-.\n  - Community application (group of 10+ farmers with min. 5 hectares collectively): 70% of the total cost, capped at ₹56,000/- per farmer .\n\n1. Land covered: \n\n  - Up to 400 meters of fencing per farmer.",
+  "eligibilityMd": "1. This scheme is available to all categories of farmers.\n1. For individual farmers and farmer groups, the applicant must possess a minimum of 1.5 hectares of land at a single location.\n1. In Scheduled Tribe areas, a minimum of 0.5 hectares of land at one location is required.\n1. For community applications, a group comprising 10 or more farmers must collectively own a minimum of 5 hectares of land.\n1. Additionally, the boundaries of the group&#39;s land must fall within the specified perimeter.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on the new SSO link.\n      - SSO id will appear on the screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n**Step-5**: Submit.\n<br>\n\n> **APPLY**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, [dashboard ](https://sso.rajasthan.gov.in/dashboard)will open.\n**Step-3:** Click on “ RAJ-KISAN ” option. \n**Step-4:** In &quot;Farmer&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah ID&quot; or &quot;Janaadhaar ID&quot; and search.  \n**Step-6:** Select the person name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on Get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://familyid.in/wp-content/uploads/2023/12/guideline_subsidy_for_barbed_wire_fencing.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/register"
+    },
+    {
+      "title": "Login",
+      "url": "https://sso.rajasthan.gov.in/signin"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

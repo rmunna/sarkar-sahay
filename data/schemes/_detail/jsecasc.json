@@ -1,0 +1,31 @@
+{
+  "slug": "jsecasc",
+  "name": "Jharkhand Sports Excellence Cash Award Scheme to Coaches",
+  "shortTitle": "JSECASC",
+  "level": "state",
+  "state": "Jharkhand",
+  "nodalDept": "Department of Sports & Youth Affairs",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The “Jharkhand Sports Excellence Cash Award Scheme to Coaches” aims to provide cash awards to coaches who train athletes and teams to achieve excellence in national and international competitions under the Jharkhand Sports Policy, 2022.",
+  "descriptionMd": "The “Jharkhand Sports Excellence Cash Award Scheme to Coaches” was launched by the Department of Sports &amp; Youth Affairs, Government of Jharkhand. The scheme aims to provide cash awards to coaches who train athletes and teams to achieve excellence in national and international competitions under the Jharkhand Sports Policy, 2022.\n<br>\n\n***Objective:***\n\n- Cash rewards to encourage and sustain their contribution to sports development.\n\n<br>\n\n<br>",
+  "benefitsMd": "> **Cash Awards for Medal:**\n\n<br>\n\n**S.No****Competition****Gold****Silver****Bronze**1Summer/Winter Olympic Games₹25,00,000/-₹15,00,000/-₹10,00,000/-2Paralympic Games₹20,00,000/-₹15,00,000/-₹10,00,000/-3World Cup/World Championship Senior ₹15,00,000/-₹10,00,000/-₹7,00,000/-World Cup/World Championship Junior ₹10,00,000/-₹7,00,000/-₹5,00,000/-World Cup/World Championship Sub-junior₹5,00,000/-₹3,00,000/-₹2,00,000/-4Youth Olympic Games₹7,00,000/-₹5,00,000/-₹3,00,000/-5Commonwealth Games₹10,00,000/-₹7,00,000/-₹5,00,000/-6Asian Games₹10,00,000/-₹7,00,000/-₹5,00,000/-7Asian Championships₹3,00,000/-₹2,00,000/-₹1,00,000/-8SAF Game/Intercontinental Championship₹1,00,000/-₹75,000/-₹50,000/-9National Games₹1,00,000/-₹75,000/-₹50,000/-10National Championships/ National School Sports / Khelo India, National University Sports₹75,000/-₹60,000/-₹50,000/-",
+  "eligibilityMd": "1. The applicant should be a coach who trains medal-winning athletes/teams participating in competitions recognized by the International or Indian Olympic Association.\n1. The applicant must have coached athletes/teams representing Jharkhand or India for at least four years.\n1. The medal-winning athletes must have competed in recognized competitions for the coach to qualify.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step-1:** The interested applicant downloads the [application form](https://sports.jharkhand.gov.in/notice_docs/30e1048bFormat%20for%20Cash%20Award%20Application%20for%20Coaches%20.pdf) from the official website. \n**Step-2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step-3:** Submit the duly filled and signed application form along with the documents to the District Sports Officer. \n**Step-4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sports.jharkhand.gov.in/notice_docs/2fab3f58Sankalp%20Cash%20Award%20REVISED.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://sports.jharkhand.gov.in/Home.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "tfrs",
+  "name": "Testing Fee Reimbursement Scheme",
+  "shortTitle": "TFRS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Micro, Small and Medium Enterprises",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Testing Fee Reimbursement Scheme for Scheduled Caste / Scheduled Tribe is a sub scheme under National Scheduled Caste and Scheduled Tribe Hub (NSSH) scheme.",
+  "descriptionMd": "The &amp;quot;Testing Fee Reimbursement Scheme for Scheduled Caste / Scheduled Tribe&amp;quot; is a component under the National Scheduled Caste and Scheduled Tribe Hub. It provides financial assistance to SC/ST-owned Micro and Small Enterprises (MSEs) by reimbursing expenses incurred on product testing. The reimbursement is applicable for testing conducted at National Accreditation Board for Testing and Calibration Laboratories or Bureau of Indian Standards-accredited laboratories and other government-approved labs. The scheme aims to reduce the cost burden of quality testing and help enterprises improve product standards. It also supports better market competitiveness by encouraging quality compliance and certification.\n<br>",
+  "benefitsMd": "- **Testing Fee Reimbursement:** Up to 80% of the testing fee or ₹1,00,000/- (excluding GST), whichever is lower.  - **Coverage of Testing:** Includes testing of raw materials, semi-finished goods, and finished products.  - **Multiple Claims Allowed:** Enterprises can avail reimbursement multiple times in a financial year, subject to the overall limit.  - **Support for Certification:** Assistance is also available for BIS licenses and certifications.\n<br>",
+  "eligibilityMd": "- The applicant should have a micro or small scale industry.\n  - Applicant should belong to Scheduled Caste (SC) or Scheduled Tribe (ST).\n  - The enterprise must be registered with the Udyam portal or any other valid registration platform recognized by the MSME Ministry.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** The applicant must visit the official portal of the [National SC-ST Hub](https://www.scsthub.in/nssh-schemes/).\n**Step 2:** The applicant must click on the &quot;Scheme name&quot; and then click on “Sign Up” and register using basic details such as name, email ID, and mobile number.\n**Step 3:** The applicant must create a password and complete the registration process.\n**Step 4:** The applicant must log in using the registered credentials.\n**Step 5:** The applicant must fill in the required details and submit the application online.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.scsthub.in/sites/default/files/schemes/NSSH_Guidelines_Sub_scheme__0.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

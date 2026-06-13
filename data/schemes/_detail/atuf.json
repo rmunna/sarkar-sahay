@@ -1,0 +1,31 @@
+{
+  "slug": "atuf",
+  "name": "Amended Technology Upgradation Fund",
+  "shortTitle": "ATUF",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Textiles",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Industries"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The Ministry of Textiles introduced the Amended Technology Upgradation Fund Scheme (ATUFS). This scheme aims to facilitate investment, employment, productivity, quality and import and export substitution in the textile industry.",
+  "descriptionMd": "The Ministry of Textiles introduced the Amended Technology Upgradation Fund Scheme (ATUFS). This scheme aims to facilitate investment, employment, productivity, quality, and import and export substitution in the textile industry. It also indirectly promotes investments in the manufacturing of machinery for textiles. It is a credit-linked subsidy scheme for capital investment in textile manufacturing under the Government of India’s Make in India and Zero Defect and Zero Effect initiatives. \n<br>\n\n> **Objectives** \n\n\n- Export and employment generation, especially to women, by encouraging the garment and apparel industry and increasing India’s share in global exports.\n- Promotion of technical textiles for export and employment.\n- Promotion of converting existing looms to better technology looms to improve quality and productivity.\n- Encourage better quality in the processing industry and check the need for the import of fabrics by the garment sector.",
+  "benefitsMd": "> **ATUFS benefit is available for investment in benchmarked machinery in the following segments:**\n\n\n- Weaving, weaving preparatory, and knitting\n- Processing of fibres, yarns, fabrics, garments, and made-ups\n- Technical textiles\n- Garment/made-up manufacturing\n- Handloom sector\n- Silk sector\n- Jute sector\n\n<br>\n\n**Capital Investment Subsidy (CIS) is provided as per segment and rates below:**\nS. NoSegmentCIS RateCIS Cap per Entity1Garmenting, Technical Textiles15% on eligible machines₹30 crore2Weaving (Shuttle-less looms, preparatory, Jute, Silk, Handloom)10% on eligible machines₹20 crore3(a)Composite units (Garmenting + Technical Textiles) &amp;amp;amp;gt; 50% investment in those segments15%₹30 crore3(b)Composite units with &amp;amp;amp;lt; 50% investment in Garmenting &amp;amp;amp;amp; Technical Textiles10%₹20 crore<br>",
+  "eligibilityMd": "> **Eligible Entities**\n\n\n- Units must be registered under the Companies Act or as per MSME definitions.\n- Units must have an acknowledgment of IEM (Industrial Entrepreneur Memorandum) or be registered with the respective State Directorate.\n- Both existing and new units are eligible, subject to overall subsidy caps.\n- If a unit has availed benefits under previous schemes like RRTUFS, only the remaining subsidy amount under ATUFS will be available.\n\n> **Eligible Machinery**\n\n\n- Only new benchmarked machinery from notified manufacturers or their authorized agents is eligible.\n- A list of eligible machines is updated every year on April 1st by the Textile Commissioner.\n- Second-hand machinery is not permitted.\n- Accessories, attachments, and sample machines up to 20% of the machine cost are also eligible.\n- Machines may be eligible for multiple segments unless restricted.\n- Other essential machinery may be included later upon recommendation.\n- UIDs (Unique Identification Numbers) are required for all eligible machines.\n- Machinery must be purchased directly from authorized manufacturers or agents; certain cases of domestic purchases from authorized stockists may also qualify.\n- The purchase date is determined by the commercial invoice date.\n- Machine Identification Code (MIC) must be visibly inscribed on machines.\n\n<br>\n\n> **Eligibility for Assistance**\n\n\n- Units must be registered and must be producing textiles as per the registered product line.\n- Machinery must be verified during Joint Inspection Team (JIT) visits to claim benefits.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "Step 1: A unit/applicant can apply for ATUFS after the machinery is installed for undergoing a joint inspection.\nStep 2: The applicant can submit the ATUFS application online on the [iTUFS online portal.](https://itufstxcindia.gov.in/Login.aspx?ReturnUrl=%2f)\nStep 3: Once the application is submitted, it will be forwarded to different stakeholders for verification.\nStep 4: A Unique Identification Number (UID) is generated and provided to the applicants.\nStep 5: Applicants can track the application online and can opt to get SMS/e-Mail updates about the application status through the UID.\nStep 6: After the stakeholders approve, the Ministry of Textiles will release the funds.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.texmin.gov.in/static/uploads/2025/06/b0a2771b640f5c2b036de284db0a3e57.pdf"
+    },
+    {
+      "title": "Website",
+      "url": "https://www.texmin.gov.in/offerings/schemes-and-services/details/technology-upgradation-fund-scheme-kDO1MTMtQWa"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

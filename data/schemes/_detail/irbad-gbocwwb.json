@@ -1,0 +1,39 @@
+{
+  "slug": "irbad-gbocwwb",
+  "name": "Interim Relief to the Beneficiaries Affected by Disaster (GBOCWWB)",
+  "shortTitle": "IRBAD-GBOCWWB",
+  "level": "state",
+  "state": "Goa",
+  "nodalDept": "Labour and Employment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Through \"Interim Relief to the Beneficiaries Affected by Disaster (GBOCWWB)\" , the beneficiaries of the Board who are affected by disasters, catastrophes or natural calamities are extended immediate relief of up to ₹10,00,000/-. This shall include cash payment to beneficiaries of the affected area.",
+  "descriptionMd": "&quot;Interim Relief to the Beneficiaries Affected by Disaster (GBOCWWB)&quot; is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board of the Department of Labour and Employment, Goa. Through this scheme, the beneficiaries of the Board who are affected by disasters, catastrophes or natural calamities are extended immediate relief of up to ₹10,00,000/-. This shall include cash payment to beneficiaries of the affected area and expenditure towards all the facilities and benefits granted to such beneficiaries.",
+  "benefitsMd": "An immediate relief of up to ₹10,00,000/-.\n_*The committee shall decide about the modalities regarding disbursement of such relief, quantum and procedure to be followed for such disbursement._",
+  "eligibilityMd": "- The applicant should be a beneficiary of a scheme of the Goa Building and Other Construction Workers Welfare Board.\n- The applicant should be affected by disaster/catastrophe/natural calamity.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "_The committee shall decide about the modalities regarding disbursement of such relief, quantum and procedure to be followed for such disbursement._",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.goa.gov.in/wp-content/uploads/2016/05/schemesofbocw-dated-08-09-2015.pdf"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://www.goa.gov.in/wp-content/uploads/2016/05/Citizen-Charter-Labour-Depatment-DATED-16032016.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://labour.goa.gov.in/wp-content/uploads/2020/07/Scheme-12-Interim-Relief-To-The-Beneficiaries-Affected-By-Disaster.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://www.goa.gov.in/department/commissioner-labour-and-employment/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

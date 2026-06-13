@@ -1,0 +1,43 @@
+{
+  "slug": "mmajeajcspy",
+  "name": "Mukhyamantri Anusuchit Jati Ewam Anusuchit Janjati Civil Sewa Protsahan Yojana",
+  "shortTitle": "MMAJEAJCSPY",
+  "level": "state",
+  "state": "Bihar",
+  "nodalDept": "SC & ST Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The objective of the scheme is to provide financial assistance to SC & ST candidates who qualify in the preliminary examination of Civil Services Competitive Examination conducted by the BPSC, Patna, and the UPSC, New Delhi, to support their preparation for main examination/interview.",
+  "descriptionMd": "The scheme &amp;quot;Mukhyamantri Anusuchit Jati Evam Anusuchit Janjati Civil Sewa Protsahan Yojana&amp;quot; has been initiated by the Scheduled Caste and Scheduled Tribe Welfare Department, Government of Bihar. The primary objective of the scheme is to provide financial assistance to meritorious Scheduled Caste and Scheduled Tribe students who qualify in the preliminary examination of the Civil Services Competitive Examination conducted by the Bihar Public Service Commission, Patna, and the Union Public Service Commission, New Delhi, to support their preparation for the main examination and interview.",
+  "benefitsMd": "Under this scheme, candidates who pass the preliminary examination of Civil Services Competitive Examinations are eligible for the following incentives:\n\n   1. Scheduled Caste and Scheduled Tribe candidates who pass the Preliminary Examination of the Combined Competitive Examination conducted by the Bihar Public Service Commission, Patna, will receive a one-time financial assistance of ₹50,000/- for further preparation.\n   1. Scheduled Caste and Scheduled Tribe candidates who pass the Preliminary Examination of the Civil Services Competitive Examination conducted by the Union Public Service Commission, New Delhi, will receive a one-time financial assistance of ₹1,00,000/- for further preparation.",
+  "eligibilityMd": "1. The applicant should be a permanent resident of Bihar.\n   1. The applicant should belong to the Scheduled Caste or Scheduled Tribe category.\n   1. The applicant should have passed the preliminary examination of the Civil Services Competitive Examination conducted by either the Bihar Public Service Commission, Patna, or the Union Public Service Commission, New Delhi.\n   1. The benefit of this scheme is available to each candidate only once.\n   1. The applicant should not have received the same incentive from any other sources previously.",
+  "exclusionsMd": "1. Candidates who are already employed in any Government Department, Public Sector Undertaking, or State-Funded Institution are not eligible for this scheme.",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Registration Process:**\n\n**Step 1:** Visit the department&amp;#39;s [official website](https://bcebconline.bihar.gov.in/cspy/EBCscholarship/Index.aspx) to apply under the scheme.\n**Step 2:** On the homepage, select the scheme and click the &amp;quot;[New Registration](https://bcebconline.bihar.gov.in/cspy/EBCscholarship/PETC_Terms.aspx)&amp;quot; button if you are a new applicant.\n**Step 3:** Carefully read the &amp;quot;Guidelines for Registration&amp;quot; and click &amp;quot;Continue.&amp;quot;\n**Step 4:** Fill out the form by entering your details, educational qualifications, and other required information.\n**Step 5:** Upload your photograph, signature, and any necessary documents.\n**Step 6:** Ensure all fields marked with an asterisk (*) are filled in correctly.\n**Step 7:** Once all the required information is entered, click the &amp;quot;Submit&amp;quot; button. Upon successful submission, you will receive a registration ID and password.\n&gt; **Process to apply for scheme:**\n\n**Step 1:** Revisit the department&amp;#39;s [official website](https://bcebconline.bihar.gov.in/cspy/EBCscholarship/Index.aspx).\n**Step 2:** Click on the &amp;quot;[Applicant Login](https://bcebconline.bihar.gov.in/cspy/EBCscholarship/Login.aspx)&amp;quot; button.\n**Step 3:** Enter your User ID, Password, and the verification code.\n**Step 4:** Click &amp;quot;Login&amp;quot; to access your account and fill out the application form.\n**Step 5:** Verify your entries before submitting the application. No modifications can be made after the final submission.\n**Step 6:** After verifying your application form, click &amp;quot;Submit&amp;quot; to save your application.\n\n  - You may print the application form as a draft.\n  - An application ID will be generated after the final submission.\n  - Only the final submission will be considered.\n\n**Step 7:**  Print a copy of the finally submitted application form.\n<br>",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://state.bihar.gov.in/scstwelfare/Content.html?links&page=Mukhyamantri%20Anushoochit%20Jaati%20Ewam%20Anushoochit%20Janjaati%20Civil%20Sva%20Protsahan%20Yojna"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://bcebconline.bihar.gov.in/cspy/EBCscholarship/Photo/GuidlinesScSt.pdf"
+    },
+    {
+      "title": "Notification",
+      "url": "https://state.bihar.gov.in/scstwelfare/cache/1/12-Sep-24/SHOW_DOCS/UPSC-2023.pdf"
+    },
+    {
+      "title": "Sample_format_for_AffidavitScSt",
+      "url": "https://bcebconline.bihar.gov.in/cspy/EBCscholarship/Photo/Sample_format_for_AffidavitScSt.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://bcebconline.bihar.gov.in/cspy/EBCscholarship/Index.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

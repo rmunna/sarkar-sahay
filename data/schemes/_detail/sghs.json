@@ -1,0 +1,27 @@
+{
+  "slug": "sghs",
+  "name": "State Government Health Scheme (Golden Card)",
+  "shortTitle": "SGHS",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Medical Health And Family Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to provide quality healthcare facilities to all government employees, pensioners, and their dependents in Uttarakhand. Under this scheme, prescribed medical treatment is provided free of cost.",
+  "descriptionMd": "The scheme “State Government Health Scheme (Golden Card)” has been implemented since January 1, 2021, by the Uttarakhand State Health Authority under the Department of Medical Health and Family Welfare, Government of Uttarakhand. The scheme aims to provide quality healthcare facilities to all government employees, pensioners, and their dependents in the state.\n<br>",
+  "benefitsMd": "The State Government Health Scheme has been implemented with the aim of providing quality healthcare facilities to all government employees, pensioners, and their dependents in Uttarakhand. Under this scheme, prescribed medical treatment is provided free of cost.\n<br>",
+  "eligibilityMd": "1. All government employees and pensioners of Uttarakhand who have obtained Golden Cards and make monthly contributions are eligible under the scheme.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "Golden Cards for government employees, pensioners, their family members, and employees of autonomous bodies, corporations, authorities, universities, and aided institutions are issued at Jan Seva Kendras, the Unit Trust of India (UTI), or identified hospitals. The definition of ‘family’ and ‘dependents’ under the State Government Health Scheme shall be the same as those specified in the [Uttarakhand Retirement Benefits Act, 2018](https://www.indiacode.nic.in/bitstream/123456789/4884/1/retirement_benefit_.pdf).\n**Dependent’s Income Limit:** The monthly income limit for a dependent will be determined as per the Central Government Health Scheme (CGHS) guidelines.\n**Note:** Disability refers to a minimum of 40% disability, which must be certified by a Medical Board through an official Disability Certificate.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 135)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

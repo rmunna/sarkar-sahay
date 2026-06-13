@@ -1,0 +1,27 @@
+{
+  "slug": "scossi",
+  "name": "Scholarship For Cadets Of Sainik School Imphal",
+  "shortTitle": "SCOSSI",
+  "level": "state",
+  "state": "Mizoram",
+  "nodalDept": "Sainik Welfare & Resettlement Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The objective of the Scheme is to provide financial assistance to Mizo students permanently\nresiding in the States of studying at Sainik School Imphal, to enable them to qualify and joint National Defence Academy and further to the Armed Forces.",
+  "descriptionMd": "The Scholarship for Cadets of Sainik School Imphal Scheme is a program designed to provide financial assistance to the cadets studying in Sainik School Imphal, which is located in Manipur, India. The scholarship is provided by the Ministry of Defence, Government of India, with the aim of helping students who are facing financial constraints and are unable to bear the expenses of their education.\n<br>\n\nThe scholarship covers various expenses related to the education of the cadets, including tuition fees, boarding and lodging charges, uniforms, and other necessary expenses. The amount of the scholarship varies depending on the financial need of the cadet and is decided by the school authorities.\n<br>",
+  "benefitsMd": "",
+  "eligibilityMd": "1.  Scholarship will be admissible to Mizo students permanently residing in the state of Mizoram studying at Sainik School, Imphal.\n1. Student should not be covered under any other Scholarship scheme.\n1.  Scholarship for studying in any class will be available for only one year and renewable as per Rules/Conditions.\n1. If after the award of the scholarship the cadet is found medically unfit in any way which according to the appropriate medical authority, renders him unfit for his entry into the NDA, the scholarship awarded shall be discontinued from the date the cadet is declared unfit",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://msb.mizoram.gov.in/uploads/attachments/2022/10/a507f5ed5a716eec8d2570e22cd4ed8c/scholarship-scheme-to-be-upload.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

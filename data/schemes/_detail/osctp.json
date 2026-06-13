@@ -1,0 +1,28 @@
+{
+  "slug": "osctp",
+  "name": "Organization of Sports Competitions and Training Programs",
+  "shortTitle": "OSCTP",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department of Youth Welfare and Provincial Protection Corps",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Sportsperson",
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The scheme aims to promote sports & identify grassroots-level talent among youth through structured competitions & training. Players are provided with cash prizes and free training, & participation is encouraged at multiple levels, including Gram Panchayat, Development Block, District, and State.",
+  "descriptionMd": "The scheme &amp;quot;Organization of Sports Competitions and Training Programs&amp;quot; was launched by the Department of Youth Welfare and prantiy rakshak dal (PRD), Government of Uttarakhand. The scheme aims to promote sports and identify grassroots-level talent among youth through structured competitions and training. \n<br>",
+  "benefitsMd": "- Organizing Khel Mahakumbh Competitions – Various sports competitions are organized for the age groups Under-14, Under-17, and Under-21.\n  - Prizes are awarded for first, second, and third places as follows:\n\n**Sl. No.****Level****1****st** **Rank (Cash Prize ₹)****2****nd** **Rank (Cash Prize ₹)****3****rd** **Rank (Cash Prize ₹)**1Gram Panchayat₹300/-₹200/-₹150/-2Block Development ₹500/-₹400/-₹300/-3District Level₹800/-₹600/-₹400/-4State Level₹1,500/-₹1,000/-₹700/-\n  - During the competitions, talented players who perform best at the Block Development levels and District levels are identified by the department and provided free training prior to state-level participation.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a permanent resident of Uttarakhand.\n1. The applicant must be a youth (boy or girl).\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- The Khel Mahakumbh is usually held between October and December. Newspapers provide information about the competitions at the Gram Panchayat/Nyaya Panchayat level, and interested participants are invited to take part through forms distributed by government schools, the Youth Welfare Department, and the Sports Department.\n  - To participate, players must possess a photo identity card or birth certificate, a bank account, a permanent residence certificate, and a passport-size photograph. With these documents, players can compete in the Khel Mahakumbh at the village or Nyaya Panchayat level. \n  - Players securing first, second, and third positions at this level advance to the Block Development level. Similarly, the top three players at the Block Development level proceed to the District level, and the top three at the District level qualify for the State level competition.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 104)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

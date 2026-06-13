@@ -1,0 +1,31 @@
+{
+  "slug": "eeepl",
+  "name": "Punjabi Language Scholarship Scheme",
+  "shortTitle": "PLSS",
+  "level": "state",
+  "state": "Haryana",
+  "nodalDept": "School Education Department",
+  "schemeFor": "#N/A",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This scheme awards scholarships to students based on their merit in the Punjabi subject in the 8th and 10th class examinations conducted by the Haryana Board of School Education, provided they continue studying the Punjabi subject in the 9th and 11th classes.",
+  "descriptionMd": "The scheme “Punjabi Language Scholarship Scheme” was introduced during the year 2005-2006 by the Department of Education, Government of Haryana under the Education Encouragement for Excellence (EEE) – Scholarships for High/Senior Secondary School Students. Under this scheme, scholarships are awarded to students on the basis of merit in Punjabi subject in 8th class and 10th Class examinations conducted by Haryana Board of School Education and continuing study Punjabi subject in the 9th Class and 11th Class. These scholarships are renewed in next classes on satisfactory performance. \n**Objectives:**\n•\tTo encourage students to excel education.\n•\tTo promote the Punjabi Language in the State.",
+  "benefitsMd": "**Scholarship Amount:**\n\n1. ₹ 50/- per month for students of Class IX &amp; X.\n1. ₹ 75/- per month for students of Class XI &amp; XII.\n\n> **Mode of Disbursement:**\n\n> Scholarships are directly transferred to the student&#39;s bank account.\n\n> **Frequency of Disbursement:**\n\n> Scholarships are disbursed monthly.\n\n> **Validity:**\n\n> Scholarships are renewed in the next classes based on satisfactory performance.",
+  "eligibilityMd": "1. The applicant should have secured merit in Punjabi subject in 8th Class or 10th Class examination conducted by Haryana Board of School Education, Bhiwani.\n1. The applicant should continue studying Punjabi subject in 9th Class and 11th Class.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "- The scheme beneficiary does not require a separate application process.\n- Eligible students are selected automatically based on their academic performance.\n- The selection is done through school records, and the scholarship is awarded to students on the basis of merit in Punjabi Subject.\n- The school authorities verify eligibility and forward the list of selected students to the Department of Education, Haryana, which then processes and directly transfers the scholarship amount to the student&#39;s bank account.\n\n> **Note:** - The scheme beneficiary can contact your school administration or the Department of Education, Haryana for assistance.",
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3cf2226ddd41b1a2d0ae51dab54d32c36/uploads/2021/06/2021060221.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://schooleducationharyana.gov.in/document/scholarship-scheme-rajiv-gandhi-scholarship-for-high-sr-sec-schools-eee-6th-to-12th/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

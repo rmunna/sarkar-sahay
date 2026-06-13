@@ -1,0 +1,35 @@
+{
+  "slug": "gbshr",
+  "name": "Green Business Scheme - Haryana",
+  "shortTitle": "GBSHR",
+  "level": "state",
+  "state": "Haryana",
+  "nodalDept": "Welfare of Scheduled Caste & Backward Classes Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, loans of up to ₹2.00 lakhs are provided to Scheduled Caste residents of Haryana for undertaking income-generating activities that help mitigate the greenhouse effect, such as e-rickshaws, compressed air vehicles, solar energy gadgets, polyhouses, and similar eco-friendly ventures.",
+  "descriptionMd": "The &amp;quot;Green Business Scheme&amp;quot; is implemented by the Haryana Scheduled Castes Finance and Development Corporation (HSCFDC) in collaboration with the National Safai Karamcharis Finance and Development Corporation (NSFDC) within the state of Haryana. Under this scheme, loans of up to ₹2.00 lakhs are provided to Scheduled Caste residents of Haryana for undertaking income-generating activities such as e-rickshaws, compressed air vehicles, solar energy gadgets, polyhouses, and similar ventures. Activities that contribute to mitigating the greenhouse effect are eligible for assistance under this scheme.\n<br>",
+  "benefitsMd": "1. The Corporation, in collaboration with NSFDC, provides a loan for various economic development schemes having a unit cost up to ₹2,00,000/-.\n1. The Corporation provides margin money @10% of the project cost.\n1. The Corporation (HSFDC) provides a subsidy of 50% of the total project cost, with a maximum amount of subsidy being ₹10,000/- of the total project cost.\n\n<br>",
+  "eligibilityMd": "1. The applicant should be a permanent resident of Haryana.\n1. The applicant should be in the age group of 18 to 45 years.\n1. The applicant should belong to the Scheduled Caste category.\n1. The applicant&#39;s annual family income should be up to ₹3,00,000/-.\n\n**Note:** The income ceiling is at least 50% of the beneficiaries having an annual family income up to ₹1,50,000/-, and the balance 50% of the beneficiaries having an annual family income up to ₹3,00,000/-.\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number &amp;amp; password. Click on ‘Submit’.\n**Step 3:** Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.\n&gt; **Login to Apply for the Scheme:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.\n**Step 3:** In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen.\n**Step 4:** Now, select the scheme and click on “Apply for Service/Scheme”.\n**Step 5:** Fill in all the details in the online application form and click on &amp;quot;Submit&amp;quot;.\n&gt; **Track Your Service Online:**\n\n\n  - **Track Application/Appeal:** [Click here](https://status.saralharyana.nic.in/).  - **Track Ticket:** [Click here](https://eticketing.saralharyana.nic.in/CitizenViewComplaints.aspx).\n&gt; **Track Your Service Through SMS:**\n\n\n  - **Registered Mobile Number:** Type SARAL and send to 9954699899 to track your application.  - **Other Mobile Number:** Type SARAL&amp;lt;space&amp;gt;&amp;lt;Application ID/Ticket No.&amp;gt; and send to 9954699899 to track your application.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=uA8vy9mbJPZmBPeYKvrGfg=="
+    },
+    {
+      "title": "Helpline For Application",
+      "url": "https://cdnbbsr.s3waas.gov.in/s34c144c47ecba6f8318128703ca9e2601/uploads/2020/11/2020110373.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://hscfdc.org.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

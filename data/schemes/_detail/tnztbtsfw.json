@@ -1,0 +1,31 @@
+{
+  "slug": "tnztbtsfw",
+  "name": "Zero Ticket Bus Travel Scheme for Women",
+  "shortTitle": "ZTBTSFW",
+  "level": "state",
+  "state": "Tamil Nadu",
+  "nodalDept": "Department of Social Welfare and Women Empowerment",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to provide to eligible women/ transgender beneficiaries of Tamil Nadu under the Zero Ticket Bus Travel Scheme for Women, Free of Cost Travel in Government of Tamil Nadu Buses. No Need to Pay any Fare up to 30 Kilometers.",
+  "descriptionMd": "The Zero Ticket Bus Travel Scheme. The government of Tamil Nadu under the Department of Social Welfare and Women Empowerment announced a scheme whereby women travelers can travel without paying any fare in government-run normal-fare buses (for short distances of up to 30 kilometers) in cities and towns in the state. Women are issued zero tickets (a fareless ticket) when they travel in these buses.\n<br>\n\n Among the women passengers who use the Zero-Ticket Travel Scheme (ZTBT), around 52% of them are below the age of 40. The fact that more than 48% of women users are more than 40 years of age indicates the extent to which this scheme benefits older women. There are no major differences in these proportions across districts.\nZTBT Scheme users are those with educational qualifications of less than fifth grade (5 years of school education). They comprise almost 44% of the sample users",
+  "benefitsMd": "- Free bus travel in Tamil Nadu government buses. \n- No Need to Pay any Fare up to 30 Kilometers.",
+  "eligibilityMd": "- Only women will be eligible.\n- Women should be permanent Residents of Tamil Nadu.\n- There is a travel limit of 30-kilometers.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "> **No formal application is needed. Women simply board the bus and request a zero-value ticket from the conductor.**",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://spc.tn.gov.in/IPT_studies/ZTBTphase2.pdf"
+    },
+    {
+      "title": "Website",
+      "url": "https://www.tnsocialwelfare.tn.gov.in/en/specilisationswomen-welfare/free-travel-for-women-in-government-buses"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

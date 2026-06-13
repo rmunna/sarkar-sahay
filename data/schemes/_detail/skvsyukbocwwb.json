@@ -1,0 +1,31 @@
+{
+  "slug": "skvsyukbocwwb",
+  "name": "Samuhik Kanya Vivah Sahayata Yojana (UKBOCWWB)",
+  "shortTitle": "SKVSYUKBOCWWB",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department Of Labour",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to support the marriage of daughters of registered construction workers by providing financial assistance of ₹61,000/- for their daughter’s marriage in a group marriage event.",
+  "descriptionMd": "The scheme &amp;quot;Samuhik Kanya Vivah Sahayata Yojana&amp;quot; was launched by the Labour Department, Government of Uttarakhand. The scheme aims to provide financial assistance and support for the marriage of daughters of registered construction workers through organized group marriage events. The scheme is implemented by the Building and Other Construction Workers Welfare Board, Uttarakhand.",
+  "benefitsMd": "- ₹61,000/- will be provided as financial assistance to registered construction workers for the marriage of their daughters.\n  - ₹10,000/- per couple will be paid to the organizer to cover expenses incurred in organizing the mass marriage.\n  - ₹5,000/- will be provided to each bride and groom for purchasing their wedding attire.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a registered construction worker.\n   1. In the case of a mass marriage, registration must be completed at least 15 days prior to the scheduled date of the marriage.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online - via CSC",
+  "applicationMd": "- Applications for mass marriage can be submitted at least 15 days prior to the scheduled date.\n  - It is mandatory to attach the necessary documents with the application form. The daughter and the proposed groom should be at least 18 years and 21 years of age, respectively. Aadhar authentication of the daughter of the construction worker is required under the mass marriage scheme. A self-attested copy of the birth certificate, school leaving certificate, or family register verifying age must be submitted, and the marriage card should be certified and verified by the local village head, tehsildar, member, or councilor.\n  - Additionally, a self-written certificate stating that the applicant has not received assistance from any other department in this regard must be provided.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 33)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://ukbocw.uk.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

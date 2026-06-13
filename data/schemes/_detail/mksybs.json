@@ -1,0 +1,27 @@
+{
+  "slug": "mksybs",
+  "name": "Mukhyamantri Kishori Swasthya Yojna",
+  "shortTitle": "MKSYBS",
+  "level": "state",
+  "state": "Bihar",
+  "nodalDept": "Education Department",
+  "schemeFor": null,
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This initiative by the State Government aimed at reducing school dropout rates among adolescent girls by providing free sanitary napkins, promoting hygiene, and supporting their overall health.",
+  "descriptionMd": "The &amp;quot;Mukhyamantri Kishori Swasthya Yojna&amp;quot;, launched by the Education Department, Bihar, addresses the issue of increased school dropout rates among girls during puberty due to a lack of access to sanitary hygiene products. Under this scheme, the State Government distributes free sanitary napkins to adolescent girls in secondary schools, encouraging them to continue their education while promoting awareness of menstrual health and hygiene.",
+  "benefitsMd": "- Free sanitary napkins for adolescent girls in secondary schools.\n\n&lt;br&gt;",
+  "eligibilityMd": "- The applicant must be a resident of Bihar.\n- The applicant must be a girl.\n- The applicant must be enrolled in a recognized secondary school.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- Contact the concerned school Administration to avail the scheme benefits.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://state.bihar.gov.in/educationbihar/Content.html?links&page=FACTS_SCHEMES"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

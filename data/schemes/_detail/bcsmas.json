@@ -1,0 +1,27 @@
+{
+  "slug": "bcsmas",
+  "name": "Backward Class Students Meritorious Award Scheme",
+  "shortTitle": "BCSMAS",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Backward Classes and Minorities Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Backward Classes Student Merit Award Scheme\" aims to recognize and reward academic excellence among backward-class students. Monetary awards are provided to one boy and one girl student from backward classes who secure the highest marks at the district level in class 10th and 12th board exams.",
+  "descriptionMd": "Launched in 2009, the &quot;Backward Classes Student Merit Award Scheme&quot; by the Backward Classes and Minorities Welfare Department, Government of Madhya Pradesh aims to recognize and reward academic excellence among backward class students. Through this scheme, monetary awards are provided to one boy and one girl student from backward classes who secure the highest marks at the district level in class 10th and 12th board examinations. The scheme is implemented by the Assistant Director, Backward Classes and Minorities Welfare.",
+  "benefitsMd": "- Class 10th Board Examination: ₹5,000/- per student\n- Class 12th Board Examination: ₹10,000/- per student\n- Frequency of Disbursement: Annual\n- Time of Disbursement: Distribution on August 15 or January 26",
+  "eligibilityMd": "1. The applicant should be a student of class 10th or 12th.\n1. The applicant should be a resident of Madhya Pradesh.\n1. The applicant should be from the backward class category.\n1. The applicant should be enrolled in a recognized school in Madhya Pradesh.\n1. The applicant should be a top scorer at the district level in the class 10th board exam or among the highest scorers (one male and one female) in the class 12th board exam.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit (during office hours) the **Assistant Director, Backward Classes and Minorities Welfare** and request the hard copy of the prescribed format of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n**NOTE:** Ensure that the application is submitted within the prescribed period, if any.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=590"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

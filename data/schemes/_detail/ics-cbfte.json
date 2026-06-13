@@ -1,0 +1,36 @@
+{
+  "slug": "ics-cbfte",
+  "name": "International Cooperation Scheme- Capacity Building of First Time MSE Exporters",
+  "shortTitle": "ICS-CBFTE",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Micro, Small and Medium Enterprises",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Industries",
+    "Business Entity"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The scheme “International Cooperation Scheme” was launched by the MSME, Govt. of India with the aim to capacity build MSMEs for entering export market by providing reimbursement of various costs incurred by first time MSE exporters on export shipments.",
+  "descriptionMd": "The sub-scheme &amp;quot;Capacity Building of First Time MSE Exporters&amp;quot; under the “International Cooperation Scheme” was launched by the Ministry of Micro, Small and Medium Enterprises, Government of India to capacity build MSMEs for entering the export market by facilitating their participation in international exhibitions/fairs/conferences/seminars/buyer-seller meets abroad as well as providing them with actionable market-intelligence and reimbursement of various costs involved in export of goods and services. The Scheme provides opportunities for MSMEs to continuously update themselves to meet the challenges emerging out of changes in technology, changes in demand, the emergence of new markets, etc. Thus, in totality, all components of the scheme aimed at various aspects required to advance MSMEs&amp;#39; position as emerging export players.\nThe key interventions proposed under the scheme are highlighted below:-\nReimbursement of costs incurred by first-time MSE exporters on export shipments –\n\n   1. Registration-cum-Membership Certificate (RCMC) paid by the first-time exporters for registration with EPCs.\n   1. Export insurance premiums paid by MSEs.\n   1. Fee paid on Testing and Quality Certification acquired by MSEs to export products. This will encourage MSEs to produce and offer products and services of international standards for the export markets.\n\n<br>",
+  "benefitsMd": "> **Scale of Assistance and Eligible Items of Expenditure:**\n\nFinancial assistance towards costs incurred by first-time MSE Exporters on export shipments:-\nRegistration-cum-Membership Certificate (RCMC) charges/fee paid by the first-time exporter to relate EPCs 75% of the cost paid subject to a maximum of ₹20,000/- or actual, whichever is lower subject to quarterly reporting by EPCs as per prescribed format. Export Insurance Premium paid to Export Credit Guarantee Corporation Ltd. (ECGC) under the ECGC&amp;amp;amp;#39;s Small Exporter&amp;amp;amp;#39;s PolicyMaximum financial assistance in a financial year of ₹10,000/- or actual, whichever is lower subject to quarterly reporting by ECGC Ltd. as per prescribed formatFee paid on Testing &amp;amp;amp;amp; Quality Certification acquired by MSEs to Export Products                                                               (Note: Ministry of MSME shall share the list of beneficiaries who have availed the financial assistance under this sub-component, with MAI Division, Department of Commerce, on quarterly basis)75% of the testing and quality certification with a ceiling of ₹1.00 Lakh or actual, whichever is lower, subject to the following conditions:                                          1. Financial assistance is allowed for a maximum of 3 certificates per financial year with a ceiling of ₹1.00 Lakh per MSE unit.                                                                                                         2. Certificate, for which financial assistance is requested, should be attained within the same financial year.",
+  "eligibilityMd": "1. The Micro and Small Enterprises with valid Udyam Registration are eligible to apply under the scheme.\n   1. To claim the benefits under the scheme, the applicant&amp;#39;s Importer Exporter Code (IEC) must not be older than 3 years on the date of export shipment.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "&amp;gt; **Application Process:**\n\n**Step 1:** The applicant organization will submit an online application for financial assistance, along with the relevant documents and the budget estimate of the expenditure on the proposed event in a proforma providing full details of expenditure.\n**Step 2:** To apply under the scheme, the applicant organization needs to visit the [official website](https://ic.msme.gov.in/IC_APP/IC_Welcome.aspx).\n**Step 3:** On the home page, select “Market Development Assistance” to [log in](https://ic.msme.gov.in/IC_APP/IC_Login.aspx) who have already registered. If the applicant Organization is a new user, click on “[New User Register Here](https://ic.msme.gov.in/IC_APP/Association_Type.aspx)” to register under the scheme by selecting the type of Organization.\n**Step 4:** After successful registration, the applicant organization can log in with valid credentials. After login, the user will be redirected to their Dashboard where multiple actions have to be done.\n&gt; **Note:**\n\n\n  - The admissible financial assistance would be worked out in accordance with the criteria/scale.\n\n&gt; **Process of seeking financial assistance under the Scheme:**\n\n\n   1. **RCMC certificate:** Ministry of MSME to sign MoU with EPCs. These EPCs will then be eligible to apply for financial assistance under the IC scheme. They will be required to apply for financial assistance claims on behalf of MSEs along with all prescribed documents on the IC Scheme portal.   1. **Export Insurance Premium:** Export Credit Guarantee Corporation (ECGC) Ltd. provides insurance to Exporters. The Ministry of MSME will sign a MoU with ECGC Ltd. and claims that for the first-time MSE exporters will be released from the IC Scheme to ECGC upon receipt of the application on the updated portal of the IC Scheme.   1. **Testing and Quality Certification:** The Ministry of MSME to sign an MoU with National Small Industries Corporation Ltd. Financial assistance on certifications defined under the scheme will be released to NSIC Ltd. for further dissemination of funds to eligible MSEs.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ic.msme.gov.in/IC_APP/WriteReadData/GuideLine/FinalCBFTEComponentofICScheme.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://ic.msme.gov.in/IC_APP/IC_Welcome.aspx"
+    },
+    {
+      "title": "MSME Website",
+      "url": "https://msme.gov.in/international-cooperation"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "ai-tgses",
+  "name": "INAE Travel Grant Scheme for Engineering Students from IITs/NITs/Govt. Approved Engineering Colleges/Institutions other than AICTE",
+  "shortTitle": "ITGSESECIA",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Higher Education",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "A Travel Grant Scheme by the All India Council for Technical Education (AICTE) and by the Indian National Academy of Engineering (INAE), for the students from AICTE approved Engineering College/institutions. The scheme aims at enhancing the quality of engineering education in the country.",
+  "descriptionMd": "An &quot;INAE Travel Grant Scheme for Engineering Students from IITs/NITs/Govt. Approved Engineering Colleges/Institutions other than AICTE&quot; scheme by the Ministry of Education, All India Council for Technical Education (AICTE) and the Indian National Academy of Engineering (INAE). The scheme aims at enhancing the quality of engineering education in the country and inculcating a culture of research amongst the students. The scheme aims to provide partial travel assistance and registration fees to Bachelor&#39;s and Master&#39;s Level engineering students for presenting a research paper at an international scientific event (conference/seminar/symposium/workshop/exhibition etc) to encourage engineering students to engage in research.\n<br>",
+  "benefitsMd": "> **Financial Support**\n\n**Financial Support for Physical Participation**\n\n- Reimbursement of 100% of the registration fee.\n- Reimbursement of 100% of the visa fee.\n- Reimbursement of 50% of the actual airfare for discounted/concessional air tickets, provided the expenditure is not claimed from any other source.\n- Reimbursement of travel expenses from the institution to the nearest airport and back, limited to AC II-Class train fare.\n- Maximum financial assistance per student is limited to ₹1,50,000/-.\n\n**Financial Support for Online Participation**\n\n- Reimbursement of 100% of the registration fee incurred for presenting the research paper online through video conferencing.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a pre-final or final year student of B.E./B.Tech or Integrated M.Tech; or\n1. The applicant must be a first or second-year student of M.E./M.Tech; and\n1. The applicant must be pursuing studies in an IIT, NIT, Government-approved Engineering College/Institution (other than AICTE-approved institutions), or another recognized university.\n1. The applicant must have secured a minimum CGPA of 8.0 or equivalent percentage in the qualifying examination.\n1. Possess a letter of acceptance for presenting a research paper at an international conference, seminar, symposium, workshop, exhibition, or similar scientific event held abroad.\n1. The applicant has not previously received financial assistance under this scheme during the same course of study.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Procedure to Apply**\n\n\n- Complete the prescribed application form and obtain approval from the Head of the Institution.\n- Submit a scanned copy of the duly signed application form along with all supporting documents via email to **inaehq@inae.in**.- The application must be submitted at least 10 weeks prior to the date of presentation of the research paper.\n- Ensure that all required supporting documents are enclosed with the application.\n\n> **Submission of Claim and Release of Grant**\n\n\n- The selected applicant must submit the claim form in the prescribed format along with all supporting documents within one month after completion of the international scientific event.\n- After verification of documents, the approved grant amount will be released in a single instalment.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.inae.in/wp-content/uploads/2022/04/Guidelines-TG.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://www.inae.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "dcs-tl",
+  "name": "Term Loan Scheme (GSKVN)",
+  "shortTitle": "TLSGSKVN",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to uplift scavengers & their dependents by offering term loans of ₹1,00,000/- to ₹15,00,000/- to support them in starting self‐employment ventures in various trades & professions, enabling them to pursue income‐generating activities and lead dignified lives.",
+  "descriptionMd": "The &amp;quot;Term Loan Scheme&amp;quot; is implemented by the Gujarat Safai Kamdar Vikas Nigam (GSKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to uplift safai kamdars (scavengers) and their dependents by providing financial assistance in the form of term loans to help them take up various trades or professions for self-employment. The scheme also aims to integrate them into the mainstream society by enabling them to move away from the traditional, inhuman, and hazardous occupation of manual scavenging and lead a life of dignity.\nUnder this scheme, beneficiaries are eligible to receive term loans ranging from ₹1,00,000 to ₹15,00,000 to start income-generating self-employment activities or projects. The scheme is implemented with the support of the National Safai Karamcharis Finance &amp;amp; Development Corporation (NSKFDC), New Delhi, in collaboration with the State Government, through the Gujarat Safai Kamdar Vikas Nigam.\n<br>",
+  "benefitsMd": "***Loan Amount:***__ \n\n- loans from ₹1,00,000/- to ₹15,00,000/- are provided at an interest rate of 6% for various businesses.\n\n<br>",
+  "eligibilityMd": "1. The applicant should be a resident of Gujarat.\n1. The applicant should be a scavenger/sanitation worker or a dependent of one.\n1. The applicant should be willing to use the loan for starting income-generating self-employment activities or projects.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step 1:** Visit the Social Justice &amp; Empowerment Department website: [https://esamajkalyan.gujarat.gov.in](https://esamajkalyan.gujarat.gov.in/index.aspx)\n**Step 2**: Click on “Please Register Here” on the homepage.\n**Step 3:** Fill in your personal details as per Aadhaar.\n**Step 4:** Create a password and submit the form.\n**Step 5:** Verify details and click “Confirm”.\n**Step 6:** You will receive your User ID &amp; Password via SMS/email.\n> **Login Process:**\n\n**Step 1:** Go to the portal homepage.\n**Step 2:** Enter your User ID, Password, and Captcha.\n**Step 3:** Click “Login” to access your dashboard.\n> **Application Process:**\n\nAfter login, complete your User Profile (first-time only).\n**Step 1:** Homepage will show eligible schemes – click on the one you want.\n**Step 2:** Fill out the scheme application form.\n**Step 3:** Upload the required documents.\n**Step 4:** Review all entries, agree to terms, and click “Save Application” &amp; note down your Application Number for tracking.\n> **Track Application:**\n\n**Step 1:** Click on “[View Application Status](https://esamajkalyan.gujarat.gov.in/ViewApplicationStatus.aspx)”\n**Step 2:** Enter your Application Number and Date of Birth\n**Step 3:** Click “View Status” to check progress\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.gujarat.gov.in/gskvn/assets/downloads/01_dhiran_yojna.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://sje.gujarat.gov.in/gskvn/Home?lang=English"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://sje.gujarat.gov.in/gskvn/downloads/profile_for_gskvn.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "nfbsp",
+  "name": "National Family Benefit Scheme (Punjab)",
+  "shortTitle": "NFBSP",
+  "level": "state",
+  "state": "Punjab",
+  "nodalDept": "Department of Social Security and Development of Women and Children",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"National Family Benefit Scheme (Punjab)\" by the Department of Social Security and Development of Women and Children, Government of Punjab, provides a lump sum assistance of ₹20,000/- is provided to the bereaved household in the event of the death of their breadwinner.",
+  "descriptionMd": "The scheme &quot;National Family Benefit Scheme (Punjab)&quot; is a social welfare initiative by the Department of Social Security and Development of Women and Children, Government of Punjab. Under this scheme, a lump sum assistance of ₹20,000/- is provided to the bereaved household in the event of the death of their breadwinner.",
+  "benefitsMd": "Financial assistance of ₹20,000/-.",
+  "eligibilityMd": "1. The applicant should be a resident of Punjab.\n   1. The applicant should be a family member or a dependent of the deceased breadwinner (an earning member of the family on whom the family primarily depended for income).\n   1. The family should be living Below the Poverty Line (BPL).\n   1. The deceased should have been between 18 and 60 years old.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:****** The interested applicant should visit the District Social Security Officer and request a hard copy of the prescribed format of the application form from the concerned staff.\n**Step 2:****** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:****** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the [District Social Security Officer](https://sswcd.punjab.gov.in/en/contact-us/district-social-security-officer).\n**Step 4:****** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sswcd.punjab.gov.in/en/national-family-benefit-scheme-nfbs-0"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

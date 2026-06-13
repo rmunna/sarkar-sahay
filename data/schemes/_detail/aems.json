@@ -1,0 +1,35 @@
+{
+  "slug": "aems",
+  "name": "Agriculture Engineering (Mechanical) Scheme",
+  "shortTitle": "AE(M)S",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The objective of the scheme is to provide agricultural machinery such as power tillers/ bulldozers/ tractors etc. on hiring at subsidised rate.",
+  "descriptionMd": "The “Agriculture Engineering (Mechanical) Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to provide agricultural machinery such as power tillers/bulldozers/tractors etc. on hiring at subsidised rate.",
+  "benefitsMd": "> **Pattern of Assistance:**\n\n\n- Providing a 60% subsidy for the purchase of improved farm machinery and equipment (Proposed for Power Tiller and Diesel Water Pumpset).\n\n> **Type of Assistance and Entitlement (If any):**\n\n\n- Subsidy for hiring of farm machinery and equipment.",
+  "eligibilityMd": "1. The applicant should be a resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "> **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the relevant documents at the nearest office of the Agriculture Development Officer of a CD Block/Agriculture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe bonafide farmers shall be selected on a first come first serve basis.\n&gt; **Whom to Contact:**\n\n\n   1. District Agriculture Officers of the concerned districts.\n   1. Sub-divisional Officers of the concerned sub-divisions.\n   1. Agriculture Development Officers of the concerned Community and Rural Development Blocks.\n   1. Assistant Agriculture Engineer (Mechanical) of the concerned districts.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=58"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://meghalaya.gov.in/schemes/content/35875"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONAGRICULTURESCHEMES.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

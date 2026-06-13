@@ -1,0 +1,35 @@
+{
+  "slug": "satgmsa",
+  "name": "State Agriculture Thesis Grant for M.Sc. Agriculture",
+  "shortTitle": "SATGMSA",
+  "level": "state",
+  "state": "Nagaland",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme “State Agriculture Thesis Grant for M.Sc. Agriculture” was launched by the Department of Agriculture, Government of Nagaland to provide a Thesis Grant to all the inhabitants of Nagaland who passed the M.Sc. Agriculture programme.",
+  "descriptionMd": "The scheme “State Agriculture Thesis Grant for M.Sc. Agriculture” was launched by the Department of Agriculture, Government of Nagaland to provide a Thesis Grant to all the inhabitants of Nagaland who passed the M.Sc. Agriculture programme under the State Plan of Education &amp;amp; Training.",
+  "benefitsMd": "1. Under the scheme, the Thesis Grant will be given to students according to the course/programme in which they are enrolled.",
+  "eligibilityMd": "A student should fulfill the following criteria to be eligible for this Scholarship:\n\n   1. The State Agriculture Thesis Grant will be applicable for all the inhabitants of Nagaland who passed the M.Sc. Agriculture.\n   1. Applicants must be from an Institution which has a valid AISHE/UDISE code.\n   1. Applicants must not be a beneficiary of any other scholarship scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "All eligible students shall apply through the Common Scholarship Portal: [https://scholarship.nagaland.gov.in](https://scholarship.nagaland.gov.in/)\n**Step 01: Registration**\n\n  - To register, visit the official Common Scholarship Portal of Nagaland: [https://scholarship.nagaland.gov.in ](https://scholarship.nagaland.gov.in/)  - **Create an Account:** If the applicant is a new user, click on the &amp;quot;Register&amp;quot; option. Provide your MOBILE Number linked with AADHAAR to get an OTP and verify the mobile. Once Mobile is verified, provide essential details such as your name, email address and create a unique password. Click on the &amp;quot;Register&amp;quot; button to proceed.\n**Step 02: Login**\n\n  - **Login to Your Account:** Once your mobile number is verified, log in to your scholarship account using the credentials the applicant created during registration.\n**Step 03: Fill in the User Profile**\n\n  - **Personal Details:** Update your personal information, including name, date of birth, gender, category, Bank Account Details, etc.\n**Step 04: Apply for Scholarship**\n\n  - Select your Scholarship Scheme, Institution, Institution State, Institution, District and proceed. Academic Information: Provide details about your educational background, such as school/college name, course, year of study, etc.\n\n**Step 05: Upload Documents**\n\n  - **Upload Required Documents:** Depending on the scholarship applicants are applying for, applicants will need to upload supporting documents. Commonly required documents include:\n**Step 06: Verify and Submit**\n\n  - **Review Your Application:** Carefully review all the information applicants have entered and the documents applicants have uploaded. Make sure everything is accurate and complete.\n\n  - **Submit Application:** Once applicants are satisfied with your application, click on the &amp;quot;Submit&amp;quot; button.\n**Step 07: Track Your Application**\n\n  - **Application Tracking:** After submitting your application, applicants can track its status on the portal: [https://scholarship.nagaland.gov.in/](https://scholarship.nagaland.gov.in/)\n\n  - Log in to your account and check for updates on your application&amp;#39;s status regularly.\n\n**Note 01:** In case errors are found after submission, please delete the application and Re-Submit.\n**Note 02:** If applicants have received a Scholarship in the previous year, kindly select ‘YES’ and provide the previous year&amp;#39;s Application ID while filing profile.\n**Note 03:** In case of any issues kindly email the helpdesk with details of Registered Mobile Number, previous years Application ID (if applicable), Applicant query, and or any Screenshot/Error Message. Kindly allow us 24 hrs (working days) to check and respond to applicant emails.\n**Note 04:** The Bank Account must be that of the applicant. The application form will be rejected if the Bank Account is not of the applicant.\n**Note 05:** The Department will not be responsible for non-receipt of scholarship amount due to wrong/inactive bank account details provided by the applicant.\n**Note 06:** Applicant is warned that if he/she gives false statements/declarations/documents etc. or otherwise obtained a scholarship through fraudulent means, he/she will be blacklisted and debarred from getting a scholarship under this scheme or any other scholarship schemes for the entire period of his/her studies. The scholarship amount if already paid will also be recovered.\n**Note 07:** Incomplete/wrong entries in the e-form or incomplete enclosure of necessary documents will be subjected to rejection. Correction/rectification after online submission will not be entertained.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://agriculture.nagaland.gov.in/education-and-training/#:~:text=The%20State%20Department%20of%20Agriculture,%2C%20reimbursements%2C%20thesis%20grant%20etc."
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://scholarship.nagaland.gov.in/storage/Guidelines//6_Guidelines"
+    },
+    {
+      "title": "Common Scholarship Portal",
+      "url": "https://scholarship.nagaland.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

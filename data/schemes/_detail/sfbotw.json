@@ -1,0 +1,31 @@
+{
+  "slug": "sfbotw",
+  "name": "Subsidy for Battery Operated 2-Wheelers",
+  "shortTitle": "SFBOTW",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Climate Change Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This scheme is introduced by the Climate Change Department, Gujarat, aims to promote renewable energy and clean transportation by providing a subsidy to students for the purchase of battery-operated two-wheelers from authorized manufacturers.",
+  "descriptionMd": "The scheme &amp;quot;Subsidy for Battery Operated 2-Wheelers&amp;quot; by the Climate Change Department, Gujarat, aims to encourage the use of clean energy vehicles among the youth by offering financial support to students from Class 9th to 12th, as well as college students, for purchasing battery-operated two-wheelers of their choice from GEDA-authorized manufacturers through their dealers. The scheme is designed to reduce pollution, promote renewable energy adoption, and create awareness about sustainable transport among the younger generation.\n<br>",
+  "benefitsMd": "- **Subsidy Assistance:** Each eligible student receives a subsidy of ₹12,000/- for the purchase of a battery-operated two-wheeler.\n<br>",
+  "eligibilityMd": "1. The applicant must be a student.\n   1. The applicant must be studying in Class 9th to 12th in the state or be a college student.\n   1. The applicant must purchase a battery-operated two-wheeler only from GEDA-authorized manufacturers through registered dealers.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should download the prescribed format of the [application form](https://geda.gujarat.gov.in/Gallery/Media_Gallery/BO2W_application_Form_24_25.pdf).\n**Step 2:** In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the supporting documents to the below mentioned address.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted.\n&gt; **Gujarat Energy Development Agency**\n\n&gt; **4th floor, Block No. 11 &amp;amp; 12**\n\n&gt; **Udyog Bhavan**\n\n&gt; **Sector -11**\n\n&gt; **Gandhinagar-382 017, Gujarat, India**\n\n&gt; **Phone : +91-079-23257251, 23257253**\n\n&gt; **Fax : +91-079-23257255, 23247097**\n\n&gt; **Email : info-geda-gnr@gujarat.gov.in**\n\n&gt; **For Common Inquiries : director@geda.org.in**\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 622)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    },
+    {
+      "title": "Model Wise Price List",
+      "url": "https://geda.gujarat.gov.in/Gallery/Media_Gallery/22W_Price_List.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

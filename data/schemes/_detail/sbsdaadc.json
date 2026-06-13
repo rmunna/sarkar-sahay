@@ -1,0 +1,35 @@
+{
+  "slug": "sbsdaadc",
+  "name": "Loan for Small Businesses (DAADC)",
+  "shortTitle": "LSBDAADC",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to promote self-employment among Scheduled Caste individuals belonging to Antyodaya Anna Yojana families by providing financial assistance for starting small businesses. Under this scheme, eligible beneficiaries are provided a loan of upto ₹1,25,000/- at a concessional interest rate.",
+  "descriptionMd": "The &amp;quot;Loan for Small Businesses&amp;quot; scheme is implemented by the Dr. Ambedkar Antyodaya Development Corporation (DAADC) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to promote self-employment among Scheduled Caste (SC) individuals belonging to Antyodaya Anna Yojana (AAY) families by providing financial assistance for starting small businesses or self-employment ventures. Under this scheme, eligible beneficiaries are provided a loan of up to ₹1,25,000 at a concessional interest rate.\n<br>",
+  "benefitsMd": "**Loan Amount:**\n\n- Up to ₹1,25,000/-\n\n***Interest Rate***_:_ \n\n- 4% per annum\n\n***Loan Tenure:***__ \n\n- 60 months (5 years)\n\n***Guarantors Required:***__ \n\n- Two guarantors\n\n***State Government Contribution:*** \n\n- 100% (no beneficiary share required)\n\n***Approximate Installment Amount:***\n\n- ₹2,302/- per month (maximum)\n\n<br>",
+  "eligibilityMd": "1. The applicant should be a resident of Gujarat.\n1. The applicant should belong to the Scheduled Caste (SC) category.\n1. The applicant should belong to an Antyodaya Anna Yojana (AAY) family.\n1. The applicant’s annual family income should not exceed ₹3,00,000/-.\n1. The applicant should intend to start or expand a small business or occupation.\n1. The applicant should be able to provide two guarantors.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the [official website](https://daadconline.gujarat.gov.in/) of the Dr. Ambedkar Antyodaya Vikas Nigam (SC).\n**Step 2:** On the top menu bar, click on &quot;Apply Now&quot;.\n**Step 3:** Click on the loan scheme name. \n**Step 4:** Select the loan category and fill in the loan amount.\n**Step 5:** Fill out the Application Form, enter the following details:\n\n- Personal Information: Name, gender, date of birth, caste, etc.\n- Address Information: Permanent and correspondence address\n- Income Details: Monthly family income and source\n- Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)\n- Bank Account Details: For loan disbursement\n\n**Step 6:** Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.\n**Step 7:** Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.\n**Step 8:** Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.gujarat.gov.in/gapb/assets/downloads/Different_small_29092023.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://sje.gujarat.gov.in/gapb/home?lang=English"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

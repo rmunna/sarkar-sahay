@@ -1,0 +1,35 @@
+{
+  "slug": "rbwicoaadjkbocwwb",
+  "name": "Registered BOC Workers in case of an Accidental Death (JKBOCWWB)",
+  "shortTitle": "RBWICOAADJKBOCWWB",
+  "level": "state",
+  "state": "Jammu and Kashmir",
+  "nodalDept": "Department of Labour and Employment",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Registered BOC Workers in Case of Accidental Death\" scheme by the JKBOCW Welfare Board, Labour Department, Jammu & Kashmir, provides financial assistance to the nominee or dependents of registered BOC workers in the event of accidental death.",
+  "descriptionMd": "Launched on 1st January 2018, the scheme &quot;Registered BOC Workers in Case of Accidental Death&quot; is a Welfare Scheme by the Building and Other Construction Workers Welfare Board, Labour Department, Jammu &amp; Kashmir. Through this scheme, financial assistance of ₹4,00,000/- is provided to the nominee or dependents of registered BOC workers in the event of an accidental death. The applications are accepted online as well as offline.",
+  "benefitsMd": "₹4,00,000/- is provided to the nominee or dependents of the deceased worker.",
+  "eligibilityMd": "> **For Registration as a Building/ Construction Worker:**\n\n\n1. The applicant should be a resident of Jammu &amp; Kashmir.\n1. The applicant should be a Building/ Construction Worker.\n1. The applicant should be between 18 and 60 years.\n1. The applicant should have engaged in any building or other construction work for at least 90 days during the preceding 12 months.\n1. The applicant should be registration is renewed annually.\n\n> **For the Application of the Welfare Scheme:**\n\n\n1. The applicant should be a nominee/dependent of a registered member/worker who has passed away due to accidental death.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "***Application -*** \n**Step 1:** Go to the [official website ](https://www.jkbocw.gov.in/Index.aspx)of the Jammu &amp; Kashmir Building and Other Construction Workers Welfare Board.\n**Step 2:** Click on [&quot;Login,&quot;](https://portal.jkbocw.gov.in/LoginGuest.aspx) enter your details, and sign in to your account.\n**Step 3:** After logging in, click on &quot;Scheme Registration&quot; and select &quot;Apply for Scheme.&quot;\n**Step 4:** Choose the scheme you wish to apply for in order to avail the benefits.\n**Step 5:** Enter all required information and upload the necessary documents as prompted.\n**Step 6:** Finally, click on &quot;Submit Application&quot; to complete the process.\n<br>\n\n***Status Tracking -*** \nApplicant can track their application status online through the [official website](https://www.jkbocw.gov.in/Index.aspx) of the  Jammu &amp; Kashmir Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number.",
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://www.jkbocw.gov.in/StaticPages/SchemeInformation.aspx"
+    },
+    {
+      "title": "Website",
+      "url": "https://www.jkbocw.gov.in/Index.aspx"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://www.jkbocw.gov.in/MediaGallery/Accidental%20and%20natural%20death.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

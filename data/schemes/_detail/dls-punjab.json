@@ -1,0 +1,39 @@
+{
+  "slug": "dls-punjab",
+  "name": "Direct Lending Scheme",
+  "shortTitle": "DLS-PUNJAB",
+  "level": "state",
+  "state": "Punjab",
+  "nodalDept": "Department of Finance",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Through the \"Direct Lending Scheme\", the Punjab Scheduled Castes Land Development & Finance Corporation (PSCLDFC) provides direct loans for the economic upliftment of the members of the Scheduled Castes and Handicapped People in the state of Punjab.",
+  "descriptionMd": "Through the &quot;Direct Lending Scheme&quot;, the Punjab Scheduled Castes Land Development &amp; Finance Corporation (PSCLDFC) provides direct loans for the economic upliftment of the members of the Scheduled Castes and Handicapped People in the state of Punjab. In order to be eligible, the applicant should be from the Scheduled Caste category, and the age should be between 18 to 55 years. This is a 100% State Sponsored Scheme, and only the permanent residents of the state of Punjab can apply for this scheme.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant should be a citizen of India.\n1. The applicant should be a domicile / permanent resident of the state of Punjab.\n1. The applicant should be from Below Poverty Line (BPL).\n1. The applicant should be from the Scheduled Caste category OR the applicant should be a Person with Disability (PwD)\n1. The age of the applicant should be between 18 to 55 years.\n1. (At the time of considering the loan case of the applicant) The annual family income of the applicant (from all sources) should be less than or equal to ₹ 1,00,000/- (In case the applicant is unemployed, and intends to start his/her own business, his/her family income may not be taken into consideration).\n1. The applicant should not already be availing the benefits of the scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://pbscfc.punjab.gov.in/?q=node/165"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://pbscfc.punjab.gov.in/?q=faq"
+    },
+    {
+      "title": "Loan Application Form - I",
+      "url": "https://pbscfc.punjab.gov.in/sites/default/files/bank_tieup_scheme_form.pdf"
+    },
+    {
+      "title": "Loan Application Form - II",
+      "url": "https://pbscfc.punjab.gov.in/sites/default/files/CORPORATION-1-6%20PAGES.PDF"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

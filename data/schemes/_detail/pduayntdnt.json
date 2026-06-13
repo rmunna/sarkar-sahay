@@ -1,0 +1,31 @@
+{
+  "slug": "pduayntdnt",
+  "name": "Pandit Dindayal Upadhyay Awas Yojana (Developing Caste Welfare) (NT-DNT)",
+  "shortTitle": "PDUAYNTDNT",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Pandit Dindayal Upadhyay Awas Yojana (Developing Caste Welfare) (NT-DNT)\" provides financial assistance of up to ₹1,20,000/- to the people belonging to Nomadic Tribes and Denotified Tribes.",
+  "descriptionMd": "The &amp;quot;Pandit Dindayal Upadhyay Awas Yojana (Developing Caste Welfare) (NT-DNT)&amp;quot; is a welfare scheme by the Social Justice and Empowerment Department of Gujarat. Under this scheme, eligible applicants from the Nomadic Tribe (NT) and Denotified Tribe (DNT) are given up to ₹1,20,000/- for constructing a house. Priority is given to individuals from BPL families.",
+  "benefitsMd": "- **Financial Assistance:** Up to ₹1,20,000/- for house construction.",
+  "eligibilityMd": "- Applicant must be a resident of Gujarat.\n  - Applicant must belong to the [Nomadic Tribe (NT)/ Denotified Tribe (DNT)](https://socialjustice.gov.in/writereaddata/UploadFile/Draft%20List%20of%20Denotified%20Tribes%20for%20Mail.pdf).  - Applicant’s annual family income must not exceed ₹6,00,000/-.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step 1:** Go to the  [eSamajKalyan portal](https://esamajkalyan.gujarat.gov.in/index.aspx?HodID=Mgt3fh4h1dSAcTIdCEHhzQ==) and navigate to the &quot;Pandit Dindayal Upadhyay Awas Yojana (Developing Caste Welfare)  (NT-DNT)&quot; section under the menu option.\n**Step 2:** Click on &quot;Apply Now&quot;.\n**Step 3:** Click on &quot;New User? Please Register Here&quot;.\n**Step 4:** Enter the required details and click Register.\n> **Application Process:**\n\n**Step 1:** Enter your User ID, Password, and Captcha Code, then click &quot;Login&quot;.\n**Step 2:** Read the scheme details carefully and click OK.\n**Step 3:** If your permanent address is correct, confirm it. Otherwise, enter your correct address.\n**Step 4:** Click Save &amp; Next to proceed. Upload the relevant documents.\n**Step 5:** If you need to make changes, click &quot;No, Cancel&quot;. If all details are correct, click &quot;Yes, Submit&quot;.\n**Step 6:** Click Save Application. Note down your Application Number for future reference. You can also take a printout by clicking Print Application.\n> **Check Application Status:** [Click here](https://esamajkalyan.gujarat.gov.in/ViewApplicationStatus.aspx).",
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 409)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://esamajkalyan.gujarat.gov.in/HelpManual/Citizen-HelpManual.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "ssbs",
+  "name": "Samajik Sewa Bhatta Scheme",
+  "shortTitle": "SSBS",
+  "level": "state",
+  "state": "Sikkim",
+  "nodalDept": "Cultural Affairs & Heritage Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to support traditional faith healers by providing a monthly pension. Under this scheme, ₹1,500 is provided to each eligible traditional healer across the state.",
+  "descriptionMd": "The scheme &amp;quot;Samajik Sewa Bhatta Scheme&amp;quot; was launched by the Culture Department, Government of Sikkim. It aims to provide financial support to traditional faith healers across the state. Under this scheme, traditional faith healers receive a monthly pension to recognize and support their cultural and social contributions. It covers a total of 1,500 beneficiaries and seeks to preserve the traditional healing practices that are integral to the cultural heritage of Sikkim.",
+  "benefitsMd": "- A monthly pension of ₹1,500/- is provided to traditional faith healers such as Dhami, Jhakri, Bijjuwa, Bhungthing, Mangpa, Phedengba, Paw, Baidang, Janapa, Yeba, Yema, Sambas, and Pheriwala.",
+  "eligibilityMd": "1. The applicant should be a resident of Sikkim.\n   1. The applicant should be a traditional faith healer such as Dhami, Jhakri, Bijjuwa, Bhungthing, Mangpa, Phedengba, Paw, Baidang, Janapa, Yeba, Yema, Sambas, or Pheriwala.",
+  "exclusionsMd": "1. Applicants related to Sudeni Bhatta (home delivery childbirth practitioners) are excluded under this scheme.",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should write the application on plain paper. \n**Step 2:** Attach copies of all the mandatory documents (self-attest, if required) along with the application.\n**Step 3:** Submit the duly filled and signed application along with the documents to the Secretary, Culture Department.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://culture.sikkim.gov.in/storage/notification/notificationdoc-AkSjW3iGha7GGIkWbx8CWsveCAOHR006VDBsWRR2.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

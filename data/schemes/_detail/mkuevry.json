@@ -1,0 +1,27 @@
+{
+  "slug": "mkuevry",
+  "name": "Mukhyamantri Kaushal Unnayan and Vaishvik Rojgar Yojana",
+  "shortTitle": "MKUVRY",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Skill Development and Employment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to provide skill upgradation training along with country-specific training to the youth of the state, enabling them to secure employment opportunities abroad.",
+  "descriptionMd": "The “Mukhyamantri Kaushal Unnayan and Vaishvik Rojgar Yojana” was launched by the Department of Skill Development and Employment, Government of Uttarakhand. The scheme aims to provide skill upgradation training along with country-specific training to the youth of the state, enabling them to secure employment opportunities abroad.\n<br>",
+  "benefitsMd": "- Under this scheme, youth of Uttarakhand are provided with skill upgradation training in various domains such as language, culture, work ethics, nursing, and hospitality, along with country-specific training. \n  - The training is provided as per the demand of foreign employers to enable the youth to secure suitable service and job opportunities abroad.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a youth of Uttarakhand.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "- Youth interested in overseas employment can register on the [Apuni Sarkar portal](https://eservices.uk.gov.in/). The registration process requires basic details such as the preferred field of work, educational qualification certificates, and passport information.   - After registration, applicants will be invited for a screening test. Those who qualify will become eligible for training.\n  - Upon selection, candidates must submit their Aadhaar card, bank account details, and permanent residence certificate. Training may be provided in either residential or non-residential mode.\n  - The State Government bears 20% of the total training cost. If the trainee avails a loan for up to 60% of the training cost, the State Government will subsidize 75% of the loan interest. In cases where no loan is taken, only 20% of the cost will be covered by the State Government. Trainees can apply for the loan during the training period, with assistance provided by the concerned department.\n  - After completing the training, the employing company or institution conducts a test or interview. Only candidates who pass will be sent for overseas employment. \n  - The registration process on the [Apuni Sarkar portal](https://eservices.uk.gov.in/) remains open throughout the year.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 101)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

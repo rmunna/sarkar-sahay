@@ -1,0 +1,27 @@
+{
+  "slug": "ftvd",
+  "name": "Free Training for Vehicle Drivers",
+  "shortTitle": "FTVD",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "State Transport Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to improve the driving skills and employability of Scheduled Caste (SC) and Scheduled Tribe (ST) candidates by providing free, high-quality driving training, thereby reducing road accidents and promoting self-employment opportunities.",
+  "descriptionMd": "The scheme “Free Training for Vehicle Drivers” was introduced by the Transport Department, Government of Uttarakhand. The scheme aims to improve the driving skills and employability of Scheduled Caste (SC) and Scheduled Tribe (ST) candidates by providing free, high-quality driving training, thereby reducing road accidents and promoting self-employment opportunities.\n<br>",
+  "benefitsMd": "Under this scheme, training will be provided to vehicle drivers to enhance their driving skills, which will help reduce road accidents and enable them to pursue better self-employment opportunities.\n<br>",
+  "eligibilityMd": "- The applicant must be a resident of Uttarakhand.\n  - The applicant must belong to a Scheduled Caste or Scheduled Tribe category.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "***Interested applicants can submit their applications in the prescribed format (available at the IDTR office) in offline mode at the Institute of Driving and Traffic Research (IDTR), Dehradun.***\n***Required Documents for Light Motor Vehicle (Vocational Course):***\n\n  - Aadhaar card of the applicant.\n  - Caste certificate of the applicant.\n  - One recent passport-size photograph.\n  - High School Certificate or 8th Class Transfer Certificate.\n  - A valid Light Motor Vehicle (Non-Transport) Driving License, at least one year old.\n\n***For Heavy Vehicle (Vocational Course):***\n\n  - Aadhaar card of the applicant.\n  - Caste certificate of the applicant.\n  - One recent passport-size photograph.\n  - High School Certificate or 8th Class Transfer Certificate.\n  - A valid Light Motor Vehicle (Transport) Driving License.\n  - The license must be at least one year old.\n\n***For Refresher Courses:***\n\n  - Aadhaar card of the applicant.\n\n&gt; **A valid Driving License to operate a Light or Heavy Motor Vehicle.**\n\n**Validity:** There is no time limit.\n**Renewal:** It is not required.\n**Fees:** Free of cost.\n**Process:** Applications are scrutinized, and eligible candidates are admitted to the training program on a first-come, first-served basis.\n**Process:** Applications can be submitted throughout the year, and training commences as soon as batches are formed.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 287)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

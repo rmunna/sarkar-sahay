@@ -1,0 +1,27 @@
+{
+  "slug": "nyc",
+  "name": "National Youth Corps",
+  "shortTitle": "NYC",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Youth Affairs & Sports",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "A volunteership scheme by Ministry of Youth Affairs And Sports to tap the potential of the disciplined and dedicated youth In the age group of 18 to 29 years who have the inclination and spirit to engage in nation building exercises, to serve up to two years in Nation Building activities.",
+  "descriptionMd": "A volunteership scheme by Ministry of Youth Affairs And Sports to tap the potential of the disciplined and dedicated youth In the age group of 18 to 29 years who have the inclination and spirit to engage in nation building exercises, to serve up to two years in Nation Building activities for which they would receive a monthly honorarium of Rs- 5000/- .\n<br>\n\nEach NYV is required to be IT Savvy. Further NYVs should have the capability of preparing report/documentation of youth program and upload online. NYC should also know about preparing reports for media/news statement. Each NYV should know the using of required mobile Apps (for example Digidhan, Digital India etc).\n<br>\n\nThe NYC Scheme is being implemented by Nehru Yuva Kendra Sangathan (NYKS).",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant must be between 18 - 29 years of age.\n1. The applicant must have passed Class 10th.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines (2021-22)",
+      "url": "https://nyks.nic.in/NewInitiatives/NYVSelection202021/Letters/NYVSelectionGuideline202122.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

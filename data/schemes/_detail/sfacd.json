@@ -1,0 +1,31 @@
+{
+  "slug": "sfacd",
+  "name": "Scheme for Financial Assistance in Case of Death",
+  "shortTitle": "SFACD",
+  "level": "state",
+  "state": "Tripura",
+  "nodalDept": "Labour Department ",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Scheme for Financial Assistance in Case of Death\" scheme was launched by the Tripura Building and Other Construction Workers Welfare Board, Labour Department Tripura. The scheme aims to provide financial assistance to the nominee or spouse or dependent of the deceased registered beneficiary.",
+  "descriptionMd": "The &quot;Scheme for Financial Assistance in Case of Death&quot; scheme was launched by the Tripura Building and Other Construction Workers Welfare Board, Labour Department Tripura. The scheme aims to provide financial assistance to the nominee or spouse or dependent of the deceased registered beneficiary. The registered beneficiary will apply in the prescribed form through electronically.\n<br>",
+  "benefitsMd": "- One time grant in case of natural death : ₹2,00,000/-\n- One time grant, if the death is due to accident during the course of employment: ₹4,00,000/-",
+  "eligibilityMd": "1. The applicant should be a nominee, spouse, or dependent of the deceased registered worker. \n1. The registered construction workers should not have any dues payable to the Board.\n1. Application shall be submitted within 1 year of death.\n1. If the registered beneficiary is covered under Group Life Insurance scheme, is taken by the Board, death benefit as envisaged in this scheme will not apply.",
+  "exclusionsMd": "- If any registered beneficiary is covered under the Group Life Insurance scheme and is taken by the Board, the death benefit as envisaged in this scheme will not apply.",
+  "applicationMode": "Online - via CSC",
+  "applicationMd": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the CSC agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n**NOTE:** The application shall be submitted within 1 year of death.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://tbocwwb.tripura.gov.in/news_announcements/7539721.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://tbocwwb.tripura.gov.in/index.php"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

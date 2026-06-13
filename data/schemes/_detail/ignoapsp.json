@@ -1,0 +1,31 @@
+{
+  "slug": "ignoapsp",
+  "name": "Indira Gandhi National Old Age Pension Scheme (Punjab)",
+  "shortTitle": "IGNOAPSP",
+  "level": "state",
+  "state": "Punjab",
+  "nodalDept": "Department of Social Security and Development of Women and Children",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "In this scheme, persons aged between 60 and 79 years receive a pension of ₹200/- per month, while those aged 80 years and above receive ₹500/- per month. The scheme applies only to persons belonging to the Below Poverty Line (BPL) category.",
+  "descriptionMd": "The &quot;Indira Gandhi National Old Age Pension Scheme (IGNOAPS)&quot; is a social welfare initiative by the Department of Social Security and Development of Women and Children, Government of Punjab. In this scheme, persons aged between 60 and 79 years receive a pension of ₹200/- per month, while those aged 80 years and above receive ₹500/- per month. The scheme applies only to persons belonging to the Below Poverty Line (BPL) category.",
+  "benefitsMd": "- ₹200/- month, for persons aged 60 to 79 years.\n- ₹500/- month, for persons aged 80 years and above.",
+  "eligibilityMd": "1. The applicant should be a resident of Punjab.\n1. The applicant should be 60 years of age or older.\n1. The applicant should be from a Below Poverty Line (BPL) family.\n1. The applicant should not be receiving pension benefits under any social security scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:****** The interested applicant should visit the District Social Security Officer and request a hard copy of the prescribed format of the application form from the concerned staff.\n**Step 2:****** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:****** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the [District Social Security Officer](https://sswcd.punjab.gov.in/en/contact-us/district-social-security-officer).\n**Step 4:****** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sswcd.punjab.gov.in/en/indira-gandhi-national-old-age-pension-schemes-ignoaps-0"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://nsap.nic.in/circular.do?method=faq"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "gbsy",
+  "name": "Gambhir Bimari Sahayata Yojana",
+  "shortTitle": "GBSY",
+  "level": "state",
+  "state": "Uttar Pradesh",
+  "nodalDept": "Labour Department, Uttar Pradesh",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Gambhir Bimari Sahayata Yojana\" is a scheme by the government of Uttar Pradesh, India, to provide financial assistance to registered construction workers for the  treatment from the serious Illness",
+  "descriptionMd": "The Uttar Pradesh Gambhir Bimari Sahayata Yojana is a government-funded scheme that provides financial assistance to such construction workers who are not covered under &quot;Ayushman Bharat Jan Arogya Yojana&quot; and &quot;Pradhan Mantri Jan Aarogya Yojana&quot; in the UP Building and Other Construction Workers Welfare Board.\n<br>\n\nBenefits will be provided to the family member of the construction worker in case of illness, for treatment in any government hospital or autonomous hospital of the Government of India or Uttar Pradesh Government or such hospitals which have been empanelled by the National Health Authority of Ayushman Bharat Pradhan Mantri Jan Arogya Yojana or SACHIS (State Agency For Comprehensive Health Insurance and Integrated Services) functioning at the state level.",
+  "benefitsMd": "1. Full reimbursement of an amount equivalent to the benefit payable under Ayushman Bharat Scheme on treatment in government/autonomous hospitals or SACHIS empaneled hospitals.\n1. In case of medical/surgical treatment, advance amount can also be paid to the hospital after the hospital gives the estimate for the treatment.\n1. No maximum amount is fixed.\n1. The scheme covers the cost of treatment for a variety of serious illnesses, including:\n\n  - Heart surgery.\n  - Kidney transplant.\n  - Liver transplant.\n  - Brain surgery.\n  - Changing the knees of the legs.\n  - Cancer treatment.\n  - HIV AIDS disease.\n  - Eye surgery.\n  - Stone Surgery.\n  - Appendix surgery.\n  - Hydrocele surgery.\n  - Surgery for breast cancer in women.\n  - Surgery for cervical cancer.\n\n1. Also cover the diseases which comes under Ayushman Bharat Pradhan-mantri Jan-arogya Yojana and Mukhya-mantri Jan-arogya Yojana.",
+  "eligibilityMd": "1. Applicant must be registered workers under labor department. \n1. Beneficiary can not get the similar type of government scheme benefits like Pradhan Mantri Jan-Arogya Yojana and Chief Minister Jan-Arogya Yojana.\n1. Only below family members are covered\n\n  - Self.\n  - Depended parents.\n  - Spouse (Husband/Wife).\n  - Daughter.\n  - Son (only if below 21 years of age)",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "> **How to get register and apply for the scheme**\n\n\n1. Applicant must visit the below offices\n\n  - Nearest labor office.\n  - Tehsildar of the concerned tehsil.\n  - Block Development Officer of the concerned development block.\n\n1. Get the application form and fill out the completely.\n1. Attach required documents in the prescribed format.\n1. Submit the application form in the same office.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.upbocw.in/pdf/adhisuchna/gambhir_bimari_29_01_2024.pdf"
+    },
+    {
+      "title": "Details",
+      "url": "https://www.upbocw.in/StaticPages/schemes.aspx#tab10"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

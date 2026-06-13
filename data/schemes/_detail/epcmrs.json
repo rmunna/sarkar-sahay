@@ -1,0 +1,35 @@
+{
+  "slug": "epcmrs",
+  "name": "Export Promotion Council Membership Reimbursement Scheme for Scheduled Caste/Scheduled Tribe",
+  "shortTitle": "EPCMRS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Micro, Small and Medium Enterprises",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Export Promotion Council Membership Reimbursement Scheme provides  reimbursement to an SC/ST Micro & small enterprises(MSEs), on annual membership subscription fee / one-time subscription charges/entry fee charged by various Export Promotion Councils (EPC).",
+  "descriptionMd": "Launched by the Ministry Of Micro, Small &amp;amp; Medium Enterprises, Export Promotion Council Membership Reimbursement Scheme is a sub scheme under National Scheduled Caste and Scheduled Tribe Hub (NSSH) scheme. Under this scheme, reimbursement will be provided to an Scheduled Caste (SC)/Scheduled Tribe (ST) Micro &amp;amp; small enterprises(MSEs), on annual membership subscription fee/one-time subscription charges/entry fee charged by various Export Promotion Councils (EPC).\n<br>",
+  "benefitsMd": "**Reimbursement of Membership Fee:** Reimbursement of 80% or up to ₹20,000 (excluding GST and other applicable taxes), whichever is less, per financial year for SC/ST MSEs towards annual membership, one-time subscription, or entry fee charged by Export Promotion Councils (EPCs).\n\n<br>",
+  "eligibilityMd": "- Applicant should belong to Scheduled Caste(SC)/Scheduled Tribe (ST) category. \n- He/She should represent any Micro and Small Enterprises (MSEs).\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** The applicant must visit the official portal of the [National SC-ST Hub](https://www.scsthub.in/nssh-schemes/).\n**Step 2:** The applicant must click on the &quot;Scheme name&quot; and then click on “Sign Up” and register using basic details such as name, email ID, and mobile number.\n**Step 3:** The applicant must create a password and complete the registration process.\n**Step 4:** The applicant must log in using the registered credentials.\n**Step 5:** The applicant must fill in the required details and submit the application online.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.scsthub.in/sites/default/files/schemes/NSSH_Guidelines_Sub_scheme__0.pdf"
+    },
+    {
+      "title": "Point Of Interest",
+      "url": "https://www.scsthub.in/content/point-interest"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://www.scsthub.in/sites/default/files/training/NSSHGuidelinesWeb-EPC-7-11.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

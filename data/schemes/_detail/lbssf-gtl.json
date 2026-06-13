@@ -1,0 +1,32 @@
+{
+  "slug": "lbssf-gtl",
+  "name": "Loan Based Schemes For Safai Karamchari - General Term Loan (GTL)",
+  "shortTitle": "LBSSF-GTL",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Social Justice and Empowerment",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual",
+    "Registered Societies"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "A general term loan scheme by the Ministry of Social justice and Empowerment for Safai Karamchari, Manual Scavengers, and their dependants aged 18 years and above.",
+  "descriptionMd": "The scheme &quot;Loan Based Schemes For Safai Karamchari - General Term Loan&quot; has been launched by the Ministry of Social Justice and Empowerment, Government of India. Under this scheme, term loans are extended through State Channelising Agencies (SCAs), Regional Rural Banks(RRBs), and Nationalised Banks to the target group. Under this scheme, assistance is provided for any viable income-generating schemes, including sanitation-related activities, with a maximum project cost of ₹ 15.00 lac.\n<br>",
+  "benefitsMd": "> **Term loan:**\n\n\n1. Up to 90% of the unit cost with a maximum unit cost of ₹ 15.00 lacs at an interest rate of 6%, for any viable income generating schemes including sanitation-related activities.\n\n> **Repayment period:**\n\n\n1.  Up to 10 years after an implementation period of 4 months and a moratorium of 6 months and from the date of loan disbursement depending on the viability/profitability and repaying capacity of the unit.\n1. A General Term loan can be provided up to a maximum of 90% of the unit cost. The remaining 10%  share is to be provided by the State Channelising Agencies in the form of loan, subsidy or promoter’s contribution, or any other available funds sources.\n1. Promoter’s contribution is not insisted upon for projects costing up to ₹ 2.00 lac\n1. For projects costing more than ₹ 2.00 lac, the minimum promoter’s contribution insisted by NSKFDC from the beneficiaries is 5%.\n\n<br>",
+  "eligibilityMd": "**The following person(s)/entities shall be considered eligible for availing of financial assistance under the various schemes of NSKFDC:-** \n>  Safai Karamcharis (including Wastepickers), identified Manual Scavengers and their dependents.\n\n\n1. Registered co-operative societies of the target group. \n1.  Legally constituted association/firm promoted by the target group, and\n1.  Persons who produce a certificate from local Revenue Officer/local Municipal Officer/Cantonment Executive Officer/ Railway Officer, Head of the Govt. Departments (i.e. Schools, Colleges, Forest, Health, Education, Animal Husbandry) having rank not less than Gazetted Officer, Elected Members of Municipal Body, Pradhan of Gram Panchayats and Regional Managers of Regional Rural Banks (RRBs)/Public Sector Banks (PSBs). However, under the MS Act, 2013, a person identified as Manual Scavenger in a survey, need not to provide any certificate once his/her name appeared in the final list of Manual Scavengers prepared by State Governments/Union Territory Administration (https://nskfdc.nic.in/en/content/home/ms-survey-2018, https://nskfdc.nic.in/en/node/79798  ). \n1. Mukhia/ Sarpanch/ President or any other authority equivalent to Pradhan of Gram Panchayat for issue of Occupation Certificate to Safai Karamcharis/ dependants; and In case of Municipal Bodies without Gazetted Officers, the head of such Municipal Bodies, may be the Competent Authority.   \n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "Interested eligible person shall contact the nearest Channelling Agency: ([https://nskfdc.nic.in/en/content/home/list-channelizing-agencies](https://nskfdc.nic.in/en/content/home/list-channelizing-agencies))\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://nskfdc.nic.in/en/content/schemes-programmes/general-term-loan-tl  "
+    },
+    {
+      "title": "Information",
+      "url": "https://nskfdc.nic.in/en/content/schemes-programmes/loan-schemes"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

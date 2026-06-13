@@ -1,0 +1,31 @@
+{
+  "slug": "mfsfshg",
+  "name": "Micro Finance Scheme for Self Help Groups (GTKVN)",
+  "shortTitle": "MFSSHG",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Self Help Groups (SHGS)"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to economically empower women from Thakor and Koli castes through self-employment opportunities via Self Help Groups (SHGs). Under this scheme, eligible members of SHGs receive a loan up to ₹60,000/- at low interest to start or expand small-scale businesses/enterprises.",
+  "descriptionMd": "The &amp;quot;Micro Finance Scheme for Self Help Groups&amp;quot; is implemented by the Gujarat Thakor and Koli Vikas Nigam (GTKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to economically empower women from Thakor and Koli castes through self-employment opportunities via Self Help Groups (SHGs). Under this scheme, eligible members of SHGs receive a loan at low interest to start or expand small-scale businesses/enterprises.\n<br>",
+  "benefitsMd": "- **Loan Amount:** Up to ₹60,000/- for eligible small businesses.- **Interest Rate:** 5% per annum.- **Loan Coverage:** 95% of the project/business cost is covered; 5% contribution is to be made by the beneficiary.- **Repayment Term:** 48 equal monthly installments (4 years), including interest.\n<br>",
+  "eligibilityMd": "1. The applicant should  be a resident of Gujarat.\n1. The applicant should be a member of a Self Help Group (SHG).\n1. The applicant should belong to the Thakor or Koli caste.\n1. The applicant&#39;s age should be at least 21 years and not more than 50 years as on the date of application.\n1. The applicant’s annual family income should not exceed ₹3,00,000/-.\n1. The applicant should have relevant experience in the proposed trade/business field.\n1. The applicant will have to provide suitable collateral to get the loan.\n\n> **Note:** At least 50% of the total loan allocation is reserved for those with family income up to ₹1,50,000/-.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the [official website](https://gtkdconline.gujarat.gov.in/) of the Gujarat Thakor and Koli Vikas Nigam.\n**Step 2:** On the top menu bar, click on &quot;Apply Now&quot;.\n**Step 3:** Click on the loan scheme name. \n**Step 4:** Select the loan category and fill in the loan amount.\n**Step 5:** Fill out the Application Form, enter the following details:\n\n- Personal Information: Name, gender, date of birth, caste, etc.\n- Address Information: Permanent and correspondence address\n- Income Details: Monthly family income and source\n- Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)\n- Bank Account Details: For loan disbursement\n\n**Step 6:** Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.\n**Step 7:** Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.\n**Step 8:** Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.gujarat.gov.in/gtkvn/Schemes/1452?lang=English"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

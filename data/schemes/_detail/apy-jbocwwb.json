@@ -1,0 +1,33 @@
+{
+  "slug": "apy-jbocwwb",
+  "name": "Annath Pension Yojana (JBOCWWB)",
+  "shortTitle": "APY-JBOCWWB",
+  "level": "state",
+  "state": "Jharkhand",
+  "nodalDept": "Labour, Employment, Training and Skill Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [],
+  "benefitType": "Cash",
+  "briefDescription": "\"Annath Pension Yojana (JBOCWWB)\" is a scheme by the Department of Labour, Employment, Training & Skill Development Govt of Jharkhand. In case of the death of the pensioner, the pension will be payable at the rate of the family pension and will be evenly divided among orphans below 18 years of age.",
+  "descriptionMd": "&amp;quot;Annath Pension Yojana (JBOCWWB)&amp;quot; is a scheme by the Department of Labour, Employment, Training &amp;amp; Skill Development Govt of Jharkhand. This is a 100% State Sponsored Scheme. Only the residents/domicile of the state of Jharkhand can apply to this scheme. Applications for this scheme are accepted online through the official website of the department. In case of the death of the pensioner, the pension will be payable at the rate of the family pension and will be evenly divided among orphans below 18 years of age.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The deceased should have been domiciled in the state of Jharkhand.\n1. The deceased should have been a Registered Worker with the &#39;Jharkhand Building and Other Construction Worker Welfare Board (JBOCWW Board)&#39;.\n1. The deceased should have been receiving a pension from the board.\n1. The applicant should be a child of the deceased.\n1. The applicant should have been orphaned after the death of the pensioner.\n1. The applicant should be less than 18 years of age.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://shramadhan.jharkhand.gov.in/schemmeDetailsShow.action"
+    },
+    {
+      "title": "Application Process",
+      "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/BOC_SCHEME_BENEFIT_APPLICANT_SIDE.pdf"
+    },
+    {
+      "title": "District-Wise Contact Details Of Labour Offices",
+      "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/labourcontactdetails.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

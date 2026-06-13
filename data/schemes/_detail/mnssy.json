@@ -1,0 +1,31 @@
+{
+  "slug": "mnssy",
+  "name": "Mukhyamantri Noni Sashaktikaran Sahayata Yojana",
+  "shortTitle": "MNSSY",
+  "level": "state",
+  "state": "Chhattisgarh",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Chhattisgarh State Government started \"Mukhyamantri Noni Sashaktikaran Sahayata Yojana\" for the girl child of the family.",
+  "descriptionMd": "In 2022, Chhattisgarh State Government started the &quot;Mukhyamantri Noni Sashaktikaran Sahayata Yojana&quot; for the girl child of the family. With this scheme, daughters of workers will be able to get education, employment and self-employment.",
+  "benefitsMd": "Financial Benefits: ₹ 20,000/- only first two girl child.",
+  "eligibilityMd": "1. The girl&#39;s father or mother or both should be registered as a construction worker in the Board for a period of at least one year.\n1. The daughter for whom application has been made should not be registered in any division under the Labor Department.\n1. Only two daughters of registered construction workers will be eligible for incentive amount.\n1. The age of the daughter should be at least 18 years and should not be more than 21 years. \n1. Daughter should be unmarried.\n1. The daughter must have passed at least 10th class. \n1. There should be a running bank account in the name of the daughter\n1. The Parents of the daughter must have been working as a construction worker for at least 90 days in the period of one year preceding the date of application.\n1. For payment of incentive amount, self-declaration form will be mandatory regarding verification of the beneficiary being a construction worker and the information given by the applicant in the application.\n1. Those girls beneficiaries who have already received assistance under Minimata Kanya Vivah Yojana/Rajmata Vijayaraje Kanya Vivah Assistance Yojana operated under the Board, will be not eligible for this scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Application Process**\n> Step-1. Applicant have to visit the official labour [website ](https://cglabour.nic.in/ShramAyuktHome.aspx)of Chhattisgarh State.\n\n> Step-2. Click on [apply now ](https://cglabour.nic.in/NewOnlineScheme/Application.aspx)under the Building and other construction.\n\n> Step-3. Now applicant have to provide the below detail.\n\n\n\n   1. District,\n   1. New registration number.\n   1. And click on check the details\n\n\n> Step-4. Now select the scheme name here. \n\n> Step-5. Fill out the online form. \n\n> Step-6. Upload required documents.\n\n\n\n   1. Labor registration card.\n   1. Daughter&#39;s Aadhaar card.\n   1. Daughter&#39;s bank passbook photocopy.\n   1. Age Certificate.\n   1. Class 10th marksheet. \n\n> Step-7. Click on submit.\n\n> Step-8. Note the application number.\n\n<br>\n\n**Trace the Application Status**\n> Step-1. Applicant have to visit the official labour [website ](https://cglabour.nic.in/ShramAyuktHome.aspx)of Chhattisgarh State.\n\n> Step-2. Click on &quot;[Check the application status](https://cglabour.nic.in/Scheme/OnlineScheme/SearchAppNo.aspx)&quot; under the Unorganized worder board option.\n\n> Step-3. Select the scheme name.\n\n> Step-4. Enter the application number. \n\n> Step-5. Click on search.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cglabour.nic.in/BOCW/BOCADHISUCHNA/196779_31_01_2022.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://cglabour.nic.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

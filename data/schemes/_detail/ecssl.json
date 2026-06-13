@@ -1,0 +1,27 @@
+{
+  "slug": "ecssl",
+  "name": "Employees Cooperative Societies Surety Loan",
+  "shortTitle": "ECSSL",
+  "level": "state",
+  "state": "Tamil Nadu",
+  "nodalDept": "Co-operation, Food and Consumer Protection Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme provides loans up to ₹1,50,000/- at an interest rate of 14%. It is aimed at assisting citizens by offering financial support through surety loans from the Employees Cooperative Societies.",
+  "descriptionMd": "The &amp;quot;Employees Cooperative Societies Surety Loan&amp;quot; scheme launched by the Co-operation, Food and Consumer Protection Department, Tamil Nadu, aims to provide a maximum loan amount of ₹1,50,000/- at an interest rate of 14% (subject to change) through surety loans from the Employees Cooperative Societies. The purpose of this scheme is to extend loans to eligible citizens for financial support.\n&lt;br&gt;",
+  "benefitsMd": "- **Access to Loan:** Surety loans up to ₹1,50,000/-.  - **Interest Rate:** 14% (subject to change).\n&lt;br&gt;",
+  "eligibilityMd": "- The beneficiary should be a resident of Tamil Nadu.\n  - The beneficiary should be a member of an Employees Cooperative Society.\n  - The beneficiary should be interested in availing Employees Cooperative Societies Surety loan.\n\n&lt;br&gt;",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should collect the application form by contacting the Secretary/ Special Officer of the office of the Employees Cooperative Society.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority..\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/3616"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

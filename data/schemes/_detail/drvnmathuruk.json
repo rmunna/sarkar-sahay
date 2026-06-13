@@ -1,0 +1,27 @@
+{
+  "slug": "drvnmathuruk",
+  "name": "Dr. V.N. Mathur Award (M.Sc. Mathematics)",
+  "shortTitle": "DRVNMATHURUK",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide financial support and encourage meritorious students pursuing an M.Sc. in Mathematics, thereby assisting them and reducing their financial burden. The assistance of ₹20,000/- per year is provided to eligible students.",
+  "descriptionMd": "The “Dr. V.N. Mathur Award (M.Sc. Mathematics)” scheme is implemented by Govind Ballabh Pant University of Agriculture and Technology, Pantnagar, under the Department of Agriculture, Government of Uttarakhand. The scheme aims to provide financial support and encourage meritorious students pursuing an M.Sc. in Mathematics, thereby assisting them and reducing their financial burden.\n<br>",
+  "benefitsMd": "**Award Amount:** ₹20,000/- per year.\n<br>",
+  "eligibilityMd": "1. The applicant must be a student.\n   1. The applicant must be enrolled in an M.Sc. Mathematics course at Govind Ballabh Pant University of Agriculture and Technology, Pantnagar.\n   1. The financial assistance is awarded for a duration of one year only.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "Students are first invited to submit their applications on the prescribed form. A committee, constituted by the Vice Chancellor, then reviews and evaluates these applications following a defined procedure. Based on the committee’s recommendations, the Vice Chancellor grants approval, after which the selected students receive the payments.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 186)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

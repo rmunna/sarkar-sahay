@@ -1,0 +1,31 @@
+{
+  "slug": "kpsap",
+  "name": "Kalyanamastu Pathakam Scheme - Andhra Pradesh",
+  "shortTitle": "KPSAP",
+  "level": "state",
+  "state": "Andhra Pradesh",
+  "nodalDept": "Andhra Pradesh Brahmin Welfare Corporation",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Kalyanamastu Pathakam Scheme - Andhra Pradesh\" aims to encourage girls to marry the boys living in Andhra Pradesh who are getting their livelihood through Vaidikam, a one-time financial assistance of ₹75,000/- will be granted. In order to encourage Vedic culture as well.",
+  "descriptionMd": "Andhra Pradesh Brahmin Welfare Corporation (APBWC) is announcing the launch of “Kalyanamastu Pathakam”, to encourage Vedic Culture. Nowadays most Brahmin girls are not willing to marry the Brahmin boys who are in the professions of Pourohityam, Veda Parayanam, and Archakatam.  To encourage the girls marrying the boys who are getting their livelihood through Vaidikam, a one-time Financial Assistance of ₹75,000/- will be granted.",
+  "benefitsMd": "- Financial Assistance of ₹75,000/-.",
+  "eligibilityMd": "> **Bride:**\n\n\n1. The applicant (Bride) should have completed 18 years of age at the time of marriage.\n1. The bride and her parents should belong to the Brahmin community. \n1. The bride should be enrolled in the Praja Sadhikara Survey (PSS). \n\n<br>\n\n> **Bridegroom:**\n\n\n1. The bridegroom should have completed 21 years at the time of marriage. \n1. The bridegroom should be a Brahmin resident of Andhra Pradesh and his livelihood should come from Pourohityam or Veda Parayanam or Archakatvam.  \n1. The bridegroom should not be a full-time employee/businessman/professional in other professions or an Industrialist. \n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration and apply**\n\n**Step 01:** Applicants have to visit the official website(https://www.andhrabrahmin.ap.gov.in/schemes/schemes.aspx#) and click on &quot;Scheme&quot;\n**Step 02:** Click on &quot;Registration&quot; After that application form will open\n**Step 03:** Fill out the required details:\n\n\n  - Personal Details: Name, Residence address, Aadhaar no, Ration card no, Bank detail etc\n  - Upload: Photo, Signature and Certificate Details \n  - Documents: Birth Certificate, Residential Certificate, Aadhar Card, Caste Certificate, Bank Passbook etc\n  - Finalize and &quot;Submit&quot; the application.\n\n\n**Step-4:** After submission receive the reference number. \n<br>\n\n> **Check Application Status:**\n\n**Step 01:** Click on the “Services” link on the menu and select &quot;Know your status&quot;.\n**Step 02:** Enter the Reference or Mobile or Aadhaar Card Number to get the application status.\n**Step 03:** Select the &quot;Financial Year&quot; and Fetch the details. \n<br>\n\n> **Download the Acknowledgement slip:**\n\n**Step 01:** Click on the &quot;Acknowledgement Slip&quot;\n**Step 02:** Enter the Aadhaar Card Number and select the &quot;Scheme&quot;\n**Step 03:** Click on the &quot;Submit&quot;\n<br>\n\n> **Application Deadline:**\n\nThe bride applies 15 days before the marriage or within 30 days after marriage.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.andhrabrahmin.ap.gov.in/down/kalyanamasthu2019.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://www.andhrabrahmin.ap.gov.in"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

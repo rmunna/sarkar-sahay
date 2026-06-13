@@ -1,0 +1,31 @@
+{
+  "slug": "cmsmfops",
+  "name": "Chief Minister Small and Marginal Farmers Older Pension Scheme",
+  "shortTitle": "CMSMFOPS",
+  "level": "state",
+  "state": "Rajasthan",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Chief Minister Small and Marginal Farmers Older Pension Scheme\" by the Department of Social Justice and Empowerment, Government of Rajasthan, aims to provide financial assistance to elderly small and marginal farmers.",
+  "descriptionMd": "The &quot;Chief Minister Small and Marginal Farmers Older Pension Scheme&quot; implemented by the Department of Social Justice and Empowerment, Government of Rajasthan, aims to provide financial assistance to elderly small and marginal farmers for their social and economic well-being.",
+  "benefitsMd": "- **Pension of ₹1250/- per month.** \n\n<br>",
+  "eligibilityMd": "1. The applicant must be a permanent resident of Rajasthan.\n1. The applicant must belong to a small and marginal farmer family. \n1. The minimum age requirement is:\n\n\n\n  - 55 years or above for women.\n  - 58 years or above for men.\n\n\n<br>\n\n**NOTE:** Small and marginal farmer as per the definition under the National Food Security Ordinance, 2013, and as per the Rajasthan Government&#39;s Food and Civil Supplies Department circular dated 31.8.2013.\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest E-mitra Center and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the E-mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/201908271723067572Farmer%20Pension%20order%20and%20rules.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://ssp.rajasthan.gov.in/LoginContent/MidLogin.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

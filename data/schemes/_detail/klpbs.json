@@ -1,0 +1,35 @@
+{
+  "slug": "klpbs",
+  "name": "Kam Lagat Pyaaj Bhandaran Sanrachna",
+  "shortTitle": "KLPBS",
+  "level": "state",
+  "state": "Rajasthan",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under the Kam Lagat Pyaaj Bhandaran Sanrachna yojana Construction of warehouses should be done at a high level to prevent moisture and dampness which occur due to direct contact of onions with soil.",
+  "descriptionMd": "The Kam Lagat Pyaaj Bhandaran Sanrachna yojana under the Agriculture Department of the Rajasthan government provides subsidies and support, the scheme aims to assist farmers in constructing storage facilities for onions at affordable rates. This initiative seeks to address post-harvest losses, prolong the shelf life of onions, and stabilize market prices by ensuring adequate storage infrastructure. Ultimately, the scheme aims to enhance the income of onion farmers and contribute to the overall development of the agricultural sector.\n<br>\n\n> **Important Points**\n\n\n1. Created and approved by the Provisional Socialist Committee.\n1. The grant amount will be paid directly into the farmer&#39;s bank.",
+  "benefitsMd": "- Onion storage structure (25 Metric Ton capacity): 50% unit cost subsidy, max grant ₹ 87,500/-.",
+  "eligibilityMd": "1. The applicant must be a native of Rajasthan.\n1. The applicant should be a Farmer.\n1. The applicant must have a minimum of 0.5 land ownership.\n1. A farmer who is cultivating onion and wants to build a low-cost onion storage structure.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on the new SSO link.\n      - SSO id will appear on the screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n**Step-5**: Submit.\n<br>\n\n> **APPLY**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, [dashboard ](https://sso.rajasthan.gov.in/dashboard)will open.\n**Step-3:** Click on “ RAJ-KISAN ” option. \n**Step-4:** In &quot;Farmer&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah ID&quot; or &quot;Janaadhaar ID&quot; and search.  \n**Step-6:** Select the person name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on Get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan#"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/register"
+    },
+    {
+      "title": "Login",
+      "url": "https://sso.rajasthan.gov.in/signin"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

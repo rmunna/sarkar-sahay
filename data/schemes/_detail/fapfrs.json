@@ -1,0 +1,28 @@
+{
+  "slug": "fapfrs",
+  "name": "Financial Assistance/Pension to Former Renowned Sportspersons",
+  "shortTitle": "FAPFRS",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department Of Sports",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Sportsperson",
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide lifelong monthly financial assistance ranging from ₹4,000/- to ₹10,000/- in the form of a pension to former renowned sportspersons of Uttarakhand who are above 50 years of age and are financially weak.",
+  "descriptionMd": "The scheme “Financial Assistance/Pension to Former Renowned Sportspersons” was launched by the Department of Sports, Government of Uttarakhand. The scheme aims to provide monthly financial assistance in the form of a pension to former renowned sportspersons of Uttarakhand who are above 50 years of age and are financially weak.\n<br>",
+  "benefitsMd": "Under this scheme, financially weak former renowned sportspersons of the state are provided a lifelong monthly pension, with a minimum of ₹4,000/- and a maximum of ₹10,000/-.\n<br>",
+  "eligibilityMd": "1. The applicant should be a resident of Uttarakhand.\n1. The applicant should be an ex-sportsperson. \n1. The applicant must be above 50 years of age.\n1. The applicant should not be currently employed.\n1. The applicant’s monthly income from all private sources should not exceed ₹20,000/-.\n1. The applicant should be a former medalist or participant in:\n\n\n- Olympic Games, World Cup/Championship\n- Asian Games, Commonwealth Games\n- Afro-Asian Games, SAF Games\n- Para-Olympic/Special Olympic (Mental/Physical Disabilities)\n- World Marathon (Disabled), International Veteran (Masters) Championships\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- The Sports Directorate issues a notification inviting applications. \n  - Applicants are required to submit their applications to the Directorate along with certificates of participation and medals in relevant sports competitions, permanent residence certificate, income certificate, Aadhaar card, bank account details, and birth certificate.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 113)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

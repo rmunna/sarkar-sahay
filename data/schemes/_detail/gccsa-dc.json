@@ -1,0 +1,44 @@
+{
+  "slug": "gccsa-dc",
+  "name": "\"Grant to Coir Cluster/Societies/Agency\" Component of the \"Development of Coir\" Scheme",
+  "shortTitle": "GCCSA-DC",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "District Industries Centre Organization",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Registered Societies",
+    "Business Entity"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Grant to Coir Cluster/Societies/Agency\" scheme aims to foster the development of coir industries. The scheme encourages unemployed rural youth and artisan individuals to participate in the manufacturing and sales of coir products. Grant of ₹2,00,000 per year is provided for five years.",
+  "descriptionMd": "The &quot;Grant to Coir Cluster/Societies/Agency&quot; Component of the &quot;Development of Coir&quot; Scheme by the Department of Industries and Commerce, Union Territory of Puducherry, aims to foster the development of coir industries. The scheme encourages unemployed rural youth and artisan individuals to participate in the manufacturing and sales of coir products.",
+  "benefitsMd": "Grant of ₹2,00,000 per year for five years to cover administrative and developmental expenses.",
+  "eligibilityMd": "- The applicant should be a cluster/society/agency.\n- The applicant should be engaged in coir product activities.\n- The members of the organization should be coir artisans.\n- The applicant should be registered under the Co-operative Act or any other Societies Act.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should take print of the [prescribed format](https://dic.py.gov.in/sites/default/files/coir.doc) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** The interested applicant should visit (on a working day, and during office hours) the Project Manager (Cottage Industries) of the District Industries Centre (Thattanchavady, Puducherry - 605 009), and submit the duly filled and signed application form and the documents to the concerned authority.\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dic.py.gov.in/development-of-coir"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://dic.py.gov.in/sites/default/files/citizencharter.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://dic.py.gov.in/application-forms-download-area"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://dic.py.gov.in/contact-us"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://industry.py.gov.in/grievance-redressal-mechanism"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

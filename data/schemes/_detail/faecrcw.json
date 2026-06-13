@@ -1,0 +1,31 @@
+{
+  "slug": "faecrcw",
+  "name": "Financial Assistance for Education of Children of Registered Construction Worker",
+  "shortTitle": "FAECRCW",
+  "level": "state",
+  "state": "Tripura",
+  "nodalDept": "Labour Department ",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Financial Assistance for Education of Children of Registered Construction Worker\" scheme for education benefit is to give financial assistance for the education of children of registered construction workers having continuous registration for a period of six months under TBOCWWB.",
+  "descriptionMd": "The &quot;Financial Assistance for Education of Children of Registered Construction Worker&quot; scheme was launched by the Tripura Building and Other Construction Workers Welfare Board, Labour Department Tripura. This scheme gives financial assistance for the education of children of registered construction workers having a continuous registration for a period of six months under TBOCWWB.",
+  "benefitsMd": "**Pre-Matric Courses:**\n\n- Class 1st to 5th:    ₹1,800/- per year- Class 6th to 8th:    ₹2,400/- per year- Class 9th to 10th:  ₹4,000/- per year\n<br>\n\n**Non-Degree Post-Matric Courses:**\n\n- Courses with entrance qualification as High School (Class 10th) (e.g., senior secondary, ITI courses, 3-year diplomas in Polytechnics): ₹4,000/- per year\n<br>\n\n**Post-Matric Scholarships:**\n\n- **Group 1:  ₹20,000/- year**\n\n\n\n   1. Degree and Post Graduate level courses which include M.Phil., Ph.D., and Post-Doctoral research in Medicine (Allopathic, Indian, and other recognized systems of medicines, Engineering, Technology, Planning, Architecture, Design, Fashion Technology, Agriculture, Veterinary &amp; Allied Sciences, Management, Business Finance /Administration, Computer Science/Applications.\n   1. Commercial Pilot License (including helicopter pilot and multiengine rating) course.\n   1. Post Graduate Diploma courses in various branches of management &amp; medicine.\n   1. C.A./I.C.W.A./C.S./I.C.F.A. etc. (v) M.Phil., Ph.D. and Post-Doctoral Programmes (D. Litt., D.Sc., etc.): In existing Group 2 courses and In existing Group 3 courses\n\n\n\n- **Group 2:  ₹12,000/- year**\n\n\n\n   1. Graduate/ Post Graduate courses leading to Degree, Diploma, Certificate in areas like Pharmacy (B Pharma), Nursing (B Nursing), LLB, BFS, other para-medical branches like rehabilitation, diagnostics etc., Mass Communication, HotelManagement&amp; Catering, Travel/Tourism/Hospitality Management, Interior Decoration, Nutrition &amp; Dietetics, Commercial Art, Financial Services (e.g. Banking, Insurance, Taxation etc.) for which entrance qualification is minimum Sr. Secondary (10+2).\n   1. Post Graduate courses not covered under Group-I e.g. M.A./M.Sc./M.Com./M.Ed./M.Pharma etc.\n\n\n\n- **Group 3:  ₹10,000/- year**\n\n\n\n   1. All other courses leading to a graduate degree not covered under Group 1&amp;2eg. BA/B Sc/B Com etc.",
+  "eligibilityMd": "1. The children&#39;s parents or guardians must be registered construction workers under the Building &amp; Other Construction Workers’ Welfare Board\n1. The scholarships are awarded for all recognized Pre-Matric and Post-Matric courses in recognized institutions, except courses of 6 months or less.\n1. The students studying in the same stage of education in different subjects (e.g., Class XI Arts after Class XI Science) are not eligible.\n1. The student who completed one professional stream and is pursuing another (e.g., LLB after B.Ed.) is not eligible. The students will be allowed to take up only one professional stream.\n1. The scholarship shall be tenable for the prescribed duration of a course. A candidate who receives the scholarship but fails to pass in a particular year shall not receive further scholarship till he/she passes the specific year of the course.\n1. The student should maintain 50% of the annual attendance in the class.\n1. Only two children of the same parents/guardians are eligible for scholarships.\n1. The registered construction workers must have no dues payable to the Board.",
+  "exclusionsMd": "1. The candidate pursuing part-time courses will not be eligible.\n1. Home study courses, online courses distance courses, etc. are not eligible for this benefit.\n1. The candidate under full employment during the period of study shall not be eligible for the scholarship.",
+  "applicationMode": "Online - via CSC",
+  "applicationMd": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the CSC agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n**NOTE:** \n\n- The application must be submitted within 6 months of the next academic year.\n- The student applying for a Post-Matric scholarship should possess the relevant qualification from any recognized institution.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://tbocwwb.tripura.gov.in/news_announcements/6640322.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://tbocwwb.tripura.gov.in/index.php"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

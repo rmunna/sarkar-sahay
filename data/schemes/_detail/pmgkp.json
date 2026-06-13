@@ -1,0 +1,39 @@
+{
+  "slug": "pmgkp",
+  "name": "Pradhan Mantri Garib Kalyan Package : Insurance Scheme For Health Workers Fighting COVID-19",
+  "shortTitle": "PMGKP",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Health and Family Welfare",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide financial protection through insurance cover of ₹50,00,000/- to healthcare workers fighting COVID-19.",
+  "descriptionMd": "The scheme &amp;quot;Pradhan Mantri Garib Kalyan Package: Insurance Scheme for Health Workers Fighting COVID-19&amp;quot; by the Ministry of Health and Family Welfare, Government of India, aims to provide ₹50,00,000/- insurance cover to healthcare workers through financial protection against death or disability during COVID-19 duty.\n<br>",
+  "benefitsMd": "- **Insurance Coverage:** ₹50,00,000/- provided in case of death or permanent disability due to COVID-19.- **Risk Coverage:** Covers loss of life due to COVID-19; covers accidental death during COVID-19-related duty.\n<br>",
+  "eligibilityMd": "- The applicant must be a healthcare worker; including doctors, nurses, paramedics, and support staff.\n- The applicant must be directly involved in COVID-19 related duties.\n- The applicant must be a citizen of India.\n- The applicant must be working in a COVID-19 designated hospital or care facility.\n- The applicant must be registered under a government health program.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The concerned institution/department is informed about the claim.\n**Step 2:** The insurance company is intimated via email at &quot;nia.312000@newindia.co.in&quot;.\n**Step 3:** The claimant fills the [claim form](https://nhm.gov.in/New_Updates_2018/Om_and_orders/Pradhanmantri_Garib_Kalyan_Package/Pradhan%20Mantri%20Garib%20Kalyan%20Package-%20Insurance%20Scheme%20for%20Health%20Workers%20Fighting%20COVID-19.pdf) and attaches the required documents.\n**Step 4:** The claimant submits the form to the healthcare institution/organization.\n**Step 5:** The institution verifies, certifies, and forwards the claim to the competent authority.\n**Step 6:** The competent authority submits the claim to the insurance company for approval.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://nhm.gov.in/New_Updates_2018/Om_and_orders/Pradhanmantri_Garib_Kalyan_Package/Pradhan%20Mantri%20Garib%20Kalyan%20Package-%20Insurance%20Scheme%20for%20Health%20Workers%20Fighting%20COVID-19.pdf"
+    },
+    {
+      "title": "Claim Form",
+      "url": "https://nhm.gov.in/New_Updates_2018/Om_and_orders/Pradhanmantri_Garib_Kalyan_Package/Pradhan%20Mantri%20Garib%20Kalyan%20Package-%20Insurance%20Scheme%20for%20Health%20Workers%20Fighting%20COVID-19.pdf"
+    },
+    {
+      "title": "FAQ's",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3850af92f8d9903e7a4e0559a98ecc857/uploads/2020/05/2020050963.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://www.mofpi.gov.in/sites/default/files/pradhan_mantri_garb_kalyan_package.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

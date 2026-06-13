@@ -1,0 +1,35 @@
+{
+  "slug": "aavy",
+  "name": "Atal Awasiya Vidyala Yojana",
+  "shortTitle": "AAVY",
+  "level": "state",
+  "state": "Uttar Pradesh",
+  "nodalDept": "Labour Department, Uttar Pradesh",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The Atal Awasiya Vidyalaya Yojana is an initiative launched by the Uttar Pradesh government to provide free education to children of construction workers employed in the informal sector.",
+  "descriptionMd": "The Atal Awasiya Vidyalaya Yojana is an initiative launched by the Uttar Pradesh government to provide free education to children of construction workers employed in the informal sector. Under this scheme, two children of registered workers between the ages of 6 and 16 receive free residential education in dedicated schools.\n<br>\n\nThe UP Atal Awasiya Vidyalaya Yojana is a scheme that provides free education to poor children of construction workers in Uttar Pradesh. The scheme is currently being implemented in 18 districts of the state. The goal of the scheme is to provide these children with the opportunity to succeed in life and improve their standard of living",
+  "benefitsMd": "1. Free education, accommodation, and meals\n1. Medical facilities\n1. Sports and recreational activities\n1. Access to a nurturing environment that fosters personal growth",
+  "eligibilityMd": "1. Children destitute during the Corona period, identified by the Women Welfare Department, Lucknow.\n1. Children for the Chief Minister Child Service Scheme (General) are eligible.\n1. Orphan children and offspring of duly registered construction workers, who have completed at least 01 year (365 days) membership period of the board after registration.\n1. A maximum of 02 children per registered worker can avail educational benefits.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "> **How to get register and apply for the scheme**\n\n\n1. Applicant must visit the below offices\n\n  - Nearest labor office.\n  - Tehsildar of the concerned tehsil.\n  - Block Development Officer of the concerned development block.\n\n1. Get the application form and fill out the completely.\n1. Attach required documents in the prescribed format.\n1. Submit the application form in the same office.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.upbocw.in/pdf/adhisuchna/atal_awasiya_vidyalaya_scheme_100423.pdf"
+    },
+    {
+      "title": "Details",
+      "url": "https://www.upbocw.in/StaticPages/schemes.aspx#tab3"
+    },
+    {
+      "title": "Labor Department",
+      "url": "https://www.upbocw.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

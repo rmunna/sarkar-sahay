@@ -1,0 +1,31 @@
+{
+  "slug": "fatha",
+  "name": "Financial Assistance to Helpless Artists",
+  "shortTitle": "FAHA",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Sports, Youth and Cultural Activities Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, monthly financial assistance is given to artists and their dependents who are physically disabled, over 60 years old, have a monthly income of less than ₹600, and are unable to sustain themselves due to age or disability.",
+  "descriptionMd": "The “Financial Assistance to Helpless Artists” scheme was launched by the Sports, Youth and Cultural Activities Department, Government of Gujarat. The scheme aims to provide financial security to artists who are aged, physically disabled, and living in extreme poverty. Under this scheme, monthly financial assistance is provided to artists and their dependents who are physically disabled, above 60 years of age, have a monthly income of less than ₹600, and are unable to sustain themselves due to age or disability.\n<br>",
+  "benefitsMd": "Under this scheme, financial assistance is provided to artists to help them sustain themselves in old age or in case of disability.\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Gujarat.\n   1. The applicant must be an artist who has made significant contributions in the field of art and literature.\n   1. The applicant must be 60 years of age or above.\n   1. The applicant must have a monthly income of less than ₹600/- (₹7,200/- annually).\n   1. The applicant must be physically disabled.\n   1. The applicant must be in poor economic condition.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should write the application on plain paper. \n**Step 2:** Attach copies of all the mandatory documents (self-attest, if required) along with the application.\n**Step 3:** Submit the duly filled and signed application along with the documents to the Sports, Youth and Cultural Activities Department.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://sycd.gujarat.gov.in/schemes.htm"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

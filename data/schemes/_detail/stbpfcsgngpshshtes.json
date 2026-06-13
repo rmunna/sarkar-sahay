@@ -1,0 +1,31 @@
+{
+  "slug": "stbpfcsgngpshshtes",
+  "name": "S.T. Bus Pass Fee Concession Scheme For Government/ Non Government Primary, Secondary & Higher Secondary and Higher Technical Education Students",
+  "shortTitle": "STBPFCSGNGPSHSHTES",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide concession in bus fare fees to the students studying in Primary, Secondary, Higher Secondary, and Higher Secondary Technical Education in Government and Non-Government schools. The scheme is implemented by the Gujarat State Road Transport Corporation (GSRTC).",
+  "descriptionMd": "The scheme &quot;S.T. Bus Pass Fee Concession Scheme For Government/ Non Government Primary, Secondary &amp; Higher Secondary and Higher Technical Education Students&quot; was launched by the Education Department, Government of Gujarat. The scheme aims to provide concession in bus fare fees to the students studying in Primary, Secondary, Higher Secondary, and Higher Secondary Technical Education in Government and Non-Government schools. The scheme is implemented by the Gujarat State Road Transport Corporation (GSRTC). The application for this scheme is accepted online.\n<br>",
+  "benefitsMd": "Concession in Fees of the Buses of Gujarat State Road Transport Corporation (GSRTC).\n<br>",
+  "eligibilityMd": "- The applicant must be a resident of Gujarat.\n- The applicant must be a Student.\n- The applicant must be a Girl.\n- The applicant must be studying in Primary / Secondary / Higher Secondary / Higher Secondary Technical Education.\n- The applicant must be studying in a Government or Non-Government School.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the Official GSRTC E-Pass System website at [https://pass.gsrtc.in](https://pass.gsrtc.in). Alternatively, use the GSRTC mobile app (available on the Google Play Store).\n**Step 2:** From the list of &quot;Pass Type&quot; categories, select &quot;Student Pass&quot;. On the next page, click &quot;New Pass Request&quot;. \n**Step 3:** The online application form will open. In the form, fill in the following mandatory fields:\n***Personal Details***\n\n- Full name, complete postal address, date of birth, and gender.\n- Category details (General, SC, ST, SCBC) and educational qualification level.\n- Mobile number and email address for communication.\n\n***Organization/Institution Information***\n\n- Name and address of the educational institution or workplace related to the pass application.\n\n***Travel Route and Service Details***\n\n- Journey details including starting and destination points with route code. Add any via places and select the bus pass issue location.\n- Class of bus service required options include Express, AC Seater, AC Sleeper, City Service, Volvo, Luxury, etc.\n- Duration and number of days for the pass validity.\n\n**Step 4:** Upload the following mandatory attachments in the specified format and size.\nA recent passport-size photo (less than 10 KB in size).\n**Step 5:** The form displays fees for bus pass, ID card amount if applicable, and any toll charges. The student concession will be applied automatically. Make the payment via UPI or counter payment at bus depots.\n**Step 6:** Check the box agreeing to GSRTC&#39;s terms and conditions. Authenticate application submission by entering OTP sent to the registered mobile number. Submit the completed application form. An application number will be received for future tracking and status updates.\n<br>\n\n***Important Information***\n\n- Valid identity proof and enrollment certification from the educational institute may be required during verification.\n- Students are eligible for up to approximately 82.5% fare concession on the pass fare.\n- The pass is valid only on GSRTC buses as per the specified routes and class.\n- The online system supports registration, new applications, renewals, and application status inquiries.\n- Video tutorials and guides in Gujarati are available online to assist applicants throughout the process.\n- The GSRTC app facilitates easy access to pass details, bus schedules, and related services.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://education.gujarat.gov.in/Main/SchemesDetailsPage?id=EMQfBFS3NWF+lPDAa44IYw=="
+    },
+    {
+      "title": "GSRTC E-Pass System",
+      "url": "https://pass.gsrtc.in/ESCPS/frmStudentApplication.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

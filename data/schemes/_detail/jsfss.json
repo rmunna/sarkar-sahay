@@ -1,0 +1,27 @@
+{
+  "slug": "jsfss",
+  "name": "Jharkhand State Food Security Scheme",
+  "shortTitle": "JSFSS",
+  "level": "state",
+  "state": "Jharkhand",
+  "nodalDept": "Food, Public Distribution and Consumer affairs Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The \"Jharkhand State Food Security Scheme (JSFSS)\" by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, aims to ensure food security by providing subsidized/free rice to eligible Green Card holders.",
+  "descriptionMd": "The &quot;Jharkhand State Food Security Scheme (JSFSS)&quot; by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, aims to provide subsidized/free food grains to eligible beneficiaries. Through this scheme, food grain, primarily rice, is provided at a subsidized rate or free of cost to individuals holding a Green Card. The scheme is implemented by the Directorate of Food and Consumer Affairs, Ranchi.",
+  "benefitsMd": "1. Subsidized/free rice is provided to Green Card holders beneficiaries under JSFSS.\n1. Benefits are delivered directly through the Directorate of Food and Consumer Affairs.\n\n<br>\n\n**NOTE****:** Priority is given to individuals from economically weaker sections.",
+  "eligibilityMd": "1. The applicant must be a resident of Jharkhand.\n1. The applicant must possess a Green Card issued under JSFSS.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "1. Visit the nearest ration shop or designated enrollment center with the required documents.\n1. If an Aadhaar is not available, apply for Aadhaar enrollment at an authorized center.\n1. Submit the Aadhaar number or Aadhaar Enrolment Identification Slip during registration.\n1. Verify the eligibility and documents with the designated officer.\n1. Collect the food grains from the distribution center as per the monthly schedule.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/PDepartment/ViewDoc?id=D009DO003SD00625102023010457574"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

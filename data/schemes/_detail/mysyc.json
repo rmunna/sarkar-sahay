@@ -1,0 +1,27 @@
+{
+  "slug": "mysyc",
+  "name": "Mukhyamantri Yuva Swarojgar Yojana",
+  "shortTitle": "MYSYC",
+  "level": "state",
+  "state": "Chhattisgarh",
+  "nodalDept": "Commerce & Industries Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Business Entity"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Chief Minister Youth Self-Employment Scheme CG MMYSY Yojana 2023 This scheme has been started by the state government to make the youth of Chhattisgarh self-employed and make them economically independent and self-reliant.",
+  "descriptionMd": "Chief Minister Youth Self-Employment Scheme CG MMYSY Yojana 2023 This scheme has been started by the state government to make the youth of Chhattisgarh self-employed and make them economically independent and self-reliant. To provide overall assistance like financial assistance, guarantee, training, and follow-up to the youth of the state in setting up industry service and business as self-employment, so that according to their ability and working capacity, they can easily help and get success in setting up their own enterprises. So that he can contribute to the economic progress while feeling his own responsibility",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant should be a native of Chhattisgarh state.\n   1. Applicant must have passed minimum 8th class.\n   1. The age of the applicant should be between 18 to 35 years as of the date of application. (5 years relaxation in maximum age limit for SC/ST/OBC/Women/PWD entrepreneurs/Naxalite affected family members/Retired soldiers)\n   1. The applicant should not be a defaulter of any nationalized bank / financial institution / cooperative bank.\n   1. Only one person from a family will be able to apply.\n   1. The annual income of the applicant&amp;#39;s family is Rs. 3,00,000/- (In the definition of family, the applicant&amp;#39;s husband/wife and children will be included (In case the applicant is unmarried, the income of the applicant&amp;#39;s parents, unmarried siblings will also be included)\n   1. Applicants who have taken benefit of grant under PMRYO, PMROSRIKA or any other scheme of the Government of India / State Government will not be eligible.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://industries.cg.gov.in/pdf/mmysy/mmysy.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "kplp",
+  "name": "Kamban Pugazh Literary Prize",
+  "shortTitle": "KPLP",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Arts and Culture Department, Puducherry",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The scheme \"Kamban Pugazh Literary Prize\" was launched by the Arts and Culture Department, Puducherry. The scheme aims to provide prizes of ₹10,000/- and 10 awards to the author in the field of novels, short stories, drama, poems & prose in Tamil.",
+  "descriptionMd": "The Arts and Culture Department, Puducherry launched the &amp;quot;Kamban Pugazh Literary Prize&amp;quot; scheme. The objective of this scheme is to provide prizes of ₹10,000/- and 10 awards to authors/writers in the field of novels, short stories, drama, poems &amp;amp; prose in Tamil. The applications are accepted offline in the prescribed form available at the Director of Art and Culture Department.",
+  "benefitsMd": "- Financial Assistance of ₹10,000/-. \n- No. of Awards: 10",
+  "eligibilityMd": "1. The applicant should be an author/writer.\n1. The applicant should be a native of Puducherry by virtue of birth or continuous residence of not less than five years.\n1. The applicant should publish the best novel, short story, drama, poetry and prose.\n1. First edition of the book should be published between 1st January and 31st December.\n1. The publication must be of creative literature of their own.\n1. The book should not be an abridged version of an imitation or translated version of another book or synopsis.\n1. The literary critics/ thesis research presented to university degrees or examinations are not eligible for award\n1. The author once awarded is not eligible to participate in the award for the next four consecutive years.\n1. The books sent for the prize should be those not awarded by other Government / Non-Government Organizations and Voluntary Literary Organizations.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant downloads the [application form](https://art.py.gov.in/sites/default/files/kamban202367.pdf) from the [official website](https://art.py.gov.in/application-kamban-award). \n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Director of Art and Culture Department, No.1, Roman Roland Road, Puducherry 605 001.\n**Step 4:** Request a receipt or acknowledgment from the Director of Art and Culture Department to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n**NOTE:** An advertisement will be made in the first week of January the eligible writers to submit their last year&#39;s book by January 31.",
+  "references": [
+    {
+      "title": "Citizens Charter",
+      "url": "https://art.py.gov.in//sites/default/files/ecit1.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://art.py.gov.in/sites/default/files/kamban202367.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

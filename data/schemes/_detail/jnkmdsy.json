@@ -1,0 +1,35 @@
+{
+  "slug": "jnkmdsy",
+  "name": "Jharkhand Nirman Karmakar Mrityu/Durghatana Sahayata Yojana",
+  "shortTitle": "JNKMDSY",
+  "level": "state",
+  "state": "Jharkhand",
+  "nodalDept": "Labour, Employment, Training and Skill Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Jharkhand Nirman Karmakar Mrityu/Durghatana Sahayata Yojana\" is a 100% State Sponsored scheme by the Department of Labour, Employment, Training & Skill Development Govt of Jharkhand. The scheme provides social security to all registered workers in the age group of 18-60 years.",
+  "descriptionMd": "&quot;Jharkhand Nirman Karmakar Mrityu/Durghatana Sahayata Yojana&quot; is an Insurance Scheme by the Department of Labour, Employment, Training &amp; Skill Development Govt of Jharkhand. The scheme is also known as the &quot;Jharkhand Construction Worker Death/Accident Assistance Scheme&quot; in English. This is a 100% State Sponsored Scheme. Only the residents/domicile of the state of Jharkhand can apply to this scheme. The applications for this scheme are accepted online through the official website of the department (http://shramadhan.jharkhand.gov.in). The scheme provides social security to all registered workers in the age group of 18-60 years.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant should be a domicile in the state of Jharkhand.\n1. The applicant should be a registered Construction Worker (Nirman Shramik / Nirman Karmakar).\n1. The applicant should be in the age group of 18-60 years.\n1. The applicant should have worked for at least 90 days.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://shramadhan.jharkhand.gov.in/schemmeDetailsShow.action"
+    },
+    {
+      "title": "Application Process",
+      "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/BOC_SCHEME_BENEFIT_APPLICANT_SIDE.pdf"
+    },
+    {
+      "title": "District-Wise Contact Details Of Labour Offices",
+      "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/labourcontactdetails.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "msygntdnt",
+  "name": "Mahila Samriddhi Yojana (for women only) GNTDNT",
+  "shortTitle": "MSYGNTDNT",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to create self-employment for women of nomadic and denotified castes and support women entrepreneurs doing independent business. Through this scheme, microfinance is provided to women beneficiaries to pursue a business/occupation of their choice.",
+  "descriptionMd": "The scheme &quot;Mahila Samriddhi Yojana&quot; by the Social Justice and Empowerment Department, Government of Gujarat, aims to create a microfinance scheme for women of target groups and women entrepreneurs doing independent business to create self-employment for women of nomadic and denotified castes. Under this scheme, women beneficiaries will be able to pursue a business/occupation of their choice. Gujarat Nomadic and Denotified Castes Development Corporation implement the scheme.\n<br>",
+  "benefitsMd": "1. The maximum loan limit will be up to ₹1,25,000/-.\n1. The interest rate will be 4% per annum.\n1. Under this scheme, 100% loan of the business/occupation amount is provided.\n1. The loan amount will consist of 95% National Corporation contribution, 5% State Government contribution and zero beneficiary contribution.\n\n> **Repayment:** The loan amount will have to be repaid in 48 equal monthly instalments, including interest.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a woman from a Nomadic or Denotified Caste.\n1. The annual income limit of the family for income eligibility will be up to ₹3,00,000/- with effect from 1/4/2018. At least 50 percent of the total loan amount will be allocated for families having an annual income of up to ₹1,50,000/-.\n1. The applicant&#39;s age should be at least 21 years and not more than 50 years as on the date of application.\n1. The applicant must have experience in a technical and skilled trade/business.\n1. The applicant will have to provide suitable collateral to get the loan.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1: Visit the Official Portal**\n\n\n  - Go to the [Official Website](https://gndcdconline.gujarat.gov.in/) Gujarat Nomadic and Denotified Tribes Development Corporation.  - Scroll down on the homepage, find the &quot;Mahila Samriddhi Yojana&quot; and click on &quot;Apply Now&quot;.\n  - You will be directed to the application form.\n\n\n**Step 2: Access and Fill Out the Application Form**\n\n\n  - Complete all sections under &quot;Applicant information,&quot; including full name, father/husband&#39;s name, gender, complete address details, contact numbers, Aadhaar No., parents/husband/guardian occupation and income details. Also provide Date of Birth, Age, Caste, and Subspecies. Also, if you are disabled and provide a percentage.\n  - If you have taken a past loan, select &quot;Yes&quot; or &quot;No&quot;. If you selected &quot;Yes&quot;, provide loan details (date, amount, paid, remaining) and your account number.\n  - Provide bank account number, bank name, branch name, name as per account, account type (Saving/Current), MICR code, and IFSC code.\n\n\n**Step 3: Upload Documents**\n\n\n  - Go to &quot;Upload Photo&quot; in the menu, then upload your photograph and signature (each file less than 15 KB). Click &quot;Save Photo and Signature&quot;\n  - Navigate to &quot;Upload Document&quot; in the menu and upload all required files (PDF, JPG, JPEG, PNG only).\n\n\n**Step 4: Review and Final Submission**\n\n\n  - Carefully review each module. Use the preview option to examine the application before final submission. Fill out the provided &quot;CAPTCHA&quot; and Click on “Submit”.\n\n\n**Track and Review Status**\n\n\n  - Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.\n  - Go to the [Official Website](https://gndcdconline.gujarat.gov.in/) Gujarat Nomadic and Denotified Tribes Development Corporation.  - Scroll down and locate the Know App Status. Click on &quot;Know App Status&quot;.\n  - Select the Scheme name, Enter App No., and Birth Date. Fill out the Captcha and click on Submit.\n\n\n<br>",
+  "references": [
+    {
+      "title": "Official Guidelines",
+      "url": "https://sje.gujarat.gov.in/gntdnt/Women-affluence-scheme"
+    },
+    {
+      "title": "Online Application",
+      "url": "https://gndcdconline.gujarat.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

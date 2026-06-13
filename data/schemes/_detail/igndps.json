@@ -1,0 +1,35 @@
+{
+  "slug": "igndps",
+  "name": "Indira Gandhi National Disability Pension Scheme",
+  "shortTitle": "IGNDPS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Rural Development",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide social security pensions to divyangjans aged 18 and above who belong to a poor family (BPL) in society.",
+  "descriptionMd": "The &quot;Indira Gandhi National Disability Scheme&quot; was launched in February 2009 by the Ministry of Rural Development, headed by the central government, to support disabled people in our country. This scheme, introduced under the National Social Assistance Program provides a monthly pension to disabled people for the prosperity of their lives. Any disabled person whose age is more than 18 years, and with a disability of 80% or more belonging to the poverty line can apply for this scheme. \n<br>",
+  "benefitsMd": "- A pension of ₹300/- per month is provided to Divyangjan between 18-79 years. \n- A pension of ₹500/- per month will be provided to Divyangjan aged 80 years and above. \n\n<br>",
+  "eligibilityMd": "1. The age of the applicant should be 18 years and above.\n1. The applicant should be a resident of India.\n1. The applicant should be a physically or mentally disabled person.\n1. The applicant’s disability should be more than 80%.\n1. Dwarfs are also eligible for this scheme.\n1. The applicant should belong to the below poverty line.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 01:** Applicants can apply online through the UMANG App or the official [National Social Assistance Programme (NSAP) Portal. ](https://www.dord.gov.in/offerings/schemes-and-services/details/national-social-assistance-programme-nsap-wN1cTNtQWa)\n**Step 02:** Login using the registered mobile number and OTP/MPIN.\n**Step 03:** Search for “NSAP” or “Indira Gandhi National Disability Pension Scheme (IGNDPS)”.\n**Step 04:** Click on “Apply Online”.\n**Step 05:** Fill in the required details such as personal information, Aadhaar number, bank account details, and disability-related information.\n**Step 06:** Choose the preferred mode of pension payment.\n**Step 07:** Upload the required documents and photograph.\n**Step 08:** Review the application details and click on “Submit” to complete the application process.\n**Step 09:** Applicants may also track the application and beneficiary payment status through the UMANG platform.\n<br>",
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "https://nsap.dord.gov.in/Guidelines/dps.pdf"
+    },
+    {
+      "title": "Office Memorandum",
+      "url": "https://nsap.dord.gov.in/Guidelines/social_audit_guidelines.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://nsap.dord.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

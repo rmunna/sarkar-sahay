@@ -1,0 +1,44 @@
+{
+  "slug": "gssa-ds",
+  "name": "\"Grant to Silk Societies/Agency\" Component of the \"Development of Silk\" Scheme",
+  "shortTitle": "GSSA-DS",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "District Industries Centre Organization",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Registered Societies",
+    "Business Entity"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"Grant to Silk Societies/Agency\" aims to encourage the silk weaving artisans to form registered societies/agencies to develop a cluster approach among the artisans which is effective and advisable at present for the successful development of their business.",
+  "descriptionMd": "The &quot;Grant to Silk Societies/Agency&quot; Component of the &quot;Development of Silk&quot; Scheme by the Department of Industries and Commerce, Union Territory of Puducherry, aims to encourage the silk weaving artisans to form registered societies/agencies to develop a cluster approach among the artisans which is effective and advisable at present for the successful development of their business.",
+  "benefitsMd": "Grant of ₹2,00,000 per annum for 5 years, allocated for Administrative and Marketing expenses.",
+  "eligibilityMd": "- The applicant should be a Society/Agency.\n- The Society/Agency should be registered under either the Co-operative Society Act or the Society Act.\n- The members of the Society/Agency should be silk-weaving artisans.\n- The Society/Agency should exclusively deal with silk products produced by artisans in Puducherry.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should take print of the [prescribed format](https://dic.py.gov.in/application-forms-download-area) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** The interested applicant should visit (on a working day, and during office hours) the District Industries Centre (Thattanchavady, Puducherry - 605 009), and submit the duly filled and signed application form and the documents to the concerned authority.\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dic.py.gov.in/development-of-silk"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://dic.py.gov.in/sites/default/files/citizencharter.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://dic.py.gov.in/application-forms-download-area"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://dic.py.gov.in/contact-us"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://industry.py.gov.in/grievance-redressal-mechanism"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

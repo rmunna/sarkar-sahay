@@ -1,0 +1,35 @@
+{
+  "slug": "pmrbp",
+  "name": "Pradhan Mantri Rashtriya Bal Puraskar",
+  "shortTitle": "PMRBP",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry of Women and Child Development",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The Pradhan Mantri Rashtriya Bal Puraskar (PMRBP) is organized to celebrate the energy, determination, ability, zeal, and enthusiasm of our children.",
+  "descriptionMd": "The Pradhan Mantri Rashtriya Bal Puraskar organized by The Ministry of Women and Child Development Government of India has conferred the award to children for their exceptional achievement. This award is the highest civilian honor for children in India. It is awarded annually to children in the age group of 5-18 years for their exceptional abilities and outstanding achievements in seven categories:\n\n- Bravery\n- Art &amp; Culture\n- Environment\n- Innovation\n- Science &amp; Technology\n- Social Service\n- Sports\n\n<br>\n\n> **Ceremony Details**\n\n\n1. The Awards to be announced on December 26 on ‘Veer Bal Diwas’.\n1. The awards will be conferred by H.E., President of India at New Delhi at a special ceremony/function to be held in January every year.\n1. Number of Award will be 25, however, any relaxation to this maximum number may be permitted at the discretion of the National Selection Committee.",
+  "benefitsMd": "- Medal\n- Certificate and citation",
+  "eligibilityMd": "1. A child should be an Indian Citizen.\n1. A child above the age of 5 years and not exceeding 18 years (as of 31st July of respective year).\n1. The act/incident/achievement should have been within 2 years of the last date of receipt of application/nomination for the year of consideration.\n1. The child must have made outstanding contributions in any of the seven categories specified above\n\n  - Bravery.\n  - Art &amp; Culture.\n  - Environment.\n  - Innovation.\n  - Science &amp; Technology.\n  - Social Service.\n  - Sports.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Registration:**\n> **Step-1:** Visit the [official website](https://awards.gov.in/).\n\n> **Step-2:** Click on the [Registration ](https://awards.gov.in/Registration/SignUp)button.\n\n> **Step-3:** Choose type Individual or  Organization.\n\n> **Step-4.1:** Under Individual category provide the following details. \n\n>                - Name as per Aadhaar/Valid Identity Proof.\n\n>                - Date of Birth.\n\n>                - Nominator/Applicant Type.\n\n>                - Mobile No.\n\n>                - Email ID.\n\n>                - Aadhaar Number.\n\n> **Step-4.2:** Under Organization category provide the following details.\n\n>                - Type of Organization.\n\n>                - Name of the Authorized Person as per Aadhaar/Valid Identity Proof\n\n>                - Date of Birth.\n\n>                - Brief Description about the Organization (100 Words)\n\n>                - Designation\n\n>                - Mobile No.\n\n>                - Email ID.\n\n>                - Aadhaar Number.\n\n> **Step-5:** Submit.\n\n            \n**Apply:**\n> **Step-1:** Visit the [official website](https://awards.gov.in/).\n\n> **Step-2:** Click on l[ogin button on](https://awards.gov.in/Login) portal and login using the credentials. \n\n> **Step-3:** From the list of awards, select scheme name, then click &quot;Nominate / Apply Now&quot;.\n\n> **Step-4:** On the next page, fill in all the mandatory fields in the online application form, and then click &quot;Submit&quot;.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://awards.gov.in/Home/AwardLibrary"
+    },
+    {
+      "title": "Registration",
+      "url": "https://awards.gov.in/Registration/SignUp"
+    },
+    {
+      "title": "Login",
+      "url": "https://awards.gov.in/Login"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

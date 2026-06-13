@@ -1,0 +1,31 @@
+{
+  "slug": "sotooc",
+  "name": "Sanctioning of Tricycles of Orthopedically Challenged",
+  "shortTitle": "SOTOOC",
+  "level": "state",
+  "state": "Andhra Pradesh",
+  "nodalDept": "Dept of Social Welfare, WCD",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The \"Sanctioning of Tricycles of Orthopedically Challenged\" scheme aims to provide tricycles to orthopedically challenged individuals to enhance their mobility and independence. This initiative ensures that eligible individuals receive the necessary support to lead active and self-reliant lives.",
+  "descriptionMd": "The A.P. Differently Abled &amp; Senior Citizens Assistance Corporation, Andhra Pradesh, under its Action Plan 2017-18, aims to provide tricycles to orthopedically challenged individuals to enhance their mobility and independence. The tricycles are distributed by the Assistant Directors, Department for the Welfare of Differently Abled &amp; Senior Citizens, and District Managers, A.P. Differently Abled &amp; Senior Citizens Assistance Corporation.",
+  "benefitsMd": "- Eligible beneficiaries receive a free tricycle to improve their mobility and independence. \n<br>",
+  "eligibilityMd": "1. The applicant should have 40% or above disability and meet the eligibility criteria as specified in the [RPwD Act, 2016](https://cdnbbsr.s3waas.gov.in/s3e58aea67b01fa747687f038dfde066f6/uploads/2023/10/202310161053958942.pdf).1. The applicant should be eligible for sanction only once in three years.\n1. The applicant&#39;s family annual income should not exceed ₹3,00,000/-.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 01:** Visit the official website: [https://apdascac.ap.gov.in](https://apdascac.ap.gov.in)\n**Step 02:** On the homepage, click on &quot;[APDASCAC Schemes](https://apdascac.ap.gov.in/APDASCAC-Schemes/)&quot;.\n**Step 03:** Select the &quot;SANCTION OF TRICYCLES&quot; option.\n**Step 04:** Click on &quot;[Apply Now](https://apdascac.ap.gov.in/Forms/tricycles/)&quot; to begin the application process.\n**Step 05:** Fill in the required details and submit your application.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://apdascac.ap.gov.in/Schemes/tricycles/"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://apdascac.ap.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

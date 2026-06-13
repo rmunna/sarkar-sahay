@@ -1,0 +1,27 @@
+{
+  "slug": "ipuk",
+  "name": "Immunization Programme - Uttarakhand",
+  "shortTitle": "IPUK",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Medical Health And Family Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "This initiative aims to protect every child from preventable, life-threatening diseases by providing free and timely vaccination as per the National Immunization Schedule.",
+  "descriptionMd": "The “Immunization Programme” is an initiative under the National Health Mission (NHM) implemented by the Department of Medical Health and Family Welfare, Government of Uttarakhand. This initiative aims to protect every child from preventable, life-threatening diseases by providing free and timely vaccination as per the National Immunization Schedule.\n<br>",
+  "benefitsMd": "To protect children from various life-threatening diseases, free vaccinations are provided under the Universal Immunization Programme (UIP) as per the prescribed schedule below:\n***National Immunization Schedule:***\n**Vaccine****Dose****Vaccination Age**BCG1 doseAt birth, Upto one yearOPV5 dosesAt birth, 6 week, 10 week, 14 week &amp;amp;amp;amp; 16-23 monthsFIPV3 doses6 week, 14 week, &amp;amp;amp;amp; 9 monthHepatitis-B1 doseAt birthPentavalent3 doses6 week, 10 week, 14 weekRVV3 doses 6 week, 10 week, 14 weekPCV3 doses6 week, 10 week, 14 weekMR2 doses9 month &amp;amp;amp;amp; 16-23 monthJE(In endemic districts only)2 doses9 month &amp;amp;amp;amp; 16-23 monthDPT2 doses16-23 month &amp;amp;amp;amp; 5-6 yearTd2 doses10 year, 16 year<br>",
+  "eligibilityMd": "1. All children of Uttarakhand aged 0–16 years who require vaccination are eligible under the scheme.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "The vaccination facility is available to the entire community free of cost at government health institutions, including health centres, sub-centres, post-natal centres, and urban health centres. All children aged 0–16 years can avail of these benefits by registering for vaccination.\nFor registration, the child must be taken to the concerned government hospital, and the birth certificate or card issued by the ANM is required.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 130)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

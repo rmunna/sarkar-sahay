@@ -1,0 +1,27 @@
+{
+  "slug": "atfy",
+  "name": "Adventure Training for Youth",
+  "shortTitle": "ATFY",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department of Youth Welfare and Provincial Protection Corps",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to empower the youth of Uttarakhand by providing free adventure training programs that develop their skills and capabilities through various adventure activities.",
+  "descriptionMd": "The &amp;quot;Adventure Training for Youth&amp;quot; scheme was launched by the Department of Youth Welfare and Prantiy Rakshak dal (PRD), Government of Uttarakhand. The scheme aims to empower the youth of Uttarakhand by providing free adventure training programs that develop their skills and capabilities through various adventure activities.\n<br>",
+  "benefitsMd": "Under this scheme, free training is provided to the youth of the state in various adventure-based activities such as White Water River Rafting Guide Training, Disaster Management and Disaster Rescue Operations, First Aid, Burma Bridge, Trekking, etc.\n<br>",
+  "eligibilityMd": "1. The applicant must be a permanent resident of Uttarakhand.\n1. The applicant must be a male or female. \n1. The applicant must be between 15 to 30 years of age as on 1st March, 2023.\n1. The applicant must have passed at least class 8th.1. The applicant must be physically fit to undergo adventure training.\n1. The applicant must not be suffering from Heart disease, Asthma, Epilepsy, or have rods implanted in arms or legs.\n1. The applicant will be given preference if they belong to volunteer of PARD, member of NSS, NCC, member/official of Yuvak or Mahila Mangal Dal.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- The department invites applications annually through newspapers. \n  - Interested candidates must obtain the application form from the PRD office and submit it along with the following documents: a photocopy of their educational qualification certificate, two passport-size color photographs, Aadhaar card, permanent residence certificate, and a health certificate issued by a medical officer. \n  - Once the documents are verified, eligible candidates are sent for training through the District Youth Welfare and PRD officers.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 106)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "sbm-g-i",
+  "name": "Swachh Bharat Mission – Grameen PHASE I",
+  "shortTitle": "SBMGPI",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Jal Shakti",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The scheme aims to eliminate open defecation and improve rural sanitation by supporting toilet construction and promoting usage among poor and marginalized rural households.",
+  "descriptionMd": "Launched in 2014, the scheme &amp;quot;Swachh Bharat Mission – Grameen (Phase I)&amp;quot; by the Department of Drinking Water and Sanitation, Ministry of Jal Shakti, Government of India, aims to eliminate open defecation in rural India through behavioral change and construction of household and community toilets. Through this scheme, financial assistance and awareness interventions for toilet construction were provided to poor, underprivileged, and marginalized households in rural areas.\n**Objectives:**\n\n   1. To bring about mass-scale behavior change regarding sanitation and hygiene\n   1. To ensure the construction and usage of household-owned and community-owned toilets\n   1. To establish an accountable mechanism for achieving ODF (Open Defecation Free) India\n   1. To promote Solid and Liquid Waste Management (SLWM)\n\n<br>",
+  "benefitsMd": "1. ₹12,000 financial assistance per toilet to rural households for construction.\n1. Enhanced rural sanitation coverage through individual and community toilets.\n1. Significant reduction in open defecation practices across India.\n\n**Activities under the Scheme:**\n\n- Construction of Individual Household Latrines (IHHL)\n- Construction of Community Sanitary Complexes (CSCs)\n- Solid Liquid Waste Management (SLWM) activities\n- Information, Education and Communication (IEC) \n- Human Resource Development (HRD) activities\n\n<br>",
+  "eligibilityMd": "- The applicant should be from a rural household that lacked a toilet before the scheme.\n- The applicant should belong to poor, underprivileged, or marginalized sections.\n\n> **Note:** Preference given to households led by women, elderly, disabled, or socio-economically weaker sections.\n\n<br>",
+  "exclusionsMd": "- Households already possessing functional toilets were not eligible for the financial assistance.\n\n<br>",
+  "applicationMode": "Online",
+  "applicationMd": "##### ***Step 1:********* ***Register on the UMANG Portal***\n- Visit the [official website](https://web.umang.gov.in/landing/) of UMANG. In the top right corner of the landing page, click &quot;[Register](https://web.umang.gov.in/web_new/register).&quot; You will be taken to the Registration Page.\n##### ***Step 2:********* ***Mobile Number Verification and MPIN Creation***\n- You will be redirected to the mobile number verification page. Enter your mobile number and get it verified via OTP. Create an MPIN to complete the registration process. You will be taken to the UMANG homepage. [Login](https://web.umang.gov.in/web_new/login) using your Mobile Number and MPIN.\n##### ***Step 3:********* ***Accessing Services on UMANG***\n- In the tabs provided at the bottom of the page, click on the &quot;All Services&quot; tab. From the list of departments, click on &quot;Department of Scientific and Industrial Research&quot;.\n##### ***Step 4:********* ***Applying for a Specific Service***\n- Under the selected department, choose the service you want to apply for. You will be taken to the Online Application Form.\n##### ***Step 5:********* ***Completing the Application***\n- In the application form, fill in all the mandatory fields and upload all the required documents in the specified format and size.\n##### ***Step 6:********* ***Review and Confirmation***\n- Carefully review all the information provided and the documents uploaded. Make any necessary corrections, if required. Acknowledge and agree to the terms and conditions, declaration, and privacy policy, if any.\n##### ***Step 7:********* ***Submitting the Application***\n- Click the &quot;Submit&quot; or &quot;Apply&quot; button to submit your application. You&#39;ll receive a confirmation message upon successful submission of the application.\n<br>",
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "https://swachhbharatmission.gov.in/sbmcms/writereaddata/images/pdf/Guidelines/Complete-set-guidelines.pdf "
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

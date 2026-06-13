@@ -1,0 +1,27 @@
+{
+  "slug": "mmbpybb",
+  "name": "Mukhya Mantri Balika Poshak Yojna",
+  "shortTitle": "MMBPYBB",
+  "level": "state",
+  "state": "Bihar",
+  "nodalDept": "Education Department",
+  "schemeFor": null,
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The \"Mukhya Mantri Balika Poshak Yojna\" is a government initiative launched to encourage the enrollment and retention of girl students in schools by providing them with school uniforms.",
+  "descriptionMd": "Introduced in 2006-07, the &amp;quot;Mukhya Mantri Balika Poshak Yojna&amp;quot; aims to promote education among girl children by addressing barriers to school attendance, such as the lack of proper clothing. Under the scheme, girl students enrolled in Classes VI to VII in government schools receive a pair of school uniforms. This initiative seeks to improve enrollment, retention, and educational outcomes for girls.\n&lt;br&gt;\n\n&lt;br&gt;",
+  "benefitsMd": "- A pair of school uniforms to girls in Classes VI to VII.",
+  "eligibilityMd": "- The applicant must be a resident of Bihar.\n  - The applicant must be a girl student.\n  - She should be enrolled in Classes VI or VII.\n  - Enrollment must be in a government school within the state.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "- Contact the concerned school Administration to avail the scheme benefits.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://state.bihar.gov.in/educationbihar/Content.html?links&page=FACTS_SCHEMES"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

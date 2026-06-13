@@ -1,0 +1,35 @@
+{
+  "slug": "tlsbgtkvn",
+  "name": "Term Loan Scheme (GTKVN) ",
+  "shortTitle": "TLSGTKVN",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to promote self-employment among individuals from the Thakor and Koli communities by providing financial assistance up to ₹10,00,000/- for agriculture and allied activities, small-scale businesses, craftsmanship, traditional occupations, and service-based businesses/trades.",
+  "descriptionMd": "The scheme “Term Loan Scheme” is implemented by the Gujarat Thakor and Koli Vikas Nigam (GTKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to promote self-employment among individuals from the Thakor and Koli communities by providing financial assistance for agriculture and allied activities, small-scale businesses, craftsmanship, traditional occupations, and service-based businesses/trades. Under this scheme, beneficiaries can avail loans at concessional interest rates to purchase equipment, raw materials, or working capital.\n<br>",
+  "benefitsMd": "- **Loan Amount:** Loans up to ₹10,00,000/- are provided for eligible small businesses.- **Interest Rate:** Interest on the loan will be charged at 6% up to ₹5,00,000/-.- **Loan Coverage:** Government share 95% of project cost, and beneficiary share 5% margin money- **Loan Tenure:**\tThe loan amount will have to be repaid in 60 equal monthly installments including interest.- **Guarantor:** One guarantor required\n<br>",
+  "eligibilityMd": "1. The applicant should be a resident of Gujarat.\n1. The applicant should belong to Thakor or Koli community.\n1. The applicant’s annual family income should not exceed ₹3,00,000/-.\n1. The applicant’s age should be between 21 and 50 years. \n1. The applicant must have experience/skilled in the proposed trade or business.\n1. The applicant will have to provide suitable collateral to get the loan.\n\n> **Note:** At least 50% of the total loan amount will be allocated for families with annual income up to ₹1,50,000/-.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the [official website](https://gtkdconline.gujarat.gov.in/) of the Gujarat Thakor and Koli Vikas Nigam.\n**Step 2:** On the top menu bar, click on &quot;Apply Now&quot;.\n**Step 3:** Click on the loan scheme name. \n**Step 4:** Select the loan category and fill in the loan amount.\n**Step 5:** Fill out the Application Form, enter the following details:\n\n- Personal Information: Name, gender, date of birth, caste, etc.\n- Address Information: Permanent and correspondence address\n- Income Details: Monthly family income and source\n- Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)\n- Bank Account Details: For loan disbursement\n\n**Step 6:** Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.\n**Step 7:** Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.\n**Step 8:** Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.gujarat.gov.in/gtkvn/Schemes/1454?lang=English"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://sje.gujarat.gov.in/gtkvn/Home?lang=English"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

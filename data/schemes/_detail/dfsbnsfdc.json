@@ -1,0 +1,27 @@
+{
+  "slug": "dfsbnsfdc",
+  "name": "Direct Finance Scheme by NSFDC (GSCDC)",
+  "shortTitle": "DFSBNSFDC",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, loans are offered at a low interest rate, ranging from 1% to 5%, specifically for self-employment to scheduled caste (SC) individuals.",
+  "descriptionMd": "The “Direct Finance Scheme by NSFDC (GSCDC)” scheme was launched by the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to provide concessional credit facilities to Scheduled Caste persons for self-employment opportunities. Under this scheme, loans are provided at subsidized rates of interest ranging from 1% to 5%, enabling beneficiaries to start their own income-generating ventures.\n<br>",
+  "benefitsMd": "- Provide a loan for self-employment to a scheduled caste person at a low interest rate of just 1% to 5%.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Gujarat.\n1. The applicant must belong to the Scheduled Caste (SC) community.\n1. The applicant must be unemployed. \n1. The applicant’s annual family income should not exceed ₹3,00,000.\n\n<br>\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n\n- Visit the Gujarat Scheduled Caste Development Corporation, Gandhinagar [official website](https://gscdconline.gujarat.gov.in/Account/ApplicationLogin). - Click on the &quot;New user (Register)&quot;.\n- Fill the registration form:  Email ID, Mobile Number, Password for login, Confirm Password.\n- Click on the &quot;Submit.\n- After successful registration, User ID and Password will be generated.\n\n> **Login and Application Process:**\n\n\n- Enter User Name, Password, and Captcha Code.\n\n\n- After login, schemes applicable to your caste will be displayed.\n- Click on the scheme you want to apply for.\n- Fill out the &quot;Application Form&quot; and upload the required documents\n- Click Save Application. The system will generate an Application Number.\n- Click Print Application.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

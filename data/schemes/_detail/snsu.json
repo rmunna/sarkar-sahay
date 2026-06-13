@@ -1,0 +1,27 @@
+{
+  "slug": "snsu",
+  "name": "Sanitary Napkin Scheme",
+  "shortTitle": "SNSUK",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department Of Woman Empowerment & Child Development",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to provide sanitary napkins to adolescent girls and women at subsidized rates through Anganwadi centres across the state. Under this scheme, sanitary napkins are made available to adolescent girls and women at a cost of ₹6.00 through Anganwadi centres.",
+  "descriptionMd": "The scheme &amp;quot;Sanitary Napkin Scheme&amp;quot; has been launched by the Department of Women Empowerment and Child Development, Government of Uttarakhand. The scheme aims to provide sanitary napkins to adolescent girls and women at subsidized rates through Anganwadi centres across the state.\n<br>",
+  "benefitsMd": "- Sanitary napkins are distributed to adolescent girls/women at a cost of ₹6/-.\n\n<br>",
+  "eligibilityMd": "All adolescent girls and women are eligible to purchase sanitary napkins at subsidized rates from Anganwadi centres.\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "Sanitary napkins can be purchased at subsidized rates from Anganwadi centres.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 36)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

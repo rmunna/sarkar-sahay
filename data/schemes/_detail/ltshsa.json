@@ -1,0 +1,35 @@
+{
+  "slug": "ltshsa",
+  "name": "Loans to Tribal Students for Higher Studies Abroad",
+  "shortTitle": "LTSHSA",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Tribal Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme's purpose is to offer financial assistance to tribal students for higher education abroad. It provides a loan of up to ₹15,00,000 at a 4% annual interest rate.",
+  "descriptionMd": "The &quot;Loans to Tribal Students for Higher Studies Abroad&quot; scheme was launched by the Tribal Development Department, Government of Gujarat. The scheme aims to provide financial assistance to tribal students who wish to pursue higher education in foreign universities. Through this scheme, eligible Scheduled Tribe (ST) students can avail a loan at a concessional interest rate of 4% per annum.\n<br>",
+  "benefitsMd": "**Monetary Benefit:**\n\n- Loan of up to ₹15,00,000 or the actual cost of study/training abroad, whichever is lower.\n\n**Interest Rate:** \n\n- 4% per annum.\n\n**Penalty Interest:** \n\n- 2.5% per annum for late repayment.\n\n**Beneficiary Contribution:** \n\n- No contribution is required from the beneficiary.\n\n**Repayment Terms:**\n\n- Repayment to be made in 60 monthly installments.\n- Repayment starts 6 months after completion of studies.\n- Early repayment is permitted.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Gujarat.\n1. The applicant must be a student. \n1. The applicant must belong to the Scheduled Tribe (ST) category.\n1. The applicant must have secured special merit in Matriculation, Higher Secondary, Indian School Certificate, or its equivalent examination.\n1. The applicant must have secured admission to a recognized foreign university for higher education.\n1. The applicant must have passed the Higher Secondary Certificate (HSC) or equivalent examination.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "##### **Registration Process**\n\n- Visit the Gujarat Tribal Development Corporation [official website](https://adijatinigam.gujarat.gov.in/home). - Click on the &quot;[APPLY FOR LOAN](https://adijatinigam.gujarat.gov.in/gtdcloan)&quot;.- Select the scheme name &quot;Foreign Study&quot;.\n- Fill the registration form: Full Name (as per Aadhaar Card), Gender, Date of Birth, Aadhaar Number, Mobile Number, Uder name, Password for login, Confirm Password.\n- Click on the &quot;Sign Up.\n- After successful registration, User ID and Password will be generated.\n\n##### **Login and Application Process**\n\n- Enter User ID, Password, and Captcha Code.\n\n\n- After login, schemes applicable to your caste will be displayed.\n- Click on the scheme you want to apply for.\n- Fill the &quot;Application Form&quot; and upload the required documents\n- Click Save Application. The system will generate an Application Number.\n- Click Print Application.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 6)",
+      "url": "https://adijatinigam.gujarat.gov.in/assets/downloads/SchemesDetailsofGTDC08102024.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://tribal.gujarat.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

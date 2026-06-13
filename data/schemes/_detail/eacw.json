@@ -1,0 +1,43 @@
+{
+  "slug": "eacw",
+  "name": "Educational Allowances to the Children of Widows",
+  "shortTitle": "EACW",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Women and Child Development Department, Puducherry",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "“Educational Allowances to the Children of Widows” by the Dept of Women & Child Development, Govt of Pondicherry, was introduced to provide financial assistance (₹25 to ₹125) for the education of poor widows' children up to higher secondary or equivalent.",
+  "descriptionMd": "Launched in 2010, the scheme “Educational Allowances to the Children of Widows” by the Department of Women &amp; Child Development, Government of Pondicherry, was introduced to provide financial assistance for the education of poor widows&#39; children up to higher secondary or equivalent. Through this scheme, an annual amount ranging from ₹25 to ₹125 is given based on the student&#39;s standard.",
+  "benefitsMd": "Financial assistance ranging from ₹25 to ₹125 for the purchase of textbooks, notebooks, etc.",
+  "eligibilityMd": "- The applicant should be a citizen of India.\n- The applicant should be a native of the Union Territory of Pondicherry by birth or continuous residence for not less than 3 years.\n- The applicant should be a widow.\n- The annual income of the applicant should not exceed ₹24,000.\n- The child of the applicant should be a Student.\n- The child of the applicant should have obtained not less than 50% marks in every class.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit (during office hours) the [Office/ Sub-Office](https://wcd.py.gov.in/office-locations) of the Department of Women and Child Development, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\nOR\nThe interested applicant should take print of the prescribed format of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Deputy Director (Women Development) or the Child Development Project Officer (depending on the location), at least 30 days before the proposed marriage date.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://py.gov.in/sites/default/files/womenrtimanual.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://wcd.py.gov.in/contact-us"
+    },
+    {
+      "title": "Office Locations",
+      "url": "https://wcd.py.gov.in/office-locations"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://wcd.py.gov.in/ta/central-public-grievance-redress-and-monitoring-system"
+    },
+    {
+      "title": "Track Your Application",
+      "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

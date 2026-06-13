@@ -1,0 +1,35 @@
+{
+  "slug": "sbsky",
+  "name": "Shubhshakti Yojana",
+  "shortTitle": "SBSKY",
+  "level": "state",
+  "state": "Rajasthan",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The Shubshakti Yojana has been initiated by the Rajasthan government with the aim of providing financial assistance to regular construction workers, unmarried laborers, and their daughters.",
+  "descriptionMd": "The Shubshakti Yojana has been initiated by the Rajasthan government with the aim of providing financial assistance to regular construction workers, unmarried laborers, and their daughters. The primary objective of this scheme to support and strengthen the daughters of labour families in Rajasthan state. \n<br>",
+  "benefitsMd": "- Receives a financial assistance of ₹55,000/-.\n- The amount is directly transferred to the beneficiary&#39;s bank account.\n- The funds can be used for various purposes, including:\n\n   1. Higher education\n   1. Vocational training\n   1. Starting a business\n   1. Skill development training\n   1. Marriage expenses",
+  "eligibilityMd": "1. One parent (either father or mother or both) must be registered as a beneficiary/construction worker for at least one year in the board.\n1. A maximum of two daughters of the beneficiary or the female beneficiary and her one daughter will be given the incentive amount.\n1. The female beneficiary must be unmarried or the beneficiary&#39;s daughter must be at least 18 years old and unmarried.\n1. The daughter of the beneficiary/female beneficiary must have passed at least the 8th standard.\n1. There should be a savings bank account in the name of the daughter of the beneficiary/female beneficiary.\n1. If the beneficiary has his own house, there should be a toilet in the house.\n1. The beneficiary must have worked as a construction worker for at least 90 days during the year before the application date.\n1. The incentive amount will be payable only after physical verification of the beneficiary being a construction worker, which can be done by various authorities.\n1. The incentive amount can be used by the female beneficiary/daughter for further education, vocational training, starting her own business, or for her own marriage, with proper counseling.\n1. The application for the scheme must be submitted in the prescribed form by the beneficiary after completing one year as a registered beneficiary, and the beneficiary&#39;s identity card must be valid/active at the time of application.\n1. Girls who have already received assistance under the Board&#39;s Marriage Assistance Scheme earlier will not be eligible for assistance under this scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n \n> **Apply** \n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, dashboard will open.\n**Step-3:** Click on “LDMS” option.\n**Step-4:** In LDMS, select &quot;Welfare Schemes&quot; from the side menu and select BOCW Welfare Board. \n**Step-5:** Now click on &quot;Apply for Scheme&quot; on screen. \n**Step-6:** In this new page, will get a list of names of all the schemes of Rajasthan Shramik Card, out of which click on the name of &quot;Shubhshakti Yojana&quot;\n**Step-7:** Fill out the all relevant detail. \n**Step-8:** Submit.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jankalyanfile.rajasthan.gov.in/Content/UploadFolder/Scheme/LAB_/SSY/DOC_221_3508d3ec-1148-4bd3-a9c9-612934bad740.pdf"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/register"
+    },
+    {
+      "title": "Login",
+      "url": "https://sso.rajasthan.gov.in/signin"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "ip-mea",
+  "name": "Internship Programme By The Ministry Of External Affairs",
+  "shortTitle": "IP-MEA",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of External Affairs",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The Ministry of External Affairs launched the first edition of the Internship Programme in 2022. The internship policy aims to take foreign policy closer to the people. A total of 75 internships will be offered in the year 2022 in a single term of three months during April to June 2022.",
+  "descriptionMd": "The Ministry of External Affairs of the Govt. of India launched the first edition of its Internship Programme in 2022. The internship policy aims to take foreign policy closer to the people; bring in more focus on MEA; provide value to the interns; ensure better gender inclusivity and increase diversity in terms of qualifications, domicile, and socio-economic status in the cohort of interns engaged by the MEA. During the course of the internship, the Interns would be introduced to various aspects of the functioning of the Ministry, its attached offices, the public interface of the Ministry and its role in helping Indian citizens, as well as a possible visit one of the Missions abroad, subject to prevailing conditions.",
+  "benefitsMd": "",
+  "eligibilityMd": "1.  The internship shall generally be open to Indian citizens with a minimum educational qualification of a graduate degree from a recognized university at the time of applying.\n2.  The internship shall also be open to student who is presently in the final year of their graduation, where an internship is a mandatory part of the final year curriculum. \n3.  The age of the candidate should not exceed 25 years as on 31 December of the year of internship. \n<br>\n\n**Note 1: Diversity:** In line with the goal of taking the Ministry and foreign policy closer to the people from all parts of the country, the policy aims to ensure increased diversity amongst the group of interns with respect to gender, underprivileged sections, geographical domicile, and representation from both urban and rural areas. \n<br>\n\n**Note 2: Priority:** Candidates from districts under the Transformation of Aspirational Districts Programme (TADP) and those belonging to SC/ST/OBC/EWS categories shall be given priority at different stages in the selection process.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://internship.mea.gov.in/view_pdf_home"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

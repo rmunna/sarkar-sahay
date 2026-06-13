@@ -1,0 +1,27 @@
+{
+  "slug": "feotteuyobcamc",
+  "name": "Free Employment Oriented Training to Educated Unemployed Youth of Backward Class and Minority Class",
+  "shortTitle": "FEOTTEUYOBCAMC",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Backward Classes and Minorities Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "\"Free Employment Oriented Training to Educated Unemployed Youth of Backward Class and Minority Class\" aims to provide quality pre-examination training for various employment-oriented competitive examinations to talented but economically disadvantaged young men and women.",
+  "descriptionMd": "The scheme &quot;Free Employment Oriented Training to Educated Unemployed Youth of Backward Class and Minority Class&quot; by the Backward Classes and Minorities Welfare Department, Government of Madhya Pradesh, aims to provide quality pre-examination training for various employment-oriented competitive examinations to talented but economically disadvantaged young men and women belonging to the backward and minority classes of the state. Training is offered near their place of residence through government, semi-government, or non-government institutions, along with an ideal educational environment and free coaching facilities.",
+  "benefitsMd": "- Free coaching for employment-oriented competitive examinations.\n\n\n- Stipend support during the training period.\n- Access to well-equipped coaching facilities.\n- Ideal academic environment for exam preparation.",
+  "eligibilityMd": "- The applicant should be a permanent resident of Madhya Pradesh.\n- The applicant should belong to Other Backward Classes (OBC) or Minorities.\n- The applicant&#39;s family income should not exceed the creamy layer limit.\n- The applicant should be selected by the training institution approved by the government.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "The institutions are selected by the government to provide coaching before employment-oriented examinations, and the institutions select the trainees. Applications are made by the Office Director, State Level Employment and Training Center, Bhopal in the training centers of selected non-government organizations.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=871"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

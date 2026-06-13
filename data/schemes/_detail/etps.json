@@ -1,0 +1,27 @@
+{
+  "slug": "etps",
+  "name": "Educational Travel Promotion Scheme",
+  "shortTitle": "ETPS",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Educational Travel Promotion Scheme\" by the Department of Education, aims to promote personality development, observation skills, and curiosity among students through funding educational tours.",
+  "descriptionMd": "The scheme &amp;quot;Educational Travel Promotion Scheme&amp;quot; by the Department of Education, Government of Gujarat, aims to promote the overall personality development of students, enhance their observation skills, and satisfy their curiosity to learn new things by supporting educational tours within the state. It provides financial assistance of ₹500/- per student per year to government secondary and higher secondary schools (including RMSA and Model/Model Day schools) to enable students to study with pleasure.\n<br>",
+  "benefitsMd": "- **Financial Assistance:** ₹500/- per student per year is allocated to the school for organizing educational tours within the state.\n<br>",
+  "eligibilityMd": "- The applicant must be a student.\n  - The applicant must be enrolled in a government secondary and higher secondary school (including RMSA, Model/Model Day) of the state.\n\n<br>\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "- The applicant school should submit an application as per the prescribed checklist with resolutions related to the plan and five high-resolution photographs related to the educational tour/project.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 166)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

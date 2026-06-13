@@ -1,0 +1,31 @@
+{
+  "slug": "dpwb",
+  "name": "Disability Pension - West Bengal",
+  "shortTitle": "DPWB",
+  "level": "state",
+  "state": "West Bengal",
+  "nodalDept": "Women and Child Development and Social Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "In 2010, the Women and Child Development and Social Welfare Department of the West Bengal State Government introduced the \"Disability Pension\" scheme.",
+  "descriptionMd": "The West Bengal Disability Pension Scheme 2010 provides financial assistance to persons with disabilities who are unable to work and earn a living. The scheme is implemented by the Department of Women and Child Development and Social Welfare, Government of West Bengal.",
+  "benefitsMd": "Financial Assistance",
+  "eligibilityMd": "1. Applicant must be a disable person with 40% of disability. \n1. The disabled person must be declared unsuitable for physical work by the respective Medical officer with following disabilities :\n\n  - Deaf and Dumb. \n  - Blind. \n  - Orthopedically handicapped.\n  - Mentally retarded \n  - Permanently incapacitated.\n\n1. The disabled person is declared unsuitable for physical work by the respective Medical officer.\n1. His / Her family income, if any, must not exceed ₹ 1,000/- per month.\n1. Residency Duration\n\n  - The applicant must be a citizen of India and a resident of West Bengal. **(OR)**\n\n  - The disabled person should have been a resident of the state of West Bengal for at least 10 years at the time of applying for the pension. **(OR)**  - For disabled persons below 10 years old, the period of residence will be limited to the time span covered by the date of birth and the date of submission of the application.",
+  "exclusionsMd": "**Professional Beggars and Mendicants:**\n\n1. Individuals engaged in begging as a profession are not eligible for pension under this scheme.\n1. Individuals who do not beg professionally but receive occasional assistance are eligible if they meet other criteria.\n\n**Recipients of Other Pensions:**\n\n1. Disabled persons already receiving &quot;Widow Pension,&quot; &quot;Old Age Pension,&quot; &quot;Farmers’ Pension,&quot; or pension under the &quot;Family Pension Scheme&quot; from the State Government, Central Government, or other concerns are not entitled to the pension under this scheme.",
+  "applicationMode": "Offline",
+  "applicationMd": "**Application Form(**[**Form-P)**](https://wbswpension.gov.in/readwrite/miscellaneous/form-P.pdf) **for Pension may be obtained free of cost from following offices namely:**\n\n1. Office of the Block Development Officer or the Executive Officer of the concerned Panchayat Samity in case of the applicant resides in the rural areas under the said Panchayat Samity.\n1. Office of the Sub-Divisional Officer in case of the applicant resides in Municipal / Notified areas outside the areas of Kolkata Municipal Corporation.\n1. Office of the Controller of Vagrancy, West Bengal situated at Purta Bhawan, Bidhan Nagar, Kolkata-700091, in case of the applicant resides within the areas under Kolkata Municipal Corporation.\n\n<br>\n\n**Required information for application form**\n\n1. Person Details.\n1. Contact Details.\n1. Type of Disability and disability percentage.\n1. Bank Account Details.\n1. Required documents\n\n  - Copy of Aadhaar self-attested.\n  - Copy of Ration Card.\n  - Copy of Voter Id.\n  - Copy of Disability Certificate.\n  - Copy of Income Certificate.\n  - Copy of Husband’s Death Certificate.\n  - Copy of Bank Pass Book.\n  - Nomination Form (In case of death).\n  - Passport Size photograph.\n\n\n<br>\n\n**Application Form for Pension shall be addressed to:-**\n\n1. The District Magistrate of the concerned District and shall be submitted to the Block Development Officer or the Executive Officer of the Panchayat Samity in case of the applicant residing in the rural areas under a Panchayat Samity.\n1. The District magistrate of the concerned District and Shall be submitted to the Sub-Divisional Officer in case of the applicant residing in Municipal / Notified areas outside the areas of Kolkata Municipal Corporation.\n1. The Controller of Vagrancy, West Bengal and shall be submitted to the Controller Vagrancy West Bengal in case of the applicant residing within the areas under Kolkata Municipal Corporation.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://wbswpension.gov.in/pages/wcd_about_scheme.php"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://wbswpension.gov.in/readwrite/miscellaneous/form-P.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "ddtmcp",
+  "name": "\"Design Development Training For Master Crafts Persons\" Component of the \"Development of Handicrafts\" Scheme",
+  "shortTitle": "DDTMCP",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Industries and Commerce Department, Puducherry",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This scheme aims to enhance the skills of craftspersons in moulding and designing their traditional crafts. The objective is to make these crafts more appealing to customers and increase marketability. The training has a significant impact on the development of modern art and techniques in craft.",
+  "descriptionMd": "The &quot;Design Development Training For Master Crafts Persons&quot; Component of the &quot;Development of Handicrafts&quot; Scheme by the Department of Industries and Commerce, Union Territory of Puducherry aims to enhance the skills of craftspersons in moulding and designing their traditional crafts. The objective is to make these crafts more appealing to customers and increase marketability. The training is expected to have a significant impact on the development of modern art and techniques in crafts, potentially introducing new crafts from other regions.",
+  "benefitsMd": "> **For Craftsperson**\n\n\n- Remuneration: ₹3,000 per month.\n- Accommodation Charges: ₹1,000 per month.\n- Travelling Allowances: To &amp; Fro 2nd class (berth) train fare.\n- Period of Training: As prescribed by the Training Unit/ Institution.\n\n> **For Training Unit/ Institution**\n\n\n- Course Fee: As prescribed will be paid.",
+  "eligibilityMd": "- The applicant should be a Craftsperson or Artisan.\n- The applicant should be literate.\n- The applicant should be from Puducherry.\n- The applicant should be carrying out the activity in their respective crafts for at least three years.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should take print of the [prescribed format](https://dic.py.gov.in/sites/default/files/handicraftmaster.doc) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** The interested applicant should visit (on a working day, and during office hours) the Project Manager of the District Industries Centre (Thattanchavady, Puducherry - 605 009), and submit the duly filled and signed application form and the documents to the concerned authority.\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dic.py.gov.in/development-of-handicrafts"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://dic.py.gov.in/sites/default/files/citizencharter.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://dic.py.gov.in/sites/default/files/handicraftmaster.doc"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://dic.py.gov.in/contact-us"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://industry.py.gov.in/grievance-redressal-mechanism"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

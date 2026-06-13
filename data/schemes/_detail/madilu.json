@@ -1,0 +1,25 @@
+{
+  "slug": "madilu",
+  "name": "Madilu Kit",
+  "shortTitle": "Madilu",
+  "level": "state",
+  "state": "Karnataka",
+  "nodalDept": "Rural Development and Panchayat Raj Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [],
+  "benefitType": "In Kind",
+  "briefDescription": "The Madilu Programme is a government initiative focused on empowering rural communities through skill development and entrepreneurship opportunities.\nIt aims to create sustainable livelihoods, reduce poverty, and enhance social and economic well-being in rural areas.",
+  "descriptionMd": "The Madilu Programme is a comprehensive initiative implemented by the government to uplift rural communities by providing them with the necessary skills and resources to improve their livelihoods. The program primarily focuses on skill development, entrepreneurship, and capacity building. By equipping individuals with relevant skills, such as agricultural techniques, handicraft production, and small business management, the Madilu Programme aims to create sustainable income-generating opportunities within rural areas.\n<br>\n\nThrough targeted training sessions, workshops, and mentorship programs, participants are empowered to harness their potential and establish small-scale enterprises. The Madilu Programme also facilitates access to micro-financing options and provides guidance on market linkages, enabling participants to establish viable businesses and gain financial independence. Additionally, the program emphasizes the importance of gender equality and social inclusion, ensuring that marginalized groups have equal access to opportunities and benefits.",
+  "benefitsMd": "",
+  "eligibilityMd": "- Individuals residing in rural areas are eligible to participate.\n- Participants should have a willingness to learn and engage in skill development activities.\n- There is no age restriction for participation in the program.\n- Both men and women are encouraged to apply.\n- Participants should demonstrate an interest in entrepreneurship and improving their livelihoods",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://kmea.karnataka.gov.in/storage/pdf-files/Reports%20and%20other%20docs/Madilu%20Tor.PDF"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

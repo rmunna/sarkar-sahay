@@ -1,0 +1,31 @@
+{
+  "slug": "masabsn",
+  "name": "Medical Aid Scheme (Ayushman Bharat Scheme 'Niramaya') (MPBOCWWB)",
+  "shortTitle": "MASABSN",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Medical Aid Scheme (Ayushman Bharat Scheme 'Niramaya')\" under the Labour Department, Government of Madhya Pradesh, provides free medical treatment up to ₹5,00,000/- per year to the registered workers and their families in approved hospitals.",
+  "descriptionMd": "The &quot;Medical Aid Scheme (Ayushman Bharat Scheme &#39;Niramaya&#39;)&quot; under the Labour Department, Government of Madhya Pradesh, provides free medical treatment up to ₹5,00,000/- per year to the registered workers and their families in approved hospitals.",
+  "benefitsMd": "Free medical treatment up to ₹5,00,000/- per year.",
+  "eligibilityMd": "**For Registration**\n\n1. The applicant should be a resident of Madhya Pradesh.\n1. The applicant should be a Building/ Construction Worker.\n1. The applicant should be between 18 and 60 years.\n1. The applicant should have engaged in any building or other construction work for at least 90 days during the preceding 12 months.\n1. The registration of the applicant should be renewed annually.\n\n**For Application**\n\n1. The applicant should be a female construction worker with a valid identity card, in case of maternity.\n1. The applicant should be a male construction worker with a valid identity card, in case of his wife&#39;s delivery.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Go to the Shram Seva Portal (MPBOCWWB) [official website.](https://labour.mp.gov.in/Default.aspx)\n**Step 2:** On the homepage, find and click on &quot;Registration of Construction Worker.&quot;\n**Step 3:** Select the option &quot;[Apply online](https://labour.mp.gov.in/Public/Application/RegsiterSchemeApplication.aspx) for registration as a beneficiary.&quot;\n**Step 4:** Enter your Composite Member ID and Samagra Family ID, then click Get Details.\n**Step 5:** Your family or beneficiary details will be displayed on the screen.\n**Step 8:** Complete the form by entering all required details (marked with *).\n**Step 9:** Upload all necessary documents, such as ID proof and other relevant certificates.\n**Step 10:** After completing the form and uploading the documents, click Submit and pay the application fee online.\n**Step 11:** You will receive a registration number after successful payment and submission.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://labour.mp.gov.in/Public/Pages/Schemes/ChikitsaSahayta.aspx"
+    },
+    {
+      "title": "Labour Registration",
+      "url": "https://labour.mp.gov.in/Public/Registration/BeneficiaryRegistrationRequest.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

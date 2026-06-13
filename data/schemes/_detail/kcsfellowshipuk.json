@@ -1,0 +1,31 @@
+{
+  "slug": "kcsfellowshipuk",
+  "name": "Dr. K.C. Sharma Fellowship (M.Sc. Agriculture, Agronomy (Second Year) Students)",
+  "shortTitle": "DRKCSF",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide financial assistance to meritorious students pursuing an M.Sc. in Agriculture (Agronomy) who are in their second year of study, by awarding them a monthly fellowship of ₹1000/- for one year.",
+  "descriptionMd": "The “Dr. K.C. Sharma Fellowship (M.Sc. Agriculture, Agronomy (second year) students)” scheme is implemented by Govind Ballabh Pant University of Agriculture and Technology, Pantnagar, under the Department of Agriculture, Government of Uttarakhand. The scheme aims to provide financial assistance to meritorious students pursuing an M.Sc. in Agriculture (Agronomy) who are in their second year of study, by awarding them a monthly fellowship for one year.\n<br>",
+  "benefitsMd": "**Fellowship Amount:**  ₹1,000/- per month.\n<br>",
+  "eligibilityMd": "1. The applicant must be a student.\n   1. The applicant must be enrolled in the second year of the M.Sc. (Agriculture) in Agronomy program at Govind Ballabh Pant University of Agriculture and Technology, Pantnagar.\n   1. The fellowship is awarded for a duration of one year only.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "Students are first invited to submit their applications on the prescribed form. A committee, constituted by the Vice Chancellor, then reviews and evaluates these applications following a defined procedure. Based on the committee’s recommendations, the Vice Chancellor grants approval, after which the selected students receive the fellowship payments.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 185)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://www.gbpuat.ac.in/student_corner/index.html"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

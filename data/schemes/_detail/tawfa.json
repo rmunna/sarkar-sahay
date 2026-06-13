@@ -1,0 +1,32 @@
+{
+  "slug": "tawfa",
+  "name": "The Artist Welfare Fund Of Assam",
+  "shortTitle": "TAWFA",
+  "level": "state",
+  "state": "Assam",
+  "nodalDept": "Cultural Affairs Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"The Artist Welfare Fund of Assam\" is a scheme of financial asssistance by the Assam State Film (Finance and Development) Corporation, Department of Cultural Affairs, Govt. of Assam. The scheme extednds to the whole of Assam.",
+  "descriptionMd": "The scheme &quot;The Artist Welfare Fund of Assam&quot; is a scheme of financial asssistance by the Assam State Film (Finance and Development) Corporation, Department of Cultural Affairs, Govt. of Assam. The scheme extednds to the whole of Assam. \n<br>\n\nThe Major Objectives of the Fund are:\n1.\tTo help the Artists (or their dependents) who are in financial distress due to old age or otherwise handicapped from accident or disease.\n2.\tMedical aid to such Artists and their dependents.\n3.\tEducation for such Artists and their dependents (to be limited up two children) \n4.\tAssistance to such Artist in case of accidents, medical emergency etc.\n5.\t&#39;Dependent&#39; means and includes: Spouse of a deceased Artist; Minor sons and daughters; Unmarried and non-earning daughters; Parents wholly dependent on the Artist.",
+  "benefitsMd": "",
+  "eligibilityMd": "1.\tThe applicant must be and artist in the field of art and culture of the State.\n2.\tThe applicant must be above the age of 20 years (in case of applicant being the artist).\n3.\tThe applicant should be in distress.\n4.\tThe applicant should have a made a mark or made some achievement in the field of art and culture.\n5.\tThe applicant should be able to provide artistic credentials supporting his/her achievement.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://filmfinance.assam.gov.in/sites/default/files/swf_utility_folder/departments/asffdc_medhassu_in_oid_10/how_do_i/level_1/Regulation%20of%20Artist%20Welfare%20fund.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://filmfinance.assam.gov.in/sites/default/files/10/how_do_i/level_1/Application%20Form.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

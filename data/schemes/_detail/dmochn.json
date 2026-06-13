@@ -1,0 +1,31 @@
+{
+  "slug": "dmochn",
+  "name": "Development and Maintenance of Orchard Cum Horti Nurseries",
+  "shortTitle": "DMOCHN",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The scheme has been launched for the production and multiplication of good, high-yielding, diseased free planting materials in the Government farms for distribution to farmers through the District Horticulture Officer.",
+  "descriptionMd": "The scheme “Development and Maintenance of Orchard Cum Horti Nurseries” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya for the production and multiplication of good, high-yielding, diseased free planting materials in the Government farms for distribution to farmers through District Horticulture Officer.",
+  "benefitsMd": "> **Pattern of Assistance:**\n\nTraining, awareness program, extension, technology support.\n&gt; **Type of Assistance:**\n\n\n  - Production and multiplication of good, high-yielding, diseased free planting materials for sale.\n  - Introduction of new high-yielding varieties of mother plants, suitable to the different areas of the State.",
+  "eligibilityMd": "1. The applicant should be a permanent resident of Meghalaya.\n   1. The applicant should be a bonafide farmer engaged in agriculture.\n   1. The applicant/farmer should own or lease land of at least 200 sq.ms.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "&gt; **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/Horticulture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe eligible bonafide farmers shall be selected on a first come first serve basis.\n&gt; **Whom to Contact:** Below officials can be contacted for any concerns or queries:\n\n\n  - [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)  - Horticulture Development Officer",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=103"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONHORTICULTURESCHEMES.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

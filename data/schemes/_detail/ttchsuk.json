@@ -1,0 +1,31 @@
+{
+  "slug": "ttchsuk",
+  "name": "Trekking Traction Centre Home-stay Grant Scheme",
+  "shortTitle": "TTCHGS",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Tourism Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to promote tourism and improve local livelihoods in rural areas near trekking routes. The scheme provides financial assistance to villagers for constructing or renovating home-stays in traditional hill-style architecture, ensuring quality accommodation for tourists.",
+  "descriptionMd": "The scheme “Trekking Traction Centre Home-stay Grant Scheme” was launched in 2020 by the Department of Tourism, Government of Uttarakhand. The scheme aims to provides financial assistance to villagers for constructing or renovating home-stays in traditional hill-style architecture, ensuring quality accommodation for tourists.\n<br>",
+  "benefitsMd": "Under this scheme, villages located within a 2-kilometer radius of the identified tracking traction center are eligible for benefits. For the construction of buildings with toilets along the identified routes, a grant of ₹60,000/- per room is provided. In cases where building repairs are required, a grant of ₹25,000/- per room is provided, for up to a maximum of six rooms.\n<br>",
+  "eligibilityMd": "1. This benefit is applicable only to villages located within a 2-kilometer radius of the trekking traction center identified by the Tourism Department, and these villages must be separate from urban areas.\n   1. There is no obligation to take out a loan. \n   1. The applicant must be a native of a village in Uttarakhand near the traction center and must reside, or intend to reside, with their family in the proposed homestay. \n   1. Guest rooms should be provided for a minimum of one and a maximum of six.\n   1. The homestay must be registered with the department, or if newly constructed, it must be registered upon completion.\n   1. Preference will be given to buildings constructed or developed in the traditional hill-style architecture.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- Residents of villages notified by the department can obtain the prescribed application form from the office of the District Tourism Development Officer or the Tourism Welcome Center. Along with the application form, applicants must submit the following documents: a birth/age certificate, educational qualification certificate, Scheduled Caste/Scheduled Tribe/Other Backward Class/Ex-Servicemen certificate (if applicable), a certificate proving Uttarakhand nativity, proof of residence in the same area, and land/building ownership documents.\n  - After submission of the application to the District Tourism Development Officer or Tourism Welcome Center, a committee is constituted under the chairmanship of the District Magistrate. The applicant is then called for an interview by the committee. If found suitable in the interview, the applicant is selected. Upon completion of the construction or repair work, a technical committee constituted by the district conducts an inspection. If the work is found satisfactory, the District Magistrate recommends the disbursement, and the department transfers the sanctioned amount for the construction or repair of the homestay directly to the applicant’s bank account.\n  - Identification of Villages – The committee constituted by the District Officer with the District Tourism Development Officer as Member Secretary, identifies eligible villages. Villages may also be proposed for inclusion if they are developing within a 2-kilometer radius of the trekking route; in such cases, the village head, block head, or MLA submits a proposal to the department. The tourism officer then conducts an investigation. A meeting is held under the chairmanship of the District Magistrate to determine whether the village qualifies for the trekking traction route. The meeting minutes and proposal are sent to the Uttarakhand Tourism Development Council, which conducts its own verification. If found eligible, the council officially notifies the concerned villages.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 166)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://uttarakhandtourism.gov.in/assets/pdf/Trekking%20Traction%20Centre%20Homestay%20Grant_rti.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

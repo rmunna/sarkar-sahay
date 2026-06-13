@@ -1,0 +1,27 @@
+{
+  "slug": "jssk",
+  "name": "Janani Shishu Suraksha Karyakram",
+  "shortTitle": "JSSK",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Health and Family Welfare",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The scheme aims to provide completely free and cashless delivery, including caesarean section, for pregnant women at government health facilities along with free treatment for sick newborns and infants.",
+  "descriptionMd": "Started in 2011, the scheme &amp;quot;Janani Shishu Suraksha Karyakram (JSSK)&amp;quot; by the Ministry of Health and Family Welfare, Government of India, aims to provide free and cashless delivery, treatment, diagnostics, drugs, diet, and transport services to pregnant women and sick newborns/infants at public health institutions. It also aims to eliminate out-of-pocket expenses related to delivery, treatment, and essential maternal and child healthcare services.\n<br>",
+  "benefitsMd": "> **For Pregnant Women:**\n\n\n- Free and zero expense Delivery and Caesarean Section\n- Free Drugs and Consumables\n- Free Essential Diagnostics (Blood, Urine tests and Ultra-sonography etc)\n- Free Diet during stay in the health institutions (up to 3 days for normal\n- delivery &amp; 7 days for caesarean section)\n- Free Provision of Blood\n- Free Transport from Home to Health Institutions\n- Free Transport between facilities in case of referral\n- Drop Back from Institutions to home after 48hrs stay\n- Exemption from all kinds of User Charges\n\n> **For Sick Newborns And Infants (Up to 30 days after birth):**\n\n\n- Free and zero-expense treatment\n- Free Drugs and Consumables\n- Free Diagnostics\n- Free Provision of Blood\n- Free Transport from Home to Health Institutions\n- Free Transport between facilities in case of referral\n- Drop Back from Institutions to home\n- Exemption from all kinds of User Charges\n\n<br>",
+  "eligibilityMd": "- The applicant must be a pregnant woman.\n- The applicant must be admitted to a government health facility.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "- The pregnant woman is referred by the competent staff of the public health facility for JSSK.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://nhm.gov.in/showlink.php?id=474"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

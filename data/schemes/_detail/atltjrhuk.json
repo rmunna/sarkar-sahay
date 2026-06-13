@@ -1,0 +1,27 @@
+{
+  "slug": "atltjrhuk",
+  "name": "Ex-Gratia Payment for Life-Threatening Injury Requiring Hospital Stay for Treatment",
+  "shortTitle": "EPLTIRHST",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department Of Disaster Management",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide financial assistance to individuals who sustain life-threatening injuries due to disasters and require hospitalization for treatment.",
+  "descriptionMd": "The scheme “Ex-Gratia Payment for Life-Threatening Injury Requiring Hospital Stay for Treatment” is implemented by the Uttarakhand State Disaster Management Authority under the Department of Disaster Management, Government of Uttarakhand. The scheme aims to provide financial assistance to individuals who sustain life-threatening injuries due to disasters and require hospitalization for treatment.\n<br>",
+  "benefitsMd": "Under this scheme, an ex-gratia grant of ₹16,000/- per person is provided in case of a hospital stay for more than one week, and ₹5,400/- per person in case of a hospital stay for less than one week.\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Uttarakhand.\n   1. The applicant must be a person admitted to a government or non-government hospital due to an injury caused by a disaster, including those engaged in relief or disaster preparedness activities who sustained injuries during such work.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 304)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

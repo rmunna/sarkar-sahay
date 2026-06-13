@@ -1,0 +1,27 @@
+{
+  "slug": "ignwpsp",
+  "name": "Indira Gandhi National Widow Pension Scheme (Punjab)",
+  "shortTitle": "IGNWPSP",
+  "level": "state",
+  "state": "Punjab",
+  "nodalDept": "Department of Social Security and Development of Women and Children",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Indira Gandhi National Widow Pension Scheme (IGNWPS)\" provides a pension of ₹300/- per month to widows aged 40 years and above. After attaining the age of 80 years, the pension amount increases to ₹500/- per month.",
+  "descriptionMd": "The &quot;Indira Gandhi National Widow Pension Scheme (IGNWPS)&quot; is implemented by the Department of Social Security and Development of Women and Children, Government of Punjab. Under this scheme, widows aged 40 years and above receive a pension of ₹300/- per month. After attaining the age of 80 years, the pension amount increases to ₹500/- per month.",
+  "benefitsMd": "- Pension of ₹300/- per month for widows aged 40 to 79 years.\n- Pension of ₹500/- per month for widows aged 80 years and above.",
+  "eligibilityMd": "1. The applicant should be a resident of Punjab.\n   1. The applicant should be a widow.\n   1. The age of the applicant should be above 40 years in age.\n   1. The applicant should belong to a Below Poverty Line (BPL) family.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:****** The interested applicant should visit the District Social Security Officer and request a hard copy of the prescribed format of the application form from the concerned staff.\n**Step 2:****** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:****** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the [District Social Security Officer](https://sswcd.punjab.gov.in/en/contact-us/district-social-security-officer).\n**Step 4:****** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sswcd.punjab.gov.in/en/indira-gandhi-national-widow-pension-scheme-ignwps-0"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

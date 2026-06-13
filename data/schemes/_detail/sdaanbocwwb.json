@@ -1,0 +1,39 @@
+{
+  "slug": "sdaanbocwwb",
+  "name": "Skill Development Assistance (ANBOCWWB)",
+  "shortTitle": "SDA(ANBOCWWB)",
+  "level": "state",
+  "state": "Andaman and Nicobar Islands",
+  "nodalDept": "Labour, Employment & Training Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, financial assistance shall be provided to registered construction workers or their two children for the purchase of tool kits upon submission of a successful course/trade completion certificate from a Government Industrial Training Institute or Vocational Training Centre.",
+  "descriptionMd": "The scheme “Skill Development Assistance” was started by the Andaman &amp;amp; Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB), Department of Labour, Employment &amp;amp; Training, Andaman &amp;amp; Nicobar Administration. Under this scheme, financial assistance shall be provided to registered construction workers or their two children for the purchase of tool kits upon submission of a successful course/trade completion certificate from a Government Industrial Training Institute or Vocational Training Centre.",
+  "benefitsMd": "1. Under the scheme, the financial assistance of ₹10,000/- shall be provided by the Board to registered construction workers or their two children for the purchase of tool kits.",
+  "eligibilityMd": "1. The beneficiary should be a resident of the Union territory of Andaman &amp;amp; Nicobar Islands.\n   1. The beneficiary should be engaged in any building &amp;amp; other construction work.\n   1. The beneficiary should be registered under the A&amp;amp;N Islands Building and Other Construction Workers Welfare Board.\n   1. The beneficiary should have an active membership of the Board.\n   1. Registered construction workers, either for themselves or for their two children, can avail the benefits under the scheme for the purchase of tool kits.\n   1. The registered construction workers or their children must possess a successful course/trade completion certificate from the Government Industrial Training Institute or Vocational Training Centre to apply under the scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Portal Registration Process:**\n\n**Step 01:** Visit online Portal: [https://serviceonline.gov.in/](https://serviceonline.gov.in/)\n**Step 02:** On the home page, click on ‘[Register](https://serviceonline.gov.in/citizenRegistration.html)’ and fill in all the mandatory details.\n**Step 03:** Click on the ‘Submit’ button and validate your Email ID &amp;amp; Mobile Number using OTP received.\n**Step 04:** After successful validation, the applicant will be registered.\n&gt; **Registration Process of Construction Workers under A&amp;amp;N Islands Building &amp;amp; Other Construction Workers Welfare Board:**\n\n**Step 01:** Applicant can [login](https://serviceonline.gov.in/loginWindow.do) through their email ID that is used while registering\n**Step 02:** Enter Password &amp;amp; Captcha\n**Step 03:** Click on ‘Login’\n**Step 04:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’\n**Step 05:** Now, search for the “Registration of Construction Workers in AN BOCWWB” and then click to proceed registration process.\n**Step 06:** Fill in all the mandatory details and upload all the relevant documents.\n**Step 07:** Preview the form and click on ‘Submit’.\n**Step 08:** After successful registration, the applicant will receive a registration ID. \n&gt; **Application Process for Skill Development Assistance:**\n\n**Step 01:** Now, to avail the benefits of the scheme, the applicants can [login](https://serviceonline.gov.in/loginWindow.do) through their email ID that is used while registering\n**Step 02:** Enter Password &amp;amp; Captcha\n**Step 03:** Click on ‘Login’\n**Step 04:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’\n**Step 05:** Now, search for ‘Skill Development Financial Assistance’ and click on the scheme to proceed to fill out the application form.\n**Step 06:** Fill in all the mandatory details and upload all the mandatory documents.\n**Step 07:** Preview the application form and click on ‘Submit’.\n&gt; **Application Tracking:**\n\n**Step 01:** To track the application status, the applicant can visit the online Portal and [login](https://serviceonline.gov.in/loginWindow.do) through their ‘User ID’ &amp;amp; ‘Password’.\n**Step 02:** On the home page, click on “View Application Status’ and then click on ‘Track Application Status’.\n**Step 03:** Enter the Application Reference Number and click on ‘Get Data’ to know the status of your application.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://labour.and.nic.in/webPages/welfareboard.html"
+    },
+    {
+      "title": "Application Portal",
+      "url": "https://serviceonline.gov.in/"
+    },
+    {
+      "title": "Application Form For Registration As A Beneficiary",
+      "url": "https://labour.and.nic.in/webPages/forms/welfareboard.pdf"
+    },
+    {
+      "title": "Application Form For Skill Development Assistance",
+      "url": "https://labour.and.nic.in/webPages/forms/skill.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

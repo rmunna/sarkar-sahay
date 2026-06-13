@@ -1,0 +1,27 @@
+{
+  "slug": "bnpfrs",
+  "name": "Bank Loan Processing Fee Reimbursement Scheme",
+  "shortTitle": "BNPFRS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Micro, Small and Medium Enterprises",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The Bank Loan Processing Fee Reimbursement Scheme comes under the purview of the Ministry of Micro, Small and Medium Enterprises (MSME) of the Government of India.",
+  "descriptionMd": "The &amp;quot;Bank Loan Processing Fee Reimbursement Scheme&amp;quot; is implemented by the Ministry of Micro, Small, and Medium Enterprises under the National SC-ST Hub programme. It provides financial support to SC/ST Micro and Small Enterprises by reimbursing a major portion of bank loan processing fees charged by financial institutions. The scheme covers both fund-based and non-fund-based loans. It reduces the initial financial burden on entrepreneurs and improves their access to institutional credit. The initiative promotes inclusive growth and supports the development of SC/ST-owned businesses.\n<br>",
+  "benefitsMd": "- **Processing Fee Reimbursement:** Up to 80% of the processing fee or ₹1,00,000/- (excluding GST and taxes), whichever is lower.\n<br>",
+  "eligibilityMd": "- Applicant should belong to the Scheduled Caste / Scheduled Tribe category.\n  - He/she should represent/own any MSEs unit.\n  - MSEs availing loans from any Scheduled Commercial Banks, Non-Banking Finance Companies (NBFCs), and State Finance Corporations will be considered under the scheme.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** The applicant must visit the official portal of the [National SC-ST Hub](https://www.scsthub.in/nssh-schemes/).\n**Step 2:** The applicant must click on the &quot;Scheme name&quot; and then click on “Sign Up” and register using basic details such as name, email ID, and mobile number.\n**Step 3:** The applicant must create a password and complete the registration process.\n**Step 4:** The applicant must log in using the registered credentials.\n**Step 5:** The applicant must fill in the required details and submit the application online.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.scsthub.in/sites/default/files/schemes/NSSH_Guidelines_Sub_scheme__0.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "gtpata",
+  "name": "Gujarat Textile Policy: Assistance for Technology Acquisition",
+  "shortTitle": "GTPATA",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Industries and Mines Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity",
+    "Industries"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Gujarat Textile Policy\" introduced by the Industries and Mines Department aims to create a vibrant Textile Sector ecosystem and generate enormous employment opportunities in the State.",
+  "descriptionMd": "The &amp;quot;Gujarat Textile Policy&amp;quot; is an umbrella scheme introduced by the Industries and Mines Department, Gujarat. It aimed at augmenting investments in the textile sector and strengthening the textile value chain across each sub-sector, while also focusing on strengthening the garments and apparel as well as technical textiles industry. Effective from October 1st, 2024 to September 29th, 2029, this initiative focuses on reducing the carbon footprint and promoting green growth, thereby making the sector globally competitive and environmentally sustainable.\nThe component &amp;quot;Assistance for Technology Acquisition&amp;quot; provides financial support to industrial units for acquiring appropriate technology from recognized institutions. This initiative helps industries upgrade their product or process technology, ensuring competitiveness and innovation.",
+  "benefitsMd": "- **Financial Assistance:** Covers 65% of the technology cost, with a cap of ₹50,00,000/-.- **Royalty Payment:** Supports royalty payments for the first 2 years.",
+  "eligibilityMd": "1. The unit must be a new or existing industrial unit.\n   1. The technology must be acquired from a recognized institution.\n   1. The unit must obtain prior approval from the Industries Commissionerate within one year of signing the agreement.",
+  "exclusionsMd": "-  Assistance will not be eligible for purchase of any plant and machinery or equipment.",
+  "applicationMode": "Offline",
+  "applicationMd": "&gt; **Application for Registration:**\n\n**Step 1:** The application has to be made to the Industries Commissioner in the [prescribed format](https://ic.gujarat.gov.in/documents/commondoc/2025/GTP%202024%20Registration%20Form.pdf) along with the following documents within one year from loan disbursement, production start, or policy operative date (whichever is later).\n**Step 2:** On receipt of the application and after the scrutiny and verification of relevant documents as per the procedure prescribed, registration certificate will be issued by the Industrial Commissioner.\n&lt;br&gt;\n\n&gt; **Application for Provisional/Final Eligibility Certificate****:- Application for Industrial Unit**\n\n\n  - **MSME Units having GFCI up to INR 10 Crore:** After DoCP, the Industrial Unit shall submit an application to the General Manager, District Industries Center.  - **MSME Units having GFCI above INR 10 Crore and up to 50 Crore:** After DoCP, the Industrial Unit  shall submit an application to MSME Commissioner for Provisional Eligibility Certificate within 1 year from DoCP or within one year from the date of issuance of this GR, whichever is later.  - **Other than MSME Units:** After DoCP, the Industrial Unit, having registration shall submit an application for Provisional Eligibility Certificate to the Industries Commissioner within 1 year from DoCP or within 1 year from the date of issuance of the registration certificate, whichever is later.\n&lt;br&gt;\n\n**Contact Us:**\n&gt; [Industries Commissionerate](https://ic.gujarat.gov.in/ic-contact.aspx)\n\n&gt; [District Industries Center](https://ic.gujarat.gov.in/dic-contact.aspx)",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ic.gujarat.gov.in/documents/pagecontent/Gujarat%20Textile%20Policy_2024.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

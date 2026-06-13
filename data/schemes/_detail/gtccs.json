@@ -1,0 +1,28 @@
+{
+  "slug": "gtccs",
+  "name": "Gujarat Textile Policy: Capital Subsidy",
+  "shortTitle": "GTCCS",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Industries and Mines Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity",
+    "Industries"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Gujarat Textile Policy\" introduced by the Industries and Mines Department aims to create a vibrant Textile Sector ecosystem and generate enormous employment opportunities in the State.",
+  "descriptionMd": "The &amp;quot;Gujarat Textile Policy&amp;quot; is an umbrella scheme introduced by the Industries and Mines Department, Gujarat. It aimed at augmenting investments in the textile sector and strengthening the textile value chain across each sub-sector, while also focusing on strengthening the garments and apparel as well as technical textiles industry. Effective from October 1st, 2024 to September 29th, 2029, this initiative focuses on reducing the carbon footprint and promoting green growth, thereby making the sector globally competitive and environmentally sustainable.\nThe component &amp;quot;Capital Subsidy&amp;quot; provides financial assistance to eligible industrial units through subsidies on their capital expenditures. The subsidy is granted based on the category of the location and the type of activity undertaken.",
+  "benefitsMd": "**Financial Assistance:**\n**Category of Taluka****Activity 1****Activity 2**[Category 1](https://ic.gujarat.gov.in/documents/commondoc/2020/I-Branch_2297_02_Nov_2020_98_06112020.pdf) &amp;amp;amp;amp; PM MITRA Park35%  of eFCI, Maximum ₹100,00,00,000/-20%  of eFCI, Maximum ₹50,00,00,000/-[Category 2](https://ic.gujarat.gov.in/documents/commondoc/2020/I-Branch_2297_02_Nov_2020_98_06112020.pdf)30%  of eFCI, Maximum ₹100,00,00,000/-18%  of eFCI, Maximum ₹50,00,00,000/-[Category 3](https://ic.gujarat.gov.in/documents/commondoc/2020/I-Branch_2297_02_Nov_2020_98_06112020.pdf)20%  of eFCI, Maximum ₹50,00,00,000/-10%  of eFCI, Maximum ₹40,00,00,000/-<br>\n\n**Note:**\n\n-  **Eligible Fixed Capital Investment:** Eligible Fixed Capital Investment (eFCI) means the following components of investment made during the Eligible Investment Period.- If Industrial Unit is availing Capital Subsidy under any scheme of Central Government, then total quantum of Capital Subsidy from State and Central Government, in any case shall not exceed the total term loan amount disbursed.",
+  "eligibilityMd": "1. The industrial unit must have availed a Term Loan for the project.\n   1. The unit must commence commercial production before applying for subsidy disbursement.\n   1. The unit must apply within one year from the Date of Commercial Production (DoCP).\n   1. The total subsidy received (State + Central) should not exceed the total term loan amount disbursed.\n\n&amp;lt;br&amp;gt;\n\n&amp;gt; **Eligible Activities:**\n\n**Activity 1:**\n\n  - Garments, Apparel &amp;amp;amp; Made-ups, Technical Textiles Activity (including Composite Unit)\n\n**Activity 2:**\n\n  - Weaving (with or without preparatory), Knitting, Dyeing &amp;amp;amp; Processing, Texturising, Twisting, Embroidery and MMF Spinning to manufacture yarn from Polyester Staple Fiber (PSF) / Viscose Staple Fiber (VSF) (excluding Spinning activity of Cotton and Synthetic Filament Yarn).",
+  "exclusionsMd": "- The Industrial Unit will not be eligible for Capital Subsidy under this Policy if, the Term Loan is sanctioned after one year from Date of Commercial Production (DoCP).",
+  "applicationMode": "Offline",
+  "applicationMd": "&gt; **Application for Registration:**\n\n**Step 1:** The application has to be made to the Industries Commissioner in the [prescribed format](https://ic.gujarat.gov.in/documents/commondoc/2025/GTP%202024%20Registration%20Form.pdf) along with the following documents within one year from loan disbursement, production start, or policy operative date (whichever is later).\n**Step 2:** On receipt of the application and after the scrutiny and verification of relevant documents as per the procedure prescribed, registration certificate will be issued by the Industrial Commissioner.\n&gt; **Application for Provisional/Final Eligibility Certificate****:- Application for Industrial Unit**\n\n\n  - **MSME Units having GFCI up to INR 10 Crore:** After DoCP, the Industrial Unit shall submit an application to the General Manager, District Industries Center.  - **MSME Units having GFCI above INR 10 Crore and up to 50 Crore:** After DoCP, the Industrial Unit  shall submit an application to MSME Commissioner for Provisional Eligibility Certificate within 1 year from DoCP or within one year from the date of issuance of this GR, whichever is later.  - **Other than MSME Units:** After DoCP, the Industrial Unit, having registration shall submit an application for Provisional Eligibility Certificate to the Industries Commissioner within 1 year from DoCP or within 1 year from the date of issuance of the registration certificate, whichever is later.\n**Contact Us:**\n&gt; [Industries Commissionerate](https://ic.gujarat.gov.in/ic-contact.aspx)\n\n&gt; [District Industries Center](https://ic.gujarat.gov.in/dic-contact.aspx)",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ic.gujarat.gov.in/documents/pagecontent/Gujarat%20Textile%20Policy_2024.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

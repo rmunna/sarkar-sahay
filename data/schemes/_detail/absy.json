@@ -1,0 +1,31 @@
+{
+  "slug": "absy",
+  "name": "Aaws Bhatta Sahayata Yojana",
+  "shortTitle": "ABSY",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Higher Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The Aaws Bhatta Sahaayata Yojana Government of Madhya Pradesh runs this scheme for those poor students belonging to Scheduled Caste and Scheduled Tribe of its state whose college is very far from their house and they have to rent accommodation near the college to study.",
+  "descriptionMd": "The Awas Bhatta Sahayata Yojana is a scheme under the Higher Education Department of the Government of Madhya Pradesh to provide assistance to economically disadvantaged students belonging to Scheduled Castes and Scheduled Tribes. It aims to support students who have to rent accommodation near their college due to the distance from their homes. Under this scheme, financial aid is provided to help cover rental expenses, thereby easing the burden on students pursuing higher education and ensuring equitable access to educational opportunities for marginalized communities in the state.\n<br>\n\n> **Important Point**\n\n\n1. After approval, reimbursement is made into the student&#39;s bank account.\n1. Principals of government institutions will be the approving officers of their institution. For non-government institutions, the principal of the government institution will be the approving officer of the concerned non-government institutions.\n1. The amount of rent above the prescribed housing assistance will have to be borne by the student himself.\n1. In case of failure or postponement of examination results, students will become ineligible for this scheme in the coming year.",
+  "benefitsMd": "1. In Bhopal, Indore, Jabalpur, Gwalior, and Ujjain cities ₹2,000/- per student per month.\n1. At district headquarters ₹1,250/- per student per month.\n1. At the tehsil and development block level ₹1,000/- per student per month.",
+  "eligibilityMd": "1. The applicant must belong to the Scheduled Caste category.\n1. The applicant must be admitted as a regular student in a government or recognized non-government college.\n1. The applicant must not be admitted to any government hostel.\n1. The annual income of the student&#39;s family must be as per the income limit prescribed in the Post Matric Scholarship Scheme, which is currently ₹6,00,000/- per annum.\n1. The college or the student&#39;s permanent residence should not be located within the geographical limits of the same local body (urban body/gram panchayat).",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration**\n\n**Step-1:** Go to the official website of[ &quot;State Scholarship Portal 2.0&quot; ](http://www.scholarshipportal.mp.nic.in/Index.aspx)using a web browser.\n**Step-2:** Look for the option that says &quot;Register yourself&quot; on the homepage and click on it.\n**Step-3:** Read the registration guidelines carefully before proceeding. then click Continue.\n**Step-4:** Fill in the required details accurately in the registration form. This typically includes personal information such as\n           - Scholarship Category\n           - State\n           -  Name \n           -  Date of birth \n           -  Gender \n            -  Contact details, etc.\n**Step-5:** Click submit Register and you get your Student application ID.\n<br>\n\n> **Apply**\n\n**Step-1:** Go to the official website of [&quot;State Scholarship Portal 2.0&quot;](http://www.scholarshipportal.mp.nic.in/Index.aspx) using a web browser.\n**Step-2:**  [click on Login](http://www.scholarshipportal.mp.nic.in/sLogin.aspx)\n**Step-3:**  After that enter you\n              - Application ID.\n              - Password\n              - Captcha\n**Step-4:** Click Login and select your scheme name.\n**Step-5:** After clicking your scheme name then enter your name father&#39;s name, samgra ID, Aadhar number, bank account etc.\n**Step-6:** Now upload your photo signature and important documents.\n**Step-7:** Remember, the fields marked with an asterisk (*) are mandatory.\n**Step-8:** After filling in all your information details and uploading the documents click submit",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://highereducation.mp.gov.in/?page=vLuWikaQay75hcoaHzpQew%3D%3D&leftid=ZnGWU%2BxYVl5%2BNBOUmwU4dg%3D%3D"
+    },
+    {
+      "title": "Login",
+      "url": "http://www.scholarshipportal.mp.nic.in/slogin.aspx?ReturnUrl=%2fPublic%2fOtherSchemes%2fGB.aspx%3fID%3dMTE%253d"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

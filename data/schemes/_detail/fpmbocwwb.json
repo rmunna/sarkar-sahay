@@ -1,0 +1,40 @@
+{
+  "slug": "fpmbocwwb",
+  "name": "Family Pension (MBOCWWB)",
+  "shortTitle": "FP(MBOCWWB)",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Labour and Employment Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family",
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "In the event of the death of a pensioner who was receiving a pension from the Board, a family pension shall be given to the surviving spouse by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB).",
+  "descriptionMd": "The scheme “Family Pension” is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, in the event of the death of a pensioner who was receiving a pension from the Board, a family pension shall be given to the surviving spouse by the Board.",
+  "benefitsMd": "- In the event of the death of the pensioner, a family pension shall be given to the surviving spouse.\n- The amount of pension will be 50% of the pension received by the pensioner or ₹100/- whichever is higher.",
+  "eligibilityMd": "1. The beneficiary should be a resident of Meghalaya.\n   1. The deceased individual/worker should have been receiving a pension from the Meghalaya Building &amp;amp; Other Construction Workers Welfare Board.\n   1. In the event of the death of the pensioner, the surviving spouse shall be eligible for the family pension.\n   1. The spouse of the pensioner should not be receiving any pension from the Government/Semi-Government/Private Organization.\n   1. The spouse of the pensioner should not be receiving any salary from the Government/Semi-Government/Private Organization.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Online Registration Process (Portal):**\n\n**Step 01:** The applicants may visit the online Portal: [https://megbocwwb.gov.in/bocw_services/login.htm](https://megbocwwb.gov.in/bocw_services/login.htm)\n**Step 02:** The applicant can register by creating a new account, on the home page click on the ‘Worker’ button and enter all the mandatory information.\n**Step 03:** After filling in all the details, click on ‘Register’.\n**Step 04:** After successful registration, the applicant will see the message “Registered Successfully”.\n&gt; **Application Process for Family Pension:**\n\n**Step 01:** Visit the online Portal: https://megbocwwb.gov.in/bocw_services/login.htm \n**Step 02:** Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login.\n**Step 03:** After successful login, click on the “Family Pension” scheme from the Dashboard.\n**Step 04:** Fill in all the required information and necessary enclosures.\n**Step 05:** Click ‘Submit’ to apply for benefits.\n&gt; **Application Process to Track/Update:**\n\n**Step 01:** Visit the online Portal: [https://megbocwwb.gov.in/bocw_services/login.htm](https://megbocwwb.gov.in/bocw_services/login.htm)\n**Step 02:** Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login.\n**Step 03:** From the menu, click on ‘Track Application Status’.\n**Step 04:** Click on ‘View Details’ to view your application.\n**Step 05:** Click on ‘Application History’ to view the application history.\n**Step 06:** Click on ‘Update’ to update your application.\n**Note:** Once your application is under process or processed, you cannot update it.\n(Worker’s [User Manual](https://megbocwwb.gov.in/bocw_services/assets/files/user-manual-workers.pdf))",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megbocwwb.gov.in/enrollment"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://megbocwwb.gov.in/schemes_family_pension"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://megbocwwb.gov.in/bocw_services/login.htm"
+    },
+    {
+      "title": "Application Form For Family Pension",
+      "url": "https://megbocwwb.gov.in/forms/benefit/familypension.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

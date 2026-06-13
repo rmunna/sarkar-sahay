@@ -1,0 +1,31 @@
+{
+  "slug": "bsg",
+  "name": "Bankable Scheme",
+  "shortTitle": "BSG",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide financial assistance to scheduled caste persons for self-employment opportunities. Under this scheme, loans are provided for business, industry, or service activities, along with a subsidy of 50% of the loan amount or a maximum of ₹50,000/-.",
+  "descriptionMd": "The &quot;Bankable Scheme&quot; is implemented by the Gujarat Scheduled Caste Development Corporation (GSCDC) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to provide financial assistance to scheduled caste persons for self-employment opportunities. Under this scheme, loans are provided for business, industry, or service activities, along with a subsidy of 50% of the loan amount or a maximum of ₹50,000/-. For setting up or expanding self-employment ventures in areas like animal husbandry, tailoring, groceries, beauty parlors, carpentry, RCC centering, footwear, bamboo work, embroidery, and other small-scale trades.\n<br>",
+  "benefitsMd": "- Loan assistance up to ₹2,00,000/- for businesses, industries, and service activities.\n- Maximum loan of ₹1,00,000/- for business and ₹1,00,000/- for the industry/service sector individually.\n- Subsidy of 50% of the loan amount or up to ₹50,000/-, whichever is lower.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be from a scheduled caste.\n1. The applicant must be a permanent resident of Gujarat.\n1. The applicant&#39;s age must be between 18 to 60 years.\n1. The applicant must be unemployed.\n1. The applicant must be capable of undertaking business activity**.**1. The applicant must not be a defaulter of any financial institution.\n1. The applicant&#39;s annual income must not exceed ₹1,50,000/- (if residing in urban area) and ₹1,20,000/- (if residing in rural area).\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration**\n\n\n- Visit the Gujarat Scheduled Caste Development Corporation, Gandhinagar [official website](https://gscdconline.gujarat.gov.in/Account/ApplicationLogin). - Click on the &quot;New user (Register)&quot;.\n- Fill the registration form:  Email ID, Mobile Number, Password for login, Confirm Password.\n- Click on the &quot;Submit.\n- After successful registration, User ID and Password will be generated.\n\n> **Application**\n\n\n- Enter Username, Password, and Captcha Code.\n\n\n- After login, schemes applicable to your caste will be displayed.\n- Click on the scheme you want to apply for.\n- Fill out the &quot;Application Form&quot; and upload the required documents\n- Click Save Application. The system will generate an Application Number.\n- Click Print Application.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.gujarat.gov.in/gscdc/bankebal-scheme?lang=English"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

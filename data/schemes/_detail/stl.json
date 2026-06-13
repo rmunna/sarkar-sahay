@@ -1,0 +1,27 @@
+{
+  "slug": "stl",
+  "name": "Soil Testing Laboratory",
+  "shortTitle": "STL",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Agriculture and Farmers' Welfare Department launched the \"Soil Testing Laboratory\" scheme for the farmer on 01 April 2013.",
+  "descriptionMd": "**Description**\n\n- Soil Testing Lab - For analysing soil samples preceding the application of fertilizer in the correct dosage in farmers&#39; field.\n\n**Objectives**\n\n- The analysis is free of cost of soil samples preceding application of fertilizers/ liming etc. for farmers along with distribution of Soil Health Card (SHC).\n\n**Mode of Selection of Beneficiary(s)**\n\n- Bonafide farmers have sufficient available cultivable land on a first come first served basis.",
+  "benefitsMd": "",
+  "eligibilityMd": "- Bonafide farmers engaged in Agriculture",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=30"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

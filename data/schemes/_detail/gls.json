@@ -1,0 +1,39 @@
+{
+  "slug": "gls",
+  "name": "Griha Lakshmi Scheme",
+  "shortTitle": "GLS",
+  "level": "state",
+  "state": "Karnataka",
+  "nodalDept": "Woman and Child Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"Griha Lakshmi\" aims to provide financial assistance to women heads of households in Karnataka. The scheme offers a monthly benefit of ₹2,000/- to eligible women, helping them manage household expenses and improve their economic stability.",
+  "descriptionMd": "The scheme &quot;Griha Lakshmi&quot; by the by the Department of Women and Child Development, Government of Karnataka aims to empower women by providing financial assistance to female heads of households. The scheme offers a monthly financial aid of ₹2,000/- to eligible women, helping them manage household expenses and improve their quality of life. Eligible beneficiaries include women who are listed as the head of the family in the ration card, and the scheme is open to families holding Below Poverty Line (BPL) or Above Poverty Line (APL) ration cards.",
+  "benefitsMd": "- Financial Assistance of ₹2,000/- per month.\n- The amount is directly transferred to the beneficiary&#39;s bank account linked with Aadhaar (DBT) or through RTGS for non-Aadhaar linked accounts.",
+  "eligibilityMd": "- The applicant should be a woman.\n\n\n- The applicant should be listed as the head of the family on the ration card.\n- The applicant should be the head of the family as per the ration card (BPL or APL).\n- The family of the applicant should be a resident of Karnataka.\n\n**Preference/Priority/Reservation/Relaxation**\n\n- Women from BPL families are given priority.\n- In case of the death of the family head, the next eligible female member can be registered.",
+  "exclusionsMd": "- The families where the head of the household is a male.\n- The families where the woman head is paying income tax or GST.",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:****** Visit the Official Website of [**Seva Sindhu Guarantee Schemes Portal**](https://sevasindhugs.karnataka.gov.in/).\n**Step 2:****** Register on the portal using your Aadhaar Number and Mobile Number.\n**Step 3:****** Use the credentials you created during registration to log in. Navigate to the online application form for the scheme. \n**Step 4:** In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.\nCarefully review all the information provided and the documents uploaded. Make any necessary corrections.\n**Step 5:** Acknowledge and agree to the terms and conditions, declaration, and privacy policy (if any). Click the &quot;Submit&quot; or &quot;Apply&quot; button to submit your application. You&#39;ll receive a confirmation message. Note the application reference number for tracking.",
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://wcd.karnataka.gov.in/storage/pdf-files/GruhaLaxmiGO.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://wcd.karnataka.gov.in/"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://sevasindhugs.karnataka.gov.in/PDF/Gruha_Lakshmi_FAQ.pdf"
+    },
+    {
+      "title": "Government Order",
+      "url": "https://sevasindhugs.karnataka.gov.in/PDF/Gruha_Lakshmi_Main_GO.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

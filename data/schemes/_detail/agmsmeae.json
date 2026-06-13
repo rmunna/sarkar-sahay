@@ -1,0 +1,41 @@
+{
+  "slug": "agmsmeae",
+  "name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Saving in Consumption of Energy and Water ",
+  "shortTitle": "AGMSMEAE",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Industries and Mines Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity",
+    "Government Organisation",
+    "Industries"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Aatmanirbhar Gujarat Scheme for assistance to MSMEs\" aims to empower the state's dynamic MSME sector, which significantly contributes to employment, GDP, and exports.",
+  "descriptionMd": "The &amp;quot;Aatmanirbhar Gujarat Scheme for MSMEs&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat. It aims to empower the state&amp;#39;s dynamic MSME sector, which significantly contributes to employment, GDP, and exports. Effective from October 5, 2022, to October 4, 2027, this initiative supports growth, investments, and the vision of &amp;quot;Aatmanirbhar Gujarat&amp;quot; and &amp;quot;Aatmanirbhar Bharat.&amp;quot;\nThe component &amp;quot;Assistance for Saving in Consumption of Energy and Water&amp;quot; provides financial assistance to enterprises for taking measures that reduce energy and water consumption. It aims to promote sustainable practices and enhance resource efficiency in industries by providing support for energy/water audits and equipment purchases.",
+  "benefitsMd": "> **Energy/Water Audit Reimbursement:**\n\n\n\n  - 75% of the cost of an energy/water audit, up to ₹50,000/- will be reimbursed.\n  - Reimbursement is available once during the operative period of the scheme.\n\n\n> **Equipment Cost Assistance:**\n\n\n\n  - 25% of the cost for equipment recommended by the audit authority, up to ₹20,00,000/-, is eligible for assistance.\n  - Assistance is available once during the scheme&#39;s operative period.\n\n\n> **Energy/Water Savings Requirement:**\n\n\n\n  - Assistance for equipment is available only if the energy or water savings are at least 10% of the average monthly consumption over the last 12 months before the audit.",
+  "eligibilityMd": "1. The firm must be a Micro/Small/Medium enterprise in the service sector.\n   1. The enterprise must have obtained acknowledgment or registration from the Ministry of MSME or the Department for Promotion of Industry and Internal Trade (DPIIT), as applicable.\n   1. Enterprises must have undergone an energy/water audit conducted by a recognized institution/consultant to qualify for the audit reimbursement.\n   1. Enterprises must demonstrate a minimum 10% reduction in energy/water consumption, based on the audit findings, to qualify for equipment assistance.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step-1:** Visit the [Investor Facilitation Portal (IFP)](https://ifp.gujarat.gov.in/DIGIGOV/) portal. Click on &quot;New Investor Registration&quot; to access the registration form.\n**Step-2:** Fill in the Registration Form. Click on &quot;Submit&quot;. \n**Step-3:** Verify the E-mail ID using the link sent on your registered E-mail ID.\n**Step-4:** After verification, you will be registered successfully.\n<br>\n\n> **Post-Registration Process:**\n\n**Step-1:** Visit the [Investor Facilitation Portal (IFP)](https://ifp.gujarat.gov.in/DIGIGOV/) portal. Click on &quot;Login&quot;.\n**Step-2:** Enter the email address and password you used during registration.\n**Step-3:** Click the &quot;Login&quot; button to access your account.\n**Step-4:** Now fill in the required details and mandatory documents about your business to complete the application process.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines 1",
+      "url": "https://msmec.gujarat.gov.in/uploads/homepagescroll/GR09082023.pdf"
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://msmec.gujarat.gov.in/uploads/homepagescroll/Guideline09082023.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://ifp.gujarat.gov.in/IC/digigov.htm?actionFlag=loadCitizenRegPage"
+    },
+    {
+      "title": "Document Checklist",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2023/CHECKLIST_MERGE.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

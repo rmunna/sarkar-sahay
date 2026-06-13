@@ -1,0 +1,35 @@
+{
+  "slug": "is",
+  "name": "Incubation Scheme",
+  "shortTitle": "IS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Micro, Small and Medium Enterprises",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "University / Institution"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Incubation Scheme aims to promote and support untapped creativity and to promote adoption of latest technologies in MSMEs that seek the validation of their ideas at the proof-of-concept level.",
+  "descriptionMd": "Launched by the Ministry of Micro, Small &amp; Medium Enterprises , &quot;Incubation Scheme&quot; Under MSME Innovative Scheme aims to promote and support untapped creativity and to promote adoption of latest technologies in MSMEs that seek the validation of their ideas at the proof-of-concept level. The scheme also supports engagement with enablers who will advise such MSMEs in expanding the business by supporting them in design, strategy and execution.\n**Activities:**\n\n- Recognition of eligible institutions as Host Institute (HI) to act as Business Incubator (BI);\n- Approval of Ideas of Incubatees submitted through Host Institute (HI);\n- Assistance for nurturing of Ideas to HI;\n- Assistance towards Capital Support to HI for Plant and Machiner.\n\n<br>",
+  "benefitsMd": "- Up to maximum of ₹ 15,000,00 /-per idea shall be provided to HI for developing and nurturing the ideas.\n- Up to ₹ 1,00,000,00 /- (max) shall be provided to HI for procurement and installation of relevant plant and machines including hardware and software etc. in BI for R&amp;D activities and common facilities for incubatees of BI.\n\n<br>\n\n<br>",
+  "eligibilityMd": "- Institutions such as Technical Colleges, Universities, other Professional Colleges/Institutes, R&amp;D Institutes, NGOs involved in incubation activities, MSME-DIs/ Technology Centres or any Institute/Organization of Central/State Government.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration:**\n\n**Step 01:** After opening the [official website](https://my.msme.gov.in/inc/)  click on **HI REGISTRATION** button.\n**Step 02:** Enter all the details and clicking on **Submit** button.\n**Step 03:** After clicking the submit button, registration successfully message will be displayed. Clicking on **OK** button, login window will be displayed.\n> **HI/BI Application for Approval:**\n\n**Step 01:** After successful login, the HI/BI dashboard will be open. HI/BI application will be open by clicking on **Apply for HI/BI Approval** button. After clicking on button Apply button will be displayed.\n**Step 02:** After click on Apply button, HI/BI application window will be display, fill all the detail and click on **Final Submit** button.\n> User Manual: [Click here](https://my.msme.gov.in/inc/Download_Documents.aspx).\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://innovative.msme.gov.in/Documents/FinalGuidelines_MSME_Innovative.pdf"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://innovative.msme.gov.in/Documents/MSME_InnovativeFAQ.pdf"
+    },
+    {
+      "title": "List Of Host Institute (HI)",
+      "url": "https://my.msme.gov.in/inc/HIList.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

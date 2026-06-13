@@ -1,0 +1,27 @@
+{
+  "slug": "tfppt",
+  "name": "Training of Farmers on Pulses Production Technologies",
+  "shortTitle": "TFPPT",
+  "level": "state",
+  "state": "Tamil Nadu",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The “Training of Farmers on Pulses Production Technologies” scheme aims to educate farmers on advanced pulses production technologies to enhance crop yield.",
+  "descriptionMd": "The “Training of Farmers on Pulses Production Technologies” scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, offers financial assistance for training programs to educate farmers on advanced pulses production technologies.",
+  "benefitsMd": "- **Financial Assistance:** ₹15,000/- per batch for 50 farmers.- **Training Program:** Training on advanced pulse production techniques.",
+  "eligibilityMd": "- The beneficiary should be a Farmer.\n  - The beneficiary should be a resident of Tamil Nadu.\n  - The beneficiary should raise seed farms with Pulses crop.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/7068"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -56,34 +56,31 @@ export default function Home() {
   return (
     <div>
       {/* Hero */}
-      <section className="text-center py-14 md:py-20">
-        <div className="inline-flex items-center gap-2 px-4 py-1.5 bg-orange-50 border border-orange-200 rounded-full text-sm text-orange-700 font-medium mb-6">
-          🇮🇳 Your trusted guide to government services
+      <section className="text-center pt-12 pb-14 md:pt-16 md:pb-20">
+        <div className="inline-flex items-center gap-2 px-4 py-1.5 bg-white border border-[var(--line)] rounded-full text-sm text-slate-600 font-medium mb-6 shadow-sm">
+          <span className="text-orange-500">●</span> Trusted by lakhs of citizens · {totalGuides.toLocaleString("en-IN")}+ guides
         </div>
-        <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-5 leading-tight">
-          Government Services,{" "}
-          <span className="text-orange-600">Made Simple</span>
+        <h1 className="text-4xl md:text-[3.25rem] font-extrabold text-[var(--ink)] mb-5 leading-[1.08] tracking-tight">
+          Government services,{" "}
+          <span className="text-orange-600">made simple</span>
         </h1>
-        <p className="text-lg md:text-xl text-gray-500 max-w-2xl mx-auto leading-relaxed">
-          Step-by-step guides for every Indian government service — Aadhaar, PAN,
-          Passport, Schemes, Jobs & more. Always accurate. Always free.
+        <p className="text-lg md:text-xl text-slate-500 max-w-2xl mx-auto leading-relaxed">
+          Clear, step-by-step guides for every Indian government service — Aadhaar, PAN,
+          passport, schemes, jobs and more. Always accurate. Always free.
         </p>
         {/* Search Bar */}
         <div className="mt-8 flex justify-center">
           <SearchBar />
         </div>
-        <div className="mt-5 flex flex-wrap justify-center gap-3">
-          <Link prefetch={false}
-            href="/categories"
-            className="px-6 py-3 bg-orange-600 text-white rounded-xl font-semibold hover:bg-orange-700 transition shadow-sm"
-          >
-            Browse All Guides
+        <div className="mt-6 flex flex-wrap justify-center gap-3">
+          <Link prefetch={false} href="/eligibility" className="btn-primary">
+            🎯 Check scheme eligibility
           </Link>
-          <Link prefetch={false}
-            href="/about"
-            className="px-6 py-3 bg-white text-gray-700 border border-gray-200 rounded-xl font-semibold hover:border-orange-300 hover:text-orange-600 transition"
-          >
-            How It Works
+          <Link prefetch={false} href="/schemes" className="btn-secondary">
+            Browse 3,500+ schemes
+          </Link>
+          <Link prefetch={false} href="/categories" className="btn-secondary">
+            All guides
           </Link>
         </div>
       </section>

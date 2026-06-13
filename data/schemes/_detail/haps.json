@@ -1,0 +1,27 @@
+{
+  "slug": "haps",
+  "name": "Hiv / Aids Pension Scheme",
+  "shortTitle": "Haps",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Women and Child Development Department, Puducherry",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The Government of Puducherry introduced the HIV / AIDS Pension Scheme to extend a helping hand through monthly financial assistance to HIV/AIDS Affected People so that they could defray some petty personal/ medical expenses without depending on others.",
+  "descriptionMd": "The Government of Puducherry introduced the HIV / AIDS Pension Scheme to extend a helping hand through monthly financial assistance to HIV/AIDS Affected People so that they could defray some petty personal/ medical expenses without depending on others.",
+  "benefitsMd": "1. ₹ 1500/- per month with age less than 60 years.\n1. ₹ 2000/- per month with age between 60 years and 79 years.\n1. ₹ 3000/- per month with age 80 years and above.",
+  "eligibilityMd": "1. He/She must be a resident of UT of Puducherry.\n1. He/She should be a registrant in the ART Centre, IGMC&amp;RI, Puducherry / Link ART Centre JIPMER in respect of Puducherry region, ART Centre, Nagapattinam in respect of Karaikal region, ART Centre, Calicut in respect of Mahe region, ART Centre, Kakinada in respect of Yanam region and taking regular treatment and any other ART/Link ART centres to be established in future in the UT of Puducherry.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "> Whom to Apply\n\n\n- Puducherry: The Deputy Director (Social Defence), Old Age Pension Section, Department of Women and Child Development, Puducherry.- Karaikal: The Child Development Project Officer, Karaikal.- Mahe/Yanam: The Welfare Officer, Mahe/ Yanam.\n> Processing Time\n\n\n- The selection is periodical and depends on the vacancies and on the availability of funds.\n\n> In case of delay whom to contact?\n\n\n- Puducherry: The Director, Department of Women and Child Development, Sithankudi, Puducherry.- Karaikal: The Collector, Karaikal.- Mahe/Yanam: The Regional Administrator, Mahe/Yanam.",
+  "references": [
+    {
+      "title": "Source",
+      "url": "https://oaps.py.gov.in/Home/hiv.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

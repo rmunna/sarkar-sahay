@@ -1,0 +1,31 @@
+{
+  "slug": "dpswdwp",
+  "name": "Delhi Pension Scheme To Women In Distress (Widow Pension)",
+  "shortTitle": "DPSWD(WP)",
+  "level": "state",
+  "state": "Delhi",
+  "nodalDept": "Department of Women and Child Development",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Delhi Pension Scheme to Women in Distress is a welfare scheme to provide social security by way of financial assistance to widows, divorced, separated, abandoned, deserted or destitute women in the age group of 18 years of lifelong who do not have adequate means of subsistence and are poor & needy.",
+  "descriptionMd": "Delhi Pension Scheme to Women in Distress (Widow Pension) is a welfare scheme of the Government of the National Capital Territory (NCT) of Delhi to provide social security by way of financial assistance to widows, divorced, separated, abandoned, deserted or destitute women in the age group of 18 years to lifelong who do not have adequate means of subsistence and are poor, needy and vulnerable.",
+  "benefitsMd": "",
+  "eligibilityMd": "- A woman who is a widow, divorced, separated, abandoned, deserted, or destitute woman above the age of 18 years of lifelong.\n- Residence of a minimum of 5 years in Delhi before the date of application. \n- The annual income of the applicant should be less than ₹ 1,00,000/-per annum from all sources (including rent, interest/dividends on savings &amp; investments, earnings from the farm, property sale proceeds, etc.) of the applicant. \n- Applicant should have the Aadhar number \n- The Applicant should have a single-operated Aadhar-linked account with any bank in the NCT of Delhi only. \n- Must not be receiving any pension/ financial assistance from Central Govt./ State Govt./MCD or NDMC and other Governmental/local bodies or any other source for this purpose.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://www.wcddel.in/faw.html"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://edistrict.delhi.gov.in/eDownload/FaqForm/Faq_2605.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

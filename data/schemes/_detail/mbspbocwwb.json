@@ -1,0 +1,43 @@
+{
+  "slug": "mbspbocwwb",
+  "name": "Maternity Benefit Scheme (P.B.O.C.W.W.B)",
+  "shortTitle": "MBSPBOCWWB",
+  "level": "state",
+  "state": "Punjab",
+  "nodalDept": "Department of Labour",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Maternity Benefit Scheme'' by the BOCW Welfare Board, Department of Labour, Punjab, is a welfare scheme that provides financial assistance to the female construction workers and spouse of the male workers to support childbirth-related expenses maximum for two living children.",
+  "descriptionMd": "The &amp;quot;Maternity Benefit Scheme&amp;#39;&amp;#39; by the BOCW Welfare Board, Department of Labour, Punjab, is a welfare scheme for the registered workers of the board. Under this scheme, the Board shall provide financial assistance to construction workers to support childbirth-related expenses for upto two living children of the registered female construction workers and spouse of the male workers.\n&lt;br&gt;",
+  "benefitsMd": "**Female Construction Workers:** ₹21,000/- per child, maximum of two children.\n**Male Construction Workers:** ₹5,000/- per child, maximum of two children (for children of their spouse).\n<br>",
+  "eligibilityMd": "&gt; ***For Registration as a Building/ Construction Worker:***\n\n\n  - The applicant should be a resident of Punjab.\n  - The applicant should be a Building/ Construction Worker (Unorganised Worker).\n  - The applicant should be between 18 and 60 years.\n  - The applicant should have engaged in building and construction work for at least 90 days in a given year.\n  - The applicant should have a monthly income of ₹15,000/- or below.\n  - The applicant should not be a member of any other Welfare Fund established under any law.\n  - The applicant should not have membership of the Employees&amp;#39; Provident Fund (EPF)/ National Pension System (NPS)/ Employees&amp;#39; State Insurance Corporation (ESIC).\n  - The applicant should not be an income tax payer.\n\n&gt; ***For the Application of the Welfare Scheme:***\n\n\n  - The beneficiary should have been a registered member of the Board for at least 6 months prior to the birth of the child.\n  - The beneficiary should have regularly depositing his contribution.\n  - The scheme applies upto two living children.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online - via CSC",
+  "applicationMd": "&gt; **Registration Process as a Building/ Construction Worker:**\n\n\n  - For new registration of workers please approach the nearby Sewa Kendra or Registering officers/ Labour Inspector.\n\n&gt; ***Application Process of the Welfare Scheme:***\n\n\n  - To apply for benefits of the concerned welfare scheme, please approach to nearby Sewa Kendra or Registering Officers/ Labour Inspector of your area.\n\n&gt; ***Note:***\n\n\n  - **Registration with the Board:** A construction worker becomes a member of the board by filling out Application Form No 28 along with depositing registration fees of ₹ 25/- only (once in life) and ₹ 10/- per month as contribution fees. A worker at a time can get himself registered for a minimum period of 1 year &amp;amp; maximum period of 5 years. The registered worker is called &amp;#39;Beneficiary&amp;#39; of the Board.\n&gt; **Important Links:**\n\n\n  - **Check Your Registration Application Status:** Registered workers can check their registration application status through visiting this [link ](http://bocw.punjab.gov.in/Login.aspx?Id=1)upon entering their Registration Number.  - **Download Registration Card:** Registered workers can download their registration Registration Card through visiting this [link ](https://bocw.punjab.gov.in/Login.aspx?Id=1)upon entering their Registration Number.  - **Check your Scheme Application Status:** Registered workers can check their scheme application status through visiting this [link ](https://bocw.punjab.gov.in/Login.aspx?Id=1)upon entering their Registration Number.  - **CSC Locator:** Visit this [link ](https://www.apnacsconline.in/csc-locator/punjab/)to search nearest Common Service Center (CSC) of your area.  - **List of Sewa** **Kendra:** Visit this [link ](https://punjab.gov.in/documents/10191/1112286/Final+List-V1.0.pdf/6ab437f3-f04c-427d-a2b7-dd49515f075b)to see the list of Sewa Kendra.\n&gt; **Helpdesk:**\n\n&gt; Punjab Building And Other Construction Workers Welfare Board\n\n&gt; **Address:** Labour Bhawan Model Welfare Centre Phase 10, Sector 64, Sahibzada Ajit Singh Nagar, Punjab, 160062\n\n&gt; **Phone :** +91 172-2540125\n\n&gt; **Email :** bocwhq@gmail.com\n\n&gt; **For Bocw Portal Related Queries (Technical Support):-**\n\n&gt; **Phone :** +91 172-2540125\n\n&gt; **Email :** bocwhq@gmail.com\n\n&gt; **Office Visiting Hours :** Monday to Friday\n\n&gt; (09:00 AM to 05:00 PM)",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://bocw.punjab.gov.in/userfiles/file/Scheme%20Forms/BOCW%20Schemes%20in%20English%20Final2.pdf"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://bocw.punjab.gov.in/userfiles/file/Scheme%20Forms/Twenty%20Welfare%20Sch%20in%20English%20report%20wise.pdf"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://bocw.punjab.gov.in/bocwstatic/about"
+    },
+    {
+      "title": "Required Documents",
+      "url": "https://bocw.punjab.gov.in/bApi/images/file-1657795380826.pdf"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://bocw.punjab.gov.in/userfiles/file/Instructions/Computerization%20of%20BOCW.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

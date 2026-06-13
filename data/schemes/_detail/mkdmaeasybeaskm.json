@@ -1,0 +1,31 @@
+{
+  "slug": "mkdmaeasybeaskm",
+  "name": "Mrityu Ki Dasha Me Antyeshti Evam Anugrah Sahayata Yojana",
+  "shortTitle": "MAEAS",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This scheme \"Mrityu ki Dasha Mein Antyeshti Evam Anugrah Sahayata Yojana\"  started by the Labor department of Madhya Pradesh to provide the financial assistance in the case of death.",
+  "descriptionMd": "The &quot;Mrityu ki Dasha Mein Antyeshti Evam Anugrah Sahayata Yojana&quot; scheme, implemented by the Madhya Pradesh Labor Department since 2004. The objective of the scheme is to provide financial assistance to the dependents of registered construction workers in Madhya Pradesh in the case of their death.\nThe scheme has the following financial assistance aims:\n\n- Alleviate the immediate financial burden on the family caused by funeral expenses. \n- Offer some financial support during a difficult time after the loss of a breadwinner.\n\n\n- Additionally, the scheme offers ex-gratia payments in case of permanent or partial disability due to an accident, further aiming to provide some financial security to registered workers who may face challenges due to an injury sustained while working.\n\n<br>",
+  "benefitsMd": "1. Funeral assistance- ₹6,000/-\n1. Ex-gratia payment-\n\n  - In case of normal death : ₹2,00,000/-\n  - In case of death due to accident : ₹4,00,000/-\n  - In case of permanent disability due to accident : ₹2,00,000/-\n  - In case of partial permanent disability due to accident : ₹1,00,000/-",
+  "eligibilityMd": "1. The worker must have been registered for at least 6 months before their death.\n1. Death can be due to only natural causes or an accident.\n1. The worker must have a valid identity card.\n1. Benefit will only be provided to following successor-\n\n  - Wife or husband (as the case may be) of a worker holding a valid identity card\n  - Sons and unmarried and dependent daughters\n  - Dependent parents\n  - If there is none of the above, a family member who is dependent on the deceased worker.\n\n\n<br>\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "1. The applicant has to submit the application form in the prescribed format and within the time limit to the office of the designated officer.\n\n  - Rural Area - Chief Executive Officer, Janpad Panchayat\n  - Urban Area - Commissioner, Municipal Corporation/Chief Municipal Officer, Municipality/Municipal Council\n\n1. Apply duration\n\n\n\n  - Within 06 months from the death of the construction worker.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=336"
+    },
+    {
+      "title": "Details",
+      "url": "https://labour.mp.gov.in/Public/Pages/Schemes/MratyuSahayta.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

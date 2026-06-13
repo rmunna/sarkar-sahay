@@ -1,0 +1,35 @@
+{
+  "slug": "scds",
+  "name": "Sikhligar’s Community Development Scheme",
+  "shortTitle": "SCDS",
+  "level": "state",
+  "state": "Karnataka",
+  "nodalDept": "Minorities Welfare Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Sikhligar’s Community Development Scheme\" aims to promote economic self-reliance among the Sikhligara community, the Corporation will provide a subsidy and a subsidy of 33% of the vehicle cost for purchasing goods tempos, or vehicles to economically backward of Karnataka state.",
+  "descriptionMd": "The &quot;Sikhligar’s Community Development Scheme&quot; was launched by the Minorities Welfare Department, Government of Karnataka, and implemented by the Karnataka Minorities Development Corporation. The scheme aims to support the Sikhligara community in Karnataka, which is economically backward and primarily engaged in ironware welding and fabrication. Recognizing the need for economic self-reliance, the scheme provides financial assistance in the form of loans and subsidies to help community members start their own businesses or purchase vehicles for commercial purposes.",
+  "benefitsMd": "- **Financial Assistance:** The scheme offers a loan of ₹50,000/- and a subsidy of ₹50,000/- for business ventures. For purchasing goods tempos or vehicles, a subsidy of 33% of the vehicle cost, up to a maximum of ₹1,50,000/-, is provided.\n<br>\n\n\n- **Subsidy for Self-Employment Loans:** A 33% subsidy, up to a maximum of ₹1,00,000/-, is available for those taking loans from banks or financial institutions for self-employment purposes.",
+  "eligibilityMd": "1. The applicant must belong to the Sikh community.\n1. The applicant must be a permanent resident of the state.\n1. The applicant&#39;s age should be between 18 and 55 years.\n1. The family income from all sources should not exceed ₹6,00,000/-.\n1. No family member of the applicant should be a State/Central Government employee.\n1. Neither the applicant nor their family members should have availed of any loan/subsidy facility from the Corporation in the last 5 years, except for the Arivu Education Loan and Foreign Education Loan Scheme.\n1. The applicant should not be a defaulter of the Corporation.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "***Application Process:***\n**Step-01:** Applicant need to visits the Karnataka Minorities Development Corporation [official website](https://kmdconline.karnataka.gov.in/Portal/home).\n**Step-02:** Click &quot;Apply Online&quot; and Enter &quot;Mobile Number&quot; and &quot;Submit&quot;**.**\n**Step-03:** Enter &quot;Aadhaar Number&quot; Fill in the &quot;Captcha&quot; and Select &quot;Next&quot;.\n**Step-04:** Applicant will get OTP in his/her Aadhaar Linked Mobile Number.\n**Step-05:** Enter &quot;OTP&quot; and select &quot;Continue&quot;, After that Allow the official notice.\n**Step-06:** After verifying the Aadhaar again fill in the &quot;OTP&quot; and Submit.\n**Step-07:** Select the scheme &quot;Sikhligar’s Community Development Scheme&quot; and fill in the basic details father&#39;s name, gender, qualification detail\n**Step-08:** Select &quot;Next&quot; Fill in the address detail and again select &quot;Next&quot;.\n**Step-09:** Upload the required document passport-size photo, educational document, income certificate, etc. \n**Step-10:** Click &quot;Proceed&quot; and Select &quot;Submit Application&quot; and get an Application ID.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://kmdconline.karnataka.gov.in/Portal/home"
+    },
+    {
+      "title": "Login & Apply",
+      "url": "https://kmdconline.karnataka.gov.in/Portal/login"
+    },
+    {
+      "title": "Track Application",
+      "url": "https://kmdconline.karnataka.gov.in/Portal/track"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

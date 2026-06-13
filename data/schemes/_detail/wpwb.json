@@ -1,0 +1,35 @@
+{
+  "slug": "wpwb",
+  "name": "Widow Pension-West Bengal",
+  "shortTitle": "WPWB",
+  "level": "state",
+  "state": "West Bengal",
+  "nodalDept": "Women and Child Development and Social Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The West Bengal government's Women and Child Development and Social Welfare Department launched the \"Widow Pension\" scheme in 2010. This program aims to support widows facing economic hardship within the state.",
+  "descriptionMd": "In 2010, the West Bengal state government, through the Women and Child Development and Social Welfare Department, launched a compassionate initiative called the &quot;Widow Pension&quot; scheme. This program aims to provide financial support to widows facing economic hardship within the state.\n<br>\n\n<br>",
+  "benefitsMd": "- Financials assistance of ₹1,000/- per Month through DBT mode to the beneficiaries.",
+  "eligibilityMd": "1. The beneficiary must be widow girl/woman.\n1. The beneficiary should attain the age of 60 years or more.\n1. The beneficiary must be a citizen of India and a resident of West Bengal.\n1. The beneficiary family income must not exceed ₹ 1,000/- per month.\n1. The beneficiary must not be maintained by any of her relative.\n1. The beneficiary must have been a resident of West Bengal for at least ten years on the date of making the application.\n1. Professional beggars and mendicants are not eligible for the pension.",
+  "exclusionsMd": "- An applicant who is already a recipient of a pension under another scheme, such as the Disability Pension, Old Age Pension, or Farmers’ Pension, is not eligible for the Widow Pension.",
+  "applicationMode": "Offline",
+  "applicationMd": "**Application Form(**[**Form-P)**](https://wbswpension.gov.in/readwrite/miscellaneous/form-P.pdf) **for Pension may be obtained free of cost from following offices namely:**\n\n1. Office of the Block Development Officer or the Executive Officer of the concerned Panchayat Samity in case of the applicant resides in the rural areas under the said Panchayat Samity.\n1. Office of the Sub-Divisional Officer in case of the applicant resides in Municipal / Notified areas outside the areas of Kolkata Municipal Corporation.\n1. Office of the Controller of Vagrancy, West Bengal situated at Purta Bhawan, Bidhan Nagar, Kolkata-700091, in case of the applicant resides within the areas under Kolkata Municipal Corporation.\n\n<br>\n\n**Required information for application form**\n\n1. Person Details.\n1. Contact Details.\n1. Type of Disability and disability percentage.\n1. Bank Account Details.\n1. Required documents\n\n  - Copy of Aadhaar self-attested.\n  - Copy of Ration Card.\n  - Copy of Voter Id.\n  - Copy of Disability Certificate.\n  - Copy of Income Certificate.\n  - Copy of Husband’s Death Certificate.\n  - Copy of Bank Pass Book.\n  - Nomination Form (In case of death).\n  - Passport Size photograph.\n\n\n<br>\n\n**Application Form for Pension shall be addressed to:-**\n\n1. The District Magistrate of the concerned District and shall be submitted to the Block Development Officer or the Executive Officer of the Panchayat Samity in case of the applicant residing in the rural areas under a Panchayat Samity.\n1. The District magistrate of the concerned District and Shall be submitted to the Sub-Divisional Officer in case of the applicant residing in Municipal / Notified areas outside the areas of Kolkata Municipal Corporation.\n1. The Controller of Vagrancy, West Bengal and shall be submitted to the Controller Vagrancy West Bengal in case of the applicant residing within the areas under Kolkata Municipal Corporation.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://wbswpension.gov.in/pages/wcd_about_scheme.php"
+    },
+    {
+      "title": "Guidelines (2021)",
+      "url": "https://cdn.s3waas.gov.in/s3fc3cf452d3da8402bebb765225ce8c0e/uploads/2021/07/2021072064.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://wbswpension.gov.in/readwrite/miscellaneous/form-P.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

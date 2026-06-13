@@ -1,0 +1,35 @@
+{
+  "slug": "pbanbocwwb",
+  "name": "Pension Benefit (ANBOCWWB)",
+  "shortTitle": "PB(ANBOCWWB)",
+  "level": "state",
+  "state": "Andaman and Nicobar Islands",
+  "nodalDept": "Labour, Employment & Training Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, pension shall be provided to the Building and Other Construction Workers who are registered under the A&N Islands Building and Other Construction Workers Welfare Board upon attaining the age of 55 years.",
+  "descriptionMd": "The scheme “Pension Benefit” was started by the Andaman &amp;amp; Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB), Department of Labour, Employment &amp;amp; Training, Andaman &amp;amp; Nicobar Administration. Under this scheme, a pension shall be provided to the Building and Other Construction Workers who are registered under the A&amp;amp;N Islands Building and Other Construction Workers Welfare Board upon attaining the age of 55 years.",
+  "benefitsMd": "1. Under the scheme, the registered construction worker, who has completed 55 years of age, is eligible for pension @ ₹1,000/- per month.",
+  "eligibilityMd": "1. The beneficiary should be a resident of the Union territory of Andaman &amp;amp; Nicobar Islands.\n   1. The beneficiary should be engaged in building or other construction works and continue as such work for a continuous period of not less than five years.\n   1. The beneficiary should be registered under the A&amp;amp;N Islands Building and Other Construction Workers Welfare Board.\n   1. The registered construction worker, who has completed 55 years of age, is eligible to apply under the scheme.\n   1. The beneficiary must have made regular contributions to the welfare fund for at least 5 years.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Portal Registration Process:**\n\n**Step 01:** Visit online Portal: [https://serviceonline.gov.in/login.do](https://serviceonline.gov.in/login.do)\n**Step 02:** On the home page, click on ‘[Register](https://serviceonline.gov.in/citizenRegistration.html)’ and fill in all the mandatory details.\n**Step 03:** Click on the ‘Submit’ button and validate your Email ID &amp;amp; Mobile Number using OTP received.\n**Step 04:** After successful validation, the applicant will be registered.\n&gt; **Registration Process of Construction Workers under A&amp;amp;N Islands Building &amp;amp; Other Construction Workers Welfare Board:**\n\n**Step 01:** Applicant can [login](https://serviceonline.gov.in/loginWindow.do) through their email ID that is used while registering\n**Step 02:** Enter Password &amp;amp; Captcha\n**Step 03:** Click on ‘Login’\n**Step 04:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’\n**Step 05:** Now, search for the “Registration of Construction Workers in AN BOCWWB” and then click to proceed registration process.\n**Step 06:** Fill in all the mandatory details and upload all the relevant documents.\n**Step 07:** Preview the form and click on ‘Submit’.\n**Step 08:** After successful registration, the applicant will receive a registration ID. \n&gt; **Application Process for Pension Financial Assistance:**\n\n**Step 01:** Now, to avail the benefits of the scheme, the applicants can [login](https://serviceonline.gov.in/loginWindow.do) through their email ID that is used while registering\n**Step 02:** Enter Password &amp;amp; Captcha\n**Step 03:** Click on ‘Login’\n**Step 04:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’\n**Step 05:** Now, search for ‘Pension Financial Assistance’ and click on the scheme to proceed to fill out the application form.\n**Step 06:** Fill in all the mandatory details and upload all the mandatory documents.\n**Step 07:** Preview the application form and click on ‘Submit’.\n&gt; **Application Tracking:**\n\n**Step 01:** To track the application status, the applicant can visit the online Portal and[ login](https://serviceonline.gov.in/loginWindow.do) through their ‘User ID’ &amp;amp; ‘Password’.\n**Step 02:** On the home page, click on “View Application Status’ and then click on ‘Track Application Status’.\n**Step 03:** Enter the Application Reference Number and click on ‘Get Data’ to know the status of your application.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://labour.and.nic.in/webPages/welfareboard.html#:~:text=Pension%20Benefit%3A%20%2D%20Registered%20construction%20worker,Rs%201000%2F%2Dper%20month.&text=MBBS%2FBE%2FProfessional%20Course%20the,a%20case%20to%20case%20basis."
+    },
+    {
+      "title": "Application Portal",
+      "url": "https://serviceonline.gov.in/login.do"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://labour.and.nic.in/webPages/forms/Pen.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

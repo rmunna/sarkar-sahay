@@ -1,0 +1,28 @@
+{
+  "slug": "fpis",
+  "name": "Family Planning Indemnity Scheme",
+  "shortTitle": "FPIS",
+  "level": "state",
+  "state": "Goa",
+  "nodalDept": "Health Services Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family",
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme provides compensation ranging from ₹60,000/- for sterilization failure to ₹4,00,000/- for death following sterilization, along with coverage for treatment costs up to ₹50,000/- for complications arising within 60 days post-operation.",
+  "descriptionMd": "The scheme &quot;Family Planning Indemnity Scheme&quot; was launched by the Directorate of Health Services, Government of Goa. The scheme aims to provide compensation for death, failure, or complications following sterilization operations, addressing the financial burden and risks associated with family planning procedures. The scheme provides compensation ranging from ₹60,000/- for sterilization failure to ₹4,00,000/- for death following sterilization, along with coverage for treatment costs up to ₹50,000/- for complications arising within 60 days post-operation.\n<br>",
+  "benefitsMd": "**Section A:** Death following sterilization (inclusive of death during sterilization operation) in hospital or within 7 days from discharge - ₹4,00,000/-.\n**Section B:** Death following sterilization within 8-30 days from discharge - ₹1,00,000/-.\n**Section C:** Failure of sterilization - ₹60,000/-.\n**Section D:** Cost of treatment in hospital and up to 60 days arising out of complications following sterilization operation - Actual cost not exceeding ₹50,000/-.\n> ***Conditions***\n\n_*The claimant must accept the compensation amount as full settlement with no further claim rights._\n_*The claimant must warrant the truth of all particulars provided, with forfeiture of compensation for false statements._\n_*The claimant must agree that the compensation covers all aspects of the claim with no additional benefits._\n<br>",
+  "eligibilityMd": "##### ***For Beneficiary (Person who underwent Sterilization)***\n\n- The applicant must be a person who has undergone sterilization operation under family planning program.\n- The applicant must have undergone sterilization operation at an authorized health facility.\n- The applicant must be able to provide documentary evidence of the sterilization procedure.\n\n##### ***For Claimant (Family Member or Legal Representative)***\n\n- The applicant must be a legal claimant or family member of the person who underwent sterilization (in case of death or incapacitation).\n- The applicant should have legal authority to represent the beneficiary in case of death or inability to claim.\n\n> ***Conditions***\n\n_*The applicant must report complications, failure, or death within the specified timeframes as per scheme guidelines._\n_*The applicant must submit the claim through proper medical channels with certification from authorized medical officers._\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** ***Initial Reporting and Documentation***\n\n- Visit the health facility where sterilization was conducted and report the case of death, failure, or complication to the Medical Superintendent or Health Officer.\n- Begin collecting all required documents including original sterilization certificates, case papers, identity documents, and bank details from relevant sources.\n\n**Step 2:** ***Form Completion and Medical Certification***\n\n- Complete Part A of the [Claim Form cum Medical Certificate](https://www.goa.gov.in/wp-content/uploads/2022/05/Family-Planning-Indemnity-Scheme.pdf) with accurate personal details, sterilization operation information, and nature of claim.- Submit all medical records and completed Part A to the Chief Medical Officer or equivalent designated officer at district level for medical certification.\n\n**Step 3:** ***Application Submission***\n\n- Collect the medically certified claim form (Part A and Part B completed) from the certifying officer.\n- Submit the complete application with all required original documents and photocopies to the [respective health facility](https://dhs.goa.gov.in/pages/pios-and-apios) where sterilization was performed.\n**Step 4:** ***Follow-up and Verification***\n\n- Maintain regular contact with the health facility to track progress as the case moves through District Indemnity Scheme Committee review.\n- Provide any additional information or documentation if requested during the committee verification process.\n\n**Step 5:** ***Payment Processing***\n\n- The District Committee forwards the verified case to the state office (State Health Society) for final approval and processing.\n- Upon state approval, compensation amount is disbursed directly to the beneficiary&#39;s bank account as specified in the claim form.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dhs.goa.gov.in/cms-gov-be/public/uploads/cms_admin_files/1738151005_CITIZEN-CHARTER-2021.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

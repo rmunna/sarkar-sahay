@@ -1,0 +1,31 @@
+{
+  "slug": "tksukbocwwb",
+  "name": "Toolkit Assistance (UKBOCWWB)",
+  "shortTitle": "TKA(UKBOCWWB)",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department Of Labour",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to provide registered construction workers with a toolkit, including hand gloves and other construction-related tools, worth up to ₹10,000/-.",
+  "descriptionMd": "The scheme “Toolkit Assistance” is implemented by the Uttarakhand Building and Other Construction Workers Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand. The scheme aims to provide registered construction workers with a toolkit, including hand gloves and other construction-related tools, worth up to ₹10,000/-.\n<br>",
+  "benefitsMd": "Under this scheme, registered construction workers are provided with a toolkit worth up to ₹10,000/-.\n<br>",
+  "eligibilityMd": "1. The applicant must be a construction worker registered with the Uttarakhand Building and Other Construction Workers Welfare Board.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online - via CSC",
+  "applicationMd": "- The online application can be submitted through Shramik Suvidha Kendras. \n  - A self-attested photocopy of the Shramik Card, Aadhaar Card, and Self-Declaration Certificate must be submitted along with the application form. \n  - After departmental verification, the construction worker is provided with a toolkit, which may include hand gloves and other construction-related tools. \n  - Each beneficiary is eligible to receive this benefit only once in their lifetime.\n\n<br>",
+  "references": [
+    {
+      "title": "Scheme Details (Page No. 53)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://ukbocw.uk.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

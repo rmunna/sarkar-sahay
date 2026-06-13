@@ -1,0 +1,32 @@
+{
+  "slug": "nssggvn",
+  "name": "NEW SWARNIMA (Gopalak Nigam)",
+  "shortTitle": "NSGGN",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": null,
+  "targetBeneficiaries": [
+    "Individual",
+    "Business Entity"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Self-employment loan scheme for Rabari and Bharwad women in Gujarat, offering up to ₹2 lakh at 5% annual interest to promote economic independence.",
+  "descriptionMd": "The **New Swarnima Scheme** is a financial empowerment initiative by the **Gujarat Gopalak Vikas Nigam** under the **Social Justice and Empowerment Department**. It aims to provide **100% loan** support to women from the **Rabari and Bharwad communities** to promote self-employment and entrepreneurship.\nEligible women between the **age of 21 and 45 years**, with an **annual family income up to ₹3 lakh**, can receive a **loan of up to ₹2 lakh** at a subsidized **interest rate of 5% per annum** to start a business of their choice. The scheme is designed to increase economic independence and livelihood generation among backward class women.",
+  "benefitsMd": "- **100% loan** assistance provided to eligible women- Loan amount up to **₹2.00 lakh**- Interest rate fixed at **5% per annum**- Loan can be used to **start a business** of the beneficiary’s choice- Meant for **economically backward women** of specific castes- **Encourages entrepreneurship and self-reliance**",
+  "eligibilityMd": "1. Be a permanent **resident of Gujarat**1. Be a **woman**1. Belong to the **Rabari or Bharwad caste**1. Belong to a **socially and educationally backward class** as recognized by the Government of Gujarat1. Be between **21 to 45 years** of age1. Have a **total annual family** income not exceeding **₹3.00 lakh**1. Intend to start your **own business or self-employment** venture using the loan",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the official [**DAADC**](https://daadconline.gujarat.gov.in/) online portal.\n**Step 2:** **Register/log in** using your credentials.\n**Step 3:** Fill out the application form with accurate personal and scheme-specific details.\n**Step 4:** Upload the **required documents** and submit.",
+  "references": [
+    {
+      "title": "Official Link",
+      "url": "https://sje.gujarat.gov.in/ggvn/Schemes/1565"
+    },
+    {
+      "title": "Apply Link",
+      "url": "https://daadconline.gujarat.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

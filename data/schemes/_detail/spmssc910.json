@@ -1,0 +1,35 @@
+{
+  "slug": "spmssc910",
+  "name": "Sudama Pre-Matric Scholarship Scheme (Class 9th to 10th)",
+  "shortTitle": "SPMSSC910",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "School Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, scholarships are provided to students studying in Class 9 and Class 10 in government schools, whose annual family income is less than ₹1,00,000/- and who belong to the Below Poverty Line (BPL) category.",
+  "descriptionMd": "The scheme &amp;quot;Sudama Pre-Matric Scholarship Scheme&amp;quot; was launched by the School Education Department, Government of Madhya Pradesh, to motivate students from lower economic backgrounds and support them economically. Under this scheme, scholarships are provided to students studying in Class 9 and Class 10 in government schools, whose annual family income is less than ₹1,00,000/- and who belong to the Below Poverty Line (BPL) category.",
+  "benefitsMd": "- Under this scheme, the girl student will get a scholarship of ₹400/- and boy student will get a scholarship of ₹300/- per year.",
+  "eligibilityMd": "1. The applicant should be a resident of Madhya Pradesh.\n   1. The applicant should be studying in Class 9 or Class 10.\n   1. The student should be enrolled in a government school.\n   1. The applicant should belong to the Below Poverty Line (BPL) category.\n   1. The applicant&amp;#39;s family income from all sources should be less than ₹1,00,000/- per year.\n   1. The applicant should have passed the previous year&amp;#39;s class.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- To avail of the benefits under this scheme, eligible students can contact the Principal of their respective government schools.\n\n**Note:** The student&amp;#39;s profile is entered on the education portal [https://shikshaportal.mp.gov.in/](https://shikshaportal.mp.gov.in/) by the teacher of the educational institution as per the record/certificate provided by the student.",
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=421"
+    },
+    {
+      "title": "Guidelines (Page No. 26)",
+      "url": "https://aiggpa.mp.gov.in/uploads/publication/Social_Protection_Eng.pdf"
+    },
+    {
+      "title": "Online Shiksha Portal",
+      "url": "https://shikshaportal.mp.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

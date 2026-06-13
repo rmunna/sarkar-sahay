@@ -1,0 +1,27 @@
+{
+  "slug": "krbamas",
+  "name": "Kumar Rajratna Bhimrao Ambedkar Medical Assistance Scheme",
+  "shortTitle": "KRBAMAS",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide financial support to individuals belonging to SC category suffering from incurable & serious diseases. Under this scheme, Medical Assistance is provided to Scheduled Caste patients diagnosed with life-threatening conditions such as TB, Leukemia, & other critical illnesses.",
+  "descriptionMd": "The scheme &amp;quot;Kumar Rajratna Bhimrao Ambedkar Medical Assistance Scheme&amp;quot; was launched by the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to provide financial support to individuals belonging to Scheduled Caste category suffering from incurable and serious diseases. Under this scheme, financial assistance is provided to Scheduled Caste patients diagnosed with life-threatening conditions such as Tuberculosis (TB), Leukemia, and other critical illnesses.\n<br>",
+  "benefitsMd": "- Medical Assistance is provided to Scheduled Caste patients for treatment of incurable and critical diseases like TB, Leukemia, and other serious conditions.\n\n<br>",
+  "eligibilityMd": "1. The applicant should be a permanent resident of Gujarat.\n1. The applicant should belong to the Scheduled Caste (SC) category.\n1. The applicant should be suffering from an incurable or critical disease such as TB or Leukemia, as certified by a civil surgeon.\n1. The family income of the applicant should not exceed ₹6,00,000/- per annum.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should write the application on plain paper. \n**Step 2:** Attach copies of all the mandatory documents (self-attested, if required) along with the application.\n**Step 3:** Submit the duly filled and signed application along with the documents to the office of the Social Justice and Empowerment Department, Gujarat.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

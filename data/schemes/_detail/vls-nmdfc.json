@@ -1,0 +1,27 @@
+{
+  "slug": "vls-nmdfc",
+  "name": "Virasat Loan Scheme of NMDFC",
+  "shortTitle": "VLS-NMDFC",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Minority Affairs",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "All"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "Concessional credit of up to ₹10,00,000/- can be availed under Credit Line-1 & 2.  to meet Working Capital  and Fixed Capital for purchase of equipment/tools/machineries/raw material by the Minority Artisan.",
+  "descriptionMd": "This scheme is part of the Term Loan scheme and is implemented with the objective to meet Working Capital  and Fixed Capital for purchase of equipment/tools/machineries/raw material. Maximum loan of upto ₹10,00,000/- can be availed under Credit Line-1 &amp; 2. Simple interest of 5% p.a. is charged under Credit Line-1 and at  6% p.a. from Male Artisan under Credit line- 2. Concession of 1% is provided to Female Artisan under both the  Credit Lines.  \n<br>",
+  "benefitsMd": "- Concessional Credit to the beneficiaries among minority communities.\n\n<br>",
+  "eligibilityMd": "a) The applicant must be Indian and belong to one of the six notified minority communities: Muslim, Christian, Sikh, Buddhist, Parsi, or Jain.\nb) The annual family income of the applicant shall not exceed:\nRs. 3.00 lakh per annum under Credit Line–1.\nRs. 8.00 lakh per annum under Credit Line–2.\nc) The applicant must be an artisan or craftsperson engaged in a traditional occupation (such as handloom, handicraft, metalwork, leatherwork, embroidery, pottery, etc.).\nd) The applicant should have basic skills or certification in the relevant craft or trade, verified by a competent authority or local body.\ne) The loan shall be used for procurement of tools, equipment, raw materials, or working capital to enhance production and market linkage.\nf) Preference shall be given to women artisans and occupational clusters in minority-dominated areas.\ng) The applicant should not be a beneficiary of any other similar artisan financing scheme at the time of application.\nh) The beneficiary must possess a valid Aadhaar-linked bank account and minority certificate.\n<br>",
+  "exclusionsMd": "- Other than Six Notified minority communities having annual family income of more than Rs. 3.00 Lakhs under credit line 1 and of more than Rs.8.00 Lakhs under credit line 2.\n\n<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "- NMDFC implements its schemes &amp; programs through State Channelizing Agencies (SCA list: [www.nmdfc.org/SCA](https://www.nmdfc.org/SCA) ) nominated by the respective State Governments &amp; Banking Partners (Presently through Canara Bank &amp; Punjab Grameen Bank). \n<br>",
+  "references": [
+    {
+      "title": "NMDFC Lending Policy",
+      "url": "https://www.nmdfc.org/lendingpolicy"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

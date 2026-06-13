@@ -1,0 +1,31 @@
+{
+  "slug": "cm-sky",
+  "name": "Chief Minister’s Shasakt Kisan Yojana",
+  "shortTitle": "CM-SKY",
+  "level": "state",
+  "state": "Arunachal Pradesh",
+  "nodalDept": "Agriculture and Marketing Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The Govt. of Arunachal Pradesh started the scheme “Chief Minister’s Shasakt Kisan Yojana (CM-SKY)” for uplifting the status of women, marginal and small farmers of the State for self-employment generation & commercialization of Horticulture activities to double their income.",
+  "descriptionMd": "To increase production and productivity and also to maintain a marketable surplus of major fruit crops in the State as well as to double farmer’s income, the government has adopted region-wise feasible and need-based Horticulture activities in the various districts of Arunachal Pradesh under budget announcement during the financial year 2019-20, targeted up to 2021-22.\n**Objective:**\n      The main aim of the government scheme is to uplift the status of women, marginal and small farmers of the state for self-employment generation &amp;amp; commercialization of horticulture activities to double their income as per immediate felt needs of the farmers, according to thrust areas enumerated district-wise on suitable crops grown in the specific areas.\n**Important Features:**\n•\tInputs are provided to farmers for tea, rubber, and double cropping, per hectare\n•\tCrops under double cropping are selected based on soil testing",
+  "benefitsMd": "",
+  "eligibilityMd": "1.\tThe applicant/farmer should be a permanent resident of Arunachal Pradesh.\n2.\tThe applicant should be a progressive farmer of any area/field.\n3.\tAll categories of farmers are eligible to apply under the scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Website",
+      "url": "https://westsiang.nic.in/scheme-category/chief-ministers-sashakt-kisan-yojana-cm-sky/"
+    },
+    {
+      "title": "Guideline",
+      "url": "https://ahvdd.arunachal.gov.in/pdf/eBook/Government%20Scheme%20Handbook.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "gtcptsliu",
+  "name": "Gujarat Textile Policy: Power Tariff Subsidy (Fiscal Incentives to Labour Intensive Unit)",
+  "shortTitle": "GTCPTSLIU",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Industries and Mines Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity",
+    "Industries"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Gujarat Textile Policy\" introduced by the Industries and Mines Department aims to create a vibrant Textile Sector ecosystem and generate enormous employment opportunities in the State.",
+  "descriptionMd": "The &amp;quot;Gujarat Textile Policy&amp;quot; is an umbrella scheme introduced by the Industries and Mines Department, Gujarat. It aimed at augmenting investments in the textile sector and strengthening the textile value chain across each sub-sector, while also focusing on strengthening the garments and apparel as well as technical textiles industry. Effective from October 1st, 2024 to September 29th, 2029, this initiative focuses on reducing the carbon footprint and promoting green growth, thereby making the sector globally competitive and environmentally sustainable.\nThe component &amp;quot;Power Tariff Subsidy (Fiscal Incentives to Labour Intensive Unit)&amp;quot; is aimed at reducing electricity costs for eligible industrial units. This subsidy provides financial relief on power tariffs for industries availing electricity either from DISCOM (Distribution Companies) or through renewable power sources under open access.",
+  "benefitsMd": "ActivityPower Tariff SubsidyActivity-1INR 1/unit (kWh) for DISCOM Power or Renewable Power through open-access or drawl of power from group captive renewable energy plant with a cap of INR 15 Cr/Year for period of 5 years from DoCP.Activity-2INR 1/unit (kWh) for DISCOM Power or Renewable Power through open-access or drawl of power from group captive renewable energy plant with a cap of INR 15 Cr/Year for period of 5 years from DoCP.",
+  "eligibilityMd": "1. The industrial unit must be recognized as a Labour Intensive Unit.\n   1. New industrial units are eligible for the Power Tariff Subsidy.\n   1. Existing industrial units undergoing expansion, diversification, or modernization are eligible.\n   1. The industrial unit must submit electricity bills in its name.\n   1. The unit must apply within one year from the Date of Commercial Production (DoCP).\n\n**Note:** In the case of expansion/diversification/modernization, the subsidy applies only to additional power consumption beyond the previous year’s average.\n&gt; **Eligible Activities:**\n\n**Activity 1:**\n\n  - Garments, Apparel &amp;amp; Made-ups, Technical Textiles Activity (including Composite Unit)\n\n**Activity 2:**\n\n  - Weaving (with or without preparatory), Knitting, Dyeing &amp;amp; Processing, Texturising, Twisting, Embroidery and MMF Spinning to manufacture yarn from Polyester Staple Fiber (PSF) / Viscose Staple Fiber (VSF) (excluding Spinning activity of Cotton and Synthetic Filament Yarn).\n\n&amp;amp;gt; **Labour Intensive Unit:**\n\nLabour Intensive Unit means a new industrial unit that provides minimum employment to 4000 (four thousand) persons duly registered under EPF scheme, out of which minimum female employee should be at least 1000 (one thousand). The existing unit that carrying out expansion/diversification of activities , during the operative period of the scheme and provides totally new employment to minimum 4000 (four thousand) persons duly registered under EPF scheme, out of which minimum female employee should be at least 1000 (one thousand).",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "&gt; **Application for Registration:**\n\n**Step 1:** The application has to be made to the Industries Commissioner in the [prescribed format](https://ic.gujarat.gov.in/documents/commondoc/2025/GTP%202024%20Registration%20Form.pdf) along with the following documents within one year from loan disbursement, production start, or policy operative date (whichever is later).\n**Step 2:** On receipt of the application and after the scrutiny and verification of relevant documents as per the procedure prescribed, registration certificate will be issued by the Industrial Commissioner.\n&lt;br&gt;\n\n&gt; **Application for Provisional/Final Eligibility Certificate:**\n\n**Application for Industrial Unit:**\n\n  - **MSME Units having GFCI up to INR 10 Crore:** After DoCP, the Industrial Unit shall submit an application to the General Manager, District Industries Center.  - **MSME Units having GFCI above INR 10 Crore and up to 50 Crore:** After DoCP, the Industrial Unit  shall submit an application to MSME Commissioner for Provisional Eligibility Certificate within 1 year from DoCP or within one year from the date of issuance of this GR, whichever is later.  - **Other than MSME Units:** After DoCP, the Industrial Unit, having registration shall submit an application for Provisional Eligibility Certificate to the Industries Commissioner within 1 year from DoCP or within 1 year from the date of issuance of the registration certificate, whichever is later.\n&lt;br&gt;\n\n**Contact Us:**\n&gt; [Industries Commissionerate](https://ic.gujarat.gov.in/ic-contact.aspx)\n\n&gt; [District Industries Center](https://ic.gujarat.gov.in/dic-contact.aspx)",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ic.gujarat.gov.in/documents/pagecontent/Gujarat%20Textile%20Policy_2024.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "spaa",
+  "name": "Shahu, Phule, Ambedkar Award",
+  "shortTitle": "SPAA",
+  "level": "state",
+  "state": "Maharashtra",
+  "nodalDept": "Social Justice and Special Assistance Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Institution"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The \"Shahu, Phule, Ambedkar Award\" is an award by the Govt. of Maharashtra. The award is given to the Registered Organizations working in various fields of Social Justice, doing Social Reforms in the state, and taking Maharashtra forward as a social reformist State.",
+  "descriptionMd": "The &quot;Shahu, Phule, Ambedkar Award&quot; is an award by the Department of Social Justice &amp; Special Assistance, Govt. of Maharashtra. The award is given to the Registered Organizations working in various fields of Social Justice, doing Social Reforms in the state, and taking Maharashtra forward as a social reformist State. Only the Institutions/Organizations located within the State of Maharashtra can apply to this scheme. This scheme is 100% funded by the Govt. of Maharashtra. This scheme is 100% funded by the Govt. of Maharashtra.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The Institute/Organization should be located within the state of Maharashtra.\n1. The Institute/Organization should have done work in the field of Social Justice in the state of Maharashtra.\n1. The period of the Social Service should be 15 years &amp; above in the state of Maharashtra.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/awards"
+    },
+    {
+      "title": "District Social Welfare Office",
+      "url": "https://sjsa.maharashtra.gov.in/en/contacts"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

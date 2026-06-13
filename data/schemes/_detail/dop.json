@@ -1,0 +1,27 @@
+{
+  "slug": "dop",
+  "name": "Distribution of Pulses",
+  "shortTitle": "DOP",
+  "level": "state",
+  "state": "Jharkhand",
+  "nodalDept": "Food, Public Distribution and Consumer affairs Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme \"Distribution of Pulses\" by the Department of Food, Public Distribution, and Consumer Affairs, Government of Jharkhand, aims to ensure food security by providing pulses at affordable rates to eligible households under NFSA and JSFSS.",
+  "descriptionMd": "The scheme &quot;Distribution of Pulses&quot; by the Department of Food, Public Distribution, and Consumer Affairs, Government of Jharkhand, aims to provide pulses at affordable rates to eligible households, ensuring nutritional support and food security. Under this scheme, pulses at subsidized rates are made available to beneficiaries holding AAY and PHH cards under NFSA and Green Cards under JSFSS.",
+  "benefitsMd": "1. Subsidized pulses are provided to the households.\n1. The scheme supports food security by reducing the cost of essential pulses for low-income families.\n1. Benefits are delivered monthly through designated ration shops.\n1. Households holding AAY and PHH cards under NFSA and Green Cards under JSFSS are given Pulses.",
+  "eligibilityMd": "1. The applicant should be a resident of Jharkhand.\n1. The applicant should hold an Antyodaya Anna Yojana (AAY) or Priority Household (PHH) card under NFSA or a Green Card under JSFSS.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "1. Visit the nearest ration shop or designated enrollment center with the required documents.\n1. If Aadhaar is not available, apply for Aadhaar enrollment at an authorized center.\n1. Submit the Aadhaar number or Aadhaar Enrolment Identification Slip during registration.\n1. Verify the eligibility and documents with the designated officer.\n1. Collect the pulses from the distribution center as per the monthly schedule.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/Home/ViewDoc?id=D009DO003SD00625102023010522864"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

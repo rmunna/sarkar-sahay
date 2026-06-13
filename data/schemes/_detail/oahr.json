@@ -1,0 +1,27 @@
+{
+  "slug": "oahr",
+  "name": "Operation of Ashram Hostels",
+  "shortTitle": "OAHR",
+  "level": "state",
+  "state": "Rajasthan",
+  "nodalDept": "Tribal Area Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Under this scheme, free accommodation, nutritious meals, educational materials, uniforms, personal hygiene items, and other facilities are provided to Scheduled Tribe (ST) students residing in ashram hostels operated by the Tribal Area Development Department.",
+  "descriptionMd": "The scheme &amp;quot;Operation of Ashram Hostels&amp;quot; was launched by the Department of Tribal Area Development, Government of Rajasthan. It aims to ensure continued education for tribal students who lack access to nearby higher-level schools due to the poor economic condition of their families. Under this scheme, free accommodation, nutritious meals, educational materials, uniforms, personal hygiene items, and other facilities are provided to Scheduled Tribe (ST) students residing in ashram hostels operated by the Tribal Area Development Department.",
+  "benefitsMd": "> **Students are provided with the following annually and monthly benefits:**\n\n**Annually (per student):**\n\n- School uniform with stitching\n- Shoes, socks, towel, and warm sweater\n\n**Monthly (per student):**\n\n- Nutritious breakfast and meals\n- Hair oil\n- Bathing and washing soap\n- Hair cutting service\n- Laundry for bed linen (sheet, pillow cover, blanket)\n- Electricity and water facilities\n- Newspapers and magazines",
+  "eligibilityMd": "1. The applicant should be a native of Rajasthan.\n   1. The applicant should belong to the Scheduled Tribe community.\n   1. Scheduled Tribe students are eligible if there is no primary school within 1.5 km, no upper primary school within 3 km, and no secondary/higher secondary school within 5 km of their residence.\n   1. The parents/guardians should not be an income tax payee.\n   1. The applicant&amp;#39;s family should not own more than 400 square yards of urban land.\n   1. The applicant&amp;#39;s family should not own more than 15 bighas of agricultural land.\n   1. The student should pass the current academic year to continue enrollment in the next year.\n   1. The student should be a resident of the same district in which the hostel application has been made.\n\n**Notes:**\n\n  - All new admissions will be made on the basis of merit.\n  - Admission to hostels in specific tribal areas will be given only to tribal students belonging to the same area.\n  - Re-admission in the next academic year will be granted only if the student passes the annual examination.",
+  "exclusionsMd": "",
+  "applicationMode": "Online - via CSC",
+  "applicationMd": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Keep the receipt or acknowledgment form for future reference.\n&gt; **Note:**\n\n\n  - All new admissions will be made on the basis of merit.\n  - Admission to hostels in specific tribal areas will be given only to tribal students belonging to the same area.\n  - Re-admission in the next academic year will be granted only if the student passes the annual examination.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://tad.rajasthan.gov.in/scheme/detail/533"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

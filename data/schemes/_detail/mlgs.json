@@ -1,0 +1,35 @@
+{
+  "slug": "mlgs",
+  "name": "Mumkin - Livelihood Generation Scheme",
+  "shortTitle": "MLGS",
+  "level": "state",
+  "state": "Jammu and Kashmir",
+  "nodalDept": "Mission Youth",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Mumkin - Livelihood Generation Scheme\" is a initiative of Jammu & Kashmir State. This scheme is provide the financial help to the youth to empower them and promote the self employment.",
+  "descriptionMd": "&quot;Mumkin - Livelihood Generation Scheme&quot; is an initiative launched by the Jammu &amp; Kashmir State specifically aimed at empowering its young population. Recognizing the challenges faced by unemployed youth, this program offers financial assistance to help them embark on their journey towards self-employment. By providing subsidies and facilitating bank loans, Mumkin removes a significant financial barrier for aspiring young entrepreneurs, allowing them to invest in small commercial vehicles and establish themselves within the transportation sector. This not only fosters self-reliance among Jammu &amp; Kashmir&#39;s youth but also injects fresh energy and resources into the local economy.\n<br>\n\n<br>",
+  "benefitsMd": "- Up to ₹80,000 subsidy (or 10% of on-road price, whichever is lower) per beneficiary from Mission Youth.\n- Matching subsidy from the vehicle manufacturer (equal to Mission Youth&#39;s contribution).",
+  "eligibilityMd": "1. Applicant must be domicile of Jammu and Kashmir.\n1. The age of the applicant should be between 18 to 35 years.\n1. Applicant must be unemployed.\n1. Applicant must have commercial driving license \n\n  - In case, renting a vehicle to someone else : Affidavit required to be submit with his/her commercial driving license \n\n1. Applicant must not be received any financial assistance or subsidy from government organization for self employment. \n1. Applicant can get the scheme benefit only at once.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration**\n\n\n1. Applicant need to follow the [official website](https://www.jk.gov.in/jkeservices/home).1. Click on the [registration ](https://www.jk.gov.in/jkeservices/cznregistration)button and provide the following details.\n  - Citizen Registration Details.\n  - Last Resided/Current Address Details.\n  - Permanent Address Details.\n  - Additional Details.\n  - Login Details.\n\n1. Submit\n\n<br>\n\n> **Login &amp; Apply**\n\n\n1. Login on the [official website](https://www.jk.gov.in/jkeservices/home).1. Click on e-services and select **Finance/Mission youth** _option._1. Fill out the application form and vehicle details. \n1. Upload the required documents.\n\n  - Driver Photograph.\n  - Domicile Certificate/Ration Card.\n  - Birth Certificate.\n  - Applicant Driving License.\n  - Driver Driving License.\n  - Affidavit.\n  - Unemployment Certificate. \n\n1. Submit.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://missionyouth.jk.gov.in/presentations/mumkin.pdf"
+    },
+    {
+      "title": "Registration",
+      "url": "https://www.jk.gov.in/jkeservices/cznregistration"
+    },
+    {
+      "title": "Login & Apply",
+      "url": "https://www.jk.gov.in/jkeservices/home"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

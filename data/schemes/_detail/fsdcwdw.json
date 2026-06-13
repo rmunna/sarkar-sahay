@@ -1,0 +1,39 @@
+{
+  "slug": "fsdcwdw",
+  "name": "Financial Assistance To Dependent Children Of Widows And Destitute Women",
+  "shortTitle": "FSDCWDW",
+  "level": "state",
+  "state": "Chandigarh",
+  "nodalDept": "Social Welfare, Women & Child Development",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"Financial Assistance To Dependent Children of Widows And Destitute Women\" is a Social Welfare scheme by the Dept. of Social Welfare, Women & Child Development, Govt. of Chandigarh; to extend financial assistance (₹ 1000/- per month per child) to children who are fatherless or orphan.",
+  "descriptionMd": "The scheme &quot;Financial Assistance To Dependent Children of Widows And Destitute Women&quot; is a Social Welfare scheme by the Department of Social Welfare, Women &amp; Child Development, Govt. of Chandigarh. The objective of the scheme is to extend financial assistance to such children who are fatherless or whose parents (both mother and father) have died. The scheme is applicable to all the children of widow/destitute women under 18 years of age who have been deprived of parental no support or care after their parent&#39;s death or continued absence from home. The applicant should be a resident of UT of Chandigarh for more than 3 years. ₹ 1000/- per month per child is provided for upto two children in a family to meet the cost of maintenance and education.",
+  "benefitsMd": "₹ 1000/- per month per child is provided for up to two children in a family to meet the cost of maintenance and education.",
+  "eligibilityMd": "1. The applicant should be a widow/destitute woman or with a dependent child/children. OR the legal guardian of the child/children who have been deprived of parental support or care after their parent&#39;s death or continued absence from home.\n1. The age of the child/children should be less than or equal to 18 years. \n1. If parents of the child/children have died, the assistance will be provided to the legal guardian.\n1. The widow/destitute woman or the legal guardian should be a resident of the UT of Chandigarh for more than 3 years.\n1. The child should not be in receipt of family pension from any State/Central Govt.\n\n<br>\n\n**NOTE:** Children who have been given institutional care by government/NGO shall not be eligible for financial assistance.",
+  "exclusionsMd": "Children who have been given institutional care by government/NGO shall not be eligible for financial assistance.",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Register on the [ServicePlus]() portal. Verify your Email ID and Mobile Number via OTP.\n**Step 2:** Login to the [ServicePlus]() portal using the Username and Password received over your registered Email ID.\n**Step 3:** Select State as &quot;Chandigarh&quot;, and scroll down to the section titled &quot;Find a Report of Your Interest&quot;. Click &quot;List Of Services Offered Across The Country&quot;. You will be shown a list of all the schemes by the Govt. of Chandigarh.\n**Step 4:** From the list, select &quot;Financial Assistance To Dependent Children of Widows And Destitute Women&quot;.\n**Step 5:** You will be directed to the application form. Fill in all the mandatory fields (highlighted in a red asterisk):\nDetails of the Applicant; Details of the Dependent; Reference Details of 2 Responsible Persons; Bank Details; Declaration.\n**Step 6:** Click &quot;Submit&quot;.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://chdsw.gov.in/index.php/scheme/the-financial-assistance-to-dependent-children-of-widows-and-destitute-women"
+    },
+    {
+      "title": "Application Form (Offline)",
+      "url": "https://chdsw.gov.in/uploads/media/1604739785-THE_FINANCIAL_ASSISTANCE_TO_DEPENDENT_CHILDREN_OF_WIDOWS_AND_DESTITUTE_WOMEN.pdf"
+    },
+    {
+      "title": "Application Form (Online)",
+      "url": "https://serviceonline.gov.in/dbt/viewServiceApplicationForm.do?serviceId=14280002&tempId=4993&templStatus=243&state=4&backButtonUrl="
+    },
+    {
+      "title": "Guidelines (PDF)",
+      "url": "https://chdsw.gov.in/uploads/media/1604649291-Notification_regarding_THE_FINANCIAL_ASSISTANCE_TO_DEPENDENT_CHILDREN_OF_WIDOWS_AND_DESTITUTE_WOMEN_.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

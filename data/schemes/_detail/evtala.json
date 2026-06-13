@@ -1,0 +1,27 @@
+{
+  "slug": "evtala",
+  "name": "Exposure Visits To The Assam Legislative Assembly",
+  "shortTitle": "EVTALA",
+  "level": "state",
+  "state": "Assam",
+  "nodalDept": "Parliamentary Affairs Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The Exposure Visits to the Assam Legislative Assembly scheme was introduced in the budget speech during the first Budget Session in July 2016. It aims to provide an opportunity for Political Science students in Assam to visit and observe the functioning of the Assam Legislative Assembly.",
+  "descriptionMd": "At the initial stage, groups of students from High School upto College level would be arranged to visit the Assam Legislative Assembly during the sessions, in consultation with the Assam Legislative Assembly Sectt. The educational institutions may be identified, to the extent necessary, with input by the respective DCs/Inspectors of Schools, and the students will be selected by the respective Headmasters/Principals. The students may preferably be from related subjects such as Political Science, Economics, etc. within the Arts/Humanities streams in colleges/higher secondary schools and social sciences in secondary schools. The groups of students would have both girls and boys (if the selected institution is co-educational). Each group will be accompanied and guided by one male and one female teacher to be deputed by the respective Headmasters/Principals.",
+  "benefitsMd": "1.\tPractical Exposure: Students gain practical experience by visiting the Assam Legislative Assembly and witnessing the legislative sessions, debates, and bill discussions.\n2.\tInteraction: Students have the opportunity to interact with dignitaries such as the Hon&#39;ble Speaker, Chief Minister, Ministers, MLAs, and senior officials.\n3.\tUnderstanding of Governance: The scheme helps students understand the functioning of the State Legislative Assembly and the legislative process.\n<br>",
+  "eligibilityMd": "1.\tEducational Institutions: High/Higher Secondary Schools and colleges within Assam are considered for participation.\n2.\tSubjects/Streams: Students from related subjects such as Political Science, Economics, etc., within the Arts/Humanities streams in colleges/higher secondary schools, and social sciences in secondary schools are preferred.\n3.\tSelection: Students showing good academic performance and enthusiastic participation in extracurricular activities like debating competitions, student activities, mock parliament, etc., may be selected.\n4.\tBatch Size: The total number of students in one batch should not exceed 50.\n5.\tVoluntary Participation: Student participation in the visit is voluntary, and only willing students should be selected.\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "1.\tThe selection of educational institutions and students is done in consultation with the respective District Collectors (DCs)/Inspectors of Schools.\n2.\tInvitations are issued to the Heads of educational institutions with due approval from the Hon&#39;ble Minister, Parliamentary Affairs.\n3.\tRecommendations from dignitaries like the Hon&#39;ble CM, Ministers, Speaker, Dy. Speaker, MLAs, MPs, etc., are considered for extending invitations.\n4.\tThe participating institutions inform the students about the visit and the code of conduct to be followed.\n5.\tTransportation arrangements to and from the Assembly and around Guwahati city are made by the Assam State Transport Corporation (ASTC).\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://parliamentaryaffairs.assam.gov.in/schemes/exposure-visit-to-assam-legislative-assembly"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

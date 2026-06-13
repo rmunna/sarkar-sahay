@@ -1,0 +1,31 @@
+{
+  "slug": "ts-kerala",
+  "name": "Thalolam Scheme",
+  "shortTitle": "Ts-kerala",
+  "level": "state",
+  "state": "Kerala",
+  "nodalDept": "Social Justice Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The Government of Kerala launched the “Thalolam Scheme” under Kerala Social Security Mission to provide free treatment to children affected with chronic diseases such as haemophilia, cerebral palsy, etc.",
+  "descriptionMd": "The Government of Kerala launched the “Thalolam Scheme” on 1st January 2010 under Kerala Social Security Mission by the Social Justice Department, Kerala. The aim of the scheme is to provide free treatment to the children below age of 18, who are suffering from Kidney diseases, Cardiovascular diseases, Cerebral Palsy, Brittle Bone Disease, Hemophilia, Thalassemia, Sickle Cell Anemia, Orthopedic deformities, and other Neuro-Developmental Disabilities, Congenital anomalies (Endosulfan victims) and accident cases which needs surgery.\n**Hospitals receiving free treatment:**\n\n1. Govt. Medical College Hospital, Trivandrum\n1. Govt. Medical College Hospital, Thrissur\n1. Govt. Medical College Hospital, Alappuzha\n1. S. A. T Hospital, Trivandrum\n1. Govt. Medical College Hospital, Kottayam\n1. IM C. H, Kozhikode\n1. Govt. Medical College, Kozhikode\n1. I.C.H.M.C. Kottayam\n1. Co-operative Medical College, Kannur\n1. Regional Cancer Center, Thiruvananthapuram\n1. District Hospital, Aluva, Ernakulam\n1. Sree Chithira Thirunal Hospital, Thiruvananthapuram",
+  "benefitsMd": "1. A patient will be eligible for initial assistance of ₹50,000/- only under this scheme.\n   1. Under the scheme, free treatment will be provided to the children below age of 18, who are suffering from Kidney diseases, Cardiovascular diseases, Cerebral Palsy, Brittle Bone Disease, Hemophilia, Thalassemia, Sickle Cell Anemia, Orthopedic deformities and other Neuro-Developmental Disabilities, Congenital anomalies (Endosulfan victims) and accident cases which needs surgery.\n\n**Note:** Additional financial assistance can be met based on the decision of the Superintendent, Head of the concerned Department of Specialty, and Head of the Radiotherapy Department.",
+  "eligibilityMd": "1. The applicant should be a resident of Kerala State and the scheme is applicable only to patients from Kerala.\n   1. The patient should be below 18 years of age.\n   1. The scheme is applicable to patients belonging to families too poor to afford treatment of the Below Poverty Line (BPL) category.\n   1. Under this scheme, assistance will be provided to the patient for diseases other than cancer which are lethal or fatal.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "To avail of the benefits of the scheme the applicant may contact the following authorities:\n\n   1. Scheme counselor of the Safety Mission assigned to the respective hospitals, contacts hospitals covered under this scheme.\n   1. Concerned District Social Justice Officer, Kerala\n\n**Note:** No special application is required. Based on the economic and social analysis done by the Counselors of the Safety Mission assigned to the respective hospitals, the benefit of the scheme will be applicable to the children of families who are unable to bear the cost of treatment.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://socialsecuritymission.gov.in/scheme_info.php?id=Mg=="
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://www.rcctvm.gov.in/patient-welfare.php#"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

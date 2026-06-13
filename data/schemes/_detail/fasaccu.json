@@ -1,0 +1,28 @@
+{
+  "slug": "fasaccu",
+  "name": "Financial Assistance and Grants to Sports Associations/ Clubs/ Sports Committees of Uttarakhand",
+  "shortTitle": "FAGSACSCUK",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department Of Sports",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Registered Societies",
+    "Sportsperson"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide financial support or grants to recognized sports associations, clubs, and committees in the state for organizing sports competitions and for purchasing sports equipment for associations and players at the national, state, and district levels.",
+  "descriptionMd": "The scheme “Financial Assistance and Grants to Sports Associations/Clubs/Sports Committees of Uttarakhand” was launched by the Department of Sports, Government of Uttarakhand. The scheme aims to provide financial support or grants to recognized sports associations, clubs, and committees in the state for organizing sports competitions and for purchasing sports equipment for associations and players at the national, state, and district levels.\n<br>",
+  "benefitsMd": "Recognized associations, clubs, and sports committees will receive financial assistance as follows:\n\n- National-level competitions: ₹3.50 lakh\n- State-level competitions: ₹2.50 lakh\n- District-level competitions: ₹1.00 lakh\n\nAdditionally, there is a provision to provide ₹2.50 lakh to players selected to represent at the international level.\n<br>",
+  "eligibilityMd": "1. The recognized Sports Associations, Clubs, and Sports Committees in Uttarakhand are eligible to receive financial assistance or grants under this scheme.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- Recognized associations, clubs, sports societies, and selected international-level players may apply for grants using the prescribed format, as per departmental rules.\n  - Sports associations, clubs, and committees in Uttarakhand are provided grants and financial assistance for organizing sports competitions and purchasing sports equipment, benefiting approximately 20 associations, committees, and players throughout the year.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 79)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "malmtc",
+  "name": "Marriage Assistance For Legally Married Transgender Couples",
+  "shortTitle": "MALMTC",
+  "level": "state",
+  "state": "Kerala",
+  "nodalDept": "Social Justice Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme “Marriage Assistance for Legally Married Transgender Couples” was launched by the Department of Social Justice, Government of Kerala. This scheme is intended to help deprived transgender individuals who are planning to get married legally to lead a steady normal family life.",
+  "descriptionMd": "The scheme “Marriage Assistance for Legally Married Transgender Couples” was launched by the Department of Social Justice, Government of Kerala. The Government of Kerala has introduced this scheme which provides marriage assistance for legally married transgender couples who have undergone Sex Reassignment Surgery (SRS). The amount of marriage assistance has been fixed to ₹30,000/-.This scheme is intended to help deprived transgender individuals who are planning to get married legally to lead a steady normal family life.",
+  "benefitsMd": "Under the scheme, financial assistance of ₹30,000/- will be provided to legally married transgender couples who have undergone Sex Reassignment Surgery (SRS).",
+  "eligibilityMd": "1. The applicant should be Transgender.\n   1. The applicants must possess a Transgender Identity card.\n   1. The applicant should be a resident of Kerala.\n   1. Transgender couples must apply for financial assistance after 6 months from the date of marriage and not exceeding the 1-year period.\n   1. For receiving the aid, one of the partners should belong to the Transgender community.\n   1. Those who have already availed of the financial assistance but opted for second marriage after divorce won’t be eligible for further aid.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Registration Process:**\n**Step 01:** To avail of the benefits of the scheme, the applicant needs to visit [SUNEETHI- Online Service Application Portal](https://suneethi.sjd.kerala.gov.in)\n**Step 02:** On the home page, click on “One time Registration”\n**Step 03:** Fill in the details like Name, Email ID &amp;amp; Mobile Number and click on ‘Register’.\n**Step 04:** The applicant needs to enter the verification code received on the mobile number and click on ‘Verify’.\n**Step 05:** Now, a form will open to create the new profile, fill in all the mandatory details and click on ‘Register’.\n**Login/Application Process:** \n**Step 01:** Once the registration process is completed, the applicant should visit [SUNEETHI- Online Service Application Portal](https://suneethi.sjd.kerala.gov.in) and click on “Citizen Login”.\n**Step 02:** Enter the user name i.e. Mobile Number and Password and click on “Sign in”.\n**Step 03:** Now, the applicant needs to update all their details i.e. Personal Information, Contact Details, Identity Cards &amp;amp; Bank Details by clicking on the &amp;#39;Edit&amp;#39; button.\n**Step 04:** Once the applicant updated their profile successfully, the schemes will appear on the left side of the screen.\n**Step 05:** Select the scheme and click on the “Apply Now” button.\n**Step 06:** Fill in all the mandatory details in the application form and click on the ‘Submit’ button.\n**Note:** The couples must apply for financial assistance after 6 months from the date of marriage and not exceeding the 1-year period.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "http://sjd.kerala.gov.in/scheme-info.php?scheme_id=MTUyc1Y4dXFSI3Z5"
+    },
+    {
+      "title": "Application Form",
+      "url": "http://sjd.kerala.gov.in/DOCUMENTS/Downloadables/Application%20Forms/31005.pdf"
+    },
+    {
+      "title": "Notice/Order",
+      "url": "http://sjd.kerala.gov.in/DOCUMENTS/Order_new/GOs/28124.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

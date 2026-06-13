@@ -1,0 +1,35 @@
+{
+  "slug": "issmp",
+  "name": "Integrated Scholarship Scheme",
+  "shortTitle": "ISSMP",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Higher Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This scheme offers scholarships for PhD, M.Phil., Postgraduate (qualification-based and qualification cum instrument-based), and sports, as well as merit-based scholarships for graduates, ranging from ₹300/- to ₹600/- per month.",
+  "descriptionMd": "The &amp;quot;Integrated Scholarship Scheme,&amp;quot; implemented by the Higher Education Department, Government of Madhya Pradesh, aims to provide financial assistance to meritorious students who are deprived of other scholarships to pursue higher education and training in various fields. The scheme offers scholarships for PhD, M.Phil., Postgraduate (qualification-based and qualification cum instrument-based), and sports, as well as merit-based scholarships for graduates, ranging from ₹300/- to ₹600/- per month. Eligible students must be natives of Madhya Pradesh, studying in a government college, with a family income not exceeding ₹54,000/- per annum from all sources.",
+  "benefitsMd": "The scholarships are provided at the following rates:\n**Sl. No.****Type of scholarship****Amount per month** **Quota**1PhD₹600/- 182M.Phil.₹500/- 143Postgraduate (Merit based only)₹500/- 734Postgraduate (Merit cum means based)₹500/- 735Sports₹300/-226Graduation (Merit based only)₹300/-1467Graduation (Merit cum means based)₹300/-146**Note:** The scholarship is provided for 10 months.",
+  "eligibilityMd": "1.\tThe applicant should be a native of Madhya Pradesh.\n2.\tThe applicant should be studying in a government/aided private college.\n3.\tThe annual income of parents/guardians of the applicant should not exceed ₹54,000/-.\n4.\tThe other qualifications of the applicant:\n\n  - **Ph.D:** 55% marks in post-graduation.   - **Postgraduate:** 55% marks in graduation.   - **Graduation (qualification cum means):** 55% marks in the examination of the Board of Secondary Education.  - 60% marks in Graduation (qualifying) examination of Board of Secondary Education.\n  - **Sports:** The applicant should be a member of the national sports team in the school team of Madhya Pradesh, or should be a member of the adult team of the state or should have been in any of the first three places in the state level competition.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Advertisement Issuanc**e: The [Directorate of Higher Education](https://highereducation.mp.gov.in/) issues advertisements inviting applications for the scholarship.\n**Application Review and Selection:** Applications received are evaluated and applicants are selected based on the prescribed quota limit.\n**Approval and Disbursement:** Upon approval from the Commissioner of Higher Education, the scholarship amount is deposited directly into the bank account of the selected applicant. \n**Note:** Selection of new applicants is done on the basis of merit process.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://highereducation.mp.gov.in/?page=k%2F1MNJyDoyS4k1yDLiNa%2BQ%3D%3D&leftid=ZnGWU%2BxYVl5%2BNBOUmwU4dg%3D%3D"
+    },
+    {
+      "title": "Scheme Details (Page No. 127)",
+      "url": "https://aiggpa.mp.gov.in/uploads/publication/Social_Protection_Eng.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=46"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

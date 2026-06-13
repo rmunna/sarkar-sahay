@@ -1,0 +1,27 @@
+{
+  "slug": "bbtbdftwodap",
+  "name": "Book Binder Training by Department for the Welfare of Differently Abled Persons",
+  "shortTitle": "BBTBDFTWODAP",
+  "level": "state",
+  "state": "Tamil Nadu",
+  "nodalDept": "Welfare of Differently Abled Persons Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The 'Book Binder Training by Department for the Welfare of Differently Abled Persons' was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. The scheme aims to provide book binder training to visually impaired candidates.",
+  "descriptionMd": "The &#39;Book Binder Training by Department for the Welfare of Differently Abled Persons&#39; was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu.  The scheme aims to provide imparted book binder training to visually impaired candidates at the government higher secondary school, poonamallee every year.",
+  "benefitsMd": "- Free book binding training every year is imparted in government higher secondary schools for the visually impaired.",
+  "eligibilityMd": "1. The beneficiary should be a visually impaired person.\n1. The beneficiary should have passed the 8th standard. \n1. The beneficiary  should be between 18 to 40 years age group.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit (during office hours) the District Differently Abled Welfare Officer/Government Higher Secondary School For Visually Impaired Poonamallee and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Differently Abled Welfare Officer/Government Higher Secondary School For Visually Impaired Poonamallee.\n**Step 4:** Request a receipt or acknowledgment from the District Differently Abled Welfare Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Citizen's Charter (2022)",
+      "url": "https://cms.tn.gov.in/sites/default/files/documents/wda_e_cc_2022_23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

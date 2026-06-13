@@ -1,0 +1,27 @@
+{
+  "slug": "sgpd",
+  "name": "Surgical Grant For The Prevention Of Disability",
+  "shortTitle": "SGPD",
+  "level": "state",
+  "state": "Uttar Pradesh",
+  "nodalDept": "Empowerment of Persons With Disabilities Department, Uttar Pradesh",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Surgical Grant for the Prevention of Disability\" scheme is started by the Government of Uttar Pradesh and operated by the Department of Empowerment of Persons with Disabilities, Uttar Pradesh.",
+  "descriptionMd": "The main objective of the scheme is to provide surgical assistance for the prevention of disability to poor and helpless disabled persons. \n<br>\n\nThe financial grant will be provided for the following medical treatment. \n\n1. **Surgery for visually handicapped.**\ni. Intraocular lens implant.\nii. Cranioplasty.\niii. Cranial repair\n1. **Surgery for the hearing impaired.**\ni. Cochlear implant.\nii. Tympanic membrane repair.\niii. Mastoid surgery.\n1. **Surgery for orthopedically handicapped**\ni. S P Nail Operation.\nii. Orthosis.\niii. Artificial prosthesis. \niv. External fixation. \nv. Replacement implant.\nvi. Surgery for knee, hip and ankle correction.\nvii. Shoulder, elbow and wrist correction surgery.\nviii. Postpolio correction surgery.\nix. Contracture Repair.\nx. Ligament repair.\nxi. Tendon transplant.\nxii Soft tissue release surgery.\nxiii. Contracture correction surgery.\nxiv. Elizarob Landing and Corrective Surgery.\n1. **Post-leprosy-cured disability**\ni. Reconstructive Surgery Hand.\nii. Reconstructive Surgery Foot.\n\n<br>",
+  "benefitsMd": "- A maximum of Rs. 6,00,000/- will be provided to Each disabled person.",
+  "eligibilityMd": "1. The annual income of the applicant/applicant&#39;s guardian should not exceed Rs.60,000/-.\n1. The applicant should be an Indian citizen.\n1. Applicant should be a permanent resident of Uttar Pradesh or be a resident of the state for at least 5 years\n1. Should not be guilty in any criminal case.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "1. Download the [application form](https://uphwd.gov.in/site/writereaddata/siteContent/202103181427562556ShalyaChikitsa-Niymavali-All.pdf) from page no. 18.1. Fill out the application form\n1. The following documents shall be attached to the application \n(a). A certificate of disability granted by a competent medical authority. \n(b). Certificate of annual income (from all sources). \n(c). Estimated expenditure details of the surgery by the superintendent/in charge of the State Hospital.\n1. Submit the application to the District Disabled Welfare Officer along with the recommendation through whom the application along with its recommendation will be sent to the Director. \n1. In case of emergency, applications can be sent directly to the Director.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://uphwd.gov.in/site/writereaddata/siteContent/202103181427562556ShalyaChikitsa-Niymavali-All.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "clssmig",
+  "name": "Credit Linked Subsidy Scheme for Middle Income Group",
+  "shortTitle": "CLSSMIG",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Housing & Urban Affairs",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Under Credit Linked Subsidy Scheme, beneficiaries of Middle-Income Group (MIG) can seek housing loans from Banks, Housing Finance Companies and other such institutions for acquisition/ construction of house (including re-purchase).",
+  "descriptionMd": "The scheme &amp;quot;Credit Linked Subsidy Scheme for Middle Income Group (CLSS for MIG)&amp;quot; by the Ministry of Housing and Urban Affairs, Government of India aims to provide interest subsidy on housing loans to Middle Income Group families. CLSS for MIG will be implemented initially in 2017 for a period of one-year w.e.f. 01 January 2017. This will also be implemented as a Central Sector Scheme. Under the Scheme, beneficiaries of the Middle-Income Group (MIG) can seek housing loans from Banks, Housing Finance Companies, and other such institutions for the acquisition/ construction of houses (including re-purchase).\n&lt;br&gt;\n\n<br>",
+  "benefitsMd": "1. Scheme will support the acquisition/construction of houses (including repurchase) of 160 sq. mts. (For MIG I) and 200 sq. mts. (For MIG II) carpet area as per income eligibility with basic civic infrastructure like water, toilet, sanitation, sewerage, road, electricity, etc.\n   1. Beneficiaries of MIG will be eligible for an interest subsidy with the following features:\n\n**Particulars****MIG I****MIG II**Household Income (₹ per annum)₹6,00,001/- - ₹12,00,000/-₹12,00,001/- - ₹18,00,000/-Interest Subsidy (% per annum)4%3%Maximum loan tenure (in years)2020Eligible housing loan amount for interest subsidy (₹)₹9,00,000/-₹12,00,000/-Dwelling Unit Carpet Area160 sq. mts. 200 sq. mts. Discount rate for Net Present Value (NPV) calculation of interest subsidy (%)9%9%**Note 01:** Interest subsidy will be available only for loan amounts indicated in the table for the tenure of 20 years or during the tenure of the loan whichever is lower.\n**Note 02:** Additional loans beyond the specified limit, if any, will be at a non-subsidized rate.\n<br>",
+  "eligibilityMd": "- The beneficiary family should not own a pucca house (an all-weather dwelling unit) either in his/her name or in the name of any member of his/her family in any part of India. In in case of a married couple, either of the spouses or both together in joint ownership will be eligible for a single house, subject to the income eligibility of the household under the Scheme.\n  - A beneficiary family should not have availed of central assistance under any housing scheme from the Government of India.\n  - Middle Income Group-I (MIG-I) - annual household income exceeding ₹6 lakhs and up to ₹12 lakhs seeking housing loans from Banks, Housing Finance Companies (HFCs), and other such institutions for acquiring/ constructing houses.\n  - Middle Income Group-II (MIG-II) - annual household income exceeding ₹12 lakhs and up to ₹18 lakhs seeking housing loans from Banks, Housing Finance Companies (HFCs), and other such institutions for acquiring/ constructing houses.\n\n**Note:** Preference from MIG segments, may be given to women (with overriding preference to widows, and single working women), persons belonging to Scheduled Castes/Scheduled Tribes/Other Backward Classes, persons with disabilities, and Transgender.\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "> **Application Processes:**\n\n**Step 01:** The eligible applicant can apply through the financial institutions or banks that participate in the PMAY initiative.\n**Step 02:** Collect the application form through institutions or banks and fill out it completely.\n**Step 03:** The completely filled form is submitted to the lender along with the required papers.\n**Step 04:** The loan amount will be deposited into your bank account after verification.\n**Step 05:** After the loan is disbursed, your lender will contact the nodal agencies to begin the process of collecting interest subsidies.\n**Step 06:** The interest subsidy will be credited to your loan account upon verification, and your loan amount will be reduced, lowering your Equated Monthly Installment amount. \n**Note 01:** Interest subsidy will be credited upfront to the loan account of beneficiaries through Primary Lending Institutions (PLIs) resulting in reduced effective housing loans and Equated Monthly Installments (EMI).\n**Note 02:** PLIs are identified as Scheduled Commercial Banks, Housing Finance Companies, Regional Rural Banks, State Cooperative Banks, Urban Cooperative Banks, Small Finance Banks, Non-Banking Financial Company-Micro Finance Institutions (NBFC MFIs) or any other institution as may be identified by the MoHUA.\n**Note 03**: PLIs shall link the details of the Aadhaar Number(s) of the beneficiary family to avoid duplication before submitting claims to CNAs.\n&gt; **Track Application in the CLSS tracker:**\n\n**Step 01:** Applicant will visit [CLAP Portal](https://pmayuclap.gov.in/).\n**Step 02:** On the Home Page, there is CLSS tracker, where the applicant will enter the Application ID as received through SMS from CLAP.\n**Step 03:** On entering of valid Application ID, the system will send an OTP code on the mobile numbers of the applicant as registered in CLAP Portal during Process-1 through PLIs.\n**Step 04:** On entering a valid OTP code, the system will display the stages of the beneficiary’s application. The system will display all passed stages with green colour and in the process stage with blue colour.\n**Step 05:** If the applicant existing CLSS beneficiary who has received a subsidy amount in multiple disbursements, then the CLSS tracker will display details of all past disbursements i.e. dates of disbursement and subsidy amounts.\n&gt; **Central Nodal Agencies:**\n\nNational Housing Bank (NHB), Housing and Urban Development Corporation (HUDCO), and State Bank of India(SBI)  have been identified as Central Nodal Agencies (CNAs) to channel this subsidy to the lending institutions and for monitoring the progress of this component. Ministry may notify other institutions as CNA in the future.\n**Toll-Free Helpline Numbers:**\nNHB: 1800-11-3377, 1800-11-3388\nHUDCO: 1800-11-6163\nSBI: 1800-11-2018",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://pmay-urban.gov.in/credit-linked-subsidy-scheme"
+    },
+    {
+      "title": "CLSS- MIG- Leaflet",
+      "url": "https://mohua.gov.in/upload/uploadfiles/files/02A_CLSS_MIG_leaflet_English.pdf"
+    },
+    {
+      "title": "CLSS Awas Portal (CLAP",
+      "url": "https://pmayuclap.gov.in/content/html/CLSS_Vertical.html"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://pmay-urban.gov.in/uploads/guidelines/12CLSS-MIG-Guidelines$2017Mar23142444.pdf"
+    },
+    {
+      "title": "CLSS Subsidy Calculator",
+      "url": "https://pmayuclap.gov.in/content/html/Subsidy-Calc.html"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "mbbwwb",
+  "name": "Miscarriage Benefit ",
+  "shortTitle": "MBBWWB",
+  "level": "state",
+  "state": "West Bengal",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Miscarriage Benefit'' scheme by the BOCW Welfare Board, Labour Department,West Bengal, is a welfare scheme that provides financial benefits for miscarriage up to two times in a lifetime to the eligible female beneficiaries or the wives of male beneficiaries.",
+  "descriptionMd": "The &amp;quot;Miscarriage Benefit&amp;#39;&amp;#39; scheme by the Building and Other Construction Workers Welfare Board, Labour Department, West Bengal, is a welfare scheme for the registered workers of the board. Under this scheme, the Board shall provide financial benefits for miscarriage to the female beneficiary or wife in case of a male beneficiary who is registered for 1 year under the Board, subject to maximum 2 times in his/her whole life time.\n&lt;br&gt;",
+  "benefitsMd": "- **Quantum of Assistance:** ₹6,000/-.\n**Note:** The benefit shall be allowed for two times in beneficiarie&amp;#39;s whole life time.\n<br>",
+  "eligibilityMd": "&gt; **For Registration as a Building/ Construction Worker:**\n\n\n  - The applicant should be a resident of West Bengal.\n  - The applicant should be a Building/ Construction Worker.\n  - The applicant should be between 18 and 60 years.\n  - The applicant should have engaged in building and construction work for at least 90 days in a given year.\n\n&gt; **For the Application of the Welfare Scheme:**\n\n\n  - The applicant should be a registered female member or wife of a male member Under the Building and Other Construction Workers Welfare Board of West Bengal.\n  - The applicant should have gone through a miscarriage.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "&gt; **Registration Process as a Building/ Construction Worker:**\n\n**Step 1:** To register as a beneficiary under the BOCW Welfare Board, an applicant worker should request Form-27 from the Assistant Labour Commissioners/ Beneficiary Registering Officers and should attach all the mandatory documents (self-attested, if required).\n**Step 2:** Application shall be submitted to the Assistant Labour Commissioners/ Beneficiary Registering Officers.\n&gt; **Application Process of the Welfare Scheme:**\n\n**Step 1:** A registered worker should request Form-XII for the application from the Assistant Labour Commissioners/ Beneficiary Registering Officers and should attach all the mandatory documents (self-attested, if required).\n**Step 2:** Application shall be submitted to the Assistant Labour Commissioners/ Beneficiary Registering Officers for this benefit.\n&gt; **Helpdesk:**\n\nLabour Department\nDepartment of Labour, Government of West Bengal,\n12th Floor, N.S Building, Block-A,\n1, Kiran Shankar Roy Road,\nKolkata-700001\nHelpline of Labour Department, Govt. of West Bengal (Shramik Sathi): 1800-103-0009\n&amp;gt; **Note:**\n\n\n  - Upon successful verification,  the construction worker is registered and an identity card and passbook are issued to him/ her. ₹20/- as the registration fee and ₹30/- as yearly subscription is taken. The amounts taken are noted in the passbook and a receipt is issued.\n  - After one year, the beneficiary&amp;amp;#39;s subscription is renewed upon payment of a renewal fee of ₹30/- and submission of an application in Form-27A.\n  - If not renewed the registration of the beneficiary is cancelled after the expiry of one year. Fresh application for renewal to be submitted to the ALC for consideration.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://wblc.gov.in/sites/default/files/ckfinder/userfiles/images/BOCW.pdf"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://wblabour.gov.in/building-and-other-construction-workers-welfare-board"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://employmentbankwb.gov.in/welfare_board.php"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

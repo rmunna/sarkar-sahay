@@ -1,0 +1,47 @@
+{
+  "slug": "sacipsctmrgiia",
+  "name": "Subsidy for Asset Creation for Intellectual Property: Subsidy on the Cost of Trade Mark Registration or Geographical Indications (GI) in India or Abroad",
+  "shortTitle": "SACIPSCTMRGIIA",
+  "level": "state",
+  "state": "Tamil Nadu",
+  "nodalDept": "Micro Small and Medium Enterprises Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"Subsidy for Asset Creation for Intellectual Property: Subsidy on the Cost of Trade Mark Registration or Geographical Indications (GI) in India or Abroad\" is introduced to incentivize MSMEs to innovate and create intellectual property in India and Abroad as a differentiator.",
+  "descriptionMd": "The scheme &quot;Subsidy for Asset Creation for Intellectual Property: Subsidy on the Cost of Trade Mark Registration or Geographical Indications (GI) in India or Abroad&quot; by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu, is introduced to incentivize MSMEs to innovate and create intellectual property in India and Abroad as a differentiator.  No documents are required to avail of the benefits for reimbursement upto ₹1,00,000.",
+  "benefitsMd": "50% subsidy on the cost of applying for Trade Mark Registration including the cost of the first-time maintenance fee of the granted application, subject to a maximum of ₹ 25, 000/- per Trade Mark or Geographical Indications registered.",
+  "eligibilityMd": "All new and existing micro, small and medium manufacturing enterprises including clusters located anywhere in Tamil Nadu.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Step 1: Registration**\n\n\n- Visit the [Official Website/Portal](https://www.msmeonline.tn.gov.in) of the Micro, Small, and Medium Enterprises Department of the Government of Tamil Nadu. In the top ribbon, click &quot;[Login / Registration](https://www.msmeonline.tn.gov.in/registration.php)&quot;.- In the registration form, fill in the mandatory details accurately, Name, Date of Birth, Aadhaar Number, Email ID, and Mobile Number. Create a new password. The password must contain a minimum of 8 characters, 1 Upper Case Letter, 1 Lower Case Letter, and 1 Numeric Field.\n- Fill in the captcha code, and click &quot;Register&quot;.\n\n<br>\n\n> **Step 2: Login**\n\nVisit the [Login Page](https://www.msmeonline.tn.gov.in/registration.php) and click &quot;Login&quot;, and then fill in the credentials received on your registered Email ID and the registered Mobile Number.\n<br>\n\n> **Step 3: Form Filling**\n\n\n- After successfully logging in, hover over &quot;Schemes&quot; in the top ribbon, and then click on the concerned scheme from the dropdown.\n- On the next page, hover over &quot;Apply Online&quot; in the top ribbon, and then click on &quot;New Application&quot; from the dropdown.\n- Fill in all the mandatory fields of the [Application Form](https://www.msmeonline.tn.gov.in/incentives/patent_trade.php). Carefully review all the information provided, acknowledge and agree to the terms and conditions, declaration, and privacy policy, and then click &quot;Proceed&quot;.- Note down the reference number appearing on the screen and then click &quot;Close&quot;.\n\n<br>\n\n> **Step 4: Upload Documents**\n\n\n- Now, hover over &quot;Schemes&quot; in the top ribbon, and then click &quot;Upload Documents&quot; from the dropdown.\n- On the next page, provide the Application ID and click &quot;Submit&quot;.\n- On the next page, upload all the mandatory documents in the specified format and size.\n- After uploading the documents, click &quot;View&quot; to verify the documents uploaded for correctness.\n\n<br>\n\n> **Step 5: Submission**\n\n\n- Fill in all the checkboxes appearing at the bottom of the screen and then click &quot;Submit Application&quot;.\n- The message regarding the submission of the online application to GM/DIC / RJD will be received on your mobile phone.\n\n<br>\n\n**(Optional) Step 6: Track Application Status**\nYou can check the status of your application [here](https://www.msmeonline.tn.gov.in/incentives/app_track.php?id=Track%20Your%20Status). The portal may provide updates via email or SMS regarding your application status.\n<br>\n\n> **Time Limit for Filing Application**\n\nWithin 3 months after the completion of the financial year for the claim of the previous year.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.msmetamilnadu.tn.gov.in/pdf/G.O.Ms-No.37.pdf"
+    },
+    {
+      "title": "Compendium Of Schemes For MSMEs",
+      "url": "https://www.msmeonline.tn.gov.in/images/TN_Schemes_Booklet_Draft_09072022_v10.pdf"
+    },
+    {
+      "title": "MSME Policy",
+      "url": "https://www.msmeonline.tn.gov.in/incentives/pdf/msmi_guidlines.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://www.msmeonline.tn.gov.in/contactus_local.php"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://www.bizbuddy.tn.gov.in/#/home"
+    },
+    {
+      "title": "Application & Documents Required",
+      "url": "https://www.msmeonline.tn.gov.in/incentives/patent_trade.php"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

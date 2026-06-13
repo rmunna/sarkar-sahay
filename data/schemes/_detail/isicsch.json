@@ -1,0 +1,35 @@
+{
+  "slug": "isicsch",
+  "name": "Incentive Scheme in Civil Service (Chhattisgarh)",
+  "shortTitle": "ISICSCH",
+  "level": "state",
+  "state": "Chhattisgarh",
+  "nodalDept": "Social Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Incentive Scheme in Civil Service\"  aims to encourage bright and meritorious persons with disabilities to pass competitive exams in the field of civil services. Financial support is provided on passing the different stages of the Union/Chhattisgarh Public Service Commission Competitive Exams.",
+  "descriptionMd": "Launched in 2018, the scheme &quot;Incentive Scheme in Civil Service&quot; by the Social Welfare Department, Government of Chhattisgarh aims to encourage bright and meritorious persons with disabilities to pass competitive exams in the field of civil services. Through this scheme, financial support is provided to help with upcoming preparations. The scheme benefits include lump sum amounts on passing the different stages of the Union/Chhattisgarh Public Service Commission Competitive Examinations. The scheme is implemented by the Social Welfare Department.",
+  "benefitsMd": "- ₹20,000/- lump sum on passing the Preliminary Examination.\n- ₹30,000/- lump sum on passing the Mains Examination.\n- ₹50,000/- lump sum on selection in Union/Chhattisgarh Public Service Commission.",
+  "eligibilityMd": "1. The applicant should be a resident of Chhattisgarh.\n1. The applicant should have a disability of 40% or above.\n1. The applicant should have passed the Union or Chhattisgarh Public Service Commission Competitive Examination.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should take print of the [prescribed format](https://sw.cg.gov.in/sites/default/files/civil-seva.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned staff at the District Office of the Joint/Deputy Director, Social Welfare Department.",
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://sw.cg.gov.in/en/incentive-scheme-civil-service"
+    },
+    {
+      "title": "Application Form (Page 6)",
+      "url": "https://sw.cg.gov.in/sites/default/files/civil-seva.pdf"
+    },
+    {
+      "title": "Amendment",
+      "url": "https://sw.cg.gov.in/sites/default/files/civilseva22.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

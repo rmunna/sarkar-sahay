@@ -1,0 +1,35 @@
+{
+  "slug": "deswinternship",
+  "name": "DESW Internship Scheme",
+  "shortTitle": "DESWINTERNSHIP",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Ex-Servicemen Welfare",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to engage Indian Youth as interns to gain firsthand experience and understanding of welfare, healthcare, resettlement, and administrative schemes meant for Ex-Servicemen.",
+  "descriptionMd": "The scheme &quot;DESW Internship Scheme&quot; by the Department of Ex-Servicemen Welfare (DESW), Ministry of Defence, Government of India, aims to engage Indian youth as interns to gain firsthand experience and understanding of welfare, healthcare, resettlement, and administrative schemes meant for Ex-Servicemen. Through this scheme, the interns will undertake a structured study and submit a report that may contribute to policy or program improvements. The scheme is implemented by the Department of Ex-Servicemen Welfare (DESW).\n<br>\n\n> **Duration of Internship:**\n\n\n- **Minimum duration:** 2 months- **Maximum duration:** 12 months- Internships are available throughout the year, based on DESW requirements.\n\n<br>",
+  "benefitsMd": "1. Opportunity to gain firsthand experience in welfare, healthcare, resettlement, and administrative schemes meant for Ex-Servicemen.\n1. Structured research assignment on specific topics related to Ex-Servicemen welfare.\n1. Issuance of a certificate of successful completion upon satisfactory performance.\n1. Potential publication of selected reports or excerpts with due credit to the intern.\n\n<br>\n\n> **Scope of Work: Interns will be assigned specific topics related to:-**\n\n\n- Welfare schemes for Ex-Servicemen and their families.\n- Resettlement and rehabilitation programs.\n- Healthcare policies for veterans.\n- Administrative processes and challenges in veteran affairs.\n\n<br>\n\n> **Note: For Completion &amp; Certification**\n\n> Interns shall submit their final report to the designated officer.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a citizen of India.\n1. The applicant should be a graduate or postgraduate student from any recognised university or institution in any academic stream.\n1. A No Objection Certificate (NOC) from the parent institution must be submitted along with the application.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:****** Visit the [official website](https://www.desw.gov.in/) of the Department of Ex-servicemen Welfare.\n**Step 2:****** Click on &quot;Scheme&quot; from the menu and select &quot;DESW Internship Scheme&quot;. \n**Step 3:****** A new tab will appear. In the scheme guidelines, click on the highlighted “Click Here” link for the application form.\n**Step 4:** A [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdn8__EYvlgsvAQoarxqXow5tv-3EFp94BkIMznpaoLssLfWA/viewform) will open as the Proforma of Application for the DESW Internship Scheme.\n**Step 5:****** Enter the Name of the Applicant, Father’s/Mother’s Name, Date of Birth, and select Nationality.\n**Step 6:****** Provide Address for Correspondence and Mobile Number.\n**Step 7:****** Fill 10th, 12th, Graduation and Post-Graduation Class Details: Board/Course Name, Year of Passing, Percentage Obtained and University Name (where required)\n**Step 8:****** Mention Current Course Pursuing (if any), Select Internship Duration (2 months to 1 year).\nChoose Area(s) of Interest from the given options.\n**Step 9:****** State whether you have previously interned with any Government body and provide details if applicable.\n**Step 10:****** Write a Statement of Purpose (Why do you want to join this internship?) (maximum 200 words).\n**Step 11:****** Agree to the Undertaking by the Applicant, select NOC Option (Not Applicable / Will Submit Before Joining) and review all entered information and click Submit to complete the application.\n_*Once approved for the interview, they are required to submit the hard copy of Resume, Statement of purpose (max 200 words), No Objection Certificate from institution._\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.desw.gov.in/sites/default/files/Internship%20DESW.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://www.desw.gov.in/"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdn8__EYvlgsvAQoarxqXow5tv-3EFp94BkIMznpaoLssLfWA/viewform"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

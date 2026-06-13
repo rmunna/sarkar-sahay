@@ -1,0 +1,31 @@
+{
+  "slug": "chsjgne",
+  "name": "Coaching Help Scheme for JEE-GUJCET-NEET Exams",
+  "shortTitle": "CHSJGNE",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Coaching Help Scheme for JEE-GUJCET-NEET Exams\" scheme provides financial assistance to non-reserved category students from the science stream who are getting coaching in institutions with three years or more experience.",
+  "descriptionMd": "The scheme &quot;Coaching Help Scheme for JEE-GUJCET-NEET Exams&quot; introduced by the Social Justice and Empowerment Department, Gujarat, aims to support non-reserved category students in pursuing professional courses in medical and engineering fields by providing financial aid for coaching. Students who have secured 70% or more marks in Class 10th/ 11th/ 12th standard and are enrolled in coaching institutes with at least three years of experience can benefit from this scheme. The scheme is being implemented by the Gujarat Unreserved Education and Economical Development Corporation.",
+  "benefitsMd": "- **Financial Assistance:**  ₹20,000/- per year per student or actual fee, whichever is lower.",
+  "eligibilityMd": "1. The applicant must belong to a non-reserved  category.\n   1. The applicant must have obtained 70% or more marks in Class 10th/ 11th/ 12th.\n   1. The applicant must be from Science stream.\n   1. The applicant must be pursuing coaching for JEE, GUJCET, or NEET.\n   1. The coaching institute must have at least 3 years of experience.\n   1. The annual family income of the applicant should be ₹4,50,000/- or less.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process****:**\n\n**Step 1:** Go to the Corporation&#39;s [official website](https://esamajkalyan.gujarat.gov.in/) and navigate to the &quot;Gujarat Unreserved Education and Economical Development Corporation&quot; section under Corporation menu.\n**Step 2:**Click on &quot;Coaching Help Scheme for JEE-GUJCET-NEET Exams&quot; and then Apply Now.\n**Step 3:** Click on &quot;New User? Please Register Here&quot;.\n**Step 4:** Enter the required details and click Register.\n<br>\n\n> **Application Process:**\n\n**Step 1:** Enter your User ID, Password, and Captcha Code, then click &quot;Login&quot;.\n**Step 2:** Read the scheme details carefully and click OK.\n**Step 3:** If your permanent address is correct, confirm it. Otherwise, enter your correct address.\n**Step 4:** Click Save &amp; Next to proceed. Upload the relevant documents.\n**Step 5:** If you need to make changes, click &quot;No, Cancel&quot;. If all details are correct, click &quot;Yes, Submit&quot;.\n**Step 6:** Click Save Application. Note down your Application Number for future reference. You can also take a printout by clicking Print Application.\n<br>\n\n> **Check Application Status:** [Click here](https://esamajkalyan.gujarat.gov.in/ViewApplicationStatus.aspx).\n\n> **Post Online Application Procedure:** After submitting the online application, the applicant must take a printout of the application, sign it, and submit it along with all uploaded documents (certificates, mark sheets, etc.) to the concerned Deputy Director (Non-Reserved Category) or the District Social Welfare Officer through courier, post, or by visiting in person.\n\n> **Contact Us:** [Click here](https://gueedc.gujarat.gov.in/contact-us.html).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://gueedc.gujarat.gov.in/Coaching-Help-Scheme-for-Jee-GUJCET-NEET-Exams.html"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://esamajkalyan.gujarat.gov.in/ApplicationDocuments/GUEEDC/HowtoApplyGUEEDC.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "hfta-giapsca",
+  "name": "“Home for the Aged\" under Grant-in-Aid to Pondicherry Society for the Care of the Aged (PONCARE)",
+  "shortTitle": "HFTA-GIAPSCA",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Social Welfare Department, Puducherry",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Through the scheme “Home for the Aged\", the senior citizens are provided with stay at subsidiary rates, food (both vegetarian and non-vegetarian), routine health check up by doctors thrice in a week, providing news papers and television for entertainment.",
+  "descriptionMd": "The sub-scheme “Home for the Aged&quot; under the umbrella scheme &quot;Grant-in-Aid to Pondicherry Society for the Care of the Aged (PONCARE)&quot; was launched by the Department of Social Welfare, Government of Puducherry. Through this scheme, the senior citizens are provided with stay at subsidiary rates, food (both vegetarian and non-vegetarian), routine health check up by doctors thrice in a week, providing news papers and television for entertainment.",
+  "benefitsMd": "- Stay at Subsidiary Rate of ₹1200/- for the Inmates.\n- Food (Both Vegetarian and Non-vegetarian).\n- Routine Health Check Up by Doctors Thrice in a Week.\n- Newspapers and Television for Entertainment.",
+  "eligibilityMd": "- The applicant should be 60 years or above in age.\n- The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit (during office hours) the **Pondicherry Society for the care of the Aged (PONCARE), Puducherry, 4th Cross - Sithankudi, 6th Cross Extension, Brindavanam, West, Puducherry - 605 013, +91-413-2245317, +91-413-2246318, +91-9443405499**, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to The Secretary, PONCARE.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Citizen's Charter",
+      "url": "https://socwelfare.py.gov.in/sites/default/files/citizen-charter.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://socwelfare.py.gov.in/contact-us"
+    },
+    {
+      "title": "Sub Offices",
+      "url": "https://socwelfare.py.gov.in/sub--office-social-welfare-department"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://pgportal.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

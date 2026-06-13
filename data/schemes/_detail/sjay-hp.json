@@ -1,0 +1,31 @@
+{
+  "slug": "sjay-hp",
+  "name": "Swaran Jayanti Ashray Yojana - Himachal Pradesh",
+  "shortTitle": "SJAY-HP",
+  "level": "state",
+  "state": "Himachal Pradesh",
+  "nodalDept": "Department of Social Justice and Empowerment",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Swaran Jayanti Ashray Yojana\" was launched by the Department of Social Justice and Empowerment, Government of Himachal Pradesh aims to provide financial assistance for the construction of houses who are permanent residents of Himachal Pradesh belonging to Scheduled Castes, Scheduled Tribes, OBC",
+  "descriptionMd": "The &quot;Swaran Jayanti Ashray Yojana&quot; was launched by the Department of Social Justice and Empowerment, Government of Himachal Pradesh aims to provide financial assistance for the construction of houses who are permanent residents of Himachal Pradesh belonging to Scheduled Castes, Scheduled Tribes, Other Backward Classes.",
+  "benefitsMd": "- **Financial assistance of ₹1,50,000/- for construction of new house.**",
+  "eligibilityMd": "1. The applicant should be a permanent resident of Himachal Pradesh. \n1. The applicant should belong to Scheduled Castes (SC), Scheduled Tribes (ST), or Other Backward Classes (OBC). \n1. The applicant&#39;s annual income does not exceed ₹50,000/-.\n1. The applicant should not have his own house. \n1. The land in the applicant&#39;s name should be in the revenue record for the construction of the house.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "&gt; **Application Process:**\n\n**Step 1:** The interested applicant can download the [application form](http://esomsa.hp.gov.in/sites/default/files/Swarn%20Jayanti%20Ashray%20Yojna.pdf) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Concerned District Welfare Officer/Tehsil Welfare Officer. \n**Step 4:** Request a receipt or acknowledgment from the Concerned District Welfare Officer/Tehsil Welfare Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://esomsa.hp.gov.in/?q=schemes-3"
+    },
+    {
+      "title": "Application Form",
+      "url": "http://esomsa.hp.gov.in/sites/default/files/Swarn%20Jayanti%20Ashray%20Yojna.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

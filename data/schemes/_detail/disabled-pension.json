@@ -1,0 +1,35 @@
+{
+  "slug": "disabled-pension",
+  "name": "Pension To The Disabled Person",
+  "shortTitle": "PTTDP",
+  "level": "state",
+  "state": "Chandigarh",
+  "nodalDept": "Social Welfare, Women & Child Development",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The objective of the pension to the disabled person scheme is providing a pension to disabled persons is multifaceted, but generally centers around promoting social welfare, equity, and inclusivity.",
+  "descriptionMd": "The Pension to the Disabled Person scheme under the Social Welfare, Women &amp; Child Development Chandigarh is Disability pension to a disabled person granted to Physically Handicapped persons. A person who is disabled to the extent of 40% and is resident of Union Territory of Chandigarh and fulfills the income criteria i.e., family income does not exceed  ₹1.50 lacs per annum. is eligible for a grant of pension. \nEveryone deserves to live with dignity and respect, regardless of their abilities. Offering a pension to disabled persons recognizes their inherent value and ensures they are not left to live in poverty or dependence.",
+  "benefitsMd": "- The pension payable to each person shall be ₹1000/- per annum to those persons having 40% to 70% of disability.\n- ₹2000/-per annum to those persons having more than 70% of disability.\n\n<br>",
+  "eligibilityMd": "1. The applicant&#39;s disability must be to the extent of 40% or above then they will be eligible to avail the benefit of same. \n1. The applicant must be a resident of UT Chandigarh for more than 3 years. \n1. The family income of the applicant should not exceed  ₹1.50 lacs annually.",
+  "exclusionsMd": "- An individual who is disabled less than 40%.\n- Individual who is not resident of Chandigarh UT.\n- Individual who is resident of Chandigarh for less than 3 years.\n- Individual whose family income exceeds Rs.1.50 lacs p.a.",
+  "applicationMode": "Offline",
+  "applicationMd": "Step 1:[ The applicant Download ](https://chdsw.gov.in/uploads/media/1682922758-Form_Disabled_pension.pdf)the form in (Hindi)\n             [The applicants Download](https://chdsw.gov.in/uploads/media/1604736707-Pension_Disabled.pdf) the form in (English)\nStep 2: Before you start filling out the form, carefully read any instructions or guidelines provided. \nStep 3:  Collect all the information and documents you will need to complete the form. \nStep 4: Once you have completed the form, follow the instructions for submission. \nStep 5: Make a copy of the completed form for your records before submitting it. This will serve as a reference in   \n             case you need to refer back to the information provided.\nStep 6: Submit it to the respective Nodal office/ Nagar Nigam office.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://chdsw.gov.in/index.php/scheme/pension-to-the-disabled-persons"
+    },
+    {
+      "title": "Application Form Hindi",
+      "url": "https://chdsw.gov.in/uploads/media/1682922758-Form_Disabled_pension.pdf"
+    },
+    {
+      "title": "Application Form English",
+      "url": "https://chdsw.gov.in/uploads/media/1604736707-Pension_Disabled.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

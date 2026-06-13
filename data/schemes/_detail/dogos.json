@@ -1,0 +1,27 @@
+{
+  "slug": "dogos",
+  "name": "Distribution of Gypsum-Oil Seeds",
+  "shortTitle": "DOGOS",
+  "level": "state",
+  "state": "Tamil Nadu",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Distribution of Gypsum-Oil Seeds\" scheme provides a subsidy on the cost of gypsum material and transportation cost, to farmers who produce and supply Foundation and Certified Class seeds.",
+  "descriptionMd": "The “Distribution of Gypsum-Oil Seeds” scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, provides financial assistance to farmers by subsidizing 50% of the cost of gypsum material and transportation costs. The subsidy is available to farmers who produce and supply Foundation and Certified Class seeds to the Department of Agriculture.",
+  "benefitsMd": "**Financial Assistance:** 50% of the cost of material plus transport limited to ₹750/- per ha whichever is less.",
+  "eligibilityMd": "- The beneficiary should be a Farmer.\n  - The beneficiary should be a resident of Tamil Nadu.\n  - The beneficiary should be engaged in seed production.\n  - The beneficiary should produce and supply Foundation and Certified Class seeds to the Department.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.\n\n&lt;br&gt;",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/7618"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

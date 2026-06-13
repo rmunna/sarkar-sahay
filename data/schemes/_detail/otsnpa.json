@@ -1,0 +1,32 @@
+{
+  "slug": "otsnpa",
+  "name": "West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024: Support for One Time Settlement (OTS) of NPA Accounts of PWCS",
+  "shortTitle": "OTSNPA",
+  "level": "state",
+  "state": "West Bengal",
+  "nodalDept": "Micro, Small & Medium Enterprises and Textiles Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Registered Societies",
+    "Business Entity",
+    "Individual",
+    "Joint Liability Groups (JLGS)",
+    "NGO",
+    "Self Help Groups (SHGS)"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "“Support for One Time Settlement (OTS) of NPA Accounts of PWCS\" is a sub-scheme under \"West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024” by the MSME and Textiles Dept, Government of West Bengal aims to make PWCS debt free by providing financial support for OTS of NPA accounts.",
+  "descriptionMd": "“Support for One Time Settlement (OTS) of NPA Accounts of PWCS&amp;quot; is a sub-scheme under &amp;quot;West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024”, launched by the Micro, Small &amp;amp; Medium Enterprise and Textiles Department, Government of West Bengal on 7th March, 2024, and it shall remain in force for a period of five years. The objective of this sub-scheme is to make  Primary Weavers’ Cooperative Societies (PWCS) debt free by providing financial support for One Time Settlement (OTS) of NPA accounts of PWCS in The West Bengal State Cooperative Bank Ltd. (WBSCB Ltd.) / various District Central Cooperative Banks (DCCBs).\n<br>",
+  "benefitsMd": "- 100% of the overdue principal +25% of the overdue interest on NPA accounts of viable PWCS as of 31/03/2024.\n- The remaining 75% of overdue interest and any penal interest will be written off by the West Bengal State Cooperative Bank Ltd./District Central Cooperative Bank Ltd.",
+  "eligibilityMd": "The following categories of weavers are eligible under this Scheme:\n\n  - Handloom Weavers (Entrepreneur Weavers, so called Master Weavers/Individual Weavers/ Allied Workers Associated with Handloom Weaving/Cooperative fold Weavers/ Weavers associated with Handloom Clusters etc.),\n  -  Khadi Weavers.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "- An eligible PWCs/ Khadi society/ Individual Weaver will apply either in online or in offline mode in the prescribed format (as would be notified by this [department](https://wbmsme.gov.in/)) before the Director, Textiles.\n> **Helpdesk****:** [Office Addresses and Contact Details (District Wise).](https://www.westbengalhandloom.org/off_addrs)",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://wbmsme.gov.in/sites/default/files/cms/circularpdf/1709829549NOTIFICATION%20No.%201001-MSMET%20dt.%207.3.2024.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

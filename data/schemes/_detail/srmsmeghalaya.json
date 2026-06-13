@@ -1,0 +1,31 @@
+{
+  "slug": "srmsmeghalaya",
+  "name": "State Rice Mission Scheme",
+  "shortTitle": "SRMSMEGHALAYA",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The objective of the scheme is to increase productivity and production of rice through improved technologies and extension methods and, to supply the quality/certified seeds/organic fertilizers at 50% subsidy.",
+  "descriptionMd": "The “State Rice Mission Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to increase productivity and production of rice through improved technologies and extension methods and, to supply the quality/certified seeds/organic fertilizers at 50% subsidy.",
+  "benefitsMd": "> **Pattern of Assistance:**\n\n\n- Training, Awareness program, extension, Technology support, Subsidy on inputs.\n\n> **Type of Assistance and Entitlement (If any):**\n\n\n1. 50 % Subsidy for quality paddy seeds to farmers.\n1. Minor irrigation (Check dam, shallow tube well, etc.)\n1. 50 % sale of Power Tillers SRI Tools for demonstration.\n1. Trainings",
+  "eligibilityMd": "1. The applicant should be a permanent resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "&gt; **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the relevant documents at the nearest office of the Agriculture Development Officer of a CD Block/ Agriculture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe bonafide farmers having sufficient available cultivable land shall be selected on a first come first served basis.\n&gt; **Whom to Contact:**\n\n\n   1. District Agriculture Officers of the concerned districts.\n   1. Sub-divisional Officers of the concerned sub-divisions.\n   1. District Training Officers, Tura/Shillong.\n   1. Agriculture Development Officers of the concerned Community and Rural Development Blocks.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=6"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONAGRICULTURESCHEMES.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "mfs-nmdfc",
+  "name": "Micro Finance Scheme of NMDFC",
+  "shortTitle": "MFS-NMDFC",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Minority Affairs",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Self Help Groups (SHGS)"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "Under the scheme, an amount of Rs. 1 lakh under credit Line-1 & upto  Rs. 1.5 lakh under Credit Line-2 is extended to each member of SHG (belong to Minority communities) at interest rate of 7% & 10% respectively.  Concession of 2% is extended to women beneficiaries under Credit Line-2.",
+  "descriptionMd": "Under this Scheme of NMDFC, credit is extended to the members of the Self Help Groups (SHGs), predominantly  comprising of the minority women scattered in remote villages and urban slums, who are not able to take  advantage of the formal banking credit. Under the scheme, an amount of ₹1,00,000/- under credit Line-1 &amp; upto  ₹1,50,000/- under Credit Line-2 is extended to each member of SHG at interest rate of 7% &amp; 10% respectively.  Concession of 2% is extended to women beneficiaries under Credit Line-2.  \n<br>",
+  "benefitsMd": "- Concessional Credit to the beneficiaries among minority communities.\n\n<br>",
+  "eligibilityMd": "a) The scheme is implemented through Self Help Groups (SHGs) or Thrift and Credit Groups (TCGs) comprising members of minority communities.\nb) At least 75% of the members of each SHG/TCG must belong to notified minority communities. The remaining up to 25% may belong to weaker sections, including Scheduled Castes, Scheduled Tribes, Other Backward Classes, or Persons with Disabilities.\n<br>\n\nIn exceptional cases, groups with minimum 60% minority members may also be considered.\nc) The annual family income of each beneficiary must not exceed:\nRs. 3.00 lakh under Credit Line–1.\nRs. 8.00 lakh under Credit Line–2.\nd) The SHG should have a satisfactory record of thrift and credit activity for at least six months.\ne) The beneficiaries should not be defaulters under any other loan scheme.\nf) Loans shall be used for income-generating activities such as petty trade, handicrafts, food processing, and service enterprises.\ng) Preference shall be given to women SHGs and groups operating in rural and minority-concentrated areas.\n<br>",
+  "exclusionsMd": "Other than Six Notified minority communities having annual family income of more than Rs. 3.00 Lakhs under credit line 1 and of more than Rs.8.00 Lakhs under credit line 2.\n<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "- NMDFC implements its schemes &amp; programs through State Channelizing Agencies (SCA list: [www.nmdfc.org/SCA](https://www.nmdfc.org/SCA) ) nominated by the respective State Governments &amp; Banking Partners (Presently through Canara Bank &amp; Punjab Grameen Bank). \n<br>",
+  "references": [
+    {
+      "title": "NMDFC Lending Policy",
+      "url": "https://www.nmdfc.org/lendingpolicy"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

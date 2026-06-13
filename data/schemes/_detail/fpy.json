@@ -1,0 +1,35 @@
+{
+  "slug": "fpy",
+  "name": "Fal Podharopan Yojana",
+  "shortTitle": "FPY",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Horticulture and Food Processing Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The objective of this scheme is to expand the area under fruit plantation in the district and increase the fruit production. This scheme is implemented in all the 52 districts of the state.",
+  "descriptionMd": "The scheme &quot;Fal Podharopan Yojana&quot; by the Horticulture and Food Processing Department, Government of Madhya Pradesh, provides targeted support to farmers for fruit cultivation, taking into account land conditions, climate, and irrigation availability. Under this scheme, farmers receive a subsidy of 40% to 50% of the unit cost, disbursed over three years, in the ratio of 60:20:20, for planting fruit saplings on areas ranging from 0.25 to 4 hectares. Eligible fruits include mango, guava, orange, sweet lime, custard apple, plum, sapota, grapes, pomegranate, strawberry, tissue-cultured banana, hybrid-seed papaya, munga, and lemon. The subsidy applies to both standard and high-density plantations, with or without drip irrigation, to support sustainable and high-yield fruit farming.",
+  "benefitsMd": "40% to 50% of grant-in-aid is payable in the ratio of 60:20:20 in three years.\n<br>\n\nSr. No.ConstituentPercentage of grant-in-aidPer Hectare Unit Cost for Dripless IrrigationGrant-in-Aid for Driplessrrigation (60:20:20)Per Hectare Unit Cost for Drip IrrigationGrant-in-Aid for  for Drip Irrigation (60:20:20)1.Normal Distance40% to 50%60,00030,0001,00,00040,0002.High Density40%1,00,00040,0001,50,00060,0003.Ultra High Density40%1,25,00040,0002,00,00080,000(Amount in ₹)",
+  "eligibilityMd": "1. The applicant should own private land.\n1. The land area should be at least 0.25 hectares.\n1. The land area should not exceed 4 hectares.\n1. The applicant should have adequate means of irrigation to support fruit plantation.\n1. The applicant should be interested in growing fruit crops.\n1. The applicant should have a strong interest in plantation activities.\n1. The applicant should be from one of the following social categories - General, Scheduled Tribe, Scheduled Caste.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration**\n\n**Step 1:** Go to the [official website](https://www.mpfsts.mp.gov.in/) of the Horticulture and Food Processing Department of the Government of Madhya Pradesh.\n**Step 2:** Click on “[Register Online.](https://www.mpfsts.mp.gov.in/vendor-registration-form.aspx)”\n**Step 3:** Complete the form by entering all necessary information marked with an *.\n**Step 4:** Upload the required documents, such as proof of land ownership, irrigation facility evidence, and any certificates relevant to eligibility.\n**Step 5:** Submit the application after reviewing all details, and save or print the acknowledgement receipt for future reference.\n<br>\n\n> **Application**\n\n**Step 1:** Go to the [official website](https://www.mpfsts.mp.gov.in/) of the Horticulture and Food Processing Department of the Government of Madhya Pradesh.\n**Step 2:** Signin using your email, password, and captcha code.\n**Step 3:** Select the scheme you intend to apply for. In the application form, fill in the mandatory details, and upload the necessary documents.\n**Step 4:** Review all details and submit the application. Save/print the acknowledgement receipt for future reference.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.mphorticulture.gov.in/sites/default/files/%E0%A4%AB%E0%A4%B2%20%E0%A4%AA%E0%A5%8C%E0%A4%A7%20%E0%A4%B0%E0%A5%8B%E0%A4%AA%E0%A4%A3%20%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-converted.pdf"
+    },
+    {
+      "title": "Registration",
+      "url": "https://www.mpfsts.mp.gov.in/"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=529"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

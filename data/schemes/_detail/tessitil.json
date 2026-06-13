@@ -1,0 +1,39 @@
+{
+  "slug": "tessitil",
+  "name": "Technical Education Scholarship Scheme for ITI Level",
+  "shortTitle": "TESSITIL",
+  "level": "state",
+  "state": "Himachal Pradesh",
+  "nodalDept": "Technical Education Department, Himachal Pradesh",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The objective of the scheme is to improve the quality of training by attracting promising trainees belonging to Scheduled Caste, Scheduled Tribe & Other Backward Classes & popularize technical training among these categories, so as to make them able to earn their livelihood respectably & honorably.",
+  "descriptionMd": "The scheme “Technical Education Scholarship Scheme for ITI Level” was started by the Department of Technical Education, Himachal Pradesh. The objective of awarding this scholarship is two-fold, firstly to improve the quality of training by attracting promising trainees belonging to Scheduled Caste, Scheduled Tribe, and Other Backward Classes, who otherwise would not be in a position to pursue training due to financial constraints and secondly to popularize technical training among these categories, so as to make them able to earn their livelihood respectably and honourably.",
+  "benefitsMd": "1. The scholarships shall be paid at the rate of ₹250/- per month per trainee subject to the condition that the corresponding decrease shall be affected in the rate of scholarship if the trainees receive a stipend from any other department of the Government or any organization.",
+  "eligibilityMd": "1. The applicant should belong to Scheduled Caste (SC), Scheduled Tribe (ST), or Other Backward Class (OBC) as notified by the Himachal Pradesh State Government.\n1. The applicant should be a bonafide Himachali.\n1. The applicant should be studying in a Government or Government-recognized Industrial Training Institute (I.T.I.) or I.T.I. for Women in Himachal Pradesh.\n1. The applicant should be pursuing technical training and require financial assistance to continue the course.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 01:** The students applying for the scholarship for the first time need to &amp;quot;Register&amp;quot; using the icon “New Registration” at the [NSP Portal](https://scholarships.gov.in/https://scholarships.gov.in/) URL -  by providing accurate and correct information as per their documents.\n**Step 02:** After successfully get registration done, students will get their “Student Registration ID”.\n**Step 03:** Through “Student Registration ID” students will be able to login into the account using the icon “Fresh Application” at NSP Portal.\n**Step 04:** After successful login to the portal, the welcome page appeared. On clicking the “Application Form” icon, students will be directed to the application screen.\n**Step 05:** Now, the students may fill out the complete application form and on clicking the “Final Submit” button, the application is finally submitted.\n**Step 06:** On successful submission of the application, a system-generated registration number is sent to the students which can be used for future reference.\n<br>",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://techedu.hp.gov.in/?q=scholarship"
+    },
+    {
+      "title": "Scheme Guideline",
+      "url": "https://techedu.hp.gov.in/sites/default/files/SKM_C224e23071715511.pdf"
+    },
+    {
+      "title": "EPASS Portal",
+      "url": "https://hpepass.cgg.gov.in/NewHomePage.do?actionParameter=technicalSchemes#:~:text=Scholarships%20for%20ITI%20Students(SC,100%2F%2D%20p.m."
+    },
+    {
+      "title": "National Scholarship Portal",
+      "url": "https://scholarships.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

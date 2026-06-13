@@ -1,0 +1,43 @@
+{
+  "slug": "fafejkbocwwb",
+  "name": "Financial Assistance for Funeral Expenses (JKBOCWWB)",
+  "shortTitle": "FAFEJKBOCWWB",
+  "level": "state",
+  "state": "Jammu and Kashmir",
+  "nodalDept": "Department of Labour and Employment",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The “Financial Assistance for Funeral Expenses” scheme by the BOCW Welfare Board, Labour Department, Jammu and Kashmir, is a welfare scheme that provides financial assistance to the nominees of a deceased registered member for covering funeral expenses.",
+  "descriptionMd": "The “Financial Assistance for Funeral Expenses” scheme by the Building and Other Construction Workers Welfare Board, Labour Department, Jammu and Kashmir, is a welfare program for registered workers. Under this scheme, ₹5,000/- is provided as funeral assistance to the nominee or legal heir upon the death of the registered worker.",
+  "benefitsMd": "₹5,000/- is provided as funeral assistance.",
+  "eligibilityMd": "1. The applicant must be the nominee or legal heir of the deceased worker.\n   1. The deceased worker must have been registered with the Jammu and Kashmir Building &amp;amp; Other Construction Workers Welfare Board.\n   1. The deceased worker must have been an active member of the Board at the time of death.\n   1. The scheme can be applied for only once.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "***Application -*** \n**Step 1:** Go to the [official website ](https://www.jkbocw.gov.in/Index.aspx)of the Jammu &amp; Kashmir Building and Other Construction Workers Welfare Board.\n**Step 2:** Click on [&quot;Login,&quot;](https://portal.jkbocw.gov.in/LoginGuest.aspx) enter your details, and sign in to your account.\n**Step 3:** After logging in, click on &quot;Scheme Registration&quot; and select &quot;Apply for Scheme.&quot;\n**Step 4:** Choose the scheme you wish to apply for in order to avail the benefits.\n**Step 5:** Enter all required information and upload the necessary documents as prompted.\n**Step 6:** Finally, click on &quot;Submit Application&quot; to complete the process.\n<br>\n\n***Status Tracking -*** \nApplicant can track their application status online through the [official website](https://www.jkbocw.gov.in/Index.aspx) of the  Jammu &amp; Kashmir Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jkbocw.gov.in/StaticPages/SchemeInformation.aspx"
+    },
+    {
+      "title": "Website",
+      "url": "https://jkbocw.gov.in/Index.aspx"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://jkbocw.gov.in/MediaGallery/CITIZEN_CHARTER.pdf"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://www.jkbocw.gov.in/Documents/LabourRegistrationManualPublicUser.pdf"
+    },
+    {
+      "title": "Application Form Page No.19",
+      "url": "https://www.jkbocw.gov.in/downloads/circ.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

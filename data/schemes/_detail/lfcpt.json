@@ -1,0 +1,35 @@
+{
+  "slug": "lfcpt",
+  "name": "Loan For Commercial Pilot Training",
+  "shortTitle": "LFCPT",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Tribal Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to offer affordable loans of up to ₹25,00,000 at a 4% annual interest rate to tribal students who want to pursue pilot training.",
+  "descriptionMd": "The &quot;Loan For Commercial Pilot Training&quot; scheme was launched by the Tribal Development Department, Government of Gujarat. The scheme aims to support Scheduled Tribe (ST) students in pursuing professional pilot training by providing affordable loans. Under this scheme, tribal students can avail a loan at a concessional interest rate, enabling them to secure high-quality training and good employment opportunities.\n<br>",
+  "benefitsMd": "**Monetary Benefit**\n\n- Loan of up to ₹25,00,000 or the actual cost of training, whichever is lower.\n\n**Interest Rate**\n\n- 4% per annum.\n\n**Penalty Interest**\n\n- 2.5% per annum on delayed repayments.\n\n**Beneficiary Contribution**\n\n- No contribution is required from the applicant.\n\n**Repayment Terms**\n\n- Repayment begins 1 year after the loan disbursement date.\n- Repayment period is 144 monthly installments (12 years).\n- Includes 10 years for principal repayment and 2 years for interest repayment.\n- Early repayment is permitted.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Gujarat.\n1. The applicant must be a student.\n1. The applicant must belong to the Scheduled Tribe (ST) category.\n1. The applicant must have passed Matriculation, Higher Secondary, Indian School Certificate, or an equivalent examination.\n1. The applicant must have secured admission to a recognized commercial pilot training institute.\n1. The applicant should have passed Higher Secondary Certificate (HSC).\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "##### ***Registration Process***\n\n- Visit the Gujarat Tribal Development Corporation [official website](https://adijatinigam.gujarat.gov.in/home). - Click on the &quot;[APPLY FOR LOAN](https://adijatinigam.gujarat.gov.in/gtdcloan)&quot;.- Select the scheme name &quot;Foreign Study&quot;.\n- Fill the registration form: Full Name (as per Aadhaar Card), Gender, Date of Birth, Aadhaar Number, Mobile Number, Uder name, Password for login, Confirm Password.\n- Click on the &quot;Sign Up.\n- After successful registration, User ID and Password will be generated.\n\n##### ***Application Process***\n\n- Enter User ID, Password, and Captcha Code.\n\n\n- After login, schemes applicable to your caste will be displayed.\n- Click on the scheme you want to apply for.\n- Fill the &quot;Application Form&quot; and upload the required documents\n- Click Save Application. The system will generate an Application Number.\n- Click Print Application.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 7)",
+      "url": "https://adijatinigam.gujarat.gov.in/assets/downloads/SchemesDetailsofGTDC08102024.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://tribal.gujarat.gov.in/home"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

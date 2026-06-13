@@ -1,0 +1,31 @@
+{
+  "slug": "pssppy",
+  "name": "Samagra Samajik Suraksha Parityakta Pension Yojana",
+  "shortTitle": "PSSPPY",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Department of Social Justice and Empowerment of Persons with Disabilities",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under the Scheme, Madhya Pradesh government provides financial benefits to Be from a family living below the poverty line.",
+  "descriptionMd": "Samagra Samajik Suraksha Parityakta Pension Yojana under the Department of Social Justice government of Madhya Pradesh provides financial benefits to Be from a family living below the poverty line. to fulfill the basic needs of life.",
+  "benefitsMd": "Pension Benefits : ₹ 600/- per month",
+  "eligibilityMd": "1. The applicant should be a native of Madhya Pradesh.\n1. The Abandoned women aged between 18 to 59 years.\n1. The applicant should be living below the poverty line.\n1. The applicant name should be mentioned on the Samagr portal.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1** Go to the [Samajik Suraksha portal.](https://socialsecurity.mp.gov.in/#)\n**Step 2**: Click on [Samajik Suraksha pension avm arthik sahayata yojanaen.](https://socialsecurity.mp.gov.in/Home.aspx)\n**Step 3:** Now click on the left on your screen Pension Yojana hetu online aavedan.\n**Step 4:** Fill in the required details and submit.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socialsecurity.mp.gov.in/Scheme/SSWP.aspx"
+    },
+    {
+      "title": "Apply Portal",
+      "url": "https://socialsecurity.mp.gov.in/Home.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

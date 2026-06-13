@@ -1,0 +1,35 @@
+{
+  "slug": "ppma",
+  "name": "Padho Pardesh",
+  "shortTitle": "PPMA",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Minority Affairs",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Padho Pardesh is a scheme of interest subsidy on educational loans for overseas studies for the students belonging to the minority communities. The scheme was launched by the Ministry of Minority Affairs in 2006 under the Prime Minister's New 15 Point Programme for the Welfare of Minorities.",
+  "descriptionMd": "The Padho Pardesh scheme is a central government program that provides interest subsidies to minority students who are pursuing master&#39;s, M.Phil, or Ph.D. degrees abroad. The objective of the scheme is to award interest subsidy to meritorious students belonging to economically weaker sections of notified minority communities so as to provide them better opportunities for higher education abroad and enhance their employability.\n<br>\n\nThe subjects/ disciplines in which courses  (for Masters, M.Phil and Ph.D only) may be undertaken for the grant of interest subsidy are listed below:-\n\n1. Arts/ Humanities/ Social Sciences\n1. Commerce\n1. Pure Sciences\n1. Engineering\n1. Bio- technology/ Genetic Engineering\n1. Industrial Environmental Engineering\n1. Nano- technology\n1. Marine Engineering\n1. Petro-chemical Engineering\n1. Plastic Technology\n1.  Cryogenic Engineering\n1. Mechatronics\n1. Automation Robotics including artificial intelligence\n1. Laser Technology\n1. Low Temperature Thermal Dynamics\n1. Optometry\n1. Art Restoration Technology\n1. Dock and Harbour Engineering\n1. Imaging System Technology\n1. Composite Materials Engineering including Decentralized power Distribution (for Solar Heat) system, Energy Storage Engineering, Energy conservation, Energy Efficient Habitat\n1. Packaging Engineering/ Technology\n1. Nuclear Engineering\n1. Information Technology including Computer Engineering, Software, Software Quality assurance, Networking/ Connectivity Engineering, Communication system under Hazardous or Post-disaster conditions, Multi- media Communication\n1. Industrial Safety Engineering\n1. Agriculture &amp; Agro Technology\n1. Agronomy\n1. Medical\n1. Floriculture &amp; Landscaping\n1. Food Sciences &amp; Technology\n1. Forestry &amp; Natural Resources\n1. Horticulture\n1. Plant Pathology\n1. Energy Studies\n1. Farm Power &amp; Machinery\n1. Veterinary Sciences\n1. Soils &amp; Water Management\n1. Plant Breeding &amp; Genetics\n1. Small- scale Rural Technology\n1. Ocean &amp; Atmospheric Sciences\n1. M.B.A\n1. M.C.A",
+  "benefitsMd": "1. **Financial assistance:** The scheme provides an interest subsidy on education loans, which can help to reduce the cost of overseas education for minority students.1. **Increased access to education:** The scheme makes overseas education more accessible to minority students from all backgrounds, regardless of their financial situation.1. **Improved employability:** Studying abroad can give students a competitive edge in the job market, and the Padho Pardesh scheme can help minority students to achieve their career goals.1. **Personal and professional development:** Studying abroad can be a transformative experience, and the Padho Pardesh scheme can help minority students to develop their skills and knowledge in a global context.",
+  "eligibilityMd": "1. Students must have been admitted to an approved master&#39;s, M.Phil, or Ph.D. program abroad.\n1. Students must have been admitted to a recognized university or institution abroad.\n1. Student&#39;s family income must not exceed ₹ 6,00,000 per annum.\n1. Students must have obtained an education loan from a scheduled bank under the Indian Banks Association (IBA) Education Loan Scheme.\n1. Students must apply for the scheme&#39;s benefits during their first year of study. Applications received in the second year or later will not be accepted.\n1. Priority will be given to applications from states and union territories with lower bank interest rates.\n1. Payment of financial benefits may be linked to the student&#39;s Aadhaar number.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "1. Open the [official website.](https://www.minorityaffairs.gov.in/show_content.php?lang=1&level=1&ls_id=739&lid=62) 1. Click on the &quot;[Apply Now](https://canarabankcsis.in/Padho_STD_Portal/login.aspx)&quot; option.1. Fill the required details\n\n   1. ISD Code, \n   1. Mobile number\n   1. Email ID. \n\n1. Submit the details.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.minorityaffairs.gov.in/WriteReadData/RTF1984/8244568969.pdf"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://www.minorityaffairs.gov.in/WriteReadData/RTF1984/2693689007.pdf"
+    },
+    {
+      "title": "Notification",
+      "url": "https://www.minorityaffairs.gov.in/WriteReadData/RTF1984/1675745978.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

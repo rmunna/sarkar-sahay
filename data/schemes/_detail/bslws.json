@@ -1,0 +1,39 @@
+{
+  "slug": "bslws",
+  "name": "Bihar Shatabdi Leper Welfare Scheme",
+  "shortTitle": "BSLWS",
+  "level": "state",
+  "state": "Bihar",
+  "nodalDept": "Social Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, financial assistance of ₹1,500/- per month is given to leprosy patients with Visible Deformities Grade-II in the state. This scheme is fully funded by the State Government.",
+  "descriptionMd": "The &amp;quot;Bihar Shatabdi Leper Welfare Scheme&amp;quot; was launched by the Social Welfare Department, Government of Bihar. Under this scheme, financial assistance of ₹1,500/- per month is given to leprosy patients with Visible Deformities Grade-II in the state. The state government fully funds this scheme.\n**Objective:**\nThe objective of this scheme is to provide financial assistance to the state&amp;#39;s leprosy patients.",
+  "benefitsMd": "Under this scheme, financial assistance of ₹1,500/- per month is given to leprosy patients with Visible Deformities Grade-II.",
+  "eligibilityMd": "1. The applicant should be a resident of Bihar.\n   1. The applicant should be a leprosy patient with Visible Deformities Grade-II.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- To avail of the benefits of this scheme, eligible persons should submit their applications in the prescribed format at the respective block office.\n\n**Note:** The application is approved by the Block Development Officer at the block level.\n&gt; **Complaints &amp;amp; Grievance Redressal:**\n\n\n  - The complaint can be lodged in the office of the Block Development Officer, Sub-divisional Office, Assistant Director, District Social Security Cell/District Child Protection Unit, Director, Social Security Office, and Additional Chief Secretary/Principal Secretary/Secretary, Social Welfare Department. Apart from this, under the Bihar Public Grievance Redressal Rights Act, 2016, the office of the Public Grievance Redressal Officer at the sub-divisional level and the District Public Grievance Redressal Officer at the district level are functioning.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://state.bihar.gov.in/cache/39/Chhatra%20Yojna/Mukhyamantri%20Samajik%20Sahayata%20Evam%20Protsahan%20Chhatra%20Yojna/BSLWS.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://state.bihar.gov.in/cache/39/Chhatra%20Yojna/Mukhyamantri%20Samajik%20Sahayata%20Evam%20Protsahan%20Chhatra%20Yojna/Mukhyamantri%20Samajik%20Sahayata%20Evam%20Protsahan%20Chhatra%20Yojna.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://state.bihar.gov.in/socialwelfare/CitizenHome.html"
+    },
+    {
+      "title": "E-Suvidha",
+      "url": "https://esuvidha.bihar.gov.in/ESUV/Login.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

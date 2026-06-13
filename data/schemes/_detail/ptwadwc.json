@@ -1,0 +1,35 @@
+{
+  "slug": "ptwadwc",
+  "name": "Pension To Widows And Destitute Women-Chandigarh",
+  "shortTitle": "PTWADWC",
+  "level": "state",
+  "state": "Chandigarh",
+  "nodalDept": "Social Welfare, Women & Child Development",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under the Pension To Widows And Destitute Women scheme To provide financial assistance to Widows and Destitute Women of Chandigarh.",
+  "descriptionMd": "The Pension to Widows And Destitute Women scheme under the Social Welfare, Women &amp; Child Development Department of Chandigarh Goverment provides financial assistance to widows and destitute women to alleviate their economic hardship and provide a semblance of stability in their lives. This support often comes in the form of monthly stipends or welfare programs designed to meet their basic needs, including food, shelter, and healthcare. By extending financial aid, governments or charitable organizations seek to empower these vulnerable individuals to become more self-reliant and regain their footing in society.\nAdditionally, such assistance may include access to vocational training or educational opportunities to enhance their skills and employability, fostering long-term independence. Ultimately, these initiatives contribute to fostering social inclusion and reducing poverty among widows and destitute women, ensuring they have the necessary support to rebuild their lives with dignity.",
+  "benefitsMd": "> **Pension Amount To Widows And Destitute Women - ₹1,000/-  per month**",
+  "eligibilityMd": "1. The applicant women&#39;s age should be 18-60 years.\n1. The applicant should be a resident of UT, Chandigarh for more than 3 years.\n1. The applicant&#39;s family&#39;s annual income should not exceed ₹1,50,000/-",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration**\n\n**Step 1:**  Applicant has to visit the &quot;[e-District](http://chdservices.gov.in/main.aspx)&quot; website\n**Step 2:**  Click on the &quot; [citizen login](http://admser.chd.nic.in/marriage/PortalUser/PortalLogin.aspx)&quot; on the home page\n**Step 3:** Now you click on  &quot;[New User Register here](http://admser.chd.nic.in/marriage/PortalUser/Register.aspx)&quot; on the page\n**Step 4:** Fill out the registration form with your\n            - Full Name \n            - Father Name\n            - Date Of Birth \n            - Gender \n            - Mobile No\n            - Email Id\n            - Country\n            - State, e.t.c\n**Step-5:**  Review the details to ensure accuracy, and then submit registration.\n**Step-6:** After successful registration, you may receive a confirmation message on the website or via email, confirming that your registration was successful.\n<br>\n\n> **Apply**\n\n**Step 1:**  Applicant has to visit the &quot;[e-District](http://chdservices.gov.in/main.aspx)&quot; website\n**Step 2:**  Click on the &quot; [citizen login](http://admser.chd.nic.in/marriage/PortalUser/PortalLogin.aspx)&quot; on the home page\n**Step 3:** Now enter your \n             - Registered Email ID :\n             - Password \n             - Code is Case Sensitive\n**Step 4:** click sign-in.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://chdsw.gov.in/index.php/scheme/pension-to-widows-and-destitute-women"
+    },
+    {
+      "title": "Login",
+      "url": "http://admser.chd.nic.in/marriage/PortalUser/PortalLogin.aspx"
+    },
+    {
+      "title": "Registration",
+      "url": "http://admser.chd.nic.in/marriage/PortalUser/Register.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

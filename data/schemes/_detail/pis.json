@@ -1,0 +1,35 @@
+{
+  "slug": "pis",
+  "name": "Police Internship Scheme",
+  "shortTitle": "PIS",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Home Department ",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to familiarize meritorious students with police functioning and promote research in law enforcement by providing selected students a six-week internship in district police stations under official supervision.",
+  "descriptionMd": "The &quot;Police Internship Scheme&quot; was launched by the Home Department, Government of Madhya Pradesh. The scheme aims to familiarize meritorious students with the functioning of the Madhya Pradesh Police Department and to encourage research in policing and law enforcement. \n> **Internship Period**\n\nSelected students are offered a six-week internship opportunity at district police stations, where they gain practical experience in administrative, legal, and investigative procedures.\n<br>\n\n<br>",
+  "benefitsMd": "**Professional Exposure:**\nInterns gain firsthand experience of police administration, law enforcement, investigation procedures, and public dealing.\n**Research Opportunity:**\nEach intern submits an analytical research paper of 3,000 words on an approved topic related to policing.\n**Certification:**\nA Police Internship Certificate is awarded upon successful completion by the respective unit head (Superintendent of Police).\n**Supervised Training:**\nEach intern is placed under the supervision of at least a Sub-Inspector or higher-ranking officer, who mentors and evaluates daily work.\n**Practical Learning:**\nInterns maintain a daily duty record, authenticated by their supervising officer the following day.\n**Placement Structure:**\nLarge police stations (in Indore, Bhopal, Jabalpur, and Gwalior): 2–3 interns\n**Medium police stations:** 1 intern\n**Mode and Duration:**\nInternship duration: 6 weeks (June 1–July 12)\nMode: Full-time, in-person at designated police stations.\n**Honorarium:**\nThe scheme is unpaid. No salary or stipend is provided. Lodging and food arrangements must be made by the interns themselves.\n**Disciplinary Provisions:**\nNo leave is permitted during the internship period. Lack of interest or misconduct may result in termination by the Superintendent of Police.\n<br>\n\n<br>",
+  "eligibilityMd": "1. The applicant should be a resident of Madhya Pradesh. \n1. The applicant should be a student enrolled in a recognized educational institution.\n1. The applicant must be between 21 and 26 years of age as of May 1 of the application year.\n1. The applicant should be pursuing one of the following courses:\n\n\n- Five-Year Integrated Law Course\n- B.E. / B.Tech.\n- Master’s or Postgraduate Program from any UGC-recognized institution\n- MCA / BCA / PGDCA\n- CA / CS\n- Diploma in Police-Related Subjects (e.g., Human Rights, Criminology)\n- Ph.D. or Research in Police-Related Subjects\n\n<br>\n\n<br>\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "> **The District Superintendent of Police (SP) contacts major universities and colleges to invite applications.**\n\n**Step 1:** The interested applicant downloads the application form (Annexure K) from the official website.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the respective District Superintendent of Police (SP) Office. \n> **Post-application Process**\n\n\n- Applications are reviewed based on eligibility, academic merit, and interest in policing.\n- Qualified students are allotted police stations according to training capacity: 2–3 interns for large stations, 1 for medium stations.\n- Interns begin work on June 1, with supervision by designated officers.\n- Interns maintain daily duty logs and submit a 3,000-word analytical research paper.\n- Successful interns receive a Police Internship Certificate signed by the unit head.\n- Each district submits a list of selected interns by June 15 and completion details by August 1 to the Police Training Headquarters.\n\n<br>\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.mppolice.gov.in/sites/default/files/2018-05/Police%20Internship%20Plan.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=565"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://www.mppolice.gov.in/en"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

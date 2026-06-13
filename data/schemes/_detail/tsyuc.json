@@ -1,0 +1,31 @@
+{
+  "slug": "tsyuc",
+  "name": "Tuition Sahay Yojana (Unreserved Category)",
+  "shortTitle": "TSYUC",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"Tution Sahay Yojana (Unreserved Category)\" by the Department of Social Justice and Empowerment, Gujarat, aims to provide financial assistance of ₹15,000/- annually to unreserved category students in the science stream of Class 11th and 12th.",
+  "descriptionMd": "The scheme &amp;quot;Tution Sahay Yojana (Unreserved Category)&amp;quot; by the Department of Social Justice and Empowerment, Government of Gujarat aims to support meritorious students from the unreserved category pursuing science in Classes 11 and 12 by providing them annual tuition fee assistance. This scheme ensures that students who scored 70% or more in their Class 10 board examination receive ₹15,000 through Direct Benefit Transfer (DBT) to pursue science education. The scheme is implemented by the Gujarat Unreserved Educational &amp;amp; Economic Development Corporation.",
+  "benefitsMd": "- **Monetary Assistance:** ₹15,000/- per academic year is provided as tuition assistance to each eligible student.",
+  "eligibilityMd": "- The applicant must belong to the unreserved category.\n  - The applicant must be studying in Class 11th or Class 12th in the science stream.\n  - The applicant must have secured 70% or more marks (from total marks in all subjects) in Class 10.\n  - The applicant’s family income must not exceed ₹6,00,000 annually.\n  - The applicant must apply in the same academic year.\n  - The institution should be registered under a valid Act (such as Trust Act, Companies Act, etc.), with at least 3 years of experience in Class 11-12 science tuition.\n  - The institution should have filed IT returns for the past 3 years, including income from tuition classes, \n  - The institution should have a mandatory GST.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step 1:** Go to the Corporation&#39;s [official website](https://esamajkalyan.gujarat.gov.in/) and navigate to the &quot;Gujarat Unreserved Education and Economical Development Corporation&quot; section under the Corporation menu.\n**Step 2:**Click on &quot;Tuition Sahay Yojana&quot; and then Apply Now.\n**Step 3:** Click on &quot;New User? Please Register Here&quot;.\n**Step 4:** Enter the required details and click Register.\n> **Application Process:**\n\n**Step 1:** Enter your User ID, Password, and Captcha Code, then click &quot;Login&quot;.\n**Step 2:** Read the scheme details carefully and click OK.\n**Step 3:** If your permanent address is correct, confirm it. Otherwise, enter your correct address.\n**Step 4:** Click Save &amp; Next to proceed. Upload the relevant documents.\n**Step 5:** If you need to make changes, click &quot;No, Cancel&quot;. If all details are correct, click &quot;Yes, Submit&quot;.\n**Step 6:** Click Save Application. Note down your Application Number for future reference. You can also take a printout by clicking Print Application.\n> **Check Application Status:** [Click here](https://esamajkalyan.gujarat.gov.in/ViewApplicationStatus.aspx).\n\n> **Post Online Application Procedure:** After submitting the online application, the applicant must take a printout of the application, sign it, and submit it along with all uploaded documents (certificates, mark sheets, etc.) to the concerned Deputy Director (Non-Reserved Category) or the District Social Welfare Officer through courier, post, or by visiting in person.\n\n> **Contact Us:** [Click here](https://gueedc.gujarat.gov.in/contact-us.html).\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://esamajkalyan.gujarat.gov.in/index.aspx?ServiceID=F0Pc+shMH73W27YBrcL+sw%3d%3d"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

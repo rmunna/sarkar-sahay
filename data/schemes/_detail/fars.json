@@ -1,0 +1,27 @@
+{
+  "slug": "fars",
+  "name": "Fishermen Accident Relief Scheme",
+  "shortTitle": "FARS",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Agriculture, Farmers Welfare and Cooperation Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Fishermen Accident Relief Scheme\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support the families of Gujarat's active fishermen by offering monetary compensation in case of accidental fatalities.",
+  "descriptionMd": "The &amp;quot;Fishermen Accident Relief Scheme&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial assistance to the families of deceased fishermen in Gujarat in case of death in Pakistan Jail, lost in the sea, or accidental death while fishing at sea. The financial assistance varies based on the cause of death and is meant to help the legal heirs cope with the loss.",
+  "benefitsMd": "<br>\n\n**Name of Component****Standard of Assistance****Minimum Time Limit (in Years) for Reclaiming Benefits**Death in Pakistan Jail ₹4,00,000/-Only once, after dead or lost declared as per rules.Lost in Sea₹2,00,000/-Only once, after dead or lost declared as per rules.Accidental death while fishing at sea₹2,00,000/-Only once, after dead or lost declared as per rules.<br>",
+  "eligibilityMd": "- The applicant must be a legal heir of the deceased fisherman.\n  - The deceased must have been an active fisherman from Gujarat.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** The legal heir of the deceased fisherman must collect and fill out the application form.\n**Step 2:** The application along with the necessary documents should be submitted to the concerned district office.\n**Step 3:** Upon verification, financial assistance will be provided to the eligible beneficiary.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=mS3Bu6DbxKaTxdKVWXY5zA==&domain=qO9v1Yt1qFTmoiKMRXBpiA=="
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

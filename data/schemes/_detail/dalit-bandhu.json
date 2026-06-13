@@ -1,0 +1,35 @@
+{
+  "slug": "dalit-bandhu",
+  "name": "Dalit Bandhu",
+  "shortTitle": "DALIT BANDHU",
+  "level": "state",
+  "state": "Telangana",
+  "nodalDept": "Social Welfare Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The Dalit Bandhu Scheme is a welfare program launched by the state government of Telangana in India in Aug'2021. The scheme is aimed at providing financial assistance to families belonging to the Scheduled Caste (SC) community in the state to help them become economically self-reliant.",
+  "descriptionMd": "_The Dalit Bandhu Scheme is a unique initiative launched by the government of Telangana to promote the economic development of families belonging to the Scheduled Caste (SC) community. The scheme provides financial assistance of Rs. 10 lakhs to eligible SC families to start their own businesses or entrepreneurial ventures, thereby creating opportunities for them to become self-reliant and improve their standard of living._\n<br>\n\nAs a part of a multi-pronged approach, in addition to existing entitlements like food security, education, and social security, a different strategy with a new initiative &quot;Telangana Dalit Bandhu&quot; is introduced to intensify the level of financial assistance to SC households for the establishment of suitable income generating economic support schemes as the delivery of credit by banks in the form of loans has become a constraint.\n<br>\n\nUnder the scheme, eligible families will receive financial assistance of Rs. 10 lakhs each, in the form of a grant, to start a small business or entrepreneurial venture. The scheme is expected to benefit over 20 lakh families in the state over the next few years. One-time capital assistance of Rs.10 lakhs per SC family is provided for all SC families as a 100% grant/subsidy to establish suitable income-generating schemes as per their choice (without bank loan linkage).\n<br>\n\nThe main objective of the scheme is to reduce poverty and promote entrepreneurship among the SC community, which has historically been marginalized and faced discrimination in society. The scheme is also expected to promote inclusive growth and social development in the state. \n<br>\n\nThe Telangana government has allocated Rs. 1,000 crores for the implementation of the scheme in the first year. The scheme is expected to be implemented in a phased manner, with eligible families being identified and selected based on a set of criteria such as income level, educational qualification, and entrepreneurial skills.\n<br>\n\n***Overall, the Dalit Bandhu Scheme is a path-breaking initiative that aims to uplift the socio-economic status of the SC community in Telangana. The scheme provides a much-needed boost to entrepreneurship and economic development among the marginalized sections of society, thereby promoting inclusive growth and social development in the state.***",
+  "benefitsMd": "",
+  "eligibilityMd": "**Here are the eligibility criteria for the scheme:**\n<br>\n\n\n1. _The scheme is applicable only to families belonging to the SC community._\n1. _The applicant must be a resident of Telangana._\n1. _The family should have an annual income of less than Rs. 2.5 lakh._\n1. _The family should not own more than 3 acres of agricultural land or more than one residential house._\n1. _The applicant should not have availed of any other government loan or subsidy._\n1. _The applicant should have a viable business plan or entrepreneurial idea that can be supported by the grant._\n1. _The applicant should be willing to contribute 10% of the project cost._\n1. _The applicant should have a bank account._\n1. _The applicant should have a digital identity, such as an Aadhaar card._\n1. _The applicant should be between the ages of 25 and 50._\n1. _The applicant should have passed at least the 10th standard._\n1. _The applicant should not have a criminal record or have been convicted of a crime._\n\n<br>\n\nThese eligibility criteria have been put in place to ensure that the scheme benefits those who are most in need of financial assistance to start their own businesses or entrepreneurial ventures. By targeting eligible SC families who meet these criteria, the government aims to ensure that the benefits of the scheme reach the intended beneficiaries and help to reduce economic disparities in the state.\n<br>\n\n**The eligibility criteria for the Dalit Bandhu scheme in Telangana are based on the socio-economic conditions of the Dalit families. According to the Telangana Chief Minister, K. Chandrasekhar Rao, the following parameters will be considered in the eligibility survey:**\n<br>\n\n\n- ***Land holdings***\n- ***Annual income***\n- ***Savings***\n- ***Liabilities***\n- ***Education***\n- ***Skills***\n- ***Employment status***\n\n<br>\n\nThe eligibility survey will be conducted by a dedicated agency, the Telangana Dalit Bandhu Corporation, which will also provide capacity-building and training programs, as well as support for marketing and access to credit. It is worth noting that the scheme is not based on caste certificates, but on the socio-economic conditions of the families. Eligible Dalit families will receive financial assistance of Rs. 10 lakhs in a phased manner to start their own businesses or ventures.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Dalit Bandhu Home Page",
+      "url": "https://dalitbandhu.telangana.gov.in/Home/Index"
+    },
+    {
+      "title": "Kamareddy District Website",
+      "url": "https://kamareddy.telangana.gov.in/scheme/dalita-bandhu-scheme/"
+    },
+    {
+      "title": "CM Official Website",
+      "url": "https://cm.telangana.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

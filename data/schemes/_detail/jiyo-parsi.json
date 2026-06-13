@@ -1,0 +1,31 @@
+{
+  "slug": "jiyo-parsi",
+  "name": "Scheme for Containing Population Decline of Small Minority Communities ",
+  "shortTitle": "JIYO PARSI",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Minority Affairs",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The objective of the scheme is to reverse the declining trend of Parsi population by adopting a scientific protocol and structured interventions, stabilize their population and increase the population of Parsis in India.",
+  "descriptionMd": "The population of Parsis (Zoroastrians), a notified minority community under the National Commission of Minorities Act 1992, has declined from 1,14,000 in 1941 to 57,264 in 2011 as per Census data. In order to arrest the decline in population and reverse the trend, the Government of India through the Ministry of Minority Affairs (MoMA) formulated the Jiyo Parsi scheme in September 2013.\nThe scheme has three components:\ni) Medical Assistance – to provide financial assistance for medical treatment under standard medical protocol;\nii) Health of Community – to provide financial assistance to Parsi couples towards childcare and assistance to dependent elderly; and\niii)\tAdvocacy – to create awareness among the younger generation of marriageable age and young couples to make efforts to contain the population decline of the community and to seek early diagnosis and treatment where necessary.\n<br>",
+  "benefitsMd": "- **Infertility Treatment Assistance:** Financial assistance up to ₹6,00,000/-, including IVF (₹1,50,000/- per cycle for a maximum of 4 cycles), surrogacy, ICSI, and donor costs as per the approved treatment plan.  - **Childbearing Medical Expenses:** Financial assistance up to ₹4,00,000/- covering diagnostic tests, medicines, hospitalization, and delivery charges (₹2,00,000/- before delivery and remaining after delivery).  - **Post-Natal Care Support:** Financial assistance up to ₹2,50,000/- for newborn care, including NICU, special treatment, and surgeries (up to six weeks after birth).  - **Support for Children:** Financial assistance of ₹8,000/- per month for the care of existing and newborn children up to 18 years of age.  - **Support for Elderly Dependents:** Financial assistance of ₹10,000/- per month per dependent elderly family member aged 60 years or above.\n<br>",
+  "eligibilityMd": "- The scheme is meant for the notified minority community, i.e., Parsi/Zoroastrians residing in India.\n\n<br>",
+  "exclusionsMd": "<br>\n\n<br>",
+  "applicationMode": "Online",
+  "applicationMd": "Step 1: Register on the [portal](https://jiyoparsi.minorityaffairs.gov.in/).\nStep 2: Remember the user ID and password.\nStep 3:  Fill in the information in the application form.\nStep 4: Upload the required documents.\nStep 5: Submit the application.\nStep 6: Retain the acknowledgement slip for future reference.\nStep 7: Biometric authentication of each member of the family on an annual basis.\n> **User Manual:** [Click here](https://jiyoparsi.minorityaffairs.gov.in/User_guidelines_for_Beneficiary_Jiyo_Parsi.pdf).\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.minorityaffairs.gov.in/showfile.php?lang=1&level=1&ls_id=836&lid=1055"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://www.minorityaffairs.gov.in/show_content.php?lang=1&level=2&ls_id=242&lid=61"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

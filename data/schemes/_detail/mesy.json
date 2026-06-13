@@ -1,0 +1,39 @@
+{
+  "slug": "mesy",
+  "name": "Matritva, Shishu Evam Baalika Madad Yojana",
+  "shortTitle": "MSEBMY",
+  "level": "state",
+  "state": "Uttar Pradesh",
+  "nodalDept": "Labour Department, Uttar Pradesh",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Maatrtv, Shishu Evan Baalika Madad Yojana\" is a initiative of Uttar Pradesh state Government to provide the financial assistance to the mother and her girl child.",
+  "descriptionMd": "The &quot;Matritva, Shishu Evam Baalika Madad Yojana&quot; is a scheme launched by the Uttar Pradesh government to provide financial assistance to construction worker women and wives of construction workers in the state during pregnancy and childbirth. The aim of this scheme is to ensure safe and healthy pregnancies and deliveries for women.\n<br>\n\nThe objective of the scheme is to provide nutritious food to the newborn babies of eligible beneficiaries working in building and other construction processes from their birth till they complete 02 years of age and to the wives of registered female workers and registered male workers after delivery. Along with this, the objective of the scheme is to create positive thinking in the society towards the birth of girls and to give positive results by encouraging legal system like adult marriage.",
+  "benefitsMd": "**Matritva Hitlabh (Maternity benefits)**\n\n1. Registered male workers: ₹6,000/- lump sum.\n1. Female workers for institutional delivery: 3 months&#39; minimum wage equivalent + ₹1,000/- medical bonus.\n1. Female workers for miscarriage: 6 weeks&#39; minimum wage equivalent.\n1. Female workers for sterilization: 2 weeks&#39; minimum wage equivalent.\n\n<br>\n\n**Shishu Hitlabh (Child benefits)**\n\n1. For son: ₹20,000/- lump sum.\n1. For daughter: ₹25,000/- lump sum.\n1. For first or second daughter, or legally adopted daughter: ₹25,000/- fixed deposit (matures if unmarried at 18).\n1. For handicapped daughter: ₹50,000/- fixed deposit (matures if unmarried at 18).",
+  "eligibilityMd": "**Matritva Hitlabh (Maternity benefits):**\n\n1. Beneficiary women must be a permanent resident of Uttar Pradesh.\n1. Beneficiary women must be a registered construction worker.\n1. Beneficiary women must be above 18 years of age.\n1. Benefits will be provided only to the first two deliveries of the worker.\n\n<br>\n\n**Shishu Hitlabh (Child benefits)**\n\n1. First girl child born in the family (up to one girl child).\n1. Second girl child only if both first and second child are girls.\n1. If more than one girl child in first and second delivery, all girls are eligible.\n1. Applies to legally adopted girl child (first girl only) in childless families.\n1. Birth of girl child must be registered.\n1. Girl must remain unmarried until 18 to receive fixed deposit.\n1. Benefits will not be provided eligible if recipient of another similar government scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "> **How to get register and apply for the scheme**\n\n\n1. Applicant must visit the below offices\n\n  - Nearest labor office.\n  - Tehsildar of the concerned tehsil.\n  - Block Development Officer of the concerned development block.\n\n1. Get the application form and fill out the completely.\n1. Attach required documents in the prescribed format.\n1. Submit the application form in the same office.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://www.upbocw.in/StaticPages/schemes.aspx#tab1"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://www.upbocw.in/pdf/adhisuchna/CombineBalikaMatratvaShishuYojna_21_12_2023.pdf"
+    },
+    {
+      "title": "Registration Portal",
+      "url": "https://www.uplmis.in/Guest/frm_createlogin_forlabs.aspx"
+    },
+    {
+      "title": "Apply Portal",
+      "url": "https://www.uplmis.in/Guest/frm_CreateLogin.aspx?type=2"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

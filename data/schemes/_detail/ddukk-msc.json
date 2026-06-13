@@ -1,0 +1,31 @@
+{
+  "slug": "ddukk-msc",
+  "name": "Deen Dayal Upadhyay Kaushal Kendra (DDUKK)- Mega Skill Centre",
+  "shortTitle": "DDUKK-MSC",
+  "level": "state",
+  "state": "Jharkhand",
+  "nodalDept": "Labour, Employment, Training and Skill Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The “Deen Dayal Upadhyay Kaushal Kendra (DDUKK)- Mega Skill Centre” is a component of the umbrella scheme “Mukhymantri Sarthi Yojna” launched by the Department of Labour, Employment, Training and Skill Development, Government of Jharkhand.",
+  "descriptionMd": "The “Deen Dayal Upadhyay Kaushal Kendra (DDUKK)—Mega Skill Centre” is a component of the umbrella scheme “Mukhymantri Sarthi Yojna” launched by the Department of Labour, Employment, Training and Skill Development, Jharkhand. The scheme, operational since October 2017, focuses on longer-duration courses with on-job training (OJT) for youth. It aims to train 60,000 candidates in various sectors during 2023-24.\n<br>\n\n**Course Duration**\nThe training under this scheme is a minimum of 576 hours of which 160 hours are dedicated to IT and Soft Skills\n<br>",
+  "benefitsMd": "- **Comprehensive Training:** Combines technical skills with soft skills and IT training.- **Residential Facility:** Training is fully residential, ensuring a focused learning environment.- **On Job Training (OJT):** Hands-on industry exposure for candidates to become job-ready.- **Multi-sector Opportunities:** Tourism &amp; Hospitality, Telecom, Security, Retail, Plumbing, Logistics, IT/ITES, Electronics, Domestic Worker, Construction, Capital Goods, BFSI, Beauty &amp; Wellness, Automotive, Apparel, and Agriculture, Food Processing, Healthcare, Iron &amp; Steel, Mining",
+  "eligibilityMd": "1. The applicant must be a resident of Jharkhand.\n1. The applicant&#39;s age should be 18-35 years.\n1. The applicant must belong to one of the priority groups (SC/ST, women, PwD, transgender).",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "> ***Candidate registration by TSP:***\n\n\n- The candidate visits the nearest [Training Service Provide Center](https://jsdm.jharkhand.gov.in/jsdm/cms/en/) for registration under the umbrella scheme &quot;Mukhymantri Sarthi Yojna&quot;. \n**NOTE:** Candidate registration would be Aadhaar-based &amp; hence Aadhaar number at the time of candidate registration would be mandatory.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jsdm.jharkhand.gov.in/jsdm/cms/en/mega/"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://jsdm.jharkhand.gov.in/jsdm/cms/en/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

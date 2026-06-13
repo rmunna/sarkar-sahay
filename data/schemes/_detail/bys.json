@@ -1,0 +1,31 @@
+{
+  "slug": "bys",
+  "name": "Bhagyalaxmi Scheme",
+  "shortTitle": "BYS",
+  "level": "state",
+  "state": "Karnataka",
+  "nodalDept": "Woman and Child Development Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The prime goal of this scheme aims to promote the birth of girl children in below poverty line(BPL) families and to raise the status of the girl child in the family in particular and society in general. Financial assistance is provided to the girl child through her mother/father or natural guardian.",
+  "descriptionMd": "**Detail**\nThe Karnataka state government will give female children financial aid under the Karnataka Bhagya Lakshmi Scheme. The payment of this support is to be made through the mother, father, or legal guardian provided that all requirements are met. \n<br>\n\n**The objective of this scheme**\n\n- To promote the birth of girl children among families identified as below the poverty line.\n- To increase the status of girl child thereby raising the status of the society.\n- To Promote the birth of girl child in economically weaker families and to raise their status within the family and society.\n- To provide Financial assistance to the girl child through her mother/father/natural guardian subject to the fulfilment of certain conditions\n\n<br>\n\n<br>\n\n<br>\n\n<br>",
+  "benefitsMd": "",
+  "eligibilityMd": "**Eligibility**\n\n1. A girl’s birth must be registered within a year after her birth date.\n1. Girls shouldn’t engage in child labour.\n1. Benefits from the Bhagyalakshmi scheme are available to BPL families with up to 2 female children.\n1. Girls should have been immunized correctly in the health department’s program.\n1. Girl children must be born after 31 March 2006 in a BPL family.\n1. A girl must have completed the eighth grade to be eligible for the maturity amount\n1. She cannot have been married off before turning 18 years old.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://kmea.karnataka.gov.in/storage/pdf-files/Reports%20and%20other%20docs/ToR%20Bhagyalakshmi.pdf"
+    },
+    {
+      "title": "Official Site",
+      "url": "http://blakshmi.kar.nic.in:8080/First.jsp"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

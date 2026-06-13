@@ -136,6 +136,25 @@ function getIFSCBranches(bankSlug: string): IFSCBranchRecord[] {
   return JSON.parse(fs.readFileSync(f, "utf8")) as IFSCBranchRecord[];
 }
 
+// Scheme pages are indexable only once they carry rich myScheme detail
+// (benefits + eligibility). Mirrors isRichDetail() in src/lib/schemes-data.ts.
+function getRichSchemeSlugs(): string[] {
+  const dir = path.join(__dirname, "..", "data", "schemes", "_detail");
+  if (!fs.existsSync(dir)) return [];
+  const out: string[] = [];
+  for (const f of fs.readdirSync(dir)) {
+    if (!f.endsWith(".json")) continue;
+    try {
+      const d = JSON.parse(fs.readFileSync(path.join(dir, f), "utf-8"));
+      const elig = (d.eligibilityMd || "").length;
+      const ben = (d.benefitsMd || "").length;
+      const desc = (d.descriptionMd || d.briefDescription || "").length;
+      if (elig >= 80 && (ben >= 20 || desc >= 200)) out.push(f.replace(/\.json$/, ""));
+    } catch { /* skip */ }
+  }
+  return out;
+}
+
 function generateMainSitemap(): string {
   const guides = getGuides();
   const hindiGuides = getHindiGuides();
@@ -164,12 +183,17 @@ function generateMainSitemap(): string {
     { loc: `${BASE_URL}/hsn`, lastmod: today, changefreq: "monthly", priority: "0.8" },
     // RTO home
     { loc: `${BASE_URL}/rto`, lastmod: today, changefreq: "monthly", priority: "0.8" },
-    // Scheme eligibility engine + directory (the indexable hubs).
-    // Individual /scheme/[slug] pages are intentionally EXCLUDED + noindex,follow
-    // until they carry deeper content — they are thin (name + short description)
-    // and indexing 3.5k of them risks a scaled-content/thin-content penalty.
+    // Scheme eligibility engine + directory + rich per-scheme pages.
+    // Only schemes with ingested myScheme detail (benefits + eligibility) are
+    // included; thin ones stay noindex + out of the sitemap.
     { loc: `${BASE_URL}/eligibility`, lastmod: today, changefreq: "weekly", priority: "0.9" },
     { loc: `${BASE_URL}/schemes`, lastmod: today, changefreq: "weekly", priority: "0.9" },
+    ...getRichSchemeSlugs().map((slug) => ({
+      loc: `${BASE_URL}/scheme/${slug}`,
+      lastmod: today,
+      changefreq: "monthly" as const,
+      priority: "0.6",
+    })),
     // Court home + special pages
     { loc: `${BASE_URL}/court`, lastmod: today, changefreq: "monthly", priority: "0.8" },
     { loc: `${BASE_URL}/court/supreme-court`, lastmod: today, changefreq: "monthly", priority: "0.8" },

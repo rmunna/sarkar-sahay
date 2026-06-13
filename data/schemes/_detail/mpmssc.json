@@ -1,0 +1,27 @@
+{
+  "slug": "mpmssc",
+  "name": "Post Matric Scholarship for Students belonging to Scheduled Caste Community",
+  "shortTitle": "PMSBTSC",
+  "level": "state",
+  "state": "Mizoram",
+  "nodalDept": "Mizoram Scholarship Board",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"Post Matric Scholarship for Students belonging to Scheduled Caste Community\" was launched by the Mizoram Scholarship Board, Government of Mizoram. The objective of the scheme is to provide financial assistance to students belonging to Scheduled Castes pursuing post-matriculation.",
+  "descriptionMd": "The scheme &quot;Post Matric Scholarship for Students belonging to Scheduled Caste Community&quot; was launched by the Mizoram Scholarship Board, Government of Mizoram. The objective of the scheme is to provide financial assistance to students belonging to Scheduled Castes pursuing post-matriculation recognized courses in recognized institutions. The scheme covers professional, technical as well as non-professional and non-technical courses at various levels and the scheme also includes correspondence courses including distance and continuing education.\n<br>",
+  "benefitsMd": "Financial assistance is provided to the students.\n_*The scheme is funded by the Ministry of Tribal Affairs and the Government of Mizoram in 90:10 ratio._\n<br>",
+  "eligibilityMd": "- The applicant must be permanently settled in Mizoram.\n- The applicant must belong to Scheduled Caste.\n- The income of the parents/guardians of the applicant (from all sources) should not exceed ₹2,50,000/- per annum.\n- The applicant&#39;s ongoing educational qualification must be between 11th Standard and Post-Doctoral Fellowship.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "- Normally application is open during July- September through offline where application form is available in Mizoram Scholarship Board during Office working hours.  \n\n\n- Application Form duly filled-in along with documents mentioned above must be submitted to the following address -  \n\n***Mizoram Scholarship Board, Kaisara Rd, Aizawl, Mizoram 796001***\n<br>",
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://msb.mizoram.gov.in/uploads/attachments/c9e3156b7d4eeebf17e0d8ad7db5d9bc/scholarship-scheme-to-be-upload-converted.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

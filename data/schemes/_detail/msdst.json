@@ -1,0 +1,31 @@
+{
+  "slug": "msdst",
+  "name": "Mobility Scheme",
+  "shortTitle": "MSDST",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Science & Technology",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The Mobility Scheme is aimed to provide an opportunity to women scientists who are facing difficulties in their present job due to relocation (marriage, transfer of husband to any other location within the country, attending ailing parents, and accompanying children studying in different city).",
+  "descriptionMd": "The “Mobility Scheme” was launched under Knowledge Involvement in Research Advancement through Nurturing (KIRAN) Programme by the Department of Science &amp;amp; Technology, Government of India, aims to address relocation issue of women scientists working in regular position in Government Organizations. The scheme aims to provide an opportunity to women scientists who are facing difficulties in their present job due to relocation (marriage, transfer of husband to any other location within the country, attending ailing parents, and accompanying children studying in different city) and will act as filler while searching other career option at new place.\nThe initiative intends to provide a harmonious environment during early phases of women scientists where they would like to stay active in research in addition to attending and fulfilling other responsibilities in the domestic front. It offers a contractual research award to women scientists and enables them for independent research.",
+  "benefitsMd": "- **Monthly Salary:** Consolidated monthly salary is provided to awardees for the entire project duration.  - **Manpower Support:** Need-based manpower support is provided to assist in project implementation.  - **Research Grant:** ₹5,00,000/- per annum is provided for consumables, contingencies, travel, and minor equipment.  - ***Duration:*** Total tenure will be a maximum of five (5) years for this award. This award will not be available for renewal after completion of 5 years duration.\n<br>",
+  "eligibilityMd": "- Woman scientists/academicians working at permanent position in any Government Institution/R&amp;amp;D Lab/University and willing to resign from their permanent position or take a long leave to avail the fellowship and after completion of the tenure return back to the parent organization.\n  - The new place should be located beyond 500 Km from present city.\n  - Upper age limit is 50 years to apply.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The applicant needs to prepare a full-fledged research proposal in the area of her expertise.\n**Step 2:** Five copies of application form including general information and research proposal is to be submitted in prescribed format available at [https://dst.gov.in](https://dst.gov.in/).\n**Step3:** Five (5) copies of application should be sent to Department of Science and Technology, Technology Bhawan, New Mehrauli Road, New Delhi-110016 by speed post.\n&gt; **Note:** The envelope may be superscribed with &amp;quot;Mobility Scheme”.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dst.gov.in/sites/default/files/ADVERTISEMENT-Mobility.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://www.indiascienceandtechnology.gov.in/programme-schemes/women-schemes/mobility-scheme"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "paloadbocw",
+  "name": "Providing Artificial Limbs and Other Appliances to Disabled BOC Workers",
+  "shortTitle": "PALOADBOCW",
+  "level": "state",
+  "state": "Andhra Pradesh",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The Andhra Pradesh Building & Other Construction Workers Welfare Board has launched a scheme to provide artificial limbs & other appliances to registered disabled construction workers. The scheme also covers the replacement of limbs every three years based on the workers' needs.",
+  "descriptionMd": "The &quot;Providing Artificial Limbs and Other Appliances to Disabled BOC Workers&quot; scheme was launched by the Andhra Pradesh Building &amp; Other Construction Workers Welfare Board. The scheme aims to provide artificial limbs &amp; other appliances to registered disabled construction workers to improve their quality of life by offering essential prosthetic support in collaboration with the Artificial Limbs Manufacturing Corporation of India. The scheme also covers the replacement of limbs every three years based on the workers&#39; needs.",
+  "benefitsMd": "- **Free distribution of artificial limbs and other fabricated appliances.** \n- **Replacement of limbs every three years based on the workers&#39; needs.**",
+  "eligibilityMd": "1. The worker should be registered under the Andhra Pradesh Building &amp; Other Construction Workers Welfare Board.\n1. The worker should be a disabled person.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step-1:** The interested applicant should visit (during office hours) the A.P. Building &amp; Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step-2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step-3:** Submit the duly filled and signed application form along with the documents to the Assistant Labour Officer/Assistant Commissioner of Labour.\n**Step-4:** Request a receipt or acknowledgement from the Assistant Labour Officer/Assistant Commissioner of Labour to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://apbocwwb.ap.nic.in/APBOCWW3/G.o_15.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://apbocwwb.ap.nic.in/apbocwwbhome.jsp"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

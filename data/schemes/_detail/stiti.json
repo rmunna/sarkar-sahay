@@ -1,0 +1,27 @@
+{
+  "slug": "stiti",
+  "name": "Stipends To Trainees In Industrial Training Institute",
+  "shortTitle": "STITI",
+  "level": "state",
+  "state": "Maharashtra",
+  "nodalDept": "Social Justice and Special Assistance Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme “Stipends to Trainees in Industrial Training Institute” was launched by the Department of Social Justice and Special Assistance, Government of Maharashtra for Scheduled Caste students in Industrial Training Institute.",
+  "descriptionMd": "The scheme “Stipends to Trainees in Industrial Training Institute” was launched by the Department of Social Justice and Special Assistance, Government of Maharashtra for Scheduled Caste students in Industrial Training Institute (ITI).\n               The objective of the scheme is to provide Technical Training to Scheduled Caste students in ITI for their job opportunities. Under the scheme, the students of the SC category residing in the hostel of the organization Department of Technical Education gives ₹60/- per month and the Social Welfare department gives them ₹ 40/- per month.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant must be a permanent resident of Maharashtra.\n1. The student should belong to Scheduled Caste (SC) category.\n1. It is mandatory for the student should take training in a recognized Industrial Training Institute.\n1. The annual income of the applicant’s father should not be more than ₹ 65290/-.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training?&Submit=Submit&page=2"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

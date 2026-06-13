@@ -1,0 +1,31 @@
+{
+  "slug": "rmas",
+  "name": "Raw Material Assistance Scheme",
+  "shortTitle": "RMAS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Micro, Small and Medium Enterprises",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Industries"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Raw Material Assistance Scheme aims to help MSMEs by way of financing the purchase of Raw Material (Both indigenous & imported). This gives an opportunity to MSMEs to focus better on manufacturing quality products.",
+  "descriptionMd": "The scheme “Raw Material Assistance Scheme” was started by the National Small Industries Corporation (NSIC), Government of India Enterprise under the Ministry of Micro, Small and Medium Enterprises (MSME) to assist the Micro, Small and Medium Enterprises (MSMEs) in procuring the raw material(s). The Scheme aims to help MSMEs by way of financing the purchase of Raw Materials (Both indigenous &amp;amp; imported). This allows MSMEs to focus better on manufacturing quality products.",
+  "benefitsMd": "1. Facilitating procurement of Raw Materials with credit support for up to 180 days.\n2. MSMEs helped to avail Economics of Purchases like bulk purchases, cash discounts, etc.\n3. Assistance against the security of Bank Guarantee-Rate of interest in respect of assistance availed on or after 01.02.2023:\n**Particulars****Effective Rate of Interest(% per Annum)****Effective Rate of Interest(% per Annum)****Normal Interest (Compounded on monthly rest) Upto 180 Days****Micro****Small &amp;amp;amp;amp; Medium**(i) Units having valid SME 1 rating*****8.759.25(ii) Units having valid SME 2 rating*****9.259.75(iii) Other units9.7510.25***Note:** The concessional rate of interest for the good-rated MSMEs, as mentioned at Sl. No. (i) and (ii) in the table above shall be applicable only to those cases, where the units make timely repayments of the Corporation’s dues. The units which have not re-paid its dues within the stipulated 180 days, shall not be eligible for the concessional rate of interest. Such units shall be charged the rate of interest mentioned at Sl. No. (iii) above.\n4. Additional rate of interest on delayed payment (beyond 180 days), over and above the normal rate of interest, would be as under:\nIn case any outstanding is more than 180 days1.25% per quarter> ***Processing Fee:***\n\n**Processing Fee****Micro****Small &amp;amp;amp;amp; Medium**On new sanctions1.0% per annum1.0% per annumOn Renewal0.5% per annum1.0% per annumNote: Security in the form of Bank Guarantee from Approved Banks.\n<br>",
+  "eligibilityMd": "1. Any Manufacturing/Service MSME having a Udyam Registration Certificate can apply for assistance under the Scheme. \n\n**Note:** No trading activity is allowed under the scheme.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "&gt; **Application Process:**\n\n**Step 01:** The Entrepreneurs are required to apply for Raw Material Assistance only on the prescribed application forms.\n**Step 02:** The applicants may download the [application forms](https://www.nsic.co.in/pdfs/forms/RMA-APP-14072023.PDF) from the official website of [NSIC](https://www.nsic.co.in/Schemes/RawMaterialAgainstBG). Also, the blank forms are available free of charge from the Branch offices.\n**Step 03:** The duly filled application form along with the Application is to be submitted to the nearest Branch Office. \n&gt; **Post-Application Process:**\n\n**Step 01:** Preliminary appraisal and Unit inspection is carried out by NSIC.\n**Step 02:** Sanction of Limit to the Unit.\n**Step 03:** Signing of agreement between NSIC and Unit.\n**Step 04:** Disbursement of assistance to the unit.\n<br>",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://www.nsic.co.in/Schemes/RawMaterialAgainstBG"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://www.nsic.co.in/pdfs/forms/RMA-APP-14072023.PDF"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "smts-glwb",
+  "name": "Shramyogi Home Town Scheme- Gujarat Labour Welfare Board",
+  "shortTitle": "SMTS-GLWB",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Labour and Employment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The objective of the scheme is to facilitate the payment of railway fares for migrant labourers employed in the organized sector in Gujarat, enabling them to travel to or from their home country to the nearest railway station.",
+  "descriptionMd": "The “Shramyogi Home Town Scheme” is implemented by the Gujarat Labour Welfare Board, Labour, Skill Development &amp;amp; Employment Department, Government of Gujarat. The objective of the scheme is to facilitate the payment of railway fares for migrant labourers employed in the organized sector in Gujarat, enabling them to travel to or from their home country to the nearest railway station.\n         Considering the stagnant pace of industrial development in the state of Gujarat, some labourers come from other regions for livelihood. Most of these Shramyogis live away from their families. Due to social or accidental reasons, the economic burden of going to and from the labourers to their native place cannot be compensated by short salary. Hence, the plan for a labourer to visit his hometown once in two years.",
+  "benefitsMd": "1. Under the scheme, migrant laborers employed in the organized sector can avail of payment for railway fare to travel to or from their home country, to the nearest railway station.\n\n**Note:** The assistance amount will be credited to the beneficiary&amp;#39;s bank account through DBT.",
+  "eligibilityMd": "1. The worker/labour should have been working continuously with the company in Gujarat for one year and his/her labour welfare fund should have been deposited in the board to avail the benefits under the scheme.\n   1. The benefit of this scheme will be provided once within a block of two years. Currently, the block years are set as 2022-23 and 2023-24.\n   1. If both the husband/wife are employed, only one of the beneficiaries will get the benefit of this scheme.\n   1. A Shram Yogi shall travel only after obtaining prior approval by applying prior to travel.\n   1. Within one month of the completion of the tour, necessary proofs along with in-principle approval have to be submitted by the worker/labour.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Application Process for Scheme Benefit:**\n\n**Step 01:** The applicant may visit the Sanman Portal: [https://sanman.gujarat.gov.in/](https://sanman.gujarat.gov.in/)\n**Step 02:** On the home page, under the tab ‘Citizen Login’, click on ‘[Please Register Here](https://sanman.gujarat.gov.in/Home/Registration)’.\n**Step 03:** Enter your Aadhaar Card Number, select user type, and then enter your Labour Welfare Fund Account Number.\n**Step 04:** Now, click on ‘Fetch’ &amp;amp; verify the details.\n**Step 05:** Enter user details and Password.\n**Step 06:** After successful registration, the applicants can login through their User ID and Password.\n**Step 07:** Now, select the scheme and read the instructions carefully for the selected scheme.\n**Step 08:** Fill out the application form and upload all the relevant documents.\n**Step 09:** Agree with the Rules &amp;amp; Regulations and submit the application form. A confirmation email with the application Number will be sent on the registered email ID.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://glwb.gujarat.gov.in/home-town-scheme.htm"
+    },
+    {
+      "title": "Sanman Portal",
+      "url": "https://sanman.gujarat.gov.in/Home/GLWBScheme#"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

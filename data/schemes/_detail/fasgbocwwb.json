@@ -1,0 +1,35 @@
+{
+  "slug": "fasgbocwwb",
+  "name": "Funeral Assistance Scheme (GBOCWWB)",
+  "shortTitle": "FAS(GBOCWWB)",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Labour and Employment Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The objective of this scheme is to provide financial assistance to the heir of a deceased construction worker registered with the Gujarat Building and Other Construction Worker’s Welfare Board in case of death during the ongoing membership.",
+  "descriptionMd": "The “Funeral Assistance Scheme” is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB), Labour, Skill Development &amp;amp; Employment Department, Government of Gujarat. The main objective of this scheme is to provide financial assistance to the heir of a deceased construction worker registered with the Gujarat Building and Other Construction Worker’s Welfare Board in case of death during the ongoing membership.",
+  "benefitsMd": "1. Under the scheme, financial assistance of ₹10,000/- shall be given to the legal heirs of the deceased construction workers.",
+  "eligibilityMd": "1. The applicant should be a legal heir of the deceased worker.\n   1. The deceased worker should have been engaged in any building or other construction work.\n   1. The deceased worker should have been registered with the Gujarat Building and Other Construction Worker’s Welfare Board.\n   1. Financial assistance is provided to the legal heir of the deceased worker in the event of their death during the ongoing membership.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 01:** The applicant may visit the Sanman Portal: [https://sanman.gujarat.gov.in/](https://sanman.gujarat.gov.in/)\n**Step 02:** On the home page, under the tab ‘Citizen Login’, click on ‘[Please Register Here](https://sanman.gujarat.gov.in/Home/Registration)’.\n**Step 03:** Enter the Aadhaar Card Number of Shram Yogi and select the user type.\n**Step 04:** Now, fill in the heir’s details &amp;amp; click on ‘Create’.\n**Step 05:** After successful registration, the applicants can login through their User ID and Password.\n**Step 06:** Now, select the scheme and read the instructions carefully for the selected scheme.\n**Step 07:** Fill out the application form and upload all the relevant documents.\n**Step 08:** Agree with the Rules &amp;amp; Regulations and submit the application form. A confirmation email with the application Number will be sent to the registered email ID.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://sanman.gujarat.gov.in/Home/BOCWScheme#"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://bocwwb.gujarat.gov.in/Portal/Document/10_406_1_Funeral_Assistance_Scheme_27102023.pdf"
+    },
+    {
+      "title": "Sanman Portal",
+      "url": "https://sanman.gujarat.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

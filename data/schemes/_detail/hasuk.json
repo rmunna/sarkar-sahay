@@ -1,0 +1,27 @@
+{
+  "slug": "hasuk",
+  "name": "Housing Assistance Grant",
+  "shortTitle": "HASUK",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "State Sainik Board",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme provides financial support to widows/dependents of soldiers martyred in wars and border clashes, as well as to war-disabled retired soldiers. Under this scheme, eligible beneficiaries receive a one-time grant of ₹2 lakhs for the construction or repair of a house during their lifetime.",
+  "descriptionMd": "The &amp;quot;Housing Assistance Grant&amp;quot; scheme is implemented by the State Sainik Board under the Sainik Welfare Department, Government of Uttarakhand. The scheme provides financial support to widows/dependents of soldiers martyred in wars and border clashes, as well as to war-disabled retired soldiers. Under this scheme, eligible beneficiaries receive a one-time grant for the construction or repair of a house during their lifetime.\n<br>",
+  "benefitsMd": "- A one-time grant of ₹2,00,000/- for the construction/ repair of the house.",
+  "eligibilityMd": "1. The applicant must be a resident of Uttarakhand.\n2. The applicant must be either:\n\n- A widow or dependent of a soldier martyred in a war or border clash, or\n- A war-disabled retired soldier.\n\n3. The grant is provided only once in a lifetime for the purpose of building construction or repair.\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "- The application form can be obtained from the District Sainik Welfare Office and must be submitted to the concerned office.\n  - The following documents are required to be attached with the application: Attested copy of the Battle Casualty Report of the Martyr Soldier/War-Disabled Retired Soldier, Attested copy of the Part-II Order of Battle Casualty, Certificate of Dependents, Estimation of Building Construction/Repair Work issued by the Junior/Assistant Engineer, Certificate from the District Sainik Welfare Officer confirming that no Residential Assistance has been availed by the applicant from the State Government in the past.\n  - After verification at the District Sainik Welfare Office level, eligible applicants are provided the sanctioned amount through Direct Benefit Transfer (DBT).\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 29)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

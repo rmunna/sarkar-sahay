@@ -1,0 +1,31 @@
+{
+  "slug": "maapbandocwwb",
+  "name": "Medical Assistance (APB&OCWWB)",
+  "shortTitle": "MAAPB&OCWWB",
+  "level": "state",
+  "state": "Arunachal Pradesh",
+  "nodalDept": "Labour and Employment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme “Medical Assistance” was started by the Department of Labour and Employment, Govt. of Arunachal Pradesh for the registered workers of Arunachal Pradesh Building & Other Construction Workers Welfare Board (APB&OCWWB).",
+  "descriptionMd": "The scheme “Medical Assistance” was started by the Department of Labour and Employment, Govt. of Arunachal Pradesh for registered workers of the Arunachal Pradesh Building &amp;amp; Other Construction Workers Welfare Board (APB&amp;amp;OCWWB). The state government has proposed and implemented this scheme through the APB&amp;amp;OCWWB for providing medical assistance to registered workers who are hospitalized for five or more than five days due to accident or disease.",
+  "benefitsMd": "",
+  "eligibilityMd": "1.\tThe applicant should be a permanent resident of Arunachal Pradesh.\n2.\tThe applicant must be employed in the Building and Other Construction works.\n3.\tThe applicant should be registered with Labour Welfare Board (APB&amp;OCWWB).\n4.\tThe applicant’s membership must be active at the time of application.\n5.\tThe applicant must have a disease or had an accident for which he/she should be hospitalised or put in plaster at his/her residence.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://tawang.nic.in/labour-welfare-board/"
+    },
+    {
+      "title": "Guideline",
+      "url": "https://ahvdd.arunachal.gov.in/pdf/eBook/Government%20Scheme%20Handbook.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

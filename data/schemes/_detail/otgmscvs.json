@@ -1,0 +1,27 @@
+{
+  "slug": "otgmscvs",
+  "name": "One-Time Grant Money to Soldiers Conferred with Vishisht Seva Medal Award",
+  "shortTitle": "OTGMSCVSMA",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "State Sainik Board",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, a one-time financial assistance/grant ranging from a minimum of ₹75,000/- to a maximum of ₹2,00,000/- is provided to serving soldiers and ex-servicemen of the state who have been conferred with the ‘Vishisht Seva Medal Award’.",
+  "descriptionMd": "The scheme “One-Time Grant to Soldiers Conferred with the Vishisht Seva Medal Award” is implemented by the State Sainik Board under the Sainik Welfare Department, Government of Uttarakhand. Under this scheme, a one-time financial assistance/grant is provided to serving soldiers and ex-servicemen of the state who have been conferred with the &amp;#39;Vishisht Seva Medal Award&amp;#39;.\n<br>",
+  "benefitsMd": "- A one-time grant ranging from a minimum of ₹75,000/- to a maximum of ₹2,00,000/- is given to serving soldiers and ex-servicemen of the state.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Uttarakhand.\n   1. The applicant must be a serving soldier or an ex-serviceman of the state who has been conferred with the &amp;#39;Vishisht Seva Medal Award&amp;#39;.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "- After obtaining the application form from the District Sainik Welfare Office, it must be submitted to the concerned office.\n  - The following documents are required for the application: Aadhaar Card of the applicant, PAN Card, Photocopy of bank passbook and cancelled cheque, Identity card of the dependent (if the applicant is a dependent), Domicile certificate of Uttarakhand, Affidavit (on ₹10/- stamp paper) declaring that the applicant has not received, and will not receive in the future, the one-time grant/annuity payable on the gallantry medal from any other state, Photocopy of discharge book (if the applicant is an ex-serviceman), a photocopy of the Gazette Notification regarding conferment of &amp;#39;Vishisht Seva Medal Award&amp;#39;\n  - After verification of the applications at the District Sainik Welfare Office level, eligible applicants are paid the approved amount through Direct Benefit Transfer (DBT). Under this, the one-time grant is disbursed immediately, while the annuity amount is released annually.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 28)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

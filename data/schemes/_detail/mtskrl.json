@@ -1,0 +1,31 @@
+{
+  "slug": "mtskrl",
+  "name": "Mother Teresa Scholarship",
+  "shortTitle": "MTSKRL",
+  "level": "state",
+  "state": "Kerala",
+  "nodalDept": "Directorate of Minority Welfare",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to support the higher education of students belonging to minority communities. Through this scheme, an amount per annum is provided to students from minority religious communities domiciled in Kerala who are pursuing a diploma in nursing and paramedical courses from government.",
+  "descriptionMd": "The scheme &quot;Mother Teresa Scholarship (MTS)&quot; by the Department of Minority Welfare, Government of Kerala, aims to support the higher education of students belonging to minority communities. Through this scheme, an amount per annum is provided to students from minority religious communities domiciled in Kerala who are pursuing a diploma in nursing and paramedical courses from government, government-aided, and government-recognised private institutions. The scheme is implemented by the Directorate of Minority Welfare, Kerala.\n<br>",
+  "benefitsMd": "- The selected candidates will receive a scholarship of ₹15,000/- per annum.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be domiciled in Kerala.\n1. The applicant must belong to the Muslim, Christian, Sikh, Buddhist, Parsi, or Jain communities.\n1. The applicant must have received seats in nursing or paramedical courses on a merit basis (including in Government, Aided colleges and merit quota in Self-financing colleges).\n1. The applicant must have secured 45% marks or more in the qualifying examination.\n1. The applicant must have an annual family income less than ₹8,00,000/- from all sources if belonging to the Above Poverty Line (APL) category.\n1. For students belonging to the Below Poverty Line (BPL) category, there is no income criteria.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the [official website](https://www.minoritywelfare.kerala.gov.in) of the Directorate of Minority Welfare.\n**Step 2:** Locate and click on the &quot;Scholarship&quot;.\n**Step 3:** Navigate to the &quot;Scholarship&quot; menu link and click on &quot;Mother Teresa Scholarship (MTS)&quot;.\n**Step 4:** Click on &quot;Apply Online&quot;.\n**Step 5:** For new scholarship applicants, first complete one-time registration and log in with your candidate details.\n**Step 6:** In the Registration Form, carefully enter the details step-by-step under Examination details (register number/roll number), Personal details, and Scholarship details tabs.\n**Step 7:** In the Upload details tab, upload the required documents (Photo, Signature, SSLC Certificate, Income Certificate, Ration Card Copy, Allotment Memo) in JPEG format under 100 KB size each.\n**Step 8:** Only after uploading all required documents, the registration process will be considered complete.\n**Step 9:** After completing the application submission, use the View/Print Application link to take a printout of the application form.\n<br>\n\n> **Submission of Application Printout**\n\n\n\n  - After submitting the scholarship application (either through new registration or login), click on &quot;View/Print Application&quot; to get a printout of your registration form.\n  - Submit the printout of the registration form along with all the required supporting documents to the head of the institution where you are studying, within the specified deadline.\n\n\n<br>",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://scholarship.minoritywelfare.kerala.gov.in/dmw_ma/dmw_ind.php"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://cag.gov.in/uploads/download_audit_report/2022/Chapter-VI---Pre-and-Post-Matric-Scholarship-schemes-for-Minority-Students-0668f9da698eeb5.96162872.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

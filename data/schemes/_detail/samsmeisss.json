@@ -1,0 +1,36 @@
+{
+  "slug": "samsmeisss",
+  "name": "Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance for Interest Subsidy (Service Sector)",
+  "shortTitle": "SAMSMEISSS",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Industries and Mines Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity",
+    "Industries"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Scheme for Assistance to Micro, Small and Medium Enterprises (MSME)\" launched by the Industries and Mines Department aims to position Gujarat as a global business hub, promoting sustainable manufacturing, MSME growth, and export competitiveness.",
+  "descriptionMd": "The &amp;quot;Scheme for Assistance to Micro, Small and Medium Enterprises (MSME)&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat. It aims to empower the state&amp;#39;s dynamic MSME sector, which significantly contributes to employment, GDP, and exports. Effective from August 7th, 2020 to August 6th, 2025, this initiative supports entrepreneurs and strengthens MSMEs, making them globally competitive.\nThe component &amp;quot;Assistance for Interest Subsidy (Service Sector)&amp;quot; provides interest subsidies on term loans for new MSMEs in the service sector. The subsidy applies to new machinery, equipment, and furniture/fixtures (excluding land and buildings).",
+  "benefitsMd": "**Financial Assistance:**\n**Category of Taluka** **Quantum of Incentive** Category I8% on Term Loan with a maximum amount of ₹35,00,000/- per annum for a period of 7 yearsCategory II7% on Term Loan with a maximum amount of ₹30,00,000/- per annum for a period of 6 years Category III &amp;amp;amp;amp; Municipal Corporation Areas6% on Term Loan with a maximum amount of ₹25,00,000/- per annum for a period of 5 years<br>\n\n**Additional Subsidy:** 1% extra interest subsidy for registered startups in the service sector with Udyam/MSME Registration.\n<br>",
+  "eligibilityMd": "1. The firm must be a new Micro/Small/Medium enterprise.\n   1. The enterprise must be in the service sector (listed in [Annexure A &amp;amp; B](https://ic.gujarat.gov.in/documents/commondoc/2020/3-GR_02092020.pdf)) are eligible.   1. The term loan must be sanctioned by a recognized Bank/Financial Institution.\n   1. The enterprise must apply within one year of loan disbursement or before the commercial production starts.\n   1. The enterprise must remain operational for at least 7 years post-subsidy approval.\n   1. The enterprise must comply with pollution control measures.\n   1. Only one type of investment (Forward Integration, Backward Integration, Diversification, or Expansion) will be eligible for subsidy.",
+  "exclusionsMd": "- Loan sanctioned by Non-Banking Financial Institutes will not be eligible for incentives under this resolution.",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step-1:** Visit the [Investor Facilitation Portal (IFP)](https://ifp.gujarat.gov.in/DIGIGOV/) portal. Click on &quot;New Investor Registration&quot; to access the registration form.\n**Step-2:** Fill in the Registration Form. Click on &quot;Submit&quot;. \n**Step-3:** Verify the E-mail ID using the link sent on your registered E-mail ID.\n**Step-4:** After verification, you will be registered successfully.\n<br>\n\n> **Post-Registration Process:**\n\n**Step-1:** Visit the [Investor Facilitation Portal (IFP)](https://ifp.gujarat.gov.in/DIGIGOV/) portal. Click on &quot;Login&quot;.\n**Step-2:** Enter the email address and password you used during registration.\n**Step-3:** Click the &quot;Login&quot; button to access your account.\n**Step-4:** Now fill in the required details and mandatory documents about your business to complete the application process.\n<br>\n\n> **Helpdesk:** [**Contact Here.**](https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/contact.jsp?pagedisp=static)",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/3-GR_02092020.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://ifp.gujarat.gov.in/IC/digigov.htm?actionFlag=loadCitizenRegPage"
+    },
+    {
+      "title": "Category Of Taluka",
+      "url": "https://indextb.com/files/2020/11/a34fc914-6cdd-4fd6-8773-502017da4334_taluka%20category.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

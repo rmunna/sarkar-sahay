@@ -1,0 +1,35 @@
+{
+  "slug": "sdbppd",
+  "name": "Subsidy for Developing Business Premises for Persons with Disabilities",
+  "shortTitle": "SDBPPD",
+  "level": "state",
+  "state": "Haryana",
+  "nodalDept": "Welfare of Scheduled Caste & Backward Classes Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme is implemented by the Haryana Backward Classes & Economically Weaker Sections Kalyan Nigam. Under this scheme, loans up to ₹3 lakh are provided to persons with disabilities to develop business premises on their own land & start self-employment activities.",
+  "descriptionMd": "The scheme &amp;quot;Subsidy for Developing Business Premises for Persons with Disabilities&amp;quot; is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loans up to ₹3 lakh are provided to persons with disabilities to develop business premises on their own land and start self-employment activities. Permanent residents of Haryana, aged 18 or older, with a disability of 40% or more, is eligible to avail the benefits under this scheme.",
+  "benefitsMd": "1. Under this scheme, loans up to ₹3 lakh are provided to persons with disabilities to develop business premises on their own land and start self-employment activities.",
+  "eligibilityMd": "1. The applicant should be a permanent resident of Haryana.\n   1. The applicant should have a disability of at least 40%.\n   1. The applicant should be over 18 years old. For persons with mental retardation, the age requirement is relaxed to 14 years instead of the usual 18 years.\n   1. The land on which commercial/business complexes are proposed to be constructed should be the applicant&amp;#39;s own or it should be on long term lease for more than 20 years from a government agency. The lease period should be 20 years on the date of application to N.H.F.D.C.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 01:** The eligible applicant may apply online through the Official Portal- Antyodaya-SARAL Portal. [https://saralharyana.gov.in/](https://saralharyana.gov.in/)\n**Step 02:** If the applicant is not registered on the portal, he/she gets registered there. \n**Step 03:** For registration, click “[New User](https://saralharyana.gov.in/citizenRegistration.html)” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password &amp;amp; State. Click on ‘Submit’.\n**Step 04:** Verify your mobile number and email ID through the received OTP and complete the registration process.\n&gt; **Login to apply for the scheme:**\n\n**Step 01:** To avail the benefits of the scheme, visit the Official [Antyodaya-SARAL Portal](https://saralharyana.gov.in/) and log in through the email ID used while registering.\n**Step 02:** Enter Password &amp;amp; Captcha and click on ‘Login’.\n**Step 03:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’\n**Step 04:** Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form.\n**Step 05:** Fill in all the mandatory details and upload all the mandatory documents.\n**Step 06:** Preview the application form and click on ‘Submit’.\n&gt; **Tracking of Application:**\n\nApplicants can track their applications through the Official [Antyodaya-SARAL Portal](https://status.saralharyana.nic.in/) by entering their Department Name, Scheme Name, and Application Reference ID.",
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=nmqRNwqeauefAyb2MWMQEA%3d%3d"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://www.haryanascbc.gov.in/contribution-towards-share-capital-to-haryana-backward-classes-and-economically-weaker-sections"
+    },
+    {
+      "title": "Antyodaya-SARAL Portal",
+      "url": "https://saralharyana.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

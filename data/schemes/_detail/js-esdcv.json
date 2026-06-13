@@ -1,0 +1,36 @@
+{
+  "slug": "js-esdcv",
+  "name": "Jeevanam Self-Employment Scheme To Dependents Of Crime Victims",
+  "shortTitle": "JS-ESDCV",
+  "level": "state",
+  "state": "Kerala",
+  "nodalDept": "Social Justice Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme “Jeevanam Self-Employment Scheme to Dependents of Crime Victims” was launched by the Department of Social Justice, Government of Kerala.",
+  "descriptionMd": "The scheme “Jeevanam Self-Employment Scheme to Dependents of Crime Victims” was launched by the Department of Social Justice, Government of Kerala. As part of strengthening the victim support services in the State, the Government of Kerala has started this scheme which provides financial aid to dependents as well as victims of crime. The assistance would benefit those who were struggling to make a living, including dependents of the victims of the crime and those with serious injuries. \n      When a crime is committed it can have significant, yet varying consequences, on the individual who became the victim of the crime and his family. The devastating impact of crime results in emotional, psychological, and physical as well as financial consequences. If the head of the family is killed or injured in a crime, the family is left without the main breadwinner. Killing or seriously injuring the earning member of the household as a result of the crime will deprive a family of their livelihood.",
+  "benefitsMd": "1. Under the scheme, financial assistance of ₹20,000/- will be provided as one-time assistance to the eligible beneficiary.\n\n**Note:** The amount will be transferred to the respective applicant’s bank account.",
+  "eligibilityMd": "1. The applicant should be a native and resident of Kerala State.\n   1. The applicant must be either the person who has been seriously injured in a crime or must be a dependent - Wife/Husband/Unmarried son or daughter of the victim of the crime.\n   1. The annual income of the family should not exceed ₹1,00,000/-.\n   1. The applicant should have applied within 5 years of the crime.\n\n**Note:** The beneficiary selected for the grant–in–aid is required to execute an agreement with the Department of social justice on a stamp paper of ₹200/- to meet the above criteria.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Registration Process:**\n**Step 01:** To avail of the benefits of the scheme, the applicant needs to visit [SUNEETHI- Online Service Application Portal](https://suneethi.sjd.kerala.gov.in/)\n**Step 02:** On the home page, click on “One time Registration”\n**Step 03:** Fill in the details like Name, Email ID &amp;amp; Mobile Number and click on ‘Register’.\n**Step 04:** The applicant needs to enter the verification code received on the mobile number and click on ‘Verify’.\n**Step 05:** Now, a form will open to create the new profile, fill in all the mandatory details and click on ‘Register’.\n**Login/Application Process:** \n**Step 01:** Once the registration process is completed, the applicant should visit [SUNEETHI- Online Service Application Portal](https://suneethi.sjd.kerala.gov.in/) and click on “Citizen Login”.\n**Step 02:** Enter the user name i.e. Mobile Number and Password and click on “Sign in”.\n**Step 03:** Now, the applicant needs to update all their details i.e. Personal Information, Contact Details, Identity Cards &amp;amp; Bank Details by clicking on the &amp;#39;Edit&amp;#39; button.\n**Step 04:** Once the applicant updated their profile successfully, the schemes will appear on the left side of the screen.\n**Step 05:** Select the scheme and click on the “Apply Now” button.\n**Step 06:** Fill in all the mandatory details in the application form and click on the ‘Submit’ button.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "http://sjd.kerala.gov.in/scheme-info.php?scheme_id=MTcyc1Y4dXFSI3Z5"
+    },
+    {
+      "title": "Application Form",
+      "url": "http://sjd.kerala.gov.in/DOCUMENTS/Downloadables/Application%20Forms/31668.pdf"
+    },
+    {
+      "title": "Order/Notice",
+      "url": "http://sjd.kerala.gov.in/DOCUMENTS/Order_new/GOs/31669.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "ddmcs",
+  "name": "Dai Didi Mobile Clinic Scheme",
+  "shortTitle": "Ddmcs",
+  "level": "state",
+  "state": "Chhattisgarh",
+  "nodalDept": "Urban Administration & Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Government of Chhattisgarh state, started a scheme named \"Dai Didi Clinic Scheme\" in 2020.",
+  "descriptionMd": "Dai Didi Clinic Scheme is an important welfare scheme of the Government of Chhattisgarh. This scheme is to provide medical help to those women and girls living in rural areas who do not go to the doctor due to lack of time or many other reasons, but now midwives provide them treatment facilities, through female friends and medical staff near home. And she can get her treatment done through female staff without humid.",
+  "benefitsMd": "1. Free checkup.\n1. Free treatment.\n1. Free consultation.\n1. Free medicine distribution.",
+  "eligibilityMd": "1. The beneficiary should be a resident of Chhattisgarh.\n1. The beneficiary should be female.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "1. Beneficiaries do not need to apply anywhere for Chhattisgarh Dai Didi Clinic Scheme.\n1. Under this scheme the medical aid will reach at the doorstep of the beneficiaries themselves.\n1. Camps will be organized in the entire state of Chhattisgarh through mobile medical units.\n1. The vehicle of the Mobile Medical Unit along with women doctors and women nursing staff will render their services in the camp.\n1. Beneficiaries will have to go to the Mobile Medical Unit in their municipal corporation/village area.",
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://dprcg.gov.in/post/1679991671/Raipur-Mukhyamantri-Dai-Didi-Clinic-Yojana-benefits-over-1-50-lakh-women-and-girls"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

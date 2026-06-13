@@ -1,0 +1,27 @@
+{
+  "slug": "sds",
+  "name": "Sugar Distribution Scheme",
+  "shortTitle": "SDS",
+  "level": "state",
+  "state": "Jharkhand",
+  "nodalDept": "Food, Public Distribution and Consumer affairs Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The \"Sugar Distribution Scheme\" by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, aims to provide subsidized sugar to AAY households under NFSA, ensuring access to essential food commodities at affordable rates.",
+  "descriptionMd": "The &quot;Sugar Distribution Scheme&quot; by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, aims to provide sugar at subsidized rates to the households under the Antyodaya Anna Yojana (AAY) scheme of the National Food Security Act (NFSA), 2013. Under this scheme, beneficiaries are ensured access to essential commodities at affordable prices to enhance food security.",
+  "benefitsMd": "- **Subsidized Sugar Distribution:** Eligible households receive sugar at reduced prices to improve affordability and accessibility.- **Targeted Beneficiaries:** Focus on households under the Antyodaya Anna Yojana (AAY) for effective support to vulnerable sections.- **Disbursement:** Monthly distribution ensures consistent support to beneficiaries.",
+  "eligibilityMd": "1. The applicant must be a resident of Jharkhand.\n1. The applicant must belong to a household holding an Antyodaya Anna Yojana (AAY) ration card under the NFSA.\n1. The applicant should provide Aadhaar authentication or an Aadhaar number for identity verification.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- Visit the nearest ration shop or designated enrollment center with the required documents.\n- If Aadhaar is not available, apply for Aadhaar enrollment at an authorized center.\n- Submit the Aadhaar number or Aadhaar Enrolment Identification Slip during registration.\n- Verify the eligibility and documents with the designated officer.\n- Collect the sugar from the distribution center as per the monthly schedule.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/Home/ViewDoc?id=D009DO003SD00625102023010317649"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

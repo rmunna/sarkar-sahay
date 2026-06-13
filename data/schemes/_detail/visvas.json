@@ -1,0 +1,36 @@
+{
+  "slug": "visvas",
+  "name": "Vanchit Ikai Samooh aur Vargon ki Aarthik Sahayata Yojana (VISVAS) for Self-Help Groups",
+  "shortTitle": "VISVASSHG",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Social Justice & Empowerment",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Self Help Groups (SHGS)",
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide the benefit of a lower rate of interest to eligible Self-Help Groups (SHGs) and individual beneficiaries belonging to Scheduled Castes (SCs), Other Backward Classes (OBCs), and Safai Karamcharis (including identified Manual Scavengers, Waste Pickers, and their dependents).",
+  "descriptionMd": "The Vanchit Ikai Samooh aur Vargon ki Aarthik Sahayata (VISVAS) Yojana is an interest subvention scheme implemented by the Ministry of Social Justice and Empowerment, Government of India. The scheme aims to provide interest subvention to eligible Self-Help Groups (SHGs) belonging to Scheduled Castes (SCs), Other Backward Classes (OBCs), and Safai Karamcharis, including identified Manual Scavengers, Waste Pickers, and their dependents. The scheme covers loans obtained from Public Sector Banks (PSBs), Regional Rural Banks (RRBs), Private Sector Banks, Small Finance Banks, and other financial institutions. \n<br>",
+  "benefitsMd": "> **Interest Subvention**\n\n\n- Interest subvention of up to 5% per annum on eligible loans.\n\n> **Loan Limits**\n\n\n- Self-Help Groups (SHGs): Loans/Cash Credit Limits up to ₹10,00,000.\n\n> **Mode of Payment**\n\n\n- The interest subvention amount is transferred directly into the beneficiary&#39;s bank account through Direct Benefit Transfer (DBT).\n\n<br>\n\n<br>",
+  "eligibilityMd": "1. The SHG must have at least 70% members belonging to SCs, OBCs, or Safai Karamcharis (including identified Manual Scavengers, Waste Pickers, and their dependents).\n1. The SHG must have a standard loan account.\n1. The SHG must not have received interest subvention on the same loan under any other scheme.\n1. The annual family income of SC/OBC members should generally be up to ₹3,00,000/-.\n\n> **NOTE:** No income ceiling for Safai Karamcharis, including identified Manual Scavengers, Waste Pickers, and their dependents.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant downloads the application form [(Annexure 1)](https://www.nskfdc.nic.in/en/system/files/VISVAS%20Guidelines.pdf) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the lending institution.\n**Step 4:** The lending institution uploads beneficiary details on the VISVAS Portal and submits quarterly claims to the concerned implementing agency.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.nskfdc.nic.in/en/system/files/VISVAS%20Guidelines.pdf"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://www.nskfdc.nic.in/en/system/files/VISVAS-FAQ.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://www.nskfdc.nic.in/en/system/files/Visvas%20Yojana%20Flyer.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

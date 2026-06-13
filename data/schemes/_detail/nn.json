@@ -1,0 +1,27 @@
+{
+  "slug": "nn",
+  "name": "Nari Niketans",
+  "shortTitle": "NN",
+  "level": "state",
+  "state": "Jammu and Kashmir",
+  "nodalDept": "Department Of Social Welfare J and K",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The \"Nari Niketans\" were established in 1976 by the Social Welfare Department, Govt. of Jammu and Kashmir wherein deserted /destitute ladies/ widows having no means of livelihood are given admissions. There are seven Nari Niketan in Jammu & Kashmir. This is a 100% State Sponsored Scheme.",
+  "descriptionMd": "The &quot;[Nari Niketans](https://jksocialwelfare.nic.in/welfareIns/NariNiketans.pdf)&quot; were established in 1976 by the Social Welfare Department, Govt. of Jammu and Kashmir wherein deserted /destitute ladies/ widows having no means of livelihood are given admissions. There are seven Nari Niketan in Jammu &amp; Kashmir, i.e. in Jammu, Udhampur, Kathua, Doda, Rajouri, and two Nari Niketans in Poonch, with a total intake capacity of 280. The inmate shall remain in the institution till they are rehabilitated/get married/covered under any schemes for employment and self-employment. The beneficiary shall approach the concerned District Social Welfare Officer (DSWO) for submission of the application. This is a 100% State Sponsored Scheme, and only the permanent residents of the state of Jammu &amp; Kashmir can apply for this scheme.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant should be a citizen of India.\n1. The applicant should be a domicile / permanent resident of the state of Jammu &amp; Kashmir.\n1. The applicant should be a Female.\n1. The applicant should be deserted /destitute / widow.\n1. The applicant should not have any means of livelihood.\n1. The children accompanying the mothers will also be entitled to admission subject to the condition that male children after they attain the age of 8 years shall be transferred to Bal Ashrams.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jkdswdj.jk.gov.in/welfareSchemes/NARI%20NIKETANS.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

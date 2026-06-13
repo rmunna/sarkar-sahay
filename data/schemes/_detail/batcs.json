@@ -1,0 +1,31 @@
+{
+  "slug": "batcs",
+  "name": "Basic Agriculture Training Centre Scheme",
+  "shortTitle": "BATCS",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The objective of the scheme is to provide short-term vocational training for rural educated unemployed youths in agriculture and allied sectors to develop entrepreneurship skills and employment generation.",
+  "descriptionMd": "The “Basic Agriculture Training Centre Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to provide short-term vocational training for rural educated unemployed youths in agriculture and allied sectors to develop entrepreneurship skills and employment generation.",
+  "benefitsMd": "> **Pattern of Assistance:**\n\n\n- Free short-term training to educated unemployed rural youths.\n\n> **Type of Assistance and Entitlement (If Any):**\n\n\n- Training and capacity building.\n- Stipend @ ₹500/- per participant per month.\n- Seed money @ ₹10,000/- per participant.",
+  "eligibilityMd": "1. The applicant should be a permanent resident of Meghalaya.\n1. The applicant should be an unemployed rural youth.\n1. The applicant should have passed Class X.\n1. The applicant should be interested in starting farm-based activities.\n1. The applicant should have owned or leased agricultural land.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "&gt; **Application Process:**\n\n**Step 01:** The eligible Educated Rural Youths can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the relevant documents at the office of the Principal, Basic Agricultural Training Centre (BATC).\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe selection procedure is based on merit and on the condition that applicants own agricultural land on which they can start their farm-based activities. \n&gt; **Whom to Contact:**\n\n\n   1. District Agriculture Officers of the concerned districts.\n   1. Sub-Divisional Agricultural Officers of the concerned sub-divisions.\n   1. District Training Officers, Tura/Shillong.\n   1. Agricultural Development Officers of the concerned Community and Rural Development Blocks.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=57"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONAGRICULTURESCHEMES.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

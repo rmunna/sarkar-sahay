@@ -1,0 +1,31 @@
+{
+  "slug": "kpymp",
+  "name": "Khiladi Protsahan Yojana",
+  "shortTitle": "KPYMP",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "In 2017, the Madhya Pradesh Labour Department initiated the Khilaadee Protsaahan Yojana to provide financial assistance to players.",
+  "descriptionMd": "The Khilaadee Protsaahan Yojana, a scheme of the Madhya Pradesh Building Department under the Labor Department, provides financial assistance to registered construction workers or their family members under the MP Building and Other Construction Workers Welfare Board who have excelled in sports.",
+  "benefitsMd": "- On selection at various levels, incentive amount is payable as follows:-\n\nLevels(Category – A) Incentive amount on getting selected in district/divisional/state level sports.(Category – B) Incentive amount given by the Board for being winner in District/Divisional/State level game.At District Level₹10,000/-₹5,000/-At Division Level₹25,000/-₹15,000/-At State Level₹25,000/-₹30,000/-<br>\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n<br>",
+  "eligibilityMd": "1. The applicant should be a native of Madhya Pradesh.\n1. Family members registered under MP Building and Other Construction Workers Welfare Board.\n1. The applicant should be a bank account.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "> **For Category-A awards**\n\n\n- Applications must be submitted in the prescribed format, along with a certificate issued by the District Superintendent of Police or the District Sports Officer through a recognized sports organization, to the designated officer as follows:\n- For urban areas: Commissioner/Chief Municipal Officer, Urban Local Body\n\n<br>\n\n> **For Category-B awards**\n\n\n- The incentive amount for the winner of the sports competition organized by the division under Category-B will be provided by the organizing Labor Department officer.\n\n<br>\n\n> **Where to apply**\n\n\n- Chief Executive Offcer, Janpad Panchayat and Commissioner/Chief Municipal Officer, Urban Local Body\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines-1",
+      "url": "https://labour.mp.gov.in/Public/Pages/Schemes/KhiladiProtsahanYojna.aspx"
+    },
+    {
+      "title": "Guidelines-2",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=883"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

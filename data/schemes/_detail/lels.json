@@ -1,0 +1,31 @@
+{
+  "slug": "lels",
+  "name": "LIDCOM Education Loan Scheme",
+  "shortTitle": "LELS",
+  "level": "state",
+  "state": "Maharashtra",
+  "nodalDept": "Social Justice and Special Assistance Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Education Loan Scheme\" is a scheme by the Leather Industries Development Corporation (LIDCOM), Govt. of Maharashtra. In this scheme, finance of upto ₹ 20,00,000 is provided for post graduate students in the 18-50 years age group from Charmakar Community for studies in India and in abroad.",
+  "descriptionMd": "Being implemented since the year 2009, the &quot;Education Loan Scheme&quot; is a scheme by the Leather Industries Development Corporation (LIDCOM), Govt. of Maharashtra. In this scheme, finance of upto ₹ 20,00,000 is provided for post graduate students in the 18-50 years age group from Charmakar Community for studies in India and in abroad. Only the citizens who are a permanent resident of the state of Maharashtra are eligible to apply to this scheme. This is a Central Government Scheme and the funding for this scheme come from the National Scheduled Castes Finance and Development Corporation, New Delhi (NSFDC). The main objective of LIDCOM is to implement various schemes to uplift lifestyle of Charmakars (Dhor, Chambhar, Holar, Mochi etc.) who are economically weak and below poverty line and with an intention to develop them educationally, economically and socially so as to give them respectable place in Society.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant should be a citizen of India.\n1. The applicant should be a permanent resident of Maharashtra State.\n1. The applicant should be from Charmakar Community only (Dhor, Chambhar, Holar, Mochi etc.).\n1. The applicant should be in the 18 to 50 years age group.\n1. The annual income of the family of the applicant should be less than or equal to Rs.3,00,000/-.\n1. The applicant should have a knowledge of the business for which s/he has applied for loan.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines (LIDCOM)",
+      "url": "https://www.lidcom.co.in/education-loan-scheme.php"
+    },
+    {
+      "title": "Guidelines (SJSAD)",
+      "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

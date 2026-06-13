@@ -1,0 +1,27 @@
+{
+  "slug": "rmewf-faocesm",
+  "name": "RMEWF- Financial Assistance to Orphan Children of ESM",
+  "shortTitle": "RMEWF-FAOCESM",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Ex-Servicemen Welfare",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, ₹3,000 per month (paid annually) is provided to eligible orphan children of ex-servicemen for educational and settlement support.",
+  "descriptionMd": "The &quot;RMEWF- Financial Assistance to Orphan Children of ESM&quot; scheme was launched by the Kendriya Sainik Board (KSB), Department of Ex-Servicemen Welfare, Ministry of Defence, Government of India. Under this scheme, a monthly assistance paid annually is provided to support the orphan’s education and settlement. The scheme is implemented by the Kendriya Sainik Board Secretariat in coordination with Zila Sainik Boards (ZSB) and Rajya Sainik Boards (RSB).\n> **Scheme Aim:**\n\nThe aim of this aid gratis is to provide a small measure of relief from total penury to an orphaned child of an ESM.\n<br>",
+  "benefitsMd": "- Financial assistance of ₹3,000/- per month disbursed annually to each orphan child.\n\n> **NOTE:** Direct credit to the beneficiary’s bank account via Electronic Clearing Service (ECS)**.**\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a legitimate offspring of an Ex-Serviceman, with details recorded in the Service Book.\n1. The applicant must be a son below 21 years of age or an unmarried daughter.\n1. The applicant must have lost both parents (ESM and spouse).\n1. The application must be recommended by the respective Zila Sainik Board (ZSB).\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "***Interested and eligible students need to apply online at the*** [***Kendriya Sainik Board Secretariat***](https://www.ksb.gov.in/)***.*** \n**New User Registration**\n\n   1. Select the &amp;quot;Register&amp;quot; option.\n   1. Complete the registration form with the requisite details, including your name, Aadhaar card number, email ID, mobile number, and bank details.\n   1. Establish a password for your account.\n   1. Upon successful registration, the applicant will receive a User ID and password.\n\n***Login &amp;amp; Application Process:***\n\n   1. Log in using the provided User ID and password to access the application form.\n   1. Click &amp;quot;New Application&amp;quot; and select the scheme name.\n   1. Fill in the complete application form.\n   1. Upload the required documents, including a photograph, caste certificate, residential certificate, and bank passbook etc.\n   1. Click on the &amp;quot;Save &amp;amp; Forward&amp;quot; and take the printout of the application form.\n   1. The applicant submits the printed application along with all the required documents to the District Sainik Board.”\n\n> **NOTE:** \n\nOnce the application reaches KSB Sectt., the staff and officers at KSB carry out vetting and approval of the application. Final payment is made online in due course based on the availability of funds in AFFD.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ksb.gov.in/orphan-children-of-esm.htm"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

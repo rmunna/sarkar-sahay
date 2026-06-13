@@ -1,0 +1,27 @@
+{
+  "slug": "scyuk",
+  "name": "Shodhgrantha Chayan Yojana",
+  "shortTitle": "SCYUK",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department Of Sanskrit Education",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to invite scholars from any state in India to submit research manuscripts on Sanskrit literature, as well as socially relevant research books related to Sanskrit literature in the context of Uttarakhand.",
+  "descriptionMd": "The scheme “Shodhgrantha Chayan Yojana” is implemented by the Uttarakhand Sanskrit Academy, Haridwar, under the Department of Sanskrit Education, Government of Uttarakhand. The scheme aims to invite scholars from any state in India to submit research manuscripts on Sanskrit literature, as well as socially relevant research books related to Sanskrit literature in the context of Uttarakhand.\n<br>",
+  "benefitsMd": "For the research paper, the author receives an honorarium of ₹151/- per page, and 25 copies of the published book are provided free of cost.\n<br>",
+  "eligibilityMd": "1. Authentic and socially relevant research books related to Sanskrit literature in the context of Uttarakhand are invited for publication.\n   1. Scholars from any state of the country (who write research papers within the scope of research methodology) will be eligible.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- In accordance with the thesis selection rules, advertisements are published in newspapers and on websites. \n  - Authors must submit three copies of their thesis along with the application form and an affidavit certifying the originality of the work. \n  - Eligible theses are published by the evaluation committee.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 60)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

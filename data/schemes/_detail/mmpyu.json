@@ -1,0 +1,27 @@
+{
+  "slug": "mmpyu",
+  "name": "Mukhyamantri Mahila Poshan Yojana",
+  "shortTitle": "MMPYU",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department Of Woman Empowerment & Child Development",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to improve the health of pregnant and lactating women by providing nutritional food such as eggs twice a week and dates twice a week at Anganwadi Centres.",
+  "descriptionMd": "The scheme &amp;quot;Mukhyamantri Mahila Poshan Yojana&amp;quot; has been launched by the Department of Women Empowerment &amp;amp; Child Development, Government of Uttarakhand. The scheme aims to improve the health of pregnant and lactating women by providing nutritional food such as eggs twice a week and dates twice a week at Anganwadi Centres.\n<br>",
+  "benefitsMd": "Under the scheme, pregnant and lactating women are provided eggs two days a week and dates two days a week. Dates are given to those registered women who do not consume eggs.\n<br>\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a pregnant or lactating woman.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "Women who are registered at the Anganwadi Centre receive the benefits at the centre itself.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 35)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

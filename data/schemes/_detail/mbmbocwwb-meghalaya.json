@@ -1,0 +1,64 @@
+{
+  "slug": "mbmbocwwb-meghalaya",
+  "name": "Marriage Benefit (MBOCWWB)",
+  "shortTitle": "MBMBOCWWB-MEGHALAYA",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Labour and Employment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under the scheme, financial assistance shall be provided to registered construction workers for their own marriage. This assistance shall also be sanctioned for the marriage of all adult children of a worker subject to production of proper documentation such as Marriage Certificates etc.",
+  "descriptionMd": "The scheme “Marriage Benefit” is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, financial assistance shall be provided to registered construction workers for their own marriage. This assistance shall also be sanctioned for the marriage of all adult children of a worker subject to the production of proper documentation such as Marriage Certificates etc.",
+  "benefitsMd": "1. The financial assistance of ₹5,000/- shall be given to the registered workers for their own marriage.\n   1. The financial assistance of ₹5,000/- shall be provided to registered workers for the marriage of all their adult children, subject to the production of proper documentation such as Marriage Certificates, etc.",
+  "eligibilityMd": "1. The beneficiary should be a resident of Meghalaya.\n   1. The beneficiary should be engaged in a building or other construction work.\n   1. The beneficiary should be registered under the Meghalaya Building &amp;amp; Other Construction Workers Welfare Board.\n   1. The workers having continuous membership for 3 years shall be eligible to get financial assistance under the scheme.\n   1. The registered workers can apply for financial assistance for their own marriage. A registered worker can avail of this assistance once only.\n   1. The registered workers can apply for financial assistance for the marriage of all their adult children, subject to the production of proper documentation such as Marriage Certificates, etc.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Online Worker Registration Process (Portal):**\n\n**Step 01:** The applicants may visit the online Portal: [https://megbocwwb.gov.in/bocw_services/login.htm](https://megbocwwb.gov.in/bocw_services/login.htm)\n**Step 02:** The applicant can register by creating a new account, on the home page click on the ‘Worker’ button and enter all the mandatory information.\n**Step 03:** After filling in all the details, click on ‘Register’.\n**Step 04:** After successful registration, the applicant will see the message “Registered Successfully”.\n&gt; **Application Process for New Registration under the MBOCWWB:**\n\n**Step 01:** Visit the online Portal: [https://megbocwwb.gov.in/bocw_services/login.htm](https://megbocwwb.gov.in/bocw_services/login.htm)\n**Step 02:** Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login.\n**Step 03:** After successful login, click on ‘Apply for New Registration’ from the menu.\n**Step 04:** Fill in all the required details in the Registration Form i.e. Personal Details, Service/Work Details, Bank Details, and Demographic Details, etc.\nS**tep 05:** Click on &amp;#39;Submit&amp;#39;.\n**Step 06**: After successful registration, you will be directed to another page to manage all the Family &amp;amp; Nominee Details. Click on ‘Add New’ to add Family members and Nominee Details.\n**Step 07:** After adding all the Family &amp;amp; Nominee Details, click on Proceed.\n**Step 08:** Now upload all the required enclosures i.e. Photograph, ID Proof, Employer Certificate/Self Certification, Bank Passbook of the Worker.\n**Step 09:** Click on the ‘Complete’ Button to complete the registration process.\n**Step 10:** Once your application has been processed and verified by Block/District LDA, Block/District Labour Inspector and approved District Labour Commissioner (DLC), Registration Certificate will be generated.\n&gt; **Application Process for Marriage Assistance:**\n\n**Step 01:** Visit the online Portal: [https://megbocwwb.gov.in/bocw_services/login.htm ](https://megbocwwb.gov.in/bocw_services/login.htm)\n**Step 02:** Enter your User ID (Registered Mobile Number), Password and Enter Security Code. Click on Login.\n**Step 03:** After successful login, click on the “Marriage Assistance” scheme from the Dashboard.\n**Step 04:** Fill in all the required information and necessary enclosures.\n**Step 05:** Click ‘Submit’ to apply for benefits.\n&gt; **Application Process to Track/Update:**\n\n**Step 01:** Visit the online Portal: [https://megbocwwb.gov.in/bocw_services/login.htm](https://megbocwwb.gov.in/bocw_services/login.htm)\n**Step 02:** Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login.\n**Step 03:** From the menu, click on ‘Track Application Status’.\n**Step 04:** Click on ‘View Details’ to view your application.\n**Step 05:** Click on ‘Application History’ to view the application history.\n**Step 06:** Click on ‘Update’ to update your application.\n**Note:** Once your application is under process or processed, you cannot update it.\n(Worker’s [User Manual](https://megbocwwb.gov.in/bocw_services/assets/files/user-manual-workers.pdf))",
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://megbocwwb.gov.in/schemes_marriage"
+    },
+    {
+      "title": "Amendment Notification",
+      "url": "https://meglc.gov.in/acts/Amendment%20-rules-bocw-2018.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://megbocwwb.gov.in/enrollment"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://megbocwwb.gov.in/bocw_services/login.htm"
+    },
+    {
+      "title": "Registration Form",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/Registration%20Form.pdf"
+    },
+    {
+      "title": "Application Form For Marriage Assistance",
+      "url": "https://megbocwwb.gov.in/forms/benefit/marriageassistance.pdf"
+    },
+    {
+      "title": "Nomination Form",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/NominationForm.pdf"
+    },
+    {
+      "title": "Family Members Form",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/Familymembers.pdf"
+    },
+    {
+      "title": "SDO Certificate",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/SDOCertificate.pdf"
+    },
+    {
+      "title": "Employer Certificate",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/EmployersCertificate.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

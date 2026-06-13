@@ -1,0 +1,27 @@
+{
+  "slug": "smsopm",
+  "name": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+  "shortTitle": "SMSOPM",
+  "level": "state",
+  "state": "Tamil Nadu",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The “Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds, and Cotton” offers subsidies to farmers to produce seeds under contract with the Department of Agriculture.",
+  "descriptionMd": "The “Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds, and Cotton” by the Agriculture-Farmers Welfare Department, Tamil Nadu, offers subsidies to farmers to produce seeds under contract with the Department of Agriculture. Farmers receive training, source seeds, and guidelines for maintaining seed quality. After quality checks and processing, farmers are paid based on the quality of seeds produced. A 90% Minimum Support Price payment is made during processing, with the remainder settled after quality certification.",
+  "benefitsMd": "- **Premium:** On seeds ranges from ₹1/- to ₹3/- per kg.  - **Foundation Class Seeds:** The premium is between 7.5% to 30% over the Local Market Rate per kg, depending on the type of oil seed.  - **For Certified Class Seeds:** The premium is between 5% to 20% over the Local Market Rate per kg, based on the specific oil seed.  - **Training:** The farmer so desirous of enrolling himself/herself will be given a training by the authorities concerned at the beginning of each year",
+  "eligibilityMd": "- The beneficiary should be a Farmer.\n- The beneficiary should be a resident of Tamil Nadu.\n- The beneficiary should produce and supply seeds for the Department of Agriculture on a contract basis.\n- The seed Farms should be registered by the Seed Producer viz., the Assistant Director of Agriculture of the respective Blocks.\n- Field Run Produce has to satisfy the standards of physical/genetic purity, moisture levels and germination percentage as prescribed in the Certification standards.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/6843"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "msggvn",
+  "name": "MICRO FINANCE (Gopalak Nigam)",
+  "shortTitle": "MFGN",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": null,
+  "targetBeneficiaries": [
+    "Self Help Groups (SHGS)"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "Micro-loan scheme for Rabari and Bharwad caste entrepreneurs in Gujarat. Provides up to ₹1.25 lakh loan at 5% interest with only 5% beneficiary contribution.",
+  "descriptionMd": "This **microfinance scheme** aims to empower small entrepreneurs from the **Rabari and Bharwad castes** by offering **affordable loans** with minimal beneficiary contribution. Designed to support income-generating activities, the scheme helps beneficiaries fund small businesses with **95%** of the project cost covered by the corporation, while only **5%** is required as their own contribution.\nThe maximum loan offered under the scheme is **₹1.25 lakh**, with a subsidized interest rate of **5% per annum**. The scheme is intended to improve economic participation and entrepreneurship among socially and educationally backward communities in Gujarat.",
+  "benefitsMd": "- **Loan assistance up to ₹1.25 lakh** for small businesses- **Interest rate fixed at 5% per annum**\n- **95% loan coverage** by the corporation- **Only 5% contribution** needed from the applicant- Promotes economic independence and small-scale entrepreneurship",
+  "eligibilityMd": "1. The applicant must be a **permanent resident of Gujarat.**1. The applicant must be a woman or man belonging to the **Rabari or Bharwad caste.**1. The applicant must belong to a **socially and educationally backward class** as recognized by the Gujarat government.1. The applicant must be between **21 and 45 years of age.**1. The applicant’s annual family income must **not exceed ₹3.00 lakh.**1. The applicant must be planning to **start or expand a small business.**",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the official [**DAADC**](https://daadconline.gujarat.gov.in/) online portal.\n**Step 2:** Register/log in using your credentials.\n**Step 3:** Fill out the application form with accurate personal and scheme-specific details.\n**Step 4:** Upload the required documents and submit.",
+  "references": [
+    {
+      "title": "Guidelines Link",
+      "url": "https://sje.gujarat.gov.in/ggvn/Schemes/1561"
+    },
+    {
+      "title": "Apply Link",
+      "url": "https://daadconline.gujarat.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

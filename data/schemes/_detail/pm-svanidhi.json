@@ -1,0 +1,55 @@
+{
+  "slug": "pm-svanidhi",
+  "name": "PM Street Vendor’s AtmaNirbhar Nidhi (PM SVANidhi)",
+  "shortTitle": "PM SVANIDHI",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Housing & Urban Affairs",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "PM SVANidhi is a micro-credit scheme launched on 1st June 2020 by the MoHUA to provide handholding support to street vendors. The scheme facilitates a working capital collateral-free loan of ₹10,000, with subsequent loans of ₹20,000 and ₹50,000 with a 7% interest subsidy.",
+  "descriptionMd": "The scheme &amp;quot;PM Street Vendor’s AtmaNirbhar Nidhi (PM SVANidhi)&amp;quot; by the Ministry of Housing and Urban Affairs, Government of India aims to formalize street vendors and enhance their economic opportunities through providing collateral-free working capital loans, interest subsidy, and digital transaction incentives to street vendors. It was launched on 1st June 2020 as a central sector scheme. The scheme supports vendors in restarting and expanding their businesses. It also promotes digital payments to increase financial inclusion. Street vendors include hawkers, thelewala, rehriwala, and others engaged in small-scale vending activities.\nThe scheme aims to formalize the street vendors and open up new opportunities for this sector to move up the economic ladder. Street vendors represent a very important constituent of the urban informal economy and play a significant role in ensuring availability of the goods and services at affordable rates at the doorstep of the city dwellers. They are known as vendors, hawkers, thelewala, rehriwala, theliphadwala, etc. in different areas/ contexts. The goods supplied by them include vegetables, fruits, ready-to-eat street food, tea, pakodas, bread, eggs, textile, apparel, footwear, artisan products, books/ stationary, etc. The services include barber shops, cobblers, pan shops, laundry services, etc.\n<br>",
+  "benefitsMd": "&gt; **Working Capital Loan:**\n\n\n  - **1st Tranche:** Loan up to ₹15,000/-; repayment within 12 months.  - **2nd Tranche:** Loan up to ₹25,000/-; repayment within 18 months.  - **3rd Tranche:** Loan up to ₹50,000/-; repayment within 36 months.  - Next tranche available on timely or early repayment.\n  - No prepayment penalty on early repayment.\n\n&gt; **Interest Subsidy:**\n\n\n  - Subsidy at 7% per annum on loan amount.\n  - Credited quarterly to beneficiary’s bank account.\n  - Applicable only for standard (non-NPA) accounts.\n  - Valid up to 31st March 2033.\n\n&gt; **Digital Transaction Cashback:**\n\n\n  - Cashback up to ₹100/- per month for digital transactions.\n\n&gt; **Credit Guarantee Support:**\n\n\n  - 31.87% guarantee cover for 1st tranche loan.\n  - 8.25% guarantee cover for 2nd tranche loan.\n  - 6% guarantee cover for 3rd tranche loan.\n  - No charges for lending institutions.\n\n&gt; **UPI Linked RuPay Credit Card:**\n\n\n  - Initial credit limit of ₹10,000/-; extendable up to ₹30,000/-.\n  - Validity of 5 years.\n  - Available after successful repayment of 2nd tranche loan.\n\n<br>",
+  "eligibilityMd": "- Street vendors in possession of Certificate of Vending / Identity Card issued by Urban Local Bodies (ULBs).\n  - The vendors, who have been identified in the survey but have not been issued Certificate of Vending / Identity Card.\n  - Street Vendors left out of the ULB-led identification survey or who have started vending after completion of the survey and have been issued a Letter of Recommendation (LoR) to that effect by the ULB / Town Vending Committee (TVC).\n  - The vendors of surrounding development/ peri-urban/rural areas vending in the geographical limits of the ULBs, who have been issued a Letter of Recommendation (LoR) to that effect by the ULB / TVC.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit [https://pmsvanidhi.mohua.gov.in/ ](https://pmsvanidhi.mohua.gov.in/)and click on the &quot;Log In&quot; button on the homepage. \n**Step 2:** Enter Mobile number and captcha. Click request OTP. \n**Step 3:** After successful login, select valid &quot;vendor category&quot; among the available options. Enter &quot;**Survey Reference Number**&quot; (SRN) which is mandatory.\n**Step 4:** On entering these basic details, fill the application form online, upload the relevant documents and submit.\n**Note:** \n\n- For any kind of clarification and access detailed stepwise process, refer [User Manual](https://pmsvanidhi.mohua.gov.in/Default/ViewFile/?id=Helping+User+Manual+For+First+Term+Other+State.pdf&path=MiscFiles).- For any query one can call on the toll free number i.e 1800111979 between 9.30 AM to 6.00 PM on Monday to Saturday except national holidays.\n- **Contact Details:** [Click here](https://pmsvanidhi.mohua.gov.in/Home/Contact).\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://pmsvanidhi.mohua.gov.in/Default/ViewFile/?id=Scheme+Guidelines.pdf&path=MiscFiles"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://mohua.gov.in/pm_svandhi/FAQ.pdf"
+    },
+    {
+      "title": "Offline Application Form",
+      "url": "https://www.pmsvanidhi.mohua.gov.in/Default/ViewFile/?id=PM+SVANidhi+LAF.pdf&path=MiscFiles"
+    },
+    {
+      "title": "Check Application Status",
+      "url": "https://pmsvanidhi.mohua.gov.in/Schemes/SearchVendor  "
+    },
+    {
+      "title": "User Manuals For Applicant",
+      "url": "https://pmsvanidhi.mohua.gov.in/Schemes/UserManual"
+    },
+    {
+      "title": "Pre-Application Steps",
+      "url": "https://pmsvanidhi.mohua.gov.in/Default/ViewFile/?id=FAQEng.pdf&path=MiscFiles"
+    },
+    {
+      "title": "Helpdesk",
+      "url": "https://pmsvanidhi.mohua.gov.in/Home/Contact"
+    },
+    {
+      "title": "Application Submission/Log In",
+      "url": "https://pmsvanidhi.mohua.gov.in/Login"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

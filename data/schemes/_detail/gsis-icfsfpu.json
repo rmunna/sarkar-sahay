@@ -1,0 +1,40 @@
+{
+  "slug": "gsis-icfsfpu",
+  "name": "Grant of Subsidy For Setting up of Ice-Plant /Cold Storage/Fish Processing Unit",
+  "shortTitle": "GSIS-ICFSFPU",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Fisheries and Fishermen Welfare Department, Puducherry",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Individual",
+    "Registered Societies"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This scheme aims to preserve fish and fishery products by facilitating the establishment of Ice Plant-cum-Cold Storage Units and Fish Processing Units. Through this scheme, eligible beneficiaries can avail a 10% subsidy.",
+  "descriptionMd": "The scheme &quot;Grant of Subsidy For Setting up of Ice-Plant /Cold Storage/Fish Processing Unit&quot; is a fisheries development scheme by the Department of Fisheries and Fishermen Welfare, Government of India. This scheme aims to preserve fish and fishery products by facilitating the establishment of Ice Plant-cum-Cold Storage Units and Fish Processing Units. Through this scheme, eligible entities, including the Private Sector, Fishermen, Fisherwomen Cooperative Societies, and Entrepreneurs, can avail of a 10% subsidy.",
+  "benefitsMd": "- 10% subsidy, subject to a maximum of ₹3,00,000 per unit, for the establishment of Ice Plant-cum-Cold Storage.\n- 10% subsidy, subject to a maximum of ₹10,00,000 per unit, for the establishment of a Processing Unit.\n- Grant-in-aid for construction and maintenance of fishing harbor, fish landing center, fish landing jetty, fish drying platform, fish curing yard, work sheds, cyclone shelters, community halls, etc.",
+  "eligibilityMd": "- The applicant should be a Private Sector/Fishermen/Fisherwomen Cooperative Societies/Fishermen /Entrepreneurs.\n- The applicant should be between 18 to 50 years old.\n- The applicant should not have availed any benefit of loan/subsidy from any other source for the intended purpose.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit the [Office/ Sub-Office](https://fisheries.py.gov.in/sub-offices) of the Department of Fisheries and Fishermen Welfare, and request the hard copy of the [prescribed format](https://fisheries.py.gov.in/sites/default/files/subsidies-application007.pdf) of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://fisheries.py.gov.in/sites/default/files/shore-based-facilities.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://fisheries.py.gov.in/sites/default/files/subsidies-application007.pdf"
+    },
+    {
+      "title": "List Of Sub-Offices",
+      "url": "https://fisheries.py.gov.in/sub-offices"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://fisheries.py.gov.in/contact-us"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

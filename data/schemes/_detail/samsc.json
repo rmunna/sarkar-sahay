@@ -1,0 +1,28 @@
+{
+  "slug": "samsc",
+  "name": "Scheme of Assistance for Management of Stray Cattle",
+  "shortTitle": "SAMSC",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Agriculture, Farmers Welfare and Cooperation Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Registered Societies",
+    "Government Organisation"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This scheme provides financial support to local self-government bodies and registered Panjrapoles to reduce or eradicate the problem of stray cattle by encouraging their maintenance and proper care.",
+  "descriptionMd": "The &amp;quot;Scheme of Assistance for Management of Stray Cattle&amp;quot; is designed to support Panjrapoles (animal shelters) registered under the Public Charity Act in their efforts to manage and maintain stray cattle. Each eligible shelter receives a one-time maintenance assistance for stray cattle to ensure proper care, control, and management of these animals.",
+  "benefitsMd": "<br>\n\n**Component****Name Support Standard**\t**Minimum Time Limit (in Years) for Reclaiming Constituent Benefits**Management of stray cattle\t₹4000/- maintenance assistance will be payable once for each stray cattle1 year<br>",
+  "eligibilityMd": "1. The Panjrapole (animal shelter) must be registered under the Charity Act.\n   1. The Panjrapole must accept and maintain stray cattle in their facility.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the online application and submit it to the board within 30 days of application with the signature and stamp of the local Veterinary Officer with the necessary documents listed in the application.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here.](https://gauseva.gujarat.gov.in/Home/Address)",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=Qo0mbBU171dNP2ROt7cS6g==&domain=A36Rf7FTT/556gX2TyXKFw=="
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

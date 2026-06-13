@@ -1,0 +1,31 @@
+{
+  "slug": "kalia",
+  "name": "Krushak Assistance For Livelihood And Income Augmentation",
+  "shortTitle": "KALIA",
+  "level": "state",
+  "state": "Odisha",
+  "nodalDept": "Agriculture and Farmers Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Through the implementation of Krushak Assistance for Livelihood and Income Augmentation - KALIA Scheme , the State Government aims to lend farmers with an all inclusive and flexible support system, ensuring accelerated agricultural prosperity.",
+  "descriptionMd": "Financing agriculture and insuring the cultivators is essential to eradicate poverty and to boost shared prosperity of the state. Through the implementation of Krushak Assistance for Livelihood and Income Augmentation - KALIA Scheme , the State Government aims to lend farmers with an all inclusive and flexible support system, ensuring accelerated agricultural prosperity. At the heart of a progressive scheme like KALIA lies the motivation to empower the farmers of the state with finance options that will enable the growth and development of agriculture in Odisha. Enhancement of the accessibility to suitable financial services will further ensure agricultural productivity and increase income among farmers , particularly the small and marginal land holders.\n<br>\n\nAmounting to over 10,000 crore the scheme has been tailored to relieve the debt ridden farmers from the debt trap, keeping a pragmatic vision to directly attack poverty by providing financial assistance to the vulnerable agriculture households, landless labourers as well as marginal cultivators of the state. Proposed by the Government of Odisha , KALIA scheme brings under its umbrella 92% of cultivators of the state and almost all needy landless cultivators , who can avail the benefits of this scheme through Direct Benefit Transfer Mode.\n<br>",
+  "benefitsMd": "",
+  "eligibilityMd": "1. Residency: The applicant must be a permanent resident of Odisha.\n1. Agricultural activities: The applicant must be engaged in agricultural activities, such as farming, cultivation, horticulture, or animal husbandry, either as a landowner, tenant farmer or sharecropper.\n1. Household status: The applicant&#39;s household should be categorized as &quot;deprived&quot; or &quot;vulnerable&quot; under the Socio-Economic Caste Census (SECC) 2011 or any other state government survey.\n1. Landownership: The applicant must either own cultivable land or be a sharecropper/tenant farmer cultivating someone else&#39;s land.\n1. Age: There is no age limit for applying for the KALIA Scheme.\n1. Income: The applicant&#39;s annual income should be less than Rs. 2.00 lakhs per annum.\n1. Bank account: The applicant must have a bank account in his/her name and a valid Aadhaar number linked to the account.\n1. Criminal record: The applicant must not have any criminal record or involvement in any illegal activities.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Odisha Government Website",
+      "url": "https://kalia.odisha.gov.in/index1.html"
+    },
+    {
+      "title": "Guidelines PDF",
+      "url": "https://kalia.odisha.gov.in/assets/guidelines/Gazette-Notification-of-KALIA-scheme.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

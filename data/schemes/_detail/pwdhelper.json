@@ -1,0 +1,31 @@
+{
+  "slug": "pwdhelper",
+  "name": "Special Jobs to PwDs - Helper",
+  "shortTitle": "SJPWDH",
+  "level": "state",
+  "state": "Lakshadweep",
+  "nodalDept": "Social Welfare and Tribal Affairs Department, Lakshadweep",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, three PwD candidates are employed as Helpers with a monthly salary of ₹9,900/- on an 89-day rotational basis in the District Panchayat offices of their respective islands to address issues related to disabled persons and other associated matters.",
+  "descriptionMd": "The scheme &amp;quot;Special Job to PwDs - Helper&amp;quot; was introduced by the Department of Social Welfare &amp;amp; Tribal Affairs, Union Territory of Lakshadweep, to provide temporary employment opportunities to Persons with Disabilities (PwDs) with a minimum of 40% disability in the UT. Under this scheme, three (3) PwD candidates are employed as Helpers on an 89-day rotational basis in the District Panchayat offices of their respective islands to address issues related to disabled persons and other associated matters.",
+  "benefitsMd": "1. Persons with Disabilities are employed as Helper in the District Panchayat offices of their respective islands.\n1. A monthly salary of ₹9,900/-.\n\n**Note:** Employment is provided on 89 days rotation basis.",
+  "eligibilityMd": "1. The applicant should be a local resident of the Union Territory of Lakshadweep.\n1. The applicant should have a minimum of 40% disability and be physically capable of performing the work of a helper.\n1. The applicant should belong to the Scheduled Tribe (ST) category.\n1. The age of the applicant should be between 18 and 45 years.\n1. The applicant should have passed at least the 8th standard.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Eligible applicants can collect the application form from the Village (Dweep) Panchayat Office or District Panchayat Office of their respective islands.\n**Step 2**: Carefully fill out the application form and attach all required supporting documents.\n**Step 3:** Submit the completed application form along with the necessary documents to the concerned officer at the Village (Dweep) Panchayat Office or District Panchayat Office.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://lakshadweep.gov.in/departments/social-welfare-and-tribal-affairs/"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://cdn.s3waas.gov.in/s358238e9ae2dd305d79c2ebc8c1883422/uploads/2023/07/2023071388.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

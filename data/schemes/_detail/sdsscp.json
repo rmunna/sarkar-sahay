@@ -1,0 +1,35 @@
+{
+  "slug": "sdsscp",
+  "name": "Supply of Dhotis and Sarees to Scheduled Caste (SC) People",
+  "shortTitle": "SDSSCP",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Adi Dravidar Welfare Department, Puducherry",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme “Supply of Dhotis and Sarees to Scheduled Caste (SC) People” by the Adi Dravidar Welfare and Scheduled Tribes Welfare Department, Union Territory of Puducherry is introduced to provide clothing items (lungi, shirt, saree, blouse, etc) to the Scheduled Caste (SC) people of Puducherry.",
+  "descriptionMd": "The scheme “Supply of Dhotis and Sarees to Scheduled Caste (SC) People” by the Adi Dravidar Welfare and Scheduled Tribes Welfare Department, Government of Puducherry is introduced to provide clothing items (lungi, shirt, saree, blouse, etc) to the Yellow/Red Ration Card Holders from the Scheduled Caste (SC) Category residing in the Union Territory of Puducherry.",
+  "benefitsMd": "- Each male member of the family is supplied with a lungi and shirt bit.\n- Each female member of the family is supplied with a saree and a blouse.\n- The benefits are provided annually.",
+  "eligibilityMd": "- The applicant should be a citizen of India.\n- The applicant should be 18 years or above in age.\n- The applicant should have his/her name included in the yellow/red ration card supplied by the Civil Supplies Department.\n- The applicant should have continuous residence in Puducherry for at least 5 years.\n- The annual income of the applicant should not exceed ₹ 24,000/-.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit (during office hours) the [Office/ Sub-Office](https://adwelfare.py.gov.in/contact-us) of the Adi Dravidar Welfare and Scheduled Tribes Welfare Department, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Citizen's Charter",
+      "url": "https://py.gov.in/sites/default/files/citizencharter-adidravidar.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://adwelfare.py.gov.in/contact-us"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://py.gov.in/sites/default/files/adwsupply-dhotis-and-sarees-s.c.people.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

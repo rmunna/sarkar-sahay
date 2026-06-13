@@ -1,0 +1,27 @@
+{
+  "slug": "chpuk",
+  "name": "Bal Swasthya Karyakram - Uttarakhand",
+  "shortTitle": "CHPUK",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Medical Health And Family Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "This initiative aims to ensure the survival, healthy growth, and overall well-being of children aged 0–5 years by providing accessible, comprehensive and quality healthcare services.",
+  "descriptionMd": "The “Bal Swasthya Karyakram” is an initiative under the National Health Mission (NHM) implemented by the Department of Medical Health and Family Welfare, Government of Uttarakhand. This initiative aims to ensure the survival, healthy growth, and overall well-being of children aged 0–5 years by providing accessible, comprehensive, and quality healthcare services across the state.\n<br>",
+  "benefitsMd": "Under this Programme, medical services are provided to children aged 0–5 years through Special Newborn Care Units (SNCUs), Newborn Stabilization Units (NBSUs), and Nutritional Rehabilitation Centres (NRCs). Additionally, ASHA workers, Anganwadi workers, and ANMs distribute Vitamin A and IFA syrup free of cost to children aged 0–5 years.\n<br>",
+  "eligibilityMd": "1. The beneficiary must be a child between 0 and 5 years of age from Uttarakhand.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "SNCU, NBSU, and NBCC are operational in the district hospitals, sub-district hospitals, primary health centers, and community health centers across the state. Services can be availed by registering at these centers.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 130)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

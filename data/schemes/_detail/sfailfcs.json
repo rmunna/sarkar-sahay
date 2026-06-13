@@ -1,0 +1,31 @@
+{
+  "slug": "sfailfcs",
+  "name": "Scheme for Financial Assistance to Integrated Logistics Facilities: Capital Subsidy",
+  "shortTitle": "SFAILFCS",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Industries and Mines Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Scheme for Financial Assistance to Integrated Logistics Facilities\" under the Gujarat Integrated Logistics and Logistics Park Policy, provides financial support to private developers for creating logistics facilities and parks with the necessary infrastructure and services.",
+  "descriptionMd": "The &amp;quot;Scheme for Financial Assistance to Integrated Logistics Facilities&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the  Gujarat Integrated Logistics and Logistics Park Policy. Effective from August 2nd, 2021 to August 1st, 2026, this initiative aims to provide financial assistance to the private developer for developing Logistics Facilities and Logistics Park with all required infrastructure and logistic services.\nThe component &amp;quot;Capital Subsidy&amp;quot; is designed to support new projects or units by providing financial assistance for eligible fixed capital investments. The subsidy is aimed at enhancing industrial development and incentivizing investment in infrastructure and construction for qualifying projects.",
+  "benefitsMd": "- **Phase-Wise Disbursement:** Assistance is disbursed in four installments- 25%, 50%, 75%, and 100% of the sanctioned project cost (excluding land costs).  - **Final Adjustment on Project Completion:** 15% of eligible assistance is withheld and disbursed only after the project is completed.",
+  "eligibilityMd": "1. Only new units or projects are eligible for this subsidy.\n   1. The subsidy applies to costs related to construction and infrastructure (excluding land cost).\n   1. The project must adhere to SOR norms of the government or its undertaking.\n   1. The claim must be submitted in a phase-wise manner corresponding to actual expenditures.\n   1. Developers must obtain all applicable environmental and statutory clearances.\n   1. Basic facilities such as toilets and rest areas for transport vehicle drivers must be provided.\n   1. The developer must operate and maintain the logistics facilities for a minimum of five years.\n\n&lt;br&gt;\n\n&gt; **Note****:** \n\n\n   1. If land is leased or rented, a registered lease/rental deed for a minimum of 10 years between the developer and landowner is mandatory.\n   1. Warehouse facilities must not be used for captive purposes by the developer; otherwise, they will be ineligible for assistance.\n   1. Logistics facilities cannot be sold or transferred to another entity for at least five years from the date of the sanction letter or the project&amp;#39;s commissioning, whichever is later. Facilities must be leased or rented to remain eligible for assistance.",
+  "exclusionsMd": "- Existing units/projects are not eligible under this scheme-component.\n\n&lt;br&gt;",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step-1:** Visit the [Investor Facilitation Portal (IFP)](https://ifp.gujarat.gov.in/DIGIGOV/) portal. Click on &quot;New Investor Registration&quot; to access the registration form.\n**Step-2:** Fill in the Registration Form. Click on &quot;Submit&quot;. \n**Step-3:** Verify the E-mail ID using the link sent on your registered E-mail ID.\n**Step-4:** After verification, you will be registered successfully.\n<br>\n\n> **Post-Registration Process:**\n\n**Step-1:** Visit the [Investor Facilitation Portal (IFP)](https://ifp.gujarat.gov.in/DIGIGOV/) portal. Click on &quot;Login&quot;.\n**Step-2:** Enter the email address and password you used during registration.\n**Step-3:** Click the &quot;Login&quot; button to access your account.\n**Step-4:** Now fill in the required details and mandatory documents about your business to complete the application process.\n<br>\n\n> **Helpdesk:** [**Contact Here.**](https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/contact.jsp?pagedisp=static)",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2024/Revised_Gui_eline_for_the_%20Scheme_for_Financial_Assistance_to_Integrated_Logistics_Facilities.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://ifp.gujarat.gov.in/DIGIGOV/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

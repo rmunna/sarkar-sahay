@@ -94,6 +94,45 @@ export function getAllSchemeSlugs(): string[] {
   return getAllSchemes().map(s => s.slug ?? s.id).filter(Boolean) as string[];
 }
 
+export interface SchemeFullDetail {
+  slug: string;
+  name: string;
+  shortTitle: string | null;
+  level: string | null;
+  state: string | null;
+  nodalDept: string | null;
+  schemeFor: string | null;
+  targetBeneficiaries: string[];
+  benefitType: string | null;
+  briefDescription: string;
+  descriptionMd: string;
+  benefitsMd: string;
+  eligibilityMd: string;
+  exclusionsMd: string;
+  applicationMode: string | null;
+  applicationMd: string;
+  references: { title: string; url: string }[];
+  fetchedAt: string;
+}
+
+/** Full myScheme detail (description/benefits/eligibility/how-to-apply) scraped
+ * to data/schemes/_detail/<slug>.json. Present only for ingested schemes. */
+export function getSchemeDetail(slug: string): SchemeFullDetail | null {
+  const f = path.join(DATA_DIR(), "_detail", `${slug}.json`);
+  if (!existsSync(f)) return null;
+  try { return JSON.parse(readFileSync(f, "utf-8")) as SchemeFullDetail; } catch { return null; }
+}
+
+/** A scheme is "rich enough to index" when it has real benefit + eligibility
+ * prose (not just a one-line description). */
+export function isRichDetail(d: SchemeFullDetail | null): boolean {
+  if (!d) return false;
+  const elig = (d.eligibilityMd || "").length;
+  const ben = (d.benefitsMd || "").length;
+  const desc = (d.descriptionMd || d.briefDescription || "").length;
+  return elig >= 80 && (ben >= 20 || desc >= 200);
+}
+
 let _guideMap: Record<string, string> | null = null;
 
 /** Confident scheme→guide matches (from scripts/match-scheme-guides.mjs). Lets

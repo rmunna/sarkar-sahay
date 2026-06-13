@@ -1,0 +1,31 @@
+{
+  "slug": "eafdc",
+  "name": "Educational Assistance for Degree Course",
+  "shortTitle": "EAFDC",
+  "level": "state",
+  "state": "Maharashtra",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The Educational Assistance for Degree Course scheme provides financial assistance to children of registered construction workers pursuing their undergraduate degree (1st, 2nd, 3rd, and 4th year, if applicable). This benefit is also extended to the wife of a registered male worker.",
+  "descriptionMd": "The Educational Assistance for Degree Course scheme was launched by the Maharashtra Building And Other Construction Workers Welfare Board (MBOCWW), Labour Department Maharashtra. The scheme provides financial assistance of ₹20,000/- per year to children of registered construction workers pursuing their undergraduate degrees. This benefit is also extended to the wife of a registered male worker.",
+  "benefitsMd": "- Financial assistance of ₹20,000/- per year for undergraduate students.\n\n<br>",
+  "eligibilityMd": "1. The children&#39;s parents or guardians should be registered under the Maharashtra Building and Other Construction Workers Welfare Board.\n1. The student must be enrolled in a degree course (1st, 2nd, 3rd, or 4th year).\n1. The benefit applies to a maximum of two children and the wife of a registered male worker.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step-1:** The interested applicant downloads the [application form](https://mahabocw.in/wp-content/uploads/2019/06/SCHEME_EDUCATION_FORM.pdf) from the MBOCWW official website. \n**Step-2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step-3:** Submit the duly filled and signed application form along with the documents to the Labor Commissioner/Government Labor Officer.\n**Step-4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mahakamgar.maharashtra.gov.in/welfare-scheme-for-building-other-construction-workers.htm"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://mahabocw.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "mabay",
+  "name": "Mukhyamantri Aawasiye Bhu-Adhikaar Yojana",
+  "shortTitle": "MABAY",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Revenue Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Revenue Department of Madhya Pradesh State started this scheme to provide residential plots.",
+  "descriptionMd": "Each family is entitled to live a dignified life with access to essential necessities. Those who are eligible for the housing schemes initiated by either the Central or State government can truly reap the benefits once they obtain a housing plot. Once the residential plot is secured, assistance can be availed for housing loans through government schemes and banks. In light of this, the state government is launching the &amp;quot;Mukhyamantri Awasiya Bhu-Adhikar Yojana,&amp;quot; aimed at granting eligible families residential plots on the &amp;#39;populated areas&amp;#39; within each gram panchayat region in rural areas.",
+  "benefitsMd": "- Plot will be provided to all those families who do not have their own house.",
+  "eligibilityMd": "1. The applicant family does not have a residence to live independently.\n1. The applicant family has less than 5 acres of land.\n1. The applicant family holds the eligibility slip for obtaining ration from the Public Distribution System (PDS) shop.\n1. No member of the applicant family is income tax payer.\n1. No member of the applicant family is in government service.\n1. The name of the applicant is registered in the voter list till January 01, 2021 in the village where he wants residential plot.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "1. Applicants have to visit [official website.](https://saara.mp.gov.in/)1. Click on &quot;Apply&quot; under the scheme name.\n1. On the [new page](https://saara.mp.gov.in/saaraweb/BhuSwamiAdhikar/ruralplot.html), click on the &quot;Avedan&quot;. 1. Select the &quot;New Application&quot; option.\n1. Now fill out the application form and provide the required details.\n1. Submit",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://revenue.mp.gov.in/upload/files/094344313693.pdf"
+    },
+    {
+      "title": "Details",
+      "url": "https://saara.mp.gov.in/saaraweb/BhuSwamiAdhikar/ruralplot.html"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

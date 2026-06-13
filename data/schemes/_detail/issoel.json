@@ -1,0 +1,43 @@
+{
+  "slug": "issoel",
+  "name": "Interest Subsidy Scheme on Education Loan",
+  "shortTitle": "ISSOEL",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"Interest Subsidy Scheme on Education Loan\" by the Education Department, Gujarat, aims to provide financial support to students by offering 100% interest subsidy on education loans.",
+  "descriptionMd": "The scheme &amp;quot;Interest Subsidy Scheme on Education Loan&amp;quot; by the Education Department, Government of Gujarat, aims to provide complete financial relief to students through 100% interest subsidy on education loans for the entire moratorium period. This includes the study period and 1 additional year after course completion.\n<br>",
+  "benefitsMd": "- **Interest Subsidy Assistance:** 100% interest subsidy on education loans up to ₹10,00,000/- for the moratorium period (course duration + 1 year).\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Gujarat.\n   1. The applicant must be a student.\n   1. The applicant must have passed HSC (Higher Secondary Certificate) with at least 60 percentile.\n   1. The applicant must have taken an education loan from a recognized bank for pursuing higher education in India or abroad.\n   1. The applicant must have a family income not exceeding ₹6,00,000/- per year.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step 1:** Visit the [Official Website](https://kcg.gujarat.gov.in/education_loan/student_login/sign_up.php) and fill in all the details.\n**Step 2:** Set an username and password.\n**Step 3:** Verify the details and click on &quot;Register&quot;.\n> **Application Process:**\n\n**Step 1:** Visit the [Official Website](https://kcg.gujarat.gov.in/education_loan/student_login/login.php) and enter the username and password.\n**Step 2:** Enter all relavant details and fill out the online form.\n**Step 3:** Upload all required documents in the specified format if required.\n**Step 4:** Click on &quot;Submit&quot; to comlete the applicaion process.\n**Step 5:** After completing the full details of the application-submitting your application formprint the acknowledgment receipt.\n**Step 6:** The applicant will have to print the acknowledgment receipt and according to checklist\nall Documents send it to the KCG either directly or by courier (all the documents should be selfattested).\n> **Contact Us:**\n\n**Kcg E-Mail Id:** isel-kcg[at]gujgov[dot]edu[dot]in\n**Helpline No:** 9909039380 (10:30 AM to 6:00 PM)\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 273)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    },
+    {
+      "title": "Instructions For Student",
+      "url": "https://kcg.gujarat.gov.in/education_loan/pdf/Instruction%20for%20Student-%20English.pdf"
+    },
+    {
+      "title": "How To Apply",
+      "url": "https://kcg.gujarat.gov.in/education_loan/pdf/How%20to%20Apply-English.pdf"
+    },
+    {
+      "title": "Scheduled Bank List",
+      "url": "https://kcg.gujarat.gov.in/education_loan/pdf/shedual%20bank%20act%201934.pdf"
+    },
+    {
+      "title": "Government Resolution (G.R.)",
+      "url": "https://kcg.gujarat.gov.in/education_loan/pdf/GR.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "mbobocwwb",
+  "name": "Maternity Benefit (O.B.O.C.W.W.B)",
+  "shortTitle": "MBOBOCWWB",
+  "level": "state",
+  "state": "Odisha",
+  "nodalDept": "Labour and Employees State Insurance Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The “Maternity Benefit” scheme by the BOCW Welfare Board, Labour Department, Odisha, is a welfare scheme that provides maternity benefits to the female beneficiaries subject to a maximum of two children who  are registered beneficiaries for a period of more than one year under the board.",
+  "descriptionMd": "The “Maternity Benefit” scheme by the Building and Other Construction Workers Welfare Board, Labour Department, Odisha, is a welfare scheme for the registered workers of the board. Under this scheme, the Board shall provide financial assistance in the form of maternity benefits to the female beneficiaries subject to a maximum of two children who  are registered beneficiaries for a period of more than one year under the Odisha Building and Other Construction Workers Welfare Board.\n&lt;br&gt;",
+  "benefitsMd": "- **Quantum of Assistance:** ₹8,000/- to ₹10,000/- per Child.  - **For eligible beneficiaries under “Mamata” being implemented by W&amp;amp;CD Department:** ₹15,000/- (₹10,000/- under OB&amp;amp;OCWW Board and ₹5,000/- under “Mamata”).\n&gt; **Note:** Assistance shall be given for a maximum of two children.\n\n<br>",
+  "eligibilityMd": "&gt; **For Registration as a Building/ Construction Worker:**\n\n\n  - The applicant should be a resident of Odisha.\n  - The applicant should be a Building/ Construction Worker.\n  - The applicant should be between 18 and 60 years.\n  - The applicant should have engaged in building and construction work for at least 90 days in a given year.\n  - The applicant should not be a member of any other Welfare Fund established under any law.\n\n&gt; **For the Application of the Welfare Scheme:**\n\n\n  - The applicant should be female.\n  - The applicant should be a registered member of the Odisha Building and Other Construction Workers Welfare Board.\n  - The applicant should be registered for a period of one year or more under the board.\n  - The applicant should be pregnant.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Registration Process as a Building/ Construction Worker:**\n\n**Step 1:** Visit the official [website ](https://nirmanshramik.odisha.gov.in/obocwwb/public/cwLogin)of the Odisha BOCWW Board.\n**Step 2:** Click on “One Time Registration” on the top right side of the page.\n**Step 3:** Click on the Declaration box and then on the “Proceed” button.\n**Step 4:** In the next window fill in all the required details carefully and click on “Proceed”.\n**Step 5:** Enter the received OTP and click on “Submit”.\n**Step 6:** Your account will be successfully created and a Username will be displayed (Keep the Username for future references).\n&gt; **Application Process of the Welfare Scheme:**\n\n**Step 1:** Visit the Applicant [Login page](https://nirmanshramik.odisha.gov.in/obocwwb/public/cwLogin) of the Odisha BOCWW Board.\n**Step 2:** Enter your Username, OTP and fill in the captcha then click on “Sign In”.\n**Step 3:** In the next window, fill in your General Details, Address Details, Family &amp;amp; Nominee Details, Details of the establishment(s) where the applicant worked during the last one year, Bank Details etc. and then click on “Submit”.\n**Step 4:** Now in the Menu bar section, click on “Benefit”. From the list select the concerned benefit you want to apply.\n**Step 5:** Fill in all the mandatory details carefully and click on “Submit” to complete the application process.\n&gt; **Check Your Application Status:** Registered workers can check their application status through visiting this [link ](https://nirmanshramik.odisha.gov.in/obocwwb/public/applicationTracking)upon entering their Application Tracking Number.\n\n&gt; **Pay Annual Contribution:** Registered workers can pay the Annual Contribution through visiting this [link ](https://nirmanshramik.odisha.gov.in/obocwwb/public/payAnnuealContribution)upon entering their Registration Number.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://labdirodisha.gov.in/?q=node/15%27%3B"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://nirmanshramik.odisha.gov.in/website/schemes"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

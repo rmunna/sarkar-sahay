@@ -1,0 +1,35 @@
+{
+  "slug": "wdwps",
+  "name": "Widow / Destitute Women Pension Scheme - Punjab",
+  "shortTitle": "Wdwps",
+  "level": "state",
+  "state": "Punjab",
+  "nodalDept": "Department of Social Security and Development of Women and Children",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Punjab State Government started a pension for widow and destitute women.",
+  "descriptionMd": "This is the major social welfare scheme of Punjab Government. The main objective behind launching this scheme is to provide monthly pension to those women who don&#39;t have any sustainable income source. This Scheme is implemented by Social Security and Women &amp; Child Development Department of Punjab Government.",
+  "benefitsMd": "Amount : ₹ 1,500/- per month",
+  "eligibilityMd": "1. Beneficiary should be a Permanent Resident of Punjab .\n1. The Annual Income of Beneficiary should not be more than Rs. 60,000/-per year .\n1. The below mentioned women are eligible for monthly pension :-\n\n   1. Widow Women.\n   1. Destitute Women.\n   1. Unmarried Women.\n\n1. The Age of the beneficiary should be :- \n\n   1. Widow or Destitute Women: Below 58 Years.\n   1. Unmarried Women: Above 30 Years.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step-1:** Applicants have to visit the [official website](https://connect.punjab.gov.in/service/citizenservice/112).\n**Step-2**: Click on the &quot;Click to apply services&quot;.\n**Step-3**: Now login on Digital Punjab portal with Email/Phone number and password. If does have any account then register [here](https://ssocitizen.psegs.in/register)\n**Step-4:** Fill out the application form.\n**Step-5**: Attach the required documents\n**Step-6**: Submit.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://upload.indiacode.nic.in/showfile?actid=AC_PB_82_985_00002_00002_1553492693909&type=rule&filename=notification_pdf_13.6.2017_in_eng.pdf"
+    },
+    {
+      "title": "Portal",
+      "url": "https://connect.punjab.gov.in/service/citizenservice/112"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://punjab.gov.in/wp-content/uploads/2023/08/Widow-Destitute-pension-1.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

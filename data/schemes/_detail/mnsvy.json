@@ -1,0 +1,31 @@
+{
+  "slug": "mnsvy",
+  "name": "Mahila Nirman Shramik Vivah Yojana",
+  "shortTitle": "MNSVY",
+  "level": "state",
+  "state": "Tripura",
+  "nodalDept": "Labour Department ",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Mahila Nirman Shramik Vivah Yojana\" was launched by the Tripura Building and Other Construction Workers Welfare Board, under the Labour Department of Tripura. The scheme aims to provide financial assistance to registered female construction workers and maximum of two of their daughters.",
+  "descriptionMd": "The &quot;Mahila Nirman Shramik Vivah Yojana&quot; was launched by the Tripura Building and Other Construction Workers Welfare Board, Labour Department Tripura. The scheme aims to provide financial assistance to registered female construction workers and maximum of two daughters of registered construction workers for marriage purposes. The registered beneficiary will apply in the prescribed form through electronically.\n<br>",
+  "benefitsMd": "- **A one-time grant of ₹50,000/- is provided to meet the marriage expenses of the female registered construction worker and a maximum of two daughters of a registered construction worker.**",
+  "eligibilityMd": "1. The applicant should be a female registered construction worker. \n1. The female construction worker should have been registered for at least one year continuously.\n1. The family of a registered construction worker can avail of this assistance only twice: however, there shall be only one claim in respect of a given marriage irrespective of the number of registered construction workers in the family.\n1. The registered construction workers should not have any dues payable to the Board.\n1. The registered construction worker&#39;s daughter should have attained the age prescribed by law for marriage for whose marriage the assistance is sought.  \n1. The registered construction worker&#39;s daughter should not be an employee in government or quasi-government.",
+  "exclusionsMd": "No benefit shall be provided for remarriage.",
+  "applicationMode": "Online - via CSC",
+  "applicationMd": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the CSC agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n**NOTE:** Application shall be submitted within 6 months of the marriage.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://tbocwwb.tripura.gov.in/news_announcements/3435175.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://tbocwwb.tripura.gov.in/index.php"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

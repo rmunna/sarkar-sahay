@@ -1,0 +1,35 @@
+{
+  "slug": "fawwdf",
+  "name": "Financial Assistance to War Widows of Defence Forces",
+  "shortTitle": "FAWWDF",
+  "level": "state",
+  "state": "Haryana",
+  "nodalDept": "Sainik and Ardh Sainik Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under the scheme, financial assistance of ₹3,000/- per month shall be granted to War Widows of Defence Force Personnel’s (Army, Navy & Air Force) who were killed in action during declared war of 1962, 1965 & 1971 in addition to family pension already getting from Government of India.",
+  "descriptionMd": "The scheme &amp;quot;Financial Assistance to War Widows of Defence Forces&amp;quot; is implemented by the Sainik and Ardh Sainik Welfare Department, Government of Haryana. Under the scheme, financial assistance of ₹3,000/- per month shall be granted to widows of Defence Force personnel (Army, Navy, and Air Force) who were killed in action during the declared wars of 1962, 1965, and 1971, in addition to the family pension they are already receiving from the Government of India.",
+  "benefitsMd": "1. Under the scheme, financial assistance of ₹3,000/- per month is given to the widow of an ex-serviceman whose husband died in action during the declared wars of 1962, 1965, and 1971, with an annual increase of ₹400/- w.e.f. 01.11.2017 every year in November.\n\n**Note:** This financial assistance is provided in addition to the family pension already getting from the Government of India.",
+  "eligibilityMd": "1. The applicant must be a bona fide resident of Haryana.\n   1. The applicant must be the widow of Defence Force personnel (Army, Navy, or Air Force) who was killed in action during the declared wars of 1962, 1965, or 1971.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 1:** The eligible applicant may apply online through the Official Portal- [Antyodaya-SARAL Portal](https://saralharyana.gov.in/). \n**Step 2:** If the applicant is not registered on the portal, he/she gets registered there. \n**Step 3:** For registration, click “[New User](https://saralharyana.gov.in/citizenRegistration.html)” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password &amp;amp; State. Click on ‘Submit’.\nStep 4: Verify your mobile number and email ID through the received OTP and complete the registration process.\n&gt; **Login to apply for the scheme:**\n\n**Step 1:** To avail the benefits of the scheme, visit the Official [Antyodaya-SARAL Portal](https://saralharyana.gov.in/) and log in through the email ID used while registering.\n**Step 2:** Enter Password &amp;amp; Captcha and click on ‘Login’.\n**Step 3:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’.\n**Step 4:** Now, you can search for the scheme and download the pre-defined documents form/template and you will need to upload the filled-in/signed form/template in the &amp;#39;Attach Enclosures&amp;#39; screen.\n**Step 5:** Click on ‘Proceed to Apply’ to fill out the application form. Enter your Parivar Pehchan Patra number- Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.\n**Step 6:** Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”\n**Step 7:** Fill in all the mandatory details and upload all the mandatory documents.\n**Step 8:** Preview the application form and click on ‘Submit’.\n**Tracking of Application:**\nApplicants can track their applications through the Official [Antyodaya-SARAL Portal](https://status.saralharyana.nic.in/) by entering their Department Name, Scheme Name, and Application Reference ID.",
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=RMrBNRfJbVTRKZ9wsr54YA%3d%3d"
+    },
+    {
+      "title": "Notification",
+      "url": "https://csharyana.gov.in/WriteReadData/Instructions/Defence%20III/5783.pdf"
+    },
+    {
+      "title": "Antyodaya-SARAL Portal",
+      "url": "https://saralharyana.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "kccp",
+  "name": "Kisan Credit Card (Pashupalan)",
+  "shortTitle": "KCCP",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Animal Husbandry Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual",
+    "Registered Societies"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide short-term working capital loans for livestock activities by offering eligible livestock farmers interest-subsidized loans for operational purposes through banks.",
+  "descriptionMd": "The &quot;Kisan Credit Card (Pashupalan)&quot; scheme is launched by the Animal Husbandry and Dairy Department, Government of Madhya Pradesh. The schheme provides short-term working capital loans to livestock farmers at subsidized interest rates. Eligible livestock farmers, dairy producers, and members of primary agricultural credit cooperative societies can avail financial support for operational purposes through banks.\n<br>",
+  "benefitsMd": "- Short-term working capital loan for livestock activities through the Kisan Credit Card system.\n- Interest subsidy is provided on loans sanctioned under the scheme.\n- Expected Time of Disbursement: Typically within 15 days of application approval.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Madhya Pradesh.\n1. The applicant must be a livestock farmer or a member of a primary agricultural credit cooperative society.\n1. The applicant should require short-term working capital for livestock activities, including dairy production.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process**\n\n**Visit the Official Website:**\n\n- Go to [https://samast.mponline.gov.in/portal/](https://samast.mponline.gov.in/portal/)\n**Create Your Profile:**\n\n- Click on “[Create Profile](https://samast.mponline.gov.in/portal/register).”- Fill in the required basic details such as Name, Mobile Number, Gender, Email ID, Date of Birth, etc.\n- Click on “Next.”\n\n**Verify Basic Details:**\n\n- Re-enter your Date of Birth and Mobile Number.\n- Enter the Captcha Code and click on “Profile Banaye.”\n- An OTP will be sent to your registered mobile number. Enter the OTP to verify your profile.\n\n**Complete Aadhaar e-KYC:**\n\n- Enter your Aadhaar Number, Registered Mobile Number, and Captcha Code.\n- Click on “Send OTP” and verify using the Aadhaar OTP to complete the e-KYC process.\n\n> **Application Fill Process**\n\n**Fill Application Form:**\n\n- Select the &quot;Scheme Name&quot;\n- Enter your Samagra ID, Mobile Number, Address, and Business/Personal Details.\n- Upload the required documents.\n- Click on “Save &amp; Next.”\n\n**Pay Application Fee:**\n\n- Proceed to Online Payment and complete the fee payment securely.\n\n**Submit &amp; Print:**\n\n- After successful submission, note down your Application ID.\n- Download and print the Application Form for future reference.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=914"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "lpsup",
+  "name": "Leprosy Pension Scheme",
+  "shortTitle": "LPSUP",
+  "level": "state",
+  "state": "Uttar Pradesh",
+  "nodalDept": "Empowerment of Persons With Disabilities Department, Uttar Pradesh",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This Leprosy Pension Scheme has been started by the Government of Uttar Pradesh and operated by the Department of Empowerment of Persons with Disabilities, Uttar Pradesh.",
+  "descriptionMd": "Leprosy Pension Scheme has been started by the Government of Uttar Pradesh and operated by the Department of Empowerment of Persons with Disabilities, Uttar Pradesh.\n    The main objective of the scheme is to provide a grant-in-aid for the maintenance of persons with disabilities and leprosy, whose family income is not sufficient for them.",
+  "benefitsMd": "The rate of grant per beneficiary per month will be Rs. 3000/- who became disabled due to Leprosy.",
+  "eligibilityMd": "1. It is necessary to be a permanent resident of Uttar Pradesh.\n1. Disabled due to leprosy (with any percentage of disability).\n1. Persons with disabilities due to leprosy may belong to any age group.\n1. Must be below the poverty and should be under Rs. 56,460/- per annum for urban and Rs. 46,080/- per annum for rural areas. \n1. Are not taking advantage of other pension schemes.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "1. First of all the applicant has to visit the [official Portal.](https://sspy-up.gov.in)1. Fill out the online application form [from here. ](https://sspy-up.gov.in/oap/public_new/UserRegistrationForm.aspx?Scheme=HandicapPension)1. In the Application form, the applicant has to fill following details:- Personal Details, Bank Details, Income Details, and a description of a disability.\n1. Upload the required documents (Photograph, Age Certificate and Disability Certificate).",
+  "references": [
+    {
+      "title": "Guidelines-1",
+      "url": "https://uphwd.gov.in/article/en/Kushtavstha-disabled-maintenance-grant-scheme"
+    },
+    {
+      "title": "Guidelines-2",
+      "url": "https://sspy-up.gov.in/docs/Pension_note.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://sspy-up.gov.in/oap/public_new/UserRegistrationForm.aspx?Scheme=HandicapPension"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

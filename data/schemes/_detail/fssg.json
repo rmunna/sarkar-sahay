@@ -1,0 +1,31 @@
+{
+  "slug": "fssg",
+  "name": "Fellowship Scholarship Scheme",
+  "shortTitle": "FSSG",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Fellowship Scholarship Scheme\" by the Education Department, Government of Gujarat, aims to provide financial help to students by granting an annual monetary award to those who secure 70% or more marks in Class 10th and pursue higher education.",
+  "descriptionMd": "The &amp;quot;Fellowship Scholarship Scheme&amp;quot; by the Education Department, Government of Gujarat, aims to provide financial assistance to meritorious students who secure 70% or more marks in Class 10th and are pursuing higher secondary or higher education. The primary objective is to encourage education among the Scheduled Caste (SC), Scheduled Tribe (ST), Physically Backward Classes, and other eligible categories by providing monetary support based on their merit in Class 11th and subsequent studies.\n<br>",
+  "benefitsMd": "- **Annual Scholarship:** Financial assistance is provided every year to eligible students.\n<br>",
+  "eligibilityMd": "- The applicant must have secured at least 70% marks in Class 10th.\n- The applicant must be pursuing higher secondary school (Class 11th onwards), college, or higher education.\n- The applicant’s personal/ family annual income must not exceed ₹2,50,000/-.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **How to Register:**\n\n**Step 1:** Visit the [Digital Gujarat](https://www.digitalgujarat.gov.in/) portal.\n**Step 2:** The user should click on the &amp;quot;Click to register&amp;quot; option. Fill all details and click on &amp;quot;Save&amp;quot;.\n&gt; **How to Log In:**\n\n**Step 1:** Visit the [Digital Gujarat](https://www.digitalgujarat.gov.in/) portal. \n**Step 2:** The user should click on the &amp;quot;Login&amp;quot; option. \n**Step 3:** Enter all details and click on &amp;quot;Login&amp;quot;.\n&gt; **How to Apply for a New Service:**\n\n**Step 1:** After logging in, select the relevant department.\n**Step 2**: Choose the specific service to apply for within that department.\n**Step 3:** Fill out all required details in the application form.\n**Step 4:** Upload, attach, or browse necessary documents. Alternatively, import documents directly from DigiLocker.\n**Step 5:** Carefully review all entered information.\n**Step 6:** Submit the application.\n**Step 7:** Once the application is completed, proceed to payment to download the certificate.\n**Step 8:** Upon successful payment, the certificate will be available for download.\n&amp;gt; **Digital Gujarat (Help Desk):**\n\nContact No: 18002335500\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 179)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://www.digitalgujarat.gov.in/Download/User_Manual_on_CSP_v1.1.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

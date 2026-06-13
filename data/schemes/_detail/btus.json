@@ -1,0 +1,35 @@
+{
+  "slug": "btus",
+  "name": "Bank Tie-Up Scheme",
+  "shortTitle": "BTUS",
+  "level": "state",
+  "state": "Punjab",
+  "nodalDept": "Department of Finance",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Through the \"Bank Tie-Up Scheme\", the Punjab Scheduled Castes Land Development & Finance Corporation (PSCLDFC) arranges loans through banks, and subsidy is provided by PSCLDFC. The permanent residents of Punjab belonging to Scheduled Castes and living Below Poverty Line are eligible.",
+  "descriptionMd": "Through the &quot;Bank Tie-Up Scheme&quot;, the Punjab Scheduled Castes Land Development &amp; Finance Corporation (PSCLDFC) arranges loans through banks, and subsidy is provided by PSCLDFC. The permanent residents of Punjab belonging to Scheduled Castes and living Below Poverty Line are eligible under this scheme. This is a 100% State Sponsored Scheme, and only the permanent residents of the state of Punjab can apply for this scheme.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant should be a citizen of India.\n1. The applicant should be a domicile / permanent resident of the state of Punjab.\n1. The applicant should be from Below Poverty Line (BPL).\n1. The applicant should be from the Scheduled Caste category.\n1. The annual income of the family of the applicant (from all sources) should be ₹ 67,649/- per annum (for rural areas); ₹ 88,756/- per annum (for urban areas).\n1. The applicant should not already be availing the benefits of the scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://pbscfc.punjab.gov.in/?q=node/25"
+    },
+    {
+      "title": "Loan Application Form - I",
+      "url": "https://pbscfc.punjab.gov.in/sites/default/files/bank_tieup_scheme_form.pdf"
+    },
+    {
+      "title": "Loan Application Form - II",
+      "url": "https://pbscfc.punjab.gov.in/sites/default/files/CORPORATION-1-6%20PAGES.PDF"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "vsylwb",
+  "name": "Vivah Sahayata Yojana - Madhya Pradesh",
+  "shortTitle": "VSYMP",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under the labor department of Madhya Pradesh State, this scheme \"Vivah Sahayata Yojana\" was started in 2018.",
+  "descriptionMd": "Labor department of Madhya Pradesh State initiated the &quot;Vivah Sahayata Yojana&quot; was started in 2018 for the financial assistance for marriage. The objective of scheme to reduce the financial burden and provide some financial help from the construction worker. This scheme provides marriage assistance to:\n\n- The registered female worker&#39;s own marriage or remarriage.\n- Up to two daughters of the registered worker.\n\n<br>",
+  "benefitsMd": "1. Under the scheme, the beneficiary will receive a total assistance of ₹55,000.\n1. This amount is divided into:\n\n   1. ₹11,000/- as cash.\n   1. ₹38,000/- worth of household goods.\n   1. ₹6,000/- provided to the organizer of the mass marriage program (if applicable).",
+  "eligibilityMd": "1. The industrial establishment/institution must be covered under the Madhya Pradesh Labour Welfare Fund Act 1982 and the Board must be receiving regular contributions from the establishment.\n1. The application form in the prescribed format must be submitted either 15 days before the wedding date or 60 days after the wedding date.\n1. Bride and groom age should be 18 and 21 respectively.\n1. The applicant must have been working in the establishment for at least one year.\n1. If the applicant has availed the benefit of marriage assistance under any other scheme, he/she will be ineligible for this scheme.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step-1:** Applicant need to visit the [official website](https://mpedistrict.gov.in/MPL/Index.aspx) and search the [scheme name](https://mpedistrict.gov.in/MPL/ShowServiceDetail.aspx?param=7ryqYYGPIxkmuFhJ2knk3iE1Fw4SpkYQ). \n**Step-2:** Applicant need to download the online fill out [application form](https://mpedistrict.gov.in/MPL/DisplayServiceForm.aspx?ParamDownloadForm=z97iJgS9e2U=) or download the blank form.\n**Step-3:** Now on [portal](https://mpedistrict.gov.in/MPL/Loksevakendra.aspx) select the district Name and choose the option &quot;[Lok Seva Kendra](https://mpedistrict.gov.in/MPL/Loksevakendra.aspx)&quot;  and visit nearest location.\n**Step-4:** Applicant need to submit the application form with required documents\n           - Application form.\n           - Age Proof.\n           - Original copy of marriage invitation card.\n           - Self-attested photocopy of Aadhar card and Samgra ID (if available) of the daughter/female worker who is getting married.\n           - Photocopy of the first page of the applicant worker&#39;s bank passbook.\n           - Photocopy of the identity card/ESI or PF card (if available) issued by the institution/establishment of the applicant worker.\n           - Latest photograph of the applicant and the daughter/female worker/employee who is getting married.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mpedistrict.gov.in/MPL/getphoto.aspx?ViewCircular=lWpumLpSoZU="
+    },
+    {
+      "title": "Details-1",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=906"
+    },
+    {
+      "title": "Details-2",
+      "url": "https://mpedistrict.gov.in/MPL/ShowServiceDetail.aspx?param=7ryqYYGPIxkmuFhJ2knk3iE1Fw4SpkYQ"
+    },
+    {
+      "title": "Details-3",
+      "url": "https://labour.mp.gov.in/Public/Pages/Schemes/VivahSahayta.aspx"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://mpedistrict.gov.in/MPL/DisplayServiceForm.aspx?ParamDownloadForm=z97iJgS9e2U="
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

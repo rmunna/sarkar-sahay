@@ -1,0 +1,35 @@
+{
+  "slug": "sdvay",
+  "name": "Vishesh Yogyajan Sukhad Dampatya Jeevan Yojana",
+  "shortTitle": "VYSDJY",
+  "level": "state",
+  "state": "Rajasthan",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide financial assistance to specially-abled individuals to support a happy married life after marriage. Under this scheme, financial assistance of ₹50,000/- per couple is provided.",
+  "descriptionMd": "The scheme &amp;quot;Vishesh Yogyajan Sukhad Dampatya Jeevan Yojana&amp;quot; was launched by the Social Justice &amp;amp; Empowerment Department, Government of Rajasthan, in 1997. The scheme aims to provide financial assistance to specially-abled individuals to support a happy married life after marriage. Under this scheme, financial assistance of ₹50,000/- per couple is provided. Additionally, ₹20,000/- is given as event expenses to organizations that organize marriage events for specially-abled individuals. The scheme is implemented by the Directorate of Specially-Abled Persons in the state.",
+  "benefitsMd": "- Financial assistance of ₹50,000/- per couple is provided.",
+  "eligibilityMd": "1. The applicant should be a native of Rajasthan.\n1. The applicant should be a specially-abled individual (male or female).\n1. The applicant should possess a disability certificate with 40% or more disability, issued by a Medical Officer or Medical Board.\n1. The groom should be at least 21 years old, and the bride should be at least 18 years old.\n1. The applicant’s family income from all sources should not exceed ₹2,50,000/- per year.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit the office of the Block Social Security Officer or District Social Welfare Officer and request a copy of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned office.\n**Step 4:** Request a receipt or acknowledgment from the concerned office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable).\n**Note:** To avail of the benefits, specially-abled individuals should submit their application for assistance within six months from the date of marriage, along with the required documents, to the office of the Block Social Security Officer or District Social Welfare Officer.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.rajasthan.gov.in/sap_welfare_schemes.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://dsap.rajasthan.gov.in/scheme/detail/233"
+    },
+    {
+      "title": "Scheme Details (Page No. 4)",
+      "url": "https://cag.gov.in/uploads/download_audit_report/2023/9.-Appendices-064b7cfeec1ad47.97127516.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

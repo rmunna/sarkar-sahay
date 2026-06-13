@@ -1,0 +1,27 @@
+{
+  "slug": "bns",
+  "name": "Boneej Scheme",
+  "shortTitle": "BNS",
+  "level": "state",
+  "state": "Assam",
+  "nodalDept": "Industries and Commerce Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Boneej\" a special scheme to assist the rural industries of the state and it was announced by the Hon'ble Finance Minister's in his Budget speech on 26th July, 2016",
+  "descriptionMd": "**Objective** \nThe &amp;amp;quot;Boneej Scheme&amp;amp;quot; is a flagship program of the Government of Assam in India, aimed at promoting entrepreneurship and generating employment opportunities for the youth in the state. The scheme is focused on providing financial assistance and support to young entrepreneurs who are willing to start their own ventures.\nUnder the Boneej Scheme, the government provides financial assistance in the form of seed money to selected entrepreneurs. The scheme also offers various support services such as training, mentoring, and networking opportunities to help entrepreneurs develop their skills, build their businesses, and access markets.\n&lt;br&gt;\n\n**Area of Implementation**\nAll districts excluding those within the jurisdiction Karbi- Anglong Autonomous District Council, NC Hills Autonomous District Council and Bodoland Territorial Autonomous Districts would be covered. \n&lt;br&gt;\n\n**District Target**\n\n  - A district-wise target shall be fixed by the Commissionerate of Industries &amp;amp; Commerce, Assam on the basis of rural population in the district and shall be communicated to the concern DICC.\n\n&lt;br&gt;",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The industry should be located in rural areas of Assam.\n1. This industry should be an existing one and have a continuous operation for a minimum of the last two years.\n1. The unit should have its own workshed for production and process.\n1. The age of the applicant should not be less than 18 years and more than the maximum of 50 years.\n1. There is no bar to educational qualification.\n1. The unit should have avail term loan/working capital loan to the extent to a minimum of one lakh.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://industries.assam.gov.in/sites/default/files/Boneej.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

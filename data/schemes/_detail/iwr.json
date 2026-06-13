@@ -1,0 +1,47 @@
+{
+  "slug": "iwr",
+  "name": "Incentive to Widow's Remarriage",
+  "shortTitle": "IWR",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Women and Child Development Department, Puducherry",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The objective of this scheme is to encourage and support widows to remarry and lead a normal life in society. Through this scheme, eligible individuals receive financial assistance of ₹50,000/- in the form of a National Saving Certificate. The bridegroom should be a bachelor or a widower.",
+  "descriptionMd": "The scheme &quot;Incentive to Widow&#39;s Remarriage (IWR)&quot; is a social welfare scheme by the Department of Women &amp; Child Development, Government of Puducherry. The objective of this scheme is to encourage and support widows to remarry and lead a normal life in society. Through this scheme, eligible individuals receive financial assistance of ₹50,000/- in the form of a National Saving Certificate. The bridegroom should be a bachelor or a widower.",
+  "benefitsMd": "Financial assistance of ₹50,000/- in the form of a National Saving Certificate.\n<br>",
+  "eligibilityMd": "1. The applicant should be a citizen of India.\n1. The applicant should be a Widow.\n1. The applicant should be a native of the Union Territory of Puducherry by birth or by continuous residence of not less than 5 years.\n1. The applicant should not be carrying a child.\n1. The applicant&#39;s annual income should not exceed ₹75,000/- per annum.\n1. The bridegroom should be a bachelor or a widower.\n1. The Bride and the Bridegroom should be of legal marriage age, i.e. 18 years for the Bride and 21 years for the Bridegroom.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the [Official Website](https://edistrict.py.gov.in/) of the e-District Portal of the Government of Puducherry.\n**Step 2:** At the top right corner of the home page, click &quot;[Login](https://edistrict.py.gov.in/Login.aspx)&quot;. In the login screen, click &quot;[Register a New Membership](https://edistrict.py.gov.in/User/Registration.aspx)&quot;.\n**Step 3:** On the Registration Page, fill in all the mandatory fields: Username, Password, Confirm Password, Personal Details (Full Name, First Name, Email Address, Address, Current Address, Gender, Date of Birth, Mobile Number). Agree to the declaration. Fill in the Captcha Code, and click &quot;Signup&quot;.\n**Step 4:** Visit the [Official Website](https://edistrict.py.gov.in/) of the e-District Portal of the Government of Puducherry.\n**Step 5:** At the top right corner of the home page, click &quot;[Login](https://edistrict.py.gov.in/Login.aspx)&quot;. In the login screen, provide your Username and Password, fill in the Captcha Code, and click &quot;Sign In&quot;.\n**Step 6:** On the next screen, a list of schemes by the Government of Puducherry will be displayed Department-wise.\n**Step 7:** Click on the scheme you wish to apply for. You will be taken to its online application form.\n**Step 8:** In the application form, fill in all the mandatory fields (marked with a red asterisk) and upload all the mandatory documents (self-attest if required). \n**Step 9:** Tick the declaration stating &quot;I hereby declare that the above-mentioned details are true and correct as per the best of my Knowledge&quot;. Submit the application and note the application number for [tracking your application](https://edistrict.py.gov.in/User/TrackApplication.aspx). The application number will also be received on your Registered Mobile Number / Registered Email ID.\n***Track Your Application** [here](https://edistrict.py.gov.in/User/TrackApplication.aspx)\n*** Access the User Manual for Online Application** [here](https://edistrict.py.gov.in/Help.rar)",
+  "references": [
+    {
+      "title": "Citizen's Charter",
+      "url": "https://wcd.py.gov.in/sites/default/files/citizens-charter-english.pdf"
+    },
+    {
+      "title": "RTI Manual",
+      "url": "https://py.gov.in/sites/default/files/womenrtimanual.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://wcd.py.gov.in/contact-us"
+    },
+    {
+      "title": "Office Locations",
+      "url": "https://wcd.py.gov.in/office-locations"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://wcd.py.gov.in/ta/central-public-grievance-redress-and-monitoring-system"
+    },
+    {
+      "title": "Track Your Application",
+      "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

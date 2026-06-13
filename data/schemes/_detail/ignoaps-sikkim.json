@@ -1,0 +1,31 @@
+{
+  "slug": "ignoaps-sikkim",
+  "name": "Indira Gandhi National Old Age Pension Scheme - Sikkim",
+  "shortTitle": "IGNOAPS-SIKKIM",
+  "level": "state",
+  "state": "Sikkim",
+  "nodalDept": "Women & Child Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme “Indira Gandhi National Old Age Pension Scheme (IGNOAPS)” was started by the Department of Women & Child Welfare, Govt. of Sikkim in 2014. Under this scheme, a pension is provided to elderly citizens above the age of 60 years belonging to the Below Poverty Line (BPL) category.",
+  "descriptionMd": "The scheme “Indira Gandhi National Old Age Pension Scheme (IGNOAPS)” was started by the Department of Women &amp;amp; Child Welfare, Govt. of Sikkim in 2014. Under this scheme, a pension is provided to elderly citizens above the age of 60 years belonging to the Below Poverty Line (BPL) category and the beneficiary will receive a monthly pension of ₹ 1500/-, ₹ 2000/- &amp;amp; ₹ 2500/- as per eligibility criteria.",
+  "benefitsMd": "",
+  "eligibilityMd": "- The applicant should be a resident of the state of Sikkim.\n- The applicant should be from Below Poverty Line (BPL) family.\n- The applicant should have attained the age of 60 years and above.\n- The applicant should not have any source of income.\n- The applicant should not be a recipient of salary/pension/family pension from Central Government / other State Governments.\n- The applicant should have opened the Bank Account under “Pradhan Mantri Jan Dhan Yojana”.\n**Note 01:** In case both the husband &amp;amp; wife are old age persons and are eligible for Indira Gandhi National Old Age Pension Scheme (IGNOAPS), only one member of the family shall be awarded the pension. In case of death of the pensioner, such pension shall be transferred to his/her spouse, if alive on surrender of the passbook, provided he/she has attained the age of 60 (sixty) years of age or more.\n**Note 02:** Each beneficiary of the Pensions should submit &amp;quot;Life Certificate&amp;quot; in the prescribed format in the month of November every year failing which it will be presumed that the beneficiary is either died or migrated outside the State of Sikkim and the payment of pension shall be stopped forthwith without further notice.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Website",
+      "url": "https://pensionscheme.sikkim.gov.in"
+    },
+    {
+      "title": "Guideline",
+      "url": "http://sikkimsocialwelfare.gov.in/wp-content/uploads/2015/12/22.3.14-Rule-for-Sikkim-Social-Assistance-PEnsion-Scheme-2014.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

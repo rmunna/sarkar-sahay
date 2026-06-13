@@ -1,0 +1,48 @@
+{
+  "slug": "ra-hsb",
+  "name": "Rehabilitation Assistance- Haryana Silicosis Board",
+  "shortTitle": "RA-HSB",
+  "level": "state",
+  "state": "Haryana",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family",
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, silicosis-affected workers confirmed by the Silicosis Diagnosis Board will receive a one-time assistance of ₹5,00,000. If the worker dies before receiving the assistance, the amount will be payable to the widow or widower if married, or to one of the living parents if unmarried.",
+  "descriptionMd": "The scheme “Rehabilitation Assistance” is implemented by the Haryana Labour Welfare Board, Government of Haryana. Under this scheme, a one-time assistance of ₹5,00,000/- will be given to silicosis-affected workers upon confirmation by the Silicosis Diagnosis Board. In the event of the worker&amp;#39;s death before receiving the rehabilitation assistance after confirmation of silicosis, the assistance shall be payable to the widow or widower if the worker was married, or to one of the living parents if the worker was unmarried.\n**Note:** Silicosis, an incurable lung disease prevalent in workplaces like stone crushers and mines, is a notifiable disease in Haryana under the Factories Act, of 1948, and the Building and Other Construction Workers (RE &amp;amp; CS) Act, of 1996. Upon confirmation by the Silicosis Diagnosis Board, affected workers are swiftly referred to hospitals for treatment; those under the Employee State Insurance Act, 1948 receive care at ESI hospitals, while others are provided free treatment at district hospitals and medical colleges by the Health Department, with the option for reimbursement for necessary resources unavailable locally, facilitated by the Labour Department.\n**Symptoms of Silicosis**  \n\n- Associated with T.B  \n- Shortness of breath  \n- Fatigue \n- Loss of appetite (Anorexia).  \n- Chest pain; dry with non-productive cough (Whooping Cough). \n- Respiratory failure\n- Eventually leads to death",
+  "benefitsMd": "1. Under this scheme, a one-time assistance of ₹5,00,000/- will be given to silicosis-affected workers upon confirmation by the Silicosis Diagnosis Board.\n   1. In case of the death of a worker before receiving the rehabilitation assistance after confirmation of Silicosis, the assistance shall be payable to:\n\n\n  - Widow/ widower if the worker was married or\n  - To one of the living parents if the worker was unmarried",
+  "eligibilityMd": "1. Any worker confirmed by the Silicosis Diagnosis Board, Haryana as suffering from silicosis shall be eligible for assistance under the scheme.\n   1. If the worker dies before receiving the rehabilitation assistance after confirmation of silicosis, the assistance shall be payable to the widow or widower if the worker was married, or to one of the living parents if the worker was unmarried.\n   1. The worker should be registered with the Haryana Silicosis Board.\n   1. The worker should be employed in a factory or at a construction site.\n\n**Note:** Any worker suffering from Silicosis and confirmed by the Silicosis Diagnosis Board shall be issued an Identity Card by the Haryana Labour Welfare Board.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Registration under the Haryana Silicosis Board:**\n**Step 01:** The applicant should visit the [Official Website](https://hrylabour.gov.in/) of the Labour Department Haryana.\n**Step 02:** On the home page, click on the “[Silicosis Board Beneficiary Login](https://hrylabour.gov.in/login/silicosis)”, a new window page will be opened. If you don&amp;#39;t have login details then click on “[Click Here](https://hrylabour.gov.in/silicosis/register/basicinfo)” to register.\n**Step 03:** Fill in all the required details, upload all necessary documents, and provide your work experience.\n**Step 04:** Agree with the declaration and click on the ‘continue’ button to submit the registration form.\n**Step 05:** A confirmation page will appear, and a registration number will be sent to the applicant via SMS/email.\n**Step 06:** After the final submission, you can log into your account using your username and password.\n&gt; **Apply for scheme benefits:**\n\nTo avail of the benefits of the scheme, the eligible applicant may visit the nearest Antyodaya Kendra and fill up the application form.",
+  "references": [
+    {
+      "title": "Notification- English",
+      "url": "https://hrylabour.gov.in/staticdocs/labourpolicies/Haryana%20Silicosis%20Rehabilitation%20Policy%20(English).pdf"
+    },
+    {
+      "title": "Notification- Hindi",
+      "url": "https://hrylabour.gov.in/uploads/silicosis/Haryana_Silicosis_Rehabilitation_Policy.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://hrylabour.gov.in/"
+    },
+    {
+      "title": "Online Registration",
+      "url": "https://hrylabour.gov.in/silicosis/register/basicinfo"
+    },
+    {
+      "title": "Application Tracking",
+      "url": "https://hrylabour.gov.in/login/silicosis"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://hrylabour.gov.in/content/faq"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

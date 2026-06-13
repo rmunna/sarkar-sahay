@@ -1,0 +1,43 @@
+{
+  "slug": "iaicmc",
+  "name": "Incentive Award to Inter-Caste Married Couples",
+  "shortTitle": "IAICMC",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Adi Dravidar Welfare Department, Puducherry",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme “Incentive Award to Inter-Caste Married Couples” was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to reduce the effect of untouchability and as a step towards bringing about a casteless society.",
+  "descriptionMd": "The scheme “Incentive Award to Inter-Caste Married Couples” was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to reduce the effect of untouchability and as a step towards bringing about a casteless society.",
+  "benefitsMd": "An award with a value of ₹ 50,000/- (₹ 20,000/ - in cash, and ₹ 30,000/- in the form of a National Saving Certificate).",
+  "eligibilityMd": "- The bride and groom should be citizens of India.\n- The marriage should be performed between Scheduled Caste and other communities. \n- The marriage should be registered.\n- The marriage should be taking place for the first time between the bride and groom.\n- Both bride and groom or either of them should be a native of Puducherry.\n- The application should be submitted within 60 days from the date of performance of marriage.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the [Official Website](https://edistrict.py.gov.in/) of the e-District Portal of the Government of Puducherry.\n**Step 2:** At the top right corner of the home page, click &quot;[Login](https://edistrict.py.gov.in/Login.aspx)&quot;. In the login screen, click &quot;[Register a New Membership](https://edistrict.py.gov.in/User/Registration.aspx)&quot;.\n**Step 3:** On the Registration Page, fill in all the mandatory fields: Username, Password, Confirm Password, Personal Details (Full Name, First Name, Email Address, Address, Current Address, Gender, Date of Birth, Mobile Number). Agree to the declaration. Fill in the Captcha Code, and click &quot;Signup&quot;.\n**Step 4:** Visit the [Official Website](https://edistrict.py.gov.in/) of the e-District Portal of the Government of Puducherry.\n**Step 5:** At the top right corner of the home page, click &quot;[Login](https://edistrict.py.gov.in/Login.aspx)&quot;. In the login screen, provide your Username and Password, fill in the Captcha Code, and click &quot;Sign In&quot;.\n**Step 6:** On the next screen, a list of schemes by the Government of Puducherry will be displayed Department-wise.\n**Step 7:** Click on the scheme you wish to apply for. You will be taken to its online application form.\n**Step 8:** In the application form, fill in all the mandatory fields (marked with a red asterisk) and upload all the mandatory documents (self-attest if required). \n**Step 9:** Tick the declaration stating &quot;I hereby declare that the above-mentioned details are true and correct as per the best of my Knowledge&quot;. Submit the application and note the application number for [tracking your application](https://edistrict.py.gov.in/User/TrackApplication.aspx). The application number will also be received on your Registered Mobile Number / Registered Email ID.\n***Track Your Application** [here](https://edistrict.py.gov.in/User/TrackApplication.aspx)\n*** Access the User Manual for Online Application** [here](https://edistrict.py.gov.in/Help.rar)",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://py.gov.in/sites/default/files/adwincentive-award-inter-caste-married-couples.pdf"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://py.gov.in/sites/default/files/citizencharter-adidravidar.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://adwelfare.py.gov.in/contact-us"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://wcd.py.gov.in/ta/central-public-grievance-redress-and-monitoring-system"
+    },
+    {
+      "title": "Track Application Status",
+      "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

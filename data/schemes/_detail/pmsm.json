@@ -1,0 +1,31 @@
+{
+  "slug": "pmsm",
+  "name": "Post Metric Scholarship - Madhya Pradesh",
+  "shortTitle": "PMSMP",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Higher Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under the Post-Matric Scholarship is a Madhya Pradesh Government initiative to provide financial assistance to economically weaker social class students to pursue higher education after matriculation.",
+  "descriptionMd": "The Post-Matric Scholarship Under the Higher Education Department of Madhya Pradesh aimed at providing financial assistance to students belonging to economically weaker sections of society to pursue higher education after matriculation. This scheme helps alleviate the financial burden on students and encourages them to continue their education beyond the secondary level. It covers various expenses such as tuition fees, maintenance allowance, and other incidental costs associated with pursuing higher studies. By promoting access to education for all, regardless of financial constraints, the Post-Matric Scholarship scheme contributes to fostering inclusivity and empowering disadvantaged students to achieve their academic aspirations.\n<br>\n\n<br>",
+  "benefitsMd": "1. Reimbursement of full fee for professional courses when the fee is fixed by the Admission and Fee Regulatory Commission.\n1. Reimbursement of full fee prescribed in the course of government institutions\n1. In the courses of non-government colleges, half of the compulsory fee is reimbursed up to the income limit of ₹2,50,000/-, and for students with an income limit of ₹2,50,000/- to ₹6,00,000/-.\n1. Monthly living allowance in undergraduate and postgraduate courses-\n\n\n\n  - Non-hosteler- ₹300/-\n  - Hostel - ₹570/-",
+  "eligibilityMd": "•  The applicant should belong to the Scheduled Caste category.\n•  If the applicant studying in non-government institutions, the annual income limit of parents/guardians is up to ₹6,00,000/-.\n•  There is no income limit for government institutions.\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration**\n\n**Step-1:** Go to the official website of[ &quot;State Scholarship Portal 2.0&quot; ](http://www.scholarshipportal.mp.nic.in/Index.aspx)using a web browser.\n**Step-2:** Look for the option that says &quot;Register yourself&quot; on the homepage and click on it.\n**Step-3:** Read the registration guidelines carefully before proceeding. then click Continue.\n**Step-4:** Fill in the required details accurately in the registration form. This typically includes personal information such as\n           - Scholarship Category\n           - State\n           -  Name \n           -  Date of birth \n           -  Gender \n            -  Contact details, etc.\n**Step-5:** Click submit Register and you get your Student application ID.\n<br>\n\n> **Apply**\n\n**Step-1:** Go to the official website of [&quot;State Scholarship Portal 2.0&quot;](http://www.scholarshipportal.mp.nic.in/Index.aspx) using a web browser.\n**Step-2:**  [click on Login](http://www.scholarshipportal.mp.nic.in/sLogin.aspx)\n**Step-3:**  After that enter you\n              - Application ID.\n              - Password\n              - Captcha\n**Step-4:** Click Login and select your scheme name.\n**Step-5:** After clicking your scheme name then enter your name father&#39;s name, samgra ID, Aadhar number, bank account etc.\n**Step-6:** Now upload your photo signature and important documents.\n**Step-7:** Remember, the fields marked with an asterisk (*) are mandatory.\n**Step-8:** After filling in all your information details and uploading the documents click submit \n<br>\n\n> **After approval, reimbursement is made into the student&#39;s bank account.**",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://highereducation.mp.gov.in/?page=RdZcR%2FYL1Md3wesIflshHQ%3D%3D&leftid=ZnGWU%2BxYVl5%2BNBOUmwU4dg%3D%3D"
+    },
+    {
+      "title": "Login",
+      "url": "http://www.scholarshipportal.mp.nic.in/slogin.aspx?ReturnUrl=%2fPublic%2fOtherSchemes%2fGB.aspx%3fID%3dMTE%253d"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

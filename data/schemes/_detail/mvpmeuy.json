@@ -1,0 +1,31 @@
+{
+  "slug": "mvpmeuy",
+  "name": "Mukhyamantri Vyavsayik Pathyakram Margdarshan Evam Utpreran Yojana",
+  "shortTitle": "MVPMEUY",
+  "level": "state",
+  "state": "Bihar",
+  "nodalDept": "BC & EBC Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "This initiative offers free coaching to the students belonging to the backward class (BC) and extremely backward class (EBC) of Bihar, helping them prepare for competitive exams like NET, GATE, JRF, Ph.D., and M.Phil.",
+  "descriptionMd": "The &amp;quot;Mukhyamantri Vyavsayik Pathyakram Margdarshan Evam Utpreran Yojana&amp;quot; was launched by the Backward Class and Extremely Backward Class Welfare Department, Government of Bihar, aims to provide free pre-examination coaching to BC and EBC students. This initiative supports students aiming for competitive exams such as NET, GATE, JRF, and Ph.D. Programs. Coaching is offered at select universities and career guidance centers.\n<br>",
+  "benefitsMd": "- **Free Coaching:** Free coaching in the renowned [Career Guidance Centers(Page 26)](https://state.bihar.gov.in/cache/41/Department%20Info/Schemes/varsik2025s.pdf).\n**Note:****** There is no hostel provision in the centers.\n<br>",
+  "eligibilityMd": "1. The applicant must be a permanent resident of Bihar.\n   1. The applicant should belong to the Backward Class (BC) or Extremely Backward Class (EBC) categories.\n   1. The applicant’s annual family income should not exceed ₹3,00,000/-.\n   1. The applicant must meet the minimum educational qualifications required for the chosen competitive examination.\n\n**Note:** \n\n  - Applicants will appear for competitive exams under their respective courses. Selection will be based on a multiple-choice written test following the prescribed syllabus.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Download the [application form](https://state.bihar.gov.in/bcebcwelfare/CitizenHome.html).\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Send the completed application form and supporting documents to the concerned Director of the Carrier Guidance Centre through registered post or speed post to the below-mentioned address:\n\n1. Director, Vocational Course Guidance and Induction Centre, PMIR Department, Darbhanga House, Patna University, Patna – 800005 (Mobile No. 947303070).\n1. Director, Vocational Course Guidance and Induction Centre, Kautilya Bhawan, College of Commerce Arts and Sciences, Patliputra University, Patna - 800020. (Mobile No.-7992482978).\n1. Director, Vocational Course Guidance and Induction Centre, Post Graduate Psychology Department, Tilkamanjhi Bhagalpur University, Bhagalpur - 82007 (Mobile No.-9534675423).\n1. Director, Professional Course Guidance and Induction Centre, Post Graduate History Department, C.M. College, Darbhanga- 846004 (Mobile No.-962206097).\n1. Director, Vocational Course Guidance and Induction Centre, Post Graduate Hindi Department, Dr. Baba. Saheb Ambedkar. Bihar. university, Muzaffarpur- 842000 (Mobile No.-933490569)\n1. Director, Vocational Course Guidance and Induction Centre, Old Post Graduate Hindi Department, Bhupendra Narayan Mandal University, Madhepura- 852113 (Mobile No. 9934629245).\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page 24-25)",
+      "url": "https://state.bihar.gov.in/cache/41/Department%20Info/Schemes/varsik2025s.pdf"
+    },
+    {
+      "title": "Online Application",
+      "url": "https://bcebconline.bihar.gov.in/MCSYOnline/PETC/Default.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

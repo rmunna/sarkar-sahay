@@ -1,0 +1,39 @@
+{
+  "slug": "wbrupashree",
+  "name": "Rupashree Prakalpa",
+  "shortTitle": "RPWB",
+  "level": "state",
+  "state": "West Bengal",
+  "nodalDept": "Women and Child Development and Social Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to mitigate the financial difficulties faced by poor families in bearing the expenses of their daughters’ marriages. Under this scheme, a one-time financial grant of ₹25,000/- is provided to economically stressed families at the time of their adult daughters’ marriages.",
+  "descriptionMd": "The &amp;quot;Rupashree Prakalpa&amp;quot; scheme was launched by the Department of Women and Child Development and Social Welfare, Government of West Bengal, on 1st April 2018. The scheme aims to mitigate the financial difficulties faced by poor families in bearing the expenses of their daughters’ marriages, for which they often have to borrow money at very high interest rates. Under this scheme, a one-time financial grant of ₹25,000/- is provided to economically stressed families at the time of their adult daughters’ marriages. The scheme is being implemented across all districts of West Bengal.\n<br>",
+  "benefitsMd": "- Under this scheme, a one-time financial grant of ₹25,000/- is provided to economically stressed families at the time of their adult daughters’ marriages.\n\n**Note:**\n\n- The scheme’s financial benefit will be paid by direct bank transfer to a bank account held singly in the name of the applicant.\n- The sanctioned grant is transferred through IFMS (Integrated Financial Management System) to the bank account of the applicant. The fund transfer must be executed at least five days before the date of the proposed marriage.\n\n<br>",
+  "eligibilityMd": "1. The applicant should be a woman who proposes to be married.\n1. The applicant should have attained the age of 18 years.\n1. The applicant should be unmarried on the date of submitting her application.\n1. The proposed marriage should be her first marriage.\n1. The applicant should have been born in West Bengal, OR she should have been a resident of West Bengal for the last 5 years, OR her parents should be permanent residents of West Bengal.\n1. The applicant&#39;s family income should not be more than ₹1,50,000/- per annum.\n1. Her prospective groom should have attained the age of 21 years.\n1. The applicant should have an active bank account for which she is the sole account-holder. The bank account should be in a bank that has an IFSC (Indian Financial System Code) and a MICR (Magnetic Ink Character Recognition) code and transacts e-payments through NEFT (National Electronic Funds Transfer).\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1: Obtaining Application Form:** \n\n- The**** application forms will be free of cost and will be available at all Block, Sub-Divisional and Municipal Corporation Offices around the year. Applicants may also download the application form from the official portal using the following link: [Click Here](https://wbrupashree.gov.in/admin/searchapplicant_public/User_manual/rp_application_form)\n**Step 2: Submission of Application Forms and Supporting Documents:**\n\n- The submission of application forms, verification of supporting documents, and registration of the same will be done by the Block, Sub-Divisional, or Municipal Corporation Office under which the applicant&#39;s residence is located.\n\n**Notes:**\n\n- The application should be submitted 30-60 days before the proposed marriage date.\n- Each application will be assigned to an Enquiry Officer who will conduct field verification and submit an Enquiry Report. The verification process varies based on the applicant&#39;s location (rural/municipal/municipal corporation area).\n- The Sanctioning Officer (BDO/SDO/Commissioner) shall sanction all applications that have been successfully verified, and reject those that have a negative report or are ineligible. The applicant whose application is rejected will be informed about such rejection.\n- The Drawing and Disbursing Officer will transfer the sanctioned grant through IFMS to the bank account of the applicant. The fund transfer must be executed at least 5 days before the date of proposed marriage.\n\n<br>",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://wcdsw.wb.gov.in/schemes/"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://drive.google.com/file/d/10aQHIOr_vR_r3whEdj49j6z5KOtDqD2s/view"
+    },
+    {
+      "title": "Track Your Application",
+      "url": "https://rupashree.wb.gov.in/search-applicant/search-by-applicant"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://wcdsw.wb.gov.in/notice_pdf/view/TXpBPQ=="
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

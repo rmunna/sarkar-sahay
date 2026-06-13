@@ -1,0 +1,35 @@
+{
+  "slug": "isss-pot",
+  "name": "Integrated Social Security Scheme - Pension For Transgender",
+  "shortTitle": "ISSS-POT",
+  "level": "state",
+  "state": "Jammu and Kashmir",
+  "nodalDept": "Department Of Social Welfare J and K",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "ISSS (Integrated Social Security Scheme) is a State Sponsored Scheme by the Social Welfare Department of the Govt. of Jammu and Kashmir where financial assistance is provided to Old Age Persons, Widows, Divorcees, Women in Distress, Transgenders, and Physically Handicapped Persons.",
+  "descriptionMd": "ISSS (Integrated Social Security Scheme) is a State Sponsored Scheme by the Social Welfare Department of the Govt. of Jammu and Kashmir where financial assistance is provided to Old Age Persons, Widows, Divorcees, Women in Distress, Transgenders, and Physically Handicapped Persons. The scheme is funded through Plan and Non-Plan on the basis of a 50:50 sharing pattern. \n<br>\n\nThe scheme has the following components - \na)  Pension for Old Age Person\nb)  Pension for Women in Distress\nc)  Pension for Physically Challenged Person\nd)  Pension to Transgenders\n<br>\n\nUnder the &quot;Pension to Transgenders&quot; component of ISSS, a pension of ₹1000 per pensioner per month is deposited directly into their Bank Account through DBT mode. The aim of the scheme is to provide monthly financial assistance to Transgender Pensioners who have meager support or no source of livelihood.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant should be Transgender.\n1. The income of the applicant should be less than Rs. 75,000/- per annum or the applicant should be from the &quot;Below Poverty Line (BPL)&quot; Category.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jkdswdj.jk.gov.in/welfareSchemes/PensionSchemes.pdf"
+    },
+    {
+      "title": "Amendments",
+      "url": "https://socialwelfarekashmir.jk.gov.in/Notice_Board/AMENDMENT%20IN%20ISSS-TRANSGENDER%20UNDER%20ISSS%20THEREOF.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://jkdswdj.jk.gov.in/pdf/FORMISSS1.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

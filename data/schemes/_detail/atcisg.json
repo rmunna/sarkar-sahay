@@ -1,0 +1,28 @@
+{
+  "slug": "atcisg",
+  "name": "Assistance to Co-operative Irrigation Societies M. N. R.-10 (General Area)",
+  "shortTitle": "ATCISG",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Agriculture, Farmers Welfare and Cooperation Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Registered Societies",
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme \"Assistance to Co-operative Irrigation Societies, M. N. R.-10 (General Area)\"  aims to increase agricultural production by supporting irrigation cooperative societies through the provision of pumps and electric motors for efficient water distribution.",
+  "descriptionMd": "The scheme &amp;quot;Assistance to Co-operative Irrigation Societies, M. N. R.-10 (General Area)&amp;quot; by the Agriculture and Co-operation Department, Government of Gujarat, aims to enhance agricultural yield in the state by offering assistance to irrigation cooperative societies formed by farmers of a common area. The support involves establishing water distribution systems using pumps and electric motors on wells and agar creeks to facilitate effective irrigation.\n<br>",
+  "benefitsMd": "- **Monetary Benefit:** Financial assistance for setting up irrigation infrastructure (such as pumps and motors) for cooperative societies.\n<br>",
+  "eligibilityMd": "- Cooperative irrigation societies formed by small and marginal farmers, or any other farmers, are eligible under this scheme.\n  - The society should be located within the state of Gujarat.\n  - The Scheme is applicable to the General category.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit the District Registrar&#39;s Office and request a hard copy of the prescribed format of the application form.\n**Step 2:** In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the supporting documents to the District Registrar&#39;s Office.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 81)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

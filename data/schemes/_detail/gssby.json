@@ -1,0 +1,28 @@
+{
+  "slug": "gssby",
+  "name": "Gopabandhu Sambadika Swasthya Bima Yojana",
+  "shortTitle": "GSSBY",
+  "level": "state",
+  "state": "Odisha",
+  "nodalDept": "Information and Public Relations Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family",
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The “Gopabandhu Sambadika Swasthya Bima Yojana” was launched by the Information & Public Relations Department, Govt. of Odisha. It is a health insurance scheme that covers the medical expenses of the journalists and their eligible family members.",
+  "descriptionMd": "The scheme “Gopabandhu Sambadika Swasthya Bima Yojana” was launched by the Information &amp;amp; Public Relations Department, Government of Odisha. It is a health insurance scheme that covers the medical expenses of the journalists and their eligible family members. The scheme provides insurance to Working Journalists of Odisha and their family for indoor and outdoor treatments.",
+  "benefitsMd": "***The scheme provides health insurance coverage to all the working Journalists of the state and their families:***\n\n   1. ₹4,00,000/- is provided to the legal heir of the working journalist in case of his/her death.  \n   1. ₹2,00,000/- in case of permanent incapacitation.",
+  "eligibilityMd": "1. The applicant should be a Journalist.\n   1. The applicant should be an Odisha-based journalist working either in Odisha or New Delhi for an Odisha-based newspaper.\n   1. The Journalist should be working for a media house registered with the I&amp;amp;PR department, Odisha, New Delhi.\n   1. A newspaper hawker also eligible to apply for this scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 01**: Visit the official web portal of the Odisha Working Journalist Welfare Scheme Application. i.e. [https://owjws.odisha.gov.in/](https://owjws.odisha.gov.in/)\n**Step 02:** Click on ‘Apply for Gopabandhu Sambadika Swasthya Bima Yojana’ found on the bottom-left corner of the page.\n**Step 03:** One new page appears ‘Application for Gopabandhu Sambadika Swasthya Bima yojana’.\n**Step 04:** The journalist will have to fill up the ‘Applicant details’, ‘Education details’, ‘Dependent family details’, and ‘Present Workplace’ with relevant document details.\n**Step 05:** Upon successful form submission One application number is generated which a journalist can use for further reference. i.e. for application status.\n**Step 06:** The applicant will receive an SMS in the respective registered mobile number regarding the successful submission of the application.\n**Step 07:** The applicant can login into the application by giving the respective registered mobile number.\n**Step 08:** After giving the mobile number, the journalist will receive an OTP on the mobile number. On successful submission of OTP, the applicant will able to login into the application.\n**Step 09:** On the page, the applicant will be able to view the application status.",
+  "references": [
+    {
+      "title": "Guidelines And Official Website",
+      "url": "https://owjws.odisha.gov.in/about-us"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

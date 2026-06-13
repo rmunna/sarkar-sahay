@@ -1,0 +1,36 @@
+{
+  "slug": "jmws-assam",
+  "name": "Journalist's Medical Welfare Scheme - Assam",
+  "shortTitle": "JMWS-ASSAM",
+  "level": "state",
+  "state": "Assam",
+  "nodalDept": "Information and Public Relations Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The Journalist's Medical Welfare Scheme was first implemented in 2012 by the Government of Assam. Under this scheme, one-time financial assistance is provided to the accredited and recognized journalists of Assam for their medical treatment.",
+  "descriptionMd": "In consideration of the long pending demands of the journalists in the State for their welfare etc. the State Govt. has considered to introduce a new scheme viz. “Journalist Medical Welfare Scheme” for financial assistance to the Accredited Journalist as identified by the Director of Information &amp;amp; Public Relations (DIPR) Assam under the Rule of the Assam Press Correspondents (Accredited/ Recognitions) Rules, 1989 for Medical treatment of such journalists who suffer from:-\n&lt;br&gt;\n\n1.\t Complicated ailments needing long-term, highly expensive treatment/involving the transplant of organs/complicated surgeries/long-term medical treatments, e.g. cardiological/ nephrological/ oncological/ neurological/ gastroenterogical/ endoerinological etc. in nature.\n2.\tComplicated surgical treatments arising out of injury caused by accidents etc. including the cost artificial replacements of etc., as and where required.\n3.\tIncurable chronic ailments requiring life-saving devices/treatment etc.\n4.\tAny other serious health-related problems that may be Medically Diagnosed to be of life-threatening nature. For this purpose the State Govt. have introduced a new Head of Accounts in the Annual Budget Estimates from the financial year 2009-10 and the fund provided under this Head of Account shall be administered by a committee to be constituted by the Information &amp;amp; Public Relations Department with the following members and the D.D.O. powers shall be delegated to the DIPR, Assam. \n&lt;br&gt;\n\nUnder this scheme, one-time financial assistance is provided to the accredited and recognized journalists of Assam for their medical treatment. This scheme covers the medical requirements of the journalist as well as their dependent family members. This financial assistance is extended out of the interest accrued from the corpus fund of the scheme.\n<br>",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant should be a citizen of India.\n1. The applicant should be an ordinary resident of Assam.\n1. The applicant must be a journalist who is formally accredited / recognised by the DIPR and fulfil all the norms required for the said accreditation/ recognition.\n\n<br>\n\n**General Note:** Grant of financial assistance to any working journalist is not a matter of right. Assistance would be extended depending on the Committees satisfaction as to the eligibility/ merits of the cases and the availability of the financial resources for the purpose. The Committee reserves the right to reject or accept any application without assigning any reasons thereof.\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Website",
+      "url": "https://dipr.assam.gov.in/portlet-innerpage/journalists-medical-welfare-scheme-0"
+    },
+    {
+      "title": "Website",
+      "url": "https://dipr.assam.gov.in/how-to/apply-for-journalists-medical-welfare-scheme-0#Overview"
+    },
+    {
+      "title": "Office Memorandum",
+      "url": "https://dipr.assam.gov.in/sites/default/files/swf_utility_folder/departments/dipr_webcomindia_org_oid_4/portlet/level_2/journalist_medical_new.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

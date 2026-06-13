@@ -1,0 +1,31 @@
+{
+  "slug": "sgstsc9t10",
+  "name": "State Government ST Scholarship (Class 9 to 10)",
+  "shortTitle": "SGSTSC9T10",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Tribal Welfare and Scheduled Caste (SC) Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme was launched by the Tribal Affairs Department, Government of Madhya Pradesh, aims to encourage education among Scheduled Tribe students and improve their educational status. This scheme provides scholarships to Scheduled Tribe students in Classes 9 and 10.",
+  "descriptionMd": "The &amp;quot;State Government ST Scholarship (Class 9 to 10)&amp;quot; scheme, launched by the Tribal Affairs Department, Government of Madhya Pradesh, aims to encourage education among Scheduled Tribe students and improve their educational status. This scheme provides scholarships to Scheduled Tribe students in Classes 9 and 10. To be eligible, students must be natives of Madhya Pradesh and belong to the Scheduled Tribe category. There is no restriction on the annual family income of the students.",
+  "benefitsMd": "Under this scheme, scholarships will be provided to Scheduled Tribe students at the following rates:\n\n  - For Classes 9 to 10: ₹600/- per year for boys and ₹1,300/- per year for girls.\n\n**Note:** The scholarship amount will be transferred directly into the student&amp;#39;s bank account.",
+  "eligibilityMd": "1. The applicant should be a student.\n   1. The student should be a native of Madhya Pradesh.\n   1. The student should be studying in Class 9 or Class 10.\n   1. The student should belong to the Scheduled Tribe category.\n   1. There is no restriction on the students&amp;#39; annual family income.\n\n**Note 1:** The students will be eligible for scholarships even if they fail for 1 year.\n**Note 2:** Reapplication is not required for the renewal of the scholarship.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- To avail of the benefits under this scheme, eligible students can contact the Principal of their respective schools/institutions.\n\n**Note:** The profile of the students is entered on the education portal [https://shikshaportal.mp.gov.in/](https://shikshaportal.mp.gov.in/) by the teacher of the educational institution as per the record/certificate provided by the student.",
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=891"
+    },
+    {
+      "title": "Guidelines (Page No. 73)",
+      "url": "https://aiggpa.mp.gov.in/uploads/publication/Social_Protection_Eng.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

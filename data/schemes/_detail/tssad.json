@@ -1,0 +1,27 @@
+{
+  "slug": "tssad",
+  "name": "The Scheme Of State Award For Disabled",
+  "shortTitle": "TSSAD",
+  "level": "state",
+  "state": "Maharashtra",
+  "nodalDept": "Social Justice and Special Assistance Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The \"The Scheme of State Award for Disabled\" is a scheme by the Dept. of Social Justice & Special Assistance, Govt. of Maharashtra. In this scheme, every year, the State Government felicitates awards to the Best Disabled Employees/Employers/Placement Agencies who have done outstanding work.",
+  "descriptionMd": "The &quot;The Scheme of State Award for Disabled&quot; is a scheme by the Department of Social Justice &amp; Special Assistance, Govt. of Maharashtra. In this scheme, every year, the State Government felicitates awards to the Best Disabled Employees / Employers / Placement Agencies who have done outstanding work in various fields. Only citizens who are permanent residents of the state of Maharashtra are eligible to apply for this scheme. This scheme is 100% funded by the Govt. of Maharashtra.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant should be an Employee or an Employer or a Placement Agency.\n1. If the applicant is an Employee or an Employer:\n1. The applicant should be a Person with Disability (Visually Impaired, Hearing Impaired, Orthopedically Handicapped, etc).\n1. The percentage of disability should be 40% and above.\n1. The applicant should be a citizen of India.\n1. The applicant should be a permanent resident of the state of Maharashtra.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

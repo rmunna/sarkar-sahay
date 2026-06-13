@@ -1,0 +1,27 @@
+{
+  "slug": "asksy",
+  "name": "Akhil Bhartiya Sanskrit Kavi Sammelan",
+  "shortTitle": "ABSKS",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department Of Sanskrit Education",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to promote and popularize Sanskrit language and literature by encouraging poets who compose and recite in Sanskrit. 15 poets from Uttarakhand and other states are invited to present their works at national/state festivals, each receiving ₹2501/-.",
+  "descriptionMd": "The scheme “Akhil Bhartiya Sanskrit Kavi Sammelan” is implemented by the Uttarakhand Sanskrit Academy, Haridwar, under the Department of Sanskrit Education, Government of Uttarakhand. The aim of the scheme is to promote and popularize the Sanskrit language and literature by encouraging poets who compose and recite poetry in Sanskrit.\n<br>",
+  "benefitsMd": "An honorarium of ₹2501/- is given to each invited poet.\n<br>",
+  "eligibilityMd": "1. The fifteen Sanskrit poets from Uttarakhand and other states, who compose and recite poetry in Sanskrit, are invited.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "The Kavi Sammelan is organized by the Uttarakhand Sanskrit Academy to commemorate national and state festivals. The program coordinator prepares a list of renowned Sanskrit poets from schools, colleges, and universities across the country. The proposed list is submitted to the competent authority for approval. Based on the approved list, poets recommended by the Secretary of the Uttarakhand Sanskrit Academy are invited to recite their poetry.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 58)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

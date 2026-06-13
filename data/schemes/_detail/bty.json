@@ -1,0 +1,31 @@
+{
+  "slug": "bty",
+  "name": "Balram Talab Yojana",
+  "shortTitle": "BTY",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Farmer Welfare and Agriculture Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to conserve rainwater in fields to help farmers, ensuring water availability during irrigation and drought conditions. Farmers receive subsidies up to ₹1,00,000/- for pond construction.",
+  "descriptionMd": "The scheme &quot;Balram Talab Yojana&quot; was launched by the Farmer Welfare and Agricultural Development Department, Government of Madhya Pradesh. The scheme aims to support agriculture activities on a sustainable basis by conservation of rainwater in the field, enriching surface and groundwater availability. Only those farmers who have installed drip or sprinkler sets in financial year 2017-18 or thereafter and currently in operational condition will be granted approval for subsidized pond construction.\n<br>",
+  "benefitsMd": "- General category farmers receive 40% of the construction cost or maximum ₹80,000/- as subsidy.\n- Small and marginal farmers receive 50% of the construction cost or maximum ₹80,000/- as subsidy.\n- Scheduled Caste or Scheduled Tribe category farmers receive 75% of the construction cost or maximum ₹1,00,000/- as subsidy.\n\n##### ***Disbursement***\n\n- The subsidy will be disbursed to the beneficiary based on the progress of pond construction.\n- The subsidy will be provided within 30 days based on the evaluation by the Soil Conservation Staff.\n\n##### ***Conditions***\n\n- All conditions and eligibility must be verified by the Soil Conservation Survey Officer before subsidy benefits are provided.\n- Before providing the benefit under this scheme, verification of the land will be conducted by the Conservation Survey Officer.\n- From a security perspective, it is mandatory to install a board at the pond site to prevent drowning incidents. This must be installed at the farmer&#39;s own expense. In the absence of a board, if any accident occurs, the farmer will be solely responsible.\n\n<br>",
+  "eligibilityMd": "- The applicant must be a permanent resident of Madhya Pradesh.\n- The applicant must possess agricultural land.\n- The applicant must have installed drip or sprinkler sets in financial year 2017-18 or thereafter, and these must be currently in operational condition, to be eligible for subsidized pond construction.\n- The applicant must construct the pond on their own land. Subsidy will not be provided for pond construction on leased land.\n\n<br>",
+  "exclusionsMd": "The farmer who has already received the benefit of this scheme is not eligible.\n<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the [MP DBT Agriculture Portal](https://farmer.mpdage.org/). Navigate to the &quot;पंजीकरण&quot; (Registration) section. Complete Aadhaar authentication using OTP.\n**Step 2:** On the next screen, provide your personal details: Name, Address, Mobile Number, and Land Ownership Information. Upload the following mandatory documents: Aadhaar Card, Land Records (e.g., Khasra/Khatauni), Bank Passbook, Passport-size Photo.\n**Step 3:** On the next screen, a list of available schemes will be displayed. Select &quot;Balram Talab Yojana&quot; scheme from the list. You will be taken to the online form of the scheme.\n**Step 4:** In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. \n**Step 5:** Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Submit the application and note the application ID for future tracking.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cdn.s3waas.gov.in/s3b1d10e7bafa4421218a51b1e1f1b0ba2/uploads/2018/07/2018071785.pdf"
+    },
+    {
+      "title": "CM Helpline",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=BySchemeFor&pointvalue=1&Schemeid=92"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

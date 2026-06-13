@@ -1,0 +1,37 @@
+{
+  "slug": "gspmsfv",
+  "name": "Grant of Subsidy for Purchase of Mobile Sea Food Van",
+  "shortTitle": "GSPMSFV",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Fisheries and Fishermen Welfare Department, Puducherry",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Individual",
+    "Self Help Groups (SHGS)",
+    "Registered Societies"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide the beneficiary with a mobile seafood van. This van, financed through a combination of bank loan and departmental subsidy (25% and 75%, respectively), is intended for the sale of fresh and processed fish and fishery products in areas not served by regular markets.",
+  "descriptionMd": "Launched in 2010, the scheme &quot;Grant of Subsidy for Purchase of Mobile Sea Food Van&quot; is a subsidy scheme under the &quot;Puducherry Development of Shore Based Facilities, Ice Plants, Service Unit, Infrastructural Facilities, and Quick Transport Facilities Rules, 2010&quot; by the Department of Fisheries and Fishermen Welfare, Government of Puducherry. The scheme aims to provide fisherwomen, fisherwomen self-help groups, and Fisherwomen Co-operative Societies in the Union territory of Puducherry with a mobile seafood van. This van, financed through a combination of bank loan and departmental subsidy (25% and 75%, respectively), is intended for the sale of fresh and processed fish and fishery products in areas not served by regular markets. It focuses on maintaining hygiene and offering competitive prices to the public.",
+  "benefitsMd": "1. The scheme provides a subsidy of 75% on the cost of the mobile seafood van, including fabrication of the body, procurement of an insulated ice-box, a two-burner stove, cooking utensils, and accessories.\n2. The remaining 25% is expected to be covered by a bank loan.\n<br>\n\n> **MODE OF DISBURSEMENT**\n\nThe subsidy portion will be released to a separate account of the beneficiary in the bank.",
+  "eligibilityMd": "1. The applicant should belong to the fishermen community.\n2. The applicant should be a resident of the Union territory of Puducherry by birth/domicile.\n3. The applicant should be a non-overdue member of the Primary Fisheries Co-operative Society concerned.\n4. The applicant should be between 18 and 50 years old.\n5. The applicant should not be employed in Government, Government Undertaking, or societies, either part-time or full-time.\n6. The applicant should be a registered Fisherwomen Co-operative Society in the Union territory of Puducherry, or a group under SHGs registered under District Rural Development Agency and Puducherry Urban Development Agency fold.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit the [Office/ Sub-Office](https://fisheries.py.gov.in/sub-offices) of the Department of Fisheries and Fishermen Welfare.\n**Step 1:** The interested applicant should request the hard copy of [the prescribed format](https://fisheries.py.gov.in/sites/default/files/mobile-sea-food-van.pdf) of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines & Application Form",
+      "url": "https://fisheries.py.gov.in/sites/default/files/mobile-sea-food-van.pdf"
+    },
+    {
+      "title": "List Of Sub-Offices",
+      "url": "https://fisheries.py.gov.in/sub-offices"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://fisheries.py.gov.in/contact-us"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

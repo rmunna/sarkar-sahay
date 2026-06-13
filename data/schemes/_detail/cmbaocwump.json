@@ -1,0 +1,31 @@
+{
+  "slug": "cmbaocwump",
+  "name": "Chief Minister's Building and Other Construction Workers Urban Housing Scheme (MPBOCWWB)",
+  "shortTitle": "CMBAOCWUMP",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme was revised in 2018, the \"Chief Minister's Building and Other Construction Workers Urban Housing Scheme,\" to provide an additional ₹1,00,000 assistance to eligible construction workers in urban areas, along with grants from the Central and State Governments.",
+  "descriptionMd": "The &quot;Chief Minister&#39;s Building and Other Construction Workers Urban Housing Scheme&quot; by the Labour Department, Govt. of Madhya Pradesh provides ₹1,00,000 in assistance to eligible urban construction workers, along with Central and State Government grants. This scheme also supports workers eligible under the Pradhan Mantri Awas Yojana.",
+  "benefitsMd": "₹1,00,000/- assistance to construction workers.",
+  "eligibilityMd": "**For Registration**\n\n1. The applicant should be a resident of Madhya Pradesh.\n1. The applicant should be a Building/ Construction Worker.\n1. The applicant should be between 18 and 60 years.\n1. The applicant should have engaged in any building or other construction work for at least 90 days during the preceding 12 months.\n1. The registration of the applicant should be renewed annually.\n\n**For Application**\n\n1. The construction workers with valid identity cards and registration as beneficiaries under the Act before the publication of the scheme in the Gazette.\n1. The construction workers registered after the publication of the scheme in the Gazette will be eligible to receive benefits after 1 year from the registration date.\n1. The beneficiaries must be registered under the Act to qualify for the scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit (during office hours) the Commissioner Municipal Corporation / Chief Municipal Officer Nagar palika / Nagar Panchayat and request the hard copy of the prescribed format of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.\nStep 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n**NOTE:** Ensure that the application is submitted within the prescribed period, if any.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://labour.mp.gov.in/Public/Pages/Schemes/MukhyamantriBhavanAvasYojna.aspx"
+    },
+    {
+      "title": "Labour Registration",
+      "url": "https://labour.mp.gov.in/Public/Registration/BeneficiaryRegistrationRequest.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

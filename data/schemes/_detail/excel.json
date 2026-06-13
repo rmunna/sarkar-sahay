@@ -1,0 +1,31 @@
+{
+  "slug": "excel",
+  "name": "Employability Excellence with College Education & Learning (EXCEL)",
+  "shortTitle": "EXCEL",
+  "level": "state",
+  "state": "Jharkhand",
+  "nodalDept": "Labour, Employment, Training and Skill Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The EXCEL program is a skill development initiative by the Jharkhand Government targeting 10+2 pass-out or university-level students. It integrates skill training with traditional education programs in colleges to improve employability.",
+  "descriptionMd": "The “Employability Excellence with College Education &amp; Learning (EXCEL)” is a component of the umbrella scheme “Mukhymantri Sarthi Yojna” launched by the Department of Labour, Employment, Training and Skill Development, Jharkhand. It integrates skill training with traditional education programs in colleges to improve employability. The program focuses on life skills, spoken English, computer skills, and domain-specific training, benefitting students with industry-aligned capabilities.",
+  "benefitsMd": "1. Provides training alongside traditional education in college campuses.\n1. Enhances employability through life skills, communication, and domain-specific training.\n1. Free-of-cost training conducted within existing college infrastructure.",
+  "eligibilityMd": "1. The applicant should be a student.\n1. The student must have completed their 12th education.\n1. Open to university students, former pass-outs, and non-college-going youth from the community are eligibile.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "> ***Candidate registration by TSP:***\n\n\n- The candidate visits the nearest [Training Service Provide Center](https://jsdm.jharkhand.gov.in/jsdm/cms/en/) for registration under the &quot;Mukhymantri Sarthi Yojna&quot; scheme. \n**NOTE:** Candidate registration would be Aadhaar-based &amp; hence Aadhaar number at the time of candidate registration would be mandatory.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jsdm.jharkhand.gov.in/jsdm/cms/en/excel/"
+    },
+    {
+      "title": "Online Application",
+      "url": "https://jsdm.jharkhand.gov.in/jsdm/cms/en/#"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "mmlby",
+  "name": "Mukhyamantri - Majhi Ladki Bahin Yojana",
+  "shortTitle": "MMLBY",
+  "level": "state",
+  "state": "Maharashtra",
+  "nodalDept": "Women and Child Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Mukhyamantri - Majhi Ladki Bahin Yojana\" is for the economic freedom of women in the state age group of 21 to 65, improving their health and nutrition and strengthening their decisive role in the family. The women will receive a financial benefit through direct benefit transfer.",
+  "descriptionMd": "The &quot;Mukhyamantri - Majhi Ladki Bahin Yojana&quot; scheme was launched by the Women and Child Development Department, Government of Maharashtra. The scheme aims to give economic freedom to women in the state age group of 21 to 65 years, improving their health and nutrition and strengthening their decisive role in the family. The women will get a financial benefit of ₹1,500/- through direct benefit transfer (DBT).",
+  "benefitsMd": "- **Financial Assistance of ₹1,500/- per month.**",
+  "eligibilityMd": "1. The applicant should be a female.\n1. The applicant should be a resident of Maharashtra state.\n1. The applicant&#39;s age should be between 21-65 years.\n1. The applicant should have their bank account with an Aadhaar link.\n1. The annual income of the applicant&#39;s family should not exceed ₹2,50,000/-. \n1. Outsourced employees, voluntary workers, and contract workers with income up to ₹2,50,000/- are eligible.\n1. The applicant should be any one of the following:\n\n\n\n  - Married Woman \n  - Widowed \n  - Divorced Woman\n  - Abandoned and Destitute Women \n  - One Unmarried Woman in the family",
+  "exclusionsMd": "1. The combined annual family income is more than ₹2,50,000/-.\n1. The family member is an income taxpayer.\n1. The family members are working as regular/permanent employees in a government department/undertaking/board/government of India or local body of the state government or are drawing pensions after retirement. \n1. The beneficiary women received ₹1,500 per month through the financial scheme implemented by other departments of the government.\n1. The family member is a present or former MP/MLA.\n1. The family member is the Chairman/Vice-Chairman/Director/Member of the Board/Corporation/Undertaking of the Government of India or State Government.\n1. A person has a four-wheeler (excluding a tractor) registered in the name of their family members.",
+  "applicationMode": "Online",
+  "applicationMd": "***Registration Process:***\n**Step 01:** The interested applicant visit the [official website](https://ladakibahin.maharashtra.gov.in/). \n**Step 02:** Select &quot;**Applicant Login**&quot; and click on &quot;**Create Account**.&quot;\n**Step 03:** Complete the registration form with the following details: Full Name as per Aadhaar, Mobile No, Password, Confirm Password, District, Taluka, Village, Municipal Corporation / Council, Authorized Person &amp; Accept Terms and Conditions. \n**Step 04:** Enter the Captcha code and click &quot;Sign-up.&quot; You will receive an OTP.\n**Step 05:** Enter the OTP and the Captcha code again.\n**Step 06:** Click &quot;**Verify the OTP**&quot; to receive a message confirming that your login was successful.\n<br>\n\n***Application Process:***\n**Step 01:** Log in to the portal using your Mobile number, Password, and Captcha to log in.\n**Step 02:** Click on &quot;**Application of Mukhyamantri - Majhi Ladki Bahin Yojana**&quot; and enter your Aadhaar Number and Captcha.\n**Step 03:** Click on &quot;**Valid Aadhaar**&quot; and complete the registration form with the applicant&#39;s name, bank details, and permanent address.\n**Step 04:** Upload relevant documents such as an Aadhaar card, Domicile certificate, Ration card, etc.\n**Step 05:** Click &quot;**Submit**&quot; to receive your application ID via SMS.\n<br>\n\n***Check the Status:***\n**Step 01:** Log in to the portal using your Mobile number, Password, and Captcha to log in.\n**Step 02:** Click on &quot;**Applications Made Earlier**&quot; to view the status of your applications.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ladlibahinstorage.s3.ap-south-1.amazonaws.com/site-pdf/%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%95+%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE+%E0%A4%A6%E0%A4%BF.%E0%A5%A8%E0%A5%AD.%E0%A5%A6%E0%A5%AD.%E0%A5%A8%E0%A5%AA.pdf#toolbar=0"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

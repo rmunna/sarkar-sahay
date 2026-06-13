@@ -1,0 +1,31 @@
+{
+  "slug": "fssdu",
+  "name": "Financial Support Scheme",
+  "shortTitle": "FSSDU",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Higher Education",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide financial assistance to financially weak students of the University of Delhi to help them overcome financial challenges and continue their education without hardship.",
+  "descriptionMd": "The Department of Distance &amp;amp; Education, School of Open Learning, Campus of Open Learning (DDCE/SOL/COL), in the spirit of facilitating financially weak students as per guidelines decided by the University of Delhi, has announced the Financial Support Scheme for DDCE/SOL/COL students. This scheme is reflected through a fee waiver/refund for the students enrolled in DDCE/SOL/COL and having their family income below the poverty line. The fee waiver/refund includes all components of the fee paid by students except the examination fee and the university fee.\n<br>",
+  "benefitsMd": "<br>\n\n**S. No.****Family income (in ₹) per annum****Fee waiver (percentage)****Remarks**Category 1Less than or equal to ₹ 4,00,000/Up to 100%Actual fee or up to a maximum of ₹ 15000/-Category 2Between ₹ 4,00,000/- and ₹ 8,00,000/-Up to 50%Actual fee or up to a maximum of ₹ 10,000/-<br>",
+  "eligibilityMd": "- A full-time bonafide student studying in any UG/PG Program in a department/institute/center of the University of Delhi (UoD). \n  - The family income of the student should be less than ₹ 8,00,000/-.\n  - Students enrolled in constituent colleges of UoD. \n  - B.Tech Programs (excluding CIC) Five-year integrated LAW programs, SoL and NCWEB are NOT eligible.\n\n<br>",
+  "exclusionsMd": "- 2nd, 3rd &amp;amp; 4th year candidates with ER/Arrears of previous examination papers are not eligible to apply.\n<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Eligible students can fill in the online [application form](https://fss.oldcdu.ac.in/) available on the website of the Dean&amp;#39;s Students’ Welfare Office.\n**Step 2:** Students must submit a copy of their application form and all documents after due attestation and recommendation from the head/director of the concerned department/center/institute at DSW office.\n**Step 3:** The schedule for the submission of the hard/printed copy of the application form will be declared in the DSW website.\n&gt; ***Helpdesk:***\n\nFor any queries kindly contact: fss@dsw.du.ac.in\n&gt; ***Office Address:***\n\nDean Students’ Welfare,\nConference Centre (Gate No. 4),\nOpposite Botany Department,\nUniversity of Delhi,\nDelhi – 110007\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=16152&cntnt01returnid=219"
+    },
+    {
+      "title": "Notice On Document Submission For FSS",
+      "url": "https://www.du.ac.in/uploads/new-web/06102025_Notice_Schedule_Submission_Documents_FSS.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

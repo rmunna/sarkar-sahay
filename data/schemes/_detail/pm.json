@@ -1,0 +1,35 @@
+{
+  "slug": "pm",
+  "name": "Plastic Mulching",
+  "shortTitle": "PM",
+  "level": "state",
+  "state": "Rajasthan",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under the Plastic Mulching scheme, the Rajasthan government provided subsidies to farmers. In this, the soil surface of the field is covered with plastic film. Farmer can also use crop residues for laying mulch.",
+  "descriptionMd": "The plastic Mulching scheme under the Agriculture Department of the Rajasthan government provided subsidies to farmers. Using plastic mulch helps prevent soil compaction and compaction. This material blocks moisture and heat and limits the loss of plant nutrients. Plastic mulch is the most restrictive of all the mulching materials available on the market, so it is well-suited for drip irrigation. Additionally, the plastic layer prevents people and pets from walking in the area, further strengthening the soil structure.\n<br>\n\n> **Other important points**\n\n\n1. Plastic mulching can be constructed only after administrative approval is issued by the Horticulture Department.\n1. Verification can be done by the committee formed after construction.\n1. The payment of the grant amount will be transferred directly to the farmer&#39;s bank account.",
+  "benefitsMd": "1. Small/marginal farmers can get a 25% subsidy on up to 2 hectares of land.\n1. Other farmers can get a 50% subsidy on up to 2 hectares of land.",
+  "eligibilityMd": "1. The applicant should be a farmer.\n1. The applicant should be a native of Rajasthan.\n1. The applicant must have agricultural land ownership and irrigation sources.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n**Step-5:** Complete the registration process.\n<br>\n\n> **Apply**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, [dashboard ](https://sso.rajasthan.gov.in/dashboard)will open.\n**Step-3:** Click on “ RAJ-KISAN ” option. \n**Step-4:** In &quot;Farmer&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah ID&quot; or &quot;Janaadhaar ID&quot; and search.  \n**Step-6:** Select the person&#39;s name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on Get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/register"
+    },
+    {
+      "title": "Login",
+      "url": "https://sso.rajasthan.gov.in/signin"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

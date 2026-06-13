@@ -1,0 +1,35 @@
+{
+  "slug": "psoap",
+  "name": "Pension Scheme to Old Age Persons (Senior Citizen)-DNH&DD",
+  "shortTitle": "PSOAP",
+  "level": "state",
+  "state": "Dadra & Nagar Haveli and Daman & Diu",
+  "nodalDept": "Social Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The objective of this scheme is to provide financial support to eligible senior citizens to cater to their basic needs. The scheme benefits senior citizens aged 60 years and above, providing a monthly pension of ₹1,500/- for those aged 60–69 years and ₹2,000/- for those aged 70 years and above.",
+  "descriptionMd": "The scheme “Pension Scheme to Old Age Persons (Senior Citizen)” is implemented by the Social Welfare Department, UT of Dadra &amp;amp; Nagar Haveli and Daman &amp;amp; Diu. The scheme aims to support senior citizens in meeting their basic needs during old age. It is specifically targeted at domicile of Dadra &amp;amp; Nagar Haveli and Daman &amp;amp; Diu who are 60 years and above, with an annual family income not exceeding ₹1.5 lakh per annum. Under this scheme, eligible individuals aged 60–69 years receive a monthly pension of ₹1,500/-, while those aged 70 years and above receive ₹2,000/- per month. \n<br>",
+  "benefitsMd": "**Quantum &amp; Nature of Assistance:**\n1.\tSenior citizens aged 60–69 years: Monthly pension of ₹1,500/-.\n2.\tSenior citizens aged 70 years and above: Monthly pension of ₹2,000/-.\n**Note:** The mode of fund transfer shall be Direct Benefit Transfer (DBT).",
+  "eligibilityMd": "1. The applicant should be a domicile of the Dadra &amp;amp; Nagar Haveli and Daman &amp;amp; Diu.\n   1. The applicant should be 60 years or older.\n   1. The applicant&amp;#39;s annual family income should not exceed ₹1,50,000/-.\n   1. The applicant should not be receiving financial assistance under any other old age pension scheme.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Application Process:**\n**Step 1:** The applicant can collect the application form from the office of the District Panchayat or Municipal Council of the concerned district. Alternatively, the form can be [downloaded](https://dnhpanchayat.in/uploads/scheme/ApplicationFormsNSAP.pdf) from the official website.\n**Step 2:** The applicant should carefully fill out the application form and attach all necessary documents.\n**Step 3:** The duly filled application form, addressed to the Chief Executive Officer/Chief Officer of the concerned District Panchayat/Municipal Council, should be submitted to the Gram Panchayat/District Panchayat/Municipal Council of the concerned district.\n&lt;br&gt;\n\n**Post Application Process:**\n**Step 1:** Field-level staff of the District Panchayat/Municipal Council will verify the submitted documents and scrutinize the application. They will also collect a life certificate from the beneficiaries annually.\n**Step 2:** The Chief Executive Officer/Chief Officer of the respective District Panchayat/Municipal Council will review and approve the applications.\n&lt;br&gt;\n\n**Timelines:**\n•\tApplication process: The application may be processed within 30 (thirty) days from the date of receipt.\n•\tPayment disbursement: Once the application is approved by the Approving / Recommending authorities, the payment shall be disbursed into the bank account of the senior citizens by the fifth of every month.\n&lt;br&gt;\n\n**Grievance Redressal &amp;amp; Contact:**\nFor any grievance, the aggrieved senior citizen may approach the Chief Executive Officer/Chief Officer of District Panchayat / Municipal Council in the concerned district or District Collector of the concerned district or the Department of Social Welfare.\n<br>",
+  "references": [
+    {
+      "title": "Notification",
+      "url": "http://daman.nic.in/jobs/2021/115-06-03-2021.pdf"
+    },
+    {
+      "title": "Website",
+      "url": "https://dnhpanchayat.in/scheme/details/22"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://dnhpanchayat.in/uploads/scheme/ApplicationFormsNSAP.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

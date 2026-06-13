@@ -1,0 +1,31 @@
+{
+  "slug": "cmhr",
+  "name": "Chief Ministers House Rent ",
+  "shortTitle": "CMHR",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Department of De-notified, Nomadic and Semi-nomadic Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Chief Minister's House Rent\" scheme by the Department of De-notified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, provides ₹1,000 to ₹2,000 per student per month in Bhopal, Indore, Jabalpur, Gwalior, and Ujjain.",
+  "descriptionMd": "The &quot;Chief Minister&#39;s House Rent&quot; scheme, implemented by the Department of De-notified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, provides a house rent allowance of ₹2,000 per student per month in Bhopal, Indore, Jabalpur, Gwalior, and Ujjain; ₹1,250 per student per month at district headquarters; and ₹1,000 per student per month in tehsil/development block headquarters and other cities. A third-party evaluation will be conducted to assess the results and impact of the scheme. Any rent amount exceeding the prescribed allowance must be borne by the students themselves. Apart from the house rent allowance, no other facility will be provided by the department.",
+  "benefitsMd": "- ₹2,000/- per student in Bhopal, Indore, Jabalpur, Gwalior, and Ujjain.\n- ₹1,250/- at district headquarters.\n- ₹1,000/- in tehsil/development block headquarters and other cities.\n- Helps students with housing expenses.",
+  "eligibilityMd": "1. The applicant should be regularly admitted to colleges or equivalent institutions and not in any government hostel.\n1. The applicant should be admitted before the last date and submit &#39;Appendix-B&#39;.\n1. The applicant should be within the income limit of the Post Metric Scholarship Scheme.\n1. The applicant should be responsible for any excess rent beyond the prescribed allowance.\n1. The applicant should be ineligible for the scheme if they fail in any year.\n1. The applicant should be aware of the third-party evaluation and annual review of the scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration**\n\n**Step 1:** Visit the &quot;[Samarth Portal](https://samarth.mp.gov.in/Default)&quot;.\n**Step 2:** Navigate to the top right corner of the homepage and click &quot;[Registration&quot;.](https://samarth.mp.gov.in/Registration/Default)\n**Step 3:** On the registration page, provide the mandatory details. (the fields marked with * are mandatory). If required, verify your Mobile Number and/or Email ID via OTP. Finally, click &quot;Register&quot;.\n> **Application**\n\n**Step 1:** Visit the &quot;[Samarth Portal](https://samarth.mp.gov.in/Default)&quot;.\n**Step 2:****** Use the credentials you created during registration to log in.\n**Step 3:****** Navigate to the online application form of the scheme you intend to apply for.\n**Step 4:****** In the application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.\n**Step 5:****** Carefully review all the information provided. Make any necessary corrections.\n**Step 6:****** Acknowledge and agree to the terms and conditions, declaration, and privacy policy (if any).\n**Step 7:****** Click the &quot;Submit&quot; to submit your application.",
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://samarth.mp.gov.in/Public/Pages/SchemeDetail?ID=1"
+    },
+    {
+      "title": "Registration",
+      "url": "https://samarth.mp.gov.in/Registration/Default.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

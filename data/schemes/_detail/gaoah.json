@@ -1,0 +1,28 @@
+{
+  "slug": "gaoah",
+  "name": "Grant In Aid To Old Age Home",
+  "shortTitle": "GAOAH",
+  "level": "state",
+  "state": "Maharashtra",
+  "nodalDept": "Social Justice and Special Assistance Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "NGO",
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Grant in Aid to Old Age Home\" is a scheme by the Dept. of Social Justice & Special Assistance, Govt. of Maharashtra. In this scheme, grants are provided to the NGOs for accommodating old men & women, destitute, disabled victims, into Old Age Homes, and providing them with food, & accommodation.",
+  "descriptionMd": "The &quot;Grant in Aid to Old Age Home&quot; is a scheme by the Department of Social Justice &amp; Special Assistance, Govt. of Maharashtra. In this scheme, grants are provided to the NGOs for accommodating old men and women, destitute, and disabled victims, into Old age Homes, and providing them with facilities such as food, accommodation, resort, Free lodging &amp; Boarding &amp; Medical Assistance, etc. Only citizens who are permanent residents of the state of Maharashtra are eligible to apply for this scheme. This scheme is 100% funded by the Govt. of Maharashtra.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant should be a registered Non-Governmental Organization (NGO).\n1. The applicant should only accommodate old/destitute/disabled victims.\n1. In the case of old men, the age should be 60 years and above. In the case of old women, the age should be 55 years and above.\n1. The old age person should be a citizen of India.\n1. The old age person should be a permanent resident of the state of Maharashtra.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

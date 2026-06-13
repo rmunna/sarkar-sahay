@@ -1,0 +1,35 @@
+{
+  "slug": "nya",
+  "name": "National Youth Award ",
+  "shortTitle": "NYA",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Youth Affairs",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This award is to motivate young persons to achieve excellence in the field of national development or social service and to develop in them a sense of responsibility to the community and thus to improve their potential as good citizens.",
+  "descriptionMd": "The National Youth Award was sponsored by The  Ministry of Youth Affairs for the Indian youth for their tremendous and outstanding work in social service. This award is to motivate young persons to achieve excellence in the field of national development or social service and to develop in them a sense of responsibility to the community and thus to improve their own personal potential as good citizens. The award shall be given for identifiable excellent work for youth in different fields of development activities and social services such as health, research and innovation, culture, promotion of human rights, art and literature, tourism, traditional medicine, active citizenship, community service, sports and academic excellence and smart learning.\n&lt;br&gt;\n\n&gt; **Objectives of the award:**\n\n\n  - To motivate young persons (aged between 15 – 29 years) a challenge to achieve excellence in the field of national or social service.\n  - To encourage young people to develop a sense of responsibility to their community and thus to improve their own personal potential as good citizens.\n  - To give recognition to the outstanding work done by young persons for national development and / or social service.\n  - To give recognition to the outstanding work done by voluntary organizations working with the youth for national development and / or social service.\n\n&lt;br&gt;\n\n> **Ceremony Details:**\n\n\n- Presentation of the award shall be made at a special ceremony on a convenient date and time to be announced every year.\n\n<br>\n\n> **Selection Process:**\n\n\n-  In the initial stage, the Screening Committee under the Chairmanship of the  Joint Secretary, Department of Youth Affairs will screen all the applications and propose the names of the awardees thrice the number of awards to be given.\n- The Central Selection Committee headed by the Secretary, Department of Youth Affairs, Government of India will scrutinize all the recommendations of the Screening Committee and make the final selection of the Youth Awards. The Central Selection Committee will also have powers to consider any other case based on the merits.",
+  "benefitsMd": "> **Individual Awards:**\n\n\n- Receive a medal, certificate, and ₹1,00,000/-.\n\n<br>\n\n> **Voluntary Youth Organization Awards:**\n\n\n- Receive a medal, certificate, and ₹3,00,000/-",
+  "eligibilityMd": "> **For Individuals:**\n\n\n1. The applicant should be a citizen of India.\n1. The applicant should be Between the age of 15- 29 years as of the first January of the nominated year.\n1. The applicant should have done extraordinarily identifiable social work.\n1. The applicant who Persons employed in any government service i.e. with the Central/State Governments, PSUs/Universities, Colleges/schools, etc. is not eligible for the award.\n1. The award will be conferred once in a lifetime.\n\n<br>\n\n> **For Voluntary Organizations:**\n\n\n1. The Organizations Should be registered under the Registration of Societies Act, 1860 (Act XXII of 1860) for the last three years or under the corresponding State Act and have a proper constitution or Articles of Association.\n1. The organization should be a non-profit organization.\n1. The organization Should not have discriminated against any person or group of persons on the grounds of sex, religion, caste, or creed;\n1. The organization Has rendered extra-ordinary service involving the Youth in the relevant field for at least three years;\n1. The organization Has a good reputation among the local community/area\n1. The organization Should not have been conferred with this award earlier.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Registration:**\n> **Step-1:** Visit the [official website](https://awards.gov.in/).\n\n> **Step-2:** Click on the [Registration ](https://awards.gov.in/Registration/SignUp)button.\n\n> **Step-3:** Choose type Individual or  Organization.\n\n> **Step-4.1:** Under Individual category provide the following details. \n\n>                - Name as per Aadhaar/Valid Identity Proof.\n\n>                - Date of Birth.\n\n>                - Nominator/Applicant Type.\n\n>                - Mobile No.\n\n>                - Email ID.\n\n>                - Aadhaar Number.\n\n> **Step-4.2:** Under Organization category provide the following details.\n\n>                - Type of Organization.\n\n>                - Name of the Authorized Person as per Aadhaar/Valid Identity Proof\n\n>                - Date of Birth.\n\n>                - Brief Description about the Organization (100 Words)\n\n>                - Designation\n\n>                - Mobile No.\n\n>                - Email ID.\n\n>                - Aadhaar Number.\n\n> **Step-5:** Submit.\n\n            \n**Apply:**\n> **Step-1:** Visit the [official website](https://awards.gov.in/).\n\n> **Step-2:** Click on l[ogin button on](https://awards.gov.in/Login) portal and login using the credentials. \n\n> **Step-3:** From the list of awards, select scheme name, then click &quot;Nominate / Apply Now&quot;.\n\n> **Step-4:** On the next page, fill in all the mandatory fields in the online application form, and then click &quot;Submit&quot;.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://awards.gov.in/Home/AwardLibrary"
+    },
+    {
+      "title": "Registration",
+      "url": "https://awards.gov.in/Registration/SignUp"
+    },
+    {
+      "title": "Login",
+      "url": "https://awards.gov.in/Login"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

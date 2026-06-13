@@ -1,0 +1,39 @@
+{
+  "slug": "fapscpspi",
+  "name": "Financial Assistance to Poor Scheduled Caste People Suffering From Prolonged Diseases",
+  "shortTitle": "FAPSCPSPI",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Adi Dravidar Welfare Department, Puducherry",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme “Financial Assistance to Poor Scheduled Caste People Suffering From Prolonged Diseases” was introduced by the Adi Dravidar Welfare Dept, Govt of Puducherry. The objective of the scheme is to assist poor patients from Scheduled Castes suffering from prolonged illness.",
+  "descriptionMd": "The scheme “Financial Assistance to Poor Scheduled Caste People Suffering From Prolonged Diseases” was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to provide assistance to poor patients from Scheduled Castes who are suffering from prolonged illness and unable to earn their livelihood.",
+  "benefitsMd": "Financial Assistance of ₹500/- per month.",
+  "eligibilityMd": "- The applicant should be a citizen of India.\n- The applicant should have resided continuously in the Union Territory of Puducherry for at least five years.\n- The applicant should be from Scheduled Caste.\n- The applicant should be at least 18 years of age.\n- The annual income of the applicant should not be more than ₹2,00,000/-.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the [Official Website](https://edistrict.py.gov.in/) of the e-District Portal of the Government of Puducherry.\n**Step 2:** At the top right corner of the home page, click &quot;[Login](https://edistrict.py.gov.in/Login.aspx)&quot;. In the login screen, click &quot;[Register a New Membership](https://edistrict.py.gov.in/User/Registration.aspx)&quot;.\n**Step 3:** On the Registration Page, fill in all the mandatory fields: Username, Password, Confirm Password, Personal Details (Full Name, First Name, Email Address, Address, Current Address, Gender, Date of Birth, Mobile Number). Agree to the declaration. Fill in the Captcha Code, and click &quot;Signup&quot;.\n**Step 4:** Visit the [Official Website](https://edistrict.py.gov.in/) of the e-District Portal of the Government of Puducherry.\n**Step 5:** At the top right corner of the home page, click &quot;[Login](https://edistrict.py.gov.in/Login.aspx)&quot;. In the login screen, provide your Username and Password, fill in the Captcha Code, and click &quot;Sign In&quot;.\n**Step 6:** On the next screen, a list of schemes by the Government of Puducherry will be displayed Department-wise.\n**Step 7:** Click on the scheme you wish to apply for. You will be taken to its online application form.\n**Step 8:** In the application form, fill in all the mandatory fields (marked with a red asterisk) and upload all the mandatory documents (self-attest if required). \n**Step 9:** Tick the declaration stating &quot;I hereby declare that the above-mentioned details are true and correct as per the best of my Knowledge&quot;. Submit the application and note the application number for [tracking your application](https://edistrict.py.gov.in/User/TrackApplication.aspx). The application number will also be received on your Registered Mobile Number / Registered Email ID.\n***Track Your Application** [here](https://edistrict.py.gov.in/User/TrackApplication.aspx)\n*** Access the User Manual for Online Application** [here](https://edistrict.py.gov.in/Help.rar)",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://py.gov.in/sites/default/files/adwfinancial-assistance-poor-s.c.people-suffering-prolonged-diseases.pdf"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://py.gov.in/sites/default/files/citizencharter-adidravidar.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://adwelfare.py.gov.in/contact-us"
+    },
+    {
+      "title": "Track Your Application",
+      "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "mppcy",
+  "name": "Medhavi Putra/Putri Chhatravritti Yojana",
+  "shortTitle": "MPPCY",
+  "level": "state",
+  "state": "Jharkhand",
+  "nodalDept": "Labour, Employment, Training and Skill Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Medhavi Putra/Putri Chhatravritti Yojana\" is a Scholarship Scheme by the Department of Labour, Employment, Training & Skill Development Govt of Jharkhand. This is a 100% State Sponsored Scheme. Only the residents/domicile of the state of Jharkhand can apply to this scheme.",
+  "descriptionMd": "&quot;Medhavi Putra/Putri Chhatravritti Yojana&quot; is a Scholarship Scheme by the Department of Labour, Employment, Training &amp; Skill Development Govt of Jharkhand. This is a 100% State Sponsored Scheme. Only the residents/domicile of the state of Jharkhand can apply to this scheme. The applications for this scheme are accepted online through the official website of the department (http://shramadhan.jharkhand.gov.in). The scheme provides scholarships of up to ₹ 50,000/- to the children of the registered workers.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant should be a domicile in the state of Jharkhand.\n1. The applicant should be a Student.\n1. The applicant should have passed the previous examination with atleast Second Division or 45% marks in any examination (except Class 1st to 5th) OR have got admitted/enrolled in the course on the basis of a competitive examination.\n1. The applicant should be the child of a Worker registered with the &#39;Jharkhand Building and Other Construction Worker Welfare Board (JBOCWW Board)&#39;.\n1. The scholarship can be availed by upto two children of the Registered Worker.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://shramadhan.jharkhand.gov.in/schemmeDetailsShow.action"
+    },
+    {
+      "title": "Application Process",
+      "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/BOC_SCHEME_BENEFIT_APPLICANT_SIDE.pdf"
+    },
+    {
+      "title": "District-Wise Contact Details Of Labour Offices",
+      "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/labourcontactdetails.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

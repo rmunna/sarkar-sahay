@@ -1,0 +1,27 @@
+{
+  "slug": "shpssadbusm",
+  "name": "Vishesh Samman Pension Yojana for the State Agitators who became Disabled and Completely Bedridden during the Uttarakhand State Movement",
+  "shortTitle": "VSPYSADBUSM",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department of Home",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to honor state agitators who became permanently disabled and bedridden during the Uttarakhand Statehood Movement by providing them with monthly financial assistance of ₹20,000/-.",
+  "descriptionMd": "The &amp;quot;Vishesh Samman Pension Yojana for the State Agitators who became Disabled and Completely Bedridden during the Uttarakhand State Movement&amp;quot; scheme is implemented by the Police Department under the Department of Home, Government of Uttarakhand. The scheme aims to honor state agitators who became permanently disabled and bedridden during the Uttarakhand Statehood Movement by providing them with monthly financial assistance.\n<br>",
+  "benefitsMd": "**Pension Amount:** ₹20,000/- per month\n<br>",
+  "eligibilityMd": "1. The applicant must be a participant of the Uttarakhand Statehood Movement.\n   1. The applicant must have become permanently disabled and completely bedridden due to incidents during the Uttarakhand Statehood Movement.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "The application must be submitted to the concerned District Magistrate. Based on the report or recommendation of the District Magistrate, the pension will be sanctioned at the Government level after obtaining approval from the Hon’ble Departmental Minister or the Hon’ble Chief Minister.\nAlthough a prescribed application format is not available, applicants seeking the Special Honor Pension must submit their application to the office of the concerned District Magistrate, along with a certificate issued by the State Medical Board or a Medical College confirming that the applicant is completely bedridden.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 65)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

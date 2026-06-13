@@ -1,0 +1,39 @@
+{
+  "slug": "fbmbocwwb",
+  "name": "Funeral Benefit (MBOCWWB)",
+  "shortTitle": "FB(MBOCWWB)",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Labour and Employment Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under the scheme, financial assistance of ₹5,000/- shall be provided to nominees or dependents of deceased registered construction workers, towards funeral expenses.",
+  "descriptionMd": "The scheme “Funeral Benefit” is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, financial assistance shall be provided to nominees or dependents of deceased registered construction workers, towards funeral expenses.",
+  "benefitsMd": "1. Under the scheme, financial assistance of ₹5,000/- shall be given to nominees or dependents of deceased registered construction workers, towards funeral expenses.",
+  "eligibilityMd": "1. The applicant should be a legal nominee or dependent of deceased worker.\n   1. The deceased worker should have been a resident of Meghalaya.\n   1. The deceased worker should have been engaged in any building or other construction work.\n   1. The deceased worker should have been registered under the Meghalaya Building &amp;amp; Other Construction Workers Welfare Board.\n   1. The financial assistance shall be given to nominees or dependents of deceased registered workers, towards funeral expenses.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Online Worker Registration Process (Portal):**\n\n**Step 01:** The applicants may visit the online Portal: [https://megbocwwb.gov.in/bocw_services/login.htm](https://megbocwwb.gov.in/bocw_services/login.htm)\n**Step 02:** The applicant can register by creating a new account, on the home page click on the ‘Worker’ button and enter all the mandatory information.\n**Step 03:** After filling in all the details, click on ‘Register’.\n**Step 04:** After successful registration, the applicant will see the message “Registered Successfully”.\n> **Application Process for Funeral Benefit:**\n\n**Step 01:** Visit the online Portal: [https://megbocwwb.gov.in/bocw_services/login.htm](https://megbocwwb.gov.in/bocw_services/login.htm) \n**Step 02:** Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login.\n**Step 03:** After successful login, click on the “Funeral Benefit” scheme from the Dashboard.\n**Step 04:** Fill in all the required information and necessary enclosures.\n**Step 05:** Click ‘Submit’ to apply for benefits.\n> **Application Process to Track/Update:**\n\n**Step 01:** Visit the online Portal: [https://megbocwwb.gov.in/bocw_services/login.htm](https://megbocwwb.gov.in/bocw_services/login.htm)\n**Step 02:** Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login.\n**Step 03:** From the menu, click on ‘Track Application Status’.\n**Step 04:** Click on ‘View Details’ to view your application.\n**Step 05:** Click on ‘Application History’ to view the application history.\n**Step 06:** Click on ‘Update’ to update your application.\n**Note:** Once your application is under process or processed, you cannot update it.\n(Worker’s [User Manual](https://megbocwwb.gov.in/bocw_services/assets/files/user-manual-workers.pdf))",
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://megbocwwb.gov.in/schemes_funeral"
+    },
+    {
+      "title": "Amendment Notification",
+      "url": "https://meglc.gov.in/acts/MBOCW%20Amendment%20Rules%202017.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://megbocwwb.gov.in/bocw_services/login.htm"
+    },
+    {
+      "title": "Application Form For Funeral Benefit",
+      "url": "https://megbocwwb.gov.in/forms/benefit/funeralBenefit.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

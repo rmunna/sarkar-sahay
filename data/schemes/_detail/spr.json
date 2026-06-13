@@ -1,0 +1,27 @@
+{
+  "slug": "spr",
+  "name": "Super 5000",
+  "shortTitle": "SPR",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "In 2017, Madhya Pradesh State Government started a scheme \"Super 5000\" for student scholarships.",
+  "descriptionMd": "The Super 5000 scheme is a part of the ongoing Jan Kalyan Sambal Yojana in Madhya Pradesh. Under this, an education incentive will be given to the first 5000 students of unorganized sector workers who get the maximum marks in the 10th and 12th board examinations. Meritorious students will be able to use this amount to continue their further studies.",
+  "benefitsMd": "Scholarship Amount: Rs. 25,000/- only at once.",
+  "eligibilityMd": "1. Children of labor family native of Madhya Pradesh. \n1. Children of registered laborers in the unorganized sector. \n1. Only students who have passed the 10th/12th board examination conducted by the Madhya Pradesh Board of Secondary Education in a government school and included in the top 5000 children in the merit of the entire state.\n1. It is necessary to be a student of the Government school of Madhya Pradesh.\n1. The age of the construction worker should be more than 18 years and less than 60 years.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "1. Applicant students have to contact their school principal or district labour department. \n1. Get the application form.\n1. Fill out the application form in the prescribed manner.\n1. Attach the required documents.\n1. Submit.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://labour.mp.gov.in/Public/Pages/Schemes/Super5000.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

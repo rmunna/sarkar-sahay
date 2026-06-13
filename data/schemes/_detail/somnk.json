@@ -1,0 +1,32 @@
+{
+  "slug": "somnk",
+  "name": "Mukhyamantri Nahri Kendra",
+  "shortTitle": "MNK",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Tribal Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual",
+    "Self Help Groups (SHGS)"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme empowers tribal women by providing them with livelihood opportunities through women-run centers. These centers promote the sale of tribal dishes and home-made products, thereby improving income and living standards. Tribal women-run groups receive a subsidy covering 50% of project cost.",
+  "descriptionMd": "The &quot;Mukhyamantri Nahri Kendra&quot; was launched by the Tribal Development Department, Government of Gujarat. The scheme aims to empower tribal women by providing them with livelihood opportunities through women-run centers. These centers promote the sale of tribal dishes and home-made products, thereby improving income and living standards. Under this scheme, tribal women-run groups receive a subsidy covering 50% of project costs and the remaining 50% as a loan at a concessional interest rate. \n<br>",
+  "benefitsMd": "> **Monetary Benefit**\n\n\n- 50% of the project cost or ₹5,00,000, whichever is less, provided as subsidy.\n- The remaining 50% of the project cost is provided as a loan.\n\n> ***Subsidy Disbursement***\n\n\n- Given in two installments – 60% in the first installment and 40% in the second installment.\n\n> ***Interest Rate***\n\n\n- Loan at 4% per annum.\n\n> ***Repayment***\n\n\n- Loan (excluding subsidy) must be repaid in 20 equal installments over 5 years, including interest.\n- Option to repay earlier is allowed.\n\n> ***Beneficiary Contribution***\n\n\n- No upfront contribution required from the beneficiary.\n\n<br>",
+  "eligibilityMd": "- The applicant must be a woman.\n- The applicant must belong to the Scheduled Tribe category.\n- The applicant must be residing in a tribal area.\n- The applicant must be engaged in or willing to establish a self-employment venture through a Nahri Kendra.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "##### ***Registration Process***\n\n- Visit the Gujarat Tribal Development Corporation [official website](https://adijatinigam.gujarat.gov.in/home). - Click on the &quot;[APPLY FOR LOAN](https://adijatinigam.gujarat.gov.in/gtdcloan)&quot;.- Select the scheme name &quot;Foreign Study&quot;.\n- Fill the registration form: Full Name (as per Aadhaar Card), Gender, Date of Birth, Aadhaar Number, Mobile Number, Uder name, Password for login, Confirm Password.\n- Click on the &quot;Sign Up.\n- After successful registration, User ID and Password will be generated.\n\n##### ***Application Process***\n\n- Enter User ID, Password, and Captcha Code.\n\n\n- After login, schemes applicable to your caste will be displayed.\n- Click on the scheme you want to apply for.\n- Fill the &quot;Application Form&quot; and upload the required documents\n- Click Save Application. The system will generate an Application Number.\n- Click Print Application.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 23)",
+      "url": "https://adijatinigam.gujarat.gov.in/assets/downloads/SchemesDetailsofGTDC08102024.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

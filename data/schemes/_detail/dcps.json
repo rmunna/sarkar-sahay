@@ -1,0 +1,39 @@
+{
+  "slug": "dcps",
+  "name": "Dependent Children Pension Scheme - Punjab",
+  "shortTitle": "Dcps",
+  "level": "state",
+  "state": "Punjab",
+  "nodalDept": "Department of Social Security and Development of Women and Children",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Punjab State Government started a pension for Dependent Children of the state.",
+  "descriptionMd": "The main objective behind launching Dependent Children Pension Scheme is to provide financial security cover to those childrens whose income is not stable due to non availability of his/ her father/ parents. This Scheme is implemented by Social Security and Women &amp; Child Development Department of Punjab Government. Eligible Beneficiary will get Monthly Pension direct to their bank account.",
+  "benefitsMd": "Amount : ₹ 1,500/- per month",
+  "eligibilityMd": "1. Applicant should be a Permanent Resident of Punjab.\n1. Annual Income of Parents/ Guardian should not be more than Rs. 60,000/- per Year.\n1. The Age of Child should be below 21 Years.\n1. Mother/father or both have passed away or parents regularly absent from home or have become physically /mentally incapacitated to look after the family.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step-1:** Applicants have to visit the [official website](https://connect.punjab.gov.in/service/citizenservice/116).\n**Step-2**: Click on the &quot;Click to apply services&quot;.\n**Step-3**: Now login on Digital Punjab portal with Email/Phone number and password. If does have any account then register [here](https://ssocitizen.psegs.in/register)\n**Step-4:** Fill out the application form.\n**Step-5**: Attach the required documents\n**Step-6**: Submit.",
+  "references": [
+    {
+      "title": "Portal",
+      "url": "https://connect.punjab.gov.in/service/citizenservice/116"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://upload.indiacode.nic.in/showfile?actid=AC_PB_82_985_00002_00002_1553492693909&type=rule&filename=notification_pdf_13.6.2017_in_eng.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://punjab.gov.in/wp-content/uploads/2023/08/Dependent-Children-Pension.pdf"
+    },
+    {
+      "title": "Details",
+      "url": "https://sswcd.punjab.gov.in/en/financial-assistance-to-dependent-children-0"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

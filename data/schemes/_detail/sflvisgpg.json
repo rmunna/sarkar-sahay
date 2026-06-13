@@ -1,0 +1,27 @@
+{
+  "slug": "sflvisgpg",
+  "name": "Supply Free Laptops to Visually Impaired Students Pursuing Higher Education",
+  "shortTitle": "SFLVISPHE",
+  "level": "state",
+  "state": "Odisha",
+  "nodalDept": "Social Security and Empowerment of Persons with Disabilities Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to provide free laptops to visually impaired students pursuing courses. The scheme is provisioned for providing laptops to the visually impaired students to pursue professional courses after XII, under-graduate and post-graduate courses.",
+  "descriptionMd": "The &amp;#39;**Supply Free Laptops to Visually Impaired Students Pursuing Higher Education**&amp;#39; scheme introduced by the Social Security and Empowerment of Persons with Disabilities Department, Government of Odisha. The scheme is provisioned for providing laptops to the visually impaired students to pursue professional courses after XII, under graduate and post graduate courses. The new provision of providing laptops to the visually impaired students forms part of the existing scheme “Special Appliances”.\n<br>",
+  "benefitsMd": "1. The Director, SSEPD shall distribute the laptops to the students on proper identification in camps organized in different regions of the State in presences of public representatives and Government Officers.\n   1. The JAWS Software for visually impaired students will be installed in the laptops.",
+  "eligibilityMd": "1. The applicant must be a resident of Odisha state.\n   1. The applicant must have a disability of 40% and above. \n   1. The applicant must be pursuing 1st year and above of the professional courses after +2, Under Graduate or Post Graduate course including M.Phill, Phd, Law, Management, Medicine and other Technical courses.",
+  "exclusionsMd": "- The applicant must not have received a free laptop before.",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the official [**website**](https://ssepd.gov.in:8443/swp/applyFreeLaptopDistributionScheme.htm) of the department to apply for the scheme. \n**Step 2:** Click &amp;quot;New Application&amp;quot; and then click proceed.\n**Step 3:** The online application for the scheme will open. The applicant may fill all the details including Disability Certificate. \n**Step 4:** Check the box labelled &amp;quot;Undertaking&amp;quot; and submit the details. Take a printout copy for reference.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ssepd.odisha.gov.in/sites/default/files/2024-01/GUIDELINE%20ON%20FREE%20LAPTOP.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "wpup",
+  "name": "Widow Pension - Uttar Pradesh",
+  "shortTitle": "WPUP",
+  "level": "state",
+  "state": "Uttar Pradesh",
+  "nodalDept": "Department of Women & Child Development",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Widow pension in Uttar Pradesh is a social welfare scheme by the Government of Uttar Pradesh to provide financial assistance to widows residing in the state. The scheme is administered by the Women Welfare Department of the state government.",
+  "descriptionMd": "The Uttar Pradesh government, recognizing the unique challenges faced by widows living within the state, has implemented the Widow Pension Scheme. This compassionate initiative, administered by the Women Welfare Department, offers a vital form of financial assistance to these vulnerable women.\n<br>\n\nThe scheme provides a monthly pension, acknowledging the significant impact of losing a spouse on household income and stability. This crucial support empowers widows to navigate the hardships of their situations, rebuild their lives with dignity, and secure a measure of financial security. The Widow Pension Scheme stands as a testament to the government&#39;s commitment to the well-being of its widowed citizens, fostering hope and fostering a path towards a brighter future",
+  "benefitsMd": "Financial Assistance : ₹1,000/- per month",
+  "eligibilityMd": "1. The applicant should be a permanent resident of Uttar Pradesh state.\n1. The applicant&#39;s husband has died.\n1. The age of the applicant should not be less than 18 years.\n1. The annual income of the applicant and her family from all sources should not exceed  ₹ 2,00,000/-",
+  "exclusionsMd": "> The applicant should not be receiving pension from any other scheme of the state or central government.",
+  "applicationMode": "Online",
+  "applicationMd": "1. Applicant must visit the [official website](https://sspy-up.gov.in/).1. Click on &quot;Apply Online&quot; .\n1. Provide the below required details:\n\n  - Personal Details.\n  - Bank detail.\n  - Income Details.\n\n1. Upload below document:\n\n  - Passport size color photograph.\n  - Birth/Age certificate.\n  - Husband Death certificate.\n\n1. Declaration.\n1. Click on submit.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sspy-up.gov.in/docs/widow_Guidlines_2021.pdf"
+    },
+    {
+      "title": "Department Website",
+      "url": "https://mahilakalyan.up.nic.in/OurProgram.aspx"
+    },
+    {
+      "title": "Apply Online",
+      "url": "https://sspy-up.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

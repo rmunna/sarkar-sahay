@@ -1,0 +1,31 @@
+{
+  "slug": "cmfccs",
+  "name": "Chief Minister’s Free Cancer Chemotherapy Scheme",
+  "shortTitle": "CMFCCS",
+  "level": "state",
+  "state": "Arunachal Pradesh",
+  "nodalDept": "Health and Family Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme “Chief Minister’s Free Cancer Chemotherapy Scheme” was launched by the Department of Health & Family Welfare, Government of Arunachal Pradesh on 1st August 2017 to tackle the growing incidences of cancer in the state.",
+  "descriptionMd": "The scheme “Chief Minister’s Free Cancer Chemotherapy Scheme” was launched by the Department of Health &amp;amp; Family Welfare, Government of Arunachal Pradesh on 1st of August 2017 to tackle the growing incidences of cancer in the state. Under this scheme, cancer patients will be provided the commonly used medicines for the treatment of the disease free of cost with a ceiling of ₹10.00 lakh per person per year.\n**Objective:**\n\n  - To reduce the burden of high expenditure on cancer patients.\n  - To provide free chemotherapy for all types of cancer at any stage.\n\n**Important Features:**\n\n  - A Memorandum of Understanding (MoU) has been signed with TATA Memorial Hospital Mumbai for procurement of all the medicines at a concessional rate which will be provided to an upper limit of 1000 patients per year.\n\n<br>",
+  "benefitsMd": "",
+  "eligibilityMd": "1. Regular State Government Employees and their dependents are eligible for the scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://ahvdd.arunachal.gov.in/pdf/eBook/Government%20Scheme%20Handbook.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "http://health.arunachal.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

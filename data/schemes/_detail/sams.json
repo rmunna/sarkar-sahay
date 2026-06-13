@@ -1,0 +1,27 @@
+{
+  "slug": "sams",
+  "name": "Supply of Agriculture Machineries Scheme",
+  "shortTitle": "SAMS",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The objective of the scheme is to distribute and sale of agricultural machinery such as Power Tillers, etc. to farmers at subsidized rates.",
+  "descriptionMd": "The “Supply of Agriculture Machineries Scheme” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya for the distribution and sale of Agriculture Machineries such as Power Tillers, etc. to farmers at a subsidized rate.",
+  "benefitsMd": "> **Pattern of Assistance:**\n\n\n- Subsidy on Power tillers, Reapers, Harvesters, etc.\n\n> **Type of Assistance and Entitlement (If Any):**\n\n\n- 50% subsidy sale.",
+  "eligibilityMd": "1. The applicant should be a permanent resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "> **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at the nearest office of the Agriculture Development Officer of a CD Block/Agriculture Circle.\n> **Mode of Selection of Beneficiary(s):**\n\nThe bonafide farmers shall be selected on a first come first serve basis.\n> **Whom to Contact:**\n\n\n1. District Agriculture Officers of the concerned districts\n1. Sub-divisional Officers of the concerned sub-divisions\n1. Agriculture Development Officers of the concerned Community and Rural Development Blocks\n1. Assistant Agriculture Engineer (Mechanical) of the concerned districts",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=80"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

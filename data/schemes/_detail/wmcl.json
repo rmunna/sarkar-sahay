@@ -1,0 +1,31 @@
+{
+  "slug": "wmcl",
+  "name": "Welfare Measures for Children of Labourers",
+  "shortTitle": "WMCL",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Commerce",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This scheme aims to provide welfare measures in the form of educational stipends, incentives for academic excellence, and financial support for higher education to the children of SC/ST labourers who demonstrate exceptional academic performance and pursue higher education after 10th grade.",
+  "descriptionMd": "The scheme &amp;quot;Welfare Measures for Children of Labourers&amp;quot; is a Sub-Component of the Scheme &amp;quot;Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders&amp;quot; by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to provide welfare measures in the form of educational stipends, incentives for academic excellence, and financial support for higher education to the children of SC/ST (Scheduled Caste/Scheduled Tribe) labourers who demonstrate exceptional academic performance and pursue higher education after completing the 10th grade, thus enhancing their educational prospects.",
+  "benefitsMd": "> **Educational Stipends**\n\n₹2,250 per student\n> **Incentive Award (in addition to ₹2,250/- Educational Stipend)**\n\nFor Boys: ₹1,000; For Girls: ₹1,500\n> **Financial Assistance**\n\n**Traditional Courses (Arts, Science, Commerce, etc.)**\n(a) Graduation: ₹3,750 per student\n(b) Post-Graduation: ₹7,500 per student\n**Professional Courses**\n(a) Medical Sciences: ₹7,500 per student\n(b) Agriculture and allied Sciences / Animal Husbandry / Engineering / Pharmacy / Nursing / Other Equivalent Professional Degree Courses: ₹7,500 per student",
+  "eligibilityMd": "1. Children of SC/ST labourers working in coffee plantations and Licensed Coffee Curing Works, who are pursuing higher education after the 10th grade, are eligible.\n1. Eligibility extends to the first two surviving children of SC/ST labourers employed in Coffee Plantations and Licensed Coffee Curing Works. In cases where the birth of the second child results in twins or multiple births, assistance shall be granted to all the children, provided they meet individual merit requirements.\n1. Children of Clerks, Drivers, Supervisors, and Estate/Curing Works Managers are not entitled to these benefits.\n1. The educational institution where the student is enrolled must be recognized by the Central or State Governments.\n1. **Educational Stipends:** Students who have successfully passed the SSLC (Secondary School Leaving Certificate), 10th Class, or Matriculation examination and have commenced higher studies after SSLC, such as 1st-year PUC (Pre-University Course), Polytechnic, or Vocational Training in the current academic year, are eligible.1. **Incentive Award:** One female student and one male student in each region under the Deputy Director (Extension) (or Joint Director (Extension) for the NER region) who have achieved the highest marks in the SSLC, 10th Class, or Matriculation examination in the previous academic year and continue their studies in the current academic year are eligible.1. **Financial Assistance:** Students pursuing higher education, including Graduation, Post-Graduation, and Professional Courses such as Medical, Engineering, Agriculture, Pharmacy, and Nursing in the current academic year after completing the 2nd PUC (Pre-University Course) or 12th Class in the previous academic year, are eligible.1. A student eligible for an Educational Stipend is also eligible for an Incentive Award based on their academic merit.\n1. Students pursuing the 1st year of PUC (11th Class) or Diploma courses during a specific academic year but completed the SSLC (10th Class) in earlier years are also eligible for educational stipends.\n1. Students pursuing Graduation or Professional Courses during a specific academic year but completed the 2nd year of PUC (12th Class) in earlier years are also eligible for financial assistance.\n1. Students pursuing Post-Graduation studies during the academic year 2017-18 but completed Graduation in years other than 2016-17 are also eligible for financial assistance.\n1. Students pursuing the 2nd or 3rd year of Graduation or Post-Graduation courses, as the case may be, are eligible for financial assistance, regardless of whether they had previously availed or applied for financial assistance in previous years while pursuing the 1st or 2nd year of their course.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "> **For availing the incentives**\n\n**Step 1:** The interested and eligible applicants should take print of the prescribed format of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Coffee Board.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://coffeeboard.gov.in/Schemes/MTF_LWM.pdf"
+    },
+    {
+      "title": "Grower's Registration (UMANG)",
+      "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

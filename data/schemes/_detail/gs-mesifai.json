@@ -1,0 +1,39 @@
+{
+  "slug": "gs-mesifai",
+  "name": "\"Generator Subsidy\" under \"Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries\"",
+  "shortTitle": "GS-MESIFAI",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Industries and Commerce Department, Puducherry",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Through this scheme, the micro, small and medium industrial units (manufacturing and service sector) shall be eligible for the grant of 50% subsidy with a cap of ₹5,00,000/- per industrial unit on the investment made on or after 5-3-2009 on generator sets. The applications are accepted offline.",
+  "descriptionMd": "The &quot;Generator Subsidy&quot; is a Component of the &quot;Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries&quot; Scheme by the Industries and Commerce Department, Union Territory of Puducherry. Through this scheme, the micro, small and medium industrial units (manufacturing and service sector) shall be eligible for the grant of 50% subsidy with a cap of ₹5,00,000/- per industrial unit on the investment made on or after 5-3-2009 on generator sets. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
+  "benefitsMd": "50% subsidy with a cap of ₹5,00,000/- per industrial unit.",
+  "eligibilityMd": "- The applicant should be a micro/ small/ medium industrial unit.\n- The unit should be from the manufacturing sector or service sector.\n- The unit should have made investment on generator sets.\n- The unit should have made investment on or after 5th March 2009.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The industrial unit should register the claim for the grant of incentive/subsidy in the [prescribed form](https://industry.py.gov.in/common-application-subsidies) available on the Official Website of the Directorate of Industries and Commerce, Puducherry.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** The unit should submit the duly filled and signed application form and the documents to the concerned authority.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application form has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable). \n*The applications will be processed by the Industries Department to obtain sanctions. These cases need not be placed before the said State Level Committee.\n<br>\n\n> **Application Deadline**\n\n**For New Units**\nWithin one year from the date of commencement of obtaining the Entrepreneurs Memorandum Part-2/ Permanent Registration/ Commencement of Production Certificate.\n**For Existing Units**\nWithin one year of completion of Expansion/ Diversification/ Modernization.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://industry.py.gov.in/sites/default/files/subsidy-g.o-2012.pdf"
+    },
+    {
+      "title": "Application Form & Documents Required",
+      "url": "https://industry.py.gov.in/common-application-subsidies"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://industry.py.gov.in/grievance-redressal-mechanism"
+    },
+    {
+      "title": "Helpline",
+      "url": "https://industry.py.gov.in/state-helpline"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

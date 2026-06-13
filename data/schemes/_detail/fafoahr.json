@@ -1,0 +1,31 @@
+{
+  "slug": "fafoahr",
+  "name": "Financial Assistance for funeral and other activities in case of death of a worker's - Haryana Labour Welfare Board",
+  "shortTitle": "FAFOAHR",
+  "level": "state",
+  "state": "Haryana",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide financial support to the family or dependent of a deceased worker to cover funeral and related expenses. Under this scheme, an assistance amount of ₹15,000/- is provided to the dependent/family of the deceased worker.",
+  "descriptionMd": "The scheme &amp;quot;Financial Assistance for Funeral and Other Activities in Case of Death of a Worker&amp;quot; is implemented by the Haryana Labour Welfare Board (HLWB) under the Labour Department, Government of Haryana. The scheme aims to provide financial support to the family or dependent of a deceased worker to cover funeral and related expenses. Under this scheme, an assistance amount of ₹15,000/- is provided to the dependent/family of the deceased worker.",
+  "benefitsMd": "1. Financial assistance of ₹15,000/-.",
+  "eligibilityMd": "1. The applicant should be fully dependent on the deceased worker.\n1. The deceased worker should have been registered with the Haryana Labour Welfare Board.\n1. The deceased worker should have had an active membership under the Haryana Labour Welfare Board at the time of death.\n1. The applicant should not have previously availed benefits under this scheme.\n1. There is no minimum service period or ceiling required under this scheme.\n1. The application should be submitted within two years from the date of the worker’s death.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number &amp;amp; password. Click on ‘Submit’.\n**Step 3:** Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.\n&gt; **Login to Apply for the Scheme:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.\n**Step 3:** In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen.\n**Step 4:** Now, select the scheme and click on “Apply for Service/Scheme”.\n**Step 5:** Fill in all the details in the online application form and click on &amp;quot;Submit&amp;quot;.\n&gt; **Track Your Service Online:**\n\n\n  - **Track Application/Appeal:** [Click here](https://status.saralharyana.nic.in/).  - **Track Ticket:** [Click here](https://eticketing.saralharyana.nic.in/CitizenViewComplaints.aspx).\n&gt; **Track Your Service Through SMS:**\n\n\n  - **Registered Mobile Number:** Type SARAL and send to 9954699899 to track your application.  - **Other Mobile Number:** Type SARAL&amp;lt;space&amp;gt;&amp;lt;Application ID/Ticket No.&amp;gt; and send to 9954699899 to track your application/ticket.\n&gt; **Contact Us:**\n\n**Helpline:** 0172-3968400\n**Email:** saral.haryana@gov.in\n&gt; **Note:** \n\n&gt; **Govt. Charges:** No Fee \n\n&gt; **Service Charges:**   ₹ 10 \n\n&gt; **Atal Seva Kendra Service Charges:**  ₹ 10",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=yC+jK2Ks/HzUCGSq8jBy9w=="
+    },
+    {
+      "title": "Official Website",
+      "url": "https://hrylabour.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

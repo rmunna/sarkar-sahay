@@ -1,0 +1,47 @@
+{
+  "slug": "gmawd",
+  "name": "Grant of Marriage Allowance to the Widow's Daughter",
+  "shortTitle": "GMAWD",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Women and Child Development Department, Puducherry",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This scheme aims to provide financial support to widows for the marriage of their daughters. Eligible widows can receive ₹25,000/- to cover marriage expenses. The scheme is implemented through the Department of Women and Child Development, Government of Puducherry.",
+  "descriptionMd": "The scheme “Grant of Marriage Allowance to the Widow&#39;s Daughter (GMAWD)” is a financial assistance scheme by the Department of Women and Child Development, Government of Puducherry. This scheme aims to provide financial support to widows for the marriage of their daughters. Eligible widows can receive ₹25,000/- to cover marriage expenses. The scheme is implemented through Puducherry&#39;s Department of Women and Child Development.",
+  "benefitsMd": "Financial assistance of ₹25,000/- for marriage expenses.",
+  "eligibilityMd": "1. The applicant should be a widow with an annual income not exceeding ₹75,000/-.\n2. The widow should be a citizen of India and a native of the Union territory of Puducherry by birth or continuous residence of 5 years or more.\n3. The allowance is applicable only for the first marriage of the bride.\n4. The marriage must be performed in accordance with the law.\n5. The allowance is granted for the marriage of one daughter only.\n6. The age of the bride should be above 18, and the bridegroom&#39;s age should be above 21.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit (during office hours) the [Office/ Sub-Office](https://wcd.py.gov.in/office-locations) of the Department of Women and Child Development, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\nOR\nThe interested applicant should take print of the prescribed format of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Deputy Director (Women Development) or the Child Development Project Officer (depending on the location), at least 30 days before the proposed marriage date.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Citizen's Charter",
+      "url": "https://wcd.py.gov.in/sites/default/files/citizens-charter-english.pdf"
+    },
+    {
+      "title": "RTI Manual",
+      "url": "https://py.gov.in/sites/default/files/womenrtimanual.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://wcd.py.gov.in/contact-us"
+    },
+    {
+      "title": "Office Locations",
+      "url": "https://wcd.py.gov.in/office-locations"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://wcd.py.gov.in/ta/central-public-grievance-redress-and-monitoring-system"
+    },
+    {
+      "title": "Track Your Application",
+      "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

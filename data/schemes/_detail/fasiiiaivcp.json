@@ -1,0 +1,35 @@
+{
+  "slug": "fasiiiaivcp",
+  "name": "Financial Assistance for Stage III & IV Cancer Patients",
+  "shortTitle": "FASIIIAIVCP",
+  "level": "state",
+  "state": "Haryana",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme “Financial Assistance for Stage III & IV Cancer Patients” was launched by the Social Justice & Empowerment Department, Government of Haryana. Under this scheme, a monthly financial assistance of ₹3,000/- will be provided to Stage III & IV cancer patients of Haryana from 01.01.2024.",
+  "descriptionMd": "The scheme “Financial Assistance for Stage III &amp;amp; IV Cancer Patients” was launched by the Social Justice and Empowerment Department, Government of Haryana. Under this scheme, monthly financial assistance/pension of ₹3,000/- will be provided to Stage III and IV cancer patients of Haryana from 01.01.2024. The scheme will be applicable for all age groups, Stage III, and IV cancer patients throughout the State of Haryana. The financial assistance provided under this scheme will be in addition to the benefits received by the applicant under any other social security pension scheme. This scheme shall come into operation from the date of its publication in the official Gazette.",
+  "benefitsMd": "Under this scheme, financial assistance/pension of ₹3,000/- per month will be provided to Stage III and IV cancer patients starting from 01.01.2024.",
+  "eligibilityMd": "1. The applicant should be a citizen of India.\n   1. The applicant should be a bonafide resident of Haryana as per Government instructions issued from time to time.\n   1. The applicant should have Parivar Pehchan Patar (PPP) - Family ID.\n   1. All Stage III &amp;amp; IV cancer patients will be eligible under the scheme.\n   1. Cancer patients whose family income is less than ₹3,00,000/- per annum, except the amount of other Social Security Pension Schemes will be eligible. \n\n**Note:** The financial assistance provided under this scheme will be in addition to the benefits received by the applicant under any other social security pension scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 01:** To avail of the benefits of the scheme, the applicant needs to visit the Official Portal -Antyodaya-SARAL Portal: [https://saralharyana.gov.in/](https://saralharyana.gov.in/)\n**Step 02:** If the applicant is not registered on the portal, he/she gets registered there. \n**Step 03:** For registration, click “[New User](https://saralharyana.gov.in/citizenRegistration.html)” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password &amp;amp; State. Click on ‘Submit’.\n**Step 04:** Verify your mobile number and email ID through the received OTP and complete the registration process.\n&gt; **Login to apply for the scheme:**\n\n**Step 01**: To avail the benefits of the scheme, visit the Official [Antyodaya-SARAL Portal](https://saralharyana.gov.in/login.do) and log in through the email ID used while registering.\n**Step 02:** Enter Password &amp;amp; Captcha and click on ‘Login’.\n**Step 03:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’\n**Step 04:** Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form.\n**Step 05:** Enter your Parivar Pehchan Patra number - Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.\n**Step 06:** Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”\n**Step 07:** Fill in all the mandatory details and upload all the mandatory documents.\n**Step 08:** Preview the application form and click on ‘Submit’.\n&gt; **Tracking of Application:**\n\nApplicants can track his/her application through the Official [Antyodaya-SARAL Portal](https://status.saralharyana.nic.in/) by entering their Department Name, Scheme Name, and Application Reference ID.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://socialjusticehry.gov.in/financial-assistance-for-stage-iii-iv-cancer-patients-2/"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=pfW1CDqAOkj8PajdyLECdw%3d%3d"
+    },
+    {
+      "title": "Antyodaya-SARAL Portal",
+      "url": "https://saralharyana.gov.in/login.do"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

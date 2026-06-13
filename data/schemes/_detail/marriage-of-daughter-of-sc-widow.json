@@ -1,0 +1,35 @@
+{
+  "slug": "marriage-of-daughter-of-sc-widow",
+  "name": "Financial Assistance for the Marriage of Daughters of Widows/Destitute Women belonging to the Scheduled Caste",
+  "shortTitle": "FAMDW",
+  "level": "state",
+  "state": "Chandigarh",
+  "nodalDept": "Social Welfare, Women & Child Development",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "By the Chandigarh Government, this scheme is initiated to reduce the financial burden for the girl marriage. Under the scheme financial assistance will be provided.",
+  "descriptionMd": "This program, under the Department of Social Welfare, Women &amp; Child Development, Chandigarh, aims to uplift widows belonging to the Scheduled Caste community. Widows, particularly from marginalized groups, often face financial struggles and social isolation. By providing financial aid for their daughters&#39; weddings, the program helps alleviate these burdens and promotes their overall well-being.\n<br>\n\nThe initiative empowers these widows by supporting their daughters&#39; marriages. Marriage expenses can be substantial, and this assistance enables them to fulfill their parental duties and ensure a respectable marriage for their daughters.",
+  "benefitsMd": "> **Financial grant :  ₹20,000/- for the marriage of daughters.**",
+  "eligibilityMd": "1. The bride&amp;#39;s mother must belong to a Scheduled Caste community.\n   1. Financial help is available for the marriage of up to two daughters in a family.\n   1. The bride must be at least 18 years old on the date of marriage.\n   1. This assistance is only for the first marriage of each daughter.\n   1. Your family&amp;#39;s monthly income cannot be more than ₹2,000/-. (Verified by the Tehsildar).\n   1. Applicant must have lived in Chandigarh for at least 3 years.\n   1. If both the bride&amp;#39;s parents are deceased, her legal guardian can apply for this help.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Registration**\n\nStep-1: Applicant have to visit the &amp;quot;[ServicesPlus](https://serviceonline.gov.in/)&amp;quot; website.\nStep-2: Click on &amp;quot;[Register](https://serviceonline.gov.in/citizenRegistration.html)&amp;quot; on the homepage.\nStep-3: Fill out the registration form with your\n            - Full Name \n            - Email id\n            - Mobile number \n            - Password\n            - Select State\n            - Enter Captcha\nStep-4:  Review the details to ensure accuracy, and then submit registration.\nStep-5: After successful registration, you may receive a confirmation message on the website or via email, confirming that your registration was successful.\n﻿\n&lt;br&gt;\n\n&gt; **Apply**\n\nStep-1: Applicant have to visit the &amp;quot;ServicesPlus&amp;quot; website and [login](https://serviceonline.gov.in/loginWindow.do)\nStep-2: Apply for Services.\nStep-3: Select the services/Scheme name.\nStep-4: Provide the required details in the application form.\nStep-5: Submit.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://chdsw.gov.in/index.php/scheme/financial-assistance-for-the-marriage-of-daughter-of-widows-destitute-women-belonging-to-schedule-caste"
+    },
+    {
+      "title": "Registration",
+      "url": "https://serviceonline.gov.in/citizenRegistration.html"
+    },
+    {
+      "title": "Login",
+      "url": "https://serviceonline.gov.in/loginWindow.do"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

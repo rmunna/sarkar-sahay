@@ -1,0 +1,35 @@
+{
+  "slug": "fapsrd",
+  "name": "Financial Assistance to Persons Suffering from Rare Diseases",
+  "shortTitle": "FAPSRD",
+  "level": "state",
+  "state": "Haryana",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme “Financial Assistance to Persons Suffering from Rare Diseases” was launched by Social Justice & Empowerment Department, Govt. of Haryana. Under this scheme, financial assistance of ₹3000/- per month will be provided to all persons of Haryana domicile, who are suffering from Rare Diseases.",
+  "descriptionMd": "The scheme “Financial Assistance to Persons Suffering from Rare Diseases” was launched by the Social Justice and Empowerment Department, Government of Haryana. This scheme shall be applicable for all the persons of Haryana domicile, who are suffering from Rare Diseases; and also to extend the benefit of the Scheme to such persons, whose family income should be less than ₹3,00,000/-. Under this scheme, ₹3000/- per month will be provided starting from 01.01.2024. The financial assistance will be provided in addition to any benefits received by the applicant under other social security pension schemes.\n(**Note:** The details of the National Policy for Rare Diseases, 2021 &amp;amp; amendments thereof, the medical conditions/diseases included in the policy, and the designated centers of excellence are available on the official website of the Health Department, Haryana. ([https://haryanahealth.gov.in/](https://haryanahealth.gov.in/)).",
+  "benefitsMd": "1. Under this scheme, financial assistance of ₹3,000/- per month will be provided starting from 01.01.2024.",
+  "eligibilityMd": "1. The applicant must be a domicile and bonafide resident of Haryana.\n   1. There are no age restrictions for applicants.\n   1. The applicant&amp;#39;s annual family income should be less than ₹3,00,000/-.\n   1. The applicant must possess a Parivar Pehchan Patra.\n   1. The applicant should be suffering from any of the Rare Diseases i.e. the medical conditions/diseases, mentioned in the National Policy for Rare Diseases, 2021, issued by MoHFW (GoI) &amp;amp; added from time to time; and diagnosed at any of the notified ‘Centres of Excellence’ (CoE), designated by MoHFW, GoI &amp;amp; added from time to time; under the said policy.\n\n**Note:** The financial assistance will be provided in addition to any benefits the applicant receives under other social security pension schemes.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 01:** To avail of the benefits of the scheme, the applicant needs to visit the Official Portal -Antyodaya-SARAL Portal: [https://saralharyana.gov.in/](https://saralharyana.gov.in/)\n**Step 02:** If the applicant is not registered on the portal, he/she gets registered there. \n**Step 03:** For registration, click “[New User](https://saralharyana.gov.in/citizenRegistration.html)” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password &amp;amp; State. Click on ‘Submit’.\n**Step 04:** Verify your mobile number and email ID through the received OTP and complete the registration process.\n&gt; **Login to apply for the scheme:**\n\n**Step 01:** To avail the benefits of the scheme, visit the Official [Antyodaya-SARAL Portal](https://saralharyana.gov.in/login.do) and log in through the email ID used while registering.\n**Step 02:** Enter Password &amp;amp; Captcha and click on ‘Login’.\n**Step 03:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’\n**Step 04:** Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form.\n**Step 05:** Enter your Parivar Pehchan Patra number - Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.\n**Step 06:** Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”\n**Step 07:** Fill in all the mandatory details and upload all the mandatory documents.\n**Step 08:** Preview the application form and click on ‘Submit’.\n&gt; **Tracking of Application:**\n\nApplicants can track his/her application through the Official [Antyodaya-SARAL Portal](https://status.saralharyana.nic.in/) by entering their Department Name, Scheme Name, and Application Reference ID.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://socialjusticehry.gov.in/financial-assistance-to-persons-suffering-from-rare-diseases/"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=K2Jru3MTGRRXhnKClFxvrA%3d%3d"
+    },
+    {
+      "title": "Antyodaya-SARAL Portal",
+      "url": "https://saralharyana.gov.in/login.do"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "hpsa",
+  "name": "Haj Pilgrimage to Saudi Arabia",
+  "shortTitle": "HPSA",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Social Welfare Department, Puducherry",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The scheme aims to perform Haj Pilgrimage at Holy Mecca. The scheme provides an air fare subsidy of ₹24,000/- for each pilgrim and includes free medical facility while in Mecca. The applicant must be an Indian citizen who possesses sound health and has not performed Haj for the preceding five years.",
+  "descriptionMd": "The scheme &quot;Haj Pilgrimage to Saudi Arabia&quot; was launched by the Department of Hindu Religious Institutions &amp; Wakf, Puducherry. The scheme aims to perform Haj Pilgrimage at Holy Mecca. The scheme provides an air fare subsidy of ₹24,000/- for each pilgrim and includes free medical facility while in Mecca. The applicant must be an Indian citizen who possesses sound health and has not performed Haj for the preceding five years. The applications for this scheme are accepted offline through the State Haj Committee.\n<br>",
+  "benefitsMd": "- Air fare of ₹24,000/- is given as subsidy for each pilgrim.\n- Free medical facility is provided at Mecca.\n- Subsidy is distributed towards airfare to each and every pilgrim when he applies through the State Haj Committee.\n- The pilgrim should comply with the requisites stipulated for eligibility and application procedure.\n\n<br>",
+  "eligibilityMd": "- The applicant must be an Indian citizen.\n- The applicant must have sound health.\n- The applicant must not have performed Haj for the preceding five years.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant may request the prescribed format of the application form from the Puducherry Haj Committee.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to: ***Puducherry Haj Committee, Door No.1, 3rd Floor, Community Hall, Yanam Vengadasalam Pillai Street, MG Road Area, Near Meera Palli Mosque, Puducherry - 605 001.***\n****The application must be accompanied with a demand draft of ₹10,700/- drawn in favour of the State Haj Committee.***\n<br>\n\nThe Pilgrim shall send payment in the manner of demand draft on three spells.\n\n- A demand draft for ₹10,700/- towards advance foreign exchange in favour of the State Haj Committee.\n- A demand draft for ₹61,000/- towards exchange, that is, food and accommodation at Mecca, Saudi Arabia, to be sent to the Haj Committee of India, Mumbai.\n- A demand draft for ₹12,000/- towards air fare to be sent to the Haj Committee of India, Mumbai.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://hri.py.gov.in/resources/docs/rti/11.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

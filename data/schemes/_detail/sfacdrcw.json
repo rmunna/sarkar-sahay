@@ -1,0 +1,31 @@
+{
+  "slug": "sfacdrcw",
+  "name": "Scheme for Funeral Assistance in Case of Death of Registered Construction Worker",
+  "shortTitle": "SFACDRCW",
+  "level": "state",
+  "state": "Tripura",
+  "nodalDept": "Labour Department ",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Scheme for Funeral Assistance in Case of Death of Registered Construction Worker\" was launched by the Tripura Building and Other Construction Workers Welfare Board, Labour Department Tripura. The scheme aims to provide funeral assistance in case of the death of registered construction workers.",
+  "descriptionMd": "The Tripura Building and Other Construction Workers Welfare Board, Labour Department Tripura launched the &quot;Scheme for Funeral Assistance in Case of Death of Registered Construction Worker&quot;. Under rule 282 (Other Welfare Measures) of the Tripura State Building and Other Construction Workers (RE &amp; CS) Rules 2001, the scheme for funeral Assistance in case of the death of registered construction workers is made.",
+  "benefitsMd": "- **A one-time grant of ₹10,000/- is provided for the expenses of the funeral ceremony.**\n\n**NOTE:** The amount of benefit payable by the BOARD shall be paid through DBT mode.",
+  "eligibilityMd": "1. The applicant should be a nominee, spouse, or dependent of the deceased registered worker. \n1. The registered construction workers should not have any dues payable to the Board.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online - via CSC",
+  "applicationMd": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the CSC agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n**NOTE:**  The application should be submitted within 30 days from the date of death of the registered construction worker or the application for the same may be submitted while claiming for the death benefit by the nominee.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://tbocwwb.tripura.gov.in/news_announcements/5109061.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://tbocwwb.tripura.gov.in/index.php"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

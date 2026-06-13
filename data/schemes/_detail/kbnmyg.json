@@ -1,0 +1,35 @@
+{
+  "slug": "kbnmyg",
+  "name": "Kunwar Bai Nu Mameru Yojana Gujarat",
+  "shortTitle": "KBNMYG",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Tribal Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide financial support to ST families during the marriage of girls, providing ₹12,000 per couple as financial assistance to eligible tribal women across the state.",
+  "descriptionMd": "The &quot;Kunwar Bai Nu Mameru Yojana&quot; was launched by the Tribal Development Department, Government of Gujarat. The scheme aims to provide financial assistance to families of Scheduled Tribe (ST) girls at the time of their marriage. Under this scheme, a financial benefit per couple is provided to ensure economic support to families and to encourage social welfare.\n<br>",
+  "benefitsMd": "Financial assistance of ₹12,000/- per couple is provided during the marriage. \n<br>",
+  "eligibilityMd": "1. The applicant must be a native of the Gujarat. \n1. The applicant must belong to a Scheduled Tribe. \n1. The applicant&#39;s annual family income must not exceed ₹6,00,000/-.\n1. The benefits under this scheme are eligible for till the occasion of the marriage of two (2) adult girls of the family.\n1. The bride&#39;s age must be 18 years at the time of marriage.\n1. The groom&#39;s age must be 21 years at the time of marriage. \n\n<br>",
+  "exclusionsMd": "In case of remarriage, benefits under this scheme will not be eligible.\n<br>",
+  "applicationMode": "Online",
+  "applicationMd": "***Registration Process***\n\n- Visit the Directorate of Tribal Development [official website](https://evanbandhu.gujarat.gov.in/index.aspx). - Click on the &quot;[Please Register Here link](https://evanbandhu.gujarat.gov.in/Registration.aspx)&quot;.- Fill the registration form: Full Name (as per Aadhaar Card), Gender, Date of Birth, Aadhaar Number, Email ID, Caste, Mobile Number\n- Password for login, Confirm Password.\n- Click on the &quot;Confirm&quot; tab.\n- After successful registration, User ID and Password will be sent via SMS.\n\n***Login Process***\n\n- Enter User ID, Password, and Captcha Code.\n- After login, schemes applicable to your caste will be displayed.\n- Click on the scheme you want to apply for.\n- Fill the &quot;Application Form&quot; and upload the required documents\n- Click Save Application. The system will generate an Application Number.\n- Click Print Application.\n\n***Track Application***\n\n- Click View Application Status.\n- Enter Application Number and Date of Birth.\n- Click view Status to check the status of your application.\n\n<br>\n\n_*The application for assistance has to be made within two years of the engagement._\n_*Kunwarbai&#39;s Mameru scheme will be eligible for support from the district where the saat phera mass marriage is held._\n_*The beneficiary girl participating in the mass marriage will be eligible to get benefits under both these schemes if she fulfills all the conditions of the Seven Phera Group Marriage Scheme as well as Kunwarbai&#39;s Mameru Scheme._\n<br>\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://evanbandhu.gujarat.gov.in/index.aspx?ServiceID=duJMDyg6dmO007n6aojWGQ=="
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://tribal.gujarat.gov.in/home"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "isss-ppcp",
+  "name": "Integrated Social Security Scheme - Pension For Physically Challenged Persons",
+  "shortTitle": "ISSS-PPCP",
+  "level": "state",
+  "state": "Jammu and Kashmir",
+  "nodalDept": "Department Of Social Welfare J and K",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "ISSS-PPCP is a State Sponsored Scheme by the Social Welfare Dept. of the Govt. of J&K wherein financial assistance is provided to Physically Challenged Person who have meager support or no source of livelihood. A pension of ₹1000 per pensioner per month is deposited into their bank account.",
+  "descriptionMd": "ISSS (Integrated Social Security Scheme) is a State Sponsored Scheme by the Social Welfare Department of the Govt. of Jammu and Kashmir where financial assistance is provided to Old Age Persons, Widows, Divorcees, Women in Distress, Transgenders, and Physically Handicapped Persons. The scheme is funded through Plan and Non-Plan on the basis of a 50:50 sharing pattern. \n<br>\n\nThe scheme has the following components - \na)  Pension for Old Age Person\nb)  Pension for Women in Distress\nc)  Pension for Physically Challenged Person\nd)  Pension to Transgenders\n<br>\n\nUnder the &quot;Pension for Physically Challenged Person&quot; component of ISSS, a pension of ₹1000 per pensioner per month is deposited directly into their Bank Account through DBT mode. The aim of the scheme is to provide monthly financial assistance to Physically Challenged Pensioners who have meager support or no source of livelihood.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The age of applicant should be between 18 and 79 years.\n1. The applicant should have severe or multiple disabilities with a disability percentage of at least 40%.\n1. The income of the applicant should be less than ₹ 75,000/- per annum or the applicant should be from the &quot;Below Poverty Line (BPL)&quot; Category.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines (PDF)",
+      "url": "https://jkdswdj.jk.gov.in/welfareSchemes/PensionSchemes.pdf"
+    },
+    {
+      "title": "Guidelines (Social Welfare Dept.)",
+      "url": "https://socialwelfarekashmir.jk.gov.in/PCP.html"
+    },
+    {
+      "title": "Application Form And Documents Required",
+      "url": "https://jkdswdj.jk.gov.in/pdf/FORMISSS1.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

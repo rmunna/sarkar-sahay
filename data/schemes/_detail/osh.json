@@ -1,0 +1,27 @@
+{
+  "slug": "osh",
+  "name": "Operation of Sports Hostels",
+  "shortTitle": "OSH",
+  "level": "state",
+  "state": "Rajasthan",
+  "nodalDept": "Tribal Area Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to encourage tribal students to participate in sports and prepare them for national & international competitions. Tribal students from Classes 6 to 12 are provided with free accommodation, specialized training, nutritious meals & other necessary facilities in the sports hostels.",
+  "descriptionMd": "The scheme &amp;quot;Operation of Sports Hostels&amp;quot; was introduced by the Tribal Area Development Department, Government of Rajasthan. It aims to encourage tribal students in Scheduled Areas to participate in sports and prepare them for national and international competitions. Under this scheme, tribal students from Class 6 to 12 are provided with free residential facilities, training in archery and athletics by skilled coaches, nutritious meals, uniforms, and modern sports equipment. The scheme is implemented in the following District:\tBanswara, Dungarpur, Sirohi, Udaipur &amp;amp; Pratapgarh.",
+  "benefitsMd": "The following facilities are provided in the sports hostel:\n\n- Free residential accommodation in sports hostels.\n- Nutritious meals, snacks, and special dietary arrangements as per approved pattern.\n- Sports training with modern equipment by expert coaches (especially in archery and athletics).\n- Free school uniforms and educational materials.",
+  "eligibilityMd": "1. The applicant should be a resident of Rajasthan.\n1. The applicant should belong to the Scheduled Tribe community.\n1. The applicant should be studying in class 6th to 12th.1. The applicant should not have any disability or suffering from any serious illness.\n1. The applicant’s parents/guardians should not be income tax payers.\n1. The applicant should not be a failed student in the last examination.\n\n**Note:** Only those students who pass the selection test will be admitted to the sports hostel.",
+  "exclusionsMd": "",
+  "applicationMode": "Online - via CSC",
+  "applicationMd": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Keep the acknowledgment receipt for future reference.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://tad.rajasthan.gov.in/scheme/detail/535"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

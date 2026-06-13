@@ -1,0 +1,31 @@
+{
+  "slug": "kvsy",
+  "name": "Kanya Vivah Sahayta Yojana",
+  "shortTitle": "Kvsy",
+  "level": "state",
+  "state": "Uttar Pradesh",
+  "nodalDept": "Department of Social Welfare",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The primary objective of this scheme is to provide financial assistance for marriageable daughters of beneficiary registered labourers and registered women construction labourers working in the building and other construction processes and to encourage legal arrangements.",
+  "descriptionMd": "**Details**\nThe primary objective of this scheme is to provide financial assistance for marriageable daughters of beneficiary registered labourers and registered women construction labourers working in the building and other construction processes and to encourage legal arrangements like adult marriage to prevent illegal practices to control. All those registered construction workers will be eligible under this scheme, who are the latest duly registered members of the board, as well as the daughter of such registered construction worker or the registered female worker herself should not be less than the age as decided by the government from time to time. Under this scheme, such updated registered construction workers who have completed at least 01 years (365 days) board membership period after registration can apply for the benefit.\nWithin one year of the completion of the marriage, an application will have to be made from the website of the Public Service Center / Board along with all necessary records, but in case of mass marriage, the application can be made 15 days before the date fixed for the marriage. It will be mandatory to attach the required documents with the application form.\n&lt;br&gt;\n\n<br>\n\n<br>\n\n<br>",
+  "benefitsMd": "",
+  "eligibilityMd": "**Eligibility** \n\n1. After the registration by the construction worker, the membership period of the board should have been completed for at least 365 days.\n1. Provision has been made for application within 1 year of marriage and 15 days before in case of mass marriage.\n1. Aadhaar authentication of the daughter of the beneficiary labor has been made mandatory.\n1. The benefit is limited subject to the limit of 2 children.\n1. The benefit of the scheme will be admissible after the daughter and the proposed bridegroom complete the prescribed age of 18 years and 21 years respectively.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://upbocw.in/pdf/schemes/kanya_vivah_2022.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://upbocw.in/English/StaticPages/schemes.aspx#tab6"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

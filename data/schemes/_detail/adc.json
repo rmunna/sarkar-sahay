@@ -1,0 +1,31 @@
+{
+  "slug": "adc",
+  "name": "Aswachh Dhandha Chhaatravrtti",
+  "shortTitle": "ADC",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Tribal Welfare and Scheduled Caste (SC) Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The objective of the scheme is to motivate students from marginalized sections of society, whose parents are involved in unclean & hazardous occupations, to pursue their education. Under the scheme, financial assistance of ₹1,850/- per annum is provided to students from Class 1 to Class 10.",
+  "descriptionMd": "The scheme &amp;quot;Aswachh Dhandha Chhaatravrtti&amp;quot; was launched by the Scheduled Caste Welfare Department, Government of Madhya Pradesh. The objective of the scheme is to motivate students from marginalized sections of society, whose parents are involved in unclean and hazardous occupations, to pursue their education. Under the scheme, financial assistance of ₹1,850/- per annum is provided as a scholarship to students from Class 1 to Class 10.",
+  "benefitsMd": "1. Under this scheme, regular students studying in Class 1st to Class 10th are given a scholarship of ₹1,850/- per annum.",
+  "eligibilityMd": "1. The applicant should belong to the Scheduled Caste or other deprived categories of society.\n   1. One or both parents of the applicant should be engaged in unclean/unhygienic occupations (Scavenger/Flayers/Tanner). Students whose parents left these occupations after 1997 are also eligible for the scheme.\n   1. The applicant should be a student.\n   1. The applicant should be studying in Class 1st to Class 10th.\n   1. Only two children from one family are eligible.\n   1. The applicant should be a native/resident of Madhya Pradesh.\n   1. The applicant is not eligible for any other state scholarship.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Registration Process:**\n\n**Step 1:** Go to the official website of the &amp;quot;[Madhya Pradesh Shiksha Portal](https://shikshaportal.mp.gov.in/Default.aspx)&amp;quot; using a web browser.\n**Step 2:** Click on &amp;#39;[eKYC&amp;#39;](https://shikshaportal.mp.gov.in/Public/EKYC/VerifyMobileBeforeKYC.aspx).\n**Step 3:** Enter your mobile number and captcha, then click on &amp;quot;Get OTP.&amp;quot;\n**Step 4:** Enter the OTP and go to the next page.\n**Step 5:** Enter your Samagra ID and captcha code, then click OK.\n**Step 6:** The student&amp;#39;s basic information will be displayed, such as the names of the father and mother, date of birth, school, etc.\n**Step 7:** Click on Aadhar eKYC, enter your Aadhar number, and click to get OTP.\n**Step 8:** Enter the OTP and click &amp;#39;Submit&amp;#39;.\n**Step 9:** Read all the information carefully before proceeding, then click on &amp;#39;Submit&amp;#39;.\n&gt; **Process to apply for scheme benefits:**\n\n**Step 1:** Go to the official website of the &amp;quot;[Madhya Pradesh Shiksha Portal](https://shikshaportal.mp.gov.in/Default.aspx)&amp;quot; using a web browser.\n**Step 2:** Click on &amp;#39;[login](https://shikshaportal.mp.gov.in/login/Public/sLogin.aspx)&amp;#39;.\n**Step 3:** Enter the User name, Password, Captcha, and click &amp;#39;login&amp;#39;.\n**Step 4:** Click on &amp;#39;Login&amp;#39; and select your scheme name.\n**Step 5:** After clicking your scheme name then enter your name, father&amp;#39;s name, Samagra ID, Aadhar number, bank account, etc.\nStep 6: Now upload your photo signature and important documents.\n**Step 7:** Remember, the fields marked with an asterisk (*) are mandatory.\n**Step 8:** After filling in all your information details and uploading the documents click &amp;#39;submit&amp;#39;.",
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=1"
+    },
+    {
+      "title": "Application Portal",
+      "url": "https://shikshaportal.mp.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

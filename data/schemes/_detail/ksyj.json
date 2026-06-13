@@ -1,0 +1,29 @@
+{
+  "slug": "ksyj",
+  "name": "Kisan Samriddhi Yojana Jharkhand",
+  "shortTitle": "KSYJ",
+  "level": "state",
+  "state": "Jharkhand",
+  "nodalDept": "Department of Agriculture, Animal Husbandry & Co-operative",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual",
+    "Self Help Groups (SHGS)",
+    "Registered Societies"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Kisan Samriddhi Yojana\" by the Department of Agriculture, Animal Husbandry & Cooperative, Government of Jharkhand, promotes solar-powered irrigation systems to reduce agricultural costs and dependency on fossil fuels. Farmers receive up to 90% subsidy for solar units under this initiative.",
+  "descriptionMd": "The &quot;Kisan Samriddhi Yojana&quot; by the Department of Agriculture, Animal Husbandry &amp; Cooperative, Government of Jharkhand, aims to promote solar energy-powered irrigation systems to reduce dependency on fossil fuels and lower agricultural costs. Through this scheme, farmers receive up to 90% subsidy for solar irrigation units, enhancing their income and fostering sustainable agricultural practices.",
+  "benefitsMd": "1. Farmers receive a 90% subsidy on solar-powered irrigation units, reducing their agricultural costs.\n1. Two types of solar units are available: 5 HP fixed and 2 HP portable, catering to varied irrigation needs.\n1. Solar units eliminate the need for electricity or diesel, ensuring year-round irrigation.\n1. The portable 2 HP unit is mobile, making it suitable for multi-location usage.\n1. Reduced maintenance costs for solar-powered systems.\n1. Encourages sustainable energy use, contributing to environmental conservation.",
+  "eligibilityMd": "1. The applicant should be a farmer, self-help group, cooperative, or farmer producer organization registered in Jharkhand.\n1. The applicant must have a valid Aadhaar card and Aadhaar-linked mobile number.\n1. A registered office of the group/organization must be located in Jharkhand.\n1. The applicant must own or have access to land near a water source.\n1. Only one member per family is eligible for benefits.\n1. The applicant should be aged 18 years or above.",
+  "exclusionsMd": "",
+  "applicationMode": "Online - via CSC",
+  "applicationMd": "**Step-1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step-2:** The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process.\n**Step-3:** The applicant should ensure that the CSC agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step-4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n**NOTE:** \n\n- Applicants must link their ration card with Aadhaar for e-KYC verification.\n- Pay the 10% contribution fee as per the unit cost.\n\n**Group Registration Process:**\n**Step-1:** The applicant may visit the official website &quot;[Kisan Samriddhi Yojna](https://ksy.jharkhand.gov.in)&quot;\n**Step-2:** Click on &quot;Group Registration&quot; and fill the details like: Group Type, Group Name, Enter Group Name, Registration Number, GST/PAN/TAN Number, Registration Date etc.\n**Step-3:** Click on &quot;Submit&quot;",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ksy.jharkhand.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

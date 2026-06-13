@@ -1,0 +1,27 @@
+{
+  "slug": "swhsds",
+  "name": "Solar Water Heating System (Domestic Sector)",
+  "shortTitle": "SWHSDS",
+  "level": "state",
+  "state": "Haryana",
+  "nodalDept": "Renewable Energy Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"Solar Water Heating System (Domestic Sector)\" by the Renewable Energy Department, Haryana, aims to promote the use of solar energy for domestic water heating by providing a financial subsidy to the residents of Haryana and Haryana Government employees residing in Chandigarh.",
+  "descriptionMd": "The scheme &amp;quot;Solar Water Heating System (Domestic Sector)&amp;quot; implemented by the Renewable Energy Department, Government of Haryana, aims to promote renewable energy usage and reduce dependence on conventional heating methods by providing financial subsidies to encourage the installation of solar water heating systems in the domestic sector. It also seeks to reduce electricity and fuel bills and promote environmentally sustainable solutions for households.",
+  "benefitsMd": "- **Subsidy :** ₹10,000/- per 100 LPD (Maximum ₹30,000/-) for FPC system and ₹3,000/- per 100 LPD (Maximum ₹9,000/-) is being provided.\n<br>",
+  "eligibilityMd": "1. Any resident family of Haryana.\n   1. Government employees of Haryana residing in Chandigarh.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number &amp;amp; password. Click on ‘Submit’.\n**Step 3:** Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.\n&lt;br&gt;\n\n&gt; **Login to Apply for the Scheme:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.\n**Step 3:** In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen.\n**Step 4:** Now, select the scheme and click on “Apply for Service/Scheme”.\n**Step 5:** Fill in all the details in the online application form and click on &amp;quot;Submit&amp;quot;.\n&lt;br&gt;\n\n&gt; **Track Your Service Online:**\n\n\n  - **Track Application/Appeal:** [Click here](https://status.saralharyana.nic.in/).  - **Track Ticket:** [Click here](https://eticketing.saralharyana.nic.in/CitizenViewComplaints.aspx).\n&lt;br&gt;\n\n&gt; **Track Your Service Through SMS:**\n\n\n  - **Registered Mobile Number:** Type SARAL and send to 9954699899 to track your application.  - **Other Mobile Number:** Type SARAL&amp;lt;space&amp;gt;&amp;lt;Application ID/Ticket No.&amp;gt; and send to 9954699899 to track your application/ticket.\n&lt;br&gt;\n\n&gt; **Contact Us:**\n\n\n  - **Helpline:** 0172-3968400  - **Email:** saral.haryana@gov.in\n&lt;br&gt;\n\n&gt; **Note:** \n\n\n  - **Govt. Charges:** No Fee  - **Service Charges:**   ₹10/-  - **Atal Seva Kendra Service Charges:**  ₹10/-\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=7Dp055F6MhNzBJWgZnQ20A=="
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

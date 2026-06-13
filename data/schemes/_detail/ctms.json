@@ -1,0 +1,35 @@
+{
+  "slug": "ctms",
+  "name": " Consortia & Tender Marketing Scheme",
+  "shortTitle": "CTMS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Micro, Small and Medium Enterprises",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to facilitate Micro and Small Enterprises (MSEs) in marketing their products and services through individual or collective participation in tenders via consortia. It helps MSEs secure bulk orders, improve competitiveness, and access government procurement opportunities.",
+  "descriptionMd": "The &amp;quot;Consortia and Tender Marketing Scheme&amp;quot; is implemented by the National Small Industries Corporation (NSIC) under the Ministry of Micro, Small and Medium Enterprises, to support Micro and Small Enterprises (MSEs) in enhancing their market access. The scheme enables MSEs to participate in government and PSU tenders either individually or through a consortium of similar units. Under this scheme, only MSEs registered under the Single Point Registration Scheme (SPRS) of NSIC are eligible. It excludes units engaged purely in trading without value addition. The scheme facilitates participation in open and limited tenders, including nomination-based tenders.\nNSIC assists MSEs by forming consortia of similar product manufacturers to secure bulk orders. It also distributes orders among consortium members based on their production capacity. The scheme supports enterprises by arranging Earnest Money Deposit (EMD) and security deposits on a back-to-back basis and helps in accessing credit and raw materials.\nThe participation limit for tenders is determined based on the higher of 300% of SPRS monetary limit or the last year’s turnover, with provisions for revision based on growth. The limit is reviewed annually. The scheme aligns with the Public Procurement Policy for MSEs, promoting inclusion of MSEs in government procurement, including subcontracting opportunities.\n<br>",
+  "benefitsMd": "- **Market Access:** Facilitates participation in government and PSU tenders.  - **Consortium Formation:** Enables small units to combine capacities and secure bulk orders.  - **Financial Support:** Assistance in EMD and security deposits.  - **Order Distribution:** Ensures fair allocation of orders among consortium members.  - **Credit Facilitation:** Helps in accessing finance for order execution.  - **Capacity Building:** Encourages collaboration among similar MSEs.  - **Procurement Advantage:** Supports inclusion under Public Procurement Policy.\n&gt; **Annual Fee Structure of Enlistment &amp;amp; Renewal under Consortia &amp;amp; Tender Marketing Scheme:**\n\n\n**S.No.****Category****Annual / Renewal Fee**1.If Monetary Limit under Single Point Registration Scheme (SPRS) is up to                                     ₹ 1,00,00,000/-₹  1000+Service Tax2.If Monetary Limit under Single Point Registration Scheme (SPRS) is more                 ₹ 1,00,00,000/-  and up to ₹ 5,00,00,000/-₹  2500+Service Tax3.If Monetary Limit under Single Point Registration Scheme (SPRS) is above                 ₹ 5,00,00,000/-₹  5000+Service Tax4..Units owned by SC/ST entrepreneurs are exempted from the enlistment feeN/A5.There will be no fee for the formation of new / renewal of Consortia. However, while at the time of participation in tender by consortia members, enlistment fee mentioned above will be applicable.N/A> **Service Charges (on line/off line) Open Tender/Limited Enquiries/Nomination Basis/Repeated Orders etc.:**\n\nThe service charges for various types of above said tenders are proposed on the basis of value of tender irrespective of their category:\nTypeService charges on Bill value before GST (%)Individual2.5Consortia2**Note:**\n\n  - In case of micro units, the service charges may be reduced by 0.5% on the above-mentioned charges.\n  - In case EMD and/ or Security Deposit are arranged by NSIC 1% Additional Service Charges would be charged. The said service charges are excluding GST. The services charges shall be deducted from the payment receipt from the buying department and after deducting eh service charges balance amount may be released to the MSE/Consortia.\n  - Where the NSIC is required to participate in pre-dispatch inspection team along with the buyer department or other agency, a higher rate of service charge can be levied on case to case basis.\n\n&gt; **Validity of Consortia Agreement:**\n\n\n  - Consortium agreement entered into between the Corporation and Consortiumshall be valid till officially liquidated by all members and the intimation being served on the respective branch that they (Consortium) do not want to continue as a Consortia members. However, in case of inclusion of new member/s or member/s leaving the consortia of change in Constitution of any member , fresh agreement may be obtained. In order to ascertain the change in the Constitution or addition/deletion of the members, a declaration to the effects to be taken from consortia members that their consortium is alive and there is no change.\n\n\n<br>",
+  "eligibilityMd": "- Micro &amp; Small Enterprises registered with NSIC under its Single Point Registration Scheme (SPRS).\n\nOr,\n\n- Micro &amp; Small Enterprises who apply to get themselves registered with NSIC under the SPRS along with all required documents in terms of the scheme.\n- Their factory/unit should be inspected before filing of tender in terms of the Tender Marketing Scheme.",
+  "exclusionsMd": "- The scheme shall not cover unit(s) engaging in ‘trading activities’ without value addition/packing/ branding.\n\n<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The application form, in the prescribed format ([Annexures – A](https://www.nsic.co.in/pdfs/CTMS_scheme_revised_06062022.pdf) and [[A-1](https://www.nsic.co.in/pdfs/CTMS_scheme_revised_06062022.pdf)) for enlistment under the Tender Marketing Scheme is to be submitted by the applicant Micro &amp; Small Enterprise (MSE), duly signed by the authorized signatory i.e. Proprietor/Partner(s)/Director(s) of the firm /company /society, along with the documents mentioned in the application form.](https://www.nsic.co.in/pdfs/CTMS_scheme_revised_06062022.pdf)\n**Step 2:** Fill the form properly, attach all the necessary documents, and send it to the[ Concerned/Regional NSIC branch office.](https://nsic.co.in/Corporate/SearchBranch)\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.nsic.co.in/pdfs/CTMS_scheme_revised_06062022.pdf"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://www.nsic.co.in/pdfs/FAQ-CTM102016.pdf"
+    },
+    {
+      "title": "Circular",
+      "url": "https://www.nsic.co.in/pdfs/IOM_JS_15062023.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

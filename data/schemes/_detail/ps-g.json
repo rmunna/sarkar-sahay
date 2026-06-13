@@ -1,0 +1,47 @@
+{
+  "slug": "ps-g",
+  "name": "Project Sankalp",
+  "shortTitle": "PS-G",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Labour and Employment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The scheme aims to provide industry-led vocational skilling to enhance youth employability and meet industry demand for skilled manpower. It offers sector-specific training, apprenticeship, and employment opportunities, benefiting youth with better job prospects.",
+  "descriptionMd": "The scheme &quot;Project Sankalp&quot; was launched on 15th July 2020 by the Gujarat Skill Development Mission (GSDM), Labour and Employment Department, Government of Gujarat. The scheme aims to revolutionize vocational skilling, making India the global skill capital with globally competitive skills and competencies. The scheme provides an industry-led vocational skilling program, enabling the industry to fulfill its demand for skilled manpower and providing youth with sustainable employment opportunities. The scheme is implemented by the Gujarat Skill Development Mission. The applications for this scheme are accepted online through the GSDM portal.\n<br>",
+  "benefitsMd": "> **Training Cost Reimbursement** \n\nThe Industry Partner will receive reimbursement for training costs per candidate per hour:\n\n- NSQF Category 1 Job Roles: ₹49.\n- NSQF Category 2 Job Roles: ₹42.\n- NSQF Category 3 Job Roles: ₹35.10.\n- GCVT Job Roles and Company-Specific Job Roles: ₹36.75 (which is 75% of the Category 1 NSQF job role training cost).\n\n_*The training cost for NSQF Job Roles is subject to amendments as per MSDE notification, and the cost for GCVT and Company-specific job roles will also change accordingly._\n> ***Assessment Cost Reimbursement***\n\nGSDM will reimburse the assessment cost directly to the respective Sector Skill Council (SSC), Gujarat Council of Vocational Training (GCVT), or Kaushalya Skill University (KSU) for both fresher trainees and existing employees.\n_*Any re-assessment cost for candidates who were absent or failed the first assessment, or for existing workers/employees, must be borne by the Industry Partner._\n> ***No Training Fee for Youth/Beneficiaries***\n\nNo fee of any kind will be charged from the youth or beneficiaries for the training.\n<br>",
+  "eligibilityMd": "- The Fresher Trainees must have a domicile of Gujarat.\n\n\n- The age of Fresher Trainees must be between 18 and 35 years.\n- The Existing Employees could be from Pan-India.\n- The age of Existing Employees must be between 18 and 55 years.\n\n> **Relaxations &amp; Preferences**\n\n\n- The scheme focuses on the inclusion of Special Groups such as Women, Persons with Disability (PwD), Below Poverty Line (BPL), Scheduled Caste (SC), and Scheduled Tribe (ST).\n- A relaxation of ten years may be given to Women, PwD, BPL, SC, and ST candidates for fresher trainees.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Step 1:** ***Access the GSDM Portal &amp; Initiate Registration***\n\n\n- To begin, the applicant should visit the [Skills Gujarat portal](https://skills.gujarat.gov.in/project-sankalp.htm). On the displayed login screen, the applicant must locate and click on the &quot;[Register](https://skills.gujarat.gov.in/gsdmdev/Registration/Index)&quot;. This action will prompt the system to initiate the candidate registration process, allowing new users to create an account.\n> **Step 2:****** ***Complete Basic Registration Details***\n\n\n- The applicant will be required to provide all the mandatory details in the registration form. \n- The system will generate One Time Passwords (OTPs), which will be sent to both the registered email ID and the mobile number provided by the applicant. \n- A verification screen will appear, where the applicant must accurately enter the &quot;Email OTP&quot; and &quot;Mobile OTP&quot; received.\n\n> **Step 3:****** ***Confirm Verification and Receive Login Credentials***\n\n\n- After entering both OTPs, the applicant should click the &quot;Verify &amp; Save&quot; button. If the OTPs are successfully verified, a confirmation message will appear, indicating successful basic registration. \n- Subsequently, the &quot;User Name&quot; and &quot;Password&quot; for the account will be generated and shared with the applicant via their registered email ID and mobile number.\n\n> **Step 4:****** ***Initial Login and Password Creation***\n\n\n- Using the newly received &quot;Username&quot; and &quot;Password,&quot; along with the Captcha displayed on the login screen, the applicant should log in to their account. \n- For security purposes, the system will then prompt the applicant to create a new password by entering a &quot;New Password&quot; and re-entering it in the &quot;Enter Confirm Password&quot; field, followed by another Captcha. \n- The applicant must click &quot;Submit&quot; to finalize the new password.\n\n> **Step 5:****** ***Complete Full Registration***\n\n\n- Once logged in with the new password, the applicant will proceed to the Full Registration section. \n- Here, they must provide all the mandatory details and upload the mandatory documents in the specified format and size. \n- The applicant must carefully read and then click &quot;I Agree to the Terms and Conditions&quot; to confirm the correctness of all the information updated during the registration process. \n- Finally, they should click &quot;Save and Continue&quot; to submit their complete registration details.\n\n> **Step 6:****** ***Access Candidate Dashboard and Utilize Resources***\n\n\n- Upon successful full registration, the applicant will be directed to their Candidate Dashboard. \n- From this dashboard, they can access various features, including the &quot;TC Locator / KVK Locator&quot; to search for the Nearest Krishi Vigyan Kendra (KVK) or Training Center. \n- Additionally, they can click on &quot;Interest Assessment Test,&quot; which redirects them to http://gujarati.careerguide.com/my-profile, to start and view their psychometric test report.\n\n_*No fee of any kind should be charged from the youth or beneficiary for the Project Sankalp training._\n<br>",
+  "references": [
+    {
+      "title": "Project Background",
+      "url": "https://skills.gujarat.gov.in/writereaddata/Portal/Images/pdf/Project-Sankalp-Guideline-English.pdf"
+    },
+    {
+      "title": "Aims & Objectives",
+      "url": "https://skills.gujarat.gov.in/project-sankalp.htm"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://skills.gujarat.gov.in/writereaddata/Portal/News/15_1_Project-Sankalp-Guidelines-March-2022.pdf"
+    },
+    {
+      "title": "Online Application",
+      "url": "https://skills.gujarat.gov.in/gsdmdev/ProjectSankalpTrainingProvider/Registration?SchemeIDsakshamorsankalp=38"
+    },
+    {
+      "title": "List Of List Of GCVT Aligned Job Roles",
+      "url": "https://skills.gujarat.gov.in/writereaddata/Portal/Images/pdf/GCVT_JobRole_List.pdf"
+    },
+    {
+      "title": "User Manual For Candidate Registration",
+      "url": "https://skills.gujarat.gov.in/writereaddata/Portal/Images/pdf/GSDM-User-Manual-Candidate-Registration-Version-1-0-18062021.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

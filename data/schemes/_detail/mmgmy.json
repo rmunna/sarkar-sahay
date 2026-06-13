@@ -1,0 +1,35 @@
+{
+  "slug": "mmgmy",
+  "name": "Mukhyamantri Gyansetu Merit Scholarship Yojana",
+  "shortTitle": "MMGMY",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This scheme introduced by the Education Department, Government of Gujarat, aims to support meritorious students by providing scholarships from Class 6th to Class 12th in selected schools.",
+  "descriptionMd": "The scheme &amp;quot;Mukhyamantri Gyansetu Merit Scholarship Yojana&amp;quot; by the Education Department, Government of Gujarat aims to select 30,000 brilliant students who have completed their Class 5 education consecutively in government, aided, or RTE-approved schools and provide them with scholarships to study in selected government, aided, or private schools from Class 6th to Class 12th. The selection is done through a Common Entrance Test conducted by the State Examination Board, Gandhinagar.\n<br>",
+  "benefitsMd": "> **Government Schools and Government -aided Schools (Approved by Education Department):**\n\n\n\n  - For Class 6th to 8th: ₹5,000/- per year.\n  - For Class 9th to 10th: ₹6,000/- per year.\n  - For Class 11th to 12th: ₹7,000/- per year.\n\n\n> **Private (Selected) Schools:**\n\n\n\n  - For Class 6th to 8th: ₹20,000/- per year.\n  - For Class 9th to 10th: ₹22,000/- per year.\n  - For Class 11th to 12th: ₹25,000/- per year.\n\n\n> **Frequency of Disbursement:** \n\n\n\n  - Disbursed annually in two installments; the first 50% is given after confirmation of at least 80% attendance in the first semester.\n\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Gujarat.\n   1. The applicant must be a student.\n   1. The applicant must have studied Classes 1st to 5th in a Government/ Government-aided/ RTE-approved self-financed primary school in Gujarat.\n   1. The applicant must have passed the Common Entrance Test (CET) conducted by the State Examination Board and be listed in the merit list.\n   1. The applicant must have taken admission in Class 6th in a Government/ Government-aided/ RTE-approved self-financed primary school in Gujarat.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step 1:** Visit the official website: [http://gssyguj.in](https://gssyguj.in/).\n**Step 2:** Register online using the 18-digit CTS Aadhaar UDI number.\n**Step 3:** Provide mobile number, verify using OTP, and set a password to complete registration.\n> **Application Process:**\n\n**Step 1:** Log in using the registered Aadhaar number and password.\n**Step 2:** Fill out the online application form carefully, including personal details, school details (UDISE number), category (SC/ST/OBC/General/EWS), and residence type (Urban/Rural).\n**Step 3:** Upload the required documents including caste certificate (if applicable).\n**Step 4:** Preview the form, save and submit it online.\n**Step 5:** Take a printout of the submitted form for future reference.\n**Step 6:** Regularly check the website and registered mobile number for updates and merit list announcements.\n> **Contact Us:**\n\n**Commissioner of Schools**\n**Address:** Block-9, 1 st floor, J.M.Bhavan, Old sachivalaya, Gandhinagar\n**Tel. no. :** 079-23254011\n**Other office:** 079-23254014\n**E-mail:** gssyguj@gmail.com\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 363)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://gssyguj.in/assets/Documents/%E0%AA%AE%E0%AB%81%E0%AA%96%E0%AB%8D%E0%AA%AF%E0%AA%AE%E0%AA%82%E0%AA%A4%E0%AB%8D%E0%AA%B0%E0%AB%80%20%E0%AA%9C%E0%AB%8D%E0%AA%9E%E0%AA%BE%E0%AA%A8%E0%AA%B8%E0%AB%87%E0%AA%A4%E0%AB%81%20%E0%AA%AE%E0%AB%87%E0%AA%B0%E0%AB%80%E0%AA%9F%20%E0%AA%B8%E0%AB%8D%E0%AA%95%E0%AB%8B%E0%AA%B2%E0%AA%B0%E0%AA%B6%E0%AB%80%E0%AA%AA%20%E0%AA%AF%E0%AB%8B%E0%AA%9C%E0%AA%A8%E0%AA%BE.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://gssyguj.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

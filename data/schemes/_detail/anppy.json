@@ -1,0 +1,37 @@
+{
+  "slug": "anppy",
+  "name": "Atma Nirbhar Pashu Palan Yojana",
+  "shortTitle": "ANPPY",
+  "level": "state",
+  "state": "Arunachal Pradesh",
+  "nodalDept": "Animal husbandry, Veterinary and Dairy Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Individual",
+    "Self Help Groups (SHGS)",
+    "Registered Societies"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to enhance rural livelihoods, promote sustainable animal husbandry practices, & contribute to self-reliance in livestock sector. Under this scheme, financial assistance is provided to unemployed individuals, SHGs, cooperative societies, etc. for livestock rearing & allied activities.",
+  "descriptionMd": "The scheme &amp;quot;Atma Nirbhar Pashu Palan Yojna (ANPPY)&amp;quot;, implemented by the Department of Animal Husbandry, Veterinary &amp;amp; Dairy Development, Government of Arunachal Pradesh, aims to enhance rural livelihoods, promote sustainable animal husbandry practices, and contribute to self-reliance in the livestock sector. Under this scheme, financial assistance in the form of credit-linked support is provided to unemployed individuals, Self-Help Groups (SHGs), farmers&amp;#39; clubs, cooperative societies, and Dairy Cooperative Societies (DCS) for livestock rearing and allied activities.",
+  "benefitsMd": "Under this scheme, financial assistance in the form of credit-linked support is provided to eligible beneficiaries for livestock rearing and allied activities.",
+  "eligibilityMd": "The following beneficiaries are eligible under this scheme:\n\n  - Arunachal State Rural Livelihoods Mission (ArSRLM) promoted Self-Help Groups (SHGs), individuals, Farmers&amp;#39; Clubs, Registered Cooperative Societies, and Dairy Cooperative Societies (DCS) will be eligible.\n  - Individuals should belong to the Arunachal Pradesh Scheduled Tribe (APST) category and be unemployed.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "***Interested and eligible students need to apply online on the*** [***Atma Nirbhar Yojana***](https://agri.arunachal.gov.in/atmanirbhar_yojana/) ***portal.*** \n**New User Registration**\n\n   1. Select the &amp;quot;[Login](https://agri.arunachal.gov.in/atmanirbhar_yojana/login)&amp;quot; option.   1. Subsequently, click on the &amp;quot;[Register Here&amp;quot;](https://agri.arunachal.gov.in/atmanirbhar_yojana/user-register) link.   1. Complete the registration form with the requisite details, including your name, Aadhaar card number, email ID, and mobile number.\n   1. Establish a password for your account.\n   1. Upon successful registration, the applicant will receive a User ID and password.\n\n***Login &amp;amp; Application Process:***\n\n   1. [Log in](https://agri.arunachal.gov.in/atmanirbhar_yojana/login) using the provided User ID and password to access the application form.   1. Fill in the complete application form.\n   1. Upload the required documents, including a photograph, caste certificate, residential certificate, and land ownership proof, etc.\n   1. Submit the application form.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cdn.s3waas.gov.in/s3c0c7c76d30bd3dcaefc96f40275bdc0a/uploads/2023/02/2023020361.pdf"
+    },
+    {
+      "title": "Application Portal",
+      "url": "https://agri.arunachal.gov.in/atmanirbhar_yojana/"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://ahvdd.arunachal.gov.in/index.html"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

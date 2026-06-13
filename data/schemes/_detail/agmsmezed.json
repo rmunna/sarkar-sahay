@@ -1,0 +1,40 @@
+{
+  "slug": "agmsmezed",
+  "name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Financial Support to MSMEs in ZED Certification",
+  "shortTitle": "AGMSMEZED",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Industries and Mines Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity",
+    "Industries"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Aatmanirbhar Gujarat Scheme for assistance to MSMEs\" aims to empower the state's dynamic MSME sector, which significantly contributes to employment, GDP, and exports.",
+  "descriptionMd": "The &amp;quot;Aatmanirbhar Gujarat Scheme for MSMEs&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat. It aims to empower the state&amp;#39;s dynamic MSME sector, which significantly contributes to employment, GDP, and exports. Effective from October 5, 2022, to October 4, 2027, this initiative supports growth, investments, and the vision of &amp;quot;Aatmanirbhar Gujarat&amp;quot; and &amp;quot;Aatmanirbhar Bharat.&amp;quot;\nThe component &amp;quot;Financial Support to MSMEs in ZED Certification&amp;quot; aims to promote Zero Defect and Zero Effect (ZED) manufacturing among MSMEs. It focuses on quality improvement, energy efficiency, environmental sustainability, and the adoption of advanced manufacturing standards to support the &amp;quot;Make in India&amp;quot; campaign.",
+  "benefitsMd": "&gt; **Financial Assistance:**\n\n\n  - Subsidy of 50% of all charges after deducting assistance from the Government of India.\n  - Maximum subsidy capped at ₹50,000 during the scheme&amp;#39;s operative period.\n\n&gt; **Quality and Sustainability Enhancement:**\n\n\n  - Encourages MSMEs to adopt ZED manufacturing practices.\n  - Promotes energy-efficient manufacturing and eco-friendly production.\n\n&gt; **Professional Development:**\n\n\n  - Develops professionals skilled in ZED certification and manufacturing.\n\n&gt; **Support for Prior Expenses:**\n\n\n  - Eligible enterprises can claim assistance for expenses incurred during the previous scheme’s operative period.\n\n&lt;br&gt;",
+  "eligibilityMd": "1. The firm must be a Micro/Small/Medium enterprise.\n   1. The enterprise must have obtained acknowledgment or registration from the Ministry of MSME or the Department for Promotion of Industry and Internal Trade (DPIIT), as applicable.\n   1. New manufacturing enterprises or existing ones undertaking expansion or diversification are eligible.\n   1. The enterprise must commence commercial production during the scheme&amp;#39;s operative period.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step 1:** Visit the [Investor Facilitation Portal (IFP)](https://ifp.gujarat.gov.in/DIGIGOV/) portal. Click on &quot;New Investor Registration&quot; to access the registration form.\n**Step 2:** Fill in the Registration Form. Click on &quot;Submit&quot;. \n**Step 3:** Verify the E-mail ID using the link sent on your registered E-mail ID.\n**Step 4:** After verification, you will be registered successfully.\n<br>\n\n> **Post-Registration Process:**\n\n**Step 1:** Visit the [Investor Facilitation Portal (IFP)](https://ifp.gujarat.gov.in/DIGIGOV/) portal. Click on &quot;Login&quot;.\n**Step 2:** Enter the email address and password you used during registration.\n**Step 3:** Click the &quot;Login&quot; button to access your account.\n**Step 4:** Now fill in the required details and mandatory documents about your business to complete the application process.\n<br>\n\n> **Helpdesk:** [Contact Here.](https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/contact.jsp?pagedisp=static)",
+  "references": [
+    {
+      "title": "Guidelines 1",
+      "url": "https://msmec.gujarat.gov.in/uploads/homepagescroll/GR09082023.pdf"
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://msmec.gujarat.gov.in/uploads/homepagescroll/Guideline09082023.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://ifp.gujarat.gov.in/IC/digigov.htm?actionFlag=loadCitizenRegPage"
+    },
+    {
+      "title": "Document Checklist",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2023/CHECKLIST_MERGE.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

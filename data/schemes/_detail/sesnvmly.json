@@ -1,0 +1,35 @@
+{
+  "slug": "sesnvmly",
+  "name": "Self-Employment Scheme: Nana Vyavasay Mate Loan Yojana",
+  "shortTitle": "SESNVMLY",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Nana Vyavasay Mate Loan Yojana\" is a component under the \"Self-Employment Scheme\" that provides financial assistance in the form of a loan to establish or expand small businesses such as grocery shops, medical stores, bookstores, etc.",
+  "descriptionMd": "&amp;quot;Nana Vyavasay Mate Loan Yojana&amp;quot; is a component under the &amp;quot;Self-Employment Scheme&amp;quot; introduced by the Social Justice and Empowerment Department, Gujarat. Under this scheme, for any self-employment business like a business or grocery shop, medical store, readymade garment store, bookstore, etc., a loan of up to ₹10,00,000/- or the actual expenditure incurred, whichever is less, will be provided by the Corporation. The scheme is being implemented by the Gujarat Unreserved Education and Economical Development Corporation. The scheme is being implemented by the Gujarat Unreserved Education and Economical Development Corporation.",
+  "benefitsMd": "- **Financial Assistance:** Loan up to ₹10,00,000/- or actual expenditure, whichever is lower.",
+  "eligibilityMd": "1. The applicant must be a resident of Gujarat.\n   1. The applicant must belong to the unreserved category.\n   1. The applicant&amp;#39;s age should be between 18 years and 50 years.\n   1. The small business will have to be started within three months of obtaining the loan.\n   1. The applicant must be willing to repay the loan in equal monthly installments over 5 years after three months of starting the business.\n   1. The annual income limit of the family should be ₹6,00,000/- or less.\n\n&lt;br&gt;\n\n**Note:** \n\n   1. The interest rate on the loan will be 5 percent simple interest per annum and 4 percent for women.\n   1. The simple interest will be calculated based on the amount of the loan given per year.\n   1. Only 1 person from a family can avail of the scheme benefits.\n   1. A maximum of 5 beneficiaries per village will be selected.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step 1:** Go to the Corporation&#39;s [official website](https://esamajkalyan.gujarat.gov.in/) and navigate to the &quot;Gujarat Unreserved Education and Economical Development Corporation&quot; section under the Corporation menu.\n**Step 2:**Click on &quot;Nana Vyavasay Mate Loan Yojana&quot; under &quot;Self-Employment Scheme&quot; and then Apply Now.\n**Step 3:** Click on &quot;New User? Please Register Here&quot;.\n**Step 4:** Enter the required details and click Register.\n<br>\n\n> **Application Process:**\n\n**Step 1:** Enter your User ID, Password, and Captcha Code, then click &quot;Login&quot;.\n**Step 2:** Read the scheme details carefully and click OK.\n**Step 3:** If your permanent address is correct, confirm it. Otherwise, enter your correct address.\n**Step 4:** Click Save &amp; Next to proceed. Upload the relevant documents.\n**Step 5:** If you need to make changes, click &quot;No, Cancel&quot;. If all details are correct, click &quot;Yes, Submit&quot;.\n**Step 6:** Click Save Application. Note down your Application Number for future reference. You can also take a printout by clicking Print Application.\n<br>\n\n> **Check Application Status:** [Click here](https://esamajkalyan.gujarat.gov.in/ViewApplicationStatus.aspx).\n\n> **Post Online Application Procedure:****** After submitting the online application, the applicant must take a printout of the application, sign it, and submit it along with all uploaded documents (certificates, mark sheets, etc.) to the concerned Deputy Director (Non-Reserved Category) or the District Social Welfare Officer through courier, post, or by visiting in person.\n\n> **Contact Us****:** [Click here](https://gueedc.gujarat.gov.in/contact-us.html).\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines 1",
+      "url": "https://gueedc.gujarat.gov.in/self-employment-scheme-2.html"
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://esamajkalyan.gujarat.gov.in/index.aspx?ServiceID=OV84nWF+/jTtDipu5vA9iA=="
+    },
+    {
+      "title": "User Manual",
+      "url": "https://gueedconline.gujarat.gov.in/Account/ApplicationLogin"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "pgspls",
+  "name": "Post Graduate Scholarship for Ph.D./LLM Students",
+  "shortTitle": "PGSPLS",
+  "level": "state",
+  "state": "Assam",
+  "nodalDept": "Higher Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide financial assistance to students of Assam pursuing PhD and LLM degree courses in recognized institutions. It benefits academically meritorious students who have obtained at least 55% marks in their last qualifying examination and are domiciled in Assam.",
+  "descriptionMd": "The scheme &quot;Post Graduate Scholarship for Ph.D./LLM Students&quot; by the Higher Education Department, Government of Assam, aims to provide financial assistance to students of Assam pursuing Doctor of Philosophy and Master of Laws degree courses in any recognized colleges or universities in the state and other states of the country, focusing on those with uniformly good academic records. The scheme provides access to poor students of the state and helps them achieve the benefits of higher education through scholarship support for advanced academic pursuits. The applicant must have registered their names as Doctor of Philosophy/Post Doctorate Research Scholar in any recognized universities and must be domiciled in Assam. The scheme is implemented by Higher Education Department. The applications for this scheme are accepted online.\n<br>",
+  "benefitsMd": "**Financial Assistance:** Scholarship is provided to the poor students to help them achieve the benefits of Higher Education. \n**Mode of Disbursement:** Direct Benefit Transfer (DBT)\n_*The applicant must maintain registration as Doctor of Philosophy/Post Doctorate Research Scholar in recognized universities._\n_*Academic performance standards must be maintained as per university requirements._\n<br>",
+  "eligibilityMd": "- The applicant must have registered their names as Doctor of Philosophy/Post Doctorate Research Scholar in any recognized universities.\n- The applicant must be domiciled in Assam.\n- The applicant must have obtained at least 55% or above marks in the last qualifying examination.\n- The applicant must have uniformly good academic records.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** _Advertisement Publication_\nWait for the official advertisement to be published by the Higher Education Department announcing the opening of applications for the scholarship scheme.\n**Step 2:** _Online Application Submission_\nVisit the official portal (yet to be notified) and submit the online application form through the designated university portal with all required information and documents.\n**Step 3:** _Application Processing_\nThe submitted applications will be received online from the universities and processed by the concerned authorities for initial verification and compilation.\n**Step 4:** _Selection Process_\nThe selection committee will review all eligible applications and select candidates based on the prescribed eligibility criteria and merit evaluation process.\n**Step 5:** _Financial Sanction_\nSuccessful candidates will have their files moved for financial sanction approval from the competent authority before benefit disbursement.\n**Step 6:** _Benefit Disbursement_\nThe scholarship amount will be disbursed through Direct Benefit Transfer mode directly to the bank accounts of selected beneficiaries.\n<br>",
+  "references": [
+    {
+      "title": "Schemes Of Department",
+      "url": "https://highereducation.assam.gov.in/portlets/scholarships-0"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

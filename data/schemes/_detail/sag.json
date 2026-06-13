@@ -1,0 +1,27 @@
+{
+  "slug": "sag",
+  "name": "Scheme For Adolescent Girls",
+  "shortTitle": "SAG",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry of Women and Child Development",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "A support scheme by Ministry of Women & Child Development enabling self-development and empowerment of out-of-school adolescent girls, and improving their nutritional, health & hygiene  status. All out-of-school adolescent girls in the 11 to 14 years age group are eligible for this scheme.",
+  "descriptionMd": "A support scheme by Ministry of Women &amp; Child Development enabling self-development and empowerment of out-of-school adolescent girls, and improving their nutritional, health &amp; hygiene  status.\n<br>\n\nThe scheme aims at supporting out of school AGs to successfully transition back to formal schooling or bridge learning / skill training. Upgrade their home-based skills and life skills. Provide information/guidance about existing public services such as Primary Health Centers, Rural Hospitals/CHCs, Post Office, Bank, Police Station, etc.\n<br>\n\nScheme for Adolescent Girls - SAG is implemented using the platform of Anganwadi Services of Umbrella ICDS Scheme through Anganwadi Centers (AWCs).",
+  "benefitsMd": "**Nutrition Component:**\n\n1. Take Home Ration or Hot Cooked Meal for out of school girls - Nutrition Provision ₹ 9.50 per day (600 calories; 18‐20 gram of protein and recommended daily intake of micronutrients per day for 300 days in a year.). \n1. The financial norms will be ₹ 9.5/- per beneficiary per day for 300 days in a year. This would be inclusive of the cost of micronutrient fortification.\n\n<br>\n\n**Non Nutrition Component:**\n\n1. IFA supplementation.\n1. Health check‐up and Referral services.\n1. Nutrition &amp; Health Education (NHE).\n1. Counseling / Guidance on family welfare, ARSH, child care practices.\n1. Life Skill Education and accessing public services.",
+  "eligibilityMd": "1. The applicant must be a **FEMALE**.1. The age of the applicant must be between **11 and 14 years**.",
+  "exclusionsMd": "NA",
+  "applicationMode": "Offline",
+  "applicationMd": "The out-of-school adolescent girls (11 - 14 years age) are identified by the State / UT through a Base Line Survey, a one-time activity carried out by the Anganwadi Workers (AWW) who should go from house to house to meet every family in the area covered by her AWC, and gather information about the details of such girls. Such girls are provided the benefits through the Anganwadi Centre (AWC).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://wcd.nic.in/sites/default/files/Letter%203rd%20on%2031%20August%202018%20.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

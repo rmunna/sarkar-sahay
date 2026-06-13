@@ -1,0 +1,31 @@
+{
+  "slug": "nssw",
+  "name": "New Swarnima Scheme For Women",
+  "shortTitle": "NSSW",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Social Justice and Empowerment",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "A term loan scheme by the Ministry of Social Justice and Empowerment for women entrepreneurs from backward classes to obtain a loan of up to ₹ 2,00,000/- @ 5% per annum, thereby providing them social & financial security.",
+  "descriptionMd": "The scheme &quot;New Swarnima Scheme For Women&quot; has been implemented by the Ministry of Social Justice and Empowerment, Govt of India. It aims to provide women entrepreneurs from backward classes to obtain a loan of up to ₹2,00,000/- @ 5% per annum, thereby providing them social &amp; financial security. The scheme is introduced by the National Backwards Classes Finance and Development Corporation (NBCFDC) and implemented by State Channelising Agencies (SCAs), which act as the nodal agency.\n<br>",
+  "benefitsMd": "1. A subsidy amount of ₹ 2,00,000/- @ 5% per annum, for self-employment. (The remaining amount has to be self-owned by the beneficiary.)\n1. The beneficiary woman is not required to invest any amount of her own on the projects upto cost of ₹ 2,00,000/-.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a Female.\n1. The applicant&#39;s age must be between 18 and 55 years.\n1. The applicant must be an Entrepreneur\n1. The Total Annual Family Income of the Applicant must be Less than ₹ 3 Lakh per Annum.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The eligible applicant needs to visit the nearest SCA office and apply on the prescribed form for the Swarnima Scheme for Women. You can find your nearest SCA office at this link - [https://nsfdc.nic.in/channel-patrners/scas ](https://nsfdc.nic.in/channel-patrners/scas) \n**Step 2:** Enter the necessary details in the application form and mention the needs and choice of vocation and training requirements, if any.\n**Step 3:** Submit your application form and the required documents to the same SCA office. After reviewing the application, the loan will be sanctioned by SCA.\n<br>",
+  "references": [
+    {
+      "title": "Entrepreneurial Schemes Of NBCFDC",
+      "url": "https://socialjustice.gov.in/schemes/13"
+    },
+    {
+      "title": "Scheme Guidelines By NBCFDC",
+      "url": "https://nbcfdc.gov.in/nbcfdc/web/loan-scheme-description"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

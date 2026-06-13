@@ -1,0 +1,27 @@
+{
+  "slug": "lw",
+  "name": "Lab on Wheels",
+  "shortTitle": "LW",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Science And Technology",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "This program has been launched to promote & popularize science education among school students and youth studying science subjects across all 13 districts of Uttarakhand.",
+  "descriptionMd": "The scheme “Lab on Wheels” is implemented by the Uttarakhand State Council for Science and Technology (UCOST) under the Science and Technology, Government of Uttarakhand. It aims to promote &amp;amp; popularize science education among school students and youth studying science subjects across all 13 districts of the state.\n<br>",
+  "benefitsMd": "The Lab on Wheels program has been launched to popularize science in rural areas of Uttarakhand and promote science education in schools. It provides students from all districts, including remote areas, with the opportunity to explore and learn the practical applications of science.\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of one of the 13 districts of Uttarakhand.\n1. The applicant must be a student or youth studying science subject in a government or non-government school.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "Interested students may contact their respective government or private schools to avail the benefits of the program.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 87)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "eadp",
+  "name": "Entrepreneurship and Development Programme",
+  "shortTitle": "EDP",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Science And Technology",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Individual",
+    "NGO",
+    "Business Entity"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Under this scheme, interested entrepreneurs, NGOs, scientists, researchers, and teachers from across the state are provided support to convert natural resources into viable business opportunities by enhancing technology and value addition.",
+  "descriptionMd": "The scheme “Entrepreneurship and Development Programme” is implemented by the Uttarakhand State Council for Science and Technology (UCOST) under the Science and Technology, Government of Uttarakhand. It aims to establish Technology Resource Centers (TRCs) that develop advanced technologies based on locally available natural resources and improve techniques for commercial applications.\n<br>",
+  "benefitsMd": "Under the Entrepreneurship and Development Program, Technology Resource Centers (TRCs) are established. These centers work on the development of advanced technologies based on locally available natural resources and improve them for business needs, so that businesses can be created by adding value to the available natural resources.\n<br>",
+  "eligibilityMd": "1. The applicant must be an interested Entrepreneur/NGO Scientist/Researcher/Teacher from Uttarakhand.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "After inviting applications through an advertisement, the selection will be made based on a presentation before the duly constituted competent committee.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 85)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

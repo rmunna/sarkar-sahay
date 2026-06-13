@@ -1,0 +1,32 @@
+{
+  "slug": "nag",
+  "name": "Nalanda Award",
+  "shortTitle": "NAG",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "NGO",
+    "Government Organisation"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The \"Nalanda Award\" implemented by the Social Justice and Empowerment Department, Gujarat, recognizes organizations for exceptional work in the field of social welfare, particularly for the socially and educationally disadvantaged sections.",
+  "descriptionMd": "The &amp;quot;Nalanda Award&amp;quot; implemented by the Social Justice and Empowerment Department, Gujarat, aims to honor organizations that have significantly contributed to the upliftment of socially and educationally backward communities. This state-level recognition encourages continued efforts in the field of social welfare and highlights best practices that can be replicated across the state.",
+  "benefitsMd": "- Financial assistance to the selected organization.",
+  "eligibilityMd": "- The organization must have made outstanding contributions in the field of social welfare.\n  - The welfare work should benefit socially and educationally backward classes (SEBC).\n\n<br>\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step 1:** Go to the  [eSamajKalyan portal](https://esamajkalyan.gujarat.gov.in/index.aspx?HodID=Mgt3fh4h1dSAcTIdCEHhzQ==) and navigate to the &quot;Nalanda Award&quot; section under the menu option.\n**Step 2:** Click on Apply Now.\n**Step 3:** Click on &quot;New User? Please Register Here&quot;.\n**Step 4:** Enter the required details and click Register.\n<br>\n\n> **Application Process:**\n\n**Step 1:** Enter your User ID, Password, and Captcha Code, then click &quot;Login&quot;.\n**Step 2:** Read the scheme details carefully and click OK.\n**Step 3:** If your permanent address is correct, confirm it. Otherwise, enter your correct address.\n**Step 4:** Click Save &amp; Next to proceed. Upload the relevant documents.\n**Step 5:** If you need to make changes, click &quot;No, Cancel&quot;. If all details are correct, click &quot;Yes, Submit&quot;.\n**Step 6:** Click Save Application. Note down your Application Number for future reference. You can also take a printout by clicking Print Application.\n<br>\n\n> **Check Application Status:** [Click here](https://esamajkalyan.gujarat.gov.in/ViewApplicationStatus.aspx).",
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 371)",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://esamajkalyan.gujarat.gov.in/HelpManual/Citizen-HelpManual.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

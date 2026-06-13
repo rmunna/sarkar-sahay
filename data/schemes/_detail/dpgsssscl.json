@@ -1,0 +1,51 @@
+{
+  "slug": "dpgsssscl",
+  "name": "Dr. P. G. Solanki Scheme for Stipend to Scheduled Caste Lawyers",
+  "shortTitle": "DPGSSSSCL",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under the scheme, a monthly stipend is provided for three years to law graduates belonging to the scheduled caste category, as well as to the senior lawyer who trains such individuals. This support is extended due to their poor financial condition, aiming to prevent mid-practice dropout.",
+  "descriptionMd": "The scheme “Dr. P. G. Solanki Scheme for Stipend to Scheduled Caste Lawyers” was launched by the Director Scheduled Caste Welfare, Department of Social Justice &amp;amp; Empowerment, Government of Gujarat. The scheme was launched in year 2000. Under the scheme, a monthly stipend is provided for three years to law graduates belonging to the scheduled caste category, as well as to the senior lawyer who trains such individuals. This support is extended due to their poor financial condition, aiming to prevent mid-practice dropout.",
+  "benefitsMd": "The stipend is given to law graduates for training in practice through senior lawyers as under:\n\n1. ₹1,000/- per month for First Year Training\n1. ₹800/- per month for Second Year Training\n1. ₹600/- per month for Third Year Training\n1. ₹500/- per month as given to Senior Lawyer for giving training",
+  "eligibilityMd": "1. The applicant should be a Law graduate.\n   1. The applicant should belong to the Scheduled Caste category.\n   1. The benefit of this scheme will be given only to natives of Gujarat state.\n   1. There is no income limit in this scheme.\n   1. The benefit of this scheme will be available to one person only once.\n\n**Note 01:** Application has to be made within two years of registration in Gujarat Bar Council.\n**Note 02:** A senior lawyer should have been practicing for at least 10 years.\n**Note 03:** A senior lawyer can retain up to two more junior lawyers for training.\n**Note 04:** Training to lawyers should be given at the district headquarters. By amending it, this type of training can also be given at the taluka headquarters.\n**Note 05:** Trainee junior advocates will have to submit a certificate of training to the senior advocate every month.\n**Note 06:** At least 15% of applicants must be from the most marginalized of the scheduled castes.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 01:** The eligible applicant may visit the e-Samaj Kalyan Portal: [https://esamajkalyan.gujarat.gov.in/](https://esamajkalyan.gujarat.gov.in/)\n**Step 02:** On the home page, under the tab ‘Citizen Login’, click on New User ‘[Please Register Here](https://esamajkalyan.gujarat.gov.in/Registration.aspx)’.\n**Step 03:** Enter your Full Name as per Aadhaar Card, Gender, Date of Birth, Aadhaar Card Number, Email ID, Caste etc., and then click on ‘Register’.\n**Step 04:** After successful registration, the applicants can login through their User ID and Password.\n**Step 05:** Now, click on ‘User Profile’ to update your profile.\n**Step 06:** Fill in all the mandatory information and then click on ‘Update’. \n**Step 07:** After updating the profile successfully, select the scheme appearing on the home page; an application form will open.\n**Step 08:** Fill in all the mandatory details in the application form and upload all the relevant documents.\n**Step 09:** Now agree with the terms &amp; conditions and click on ‘Save Application’.\n**Step 10:**  Submit the application form and take out the print of the application for future reference. The applicant can note down the application number to track the application status by logging into the portal using their User ID and Password.\n[User Manual](https://esamajkalyan.gujarat.gov.in/HelpManual/Citizen-HelpManual.pdf)",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://sje.gujarat.gov.in/dscw/schemes/1550"
+    },
+    {
+      "title": "Scheme Details (Page No. 86)",
+      "url": "https://sje.gujarat.gov.in/assets/downloads/SCSP_202021_09072021.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://esamajkalyan.gujarat.gov.in/index.aspx?ServiceID=smaOYRuIYF7GFLvbRsn23Q=="
+    },
+    {
+      "title": "E-Samaj Kalyan Portal:",
+      "url": "https://esamajkalyan.gujarat.gov.in/"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://sje.gujarat.gov.in/dscw/assets/downloads/Application_Form_31082021.pdf"
+    },
+    {
+      "title": "Notification-1",
+      "url": "https://sje.gujarat.gov.in/dscw/assets/downloads/Circular_11102005.pdf"
+    },
+    {
+      "title": "Notification-2",
+      "url": "https://sje.gujarat.gov.in/dscw/assets/downloads/GR_13122004.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

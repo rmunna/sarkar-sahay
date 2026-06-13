@@ -1,0 +1,27 @@
+{
+  "slug": "jrfrafn",
+  "name": "Junior Research Fellowship (JRF) And Research Associateship (RA) For Foreign Nationals",
+  "shortTitle": "JRFRAFN",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Higher Education",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The scheme was initiated keeping in view the political and cultural bilateral relations of India with other developing countries: Asia, Africa, Latin America. The scheme has opened new vistas for foreign students and teachers, enable them to come to India and undertake advanced studies and research.",
+  "descriptionMd": "**INTRODUCTION** \nThe scheme was initiated keeping in view the political and cultural bilateral relations of India with other developing countries of Asia, Africa, and Latin America. The scheme has opened new vistas for foreign students and teachers, enabling them to come to India and undertake advanced studies and research in sciences, humanities, and social sciences in Indian Universities. \n<br>\n\n**OBJECTIVE** \nThe objective of the scheme is to provide an opportunity for foreign students and teachers from\ndeveloping countries to undertake advanced study and research leading to M.Phil/Ph.D. and postdoctoral research in sciences, humanities, and social sciences at Indian Universities.",
+  "benefitsMd": "",
+  "eligibilityMd": "***Target Group:*** Students and teachers from developing countries of Asia/Africa and Latin America. \n<br>\n\n***For Junior Research Fellowship (JRF):*** 35 years for male candidates as of 1st July of the year of application and 40 years for female candidates. The candidates must have at least a high-class master’s degree with a second-class bachelor’s degree or a second-class master’s degree with a first-class bachelor’s degree. \n<br>\n\n***For Research Associateship (RA):*** In the case of male applicants the age should be 40 years as of 1st July of the year of application, and 45 years in the case of female candidates. The candidates must have a doctorate degree, published research work to their credit, and evidence of independent research work.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.ugc.ac.in/oldpdf/xiplanpdf/JRFSAforeignnational.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "phms",
+  "name": "Post Harvest Marketing Scheme",
+  "shortTitle": "PHMS",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual",
+    "Self Help Groups (SHGS)",
+    "NGO",
+    "Registered Societies"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The “Post Harvest Marketing Scheme” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya for the creation of post harvest marketing infrastructure.",
+  "descriptionMd": "The “Post Harvest Marketing Scheme” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya for the creation of post harvest marketing infrastructure. Under the scheme, assistance is provided for evacuation facilities like pick-up trucks/ mini trucks/Tata mobile to the Farmers Groups/ Farmers Clubs/ SHG farmers Co-Operative Societies/ FIG/ FPOs, etc. for transportation of farm produce to the market.",
+  "benefitsMd": "> **Pattern of Assistance:**\n\n\n- Creation of infrastructural facilities for post harvest marketing, Grading Units etc.\n\n> **Type of Assistance and Entitlement (If Any):**\n\n**Sl. No.****Entitlement****Owantum of Assistance**1Evacuation facilities like pick-up trucks/ mini trucks/ Tata mobile to the Farmers Groups/ Farmers Clubs/ SHG farmers Co-Operative Societies/ FIG/ FPOs etc. for transportation of farm produce to the market.₹2,000,00/- per Group or SHG. (50% Subsidy)2Village level Farmers training on Post Harvest Management.₹189/ day/farmer. (Daily allowance)",
+  "eligibilityMd": "1.\tThe applicant should be a permanent resident of Meghalaya.\n2.\tThe applicant should be a bonafide farmer engaged in agriculture.\n3.\tThe applicant should possess owned or leased land of at least 0.2 hectares or more.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "> **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at the nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe bonafide farmers shall be selected on a first come first serve basis.\n&gt; **Whom to Contact:**\n\n1. Sectoral Officer, Department of Horticulture\n2. [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)\n3. Horticulture Development Officer.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=112"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

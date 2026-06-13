@@ -1,0 +1,27 @@
+{
+  "slug": "pmssts",
+  "name": "The Post-Matric Scholarship For Scheduled Tribes Students",
+  "shortTitle": "PMSSTS",
+  "level": "state",
+  "state": "Mizoram",
+  "nodalDept": "Mizoram Scholarship Board",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme \"Post-Matric Scholarship for Scheduled Tribes Students\" by the Ministry of Tribal Affairs, Government of India, and Government of Mizoram aims to provide financial assistance to ST students pursuing post-matriculation education. It covers various recognized courses.",
+  "descriptionMd": "The scheme &amp;quot;Post-Matric Scholarship for Scheduled Tribes Students&amp;quot; by the Ministry of Tribal Affairs, Government of India, and the Government of Mizoram aims to provide financial assistance to Scheduled Tribe students pursuing post-matriculation education. Through this scheme, financial support is provided to ST students enrolled in recognized professional, technical, non-professional, and non-technical courses, including correspondence, distance, and continuing education. The scheme is implemented by the Mizoram Scholarship Board, Government of Mizoram. It ensures that students can pursue higher education without financial constraints. The assistance supports education at various levels and promotes educational advancement among Scheduled Tribes. The funding is shared in a 90:10 ratio between the Ministry of Tribal Affairs and the Mizoram State Government.\n<br>",
+  "benefitsMd": "1. Financial assistance for post-matric education.\n   1. Support for ST students pursuing recognized professional, technical, non-professional, non-technical, and correspondence courses.\n\n<br>",
+  "eligibilityMd": "1. The applicant should belong to the Scheduled Tribes community.\n1. The applicant should be permanently settled in the state of Mizoram.\n1. The applicant should be pursuing studies from Class XI up to a Post-Doctoral Fellowship.\n1. The applicant’s parents’/guardians’ income from all sources should not exceed ₹2,50,000 (Rupees Two Lakh Fifty Thousand only) per annum.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "1. Open the official website of NSP [https://scholarships.gov.in/](https://scholarships.gov.in/)1. Register yourself on the portal if you are not registered already.\n1. Log in with your details.\n1. Click on the &quot;POST-MATRIC SCHOLARSHIP FOR SCHEDULED TRIBES STUDENTS&quot; option.\n1. The application form will open on the screen.\n1. Enter details to fill out the application form.\n1. Upload the required documents.\n1. Submit your application form.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://msb.mizoram.gov.in/uploads/attachments/2022/10/a507f5ed5a716eec8d2570e22cd4ed8c/scholarship-scheme-to-be-upload.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

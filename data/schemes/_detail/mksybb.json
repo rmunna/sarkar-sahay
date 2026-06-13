@@ -1,0 +1,27 @@
+{
+  "slug": "mksybb",
+  "name": "Mukhyamantri Kanya Suraksha Yojana",
+  "shortTitle": "MKSYBB",
+  "level": "state",
+  "state": "Bihar",
+  "nodalDept": "Social Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Mukhyamantri Kanya Suraksha Yojana (MKSY)\" is a welfare initiative by the Government of Bihar to combat female foeticide, improve the sex ratio, and promote birth registration.",
+  "descriptionMd": "Launched by the Government of Bihar, the Mukhyamantri Kanya Suraksha Yojana (MKSY) aims to provide financial support to girl children belonging to BPL families. The scheme strives to enhance the value of girl children in society, prevent female foeticide, improve the sex ratio, and ensure the registration of births.",
+  "benefitsMd": "- ₹2,000/- is invested as a fixed deposit for each eligible girl child.\n\n&gt; **Note:** In the event of the girl child’s death, the amount is returned to the Women &amp;amp; Child Development Corporation, Bihar.\n\n&lt;br&gt;\n\n&lt;br&gt;",
+  "eligibilityMd": "1. The Girl must be a resident of Bihar.\n1. The Girl child must born on or after November 22, 2007.\n1. The family must belong to the Below Poverty Line (BPL) category.\n\n> Note: A maximum of 2 girl children per family can avail of the benefit.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Obtain the application form from the Women &amp;amp; Child Development Corporation or from the local designated government offices.\n**Step 2:** Fill out the form with accurate details and attach the required documents.\n**Step 3:** Submit the application form to the nearest government office or relevant authority.\n**Step 4:** The documents will be verified, and eligible beneficiaries will be informed.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://wcdc.bihar.gov.in/MKSYDetails"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

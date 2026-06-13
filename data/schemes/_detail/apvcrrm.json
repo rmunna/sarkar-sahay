@@ -1,0 +1,31 @@
+{
+  "slug": "apvcrrm",
+  "name": "Assistance for Planting Vegetable Crops for Raw and Ripe Mandap",
+  "shortTitle": "APVCRRM",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Agriculture, Farmers Welfare and Cooperation Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme provides financial assistance to farmers in Gujarat for setting up vegetable trellises (Mandap) for raw, semi-ripe, and ripe vegetables, with varying support for General, SC, and ST farmers.",
+  "descriptionMd": "The scheme &amp;quot;Assistance for Planting Vegetable Crops for Raw and Ripe Mandap&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to offer financial support to farmers across Gujarat for constructing vegetable trellises (mandaps) using wooden/bamboo supports and GI/plastic wires.",
+  "benefitsMd": "&gt; **Raw Mandap (Tomato/Chilli and other vegetables):**\n\n\n\n    - General Farmers: 50% subsidy, up to ₹26,000/ha.\n    - SC/ST Farmers: 75% subsidy, up to ₹39,000/ha.\n\n\n&gt; **Semi-ripe Mandap (Vine vegetables):**\n\n\n\n    - General Farmers: 50% subsidy, up to ₹40,000/ha.\n    - SC/ST Farmers: 75% subsidy, up to ₹60,000/ha.\n\n\n&gt; **Ripe Mandap (Vine vegetables):**\n\n\n\n    - General Farmers: 50% subsidy, up to ₹80,000/ha.\n    - SC/ST Farmers: 75% subsidy, up to ₹1,20,000/ha.\n\n\n&gt; **Other Support Details:**\n\n\n\n    - Maximum area eligible: 2 hectares per farmer.\n    - Construction material: 1600 wooden/bamboo poles per hectare, 400 kg GI wire (12-18 gauge) or plastic wire.\n    - Recommended spacing: 2.50 x 2.50 meters.\n\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a farmer.\n   1. The applicant must be residing in Gujarat.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the confirmed application.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx).",
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 72)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    },
+    {
+      "title": "User Manual (Applicant Registration)",
+      "url": "https://ikhedut.gujarat.gov.in/site/iKhedut%202.0%20User%20Manual%20PPT_Gujarati.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

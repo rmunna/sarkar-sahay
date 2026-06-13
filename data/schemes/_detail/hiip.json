@@ -1,0 +1,27 @@
+{
+  "slug": "hiip",
+  "name": "Homes For Intellectually Impaired Persons",
+  "shortTitle": "HIIP",
+  "level": "state",
+  "state": "Maharashtra",
+  "nodalDept": "Social Justice and Special Assistance Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The \"Homes for Intellectually Impaired Persons\" is a scheme by the Department of Social Justice & Special Assistance, Govt. of Maharashtra. In this scheme, Mentally Deficient Children who are in need of care and protection are admitted into shelter homes through the Child Welfare Committees.",
+  "descriptionMd": "The &quot;Homes for Intellectually Impaired Persons&quot; is a scheme by the Department of Social Justice &amp; Special Assistance, Govt. of Maharashtra. In this scheme, Mentally Deficient Children who are in need of care and protection are admitted into shelter homes through the Child Welfare Committee of the district formed under the Juvenile Justice (Care &amp; Protection of Children) Act 2000 and Amendment Act 2006. The numbers of MDC homes are 19 out of which 14 are granted and 5 are non-granted.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant should be a citizen of India.\n1. The applicant should be an orphan.\n1. The applicant should be a permanent resident of Maharashtra State.\n1. The applicant should be a Mentally Deficient Child (MDC) who is in need of care and protection.\n1. The percentage of the disability should be 40% or above.\n\n<br>\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

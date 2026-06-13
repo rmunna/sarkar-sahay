@@ -1,0 +1,27 @@
+{
+  "slug": "psgbcdc",
+  "name": "Parivahan Scheme (GBCDC)",
+  "shortTitle": "PSGBCDC",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide financial assistance for vehicle purchases in the transport sector for SEBC unemployed individuals. A loan is provided under the scheme.",
+  "descriptionMd": "The scheme &quot;Parivahan Scheme (GBCDC)&quot; by the Social Justice and Empowerment Department, Government of Gujarat, aims to provide financial assistance for the purchase of vehicles in the transport sector to promote self-employment among the Socially and Educationally Backward Classes (SEBC).\nThrough this scheme, a loan is provided to unemployed individuals for purchasing vehicles like auto-rickshaws, loading vehicles, etc. The scheme is implemented by the Gujarat Backward Classes Development Corporation (GBCDC).\n<br>",
+  "benefitsMd": "1. The applicant can avail a loan of up to ₹2,00,000/- for purchasing vehicles such as auto-rickshaws, loading vehicles, and other transport vehicles.\n\n<br>",
+  "eligibilityMd": "1. The applicant should belong to the Socially and Educationally Backward Classes (SEBC) category.\n1. The applicant can be of any gender.\n1. The applicant should be unemployed.\n1. The applicant should have any level of education.\n1. The applicant should have an individual and family annual income up to ₹3,00,000/-.\n1. The applicant should hold a valid Driving Licence for the type of vehicle intended for purchase (specifically for passenger vehicles).\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the [official website](https://gbcdconline.gujarat.gov.in/) of the Gujarat Backwards Caste Development Corporation.\n**Step 2:** On the top menu bar, click on &quot;Apply Online&quot;.\n**Step 3:** If you’re a new user, click on &quot;New Registration&quot; Enter personal details (name, mobile number, email, aadhaar number, etc.), create a password, and complete OTP verification.\n**Step 4:** Use your registered credentials (User ID and password) to log in.\n**Step 5:** Click on “New Application”. Select “Parivahan Scheme” from the list of available schemes.\n**Step 6:** Fill out the Application Form, enter the following details:\n\n\n  - Personal Information: Name, gender, date of birth, caste, etc.\n  - Address Information: Permanent and correspondence address\n  - Income Details: Monthly family income and source\n  - Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)\n  - Bank Account Details: For loan disbursement\n\n\n**Step 7:** Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.\n**Step 8:** Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.\n**Step 9:** You will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

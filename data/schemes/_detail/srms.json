@@ -1,0 +1,56 @@
+{
+  "slug": "srms",
+  "name": "Self Employment Scheme For Rehabilitation Of Manual Scavengers",
+  "shortTitle": "SRMS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Social Justice & Empowerment",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The Self Employment Scheme for Rehabilitation of Manual Scavengers (SRMS) was introduced in January 2017 by the Ministry of Social Justice and Empowerment, to assist the identified manual scavengers and their dependants in rehabilitation in alternative occupations.",
+  "descriptionMd": "The Self Employment Scheme for Rehabilitation of Manual Scavengers (SRMS) was introduced in January 2017 by the Ministry of Social Justice and Empowerment, to assist the identified manual scavengers and their dependants in rehabilitation in alternative occupations. SRMS was revised in November 2013 in consonance with the provision of the “Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013 (MS Act, 2013).",
+  "benefitsMd": "1. Identified manual scavengers, one from each family, are provided one-time cash assistance of ₹ 40,000.\n   1. The identified manual scavengers and their dependents are provided project-based upfront capital subsidy up to ₹ 5,00,000 and concessional loans for undertaking self-employment ventures.\n   1. Sanitation workers and their dependants are provided assistance for the procurement of sanitation-related projects on the same scale as admissible to manual scavengers for general tasks.\n   1. The group of the target beneficiaries is eligible for projects costing up to ₹ 50,00,000.\n   1. Beneficiaries are also provided training for skill development for up to two years, during which a stipend of ₹ 3,000 per month is also provided.\n   1. Manual Scavengers and their family members are also eligible for Health Insurance coverage of ₹ 5,00,000 under the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PMJAY)\n   1. Upskilling/RPL training is provided to sanitation workers.\n   1. Workshops are organized with the officers, supervisors, and sanitation workers on “Hazardous Cleaning of Sewers and Septic Tanks”.\n\n***Credit Linked upfront Capital Subsidy -*** \n**Range of Project Cost (₹) (for Individuals):** Upto ₹5,00,000 \n**Rate of Subsidy:** 50% of project cost\n**Range of Project Cost (₹) (for Individuals):** 5,00,000 to 15,00,000 \n**Rate of Subsidy:** ₹2.5 lakh + 25% of remaining project cost \n**Range of Project Cost (₹) (for Group Projects):** Upto ₹10,00,000 lakh per beneficiary maximum project cost upto ₹50,00,000\n**Rate of Subsidy:** Same as admissible to individuals subject to a maximum ₹3.75 lakh per beneficiary\n***The rate of interest chargeable from the beneficiaries will be as follows:-***\n**Range of Projects:** up to ₹1,00,000/-\t\n**Rate of Subsidy:** 5% per annum (4% per annum for women beneficiaries)\n**Range of Projects:** above 1,00,000/-\t\n**Rate of Subsidy:** 6% per annum\nThe period of repayment of the loan, including the moratorium period will be five years for projects upto ₹5,00,000/- and 7 years for projects above ₹ 5,00,000/- with a moratorium period to start the repayment of the loan will be upto 6 months.",
+  "eligibilityMd": "1. The applicant should be engaged or employed as a Manual Scavenger by an individual or a local authority or an agency or a contractor (as identified during the survey conducted by State Governments &amp;amp; allotted MS-ID/Receipt No. and their dependents).\n   1. Sanitation Workers and their dependents are eligible only for assistance for sanitation-related self-employment projects.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Application for One-Time Cash Assistance (OTCA) -****** \nIdentification of manual scavengers is done by the concerned State Governments through surveys by the Urban Local Bodies/Gram Panchayats.",
+  "references": [
+    {
+      "title": "NSKFDC SRMS Brief",
+      "url": "https://nskfdc.nic.in/en/content/home/srms-brief"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://socialjustice.gov.in/writereaddata/UploadFile/Guidelines_SRMS_2021_22.pdf"
+    },
+    {
+      "title": "Revisions / Amendments",
+      "url": "https://socialjustice.gov.in/writereaddata/UploadFile/srmsrevised-anne.pdf"
+    },
+    {
+      "title": "SRMS Loan Application Form",
+      "url": "https://nskfdc.nic.in/en/node/add/srms-projects-loan-form"
+    },
+    {
+      "title": "Success Stories",
+      "url": "https://nskfdc.nic.in/en/content/home/success-story"
+    },
+    {
+      "title": "Helpdesk",
+      "url": "https://nskfdc.nic.in/en/content/home/contact-us"
+    },
+    {
+      "title": "Feedback / Grievance",
+      "url": "https://nskfdc.nic.in/en/grievance/conte"
+    },
+    {
+      "title": "List Of Beneficiaries For Capital Susidy",
+      "url": "https://nskfdc.nic.in/dashboard/capital_subsidy.php"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "jh",
+  "name": "Jal Hauj",
+  "shortTitle": "JH",
+  "level": "state",
+  "state": "Rajasthan",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The objective of the Jal Hauj scheme is to promote sustainable water management practices and address water scarcity issues by facilitating the construction of water harvesting structures.",
+  "descriptionMd": "A Jal Hauj scheme under the Agriculture Department of Rajasthan Provides the benefit of subsidy on Jal Hauj.  According to this scheme, farmers have to construct a Jal Hauj on the elevated part of their land. Which can be filled with borewell water overnight and in the morning crops can be irrigated with the water collected in the Hauj. The department is providing financial assistance to the farmers. After filling the Jal Hauj with water, farmers can easily irrigate their crops through the pipeline. \n<br>\n\n> **Important points**\n\n\n1. The department will do spot verification before and after the construction of the water tank.\n1. The grant amount will be deposited directly into the farmer&#39;s account.",
+  "benefitsMd": "- Grant for all farmers: 60% of the cost or max ₹90,000/-",
+  "eligibilityMd": "1. The applicant must be a native of Rajasthan.\n1. The applicant should be a Farmer.\n1. The farmer should have a minimum cultivable land of half a hectare on his name.\n1. The applicant should be a source and means of irrigation.\n1. Water tank size should be 100 cubic meters or one lakh liter capacity",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on the new SSO link.\n      - SSO id will appear on the screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n**Step-5**: Submit.\n<br>\n\n> **Apply**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, [dashboard ](https://sso.rajasthan.gov.in/dashboard)will open.\n**Step-3:** Click on “ RAJ-KISAN ” option. \n**Step-4:** In &quot;Farmer&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah ID&quot; or &quot;Janaadhaar ID&quot; and search.  \n**Step-6:** Select the person name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on Get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.\n<br>\n\n> **After the application, administrative approval for the construction of water tank will be issued by the Agriculture Department.**\n\n<br>\n\n> **Information about this will be received through mobile message/agriculture supervisor.**",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan#"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/register"
+    },
+    {
+      "title": "Login",
+      "url": "https://sso.rajasthan.gov.in/signin"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

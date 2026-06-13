@@ -1,0 +1,31 @@
+{
+  "slug": "lgss",
+  "name": "LIDCOM Gattai Stall Scheme",
+  "shortTitle": "LGSS",
+  "level": "state",
+  "state": "Maharashtra",
+  "nodalDept": "Social Justice and Special Assistance Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Being implemented by LIDCOM, Govt. of Maharashtra for the Roadsides Cobblers from the (Scheduled Caste) Charmakar Community, this scheme provides a 100% subsidy for the erection of a Tin Stall of Size 4’ x 5’ x 6.5’ costing ₹16367/- per stall and ₹500/- incidental charges.",
+  "descriptionMd": "Being implemented particularly for the (Scheduled Caste) Charmakar Community, the &quot;Gattai Stall Scheme&quot; is a scheme by the Leather Industries Development Corporation (LIDCOM), Govt. of Maharashtra. This scheme is being implemented for the Roadsides Cobblers. The scheme provides a 100% subsidy for the erection of a Tin Stall of Size 4’ x 5’ x 6.5’ costing ₹16,367/- per stall and ₹500/- incidental charges. Only citizens who are permanent residents of the state of Maharashtra are eligible to apply for this scheme. This scheme is completely funded by the Govt. of Maharashtra. The main objective of LIDCOM is to implement various schemes to uplift the lifestyle of Charmakars (Dhor, Chambhar, Holar, Mochi, etc.) who are economically weak and below the poverty line and with an intention to develop them educationally, economically, and socially so as to give them a respectable place in society.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant should be a citizen of India.\n1. The applicant should be a Roadside Cobbler identified by the Gram Panchayat.\n1. The applicant should be a permanent resident of Maharashtra State.\n1. The applicant should be in the 18 to 50 years age group.\n1. The applicant should be from Charmakar Community only (Dhor, Chambhar, Holar, Mochi, etc.).\n1. The annual income of the family of the applicant should be less than or equal to ₹1,00,000/-.\n1. The applicant should have knowledge of the business for which he has applied for the loan.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.lidcom.co.in/gattai-stall.php"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://lidcom.co.in/contact.php"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

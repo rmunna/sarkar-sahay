@@ -1,0 +1,43 @@
+{
+  "slug": "sasi",
+  "name": "Scheme For Assistance For Start Ups/ Innovation",
+  "shortTitle": "SASI",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Industries and Mines Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Industries"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The \"Scheme for Assistance for Startups / Innovation\" has been introduced to encourage R&D and start innovation and entrepreneurship at different levels of the startup cycle. The scheme came into force on 07/08/2020 and will remain in operation for a period of 5 years, i.e. upto 06.08.2025.",
+  "descriptionMd": "The key objective of the Gujarat Industrial policy 2020 is to encourage R&amp;D and start innovation and entrepreneurship. Hence, the new scheme is being introduced in order to support startups and innovation at different levels of the startup cycle. In view of the strategy under Gujarat Industrial Policy, the Government is pleased to introduce a &quot;Scheme for Assistance for Startups / Innovation&quot; which will come into force from 07/08/2020 and will remain in operation for a period of 5 years, i.e. upto 06.08.2025. \n<br>\n\nThe scheme aims to give a further thrust to promoting startups and strengthening the ecosystem in the state, a task force comprised of leading stakeholders in the Gujarat startup ecosystem. Gujarat, owing to its inherent strength of widespread entrepreneurial spirit has gained a significant spot in the national startup ecosystem. The incentives to Startups under the Gujarat Industrial Policy 2015 have supported in the creation of a strong network of nodal institutions and several startups have expanded their operations/ products both at the national and international levels.",
+  "benefitsMd": "",
+  "eligibilityMd": "> **For Startups:**\n\n\n1. Any individual/group of individuals having an innovative idea/concept and recommended by an approved Nodal Institution will be eligible to get recognized as a startup under this scheme. \n1. The innovative project can be from any sector or any faculty/branch of science/ technology/ engineering/ agriculture/ healthcare and no innovation worth its name is restricted from availing assistance just because of its being in a particular sector, making this a sector agnostic scheme.\n\n<br>\n\n**Note 1:** An entity formed by splitting up or reconstruction of an existing business shall not be considered a &#39;Startup&#39;.\n**Note 2:** The startups which are availing incentives as a &#39;startup&#39; in any other &#39;startup scheme&#39; of the Government of Gujarat will not get incentives under this scheme. However, the startups/innovators availing benefits under the Student Startup and Innovation Policy (SSIP) would also be eligible to avail of assistance under this scheme.\n<br>\n\n> **For Nodal Institution:**\n\n\n1. Any University, Government approved/ affiliated/ recognized educational institution, Incubation center, PSU, R&amp;D Institutions, private and other establishments operating in Gujarat.\n1. The institution should be registered under the Companies Act-2013, rule of Section 8, as a &#39;non-profit making company&#39;.\n1. The institution should have separate spaces and engage full-time employees for the purpose.\n\n<br>\n\n> **For Mentor:**\n\n\n1. The mentor means a resource person who is registered under this scheme and associated/recommended by the Nodal Institution.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ifp.gujarat.gov.in/DIGIGOV/StaticAttachment?AttachmentFileName=/pdf/Policies/New_Industrial_Policy/14%20Scheme%20for%20Assistance%20for%20Start%20Ups%20and%20Innovation.pdf"
+    },
+    {
+      "title": "Startup Gujarat",
+      "url": "https://startup.gujarat.gov.in/scheme-for-assistance/scheme-one"
+    },
+    {
+      "title": "Walkthrough Of The Registration Process",
+      "url": "https://startup.gujarat.gov.in/page/sgpwt"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://startup.gujarat.gov.in/grievance/raise"
+    },
+    {
+      "title": "Funding Support Available To Startups Under Scheme For Assistance For Startups/ Innovation – Gujarat Industrial Policy – 2020",
+      "url": "https://wiccisurat.org/wp-content/uploads/2021/05/Guidelines-for-Funding-support-to-startups.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

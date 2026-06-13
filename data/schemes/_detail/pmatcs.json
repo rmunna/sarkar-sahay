@@ -1,0 +1,35 @@
+{
+  "slug": "pmatcs",
+  "name": "Post Matric and Top Class Scholarship",
+  "shortTitle": "PMATCS",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Higher Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The Scheme Post Matric and Top Class Scholarship for Madhya Pradesh is provide financial assistance to students from economically disadvantaged backgrounds to pursue higher education.",
+  "descriptionMd": "The Post Matric and Top Class Scholarship under the Higher Education Department of the Madhya Pradesh government is to support students from economically disadvantaged backgrounds in pursuing higher education. Specifically, it aims to alleviate financial constraints by covering tuition fees, maintenance allowances, and other educational expenses. it aims to empower deserving students to excel academically and professionally, fostering their socio-economic development and contributing to the overall advancement of society.\n<br>",
+  "benefitsMd": "1. Hostel students receive a subsistence allowance of ₹1,200 per month.\n1. Non-hostel residents are provided with a subsistence allowance of ₹650 per month.\n\n> **Reimbursement of mandatory and non-refundable fees.**",
+  "eligibilityMd": "1. The applicant Should be studying in graduate/post-graduate courses.\n1. The maximum annual income of the guardian should be ₹2,50,00/- for post-matric and ₹6,00,000/- for top class.\n1. The applicant has 40 percent or more disability.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration**\n\n**Step-1:** Go to the official website of &quot;[The National Scholarship Portal](https://scholarships.gov.in/)&quot; (NSP) using a web browser.\n**Step-2:** Look for the option that says &quot;[New Registration](https://scholarships.gov.in/registrations/#/registration-page)&quot; on the homepage and click on it.\n**Step-3:** Read the registration guidelines carefully before proceeding. then click Continue.\n**Step-4:** Now Select your Aadhaar Category\n          - Enter Mobile Number\n          - Enter OTP\n          - Enter Captcha Code, click Verify\n**Step-5:** Fill in the required details accurately in the registration form. This typically includes personal information such as\n           - Scholarship Category\n           - State\n           - Name \n           - Date of birth \n           - Gender \n           - Contact details, etc.\n**Step-6:** Click submit Register and you get your Student application ID.\n<br>\n\n> **Apply**\n\n**Step-1:** Go to the official website of &quot;[the National Scholarship Portal](https://scholarships.gov.in/)&quot; (NSP) using a web browser.\n**Step-2:** Click on Login [&quot;Fresh Application&quot;](https://scholarships.gov.in/fresh/loginPage)\n**Step-3:** After that enter you\n              - Application ID.\n              - Password\n              - Captcha\n**Step-4:** Click Login",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://highereducation.mp.gov.in/?page=PIK13eM0ZDUED%2BjPLO%2B%2Fog%3D%3D&leftid=ZnGWU%2BxYVl5%2BNBOUmwU4dg%3D%3D"
+    },
+    {
+      "title": "Registration",
+      "url": "https://scholarships.gov.in/registrations/#/"
+    },
+    {
+      "title": "Login",
+      "url": "https://scholarships.gov.in/fresh/loginPage"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "cls",
+  "name": "Composite Loan Scheme",
+  "shortTitle": "CLS",
+  "level": "state",
+  "state": "Delhi",
+  "nodalDept": "Social Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Composite Loan Scheme\" aims to provide need-based financial support to individuals from Scheduled Castes, Scheduled Tribes, Other Backward Classes, Minorities, and PwDs to help them pursue various income-generating activities. The scheme encourages self-employment and entrepreneurship.",
+  "descriptionMd": "The &quot;Composite Loan Scheme&quot; is managed by the Delhi SC/ST/OBC/Minorities/Handicapped Financial &amp; Development Corporation, Government of NCT of Delhi. The scheme aims to provide need-based financial support to individuals from Scheduled Castes, Scheduled Tribes, Other Backward Classes, Minorities, and Persons with Disabilities to help them pursue various income-generating activities. The scheme encourages self-employment and entrepreneurship, promoting economic independence and social inclusion for the targeted groups.",
+  "benefitsMd": "**Maximum Permissible Loan Amount**\n\n- For the SC category, the need-based loan is up to ₹3,00,000/-.\n- For OBC, Minority and PwD categories, the need-based loan amount is up to ₹1,00,000/-.",
+  "eligibilityMd": "- The applicant should be from one of the following target groups - Scheduled Caste, Scheduled Tribe, Other Backward Class, Minority, Persons with Disability.\n- The applicant should be a resident of Delhi. \n- The applicant&#39;s age should be between 18 to 50 years. \n- The annual family income of the applicant (from all sources) should not exceed ₹1,20,000/-. \n- The applicant should be willing to pursue one of the [income-generating activities](https://dsfdc.delhi.gov.in/sites/default/files/cls_schem_details.pdf) given in the scheme guidelines.- The applicant must have a proper workplace, for starting the proposed activity, either owned or rented. \n- The applicant should not have been declared a defaulter under any of the schemes being implemented by DSFDC.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should take print of the [prescribed format](https://dsfdc.delhi.gov.in/sites/default/files/cls_form.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, to the **Branch In-Charge / Section In-Charge** of the Delhi SC/ST/OBC/Minorities/Handicapped Financial &amp; Development Corporation, Government of NCT of Delhi.\n**Step 4:** Request a receipt or acknowledgement.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dsfdc.delhi.gov.in/sites/default/files/cls_schem_details.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://dsfdc.delhi.gov.in/sites/default/files/cls_form.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

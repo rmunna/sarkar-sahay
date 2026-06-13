@@ -1,0 +1,25 @@
+{
+  "slug": "whl-181",
+  "name": "Women Helpline",
+  "shortTitle": "WHL-181",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry of Women and Child Development",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [],
+  "benefitType": "In Kind",
+  "briefDescription": "\"Women Helpline\" provides 24X7 emergency and non-emergency response through the telephonic short-code 181 to women",
+  "descriptionMd": "&quot;Women Helpline&quot; provides 24X7 emergency and non-emergency response through telephonic short-code 181 to women, by linking them with appropriate authorities such as Police, One Stop Centres, Hospitals, Legal Services Authorities etc. Additionally, it provides information about women welfare schemes and services.The Women Helpline has been integrated with the Emergency Response Support System 112 (ERSS-112) helpline of the Ministry of Home Affairs (MHA) and Child Helpline (1098). Furthermore, the Women Helpline (WHL) is being integrated with the One Stop Centre Scheme (OSC) and Hub for Empowerment of Women (HEW) to refer women affected by violence in need of redressal services. \n<br>",
+  "benefitsMd": "- Emergency assistance.\n- Non-emergency assistance.\n- Information about government schemes and services.\n- Referral services.\n\n<br>",
+  "eligibilityMd": "- Any woman in distress seeking emergency/non- emergency services or information or any other individual on her behalf can connect with the Women Helpline by calling the toll free 181.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "- The Women Helpline can be contacted through a single universal toll-free number across the country, which is 181\n\n<br>",
+  "references": [
+    {
+      "title": "Mission Shakti Guidelines",
+      "url": "https://missionshakti.wcd.gov.in/public/documents/whatsnew/Mission_Shakti_Guidelines.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

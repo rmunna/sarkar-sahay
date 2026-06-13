@@ -1,0 +1,39 @@
+{
+  "slug": "apmsscs",
+  "name": "Award of Post-Matric Scholarship to Scheduled Caste Students",
+  "shortTitle": "APMSSCS",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Adi Dravidar Welfare Department, Puducherry",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme “Award of Post-Matric Scholarship to Scheduled Caste Students” was introduced by the Adi Dravidar Welfare Dept, Government of Puducherry. The objective of the scheme is to benefit the students who are studying at the Post-matric level or Post-Secondary stage to complete their education.",
+  "descriptionMd": "The scheme “Award of Post-Matric Scholarship to Scheduled Caste Students” was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to benefit the students who are studying at the Post-matric level or Post-Secondary stage to complete their education.\n<br>",
+  "benefitsMd": "Admissable fee fixed by Fee Committee. Reimbursement charged by the institution and award of maintenance allowance for hostlers or day scholars.\n<br>",
+  "eligibilityMd": "- The applicant should be from a Scheduled Caste.\n- The applicant should be a student studying at the Post-Matric level or Post Secondary Stage.\n- The applicant should be a Native/Resident of the Union Territory of Puducherry for not less than 5 years.\n- The annual income should not exceed ₹ 2,00,000/-.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit (during office hours) the [Office/ Sub-Office](https://adwelfare.py.gov.in/contact-us) of the Adi Dravidar Welfare and Scheduled Tribes Welfare Department, and request the hard copy of the [prescribed format](https://adwelfare.py.gov.in/sites/default/files/application-fresh-post-matric-scholarship.pdf) of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://adwelfare.py.gov.in/award-post-matric-scholarship-sc-students"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://py.gov.in/sites/default/files/citizencharter-adidravidar.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://adwelfare.py.gov.in/contact-us"
+    },
+    {
+      "title": "Track Your Application",
+      "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "aius",
+  "name": "Agriculture Information Unit Scheme",
+  "shortTitle": "AIUS",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The key objective is to disseminate information on Scientific methods of cultivation to extension staff and farming community through media such as pamphlets, leaflets, radio, television etc. and participating/holding awareness programs by means of exhibitions, seminars etc.",
+  "descriptionMd": "The “Agriculture Information Unit Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to provide free distribution of information leaflets, booklets, etc. Sponsoring farmers&amp;#39; groups, and self-help groups to participate in and/ or organize trade fairs, expos, and exhibitions within and outside the state.",
+  "benefitsMd": "> **Pattern of Assistance:**\n\n\n  - Free distribution of information leaflets, package of practices, booklets etc., including sponsoring Farmers Group, SHG to exposure programmes like trade fairs, expos, exhibitions in and outside the State.\n\n&gt; **Type of Assistance and Entitlement (If any):**\n\n\n  - Farmers Exposure Trip, Holding Crop Competition, Printing of booklets, leaflets, farmer calendar, publications, observation of World Food Day, Sponsoring farmers to participate in Trade Fair, Exhibition, Kisan Mela.",
+  "eligibilityMd": "1. The applicant should be a resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "&gt; **Application Process:**\n\nTo avail the benefits of the scheme, the bonafide farmers can approach the nearest Agriculture Development Officer of a CD Block/Agriculture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nDoes not arise. All farmers can avail of publication materials on a first come first serve basis.\n&gt; **Whom to Contact:**\n\n\n   1. Agriculture Information Officer, Directorate of Agriculture.\n   1. District Agriculture Officers of the concerned districts.\n   1. Sub-divisional Officers of the concerned sub-divisions.\n   1. Agriculture Development Officers of the concerned Community and Rural Development Blocks.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=44"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONAGRICULTURESCHEMES.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

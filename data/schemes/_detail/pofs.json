@@ -1,0 +1,27 @@
+{
+  "slug": "pofs",
+  "name": "Production of Foundation Seeds",
+  "shortTitle": "POFS",
+  "level": "state",
+  "state": "Tamil Nadu",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Production of Foundation Seeds\" scheme, provides subsidies to farmers cultivating seed farms for pulses, offering specific benefits to SC/ST farmers and farm women.",
+  "descriptionMd": "The scheme “Production of Foundation Seeds” by the Agriculture-Farmers Welfare Department, Tamil Nadu, is designed to support farmers in the production of foundation seeds, particularly for pulses. Eligible farmers receive a subsidy. Special benefits are provided for SC/ST farmers (24%) and farm women (20%).\n<br>\n\n<br>",
+  "benefitsMd": "- **Financial Assistance:** ₹1,000/- per quintal.",
+  "eligibilityMd": "- The beneficiary should be a Farmer.\n- The beneficiary should be a resident of Tamil Nadu.\n- The beneficiary should raise seed farms with Pulses crop.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/6891"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

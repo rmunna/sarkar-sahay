@@ -1,0 +1,31 @@
+{
+  "slug": "dspy",
+  "name": "Divyang Shiksha Protsahan Yojana",
+  "shortTitle": "DSPY",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Department of Social Justice and Empowerment of Persons with Disabilities",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, the Madhya Pradesh government provides financial support to Disabled children of the state.",
+  "descriptionMd": "Divyang Shiksha Protsahan Yojana under the Department of Social Justice and Empowerment of Persons with Disabilities government of Madhya Pradesh, provides financial support to disabled children. The Divyang Shiksha Protsahan Yojana aims to promote and facilitate inclusive education for persons with disabilities (Divyangjan). This scheme aims to ensure that individuals with disabilities have equal access to quality education and educational opportunities\n<br>\n\n<br>",
+  "benefitsMd": "> Financial assistance : ₹ 600/- per month.",
+  "eligibilityMd": "1. The applicant should Be a native of Madhya Pradesh.\n1. Disabled persons aged between 6 years to 18 years.\n1. The applicant&#39;s percentage of disability is 40 or more.\n1. The name should be mentioned on the Samagra portal and verified on the Sparsh portal.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Applicants can apply for the scheme using the prescribed format and submitting the necessary documents either to the designated officer&#39;s office, the Gram Panchayat, or a Public Service Center.\n**Step 2:** Upon submitting a complete application, the applicant will receive a mandatory acknowledgment from the office.\n**Step 3**: The District Panchayat/Gram Panchayat/Urban Body/Ward Office will scrutinize the documents submitted with the application.\n**Step 4**: If, after investigation, the documents are found to be incorrect according to the rules, the application will be rejected with written explanation. \n**Step 5**: If, after investigation, the documents are found to be correct, the pension case will be approved according to the rules.\n**Step 6:** Once the pension is approved, the beneficiary&#39;s name will be added to the pension proposal for the current month by the District Panchayat/Gram Panchayat/Urban Body/Ward Office. The approved order will be maintained on record.\n**Step 7**: The Directorate will deposit the monthly pension amount directly into the beneficiary&#39;s bank savings account through a single click, starting from the same month the approval is granted.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socialsecurity.mp.gov.in/Scheme/SSCWSNP.aspx"
+    },
+    {
+      "title": "Apply Portal",
+      "url": "https://socialsecurity.mp.gov.in/Home.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

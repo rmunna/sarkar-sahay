@@ -1,0 +1,39 @@
+{
+  "slug": "ignwpschh",
+  "name": "Indira Gandhi National Widow Pension Scheme- Chhattisgarh",
+  "shortTitle": "IGNWPSCHH",
+  "level": "state",
+  "state": "Chhattisgarh",
+  "nodalDept": "Social Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, financial assistance of ₹500/- is provided to widows aged 40 to 79 years who are living Below the Poverty Line (BPL) to support them in living a respectful life. This scheme is centrally sponsored.",
+  "descriptionMd": "The scheme &amp;quot;Indira Gandhi National Widow Pension Scheme&amp;quot; is implemented by the Social Welfare Department, Government of Chhattisgarh. Under this scheme, financial assistance is provided to widows aged 40 to 79 years who are living Below the Poverty Line (BPL) to support them in living a respectful life. This scheme is centrally sponsored.",
+  "benefitsMd": "- Under this scheme, eligible beneficiaries will receive a monthly pension of ₹500/-, (Central contribution- ₹300/-, State Contribution- ₹200/-).",
+  "eligibilityMd": "1.\tThe applicant should be a native of Chhattisgarh.\n2.\tThe applicant should be a widow.\n3.\tThe widow’s age should be between 40 and 79 years.\n4.\tThe widow&#39;s name should be included in the list of families living Below Poverty Line.\n5.\tThe widow should not be receiving pension benefits from any other Central or State Government pension scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Registration Process:**\n\n**Step 1:** Go to the [eDistrict Chhattisgarh Portal](https://edistrict.cgstate.gov.in/PACE/login.do#login).\n**Step 2:** Click on &amp;quot;[Citizen Login](https://edistrict.cgstate.gov.in/PACE/newCitizenLogin.do?OWASP_CSRFTOKEN=BOYM-WK4L-T673-3EN7-TQUM-8UCU-34PN-LFXD)&amp;quot;.\n**Step 3:** If you are a new user, select &amp;quot;[New Registration](https://edistrict.cgstate.gov.in/PACE/CitizenLogin.do?OWASP_CSRFTOKEN=BOYM-WK4L-T673-3EN7-TQUM-8UCU-34PN-LFXD)&amp;quot;.\n**Step 4:** Enter your registration details and click &amp;quot;Submit&amp;quot;.\n**Step 5:** Your Registration Summary will be displayed, and you will receive your password on your registered mobile number.\n&gt; **Application Process:**\n\n**Step 1:** Go to the [eDistrict Chhattisgarh Portal](https://edistrict.cgstate.gov.in/PACE/login.do#login).\n**Step 2:** Click on ‘Login’ or &amp;quot;[Citizen Login](https://edistrict.cgstate.gov.in/PACE/newCitizenLogin.do?OWASP_CSRFTOKEN=BOYM-WK4L-T673-3EN7-TQUM-8UCU-34PN-LFXD)&amp;quot;.\n**Step 3:** Enter your username and password, and then click ‘Login’.\n**Step 4:** After logging in, click on &amp;quot;My Service&amp;quot; and search for the scheme to apply for.\n**Step 5:** Click on ‘Apply Online’ and fill in all required details, upload necessary documents, and click ‘Submit.’",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://sw.cg.gov.in/en/indira-gandhi-national-widow-pension-scheme"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://sw.cg.gov.in/sites/default/files/pensionscheme.pdf"
+    },
+    {
+      "title": "Notification",
+      "url": "https://sw.cg.gov.in/sites/default/files/ssp.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://edistrict.cgstate.gov.in/PACE/instructionPageHome.do?serviceId=15&OWASP_CSRFTOKEN=TLII-0C0N-TR8G-HK2P-TPTO-S8ZV-NCWP-8YD9"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

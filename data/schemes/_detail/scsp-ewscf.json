@@ -1,0 +1,35 @@
+{
+  "slug": "scsp-ewscf",
+  "name": "Scheduled Caste Sub Plan (SCSP): Electrification of Wells of Scheduled Caste Farmers",
+  "shortTitle": "SCSP-EWSCF",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Energy and Petro Chemicals Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to provide agricultural electricity connections on a priority basis to Scheduled Caste farmers. Benefits include electrification of wells and free domestic electricity connections for Scheduled Caste farmers and beneficiaries across Gujarat.",
+  "descriptionMd": "The scheme &quot;Scheduled Caste Sub Plan (SCSP): Electrification of Wells of Scheduled Caste Farmers&quot; was launched by the Energy and Petrochemicals Department, Government of Gujarat, with financial allocation starting from the year 2016-17, to provide agricultural electricity connection to Scheduled Caste farmers on a priority basis. The scheme provides electrification of agriculture wells of Scheduled Caste Farmers. Free domestic electricity connections are also provided to Scheduled Caste beneficiaries. The applicant must be a Scheduled Caste farmer. The applications for this scheme are accepted at the Subdivisional Office or via the All Discom Website.\n<br>",
+  "benefitsMd": "Electrification of agriculture wells of the farmer.\n<br>",
+  "eligibilityMd": "- The applicant must be a resident of Gujarat.\n- The applicant must be a farmer.\n- The applicant must be from a Scheduled Caste.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The application form required for this scheme can be obtained free of cost from the Discom Website. Alternatively, applicants may collect physical forms from their nearest Subdivisional Office.\n**Step 2:** Once the form is fully filled and all required documents are attached, the complete application must be submitted to the Subdivisional Office. \n**Step 3:** The applicants are mandated to pay the Registration Charge, Security Deposit, Agreement Fee, and Test report fee for the agricultural connection application.\n_*The capital costs associated with High Tension (HT) lines, Low Tension (LT) lines, and Transformer centers are waived for applicants under this scheme._\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Mari Yojana)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    },
+    {
+      "title": "Scheduled Castes Sub Plan (2020-21)",
+      "url": "https://sje.gujarat.gov.in/assets/downloads/SCSP_202021_09072021.pdf"
+    },
+    {
+      "title": "Department's Website",
+      "url": "https://guj-epd.gujarat.gov.in/Home/BlogDetailsPage/57"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

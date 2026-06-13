@@ -1,0 +1,27 @@
+{
+  "slug": "pmochro",
+  "name": "Procedure for Making \"Orphan Certificate\" for Getting Horizontal Reservation for Orphan Children",
+  "shortTitle": "PMOCHROC",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department Of Woman Empowerment & Child Development",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "This certificate provides 5% horizontal reservation in Government/Non-Government services for affected children, including those whose both biological or adoptive parents have died within 21 years from the child’s birth. orphan children residing in voluntary or government-run homes within the state.",
+  "descriptionMd": "“Procedure for Making &amp;quot;Orphan Certificate&amp;quot; for Getting Horizontal Reservation for Orphan Children” is implemented by the Women Welfare Department, Government of Uttarakhand. this certificate provides 5% horizontal reservation in Government/Non-Government services for affected children, including those whose both biological or adoptive parents have died within 21 years from the child’s birth. also applicable to those orphan children residing in voluntary or government-run homes within the state.\n<br>",
+  "benefitsMd": "Through this certificate, a 5% horizontal reservation is provided in Government/Non-Government services to eligible beneficiaries.\n<br>",
+  "eligibilityMd": "1. The beneficiary must be a permanent resident of Uttarakhand.\n1. Children whose both biological or adoptive parents have died within 21 years from the child’s birth are eligible for reservation.\n1. Orphan children residing in voluntary or government-run homes within the state are also eligible for reservation.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- An application must be submitted to the District Magistrate Office or the District Probation Officer’s Office of the concerned district to obtain a certificate of orphanhood. The application should be accompanied by the orphan child’s Aadhaar card, permanent residence certificate, and the death certificates of both parents.\n  - Thereafter, the department or District Magistrate’s Office will conduct an investigation, and, based on the recommendation of the District Probation Officer, the certificate will be issued by an officer not below the rank of Sub-Divisional Magistrate.\n  - The concerned child can use this orphan certificate while applying for services. Only upon presenting this certificate will the child be eligible for orphan reservation.\n\n_Currently, the application process is offline._\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 38)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

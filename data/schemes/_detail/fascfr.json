@@ -1,0 +1,39 @@
+{
+  "slug": "fascfr",
+  "name": "Financial Assistance to Scheduled Castes for Funeral Rites",
+  "shortTitle": "FASCFR",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Adi Dravidar Welfare Department, Puducherry",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "“Financial Assistance to Scheduled Castes for Funeral Rites” was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to provide financial assistance to the Scheduled Caste family for performing funeral rites of their deceased family member.",
+  "descriptionMd": "The scheme “Financial Assistance to Scheduled Castes for Funeral Rites” was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to provide financial assistance to the Scheduled Caste family for performing funeral rites of their deceased family member in order to get rid of the immediate hardship.",
+  "benefitsMd": "Financial assistance of ₹ 10,000/-.",
+  "eligibilityMd": "- The deceased should be from a Scheduled Caste.\n- The applicant should be from a Scheduled Caste.\n- The applicant should be a close relative of the deceased.\n- The annual family income should be less than ₹ 2,00,000/-.\n- The family members of the deceased should belong to the Union Territory of Puducherry by virtue of nativity or continuous residence of 3 years.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the [Official Website](https://edistrict.py.gov.in/) of the e-District Portal of the Government of Puducherry.\n**Step 2:** At the top right corner of the home page, click &quot;[Login](https://edistrict.py.gov.in/Login.aspx)&quot;. In the login screen, click &quot;[Register a New Membership](https://edistrict.py.gov.in/User/Registration.aspx)&quot;.\n**Step 3:** On the Registration Page, fill in all the mandatory fields: Username, Password, Confirm Password, Personal Details (Full Name, First Name, Email Address, Address, Current Address, Gender, Date of Birth, Mobile Number). Agree to the declaration. Fill in the Captcha Code, and click &quot;Signup&quot;.\n**Step 4:** Visit the [Official Website](https://edistrict.py.gov.in/) of the e-District Portal of the Government of Puducherry.\n**Step 5:** At the top right corner of the home page, click &quot;[Login](https://edistrict.py.gov.in/Login.aspx)&quot;. In the login screen, provide your Username and Password, fill in the Captcha Code, and click &quot;Sign In&quot;.\n**Step 6:** On the next screen, a list of schemes by the Government of Puducherry will be displayed Department-wise.\n**Step 7:** Click on the scheme you wish to apply for. You will be taken to its online application form.\n**Step 8:** In the application form, fill in all the mandatory fields (marked with a red asterisk) and upload all the mandatory documents (self-attest if required). \n**Step 9:** Tick the declaration stating &quot;I hereby declare that the above-mentioned details are true and correct as per the best of my Knowledge&quot;. Submit the application and note the application number for [tracking your application](https://edistrict.py.gov.in/User/TrackApplication.aspx). The application number will also be received on your Registered Mobile Number / Registered Email ID.\n***Track Your Application** [here](https://edistrict.py.gov.in/User/TrackApplication.aspx)\n*** Access the User Manual for Online Application** [here](https://edistrict.py.gov.in/Help.rar)",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://adwelfare.py.gov.in/financial-assistance-scheduled-castes-funeral-rites"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://py.gov.in/sites/default/files/citizencharter-adidravidar.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://adwelfare.py.gov.in/contact-us"
+    },
+    {
+      "title": "Track Your Application",
+      "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

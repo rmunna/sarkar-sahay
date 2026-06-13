@@ -1,0 +1,27 @@
+{
+  "slug": "mmvsksy",
+  "name": "Mukhyamantri Vas Sthal Kray Sahayata Yojana",
+  "shortTitle": "MMVSKSY",
+  "level": "state",
+  "state": "Bihar",
+  "nodalDept": "Rural Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This scheme provides financial assistance to landless beneficiaries for purchasing residential land, ensuring housing for the underprivileged in rural Bihar.",
+  "descriptionMd": "The &amp;quot;Mukhyamantri Vas Sthal Kray Sahayata Yojana&amp;quot; launched by the Rural Development Department, Bihar, aims to support landless beneficiaries listed under the Pradhan Mantri Awas Yojana–Rural (PMAY-G). The scheme helps those without residential land by offering financial aid directly into their bank accounts to purchase land for housing.",
+  "benefitsMd": "- **Financial Assistance:** ₹60,000/- for purchasing residential land.\n&lt;br&gt;",
+  "eligibilityMd": "1. The applicant must be listed as a beneficiary under PMAY-G.\n   1. The applicant must be landless and houseless.\n   1. The applicant must reside in a village where no government land is available for housing allocation.\n   1. The applicant must have a bank account for direct fund transfer.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Verify your eligibility as a PMAY-G beneficiary.\n**Step 2:** Gather all required documents and submit your application through the designated Rural Development Department office.\n**Step 3:** The concerned authority will conduct a physical verification of landlessness and eligibility.\n**Step 4:** Upon approval, the amount will be directly transferred to the bank account.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cdnbbsr.s3waas.gov.in/s31943102704f8f8f3302c2b730728e023/uploads/2022/07/2022072358.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

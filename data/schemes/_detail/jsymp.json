@@ -1,0 +1,27 @@
+{
+  "slug": "jsymp",
+  "name": "Janani Sahayogi Yojana",
+  "shortTitle": "JSYMP",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Public Health and Family Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to provide free and safe delivery and newborn care services to BPL families by offering free treatment to pregnant women in government and accredited private hospitals.",
+  "descriptionMd": "The scheme &quot;Janani Sahayogi Yojana&quot; is launched by the Department of Public Health and Medical Education, Government of Madhya Pradesh. It aims to provide safe motherhood and child healthcare services to women belonging to Below Poverty Line (BPL) families by offering free medical care, including normal delivery, cesarean section, abortion, and newborn care, in government and accredited private hospitals to ensure maternal and infant health.\n<br>",
+  "benefitsMd": "- Free delivery services (both normal and cesarean) for pregnant women belonging to BPL families.\n- Free maternal and newborn healthcare, including antenatal, delivery, postnatal, and neonatal services.\n- Free abortion and emergency obstetric care when medically required.\n- Free medicines, diagnostics, and hospitalization at government or accredited private hospitals.\n- Linkage with Janani Suraksha Yojana (JSY) for eligible women to receive additional incentives.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Madhya Pradesh.\n1. The applicant must be a pregnant woman. \n1. The applicant must belong to a Below Poverty Line (BPL) family.\n1. The applicant must present a valid BPL Health Card such as Blue, Yellow, or Antyodaya Card.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- The applicant should visit a government or accredited private hospital participating in the Janani Sahayogi Yojana.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=281"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

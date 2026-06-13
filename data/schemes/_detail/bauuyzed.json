@@ -1,0 +1,32 @@
+{
+  "slug": "bauuyzed",
+  "name": "Dr.Babasaheb Ambedkar Udyog Uday Yojana: Financial Support to MSMEs in ZED Certification",
+  "shortTitle": "BAUUYZED",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Industries and Mines Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity",
+    "Industries"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"Dr.Babasaheb Ambedkar Udyog Uday Yojana\" aims to support SC/ST entrepreneurs and strengthen MSMEs, making them globally competitive.",
+  "descriptionMd": "The scheme &amp;quot;Dr.Babasaheb Ambedkar Udyog Uday Yojana&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat. It aims to empower the state&amp;#39;s dynamic MSME sector, which significantly contributes to employment, GDP, and exports. Effective from August 7th, 2020 to August 6th, 2025, this initiative supports SC/ST entrepreneurs and strengthens MSMEs, making them globally competitive.\nThe component &amp;quot;Financial Support to MSMEs in ZED Certification&amp;quot; aims to promote Zero Defect and Zero Effect (ZED) manufacturing among MSMEs. It focuses on quality improvement, energy efficiency, environmental sustainability, and the adoption of advanced manufacturing standards to support the &amp;quot;Make in India&amp;quot; campaign.",
+  "benefitsMd": "- **Financial Assistance:** MSMEs receive a subsidy of up to ₹50,000/- for ZED certification.  - **Quality Improvement:** Encourages MSMEs to enhance product and process quality through ZED principles.  - **Energy Efficiency:** Supports the adoption of energy-efficient and eco-friendly manufacturing practices.",
+  "eligibilityMd": "- The firm must be a Micro/Small/Medium enterprise run by SC/ST entrepreneur.The enterprise must be a manufacturing enterprise.\n- The enterprise should be involved in manufacturing activities.\n- The MSME should apply for ZED certification under the official program.\n- The enterprise must not have availed full financial support from any other government scheme for the same certification.\n- The MSME should comply with environmental and quality norms as per ZED standards.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step-1:** Visit the [Investor Facilitation Portal (IFP)](https://ifp.gujarat.gov.in/DIGIGOV/) portal. Click on &quot;New Investor Registration&quot; to access the registration form.\n**Step-2:** Fill in the Registration Form. Click on &quot;Submit&quot;. \n**Step-3:** Verify the E-mail ID using the link sent on your registered E-mail ID.\n**Step-4:** After verification, you will be registered successfully.\n<br>\n\n> **Post-Registration Process:**\n\n**Step-1:** Visit the [Investor Facilitation Portal (IFP)](https://ifp.gujarat.gov.in/DIGIGOV/) portal. Click on &quot;Login&quot;.\n**Step-2:** Enter the email address and password you used during registration.\n**Step-3:** Click the &quot;Login&quot; button to access your account.\n**Step-4:** Now fill in the required details and mandatory documents about your business to complete the application process.\n<br>\n\n> **Helpdesk:** [**Contact** ](https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/contact.jsp?pagedisp=static)",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/2-GR_02092020.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://ifp.gujarat.gov.in/IC/digigov.htm?actionFlag=loadCitizenRegPage"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

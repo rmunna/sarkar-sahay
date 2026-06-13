@@ -1,0 +1,27 @@
+{
+  "slug": "atlfstp",
+  "name": "Assistance to Lawyers for Starting their Practice",
+  "shortTitle": "ATLFSTP",
+  "level": "state",
+  "state": "Tamil Nadu",
+  "nodalDept": "Adi Dravidar and Tribal Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This scheme provides financial assistance to unemployed Adi Dravidar and Tribal lawyers to help them start their legal practice, provided they have registered within the last five years and meet specific income criteria.",
+  "descriptionMd": "The “Assistance to Lawyers for Starting their Practice” scheme by the Adi Dravidar and Tribal Welfare Department, Tamil Nadu, offers financial support to Adi Dravidar and Tribal lawyers who are in the early stages of their career. This scheme aims to provide them with the necessary incentives to establish a successful legal practice.\n&lt;br&gt;",
+  "benefitsMd": "- **Financial Assistance:** Incentives to unemployed Adi Dravidar/Tribal lawyers to start legal practice.",
+  "eligibilityMd": "- The beneficiary should be a resident of Tamil Nadu.\n  - The beneficiary should be an unemployed lawyer.\n  - The beneficiary should have registered their name as a lawyer within 5 years.\n  - The beneficiary should have an interest to start legal practice.\n  - The beneficiary should belong to the Adi Dravidar/Tribal community.\n  - Beneficiary’s annual family income should not exceed ₹1,00,000/-.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should collect the application form from the office of the District Adi Dravidar and Tribal Welfare Officer/ Director of Adi Dravidar Welfare (Chennai-5).\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned office.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n&lt;br&gt;",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/83091"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

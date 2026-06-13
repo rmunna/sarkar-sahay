@@ -1,0 +1,35 @@
+{
+  "slug": "mjsyakm",
+  "name": "Mukh‍yamantri Janakal‍yaan (Sambal 2.0) Yojana (Asangathit Karmakaar Man‍da)",
+  "shortTitle": "MJSYAKM",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The Mukhyamantri Jan Kalyan (Sambal 2.0) Yojana is a initiative of Madhya Pradesh government. The scheme will provide much-needed social security to unorganized workers in the state and help them live a dignified life.",
+  "descriptionMd": "The Mukhyamantri Jan Kalyan (Sambal 2.0) Yojana (Asangathit Karmakar Mandal) is a scheme launched by the Madhya Pradesh government to provide social security to unorganized workers in the state. This scheme covers unorganized workers from specific age group who are not covered under any other social security scheme and benefits will be provided directly into the beneficiary&#39;s account through the DBT system.\n<br>",
+  "benefitsMd": "1. Funeral Grant Amount : ₹5,000/-  Ex-gratia\n1. On accidental death : ₹4,00,000/-\n1. General Death Benefit : ₹2,00,000/-\n1. Permanent Disability Benefit : ₹2,00,000/-\n1. Partial Permanent Disability Benefit : ₹1,00,000/-",
+  "eligibilityMd": "1. Applicant must be a Unorganized worker.\n1. Applicant have a &quot;Samagra ID&quot; and &quot;Pariwar ID&quot;.\n1. Applicant should not have other social security cover like Provident Fund, Employees&#39; State Insurance Scheme, Gratuity etc\n1. Applicant or his wife/husband (as the case may be) should not follow below categories\n\n   1. Should not have more than 01 hectare of agricultural land,\n   1. Should not be in government service\n   1. Should not an income tax payer.\n   1. Should not have other social security cover like Provident Fund, Employees&#39; State Insurance Scheme, Gratuity etc\n\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Samagra ID Creation:**\n\n\n1. Visit the [official website](https://samagra.gov.in/default.aspx) and click on the &quot;[Register family](https://samagra.gov.in/Citizen/Pages/AddNewFamilyRegistration.aspx)&quot;.1. On the new page, enter the Mobile number which was linked with Aadhaar Number and authenticate via OTP.\n1. Now provide the Aadhaar number and enter the new OTP.\n1. On the new page, provide the basic details, complete address\n1. Give the consent and submit.\n\n<br>\n\n> **Apply Process:**\n\n\n1. Visit the official [Sambal Portal.](https://sambal.mp.gov.in/)1. Under &quot;Sevaaye&quot;, click on &quot;[Panchikaran Hetu Aavedan Kren](https://sambal.mp.gov.in/Public/Survey/ShramikRegApplicationeKYC.aspx)&quot;.1. Enter &quot;Samagra ID&quot; and &quot;Pariwar ID&quot;.\n1. Fill out the online application form with required details.\n1. Give the consent and submit.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sambal.mp.gov.in/Public/PDF/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80%20%E0%A4%9C%E0%A4%A8%20%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A3%20(%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%B2)%20%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE.pdf"
+    },
+    {
+      "title": "Official Portal",
+      "url": "https://sambal.mp.gov.in/"
+    },
+    {
+      "title": "Application",
+      "url": "https://sambal.mp.gov.in/Public/Survey/ShramikRegApplicationeKYC.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

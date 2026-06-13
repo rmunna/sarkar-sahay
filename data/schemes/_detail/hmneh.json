@@ -1,0 +1,35 @@
+{
+  "slug": "hmneh",
+  "name": "Horticulture Mission for North Eastern Hill Scheme- Meghalaya",
+  "shortTitle": "HMNEH",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The objective of the scheme is to improve productivity, quality planting material, canopy management of fruit trees, support marginal and small farmers, upscaling protected cultivation, and drip irrigation.",
+  "descriptionMd": "The “Horticulture Mission for North Eastern Hill (HMNEH) Scheme” is a part of the Mission for Integrated Development of Horticulture (MIDH) scheme which was launched by the Ministry of Agriculture and Farmers Welfare, Government of India, being implemented for the overall development of Horticulture in North East and Himalayan states. The mission covers all NE States including Sikkim and three Himalayan states of Jammu &amp;amp; Kashmir, Himachal Pradesh, and Uttarakhand. The mission addresses the entire spectrum of horticulture from production to consumption through backward and forward linkages.\n         In the state of Meghalaya, the “Horticulture Mission for North Eastern Hill (HMNEH) Scheme” is implemented by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya for improving productivity, quality planting material, canopy management of fruit trees, support to marginal and small farmers, upscaling protected cultivation and drip irrigation.",
+  "benefitsMd": "> **Pattern of Assistance:**\n\nTraining, Awareness program, extension, Technology support, Subsidy on inputs, Improving marketability and marketing support.",
+  "eligibilityMd": "1. The applicant should be a permanent resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.\n1. The applicant should possess owned or leased land of at least 200 sqms.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "&gt; **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at the nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe bonafide farmers shall be selected on a first come first serve basis.\n&gt; **Whom to Contact:**\n\n1. Horticulture Development Officer of respective CD Block/ Horticulture circle\n2. [District Horticultural Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)\n3. [Managing Director](https://meghalayasfac.nic.in/mgsfac/content/contact_us.php), Meghalaya Small Farmers&amp;#39; Agri-business Consortium (MgSFAC)\n4. Director of Horticulture, Directorate of Horticulture",
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=70"
+    },
+    {
+      "title": "Official Website- MIDH",
+      "url": "https://tmnehs.gov.in/"
+    },
+    {
+      "title": "Website- Horticulture Mission",
+      "url": "https://midh.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

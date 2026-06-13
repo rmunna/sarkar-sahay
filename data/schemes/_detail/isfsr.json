@@ -1,0 +1,35 @@
+{
+  "slug": "isfsr",
+  "name": "Incentive Scheme for Sericulture Reelers",
+  "shortTitle": "ISFSR",
+  "level": "state",
+  "state": "Karnataka",
+  "nodalDept": "Minorities Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Incentive Scheme for Sericulture Reelers\" is aimed at improving the financial condition of minority communities involved in silk reeling and spinning. The corporation will provide loans to support working capital and basic infrastructure for silk spinners.",
+  "descriptionMd": "The &quot;Incentive Scheme for Sericulture Reelers&quot; was launched by the Minorities Welfare Department, Government of Karnataka, and is implemented by the Karnataka Minorities Development Corporation. The scheme aims to improve the financial condition of minority communities involved in silk reeling and spinning by providing financial assistance through loans and subsidies. This support is intended to enhance working capital, improve basic infrastructure, and promote better productivity and economic stability.",
+  "benefitsMd": "> **Financial Assistance:**\n\n\n- Silk reeling/spinning workers can receive a loan of up to ₹2,00,000/-, with 50% of the loan amount being provided as a subsidy.",
+  "eligibilityMd": "1. The applicant should belong to the religious minority category of the state.\n1. The applicant should be a permanent resident of the state.\n1. The applicant&#39;s age should be between 18 to 55 years.\n1. The family income from all sources should not exceed more than ₹6,00,000/-\n1. No member of the applicant&#39;s family should be a State/Central Government employee.\n1. The applicant or his family members should not have availed of any loan/subsidy facility from the Corporation in the last 5 years except the Arivu education loan and Foreign Education Loan Scheme.\n1. The applicant should not be a sustainer of the corporation.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step-01:** Applicant need to visits the Karnataka Minorities Development Corporation [official website](https://kmdconline.karnataka.gov.in/Portal/home).  \n**Step-02:** Click [&quot;Apply Online&quot;](https://kmdconline.karnataka.gov.in/Portal/login) and Enter &quot;Mobile Number&quot; and &quot;Submit&quot;.   \n**Step-03:** Enter &quot;Aadhaar Number&quot; Fill in the &quot;Captcha&quot; and Select &quot;Next&quot;.\n**Step-04:** Applicant will get OTP in his/her Aadhaar Linked Mobile Number.\n**Step-05:** Enter &quot;OTP&quot; and select &quot;Continue&quot;, After that Allow the official notice.\n**Step-06:** After verifying the Aadhaar again fill in the &quot;OTP&quot; and Submit.\n**Step-07:** Select the scheme &quot;Sikhligar’s Community Development Scheme&quot; and fill in the basic details father&#39;s name, gender, qualification detail\n**Step-08:** Select &quot;Next&quot; Fill in the address detail and again select &quot;Next&quot;.\n**Step-09:** Upload the required document passport-size photo, educational document, income certificate, etc. \n**Step-10:** Click &quot;Proceed&quot; and Select &quot;Submit Application&quot; and get an Application ID.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://kmdconline.karnataka.gov.in/Portal/home"
+    },
+    {
+      "title": "Login & Apply",
+      "url": "https://kmdconline.karnataka.gov.in/Portal/login"
+    },
+    {
+      "title": "Track Application",
+      "url": "https://kmdconline.karnataka.gov.in/Portal/track"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

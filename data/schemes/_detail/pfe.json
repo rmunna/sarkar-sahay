@@ -1,0 +1,31 @@
+{
+  "slug": "pfe",
+  "name": "Sponsorship for Employment",
+  "shortTitle": "SFE",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "State Sainik Board",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to provide employment opportunities to ex-servicemen and their legal dependents by sponsoring them for contractual posts. Under this scheme, eligible candidates are sponsored for various departmental positions based on demand and their qualifications.",
+  "descriptionMd": "The scheme &amp;quot;Sponsorship for Employment&amp;quot; is implemented by Uttarakhand Purv Sainik Kalyan Nigam Limited (UPNL) under the Sainik Welfare Department, Government of Uttarakhand. The scheme aims to provide employment opportunities to ex-servicemen and their legal dependents by sponsoring them for contractual posts. Under this scheme, eligible candidates are sponsored for various departmental positions based on demand and their qualifications.\n<br>",
+  "benefitsMd": "Under this scheme, employment opportunities are provided to ex-servicemen and their legal dependents by sponsoring them for contractual posts through outsourcing.\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Uttarakhand.\n   1. The applicant must be an ex-serviceman (Army, Navy, or Air Force), their legal dependent, or a widow of an ex-serviceman (Veer Nari).\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "- Firstly, the eligible candidates (ex-servicemen and their legal dependents) fill out the online application/enrollment form for the desired post on the UPNL website: [www.upnl.co.in](https://upnl.co.in/default.aspx), based on their district, qualifications, and preferred location.  - Based on the district-wise demand for posts received from various departments and the eligibility/qualification criteria for those posts, UPNL forwards the names of enrolled candidates with the relevant qualifications to the concerned department for selection, following district-wise and priority order of nomination.\n  - As per the demand received from the department, UPNL sends the names of six enrolled candidates for each vacant post to the concerned department for consideration.\n  - The final selection of candidates is made by the department according to its rules, and the information is subsequently communicated to UPNL.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 22)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://www.upnl.co.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

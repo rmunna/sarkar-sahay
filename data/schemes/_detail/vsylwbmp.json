@@ -1,0 +1,43 @@
+{
+  "slug": "vsylwbmp",
+  "name": "Vivah Sahayata Yojana (Labor Welfare Board Madhya Pradesh)",
+  "shortTitle": "VSYLWBMP",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, ₹15,000 is provided per case for the marriage of a daughter (above 18 years of age) of workers/employees working in institutions covered under the Madhya Pradesh Labor Welfare Fund Act, 1982, or to a female worker herself.",
+  "descriptionMd": "The &quot;Vivah Sahayata Yojana&quot; was launched on 17th September 2021, under the Labor Welfare Board, Government of Madhya Pradesh. Under this scheme, ₹15,000 is provided per case for the marriage of a daughter (above 18 years of age) of workers/employees working in institutions covered under the Madhya Pradesh Labor Welfare Fund Act, 1982, or to a female worker herself.\n<br>",
+  "benefitsMd": "**Financial Assistance:** ₹15,000/- per case for the marriage of a worker&#39;s daughter.",
+  "eligibilityMd": "**For Registration**\n\n1. The applicant should be working in an industrial establishment covered under the Madhya Pradesh Labour Welfare Fund Act 1982.\n1. The applicant should be employed in the establishment for at least one year.\n1. The applicant should be from an establishment that regularly contributes to the Board.\n1. The applicant should be submitting the application form 15 days before or within 60 days after the wedding.\n1. The bride should be at least 18 years old, and the groom should be at least 21 years old.\n1. The applicant should not have availed marriage assistance under any other scheme.\n\n**For Application**\n\n1. The applicant should be a daughter of a worker/employee in a covered institution.\n1. The applicant daughter should be above 18 years of age.\n1. The worker or institution should be covered under the Madhya Pradesh Labor Welfare Fund Act, 1982.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step-1:** Applicant need to visit the [official website](https://mpedistrict.gov.in/MPL/Index.aspx) and search the [scheme name](https://mpedistrict.gov.in/MPL/ShowServiceDetail.aspx?param=7ryqYYGPIxkmuFhJ2knk3iE1Fw4SpkYQ). \n**Step-2:** Applicant need to download the online fill out [application form](https://mpedistrict.gov.in/MPL/DisplayServiceForm.aspx?ParamDownloadForm=z97iJgS9e2U=) or download the blank form.\n**Step-3:** Now on [portal](https://mpedistrict.gov.in/MPL/Loksevakendra.aspx) select the district Name and choose the option &quot;[Lok Seva Kendra](https://mpedistrict.gov.in/MPL/Loksevakendra.aspx)&quot; and visit nearest location.\n**Step-4:** Applicant need to submit the application form with required documents.\n**Step-5:** After completing the form and uploading the documents, click Submit.\n<br>\n\n**Appeal Process**\nIf the applicant disagrees with the cancellation of the application or if the application is not resolved within the given timeframe, they have the right to appeal online.\n**1. First Appeal**\n\n- The first appeal can be made against the order of the designated officer.\n- It should be submitted to the Assistant Welfare Commissioner, M.P. Labour Welfare Board.\n- The appeal will be reviewed and resolved within 30 working days.\n\n**2. Second Appeal**\n\n- If dissatisfied with the decision of the first appellate officer, a second appeal can be filed.\n- This appeal should be presented to the Welfare Commissioner, M.P. Labour Welfare Board for further review and resolution.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mpedistrict.gov.in/MPL/getphoto.aspx?ViewCircular=lWpumLpSoZU="
+    },
+    {
+      "title": "Application Form",
+      "url": "https://shramkalyanmandal.mponline.gov.in/Images/pdf/ApplicationForm/VIVAH%20SAHAYATA%20YOJANA.pdf"
+    },
+    {
+      "title": "Website",
+      "url": "https://shramkalyanmandal.mponline.gov.in/#"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://shramkalyanmandal.mponline.gov.in/Images/pdf/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%20%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A4%BE%20%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE.pdf"
+    },
+    {
+      "title": "Online Registration",
+      "url": "https://mpedistrict.gov.in/MPL/DisplayServiceForm.aspx?ParamDownloadForm=z97iJgS9e2U="
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

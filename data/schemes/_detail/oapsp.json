@@ -1,0 +1,35 @@
+{
+  "slug": "oapsp",
+  "name": "Old Age Pension Scheme - Punjab",
+  "shortTitle": "Oapsp",
+  "level": "state",
+  "state": "Punjab",
+  "nodalDept": "Department of Social Security and Development of Women and Children",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Punjab State Government started a pension for old age person of the state people.",
+  "descriptionMd": "Punjab State Government started a pension for old age person of the state people. The main objective is to provide financial security to those sections of society who doesn&#39;t have any stable source of income. its a DBT scheme so pension amount will directly transferred in the bank account of beneficiary.\n<br>",
+  "benefitsMd": "Amount : ₹ 1,500/- per month",
+  "eligibilityMd": "1. Beneficiary should be a Permanent Resident of Punjab.\n1. The Annual Income of Beneficiary should not be more than Rs. 60,000/- per year.\n1. The Age of Beneficiary should be :- \n\n   1. Men: 65 Years or Above. \n   1. Women :58 Years or Above.\n\n1. Beneficiary should own any of the below mentioned amount of land :-\n\n   1. Maximum 2.5 Acre Nehri or Chahi Land, OR\n   1. Maximum 5 Acre Barani Land, OR\n   1. Waterlogged 5 Acre Land.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step-1:** Applicants have to visit the [official website.](https://connect.punjab.gov.in/service/citizenservice/108)\n**Step-2**: Click on the &quot;Click to apply services&quot;.\n**Step-3**: Now login on Digital Punjab portal with Email/Phone number and password. If does have any account then register [here](https://ssocitizen.psegs.in/register)\n**Step-4:** Fill out the application form.\n**Step-5**: Attach the required documents\n**Step-6**: Submit.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://upload.indiacode.nic.in/showfile?actid=AC_PB_82_985_00002_00002_1553492693909&type=rule&filename=notification_pdf_13.6.2017_in_eng.pdf"
+    },
+    {
+      "title": "Portal",
+      "url": "https://connect.punjab.gov.in/service/citizenservice/108"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://punjab.gov.in/wp-content/uploads/2023/08/OldAgePension-1_merged.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

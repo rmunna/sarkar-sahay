@@ -131,13 +131,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               </span>
             </Link>
             {/* Desktop nav */}
-            <div className="hidden md:flex gap-1">
+            <div className="hidden md:flex items-center gap-1">
               <Link href="/" prefetch={false} className="px-3 py-2 text-sm font-medium text-slate-200 hover:text-orange-300 hover:bg-white/10 rounded-lg transition">Home</Link>
-              <Link href="/categories" prefetch={false} className="px-3 py-2 text-sm font-medium text-slate-200 hover:text-orange-300 hover:bg-white/10 rounded-lg transition">Categories</Link>
+              <Link href="/schemes" prefetch={false} className="px-3 py-2 text-sm font-medium text-slate-200 hover:text-orange-300 hover:bg-white/10 rounded-lg transition">Schemes</Link>
+              <Link href="/categories" prefetch={false} className="px-3 py-2 text-sm font-medium text-slate-200 hover:text-orange-300 hover:bg-white/10 rounded-lg transition">Guides</Link>
               <Link href="/calculator" prefetch={false} className="px-3 py-2 text-sm font-medium text-slate-200 hover:text-orange-300 hover:bg-white/10 rounded-lg transition">Calculators</Link>
               <Link href="/updates" prefetch={false} className="px-3 py-2 text-sm font-medium text-slate-200 hover:text-orange-300 hover:bg-white/10 rounded-lg transition">Updates</Link>
-              <Link href="/about" prefetch={false} className="px-3 py-2 text-sm font-medium text-slate-200 hover:text-orange-300 hover:bg-white/10 rounded-lg transition">About</Link>
               <Link href="/hi" prefetch={false} className="px-3 py-2 text-sm font-medium text-slate-200 hover:text-orange-300 hover:bg-white/10 rounded-lg transition">🇮🇳 हिन्दी</Link>
+              <Link href="/eligibility" prefetch={false} className="ml-1 px-4 py-2 text-sm font-semibold text-white bg-orange-600 hover:bg-orange-500 rounded-lg transition">Check eligibility</Link>
             </div>
             {/* Mobile hamburger */}
             <MobileNav />

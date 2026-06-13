@@ -1,0 +1,27 @@
+{
+  "slug": "pmkvy-rpl",
+  "name": "Pradhan Mantri Kaushal Vikas Yojana - Recognition Of Prior Learning",
+  "shortTitle": "PMKVY - RPL",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Skill Development And Entrepreneurship",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "A skill development scheme by Ministry of Skill Development and Entrepreneurship that enables Indian youth with prior learning experience or skills to obtain industry-relevant skill certification.",
+  "descriptionMd": "Recognition of Prior Learning (RPL) is a skill certiﬁcation component to enable Indian youth to take on industry relevant skill certification which will help them to secure a better livelihood. Individuals with prior learning experience or skills can register themselves and get assessed and certiﬁed under the RPL component of PMKVY. It focuses mainly on individuals engaged in unregulated sectors.\n<br>\n\nProject Implementing Agencies (PIAs) such as private and public sector expert bodies in the sector, Central and State Government ministries and their institutions and other agencies designated by MSDE/NSDC are being incentivised to implement RPL projects in any of the five models (RPL camps, RPL at employer’s premises, RPL by demand, RPL with best-in-class employers and online RPL).\n<br>\n\nRPL has 12 hours of orientation. To address knowledge gaps, PIAs offer bridge courses to candidates along with the 12-hour orientation domain skills, soft skills and entrepreneurship tips and familiarization with the assessment process.\n<br>\n\nAny revisions made to these guidelines will be uploaded on the official website of PMKVY (www. pmkvyofficial.org). All stakeholders are advised to regularly check for amendments/changes, if any.",
+  "benefitsMd": "",
+  "eligibilityMd": "RPL is applicable for any candidate of Indian nationality who:\n<br>\n\n\n1. Is of age between 18-45 years\n1. Has prior experience in the job role for which they want RPL certification and as specified by the SSCs for those job roles\n1. Possesses an Aadhaar and Aadhaar linked bank account\n1. Fulfills other criteria related to work experience as defined by the SSCs for the respective job roles\n1. If target beneficiaries belong to higher age groups than those specified in point 1, the Project Implementing Agency (PIA) would have to get this approved during the sanction from the PMKVY 3.0 Executive Committee/State level Empowered Committee.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "https://www.pmkvyofficial.org/photos/shares/guidlines/PMKY-Guideline_report_(08-01-2021)V3.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

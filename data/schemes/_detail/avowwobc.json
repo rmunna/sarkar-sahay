@@ -1,0 +1,35 @@
+{
+  "slug": "avowwobc",
+  "name": "Assistance to Voluntary Organizations Working for Welfare of OBCs ",
+  "shortTitle": "AVOWWOBC",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Social Justice & Empowerment",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "NGO"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The \"Assistance to Voluntary Organizations Working for Welfare of OBCs\" scheme aims to involve the voluntary sector in improving the educational and socio-economic conditions of the target group i.e. OBCs to upgrade skills to enable them to start income-generating activities on their own.",
+  "descriptionMd": "The central sector scheme &amp;quot;Assistance to Voluntary Organizations Working for Welfare of OBCs&amp;quot; was launched by the Ministry of Social Justice and Empowerment, Government of India. The scheme aims to involve the voluntary sector to improve the educational and socio-economic conditions of the target group i.e. OBCs, to upgrade skills to enable them to start income-generating activities on their own or get gainfully employed in some sector or the other. The projects can be implemented in villages under the Saansad Adarsh Gram Yojana (SAGY).\n&gt; **Types of Activities Covered**\n\nCarpentry, Computer Education, Craft Centre, Dari making Training, Diesel Pump set repairing, Electrical training, Fruit Preservation Training, Gem cutting, Welding and Fitter training, Photography, Plumbing, Printing, composing and book binding, Scooter, motorcycle and auto-rickshaw repairing, Spinning and weaving, Typing and shorthand, Tie and dye training, Leather art, Denting and spray painting, TV, VCR and radio repair.\n<br>",
+  "benefitsMd": "- Financial support for skill development projects aimed at improving socio-economic conditions of OBCs.\n- Simplified and transparent application and approval process.\n- Regular monitoring and evaluation to ensure effective utilization of funds.\n- Support for NGOs to enhance their capacity and expand their reach.\n- Encouragement of self-employment and gainful employment for OBCs.\n- Priority given to projects in backward districts and villages under SAGY.\n\n> **Extent of Assistance:**\n\n\n- Government may cover up to 90% of approved project expenditure.\n- PSUs or other organizations limited to 30% of project cost for skill development programs.\n- First installment up to 75% on submission of necessary documents.\n- Second installment on receipt of audited accounts and utilization certificates.\n\n<br>",
+  "eligibilityMd": "> **For the Organization:**\n\n\n1. Registered under the Societies Registration Act, 1860 (XXI of 1860) or any relevant Act of the State/Union Territory/Public trust.\n1. The organization should have an appropriate administrative structure and managing/executive committee.\n1. The organization should be democratically governed without external control.\n1. The organization must be registered for at least three years (waivable in exceptional cases).\n1. The organization should maintain a bank account in the organization’s name for at least three years.\n1. The organization should not be run for profit by any individual or a body of individuals.\n\n> **The following criteria would be kept in view while selecting the new VOs/NGOs:**\n\n\n1. Experience of at least two years in the relevant field.\n1. Projects should be in Backward Districts identified by the Planning Commission.\n\n> **For the Beneficiaries:**\n\n\n1. The beneficiary must belong to the Central or state/UT OBC list.\n1. The beneficiary&#39;s annual family income should not exceed ₹1,00,000/-..\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Firstly, NGOs Generate Unique ID**\n\n**Step-01:** The applicant visits the [NGO-DARPAN Portal](https://ngodarpan.gov.in/index.php/home) to register yourself\n**Step-02:** Go to the tab &quot;Register your NGO&quot;.\n**Step-03:** Fill up the registration form &quot;Sign UP&quot;. There are a total 3 steps for creating an account at Portal\n\n- **I****st** **Step**: Input NGO/Entity Name exactly similar as given on PAN Card, Email and Mobile numbers should be working and accessible for OTPs.\n\n- **2****nd** **Step:** PAN of NGO/Entity needs to be given which will be matched with the name of NGO/Entity given in Step 1- **3****rd** **Step:** Password can only be created when Step 2 is passed successfully\n> **Registration Process**\n\n**Step-01:** NGOs register online to apply for grants-in-aid administered by the [Ministry of Social Justice and Empowerment.](https://grants-msje.gov.in/register-page)\n**Step-02:** Fill up the Unique ID, and PAN Number.\n**Step-03:** Generate the**** OTP and after filling the OTP, Captcha. \n**Step-04:** NGOs get the registration ID. \n> **Application Process**\n\n**Step-01:** The registered NGO [Login](https://grants-msje.gov.in/ngo-login) with the login ID and password. \n**Step-02**: Proceed with the entry of online proposals in the prescribed format.\n**Step-03:** NGOs must enter bank details mandatorily.\n**Step-04:** Upload mandatory documents as per the Ministry&#39;s requirements. \n**Step-05:** Save drafts to check correctness before final submission.\n**Step-06:** Once submitted, no further changes are allowed.\n**Step-07:** Completed applications will be assigned a Unique ID.\n**Step-08:** Generate and print the acknowledgment receipt.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socialjustice.gov.in/writereaddata/UploadFile/ngoschemeobc2015635773242687450000.pdf"
+    },
+    {
+      "title": "NGO Darpan",
+      "url": "https://ngodarpan.gov.in/index.php/home"
+    },
+    {
+      "title": "E-ANUDAAN",
+      "url": "https://grants-msje.gov.in/ngo-login"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

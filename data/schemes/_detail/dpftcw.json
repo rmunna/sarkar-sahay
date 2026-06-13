@@ -1,0 +1,31 @@
+{
+  "slug": "dpftcw",
+  "name": "Disability Pension (UKBOCWWB)",
+  "shortTitle": "DPUKBOCWWB",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department Of Labour",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide a monthly pension of ₹1,000 to construction workers registered with Uttarakhand Building & Other Construction Workers Welfare Board who have become permanently disabled due to paralysis, leprosy, accidents, etc. In addition, an ex-gratia amount of ₹40,000 is also provided.",
+  "descriptionMd": "The “Disability Pension” scheme is implemented by the Uttarakhand Building and Other Construction Workers Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand. The scheme aims to provide a monthly pension to registered construction workers who have become permanently disabled due to paralysis, leprosy, tuberculosis, accidents, etc.\n<br>",
+  "benefitsMd": "- **Pension Amount:**   ₹1,000/- per month  - **One-time Ex-gratia Amount:**   ₹40,000/-\n<br>",
+  "eligibilityMd": "1. The applicant must be a construction worker registered with the Uttarakhand Building and Other Construction Workers Welfare Board who has become permanently disabled due to paralysis, leprosy, tuberculosis, accident, etc.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online - via CSC",
+  "applicationMd": "- Online applications are submitted through Shramik Suvidha Kendras. \n  - Along with the application form, it is mandatory to attach the following documents: Shramik Card, Aadhaar Card, Medical Certificate of permanent disability issued by a Government CMS/CMO, an Affidavit stating that no benefits have been taken under any other scheme, and a Self-Declaration Certificate.\n  - The worker must apply within one year from the date of becoming permanently disabled. After submission, the department conducts an investigation. If the details are verified as correct, the department provides a monthly pension of ₹1,000/- and a one-time ex-gratia amount of ₹40,000/- directly into the construction worker’s account.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 55)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://ukbocw.uk.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

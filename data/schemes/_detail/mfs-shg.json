@@ -1,0 +1,35 @@
+{
+  "slug": "mfs-shg",
+  "name": "Microcredit Finance Scheme- Self Help Groups (DAADC)",
+  "shortTitle": "MFS-SHG",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Self Help Groups (SHGS)"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to promote self-employment for SC individuals. It offers microloans to start small businesses and become economically self-sufficient.",
+  "descriptionMd": "The &quot;Microcredit Finance Scheme- Self Help Groups&quot; is implemented by the Dr. Ambedkar Antyodaya Development Corporation (DAADC) under the Social Justice and Empowerment Department, Government of Gujarat. It aims to promote self-employment among Scheduled Caste (SC) individuals and Antyodaya Self-Help Groups by providing microloans for starting small-scale businesses. Under this scheme, unemployed individuals from SC communities receive financial assistance to become self-reliant through entrepreneurship.\n<br>\n\n<br>",
+  "benefitsMd": "- **Loan Amount:** Up to ₹50,000/- (maximum ₹5,00,000/-)- **Interest Rate:** 6% annually- **Loan Tenure:** 36 months (3 years)- **State Government Share:** 95%  (₹47,500/-)- **Beneficiary Share:** 5% (₹2,500/-)- **Guarantor:** Not required- **Possible Installment amount :** ₹1,445/- per month.\n<br>",
+  "eligibilityMd": "1. The applicant must belong to a Scheduled Caste (SC) community.\n1. The applicant must be part of an Antyodaya (AAY) family.\n1. The applicant’s annual family income should not exceed ₹3,00,000/-.\n1. The applicant must be a resident of Gujarat.\n1. The applicant should be a self-help group of unemployed persons. \n1. The applicant must be a member of a registered self-help group (SHG) or apply individually with valid business intent.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the [official website](https://daadconline.gujarat.gov.in/) of the Dr. Ambedkar Antyodaya Vikas Nigam (SC).\n**Step 2:** On the top menu bar, click on &quot;Apply Now&quot;.\n**Step 3:** Click on the loan scheme name. \n**Step 4:** Select the loan category and fill in the loan amount.\n**Step 5:** Fill out the Application Form, enter the following details:\n\n- Personal Information: Name, gender, date of birth, caste, etc.\n- Address Information: Permanent and correspondence address\n- Income Details: Monthly family income and source\n- Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)\n- Bank Account Details: For loan disbursement\n\n**Step 6:** Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.\n**Step 7:** Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.\n**Step 8:** Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.gujarat.gov.in/gapb/assets/downloads/micro_fincial_2020.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://sje.gujarat.gov.in/gapb/Schemes?lang=English"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

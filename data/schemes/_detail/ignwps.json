@@ -1,0 +1,35 @@
+{
+  "slug": "ignwps",
+  "name": "Indira Gandhi National Widow Pension Scheme",
+  "shortTitle": "IGNWPS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Rural Development",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "A non-contributory pension scheme to provide social security to widows of poor family (BPL)  of the society.",
+  "descriptionMd": "Indira Gandhi National Widow Pension Scheme (IGNWPS) is implemented by Ministry of Rural Development, Government of India. It is a non-contributory pension scheme to provide social security to widows of poor family (BPL)  of the society.",
+  "benefitsMd": "A pension of ₹ 300/- per month is provided to Widows between 40 years and 79 years.  For persons who are 80 years and above, the pension is ₹ 500/- per month. \n<br>",
+  "eligibilityMd": "The eligibility criteria under Indira Gandhi National Widow Pension Scheme (IGNWPS) is:\n\n- The applicant must be a widow in the age group of 40-79 years.\n- The applicant should belong to a household living below the poverty line according to the criteria prescribed by the Govt. of India\n\n<br>",
+  "exclusionsMd": "Pension will be discontinued\n<br>\n\n\n- In case of remarriage of widow\n- Once the widow moves above poverty line\n\n<br>",
+  "applicationMode": "Online",
+  "applicationMd": "- One can download UMANG App or visit website [https://web.umang.gov.in/web_new/home](https://web.umang.gov.in/web_new/home) - The citizen can login using mobile number and OTP.\n- Once logged In, citizen can search for NSAP.\n- Click on “Apply Online”\n- Fill the basic details, choose the mode of payment of pension, upload photo and click on “Submit”.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://nsap.dord.gov.in/Guidelines/wps.pdf"
+    },
+    {
+      "title": "NSAP FAQs",
+      "url": "https://nsap.dord.gov.in/circular.do?method=faq"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://nsap.dord.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

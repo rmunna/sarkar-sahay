@@ -1,0 +1,27 @@
+{
+  "slug": "fsbsuk",
+  "name": "Free Shoe and Bag Scheme",
+  "shortTitle": "FSBS",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department Of Education",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide financial assistance to students from Classes 1 to 8 studying in all government & government-aided schools for purchasing shoes & bags. An amount of ₹318/- per student for Classes 1 to 5 & ₹462/- per student for Classes 6 to 8 is provided through Direct Benefit Transfer.",
+  "descriptionMd": "The scheme &amp;quot;Free Shoes and Bags Scheme&amp;quot; is implemented by the Basic Education Department under the Department of Education, Government of Uttarakhand. The scheme aims to provide financial assistance to students from Classes 1 to 8 studying in all government and government-aided schools for purchasing shoes and bags.\n<br>",
+  "benefitsMd": "Under this scheme, financial assistance is provided for purchasing shoes and bags for boys and girls as follows:\n\n  - ₹318/- per student for Classes 1 to 5\n  - ₹462/- per student for Classes 6 to 8\n\nThe amount is transferred directly to the students&amp;#39; account through Direct Benefit Transfer (DBT).\n<br>",
+  "eligibilityMd": "1. The applicant must be a student of Classes 1 to 8 studying in any government or non-government aided school in Uttarakhand.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "- Students will receive the amount after submitting their Aadhaar card and bank account details to the Principal. \n- At the beginning of the academic session, the amount is transferred through Direct Benefit Transfer (DBT).\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 72)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

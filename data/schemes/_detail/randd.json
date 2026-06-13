@@ -1,0 +1,27 @@
+{
+  "slug": "randd",
+  "name": "Research and Development Grant",
+  "shortTitle": "R&DG",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Science And Technology",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to encourage scientific research to address the state’s problems by providing grants and technical support to scientists, researchers, and academic institutions across the state.",
+  "descriptionMd": "The scheme “Research and Development” is implemented by the Uttarakhand State Council for Science and Technology (UCOST) under the Science and Technology, Government of Uttarakhand. The scheme aims to encourage scientific research to address the state’s problems by providing grants and technical support to scientists, researchers, and academic institutions across the state.\n<br>",
+  "benefitsMd": "- Grants are provided to promote research aimed at addressing various problems in the interest of the state through scientific research.\n  - Academic scientists from government or private colleges/universities/research institutes/technical institutions, and research scholars across the state are eligible to participate.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Uttarakhand. \n1. The applicant must be a scientist/researcher. \n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "After submitting the proposal to the council in the prescribed format, it is presented at a meeting of the Project Evaluation Committee constituted at the council level. Based on the committee’s recommendations, the necessary documents must be forwarded to the proposed institution (university or college) through the President of the institution.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 122)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

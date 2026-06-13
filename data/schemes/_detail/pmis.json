@@ -1,0 +1,31 @@
+{
+  "slug": "pmis",
+  "name": "Prime Minister’s Internship Scheme",
+  "shortTitle": "PMIS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry of Corporate Affairs",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The scheme aims to provide internship opportunities to one crore youth in top 500 companies in five years. Through this Scheme, youth will gain exposure for 12 months to real-life business environment, across varied professions and employment opportunities.",
+  "descriptionMd": "The “Prime Minister’s Internship Scheme”, launched by the Ministry of Corporate Affairs, Government of India, aims to provide internship opportunities to one crore youth in top 500 companies over a period of five years. The scheme offers a 12-month internship to help youth gain exposure to real-life business environments across various professions. It is designed to bridge the gap between academic learning and industry requirements by enabling interns to acquire practical skills and work experience. The scheme operates independently of other skill development or internship programmes of the Central and State Governments. At least half of the internship duration is spent in an actual working environment rather than classroom training. Duration of the Internship shall be 12 months. At least half of the internship period must be spent in the actual working experience/ job environment, and not in the classroom.\n<br>",
+  "benefitsMd": "- **Internship Duration &amp;amp; Exposure:** 12 months of real-life work experience in top companies across India.  - **Monthly Financial Assistance:** ₹4,500/- per month by Government of India and ₹500 per month by the industry partner.  - **One-time Grant:** ₹6,000/- provided to interns for incidental expenses.  - **Insurance Coverage:** Coverage under Pradhan Mantri Jeevan Jyoti Bima Yojana and Pradhan Mantri Suraksha Bima Yojana provided by the Government of India.\n**Note 1:** Monthly assistance will be paid to the interns for the entire duration of 12 months of the internship.\n**Note 2:** A one-time grant will be disbursed to each intern by the government through Direct Benefit Transfer, upon the intern&amp;#39;s joining at the internship location.\n<br>",
+  "eligibilityMd": "- The candidate belongs to Indian nationality.\n  - The candidate’s age should be between 21 to 24 years (as on the last date for submission of the application). \n  - The candidate should not be full-time employed.\n  - The candidate should not be engaged in full-time education.\n  - The candidate enrolled in online/distance learning programmes are eligible to apply.\n  - The candidate should be completed High School, Higher Secondary School, possess a certificate from an ITI, hold a diploma from a Polytechnic Institute, or are graduates with degrees such as BA, B.Sc, B.Com, BCA, BBA, B.Pharma, etc.\n  - The candidate family income should not exceed ₹8,00,000/-. \n\n<br>",
+  "exclusionsMd": "**The following persons are ineligible to participate:**\n\n  - Graduates from IITs, IIMs, National Law Universities, IISER, NIDs, and IIITs.\n  - Those having qualifications such as CA, CMA, CS, MBBS, BDS, MBA, any master&amp;#39;s or higher degree.\n  - Those undergoing any skill, apprenticeship, internship or student training programme under Central Government or State Government schemes.\n  - Those who have completed apprenticeship, training under National Apprenticeship Training Scheme (NATS) or National Apprenticeship Promotion Scheme (NAPS) at any point.\n  - If the annual income of any of the family members of the candidate exceeds ₹8 lakhs.\n  - If any member of the family is a permanent/regular government employee.\n\n**Note: For the purposes of the Pilot Project:**\n\n  - &amp;quot;Family&amp;quot; means self, parents and spouse.\n  - &amp;quot;Government&amp;quot; means Central and State Governments, UT administration, Central and State PSUs, statutory organizations, local bodies etc.\n  - &amp;quot;Employee&amp;quot; means regular/ permanent employees but does not include contractual employees.\n\n<br>",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Registration Process:**\n\n**Step 1:** Visit the [official website](https://pminternship.mca.gov.in/login/) Prime Minister Internship Scheme.\n**Step 2:** Click on “Youth Registration” on the top-right corner or “Register Now” in the PM Internship Offers section.\n**Step 3:** Enter a mobile number linked to your Aadhaar and confirm via OTP.\n**Step 4:** Password Setup- Use the OTP to log in and update the password upon first login. \n**Step 5:** Profile Creation e-KYC- Required for profile completion. You can complete e-KYC through:\n\n  - **DigiLocker:** Connect using Aadhaar; requires your Aadhaar-linked mobile number and DigiLocker security PIN.  - Fill personal information, contact information, education, bank details, skills &amp;amp; languages and upload certificates. \n\n&gt; **Internship Application Process:**\n\n**Step 1:** Click on [View &amp;amp; Apply](https://pminternship.mca.gov.in/login/) Internship.\n**Step 2:** After viewing details, if interested, click the “Apply” icon in the Action column.\n**Step 3:** Fill all mandatory fields and Click the “Submit” icon to complete the internship application process.\n&gt; **Track Application:**\n\n**Step 1:** Go to &amp;quot;[Track Your Application](https://pminternship.mca.gov.in/login/)&amp;quot; on the candidate account page\n**Step 2:** Use the table to see updates on offers received, accepted, or waitlisted for each internship.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://pminternship.mca.gov.in/mca-api/files/get-file-by-path?path=dmk6u3VpUsp6ikurW5RiDHvOeK%2FORrkviDSlob80fjUnkLIps2yEsK3t8HQ3X%2BCi5L3oDjNS71worg8RL%2B8I7SvOoHWDoY8Uxi9nbjdgdEiroaNA20hjxNmbfud6ms8nxsHquSlFMwPPQw%3D%3D"
+    },
+    {
+      "title": "Website",
+      "url": "https://pminternship.mca.gov.in/login/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

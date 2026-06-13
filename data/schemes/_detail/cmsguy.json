@@ -1,0 +1,27 @@
+{
+  "slug": "cmsguy",
+  "name": "Chief Minister Samagra Gramya Unnayan Yojana",
+  "shortTitle": "CMSGUY",
+  "level": "state",
+  "state": "Assam",
+  "nodalDept": "Finance Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "A 5-year mega-mission called Chief Minister Samagra Gramya Unnayan Yojana (CMSGUY) was launched in the Financial Year(FY) 2016-17, which is scheduled to culminate in the FY 2021-22, coinciding with 75 years of India's Independence.",
+  "descriptionMd": "**Objective** \nThe main objective of the mission is to double the farm income, in unison with the vision of Hon&#39;ble Prime Minister Shri Narendra Modi.\n**CMSGUY: The Way Ahead**\nAt the current rate of growth, it will take about 80 years to double the farm income in Assam. Normal interventions by the Government in this regard would not be adequate to address the problem. Under CMSGUY there is a proposal to initiate massive investments in rural areas for complete rural empowerment in a period of five years in a focused and concerted manner to realize the dream of doubling the farm income.\n<br>\n\nThis is sought to be achieved through a &#39;saturation model&#39; by covering each revenue village through focused interventions in \n\n1. Direct economic activities, \n1. Logistic support including market linkages, and \n1. Community support.\n\n<br>\n\nAbove focused interventions are aimed at in nine critical areas and related sub-missions are:\n\n1. Fishery Mission,\n1. Milk Mission,\n1. Organic Mission,\n1. Land Management and Conservation Mission,\n1. Sericulture, Khadi and Cottage Industry Mission,\n1. Road and Broadband connectivity,\n1. Semi-Processing, Processing and Market Linkages,\n1. &quot;Youth-Yoga-Sports&quot; Mission and\n1. e-Gram Mission by developing Village Knowledge Centres by strengthening traditional Namghar and other community institutions",
+  "benefitsMd": "",
+  "eligibilityMd": "**Eligibility** \n\n1. The benefit of this scheme will be provided to any group of 8 to 10 members who are actual adult farmers of the same village\n1. The group of farmers must have a common bank account and will apply jointly with the signatures of each member on the application form preferably along with particulars of land and crops cultivated\n1. The applicant group should not have more than one member from one family",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://finance.assam.gov.in/schemes/cmsguy"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "sy",
+  "name": "Shagun Yojana",
+  "shortTitle": "SY",
+  "level": "state",
+  "state": "Himachal Pradesh",
+  "nodalDept": "Department of Social Justice and Empowerment",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Shagun Yojana\" aims to assist BPL families with financial aid for the marriage of their daughters. A grant of ₹31,000 is provided to the girl/women.",
+  "descriptionMd": "Launched in 2021, the scheme &quot;Shagun Yojna&quot; by the Department of Social Justice &amp; Empowerment, Government of Himachal Pradesh, aims to provide financial assistance to Below Poverty Line (BPL) families for the marriage of their daughters. Under this scheme, a marriage grant is provided to parents, guardians, or the girl herself if her parents are not alive or traceable. The scheme is implemented by the District Programme Officer through the Child Development Project Officer.\n***Objectives:***\n\n- To support BPL families with financial assistance for the marriage of girls above 18 years of age.\n- To ensure that eligible girls receive aid even if marrying outside Himachal Pradesh.",
+  "benefitsMd": "- A one-time financial grant of ₹31,000 is provided for the marriage of BPL girls/women.\n\n**NOTE:**\n\n- The grant is given to parents/guardians or the girl herself (if her parents are not alive/traceable).\n- The grant can be disbursed up to 2 months before the proposed date of marriage.\n- If the marriage has already taken place, the grant may be claimed within 6 months of the marriage date.",
+  "eligibilityMd": "1. The girl applicant must be a bonafide resident of Himachal Pradesh.\n1. The girl must be 18 years of age or above at the time of marriage.\n1. The marriage grant will be given even if the girl from Himachal Pradesh is marrying a boy from outside the state of Himachal Pradesh.\n1. The family of the applicant girl must be living below the poverty line (BPL). \n1. If the parents of the girl are not alive or traceable, the girl herself can apply.\n1. The groom must be above 21 years of age.\n1. The applicant should not have availed benefits from Mukhyamantri Kanyadan Yojna or any other similar departmental marriage grant scheme.\n1. Those destitute left out women who are not financially able to perform their re-marriage can also apply.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "1. Applicants have to go to the [official website](https://edistrict.hp.gov.in/) of the e-district Himachal Pradesh.   1. On the home page, click on the option of Citizen Login and New Registration.\n   1. On the new page, applicants will have to enter the required details and upload photo identity proof with a profile image.\n   1. Now applicants log in again by clicking on the option of Citizen Login.\n   1. Applicants have to enter their Udar ID password and select the user type.\n   1. Now applicants have to click on the option of Himachal Pradesh Vivah Shagun Yojana Apply here. \n   1. Now the application form will open on the screen.\n   1. Applicants have to enter all the important information asked in this application form.\n   1. Upload all the important documents and submit",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://himachal.nic.in/showfile.php?lang=1&dpt_id=176&level=1&lid=21273&sublinkid=20943"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

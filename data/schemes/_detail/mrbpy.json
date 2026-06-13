@@ -1,0 +1,27 @@
+{
+  "slug": "mrbpy",
+  "name": "Mukhyamantri Rajya Bridhhabasta Pension Yojana",
+  "shortTitle": "MRBPY",
+  "level": "state",
+  "state": "Jharkhand",
+  "nodalDept": "Women, Child Development & Social Security Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "“Mukhyamantri Rajya Bridhhabasta Pension Yojana” is a Social Security Scheme by the Department of Women, Child Development & Social Security, Government of Jharkhand. The scheme provides financial asistance to the age group of 60 years and above.",
+  "descriptionMd": "Launched by the Department of Women, Child Development &amp;amp; Social Security, Government of Jharkhand, “Mukhyamantri Rajya Bridhhabasta Pension Yojana” aims to provide financial support to the senior citizens of Jharkhand who do not have any stable source of income or their  income is not enough to support them or is insufficient. It is a Direct Benefit Transfer (DBT) scheme, so the pension amount will be directly transferred to the bank account of the beneficiary.\n&lt;br&gt;",
+  "benefitsMd": "- **Amount**: ₹ 1,000/- per month to the eligible beneficiary.",
+  "eligibilityMd": "1. The applicant should be a permanent resident of Jharkhand.\n   1. The applicant should have attained the age of 60 years or more.\n   1. The applicant should have a Voter ID card and Aadhar Card.\n   1. The applicant should not be a beneficiary under any other Social Security pension scheme.\n   1. The applicant or their spouse should not be a Retired or permanently employed in Central and State Government or in public sector undertakings.\n   1. The applicant or their spouse should not be a recipient of Government pension or pension from Central and State Government or from public sector undertakings.\n   1. Applicant’s family is not an income tax payee.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "Step 01: The interested applicant should request the prescribed format of the application from the office of Block Development Officer (BDO) / Sub Divisional Officer (SDO) / Circle Officer\nStep 02: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\nStep 03: Submit the duly filled and signed application form along with the documents to the concerned authority at:\n**Office of the BDO in rural areas.**\n**Office of the SDO or Circle Officer in Municipalities and notified areas.**\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/PDepartment/ViewDocument?id=D031DO00628062023124410458"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

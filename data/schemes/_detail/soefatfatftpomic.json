@@ -1,0 +1,31 @@
+{
+  "slug": "soefatfatftpomic",
+  "name": "Scheme of Extending Financial Assistance to Folk Artists, Troupes for the Purchase of Musical Instruments, Costumes",
+  "shortTitle": "SOEFATFATFTPOMIC",
+  "level": "state",
+  "state": "Tamil Nadu",
+  "nodalDept": "Art and Culture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Artists"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Scheme of Extending Financial Assistance to Folk Artists, Troupes for the Purchase of Musical Instruments, Costumes\" was launched by the Art and Culture Department, Government of Tamil Nadu. The scheme provides a sum of ₹2,000/- to individual folk artists & ₹6,000/- for cultural troupes.",
+  "descriptionMd": "&quot;Scheme of Extending Financial Assistance to Folk Artists, Troupes for the Purchase of Musical Instruments, Costumes&quot; was launched by the Art and Culture Department, Government of Tamil Nadu. The scheme provides a sum of ₹2,000/- to individual folk artists &amp; ₹6,000/- for cultural troupes, as a grant for the purchase of Musical Instruments and Costumes.",
+  "benefitsMd": "For Folk Artists, financial Assistance of ₹2,000/-.\nFor Troupes, financial Assistance of ₹6,000/-.",
+  "eligibilityMd": "- The applicant should be a Folk Artist/Troupe.\n- The applicant should be continuously performing in the programs.\n- The applicant should have performed in the programs for more than three years.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "_The advertisement is published in the newspapers, calling for applications by the Tamil Nadu Eyal Isai Nataka Mandram._\n**Step 1:** The interested applicant should visit (during office hours) the office Mandram and request a hard copy of the prescribed format of the application form from the concerned staff.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Tamil Nadu Eyal Isai Nataka__ Mandram. \n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/rti/proactive/inftour/handbook_artculture.pdf"
+    },
+    {
+      "title": "Revised Rate",
+      "url": "https://artandculture.tn.gov.in/schemes-implemented-tamil-nadu-eyal-isai-nataka-mandram"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

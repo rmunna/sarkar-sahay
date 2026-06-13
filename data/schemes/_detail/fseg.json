@@ -1,0 +1,32 @@
+{
+  "slug": "fseg",
+  "name": "Farmer Suicide Ex-Gratia",
+  "shortTitle": "FSEG",
+  "level": "state",
+  "state": "Andhra Pradesh",
+  "nodalDept": "Agriculture",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Farmer Suicide Ex-Gratia\" is a Financial Assistance Scheme by the Agriculture & Cooperation Dept. of the Govt. of Andhra Pradesh. The scheme provides financial assistance of ₹ 7,00,000 to the family members of the deceased farmers/tenant farmers, who commit suicide due to agrarian reasons.",
+  "descriptionMd": "&amp;quot;Farmer Suicide Ex-Gratia&amp;quot; is a Financial Assistance Scheme by the Agriculture &amp;amp; Cooperation Dept. of the Govt. of Andhra Pradesh. The scheme provides financial assistance of ₹ 7,00,000 to the family members of the deceased farmers/tenant farmers, who commit suicide due to agrarian reasons as a rehabilitation package to support the families of the farmers. The reasons for committing such suicides may be the Failure of Bore wells, Raising of Commercial crops with the high cost of cultivation, Non-Remunerative Prices, etc.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The deceased farmer should have been a resident/domicile of the state of Andhra Pradesh.\n1. The cause of death of the farmer should be suicide.\n1. The reason for the suicide should be an agrarian reason, such as Failure of Bore wells, Raising of Commercial crops with a high cost of cultivation, Non-Remunerative Prices, Oral tenancy, and ineligibility to avail of Bank Loans, Private lending with higher interest rates, Adverse seasonal conditions, Heavy expenditure incurred towards Children education, ill health, and marriages.\n1. The term “farmer” shall include every person who derives substantial livelihood from farming, not limited to those with title to land, but including tenant farmers and women farmers.\n1. The beneficiary of the financial assistance should be a family member of the deceased farmer.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://apagrisnet.gov.in/GO/2019/14.10.2019-1.PDF"
+    },
+    {
+      "title": "Salient Features",
+      "url": "https://ysrbima.ap.gov.in/new/ysrfse.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

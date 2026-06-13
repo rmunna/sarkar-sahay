@@ -1,0 +1,32 @@
+{
+  "slug": "bauuyisms",
+  "name": "Dr.Babasaheb Ambedkar Udyog Uday Yojana: Assistance for Interest Subsidy (Manufacturing Sector)",
+  "shortTitle": "BAUUYISMS",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Industries and Mines Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity",
+    "Industries"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"Dr.Babasaheb Ambedkar Udyog Uday Yojana\" aims to support SC/ST entrepreneurs and strengthen MSMEs, making them globally competitive.",
+  "descriptionMd": "The scheme &amp;quot;Dr.Babasaheb Ambedkar Udyog Uday Yojana&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat. It aims to empower the state&amp;#39;s dynamic MSME sector, which significantly contributes to employment, GDP, and exports. Effective from August 7th, 2020 to August 6th, 2025, this initiative supports SC/ST entrepreneurs and strengthens MSMEs, making them globally competitive.\nThe component &amp;quot;Assistance for Interest Subsidy (Manufacturing Sector)&amp;quot; provides financial relief to enterprises in the manufacturing sector by offering an interest subsidy on term loans. Additional benefits are available for women entrepreneurs, differently-abled entrepreneurs, startups, and young entrepreneurs below 35 years of age.",
+  "benefitsMd": "> **Financial Assistance:**\n\n**Category of Taluka** **Quantum of Incentive**  [Category I](https://indextb.com/files/2020/11/a34fc914-6cdd-4fd6-8773-502017da4334_taluka%20category.pdf)8% on Term Loan with a maximum amount of ₹35,00,000/- per annum for a period of 7 years[Category II](https://indextb.com/files/2020/11/a34fc914-6cdd-4fd6-8773-502017da4334_taluka%20category.pdf)7% on Term Loan with a maximum amount of ₹30,00,000/- per annum for a period of 6 years [Category III](https://indextb.com/files/2020/11/a34fc914-6cdd-4fd6-8773-502017da4334_taluka%20category.pdf) &amp;amp;amp;amp; Municipal Corporation Areas6% on Term Loan with a maximum amount of ₹25,00,000/- per annum for a period of 5 years",
+  "eligibilityMd": "- The firm must be a Micro/Small/Medium enterprise run by SC/ST entrepreneur.\n  - The enterprise must be a manufacturing enterprise.\n  - The enterprise must be engaged in the manufacturing sector.\n  - The term loan should be availed from a recognized bank or financial institution.\n  - The loan must be sanctioned before the enterprise starts commercial production.\n  - If the enterprise installs a solar/renewable energy plant, it must be for captive consumption.\n  - The enterprise must bear a minimum of 2% interest on the term loan.\n  - The application must be submitted within the prescribed timeline.\n\n&amp;amp;gt; **Note:** \n\n\n  - **SC/ST Enterprise:** SC/ST Enterprise means the enterprise in which contribution of SC/ST entrepreneur is 51% or more.",
+  "exclusionsMd": "- Enterprises whose term loan is sanctioned after one year from the commencement of commercial production.\n  - Enterprises defaulting on loan repayments as per RBI and bank guidelines.\n  - Enterprises seeking reimbursement for penal interest or other bank charges.\n  - Enterprises availing interest subsidy under any Central Government scheme where the total subsidy exceeds the total interest paid.",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step-1:** Visit the [Investor Facilitation Portal (IFP)](https://ifp.gujarat.gov.in/DIGIGOV/) portal. Click on &quot;New Investor Registration&quot; to access the registration form.\n**Step-2:** Fill in the Registration Form. Click on &quot;Submit&quot;. \n**Step-3:** Verify the E-mail ID using the link sent on your registered E-mail ID.\n**Step-4:** After verification, you will be registered successfully.\n<br>\n\n> **Post-Registration Process:**\n\n**Step-1:** Visit the [Investor Facilitation Portal (IFP)](https://ifp.gujarat.gov.in/DIGIGOV/) portal. Click on &quot;Login&quot;.\n**Step-2:** Enter the email address and password you used during registration.\n**Step-3:** Click the &quot;Login&quot; button to access your account.\n**Step-4:** Now fill in the required details and mandatory documents about your business to complete the application process.\n<br>\n\n> **Helpdesk:** [**Contact Here.**](https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/contact.jsp?pagedisp=static)",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/2-GR_02092020.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://ifp.gujarat.gov.in/IC/digigov.htm?actionFlag=loadCitizenRegPage"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

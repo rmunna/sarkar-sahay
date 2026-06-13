@@ -1,0 +1,31 @@
+{
+  "slug": "caapbandocwwb",
+  "name": "Cash Award (APB&OCWWB)",
+  "shortTitle": "CAAPB&OCWWB",
+  "level": "state",
+  "state": "Arunachal Pradesh",
+  "nodalDept": "Labour and Employment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme “Cash Award” was started by the Department of Labour and Employment, Govt. of Arunachal Pradesh for the registered workers of Arunachal Pradesh Building & Other Construction Workers Welfare Board (APB&OCWWB).",
+  "descriptionMd": "The scheme “Cash Award” was started by the Department of Labour and Employment, Govt. of Arunachal Pradesh for registered workers of Arunachal Pradesh Building &amp;amp; Other Construction Workers Welfare Board (APB&amp;amp;OCWWB). The state government in order to encourage the children of the registered Building &amp;amp; Other Construction workers in scoring good marks in the examinations. the board proposes to institute every year cash awards to three male and female children of the beneficiaries in each stream.\n**Objective:**\n\n- To encourage the children of the registered Building &amp; Other Construction workers in scoring good marks in the examinations.",
+  "benefitsMd": "- Cash assistance of ₹500/-, ₹750/- and ₹1000/-",
+  "eligibilityMd": "1.\tThe worker should be a permanent resident of Arunachal Pradesh.\n2.\tThe worker must be employed in the Building and Other Construction works.\n3.\tThe worker should be registered with Labour Welfare Board (APB&amp;amp;OCWWB).\n4.\tThe worker’s membership must be active.\n5.\tChildren for whom the award is applied must have passed the class X and XII Board or equivalent examinations.\n6.\tChildren (one son and one daughter) of the registered worker with a membership, who secure the highest marks in their District in Metric examination.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 01:** For taking benefit of this scheme, the applicant needs to contact Registering Officers, APB&amp;OCWWB of the respective District.\n**Step 02:** Application in the prescribed format may be received from the concerned office.\n**Step 03:** The applicant needs to fill the application form completely and attach all the relevant documents. Thereafter, the applicant may submit the application form to the concerned office.\n**Step 04:** After successful verification, the applicant can avail the benefit of the scheme.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://tawang.nic.in/labour-welfare-board/"
+    },
+    {
+      "title": "Guideline",
+      "url": "https://ahvdd.arunachal.gov.in/pdf/eBook/Government%20Scheme%20Handbook.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "sl",
+  "name": "Skill Loan Scheme",
+  "shortTitle": "SL",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Skill Development And Entrepreneurship",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "A Skill loan scheme by Ministry of Skill Development and Entrepreneurship to provide loan upto Rs. 1,50,000 to student who has secured admission in a course run by Industrial Training Institutes (ITIs), Polytechnics or in a school recognized by Central or State education Boards or in a college affil",
+  "descriptionMd": "The Skill Loan Scheme was launched in July 2015 to provide institutional credit to individuals for skill development courses aligned to National Occupations Standards and Qualification Packs and leading to a certificate/diploma/degree by training institutes as per National Skill Qualification Framework (NSQF).\n<br>\n\nThis scheme is applicable to all member banks of the Indian Banks’ Association (IBA) and any other banks and financial institutions as may be advised by the RBI. The scheme provides broad guidelines to the banks for operationalizing the skilling loan scheme.\n<br>\n\n<br>\n\n#### Salient features of the guidelines to banks for operationalizing the scheme:\n\n1. Eligibility –Any individual who has secured admission in a course run by Industrial Training Institutes (ITIs), Polytechnics or in a school recognized by Central or State education Boards or in a college affiliated to a recognized university, training partners affiliated to National Skill Development Corporation (NSDC) / Sector Skill Councils, State Skill Mission, State Skill Corporation\n1. Courses – Aligned to NSQF\n1. Quantum of Finance – Rs 5000-1,50,000\n1. Duration of Course – No minimum duration\n1. Rate of Interest – Base rate (MCLR) + an add on typically up to 1.5%\n1. Moratorium – Duration of the course\n1. Repayment Period – Between 3 to 7 years basis the amount of loan\n1. Loans upto ₹ 50,000 - Upto 3 years\n1. Loans between ₹ 50,000 to ₹ 1 lakh - Upto 5 years\n1. Loans above ₹ 1 lakh - Upto 7 years\n1. Coverage – Course Fees (directly to the training institute) along with expenses towards completion of the course (assessment, examination, study material, etc.)\n1. The scheme does not allow for a collateral to be charged from the beneficiary.\n1. MSDE, through a November 2015 notification, brought into force the Credit Guarantee Fund for Skill Development (CGFSSD) for all skill loans sanctioned on or after 15 July 2015, to be administered by the National Credit Guarantee Trust Company (NCGTC).\n1. Banks can apply to the NCGTC for credit guarantee against defaults and NCGTC will provide this guarantee at nominal fee which shall not exceed 0.5% of the amount outstanding. The guarantee cover will be for a maximum of 75% of the outstanding loan amount (including interest, if any).\n1.  As per the information provided by Indian Bank’s Association (IBA) in respect of 21 Banks, a total skill loan of Rs 29.06 crore was disbursed during the year 2018-19 (as on September 2018).",
+  "benefitsMd": "",
+  "eligibilityMd": "A student who has secured admission in a course run by Industrial Training Institutes (ITIs), Polytechnics or in a school recognized by Central or State education Boards or in a college affiliated to a recognized university, training partners affiliated to National Skill Development Corporation (NSDC) / Sector Skill Councils, State Skill Mission, State Skill Corporation",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "https://msde.gov.in/en/schemes-initiatives/Other-Schemes-and-Initiatives/Skill-Loan-Scheme "
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

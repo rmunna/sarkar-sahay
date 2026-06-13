@@ -1,0 +1,27 @@
+{
+  "slug": "bsymp",
+  "name": "Bal Shakti Yojana",
+  "shortTitle": "BSYMP",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Public Health and Family Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme aims to reduce severe malnutrition and child mortality by providing free institutional care, diet, and medical treatment to severely malnourished children below 5 years of age.",
+  "descriptionMd": "The “Bal Shakti Yojana” was launched by the Department of Public Health and Medical Education, Government of Madhya Pradesh. It aims to reduce child mortality caused by severe malnutrition among children below 5 years of age. The scheme provides free medical care, nutrition rehabilitation, diet, and transport through 315 Nutrition Rehabilitation Centres (NRCs) across the state.\n<br>",
+  "benefitsMd": "- Free institutional management and treatment for severely malnourished and sick children at Nutrition Rehabilitation Centres (NRCs).\n- Free balanced diet\n- Free medical check-up, medicines, and diagnostic services for enrolled children.\n- Free transport facility. \n- Counselling and training sessions. \n- Nutritional awareness. \n\n<br>",
+  "eligibilityMd": "1. The child should be a resident of Madhya Pradesh.\n1. The applicant should be a child below 5 years of age.\n1. The child must be severely malnourished or sick and meet at least one of the following criteria:\n\n\n- Mid-Upper Arm Circumference (MUAC) less than 11.5 cm.\n- Weight-for-height Z-score less than -3 SD (standard deviation).\n- Bilateral pitting oedema (swelling on both feet).\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- The child is identified by health workers (ANM/ASHA/AWW) during community surveys or health check-ups.\n- Eligible children are referred to the nearest Nutrition Rehabilitation Centre (NRC).\n- On arrival, the child undergoes medical examination and anthropometric assessment to confirm eligibility.\n- Upon meeting admission criteria, the child and mother/caregiver are admitted free of cost.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=285"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

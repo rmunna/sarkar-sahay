@@ -1,0 +1,27 @@
+{
+  "slug": "icwf",
+  "name": "Indian Community Welfare Fund",
+  "shortTitle": "ICWF",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of External Affairs",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "A scheme by Ministry of External Affairs (MEA) for the welfare of Overseas Indians; assisting them in distress situations. ICWF has also been a critical support in emergency evacuation of Indian nationals from conflict zones, countries affected by natural disasters and other challenging situations.",
+  "descriptionMd": "A scheme by Ministry of External Affairs (MEA) for the welfare of Overseas Indians; assisting them in distress situations.\n<br>\n\nICWF has also been a critical support in emergency evacuation of Indian nationals from conflict zones, countries affected by natural disasters and other challenging situations. In view of its immense utility, ICWF stands extended to all Indian Missions and Posts abroad.\n<br>\n\nThe ICWF guidelines have been revised further to make them more broad-based and expand the scope of welfare measures that can be extended through the Fund. They are expected to provide Indian Missions and Posts abroad greater flexibility in swiftly addressing to requests for assistance by Overseas Indian nationals.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The applicant must be an **Overseas Indian.**1. The applicant must be in a **distress situation (as defined under scheme benefits).**",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.mea.gov.in/icwf.htm"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

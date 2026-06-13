@@ -1,0 +1,39 @@
+{
+  "slug": "fadesm",
+  "name": "Financial Assistance to Disabled Ex-Servicemen",
+  "shortTitle": "FADESM",
+  "level": "state",
+  "state": "Haryana",
+  "nodalDept": "Sainik and Ardh Sainik Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under the scheme, financial assistance of ₹3,000/- per month shall be granted only to those Disabled Ex-Servicemen who are bonafide residents of Haryana State, who were discharged from the Armed Forces on medical grounds, and whose disability is not attributable to service.",
+  "descriptionMd": "The scheme &amp;quot;Financial Assistance to Disabled Ex-Servicemen&amp;quot; is implemented by the Sainik and Ardh Sainik Welfare Department, Government of Haryana. Under the scheme, financial assistance of ₹3,000/- per month shall be granted only to those Disabled Ex-Servicemen who are bonafide residents of Haryana State, irrespective of age, who were discharged from the Armed Forces on medical grounds, and whose disability is not attributable to service.",
+  "benefitsMd": "1. Under the scheme, financial assistance of ₹3,000/- per month is given to the disabled ex-servicemen, with an annual increase of ₹400/- w.e.f. 01.11.2017 every year in November.\n\n**Note:** The grant of financial assistance shall be payable to the disabled Ex-Servicemen from the first day of the following month in which case for grant of financial assistance is sanctioned by the competent sanctioning authority of Rajya Sainik Board and no arrear for the post-period prior to the date of sanction of the grant of financial assistance shall be paid.",
+  "eligibilityMd": "1. The applicant should be a bonafide resident of Haryana.\n   1. The applicant should be a disabled ex-serviceman.\n   1. The applicant should have been discharged from the Armed Forces on medical grounds, with a disability not attributable to military service.\n   1. The financial assistance is provided regardless of the applicant&amp;#39;s age.\n   1. The applicant should not be receiving any type of financial assistance or pension from any source.\n\n**Note 1:** The definition of Ex-Servicemen for the purpose of eligibility for financial assistance shall be effective as notified by the Ministry of Defence Government of India from time to time.\n**Note 2:** Every applicant shall have to produce a certificate issued by the concerned District Social Welfare Officer to the effect that the applicant is not getting any financial assistance Pension from the District Social Welfare Department of Haryana.\n**Note 3:** If any beneficiary receiving financial assistance under this scheme, after the sanction of financial assistance at any time is found getting old age pension, financial assistance or maintenance allowance from any other Department of Haryana Govt. Beneficiary shall be permanently debarred from getting the financial assistance under this scheme run by this department\n**Note 4:** Old eligible beneficiaries whose cases for grant of financial assistance have already been sanctioned prior to issue of these guidelines shall continue to get the financial assistance at enhanced rates and they need not apply afresh. However, payment shall be discontinued with immediate effect to persons in civil employment.\n**Note 5:** Payment of financial assistance to those beneficiaries shall be stopped immediately who fail to submit their survival verification proofs every year from the revenue authorities in the month of April. The Secretary, Zila Sainik Board shall be personally responsible for any lapse in this regard.",
+  "exclusionsMd": "•\tPersonnel in Civil employment shall not be eligible for the grant of financial assistance.",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 1:** The eligible applicant may apply online through the Official Portal- [Antyodaya-SARAL Portal](https://saralharyana.gov.in/). \n**Step 2:** If the applicant is not registered on the portal, he/she gets registered there. \n**Step 3:** For registration, click “[New User](https://saralharyana.gov.in/citizenRegistration.html)” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password &amp;amp; State. Click on ‘Submit’.\n**Step 4:** Verify your mobile number and email ID through the received OTP and complete the registration process.\n&gt; **Login to apply for the scheme:**\n\n**Step 1:** To avail the benefits of the scheme, visit the Official [Antyodaya-SARAL Portal](https://saralharyana.gov.in/) and log in through the email ID used while registering.\n**Step 2:** Enter Password &amp;amp; Captcha and click on ‘Login’.\n**Step 3:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’.\n**Step 4:** Now, you can search for the scheme and download the pre-defined documents form/template and you will need to upload the filled-in/signed form/template in the &amp;#39;Attach Enclosures&amp;#39; screen.\n**Step 05:** Click on ‘Proceed to Apply’ to fill out the application form. Enter your Parivar Pehchan Patra number- Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.\n**Step 6:** Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”\n**Step 7:** Fill in all the mandatory details and upload all the mandatory documents.\n**Step 8:** Preview the application form and click on ‘Submit’.\n&gt; **Tracking of Application:**\n\nApplicants can track their applications through the Official [Antyodaya-SARAL Portal ](https://status.saralharyana.nic.in/)by entering their Department Name, Scheme Name, and Application Reference ID. \n**Note:** All the applications received by the Zila Sainik Boards shall be scrutinized at the level of Zila Sainik Boards itself and the applications so found for grant of financial assistance shall be forwarded with full case to Rajya Sainik Board for sanction with clear recommendation of the Secretary, Zila Sainik Board.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://csharyana.gov.in/WriteReadData/Policies/Defence%20III/2541.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=SyeR+a9xUnmZwSqp+PSElQ%3d%3d"
+    },
+    {
+      "title": "Notification",
+      "url": "https://csharyana.gov.in/WriteReadData/Instructions/Defence%20III/5779.pdf"
+    },
+    {
+      "title": "Antyodaya-SARAL Portal",
+      "url": "https://saralharyana.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

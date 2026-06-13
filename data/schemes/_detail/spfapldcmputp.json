@@ -1,0 +1,35 @@
+{
+  "slug": "spfapldcmputp",
+  "name": "Scheme for Providing Financial Assistance for the Purchase of Laptop or Desktop Computer to the Media Persons of the Union Territory of Puducherry",
+  "shortTitle": "SPFAPLDCMPUTP",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Information and Publicity Department, Puducherry",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to grant financial assistance for the purchase of laptops or desktop computers to eligible media persons, keeping in view the special nature of the service rendered by the Media Persons to society in creating a sense of socio-political awareness among the people.",
+  "descriptionMd": "&quot;Scheme for Providing Financial Assistance for the Purchase of Laptop or Desktop Computer to the Media Persons of the Union Territory of Puducherry&quot; by the Department of Information &amp; Publicity, Puducherry, aims to grant financial assistance for the purchase of laptops or desktop computers to eligible media persons, keeping in view the special nature of the service rendered by the Media Persons to society in creating a sense of socio-political awareness among the people.",
+  "benefitsMd": "**Financial Assistance:** Upto ₹15,000/- per month, or as may be fixed by the Government from time to time.\n**Purpose:** For the purchase of ANY ONE of the following - \n\n- A brand new personal computer that runs on AC power.\n- A brand new, small, portable personal computer that runs on either batteries or AC power; designed for use during travel.\n\n**Mode of Payment:** The Member Secretary-cum-Director will hand over the amount to the applicant after obtaining the necessary receipt from the applicant in the prescribed format ([Form-VI](https://info.py.gov.in/sites/default/files/25-laptop.pdf)).",
+  "eligibilityMd": "1. The applicant should be a citizen of India.\n2. The applicant should be a native of the Union Territory of Puducherry by birth or by continuous residence for not less than ten years.\n3. The applicant should have served for five years in ANY ONE of the following positions: \n\n- A full-time Editor/Reporter/Sub-Editor/Press Photographer/Correspondent of a Newspaper/Periodical duly registered with the Registrar of Newspapers of India, New Delhi.\n- Reporter/Photographer of News Agencies in Puducherry with headquarters outside the Union territory of Puducherry.\n- Reporter/Videographer in the employ of electronic media, namely Satellite Channels.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "The applicant should write a formal letter, attach copies of all the mandatory documents (self-attest, if required), and submit the same to - \n**The Director**\n**Department of Information &amp; Publicity**\n**18, Belcombe Street, Puducherry - 605 001**\n**+91-413-2334398, 2336415, 2337078**\n**info.pon@nic.in**\n_*The Office Timings are Monday to Friday, 08:45 am to 01:00 pm &amp; 02:00 pm to 05:45 pm._",
+  "references": [
+    {
+      "title": "Guidelines & Application Form",
+      "url": "https://info.py.gov.in/sites/default/files/25-laptop.pdf"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://py.gov.in/sites/default/files/citizens-charterinfopublicity.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://info.py.gov.in/contact-us"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

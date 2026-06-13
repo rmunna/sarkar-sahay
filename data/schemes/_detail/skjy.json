@@ -1,0 +1,27 @@
+{
+  "slug": "skjy",
+  "name": "Sardar Krushi Jyoti Yojana ",
+  "shortTitle": "SKJY",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Energy and Petro Chemicals Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme improves power supply for farmers by replacing old wires and equipment and upgrading agricultural feeders for uninterrupted service, which is crucial for irrigation.",
+  "descriptionMd": "The “Sardar Krushi Jyoti Yojana” was launched by the Energy and Petro Chemicals Department, Government of Gujarat. The main objective of this scheme is to provide good service to the consumers by providing quality power supply by replacing existing old, dilapidated power wires/conductors and related goods of the agricultural feeders and if necessary, by dividing the agricultural feeders.\n<br>",
+  "benefitsMd": "- Replacement of old and dilapidated agricultural feeder wires and conductors.\n- Improvement in quality of electricity supply to farmers.\n\n<br>",
+  "eligibilityMd": "1. The applicant should be a farmer. \n1. The applicant should be a resident of Gujarat.\n1. The applicant should be connected to agricultural electricity feeders.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit (during office hours) the Subdivisional Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Subdivisional Office.\n**Step 4:** Request a receipt or acknowledgment from the Subdivisional Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>",
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

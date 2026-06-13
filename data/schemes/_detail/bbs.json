@@ -1,0 +1,27 @@
+{
+  "slug": "bbs",
+  "name": "Bhagwan Budhdh Scholarship",
+  "shortTitle": "BBS",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Bhagavan Buddha Post SSC Scholarship launched by the Ministry of Education, Government of Gujarat. A scheme was introduced with the aim to encourage SC girl students to continue their higher studies after SSC.",
+  "descriptionMd": "**Details**\nAn initiative of the Gujarat government helping many girls in the state to complete higher education. Under this scheme, girls are provided financial assistance as per their respective studies. The Scheduled Caste girls who are not eligible for Post-SSC Scholarship due to having more than two children of employed parents or income of the family is more, even such girls can get scholarships from State Government for post-SSC studies. All girl residents of Gujarat can avail benefits under this scheme.",
+  "benefitsMd": "",
+  "eligibilityMd": "**Eligibility** \n\n1. Only Scheduled Caste Girls Students are eligible.\n1. For Diploma level courses, In Std: 10 or 12 should have 50% or more percentile in the examination.\n1. For Graduate level courses, In Std: 12 should have 50% or more percentile in the examination.\n1. Must full fill all conditions of the Government of India&#39;s Post Matric Scholarship Scheme Guidelines.\n1. Income Limit: More than 2.50 Lakh.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://sje.gujarat.gov.in/Dscw/schemes/1519?lang=English"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

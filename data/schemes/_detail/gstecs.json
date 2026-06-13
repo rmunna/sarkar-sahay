@@ -1,0 +1,43 @@
+{
+  "slug": "gstecs",
+  "name": "GST Exemption Certificate Scheme",
+  "shortTitle": "GSTECS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Heavy Industry",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "\"GST Exemption Certificate Scheme\" has been introduced by the Dept. of Heavy Industries, for issuing certificates to Persons with Disabilities (PwDs) having a disability percentage equal to or greater than 40%. The scheme provides GSC Concession to orthopedically disabled persons on purchase of car.",
+  "descriptionMd": "The &quot;GST Exemption Certificate Scheme&quot; has been introduced by the Department of Heavy Industries, Ministry of Heavy Industries for issuing certificates to Persons with Disabilities (PwDs) having a disability percentage equal to or greater than 40%. The scheme provides GSC Concession to orthopedically disabled persons on purchase of a car.",
+  "benefitsMd": "1. A concession of 10% on GST can be availed through this certificate and zero cess would be applicable. A person availing of this certificate will have to pay 18% GST &amp; no cess instead of 28% GST &amp; applicable cess on the purchase of a car. \n1. The certificate is issued within a month of receipt of the application complete in all respects.\n1. The certificate is valid for a period of 6 months from the date of issuance.",
+  "eligibilityMd": "1. Any Orthopedic Physically handicapped person having a permanent disability of 40% &amp; above can apply for the benefit under the scheme, irrespective of whether the applicant drives the vehicle himself or otherwise.\n1. Cars (automatic or manual) having a length less than or equal to 4m and engine capacity of not more than 1200 cc (petrol, Liquefied Petroleum Gases (LPG) or compressed natural gas (CNG) or 1500 cc (diesel) qualify for purchase under this scheme.\n1. The said Certificate for availing the GST concession would be valid for a period of three months from the date of issue of the certificate and the vehicle would have to be purchased by the applicant within this three-month period to avail the concession.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "1. Interested and eligible applicants may send their applications in the [prescribed format](https://gecs.heavyindustries.gov.in/assets/site/main/DHIGECS_procedure_(Revised).pdf) along with all required documents to the following address: **The Under Secretary (AEI Section), Department of Heavy Industry, Udyog Bhavan, Room No 428, New Delhi 110011, Tel: 011-23061490**1. The applicant would inform DHI about the purchase of the vehicle and the Registration number of the vehicle to the Department of Heavy Industry within a period of 30 days from the date of registration of the vehicle.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://gecs.heavyindustries.gov.in/assets/site/main/DHIGECS_procedure_(Revised).pdf"
+    },
+    {
+      "title": "User Manual - Application Process",
+      "url": "https://gecs.heavyindustries.gov.in/assets/site/main/User_Manual_New.pdf"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://gecs.heavyindustries.gov.in/assets/site/main/FAQS.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://gecs.heavyindustries.gov.in/home/contactUs"
+    },
+    {
+      "title": "Approved Applications",
+      "url": "https://gecs.heavyindustries.gov.in/home/allOnlineGSTConcessionApprovedApplicant"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

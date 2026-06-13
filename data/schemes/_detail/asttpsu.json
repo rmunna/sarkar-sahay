@@ -1,0 +1,36 @@
+{
+  "slug": "asttpsu",
+  "name": "AICTE-SHORT TERM TRAINING PROGRAMME (STTP) (UT-J&K,LADAKH AND NER)",
+  "shortTitle": "ASTTPSU",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Higher Education",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "University / Institution",
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "AICTE-Short Term Training Program (STTP) intends to conduct faculty training through financial assistance from AICTE to enable faculty members in the field of technical education.",
+  "descriptionMd": "Short Term Training Program (STTP) in North-Eastern Region (NER) and UTs of J&amp;amp;K and Ladakh intends to conduct faculty trainings through financial assistance from AICTE to enable faculty members in the field of technical education introspect learn techniques that can help prepare students for active and successful participants in a knowledge society.\n&lt;br&gt;\n\n**Duration of Programme:**\nIt is a residential programme of six days. The approved STTP shall be conducted within six months from the date of release of funds.",
+  "benefitsMd": "- **Funding to Institutions:** ₹5,00,000/- to the host University/Institution for conducting the training for the academic year.\n\n- **Disbursement of the Funds:**\n\n\n1. The full amount of the grant sanctioned shall be released as advance to the University/Institution.\n1. The amount spent by the institute on the conduct of STTP shall be adjusted on the basis of utilization certificate and detailed expenditure statement submitted by the University/Institution on the prescribed format along with other mandatory documents viz feedback form, copy of proceedings and completion report etc.\n1. The above said amount of grant shall be released on the basis of the Extension of Approval (EOA) issued by AICTE to the institute for the academic year.\n\n<br>\n\n\n- **Training to Teachers/Staffs:**  Faculty training in the field of technical education with following type:\n\n1. Pedagogical Training.\n1. Subject related Training to teachers employed in disciplines: Engineering &amp; Technology, Management, Pharmacy, Architecture etc.\n1. Training related to Moral Values, Ethics, Behavioural Sciences &amp; Attitude etc.\n1. Training for teachers regarding orientation of newly admitted students.\n1. Training for supporting technical and administrative staff including Librarian.",
+  "eligibilityMd": "- **For Institution:** AICTE approved institutions.- **For Faculty:** All teachers, supporting technical and administrative staff in areas of technical education.\n<br>\n\n**Note:** Maximum 5 proposals per institute per year including sanctioned, earlier but not completed, would be considered. However, maximum 3 proposals per institute shall be approved.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Registration of New Institute:**\n\n**Step 01:** Visit [http://portal.aicte-india.org/partnerportal_enu/start.swe](http://portal.aicte-india.org/partnerportal_enu/start.swe) and click on **New Institute button**.\n**Step 02:** After the redirected to another website, now hover the cursor on **Login** and select ‘**Investor Login’.**\n**Step 03:** Click on **‘Sign Up Now’** to register.\n**Step 04:** Enter the details and click on **‘Verify’** to receive OTP on your Email Id and Mobile Number.\n**Step 05:** After successful verification Click on **‘Sign Up Now’** to register.\n&lt;br&gt;\n\n&gt; **Post-Registration Process:**\n\n**Step 01**: Visit [http://portal.aicte-india.org/partnerportal_enu/start.swe](http://portal.aicte-india.org/partnerportal_enu/start.swe) and log in with the credentials provided by AICTE.\n**Step 02**: Navigate to AQIS Application Screen by clicking on **‘AQIS Application’** screen tab.\n**Step 03:** Institute details will auto populate in the AQIS Application.\n**Step 04:** Fill demographic and Bank details .\n**Step 05:** Only after confirming the Bank Details, the **&amp;#39;New&amp;#39;** button will be enabled for adding the AQIS Application.Click on **&amp;#39;New&amp;#39;** button to create AQIS Application.\n**Step 06:** A unique AQIS Application ID will get created.Select **‘SHORT TERM TRAINING PROGRAMME (STTP) (UT-J&amp;amp;K,LADAKH AND NER)’** as Scheme from the drop down List.\n**Step 07:** Now details to be filled for the as followed: Programme Details, Personalities Expected, Participating Industries ,Similar Events, Budget Estimate -Others, Academic Credentials of Coordinator/ PI/ Applicant, Justification, Credential of Institute / Department.\n**Step 07:** Once the fill out all the data in the above mentioned tab, click on **‘Validate Application’** button on the **‘AQIS Application’** tab.\n**Step 08:** Will get a pop up message to attach a Mandate Form  after downloading the sample form.\n**Step 09:** Now fill the amount in the **‘Total Funds Requested’** under label ‘Budget Estimates Others’.\n**Step 10:** After Validation is completed successfully, read the declaration, check it and click on Save.\n**Step 10:** Click on **&amp;#39;Submit&amp;#39;** button to submit the application.\n<br>\n\n<br>\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.aicte-india.org/sites/default/files/fdc/STTP%20Scheme%20Document%20NER%20and%20J&K%202020-21.pdf"
+    },
+    {
+      "title": "Feedback Form",
+      "url": "https://www.aicte-india.org/sites/default/files/fdc/STTP.pdf"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://www.aicte-india.org/sites/default/files/RIFD/STTP.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

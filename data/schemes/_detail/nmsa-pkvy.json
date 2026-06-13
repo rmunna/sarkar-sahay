@@ -1,0 +1,27 @@
+{
+  "slug": "nmsa-pkvy",
+  "name": "National Mission For Sustainable Agriculture-Parmparagat Krishi Vikas Yojana (NMSA-PKVY)",
+  "shortTitle": "NMSA-PKVY",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Agriculture, Farmers Welfare and Cooperation Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"National Mission For Sustainable Agriculture-Parmparagat Krishi Vikas Yojana (NMSA-PKVY)\" is a Centrally Sponsored Scheme that aims to promote organic farming practices through providing financial assistance for organic inputs and infrastructure support to farmers.",
+  "descriptionMd": "The scheme &quot;National Mission For Sustainable Agriculture-Parmparagat Krishi Vikas Yojana (NMSA-PKVY)&quot; is a Centrally Sponsored Scheme that aims to promote traditional and sustainable organic farming practices among farmers by providing financial support and infrastructure assistance. The scheme extends financial assistance for a maximum of 2 hectares per farmer for organic farming inputs, infrastructure development for on-farm organic input production, and related activities.\n<br>",
+  "benefitsMd": "- **Financial Assistance:** Assistance is provided for a maximum of 2 hectares per farmer for inputs for organic farming, on-farm input production infrastructure, etc.\n<br>",
+  "eligibilityMd": "- The applicant should be a farmer.\n  - The applicant should be a resident of Gujarat.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&amp;gt; **Registration Process:**\n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut](https://ikhedut.gujarat.gov.in/) Portal.\n**Step 2:** Click on &amp;amp;#39;Login&amp;amp;#39; from the top right-hand side, then click on &amp;amp;quot;Beneficiary Registration&amp;amp;quot; and select any one from the &amp;amp;#39;Farmer&amp;amp;#39; or &amp;amp;#39;Institutional&amp;amp;#39; or &amp;amp;#39;Except For the Farmer&amp;amp;#39; as the Beneficiary Type.\n**Step 3:** Select the District, Taluka, and Village, choose &amp;amp;#39;what type of account holder you are?&amp;amp;#39;, enter your Account Number and Name, solve the Captcha, and click &amp;amp;#39;Save and Next&amp;amp;#39;.\n**Step 4:** Enter your Mobile Number and Email address, click &amp;amp;#39;Send OTP&amp;amp;#39;, enter the received OTP, create and confirm a Password, solve the Captcha, and click &amp;amp;#39;Submit&amp;amp;#39;.\n&amp;gt; **Login Process:** \n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut](https://ikhedut.gujarat.gov.in/site/) Portal.\n**Step 2:** Click on &amp;amp;#39;Login&amp;amp;#39; from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button, and an application page will open.\n**Step 4:** Click on the &amp;amp;quot;Apply New&amp;amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;amp;quot;Update Application&amp;amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a printout of the confirmed application.\n&amp;gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx)\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 378)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

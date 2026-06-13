@@ -1,0 +1,31 @@
+{
+  "slug": "jmsy",
+  "name": "Jharkhand Mukhyamantri Shramik Yojana ",
+  "shortTitle": "JMSY",
+  "level": "state",
+  "state": "Jharkhand",
+  "nodalDept": "Urban Development and Housing Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The \"Mukhyamantri Shramik Yojana\" scheme by the Urban Development & Housing Department, Government of Jharkhand aims to provide guaranteed employment to unskilled urban workers. It offers up to 100 days of employment in urban development projects.",
+  "descriptionMd": "The &quot;Mukhyamantri Shramik Yojana&quot; scheme by the Urban Development &amp; Housing Department, Government of Jharkhand aims to provide guaranteed employment to unskilled workers residing in urban areas. Under this scheme, eligible beneficiaries receive up to 100 days of employment per financial year in various urban development projects.",
+  "benefitsMd": "- Guaranteed wage employment for a maximum of 100 days per financial year.\n- Improvement in living standards of urban poor families.\n- Employment opportunities in urban development projects like housing, sanitation, and road construction.\n- Ensuring social security for urban workers.\n- Contribution to urban cleanliness and green city initiatives.\n\n<br>\n\n***Job Card Issuance:***\n\n- Job cards can be obtained online, through community resource persons, urban local body offices, or ward-level camps.\n\n\n- Job card valid for 3 years with provisions for member addition/removal.\n\n<br>\n\n***Job Allocation Process:***\n\n- Workers can demand work online or through community resource persons.\n- Employment is assigned within 15 working days.\n- Job allocation details are sent via SMS and can be accessed on the portal.",
+  "eligibilityMd": "1. The applicant should be an unskilled worker willing to work in urban areas.\n1. The applicant must be a resident of Jharkhand and living in an urban local body (own/rented/slum) since before April 1, 2015.\n1. The applicant should be 18 years or older.\n1. The disabled person, women in special circumstances, and senior citizens above 65 years are also eligible to apply.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "***Job Card Apply Process:***\n\n- Visit the official website of Mukhyamantri Shramik Yojana: msy.jharkhand.gov.in\n- Click on the &quot;Application&quot; link/button.\n- Select &quot;Apply for Job Card&quot;.\n- Fill out the form with the required information, such as your address, Aadhaar card number, mobile number, etc.\n- If you need to add additional family members, click on the &quot;Add More&quot; button and fill in their details.\n- Accept the terms and conditions and complete the captcha verification.\n- Click on the &quot;Submit&quot; button.\n- Your job card application number will be generated and displayed. \n\n***Job Card Download Process:***\n\n- Visit the official website and click on the &quot;Download Job Card&quot;\n- Enter your Job Card Number and Aadhaar Number. \n- Complete the captcha verification.\n- Click the &quot;Submit&quot; to download the card.\n\n***After Generated the Job Card Raise a Request for &quot;Demand Work&quot;:***\n\n- Click on the &quot;Demand Work&quot;\n- Fill Job Card Number and Aadhaar Card Number.\n- Fill in the Demand Days (specify the number of days for which you are demanding work).\n- Complete the captcha verification. \n- Submit the request.\n- Work allocation details will be sent via SMS to the registered mobile number and will also be available on the scheme’s portal.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://msy.jharkhand.gov.in/sop"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://msy.jharkhand.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "rtfd",
+  "name": "Rehabilitation Treatment For The Disabled",
+  "shortTitle": "RTFD",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Social Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The government of Meghalaya provides rehabilitation treatment for persons with disabilities under the \"Disability Rehabilitation Scheme\".",
+  "descriptionMd": "- Financial assistance to disabled persons who cannot afford to undergo treatment inside and outside the state.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The person must be a resident of Meghalaya.\n1. The person must have a disability certificate issued by a registered medical practitioner.\n1. The disability percentage should be more than 40%.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://meghalaya.gov.in/schemes/content/15649"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

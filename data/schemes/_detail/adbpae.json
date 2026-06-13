@@ -1,0 +1,27 @@
+{
+  "slug": "adbpae",
+  "name": "Assistance for Digitization of Business Processes and Adoption of eCommerce",
+  "shortTitle": "ADBPAE",
+  "level": "state",
+  "state": "Rajasthan",
+  "nodalDept": "Industry Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme offers MSMEs up to 75% reimbursement (max ₹50,000) for software/equipment costs for digitization, plus 75% of e-commerce platform fees (excl. shipping), also up to ₹50,000. Reimbursement is allowed for one e-commerce platform per MSME only.",
+  "descriptionMd": "The scheme &amp;quot;Assistance for Digitization of Business Processes and Adoption of eCommerce&amp;quot; was introduced under the Rajasthan MSME Policy 2024 by the Department of Industries and Commerce, Government of Rajasthan, aims to promote digital transformation and enhance the eCommerce capabilities of MSMEs in the state. This scheme will remain in force until 31st March 2029.\n***Objective***\nMSMEs are provided financial assistance for adopting software, equipment for digitization, and for registering on eCommerce platforms. \n***Scheme Implementation***\nThis scheme component will be implemented through the concerned DICC under the aegis of Department of Industries &amp;amp; Commerce. Office of the Commissioner, Industries &amp;amp; Commerce will be the nodal agency for the implementation and supervision of the scheme at the state level.",
+  "benefitsMd": "**Financial Reimbursement for Digitization Equipment:**\n\n  - MSMEs are eligible for a one-time reimbursement of 75% of the cost incurred for purchasing software or equipment used in digitization of business process (such as POS systems, barcode scanners machine, inventory management software, etc.).\n  - Maximum Limit: ₹50,000/- per MSME.\n\n**Financial Reimbursement for eCommerce Platform Fee:**\n\n- Reimbursement of 75% of the total fee (excluding shipping fees) charged by eCommerce platform.\n- Maximum Limit: ₹50,000/- per MSME.\n\n**Note:** Assistance would only be eligible for one eCommerce platform per MSME.",
+  "eligibilityMd": "1. The enterprise should be a Micro, Small, or Medium Enterprise (MSME) in production.\n   1. The enterprise should be located in Rajasthan.\n   1. The applicant should possess a valid Udyam Registration Certificate at the time of application.\n   1. The applicant should have incurred expenses on digitization (software/equipment) after notification of Rajasthan MSME Policy 2024.\n   1. The applicant should have registered on an eCommerce platform after the notification of Rajasthan MSME Policy 2024.\n   1. MSME enterprise will only be eligible for benefits once for each component.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "***Application Process:***\n**Step 1:** The interested applicant downloads the application form [(Annexure 6.1)](https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/OrderEntry/ICOM/2025/Guidelines/O_030325_26f50adb-f7b4-4eb5-b94d-1e5e45451a85.pdf) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the respective General Manager, District Industries &amp;amp; Commerce Centre (DICC).\n***Post Application Process:***\n**Step 1:** Application will be evaluated by the GM, DICC and presented before the District Level Task Force Committee (DLTFC).\n**Step 2:** Upon approval, an official approval letter will be issued by GM, DICC.\n**Step 3:** The approved amount will be disbursed to the authorized bank account of the enterprise.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://istart.rajasthan.gov.in/public/Policies/2024/rajasthan-msme-policy-2024.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

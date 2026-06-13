@@ -1,0 +1,43 @@
+{
+  "slug": "py",
+  "name": "Pratibha Yojana",
+  "shortTitle": "PY",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Tribal Welfare and Scheduled Caste (SC) Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This scheme provides financial assistance to Scheduled Tribe students who have passed national competitive examinations such as JEE, NEET, CLAT, AIIMS, and NDA, and have taken admission in IIT, NIT, NLU, MBBS (government colleges located in Madhya Pradesh), AIIMS or NDA.",
+  "descriptionMd": "The &amp;quot;Pratibha Yojana&amp;quot; was launched by the Tribal Affairs Department, Government of Madhya Pradesh on 01.09.2016 to encourage talented students of the Scheduled Tribe Category for higher education. This scheme provides financial assistance to Scheduled Tribe students who have passed national competitive examinations such as JEE, NEET, CLAT, AIIMS, &amp;amp; NDA and have taken admission in IIT, NIT, NLU, MBBS (government colleges located in Madhya Pradesh), AIIMS or NDA.",
+  "benefitsMd": "Under this scheme, eligible students are provided with the following incentives:\n\n  - A financial assistance of ₹50,000/- is provided to students whose annual parental income is up to ₹3,00,000/-.\n  - A financial assistance of ₹25,000/- is provided to students whose annual parental income exceeds ₹3,00,000/-.\n\n**Note:** The incentive amount is paid into the applicant’s bank account linked to Aadhaar.",
+  "eligibilityMd": "1. The applicant should be a student.\n   1. The student should be a native of Madhya Pradesh.\n   1. The student should belong to the Scheduled Tribe category.\n   1. The applicant&amp;#39;s annual family income should not exceed ₹6,00,000/-.\n   1. The student should have qualified in any of the National Competitive Examinations such as JEE, NEET, CLAT, AIIMS, or NDA.\n   1. The applicant should have been admitted to one of the following institutions:\n\n\n  - IIT/NIT through JEE\n  - Government colleges in Madhya Pradesh for NEET (MBBS only)\n  - AIIMS\n  - NLU through CLAT\n  - NDA through UPSC\n\n**Note 1:** The applicant&amp;#39;s Aadhaar must be linked to the bank account.\n**Note 2:** The applicant must have the receipt of admission to the institute.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Registration Process:**\n\n**Step 1:** Go to the [official website](https://www.tribal.mp.gov.in/) of the Tribal Welfare Department of Madhya Pradesh.\n**Step 2:** Click on ‘[MPTAASC](https://www.tribal.mp.gov.in/MPTAAS)’ from the home page.\n**Step 3:** Click on &amp;quot;[New Beneficiary Profile Registration](https://www.tribal.mp.gov.in/PMS/Registration/BeneficiaryRegistration/PersonalDetail)&amp;quot; under the ‘Login’ section.\n**Step 4:** Complete all mandatory fields marked with * and upload the required documents.\n**Step 5:** Review your details and click &amp;quot;Submit.&amp;quot;\n**Step 6:** After submission, check your email and SMS for your user ID and password.\n&gt; **Application Process:**\n\n**Step 1:** Revisit the [official website](https://www.tribal.mp.gov.in/CMS) of the Tribal Welfare Department of Madhya Pradesh.\n**Step 2:** Click on ‘[MPTAASC](https://www.tribal.mp.gov.in/MPTAAS)’ from the home page.\n**Step 3:** Enter your user ID, password, and captcha code, then click &amp;quot;Login.&amp;quot;\n**Step 4:** On the dashboard, click &amp;quot;PMS&amp;quot; and then select &amp;quot;Apply for Scheme.&amp;quot;\n**Step 5:** Fill out the online application form, upload the necessary documents, and submit it.\n**Step 6:** After successful submission, print a copy of the application for your records. \n**Note 1:** It is mandatory for the applicant to register the beneficiary profile.\n**Note 2:** After admission in the institute, the applicants apply for Pratibha Yojana.\n**Note 3:** Admission of students is confirmed by the admitting institution.\n**Note 4:** The officials check the application and admission.\n**Note 5:** Current status information is sent to the registered email and SMS.\n**Contact Details:**\n\n  - **Helpdesk Number:** 1800-2333-951  - **Email Address:** helpdesk.tribal@mp.gov.in",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tribal.mp.gov.in/CMS/Uploaded%20Document/Schemes/User%20Manual%20Pratibha%20Yojana_Applicant%20Part_Hindi_2.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://www.tribal.mp.gov.in/"
+    },
+    {
+      "title": "Application Portal (MPTAASC)",
+      "url": "https://www.tribal.mp.gov.in/MPTAAS"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=818"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://khargone.nic.in/en/scheme/talent-plan/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

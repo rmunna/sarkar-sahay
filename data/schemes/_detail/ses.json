@@ -1,0 +1,27 @@
+{
+  "slug": "ses",
+  "name": "Self Employment Scheme",
+  "shortTitle": "SES",
+  "level": "state",
+  "state": "Karnataka",
+  "nodalDept": "Minorities Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Under this scheme, Subsidies will be provided to the religious minority communities with the help of Nationalized / Scheduled banks to start or improve a small-scale handicraft industry, service sector,  and agro-based activities.",
+  "descriptionMd": "**Detailed** \n\n- Under this scheme, Subsidies will be provided to the religious minority communities with the help of Nationalized / Scheduled banks to start or improve a small-scale handicraft industry, service sector, and agro-based activities. \n- People belonging to State Religious Minority Communities are covered under this scheme. (State Religious Minority Communities consist of People belonging to Muslim, Christian, Sikh, Buddhist, and Jain Communities). \n- Subsidy will be 33% of the unit cost or a maximum of Rs. 1.00 Lakh.\n\n<br>\n\n**The beneficiaries will be selected by the below Selection Panel.**\n\n1. MLA of the concerned Assembly Constituency – Chairman\n1. Member of the Legislative Council who is a permanent resident in that Taluk - Vice-Chairman\n1. Concerned Taluk Tahsildar – Member\n1. Executive Officer of concerned Taluk Panchayat-Member\n1. The District Lead Bank Manager – Member\n1. District Joint Director, Commerce, and Industry – Member\n1. Concerned District’s Deputy Director, Women and Child Welfare Department – Member\n1. Concerned District Manager, Karnataka Minority Development Corporation- Member Secretary.\n\n<br>",
+  "benefitsMd": "",
+  "eligibilityMd": "**Eligibility**\n\n1. Applicants must belong to the State Religious Minority Community.\n1. The applicant must be a permanent resident of the State.\n1. The age limit of the applicant is between 18 to 55 years.\n1. Family annual income from all sources should not be more than Rs.81,000/- in a rural areas and Rs. 1,03,000 in urban areas.\n1. No member of the applicant&#39;s family shall be an employee of the State/Central/ Government PSU.\n1. Applicants should not have availed of a loan in KMDC earlier.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://kmdc.karnataka.gov.in/29/self-employment-scheme/en"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "cmdrs",
+  "name": "Chief Minister Drought Relief Scheme",
+  "shortTitle": "CMDRS",
+  "level": "state",
+  "state": "Jharkhand",
+  "nodalDept": "Department of Home, Jail and Disaster Management",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The Chief Minister Drought Relief Scheme aims to provide relief and financial assistance to families affected by drought in designated areas. The scheme ensures financial security, livelihood support, and basic resources for drought-hit communities.",
+  "descriptionMd": "The “Chief Minister Drought Relief Scheme” was launched by the Department of Home, Jail and Disaster Management, Government of Jharkhand. The Jharkhand government has declared 226 blocks across 22 districts (excluding East Singhbhum and Simdega) as drought-affected. Each farmer family in these blocks will receive an advance drought relief assistance. The scheme aims to provide immediate financial relief to over 30 lakh farmer families impacted by drought.",
+  "benefitsMd": "- **Financial assistance of ₹3,500/- per affected farmer family.**\n\n<br>",
+  "eligibilityMd": "1. The applicant should be a farmer.\n1. The farmer’s crops should be damaged due to drought. \n1. The families should be residing officially declared drought-hit areas.\n\n<br>\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online - via CSC",
+  "applicationMd": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the CSC agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://msry.jharkhand.gov.in/LetterPDF/Drought_Notification_No_1291_Dated_31_10_2022_11082022230530.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://msry.jharkhand.gov.in/hi/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

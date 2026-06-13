@@ -1,0 +1,31 @@
+{
+  "slug": "fcds",
+  "name": "Floriculture Development Scheme",
+  "shortTitle": "FCDS",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The objective of the scheme is to motivate the farmers to take up floriculture (traditional and non-traditional flowers) as a commercial venture through the distribution of planting materials and other inputs.",
+  "descriptionMd": "The scheme “Floriculture Development Scheme” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to motivate the farmers to take up floriculture (traditional and non-traditional flowers) as a commercial venture through the distribution of planting materials and other inputs.",
+  "benefitsMd": "> **Pattern of Assistance:**\n\n\n  - By providing good quality flower planting material at 50% subsidy and low cost polyhouse free of cost with a minimum of 100sqm/unit area.\n\n&gt; **Type of Assistance:**\n\n\n  - To motivate farmers by cultivating low volume high-value crops to increase economic income. Under this aspect, poly house and good quality flower planting materials including organic fertilizers, micronutrients, and organic-based and P.P chemicals and drip irrigation are provided.",
+  "eligibilityMd": "1. The applicant/farmer should be a permanent resident of Meghalaya.\n   1. The applicant should be a bonafide farmer engaged in agriculture.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Application Process:**\n**Step 01**: The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.\n**Mode of Selection of Beneficiary(s):**\nBonafide farmers having a minimum area of 0.2 (hectares) willing to invest for future expansion in terms of planting materials, infrastructures, etc.\n**Whom to Contact:**\n1. [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)\n2. Horticulture Development Officer",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=102"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONHORTICULTURESCHEMES.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

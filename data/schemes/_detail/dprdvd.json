@@ -1,0 +1,27 @@
+{
+  "slug": "dprdvd",
+  "name": "Deployment of Prantiya Rakshak Dal (PRD) Volunteers (For volunteer & their Dependents)",
+  "shortTitle": "DPRDVD",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department of Youth Welfare and Provincial Protection Corps",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide financial assistance to PRD volunteers, or to their dependents in the event of death, disability, or injury sustained while on duty. In case of death during duty, financial assistance is provided to legal dependents of volunteer, based on the nature & severity of incident.",
+  "descriptionMd": "The scheme &amp;quot;Deployment of Prantiya Rakshak Dal (PRD) Volunteers&amp;quot; was launched by the Department of Youth Welfare and prantiy rakshak dal (PRD), Government of Uttarakhand. The scheme aims to provide financial assistance to PRD volunteers, or to their dependents in the event of death, disability, or injury sustained while on duty.\n<br>",
+  "benefitsMd": "In the event of death, permanent disability, or an accident during duty under adverse conditions, financial assistance is provided as follows:\n\n  - Death during communal riots: ₹2.00 lakh\n  - Death during special high-risk duty: ₹1.50 lakh\n  - Death during normal duty: ₹1.00 lakh\n  - Permanent disability: Half of the ex-gratia amount admissible for the higher category.\n  - Serious injury: One-fourth of the ex-gratia amount admissible.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a resident of Uttarakhand.\n   1. The applicant must be a trained Prantiya Rakshak Dal (PRD) volunteer or a legal dependent of a PRD volunteer (in the event of the volunteer’s death).\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "- In the event of the death of a PRD volunteer, or for their dependent, the application must be submitted to the District Youth Welfare and PRD Office along with the death certificate, training certificate, and survivor certificate. \n  - In the event of a disability, a medical certificate must be submitted. \n  - For a dependent, a copy of the dependent&amp;#39;s birth certificate, survivor certificate, bank account details, and family register or ration card must also be provided. \n  - After assessing the adverse circumstances, the department disburses the financial assistance to the PRD volunteer or their dependents.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 103)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

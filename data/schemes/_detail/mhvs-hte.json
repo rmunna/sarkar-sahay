@@ -1,0 +1,31 @@
+{
+  "slug": "mhvs-hte",
+  "name": "Mukhyamantri Hunar Vikas Yojana- Higher Education/Technical Education",
+  "shortTitle": "MHVY-HETE",
+  "level": "state",
+  "state": "Rajasthan",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "Under this scheme, the State Government provides financial assistance to eligible boys and girls enrolled under the Palanhar Scheme to pursue higher or technical education, based on their qualifications and interest in employment-oriented courses.",
+  "descriptionMd": "The &amp;quot;Mukhyamantri Hunar Vikas Yojana – Higher Education/Technical Education&amp;quot; was launched by the Department of Social Justice and Empowerment, Government of Rajasthan, with the objective of providing technical or higher education to beneficiary boys and girls under the State Government’s Palanhar Scheme, to help them become self-reliant. The scheme aims to make every possible effort to ensure employment opportunities and a dignified livelihood for these beneficiaries upon completion of their higher or technical education.\nUnder this scheme, the State Government provides financial assistance to eligible boys and girls enrolled under the Palanhar Scheme to pursue higher or technical education, based on their qualifications and interest in employment-oriented courses.\nThe scheme is implemented by the Department of Social Justice and Empowerment, Rajasthan, at the state level and by the Deputy Director/Assistant Director, Department of Social Justice and Empowerment, at the district level.",
+  "benefitsMd": "> **Higher Education /Technical Education Benefits:**\n\n\n- Financial assistance for career-oriented higher or technical education (graduation/post-graduation courses). \n\n> **Mode of Disbursement:**\n\n\n- Reimbursement of the actual course fee through bank account transfer.",
+  "eligibilityMd": "1. The applicant should be a beneficiary under the Palanhar Scheme of Rajasthan.\n   1. The applicant should have completed 15 years of age.\n   1. The applicant’s maximum age should not exceed 21 years or till course completion (whichever is earlier).\n   1. The applicant should be pursuing education from a university/college/technical educational institution recognized by the Government of India/State Government.\n   1. Financial assistance is applicable for regular higher or technical education at the graduate or postgraduate level.\n   1. The applicant should not be receiving any scholarships or grants for higher/technical education from the Central or State Government.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "&amp;gt; **Application Process:**\n\n**Step 1:** The interested applicant downloads the [application form](https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Deputy Director/Assistant Director, Department of Social Justice and Empowerment, at the district level.\n**Step 4:** After verification, course fees will be reimbursed to the student’s bank account.\n**Note:** Apply for fee reimbursement within 3 months of admission.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231258279383.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402231257087804.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

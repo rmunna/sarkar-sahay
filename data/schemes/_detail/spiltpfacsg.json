@@ -1,0 +1,32 @@
+{
+  "slug": "spiltpfacsg",
+  "name": "Scheme to Provide Grant to the Institutions for Long Term Project in the Field of Art and Culture (Sarjansheel Goa)",
+  "shortTitle": "SPILTPFACSG",
+  "level": "state",
+  "state": "Goa",
+  "nodalDept": "Art, Culture and Museums Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Individual",
+    "University / Institution"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Scheme to Provide Grant to the Institutions for Long Term Project in the Field of Art and Culture (Sarjansheel Goa)\" implemented by the by the Directorate of Art and Culture, provides financial support to the institutions/ individuals involved in long-term projects in the field Art & Culture.",
+  "descriptionMd": "&quot;Scheme to Provide Grant to the Institutions for Long Term Project in the Field of Art and Culture (Sarjansheel Goa)&quot; implemented by the by the Directorate of Art and Culture, Government of Goa, provides financial support to the institutions/ individuals involved in long-term projects in the field of Art &amp; Culture.\n<br>\n\n> **Objectives**\n\n\n1. To create and develop a cultural environment in the State of Goa. \n1. To provide financial support to the institutions/ individuals involved in long-term projects in the field of Art and culture. \n1. To preserve and promote the cultural heritage of Goa.",
+  "benefitsMd": "A grant to the extent of 80% of the total expenditure involved is subject to a maximum ceiling of ₹ 5,00,000 per annum. \n<br>\n\n> **Number of Beneficiaries**\n\nThe Department/Government may restrict the number of institutions/individuals according to the availability of funds.",
+  "eligibilityMd": "> **For Institutions** \n\n\n1. Any institution registered under the Society’s Registration Act, 1860 or Indian Trust Act. \n1. The institution must be involved in long-term projects in the field of Art and Culture.\n\n<br>\n\n> **For Individuals**\n\n\n1. Any individual from the Goan community, who has been a resident of Goa for 15 years or more.\n1. The individual must be involved in a long-term project in the field of Art and Culture and should have contributed at least 15 years in the relevant field.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "The Director of Art &amp; Culture shall release an advertisement in local daily newspapers thereby inviting applications from eligible applicants.\n**Step 1:** The interested applicant should visit the Directorate Of Art &amp; Culture, Government of Goa, 5th Floor, Shram Shakti Bhavan, Panaji, Patto, Panaji, Goa - 403001\n**Step 2:** Request a hard copy of the proforma from the concerned authority.\n**Step 3:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach copies of all the mandatory documents (self-attest if required).\n**Step 4:** Submit the duly filled and signed application form along with the documents to the ACO-II, Directorate of Art &amp; Culture, Phone: 0832-2404623, Email: aco3-dac.goa@nic.in",
+  "references": [
+    {
+      "title": "Citizen's Charter",
+      "url": "https://www.goa.gov.in/wp-content/uploads/2022/06/Chitizen-Charter-2022-2023-art-and-culture.pdf"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://www.artandculture.goa.gov.in/en/schemes-programmesschemes/financial-assistance-to-long-term-project-in-the-field-of-art-culture"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

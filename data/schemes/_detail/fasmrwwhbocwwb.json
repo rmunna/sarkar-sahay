@@ -1,0 +1,35 @@
+{
+  "slug": "fasmrwwhbocwwb",
+  "name": "Financial Assistance for Self-Marriage of Registered Women Workers (HBOCWWB)",
+  "shortTitle": "FASMRWWHBOCWWB",
+  "level": "state",
+  "state": "Haryana",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, financial assistance of ₹50,000/- is provided to registered women workers for arranging their own marriage who have a minimum one-year regular membership.",
+  "descriptionMd": "The scheme “Financial Assistance for Self-Marriage of Registered Women Workers” is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department, Government of Haryana. Under this scheme, financial assistance is provided to registered women workers for arranging their own marriage. Women workers who are registered members for at least one year and have not received marriage assistance for their own marriage from any other government department/board/corporation are eligible to avail the benefits of this scheme.",
+  "benefitsMd": "1. Under this scheme, financial assistance of ₹50,000/- is provided to registered women workers for arranging their own marriage.",
+  "eligibilityMd": "1. The applicant should be a woman and engaged in building or construction work.\n   1. The applicants should be registered with the Haryana Building &amp;amp; Other Construction Workers Welfare Board.\n   1. The registered woman worker must have a minimum one-year regular membership.\n   1. The registered woman worker must have an active membership with the Board.\n   1. The registered woman worker shall submit an undertaking/self-declaration that she has not received and will not receive this assistance from any other Government Department/Board/Corporation.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Registration of a Construction Worker Under HBOCWWB:**\n\n**Step 01:** The construction worker should visit the [Official Website](https://hrylabour.gov.in/) of the Labour Department Haryana. \n**Step 02:** On the home page, click on the “Building &amp;amp; Ors Const. Workers Welfare Board” link.\n**Step 03:** Applicant has to read all the instructions and then “Tick” the acknowledgment, then click on the “Submit” button.\n**Step 04:** Verification using Parivar Pehchan Patra (PPP)- Family ID:\na) Forget/not having Family ID: If you do not have PPP ID or forget the PPP ID, then you have to select that radio button and you are redirected to the [PPP Portal](https://meraparivar.haryana.gov.in/) for getting their PPP ID.\nb) Having a Family ID: If you have a family ID, then only you can move to the next step for registration. To proceed further, follow the given steps:\n• Select the “I have family ID” radio button\n• Enter Parivar Pehchan Patra number - Family ID\n• Click on “Fetch Family Details” which displays the family members registered under the given Family ID\n• Select a family member for registration\n• Enter the OTP that is being sent to the selected family member for verification\n• Click on “Click to Verify”\n**Step 05:** Aadhaar Verification before Registration: Provide your Aadhaar number and tick mark the checkbox for the declaration. Click on the “Continue” button.\n**Step 06:** After verification, fill out the complete registration form and submit the form.\n**Step 07:** Login into the account: After the final submission of the registration form, a worker can login into his/her account using their username and password but unable to avail of any benefit. \n**Step 08:** To avail of the benefits, a worker has to pay the registration fee and add a work experience of a minimum of 90 days of the preceding year.\n**Step 09:** Now, the worker needs to add work experience, to add 90 days of experience, the applicant has to fill in all the details where he/she has worked.\n**Step 10:** The schemes and other benefits can be availed once the 90 days’ work experience is approved by the Officer.\n&gt; **Apply for Scheme:**\n\n**Step 01:** Visit the [Official Website](https://hrylabour.gov.in/) of the Labour Department Haryana.\n**Step 02:** On the home page, click on &amp;quot;[HBOCW Board Beneficiary Login](https://hrylabour.gov.in/login/bocw)&amp;quot;.\n**Step 03:** Enter your Username, Password, Captcha, and click on the submit button.\n**Step 04:** In the opened window, click on &amp;quot;Schemes&amp;quot;, and a list of schemes will appear on the screen.\n**Step 05:** Now, select the scheme and read its details.\n**Step 06:** Fill in all the required details in the online application form and submit it.\n&gt; **Application Tracking:**\n\nWorkers can track their application status online through the [official website](https://hrylabour.gov.in/) of the Labour Department Haryana. Relevant updates will be sent to the registered mobile number.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://hrylabour.gov.in/bocw/settings/schemeDetail/159"
+    },
+    {
+      "title": "Registration",
+      "url": "https://hrylabour.gov.in/bocw/Basicinfo/bocw_terms"
+    },
+    {
+      "title": "Sign In- HBOCW Board",
+      "url": "https://hrylabour.gov.in/login/bocw"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

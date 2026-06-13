@@ -1,0 +1,27 @@
+{
+  "slug": "shspt",
+  "name": "Special Health Scheme for Primitive Tribes",
+  "shortTitle": "SHSPT",
+  "level": "state",
+  "state": "Jharkhand",
+  "nodalDept": "Department of Scheduled Tribe, Scheduled Caste, Minority and Backward Class Welfare",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The \"Special Health Scheme for Primitive Tribes\" scheme by the Welfare Department, Government of Jharkhand, aims to improve healthcare services for primitive tribal communities. Financial assistance of ₹38,41,632 is provided for targeted healthcare benefits.",
+  "descriptionMd": "The &quot;Special Health Scheme for Primitive Tribes&quot; scheme by the Welfare Department, Government of Jharkhand, aims to improve healthcare access and outcomes for primitive tribal communities. Through this scheme, financial assistance of ₹38,41,632 is allocated for health-related services and programs to ensure better medical support and infrastructure for the targeted groups.",
+  "benefitsMd": "- Focused healthcare services for primitive tribal communities.\n- Distribution of funds to districts such as Dumka, Sahebganj, Pakur, and Godda.\n- Utilization for better medical facilities, treatments, and preventive care programs.\n- Priority to regions with high tribal populations and pressing health needs.",
+  "eligibilityMd": "1. The applicant should belong to a primitive tribal community.\n1. The applicant should reside in districts covered under the scheme, including Dumka, Sahebganj, Pakur, and Godda.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 01:** Visit the district welfare office in your region and obtain the application form for the Special Health Scheme for Primitive Tribes.\n**Step 02:** Fill in the required details, including personal, income, and community information.\n**Step 03:** Attach the necessary documents.\n**Step 04:** Submit the completed form to the welfare officer and keep the acknowledgment receipt for future reference.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/PDepartment/ViewDoc?id=D030DO004SD001115012019054624647"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

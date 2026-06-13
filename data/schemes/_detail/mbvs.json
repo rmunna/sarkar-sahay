@@ -1,0 +1,27 @@
+{
+  "slug": "mbvs",
+  "name": "Mai Bhago Vidya Scheme",
+  "shortTitle": "MBVS",
+  "level": "state",
+  "state": "Punjab",
+  "nodalDept": "Department of Social Security and Development of Women and Children",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Under this scheme, the goal is to support girls from economically weaker families by providing assistance for transportation, enabling regular school attendance.",
+  "descriptionMd": "Mai Bhago Vidya Scheme aims to ensure that girl students continue their education beyond the primary level by promoting enrolment and reducing dropout rates at the senior secondary and higher secondary levels. The scheme is named after Mai Bhago, one of the bravest Sikh women warriors, who led Sikh soldiers against the Mughals in 1705 and emerged as a hero of the battle for her courage and leadership.\n<br>\n\nIn Punjab, many girls discontinue their education after the 8th standard because schools are located far from their homes. Due to the lack of affordable transportation, it becomes difficult for them to commute to school, as most families in rural areas cannot afford vehicles or bicycles for their daughters. The Mai Bhago Vidya Scheme supports such school-going girls by providing assistance to help them continue their education.\n<br>",
+  "benefitsMd": "Free bicycles are provided to all girl students of 9th to 12th classes.",
+  "eligibilityMd": "1. Girl students should be residents of Punjab state.\n1. Girl students should be studying in standards 9th,10th, 11th, and 12th in the government school.\n1. Girl students should belong to those below the poverty line (BPL).",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "1. Applicants can also contact the principal of their concerned school regarding the Scheme.\n   1. The application form will be provided by the concerned person.\n   1. Fill up the application form and submit all the required Documents.\n   1. Verification of the details of the applicant will be done by the concerned authority.\n   1. After successful verification, the applicant can avail the benefit of the scheme.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sswcd.punjab.gov.in/en/wcd/state-schemes"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

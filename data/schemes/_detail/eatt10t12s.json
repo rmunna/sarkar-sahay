@@ -1,0 +1,31 @@
+{
+  "slug": "eatt10t12s",
+  "name": "Educational Assistance to the 10th to 12th Students",
+  "shortTitle": "EATT10T12S",
+  "level": "state",
+  "state": "Maharashtra",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The Educational Assistance to the 10th to 12th Students scheme was launched by the Maharashtra Building And Other Construction Workers Welfare Board (MBOCWW), Labour Department Maharashtra.",
+  "descriptionMd": "The Educational Assistance to the 10th to 12th Students scheme was launched by the Maharashtra Building And Other Construction Workers Welfare Board (MBOCWW), Labour Department Maharashtra. Under this scheme, educational assistance of ₹10,000/- to the children of the registered worker scoring 50% or more marks in the 10th and 12th standard examinations.",
+  "benefitsMd": "- Financial assistance of ₹10,000/- for children scoring 50% or more in 10th or 12th standard exams.",
+  "eligibilityMd": "1. The children&#39;s parents or guardians should be registered under the Maharashtra Building and Other Construction Workers Welfare Board.\n1. The child must have passed the 10th or 12th standard with at least 50% marks.\n1. Only children and spouse of registered construction workers are eligible to get educational assistance.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step-1:** The interested applicant downloads the [application form](https://mahabocw.in/wp-content/uploads/2019/06/SCHEME_EDUCATION_FORM.pdf) from the MBOCWW official website. \n**Step-2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step-3:** Submit the duly filled and signed application form along with the documents to the Labor Commissioner/Government Labor Officer.\n**Step-4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mahakamgar.maharashtra.gov.in/welfare-scheme-for-building-other-construction-workers.htm"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://mahabocw.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

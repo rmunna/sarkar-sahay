@@ -1,0 +1,31 @@
+{
+  "slug": "fmtaspsstc",
+  "name": "Fodder Minikits under Tribal Area Sub Plan (TASP) Scheme (ST Category)",
+  "shortTitle": "FMTASPS(STC)",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Agriculture, Farmers Welfare and Cooperation Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme “Fodder Minikits under Tribal Area Sub Plan (TASP) Scheme” is implemented by the Directorate of Animal Husbandry, Government of Gujarat to provide an improved variety of fodder seeds to Scheduled Tribe beneficiaries for widespread publicity, demonstration, and adaptation by farmers.",
+  "descriptionMd": "The scheme “Fodder Minikits under Tribal Area Sub Plan (TASP) Scheme” is implemented by the Directorate of Animal Husbandry, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under this scheme, improved varieties of fodder seeds are provided to beneficiaries for widespread publicity, demonstration and adaptation by farmers.",
+  "benefitsMd": "1. Under this scheme, the fodder seed minikit of 3 Kg, 7 Kg or 10 Kg is given to the eligible beneficiary.",
+  "eligibilityMd": "1. The beneficiary should be a permanent resident of Gujarat.\n   1. The beneficiary of the Scheduled Tribe (ST) category can avail the benefit under this scheme.\n   1. The beneficiary should possess 10 Guntha of land to his or her name.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "To avail the benefits of the scheme, the beneficiary may contact a nearby [Veterinary Dispensary](https://farmer.gov.in/vetcentres.aspx?scode=04) or First Aid Veterinary Centre.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://doah.gujarat.gov.in/fodder-development.htm"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://doah.gujarat.gov.in/Images/animalhusbandary/pdf/3-fooder-eng-1818.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

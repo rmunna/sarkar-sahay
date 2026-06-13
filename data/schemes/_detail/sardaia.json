@@ -1,0 +1,39 @@
+{
+  "slug": "sardaia",
+  "name": "Scheme for Assistance for Research & Development Activities: Assistance to Industrial Association for Establishment of R&D Laboratories",
+  "shortTitle": "SARDAIA",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Industries and Mines Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "University / Institution"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Scheme for Assistance for Research & Development Activities\" under the Gujarat Industrial Policy promotes innovation by encouraging R&D among companies and institutions, fostering technological advancements to drive \"Atmanirbhar Gujarat.\"",
+  "descriptionMd": "The &amp;quot;Scheme for Assistance for Research &amp;amp; Development Activities&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, this initiative promotes sustainable industrial growth by supporting industries in adopting eco-friendly practices and ensuring compliance with environmental norms.\nThe component &amp;quot;Assistance to Industrial Association for Establishment of R&amp;amp;D Laboratories&amp;quot; provides financial support to Industrial Associations for setting up new Research and Development (R&amp;amp;D) laboratories. The assistance covers infrastructure, machinery, software, and other essential resources required for R&amp;amp;D activities. This initiative aims to promote innovation and technological advancements in industries.",
+  "benefitsMd": "- **Financial Assistance:** 60% of the project cost for Machinery and Equipment, Hardware &amp;amp; Software required for research and related assets required for the R&amp;amp;D activities subject to a maximum of  ₹5,00,00,000/-.",
+  "eligibilityMd": "&amp;gt; **Eligible institution:**\n\n\n  - Research and Development laboratories recognized by the Council of Scientific and Industrial Research (CSIR) / Department of Scientific and Industrial Research (DSIR) \n  - The laboratories should be set up by an Industrial Association.\n  - The Industrial association should be registered under applicable act. \n\n&amp;lt;br&amp;gt;\n\n&amp;gt; **Eligible Activities:**\n\n\n  - Setting up of new R&amp;amp;amp;D laboratory with all necessary infrastructures and facilities.\n\n&amp;lt;br&amp;gt;\n\n&amp;gt; **Note****:** Provisional approval of CSIR/DSIR shall have to be obtained.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step-1:** The R&amp;amp;D institution must apply to the Industries Commissionerate in the [prescribed format](https://ic.gujarat.gov.in/documents/commondoc/2023/2.%20CLAIM%20APPLICATION%20FORM%20SCHEME%202.pdf), along with all necessary [documents](https://ic.gujarat.gov.in/documents/commondoc/2023/1.%20CLAIM%20CHECKLIST%20SCHEME%202.pdf).\n**Step-2:** The office of the Industries Commissioner will scrutinize the proposals to ensure compliance with the scheme&amp;#39;s eligibility and guidelines.\n**Step-3:** The proposals will be presented to the State Level Empowered Committee (SLEC) for review and approval.\n**Step-4:** Upon approval by SLEC, the reimbursement of the sanctioned assistance will be processed, and the claim will be disbursed by the office of the Industries Commissioner.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/8-GR_02092020.pdf"
+    },
+    {
+      "title": "Document Checklist",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2023/1.%20CLAIM%20CHECKLIST%20SCHEME%204.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2023/2.%20CLAIM%20APPLICATION%20FORM%20SCHEME%204.pdf"
+    },
+    {
+      "title": "CA Certificate",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2023/3.%20CA%20CERTIFICATE%20SCHEME%204.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

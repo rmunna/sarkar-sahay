@@ -1,0 +1,35 @@
+{
+  "slug": "pfjf",
+  "name": "Pension for Journalists’ Family",
+  "shortTitle": "PFJF",
+  "level": "state",
+  "state": "Tamil Nadu",
+  "nodalDept": "Tamil Development and Information Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Journalist"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Pension for Journalists’ Family\" was launched by the Tamil Development, Religious Endowments, and Information Department, Government of Tamil Nadu. The scheme aims to give a monthly pension to the wife of a deceased journalist pensioner.",
+  "descriptionMd": "The &quot;Pension for Journalists’ Family&quot; was launched by the Tamil Development, Religious Endowments, and Information Department, Government of Tamil Nadu in 1998. The scheme aims to give a monthly pension to the wife of a deceased journalist pensioner.",
+  "benefitsMd": "- **Pension Amount of ₹2,000/- per month.**",
+  "eligibilityMd": "1. The benefit of the scheme will be given only on the death of the journalist.\n1. The applicant must be the spouse of the deceased journalist.\n1. The deceased journalist must contributed to the journalist pension.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant can download the [application form](https://cms.tn.gov.in/sites/default/files/schemes/journalist_family_pension.pdf) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Director, News Public Relations Department, Head Secretariat, Chennai-9. \n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n&lt;br&gt;",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cms.tn.gov.in/sites/default/files/documents/Information_publicity_1_0.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://www.tn.gov.in/scheme/data_view/6802"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://cms.tn.gov.in/sites/default/files/schemes/journalist_family_pension.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

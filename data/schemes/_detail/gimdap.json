@@ -1,0 +1,47 @@
+{
+  "slug": "gimdap",
+  "name": "Grant of Incentive for Marriage Between Differently Abled Person",
+  "shortTitle": "GIMDAP",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Social Welfare Department, Puducherry",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "Through this scheme, an incentive of ₹2,00,000/- is provided, comprising ₹40,000 in cash and ₹1,60,000/- in the form of a National Savings Certificate (NSC), for the marriage between differently-abled individuals. The selection is periodical and depends on the availability of funds.",
+  "descriptionMd": "The scheme “Grant of Incentive for Marriage Between Differently Abled Person” by the Department of Social Welfare, Government of Puducherry was introduced to encourage and support marriages between differently-abled individuals. Through this scheme, an incentive of ₹2,00,000/- is provided, comprising ₹40,000 in cash and ₹1,60,000/- in the form of National Savings Certificate (NSC). The selection is periodical and depends on the availability of funds.",
+  "benefitsMd": "An Incentive of ₹ 2,00,000/- (₹ 40,000 in cash and ₹ 1,60,000/- in the form of NSC).",
+  "eligibilityMd": "- The applicant should be a Native/Resident of the Union Territory of Puducherry.\n- The applicant should have an annual income not exceeding ₹75,000/- per annum.\n- The bride should be above 18 years of age.\n- The bridegroom should be above 21 years of age.\n- The disability of the bride and the bridegroom should be 40% and above.\n- The marriage should be the first marriage between the bride and the groom.\n- The marriage should have been registered.\n- The application should be submitted within 120 days after marriage.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit (during office hours) the [Office/ Sub-Office](https://socwelfare.py.gov.in/sub--office-social-welfare-department) of the Department of Social Welfare, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\nOR\nThe interested applicant should take print of the [prescribed format](https://socwelfare.py.gov.in/sites/default/files/financial-assistance-marriage-between-differently-abled-persons_1.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Deputy Director (Women Development) or the Child Development Project Officer (depending on the location), at least 30 days before the proposed marriage date.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socwelfare.py.gov.in/grant-incentive-marriage-between-differently-abled-person"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://socwelfare.py.gov.in/sites/default/files/citizen-charter.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://socwelfare.py.gov.in/contact-us"
+    },
+    {
+      "title": "Sub Offices",
+      "url": "https://socwelfare.py.gov.in/sub--office-social-welfare-department"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://pgportal.gov.in/"
+    },
+    {
+      "title": "Track Your Application",
+      "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

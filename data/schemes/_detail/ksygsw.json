@@ -1,0 +1,27 @@
+{
+  "slug": "ksygsw",
+  "name": "Kaidi Sahay Yojana",
+  "shortTitle": "KSYGSW",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Kaidi Sahay Yojana\" by the Social Justice and Empowerment Department, Gujarat, provides financial assistance of ₹25,000/- to the family of a prisoner who is the sole or main earner, to support them through self-employment.",
+  "descriptionMd": "The Kaidi Sahay Yojana, initiated by the Social Justice and Empowerment Department, Gujarat, aims to provide financial relief to families of prisoners who are undergoing sentences in jails and are the main or sole earners of their households. Under this scheme, a one-time financial assistance of ₹25,000/- is granted to the prisoner’s family, ensuring that they can sustain themselves through self-employment during the imprisonment period.",
+  "benefitsMd": "- **Financial Assistance:** A one-time assistance of ₹25,000/-.",
+  "eligibilityMd": "- Applicant must be a family member of a prisoner currently serving sentence in a state jail in Gujarat.\n  - The prisoner should be the sole or main earner of the family.\n  - The prisoner&amp;#39;s family must be economically dependent on the prisoner.\n  - The total family income should not exceed ₹1,50,000/- per annum.\n  - The family should not be fragmented (i.e., should be living together and dependent on the prisoner).\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Visit the District Jail/ Sub Jail/ District Social Defense Office and obtain the [application form](https://mariyojana.gujarat.gov.in/ViewForm.aspx).\n**Step 2:** Fill out the form with all required details and attach the necessary documents (Self-attested, if required).\n**Step 3:** Submit the completed application to the office of the District Welfare Officer/ Sub Jail.\n<br>\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 286)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

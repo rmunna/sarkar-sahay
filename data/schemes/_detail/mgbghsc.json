@@ -1,0 +1,31 @@
+{
+  "slug": "mgbghsc",
+  "name": "Maintenance of Govt Boys and Girls Hostels (SC) ",
+  "shortTitle": "MGBGHSC",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Under this scheme, it provides free hostel, food, and academic facilities to scheduled caste students pursuing post-SSC education.",
+  "descriptionMd": "The “Maintenance of Govt Boys and Girls Hostels (SC)” scheme was launched by the Social Justice and Empowerment Department, Government of Gujarat. It aims to provide free residential facilities, meals, and educational support to scheduled caste (SC) students. Under this scheme, students who have passed class 10th and are pursuing further studies are accommodated in government-run hostels with free food, lodging, and academic resources.\n<br>",
+  "benefitsMd": "- Free Accommodation in Government Hostels.\n- Free Meals (Breakfast, Lunch, Dinner).\n- Free Educational Facilities such as textbooks and study material.\n\n<br>",
+  "eligibilityMd": "1. The applicant must belong to the Scheduled Caste (SC) category.\n1. The applicant must be a permanent resident of Gujarat.\n1. The applicant must have passed class 10th (SSC) or higher from GSEB/CBSE.1. The applicant must be enrolled in a regular course in a college within the same district as the hostel.\n1. The boy student&#39;s annual family income must not exceed ₹2,50,000. No income limit for girl students.\n1. The applicant must have scored at least 50% marks in the last annual exam.\n\n<br>\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 01:** The eligible applicant may visit the e-Samaj Kalyan Portal: [https://esamajkalyan.gujarat.gov.in/](https://esamajkalyan.gujarat.gov.in/)\n**Step 02:** On the home page, under the tab ‘Citizen Login’, click on New User ‘[Please Register Here](https://esamajkalyan.gujarat.gov.in/Registration.aspx)’.\n**Step 03:** Enter your Full Name as per Aadhaar Card, Gender, Date of Birth, Aadhaar Card Number, Email ID, Caste etc. and then click on ‘Register’.\n**Step 04:** After successful registration, the applicants can login through their User ID and Password.\n**Step 05:** Now, click on ‘User Profile’ to update your profile.\n**Step 06:** Fill in all the mandatory information and then click on ‘Update’. \n**Step 07:** After updating the profile successfully, select the scheme appearing on the home page; an application form will open.\n**Step 08:** Fill in all the mandatory details in the application form and upload all the relevant documents.\n**Step 09:** Now agree with the terms &amp;amp; conditions and click on ‘Save Application’.\n**Step 10:** Submit the application form and take out the print of the application for future reference. The applicant can note down the application number to track the application status by logging into the portal using their User ID and Password.\n[User Manual](https://esamajkalyan.gujarat.gov.in/HelpManual/Citizen-HelpManual.pdf) \n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://esamajkalyan.gujarat.gov.in/index.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

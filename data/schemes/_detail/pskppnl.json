@@ -1,0 +1,27 @@
+{
+  "slug": "pskppnl",
+  "name": "Provision of Sports Kits to Players Participating at the National Level",
+  "shortTitle": "PSKPPNL",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department Of Sports",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "This scheme provides a sports kit worth ₹5000/- (including tracksuit, jersey, shorts, socks, etc.) to approximately 1000 players annually who participate in various sports at the national level, selected through their respective sports federations.",
+  "descriptionMd": "The scheme “Provision of Sports Kits to Players Participating at the National Level” was introduced by the Department of Sports, Government of Uttarakhand. The scheme aims to support athletes representing the state in various sports disciplines at the national level by providing them with sports kits.\n<br>",
+  "benefitsMd": "- Under this scheme, sports kits are provided through sports associations to players and team members participating in various sports disciplines at the national level across different age groups. \n  - Approximately 1,000 players benefit from the scheme annually.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a player or a member of a team representing Uttarakhand.\n   1. The applicant or their team must be participating in national-level sports competitions.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- The respective sports federations select the teams to participate at the national level and apply for kits in the prescribed format. \n  - Each player or team member participating in various age groups at the national level is provided with a sports kit (including a tracksuit, jersey, shorts, socks, and shoes) worth ₹5,000/-.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 79)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

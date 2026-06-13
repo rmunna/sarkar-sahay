@@ -1,0 +1,33 @@
+{
+  "slug": "strtupmpr",
+  "name": "Startup Manipur",
+  "shortTitle": "Strtupmpr",
+  "level": "state",
+  "state": "Manipur",
+  "nodalDept": "Planning Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [],
+  "benefitType": "Composite",
+  "briefDescription": "The state government of Manipur has introduced the 'Startup Manipur' initiative, aimed at promoting sustainable economic development and generating significant employment opportunities in the region.",
+  "descriptionMd": "The Government of Manipur has initiated the &#39;Startup Manipur&#39; program with the objective of promoting sustainable economic growth and generating significant employment opportunities in the state. Under the Manipur Startup Policy 2018, several incubation centers have been established by the state government to promote the growth of a minimum of 1,000 technology-based innovative startups throughout the state by August 14, 2022. The goal of the program is to empower the youth of Manipur to become job creators by fostering entrepreneurship and innovation culture and providing a supportive ecosystem to nurture and develop startups, making Manipur a leading startup destination in the North East. The government is working to enhance the enabling environment to meet the aspirations of young entrepreneurs and intends to collaborate with all stakeholders to establish a robust startup ecosystem through appropriate incubation and mentoring infrastructure, expedited statutory support, and a network of suitable funding mechanisms.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The entity/startup must be promoted by individuals who have domicile in Manipur. If a group of individuals is promoting the entity/startup, at least one promoter should have domicile in Manipur.\n1. The owner of the entity/startup must be above 18 years of age.\n1. Completion of incubation will be a mandatory requirement from a date to be notified by the State government.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Start-Up Manipur Dashboard",
+      "url": "https://cmdashboard.mn.gov.in/departments/cm-flagships/start-up-manipur/#1635433339269-844ce1e6-5750"
+    },
+    {
+      "title": "Office Memorandum For Manipur Startup Scheme 2.0",
+      "url": "https://startupmanipur.in/wp-content/uploads/2023/02/office-memorandum-manipur-startup-scheme-2.0_1.pdf"
+    },
+    {
+      "title": "Manipur Startup Official Website",
+      "url": "https://startupmanipur.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

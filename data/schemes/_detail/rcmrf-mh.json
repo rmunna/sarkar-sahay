@@ -1,0 +1,27 @@
+{
+  "slug": "rcmrf-mh",
+  "name": "Rajasthan Chief Minister's Relief Fund - Medical Help",
+  "shortTitle": "RCMRF-MH",
+  "level": "state",
+  "state": "Rajasthan",
+  "nodalDept": "Medical, Health and Family Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Rajasthan Chief Minister’s Relief Fund – medical help scheme launched on April 1999 under Chief Minister’s Relief Fund in Rajasthan for Individual for Non BPL whose family income should be at least 2lakhs per annum.",
+  "descriptionMd": "Rajasthan Chief Minister’s Relief Fund – medical help scheme launched on April 1999 under Chief Minister’s Relief Fund in Rajasthan. Dependents of untimely dead due to famine, floods, excessive rains, fires and accidental accidents help.\n<br>\n\nFor treatment information - Assistance is accepted in recognized private hospitals from the major Government/ Chief Minister’s Relief Fund of the state. 40% maximum amount of rs1.50 lakh in government hospitals and 30% maximum amount of Rs 90,000 in recognized private hospitals, whichever is less, is accepted and sent to the concerned hospital.",
+  "benefitsMd": "",
+  "eligibilityMd": "- The applicant should be Non BPL\n- The Annal Income of the Family should be greater than 2 LPA\n- Not be listed in ABMGRSBY (Ayushman Bharat Mahatma Gandhi Rajasthan Swasthya Bima Yojana)",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Rajasthan Government Portal",
+      "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/434"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

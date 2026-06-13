@@ -1,0 +1,35 @@
+{
+  "slug": "modrob",
+  "name": "Modernisation And Removal Of Obsolescence",
+  "shortTitle": "MODROB",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry of Education",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Institution"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "MODROB scheme, one of the AICTE Quality Improvement Scheme (AQIS), intends to support the development of laboratories with appropriate equipment/ technology/ tools/ software and encourages financial contribution from the industry.",
+  "descriptionMd": "**Introduction**\n(a) MODROB scheme, one of the AICTE Quality Improvement Scheme (AQIS), intends to support the development of laboratories with appropriate equipment/ technology/ tools/ software and encourages financial contribution from the industry. This is to ensure that the practical work and project work to be carried out by students is contemporary and suits the needs of the industry.\n<br>\n\n(b) In order to promote a problem-solving approach among the students and staff, the institutes are encouraged to procure the equipment as per the revisions/modifications in the AICTE Model Curriculum\n<br>\n\n(c) The funds under this Scheme could ideally be used to create technical infrastructure for a revised curriculum. for up-gradation of equipment in existing laboratories, enhancement of performance of existing equipment, or replacement of depreciated equipment with modern equipment.\n<br>\n\n(d)The equipment installed can also be used to benefit the faculty/students through Continuing Education programs and also local industry through consultancy work and in training their workers.\n<br>\n\n(e) This scheme has three variants addressing the needs of:\n(i) MODROB- Aspiring Institutes\n(ii) MODROB- Polytechnic\n(iii) MODROB- Regular\n<br>\n\n**Objective**\nMODROB Scheme aims to modernize and remove obsolescence in the Laboratories/ Workshops/Computing facilities so as to maintain the quality of the practical components of technical education and promote experimental research and hands-on training.",
+  "benefitsMd": "",
+  "eligibilityMd": "**MODROBS - Aspiring Institutions**\na) AICTE-approved technical institutions / University Departments with at least 10 years of existence (at least 5 years if the institute is located in a rural area).\nb) The Institute shall have more than 50% admission for the past 3 years.\nc) The Institute had not been sanctioned any MODROB Project earlier.\nd) Maximum 3 proposals per institute per year (Not more than one proposal is accepted from the same department)\n<br>\n\n**MODROBS - Regular**\na) AICTE-approved technical institutions / University Departments with at least 10 years of existence (at least 5 years if the institute is located in a rural area) having live NBA accreditation\nb) The Institute shall have more than 60% admission for the past 3 years.\nc) The department applying should not have received the MODROB project in the last two years i.e. the department who have received a grant in the last two years are not eligible.\nd) Maximum 3 proposals per institute per year (Including sanctioned earlier but not completed) would be considered.\ne) Preference will be given to the institution having the involvement of industry in the modernization of the laboratory.\n<br>\n\n**MODROBS - Polytechnic**\na) The Polytechnic Institute is approved by AICTE with at least 10 years of existence (at least 5 years if the institute is located in a rural area)\nb) The Institute shall have more than 60 % admission for the past 3 years\nc) Maximum 3 proposals per institute per year (Not more than one proposal is accepted from the same department)",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.aicte-india.org/sites/default/files/modrob/MODROB%20Scheme%20Guidelines%2024_12_2021.pdf"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://www.aicte-india.org/sites/default/files/modrob/MODROB%20FAQ'S.pdf"
+    },
+    {
+      "title": "User Manual",
+      "url": "http://www.aicte-india.org/sites/default/files/modrob/SOP%20OF%20MODROB%20Scheme.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

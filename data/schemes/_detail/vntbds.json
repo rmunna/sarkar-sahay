@@ -1,0 +1,25 @@
+{
+  "slug": "vntbds",
+  "name": "Vasantrao Naik Tanda / Basti Development Scheme",
+  "shortTitle": "VNTBDS",
+  "level": "state",
+  "state": "Maharashtra",
+  "nodalDept": "Social Justice and Special Assistance Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"Vasantrao Naik Tanda/Basti Development\" is implemented by the Govt. of Maharashtra. The scheme provides essential amenities to the Tandas and Bastis of Vimukta Jatis and Nomadic Tribes. The scheme focuses on improving access to drinking water, electrification, latrines, drainage, etc.",
+  "descriptionMd": "The scheme &amp;amp;quot;Vasantrao Naik Tanda/Basti Development&amp;amp;quot; is implemented by the Department of Social Justice &amp;amp;amp; Special Assistance, Government of Maharashtra. The scheme provides essential amenities to the Tandas and Bastis of Vimukta Jatis and Nomadic Tribes. The scheme focuses on improving access to drinking water, electrification, latrines, drainage systems, and approach roads for these communities.",
+  "benefitsMd": "**Admissible Grant based on the Population of the VJNT Community -** \n\n- VJNT Population: 51 to 100; Admissible Grant: 4 Lakhs.\n- VJNT Population: 101 to 150; Admissible Grant: 6 Lakhs.\n- VJNT Population: Above 151; Admissible Grant: 10 Lakhs.",
+  "eligibilityMd": "1. The Tanda or Basti should have a population of at least 51 residents who belong to the Vimukta Jatis and Nomadic Tribes (VJNT) category.\n1. The area must be lacking basic infrastructure amenities like water, sanitation, or electrification.\n1. The Tanda or Basti must be located in Maharashtra.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The representative of the gram panchayat should prepare a detailed proposal and submit it to the concerned Block Development Officer (B.D.O.).\n**Step 2:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n**NOTE:** Ensure that the application is submitted within the prescribed period, if any.\n<br>\n\n> **Post Application Processes -** \n\n**Step 1:** The Block Development Officer reviews the proposal for accuracy and completeness.\n**Step 2:** After scrutiny, the B.D.O. forwards the proposal to the District Social Welfare Officer at the Zillah Parishad.\n**Step 3:**  The District Social Welfare Officer or Assistant Commissioner of Social Welfare presents the proposals to a committee chaired by a non-official member.\n**Step 4:** The committee evaluates the proposals and provides the final sanction based on eligibility and available resources.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

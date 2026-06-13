@@ -1,0 +1,32 @@
+{
+  "slug": "faitsd",
+  "name": "Financial Assistance to Industrial Parks: Stamp Duty",
+  "shortTitle": "FAITSD",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Industries and Mines Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity",
+    "Industries"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"Financial Assistance to Industrial Parks\" under the Gujarat Industrial Policy aims to boost industrial growth through financial assistance, modern technologies, and enhanced facilities for industrial parks and clusters.",
+  "descriptionMd": "The scheme &amp;quot;Financial Assistance to Industrial Parks&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the  Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, it aims to boost industrial growth through financial assistance, modern technologies, and enhanced facilities for industrial parks and clusters.\nThe component &amp;quot;Stamp Duty&amp;quot;, is aimed at providing financial support to the developers of Industrial Parks and individual units located within those parks.",
+  "benefitsMd": "- **Assistance to Institutes:** 100% reimbursement of stamp duty on the purchase of land required for the industrial park.  - **Assistance to Individual Units:** Individual units located within the Industrial Park are eligible for a 50% reimbursement of the stamp duty paid on the purchase of plots within the park",
+  "eligibilityMd": "- Industries Association / any enterprise registered under the Societies Act, Partnership Act, Trust Act, Companies Act or SPV constituted for setting up of Industrial Park shall be eligible to develop Industrial Park under this scheme.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration Process:**\n\n**Step-1:** Visit the [Investor Facilitation Portal (IFP)](https://ifp.gujarat.gov.in/DIGIGOV/) portal. Click on &quot;New Investor Registration&quot; to access the registration form.\n**Step-2:** Fill in the Registration Form. Click on &quot;Submit&quot;. \n**Step-3:** Verify the E-mail ID using the link sent on your registered E-mail ID.\n**Step-4:** After verification, you will be registered successfully.\n<br>\n\n> **Post-Registration Process:**\n\n**Step-1:** Visit the [Investor Facilitation Portal (IFP)](https://ifp.gujarat.gov.in/DIGIGOV/) portal. Click on &quot;Login&quot;.\n**Step-2:** Enter the email address and password you used during registration.\n**Step-3:** Click the &quot;Login&quot; button to access your account.\n**Step-4:** Now fill in the required details and mandatory documents about your business to complete the application process.\n<br>\n\n> **Helpdesk****:** [Contact Here](https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/contact.jsp?pagedisp=static)",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/11-GR_02092020.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://ifp.gujarat.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

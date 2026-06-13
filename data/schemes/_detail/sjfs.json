@@ -1,0 +1,43 @@
+{
+  "slug": "sjfs",
+  "name": "Swarnajayanti Fellowships Scheme",
+  "shortTitle": "SJFS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Science & Technology",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "Under this scheme, a selected number of young scientists, with proven track record, are provided special assistance and support to enable them to pursue basic research in frontier areas of science and technology.",
+  "descriptionMd": "The Government of India had instituted a scheme &amp;quot;Swarnajayanti Fellowships Scheme&amp;quot; to commemorate India&amp;#39;s fiftieth year of Independence. Under this scheme, a selected number of young scientists, with a proven track record, are provided special assistance and support to enable them to pursue basic research in frontier areas of science and technology. Scientists selected for the award will be allowed to pursue unfettered research with freedom and flexibility in terms of expenditure as approved in the research plan. The project should contain innovative research ideas and it should have the potential of making an impact on R&amp;amp;D in the discipline. The fellowships are scientist-specific and not institution-specific, very selective, and have close academic monitoring.\n&gt; **Duration of Fellowship:**\n\nThe duration of the fellowship will be for a period not exceeding five years.",
+  "benefitsMd": "1. The award consists of a Fellowship of ₹25,000/- per month in addition to the salary drawn from the parent Institute for a period of 5 years.\n   1. The fellows selected along with their projects will be considered for funding by the Science &amp;amp; Engineering Research Board (SERB) as per SERB norms, for fellowship, recurring and non-recurring heads.",
+  "eligibilityMd": "1. The fellowship is open to Indian Nationals having a regular position in a recognized Indian academic/research organization.\n   1. The applicant should possess a Ph.D. in Science/Engineering/Medicine and should not be drawing Fellowship from any other Scheme of Government of India.\n   1. Scientists should be active in the frontier area of science and engineering with outstanding contributions in the form of research publications and/ or patents, peer recognition from the scientific community, awards, etc. in his/ her area of research.\n   1. The organization/institute should also undertake financial and other management responsibilities of the project throughout the five-year term in case a fellowship is awarded to the scientist.\n   1. The fellowship is open to scientists between 30 to 40 years of age.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 01:** Applications for the “SwarnaJayanti Fellowships Scheme” are invited from eligible candidates in the format as given on DST online portal.\n**Step 02:** Candidates may log on to [https://onlinedst.gov.in/](https://onlinedst.gov.in/) to access the home page of the “DST e-PMS Portal” for details and submit the application in online mode only.\n**Note 01:** There is no need to send a hard copy.\n**Note 02:** The candidates may be required to submit further additional information as required and present the project idea before final selection.\n**Note 03:** The advertisement for the “Swarnajayanti Fellowships Scheme” for each year will appear on the [DST Website](https://dst.gov.in/scientific-programmes/scientific-engineering-research/human-resource-development-and-nurturing-young-talent-swarnajayanti-fellowships-scheme) with all details.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://dst.gov.in/scientific-programmes/scientific-engineering-research/human-resource-development-and-nurturing-young-talent-swarnajayanti-fellowships-scheme"
+    },
+    {
+      "title": "Website-Indian Science, Technology & Innovation",
+      "url": "https://www.indiascienceandtechnology.gov.in/programme-schemes/research-and-development/swarnajayanti-fellowships-scheme"
+    },
+    {
+      "title": "Advertisement-2016-17",
+      "url": "https://dst.gov.in/sites/default/files/ADVERTISEMENT-SWARNAJAYANTI-FELLOWSHIPS-2016-17.pdf"
+    },
+    {
+      "title": "Advertisement- 2020-21",
+      "url": "https://dst.gov.in/sites/default/files/Advertisement-SWARNAJAYANTI%20FELLOWSHIPS%20-%202020-21.pdf"
+    },
+    {
+      "title": "E-PMS",
+      "url": "https://onlinedst.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

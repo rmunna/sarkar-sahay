@@ -1,0 +1,25 @@
+{
+  "slug": "iftsm",
+  "name": "Incentive For The Simple Marriage",
+  "shortTitle": "Iftsm",
+  "level": "state",
+  "state": "Karnataka",
+  "nodalDept": "Social Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [],
+  "benefitType": "Cash",
+  "briefDescription": "The Social Welfare Department of the Government of Karnataka has launched the Simple Marriage scheme, which offers incentives to couples belonging to the SC community. The scheme aims to promote the idea of simple marriages and provide financial assistance to eligible couples.",
+  "descriptionMd": "The Simple Marriage scheme is a government initiative by the Social Welfare Department of Karnataka that offers incentives to couples belonging to the SC community who opt for a simple marriage ceremony. The scheme aims to promote the concept of simple marriages and provide financial assistance to eligible couples.\n<br>\n\nUnder this scheme, the Social Welfare Department of Karnataka will provide incentives to Simple Married Couples belonging to the SC Community who have submitted their applications within 1 year of marriage. Only couples who got married on or after 11-08-2015 are eligible for the incentive, which is set at Rs. 50,000.00.\n<br>\n\nTo be eligible for the scheme, the applicant must be a resident of Karnataka state, belong to the SC community, and have a family income from all sources that does not exceed Rs. 2 lakhs per annum. It is important to note that the scheme is applicable within 1 year of marriage",
+  "benefitsMd": "",
+  "eligibilityMd": "1. Karnataka State Resident: The applicant must be a resident of Karnataka state.\n1. SC Community: The applicant must belong to the SC community.\n1. Family Income: The family income from all sources should not exceed Rs. 2 lakhs per annum.\n1. Time Limit: The scheme is applicable only within 1 year of the marriage.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Incentive For SC Couples",
+      "url": "https://sw.kar.nic.in/swincentive/SIM/SmHome.aspx#:~:text=Incentive%20For%20The%20Simple%20Marriage&text=Scheme%20is%20applicable%20for%20within,not%20eligible%20for%20this%20scheme."
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "tdfs",
+  "name": "Technology Development Fund (TDF) Scheme",
+  "shortTitle": "TDFS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Defence",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Industries",
+    "Business Entity"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Technology Development Fund (TDF) has been established to promote self-reliance in Defence Technology as a part of the 'Make in India' initiative.",
+  "descriptionMd": "Technology Development Fund (TDF) has been established to promote self-reliance in Defence Technology as a part of the &#39;Make in India&#39; initiative. It is a programme of the Ministry of Defence. This programme is executed by the Defence Research &amp; Development Organisation (DRDO) to meet the requirements of the Tri-Services, Defence Production and DRDO. The Scheme encourages participation of public/private industries, especially MSMEs and startups, so as to create an ecosystem for enhancing cutting-edge technology capability in the defence sector.\n> **Objective:**\n\n\n- The Scheme aims to provide a major fillip to the defence manufacturing sector by encouraging the industry to innovate on defence technologies, in order to place India on the self-reliance trajectory. In addition to providing the grants-in-aid for the development of indigenous technology, the Scheme also provides the industry with various benefits.\n\n> **Vision:**\n\nBuilding an ecosystem for enhancing cutting-edge technology capability for defence manufacturing to meet the requirements of Tri-Services, Defence Production and DRDO.\n> **Mission:**\n\nCreating an ecosystem for promoting self-reliance by building indigenous state-of-the-art systems for defence applications.\n> **Project Duration:**\n\nMaximum development period will be four (4) years.\n> **Focus Areas:**\n\n\n- Significant upgradation/ improvements/developments in the existing products/processes/applications.\n- Technology readiness level upgradation from TRL 3 onwards to realization of products as per Tri-Services requirements.\n- Development of futuristic technologies/innovative products which can be useful for defence applications.\n- Import substitution of components whose technologies do not exist in the Indian industry.\n- The scheme will be limited to development of technologies or prototypes of products having potential use for National Defence.",
+  "benefitsMd": "> **Funding Support:**\n\n\n- The project cost of up to INR 50,00,00,000/- will be considered for funding.\n- The funding may be up to 90% of the total project cost.\n- Industry may work in collaboration with academia or research institutions.\n- The funding will be linked to mutually agreed milestones.\n- Funds will be released either in advance against a bank guarantee of the same amount as collateral, or reimbursement based on the completion of milestones.\n- Subsequent installments will be released on successful completion of milestones.\n\n> **Purpose of Funding Support:**\n\n\n- Aims to provide financial assistance to startups for prototype development and trials.\n- Proposes to target nascent startups for project requirements inclusive of funding support of up to 20% to the incubators associated with the startup.\n- Option to create partnerships with academia, where the contribution of the academia is up to 40% of the total project effort.\n\n<br>",
+  "eligibilityMd": "- Public limited company, a private limited company, a partnership firm, a limited liability partnership, one-person company, sole proprietorship registered as per applicable Indian laws registered in India especially MSMEs and Startups.\n- Startup must be recognized by Department for Promotion of Industry and Internal Trade (DPIIT) as per Government of India (GOI) guidelines.\n- Startup incorporated for less than 3 years from date of submission of application will be considered as nascent startups.\n- Nascent Startup should be incubated at one of the Central/State government assisted incubators.\n- Startup should not have received any grants/grants-in-aid by any government scheme for a similar technology.\n- The startup must be owned and controlled by a Resident Indian citizen with a shareholding of at least 51%.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration process:**\n\n**Step 1:** Every interested Industry /Technology expert/Academia must first register on the [TDF portal](https://tdf.drdo.gov.in/innovator/register).\n**Step 2:** Click on **&quot;Register&quot;**.\n**Step 3:** Fill Name, Contact Details, Organisation Name and choose your value in **&quot;Register As&quot;** and in **&quot;Focus Area&quot;** option.\n**Step 4:** Click on the Check Box For Self-declaration of being an Indian Company with 51% of stakes with a Resident Indian Citizen.\n**Step 5:** Agree to the Terms and Conditions by clicking the check box.\n**Step 6:** Verify the captcha then click on **&quot;Register&quot;** button.\n> **Post-Registration process:**\n\n**Step 1:** Visit[ ](https://tdf.drdo.gov.in/user/custom-popup)the [TDF portal](https://tdf.drdo.gov.in/innovator/register).\n**Step 2:** Click on **&quot;Proceed to Login&quot;** button and enter Email, Password and verify the captcha.\n**Step 3:** Click on &quot;**Login&quot;** button and furnish all the details as required.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://tdf.drdo.gov.in/about"
+    },
+    {
+      "title": "Guidelines (ISTI Portal)",
+      "url": "https://www.indiascienceandtechnology.gov.in/programme-schemes/academia-industry-partnerships/technology-development-fund-tdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

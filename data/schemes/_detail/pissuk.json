@@ -1,0 +1,27 @@
+{
+  "slug": "pissuk",
+  "name": "Personal Interest Subsidy Scheme",
+  "shortTitle": "PISSUK",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Uttrakhand Khadi Evam Village Industries Board",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Industries"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to support rural entrepreneurs in setting up industries using local resources. Through this scheme, interest subsidy on bank-financed projects up to ₹5,00,000 is provided.",
+  "descriptionMd": "Launched in the year 2016, the scheme &quot;Personal Interest Subsidy Scheme&quot; by the Uttarakhand State Khadi and Village Industries Board, Government of Uttarakhand, aims to support rural entrepreneurs in setting up industries based on the availability of local raw materials and their working/resource capacity. For this, assistance is provided for financing projects with a cost of up to ₹5.00 lakh through banks.\nUnder the scheme, the entrepreneur is required to pay 4% interest on the bank-financed project cost, and the remaining interest, up to a maximum of 10%, is borne by the concerned department. The scheme is implemented by the District Village Industries Offices across various districts in Uttarakhand.",
+  "benefitsMd": "1. The project is financed up to a maximum cost of ₹5,00,000 through bank support.\n1. The entrepreneur is required to bear 4% interest on the bank-financed amount.\n1. The Government bears up to 10% of the differential interest amount over and above what the entrepreneur pays.",
+  "eligibilityMd": "1. The applicant should be between 18 and 45 years of age.\n1. The applicant should be a permanent resident of Uttarakhand.\n1. The applicant should be an educated unemployed youth who is no longer eligible for government service due to the age limit. Or, the applicant should be trained by an Industrial Training Institute (ITI) or a Polytechnic.\n1. The applicant should be a woman interested in self-employment.\n1. The applicant should have passed Vocational Education (10+2 level) with Village Industries as a subject.\n1. The applicant should establish the project in a rural area.",
+  "exclusionsMd": "**The project must not involve:**\n\n1. Meat production or trade\n1. Intoxicating substances\n1. Khadi or Poly-based products\n1. Animal husbandry\n1. Horticulture\n1. Industries harmful to the environment",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** **Visit the Official Website:**\nGo to the [official website](http://www.ukvib.org) of the Uttarakhand State Khadi and Village Industries Board.\n**Step 2:** **Navigate to the Scheme Page:**\nFrom the homepage, click on the “Schemes” section in the menu and select “[Personal Interest Subsidy Scheme](http://www.ukvib.org/details.php?pgID=sb_9)”.\n**Step 3: Download the Forms:**\nDownload the following forms from the scheme page:\n\n- Application Form: [Download Application Form (PDF)](http://www.ukvib.org/UserFiles/files/byaj-utpadan-application-form.pdf)\n\n- Claim Form: [Download Claim Form (PDF)](http://www.ukvib.org/UserFiles/files/byaj-utpadan-claim-form.pdf)\n**Step 4: Fill and Submit the Forms**\nFill in the required details in the Application Form and attach all necessary documents.\nSubmit the completed form along with documents to your District Village Industries Office.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://www.ukvib.org/details.php?pgID=sb_9"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

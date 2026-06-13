@@ -1,0 +1,41 @@
+{
+  "slug": "ts-ds",
+  "name": "\"Training in Silk\" Component of the \"Development of Silk\" Scheme",
+  "shortTitle": "TS-DS",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "District Industries Centre Organization",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [],
+  "benefitType": "Composite",
+  "briefDescription": "The scheme aims to revamp the silk weaving industry and generate employment. It offers comprehensive one-year training to equip individuals with the necessary skills. The objective is to develop silk and silk-based industry, to train rural youth in silk weaving and to generate employment thereby.",
+  "descriptionMd": "The &quot;Training in Silk&quot; Component of the &quot;Development of Silk&quot; Scheme by the Department of Industries and Commerce, Union Territory of Puducherry, aims to revamp the silk weaving industry and generate employment. It offers comprehensive one-year training to equip individuals with the necessary skills. The objective is to develop silk and silk-based industry, to train rural youth in silk weaving and to generate employment thereby.",
+  "benefitsMd": "> **For Trainees**\n\n\n- Monthly stipend of ₹1500.\n\n> **For Master Trainer**\n\n\n- An honorarium of ₹500 per trainee per month (up to ₹5000).\n- A compensation of ₹500 per trainee per month for raw materials (up to ₹5000).",
+  "eligibilityMd": "- The age of the applicant should be between 18 and 35 years.\n- The applicant should be literate.\n- The applicant should be a native of Puducherry or a continuous resident of Puducherry for three years.\n- The applicant should not have already been trained before through this scheme.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should take print of the [prescribed format](https://dic.py.gov.in/sites/default/files/silk.doc) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** The interested applicant should visit (on a working day, and during office hours) the Project Manager, District Industries Centre (Thattanchavady, Puducherry - 605 009), and submit the duly filled and signed application form and the documents to the Project Manager.\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dic.py.gov.in/development-of-silk"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://dic.py.gov.in/sites/default/files/citizencharter.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://dic.py.gov.in/sites/default/files/silk.doc"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://dic.py.gov.in/contact-us"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://industry.py.gov.in/grievance-redressal-mechanism"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

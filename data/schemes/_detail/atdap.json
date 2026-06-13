@@ -1,0 +1,43 @@
+{
+  "slug": "atdap",
+  "name": "Annual Tour to the Differently Abled Persons",
+  "shortTitle": "ATDAP",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Social Welfare Department, Puducherry",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "“Annual Tour to the Differently Abled Persons” was launched by the Dept of Social Welfare, Govt of Puducherry to allow the PwDs to see the places of cultural and historic importance and acquaint themselves with various aspects of our cultural heritage.",
+  "descriptionMd": "The scheme “Annual Tour to the Differently Abled Persons” was launched by the Department of Social Welfare, Government of Puducherry. The scheme is introduced to allow the differently abled persons, especially those who hail from weaker sections of society to see the places of cultural and historic importance and acquaint themselves with various aspects of our cultural heritage.",
+  "benefitsMd": "- One free tour to various places every year.\n\n**NOTE:** Drugs and alcoholic items are prohibited.",
+  "eligibilityMd": "- The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.\n- The annual income of the applicant should not exceed ₹ 75,000/-.\n- The applicant should have a disability of 40% or above.\n- The applicant should not have performed the tour for the past ten years.\n- The applicant should not be affected by any contagious diseases. \n- The applicants may apply to this scheme only after the issue of notification in the local newspapers.\n- The age of the applicant should be between 18 and 50 years.\n- The applicant should not be a Government Servant.\n- The parents of the applicant should not be a Government servant.\n- The applicant should have registered his/her name in the Anganwadi Centre.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** After the issue of notification regarding the scheme in the local newspapers, the interested applicant should visit (during office hours) the [Office/ Sub-Office](https://socwelfare.py.gov.in/sub--office-social-welfare-department) of the Department of Social Welfare, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\nOR\nThe interested applicant should take print of the prescribed format of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the authority given below - \n\n- **Puducherry:** The Deputy Director, Differently Abled Section, Directorate of Social Welfare. - **Karaikal:** The Assistant Director, Social Welfare Department (Sub Office).- **Mahe / Yanam:** The Welfare Officer (i\\c), Social Welfare Department (Sub Office). \n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socwelfare.py.gov.in/annual-tour-differently-abled-persons"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://socwelfare.py.gov.in/sites/default/files/citizen-charter.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://socwelfare.py.gov.in/contact-us"
+    },
+    {
+      "title": "Sub Offices",
+      "url": "https://socwelfare.py.gov.in/sub--office-social-welfare-department"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://pgportal.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

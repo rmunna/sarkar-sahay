@@ -1,0 +1,27 @@
+{
+  "slug": "gsgssc",
+  "name": "Gargi Sanskrit Balika Chhaatravrtti Yojana",
+  "shortTitle": "GSBCY",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department Of Sanskrit Education",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to encourage and motivate girl students studying in Classes 6 to 12 at Sanskrit schools in the state by providing financial scholarships to support their education.",
+  "descriptionMd": "The scheme “Gargi Sanskrit Balika Chhaatravrtti Yojana” is implemented by the Uttarakhand Sanskrit Academy, Haridwar, under the Department of Sanskrit Education, Government of Uttarakhand. The scheme aims to encourage and motivate girl students studying in Classes 6 to 12 at Sanskrit schools in the state by providing financial scholarships to support their education.\n<br>",
+  "benefitsMd": "**Scholarship Amount:** \n\n  - Girl students from classes 6 to 12 are provided ₹251/0 per month, at the rate of ₹3,012/- annually.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a girl student of any category.\n1. The girl student must be studying from class 6 to class 12 in a Sanskrit school of Uttarakhand.\n1. A total of 175 enrolled girl students will be eligible.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "Institutional girl students of all categories studying in Sanskrit schools or colleges, who possess an Aadhaar card and a bank account, will submit their documents to the concerned Principal. The Principal will forward the documents along with their recommendation to the Assistant Director, Sanskrit Education, Uttarakhand. The Assistant Director will then forward them to the Director, and after the Director’s recommendation, the scholarship will be disbursed online by the Academy.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 60)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

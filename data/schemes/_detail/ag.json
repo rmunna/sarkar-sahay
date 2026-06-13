@@ -1,0 +1,43 @@
+{
+  "slug": "ag",
+  "name": "Advocate Grant",
+  "shortTitle": "AG",
+  "level": "state",
+  "state": "Kerala",
+  "nodalDept": "Backward Classes Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The Scheme “Advocate Grant” was launched by the Backward Classes Development Department, Government of Kerala during the year 2012-13. Under the scheme, the grant will be provided to law graduates belonging to backward classes facing financial difficulties for starting practice as advocates.",
+  "descriptionMd": "The Scheme “Advocate Grant” was launched by the Backward Classes Development Department, Government of Kerala during the year 2012-13. Under the scheme, the grant will be provided to law graduates belonging to backward classes facing financial difficulties for starting practice as advocates. The scheme aims to ensure adequate representation of OBC’s in the judiciary.",
+  "benefitsMd": "1.\tThe grant of ₹12000/- per year will be provided to law graduates who enrolled before the Bar Council.\n2.\tThe grant will be provided for 3 consecutive years.",
+  "eligibilityMd": "1.\tThe applicant should be a permanent resident of the Kerala State.\n2.\tThe applicant should belong to the State Backward Community of Kerala State.\n3.\tThe applicant should be a Law Graduate.\n4.\tThe applicant should be enrolled as an Advocate in the Bar Council (Kerala).\n5.\tThe applicant should be started practice as an Advocate within the state shall alone be considered.\n6.\tThe annual family income of the applicant should be ₹1,00,000/-.\n**Note 01:** Preference will be given to Below Poverty Line (BPL) candidates.\n**Note 02:** Preference will be given to the applicant whose annual family income is less.\n**Note 03:** If there is any tie, such cases shall be determined on the basis of the percentage of marks of the Law Degree.\n**Note 04:** If still there is any tie, preference shall be given to the candidates who have obtained degrees in law from the Universities in Kerala.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 01:** The Director, Backward Communities Development Department is permitted to invite applications from the eligible candidates after giving wide publicity through media (through press Release).\n**Step 02:** The duly filled [application form](https://bcdd.kerala.gov.in/wp-content/uploads/2021/07/pdf-3.pdf) along with all the relevant documents should be submitted at the following addresses:\n**Applicants From Trivandrum to Ernakulam:**\nRegional Deputy Director, Backward Classes Development Department,\nCivil Station, 2nd Floor,\nKakkanad, Ernakulam- 682030, Kerala\n**Applicants From Thrissur to Kasargode:**\nRegional Deputy Director, Backward Classes Development Department\nCivil Station, Kozhikode- 673020, Kerala",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://bcdd.kerala.gov.in/en/schemes/development-schemes/advocate-grant/"
+    },
+    {
+      "title": "Government Orders",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2018/11/12-01.pdf"
+    },
+    {
+      "title": "Notification",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2021/07/pdf-2.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2021/07/pdf-3.pdf"
+    },
+    {
+      "title": "Agreement Model",
+      "url": "https://bcdd.kerala.gov.in/en/schemes/development-schemes/advocate-grant/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

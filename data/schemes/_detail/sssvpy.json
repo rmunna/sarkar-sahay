@@ -1,0 +1,31 @@
+{
+  "slug": "sssvpy",
+  "name": "Samagra Samajik Suraksha Vridhavastha Pension Yojana",
+  "shortTitle": "SSSVPY",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Department of Social Justice and Empowerment of Persons with Disabilities",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Initiative of the Department of Social Justice and Empowerment of Persons with Disabilities under the Madhya Pradesh started the scheme \"Samagra Samajik Suraksha Vridhavastha Pension Yojana\" for the older age people of the state.",
+  "descriptionMd": "Samagra Samajik Suraksha Vridhavastha Pension Yojana, under the Department of Social Justice and Empowerment of Persons with Disabilities, the government of Madhya Pradesh. provides Pensions are sanctioned to provide social security to old destitute people. Under this, such destitute elderly people who cannot support themselves are benefited.\n<br>",
+  "benefitsMd": "> Pension amount: ₹ 600/- per month.",
+  "eligibilityMd": "1. The applicant should be a native of Madhya Pradesh.\n1. The applicant age should be more than 60 years.\n1. The name should be mentioned on the Samagra portal.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Applicants can apply for the scheme using the prescribed format and submitting the necessary documents either to the designated officer&#39;s office, the Gram Panchayat, or a Public Service Center.\n**Step 2:** Upon submitting a complete application, the applicant will receive a mandatory acknowledgment from the office.\n**Step 3**: The District Panchayat/Gram Panchayat/Urban Body/Ward Office will scrutinize the documents submitted with the application.\n**Step 4**: If, after investigation, the documents are found to be incorrect according to the rules, the application will be rejected with written explanation. \n**Step 5**: If, after investigation, the documents are found to be correct, the pension case will be approved according to the rules.\n**Step 6:** Once the pension is approved, the beneficiary&#39;s name will be added to the pension proposal for the current month by the District Panchayat/Gram Panchayat/Urban Body/Ward Office. The approved order will be maintained on record.\n**Step 7**: The Directorate will deposit the monthly pension amount directly into the beneficiary&#39;s bank savings account through a single click, starting from the same month the approval is granted.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socialsecurity.mp.gov.in/Scheme/IGNOAP.aspx"
+    },
+    {
+      "title": "Apply Portal",
+      "url": "https://socialsecurity.mp.gov.in/PensionManagement/Public/Online_Request_For_pension.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

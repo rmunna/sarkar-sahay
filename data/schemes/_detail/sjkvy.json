@@ -1,0 +1,35 @@
+{
+  "slug": "sjkvy",
+  "name": "Saksham Jharkhand Kaushal Vikas Yojana",
+  "shortTitle": "SJKVY",
+  "level": "state",
+  "state": "Jharkhand",
+  "nodalDept": "Labour, Employment, Training and Skill Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The \"Saksham Jharkhand Kaushal Vikas Yojana\" is an initiative by the Jharkhand government to equip youth aged 18-35 years with quality skills training aligned with the National Skills Qualification Framework (NSQF). The scheme aims to create job opportunities for 70% of successful trainees.",
+  "descriptionMd": "The &quot;Saksham Jharkhand Kaushal Vikas Yojana&quot;  is a component of the umbrella scheme “Mukhymantri Sarthi Yojana” launched by the Department of Labour, Employment, Training and Skill Development, Jharkhand. The scheme aims to create job opportunities for 70% of successful trainees through placement-linked and self-employment training across various sectors. The program operates through 72 training centers and covers trades.",
+  "benefitsMd": "Payment terms and schedule are guided by the Common Norms notified by the Ministry of Skill Development and Entrepreneurship (MSDE). \n\n- **Training Cost per Hour:**\n\n\n\n   1. Category I Sectors/Trades: ₹49/- per hour.\n   1. Category II Sectors/Trades: ₹42/- per hour.\n   1. Category III Sectors/Trades: ₹35/- per hour.\n\n\n<br>\n\n\n- **Boarding and Lodging Costs:** For residential training or trainees who need to travel significant distances\n   1. X Category Cities: ₹375/- per day per trainee.\n   1. Y Category Cities: ₹315/- per day per trainee.\n   1. Z Category Cities: ₹250/- per day per trainee.\n   1. Rural Areas or Non-Municipal Areas: ₹220/- per day per trainee.\n\n\n<br>\n\n\n- Placement opportunities for 70% of trainees.\n- Training in industry-relevant sectors like Tourism &amp; Hospitality, Telecom, Security, Retail, Plumbing, Logistics, IT/ITES, Electronics, Domestic Worker, Construction, Capital Goods, BFSI, Beauty &amp; Wellness, Automotive, Apparel, and Agriculture, Food Processing, Healthcare, Iron &amp; Steel, Mining",
+  "eligibilityMd": "1. The applicant must be a resident of Jharkhand.\n1. The applicant&#39;s age should be 18-35 years.\n1. The applicant must belong to one of the priority groups (SC/ST, women, PwD, transgender).",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "> ***Candidate registration by TSP:***\n\n\n- The candidate visits the nearest [Training Service Provide Center](https://jsdm.jharkhand.gov.in/jsdm/cms/en/) for registration under the &quot;Mukhymantri Sarthi Yojana&quot; umbrella scheme. \n**NOTE:** Candidate registration would be Aadhaar-based &amp; hence Aadhaar number at the time of candidate registration would be mandatory.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jsdm.jharkhand.gov.in/jsdm/cms/en/sjkvy/"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://jsdm.jharkhand.gov.in/jsdm/cms/en/"
+    },
+    {
+      "title": "Amendment",
+      "url": "https://jsdm.jharkhand.gov.in/jsdm/cms/wp-content/uploads/2021/04/Common-norms-notification-5th-amendment.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

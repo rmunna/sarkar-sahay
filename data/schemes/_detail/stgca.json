@@ -1,0 +1,27 @@
+{
+  "slug": "stgca",
+  "name": "ST Girl Child Literacy Incentive Amount - Class 11th",
+  "shortTitle": "STGCA",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "School Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "All"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme provides financial assistance to Scheduled Tribe girl students of Madhya Pradesh enrolled in Class 11 to encourage them to continue their education and prevent dropouts.",
+  "descriptionMd": "Under this scheme, Scheduled Tribe girl students studying in Class 11 receive financial support from the Government of Madhya Pradesh. The scheme aims to ensure that girls from SC communities continue their education without financial barriers. Applications are accepted online through the Shiksha Portal, and the eligible amount is directly transferred to the student’s account after verification.\n<br>",
+  "benefitsMd": "Eligible SC girl students of Class 11 receive an annual financial incentive of ₹3,000/-, credited directly to their bank account\n<br>",
+  "eligibilityMd": "1. The applicant must be a girl student belonging to the Scheduled Caste category of Madhya Pradesh.\n1. The student must be continuously studying in Class 11 at a recognized institution.\n1. The annual family income should not exceed ₹6,00,000/-\n1. A verified copy of the permanent caste certificate issued by the Sub-Divisional Officer (Revenue) is required.\n1. A self-declaration certificate stating that the parent/guardian is not an income tax payer must be submitted.\n1. An income certificate or salary certificate issued by a competent authority must be provided.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- To avail of the benefits under this scheme, eligible students can contact the Principal of their respective government schools/institutions.\n\n&gt; **Note:** The student&amp;#39;s profile is entered on the education portal [https://shikshaportal.mp.gov.in/](https://shikshaportal.mp.gov.in/) by the teacher of the educational institution as per the record/certificate provided by the student.\n\n<br>",
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://www.cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=379"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

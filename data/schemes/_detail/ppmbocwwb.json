@@ -1,0 +1,63 @@
+{
+  "slug": "ppmbocwwb",
+  "name": "Pension Plan (MBOCWWB)",
+  "shortTitle": "PP(MBOCWWB)",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Labour and Employment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under the scheme, a member of the fund who has been working as a building worker for not less than one year after the commencement of these rules shall on completion of sixty years of age be eligible for the person.",
+  "descriptionMd": "The scheme “Pension Plan” is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, a member of the fund who has been working as a building worker for not less than one year after the commencement of these rules shall on completion of sixty years of age be eligible for a person. The Pension will become payable from the 60 years of the succeeding to the month in which he completed 60 years of age.",
+  "benefitsMd": "1. Under the scheme, the registered worker who has been working as a building worker for not less than one year shall receive an amount of ₹1,000/- per mensem as pension.",
+  "eligibilityMd": "1.\tThe beneficiary should be a resident of Meghalaya.\n2.\tThe beneficiary should be engaged in a building or other construction work.\n3.\tThe beneficiary should be registered under the Meghalaya Building &amp;amp; Other Construction Workers Welfare Board.\n4.\tThe registered workers who have been working as building workers for not less than one year shall be eligible to receive pension benefits under the scheme.\n5.\tThe registered worker shall become eligible to avail pension benefits upon attaining the age of 60 years.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Online Worker Registration Process (Portal):**\n\n**Step 01:** The applicants may visit the online Portal: [https://megbocwwb.gov.in/bocw_services/login.htm](https://megbocwwb.gov.in/bocw_services/login.htm)\n**Step 02:** The applicant can register by creating a new account, on the home page click on the ‘Worker’ button and enter all the mandatory information.\n**Step 03:** After filling in all the details, click on ‘Register’.\n**Step 04:** After successful registration, the applicant will see the message “Registered Successfully”.\n&gt; **Application Process for New Registration under the MBOCWWB:**\n\n**Step 01:** Visit the online Portal: [https://megbocwwb.gov.in/bocw_services/login.htm](https://megbocwwb.gov.in/bocw_services/login.htm)\n**Step 02**: Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login.\n**Step 03:** After successful login, click on ‘Apply for New Registration’ from the menu.\n**Step 04:** Fill in all the required details in the Registration Form i.e. Personal Details, Service/Work Details, Bank Details, and Demographic Details, etc.\n**Step 05:** Click on &amp;#39;Submit&amp;#39;.\n**Step 06:** After successful registration, you will be directed to another page to manage all the Family &amp;amp; Nominee Details. Click on ‘Add New’ to add Family members and Nominee Details.\n**Step 07:** After adding all the Family &amp;amp; Nominee Details, click on Proceed.\n**Step 08:** Now upload all the required enclosures i.e. Photograph, ID Proof, Employer Certificate/Self Certification, Bank Passbook of the Worker.\n**Step 09:** Click on the ‘Complete’ Button to complete the registration process.\n**Step 10:** Once your application has been processed and verified by Block/District LDA, Block/District Labour Inspector, and approved District Labour Commissioner (DLC), Registration Certificate will be generated.\n&gt; **Application Process for Welfare Pension:**\n\n**Step 01:** Visit the online Portal: [https://megbocwwb.gov.in/bocw_services/login.htm ](https://megbocwwb.gov.in/bocw_services/login.htm)\n**Step 02:** Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login.\n**Step 03:** After successful login, click on the “Welfare Pension” scheme from the Dashboard.\n**Step 04:** Fill in all the required information and necessary enclosures.\n**Step 05:** Click ‘Submit’ to apply for benefits.\n&gt; **Application Process to Track/Update:**\n\n**Step 01:** Visit the online Portal: [https://megbocwwb.gov.in/bocw_services/login.htm](https://megbocwwb.gov.in/bocw_services/login.htm)\n**Step 02:** Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login.\n**Step 03:** From the menu, click on ‘Track Application Status’.\n**Step 04:** Click on ‘View Details’ to view your application.\n**Step 05:** Click on ‘Application History’ to view the application history.\n**Step 06:** Click on ‘Update’ to update your application.\n**Note:** Once your application is under process or processed, you cannot update it.\n(Worker’s [User Manual](https://megbocwwb.gov.in/bocw_services/assets/files/user-manual-workers.pdf))",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megbocwwb.gov.in/enrollment"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://megbocwwb.gov.in/schemes_pension"
+    },
+    {
+      "title": "Amendment Notification",
+      "url": "https://meglc.gov.in/acts/MBOCW%20Amendment%20Rules%202017.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://megbocwwb.gov.in/bocw_services/login.htm"
+    },
+    {
+      "title": "Registration Form",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/Registration%20Form.pdf"
+    },
+    {
+      "title": "Application Form For Pension",
+      "url": "https://megbocwwb.gov.in/forms/benefit/pension_form.pdf"
+    },
+    {
+      "title": "Nomination Form",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/NominationForm.pdf"
+    },
+    {
+      "title": "Family Members Form",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/Familymembers.pdf"
+    },
+    {
+      "title": "SDO Certificate",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/SDOCertificate.pdf"
+    },
+    {
+      "title": "Employer Certificate",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/EmployersCertificate.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

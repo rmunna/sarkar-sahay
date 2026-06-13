@@ -1,0 +1,31 @@
+{
+  "slug": "mbsbbocwwb",
+  "name": "Maternity Benefits Scheme (BBOCWWB)",
+  "shortTitle": "MBSBBOCWWB",
+  "level": "state",
+  "state": "Bihar",
+  "nodalDept": "Building Construction Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Maternity Benefits Scheme\" provides an amount equivalent to 90 days of the minimum wages set by the State Govt. for unskilled workers at the time of childbirth. The applicant should be a female construction worker who has completed one year of membership with the Board.",
+  "descriptionMd": "&quot;Maternity Benefits Scheme&quot; by the Bihar Building &amp; Other Construction Workers&#39; Welfare Board, Labour Resources Department, Government of Bihar, provides an amount equivalent to 90 days of the minimum wages set by the State Government for unskilled workers at the time of childbirth. This benefit is applicable for the first two deliveries. The applicant should be a female construction worker who has completed one year of membership with the Board.",
+  "benefitsMd": "Financial assistance equivalent to 90 days of the minimum wages set by the State Government for unskilled workers.",
+  "eligibilityMd": "- The applicant should be female.\n- The applicant should be registered with the Bihar Building &amp; Other Construction Workers Welfare Board (BBOCWWB).\n- The applicant should have completed at least one year of membership with the Board.\n- The membership must be active at the time of application.\n- The benefits will be provided for the first two childbirths.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&amp;gt; **Registration**\n\n**Step 1:** Visit the [Official Website](https://bocw.bihar.gov.in/Website/LabourReg.aspx) of the Bihar Building and Other Construction Workers Welfare Board, and click &amp;amp;quot;[Apply for New Registration](https://bocw.bihar.gov.in/Registration/AddLabourRegistrationWeb.aspx)&amp;amp;quot;.\n**Step 4:** On the next page, provide your details including your Aadhaar Number. Then click &amp;amp;quot;Authenticate&amp;amp;quot;.\n**Step 5:** An online form will appear. In the form, fill in all the mandatory fields. The fields marked with an asterisk (*) are mandatory.\n**Step 6:** Click &amp;amp;quot;Submit&amp;amp;quot;. Proceed to pay the application fee online.\n**Step 7:****** Upon successful payment, you will receive your construction worker registration number.\n&amp;gt; **Application**\n\n**Step 1:****** Visit the [Official Website ](https://bocw.bihar.gov.in/Website/SchemeApply.aspx)of the Bihar Building and Other Construction Workers Welfare Board.\n**Step 2:** Click on &amp;amp;quot;[Scheme Application](https://bocw.bihar.gov.in/Website/SchemeApply.aspx)&amp;amp;quot; and select &amp;amp;quot;[Apply for Scheme](https://bocw.bihar.gov.in/Registration/SchemeTaggingWeb.aspx)&amp;amp;quot;.\n**Step 3:****** Enter your registration number and click &amp;amp;quot;Show&amp;amp;quot; to view your details.\n**Step 4:****** Select the scheme you intend to apply for, enter all mandatory information and upload the necessary documents in the specified format and size.\n**Step 6:****** Click on &amp;amp;quot;Submit Application&amp;amp;quot; to complete the process.\n&amp;gt; **Application Tracking**\n\nApplicants can track their application status online on the [official website ](https://bocw.bihar.gov.in/Registration/ApplicationStatus.aspx)of the Board by providing their registration number.",
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://bocw.bihar.gov.in/Website/pdf/Brochure.pdf"
+    },
+    {
+      "title": "Online Application",
+      "url": "https://bocw.bihar.gov.in/Website/SchemeApply.aspx "
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

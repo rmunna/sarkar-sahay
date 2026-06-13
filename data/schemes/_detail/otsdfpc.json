@@ -1,0 +1,27 @@
+{
+  "slug": "otsdfpc",
+  "name": "Central Assistance For One Time Settlement Of Displaced Families From PoK And Chhamb Under Prime Minister's Development Package",
+  "shortTitle": "OTSDFPC",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Home Affairs",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "A relief and rehabilitation scheme by the Ministry of Home Affairs provides central assistance to the displaced families from PoK And Chhamb and settled in the state of Jammu & Kashmir. The amount of Central Assistance of Rs. 5,49,692/- per family will be distributed through Direct Benefit Transfer.",
+  "descriptionMd": "A relief and rehabilitation scheme by the Ministry of Home Affairs provides central assistance to the displaced families from PoK And Chhamb and settled in the state of Jammu &amp; Kashmir.\n<br>\n\nThe Claimant/Head of the Displaced Persons family or his/her successor or heir residing within the State should be part of the overall category of 36,384 families belonging to any of the following categories:\n<br>\n\ni. Pakistan occupied Jammu &amp; Kashmir 1947 Displaced Persons\nii. Chhamb 1965 and 1971 (camp/non-camp) Displaced Persons\n<br>\n\nThe amount of Central Assistance of Rs. 5,49,692/- per family will be distributed through Direct Benefit Transfer (DBT) method to the eligible beneficiaries by the Central Government directly and State Government will transfer the State&#39;s share of Rs. 308/- per family to the beneficiaries through DBT.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. The Claimant/Head of the Displaced Persons family or his/her successor or heir residing within the State should be part of the overall category of 36,384 families belonging to any of the following categories: &quot;Pakistan occupied Jammu &amp; Kashmir 1947 Displaced Persons&quot;, &quot;Chhamb 1965 and 1971 (camp/non-camp) Displaced Persons&quot;.\n1. The family must possess the required documents that can prove aforesaid.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mha.gov.in/sites/default/files/Scheme_24012017.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

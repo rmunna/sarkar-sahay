@@ -1,0 +1,35 @@
+{
+  "slug": "sbvcydpsc",
+  "name": "Samekit Baal Vikas Chhtra Yojana: Dress for Pre-school Children",
+  "shortTitle": "SBVCYDPSC",
+  "level": "state",
+  "state": "Bihar",
+  "nodalDept": "Social Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "This scheme provides an amount of ₹400/- per child per year for uniforms to all children aged 3 to 6 years receiving pre-school education at Anganwadi Centres. The scheme aims to create a distinct identity for Anganwadi Centre children & bring a sense of uniformity & social harmony among children.",
+  "descriptionMd": "The &amp;quot;Dress for Pre-school Children&amp;quot; scheme is a component of the &amp;quot;Samekit Baal Vikas Chhtra Yojana,&amp;quot; initiated by the Social Welfare Department, Government of Bihar. Under this scheme, a cash amount of ₹400/- per child per year is provided for uniforms to all children aged 3 to 6 years who are receiving pre-school education at Anganwadi Centres. The scheme aims to create a distinct identity for Anganwadi Centre children and bring a sense of uniformity and social harmony among the children. This scheme is state-sponsored.",
+  "benefitsMd": "Under this scheme, all children aged 3 to 6 years who are enrolled at Anganwadi Centres and receiving pre-school education are provided ₹400/- per year per child for uniforms.",
+  "eligibilityMd": "1. The beneficiary should be a resident of Bihar.\n   1. The beneficiary should be a child.\n   1. The beneficiary should be between 3 and 6 years of age.\n   1. The beneficiary should be enrolled at an Anganwadi Centre.\n   1. The beneficiary should be receiving pre-school education at the Anganwadi Centre.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "- To benefit from this scheme, beneficiaries should register their names at their nearest Anganwadi Center.\n\n&gt; **Complaints &amp;amp; Grievance Redressal:**\n\n\n  - Complaints and appeals related to various schemes under this program can be filed with the Public Grievance Redressal Officer at the sub-division level, the District Public Grievance Redressal Officer at the district level, and the Departmental Public Grievance Redressal Officer at the department level. Additionally, issues can be registered with the Child Development Project Officer at the project level, the District Program Officer/District Officer at the district level, the Divisional Commissioner at the divisional level, and the Director, ICDS, as well as the Additional Chief Secretary/Principal Secretary/Secretary of the Social Welfare Department at the state level. Complaints can be submitted in writing or communicated over the telephone.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://state.bihar.gov.in/cache/39/Chhatra%20Yojna/Samekit%20Baal%20Vikas%20Chhtra%20Yojna/Dress.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://state.bihar.gov.in/cache/39/Chhatra%20Yojna/Samekit%20Baal%20Vikas%20Chhtra%20Yojna/Mukhyamantri%20Samekit%20Bal%20Vikash%20Chhatra%20Yojana.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://state.bihar.gov.in/socialwelfare/CitizenHome.html"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

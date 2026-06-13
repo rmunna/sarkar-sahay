@@ -1,0 +1,39 @@
+{
+  "slug": "mbanbocwwb",
+  "name": "Maternity Benefit (ANBOCWWB)",
+  "shortTitle": "MB(ANBOCWWB)",
+  "level": "state",
+  "state": "Andaman and Nicobar Islands",
+  "nodalDept": "Labour, Employment & Training Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme offers maternity benefits to female employees registered as beneficiaries for one year during their maternity period. Additionally, male employees, registered for a year, with wives aged 19 or older and not beneficiaries, are also eligible for maternity benefits.",
+  "descriptionMd": "The scheme “Maternity Benefit” was started by the Andaman &amp;amp; Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB), Department of Labour, Employment &amp;amp; Training, Andaman &amp;amp; Nicobar Administration. Under this scheme, the female employees who are registered beneficiaries for a period of one year shall receive financial assistance as maternity benefits during the period of maternity. Additionally, male employees who are registered beneficiaries for a period of one year, and whose wives are 19 years or older and not registered beneficiaries shall also be eligible for financial assistance as maternity benefits.",
+  "benefitsMd": "1. The women employees, who are registered beneficiaries for a period of one year, shall be given a sum of ₹20,000/- as maternity benefit during the period of maternity.\n   1. Male employees, who are registered beneficiaries for a period of one year, and whose wives are 19 years or older and not registered beneficiaries, shall also receive a sum of ₹10,000/- as maternity benefit.",
+  "eligibilityMd": "1. The beneficiary should be a resident of the Union territory of Andaman &amp;amp; Nicobar Islands.\n   1. The beneficiary should be engaged in any building &amp;amp; other construction work.\n   1. The beneficiary should be registered under the A&amp;amp;N Islands Building and Other Construction Workers Welfare Board.\n   1. The beneficiary should have an active membership of the Board.\n   1. The women employees, who are registered beneficiaries for a period of one year, shall be eligible for maternity benefits during the period of maternity.\n   1. The male employees, who are registered beneficiaries for a period of one year, and whose wives are 19 years or older and not registered beneficiaries, shall be eligible for maternity benefits.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Portal Registration Process:**\n\n**Step 01:** Visit online Portal: [https://serviceonline.gov.in/login.do](https://serviceonline.gov.in/login.do)\n**Step 02:** On the home page, click on ‘[Register](https://serviceonline.gov.in/citizenRegistration.html)’ and fill in all the mandatory details.\n**Step 03:** Click on the ‘Submit’ button and validate your Email ID &amp;amp; Mobile Number using OTP received.\n**Step 04:** After successful validation, the applicant will be registered.\n&gt; **Registration Process of Construction Workers under A&amp;amp;N Islands Building &amp;amp; Other Construction Workers Welfare Board:**\n\n**Step 01:** Applicant can [login](https://serviceonline.gov.in/loginWindow.do) through their email ID that is used while registering\n**Step 02:** Enter Password &amp;amp; Captcha\n**Step 03:** Click on ‘Login’\n**Step 04:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’\n**Step 05:** Now, search for the “Registration of Construction Workers in AN BOCWWB” and then click to proceed registration process.\n**Step 06:** Fill in all the mandatory details and upload all the relevant documents.\n**Step 07:** Preview the form and click on ‘Submit’.\n**Step 08:** After successful registration, the applicant will receive a registration ID. \n&gt; **Application Process for Maternity Financial Benefit:**\n\n**Step 01:** Now, to avail the benefits of the scheme, the applicants can [login](https://serviceonline.gov.in/loginWindow.do) through their email ID that is used while registering\n**Step 02:** Enter Password &amp;amp; Captcha\n**Step 03:** Click on ‘Login’\n**Step 04:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’\n**Step 05:** Now, search for the ‘Maternity Financial Benefit’ and click on the scheme to proceed to fill out the application form.\n**Step 06:** Fill in all the mandatory details and upload all the mandatory documents.\n**Step 07:** Preview the application form and click on ‘Submit’.\n&gt; **Application Tracking:**\n\n**Step 01:** To track the application status, the applicant can visit the online Portal and [login](https://serviceonline.gov.in/loginWindow.do) through their ‘User ID’ &amp;amp; ‘Password’.\n**Step 02:** On the home page, click on “View Application Status’ and then click on ‘Track Application Status’.\n**Step 03:** Enter the Application Reference Number and click on ‘Get Data’ to know the status of your application.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://labour.and.nic.in/webPages/welfareboard.html"
+    },
+    {
+      "title": "Application Portal",
+      "url": "https://serviceonline.gov.in/"
+    },
+    {
+      "title": "Application Form For Registration As A Beneficiary",
+      "url": "https://labour.and.nic.in/webPages/forms/welfareboard.pdf"
+    },
+    {
+      "title": "Application Form For Maternity Benefit",
+      "url": "https://labour.and.nic.in/webPages/forms/mat.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

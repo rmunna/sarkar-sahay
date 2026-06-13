@@ -1,0 +1,35 @@
+{
+  "slug": "rmewf",
+  "name": "RMEWF-Financial Assistance For Medical Treatment Of Ex-Servicemen",
+  "shortTitle": "RMEWF",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Defence",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The aim of this aid gratis is to provide financial assistance to non-pensioner ESM or their widow to meet routine medical expenses during the year.",
+  "descriptionMd": "The RMEWF – Financial Assistance for Medical Treatment of Ex-Servicemen scheme is implemented by the Department of Ex-Servicemen Welfare, Ministry of Defence, Government of India.All the pensioners of Armed Forces have been provided medical cover compulsorily under ECHS wef 01 Apr 2008. However, non-pensioner ESM who were sent out of services early in their life due to organizational constraints or discharged at their own request have no such medical cover. With ever increasing costs of health care, it becomes extremely difficult for non-pensioner ESM to combat diseases especially in old age. At such age, medical expenses push such ESM into a state of poverty and loss of dignity. The scheme to provide financial assistance to non-pensioners, who are without any other sources of income and in state of penury,was started in year 1981 with an amount depending upon nature and gravity of ailment. This was last revised in August 2023 with onetime grant of Rs 50,000/-.\n**Aim**\nThe aim of this aid gratis is to provide financial assistance to non-pensioner ESM or their widow to meet routine medical expenses during the year.\n<br>",
+  "benefitsMd": "A Financial assistance up to a maximum of ₹30,000/- per year per eligible Ex-Servicemen/widow is provided in a financial year.\n<br>",
+  "eligibilityMd": "**The following criteria must be fulfilled:-**\n\n- Applicant must be a non-pensioner ESM or his widow.\n- Should be of rank Havildar/equivalent and below.\n- Should be recommended by respective Zila Sainik Board (ZSB).\n- Expenditure must be incurred at recognized government hospitals at rates approved under CGHS/ ECHS.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "1. Eligible Ex-servicemen / their widows can visit the official website of Kendriya Sainik Board Secretariat [https://ksb.gov.in/](https://ksb.gov.in/)1. Click on “Register” which is available on the homepage of the portal.\n1. Now, the registration form will be displayed, fill the form with necessary details.\n1. Upload the Photo\n1. Save the application by clicking on the “Save” button and the saved details and password will be forwarded to the registered mail id.\n1. Click the activation link which is sent to the mail id to login into the KSB portal.\n1. Provide user name, password and verification code and click on the “Login “ button.\n1. Select the scheme name and start filling the new application form by entering the required details.\n1. Copies of the supporting documents duly attested by the respective Zila Sainik Welfare Officer (ZSWO) must be uploaded with the online application.\n1. Once the online application is submitted, ZSWO will scrutinize the online applications and give appointment to the applicant for verification, \n1. After successful verification, ZWSO will recommend the online application and forward the harp copy as well soft copy to Kendriya Sainik Board (KSB) through Rajya Sainik Boards (RSBs) on a monthly basis for further processing.\n\n## Processing at KSB Secretariat\n<br>\n\n\n1. Once the application reaches the Kendriya Sainik Board, the Section-in-charge verify the same and upload the printed list for the approval of JD (Welfare). \n1. Such applications of approval is then moved for sanction of the competent authority in one lot, preferably every quarter.\n\n## Payment Procedure\n\n1. After approval of Secretary KSB, the application is processed for payment by Welfare Section. \n1. The welfare section verifies the Ex-servicemen&#39;s service number, name, banker&#39;s IFS Code and bank account number &amp; forward the list of approved cases to Accounts Section for payment. \n1. The Accounts Section then processes the list for payment directly to beneficiaries via ECS to the beneficiaries as applicable.\n\n## Track Application Status\n\n1. Applicant has to revisit the same portal https:  [https://ksb.gov.in/index.htm](https://ksb.gov.in/index.htm)1. Click on “Status of application” link on the homepage of the portal.\n1. Now enter your DAK ID and verification code. Click on the “Search” button.\n\n<br>",
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "https://ksb.gov.in/medical-treatment-of-esm.htm "
+    },
+    {
+      "title": "Application Form",
+      "url": "https://ksb.gov.in/writereaddata/DownLoad/E-1.pdf"
+    },
+    {
+      "title": "Application Portal",
+      "url": "https://ksb.gov.in/registration.htm"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "pby",
+  "name": "Pashu Bima Yojana",
+  "shortTitle": "PBY",
+  "level": "state",
+  "state": "Bihar",
+  "nodalDept": "Directorate of Dairy Development",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme 'Pashu Bima Yojna' was launched by the Directorate of Dairy Development, Government of Bihar. The scheme aims to provide insurance security to farmers against the financial loss caused by cattle death and to improve the rural economy.",
+  "descriptionMd": "The scheme &quot;Pashu Bima Yojana&quot; by the Directorate of Dairy Development, Government of Bihar aims to provide financial security to livestock owners against losses due to serious diseases like Lumpy Skin Disease, HSBQ, and other causes of cattle death. Through this scheme, insurance coverage of up to ₹60,000 per dairy cattle is provided to livestock owners of all categories, with the government providing a 75% subsidy on the premium amount. The scheme is implemented by the District Dairy Development Officers across all districts of Bihar.",
+  "benefitsMd": "- The maximum price per milch cattle has been fixed at ₹60,000/-. \n\n\n- The total amount of insurance at the rate of 3.5 percent will be ₹2,100/-.\n- The insurance company will insure milch cattle for 01 year. \n- The insurance company will fit the data ear tags in the milch cattle. \n\n> **NOTE 1:** 75% amount of ₹1,575/- will be paid by the state government as a grant and the remaining 25% amount of ₹525/- will be paid by the cattle farmers to the insurance company. \n\n> **NOTE 2:** The responsibility for the safety of milch cattle will be on the beneficiary.",
+  "eligibilityMd": "1. The applicant should be a farmer of milch cattle. \n1. The applicant should be a member of the &quot;Milk Producer Cooperation Committee&quot;. \n1. The milch cattle of the farmer should be healthy and certified by a veterinary doctor at the time of insurance.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "> **Registration**\n\n**Step 1:** Visit the registration page: [https://misdairy.bihar.gov.in/Registration/Register](https://misdairy.bihar.gov.in/Registration/Register)\n**Step 2:** Provide the below details for the registration\n\n- Full name.\n- Father&#39;s name or husband&#39;s name (as applicable).\n- Select date of birth.\n- Choose gender from the dropdown menu.\n- Select your district from the available options.\n- Enter your valid Aadhaar number in the designated field.\n\n**Step 3:** Form Submission via mobile OTP:\n\n- Provide your active mobile phone number.\n- An OTP (One-Time Password) will be sent to your phone. Enter the received OTP in the designated field.\n- After entering the OTP, submit the completed registration form.\n\n**Step 4:** Upon successful registration, a password will be sent to the applicant&#39;s registered mobile number. This password will be used for future logins.\n<br>\n\n> **Application**\n\n**Step 1:** Visit the login page: [https://misdairy.bihar.gov.in](https://misdairy.bihar.gov.in)/ and do login with the following details:\n\n- Enter the registered mobile number.\n- Use the password received during registration to log in.\n- Complete the captcha verification.\n\n**Step 2:** Applicant Details (Pre-populated):\n\n- The portal will automatically display your pre-registered information, including mobile number, district, block, and PIN code. You cannot edit this information.\n\n**Step 3:**  Provide the following details:\n\n- Enter the full name of the proposer.\n- Select the proposer&#39;s occupation from the provided options.\n- Choose the proposer&#39;s qualification from the available list.\n\n**Step 4:** Supporting Documents Upload:\n\n- Upload a scanned copy of your Milk Producer Society membership receipt.\n- Upload a passport-sized photograph of the proposer.\n\n**Step 5:** Submission:\n\n- After completing all sections, click the &quot;Submit&quot; button.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dairy.bihar.gov.in/Scheme.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

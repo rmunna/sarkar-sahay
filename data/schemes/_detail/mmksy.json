@@ -1,0 +1,27 @@
+{
+  "slug": "mmksy",
+  "name": "Mukhya Mantri Mahila Kisan Sashaktikaran Yojana",
+  "shortTitle": "MMKSY",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Rural Development Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "Mukhya Mantri Mahila Kisan Sashaktikaran Yojana (MMKSY) is a scheme launched by the Government of Gujarat to empower women farmers in the state. The scheme was announced in the 2018-19 budget and is being implemented by the Department of Agriculture and Co-operation.",
+  "descriptionMd": "**Detailed** \nUnder the MMKSY scheme, women farmers in Gujarat are provided with financial assistance and training to help them enhance their agricultural productivity and income. The scheme aims to provide a holistic approach towards the development of women farmers, including improving their access to inputs, credit, technology, and market.\n<br>\n\nSome of the key components of the scheme include:\n\n1. Providing financial assistance for farm activities, such as purchasing agricultural inputs, seeds, equipment, etc.\n1. Providing training and capacity building for women farmers to enhance their skills and knowledge.\n1. Encouraging the formation of women farmer groups and providing support for their collective activities.\n1. Providing access to credit for women farmers through various financial institutions.\n1. Providing market linkages and support for marketing their produce.\n\n<br>\n\nThe MMKSY scheme is aimed at promoting women&#39;s participation in agriculture and reducing the gender gap in agriculture-related activities. It is expected to benefit around 7 lakh women farmers in the state of Gujarat",
+  "benefitsMd": "",
+  "eligibilityMd": "**Eligibility** \n\n1. Women Farmers: Only women farmers are eligible to apply for the scheme. Women farmers who own or operate agricultural land are eligible to apply.\n1. Resident of Gujarat: Only women farmers who are residents of Gujarat are eligible to apply.\n1. Age Criteria: There is no specific age limit for the scheme. Women farmers of all age groups can apply.\n1. Income Criteria: There is no specific income criteria for the scheme. However, preference is given to women farmers who belong to economically weaker sections.\n1. Land Holding: Women farmers who own or operate agricultural land are eligible to apply. The size of the landholding is not a criterion for eligibility.\n1. Registration: Women farmers have to register themselves with the Department of Agriculture and Co-operation to apply for the scheme.\n1. Group Formation: Women farmers can also form groups and apply for the scheme collectively..\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mksp.gov.in/images/MKSP_Agriculture_Guidelines.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

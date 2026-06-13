@@ -1,0 +1,31 @@
+{
+  "slug": "eacrws11a12s",
+  "name": "Educational Assistance to the Children of the Registered Worker Studying in 11th and 12th Standard",
+  "shortTitle": "EACRWS11A12S",
+  "level": "state",
+  "state": "Maharashtra",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The \"Educational Assistance\" scheme provides financial support of ₹10,000 per year to children of registered construction workers who are studying in the 11th or 12th standard. The benefit applies to a maximum of two children per worker and extends to the wife of a registered male worker.",
+  "descriptionMd": "The Educational Assistance to the Children of the Registered Worker Studying in 11th and 12th Standard scheme was launched by the Maharashtra Building And Other Construction Workers Welfare Board (MBOCWW), Labour Department Maharashtra. The scheme provides financial assistance ₹10,000 per year to children of registered construction workers who are studying in the 11th or 12th standard. The benefit applies to a maximum of two children per worker and extends to the wife of a registered male worker.",
+  "benefitsMd": "- Financial assistance of ₹10,000 per year for children studying in 11th and 12th grades.\n\n<br>\n\n> **Note:** Benefit applies to up to two children and the wife of a registered worker.",
+  "eligibilityMd": "1. The children&#39;s parents or guardians should be registered under the Maharashtra Building and Other Construction Workers Welfare Board.\n1. The child/wife must be studying in 11th or 12th standard.\n1. Only children and spouse of registered construction workers are eligible to get educational assistance.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step-1:** The interested applicant downloads the [application form](https://mahabocw.in/wp-content/uploads/2019/06/SCHEME_EDUCATION_FORM.pdf) from the MBOCWW official website. \n**Step-2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step-3:** Submit the duly filled and signed application form along with the documents to the Labor Commissioner/Government Labor Officer.\n**Step-4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mahakamgar.maharashtra.gov.in/welfare-scheme-for-building-other-construction-workers.htm"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://mahabocw.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

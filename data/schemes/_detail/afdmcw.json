@@ -1,0 +1,31 @@
+{
+  "slug": "afdmcw",
+  "name": "Financial Assistance for Daughter's Marriage (UKBOCWWB)",
+  "shortTitle": "FADMUKBOCWWB",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department Of Labour",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Family"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide financial assistance of ₹51,000/- per marriage for the marriage of registered construction workers themselves or for the marriage of up to two daughters.",
+  "descriptionMd": "The “Financial Assistance for Daughter&amp;#39;s Marriage” scheme is implemented by the Uttarakhand Building and Other Construction Workers Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand. The scheme aims to provide financial support for the marriage of registered construction workers and their daughters.\n<br>",
+  "benefitsMd": "- An amount of ₹51,000/- for each marriage is provided.\n\n&gt; **Note:** Assistance is provided for the marriage of up to two daughters of the registered worker as well as for the worker’s own marriage.\n\n<br>",
+  "eligibilityMd": "1. The applicant must be a construction worker registered with the Uttarakhand Building and Other Construction Workers Welfare Board.\n   1. Financial assistance is available for the worker’s own marriage and for the marriage of up to two daughters.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online - via CSC",
+  "applicationMd": "- The online application can be submitted through Shramik Suvidha Kendras. \n  - Along with the application form, applicants must submit their Shramik Card, bank account details, marriage card, Aadhaar cards of the bride and groom, the marriage registration certificate, a self-written certificate stating that no assistance has been received from any other department, and a self-declaration certificate. \n  - It is mandatory to apply within one year from the date of marriage. After submission, the department conducts verification, and if the application and documents are found to be correct, the financial assistance is transferred directly to the construction worker’s bank account.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 55)",
+      "url": "https://uk.gov.in/assets/pdf/MERI%20_YOJANA_book_04-12-23.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://ukbocw.uk.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "mamy-mp",
+  "name": "Mukhyamantri Asangathit Mazdoor Yojana",
+  "shortTitle": "MAMY-MP",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide social and financial welfare benefits to unorganized sector workers. It offers increased remuneration, seasonal bonuses, electricity subsidies, and assistance such as e-rickshaws to registered unorganized laborers in Madhya Pradesh.",
+  "descriptionMd": "The scheme &quot;Mukhyamantri Asangathit Majdoor Yojana&quot; was launched by the Labour Department, Government of Madhya Pradesh. The scheme aims to provide various benefits to workers engaged in the unorganized sector within the state. The scheme provides increased remuneration for Tendu leaf pluckers, seasonal bonuses, freezing of old electricity bills, subsidized flat-rate electricity, and e-rickshaws for cycle rickshaw drivers. The applicant must be a worker, must not be in any type of government service, must not be a taxpayer, and must not possess agricultural land. The applications for this scheme are accepted offline at Gram Panchayat Secretary offices in rural areas and Nagar Panchayat/Municipality offices in urban areas.\n<br>",
+  "benefitsMd": "- The old electricity bills of the laborers will be frozen.\n- Electricity will be available to them at a flat rate of ₹200/- per month.\n- E-rickshaws will be provided to cycle rickshaw drivers.\n- The remuneration for laborers engaged in Tendu leaf plucking work will be increased from ₹1,200/- per standard sack to ₹2,000/- per standard sack.\n- A seasonal bonus will be given to Tendu leaf pluckers.\n\n<br>",
+  "eligibilityMd": "- The applicant must be an unorganised worker.\n- The applicant must not be in any type of government service.\n- The applicant must not be a taxpayer.\n- The applicant must not possess agricultural land.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit the Office of the Gram Panchayat Secretary (in rural areas) or the Office of the Nagar Panchayat/Municipality (in urban areas). Request the hard copy of the prescribed format of the application form from the staff. Applicants may also contact the Ward In-charge for assistance in acquiring the necessary information and forms.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents at the respective office.\n_*The information regarding the issued registration will be conveyed to the concerned applicant through a message or a voice call sent to their registered mobile phone._\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/schemes.aspx?vID=255"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

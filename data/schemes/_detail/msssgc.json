@@ -1,0 +1,31 @@
+{
+  "slug": "msssgc",
+  "name": "CBSE Merit Scholarship Scheme For Single Girl Child",
+  "shortTitle": "MSSSGC",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of School Education and Literacy",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to promote girls’ education and provide ₹1,000 per month to meritorious single girl students studying in classes 11th and 12th.",
+  "descriptionMd": "The “CBSE Merit Scholarship Scheme for Single Girl Child (SGC)” scheme has been launched by the Ministry of Education, Government of India, and implemented by the Central Board of Secondary Education. The scheme aims to promote education among single girl children and encourage meritorious students to continue their studies. Under this scheme, financial assistance is provided to single girl students studying in classes 11th and 12th. It supports students who have demonstrated academic excellence in class 10th examinations and are enrolled in CBSE-affiliated schools. \n<br>",
+  "benefitsMd": "**Financial Assistance**\n\n- ₹1,000 per month per student provided for a maximum period of 2 years (classes 11th and 12th)\n**Mode of Disbursement**\n\n- Direct transfer through ECS (Electronic Clearing Service) / NEFT (National Electronic Funds Transfer)\n\n**Validity**\n\n- Up to completion of class 12 (maximum 2 years), subject to renewal conditions\n\n<br>",
+  "eligibilityMd": "1. The applicant should be a single girl child of her parents.\n1. The applicant should have secured 70% or more marks in CBSE class 10th examination.1. The applicant should be studying in Class 11 or 12 in a CBSE-affiliated school.\n1. The applicant should have a tuition fee not exceeding ₹2,500 per month in class 10th.1. The applicant should have a tuition fee not exceeding ₹3,000 per month in classes 11th and 12th.1. The applicant should have gross parental/family income not exceeding ₹8,00,000 per annum.\n1. The applicant should be an Indian National.\n1. The applicant should continue her studies in classes 11th and 12th.1. All children born together (such as twins) are considered a single girl child.\n1. NRI students are eligible and their tuition fee should not exceed ₹6,000 per month.\n\n<br>",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "1. The interested applicant visits the CBSE [official website](https://www.cbse.gov.in/cbsenew/cbse.html). 1. Click on ‘New user Registration’ or ‘Renewal’.\n1. Read all the instructions on the official website and then hit &#39;Continue.&#39; After that, fill in the roll number, and DOB (as mentioned class 10 mark sheet). Now click on ‘Continue’.\n1. Print the undertaking mentioned on the ‘Guidelines’ document. After that, fill it out, paste the photo, and get the same attested from school. Make an affidavit as mentioned in the ‘Guidelines’.\n1. Now, scan the undertaking and affidavit. The files must be in PDF format, not exceeding 1 MB. Please note that the PDF must contain all pages.\n1. Finally, select ‘Upload Document’ to upload both of these documents. After that, print the confirmation page.\n1. Please Note: Only in case of a successful application, a confirmation page will appear. In case of renewal, courier the duly filled and signed confirmation page to the below address: Assistant Secretary (Scholarship), CBSE, Shiksha Kendra, 2 Community Centre, Preet Vihar, Delhi - 110 092.\n\n> **NOTE:**\n\n\n- The applicant’s application must be verified by the school.\n- The applicant must maintain good conduct and regular attendance.\n\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.cbse.gov.in/cbsenew/scholar/Guidelines_SGC_2025.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://www.cbse.gov.in/cbsenew/cbse.html"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

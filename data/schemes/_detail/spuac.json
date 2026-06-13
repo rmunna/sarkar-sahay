@@ -1,0 +1,27 @@
+{
+  "slug": "spuac",
+  "name": "Student Program Under AcSIR",
+  "shortTitle": "SPUAC",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Department Of Education",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme \"Student Program Under AcSIR\" implemented by the Academy of Scientific and Innovative Research (AcSIR), aims to promote high-quality research and leadership development in Earth Sciences through doctoral education. It provides research opportunities to geoscience postgraduate students.",
+  "descriptionMd": "The scheme &amp;quot;Student Program Under AcSIR&amp;quot; by the Academy of Scientific and Innovative Research (AcSIR), Government of India aims to promote high-quality interdisciplinary research by enrolling eligible postgraduate candidates into PhD programmes.  Through this scheme, students receive fellowships, training, and research opportunities in Earth Sciences, with the broader goal of preparing future leaders in the geoscience domain of the Himalayas.",
+  "benefitsMd": "- **Advanced Research Opportunities:** The program provides opportunities for conducting high-quality, interdisciplinary research in various fields of Himalayan Geo-science.  - **Leadership Development:** The scheme aims to develop leaders in the field of Himalayan Geo-science through the PhD program.  - **Career Advancement:** Successful completion of the PhD program leads to a postgraduate degree, enhancing career prospects in the field.",
+  "eligibilityMd": "- The applicant must have a postgraduate degree (M.Sc./M.Tech.) in any discipline of Earth Sciences.\n- The applicant must hold a valid national-level fellowship such as:\n\n\n1. NET-JRF (UGC/CSIR).\n1. INSPIRE Fellowship.\n1. Any other equivalent national fellowship.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** The interested applicant should visit the official online [application portal](https://acsiriphd.emli.in/) and create a Username/Application Log-In by clicking on the “Sign Up here” option.\n**Step 2:** Log in using the credentials received on your registered email ID, and click on “Complete your application” to proceed.\n**Step 3:** Fill out the application form as per the instructions mentioned in the portal and upload the following mandatory and applicable documents in the specified format and size\n**Step 4:** Choose the relevant Admission Route for the iPhD Program:\n\n  - **Fresh Candidate (Not registered in PhD at AcSIR)**: Choose a research area and lab preference. Eligible for AcSIR-NIF Innovation Doctoral Fellowship.  - **AcSIR PhD Student:** Submit Enrolment Letter and Thesis Research Proposal. Eligible for lump sum research support through AcSIR faculty.  - **NIF Employee:** Submit Permission from Director, NIF and Proposed Research Problem. No additional financial support provided.  - **Industry Sponsored Candidate:** Submit &amp;#39;No Objection Certificate&amp;#39; from the employer and Proposed Research Problem.\n**Step 5:** Confirm the application details, review the entire form carefully, and then submit the application.\n&gt; **Note:** There is no application fee for this process.\n\n&lt;br&gt;\n\n&gt; **Contact Us:**\n\n&gt; **AcSIR Headquarters**\n\n&gt; **Academy of Scientific and Innovative Research (AcSIR)**\n\n&gt; **CSIR- Human Resource Development Centre, (CSIR-HRDC) Campus**\n\n&gt; **Postal Staff College Area, Sector 19, Kamla Nehru Nagar,**\n\n&gt; **Ghaziabad, Uttar Pradesh- 201 002.**\n\n&gt; **Contact no: +91 9266600847 / 9266600947**",
+  "references": [
+    {
+      "title": "Guidelines (Page No. 135)",
+      "url": "https://uk.gov.in/department92/library_file/file-25-02-2025-06-08-25.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

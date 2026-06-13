@@ -1,0 +1,35 @@
+{
+  "slug": "apdccsscspscc",
+  "name": "Assistance for Power Driven Chaff Cutter Scheme under Scheduled Castes Sub Plan (SC Category)",
+  "shortTitle": "APDCCSSCSP(SCC)",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Agriculture, Farmers Welfare and Cooperation Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme provides financial assistance to dairy farmers belonging to Scheduled Caste category on purchase of electric powered chaff cutters. By using power driven chaff cutter, dairy farmers can reduce wastage of green &dry fodder which is economically important for their profitable dairy farming.",
+  "descriptionMd": "The scheme “Assistance for Power Driven Chaff Cutter Scheme under Scheduled Castes Sub Plan (SC Category)” is implemented by the Directorate of Animal Husbandry, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under this scheme, financial assistance is given to dairy farmers belonging to the Scheduled Caste category on purchase of electric powered chaff cutters. By using power driven chaff cutter, dairy farmers can reduce wastage of green and dry fodder which is economically important for their profitable dairy farming.",
+  "benefitsMd": "1. Under the scheme, financial assistance up to 75% of the purchase cost of powered chaff cutter or ₹18,000/-, whichever is less, is given to beneficiaries of Scheduled Caste category.  \n\n**Note:** The amount of assistance will be deposited in bank account of the beneficiary.",
+  "eligibilityMd": "- The beneficiary should be a permanent resident of Gujarat.\n- The beneficiary should belong to the Scheduled Caste category.\n- The beneficiary should have a minimum of five (5) animals of his/her own.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 01:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 02:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step 03:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 04:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 05:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 06:** Once the application is done, confirm it.\n**Step 07:** Take a print out of the confirmed application.\n**Step 08:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx ](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx)\n**Note:** After sanctioning application through I-Khedut Portal, beneficiary has to purchase Chaff Cutter from government approved empanelled vendor and has to produce the bill for claim submission of subsidy.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://doah.gujarat.gov.in/fodder-development-guj.htm"
+    },
+    {
+      "title": "Scheme Details (Page No. 7)",
+      "url": "https://doah.gujarat.gov.in/Images/animalhusbandary/pdf/English-for-Fodder-Development.pdf"
+    },
+    {
+      "title": "I-Khedut Portal",
+      "url": "https://ikhedut.gujarat.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

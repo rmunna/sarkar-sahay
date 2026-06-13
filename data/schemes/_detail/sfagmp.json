@@ -1,0 +1,27 @@
+{
+  "slug": "sfagmp",
+  "name": "Kishori Balika Yojana (Madhya Pradesh)",
+  "shortTitle": "KBY-MP",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Women and Child Development Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme \"Kishori Balika Yojana\" by the Department of Women and Child Development, Government of Madhya Pradesh aims to provide vocational, health, and hygiene training to adolescent girls. Through this scheme, training and material assistance are provided to the girls.",
+  "descriptionMd": "The scheme &quot;Kishori Balika Yojana&quot; by the Department of Women and Child Development, Government of Madhya Pradesh aims to provide vocational, health, and hygiene training to adolescent girls. Through this scheme, girls from each Anganwadi center are selected and trained by master trainers, who in turn provide training at the Gram Panchayat level. The scheme is implemented by Anganwadi Workers and includes Two-day Master Trainer Training Programs provided at monthly intervals.",
+  "benefitsMd": "- Each Anganwadi center selects 2 adolescent girls, 1 Anganwadi worker, and 1 Auxiliary Nurse Midwife (ANM) for a two-day master trainer training at monthly intervals.\n- Master trainers provide vocational, health, and hygiene training at the Gram Panchayat level.\n- A two-day master trainer training program is provided at monthly intervals.",
+  "eligibilityMd": "1. The applicant should be a resident of Madhya Pradesh.\n   1. The applicant should be a girl.\n   1. The applicant should be aged between 11 and 18 years.\n   1. The applicant should be from one of the following categories: General, Other Backward Class (OBC), Scheduled Castes (SC), Scheduled Tribes (ST).",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "The interested applicants should visit the nearest Anganwadi Center for registration, along with the necessary documents.",
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=252"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

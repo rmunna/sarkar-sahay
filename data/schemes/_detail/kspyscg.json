@@ -1,0 +1,35 @@
+{
+  "slug": "kspyscg",
+  "name": "Kanya Saksharta Protsahan Yojana (For Scheduled Caste Girls)",
+  "shortTitle": "KSPYSCG",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Tribal Welfare and Scheduled Caste (SC) Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Under this scheme, Scheduled Caste girls who pass the Class 10th and enroll in the Class 11th at a government or recognized institution and study regularly are given an incentive of ₹3,000/- per year.",
+  "descriptionMd": "The &amp;quot;Kanya Saksharta Protsahan Yojana&amp;quot; scheme was launched by the Scheduled Caste Welfare Department, Government of Madhya Pradesh, and implemented by the School Education Department since 2014-15. The objective of the scheme is to encourage children from poor Scheduled Caste families to pursue education and provide them with financial assistance. Under this scheme, Scheduled Caste girls who pass the Class 10th and enroll in the Class 11th at a government or recognized institution and study regularly are given an incentive of ₹3,000/- per year.",
+  "benefitsMd": "1. Under this scheme, all Scheduled Caste girl students who have passed Class 10 and are entering Class 11 will receive an incentive of ₹3,000/- per year.\n\n**Note:** The incentive amount will be paid into the bank accounts of the girl students.",
+  "eligibilityMd": "1. The applicant should be a girl student.\n   1. The girl student should be a native of Madhya Pradesh.\n   1. The girl student should belong to the Scheduled Caste category.\n   1. All Scheduled Caste girl students who have passed Class 10 and are entering Class 11 are eligible for the scheme.\n   1. The parents or guardians of the applicant should not be income taxpayers.\n   1. The girl student should be pursuing her education continuously.\n   1. The girl student should be enrolled in a government or recognized government school/institution and attend regularly.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- To avail of the benefits under this scheme, eligible students can contact the Principal of their respective schools/institutions.\n\n**Note:** The profile of the students is entered on the education portal [https://shikshaportal.mp.gov.in/](https://shikshaportal.mp.gov.in/) by the teacher of the educational institution as per the record/certificate provided by the student.",
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=2"
+    },
+    {
+      "title": "Guidelines (Page No. 39)",
+      "url": "https://aiggpa.mp.gov.in/uploads/publication/Social_Protection_Eng.pdf"
+    },
+    {
+      "title": "Online Shiksha Portal",
+      "url": "https://shikshaportal.mp.gov.in/ "
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

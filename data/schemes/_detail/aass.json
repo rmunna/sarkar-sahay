@@ -1,0 +1,35 @@
+{
+  "slug": "aass",
+  "name": "Agriculture Academic Studies Scheme",
+  "shortTitle": "AASS",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "Agriculture Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The objective of the Scheme is to sponsor students for undergoing 4 years of Graduate/degree courses in Agriculture/Horticulture against State quota seats in different Agriculture Universities in the country.",
+  "descriptionMd": "The “Agriculture Academic Studies Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya. The objective of the Scheme is to sponsor students for undergoing 4 years of Graduate/degree courses in Agriculture/Horticulture against State quota seats in different Agriculture Universities in the country.",
+  "benefitsMd": "> **Pattern of Assistance:**\n\n\n- Sponsorship of seats, book grants, and scholarships.\n\n> **Type of Assistance and Entitlement (If any):**\n\n\n- Monthly stipend @ ₹1,200/-.\n- Book grant @₹1,200/- per academic year.",
+  "eligibilityMd": "1. The applicant/student should be a permanent resident of Meghalaya.\n   1. Students interested in pursuing a four-year degree course in Agriculture/Horticulture can apply under the scheme.\n   1. The students, general &amp;amp; OBC category, who should have passed 10+2 in the Science stream with 55% aggregate marks having Physics, Chemistry, Biology &amp;amp; English as compulsory subjects are eligible under the scheme.\n   1. The students, SC &amp;amp; ST category, who should have passed 10+2 in the Science stream with 45% aggregate marks having Physics, Chemistry, Biology &amp;amp; English as compulsory subjects are eligible under the scheme.\n   1. The applicant should also qualify for the Indian Council of Agricultural Research (ICAR) All India Entrance Examinations for Admission (AIEEA) conducted by the National Testing Agency (NTA).",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Application Process:**\n\nStudents can apply online from the Department website [https://www.megagriculture.gov.in](https://www.megagriculture.gov.in) Or [https://megedistrict.gov.in](https://megedistrict.gov.in)\n&gt; **Mode of Selection of Beneficiary(s):**\n\nSelection is based on merit- ICAR AIEEA and other conditions of eligibility criteria and on the State Reservation Policy.\n&gt; **Whom to Contact:**\n\nApplicants are advised to follow the advertisements which usually appear during May-June in major newspapers of the State/visit the Department website [https://www.megagriculture.gov.in](https://www.megagriculture.gov.in)  Or [https://megedistrict.gov.in.](https://megedistrict.gov.in)",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=63"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONAGRICULTURESCHEMES.pdf"
+    },
+    {
+      "title": "Notification",
+      "url": "https://megagriculture.gov.in/PUBLIC/fileUpload/download.aspx?id=242"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

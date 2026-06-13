@@ -1,0 +1,31 @@
+{
+  "slug": "thsdse",
+  "name": "Training for Horticulture Skill Development for Self-Employment at Centre of Excellence",
+  "shortTitle": "THSDSE",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Agriculture, Farmers Welfare and Cooperation Department",
+  "schemeFor": null,
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"Training for Horticulture Skill Development for Self-Employment at Centre of Excellence \" is aimed at promoting self-employment opportunities across all communities in Gujarat through practical and theoretical learning at the Centre of Excellence.",
+  "descriptionMd": "The scheme &amp;quot;Training for Horticulture Skill Development for Self-Employment at Centre of Excellence&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat,  aims to offer structured training programs ranging from 10 to 30 days, focusing on horticultural skills to enable self-employment. The program is tailored for individuals across all social categories, with subsidized training costs. Beneficiaries gain access to a complete learning experience, including expert sessions, training literature, educational tours, and practical kits.",
+  "benefitsMd": "- **Stipend:** ₹250/- per trainee.- **Other Facilities:** Dining facility, training literature kit, experiential education tour, trainee kit, etc.\n> **Duration of the Training:**\n\n\n- Minimum: 10 days\n- Maximum: 30 days",
+  "eligibilityMd": "The applicant must be a resident of Gujarat.\nThe applicant should belong to any of the following:\n\n- Agriculture Labour\n- All Colleges\n- All Farmers\n- All Individuals\n- All Students\n- Anganwadi Worker\n- College Students\n- Farm Labourer\n- Horticulturists\n- Self-Employment\n- Skilled Individual\n- Small and Marginal Farmers\n- Small, Marginal &amp; Other Farmers",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Obtain a plain paper application form from the District Office of the Deputy Director of Horticulture.\n**Step 2:** Fill in the application form with accurate details. Attach the required documents.\n**Step 3:** Submit the form to the District Office of the Deputy Director of Horticulture.",
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 560)",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    },
+    {
+      "title": "User Manual (Applicant Registration)",
+      "url": "https://ikhedut.gujarat.gov.in/site/iKhedut%202.0%20User%20Manual%20PPT_Gujarati.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

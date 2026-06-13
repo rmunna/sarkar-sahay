@@ -1,0 +1,41 @@
+{
+  "slug": "nhdp-iandts-emporia",
+  "name": "National Handicrafts Development Programme: Infrastructure And Technology Support: EMPORIA",
+  "shortTitle": "NHDP-I&TS-EMPORIA",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Textiles",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity",
+    "Government Organisation",
+    "Individual",
+    "NGO",
+    "Registered Societies",
+    "Institution",
+    "State Government"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "In the scheme \"Infrastructure and Technology Support: EMPORIA\" assistance would be provided for the setting up of emporia. These would be set up in commercially viable locations in the implementing agencies' own/rented buildings.",
+  "descriptionMd": "The scheme &amp;quot;Infrastructure and Technology Support: EMPORIA&amp;quot; is a Component/Sub-Scheme under the Umbrella Scheme &amp;quot;National Handicrafts Development Programme&amp;quot;. Under this component, assistance would be provided for the setting up of emporia. These would be set up in commercially viable locations in the implementing agencies&amp;#39; own/rented buildings. The basic objective of the component is to provide a marketing platform to the Local Handicrafts Artisans in their respective area through the outlet and emporia.",
+  "benefitsMd": "",
+  "eligibilityMd": "1. Central/ State Handloom and Handicrafts Development Corporations and any other eligible Govt. Corporations/ agencies promoted by State Government or local govt. Bodies etc. \n1. Eligible Non-Governmental Organizations, Registered SHGs, local statutory bodies, exporter bodies/ associations, Apex Cooperative Societies, and National level Apex Societies (registered under the society act/ trust act, etc.), and organizations like IICT, MHSC, HMCM, NIFT, and Export Promotion Councils. \n1. Producer companies registered under Section 8 of the Companies Act. and working for the promotion and development of Handicrafts &amp; Handlooms.\n1. Any component can be implemented by the department as well.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://handicrafts.nic.in/pdf/Scheme.pdf#page=1"
+    },
+    {
+      "title": "Proforma For Proposal",
+      "url": "http://www.handicrafts.nic.in/cmsUpload/20221026154722Emporia.pdf"
+    },
+    {
+      "title": "Documents Required",
+      "url": "http://www.handicrafts.nic.in/Pdf/final_citizen.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

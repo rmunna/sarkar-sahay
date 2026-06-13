@@ -1,0 +1,35 @@
+{
+  "slug": "rgsfsae",
+  "name": "Rajiv Gandhi Scholarship For Academic Excellence",
+  "shortTitle": "RGSFSAE",
+  "level": "state",
+  "state": "Rajasthan",
+  "nodalDept": "Technical Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "In order to provide financial assistance to meritorious students of Rajasthan to study in top foreign universities of the world. The scheme commenced from 5th October 2021.",
+  "descriptionMd": "Hon’ble Chief Minister of Rajasthan Sh. Ashok Gehlot announced this scheme on 20th August 2021 in commemoration of late Shri Rajiv Gandhi, former Prime Minister of India. In order to provide financial assistance to meritorious students of Rajasthan to study in top foreign universities of the world. \n**Objective**:\n\n1. To assist students of Rajasthan financially to pursue higher studies in the top 150 QS World Universities\n1. International exposure to students for their career development. \n1. To give priority to students having gross family income less than 8 lakh rupees/annum.\n1. To provide better opportunities to female students by earmarking 30 % seats (Income category-wise).",
+  "benefitsMd": "1. **E1: Family gross annual income less than 8 Lakh**\n(i). Tuition Fees and Bench fee: Max 50 lakh\n(ii). Living Expenses: 12 Lakh Rupees.\n(iii). One-time advance of Rs 3 Lakh to candidates who will start their course after application on the portal (adjusted against living expenses).\n1. **E2: Family gross annual income 8 – 25 Lakh**\n(i). Tuition Fees and Bench fee: Max 50 lakh\n(ii). Living Expenses: 6 Lakh Rupees\n1. **E3: Family gross annual income above 25 Lakh**\n(i). Tuition Fees and Bench fee: Max 50 lakh\n(ii). No Living Expenses\n\n<br>",
+  "eligibilityMd": "1. Bonafide Resident of Rajasthan. \n1. Less than 35 years of age on 1st July 2023\n1. Admitted / Obtained offer letter in top 150 World QS ranked Universities as of 1st April, 2023\n1. All disciplines for UG, PG, PhD and Post Doc courses.\n1. Maximum 7.5 % seats ( 37 ) for Engineering, Architecture, Medical, Dentistry courses at UG level",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "1. Applicant to log in to [RajSSO](https://sso.rajasthan.gov.in) Portal using his/her SSOID.1. If SSOID is not available then the applicant to first register on RajSSO Portal to create SSOID and update SSO Profile at first login.\n1. After successful authentication/login and updation of the SSOID Profile and select the scheme name. \n1. Select his/her name, the bank account and fill in personal details.\n1. Upload required document\n(i). Domicile Certificate\n(ii). Admission Letter/Offer Letter\n(iii). Fee Details letters/Documents issued by Foreign University \n1. Clicking the “SUBMIT” button. \n1. System will submit the application and a unique APPLICATION-ID will be presented to applicant.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://schemes.rajasthan.gov.in/scheme/detail/981"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/signin"
+    },
+    {
+      "title": "Manual",
+      "url": "https://hte.rajasthan.gov.in/files/uploads/RGSAE-APPLICATION-SUBMISSION.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

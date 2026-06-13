@@ -1,0 +1,32 @@
+{
+  "slug": "amrut",
+  "name": "Atal Mission For Rejuvenation And Urban Transformation",
+  "shortTitle": "AMRUT",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Housing & Urban Affairs",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "State Government",
+    "Government Organisation"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Providing basic services (e.g. water supply, sewerage, urban transport) to households and building amenities in cities which will improve the quality of life for all, especially the poor and the disadvantaged is a national priority.",
+  "descriptionMd": "The purpose of the Atal Mission for Rejuvenation and Urban Transformation (AMRUT) is to\n<br>\n\n\n1. Ensure that every household has access to a tap with the assured supply of water and a sewerage connection.\n1. Increase the amenity value of cities by developing greenery and well maintained open spaces (e.g. parks) and\n1. Reduce pollution by switching to public transport or constructing facilities for non-motorized transport (e.g. walking and cycling). \n\n<br>\n\nAll these outcomes are valued by citizens, particularly women, and indicators and standards have been prescribed by the Ministry of Housing and Urban Affairs (MoHUA ) in the form of Service Level Benchmarks (SLBs).\n<br>\n\n<br>\n\n#### Thrust Areas\nThe Mission will focus on the following Thrust Areas:\n<br>\n\n\n1. Water Supply\n1. Sewerage and septage management\n1. Storm Water Drainage to reduce flooding\n1. Non-motorized Urban Transport\n1. Green space/parks\n\n#### Coverage\n**Five hundred cities** have been selected under AMRUT. The category of cities that have been selected under AMRUT is given below:\n<br>\n\n\n1. All Cities and Towns with a population of over one lakh with notified Municipalities as per Census 2011, including Cantonment Boards (Civilian areas),\n1. All Capital Cities/Towns of States/ UTs, not covered in above ,\n1. All  Cities/  Towns  classified  as  Heritage  Cities  by  MoHUA  under  the  HRIDAY Scheme,\n1. Thirteen Cities and Towns on the stem of the main rivers with a population above 75,000 and less than 1 lakh, and\n1. Ten Cities from hill states, islands and tourist destinations (not more than one from each State).\n\n<br>\n\n<br>\n\n<br>",
+  "benefitsMd": "",
+  "eligibilityMd": "This is an open scheme and there is no eligibility required for the scheme.\n<br>\n\nFive hundred cities have been selected under AMRUT.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "http://amrut.gov.in/upload/uploadfiles/files/AMRUT%20Guidelines%20(1).pdf"
+    },
+    {
+      "title": "Mission Progress Dashboard",
+      "url": "http://amrut.gov.in/content/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

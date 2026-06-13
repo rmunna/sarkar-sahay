@@ -1,0 +1,36 @@
+{
+  "slug": "copy-of-uksp",
+  "name": "Uttarakhand Startup Policy-2023",
+  "shortTitle": "UKSP2023",
+  "level": "state",
+  "state": "Uttarakhand",
+  "nodalDept": "Industry Department",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity",
+    "Industries"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to support the growth of the startup ecosystem in Uttarakhand and create a culture of innovation and entrepreneurship by establishing a robust and sustainable startup environment in the state.",
+  "descriptionMd": "The “Uttarakhand Startup Policy-2023” is implemented by the Micro, Small, and Medium Enterprises (MSMEs) under the Department of Industries, Government of Uttarakhand. The scheme aims to support the growth of the startup ecosystem in Uttarakhand and create a culture of innovation and entrepreneurship by establishing a robust and sustainable startup environment in the state.\n<br>",
+  "benefitsMd": "Under the policy, the following incentives are provided:\n\n  - A monthly allowance of ₹15,000/- per month for one year to entrepreneurial startups, and ₹20,000/- per month to women entrepreneurs, person from Scheduled Caste, Scheduled Tribes, Divyang, transgender startups, or those based on grassroots innovations.\n  - One-time seed funding of up to ₹10 lakh for recognized startups, and up to ₹12.50 lakh for women entrepreneurs, scheduled caste, scheduled tribes, Divyang, transgender, or grassroots innovation-based startups.\n  - Reimbursement assistance of ₹1 lakh per national patent and ₹5 lakh per international patent.\n  - Reimbursement assistance of ₹10,000/- for filing applications for trademarks and industrial designs.\n  - Financial incentives under the MSME policy, such as special capital subsidy, interest subsidy, stamp duty exemption, and SGST reimbursement assistance.\n  - One-time free assistance for pre-incubation and incubation support.\n  - Capital subsidy of up to ₹1 crore for setting up new incubation centres and up to ₹50 lakh for expanding existing incubation centres.\n  - Provision of ₹200 crore for setting up a venture fund.\n\n<br>",
+  "eligibilityMd": "***For the purposes of this policy, an entity must be registered as a Private Limited Company, Limited Liability Partnership (LLP), or Registered Partnership Firm.***\nUnder the Uttarakhand Startup Policy 2023, an entity will be considered a “Startup” if it fulfills the following criteria:\n**Legal entities with their registered office in Uttarakhand:**\n\n   1. The period of formation and operation of the entity should not exceed ten years from the date of its incorporation.\n   1. The turnover of the entity should not have exceeded ₹100 crore in any financial year since incorporation or registration.\n   1. The entity should not be formed by splitting up or reconstructing an existing business, nor should it be a part of a family business or business group.\n   1. The entity should be engaged in innovation, development, or improvement of products, processes, or services, or should have a scalable business model with high potential for employment or wealth generation; or should meet the startup criteria as defined by the Government of India from time to time.\n\n***Legal entities having their registered office in other states of India (in addition to the criteria defined under this policy):***\n\n   1. The entity must have an office in the State of Uttarakhand, and its business operations should be conducted substantially through this office.\n\nDuring the entire period of recognition, the entity must employ at least 70% of its total full-time workforce from among the domiciles of Uttarakhand.\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "To avail the benefits of the scheme, applications must be submitted online through the portal [https://startuputtarakhand.uk.gov.in/](https://startuputtarakhand.uk.gov.in/).\n<br>",
+  "references": [
+    {
+      "title": "Offical Website",
+      "url": "https://startuputtarakhand.uk.gov.in/"
+    },
+    {
+      "title": "Scheme Details (Page No. 99)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://startuputtarakhand.uk.gov.in/attachments/16831085833.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

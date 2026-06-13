@@ -1,0 +1,31 @@
+{
+  "slug": "nssgbcdc",
+  "name": "New Swarnima Scheme (GBCDC)",
+  "shortTitle": "NSSGBCDC",
+  "level": "state",
+  "state": "Haryana",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme aims to provide a special scheme for the self-employment of women from backwards classes living below the poverty line. Through this scheme, financial assistance for chosen businesses is offered to female beneficiaries from socially and educationally backward classes.",
+  "descriptionMd": "The scheme &quot;New Swarnima Scheme&quot; by the Social Justice and Empowerment Department, Government of Gujarat, aims to provide a special scheme for self-employment of women from backward classes living below the poverty line. Through this scheme, financial assistance for chosen businesses is provided to female beneficiaries from socially and educationally backward classes. The scheme is implemented by the Gujarat Backward Classes Development Corporation.\n<br>",
+  "benefitsMd": "1. **Loan Amount:** The maximum loan limit under this scheme is up to ₹200,000/- per beneficiary.1. **Interest Rate:** The interest rate in these schemes will be 5% per annum.1. **Loan Coverage:** 95% of unit cost financed by the national corporation (NBCFDC), 5% by the state government.\n<br>\n\n> **Repayment Terms:** Repayable in 60 equal monthly installments, including interest.\n\n> **Mode of Disbursement:** The loan amount is disbursed, with 95 percent of the unit cost from the national corporation and 5 percent from the state government.\n\n<br>",
+  "eligibilityMd": "1. The applicant should belong to a socially and educationally backward class.\n1. The total annual income of the applicant&#39;s family should not exceed ₹3,00,000/-.\n1. The applicant&#39;s age should be between 21 and 45 years as on the date of application.\n1. The applicant must have experience in a business requiring technical and other skills.\n\n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the [official website](https://gbcdconline.gujarat.gov.in/) of the Gujarat Backwards Caste Development Corporation.\n**Step 2:** On the top menu bar, click on &quot;Apply Online&quot;.\n**Step 3:** If you’re a new user, click on &quot;New Registration&quot; Enter personal details (name, mobile number, email, aadhaar number, etc.), create a password, and complete OTP verification.\n**Step 4:** Use your registered credentials (User ID and password) to log in.\n**Step 5:** Click on “New Application”. Select “Swayam Saksham Yojana” from the list of available schemes.\n**Step 6:** Fill out the Application Form, enter the following details:\n\n- Personal Information: Name, gender, date of birth, caste, etc.\n- Address Information: Permanent and correspondence address\n- Income Details: Monthly family income and source\n- Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)\n- Bank Account Details: For loan disbursement\n\n**Step 7:** Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.\n**Step 8:** Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.\n**Step 9:** The**** Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.\n<br>",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.gujarat.gov.in/gbcdc/Schemes/1454"
+    },
+    {
+      "title": "Online Application",
+      "url": "https://gbcdconline.gujarat.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

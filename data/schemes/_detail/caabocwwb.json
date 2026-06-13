@@ -1,0 +1,35 @@
+{
+  "slug": "caabocwwb",
+  "name": "Cash Award (A.B.O.C.W.W.B)",
+  "shortTitle": "CA(ABOCWWB)",
+  "level": "state",
+  "state": "Assam",
+  "nodalDept": "Labour & Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Cash awards shall be given to the three male & three female children of the registered construction workers in each district to those students who score 75% or above, 65% or less than 75%, and 55% or less than 65% mark in HSLC, AHM and H.S. examinations.",
+  "descriptionMd": "The “Cash Award” scheme was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, cash awards shall be given to the three male &amp;amp; three female children of the registered construction workers in each district to those students who score 75% or above, 65% or less than 75%, and 55% or less than 65% mark in HSLC, AHM and H.S. examinations.",
+  "benefitsMd": "1. The cash awards shall be given to the children of the beneficiaries who score 75% or above, 65% or less than 75%, and 55% or less than 65% mark @ ₹5,000/-, ₹4,000/- and ₹3,500/- respectively in HSLC, AHM, and H.S. examinations.\n   1. The Board offers cash awards to three male and three female children of the beneficiaries in each district.",
+  "eligibilityMd": "1. The applicant student should be a permanent resident of Assam.\n   1. The applicant’s parent should be engaged in any building &amp;amp; other construction work.\n   1. The applicant’s parent should be registered with the Assam Building and Other Construction Workers Welfare Board.\n   1. The parent of the applicant should have an active membership with the Board.\n   1. To avail of the benefits of the scheme, students must have obtained a minimum of 55% or above in the HSLC, AHM, and H.S. examinations.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "&gt; **Application Process to apply under the scheme:**\n\n**Step 01:** To avail the benefits of the scheme, the eligible applicant may apply through the Official Portal. [https://abocwwb.assam.gov.in/](https://abocwwb.assam.gov.in/)\n**Step 02:** On the home page of the portal, click on ‘[Login Now](https://abocwwb.assam.gov.in/index.php/Base/userLogin)’ and enter the registered Mobile Number or User ID. OTP received on the registered mobile number should be entered to complete the login.\n**Step 03:** The individual console of the applicant gets opened with various functions such as detail updating, Fees due, and benefits eligible.\n**Step 04:** Click on ‘Benefit’ and select the applicable scheme (Cash Award Benefit) under the benefit and the portal redirects to an online application form specific to the scheme.\n**Step 05:** The applicant may fill up the application with all mandatory fields and upload the necessary documents.\n**Step 06:** The applicant submits the application form and a tracking/reference number is generated as a future reference for the applicant.\n&gt; **Post-Application Process:**\n\n**Step 01:** Successfully submitted applications pop up in the concerned Officers console. The officer may assign a subordinate to make verifications through the portal.\n**Step 02:** Subsequent to preliminary verification, the application is placed in the scrutiny committee for detailed checks.\n**Step 03:** Minutes of the Scrutiny Committee meeting get uploaded and Forwarded to the H.O.\n**Step 04:** Applications/ Pops up in the Officer’s Console of Head Office. Officer assigns to the Assistant concerned and allotted with the District concerned.\n**Step 05:** The assistant processes the application through PFMS. Account details get auto-verified in PFMS.\n**Step 06:** On successful PFMS verification, Print Advice is generated through PFMS.\n**Step 07:** Approving authority approves for disbursement of the benefit through PFMS.  \n([User Manual](https://labourcommissioner.assam.gov.in/sites/default/files/swf_utility_folder/departments/coi_labour_uneecopscloud_com_oid_14/portlet/level_2/sop_bocw_online_mode_for_uploading.pdf))",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://labourcommissioner.assam.gov.in/portlet-innerpage/various-welfare-benefits-for-registered-construction-workers"
+    },
+    {
+      "title": "Application Portal",
+      "url": "https://abocwwb.assam.gov.in/"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://labourcommissioner.assam.gov.in/sites/default/files/swf_utility_folder/departments/coi_labour_uneecopscloud_com_oid_14/portlet/level_2/sop_bocw_online_mode_for_uploading.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

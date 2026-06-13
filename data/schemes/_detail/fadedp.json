@@ -1,0 +1,27 @@
+{
+  "slug": "fadedp",
+  "name": "Financial Assistance to Destitute Elderly and Disabled Person",
+  "shortTitle": "FADEDP",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "Social Justice and Empowerment Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"Financial Assistance to Destitute Elderly and Disabled Person\" provides monthly financial aid to elderly individuals (60+) and severely disabled persons who meet specific income and dependency criteria.",
+  "descriptionMd": "The  &amp;quot;Financial Assistance to Destitute Elderly and Disabled Person&amp;quot; is a welfare scheme by the Social Justice and Empowerment Department of Gujarat. The scheme aims to support economically vulnerable elderly individuals and persons with severe disabilities. Elderly individuals aged 60 years or more who do not have an adult son (21 years or older), and persons with more than 75% disability aged 45 or more, are eligible under this scheme.\n<br>",
+  "benefitsMd": "- **For beneficiaries aged 60 to 79 years:** ₹1,000/- per month- **For beneficiaries aged 80 years or more:** ₹1,250/- per month",
+  "eligibilityMd": "1. Applicant must be a resident of Gujarat.\n1. Applicant must be:\n\n\n- Aged 60 years or more and does not have a son aged 21 years or above.\n- OR, aged 45 years or more and has a disability of more than 75%.\n- OR, listed in the BPL category (Score 0–20) in rural areas or included in the urban BPL list.\n\n\n1. Annual Family Income must be:\n\n\n- ₹1,20,000 or less for rural residents.\n- ₹1,50,000 or less for urban residents.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit the Mamlatdar office and request a hard copy of the prescribed format of the application form.\n**Step 2:** In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the supporting documents to the Mamlatdar office.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted.",
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 187)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

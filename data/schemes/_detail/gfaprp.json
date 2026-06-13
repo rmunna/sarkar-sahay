@@ -1,0 +1,31 @@
+{
+  "slug": "gfaprp",
+  "name": "Grant of Financial Assistance to the Press Reporters of Puducherry",
+  "shortTitle": "GFAPRP",
+  "level": "state",
+  "state": "Puducherry",
+  "nodalDept": "Information and Publicity Department, Puducherry",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The scheme \"Grant of Financial Assistance to the Press Reporters of Puducherry\" by the Department of Information & Publicity, Union Territory of Puducherry, aims to provide financial support amounting to ₹25,000/- to eligible press reporters who have served in registered Newspapers/Magazines.",
+  "descriptionMd": "The scheme &quot;Grant of Financial Assistance to the Press Reporters of Puducherry&quot; by the Department of Information &amp; Publicity, Union Territory of Puducherry, aims to provide financial support amounting to ₹25,000/- to eligible press reporters who have served in Newspaper / Magazine duly registered with the &quot;Registrar of Newspapers, Government of India, New Delhi&quot; continuously for atleast 10 years.",
+  "benefitsMd": "- **Financial Assistance:** ₹25,000/-.- **Mode of Disbursal:** The Director, Department of Information &amp; Publicity, Puducherry will transmit the cheque to the applicant after obtaining the necessary receipt thereof from the applicant in the [prescribed format](https://py.gov.in/sites/default/files/citizens-charterinfopublicity.pdf).- **Time Limit:** Three weeks from the date of application.",
+  "eligibilityMd": "- The applicant should be a citizen of India.\n- The applicant should be a native of the Union Territory of Puducherry by birth or by continuous residence for not less than five years.\n- The applicant should be a Press Reporter.\n- The applicant should have served in a Newspaper/Magazine.\n- The Newspaper/Magazine should be duly registered with the &quot;Registrar of Newspapers, Government of India, New Delhi&quot;.\n- The Newspaper/Magazine should be registered continuously for not less than 10 years.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should take print of the [prescribed format](https://py.gov.in/sites/default/files/citizens-charterinfopublicity.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** The applicant should visit the [Office](https://info.py.gov.in/contact-us) of the Department of Information &amp; Publicity or one of its [Branch Offices](https://info.py.gov.in/contact-us). The Office Timings are Monday to Friday, 08:45 am to 01:00 pm &amp; 02:00 pm to 05:45 pm. Submit the duly filled and signed application form and the documents to the Member Secretary-cum-Treasurer.\n**Step 4:** Upon successful receipt of the application, a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.",
+  "references": [
+    {
+      "title": "Guidelines & Application Form",
+      "url": "https://py.gov.in/sites/default/files/citizens-charterinfopublicity.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://info.py.gov.in/contact-us"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

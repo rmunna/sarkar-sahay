@@ -1,0 +1,27 @@
+{
+  "slug": "spfhavip",
+  "name": "Smart Phone for Hearing and Visually Impaired Persons",
+  "shortTitle": "SPFHAVIP",
+  "level": "state",
+  "state": "Tamil Nadu",
+  "nodalDept": "Welfare of Differently Abled Persons Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "The scheme 'Smart Phone for Hearing and Visually Impaired Persons' was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. The scheme aims to distribute smart phone to needy visually impaired & hearing impaired students, unemployed youth, self-employed.",
+  "descriptionMd": "The scheme &#39;Smart Phone for Hearing and Visually Impaired Persons&#39; was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. The scheme aims to distribute smart phones to needy visually impaired and hearing impaired students, unemployed youth, self-employed and women.",
+  "benefitsMd": "- Free distribution of smart phones.",
+  "eligibilityMd": "1. The beneficiary should be a visually impaired and hearing impaired person.\n1. The beneficiary should be any one of the following:\n\n\n\n  - Students in Higher Education (Undergraduate). \n  - Unemployed Youth.\n  - Self-Employed.\n  - Women with Hearing Impairment/ Visual Impairment.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** The interested applicant should visit (during office hours) the District Differently Abled Welfare Officer and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Differently Abled Welfare Officer.\n**Step 4:** Request a receipt or acknowledgment from the District Differently Abled Welfare Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+  "references": [
+    {
+      "title": "Citizen's Charter (2022)",
+      "url": "https://cms.tn.gov.in/sites/default/files/documents/wda_e_cc_2022_23.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

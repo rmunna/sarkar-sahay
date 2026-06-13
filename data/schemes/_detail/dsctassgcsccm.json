@@ -1,0 +1,31 @@
+{
+  "slug": "dsctassgcsccm",
+  "name": "Development Support for Coffee in Traditional Areas: Support to Small Growers' Collectives/ SHGs/ Cooperatives for Coffee Marketing",
+  "shortTitle": "DSCTA:SSGCSCCM",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Commerce",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The objective of the scheme is to extend support to small and tiny growers, incentivizing them to form collectives/ Self Help Groups/ Cooperatives, thus encouraging them to take up marketing of coffee produced on a community-based approach through suitable financial incentives.",
+  "descriptionMd": "The scheme &amp;quot;Development Support for Coffee in Traditional Areas: Support to Small Growers&amp;#39; Collectives/ SHGs/ Cooperatives for Coffee Marketing&amp;quot; is a Sub-Component of the Scheme &amp;quot;Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders&amp;quot; by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. The objective of the scheme is to extend support to small and tiny growers, incentivizing them to form collectives/ Self Help Groups/ Cooperatives, thus encouraging them to take up marketing of coffee produced on a community-based approach through suitable financial incentives. This way, they will not only be able to improve the quality of coffee but also realize better value for their coffees. It is expected to provide a mechanism for better price realization for the group, arising out of both the improvement of quality as well as collective bargaining.",
+  "benefitsMd": "**Scale of Subsidy:** ₹4.00 per kg of Clean Coffee.",
+  "eligibilityMd": "1. The applicant should belong to Small Growers&#39; Collectives / Self Help Groups (SHGs) / Co-operatives in traditional coffee-growing states.\n2. The applicant should engage in coffee marketing, in clean coffee (green bean) form only, in the name of Small Growers&#39; collectives / SHGs / Co-operatives. This can be accomplished through:\n       i) Utilizing recognized public auction platforms like the Indian Coffee Trade Association (ICTA).\n       ii) Direct export by the organization.\n       iii) Utilizing recognized Commodity Exchanges wherein physical delivery of coffee takes place.\n3. The applicant who has availed subsidy under one activity/component is not eligible to avail subsidy for the same activity/component during the Mission for Integrated Development of Horticulture (MIDH) period unless new beneficiaries are covered.",
+  "exclusionsMd": "<br>",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1: Furnishing the Claim**\nAfter the marketing of coffee, the small growers&#39; collectives/ SHGs/ Cooperatives should furnish the claim for reimbursement in the [prescribed application](https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf) along with the proofs/supportive documents.\n**Step 2: Submission of Application**\nThe application for subsidy should be submitted to the concerned Deputy Director (Extension) during the same financial year of completion of the activity as far as possible.\n**Step 3: Scrutiny and Forwarding**\nThe Deputy Director (Extn.) of respective regions will scrutinize the application and forward it to the Deputy Director (Market Research) at Coffee Board, Head Office, Bengaluru for approval by the competent authority.\n<br>\n\n> **Disbursement of Subsidy**\n\n\n- The subsidy is disbursed only after the sale of coffee is completed by small growers&#39; collectives/SHGs/Cooperatives.\n- The subsidy shall be released to the individual members (of the small growers&#39; collectives/SHGs/Cooperatives mentioned in the sale note issued by the auctioneers/commodity exchange) directly to their bank account through National Electronic Funds Transfer (NEFT) in cases where the application is complete in all respects.",
+  "references": [
+    {
+      "title": "Guidelines & Application Form",
+      "url": "https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf"
+    },
+    {
+      "title": "Grower's Registration (UMANG)",
+      "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

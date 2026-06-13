@@ -1,0 +1,27 @@
+{
+  "slug": "gascstpsfcad",
+  "name": "Grants In Aid To SC/ST Patients Suffering From Cancer And Other Malignant Diseases",
+  "shortTitle": "GASCSTPSFCAD",
+  "level": "state",
+  "state": "Assam",
+  "nodalDept": "Welfare of Plain Tribes and Backward Classes Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "The objective of the scheme is to provide financial assistance in the form of one-time grants to patients undergoing medical treatment in connection with T.B., Cancer and other malignant diseases. This scheme provides one-time financial assistance to patients belonging to the Tea Tribes community.",
+  "descriptionMd": "Special provisions have been enshrined in the Constitution for the welfare of SC / ST people in every sphere of their life. There are a number of SC / ST people suffering from cancer and other malignant diseases who are unable to carry forward the treatment of their diseases due to the economic hardships faced by them. The government has decided to bring some help to such patients by making available some financial assistance in the form of grants in Aid to SC/ST patients suffering from cancer and other malignant diseases. \n<br>\n\nSC / ST patients who are suffering from cancer and other malignant diseases are unable to afford advanced treatment due to their Socioeconomic condition prevalent in the community. So financial assistance in the form of grants in Aid is proposed to be provided to such patients through a scheme namely &quot;Grants in Aid to SC / ST patients suffering from cancer and other malignant diseases&quot;. Under the scheme, such SC / ST patients will be given a one-time, fixed financial assistance of Rs. 50,000/- (Rupees Fifty thousand) only.\n<br>",
+  "benefitsMd": "",
+  "eligibilityMd": "1)\tThe applicant must belong to an SC / ST community of Assam. \n2)\tPerson suffering from cancer or other malignant diseases may apply.\n3)\tNo person shall be eligible to claim this financial aid more than once. \n<br>",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://wptbc.assam.gov.in/sites/default/files/swf_utility_folder/departments/wpt_uneecopscloud_com_oid_3/menu/document/guideline_for_fin_grant-in-aid_to_sc-st_patients_suffering_from_cancer_and_other_malignant_diseases.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

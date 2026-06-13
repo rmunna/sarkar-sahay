@@ -1,0 +1,31 @@
+{
+  "slug": "upmbsyg",
+  "name": "Uttar Pradesh Mukhyamantri Bal Seva Yojana (Genearal)",
+  "shortTitle": "UPMBSYG",
+  "level": "state",
+  "state": "Uttar Pradesh",
+  "nodalDept": "Department of Women & Child Development",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"Uttar Pradesh Mukhyamantri Bal Seva Yojana (General)\" scheme provides financial assistance to children in Uttar Pradesh who face various hardships.",
+  "descriptionMd": "Recognizing the importance of a safe and nurturing environment for children&#39;s development, the Uttar Pradesh Chief Minister Bal Seva Yojana (General) steps in. This program helps young people under 18 who have lost one or both parents (not due to Covid), and young adults aged 18-23 orphaned by Covid-19.\n<br>\n\nThe scheme goes beyond financial assistance. It supports students pursuing higher education at government institutions after completing 12th grade, including those achieving excellence in national exams like NEET, JEE, and CLAT. Additionally, it offers a helping hand to children of divorced or abandoned mothers, those with imprisoned parents, and those rescued from child labor or begging.",
+  "benefitsMd": "> Financial Assistance :  ₹ 2,500/- per month.",
+  "eligibilityMd": "**Non-Institutional Children:**\n\n1. Children under 18 who have lost both parents or one parent due to non-Covid reasons.\n1. Adolescents 18-23 who lost both or one parent due to Covid or any reason, and are pursuing higher education after completing 12th grade.\n1. Children of divorced/abandoned mothers.\n1. Children whose parents/guardian are imprisoned.\n1. Children rescued from child labor, begging, or prostitution.\n1. Children of families involved in begging/prostitution.\n1. An assistance will be provided to maximum two children of the family.\n1. The annual income of the family of all the categories of children should be less than  ₹3,00,000/- but the condition of income limit will not apply to those where both mother and father have died.\n\n<br>\n\n**Institutional Children:**\n\n1. Under the age group of 0-18, previously lived in children&#39;s homes and reintegrated back into families or residing in child care institutions.\n1. Support: Receives financial assistance and family/aftercare services for readjustment.",
+  "exclusionsMd": "- Families already receiving benefits under similar schemes (except Uttar Pradesh Chief Minister Bal Seva Yojana).\n- Children aged 18+ who choose not to pursue higher education or competitive exams (eligible until 23 years old or graduation / diploma, whichever is earlier).",
+  "applicationMode": "Offline",
+  "applicationMd": "**Non-Institutional Children:**\n\n1. **Application submission:**\n\n  - **Rural areas**: Village Development Officer, Gram Panchayat Officer, Block Development Officer, or District Probation Officer.  - **Urban areas:** Accountant, Tehsil office, or District Probation Officer.\n1. **Requirements:** Application form filled correctly, self-attested, and with all necessary documents.1. **Verification:** Applications verified by Block Development Officer (rural) or Deputy District Magistrate (urban).1. **Recommendation**: Verified applications sent with recommendations to District Probation Office/Child Protection Unit.\n<br>\n\n**Institutional Children:**\n\n1. **Identification**: District Child Protection Unit and Child Welfare Committee directly contact and identify eligible children.1. **Application**: Children or parents submit applications within 15 days of identification.1. **Supervision**: District-level task force monitors Child Welfare Committee and Child Protection Unit to ensure timely application submission from all eligible children",
+  "references": [
+    {
+      "title": "Guidelines-2021",
+      "url": "https://balvikas.missionvatsalyaup.in/public/pdf/UPMBSY%20GO%20General%2007-Sep-2021%201067%20(1).pdf"
+    },
+    {
+      "title": "Guidelines-2022",
+      "url": "https://balvikas.missionvatsalyaup.in/public/pdf/UPMBSY%20General%20ammendment%20GO%20for%20installment%20and%20university%20criteria%20382%20dir105%20(1).pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}
