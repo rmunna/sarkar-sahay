@@ -22,14 +22,22 @@ function slugify(t) {
     .replace(/[^a-z0-9\s-]/g, " ")
     .trim().replace(/\s+/g, "-").replace(/-+/g, "-").replace(/^-|-$/g, "");
 }
-// keep it readable: cap at ~9 words / 75 chars, cut on a word boundary
-function descriptiveSlug(name) {
-  let s = slugify(name);
-  if (s.length > 75) {
-    s = s.slice(0, 75);
-    s = s.slice(0, s.lastIndexOf("-")); // don't cut mid-word
+// SEO slug matching the top-ranked guide pattern, e.g.
+//   shakti-smart-card-apply-online-karnataka
+// = <name> + "-apply-online" + (state for state schemes, if not already in name).
+// Name core capped so the suffix always survives.
+function descriptiveSlug(scheme) {
+  let core = slugify(scheme.name);
+  if (core.length > 58) {
+    core = core.slice(0, 58);
+    core = core.slice(0, core.lastIndexOf("-")); // don't cut mid-word
   }
-  return s.replace(/^-|-$/g, "") || "scheme";
+  core = core.replace(/^-|-$/g, "") || "scheme";
+  let slug = `${core}-apply-online`;
+  if (scheme.level === "state" && scheme.state && !core.includes(scheme.state)) {
+    slug += `-${scheme.state}`;
+  }
+  return slug;
 }
 
 function main() {
@@ -39,7 +47,7 @@ function main() {
   for (const s of schemes) {
     const oldSlug = s.slug ?? s.id;
     s.msSlug = s.msSlug || oldSlug;          // preserve myScheme code for detail lookup
-    let slug = descriptiveSlug(s.name);
+    let slug = descriptiveSlug(s);
     if (taken.has(slug)) {                    // dedupe collisions
       let n = 2;
       while (taken.has(`${slug}-${n}`)) n++;

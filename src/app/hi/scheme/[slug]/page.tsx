@@ -185,7 +185,7 @@ export default async function HindiSchemePage({ params }: Props) {
 
       <div className="lg:grid lg:grid-cols-[1fr_260px] lg:gap-10">
         <article className="min-w-0 bg-white rounded-2xl border border-gray-100 border-t-4 border-t-[#0f2744] shadow-sm px-6 py-8 sm:px-8 lg:px-10">
-          <h1 className="text-2xl md:text-3xl font-bold text-gray-900 leading-tight">{s.name}</h1>
+          <h1 className="text-2xl md:text-3xl font-bold text-gray-900 leading-tight">{s.name} ऑनलाइन आवेदन — स्टेप-बाय-स्टेप {s.level === "state" ? `${where} ` : ""}गाइड</h1>
           <div className="mt-3 flex flex-wrap gap-2 text-xs">
             <span className="rounded-full bg-orange-50 text-orange-700 px-2.5 py-1">{where}</span>
             <span className="rounded-full bg-gray-100 text-gray-700 px-2.5 py-1">{catLabel(s.schemeCategory)}</span>
