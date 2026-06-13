@@ -72,10 +72,20 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!s) return {};
   const detail = getSchemeDetail(s.msSlug ?? slug);
   const where = s.level === "state" ? stateLabel(s.state) : "India";
-  // Front-load the high-intent keyword ("How to Apply") and use the short name
-  // so it survives Google's ~60-char title truncation. Full name stays in H1.
-  const shortName = s.name.length <= 42 ? s.name : (s.name.split(/\s+[-–—:]\s*/)[0].trim() || s.name);
-  const title = `${shortName}: How to Apply Online — Step-by-Step Guide (${where})`;
+  // Mirror the top-ranked guide's title pattern exactly:
+  //   "<Short Name> Apply Online — Step-by-Step <State> Guide"
+  // Use the short handle (e.g. PM-KISAN) for long official names so the whole
+  // title survives Google's ~60-char truncation. Full name stays in the H1.
+  let handle = s.name.length <= 42 ? s.name : (s.name.split(/\s+[-–—:]\s*/)[0].trim() || s.name);
+  // only swap a long name for its short title when that title is a clean,
+  // recognizable acronym (PM-KISAN, PMMY) — never a cryptic mashup (PMMSYMSOFRU)
+  if (handle.length > 30 && detail?.shortTitle) {
+    const stt = detail.shortTitle.trim().replace(/\s*-\s*/g, "-");
+    // only branded, hyphenated acronyms (PM-KISAN, AB-PMJAY) — not mashups (KRBAMAS)
+    if (stt.includes("-") && stt.length <= 12) handle = stt;
+  }
+  const place = s.level === "state" ? `${where} ` : "";
+  const title = `${handle} Apply Online — Step-by-Step ${place}Guide`;
   const description = (detail?.briefDescription || s.benefitSummary || `${s.name}: eligibility, benefits and how to apply.`).slice(0, 160);
   // Index only when the page carries real content (benefits + eligibility);
   // thin/un-ingested schemes stay noindex,follow to avoid scaled-content penalty.

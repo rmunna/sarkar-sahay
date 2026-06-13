@@ -68,9 +68,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!s) return {};
   const detail = getSchemeDetail(s.msSlug ?? slug, "hi");
   const where = s.level === "state" ? stateLabel(s.state) : "भारत";
-  // Front-load "आवेदन कैसे करें" (how to apply) + short name to survive SERP truncation.
-  const shortName = s.name.length <= 42 ? s.name : (s.name.split(/\s+[-–—:]\s*/)[0].trim() || s.name);
-  const title = `${shortName}: आवेदन कैसे करें — स्टेप-बाय-स्टेप गाइड (${where})`;
+  // Mirror the guide title pattern (short handle so it survives SERP truncation).
+  let handle = s.name.length <= 42 ? s.name : (s.name.split(/\s+[-–—:]\s*/)[0].trim() || s.name);
+  if (handle.length > 30 && detail?.shortTitle) {
+    const stt = detail.shortTitle.trim().replace(/\s*-\s*/g, "-");
+    if (stt.includes("-") && stt.length <= 12) handle = stt;
+  }
+  const place = s.level === "state" ? `${where} ` : "";
+  const title = `${handle} ऑनलाइन आवेदन — स्टेप-बाय-स्टेप ${place}गाइड`;
   const description = (detail?.briefDescription || s.benefitSummary || `${s.name}: पात्रता, लाभ और आवेदन प्रक्रिया।`).slice(0, 160);
   const BASE_URL = "https://www.citizennest.com";
   return {
