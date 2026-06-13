@@ -136,6 +136,36 @@ export function isRichDetail(d: SchemeFullDetail | null): boolean {
   return elig >= 80 && (ben >= 20 || desc >= 200);
 }
 
+/** True when the detail's prose actually contains Devanagari — the myScheme API
+ * silently falls back to English when a Hindi translation is missing, so a
+ * `_detail_hi` file can still hold English text. We must NOT publish English
+ * content on a /hi/ URL, so the Hindi route only ships pages that pass this. */
+export function isRichHindiDetail(d: SchemeFullDetail | null): boolean {
+  if (!isRichDetail(d)) return false;
+  const prose = `${d!.descriptionMd} ${d!.benefitsMd} ${d!.eligibilityMd} ${d!.briefDescription}`;
+  const deva = (prose.match(/[ऀ-ॿ]/g) || []).length;
+  return deva >= 40; // a real Hindi page has plenty of Devanagari; English fallbacks have ~none
+}
+
+/** Descriptive slugs whose Hindi detail is genuinely in Hindi and rich enough
+ * to index. Drives the /hi/scheme/[slug] static params + reciprocal hreflang. */
+export function getHindiSchemeSlugs(): string[] {
+  const out: string[] = [];
+  for (const s of getAllSchemes()) {
+    const key = s.msSlug ?? s.slug ?? s.id;
+    if (isRichHindiDetail(getSchemeDetail(key, "hi"))) out.push((s.slug ?? s.id) as string);
+  }
+  return out;
+}
+
+/** Whether a scheme (by descriptive slug) has a publishable Hindi page — used by
+ * the English route to add a reciprocal hreflang only when the target exists. */
+export function hasHindiScheme(slug: string): boolean {
+  const s = getSchemeBySlug(slug);
+  if (!s) return false;
+  return isRichHindiDetail(getSchemeDetail(s.msSlug ?? slug, "hi"));
+}
+
 let _guideMap: Record<string, string> | null = null;
 
 /** Confident scheme→guide matches (from scripts/match-scheme-guides.mjs). Lets

@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "checked": 4,
+  "accepted": 4,
+  "rejected": 0,
+  "results": [
+    {
+      "file": "content/guides/aadhaar-card-download-online.md",
+      "ok": true,
+      "kind": "guide",
+      "wordCount": 1399,
+      "charCount": 8953,
+      "officialLinks": [
+        "https://myaadhaar.uidai.gov.in",
+        "https://eaadhaar.uidai.gov.in",
+        "https://uidai.gov.in"
+      ],
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "file": "content/guides/irctc-waiting-list-confirmation-chances.md",
+      "ok": true,
+      "kind": "guide",
+      "wordCount": 1496,
+      "charCount": 10128,
+      "officialLinks": [
+        "https://www.irctc.co.in",
+        "https://enquiry.indianrail.gov.in/mntes",
+        "https://www.indianrail.gov.in"
+      ],
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "file": "content/guides/kalia-yojana-odisha.md",
+      "ok": true,
+      "kind": "guide",
+      "wordCount": 1011,
+      "charCount": 6879,
+      "officialLinks": [
+        "https://kalia.odisha.gov.in"
+      ],
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "file": "content/guides/west-bengal-lakshmir-bhandar.md",
+      "ok": true,
+      "kind": "guide",
+      "wordCount": 961,
+      "charCount": 6423,
+      "officialLinks": [
+        "https://socialsecurity.wb.gov.in"
+      ],
+      "issues": [],
+      "warnings": []
+    }
+  ]
+}

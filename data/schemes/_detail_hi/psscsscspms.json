@@ -1,0 +1,43 @@
+{
+  "slug": "psscsscspms",
+  "name": "अनुसूचित जाति के छात्रों के लिए पूर्व-एस. एस. सी. छात्रवृत्ति (परिक्षितलाल मजमुदार छात्रवृत्ति)",
+  "shortTitle": "PSSCSSCS(PMS)",
+  "level": "state",
+  "state": "Gujarat",
+  "nodalDept": "सामाजिक न्याय और अधिकारिता विभाग",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "इस योजना के तहत अनुसूचित जाति के उन छात्रों को छात्रवृत्ति प्रदान की जाती है जो सरकारी/अनुदान-सहायता स्कूलों/निजी स्कूलों में कक्षा 1 से 10 तक पढ़ रहे हैं।",
+  "descriptionMd": "\"अनुसूचित जाति के छात्रों के लिए पूर्व-एस. एस. सी. छात्रवृत्ति\" योजना का संचालन निदेशक, अनुसूचित जाति कल्याण, गुजरात सरकार द्वारा किया जाता है। इस योजना के तहत अनुसूचित जाति के उन छात्रों को छात्रवृत्ति प्रदान की जाती है जो सरकारी/अनुदान-सहायता स्कूलों/निजी स्कूलों में कक्षा 1 से 10 तक पढ़ रहे हैं।",
+  "benefitsMd": "* * सहायता विवरणः * * क्र. सं. नंबर मानक लड़के/लड़कियाँ 1 से 5 दोनों ₹750/- 2 मानक 6 से 8 लड़के ₹750/- 3 मानक 6 से 8 लड़कियाँ ₹1000/- 4 मानक 9 से 10 दोनों ₹1000/-",
+  "eligibilityMd": "1. छात्र गुजरात की अनुसूचित जाति श्रेणी से संबंधित होना चाहिए। 1. छात्र को कक्षा 1 से 10 में नामांकित होना चाहिए। 1. इस योजना के लिए आय की कोई सीमा नहीं है।",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "1. योजना का लाभ उठाने के लिए पात्र छात्रों को अपने स्कूल के प्राचार्य से संपर्क करना होगा। 1. संबंधित विद्यालय के प्राचार्य को डिजिटल गुजरात पोर्टल (पोर्टलः [https://www.digitalgujarat.gov.in] (https://www.digitalgujarat.gov.in)) पर ऑनलाइन प्रस्ताव जमा करना होगा।",
+  "references": [
+    {
+      "title": "आधिकारिक वेबसाइट",
+      "url": "https://sje.gujarat.gov.in/Dscw/schemes/1555?lang=English"
+    },
+    {
+      "title": "योजना विवरण (पृष्ठ संख्या 82)",
+      "url": "https://sje.gujarat.gov.in/assets/downloads/SCSP_202021_09072021.pdf"
+    },
+    {
+      "title": "अधिसूचना-1",
+      "url": "https://sje.gujarat.gov.in/dscw/assets/downloads/tharav_dscw2_25082022.pdf"
+    },
+    {
+      "title": "अधिसूचना-2",
+      "url": "https://sje.gujarat.gov.in/dscw/assets/downloads/tharav_dscw_25082022.pdf"
+    },
+    {
+      "title": "योजना का विवरण",
+      "url": "https://sje.gujarat.gov.in/dscw/downloads/outlay_phy_target_2015_16.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

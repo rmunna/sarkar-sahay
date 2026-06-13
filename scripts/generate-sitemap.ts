@@ -160,6 +160,34 @@ function getRichSchemeSlugs(): string[] {
   return out;
 }
 
+// Descriptive slugs with a genuinely-Hindi, rich detail file. Mirrors
+// isRichHindiDetail() in src/lib/schemes-data.ts (the myScheme API falls back
+// to English when a translation is missing, so we require real Devanagari).
+function getRichHindiSchemeSlugs(): string[] {
+  const detailDir = path.join(__dirname, "..", "data", "schemes", "_detail_hi");
+  const msFile = path.join(__dirname, "..", "data", "schemes", "myscheme.json");
+  if (!fs.existsSync(detailDir) || !fs.existsSync(msFile)) return [];
+  const schemes = JSON.parse(fs.readFileSync(msFile, "utf-8")) as { slug?: string; id: string; msSlug?: string }[];
+  const out: string[] = [];
+  for (const s of schemes) {
+    const msSlug = s.msSlug ?? s.slug ?? s.id;
+    const urlSlug = s.slug ?? s.id;
+    const f = path.join(detailDir, `${msSlug}.json`);
+    if (!fs.existsSync(f)) continue;
+    try {
+      const d = JSON.parse(fs.readFileSync(f, "utf-8"));
+      const elig = (d.eligibilityMd || "").length;
+      const ben = (d.benefitsMd || "").length;
+      const desc = (d.descriptionMd || d.briefDescription || "").length;
+      if (elig < 80 || (ben < 20 && desc < 200)) continue;
+      const prose = `${d.descriptionMd || ""} ${d.benefitsMd || ""} ${d.eligibilityMd || ""} ${d.briefDescription || ""}`;
+      const deva = (prose.match(/[ऀ-ॿ]/g) || []).length;
+      if (deva >= 40) out.push(urlSlug);
+    } catch { /* skip */ }
+  }
+  return out;
+}
+
 function generateMainSitemap(): string {
   const guides = getGuides();
   const hindiGuides = getHindiGuides();
@@ -226,6 +254,13 @@ function generateMainSitemap(): string {
       lastmod: g.lastUpdated || today,
       changefreq: "weekly" as const,
       priority: "0.8",
+    })),
+    // Hindi per-scheme pages (only those with genuinely-Hindi rich detail).
+    ...getRichHindiSchemeSlugs().map((slug) => ({
+      loc: `${BASE_URL}/hi/scheme/${slug}`,
+      lastmod: today,
+      changefreq: "monthly" as const,
+      priority: "0.6",
     })),
     ...updates
       .filter((u) => u.status === "active")

@@ -1,0 +1,39 @@
+{
+  "slug": "pmgkp",
+  "name": "प्रधानमंत्री गरीब कल्याण पैकेज: कोविड-19 से लड़ने वाले स्वास्थ्य कर्मियों के लिए बीमा योजना",
+  "shortTitle": "PMGKP",
+  "level": "central",
+  "state": null,
+  "nodalDept": "स्वास्थ्य और परिवार कल्याण विभाग",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "इस योजना का उद्देश्य कोविड-19 से लड़ने वाले स्वास्थ्य कर्मियों को ₹ 50,00,000 के बीमा कवर के माध्यम से वित्तीय सुरक्षा प्रदान करना है।",
+  "descriptionMd": "प्रधानमंत्री गरीब कल्याण पैकेज: स्वास्थ्य और परिवार कल्याण मंत्रालय, भारत सरकार द्वारा कोविड-19 से लड़ने वाले स्वास्थ्य कार्यकर्ताओं के लिए बीमा योजना का उद्देश्य कोविड-19 ड्यूटी के दौरान मृत्यु या विकलांगता के खिलाफ वित्तीय सुरक्षा के माध्यम से स्वास्थ्य कर्मियों को ₹ 50,00,000-बीमा कवर प्रदान करना है। <बीआर>",
+  "benefitsMd": "- * * बीमा कवरेजः * * ₹ 50,00,000-कोविड-19 के कारण मृत्यु या स्थायी विकलांगता के मामले में प्रदान किया गया। <बीआर>",
+  "eligibilityMd": "- आवेदक एक स्वास्थ्य कार्यकर्ता होना चाहिए। जिसमें डॉक्टर, नर्स, पैरामेडिक्स और सहायक कर्मचारी शामिल हैं।-आवेदक को सीधे कोविड-19 से संबंधित कर्तव्यों में शामिल होना चाहिए।-आवेदक भारत का नागरिक होना चाहिए।-आवेदक को कोविड-19 नामित अस्पताल या देखभाल सुविधा में काम करना चाहिए।-आवेदक को सरकारी स्वास्थ्य कार्यक्रम के तहत पंजीकृत होना चाहिए",
+  "exclusionsMd": "<बीआर>",
+  "applicationMode": "Offline",
+  "applicationMd": "चरण 1: संबंधित संस्थान/विभाग को दावे के बारे में सूचित किया जाता है। * * चरण 2: बीमा कंपनी को ईमेल के माध्यम से & quot; nia.312000@newindia.co.in & quot; पर सूचित किया जाता है। * * चरण 3: * * दावेदार [दावा प्रपत्र] (https://nhm.gov.in/New_Updates_2018/Om_and_orders/Pradhanmantri_Garib_Kalyan_Package/Pradhan%20Mantri%20Garib%20Kalyan%20Package-%20Insurance%20Scheme%20for%20Health%20Workers%20Fighting%20COVID-19.pdf) भरता है और आवश्यक दस्तावेजों को संलग्न करता है। * * चरण 4: * * दावेदार स्वास्थ्य सेवा संस्थान/संगठन को फॉर्म जमा करता है। चरण 5: संस्थान दावे का सत्यापन करता है, प्रमाणित करता है और सक्षम प्राधिकारी को अग्रेषित करता है। * * चरण 6: * * सक्षम प्राधिकारी अनुमोदन के लिए बीमा कंपनी को दावा प्रस्तुत करता है। <बीआर>",
+  "references": [
+    {
+      "title": "दिशानिर्देश",
+      "url": "https://nhm.gov.in/New_Updates_2018/Om_and_orders/Pradhanmantri_Garib_Kalyan_Package/Pradhan%20Mantri%20Garib%20Kalyan%20Package-%20Insurance%20Scheme%20for%20Health%20Workers%20Fighting%20COVID-19.pdf"
+    },
+    {
+      "title": "दावा प्रपत्र",
+      "url": "https://nhm.gov.in/New_Updates_2018/Om_and_orders/Pradhanmantri_Garib_Kalyan_Package/Pradhan%20Mantri%20Garib%20Kalyan%20Package-%20Insurance%20Scheme%20for%20Health%20Workers%20Fighting%20COVID-19.pdf"
+    },
+    {
+      "title": "एफ. ए. क्यू",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3850af92f8d9903e7a4e0559a98ecc857/uploads/2020/05/2020050963.pdf"
+    },
+    {
+      "title": "योजना का विवरण",
+      "url": "https://www.mofpi.gov.in/sites/default/files/pradhan_mantri_garb_kalyan_package.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

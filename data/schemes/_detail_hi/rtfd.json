@@ -1,0 +1,27 @@
+{
+  "slug": "rtfd",
+  "name": "विकलांगों के लिए पुनर्वास उपचार",
+  "shortTitle": "RTFD",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "समाज कल्याण विभाग",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "मेघालय सरकार \"विकलांग पुनर्वास योजना\" के तहत विकलांग व्यक्तियों के लिए पुनर्वास उपचार प्रदान करती है।",
+  "descriptionMd": "- विकलांग व्यक्तियों को वित्तीय सहायता जो राज्य के अंदर और बाहर इलाज नहीं करवा सकते हैं।",
+  "benefitsMd": "",
+  "eligibilityMd": "1. व्यक्ति मेघालय का निवासी होना चाहिए। 1. व्यक्ति के पास एक पंजीकृत चिकित्सा व्यवसायी द्वारा जारी विकलांगता प्रमाण पत्र होना चाहिए। 1. अक्षमता का प्रतिशत 40 प्रतिशत से अधिक होना चाहिए।",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "दिशानिर्देश",
+      "url": "https://meghalaya.gov.in/schemes/content/15649"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

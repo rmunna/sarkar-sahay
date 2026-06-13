@@ -1,0 +1,39 @@
+{
+  "slug": "asymp",
+  "name": "अंतिम संस्कार योजना",
+  "shortTitle": "ASYMP",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "श्रम विभाग",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "मृत्यु के मामले में वित्तीय सहायता प्रदान करने के लिए मध्य प्रदेश के श्रम विभाग द्वारा शुरू की गई यह योजना \"अंतिम संस्कार योजना\" है।",
+  "descriptionMd": "मृत्यु के मामले में वित्तीय सहायता प्रदान करने के लिए मध्य प्रदेश के श्रम विभाग द्वारा शुरू की गई यह योजना 'अंतिम संस्कार योजना' है। ऐसे योग्य कर्मचारी की मृत्यु पर, उसके परिवार के सदस्यों को अंतिम संस्कार के खर्च के रूप में वित्तीय सहायता प्रदान की जानी है। उद्देश्यः इस योजना का उद्देश्य मध्य प्रदेश में पंजीकृत निर्माण श्रमिकों के आश्रितों को उनकी मृत्यु की स्थिति में वित्तीय सहायता प्रदान करना है। - यह अंतिम संस्कार के खर्चों के कारण परिवारों पर तत्काल वित्तीय बोझ को कम करने के लिए सहायता प्रदान करता है।",
+  "benefitsMd": "> * * एकमुश्त वित्तीय सहायता राशिः ₹6,000/- *",
+  "eligibilityMd": "1. निर्माण श्रमिक को श्रम विभाग में पंजीकृत होना चाहिए। 1. अंतिम संस्कार के लिए लाभार्थी को किसी अन्य विभाग से सहायता नहीं मिलनी चाहिए।",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "* * चरण-1: * * आवेदक को [आधिकारिक वेबसाइट] (https://mpedistrict.gov.in/MPL/Index.aspx) पर जाना होगा और [योजना का नाम] (https://mpedistrict.gov.in/MPL/ShowServiceDetail.aspx?param=Cj3p3Zcu7gXy8eDOS2yJlRAkCrrsI0s8) खोजना होगा। * * चरण-2: * * आवेदक को ऑनलाइन भरा हुआ [आवेदन पत्र] (https://mpedistrict.gov.in/MPL/DisplayServiceForm.aspx?ParamDownloadForm=gyvAfB7HzI0 =) डाउनलोड करना होगा या खाली फॉर्म डाउनलोड करना होगा। * * चरण-3: * * अब [पोर्टल] (https://mpedistrict.gov.in/MPL/Loksevakendra.aspx) पर जिले का नाम चुनें और & quot; [लोक सेवा केंद्र] (https://mpedistrict.gov.in/MPL/Loksevakendra.aspx) & quot; विकल्प चुनें और निकटतम स्थान पर जाएं। * * चरण-4: * * आवेदक को आवश्यक दस्तावेजों-आवेदन पत्र के साथ आवेदन पत्र जमा करना होगा। - आवेदक की बैंक पासबुक के पहले पृष्ठ की फोटोकॉपी। - आवेदन पत्र पर निर्धारित स्थान पर संस्थान/प्रतिष्ठान के प्रबंधन द्वारा सत्यापन। - कर्मचारी का मृत्यु प्रमाण पत्र।",
+  "references": [
+    {
+      "title": "दिशानिर्देश",
+      "url": "https://mpedistrict.gov.in/MPL/getphoto.aspx?ViewCircular=mUjt/K+FjJQ="
+    },
+    {
+      "title": "आवेदन पत्र",
+      "url": "https://mpedistrict.gov.in/MPL/ShowServiceDetail.aspx?param=Cj3p3Zcu7gXy8eDOS2yJlRAkCrrsI0s8"
+    },
+    {
+      "title": "विवरण",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=905"
+    },
+    {
+      "title": "लोक सेवा केंद्र",
+      "url": "https://mpedistrict.gov.in/MPL/Loksevakendra.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

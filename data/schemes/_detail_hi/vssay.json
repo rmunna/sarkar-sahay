@@ -1,0 +1,35 @@
+{
+  "slug": "vssay",
+  "name": "वीरनारायण सिंह श्रम अन्न योजना",
+  "shortTitle": "VSSAY",
+  "level": "state",
+  "state": "Chhattisgarh",
+  "nodalDept": "श्रम विभाग",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "छत्तीसगढ़ राज्य सरकार ने 17 जनवरी 2018 को असंगठित श्रमिकों के लिए एक योजना \"वीरनारायण सिंह श्रम अन्न योजना\" शुरू की।",
+  "descriptionMd": "छत्तीसगढ़ राज्य के श्रम विभाग ने 17 जनवरी 2018 को असंगठित श्रमिकों के लिए इस योजना की शुरुआत की। इस योजना का मुख्य उद्देश्य असंगठित श्रमिकों को उनके कार्यस्थलों पर खाद्य सहायता प्रदान करना है।",
+  "benefitsMd": "1. खाद्य केंद्रों में निर्माण श्रमिकों को ₹5/- पर गर्म भोजन वितरित किया जा रहा है। 1. पका हुआ चावल, दाल, सब्जी या खिचडी, फाई दाल, सब्जी या जीरा चावल, तली हुई दाल, सब्जी। 1. भोजन के साथ अचार भी देय होगा।",
+  "eligibilityMd": "- पंजीकृत असंगठित श्रमिक लाभ के पात्र हैं।",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "- लाभ प्राप्त करने के लिए आवेदन करने की कोई आवश्यकता नहीं है।-लाभार्थी अपने निकटतम खाद्य वितरण केंद्र पर जाकर लाभ प्राप्त कर सकते हैं।",
+  "references": [
+    {
+      "title": "दिशानिर्देश",
+      "url": "https://cglabour.nic.in/ShramAyuktNew/pandit%20deenadayaal%20upaadhyaay%20shram%20ann%20sahaayata%20yojana.pdf"
+    },
+    {
+      "title": "संशोधन",
+      "url": "https://cglabour.nic.in/schemenewnamechanged.pdf"
+    },
+    {
+      "title": "आधिकारिक साइट",
+      "url": "https://cglabour.nic.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

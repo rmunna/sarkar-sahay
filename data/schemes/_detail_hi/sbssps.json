@@ -1,0 +1,43 @@
+{
+  "slug": "sbssps",
+  "name": "श्रवणबल सेवा राज्य पेंशन योजना",
+  "shortTitle": "SBSSPS",
+  "level": "state",
+  "state": "Maharashtra",
+  "nodalDept": "सामाजिक न्याय और विशेष सहायता विभाग",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "\"श्रवणबल सेवा राज्य पेंशन योजना\" महाराष्ट्र सरकार के सामाजिक न्याय और विशेष सहायता विभाग की एक पेंशन योजना है। इस योजना में महाराष्ट्र राज्य में निराश्रित व्यक्तियों को ₹ 600/- की मासिक पेंशन प्रदान की जाती है।",
+  "descriptionMd": "श्रवणबल सेवा राज्य पेंशन योजना भारत सरकार के सामाजिक न्याय और विशेष सहायता विभाग की एक पेंशन योजना है। महाराष्ट्र से। इस योजना में महाराष्ट्र राज्य में निराश्रित व्यक्तियों को ₹ 600/- की मासिक पेंशन प्रदान की जाती है। केवल वे नागरिक जो महाराष्ट्र राज्य के स्थायी निवासी हैं, इस योजना के लिए आवेदन करने के पात्र हैं। यह योजना 100% सरकार द्वारा वित्त पोषित है। महाराष्ट्र से।",
+  "benefitsMd": "",
+  "eligibilityMd": "1. आवेदक को भारत का नागरिक होना चाहिए। 1. आवेदक को कम से कम 15 वर्षों के लिए महाराष्ट्र राज्य का अधिवास/स्थायी निवासी होना चाहिए। 1. आवेदक बेसहारा होना चाहिए। 1. आवेदक की आयु 65 वर्ष या उससे अधिक होनी चाहिए। 1. आवेदक का नाम गरीबी रेखा से नीचे (बी. पी. एल.) परिवारों की सूची में होना चाहिए या परिवार की वार्षिक आय ₹21,000/- से कम या उसके बराबर होनी चाहिए",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "दिशानिर्देश",
+      "url": "https://sjsa.maharashtra.gov.in/mr/schemes-page?scheme_nature=37"
+    },
+    {
+      "title": "दिशानिर्देश (मराठी)",
+      "url": "https://cdn.s3waas.gov.in/s317e62166fc8586dfa4d1bc0e1742c08b/uploads/2018/03/2018031988.pdf"
+    },
+    {
+      "title": "हमसे संपर्क करें",
+      "url": "https://aaplesarkar.mahaonline.gov.in/en/CommonForm/ContactUs"
+    },
+    {
+      "title": "फोटो अपलोड नियमावली",
+      "url": "https://aaplesarkar.mahaonline.gov.in/pdf/Photoupload.pdf"
+    },
+    {
+      "title": "सेवा केंद्र",
+      "url": "https://aaplesarkar.mahaonline.gov.in/en/CommonForm/SewaKendraDetails"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

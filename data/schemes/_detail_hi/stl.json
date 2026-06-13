@@ -1,0 +1,27 @@
+{
+  "slug": "stl",
+  "name": "मृदा परीक्षण प्रयोगशाला",
+  "shortTitle": "STL",
+  "level": "state",
+  "state": "Meghalaya",
+  "nodalDept": "कृषि विभाग",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "कृषि और किसान कल्याण विभाग ने 1 अप्रैल 2013 को किसानों के लिए \"मृदा परीक्षण प्रयोगशाला\" योजना शुरू की।",
+  "descriptionMd": "* * विवरण * *-मृदा परीक्षण प्रयोगशाला-किसानों में सही खुराक में उर्वरक लगाने से पहले मिट्टी के नमूनों का विश्लेषण करने के लिए & #39; खेत। * * उद्देश्य * *-मृदा स्वास्थ्य कार्ड (एस. एच. सी.) के वितरण के साथ-साथ किसानों के लिए उर्वरकों/लाइमिंग आदि के उपयोग से पहले मिट्टी के नमूनों का विश्लेषण निःशुल्क है। * * लाभार्थियों के चयन का तरीका * *-बोनाफाइड किसानों के पास पहले आओ पहले पाओ के आधार पर पर्याप्त उपलब्ध कृषि योग्य भूमि है।",
+  "benefitsMd": "",
+  "eligibilityMd": "- कृषि में लगे अच्छे किसान",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "",
+  "references": [
+    {
+      "title": "विवरण",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=30"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

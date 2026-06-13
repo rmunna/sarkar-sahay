@@ -1,0 +1,39 @@
+{
+  "slug": "dcps",
+  "name": "आश्रित बाल पेंशन योजना-पंजाब",
+  "shortTitle": "Dcps",
+  "level": "state",
+  "state": "Punjab",
+  "nodalDept": "सामाजिक सुरक्षा और महिला एवं बाल विकास विभाग",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "पंजाब राज्य सरकार ने राज्य के आश्रित बच्चों के लिए पेंशन शुरू की।",
+  "descriptionMd": "आश्रित बाल पेंशन योजना शुरू करने के पीछे मुख्य उद्देश्य उन बच्चों को वित्तीय सुरक्षा कवर प्रदान करना है जिनकी आय उनके पिता/माता-पिता की अनुपलब्धता के कारण स्थिर नहीं है। यह योजना पंजाब सरकार के सामाजिक सुरक्षा और महिला एवं बाल विकास विभाग द्वारा लागू की जाती है। पात्र लाभार्थी को मासिक पेंशन सीधे उनके बैंक खाते में मिलेगी।",
+  "benefitsMd": "राशिः 1,500/- प्रति माह",
+  "eligibilityMd": "1. आवेदक को पंजाब का स्थायी निवासी होना चाहिए। 1. माता-पिता/अभिभावक की वार्षिक आय रुपये से अधिक नहीं होनी चाहिए। 60, 000/- प्रति वर्ष। 1. बच्चे की आयु 21 वर्ष से कम होनी चाहिए। 1. माता/पिता या दोनों का निधन हो गया है या माता-पिता नियमित रूप से घर से अनुपस्थित हैं या परिवार की देखभाल करने के लिए शारीरिक/मानसिक रूप से अक्षम हो गए हैं।",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "* * चरण-1: * * आवेदकों को [आधिकारिक वेबसाइट] (https://connect.punjab.gov.in/service/citizenservice/116) पर जाना होगा। * * चरण-2 * *: 'सेवाओं को लागू करने के लिए' पर क्लिक करें। * * चरण-3 * *: अब ईमेल/फोन नंबर और पासवर्ड के साथ डिजिटल पंजाब पोर्टल पर लॉग इन करें। यदि कोई खाता है तो पंजीकरण करें [यहाँ] (https://ssocitizen.psegs.in/register) * * चरण-4: * * आवेदन पत्र भरें। * * चरण-5 * *: आवश्यक दस्तावेजों को संलग्न करें * * चरण-6 * *: जमा करें।",
+  "references": [
+    {
+      "title": "पोर्टल",
+      "url": "https://connect.punjab.gov.in/service/citizenservice/116"
+    },
+    {
+      "title": "दिशानिर्देश",
+      "url": "https://upload.indiacode.nic.in/showfile?actid=AC_PB_82_985_00002_00002_1553492693909&type=rule&filename=notification_pdf_13.6.2017_in_eng.pdf"
+    },
+    {
+      "title": "आवेदन पत्र",
+      "url": "https://punjab.gov.in/wp-content/uploads/2023/08/Dependent-Children-Pension.pdf"
+    },
+    {
+      "title": "विवरण",
+      "url": "https://sswcd.punjab.gov.in/en/financial-assistance-to-dependent-children-0"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

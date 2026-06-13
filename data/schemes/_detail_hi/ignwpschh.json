@@ -1,0 +1,39 @@
+{
+  "slug": "ignwpschh",
+  "name": "इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना-छत्तीसगढ़",
+  "shortTitle": "IGNWPSCHH",
+  "level": "state",
+  "state": "Chhattisgarh",
+  "nodalDept": "समाज कल्याण विभाग",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "इस योजना के तहत, गरीबी रेखा (बी. पी. एल.) से नीचे रहने वाली 40 से 79 वर्ष की आयु की विधवाओं को ₹500/- की वित्तीय सहायता प्रदान की जाती है ताकि उन्हें सम्मानजनक जीवन जीने में सहायता मिल सके। यह योजना केंद्र द्वारा प्रायोजित है।",
+  "descriptionMd": "यह योजना 'इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना' छत्तीसगढ़ सरकार के समाज कल्याण विभाग द्वारा लागू की जाती है। इस योजना के तहत, गरीबी रेखा (बी. पी. एल.) से नीचे रहने वाली 40 से 79 वर्ष की आयु की विधवाओं को सम्मानजनक जीवन जीने में सहायता के लिए वित्तीय सहायता प्रदान की जाती है। यह योजना केंद्र द्वारा प्रायोजित है।",
+  "benefitsMd": "- इस योजना के तहत, पात्र लाभार्थियों को ₹500/- की मासिक पेंशन मिलेगी (केंद्रीयोगदान-₹300/-, राज्योगदान-₹200/-)।",
+  "eligibilityMd": "1. आवेदक छत्तीसगढ़ का मूल निवासी होना चाहिए। 2. आवेदक विधवा होनी चाहिए। 3. विधवा की आयु 40 से 79 वर्ष के बीच होनी चाहिए। 4. विधवा का नाम गरीबी रेखा से नीचे रहने वाले परिवारों की सूची में शामिल किया जाना चाहिए। 5. विधवा को केंद्र या राजकीय की किसी अन्य पेंशन योजना से पेंशन का लाभ नहीं मिलना चाहिए।",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "पंजीकरण प्रक्रिया: * * * * चरण 1: * * [ई-डिस्ट्रिक्ट छत्तीसगढ़ पोर्टल] (https://edistrict.cgstate.gov.in/PACE/login.do#login) पर जाएँ। * * चरण 2: * * '[नागरिक लॉगिन]' (https://edistrict.cgstate.gov.in/PACE/newCitizenLogin.do?OWASP_CSRFTOKEN=BOYM-WK4L-T673-3EN7-TQUM-8UCU-34PN-LFXD) 'और' 'पर क्लिक करें। * * चरण 3: * * यदि आप एक नए उपयोगकर्ता हैं, तो '[नया पंजीकरण]' (https://edistrict.cgstate.gov.in/PACE/CitizenLogin.do?OWASP_CSRFTOKEN=BOYM-WK4L-T673-3EN7-TQUM-8UCU-34PN-LFXD) और '[नया पंजीकरण]' चुनें। * * चरण 4: * * अपना पंजीकरण विवरण दर्ज करें और 'जमा करें' पर क्लिक करें। * * चरण 5: * * आपका पंजीकरण सारांश प्रदर्शित होगा, और आपको अपने पंजीकृत मोबाइल नंबर पर अपना पासवर्ड प्राप्त होगा। आवेदन प्रक्रिया: * * * * चरण 1: * * [ई-डिस्ट्रिक्ट छत्तीसगढ़ पोर्टल] (https://edistrict.cgstate.gov.in/PACE/login.do#login) पर जाएँ। * * चरण 2: * * 'लॉगिन' या '[नागरिक लॉगिन] (https://edistrict.cgstate.gov.in/PACE/newCitizenLogin.do?OWASP_CSRFTOKEN=BOYM-WK4L-T673-3EN7-TQUM-8UCU-34PN-LFXD) और' [नागरिक लॉगिन] 'पर क्लिक करें। * * चरण 3: * * अपना उपयोगकर्ता नाम और पासवर्ड दर्ज करें, और फिर 'लॉगिन' पर क्लिक करें। चरण 4: लॉग इन करने के बाद, 'मेरी सेवा' पर क्लिक करें और आवेदन करने के लिए योजना की खोज करें। चरण 5: 'ऑनलाइन आवेदन करें' पर क्लिक करें और सभी आवश्यक विवरण भरें, आवश्यक दस्तावेज अपलोड करें और 'जमा करें' पर क्लिक करें",
+  "references": [
+    {
+      "title": "आधिकारिक वेबसाइट",
+      "url": "https://sw.cg.gov.in/en/indira-gandhi-national-widow-pension-scheme"
+    },
+    {
+      "title": "दिशानिर्देश",
+      "url": "https://sw.cg.gov.in/sites/default/files/pensionscheme.pdf"
+    },
+    {
+      "title": "अधिसूचना",
+      "url": "https://sw.cg.gov.in/sites/default/files/ssp.pdf"
+    },
+    {
+      "title": "ऑनलाइन आवेदन पोर्टल",
+      "url": "https://edistrict.cgstate.gov.in/PACE/instructionPageHome.do?serviceId=15&OWASP_CSRFTOKEN=TLII-0C0N-TR8G-HK2P-TPTO-S8ZV-NCWP-8YD9"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

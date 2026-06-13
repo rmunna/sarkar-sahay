@@ -1,0 +1,7 @@
+INSERT INTO pincode_places (pincode,post_office,places,district,district_slug,state,state_slug,taluk,lat,lng,page_slug) VALUES
+('362520','Diu','["Diu","Diu Zampa","Fudam"]','Diu','diu','Dadra & Nagar Haveli / Daman & Diu','dadra-nagar-haveli-daman-diu','Diu','20.71','70.9621','diu-362520'),
+('362540','Ghoghla','["Ghoghla"]','Diu','diu','Dadra & Nagar Haveli / Daman & Diu','dadra-nagar-haveli-daman-diu','Diu U.T.','20.7209','70.9399','ghoghla-362540'),
+('362570','Bucharvada','["Bucharvada","Wanakbara"]','Diu','diu','Dadra & Nagar Haveli / Daman & Diu','dadra-nagar-haveli-daman-diu','NA','20.7209','70.9399','bucharvada-362570'),
+('396210','Bhimpore','["Bhimpore","Daman","Dunetha","Kadaiya","Marvad","Nani Vankad","Varkund"]','Daman','daman','Dadra & Nagar Haveli / Daman & Diu','dadra-nagar-haveli-daman-diu','Daman','20.4143','72.8324','bhimpore-396210'),
+('396215','Dabhel','["Dabhel","Daman I.E.","Kachigam","Kunta"]','Daman','daman','Dadra & Nagar Haveli / Daman & Diu','dadra-nagar-haveli-daman-diu','Daman','20.4095','72.8834','dabhel-396215'),
+('396220','Dholar','["Dholar","Magarwada","Moti Daman"]','Daman','daman','Dadra & Nagar Haveli / Daman & Diu','dadra-nagar-haveli-daman-diu','Daman','20.3467','72.9847','dholar-396220');

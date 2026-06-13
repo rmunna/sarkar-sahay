@@ -1,0 +1,43 @@
+{
+  "slug": "vps",
+  "name": "विश्वकर्मा पेंशन योजना",
+  "shortTitle": "VPS",
+  "level": "state",
+  "state": "Kerala",
+  "nodalDept": "पिछड़ा वर्ग विकास विभाग",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "विश्वकर्मा समुदाय के पारंपरिक श्रमिकों को पेंशन देने के लिए केरल सरकार के पिछड़ा वर्ग विकास विभाग द्वारा \"विश्वकर्मा पेंशन\" योजना शुरू की गई थी।",
+  "descriptionMd": "केरल राज्य में 60 वर्ष की आयु पूरी करने वाले विश्वकर्मा समुदायों (बढ़ई (लकड़ी, लोहा, पत्थर), सुनार, मूसरी) के पारंपरिक श्रमिकों को पेंशन देने के लिए केरल सरकार के पिछड़े वर्ग विकास विभाग द्वारा \"विश्वकर्मा पेंशन\" योजना शुरू की गई थी।",
+  "benefitsMd": "1. 1100/- की मासिक पेंशन राशि पारंपरिक विश्वकर्मा समुदायों से संबंधित व्यक्तियों को दी जाएगी।",
+  "eligibilityMd": "1. आवेदक को केरल राज्य का स्थायी निवासी होना चाहिए। 2. आवेदक केरल राज्य के पारंपरिक विश्वकर्मा समुदाय से संबंधित होना चाहिए। 3. आवेदक की आयु 60 वर्ष से अधिक होनी चाहिए। 4. आवेदक की वार्षिक पारिवारिक आय ₹ 1,00,000-होनी चाहिए",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "* * चरण 1: * * आवेदक को केरल सरकार के पिछड़ा वर्ग विकास विभाग की [आधिकारिक वेबसाइट] (https://bcdd.kerala.gov.in/en/schemes/development-schemes/viswakarma-pension) पर जाना चाहिए और [आवेदन पत्र] (https://bcdd.kerala.gov.in/wp-content/uploads/2021/07/Viswakarma-Pension-Application-Form-2.pdf) डाउनलोड करना चाहिए। * * चरण 02: * आवेदन पत्र को पूरी तरह से भरें और इसे सभी प्रासंगिक दस्तावेजों के साथ निम्नलिखित पते पर भेजेंः निदेशक, पिछड़ा वर्ग विकास विभाग अय्यंकली भवन, चौथी मंजिल, कनकनगर वेल्लयांबलम, कावडियार पी. ओ., तिरुवनंतपुरम-695003, केरल",
+  "references": [
+    {
+      "title": "आधिकारिक वेबसाइट",
+      "url": "https://bcdd.kerala.gov.in/en/schemes/development-schemes/viswakarma-pension/"
+    },
+    {
+      "title": "ऑनलाइन पोर्टल",
+      "url": "http://www.eep.bcdd.kerala.gov.in/"
+    },
+    {
+      "title": "अधिसूचना",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2021/07/Viswakarma-Pension-Notification-1.pdf"
+    },
+    {
+      "title": "आवेदन पत्र",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2021/07/Viswakarma-Pension-Application-Form-2.pdf"
+    },
+    {
+      "title": "सरकारी आदेश",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2018/11/16-01.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13"
+}

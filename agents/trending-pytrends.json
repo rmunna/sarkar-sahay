@@ -1,92 +1,251 @@
 {
-  "scannedAt": "2026-06-12T15:44:29.122852",
+  "scannedAt": "2026-06-13T09:10:19.181498",
   "results": [
     {
-      "topic": "bigg boss 20 contestants list",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "wbjee",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "wbjee-2026-exam-guide",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "iiit results 2026 ap",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
-      "guide_exists": null,
+      "topic": "sslc revaluation result 2026",
+      "category": "Jobs",
+      "rising_value": 1450,
+      "guide_exists": "board-exam-revaluation-apply",
       "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
+      "is_scheme": false
+    },
+    {
+      "topic": "bstc result 2026 rajasthan",
+      "category": "Jobs",
+      "rising_value": 1300,
+      "guide_exists": "rajasthan-devnarayan-scooty-scheme",
+      "is_spike": true,
+      "is_scheme": false
     },
     {
       "topic": "mht cet 1st attempt result date 2026 pcm",
-      "category": "Realtime RSS (IN-MH)",
-      "rising_value": 100,
+      "category": "Jobs",
+      "rising_value": 1150,
       "guide_exists": "mht-cet-2026-exam-guide",
       "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
+      "is_scheme": false
+    },
+    {
+      "topic": "bstc result 2026",
+      "category": "Jobs",
+      "rising_value": 1150,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "mht cet pcm result date 2026",
+      "category": "Jobs",
+      "rising_value": 1050,
+      "guide_exists": "mht-cet-2026-exam-guide",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "upsc prelims 2026 result",
+      "category": "Jobs",
+      "rising_value": 550,
+      "guide_exists": "upsc-cse-prelims-2026-answer-key",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "mht cet 1st attempt result date 2026",
+      "category": "Jobs",
+      "rising_value": 350,
+      "guide_exists": "mht-cet-2026-exam-guide",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "msbte result summer 2026",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "mht cet result date 2026",
+      "category": "Jobs",
+      "rising_value": 250,
+      "guide_exists": "mht-cet-2026-exam-guide",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "mht cet result",
+      "category": "Jobs",
+      "rising_value": 250,
+      "guide_exists": "mht-cet-2026-exam-guide",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "cet result",
+      "category": "Jobs",
+      "rising_value": 160,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "cbse second board exam result date 2026",
+      "category": "Jobs",
+      "rising_value": 160,
+      "guide_exists": "cbse-board-exam-admit-card-fix",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "cet result date 2026",
+      "category": "Jobs",
+      "rising_value": 160,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
     }
   ],
   "opportunities": [
     {
-      "topic": "bigg boss 20 contestants list",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "iiit results 2026 ap",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
+      "topic": "bstc result 2026",
+      "category": "Jobs",
+      "rising_value": 1150,
       "guide_exists": null,
       "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
+      "is_scheme": false
+    },
+    {
+      "topic": "msbte result summer 2026",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "cet result",
+      "category": "Jobs",
+      "rising_value": 160,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "cet result date 2026",
+      "category": "Jobs",
+      "rising_value": 160,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
     }
   ],
   "covered": [
     {
-      "topic": "wbjee",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "wbjee-2026-exam-guide",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
+      "topic": "sslc revaluation result 2026",
+      "category": "Jobs",
+      "rising_value": 1450,
+      "guide_exists": "board-exam-revaluation-apply",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "bstc result 2026 rajasthan",
+      "category": "Jobs",
+      "rising_value": 1300,
+      "guide_exists": "rajasthan-devnarayan-scooty-scheme",
+      "is_spike": true,
+      "is_scheme": false
     },
     {
       "topic": "mht cet 1st attempt result date 2026 pcm",
-      "category": "Realtime RSS (IN-MH)",
-      "rising_value": 100,
+      "category": "Jobs",
+      "rising_value": 1150,
       "guide_exists": "mht-cet-2026-exam-guide",
       "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
+      "is_scheme": false
+    },
+    {
+      "topic": "mht cet pcm result date 2026",
+      "category": "Jobs",
+      "rising_value": 1050,
+      "guide_exists": "mht-cet-2026-exam-guide",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "upsc prelims 2026 result",
+      "category": "Jobs",
+      "rising_value": 550,
+      "guide_exists": "upsc-cse-prelims-2026-answer-key",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "mht cet 1st attempt result date 2026",
+      "category": "Jobs",
+      "rising_value": 350,
+      "guide_exists": "mht-cet-2026-exam-guide",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "mht cet result date 2026",
+      "category": "Jobs",
+      "rising_value": 250,
+      "guide_exists": "mht-cet-2026-exam-guide",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "mht cet result",
+      "category": "Jobs",
+      "rising_value": 250,
+      "guide_exists": "mht-cet-2026-exam-guide",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "cbse second board exam result date 2026",
+      "category": "Jobs",
+      "rising_value": 160,
+      "guide_exists": "cbse-board-exam-admit-card-fix",
+      "is_spike": true,
+      "is_scheme": false
     }
   ],
   "spike_candidates": [
     {
-      "topic": "iiit results 2026 ap",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
+      "topic": "bstc result 2026",
+      "category": "Jobs",
+      "rising_value": 1150,
       "guide_exists": null,
       "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
+      "is_scheme": false
+    },
+    {
+      "topic": "msbte result summer 2026",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "cet result",
+      "category": "Jobs",
+      "rising_value": 160,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "cet result date 2026",
+      "category": "Jobs",
+      "rising_value": 160,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
     }
   ],
   "scheme_opportunities": []
