@@ -1,109 +1,91 @@
 {
-  "scanTime": "2026-06-13T07:40:32.393Z",
-  "elapsedSeconds": 50.1,
-  "changesDetected": 15,
+  "scanTime": "2026-06-13T07:46:14.010Z",
+  "elapsedSeconds": 41.4,
+  "changesDetected": 12,
   "noiseDetected": 1,
   "changes": [
     {
       "site": "SBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-06-13T07:39:47.299Z"
-    },
-    {
-      "site": "RBI Careers",
-      "type": "LINK_CHANGE",
-      "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-13T07:39:46.787Z"
-    },
-    {
-      "site": "Indian Army",
-      "type": "TEXT_NOTICE",
-      "url": "https://joinindianarmy.nic.in/",
-      "detectedAt": "2026-06-13T07:39:47.138Z"
-    },
-    {
-      "site": "Indian Navy",
-      "type": "TEXT_NOTICE",
-      "url": "https://www.joinindiannavy.gov.in/",
-      "detectedAt": "2026-06-13T07:39:47.599Z"
+      "detectedAt": "2026-06-13T07:45:37.714Z"
     },
     {
       "site": "CISF",
       "type": "TEXT_NOTICE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-13T07:40:01.333Z"
+      "detectedAt": "2026-06-13T07:45:42.850Z"
     },
     {
       "site": "BSF",
       "type": "TEXT_NOTICE",
       "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-06-13T07:40:01.247Z"
+      "detectedAt": "2026-06-13T07:45:42.618Z"
     },
     {
       "site": "KVS",
       "type": "TEXT_NOTICE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-13T07:40:02.778Z"
+      "detectedAt": "2026-06-13T07:45:47.355Z"
     },
     {
       "site": "NVS (Navodaya)",
       "type": "TEXT_NOTICE",
       "url": "https://navodaya.gov.in/",
-      "detectedAt": "2026-06-13T07:40:03.833Z"
+      "detectedAt": "2026-06-13T07:45:45.366Z"
     },
     {
       "site": "UPPSC",
       "type": "TEXT_NOTICE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-13T07:40:07.434Z"
+      "detectedAt": "2026-06-13T07:45:48.866Z"
     },
     {
       "site": "RPSC",
       "type": "TEXT_NOTICE",
       "url": "https://rpsc.rajasthan.gov.in/",
-      "detectedAt": "2026-06-13T07:40:06.820Z"
+      "detectedAt": "2026-06-13T07:45:48.388Z"
     },
     {
       "site": "TNPSC",
       "type": "TEXT_NOTICE",
       "url": "https://www.tnpsc.gov.in/",
-      "detectedAt": "2026-06-13T07:40:06.989Z"
+      "detectedAt": "2026-06-13T07:45:48.792Z"
     },
     {
       "site": "GPSC",
       "type": "TEXT_NOTICE",
       "url": "https://gpsc.gujarat.gov.in/",
-      "detectedAt": "2026-06-13T07:40:12.933Z"
+      "detectedAt": "2026-06-13T07:45:54.621Z"
     },
     {
       "site": "HPSC",
       "type": "TEXT_NOTICE",
       "url": "https://www.hpsc.gov.in/",
-      "detectedAt": "2026-06-13T07:40:12.982Z"
+      "detectedAt": "2026-06-13T07:45:54.748Z"
     },
     {
       "site": "DSSSB",
       "type": "TEXT_NOTICE",
       "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-06-13T07:40:17.872Z"
+      "detectedAt": "2026-06-13T07:45:59.633Z"
     },
     {
       "site": "UP Board",
       "type": "TEXT_NOTICE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-13T07:40:17.518Z"
+      "detectedAt": "2026-06-13T07:46:00.058Z"
     }
   ],
   "noiseChanges": [
     {
-      "site": "KPSC/KEA",
+      "site": "RBI Careers",
       "type": "CONTENT_CHANGE",
-      "url": "https://cetonline.karnataka.gov.in/kea/",
-      "detectedAt": "2026-06-13T07:40:11.869Z"
+      "url": "https://opportunities.rbi.org.in/",
+      "detectedAt": "2026-06-13T07:45:36.992Z"
     }
   ],
-  "errors": 11,
+  "errors": 13,
   "errorDetails": [
     {
       "site": "NABARD",
@@ -113,6 +95,16 @@
     {
       "site": "RRB (Railway)",
       "url": "https://www.rrbcdg.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "Indian Army",
+      "url": "https://joinindianarmy.nic.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "Indian Navy",
+      "url": "https://www.joinindiannavy.gov.in/",
       "error": "Timeout"
     },
     {
