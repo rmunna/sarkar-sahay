@@ -59,7 +59,7 @@ export default function EligibilityPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
       <nav className="text-sm text-gray-500 mb-4">
-        <Link href="/" className="hover:text-blue-600">Home</Link> / <span className="text-gray-800">Eligibility Checker</span>
+        <Link href="/" className="hover:text-orange-600">Home</Link> / <span className="text-gray-800">Eligibility Checker</span>
       </nav>
 
       <h1 className="text-2xl sm:text-3xl font-bold text-gray-900">Government Scheme Eligibility Checker</h1>
@@ -83,7 +83,7 @@ export default function EligibilityPage() {
               {slug.replace(/-/g, " ").replace(/\b\w/g, m => m.toUpperCase())} <span className="text-gray-400">({n})</span>
             </Link>
           ))}
-          <Link href="/schemes" className="rounded-full bg-blue-600 px-3 py-1.5 text-sm font-medium text-white hover:bg-blue-700">All schemes →</Link>
+          <Link href="/schemes" className="rounded-full bg-orange-600 px-3 py-1.5 text-sm font-medium text-white hover:bg-orange-700">All schemes →</Link>
         </div>
       </section>
 
@@ -91,7 +91,7 @@ export default function EligibilityPage() {
         <h2 className="text-lg font-semibold text-gray-900">Popular schemes to check</h2>
         <ul className="mt-3 grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-1.5">
           {curated.map(s => (
-            <li key={s.id}><Link href={s.guidePath} className="text-sm text-blue-700 hover:underline">{s.name}</Link></li>
+            <li key={s.id}><Link href={s.guidePath} className="text-sm text-orange-700 hover:underline">{s.name}</Link></li>
           ))}
         </ul>
       </section>

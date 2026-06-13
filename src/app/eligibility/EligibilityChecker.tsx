@@ -99,7 +99,7 @@ export default function EligibilityChecker({ curated, catalog, states }: {
     return [...m.entries()].sort((a, b) => b[1].length - a[1].length);
   }, [fBroad]);
 
-  const fieldCls = "w-full rounded-lg border border-gray-300 px-3 py-2.5 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 focus:outline-none bg-white";
+  const fieldCls = "w-full rounded-lg border border-gray-300 px-3 py-2.5 text-sm focus:ring-2 focus:ring-orange-500 focus:border-orange-400 focus:outline-none bg-white";
   const labelCls = "block text-xs font-medium text-gray-500 uppercase tracking-wide mb-1.5";
 
   return (
@@ -155,7 +155,7 @@ export default function EligibilityChecker({ curated, catalog, states }: {
           <label className="flex items-center gap-2 cursor-pointer"><input type="checkbox" checked={hasBplCard} onChange={e => setHasBplCard(e.target.checked)} className="h-4 w-4 rounded border-gray-300" />BPL / priority card</label>
         </div>
 
-        <button type="submit" className="mt-6 w-full rounded-xl bg-blue-600 px-6 py-3 text-sm font-semibold text-white shadow-sm hover:bg-blue-700 transition">
+        <button type="submit" className="mt-6 w-full rounded-xl bg-orange-600 px-6 py-3 text-sm font-semibold text-white shadow-sm hover:bg-orange-700 transition">
           Find my schemes →
         </button>
       </form>
@@ -179,13 +179,13 @@ export default function EligibilityChecker({ curated, catalog, states }: {
                 {precise.map(({ scheme, checkManually }) => (
                   <li key={scheme.id} className="rounded-xl border border-green-200 bg-green-50/50 p-4">
                     <div className="flex flex-wrap items-baseline justify-between gap-2">
-                      <Link href={scheme.guidePath} className="font-semibold text-blue-700 hover:underline">{scheme.name}</Link>
+                      <Link href={scheme.guidePath} className="font-semibold text-orange-700 hover:underline">{scheme.name}</Link>
                       <span className="text-xs rounded-full bg-white px-2 py-0.5 text-gray-600">{catLabel(scheme.schemeCategory)}</span>
                     </div>
                     {scheme.benefitSummary && <p className="mt-1 text-sm text-gray-700">{scheme.benefitSummary}</p>}
                     {checkManually.length > 0 && <p className="mt-2 text-xs text-amber-700">Also check: {checkManually.slice(0, 3).join(" · ")}</p>}
                     <div className="mt-2 flex gap-4 text-sm">
-                      <Link href={scheme.guidePath} className="text-blue-600 font-medium hover:underline">How to apply →</Link>
+                      <Link href={scheme.guidePath} className="text-orange-600 font-medium hover:underline">How to apply →</Link>
                       {scheme.officialLink && <a href={scheme.officialLink} target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:underline">Official ↗</a>}
                     </div>
                   </li>
@@ -210,7 +210,7 @@ export default function EligibilityChecker({ curated, catalog, states }: {
                   <h4 className="text-sm font-medium text-gray-700 mb-2">{catLabel(cat)} <span className="text-gray-400 font-normal">({list.length})</span></h4>
                   <ul className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-1.5">
                     {list.slice(0, CAP).map(s => (
-                      <li key={s.slug}><Link href={s.guidePath} className="text-sm text-blue-700 hover:underline">{s.name}</Link></li>
+                      <li key={s.slug}><Link href={s.guidePath} className="text-sm text-orange-700 hover:underline">{s.name}</Link></li>
                     ))}
                   </ul>
                   {list.length > CAP && (

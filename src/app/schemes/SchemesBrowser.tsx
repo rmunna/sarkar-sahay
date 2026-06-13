@@ -29,7 +29,7 @@ export default function SchemesBrowser({ schemes, states, categories }: {
     );
   }, [schemes, q, stateF, catF]);
 
-  const selectCls = "rounded-lg border border-gray-300 px-3 py-2 text-sm bg-white focus:border-blue-500 focus:outline-none";
+  const selectCls = "rounded-lg border border-gray-300 px-3 py-2 text-sm bg-white focus:border-orange-400 focus:outline-none";
 
   return (
     <div>
@@ -56,7 +56,7 @@ export default function SchemesBrowser({ schemes, states, categories }: {
       <ul className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2">
         {filtered.slice(0, shown).map(s => (
           <li key={s.slug} className="leading-snug">
-            <Link href={`/scheme/${s.slug}`} className="text-sm text-blue-700 hover:underline">{s.name}</Link>
+            <Link href={`/scheme/${s.slug}`} className="text-sm text-orange-700 hover:underline">{s.name}</Link>
             {s.state && <span className="ml-1 text-xs text-gray-400">· {label(s.state)}</span>}
           </li>
         ))}

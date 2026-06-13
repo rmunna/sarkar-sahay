@@ -244,7 +244,7 @@ export default async function HindiSchemePage({ params }: Props) {
           {/* Quick facts */}
           <section id="facts" className="mt-6 scroll-mt-20">
             <h2 className="sec-h2">{shortName} — मुख्य तथ्य</h2>
-            <div className="overflow-hidden rounded-xl border border-gray-200 bg-white">
+            <div className="overflow-x-auto rounded-xl border border-gray-200 bg-white">
               <table className="w-full text-sm">
                 <tbody>
                   {nodalDept && <tr className="border-b border-gray-100"><td className="px-4 py-3 font-medium text-gray-600 w-44 align-top">नोडल मंत्रालय / विभाग</td><td className="px-4 py-3 text-gray-900">{nodalDept}</td></tr>}

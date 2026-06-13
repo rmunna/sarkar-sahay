@@ -73,9 +73,16 @@
 
   /* ── Tables — clean, navy header, scannable ──────────────────────────── */
   .guide-content table {
-    @apply w-full text-sm mb-6;
+    @apply text-sm mb-6;
+    /* responsive: size to content but never exceed the container — scroll
+       horizontally on small screens instead of breaking the page layout */
+    display: block;
+    width: max-content;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
     border-collapse: separate; border-spacing: 0;
-    border: 1px solid var(--line); border-radius: 12px; overflow: hidden;
+    border: 1px solid var(--line); border-radius: 12px;
   }
   .guide-content thead { background: #f1f5f9; }
   .guide-content th {
