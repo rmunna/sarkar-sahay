@@ -1,10 +1,10 @@
 {
-  "scannedAt": "2026-06-13T09:10:19.181498",
+  "scannedAt": "2026-06-13T13:12:23.315833",
   "results": [
     {
       "topic": "sslc revaluation result 2026",
       "category": "Jobs",
-      "rising_value": 1450,
+      "rising_value": 1300,
       "guide_exists": "board-exam-revaluation-apply",
       "is_spike": true,
       "is_scheme": false
@@ -12,7 +12,7 @@
     {
       "topic": "bstc result 2026 rajasthan",
       "category": "Jobs",
-      "rising_value": 1300,
+      "rising_value": 1250,
       "guide_exists": "rajasthan-devnarayan-scooty-scheme",
       "is_spike": true,
       "is_scheme": false
@@ -20,7 +20,7 @@
     {
       "topic": "mht cet 1st attempt result date 2026 pcm",
       "category": "Jobs",
-      "rising_value": 1150,
+      "rising_value": 1200,
       "guide_exists": "mht-cet-2026-exam-guide",
       "is_spike": true,
       "is_scheme": false
@@ -28,9 +28,17 @@
     {
       "topic": "bstc result 2026",
       "category": "Jobs",
-      "rising_value": 1150,
+      "rising_value": 1200,
       "guide_exists": null,
       "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "pre deled 2026",
+      "category": "Education",
+      "rising_value": 1200,
+      "guide_exists": "up-deled-result-2026",
+      "is_spike": false,
       "is_scheme": false
     },
     {
@@ -44,7 +52,7 @@
     {
       "topic": "upsc prelims 2026 result",
       "category": "Jobs",
-      "rising_value": 550,
+      "rising_value": 650,
       "guide_exists": "upsc-cse-prelims-2026-answer-key",
       "is_spike": true,
       "is_scheme": false
@@ -82,22 +90,6 @@
       "is_scheme": false
     },
     {
-      "topic": "cet result",
-      "category": "Jobs",
-      "rising_value": 160,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "cbse second board exam result date 2026",
-      "category": "Jobs",
-      "rising_value": 160,
-      "guide_exists": "cbse-board-exam-admit-card-fix",
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
       "topic": "cet result date 2026",
       "category": "Jobs",
       "rising_value": 160,
@@ -110,7 +102,7 @@
     {
       "topic": "bstc result 2026",
       "category": "Jobs",
-      "rising_value": 1150,
+      "rising_value": 1200,
       "guide_exists": null,
       "is_spike": true,
       "is_scheme": false
@@ -119,14 +111,6 @@
       "topic": "msbte result summer 2026",
       "category": "Jobs",
       "rising_value": 300,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "cet result",
-      "category": "Jobs",
-      "rising_value": 160,
       "guide_exists": null,
       "is_spike": true,
       "is_scheme": false
@@ -144,7 +128,7 @@
     {
       "topic": "sslc revaluation result 2026",
       "category": "Jobs",
-      "rising_value": 1450,
+      "rising_value": 1300,
       "guide_exists": "board-exam-revaluation-apply",
       "is_spike": true,
       "is_scheme": false
@@ -152,7 +136,7 @@
     {
       "topic": "bstc result 2026 rajasthan",
       "category": "Jobs",
-      "rising_value": 1300,
+      "rising_value": 1250,
       "guide_exists": "rajasthan-devnarayan-scooty-scheme",
       "is_spike": true,
       "is_scheme": false
@@ -160,9 +144,17 @@
     {
       "topic": "mht cet 1st attempt result date 2026 pcm",
       "category": "Jobs",
-      "rising_value": 1150,
+      "rising_value": 1200,
       "guide_exists": "mht-cet-2026-exam-guide",
       "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "pre deled 2026",
+      "category": "Education",
+      "rising_value": 1200,
+      "guide_exists": "up-deled-result-2026",
+      "is_spike": false,
       "is_scheme": false
     },
     {
@@ -176,7 +168,7 @@
     {
       "topic": "upsc prelims 2026 result",
       "category": "Jobs",
-      "rising_value": 550,
+      "rising_value": 650,
       "guide_exists": "upsc-cse-prelims-2026-answer-key",
       "is_spike": true,
       "is_scheme": false
@@ -204,21 +196,13 @@
       "guide_exists": "mht-cet-2026-exam-guide",
       "is_spike": true,
       "is_scheme": false
-    },
-    {
-      "topic": "cbse second board exam result date 2026",
-      "category": "Jobs",
-      "rising_value": 160,
-      "guide_exists": "cbse-board-exam-admit-card-fix",
-      "is_spike": true,
-      "is_scheme": false
     }
   ],
   "spike_candidates": [
     {
       "topic": "bstc result 2026",
       "category": "Jobs",
-      "rising_value": 1150,
+      "rising_value": 1200,
       "guide_exists": null,
       "is_spike": true,
       "is_scheme": false
@@ -227,14 +211,6 @@
       "topic": "msbte result summer 2026",
       "category": "Jobs",
       "rising_value": 300,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false
-    },
-    {
-      "topic": "cet result",
-      "category": "Jobs",
-      "rising_value": 160,
       "guide_exists": null,
       "is_spike": true,
       "is_scheme": false

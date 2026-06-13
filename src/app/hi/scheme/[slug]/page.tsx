@@ -70,7 +70,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const where = s.level === "state" ? stateLabel(s.state) : "भारत";
   // Front-load "आवेदन कैसे करें" (how to apply) + short name to survive SERP truncation.
   const shortName = s.name.length <= 42 ? s.name : (s.name.split(/\s+[-–—:]\s*/)[0].trim() || s.name);
-  const title = `${shortName}: आवेदन कैसे करें, पात्रता और लाभ (${where})`;
+  const title = `${shortName}: आवेदन कैसे करें — स्टेप-बाय-स्टेप गाइड (${where})`;
   const description = (detail?.briefDescription || s.benefitSummary || `${s.name}: पात्रता, लाभ और आवेदन प्रक्रिया।`).slice(0, 160);
   const BASE_URL = "https://www.citizennest.com";
   return {
@@ -182,7 +182,7 @@ export default async function HindiSchemePage({ params }: Props) {
         <article className="min-w-0 bg-white rounded-2xl border border-gray-100 border-t-4 border-t-[#0f2744] shadow-sm px-6 py-8 sm:px-8 lg:px-10">
           <h1 className="text-2xl md:text-3xl font-bold text-gray-900 leading-tight">{s.name}</h1>
           <div className="mt-3 flex flex-wrap gap-2 text-xs">
-            <span className="rounded-full bg-blue-50 text-blue-700 px-2.5 py-1">{where}</span>
+            <span className="rounded-full bg-orange-50 text-orange-700 px-2.5 py-1">{where}</span>
             <span className="rounded-full bg-gray-100 text-gray-700 px-2.5 py-1">{catLabel(s.schemeCategory)}</span>
             {s.level === "central" && <span className="rounded-full bg-emerald-50 text-emerald-700 px-2.5 py-1">केंद्रीय योजना</span>}
             {detail?.benefitType && <span className="rounded-full bg-green-50 text-green-700 px-2.5 py-1">{detail.benefitType}</span>}
@@ -191,7 +191,7 @@ export default async function HindiSchemePage({ params }: Props) {
 
           {detail && (
             <p className="mt-3 text-xs text-gray-400">
-              {readMins} मिनट पढ़ें{updated ? ` · अपडेट ${updated}` : ""} · स्रोत: myScheme (भारत सरकार)
+              {readMins} मिनट पढ़ें{updated ? ` · अपडेट ${updated}` : ""}
             </p>
           )}
 
@@ -227,11 +227,11 @@ export default async function HindiSchemePage({ params }: Props) {
 
           {/* Full step-by-step Hindi guide, where one exists */}
           {guideSlug && (
-            <Link href={`/hi/guide/${guideSlug}`} className="mt-6 flex items-start gap-3 rounded-xl border border-blue-200 bg-blue-50 p-4 hover:bg-blue-100 transition">
+            <Link href={`/hi/guide/${guideSlug}`} className="mt-6 flex items-start gap-3 rounded-xl border border-orange-200 bg-orange-50 p-4 hover:bg-orange-100 transition">
               <span className="text-xl">📖</span>
               <span>
-                <span className="block text-sm font-semibold text-blue-900">पूरी स्टेप-बाय-स्टेप गाइड पढ़ें</span>
-                <span className="block text-sm text-blue-800/80 mt-0.5">{s.name} — आवेदन गाइड →</span>
+                <span className="block text-sm font-semibold text-[#9a3412]">पूरी स्टेप-बाय-स्टेप गाइड पढ़ें</span>
+                <span className="block text-sm text-orange-800/80 mt-0.5">{s.name} — आवेदन गाइड →</span>
               </span>
             </Link>
           )}
@@ -313,10 +313,12 @@ export default async function HindiSchemePage({ params }: Props) {
               <h2 className="sec-h2">
                 संबंधित {catLabel(s.schemeCategory).toLowerCase()} योजनाएँ{s.state ? ` — ${where}` : ""}
               </h2>
-              <ul className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-1.5">
+              <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                 {related.map((r) => (
                   <li key={r.slug ?? r.id}>
-                    <Link href={`/hi/scheme/${r.slug ?? r.id}`} className="text-sm text-orange-700 hover:underline">{r.name}</Link>
+                    <Link href={`/hi/scheme/${r.slug ?? r.id}`} className="block p-4 bg-gray-50 border border-gray-200 rounded-xl hover:border-orange-300 hover:bg-orange-50 transition">
+                      <span className="text-sm font-semibold text-gray-800 leading-snug">{r.name}</span>
+                    </Link>
                   </li>
                 ))}
               </ul>

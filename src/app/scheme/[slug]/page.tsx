@@ -75,7 +75,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   // Front-load the high-intent keyword ("How to Apply") and use the short name
   // so it survives Google's ~60-char title truncation. Full name stays in H1.
   const shortName = s.name.length <= 42 ? s.name : (s.name.split(/\s+[-–—:]\s*/)[0].trim() || s.name);
-  const title = `${shortName}: How to Apply, Eligibility & Benefits (${where})`;
+  const title = `${shortName}: How to Apply Online — Step-by-Step Guide (${where})`;
   const description = (detail?.briefDescription || s.benefitSummary || `${s.name}: eligibility, benefits and how to apply.`).slice(0, 160);
   // Index only when the page carries real content (benefits + eligibility);
   // thin/un-ingested schemes stay noindex,follow to avoid scaled-content penalty.
@@ -180,8 +180,8 @@ export default async function SchemePage({ params }: Props) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
       <nav className="text-sm text-gray-500 mb-5 flex flex-wrap gap-1 items-center">
-        <Link href="/" className="hover:text-blue-600">Home</Link><span>/</span>
-        <Link href="/schemes" className="hover:text-blue-600">Schemes</Link><span>/</span>
+        <Link href="/" className="hover:text-orange-600">Home</Link><span>/</span>
+        <Link href="/schemes" className="hover:text-orange-600">Schemes</Link><span>/</span>
         <span className="text-gray-800 line-clamp-1">{s.name}</span>
       </nav>
 
@@ -189,7 +189,7 @@ export default async function SchemePage({ params }: Props) {
         <article className="min-w-0 bg-white rounded-2xl border border-gray-100 border-t-4 border-t-[#0f2744] shadow-sm px-6 py-8 sm:px-8 lg:px-10">
       <h1 className="text-2xl md:text-3xl font-bold text-gray-900 leading-tight">{s.name}</h1>
       <div className="mt-3 flex flex-wrap gap-2 text-xs">
-        <span className="rounded-full bg-blue-50 text-blue-700 px-2.5 py-1">{where}</span>
+        <span className="rounded-full bg-orange-50 text-orange-700 px-2.5 py-1">{where}</span>
         <span className="rounded-full bg-gray-100 text-gray-700 px-2.5 py-1">{catLabel(s.schemeCategory)}</span>
         {s.level === "central" && <span className="rounded-full bg-emerald-50 text-emerald-700 px-2.5 py-1">Central scheme</span>}
         {detail?.benefitType && <span className="rounded-full bg-green-50 text-green-700 px-2.5 py-1">{detail.benefitType}</span>}
@@ -199,7 +199,7 @@ export default async function SchemePage({ params }: Props) {
       {/* Freshness + reading time */}
       {detail && (
         <p className="mt-3 text-xs text-gray-400">
-          {readMins} min read{updated ? ` · Updated ${updated}` : ""} · Sourced from myScheme (Govt. of India)
+          {readMins} min read{updated ? ` · Updated ${updated}` : ""}
         </p>
       )}
 
@@ -209,7 +209,7 @@ export default async function SchemePage({ params }: Props) {
           <summary className="cursor-pointer px-4 py-3 text-sm font-semibold text-gray-700">On this page</summary>
           <ul className="px-4 pb-3 space-y-1 text-sm">
             {toc.map(([id, label]) => (
-              <li key={id}><a href={`#${id}`} className="text-blue-600 hover:underline">{label}</a></li>
+              <li key={id}><a href={`#${id}`} className="text-orange-600 hover:underline">{label}</a></li>
             ))}
           </ul>
         </details>
@@ -235,11 +235,11 @@ export default async function SchemePage({ params }: Props) {
 
       {/* Full step-by-step guide, where we have one */}
       {guide && (
-        <Link href={`/guide/${guideSlug}`} className="mt-6 flex items-start gap-3 rounded-xl border border-blue-200 bg-blue-50 p-4 hover:bg-blue-100 transition">
+        <Link href={`/guide/${guideSlug}`} className="mt-6 flex items-start gap-3 rounded-xl border border-orange-200 bg-orange-50 p-4 hover:bg-orange-100 transition">
           <span className="text-xl">📖</span>
           <span>
-            <span className="block text-sm font-semibold text-blue-900">Read our full step-by-step guide</span>
-            <span className="block text-sm text-blue-800/80 mt-0.5">{guide.title} →</span>
+            <span className="block text-sm font-semibold text-[#9a3412]">Read our full step-by-step guide</span>
+            <span className="block text-sm text-orange-800/80 mt-0.5">{guide.title} →</span>
           </span>
         </Link>
       )}
@@ -267,7 +267,7 @@ export default async function SchemePage({ params }: Props) {
           ? <div className="guide-content" dangerouslySetInnerHTML={{ __html: eligHtml }} />
           : s.eligibility?.otherRequirements?.length
             ? <ul className="list-disc pl-5 text-gray-800 space-y-1">{s.eligibility.otherRequirements.map((r, i) => <li key={i}>{r}</li>)}</ul>
-            : <p className="text-gray-700">Eligibility depends on your age, income, category and state. Use our <Link href="/eligibility" className="text-blue-600 font-medium hover:underline">free eligibility checker</Link> or the official page for full criteria.</p>}
+            : <p className="text-gray-700">Eligibility depends on your age, income, category and state. Use our <Link href="/eligibility" className="text-orange-600 font-medium hover:underline">free eligibility checker</Link> or the official page for full criteria.</p>}
       </section>
 
       {/* Exclusions */}
@@ -283,7 +283,7 @@ export default async function SchemePage({ params }: Props) {
         <h2 className="sec-h2">How to Apply for {shortName}{detail?.applicationMode ? ` (${detail.applicationMode})` : ""}</h2>
         {applyHtml && <div className="guide-content" dangerouslySetInnerHTML={{ __html: applyHtml }} />}
         <div className="mt-3 flex flex-wrap gap-3">
-          <Link href="/eligibility" className="rounded-lg bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white hover:bg-blue-700">Check your eligibility →</Link>
+          <Link href="/eligibility" className="btn-primary">Check your eligibility →</Link>
         </div>
       </section>
 
@@ -293,7 +293,7 @@ export default async function SchemePage({ params }: Props) {
           <h2 className="sec-h2 !text-xl">Official sources</h2>
           <ul className="list-disc pl-5 text-sm space-y-1">
             {detail.references.slice(0, 5).map((r, i) => (
-              <li key={i}><a href={r.url} target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">{r.title || r.url}</a></li>
+              <li key={i}><a href={r.url} target="_blank" rel="noopener noreferrer" className="text-orange-600 hover:underline">{r.title || r.url}</a></li>
             ))}
           </ul>
         </section>
@@ -329,10 +329,12 @@ export default async function SchemePage({ params }: Props) {
           <h2 className="sec-h2">
             Related {catLabel(s.schemeCategory).toLowerCase()} schemes{s.state ? ` in ${where}` : ""}
           </h2>
-          <ul className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-1.5">
+          <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {related.map((r) => (
               <li key={r.slug ?? r.id}>
-                <Link href={`/scheme/${r.slug ?? r.id}`} className="text-sm text-blue-700 hover:underline">{r.name}</Link>
+                <Link href={`/scheme/${r.slug ?? r.id}`} className="block p-4 bg-gray-50 border border-gray-200 rounded-xl hover:border-orange-300 hover:bg-orange-50 transition">
+                  <span className="text-sm font-semibold text-gray-800 leading-snug">{r.name}</span>
+                </Link>
               </li>
             ))}
           </ul>
