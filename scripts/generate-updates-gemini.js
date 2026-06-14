@@ -423,7 +423,7 @@ Return ONLY valid JSON. Use null if genuinely not present (do not guess):
     }
     log(`  ✅ Gap-fill complete`);
   } catch (err) {
-    log(`  ⚠️  Gap-fill error: ${err.message?.slice(0, 80)}`);
+    log(`  ⚠️  Gap-fill error: ${err.message?.slice(0, 500)}`);
   }
   return ann;
 }
@@ -667,7 +667,7 @@ ${EXTRACT_JSON_SCHEMA}`;
     }
     return data;
   } catch (err) {
-    log(`  ⚠️  PDF extraction error: ${err.message?.slice(0, 100)}`);
+    log(`  ⚠️  PDF extraction error: ${err.message?.slice(0, 500)}`);
     return null;
   }
 }
@@ -698,7 +698,7 @@ ${EXTRACT_JSON_SCHEMA}`;
     }
     return data;
   } catch (err) {
-    log(`  ⚠️  Page text extraction error: ${err.message?.slice(0, 100)}`);
+    log(`  ⚠️  Page text extraction error: ${err.message?.slice(0, 500)}`);
     return null;
   }
 }
@@ -725,7 +725,7 @@ ${EXTRACT_JSON_SCHEMA}`;
     const data = JSON.parse(result.response.text());
     return data;
   } catch (err) {
-    log(`  ⚠️  Training data extraction error: ${err.message?.slice(0, 100)}`);
+    log(`  ⚠️  Training data extraction error: ${err.message?.slice(0, 500)}`);
     return null;
   }
 }
