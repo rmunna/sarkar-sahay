@@ -1,0 +1,66 @@
+{
+  "exam": "TNPSC Group 2 2026",
+  "generatedAt": "2026-06-14T16:12:53.460Z",
+  "plan": [
+    {
+      "slug": "apply-online",
+      "query": "TNPSC Group 2 2026 apply online application form",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "adda247.com",
+        "tnpsc.gov.in",
+        "apply.tnpscexams.in"
+      ]
+    },
+    {
+      "slug": "last-date",
+      "query": "TNPSC Group 2 2026 application last date",
+      "verdict": "HARD",
+      "strongTop5": 4,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "tnpsc.gov.in",
+        "careerpower.in"
+      ]
+    },
+    {
+      "slug": "admit-card",
+      "query": "TNPSC Group 2 2026 admit card download",
+      "verdict": "HARD",
+      "strongTop5": 5,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "adda247.com",
+        "careerpower.in"
+      ]
+    },
+    {
+      "slug": "syllabus",
+      "query": "TNPSC Group 2 2026 syllabus exam pattern",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "adda247.com",
+        "careerpower.in",
+        "tnpscstudymaterial.com"
+      ]
+    },
+    {
+      "slug": "salary",
+      "query": "TNPSC Group 2 2026 salary in hand pay scale",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "adda247.com",
+        "prepp.in",
+        "entri.app"
+      ]
+    }
+  ]
+}

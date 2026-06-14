@@ -1,0 +1,78 @@
+{
+  "exam": "RPSC RAS 2026",
+  "generatedAt": "2026-06-14T16:12:48.383Z",
+  "plan": [
+    {
+      "slug": "notification",
+      "query": "RPSC RAS 2026 notification",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "resultbharat.com",
+        "rpsc.rajasthan.gov.in",
+        "testbook.com"
+      ]
+    },
+    {
+      "slug": "apply-online",
+      "query": "RPSC RAS 2026 apply online application form",
+      "verdict": "WINNABLE",
+      "strongTop5": 2,
+      "ourPos": null,
+      "top3": [
+        "pw.live",
+        "sarkariresult.com.cm",
+        "theiashub.com"
+      ]
+    },
+    {
+      "slug": "last-date",
+      "query": "RPSC RAS 2026 application last date",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "sarkariresult.com.cm",
+        "adda247.com"
+      ]
+    },
+    {
+      "slug": "exam-date",
+      "query": "RPSC RAS 2026 exam date",
+      "verdict": "HARD",
+      "strongTop5": 5,
+      "ourPos": null,
+      "top3": [
+        "rpsc.rajasthan.gov.in",
+        "rpsc.rajasthan.gov.in",
+        "testbook.com"
+      ]
+    },
+    {
+      "slug": "answer-key",
+      "query": "RPSC RAS 2026 answer key",
+      "verdict": "HARD",
+      "strongTop5": 4,
+      "ourPos": null,
+      "top3": [
+        "rpsc.rajasthan.gov.in",
+        "rpsc.rajasthan.gov.in",
+        "freejobalert.com"
+      ]
+    },
+    {
+      "slug": "salary",
+      "query": "RPSC RAS 2026 salary in hand pay scale",
+      "verdict": "WINNABLE",
+      "strongTop5": 1,
+      "ourPos": null,
+      "top3": [
+        "studyiq.com",
+        "testbook.com",
+        "rajras.in"
+      ]
+    }
+  ]
+}
