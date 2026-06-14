@@ -1,0 +1,28 @@
+{
+  "slug": "nps-tsep",
+  "name": "National Pension Scheme For Traders And Self Employed Persons",
+  "shortTitle": "NPS-TSEP",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Labour and Employment",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "NPS for Traders & Self-Employed Persons is a voluntary pension scheme giving small shopkeepers and traders a guaranteed ₹3,000/month pension after age 60.",
+  "descriptionMd": "The National Pension Scheme for Traders and Self-Employed Persons is a voluntary, contributory pension scheme of the Ministry of Labour & Employment, for the old-age security of small shopkeepers, retailers and self-employed traders. You contribute a small monthly amount during your working years and receive a guaranteed pension after 60.",
+  "benefitsMd": "- A **guaranteed minimum pension of ₹3,000 per month** after you turn 60.\n- **Family pension:** if you die while receiving the pension, your spouse gets **50%** of it as a family pension.\n- **On disability:** if you become permanently disabled before 60 and can't keep contributing, your spouse may continue the scheme.",
+  "eligibilityMd": "- A **self-employed shop owner, retailer or trader (vyapari)**.\n- Aged **18 to 40 years**.\n- Annual business turnover **not above ₹1.5 crore**.",
+  "exclusionsMd": "You are **not** eligible if you are:\n- Covered under any government-contributed NPS, or a member of **EPFO / NPS / ESIC**.\n- An **income-tax payer**.\n- Already enrolled in **PM Shram Yogi Maandhan** or **PM Kisan Maandhan**.",
+  "applicationMode": "Online - via CSC",
+  "applicationMd": "Enrol at your nearest **Common Service Centre (CSC)**:\n\n**Step 1:** Visit the nearest CSC.\n**Step 2:** Carry your **Aadhaar card** and **savings/Jan Dhan bank account** details with IFSC (passbook/cheque/statement).\n**Step 3:** Pay the first contribution in cash to the Village Level Entrepreneur (VLE).\n**Step 4:** The VLE enters your Aadhaar number, name and date of birth for authentication and completes the online registration.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://maandhan.in/show_content.php?lang=1&level=1&ls_id=29&lid=29&page=6"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

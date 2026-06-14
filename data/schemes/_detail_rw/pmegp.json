@@ -1,0 +1,61 @@
+{
+  "slug": "pmegp",
+  "name": "Prime Minister's Employment Generation Programme",
+  "shortTitle": "PMEGP",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Micro, Small and Medium Enterprises",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Individual",
+    "Industries"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Prime Minister's Employment Generation Programme (PMEGP) is a credit-linked subsidy scheme that helps you set up a new micro-enterprise — the government gives a margin-money subsidy on the bank loan.",
+  "descriptionMd": "Prime Minister's Employment Generation Programme (PMEGP), launched in August 2008 and run by the Ministry of MSME, helps people start new micro-enterprises by combining a bank loan with a government **margin-money (capital) subsidy**. The aim is to generate self-employment, especially in rural areas and for first-time entrepreneurs.",
+  "benefitsMd": "- A **margin-money subsidy** on the project cost for setting up a new micro-enterprise, delivered through your financing bank.\n- The subsidy share is **higher for special categories** (SC/ST, OBC, minorities, women, ex-servicemen, PwD, etc.) and for projects in **rural areas**.\n- A separate provision also supports the **upgradation** of existing PMEGP / REGP / MUDRA units.",
+  "eligibilityMd": "- Any **individual above 18 years** — there is **no income ceiling**.\n- For a project costing **above ₹10 lakh in manufacturing** or **above ₹5 lakh in business/service**, you need at least a **Class VIII pass**.\n- Assistance is only for **new projects** sanctioned specifically under PMEGP.",
+  "exclusionsMd": "- **Existing units** (under PMRY, REGP or any other government scheme) and units that have **already taken a government subsidy** are not eligible.\n- **Only one person per family** (self + spouse) can get assistance.\n- A **negative list of activities** (e.g. certain polluting or prohibited trades) is excluded.",
+  "applicationMode": "Online",
+  "applicationMd": "Apply online for a new unit:\n\n**Step 1:** Go to the PMEGP e-portal ([kviconline.gov.in/pmegpeportal](https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp)).\n**Step 2:** Under **'Application For New Unit'**, click **'Apply'**.\n**Step 3:** Fill in the online application form and click **'Save Applicant Data'**.\n**Step 4:** Upload the required documents and submit. Existing units can apply for a 2nd loan under the separate 'Existing Units' tab.",
+  "references": [
+    {
+      "title": "Guidelines-2023",
+      "url": "https://msme.gov.in/sites/default/files/Revisedguidelines07.12.2023.pdf"
+    },
+    {
+      "title": "Guidelines-2022",
+      "url": "https://www.kviconline.gov.in/pmegpeportal/dashboard/notification/PMEGP_Guidelines_Certified_2022_3.pdf"
+    },
+    {
+      "title": "Final Guidelines For Second Loan",
+      "url": "https://msme.gov.in/sites/default/files/final-guidlines-for-2nd-loan.pdf"
+    },
+    {
+      "title": "Exemption Of COVID Vears Viz. FY 2020-21 & FY 2021-22 While Considering Profitability Of Existing PMEGP/REGP/ MUDRA Units Applying For 2hd Loan Under PMEGP",
+      "url": "https://www.kviconline.gov.in/pmegpeportal/dashboard/notification/Circular%20-%20issued.pdf"
+    },
+    {
+      "title": "Receipt Of Applications In Physical Form Under PMEGP",
+      "url": "https://www.kviconline.gov.in/pmegpeportal/dashboard/notification/Drfat%20signed.pdf"
+    },
+    {
+      "title": "Return Or Refund Of PMEGP Margin Money Subsidy",
+      "url": "https://www.kviconline.gov.in/pmegpeportal/dashboard/notification/SoP_Compendium_14_12_2023.pdf"
+    },
+    {
+      "title": "Agency Wise Contact Details",
+      "url": "https://www.kviconline.gov.in/pmegpeportal/dynamicdistrict/officeSearchForm.jsp"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://www.kviconline.gov.in/pmegpeportal/jsp/FAQ.jsp"
+    },
+    {
+      "title": "Scheme URL",
+      "url": "https://msme.gov.in/1-prime-ministers-employment-generation-programme-pmegp"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

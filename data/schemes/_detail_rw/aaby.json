@@ -1,0 +1,36 @@
+{
+  "slug": "aaby",
+  "name": "Aam Aadmi Bima Yojana",
+  "shortTitle": "AABY",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Labour and Employment",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Aam Aadmi Bima Yojana (AABY) is a low-cost social-security insurance for rural landless families — life and disability cover plus a scholarship for children, for a ₹200/year premium (half subsidised).",
+  "descriptionMd": "Aam Aadmi Bima Yojana (AABY) is a social-security scheme of the Ministry of Labour & Employment that insures the head or an earning member of rural landless households. It provides life and accident cover and an education scholarship for the member's children, at a heavily subsidised premium.",
+  "benefitsMd": "- **Natural death:** ₹30,000 to the nominee.\n- **Accidental death:** ₹75,000.\n- **Total permanent disability** (loss of two eyes/limbs in an accident): ₹75,000.\n- **Partial permanent disability** (loss of one eye/limb): ₹37,500.\n- **Scholarship:** ₹100 per month for up to two children studying in Classes 9–12 (paid half-yearly).\n- **Premium:** just ₹200 per member per year, of which the Social Security Fund subsidises 50%.",
+  "eligibilityMd": "- Aged **18 to 59 years**.\n- The **head of the family or an earning member**.\n- From a family that is **Below Poverty Line (BPL) or marginally above**.\n- Belonging to an **identified occupational/vocational group**.\n- Part of a **rural landless household**.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "AABY is administered through state Nodal Agencies (with LIC as insurer). Enrolment is done via the designated Nodal Agency for your occupational group.\n\n**To make a claim:**\n**Step 1:** The nominee submits a claim application to the Nodal Agency's designated official with the original death certificate (and an attested copy).\n**Step 2:** The official verifies the documents and confirms the deceased was the head/earning member of an eligible BPL (or marginally-above) rural landless family.\n**Step 3:** The Nodal Agency forwards the verified claim packet to **LIC** for processing and payment.",
+  "references": [
+    {
+      "title": "Guidelines 1",
+      "url": "https://labour.gov.in/schemes/aam-admi-beema-yojana"
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://labour.assam.gov.in/scheme-page/aam-aadmi-bima-yojana"
+    },
+    {
+      "title": "Press Release (PIB)",
+      "url": "https://pib.gov.in/newsite/printrelease.aspx?relid=124604"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

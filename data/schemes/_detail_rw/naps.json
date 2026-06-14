@@ -1,0 +1,32 @@
+{
+  "slug": "naps",
+  "name": "National Apprenticeship Promotion Scheme-2",
+  "shortTitle": "NAPS-2",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Skill Development And Entrepreneurship",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The National Apprenticeship Promotion Scheme (NAPS) promotes on-the-job apprenticeship training under the Apprentices Act, 1961, with partial government stipend support for apprentices.",
+  "descriptionMd": "The National Apprenticeship Promotion Scheme (NAPS), run by the Ministry of Skill Development & Entrepreneurship, encourages employers to take on apprentices by sharing part of the apprentices' stipend, building the apprenticeship ecosystem and supporting all stakeholders. It covers training in both Designated and Optional Trades under the Apprentices Act, 1961.",
+  "benefitsMd": "- **Partial stipend support** for apprentices engaged under the Apprentices Act, 1961.\n- Training in **Designated Trades (DT)** — about **1 year** for ITI pass-outs and **2 years** for fresher/non-ITI candidates — and in **Optional Trades (OT)** defined by the employer.\n- Capacity-building and advocacy support across the apprenticeship ecosystem.",
+  "eligibilityMd": "- Minimum age **14 years** for an apprentice, and **18 years** for designated trades in hazardous industries (as per Section 3(a) of the Apprentices Act, 1961).\n- Open to candidates across engineering, non-engineering, technology and vocational trades.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "Apprentices and establishments register online on the national apprenticeship portal:\n\n**Step 1:** Create a candidate (or establishment) profile on the apprenticeship portal.\n**Step 2:** Complete your profile and search for apprenticeship opportunities in your trade.\n**Step 3:** Apply to an establishment's apprenticeship opening; once engaged, the contract is registered and stipend support flows under NAPS.",
+  "references": [
+    {
+      "title": "NAPS-2 Scheme Guidelines",
+      "url": "https://naps-cdn.s3.ap-south-1.amazonaws.com/NAPS+2.0_Guidelines_25-08-2023.pdf"
+    },
+    {
+      "title": "DBT Under NAPS-2 Aadhar Seeding",
+      "url": "https://naps-prod.s3.ap-south-1.amazonaws.com/documents/naps/jVqKWKw7w1QJaZZrcXmMk94rZqcni6pNhKP3vfXLqUQ8mUicm8G7AxZ9lZKw.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

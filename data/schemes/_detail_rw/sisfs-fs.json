@@ -1,0 +1,37 @@
+{
+  "slug": "sisfs-fs",
+  "name": "Startup India Seed Fund Scheme- For Startups",
+  "shortTitle": "SISFS-FS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department For Promotion Of Industry And Internal Trade",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity",
+    "Industries"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The Startup India Seed Fund Scheme (SISFS) gives DPIIT-recognised early-stage startups up to ₹20 lakh for proof-of-concept/prototyping and up to ₹50 lakh for market entry and scaling.",
+  "descriptionMd": "The Startup India Seed Fund Scheme (SISFS), launched by DPIIT on 19 April 2021 with a ₹945 crore outlay, provides early-stage funding to startups — for proof of concept, prototype development, product trials, market entry and commercialisation. The money is routed to startups through approved incubators.",
+  "benefitsMd": "- **Up to ₹20 lakh as a grant** for validating proof of concept, prototype development or product trials — released in milestone-based instalments.\n- **Up to ₹50 lakh** for market entry, commercialisation or scaling up — via convertible debentures, debt or debt-linked instruments.",
+  "eligibilityMd": "- A **DPIIT-recognised startup**, incorporated **not more than 2 years** ago at the time of applying.\n- A viable business idea with a clear product/service, market fit and scope to scale.\n- **Technology at the core** of the product, service, business or distribution model.\n- Preference for startups solving problems in priority/innovative sectors.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Applications are open on a rolling basis on the Startup India portal.\n**Step 2:** Go to the Seed Fund portal ([seedfund.startupindia.gov.in](https://seedfund.startupindia.gov.in/)).\n**Step 3:** Click **'Apply Now'** (for startups).\n**Step 4:** Log in with the credentials from your Startup India recognition and submit the application, choosing the incubators you wish to apply to.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://seedfund.startupindia.gov.in/"
+    },
+    {
+      "title": "Startup India Portal",
+      "url": "https://www.startupindia.gov.in/"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://seedfund.startupindia.gov.in/about"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

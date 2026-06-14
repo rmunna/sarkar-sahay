@@ -130,6 +130,51 @@ const REWRITES = {
     exclusionsMd: "",
     applicationMd: "Apply online through the MP SAMAST portal:\n\n**Step 1:** Go to [samast.mponline.gov.in](https://samast.mponline.gov.in/portal/) and click **'Create Profile'**.\n**Step 2:** Fill in your basic details — name, mobile number, gender, email and date of birth — and continue.\n**Step 3:** Re-enter your date of birth and mobile number, enter the captcha, and verify with the OTP sent to your mobile.\n**Step 4:** Complete **Aadhaar e-KYC** using your Aadhaar number, registered mobile and OTP, then proceed with the loan application.",
   },
+
+  "pmegp": {
+    briefDescription: "Prime Minister's Employment Generation Programme (PMEGP) is a credit-linked subsidy scheme that helps you set up a new micro-enterprise — the government gives a margin-money subsidy on the bank loan.",
+    descriptionMd: "Prime Minister's Employment Generation Programme (PMEGP), launched in August 2008 and run by the Ministry of MSME, helps people start new micro-enterprises by combining a bank loan with a government **margin-money (capital) subsidy**. The aim is to generate self-employment, especially in rural areas and for first-time entrepreneurs.",
+    benefitsMd: "- A **margin-money subsidy** on the project cost for setting up a new micro-enterprise, delivered through your financing bank.\n- The subsidy share is **higher for special categories** (SC/ST, OBC, minorities, women, ex-servicemen, PwD, etc.) and for projects in **rural areas**.\n- A separate provision also supports the **upgradation** of existing PMEGP / REGP / MUDRA units.",
+    eligibilityMd: "- Any **individual above 18 years** — there is **no income ceiling**.\n- For a project costing **above ₹10 lakh in manufacturing** or **above ₹5 lakh in business/service**, you need at least a **Class VIII pass**.\n- Assistance is only for **new projects** sanctioned specifically under PMEGP.",
+    exclusionsMd: "- **Existing units** (under PMRY, REGP or any other government scheme) and units that have **already taken a government subsidy** are not eligible.\n- **Only one person per family** (self + spouse) can get assistance.\n- A **negative list of activities** (e.g. certain polluting or prohibited trades) is excluded.",
+    applicationMd: "Apply online for a new unit:\n\n**Step 1:** Go to the PMEGP e-portal ([kviconline.gov.in/pmegpeportal](https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp)).\n**Step 2:** Under **'Application For New Unit'**, click **'Apply'**.\n**Step 3:** Fill in the online application form and click **'Save Applicant Data'**.\n**Step 4:** Upload the required documents and submit. Existing units can apply for a 2nd loan under the separate 'Existing Units' tab.",
+  },
+
+  "nps-tsep": {
+    briefDescription: "NPS for Traders & Self-Employed Persons is a voluntary pension scheme giving small shopkeepers and traders a guaranteed ₹3,000/month pension after age 60.",
+    descriptionMd: "The National Pension Scheme for Traders and Self-Employed Persons is a voluntary, contributory pension scheme of the Ministry of Labour & Employment, for the old-age security of small shopkeepers, retailers and self-employed traders. You contribute a small monthly amount during your working years and receive a guaranteed pension after 60.",
+    benefitsMd: "- A **guaranteed minimum pension of ₹3,000 per month** after you turn 60.\n- **Family pension:** if you die while receiving the pension, your spouse gets **50%** of it as a family pension.\n- **On disability:** if you become permanently disabled before 60 and can't keep contributing, your spouse may continue the scheme.",
+    eligibilityMd: "- A **self-employed shop owner, retailer or trader (vyapari)**.\n- Aged **18 to 40 years**.\n- Annual business turnover **not above ₹1.5 crore**.",
+    exclusionsMd: "You are **not** eligible if you are:\n- Covered under any government-contributed NPS, or a member of **EPFO / NPS / ESIC**.\n- An **income-tax payer**.\n- Already enrolled in **PM Shram Yogi Maandhan** or **PM Kisan Maandhan**.",
+    applicationMd: "Enrol at your nearest **Common Service Centre (CSC)**:\n\n**Step 1:** Visit the nearest CSC.\n**Step 2:** Carry your **Aadhaar card** and **savings/Jan Dhan bank account** details with IFSC (passbook/cheque/statement).\n**Step 3:** Pay the first contribution in cash to the Village Level Entrepreneur (VLE).\n**Step 4:** The VLE enters your Aadhaar number, name and date of birth for authentication and completes the online registration.",
+  },
+
+  "aaby": {
+    briefDescription: "Aam Aadmi Bima Yojana (AABY) is a low-cost social-security insurance for rural landless families — life and disability cover plus a scholarship for children, for a ₹200/year premium (half subsidised).",
+    descriptionMd: "Aam Aadmi Bima Yojana (AABY) is a social-security scheme of the Ministry of Labour & Employment that insures the head or an earning member of rural landless households. It provides life and accident cover and an education scholarship for the member's children, at a heavily subsidised premium.",
+    benefitsMd: "- **Natural death:** ₹30,000 to the nominee.\n- **Accidental death:** ₹75,000.\n- **Total permanent disability** (loss of two eyes/limbs in an accident): ₹75,000.\n- **Partial permanent disability** (loss of one eye/limb): ₹37,500.\n- **Scholarship:** ₹100 per month for up to two children studying in Classes 9–12 (paid half-yearly).\n- **Premium:** just ₹200 per member per year, of which the Social Security Fund subsidises 50%.",
+    eligibilityMd: "- Aged **18 to 59 years**.\n- The **head of the family or an earning member**.\n- From a family that is **Below Poverty Line (BPL) or marginally above**.\n- Belonging to an **identified occupational/vocational group**.\n- Part of a **rural landless household**.",
+    exclusionsMd: "",
+    applicationMd: "AABY is administered through state Nodal Agencies (with LIC as insurer). Enrolment is done via the designated Nodal Agency for your occupational group.\n\n**To make a claim:**\n**Step 1:** The nominee submits a claim application to the Nodal Agency's designated official with the original death certificate (and an attested copy).\n**Step 2:** The official verifies the documents and confirms the deceased was the head/earning member of an eligible BPL (or marginally-above) rural landless family.\n**Step 3:** The Nodal Agency forwards the verified claim packet to **LIC** for processing and payment.",
+  },
+
+  "sisfs-fs": {
+    briefDescription: "The Startup India Seed Fund Scheme (SISFS) gives DPIIT-recognised early-stage startups up to ₹20 lakh for proof-of-concept/prototyping and up to ₹50 lakh for market entry and scaling.",
+    descriptionMd: "The Startup India Seed Fund Scheme (SISFS), launched by DPIIT on 19 April 2021 with a ₹945 crore outlay, provides early-stage funding to startups — for proof of concept, prototype development, product trials, market entry and commercialisation. The money is routed to startups through approved incubators.",
+    benefitsMd: "- **Up to ₹20 lakh as a grant** for validating proof of concept, prototype development or product trials — released in milestone-based instalments.\n- **Up to ₹50 lakh** for market entry, commercialisation or scaling up — via convertible debentures, debt or debt-linked instruments.",
+    eligibilityMd: "- A **DPIIT-recognised startup**, incorporated **not more than 2 years** ago at the time of applying.\n- A viable business idea with a clear product/service, market fit and scope to scale.\n- **Technology at the core** of the product, service, business or distribution model.\n- Preference for startups solving problems in priority/innovative sectors.",
+    exclusionsMd: "",
+    applicationMd: "**Step 1:** Applications are open on a rolling basis on the Startup India portal.\n**Step 2:** Go to the Seed Fund portal ([seedfund.startupindia.gov.in](https://seedfund.startupindia.gov.in/)).\n**Step 3:** Click **'Apply Now'** (for startups).\n**Step 4:** Log in with the credentials from your Startup India recognition and submit the application, choosing the incubators you wish to apply to.",
+  },
+
+  "naps": {
+    briefDescription: "The National Apprenticeship Promotion Scheme (NAPS) promotes on-the-job apprenticeship training under the Apprentices Act, 1961, with partial government stipend support for apprentices.",
+    descriptionMd: "The National Apprenticeship Promotion Scheme (NAPS), run by the Ministry of Skill Development & Entrepreneurship, encourages employers to take on apprentices by sharing part of the apprentices' stipend, building the apprenticeship ecosystem and supporting all stakeholders. It covers training in both Designated and Optional Trades under the Apprentices Act, 1961.",
+    benefitsMd: "- **Partial stipend support** for apprentices engaged under the Apprentices Act, 1961.\n- Training in **Designated Trades (DT)** — about **1 year** for ITI pass-outs and **2 years** for fresher/non-ITI candidates — and in **Optional Trades (OT)** defined by the employer.\n- Capacity-building and advocacy support across the apprenticeship ecosystem.",
+    eligibilityMd: "- Minimum age **14 years** for an apprentice, and **18 years** for designated trades in hazardous industries (as per Section 3(a) of the Apprentices Act, 1961).\n- Open to candidates across engineering, non-engineering, technology and vocational trades.",
+    exclusionsMd: "",
+    applicationMd: "Apprentices and establishments register online on the national apprenticeship portal:\n\n**Step 1:** Create a candidate (or establishment) profile on the apprenticeship portal.\n**Step 2:** Complete your profile and search for apprenticeship opportunities in your trade.\n**Step 3:** Apply to an establishment's apprenticeship opening; once engaged, the contract is registered and stipend support flows under NAPS.",
+  },
 };
 
 let done = 0;
