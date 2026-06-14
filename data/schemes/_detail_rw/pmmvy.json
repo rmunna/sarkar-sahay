@@ -1,0 +1,48 @@
+{
+  "slug": "pmmvy",
+  "name": "Pradhan Mantri Matru Vandana Yojana",
+  "shortTitle": "PMMVY",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry of Women and Child Development",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Pradhan Mantri Matru Vandana Yojana (PMMVY) gives maternity cash benefits to pregnant women and new mothers — ₹5,000 for the first child, and ₹6,000 for a second child if it is a girl.",
+  "descriptionMd": "Pradhan Mantri Matru Vandana Yojana (PMMVY) is a centrally sponsored scheme of the Ministry of Women & Child Development that supports pregnant women and lactating mothers from socially and economically disadvantaged groups. It provides maternity cash benefits for the first two living children (the second only if it is a girl), partly compensating wage loss and encouraging health checkups and institutional delivery.",
+  "benefitsMd": "### First child — ₹5,000 in two instalments\n- **₹3,000** on registering the pregnancy and attending **at least one antenatal checkup** within six months of the last menstrual period (at an Anganwadi Centre or approved health facility).\n- **₹2,000** once the **birth is registered** and the child has received all due vaccines up to **14 weeks** under the Universal Immunization Programme.\n\nThe mother is also entitled to the cash incentive under Janani Suraksha Yojana (JSY) after an institutional delivery.\n\n### Second child (only if a girl) — ₹6,000 in a single instalment\nPaid after pregnancy registration + one antenatal checkup, registration of the girl's birth, and all due vaccines up to 14 weeks.\n\nIn case of miscarriage or stillbirth, the woman is treated as a fresh beneficiary for any future pregnancy.",
+  "eligibilityMd": "- The applicant must be **at least 19 years old** and pregnant.\n- She should be **employed and facing wage loss** due to the pregnancy.\n- The benefit applies to the **first live birth** (and a second child only if it is a girl).\n- Apply **within 270 days of childbirth**.\n- Disadvantaged categories covered include women from SC/ST households and women with 40%+ disability, among others.",
+  "exclusionsMd": "- Women in **regular employment** with the Central/State Government or a PSU, or already receiving similar maternity benefits under any other law, are **not** eligible.\n- The husband's Aadhaar is **not** mandatory to claim the benefit.",
+  "applicationMode": "Online",
+  "applicationMd": "Apply online on the PMMVY portal:\n\n**Step 1:** Visit [pmmvy.wcd.gov.in](https://pmmvy.wcd.gov.in/) and open **'Citizen Login'**.\n**Step 2:** Enter and verify your mobile number, then fill in your name, state, district, area, block, village and relationship to the beneficiary, and create your account.\n**Step 3:** Log in with your User ID, password and captcha.\n**Step 4:** Open the **'Data Entry'** tab and choose **'Beneficiary Registration'**.\n**Step 5:** Fill in the beneficiary details and select whether you are applying for the first or second child, then submit.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://wcd.delhi.gov.in/wcd/pradhan-mantri-matru-vandana-yojana-pmmvy"
+    },
+    {
+      "title": "Enrolments Under PMMVY",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1846142"
+    },
+    {
+      "title": "Mission Shakti Guidelines",
+      "url": "https://pmmvy.wcd.gov.in/Content/assets/PDF/MissionShaktiGuidelines.pdf"
+    },
+    {
+      "title": "Citizen Training Video",
+      "url": "https://pmmvy.wcd.gov.in/Home/TrainingVideo"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://wcd.delhi.gov.in/sites/default/files/WCD/generic_multiple_files/pmmvyfaq.pdf"
+    },
+    {
+      "title": "Mobile App Link",
+      "url": "https://play.google.com/store/apps/details?id=com.mission_shakti.pmmvy_application&hl=en_IN"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

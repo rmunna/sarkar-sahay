@@ -1,0 +1,29 @@
+{
+  "slug": "sui",
+  "name": "Stand-Up India",
+  "shortTitle": "SUPI",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Financial Service",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual",
+    "Business Entity"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Stand-Up India facilitates bank loans of ₹10 lakh to ₹1 crore for SC/ST and women entrepreneurs to set up a new (greenfield) business in manufacturing, services, trading or activities allied to agriculture.",
+  "descriptionMd": "Stand-Up India, run by the Department of Financial Services (Ministry of Finance), helps **Scheduled Caste / Scheduled Tribe and women entrepreneurs** access bank finance to start a new business. Every bank branch is expected to fund at least one SC/ST borrower and one woman borrower for a **greenfield** (first-time) enterprise in manufacturing, services, trading, or activities allied to agriculture. For a company or firm, at least **51% of the shareholding and control** must be held by an SC/ST or woman entrepreneur.",
+  "benefitsMd": "- A **composite loan** (term loan + working capital) of **₹10 lakh to ₹1 crore**.\n- A **RuPay debit card** issued for the borrower's convenience.\n- **Hand-holding support** through the SIDBI Stand-Up Mitra portal — training, skilling, mentoring, project-report preparation, application help, work-shed/utility support and links to subsidy schemes.",
+  "eligibilityMd": "- The loan is for a **greenfield (brand-new) enterprise** only.\n- A **male** applicant must belong to the **SC/ST** category; women of any category are eligible.\n- The applicant must be **at least 18 years old**.\n- The applicant must **not be in default** to any bank or financial institution.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "You can apply three ways — at a bank branch, through your district's Lead District Manager (LDM), or online:\n\n**Step 1:** Go to the Stand-Up Mitra portal ([standupmitra.in](https://www.standupmitra.in/Login/Register)) and register.\n**Step 2:** Enter your business location details.\n**Step 3:** Select your category (SC, ST or Woman) and confirm the 51% stake condition for non-individual enterprises.\n**Step 4:** Complete the application; the portal connects you to the lending bank and hand-holding agencies.\n\nAlternatively, visit your nearest bank branch or contact your district LDM to apply offline.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.udyami.org.in/storage/schemes/file/t4CQkv4D2TsdhI3MK8KqFSnYPw6RTBBsmh7p449D.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

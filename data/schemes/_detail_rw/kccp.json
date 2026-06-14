@@ -1,0 +1,29 @@
+{
+  "slug": "kccp",
+  "name": "Kisan Credit Card (Pashupalan)",
+  "shortTitle": "KCCP",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "nodalDept": "Animal Husbandry Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual",
+    "Registered Societies"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Kisan Credit Card (Pashupalan) is a Madhya Pradesh scheme giving livestock farmers short-term working-capital loans at subsidised interest for dairy and animal-husbandry activities.",
+  "descriptionMd": "The Kisan Credit Card (Pashupalan) scheme, run by the Animal Husbandry & Dairy Department of Madhya Pradesh, provides **short-term working-capital loans** to livestock farmers at subsidised interest rates. Eligible livestock farmers, dairy producers and members of primary agricultural credit cooperative societies can access funds for day-to-day operational needs through banks, on the Kisan Credit Card system.",
+  "benefitsMd": "- A **short-term working-capital loan** for livestock and dairy activities, via the Kisan Credit Card.\n- An **interest subsidy** on the sanctioned loan.\n- Loans are typically **disbursed within about 15 days** of approval.",
+  "eligibilityMd": "- The applicant must be a **resident of Madhya Pradesh**.\n- They must be a **livestock farmer** or a member of a **primary agricultural credit cooperative society**.\n- They must need short-term working capital for livestock activities, including dairy production.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "Apply online through the MP SAMAST portal:\n\n**Step 1:** Go to [samast.mponline.gov.in](https://samast.mponline.gov.in/portal/) and click **'Create Profile'**.\n**Step 2:** Fill in your basic details — name, mobile number, gender, email and date of birth — and continue.\n**Step 3:** Re-enter your date of birth and mobile number, enter the captcha, and verify with the OTP sent to your mobile.\n**Step 4:** Complete **Aadhaar e-KYC** using your Aadhaar number, registered mobile and OTP, then proceed with the loan application.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=914"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

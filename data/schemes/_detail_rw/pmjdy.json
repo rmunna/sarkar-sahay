@@ -1,0 +1,32 @@
+{
+  "slug": "pmjdy",
+  "name": "Pradhan Mantri Jan Dhan Yojana",
+  "shortTitle": "PMJDY",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Financial Service",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "Pradhan Mantri Jan Dhan Yojana (PMJDY) is India's financial-inclusion mission — a zero-balance bank account for every unbanked adult, with a free RuPay card carrying ₹2 lakh accident insurance and an overdraft of up to ₹10,000.",
+  "descriptionMd": "Pradhan Mantri Jan Dhan Yojana (PMJDY) is India's National Mission for Financial Inclusion, launched on 28 August 2014 to bring every unbanked adult into the formal banking system. It is built on four principles — banking the unbanked, securing the unsecured, funding the unfunded, and serving underserved areas. Since 2018 the focus shifted from 'every household' to 'every unbanked adult', and the account's benefits have been steadily enhanced.",
+  "benefitsMd": "- **Zero-balance account (BSBDA):** a Basic Savings Bank Deposit Account with **no minimum balance**. Deposit and withdraw at branches, ATMs and Banking Correspondents, with up to **4 withdrawals a month**.\n- **Small Account (Chota Khata):** open one **without legal documents** — valid 12 months, extendable by another 12 if you show you've applied for a valid ID.\n- **Free RuPay debit card with built-in accident insurance** of **₹2 lakh** (₹1 lakh for accounts opened before 28 August 2018).\n- **Overdraft of up to ₹10,000** for eligible account holders.\n- **Banking Correspondents / Bank Mitras** bring banking to rural areas far from a branch.",
+  "eligibilityMd": "- Any **Indian citizen** eligible to open a bank account can open a PMJDY account.\n- **Minors above 10 years** can open one with support from their legal guardian.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "PMJDY accounts are opened at a bank branch:\n\n**Step 1:** Go to the official portal ([pmjdy.gov.in](https://pmjdy.gov.in/)).\n**Step 2:** Under **'e-Documents'**, open the **Account Opening Form** (available in English and Hindi).\n**Step 3:** Download and print the form.\n**Step 4:** Fill in your bank, personal and address details (branch, town/village, block/district, Aadhaar, occupation, annual income, etc.).\n**Step 5:** Submit the form with the required documents at your nearest bank branch.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://pmjdy.gov.in/files/E-Documents/PMJDY_BROCHURE_ENG.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://www.pmjdy.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}
