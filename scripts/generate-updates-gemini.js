@@ -228,6 +228,25 @@ const structuredModel = genAI.getGenerativeModel({
   },
 });
 
+// Gemini's free endpoint frequently returns 503 "high demand" (and occasional
+// 429/500). The model itself tells us "try again later" — so retry with
+// exponential backoff instead of giving up (which silently produced 0 content).
+async function genWithRetry(mdl, input, label = 'gemini') {
+  const delays = [2000, 5000, 12000, 25000, 45000];
+  for (let attempt = 0; ; attempt++) {
+    try {
+      return await mdl.generateContent(input);
+    } catch (err) {
+      const msg = String(err?.message || '');
+      const retryable = /\[(503|502|500|429)\b|high demand|overloaded|unavailable|temporar|rate.?limit|RESOURCE_EXHAUSTED/i.test(msg);
+      if (!retryable || attempt >= delays.length) throw err;
+      const wait = delays[attempt] + Math.floor(Math.random() * 1500);
+      log(`  ⏳ Gemini ${label}: ${(msg.match(/\[\d{3}[^\]]*\]/) || ['transient'])[0]} — retry ${attempt + 1}/${delays.length} in ${Math.round(wait / 1000)}s`);
+      await new Promise((r) => setTimeout(r, wait));
+    }
+  }
+}
+
 // ─── HTTP helpers ────────────────────────────────────────────────────────────
 
 /**
@@ -405,7 +424,7 @@ Return ONLY valid JSON. Use null if genuinely not present (do not guess):
       ? [{ inlineData: { data: pdfBytes.toString('base64'), mimeType: 'application/pdf' } }, { text: prompt }]
       : (pageText ? `${prompt}\n\nSOURCE TEXT:\n${pageText}` : prompt);
 
-    const result = await structuredModel.generateContent(parts);
+    const result = await genWithRetry(structuredModel, parts);
     const filled = JSON.parse(result.response.text());
 
     // Merge filled values back into announcement
@@ -652,7 +671,7 @@ Return ONLY valid JSON matching this schema:
 ${EXTRACT_JSON_SCHEMA}`;
 
   try {
-    const result = await structuredModel.generateContent([
+    const result = await genWithRetry(structuredModel, [
       {
         inlineData: {
           data: pdfBytes.toString('base64'),
@@ -691,7 +710,7 @@ Return ONLY valid JSON matching this schema:
 ${EXTRACT_JSON_SCHEMA}`;
 
   try {
-    const result = await structuredModel.generateContent(prompt);
+    const result = await genWithRetry(structuredModel, prompt);
     const data = JSON.parse(result.response.text());
     if (data?.found) {
       data.announcement.officialUrl = data.announcement.officialUrl || source.url;
@@ -721,7 +740,7 @@ Return ONLY valid JSON matching this schema:
 ${EXTRACT_JSON_SCHEMA}`;
 
   try {
-    const result = await structuredModel.generateContent(prompt);
+    const result = await genWithRetry(structuredModel, prompt);
     const data = JSON.parse(result.response.text());
     return data;
   } catch (err) {
@@ -927,7 +946,7 @@ Write ONLY the markdown body (no frontmatter, no YAML). Start directly with the 
 `;
 
   try {
-    const result = await model.generateContent(prompt);
+    const result = await genWithRetry(model, prompt);
     return result.response.text();
   } catch (err) {
     log(`⚠️  Content generation error: ${err.message}`);
