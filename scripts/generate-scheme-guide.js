@@ -200,6 +200,22 @@ const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 // Use Gemini 2.5 Flash for speed + quality balance
 const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
 
+// Gemini's free endpoint returns transient 503 "high demand"; retry with backoff
+// instead of giving up (which silently produced 0 content).
+async function genWithRetry(mdl, input) {
+  const delays = [2000, 5000, 12000, 25000, 45000];
+  for (let attempt = 0; ; attempt++) {
+    try { return await mdl.generateContent(input); }
+    catch (err) {
+      const msg = String(err?.message || '');
+      if (!/\[(503|502|500|429)\b|high demand|overloaded|unavailable|temporar|rate.?limit|RESOURCE_EXHAUSTED/i.test(msg) || attempt >= delays.length) throw err;
+      const wait = delays[attempt] + Math.floor(Math.random() * 1500);
+      console.error(`  ⏳ Gemini retry ${attempt + 1}/${delays.length} in ${Math.round(wait / 1000)}s`);
+      await new Promise((r) => setTimeout(r, wait));
+    }
+  }
+}
+
 function log(...args) { console.log(`[${new Date().toISOString()}]`, ...args); }
 
 function slugify(text) {
@@ -360,7 +376,7 @@ ACCURACY RULES (violation = reject):
 Return ONLY a JSON object with these fields (no prose, no code fences, no contentMarkdown):
 {"title":"55-90 chars: [Scheme Name] [Year] — [key benefit] Guide","description":"140-160 chars: searchable fact + who benefits + how to apply/check status","slug":"lowercase-hyphenated max 60 chars e.g. sgb-premature-redemption-2026","keywords":["8-12 exact search queries"],"officialLinks":["MUST include: ${item.link.replace(/"/g, '\\"')}","add 1-2 more relevant .gov.in, .nic.in or rbi.org.in URLs if known"],"schemeType":"financial-aid|health|housing|education|agriculture|employment|social-security|digital-service","targetBeneficiary":"who benefits — from press release only","benefitAmount":"exact amount from press release or check official website"}`;
 
-  const metaResult = await model.generateContent(metaPrompt);
+  const metaResult = await genWithRetry(model, metaPrompt);
   const metaText = metaResult.response.text().trim();
 
   function extractJson(raw) {
@@ -418,7 +434,7 @@ ${langParts.sections}
 
 FINAL LINE: ${langParts.disclaimer}`;
 
-  const contentResult = await model.generateContent(contentPrompt);
+  const contentResult = await genWithRetry(model, contentPrompt);
   const contentMarkdown = contentResult.response.text().trim();
 
   if (contentMarkdown.length < 500) {

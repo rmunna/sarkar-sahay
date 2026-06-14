@@ -36,6 +36,22 @@ if (!process.env.GEMINI_API_KEY) {
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
 
+// Gemini's free endpoint returns transient 503 "high demand"; retry with backoff
+// instead of giving up (which silently produced 0 content).
+async function genWithRetry(mdl, input) {
+  const delays = [2000, 5000, 12000, 25000, 45000];
+  for (let attempt = 0; ; attempt++) {
+    try { return await mdl.generateContent(input); }
+    catch (err) {
+      const msg = String(err?.message || '');
+      if (!/\[(503|502|500|429)\b|high demand|overloaded|unavailable|temporar|rate.?limit|RESOURCE_EXHAUSTED/i.test(msg) || attempt >= delays.length) throw err;
+      const wait = delays[attempt] + Math.floor(Math.random() * 1500);
+      console.error(`  ⏳ Gemini retry ${attempt + 1}/${delays.length} in ${Math.round(wait / 1000)}s`);
+      await new Promise((r) => setTimeout(r, wait));
+    }
+  }
+}
+
 function log(...args) { console.log(`[${new Date().toISOString()}]`, ...args); }
 
 function slugify(text) {
@@ -109,7 +125,7 @@ Return ONLY valid JSON in this exact format (no markdown, no code blocks):
   "contentMarkdown": "Full article in Markdown (600-1200 words). Include: overview, how to download/check, what details are shown, what to do next, FAQs (4-6 Q&As). Use ## for sections. No H1. Be factual and specific."
 }`;
 
-  const result = await model.generateContent(prompt);
+  const result = await genWithRetry(model, prompt);
   const text = result.response.text().trim();
 
   // Robustly extract JSON from Gemini's response — handles:
