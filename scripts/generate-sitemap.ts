@@ -234,10 +234,6 @@ function generateMainSitemap(): string {
       changefreq: "monthly" as const,
       priority: "0.6",
     })),
-    // Court home + special pages
-    { loc: `${BASE_URL}/court`, lastmod: today, changefreq: "monthly", priority: "0.8" },
-    { loc: `${BASE_URL}/court/supreme-court`, lastmod: today, changefreq: "monthly", priority: "0.8" },
-    { loc: `${BASE_URL}/court/cnr`, lastmod: today, changefreq: "monthly", priority: "0.7" },
     ...STATE_SLUGS.map((s) => ({
       loc: `${BASE_URL}/state/${s}`,
       lastmod: today,
@@ -512,9 +508,9 @@ const hsnSitemapName = generateHSNSitemap(PUBLIC_DIR);
 console.log("🚗 Generating RTO sitemap …");
 const rtoSitemapName = generateRTOSitemap(PUBLIC_DIR);
 
-// 6. Court sitemap
-console.log("⚖️  Generating court sitemap …");
-const courtSitemapName = generateCourtSitemap(PUBLIC_DIR);
+// 6. Court sitemap — REMOVED (court section deleted 2026-06-14)
+const courtSitemapName = "";
+void generateCourtSitemap;
 
 // 7. Sitemap index
 const allSitemapNames = [
