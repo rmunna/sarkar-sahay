@@ -221,8 +221,6 @@ function generateMainSitemap(): string {
     { loc: `${BASE_URL}/pincode`, lastmod: today, changefreq: "monthly", priority: "0.9" },
     // HSN home
     { loc: `${BASE_URL}/hsn`, lastmod: today, changefreq: "monthly", priority: "0.8" },
-    // RTO home
-    { loc: `${BASE_URL}/rto`, lastmod: today, changefreq: "monthly", priority: "0.8" },
     // Scheme eligibility engine + directory + rich per-scheme pages.
     // Only schemes with ingested myScheme detail (benefits + eligibility) are
     // included; thin ones stay noindex + out of the sitemap.
@@ -504,9 +502,9 @@ const pincodeSitemapNames = generatePincodeSitemap(PUBLIC_DIR);
 console.log("📦 Generating HSN sitemap …");
 const hsnSitemapName = generateHSNSitemap(PUBLIC_DIR);
 
-// 5. RTO sitemap
-console.log("🚗 Generating RTO sitemap …");
-const rtoSitemapName = generateRTOSitemap(PUBLIC_DIR);
+// 5. RTO sitemap — REMOVED (rto section deleted 2026-06-14)
+const rtoSitemapName = "";
+void generateRTOSitemap;
 
 // 6. Court sitemap — REMOVED (court section deleted 2026-06-14)
 const courtSitemapName = "";

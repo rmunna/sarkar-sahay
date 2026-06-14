@@ -114,7 +114,6 @@ export default function PincodeHomePage() {
       {/* Cross links */}
       <div className="flex flex-wrap gap-3">
         <Link href="/ifsc" className="text-sm text-orange-600 hover:underline">→ IFSC Code Finder</Link>
-        <Link href="/rto" className="text-sm text-orange-600 hover:underline">→ RTO Code List</Link>
         <Link href="/hsn" className="text-sm text-orange-600 hover:underline">→ HSN Code Search</Link>
       </div>
     </div>

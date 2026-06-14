@@ -167,7 +167,6 @@ export default function HSNHomePage() {
       <div className="flex flex-wrap gap-3 mb-8">
         <Link href="/calculator/gst" className="text-sm text-orange-600 hover:underline">→ GST Calculator</Link>
         <Link href="/calculator/income-tax" className="text-sm text-orange-600 hover:underline">→ Income Tax Calculator</Link>
-        <Link href="/rto" className="text-sm text-orange-600 hover:underline">→ RTO Codes</Link>
         <Link href="/calculator" className="text-sm text-orange-600 hover:underline">→ All Calculators</Link>
       </div>
 

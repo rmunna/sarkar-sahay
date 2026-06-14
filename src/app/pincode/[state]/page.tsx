@@ -159,9 +159,6 @@ export default async function StatePincodePage({ params }: Props) {
         <Link href="/ifsc" className="text-sm text-orange-600 hover:underline">
           → IFSC Code Finder
         </Link>
-        <Link href="/rto" className="text-sm text-orange-600 hover:underline">
-          → RTO Codes
-        </Link>
       </div>
     </div>
   );
