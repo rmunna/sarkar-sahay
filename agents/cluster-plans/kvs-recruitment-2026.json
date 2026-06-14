@@ -1,0 +1,90 @@
+{
+  "exam": "KVS Recruitment 2026",
+  "generatedAt": "2026-06-14T15:56:25.068Z",
+  "plan": [
+    {
+      "slug": "notification",
+      "query": "KVS Recruitment 2026 notification",
+      "verdict": "HARD",
+      "strongTop5": 4,
+      "ourPos": null,
+      "top3": [
+        "kvsangathan.nic.in",
+        "testbook.com",
+        "competitivecracker.com"
+      ]
+    },
+    {
+      "slug": "apply-online",
+      "query": "KVS Recruitment 2026 apply online application form",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "kvsangathan.nic.in",
+        "competition.careers360.com",
+        "prepp.in"
+      ]
+    },
+    {
+      "slug": "last-date",
+      "query": "KVS Recruitment 2026 application last date",
+      "verdict": "HARD",
+      "strongTop5": 4,
+      "ourPos": null,
+      "top3": [
+        "kvsangathan.nic.in",
+        "testbook.com",
+        "ardasclasses.com"
+      ]
+    },
+    {
+      "slug": "exam-date",
+      "query": "KVS Recruitment 2026 exam date",
+      "verdict": "HARD",
+      "strongTop5": 4,
+      "ourPos": null,
+      "top3": [
+        "competition.careers360.com",
+        "testbook.com",
+        "kvsangathan.nic.in"
+      ]
+    },
+    {
+      "slug": "admit-card",
+      "query": "KVS Recruitment 2026 admit card download",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "kvsangathan.nic.in",
+        "cbseitms.nic.in",
+        "jobyaari.com"
+      ]
+    },
+    {
+      "slug": "result",
+      "query": "KVS Recruitment 2026 result",
+      "verdict": "HARD",
+      "strongTop5": 4,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "testbook.com",
+        "prepp.in"
+      ]
+    },
+    {
+      "slug": "salary",
+      "query": "KVS Recruitment 2026 salary in hand pay scale",
+      "verdict": "WINNABLE",
+      "strongTop5": 1,
+      "ourPos": null,
+      "top3": [
+        "teacherexams.in",
+        "teacherexams.in",
+        "teacherexams.in"
+      ]
+    }
+  ]
+}

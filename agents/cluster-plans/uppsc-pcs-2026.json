@@ -1,0 +1,54 @@
+{
+  "exam": "UPPSC PCS 2026",
+  "generatedAt": "2026-06-14T15:56:32.097Z",
+  "plan": [
+    {
+      "slug": "last-date",
+      "query": "UPPSC PCS 2026 application last date",
+      "verdict": "WINNABLE",
+      "strongTop5": 1,
+      "ourPos": null,
+      "top3": [
+        "uppsc.up.nic.in",
+        "pw.live",
+        "theiashub.com"
+      ]
+    },
+    {
+      "slug": "answer-key",
+      "query": "UPPSC PCS 2026 answer key",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "competition.careers360.com",
+        "testbook.com",
+        "timesofindia.indiatimes.com"
+      ]
+    },
+    {
+      "slug": "eligibility",
+      "query": "UPPSC PCS 2026 eligibility age limit",
+      "verdict": "WINNABLE",
+      "strongTop5": 0,
+      "ourPos": null,
+      "top3": [
+        "vajiraoinstitute.com",
+        "prepp.in",
+        "analyticsias.com"
+      ]
+    },
+    {
+      "slug": "cutoff",
+      "query": "UPPSC PCS 2026 cut off marks",
+      "verdict": "HARD",
+      "strongTop5": 4,
+      "ourPos": null,
+      "top3": [
+        "adda247.com",
+        "testbook.com",
+        "testbook.com"
+      ]
+    }
+  ]
+}

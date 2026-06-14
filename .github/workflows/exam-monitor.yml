@@ -108,11 +108,17 @@ jobs:
               changes = d.changes || [];
             } catch(e) { console.log('No monitor output to mine'); process.exit(0); }
 
-            // Extract unique exam names from changes
-            const exams = [...new Set(changes
-              .map(c => c.examName || c.exam || '')
-              .filter(Boolean)
-            )];
+            // Extract unique exam names from changes.
+            // examName is set by Gemini content gen; site is the org label from the
+            // monitor config (e.g. "KVS", "UPPSC"). Fall back to "<site> Recruitment <year>"
+            // so the miner fires even when no content was generated yet.
+            const year = new Date().getFullYear();
+            const exams = [...new Set(changes.map(c => {
+              if (c.examName && c.examName.trim()) return c.examName.trim();
+              if (c.exam && c.exam.trim()) return c.exam.trim();
+              if (c.site && c.site.trim()) return (c.site.trim() + ' Recruitment ' + year);
+              return '';
+            }).filter(Boolean))];
             if (!exams.length) { console.log('No exam names in changes — skipping miner'); process.exit(0); }
             console.log('Exams to mine:', exams);
 
