@@ -170,7 +170,11 @@ function generateSlug(org, examName, stage) {
   if (examSlug.length > 50) examSlug = examSlug.slice(0, 50).replace(/-[^-]*$/, '');
   const stageSlug = part(stage);
 
-  return `${orgSlug}-${examSlug}-${year}-${stageSlug}`
+  // Stable / evergreen URL: NO year in the slug, so a recurring exam keeps the
+  // same URL every cycle (e.g. /update/rrb-alp-cbt-1-result). That URL stays in
+  // Google's index and gets recrawled — far faster to surface than a brand-new
+  // dated URL each year. The cycle's year still lives in the title/content.
+  return `${orgSlug}-${examSlug}-${stageSlug}`
     .replace(/-+/g, '-')
     .replace(/^-|-$/g, '');
 }
@@ -1463,21 +1467,13 @@ async function main() {
       continue;
     }
 
-    // 5. Slug collision check — allow overwrite if existing page is stale (key dates are TBA)
+    // 5. Slug collision = a NEW cycle of the same exam+stage (the year-aware
+    //    dedup above already filtered same-cycle duplicates, so reaching here
+    //    means newer content for an evergreen URL). Overwrite to refresh the
+    //    stable page in place — this is what keeps the URL trusted + recrawled.
     const slug = generateSlug(source.name, ann.examName, ann.type);
     if (slugRegistry.has(slug)) {
-      const existingPath = path.join(UPDATES_DIR, `${slug}.md`);
-      const existingContent = fs.existsSync(existingPath) ? fs.readFileSync(existingPath, 'utf8') : '';
-      const resultDateTBA   = /resultDate:\s*["']?TBA["']?/i.test(existingContent);
-      const examDateTBA     = /examDate:\s*["']?TBA["']?/i.test(existingContent);
-      const isStale = resultDateTBA || examDateTBA;
-      if (isStale) {
-        log(`  ♻️  Stale spike page detected (TBA dates) — regenerating: ${slug}`);
-      } else {
-        log(`  ⏭  Slug collision: ${slug} already exists`);
-        results.skipped.push({ source: source.name, reason: `slug collision: ${slug}`, exam: ann.examName });
-        continue;
-      }
+      log(`  ♻️  Refreshing evergreen page for new cycle: ${slug}`);
     }
 
     // ── Generate frontmatter ──────────────────────────────────────────────
