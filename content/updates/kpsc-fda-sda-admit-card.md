@@ -65,5 +65,6 @@ A3: The admit card contains essential details such as your name, roll number, ph
 A4: If you encounter any issues while downloading your admit card or find discrepancies in the details printed on it, you should immediately contact the Karnataka Public Service Commission. You can reach them via telephone at 080-30574957 or email at kpsc-ka[at]nic[dot]in, as provided on their official website.
 
 ## Related KPSC FDA SDA Pages
+- [KPSC FDA SDA Syllabus 2026 — Exam Pattern & Topic List](https://www.citizennest.com/update/kpsc-fda-sda-syllabus)
 - [KPSC FDA SDA 2026 Answer Key](https://www.citizennest.com/update/kpsc-fda-sda-answer-key)
-- [KPSC FDA SDA 2026 Syllabus & Exam Pattern](https://www.citizennest.com/update/kpsc-fda-sda-syllabus)
+- [KPSC FDA SDA 2026 Notification — 178 Vacancies](https://www.citizennest.com/update/kpsc-fda-sda-2026-notification)
