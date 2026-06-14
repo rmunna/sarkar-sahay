@@ -36,6 +36,7 @@ jobs:
       CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       CLOUDFLARE_ACCOUNT_ID: e8f8278ada329401d5acdf53d3404339
       NEXT_PUBLIC_SITE_URL: https://www.citizennest.com
+      GOOGLE_INDEXING_KEY: ${{ secrets.GOOGLE_INDEXING_KEY }}
       NEXT_PUBLIC_AD_SLOT_DATA: ${{ vars.NEXT_PUBLIC_AD_SLOT_DATA }}
       NEXT_PUBLIC_AD_SLOT_STICKY: ${{ vars.NEXT_PUBLIC_AD_SLOT_STICKY }}
       # Affiliate links — set these as repo Variables once you have accounts.
@@ -63,6 +64,13 @@ jobs:
 
       - name: Deploy to Cloudflare
         run: npm run cf:deploy
+
+      # Pages are now LIVE — submit recently-published updates to Google Indexing.
+      # Runs here (not on push) because monitor commits via GITHUB_TOKEN can't
+      # trigger the push-based Auto-Index workflow.
+      - name: Index newly-published content (Google)
+        if: success()
+        run: node scripts/index-recent-content.mjs || echo "indexing step soft-failed"
 
       - name: Summary
         if: always()

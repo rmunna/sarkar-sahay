@@ -17,6 +17,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # allow triggering the Deploy workflow via gh workflow run
 
 jobs:
   monitor-and-generate:
@@ -150,20 +151,18 @@ jobs:
 
       # ── Step 5: Submit new URLs to search engines ────────────────────────
 
-      - name: Submit to Google Indexing API
+      # Publish: trigger the Deploy workflow (a GITHUB_TOKEN push can't auto-
+      # trigger it). Deploy builds → goes live → THEN submits the new pages to
+      # Google Indexing (scripts/index-recent-content.mjs) so Google never
+      # fetches a 404. Replaces the old pre-deploy submit that hit 404s.
+      - name: Trigger deploy + Google indexing
         if: steps.commit.outputs.new_count > 0
         env:
-          GOOGLE_INDEXING_KEY: ${{ secrets.GOOGLE_INDEXING_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if [ -f "agents/.newly-generated-slugs" ]; then
-            echo "Submitting slugs:"
-            cat agents/.newly-generated-slugs
-            while IFS= read -r slug; do
-              node scripts/google-index-submit.js "https://www.citizennest.com/update/$slug" || true
-            done < agents/.newly-generated-slugs
-          else
-            echo "No .newly-generated-slugs file found — skipping"
-          fi
+          gh workflow run "Deploy to Cloudflare" \
+            && echo "✅ Deploy triggered — publishes the new pages and submits to Google once live" \
+            || echo "⚠️ deploy trigger failed (non-critical)"
 
       - name: Submit to IndexNow (Bing + Yandex)
         if: steps.commit.outputs.new_count > 0

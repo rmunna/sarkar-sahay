@@ -23,6 +23,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # allow triggering the Deploy workflow via gh workflow run
 
 jobs:
   detect-and-generate:
@@ -161,31 +162,18 @@ jobs:
       # ── Step 5: Submit to indexing APIs ─────────────────────────────────────
       # Fast indexing = scheme guide ranks before any competitor covers it
 
-      - name: Submit new guides to Google Indexing API
+      # Publish via Deploy (GITHUB_TOKEN push can't auto-trigger it). New guide
+      # pages go live + into the sitemap (pinged to Google). Scheme guides are
+      # evergreen, so sitemap crawl is sufficient — the fast Indexing API is
+      # reserved for time-sensitive /update/ pages (handled post-deploy).
+      - name: Trigger deploy
         if: steps.commit.outputs.new_count > 0
         env:
-          GOOGLE_INDEXING_KEY: ${{ secrets.GOOGLE_INDEXING_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if [ -f "agents/.newly-generated-scheme-slugs" ]; then
-            echo "Submitting slugs (format: langCode:slug):"
-            cat agents/.newly-generated-scheme-slugs
-            # Parse "langCode:slug" → correct URL prefix
-            # ta → /ta/guide, ml → /ml/guide, te → /te/guide, en (or any) → /guide
-            while IFS= read -r entry; do
-              [ -z "$entry" ] && continue
-              langCode="${entry%%:*}"
-              slug="${entry##*:}"
-              case "$langCode" in
-                ta) urlPath="/ta/guide" ;;
-                ml) urlPath="/ml/guide" ;;
-                te) urlPath="/te/guide" ;;
-                *)  urlPath="/guide" ;;
-              esac
-              node scripts/google-index-submit.js "https://www.citizennest.com${urlPath}/${slug}" || true
-            done < agents/.newly-generated-scheme-slugs
-          else
-            echo "No .newly-generated-scheme-slugs file — skipping"
-          fi
+          gh workflow run "Deploy to Cloudflare" \
+            && echo "✅ Deploy triggered — publishes the new guides + sitemap" \
+            || echo "⚠️ deploy trigger failed (non-critical)"
 
       - name: Submit to IndexNow (Bing + Yandex)
         if: steps.commit.outputs.new_count > 0

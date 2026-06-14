@@ -187,6 +187,15 @@ function isOfficialUrl(url) {
 }
 
 function validateFrontmatter(fm) {
+  // ── sanitize LLM output before validating/writing ──
+  // strip a trailing stage word the model sometimes bakes into examName
+  // (e.g. "… CBT-1 Result"), which otherwise doubles up in the title/slug
+  if (fm.examName) fm.examName = String(fm.examName).replace(/\s+(result|admit\s*card|answer\s*key|notification|registration|cut\s*off|score\s*card)\s*$/i, '').trim();
+  // collapse accidental adjacent duplicate words ("Result Result" → "Result")
+  if (fm.title) fm.title = String(fm.title).replace(/\b([\w()./-]+)(\s+\1\b)+/gi, '$1');
+  // never "born expired": drop an expiry that is on/before the publish date
+  if (fm.expiryDate && fm.publishedDate && fm.expiryDate <= fm.publishedDate) delete fm.expiryDate;
+
   const errors = [];
 
   if (!fm.title || fm.title.length < 20)
