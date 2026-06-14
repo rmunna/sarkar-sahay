@@ -175,6 +175,51 @@ const REWRITES = {
     exclusionsMd: "",
     applicationMd: "Apprentices and establishments register online on the national apprenticeship portal:\n\n**Step 1:** Create a candidate (or establishment) profile on the apprenticeship portal.\n**Step 2:** Complete your profile and search for apprenticeship opportunities in your trade.\n**Step 3:** Apply to an establishment's apprenticeship opening; once engaged, the contract is registered and stipend support flows under NAPS.",
   },
+
+  "pmvs": {
+    briefDescription: "PM-Vidyalaxmi gives meritorious students collateral-free, guarantor-free education loans of up to ₹10 lakh for higher studies, with a government credit guarantee and a 3% interest subsidy for lower-income families.",
+    descriptionMd: "Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) is a Department of Higher Education scheme that helps meritorious students fund higher education through **collateral-free, guarantor-free education loans**. It is designed so that no student misses college for lack of money, backed by a government credit guarantee and an interest subsidy for families with lower incomes.",
+    benefitsMd: "- A **collateral-free, guarantor-free education loan** for students admitted to Quality Higher Educational Institutions (QHEIs).\n- The loan covers course fees plus associated costs (hostel, mess, fees, laptop, living expenses) with **no upper limit** in principle.\n- A **75% credit guarantee** from the Government of India on loans up to **₹7.5 lakh**, regardless of family income.\n- A **3% interest subsidy** on loans up to **₹10 lakh** for students with annual family income up to **₹8 lakh**.",
+    eligibilityMd: "- The applicant must be an **Indian citizen**.\n- Must have **merit-based admission** to one of the **860 designated QHEIs** (not through management or similar quota).\n- For the **3% interest subsidy**, annual family income must be up to **₹8 lakh**.\n- Must not already be getting another central/state scholarship, interest-subvention or fee-reimbursement for the same study.",
+    exclusionsMd: "",
+    applicationMd: "**Step 1:** Visit the official portal ([pmvidyalaxmi.co.in](https://pmvidyalaxmi.co.in/)).\n**Step 2:** Click **'Login' → 'Student Login'**, then **'Create an Account'** to reach the Student Registration page.\n**Step 3:** Register using your **Aadhaar**, then apply for the education loan, interest subvention and credit-guarantee benefits through the portal.",
+  },
+
+  "pmgsy": {
+    briefDescription: "Pradhan Mantri Gram Sadak Yojana (PMGSY) is the central programme that builds all-weather roads connecting India's unconnected rural habitations.",
+    descriptionMd: "Pradhan Mantri Gram Sadak Yojana (PMGSY), launched on 25 December 2000 by the Department of Rural Development, provides **all-weather road connectivity** to eligible rural habitations that previously had none. It is a government infrastructure programme — roads are planned and built by the state/district administration, not applied for by individuals.",
+    benefitsMd: "- **All-weather road connectivity** to eligible unconnected rural habitations, improving access to markets, schools, healthcare and jobs.\n- Roads are built and funded under the programme; there is no individual cash benefit or application.",
+    eligibilityMd: "Eligibility is assessed at the **habitation** level, not the individual:\n- The area must be a **habitation** — a population cluster that stays constant over time (locally called majra, tola, dhani, hamlet, etc.) — not a hamlet or revenue village by itself.\n- The habitation must meet the **population threshold** (as per the 2001 Census) set for road connectivity.",
+    exclusionsMd: "",
+    applicationMd: "PMGSY is **not an individual application scheme** — habitations are identified and prioritised by the State/District Rural Development authorities under the programme. If your habitation lacks an all-weather road, raise it through your **Gram Panchayat / Block Development Office**, which feeds proposals into the state's PMGSY plan.",
+  },
+
+  "pmksypdmc": {
+    briefDescription: "Per Drop More Crop (under PM Krishi Sinchayee Yojana) gives farmers financial assistance to install drip or sprinkler micro-irrigation, saving water and boosting yields.",
+    descriptionMd: "Per Drop More Crop, a component of Pradhan Mantri Krishi Sinchayee Yojana launched on 1 July 2015 by the Ministry of Agriculture & Farmers Welfare, focuses on **water-use efficiency at the farm level through micro-irrigation**. It subsidises drip and sprinkler systems so farmers grow more with less water.",
+    benefitsMd: "- **Financial assistance (subsidy)** to install micro-irrigation — drip or sprinkler systems — on your field.\n- You can install the system yourself or through an approved micro-irrigation company.\n- The subsidy is paid by **Direct Benefit Transfer (DBT)** to your Aadhaar-linked account.",
+    eligibilityMd: "- Must be a **citizen of India**.\n- **All farmers** in the State/UT are eligible.\n- The subsidy is capped at an overall ceiling of **5 hectares per beneficiary**.\n- Only **BIS-marked** systems/components qualify, and Aadhaar is required for the DBT subsidy.",
+    exclusionsMd: "",
+    applicationMd: "**Step 1:** Contact your **Block/District Agriculture Office** through your Gram Panchayat, or call the **Kisan Call Centre (1800-180-1551)**.\n**Step 2:** Collect the scheme application form from the concerned agriculture authority.\n**Step 3:** Fill in all the required details, attach your photo and documents, and submit it to the agriculture office for processing.",
+  },
+
+  "pmkvy-stt": {
+    briefDescription: "PMKVY Short-Term Training gives unemployed youth and school/college dropouts (15–45) free, industry-relevant skill training and a government-recognised certificate at PMKVY Training Centres.",
+    descriptionMd: "Pradhan Mantri Kaushal Vikas Yojana — Short Term Training (PMKVY-STT), run by the Ministry of Skill Development & Entrepreneurship, gives **free short-term skill training** to school/college dropouts and unemployed youth aged 15–45 at PMKVY Training Centres, helping them become job-ready in a chosen trade.",
+    benefitsMd: "- **Free short-term skill training** in an industry-relevant job role at an empanelled PMKVY Training Centre.\n- A **government-recognised certification** on passing the assessment, which improves employability.",
+    eligibilityMd: "Open to any candidate of **Indian nationality** who:\n- Is aged **15 to 45 years**.\n- Has an **Aadhaar card and an Aadhaar-linked bank account**.\n- Meets any additional criteria for the specific job role set by the awarding body.",
+    exclusionsMd: "",
+    applicationMd: "**Step 1:** Find an empanelled **PMKVY Training Centre** near you (via the Skill India portal / Skill India helpline).\n**Step 2:** Enrol in the job role you want, with your Aadhaar and Aadhaar-linked bank account details.\n**Step 3:** Complete the training and pass the assessment to receive your certificate.",
+  },
+
+  "pm-gkay": {
+    briefDescription: "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) gives ration-card holders free foodgrain through the Public Distribution System.",
+    descriptionMd: "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) provides **free foodgrain** through the Public Distribution System (PDS) to priority and Antyodaya ration-card households — supporting migrants and the poor on top of their regular subsidised ration.",
+    benefitsMd: "- **5 kg of foodgrain free of cost** per ration-card family, in addition to the existing subsidised PDS quota.\n- **Wheat** is allocated to 6 States/UTs — Punjab, Haryana, Rajasthan, Chandigarh, Delhi and Gujarat — and **rice** to the remaining States/UTs.",
+    eligibilityMd: "- Families in the **Antyodaya Anna Yojana (AAY)** and **Priority Household (PHH)** categories are eligible.\n- PHH families are identified by State/UT governments by their own criteria; AAY families per central criteria (e.g. households headed by a widow, terminally ill or disabled person, or someone 60+ with no assured support).",
+    exclusionsMd: "",
+    applicationMd: "There is no separate application — collect the grain at your **Fair Price Shop** with your ration card:\n\n**Step 1:** Visit your nearest Fair Price Shop with your ration card.\n**Step 2:** Quote your **ration card number or Aadhaar number** to the dealer (works at any FPS across the country under One Nation One Ration Card).\n**Step 3:** Complete **Aadhaar authentication** via fingerprint or iris scan to collect your free foodgrain.",
+  },
 };
 
 let done = 0;

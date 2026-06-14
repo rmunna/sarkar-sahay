@@ -1,0 +1,32 @@
+{
+  "slug": "pmksypdmc",
+  "name": "Pradhan Mantri Krishi Sinchayee Yojana: Per Drop More Crop",
+  "shortTitle": "PMKSY:PDMC",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Agriculture and Cooperation",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Per Drop More Crop (under PM Krishi Sinchayee Yojana) gives farmers financial assistance to install drip or sprinkler micro-irrigation, saving water and boosting yields.",
+  "descriptionMd": "Per Drop More Crop, a component of Pradhan Mantri Krishi Sinchayee Yojana launched on 1 July 2015 by the Ministry of Agriculture & Farmers Welfare, focuses on **water-use efficiency at the farm level through micro-irrigation**. It subsidises drip and sprinkler systems so farmers grow more with less water.",
+  "benefitsMd": "- **Financial assistance (subsidy)** to install micro-irrigation — drip or sprinkler systems — on your field.\n- You can install the system yourself or through an approved micro-irrigation company.\n- The subsidy is paid by **Direct Benefit Transfer (DBT)** to your Aadhaar-linked account.",
+  "eligibilityMd": "- Must be a **citizen of India**.\n- **All farmers** in the State/UT are eligible.\n- The subsidy is capped at an overall ceiling of **5 hectares per beneficiary**.\n- Only **BIS-marked** systems/components qualify, and Aadhaar is required for the DBT subsidy.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Contact your **Block/District Agriculture Office** through your Gram Panchayat, or call the **Kisan Call Centre (1800-180-1551)**.\n**Step 2:** Collect the scheme application form from the concerned agriculture authority.\n**Step 3:** Fill in all the required details, attach your photo and documents, and submit it to the agriculture office for processing.",
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://pmksy.gov.in/microirrigation/Archive/Revised%20PDMC%20GL%202021.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://pmksy.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

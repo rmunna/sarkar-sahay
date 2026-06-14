@@ -1,0 +1,29 @@
+{
+  "slug": "pm-gkay",
+  "name": "Pradhan Mantri Garib Kalyan Anna Yojana",
+  "shortTitle": "PM-GKAY",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Economic Affairs",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) gives ration-card holders free foodgrain through the Public Distribution System.",
+  "descriptionMd": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) provides **free foodgrain** through the Public Distribution System (PDS) to priority and Antyodaya ration-card households — supporting migrants and the poor on top of their regular subsidised ration.",
+  "benefitsMd": "- **5 kg of foodgrain free of cost** per ration-card family, in addition to the existing subsidised PDS quota.\n- **Wheat** is allocated to 6 States/UTs — Punjab, Haryana, Rajasthan, Chandigarh, Delhi and Gujarat — and **rice** to the remaining States/UTs.",
+  "eligibilityMd": "- Families in the **Antyodaya Anna Yojana (AAY)** and **Priority Household (PHH)** categories are eligible.\n- PHH families are identified by State/UT governments by their own criteria; AAY families per central criteria (e.g. households headed by a widow, terminally ill or disabled person, or someone 60+ with no assured support).",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "There is no separate application — collect the grain at your **Fair Price Shop** with your ration card:\n\n**Step 1:** Visit your nearest Fair Price Shop with your ration card.\n**Step 2:** Quote your **ration card number or Aadhaar number** to the dealer (works at any FPS across the country under One Nation One Ration Card).\n**Step 3:** Complete **Aadhaar authentication** via fingerprint or iris scan to collect your free foodgrain.",
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "https://www.idfcinstitute.org/site/assets/files/15623/final_white_paper_pmgky-2-1.pdf "
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

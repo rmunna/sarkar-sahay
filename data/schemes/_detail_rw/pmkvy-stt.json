@@ -1,0 +1,28 @@
+{
+  "slug": "pmkvy-stt",
+  "name": "Pradhan Mantri Kaushal Vikas Yojana - Short Term Training",
+  "shortTitle": "PMKVY -STT",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Skill Development And Entrepreneurship",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "PMKVY Short-Term Training gives unemployed youth and school/college dropouts (15–45) free, industry-relevant skill training and a government-recognised certificate at PMKVY Training Centres.",
+  "descriptionMd": "Pradhan Mantri Kaushal Vikas Yojana — Short Term Training (PMKVY-STT), run by the Ministry of Skill Development & Entrepreneurship, gives **free short-term skill training** to school/college dropouts and unemployed youth aged 15–45 at PMKVY Training Centres, helping them become job-ready in a chosen trade.",
+  "benefitsMd": "- **Free short-term skill training** in an industry-relevant job role at an empanelled PMKVY Training Centre.\n- A **government-recognised certification** on passing the assessment, which improves employability.",
+  "eligibilityMd": "Open to any candidate of **Indian nationality** who:\n- Is aged **15 to 45 years**.\n- Has an **Aadhaar card and an Aadhaar-linked bank account**.\n- Meets any additional criteria for the specific job role set by the awarding body.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Find an empanelled **PMKVY Training Centre** near you (via the Skill India portal / Skill India helpline).\n**Step 2:** Enrol in the job role you want, with your Aadhaar and Aadhaar-linked bank account details.\n**Step 3:** Complete the training and pass the assessment to receive your certificate.",
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "https://www.pmkvyofficial.org/photos/shares/guidlines/PMKY-Guideline_report_(08-01-2021)V3.pdf "
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

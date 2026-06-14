@@ -1,0 +1,32 @@
+{
+  "slug": "pmgsy",
+  "name": "Pradhan Mantri Gram Sadak Yojana",
+  "shortTitle": "PMGSY",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Rural Development",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "All"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Pradhan Mantri Gram Sadak Yojana (PMGSY) is the central programme that builds all-weather roads connecting India's unconnected rural habitations.",
+  "descriptionMd": "Pradhan Mantri Gram Sadak Yojana (PMGSY), launched on 25 December 2000 by the Department of Rural Development, provides **all-weather road connectivity** to eligible rural habitations that previously had none. It is a government infrastructure programme — roads are planned and built by the state/district administration, not applied for by individuals.",
+  "benefitsMd": "- **All-weather road connectivity** to eligible unconnected rural habitations, improving access to markets, schools, healthcare and jobs.\n- Roads are built and funded under the programme; there is no individual cash benefit or application.",
+  "eligibilityMd": "Eligibility is assessed at the **habitation** level, not the individual:\n- The area must be a **habitation** — a population cluster that stays constant over time (locally called majra, tola, dhani, hamlet, etc.) — not a hamlet or revenue village by itself.\n- The habitation must meet the **population threshold** (as per the 2001 Census) set for road connectivity.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "PMGSY is **not an individual application scheme** — habitations are identified and prioritised by the State/District Rural Development authorities under the programme. If your habitation lacks an all-weather road, raise it through your **Gram Panchayat / Block Development Office**, which feeds proposals into the state's PMGSY plan.",
+  "references": [
+    {
+      "title": "PMGSY-III Guidelines",
+      "url": "https://pmgsy.nic.in/sites/default/files/PMGSY_III_guidelines.pdf"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://pmgsy.nic.in/frequently-asked-questions-pradhan-mantri-gram-sadak-yojana-pmgsy"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

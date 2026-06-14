@@ -1,0 +1,40 @@
+{
+  "slug": "pmvs",
+  "name": "Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) Scheme",
+  "shortTitle": "PMVS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Higher Education",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "PM-Vidyalaxmi gives meritorious students collateral-free, guarantor-free education loans of up to ₹10 lakh for higher studies, with a government credit guarantee and a 3% interest subsidy for lower-income families.",
+  "descriptionMd": "Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) is a Department of Higher Education scheme that helps meritorious students fund higher education through **collateral-free, guarantor-free education loans**. It is designed so that no student misses college for lack of money, backed by a government credit guarantee and an interest subsidy for families with lower incomes.",
+  "benefitsMd": "- A **collateral-free, guarantor-free education loan** for students admitted to Quality Higher Educational Institutions (QHEIs).\n- The loan covers course fees plus associated costs (hostel, mess, fees, laptop, living expenses) with **no upper limit** in principle.\n- A **75% credit guarantee** from the Government of India on loans up to **₹7.5 lakh**, regardless of family income.\n- A **3% interest subsidy** on loans up to **₹10 lakh** for students with annual family income up to **₹8 lakh**.",
+  "eligibilityMd": "- The applicant must be an **Indian citizen**.\n- Must have **merit-based admission** to one of the **860 designated QHEIs** (not through management or similar quota).\n- For the **3% interest subsidy**, annual family income must be up to **₹8 lakh**.\n- Must not already be getting another central/state scholarship, interest-subvention or fee-reimbursement for the same study.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the official portal ([pmvidyalaxmi.co.in](https://pmvidyalaxmi.co.in/)).\n**Step 2:** Click **'Login' → 'Student Login'**, then **'Create an Account'** to reach the Student Registration page.\n**Step 3:** Register using your **Aadhaar**, then apply for the education loan, interest subvention and credit-guarantee benefits through the portal.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.education.gov.in/sites/upload_files/mhrd/files/document-reports/PM_Vidyalaxmi_Scheme_Guidelines.pdf"
+    },
+    {
+      "title": "Other Information",
+      "url": "https://www.education.gov.in/scholarships-education-loan-4"
+    },
+    {
+      "title": "User Manual For Application",
+      "url": "https://pmvidyalaxmi.co.in/img/UserManual-Student.pdf?csrt=17538697394644098652"
+    },
+    {
+      "title": "List Of 860 Quality Higher Education Institutions",
+      "url": "https://dashboard.aishe.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}
