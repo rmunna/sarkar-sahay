@@ -1,20 +1,20 @@
 {
-  "scannedAt": "2026-06-13T21:22:00.425490",
+  "scannedAt": "2026-06-13T14:32:49.526684",
   "results": [
-    {
-      "topic": "msbte",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
     {
       "topic": "re-neet 2026 admit card download",
       "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": "neet-ug-apply-admit-card-results",
+      "guide_exists": "jee-main-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "up cnet result 2026",
+      "category": "Realtime RSS (IN)",
+      "rising_value": 100,
+      "guide_exists": null,
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -31,11 +31,11 @@
   ],
   "opportunities": [
     {
-      "topic": "msbte",
+      "topic": "up cnet result 2026",
       "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": false,
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
@@ -54,13 +54,22 @@
       "topic": "re-neet 2026 admit card download",
       "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": "neet-ug-apply-admit-card-results",
+      "guide_exists": "jee-main-apply-admit-card-results",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
+    {
+      "topic": "up cnet result 2026",
+      "category": "Realtime RSS (IN)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
     {
       "topic": "cnet result date 2026",
       "category": "Realtime RSS (IN-UP)",
