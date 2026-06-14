@@ -57,7 +57,7 @@
       "lastChanged": "2026-03-01T02:46:19.512Z"
     },
     "ssc:notices": {
-      "lastChecked": "2026-06-14T03:30:14.593Z",
+      "lastChecked": "2026-06-14T07:37:48.189Z",
       "noticeIds": [
         "vxypmb8obbjggmjeqs3oa",
         "739a10i10513s46dp13cy",
@@ -82,7 +82,7 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-06-14T03:30:17.183Z",
+      "lastChecked": "2026-06-14T07:37:52.432Z",
       "noticeIds": [
         "20260612174824",
         "20260612162332",
@@ -823,7 +823,7 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-06-14T03:30:20.881Z",
+      "lastChecked": "2026-06-14T07:38:01.348Z",
       "contentHash": "7d8660b40cd156898576df728bc06bc1",
       "noticeHash": "4b0e31bf5efd097bda7dc59eab0d9e36",
       "pdfHash": "d44af7f55a7c04af43bdc8205695e671",
@@ -934,8 +934,8 @@
       ]
     },
     "uppsc:hash": {
-      "lastChecked": "2026-06-14T03:30:37.133Z",
-      "contentHash": "0230767738ccd0d0c919a4b14feeb3ce",
+      "lastChecked": "2026-06-14T07:38:22.259Z",
+      "contentHash": "f3c7441e0ff2281517a56cdcbd0e428e",
       "noticeHash": "2705524bc5eeeed716a92ca9dd868e9b",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "noticeUrls": [
@@ -946,7 +946,7 @@
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-06-14T03:30:20.435Z",
+      "lastChecked": "2026-06-14T07:38:00.164Z",
       "contentHash": "1d0bdb62a9697744bf58388a847910f1",
       "noticeHash": "afa955b7c27ef2cfe68b5b6ca72c10bc",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
@@ -985,8 +985,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-06-14T03:30:20.672Z",
-      "contentHash": "54b71626b56973b52b7efbf5a9382737",
+      "lastChecked": "2026-06-14T07:37:59.890Z",
+      "contentHash": "2cb342ccf4b80569598a11171f326747",
       "noticeHash": "f8e8af967e3a5c4c10e2a4e2931d2145",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "noticeUrls": [
@@ -1041,7 +1041,7 @@
       "pdfs": []
     },
     "cbse:hash": {
-      "lastChecked": "2026-06-14T03:30:25.529Z",
+      "lastChecked": "2026-06-14T07:38:12.720Z",
       "contentHash": "4a4ccfaf29d0213341e5ce78085aab01",
       "noticeHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -1103,8 +1103,8 @@
       ]
     },
     "cisf:hash": {
-      "lastChecked": "2026-06-14T03:30:25.381Z",
-      "contentHash": "fc1b237d2ccdfcacfc737929573feca7",
+      "lastChecked": "2026-06-14T07:38:12.045Z",
+      "contentHash": "fcd64e1d2dccdb2809c5bd09e0c7bc9d",
       "noticeHash": "7e266caf0e56317aa1805d17ba5fad2c",
       "pdfHash": "dcb8f9d4988ce1cb962ced406b83bc91",
       "noticeUrls": [
@@ -1144,7 +1144,7 @@
       "pdfs": []
     },
     "crpf:hash": {
-      "lastChecked": "2026-06-14T03:30:27.850Z",
+      "lastChecked": "2026-06-14T07:38:12.460Z",
       "contentHash": "77d57158d2f12277c71d6832d08392d2",
       "noticeHash": "bc2e64948e30353f24fa4f74bc966143",
       "pdfHash": "2c43b889cc234897fcebc7a695909fbb",
@@ -1233,8 +1233,8 @@
       ]
     },
     "kvs:hash": {
-      "lastChecked": "2026-06-14T03:30:28.484Z",
-      "contentHash": "bcaf35db3ea9af55ac2e6a6091cc512e",
+      "lastChecked": "2026-06-14T07:38:16.563Z",
+      "contentHash": "58962213d5c97c25669146db52fdf2fa",
       "noticeHash": "e9e1a4a990985582d196041261c02e9b",
       "pdfHash": "25e32379b8f0b399da0ab3fc2f26d0dc",
       "noticeUrls": [
@@ -1374,7 +1374,7 @@
       ]
     },
     "mppsc:hash": {
-      "lastChecked": "2026-06-14T03:30:34.746Z",
+      "lastChecked": "2026-06-14T07:38:22.508Z",
       "contentHash": "45a872bd1a94c8040a86bdd1c296ac30",
       "noticeHash": "bf7ebf57273e42713604d0e96bcf0359",
       "pdfHash": "74a7c0e68321372b2935179ebe20c76d",
@@ -1545,7 +1545,7 @@
       ]
     },
     "cuet:hash": {
-      "lastChecked": "2026-06-14T03:30:35.662Z",
+      "lastChecked": "2026-06-14T07:38:21.138Z",
       "contentHash": "657f18df2829b0a9a5a5fd284c313bf2",
       "noticeHash": "5b1e4e46e9763ebb272171c1da290455",
       "pdfHash": "49d4ce3a2583068d2759894c5f23baae",
@@ -2204,7 +2204,7 @@
       "pdfs": []
     },
     "jpsc:hash": {
-      "lastChecked": "2026-06-14T03:30:40.448Z",
+      "lastChecked": "2026-06-14T07:38:28.026Z",
       "contentHash": "8cdb38c25a95f2eff1b507fac0b0a033",
       "noticeHash": "32ceb10f38564222ec7cb86f76b6ebcd",
       "pdfHash": "c9af55d42b52224cedb69411e41999dd",
@@ -2613,7 +2613,7 @@
       ]
     },
     "ukpsc:hash": {
-      "lastChecked": "2026-06-14T03:30:45.362Z",
+      "lastChecked": "2026-06-14T07:38:32.489Z",
       "contentHash": "29183ec5cee976219d1fa1ec8bb74947",
       "noticeHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -2682,7 +2682,7 @@
       "pdfs": []
     },
     "ctet:hash": {
-      "lastChecked": "2026-06-14T03:30:45.821Z",
+      "lastChecked": "2026-06-14T07:38:35.744Z",
       "contentHash": "39c1760d6d9272a88414efe0086b4654",
       "noticeHash": "f9613e6465b7f473a404d005b8f8730d",
       "pdfHash": "3243cc5ff9cc78ab399571499e449e90",
@@ -4064,5 +4064,5 @@
       ]
     }
   },
-  "lastScan": "2026-06-14T03:31:00.575Z"
+  "lastScan": "2026-06-14T07:38:43.141Z"
 }
