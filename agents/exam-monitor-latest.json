@@ -1,86 +1,92 @@
 {
-  "scanTime": "2026-06-14T03:07:56.274Z",
-  "elapsedSeconds": 41.9,
-  "changesDetected": 13,
-  "noiseDetected": 2,
+  "scanTime": "2026-06-14T03:31:00.587Z",
+  "elapsedSeconds": 49.4,
+  "changesDetected": 14,
+  "noiseDetected": 1,
   "changes": [
     {
       "site": "SBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-06-14T03:07:20.578Z"
+      "detectedAt": "2026-06-14T03:30:22.660Z"
     },
     {
       "site": "RBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-14T03:07:20.079Z"
+      "detectedAt": "2026-06-14T03:30:20.672Z"
+    },
+    {
+      "site": "Indian Navy",
+      "type": "TEXT_NOTICE",
+      "url": "https://www.joinindiannavy.gov.in/",
+      "detectedAt": "2026-06-14T03:30:20.977Z"
     },
     {
       "site": "CISF",
       "type": "TEXT_NOTICE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-14T03:07:25.340Z"
+      "detectedAt": "2026-06-14T03:30:25.381Z"
     },
     {
       "site": "BSF",
       "type": "TEXT_NOTICE",
       "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-06-14T03:07:25.147Z"
+      "detectedAt": "2026-06-14T03:30:25.743Z"
     },
     {
       "site": "KVS",
       "type": "TEXT_NOTICE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-14T03:07:27.169Z"
+      "detectedAt": "2026-06-14T03:30:28.484Z"
     },
     {
       "site": "NVS (Navodaya)",
       "type": "TEXT_NOTICE",
       "url": "https://navodaya.gov.in/",
-      "detectedAt": "2026-06-14T03:07:27.795Z"
+      "detectedAt": "2026-06-14T03:30:33.824Z"
     },
     {
       "site": "UPPSC",
       "type": "TEXT_NOTICE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-14T03:07:32.474Z"
+      "detectedAt": "2026-06-14T03:30:37.133Z"
     },
     {
       "site": "RPSC",
       "type": "TEXT_NOTICE",
       "url": "https://rpsc.rajasthan.gov.in/",
-      "detectedAt": "2026-06-14T03:07:30.962Z"
+      "detectedAt": "2026-06-14T03:30:35.843Z"
     },
     {
       "site": "TNPSC",
       "type": "TEXT_NOTICE",
       "url": "https://www.tnpsc.gov.in/",
-      "detectedAt": "2026-06-14T03:07:31.006Z"
+      "detectedAt": "2026-06-14T03:30:35.047Z"
     },
     {
       "site": "GPSC",
       "type": "TEXT_NOTICE",
       "url": "https://gpsc.gujarat.gov.in/",
-      "detectedAt": "2026-06-14T03:07:36.864Z"
+      "detectedAt": "2026-06-14T03:30:41.794Z"
     },
     {
       "site": "HPSC",
       "type": "TEXT_NOTICE",
       "url": "https://www.hpsc.gov.in/",
-      "detectedAt": "2026-06-14T03:07:36.930Z"
+      "detectedAt": "2026-06-14T03:30:42.546Z"
     },
     {
       "site": "DSSSB",
       "type": "TEXT_NOTICE",
       "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-06-14T03:07:41.662Z"
+      "detectedAt": "2026-06-14T03:30:46.272Z"
     },
     {
       "site": "UP Board",
       "type": "TEXT_NOTICE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-14T03:07:41.475Z"
+      "detectedAt": "2026-06-14T03:30:45.857Z"
     }
   ],
   "noiseChanges": [
@@ -88,13 +94,7 @@
       "site": "NABARD",
       "type": "CONTENT_CHANGE",
       "url": "https://www.nabard.org/career-notices.aspx",
-      "detectedAt": "2026-06-14T03:07:20.180Z"
-    },
-    {
-      "site": "KPSC/KEA",
-      "type": "CONTENT_CHANGE",
-      "url": "https://cetonline.karnataka.gov.in/kea/",
-      "detectedAt": "2026-06-14T03:07:35.872Z"
+      "detectedAt": "2026-06-14T03:30:20.983Z"
     }
   ],
   "errors": 11,
@@ -102,11 +102,6 @@
     {
       "site": "Indian Army",
       "url": "https://joinindianarmy.nic.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "Indian Navy",
-      "url": "https://www.joinindiannavy.gov.in/",
       "error": "Timeout"
     },
     {
@@ -123,6 +118,11 @@
       "site": "BPSC",
       "url": "https://www.bpsc.bih.nic.in/",
       "error": "Timeout"
+    },
+    {
+      "site": "KPSC/KEA",
+      "url": "https://cetonline.karnataka.gov.in/kea/",
+      "error": "HTTP 503"
     },
     {
       "site": "TSPSC",
