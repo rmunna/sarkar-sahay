@@ -1,0 +1,138 @@
+{
+  "exam": "GPSC Class 1 2 2026",
+  "generatedAt": "2026-06-15T13:52:04.886Z",
+  "plan": [
+    {
+      "slug": "notification",
+      "query": "GPSC Class 1 2 2026 notification",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "bubnasias.com",
+        "testbook.com",
+        "testbook.com"
+      ]
+    },
+    {
+      "slug": "apply-online",
+      "query": "GPSC Class 1 2 2026 apply online application form",
+      "verdict": "HARD",
+      "strongTop5": 4,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "gpsc.gujarat.gov.in",
+        "timesofindia.indiatimes.com"
+      ]
+    },
+    {
+      "slug": "last-date",
+      "query": "GPSC Class 1 2 2026 application last date",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "competition.careers360.com",
+        "jobsinsarkari.net"
+      ]
+    },
+    {
+      "slug": "exam-date",
+      "query": "GPSC Class 1 2 2026 exam date",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "bubnasias.com",
+        "marugujarat.in"
+      ]
+    },
+    {
+      "slug": "admit-card",
+      "query": "GPSC Class 1 2 2026 admit card download",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "truejobs.co.in",
+        "testbook.com",
+        "testbook.com"
+      ]
+    },
+    {
+      "slug": "result",
+      "query": "GPSC Class 1 2 2026 result",
+      "verdict": "WINNABLE",
+      "strongTop5": 2,
+      "ourPos": null,
+      "top3": [
+        "gpsc.gujarat.gov.in",
+        "studyiq.com",
+        "taiyarho.in"
+      ]
+    },
+    {
+      "slug": "answer-key",
+      "query": "GPSC Class 1 2 2026 answer key",
+      "verdict": "WINNABLE",
+      "strongTop5": 2,
+      "ourPos": null,
+      "top3": [
+        "gpsc.gujarat.gov.in",
+        "ojasbharti.in",
+        "juniortest.com"
+      ]
+    },
+    {
+      "slug": "syllabus",
+      "query": "GPSC Class 1 2 2026 syllabus exam pattern",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "gpsc.gujarat.gov.in",
+        "gpsc-ojas.gujarat.gov.in",
+        "taiyarho.in"
+      ]
+    },
+    {
+      "slug": "eligibility",
+      "query": "GPSC Class 1 2 2026 eligibility age limit",
+      "verdict": "WINNABLE",
+      "strongTop5": 1,
+      "ourPos": null,
+      "top3": [
+        "taiyarho.in",
+        "prepp.in",
+        "testbook.com"
+      ]
+    },
+    {
+      "slug": "salary",
+      "query": "GPSC Class 1 2 2026 salary in hand pay scale",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "competition.careers360.com",
+        "bharatgeek.com",
+        "testbook.com"
+      ]
+    },
+    {
+      "slug": "cutoff",
+      "query": "GPSC Class 1 2 2026 cut off marks",
+      "verdict": "WINNABLE",
+      "strongTop5": 1,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "studyiq.com",
+        "taiyarho.in"
+      ]
+    }
+  ]
+}

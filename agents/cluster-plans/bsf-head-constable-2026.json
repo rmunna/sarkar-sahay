@@ -1,0 +1,138 @@
+{
+  "exam": "BSF Head Constable 2026",
+  "generatedAt": "2026-06-15T13:53:13.931Z",
+  "plan": [
+    {
+      "slug": "notification",
+      "query": "BSF Head Constable 2026 notification",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "rectt.bsf.gov.in",
+        "askfilo.com"
+      ]
+    },
+    {
+      "slug": "apply-online",
+      "query": "BSF Head Constable 2026 apply online application form",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "rectt.bsf.gov.in",
+        "jobassam.in"
+      ]
+    },
+    {
+      "slug": "last-date",
+      "query": "BSF Head Constable 2026 application last date",
+      "verdict": "WINNABLE",
+      "strongTop5": 2,
+      "ourPos": null,
+      "top3": [
+        "askfilo.com",
+        "testbook.com",
+        "rectt.bsf.gov.in"
+      ]
+    },
+    {
+      "slug": "exam-date",
+      "query": "BSF Head Constable 2026 exam date",
+      "verdict": "WINNABLE",
+      "strongTop5": 1,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "resultmarg.com",
+        "toppersexam.com"
+      ]
+    },
+    {
+      "slug": "admit-card",
+      "query": "BSF Head Constable 2026 admit card download",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "testbook.com",
+        "rectt.bsf.gov.in"
+      ]
+    },
+    {
+      "slug": "result",
+      "query": "BSF Head Constable 2026 result",
+      "verdict": "HARD",
+      "strongTop5": 4,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "askfilo.com",
+        "testbook.com"
+      ]
+    },
+    {
+      "slug": "answer-key",
+      "query": "BSF Head Constable 2026 answer key",
+      "verdict": "WINNABLE",
+      "strongTop5": 1,
+      "ourPos": null,
+      "top3": [
+        "askfilo.com",
+        "testbook.com",
+        "prepp.in"
+      ]
+    },
+    {
+      "slug": "syllabus",
+      "query": "BSF Head Constable 2026 syllabus exam pattern",
+      "verdict": "WINNABLE",
+      "strongTop5": 1,
+      "ourPos": null,
+      "top3": [
+        "toppersexam.com",
+        "testbook.com",
+        "toppersexam.com"
+      ]
+    },
+    {
+      "slug": "eligibility",
+      "query": "BSF Head Constable 2026 eligibility age limit",
+      "verdict": "WINNABLE",
+      "strongTop5": 1,
+      "ourPos": null,
+      "top3": [
+        "askfilo.com",
+        "testbook.com",
+        "askfilo.com"
+      ]
+    },
+    {
+      "slug": "salary",
+      "query": "BSF Head Constable 2026 salary in hand pay scale",
+      "verdict": "WINNABLE",
+      "strongTop5": 2,
+      "ourPos": null,
+      "top3": [
+        "askfilo.com",
+        "testbook.com",
+        "getmyuni.com"
+      ]
+    },
+    {
+      "slug": "cutoff",
+      "query": "BSF Head Constable 2026 cut off marks",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "askfilo.com",
+        "bsf.gov.in",
+        "testbook.com"
+      ]
+    }
+  ]
+}

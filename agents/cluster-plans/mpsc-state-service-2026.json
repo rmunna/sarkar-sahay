@@ -1,0 +1,138 @@
+{
+  "exam": "MPSC State Service 2026",
+  "generatedAt": "2026-06-15T13:53:47.944Z",
+  "plan": [
+    {
+      "slug": "notification",
+      "query": "MPSC State Service 2026 notification",
+      "verdict": "HARD",
+      "strongTop5": 4,
+      "ourPos": null,
+      "top3": [
+        "mpsc.gov.in",
+        "testbook.com",
+        "pw.live"
+      ]
+    },
+    {
+      "slug": "apply-online",
+      "query": "MPSC State Service 2026 apply online application form",
+      "verdict": "HARD",
+      "strongTop5": 5,
+      "ourPos": null,
+      "top3": [
+        "mpsconline.gov.in",
+        "jagranjosh.com",
+        "sarkariresult.com.im"
+      ]
+    },
+    {
+      "slug": "last-date",
+      "query": "MPSC State Service 2026 application last date",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "mpsc.gov.in",
+        "testbook.com"
+      ]
+    },
+    {
+      "slug": "exam-date",
+      "query": "MPSC State Service 2026 exam date",
+      "verdict": "HARD",
+      "strongTop5": 4,
+      "ourPos": null,
+      "top3": [
+        "mpsc.gov.in",
+        "testbook.com",
+        "adda247.com"
+      ]
+    },
+    {
+      "slug": "admit-card",
+      "query": "MPSC State Service 2026 admit card download",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "mppsc.mp.gov.in",
+        "testbook.com",
+        "timesofindia.indiatimes.com"
+      ]
+    },
+    {
+      "slug": "result",
+      "query": "MPSC State Service 2026 result",
+      "verdict": "WINNABLE",
+      "strongTop5": 2,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "mpsc.gov.in",
+        "prepp.in"
+      ]
+    },
+    {
+      "slug": "answer-key",
+      "query": "MPSC State Service 2026 answer key",
+      "verdict": "HARD",
+      "strongTop5": 4,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "pw.live",
+        "adda247.com"
+      ]
+    },
+    {
+      "slug": "syllabus",
+      "query": "MPSC State Service 2026 syllabus exam pattern",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "careerpower.in",
+        "toppersexam.com"
+      ]
+    },
+    {
+      "slug": "eligibility",
+      "query": "MPSC State Service 2026 eligibility age limit",
+      "verdict": "WINNABLE",
+      "strongTop5": 1,
+      "ourPos": null,
+      "top3": [
+        "spmiasacademy.com",
+        "vajiraoinstitute.com",
+        "pw.live"
+      ]
+    },
+    {
+      "slug": "salary",
+      "query": "MPSC State Service 2026 salary in hand pay scale",
+      "verdict": "WINNABLE",
+      "strongTop5": 2,
+      "ourPos": null,
+      "top3": [
+        "prepp.in",
+        "topperteachers.com",
+        "freejobalert.com"
+      ]
+    },
+    {
+      "slug": "cutoff",
+      "query": "MPSC State Service 2026 cut off marks",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "prepiqedu.in",
+        "testbook.com"
+      ]
+    }
+  ]
+}

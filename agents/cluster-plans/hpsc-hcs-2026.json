@@ -1,0 +1,138 @@
+{
+  "exam": "HPSC HCS 2026",
+  "generatedAt": "2026-06-15T13:51:32.823Z",
+  "plan": [
+    {
+      "slug": "notification",
+      "query": "HPSC HCS 2026 notification",
+      "verdict": "HARD",
+      "strongTop5": 4,
+      "ourPos": null,
+      "top3": [
+        "adda247.com",
+        "prepp.in",
+        "testbook.com"
+      ]
+    },
+    {
+      "slug": "apply-online",
+      "query": "HPSC HCS 2026 apply online application form",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "sarkariresult.com.im",
+        "theiashub.com",
+        "adda247.com"
+      ]
+    },
+    {
+      "slug": "last-date",
+      "query": "HPSC HCS 2026 application last date",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "careerpower.in",
+        "adda247.com",
+        "prepp.in"
+      ]
+    },
+    {
+      "slug": "exam-date",
+      "query": "HPSC HCS 2026 exam date",
+      "verdict": "HARD",
+      "strongTop5": 4,
+      "ourPos": null,
+      "top3": [
+        "adda247.com",
+        "careerpower.in",
+        "prepp.in"
+      ]
+    },
+    {
+      "slug": "admit-card",
+      "query": "HPSC HCS 2026 admit card download",
+      "verdict": "HARD",
+      "strongTop5": 4,
+      "ourPos": null,
+      "top3": [
+        "prepp.in",
+        "careerpower.in",
+        "testbook.com"
+      ]
+    },
+    {
+      "slug": "result",
+      "query": "HPSC HCS 2026 result",
+      "verdict": "HARD",
+      "strongTop5": 5,
+      "ourPos": null,
+      "top3": [
+        "careerpower.in",
+        "adda247.com",
+        "hpsc.gov.in"
+      ]
+    },
+    {
+      "slug": "answer-key",
+      "query": "HPSC HCS 2026 answer key",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "drishtiias.com",
+        "testbook.com",
+        "hpsc.gov.in"
+      ]
+    },
+    {
+      "slug": "syllabus",
+      "query": "HPSC HCS 2026 syllabus exam pattern",
+      "verdict": "HARD",
+      "strongTop5": 4,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "adda247.com",
+        "careerpower.in"
+      ]
+    },
+    {
+      "slug": "eligibility",
+      "query": "HPSC HCS 2026 eligibility age limit",
+      "verdict": "WINNABLE",
+      "strongTop5": 0,
+      "ourPos": null,
+      "top3": [
+        "theiashub.com",
+        "o2iasacademy.in",
+        "prepp.in"
+      ]
+    },
+    {
+      "slug": "salary",
+      "query": "HPSC HCS 2026 salary in hand pay scale",
+      "verdict": "WINNABLE",
+      "strongTop5": 1,
+      "ourPos": null,
+      "top3": [
+        "studyiq.com",
+        "adda247.com",
+        "bharatgeek.com"
+      ]
+    },
+    {
+      "slug": "cutoff",
+      "query": "HPSC HCS 2026 cut off marks",
+      "verdict": "WINNABLE",
+      "strongTop5": 2,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "studyiq.com",
+        "o2iasacademy.in"
+      ]
+    }
+  ]
+}

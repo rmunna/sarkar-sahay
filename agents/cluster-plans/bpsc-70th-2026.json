@@ -1,0 +1,138 @@
+{
+  "exam": "BPSC 70th 2026",
+  "generatedAt": "2026-06-15T13:54:21.508Z",
+  "plan": [
+    {
+      "slug": "notification",
+      "query": "BPSC 70th 2026 notification",
+      "verdict": "HARD",
+      "strongTop5": 5,
+      "ourPos": null,
+      "top3": [
+        "bpsc.bihar.gov.in",
+        "bpsc.bihar.gov.in",
+        "bpsc.bihar.gov.in"
+      ]
+    },
+    {
+      "slug": "apply-online",
+      "query": "BPSC 70th 2026 apply online application form",
+      "verdict": "HARD",
+      "strongTop5": 5,
+      "ourPos": null,
+      "top3": [
+        "onlinebpsc.bihar.gov.in",
+        "bpsc.bihar.gov.in",
+        "bpsconline.bihar.gov.in"
+      ]
+    },
+    {
+      "slug": "last-date",
+      "query": "BPSC 70th 2026 application last date",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "sarkariresult.com.cm",
+        "bpsc.bihar.gov.in",
+        "bpsc.bihar.gov.in"
+      ]
+    },
+    {
+      "slug": "exam-date",
+      "query": "BPSC 70th 2026 exam date",
+      "verdict": "MEDIUM",
+      "strongTop5": 3,
+      "ourPos": null,
+      "top3": [
+        "bpsc.bihar.gov.in",
+        "pw.live",
+        "sarkariresult.com.cm"
+      ]
+    },
+    {
+      "slug": "admit-card",
+      "query": "BPSC 70th 2026 admit card download",
+      "verdict": "HARD",
+      "strongTop5": 4,
+      "ourPos": null,
+      "top3": [
+        "bestcolleges.indiatoday.in",
+        "bpsc.bihar.gov.in",
+        "competition.careers360.com"
+      ]
+    },
+    {
+      "slug": "result",
+      "query": "BPSC 70th 2026 result",
+      "verdict": "WINNABLE",
+      "strongTop5": 1,
+      "ourPos": null,
+      "top3": [
+        "skillupbihar.in",
+        "pw.live",
+        "prabhatkhabar.com"
+      ]
+    },
+    {
+      "slug": "answer-key",
+      "query": "BPSC 70th 2026 answer key",
+      "verdict": "WINNABLE",
+      "strongTop5": 1,
+      "ourPos": null,
+      "top3": [
+        "forumias.com",
+        "examdhara.com",
+        "cdn.testbook.com"
+      ]
+    },
+    {
+      "slug": "syllabus",
+      "query": "BPSC 70th 2026 syllabus exam pattern",
+      "verdict": "WINNABLE",
+      "strongTop5": 2,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "sanskritiias.com",
+        "studyiq.com"
+      ]
+    },
+    {
+      "slug": "eligibility",
+      "query": "BPSC 70th 2026 eligibility age limit",
+      "verdict": "WINNABLE",
+      "strongTop5": 2,
+      "ourPos": null,
+      "top3": [
+        "rojgardekho.in",
+        "testbook.com",
+        "pw.live"
+      ]
+    },
+    {
+      "slug": "salary",
+      "query": "BPSC 70th 2026 salary in hand pay scale",
+      "verdict": "WINNABLE",
+      "strongTop5": 2,
+      "ourPos": null,
+      "top3": [
+        "pw.live",
+        "biharhelp.in",
+        "blog.bssei.in"
+      ]
+    },
+    {
+      "slug": "cutoff",
+      "query": "BPSC 70th 2026 cut off marks",
+      "verdict": "WINNABLE",
+      "strongTop5": 2,
+      "ourPos": null,
+      "top3": [
+        "testbook.com",
+        "careerpower.in",
+        "blog.oureducation.in"
+      ]
+    }
+  ]
+}
