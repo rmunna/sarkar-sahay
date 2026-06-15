@@ -1,27 +1,45 @@
 {
-  "scannedAt": "2026-06-15T05:32:10.949780",
+  "scannedAt": "2026-06-15T12:46:31.744432",
   "results": [
     {
-      "topic": "sbi bank share price",
+      "topic": "kerala university",
       "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": "petrol-diesel-price-check-today",
+      "guide_exists": "kerala-caste-certificate-apply-online",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "sslc result 2026 kerala",
-      "category": "Realtime RSS (IN)",
+      "topic": "upsc prelims 2026 result",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
-      "guide_exists": "kerala-caste-certificate-apply-online",
+      "guide_exists": "upsc-cse-prelims-2026-answer-key",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "vedanta share",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "bigg boss 20 contestants list",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "abhishek banerjee",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "upsc",
+      "category": "Realtime RSS (IN-TG)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
@@ -30,7 +48,7 @@
     },
     {
       "topic": "sbi share price",
-      "category": "Realtime RSS (IN-UP)",
+      "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
       "guide_exists": "petrol-diesel-price-check-today",
       "is_spike": false,
@@ -38,46 +56,19 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "ayushman bharat card",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": "ayushman-bharat-pmjay-health-card",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ayushman bharat",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": "ayushman-bharat-pmjay-health-card",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "vedanta share price",
-      "category": "Realtime RSS (IN-KA)",
-      "rising_value": 100,
-      "guide_exists": "petrol-diesel-price-check-today",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "vedanta aluminium metal limited share price",
-      "category": "Realtime RSS (IN-MH)",
-      "rising_value": 100,
-      "guide_exists": "petrol-diesel-price-check-today",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "msbte result summer 2026",
+      "topic": "cet result",
       "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "msbte result summer 2026 date",
+      "category": "Realtime RSS (IN-MH)",
+      "rising_value": 100,
+      "guide_exists": "msbte-result-summer-2026",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -85,8 +76,8 @@
   ],
   "opportunities": [
     {
-      "topic": "vedanta share",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "bigg boss 20 contestants list",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
@@ -94,7 +85,25 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "msbte result summer 2026",
+      "topic": "abhishek banerjee",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "upsc",
+      "category": "Realtime RSS (IN-TG)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "cet result",
       "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
@@ -105,26 +114,26 @@
   ],
   "covered": [
     {
-      "topic": "sbi bank share price",
+      "topic": "kerala university",
       "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": "petrol-diesel-price-check-today",
+      "guide_exists": "kerala-caste-certificate-apply-online",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "sslc result 2026 kerala",
-      "category": "Realtime RSS (IN)",
+      "topic": "upsc prelims 2026 result",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
-      "guide_exists": "kerala-caste-certificate-apply-online",
+      "guide_exists": "upsc-cse-prelims-2026-answer-key",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
       "topic": "sbi share price",
-      "category": "Realtime RSS (IN-UP)",
+      "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
       "guide_exists": "petrol-diesel-price-check-today",
       "is_spike": false,
@@ -132,45 +141,18 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "ayushman bharat card",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": "ayushman-bharat-pmjay-health-card",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ayushman bharat",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": "ayushman-bharat-pmjay-health-card",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "vedanta share price",
-      "category": "Realtime RSS (IN-KA)",
-      "rising_value": 100,
-      "guide_exists": "petrol-diesel-price-check-today",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "vedanta aluminium metal limited share price",
+      "topic": "msbte result summer 2026 date",
       "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
-      "guide_exists": "petrol-diesel-price-check-today",
-      "is_spike": false,
+      "guide_exists": "msbte-result-summer-2026",
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "msbte result summer 2026",
+      "topic": "cet result",
       "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
