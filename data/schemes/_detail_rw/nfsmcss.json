@@ -1,0 +1,36 @@
+{
+  "slug": "nfsmcss",
+  "name": "National Food Security Mission NFSM",
+  "shortTitle": "NFSMCSS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Agriculture and Farmers Welfare",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "National Food Security Mission (NFSM) provides subsidised or free inputs — quality seeds, fertilisers, IPM demonstrations, farm machinery — to farmers to increase production of rice, wheat, pulses, coarse cereals, oilseeds and commercial crops.",
+  "descriptionMd": "The National Food Security Mission (NFSM), launched in 2007–08 by the Department of Agriculture & Farmers' Welfare (Ministry of Agriculture & Farmers' Welfare), aims to increase production of key food and commercial crops through area expansion and productivity enhancement. It does this by taking proven technologies to scale — better seed varieties, integrated nutrient management, water-use efficiency and mechanisation — reaching farmers primarily through cluster demonstrations and direct input support.\n\nNFSM is a centrally sponsored scheme, implemented through the states. Beneficiaries are identified and supported through the Gram Panchayat and the Block Agriculture Office.",
+  "benefitsMd": "Benefits are provided as **input subsidies** delivered to farmer bank accounts via DBT or as direct distribution through agriculture offices:\n\n- **Cluster Demonstrations (CDs):** Free quality seeds, fertilisers and pesticides for demo plots, helping farmers compare new varieties with their current practice.\n- **Seed Distribution:** Subsidised certified/quality seeds of improved varieties of rice, wheat, pulses, coarse cereals and oilseeds.\n- **Soil Health Management:** Free or subsidised soil-testing and application of micronutrients, gypsum, lime.\n- **Resource Conservation Technology:** Subsidised Zero Till machines, laser land levellers, sprinklers, and other water-saving equipment.\n- **Integrated Pest Management (IPM):** Free pest-scouting and IPM demonstrations.\n- **Training & Capacity Building:** Field Farmer Schools (FFSs) and Kisan Melas.",
+  "eligibilityMd": "- **All farmers** in NFSM-notified districts are eligible.\n- Priority in demonstration plots and costly inputs is given to:\n  - **SC/ST farmers** (under Special Component Plan and Tribal Sub-Plan, at least 16% and 8% of funds respectively).\n  - Farmers in **low-productivity blocks** identified by the state.\n  - **Small and marginal farmers.**\n- Farmers must have land/lease records in their name (or joint name) in the identified district.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "NFSM is not a direct-application scheme for most components. Benefits are **pushed to identified beneficiaries by the Block Agriculture Office** on the basis of the Gram Panchayat's list:\n\n**Step 1:** Contact your **Gram Panchayat or Block Agriculture Officer (BAO)** to register your interest in NFSM demonstrations or seed distribution.\n**Step 2:** The BAO/Gram Sabha identifies beneficiaries for cluster demonstrations, seed subsidy, and machinery in a transparent and time-bound manner.\n**Step 3:** Shortlisted farmers are informed to collect inputs (seeds, fertilisers) at the designated distribution point, or for demonstrations, the BAO coordinates the plot and training.\n**Step 4:** For machinery subsidies, applications may be submitted online through your state's agriculture department portal — check your state agriculture department's NFSM page.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.nfsm.gov.in/Guidelines/Guideline_nfsmandoilseed201819to201920.pdf"
+    },
+    {
+      "title": "Website",
+      "url": "https://www.nfsm.gov.in/"
+    },
+    {
+      "title": "Amendment",
+      "url": "https://www.nfsm.gov.in/Guidelines/NFSNM%20GUIDELINES%20APPROVED%20FY%202025-2026.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

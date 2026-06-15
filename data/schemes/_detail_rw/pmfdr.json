@@ -1,0 +1,40 @@
+{
+  "slug": "pmfdr",
+  "name": "Prime Minister’s Fellowship for Doctoral Research",
+  "shortTitle": "PMFDR",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Science & Technology",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The Prime Minister's Fellowship for Doctoral Research gives selected PhD scholars twice the standard JRF/SRF fellowship — funded equally by the government and industry partner — plus ₹2 lakh/year for research expenses, for up to four years.",
+  "descriptionMd": "The Prime Minister's Fellowship for Doctoral Research is a prestigious initiative of SERB (Science and Engineering Research Board) and FICCI (Federation of Indian Chambers of Commerce & Industry), under the Department of Science & Technology. It was launched to attract the best talent into high-quality research by doubling the stipend a fellow receives, while also pairing each fellow with an **industry co-supervisor** — so research has direct real-world application.\n\nUp to **100 new fellowships** are awarded each year, split equally between STEM and social-science fields. Half the funding comes from the Government of India; the other half from the partnering industry organisation.",
+  "benefitsMd": "- **Fellowship stipend at twice the standard JRF/SRF rate** — if the base JRF rate is ₹37,000/month, a PM Fellow gets ₹74,000/month (or the prevailing doubled rate).\n- **Contingency grant of ₹2 lakh per year** for research-related expenses (books, equipment, travel, conferences).\n- Duration: **up to 4 years** (for candidates who have already been enrolled in a PhD programme for less than 14 months when applying).\n- An **industry mentor/co-supervisor** who guides research toward practical outcomes and improves employability post-PhD.\n- Recognition as a PM Fellow — a nationally acknowledged research credential.",
+  "eligibilityMd": "- Must be an **Indian citizen**.\n- Must be enrolled as a **full-time PhD scholar** in any recognised Indian university, institute or national research laboratory.\n- PhD registration date must be **not more than 14 months before the application submission date** (i.e. you must be in the early stage of your PhD).\n- Research area must align with one of the notified priority sectors for the call.",
+  "exclusionsMd": "- Part-time PhD scholars are **not eligible**.\n- PhD scholars who registered more than 14 months before the application date are **not eligible**.",
+  "applicationMode": "Online",
+  "applicationMd": "Applications are invited through specific call notices from SERB-FICCI:\n\n**Step 1:** Register as a student on the PMFDS portal at [primeministerfellowshipscheme.in](http://www.primeministerfellowshipscheme.in/) or [serbficci-iirrada.in](http://www.serbficci-iirrada.in/).\n**Step 2:** Fill in your personal details, PhD registration date and research area.\n**Step 3:** Write your **Research Proposal** and identify a potential **Industry Partner** willing to co-supervise your work.\n**Step 4:** Submit your application with supporting documents — PhD enrollment letter, supervisor's endorsement, university approval.\n**Step 5:** Shortlisted candidates are called for an interview; selected fellows sign an agreement with SERB-FICCI and the industry partner.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://serb.gov.in/page/research_networking#Prime%20Minister%E2%80%99s%20Fellowship%20for%20Doctoral%20Research"
+    },
+    {
+      "title": "SERB-FICCI Website",
+      "url": "https://www.serbficci-iirrada.in/PrimeMinisterFellowshipResearch.html"
+    },
+    {
+      "title": "SERB-CII Website",
+      "url": "https://www.primeministerfellowshipscheme.in/about-the-scheme"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://dst.gov.in/sites/default/files/PM_Fellowship_Scheme_2014.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "csss-cus",
+  "name": "Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University students",
+  "shortTitle": "PM-USP-CSSS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Higher Education",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "PM-USP Central Sector Scholarship gives meritorious students from families with income below ₹8 lakh per year a scholarship of ₹12,000/year at graduation level and ₹20,000/year at post-graduation — to help with day-to-day expenses while studying.",
+  "descriptionMd": "The Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students, run by the Department of Higher Education (Ministry of Education), provides financial support to bright students from economically weaker backgrounds so they can pursue higher education without interruption.\n\nThe scholarship is awarded purely on **merit** — only students scoring above the **80th percentile** in their Class 12 board exam qualify — and is subject to an **income ceiling of ₹8 lakh per annum** for the family. It is disbursed through the **National Scholarships Portal (NSP)** using Direct Benefit Transfer.",
+  "benefitsMd": "| Stage | Amount per Year |\n|-------|-----------------|\n| Graduation (1st to 3rd year) | ₹12,000 |\n| Graduation (4th & 5th year, professional courses) | ₹20,000 |\n| Post-Graduation | ₹20,000 |\n\n- The scholarship is **renewable each year** provided the student passes all exams and maintains a **minimum of 60% marks** (50% for PwD students).\n- 50% of total scholarships are reserved for **Science stream** students; the other 50% is split between Commerce and Humanities streams.\n- **41% of scholarships** are reserved for students from SC/ST/OBC/minority and physically-challenged categories.",
+  "eligibilityMd": "- Must be **above the 80th percentile** of successful candidates in the relevant stream in Class 12 (or equivalent) from a recognised Board of Examination.\n- Annual **family income must be below ₹8 lakh**.\n- Must be pursuing a **regular (not distance) degree course** at a college/university recognised under Section 2(f) and 12(B) of the UGC Act, 1956.\n- Must have enrolled in the first year of a bachelor's, integrated, or postgraduate programme.\n- **Not already receiving** any other central/state scholarship for the same course.",
+  "exclusionsMd": "- Students pursuing correspondence, open, or distance learning programmes are **not** eligible.\n- Students who take a **gap year** before starting college lose one year of eligibility.\n- Students already receiving a scholarship from any other central or state government scheme are excluded.",
+  "applicationMode": "Online",
+  "applicationMd": "Apply on the **National Scholarships Portal (NSP)** at [scholarships.gov.in](https://scholarships.gov.in/):\n\n**Step 1 — One-Time Registration (OTR):**\nVisit scholarships.gov.in → click **'New Registration'** → follow the guidelines → fill in name, DOB, mobile, bank details → verify Aadhaar → submit OTR.\n\n**Step 2 — Fresh Application:**\nLog in with your credentials → go to **'Application Form'** → select 'Central Scheme' and choose PM-USP Central Sector Scholarship → fill in academic, income and bank details.\n\n**Step 3:** Upload documents — Class 12 marksheet, income certificate, Aadhaar, college admission proof, bank passbook/cancelled cheque.\n\n**Step 4:** Submit and note the Application Reference Number. Your institute verifies and forwards to the NSP for disbursement.\n\n**Renewal:** Log in each year before the deadline, verify marks and submit renewal application.",
+  "references": [
+    {
+      "title": "Guidelines (2024)",
+      "url": "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://scholarships.gov.in/public/schemeGuidelines/FAQ_DOHE_CSSS.pdf"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://scholarships.gov.in/public/FAQ/training_of_users_nsp.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

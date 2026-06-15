@@ -1,0 +1,32 @@
+{
+  "slug": "pmssrpf",
+  "name": "Prime Minister's Scholarship Scheme for Railway Protection Force",
+  "shortTitle": "PMSSRPF",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Railways",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "PM Scholarship Scheme for Railway Protection Force (PMSS-RPF) gives financial assistance to dependent wards of ex/serving RPF and RPSF personnel — ₹2,500/month for boys and ₹3,000/month for girls — for professional and technical courses.",
+  "descriptionMd": "The Prime Minister's Scholarship Scheme for the Railway Protection Force (PMSS-RPF) was announced on Independence Day 2005 to encourage higher technical and professional education among the dependent children of RPF and RPSF personnel. It recognises the sacrifices made by railway security personnel and gives their families access to quality higher education.\n\nThe scheme covers professional courses in medicine, engineering, MBA, MCA, and other courses approved by regulatory bodies such as MCI, AICTE, UGC, etc. Applications are processed through the National Scholarships Portal.",
+  "benefitsMd": "- **₹2,500 per month for male students** and **₹3,000 per month for female students**.\n- Duration: as per the approved duration of the professional/technical course (typically 2–5 years).\n- A personal letter from the Prime Minister is issued to all newly selected scholars.\n- The scholarship is paid directly into the student's Aadhaar-linked bank account via DBT.",
+  "eligibilityMd": "- The applicant must be a **dependent ward or widow of an ex-serving or serving RPF/RPSF personnel** who is **below the rank of Gazetted Officer**.\n- Must have secured at least **60% marks** in the qualifying exam (Class 12 or equivalent) for the current year.\n- Must have taken admission in a **first year of a professional/technical degree course** (not applicable for lateral entries, except for those already receiving a scholarship who are changing course).\n- Age limit: up to **30 years** at the time of application.",
+  "exclusionsMd": "- Wards of Gazetted Officers are **not eligible**.\n- Students pursuing distance or correspondence courses are excluded.\n- Students who have already availed the scholarship for the same course are not eligible for renewal if they fail a year.",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the **National Scholarships Portal** at [scholarships.gov.in](https://scholarships.gov.in/).\n**Step 2:** Complete **One-Time Registration (OTR)** with your mobile number, Aadhaar and bank details.\n**Step 3:** Log in and select **'Ministry of Railways — PMSS for RPF/RPSF'** under Central Schemes.\n**Step 4:** Fill in the online application form — personal details, marks, course details, parent's service details.\n**Step 5:** Upload documents: RPF/RPSF service certificate, Class 12 marksheet, college fee receipt, disability certificate (if applicable), bank passbook.\n**Step 6:** Submit before the annual deadline (typically 31 October) and track via the NSP dashboard.",
+  "references": [
+    {
+      "title": "Guidelines (2022-23)",
+      "url": "https://scholarships.gov.in/public/schemeGuidelines/MORB_GL.pdf"
+    },
+    {
+      "title": "Guidelines (2017-18)",
+      "url": "https://rpf.indianrailways.gov.in/RPF/uploads/directcontent/1684923917010-Imp38.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

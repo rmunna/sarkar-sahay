@@ -1,0 +1,32 @@
+{
+  "slug": "pmscteoicphh",
+  "name": "Pre-Matric Scholarships to the Children of Those Engaged in Occupations Involving Cleaning and Prone to Health Hazards",
+  "shortTitle": "PMSCTEOICPHH",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Social Justice & Empowerment",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Pre-Matric Scholarship for Children of Those Engaged in Occupations Involving Cleaning and Prone to Health Hazards gives ₹110/month (day scholar) or ₹700/month (hosteller) to children of tanners, waste pickers, manual scavengers and similar workers — from Class 1 to 10.",
+  "descriptionMd": "The Pre-Matric Scholarship for Children of Those Engaged in Occupations Involving Cleaning and Health Hazards (PMSCTEOICPHH), run by the Ministry of Social Justice & Empowerment, targets one of India's most marginalised communities: families engaged in traditionally stigmatised cleaning occupations — manual scavenging, tanning, flaying, waste picking and others.\n\nThe scheme helps children from these families stay in school by providing a monthly stipend and an annual ad-hoc grant, regardless of the child's religion or caste. It is applied for through **State/UT Governments**, not directly on the central NSP.",
+  "benefitsMd": "**Monthly Scholarship:**\n- **Day Scholars (Class 1–10):** ₹110 per month for 10 months per year.\n- **Hostellers (Class 3–10):** ₹700 per month for 10 months per year.\n\n**Annual Ad-Hoc Grant:**\n- ₹750 per student per annum for books, stationery and uniforms.",
+  "eligibilityMd": "The scholarship is available to children of Indian nationals (irrespective of religion) whose parent or guardian is engaged in any of these occupations:\n- Tanners and flayers\n- Waste pickers\n- Manual scavengers and Safai Karamcharis\n- Sweepers and drainage cleaners\n- Cobblers/shoe repairers\n- Any other occupation involving cleaning and health hazards\n\nThe child must be:\n- Enrolled in **Class 1 to 10** (hostellers from Class 3 onwards).\n- Attending a **government or recognised private school**.\n- **Not receiving another pre-matric scholarship** from the central government.",
+  "exclusionsMd": "- Children of parents who are **not engaged in the specified cleaning occupations** are not eligible, regardless of caste or income.\n- Students in private unaided schools that are not recognised by the state education board are excluded.",
+  "applicationMode": "Online",
+  "applicationMd": "The scheme is implemented by **State/UT Governments**, so the application is submitted to the state authority:\n\n**Step 1:** Watch for the scheme announcement in **local newspapers** and on the state education/social welfare department's website.\n**Step 2:** Collect the application form from your school, Block Development Office or District Social Welfare Office.\n**Step 3:** Fill in the form with the child's personal details, school details, and the parent's occupation proof.\n**Step 4:** Attach required documents: occupational proof of parent (employer certificate/municipal record), school enrollment certificate, bank details.\n**Step 5:** Submit to the school or the designated state authority by the notified deadline.\n\nPayment is released by the state through the child's (or parent's) bank account via DBT.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://nskfdc.nic.in/writereaddata/files/Regulations_PMS.pdf"
+    },
+    {
+      "title": "MoSJE - Compedium Of Schemes",
+      "url": "https://socialjustice.gov.in/writereaddata/UploadFile/Compendium%20of%20Schemes-2016%20English636257859335528764.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

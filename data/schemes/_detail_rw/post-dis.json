@@ -1,0 +1,28 @@
+{
+  "slug": "post-dis",
+  "name": "Post Matric Scholarship Students With Disabilities",
+  "shortTitle": "POST-DIS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Empowerment Of Persons With Disabilities",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Post Matric Scholarship for Students with Disabilities provides financial assistance — maintenance allowance, reader allowance and other grants — to students with 40%+ disability pursuing Class 11 onwards through PhD at recognised Indian institutions.",
+  "descriptionMd": "The Post Matric Scholarship for Students with Disabilities (Post-DIS), run by the Department of Empowerment of Persons with Disabilities (DEPwD), Ministry of Social Justice & Empowerment, helps students with significant disabilities pursue education after Class 10 without financial hardship. The scholarship is available for any post-matric level — from Class 11 and 12, through polytechnic and diploma programmes, undergraduate and postgraduate degrees, up to PhD.\n\nDisbursement is through the **National Scholarships Portal (NSP)** via Direct Benefit Transfer.",
+  "benefitsMd": "The scholarship has several components:\n\n**Maintenance Allowance (₹/month):**\n| Group | Hosteller | Day Scholar |\n|-------|-----------|-------------|\n| Group 1 (Medicine, Engineering, MBA, etc.) | ₹1,200 | ₹550 |\n| Group 2 (Post-Grad non-Group 1) | ₹820 | ₹530 |\n| Group 3 (Undergrad courses) | ₹570 | ₹300 |\n| Group 4 (Class 11, 12, Certificate) | ₹380 | ₹230 |\n\n**Additional allowances:**\n- **Reader allowance:** ₹175/month for visually impaired students (blind).\n- **Transport allowance:** ₹160/month for non-hostellers with locomotor/visual disability.\n- **Helper allowance:** ₹160/month for severely orthopaedically handicapped students who cannot move around independently.\n- **Coaching allowance:** ₹240/month for students undertaking approved coaching.",
+  "eligibilityMd": "- Must be a **student** pursuing a **post-matric qualification** (Class 11 and above, including polytechnics, diplomas, undergraduate, postgraduate and PhD) from a **UGC/AICTE-recognised** institution in India.\n- Must have a **disability of at least 40%** with a valid disability certificate issued by a competent medical authority.\n- Annual **parental/family income must not exceed ₹2.5 lakh**.\n- The scholarship is available for students of **all disabilities listed under the RPwD Act 2016**.",
+  "exclusionsMd": "- Students pursuing distance/correspondence courses are **not** eligible.\n- Students whose family income exceeds ₹2.5 lakh per annum are excluded.",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit [scholarships.gov.in](https://scholarships.gov.in/) and click **'New Registration'**.\n**Step 2:** Complete **One-Time Registration (OTR)** — enter your mobile, Aadhaar, email and bank details; verify OTP.\n**Step 3:** Log in and choose **'Post Matric Scholarship for Students with Disabilities'** under 'Ministry of Social Justice & Empowerment'.\n**Step 4:** Fill in the application — course, institution, disability details, income details.\n**Step 5:** Upload documents — disability certificate (40%+), income certificate, Class 10/12 marksheets, current college admission/fee receipt, bank passbook.\n**Step 6:** Submit before the annual deadline and track your application on the NSP dashboard. Your institution verifies and approves before disbursement.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://disabilityaffairs.gov.in/upload/uploadfiles/files/scholarship2(1).pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

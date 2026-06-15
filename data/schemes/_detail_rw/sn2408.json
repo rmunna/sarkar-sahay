@@ -1,0 +1,32 @@
+{
+  "slug": "sn2408",
+  "name": "National Fellowship for Students with Disabilities",
+  "shortTitle": "NFFSWD",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Empowerment Of Persons With Disabilities",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "National Fellowship for Students with Disabilities (NFPwD) provides UGC fellowship support to students with 40%+ disability pursuing M.Phil. or PhD at UGC-recognised universities — ₹31,000/month for JRF level, ₹35,000/month for SRF level, plus contingency grants.",
+  "descriptionMd": "The National Fellowship for Students with Disabilities (NFPwD), administered by the University Grants Commission (UGC) under the Department of Empowerment of Persons with Disabilities (DEPwD), supports disabled scholars who wish to pursue doctoral and M.Phil. research. The scheme recognises that students with disabilities face additional hurdles in academia and provides a higher fellowship rate than standard research fellowships, along with extra contingency support.\n\nThe fellowship is for candidates registered at **UGC-recognised universities**, and applications are made directly through the UGC portal.",
+  "benefitsMd": "- **JRF rate:** ₹31,000/month for the first 2 years.\n- **SRF rate:** ₹35,000/month from the 3rd year onwards (after a positive research progress review).\n- **Contingency grant:**\n  - Humanities/Social Sciences: ₹10,000/year (JRF) → ₹20,500/year (SRF)\n  - Science/Engineering: ₹12,000/year (JRF) → ₹25,000/year (SRF)\n- **Escort/Reader allowance:** ₹2,000/month for blind scholars or scholars with locomotor disabilities above 40%.\n- Duration: up to **5 years** (2 JRF + 3 SRF), subject to annual review.",
+  "eligibilityMd": "- Must have a **disability of at least 40%** with a valid disability certificate under the RPwD Act 2016.\n- Must have **qualified UGC-NET** (or equivalent national level test for the discipline) or hold a valid JRF.\n- Must be admitted to an **M.Phil. or PhD programme** at a UGC-recognised university.\n- Age limit: **30 years** (35 for SC/ST/women; 35 for OBC; 40 for PwD — since all NFPwD scholars already qualify as PwD, the limit is effectively 40).",
+  "exclusionsMd": "- Candidates already receiving any other **UGC or DST fellowship** cannot simultaneously hold NFPwD.\n- The fellowship is available only for **full-time** registered research scholars.",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the UGC NFPwD portal at [ugc.gov.in](https://www.ugc.gov.in/) → find the NFPwD notification under 'Scholarships & Fellowships'.\n**Step 2:** Register or log in on the UGC online portal.\n**Step 3:** Complete the online application form — personal details, disability certificate details, research area, university and supervisor name.\n**Step 4:** Upload: disability certificate, UGC-NET/JRF certificate, PhD enrollment letter, university letter, Aadhaar, bank details.\n**Step 5:** Submit before the advertised deadline. Selection is made by UGC based on the number of vacancies; selected scholars are informed by their universities.",
+  "references": [
+    {
+      "title": "Website",
+      "url": "https://disabilityaffairs.gov.in/upload/uploadfiles/files/Scholarship%20Scheme%20Guidelines%202023-24.pdf"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3e58aea67b01fa747687f038dfde066f6/uploads/2023/10/202405091196982143.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

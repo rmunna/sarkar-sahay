@@ -1,0 +1,32 @@
+{
+  "slug": "pmbjp",
+  "name": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)",
+  "shortTitle": "PMBJP",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Pharmaceuticals",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP) runs Janaushadhi Kendras — affordable generic medicine outlets — across India. The scheme also allows pharmacists, entrepreneurs and NGOs to open a Kendra and earn a 20% incentive on monthly PMBI purchases, up to ₹20,000/month.",
+  "descriptionMd": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP), run by the Department of Pharmaceuticals (Ministry of Chemicals & Fertilizers) through PMBI (Pharmaceuticals & Medical Devices Bureau of India), aims to make quality generic medicines available to all citizens at affordable prices. It does this by setting up dedicated outlets called **Pradhan Mantri Bhartiya Janaushadhi Kendras (PMBJKs)** where branded-equivalent generic medicines are sold at a fraction of the market price.\n\nThe scheme has a dual benefit: citizens get cheaper medicines, and pharmacy professionals or entrepreneurs running a Kendra earn a sustainable livelihood through incentives from PMBI.",
+  "benefitsMd": "**For citizens (buyers):**\n- Quality generic medicines available at PMBJKs at prices **50%–90% lower** than branded medicines.\n- Over 1,900 medicines and 300 surgical/nutraceutical products available under the scheme.\n\n**For Kendra operators (entrepreneurs/pharmacists):**\n- A **20% incentive on monthly net purchases** from PMBI, subject to a ceiling of **₹20,000 per month** (₹2.40 lakh/year).\n- Incentive is disbursed in two parts — 50% upfront on purchase and 50% on meeting targets.\n- Special monthly incentive of **₹15,000** for Kendras in special areas (Himalayan regions, islands, tribal and backward areas, NE states).\n- **One-time setup support** of ₹2 lakh (₹1.5 lakh for furniture/computers + ₹0.5 lakh for medicines) in special-category areas.",
+  "eligibilityMd": "Anyone who meets the licensing requirements for a pharmacy can open a Janaushadhi Kendra:\n\n**Individual pharmacists or entrepreneurs:**\n- Must hold a **D.Pharma or B.Pharma degree**, or employ a qualified pharmacist on the premises.\n\n**NGOs, SHGs, Trusts and Charitable Organisations:**\n- Must employ a B.Pharma/D.Pharma degree holder to manage the Kendra.\n\n**Government hospital/medical college premises:**\n- Preference to reputed NGOs/charitable organisations, though individuals also qualify.\n- Must employ qualified pharmacist staff.\n\nPremises of at least **10 sq m** are required, and the applicant must not run any other pharmaceutical business from the same premises.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the official PMBI portal at [janaushadhi.gov.in](https://janaushadhi.gov.in/).\n**Step 2:** Navigate to the **'Apply Online'** section for Janaushadhi Kendra registration.\n**Step 3:** Fill in your personal details, pharmacy qualification details, and proposed Kendra location.\n**Step 4:** Upload the required documents: ID proof, pharmacy degree certificate (or employee's degree), premises proof, NOC from local authority, and drug licence (or application).\n**Step 5:** Submit the application and pay the application fee (if applicable) online.\n\nAfter PMBI reviews your application, they may conduct a site visit before issuing approval and onboarding you to the PoS software for ordering medicines.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://janaushadhi.gov.in/pdf/Guidelines_for_PMBJK_Opening.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://janaushadhi.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pmkvy-sp",
+  "name": "Pradhan Mantri Kaushal Vikas Yojana - Special Projects",
+  "shortTitle": "PMKVY - SP",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Skill Development And Entrepreneurship",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "PMKVY Special Projects funds skill training programmes for marginalized groups — SC/ST, transgender persons, women, PwD, and economically backward youth — that do not fit the standard STT or RPL streams, with 100% central funding for the training cost.",
+  "descriptionMd": "Pradhan Mantri Kaushal Vikas Yojana — Special Projects (PMKVY-SP) is a component of the broader PMKVY framework, run by the Ministry of Skill Development & Entrepreneurship. It recognises that certain vulnerable groups — particularly in remote, conflict-affected or economically backward areas — cannot easily access the standard PMKVY training centres or may not meet all standard parameters for Short-Term Training (STT) or RPL.\n\nSpecial Projects allow government bodies, corporate CSR arms, NGOs and industry associations to design tailored skill programmes for these groups, with **100% grant funding from the Centre**.",
+  "benefitsMd": "- **Free skill training** in customised job roles aligned to local livelihood opportunities or employer needs.\n- **100% project cost funded** by the Government of India — no contribution from the trainee.\n- **NSQF-aligned certification** issued by the relevant Sector Skill Council on passing assessment.\n- Stipend support for trainees during training, as defined in the project agreement.\n- **Placement facilitation** by the implementing organisation post-training.",
+  "eligibilityMd": "The scheme targets:\n- **Scheduled Castes (SC) and Scheduled Tribes (ST)**\n- **Transgender persons**\n- **Persons with Disabilities (PwD)**\n- **Women from economically backward backgrounds**\n- **Youth from economically backward areas** that are not covered adequately by mainstream PMKVY STT/RPL\n\nSpecific age and income criteria are defined per project in consultation with the Ministry of Skill Development & Entrepreneurship.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "PMKVY Special Projects are not directly applied to by individuals — they are designed and implemented by **Project Implementing Agencies (PIAs)** such as industry bodies, NGOs, state governments or corporate CSR wings.\n\n**If you are an organisation/PIA:**\n**Step 1:** Register on the Skill India portal and submit a project proposal to the Ministry of Skill Development & Entrepreneurship / NSDC.\n**Step 2:** The proposal should identify the target group, training location, job roles, and deployment plan.\n**Step 3:** After approval, sign the agreement with NSDC/MSD&E and begin recruitment of trainees.\n\n**If you are an individual seeking training:**\n- Contact your local **Skill India training centre** (via skillindiadigital.gov.in) or look for NGOs/CSOs in your area implementing PMKVY Special Projects for your community.",
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "https://www.pmkvyofficial.org/photos/shares/guidlines/PMKY-Guideline_report_(08-01-2021)V3.pdf "
+    },
+    {
+      "title": "Additional Information",
+      "url": "http://www.pmkvyofficial.org/App_Documents/News/Special_Project_Guidelines_Revised_22nd_July_2018_HS.pdf "
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

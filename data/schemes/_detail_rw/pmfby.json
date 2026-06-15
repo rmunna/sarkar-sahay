@@ -1,0 +1,36 @@
+{
+  "slug": "pmfby",
+  "name": "Pradhan Mantri Fasal Bima Yojna (PMFBY)",
+  "shortTitle": "PMFBY",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Agriculture and Farmers Welfare",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Pradhan Mantri Fasal Bima Yojana (PMFBY) provides crop insurance to farmers at a subsidised premium — 2% for Kharif, 1.5% for Rabi, 5% for commercial/horticultural crops — covering losses from natural disasters, pests and diseases.",
+  "descriptionMd": "Pradhan Mantri Fasal Bima Yojana (PMFBY), launched on 18 February 2016 by the Department of Agriculture, Co-operation & Farmers' Welfare, provides comprehensive risk cover for crops at a very low premium to the farmer. The government pays the balance of the actuarial premium as subsidy, shared equally between the Centre and States.\n\nPMFBY replaced the earlier NAIS and MNAIS schemes and brought in several improvements: uniform low premiums, Aadhaar-based payments, and coverage extended to post-harvest losses and localised calamities (hailstorm, landslide, inundation). Technology — including satellite and remote-sensing data for loss estimation — underpins the claims process to make it faster and more objective.",
+  "benefitsMd": "- **Very low premium for the farmer:** 2% of sum insured for Kharif food and oilseed crops; 1.5% for Rabi food and oilseed crops; 5% for commercial and horticultural crops. The government pays the rest.\n- **Full Sum Insured coverage** for notified crops in notified areas — no cap on the government liability.\n- **Coverage for:** sowing/planting failure, standing crop losses (natural disasters, pests, diseases), post-harvest losses (within 14 days of harvest, for crops left to dry in the field), and localised calamities (hailstorm, landslide, inundation).\n- **No premium subsidy ceiling** for farmers in the North-East, Himachal Pradesh, Jammu & Kashmir and Uttarakhand — the government pays the farmer's share too.\n- **Faster claims** through use of smart phones, remote sensing and CCE (Crop Cutting Experiments) data.",
+  "eligibilityMd": "- All **loanee farmers** (those with crop loans from banks for notified crops) are enrolled compulsorily.\n- **Non-loanee farmers** who own or lease land in a notified area and grow a notified crop can voluntarily enrol.\n- Tenant farmers and **sharecroppers** are eligible if they have a valid land-lease agreement.\n- The farmer must have an **insurable interest** in the crop being covered.",
+  "exclusionsMd": "- Losses from **war, nuclear risk, wilful neglect or malicious damage** are not covered.\n- Only **notified crops** in **notified areas** are eligible — crops not listed under the scheme for a particular season or district are excluded.\n- Farmers who voluntarily opt out of PMFBY are not eligible for any claim that season.",
+  "applicationMode": "Online",
+  "applicationMd": "**For loanee farmers:** The bank automatically enrolls you when it sanction a Kisan Credit Card (KCC) or crop loan — no separate action needed. Verify your enrollment through the PMFBY portal.\n\n**For non-loanee/voluntary farmers:**\n**Step 1:** Visit [pmfby.gov.in](https://pmfby.gov.in/) and click **'Farmer Corner'**, then **'Guest Farmer'** to access the online form.\n**Step 2:** Fill in your state, district, season and crop details.\n**Step 3:** Enter land records — Khasra/Survey number and area under cultivation.\n**Step 4:** Add your bank account details for claim payment.\n**Step 5:** Pay the applicable premium (2%, 1.5%, or 5% of sum insured) online or at a bank branch.\n\nThe **last date** for enrollment is typically the end of the sowing month for that season — check the notified cut-off for your district.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://pmfby.gov.in/"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf "
+    },
+    {
+      "title": "FAQ",
+      "url": "https://pmfby.gov.in/pdf/FAQ%E2%80%93For%20Portal.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

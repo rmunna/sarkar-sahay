@@ -1,0 +1,40 @@
+{
+  "slug": "nhis",
+  "name": "Niramaya Health Insurance Scheme",
+  "shortTitle": "NHIS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Empowerment Of Persons With Disabilities",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Niramaya Health Insurance Scheme provides health insurance of up to ₹1 lakh per annum to persons with disabilities covered under the National Trust Act — covering OPD, surgery, hospitalisation, alternative medicines and preventive care — at a premium of ₹250–₹500/year.",
+  "descriptionMd": "Niramaya Health Insurance Scheme, run by the National Trust (Department of Empowerment of Persons with Disabilities, MoSJ&E), provides affordable health coverage to persons with disabilities that are notified under the National Trust Act, 1999 — specifically Autism, Cerebral Palsy, Mental Retardation (Intellectual Disability), and Multiple Disabilities.\n\nThe scheme is implemented through tie-ups with insurance companies and Registered Organisations (ROs) of the National Trust. Premiums are heavily subsidised by the National Trust — a person from a BPL family pays just ₹250/year for ₹1 lakh coverage.",
+  "benefitsMd": "- **Health insurance cover of up to ₹1,00,000 per year** per beneficiary.\n- Coverage includes:\n  - OPD treatment — medicines, pathology and diagnostic tests\n  - Surgery and specialist consultation\n  - Hospitalisation expenses\n  - Alternative medicine (AYUSH)\n  - Preventive health check-ups for non-ailing members\n  - Corrective surgery and therapy\n  - Non-surgical/dental treatment\n  - Physiotherapy and speech therapy\n- **Annual premium:**\n  - BPL families: **₹250/year**\n  - Others: **₹500/year**\n  - The National Trust pays the remaining actuarial premium as subsidy.",
+  "eligibilityMd": "- Must have **at least one of the four disabilities** covered under the [National Trust Act, 1999](https://thenationaltrust.gov.in/): Autism, Cerebral Palsy, Mental Retardation/Intellectual Disability, or Multiple Disabilities.\n- Must hold a **valid disability certificate** from a competent authority.\n- No age bar — covers persons of all ages.\n- Both BPL and non-BPL families are eligible (premium differs).",
+  "exclusionsMd": "- Disabilities **not listed** under the National Trust Act 1999 (such as locomotor disability, deafness, blindness alone) are **not covered** under this specific scheme — they may be covered by other schemes.\n- Pre-existing conditions **are** covered, but there is a waiting period for certain treatments as per the insurer's terms.",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Locate the nearest **Registered Organisation (RO)** of the National Trust in your area — the list is at [thenationaltrust.gov.in](https://thenationaltrust.gov.in/content/registered_organization.php).\n**Step 2:** Visit the RO with the person with disability and their guardian (if any).\n**Step 3:** Submit the application form along with: disability certificate, Aadhaar, income/BPL certificate (for BPL premium), photograph.\n**Step 4:** Pay the annual premium (₹250 for BPL / ₹500 for others) at the RO.\n**Step 5:** The RO enrolls the beneficiary; an **insurance card** is issued for use at empanelled hospitals for cashless treatment.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://nationaltrust.nic.in/niramaya/"
+    },
+    {
+      "title": "Enrolment Form",
+      "url": "https://thenationaltrust.in/auth/Niramaya/HTML/new4.php"
+    },
+    {
+      "title": "Claim Form",
+      "url": "https://thenationaltrust.gov.in/upload/uploadfiles/files/claimformnew.pdf"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3300891a62162b960cf02ce3827bb363c/uploads/2025/04/20250422881539735.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

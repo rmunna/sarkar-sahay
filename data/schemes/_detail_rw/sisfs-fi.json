@@ -1,0 +1,34 @@
+{
+  "slug": "sisfs-fi",
+  "name": "Startup India Seed Fund Scheme- For Incubators",
+  "shortTitle": "SISFS-FI",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department For Promotion Of Industry And Internal Trade",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Business Entity",
+    "Industries",
+    "Registered Societies"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "Startup India Seed Fund Scheme for Incubators (SISFS-FI) gives DPIIT-approved incubators grants of up to ₹5 crore to further distribute as seed funding to early-stage startups under their wings.",
+  "descriptionMd": "The Startup India Seed Fund Scheme — For Incubators (SISFS-FI) component, launched by DPIIT on 19 April 2021 with a ₹945 crore corpus, provides financial assistance to eligible incubators so they in turn can seed-fund the startups they support. It is the supply-side of the SISFS ecosystem: the scheme (SISFS-FS) directly funds startups; this component (SISFS-FI) funds the incubators that mentor and disburse to those startups.\n\nIncubators can use the grant to give startups grants of up to ₹20 lakh (proof-of-concept) or up to ₹50 lakh (market entry/scaling) under convertible instruments.",
+  "benefitsMd": "- **Grant of up to ₹5 crore** per selected incubator, released in milestone-based instalments (three or more tranches).\n- A **5% Management Fee** of the total seed fund grant is additionally provided to cover incubator administration costs.\n- Incubators can distribute funds to startups as:\n  - **Grants of up to ₹20 lakh** for proof-of-concept or prototyping\n  - **Up to ₹50 lakh** in convertible debentures, debt or debt-linked instruments for market entry and scaling",
+  "eligibilityMd": "The incubator must:\n1. Be a **legal entity** — a registered Society (Societies Registration Act 1860), Trust (Indian Trusts Act 1882), or Section 8 Company (Companies Act 2013).\n2. Be **established for at least 2 years** as on the date of application.\n3. Have at least **5 active startups** currently being incubated.\n4. Have **adequate physical infrastructure** — office space, lab/prototyping facilities.\n5. Have full-time incubation staff with relevant experience.\n6. Demonstrate a track record of mentoring, funding or commercialising startups.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "Applications for SISFS-FI are accepted on a rolling basis:\n\n**Step 1:** Go to the Startup India Seed Fund portal at [seedfund.startupindia.gov.in](https://seedfund.startupindia.gov.in/).\n**Step 2:** Click **'Apply Now'** under the **Incubator** section.\n**Step 3:** Log in or register with your Startup India / DPIIT credentials.\n**Step 4:** Fill in the incubator profile — legal entity details, infrastructure, current portfolio startups, track record.\n**Step 5:** Submit the application along with the Detailed Incubation Plan describing how you will disburse and monitor seed funds for startups.\n**Step 6:** The Expert Advisory Committee (EAC) evaluates applications and announces selected incubators, who sign an agreement with DPIIT before receiving funds.",
+  "references": [
+    {
+      "title": "Startup India Website",
+      "url": "https://www.startupindia.gov.in/"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://seedfund.startupindia.gov.in/about"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

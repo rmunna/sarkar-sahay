@@ -1,0 +1,56 @@
+{
+  "slug": "pmfmpe",
+  "name": "Pradhan Mantri Formalisation Of Micro Food Processing Enterprises",
+  "shortTitle": "PMFMPE",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry of Food Processing Industries",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "PM Formalisation of Micro Food Processing Enterprises (PM FME) offers existing micro food processors a 35% credit-linked capital subsidy (max ₹10 lakh) and SHGs/cooperatives seed capital of ₹4 lakh per SHG to upgrade, formalise and brand their food business.",
+  "descriptionMd": "The Pradhan Mantri Formalisation of Micro Food Processing Enterprises (PM FME) scheme, launched on 29 June 2020 by the Ministry of Food Processing Industries (MoFPI), supports the country's vast informal food processing sector — from the village pickle maker to the small-town snack manufacturer.\n\nThe scheme's twin aims are: (1) help existing micro units upgrade their technology, comply with food-safety standards (FSSAI), and access formal credit; and (2) encourage groups — SHGs, FPOs and cooperatives — to scale up through common processing infrastructure and branding. New individual units can be supported only if they align with the **One District One Product (ODOP)** focus product of their district.",
+  "benefitsMd": "**For individual micro food processors:**\n- **35% credit-linked capital subsidy** on eligible project cost, with a **maximum subsidy of ₹10 lakh** per unit.\n- Loan for the remaining cost from a bank/NBFC; the subsidy is transferred directly to the lender to reduce the outstanding.\n\n**For Self-Help Groups (SHGs):**\n- **Seed capital of ₹4 lakh per SHG** (₹40,000 per member) as working capital to buy raw material and start/scale food processing.\n\n**For FPOs and Cooperatives:**\n- Grant support for common processing infrastructure, packaging, FSSAI registration, branding and marketing.\n\n**For all:**\n- Technical assistance for FSSAI registration, quality standards, product testing and branding.\n- Training through NIFTEM, IIFPT and State Level Technical Institutions.",
+  "eligibilityMd": "**Individual micro food processors:**\n- Must be an **existing micro food processing enterprise** (OAE — Own Account Enterprise with fewer than 10 workers).\n- New units are eligible **only if** the product aligns with the **One District One Product (ODOP)** list for the applicant's district.\n- Must be willing to take a bank loan for the balance project cost (after the 35% subsidy).\n\n**Self-Help Groups (SHGs):**\n- Must be in the food processing sector or planning to start.\n- Seed capital of ₹40,000 per member, up to ₹4 lakh per SHG.\n\n**FPOs and Cooperatives:**\n- Existing or new FPO/cooperative engaged in food processing or planning to set up common infrastructure.\n\nEligible borrowers also include **Farmer Producer Organizations (FPOs)**.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Identify your district's **ODOP (One District One Product)** focus product at the PM FME portal — new units must align with this.\n**Step 2:** Register on the PM FME online portal ([pmfme.mofpi.gov.in](https://pmfme.mofpi.gov.in/)).\n**Step 3:** Fill in the application form with details of your enterprise — location, product, current turnover, proposed investment.\n**Step 4:** Prepare a **Detailed Project Report (DPR)** for the proposed upgrade.\n**Step 5:** Submit the application along with the DPR, and upload supporting documents (Aadhaar, business proof, bank details, land/premises documents).\n**Step 6:** After review, the application is sent to a bank for the loan component. Once the bank sanctions the loan, the subsidy is released to the bank on your behalf.",
+  "references": [
+    {
+      "title": "Guidelines (English)",
+      "url": "blob:https://pmfme.mofpi.gov.in/2f880be5-8699-468c-8637-30c4528e4767"
+    },
+    {
+      "title": "Guidelines (Hindi)",
+      "url": "blob:https://pmfme.mofpi.gov.in/35cd18b2-87be-4961-9c55-d88b17673b34"
+    },
+    {
+      "title": "Joint Guidelines For Seed Capital",
+      "url": "blob:https://pmfme.mofpi.gov.in/86f7dd0b-bcee-4a70-a8ba-3435fb5dc8c1"
+    },
+    {
+      "title": "Guidelines For Incubation Center",
+      "url": "blob:https://pmfme.mofpi.gov.in/ec006653-17cf-4179-9151-7ec6aea9cdcd"
+    },
+    {
+      "title": "FAQs (English)",
+      "url": "blob:https://pmfme.mofpi.gov.in/1e6b8698-b125-4289-99c8-5bf6309d8f01"
+    },
+    {
+      "title": "FAQs (Hindi)",
+      "url": "blob:https://pmfme.mofpi.gov.in/f4ab2df5-d361-44c3-bd6f-577f42538b0a"
+    },
+    {
+      "title": "Application Process (Hindi)",
+      "url": "blob:https://pmfme.mofpi.gov.in/e1c2cec9-dd34-489f-93a1-9f20ec1056df"
+    },
+    {
+      "title": "Application Process (English)",
+      "url": "blob:https://pmfme.mofpi.gov.in/2804c0bc-310e-4047-8486-e236b61d870d"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

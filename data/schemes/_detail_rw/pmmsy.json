@@ -1,0 +1,32 @@
+{
+  "slug": "pmmsy",
+  "name": "Pradhan Mantri Matsya Sampada Yojana",
+  "shortTitle": "PMMSY",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Fisheries",
+  "schemeFor": "Infra",
+  "targetBeneficiaries": [
+    "Individual",
+    "Government Organisation",
+    "Business Entity",
+    "Industries",
+    "State Government"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Pradhan Mantri Matsya Sampada Yojana (PMMSY) is the flagship scheme for sustainable fisheries development with a ₹20,050 crore outlay — providing financial assistance to fish farmers, fisher folk, entrepreneurs and cooperatives for infrastructure, technology and marketing.",
+  "descriptionMd": "Pradhan Mantri Matsya Sampada Yojana (PMMSY), launched in 2020 by the Department of Fisheries (Ministry of Fisheries, Animal Husbandry & Dairying), is India's biggest-ever investment in the fisheries sector. With a total outlay of ₹20,050 crore over five years (2020–25), it aims to take fish production to 22 million metric tonnes, double exports to ₹1 lakh crore, and create 55 lakh direct and indirect jobs.\n\nPMMSY has two broad streams: a **Centrally Sponsored Scheme (CSS)** component (where costs are shared between Centre and State) and a **Central Sector Scheme (CS)** component (100% funded by Centre). It covers the full value chain — from fish seed and feed production, to harvesting, cold chain, processing and marketing.",
+  "benefitsMd": "Financial assistance is provided for a wide range of activities:\n\n- **Infrastructure:** fishing harbours, landing centres, ice plants, cold storage, refrigerated transport.\n- **Aquaculture:** new ponds and raceways, biofloc technology units, recirculation systems, cage culture.\n- **Technology:** deep-sea fishing vessels, fish feed mills, value-added processing units.\n- **Marketing:** fish kiosks, retail outlets, e-commerce platforms.\n- **Insurance:** Group Accident Insurance for fishers at sea.\n- **Support for marginalised groups:** SC/ST, women and differently-abled persons get higher subsidy rates.\n\nSubsidy rates vary by activity and category — typically 40–60% of project cost for general beneficiaries, and 60% for SC/ST/women.",
+  "eligibilityMd": "The following can apply under PMMSY:\n\n1. Individual fishers, fish farmers, fish workers and fish vendors\n2. SHGs (Self-Help Groups) and Joint Liability Groups in the fisheries sector\n3. Fisheries Co-operatives and Federations\n4. Fish Farmer Producer Organisations/Companies (FFPOs/Cs)\n5. Entrepreneurs, startups and private firms in the fisheries value chain\n6. State/UT Government and Government Entities\n7. State Fisheries Development Corporations\n8. National Fisheries Development Board (NFDB) entities\n9. SC/ST beneficiaries, women and differently-abled persons (with higher subsidy)",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "**For Centrally Sponsored Scheme activities:**\n**Step 1:** Prepare a **Self-Contained Proposal or Detailed Project Report (DPR)** following the PMMSY Operational Guidelines.\n**Step 2:** Submit the DPR to the **District Fisheries Officer** of your district.\n**Step 3:** The district authority forwards approved proposals to the **State Fisheries Department**, which bundles them into an Annual Action Plan (AAP).\n**Step 4:** The State submits the AAP to the **Department of Fisheries (GoI)** for approval and fund release.\n\n**For Central Sector Scheme activities** (infrastructure like fishing harbours):\nProposals are submitted directly by State/UT Governments or implementing agencies to the Department of Fisheries, Government of India.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://pmmsy.dof.gov.in/new-download"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

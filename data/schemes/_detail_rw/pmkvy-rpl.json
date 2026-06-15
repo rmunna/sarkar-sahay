@@ -1,0 +1,28 @@
+{
+  "slug": "pmkvy-rpl",
+  "name": "Pradhan Mantri Kaushal Vikas Yojana - Recognition Of Prior Learning",
+  "shortTitle": "PMKVY - RPL",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Skill Development And Entrepreneurship",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "PMKVY Recognition of Prior Learning (RPL) lets working Indians aged 18–45 get an official government-backed skill certificate for knowledge they already have, without classroom training — by passing a direct assessment.",
+  "descriptionMd": "Recognition of Prior Learning (RPL) is a certification component under Pradhan Mantri Kaushal Vikas Yojana (PMKVY), run by the Ministry of Skill Development & Entrepreneurship. It acknowledges the informal skills that millions of Indians have built up through years of on-the-job experience — and converts that experience into a formal, recognised qualification.\n\nRPL is particularly aimed at workers in **unregulated, informal sectors** — construction, agriculture, domestic help, small trades — who have never had the opportunity to obtain a formal certificate but are already skilled practitioners. The assessment is conducted by Sector Skill Councils (SSCs), and candidates who pass receive a PMKVY certificate that improves their employability and opens doors to formal employment.",
+  "benefitsMd": "- A **nationally recognised skill certificate** under the PMKVY framework, issued after a competency-based assessment by the relevant Sector Skill Council.\n- **Bridge training** (short orientation, 12–80 hours) provided where needed to fill small knowledge gaps before the final assessment — at no cost to the candidate.\n- **Direct benefit transfer** of the stipend/incentive amount to the candidate's Aadhaar-linked bank account.\n- Improved access to **formal employment, higher wages and career progression** backed by a recognised credential.",
+  "eligibilityMd": "- Indian citizen aged **18 to 45 years**.\n- Has **prior work experience** in the job role for which RPL certification is sought — the minimum experience requirement is set by each Sector Skill Council (SSC) for that specific role.\n- Possesses an **Aadhaar card** and an **Aadhaar-linked bank account**.\n- Any additional criteria (such as the number of years of experience) are defined by the SSC for the relevant trade.",
+  "exclusionsMd": "",
+  "applicationMode": "Offline",
+  "applicationMd": "RPL candidates are enrolled through **Sector Skill Councils (SSCs)** or their authorised Project Implementing Agencies (PIAs). The process:\n\n**Step 1:** Find the SSC responsible for your trade (e.g., Construction Skill Council for mason/carpenter, Domestic Workers Sector Skill Council for household workers).\n**Step 2:** Register on the **Skill India Digital Hub** ([skillindiadigital.gov.in](https://www.skillindiadigital.gov.in/)) and search for RPL opportunities in your trade.\n**Step 3:** Attend the **Pre-Screening or Bridge Training** (if required by the SSC for your job role).\n**Step 4:** Appear for the **competency-based assessment** conducted by the SSC or a third-party Assessment Body.\n**Step 5:** On passing, your certificate is issued digitally and the stipend/incentive is transferred to your bank account.",
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "https://www.pmkvyofficial.org/photos/shares/guidlines/PMKY-Guideline_report_(08-01-2021)V3.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

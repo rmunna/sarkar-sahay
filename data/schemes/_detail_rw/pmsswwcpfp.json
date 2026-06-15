@@ -1,0 +1,32 @@
+{
+  "slug": "pmsswwcpfp",
+  "name": "Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel",
+  "shortTitle": "PMSSW/WCPFP",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Home Affairs",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "PM Scholarship Scheme for Wards/Widows of Central Police Force Personnel (CPFs) gives ₹1,250–₹1,500/month for 2–5 years to children of CPF personnel who died on duty, were disabled on duty, or received gallantry awards, for professional and technical education.",
+  "descriptionMd": "The Prime Minister's Scholarship Scheme for the Wards and Widows of Central Police Force Personnel (PMSSWWCPF), run by the Ministry of Home Affairs, acknowledges the hardship faced by families of CPF personnel who have made the ultimate sacrifice or suffered disability in service. It helps their dependents access professional and technical higher education without financial strain.\n\nThe Central Police Forces covered include CRPF, BSF, CISF, ITBP, SSB, AR (Assam Rifles), NSG, and the Special Protection Group (SPG). Applications are submitted offline to the respective Force HQ.",
+  "benefitsMd": "- **₹1,250 per month for male students** and **₹1,500 per month for female students**.\n- Duration: **2 to 5 years** as approved by the regulatory body for the enrolled course.\n- Covers professional courses in medicine, engineering, MBA, MCA, and equivalent programmes recognised by the regulatory authorities.",
+  "eligibilityMd": "Priority is given in the following order:\n\n1. Wards and widows of CPF personnel who **died in harness** (while on duty).\n2. Wards of ex-CPF personnel **disabled while on duty**.\n3. Wards of ex-CPF personnel who received **Gallantry Awards**.\n4. Wards and widows of ex-CPF/in-service personnel **(Below Officer Rank)** in all other cases.\n\nAdditional conditions:\n- Minimum **60% marks** in Class 12 (or equivalent qualifying exam) for the current year.\n- Student must be in the **first year** of the professional course at a recognised college (MCI/AICTE/UGC).",
+  "exclusionsMd": "- Children of Gazetted/Officer Rank personnel are **not covered** under priority category 4.\n- Students already enrolled in the scheme for the same course are renewed, not re-selected; failing a year terminates the scholarship.",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Invitations for applications are announced by the concerned CPF around **September–October each year**.\n**Step 2:** Download the application form from the respective Force HQ website (e.g., crpf.gov.in, bsf.gov.in, cisf.gov.in).\n**Step 3:** Fill in the form with personal, academic and parent's service details.\n**Step 4:** Attach required documents: CPF service/martyrdom certificate, Class 12 marksheet, college admission and fee receipt, bank details.\n**Step 5:** Submit the application to the **concerned Force HQ** by the notified deadline (typically 31 October).\n**Step 6:** Shortlisted names are published by the Force HQ; scholarship is disbursed to the student's bank account.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://www.mha.gov.in/en/schemes"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://www.mha.gov.in/sites/default/files/2022-08/PMSS-GLiens081008%5B1%5D.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

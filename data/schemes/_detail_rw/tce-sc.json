@@ -1,0 +1,28 @@
+{
+  "slug": "tce-sc",
+  "name": "Top Class Education For Scheduled Caste Students",
+  "shortTitle": "TCE-SC",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Social Justice and Empowerment",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Top Class Education for SC Students covers full tuition fees (up to ₹2 lakh/year at private institutions) plus an academic allowance of ₹2,220/month for SC students who have secured admission to one of the government's notified premier institutions.",
+  "descriptionMd": "Top Class Education for Scheduled Caste Students, administered by the Ministry of Social Justice & Empowerment (MoSJ&E), supports meritorious SC students who make it into some of India's best institutions — IITs, NITs, medical colleges, law schools, management schools and other notified institutes. Because fees at these institutions are often beyond a poor family's reach, the scheme removes the financial barrier entirely for qualifying SC scholars.\n\nThe scholarship is disbursed through the **National Scholarships Portal (NSP)** and is renewed annually based on satisfactory academic progress.",
+  "benefitsMd": "- **Full tuition fee and non-refundable charges** paid by the government.\n  - For private-sector notified institutions: subject to a ceiling of **₹2,00,000 per annum**.\n  - For government institutions: actual fees paid.\n- **Academic Allowance:** ₹2,220 per month for books, stationery and computer expenses.\n- **Living Expenses:** ₹3,000 per month for hostellers (non-residential students use Day Scholar rate).\n- **Insurance:** covered under PM Jeevan Jyoti Bima Yojana.",
+  "eligibilityMd": "- Must belong to the **Scheduled Caste (SC)** category with a valid caste certificate.\n- Must have secured **admission to a notified institution** identified under the scheme (the institution must be on the approved list available on the NSP).\n- Must be pursuing a **graduate, postgraduate, or doctoral degree** beyond Class 12.\n- Annual **family income must not exceed ₹6 lakh**.\n- The scheme is not available to students already receiving another full-fee scholarship or comparable government support.",
+  "exclusionsMd": "- Students at **non-notified institutions** are not eligible — verify your institution is on the NSP approved list before applying.\n- Students whose family income exceeds ₹6 lakh are excluded.",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit [scholarships.gov.in](https://scholarships.gov.in/) and click **'New Registration'**.\n**Step 2:** Complete One-Time Registration (OTR) — mobile, Aadhaar, email and bank details.\n**Step 3:** Log in and select **'Top Class Education for SC Students'** under Ministry of Social Justice & Empowerment.\n**Step 4:** Fill in the application — institution name, course, admission date, SC certificate details, family income.\n**Step 5:** Upload documents: SC certificate, Class 12 marksheet, admission letter, fee receipt, income certificate, Aadhaar, bank passbook.\n**Step 6:** Submit before the annual deadline. Your institution verifies the application and forwards it for approval and disbursement.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socialjustice.gov.in/writereaddata/UploadFile/95131767944207.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

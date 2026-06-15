@@ -1,0 +1,32 @@
+{
+  "slug": "ipmwcd",
+  "name": "Internship Programme for Women Students / Scholars / Social Activists / Teachers",
+  "shortTitle": "IPMWCD",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry of Women and Child Development",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Ministry of Women and Child Development Internship Programme gives women students, scholars, teachers and social activists from non-tier-1 cities a ₹20,000/month stipend for a 2-month internship at MoWCD — gaining direct policy experience in women & child welfare.",
+  "descriptionMd": "The Internship Programme for Women Students/Scholars/Social Activists/Teachers, run by the Ministry of Women and Child Development (MoWCD), provides women from non-metropolitan India a chance to work alongside ministry officials on live projects in women empowerment, child welfare, gender budgeting and policy research.\n\nThe programme explicitly targets women from **non-tier-1 cities and rural areas** — recognising that internship opportunities at central ministries are usually accessible only to those near Delhi or major metros. Interns are placed at the MoWCD headquarters in New Delhi for two months.",
+  "benefitsMd": "- **Stipend of ₹20,000 per month**, paid as a lump sum for the internship period.\n- **Duration:** 2 months per internship cycle; multiple cycles run through the year.\n- A **Certificate of Completion** from the Ministry of Women and Child Development.\n- Practical exposure to policy drafting, scheme implementation reviews, gender data analysis and report writing in a central government ministry.",
+  "eligibilityMd": "- Must be a **woman**.\n- Must be a student, research scholar, social activist or teacher.\n- Must be from a **non-tier-1 city or rural area** of India (the scheme specifically excludes those already based in Delhi and other metropolitan hubs).\n- Must hold at least a **Bachelor's degree** (or be pursuing one) from a recognised institution.\n- Research scholars and teachers with postgraduate qualifications are also welcome.",
+  "exclusionsMd": "- Women from **tier-1 cities** (Delhi, Mumbai, Bengaluru, Chennai, Hyderabad, Kolkata) or already residing in these cities are generally not the target group, though the final criteria are published in each call.\n- The internship is **not open to men**.",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the official MoWCD internship portal at [wcd.intern.nic.in](http://wcd.intern.nic.in/).\n**Step 2:** Click **'Register'** and create your account with your email and mobile number.\n**Step 3:** Log in and fill in the online application form — personal details, educational qualification, organisation/institution, area of interest (child welfare, women empowerment, etc.).\n**Step 4:** Upload: proof of enrollment or employment, a brief Statement of Purpose (SOP) explaining your interest, ID proof, and residence proof showing you are from a non-tier-1 city/rural area.\n**Step 5:** Submit before the cycle deadline. Shortlisted applicants are informed by email and asked to report to MoWCD's New Delhi office.",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://wcd.intern.nic.in/aboutproject"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://wcd.intern.nic.in/public/document/uploadDoc/5971728379366.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

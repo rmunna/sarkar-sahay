@@ -1,0 +1,32 @@
+{
+  "slug": "pmis",
+  "name": "Prime Minister’s Internship Scheme",
+  "shortTitle": "PMIS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry of Corporate Affairs",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "The PM Internship Scheme offers 12-month paid internships in India's top 500 companies to youth aged 21–24, with ₹5,000/month (₹4,500 from government + ₹500 from company) plus a ₹6,000 one-time grant.",
+  "descriptionMd": "The Prime Minister's Internship Scheme, launched by the Ministry of Corporate Affairs, aims to give one crore youth practical work experience at top Indian companies over five years. The scheme bridges the gap between academic training and real-world work by placing interns in diverse functions — manufacturing, operations, finance, marketing, HR and more — in companies across sectors.\n\nInternships run for 12 months. Companies participate voluntarily and bear part of the intern's stipend from their Corporate Social Responsibility (CSR) fund. The government contributes the larger share of the stipend and also provides insurance coverage for the intern.",
+  "benefitsMd": "- **12 months of on-the-job training** in a top 500 Indian company across your chosen sector.\n- **Monthly stipend of ₹5,000:** ₹4,500 paid directly by the Government of India + ₹500 paid by the partnering company.\n- **One-time grant of ₹6,000** for incidental expenses (paid at the start of the internship).\n- **Insurance cover** under PM Jeevan Jyoti Bima Yojana (life) and PM Suraksha Bima Yojana (accident) during the internship period.",
+  "eligibilityMd": "- Indian citizen, **aged 21 to 24 years** as on the last date of application.\n- **Not in full-time employment** and **not enrolled in full-time education** (students in online/distance-learning programmes are eligible).\n- Has passed at least **Class 10** (10th standard) or holds an ITI certificate, a diploma, or a graduation degree.\n- Must have completed at least one of the following: graduation, ITI, polytechnic diploma, or studied up to Class 10/12.",
+  "exclusionsMd": "- Graduates of **IITs, IIMs, IISERs, National Law Universities, NIDs and IIITs** are not eligible.\n- Holders of qualifications such as **CA, CMA, CS, MBBS, B.Tech (from IITs), and equivalent professional degrees** are excluded.\n- Those already in **regular or contractual employment** cannot apply.",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Go to the official PM Internship portal at [pminternship.mca.gov.in](https://pminternship.mca.gov.in/login/).\n**Step 2:** Click **'Youth Registration'** (top-right corner) or **'Register Now'**.\n**Step 3:** Enter your mobile number and verify the OTP.\n**Step 4:** Complete your profile — personal details, education, skills, preferred sector and location.\n**Step 5:** Browse available internship openings from participating companies and apply to up to **5 companies per cycle**.\n**Step 6:** If shortlisted, the company contacts you for a brief interview/assessment before confirming the placement.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://pminternship.mca.gov.in/mca-api/files/get-file-by-path?path=dmk6u3VpUsp6ikurW5RiDHvOeK%2FORrkviDSlob80fjUnkLIps2yEsK3t8HQ3X%2BCi5L3oDjNS71worg8RL%2B8I7SvOoHWDoY8Uxi9nbjdgdEiroaNA20hjxNmbfud6ms8nxsHquSlFMwPPQw%3D%3D"
+    },
+    {
+      "title": "Website",
+      "url": "https://pminternship.mca.gov.in/login/"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "eps",
+  "name": "Employees' Pension Scheme",
+  "shortTitle": "EPS",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Labour and Employment",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "Employees' Pension Scheme (EPS-95) gives EPF members with 10+ years of service a monthly pension from age 58 — calculated as (Pensionable Salary × Pensionable Service) ÷ 70 — plus family pension and disability pension.",
+  "descriptionMd": "The Employees' Pension Scheme 1995 (EPS-95), administered by the Employees' Provident Fund Organisation (EPFO) under the Ministry of Labour & Employment, is a defined-benefit pension for workers in the organised sector. Every employee covered under the Employees' Provident Fund Act, 1952 automatically becomes an EPS member.\n\nEvery month, **8.33% of the employer's 12% EPF contribution** goes into EPS rather than the provident fund. The government also contributes **1.16% of wages** (on the ₹15,000 wage ceiling) to EPS. When a member retires, they receive a monthly pension for life — and after their death, their spouse and children continue to receive family pension.",
+  "benefitsMd": "| Pension Type | Condition | Rate |\n|-------------|-----------|------|\n| **Superannuation Pension** | Retire at 58 with ≥10 years service | (Pensionable Salary × Pensionable Service) ÷ 70 |\n| **Early Pension** | Age 50–58, ≥10 years service | Superannuation Pension reduced by 4% per year before 58 |\n| **Disability Pension** | Permanent total disablement during service | 50% of Pensionable Salary (min ₹250/month) |\n| **Widow's / Widower's Pension** | On member's death | 50% of member's pension (min ₹1,000/month) |\n| **Children's Pension** | Up to 2 children under 25 | 25% of widow pension per child |\n| **Orphan Pension** | Both parents dead | 75% of widow pension per child (up to 2 children) |\n\n**Pensionable Salary** = average monthly pay drawn during the last 60 months before exit (capped at ₹15,000 unless higher wages were contributed on).\n**Pensionable Service** = actual service years (plus 2 bonus years if service ≥20 years).",
+  "eligibilityMd": "- Must be a **member of the EPF Scheme 1952** (i.e., employed in an establishment covered under the EPF & MP Act).\n- Monthly wage must not exceed **₹15,000** at the time of joining (those above this can join voluntarily).\n- Must have completed **10 years of contributory membership** in EPS to receive monthly pension.\n- Members with less than 10 years of service can withdraw the **EPS corpus** as a lump sum instead of a pension.",
+  "exclusionsMd": "- Members who exit EPS with **less than 10 years of service** are not entitled to a monthly pension — they receive a withdrawal benefit (lump sum).\n- Members who withdraw their EPS corpus before completing 10 years lose eligibility for monthly pension.",
+  "applicationMode": "Online",
+  "applicationMd": "**To activate your UAN (before retirement):**\n**Step 1:** Visit the EPFO Unified Portal at [unifiedportal-emp.epfindia.gov.in](https://unifiedportal-emp.epfindia.gov.in/) → click 'For Employees' → 'Activate UAN'.\n**Step 2:** Enter your UAN (or Member ID), Aadhaar, name, date of birth and mobile → get OTP → activate.\n\n**To claim EPS pension (on retirement at 58+):**\n**Step 1:** Log in to the EPFO Member Portal with your UAN and password.\n**Step 2:** Go to **'Online Services' → 'Claim (Form-31, 19 & 10C)'**.\n**Step 3:** Verify your bank account and Aadhaar KYC.\n**Step 4:** Choose **'Full EPF Settlement' or 'Pension Withdrawal (Form 10C)'** depending on whether you're claiming pension or lump sum.\n**Step 5:** Submit the online claim; your employer verifies it and EPFO processes the pension or settlement.",
+  "references": [
+    {
+      "title": "Employees' Pension Scheme, 1995 (Original Notification)",
+      "url": "https://www.epfindia.gov.in/site_docs/PDFs/Downloads_PDFs/EPS95_update102008.pdf"
+    },
+    {
+      "title": "EPFO Unified Member Portal",
+      "url": "https://unifiedportal-epfo.epfindia.gov.in"
+    },
+    {
+      "title": "Form 10D (Pension Claim Form)",
+      "url": "https://www.epfindia.gov.in/site_docs/PDFs/Downloads_PDFs/Form10D.pdf"
+    },
+    {
+      "title": "EPFiGMS (Grievance Portal)",
+      "url": "https://epfigms.gov.in"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "tce-swd",
+  "name": "Top Class Education For Students With Disabilities",
+  "shortTitle": "TCE-SWD",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Empowerment Of Persons With Disabilities",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "Top Class Education for Students with Disabilities covers full tuition fees (up to ₹2 lakh/year private institutions) plus ₹3,000/month living expenses and a books allowance for students with 40%+ disability admitted to notified premier institutions.",
+  "descriptionMd": "Top Class Education for Students with Disabilities (TCE-SWD), run by the Department of Empowerment of Persons with Disabilities (DEPwD), Ministry of Social Justice & Empowerment, removes the financial barrier for disabled students who qualify for admission into India's best educational institutions. Like its SC counterpart, this scheme targets notified premier institutions where fees would otherwise be prohibitive.\n\nThe scholarship is managed through the **National Scholarships Portal (NSP)** with direct-benefit transfer to the student's Aadhaar-linked bank account.",
+  "benefitsMd": "- **Full tuition fee** and non-refundable charges — at private-sector notified institutions, subject to a ceiling of **₹2,00,000 per annum**; actual fees at government institutions.\n- **Living expenses: ₹3,000 per month** (for both hostellers and day scholars — unlike the SC scheme).\n- **Books and stationery allowance:** ₹2,000 per annum.\n- **Computer/assistive-technology allowance:** ₹45,000 (one-time, for courses where a computer is needed).",
+  "eligibilityMd": "- Must have a **disability of 40% or more** with a valid disability certificate from a competent authority.\n- Must have secured **full-time admission in a notified institution** under this scheme.\n- Must be pursuing a **graduate, postgraduate or PhD degree** (not Class 11/12).\n- There is **no family income ceiling** under TCE-SWD — the scheme is needs-agnostic and merit-based.\n- Must not be receiving another full-fee scholarship simultaneously.",
+  "exclusionsMd": "- Students at institutions **not on the approved notified list** are not eligible.\n- Students in **distance or part-time programmes** are excluded.",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit [scholarships.gov.in](https://scholarships.gov.in/) and click **'New Registration'**.\n**Step 2:** Complete One-Time Registration (OTR) with your mobile, Aadhaar and bank details.\n**Step 3:** Log in and select **'Top Class Education for Students with Disabilities'** under Department of Empowerment of Persons with Disabilities.\n**Step 4:** Fill in the form — institution name, course, disability percentage, disability certificate details.\n**Step 5:** Upload documents: disability certificate (40%+), admission letter, fee receipt, Class 12 marksheet, Aadhaar, bank passbook.\n**Step 6:** Submit before the annual deadline; your institution verifies and forwards the application.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://disabilityaffairs.gov.in/upload/uploadfiles/files/scholarship2(1).pdf"
+    },
+    {
+      "title": "Rights Of Persons With Disabilities Act 2016",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_with_disabilities_act%2C_2016.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

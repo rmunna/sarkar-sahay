@@ -1,0 +1,28 @@
+{
+  "slug": "pmuy2",
+  "name": "Pradhan Mantri Ujjwala Yojana 2.0",
+  "shortTitle": "PMUY2",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Petroleum and Natural Gas",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Pradhan Mantri Ujjwala Yojana 2.0 extends the original Ujjwala scheme to give women from below-poverty-line and deprived households a free LPG connection — including a free first refill and stove — to replace polluting solid fuels.",
+  "descriptionMd": "Pradhan Mantri Ujjwala Yojana 2.0 (PMUY 2.0), launched in August 2021, continues and expands the first phase of Ujjwala (launched in 2016). Under PMUY 2.0, the focus has shifted toward states where LPG coverage remains low, and the scheme now explicitly includes **migrant families** who may not have local proof-of-address documents, making it easier for them to apply.\n\nThe scheme is implemented through three Oil Marketing Companies (OMCs) — **Indane (IOC), Bharat Gas (BPCL) and HP Gas (HPCL)** — via their distributor networks.",
+  "benefitsMd": "- A **deposit-free LPG connection** — the security deposit is paid by the Government of India:\n  - ₹1,600 for a 14.2 kg cylinder connection\n  - ₹1,150 for a 5 kg cylinder connection\n- A **free first LPG refill** after connection.\n- A **free hotplate/stove** (domestic gas consumer card, pressure regulator, LPG hose, inspection and installation charges are all included).",
+  "eligibilityMd": "The applicant must be:\n- An **adult woman** (aged 18 or above).\n- From a household that **does not already have an LPG connection** in any family member's name.\n- From one of the eligible categories:\n  - SC/ST households\n  - PMAY-G (Pradhan Mantri Awas Yojana – Gramin) beneficiaries\n  - Antyodaya Anna Yojana (AAY) households\n  - Most Backward Classes (MBC)\n  - Tea and Ex-Tea Garden tribe households\n  - Forest dwellers\n  - People residing on river islands or in hilly or remote areas\n  - SECC 2011 listed households\n  - Poor households not covered under the above, who can submit a self-declaration (14-point declaration)\n\n**Migrant families** can apply with a self-declaration of residence in lieu of an address proof document.",
+  "exclusionsMd": "- A male member of a household **cannot apply** — the connection must be in the name of an adult woman.\n- Households that **already have an LPG connection** in any member's name are not eligible.",
+  "applicationMode": "Offline",
+  "applicationMd": "**Step 1:** Visit [pmuy.gov.in](https://www.pmuy.gov.in/) and click **'Apply for New Ujjwala 2.0 Connection'**.\n**Step 2:** Select your preferred gas company — Indane, Bharat Gas or HP Gas.\n**Step 3:** Choose your state, district and distributor.\n**Step 4:** Enter your mobile number, verify the OTP.\n**Step 5:** Indicate whether you are a **migrant family** (if yes, you can use a self-declared address).\n**Step 6:** Provide your family identifier — Ration Card, SECC 2011 ID, or PMAY-G beneficiary number — and complete the online form.\n\nYou can also apply by visiting the nearest **LPG distributor** with your Aadhaar and the relevant document (Ration Card or equivalent).",
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://www.pmuy.gov.in/index.aspx"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

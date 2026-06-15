@@ -1,0 +1,36 @@
+{
+  "slug": "pm-usp-sssjkl",
+  "name": "Pradhan Mantri Uchchatar Shiksha Protsahan Yojana - Special Scholarship Scheme for Jammu & Kashmir and Ladakh",
+  "shortTitle": "PM-USP SSSJKL",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Higher Education",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Cash",
+  "briefDescription": "PM-USP Special Scholarship Scheme for J&K and Ladakh gives domicile students from J&K and Ladakh a scholarship to study in institutions outside the UTs — covering academic fees up to ₹1.25 lakh/year and a maintenance allowance of ₹1,000/month for up to 5 years.",
+  "descriptionMd": "The Pradhan Mantri Uchchatar Shiksha Protsahan Yojana — Special Scholarship Scheme for Jammu & Kashmir and Ladakh (PM-USP SSSJKL), administered by AICTE under the Ministry of Education, was launched as part of the Prime Minister's Development Package for J&K. It provides scholarships to meritorious students from J&K and Ladakh to pursue higher technical, professional and general degree education at institutions outside these Union Territories.\n\nThe scheme aims to integrate J&K and Ladakh students into the national education mainstream and is disbursed through the **National Scholarships Portal (NSP)**.",
+  "benefitsMd": "**Academic Fee:**\n| Stream | Scholarship Count | Annual Fee Ceiling |\n|--------|-------------------|-----------------------|\n| General Degree | 2,070 | ₹30,000 |\n| Technical/Professional (AICTE/MCI/BCI) | 1,630 | ₹1,25,000 |\n\n**Maintenance Allowance:** ₹1,000 per month for up to 10 months per year.\n**Duration:** Up to 5 years (for 4-year technical courses) or the course duration, whichever is less.",
+  "eligibilityMd": "- Must be a **domicile of J&K or Ladakh** (UT).\n- Must have passed **Class 12 from JKBOSE or a CBSE-affiliated school** located in J&K or Ladakh.\n- Annual **family income must be ₹8 lakh or below**.\n- Must have secured **admission to a recognised institution** outside J&K and Ladakh for a general, technical or professional degree course.",
+  "exclusionsMd": "- Students who have taken admission in institutions **within J&K or Ladakh** are not eligible — the scheme specifically targets study outside the UT.\n- Students with family income above ₹8 lakh are excluded.",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Complete **One-Time Registration (OTR)** at [scholarships.gov.in](https://scholarships.gov.in/).\n**Step 2:** Log in and select the PM-USP Special Scholarship for J&K and Ladakh under the Central Scheme list.\n**Step 3:** Fill in the application — domicile, Class 12 results, institution name, course, family income.\n**Step 4:** Upload documents: J&K/Ladakh domicile certificate, Class 12 marksheet, income certificate, admission letter from outside-UT institution, Aadhaar, bank passbook.\n**Step 5:** Submit before the annual deadline (typically September–October); your institution verifies and forwards to NSP for disbursement.",
+  "references": [
+    {
+      "title": "Scheme Description",
+      "url": "https://www.education.gov.in/scholarships-education-loan-0-hi"
+    },
+    {
+      "title": "Scheme Guidelines",
+      "url": "https://www.aicte.gov.in/bureaus/jk"
+    },
+    {
+      "title": "AICTE Web-Portal For Online Application",
+      "url": "https://www.aicte-jk-scholarship-gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

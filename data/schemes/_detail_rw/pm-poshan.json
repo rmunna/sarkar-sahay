@@ -1,0 +1,32 @@
+{
+  "slug": "pm-poshan",
+  "name": "PM POSHAN - Prime Minister's Overarching Scheme For Holistic Nourishment",
+  "shortTitle": "PM POSHAN",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of School Education and Literacy",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "PM POSHAN (formerly Mid-Day Meal Scheme) provides one free hot cooked meal every school day to all children studying in Classes 1–8 in government and government-aided schools, covering over 11 crore children across India.",
+  "descriptionMd": "PM POSHAN — formally 'Prime Minister's Overarching Scheme for Holistic Nourishment' — is a centrally sponsored scheme of the Department of School Education & Literacy (Ministry of Education). Formerly known as the Mid-Day Meal Scheme (since 1995), it was renamed and revamped in 2021. It provides **one nutritious hot cooked meal on every school day** to all eligible children, regardless of gender, caste or religion.\n\nThe scheme serves a dual purpose: improving the nutrition and health of school-going children, and boosting school enrolment and attendance by providing an incentive to come to school. Meals are cooked in school kitchens with ingredients from the Public Distribution System (PDS), supplemented by fresh vegetables and local produce.",
+  "benefitsMd": "Every eligible child in Classes 1–8 gets:\n\n- **One hot cooked meal on each school day** — free of cost, no application needed.\n- **Nutrition norms per child per day:**\n  - Primary (Classes 1–5): 450 calories, 12 g protein | 100 g food grains + 20 g pulses + 50 g vegetables + 5 g oil\n  - Upper Primary (Classes 6–8): 700 calories, 20 g protein | 150 g food grains + 30 g pulses + 75 g vegetables + 7.5 g oil\n- Meals must include **eggs or milk** in states where nutritional gaps are high, per the revised guidelines.\n- **Cooking costs** (labour, fuel, condiments) are shared between Centre and State.",
+  "eligibilityMd": "- Must be an **Indian citizen**.\n- Must be enrolled in **Class 1 to Class 8** in a **Government or Government-Aided school**.\n\nThere is **no application process** — every eligible child in a covered school automatically receives the meal on school days.",
+  "exclusionsMd": "- Children in private unaided schools are **not** covered.\n- The meal is provided only on **school days** — not on weekends, holidays or during vacations.",
+  "applicationMode": "Offline",
+  "applicationMd": "There is **no individual application required** for PM POSHAN. The scheme is universal for all students in government and government-aided schools from Class 1 to Class 8. The meal is provided directly at the school.\n\nIf a school in your area is not providing the meal, raise a complaint with the **Block Education Officer (BEO)** or through the PM POSHAN grievance portal.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.india.gov.in/search?search=PM+POSHAN++Prime+Ministers+Overarching+Scheme+For+Holistic+Nourishment&type="
+    },
+    {
+      "title": "PIB",
+      "url": "https://pib.gov.in/Pressreleaseshare.aspx?PRID=1812421#:~:text=The%20Government%20has%20approved%20the,by%20the%20Ministry%20of%20Education."
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "pdfwc",
+  "name": "Post Doctoral Fellowship To Women Candidates",
+  "shortTitle": "PDFWC",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department Of Higher Education",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "UGC Post-Doctoral Fellowship for Women Candidates gives unemployed women PhD holders a fellowship of ₹38,800/month (JRF level) or ₹45,000/month (after 2 years, SRF level) for up to 5 years, to support independent post-doctoral research.",
+  "descriptionMd": "The UGC Post-Doctoral Fellowship for Women Candidates, run by the University Grants Commission (UGC) under the Ministry of Education, supports women who hold a PhD and wish to continue academic research but have not yet been able to secure a university or research position. The fellowship provides a regular income and contingency grant for up to five years, enabling them to publish and build a research career.\n\nApplications are invited once a year through national newspaper advertisements and the UGC website.",
+  "benefitsMd": "- **Fellowship stipend:** ₹38,800/month for the first two years (JRF equivalent); ₹45,000/month from year 3 onwards (SRF equivalent), subject to positive annual performance review.\n- **Contingency grant:** ₹20,000/year for the first two years; ₹25,000/year from year 3 (for books, journals, lab consumables, field work, etc.).\n- **Duration:** up to **5 years** (non-extendable, with annual performance review).\n- The fellow is hosted at a **UGC-recognised university or research institution** of their choice.",
+  "eligibilityMd": "- Must be a **woman** candidate.\n- Must hold a **PhD degree** (provisional certificate accepted if the degree is not yet formally awarded).\n- Must be **unemployed** — not holding any regular salaried position at the time of application.\n- **Maximum age: 55 years** at the time of application.\n- The research proposal must be in a discipline supported by UGC.",
+  "exclusionsMd": "- Women who are already employed (regular, contractual, or ad-hoc) are **not eligible**.\n- The fellowship is **not renewable** beyond 5 years and cannot be held concurrently with any other fellowship or scholarship.",
+  "applicationMode": "Online",
+  "applicationMd": "Applications are invited once a year through national newspaper advertisements and the UGC website:\n\n**Step 1:** Watch for the annual notification on [ugc.gov.in](https://www.ugc.gov.in/) or in Employment News.\n**Step 2:** Download the application form from the UGC website and read the instructions carefully.\n**Step 3:** Prepare your **Research Proposal** (typically 2,000–3,000 words) in the prescribed format.\n**Step 4:** Arrange a **sponsoring institution** — a UGC-recognised university or research centre willing to host the fellowship.\n**Step 5:** Obtain endorsement from the Head of the Department and the Registrar of the host institution.\n**Step 6:** Submit the completed application form with all attachments (PhD certificate, endorsements, research proposal, proof of unemployment) to the UGC address / online portal as specified in the notification.",
+  "references": [
+    {
+      "title": "Guidelines-XII",
+      "url": "https://www.ugc.gov.in/pdfnews/7347918_pdfw.pdf"
+    },
+    {
+      "title": "UGC Website",
+      "url": "https://www.ugc.gov.in/pdfw"
+    },
+    {
+      "title": "Guidelines-XI",
+      "url": "https://www.ugc.gov.in/oldpdf/xiplanpdf/guidelinespostdoctoral_women.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

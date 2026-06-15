@@ -1,0 +1,36 @@
+{
+  "slug": "pmay-u",
+  "name": "Pradhan Mantri Awas Yojana - Urban",
+  "shortTitle": "PMAY - U",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Housing & Urban Affairs",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "In Kind",
+  "briefDescription": "Pradhan Mantri Awas Yojana – Urban (PMAY-U) helps urban households from EWS, LIG and MIG categories buy or build a pucca house, with central government assistance ranging from ₹1.5 lakh to ₹2.5 lakh depending on income group and location.",
+  "descriptionMd": "Pradhan Mantri Awas Yojana – Urban (PMAY-U), launched on 25 June 2015 by the Ministry of Housing & Urban Affairs, works toward 'Housing for All' by providing financial support for constructing or buying a permanent pucca house in urban areas. The scheme is implemented through state and urban local bodies and covers all 4,041+ statutory towns and cities.\n\nPMAY-U 2.0, the current phase, targets families in four income bands — EWS, LIG, MIG-1 and MIG-2 — and the assistance is delivered through four verticals: Beneficiary-Led Construction (BLC), Affordable Housing in Partnership (AHP), Affordable Rental Housing (ARH) and an Interest Subsidy Scheme (ISS) on home loans.",
+  "benefitsMd": "The amount of central assistance depends on the scheme vertical and the state's category:\n\n**Beneficiary-Led Construction (BLC) / Affordable Housing in Partnership (AHP)**\n- ₹2.25 lakh per unit from the Central Government, plus a minimum of ₹0.25 lakh from the State Government in most states.\n- For Hilly/NE/UT (J&K, Puducherry, Delhi) states: ₹2.50 lakh central + ₹0.25 lakh state minimum.\n- Technology Innovation Grant of ₹3,000/sq m (central) and ₹2,000/sq m (state) for innovative construction.\n\n**Affordable Rental Housing (ARH)**\nSupport for converting vacant government-owned buildings into affordable rental dwellings, or for private builders to construct new rental units on private land.\n\n**Interest Subsidy Scheme (ISS)**\nA credit-linked interest subsidy on home loans for EWS/LIG (up to ₹6 lakh loan at 6.5% subsidy) and MIG categories, credited upfront to reduce the EMI.",
+  "eligibilityMd": "A family is eligible if it falls into one of these income groups and does not own a pucca house anywhere in India:\n\n| Category | Annual Family Income |\n|----------|---------------------|\n| EWS (Economically Weaker Section) | Up to ₹3,00,000 |\n| LIG (Low Income Group) | ₹3,00,001 – ₹6,00,000 |\n| MIG-1 (Middle Income Group 1) | ₹6,00,001 – ₹12,00,000 |\n| MIG-2 (Middle Income Group 2) | ₹12,00,001 – ₹18,00,000 |\n\nFor BLC, the beneficiary must own the land or be eligible to get land allotted. For AHP, the beneficiary selects an apartment in a builder-partnered project.\n\n**EWS and LIG** applicants must ensure the house is registered in the name of the woman head of household, or jointly with the husband.",
+  "exclusionsMd": "- Families that already own a pucca house anywhere in India are **not** eligible.\n- A beneficiary family that has already received central assistance under any earlier housing scheme is excluded from PMAY-U 2.0.\n- MIG beneficiaries can only avail the Interest Subsidy component, not the BLC/AHP grant.",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Visit the official PMAY-U 2.0 portal at [pmay-urban.gov.in](https://pmay-urban.gov.in/) and click **'Apply for PMAY-U 2.0'**.\n**Step 2:** Read the instructions carefully and proceed to the registration page.\n**Step 3:** Enter your Aadhaar number, verify with the OTP sent to your Aadhaar-linked mobile number.\n**Step 4:** Fill in the online application form with your personal and family details, income, and preferred scheme vertical (BLC/AHP/ISS).\n**Step 5:** Upload the required documents — Aadhaar, income certificate, land/ownership proof (for BLC), etc.\n**Step 6:** Submit the form and note the **application number** for tracking.\n\nYou can also apply offline through your **Urban Local Body (ULB)** or Common Service Centre (CSC).",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://pmay-urban.gov.in/"
+    },
+    {
+      "title": "MIS Portal",
+      "url": "https://pmaymis.gov.in/"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

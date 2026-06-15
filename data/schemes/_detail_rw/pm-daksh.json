@@ -1,0 +1,28 @@
+{
+  "slug": "pm-daksh",
+  "name": "Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi (PM-DAKSH)",
+  "shortTitle": "PM-DAKSH",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Social Justice & Empowerment",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "PM-DAKSH gives free skill training to SC, OBC, EWS, DNT and Safai Mitra beneficiaries (aged 18–45), covering short-term, long-term and upskilling programmes with a daily stipend and placement support.",
+  "descriptionMd": "Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi (PM-DAKSH), launched in 2020–21 by the Ministry of Social Justice & Empowerment, is a skill-development scheme for socially and economically marginalised groups. It provides **free, industry-relevant skill training** across trades ranging from beauty, tailoring and construction to IT and automotive repair — with placement support on completion.\n\nThe scheme is implemented through State Channelising Agencies (SCAs) of National Scheduled Castes Finance & Development Corporation (NSFDC), National Backward Classes Finance & Development Corporation (NBCFDC) and National Safai Karamcharis Finance & Development Corporation (NSKFDC).",
+  "benefitsMd": "All training is **100% government-funded** — no fees charged to the trainee.\n\n| Programme Type | Duration | Stipend |\n|---------------|----------|---------|\n| **Short-term training** (new skills) | 31–180 days | ₹1,000–₹1,500/month |\n| **Long-term training** (NSQF Level 5+) | >6 months | ₹1,500/month |\n| **Re-skilling / Upskilling** | 32–80 hours | ₹3,000 lump sum |\n| **Entrepreneurship Development Programme (EDP)** | ≥80 hours | ₹10,000 one-time grant |\n\nAdditionally:\n- **Certification** on passing the final assessment (issued by the relevant Sector Skill Council).\n- **Placement assistance** — partnering employers or self-employment support after training.\n- Residential and non-residential batches available.",
+  "eligibilityMd": "- Indian citizen aged **18 to 45 years**.\n- Must belong to one of:\n  1. **Scheduled Castes (SC)**\n  2. **Other Backward Classes (OBC)**\n  3. **Economically Weaker Sections (EWS)**\n  4. **Denotified, Nomadic and Semi-Nomadic Tribes (DNT)**\n  5. **Safai Mitras and Waste Pickers**\n- Annual family income **up to ₹3 lakh** (for OBC, ₹1 lakh in some states; verify at application time).\n- For OBC: valid **OBC (Non-Creamy Layer) certificate** required.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Go to the **Skill India Digital Hub** at [skillindiadigital.gov.in](https://www.skillindiadigital.gov.in/).\n**Step 2:** Click **'Register'** (top-right corner) and choose **'Learner/Participant'**.\n**Step 3:** Enter your mobile number and verify the OTP.\n**Step 4:** Complete your profile — personal details, category (SC/OBC/EWS/DNT/Safai Mitra), Aadhaar, income certificate.\n**Step 5:** Search for PM-DAKSH courses in your area and trade, and apply for your preferred batch.\n**Step 6:** On selection, you'll receive a confirmation; attend the training at the designated centre or online (for digital skills).",
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "https://socialjustice.gov.in/schemes/100"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}

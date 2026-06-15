@@ -1,0 +1,28 @@
+{
+  "slug": "rgsaip",
+  "name": "Rashtriya Gram Swaraj Abhiyan - Internship Program",
+  "shortTitle": "RGSAIP",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry Of Panchayati Raj",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individual"
+  ],
+  "benefitType": "Composite",
+  "briefDescription": "RGSA Internship Program gives undergraduate, graduate and postgraduate students plus research scholars a ₹7,000/month stipend for a 3-month internship at the Ministry of Panchayati Raj or its field units — along with a completion certificate.",
+  "descriptionMd": "The Rashtriya Gram Swaraj Abhiyan (RGSA) Internship Program, run by the Ministry of Panchayati Raj, provides hands-on learning opportunities in rural governance and Panchayati Raj Institutions (PRIs). Interns work on live projects — capacity building, e-governance, data analysis, report writing — and gain direct exposure to how India's grassroots democratic institutions function.\n\nThe program is particularly suited for students interested in public administration, rural development, social work, law, or policy research.",
+  "benefitsMd": "- **Stipend of ₹7,000 per month** for the internship period.\n- **Duration:** typically **3 months** (may vary per call).\n- A **Certificate of Completion** from the Ministry of Panchayati Raj.\n- Hands-on experience in areas such as training of Panchayat members, documentation of best practices, digital literacy programs, and policy drafting.",
+  "eligibilityMd": "- Must be enrolled in (or have recently completed) an **undergraduate, graduate, postgraduate or doctoral programme** at a recognised Indian university or institute.\n- **Research Scholars** pursuing PhD or Post-Doc are also eligible.\n- No specific CGPA requirement is stated, but a relevant academic background (social sciences, law, public administration, engineering, IT, agriculture) is preferred.",
+  "exclusionsMd": "",
+  "applicationMode": "Online",
+  "applicationMd": "**Step 1:** Register on the **ServicePlus** portal at [serviceonline.gov.in](https://serviceonline.gov.in/) if you are not already registered.\n**Step 2:** Visit the RGSA Internship application page on the Ministry of Panchayati Raj portal or via ServicePlus.\n**Step 3:** Fill in the online application form — personal details, educational qualifications, areas of interest.\n**Step 4:** Upload required documents: enrollment certificate from your university, ID proof, academic marksheets.\n**Step 5:** Submit the application before the notified deadline. Shortlisted candidates are called for an interview or selected based on merit.",
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cdnbbsr.s3waas.gov.in/s316026d60ff9b54410b3435b403afd226/uploads/2023/09/202403121034313656.pdf"
+    }
+  ],
+  "fetchedAt": "2026-06-13",
+  "rewritten": true
+}
