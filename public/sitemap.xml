@@ -39331,6 +39331,12 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.citizennest.com/update/cet-result</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://www.citizennest.com/update/cnet-result-date-2026</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>daily</changefreq>
