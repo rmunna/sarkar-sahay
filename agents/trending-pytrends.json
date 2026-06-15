@@ -1,11 +1,11 @@
 {
-  "scannedAt": "2026-06-15T12:46:31.744432",
+  "scannedAt": "2026-06-15T17:44:11.194219",
   "results": [
     {
-      "topic": "kerala university",
+      "topic": "icai",
       "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": "kerala-caste-certificate-apply-online",
+      "guide_exists": null,
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -21,25 +21,7 @@
     },
     {
       "topic": "bigg boss 20 contestants list",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "abhishek banerjee",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "upsc",
-      "category": "Realtime RSS (IN-TG)",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
@@ -50,7 +32,7 @@
       "topic": "sbi share price",
       "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
-      "guide_exists": "petrol-diesel-price-check-today",
+      "guide_exists": "pm-aasha-msp-price-support-farmers",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -68,7 +50,7 @@
       "topic": "msbte result summer 2026 date",
       "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
-      "guide_exists": "msbte-result-summer-2026",
+      "guide_exists": null,
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -76,26 +58,17 @@
   ],
   "opportunities": [
     {
+      "topic": "icai",
+      "category": "Realtime RSS (IN)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
       "topic": "bigg boss 20 contestants list",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "abhishek banerjee",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "upsc",
-      "category": "Realtime RSS (IN-TG)",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
@@ -104,6 +77,15 @@
     },
     {
       "topic": "cet result",
+      "category": "Realtime RSS (IN-MH)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "msbte result summer 2026 date",
       "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
@@ -114,15 +96,6 @@
   ],
   "covered": [
     {
-      "topic": "kerala university",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": "kerala-caste-certificate-apply-online",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
       "topic": "upsc prelims 2026 result",
       "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
@@ -135,17 +108,8 @@
       "topic": "sbi share price",
       "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
-      "guide_exists": "petrol-diesel-price-check-today",
+      "guide_exists": "pm-aasha-msp-price-support-farmers",
       "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "msbte result summer 2026 date",
-      "category": "Realtime RSS (IN-MH)",
-      "rising_value": 100,
-      "guide_exists": "msbte-result-summer-2026",
-      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
@@ -153,6 +117,15 @@
   "spike_candidates": [
     {
       "topic": "cet result",
+      "category": "Realtime RSS (IN-MH)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "msbte result summer 2026 date",
       "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
