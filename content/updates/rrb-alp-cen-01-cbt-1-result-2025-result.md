@@ -1,16 +1,16 @@
 ---
-title: "RRB ALP CEN 01/2025 CBT-1 Result Result June 2026 — Check at www.rrbcdg.gov.in"
-description: "RRB ALP CEN 01/2025 CBT-1 Result result out 12 Jun 2026. Check marksheet, subject-wise marks and pass/fail status at www.rrbcdg.gov.in."
+title: "RRB ALP CEN 01/2025 CBT-1 Result June 2026 — Check at rrbcdg.gov.in"
+description: "RRB ALP CEN 01/2025 CBT-1 Result declared 12 Jun 2026. Check your marksheet, subject-wise marks and qualifying status at rrbcdg.gov.in."
 category: "Results"
 type: "result"
 organization: "RRB"
-examName: "RRB ALP CEN 01/2025 CBT-1 Result"
+examName: "RRB ALP CEN 01/2025 CBT-1"
 stage: "result"
 keywords:
-  - "rrb alp cen 01/2025 cbt-1 result result"
-  - "rrb alp cen 01/2025 cbt-1 result"
+  - "rrb alp cen 01/2025 cbt-1 result 2026"
+  - "rrb alp result june 2026"
   - "rrb result 2026"
-  - "rrb alp cen 01/2025 cbt-1 result result date"
+  - "rrb alp cbt-1 result date"
   - "rrb alp cen 01/2025 cbt-1 result marksheet download"
 importantDates:
   examDate: "2026-02-13"
