@@ -1,27 +1,81 @@
 {
-  "scannedAt": "2026-06-13T14:32:49.526684",
+  "scannedAt": "2026-06-15T05:32:10.949780",
   "results": [
     {
-      "topic": "re-neet 2026 admit card download",
+      "topic": "sbi bank share price",
       "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": "jee-main-apply-admit-card-results",
+      "guide_exists": "petrol-diesel-price-check-today",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "sslc result 2026 kerala",
+      "category": "Realtime RSS (IN)",
+      "rising_value": 100,
+      "guide_exists": "kerala-caste-certificate-apply-online",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "up cnet result 2026",
-      "category": "Realtime RSS (IN)",
+      "topic": "vedanta share",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": true,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "cnet result date 2026",
+      "topic": "sbi share price",
       "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": "petrol-diesel-price-check-today",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ayushman bharat card",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": "ayushman-bharat-pmjay-health-card",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ayushman bharat",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": "ayushman-bharat-pmjay-health-card",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "vedanta share price",
+      "category": "Realtime RSS (IN-KA)",
+      "rising_value": 100,
+      "guide_exists": "petrol-diesel-price-check-today",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "vedanta aluminium metal limited share price",
+      "category": "Realtime RSS (IN-MH)",
+      "rising_value": 100,
+      "guide_exists": "petrol-diesel-price-check-today",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "msbte result summer 2026",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -31,17 +85,17 @@
   ],
   "opportunities": [
     {
-      "topic": "up cnet result 2026",
-      "category": "Realtime RSS (IN)",
+      "topic": "vedanta share",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": true,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "cnet result date 2026",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "msbte result summer 2026",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -51,28 +105,73 @@
   ],
   "covered": [
     {
-      "topic": "re-neet 2026 admit card download",
+      "topic": "sbi bank share price",
       "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": "jee-main-apply-admit-card-results",
+      "guide_exists": "petrol-diesel-price-check-today",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "sslc result 2026 kerala",
+      "category": "Realtime RSS (IN)",
+      "rising_value": 100,
+      "guide_exists": "kerala-caste-certificate-apply-online",
       "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "sbi share price",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": "petrol-diesel-price-check-today",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ayushman bharat card",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": "ayushman-bharat-pmjay-health-card",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ayushman bharat",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": "ayushman-bharat-pmjay-health-card",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "vedanta share price",
+      "category": "Realtime RSS (IN-KA)",
+      "rising_value": 100,
+      "guide_exists": "petrol-diesel-price-check-today",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "vedanta aluminium metal limited share price",
+      "category": "Realtime RSS (IN-MH)",
+      "rising_value": 100,
+      "guide_exists": "petrol-diesel-price-check-today",
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "up cnet result 2026",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "cnet result date 2026",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "msbte result summer 2026",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
