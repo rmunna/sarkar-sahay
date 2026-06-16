@@ -1,0 +1,122 @@
+name: Cluster Pages Generator
+
+on:
+  schedule:
+    # Run daily at 03:30 UTC (09:00 IST) — generates up to 8 missing cluster pages
+    - cron: '30 3 * * *'
+  workflow_dispatch:
+    inputs:
+      exam:
+        description: 'Generate pages for a specific exam (e.g. "BPSC 70th 2026")'
+        required: false
+        default: ''
+      limit:
+        description: 'Max pages to generate per run (default: 8)'
+        required: false
+        default: '8'
+      dry_run:
+        description: 'Dry run — detect missing pages without writing'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  generate-cluster-pages:
+    name: Generate Missing Exam Cluster Pages
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      SITE_URL: https://www.citizennest.com
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4.2.2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4.4.0
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --prefer-offline
+
+      - name: Generate missing cluster pages
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          ARGS=""
+          [ -n "${{ github.event.inputs.exam }}" ] && ARGS="$ARGS --exam '${{ github.event.inputs.exam }}'"
+          [ "${{ github.event.inputs.dry_run }}" = "true" ] && ARGS="$ARGS --dry-run"
+          LIMIT="${{ github.event.inputs.limit || '8' }}"
+          node scripts/generate-cluster-pages.mjs --limit=$LIMIT $ARGS
+
+      - name: Regenerate sitemap if pages written
+        run: |
+          if git status --porcelain -- content/updates | grep -q .; then
+            npx tsx scripts/generate-sitemap.ts
+          else
+            echo "No new pages written — sitemap unchanged"
+          fi
+
+      - name: Commit and push new pages
+        id: commit
+        run: |
+          git config user.name "CitizenNest Bot"
+          git config user.email "bot@citizennest.com"
+          git add content/updates/ public/sitemap*.xml 2>/dev/null || true
+          NEW=$(git diff --staged --name-only -- 'content/updates/*.md' | wc -l | tr -d ' ')
+
+          if [ "$NEW" -gt 0 ]; then
+            git commit -m "content: auto-add ${NEW} exam cluster page(s) [$(TZ=Asia/Kolkata date +'%Y-%m-%d %H:%M IST')]
+
+            Source: Cluster pages generator (scheduled)
+            Engine: Gemini 2.5 Flash + cluster plans [skip vercel]"
+            git fetch origin main
+            git rebase --autostash origin/main
+            git push
+            echo "new_count=$NEW" >> "$GITHUB_OUTPUT"
+          else
+            echo "new_count=0" >> "$GITHUB_OUTPUT"
+            echo "No new content written"
+          fi
+
+      - name: Submit new URLs to Google Indexing API
+        if: steps.commit.outputs.new_count > 0
+        env:
+          GOOGLE_INDEXING_KEY: ${{ secrets.GOOGLE_INDEXING_KEY }}
+        run: |
+          if [ -f "agents/.newly-generated-slugs" ]; then
+            while IFS= read -r slug; do
+              [ -z "$slug" ] && continue
+              URL="$SITE_URL/update/$slug"
+              echo "Indexing: $URL"
+              node scripts/google-index-submit.js "$URL" || true
+            done < agents/.newly-generated-slugs
+          fi
+
+      - name: Submit new URLs to IndexNow
+        if: steps.commit.outputs.new_count > 0
+        run: |
+          if [ -f "agents/.newly-generated-slugs" ]; then
+            URLS_JSON=$(awk -v site="$SITE_URL" '{if($0!="") printf "\"%s/update/%s\",", site, $0}' agents/.newly-generated-slugs | sed 's/,$//')
+            [ -z "$URLS_JSON" ] && exit 0
+            curl -s -X POST "https://api.indexnow.org/indexnow" \
+              -H "Content-Type: application/json" \
+              -d "{\"host\":\"www.citizennest.com\",\"key\":\"c4afa3fbd1f57a882b7e8453af3e4f7e\",\"keyLocation\":\"https://www.citizennest.com/c4afa3fbd1f57a882b7e8453af3e4f7e.txt\",\"urlList\":[$URLS_JSON]}" \
+              && echo "IndexNow submitted" || echo "IndexNow failed (non-fatal)"
+          fi
+
+      - name: Job Summary
+        if: always()
+        run: |
+          echo "## Cluster Pages Generator" >> "$GITHUB_STEP_SUMMARY"
+          echo "| | |" >> "$GITHUB_STEP_SUMMARY"
+          echo "|---|---|" >> "$GITHUB_STEP_SUMMARY"
+          echo "| New pages generated | ${{ steps.commit.outputs.new_count || 0 }} |" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Mode | ${{ github.event.inputs.dry_run == 'true' && 'Dry run' || 'Live' }} |" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Trigger | ${{ github.event_name }} |" >> "$GITHUB_STEP_SUMMARY"

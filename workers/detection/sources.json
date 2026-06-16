@@ -42,6 +42,7 @@
         "https://www.upsc.gov.in/exams-related-info/exam-notification/archives"
       ],
       "homepage": "https://www.upsc.gov.in",
+      "timeoutMs": 25000,
       "include": ["pdf", "notification", "recruitment", "result", "admit", "exam", "written", "schedule"]
     },
     {

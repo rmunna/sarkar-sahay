@@ -1,9 +1,10 @@
 name: Exam Monitor — Detect & Publish Updates
 
 on:
-  # Scheduled polling moved to Cloudflare Worker:
-  # https://citizennest-detection.citizennest.workers.dev
-  # Keep manual dispatch as a fallback for sources that block Cloudflare.
+  schedule:
+    # Run every 6 hours — GitHub Actions runner has different IPs than Cloudflare,
+    # so it can reach sites that block Cloudflare (CISF, BSF, UPPSC etc.)
+    - cron: '0 */6 * * *'
   workflow_dispatch:
     inputs:
       tier:

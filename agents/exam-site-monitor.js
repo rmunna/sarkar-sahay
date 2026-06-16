@@ -25,7 +25,7 @@ const path = require('path');
 
 const TRACKER_PATH = path.join(__dirname, 'exam-monitor-tracker.json');
 
-function fetchPage(urlStr, timeoutMs = 5000) {
+function fetchPage(urlStr, timeoutMs = 15000) {
   return new Promise((resolve, reject) => {
     const parsed = new URL(urlStr);
     const client = parsed.protocol === 'https:' ? https : http;
@@ -167,7 +167,7 @@ async function checkUPSC(tracker) {
   const key = 'upsc:whatsnew';
   
   try {
-    const { status, body } = await fetchPage('https://upsc.gov.in/');
+    const { status, body } = await fetchPage('https://upsc.gov.in/', 25000);
     if (status !== 200) throw new Error(`HTTP ${status}`);
 
     // Extract PDF links and text near them
@@ -209,12 +209,12 @@ async function checkUPSC(tracker) {
 // ============================================================
 // Generic HTML hash (for WordPress/static sites)
 // ============================================================
-async function checkHTML(siteId, name, url, tracker) {
+async function checkHTML(siteId, name, url, tracker, timeoutMs = 0) {
   const changes = [];
   const key = `${siteId}:hash`;
-  
+
   try {
-    const { status, body } = await fetchPage(url);
+    const { status, body } = await fetchPage(url, timeoutMs || 15000);
     if (status !== 200) throw new Error(`HTTP ${status}`);
 
     // Extract just the meaningful content (strip scripts, styles, dynamic elements)
@@ -296,13 +296,13 @@ async function checkHTML(siteId, name, url, tracker) {
 const HTML_SITES = [
   // Banking & Finance
   { id: 'ibps', name: 'IBPS', url: 'https://www.ibps.in/' },
-  { id: 'sbi', name: 'SBI Careers', url: 'https://bank.sbi/web/careers/current-openings' },
+  { id: 'sbi', name: 'SBI Careers', url: 'https://bank.sbi/web/careers/current-openings', timeoutMs: 30000 },
   { id: 'rbi', name: 'RBI Careers', url: 'https://opportunities.rbi.org.in/' },
   { id: 'nabard', name: 'NABARD', url: 'https://www.nabard.org/career-notices.aspx' },
   { id: 'icai', name: 'ICAI (CA)', url: 'https://www.icai.org/' },
 
   // Railways & Defence
-  { id: 'rrb', name: 'RRB (Railway)', url: 'https://www.rrbcdg.gov.in/' },
+  { id: 'rrb', name: 'RRB (Railway)', url: 'https://www.rrbcdg.gov.in/', timeoutMs: 30000 },
   { id: 'indianarmy', name: 'Indian Army', url: 'https://joinindianarmy.nic.in/' },
   { id: 'indiannavy', name: 'Indian Navy', url: 'https://www.joinindiannavy.gov.in/' },
   { id: 'airforce', name: 'Air Force', url: 'https://afcat.cdac.in/AFCAT/' },
@@ -318,7 +318,7 @@ const HTML_SITES = [
   { id: 'kvs', name: 'KVS', url: 'https://kvsangathan.nic.in/' },
   { id: 'nvs', name: 'NVS (Navodaya)', url: 'https://navodaya.gov.in/' },
   { id: 'ignou', name: 'IGNOU', url: 'https://ignou.ac.in/' },
-  { id: 'ugc', name: 'UGC NET', url: 'https://ugcnet.nta.ac.in/' },
+  { id: 'ugc', name: 'UGC NET', url: 'https://ugcnet.ntaonline.in/' },  // ugcnet.nta.ac.in retired
   { id: 'cuet', name: 'CUET', url: 'https://cuet.nta.nic.in/' },
 
   // State PSCs
@@ -329,7 +329,7 @@ const HTML_SITES = [
   { id: 'tnpsc', name: 'TNPSC', url: 'https://www.tnpsc.gov.in/' },
   { id: 'kpsc', name: 'KPSC/KEA', url: 'https://cetonline.karnataka.gov.in/kea/' },  // kpsc.kar.nic.in has malformed TLS; use KEA portal
   { id: 'appsc', name: 'APPSC', url: 'https://psc.ap.gov.in/' },
-  { id: 'tspsc', name: 'TSPSC', url: 'https://tspsc.gov.in/' },  // both websitenew. and www. fail from GH Actions (India-only DNS); bare domain resolves
+  { id: 'tspsc', name: 'TSPSC', url: 'https://www.tspsc.gov.in/' },  // India-only DNS; may ENOTFOUND from GH Actions
   { id: 'wbpsc', name: 'WBPSC', url: 'https://wbpsc.gov.in/' },
   { id: 'gpsc', name: 'GPSC', url: 'https://gpsc.gujarat.gov.in/' },
   { id: 'hpsc', name: 'HPSC', url: 'https://www.hpsc.gov.in/' },
@@ -340,8 +340,8 @@ const HTML_SITES = [
   // Teaching & Others
   { id: 'ctet', name: 'CTET', url: 'https://ctet.nic.in/' },
   { id: 'dsssb', name: 'DSSSB', url: 'https://dsssb.delhi.gov.in/' },
-  { id: 'sainik', name: 'Sainik School', url: 'https://nta.ac.in/ExamDetail?ExamCode=AISSEE' },  // aissee.nta.nic.in DNS fails from GH Actions; use NTA exam detail page
-  { id: 'cbdt', name: 'Income Tax', url: 'https://incometaxindia.gov.in/Pages/press-releases.aspx' },
+  { id: 'sainik', name: 'Sainik School', url: 'https://aissee.nta.nic.in/' },  // NTA AISSEE portal
+  { id: 'cbdt', name: 'Income Tax', url: 'https://www.incometaxindia.gov.in/' },  // /Pages/press-releases.aspx returns 403; use top-level
 
   // State Boards (results)
   { id: 'rbse', name: 'RBSE Rajasthan', url: 'https://rajeduboard.rajasthan.gov.in/' },
@@ -381,7 +381,7 @@ async function main() {
   for (let i = 0; i < HTML_SITES.length; i += 8) {
     const batch = HTML_SITES.slice(i, i + 8);
     const results = await Promise.all(
-      batch.map(site => checkHTML(site.id, site.name, site.url, tracker))
+      batch.map(site => checkHTML(site.id, site.name, site.url, tracker, site.timeoutMs))
     );
     for (const result of results) {
       allChanges.push(...result.changes); allErrors.push(...result.errors);
