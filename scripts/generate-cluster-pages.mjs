@@ -367,14 +367,15 @@ async function main() {
       const body = await generateBody(plan.exam, org, item.slug, officialUrl);
       await sleep(1500);
 
-      if (!body || body.trim().length < 800) {
-        log(`   ❌ Body too short (${body?.length || 0} chars) — skipping`);
+      const trimmedLen = body ? body.trim().length : 0;
+      if (trimmedLen < 800) {
+        log(`   ❌ Body too short (${trimmedLen} trimmed chars, ${body?.length || 0} raw) — skipping`);
         errors.push({ slug, reason: 'body too short' });
         continue;
       }
-      if (body.trim().length > 80_000) {
-        log(`   ❌ Body too large (${Math.round(body.length/1000)}K chars) — Gemini repeated itself, skipping`);
-        errors.push({ slug, reason: `body too large: ${Math.round(body.length/1000)}K chars` });
+      if (trimmedLen > 80_000) {
+        log(`   ❌ Body too large (${Math.round(trimmedLen/1000)}K trimmed chars) — Gemini repeated itself, skipping`);
+        errors.push({ slug, reason: `body too large: ${Math.round(trimmedLen/1000)}K trimmed chars` });
         continue;
       }
 
