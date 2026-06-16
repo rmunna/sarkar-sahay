@@ -1,27 +1,36 @@
 {
-  "scannedAt": "2026-06-15T17:44:11.194219",
+  "scannedAt": "2026-06-16T11:38:46.500463",
   "results": [
     {
-      "topic": "icai",
-      "category": "Realtime RSS (IN)",
+      "topic": "bundelkhand university",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": null,
+      "guide_exists": "anna-university-results-2026",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "upsc prelims 2026 result",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "up bed result",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": "upsc-cse-prelims-2026-answer-key",
+      "guide_exists": null,
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "bigg boss 20 contestants list",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "cbse 10th result 2026",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "upsc",
+      "category": "Realtime RSS (IN-AP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
@@ -29,55 +38,28 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "sbi share price",
+      "topic": "pm kisan",
+      "category": "Realtime RSS (IN-OR)",
+      "rising_value": 100,
+      "guide_exists": "gj-kisan-sahay",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "vedanta demerger stocks",
       "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
-      "guide_exists": "pm-aasha-msp-price-support-farmers",
+      "guide_exists": null,
       "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "cet result",
-      "category": "Realtime RSS (IN-MH)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "msbte result summer 2026 date",
-      "category": "Realtime RSS (IN-MH)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "icai",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "bigg boss 20 contestants list",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "cet result",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "up bed result",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -85,30 +67,48 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "msbte result summer 2026 date",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "cbse 10th result 2026",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "upsc",
+      "category": "Realtime RSS (IN-AP)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "vedanta demerger stocks",
+      "category": "Realtime RSS (IN-RJ)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "covered": [
     {
-      "topic": "upsc prelims 2026 result",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "bundelkhand university",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": "upsc-cse-prelims-2026-answer-key",
-      "is_spike": true,
+      "guide_exists": "anna-university-results-2026",
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "sbi share price",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "pm kisan",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
-      "guide_exists": "pm-aasha-msp-price-support-farmers",
+      "guide_exists": "gj-kisan-sahay",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -116,8 +116,8 @@
   ],
   "spike_candidates": [
     {
-      "topic": "cet result",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "up bed result",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -125,8 +125,8 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "msbte result summer 2026 date",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "cbse 10th result 2026",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
