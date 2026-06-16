@@ -1,62 +1,84 @@
 {
-  "scanTime": "2026-06-15T14:07:42.247Z",
-  "elapsedSeconds": 100.6,
-  "changesDetected": 7,
+  "scanTime": "2026-06-16T02:43:50.847Z",
+  "elapsedSeconds": 149,
+  "changesDetected": 10,
   "noiseDetected": 0,
   "changes": [
     {
-      "site": "SBI Careers",
+      "site": "IBPS",
       "type": "TEXT_NOTICE",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-06-15T14:06:37.293Z"
+      "url": "https://www.ibps.in/",
+      "detectedAt": "2026-06-16T02:41:55.555Z"
     },
     {
       "site": "RBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-15T14:06:35.714Z"
+      "detectedAt": "2026-06-16T02:41:55.535Z"
     },
     {
       "site": "CISF",
       "type": "TEXT_NOTICE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-15T14:06:46.793Z"
+      "detectedAt": "2026-06-16T02:42:26.249Z"
     },
     {
       "site": "BSF",
       "type": "TEXT_NOTICE",
       "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-06-15T14:06:46.480Z"
+      "detectedAt": "2026-06-16T02:42:26.371Z"
     },
     {
       "site": "KVS",
       "type": "TEXT_NOTICE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-15T14:06:49.505Z"
+      "detectedAt": "2026-06-16T02:42:29.713Z"
     },
     {
       "site": "UPPSC",
       "type": "TEXT_NOTICE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-15T14:07:00.248Z"
+      "detectedAt": "2026-06-16T02:42:49.193Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Assistant_Professor_Geology_Exam_2024_Dated_15_06_2026.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-06-16T02:42:47.099Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Obtained_Mark_List_Assistant_Professor_Geology_Exam_2024_Dated_15_06_2026.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-06-16T02:42:47.100Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Selection_List_Assistant_Professor_Geology_Exam_2024_Dated_15_06_2026.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-06-16T02:42:47.100Z"
     },
     {
       "site": "UP Board",
       "type": "TEXT_NOTICE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-15T14:07:24.028Z"
+      "detectedAt": "2026-06-16T02:43:24.565Z"
     }
   ],
   "noiseChanges": [],
   "errors": 25,
   "errorDetails": [
     {
-      "site": "SSC",
+      "site": "UPSC",
       "error": "Timeout"
     },
     {
-      "site": "UPSC",
-      "error": "Timeout"
+      "site": "SBI Careers",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "error": ""
     },
     {
       "site": "NABARD",
@@ -91,12 +113,12 @@
     {
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
-      "error": "Timeout"
+      "error": ""
     },
     {
       "site": "UGC NET",
-      "url": "https://ugcnet.nta.ac.in/",
-      "error": "HTTP 404"
+      "url": "https://ugcnet.ntaonline.in/",
+      "error": "Timeout"
     },
     {
       "site": "BPSC",
@@ -106,7 +128,7 @@
     {
       "site": "RPSC",
       "url": "https://rpsc.rajasthan.gov.in/",
-      "error": "Timeout"
+      "error": ""
     },
     {
       "site": "TNPSC",
@@ -121,12 +143,12 @@
     {
       "site": "APPSC",
       "url": "https://psc.ap.gov.in/",
-      "error": "Timeout"
+      "error": "getaddrinfo EAI_AGAIN psc.ap.gov.in"
     },
     {
       "site": "TSPSC",
-      "url": "https://tspsc.gov.in/",
-      "error": "getaddrinfo ENOTFOUND tspsc.gov.in"
+      "url": "https://www.tspsc.gov.in/",
+      "error": "getaddrinfo ENOTFOUND www.tspsc.gov.in"
     },
     {
       "site": "WBPSC",
@@ -136,7 +158,7 @@
     {
       "site": "GPSC",
       "url": "https://gpsc.gujarat.gov.in/",
-      "error": "Timeout"
+      "error": ""
     },
     {
       "site": "HPSC",
@@ -155,12 +177,12 @@
     },
     {
       "site": "Sainik School",
-      "url": "https://nta.ac.in/ExamDetail?ExamCode=AISSEE",
-      "error": "HTTP 404"
+      "url": "https://aissee.nta.nic.in/",
+      "error": "getaddrinfo ENOTFOUND aissee.nta.nic.in"
     },
     {
       "site": "Income Tax",
-      "url": "https://incometaxindia.gov.in/Pages/press-releases.aspx",
+      "url": "https://www.incometaxindia.gov.in/",
       "error": "HTTP 403"
     },
     {
@@ -171,7 +193,7 @@
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     }
   ]
 }
