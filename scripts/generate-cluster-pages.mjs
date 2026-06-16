@@ -367,9 +367,14 @@ async function main() {
       const body = await generateBody(plan.exam, org, item.slug, officialUrl);
       await sleep(1500);
 
-      if (!body || body.trim().length < 500) {
+      if (!body || body.trim().length < 800) {
         log(`   ❌ Body too short (${body?.length || 0} chars) — skipping`);
         errors.push({ slug, reason: 'body too short' });
+        continue;
+      }
+      if (body.trim().length > 80_000) {
+        log(`   ❌ Body too large (${Math.round(body.length/1000)}K chars) — Gemini repeated itself, skipping`);
+        errors.push({ slug, reason: `body too large: ${Math.round(body.length/1000)}K chars` });
         continue;
       }
 
@@ -386,7 +391,7 @@ async function main() {
       };
 
       const outPath = writePage(slug, fm, body);
-      log(`   ✅ Written: ${path.relative(ROOT, outPath)} (${body.trim().length} chars)`);
+      log(`   ✅ ${DRY_RUN ? 'Would write' : 'Written'}: ${path.relative(ROOT, outPath)} (${body.trim().length} chars)`);
 
       generated.push({ slug, title: meta.title, url: `${SITE_URL}/update/${slug}` });
       newSlugs.push(slug);
