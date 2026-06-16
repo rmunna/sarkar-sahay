@@ -1,71 +1,72 @@
 {
-  "scanTime": "2026-06-16T02:43:50.847Z",
-  "elapsedSeconds": 149,
+  "scanTime": "2026-06-16T11:26:37.012Z",
+  "elapsedSeconds": 132,
   "changesDetected": 10,
   "noiseDetected": 0,
   "changes": [
     {
-      "site": "IBPS",
-      "type": "TEXT_NOTICE",
-      "url": "https://www.ibps.in/",
-      "detectedAt": "2026-06-16T02:41:55.555Z"
+      "site": "NTA",
+      "type": "NEW_NOTICE",
+      "headline": "NTA STATEMENT REGARDING THE ACTION ON TELEGRAM  PLATFORM IN INDIA&nbsp;",
+      "date": "2026-06-16",
+      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260616120254.pdf",
+      "url": "https://nta.ac.in"
     },
     {
       "site": "RBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-16T02:41:55.535Z"
+      "detectedAt": "2026-06-16T11:24:58.157Z"
+    },
+    {
+      "site": "RRB (Railway)",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://www.rrbcdg.gov.in/uploads/2024/08-LVL1/082024LVL1-CCAA_ModificationWindow-Hi.pdf",
+      "url": "https://www.rrbcdg.gov.in/",
+      "detectedAt": "2026-06-16T11:25:00.179Z"
+    },
+    {
+      "site": "RRB (Railway)",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://www.rrbcdg.gov.in/uploads/2024/08-LVL1/082024LVL1-CCAA_ModificationWindow.pdf",
+      "url": "https://www.rrbcdg.gov.in/",
+      "detectedAt": "2026-06-16T11:25:00.179Z"
     },
     {
       "site": "CISF",
       "type": "TEXT_NOTICE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-16T02:42:26.249Z"
-    },
-    {
-      "site": "BSF",
-      "type": "TEXT_NOTICE",
-      "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-06-16T02:42:26.371Z"
+      "detectedAt": "2026-06-16T11:25:17.421Z"
     },
     {
       "site": "KVS",
       "type": "TEXT_NOTICE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-16T02:42:29.713Z"
+      "detectedAt": "2026-06-16T11:25:20.579Z"
+    },
+    {
+      "site": "IGNOU",
+      "type": "TEXT_NOTICE",
+      "url": "https://ignou.ac.in/",
+      "detectedAt": "2026-06-16T11:25:35.663Z"
     },
     {
       "site": "UPPSC",
       "type": "TEXT_NOTICE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-16T02:42:49.193Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Assistant_Professor_Geology_Exam_2024_Dated_15_06_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-16T02:42:47.099Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Obtained_Mark_List_Assistant_Professor_Geology_Exam_2024_Dated_15_06_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-16T02:42:47.100Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Selection_List_Assistant_Professor_Geology_Exam_2024_Dated_15_06_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-16T02:42:47.100Z"
+      "detectedAt": "2026-06-16T11:25:35.402Z"
     },
     {
       "site": "UP Board",
       "type": "TEXT_NOTICE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-16T02:43:24.565Z"
+      "detectedAt": "2026-06-16T11:26:10.434Z"
+    },
+    {
+      "site": "MP Board",
+      "type": "TEXT_NOTICE",
+      "url": "https://mpbse.nic.in/",
+      "detectedAt": "2026-06-16T11:26:25.754Z"
     }
   ],
   "noiseChanges": [],
@@ -86,11 +87,6 @@
       "error": "Timeout"
     },
     {
-      "site": "RRB (Railway)",
-      "url": "https://www.rrbcdg.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "Indian Army",
       "url": "https://joinindianarmy.nic.in/",
       "error": "Timeout"
@@ -104,6 +100,11 @@
       "site": "Air Force",
       "url": "https://afcat.cdac.in/AFCAT/",
       "error": "Timeout"
+    },
+    {
+      "site": "BSF",
+      "url": "https://rectt.bsf.gov.in/",
+      "error": "HTTP 403"
     },
     {
       "site": "ITBP",
