@@ -1,26 +1,31 @@
 ---
-title: "Abua Swasth Suraksha Yojana Jharkhand: How to Apply"
-description: "Guide to Jharkhand Abua Swasth Suraksha Yojana — free health cover up to ₹5 lakh per family. Eligibility, hospital list, and apply process."
+title: "Abua Swasth Suraksha Yojana Jharkhand 2026 — ₹15 Lakh Free Health Cover, Download Abua Swasthya Card"
+description: "Jharkhand Abua Swasth Suraksha Yojana provides free healthcare up to ₹15 lakh per family at empanelled hospitals. Download the Abua Swasthya Card at bis.jharkhand.gov.in. Check eligibility, documents, and how to apply."
 category: "State Schemes"
 keywords:
-  - abua swasth suraksha jharkhand
-  - jharkhand health insurance scheme
+  - abua swasth suraksha jharkhand 2026
+  - abua swasthya card jharkhand
+  - jharkhand health insurance 15 lakh 2026
   - abua swasth suraksha yojana
   - jharkhand free treatment scheme
+  - abua swasthya card download bis.jharkhand.gov.in
+  - jharkhand health card apply online
   - abua swasth suraksha eligibility
-  - jharkhand health card
-  - jharkhand ayushman bharat
-  - free health insurance jharkhand
-lastUpdated: "2026-03-04"
+  - mukhyamantri abua swasthya suraksha yojana
+  - free health insurance jharkhand 2026
+lastUpdated: "2026-06-17"
 readingTime: "7 min"
 officialLinks:
+  - "https://bis.jharkhand.gov.in"
   - "https://arogya.jharkhand.gov.in/"
   - "https://www.jharkhand.gov.in/"
 ---
 
-# Abua Swasth Suraksha Yojana Jharkhand: Free Health Insurance up to ₹5 Lakh
+# Abua Swasth Suraksha Yojana Jharkhand 2026 — ₹15 Lakh Free Health Cover
 
-Abua Swasth Suraksha Yojana (ASSY) is a health insurance scheme by the Jharkhand government that provides **free medical treatment up to ₹5 lakh per family per year** at empanelled hospitals. The scheme extends health coverage to families not covered under Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (AB-PMJAY), ensuring universal health coverage for all residents of Jharkhand.
+Mukhyamantri Abua Swasth Suraksha Yojana (MASSY) is a health insurance scheme by the Jharkhand government that provides **free medical treatment up to ₹15 lakh per family per year** at empanelled hospitals. The scheme extends health coverage to families not covered under Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (AB-PMJAY), ensuring universal health coverage for all residents of Jharkhand.
+
+**Quick answer:** Eligible Jharkhand residents get free treatment up to ₹15 lakh/year. Download your **Abua Swasthya Card** at [bis.jharkhand.gov.in](https://bis.jharkhand.gov.in) or apply at any Common Service Centre (CSC) with Aadhaar + ration card.
 
 ## What is Abua Swasth Suraksha Yojana?
 
@@ -30,11 +35,12 @@ Abua Swasth Suraksha Yojana (ASSY) is a health insurance scheme by the Jharkhand
 
 | Feature | Details |
 |---------|---------|
-| Coverage | Up to ₹5,00,000 per family per year |
+| Coverage | Up to **₹15,00,000** per family per year |
 | Premium | Free (paid by state government) |
 | Treatment | Cashless at empanelled hospitals |
 | Coverage Type | Hospitalisation, surgeries, pre/post-hospitalisation |
 | Family Definition | All members listed in the ration card |
+| Card download | [bis.jharkhand.gov.in](https://bis.jharkhand.gov.in) |
 
 ## Who is Eligible?
 
@@ -55,14 +61,20 @@ Abua Swasth Suraksha Yojana (ASSY) is a health insurance scheme by the Jharkhand
 
 ## Step-by-Step Process
 
-### How to Get the Health Card
+### How to Get the Abua Swasthya Card
 
+**Option 1: Download online yourself**
+1. Go to **[bis.jharkhand.gov.in](https://bis.jharkhand.gov.in)**
+2. Click on **"Abua Swasthya Card"** or card download section
+3. Enter your Aadhaar number and mobile OTP
+4. If eligible, your card is displayed — download as PDF
+
+**Option 2: Through CSC / Jan Seva Kendra**
 1. Visit the nearest **Common Service Centre (CSC)** or **Jan Seva Kendra**
 2. Provide your **Aadhaar card and ration card**
 3. Complete **biometric verification** (fingerprint/iris scan)
 4. The operator checks your eligibility on the **ASSY portal**
-5. If eligible, your **Abua Swasth Suraksha card** is generated
-6. Download the e-card or collect the physical card
+5. If eligible, your **Abua Swasthya Card** is generated and printed
 
 ### How to Avail Treatment
 
@@ -120,10 +132,10 @@ The scheme is primarily for **empanelled hospitals in Jharkhand**. Some empanell
 No, only **inpatient (hospitalisation)** treatment is covered. OPD consultations and medicines are not included.
 
 ### Q4: How many times can I use the card in a year?
-You can use it multiple times as long as the **total treatment cost does not exceed ₹5 lakh** per family per year.
+You can use it multiple times as long as the **total treatment cost does not exceed ₹15 lakh** per family per year.
 
-### Q5: What if my treatment costs more than ₹5 lakh?
-Treatment up to ₹5 lakh is cashless. Any amount beyond that must be borne by the patient.
+### Q5: What if my treatment costs more than ₹15 lakh?
+Treatment up to ₹15 lakh is cashless. Any amount beyond that must be borne by the patient.
 
 ### Q6: Can I choose any hospital?
 You can choose any hospital from the **empanelled list**. Non-empanelled hospitals are not covered.
