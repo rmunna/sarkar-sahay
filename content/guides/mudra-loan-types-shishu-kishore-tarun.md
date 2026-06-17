@@ -1,20 +1,20 @@
 ---
-title: "Mudra Loan Types: Shishu, Kishore, Tarun — Limits, Interest Rates, Eligibility"
-description: >-
-  Compare Mudra loan types — Shishu, Kishore, and Tarun. Know loan limits, interest rates, eligibility, and which PMMY category suits your business needs.
+title: "Mudra Loan Types 2026 — Shishu, Kishore, Tarun, Tarun Plus (New ₹20 Lakh Limit)"
+description: "MUDRA loan now has 4 categories: Shishu (up to ₹50K), Kishore (₹50K–₹5L), Tarun (₹5L–₹10L), and new Tarun Plus (₹10L–₹20L). Compare limits, eligibility, and which PMMY category suits your business."
 category: Tax & Finance
-lastUpdated: "2026-03-05"
+lastUpdated: "2026-06-17"
 keywords:
-  - mudra loan types
+  - mudra loan types 2026
+  - tarun plus mudra loan 20 lakh
   - shishu loan
   - kishore loan
   - tarun loan
   - mudra loan categories
   - pmmy loan types
-  - shishu kishore tarun
-  - mudra loan limit
+  - shishu kishore tarun tarun plus
+  - mudra loan limit 20 lakh 2026
   - mudra loan interest rate
-  - mudra yojana categories
+  - mudra yojana categories 2026
 readingTime: 9 min
 officialLinks:
   - 'https://www.mudra.org.in/'
@@ -22,27 +22,29 @@ officialLinks:
   - 'https://www.jansamarth.in/'
 ---
 
-# Mudra Loan Types: Shishu, Kishore, Tarun — Limits, Interest Rates, Eligibility
+# Mudra Loan Types 2026 — Shishu, Kishore, Tarun, and New Tarun Plus (Up to ₹20 Lakh)
 
-Under the **Pradhan Mantri Mudra Yojana (PMMY)**, loans are categorised into three types based on the stage and funding needs of your business: **Shishu**, **Kishore**, and **Tarun**. Each category has different loan limits, eligibility criteria, and documentation requirements.
+Under the **Pradhan Mantri Mudra Yojana (PMMY)**, loans are categorised into **four types** based on the stage and funding needs of your business: **Shishu**, **Kishore**, **Tarun**, and the new **Tarun Plus** (maximum ₹20 lakh, added in Budget 2026). Each category has different loan limits, eligibility criteria, and documentation requirements.
 
-This guide compares all three types so you can choose the right one before [applying for a Mudra loan](/guide/mudra-loan-apply-online).
+> **2026 Update:** The government introduced the **Tarun Plus** category, doubling the maximum Mudra loan from ₹10 lakh to ₹20 lakh for established businesses.
+
+This guide compares all four types so you can choose the right one before [applying for a Mudra loan](/guide/mudra-loan-apply-online).
 
 ---
 
-## Quick Comparison: Shishu vs Kishore vs Tarun
+## Quick Comparison: All 4 Mudra Loan Types
 
-| Feature | Shishu | Kishore | Tarun |
-|---------|--------|---------|-------|
-| **Loan Amount** | Up to ₹50,000 | ₹50,001 to ₹5,00,000 | ₹5,00,001 to ₹10,00,000 |
-| **Target** | New/early-stage businesses | Growing businesses | Established businesses needing expansion |
-| **Interest Rate** | 10%–12% p.a. | 11%–14% p.a. | 12%–16% p.a. |
-| **Processing Fee** | Nil | 0.5%–1% | 0.5%–1% |
-| **Collateral** | Not required | Not required | Not required |
-| **Business Plan** | Not required | Required | Required (detailed) |
-| **CIBIL Score** | Flexible | 650+ preferred | 650+ preferred |
-| **Repayment Period** | Up to 5 years | Up to 5 years | Up to 7 years |
-| **Processing Time** | 5–7 days | 10–15 days | 15–21 days |
+| Feature | Shishu | Kishore | Tarun | **Tarun Plus (New)** |
+|---------|--------|---------|-------|---------------------|
+| **Loan Amount** | Up to ₹50,000 | ₹50,001 to ₹5,00,000 | ₹5,00,001 to ₹10,00,000 | **₹10,00,001 to ₹20,00,000** |
+| **Target** | New/early-stage businesses | Growing businesses | Established businesses needing expansion | **Highly established businesses scaling up** |
+| **Interest Rate** | 10%–12% p.a. | 11%–14% p.a. | 12%–16% p.a. | 13%–16% p.a. |
+| **Processing Fee** | Nil | 0.5%–1% | 0.5%–1% | 0.5%–1% |
+| **Collateral** | Not required | Not required | Not required | Not required |
+| **Business Plan** | Not required | Required | Required (detailed) | Required (comprehensive) |
+| **CIBIL Score** | Flexible | 650+ preferred | 650+ preferred | **700+ preferred** |
+| **Repayment Period** | Up to 5 years | Up to 5 years | Up to 7 years | Up to 7 years |
+| **Processing Time** | 5–7 days | 10–15 days | 15–21 days | 21–30 days |
 
 ---
 
@@ -163,6 +165,40 @@ Tarun requires the most comprehensive documentation:
 
 ---
 
+## Tarun Plus Loan (₹10,00,001 to ₹20,00,000) — New in 2026
+
+> **New category introduced in Budget 2026.** The Tarun Plus category doubles the MUDRA ceiling to ₹20 lakh for established businesses that have outgrown the old Tarun limit.
+
+### Who Should Apply for Tarun Plus?
+
+- Business with a strong operating track record (3+ years preferred)
+- Annual turnover well-established (typically ₹50 lakh or above)
+- Strong CIBIL/credit score (700+ preferred)
+- Need substantial capital for factory expansion, second unit, heavy machinery, or large working capital
+
+### Key Features
+
+- **No collateral** required (same as all PMMY categories)
+- **Comprehensive business plan** with 3-year projections required
+- CIBIL score of 700+ preferred — strong credit history is essential
+- Last 3 years ITR + audited financials typically required
+- Bank may ask for Udyam Registration (MSME certificate)
+- Processing fee 0.5%–1%
+- Repayment period up to 7 years
+
+### Documents Needed for Tarun Plus
+
+- All basic documents (Aadhaar, PAN, photos)
+- **Udyam Registration certificate** (strongly recommended)
+- Detailed business plan with 3-year financial projections
+- Last 3 years ITR
+- Audited Profit & Loss and Balance Sheet (CA-certified)
+- Bank statements (12–24 months)
+- Business registration (GST, Shop Act, FSSAI if applicable)
+- Asset quotations / investment plan
+
+---
+
 ## How to Choose the Right Mudra Loan Type
 
 ### Choose Shishu If:
@@ -185,6 +221,13 @@ Tarun requires the most comprehensive documentation:
 - ✅ You have comprehensive documentation
 - ✅ Your CIBIL score is 700+
 - ✅ You have filed ITR and can show financials
+
+### Choose Tarun Plus If (New 2026 Category):
+- ✅ Your business is well-established with years of track record
+- ✅ You need ₹10 lakh to ₹20 lakh
+- ✅ You have full audited financials (ITR + CA certificate)
+- ✅ Your CIBIL score is 700+
+- ✅ You have Udyam Registration (MSME certificate)
 
 ---
 
@@ -210,6 +253,7 @@ Interest rates are set by individual banks, not by the government. Here are typi
 | Shishu | 10%–12% p.a. | EMI ≈ ₹3,227–₹3,321 |
 | Kishore | 11%–14% p.a. | EMI ≈ ₹3,274–₹3,418 |
 | Tarun | 12%–16% p.a. | EMI ≈ ₹3,321–₹3,516 |
+| **Tarun Plus (new)** | 13%–16% p.a. | EMI ≈ ₹3,369–₹3,516 |
 
 💰 Calculate your exact EMI using our [Mudra Loan Interest Rate and EMI Guide](/guide/mudra-loan-interest-rate-emi).
 
@@ -217,9 +261,9 @@ Interest rates are set by individual banks, not by the government. Here are typi
 
 ## Frequently Asked Questions
 
-### What is the difference between Shishu, Kishore, and Tarun loans?
+### What is the difference between Shishu, Kishore, Tarun, and Tarun Plus?
 
-The difference is the loan amount and target business stage. Shishu covers up to ₹50,000 for new businesses, Kishore covers ₹50,001–₹5 lakh for growing businesses, and Tarun covers ₹5–₹10 lakh for established businesses.
+All four are PMMY categories with increasing loan amounts: Shishu (up to ₹50,000 for new businesses), Kishore (₹50,001–₹5 lakh for growing businesses), Tarun (₹5–₹10 lakh for established businesses), and Tarun Plus (₹10–₹20 lakh — new in 2026 for scaling businesses).
 
 ### Can I directly apply for a Tarun loan without taking Shishu first?
 
