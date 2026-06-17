@@ -1,16 +1,18 @@
 ---
-title: "PM Kisan Samman Nidhi 2026 — ₹6,000/Year, 19th Installment Date, Apply & eKYC at pmkisan.gov.in"
-description: "PM Kisan 2026: Get ₹6,000/year (₹2,000×3 installments) in your bank account. Check 19th installment date, how to register online, complete eKYC, and track beneficiary status at pmkisan.gov.in."
+title: "PM Kisan Samman Nidhi 2026 — ₹6,000/Year, 23rd Installment Date, Apply & eKYC at pmkisan.gov.in"
+description: "PM Kisan 2026: ₹6,000/year (₹2,000×3) to farmers — 23rd installment expected June-July 2026. How to register, complete eKYC, and check beneficiary status at pmkisan.gov.in."
 category: "Government Schemes"
 keywords:
   - PM Kisan 2026
-  - PM Kisan 19th installment
+  - PM Kisan 23rd installment
+  - PM Kisan 23rd installment date 2026
   - PM Kisan Samman Nidhi
   - PM Kisan registration
   - PM Kisan status check
   - PM Kisan beneficiary list
   - PM Kisan eKYC
   - pmkisan.gov.in
+  - PM Kisan next installment date 2026
 readingTime: "5 min"
 officialLinks:
   - "https://pmkisan.gov.in"
@@ -43,7 +45,7 @@ The scheme is funded entirely by the Central Government. As of 2024, over **11 c
 
 ### Installment History
 
-Each installment is counted from the first payment of the scheme. As of 2024, the government has released **17+ installments** since the scheme started. You can check how many installments you've received on the portal.
+Each installment is counted from the first payment of the scheme. As of June 2026, the government has released **22 installments** since the scheme started. The **23rd installment is expected in June-July 2026**. You can check how many installments you've received on the portal at [pmkisan.gov.in](https://pmkisan.gov.in).
 
 ## Who is Eligible?
 
