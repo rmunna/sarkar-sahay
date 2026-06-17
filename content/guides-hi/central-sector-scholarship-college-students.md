@@ -1,5 +1,5 @@
 ---
-title: "सेंट्रल सेक्टर स्कॉलरशिप 2026 — ₹20,000/वर्ष कॉलेज स्टूडेंट्स NSP पर आवेदन करें"
+title: "Central Sector Scholarship Apply Online 2026 — Step-by-Step NSP गाइड, ₹20,000/वर्ष"
 description: "Central Sector Scholarship Scheme (CSSS) में 12वीं में 80वें पर्सेंटाइल के ऊपर अंक पाने वाले छात्र-छात्राओं को ₹20,000/वर्ष की स्कॉलरशिप मिलती है। scholarships.gov.in पर 31 दिसंबर 2026 तक आवेदन करें।"
 category: "Central Schemes"
 keywords:
