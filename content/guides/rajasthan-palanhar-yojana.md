@@ -1,8 +1,18 @@
 ---
-title: "Rajasthan Palanhar Yojana — Orphan Care Scheme Benefits & How to Apply"
-description: "Complete guide to Rajasthan Palanhar Yojana for orphan children. Eligibility, documents, monthly allowance details, and application process."
+title: "Rajasthan Palanhar Yojana 2026 — ₹1,500/Month for Orphan Children, Apply & Status"
+description: "Palanhar Yojana Rajasthan: ₹750/month (age 0-6) and ₹1,500/month (age 6-18) for orphan & destitute children. Apply via SSO portal or eMitra, check status at jansoochna.rajasthan.gov.in."
 category: "State Schemes"
-keywords: ["palanhar yojana", "rajasthan orphan scheme", "palanhar yojana apply", "rajasthan child welfare scheme", "palanhar yojana eligibility"]
+keywords:
+  - "palanhar yojana rajasthan"
+  - "palanhar yojana apply online"
+  - "palanhar yojana 2026"
+  - "palanhar yojana status check"
+  - "palanhar yojana eligibility"
+  - "palanhar yojana amount 2026"
+  - "palanhar yojana documents required"
+  - "rajasthan palanhar scheme apply"
+  - "sje rajasthan palanhar"
+  - "palanhar yojana registration"
 readingTime: "8 min"
 lastUpdated: "2025-02-17"
 officialLinks:
@@ -10,6 +20,10 @@ officialLinks:
   - https://sso.rajasthan.gov.in
   - https://jansoochna.rajasthan.gov.in
 ---
+
+# Rajasthan Palanhar Yojana 2026 — ₹1,500/Month for Orphan & Destitute Children
+
+**Quick answer:** Palanhar Yojana gives ₹750/month (age 0–6) and ₹1,500/month (age 6–18) plus ₹2,000/year clothing allowance to guardians raising orphan and destitute children in Rajasthan. Apply via [sso.rajasthan.gov.in](https://sso.rajasthan.gov.in) or the nearest eMitra centre. Check status at [jansoochna.rajasthan.gov.in](https://jansoochna.rajasthan.gov.in).
 
 ## What is Palanhar Yojana?
 

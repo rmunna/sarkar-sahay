@@ -1,8 +1,8 @@
 ---
-title: "eDistrict UP Certificate Apply Online — Income, Caste, Domicile"
-description: "eDistrict UP is the official edistrict.up.gov.in portal for income, caste, domicile and other certificates in Uttar Pradesh. Apply, track and verify certificates online."
+title: "UP eDistrict Portal 2026 — Apply, Track Status & Download Certificate"
+description: "Step-by-step guide to edistrict.up.gov.in: apply for UP income, caste, domicile or birth certificate, check application status, and download the digitally signed copy — works for all 75 UP districts."
 category: "Certificates"
-keywords: ["up edistrict", "up income certificate online", "up caste certificate", "up domicile certificate", "edistrict up gov in", "uttar pradesh certificate online"]
+keywords: ["edistrict up", "up edistrict portal", "edistrict up gov in", "up income certificate online", "up caste certificate online", "up domicile certificate", "up certificate status check", "uttar pradesh certificate apply", "edistrict up login", "up certificate download"]
 readingTime: "8 min"
 officialLinks:
   - https://edistrict.up.gov.in

@@ -1,6 +1,6 @@
 ---
-title: "SDA FDA Recruitment 2026 Karnataka — Full Form, Exam Date, Salary"
-description: "SDA full form is Second Division Assistant and FDA full form is First Division Assistant. Check Karnataka FDA/SDA recruitment status, exam date, salary, eligibility and official KPSC/KEA links."
+title: "KPSC SDA FDA 2026 — Result Out, Full Form, Salary & Next Recruitment"
+description: "KPSC SDA FDA 2026: exam done, result at cetonline.karnataka.gov.in. SDA = Second Division Assistant (PUC pass, ₹21,400 start), FDA = First Division Assistant (Degree, ₹27,650 start). Next recruitment guide inside."
 category: "Jobs & Exams"
 keywords:
   - sda full form

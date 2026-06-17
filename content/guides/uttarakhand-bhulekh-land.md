@@ -1,14 +1,18 @@
 ---
-title: "Uttarakhand Bhulekh: Check Land Record Online"
-description: "Check Uttarakhand land records on Bhulekh UK portal. View khasra, khatauni, RoR, and land conversion details by district online."
+title: "Uttarakhand Bhulekh 2026 — Check Khasra Khatauni & Download RoR Online"
+description: "Check Uttarakhand land records at bhulekh.uk.gov.in. Search by owner name, khasra or khatauni number and download RoR for Dehradun, Haridwar, Nainital and all 13 districts — step-by-step guide."
 category: "Property & Legal"
-keywords: ["uttarakhand bhulekh", "bhulekh uk gov in", "uttarakhand land record", "uttarakhand khasra khatauni", "uk land record online", "uttarakhand RoR", "devbhoomi land record"]
+keywords: ["uttarakhand bhulekh", "bhulekh uk gov in", "uttarakhand khasra khatauni online", "uttarakhand land record check", "devbhoomi land record", "uttarakhand RoR download", "bhulekh uk 2026", "uttarakhand khatauni nakal", "dehradun land record", "haridwar bhulekh"]
 readingTime: "8 min"
 lastUpdated: "2026-03-06"
 officialLinks:
   - https://bhulekh.uk.gov.in
   - https://revenue.uk.gov.in
 ---
+
+# Uttarakhand Bhulekh 2026 — Check Khasra Khatauni & Download RoR Online
+
+**Quick answer:** Go to [bhulekh.uk.gov.in](https://bhulekh.uk.gov.in) → select Public RoR → choose district, tehsil, village → search by khasra number, khatauni number, or owner name → view and download your land record. No registration required.
 
 ## What is Uttarakhand Bhulekh?
 

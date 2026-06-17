@@ -1,8 +1,18 @@
 ---
-title: "HP Sahara Yojana — How to Apply, Eligibility & Benefits"
-description: "Get ₹3,000 per month under HP Sahara Yojana for serious diseases like cancer, paralysis, thalassemia. Eligibility and application guide."
+title: "HP Sahara Yojana 2026 — ₹3,000/Month for Cancer & Chronic Illness Patients"
+description: "Himachal Pradesh Sahara Yojana: ₹3,000/month for patients with cancer, paralysis, thalassemia, hemophilia, TB, HIV/AIDS or leprosy. Apply at hphealthcare.nic.in — eligibility, documents & step-by-step guide."
 category: "State Schemes"
-keywords: ["HP Sahara Yojana", "Himachal Pradesh Sahara scheme", "Mukhyamantri Sahara Yojana", "HP health assistance", "Sahara Yojana application"]
+keywords:
+  - "hp sahara yojana"
+  - "sahara yojana himachal pradesh"
+  - "mukhyamantri sahara yojana"
+  - "hp sahara yojana apply online"
+  - "hp sahara yojana eligibility"
+  - "hp sahara yojana 3000 monthly"
+  - "sahara yojana cancer patient hp"
+  - "hphealthcare nic in"
+  - "hp sahara yojana documents required"
+  - "himachal sahara scheme 2026"
 readingTime: "7 min"
 lastUpdated: "2026-02-18"
 officialLinks:
