@@ -1,6 +1,6 @@
 ---
-title: "Banglar Yuva Sathi 2026 — ₹1,500/Month, How to Apply"
-description: "Banglar Yuva Sathi Scheme 2026 — get ₹1,500 monthly if you're 21-40 & unemployed in West Bengal. Check eligibility, documents & apply now. Quick guide."
+title: "Banglar Yuva Sathi Scheme 2026 — ₹1,500/Month Unemployed Youth, Status Check"
+description: "Banglar Yuva Sathi: ₹1,500/month for 5 years to unemployed WB youth aged 21–40 who passed Class 10. Apply at yubasathi.wb.gov.in — check application status, eligibility & documents required."
 category: State Schemes
 keywords:
   - banglar yuva sathi scheme

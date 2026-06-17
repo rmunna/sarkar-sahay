@@ -1,7 +1,6 @@
 ---
-title: "Annapurna Bhandar Scheme West Bengal — ₹3,000/Month Women's Allowance"
-description: >-
-  West Bengal Annapurna Bhandar Scheme provides ₹3,000/month directly to women's bank accounts. Launched by BJP government replacing Lakshmir Bhandar. Check eligibility, documents required, and how to apply in 2026.
+title: "Annapurna Bhandar Scheme 2026 — ₹3,000/Month WB Women, Apply & Status Check"
+description: "West Bengal Annapurna Bhandar Yojana: ₹3,000/month for women aged 25–60 via DBT. Applications open from May 27, 2026. Check eligibility, required documents, how to apply online or at Duare Sarkar camps, and track payment status."
 category: State Schemes
 keywords:
   - Annapurna Bhandar scheme West Bengal

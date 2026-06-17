@@ -1,130 +1,162 @@
 {
-  "scanTime": "2026-06-16T21:13:59.217Z",
-  "elapsedSeconds": 138.9,
-  "changesDetected": 7,
+  "scanTime": "2026-06-17T01:36:57.261Z",
+  "elapsedSeconds": 154.6,
+  "changesDetected": 11,
   "noiseDetected": 0,
   "changes": [
     {
-      "site": "RBI Careers",
+      "site": "SBI Careers",
       "type": "TEXT_NOTICE",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-06-17T01:34:58.721Z"
+    },
+    {
+      "site": "RBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://opportunities.rbi.org.in/Scripts/Vacancies.aspx",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-16T21:12:17.388Z"
+      "detectedAt": "2026-06-17T01:34:55.440Z"
+    },
+    {
+      "site": "RBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://opportunities.rbi.org.in/Scripts/apply.aspx",
+      "url": "https://opportunities.rbi.org.in/",
+      "detectedAt": "2026-06-17T01:34:55.440Z"
+    },
+    {
+      "site": "RBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://opportunities.rbi.org.in/Scripts/download.aspx",
+      "url": "https://opportunities.rbi.org.in/",
+      "detectedAt": "2026-06-17T01:34:55.440Z"
+    },
+    {
+      "site": "RBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://opportunities.rbi.org.in/apply.html",
+      "url": "https://opportunities.rbi.org.in/",
+      "detectedAt": "2026-06-17T01:34:55.440Z"
+    },
+    {
+      "site": "RBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://opportunities.rbi.org.in/download.html",
+      "url": "https://opportunities.rbi.org.in/",
+      "detectedAt": "2026-06-17T01:34:55.440Z"
     },
     {
       "site": "CISF",
       "type": "TEXT_NOTICE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-16T21:12:35.308Z"
+      "detectedAt": "2026-06-17T01:35:16.081Z"
+    },
+    {
+      "site": "BSF",
+      "type": "TEXT_NOTICE",
+      "url": "https://rectt.bsf.gov.in/",
+      "detectedAt": "2026-06-17T01:35:15.843Z"
     },
     {
       "site": "KVS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026061614.pdf",
+      "type": "TEXT_NOTICE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-16T21:12:39.127Z"
-    },
-    {
-      "site": "KVS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026061631.pdf",
-      "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-16T21:12:39.127Z"
+      "detectedAt": "2026-06-17T01:35:18.473Z"
     },
     {
       "site": "UPPSC",
       "type": "TEXT_NOTICE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-16T21:12:53.782Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "LINK_CHANGE",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-16T21:12:53.322Z"
+      "detectedAt": "2026-06-17T01:35:38.256Z"
     },
     {
       "site": "UP Board",
       "type": "TEXT_NOTICE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-16T21:13:28.571Z"
+      "detectedAt": "2026-06-17T01:36:19.861Z"
     }
   ],
   "noiseChanges": [],
-  "errors": 25,
+  "errors": 27,
   "errorDetails": [
     {
       "site": "UPSC",
-      "error": "Timeout"
-    },
-    {
-      "site": "SBI Careers",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "error": ""
+      "error": "read ECONNRESET"
     },
     {
       "site": "NABARD",
       "url": "https://www.nabard.org/career-notices.aspx",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
+    },
+    {
+      "site": "RRB (Railway)",
+      "url": "https://www.rrbcdg.gov.in/",
+      "error": "read ECONNRESET"
     },
     {
       "site": "Indian Army",
       "url": "https://joinindianarmy.nic.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     },
     {
       "site": "Indian Navy",
       "url": "https://www.joinindiannavy.gov.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     },
     {
       "site": "Air Force",
       "url": "https://afcat.cdac.in/AFCAT/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     },
     {
-      "site": "BSF",
-      "url": "https://rectt.bsf.gov.in/",
-      "error": "HTTP 403"
+      "site": "CRPF",
+      "url": "https://crpf.gov.in/",
+      "error": "read ECONNRESET"
     },
     {
       "site": "ITBP",
       "url": "https://recruitment.itbpolice.nic.in/",
+      "error": "read ECONNRESET"
+    },
+    {
+      "site": "CBSE",
+      "url": "https://www.cbse.gov.in/",
       "error": "Timeout"
     },
     {
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
-      "error": ""
+      "error": "read ECONNRESET"
     },
     {
       "site": "UGC NET",
       "url": "https://ugcnet.ntaonline.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     },
     {
       "site": "BPSC",
       "url": "https://www.bpsc.bih.nic.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     },
     {
       "site": "RPSC",
       "url": "https://rpsc.rajasthan.gov.in/",
-      "error": ""
+      "error": "read ECONNRESET"
     },
     {
       "site": "TNPSC",
       "url": "https://www.tnpsc.gov.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     },
     {
       "site": "KPSC/KEA",
       "url": "https://cetonline.karnataka.gov.in/kea/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     },
     {
       "site": "APPSC",
       "url": "https://psc.ap.gov.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     },
     {
       "site": "TSPSC",
@@ -134,27 +166,27 @@
     {
       "site": "WBPSC",
       "url": "https://wbpsc.gov.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     },
     {
       "site": "GPSC",
       "url": "https://gpsc.gujarat.gov.in/",
-      "error": ""
+      "error": "read ECONNRESET"
     },
     {
       "site": "HPSC",
       "url": "https://www.hpsc.gov.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     },
     {
       "site": "CGPSC",
       "url": "https://psc.cg.gov.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     },
     {
       "site": "DSSSB",
       "url": "https://dsssb.delhi.gov.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     },
     {
       "site": "Sainik School",
@@ -169,11 +201,16 @@
     {
       "site": "MSBTE",
       "url": "https://www.msbte.org.in/",
-      "error": "Timeout"
+      "error": "read ECONNRESET"
     },
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
+      "error": "read ECONNRESET"
+    },
+    {
+      "site": "MP Board",
+      "url": "https://mpbse.nic.in/",
       "error": "read ECONNRESET"
     }
   ]
