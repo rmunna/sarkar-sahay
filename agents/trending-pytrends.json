@@ -1,18 +1,27 @@
 {
-  "scannedAt": "2026-06-16T11:38:46.500463",
+  "scannedAt": "2026-06-18T05:10:14.604212",
   "results": [
     {
-      "topic": "bundelkhand university",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "vedanta power share price",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": "anna-university-results-2026",
+      "guide_exists": "petrol-diesel-price-check-today",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "up bed result",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "nta net admit card 2026",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": "jee-main-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "icai result",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -20,8 +29,8 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "cbse 10th result 2026",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "cuet ug result 2026",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -29,28 +38,64 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "upsc",
+      "topic": "telegram banned neet",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "whatsapp-banned-account-fix",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ujjwala yojana",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": "up-free-laptop-yojana-students",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "icai results",
+      "category": "Realtime RSS (IN-KA)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ca final result may 2026",
+      "category": "Realtime RSS (IN-TN)",
+      "rising_value": 100,
+      "guide_exists": "sgb-2018-19-series-i-final-redemption-price-2026",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "eamcet results 2026 ap",
       "category": "Realtime RSS (IN-AP)",
       "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
+      "guide_exists": "ts-eamcet-2026-exam-guide",
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "pm kisan",
-      "category": "Realtime RSS (IN-OR)",
+      "topic": "ap inter supplementary results 2026",
+      "category": "Realtime RSS (IN-TG)",
+      "rising_value": 100,
+      "guide_exists": "inter-caste-marriage-benefits",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "pm kisan kyc",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": "gj-kisan-sahay",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "vedanta demerger stocks",
-      "category": "Realtime RSS (IN-RJ)",
-      "rising_value": 100,
-      "guide_exists": null,
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -58,8 +103,8 @@
   ],
   "opportunities": [
     {
-      "topic": "up bed result",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "icai result",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -67,8 +112,8 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "cbse 10th result 2026",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "cuet ug result 2026",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -76,37 +121,82 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "upsc",
-      "category": "Realtime RSS (IN-AP)",
+      "topic": "icai results",
+      "category": "Realtime RSS (IN-KA)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "vedanta demerger stocks",
-      "category": "Realtime RSS (IN-RJ)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "covered": [
     {
-      "topic": "bundelkhand university",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "vedanta power share price",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": "anna-university-results-2026",
+      "guide_exists": "petrol-diesel-price-check-today",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "pm kisan",
-      "category": "Realtime RSS (IN-OR)",
+      "topic": "nta net admit card 2026",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": "jee-main-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "telegram banned neet",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "whatsapp-banned-account-fix",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ujjwala yojana",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": "up-free-laptop-yojana-students",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ca final result may 2026",
+      "category": "Realtime RSS (IN-TN)",
+      "rising_value": 100,
+      "guide_exists": "sgb-2018-19-series-i-final-redemption-price-2026",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "eamcet results 2026 ap",
+      "category": "Realtime RSS (IN-AP)",
+      "rising_value": 100,
+      "guide_exists": "ts-eamcet-2026-exam-guide",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ap inter supplementary results 2026",
+      "category": "Realtime RSS (IN-TG)",
+      "rising_value": 100,
+      "guide_exists": "inter-caste-marriage-benefits",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "pm kisan kyc",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": "gj-kisan-sahay",
       "is_spike": false,
@@ -116,8 +206,8 @@
   ],
   "spike_candidates": [
     {
-      "topic": "up bed result",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "icai result",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -125,8 +215,17 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "cbse 10th result 2026",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "cuet ug result 2026",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "icai results",
+      "category": "Realtime RSS (IN-KA)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
