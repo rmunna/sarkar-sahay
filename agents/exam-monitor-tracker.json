@@ -57,8 +57,9 @@
       "lastChanged": "2026-03-01T02:46:19.512Z"
     },
     "ssc:notices": {
-      "lastChecked": "2026-06-17T20:22:53.910Z",
+      "lastChecked": "2026-06-18T15:40:36.715Z",
       "noticeIds": [
+        "m13utc3dr8gb6apu2oi3v",
         "3dmo63q4je5bt5x7jhnul",
         "yf8413vc99gl9ynitnick",
         "nkk453c1qpbyv31w1ena4",
@@ -67,10 +68,9 @@
         "739a10i10513s46dp13cy",
         "lnbvjaf4x2i7t0c5qrueg",
         "rp6tszdugxtr1we9uiacc",
-        "rwqkm2vrr3bqeem5e2xff",
-        "ougb1xx0ng6612e3gbooy"
+        "rwqkm2vrr3bqeem5e2xff"
       ],
-      "latest": "Uploading of Final Answer Key(s) along with Candidates’ Response Sheet(s) and Marks of candidates of Combined Graduate Level Examination, 2025 (Tier-II) -reg"
+      "latest": "Stenographer Grade 'C' and 'D' Examination, 2025: Declaration of First Round of Tentative Allocation (FRTA)"
     },
     "ssc:lastUpdate": {
       "timestamp": "2026-02-27T14:22:16.641Z",
@@ -82,8 +82,11 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-06-17T20:22:57.504Z",
+      "lastChecked": "2026-06-18T15:40:45.259Z",
       "noticeIds": [
+        "20260618201747",
+        "20260618184532",
+        "20260618113547",
         "20260617200534",
         "20260617081519",
         "20260616120254",
@@ -829,7 +832,7 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-06-17T20:23:26.519Z",
+      "lastChecked": "2026-06-18T15:41:13.904Z",
       "contentHash": "f13f3d00e20e4c99bd7e8fe3921f363e",
       "noticeHash": "9d4fe088a7535e06fd86e59367488434",
       "pdfHash": "d44af7f55a7c04af43bdc8205695e671",
@@ -939,8 +942,8 @@
       ]
     },
     "uppsc:hash": {
-      "lastChecked": "2026-06-17T20:24:15.675Z",
-      "contentHash": "0399f1fd6f6ecdbfdf8da904c11850ca",
+      "lastChecked": "2026-06-18T15:42:07.293Z",
+      "contentHash": "c86497c5d04e7d1a2e738137a6b0deff",
       "noticeHash": "2705524bc5eeeed716a92ca9dd868e9b",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "noticeUrls": [
@@ -951,8 +954,8 @@
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-06-17T20:23:25.757Z",
-      "contentHash": "1d0bdb62a9697744bf58388a847910f1",
+      "lastChecked": "2026-06-18T15:41:13.534Z",
+      "contentHash": "4558a8d466cd35ea053ac9161fe47cd4",
       "noticeHash": "afa955b7c27ef2cfe68b5b6ca72c10bc",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
       "noticeUrls": [
@@ -990,8 +993,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-06-17T20:23:25.388Z",
-      "contentHash": "9e28a42a8302c63c9f539242c0b13315",
+      "lastChecked": "2026-06-18T15:41:13.330Z",
+      "contentHash": "7a94160d181e96e026d8127d206126bf",
       "noticeHash": "f8e8af967e3a5c4c10e2a4e2931d2145",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "noticeUrls": [
@@ -1046,7 +1049,7 @@
       "pdfs": []
     },
     "cbse:hash": {
-      "lastChecked": "2026-06-17T20:23:58.100Z",
+      "lastChecked": "2026-06-18T15:41:45.409Z",
       "contentHash": "f345e5bf240d5c0e9de708aa2299b866",
       "noticeHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -1054,8 +1057,8 @@
       "pdfs": []
     },
     "bsf:hash": {
-      "lastChecked": "2026-06-17T04:51:31.717Z",
-      "contentHash": "1eecb3d52d9b88e43f5ef556b84fcd55",
+      "lastChecked": "2026-06-18T15:41:45.327Z",
+      "contentHash": "8db515282ccee00dfac688adff7b2b9f",
       "noticeHash": "c92745d790df6f978a953d65324f9deb",
       "pdfHash": "a01f5c12d67b3be5d51b4b44bcd92762",
       "noticeUrls": [
@@ -1108,8 +1111,8 @@
       ]
     },
     "cisf:hash": {
-      "lastChecked": "2026-06-17T20:23:58.747Z",
-      "contentHash": "e1935057bf38651a0229c28b1c31db3f",
+      "lastChecked": "2026-06-18T15:41:45.200Z",
+      "contentHash": "f9cf4db0e5ab864b8df6aac67ab5b2a4",
       "noticeHash": "7e266caf0e56317aa1805d17ba5fad2c",
       "pdfHash": "dcb8f9d4988ce1cb962ced406b83bc91",
       "noticeUrls": [
@@ -1149,10 +1152,10 @@
       "pdfs": []
     },
     "crpf:hash": {
-      "lastChecked": "2026-06-17T20:24:00.940Z",
-      "contentHash": "76f4ec6a204b1b42b90b5ff5c391f633",
-      "noticeHash": "7ea56bd11a04fa8593f725fccf0f15a8",
-      "pdfHash": "f102d1d13ee1cffc5ec67c38e51054e1",
+      "lastChecked": "2026-06-18T15:41:45.967Z",
+      "contentHash": "0a481377cb92fe1d98ac2f5519444365",
+      "noticeHash": "852ed35e7d58072d11fed5e4a6036e35",
+      "pdfHash": "5a60c57e88237d079f3900edf6a56abd",
       "noticeUrls": [
         "https://crpf.gov.in/Upload/Document/1_809_1_293062022.pdf",
         "https://crpf.gov.in/Upload/Document/Advertisement%20GC%20BBSR-219.pdf",
@@ -1172,8 +1175,8 @@
         "https://crpf.gov.in/Upload/RecruitmentAdvertisement/SANTOS-904.pdf",
         "https://crpf.gov.in/Upload/Tender/Draft%20%20QRs-TDs%20of%20Battery%20of%20Mini%20Switch%20UAV-HIN-591.pdf",
         "https://crpf.gov.in/Upload/Tender/NIT55BN-290.pdf",
+        "https://crpf.gov.in/Upload/Tender/TenderG_%20CRPFSambalpur-588.pdf",
         "https://crpf.gov.in/Upload/Tender/Tender_Notice_136062026-182.pdf",
-        "https://crpf.gov.in/Upload/Tender/tenderGomtinagar-559.pdf",
         "https://crpf.gov.in/Upload/Tender/tenderKathgodam-450.pdf",
         "https://crpf.gov.in/hi/Important-Notification",
         "https://crpf.gov.in/hi/User-Login",
@@ -1198,8 +1201,8 @@
         "https://crpf.gov.in/Upload/RecruitmentAdvertisement/SANTOS-904.pdf",
         "https://crpf.gov.in/Upload/Tender/Draft%20%20QRs-TDs%20of%20Battery%20of%20Mini%20Switch%20UAV-HIN-591.pdf",
         "https://crpf.gov.in/Upload/Tender/NIT55BN-290.pdf",
+        "https://crpf.gov.in/Upload/Tender/TenderG_%20CRPFSambalpur-588.pdf",
         "https://crpf.gov.in/Upload/Tender/Tender_Notice_136062026-182.pdf",
-        "https://crpf.gov.in/Upload/Tender/tenderGomtinagar-559.pdf",
         "https://crpf.gov.in/Upload/Tender/tenderKathgodam-450.pdf"
       ]
     },
@@ -1242,10 +1245,10 @@
       ]
     },
     "kvs:hash": {
-      "lastChecked": "2026-06-17T20:24:06.561Z",
-      "contentHash": "68622326c8d082176a4f17e002af195e",
-      "noticeHash": "26564e085d27a03c5024ab88dfe57692",
-      "pdfHash": "17b25d1bf0775c2f1fbedbcd2bc6d86b",
+      "lastChecked": "2026-06-18T15:41:49.193Z",
+      "contentHash": "9741ab990f88708a56185580e6621322",
+      "noticeHash": "5f24b836c14cb419334a87164e1efeb0",
+      "pdfHash": "9f0cfb990ef316b752c3e5c412b3c998",
       "noticeUrls": [
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/11/2023112463.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/12/2023120838.pdf",
@@ -1275,13 +1278,13 @@
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/03/2026031281-1.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/03/2026031296.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/05/2026052723.pdf",
-        "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/05/2026052760.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026060822.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026061064.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026061151.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026061298.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026061614.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026061631.pdf",
+        "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026061864.pdf",
         "https://kvsangathan.nic.in/notice-category/%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%8f%e0%a4%82/",
         "https://ndtv.in/education/cbse-12-result-out-kvs-vs-jnv-comparison-fees-admission-process-last-5-years-success-rate-11489685",
         "https://ndtv.in/education/cbse-12th-result-2026-school-wise-performance-kv-jnv-pass-percentage-list-11425718",
@@ -1317,13 +1320,13 @@
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/03/2026031281-1.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/03/2026031296.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/05/2026052723.pdf",
-        "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/05/2026052760.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026060822.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026061064.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026061151.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026061298.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026061614.pdf",
-        "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026061631.pdf"
+        "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026061631.pdf",
+        "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026061864.pdf"
       ]
     },
     "nvs:hash": {
@@ -1383,12 +1386,11 @@
       ]
     },
     "mppsc:hash": {
-      "lastChecked": "2026-06-17T20:24:15.223Z",
-      "contentHash": "9eadd07ac405e59b2a4126ceb1579dff",
-      "noticeHash": "d583e8b4542bc0df6fb137cbb3fcdef0",
-      "pdfHash": "f5e72b14460f85a006403ec3e67d6731",
+      "lastChecked": "2026-06-18T15:42:05.823Z",
+      "contentHash": "1bc7cab53a94d91c5699d399e2e9e26b",
+      "noticeHash": "127aa95aed2b8e6bef8d08778250dc8a",
+      "pdfHash": "6aaba5680e92b5a70c68deaed8771ca8",
       "noticeUrls": [
-        "https://demo.mponline.gov.in/Portal/Examinations/MPPSC/2025/ASP24/CallLetter/Login.aspx?Pid=AP26",
         "https://mppsc.mp.gov.in/login",
         "https://mppsc.mp.gov.in/uploads/advertisement/Advt_ADPO_Exam_2026_Dated_10_03_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Advt_AD_Farmer_Welfare_Agri_Dev_Dept_Field_Extension_Exam_2025_Dated_31_12_2025.pdf",
@@ -1424,9 +1426,12 @@
         "https://mppsc.mp.gov.in/uploads/advertisement/Corrigendum_Assistant_Professor_Sanskrit_Geography_Psychology_Law_Geology_Yogik_Science_2025_Dated_04_06_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Dental_Specialist_2024_Dated_12_06_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Manager_Exam_2024_Dated_11_06_20261.pdf",
+        "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Professor_Economics_Exam_2024_Dated_18_06_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Professor_History_Exam_2024_Dated_04_06_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Chief_Chemist_2024_Dated_12_06_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_State_Engineering_Service_Exam_2025_Dated_03_06_2026.pdf",
+        "https://mppsc.mp.gov.in/uploads/files/Caveat_Vigyapti_Written_Exam_Result_Assistant_Registrar_Exam_2025_Dated_18_06_2026.pdf",
+        "https://mppsc.mp.gov.in/uploads/files/Corrigendum_No_4158_01_2017_Lekha.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Final_Answer_Key_Assistant_Registrar_Exam_2025_Dated_16_06_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Final_Answer_Key_Assistant_Research_Officer_Exam_2024_Dated_16_06_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Obtained_Mark_List_Assistant_Professor_Geography_Exam_2024_Dated_12_06_2026.pdf",
@@ -1439,7 +1444,10 @@
         "https://mppsc.mp.gov.in/uploads/files/Selection_List_Dental_Surgeon_Exam_2024_PHMED_Dated_07_06_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Vigyapti_3565_03_2022_Computer.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Vigyapti_Direct_Interview_Dated_10_06_2026.pdf",
-        "https://mppsc.mponline.gov.in/Portal/Examinations/MPPSC/2025/ASP24/CallLetter/Login.aspx?Pid=AP24"
+        "https://mppsc.mp.gov.in/uploads/files/Written_Exam_Result_Assistant_Registrar_Exam_2025_Dated_18_06_2026.pdf",
+        "https://mppsc.mp.gov.in/uploads/files/Written_Exam_Result_Assistant_Research_Officer_Exam_2024_Dated_18_06_2026.pdf",
+        "https://mppsc.mponline.gov.in/Portal/Examinations/MPPSC/2025/ASP24/CallLetter/Login.aspx?Pid=AP24",
+        "https://mppsc.mponline.gov.in/Portal/Examinations/MPPSC/2025/ASP24/CallLetter/login.aspx?Pid=AP26"
       ],
       "pdfs": [
         "https://mppsc.mp.gov.in/uploads/advertisement/Advt_ADPO_Exam_2026_Dated_10_03_2026.pdf",
@@ -1476,9 +1484,12 @@
         "https://mppsc.mp.gov.in/uploads/advertisement/Corrigendum_Assistant_Professor_Sanskrit_Geography_Psychology_Law_Geology_Yogik_Science_2025_Dated_04_06_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Dental_Specialist_2024_Dated_12_06_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Manager_Exam_2024_Dated_11_06_20261.pdf",
+        "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Professor_Economics_Exam_2024_Dated_18_06_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Professor_History_Exam_2024_Dated_04_06_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Chief_Chemist_2024_Dated_12_06_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_State_Engineering_Service_Exam_2025_Dated_03_06_2026.pdf",
+        "https://mppsc.mp.gov.in/uploads/files/Caveat_Vigyapti_Written_Exam_Result_Assistant_Registrar_Exam_2025_Dated_18_06_2026.pdf",
+        "https://mppsc.mp.gov.in/uploads/files/Corrigendum_No_4158_01_2017_Lekha.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Final_Answer_Key_Assistant_Registrar_Exam_2025_Dated_16_06_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Final_Answer_Key_Assistant_Research_Officer_Exam_2024_Dated_16_06_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Obtained_Mark_List_Assistant_Professor_Geography_Exam_2024_Dated_12_06_2026.pdf",
@@ -1490,7 +1501,9 @@
         "https://mppsc.mp.gov.in/uploads/files/Selection_List_Assistant_Professor_Geology_Exam_2024_Dated_15_06_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Selection_List_Dental_Surgeon_Exam_2024_PHMED_Dated_07_06_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Vigyapti_3565_03_2022_Computer.pdf",
-        "https://mppsc.mp.gov.in/uploads/files/Vigyapti_Direct_Interview_Dated_10_06_2026.pdf"
+        "https://mppsc.mp.gov.in/uploads/files/Vigyapti_Direct_Interview_Dated_10_06_2026.pdf",
+        "https://mppsc.mp.gov.in/uploads/files/Written_Exam_Result_Assistant_Registrar_Exam_2025_Dated_18_06_2026.pdf",
+        "https://mppsc.mp.gov.in/uploads/files/Written_Exam_Result_Assistant_Research_Officer_Exam_2024_Dated_18_06_2026.pdf"
       ]
     },
     "tnpsc:hash": {
@@ -1547,7 +1560,7 @@
       ]
     },
     "cuet:hash": {
-      "lastChecked": "2026-06-17T20:24:15.704Z",
+      "lastChecked": "2026-06-18T15:42:06.243Z",
       "contentHash": "532f0924a6bc07f183b13f8bbcd2e891",
       "noticeHash": "5b1e4e46e9763ebb272171c1da290455",
       "pdfHash": "49d4ce3a2583068d2759894c5f23baae",
@@ -2176,7 +2189,7 @@
       ]
     },
     "ignou:hash": {
-      "lastChecked": "2026-06-17T20:24:16.093Z",
+      "lastChecked": "2026-06-18T15:42:06.577Z",
       "contentHash": "3c3f8af5379255259cbcf850337a4cf5",
       "noticeHash": "bf92ebdde169c0f54fa482bed6e6da71",
       "pdfHash": "f4b7aadd3c059410bebcf8882432c72d",
@@ -2202,7 +2215,7 @@
       "pdfs": []
     },
     "jpsc:hash": {
-      "lastChecked": "2026-06-17T04:52:09.646Z",
+      "lastChecked": "2026-06-18T15:42:24.037Z",
       "contentHash": "8cdb38c25a95f2eff1b507fac0b0a033",
       "noticeHash": "32ceb10f38564222ec7cb86f76b6ebcd",
       "pdfHash": "c9af55d42b52224cedb69411e41999dd",
@@ -2533,7 +2546,7 @@
       ]
     },
     "ukpsc:hash": {
-      "lastChecked": "2026-06-17T20:24:46.740Z",
+      "lastChecked": "2026-06-18T15:42:39.115Z",
       "contentHash": "29183ec5cee976219d1fa1ec8bb74947",
       "noticeHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -2541,8 +2554,8 @@
       "pdfs": []
     },
     "up-board:hash": {
-      "lastChecked": "2026-06-17T20:24:49.834Z",
-      "contentHash": "e675f34f7327aafdf329ca94b8b743a9",
+      "lastChecked": "2026-06-18T15:42:41.685Z",
+      "contentHash": "d8d2a59342265c076f0c5cecd841db2c",
       "noticeHash": "392c46e0555f29fbaca6f9b8c50647b8",
       "pdfHash": "773f43d479bcf09982ecdf3f33e92b93",
       "noticeUrls": [
@@ -2596,7 +2609,7 @@
       ]
     },
     "rbse:hash": {
-      "lastChecked": "2026-06-17T20:24:48.551Z",
+      "lastChecked": "2026-06-18T15:42:40.875Z",
       "contentHash": "7f127d3d8ecd4419f163c0d14fa4ba31",
       "noticeHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -2604,7 +2617,7 @@
       "pdfs": []
     },
     "ctet:hash": {
-      "lastChecked": "2026-06-17T20:24:50.784Z",
+      "lastChecked": "2026-06-18T15:42:41.332Z",
       "contentHash": "fbef24b37e57efca3b9d06b6bbbb661d",
       "noticeHash": "f0bca6c9f478835d0ff704550123a1b3",
       "pdfHash": "f0bca6c9f478835d0ff704550123a1b3",
@@ -2705,10 +2718,10 @@
       ]
     },
     "mp-board:hash": {
-      "lastChecked": "2026-06-17T20:25:04.917Z",
-      "contentHash": "9ac3b0dc69b7fa1f9611d80f0ba88889",
-      "noticeHash": "686e726a92ed6b7f42b5b8dedb41a747",
-      "pdfHash": "95cd4ffebd701b4cfe4d6f7bf95343dc",
+      "lastChecked": "2026-06-18T15:42:57.457Z",
+      "contentHash": "dc04b7e820c127611b3134c4e8d58812",
+      "noticeHash": "0268a204fa18903e74a6c078154be13c",
+      "pdfHash": "02973078bb6b3d94f53549d614817487",
       "noticeUrls": [
         "https://bsemp.nic.in/Login/Pages/slogin.aspx",
         "https://mpbse.nic.in/1509_Pr_exam_order.PDF",
@@ -2723,7 +2736,6 @@
         "https://mpbse.nic.in/Bse_4178_4179.PDF",
         "https://mpbse.nic.in/Bse_4377-4378FEES.PDF",
         "https://mpbse.nic.in/Bse_4458-4459d.el.ed_timetable.PDF",
-        "https://mpbse.nic.in/Bse_985_E_E_Adv.PDF",
         "https://mpbse.nic.in/CSS2025.PDF",
         "https://mpbse.nic.in/DELED2627.PDF",
         "https://mpbse.nic.in/DELED639.PDF",
@@ -2755,7 +2767,6 @@
         "https://mpbse.nic.in/Bse_4178_4179.PDF",
         "https://mpbse.nic.in/Bse_4377-4378FEES.PDF",
         "https://mpbse.nic.in/Bse_4458-4459d.el.ed_timetable.PDF",
-        "https://mpbse.nic.in/Bse_985_E_E_Adv.PDF",
         "https://mpbse.nic.in/CSS2025.PDF",
         "https://mpbse.nic.in/DELED2627.PDF",
         "https://mpbse.nic.in/DELED639.PDF",
@@ -3985,5 +3996,5 @@
       ]
     }
   },
-  "lastScan": "2026-06-17T20:25:20.372Z"
+  "lastScan": "2026-06-18T15:43:10.656Z"
 }
