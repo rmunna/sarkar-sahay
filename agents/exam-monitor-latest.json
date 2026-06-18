@@ -1,145 +1,71 @@
 {
-  "scanTime": "2026-06-18T15:43:10.661Z",
-  "elapsedSeconds": 155.3,
-  "changesDetected": 18,
+  "scanTime": "2026-06-18T20:36:37.302Z",
+  "elapsedSeconds": 143.1,
+  "changesDetected": 9,
   "noiseDetected": 0,
   "changes": [
     {
-      "site": "SSC",
-      "type": "NEW_NOTICE",
-      "headline": "Stenographer Grade 'C' and 'D' Examination, 2025: Declaration of First Round of Tentative Allocation (FRTA)",
-      "date": "2026-06-18T12:39:26.254Z",
-      "id": "m13utc3dr8gb6apu2oi3v",
-      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Result Writeup_2025_Steno C and Steno D.pdf",
-      "url": "https://ssc.gov.in"
-    },
-    {
-      "site": "NTA",
-      "type": "NEW_NOTICE",
-      "headline": "Advisory for Biometric Verification and Exception Protocol for NEET (UG)-2026 Re Examination- reg. &nbsp;",
-      "date": "2026-06-18",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260618201747.pdf",
-      "url": "https://nta.ac.in"
-    },
-    {
-      "site": "NTA",
-      "type": "NEW_NOTICE",
-      "headline": "Advisory for Candidates Regarding Dress Code and Permissible Items at Examination Centres for NEET (UG) 2026 Re-Examination - reg.&nbsp;",
-      "date": "2026-06-18",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260618184532.pdf",
-      "url": "https://nta.ac.in"
-    },
-    {
-      "site": "NTA",
-      "type": "NEW_NOTICE",
-      "headline": "Public Notice regarding opening of Portal for Submitting Scribe Details by the PwDPwBD Candidates of UGC-NET June 2026 examination&nbsp;",
-      "date": "2026-06-18",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260618113547.pdf",
-      "url": "https://nta.ac.in"
+      "site": "SBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-10/apply",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-06-18T20:34:49.451Z"
     },
     {
       "site": "RBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-06-18T15:41:13.330Z"
-    },
-    {
-      "site": "ICAI (CA)",
-      "type": "TEXT_NOTICE",
-      "url": "https://www.icai.org/",
-      "detectedAt": "2026-06-18T15:41:13.534Z"
-    },
-    {
-      "site": "CRPF",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://crpf.gov.in/Upload/Tender/TenderG_%20CRPFSambalpur-588.pdf",
-      "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-06-18T15:41:45.967Z"
+      "detectedAt": "2026-06-18T20:34:46.906Z"
     },
     {
       "site": "CISF",
       "type": "TEXT_NOTICE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-06-18T15:41:45.200Z"
+      "detectedAt": "2026-06-18T20:35:18.399Z"
     },
     {
       "site": "BSF",
       "type": "TEXT_NOTICE",
       "url": "https://rectt.bsf.gov.in/",
-      "detectedAt": "2026-06-18T15:41:45.327Z"
+      "detectedAt": "2026-06-18T20:35:18.739Z"
     },
     {
       "site": "KVS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/06/2026061864.pdf",
+      "type": "TEXT_NOTICE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-06-18T15:41:49.193Z"
+      "detectedAt": "2026-06-18T20:35:21.857Z"
     },
     {
       "site": "UPPSC",
       "type": "TEXT_NOTICE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-06-18T15:42:07.293Z"
+      "detectedAt": "2026-06-18T20:35:35.492Z"
     },
     {
       "site": "MPPSC",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Professor_Economics_Exam_2024_Dated_18_06_2026.pdf",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-18T15:42:05.823Z"
+      "detectedAt": "2026-06-18T20:35:35.137Z"
     },
     {
-      "site": "MPPSC",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Caveat_Vigyapti_Written_Exam_Result_Assistant_Registrar_Exam_2025_Dated_18_06_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-18T15:42:05.823Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Corrigendum_No_4158_01_2017_Lekha.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-18T15:42:05.823Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Written_Exam_Result_Assistant_Registrar_Exam_2025_Dated_18_06_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-18T15:42:05.823Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Written_Exam_Result_Assistant_Research_Officer_Exam_2024_Dated_18_06_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-06-18T15:42:05.823Z"
+      "site": "CTET",
+      "type": "TEXT_NOTICE",
+      "url": "https://ctet.nic.in/",
+      "detectedAt": "2026-06-18T20:36:10.365Z"
     },
     {
       "site": "UP Board",
       "type": "TEXT_NOTICE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-06-18T15:42:41.685Z"
-    },
-    {
-      "site": "MP Board",
-      "type": "LINK_CHANGE",
-      "url": "https://mpbse.nic.in/",
-      "detectedAt": "2026-06-18T15:42:57.457Z"
+      "detectedAt": "2026-06-18T20:36:10.348Z"
     }
   ],
   "noiseChanges": [],
-  "errors": 25,
+  "errors": 24,
   "errorDetails": [
     {
       "site": "UPSC",
       "error": "Timeout"
-    },
-    {
-      "site": "SBI Careers",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "error": ""
     },
     {
       "site": "NABARD",
