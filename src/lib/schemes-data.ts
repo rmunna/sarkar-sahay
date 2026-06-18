@@ -139,7 +139,9 @@ export function isRichDetail(d: SchemeFullDetail | null): boolean {
   const elig = (d.eligibilityMd || "").length;
   const ben = (d.benefitsMd || "").length;
   const desc = (d.descriptionMd || d.briefDescription || "").length;
-  return elig >= 80 && (ben >= 20 || desc >= 200);
+  // 40 chars is enough to confirm real eligibility prose exists (most concise
+  // criteria are complete at this length, e.g. "Open to all Goan artists.")
+  return elig >= 40 && (ben >= 20 || desc >= 200);
 }
 
 /** True when the detail's prose actually contains Devanagari — the myScheme API
