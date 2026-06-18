@@ -41,8 +41,9 @@ jobs:
           MISSING=$(node -e "
             const fs = require('fs');
             const schemes = JSON.parse(fs.readFileSync('data/schemes/myscheme.json','utf-8'));
-            const det = new Set(fs.readdirSync('data/schemes/_detail').map(f=>f.slice(0,-5)));
-            const rw = new Set(fs.readdirSync('data/schemes/_detail_rw').map(f=>f.slice(0,-5)));
+            const readSlugs = d => fs.existsSync(d) ? new Set(fs.readdirSync(d).filter(f=>f.endsWith('.json')).map(f=>f.slice(0,-5))) : new Set();
+            const det = readSlugs('data/schemes/_detail');
+            const rw  = readSlugs('data/schemes/_detail_rw');
             const n = schemes.filter(s => s.msSlug && !det.has(s.msSlug) && !rw.has(s.msSlug)).length;
             console.log(n);
           ")
@@ -59,6 +60,7 @@ jobs:
           node scripts/fill-missing-scheme-detail.mjs --batch=$BATCH
 
       - name: Commit new detail files
+        id: commit
         if: steps.count.outputs.has_work == 'true'
         run: |
           git config user.name "CitizenNest Bot"
@@ -76,18 +78,19 @@ Pages will switch from noindex to indexable on next deploy."
             git rebase origin/main 2>/dev/null || git rebase --abort
             git stash pop 2>/dev/null || true
             git push
+            echo "new_count=$NEW" >> $GITHUB_OUTPUT
             echo "✅ Pushed $NEW new detail files"
           else
+            echo "new_count=0" >> $GITHUB_OUTPUT
             echo "No new files written"
           fi
 
-      - name: Trigger deploy (if new files committed)
-        if: steps.count.outputs.has_work == 'true'
+      - name: Trigger deploy (only when files were actually committed)
+        if: steps.commit.outputs.new_count > 0
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git diff HEAD~1 --name-only 2>/dev/null | grep -q "data/schemes/_detail/" && \
-            gh workflow run "Deploy to Cloudflare" && echo "✅ Deploy triggered" || echo "ℹ️ No deploy needed"
+          gh workflow run "Deploy to Cloudflare" && echo "✅ Deploy triggered" || echo "⚠️ deploy trigger failed (non-critical)"
 
       - name: Summary
         if: always()

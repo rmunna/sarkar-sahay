@@ -32,16 +32,17 @@ const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
 
 async function genWithRetry(prompt) {
-  const delays = [2000, 5000, 12000, 25000];
-  for (let i = 0; ; i++) {
+  // Match generate-scheme-guide.js: 5 delays, full error pattern coverage
+  const delays = [2000, 5000, 12000, 25000, 45000];
+  for (let attempt = 0; ; attempt++) {
     try {
       const res = await model.generateContent(prompt);
       return res.response.text();
     } catch (err) {
       const msg = String(err?.message || '');
-      if (!/\[(503|502|429)\b|demand|overloaded|RESOURCE_EXHAUSTED/i.test(msg) || i >= delays.length) throw err;
-      const wait = delays[i] + Math.floor(Math.random() * 1000);
-      console.error(`  ⏳ Gemini retry ${i+1} in ${Math.round(wait/1000)}s: ${msg.slice(0,60)}`);
+      if (!/\[(503|502|500|429)\b|high demand|overloaded|unavailable|temporar|rate.?limit|RESOURCE_EXHAUSTED/i.test(msg) || attempt >= delays.length) throw err;
+      const wait = delays[attempt] + Math.floor(Math.random() * 1500);
+      console.error(`  ⏳ Gemini retry ${attempt + 1}/${delays.length} in ${Math.round(wait / 1000)}s`);
       await new Promise(r => setTimeout(r, wait));
     }
   }
@@ -102,15 +103,20 @@ Write a JSON object (NO markdown fences, raw JSON only) with these exact keys:
 CRITICAL RULES:
 - Do NOT invent specific rupee amounts, dates, or percentages not in the input
 - If you don't know a fact, write "Contact the official scheme portal for details" rather than guessing
-- Keep eligibilityMd at least 80 characters
+- Keep eligibilityMd at least 40 characters (list real criteria from the input only)
 - Output raw JSON only — no markdown code fences, no explanation`;
 
   const text = await genWithRetry(prompt);
 
-  // Extract JSON from response
-  const jsonMatch = text.match(/\{[\s\S]*\}/);
-  if (!jsonMatch) throw new Error(`No JSON in response: ${text.slice(0,200)}`);
-  return JSON.parse(jsonMatch[0]);
+  // Extract the first balanced JSON object — greedy /\{[\s\S]*\}/ breaks when
+  // Gemini appends trailing prose containing a closing brace.
+  let depth = 0, start = -1, end = -1;
+  for (let i = 0; i < text.length; i++) {
+    if (text[i] === '{') { if (depth++ === 0) start = i; }
+    else if (text[i] === '}') { if (--depth === 0) { end = i; break; } }
+  }
+  if (start === -1 || end === -1) throw new Error(`No JSON object in response: ${text.slice(0, 200)}`);
+  return JSON.parse(text.slice(start, end + 1));
 }
 
 async function main() {
@@ -146,7 +152,9 @@ async function main() {
 
   console.log(`\nDone: ${done} enriched, ${failed} failed`);
   console.log(`Remaining after this run: ${missing.length - done}`);
-  process.exit(failed > done ? 1 : 0);
+  // Fail the CI step only when nothing was produced (total failure = Gemini down).
+  // Partial failures are logged but don't block the commit of what succeeded.
+  process.exit(done === 0 && failed > 0 ? 1 : 0);
 }
 
 main().catch(err => { console.error(err); process.exit(1); });
