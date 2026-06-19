@@ -1,9 +1,54 @@
 {
-  "scannedAt": "2026-06-18T10:50:49.793215",
+  "scannedAt": "2026-06-19T11:00:03.927904",
   "results": [
     {
-      "topic": "eamcet results 2026 ap",
+      "topic": "neet ug \u00b7 2026",
       "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "rpsc",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ap 10th class supplementary results",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "nmms-scholarship-class-8-apply",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "anna university",
+      "category": "Realtime RSS (IN-TN)",
+      "rising_value": 100,
+      "guide_exists": "anna-university-results-2026",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "pm kisan beneficiary list",
+      "category": "Realtime RSS (IN-AP)",
+      "rising_value": 100,
+      "guide_exists": "sbi-beneficiary-add-failed-fix",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "download ap eamcet 2026 rank card",
+      "category": "Realtime RSS (IN-AP)",
       "rising_value": 100,
       "guide_exists": "ts-eamcet-2026-exam-guide",
       "is_spike": true,
@@ -11,53 +56,26 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "epfo 3.0 update upi atm",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": "hdfc-bank-kyc-update-online-guide",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "cbse class 10 result 2026 second board",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": "board-exam-revaluation-apply",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "minecraft chaos cubed drop",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "results",
+      "category": "Realtime RSS (IN-AP)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "wbjee",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "wbjee-2026-exam-guide",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ap inter supplementary results 2026",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "inter-caste-marriage-benefits",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "epfo interest rate 2025-26",
-      "category": "Realtime RSS (IN-KA)",
+      "topic": "10th class result",
+      "category": "Realtime RSS (IN-AP)",
+      "rising_value": 100,
+      "guide_exists": "nmms-scholarship-class-8-apply",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "epfo 8.25 percent interest",
+      "category": "Realtime RSS (IN-TG)",
       "rising_value": 100,
       "guide_exists": "best-savings-account-interest-rates-india-2026",
       "is_spike": false,
@@ -65,35 +83,8 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "ap intermediate supplementary results",
-      "category": "Realtime RSS (IN-KA)",
-      "rising_value": 100,
-      "guide_exists": "up-board-high-school-intermediate-exam-2026-result",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "result",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "sbi po notification 2026",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
-      "guide_exists": "name-change-gazette-notification",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "otet admit card download",
-      "category": "Realtime RSS (IN-OR)",
+      "topic": "aiims bsc nursing admit card 2026 link",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": "jee-main-apply-admit-card-results",
       "is_spike": true,
@@ -103,7 +94,7 @@
   ],
   "opportunities": [
     {
-      "topic": "minecraft chaos cubed drop",
+      "topic": "neet ug \u00b7 2026",
       "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
@@ -112,7 +103,16 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "result",
+      "topic": "rpsc",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "results",
       "category": "Realtime RSS (IN-AP)",
       "rising_value": 100,
       "guide_exists": null,
@@ -123,8 +123,35 @@
   ],
   "covered": [
     {
-      "topic": "eamcet results 2026 ap",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "ap 10th class supplementary results",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "nmms-scholarship-class-8-apply",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "anna university",
+      "category": "Realtime RSS (IN-TN)",
+      "rising_value": 100,
+      "guide_exists": "anna-university-results-2026",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "pm kisan beneficiary list",
+      "category": "Realtime RSS (IN-AP)",
+      "rising_value": 100,
+      "guide_exists": "sbi-beneficiary-add-failed-fix",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "download ap eamcet 2026 rank card",
+      "category": "Realtime RSS (IN-AP)",
       "rising_value": 100,
       "guide_exists": "ts-eamcet-2026-exam-guide",
       "is_spike": true,
@@ -132,44 +159,17 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "epfo 3.0 update upi atm",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "10th class result",
+      "category": "Realtime RSS (IN-AP)",
       "rising_value": 100,
-      "guide_exists": "hdfc-bank-kyc-update-online-guide",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "cbse class 10 result 2026 second board",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": "board-exam-revaluation-apply",
+      "guide_exists": "nmms-scholarship-class-8-apply",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "wbjee",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "wbjee-2026-exam-guide",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ap inter supplementary results 2026",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "inter-caste-marriage-benefits",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "epfo interest rate 2025-26",
-      "category": "Realtime RSS (IN-KA)",
+      "topic": "epfo 8.25 percent interest",
+      "category": "Realtime RSS (IN-TG)",
       "rising_value": 100,
       "guide_exists": "best-savings-account-interest-rates-india-2026",
       "is_spike": false,
@@ -177,26 +177,8 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "ap intermediate supplementary results",
-      "category": "Realtime RSS (IN-KA)",
-      "rising_value": 100,
-      "guide_exists": "up-board-high-school-intermediate-exam-2026-result",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "sbi po notification 2026",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
-      "guide_exists": "name-change-gazette-notification",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "otet admit card download",
-      "category": "Realtime RSS (IN-OR)",
+      "topic": "aiims bsc nursing admit card 2026 link",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": "jee-main-apply-admit-card-results",
       "is_spike": true,
@@ -206,7 +188,7 @@
   ],
   "spike_candidates": [
     {
-      "topic": "result",
+      "topic": "results",
       "category": "Realtime RSS (IN-AP)",
       "rising_value": 100,
       "guide_exists": null,
