@@ -1,6 +1,6 @@
 ---
-title: "How to Get Bonafide Certificate Online — School, College & Employment"
-description: "Step-by-step guide to get bonafide certificate online from school, college, university or employer. Documents required, format, fees, and application process."
+title: "Bonafide Certificate Apply Online 2026 — School, College & Employer (Format & Process)"
+description: "Bonafide certificate from school: written request to principal — issued free in 1–3 days. From college: apply at registrar's office or student portal. From employer: HR issues on company letterhead. Required for bank accounts, passport, Tatkal bookings. Application format template included."
 category: "Certificates"
 keywords: ["bonafide certificate online", "bonafide certificate from school", "bonafide certificate for college admission", "bonafide certificate from employer", "bonafide certificate format", "bonafide certificate application", "bonafide praman patra"]
 readingTime: "7 min"

@@ -1,6 +1,6 @@
 ---
-title: "EPF Passbook Not Showing Updated Balance? Here's How to Fix It"
-description: "EPF passbook not updated or showing zero balance? Learn why and how to fix it — UAN activation, KYC, employer delays & UMANG check."
+title: "EPF Passbook Not Showing Balance 2026? Fix UAN, KYC & Employer Delay at epfindia.gov.in"
+description: "EPF passbook not updated or showing zero? Fix: UAN not activated → activate at unifiedportal-mem.epfindia.gov.in; KYC not approved by employer → check UAN portal; employer not depositing on time → file complaint at epfindia.gov.in. Balance updates 3–5 days after employer deposit."
 category: "Tax & Finance"
 keywords: ["EPF passbook not updated", "PF balance not showing", "EPFO passbook error", "UAN passbook problem", "EPF balance check", "EPFO member passbook fix", "PF passbook zero balance"]
 lastUpdated: "2026-03-06"

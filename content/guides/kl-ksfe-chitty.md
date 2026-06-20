@@ -1,6 +1,6 @@
 ---
-title: "KSFE Pravasi Chitty Kerala – How to Apply, Eligibility & Benefits"
-description: "Kerala KSFE Pravasi Chitty scheme guide. Government-backed chit fund for NRIs and residents. How it works, benefits, registration, and returns."
+title: "KSFE Pravasi Chitty Kerala 2026 — Government Chit Fund, How to Join at ksfeonline.com"
+description: "KSFE Pravasi Chitty: Kerala government-backed chit fund open to NRIs and Kerala residents. Chit amounts from ₹1L to ₹50L, 30–60 months duration. No auction fraud risk — prizes by draw. Returns: ~6–8% for non-prize subscribers. Register at ksfeonline.com or nearest KSFE branch."
 category: "State Schemes"
 keywords: ["ksfe pravasi chitty", "kerala chit fund", "ksfe chitty scheme", "kerala state financial enterprises", "pravasi chitty registration"]
 lastUpdated: "2026-03-05"

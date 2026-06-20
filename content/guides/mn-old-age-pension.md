@@ -1,6 +1,6 @@
 ---
-title: "Manipur Old Age Pension 2026 – Eligibility, Amount & How to Apply"
-description: "Complete guide to Manipur Old Age Pension scheme. Check eligibility, pension amount, documents, and step-by-step application."
+title: "Manipur Old Age Pension 2026 — Amount, Apply & Check Status (IGNOAPS + State Top-Up)"
+description: "Manipur Old Age Pension (IGNOAPS + state share): ₹600–₹1,000/month for citizens aged 60+ with income below ₹36,000/year. Apply at nearest Social Welfare office or District Collectorate. Documents: Aadhaar, age proof (60+), income certificate, bank passbook. Payment via DBT."
 category: "State Schemes"
 keywords: ["manipur old age pension", "manipur senior citizen pension", "IGNOAPS manipur", "manipur pension scheme", "old age pension manipur apply"]
 lastUpdated: "2026-03-05"

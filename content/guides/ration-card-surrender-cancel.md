@@ -1,6 +1,6 @@
 ---
-title: "How to Cancel Ration Card Online 2026 — State-Wise Steps & No-Dues Certificate"
-description: "Cancel or surrender your ration card when moving to another state, going abroad, or when all members migrate. Get no-dues certificate. State-wise portal links, required documents (Aadhaar, member list) — step-by-step."
+title: "Ration Card Cancel or Surrender Online 2026 — No-Dues Certificate & State Portal Links"
+description: "Cancel or surrender ration card at FCS portal when moving states, going abroad or all members migrated. Documents: Aadhaar, ration card, address proof. Get no-dues certificate within 7–15 days after cancellation. UP, TN, Karnataka, Maharashtra portals and offline process inside."
 category: Food & Ration
 lastUpdated: '2026-02-18'
 keywords:

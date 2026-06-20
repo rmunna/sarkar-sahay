@@ -1,6 +1,6 @@
 ---
-title: "Delhi Ration Card & e-Coupon Apply Online, Check Status & Download"
-description: "Complete guide to Delhi ration card and e-coupon system — apply online, check eligibility, download e-coupon & track status."
+title: "Delhi Ration Card & e-Coupon 2026 — Apply at nfs.delhi.gov.in, Status Check & Download"
+description: "Apply for Delhi ration card online at nfs.delhi.gov.in. Delhi uses e-coupon system (not physical card) for AAY/PHH families. Documents: Aadhaar, voter ID, bank account. Download e-coupon, check application status, update mobile number — all through NFS Delhi portal."
 category: "Food & Ration"
 keywords: ["delhi ration card", "delhi e-coupon", "delhi ration card apply online", "delhi ration card status", "nfs delhi gov in", "delhi food supply"]
 lastUpdated: "2026-02-18"

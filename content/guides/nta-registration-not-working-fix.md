@@ -1,8 +1,6 @@
 ---
-title: "NTA Registration Not Working? Fix Exam Portal Errors"
-description: >-
-  Fix NTA exam registration errors including server down, photo upload failed,
-  fee payment issues, OTP not received, and form auto-logout on exams.nta.ac.in.
+title: "NTA Registration Not Working 2026? Fix exams.nta.ac.in Server Error & Payment Failure"
+description: "NTA exam registration failing? Fix: server error → try 6–9 AM or 10 PM–midnight; photo upload failing → resize to 10–200 KB JPEG; OTP not coming → use Aadhaar-linked mobile; payment failed → wait 30 min and retry. All NTA portal errors fixed for JEE Main, NEET UG and CUET 2026."
 category: Jobs & Exams
 keywords:
   - NTA registration not working

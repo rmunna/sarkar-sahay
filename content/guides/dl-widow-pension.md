@@ -1,6 +1,6 @@
 ---
-title: "Delhi Widow Pension Scheme — ₹2,500/Month for Widowed Women – How to Apply & Benefits"
-description: "Apply for Delhi Widow Pension and get ₹2,500/month. Check eligibility, documents, and step-by-step online application process."
+title: "Delhi Widow Pension Scheme 2026 — ₹2,500/Month, Apply at edistrict.delhigovt.nic.in"
+description: "Delhi Widow Pension gives ₹2,500/month to widowed women aged 18+ with family income below ₹1L/year. Apply online at edistrict.delhigovt.nic.in. Documents: husband's death certificate, Aadhaar, income certificate, bank passbook. Payment via DBT every 6 months."
 category: "State Schemes"
 keywords: ["Delhi Widow Pension", "Delhi vidhwa pension", "widow pension Delhi apply", "Delhi pension for widows", "Delhi social welfare pension"]
 readingTime: "7 min"

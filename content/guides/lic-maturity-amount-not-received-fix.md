@@ -1,8 +1,6 @@
 ---
-title: "LIC Maturity Amount Not Received? Track & Fix"
-description: >-
-  LIC maturity amount not received? Track your maturity claim, fix NEFT issues,
-  submit survival benefit forms, and know the timeline for payment.
+title: "LIC Maturity Amount Not Received 2026? Track Claim & Fix NEFT Issue at licindia.in"
+description: "LIC maturity amount not credited to bank? Fix: check NEFT mandate at licindia.in → My Account → Policy details; submit survival benefit form (SB-9); update changed bank IFSC at nearest LIC branch. Maturity credited in 7–10 working days after form submission. LIC helpline: 022-68276827."
 category: Tax & Finance
 keywords:
   - lic maturity amount not received

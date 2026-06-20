@@ -1,6 +1,6 @@
 ---
-title: "Remove or Add Name in Ration Card Online 2026 — Death, Marriage & Newborn Guide"
-description: "Remove a deceased member or add new name (newborn, spouse) in ration card online — all states covered. Docs: Aadhaar + death/birth/marriage certificate. Apply at state PDS portal — updated in 15–30 days."
+title: "Add or Remove Name in Ration Card Online 2026 — Newborn, Spouse & Deceased Member"
+description: "Add newborn, newly married spouse or remove deceased member from ration card. Apply online at state PDS portal. Documents: Aadhaar of new member + birth/marriage/death certificate + existing ration card. Updated in 15–30 days. UP, TN, Karnataka, Maharashtra portal links and step-by-step process."
 slug: "ration-card-add-remove-member"
 category: "Food & Ration"
 lastUpdated: "2026-02-18"

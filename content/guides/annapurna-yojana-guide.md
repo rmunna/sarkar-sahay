@@ -1,6 +1,6 @@
 ---
-title: "Annapurna Yojana: Free Food Grain Scheme for Senior Citizens"
-description: "Complete guide to Annapurna Yojana — free 10kg food grains per month for destitute senior citizens aged 65+ not receiving pension."
+title: "Annapurna Yojana 2026 — Free 10 kg Grain/Month for Senior Citizens 65+ Not Getting Pension"
+description: "Annapurna Yojana gives 10 kg wheat or rice free every month to destitute senior citizens aged 65+ who do not receive any old-age pension. Apply via ration card at FCS office. Automatically upgraded to AAY ration card. Available in all states through the PDS network — eligibility and apply guide."
 category: "Government Schemes"
 keywords: ["annapurna yojana", "free ration for elderly", "senior citizen food scheme", "annapurna scheme eligibility", "free food grain scheme"]
 readingTime: "6 min"

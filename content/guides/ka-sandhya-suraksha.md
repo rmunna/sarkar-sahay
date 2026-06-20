@@ -1,6 +1,6 @@
 ---
-title: "Sandhya Suraksha Pension Karnataka – How to Apply & Benefits"
-description: "Karnataka Sandhya Suraksha old age pension scheme. Get ₹600/month for senior citizens above 65. Eligibility, documents, how to apply online."
+title: "Sandhya Suraksha Pension Karnataka 2026 — ₹600/Month for 65+, Apply & Check Status"
+description: "Karnataka Sandhya Suraksha pension gives ₹600/month to senior citizens aged 65+ with BPL income. Apply at District Social Welfare Office or Atalji Janasnehi Kendra. Documents: Aadhaar, age proof, BPL certificate. Check payment status at social.kar.nic.in — approved in 30–60 days."
 category: "State Schemes"
 keywords: ["sandhya suraksha pension", "karnataka old age pension", "sandhya suraksha apply", "karnataka pension scheme", "old age pension karnataka"]
 lastUpdated: "2026-03-05"

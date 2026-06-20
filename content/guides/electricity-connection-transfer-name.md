@@ -1,6 +1,6 @@
 ---
-title: "How to Transfer Electricity Connection to New Owner"
-description: "Complete guide to transfer electricity connection after property purchase or name change. Documents, process, and fees explained step by step."
+title: "Electricity Connection Transfer to New Owner 2026 — Documents, Fee & DISCOM Process"
+description: "Transfer electricity connection after property sale or inheritance. Documents: sale deed + Aadhaar of new owner + NOC from housing society (if flat). Fee: ₹100–₹500 + security deposit adjustment. Apply at DISCOM portal or subdivision office — transferred in 7–15 working days. BESCOM, MSEDCL, UPPCL steps inside."
 category: "Utilities"
 keywords: ["electricity connection transfer", "electricity name change", "power connection transfer", "electricity ownership change", "DISCOM transfer"]
 readingTime: "5 min"

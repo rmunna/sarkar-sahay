@@ -1,6 +1,6 @@
 ---
-title: "BPL Card — How to Apply and Check Eligibility"
-description: "Learn how to apply for a BPL (Below Poverty Line) card in India, check your eligibility criteria, required documents, and step-by-step application process."
+title: "BPL Ration Card Apply 2026 — Income Limit, Eligibility & How to Get BPL Status"
+description: "BPL ration card eligibility: family income below ₹1–1.5L/year (state-dependent), no land above 2 acres, no government job in family. Apply via FCS portal or socio-economic survey. BPL card entitles you to 5 kg free grain/month and welfare scheme benefits. State-wise income limits and apply process."
 category: "Food & Ration"
 keywords: ["BPL card", "below poverty line", "BPL ration card", "BPL eligibility", "BPL card apply online", "poverty line card India"]
 readingTime: "8 min"
