@@ -118,7 +118,16 @@ function buildDeduplicationRegistry() {
 }
 
 function dedupeKey(org, examName, stage) {
-  return `${org}|${examName}|${stage}`.toLowerCase().trim();
+  // Normalize to absorb Gemini variation: strip year, trailing plural 's',
+  // extra whitespace — so "CA Exams May 2026" and "CA Exam May 2026" collapse
+  // to the same key and don't generate two separate pages.
+  const norm = s => s.toLowerCase()
+    .replace(/\b20\d{2}\b/g, '')   // strip years
+    .replace(/\bexams?\b/g, 'exam') // plural → singular
+    .replace(/\bresults?\b/g, 'result')
+    .replace(/\s+/g, ' ')
+    .trim();
+  return `${norm(org)}|${norm(examName)}|${norm(stage)}`;
 }
 
 function normalizeSourceId(id) {
@@ -168,15 +177,23 @@ function generateSlug(org, examName, stage) {
                     .replace(/^-+|-+$/g, '');
   // Cap exam slug at 50 chars to avoid absurdly long slugs from verbose official titles
   if (examSlug.length > 50) examSlug = examSlug.slice(0, 50).replace(/-[^-]*$/, '');
-  const stageSlug = part(stage);
+  // Normalize stage: "results" → "result", "notifications" → "notification", etc.
+  const stageSlug = part(stage).replace(/s$/, '');
 
   // Stable / evergreen URL: NO year in the slug, so a recurring exam keeps the
   // same URL every cycle (e.g. /update/rrb-alp-cbt-1-result). That URL stays in
   // Google's index and gets recrawled — far faster to surface than a brand-new
   // dated URL each year. The cycle's year still lives in the title/content.
-  return `${orgSlug}-${examSlug}-${stageSlug}`
+  const slug = `${orgSlug}-${examSlug}-${stageSlug}`
     .replace(/-+/g, '-')
     .replace(/^-|-$/g, '');
+
+  // Guard: if the slug is unreasonably short (org alone or just a stage word),
+  // fall back to org-year-stage so every URL is at least somewhat specific.
+  if (slug.length < 8 || slug === stageSlug || slug === orgSlug) {
+    return `${orgSlug || 'update'}-${year}-${stageSlug}`.replace(/-+/g, '-');
+  }
+  return slug;
 }
 
 // ─── URL validation ──────────────────────────────────────────────────────────

@@ -68,11 +68,7 @@ jobs:
           git add data/schemes/_detail/
           NEW=$(git diff --staged --name-only | wc -l | tr -d ' ')
           if [ "$NEW" -gt 0 ]; then
-            git commit -m "feat(#10): enrich ${NEW} scheme detail page(s) [$(date +'%Y-%m-%d')]
-
-Task #10 batch — fill missing _detail/*.json for scheme pages.
-${NEW} schemes now have rich content (benefits, eligibility, how-to-apply).
-Pages will switch from noindex to indexable on next deploy."
+            git commit -m "feat(#10): enrich ${NEW} scheme detail page(s) [$(date +'%Y-%m-%d')]"
             git stash --include-untracked 2>/dev/null || true
             git fetch origin main
             git rebase origin/main 2>/dev/null || git rebase --abort
