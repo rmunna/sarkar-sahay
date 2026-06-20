@@ -1,0 +1,22 @@
+{
+  "slug": "hess",
+  "name": "Higher Education Scholarship Scheme",
+  "shortTitle": "Higher Ed Scholarship",
+  "level": "state",
+  "state": "gujarat",
+  "nodalDept": "Education Department, Government of Gujarat",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "students"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This scheme from the Education Department, Government of Gujarat, offers scholarships to students in various courses at Government and Grant-In-Aid Schools and Colleges.",
+  "descriptionMd": "The Higher Education Scholarship Scheme, initiated by the Education Department, Government of Gujarat, aims to support students pursuing various courses. It provides financial assistance to help them continue their studies in higher education institutions within the state.",
+  "benefitsMd": "*   Financial support for students pursuing higher education.",
+  "eligibilityMd": "The scheme targets students who meet the following criteria:\n*   Students studying in various courses.\n*   Enrolled in Government Schools.\n*   Enrolled in Grant-In-Aid Schools.\n*   Enrolled in Government Colleges.\n*   Enrolled in Grant-In-Aid Colleges.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

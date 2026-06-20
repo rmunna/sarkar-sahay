@@ -1,0 +1,23 @@
+{
+  "slug": "sdsuk",
+  "name": "Sugarcane Development Scheme",
+  "shortTitle": "SDS Uttarakhand",
+  "level": "state",
+  "state": "uttarakhand",
+  "nodalDept": "Sugarcane Development and Sugar Industry",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Farmers",
+    "Sugarcane Cultivators"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The Sugarcane Development Scheme supports quality sugarcane cultivation in Uttarakhand, providing subsidies to farmers for nursery development, seed/soil treatment, and pest/disease management.",
+  "descriptionMd": "The Sugarcane Development Scheme, launched by the Sugarcane Development and Sugar Industry, Govt of Uttarakhand, is designed to enhance the quality and productivity of sugarcane cultivation in the state. It provides crucial support to farmers, ensuring the adoption of best practices for healthy crop growth and improved yield.",
+  "benefitsMd": "- Subsidies for sugarcane nursery development.\n- Financial assistance for seed treatment to manage pests and diseases.\n- Support for soil treatment to improve crop health.\n- Subsidies for sett treatment to prevent pests and diseases.",
+  "eligibilityMd": "- Farmers engaged in sugarcane cultivation within the state of Uttarakhand.\n- Farmers undertaking activities such as nursery development, seed treatment, soil treatment, or sett treatment for their sugarcane crops.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

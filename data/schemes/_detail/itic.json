@@ -1,0 +1,22 @@
+{
+  "slug": "itic",
+  "name": "IT Incubation Center",
+  "shortTitle": "IT Incubation Center Scheme",
+  "level": "state",
+  "state": "uttarakhand",
+  "nodalDept": "Information Technology Development Agency",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Registered Startups"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The IT Incubation Center scheme supports registered startups in Uttarakhand, helping them develop businesses and overcome challenges.",
+  "descriptionMd": "The \"IT Incubation Center\" scheme, launched by the Information Technology Development Agency, Government of Uttarakhand, is designed to provide comprehensive support to burgeoning startups. Its primary goal is to foster an environment where these businesses can grow, innovate, and successfully navigate the various challenges inherent in the entrepreneurial journey.",
+  "benefitsMd": "*   Support in business development\n*   Assistance in resolving business challenges\n*   Access to incubation facilities and resources (implied by name)\n*   Guidance for growth and innovation (implied by support)",
+  "eligibilityMd": "*   Applicants must be registered startups.\n*   The startup must be operating within the State of Uttarakhand (implied by state scheme).\n*   Aims to develop their business.\n*   Seeks assistance in resolving associated challenges.",
+  "exclusionsMd": "Unregistered businesses are not eligible for this scheme.",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

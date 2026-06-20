@@ -1,0 +1,22 @@
+{
+  "slug": "fanf-pwd",
+  "name": "Financial Assistance Under The National Fund For Persons With Disabilities",
+  "shortTitle": "FANF-PwD",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Empowerment of Persons with Disabilities (DoEPwDs)",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Persons with Disabilities (PwDs)"
+  ],
+  "benefitType": "service",
+  "briefDescription": "A central scheme by DoEPwDs providing financial assistance to Persons with Disabilities (PwDs) for various livelihood activities, aiming for their empowerment.",
+  "descriptionMd": "This central scheme, managed by the Department of Empowerment of Persons with Disabilities (DoEPwDs), offers financial assistance to Persons with Disabilities (PwDs). The primary goal is to support various livelihood activities, thereby fostering their empowerment. It establishes a framework to channel aid into relevant core areas to achieve this objective.",
+  "benefitsMd": "- Provision of financial assistance.\n- Support for various livelihood activities for PwDs.\n- Aid for empowerment in relevant core areas.",
+  "eligibilityMd": "- Beneficiaries must be Persons with Disabilities (PwDs).\n- Seeking financial assistance for various livelihood activities.\n- Requires support for empowerment in relevant core areas.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

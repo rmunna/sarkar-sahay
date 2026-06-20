@@ -1,0 +1,24 @@
+{
+  "slug": "unnati",
+  "name": "Unnati Scheme",
+  "shortTitle": "Unnati Initiative",
+  "level": "state",
+  "state": "karnataka",
+  "nodalDept": "Department of Social Welfare, Government of Karnataka",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Startups",
+    "Entrepreneurs",
+    "Innovators"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The Unnati Scheme, an initiative by the Karnataka Department of Social Welfare, offers a comprehensive entrepreneurship platform for startups, supporting end-to-end requirements.",
+  "descriptionMd": "The Unnati Scheme is a pioneering initiative from the Department of Social Welfare, Government of Karnataka. It aims to provide a comprehensive entrepreneurship platform specifically designed for startups. The program focuses on addressing the end-to-end requirements of startups, starting from the crucial stage of identifying innovations.",
+  "benefitsMd": "- Provides a comprehensive entrepreneurship platform\n- Caters to end-to-end requirements of a startup\n- Supports the identification of innovations",
+  "eligibilityMd": "- Open to startups seeking a comprehensive entrepreneurship platform in Karnataka.\n- For individuals or groups involved in identifying innovations and developing new ventures.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

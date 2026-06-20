@@ -1,0 +1,23 @@
+{
+  "slug": "thayi-bhagya",
+  "name": "Thayi Bhagya Scheme(comprehensive Maternal Healthcare)",
+  "shortTitle": "Thayi Bhagya Scheme",
+  "level": "state",
+  "state": "karnataka",
+  "nodalDept": "Health and Family Welfare Department, Karnataka",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Pregnant women",
+    "BPL families"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The Thayi Bhagya Scheme by Karnataka Government offers free delivery, medicines, and facilities for pregnant BPL women from admission to discharge in registered private hospitals.",
+  "descriptionMd": "The Thayi Bhagya Scheme is a comprehensive maternal healthcare initiative by the Karnataka Government. It aims to provide essential and free delivery services, medicines, and all necessary facilities for pregnant women. The scheme specifically targets those belonging to Below Poverty Line (BPL) families, ensuring they receive care from admission to discharge in registered private hospitals. This ensures access to quality maternal care without financial burden.",
+  "benefitsMd": "*   Free delivery services.\n*   Provision of free medicines during the maternal care period.\n*   Access to all necessary facilities from the point of hospital admission until discharge.",
+  "eligibilityMd": "*   Beneficiaries must be pregnant women.\n*   Beneficiaries must belong to families categorized as Below Poverty Line (BPL).\n*   To avail benefits, services must be sought in registered private hospitals.",
+  "exclusionsMd": "*   Women who do not belong to Below Poverty Line (BPL) families are not eligible.\n*   Individuals who are not pregnant are excluded from availing benefits under this scheme.",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

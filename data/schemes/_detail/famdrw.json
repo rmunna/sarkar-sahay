@@ -1,0 +1,24 @@
+{
+  "slug": "famdrw",
+  "name": "Financial Assistance for Marriage of Daughters of ESM/Remarriage of Widows",
+  "shortTitle": "ESM Daughter Marriage/Widow Remarriage",
+  "level": "central",
+  "state": null,
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Ex-Servicemen (ESM)",
+    "Widows of ESM",
+    "Orphan daughters of ESM"
+  ],
+  "benefitType": "financial-assistance",
+  "briefDescription": "This scheme provides financial assistance for the marriage of daughters of Ex-Servicemen (ESM) and the remarriage of widows of ESM.",
+  "descriptionMd": "This central scheme offers financial assistance to Ex-Servicemen (ESM), widows of ESM, or orphan daughters of ESM. It supports the marriage of their daughters and the remarriage of widows of ESM, aiming to provide social welfare and empowerment.",
+  "benefitsMd": "- Financial assistance for the marriage of daughters of ESM/widows/orphan daughters.\n- Financial assistance for the remarriage of widows of ESM.\n- A grant amount is provided per daughter/widow.\n- Maximum assistance provided for up to two daughters.\n- Applicable for marriages solemnised after 01.04.16.",
+  "eligibilityMd": "- Beneficiary must be an Ex-Servicemen (ESM) or a widow of ESM or an orphan daughter of ESM.\n- Applicable for daughters or widows up to the rank of Havildar.\n- The marriage of the daughter or remarriage of the widow must be solemnised after 01.04.16.\n- Assistance provided for a maximum of two daughters.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

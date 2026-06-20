@@ -1,0 +1,23 @@
+{
+  "slug": "agroforestry",
+  "name": "Agroforestry component under RKVY",
+  "shortTitle": "SMAF RKVY",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Contact the official scheme portal for details",
+  "schemeFor": "Farmers",
+  "targetBeneficiaries": [
+    "Farmers",
+    "Landowners"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This scheme promotes agroforestry on farmlands, encouraging tree plantation alongside agricultural crops to enhance farm income and environmental sustainability.",
+  "descriptionMd": "The Agroforestry component under RKVY, part of the Sub-Mission on Agroforestry launched in 2016-17, encourages farmers to integrate tree plantations with their agricultural crops. This initiative aims to diversify farm income sources and significantly expand the overall tree cover across farmlands. It also plays a crucial role in promoting enhanced carbon sequestration, contributing to both climate change adaptation and mitigation efforts.",
+  "benefitsMd": "*   Increased farm income for participating farmers.\n*   Expansion of national tree cover through farmland plantations.\n*   Enhanced carbon sequestration, supporting climate change adaptation.\n*   Contribution to climate change mitigation efforts.",
+  "eligibilityMd": "*   Applicant must possess farmlands suitable for agroforestry.\n*   Applicant must be engaged in agricultural activities on their land.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

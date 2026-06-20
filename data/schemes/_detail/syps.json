@@ -1,0 +1,22 @@
+{
+  "slug": "syps",
+  "name": "Shram Yogi Prasad Scheme",
+  "shortTitle": "Shram Yogi Prasad",
+  "level": "state",
+  "state": "dadra-nagar-haveli-and-daman-diu",
+  "nodalDept": "BOCW Welfare Board, Labour Department, U.T. Administration of DNH & DD",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "BOCW registered construction workers"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The Shram Yogi Prasad Scheme provides daily mid-day meals and breakfast to construction workers registered with the BOCW Welfare Board in Dadra Nagar Haveli and Daman & Diu.",
+  "descriptionMd": "The Shram Yogi Prasad Scheme is a crucial welfare initiative launched by the BOCW Welfare Board, Labour Department, U.T. Administration of DNH & DD. It aims to support the health and well-being of registered construction workers by providing essential nutritional support through daily meals and breakfast. This scheme underscores the administration's commitment to the welfare of its labor force.",
+  "benefitsMd": "*   Provides mid day meal\n*   Provides breakfast\n*   Supports the nutritional needs of registered construction workers",
+  "eligibilityMd": "*   Must be a construction worker.\n*   Must be registered with the BOCW Welfare Board.\n*   Resides within the Union Territory of Dadra Nagar Haveli and Daman & Diu.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

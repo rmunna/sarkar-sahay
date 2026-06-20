@@ -1,0 +1,22 @@
+{
+  "slug": "seftcw",
+  "name": "Self Education for the Construction Workers",
+  "shortTitle": "Self Education Workers",
+  "level": "state",
+  "state": "dadra-nagar-haveli-and-daman-diu",
+  "nodalDept": "BOCW Welfare Board, Labour Department, U.T. Administration of DNH & DD",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Construction Workers"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This welfare scheme provides reimbursement of course fees for distance education and an incentive for construction workers obtaining a degree, enhancing their skills.",
+  "descriptionMd": "The \"Self Education for the Construction Workers\" scheme, launched by the BOCW Welfare Board, Labour Department, U.T. Administration of DNH & DD, aims to promote educational attainment among construction workers. It provides essential support to enable them to pursue higher education through distance learning, thereby improving their qualifications and career opportunities.",
+  "benefitsMd": "- Reimbursement of course fees for distance education.\n- Incentive provided for each degree obtained through distance education.",
+  "eligibilityMd": "- Applicant must be a construction worker.\n- Applicant must be registered with the BOCW Welfare Board, Labour Department, U.T. Administration of DNH & DD.\n- Applicant must be pursuing education through distance learning.\n- Applicant must be working towards a degree.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

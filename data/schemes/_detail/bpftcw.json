@@ -1,0 +1,22 @@
+{
+  "slug": "bpftcw",
+  "name": "Bus Passes for the Construction Workers",
+  "shortTitle": "Bus Pass for Workers",
+  "level": "state",
+  "state": "dadra-nagar-haveli-and-daman-diu",
+  "nodalDept": "BOCW Welfare Board, Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Registered construction workers"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This welfare scheme provides 50% reimbursement of bus travel costs for registered construction workers in DNH & DD who commute from villages for work.",
+  "descriptionMd": "The Bus Passes for the Construction Workers scheme, launched by the BOCW Welfare Board under the Labour Department of DNH & DD, aims to support registered construction workers. It addresses their travel expenses by offering significant reimbursement for bus journeys. This initiative helps ease the financial burden on workers who commute from villages to their workplaces, promoting their welfare and economic stability.",
+  "benefitsMd": "- 50% reimbursement of bus travelling costs.\n- Financial assistance for registered construction workers.",
+  "eligibilityMd": "- Must be a registered construction worker.\n- Must travel by bus for work.\n- Must commute from various villages to seek employment.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "isftcw",
+  "name": "Insurance Scheme for the Construction Workers",
+  "shortTitle": "Construction Workers Insurance Scheme",
+  "level": "state",
+  "state": "dadra-nagar-haveli-and-daman-diu",
+  "nodalDept": "BOCW Welfare Board, Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Construction Workers"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This scheme, by the BOCW Welfare Board, Labour Department, enrolls construction workers in Dadra Nagar Haveli and Daman Diu under two national insurance yojnas.",
+  "descriptionMd": "The \"Insurance Scheme for the Construction Workers\" is a welfare initiative by the BOCW Welfare Board, Labour Department, U.T. Administration of DNH & DD. It aims to provide social security and financial protection to construction workers by enrolling them in national insurance programs.",
+  "benefitsMd": "*   Enrollment under Pradhan Mantri Suraksha Bima Yojna (PMSBY).\n*   Enrollment under Pradhan Mantri Jeevan Jyoti Bima Yojna (PMJJBY).",
+  "eligibilityMd": "*   Must be a construction worker.\n*   Must be eligible for Pradhan Mantri Suraksha Bima Yojna.\n*   Must be eligible for Pradhan Mantri Jeevan Jyoti Bima Yojna.\n*   Must fall under the jurisdiction of the U.T. Administration of Dadra Nagar Haveli and Daman Diu.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "kps",
+  "name": "Kabir Puraskar Scheme",
+  "shortTitle": "Kabir Puraskar",
+  "level": "central",
+  "state": null,
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individuals who perform acts during communal riots"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The Kabir Puraskar Scheme, introduced in 1990, offers National Awards in three grades, including a title and cash prize, for individuals performing acts during communal riots.",
+  "descriptionMd": "The Kabir Puraskar Scheme was established by the Government of India in 1990. It aims to recognize and honor individuals who perform commendable acts during communal riots. The scheme institutes a National Award, known as 'KABIR PURASKAR', to promote communal harmony and courage.",
+  "benefitsMd": "- National Award designated as 'KABIR PURASKAR'.\n- Award available in three grades: Grade One, Grade Two, and Grade Three.\n- Each award includes a title.\n- Each award includes a cash award.",
+  "eligibilityMd": "- Individuals must have performed an act.\n- The act must have occurred during communal riots.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

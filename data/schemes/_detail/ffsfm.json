@@ -1,0 +1,22 @@
+{
+  "slug": "ffsfm",
+  "name": "Fellowship For Superannuated Faculty Members",
+  "shortTitle": "Superannuated Faculty Fellowship",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Department of Higher Education",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Superannuated faculty members"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This scheme provides opportunities for superannuated faculty members of universities, institutes, and colleges to pursue research, supported by the UGC.",
+  "descriptionMd": "The \"Fellowship for Superannuated Faculty Members\" is a fellowship scheme by the University Grants Commission (UGC) under the Department of Higher Education. It aims to offer continued opportunities for research to faculty members who have retired from universities, institutes, or colleges.",
+  "benefitsMd": "- Opportunity to pursue research\n- Continued academic engagement post-retirement",
+  "eligibilityMd": "- Applicant must be a superannuated faculty member.\n- Applicant must have previously served in a University/Institute/College.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

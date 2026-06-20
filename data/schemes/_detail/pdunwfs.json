@@ -1,0 +1,23 @@
+{
+  "slug": "pdunwfs",
+  "name": "Pandit Deendayal Upadhyay National Welfare Fund For Sportspersons",
+  "shortTitle": "Welfare Fund For Sportspersons",
+  "level": "central",
+  "state": null,
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Outstanding Sportspersons",
+    "Family Members of Outstanding Sportspersons"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The scheme provides financial assistance to outstanding sportspersons and their families in indigent circumstances for various welfare and support purposes.",
+  "descriptionMd": "The Pandit Deendayal Upadhyay National Welfare Fund For Sportspersons (PDUNWFS) is a central scheme aimed at providing crucial financial support. It assists outstanding sportspersons and their families who are facing indigent circumstances. The fund helps them overcome various hardships and ensures their well-being.",
+  "benefitsMd": "- Financial assistance for ameliorating indigent circumstances\n- Financial assistance for medical treatment\n- Financial assistance for injury-related expenses\n- Financial assistance for procurement of sports equipment",
+  "eligibilityMd": "- The applicant must be an outstanding sportsperson.\n- Alternatively, the applicant can be a family member of an outstanding sportsperson.\n- Applicants must be living in indigent circumstances.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

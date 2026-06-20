@@ -1,0 +1,23 @@
+{
+  "slug": "ceaf",
+  "name": "Children Education Assistance Fund",
+  "shortTitle": "CEAF",
+  "level": "state",
+  "state": "nagaland",
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Children",
+    "Students in government schools"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The Children Education Assistance Fund (CEAF) provides financial aid to students in classes 1-10 in Nagaland's government schools, ensuring access to education.",
+  "descriptionMd": "The Children Education Assistance Fund (CEAF) is a significant initiative by the Nagaland state government. It aims to offer crucial financial support to children enrolled in government schools across classes 1 to 10.\n\nThe primary goal of CEAF is to remove financial barriers that might prevent children from accessing or continuing their education, promoting inclusivity and equity in schooling.",
+  "benefitsMd": "*   Financial assistance for children studying in classes 1 to 10.\n*   Support provided to students attending government schools.\n*   Helps ensure that financial constraints do not hinder a child's education.",
+  "eligibilityMd": "*   Applicant must be a child.\n*   Child must be studying in a government school.\n*   Child must be enrolled in classes 1 to 10.\n*   Scheme applicable in Nagaland state.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "shodhs",
+  "name": "Scheme of Developing High Quality Research (SHODH)",
+  "shortTitle": "SHODH Scheme",
+  "level": "state",
+  "state": "gujarat",
+  "nodalDept": "Education Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Students",
+    "Researchers"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The SHODH scheme by Gujarat's Education Department offers financial aid to students to foster high-quality research within the state.",
+  "descriptionMd": "The Scheme of Developing High Quality Research (SHODH) was launched by the Education Department, Government of Gujarat. This scheme is designed to provide crucial financial assistance to students across Gujarat. The primary goal is to encourage and support a greater number of students in pursuing high-quality research endeavors within the state.",
+  "benefitsMd": "* Financial assistance for students pursuing high-quality research.",
+  "eligibilityMd": "* Must be a student\n* Residing in the state of Gujarat\n* Interested in pursuing high-quality research",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "fafeftcw",
+  "name": "Financial Assistance for Education for the Construction Workers",
+  "shortTitle": "Education Aid for Workers",
+  "level": "state",
+  "state": "dadra-nagar-haveli-and-daman-diu",
+  "nodalDept": "Labour Department, U.T. Administration of DNH & DD",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Construction Workers",
+    "Children of construction workers"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This welfare scheme by the Labour Department, DNH & DD, offers financial reimbursement for the education of up to two children of eligible construction workers.",
+  "descriptionMd": "The Financial Assistance for Education for the Construction Workers scheme is a welfare initiative by the BOCW Welfare Board, under the Labour Department of Dadra Nagar Haveli and Daman & Diu. It aims to support the educational needs of construction workers' families by providing reimbursement for their children's schooling expenses. This helps alleviate financial burdens and promotes access to education for vulnerable families.",
+  "benefitsMd": "- Reimbursement for education expenses.\n- Benefit covers up to two children of eligible members.",
+  "eligibilityMd": "- The applicant must be a member of the BOCW Welfare Board.\n- The applicant must be a construction worker.\n- The scheme provides assistance for their children's education.\n- The assistance covers up to two children per member.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

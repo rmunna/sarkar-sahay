@@ -1,0 +1,22 @@
+{
+  "slug": "pmvbry-pa",
+  "name": "Pradhan Mantri Viksit Bharat Rozgar Yojana: Part A- Support for First-Time Employees",
+  "shortTitle": "PMVBRY Part A",
+  "level": "central",
+  "state": null,
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "First-time employees"
+  ],
+  "benefitType": "financial-incentive",
+  "briefDescription": "Provides a one-time financial incentive of up to ₹15,000 to first-time employees to support them during their initial learning phase and financial literacy course completion.",
+  "descriptionMd": "This component of the Pradhan Mantri Viksit Bharat Rozgar Yojana offers a one-time incentive to new employees. It aims to assist them through their initial learning curve, helping them become fully productive after completing a financial literacy course. The scheme addresses the challenge new employees face in their early career by providing financial support.",
+  "benefitsMd": "- One-time financial incentive of up to ₹15,000/-\n- Support for navigating the initial learning curve\n- Assistance for completing a financial literacy course over the EPO portal",
+  "eligibilityMd": "- Must be a first-time employee.\n- Required to complete a financial literacy course over the EPO portal.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

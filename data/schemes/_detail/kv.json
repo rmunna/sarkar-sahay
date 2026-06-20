@@ -1,0 +1,22 @@
+{
+  "slug": "kv",
+  "name": "Kanti Velugu",
+  "shortTitle": "Telangana Eye Screening",
+  "level": "state",
+  "state": "telangana",
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "All residents of Telangana"
+  ],
+  "benefitType": "service",
+  "briefDescription": "Universal eye screening program by the Telangana Government to achieve an 'Avoidable Blindness Free Telangana'.",
+  "descriptionMd": "The Kanti Velugu scheme is a significant initiative by the Telangana Government. It aims to conduct universal eye screening for the entire population of the state.\n\nThe primary objective is to work towards an \"Avoidable Blindness Free Telangana\" by identifying and addressing eye-related issues proactively, thereby improving public health outcomes.",
+  "benefitsMd": "- Universal eye screening for all residents.\n- Early detection and management of various eye conditions.\n- Contribution towards reducing avoidable blindness across the state.\n- Promotion of eye health and awareness among the population.",
+  "eligibilityMd": "- Residing in the state of Telangana.\n- Being part of the state's entire population covered under the scheme.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

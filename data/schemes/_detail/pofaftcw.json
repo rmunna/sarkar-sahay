@@ -1,0 +1,24 @@
+{
+  "slug": "pofaftcw",
+  "name": "Payment of Funeral Assistance for the Construction Workers",
+  "shortTitle": "Funeral Aid for Construction Workers",
+  "level": "state",
+  "state": "dadra-nagar-haveli-and-daman-diu",
+  "nodalDept": "BOCW Welfare Board, Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Nominees of deceased registered construction workers",
+    "Dependents of deceased registered construction workers",
+    "Spouses of deceased registered construction workers"
+  ],
+  "benefitType": "financial",
+  "briefDescription": "This welfare scheme offers financial assistance for funeral expenses to the nominees or dependents of a deceased registered construction worker or their spouse.",
+  "descriptionMd": "The \"Payment of Funeral Assistance for the Construction Workers\" is a crucial welfare scheme implemented by the BOCW Welfare Board, Labour Department, U.T. Administration of DNH & DD. It aims to provide essential financial support during a difficult time. The scheme ensures that the nominees or dependents of a deceased registered member, or their spouse, receive assistance for funeral expenses.",
+  "benefitsMd": "- Financial assistance for funeral expenses.",
+  "eligibilityMd": "- The deceased must be a registered member of the BOCW Welfare Board.\n- The applicant must be a nominee or dependent of the deceased registered member.\n- The scheme also covers nominees or dependents of a deceased spouse of a registered member.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

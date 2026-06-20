@@ -1,0 +1,23 @@
+{
+  "slug": "asdp",
+  "name": "Accessibility Services to Disabled People",
+  "shortTitle": "Accessibility Services",
+  "level": "state",
+  "state": "uttarakhand",
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Unemployed visually impaired individuals",
+    "Low vision individuals"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This scheme provides suitable employment opportunities for unemployed visually impaired and low vision individuals by assisting them in securing placements in public and private sectors.",
+  "descriptionMd": "The scheme \"Accessibility Services to Disabled People\" is a state-level initiative in Uttarakhand. Its primary objective is to enhance the employability of unemployed visually impaired and low vision individuals. It achieves this by actively assisting beneficiaries in finding suitable job placements within both government and private sector organizations. This support helps integrate them into the workforce and promotes economic independence.",
+  "benefitsMd": "*   Suitable employment opportunities\n*   Assistance in securing placements in the public sector\n*   Assistance in securing placements in the private sector",
+  "eligibilityMd": "*   The applicant must be an unemployed individual.\n*   The applicant must be visually impaired.\n*   The applicant must have low vision.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

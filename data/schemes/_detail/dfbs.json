@@ -1,0 +1,23 @@
+{
+  "slug": "dfbs",
+  "name": "Delhi Family Benefit Scheme",
+  "shortTitle": "Delhi Family Benefit",
+  "level": "state",
+  "state": "delhi",
+  "nodalDept": null,
+  "schemeFor": "Household",
+  "targetBeneficiaries": [
+    "Below Poverty Line (BPL) families",
+    "Families who have lost their sole breadwinner"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This scheme provides financial assistance to Below Poverty Line (BPL) families in Delhi who have lost their sole breadwinner due to natural or accidental causes.",
+  "descriptionMd": "The Delhi Family Benefit Scheme aims to support financially vulnerable Below Poverty Line (BPL) families residing in Delhi. It provides crucial assistance to households that have suffered the tragic loss of their sole bread earner. This support helps mitigate the severe economic hardship faced by such families following the untimely demise, whether due to natural causes or an accident.",
+  "benefitsMd": "* Financial assistance to eligible families.\n* Support provided following the death of the sole bread earner.",
+  "eligibilityMd": "* Families must be Below Poverty Line (BPL).\n* The family must have lost their sole bread earner.\n* The death of the sole bread earner must be due to natural or accidental causes.",
+  "exclusionsMd": "Contact the official scheme portal for details.",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

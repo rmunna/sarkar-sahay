@@ -1,0 +1,25 @@
+{
+  "slug": "iasri-scholarship",
+  "name": "IASRI Scholarship For M.Sc And Ph.D",
+  "shortTitle": "IASRI M.Sc Ph.D Scholarship",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Indian Council of Agricultural Research",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "M.Sc students",
+    "Ph.D students",
+    "Postgraduate students",
+    "Doctoral candidates"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This central scholarship is offered by the Indian Agricultural Statistics Research Institute for M.Sc and Ph.D students pursuing studies related to agricultural statistics and computer applications.",
+  "descriptionMd": "The IASRI Scholarship provides financial support to students pursuing M.Sc and Ph.D degrees. This scheme aims to foster advanced education and research in the critical fields of agricultural statistics and computer applications. It is offered by the Indian Agricultural Statistics Research Institute, a leading institution under the Indian Council of Agricultural Research.",
+  "benefitsMd": "* Financial assistance for M.Sc students.\n* Financial assistance for Ph.D students.\n* Support for education and research in agricultural statistics and computer application.\n* Specific scholarship amounts and terms can be found on the official scheme portal.",
+  "eligibilityMd": "* Individuals enrolled in an M.Sc program are eligible to apply.\n* Individuals enrolled in a Ph.D program are eligible to apply.\n* Further specific eligibility criteria are available on the official scheme portal.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}
