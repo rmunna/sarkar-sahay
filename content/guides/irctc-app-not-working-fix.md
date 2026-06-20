@@ -1,6 +1,6 @@
 ---
-title: "IRCTC App Not Working Today (May 2026)? Fix Login, OTP & Server Error in 5 Min"
-description: "IRCTC app not working in May 2026? Fix server error, OTP not received, login failure and app crash — step by step. Check IRCTC server status, clear cache, update the app. Most users fixed in under 5 minutes."
+title: "IRCTC App Not Working Today (June 2026)? Fix Login, OTP & Server Error in 5 Min"
+description: "IRCTC app not working in June 2026? Fix server error, OTP not received, login failure and app crash — step by step. Check IRCTC server status, clear cache, update the app. Most users fixed in under 5 minutes."
 category: "Utilities"
 keywords:
   - irctc app not working today

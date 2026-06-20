@@ -1,6 +1,6 @@
 ---
-title: "Transfer Certificate (TC) — How to Get from School or College in India"
-description: "Complete guide to getting a Transfer Certificate from school or college in India. Process, documents, fees, timeline, and what to do if the school is closed."
+title: "School Transfer Certificate (TC) 2026 — Application Format, Documents & 3-Day Process"
+description: "Get your Transfer Certificate (TC) from school or college in India. Submit written application to principal, get TC in 3–7 days (free in government schools). Includes TC application format, what to do if school is closed or refuses."
 category: "Certificates"
 keywords: ["transfer certificate", "TC from school", "TC from college", "school leaving certificate", "how to get TC", "transfer certificate India"]
 readingTime: "7 min"

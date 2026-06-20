@@ -1,6 +1,6 @@
 ---
-title: "Kerala eDistrict: Apply for Certificates Online"
-description: "Apply for income, caste, nativity, and residence certificates on Kerala eDistrict. Complete process, documents, fees, and timeline."
+title: "Kerala eDistrict Certificate Apply Online 2026 — Income, Caste & Nativity at edistrict.kerala.gov.in"
+description: "Apply for Kerala income, caste, nativity, residence or community certificate on edistrict.kerala.gov.in. Documents needed, fees (₹15–₹30), processing time (7–15 days), and how to download digitally signed certificate — step-by-step 2026 guide."
 category: "Certificates"
 keywords: ["kerala edistrict", "edistrict kerala", "income certificate kerala", "caste certificate kerala", "nativity certificate kerala", "residence certificate online", "edistrict.kerala.gov.in"]
 readingTime: "9 min"

@@ -1,6 +1,6 @@
 ---
-title: "UP eDistrict Portal 2026 — Apply, Track Status & Download Certificate"
-description: "Step-by-step guide to edistrict.up.gov.in: apply for UP income, caste, domicile or birth certificate, check application status, and download the digitally signed copy — works for all 75 UP districts."
+title: "UP Income, Caste & Domicile Certificate Apply Online 2026 — edistrict.up.gov.in"
+description: "Apply for UP income, caste, domicile, birth or residence certificate on edistrict.up.gov.in in 10 minutes. Digitally signed copy ready in 7–15 days. Covers all 75 UP districts — Lucknow, Varanasi, Agra, Prayagraj and more."
 category: "Certificates"
 keywords: ["edistrict up", "up edistrict portal", "edistrict up gov in", "up income certificate online", "up caste certificate online", "up domicile certificate", "up certificate status check", "uttar pradesh certificate apply", "edistrict up login", "up certificate download"]
 readingTime: "8 min"

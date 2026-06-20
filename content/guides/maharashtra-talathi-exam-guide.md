@@ -1,6 +1,6 @@
 ---
-title: "Maharashtra Talathi 2026 — MRB/MPSC Notification, Salary ₹19,900, Eligibility & Syllabus"
-description: "Maharashtra Talathi 2026 by MRB: Salary ₹19,900–₹63,200. Apply at maharecruitment.mahaonline.gov.in. Graduation required. Written exam (100 marks CBT) + Computer test. Maharashtra domicile (15 yrs)."
+title: "Maharashtra Talathi Bharti 2026 — MRB Notification, Salary ₹19,900 & Syllabus (Apply Online)"
+description: "Maharashtra Talathi 2026 by MRB: Salary ₹19,900–₹63,200. Apply at maharecruitment.mahaonline.gov.in. Graduation required. Written exam (100 marks CBT) + Computer proficiency test. Maharashtra domicile (15 yrs). Exam date, eligibility and full syllabus inside."
 category: "Jobs & Exams"
 keywords: ["Maharashtra Talathi exam","Maha Talathi eligibility","Talathi Bharti","Maharashtra Revenue Talathi","Talathi exam pattern"]
 readingTime: "8 min"

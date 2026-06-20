@@ -1,6 +1,6 @@
 ---
-title: "MSTC Portal — How to Register, Login and Use MSTC E-Auction Platform"
-description: "Complete guide to MSTC portal registration, login, and e-auction participation. Steps for buyer registration, EMD, bidding process."
+title: "MSTC E-Auction Portal 2026 — Buyer Registration, Login & How to Bid Online"
+description: "Register on MSTC e-commerce portal (mstcecommerce.com) as a buyer, pay EMD online, and bid in government e-auctions for scrap, vehicles, land and more. Step-by-step login, registration and bidding guide for 2026."
 category: "Utilities"
 keywords: ["MSTC registration", "MSTC e-auction", "MSTC portal login", "MSTC buyer registration", "MSTC ecommerce", "government e-auction India", "MSTC Limited"]
 readingTime: "8 min"

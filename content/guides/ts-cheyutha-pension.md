@@ -1,8 +1,6 @@
 ---
-title: Cheyutha Pension Telangana – Pension for Women 45-60, Eligibility & Apply
-description: >-
-  Guide to Telangana Cheyutha pension scheme for women aged 45-60 from SC, ST,
-  BC, and minority communities. Check amount, eligibility, and how to apply.
+title: "Cheyutha Pension Telangana 2026 — ₹2,016/Month for SC/ST/BC Women 45-60, Apply & Status"
+description: "Telangana Cheyutha pension gives ₹2,016/month to women aged 45–60 from SC, ST, BC and minority communities with no income. Apply at ts.meeseva.gov.in or nearest MeeSeva centre. Check payment status on discharge.telangana.gov.in."
 category: State Schemes
 keywords:
   - Cheyutha pension Telangana

@@ -1,6 +1,6 @@
 ---
-title: "Abua Awas Yojana Jharkhand: How to Apply"
-description: "Complete guide to Jharkhand Abua Awas Yojana — free pucca house with ₹2 lakh assistance. Eligibility, documents, and application process."
+title: "Abua Awas Yojana Jharkhand 2026 — Free Pucca House + ₹2 Lakh, Apply & Check Status"
+description: "Jharkhand Abua Awas Yojana gives eligible families a free 3-room pucca house with ₹2 lakh assistance. Apply through Gram Panchayat or check your name in the beneficiary list. Eligibility: BPL family, no pucca house, Jharkhand resident."
 category: "State Schemes"
 keywords:
   - abua awas yojana jharkhand

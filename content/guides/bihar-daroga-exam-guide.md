@@ -1,6 +1,6 @@
 ---
-title: "Bihar Daroga (SI) 2026 — BPSSC Notification, Salary ₹35,400, Eligibility & Syllabus"
-description: "Bihar Daroga/SI 2026 by BPSSC: Salary ₹35,400–₹1,12,400. Graduation required. Apply at bpssc.bih.nic.in. Prelim (200 marks, OMR) + Mains + Physical Test + Medical. Bihar domicile."
+title: "Bihar Daroga SI 2026 — BPSSC Apply at bpssc.bih.nic.in, Salary ₹35,400 & Exam Date"
+description: "Bihar Daroga (Sub-Inspector) 2026 by BPSSC: Salary ₹35,400–₹1,12,400. Graduation required. Apply at bpssc.bih.nic.in. Prelim (200 marks, OMR) + Mains + Physical Test + Medical. Check notification, exam date, eligibility and full syllabus."
 category: "Jobs & Exams"
 keywords: ["Bihar Daroga exam","Bihar SI Daroga","BPSSC Daroga","Bihar Daroga eligibility","Bihar Daroga syllabus"]
 readingTime: "8 min"

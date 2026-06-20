@@ -1,200 +1,425 @@
 {
-  "scannedAt": "2026-06-19T11:00:03.927904",
+  "scannedAt": "2026-06-20T09:33:16.182019",
   "results": [
     {
-      "topic": "neet ug \u00b7 2026",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "rpsc",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ap 10th class supplementary results",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "nmms-scholarship-class-8-apply",
+      "topic": "re neet admit card 2026 link",
+      "category": "Jobs",
+      "rising_value": 3950,
+      "guide_exists": "neet-ug-apply-admit-card-results",
       "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "neet admit card download",
+      "category": "Jobs",
+      "rising_value": 3350,
+      "guide_exists": "neet-ug-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "ugc net admit card june 2026",
+      "category": "Jobs",
+      "rising_value": 2700,
+      "guide_exists": "neet-ug-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "nta neet admit card 2026",
+      "category": "Jobs",
+      "rising_value": 2250,
+      "guide_exists": "neet-ug-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "neet admit card",
+      "category": "Jobs",
+      "rising_value": 2150,
+      "guide_exists": "neet-ug-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "icai result",
+      "category": "Jobs",
+      "rising_value": 1850,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "re neet admit card 2026",
+      "category": "Jobs",
+      "rising_value": 1650,
+      "guide_exists": "neet-ug-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "neet admit card 2026",
+      "category": "Jobs",
+      "rising_value": 1550,
+      "guide_exists": "neet-ug-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "ugc net admit card 2026",
+      "category": "Jobs",
+      "rising_value": 1400,
+      "guide_exists": "neet-ug-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "nta neet",
+      "category": "Jobs",
+      "rising_value": 1200,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false
+    },
+    {
+      "topic": "ugc net admit card",
+      "category": "Jobs",
+      "rising_value": 1200,
+      "guide_exists": "neet-ug-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "eamcet results 2026 ap",
+      "category": "Jobs",
+      "rising_value": 750,
+      "guide_exists": "ap-eamcet-2026-exam-guide",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "ap inter supplementary results 2026",
+      "category": "Jobs",
+      "rising_value": 650,
+      "guide_exists": "inter-caste-marriage-benefits",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "quantum entanglement",
+      "category": "Education",
+      "rising_value": 600,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false
+    },
+    {
+      "topic": "cbse class 10 result 2026 second board",
+      "category": "Jobs",
+      "rising_value": 500,
+      "guide_exists": "cbse-board-exam-admit-card-fix",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "sebexam org",
+      "category": "Education",
+      "rising_value": 450,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false
+    },
+    {
+      "topic": "neet",
+      "category": "Jobs",
+      "rising_value": 400,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false
+    },
+    {
+      "topic": "msbte result",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": "msbte-result-summer-2026",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "ap eamcet result 2026",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": "ap-eamcet-2026-exam-guide",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "msbte result summer 2026",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": "msbte-result-summer-2026",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "msbte",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": "msbte-result-summer-2026",
+      "is_spike": false,
+      "is_scheme": false
+    },
+    {
+      "topic": "ssc gov in",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false
+    },
+    {
+      "topic": "pm kisan",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": "kisan-suryoday-yojana-gujarat-3-phase-power",
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "anna university",
+      "topic": "pradhan mantri viksit bharat rozgar yojana",
       "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
-      "guide_exists": "anna-university-results-2026",
+      "guide_exists": "ayushman-bharat-vs-state-health-schemes",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "pm kisan beneficiary list",
-      "category": "Realtime RSS (IN-AP)",
+      "topic": "ssc delhi police constable",
+      "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
-      "guide_exists": "sbi-beneficiary-add-failed-fix",
+      "guide_exists": "delhi-government-schemes-services",
       "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "download ap eamcet 2026 rank card",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
-      "guide_exists": "ts-eamcet-2026-exam-guide",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "results",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "10th class result",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
-      "guide_exists": "nmms-scholarship-class-8-apply",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "epfo 8.25 percent interest",
-      "category": "Realtime RSS (IN-TG)",
-      "rising_value": 100,
-      "guide_exists": "best-savings-account-interest-rates-india-2026",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "aiims bsc nursing admit card 2026 link",
-      "category": "Realtime RSS (IN-MH)",
-      "rising_value": 100,
-      "guide_exists": "jee-main-apply-admit-card-results",
-      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "neet ug \u00b7 2026",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "rpsc",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "results",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
+      "topic": "icai result",
+      "category": "Jobs",
+      "rising_value": 1850,
       "guide_exists": null,
       "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
+      "is_scheme": false
+    },
+    {
+      "topic": "nta neet",
+      "category": "Jobs",
+      "rising_value": 1200,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false
+    },
+    {
+      "topic": "quantum entanglement",
+      "category": "Education",
+      "rising_value": 600,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false
+    },
+    {
+      "topic": "sebexam org",
+      "category": "Education",
+      "rising_value": 450,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false
+    },
+    {
+      "topic": "neet",
+      "category": "Jobs",
+      "rising_value": 400,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false
+    },
+    {
+      "topic": "ssc gov in",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false
     }
   ],
   "covered": [
     {
-      "topic": "ap 10th class supplementary results",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "nmms-scholarship-class-8-apply",
+      "topic": "re neet admit card 2026 link",
+      "category": "Jobs",
+      "rising_value": 3950,
+      "guide_exists": "neet-ug-apply-admit-card-results",
       "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "neet admit card download",
+      "category": "Jobs",
+      "rising_value": 3350,
+      "guide_exists": "neet-ug-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "ugc net admit card june 2026",
+      "category": "Jobs",
+      "rising_value": 2700,
+      "guide_exists": "neet-ug-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "nta neet admit card 2026",
+      "category": "Jobs",
+      "rising_value": 2250,
+      "guide_exists": "neet-ug-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "neet admit card",
+      "category": "Jobs",
+      "rising_value": 2150,
+      "guide_exists": "neet-ug-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "re neet admit card 2026",
+      "category": "Jobs",
+      "rising_value": 1650,
+      "guide_exists": "neet-ug-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "neet admit card 2026",
+      "category": "Jobs",
+      "rising_value": 1550,
+      "guide_exists": "neet-ug-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "ugc net admit card 2026",
+      "category": "Jobs",
+      "rising_value": 1400,
+      "guide_exists": "neet-ug-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "ugc net admit card",
+      "category": "Jobs",
+      "rising_value": 1200,
+      "guide_exists": "neet-ug-apply-admit-card-results",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "eamcet results 2026 ap",
+      "category": "Jobs",
+      "rising_value": 750,
+      "guide_exists": "ap-eamcet-2026-exam-guide",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "ap inter supplementary results 2026",
+      "category": "Jobs",
+      "rising_value": 650,
+      "guide_exists": "inter-caste-marriage-benefits",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "cbse class 10 result 2026 second board",
+      "category": "Jobs",
+      "rising_value": 500,
+      "guide_exists": "cbse-board-exam-admit-card-fix",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "msbte result",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": "msbte-result-summer-2026",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "ap eamcet result 2026",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": "ap-eamcet-2026-exam-guide",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "msbte result summer 2026",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": "msbte-result-summer-2026",
+      "is_spike": true,
+      "is_scheme": false
+    },
+    {
+      "topic": "msbte",
+      "category": "Jobs",
+      "rising_value": 300,
+      "guide_exists": "msbte-result-summer-2026",
+      "is_spike": false,
+      "is_scheme": false
+    },
+    {
+      "topic": "pm kisan",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": "kisan-suryoday-yojana-gujarat-3-phase-power",
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "anna university",
+      "topic": "pradhan mantri viksit bharat rozgar yojana",
       "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
-      "guide_exists": "anna-university-results-2026",
+      "guide_exists": "ayushman-bharat-vs-state-health-schemes",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "pm kisan beneficiary list",
-      "category": "Realtime RSS (IN-AP)",
+      "topic": "ssc delhi police constable",
+      "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
-      "guide_exists": "sbi-beneficiary-add-failed-fix",
+      "guide_exists": "delhi-government-schemes-services",
       "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "download ap eamcet 2026 rank card",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
-      "guide_exists": "ts-eamcet-2026-exam-guide",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "10th class result",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
-      "guide_exists": "nmms-scholarship-class-8-apply",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "epfo 8.25 percent interest",
-      "category": "Realtime RSS (IN-TG)",
-      "rising_value": 100,
-      "guide_exists": "best-savings-account-interest-rates-india-2026",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "aiims bsc nursing admit card 2026 link",
-      "category": "Realtime RSS (IN-MH)",
-      "rising_value": 100,
-      "guide_exists": "jee-main-apply-admit-card-results",
-      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "results",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
+      "topic": "icai result",
+      "category": "Jobs",
+      "rising_value": 1850,
       "guide_exists": null,
       "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
+      "is_scheme": false
     }
   ],
   "scheme_opportunities": []

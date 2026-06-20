@@ -1,6 +1,6 @@
 ---
-title: "DigiLocker Aadhaar Verification Failed? Fix It Now"
-description: "DigiLocker showing 'Aadhaar already registered' or verification failed? Fix sign-up errors, KYC issues & connection refused. Working solutions."
+title: "DigiLocker Aadhaar Verification Failed 2026 — Fix 'Already Registered' & OTP Error"
+description: "DigiLocker says 'Aadhaar already registered' or OTP not coming? 3 working fixes: sign in with existing account, update Aadhaar mobile at Seva Kendra, or use biometric login at CSC. Resolved in 15 minutes."
 category: "Utilities"
 keywords:
   - digilocker aadhaar verification failed

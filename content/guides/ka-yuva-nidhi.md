@@ -1,6 +1,6 @@
 ---
-title: "Yuva Nidhi Scheme Karnataka – How to Apply & Benefits"
-description: "Karnataka Yuva Nidhi scheme guide. Unemployed graduates get ₹3,000/month and diploma holders ₹1,500/month. Eligibility and how to apply."
+title: "Yuva Nidhi Karnataka 2026 — ₹3,000/Month Unemployment Aid, Eligibility & Apply Online"
+description: "Karnataka Yuva Nidhi gives ₹3,000/month to unemployed degree/engineering graduates and ₹1,500/month to diploma holders for 2 years. Apply at sevasindhuservices.karnataka.gov.in. Eligibility: passed in 2023–24 or 2024–25, no govt job, Karnataka resident."
 category: "State Schemes"
 keywords: ["yuva nidhi scheme", "karnataka yuva nidhi", "yuva nidhi apply online", "karnataka unemployment allowance", "yuva nidhi eligibility"]
 lastUpdated: "2026-03-05"
