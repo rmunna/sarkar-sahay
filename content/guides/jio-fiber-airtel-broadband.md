@@ -1,6 +1,6 @@
 ---
-title: "Jio Fiber vs Airtel Xstream 2026 — Plans & Speed"
-description: "Jio Fiber vs Airtel Xstream Fiber 2026 — compare plans, prices, speed & OTT bundles side by side. Find the best broadband for your home. Decide now."
+title: "Jio Fiber vs Airtel Xstream Fiber 2026 — Plans from ₹399 vs ₹499, Speed & OTT Compared"
+description: "Jio Fiber starts at ₹399/month (30 Mbps) vs Airtel Xstream from ₹499/month (40 Mbps). Compare speeds up to 1 Gbps, OTT bundles (Netflix, Hotstar, Amazon), installation charges and customer service ratings — find which is better for your area."
 category: "Utilities"
 keywords:
   - jio fiber plans

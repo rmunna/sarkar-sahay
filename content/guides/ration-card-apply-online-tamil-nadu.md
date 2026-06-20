@@ -1,6 +1,6 @@
 ---
-title: "Ration Card Apply Online Tamil Nadu 2026 — TNPDS New Smart Card"
-description: "Ration card apply online Tamil Nadu guide: use the official TNPDS portal for new smart card application, documents, status check, correction and grievance steps."
+title: "Tamil Nadu Ration Card Apply Online 2026 — TNPDS New Smart Card, Status & Correction"
+description: "Apply for Tamil Nadu ration card at tnpds.gov.in — new smart card, add/remove member, correction, transfer and status check. Documents: Aadhaar, voter ID, electricity bill. Processing time: 30–45 days. Check your smart card delivery status online."
 category: Food & Ration
 keywords:
   - Tamil Nadu ration card

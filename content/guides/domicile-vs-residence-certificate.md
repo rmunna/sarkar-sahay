@@ -1,6 +1,6 @@
 ---
-title: "Domicile Certificate vs Residence Certificate — Differences, Uses, and How to Apply"
-description: "Understand the difference between domicile and residence certificate — purpose, validity, eligibility, application process, and when you need which."
+title: "Domicile Certificate vs Residence Certificate 2026 — Key Difference & When You Need Which"
+description: "Domicile certificate (3–5 year validity) is needed for education/job reservations. Residence certificate is a temporary address proof. Both are issued by the Tehsildar. Learn which you need, documents required and how to apply in your state."
 category: "Certificates"
 keywords: ["domicile vs residence certificate", "difference between domicile and residence", "domicile certificate India", "residence certificate uses", "state domicile certificate"]
 readingTime: "7 min"

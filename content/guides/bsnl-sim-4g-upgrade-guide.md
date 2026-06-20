@@ -1,6 +1,6 @@
 ---
-title: "BSNL New SIM Price 2026 — Free 4G Upgrade, Port to BSNL & Keep Your Number"
-description: "BSNL SIM available at ₹20–₹100 depending on plan. 4G SIM upgrade is completely FREE — visit any BSNL office or CSC, keep your existing number. Port from Airtel/Jio in 7 days. Docs: Aadhaar + old SIM."
+title: "BSNL 4G SIM Upgrade Free 2026 — Keep Your Old Number, Visit Office or CSC (No Cost)"
+description: "BSNL 4G SIM upgrade is completely FREE — visit any BSNL Customer Service Centre or CSC with your old SIM + Aadhaar. New BSNL SIM price ₹20–₹100. Port from Airtel/Jio to BSNL in 7 days. Speed up to 30 Mbps on 4G network."
 category: Utilities
 keywords:
   - bsnl 4g sim upgrade

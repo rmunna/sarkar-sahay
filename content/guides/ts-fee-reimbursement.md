@@ -1,8 +1,6 @@
 ---
-title: "Telangana Fee Reimbursement Scheme – How to Apply & Benefits"
-description: >-
-  Guide to Telangana fee reimbursement scheme for EWS students. Full college fee
-  coverage for SC/ST/BC/Minority students. Eligibility and how to apply.
+title: "Telangana Fee Reimbursement Scheme 2026 — Full Fee Waiver for SC/ST/BC, How to Apply"
+description: "Telangana Fee Reimbursement gives full tuition + special fee coverage to SC, ST, BC, EWS and minority students in government/aided colleges. Apply via your college principal. Family income limit: ₹1.5 lakh/year. Annual renewal required — check status at tsfrs.telangana.gov.in."
 category: State Schemes
 keywords:
   - Telangana fee reimbursement

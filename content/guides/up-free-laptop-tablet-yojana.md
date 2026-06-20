@@ -1,6 +1,6 @@
 ---
-title: "UP Free Laptop/Tablet Yojana — How to Apply & Benefits"
-description: "Complete guide to UP Free Laptop and Tablet Yojana. Check eligibility criteria, application process, beneficiary list, and distribution details."
+title: "UP Free Laptop Tablet Yojana 2026 — Eligibility, Beneficiary List & Distribution Date"
+description: "UP government free laptop and tablet scheme 2026 for Class 10 and 12 UP Board students. Check beneficiary list, distribution date and registration at upcmo.up.nic.in. Eligibility: passed with good marks, UP resident, government school student."
 category: "State Schemes"
 keywords: ["UP free laptop yojana", "UP free tablet scheme", "UP laptop tablet yojana 2025", "UP free laptop eligibility", "Yogi laptop scheme UP"]
 readingTime: "7 min"

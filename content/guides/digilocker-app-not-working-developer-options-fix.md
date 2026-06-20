@@ -1,6 +1,6 @@
 ---
-title: "DigiLocker App Not Working? Fix Developer Options & Rooted Phone Issues"
-description: "Fix DigiLocker app not working due to developer options, rooted phone detection, or app crashes. Step-by-step troubleshooting guide."
+title: "DigiLocker App Not Working 2026 — Fix Developer Options, Rooted Phone & Crash Errors"
+description: "DigiLocker app not opening or crashing? Fix: turn off developer options in Android settings → clear app data → reinstall. Rooted phones fail the security check — use web version at digilocker.gov.in instead. Step-by-step fix for all Android versions."
 category: Identity Documents
 keywords:
   - digilocker not working developer options

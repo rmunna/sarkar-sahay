@@ -1,6 +1,6 @@
 ---
-title: "Assam Pragyan Bharati Scooty Scheme 2026 — HS Percentage, Eligibility & Apply"
-description: "Assam Pragyan Bharati Scooty Scheme 2026: free scooty for Class 12 girls scoring 60%+ (HS exam). Eligibility: Assam domicile, girl student, government/provincial school. How to apply, documents, and distribution date."
+title: "Assam Pragyan Bharati Free Scooty 2026 — 60% in HS Exam for Girls, Check Distribution Date"
+description: "Class 12 girl students scoring 60%+ in Assam HS (Higher Secondary) exam get a free scooty under Pragyan Bharati Scooty Scheme. Eligibility: Assam domicile, government or provincial school, girl student. Check distribution date, application process and documents needed."
 category: "State Schemes"
 keywords:
   - assam pragyan bharati scooty scheme 2026

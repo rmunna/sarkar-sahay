@@ -1,6 +1,6 @@
 ---
-title: "Khata Nakal Rajasthan — Apna Khata Jamabandi Nakal Online (apnakhata.raj.nic.in)"
-description: "Download khata nakal (jamabandi copy) from Apna Khata Rajasthan at apnakhata.raj.nic.in. View land records by district, tehsil, khasra number, and owner name — step-by-step guide."
+title: "Rajasthan Apna Khata Land Record 2026 — Download Jamabandi Nakal at apnakhata.raj.nic.in"
+description: "Check and download Rajasthan jamabandi nakal (khata nakal) at apnakhata.raj.nic.in. Search by owner name, khasra number or khata number. Free ROR download for all 33 Rajasthan districts — Jaipur, Jodhpur, Udaipur, Kota and more. Step-by-step 2026 guide."
 category: "Property & Legal"
 keywords: ["khata nakal", "khata nakal rajasthan", "apna khata rajasthan", "jamabandi nakal rajasthan", "apnakhata.raj.nic.in", "nakal khata", "online jamabandi rajasthan", "khasra number search rajasthan", "rajasthan land record"]
 readingTime: "8 min"

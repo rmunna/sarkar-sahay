@@ -1,6 +1,6 @@
 ---
-title: "BHIM App Not Working? Fix Login & Payment Errors"
-description: "BHIM app not working, crashing, or showing login errors? Fix server errors, payment failures, cache issues, and update problems with this step-by-step guide."
+title: "BHIM App Not Working 2026? Fix Login Failed, Payment Error & Bank Not Linking"
+description: "BHIM UPI app not working? Fix: update to latest version, clear cache and data, re-link bank account, reset UPI PIN. Payment failed → check ₹1 lakh/day limit. Server down → wait 15 minutes and retry. Step-by-step fix for all Android and iOS errors."
 category: "Utilities"
 keywords:
   - bhim app not working

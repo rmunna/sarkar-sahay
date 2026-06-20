@@ -1,6 +1,6 @@
 ---
-title: "How to Get Stamp Paper Online — e-Stamp Certificate via SHCIL"
-description: "Complete guide to buying e-stamp paper online through SHCIL portal. Steps to get e-stamp certificate, verification, stamp duty, and valid use cases."
+title: "e-Stamp Paper Online 2026 — Buy via SHCIL at shcilestamp.com, Download & Verify"
+description: "Buy e-stamp paper online at shcilestamp.com in denominations from ₹10 to ₹25,000. Pay stamp duty, download e-stamp certificate instantly. Valid for rent agreement, sale deed, affidavit and power of attorney. State-wise availability and step-by-step guide."
 category: "Property & Legal"
 keywords:
   - "e-stamp paper online"

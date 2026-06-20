@@ -1,6 +1,6 @@
 ---
-title: "DigiLocker Login Not Working? 7 Proven Fixes to Get Back In"
-description: "DigiLocker login not working? Fix OTP not received, Aadhaar rejected, forgotten PIN, locked account, and missing documents with this step-by-step guide."
+title: "DigiLocker Login Not Working 2026? Fix OTP Not Coming, PIN Forgot & Account Locked"
+description: "DigiLocker login failing? Fix: OTP not coming → update Aadhaar-linked mobile at Seva Kendra; PIN forgotten → reset via Aadhaar OTP; account locked → wait 24 hours or email digilocker@gov.in. All 7 login errors fixed step by step — 5 minutes."
 category: "Utilities"
 keywords:
   - digilocker login not working

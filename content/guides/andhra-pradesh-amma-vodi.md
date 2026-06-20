@@ -1,6 +1,6 @@
 ---
-title: "Andhra Pradesh Amma Vodi Scheme — How to Apply & Benefits"
-description: "Complete guide to AP Amma Vodi scheme providing ₹15,000 annually to mothers for children's education including eligibility and application."
+title: "AP Amma Vodi Scheme 2026 — ₹15,000/Year for Mothers, Eligibility & Payment Status"
+description: "AP Amma Vodi gives ₹15,000/year directly to mothers of children studying in Classes 1–12 in AP government schools. Check payment status at jaganannaammavodi.ap.gov.in. Eligibility: mother as applicant, child in AP govt school, family below income limit."
 category: "State Schemes"
 keywords: ["Amma Vodi scheme", "AP Amma Vodi", "Andhra Pradesh education scheme", "Amma Vodi eligibility", "Amma Vodi apply"]
 readingTime: "7 min"
