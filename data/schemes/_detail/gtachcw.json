@@ -1,0 +1,22 @@
+{
+  "slug": "gtachcw",
+  "name": "Grant of Token Amount for Construction of House for the Construction Workers",
+  "shortTitle": "House Grant for Workers",
+  "level": "state",
+  "state": "dadra-nagar-haveli-and-daman-diu",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Construction Workers"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This scheme provides financial assistance to eligible registered construction workers for constructing a house, aiming to support their housing needs.",
+  "descriptionMd": "The 'Grant of Token Amount for Construction of House for the Construction Workers' is a welfare scheme initiated by the BOCW Welfare Board, Labour Department, U.T. Administration of DNH & DD. It provides financial assistance to eligible registered members for the construction of their houses. This scheme aims to support construction workers in achieving stable and adequate housing.",
+  "benefitsMd": "*   Financial assistance for the construction of a house.\n*   Support provided to eligible registered members.",
+  "eligibilityMd": "*   Must be a construction worker.\n*   Must be an eligible registered member.\n*   Assistance is provided for the construction of a house.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

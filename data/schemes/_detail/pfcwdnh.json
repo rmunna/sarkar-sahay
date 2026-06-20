@@ -1,0 +1,22 @@
+{
+  "slug": "pfcwdnh",
+  "name": "Pension for the Construction Workers",
+  "shortTitle": "Construction Worker Pension",
+  "level": "state",
+  "state": "dadra-nagar-haveli-and-daman-diu",
+  "nodalDept": "BOCW Welfare Board, Labour Department, U.T. Administration of DNH & DD",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Construction Workers"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The scheme provides a monthly pension to eligible registered construction workers after they complete 60 years of age, ensuring welfare and financial security.",
+  "descriptionMd": "The \"Pension for the Construction Workers\" scheme is a welfare initiative by the BOCW Welfare Board, Labour Department, U.T. Administration of DNH & DD. It aims to provide financial security to registered construction workers by offering a monthly pension upon reaching 60 years of age. This scheme supports the livelihood of those who have contributed to the construction sector.",
+  "benefitsMd": "- Monthly pension after completion of 60 years of age.",
+  "eligibilityMd": "- Must be an eligible registered member.\n- Must have completed 60 years of age.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

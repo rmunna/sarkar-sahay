@@ -1,0 +1,22 @@
+{
+  "slug": "mkky",
+  "name": "Mukhyamantri Kisaan Kalyaan Yojana",
+  "shortTitle": "Kisaan Kalyaan Yojana",
+  "level": "state",
+  "state": "madhya-pradesh",
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Farmers"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The Mukhyamantri Kisaan Kalyaan Yojana, launched in 2020 by the Madhya Pradesh Chief Minister, provides financial assistance to farmers.",
+  "descriptionMd": "The Mukhyamantri Kisaan Kalyaan Yojana was initiated in 2020 by the Chief Minister of Madhya Pradesh. This state-level scheme aims to provide crucial financial support to farmers within the state. It is designed to enhance the welfare and economic stability of the agricultural community.",
+  "benefitsMd": "*   Provides financial assistance to farmers. Contact the official scheme portal for details on specific amounts.",
+  "eligibilityMd": "*   Must be a farmer.\n*   Resides in Madhya Pradesh.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

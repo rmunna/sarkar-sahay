@@ -1,0 +1,22 @@
+{
+  "slug": "sdftcw",
+  "name": "Skill Development for the Construction Workers",
+  "shortTitle": "Skill Dev Construction",
+  "level": "state",
+  "state": "dadra-nagar-haveli-and-daman-diu",
+  "nodalDept": "BOCW Welfare Board, Labour Department, U.T. of DNH & DD",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Construction workers"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This welfare scheme provides financial assistance as a stipend to construction workers who undertake training programs under the Pradhan Mantri Kaushal Vikas Yojana.",
+  "descriptionMd": "The \"Skill Development for the Construction Workers\" scheme is an initiative by the BOCW Welfare Board, Labour Department, U.T. of DNH & DD.\n\nIt aims to empower construction workers by offering financial support to those who participate in skill development training programs, specifically those conducted under the Pradhan Mantri Kaushal Vikas Yojana. This support helps workers gain valuable skills, improving their employability and overall welfare.",
+  "benefitsMd": "- Financial assistance provided in the form of a stipend.\n- Support for attending training programs under Pradhan Mantri Kaushal Vikas Yojana.",
+  "eligibilityMd": "- Must be a construction worker.\n- Must attend training programs under \"Pradhan Mantri Kaushal Vikas Yojana\".\n- The scheme is managed by the BOCW Welfare Board, Labour Department, U.T. of DNH & DD, implying association with this body for beneficiaries in the specified Union Territory.",
+  "exclusionsMd": "- Individuals who are not construction workers are not eligible.\n- Those not attending training programs under \"Pradhan Mantri Kaushal Vikas Yojana\" are excluded.",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

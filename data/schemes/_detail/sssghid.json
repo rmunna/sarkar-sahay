@@ -1,0 +1,22 @@
+{
+  "slug": "sssghid",
+  "name": "Stipend To Students Studying at Govt. Hindi Institute Dimapur",
+  "shortTitle": "Dimapur Hindi Institute Stipend",
+  "level": "state",
+  "state": "nagaland",
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Students enrolled at the Government Hindi Institute, Dimapur"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The scheme aims to provide financial support to students enrolled at the Government Hindi Institute, Dimapur. A monthly stipend is given from the State Government's scholarship fund.",
+  "descriptionMd": "The Stipend To Students Studying at Govt. Hindi Institute Dimapur scheme offers financial support to eligible students. It provides a monthly stipend to help with educational expenses, funded by the State Government's allocated scholarship fund. This initiative aims to encourage enrollment and support students pursuing Hindi studies in Dimapur.",
+  "benefitsMd": "- Monthly stipend of ₹400/-.\n- Provides financial support to students.",
+  "eligibilityMd": "- The applicant must be a student.\n- The student must be studying at the Government Hindi Institute.\n- The Government Hindi Institute must be located in Dimapur.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "fafmftcwd",
+  "name": "Financial assistance for Marriage for the Construction Worker",
+  "shortTitle": "Marriage Aid for Construction Workers",
+  "level": "state",
+  "state": "dadra-nagar-haveli-and-daman-diu",
+  "nodalDept": "BOCW Welfare Board, Labour Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Construction Workers",
+    "Building Workers"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This scheme provides financial assistance for the marriage of construction workers themselves and for up to two of their children, managed by the DNH & DD Labour Department.",
+  "descriptionMd": "The \"Financial Assistance for Marriage for the Construction Worker\" is a welfare initiative by the BOCW Welfare Board, Labour Department, U.T. Administration of DNH & DD. It aims to support building workers by alleviating the financial burden associated with marriage expenses. This scheme covers the marriage of the worker and their eligible children, contributing to their social welfare.",
+  "benefitsMd": "*   Financial assistance for the marriage of the registered building worker.\n*   Financial assistance for the marriage of up to two children of the registered building worker.\n*   Aims to provide welfare and support to building workers in Dadra Nagar Haveli and Daman Diu.",
+  "eligibilityMd": "*   The applicant must be a registered building or construction worker.\n*   The benefit applies to the marriage of the worker themselves.\n*   The benefit also applies to the marriage of their children, up to a maximum of two children.\n*   The worker must be associated with the BOCW Welfare Board, Labour Department, U.T. Administration of DNH & DD.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

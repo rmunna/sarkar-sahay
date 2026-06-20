@@ -1,0 +1,22 @@
+{
+  "slug": "prftcw",
+  "name": "Promoting Registration for the Construction Workers",
+  "shortTitle": "Workers Registration Scheme",
+  "level": "state",
+  "state": "dadra-nagar-haveli-and-daman-diu",
+  "nodalDept": "BOCW Welfare Board, Labour Department, U.T. of DNH & DD",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Registered Construction Workers"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This scheme by the BOCW Welfare Board provides essential items like sleeping mats, blankets, or mosquito nets to registered construction workers to encourage registration.",
+  "descriptionMd": "The 'Promoting Registration for the Construction Workers' scheme, managed by the BOCW Welfare Board, Labour Department, U.T. of DNH & DD, aims to encourage construction workers to register with the Board. It achieves this by providing tangible welfare benefits to those who are registered, thereby improving their living conditions and promoting formalization.",
+  "benefitsMd": "- Provision of a sleeping mat\n- Provision of a blanket\n- Provision of a mosquito net",
+  "eligibilityMd": "- Must be a construction worker.\n- Must be registered with the BOCW Welfare Board.\n- Resides or works in Dadra Nagar Haveli and Daman & Diu.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

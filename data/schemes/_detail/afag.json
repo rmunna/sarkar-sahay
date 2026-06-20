@@ -1,0 +1,22 @@
+{
+  "slug": "afag",
+  "name": "Amar Fasal Amar Gola",
+  "shortTitle": "AFAG Scheme",
+  "level": "state",
+  "state": "west-bengal",
+  "nodalDept": "Contact the official scheme portal for details",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Marginal farmers of West Bengal"
+  ],
+  "benefitType": "Financial",
+  "briefDescription": "The West Bengal Government provides financial assistance to marginal farmers for building their own storehouses and acquiring vending carts.",
+  "descriptionMd": "The 'Amar Fasal Amar Gola' scheme, launched by the West Bengal Government, is a pilot project aimed at supporting marginal farmers. It provides financial assistance to enable farmers to construct their own storehouses and purchase vending carts. This initiative helps farmers improve storage facilities and market their produce more effectively.",
+  "benefitsMd": "*   Financial assistance for constructing personal storehouses.\n*   Subsidy ranging from Rs. 5,000 to Rs. 25,000 for warehouses.\n*   Financial assistance for acquiring vending carts.",
+  "eligibilityMd": "*   Beneficiaries must be marginal farmers.\n*   Farmers must be residents of West Bengal.\n*   The scheme targets farmers seeking assistance for storehouses.\n*   The scheme targets farmers seeking assistance for vending carts.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

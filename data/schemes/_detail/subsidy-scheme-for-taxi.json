@@ -1,0 +1,22 @@
+{
+  "slug": "subsidy-scheme-for-taxi",
+  "name": "Subsidy Scheme For Purchase Of Taxi / Goods Vehicle / Passenger Autorickshaw",
+  "shortTitle": "Taxi / Goods Vehicle Subsidy",
+  "level": "state",
+  "state": "karnataka",
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Individuals"
+  ],
+  "benefitType": "financial",
+  "briefDescription": "This scheme provides a financial subsidy to individuals sanctioned for a bank loan to purchase a taxi, goods vehicle, or passenger autorickshaw in Karnataka.",
+  "descriptionMd": "The Subsidy Scheme for Purchase of Taxi / Goods Vehicle / Passenger Autorickshaw offers financial assistance to eligible beneficiaries in Karnataka. It aims to support individuals who receive bank loans for purchasing commercial vehicles, thereby promoting self-employment and economic empowerment.",
+  "benefitsMd": "- Subsidy of 33% of the vehicle value or a maximum of Rs. 2.5 Lakhs, whichever is less.\n- Financial assistance for the purchase of Passenger Autorickshaw, Goods Vehicle, or Taxi.",
+  "eligibilityMd": "- Beneficiaries must be sanctioned or approved for a loan from a Bank.\n- The loan must be specifically for the purchase of a Passenger Autorickshaw, Goods Vehicle, or Taxi.\n- Women beneficiaries will receive priority during the selection process.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

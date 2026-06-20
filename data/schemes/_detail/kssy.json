@@ -1,0 +1,22 @@
+{
+  "slug": "kssy",
+  "name": "Kalinga Sikhya Sathi Yojana",
+  "shortTitle": "KSSY",
+  "level": "state",
+  "state": "odisha",
+  "nodalDept": "Department of Higher Education",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Students seeking higher education"
+  ],
+  "benefitType": "service",
+  "briefDescription": "Kalinga Sikhya Sathi Yojana (KSSY) is an Educational Loan Scheme by the Department of Higher Education, Government of Odisha, aiming to ease financial burden for students pursuing higher education.",
+  "descriptionMd": "The Kalinga Sikhya Sathi Yojana (KSSY) is an educational loan scheme launched by the Department of Higher Education, Government of Odisha. Its primary objective is to alleviate the financial burden on parents of students aspiring for higher education. This initiative enables more individuals to pursue advanced studies without financial constraints.",
+  "benefitsMd": "- Financial assistance in the form of educational loans.\n- Aims to reduce the financial burden on parents of students.\n- Facilitates access to higher education for eligible students.",
+  "eligibilityMd": "- Students aspiring to pursue higher education.\n- Parents of students who seek to reduce financial burden for higher education.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "hpmsm",
+  "name": "Haryana Pre Matric Scholarship For Minority",
+  "shortTitle": "Haryana Minority Pre-Matric Scholarship",
+  "level": "state",
+  "state": "haryana",
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Students from minority communities"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This Centrally Sponsored Scheme by the Ministry of Minority Affairs, Government of India, provides pre-matric scholarships to students from minority communities in Haryana.",
+  "descriptionMd": "Launched in June 2006 under the Prime Minister's New 15 Point Programme for the Welfare of Minorities, the Haryana Pre Matric Scholarship for Minority is a Centrally Sponsored Scheme. It aims to support students from minority communities in Haryana with their pre-matric education.",
+  "benefitsMd": "- Financial aid for students pursuing pre-matriculation courses.\n- Helps cover educational expenses for eligible minority students.",
+  "eligibilityMd": "- Applicants must be students pursuing pre-matric education.\n- Applicants must belong to one of the notified minority communities.\n- Students should be from the state of Haryana.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

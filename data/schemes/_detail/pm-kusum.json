@@ -1,0 +1,22 @@
+{
+  "slug": "pm-kusum",
+  "name": "Pradhan Mantri Kisan Urja Suraksha Evam Utthan Mahabhiyan Scheme For Farmers.",
+  "shortTitle": "PM-KUSUM Scheme",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry of New and Renewable Energy (MNRE)",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "farmers"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The PM-KUSUM Scheme provides subsidies to farmers to install solar irrigation pumps for cultivation, aiming to enhance agricultural sustainability and income.",
+  "descriptionMd": "The Pradhan Mantri Kisan Urja Suraksha Evam Utthan Mahabhiyan Yojana (PM-KUSUM) was launched by the Ministry of New and Renewable Energy (MNRE) in March 2019. It aims to empower farmers by subsidizing the installation of solar irrigation pumps. This initiative supports agricultural activities while promoting renewable energy adoption across the country.",
+  "benefitsMd": "*   Financial subsidy for solar irrigation pumps\n*   60% subsidy provided to each eligible farmer\n*   Promotes the use of renewable energy in agriculture",
+  "eligibilityMd": "*   Individuals must be farmers.\n*   Scheme supports farmers engaged in cultivation.\n*   Intended for farmers planning to install solar irrigation pumps.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

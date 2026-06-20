@@ -1,0 +1,22 @@
+{
+  "slug": "pmajay-sd",
+  "name": "Pradhan Mantri Anusuchit Jaati Abhyuday Yojana (PMAJAY): Skill Development",
+  "shortTitle": "PMAJAY Skill Development",
+  "level": "state",
+  "state": "gujarat",
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Scheduled Castes"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The PMAJAY Skill Development scheme aims to create employment and reduce poverty among Scheduled Castes through various skill training programs.",
+  "descriptionMd": "The Pradhan Mantri Anusuchit Jaati Abhyuday Yojana (PMAJAY) for Skill Development focuses on empowering Scheduled Castes. It seeks to generate additional employment opportunities and reduce poverty within this community. This is achieved by providing access to a variety of skill development programs.",
+  "benefitsMd": "- Access to various skill training programs.\n- Opportunity to gain new skills for employment.\n- Skill training programs of varying duration.",
+  "eligibilityMd": "- Individuals belonging to Scheduled Castes.\n- Those seeking to enhance their employability through skill training.\n- Contact the official scheme portal for specific criteria related to age, residence, or income.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

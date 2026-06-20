@@ -1,0 +1,23 @@
+{
+  "slug": "rfsms",
+  "name": "Research Fellowship In Sciences For Meritorious Students",
+  "shortTitle": "RFSMS Fellowship",
+  "level": "central",
+  "state": null,
+  "nodalDept": "University Grants Commission (UGC)",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Students pursuing Ph.D. in Science",
+    "Meritorious students"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This central scheme provides research fellowships to meritorious students pursuing Ph.D. in Science at select universities and centres across India.",
+  "descriptionMd": "The Research Fellowship in Sciences for Meritorious Students (RFSMS) is a central scheme by the UGC. It aims to support deserving candidates registered for Ph.D. in Science programs. This fellowship encourages advanced scientific research by providing financial assistance and recognition to bright scholars.",
+  "benefitsMd": "*   Financial support for Ph.D. research\n*   Recognition for meritorious scientific research",
+  "eligibilityMd": "*   Candidates must have registered for Ph.D. in Science.\n*   Registration must be in Universities with Potential for Excellence/Centres with Potential for Excellence/Centres of Advance Studies.\n*   Registration must also be in Departments of Special Assistance.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

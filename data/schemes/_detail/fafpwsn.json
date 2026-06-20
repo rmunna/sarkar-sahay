@@ -1,0 +1,23 @@
+{
+  "slug": "fafpwsn",
+  "name": "Financial Assistance For Persons With Special Needs",
+  "shortTitle": "Special Needs Financial Aid",
+  "level": "state",
+  "state": "delhi",
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Persons with Special Needs",
+    "Disabled Persons"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This Delhi government scheme provides financial assistance, also known as Disability Pension, to individuals with special needs and disabilities.",
+  "descriptionMd": "The Financial Assistance for Persons with Special Needs scheme, often referred to as Disability Pension, is a crucial welfare initiative by the Delhi Government. It aims to offer direct financial support to disabled persons, ensuring they receive the necessary assistance to improve their quality of life. This scheme underscores the government's commitment to social welfare and inclusivity for its residents.",
+  "benefitsMd": "* Financial assistance for disabled persons\n* Welfare support from the Delhi Government\n* Provision of a Disability Pension",
+  "eligibilityMd": "* Applicant must be classified as a Person with Special Needs.\n* Applicant must be a Disabled Person.\n* The applicant must reside in Delhi, under the NCTD jurisdiction.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

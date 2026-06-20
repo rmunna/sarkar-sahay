@@ -1,0 +1,23 @@
+{
+  "slug": "egfdftcw",
+  "name": "Ex-gratia for Death for the Construction Workers",
+  "shortTitle": "Ex-gratia for Construction Workers",
+  "level": "state",
+  "state": "dadra-nagar-haveli-and-daman-diu",
+  "nodalDept": "Labour Department",
+  "schemeFor": "Family",
+  "targetBeneficiaries": [
+    "Nominees of deceased construction workers",
+    "Dependents of deceased construction workers"
+  ],
+  "benefitType": "financial",
+  "briefDescription": "This welfare scheme by the Labour Department, DNH & DD, provides financial assistance to the nominees or dependents of registered construction workers who have passed away.",
+  "descriptionMd": "The Ex-gratia for Death for the Construction Workers scheme, initiated by the BOCW Welfare Board under the Labour Department of DNH & DD, aims to provide crucial financial support.\nIt offers ex-gratia payments to the nominees or dependents of registered construction workers who have unfortunately passed away.\nThis ensures that the families of these workers receive assistance during a difficult time.",
+  "benefitsMd": "- Financial assistance for death is provided to the nominees/dependents of a deceased registered member.",
+  "eligibilityMd": "- The deceased must have been a construction worker.\n- The deceased worker must have been a registered member of the scheme.\n- The claim must be made by a nominee or dependent of the deceased registered member.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

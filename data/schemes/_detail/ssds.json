@@ -1,0 +1,22 @@
+{
+  "slug": "ssds",
+  "name": "Scholarship Scheme For Disabled Students To Study Abroad For Higher Education",
+  "shortTitle": "Disabled Study Abroad Scholarship",
+  "level": "state",
+  "state": "madhya-pradesh",
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Disabled students"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This scheme provides financial assistance to disabled students from Madhya Pradesh who wish to pursue higher education abroad. It was launched by the state government in 2008.",
+  "descriptionMd": "The Scholarship Scheme For Disabled Students To Study Abroad For Higher Education is an initiative by the Madhya Pradesh State Government. Launched in 2008, it aims to support disabled students from Madhya Pradesh in pursuing higher education in foreign countries. The scheme, also known as 'Nihshakt Vidyarthiyon Ko Uchch Shiksha Hetu Videsh Adhyayan Hetu Chhaatravrtti Yojana,' provides crucial financial aid to enable these students to access international academic opportunities.",
+  "benefitsMd": "- Financial assistance for disabled students to pursue higher education abroad.\n- Support to cover expenses related to studying in foreign countries.",
+  "eligibilityMd": "- Applicant must be a disabled student.\n- Applicant must be a resident of Madhya Pradesh.\n- Applicant must be seeking to study abroad for higher education.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

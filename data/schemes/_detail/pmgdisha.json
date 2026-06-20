@@ -1,0 +1,22 @@
+{
+  "slug": "pmgdisha",
+  "name": "Pradhan Mantri Gramin Digital Saksharta Abhiyaan",
+  "shortTitle": "PMGDISHA",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry of Electronics and Information Technology (MeitY)",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Rural individuals"
+  ],
+  "benefitType": "service",
+  "briefDescription": "Pradhan Mantri Gramin Digital Saksharta Abhiyaan (PMGDISHA) is a MeitY scheme to make six crore persons in rural areas digitally literate, reaching 40% of rural households.",
+  "descriptionMd": "Pradhan Mantri Gramin Digital Saksharta Abhiyaan (PMGDISHA) is a pioneering Digital Literacy Scheme launched by the Ministry of Electronics and Information Technology (MeitY). Its primary objective is to empower rural populations by imparting essential digital literacy skills. The scheme aims to make six crore persons residing in rural areas across all States/UTs digitally literate, thereby enhancing digital inclusion and reaching around 40% of rural households.",
+  "benefitsMd": "- Access to comprehensive digital literacy training\n- Empowerment with essential digital skills for daily life and services",
+  "eligibilityMd": "- Residing in rural areas across States/UTs.\n- Being among the target six crore persons for digital literacy.\n- Being a member of a rural household covered by the scheme's reach.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

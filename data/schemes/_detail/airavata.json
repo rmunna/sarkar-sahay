@@ -1,0 +1,24 @@
+{
+  "slug": "airavata",
+  "name": "Airavata Scheme",
+  "shortTitle": "Airavata Self-Employment",
+  "level": "state",
+  "state": "karnataka",
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Rural Youth",
+    "SC Communities",
+    "ST Communities"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The Airavata Scheme partners with cab aggregators to facilitate self-employment for rural youth through taxi services, providing training and support.",
+  "descriptionMd": "The Airavata Scheme, launched by the state of Karnataka, aims to foster self-employment among rural youth. It achieves this by partnering with corporate aggregators like OLA and UBER, facilitating their entry into radio taxi and other successful cab transport ventures. This initiative seeks to empower rural youth, particularly from SC/ST communities, by creating sustainable livelihood opportunities in the transportation sector.",
+  "benefitsMd": "- Partnership with corporate aggregators (like OLA and UBER) for self-employment opportunities.\n- Training for rural youth in radio taxi and other cab transport ventures.\n- Mentoring support to assist beneficiaries in their ventures.\n- Enhanced financial assistance to facilitate participation and establishment.",
+  "eligibilityMd": "- Beneficiaries must be rural youth.\n- Beneficiaries must belong to Scheduled Caste (SC) communities.\n- Beneficiaries must belong to Scheduled Tribe (ST) communities.\n- Individuals seeking self-employment through radio taxi and other successful cab transport ventures.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

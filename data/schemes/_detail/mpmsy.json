@@ -1,0 +1,23 @@
+{
+  "slug": "mpmsy",
+  "name": "Madhugram Scheme Uttarakhand",
+  "shortTitle": "Uttarakhand Honey Scheme",
+  "level": "state",
+  "state": "uttarakhand",
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Youths",
+    "Honey beekeepers"
+  ],
+  "benefitType": "Financial assistance",
+  "briefDescription": "The Madhugram Scheme aims to curb rural-urban migration by creating employment in Uttarakhand's rural areas and making the state self-sufficient in honey production, offering an 80% subsidy for honey beekeeping to youths.",
+  "descriptionMd": "The Madhugram Scheme, launched by the Uttarakhand government, seeks to address rural-urban migration by generating employment opportunities within the state's rural communities. A key objective is to foster self-sufficiency in honey production across Uttarakhand. To achieve this, the scheme provides significant financial support to eligible individuals.",
+  "benefitsMd": "- Financial assistance in the form of an 80% subsidy for youths involved in honey beekeeping.\n- Creation of employment opportunities in rural areas.\n- Contribution to making Uttarakhand self-sufficient in honey production.",
+  "eligibilityMd": "- Must be a youth.\n- Must be involved in or intending to undertake honey beekeeping activities.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

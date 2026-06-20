@@ -1,0 +1,22 @@
+{
+  "slug": "dog",
+  "name": "Distribution of Gypsum",
+  "shortTitle": "Gypsum Distribution Scheme",
+  "level": "state",
+  "state": "tamil-nadu",
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Farmers cultivating Pulses crops"
+  ],
+  "benefitType": "financial-aid",
+  "briefDescription": "The \"Distribution of Gypsum\" scheme offers a 50% subsidy on gypsum material and transportation costs for farmers cultivating Pulses crops.",
+  "descriptionMd": "The \"Distribution of Gypsum\" scheme is a state-level initiative by the Tamil Nadu government. It aims to support farmers by reducing the financial burden associated with essential soil amendments. Specifically, it provides financial assistance for the procurement and transport of gypsum, which is crucial for soil health in certain agricultural practices.",
+  "benefitsMd": "- Subsidy covering 50% of the cost of gypsum material.\n- Subsidy covering 50% of the transportation costs for gypsum.",
+  "eligibilityMd": "- Individuals identified as farmers.\n- Farmers actively engaged in cultivating Pulses crops.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}
