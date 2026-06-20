@@ -1,8 +1,6 @@
 ---
-title: How to Apply for Gas Connection Online
-description: >-
-  Step-by-step guide to apply for a new LPG gas connection online from Indane,
-  HP Gas, or Bharat Gas. Documents, fees, and Ujjwala eligibility.
+title: "New LPG Gas Connection Apply Online 2026 — Indane, HP Gas, Bharat Gas & Free Ujjwala"
+description: "Apply for new LPG connection online: Indane at mylpg.in, HP Gas at hindustanpetroleum.com, Bharat Gas at ebharatgas.com. Documents: Aadhaar, address proof, KYC form. Cost: ₹1,600–₹2,000 (includes cylinder deposit + regulator). BPL families: FREE connection under PM Ujjwala Yojana — check eligibility at pmuy.gov.in."
 category: Utilities
 keywords:
   - LPG gas connection online

@@ -1,6 +1,6 @@
 ---
-title: "Gujarat Vrudh Sahay Old Age Pension — Senior Citizen Pension Guide – How to Apply & Benefits"
-description: "Complete guide to Gujarat Old Age Pension (Vrudh Sahay). Monthly pension for seniors 60+. Eligibility, documents, how to apply."
+title: "Gujarat Vrudh Sahay Old Age Pension 2026 — ₹1,000/Month for 60+, Apply Online & Status"
+description: "Gujarat Vrudh Sahay pension: ₹1,000/month for senior citizens aged 60+ with annual income below ₹1L. Apply at E-Samaj Kalyan portal (esamajkalyan.gujarat.gov.in) or nearest District Social Welfare office. Documents: Aadhaar, age proof, income certificate, bank passbook. Payment via DBT monthly."
 category: "State Schemes"
 keywords: ["gujarat old age pension", "vrudh sahay yojana", "senior citizen pension gujarat", "old age pension gujarat apply", "gujarat pension scheme"]
 readingTime: "7 min"

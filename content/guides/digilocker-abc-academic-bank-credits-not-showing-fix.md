@@ -1,6 +1,6 @@
 ---
-title: "ABC / APAAR ID Not Showing in DigiLocker? Fix Academic Bank of Credits Records"
-description: "Fix ABC, APAAR ID or Academic Bank of Credits records not showing in DigiLocker. Covers institution mapping, NAD linking, enrollment mismatch and Aadhaar/KYC fixes."
+title: "ABC APAAR ID Not Showing in DigiLocker 2026? Fix Academic Bank of Credits Records"
+description: "ABC / APAAR ID not appearing in DigiLocker? The institution must map your APAAR ID first — contact your college registrar or principal. Then: check Aadhaar is linked in DigiLocker; enrollment number must exactly match ABC records. APAAR ID issued by MoE via institutions, not self-registered. NAD helpline: 011-25722063."
 category: Identity Documents
 keywords:
   - abc digilocker not showing

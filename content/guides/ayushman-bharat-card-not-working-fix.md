@@ -1,8 +1,6 @@
 ---
-title: "Ayushman Bharat Card Not Working? How to Fix Hospital Issues"
-description: >-
-  Ayushman Bharat card not working at hospital? Fix eKYC failures, beneficiary
-  ID errors, hospital refusal, and re-verification issues with this guide.
+title: "Ayushman Bharat Card Not Working 2026? Fix eKYC Failure & Hospital Refusing Cashless"
+description: "Ayushman (PMJAY) card rejected at hospital? Fix: eKYC failed → verify at beneficiary.nha.gov.in or nearest Ayushman Mitra; hospital says not empanelled → check empanelled hospitals at hospitals.pmjay.gov.in; 'card expired' → PMJAY cards have no expiry, hospital is wrong. Grievance: call 14555 (toll-free)."
 category: Tax & Finance
 keywords:
   - ayushman bharat card not working

@@ -1,6 +1,6 @@
 ---
-title: "Ration Card Biometric Authentication Failed at ePoS — How to Fix"
-description: "Fingerprint not matching at ration shop ePoS machine? Fix biometric authentication failed errors and get your ration without problems."
+title: "Ration Card Biometric Failed at ePoS 2026? Get Ration Without Fingerprint — Use OTP"
+description: "Fingerprint not matching at ration shop ePoS machine? Fix: clean scanner glass + press firmly with center of thumb. Still failing → use OTP authentication: dealer enters your mobile number (linked to Aadhaar) → enter OTP. For permanent dry/damaged fingers → apply at FCS office for biometric exemption."
 category: "Food & Ration"
 keywords:
   - ration card biometric authentication failed

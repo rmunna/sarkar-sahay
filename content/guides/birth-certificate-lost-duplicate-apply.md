@@ -1,8 +1,6 @@
 ---
-title: "Birth Certificate Lost? How to Get a Duplicate Copy in India"
-description: >-
-  How to apply for a duplicate birth certificate if original is lost or damaged.
-  Online and offline process, documents, affidavit, fees, and timeline.
+title: "Birth Certificate Lost 2026? Apply Duplicate at Municipal Office, Affidavit & Online Process"
+description: "Lost birth certificate? Apply for duplicate at your Municipal Corporation, Gram Panchayat or state portal. Documents: affidavit + Aadhaar + hospital records (if available). Fee: ₹25–₹100. Processing: 5–15 days. Hospital birth: approach same hospital admin. Older births (before 1989): Tehsildar issues certificate. State portal links inside."
 category: Certificates
 keywords:
   - duplicate birth certificate

@@ -1,6 +1,6 @@
 ---
-title: "mParivahan RC Details Wrong? Fix Vehicle Info Errors"
-description: "Fix wrong RC details on mParivahan including incorrect name, address, insurance not updated, and hypothecation status. Step-by-step RTO guide."
+title: "mParivahan RC Details Wrong 2026? Fix Name, Insurance & Hypothecation at RTO"
+description: "mParivahan showing wrong RC details? Fix: wrong owner name → submit Form 33 at RTO; insurance not updated → insurer must update via Insurance Information Bureau (IIB); hypothecation not removed → submit Form 35 + NOC + ₹200 fee at RTO. Changes reflect on parivahan.gov.in in 7–15 days."
 category: "Utilities"
 keywords: ["mparivahan rc details wrong", "mparivahan wrong vehicle info", "rc name correction", "mparivahan insurance not updated", "hypothecation removal mparivahan"]
 lastUpdated: "2026-03-06"

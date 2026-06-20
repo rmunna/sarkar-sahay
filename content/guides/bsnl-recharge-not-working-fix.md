@@ -1,6 +1,6 @@
 ---
-title: "BSNL Recharge Not Working? How to Fix Online Recharge Errors"
-description: "BSNL recharge not working or payment failed? Fix portal errors, UPI failures, get refunds for deducted money, and reactivate expired BSNL numbers."
+title: "BSNL Recharge Not Working 2026? Fix Payment Failed & Get Refund at selfcare.bsnl.co.in"
+description: "BSNL recharge failing? Fix: UPI payment failed → try net banking or debit card at selfcare.bsnl.co.in or mySNBL app; money deducted but no recharge → wait 2 hours, check portal status, raise complaint; number going inactive → recharge with validity plan before SIM disconnects. Refund SLA: 3–5 working days."
 category: "Utilities"
 keywords:
   - bsnl recharge not working

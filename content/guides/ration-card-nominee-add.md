@@ -1,6 +1,6 @@
 ---
-title: "Ration Card Nominee Change: How to Add or Remove Family Member"
-description: "Step-by-step guide to add or remove members from your ration card. Covers adding newborn, spouse, removing deceased or married-out members."
+title: "Ration Card Add or Remove Family Member 2026 — Newborn, Spouse & Deceased at PDS Portal"
+description: "Add newborn, newly married spouse or remove deceased/married-out member from ration card. Apply online at state PDS portal or visit FCS office. Documents: birth/marriage/death certificate + Aadhaar of all current members + existing ration card. Updated in 15–30 days. State-wise portal links and process inside."
 slug: "ration-card-nominee-add"
 category: "Government Schemes"
 lastUpdated: "2026-03-06"

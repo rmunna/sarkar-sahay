@@ -1,6 +1,6 @@
 ---
-title: "State PSC Exams — All 28 States Guide & Comparison"
-description: "Complete guide to all 28 State PSC exams: UPPSC, BPSC, MPPSC & more. Compare eligibility, salary, exam pattern & prep strategy side by side."
+title: "State PSC Exam Guide 2026 — All 28 States, Salary ₹45K–₹1.5L & Which PSC to Attempt"
+description: "State PSC comparison: UPPSC (₹56K+), BPSC (₹52K+), MPPSC (₹50K+), RPSC (₹45K+), KPSC, MPSC. Success rate 0.5–2% vs UPSC 0.1%. 70% syllabus overlap with UPSC. Age limits vary by state (21–40 years). Best PSC for your state, preparation strategy and syllabus comparison inside."
 category: "Jobs & Exams"
 keywords: ["state PSC exam", "state civil services", "UPPSC", "BPSC", "MPPSC", "RPSC", "KPSC", "MPSC", "state government jobs", "state PCS exam", "PSC exam preparation"]
 readingTime: "15 min"

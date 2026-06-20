@@ -1,8 +1,6 @@
 ---
-title: "CSC Registration Apply Online: How to Open CSC Center"
-description: >-
-  Complete guide to CSC registration online at register.csc.gov.in. Eligibility,
-  documents, TEC certificate, biometric device, and step-by-step process.
+title: "CSC Registration Apply Online 2026 — Open Jan Seva Kendra at register.csc.gov.in & TEC"
+description: "Apply to open a CSC (Jan Seva Kendra) at register.csc.gov.in. Requirements: TEC certificate (₹1,479 at cscentrepreneur.in), Aadhaar, 10th pass, age 18+, biometric device, broadband connection. Earn ₹5,000–₹25,000/month from 300+ government services. Selection via Gram Panchayat or direct application."
 category: Utilities
 keywords:
   - csc registration

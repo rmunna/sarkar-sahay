@@ -1,6 +1,6 @@
 ---
-title: "PNB Account Blocked or Frozen? Fix It Step by Step (2026)"
-description: "Punjab National Bank account blocked, frozen or debit freeze applied? Fix KYC freeze, suspicious activity block, PNB ONE app locked & get your PNB account unblocked fast."
+title: "PNB Account Blocked or Frozen 2026? Fix KYC Freeze, Debit Block & PNB ONE App Lock"
+description: "PNB account blocked or debit freeze applied? Fix: KYC expired → submit updated documents at nearest PNB branch; suspicious activity block → visit branch with Aadhaar + last 3 months statement; PNB ONE app locked → reset MPIN at ATM. Inactive account → do one UPI or ATM transaction. Helpline: 1800-180-2222."
 category: "Tax & Finance"
 lastUpdated: "2026-05-23"
 readingTime: "8 min"

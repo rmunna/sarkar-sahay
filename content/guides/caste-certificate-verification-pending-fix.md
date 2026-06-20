@@ -1,6 +1,6 @@
 ---
-title: "Caste Certificate Verification Pending? Fix"
-description: "Caste certificate verification pending or stuck? Learn how to track status online, follow up at tahsildar office, and speed up the verification."
+title: "Caste Certificate Verification Pending 2026? Follow Up at Tahsildar & Speed Up Process"
+description: "Caste certificate stuck at 'verification pending' for 15+ days? Fix: visit Tehsildar/SDM office and ask for field verification status; if Lekhpal hasn't visited → escalate to Revenue Inspector; if stuck online beyond 30 days → call state helpline (UP: 1076). Verification normally completes in 7–15 days."
 category: "Certificates"
 keywords: ["caste certificate verification pending", "caste certificate status check", "caste certificate tracking", "caste verification stuck", "tahsildar caste certificate", "caste certificate follow up"]
 readingTime: "7 min"

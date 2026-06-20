@@ -1,6 +1,6 @@
 ---
-title: "BHIM UPI Registration Failed? Fix SIM & Bank Errors"
-description: "BHIM UPI registration failed due to SIM, SMS, or bank errors? Fix SIM slot issues, SMS sending failures, and bank linking problems step by step."
+title: "BHIM UPI Registration Failed 2026? Fix SIM Slot, SMS Error & Bank Not Listed"
+description: "BHIM app registration failing? Fix: SIM not detected → put SIM in slot 1 (BHIM reads SIM 1 only); SMS failed → enable SMS permissions in phone settings; bank not in list → check if your bank supports UPI at NPCI; OTP not received → ensure SIM has active SMS service. NPCI helpline: 1800-120-1740."
 category: "Utilities"
 keywords:
   - bhim upi registration failed

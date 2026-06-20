@@ -1,6 +1,6 @@
 ---
-title: "PMAY Beneficiary List: How to Check Your Name in Pradhan Mantri Awas Yojana List"
-description: "Check your name in PMAY beneficiary list online — Urban and Gramin. Search by Aadhaar, name, or application ID on official portals."
+title: "PMAY Beneficiary List 2026 — Check Name at pmaymis.gov.in (Urban) & pmayg.nic.in (Gramin)"
+description: "Check PMAY beneficiary list: Urban (PMAY-U) at pmaymis.gov.in → Search Beneficiary → enter Aadhaar or mobile number. Gramin (PMAY-G) at pmayg.nic.in → Search Beneficiary → enter name or registration number. Not in list → apply at Urban Local Body (urban) or Gram Panchayat (gramin) office."
 category: "Government Schemes"
 keywords: ["pmay beneficiary list", "pmay list check online", "pmay gramin beneficiary list", "pmay urban beneficiary list", "pmay name check", "pradhan mantri awas yojana list"]
 lastUpdated: "2026-03-05"

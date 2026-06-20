@@ -1,6 +1,6 @@
 ---
-title: "Sambal Yojana MP (Jan Kalyan): Benefits, Eligibility & Apply Online"
-description: "Complete guide to MP Sambal Yojana (Mukhyamantri Jan Kalyan Sambal) — benefits for unorganised workers including insurance, education aid & more."
+title: "Sambal Yojana MP 2026 — ₹4 Lakh Accident Insurance for Unorganised Workers, Apply Online"
+description: "Mukhyamantri Jan Kalyan (Sambal) Yojana for MP unorganised workers: ₹4 lakh accident insurance, ₹2 lakh natural death benefit, free education for children, electricity subsidy ₹200/month. Register at sambal.mp.gov.in. Eligibility: unorganised worker with annual family income below ₹2L."
 category: "State Schemes"
 keywords:
   - sambal yojana mp
