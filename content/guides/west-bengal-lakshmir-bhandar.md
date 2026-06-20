@@ -1,6 +1,6 @@
 ---
-title: "Lakshmir Bhandar Apply & Status Check 2026 — socialsecurity.wb.gov.in"
-description: "Apply for Lakshmir Bhandar at socialsecurity.wb.gov.in or Duare Sarkar camps. SC/ST women get ₹1,200/month, General/OBC ₹1,000/month. Check application status online."
+title: "Lakshmir Bhandar 2026 — Replaced by Annapurna Bhandar ₹3,000/Month, Status Check"
+description: "Lakshmir Bhandar is replaced by Annapurna Bhandar from June 2026 — all eligible WB women now get ₹3,000/month (was ₹1,000–₹1,200). Check old application status at socialsecurity.wb.gov.in. Existing beneficiaries migrated automatically."
 category: "State Schemes"
 keywords: ["Lakshmir Bhandar scheme", "West Bengal Lakshmir Bhandar", "socialsecurity.wb.gov.in lakshmi bhandar", "socialsecurity wb gov in registration", "lakshmir bhandar status check", "Bengal women scheme", "Lakshmir Bhandar eligibility", "WB Lakshmir Bhandar apply", "lakshmir bhandar amount"]
 readingTime: "7 min"
@@ -9,9 +9,11 @@ officialLinks:
   - https://socialsecurity.wb.gov.in
 ---
 
-## Quick Answer: Apply & Check Status on socialsecurity.wb.gov.in
+> **⚠️ June 2026 Update:** Lakshmir Bhandar has been **replaced by Annapurna Bhandar** from June 1, 2026. The new scheme gives **₹3,000/month to ALL eligible women** (no category difference). Existing Lakshmir Bhandar beneficiaries are being migrated automatically — verify at your BDO office or [wbcdwdsw.gov.in](https://wbcdwdsw.gov.in). **[Full Annapurna Bhandar guide →](/guide/west-bengal-annapurna-bhandar-yojana-apply-online)**
 
-**Official portal:** [socialsecurity.wb.gov.in](https://socialsecurity.wb.gov.in) — the West Bengal Social Security portal used for Lakshmir Bhandar registration and status checks.
+## Quick Answer: Status Check & Migration — socialsecurity.wb.gov.in
+
+**Official portal:** [socialsecurity.wb.gov.in](https://socialsecurity.wb.gov.in) — check your old Lakshmir Bhandar application status and payment history here. New applications now go under Annapurna Bhandar.
 
 | What you want | Where to do it |
 |---|---|
