@@ -1,6 +1,6 @@
 ---
-title: "SBI Account Frozen or Blocked? Unfreeze Online in 5 Minutes — No Branch Visit (2026)"
-description: "SBI account frozen or blocked? Fix it yourself via YONO SBI app or NetBanking — no branch visit needed. Works for KYC freeze, dormant account, PAN mismatch & suspicious activity block. Free 24/7 helpline: 1800-11-2211."
+title: "SBI Account Frozen? Unfreeze in 5 Min via YONO App — No Branch Visit 2026"
+description: "SBI account frozen or blocked? Fix instantly via YONO SBI app or SBI NetBanking — no branch visit needed. Covers KYC freeze, dormant account reactivation, PAN mismatch and suspicious activity block. Helpline: 1800-11-2211."
 category: "Tax & Finance"
 keywords:
   - sbi account frozen

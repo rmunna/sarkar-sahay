@@ -1,6 +1,6 @@
 ---
-title: "APL vs BPL vs AAY Ration Card — Which Card Gets FREE Grain & How to Upgrade (2026)"
-description: "APL (yellow/white) = no free grain. BPL (green/pink) = 5 kg FREE/month if income ≤₹1.2L/year. AAY (red) = 35 kg free — poorest families. Check which card you qualify for and how to convert APL to BPL online in your state."
+title: "APL vs BPL vs AAY Ration Card 2026 — Free Grain, Eligibility & How to Upgrade"
+description: "APL = no free grain. BPL = 5 kg free/month (income ≤₹1.2L/year). AAY = 35 kg free for poorest families. Find out which card you qualify for and how to upgrade APL to BPL — state-wise online portal links inside."
 category: Government Schemes
 lastUpdated: "2026-05-26"
 keywords:

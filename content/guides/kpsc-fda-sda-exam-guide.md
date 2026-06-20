@@ -1,6 +1,6 @@
 ---
-title: "KPSC SDA FDA 2026 — Result Out, Full Form, Salary & Next Recruitment"
-description: "KPSC SDA FDA 2026: exam done, result at cetonline.karnataka.gov.in. SDA = Second Division Assistant (PUC pass, ₹21,400 start), FDA = First Division Assistant (Degree, ₹27,650 start). Next recruitment guide inside."
+title: "KPSC FDA SDA Recruitment 2026 — Apply, Eligibility, Salary & Exam Date"
+description: "KPSC FDA SDA 2026: FDA needs degree (₹27,650/month), SDA needs PUC pass (₹21,400/month). Apply at cetonline.karnataka.gov.in. Check notification date, eligibility, syllabus, exam pattern and selection process here."
 category: "Jobs & Exams"
 keywords:
   - sda full form

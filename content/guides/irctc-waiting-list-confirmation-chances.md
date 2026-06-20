@@ -1,6 +1,6 @@
 ---
-title: "IRCTC Waiting List Confirmation 2026 — WL 1-30 Chances, GNWL vs RLWL"
-description: "WL 1-15 = 85%+ confirms. WL 16-30 = ~55%. WL 60+ = under 10%. RAC always boards. GNWL confirms far more than RLWL/PQWL at the same number. Check your PNR status and when to cancel for full refund."
+title: "Will IRCTC Waiting List Confirm? WL 1–60 Chances & GNWL vs RLWL 2026"
+description: "WL 1–15: 85%+ confirms. WL 16–30: ~55%. WL 60+: under 10%. GNWL confirms far more than RLWL at the same number. RAC always boards. Check your exact confirm chance by WL position and when to cancel for full refund."
 category: "Utilities"
 keywords:
   - irctc waiting list confirmation chances

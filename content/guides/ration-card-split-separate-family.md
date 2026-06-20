@@ -1,6 +1,6 @@
 ---
-title: "Ration Card Split 2026 — Separate New Card After Marriage or from Joint Family"
-description: "Separate your ration card from family — after marriage, moving out, or splitting a joint family card. Apply online at your state PDS portal. Docs: existing card, Aadhaar + marriage/address proof. New card in 15–30 days."
+title: "How to Split Ration Card 2026 — Get Separate Card After Marriage or Moving Out"
+description: "Apply for a separate ration card after marriage, moving out, or splitting a joint family card. New card issued in 15–30 days. State-wise online portal links + required documents (Aadhaar, existing card, address proof) inside."
 category: Government Schemes
 keywords:
   - ration card split

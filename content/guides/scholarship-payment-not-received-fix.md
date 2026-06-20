@@ -1,6 +1,6 @@
 ---
-title: "Scholarship Money Not Received? Check NSP & PFMS Payment Status & Fix Today (2026)"
-description: "NSP or state scholarship not credited? Check status in 2 steps at scholarships.gov.in and pfms.nic.in. Common reasons: wrong IFSC, bank account mismatch, pending KYC, or DBT failure — each with a step-by-step fix."
+title: "Scholarship Money Not Credited? Check NSP & PFMS Status & Fix 2026"
+description: "NSP or state scholarship not received in bank? Check in 2 steps at scholarships.gov.in and pfms.nic.in. Top causes: wrong IFSC, bank name mismatch, pending KYC or DBT failure — each with exact fix steps."
 category: "Government Schemes"
 keywords:
   - scholarship payment not received
