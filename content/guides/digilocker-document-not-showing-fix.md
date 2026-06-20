@@ -1,6 +1,6 @@
 ---
-title: "DigiLocker Document Not Showing or Missing? 7 Fixes — Marksheet, DL, Aadhaar (2026)"
-description: "DigiLocker certificate or marksheet not showing in issued documents? 7 fixes: fetch from issuer portal, check Aadhaar number linked, clear app cache, re-link account, or pull via partner link — resolved in 5 minutes."
+title: "DigiLocker Document Not Showing 2026 — Fix Missing Marksheet, DL & RC in 5 Minutes"
+description: "DigiLocker certificate not appearing in 'Issued Documents'? 7 fixes: 1) Click 'Get from Issuer' to pull manually; 2) Check Aadhaar number linked to DigiLocker is correct; 3) Clear app cache and re-login; 4) CBSE marksheet — use CBSE portal link not search. Each document type has a specific fix."
 category: "Identity Documents"
 keywords:
   - digilocker document not showing

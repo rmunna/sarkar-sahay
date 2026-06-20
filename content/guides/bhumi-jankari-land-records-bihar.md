@@ -1,6 +1,6 @@
 ---
-title: "Bihar Bhumi Jankari — Check Land Records, Khata & Khesra Online"
-description: "Check Bihar land records online via Bhumi Jankari & Bhulekh Bihar. View Khata, Khesra, Jamabandi, map & get certified copy — step-by-step guide."
+title: "Bihar Bhumi Jankari 2026 — Check Land Records, Khata & Khesra at bhumijankari.bihar.gov.in"
+description: "Check Bihar land records online at bhumijankari.bihar.gov.in. Search by Khata number or owner name to view Khesra (plot), Jamabandi (rights record) and map. Get certified Bhulekh copy for court/legal use — free. Also available at bhulekh.bihar.gov.in — step-by-step guide."
 category: "Property & Legal"
 keywords:
   - "बिहार भूमि जानकारी"

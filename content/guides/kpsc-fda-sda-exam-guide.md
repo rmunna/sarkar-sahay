@@ -1,6 +1,6 @@
 ---
-title: "KPSC FDA SDA Recruitment 2026 — Apply, Eligibility, Salary & Exam Date"
-description: "KPSC FDA SDA 2026: FDA needs degree (₹27,650/month), SDA needs PUC pass (₹21,400/month). Apply at cetonline.karnataka.gov.in. Check notification date, eligibility, syllabus, exam pattern and selection process here."
+title: "KPSC FDA SDA 2026 — Salary ₹27,650/Month, Notification, Syllabus & Exam Date at cetonline.karnataka.gov.in"
+description: "KPSC FDA (₹27,650/month, degree required) and SDA (₹21,400/month, PUC pass) recruitment 2026. Apply at cetonline.karnataka.gov.in. Full syllabus: General Kannada, General English, GK/Current Affairs + Computer Basics. Exam pattern, cut-offs and selection process inside."
 category: "Jobs & Exams"
 keywords:
   - sda full form

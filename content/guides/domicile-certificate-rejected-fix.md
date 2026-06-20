@@ -1,6 +1,6 @@
 ---
-title: "Domicile Certificate Rejected? 7 Reasons Why & Fix — UP, Delhi, Maharashtra (2026)"
-description: "Domicile/residence certificate rejected? Top 7 reasons: address on Aadhaar doesn't match, less than required residence period, wrong documents, missing self-declaration. Step-by-step fix guide for UP, Delhi, Maharashtra & all states."
+title: "Domicile Certificate Rejected 2026 — 7 Reasons Why & How to Fix and Re-Apply"
+description: "Domicile certificate rejected? Top 7 reasons: Aadhaar address doesn't match current state, residency period too short (need 3–10 years by state), wrong documents submitted, missing self-declaration affidavit. How to fix each + re-apply guide for UP, Delhi, Maharashtra, Karnataka."
 keywords:
   - domicile certificate rejected
   - domicile certificate rejection reasons

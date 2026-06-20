@@ -1,8 +1,6 @@
 ---
-title: "UMANG App Registration Failed? Fix OTP & Login Errors"
-description: >-
-  Fix UMANG app registration failed errors including OTP not received, Aadhaar
-  verification failed, app crash, and server errors with step-by-step solutions.
+title: "UMANG App Registration Failed 2026? Fix OTP Not Coming & Aadhaar Verification Error"
+description: "UMANG registration failing? Fix: OTP not coming → check Aadhaar-linked mobile is the same number; Aadhaar verification failed → name/DOB must match Aadhaar exactly; App crash on registration → update app. Also covers UMANG login failed, MPIN reset and re-registration steps."
 category: Utilities
 keywords:
   - umang app registration failed

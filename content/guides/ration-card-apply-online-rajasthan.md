@@ -1,6 +1,6 @@
 ---
-title: "Rajasthan Ration Card Apply Online 2026 — New Card, Status & food.raj.nic.in"
-description: "Apply for new ration card in Rajasthan online at food.raj.nic.in. Step-by-step process using Jan Aadhaar card, required documents, ration card types, status check, and helpline."
+title: "Rajasthan Ration Card Apply Online 2026 — New Card via Jan Aadhaar at food.raj.nic.in"
+description: "Apply for new Rajasthan ration card online at food.raj.nic.in using your Jan Aadhaar number. Documents: Jan Aadhaar card, Aadhaar of all family members, bank account details. APL card has no eligibility bar; BPL/Antyodaya based on income survey. Track status on same portal — approved in ~30 days."
 category: "Food & Ration"
 keywords:
   - rajasthan ration card apply online 2026

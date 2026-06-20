@@ -1,6 +1,6 @@
 ---
-title: "DigiLocker Driving Licence or RC Not Showing? Fix It Now"
-description: "Fix DigiLocker not showing your driving licence (DL) or vehicle RC. Covers Parivahan sync issues, name mismatches, and manual pull steps."
+title: "DigiLocker RC or Driving Licence Not Showing 2026 — Sync from Parivahan & Fix Name Mismatch"
+description: "DL or vehicle RC not appearing in DigiLocker? Pull manually: DigiLocker app → search 'Driving Licence' → enter DL number + DOB → fetches from Parivahan. Name mismatch between DigiLocker and Parivahan is the most common block — fix at Parivahan first, then re-fetch. RC same process."
 category: Identity Documents
 keywords:
   - digilocker dl not showing

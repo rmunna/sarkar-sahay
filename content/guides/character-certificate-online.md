@@ -1,8 +1,6 @@
 ---
-title: How to Get Character Certificate / Good Conduct Certificate Online
-description: >-
-  Complete guide to apply for character certificate (police verification
-  certificate) online. State-wise process for UP, Bihar, MP, Rajasthan with
+title: "Character Certificate Apply Online 2026 — Police Verification, Documents & State-Wise Process"
+description: "Character certificate (good conduct/police verification certificate) issued by local police. Apply online at your state e-district portal or CSC. Documents: Aadhaar, 2 passport photos, address proof. Processing: 7–21 days. Required for jobs, passport, school admissions — state portal links inside."
   documents...
 category: Certificates
 keywords:

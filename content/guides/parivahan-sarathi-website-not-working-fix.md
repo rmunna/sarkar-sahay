@@ -1,6 +1,6 @@
 ---
-title: "Parivahan & Sarathi Not Working 2026? Server Error, DL Slot & Payment Fix in 5 Minutes"
-description: "Parivahan.gov.in or Sarathi not opening? Server down, DL slot not available, or payment failed? Try before 9 AM to avoid peak load. 7 fixes: clear cache, use Chrome, switch network, try mParivahan app."
+title: "Parivahan.gov.in Not Working 2026? Fix Server Error, DL Slot Booking & Payment Failure"
+description: "Parivahan or Sarathi showing server error or not opening? Try before 8 AM (lowest traffic). Fix: clear Chrome cache → incognito mode → switch to mobile data. DL test slot not available → check every Tuesday 10 AM when new slots release. mParivahan app works when website is down."
 category: "Utilities"
 keywords:
   - parivahan not working

@@ -1,6 +1,6 @@
 ---
-title: "BSNL Broadband Connection — Apply Online, Plans & Process"
-description: "Apply for BSNL broadband or Bharat Fiber connection online. Complete guide with plans, documents needed, installation process, and tips."
+title: "BSNL Broadband Apply Online 2026 — Bharat Fiber Plans from ₹399/Month, New Connection Process"
+description: "Apply for BSNL Bharat Fiber (FTTH) broadband at selfcare.bsnl.co.in. Plans: ₹399/month (30 Mbps), ₹599/month (60 Mbps), ₹999/month (200 Mbps). Documents: Aadhaar, address proof. Connection installed within 7–15 days. Check BSNL coverage in your area before applying."
 category: "Utilities"
 keywords:
   - bsnl broadband apply

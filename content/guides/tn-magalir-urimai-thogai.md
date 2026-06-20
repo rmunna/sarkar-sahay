@@ -1,6 +1,6 @@
 ---
-title: "Magalir Urimai Thogai 2026 — Eligibility, Apply Online (KMUT) & Status Check"
-description: "Tamil Nadu Magalir Urimai Thogai (KMUT): eligibility criteria, required documents, how to apply online at cmgga.tn.gov.in, and check payment status. ₹1,000/month for eligible women."
+title: "Magalir Urimai Thogai 2026 — ₹1,000/Month, Apply at cmgga.tn.gov.in & Check Payment Status"
+description: "Kalaignar Magalir Urimai Thogai gives ₹1,000/month to eligible Tamil Nadu women. Apply at cmgga.tn.gov.in or nearest CSC centre. Eligibility: family not paying income tax, not a government employee. Documents: Aadhaar, ration card, bank passbook. Check payment status on same portal."
 category: "State Schemes"
 keywords: ["magalir urimai thogai", "tamil nadu women scheme", "kalaignar magalir urimai thogai apply", "tn 1000 rupees women", "magalir urimai thogai eligibility"]
 lastUpdated: "2026-03-05"

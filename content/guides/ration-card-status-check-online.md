@@ -1,6 +1,6 @@
 ---
-title: "Ration Card Application Status Check: Track Online"
-description: "Track your ration card application status online. State-wise portals, application number tracking, SMS check, helpline numbers."
+title: "Ration Card Application Status Check Online 2026 — Track by Mobile or Application Number"
+description: "Check new ration card application status online by application number or mobile number. Portals: UP → fcs.up.gov.in, Tamil Nadu → tnpds.gov.in, Karnataka → ahara.kar.nic.in, Maharashtra → rcms.mahafood.gov.in. Approval takes 15–30 days. SMS check and helpline numbers inside."
 category: "Government Schemes"
 keywords: ["ration card status check", "ration card application status", "track ration card online", "ration card status by application number", "ration card approval status", "ration card helpline"]
 readingTime: "6 min"

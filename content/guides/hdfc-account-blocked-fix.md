@@ -1,6 +1,6 @@
 ---
-title: "HDFC Account Blocked or Frozen? Unfreeze Online or Call 1800-202-6161 (2026)"
-description: "HDFC account blocked or frozen? Unblock online via NetBanking or call 1800-202-6161 (toll-free, 24/7). Fix KYC expired, dormant account, or suspicious activity freeze — step by step. Most accounts unfreeze within 24 hours."
+title: "HDFC Bank Account Blocked 2026 — Unfreeze via NetBanking or Call 1800-202-6161 (24/7)"
+description: "HDFC account blocked? 3 types: KYC expired → update documents at hdfcbank.com/kyc; dormant account → do one UPI or ATM transaction to reactivate; fraud block → call 1800-202-6161 only. Most accounts unblocked within 2–4 hours. NetBanking unblock steps included."
 category: "Tax & Finance"
 keywords:
   - hdfc account blocked

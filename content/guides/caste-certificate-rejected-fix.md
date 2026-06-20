@@ -1,6 +1,6 @@
 ---
-title: "Caste Certificate Rejected? 8 Reasons Why & How to Fix and Re-Apply (2026)"
-description: "Caste certificate application rejected? Top 8 reasons: wrong father's document, address mismatch, community not in list, wrong category applied. Fix each error and re-apply online — state-wise steps for UP, Maharashtra, TN, Karnataka."
+title: "Caste Certificate Rejected 2026 — 8 Reasons & How to Fix and Re-Apply in 7 Days"
+description: "Caste certificate rejected? Top 8 reasons: father's caste document missing (use old school records), Aadhaar address mismatch, community name not in state list, wrong SC/ST/OBC category selected. Fix each and re-apply from same portal — state-wise steps for UP, Maharashtra, TN, Karnataka."
 category: "Certificates"
 keywords:
   - "caste certificate rejected"
