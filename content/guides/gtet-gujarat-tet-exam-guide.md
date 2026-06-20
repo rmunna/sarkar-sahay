@@ -1,6 +1,6 @@
 ---
-title: "GTET 2026 (Gujarat TET) — Notification, Teacher Salary ₹19,950+, TET 1 & 2 Syllabus"
-description: "GTET 2026 by GSEB: Qualify → Gujarat Govt Primary Teacher salary ₹19,950+ (Scale 5). TET-1 (Standard 1–5) + TET-2 (Standard 6–8). Apply at sebexam.org. Gujarati medium eligible."
+title: "GTET 2026 Gujarat TET — Apply at sebexam.org, Teacher Salary ₹19,950 & Syllabus"
+description: "Gujarat TET (GTET) 2026 by GSEB: TET-1 for primary teachers (Std 1–5), TET-2 for upper primary (Std 6–8). Passing GTET qualifies you for Gujarat Govt Teacher with salary ₹19,950+/month. Apply at sebexam.org. Syllabus: Child Dev, Language I+II, Content knowledge. Validity: lifetime. Previous year cut-offs inside."
 category: "Jobs & Exams"
 keywords: ["Gujarat TET","GTET exam","Gujarat TET eligibility","GTET syllabus","Gujarat Teacher Eligibility"]
 readingTime: "8 min"

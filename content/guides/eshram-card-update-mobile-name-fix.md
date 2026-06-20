@@ -1,6 +1,6 @@
 ---
-title: "e-Shram Card Update Mobile Number, Name or Bank 2026 — Fix at eshram.gov.in in 10 Minutes"
-description: "Update mobile number, name, address or bank account on your e-Shram card online. Visit eshram.gov.in → Update Profile. Or go to nearest CSC with Aadhaar + new details. Done in 10 minutes."
+title: "e-Shram Card Update Mobile Number, Name or Bank 2026 — Fix at eshram.gov.in in 10 Min"
+description: "Update mobile number, name, address or bank account on e-Shram card at eshram.gov.in → Update Profile. Or visit nearest CSC with Aadhaar + new details — done in 10 minutes. Mobile update: requires OTP on both old and new number if old SIM is still active. Bank update: for NDUW insurance claim payments."
 lastUpdated: "2026-03-06"
 category: "Utilities"
 readingTime: "8 min"

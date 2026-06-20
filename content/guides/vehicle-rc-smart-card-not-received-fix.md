@@ -1,8 +1,6 @@
 ---
-title: "RC Smart Card Not Received? Track & Fix Delivery Issues"
-description: >-
-  Vehicle RC smart card not received after registration? Learn how to track your
-  RC card delivery via Parivahan, Speed Post, and fix delayed or lost RC issues.
+title: "Vehicle RC Smart Card Not Received 2026? Track at Parivahan & Fix Delivery Delay"
+description: "Vehicle RC smart card not delivered after 15–30 days? Track: parivahan.gov.in → RC status → enter registration number to see dispatch status and Speed Post tracking number. Track Speed Post at indiapost.gov.in. If 'not dispatched' → visit your RTO. Note: digital RC on DigiLocker or mParivahan is valid as original."
 category: Utilities
 keywords:
   - rc smart card not received

@@ -1,6 +1,6 @@
 ---
-title: "Ration Shop Change: How to Transfer to New PDS Shop"
-description: "Complete guide to transfer your ration card to a new PDS shop. Covers online process, application to food inspector, documents, and ONORC portability."
+title: "Ration Shop Change 2026 — Transfer to New PDS Dealer Online or at FCS Office"
+description: "Transfer ration card to a new PDS fair price shop (FPS) when your dealer is far, misbehaving or out of stock. Apply online at state PDS portal or visit Food Inspector. Documents: ration card + Aadhaar + reason letter. Also: One Nation One Ration Card (ONORC) lets you buy grain at any shop without transfer."
 slug: "ration-shop-change-transfer"
 category: "Government Schemes"
 lastUpdated: "2026-03-06"

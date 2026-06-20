@@ -1,7 +1,6 @@
 ---
-title: "UMANG App Common Errors and Solutions: Service-Wise Troubleshooting"
-description: >-
-  Fix UMANG app error codes and service-specific failures. Solutions for EPFO, mPassport, DigiLocker, Aadhaar errors and integration issues.
+title: "UMANG App Common Errors 2026 — Fix EPFO, Passport, DigiLocker & Aadhaar Service Issues"
+description: "UMANG app service-specific fixes: EPFO balance not loading → use epfindia.gov.in directly; mPassport error → use mPassport app instead; DigiLocker crash in UMANG → re-link at digilocker.gov.in; Aadhaar OTP issue → use myAadhaar.uidai.gov.in. App update + cache clear fixes most general UMANG errors."
 category: "Utilities"
 lastUpdated: 2025-07-05
 keywords:

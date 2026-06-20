@@ -1,6 +1,6 @@
 ---
-title: "Indane/HP/Bharat Gas New Connection Not Coming — How to Fix Delayed LPG Connection"
-description: "Applied for new LPG gas connection but not received? Fix delayed Indane, HP Gas, or Bharat Gas connections with status check, escalation steps."
+title: "LPG New Gas Connection Delayed 2026? Track Indane, HP Gas & Bharat Gas Status & Fix"
+description: "LPG connection applied but not delivered in 30 days? Track status: Indane → mylpg.in, HP Gas → hindustanpetroleum.com, Bharat Gas → ebharatgas.com. If delayed: call distributor, then escalate at pgportal.gov.in. Common causes: document verification pending, surveyor not visited — each with fix steps."
 keywords: ["indane gas new connection not coming", "lpg connection delayed", "hp gas connection status", "bharat gas connection problem", "gas connection not received", "new lpg connection apply", "lpg connection transfer"]
 slug: lpg-gas-new-connection-delayed-fix
 category: "Utilities"

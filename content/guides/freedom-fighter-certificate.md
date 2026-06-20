@@ -1,8 +1,6 @@
 ---
-title: "Freedom Fighter Certificate — How to Apply for Family Members"
-description: >-
-  Complete guide to applying for a Freedom Fighter Certificate and Swatantrata
-  Sainik Samman Yojana pension for family members. Eligibility, documents, process.
+title: "Freedom Fighter Certificate 2026 — Apply for Family Pension & Swatantrata Sainik Samman Yojana"
+description: "Children and grandchildren of freedom fighters can get Freedom Fighter Certificate and Swatantrata Sainik Samman Yojana pension (₹30,000/month + free railway pass). Apply at Ministry of Home Affairs (mha.gov.in). Documents: relationship proof, participation record in freedom struggle, Aadhaar. State-wise process inside."
 category: Certificates
 keywords:
   - freedom fighter certificate

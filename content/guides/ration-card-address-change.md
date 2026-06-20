@@ -1,6 +1,6 @@
 ---
-title: "Ration Card Address Change: How to Update Address Online"
-description: "Complete guide to change address on your ration card online and offline. Covers documents, state portal process, FPS transfer, and timeline."
+title: "Ration Card Address Change Online 2026 — Update at State PDS Portal, Documents & Process"
+description: "Change address on ration card when you move within city or district. Apply at state PDS portal: UP → fcs.up.gov.in, TN → tnpds.gov.in, Karnataka → ahara.kar.nic.in, Maharashtra → rcms.mahafood.gov.in. Documents: new address proof (Aadhaar/rent agreement) + existing card. Updated in 15–30 days. Inter-district: may need new card."
 slug: "ration-card-address-change"
 category: "Government Schemes"
 lastUpdated: "2026-03-06"

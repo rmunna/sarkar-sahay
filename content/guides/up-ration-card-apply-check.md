@@ -1,6 +1,6 @@
 ---
-title: "UP Ration Card Apply & Status Check Online"
-description: "Apply for UP ration card online and check status. Complete guide for NFSA list, new card application, and ration entitlements."
+title: "UP Ration Card Apply Online 2026 — New Card & Status Check at fcs.up.gov.in"
+description: "Apply for new UP ration card online at fcs.up.gov.in → Ration Card → New Application. Documents: Aadhaar of all family members + address proof + bank account. Check application status on same portal. Check UP NFSA beneficiary list at nfsa.gov.in. Helpline: 1800-1800-150 (toll-free). Processing: 30–45 days."
 category: "Food & Ration"
 keywords: ["UP ration card", "UP ration card apply online", "UP ration card status", "fcs.up.gov.in", "NFSA list UP", "ration card UP check"]
 readingTime: "8 min"

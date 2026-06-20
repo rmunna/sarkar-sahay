@@ -1,8 +1,6 @@
 ---
-title: "Airtel SIM Swap or eSIM: How to Activate"
-description: >-
-  Complete guide to Airtel SIM swap for damaged SIM, eSIM activation on iPhone
-  and Android, and upgrading from 4G to 5G SIM. Steps, documents, and fees.
+title: "Airtel SIM Swap or eSIM Activation 2026 — Replace Damaged SIM & Upgrade to 5G"
+description: "Airtel SIM swap (physical): visit Airtel store with Aadhaar + old SIM. Cost ₹25. Done same day. Airtel eSIM: use Airtel Thanks app → Switch to eSIM, or Settings → Add Data Plan on iPhone. 4G to 5G SIM upgrade: visit Airtel store — free upgrade. eSIM not supported on all devices — check compatibility list."
 category: Utilities
 keywords:
   - airtel SIM swap

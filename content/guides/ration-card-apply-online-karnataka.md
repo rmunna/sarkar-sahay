@@ -1,6 +1,6 @@
 ---
-title: "Karnataka Ration Card Apply Online 2026 — AHARA Portal, ahara.kar.nic.in, Status & Helpline 1967"
-description: "Apply for new ration card in Karnataka online via AHARA portal (ahara.kar.nic.in). BPL, APL, AAY, and Antyodaya types. Documents: Aadhaar + income certificate + address proof. Helpline: 1967. Status check at ahara.kar.nic.in."
+title: "Karnataka Ration Card Apply Online 2026 — AHARA Portal at ahara.kar.nic.in & Helpline 1967"
+description: "Apply for new Karnataka ration card at AHARA portal (ahara.kar.nic.in). BPL card = 5 kg subsidised grain/month; APL/AAY eligibility based on income survey. Documents: Aadhaar + income certificate + address proof. Track application status at ahara.kar.nic.in. Helpline: 1967. Processing: 30–60 days."
 category: "Food & Ration"
 keywords:
   - Karnataka ration card apply online 2026

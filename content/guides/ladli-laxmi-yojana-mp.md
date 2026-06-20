@@ -1,6 +1,6 @@
 ---
-title: "Ladli Laxmi Yojana 2.0 MP: Eligibility, Benefits & Apply Online"
-description: "Complete guide to MP Ladli Laxmi Yojana 2.0 — Rs 1,43,000 for girl child education, eligibility, documents, and online application process."
+title: "Ladli Laxmi Yojana 2.0 MP 2026 — ₹1,43,000 for Girl Child, Apply at ladlilaxmi.mp.gov.in"
+description: "MP Ladli Laxmi Yojana 2.0 gives ₹1,43,000 in installments: ₹6,000 at Std 6, ₹2,000 at Std 9, ₹4,000 at Std 11+, ₹1,00,000 at graduation. Apply at ladlilaxmi.mp.gov.in within 1 year of girl's birth. Eligibility: MP family registered with Anganwadi (AWC). No BPL condition in version 2.0."
 category: "State Schemes"
 keywords:
   - ladli laxmi yojana

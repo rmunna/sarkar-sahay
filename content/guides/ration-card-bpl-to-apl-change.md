@@ -1,6 +1,6 @@
 ---
-title: "Ration Card BPL to APL or APL to BPL: How to Change Category"
-description: "Learn how to change your ration card category from BPL to APL or APL to BPL. Covers income criteria, documents, application process, and verification."
+title: "Ration Card BPL to APL or APL to BPL 2026 — Change Category at State FCS Portal"
+description: "Change ration card from BPL to APL when family income exceeds ₹1–1.5L/year (state-dependent). Change APL to BPL when income falls below the limit. Apply at state FCS portal with income certificate + Aadhaar. Income survey verification required. Processing: 30–60 days. State-wise income limits and portal links."
 slug: "ration-card-bpl-to-apl-change"
 category: "Government Schemes"
 lastUpdated: "2026-03-06"

@@ -1,6 +1,6 @@
 ---
-title: "IRCTC Captcha Not Loading? Fix Blank Captcha Error"
-description: "IRCTC captcha not showing or blank? Fix the captcha image loading error with browser tweaks, cache clearing, and alternative login methods in 2026."
+title: "IRCTC Captcha Not Loading 2026? Fix Blank Captcha & Login at irctc.co.in in 2 Minutes"
+description: "IRCTC captcha blank or not appearing? Fix: clear Chrome cache → try incognito mode → disable browser extensions → switch to Firefox. Captcha loads but unreadable → use audio captcha option. Alternative: IRCTC iMudra UPI or booking after 11:30 PM for less traffic and fewer captcha issues."
 category: "Utilities"
 keywords: ["IRCTC captcha not loading", "IRCTC captcha blank", "IRCTC captcha fix", "IRCTC login captcha error", "IRCTC captcha not showing", "IRCTC captcha image fix", "IRCTC captcha 2026"]
 lastUpdated: "2026-03-05"

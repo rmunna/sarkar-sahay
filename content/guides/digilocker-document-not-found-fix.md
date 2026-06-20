@@ -1,6 +1,6 @@
 ---
-title: "DigiLocker Document Not Found? How to Fix Missing Documents Issue"
-description: "Fix DigiLocker document not found error. Learn why documents are missing from DigiLocker and how to fetch, link, and retrieve Aadhaar, PAN, and other documents."
+title: "DigiLocker Document Not Found 2026? 6 Fixes for Missing Aadhaar, PAN & Marksheet"
+description: "DigiLocker showing 'Document Not Found'? 6 fixes: 1) Search by type (e.g. 'CBSE' not 'marksheet'); 2) Click 'Get from Issuer' to fetch manually; 3) Link correct Aadhaar in settings; 4) CBSE marksheet → search 'CBSE Board'; 5) PAN → search 'Income Tax Dept'; 6) Aadhaar → 'Get from Issuer' button under ID section."
 lastUpdated: "2026-03-05"
 category: "Identity Documents"
 readingTime: "8 min"

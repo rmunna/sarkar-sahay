@@ -1,6 +1,6 @@
 ---
-title: "PM Awas Yojana Gramin (PMAY-G) — How to Apply & Benefits"
-description: Complete guide to PMAY Gramin – eligibility, financial assistance amount, how to apply, beneficiary selection, and check your name in the PMAY-G list.
+title: "PM Awas Yojana Gramin 2026 — ₹1.20 Lakh for Pucca House, Check List at pmayg.nic.in"
+description: "PMAY-G gives ₹1.20 lakh (plains) or ₹1.30 lakh (hills/NE) for constructing pucca house. Selected from SECC-2011 data + Gram Sabha priority list. Apply via Gram Panchayat or CSC. Check your name in PMAY-G beneficiary list at pmayg.nic.in. Installments: ₹40K + ₹40K + ₹40K at 3 construction stages."
 category: Government Schemes
 keywords:
   - PM Awas Yojana Gramin
