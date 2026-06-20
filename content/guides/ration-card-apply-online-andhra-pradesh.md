@@ -1,6 +1,6 @@
 ---
-title: "Andhra Pradesh Ration Card Apply Online 2026 — AP EPDS, meeseva.gov.in & Status"
-description: "Apply for new ration card in Andhra Pradesh online via MeeSeva (meeseva.gov.in) or AP EPDS portal (epdsap.ap.gov.in). AP ration card types (PHH, AAY, AAP), eligibility, documents, status check, and helpline 1967."
+title: "AP Ration Card Apply Online 2026 — New Card at epdsap.ap.gov.in or MeeSeva, Status & 1967"
+description: "Apply for Andhra Pradesh ration card online at epdsap.ap.gov.in or MeeSeva (meeseva.gov.in). AP card types: PHH (5 kg free/month), AAY (35 kg free/month for poorest), AAP (subsidised). Documents: Aadhaar, income proof. Check application status at AP EPDS portal. Helpline: 1967."
 category: "Food & Ration"
 keywords:
   - andhra pradesh ration card apply online 2026

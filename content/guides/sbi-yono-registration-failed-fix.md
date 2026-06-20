@@ -1,6 +1,6 @@
 ---
-title: "SBI YONO Registration Failed? How to Fix YONO App Activation Errors"
-description: "Getting SBI YONO registration failed error? Fix YONO app activation issues including OTP not received, MPIN setup errors, and account linking problems step by step."
+title: "YONO SBI Registration Failed 2026? Fix OTP Not Coming, MPIN Setup & Account Not Linking"
+description: "SBI YONO registration failing? Fix: OTP not coming → check SBI-registered mobile number (not just any number); MPIN setup error → use 6-digit PIN different from ATM PIN; account not linking → net banking must be active at onlinesbi.sbi first. How to re-register if YONO account gets locked."
 slug: "sbi-yono-registration-failed-fix"
 category: "Tax & Finance"
 tags: ["SBI YONO", "YONO registration", "SBI app", "mobile banking", "YONO activation"]

@@ -1,8 +1,6 @@
 ---
-title: "DL Test Slot Not Available? Fix Booking Issues on Sarathi Portal"
-description: >-
-  Driving licence test slot not available on Sarathi portal? Learn how to fix DL
-  test booking issues, find slots faster, and book your driving test successfully.
+title: "DL Test Slot Not Available 2026? Check Sarathi Every Tuesday 10 AM & Book Fast"
+description: "Driving licence test slot not available on parivahan.gov.in Sarathi portal? New slots open every Tuesday at 10 AM for the coming week — book within minutes of opening. Also try: nearby RTO in adjoining district, check 30–45 days ahead, use mParivahan app. Slot booking step-by-step for LL and DL test 2026."
 category: Utilities
 keywords:
   - dl test slot not available

@@ -1,7 +1,6 @@
 ---
-title: "Seva Sindhu Application Rejected Karnataka — Reasons & How to Fix"
-description: >-
-  Fix Seva Sindhu application rejected errors in Karnataka. Common rejection reasons for caste, income, domicile certificates and how to re-apply successfully.
+title: "Seva Sindhu Application Rejected 2026 — Karnataka Fix, Resubmit & Helpline 6361799811"
+description: "Seva Sindhu certificate application rejected? View rejection reason at sevasindhu.karnataka.gov.in → Track Application. Common reasons: Aadhaar address mismatch, income above limit, wrong supporting document uploaded. Fix and resubmit from same login — no fresh registration needed. Helpline: 6361799811."
 category: "Certificates"
 keywords:
   - seva sindhu application rejected

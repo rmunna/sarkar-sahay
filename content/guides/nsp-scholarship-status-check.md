@@ -1,6 +1,6 @@
 ---
-title: "NSP Scholarship Status Check 2026 — Track Application Online"
-description: "Check your NSP scholarship status online — track application, verify payment, and fix common issues on the National Scholarship Portal 2026."
+title: "NSP Scholarship Status Check 2026 — Track Application & Payment at scholarships.gov.in"
+description: "Check NSP scholarship status at scholarships.gov.in → Login → Track Application. Status meanings: Verified (at institute/renewal), Approved (payment processing), Defective (fix the issue shown), Rejected (re-apply next round). Separate payment status at pfms.nic.in using Aadhaar or bank account number."
 category: "Government Schemes"
 keywords: ["NSP scholarship status", "National Scholarship Portal status check", "NSP payment status", "scholarship tracking 2026", "NSP application status", "scholarships.gov.in status"]
 lastUpdated: "2026-03-05"

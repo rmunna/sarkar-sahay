@@ -1,6 +1,6 @@
 ---
-title: "Late Death Certificate Registration — Process, Documents & Fee (All States 2026)"
-description: "How to register a death late (after 21 days or 1 year) in India. Magistrate order, affidavit, required documents, fees, and step-by-step process for Telangana, Maharashtra, Kerala, Delhi & other states."
+title: "Late Death Certificate Registration 2026 — After 21 Days: Magistrate Order, Affidavit & Fee"
+description: "Register death after the 21-day deadline: 21 days–1 year → SDM/Magistrate order + affidavit + ₹5–₹25 late fee; after 1 year → Executive Magistrate verified order + ₹50–₹100 court fee. Apply at municipal corporation or gram panchayat. Documents: medical cause certificate, Aadhaar of deceased, family member ID."
 category: Certificates
 keywords:
   - late death registration

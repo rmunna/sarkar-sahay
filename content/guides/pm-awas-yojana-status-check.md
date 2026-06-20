@@ -1,6 +1,6 @@
 ---
-title: "PM Awas Yojana Status Check — Track Your PMAY Application Online"
-description: "Check PM Awas Yojana application status online using PMAY portal. Track PMAY-G and PMAY-U housing scheme status with Aadhaar or application ID."
+title: "PM Awas Yojana Status Check 2026 — Track PMAY-G & PMAY-U at pmaymis.gov.in or AwasApp"
+description: "Check PMAY status online: Urban (PMAY-U) at pmaymis.gov.in, Gramin (PMAY-G) at pmayg.nic.in. Search by Aadhaar, registration ID or mobile number. Status shows: shortlisted, approved, instalment 1/2/3 released, construction in progress — and expected completion date."
 category: "Government Schemes"
 keywords:
   - PM Awas Yojana status check

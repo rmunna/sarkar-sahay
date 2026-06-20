@@ -1,6 +1,6 @@
 ---
-title: "CSC Center Near Me: Find Nearest Common Service Centre"
-description: "Find the nearest CSC center or Jan Seva Kendra near you. Use the official CSC locator tool to search by district, PIN code, and available services."
+title: "CSC Center Near Me 2026 — Find Common Service Centre at locator.csccloud.in by PIN Code"
+description: "Find nearest CSC (Common Service Centre / Jan Seva Kendra) at locator.csccloud.in. Search by district, PIN code or service type (Aadhaar, PAN, passport, ration card). CSC provides 300+ government services in one place. Also find via Google Maps: search 'Jan Seva Kendra near me' — open Mon–Sat 9 AM–6 PM."
 category: "Utilities"
 keywords:
   - CSC center near me

@@ -1,8 +1,6 @@
 ---
-title: "BSNL Broadband Not Working? Fix Internet Connection"
-description: >-
-  Fix BSNL broadband issues — modem restart, DSL light blinking, FTTH problems,
-  slow speed, complaint at 198 and selfcare portal for BSNL internet solutions.
+title: "BSNL Broadband Not Working 2026? Fix DSL Light Blinking, Slow Speed & Log at 198"
+description: "BSNL broadband down? Fix: DSL light blinking red → restart ONT/modem; connected but no internet → reset PPPoE credentials at selfcare.bsnl.co.in; slow speed below plan speed → raise complaint at 198 or selfcare portal (SLA: 48 hours). FTTH fiber cut: call 18004444198 (toll-free). ADSL and Bharat Fiber steps."
 category: Utilities
 keywords:
   - bsnl broadband not working

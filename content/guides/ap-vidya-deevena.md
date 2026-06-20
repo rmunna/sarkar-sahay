@@ -1,8 +1,6 @@
 ---
-title: Vidya Deevena AP – Fee Reimbursement for Students, Eligibility & Apply
-description: >-
-  Complete guide to AP Vidya Deevena fee reimbursement scheme for students.
-  Eligibility criteria, documents, application process, and payment details.
+title: "AP Vidya Deevena 2026 — Full Fee Reimbursement for SC/ST/BC Students, Apply & Status"
+description: "Andhra Pradesh Vidya Deevena: 100% tuition fee reimbursement for SC, ST, BC and EBC students in professional colleges. Income limit: ₹2.5L/year (BC/EBC), no limit for SC/ST. Apply at apepass.apcfss.in. Track payment status on same portal. Documents: income certificate, caste certificate, fee receipt."
 category: State Schemes
 keywords:
   - Vidya Deevena AP

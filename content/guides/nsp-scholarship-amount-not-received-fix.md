@@ -1,8 +1,6 @@
 ---
-title: "NSP Scholarship Amount Not Received? Track & Fix"
-description: >-
-  Track and fix NSP scholarship payment issues including PFMS status, bank
-  account mismatch, Aadhaar not seeded, DBT failure, and state vs central
+title: "NSP Scholarship Amount Not Received 2026? Check PFMS & Fix Bank/Aadhaar Mismatch"
+description: "NSP scholarship not credited? Check payment status at pfms.nic.in using Aadhaar or bank account. PFMS FAIL reasons: bank name mismatch (use exact name from passbook), Aadhaar not seeded at bank, DBT inactive. Fix each reason at bank branch or NSP portal. Resubmit within scholarship renewal window."
   schemes.
 category: Jobs & Exams
 keywords:

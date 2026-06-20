@@ -1,6 +1,6 @@
 ---
-title: "Aadhaar Card Download Not Working — How to Fix Guide)"
-description: "Aadhaar download not working on myaadhaar.uidai.gov.in? Fix OTP errors, invalid Aadhaar/VID, PDF password issues, and mAadhaar app problems."
+title: "Aadhaar Card Download Not Working 2026? Fix OTP Error & PDF Password at myaadhaar.uidai.gov.in"
+description: "Aadhaar download failing at myaadhaar.uidai.gov.in? Fix: OTP not coming → mobile linked to Aadhaar is different from what you entered; 'invalid Aadhaar' → check 12-digit number carefully; PDF won't open → password is first 4 letters of name (CAPS) + birth year e.g. RAJE1990. mAadhaar app as alternative."
 category: "Identity Documents"
 keywords:
   - aadhaar download not working

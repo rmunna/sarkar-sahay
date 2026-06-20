@@ -1,6 +1,6 @@
 ---
-title: "Ration Card Transfer to Another State — How to Apply & Benefits"
-description: "How to transfer your ration card to another state using ONORC or fresh application. Step-by-step inter-state ration card transfer process explained simply."
+title: "Ration Card Transfer to Another State 2026 — ONORC vs Fresh Application & Process"
+description: "Moving to another state? Use One Nation One Ration Card (ONORC) to use existing card at any FPS across India — no formal transfer needed. For permanent move: surrender old card, get no-dues certificate, apply fresh in new state within 3 months. ONORC works at 75 crore+ shops — how to use it."
 category: "Food & Ration"
 keywords: ["ration card transfer", "inter-state ration card", "ONORC transfer", "ration card migration", "transfer ration card another state", "One Nation One Ration Card"]
 readingTime: "8 min"

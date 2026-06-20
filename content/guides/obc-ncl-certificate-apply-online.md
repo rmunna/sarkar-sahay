@@ -1,6 +1,6 @@
 ---
-title: "OBC NCL Certificate Apply Online 2026 — Non-Creamy Layer, All States, UPSC & SSC"
-description: "Apply for OBC Non-Creamy Layer (NCL) certificate 2026. Income limit ₹8 lakh/year. Required for UPSC, SSC, JEE/NIT, NEET central quota. State-wise portal links & documents. Central OBC vs state OBC explained."
+title: "OBC NCL Certificate Apply Online 2026 — Income Limit ₹8L/Year, UPSC & SSC Valid"
+description: "OBC Non-Creamy Layer (NCL) certificate: family income must be below ₹8L/year (excluding agricultural income). Apply at state e-district portal. Valid for UPSC, SSC, IIT/NIT/NEET central quota. Note: central OBC list ≠ state OBC list — check your caste is in central list for central jobs. Processing: 15–30 days."
 category: "Certificates"
 keywords:
   - obc ncl certificate apply online 2026

@@ -1,6 +1,6 @@
 ---
-title: "Ration Card Name Not Updated? Fix Stuck or Rejected Corrections"
-description: "Ration card name correction pending or rejected? Fix NFSA portal errors, spelling mistakes & stuck applications. Online + offline solutions that work."
+title: "Ration Card Name Correction Not Updated 2026 — Fix Stuck or Rejected Application"
+description: "Ration card name correction not reflecting after 15–30 days? Fix: check status at state PDS portal; if 'Rejected' → view reason and resubmit with correct Aadhaar spelling; if application stuck → visit FCS office with Aadhaar and application receipt. Name must exactly match Aadhaar card. State portals inside."
 category: "Food & Ration"
 keywords:
   - ration card name not updated

@@ -1,6 +1,6 @@
 ---
-title: "ICICI UPI Payment Failed? Fix Transaction Errors"
-description: "Fix ICICI Bank UPI payment failures — bank server down, daily limit exceeded, wrong MPIN, VPA issues, and pending transaction problems solved."
+title: "ICICI UPI Payment Failed 2026? Fix Daily Limit, Wrong MPIN & Bank Server Error"
+description: "ICICI UPI payment failed? Fix: 'daily limit exceeded' → ICICI per-day UPI limit is ₹1L, split into smaller transactions; 'incorrect MPIN' → reset in iMobile Pay app → Profile → UPI; 'bank server unavailable' → try after 10–15 min. Pending amount auto-reverses to bank in 48 hours if not debited."
 category: Tax & Finance
 keywords:
   - icici upi payment failed
