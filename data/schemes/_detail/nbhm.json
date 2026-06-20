@@ -1,0 +1,25 @@
+{
+  "slug": "nbhm",
+  "name": "National Beekeeping & Honey Mission",
+  "shortTitle": "NBHM",
+  "level": "central",
+  "state": null,
+  "nodalDept": "National Bee Board (NBB)",
+  "schemeFor": "Beekeepers and Farmers",
+  "targetBeneficiaries": [
+    "Beekeepers",
+    "Farmers",
+    "Agricultural Cooperatives",
+    "Research Institutions"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The National Beekeeping & Honey Mission promotes scientific beekeeping to achieve the 'Sweet Revolution' goal, implemented by the National Bee Board.",
+  "descriptionMd": "The National Beekeeping & Honey Mission (NBHM) was launched as part of the Atmanirbhar Bharat Abhiyaan. Its primary objective is the overall promotion and development of scientific beekeeping practices across the country. This mission aims to achieve the 'Sweet Revolution' by supporting the beekeeping sector and is implemented through the National Bee Board (NBB).",
+  "benefitsMd": "- **Promotion of scientific beekeeping**: Aims to encourage and expand the adoption of modern beekeeping techniques.\n- **Development of beekeeping infrastructure**: Supports the growth and modernization of the beekeeping industry.\n- **Achievement of 'Sweet Revolution'**: Contributes to increasing honey production and quality in India.",
+  "eligibilityMd": "Eligibility criteria for individual beneficiaries are not explicitly detailed in the provided information. Please refer to the official scheme portal for complete details.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

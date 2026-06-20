@@ -1,0 +1,25 @@
+{
+  "slug": "gff-rdou",
+  "name": "Grant to Films - Regional Dialects of Uttarakhand",
+  "shortTitle": "Uttarakhand Regional Film Grant",
+  "level": "state",
+  "state": "uttarakhand",
+  "nodalDept": null,
+  "schemeFor": "Organisation",
+  "targetBeneficiaries": [
+    "Filmmakers",
+    "Producers",
+    "Producers of children's films",
+    "Producers of OTT-based projects"
+  ],
+  "benefitType": "Financial Assistance",
+  "briefDescription": "Under this scheme, grants and subsidies are provided to filmmakers and producers to cover expenses incurred during film production.",
+  "descriptionMd": "Under this scheme, grants and subsidies are provided to filmmakers and producers to cover expenses incurred during film production. Additional incentives are available for children’s films. OTT-based projects are also eligible under specific conditions, promoting diverse cinematic content within Uttarakhand.",
+  "benefitsMd": "- Grants and subsidies provided to cover film production expenses.\n- Additional incentives available for children's films.\n- OTT-based projects are eligible under specific conditions.\n- Support for films promoting regional dialects of Uttarakhand.",
+  "eligibilityMd": "- Filmmakers and producers are eligible.\n- Projects incurring film production expenses are eligible.\n- Children's films are eligible for additional incentives.\n- OTT-based projects are eligible under specific conditions.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

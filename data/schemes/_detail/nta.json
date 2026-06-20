@@ -1,0 +1,25 @@
+{
+  "slug": "nta",
+  "name": "National Technology Awards",
+  "shortTitle": "Technology Awards",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Contact the official scheme portal for details",
+  "schemeFor": "Innovators and Organizations",
+  "targetBeneficiaries": [
+    "Technological innovators",
+    "Research organizations",
+    "Companies",
+    "Individuals and teams involved in technology development"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The National Technology Awards celebrate and recognize outstanding technological innovation and excellence across various industries within the country. This program highlights significant contributions to technology development.",
+  "descriptionMd": "The National Technology Awards is a prestigious program designed to honor and promote excellence in technological innovation across diverse sectors. It acknowledges individuals, teams, and organizations that have made significant contributions to advancing technology within the country. The scheme aims to foster a vibrant culture of innovation and encourage further breakthroughs in science and technology.",
+  "benefitsMd": "*   Recognition and honor for significant technological innovation.\n*   Public celebration of excellence in various technology sectors.\n*   Opportunities for innovators to showcase their achievements.\n*   Encouragement and motivation for further technological advancements.",
+  "eligibilityMd": "*   Candidates must demonstrate technological innovation.\n*   Contributions must show excellence in their respective technological fields.\n*   Participants must operate within a particular country.\n*   Innovations should span across various industries.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

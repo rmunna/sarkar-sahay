@@ -1,0 +1,23 @@
+{
+  "slug": "gff-flf",
+  "name": "Grant to Films - Foreign Language Films",
+  "shortTitle": "Foreign Film Grant UK",
+  "level": "state",
+  "state": "uttarakhand",
+  "nodalDept": null,
+  "schemeFor": "Production Companies",
+  "targetBeneficiaries": [
+    "Foreign language film producers",
+    "Film production companies"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This scheme provides financial grants to foreign language films shot in Uttarakhand, covering a portion of their in-state production expenditure.",
+  "descriptionMd": "The 'Grant to Films - Foreign Language Films' scheme by the state of Uttarakhand aims to promote the state as a prime shooting destination for international cinema. It offers financial incentives to foreign language films that choose to film within Uttarakhand, thereby boosting local economy and tourism. The scheme encourages accurate depiction of the state's locations, enhancing its global visibility.",
+  "benefitsMd": "- Financial grants of up to 50% of in-state production expenditure.\n- Maximum grant amount of ₹3 crore per film.",
+  "eligibilityMd": "- The film must be a foreign language film.\n- The film must be shot in Uttarakhand.\n- Minimum in-state expenditure exceeding ₹3 crore must be incurred within the state.\n- Shooting locations within Uttarakhand must be accurately depicted in the film.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

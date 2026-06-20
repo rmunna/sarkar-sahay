@@ -1,0 +1,25 @@
+{
+  "slug": "iamanak",
+  "name": "INSPIRE Awards – MANAK (Million Minds Augmenting National Aspirations and Knowledge)",
+  "shortTitle": "INSPIRE MANAK",
+  "level": "central",
+  "state": null,
+  "nodalDept": null,
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Students",
+    "School children",
+    "Youth aged 10-15",
+    "Students in classes 6 to 10"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This central scheme motivates students aged 10-15 (Classes 6-10) to develop one million science and societal innovations, fostering creativity and innovation in schools.",
+  "descriptionMd": "The INSPIRE Awards – MANAK scheme is a central initiative designed to motivate students across India. It aims to encourage young minds, specifically those in classes 6 to 10 and aged 10-15 years, to explore and develop original ideas and innovations. The core purpose is to cultivate a strong culture of scientific creativity and innovative thinking among school children by targeting one million such ideas.",
+  "benefitsMd": "- Motivates students to develop original scientific and socially relevant ideas.\n- Fosters a culture of creativity and innovative thinking among school children.\n- Aims to generate one million new ideas/innovations from young minds.",
+  "eligibilityMd": "- Student must be in the age group of 10-15 years.\n- Student must be studying in classes 6 to 10.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

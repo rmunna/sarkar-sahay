@@ -1,0 +1,23 @@
+{
+  "slug": "pmvbry-pb",
+  "name": "Pradhan Mantri Viksit Bharat Rozgar Yojana: Part B- Support to Employers with Focus on Manufacturing Sector",
+  "shortTitle": "PMVB Rozgar Yojana Part B",
+  "level": "central",
+  "state": null,
+  "nodalDept": null,
+  "schemeFor": "Establishments/Employers",
+  "targetBeneficiaries": [
+    "Employers",
+    "Establishments engaged in manufacturing sector"
+  ],
+  "benefitType": "service",
+  "briefDescription": "This employer-focused component of the scheme supports the creation of sustained additional employment in all sectors by incentivizing employers for new hires, with extended support for manufacturing.",
+  "descriptionMd": "The Pradhan Mantri Viksit Bharat Rozgar Yojana: Part B is a crucial component designed to stimulate employment growth across India. It primarily aims to support employers in creating new, sustained job opportunities. By offering incentives, the scheme encourages businesses to expand their workforce, contributing to economic development and reducing unemployment.",
+  "benefitsMd": "- Incentives for creation of additional employment in all sectors.\n- Incentives provided for 2 years for establishments creating additional employment.\n- Incentives provided for 4 years for establishments engaged specifically in the manufacturing sector.",
+  "eligibilityMd": "- Establishments must be creating sustained additional employment.\n- Establishments from all sectors are eligible for incentives for 2 years.\n- Establishments specifically engaged in the manufacturing sector are eligible for incentives for 4 years.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

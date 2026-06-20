@@ -1,0 +1,25 @@
+{
+  "slug": "samruddhischeme",
+  "name": "Samruddhi Scheme",
+  "shortTitle": "Samruddhi",
+  "level": "state",
+  "state": "karnataka",
+  "nodalDept": "Social Welfare Department",
+  "schemeFor": "Individual",
+  "targetBeneficiaries": [
+    "Socially disadvantaged youth",
+    "Socially disadvantaged women",
+    "Entrepreneurs",
+    "Individuals seeking self-employment"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The Samruddhi scheme, an initiative from the Social Welfare Department of Karnataka, empowers socially disadvantaged youth and women for entrepreneurship and self-employment.",
+  "descriptionMd": "The Samruddhi Scheme is a key initiative by the Social Welfare Department of the Government of Karnataka. Its primary goal is to act as an enabler for socially disadvantaged youth and women. The scheme aims to facilitate their engagement in entrepreneurial activities, thereby promoting self-employment opportunities and economic independence.",
+  "benefitsMd": "- Enables socially disadvantaged youth to take up entrepreneurial activities.\n- Enables socially disadvantaged women to take up entrepreneurial activities.\n- Promotes self-employment opportunities for beneficiaries.",
+  "eligibilityMd": "- Individuals must be from socially disadvantaged groups.\n- Applicants must be youth.\n- Applicants must be women.\n- Interested in taking up entrepreneurial activities.\n- Aiming to promote self-employment.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

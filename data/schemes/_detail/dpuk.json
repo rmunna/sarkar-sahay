@@ -1,0 +1,25 @@
+{
+  "slug": "dpuk",
+  "name": "Drone Policy",
+  "shortTitle": "UK Drone Policy",
+  "level": "state",
+  "state": "uttarakhand",
+  "nodalDept": "Information Technology Development Agency, Government of Uttarakhand",
+  "schemeFor": "Organizations and Individuals",
+  "targetBeneficiaries": [
+    "Drone service providers",
+    "Innovators in drone technology",
+    "Businesses integrating drone solutions",
+    "Researchers in the drone sector"
+  ],
+  "benefitType": "service",
+  "briefDescription": "The Drone Policy by the Uttarakhand government aims to boost drone-based services, foster innovation in drone technology, and build a supportive drone ecosystem within the state.",
+  "descriptionMd": "The Drone Policy by the Information Technology Development Agency, Government of Uttarakhand, is designed to propel the state into a leader in drone technology. It focuses on promoting efficient drone-based service delivery across various sectors. Furthermore, the policy encourages significant innovation in drone technology and works towards developing a robust, supportive drone ecosystem within Uttarakhand, fostering economic growth and technological advancement.",
+  "benefitsMd": "*   Promotion of drone-based service delivery across sectors.\n*   Fostering innovation and research in drone technology.\n*   Development of a supportive and robust drone ecosystem.\n*   Advancement of technological capabilities in Uttarakhand.",
+  "eligibilityMd": "*   Entities involved in providing drone-based services.\n*   Innovators and researchers in drone technology.\n*   Organizations contributing to the drone ecosystem in Uttarakhand.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

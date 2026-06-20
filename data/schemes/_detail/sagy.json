@@ -1,0 +1,23 @@
+{
+  "slug": "sagy",
+  "name": "Saansad Adarsh Gram Yojana",
+  "shortTitle": "SAGY",
+  "level": "central",
+  "state": null,
+  "nodalDept": null,
+  "schemeFor": "Community",
+  "targetBeneficiaries": [
+    "Gram Panchayats",
+    "Rural communities"
+  ],
+  "benefitType": "service",
+  "briefDescription": "Saansad Adarsh Gram Yojana aims to translate Mahatma Gandhi's vision of an ideal Indian village into reality, by empowering Gram Panchayats for holistic progress.",
+  "descriptionMd": "The Saansad Adarsh Gram Yojana (SAGY) is a unique rural development programme that aims to translate Mahatma Gandhi's comprehensive vision of an ideal Indian village into reality, adapting it to the contemporary context. Under this scheme, each Member of Parliament (MP) adopts a Gram Panchayat within their constituency and works to guide its holistic development. The focus is on integrated progress, giving special importance to social development and community participation.",
+  "benefitsMd": "- **Holistic Village Development:** Guidance for comprehensive progress in adopted Gram Panchayats.\n- **Social Development Focus:** Emphasis on improving social indicators within rural communities.\n- **MP Guidance:** Direct involvement and leadership from Members of Parliament in village planning and execution.\n- **Realizing Ideal Village Vision:** Works towards Mahatma Gandhi's concept of a self-sufficient, ideal Indian village.",
+  "eligibilityMd": "- Gram Panchayats chosen for adoption by a Member of Parliament (MP).\n- Villages designated for holistic progress, encompassing social development.\n- Rural communities seeking comprehensive development initiatives guided by an MP.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}

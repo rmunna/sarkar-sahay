@@ -1,0 +1,23 @@
+{
+  "slug": "rgsa",
+  "name": "Rashtriya Gram Swaraj Abhiyan",
+  "shortTitle": "RGSA",
+  "level": "central",
+  "state": null,
+  "nodalDept": "Ministry of Panchayati Raj",
+  "schemeFor": "Institutions",
+  "targetBeneficiaries": [
+    "Panchayati Raj Institutions",
+    "Rural communities"
+  ],
+  "benefitType": "service",
+  "briefDescription": "Rashtriya Gram Swaraj Abhiyan (RGSA) is an umbrella scheme by the Ministry of Panchayati Raj to develop and strengthen the Panchayati Raj System in rural areas across India.",
+  "descriptionMd": "Rashtriya Gram Swaraj Abhiyan (RGSA) was launched on 24th April 2018 'National Panchayat Day' by the Hon'ble Prime Minister. It serves as an umbrella scheme of the Ministry of Panchayati Raj.\n\nThe unique objective of RGSA is to develop and strengthen the Panchayati Raj System across India, specifically focusing on rural areas.",
+  "benefitsMd": "- Development of the Panchayati Raj System across India.\n- Strengthening of the Panchayati Raj System at the grassroots level.\n- Enhancement of governance capabilities in rural local bodies.\n- Support for effective functioning of rural areas through PRIs.",
+  "eligibilityMd": "- Applicable to the Panchayati Raj System across India.\n- Focuses on the development and strengthening of institutions in rural areas.\n- Aims to benefit rural communities through improved local governance.\n- Open to Panchayati Raj Institutions in all states and union territories.",
+  "exclusionsMd": "",
+  "applicationMode": null,
+  "applicationMd": "Contact the nodal department or visit the official scheme portal to apply.",
+  "references": [],
+  "fetchedAt": "2026-06-20"
+}
