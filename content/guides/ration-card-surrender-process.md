@@ -1,6 +1,6 @@
 ---
-title: "Ration Card Surrender Process — How to Cancel or Surrender Your Ration Card"
-description: "Complete guide to surrendering or cancelling a ration card in India including step-by-step process, documents needed, and important guidelines."
+title: "Ration Card Surrender at Office 2026 — Application Format, Documents & No-Dues Certificate"
+description: "Surrender your ration card at the Food & Civil Supplies office with a written application, original ration card and Aadhaar. Get a surrender receipt and no-dues certificate — required for ration card transfer, duplicate or new city application. State-wise process."
 category: "Food & Ration"
 keywords: ["ration card surrender", "cancel ration card", "surrender ration card process", "ration card cancellation", "give up ration card"]
 readingTime: "7 min"

@@ -1,6 +1,6 @@
 ---
-title: "DL Test Failed? How to Rebook & Reapply"
-description: "Failed your driving licence test? Learn the waiting period, how to rebook your DL test on Parivahan portal, and tips to pass on your next attempt."
+title: "Driving Licence Test Failed 2026 — Wait 7 Days, Rebook at Parivahan & Tips to Pass"
+description: "Failed your driving licence test? You must wait 7 days before retesting at the same RTO. Rebook your DL test at parivahan.gov.in → Sarathi services → slot booking. Tips to pass: practice figure-8, H-reverse and parking for LMV test. Fee ₹300."
 category: "Identity Documents"
 keywords: ["driving licence test failed", "DL test rebook", "reapply driving test", "parivahan test slot", "driving test failed reapply", "DL test waiting period"]
 readingTime: "8 min"

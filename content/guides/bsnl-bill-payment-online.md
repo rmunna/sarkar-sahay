@@ -1,8 +1,6 @@
 ---
-title: "BSNL Bill Payment Online: Landline & Broadband"
-description: >-
-  Pay BSNL landline and broadband bills online via portal.bsnl.in, UPI, auto-pay
-  setup, bill download, overdue charges and how to file payment complaints.
+title: "BSNL Bill Payment Online 2026 — Pay Landline & Broadband at portal.bsnl.in or UPI"
+description: "Pay BSNL landline and broadband bills online at portal.bsnl.in, or via PhonePe/GPay/Paytm UPI, BBPS, net banking. Set auto-pay to avoid late fees. Download BSNL bill PDF, dispute wrong charges, pay overdue bills — step-by-step guide."
 category: Utilities
 keywords:
   - bsnl bill payment online

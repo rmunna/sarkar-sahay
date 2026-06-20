@@ -1,8 +1,6 @@
 ---
-title: Gruha Jyothi Telangana – Free Electricity 200 Units, Eligibility & Apply
-description: >-
-  Guide to Telangana Gruha Jyothi scheme providing free electricity up to 200
-  units per month. Check eligibility, how to apply, and billing details.
+title: "Gruha Jyothi Telangana 2026 — Free 200 Units Electricity, Apply & Status Check"
+description: "Telangana Gruha Jyothi gives free electricity up to 200 units/month to domestic consumers. Apply at tssouthernpower.com or TSNPDCL portal. Check your application status and fix bill-not-zero issues — eligibility, Aadhaar linking and seeding guide."
 category: State Schemes
 keywords:
   - Gruha Jyothi Telangana

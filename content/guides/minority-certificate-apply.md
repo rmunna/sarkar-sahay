@@ -1,6 +1,6 @@
 ---
-title: "Minority Certificate — How to Apply Online for Minority Community Certificate"
-description: "Complete guide to applying for a minority certificate in India. Learn about eligibility, required documents, state-wise online process, and benefits."
+title: "Minority Community Certificate Apply Online 2026 — Eligibility, Documents & State-Wise Process"
+description: "Minority certificate is issued to Muslims, Christians, Sikhs, Buddhists, Jains and Parsis for scholarships, fee waivers and welfare benefits. Apply via your state's e-district portal. Documents: Aadhaar + religion proof (baptism, nikah, gurudwara record)."
 category: "Certificates"
 keywords: ["minority certificate", "minority community certificate", "minority certificate online", "minority scholarship", "minority certificate apply"]
 readingTime: "7 min"

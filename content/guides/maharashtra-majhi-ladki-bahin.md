@@ -1,6 +1,6 @@
 ---
-title: "Majhi Ladki Bahin Yojana 2026 — ₹1,500/Month, Apply Online & Check Status"
-description: "Maharashtra Majhi Ladki Bahin Yojana: ₹1,500/month for women aged 21-65 with family income below ₹2.5 lakh. Apply at ladakibahin.maharashtra.gov.in, check payment status, eligibility & documents."
+title: "Majhi Ladki Bahin Yojana 2026 — ₹1,500/Month for Women, Apply & Check Payment Status"
+description: "Maharashtra Majhi Ladki Bahin Yojana gives ₹1,500/month to women aged 21–65 with family income below ₹2.5 lakh/year. Apply at ladakibahin.maharashtra.gov.in. Check payment status, installment dates, eligibility documents and common rejection reasons."
 category: "State Schemes"
 keywords:
   - "majhi ladki bahin yojana"

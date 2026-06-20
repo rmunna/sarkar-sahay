@@ -1,8 +1,6 @@
 ---
-title: "Electronic Money Order (eMO): How to Send Money Online via India Post"
-description: >-
-  Send electronic money order (eMO) online through epostoffice.gov.in. Know eMO
-  charges, amount limits, tracking process, and delivery timeline in India.
+title: "Electronic Money Order (eMO) 2026 — Send via India Post at epostoffice.gov.in, Charges & Track"
+description: "Send money via eMO (Electronic Money Order) at epostoffice.gov.in or any post office. Charges: ₹5 fixed + 0.5% of amount. Max ₹5,000 per eMO. Money reaches recipient in 1–3 days. Best for sending to rural areas without UPI or bank access. Track eMO status online."
 category: Utilities
 keywords:
   - electronic money order

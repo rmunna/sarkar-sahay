@@ -1,6 +1,6 @@
 ---
-title: "DigiLocker OTP Not Coming? Fix Login Issues"
-description: "DigiLocker OTP not received on mobile? Fix login problems including Aadhaar not linked, server errors, and OTP delivery failures step by step."
+title: "DigiLocker OTP Not Coming on Mobile 2026 — Fix Aadhaar Mobile Mismatch & SMS Delay"
+description: "DigiLocker OTP goes to the mobile number linked with your Aadhaar — not what you type on the login screen. Fix: update Aadhaar-linked mobile at any Aadhaar Seva Kendra (₹50), or use DigiLocker face authentication instead of OTP. 3 working fixes."
 category: "Identity Documents"
 keywords: ["digilocker otp not coming", "digilocker login problem", "digilocker otp not received", "digilocker aadhaar not linked", "digilocker server error", "digilocker login fix"]
 readingTime: "7 min"

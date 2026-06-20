@@ -1,6 +1,6 @@
 ---
-title: "UMANG App Not Working Today? Fix Login, OTP & Crash Errors"
-description: "UMANG app not opening, login failed or OTP not coming? Fix crashes, service not loading & connection errors. Step-by-step troubleshooting that works."
+title: "UMANG App Not Working 2026? Fix Login, OTP Not Coming & Service Not Loading"
+description: "UMANG app not opening or crashing? Fix: update app, clear cache, re-register mobile. PF balance not showing → use EPFO website directly. Passport service error → use mPassport app. Aadhaar service down → use myAadhaar.uidai.gov.in. 7 UMANG errors fixed."
 category: "Utilities"
 keywords:
   - umang app not working

@@ -1,6 +1,6 @@
 ---
-title: "UP Caste Certificate Online — Apply via eSathi Portal"
-description: "Apply for SC/ST/OBC caste certificate in Uttar Pradesh online via eSathi portal. Step-by-step process, documents, fees & download guide."
+title: "UP Caste Certificate Apply Online 2026 — SC/ST/OBC via eSathi at edistrict.up.gov.in"
+description: "Apply for UP OBC/SC/ST caste certificate online at edistrict.up.gov.in via eSathi portal. Documents: Aadhaar, ration card, income certificate. Processing time: 15–30 days. Download digitally signed caste certificate PDF — valid for job reservations and admissions."
 category: "Certificates"
 keywords:
   - "UP caste certificate online"

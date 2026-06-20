@@ -1,6 +1,6 @@
 ---
-title: "UPSC vs State PSC — Salary, Difficulty & Success Rate Compared"
-description: "UPSC or State PSC — which should you attempt? Compare salary (₹56K vs ₹45K), success rate (0.1% vs 2%), syllabus overlap & career growth side by side."
+title: "UPSC vs State PSC 2026 — Salary ₹56K vs ₹45K, Difficulty & Which to Choose First"
+description: "UPSC IAS/IPS starting salary ₹56,100/month vs State PSC ₹45,000/month. UPSC success rate 0.1% vs State PSC 0.5–2%. 70% syllabus overlap. Which to attempt first, age limit comparison, and honest career growth comparison — civil services guide."
 category: Jobs & Exams
 keywords:
   - upsc vs state psc

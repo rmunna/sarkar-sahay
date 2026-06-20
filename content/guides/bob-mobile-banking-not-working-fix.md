@@ -1,6 +1,6 @@
 ---
-title: "Bank of Baroda Mobile Banking Not Working? Fix It"
-description: "Bank of Baroda mobile banking not working? Fix bob World app errors, login failed, MPIN reset, device binding & server issues with this guide."
+title: "Bank of Baroda Mobile Banking Not Working 2026? Fix bob World App Login & MPIN Reset"
+description: "BOB bob World app login failed, MPIN blocked or app crashing? Fix: clear app cache → update to latest version → reset MPIN at BOB ATM → re-register device. Forgot net banking password → reset at bankofbaroda.in. Step-by-step fix for all errors."
 category: "Tax & Finance"
 keywords:
   - bank of baroda mobile banking not working

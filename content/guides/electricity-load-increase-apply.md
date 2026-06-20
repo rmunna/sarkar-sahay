@@ -1,6 +1,6 @@
 ---
-title: "Electricity Load Increase Apply Online: Process & Fees"
-description: "Apply for electricity load increase online. Complete guide on application process, security deposit, meter upgrade, fees and timeline for all states."
+title: "Electricity Load Increase Apply Online 2026 — Fee, Security Deposit & Timeline by State"
+description: "Apply for electricity load increase at your DISCOM portal. Fee: ₹500–₹3,000 + security deposit ₹1,000–₹5,000 per kW added. Takes 7–30 days. BESCOM (Karnataka), TNEB (Tamil Nadu), MSEDCL (Maharashtra), UPPCL (UP) — portal links and steps for each state."
 slug: "electricity-load-increase-apply"
 category: "Utilities"
 keywords:

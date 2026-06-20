@@ -1,8 +1,6 @@
 ---
-title: "Vi Network Not Working? Fix Vodafone Idea Signal Issues"
-description: >-
-  Fix Vi (Vodafone Idea) network problems — no signal, data not working, VoLTE
-  issues, APN settings, tower outage check and Vi helpline numbers for support.
+title: "Vi (Vodafone Idea) Network Not Working 2026? Fix No Signal, Data & VoLTE Issues"
+description: "Vi network not working? Fix: no signal → check Vi outage at mystatus.vi.in or call 199; data not working → reset APN to 'internet'; VoLTE calls failing → enable VoLTE in phone settings. State-wise Vi network status + Vi to Airtel/Jio port steps."
 category: Utilities
 keywords:
   - vi network not working

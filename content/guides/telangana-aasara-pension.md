@@ -1,6 +1,6 @@
 ---
-title: "Telangana Aasara Pension Scheme — How to Apply & Benefits"
-description: "Complete guide to Telangana Aasara pension scheme. Monthly pension for elderly, widows, disabled, and weavers. How to apply online."
+title: "Telangana Aasara Pension 2026 — Monthly Amount, Eligibility & Apply at ts.meeseva.gov.in"
+description: "Telangana Aasara pension amounts: Old Age ₹2,016/month, Widow ₹2,016/month, Disabled ₹3,016/month, Weavers ₹2,000/month. Apply at ts.meeseva.gov.in or nearest MeeSeva centre. Check payment status at discharge.telangana.gov.in."
 category: "State Schemes"
 keywords: ["aasara pension", "telangana pension scheme", "old age pension telangana", "widow pension telangana", "aasara pension apply"]
 readingTime: "7 min"

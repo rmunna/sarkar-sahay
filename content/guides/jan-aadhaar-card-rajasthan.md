@@ -1,6 +1,6 @@
 ---
-title: "Rajasthan Jan Aadhaar Card — Apply Online, Download & Link Services"
-description: "Complete guide to Rajasthan Jan Aadhaar Card — register online, add family members, download card, update details & link to government schemes."
+title: "Rajasthan Jan Aadhaar Card 2026 — Apply, Download, Add Member & Link Government Schemes"
+description: "Rajasthan Jan Aadhaar Card links your family to all state government schemes (Chiranjeevi, Mukhyamantri, PMJAY). Register at janaadhaar.rajasthan.gov.in. Download e-card, add/remove family members, update mobile number, and link bank account for DBT."
 category: "Identity Documents"
 keywords:
   - "Jan Aadhaar Card Rajasthan"
