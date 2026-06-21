@@ -1,6 +1,6 @@
 ---
-title: "Add or Remove Name from Ration Card Online (2026)"
-description: "Add or delete family member from ration card online — step-by-step process, documents needed & state-wise guide. Get it done in minutes. Apply now."
+title: "Add or Remove Name in Ration Card 2026 — Newborn, Marriage & Deceased (State-Wise Online)"
+description: "Add newborn or new spouse to ration card (within 1 year of birth/marriage), or remove deceased member. Apply at state PDS portal: UP → fcs.up.gov.in, TN → tnpds.gov.in, Karnataka → ahara.kar.nic.in, Maharashtra → rcms.mahafood.gov.in. Documents: birth/marriage/death certificate + Aadhaar. Updated in 15–30 days."
 category: "Food & Ration"
 keywords: ["ration card name addition", "remove name ration card", "add member ration card", "ration card correction", "ration card update", "delete name ration card"]
 readingTime: "7 min"

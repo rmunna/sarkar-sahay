@@ -1,8 +1,6 @@
 ---
-title: 2BHK Dignity Housing Telangana (Indiramma Illu) – Eligibility & Apply
-description: >-
-  Guide to Telangana 2BHK Dignity Housing and Indiramma Illu scheme. Free
-  houses for EWS families. Eligibility, documents, and application process.
+title: "Telangana 2BHK Housing 2026 — Indiramma Illu Free House, Eligibility & Beneficiary List"
+description: "Telangana 2BHK Dignity Housing (Indiramma Illu): free 2BHK house for EWS families who own no pucca house. Eligibility: annual income below ₹5L, Telangana resident, no own house. Check beneficiary list and apply at nearest MRO office. Construction by TSRTC on government land — ready keys-in-hand."
 category: State Schemes
 keywords:
   - 2BHK housing Telangana

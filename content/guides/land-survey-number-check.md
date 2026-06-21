@@ -1,8 +1,6 @@
 ---
-title: "Land Survey Number Check Online: State-Wise Guide"
-description: >-
-  Check your land survey number online across Indian states. State-wise portal
-  links, village map, topo sheet details, and step-by-step process explained.
+title: "Land Survey Number Check Online 2026 — Find Khasra/Plot Number State-Wise (Portal List)"
+description: "Check land survey number (khasra/plot number) online at your state land records portal: UP → upbhulekh.gov.in, TN → eservices.tn.gov.in, Karnataka → bhoomi.karnataka.gov.in, Maharashtra → mahabhulekh.maharashtra.gov.in, Rajasthan → apnakhata.raj.nic.in. Search by owner name, village or address."
 category: "Property & Legal"
 keywords:
   - land survey number check online

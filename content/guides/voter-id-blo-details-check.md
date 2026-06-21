@@ -1,6 +1,6 @@
 ---
-title: "Know Your BLO 2026 — Check Booth Level Officer Name & Phone at voters.eci.gov.in"
-description: "Find your BLO (Booth Level Officer) name, phone number and polling booth details in 2 minutes at voters.eci.gov.in. Contact BLO for voter ID verification, correction or form 6/7/8 submission."
+title: "Know Your BLO 2026 — Booth Level Officer Name & Mobile at voters.eci.gov.in in 2 Min"
+description: "Find your BLO (Booth Level Officer) name, mobile number and polling booth at voters.eci.gov.in → Know Your BLO. Contact BLO for: new registration Form 6, name correction Form 8, deletion Form 7. BLO is the ECI's ground contact in your area — faster than Voter Helpline 1950 for local issues."
 category: "Identity Documents"
 keywords:
   - know your blo

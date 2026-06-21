@@ -1,6 +1,6 @@
 ---
-title: "Property Tax Online Payment Failed — How to Fix"
-description: "Property tax payment failed or deducted but no receipt? Step-by-step fixes for BBMP, GHMC, BMC, MCD Delhi & Chennai Corp portal errors."
+title: "Property Tax Payment Failed 2026? Fix at BBMP, GHMC, MCD, BMC & Get Refund in 48 Hours"
+description: "Property tax payment failed or money deducted but no receipt? Fix: UPI timeout → retry with net banking; amount deducted but no receipt → wait 48 hours for auto-refund; portal not generating receipt → contact municipality helpline with transaction ID. Refund takes 3–5 days. State portal links: BBMP, GHMC, BMC, MCD inside."
 keywords:
   - property tax payment failed
   - property tax online payment error

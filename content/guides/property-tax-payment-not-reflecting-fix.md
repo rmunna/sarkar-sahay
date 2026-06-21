@@ -1,6 +1,6 @@
 ---
-title: "Property Tax Payment Not Reflecting? How to Fix Online Payment Issues"
-description: "Property tax paid online but not showing? Step-by-step troubleshooting guide to fix payment failures, double debits, and missing receipts."
+title: "Property Tax Payment Not Reflecting 2026? Fix Missing Receipt at BBMP, GHMC & MCD"
+description: "Property tax paid online but not showing on portal? Fix: wait 24–48 hours (systems sync overnight); download receipt directly from payment gateway using transaction ID; for BBMP: bbmptax.karnataka.gov.in, GHMC: ptgis.hyderabad.gov.in. Double debit? Dispute with your bank within 7 days for auto-refund."
 lastUpdated: "2026-03-05"
 category: "Property & Legal"
 readingTime: "8 min"

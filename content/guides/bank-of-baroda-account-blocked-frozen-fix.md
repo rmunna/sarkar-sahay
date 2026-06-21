@@ -1,6 +1,6 @@
 ---
-title: "Bank of Baroda Account Blocked or Frozen? Fix It Step by Step (2026)"
-description: "Bank of Baroda account blocked, frozen or debit freeze applied? Fix KYC freeze, IT department block, suspicious activity block & get your BOB account unblocked fast."
+title: "Bank of Baroda Account Blocked 2026? Fix KYC Freeze, IT Block & bob World App Issues"
+description: "BOB account blocked or debit freeze applied? Fix: KYC expired → submit updated documents at BOB branch; Income Tax hold → respond to IT notice at incometax.gov.in; bob World app locked → reset MPIN at any BOB ATM; suspicious activity → visit branch with Aadhaar + account statement. Helpline: 1800-5700 (toll-free)."
 category: "Tax & Finance"
 lastUpdated: "2026-05-23"
 readingTime: "8 min"

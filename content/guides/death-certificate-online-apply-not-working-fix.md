@@ -1,7 +1,6 @@
 ---
-title: "Death Certificate Online Application Not Working — How to Fix"
-description: >-
-  Fix CRSORGI portal errors, document upload failures, delayed registration issues, and verification problems for death certificate online application in India.
+title: "Death Certificate Online Application Not Working 2026? Fix CRSORGI Portal & Upload Errors"
+description: "Death certificate registration failing on CRSORGI or state portal? Fix: document upload failing → convert to PDF under 1 MB; hospital must register death within 21 days first before family can apply; portal down → try early morning or apply offline at municipal office. CRSORGI portal: crsorgi.gov.in."
 category: "Certificates"
 keywords:
   - death certificate online application not working

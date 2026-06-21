@@ -1,6 +1,6 @@
 ---
-title: "Canara Bank Account Blocked or Frozen? Fix It Step by Step (2026)"
-description: "Canara Bank account blocked, frozen or debit freeze applied? Fix KYC freeze, suspicious activity, net banking blocked & get your Canara account unblocked fast."
+title: "Canara Bank Account Blocked 2026? Fix KYC Freeze, Debit Block & Net Banking Lockout"
+description: "Canara Bank account blocked or debit freeze applied? Fix: KYC expired → submit updated documents at nearest Canara branch; suspicious transaction → visit branch with Aadhaar + last 3 months transaction statement; net banking locked → reset at branch or call 1800-425-0018 (toll-free). Reactivated within 2–3 working days."
 category: "Tax & Finance"
 lastUpdated: "2026-05-23"
 readingTime: "8 min"

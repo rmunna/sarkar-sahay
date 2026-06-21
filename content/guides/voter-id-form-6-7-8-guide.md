@@ -1,6 +1,6 @@
 ---
-title: "Voter ID Forms Guide: Form 6, 7, 8 & 8A Explained"
-description: "Complete guide to Voter ID forms — Form 6 for new registration, Form 7 for deletion, Form 8 for correction, Form 8A explained."
+title: "Voter ID Form 6, 7, 8 Guide 2026 — New Registration, Correction & Deletion at voters.eci.gov.in"
+description: "Voter ID forms: Form 6 = new voter registration; Form 7 = delete/remove name; Form 8 = correction (name, address, photo, DOB); Form 8A = part transfer within same constituency. Submit all forms online at voters.eci.gov.in or through your BLO. Processing: 30–60 days before next electoral roll update."
 category: "Identity Documents"
 keywords: ["voter ID Form 6 7 8", "Form 6 new voter", "Form 7 deletion voter", "Form 8 correction voter ID", "Form 8A transposition"]
 readingTime: "7 min"

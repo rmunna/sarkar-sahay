@@ -1,6 +1,6 @@
 ---
-title: "Chief Minister's Distress Relief Fund Kerala – How to Apply & Benefits"
-description: "Kerala CMDRF guide. Get emergency financial aid for medical treatment, natural disasters, and accidents. How to apply, eligibility, documents."
+title: "Kerala CM Distress Relief Fund (CMDRF) 2026 — Apply for Medical & Disaster Aid Online"
+description: "Kerala CMDRF gives emergency financial aid for: medical treatment (cancer, kidney, heart — up to ₹3L), natural disaster loss, accident victims. Apply at cmdrf.kerala.gov.in or through your MLA/MP/Corporation. Documents: medical bills + Aadhaar + bank details. Approval: 7–30 days."
 category: "State Schemes"
 keywords: ["cmdrf kerala", "chief minister distress relief fund", "kerala emergency financial aid", "cmdrf apply online", "kerala medical aid fund"]
 lastUpdated: "2026-03-05"

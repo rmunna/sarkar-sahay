@@ -1,6 +1,6 @@
 ---
-title: "NPS Contribution Not Reflected? How to Fix Employer Issues"
-description: "Fix NPS contribution not showing in your PRAN statement. Steps to check CRA, contact nodal officer, raise grievance, and resolve employer delays."
+title: "NPS Contribution Not Reflected 2026? Fix Employer Delay & Check at cra-nsdl.com or KFintech"
+description: "NPS contribution missing from PRAN statement? Fix: employer must upload and pay by 10th of next month; check statement at cra-nsdl.com → Transaction Statement → PRAN. If employer is repeatedly late → raise grievance at npstrust.org.in or through your HR/nodal officer. Contribution appears 3–7 days after employer uploads."
 category: Tax & Finance
 keywords:
   - nps contribution not reflected

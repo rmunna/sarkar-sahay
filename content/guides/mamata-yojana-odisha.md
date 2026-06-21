@@ -1,6 +1,6 @@
 ---
-title: "Mamata Yojana Odisha — How to Apply, Eligibility & Benefits"
-description: "Complete guide to Mamata Yojana Odisha. ₹5,000 maternity benefit for pregnant women with eligibility, documents, and application process."
+title: "Mamata Yojana Odisha 2026 — ₹5,000 Maternity Benefit, Eligibility & Apply at AWC"
+description: "Odisha Mamata Yojana: ₹5,000 maternity benefit in 2 installments (₹1,000 before delivery + ₹4,000 after) for first two children. Eligibility: 19+ years, not a government employee. Apply at nearest Anganwadi Centre within 3 months of pregnancy. Documents: Aadhaar, ration card, ANC card. Payment to Jan Dhan/bank account."
 category: "State Schemes"
 keywords: ["Mamata Yojana Odisha", "Odisha maternity benefit", "Mamata scheme pregnant women", "maternity allowance Odisha", "Mamata Yojana apply"]
 readingTime: "7 min"

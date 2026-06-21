@@ -1,8 +1,6 @@
 ---
-title: "Water Supply Complaint Online: File & Track Issues"
-description: >-
-  File water supply complaints online for no water, low pressure, or contamination.
-  State-wise complaint portals, helplines, CPGRAMS, and escalation steps.
+title: "Water Supply Complaint Online 2026 — File at State Portal or CPGRAMS & Track Status"
+description: "File water supply complaint: no water supply or contamination → municipal portal or helpline (Delhi: 1916, Maharashtra: 1800-180-1817); low pressure → PWD/DISCOM complaint. Escalate at CPGRAMS (pgportal.gov.in) if not resolved in 7 days. Emergency contamination: also report to State Pollution Control Board."
 category: Utilities
 keywords:
   - water supply complaint online

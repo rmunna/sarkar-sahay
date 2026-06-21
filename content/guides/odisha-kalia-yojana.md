@@ -1,6 +1,6 @@
 ---
-title: "Odisha KALIA Yojana — How to Apply, Eligibility & Benefits"
-description: "Complete guide to Odisha KALIA Yojana providing financial assistance to farmers and landless labourers including eligibility and benefits."
+title: "Odisha KALIA Yojana 2026 — ₹25,000/Year for Farmers, Eligibility & Apply at kalia.odisha.gov.in"
+description: "KALIA Yojana Odisha: ₹25,000/year total to small/marginal farmers and landless labourers — ₹10,000 for cultivation, ₹10,000 food security, ₹5,000 for vulnerable households. Check beneficiary list, apply and track payment at kalia.odisha.gov.in. Documents: Aadhaar + bank account linked to Aadhaar."
 category: "State Schemes"
 keywords: ["KALIA Yojana", "Odisha KALIA scheme", "Odisha farmer scheme", "KALIA eligibility", "KALIA Yojana benefits"]
 readingTime: "7 min"

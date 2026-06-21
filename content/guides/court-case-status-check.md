@@ -1,8 +1,6 @@
 ---
-title: Court Case Status Check Online – How to Track Your Case in India
-description: >-
-  Check court case status online using eCourts, CNR number, or case number. Track
-  district, high court, and Supreme Court cases with this step-by-step guide.
+title: "Court Case Status Check Online 2026 — Track by CNR Number at eCourts, High Court & SCI"
+description: "Check court case status online: District Court → ecourts.gov.in → search by CNR number or case number; High Court → each state HC has own portal; Supreme Court → sci.gov.in → Case Status. CNR number is printed on your court summons or notice. eSCR at escr.gov.in for Supreme Court judgments. Free, 24/7."
 category: Property & Legal
 keywords:
   - court case status check online

@@ -1,6 +1,6 @@
 ---
-title: "Shakti Scheme Karnataka – How to Apply, Eligibility & Benefits"
-description: "Complete guide to Karnataka Shakti free bus scheme for women. How to register, eligibility, which buses are covered, and step-by-step process."
+title: "Karnataka Shakti Scheme 2026 — Free Bus for Women, How to Get Shakti Smart Card"
+description: "Karnataka Shakti scheme: all women travel free on KSRTC, BMTC, NWKRTC and NEKRTC buses — no income limit. Show Shakti Smart Card or Aadhaar card at conductor. Get Shakti card free from nearest KSRTC depot or BMTC centre. Vajra AC, express, metro-feeder buses also covered. No age restriction."
 category: "State Schemes"
 keywords: ["shakti scheme karnataka", "free bus for women karnataka", "ksrtc free bus women", "shakti smart card", "karnataka women free travel"]
 lastUpdated: "2026-03-05"

@@ -1,8 +1,6 @@
 ---
-title: Kerala Fee Concession for Higher Education – Eligibility and How to Apply
-description: >-
-  Complete guide to Kerala's fee concession scheme for higher education. Check
-  eligibility, documents needed, and step-by-step application process.
+title: "Kerala Fee Concession for Higher Education 2026 — Eligibility, Amount & Apply Online"
+description: "Kerala fee concession for higher education: full or partial fee waiver for SC/ST/OBC and EWS students in government/aided colleges. Apply at scholarship.itschool.gov.in (State Scholarship Portal). Income limit: ₹6L/year. Documents: income certificate, caste certificate, admission proof. Covers tuition + special fee."
 category: State Schemes
 keywords:
   - Kerala fee concession higher education

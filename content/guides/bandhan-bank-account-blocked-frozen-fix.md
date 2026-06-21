@@ -1,6 +1,6 @@
 ---
-title: "Bandhan Bank Account Blocked or Frozen? Unblock Guide 2026"
-description: "Bandhan Bank account blocked or frozen? Unblock via Bandhan Bank app, net banking, customer care 1800-258-8181, or branch. KYC update + debit freeze fix guide."
+title: "Bandhan Bank Account Blocked or Frozen 2026? Unblock via App, Branch & 1800-258-8181"
+description: "Bandhan Bank account blocked? Fix: KYC expired → visit nearest Bandhan branch with Aadhaar; suspicious activity → call 1800-258-8181 (toll-free, 24/7) or visit branch with account statement; net banking locked → reset via Bandhan app. Micro-credit (BC) customers: visit your Business Correspondent for KYC."
 category: "Tax & Finance"
 lastUpdated: "2026-05-23"
 readingTime: "7 min"

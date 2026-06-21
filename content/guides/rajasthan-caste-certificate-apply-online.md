@@ -1,6 +1,6 @@
 ---
-title: "Rajasthan Caste Certificate Apply Online 2026 — E-Mitra, SSO & OBC/SC/ST Process"
-description: "Apply for caste certificate (jaati praman patra) in Rajasthan online via E-Mitra / SSO portal. OBC/SC/ST/MBC certificate for scholarships, reservations, government schemes. Documents & status check 2026."
+title: "Rajasthan Caste Certificate Apply Online 2026 — OBC/SC/ST via SSO ID, E-Mitra & Status"
+description: "Apply for Rajasthan caste certificate (jaati praman patra) at sso.rajasthan.gov.in via SSO login or E-Mitra kiosk. OBC, SC, ST, MBC categories. Documents: father's caste cert + Aadhaar + school records. Processing: 15–30 days. Check status at emitra.rajasthan.gov.in. Valid for scholarships, government jobs and reservations."
 category: "Certificates"
 keywords:
   - rajasthan caste certificate apply online 2026
