@@ -1,6 +1,6 @@
 ---
-title: "PM Surya Ghar Muft Bijli Yojana — Free Solar Electricity Scheme, How to Apply"
-description: "Complete guide to PM Surya Ghar Muft Bijli Yojana. Get rooftop solar panels with subsidy up to ₹78,000 and 300 units free electricity."
+title: "PM Surya Ghar Muft Bijli Yojana 2026 — ₹78,000 Subsidy, Apply at pmsuryaghar.gov.in"
+description: "PM Surya Ghar Muft Bijli Yojana: rooftop solar subsidy up to ₹78,000 + 300 units free electricity per month. Apply at pmsuryaghar.gov.in with Aadhaar + electricity bill + DISCOM approval. Subsidy credited in 30 days after installation. No income limit, all residential households eligible."
 category: "Government Schemes"
 keywords: ["pm surya ghar yojana", "free electricity scheme", "rooftop solar subsidy", "pm surya ghar apply online", "solar panel government scheme"]
 lastUpdated: "2026-06-09"

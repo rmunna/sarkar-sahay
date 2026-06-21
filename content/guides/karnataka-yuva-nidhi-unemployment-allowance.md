@@ -1,6 +1,6 @@
 ---
-title: "Karnataka Yuva Nidhi Scheme — How to Apply & Benefits"
-description: "Karnataka Yuva Nidhi scheme gives ₹3,000/month to graduates, ₹1,500 to diploma holders. Check eligibility, apply on Seva Sindhu, and track status."
+title: "Karnataka Yuva Nidhi 2026 — ₹3,000/Month Unemployment Allowance, Apply at Seva Sindhu"
+description: "Karnataka Yuva Nidhi scheme: ₹3,000/month for degree graduates, ₹1,500/month for diploma holders who are unemployed. Apply at sevasindhuservices.karnataka.gov.in. Eligibility: passed in 2022–25, no government job, Karnataka domicile, age under 25. Duration: 2 years max."
 category: "State Schemes"
 keywords: ["yuva nidhi scheme karnataka", "karnataka unemployment allowance", "yuva nidhi application", "yuva nidhi eligibility", "yuva nidhi seva sindhu", "karnataka graduate allowance"]
 readingTime: "8 min"

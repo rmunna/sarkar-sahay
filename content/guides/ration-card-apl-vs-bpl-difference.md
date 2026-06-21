@@ -1,6 +1,6 @@
 ---
-title: "APL vs BPL Ration Card Difference 2026 — Who Gets Free 5 kg Grain & How to Upgrade"
-description: "APL ration card gets no free grain. BPL card = 5 kg rice/wheat free per month (family income below ₹1.2L/year). AAY = 35 kg free for the poorest families. Check which card you hold, income eligibility for BPL, and how to upgrade APL to BPL — state-wise portal links."
+title: "APL Full Form, BPL Full Form & Ration Card Difference 2026 — Free Grain Eligibility"
+description: "APL full form = Above Poverty Line. BPL full form = Below Poverty Line. APL ration card = no free grain under NFSA. BPL = 5 kg free rice/wheat per month (family income below ₹1.2L/year). AAY = 35 kg for the poorest. Check your card type and how to upgrade APL to BPL — state portals inside."
 category: Government Schemes
 lastUpdated: "2026-05-26"
 keywords:

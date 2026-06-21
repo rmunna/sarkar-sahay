@@ -1,6 +1,6 @@
 ---
-title: "Shakti Smart Card Apply Online — Step-by-Step Karnataka Guide"
-description: "Apply for Shakti Smart Card online for free bus travel in Karnataka. Step-by-step process, documents needed, eligibility, and application tracking."
+title: "Shakti Smart Card Apply 2026 — Get Karnataka Free Bus Pass for Women at KSRTC Depot"
+description: "Get Shakti Smart Card for free KSRTC, BMTC bus travel for all women in Karnataka. Apply free at nearest KSRTC/BMTC depot with Aadhaar. No income limit, no age limit. Vajra AC, express, metro-feeder buses included. Lost card: reissue from same depot."
 category: "State Schemes"
 keywords:
   - "shakti smart card online apply"

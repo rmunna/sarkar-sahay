@@ -1,6 +1,6 @@
 ---
-title: "Banglarbhumi West Bengal: Check Land Record Online"
-description: "Check West Bengal land records on Banglarbhumi. Search plot info, khatian, mutation status, and mouza details online step by step."
+title: "Banglarbhumi 2026 — Check WB Land Record (Khatian/Plot) at banglarbhumi.gov.in"
+description: "Check West Bengal land records at banglarbhumi.gov.in: search by district, block, mouza, khatian number or plot number. Check mutation status, RS/LR records and map. Portal down? Use bhulekh.wb.gov.in as alternate. Helpline: 1800-345-5555."
 category: "Property & Legal"
 keywords: ["banglarbhumi", "west bengal land record", "banglarbhumi plot info", "khatian online", "mutation case status west bengal", "mouza search", "banglarbhumi.gov.in"]
 readingTime: "8 min"
