@@ -1,6 +1,6 @@
 ---
-title: "Ladli Behna Yojana MP — How to Apply, Eligibility & Benefits"
-description: "Check Ladli Behna Yojana MP payment and application status using Samagra ID. Step-by-step portal guide with common errors and fixes."
+title: "Ladli Behna Yojana MP Payment Not Received 2026? Fix & Check Status at cmladlibahna.mp.gov.in"
+description: "Ladli Behna Yojana payment not credited? Fix: Aadhaar not linked to bank → link at bank branch; wrong bank account on record → update via Samagra Portal; eKYC pending → complete at Gram Panchayat. Check payment status at cmladlibahna.mp.gov.in using Samagra ID. Helpline: 181."
 category: "State Schemes"
 keywords: ["ladli behna yojana status check", "ladli behna yojana mp payment status", "ladli bahna yojana samagra id", "mp ladli behna status", "ladli behna payment check"]
 readingTime: "7 min"

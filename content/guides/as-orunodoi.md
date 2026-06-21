@@ -1,6 +1,6 @@
 ---
-title: "Orunodoi (Arunodoi) Scheme Assam – How to Apply & Benefits"
-description: "Complete guide to Assam Orunodoi scheme. Check eligibility, documents, how to apply for ₹1,250 monthly benefit for women."
+title: "Assam Orunodoi Scheme 2026 — ₹1,250/Month for Women, Payment Status & Apply"
+description: "Assam Orunodoi Scheme: ₹1,250/month cash transfer to eligible women (income below ₹2L/year). Check payment status at orunodoi.assam.gov.in or Assam State Portal. Apply through Gram Panchayat or District Social Welfare office. Linked to Aadhaar-seeded bank account via DBT."
 category: "State Schemes"
 keywords: ["orunodoi scheme", "arunodoi scheme assam", "assam orunodoi apply", "orunodoi eligibility", "assam women scheme 2026", "orunodoi 1250"]
 lastUpdated: "2026-03-05"
