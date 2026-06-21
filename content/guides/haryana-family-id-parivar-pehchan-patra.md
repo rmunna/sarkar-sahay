@@ -1,6 +1,6 @@
 ---
-title: "Haryana Parivar Pehchan Patra — How to Apply & Benefits"
-description: "Complete guide to Haryana Parivar Pehchan Patra (Family ID). Eligibility, registration process, documents needed, and scheme benefits explained."
+title: "Haryana Parivar Pehchan Patra (Family ID) 2026 — Apply, Update & Fix Errors at meraparivar.haryana.gov.in"
+description: "Haryana Parivar Pehchan Patra (Family ID): mandatory for all Haryana government scheme benefits. Apply/update at meraparivar.haryana.gov.in or nearest Atal Seva Kendra. Fix errors: name mismatch, missing member, income not updated. Helpline: 1800-2000-023."
 category: "State Schemes"
 keywords: ["parivar pehchan patra", "haryana family id", "meraparivar haryana", "family id card haryana", "PPP haryana registration"]
 readingTime: "8 min"

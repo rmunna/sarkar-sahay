@@ -1,6 +1,6 @@
 ---
-title: "UP Bhulekh: Check Land Record & Khasra Khatauni Online"
-description: "Check UP land records online via UP Bhulekh portal. View khasra khatauni, search by district & tehsil, download records free."
+title: "UP Bhulekh 2026 — Check Khasra Khatauni Nakal Online at upbhulekh.gov.in"
+description: "Check UP land records (khasra khatauni nakal) free at upbhulekh.gov.in. Search by district, tehsil, village and khasra number. Portal not working? Try ekhasra.up.gov.in or bhulekh.up.in as alternatives. Download certified nakal at e-district portal."
 category: "Property & Legal"
 keywords: ["UP Bhulekh", "UP land record online", "khasra khatauni UP", "upbhulekh.gov.in", "UP jamabandi", "bhulekh uttar pradesh"]
 readingTime: "8 min"
