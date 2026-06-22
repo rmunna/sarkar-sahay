@@ -1,6 +1,6 @@
 ---
-title: "Shakti Scheme Karnataka 2026 — Free Bus for Women on KSRTC & BMTC, Get Shakti Smart Card"
-description: "Karnataka Shakti scheme: all women travel free on KSRTC, BMTC, NWKRTC and NEKRTC buses. Show Shakti Smart Card or Aadhaar at conductor. Get your Shakti card from nearest KSRTC depot or BMTC helpdesk. Vajra AC, metro-feeder and express buses also covered — boarding guide."
+title: "Karnataka Shakti Free Bus 2026 — Which Buses Are Free for Women? KSRTC, BMTC, Express, Vajra"
+description: "All women travel FREE on KSRTC, BMTC, NWKRTC and NEKRTC buses under Karnataka's Shakti scheme. Show Shakti Smart Card or Aadhaar. Vajra AC, metro-feeder buses also covered — express buses partially. What's NOT free: KSRTC air-conditioned Airavat, interstate, and private buses. How to board guide."
 category: "State Schemes"
 keywords:
   - "shakti scheme karnataka"

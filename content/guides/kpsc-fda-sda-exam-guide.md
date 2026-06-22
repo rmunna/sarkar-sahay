@@ -1,6 +1,6 @@
 ---
-title: "KPSC FDA SDA 2026 — Salary ₹27,650/Month, Notification, Syllabus & Exam Date at cetonline.karnataka.gov.in"
-description: "KPSC FDA (₹27,650/month, degree required) and SDA (₹21,400/month, PUC pass) recruitment 2026. Apply at cetonline.karnataka.gov.in. Full syllabus: General Kannada, General English, GK/Current Affairs + Computer Basics. Exam pattern, cut-offs and selection process inside."
+title: "SDA Full Form & FDA Full Form Karnataka 2026 — KPSC Salary ₹21,400–₹27,650, Syllabus & Exam Date"
+description: "SDA = Second Division Assistant (₹21,400/month, PUC/12th pass). FDA = First Division Assistant (₹27,650/month, degree required). KPSC FDA/SDA 2026 recruitment: notification, full syllabus (General Kannada, English, GK, Computer Basics), exam pattern, cut-offs & apply at cetonline.karnataka.gov.in."
 category: "Jobs & Exams"
 keywords:
   - sda full form

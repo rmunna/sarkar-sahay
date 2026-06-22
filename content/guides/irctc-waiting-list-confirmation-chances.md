@@ -1,6 +1,6 @@
 ---
-title: "IRCTC Waiting List Confirm Chances 2026 — WL 1–60 Odds, GNWL vs RLWL & When to Cancel"
-description: "GNWL 1–15: 85%+ confirm. WL 16–30: ~55%. WL 60+: under 10% chance. RLWL is harder — even WL 5 may not confirm. RAC always boards. Know exactly when to cancel for full refund vs partial. Real-time WL status check via IRCTC app — step by step."
+title: "IRCTC Waiting List 2026 — WL 1–15 Confirms 85%, WL 30 Confirms 55%, WL 60+ Under 10%"
+description: "Will your waitlisted ticket confirm? GNWL WL 1–15: 85%+ chance. WL 16–30: ~55%. WL 31–60: 25–40%. WL 60+: under 10%. RLWL rarely confirms past WL 5. RAC always boards. Track live status on IRCTC app. Exact rules on when to cancel for full vs partial refund before chart preparation."
 category: "Utilities"
 keywords:
   - irctc waiting list confirmation chances
