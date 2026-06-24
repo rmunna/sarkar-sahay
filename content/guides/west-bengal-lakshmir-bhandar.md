@@ -1,6 +1,6 @@
 ---
-title: "Lakshmir Bhandar 2026 — Replaced by Annapurna Bhandar ₹3,000/Month, Status Check"
-description: "Lakshmir Bhandar is replaced by Annapurna Bhandar from June 2026 — all eligible WB women now get ₹3,000/month (was ₹1,000–₹1,200). Check old application status at socialsecurity.wb.gov.in. Existing beneficiaries migrated automatically."
+title: "socialsecurity.wb.gov.in — Lakshmir Bhandar Status Check & Annapurna Bhandar ₹3,000/Month 2026"
+description: "Check Lakshmir Bhandar status at socialsecurity.wb.gov.in using application number or Aadhaar. From June 2026, Lakshmir Bhandar is replaced by Annapurna Bhandar — ₹3,000/month for ALL eligible WB women (was ₹1,000–₹1,200). Existing beneficiaries auto-migrated. New applications via Duare Sarkar."
 category: "State Schemes"
 keywords: ["Lakshmir Bhandar scheme", "West Bengal Lakshmir Bhandar", "socialsecurity.wb.gov.in lakshmi bhandar", "socialsecurity wb gov in registration", "lakshmir bhandar status check", "Bengal women scheme", "Lakshmir Bhandar eligibility", "WB Lakshmir Bhandar apply", "lakshmir bhandar amount"]
 readingTime: "7 min"

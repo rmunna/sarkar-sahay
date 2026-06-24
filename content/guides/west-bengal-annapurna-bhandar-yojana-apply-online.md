@@ -1,6 +1,6 @@
 ---
-title: "West Bengal Annapurna Bhandar Yojana Apply Online — Step-by-Step Guide 2026"
-description: "West Bengal Annapurna Bhandar Yojana gives ₹3,000/month to eligible women directly in bank accounts from June 2026. Check eligibility, documents, how to apply online and offline, and status check."
+title: "Annapurna Bhandar Yojana 2026 — ₹3,000/Month for WB Women, Apply at Duare Sarkar, Status Check"
+description: "West Bengal Annapurna Bhandar: ₹3,000/month for women aged 25–60 with family income ≤₹1.5L/year. Apply at Duare Sarkar camp or BDO office — no online portal yet. Lakshmir Bhandar beneficiaries auto-migrated. Payment via DBT to bank account. Check status at socialsecurity.wb.gov.in."
 category: "State Schemes"
 keywords:
   - "west bengal annapurna bhandar yojana 2026"
