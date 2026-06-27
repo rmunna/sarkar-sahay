@@ -1,197 +1,217 @@
 ---
-title: "UP Income, Caste & Domicile Certificate Apply Online 2026 — edistrict.up.gov.in"
-description: "Apply for UP income, caste, domicile, birth or residence certificate on edistrict.up.gov.in in 10 minutes. Digitally signed copy ready in 7–15 days. Covers all 75 UP districts — Lucknow, Varanasi, Agra, Prayagraj and more."
+title: "UP Income, Caste & Domicile Certificate 2026 — Apply, Check Status, Download | edistrict.up.gov.in"
+description: "Apply for UP income certificate (₹10, 7–15 days), caste certificate OBC/SC/ST, domicile certificate at edistrict.up.gov.in — no agent needed. Check your application status with your application number. Download digitally-signed certificate instantly after approval. Step-by-step guide for all 75 UP districts — Lucknow, Varanasi, Agra, Prayagraj, Kanpur."
 category: "Certificates"
 keywords: ["edistrict up", "up edistrict portal", "edistrict up gov in", "up income certificate online", "up caste certificate online", "up domicile certificate", "up certificate status check", "uttar pradesh certificate apply", "edistrict up login", "up certificate download"]
 readingTime: "8 min"
 officialLinks:
   - https://edistrict.up.gov.in
   - https://up.gov.in
-lastUpdated: "2026-06-08"
+lastUpdated: "2026-06-27"
 ---
 
-# eDistrict UP Certificate Apply Online
+# UP eDistrict Certificate 2026 — Apply, Check Status, Download
 
-**Quick answer:** eDistrict UP is the official Uttar Pradesh portal at [edistrict.up.gov.in](https://edistrict.up.gov.in) for applying, tracking and verifying income, caste, domicile and other certificates. Use the citizen login or a Jan Seva Kendra / CSC route, save your application number, and download the digitally signed certificate after approval.
+**Quick answer:** Visit [edistrict.up.gov.in](https://edistrict.up.gov.in), register/login, apply for income/caste/domicile certificate (fee ₹10–₹15), note your application number. Track status under "आवेदन की स्थिति." Download the digitally-signed certificate once approved — valid across India.
 
-## What is eDistrict UP?
+---
 
-eDistrict UP is the official online service delivery portal of the Government of Uttar Pradesh. Through **edistrict.up.gov.in**, residents of Uttar Pradesh can apply for various certificates including income, caste, domicile, birth, death, and other documents online. The portal is integrated with the Uttar Pradesh Revenue Department and SDM offices across the state.
+## Check Your Application Status (Already Applied?)
 
-## eDistrict UP Quick Links
+If you've already applied and want to track:
 
-| Task | Where to go |
-|---|---|
-| Apply for certificate | Citizen login / new user registration on `edistrict.up.gov.in` |
-| Track application | `आवेदन की स्थिति` / application status option |
-| Verify certificate | `प्रमाण पत्र सत्यापन` / certificate verification option |
-| Assisted application | Jan Seva Kendra / CSC or Tehsil office |
+1. Go to **[edistrict.up.gov.in](https://edistrict.up.gov.in)**
+2. Click **"आवेदन की स्थिति"** (Application Status) on the homepage
+3. Enter your **Application Number** (from acknowledgment slip)
+4. Enter your **registered mobile number**
+5. Click "Search" — status shows instantly
 
-**Official-source note:** Always check the URL before entering details. The official portal is `edistrict.up.gov.in`; avoid lookalike sites asking for extra payments.
+**Status meanings**:
 
-### Certificates Available on UP eDistrict
+| Status | Meaning |
+|--------|---------|
+| आवेदन प्रेषित (Submitted) | Application received, pending verification |
+| लेखपाल सत्यापन (Lekhpal Verification) | Field verification in progress |
+| तहसीलदार अनुमोदन (Tehsildar Approval) | Under SDM/Tehsildar review |
+| प्रमाण पत्र जारी (Certificate Issued) | Approved — download now |
+| अस्वीकृत (Rejected) | Rejected — login to see reason and re-apply |
+
+---
+
+## Download Your Certificate
+
+Once status shows **"प्रमाण पत्र जारी"** (Certificate Issued):
+
+1. Login to [edistrict.up.gov.in](https://edistrict.up.gov.in)
+2. Go to **"सेवाएं"** → **"डाउनलोड"** or **"आवेदन की स्थिति"**
+3. Enter your application number
+4. Click **"डाउनलोड प्रमाण पत्र"** (Download Certificate)
+5. PDF downloads with a **QR code** for verification — print and use
+
+**Certificate validity**:
+- Income certificate: valid **1 year** (re-apply annually)
+- Caste certificate: **permanent** (SC/ST); OBC may need fresh copy for some purposes
+- Domicile certificate: **lifetime** for most purposes
+
+---
+
+## What Is eDistrict UP?
+
+eDistrict UP is the official online portal of the Uttar Pradesh government at **edistrict.up.gov.in** for applying, tracking, and verifying certificates including income, caste, domicile, birth, death, and others. Integrated with the Revenue Department and SDM offices across all 75 districts.
+
+## Certificates Available on UP eDistrict
 
 - **Income Certificate** (आय प्रमाण पत्र)
-- **Caste Certificate** (जाति प्रमाण पत्र) — OBC/SC/ST
+- **Caste Certificate** (जाति प्रमाण पत्र) — OBC / SC / ST
 - **Domicile Certificate** (निवास प्रमाण पत्र)
 - **Birth Certificate** (जन्म प्रमाण पत्र)
 - **Death Certificate** (मृत्यु प्रमाण पत्र)
 - **Haisiyat Certificate** (हैसियत प्रमाण पत्र)
-- **Khatauni Copy**
+- **Khatauni Copy** (खतौनी)
 - **Character Certificate**
 
-## Who is Eligible?
-
-### Income Certificate
-- Any resident of Uttar Pradesh
-- Based on annual family income from all sources
-
-### Caste Certificate
-- Residents of UP belonging to OBC, SC, or ST communities as per the state/central list
-
-### Domicile Certificate
-- Persons who are permanent residents of Uttar Pradesh
-- Born in UP or residing continuously in UP
-
-### Birth/Death Certificate
-- For births and deaths registered in Uttar Pradesh
+---
 
 ## Documents Required
 
-### For Income Certificate
-- **Aadhaar Card** — Identity proof
-- **Ration Card** — Family and address proof
-- **Self-declaration** — Income declaration on plain paper
-- **Salary slip / ITR** — If applicable
-- **Passport-size photograph**
+### Income Certificate
+- Aadhaar Card
+- Ration Card (family + address proof)
+- Self-declaration of income (plain paper)
+- Salary slip / ITR (if applicable)
+- Passport-size photograph
 
-### For Caste Certificate
-- **Aadhaar Card**
-- **Ration Card** or address proof
-- **Father's caste certificate** — If available
-- **School leaving certificate** — Showing caste entry
-- **Affidavit** — Self-declaration of caste
-- **Passport-size photograph**
+### Caste Certificate (OBC/SC/ST)
+- Aadhaar Card
+- Ration Card or address proof
+- Father's caste certificate (if available)
+- School leaving certificate (showing caste entry)
+- Affidavit (self-declaration of caste)
+- Passport-size photograph
 
-### For Domicile Certificate
-- **Aadhaar Card**
-- **Voter ID / Ration Card** — Address proof in UP
-- **Birth certificate** or **school certificate** — Showing UP as birthplace/residence
-- **10th marksheet** — With UP address
-- **Passport-size photograph**
+### Domicile Certificate
+- Aadhaar Card
+- Voter ID / Ration Card (UP address proof)
+- Birth certificate or school certificate (UP residence)
+- 10th marksheet with UP address
+- Passport-size photograph
 
-## How to Apply Online — Step-by-Step
+### Death Certificate
+- Hospital death summary / doctor certificate
+- Aadhaar of deceased
+- Informant's Aadhaar
+- Ration card
+
+---
+
+## How to Apply Online — Step by Step
 
 ### Step 1: Register on UP eDistrict
 
 1. Visit **[edistrict.up.gov.in](https://edistrict.up.gov.in)**
 2. Click **"नवीन उपयोगकर्ता पंजीकरण"** (New User Registration)
-3. Enter your **name, mobile number, and email**
-4. Create a **login ID and password**
-5. Verify via OTP sent to your mobile
+3. Enter name, mobile number, email
+4. Create login ID and password
+5. Verify via OTP on mobile
 
 ### Step 2: Login and Select Service
 
 1. Login with your credentials
 2. Click **"आवेदन करें"** (Apply)
-3. Select the **certificate type** — Income / Caste / Domicile / Birth / Death
-4. Select your **District** and **Tehsil**
+3. Select certificate type — Income / Caste / Domicile / Birth / Death
+4. Select your District and Tehsil
 
 ### Step 3: Fill the Application Form
 
-1. Enter **personal details** — Name, father's name, address, date of birth
+1. Enter personal details — Name, father's name, address, date of birth
 2. For **Income Certificate**: Enter annual income, source of income
 3. For **Caste Certificate**: Enter caste name, sub-caste
 4. For **Domicile Certificate**: Enter details of residence in UP
-5. Upload **scanned documents** (JPG/PDF, max 100 KB–1 MB each)
-6. Upload **photograph**
+5. Upload scanned documents (JPG/PDF, max 100 KB–1 MB each)
+6. Upload photograph
 
 ### Step 4: Pay the Fee
 
-1. Review the application details
-2. Pay the fee online:
-   - **Income Certificate**: ₹10–₹15
-   - **Caste Certificate**: ₹10–₹15
-   - **Domicile Certificate**: ₹10–₹15
-3. Payment via **net banking, debit card, or CSC wallet**
-4. Save the **payment receipt**
-
-### Step 5: Track and Download Certificate
-
-1. Note your **Application Number**
-2. Go to **"आवेदन की स्थिति"** (Application Status) to track
-3. After field verification and approval, download the certificate
-4. The certificate is **digitally signed** and valid
-
-### Offline Method: Apply via CSC or Tehsil
-
-1. Visit the nearest **Jan Seva Kendra (CSC)** or **Tehsil office**
-2. Carry original documents and photocopies
-3. Fill the form and pay ₹10–₹15
-4. Collect acknowledgment slip
-5. Certificate will be ready after verification
-
-## Fees
-
 | Certificate | Fee |
-|---|---|
+|-------------|-----|
 | Income Certificate | ₹10–₹15 |
 | Caste Certificate | ₹10–₹15 |
 | Domicile Certificate | ₹10–₹15 |
 | Birth Certificate | ₹10 |
 | Death Certificate | ₹10 |
-| Haisiyat Certificate | ₹10–₹15 |
 
-> Fees are very nominal. CSC operators may charge an additional ₹20–₹40 as service fee.
+Payment via net banking, debit card, or CSC wallet. Save the payment receipt.
+
+### Step 5: Track and Download
+
+- Note your **Application Number** from the acknowledgment screen
+- Track at **"आवेदन की स्थिति"** (Application Status)
+- Download after approval — digitally signed, valid everywhere
+
+### Offline Method: Apply via CSC or Tehsil
+
+1. Visit nearest **Jan Seva Kendra (CSC)** or **Tehsil office**
+2. Carry originals and photocopies of documents
+3. Fill form and pay ₹10–₹15 (+ CSC service charge ₹20–₹40)
+4. Collect acknowledgment slip with application number
+5. Track status online or visit tehsil after processing time
+
+---
 
 ## Processing Time
 
 | Certificate | Timeline |
-|---|---|
+|-------------|----------|
 | Income Certificate | 7–15 working days |
 | Caste Certificate (OBC) | 15–21 working days |
 | SC/ST Certificate | 21–30 working days |
 | Domicile Certificate | 7–15 working days |
-| Birth/Death Certificate | 7–10 working days |
+| Birth / Death Certificate | 7–10 working days |
 
-> These timelines are as per the UP Janhit Guarantee Act. If the certificate is not issued within the stipulated time, you can file a complaint on the portal.
-
-## Important Tips
-
-1. **Apply through CSC if facing issues** — Many Jan Seva Kendras across UP provide assisted service for a small fee. They handle the upload and submission.
-2. **Keep Aadhaar updated** — Your Aadhaar address should match your UP address. Update it first if needed. See our [Aadhaar address change guide](/guide/aadhaar-address-change-online).
-3. **Check Janhit Guarantee timelines** — UP has a service guarantee law. If your certificate is delayed beyond the timeline, you have the right to escalate.
-4. **Download and print multiple copies** — The digitally signed certificate is valid everywhere. Keep printed copies for immediate use.
-5. **Income certificate is valid for 1 year** — You need to apply fresh every year for a new income certificate.
-
-## Related Guides
-
-- [Aadhaar Address Change Online](/guide/aadhaar-address-change-online) — Update address before applying
-- [PAN Card Apply Online](/guide/pan-card-apply-online) — Essential identity document
-
-## Frequently Asked Questions
-
-### Q1. What is the fee for UP eDistrict certificates?
-Most certificates on UP eDistrict cost only ₹10–₹15. This is one of the lowest certificate fees in India. CSC operators may charge an additional service fee.
-
-### Q2. How long does it take to get an income certificate in UP?
-An income certificate through UP eDistrict typically takes 7–15 working days after submission. The timeline depends on field verification by the Lekhpal/Tehsildar.
-
-### Q3. Can I apply for UP eDistrict certificates from another state?
-You can submit the online application from anywhere, but field verification will be done at your UP address. You must have a valid address in Uttar Pradesh.
-
-### Q4. What if my UP eDistrict application is rejected?
-Login to the portal and check the rejection reason. Common reasons include unclear documents, mismatched information, or failed verification. Fix the issue and re-apply.
-
-### Q5. Is the UP eDistrict certificate accepted outside UP?
-Yes, digitally signed certificates from UP eDistrict are legally valid and accepted across India for education admissions, government jobs, and other purposes.
-
-### Q6. How can I verify a UP eDistrict certificate?
-Visit edistrict.up.gov.in and use the **"प्रमाण पत्र सत्यापन"** (Certificate Verification) option. Enter the application number or certificate number to verify authenticity.
-
-### Q7. Can I apply for a birth certificate for an old birth on UP eDistrict?
-Yes, for delayed birth registration (after 1 year of birth), you can apply through UP eDistrict or at the Tehsil office. Additional documents like an affidavit and school certificate may be required.
+Under the **UP Janhit Guarantee Act**, if the certificate is not issued within the stipulated time, you can escalate on the portal.
 
 ---
 
-*Disclaimer: CitizenNest is an independent informational platform and is not affiliated with the Government of Uttar Pradesh or any government body. Information is compiled from official sources for citizen convenience. Always verify details on the official eDistrict portal.*
+## Common Problems and Fixes
+
+| Problem | Fix |
+|---------|-----|
+| Login not working | Reset password via OTP on registered mobile |
+| Document upload failing | Compress image to under 100 KB; use JPG format |
+| Application stuck at Lekhpal for 15+ days | Contact Tehsil office with acknowledgment slip |
+| Certificate rejected — "document mismatch" | Re-upload clearer scans; Aadhaar address must match |
+| Payment done but application not submitted | Check "draft applications"; if no record, pay again |
+| Certificate download not working | Try different browser (Chrome recommended); clear cache |
+| Need to apply from outside UP | You can apply online, but field verification happens at UP address |
+
+---
+
+## Frequently Asked Questions
+
+### How long does a UP income certificate take?
+
+7–15 working days after submission via edistrict.up.gov.in. Lekhpal (village accountant) verifies in person. Delays happen during peak times — if no action after 15 days, contact the Tehsil office with your application number.
+
+### Can I apply for UP certificate from another state?
+
+Yes — you can submit the online application from anywhere in India. Field verification will be done at your UP address. You must have a valid UP address in your documents.
+
+### Is the UP eDistrict certificate accepted outside UP?
+
+Yes. Digitally signed certificates from edistrict.up.gov.in are legally valid and accepted across India for college admissions, central government jobs, scholarships, and other purposes.
+
+### My application was rejected. How do I fix it?
+
+Login → "आवेदन की स्थिति" → check rejection reason. Fix the issue (wrong document, mismatched info, unclear scan) and re-apply as a new application. Previous fee is not refunded.
+
+### Can I verify if a certificate is genuine?
+
+Yes — visit edistrict.up.gov.in → "प्रमाण पत्र सत्यापन" (Certificate Verification) → enter certificate number or scan the QR code on the certificate.
+
+### Income certificate is valid for how long?
+
+1 year from issue date. Re-apply every year for fresh income certificate. Caste certificate (SC/ST) and domicile certificate are generally lifetime.
+
+---
+
+*CitizenNest is an independent information platform, not affiliated with the Government of Uttar Pradesh. Always verify details at the official portal edistrict.up.gov.in.*
