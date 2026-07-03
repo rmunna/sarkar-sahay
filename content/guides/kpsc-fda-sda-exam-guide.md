@@ -1,6 +1,6 @@
 ---
-title: "SDA Full Form & FDA Full Form Karnataka 2026 — KPSC Salary ₹21,400–₹27,650, Syllabus & Exam Date"
-description: "SDA = Second Division Assistant (₹21,400/month, PUC/12th pass). FDA = First Division Assistant (₹27,650/month, degree required). KPSC FDA/SDA 2026 recruitment: notification, full syllabus (General Kannada, English, GK, Computer Basics), exam pattern, cut-offs & apply at cetonline.karnataka.gov.in."
+title: "FDA SDA Karnataka 2026 — Salary ₹36K–₹58K/month, Result Out, Next Recruitment | KPSC"
+description: "FDA (First Division Assistant) salary ₹48,000–58,000/month in Karnataka — degree required. SDA (Second Division Assistant) salary ₹36,000–45,000/month — PUC/12th pass. KPSC/KEA 2025-26 result released at cetonline.karnataka.gov.in (178 vacancies). Next major recruitment expected 2027. Full syllabus, exam pattern, cutoffs, eligibility."
 category: "Jobs & Exams"
 keywords:
   - sda full form
@@ -19,54 +19,45 @@ keywords:
   - sda fda next recruitment 2026
   - kpsc fda sda syllabus 2026
 readingTime: "22 min"
-lastUpdated: "2026-06-08"
+lastUpdated: "2026-06-27"
 officialLinks:
   - "https://kpsc.kar.nic.in"
   - "https://cetonline.karnataka.gov.in"
 ---
 
-# SDA Full Form, Salary & KPSC FDA/SDA 2026 Complete Guide
+# FDA SDA Karnataka 2026 — Salary, Result, Recruitment & Syllabus
 
-## Quick Answer: SDA Full Form and FDA Full Form
+**SDA full form:** Second Division Assistant — PUC/12th pass, salary ₹36,000–45,000/month  
+**FDA full form:** First Division Assistant — degree required, salary ₹48,000–58,000/month
 
-**SDA full form in Karnataka:** Second Division Assistant
-**FDA full form in Karnataka:** First Division Assistant
+Both are Karnataka state government posts filled by KPSC and KEA. The 2025-26 recruitment (178 vacancies) result is out — check at cetonline.karnataka.gov.in. Next major recruitment expected 2027.
 
-SDA and FDA are Karnataka state government administrative posts filled by the Karnataka Public Service Commission (KPSC) and Karnataka Examination Authority (KEA). SDA requires PUC (12th pass); FDA requires a Bachelor's degree.
+---
 
-## SDA FDA Recruitment 2026: What Aspirants Should Check First
-
-| Search query | Direct answer |
-|---|---|
-| SDA FDA recruitment 2026 | The 2025-26 KEA/KPSC cycle listed 178 FDA/SDA vacancies and the application window is closed. Watch official KPSC/KEA sites for the next notification. |
-| FDA SDA online application 2026 last date | The listed 2025-26 application window was 8 Oct to 14 Nov 2025. Do not use unofficial application links after the window closes. |
-| SDA exam date 2026 / FDA exam date 2026 | Check `cetonline.karnataka.gov.in` and `kpsc.kar.nic.in` for official exam/result notices. |
-| SDA full form | Second Division Assistant. |
-| FDA full form | First Division Assistant. |
-| FDA salary in Karnataka | FDA pay scale shown in this guide: ₹44,425-₹83,700, subject to official notification/pay rules. |
-
-**Official-source note:** Use only KPSC (`kpsc.kar.nic.in`) and KEA (`cetonline.karnataka.gov.in`) for notification, application, admit card, answer key and result links. Coaching or job sites may lag or use old dates.
-
-## Current Status — KPSC SDA FDA 2025–26
+## KPSC FDA SDA 2026 Current Status — Result Out, Next Vacancy When?
 
 | What | Status |
 |------|--------|
-| Recruitment notification | Released 8 Oct 2025 (178 vacancies) |
+| Recruitment notification | Released 8 Oct 2025 (178 vacancies, KEA) |
 | Application window | Closed (8 Oct – 14 Nov 2025) |
 | Written exam | Conducted |
-| Result | Released — check at cetonline.karnataka.gov.in |
-| Next recruitment | Watch kpsc.kar.nic.in (typically every 2–3 years) |
+| Result | **Released** — check at [cetonline.karnataka.gov.in](https://cetonline.karnataka.gov.in) |
+| Next major recruitment | 2027–28 (watch kpsc.kar.nic.in) |
 
-> **If you missed this cycle:** The next KPSC SDA/FDA recruitment is expected in 2027–28. Use this time to complete preparation — especially Kannada language and Karnataka GK, which carry the most marks.
+**Missed this cycle?** The 2025 batch was small (178 vacancies under a specific category). The next open recruitment with 1,000+ vacancies is expected in 2027–28. Use this time for preparation — Kannada language and Karnataka GK carry the most marks.
 
-## SDA Salary in Karnataka 2026
+**Use only official sites:** kpsc.kar.nic.in and cetonline.karnataka.gov.in for notifications, admit cards, answer keys, and results. Coaching or job sites may show outdated dates.
+
+---
+
+## SDA & FDA Salary in Karnataka 2026 — ₹36,000 to ₹58,000/month
 
 | Post | Pay Scale | Approximate In-Hand Salary |
 |------|-----------|---------------------------|
-| **SDA** (Second Division Assistant) | ₹34,100 – ₹67,600 | ₹36,000 – ₹45,000/month |
-| **FDA** (First Division Assistant) | ₹44,425 – ₹83,700 | ₹48,000 – ₹58,000/month |
+| **SDA** (Second Division Assistant) | ₹34,100 – ₹67,600 | **₹36,000 – ₹45,000/month** |
+| **FDA** (First Division Assistant) | ₹44,425 – ₹83,700 | **₹48,000 – ₹58,000/month** |
 
-Salary includes Basic Pay + DA + HRA + other allowances as per Karnataka government pay rules. Both posts have government service benefits including provident fund, medical, and pension.
+In-hand salary includes Basic Pay + DA (~35%) + HRA (8–24% depending on city) minus PF/NPS deductions. Both posts carry permanent government employment with pension (NPS), medical benefits, annual increment, and gratuity.
 
 ---
 
@@ -74,7 +65,7 @@ The Karnataka Public Service Commission (KPSC) conducts the recruitment exam for
 
 FDA and SDA posts offer a stable government career with opportunities for promotion to higher administrative positions. In 2026, the Karnataka Examination Authority (KEA) released a notification for 178 FDA and SDA vacancies under the RPC (Roster Promotion Category) quota.
 
-## Latest KPSC FDA SDA 2026 Notification
+## Latest KPSC FDA SDA 2026 Notification — 178 Vacancies, Result Released
 
 The KEA Karnataka SDA FDA Recruitment 2026 notification was released on **8th October 2025** with the following key details:
 
@@ -120,7 +111,7 @@ This is the most important section for aspirants searching for FDA qualification
 - Knowledge of Kannada is mandatory for all candidates
 - Domicile restrictions may vary by notification — check the specific recruitment advertisement
 
-## FDA vs SDA — Detailed Comparison
+## FDA vs SDA — Detailed Comparison: Salary, Qualification, Exam Pattern
 
 Understanding the difference between FDA and SDA is crucial for choosing the right exam to target.
 
@@ -328,7 +319,7 @@ This section is only in the SDA exam. FDA does not have arithmetic.
 **Data Interpretation — 3–5 marks**
 - Bar graphs, pie charts, line graphs — reading and calculating values
 
-## KPSC FDA SDA Salary Structure
+## KPSC FDA SDA Salary Structure — Pay Scale, Allowances, In-Hand Breakdown
 
 ### Pay Scale
 
