@@ -1,20 +1,47 @@
 {
-  "scannedAt": "2026-07-07T10:03:46.541009",
+  "scannedAt": "2026-07-08T10:32:34.367152",
   "results": [
     {
-      "topic": "fmge result 2026",
-      "category": "Realtime RSS (IN)",
+      "topic": "epfo system upgrade delays",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "national-pension-system-nps-account-open",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "india result",
+      "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "wbjee seat allotment result 2026",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": "josaa-counselling-2026-iit-nit-seat-allotment-guide",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ayushman bharat",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": "ayushman-bharat-pmjay-health-card",
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "fmge result 2026",
-      "category": "Realtime RSS (IN)",
+      "topic": "india result",
+      "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -22,11 +49,39 @@
       "source": "realtime-rss"
     }
   ],
-  "covered": [],
+  "covered": [
+    {
+      "topic": "epfo system upgrade delays",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "national-pension-system-nps-account-open",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "wbjee seat allotment result 2026",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": "josaa-counselling-2026-iit-nit-seat-allotment-guide",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ayushman bharat",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": "ayushman-bharat-pmjay-health-card",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    }
+  ],
   "spike_candidates": [
     {
-      "topic": "fmge result 2026",
-      "category": "Realtime RSS (IN)",
+      "topic": "india result",
+      "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
