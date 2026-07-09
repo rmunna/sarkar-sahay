@@ -1,18 +1,9 @@
 {
-  "scannedAt": "2026-07-08T10:32:34.367152",
+  "scannedAt": "2026-07-09T07:56:41.009834",
   "results": [
     {
-      "topic": "epfo system upgrade delays",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "national-pension-system-nps-account-open",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "india result",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "tcs results",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -20,28 +11,136 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "wbjee seat allotment result 2026",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "epfo member",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
-      "guide_exists": "josaa-counselling-2026-iit-nit-seat-allotment-guide",
-      "is_spike": true,
+      "guide_exists": "voter-id-family-member-add",
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "ayushman bharat",
+      "topic": "indian railways",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": "indian-visa-types-apply-online",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "voter id",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": "voter-id-photo-size-format",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "epfo",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "voter",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "voter-id-photo-size-format",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "eci voter",
       "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
-      "guide_exists": "ayushman-bharat-pmjay-health-card",
+      "guide_exists": "voter-id-photo-size-format",
       "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "sbi",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "epfo member login",
+      "category": "Realtime RSS (IN-KA)",
+      "rising_value": 100,
+      "guide_exists": "sbi-net-banking-login-not-working-fix",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "sir enumeration form",
+      "category": "Realtime RSS (IN-TG)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "india result",
+      "category": "Realtime RSS (IN-OR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "india result",
+      "topic": "tcs results",
+      "category": "Realtime RSS (IN)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "epfo",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "sbi",
       "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "sir enumeration form",
+      "category": "Realtime RSS (IN-TG)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "india result",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -51,28 +150,55 @@
   ],
   "covered": [
     {
-      "topic": "epfo system upgrade delays",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "epfo member",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
-      "guide_exists": "national-pension-system-nps-account-open",
+      "guide_exists": "voter-id-family-member-add",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "wbjee seat allotment result 2026",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "indian railways",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
-      "guide_exists": "josaa-counselling-2026-iit-nit-seat-allotment-guide",
-      "is_spike": true,
+      "guide_exists": "indian-visa-types-apply-online",
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "ayushman bharat",
+      "topic": "voter id",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": "voter-id-photo-size-format",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "voter",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "voter-id-photo-size-format",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "eci voter",
       "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
-      "guide_exists": "ayushman-bharat-pmjay-health-card",
+      "guide_exists": "voter-id-photo-size-format",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "epfo member login",
+      "category": "Realtime RSS (IN-KA)",
+      "rising_value": 100,
+      "guide_exists": "sbi-net-banking-login-not-working-fix",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -80,8 +206,17 @@
   ],
   "spike_candidates": [
     {
+      "topic": "tcs results",
+      "category": "Realtime RSS (IN)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
       "topic": "india result",
-      "category": "Realtime RSS (IN-WB)",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
