@@ -1,47 +1,29 @@
 {
-  "scannedAt": "2026-07-09T07:56:41.009834",
+  "scannedAt": "2026-07-09T11:22:07.390884",
   "results": [
     {
-      "topic": "tcs results",
+      "topic": "today lottery result",
       "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": null,
+      "guide_exists": "petrol-diesel-price-check-today",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "epfo member",
+      "topic": "epfo will credit 8.25 percent interest by july 15",
       "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
-      "guide_exists": "voter-id-family-member-add",
+      "guide_exists": "jharkhand-guruji-credit-card-students",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
       "topic": "indian railways",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": "indian-visa-types-apply-online",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "voter id",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": "voter-id-photo-size-format",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "epfo",
       "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": null,
+      "guide_exists": "indian-visa-types-apply-online",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -56,8 +38,26 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "eci voter",
+      "topic": "epfo",
       "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "tcs results",
+      "category": "Realtime RSS (IN-KA)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "voter id",
+      "category": "Realtime RSS (IN-KA)",
       "rising_value": 100,
       "guide_exists": "voter-id-photo-size-format",
       "is_spike": false,
@@ -65,29 +65,29 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "sbi",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "kerala lottery result",
+      "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
+      "guide_exists": "kerala-caste-certificate-apply-online",
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "epfo member login",
-      "category": "Realtime RSS (IN-KA)",
+      "topic": "odisha result",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
-      "guide_exists": "sbi-net-banking-login-not-working-fix",
-      "is_spike": false,
+      "guide_exists": "otet-odisha-tet-exam-guide",
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "sir enumeration form",
-      "category": "Realtime RSS (IN-TG)",
+      "topic": "10th result 2026",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": false,
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
@@ -103,25 +103,7 @@
   ],
   "opportunities": [
     {
-      "topic": "tcs results",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
       "topic": "epfo",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "sbi",
       "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
       "guide_exists": null,
@@ -130,11 +112,20 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "sir enumeration form",
-      "category": "Realtime RSS (IN-TG)",
+      "topic": "tcs results",
+      "category": "Realtime RSS (IN-KA)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": false,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "10th result 2026",
+      "category": "Realtime RSS (IN-OR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
@@ -150,28 +141,28 @@
   ],
   "covered": [
     {
-      "topic": "epfo member",
+      "topic": "today lottery result",
+      "category": "Realtime RSS (IN)",
+      "rising_value": 100,
+      "guide_exists": "petrol-diesel-price-check-today",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "epfo will credit 8.25 percent interest by july 15",
       "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
-      "guide_exists": "voter-id-family-member-add",
+      "guide_exists": "jharkhand-guruji-credit-card-students",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
       "topic": "indian railways",
-      "category": "Realtime RSS (IN-UP)",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": "indian-visa-types-apply-online",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "voter id",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": "voter-id-photo-size-format",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -186,8 +177,8 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "eci voter",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "voter id",
+      "category": "Realtime RSS (IN-KA)",
       "rising_value": 100,
       "guide_exists": "voter-id-photo-size-format",
       "is_spike": false,
@@ -195,11 +186,20 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "epfo member login",
-      "category": "Realtime RSS (IN-KA)",
+      "topic": "kerala lottery result",
+      "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
-      "guide_exists": "sbi-net-banking-login-not-working-fix",
-      "is_spike": false,
+      "guide_exists": "kerala-caste-certificate-apply-online",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "odisha result",
+      "category": "Realtime RSS (IN-OR)",
+      "rising_value": 100,
+      "guide_exists": "otet-odisha-tet-exam-guide",
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
@@ -207,7 +207,16 @@
   "spike_candidates": [
     {
       "topic": "tcs results",
-      "category": "Realtime RSS (IN)",
+      "category": "Realtime RSS (IN-KA)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "10th result 2026",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
