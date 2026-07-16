@@ -1,249 +1,32 @@
 {
-  "scannedAt": "2026-07-13T11:32:58.859522",
+  "scannedAt": "2026-07-16T21:28:56.860356",
   "results": [
     {
-      "topic": "kerala lottery result today",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": "kerala-caste-certificate-apply-online",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "epfo job change pf transfer",
+      "topic": "neet result 2026",
       "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
-      "guide_exists": "aadhaar-gender-change-transgender",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "voter card",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "voter-id-photo-size-format",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "sbi",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "kea vao recruitment 2026",
-      "category": "Realtime RSS (IN-KA)",
-      "rising_value": 100,
-      "guide_exists": "itbp-recruitment-apply-online",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "today kerala lottery result",
-      "category": "Realtime RSS (IN-TN)",
-      "rising_value": 100,
-      "guide_exists": "kerala-caste-certificate-apply-online",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "dmk free travel scheme rename",
-      "category": "Realtime RSS (IN-TN)",
-      "rising_value": 100,
-      "guide_exists": "startup-india-scheme-dpiit-registration",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "epfo",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "tet result 2026",
-      "category": "Realtime RSS (IN-TG)",
-      "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "sir enumeration form",
-      "category": "Realtime RSS (IN-TG)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "join indian army agniveer result",
-      "category": "Realtime RSS (IN-OR)",
-      "rising_value": 100,
-      "guide_exists": "indian-visa-types-apply-online",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ayushman card",
-      "category": "Realtime RSS (IN-MH)",
-      "rising_value": 100,
-      "guide_exists": "ayushman-bharat-pmjay-health-card",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "voter id",
-      "category": "Realtime RSS (IN-MH)",
-      "rising_value": 100,
-      "guide_exists": "voter-id-photo-size-format",
-      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "sbi",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "epfo",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "tet result 2026",
-      "category": "Realtime RSS (IN-TG)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "sir enumeration form",
-      "category": "Realtime RSS (IN-TG)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    }
-  ],
-  "covered": [
-    {
-      "topic": "kerala lottery result today",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": "kerala-caste-certificate-apply-online",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "epfo job change pf transfer",
+      "topic": "neet result 2026",
       "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
-      "guide_exists": "aadhaar-gender-change-transgender",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "voter card",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "voter-id-photo-size-format",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "kea vao recruitment 2026",
-      "category": "Realtime RSS (IN-KA)",
-      "rising_value": 100,
-      "guide_exists": "itbp-recruitment-apply-online",
+      "guide_exists": null,
       "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "today kerala lottery result",
-      "category": "Realtime RSS (IN-TN)",
-      "rising_value": 100,
-      "guide_exists": "kerala-caste-certificate-apply-online",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "dmk free travel scheme rename",
-      "category": "Realtime RSS (IN-TN)",
-      "rising_value": 100,
-      "guide_exists": "startup-india-scheme-dpiit-registration",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "join indian army agniveer result",
-      "category": "Realtime RSS (IN-OR)",
-      "rising_value": 100,
-      "guide_exists": "indian-visa-types-apply-online",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ayushman card",
-      "category": "Realtime RSS (IN-MH)",
-      "rising_value": 100,
-      "guide_exists": "ayushman-bharat-pmjay-health-card",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "voter id",
-      "category": "Realtime RSS (IN-MH)",
-      "rising_value": 100,
-      "guide_exists": "voter-id-photo-size-format",
-      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
+  "covered": [],
   "spike_candidates": [
     {
-      "topic": "tet result 2026",
-      "category": "Realtime RSS (IN-TG)",
+      "topic": "neet result 2026",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
