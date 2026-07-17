@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-17T10:14:00.571102",
+  "scannedAt": "2026-07-17T11:45:13.414987",
   "results": [
     {
       "topic": "lottery result",
@@ -11,20 +11,20 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "sir form online",
+      "topic": "plus one result 2026",
       "category": "Realtime RSS (IN-KA)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": false,
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "neet result 2026",
+      "topic": "nta",
       "category": "Realtime RSS (IN-AP)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": true,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
@@ -38,6 +38,15 @@
       "source": "realtime-rss"
     },
     {
+      "topic": "ugc net",
+      "category": "Realtime RSS (IN-OR)",
+      "rising_value": 100,
+      "guide_exists": "ugc-net-exam-guide",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
       "topic": "epfo",
       "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
@@ -47,8 +56,8 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "neet cut off 2026",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "neet result 2026",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -58,20 +67,20 @@
   ],
   "opportunities": [
     {
-      "topic": "sir form online",
+      "topic": "plus one result 2026",
       "category": "Realtime RSS (IN-KA)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": false,
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "neet result 2026",
+      "topic": "nta",
       "category": "Realtime RSS (IN-AP)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": true,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
@@ -85,8 +94,8 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "neet cut off 2026",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "neet result 2026",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -112,12 +121,21 @@
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
+    },
+    {
+      "topic": "ugc net",
+      "category": "Realtime RSS (IN-OR)",
+      "rising_value": 100,
+      "guide_exists": "ugc-net-exam-guide",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "neet result 2026",
-      "category": "Realtime RSS (IN-AP)",
+      "topic": "plus one result 2026",
+      "category": "Realtime RSS (IN-KA)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -125,8 +143,8 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "neet cut off 2026",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "neet result 2026",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
