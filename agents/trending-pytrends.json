@@ -1,18 +1,9 @@
 {
-  "scannedAt": "2026-07-17T11:45:13.414987",
+  "scannedAt": "2026-07-17T17:34:08.185404",
   "results": [
     {
-      "topic": "lottery result",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": "lottery-prize-money-tax-india-guide-2026",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "plus one result 2026",
-      "category": "Realtime RSS (IN-KA)",
+      "topic": "reliance industries q1 results",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -20,8 +11,17 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "nta",
-      "category": "Realtime RSS (IN-AP)",
+      "topic": "plus one result 2026",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "plus-one-result-2026",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "neet topper 2026",
+      "category": "Realtime RSS (IN-TG)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
@@ -54,21 +54,12 @@
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
-    },
-    {
-      "topic": "neet result 2026",
-      "category": "Realtime RSS (IN-OR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "plus one result 2026",
-      "category": "Realtime RSS (IN-KA)",
+      "topic": "reliance industries q1 results",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -76,8 +67,8 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "nta",
-      "category": "Realtime RSS (IN-AP)",
+      "topic": "neet topper 2026",
+      "category": "Realtime RSS (IN-TG)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
@@ -92,23 +83,14 @@
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
-    },
-    {
-      "topic": "neet result 2026",
-      "category": "Realtime RSS (IN-OR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
     }
   ],
   "covered": [
     {
-      "topic": "lottery result",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "plus one result 2026",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": "lottery-prize-money-tax-india-guide-2026",
+      "guide_exists": "plus-one-result-2026",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -134,17 +116,8 @@
   ],
   "spike_candidates": [
     {
-      "topic": "plus one result 2026",
-      "category": "Realtime RSS (IN-KA)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "neet result 2026",
-      "category": "Realtime RSS (IN-OR)",
+      "topic": "reliance industries q1 results",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
