@@ -1,272 +1,104 @@
 {
-  "scanTime": "2026-07-18T08:04:02.728Z",
-  "elapsedSeconds": 134.1,
-  "changesDetected": 36,
+  "scanTime": "2026-07-19T08:30:14.875Z",
+  "elapsedSeconds": 137.3,
+  "changesDetected": 14,
   "noiseDetected": 0,
   "changes": [
     {
-      "site": "SSC",
-      "type": "NEW_NOTICE",
-      "headline": "Grade 'C' Stenographers Limited Departmental Competitive Examination, 2025 : Uploading of Tentative Answer Keys along with Candidates’ Response Sheet(s)",
-      "date": "2026-07-16T12:33:40.437Z",
-      "id": "y510f4xei4s4riuk26awl",
-      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Writeup_english_16072026.pdf",
-      "url": "https://ssc.gov.in"
-    },
-    {
-      "site": "SSC",
-      "type": "NEW_NOTICE",
-      "headline": "Tentative vacancies of  Senior Secretariat Assistant/ Upper Division Clerk Grade Limited Departmental Competitive Examination, 2025 [Central Secretariat Clerical Service (CSCS) Cadre of Department of Personnel and Training (DoPT)]",
-      "date": "2026-07-15T13:19:36.973Z",
-      "id": "bxalrs4mopiqrieyafwc4",
-      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Tentative_vacancies_15072026.pdf",
-      "url": "https://ssc.gov.in"
-    },
-    {
-      "site": "SSC",
-      "type": "NEW_NOTICE",
-      "headline": "Corrigendum for the post of E.C.G. Technician (Junior) Post Code MP11626 under Selection Post Examination, Phase-XIV/2026",
-      "date": "2026-07-14T08:09:41.701Z",
-      "id": "15d28i7odqc2qpx2uj4pw",
-      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/RHQ_2026_MP11626 Corringendum_14072026.pdf",
-      "url": "https://ssc.gov.in"
-    },
-    {
-      "site": "SSC",
-      "type": "NEW_NOTICE",
-      "headline": "Cancellation Notice for the post of “Ayurvedic Pharmacist”, Post Code MP10826, under Selection Posts Examination, Phase-XIV/2026",
-      "date": "2026-07-14T08:08:47.734Z",
-      "id": "v34crph8j7zsjlnft4wcz",
-      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/MP10826 Cancellation Notice_14072026.pdf",
-      "url": "https://ssc.gov.in"
-    },
-    {
-      "site": "SSC",
-      "type": "NEW_NOTICE",
-      "headline": "Addendum to the Notice of Junior Secretariat Assistant / Lower Division Clerk Grade Limited Departmental Competitive Examination, 2025 [Central Secretariat Clerical Service (CSCS) Cadre of Department of Personnel and Training (DoPT)]",
-      "date": "2026-07-13T13:17:31.445Z",
-      "id": "l278eqz7a8wzb7g8nsjla",
-      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Addendum_English_13072026.pdf",
-      "url": "https://ssc.gov.in"
-    },
-    {
       "site": "NTA",
       "type": "NEW_NOTICE",
-      "headline": "nation of the courses conducted in Computer Based Test (CBT) Mode under the Study Webs of Active Learning for Young Aspiring Minds (SWAYAM)-reg.&nbsp;",
-      "date": "2026-07-16",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260716153700.pdf",
-      "url": "https://nta.ac.in"
-    },
-    {
-      "site": "NTA",
-      "type": "NEW_NOTICE",
-      "headline": "Vacancy Notification (Recruitment For Various Posts At NTA On Deputation)&nbsp;",
-      "date": "2026-07-15",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260715203759.pdf",
-      "url": "https://nta.ac.in"
-    },
-    {
-      "site": "NTA",
-      "type": "NEW_NOTICE",
-      "headline": "Display of Scanned Images of OMR Answer Sheet and Recorded Response for National Eligibility cum Entrance Test (UG) - 2026-reg.&nbsp;",
-      "date": "2026-07-13",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260713193549.pdf",
-      "url": "https://nta.ac.in"
-    },
-    {
-      "site": "NTA",
-      "type": "NEW_NOTICE",
-      "headline": "Release of Admit Card for Joint CSIR UGC NET June 2026 Examination.&nbsp;",
-      "date": "2026-07-13",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260713164141.pdf",
+      "headline": "NTA Successfully Conducts Joint CSIR-UGC NET June 2026 Examination Across the Nation&nbsp;",
+      "date": "2026-07-18",
+      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260718195817.pdf",
       "url": "https://nta.ac.in"
     },
     {
       "site": "IBPS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://www.ibps.in/wp-content/uploads/RFP-for-Desktop-Purchase-July-2026_Final.pdf",
+      "type": "TEXT_NOTICE",
       "url": "https://www.ibps.in/",
-      "detectedAt": "2026-07-18T08:02:22.320Z"
+      "detectedAt": "2026-07-19T08:28:30.599Z"
     },
     {
       "site": "RBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-07-18T08:02:20.839Z"
-    },
-    {
-      "site": "ICAI (CA)",
-      "type": "TEXT_NOTICE",
-      "url": "https://www.icai.org/",
-      "detectedAt": "2026-07-18T08:02:21.677Z"
-    },
-    {
-      "site": "CRPF",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://crpf.gov.in/Upload/Document/Final_Booklet-868.pdf",
-      "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-07-18T08:02:42.914Z"
-    },
-    {
-      "site": "CRPF",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://crpf.gov.in/Upload/Document/Reg_engagement_of_Retired_officersofficials_as_consultant_of_contract_basis_in_the_NIA_287072026-231.pdf",
-      "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-07-18T08:02:42.914Z"
-    },
-    {
-      "site": "CRPF",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://crpf.gov.in/Upload/Tender/NIT002%20(1)-743.pdf",
-      "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-07-18T08:02:42.914Z"
-    },
-    {
-      "site": "CRPF",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://crpf.gov.in/Upload/Tender/tender_notice_288072026-553.pdf",
-      "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-07-18T08:02:42.914Z"
-    },
-    {
-      "site": "CRPF",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://crpf.gov.in/Upload/Tender/tender_notice_289072026-646.pdf",
-      "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-07-18T08:02:42.914Z"
+      "detectedAt": "2026-07-19T08:28:29.438Z"
     },
     {
       "site": "CISF",
       "type": "TEXT_NOTICE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-07-18T08:02:40.719Z"
+      "detectedAt": "2026-07-19T08:28:47.686Z"
     },
     {
       "site": "KVS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026071378.pdf",
-      "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-07-18T08:02:45.085Z"
-    },
-    {
-      "site": "KVS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026071427-1.pdf",
-      "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-07-18T08:02:45.085Z"
-    },
-    {
-      "site": "KVS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026071456.pdf",
-      "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-07-18T08:02:45.085Z"
-    },
-    {
-      "site": "KVS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026071593.pdf",
-      "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-07-18T08:02:45.085Z"
-    },
-    {
-      "site": "KVS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026071637.pdf",
-      "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-07-18T08:02:45.085Z"
-    },
-    {
-      "site": "IGNOU",
       "type": "TEXT_NOTICE",
-      "url": "https://ignou.ac.in/",
-      "detectedAt": "2026-07-18T08:03:10.967Z"
+      "url": "https://kvsangathan.nic.in/",
+      "detectedAt": "2026-07-19T08:28:51.847Z"
     },
     {
       "site": "UPPSC",
       "type": "TEXT_NOTICE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-07-18T08:03:02.996Z"
+      "detectedAt": "2026-07-19T08:29:15.207Z"
     },
     {
       "site": "MPPSC",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Assistant_Professor_History_Exam_2024_Dated_17_07_2026.pdf",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-07-18T08:03:01.871Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Dental_Specialist_2024_Dated_16_07_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-07-18T08:03:01.871Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Revised_Pathology_Specialist_2024_Dated_14_07_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-07-18T08:03:01.871Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Revised_Vigyapti_Sports_Officer_Exam_2024_Dated_13_07_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-07-18T08:03:01.871Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Professor_Commerce_Exam_2024_Dated_13_07_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-07-18T08:03:01.871Z"
+      "detectedAt": "2026-07-19T08:29:14.502Z"
     },
     {
       "site": "JPSC",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://www.jpsc.gov.in/data/Press_Release_01_26_dated_09_07_2026.pdf",
+      "noticeUrl": "https://www.jpsc.gov.in/Civil_judge_junior_division_22_2023/login.php",
       "url": "https://www.jpsc.gov.in/",
-      "detectedAt": "2026-07-18T08:03:18.877Z"
+      "detectedAt": "2026-07-19T08:29:31.267Z"
     },
     {
-      "site": "JPSC",
+      "site": "DSSSB",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://www.jpsc.gov.in/data/Press_Release_01_26_dated_14_07_2026.pdf",
-      "url": "https://www.jpsc.gov.in/",
-      "detectedAt": "2026-07-18T08:03:18.877Z"
+      "noticeUrl": "https://cdn.digialm.com//EForms/configuredHtml/1258/101323/login.html",
+      "url": "https://dsssb.delhi.gov.in/",
+      "detectedAt": "2026-07-19T08:29:48.047Z"
     },
     {
-      "site": "JPSC",
+      "site": "DSSSB",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://www.jpsc.gov.in/data/Press_Release_03_24_dated_14_07_2026.pdf",
-      "url": "https://www.jpsc.gov.in/",
-      "detectedAt": "2026-07-18T08:03:18.877Z"
+      "noticeUrl": "https://dsssb.delhi.gov.in/dsssb/detailed-public-notice-inviting-online-applications-applicants-year-2009-post-code-9009-post",
+      "url": "https://dsssb.delhi.gov.in/",
+      "detectedAt": "2026-07-19T08:29:48.047Z"
     },
     {
-      "site": "JPSC",
+      "site": "DSSSB",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://www.jpsc.gov.in/data/Press_Release_04_24_dated_14_07_2026.pdf",
-      "url": "https://www.jpsc.gov.in/",
-      "detectedAt": "2026-07-18T08:03:18.877Z"
+      "noticeUrl": "https://dsssb.delhi.gov.in/dsssb/main-result-notice-no-1036-pgt-history-male-directorate-educationgnctd-pgt-history-female-0",
+      "url": "https://dsssb.delhi.gov.in/",
+      "detectedAt": "2026-07-19T08:29:48.047Z"
     },
     {
-      "site": "JPSC",
+      "site": "DSSSB",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://www.jpsc.gov.in/data/Press_Release_22_23_dated_17_07_2026.pdf",
-      "url": "https://www.jpsc.gov.in/",
-      "detectedAt": "2026-07-18T08:03:18.877Z"
+      "noticeUrl": "https://dsssb.delhi.gov.in/dsssb/main-result-notice-no-1038-account-assistant-under-post-code-6524-delhi-state-industrial-and",
+      "url": "https://dsssb.delhi.gov.in/",
+      "detectedAt": "2026-07-19T08:29:48.047Z"
+    },
+    {
+      "site": "DSSSB",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://dsssb.delhi.gov.in/dsssb/notice-conduct-shorthand-skill-test-shorthand-typing-low-vision-lvblind-b-candidates-0",
+      "url": "https://dsssb.delhi.gov.in/",
+      "detectedAt": "2026-07-19T08:29:48.047Z"
     },
     {
       "site": "UP Board",
       "type": "TEXT_NOTICE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-07-18T08:03:36.616Z"
+      "detectedAt": "2026-07-19T08:29:48.943Z"
     }
   ],
   "noiseChanges": [],
-  "errors": 26,
+  "errors": 25,
   "errorDetails": [
     {
       "site": "UPSC",
@@ -370,11 +202,6 @@
     {
       "site": "CGPSC",
       "url": "https://psc.cg.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "DSSSB",
-      "url": "https://dsssb.delhi.gov.in/",
       "error": "Timeout"
     },
     {
