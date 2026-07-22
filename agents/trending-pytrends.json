@@ -1,9 +1,18 @@
 {
-  "scannedAt": "2026-07-22T06:45:37.666114",
+  "scannedAt": "2026-07-22T10:35:54.907048",
   "results": [
     {
+      "topic": "caliber mining ipo allotment status",
+      "category": "Realtime RSS (IN)",
+      "rising_value": 100,
+      "guide_exists": "josaa-counselling-2026-iit-nit-seat-allotment-guide",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
       "topic": "jantar mantar protest news",
-      "category": "Realtime RSS (IN-UP)",
+      "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
@@ -11,25 +20,7 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "sthree sakthi kerala lottery results",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": "kerala-ksrtc-free-travel-women",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "panshul bansal neet ug 2026",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "12th supplementary exam result date 2026",
+      "topic": "12th result 2026",
       "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
       "guide_exists": null,
@@ -38,20 +29,20 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "voters",
+      "topic": "scheme",
       "category": "Realtime RSS (IN-AP)",
       "rising_value": 100,
-      "guide_exists": null,
+      "guide_exists": "wb-youth-scheme-2026",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "rrb je 2026 notification",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "panshul bansal neet ug 2026",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
-      "guide_exists": "name-change-gazette-notification-process",
-      "is_spike": true,
+      "guide_exists": null,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
@@ -59,7 +50,7 @@
   "opportunities": [
     {
       "topic": "jantar mantar protest news",
-      "category": "Realtime RSS (IN-UP)",
+      "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
@@ -67,16 +58,7 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "panshul bansal neet ug 2026",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "12th supplementary exam result date 2026",
+      "topic": "12th result 2026",
       "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
       "guide_exists": null,
@@ -85,8 +67,8 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "voters",
-      "category": "Realtime RSS (IN-AP)",
+      "topic": "panshul bansal neet ug 2026",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
@@ -96,27 +78,27 @@
   ],
   "covered": [
     {
-      "topic": "sthree sakthi kerala lottery results",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "caliber mining ipo allotment status",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": "kerala-ksrtc-free-travel-women",
-      "is_spike": true,
+      "guide_exists": "josaa-counselling-2026-iit-nit-seat-allotment-guide",
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "rrb je 2026 notification",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "scheme",
+      "category": "Realtime RSS (IN-AP)",
       "rising_value": 100,
-      "guide_exists": "name-change-gazette-notification-process",
-      "is_spike": true,
+      "guide_exists": "wb-youth-scheme-2026",
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "12th supplementary exam result date 2026",
+      "topic": "12th result 2026",
       "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
       "guide_exists": null,
