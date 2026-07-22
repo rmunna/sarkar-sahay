@@ -1,9 +1,36 @@
 {
-  "scannedAt": "2026-07-20T18:24:55.164416",
+  "scannedAt": "2026-07-22T06:45:37.666114",
   "results": [
     {
-      "topic": "night result",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "jantar mantar protest news",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "sthree sakthi kerala lottery results",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": "kerala-ksrtc-free-travel-women",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "panshul bansal neet ug 2026",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "12th supplementary exam result date 2026",
+      "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -11,10 +38,19 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "dear result",
-      "category": "Realtime RSS (IN-TN)",
+      "topic": "voters",
+      "category": "Realtime RSS (IN-AP)",
       "rising_value": 100,
       "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "rrb je 2026 notification",
+      "category": "Realtime RSS (IN-RJ)",
+      "rising_value": 100,
+      "guide_exists": "name-change-gazette-notification-process",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -22,37 +58,65 @@
   ],
   "opportunities": [
     {
-      "topic": "night result",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "jantar mantar protest news",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": true,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "dear result",
+      "topic": "panshul bansal neet ug 2026",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "12th supplementary exam result date 2026",
       "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
-    }
-  ],
-  "covered": [],
-  "spike_candidates": [
+    },
     {
-      "topic": "night result",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "voters",
+      "category": "Realtime RSS (IN-AP)",
       "rising_value": 100,
       "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    }
+  ],
+  "covered": [
+    {
+      "topic": "sthree sakthi kerala lottery results",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": "kerala-ksrtc-free-travel-women",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "dear result",
+      "topic": "rrb je 2026 notification",
+      "category": "Realtime RSS (IN-RJ)",
+      "rising_value": 100,
+      "guide_exists": "name-change-gazette-notification-process",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    }
+  ],
+  "spike_candidates": [
+    {
+      "topic": "12th supplementary exam result date 2026",
       "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
       "guide_exists": null,
