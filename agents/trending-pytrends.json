@@ -1,17 +1,26 @@
 {
-  "scannedAt": "2026-07-22T10:35:54.907048",
+  "scannedAt": "2026-07-23T10:36:32.114515",
   "results": [
     {
-      "topic": "caliber mining ipo allotment status",
+      "topic": "infosys results",
       "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": "josaa-counselling-2026-iit-nit-seat-allotment-guide",
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "epfo",
+      "category": "Realtime RSS (IN)",
+      "rising_value": 100,
+      "guide_exists": null,
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "jantar mantar protest news",
+      "topic": "cjp jantar mantar protest",
       "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
       "guide_exists": null,
@@ -20,25 +29,16 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "12th result 2026",
-      "category": "Realtime RSS (IN-TN)",
+      "topic": "jeetendra pali hill bungalow investment",
+      "category": "Realtime RSS (IN-TG)",
       "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "scheme",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
-      "guide_exists": "wb-youth-scheme-2026",
+      "guide_exists": "home-loan-prepayment-vs-investment-guide",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "panshul bansal neet ug 2026",
+      "topic": "nvs",
       "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
@@ -49,7 +49,25 @@
   ],
   "opportunities": [
     {
-      "topic": "jantar mantar protest news",
+      "topic": "infosys results",
+      "category": "Realtime RSS (IN)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "epfo",
+      "category": "Realtime RSS (IN)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "cjp jantar mantar protest",
       "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
       "guide_exists": null,
@@ -58,16 +76,7 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "12th result 2026",
-      "category": "Realtime RSS (IN-TN)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "panshul bansal neet ug 2026",
+      "topic": "nvs",
       "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
@@ -78,19 +87,10 @@
   ],
   "covered": [
     {
-      "topic": "caliber mining ipo allotment status",
-      "category": "Realtime RSS (IN)",
+      "topic": "jeetendra pali hill bungalow investment",
+      "category": "Realtime RSS (IN-TG)",
       "rising_value": 100,
-      "guide_exists": "josaa-counselling-2026-iit-nit-seat-allotment-guide",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "scheme",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
-      "guide_exists": "wb-youth-scheme-2026",
+      "guide_exists": "home-loan-prepayment-vs-investment-guide",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -98,8 +98,8 @@
   ],
   "spike_candidates": [
     {
-      "topic": "12th result 2026",
-      "category": "Realtime RSS (IN-TN)",
+      "topic": "infosys results",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
