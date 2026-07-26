@@ -1,26 +1,8 @@
 {
-  "scannedAt": "2026-07-23T10:36:32.114515",
+  "scannedAt": "2026-07-26T10:15:07.177904",
   "results": [
     {
-      "topic": "infosys results",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "epfo",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "cjp jantar mantar protest",
+      "topic": "voters",
       "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
       "guide_exists": null,
@@ -29,45 +11,27 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "jeetendra pali hill bungalow investment",
-      "category": "Realtime RSS (IN-TG)",
+      "topic": "kerala result",
+      "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
-      "guide_exists": "home-loan-prepayment-vs-investment-guide",
-      "is_spike": false,
+      "guide_exists": "kerala-oommen-chandy-health-insurance",
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "nvs",
-      "category": "Realtime RSS (IN-OR)",
+      "topic": "result",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": false,
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "infosys results",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "epfo",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "cjp jantar mantar protest",
+      "topic": "voters",
       "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
       "guide_exists": null,
@@ -76,30 +40,30 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "nvs",
-      "category": "Realtime RSS (IN-OR)",
+      "topic": "result",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": false,
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "covered": [
     {
-      "topic": "jeetendra pali hill bungalow investment",
-      "category": "Realtime RSS (IN-TG)",
+      "topic": "kerala result",
+      "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
-      "guide_exists": "home-loan-prepayment-vs-investment-guide",
-      "is_spike": false,
+      "guide_exists": "kerala-oommen-chandy-health-insurance",
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "infosys results",
-      "category": "Realtime RSS (IN)",
+      "topic": "result",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
