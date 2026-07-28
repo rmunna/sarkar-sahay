@@ -1,111 +1,169 @@
 {
-  "scanTime": "2026-07-26T08:37:05.568Z",
-  "elapsedSeconds": 135.1,
-  "changesDetected": 14,
+  "scanTime": "2026-07-28T08:47:09.939Z",
+  "elapsedSeconds": 134.6,
+  "changesDetected": 21,
   "noiseDetected": 0,
   "changes": [
     {
-      "site": "NTA",
+      "site": "SSC",
       "type": "NEW_NOTICE",
-      "headline": "Advertisement for Engagement of General Manager - Assessment, R&amp;D and Psychometrics on Contract Basis&nbsp;",
-      "date": "2026-07-25",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260725210713.pdf",
-      "url": "https://nta.ac.in"
+      "headline": "Important Notice - Schedule of Examinations",
+      "date": "2026-07-27T13:02:56.883Z",
+      "id": "pt7u0jxtmmwfku19qx5jf",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/important_notice_27072026.pdf",
+      "url": "https://ssc.gov.in"
     },
     {
-      "site": "NTA",
+      "site": "SSC",
       "type": "NEW_NOTICE",
-      "headline": "Advertisement for Engagement of General Manager - Information Security (Chief Information Security Officer) on Contract Basis&nbsp;",
-      "date": "2026-07-25",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260725210637.pdf",
-      "url": "https://nta.ac.in"
+      "headline": "IMPORTANT NOTICE - Postponement of Physical Endurance and Measurement Test (PE and MT) for  various  Examinations in Delhi Police,  2025.",
+      "date": "2026-07-27T11:52:51.820Z",
+      "id": "ywaxd1kmxa4bsnu7lo3xi",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_27072026.pdf",
+      "url": "https://ssc.gov.in"
     },
     {
-      "site": "NTA",
+      "site": "SSC",
       "type": "NEW_NOTICE",
-      "headline": "Advertisement for Engagement of General Manager - Test Centre Network &amp; Operations on Contract Basis&nbsp;",
-      "date": "2026-07-25",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260725210603.pdf",
-      "url": "https://nta.ac.in"
-    },
-    {
-      "site": "NTA",
-      "type": "NEW_NOTICE",
-      "headline": "Advertisement for Engagement of General Manager - Vigilance, Investigation &amp; Forensics on Contract Basis&nbsp;",
-      "date": "2026-07-25",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260725210507.pdf",
-      "url": "https://nta.ac.in"
+      "headline": "Addendum to Notice of Combined Hindi Translators Examination, 2025",
+      "date": "2026-07-27T06:32:40.741Z",
+      "id": "nkmya0gdsjs9wyztz5s0y",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Addendum_27072026.pdf",
+      "url": "https://ssc.gov.in"
     },
     {
       "site": "NTA",
       "type": "NEW_NOTICE",
       "headline": "Advertisement for Engagement of Young Professionals (YPs) through Pratibha Setu Portal of the Union Public Service Commission&nbsp;",
-      "date": "2026-07-25",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260725210230.pdf",
+      "date": "2026-07-27",
+      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260727182748.pdf",
       "url": "https://nta.ac.in"
     },
     {
-      "site": "SBI Careers",
+      "site": "IBPS",
       "type": "LINK_CHANGE",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-07-26T08:35:24.812Z"
+      "noticeUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification_CRP-PO-XVI_Final_V1_30.06.2026.pdf",
+      "url": "https://www.ibps.in/",
+      "detectedAt": "2026-07-28T08:45:29.124Z"
+    },
+    {
+      "site": "IBPS",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://www.ibps.in/wp-content/uploads/IMPORTANT-NOTICE_Edit_Window_28.07.26.pdf",
+      "url": "https://www.ibps.in/",
+      "detectedAt": "2026-07-28T08:45:29.124Z"
     },
     {
       "site": "RBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-07-26T08:35:22.860Z"
+      "detectedAt": "2026-07-28T08:45:28.334Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://crpf.gov.in/Upload/Tender/NIT55BN-290.pdf",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-07-28T08:45:48.897Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://crpf.gov.in/Upload/Tender/Tender_Notice_136062026-182.pdf",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-07-28T08:45:48.897Z"
     },
     {
       "site": "CISF",
       "type": "TEXT_NOTICE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-07-26T08:35:40.356Z"
+      "detectedAt": "2026-07-28T08:45:45.696Z"
     },
     {
       "site": "KVS",
-      "type": "TEXT_NOTICE",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026072732.pdf",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-07-26T08:35:44.410Z"
+      "detectedAt": "2026-07-28T08:45:52.111Z"
+    },
+    {
+      "site": "CUET",
+      "type": "TEXT_NOTICE",
+      "url": "https://cuet.nta.nic.in/",
+      "detectedAt": "2026-07-28T08:46:08.340Z"
     },
     {
       "site": "UPPSC",
       "type": "TEXT_NOTICE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-07-26T08:36:01.536Z"
+      "detectedAt": "2026-07-28T08:46:08.489Z"
     },
     {
       "site": "MPPSC",
       "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Corrigendum_AP_History_Physics_Chemistry_Botany_Mathematics_2025_Dated_27_07_2026.pdf",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-07-26T08:36:01.607Z"
+      "detectedAt": "2026-07-28T08:46:08.120Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Vigyapti_Inspection_of_Answer_Booklets_of_State_Service_Main_Exam_Date_27-07-2026.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-07-28T08:46:08.120Z"
     },
     {
       "site": "CTET",
       "type": "TEXT_NOTICE",
       "url": "https://ctet.nic.in/",
-      "detectedAt": "2026-07-26T08:36:38.168Z"
+      "detectedAt": "2026-07-28T08:46:42.974Z"
     },
     {
       "site": "DSSSB",
-      "type": "TEXT_NOTICE",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdn.digialm.com/EForms/configuredHtml/1258/100822/login.html",
       "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-07-26T08:36:38.454Z"
+      "detectedAt": "2026-07-28T08:46:42.981Z"
+    },
+    {
+      "site": "DSSSB",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_1046.pdf",
+      "url": "https://dsssb.delhi.gov.in/",
+      "detectedAt": "2026-07-28T08:46:42.981Z"
+    },
+    {
+      "site": "DSSSB",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_1049_0.pdf",
+      "url": "https://dsssb.delhi.gov.in/",
+      "detectedAt": "2026-07-28T08:46:42.981Z"
+    },
+    {
+      "site": "DSSSB",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/speaking_order_4270_73.pdf",
+      "url": "https://dsssb.delhi.gov.in/",
+      "detectedAt": "2026-07-28T08:46:42.981Z"
     },
     {
       "site": "UP Board",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://upmsp.edu.in/Downloads/Private_Vigyapti_2026_27.pdf",
+      "type": "TEXT_NOTICE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-07-26T08:36:38.309Z"
+      "detectedAt": "2026-07-28T08:46:43.169Z"
     }
   ],
   "noiseChanges": [],
-  "errors": 24,
+  "errors": 25,
   "errorDetails": [
     {
       "site": "UPSC",
       "error": "Timeout"
+    },
+    {
+      "site": "SBI Careers",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "error": ""
     },
     {
       "site": "NABARD",
