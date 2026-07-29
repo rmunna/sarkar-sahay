@@ -1,29 +1,20 @@
 {
-  "scannedAt": "2026-07-26T10:15:07.177904",
+  "scannedAt": "2026-07-29T17:42:58.337037",
   "results": [
     {
-      "topic": "voters",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "vedanta oil gas q1 results",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "kerala result",
-      "category": "Realtime RSS (IN-TN)",
-      "rising_value": 100,
-      "guide_exists": "kerala-oommen-chandy-health-insurance",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "result",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "tslprb notification",
+      "category": "Realtime RSS (IN-TG)",
       "rising_value": 100,
-      "guide_exists": null,
+      "guide_exists": "name-change-gazette-notification",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -31,17 +22,8 @@
   ],
   "opportunities": [
     {
-      "topic": "voters",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "result",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "vedanta oil gas q1 results",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -51,10 +33,10 @@
   ],
   "covered": [
     {
-      "topic": "kerala result",
-      "category": "Realtime RSS (IN-TN)",
+      "topic": "tslprb notification",
+      "category": "Realtime RSS (IN-TG)",
       "rising_value": 100,
-      "guide_exists": "kerala-oommen-chandy-health-insurance",
+      "guide_exists": "name-change-gazette-notification",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -62,8 +44,8 @@
   ],
   "spike_candidates": [
     {
-      "topic": "result",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "vedanta oil gas q1 results",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
