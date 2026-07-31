@@ -1,169 +1,228 @@
 {
-  "scanTime": "2026-07-28T08:47:09.939Z",
-  "elapsedSeconds": 134.6,
-  "changesDetected": 21,
+  "scanTime": "2026-07-31T09:12:54.785Z",
+  "elapsedSeconds": 138.6,
+  "changesDetected": 31,
   "noiseDetected": 0,
   "changes": [
     {
-      "site": "SSC",
-      "type": "NEW_NOTICE",
-      "headline": "Important Notice - Schedule of Examinations",
-      "date": "2026-07-27T13:02:56.883Z",
-      "id": "pt7u0jxtmmwfku19qx5jf",
-      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/important_notice_27072026.pdf",
-      "url": "https://ssc.gov.in"
-    },
-    {
-      "site": "SSC",
-      "type": "NEW_NOTICE",
-      "headline": "IMPORTANT NOTICE - Postponement of Physical Endurance and Measurement Test (PE and MT) for  various  Examinations in Delhi Police,  2025.",
-      "date": "2026-07-27T11:52:51.820Z",
-      "id": "ywaxd1kmxa4bsnu7lo3xi",
-      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_27072026.pdf",
-      "url": "https://ssc.gov.in"
-    },
-    {
-      "site": "SSC",
-      "type": "NEW_NOTICE",
-      "headline": "Addendum to Notice of Combined Hindi Translators Examination, 2025",
-      "date": "2026-07-27T06:32:40.741Z",
-      "id": "nkmya0gdsjs9wyztz5s0y",
-      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Addendum_27072026.pdf",
-      "url": "https://ssc.gov.in"
-    },
-    {
       "site": "NTA",
       "type": "NEW_NOTICE",
-      "headline": "Advertisement for Engagement of Young Professionals (YPs) through Pratibha Setu Portal of the Union Public Service Commission&nbsp;",
-      "date": "2026-07-27",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260727182748.pdf",
+      "headline": "NTA to Conduct NITTT Examination for April-May 2026 Semester in Remote Proctored Mode-reg.&nbsp;",
+      "date": "2026-07-30",
+      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260730211250.pdf",
       "url": "https://nta.ac.in"
     },
     {
       "site": "IBPS",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification_CRP-PO-XVI_Final_V1_30.06.2026.pdf",
+      "noticeUrl": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf",
       "url": "https://www.ibps.in/",
-      "detectedAt": "2026-07-28T08:45:29.124Z"
+      "detectedAt": "2026-07-31T09:11:23.599Z"
     },
     {
       "site": "IBPS",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://www.ibps.in/wp-content/uploads/IMPORTANT-NOTICE_Edit_Window_28.07.26.pdf",
+      "noticeUrl": "https://www.ibps.in/wp-content/uploads/RFP-for-High-End-Workstation-Purchase-July-2026-1.pdf",
       "url": "https://www.ibps.in/",
-      "detectedAt": "2026-07-28T08:45:29.124Z"
+      "detectedAt": "2026-07-31T09:11:23.599Z"
+    },
+    {
+      "site": "SBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://bank.sbi/csfile/CBO_RESULT-2025-26_18-15-COLUMNS.pdf",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-07-31T09:11:21.074Z"
+    },
+    {
+      "site": "SBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://bank.sbi/csfile/cbo-2025_18-wtqual_SCREENED-15_FORMAT_-_FINAL.pdf",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-07-31T09:11:21.074Z"
+    },
+    {
+      "site": "SBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://bank.sbi/documents/77530/0/corrigendum.pdf/98dc9b0d-9edb-7756-11ef-cd945e8bef42?t=1756993788841",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-07-31T09:11:21.074Z"
+    },
+    {
+      "site": "SBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://bank.sbi/documents/77530/43947057/020824-How+to+Apply.pdf/5dba09bb-47b2-1212-5f31-53c02fec6001?t=1722603063162",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-07-31T09:11:21.074Z"
+    },
+    {
+      "site": "SBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://bank.sbi/documents/77530/43947057/111124-NOTICE+FOR+ONLINE+WRITTEN+TEST.pdf/2f87602f-cd33-8057-4509-7f9dd779b4bf?t=1731329752491",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-07-31T09:11:21.074Z"
     },
     {
       "site": "RBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-07-28T08:45:28.334Z"
+      "detectedAt": "2026-07-31T09:11:15.102Z"
     },
     {
       "site": "CRPF",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://crpf.gov.in/Upload/Tender/NIT55BN-290.pdf",
+      "noticeUrl": "https://crpf.gov.in/Upload/Tender/NIT%2012%20Correction-306.pdf",
       "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-07-28T08:45:48.897Z"
+      "detectedAt": "2026-07-31T09:11:37.308Z"
     },
     {
       "site": "CRPF",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://crpf.gov.in/Upload/Tender/Tender_Notice_136062026-182.pdf",
+      "noticeUrl": "https://crpf.gov.in/Upload/Tender/NIT006-393.pdf",
       "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-07-28T08:45:48.897Z"
+      "detectedAt": "2026-07-31T09:11:37.308Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://crpf.gov.in/Upload/Tender/NIT008%20(1)-390.pdf",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-07-31T09:11:37.308Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://crpf.gov.in/Upload/Tender/NITT005-782.pdf",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-07-31T09:11:37.308Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://crpf.gov.in/Upload/Tender/NITT007-294.pdf",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-07-31T09:11:37.308Z"
     },
     {
       "site": "CISF",
       "type": "TEXT_NOTICE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-07-28T08:45:45.696Z"
+      "detectedAt": "2026-07-31T09:11:35.843Z"
     },
     {
       "site": "KVS",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026072732.pdf",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026073078.pdf",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-07-28T08:45:52.111Z"
+      "detectedAt": "2026-07-31T09:11:40.253Z"
     },
     {
       "site": "CUET",
       "type": "TEXT_NOTICE",
       "url": "https://cuet.nta.nic.in/",
-      "detectedAt": "2026-07-28T08:46:08.340Z"
+      "detectedAt": "2026-07-31T09:11:53.777Z"
     },
     {
       "site": "UPPSC",
       "type": "TEXT_NOTICE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-07-28T08:46:08.489Z"
+      "detectedAt": "2026-07-31T09:11:53.618Z"
     },
     {
       "site": "MPPSC",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Corrigendum_AP_History_Physics_Chemistry_Botany_Mathematics_2025_Dated_27_07_2026.pdf",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Advt_Assistant_Professor_Botany_Exam_2025_Dated_30_12_2025.pdf",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-07-28T08:46:08.120Z"
+      "detectedAt": "2026-07-31T09:11:53.285Z"
     },
     {
       "site": "MPPSC",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Vigyapti_Inspection_of_Answer_Booklets_of_State_Service_Main_Exam_Date_27-07-2026.pdf",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Advt_Assistant_Professor_Chemistry_Exam_2025_Dated_30_12_2025.pdf",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-07-28T08:46:08.120Z"
+      "detectedAt": "2026-07-31T09:11:53.285Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Advt_Assistant_Professor_History_Exam_2025_Dated_30_12_2025.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-07-31T09:11:53.285Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Advt_Assistant_Professor_Mathematics_Exam_2025_Dated_30_12_2025.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-07-31T09:11:53.285Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Advt_Assistant_Professor_Physics_Exam_2025_Dated_30_12_2025.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-07-31T09:11:53.285Z"
+    },
+    {
+      "site": "JPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://www.jpsc.gov.in/data/Notice.pdf",
+      "url": "https://www.jpsc.gov.in/",
+      "detectedAt": "2026-07-31T09:12:10.706Z"
     },
     {
       "site": "CTET",
       "type": "TEXT_NOTICE",
       "url": "https://ctet.nic.in/",
-      "detectedAt": "2026-07-28T08:46:42.974Z"
+      "detectedAt": "2026-07-31T09:12:27.564Z"
     },
     {
       "site": "DSSSB",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://cdn.digialm.com/EForms/configuredHtml/1258/100822/login.html",
+      "noticeUrl": "https://dsssb.delhi.gov.in/dsssb/notice-display-draft-answer-keys-online-computer-based-examination-various-examinations",
       "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-07-28T08:46:42.981Z"
+      "detectedAt": "2026-07-31T09:12:27.547Z"
     },
     {
       "site": "DSSSB",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_1046.pdf",
+      "noticeUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/821_24.pdf",
       "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-07-28T08:46:42.981Z"
+      "detectedAt": "2026-07-31T09:12:27.547Z"
     },
     {
       "site": "DSSSB",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_1049_0.pdf",
+      "noticeUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_1053.pdf",
       "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-07-28T08:46:42.981Z"
+      "detectedAt": "2026-07-31T09:12:27.547Z"
     },
     {
       "site": "DSSSB",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/speaking_order_4270_73.pdf",
+      "noticeUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_1054.pdf",
       "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-07-28T08:46:42.981Z"
+      "detectedAt": "2026-07-31T09:12:27.547Z"
+    },
+    {
+      "site": "DSSSB",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_1649.pdf",
+      "url": "https://dsssb.delhi.gov.in/",
+      "detectedAt": "2026-07-31T09:12:27.547Z"
     },
     {
       "site": "UP Board",
       "type": "TEXT_NOTICE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-07-28T08:46:43.169Z"
+      "detectedAt": "2026-07-31T09:12:27.640Z"
     }
   ],
   "noiseChanges": [],
-  "errors": 25,
+  "errors": 24,
   "errorDetails": [
     {
       "site": "UPSC",
       "error": "Timeout"
-    },
-    {
-      "site": "SBI Careers",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "error": ""
     },
     {
       "site": "NABARD",
