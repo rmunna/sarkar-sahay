@@ -1,78 +1,96 @@
 {
-  "scannedAt": "2026-07-31T03:56:19.609993",
+  "scannedAt": "2026-07-31T21:32:37.396100",
   "results": [
     {
-      "topic": "ayushman",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "tn 12th supplementary exam result",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": "ayushman-bharat-card-status-check",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "sanjeev kumar",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "tn results",
-      "category": "Realtime RSS (IN-TN)",
-      "rising_value": 100,
-      "guide_exists": null,
+      "guide_exists": "12th-supplementary-exam-result-date-2026",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "abhijeet dipke",
+      "topic": "up police constable result",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "bihar-police-constable-2026-exam-guide",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "pradhan mantri fasal bima yojana",
+      "category": "Realtime RSS (IN-OR)",
+      "rising_value": 100,
+      "guide_exists": "seekho-kamao-yojana-madhya-pradesh",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ojee",
       "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "itc q1 results",
+      "category": "Realtime RSS (IN-RJ)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "sanjeev kumar",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "tn results",
-      "category": "Realtime RSS (IN-TN)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "abhijeet dipke",
+      "topic": "ojee",
       "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
+    },
+    {
+      "topic": "itc q1 results",
+      "category": "Realtime RSS (IN-RJ)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
     }
   ],
   "covered": [
     {
-      "topic": "ayushman",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "tn 12th supplementary exam result",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": "ayushman-bharat-card-status-check",
+      "guide_exists": "12th-supplementary-exam-result-date-2026",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "up police constable result",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "bihar-police-constable-2026-exam-guide",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "pradhan mantri fasal bima yojana",
+      "category": "Realtime RSS (IN-OR)",
+      "rising_value": 100,
+      "guide_exists": "seekho-kamao-yojana-madhya-pradesh",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -80,8 +98,8 @@
   ],
   "spike_candidates": [
     {
-      "topic": "tn results",
-      "category": "Realtime RSS (IN-TN)",
+      "topic": "itc q1 results",
+      "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
