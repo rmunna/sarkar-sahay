@@ -1,60 +1,78 @@
 {
-  "scannedAt": "2026-07-30T06:45:51.237497",
+  "scannedAt": "2026-07-31T03:56:19.609993",
   "results": [
     {
-      "topic": "kerala lottery results dl 63",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "ayushman",
+      "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
-      "guide_exists": "kerala-oommen-chandy-health-insurance",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "pm kisan",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "rajiv-gandhi-kisan-nyay-chhattisgarh",
+      "guide_exists": "ayushman-bharat-card-status-check",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "10th result",
+      "topic": "sanjeev kumar",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "tn results",
       "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "abhijeet dipke",
+      "category": "Realtime RSS (IN-OR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "10th result",
+      "topic": "sanjeev kumar",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "tn results",
       "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
+    },
+    {
+      "topic": "abhijeet dipke",
+      "category": "Realtime RSS (IN-OR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
     }
   ],
   "covered": [
     {
-      "topic": "kerala lottery results dl 63",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "ayushman",
+      "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
-      "guide_exists": "kerala-oommen-chandy-health-insurance",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "pm kisan",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "rajiv-gandhi-kisan-nyay-chhattisgarh",
+      "guide_exists": "ayushman-bharat-card-status-check",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -62,7 +80,7 @@
   ],
   "spike_candidates": [
     {
-      "topic": "10th result",
+      "topic": "tn results",
       "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
       "guide_exists": null,
