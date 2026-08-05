@@ -57,7 +57,7 @@
       "lastChanged": "2026-03-01T02:46:19.512Z"
     },
     "ssc:notices": {
-      "lastChecked": "2026-08-04T08:47:59.767Z",
+      "lastChecked": "2026-08-05T08:45:37.939Z",
       "noticeIds": [
         "ptd64bwagcre4sa714dyd",
         "zcaeg534gp0eus6kq337w",
@@ -82,7 +82,7 @@
       "lastChanged": "2026-03-01T02:46:16.492Z"
     },
     "nta:notices": {
-      "lastChecked": "2026-08-04T08:48:03.753Z",
+      "lastChecked": "2026-08-05T08:45:46.710Z",
       "noticeIds": [
         "20260803192542",
         "20260803192500",
@@ -870,7 +870,7 @@
       ]
     },
     "ibps:hash": {
-      "lastChecked": "2026-08-04T08:48:31.726Z",
+      "lastChecked": "2026-08-05T08:46:14.618Z",
       "contentHash": "cc53fcb49639fb0cea14c450f7ed79b3",
       "noticeHash": "4ca5547842a5811428023c3e6cd620d5",
       "pdfHash": "c35575116d8a5ac1846837a22b6cb59c",
@@ -888,16 +888,101 @@
       ]
     },
     "sbi:hash": {
-      "lastChecked": "2026-08-04T08:48:33.273Z",
-      "contentHash": "dd938d722d3b7f932f0b3967e593e6bb",
-      "noticeHash": "d41d8cd98f00b204e9800998ecf8427e",
-      "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
-      "noticeUrls": [],
-      "pdfs": []
+      "lastChecked": "2026-08-05T08:46:15.985Z",
+      "contentHash": "b67b6290acfecb864c6e08fbc59ead1f",
+      "noticeHash": "9fa2e8c3e80ce0c4e5e1343e13ae0e6e",
+      "pdfHash": "316e60c52b70e01d78144949a77ddf5e",
+      "noticeUrls": [
+        "https://bank.sbi/csfile/CBO_RESULT-2025-26_18-15-COLUMNS.pdf",
+        "https://bank.sbi/documents/77530/0/corrigendum.pdf/98dc9b0d-9edb-7756-11ef-cd945e8bef42?t=1756993788841",
+        "https://bank.sbi/documents/77530/43947057/020824-How+to+Apply.pdf/5dba09bb-47b2-1212-5f31-53c02fec6001?t=1722603063162",
+        "https://bank.sbi/documents/77530/43947057/111124-NOTICE+FOR+ONLINE+WRITTEN+TEST.pdf/2f87602f-cd33-8057-4509-7f9dd779b4bf?t=1731329752491",
+        "https://bank.sbi/documents/77530/43947057/180724-CTC+Negotiation+Form.pdf",
+        "https://bank.sbi/documents/77530/43947057/310724-FORMAT_EXPERIENCE+CERT.pdf",
+        "https://bank.sbi/documents/77530/43947057/CORRIGENDUM+COS.pdf/12024fc4-08f1-2249-dda0-b6f398a88147?t=1740466788969",
+        "https://bank.sbi/documents/77530/43947057/CORRIGENDUM+FLC+COUNSELLOR.pdf/f11f6714-8c5c-681e-edc9-bfb7c1485b9e?t=1740828149000",
+        "https://bank.sbi/documents/77530/43947057/CORRIGENDUM+I+SCO+16.pdf/586e2227-76e8-05ec-16c8-9c243efdf02e?t=1728026894065",
+        "https://bank.sbi/documents/77530/43947057/SBIPO-RESULT-2024-25-15-COL-FORMAT.pdf/d9e10a8d-278a-901e-fc64-e357f8a43b8d?t=1749791449007",
+        "https://bank.sbi/documents/77530/43947057/notice+for+PE+Dates.pdf/eae033a2-aef6-720f-9cbd-e857caf053ab?t=1739859960425",
+        "https://bank.sbi/documents/77530/52947104/05022026_Junior+Associates-WL-2-2024-RESULT-15+FORMAT.pdf/b82f59d3-4c96-87ec-46b6-74156aeb7f07?t=1770294554772",
+        "https://bank.sbi/documents/77530/52947104/19122025-SBIPO-RESULT-2025-25-15-COL-FORMAT+%281%29.pdf/676b6ad1-999c-cc50-00e3-7e83ea16c5d6?t=1766141040106",
+        "https://bank.sbi/documents/77530/52947104/27022026_Junior+Associates-mains-2025-RESULT-15+FORMAT.pdf/e4e8f7b3-d429-a855-3000-142dfdb5295b?t=1772180230964",
+        "https://bank.sbi/documents/77530/52947104/CORRIGENDUM+NEW.pdf/146a0ebf-0f51-498e-c7f5-203a63e75ea8?t=1757916686750",
+        "https://bank.sbi/documents/77530/52947104/Junior+Associates-SPLDRIVE-2024-25-RESULT-15+FORMAT.pdf/a11c4ca7-f15c-0941-6a70-26d1acf1d717?t=1748419884479",
+        "https://bank.sbi/documents/77530/52947104/Junior+Associates-WL-1-2024-RESULT-15+FORMAT.pdf/80582550-b822-4507-3552-4d958f12dcf0?t=1755065695627",
+        "https://bank.sbi/documents/77530/52947104/Junior+Associates-WL-2-2024-RESULT-15+FORMAT.pdf/99e2a7c3-28bc-f2e9-f48d-51549c9e4f3b?t=1761305630451",
+        "https://bank.sbi/documents/77530/52947104/Junior+Associates-mains-2024-RESULT-15+FORMAT.pdf/2be30817-a971-8bca-74ff-3f1274a37079?t=1749637240610",
+        "https://bank.sbi/documents/77530/52947104/corrigendum.pdf/da5f16dd-2234-2eb3-5401-ff40b28aa0e6?t=1767267842772",
+        "https://bank.sbi/web/careers/crpd/2024/clk-pre-phase-1-result",
+        "https://bank.sbi/web/careers/po-pre-result-2025",
+        "https://bank.sbi/web/careers/recruitment-results",
+        "https://bank.sbi/web/careers/recruitment-results-archive",
+        "https://ibpsonline.ibps.in/sbicboapr25/intcla_oct25/login.php?appid=cfc16012f79ceb914a4dd8d1d21b9af6",
+        "https://ibpsonline.ibps.in/sbicboapr25/oecla_jul25/login.php?appid=68bb30f758f8b0ef4f04597322a7d364",
+        "https://ibpsonline.ibps.in/sbijanov24/opecla_apr25/login.php?appid=0cbb97904c4614e925df6f14cadd0bf2",
+        "https://ibpsonline.ibps.in/sbipomay25/geintcla_nov25/login.php?appid=3bead2eb3cd3950d4ce7d3d2fcabf27a",
+        "https://ibpsonline.ibps.in/sbiponov24/geicla_may25/login.php?appid=0aee23492d29ea2cdc5d5972d1aec491",
+        "https://ibpsonline.ibps.in/sbiponov24/oecla_feb25/login.php?appid=a901c7d3c7dc842a3240b24b6873442d",
+        "https://ibpsonline.ibps.in/sbiponov24/oeclb_apr25/login.php?appid=b4d9209386abe07c255bb9c1bf0a7451",
+        "https://ibpsonline.ibps.in/sbiponov24/ptcla_may25/login.php?appid=194870a40a97ec7688fdc8855f9e92ac",
+        "https://ibpsonline.ibps.in/sbisco2aug24/intcla_jan25/login.php?appid=d783f28f252b616f38ceb187e1404654",
+        "https://ibpsonline.ibps.in/sbiscoaug24/oecla_dece24/login.php?appid=a4da1418c994b1cd272e76c8ebbbd3d5",
+        "https://ibpsreg.ibps.in/sbipojun26/oecla_jul26/login.php?appid=37197c13b10b90a86bb3b522106262c9",
+        "https://recruitment.bank.sbi/crpd-rs-2024-25-08/apply",
+        "https://recruitment.bank.sbi/crpd-rs-2024-25-34/apply",
+        "https://recruitment.bank.sbi/crpd-rs-2025-26-01/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-06/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-09/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-1/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-10/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-11/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-13/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-14/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-16/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-2/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-21/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-26/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-27/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-28/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-29/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-3/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-30/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-31/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-32/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-35/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-4/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2024-25-5/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2025-26-02/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2025-26-05/apply",
+        "https://recruitment.bank.sbi/crpd-sco-2025-26-09/apply",
+        "https://recruitment.bank.sbi/crpdrs33/apply",
+        "https://recruitment.sbi.bank.in/crpd-rs-2025-26-28/apply",
+        "https://recruitment.sbi.bank.in/crpd-sco-2025-26-07/apply",
+        "https://recruitment.sbi.bank.in/crpd-sco-2025-26-08/apply",
+        "https://recruitment.sbi.bank.in/crpd-sco-2025-26-10/apply",
+        "https://recruitment.sbi.bank.in/crpd-sco-2025-26-12/apply",
+        "https://recruitment.sbi.bank.in/crpd-sco-2025-26-14/apply",
+        "https://recruitment.sbi.bank.in/crpd-sco-2025-26-16/apply",
+        "https://recruitment.sbi.bank.in/crpd-sco-2025-26-17/apply",
+        "https://recruitment.sbi.bank.in/crpd-sco-2025-26-19/apply",
+        "https://recruitment.sbi.bank.in/crpd-sco-2025-26-20/apply",
+        "https://recruitment.sbi.bank.in/crpd-sco-2025-26-22/apply",
+        "https://recruitment.sbi.bank.in/crpd-sco-2025-26-24/apply",
+        "https://recruitment.sbi.bank.in/crpd-sco-2025-26-25/apply",
+        "https://recruitment.sbi.bank.in/crpd-sco-2025-26-27/apply",
+        "https://recruitment.sbi.bank.in/crpd-sco-2026-27-01/apply",
+        "https://recruitment.sbi.bank.in/crpd-sco-2026-27-05/apply",
+        "https://recruitment.sbi.bank.in/crpd-sco-2026-27-10/apply"
+      ],
+      "pdfs": [
+        "https://bank.sbi/csfile/CBO_RESULT-2025-26_18-15-COLUMNS.pdf",
+        "https://bank.sbi/documents/77530/43947057/180724-CTC+Negotiation+Form.pdf",
+        "https://bank.sbi/documents/77530/43947057/310724-FORMAT_EXPERIENCE+CERT.pdf"
+      ]
     },
     "uppsc:hash": {
-      "lastChecked": "2026-08-04T08:49:09.362Z",
-      "contentHash": "08c2a3c4ef75913c21e4c23610fed87f",
+      "lastChecked": "2026-08-05T08:46:51.957Z",
+      "contentHash": "7abab14399d1e2f3c37f55d61f4e6027",
       "noticeHash": "2705524bc5eeeed716a92ca9dd868e9b",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
       "noticeUrls": [
@@ -908,7 +993,7 @@
       "pdfs": []
     },
     "icai:hash": {
-      "lastChecked": "2026-08-04T08:48:31.496Z",
+      "lastChecked": "2026-08-05T08:46:14.286Z",
       "contentHash": "b3864390b9a0a07db1c749699a09a0a5",
       "noticeHash": "afa955b7c27ef2cfe68b5b6ca72c10bc",
       "pdfHash": "783acab41714e35cea5894326682ebc1",
@@ -947,8 +1032,8 @@
       ]
     },
     "rbi:hash": {
-      "lastChecked": "2026-08-04T08:48:31.214Z",
-      "contentHash": "9698e0846ec27d0f7bfa9764d6ac7a80",
+      "lastChecked": "2026-08-05T08:46:13.987Z",
+      "contentHash": "841e642becc0e75d6e58bbf4cba5bc45",
       "noticeHash": "f8e8af967e3a5c4c10e2a4e2931d2145",
       "pdfHash": "5c4f2d967276865f5bd4ce09d5c06a2b",
       "noticeUrls": [
@@ -1003,7 +1088,7 @@
       "pdfs": []
     },
     "cbse:hash": {
-      "lastChecked": "2026-08-04T08:48:51.640Z",
+      "lastChecked": "2026-08-05T08:46:30.638Z",
       "contentHash": "cdf8132d273f5c3701199635a431bd41",
       "noticeHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -1065,8 +1150,8 @@
       ]
     },
     "cisf:hash": {
-      "lastChecked": "2026-08-04T08:48:51.967Z",
-      "contentHash": "9298ac80c252a312e5fc17b64b2fdf4c",
+      "lastChecked": "2026-08-05T08:46:30.582Z",
+      "contentHash": "588fe713907d31de6f215646556f6e54",
       "noticeHash": "7e266caf0e56317aa1805d17ba5fad2c",
       "pdfHash": "dcb8f9d4988ce1cb962ced406b83bc91",
       "noticeUrls": [
@@ -1106,7 +1191,7 @@
       "pdfs": []
     },
     "crpf:hash": {
-      "lastChecked": "2026-08-04T08:48:52.412Z",
+      "lastChecked": "2026-08-05T08:46:32.363Z",
       "contentHash": "488cc41d26f9a68ceba3f42cae9ab4ff",
       "noticeHash": "ae60f3b947f6023a7d7155e6244bd5c7",
       "pdfHash": "f243a0f9cac7abb6b35a551fc51ca0fd",
@@ -1199,10 +1284,10 @@
       ]
     },
     "kvs:hash": {
-      "lastChecked": "2026-08-04T08:48:55.735Z",
-      "contentHash": "75098c8dbfaa43d39e939fb04444d9e5",
-      "noticeHash": "abe4607f892e95d400404cee1fe8031f",
-      "pdfHash": "3c31bde8fa055d110eec3ffb8a751305",
+      "lastChecked": "2026-08-05T08:46:34.919Z",
+      "contentHash": "1252accad852e27a17e32cfed654779a",
+      "noticeHash": "3b2b6be4944de37f0b36bbcc93087d01",
+      "pdfHash": "4b515969deff9265770404215bd13af7",
       "noticeUrls": [
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/11/2023112463.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/12/2023120838.pdf",
@@ -1232,13 +1317,13 @@
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/03/2026031281-1.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/03/2026031296.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026072366.pdf",
-        "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026072369.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026072470.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026072732.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026073078.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026073158.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026073173.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026080392.pdf",
+        "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026080490.pdf",
         "https://kvsangathan.nic.in/notice-category/%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%8f%e0%a4%82/",
         "https://ndtv.in/education/cbse-12-result-out-kvs-vs-jnv-comparison-fees-admission-process-last-5-years-success-rate-11489685",
         "https://ndtv.in/education/cbse-12th-result-2026-school-wise-performance-kv-jnv-pass-percentage-list-11425718",
@@ -1274,13 +1359,13 @@
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/03/2026031281-1.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/03/2026031296.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026072366.pdf",
-        "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026072369.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026072470.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026072732.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026073078.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026073158.pdf",
         "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/07/2026073173.pdf",
-        "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026080392.pdf"
+        "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026080392.pdf",
+        "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026080490.pdf"
       ]
     },
     "nvs:hash": {
@@ -1320,10 +1405,10 @@
       ]
     },
     "mppsc:hash": {
-      "lastChecked": "2026-08-04T08:49:08.965Z",
-      "contentHash": "305fab0107dfe622fb8790732dab4f1e",
-      "noticeHash": "502aea70b1a31b1ad208a5009dc167d6",
-      "pdfHash": "d05f61817f38b9a4a7d8f79f597127a1",
+      "lastChecked": "2026-08-05T08:46:51.624Z",
+      "contentHash": "fa66ea75672f60c4d596a4380cee6a06",
+      "noticeHash": "56efa09d8139643300edc1d724913e2e",
+      "pdfHash": "de6d425819909bbffcfca6e923b18839",
       "noticeUrls": [
         "https://mppsc.mp.gov.in/login",
         "https://mppsc.mp.gov.in/uploads/advertisement/Advt_ADPO_Exam_2026_Dated_10_03_2026.pdf",
@@ -1362,16 +1447,21 @@
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Scientific_Officer_Chemistry_2023_Dated_24_07_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Scientific_Officer_Chemistry_2023_Dated_30_07_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Sports_Officer_Exam_2024_Dated_21_07_2026.pdf",
+        "https://mppsc.mp.gov.in/uploads/files/Caveat_Vigyapti_New_Revised_Gynaecology_Specialist_2024_Dated_04_08_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Final_Answer_Key_Assistant_Professor_2025_Dated_30_07_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Final_Answer_key_AP_Geography_2025_Dated_02-08-2026.pdf",
+        "https://mppsc.mp.gov.in/uploads/files/New_Revised_Obtained_Mark_List_Gynaecology_Specialist_2024_Dated_04_08_2026.pdf",
+        "https://mppsc.mp.gov.in/uploads/files/New_Revised_Selection_List_Gynaecology_Specialist_2024_Dated_04_08_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Obtained_Mark_List_Assistant_Research_Officer_Exam_2024_Dated_22_07_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Obtained_Mark_List__Assistant_Professor_Economics_Exam_2024_Dated_30_07_2026.pdf",
+        "https://mppsc.mp.gov.in/uploads/files/Provisional_Answer_Key_Assistant_Professor_06_Sub__Exam_2025_Dated_04_08_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Revised_Obtained_Mark_List_Orthopedic_Specialist_2024_Dated_03_08_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Revised_Selection_List_Orthopedic_Specialist_2024_Dated_03_08_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Selection_List_Assistant_Professor_Economics_Exam_2024_Dated_30_07_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Selection_List_Assistant_Research_Officer_Exam_2024_Dated_22_07_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Vigyapti_Inspection_of_Answer_Booklets_of_State_Service_Main_Exam_Date_27-07-2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Vigyapti_SSE_Mains_Exam_2025-26_Dated_31_07_2026.pdf",
+        "https://mppsc.mp.gov.in/uploads/files/Vigyapti_SSE_Mains_Exam_2025_Dated_04_08_2026.pdf",
         "https://mppsc.mponline.gov.in/Portal/Examinations/MPPSC/2025/ASP24/CallLetter/login.aspx?Pid=AP25",
         "https://mppsc.mponline.gov.in/Portal/Examinations/MPPSC/2025/LS24/CallLetter/Login.aspx?Pid=LS43"
       ],
@@ -1412,16 +1502,21 @@
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Scientific_Officer_Chemistry_2023_Dated_24_07_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Scientific_Officer_Chemistry_2023_Dated_30_07_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Sports_Officer_Exam_2024_Dated_21_07_2026.pdf",
+        "https://mppsc.mp.gov.in/uploads/files/Caveat_Vigyapti_New_Revised_Gynaecology_Specialist_2024_Dated_04_08_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Final_Answer_Key_Assistant_Professor_2025_Dated_30_07_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Final_Answer_key_AP_Geography_2025_Dated_02-08-2026.pdf",
+        "https://mppsc.mp.gov.in/uploads/files/New_Revised_Obtained_Mark_List_Gynaecology_Specialist_2024_Dated_04_08_2026.pdf",
+        "https://mppsc.mp.gov.in/uploads/files/New_Revised_Selection_List_Gynaecology_Specialist_2024_Dated_04_08_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Obtained_Mark_List_Assistant_Research_Officer_Exam_2024_Dated_22_07_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Obtained_Mark_List__Assistant_Professor_Economics_Exam_2024_Dated_30_07_2026.pdf",
+        "https://mppsc.mp.gov.in/uploads/files/Provisional_Answer_Key_Assistant_Professor_06_Sub__Exam_2025_Dated_04_08_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Revised_Obtained_Mark_List_Orthopedic_Specialist_2024_Dated_03_08_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Revised_Selection_List_Orthopedic_Specialist_2024_Dated_03_08_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Selection_List_Assistant_Professor_Economics_Exam_2024_Dated_30_07_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Selection_List_Assistant_Research_Officer_Exam_2024_Dated_22_07_2026.pdf",
         "https://mppsc.mp.gov.in/uploads/files/Vigyapti_Inspection_of_Answer_Booklets_of_State_Service_Main_Exam_Date_27-07-2026.pdf",
-        "https://mppsc.mp.gov.in/uploads/files/Vigyapti_SSE_Mains_Exam_2025-26_Dated_31_07_2026.pdf"
+        "https://mppsc.mp.gov.in/uploads/files/Vigyapti_SSE_Mains_Exam_2025-26_Dated_31_07_2026.pdf",
+        "https://mppsc.mp.gov.in/uploads/files/Vigyapti_SSE_Mains_Exam_2025_Dated_04_08_2026.pdf"
       ]
     },
     "tnpsc:hash": {
@@ -1478,7 +1573,7 @@
       ]
     },
     "cuet:hash": {
-      "lastChecked": "2026-08-04T08:49:08.625Z",
+      "lastChecked": "2026-08-05T08:46:51.441Z",
       "contentHash": "dcfcd2a4e33614f487e4aaf65efd7297",
       "noticeHash": "187da73618da9613ef8f225c48369c42",
       "pdfHash": "1bcc2f0179bbbb697d4723c4dfef2869",
@@ -2114,7 +2209,7 @@
       ]
     },
     "ignou:hash": {
-      "lastChecked": "2026-08-04T08:49:09.635Z",
+      "lastChecked": "2026-08-05T08:46:52.586Z",
       "contentHash": "fc30528ed129e8191dc2d847bbba520b",
       "noticeHash": "bf92ebdde169c0f54fa482bed6e6da71",
       "pdfHash": "f4b7aadd3c059410bebcf8882432c72d",
@@ -2596,7 +2691,7 @@
       ]
     },
     "ukpsc:hash": {
-      "lastChecked": "2026-08-04T08:49:41.833Z",
+      "lastChecked": "2026-08-05T08:47:24.856Z",
       "contentHash": "29183ec5cee976219d1fa1ec8bb74947",
       "noticeHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -2604,8 +2699,8 @@
       "pdfs": []
     },
     "up-board:hash": {
-      "lastChecked": "2026-08-04T08:49:43.304Z",
-      "contentHash": "17d2bf461851f8a9071b125e026d970a",
+      "lastChecked": "2026-08-05T08:47:26.957Z",
+      "contentHash": "764a4ddece9e71db45e6039d5df343fd",
       "noticeHash": "695e39681eddac5b6a5be696c287a8f7",
       "pdfHash": "d3b640e4ae1316de5a7868909a755701",
       "noticeUrls": [
@@ -2707,7 +2802,7 @@
       ]
     },
     "rbse:hash": {
-      "lastChecked": "2026-08-04T08:49:43.809Z",
+      "lastChecked": "2026-08-05T08:47:25.779Z",
       "contentHash": "7f127d3d8ecd4419f163c0d14fa4ba31",
       "noticeHash": "d41d8cd98f00b204e9800998ecf8427e",
       "pdfHash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -2715,8 +2810,8 @@
       "pdfs": []
     },
     "ctet:hash": {
-      "lastChecked": "2026-08-04T08:49:44.198Z",
-      "contentHash": "a64d653e033eeb33217ec5cfd5cd4fa8",
+      "lastChecked": "2026-08-05T08:47:26.727Z",
+      "contentHash": "ec7651d5323dfabcd9da917c63f47cd5",
       "noticeHash": "f0bca6c9f478835d0ff704550123a1b3",
       "pdfHash": "f0bca6c9f478835d0ff704550123a1b3",
       "noticeUrls": [
@@ -2751,10 +2846,10 @@
       ]
     },
     "dsssb:hash": {
-      "lastChecked": "2026-08-04T08:49:43.982Z",
-      "contentHash": "1da1d42bfd69de2cf189e76b79f6cd18",
-      "noticeHash": "ade3c0e2f3c36eabedd8857e6d5acbf2",
-      "pdfHash": "33ebce981535a86da610e0443eeaeb91",
+      "lastChecked": "2026-08-05T08:47:26.581Z",
+      "contentHash": "965f1380e957be894284503e4fda350c",
+      "noticeHash": "6048b2daf52597a518f512426c46f391",
+      "pdfHash": "7649856cfece8c97c0974af85ab05d5a",
       "noticeUrls": [
         "https://cdn.digialm.com//EForms/configuredHtml/1258/101323/login.html",
         "https://cdn.digialm.com//EForms/configuredHtml/1258/101832/login.html",
@@ -2775,7 +2870,6 @@
         "https://dsssb.delhi.gov.in/dsssb/notice-regarding-withdrawal-earlier-notice-advertisement-no-042024-cook-male-post-code-0524",
         "https://dsssb.delhi.gov.in/dsssb/notice-regarding-withdrawal-earlier-notice-advertisement-no-052024-house-fathermatron-post",
         "https://dsssb.delhi.gov.in/dsssb/recruitment-rules-combined-exam",
-        "https://dsssb.delhi.gov.in/dsssb/rejection-notice-no-1037-pgt-history-male-directorate-educationgnctd-pgt-history-female",
         "https://dsssb.delhi.gov.in/dsssb/rejection-notice-no-1039-account-assistant-under-post-code-6524-delhi-state-industrial-and",
         "https://dsssb.delhi.gov.in/dsssb/supplementary-result-notice-188-assistant-teacher-primary-post-code-15014-ndmc",
         "https://dsssb.delhi.gov.in/dsssb/vacancy-notice-advertisement-no-032026-various-posts-post-code-2126-4526-closing-date-0",
@@ -2786,10 +2880,10 @@
         "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/358.pdf",
         "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/359.pdf",
         "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/img_0001_1_1.pdf",
-        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_1649.pdf",
         "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_194.pdf",
         "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_195.pdf",
         "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_196.pdf",
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_355.pdf",
         "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_356.pdf",
         "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/schedule.pdf",
         "https://dsssb.delhi.gov.in/tender/notice-cancellation-e-tender-id-no-2024dsssb2602571-videographyphotography-services",
@@ -2813,16 +2907,16 @@
         "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/358.pdf",
         "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/359.pdf",
         "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/img_0001_1_1.pdf",
-        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_1649.pdf",
         "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_194.pdf",
         "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_195.pdf",
         "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_196.pdf",
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_355.pdf",
         "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_356.pdf",
         "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/schedule.pdf"
       ]
     },
     "mp-board:hash": {
-      "lastChecked": "2026-08-04T08:49:59.904Z",
+      "lastChecked": "2026-08-05T08:47:42.232Z",
       "contentHash": "6e29f1d251edd14486fa2d8a85d38154",
       "noticeHash": "e1fea0d6d8121d7117e1220fb02101ea",
       "pdfHash": "37b382505b40ad6452cc38c3822ed1b3",
@@ -4073,5 +4167,5 @@
       ]
     }
   },
-  "lastScan": "2026-08-04T08:50:11.303Z"
+  "lastScan": "2026-08-05T08:47:45.479Z"
 }
