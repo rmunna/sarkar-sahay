@@ -1,30 +1,39 @@
 {
-  "scannedAt": "2026-08-05T10:48:24.752341",
+  "scannedAt": "2026-08-05T14:40:13.467580",
   "results": [
     {
-      "topic": "rbi mpc meeting",
+      "topic": "tn sslc 10th result",
       "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "manoj muntashir",
-      "category": "Realtime RSS (IN-KA)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "cpget 2026 results",
-      "category": "Realtime RSS (IN-TG)",
-      "rising_value": 100,
-      "guide_exists": null,
       "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "rbi mpc meeting repo rate",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "rbi-floating-rate-savings-bond-guide-india-2026",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "punjab police",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": "bihar-police-constable-2026-exam-guide",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "rbi mpc meeting",
+      "category": "Realtime RSS (IN-OR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
@@ -40,34 +49,43 @@
   ],
   "opportunities": [
     {
-      "topic": "rbi mpc meeting",
+      "topic": "tn sslc 10th result",
       "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "manoj muntashir",
-      "category": "Realtime RSS (IN-KA)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "cpget 2026 results",
-      "category": "Realtime RSS (IN-TG)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
+    },
+    {
+      "topic": "rbi mpc meeting",
+      "category": "Realtime RSS (IN-OR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
     }
   ],
   "covered": [
+    {
+      "topic": "rbi mpc meeting repo rate",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "rbi-floating-rate-savings-bond-guide-india-2026",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "punjab police",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": "bihar-police-constable-2026-exam-guide",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
     {
       "topic": "icmai cma inter result june 2026",
       "category": "Realtime RSS (IN-OR)",
@@ -80,8 +98,8 @@
   ],
   "spike_candidates": [
     {
-      "topic": "cpget 2026 results",
-      "category": "Realtime RSS (IN-TG)",
+      "topic": "tn sslc 10th result",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
