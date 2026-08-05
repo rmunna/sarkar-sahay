@@ -1,195 +1,87 @@
 {
-  "scannedAt": "2026-08-03T07:52:59.687723",
+  "scannedAt": "2026-08-05T10:48:24.752341",
   "results": [
     {
-      "topic": "upessc",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "upessc up gov in",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "chunav result",
+      "topic": "rbi mpc meeting",
       "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "eci results",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "eci result",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ayushman",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": "ayushman-bharat-card-status-check",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "10th supplementary exam result",
-      "category": "Realtime RSS (IN-TN)",
+      "topic": "manoj muntashir",
+      "category": "Realtime RSS (IN-KA)",
       "rising_value": 100,
-      "guide_exists": "12th-supplementary-exam-result-date-2026",
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "cpget 2026 results",
+      "category": "Realtime RSS (IN-TG)",
+      "rising_value": 100,
+      "guide_exists": null,
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "aging and protein intake research",
+      "topic": "icmai cma inter result june 2026",
       "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "rajasthan police",
-      "category": "Realtime RSS (IN-RJ)",
-      "rising_value": 100,
-      "guide_exists": "bihar-police-constable-2026-exam-guide",
-      "is_spike": false,
+      "guide_exists": "inter-caste-marriage-benefits",
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "upessc",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "upessc up gov in",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "chunav result",
+      "topic": "rbi mpc meeting",
       "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": true,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "eci results",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "eci result",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "aging and protein intake research",
-      "category": "Realtime RSS (IN-OR)",
+      "topic": "manoj muntashir",
+      "category": "Realtime RSS (IN-KA)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "cpget 2026 results",
+      "category": "Realtime RSS (IN-TG)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "covered": [
     {
-      "topic": "ayushman",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "icmai cma inter result june 2026",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
-      "guide_exists": "ayushman-bharat-card-status-check",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "10th supplementary exam result",
-      "category": "Realtime RSS (IN-TN)",
-      "rising_value": 100,
-      "guide_exists": "12th-supplementary-exam-result-date-2026",
+      "guide_exists": "inter-caste-marriage-benefits",
       "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "rajasthan police",
-      "category": "Realtime RSS (IN-RJ)",
-      "rising_value": 100,
-      "guide_exists": "bihar-police-constable-2026-exam-guide",
-      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "chunav result",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "eci results",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "eci result",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "cpget 2026 results",
+      "category": "Realtime RSS (IN-TG)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
