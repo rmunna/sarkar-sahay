@@ -1,126 +1,109 @@
 {
-  "scanTime": "2026-08-05T08:47:45.484Z",
-  "elapsedSeconds": 128.7,
-  "changesDetected": 17,
+  "scanTime": "2026-08-06T08:48:38.107Z",
+  "elapsedSeconds": 134.7,
+  "changesDetected": 15,
   "noiseDetected": 0,
   "changes": [
     {
-      "site": "SBI Careers",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://bank.sbi/csfile/CBO_RESULT-2025-26_18-15-COLUMNS.pdf",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-08-05T08:46:15.985Z"
+      "site": "IBPS",
+      "type": "TEXT_NOTICE",
+      "url": "https://www.ibps.in/",
+      "detectedAt": "2026-08-06T08:46:56.540Z"
     },
     {
       "site": "SBI Careers",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://bank.sbi/documents/77530/0/corrigendum.pdf/98dc9b0d-9edb-7756-11ef-cd945e8bef42?t=1756993788841",
+      "type": "TEXT_NOTICE",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-08-05T08:46:15.985Z"
-    },
-    {
-      "site": "SBI Careers",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://bank.sbi/documents/77530/43947057/020824-How+to+Apply.pdf/5dba09bb-47b2-1212-5f31-53c02fec6001?t=1722603063162",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-08-05T08:46:15.985Z"
-    },
-    {
-      "site": "SBI Careers",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://bank.sbi/documents/77530/43947057/111124-NOTICE+FOR+ONLINE+WRITTEN+TEST.pdf/2f87602f-cd33-8057-4509-7f9dd779b4bf?t=1731329752491",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-08-05T08:46:15.985Z"
-    },
-    {
-      "site": "SBI Careers",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://bank.sbi/documents/77530/43947057/180724-CTC+Negotiation+Form.pdf",
-      "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-08-05T08:46:15.985Z"
+      "detectedAt": "2026-08-06T08:46:59.009Z"
     },
     {
       "site": "RBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-08-05T08:46:13.987Z"
+      "detectedAt": "2026-08-06T08:46:55.653Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "TEXT_NOTICE",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-08-06T08:47:16.433Z"
     },
     {
       "site": "CISF",
       "type": "TEXT_NOTICE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-08-05T08:46:30.582Z"
+      "detectedAt": "2026-08-06T08:47:15.462Z"
     },
     {
       "site": "KVS",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026080490.pdf",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026080544.pdf",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-08-05T08:46:34.919Z"
+      "detectedAt": "2026-08-06T08:47:19.482Z"
     },
     {
       "site": "UPPSC",
       "type": "TEXT_NOTICE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-08-05T08:46:51.957Z"
+      "detectedAt": "2026-08-06T08:47:42.473Z"
     },
     {
       "site": "MPPSC",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Caveat_Vigyapti_New_Revised_Gynaecology_Specialist_2024_Dated_04_08_2026.pdf",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Corrigendum_Scientific_Officer_Physics_Chemistry_Biology_2026_Dated_06_08_2026.pdf",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-08-05T08:46:51.624Z"
+      "detectedAt": "2026-08-06T08:47:42.708Z"
     },
     {
       "site": "MPPSC",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/New_Revised_Obtained_Mark_List_Gynaecology_Specialist_2024_Dated_04_08_2026.pdf",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Provisional_Answer_Key_AD_Veterinary_Assistant_Surgeon_VEO_2026_Dated_05_08_2026.pdf",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-08-05T08:46:51.624Z"
+      "detectedAt": "2026-08-06T08:47:42.708Z"
     },
     {
       "site": "MPPSC",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/New_Revised_Selection_List_Gynaecology_Specialist_2024_Dated_04_08_2026.pdf",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Vigyapti_Interviews_for_State_Engineering_Service_Exam–2025.pdf",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-08-05T08:46:51.624Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Provisional_Answer_Key_Assistant_Professor_06_Sub__Exam_2025_Dated_04_08_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-08-05T08:46:51.624Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Vigyapti_SSE_Mains_Exam_2025_Dated_04_08_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-08-05T08:46:51.624Z"
+      "detectedAt": "2026-08-06T08:47:42.708Z"
     },
     {
       "site": "CTET",
       "type": "TEXT_NOTICE",
       "url": "https://ctet.nic.in/",
-      "detectedAt": "2026-08-05T08:47:26.727Z"
+      "detectedAt": "2026-08-06T08:48:19.289Z"
     },
     {
       "site": "DSSSB",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_355.pdf",
+      "noticeUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/34_25.pdf",
       "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-08-05T08:47:26.581Z"
+      "detectedAt": "2026-08-06T08:48:18.791Z"
+    },
+    {
+      "site": "DSSSB",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/img_0001_9.pdf",
+      "url": "https://dsssb.delhi.gov.in/",
+      "detectedAt": "2026-08-06T08:48:18.791Z"
+    },
+    {
+      "site": "DSSSB",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/img_0002_4.pdf",
+      "url": "https://dsssb.delhi.gov.in/",
+      "detectedAt": "2026-08-06T08:48:18.791Z"
     },
     {
       "site": "UP Board",
       "type": "TEXT_NOTICE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-08-05T08:47:26.957Z"
+      "detectedAt": "2026-08-06T08:48:19.151Z"
     }
   ],
   "noiseChanges": [],
-  "errors": 25,
+  "errors": 26,
   "errorDetails": [
     {
       "site": "UPSC",
@@ -165,6 +148,11 @@
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
       "error": ""
+    },
+    {
+      "site": "IGNOU",
+      "url": "https://ignou.ac.in/",
+      "error": "Timeout"
     },
     {
       "site": "UGC NET",
