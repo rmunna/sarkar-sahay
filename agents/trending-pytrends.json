@@ -1,9 +1,18 @@
 {
-  "scannedAt": "2026-08-08T02:31:10.425670",
+  "scannedAt": "2026-08-08T13:17:11.012522",
   "results": [
     {
-      "topic": "mpsos result",
-      "category": "Realtime RSS (IN)",
+      "topic": "mpsos ruk jana 10th result",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "mpsos-result",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ruk jana nahi result 2026",
+      "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -11,25 +20,7 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "operation safed sagar",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ravenshaw university",
-      "category": "Realtime RSS (IN-OR)",
-      "rising_value": 100,
-      "guide_exists": "bundelkhand-university-result-2026",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "abhijeet",
+      "topic": "sanjeeda shaikh dhamaal 4 role",
       "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
@@ -40,8 +31,8 @@
   ],
   "opportunities": [
     {
-      "topic": "mpsos result",
-      "category": "Realtime RSS (IN)",
+      "topic": "ruk jana nahi result 2026",
+      "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -49,16 +40,7 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "operation safed sagar",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "abhijeet",
+      "topic": "sanjeeda shaikh dhamaal 4 role",
       "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
@@ -69,19 +51,19 @@
   ],
   "covered": [
     {
-      "topic": "ravenshaw university",
-      "category": "Realtime RSS (IN-OR)",
+      "topic": "mpsos ruk jana 10th result",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": "bundelkhand-university-result-2026",
-      "is_spike": false,
+      "guide_exists": "mpsos-result",
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "mpsos result",
-      "category": "Realtime RSS (IN)",
+      "topic": "ruk jana nahi result 2026",
+      "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
