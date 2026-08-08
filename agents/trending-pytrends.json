@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-08-05T14:40:13.467580",
+  "scannedAt": "2026-08-08T02:31:10.425670",
   "results": [
     {
-      "topic": "tn sslc 10th result",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "mpsos result",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -11,26 +11,8 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "rbi mpc meeting repo rate",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "rbi-floating-rate-savings-bond-guide-india-2026",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "punjab police",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": "bihar-police-constable-2026-exam-guide",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "rbi mpc meeting",
-      "category": "Realtime RSS (IN-OR)",
+      "topic": "operation safed sagar",
+      "category": "Realtime RSS (IN-AP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
@@ -38,19 +20,28 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "icmai cma inter result june 2026",
+      "topic": "ravenshaw university",
       "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
-      "guide_exists": "inter-caste-marriage-benefits",
-      "is_spike": true,
+      "guide_exists": "bundelkhand-university-result-2026",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "abhijeet",
+      "category": "Realtime RSS (IN-MH)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "tn sslc 10th result",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "mpsos result",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -58,8 +49,17 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "rbi mpc meeting",
-      "category": "Realtime RSS (IN-OR)",
+      "topic": "operation safed sagar",
+      "category": "Realtime RSS (IN-AP)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "abhijeet",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
@@ -69,37 +69,19 @@
   ],
   "covered": [
     {
-      "topic": "rbi mpc meeting repo rate",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "rbi-floating-rate-savings-bond-guide-india-2026",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "punjab police",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": "bihar-police-constable-2026-exam-guide",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "icmai cma inter result june 2026",
+      "topic": "ravenshaw university",
       "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
-      "guide_exists": "inter-caste-marriage-benefits",
-      "is_spike": true,
+      "guide_exists": "bundelkhand-university-result-2026",
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "tn sslc 10th result",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "mpsos result",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
