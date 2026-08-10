@@ -1,119 +1,82 @@
 {
-  "scanTime": "2026-08-08T07:04:30.029Z",
-  "elapsedSeconds": 127.1,
-  "changesDetected": 16,
+  "scanTime": "2026-08-10T07:54:31.417Z",
+  "elapsedSeconds": 134.6,
+  "changesDetected": 11,
   "noiseDetected": 0,
   "changes": [
     {
       "site": "IBPS",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://www.ibps.in/wp-content/uploads/PO_MT_Notice.pdf",
+      "noticeUrl": "https://www.ibps.in/wp-content/uploads/Window-Advt_CRP_CSA_XVI_for_Website.pdf",
       "url": "https://www.ibps.in/",
-      "detectedAt": "2026-08-08T07:02:56.668Z"
+      "detectedAt": "2026-08-10T07:52:50.143Z"
     },
     {
       "site": "SBI Careers",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://bank.sbi/webfiles/uploads/files_2627/08/JA_2026_Backlog_Detailed_Advt_ENG.pdf",
+      "type": "TEXT_NOTICE",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-08-08T07:02:58.521Z"
+      "detectedAt": "2026-08-10T07:52:54.225Z"
     },
     {
       "site": "RBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-08-08T07:02:55.371Z"
-    },
-    {
-      "site": "ICAI (CA)",
-      "type": "TEXT_NOTICE",
-      "url": "https://www.icai.org/",
-      "detectedAt": "2026-08-08T07:02:55.780Z"
+      "detectedAt": "2026-08-10T07:52:49.582Z"
     },
     {
       "site": "CRPF",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://crpf.gov.in/Upload/Tender/Draft%20QRsTDs%20of%20Pneumatic%20Telescopic%20Mast%20-HINDI-762.pdf",
+      "noticeUrl": "https://crpf.gov.in/Upload/Tender/NIT55BN-290.pdf",
       "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-08-08T07:03:16.114Z"
+      "detectedAt": "2026-08-10T07:53:09.312Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://crpf.gov.in/Upload/Tender/Tender_Notice_136062026-182.pdf",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-08-10T07:53:09.312Z"
     },
     {
       "site": "CISF",
       "type": "TEXT_NOTICE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-08-08T07:03:15.348Z"
+      "detectedAt": "2026-08-10T07:53:08.150Z"
     },
     {
       "site": "KVS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026080729.pdf",
+      "type": "TEXT_NOTICE",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-08-08T07:03:19.373Z"
-    },
-    {
-      "site": "KVS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026080734.pdf",
-      "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-08-08T07:03:19.373Z"
-    },
-    {
-      "site": "KVS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026080749.pdf",
-      "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-08-08T07:03:19.373Z"
-    },
-    {
-      "site": "KVS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026080788.pdf",
-      "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-08-08T07:03:19.373Z"
+      "detectedAt": "2026-08-10T07:53:11.300Z"
     },
     {
       "site": "UPPSC",
       "type": "TEXT_NOTICE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-08-08T07:03:36.283Z"
+      "detectedAt": "2026-08-10T07:53:27.234Z"
     },
     {
       "site": "MPPSC",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Written_Exam_Result_AP_Yogik_Vigyan_Exam_2025_Dated_07_08_2026.pdf",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-08-08T07:03:36.103Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Principal_Grade_II_DD_AD_Technical_Exam_2025_Dated_07_08_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-08-08T07:03:36.103Z"
-    },
-    {
-      "site": "MPPSC",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Written_Exam_Result_AP_Yogik_Vigyan_Exam_2025_Dated_07_08_2026.pdf",
-      "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-08-08T07:03:36.103Z"
+      "detectedAt": "2026-08-10T07:53:24.772Z"
     },
     {
       "site": "DSSSB",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/notice_no_194.pdf",
+      "noticeUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/img_0001_3_1.pdf",
       "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-08-08T07:04:11.044Z"
+      "detectedAt": "2026-08-10T07:54:04.219Z"
     },
     {
       "site": "UP Board",
       "type": "TEXT_NOTICE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-08-08T07:04:11.057Z"
+      "detectedAt": "2026-08-10T07:54:04.441Z"
     }
   ],
   "noiseChanges": [],
-  "errors": 24,
+  "errors": 25,
   "errorDetails": [
     {
       "site": "UPSC",
@@ -187,7 +150,7 @@
     {
       "site": "APPSC",
       "url": "https://psc.ap.gov.in/",
-      "error": "getaddrinfo EAI_AGAIN psc.ap.gov.in"
+      "error": "Timeout"
     },
     {
       "site": "TSPSC",
@@ -207,6 +170,11 @@
     {
       "site": "HPSC",
       "url": "https://www.hpsc.gov.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "JPSC",
+      "url": "https://www.jpsc.gov.in/",
       "error": "Timeout"
     },
     {
