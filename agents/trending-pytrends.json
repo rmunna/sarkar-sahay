@@ -1,69 +1,69 @@
 {
-  "scannedAt": "2026-08-08T13:17:11.012522",
+  "scannedAt": "2026-08-10T09:52:40.855720",
   "results": [
     {
-      "topic": "mpsos ruk jana 10th result",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "mpsos-result",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ruk jana nahi result 2026",
-      "category": "Realtime RSS (IN-RJ)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "sanjeeda shaikh dhamaal 4 role",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "nta",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ugc net",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "ugc-net-result-score-card-guide",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ssc result 2026",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "ruk jana nahi result 2026",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "nta",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": true,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "sanjeeda shaikh dhamaal 4 role",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "ssc result 2026",
+      "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": false,
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "covered": [
     {
-      "topic": "mpsos ruk jana 10th result",
+      "topic": "ugc net",
       "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": "mpsos-result",
-      "is_spike": true,
+      "guide_exists": "ugc-net-result-score-card-guide",
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "ruk jana nahi result 2026",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "ssc result 2026",
+      "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
