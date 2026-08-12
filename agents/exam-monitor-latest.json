@@ -1,82 +1,133 @@
 {
-  "scanTime": "2026-08-10T07:54:31.417Z",
-  "elapsedSeconds": 134.6,
-  "changesDetected": 11,
+  "scanTime": "2026-08-12T07:42:48.050Z",
+  "elapsedSeconds": 124.1,
+  "changesDetected": 18,
   "noiseDetected": 0,
   "changes": [
     {
+      "site": "NTA",
+      "type": "NEW_NOTICE",
+      "headline": "Provisional AnswerKey Public Notice CSIR NET, UGC NET, ICAR AIEEA (PG) &amp;,AICE (PhD)&nbsp;",
+      "date": "2026-08-10",
+      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260810134615.pdf",
+      "url": "https://nta.ac.in"
+    },
+    {
       "site": "IBPS",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://www.ibps.in/wp-content/uploads/Window-Advt_CRP_CSA_XVI_for_Website.pdf",
+      "noticeUrl": "https://ibpsonline.ibps.in/crppoxvipet/login.php?appid=66f2b7db8e6b1a9655c3c924093e384b",
       "url": "https://www.ibps.in/",
-      "detectedAt": "2026-08-10T07:52:50.143Z"
+      "detectedAt": "2026-08-12T07:41:26.652Z"
     },
     {
       "site": "SBI Careers",
-      "type": "TEXT_NOTICE",
+      "type": "LINK_CHANGE",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-08-10T07:52:54.225Z"
+      "detectedAt": "2026-08-12T07:41:22.040Z"
     },
     {
       "site": "RBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-08-10T07:52:49.582Z"
+      "detectedAt": "2026-08-12T07:41:15.868Z"
+    },
+    {
+      "site": "ICAI (CA)",
+      "type": "TEXT_NOTICE",
+      "url": "https://www.icai.org/",
+      "detectedAt": "2026-08-12T07:41:20.412Z"
     },
     {
       "site": "CRPF",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://crpf.gov.in/Upload/Tender/NIT55BN-290.pdf",
+      "noticeUrl": "https://crpf.gov.in/Upload/Tender/NIT004-770.pdf",
       "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-08-10T07:53:09.312Z"
-    },
-    {
-      "site": "CRPF",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://crpf.gov.in/Upload/Tender/Tender_Notice_136062026-182.pdf",
-      "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-08-10T07:53:09.312Z"
+      "detectedAt": "2026-08-12T07:41:38.614Z"
     },
     {
       "site": "CISF",
       "type": "TEXT_NOTICE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-08-10T07:53:08.150Z"
+      "detectedAt": "2026-08-12T07:41:37.682Z"
     },
     {
       "site": "KVS",
-      "type": "TEXT_NOTICE",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026081016.pdf",
       "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-08-10T07:53:11.300Z"
+      "detectedAt": "2026-08-12T07:41:40.937Z"
+    },
+    {
+      "site": "KVS",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026081212.pdf",
+      "url": "https://kvsangathan.nic.in/",
+      "detectedAt": "2026-08-12T07:41:40.937Z"
     },
     {
       "site": "UPPSC",
       "type": "TEXT_NOTICE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-08-10T07:53:27.234Z"
+      "detectedAt": "2026-08-12T07:41:54.814Z"
     },
     {
       "site": "MPPSC",
       "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Professor_Mathematics_Exam_2024_Dated_10_08_2026.pdf",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-08-10T07:53:24.772Z"
+      "detectedAt": "2026-08-12T07:41:55.249Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Principal_Grade_II_DD_AD_Technical_Exam_2024_Dated_10_08_2026.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-08-12T07:41:55.249Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mponline.gov.in/Portal/Examinations/MPPSC/2025/ASP24/CallLetter/login.aspx?Pid=AP29",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-08-12T07:41:55.249Z"
+    },
+    {
+      "site": "JPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://www.jpsc.gov.in/data/Press_Release_03_24_dated_10_08_2026.pdf",
+      "url": "https://www.jpsc.gov.in/",
+      "detectedAt": "2026-08-12T07:42:12.154Z"
     },
     {
       "site": "DSSSB",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/img_0001_3_1.pdf",
+      "noticeUrl": "https://cdn.digialm.com/EForms/configuredHtml/1258/101323/login.html",
       "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-08-10T07:54:04.219Z"
+      "detectedAt": "2026-08-12T07:42:28.784Z"
+    },
+    {
+      "site": "DSSSB",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://dsssb.delhi.gov.in/dsssb/notice-display-draft-answer-keys-online-computer-based-examination-various-examinations-0",
+      "url": "https://dsssb.delhi.gov.in/",
+      "detectedAt": "2026-08-12T07:42:28.784Z"
+    },
+    {
+      "site": "DSSSB",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://dsssb.delhi.gov.in/dsssb/notice-release-marks-tier-i-shortlisting-candidates-tier-ii-exam-post-assistant-editor-urdu",
+      "url": "https://dsssb.delhi.gov.in/",
+      "detectedAt": "2026-08-12T07:42:28.784Z"
     },
     {
       "site": "UP Board",
       "type": "TEXT_NOTICE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-08-10T07:54:04.441Z"
+      "detectedAt": "2026-08-12T07:42:28.972Z"
     }
   ],
   "noiseChanges": [],
-  "errors": 25,
+  "errors": 24,
   "errorDetails": [
     {
       "site": "UPSC",
@@ -170,11 +221,6 @@
     {
       "site": "HPSC",
       "url": "https://www.hpsc.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "JPSC",
-      "url": "https://www.jpsc.gov.in/",
       "error": "Timeout"
     },
     {
