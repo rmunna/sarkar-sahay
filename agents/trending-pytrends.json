@@ -1,27 +1,9 @@
 {
-  "scannedAt": "2026-08-10T09:52:40.855720",
+  "scannedAt": "2026-08-12T19:31:41.996071",
   "results": [
     {
-      "topic": "nta",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ugc net",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "ugc-net-result-score-card-guide",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ssc result 2026",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "csab round 2 result",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -31,17 +13,8 @@
   ],
   "opportunities": [
     {
-      "topic": "nta",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ssc result 2026",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "csab round 2 result",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -49,21 +22,11 @@
       "source": "realtime-rss"
     }
   ],
-  "covered": [
-    {
-      "topic": "ugc net",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "ugc-net-result-score-card-guide",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    }
-  ],
+  "covered": [],
   "spike_candidates": [
     {
-      "topic": "ssc result 2026",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "csab round 2 result",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
