@@ -1,32 +1,87 @@
 {
-  "scannedAt": "2026-08-12T19:31:41.996071",
+  "scannedAt": "2026-08-19T08:59:00.602320",
   "results": [
     {
-      "topic": "csab round 2 result",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "pgcet result 2026",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "mcc counselling 2026 neet ug",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "josaa-counselling-2026-iit-nit-seat-allotment-guide",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "wbjee",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": "wbjee-2026-exam-guide",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "sbi",
+      "category": "Realtime RSS (IN-OR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "csab round 2 result",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "pgcet result 2026",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
+    },
+    {
+      "topic": "sbi",
+      "category": "Realtime RSS (IN-OR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
     }
   ],
-  "covered": [],
+  "covered": [
+    {
+      "topic": "mcc counselling 2026 neet ug",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "josaa-counselling-2026-iit-nit-seat-allotment-guide",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "wbjee",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": "wbjee-2026-exam-guide",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    }
+  ],
   "spike_candidates": [
     {
-      "topic": "csab round 2 result",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "pgcet result 2026",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
