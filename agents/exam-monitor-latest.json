@@ -1,196 +1,257 @@
 {
-  "scanTime": "2026-08-17T07:08:17.239Z",
-  "elapsedSeconds": 124.4,
-  "changesDetected": 26,
+  "scanTime": "2026-08-23T06:53:49.847Z",
+  "elapsedSeconds": 164.4,
+  "changesDetected": 33,
   "noiseDetected": 0,
   "changes": [
     {
+      "site": "SSC",
+      "type": "NEW_NOTICE",
+      "headline": "Junior Engineer (Civil, Mechanical and Electrical) Examination, 2025: Uploading of Final Answer Keys along with Question Paper(s) cum Response Sheet(s) and Marks of Paper-II",
+      "date": "2026-08-21T12:49:39.858Z",
+      "id": "c5cac75b7l9yu2h32nb1m",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Final_Answer_Key_21082026.pdf",
+      "url": "https://ssc.gov.in"
+    },
+    {
+      "site": "SSC",
+      "type": "NEW_NOTICE",
+      "headline": "Important  Notice",
+      "date": "2026-08-21T12:44:11.826Z",
+      "id": "c3wbruo1zybty2gqcsoag",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/important_notice_21082026.pdf",
+      "url": "https://ssc.gov.in"
+    },
+    {
+      "site": "SSC",
+      "type": "NEW_NOTICE",
+      "headline": "IMPORTANT NOTICE:  Schedule of PET/PST for MTS (NT) and Havaldar Examination 2025",
+      "date": "2026-08-20T08:19:46.861Z",
+      "id": "7mwai2tmi9lnrlmtvfxu0",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_20082026.pdf",
+      "url": "https://ssc.gov.in"
+    },
+    {
+      "site": "SSC",
+      "type": "NEW_NOTICE",
+      "headline": "Corrigendum to First Round of Tentative Allocation (FRTA) dated 17.08.2026 of Combined Higher Secondary (10+2) Level Examination, 2025",
+      "date": "2026-08-19T11:13:16.545Z",
+      "id": "78no32a9g9o300xj1jtcv",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/corrigendum_19082026.pdf",
+      "url": "https://ssc.gov.in"
+    },
+    {
+      "site": "SSC",
+      "type": "NEW_NOTICE",
+      "headline": "Important  Notice",
+      "date": "2026-08-18T11:33:58.353Z",
+      "id": "kvivi074wdrnltkz7d2lb",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Important_Notice_18082026.pdf",
+      "url": "https://ssc.gov.in"
+    },
+    {
+      "site": "SSC",
+      "type": "NEW_NOTICE",
+      "headline": "Identity Verification (IV) for the candidates shortlisted in FRTA of Combined \r\nHigher Secondary (10+2) Level Examination (CHSLE), 2025 - reg",
+      "date": "2026-08-18T11:01:32.535Z",
+      "id": "6x26diroyww676b7wo3n5",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_18082026.pdf",
+      "url": "https://ssc.gov.in"
+    },
+    {
+      "site": "SSC",
+      "type": "NEW_NOTICE",
+      "headline": "Combined Higher Secondary (10+2) Level Examination, 2025 - Declaration of First Round of Tentative Allocation (FRTA)",
+      "date": "2026-08-17T13:12:38.122Z",
+      "id": "dv03dcoub7ohnf8utkw7j",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/FRTA_CHSLE_2025_17082026.pdf",
+      "url": "https://ssc.gov.in"
+    },
+    {
+      "site": "SSC",
+      "type": "NEW_NOTICE",
+      "headline": "Important Notice for Departmental examinations, 2025 to be held on 23.08.2026 at Delhi ",
+      "date": "2026-08-17T11:41:51.680Z",
+      "id": "s5k1e8wpoqrjiop9w9l1e",
+      "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Important_Notice_Departmental_Examinations_2025.pdf",
+      "url": "https://ssc.gov.in"
+    },
+    {
       "site": "NTA",
       "type": "NEW_NOTICE",
-      "headline": "Public Notice regarding Re-conduct of the English, Commerce and Sociology papers &nbsp;",
-      "date": "2026-08-16",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260816203522.pdf",
+      "headline": "Conduct of Re-Examination For Affected Candidates At Shri Satya Sai PG College, Jaipur&nbsp;",
+      "date": "2026-08-22",
+      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260822145116.pdf",
       "url": "https://nta.ac.in"
     },
     {
       "site": "NTA",
       "type": "NEW_NOTICE",
-      "headline": "sional Answer Keys and Question Papers with Recorded Responses for Inviting Challenges for ICAR AIEEA (PG) &amp; AICE- JRF/SRF (Ph.D.)–2026–reg.&nbsp;",
-      "date": "2026-08-16",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260816162703.pdf",
+      "headline": "ster Exams of the courses held  in Hybrid (CBT+ Pen &amp; Paper) Mode under the Study Webs of Active–Learning  for Young Aspiring Minds (SWAYAM)&nbsp;",
+      "date": "2026-08-19",
+      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260819144329.pdf",
       "url": "https://nta.ac.in"
     },
     {
       "site": "NTA",
       "type": "NEW_NOTICE",
-      "headline": "Public Notice regarding Challenge of Provisional Answer Keys for UGC-NET June 2026&nbsp;",
-      "date": "2026-08-16",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260816120713.pdf",
+      "headline": "Release of Admit Cards for All India Ayush Post Graduate Entrance Test (AIAPGET) – 2026&nbsp;",
+      "date": "2026-08-18",
+      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260818202733.pdf",
       "url": "https://nta.ac.in"
     },
     {
       "site": "NTA",
       "type": "NEW_NOTICE",
-      "headline": "Display of Provisional Answer Keys and Question Papers with recorded responses for the Answer Key Challenge of the Joint CSIR-UGC NET June 2026&nbsp;",
-      "date": "2026-08-16",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260816101710.pdf",
-      "url": "https://nta.ac.in"
-    },
-    {
-      "site": "NTA",
-      "type": "NEW_NOTICE",
-      "headline": "Advance Intimation of Examination City allotted to the applicants of the All India Ayush Post Graduate Entrance Test (AIAPGET) – 2026 - Reg.&nbsp;",
-      "date": "2026-08-13",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260813181124.pdf",
-      "url": "https://nta.ac.in"
-    },
-    {
-      "site": "NTA",
-      "type": "NEW_NOTICE",
-      "headline": "post of (a) Video Editor cum Graphic Designer, (b) English Content Writer, (c) Data Analyst cum Media Monitoring Executive &amp; (d) Researcher&nbsp;",
-      "date": "2026-08-13",
-      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260813154925.pdf",
+      "headline": "Extension of last date for inviting application for various posts in NTA on deputation basis&nbsp;",
+      "date": "2026-08-18",
+      "pdfUrl": "https://nta.ac.in/Download/Notice/Notice_20260818173806.pdf",
       "url": "https://nta.ac.in"
     },
     {
       "site": "IBPS",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://www.ibps.in/wp-content/uploads/Window-Advt_CRP_CSA_XVI_for_Website.pdf",
+      "noticeUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-for-extension_CRP_CSA_XVI.pdf",
       "url": "https://www.ibps.in/",
-      "detectedAt": "2026-08-17T07:06:45.771Z"
+      "detectedAt": "2026-08-23T06:51:39.947Z"
+    },
+    {
+      "site": "IBPS",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://www.ibps.in/wp-content/uploads/FInal-RFP-for-Online-Application.pdf",
+      "url": "https://www.ibps.in/",
+      "detectedAt": "2026-08-23T06:51:39.947Z"
     },
     {
       "site": "SBI Careers",
       "type": "LINK_CHANGE",
+      "noticeUrl": "https://bank.sbi/csfile/CBO_RESULT-2025-26_18-15-COLUMNS.pdf",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-08-17T07:06:47.194Z"
+      "detectedAt": "2026-08-23T06:51:41.725Z"
+    },
+    {
+      "site": "SBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://bank.sbi/documents/77530/0/corrigendum.pdf/98dc9b0d-9edb-7756-11ef-cd945e8bef42?t=1756993788841",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-08-23T06:51:41.725Z"
+    },
+    {
+      "site": "SBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://bank.sbi/documents/77530/43947057/020824-How+to+Apply.pdf/5dba09bb-47b2-1212-5f31-53c02fec6001?t=1722603063162",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-08-23T06:51:41.725Z"
+    },
+    {
+      "site": "SBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://bank.sbi/documents/77530/43947057/111124-NOTICE+FOR+ONLINE+WRITTEN+TEST.pdf/2f87602f-cd33-8057-4509-7f9dd779b4bf?t=1731329752491",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-08-23T06:51:41.725Z"
+    },
+    {
+      "site": "SBI Careers",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://bank.sbi/documents/77530/43947057/180724-CTC+Negotiation+Form.pdf",
+      "url": "https://bank.sbi/web/careers/current-openings",
+      "detectedAt": "2026-08-23T06:51:41.725Z"
     },
     {
       "site": "RBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-08-17T07:06:45.228Z"
+      "detectedAt": "2026-08-23T06:51:39.111Z"
+    },
+    {
+      "site": "ICAI (CA)",
+      "type": "TEXT_NOTICE",
+      "url": "https://www.icai.org/",
+      "detectedAt": "2026-08-23T06:51:39.579Z"
     },
     {
       "site": "CRPF",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://crpf.gov.in/Upload/Document/MBBS-BDS-298082026-132.pdf",
+      "noticeUrl": "https://crpf.gov.in/Upload/Document/Employment_opportunities_RIL304082026-170.pdf",
       "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-08-17T07:07:06.829Z"
+      "detectedAt": "2026-08-23T06:52:02.388Z"
     },
     {
       "site": "CRPF",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://crpf.gov.in/Upload/Document/PSM_&_MSM_Independence_Day_2026_302082026-166.pdf",
+      "noticeUrl": "https://crpf.gov.in/Upload/Tender/Draft%20QRs-TDs%20of%20Carrier%20Quad%20Cable%20-%20Hindi-273.pdf",
       "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-08-17T07:07:06.829Z"
+      "detectedAt": "2026-08-23T06:52:02.388Z"
     },
     {
       "site": "CRPF",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://crpf.gov.in/Upload/Tender/NIT009-753.pdf",
+      "noticeUrl": "https://crpf.gov.in/Upload/Tender/NIT55BN-290.pdf",
       "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-08-17T07:07:06.829Z"
-    },
-    {
-      "site": "CRPF",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://crpf.gov.in/Upload/Tender/NIT012-797.pdf",
-      "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-08-17T07:07:06.829Z"
-    },
-    {
-      "site": "CRPF",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://crpf.gov.in/Upload/Tender/Tender_notice_301082026-977.pdf",
-      "url": "https://crpf.gov.in/",
-      "detectedAt": "2026-08-17T07:07:06.829Z"
+      "detectedAt": "2026-08-23T06:52:02.388Z"
     },
     {
       "site": "CISF",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://cisf.gov.in/assets/pdfs/2026/08/dg_message_eng.pdf",
+      "type": "TEXT_NOTICE",
       "url": "https://cisf.gov.in/recruitment",
-      "detectedAt": "2026-08-17T07:07:05.559Z"
+      "detectedAt": "2026-08-23T06:51:56.030Z"
     },
     {
-      "site": "KVS",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026081386.pdf",
-      "url": "https://kvsangathan.nic.in/",
-      "detectedAt": "2026-08-17T07:07:08.571Z"
+      "site": "IGNOU",
+      "type": "TEXT_NOTICE",
+      "url": "https://ignou.ac.in/",
+      "detectedAt": "2026-08-23T06:52:32.162Z"
     },
     {
       "site": "UPPSC",
       "type": "TEXT_NOTICE",
       "url": "https://uppsc.up.nic.in/",
-      "detectedAt": "2026-08-17T07:07:22.811Z"
+      "detectedAt": "2026-08-23T06:52:32.206Z"
     },
     {
       "site": "MPPSC",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Chief_Chemist_2024_Dated_14_08_2026.pdf",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Assistant_Manager_Exam_2024_Dated_19_08_2026.pdf",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-08-17T07:07:22.688Z"
+      "detectedAt": "2026-08-23T06:52:30.963Z"
     },
     {
       "site": "MPPSC",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Manager_Exam_2024_Dated_13_08_2026.pdf",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Sports_Officer_Exam_2024_Dated_22_08_2026.pdf",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-08-17T07:07:22.688Z"
+      "detectedAt": "2026-08-23T06:52:30.963Z"
     },
     {
       "site": "MPPSC",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Obtained_Mark_List_Chief_Chemist_2024_Dated_14_08_2026.pdf",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Written_Exam_Result_Assistant_Professor_Geology_Exam_2025_Dated_18_08_2026.pdf",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-08-17T07:07:22.688Z"
+      "detectedAt": "2026-08-23T06:52:30.963Z"
     },
     {
       "site": "MPPSC",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Selection_List_Chief_Chemist_2024_Dated_14_08_2026.pdf",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Written_Exam_Result_Assistant_Professor_Law_Exam_2025_Dated_18_08_2026.pdf",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-08-17T07:07:22.688Z"
+      "detectedAt": "2026-08-23T06:52:30.963Z"
     },
     {
       "site": "MPPSC",
       "type": "LINK_CHANGE",
-      "noticeUrl": "https://mppsc.mponline.gov.in/Portal/Examinations/MPPSC/2026/SE25/CallLetter/Login.aspx",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Written_Exam_Result_Assistant_Professor_Psychology_Exam_2025_Dated_18_08_2026.pdf",
       "url": "https://mppsc.mp.gov.in/",
-      "detectedAt": "2026-08-17T07:07:22.688Z"
+      "detectedAt": "2026-08-23T06:52:30.963Z"
     },
     {
-      "site": "DSSSB",
+      "site": "UP Board",
       "type": "TEXT_NOTICE",
-      "url": "https://dsssb.delhi.gov.in/",
-      "detectedAt": "2026-08-17T07:07:58.088Z"
-    },
-    {
-      "site": "MP Board",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mpbse.nic.in/Bse_4719-4720_Order.PDF",
-      "url": "https://mpbse.nic.in/",
-      "detectedAt": "2026-08-17T07:08:13.762Z"
-    },
-    {
-      "site": "MP Board",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mpbse.nic.in/Bse_4723_4724-Time-Table%202027.PDF",
-      "url": "https://mpbse.nic.in/",
-      "detectedAt": "2026-08-17T07:08:13.762Z"
-    },
-    {
-      "site": "MP Board",
-      "type": "LINK_CHANGE",
-      "noticeUrl": "https://mpbse.nic.in/Bse_646_647_Fee_Affilation.PDF",
-      "url": "https://mpbse.nic.in/",
-      "detectedAt": "2026-08-17T07:08:13.762Z"
+      "url": "https://upmsp.edu.in/",
+      "detectedAt": "2026-08-23T06:53:08.391Z"
     }
   ],
   "noiseChanges": [],
-  "errors": 25,
+  "errors": 27,
   "errorDetails": [
     {
       "site": "UPSC",
@@ -232,6 +293,11 @@
       "error": "Timeout"
     },
     {
+      "site": "KVS",
+      "url": "https://kvsangathan.nic.in/",
+      "error": "Timeout"
+    },
+    {
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
       "error": ""
@@ -264,7 +330,7 @@
     {
       "site": "APPSC",
       "url": "https://psc.ap.gov.in/",
-      "error": "getaddrinfo EAI_AGAIN psc.ap.gov.in"
+      "error": "Timeout"
     },
     {
       "site": "TSPSC",
@@ -292,6 +358,16 @@
       "error": "Timeout"
     },
     {
+      "site": "CTET",
+      "url": "https://ctet.nic.in/",
+      "error": "Timeout"
+    },
+    {
+      "site": "DSSSB",
+      "url": "https://dsssb.delhi.gov.in/",
+      "error": "Timeout"
+    },
+    {
       "site": "Sainik School",
       "url": "https://aissee.nta.nic.in/",
       "error": "getaddrinfo ENOTFOUND aissee.nta.nic.in"
@@ -304,11 +380,6 @@
     {
       "site": "MSBTE",
       "url": "https://www.msbte.org.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "UP Board",
-      "url": "https://upmsp.edu.in/",
       "error": "Timeout"
     },
     {
