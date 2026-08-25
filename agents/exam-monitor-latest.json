@@ -1,42 +1,107 @@
 {
-  "scanTime": "2026-08-24T07:12:46.246Z",
-  "elapsedSeconds": 189.4,
-  "changesDetected": 3,
+  "scanTime": "2026-08-25T07:00:47.500Z",
+  "elapsedSeconds": 184.5,
+  "changesDetected": 13,
   "noiseDetected": 0,
   "changes": [
+    {
+      "site": "IBPS",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://www.ibps.in/wp-content/uploads/RFP-for-High-End-Workstation-Purchase-24.08.2026.pdf",
+      "url": "https://www.ibps.in/",
+      "detectedAt": "2026-08-25T06:58:34.231Z"
+    },
     {
       "site": "SBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://bank.sbi/web/careers/current-openings",
-      "detectedAt": "2026-08-24T07:10:46.653Z"
+      "detectedAt": "2026-08-25T06:58:36.640Z"
     },
     {
       "site": "RBI Careers",
       "type": "TEXT_NOTICE",
       "url": "https://opportunities.rbi.org.in/",
-      "detectedAt": "2026-08-24T07:10:40.403Z"
+      "detectedAt": "2026-08-25T06:58:33.720Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://crpf.gov.in/Upload/Tender/Draft%20QRs%20of%20Pneumatic%20Telescopic%20Mast%20Hindi-1-715.pdf",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-08-25T06:58:58.443Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://crpf.gov.in/Upload/Tender/Draft%20QRs%20of%20Radio%20Relay%20Equipment%20in%20Hindi-3-807.pdf",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-08-25T06:58:58.443Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://crpf.gov.in/Upload/Tender/NIT003-512.pdf",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-08-25T06:58:58.443Z"
+    },
+    {
+      "site": "CRPF",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://crpf.gov.in/Upload/Tender/NITT013-857.pdf",
+      "url": "https://crpf.gov.in/",
+      "detectedAt": "2026-08-25T06:58:58.443Z"
+    },
+    {
+      "site": "IGNOU",
+      "type": "TEXT_NOTICE",
+      "url": "https://ignou.ac.in/",
+      "detectedAt": "2026-08-25T06:59:24.403Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Written_Exam_Result_Assistant_Professor_Geography_Exam_2025_Dated_24_08_2026.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-08-25T06:59:22.104Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Professor_English_Exam_2024_Dated_24_08_2026.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-08-25T06:59:22.105Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/advertisement/Vigyapti_Assistant_Professor_Political_Science_Exam_2024_Dated_24_08_2026.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-08-25T06:59:22.105Z"
+    },
+    {
+      "site": "MPPSC",
+      "type": "LINK_CHANGE",
+      "noticeUrl": "https://mppsc.mp.gov.in/uploads/files/Written_Exam_Result_Assistant_Professor_Geography_Exam_2025_Dated_24_08_2026.pdf",
+      "url": "https://mppsc.mp.gov.in/",
+      "detectedAt": "2026-08-25T06:59:22.105Z"
     },
     {
       "site": "UP Board",
       "type": "TEXT_NOTICE",
       "url": "https://upmsp.edu.in/",
-      "detectedAt": "2026-08-24T07:12:12.868Z"
+      "detectedAt": "2026-08-25T07:00:13.045Z"
     }
   ],
   "noiseChanges": [],
-  "errors": 37,
+  "errors": 34,
   "errorDetails": [
     {
       "site": "SSC",
       "error": "Timeout"
     },
     {
-      "site": "NTA",
-      "error": "Timeout"
-    },
-    {
       "site": "UPSC",
-      "error": "getaddrinfo EAI_AGAIN upsc.gov.in"
+      "error": "Timeout"
     },
     {
       "site": "NABARD",
@@ -64,11 +129,6 @@
       "error": "Timeout"
     },
     {
-      "site": "CRPF",
-      "url": "https://crpf.gov.in/",
-      "error": "getaddrinfo EAI_AGAIN crpf.gov.in"
-    },
-    {
       "site": "CISF",
       "url": "https://cisf.gov.in/recruitment",
       "error": "Timeout"
@@ -76,7 +136,7 @@
     {
       "site": "BSF",
       "url": "https://rectt.bsf.gov.in/",
-      "error": "HTTP 403"
+      "error": "Timeout"
     },
     {
       "site": "ITBP",
@@ -96,11 +156,6 @@
     {
       "site": "NVS (Navodaya)",
       "url": "https://navodaya.gov.in/",
-      "error": "Timeout"
-    },
-    {
-      "site": "IGNOU",
-      "url": "https://ignou.ac.in/",
       "error": "Timeout"
     },
     {
@@ -124,14 +179,9 @@
       "error": "Timeout"
     },
     {
-      "site": "MPPSC",
-      "url": "https://mppsc.mp.gov.in/",
-      "error": "Timeout"
-    },
-    {
       "site": "RPSC",
       "url": "https://rpsc.rajasthan.gov.in/",
-      "error": "Timeout"
+      "error": ""
     },
     {
       "site": "TNPSC",
@@ -166,7 +216,12 @@
     {
       "site": "HPSC",
       "url": "https://www.hpsc.gov.in/",
-      "error": "getaddrinfo ENOTFOUND www.hpsc.gov.in"
+      "error": "Timeout"
+    },
+    {
+      "site": "JPSC",
+      "url": "https://www.jpsc.gov.in/",
+      "error": "Timeout"
     },
     {
       "site": "CGPSC",
@@ -174,14 +229,9 @@
       "error": "Timeout"
     },
     {
-      "site": "CTET",
-      "url": "https://ctet.nic.in/",
-      "error": "getaddrinfo EAI_AGAIN ctet.nic.in"
-    },
-    {
       "site": "DSSSB",
       "url": "https://dsssb.delhi.gov.in/",
-      "error": "getaddrinfo EAI_AGAIN dsssb.delhi.gov.in"
+      "error": "Timeout"
     },
     {
       "site": "Sainik School",
@@ -194,6 +244,11 @@
       "error": "HTTP 403"
     },
     {
+      "site": "RBSE Rajasthan",
+      "url": "https://rajeduboard.rajasthan.gov.in/",
+      "error": "Timeout"
+    },
+    {
       "site": "MSBTE",
       "url": "https://www.msbte.org.in/",
       "error": "Timeout"
@@ -201,7 +256,7 @@
     {
       "site": "Bihar Board",
       "url": "https://biharboardonline.bihar.gov.in/",
-      "error": "read ECONNRESET"
+      "error": "Timeout"
     },
     {
       "site": "MP Board",
