@@ -1,87 +1,87 @@
 {
-  "scannedAt": "2026-08-19T08:59:00.602320",
+  "scannedAt": "2026-08-25T09:03:41.621083",
   "results": [
     {
-      "topic": "pgcet result 2026",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "mcc counselling 2026 neet ug",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "josaa-counselling-2026-iit-nit-seat-allotment-guide",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "wbjee",
+      "topic": "dear lottery result today 1pm",
       "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
-      "guide_exists": "wbjee-2026-exam-guide",
+      "guide_exists": "petrol-diesel-price-check-today",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "voter",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": "voter-id-name-photo-dob-wrong-fix",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "sbi",
-      "category": "Realtime RSS (IN-OR)",
+      "topic": "icsi results",
+      "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": false,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "rrb ntpc result cbt 1",
+      "category": "Realtime RSS (IN-AP)",
+      "rising_value": 100,
+      "guide_exists": "rrb-ntpc-exam-guide",
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "pgcet result 2026",
-      "category": "Realtime RSS (IN)",
+      "topic": "icsi results",
+      "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "sbi",
-      "category": "Realtime RSS (IN-OR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "covered": [
     {
-      "topic": "mcc counselling 2026 neet ug",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "dear lottery result today 1pm",
+      "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
-      "guide_exists": "josaa-counselling-2026-iit-nit-seat-allotment-guide",
+      "guide_exists": "petrol-diesel-price-check-today",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "wbjee",
+      "topic": "voter",
       "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
-      "guide_exists": "wbjee-2026-exam-guide",
+      "guide_exists": "voter-id-name-photo-dob-wrong-fix",
       "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "rrb ntpc result cbt 1",
+      "category": "Realtime RSS (IN-AP)",
+      "rising_value": 100,
+      "guide_exists": "rrb-ntpc-exam-guide",
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "pgcet result 2026",
-      "category": "Realtime RSS (IN)",
+      "topic": "icsi results",
+      "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
