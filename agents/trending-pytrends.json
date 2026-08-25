@@ -1,27 +1,9 @@
 {
-  "scannedAt": "2026-08-25T09:03:41.621083",
+  "scannedAt": "2026-08-25T10:54:45.430805",
   "results": [
     {
-      "topic": "dear lottery result today 1pm",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": "petrol-diesel-price-check-today",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "voter",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": "voter-id-name-photo-dob-wrong-fix",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "icsi results",
-      "category": "Realtime RSS (IN-TN)",
+      "topic": "ctet exam date 2026",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -29,8 +11,17 @@
       "source": "realtime-rss"
     },
     {
+      "topic": "ctet",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
       "topic": "rrb ntpc result cbt 1",
-      "category": "Realtime RSS (IN-AP)",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": "rrb-ntpc-exam-guide",
       "is_spike": true,
@@ -40,37 +31,28 @@
   ],
   "opportunities": [
     {
-      "topic": "icsi results",
-      "category": "Realtime RSS (IN-TN)",
+      "topic": "ctet exam date 2026",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ctet",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "covered": [
     {
-      "topic": "dear lottery result today 1pm",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": "petrol-diesel-price-check-today",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "voter",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": "voter-id-name-photo-dob-wrong-fix",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
       "topic": "rrb ntpc result cbt 1",
-      "category": "Realtime RSS (IN-AP)",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": "rrb-ntpc-exam-guide",
       "is_spike": true,
@@ -80,8 +62,8 @@
   ],
   "spike_candidates": [
     {
-      "topic": "icsi results",
-      "category": "Realtime RSS (IN-TN)",
+      "topic": "ctet exam date 2026",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
