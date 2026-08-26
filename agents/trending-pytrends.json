@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-08-25T10:54:45.430805",
+  "scannedAt": "2026-08-26T10:55:01.456229",
   "results": [
     {
-      "topic": "ctet exam date 2026",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "uptet result 2026",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -11,28 +11,28 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "ctet",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "uptet result",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "delhi police",
+      "category": "Realtime RSS (IN-RJ)",
+      "rising_value": 100,
+      "guide_exists": "ap-police-constable-exam-guide",
       "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "rrb ntpc result cbt 1",
-      "category": "Realtime RSS (IN-OR)",
-      "rising_value": 100,
-      "guide_exists": "rrb-ntpc-exam-guide",
-      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "ctet exam date 2026",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "uptet result 2026",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -40,30 +40,39 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "ctet",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "uptet result",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": false,
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "covered": [
     {
-      "topic": "rrb ntpc result cbt 1",
-      "category": "Realtime RSS (IN-OR)",
+      "topic": "delhi police",
+      "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
-      "guide_exists": "rrb-ntpc-exam-guide",
-      "is_spike": true,
+      "guide_exists": "ap-police-constable-exam-guide",
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "ctet exam date 2026",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "uptet result 2026",
+      "category": "Realtime RSS (IN)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "uptet result",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
