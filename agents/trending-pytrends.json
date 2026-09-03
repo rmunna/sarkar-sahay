@@ -1,9 +1,36 @@
 {
-  "scannedAt": "2026-08-26T10:55:01.456229",
+  "scannedAt": "2026-09-03T00:21:35.122580",
   "results": [
     {
-      "topic": "uptet result 2026",
+      "topic": "kerala lottery results dl 67",
       "category": "Realtime RSS (IN)",
+      "rising_value": 100,
+      "guide_exists": "kerala-disability-pension-social-security",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "bigg boss 20 contestants list 2026",
+      "category": "Realtime RSS (IN)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "sbi po prelims",
+      "category": "Realtime RSS (IN-AP)",
+      "rising_value": 100,
+      "guide_exists": "upsc-cse-prelims-2026-answer-key",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "otet result 2026",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -11,19 +38,10 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "uptet result",
-      "category": "Realtime RSS (IN)",
+      "topic": "priority jewels ipo allotment status",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "delhi police",
-      "category": "Realtime RSS (IN-RJ)",
-      "rising_value": 100,
-      "guide_exists": "ap-police-constable-exam-guide",
+      "guide_exists": "ration-card-type-priority-antyodaya",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -31,17 +49,17 @@
   ],
   "opportunities": [
     {
-      "topic": "uptet result 2026",
+      "topic": "bigg boss 20 contestants list 2026",
       "category": "Realtime RSS (IN)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": true,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "uptet result",
-      "category": "Realtime RSS (IN)",
+      "topic": "otet result 2026",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -51,10 +69,28 @@
   ],
   "covered": [
     {
-      "topic": "delhi police",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "kerala lottery results dl 67",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": "ap-police-constable-exam-guide",
+      "guide_exists": "kerala-disability-pension-social-security",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "sbi po prelims",
+      "category": "Realtime RSS (IN-AP)",
+      "rising_value": 100,
+      "guide_exists": "upsc-cse-prelims-2026-answer-key",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "priority jewels ipo allotment status",
+      "category": "Realtime RSS (IN-MH)",
+      "rising_value": 100,
+      "guide_exists": "ration-card-type-priority-antyodaya",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -62,17 +98,8 @@
   ],
   "spike_candidates": [
     {
-      "topic": "uptet result 2026",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "uptet result",
-      "category": "Realtime RSS (IN)",
+      "topic": "otet result 2026",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
