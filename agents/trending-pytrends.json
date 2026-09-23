@@ -1,105 +1,95 @@
 {
-  "scannedAt": "2026-09-18T17:44:16.269669",
+  "scannedAt": "2026-09-23T18:26:47.936328",
   "results": [
     {
-      "topic": "aiims norcet 11 result 2026",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": "norcet-11-result",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "dusu election result",
+      "topic": "nse listing date",
       "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
-      "guide_exists": "election-commission-complaint",
-      "is_spike": true,
+      "guide_exists": null,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "suvarna keralam lottery results",
-      "category": "Realtime RSS (IN-TN)",
-      "rising_value": 100,
-      "guide_exists": "karnataka-suvarna-gramodaya-rural-development",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "norcet 11 result",
-      "category": "Realtime RSS (IN-RJ)",
-      "rising_value": 100,
-      "guide_exists": "norcet-11-result",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "aiapget 2026 result",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "ibps po result",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ibps po result 2026",
+      "category": "Realtime RSS (IN-TN)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "rakesh bedi",
+      "category": "Realtime RSS (IN-MH)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "aiapget 2026 result",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "nse listing date",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ibps po result",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
-    }
-  ],
-  "covered": [
-    {
-      "topic": "aiims norcet 11 result 2026",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": "norcet-11-result",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
     },
     {
-      "topic": "dusu election result",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": "election-commission-complaint",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "suvarna keralam lottery results",
+      "topic": "ibps po result 2026",
       "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
-      "guide_exists": "karnataka-suvarna-gramodaya-rural-development",
+      "guide_exists": null,
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "norcet 11 result",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "rakesh bedi",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
-      "guide_exists": "norcet-11-result",
-      "is_spike": true,
+      "guide_exists": null,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
+  "covered": [],
   "spike_candidates": [
     {
-      "topic": "aiapget 2026 result",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "ibps po result",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ibps po result 2026",
+      "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
