@@ -1,95 +1,51 @@
 {
-  "scannedAt": "2026-09-23T18:26:47.936328",
+  "scannedAt": "2026-09-24T17:20:11.413222",
   "results": [
     {
-      "topic": "nse listing date",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "lottery result",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ibps po result",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": null,
+      "guide_exists": "lottery-prize-money-tax-india-guide-2026",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "ibps po result 2026",
-      "category": "Realtime RSS (IN-TN)",
+      "topic": "neet pg result 2026",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "rakesh bedi",
-      "category": "Realtime RSS (IN-MH)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "nse listing date",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ibps po result",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "neet pg result 2026",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ibps po result 2026",
-      "category": "Realtime RSS (IN-TN)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "rakesh bedi",
-      "category": "Realtime RSS (IN-MH)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
-  "covered": [],
-  "spike_candidates": [
+  "covered": [
     {
-      "topic": "ibps po result",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "lottery result",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": null,
+      "guide_exists": "lottery-prize-money-tax-india-guide-2026",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
-    },
+    }
+  ],
+  "spike_candidates": [
     {
-      "topic": "ibps po result 2026",
-      "category": "Realtime RSS (IN-TN)",
+      "topic": "neet pg result 2026",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
