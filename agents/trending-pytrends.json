@@ -1,18 +1,36 @@
 {
-  "scannedAt": "2026-09-24T17:20:11.413222",
+  "scannedAt": "2026-09-28T20:36:46.290213",
   "results": [
     {
-      "topic": "lottery result",
-      "category": "Realtime RSS (IN)",
+      "topic": "pm awas yojana",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": "lottery-prize-money-tax-india-guide-2026",
-      "is_spike": true,
+      "guide_exists": "rashtriya-krishi-vikas-yojana",
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "neet pg result 2026",
+      "topic": "pm awas",
       "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ntr bharosa pension scheme",
+      "category": "Realtime RSS (IN-AP)",
+      "rising_value": 100,
+      "guide_exists": "startup-india-scheme-dpiit-registration",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ldc result 2026",
+      "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -22,8 +40,17 @@
   ],
   "opportunities": [
     {
-      "topic": "neet pg result 2026",
+      "topic": "pm awas",
       "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ldc result 2026",
+      "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -33,19 +60,28 @@
   ],
   "covered": [
     {
-      "topic": "lottery result",
-      "category": "Realtime RSS (IN)",
+      "topic": "pm awas yojana",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": "lottery-prize-money-tax-india-guide-2026",
-      "is_spike": true,
+      "guide_exists": "rashtriya-krishi-vikas-yojana",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ntr bharosa pension scheme",
+      "category": "Realtime RSS (IN-AP)",
+      "rising_value": 100,
+      "guide_exists": "startup-india-scheme-dpiit-registration",
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "neet pg result 2026",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "ldc result 2026",
+      "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
