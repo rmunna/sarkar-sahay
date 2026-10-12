@@ -1,46 +1,55 @@
 {
-  "scannedAt": "2026-09-28T20:36:46.290213",
+  "scannedAt": "2026-10-12T23:04:43.892926",
   "results": [
     {
-      "topic": "pm awas yojana",
+      "topic": "kerala lottery results",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": "kerala-caste-certificate-apply-online",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ssc gd result",
       "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "rashtriya-krishi-vikas-yojana",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "pm awas",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ntr bharosa pension scheme",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
-      "guide_exists": "startup-india-scheme-dpiit-registration",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ldc result 2026",
-      "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "david bedingham",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "atalanta vs venezia",
+      "category": "Realtime RSS (IN-WB)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "pm awas",
+      "topic": "ssc gd result",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "david bedingham",
       "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
@@ -49,39 +58,30 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "ldc result 2026",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "atalanta vs venezia",
+      "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": true,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "covered": [
     {
-      "topic": "pm awas yojana",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "kerala lottery results",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
-      "guide_exists": "rashtriya-krishi-vikas-yojana",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ntr bharosa pension scheme",
-      "category": "Realtime RSS (IN-AP)",
-      "rising_value": 100,
-      "guide_exists": "startup-india-scheme-dpiit-registration",
-      "is_spike": false,
+      "guide_exists": "kerala-caste-certificate-apply-online",
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "ldc result 2026",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "ssc gd result",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
