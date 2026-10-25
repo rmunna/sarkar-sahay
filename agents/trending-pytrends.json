@@ -1,78 +1,114 @@
 {
-  "scannedAt": "2026-10-12T23:04:43.892926",
+  "scannedAt": "2026-10-25T04:55:47.538163",
   "results": [
     {
-      "topic": "kerala lottery results",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "karunya lottery results",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": "kerala-caste-certificate-apply-online",
+      "guide_exists": "kl-karunya-health",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "ssc gd result",
+      "topic": "jee mains",
       "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "david bedingham",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": null,
+      "guide_exists": "sbi-clerk-2026-mains-result",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "atalanta vs venezia",
+      "topic": "atlanta united vs chicago fire fc standings",
       "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "pm kisan",
+      "category": "Realtime RSS (IN-KA)",
+      "rising_value": 100,
+      "guide_exists": "pm-kisan-payment-not-received-fix",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "sarpanch result",
+      "category": "Realtime RSS (IN-RJ)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "jee mains 2027 registration",
+      "category": "Realtime RSS (IN-MH)",
+      "rising_value": 100,
+      "guide_exists": "startup-india-scheme-dpiit-registration",
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "ssc gd result",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "david bedingham",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "atalanta vs venezia",
+      "topic": "atlanta united vs chicago fire fc standings",
       "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
+    },
+    {
+      "topic": "sarpanch result",
+      "category": "Realtime RSS (IN-RJ)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
     }
   ],
   "covered": [
     {
-      "topic": "kerala lottery results",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "karunya lottery results",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": "kerala-caste-certificate-apply-online",
+      "guide_exists": "kl-karunya-health",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "jee mains",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "sbi-clerk-2026-mains-result",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "pm kisan",
+      "category": "Realtime RSS (IN-KA)",
+      "rising_value": 100,
+      "guide_exists": "pm-kisan-payment-not-received-fix",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "jee mains 2027 registration",
+      "category": "Realtime RSS (IN-MH)",
+      "rising_value": 100,
+      "guide_exists": "startup-india-scheme-dpiit-registration",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -80,8 +116,8 @@
   ],
   "spike_candidates": [
     {
-      "topic": "ssc gd result",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "sarpanch result",
+      "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
