@@ -1,56 +1,47 @@
 {
-  "scannedAt": "2026-10-25T04:55:47.538163",
+  "scannedAt": "2026-10-27T14:39:50.850071",
   "results": [
     {
-      "topic": "karunya lottery results",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "kl-karunya-health",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "jee mains",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "sbi-clerk-2026-mains-result",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "atlanta united vs chicago fire fc standings",
+      "topic": "ayushman bharat card",
       "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
-      "guide_exists": null,
+      "guide_exists": "pm-tb-mukt-bharat-ni-kshay-mitra",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "pm kisan",
+      "topic": "bihar mlc election 2026 result",
       "category": "Realtime RSS (IN-KA)",
       "rising_value": 100,
-      "guide_exists": "pm-kisan-payment-not-received-fix",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "sarpanch result",
-      "category": "Realtime RSS (IN-RJ)",
-      "rising_value": 100,
-      "guide_exists": null,
+      "guide_exists": "bihar-kishori-swasthya-karyakram-nutrition",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "jee mains 2027 registration",
+      "topic": "mlc election result",
+      "category": "Realtime RSS (IN-TN)",
+      "rising_value": 100,
+      "guide_exists": "election-commission-complaint",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "voter",
+      "category": "Realtime RSS (IN-RJ)",
+      "rising_value": 100,
+      "guide_exists": "voter-id-new-apply-online",
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "mlc result 2026",
       "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
-      "guide_exists": "startup-india-scheme-dpiit-registration",
+      "guide_exists": null,
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -58,17 +49,8 @@
   ],
   "opportunities": [
     {
-      "topic": "atlanta united vs chicago fire fc standings",
-      "category": "Realtime RSS (IN-WB)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "sarpanch result",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "mlc result 2026",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -78,46 +60,46 @@
   ],
   "covered": [
     {
-      "topic": "karunya lottery results",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "ayushman bharat card",
+      "category": "Realtime RSS (IN-WB)",
       "rising_value": 100,
-      "guide_exists": "kl-karunya-health",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "jee mains",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "sbi-clerk-2026-mains-result",
+      "guide_exists": "pm-tb-mukt-bharat-ni-kshay-mitra",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "pm kisan",
+      "topic": "bihar mlc election 2026 result",
       "category": "Realtime RSS (IN-KA)",
       "rising_value": 100,
-      "guide_exists": "pm-kisan-payment-not-received-fix",
-      "is_spike": false,
+      "guide_exists": "bihar-kishori-swasthya-karyakram-nutrition",
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "jee mains 2027 registration",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "mlc election result",
+      "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
-      "guide_exists": "startup-india-scheme-dpiit-registration",
+      "guide_exists": "election-commission-complaint",
       "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "voter",
+      "category": "Realtime RSS (IN-RJ)",
+      "rising_value": 100,
+      "guide_exists": "voter-id-new-apply-online",
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "sarpanch result",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "mlc result 2026",
+      "category": "Realtime RSS (IN-MH)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
