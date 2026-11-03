@@ -1,27 +1,18 @@
 {
-  "scannedAt": "2026-10-27T14:39:50.850071",
+  "scannedAt": "2026-11-03T19:38:05.784813",
   "results": [
     {
-      "topic": "ayushman bharat card",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "cbse date sheet 2027 class 10",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": "pm-tb-mukt-bharat-ni-kshay-mitra",
+      "guide_exists": "nmms-scholarship-class-8-apply",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "bihar mlc election 2026 result",
-      "category": "Realtime RSS (IN-KA)",
-      "rising_value": 100,
-      "guide_exists": "bihar-kishori-swasthya-karyakram-nutrition",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "mlc election result",
-      "category": "Realtime RSS (IN-TN)",
+      "topic": "ap election results",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": "election-commission-complaint",
       "is_spike": true,
@@ -29,17 +20,17 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "voter",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "epfo",
+      "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
-      "guide_exists": "voter-id-new-apply-online",
+      "guide_exists": null,
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "mlc result 2026",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "us midterm elections results",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -49,8 +40,17 @@
   ],
   "opportunities": [
     {
-      "topic": "mlc result 2026",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "epfo",
+      "category": "Realtime RSS (IN-TN)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "us midterm elections results",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -60,46 +60,28 @@
   ],
   "covered": [
     {
-      "topic": "ayushman bharat card",
-      "category": "Realtime RSS (IN-WB)",
+      "topic": "cbse date sheet 2027 class 10",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": "pm-tb-mukt-bharat-ni-kshay-mitra",
+      "guide_exists": "nmms-scholarship-class-8-apply",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "bihar mlc election 2026 result",
-      "category": "Realtime RSS (IN-KA)",
-      "rising_value": 100,
-      "guide_exists": "bihar-kishori-swasthya-karyakram-nutrition",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "mlc election result",
-      "category": "Realtime RSS (IN-TN)",
+      "topic": "ap election results",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
       "guide_exists": "election-commission-complaint",
       "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "voter",
-      "category": "Realtime RSS (IN-RJ)",
-      "rising_value": 100,
-      "guide_exists": "voter-id-new-apply-online",
-      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "mlc result 2026",
-      "category": "Realtime RSS (IN-MH)",
+      "topic": "us midterm elections results",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
