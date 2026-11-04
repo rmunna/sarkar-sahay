@@ -1,36 +1,27 @@
 {
-  "scannedAt": "2026-11-03T19:38:05.784813",
+  "scannedAt": "2026-11-04T18:04:06.013692",
   "results": [
     {
-      "topic": "cbse date sheet 2027 class 10",
+      "topic": "ssc cgl answer key 2026",
       "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": "nmms-scholarship-class-8-apply",
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ap election results",
-      "category": "Realtime RSS (IN-BR)",
-      "rising_value": 100,
-      "guide_exists": "election-commission-complaint",
+      "guide_exists": "ssc-cgl-vs-upsc-cse-comparison",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "epfo",
-      "category": "Realtime RSS (IN-TN)",
+      "topic": "jeevan pramaan",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
-      "guide_exists": null,
+      "guide_exists": "pm-jeevan-jyoti-bima-yojana-pmjjby",
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "us midterm elections results",
-      "category": "Realtime RSS (IN-OR)",
+      "topic": "basic computer instructor result 2026",
+      "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -40,17 +31,8 @@
   ],
   "opportunities": [
     {
-      "topic": "epfo",
-      "category": "Realtime RSS (IN-TN)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "us midterm elections results",
-      "category": "Realtime RSS (IN-OR)",
+      "topic": "basic computer instructor result 2026",
+      "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
@@ -60,28 +42,28 @@
   ],
   "covered": [
     {
-      "topic": "cbse date sheet 2027 class 10",
+      "topic": "ssc cgl answer key 2026",
       "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": "nmms-scholarship-class-8-apply",
-      "is_spike": false,
+      "guide_exists": "ssc-cgl-vs-upsc-cse-comparison",
+      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "ap election results",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "jeevan pramaan",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
-      "guide_exists": "election-commission-complaint",
-      "is_spike": true,
+      "guide_exists": "pm-jeevan-jyoti-bima-yojana-pmjjby",
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "us midterm elections results",
-      "category": "Realtime RSS (IN-OR)",
+      "topic": "basic computer instructor result 2026",
+      "category": "Realtime RSS (IN-RJ)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
