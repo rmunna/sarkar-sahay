@@ -1,11 +1,47 @@
 {
-  "scannedAt": "2026-11-04T18:04:06.013692",
+  "scannedAt": "2026-11-09T20:51:26.401104",
   "results": [
     {
-      "topic": "ssc cgl answer key 2026",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "jensen huang net worth",
+      "category": "Realtime RSS (IN)",
       "rising_value": 100,
-      "guide_exists": "ssc-cgl-vs-upsc-cse-comparison",
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "ibps rrb po prelims admit card download",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": "cbse-board-exam-admit-card-fix",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "fmge exam result",
+      "category": "Realtime RSS (IN-UP)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "admit card ibps rrb po",
+      "category": "Realtime RSS (IN-KA)",
+      "rising_value": 100,
+      "guide_exists": "cbse-board-exam-admit-card-fix",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "icse isc 2027 exam schedule live",
+      "category": "Realtime RSS (IN-KA)",
+      "rising_value": 100,
+      "guide_exists": "election-date-schedule-check",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -20,10 +56,19 @@
       "source": "realtime-rss"
     },
     {
-      "topic": "basic computer instructor result 2026",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "alice huang",
+      "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
       "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "rrb po admit card 2026",
+      "category": "Realtime RSS (IN-RJ)",
+      "rising_value": 100,
+      "guide_exists": "cbse-board-exam-admit-card-fix",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -31,21 +76,57 @@
   ],
   "opportunities": [
     {
-      "topic": "basic computer instructor result 2026",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "jensen huang net worth",
+      "category": "Realtime RSS (IN)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "fmge exam result",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "alice huang",
+      "category": "Realtime RSS (IN-OR)",
+      "rising_value": 100,
+      "guide_exists": null,
+      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "covered": [
     {
-      "topic": "ssc cgl answer key 2026",
-      "category": "Realtime RSS (IN-BR)",
+      "topic": "ibps rrb po prelims admit card download",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
-      "guide_exists": "ssc-cgl-vs-upsc-cse-comparison",
+      "guide_exists": "cbse-board-exam-admit-card-fix",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "admit card ibps rrb po",
+      "category": "Realtime RSS (IN-KA)",
+      "rising_value": 100,
+      "guide_exists": "cbse-board-exam-admit-card-fix",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "icse isc 2027 exam schedule live",
+      "category": "Realtime RSS (IN-KA)",
+      "rising_value": 100,
+      "guide_exists": "election-date-schedule-check",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
@@ -58,12 +139,21 @@
       "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
+    },
+    {
+      "topic": "rrb po admit card 2026",
+      "category": "Realtime RSS (IN-RJ)",
+      "rising_value": 100,
+      "guide_exists": "cbse-board-exam-admit-card-fix",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "basic computer instructor result 2026",
-      "category": "Realtime RSS (IN-RJ)",
+      "topic": "fmge exam result",
+      "category": "Realtime RSS (IN-UP)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
