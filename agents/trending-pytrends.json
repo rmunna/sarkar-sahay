@@ -1,159 +1,87 @@
 {
-  "scannedAt": "2026-11-09T20:51:26.401104",
+  "scannedAt": "2026-11-17T22:29:35.963912",
   "results": [
     {
-      "topic": "jensen huang net worth",
-      "category": "Realtime RSS (IN)",
+      "topic": "mcc neet pg counselling 2026",
+      "category": "Realtime RSS (IN-BR)",
+      "rising_value": 100,
+      "guide_exists": "neet-ug-2026-cutoff-rank-counselling-guide",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "sthree sakthi kerala lottery results",
+      "category": "Realtime RSS (IN-TN)",
+      "rising_value": 100,
+      "guide_exists": "kerala-karunya-lottery-treatment-fund",
+      "is_spike": true,
+      "is_scheme": false,
+      "source": "realtime-rss"
+    },
+    {
+      "topic": "nvidia results",
+      "category": "Realtime RSS (IN-TG)",
       "rising_value": 100,
       "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "ibps rrb po prelims admit card download",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": "cbse-board-exam-admit-card-fix",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "fmge exam result",
-      "category": "Realtime RSS (IN-UP)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "admit card ibps rrb po",
-      "category": "Realtime RSS (IN-KA)",
-      "rising_value": 100,
-      "guide_exists": "cbse-board-exam-admit-card-fix",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "icse isc 2027 exam schedule live",
-      "category": "Realtime RSS (IN-KA)",
-      "rising_value": 100,
-      "guide_exists": "election-date-schedule-check",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "jeevan pramaan",
+      "topic": "epfo passbook",
       "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
-      "guide_exists": "pm-jeevan-jyoti-bima-yojana-pmjjby",
+      "guide_exists": "epf-passbook-balance-check-online",
       "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "alice huang",
-      "category": "Realtime RSS (IN-OR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "rrb po admit card 2026",
-      "category": "Realtime RSS (IN-RJ)",
-      "rising_value": 100,
-      "guide_exists": "cbse-board-exam-admit-card-fix",
-      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "opportunities": [
     {
-      "topic": "jensen huang net worth",
-      "category": "Realtime RSS (IN)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "fmge exam result",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "nvidia results",
+      "category": "Realtime RSS (IN-TG)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "alice huang",
-      "category": "Realtime RSS (IN-OR)",
-      "rising_value": 100,
-      "guide_exists": null,
-      "is_spike": false,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "covered": [
     {
-      "topic": "ibps rrb po prelims admit card download",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "mcc neet pg counselling 2026",
+      "category": "Realtime RSS (IN-BR)",
       "rising_value": 100,
-      "guide_exists": "cbse-board-exam-admit-card-fix",
+      "guide_exists": "neet-ug-2026-cutoff-rank-counselling-guide",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "admit card ibps rrb po",
-      "category": "Realtime RSS (IN-KA)",
+      "topic": "sthree sakthi kerala lottery results",
+      "category": "Realtime RSS (IN-TN)",
       "rising_value": 100,
-      "guide_exists": "cbse-board-exam-admit-card-fix",
+      "guide_exists": "kerala-karunya-lottery-treatment-fund",
       "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     },
     {
-      "topic": "icse isc 2027 exam schedule live",
-      "category": "Realtime RSS (IN-KA)",
-      "rising_value": 100,
-      "guide_exists": "election-date-schedule-check",
-      "is_spike": true,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "jeevan pramaan",
+      "topic": "epfo passbook",
       "category": "Realtime RSS (IN-OR)",
       "rising_value": 100,
-      "guide_exists": "pm-jeevan-jyoti-bima-yojana-pmjjby",
+      "guide_exists": "epf-passbook-balance-check-online",
       "is_spike": false,
-      "is_scheme": false,
-      "source": "realtime-rss"
-    },
-    {
-      "topic": "rrb po admit card 2026",
-      "category": "Realtime RSS (IN-RJ)",
-      "rising_value": 100,
-      "guide_exists": "cbse-board-exam-admit-card-fix",
-      "is_spike": true,
       "is_scheme": false,
       "source": "realtime-rss"
     }
   ],
   "spike_candidates": [
     {
-      "topic": "fmge exam result",
-      "category": "Realtime RSS (IN-UP)",
+      "topic": "nvidia results",
+      "category": "Realtime RSS (IN-TG)",
       "rising_value": 100,
       "guide_exists": null,
       "is_spike": true,
